@@ -5,77 +5,59 @@
 permissions-window =
     .title = Eithriadau
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Cyfeiriad y wefan
     .accesskey = y
-
 permissions-block =
     .label = Rhwystro
     .accesskey = R
-
 permissions-session =
     .label = Caniatáu ar gyfer y Sesiwn
     .accesskey = S
-
 permissions-allow =
     .label = Caniatáu
     .accesskey = a
-
 permissions-button-off =
     .label = Diffodd
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Diffodd Dros Dro
     .accesskey = D
-
 permissions-site-name =
     .label = Gwefan
-
 permissions-status =
     .label = Statws
-
 permissions-remove =
     .label = Tynnu Gwefan
     .accesskey = T
-
 permissions-remove-all =
     .label = Tynnu Pob Gwefan
     .accesskey = G
-
 permission-dialog =
     .buttonlabelaccept = Cadw Newidiadau
     .buttonaccesskeyaccept = N
-
 permissions-autoplay-menu = Y rhagosodedig am bob gwefan:
-
 permissions-searchbox =
     .placeholder = Chwilio'r Wefan
-
 permissions-capabilities-autoplay-allow =
     .label = Caniatáu Sain a Fideo
 permissions-capabilities-autoplay-block =
     .label = Rhwystro Sain
 permissions-capabilities-autoplay-blockall =
     .label = Rhwystro Sain a Fideo
-
 permissions-capabilities-allow =
     .label = Caniatáu
 permissions-capabilities-block =
     .label = Rhwystro
 permissions-capabilities-prompt =
     .label = Gofyn bob Tro
-
 permissions-capabilities-listitem-allow =
     .value = Caniatáu
 permissions-capabilities-listitem-block =
     .value = Rhwystro
 permissions-capabilities-listitem-allow-session =
     .value = Caniatáu ar gyfer y Sesiwn
-
 permissions-capabilities-listitem-off =
     .value = Diffodd
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +94,9 @@ permissions-exceptions-https-only-desc = Gallwch ddiffodd Modd HTTPS-yn-Unig ar 
 permissions-exceptions-popup-window =
     .title = Gwefannau Caniatawyd - Llamlenni
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Gwefannau Caniatawyd - Llamlenni
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Mae modd pennu pa wefannau sy'n cael agor ffenestri llamlen. Teipiwch union gyfeiriad y wefan rydych am ei ganiatáu ac yna clicio Caniatáu.
 
 ## Exceptions - Saved Logins
@@ -126,6 +111,9 @@ permissions-exceptions-saved-logins-desc = Ni fydd mewngofnodion i'r gwefannau c
 permissions-exceptions-addons-window =
     .title = Gwefannau Caniatawyd - Gosod Ychwanegion
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Gwefannau Caniatawyd - Gosod Ychwanegion
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Gallwch enwi pa wefannau sy'n cael gosod ychwanegion. Teipiwch yr union gyfeiriad gwe rydych am ei chaniatáu ac yna clicio Caniatáu.
 
 ## Site Permissions - Autoplay
@@ -140,6 +128,9 @@ permissions-site-autoplay-desc = Gallwch reoli'r gwefannau nad ydynt yn eu dilyn
 permissions-site-notification-window =
     .title = Gosodiadau - Caniatáu Hysbysiadau
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Gosodiadau - Caniatáu Hysbysiadau
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Mae'r gwefannau canlynol wedi gofyn i gael anfon hysbysiadau atoch. Gallwch bennu pa wefannau sy'n cael anfon hysbysiadau atoch. Gallwch hefyd rwystro ceisiadau newydd sy'n gofyn i ganiatáu hysbysiadau.
 permissions-site-notification-disable-label =
     .label = Rhwystro ceisiadau newydd i ganiatáu hysbysiadau
@@ -150,6 +141,9 @@ permissions-site-notification-disable-desc = Bydd hyn yn rhwystro unrhyw wefan s
 permissions-site-location-window =
     .title = Gosodiadau - Caniatáu Hysbysiadau
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Gosodiadau - Caniatáu Hysbysiadau
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Mae'r gwefannau canlynol wedi gofyn i gael mynediad at eich lleoliad. Gallwch bennu pa wefannau sy'n cael mynediad at eich lleoliad. Gallwch hefyd rwystro ceisiadau newydd sy'n gofyn i gael mynediad at eich lleoliad.
 permissions-site-location-disable-label =
     .label = Rhwystro ceisiadau newydd sy'n gofyn i gael mynediad at eich lleoliad
@@ -170,6 +164,9 @@ permissions-site-xr-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd heb ei
 permissions-site-camera-window =
     .title = Gosodiadau - Caniatâd Camera
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Gosodiadau - Caniatâd Camera
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Mae'r gwefannau canlynol wedi gofyn i gael mynediad i'ch camera. Gallwch bennu pa wefannau sy'n cael mynediad at eich camera. Gallwch hefyd rwystro ceisiadau newydd sy'n gofyn i gael mynediad at eich camera.
 permissions-site-camera-disable-label =
     .label = Rhwystro ceisiadau newydd sy'n gofyn i gael mynediad at eich camera
@@ -180,6 +177,9 @@ permissions-site-camera-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd he
 permissions-site-microphone-window =
     .title = Gosodiadau - Caniatâd Meicroffon
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Gosodiadau - Caniatâd Meicroffon
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Mae'r gwefannau canlynol wedi gofyn i gael mynediad at eich meicroffon. Gallwch bennu pa wefannau sy'n cael mynediad at eich meicroffon. Gallwch hefyd rwystro ceisiadau newydd sy'n gofyn i gael mynediad at eich meicroffon.
 permissions-site-microphone-disable-label =
     .label = Rhwystro ceisiadau newydd sy'n gofyn i gael mynediad at eich meicroffon
