@@ -5,6 +5,9 @@
 permissions-window =
     .title = വിട്ടുവീഴ്ചകള്‍
     .style = width: 45em
+permissions-window2 =
+    .title = വിട്ടുവീഴ്ചകള്‍
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = വെബ്സൈറ്റിന്റെ വിലാസം
