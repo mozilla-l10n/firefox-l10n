@@ -5,77 +5,59 @@
 permissions-window =
     .title = Excepciones
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Dirección del sitio web
     .accesskey = D
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-session =
     .label = Permitir por esta sesión
     .accesskey = s
-
 permissions-allow =
     .label = Permitir
     .accesskey = i
-
 permissions-button-off =
     .label = Desactivar
     .accesskey = v
-
 permissions-button-off-temporarily =
     .label = Desactivar temporalmente
     .accesskey = T
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Eliminar sitio
     .accesskey = r
-
 permissions-remove-all =
     .label = Eliminar todos los sitios
     .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Guardar cambios
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Predeterminado para todos los sitios web:
-
 permissions-searchbox =
     .placeholder = Buscar sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir audio y video
 permissions-capabilities-autoplay-block =
     .label = Bloquear audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear audio y video
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar siempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir por esta sesión
-
 permissions-capabilities-listitem-off =
     .value = Desactivado
 permissions-capabilities-listitem-off-temporarily =
@@ -140,6 +122,9 @@ permissions-site-autoplay-desc = Aquí puede administrar los sitios que no sigue
 permissions-site-notification-window =
     .title = Configuración: Permisos de notificación
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Configuración: Permisos de notificación
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Los siguientes sitios solicitaron enviarle notificaciones. Puede especificar los sitios autorizados a enviarle notificaciones. También puede bloquear nuevas solicitudes.
 permissions-site-notification-disable-label =
     .label = Bloquear nuevas solicitudes de envío de notificaciones
