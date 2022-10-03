@@ -5,6 +5,9 @@
 permissions-window =
     .title = Pengecualian
     .style = width: 45em
+permissions-window2 =
+    .title = Pengecualian
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Alamat laman web
