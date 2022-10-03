@@ -123,6 +123,9 @@ permissions-exceptions-saved-logins-desc = Паролі для таких веб
 permissions-exceptions-addons-window =
     .title = Дозволені вебсайти - Встановлення додатків
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Дозволені вебсайти - Встановлення додатків
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Ви можете вказати, яким сайтам дозволено встановлювати додатки. Введіть точну адресу кожного сайту і натисніть кнопку Дозволити.
 
 ## Site Permissions - Autoplay
