@@ -349,6 +349,9 @@ auto-mark-as-read =
 mark-read-no-delay =
     .label = Άμεσα κατά την προβολή
     .accesskey = μ
+view-attachments-inline =
+    .label = Εμφάνιση συνημμένων ένθετα
+    .accesskey = μ
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
