@@ -10,6 +10,9 @@ containers-window-new =
 containers-window-update-settings =
     .title = Behållarinställningar för { $name }
     .style = width: 45em
+containers-window-new2 =
+    .title = Lägg till ny behållare
+    .style = min-width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
