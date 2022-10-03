@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Digite um nome de servidor válido
 permissions-exceptions-etp-window =
     .title = Exceções à proteção aprimorada contra rastreamento
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Exceções à proteção aprimorada contra rastreamento
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Você desativou proteções nestes sites.
 
 ## Exceptions - Cookies
@@ -90,6 +93,9 @@ permissions-exceptions-cookie-desc = Você pode especificar alguns sites para se
 permissions-exceptions-https-only-window =
     .title = Exceções - Modo somente HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Exceções - Modo somente HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Você pode desativar o modo somente HTTPS em sites específicos. O { -brand-short-name } não tenta mudar a conexão para HTTPS seguro nesses sites. As exceções não se aplicam em janelas privativas.
 
 ## Exceptions - Pop-ups
@@ -97,6 +103,9 @@ permissions-exceptions-https-only-desc = Você pode desativar o modo somente HTT
 permissions-exceptions-popup-window =
     .title = Sites permitidos - Abertura de janelas
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sites permitidos - Abertura de janelas
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Você pode especificar que sites têm permissão para abrir janelas. Digite o endereço exato de um site e clique em Permitir.
 
 ## Exceptions - Saved Logins
@@ -121,6 +130,9 @@ permissions-exceptions-addons-desc = Você pode especificar que sites têm permi
 permissions-site-autoplay-window =
     .title = Configurações - Reprodução automática
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Configurações - Reprodução automática
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Você pode gerenciar aqui os sites que não devem seguir sua configuração padrão de reprodução automática.
 
 ## Site Permissions - Notifications
@@ -148,6 +160,9 @@ permissions-site-location-disable-desc = Isso impede que qualquer site solicite 
 permissions-site-xr-window =
     .title = Configurações - Permissões de realidade virtual
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Configurações - Permissões de realidade virtual
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Os seguintes sites solicitaram acesso a seus dispositivos de realidade virtual. Você pode especificar quais sites podem acessar seus dispositivos de realidade virtual. Também pode bloquear novas solicitações de permissão de acesso a seus dispositivos de realidade virtual.
 permissions-site-xr-disable-label =
     .label = Bloquear novas solicitações de permissão para acessar seus dispositivos de realidade virtual
