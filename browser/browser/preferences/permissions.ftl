@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = Olet poistanut suojaukset käytöstä näillä
 permissions-exceptions-cookie-window =
     .title = Poikkeukset - Evästeet ja sivustotiedot
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Poikkeukset - Evästeet ja sivustotiedot
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Määrätyt sivustot saavat tai eivät saa asettaa evästeitä ja tallentaa tietoja tietokoneellesi. Kirjoita sivuston osoite ja napsauta Salli, Salli istunnon ajaksi tai Estä.
 
 ## Exceptions - HTTPS-Only Mode
@@ -127,6 +130,9 @@ permissions-exceptions-addons-desc = Lisäosia voidaan asentaa määrätyiltä s
 permissions-site-autoplay-window =
     .title = Asetukset - Automaattinen toisto
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Asetukset - Automaattinen toisto
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Tässä voit hallita sivustoja, jotka eivät noudata automaattisen toiston oletusasetuksia.
 
 ## Site Permissions - Notifications
