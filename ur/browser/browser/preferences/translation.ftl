@@ -5,36 +5,29 @@
 translation-window =
     .title = مستثنیات - ترجمہ
     .style = width: 36em
-
+translation-window2 =
+    .title = مستثنیات - ترجمہ
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = مندرجہ ذیل زبانوں کے لئے ترجمہ پیش نہیں کیا جائے گا
-
 translation-languages-column =
     .label = زبانیں
-
 translation-languages-button-remove =
     .label = زبان ہٹائیں
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = تمام زبانیں ہٹائیں
     .accesskey = e
-
 translation-sites-disabled-desc = مندرجہ ذیل سائٹ کے لئے ترجمہ پیش نہیں کیا جائے گا
-
 translation-sites-column =
     .label = ويب سائٹس
-
 translation-sites-button-remove =
     .label = سائٹ ہٹائیں
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = تمام سائٹیں ہٹائیں
     .accesskey = i
-
 translation-dialog =
     .buttonlabelaccept = بند کریں
     .buttonaccesskeyaccept = C

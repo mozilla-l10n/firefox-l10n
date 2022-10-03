@@ -5,77 +5,62 @@
 permissions-window =
     .title = استثنیات
     .style = width: 45em
-
+permissions-window2 =
+    .title = استثنیات
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = ویب سائٹ کا پتہ
     .accesskey = d
-
 permissions-block =
     .label = بلاک کریں
     .accesskey = B
-
 permissions-session =
     .label = سیشن کے لیے اجازت دیں
     .accesskey = S
-
 permissions-allow =
     .label = اجازت دیں
     .accesskey = A
-
 permissions-button-off =
     .label = بند کریں
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = عارضی طور پر بندکریں
     .accesskey = T
-
 permissions-site-name =
     .label = ويب سائٹ
-
 permissions-status =
     .label = حالت
-
 permissions-remove =
     .label = ویب سائٹ ہٹائیں
     .accesskey = R
-
 permissions-remove-all =
     .label = تمام ویب سائٹیں ہٹائیں
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = تبدیلیاں محفوظ کریں
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = تمام ویب سائٹس کے لئے پہلے سے طے شدہ:
-
 permissions-searchbox =
     .placeholder = ویبسائٹ تلاش کریں
-
 permissions-capabilities-autoplay-allow =
     .label = آڈیو اور ویڈیو کی اجازت دیں
 permissions-capabilities-autoplay-block =
     .label = آڈیو کو مسدود کریں۔
 permissions-capabilities-autoplay-blockall =
     .label = آڈیو اور ویڈیو کو مسدود کریں
-
 permissions-capabilities-allow =
     .label = اجازت دیں
 permissions-capabilities-block =
     .label = بلاک کریں
 permissions-capabilities-prompt =
     .label = ہمیشہ پوچھیں
-
 permissions-capabilities-listitem-allow =
     .value = اجازت دیں
 permissions-capabilities-listitem-block =
     .value = بلاک کریں
 permissions-capabilities-listitem-allow-session =
     .value = سیشن کے لیے اجازت دیں
-
 permissions-capabilities-listitem-off =
     .value = ‏‏بندکریں
 permissions-capabilities-listitem-off-temporarily =
@@ -115,6 +100,9 @@ permissions-exceptions-popup-desc = آپ اختصاص کر سکتے ہیں کہ 
 permissions-exceptions-saved-logins-window =
     .title = استثنیات ۔ محفوظ شدہ لاگ ان
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = استثنیات ۔ محفوظ شدہ لاگ ان
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = درج ذیل ویب سائٹس کے لئے لاگ ان کو محفوظ نہیں کیا جائے گا
 
 ## Exceptions - Add-ons
