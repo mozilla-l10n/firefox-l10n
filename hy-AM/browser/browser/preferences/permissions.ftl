@@ -5,6 +5,9 @@
 permissions-window =
     .title = Բացառումներ
     .style = width: 45em
+permissions-window2 =
+    .title = Բացառումներ
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Կայքի հասցեն
@@ -90,6 +93,9 @@ permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ
 permissions-exceptions-saved-logins-window =
     .title = Բացառություններ՝ պահված մուտքագրումներ
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Բացառություններ՝ պահված մուտքագրումներ
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Հետևյալ կայքերի մուտքագրումները չեն պահպանվի
 
 ## Exceptions - Add-ons
