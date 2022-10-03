@@ -5,33 +5,26 @@
 translation-window =
     .title = Keucuwali - Teujeumah
     .style = width: 36em
-
+translation-window2 =
+    .title = Keucuwali - Teujeumah
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Teujeumah han jipeutaba keu bhasa-bhasa di miyub nyoe
-
 translation-languages-column =
     .label = Bahsa
-
 translation-languages-button-remove =
     .label = Sampôh Bahsa
     .accesskey = h
-
 translation-languages-button-remove-all =
     .label = Sampôh Bandum Bahsa
     .accesskey = a
-
 translation-sites-disabled-desc = Teujeumah han jipeutaba keu situs-situs di miyub nyoe
-
 translation-sites-column =
     .label = Situs Wèb
-
 translation-sites-button-remove =
     .label = Sampôh Situs
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = Sampôh Bandum Situs
     .accesskey = i
-
