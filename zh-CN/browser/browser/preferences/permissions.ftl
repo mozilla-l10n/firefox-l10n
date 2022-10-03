@@ -76,6 +76,9 @@ permissions-invalid-uri-label = 请输入合法的主机名
 permissions-exceptions-etp-window =
     .title = 例外 - 增强型跟踪保护
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = 例外 - 增强型跟踪保护
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = 你已关闭对下列网站的保护。
 
 ## Exceptions - Cookies
@@ -130,6 +133,9 @@ permissions-exceptions-addons-desc = 您可以指定哪些网站可以安装附�
 permissions-site-autoplay-window =
     .title = 设置 - 自动播放
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = 设置 - 自动播放
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = 您可以在此处管理不遵从默认自动播放设置的网站。
 
 ## Site Permissions - Notifications
@@ -163,6 +169,9 @@ permissions-site-location-disable-desc = 所有列表外的网站将无法请求
 permissions-site-xr-window =
     .title = 设置 - 虚拟现实权限
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = 设置 - 虚拟现实权限
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = 下列网站曾请求使用您的虚拟现实设备。您可选择允许哪些网站使用您的虚拟现实设备，也可禁止提出对虚拟现实设备的权限请求。
 permissions-site-xr-disable-label =
     .label = 禁止网站提出虚拟现实设备使用请求
