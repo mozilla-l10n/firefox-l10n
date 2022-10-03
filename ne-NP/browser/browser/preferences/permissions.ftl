@@ -101,12 +101,18 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 permissions-site-notification-window =
     .title = सेटिङस् - सूचना अनुमतिहरु
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = सेटिङस् - सूचना अनुमतिहरु
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = सेटिङस् - स्थान अनुमतिहरु
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = सेटिङस् - स्थान अनुमतिहरु
+    .style = { permissions-window2.style }
 permissions-site-location-disable-label =
     .label = तपाईंको स्थान सोध्ने अनुरोधहरूलाई ब्लक गर्नुहोस्
 
@@ -118,9 +124,15 @@ permissions-site-location-disable-label =
 permissions-site-camera-window =
     .title = सेटिङस् - क्यामेरा अनुमतिहरु
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = सेटिङस् - क्यामेरा अनुमतिहरु
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = सेटिङस् - माइक्रोफोन अनुमतिहरु
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = सेटिङस् - माइक्रोफोन अनुमतिहरु
+    .style = { permissions-window2.style }
