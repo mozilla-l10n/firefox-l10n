@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = คุณสามารถระบุเ�
 permissions-exceptions-https-only-window =
     .title = ข้อยกเว้น - โหมด HTTPS-Only
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = ข้อยกเว้น - โหมด HTTPS-Only
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = คุณสามารถปิดโหมด HTTPS-Only สำหรับแต่ละเว็บไซต์ได้ { -brand-short-name } จะไม่พยายามอัปเกรดการเชื่อมต่อเป็น HTTPS แบบปลอดภัยสำหรับไซต์เหล่านั้น ข้อยกเว้นจะไม่นำไปใช้กับหน้าต่างส่วนตัว
 
 ## Exceptions - Pop-ups
@@ -113,6 +116,9 @@ permissions-exceptions-popup-desc = คุณสามารถระบุเ�
 permissions-exceptions-saved-logins-window =
     .title = ข้อยกเว้น - การเข้าสู่ระบบที่บันทึกไว้
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = ข้อยกเว้น - การเข้าสู่ระบบที่บันทึกไว้
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = การเข้าสู่ระบบสำหรับเว็บไซต์ต่อไปนี้จะไม่ถูกบันทึก
 
 ## Exceptions - Add-ons
