@@ -349,6 +349,9 @@ auto-mark-as-read =
 mark-read-no-delay =
     .label = Негайно після відкриття
     .accesskey = г
+view-attachments-inline =
+    .label = Показувати вкладення вбудовано
+    .accesskey = к
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
