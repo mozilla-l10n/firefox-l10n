@@ -5,10 +5,11 @@
 containers-window-new =
     .title = ಹೊಸ ಕಂಟೈನರ್ ಸೇರಿಸಿ
     .style = width: 45em
-
+containers-window-new2 =
+    .title = ಹೊಸ ಕಂಟೈನರ್ ಸೇರಿಸಿ
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,22 +20,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = ಹೆಸರು
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = ಕಂಟೈನರ್ ಹೆಸರು ನಮೂದಿಸಿ
-
 containers-icon-label = ಲಾಂಛನ
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = ಬಣ್ಣ
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-color-blue =
     .label = ನೀಲಿ
 containers-color-turquoise =
@@ -51,7 +47,6 @@ containers-color-pink =
     .label = ಗುಲಾಬಿ
 containers-color-purple =
     .label = ನೇರಳೆ
-
 containers-icon-fingerprint =
     .label = ಬೆರಳಚ್ಚು
 containers-icon-briefcase =

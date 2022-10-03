@@ -5,49 +5,37 @@
 permissions-window =
     .title = ವಿನಾಯಿತಿಗಳು
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ಜಾಲತಾಣದ ವಿಳಾಸ
     .accesskey = d
-
 permissions-block =
     .label = ನಿರ್ಬಂಧಿಸು
     .accesskey = B
-
 permissions-session =
     .label = ಅಧಿವೇಶನಕ್ಕೆ ಅನುಮತಿಸು
     .accesskey = S
-
 permissions-allow =
     .label = ಅನುಮತಿಸು
     .accesskey = A
-
 permissions-site-name =
     .label = ಜಾಲತಾಣ
-
 permissions-status =
     .label = ಸ್ಥಿತಿ
-
 permissions-remove =
     .label = ಜಾಲತಾಣವನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = R
-
 permissions-remove-all =
     .label = ಎಲ್ಲಾ ಜಾಲತಾಣಗಳನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = e
-
 permissions-searchbox =
     .placeholder = ಜಾಲತಾಣವನ್ನು ಹುಡುಕು
-
 permissions-capabilities-allow =
     .label = ಅನುಮತಿಸು
 permissions-capabilities-block =
     .label = ನಿರ್ಬಂಧಿಸು
 permissions-capabilities-prompt =
     .label = ಯಾವಾಗಲೂ ಕೇಳು
-
 permissions-capabilities-listitem-allow =
     .value = ಅನುಮತಿಸು
 permissions-capabilities-listitem-block =
@@ -62,10 +50,12 @@ permissions-invalid-uri-label = ದಯವಿಟ್ಟು ಒಂದು ಮಾನ�
 
 ## Exceptions - Tracking Protection
 
+
 ## Exceptions - Cookies
 
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
@@ -76,14 +66,16 @@ permissions-exceptions-popup-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಪು
 permissions-exceptions-saved-logins-window =
     .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
+    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅನುಮತಿ ಇದೆ ಎಂದು ನೀವು ಸೂಚಿಸಬಹುದು. ನೀವು ಅನುಮತಿಸಲು ಬಯಸುವ ತಾಣದ ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ನಂತರ ಅನುಮತಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -93,14 +85,21 @@ permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆ�
 
 ## Site Permissions - Virtual Reality
 
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
+    .style = { permissions-window2.style }
