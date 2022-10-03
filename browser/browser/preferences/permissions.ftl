@@ -62,6 +62,9 @@ permissions-invalid-uri-label = Pe piaxei inserisci un nomme de host valido
 permissions-exceptions-cookie-window =
     .title = Eceçioin - Cookie e Dæti di Sciti
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Eceçioin - Cookie e Dæti di Sciti
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ti peu anche decidde quali sciti peuan de longo ò mai deuviâ cookie e dæti di sciti.  Scrivi ben l'indirisso ezatto di sciti che ti veu gestî e pöi sciacca Blòcca, Permetti pe sescion ò Permetti.
 
 ## Exceptions - HTTPS-Only Mode
