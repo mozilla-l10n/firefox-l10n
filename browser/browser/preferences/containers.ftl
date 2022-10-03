@@ -5,16 +5,16 @@
 containers-window-new =
     .title = أضف حاوية جديدة
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = إعدادات الحاوية { $name }
     .style = width: 45em
-
+containers-window-new2 =
+    .title = أضف حاوية جديدة
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +25,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = الاسم
     .accesskey = س
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = أدخِل اسم الحاوية
-
 containers-icon-label = الأيقونة
     .accesskey = ق
     .style = { -containers-labels-style }
-
 containers-color-label = اللون
     .accesskey = ل
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = تم
     .buttonaccesskeyaccept = ت
-
 containers-color-blue =
     .label = أزرق
 containers-color-turquoise =
@@ -63,7 +57,6 @@ containers-color-purple =
     .label = أرجواني
 containers-color-toolbar =
     .label = لون يتطابق مع شريط الأدوات
-
 containers-icon-fence =
     .label = سياج
 containers-icon-fingerprint =
