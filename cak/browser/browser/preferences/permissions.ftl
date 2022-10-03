@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = Xe'achüp ri taq chajinïk pa re taq ajk'amaya
 permissions-exceptions-cookie-window =
     .title = Taq Man Relik ta - Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Taq Man Relik ta - Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Yatikïr naya' ketal ri taq ajk'amaya'l ruxaq junelïk o majub'ey nikokisaj kaxlanwey o kitzij ruxaq.  Tatz'ib'aj ri tz'aqät rochochib'al ruxaq nawajo' nanuk'samajij k'a ri' tapitz'a' pa Tiq'at, Tiya' Q'ij chi re ri Molojri'ïl, o Tiya' Q'ij.
 
 ## Exceptions - HTTPS-Only Mode
