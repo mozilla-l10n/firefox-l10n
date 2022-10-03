@@ -5,6 +5,9 @@
 permissions-window =
     .title = Esceptoj
     .style = width: 36em
+permissions-window2 =
+    .title = Esceptoj
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = Adreso de retejo
@@ -73,6 +76,9 @@ permissions-invalid-uri-label = Bonvolu tajpi validan servilan nomon
 permissions-exceptions-etp-window =
     .title = Esceptoj por la plibonigita protekto kontraŭ spurado
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Esceptoj por la plibonigita protekto kontraŭ spurado
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Vi malŝaltis la protekton en tiuj ĉi retejoj.
 
 ## Exceptions - Cookies
@@ -107,6 +113,9 @@ permissions-exceptions-popup-desc = Vi povas difini kiuj retejoj rajtas malfermi
 permissions-exceptions-saved-logins-window =
     .title = Esceptoj - konservitaj legitimiloj
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Esceptoj - konservitaj legitimiloj
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Akreditiloj por la jenaj retejoj ne estos konservitaj
 
 ## Exceptions - Add-ons
@@ -124,6 +133,9 @@ permissions-exceptions-addons-desc = Vi povas difini, kiuj retejoj havos la perm
 permissions-site-autoplay-window =
     .title = Agordoj - aŭtomata ludado
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Agordoj - aŭtomata ludado
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Tie ĉi vi povas administri la retejojn, kiuj ne kongruas kun viaj normaj agordoj de automata ludado.
 
 ## Site Permissions - Notifications
