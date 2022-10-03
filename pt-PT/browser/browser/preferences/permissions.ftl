@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Por favor introduza um nome de servidor válido
 permissions-exceptions-etp-window =
     .title = Exceções para a Proteção melhorada contra a monitorização
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Exceções para a Proteção melhorada contra a monitorização
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Desativou as proteções nestes sites.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = Pode especificar quais os sites que podem, 
 permissions-exceptions-https-only-window =
     .title = Exceções - modo apenas HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Exceções - modo apenas HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Pode desativar o modo apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro  para estes sites. As exceções não se aplicam a janelas privadas.
 
 ## Exceptions - Pop-ups
@@ -100,6 +106,9 @@ permissions-exceptions-https-only-desc = Pode desativar o modo apenas HTTPS para
 permissions-exceptions-popup-window =
     .title = Sites permitidos - Pop-ups
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sites permitidos - Pop-ups
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Pode especificar quais os sites que têm permissão para abrir janelas pop-up. Introduza o endereço exato do site que pretende permitir e depois clique em Permitir.
 
 ## Exceptions - Saved Logins
@@ -117,6 +126,9 @@ permissions-exceptions-saved-logins-desc = Não serão guardadas as credenciais 
 permissions-exceptions-addons-window =
     .title = Sites permitidos - Instalação de Extras
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sites permitidos - Instalação de Extras
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Pode especificar quais os sites que têm permissão para instalar extras. Digite o endereço exato do site que pretende permitir e depois clique em Permitir.
 
 ## Site Permissions - Autoplay
