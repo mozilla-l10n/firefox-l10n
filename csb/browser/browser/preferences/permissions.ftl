@@ -5,30 +5,26 @@
 permissions-window =
     .title = Wëjimczi
     .style = width: 36em
-
+permissions-window2 =
+    .title = Wëjimczi
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Blokùjë
     .accesskey = B
-
 permissions-session =
     .label = Zezwòlë dlô sesje
     .accesskey = s
-
 permissions-allow =
     .label = Zezwòlë
     .accesskey = z
-
 permissions-status =
     .label = Stón
-
 permissions-capabilities-allow =
     .label = Zezwòlë
 permissions-capabilities-block =
     .label = Blokùjë
-
 permissions-capabilities-listitem-allow =
     .value = Zezwòlë
 permissions-capabilities-listitem-block =
@@ -49,6 +45,7 @@ permissions-invalid-uri-label = Wpiszë pòprôwné miono hòsta
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Mòżesz wëbrac, chtërne stronë mògą òtmëkac wëskakùjącé òkna. Wpiszë akùratny adres stronë, chtërny chcesz na to dac zgòdã, i klëkni na Zezwòlë.
@@ -60,10 +57,8 @@ permissions-exceptions-popup-desc = Mòżesz wëbrac, chtërne stronë mògą ò
 
 permissions-exceptions-addons-desc = Mòżesz wëbrac, chtërne stronë mògą instalowac dodôwczi. Wpiszë akùratny adres stronë, chtërny chcesz na to dac zgòdã, i klëkni na Zezwòlë.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -72,6 +67,7 @@ permissions-exceptions-addons-desc = Mòżesz wëbrac, chtërne stronë mògą i
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
