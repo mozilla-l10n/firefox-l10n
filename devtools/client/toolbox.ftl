@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Processus parent uniquement
 toolbox-mode-parent-process-sub-label = (Rapide)
 toolbox-mode-parent-process-container =
     .title = Focalisé sur les seules ressources du processus parent
+toolbox-always-on-top-enabled =
+    .title = Désactiver l’option « toujours au premier plan » (cette action redémarre les outils de développement)
+toolbox-always-on-top-disabled =
+    .title = Activer l’option « toujours au premier plan » (cette action redémarre les outils de développement)
