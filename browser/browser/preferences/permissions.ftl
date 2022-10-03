@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Hãy nhập một tên máy chủ có thực
 permissions-exceptions-etp-window =
     .title = Các ngoại lệ cho trình chống theo dõi nâng cao
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Các ngoại lệ cho trình chống theo dõi nâng cao
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Bạn đã tắt bảo vệ trên các trang web này.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Bạn đã tắt bảo vệ trên các trang w
 permissions-exceptions-cookie-window =
     .title = Ngoại lệ - Cookie và dữ liệu trang web
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Ngoại lệ - Cookie và dữ liệu trang web
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nào luôn hoặc không bao giờ được phép sử dụng cookie và dữ liệu trang web. Nhập địa chỉ chính xác của trang web bạn muốn quản lý và sau đó nhấp vào Chặn, Chỉ cho phép với phiên này hoặc Cho phép.
 
 ## Exceptions - HTTPS-Only Mode
@@ -90,6 +96,9 @@ permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nà
 permissions-exceptions-https-only-window =
     .title = Ngoại trừ - Chế độ chỉ HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Ngoại trừ - Chế độ chỉ HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không cố gắng nâng cấp kết nối để bảo mật HTTPS cho các trang web đó. Các trường hợp ngoại lệ không áp dụng cho các cửa sổ riêng tư.
 
 ## Exceptions - Pop-ups
@@ -97,6 +106,9 @@ permissions-exceptions-https-only-desc = Bạn có thể tắt Chế độ chỉ
 permissions-exceptions-popup-window =
     .title = Những trang được cho phép - Cửa sổ bật lên
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Những trang được cho phép - Cửa sổ bật lên
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang được phép bật cửa sổ bật lên. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
 
 ## Exceptions - Saved Logins
@@ -124,6 +136,9 @@ permissions-exceptions-addons-desc = Bạn có thể chỉ định trang web nà
 permissions-site-autoplay-window =
     .title = Cài đặt - Tự động phát
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Cài đặt - Tự động phát
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Bạn có thể quản lý các trang web không tuân theo cài đặt tự động phát mặc định của bạn tại đây.
 
 ## Site Permissions - Notifications
@@ -131,6 +146,9 @@ permissions-site-autoplay-desc = Bạn có thể quản lý các trang web khôn
 permissions-site-notification-window =
     .title = Cài đặt - Quyền thông báo
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Cài đặt - Quyền thông báo
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Các trang web dưới đây đã yêu cầu để gửi thông báo tới bạn. Bạn có thể chỉ định những trang web nào được phép gửi bạn thông báo. Bạn cũng có thể chặn những yêu cầu mà bạn không muốn cho phép.
 permissions-site-notification-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép gửi thông báo
@@ -154,6 +172,9 @@ permissions-site-location-disable-desc = Điều này sẽ ngăn chặn bất c�
 permissions-site-xr-window =
     .title = Cài đặt - Quyền thực tế ảo
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Cài đặt - Quyền thực tế ảo
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Các trang web sau đây đã yêu cầu truy cập các thiết bị thực tế ảo của bạn. Bạn có thể chỉ định trang web nào được phép truy cập các thiết bị thực tế ảo của mình. Bạn cũng có thể chặn các yêu cầu mới mà nó yêu cầu truy cập các thiết bị thực tế ảo của mình.
 permissions-site-xr-disable-label =
     .label = Chặn các yêu cầu mới mà nó yêu cầu truy cập các thiết bị thực tế ảo của bạn
