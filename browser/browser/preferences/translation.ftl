@@ -5,36 +5,29 @@
 translation-window =
     .title = Undtagelser for oversættelse
     .style = width: 36em
-
+translation-window2 =
+    .title = Undtagelser for oversættelse
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Der vil ikke blive tilbudt oversættelse for de følgende sprog:
-
 translation-languages-column =
     .label = Sprog
-
 translation-languages-button-remove =
     .label = Fjern sprog
     .accesskey = F
-
 translation-languages-button-remove-all =
     .label = Fjern alle sprog
     .accesskey = a
-
 translation-sites-disabled-desc = Oversættelse vil ikke blive tilbudt for de følgende websteder:
-
 translation-sites-column =
     .label = Websteder
-
 translation-sites-button-remove =
     .label = Fjern websted
     .accesskey = j
-
 translation-sites-button-remove-all =
     .label = Fjern alle websteder
     .accesskey = l
-
 translation-dialog =
     .buttonlabelaccept = Luk
     .buttonaccesskeyaccept = u
