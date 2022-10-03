@@ -123,8 +123,6 @@ other-action-redirect-msg =
 message-header-msg-flagged =
     .title = Con estrella
     .aria-label = Con estrella
-message-header-msg-not-flagged =
-    .title = Mensaje no marcado con estrella
 # Variables:
 # $address (String) - The email address of the recipient this picture belongs to.
 message-header-recipient-avatar =
@@ -155,6 +153,9 @@ message-header-hide-label-column =
 message-header-large-subject =
     .label = Asunto grande
     .accesskey = s
+message-header-all-headers =
+    .label = Mostrar todos los encabezados
+    .accesskey = a
 
 ## Action Button Context Menu
 
@@ -232,18 +233,6 @@ settings-context-open-addons-item2 =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Abrir menú de Espacios
-spaces-pinned-button-menuitem-mail =
-    .label = { spaces-toolbar-button-mail2.title }
-spaces-pinned-button-menuitem-address-book =
-    .label = { spaces-toolbar-button-address-book2.title }
-spaces-pinned-button-menuitem-calendar =
-    .label = { spaces-toolbar-button-calendar2.title }
-spaces-pinned-button-menuitem-tasks =
-    .label = { spaces-toolbar-button-tasks2.title }
-spaces-pinned-button-menuitem-chat =
-    .label = { spaces-toolbar-button-chat2.title }
-spaces-pinned-button-menuitem-settings =
-    .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-mail2 =
     .label = { spaces-toolbar-button-mail2.title }
 spaces-pinned-button-menuitem-address-book2 =
