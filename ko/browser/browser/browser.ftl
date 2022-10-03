@@ -273,56 +273,56 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = 부가 기능
-quickactions-cmd-addons = 부가 기능, 확장 기능, 테마
-quickactions-cmd-addons2 = 부가 기능
+quickactions-cmd-addons = 부가 기능, 확장 기능, 테마, add-ons, extensions, themes
+quickactions-cmd-addons2 = 부가 기능, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks = 북마크
-quickactions-cmd-bookmarks = 북마크
+quickactions-cmd-bookmarks = 북마크, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 기록 지우기
-quickactions-cmd-clearhistory = 기록 지우기
+quickactions-cmd-clearhistory = 기록 지우기, clear history
 # Opens about:downloads page
 quickactions-downloads = 다운로드
-quickactions-cmd-downloads = 다운로드
+quickactions-cmd-downloads = 다운로드, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 확장 기능 관리
-quickactions-cmd-extensions = 확장 기능
+quickactions-cmd-extensions = 확장 기능, extensions
 # Opens the devtools web inspector
 quickactions-inspector = 검사기
-quickactions-cmd-inspector = 검사기, devtools
+quickactions-cmd-inspector = 검사기, inspector, devtools
 # Opens about:logins
 quickactions-logins = 로그인
-quickactions-cmd-logins = 로그인, 비밀번호
+quickactions-cmd-logins = 로그인, 비밀번호, logins, passwords
 # Opens about:addons page in the plugins section
 quickactions-plugins = 플러그인 관리
-quickactions-cmd-plugins = 플러그인
+quickactions-cmd-plugins = 플러그인, plugins
 # Opens the print dialog
 quickactions-print = 인쇄
-quickactions-cmd-print = 인쇄
+quickactions-cmd-print = 인쇄, print
 # Opens a new private browsing window
 quickactions-private = 사생활 보호 창
-quickactions-cmd-private = 사생활 보호 모드
+quickactions-cmd-private = 사생활 보호 모드, private browsing
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } 새로 고침
-quickactions-cmd-refresh = 새로 고침
+quickactions-cmd-refresh = 새로 고침, refresh
 # Restarts the browser
 quickactions-restart = { -brand-short-name } 다시 시작
-quickactions-cmd-restart = 다시 시작
+quickactions-cmd-restart = 다시 시작, restart
 # Opens the screenshot tool
 quickactions-screenshot2 = 스크린샷 찍기
-quickactions-cmd-screenshot = 스크린샷
+quickactions-cmd-screenshot = 스크린샷, screenshot
 # Opens about:preferences
 quickactions-settings = 설정
-quickactions-cmd-settings = 설정, 설정, 옵션
+quickactions-cmd-settings = 설정, 설정, 옵션, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 테마 관리
-quickactions-cmd-themes = 테마
+quickactions-cmd-themes = 테마, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } 업데이트
-quickactions-cmd-update = 업데이트
+quickactions-cmd-update = 업데이트, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource = 소스
-quickactions-cmd-viewsource = 소스 보기, 소스
+quickactions-cmd-viewsource = 소스 보기, 소스, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = 빠른 작업에 대해 더 알아보기
