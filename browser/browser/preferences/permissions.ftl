@@ -65,6 +65,9 @@ permissions-invalid-uri-label = ദയവായി വാലിഡായ ഒര�
 permissions-exceptions-cookie-window =
     .title = വിട്ടുവീഴ്ചകൾ - കുക്കികളും സൈറ്റ് ഡാറ്റയും
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = വിട്ടുവീഴ്ചകൾ - കുക്കികളും സൈറ്റ് ഡാറ്റയും
+    .style = { permissions-window2.style }
 
 ## Exceptions - HTTPS-Only Mode
 
