@@ -5,6 +5,7 @@
 add-engine-window =
     .title = Cuir Inneall Cuardaigh Leis
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Cuir Inneall Cuardaigh Leis
+    .style = min-width: 32em;
 add-engine-name = Ainm an innill chuardaigh
-
