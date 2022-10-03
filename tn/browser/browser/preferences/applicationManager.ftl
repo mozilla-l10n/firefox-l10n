@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Ditsetlana tsa Tiriso
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Ditsetlana tsa Tiriso
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Tlosa
     .accesskey = T
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Mekgatiriso e latelang e ka dirisiwa go tshegetsa { $type } kgologano.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Mekgatiriso e latelang e ka dirisiwa go tshegetsa { $type } diteng.
