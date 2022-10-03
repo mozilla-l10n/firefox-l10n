@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Wócyńśo <b>menu</b> (<img data-l10n-name="ios-m
 fxa-qrcode-heading-step4 = Toś ten kod skannowaś:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Synchronizěrujśo { -brand-product-name } na swójom telefonje abo tableśe
 fxa-qrcode-pair-step1 = 1. Wócyńśo { -brand-product-name } na swójom mobilnem rěźe.
 fxa-qrcode-pair-step2 = 2. Wócyńśo <strong>meni</strong> (<img data-l10n-name="ios-menu-icon"/> na iOS abo <img data-l10n-name="android-menu-icon"/> na Android) a pótusniśo <strong>Pla Sync pśizjawiś</strong>
