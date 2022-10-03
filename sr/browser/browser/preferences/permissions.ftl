@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Унесите важећи назив хост�
 permissions-exceptions-etp-window =
     .title = Побољшана заштита од праћења – изузеци
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Побољшана заштита од праћења – изузеци
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Искључили сте заштиту на овим веб-сајтовима.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Искључили сте заштиту на 
 permissions-exceptions-cookie-window =
     .title = Колачићи и подаци о сајтовима – изузеци
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Колачићи и подаци о сајтовима – изузеци
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Овде можете да наведете којим веб-сајтовима је дозвољено или забрањено да користе колачиће и податке о сајтовима. Унесите адресу сајта и кликните на „Блокирај”, „Дозволи док траје сесија” или „Дозволи”.
 
 ## Exceptions - HTTPS-Only Mode
@@ -90,6 +96,9 @@ permissions-exceptions-cookie-desc = Овде можете да наведете
 permissions-exceptions-https-only-window =
     .title = Изузеци – режим „Само HTTPS”
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Изузеци – режим „Само HTTPS”
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Можете искључити само HTTPS мод за одређене сајтове. { -brand-short-name } неће покушавати да пребаци на безбедну HTTPS везу за ове сајтове. Ово правило се не примењује на приватне прозоре.
 
 ## Exceptions - Pop-ups
@@ -97,6 +106,9 @@ permissions-exceptions-https-only-desc = Можете искључити сам�
 permissions-exceptions-popup-window =
     .title = Искачући прозори – дозвољени веб-сајтови
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Искачући прозори – дозвољени веб-сајтови
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Овде можете да наведете који веб-сајтови могу да отварају искачуће прозоре. Унесите адресу сајта и кликните на „Дозволи”.
 
 ## Exceptions - Saved Logins
@@ -104,6 +116,9 @@ permissions-exceptions-popup-desc = Овде можете да наведете 
 permissions-exceptions-saved-logins-window =
     .title = Сачуване лозинке – изузеци
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Сачуване лозинке – изузеци
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Пријаве за следеће сајтове неће бити сачуване
 
 ## Exceptions - Add-ons
@@ -111,6 +126,9 @@ permissions-exceptions-saved-logins-desc = Пријаве за следеће с
 permissions-exceptions-addons-window =
     .title = Инсталација додатака – дозвољени веб-сајтови
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Инсталација додатака – дозвољени веб-сајтови
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Овде можете да наведете који веб-сајтови могу да инсталирају додатке. Унесите адресу сајта и кликните на „Дозволи”.
 
 ## Site Permissions - Autoplay
@@ -118,6 +136,9 @@ permissions-exceptions-addons-desc = Овде можете да наведете
 permissions-site-autoplay-window =
     .title = Аутоматска репродукција – подешавања
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Аутоматска репродукција – подешавања
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Овде можете да управљате сајтовима за које не важе подразумевана подешавања аутоматске репродукције.
 
 ## Site Permissions - Notifications
@@ -151,6 +172,9 @@ permissions-site-location-disable-desc = Овим ћете онемогућит�
 permissions-site-xr-window =
     .title = Подешавања – дозволе за виртуелну реалност
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Подешавања – дозволе за виртуелну реалност
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Следеће странице затражиле су приступ вашим уређајима за виртуелну стварност. Можете одредити којим страницама је дозвољен приступ вашим уређајима за виртуелну стварност. Можете и блокирати нове захтеве за приступ вашим уређајима за виртуелну стварност.
 permissions-site-xr-disable-label =
     .label = Блокирајте нове захтеве за приступ вашим уређајима за виртуелну стварност
