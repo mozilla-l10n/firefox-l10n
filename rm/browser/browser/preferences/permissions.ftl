@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Ti pos definir per mintga website schebain 
 permissions-exceptions-https-only-window =
     .title = Excepziuns - Modus mo HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Excepziuns - Modus mo HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Ti pos deactivar il modus Mo-HTTPS per websites specificas. { -brand-short-name } na vegn lura betg a dumandar da midar la connexiun al HTTPS segirà per questas websites. Las excepziuns na valan betg en fanestras privatas.
 
 ## Exceptions - Pop-ups
