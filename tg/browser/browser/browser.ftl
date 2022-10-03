@@ -504,6 +504,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Барои истифода кардани миёнбури F12, аввал DevTools-ро тавассути менюи барномарезии сомона кушоед.
+enable-devtools-popup-description2 = Барои истифода кардани миёнбури F12, аввал «Абзорҳои барномарезӣ (DevTools)»-ро тавассути менюи «Абзорҳои браузер» кушоед.
 
 ## URL Bar
 

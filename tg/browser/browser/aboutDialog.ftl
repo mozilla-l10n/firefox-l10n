@@ -23,6 +23,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } аз тарафи р
 update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд
 update-unsupported = Шумо дар низоми ҷорӣ навсозиҳои дигар иҷро карда наметавонед. <label data-l10n-name="unsupported-link">Маълумоти бештар</label>
 update-restarting = Дар ҳоли бозоғозӣ…
+update-internal-error = Ба сабаби хатои дохилӣ, тафтиш кардани навсозиҳо имконнопазир аст. Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд.
 channel-description = Айни ҳол шумо дар шабакаи навсозии «<label data-l10n-name="current-channel"></label>» қарор доред.
 warningDesc-version = «{ -brand-short-name }» дар реҷаи озмоишӣ мебошад ва метавонад ноустувор кор кунад.
 aboutdialog-help-user = Кумаки «{ -brand-product-name }»
