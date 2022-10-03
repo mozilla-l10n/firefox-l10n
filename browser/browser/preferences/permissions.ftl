@@ -86,6 +86,9 @@ permissions-exceptions-etp-desc = Ti has deactivà las protecziuns sin questas w
 permissions-exceptions-cookie-window =
     .title = Excepziuns - Cookies e datas da websites
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Excepziuns - Cookies e datas da websites
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ti pos definir per mintga website schebain ella dastga adina u mai utilisar cookies e datas da websites. Tippa l'adressa exacta da la website e clicca lura sin «Bloccar», «Permetter per questa sesida» u sin «Permetter».
 
 ## Exceptions - HTTPS-Only Mode
@@ -140,6 +143,9 @@ permissions-site-autoplay-desc = Ti pos administrar qua las websites che na resg
 permissions-site-notification-window =
     .title = Parameters - autorisaziuns per communicaziuns
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Parameters - autorisaziuns per communicaziuns
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Las suandantas paginas han dumandà la permissiun da ta trametter communicaziuns. Ti pos definir per mintga website schebain ella ta dastga trametter communicaziuns. Ti pos era bloccar novas dumondas da pudair trametter communicaziuns.
 permissions-site-notification-disable-label =
     .label = Bloccar novas dumondas da pudair trametter communicaziuns
