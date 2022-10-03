@@ -504,6 +504,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = För att använda tangentbordskommandot F12, öppnar du först DevTools i Webbutvecklare-menyn.
+enable-devtools-popup-description2 = För att använda F12-genvägen, öppna först DevTools via menyn Webbläsarverktyg.
 
 ## URL Bar
 
