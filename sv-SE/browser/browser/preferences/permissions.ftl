@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Skriv in ett giltigt värdnamn
 permissions-exceptions-etp-window =
     .title = Undantag för förbättrat spårningsskydd
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Undantag för förbättrat spårningsskydd
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Du har inaktiverat skydd på dessa webbplatser.
 
 ## Exceptions - Cookies
