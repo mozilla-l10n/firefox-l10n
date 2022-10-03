@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = You’re all caught up!
 newtab-pocket-last-card-desc = Check back later for more.
 newtab-pocket-last-card-image =
     .alt = You’re all caught up
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Save
+newtab-pocket-saved = Saved
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
