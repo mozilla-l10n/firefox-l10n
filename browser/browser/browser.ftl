@@ -502,6 +502,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = כדי להשתמש בקיצור הדרך F12, יש קודם לפתוח את כלי הפיתוח דרך התפריט כלי דפדפן.
 
 ## URL Bar
 
