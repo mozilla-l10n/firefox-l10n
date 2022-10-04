@@ -206,6 +206,9 @@ firefoxview-cfr-primarybutton = Ausprobieren
     .accesskey = A
 firefoxview-cfr-secondarybutton = Nicht jetzt
     .accesskey = N
+firefoxview-cfr-header = Holen Sie kürzlich geschlossene Tabs mit { -firefoxview-brand-name } zurück
+firefoxview-cfr-body = Wechseln Sie außerdem nahtlos zwischen Geräten und fügen Sie Ihrem Browser einen Farbtupfer hinzu.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Begrüßen Sie { -firefoxview-brand-name }
