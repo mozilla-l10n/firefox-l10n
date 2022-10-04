@@ -292,6 +292,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Ajustatz tanben la navegacion pr
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Fasètz de { -brand-short-name } vòstre navegador per defaut
 mr2022-onboarding-set-default-primary-button-label = Definir { -brand-short-name } coma navegador per defaut
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Utilizatz un navegador sostengut per una organizacion sens tòca lucrativa. Defendèm vòstra vida privada pendent que navegatz pel web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
