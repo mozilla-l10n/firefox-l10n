@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ट्यागहरु थप्नुहोस्
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } मा सेभ गर्ने क्रममा, एउटा समस्या देखा पर्यो।
 pocket-panel-saved-error-tag-length = ट्याग २५ अक्षरहरु सम्म सिमित छन्
 pocket-panel-saved-error-only-links = लिङ्कहरू मात्र सङ्ग्रह गर्न सकिन्छ
@@ -30,7 +29,6 @@ pocket-panel-saved-saving-tags = सेभ गरिँदै…
 pocket-panel-saved-suggested-tags = सिफारिस गरिएका ट्यागहरू
 pocket-panel-saved-tags-saved = थपिएका ट्याग्स् हरु
 pocket-panel-signup-view-list = सुची हेर्नुहोस्
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = ट्यागहरू थप्नुहोस्:
 
@@ -45,7 +43,6 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } प्रयोग 
 pocket-panel-signup-tagline = कुनै पनि उपकरणमा, कुनै पनि समयमा { -pocket-brand-name } हेर्न { -brand-product-name } बाट लेख र भिडियो सङ्ग्रह गर्नुहोस्।
 pocket-panel-signup-tagline-story-one = { -brand-product-name } बाट कुनै पनि लेख, भिडियो वा पृष्ठ सङ्ग्रह गर्न { -pocket-brand-name } Button थिच्नुहोस्।
 pocket-panel-signup-tagline-story-two = कुनै पनि उपकरण, कुनै पनि समय { -pocket-brand-name } मा हेर्नुहोस्।
-
 pocket-panel-signup-cta-a-fix = इन्टरनेटको निम्ति तपाई को सेभ-बटन
 pocket-panel-signup-cta-b = लेख , भिडियो तथा लिङ्कस् सुरक्षित/ सेभ गर्न { -pocket-brand-name } बटन थिचौ । जुनै बेला जुनै उपकरण मा आफ्नो-सूची हरौ
 pocket-panel-signup-cta-b-short = लेख , भिडियो तथा लिङ्कस् हरु सेभ गर्न { -pocket-brand-name } बटन थिच्नुहोस् ।
@@ -59,9 +56,9 @@ pocket-panel-home-paragraph = वेब पाना/पेज , लेख , भ
 pocket-panel-home-explore-popular-topics = लोकप्रिय बिषयहरु अन्वेषण गर्नुहोस्
 pocket-panel-home-discover-more = थप पत्ता लगाउनुहोस्
 pocket-panel-home-explore-more = अन्वेषण गर्नुहोस्
-
 pocket-panel-home-most-recent-saves = तपाईको तत्कालीन सेभ यहा छ ।
 pocket-panel-home-most-recent-saves-loading = तत्कालीन-सेभ लोड हुदै ०००
+pocket-panel-home-new-user-cta = लेख , भिडियो तथा लिङ्कस् हरु सेभ गर्न { -pocket-brand-name } बटन थिच्नुहोस् ।
 pocket-panel-home-new-user-message = तपाईको तत्कालीन-सेभ यहा हेर्नुहोस् ।
 
 ## Pocket panel header component
