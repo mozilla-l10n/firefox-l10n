@@ -14,7 +14,19 @@ callout-primary-complete-button-label = Apo cumprèndidu!
 callout-firefox-view-tab-pickup-title = Cola dae unu dispositivu a s'àteru cun su recùperu de ischedas
 callout-firefox-view-tab-pickup-subtitle = Recùpera a sa lestra is ischedas abertas dae su telèfonu tuo e aberi·ddas deretu inoghe.
 callout-firefox-view-recently-closed-title = Recùpera deretu is ischedas serradas
+callout-firefox-view-recently-closed-subtitle = Totu is ischedas serradas ant a èssere ammustradas inoghe. Non ti preocupes mai prus de serrare unu situ pro isbàlliu.
 callout-firefox-view-colorways-title = Agiunghe un'istrichiddu de colore
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Sèbera sa cumbinatzione de colores chi ti donat de prus. Isceti in { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Esplora is cumbinatziones de colores noas
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Personaliza su navigadore tuo cun custas cumbinatziones de colores icònicas, ispiradas dae boghes indipendentes. Isceti in { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Megiora sa navigatzione cun su recùperu de ischedas
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Atzede a is ischedas abertas dae cale si siat dispositivu. Sincroniza puru sinnalibros, craes e àteru.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Cumintza
