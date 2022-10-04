@@ -225,9 +225,13 @@ mr2-onboarding-start-browsing-button-label = เริ่มการเรี�
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = เลือกภาษาของคุณ
+mr2022-onboarding-live-language-text = ให้ { -brand-short-name } พูดภาษาของคุณ
+mr2022-language-mismatch-subtitle = { -brand-short-name } ถูกแปลเป็นภาษาต่าง ๆ กว่า 90 ภาษาโดยชุมชนของเรา ดูเหมือนว่าระบบของคุณกำลังใช้ { $systemLanguage } และ { -brand-short-name } กำลังใช้ { $appLanguage }
 onboarding-live-language-button-label-downloading = กำลังดาวน์โหลดชุดภาษาสำหรับ { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = กำลังขอข้อมูลเกี่ยวกับภาษาที่มีให้ใช้…
 onboarding-live-language-installing = กำลังติดตั้งชุดภาษาสำหรับ { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = เปลี่ยนเป็น { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = ใช้ { $appLanguage } ต่อไป
 onboarding-live-language-secondary-cancel-download = ยกเลิก
 onboarding-live-language-skip-button-label = ข้าม
 
@@ -260,9 +264,31 @@ mr2022-onboarding-secondary-skip-button-label = ข้ามขั้นตอ�
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = เปิดโลกสู่อินเทอร์เน็ตที่น่าทึ่ง
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = เปิดใช้งาน { -brand-short-name } ได้จากทุกที่แค่เพียงคลิกเดียว ทุกครั้งที่คุณทำ คุณเลือกเว็บที่เปิดกว้างและเป็นอิสระยิ่งขึ้น
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] เก็บ { -brand-short-name } ลงใน Dock
+       *[other] ปักหมุด { -brand-short-name } เข้ากับแถบงาน
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = เปลี่ยนมาใช้เบราว์เซอร์ที่สนับสนุนโดยองค์กรไม่แสวงหาผลกำไร เราจะปกป้องความเป็นส่วนตัวของคุณในขณะที่คุณท่องเว็บ
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = ขอบคุณที่หลงรัก { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = เข้าสู่โลกอินเทอร์เน็ตอันแข็งแกร่งได้จากทุกที่แค่เพียงคลิกเดียว ในรุ่นล่าสุดของเรามีสิ่งใหม่ ๆ หลายอย่างที่เราคิดว่าคุณจะต้องชอบแน่
 
 ## MR2022 New User Set Default screen strings
 
