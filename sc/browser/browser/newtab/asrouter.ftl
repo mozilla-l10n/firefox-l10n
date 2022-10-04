@@ -157,6 +157,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } creat una cre
 spotlight-total-cookie-protection-primary-button = Ativa s'amparu totale contra is testimòngios
 spotlight-total-cookie-protection-secondary-button = Immoe nono
 cfr-total-cookie-protection-header = Gràtzias a tue, { -brand-short-name } est prus privadu e seguru comente chi mai!
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Sa protetzione totale de testimòngios est sa prus funtzionalidade de amparu de riservadesa potente a oe, e immoe est ativada in manera predefinida pro totu is utentes de { -brand-short-name }. Non diat èssere istadu possìbile sena sa partetzipatzione de chie, comente a tue, at contribuidu a proare custa funtzionalidade in anteprima. Gràtzias de nos agiudare a creare un'internet mègius e prus privadu.
 
 ## Emotive Continuous Onboarding
 
@@ -184,9 +187,31 @@ spotlight-pin-secondary-button = Immoe nono
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Su { -brand-short-name } nou. Prus privadu. Prus pagu sighiduras. Nissunu cumpromissu.
+mr2022-background-update-toast-text = Proa su { -brand-short-name } nou immoe, atualizadu cun sa prus protetzione manna contra a is sighiduras.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Aberi { -brand-shorter-name } immoe
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Regorda·mi·ddu a pustis
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Proa immoe
+    .accesskey = P
+firefoxview-cfr-secondarybutton = Immoe nono
+    .accesskey = n
+firefoxview-cfr-header = Recùpera is ischedas serradas de reghente cun { -firefoxview-brand-name }
+firefoxview-cfr-body = Càmbia intre dispositivos sena problemas e agiunghe unu tonu de colore a su navigadore tuo.
 
 ## Firefox View Spotlight
 
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Boles abèrrere cussa ischeda in su telèfonu tuo? Piga·dda. Ti serbit cussu situ chi as bidu immoe immoe? Dd'agatas in { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Càstia comente funtzionat
+firefoxview-spotlight-promo-secondarybutton = Brinca
