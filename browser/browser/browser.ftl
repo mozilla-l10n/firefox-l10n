@@ -500,6 +500,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Untuk menggunakan pintasan F12, pertama buka DevTools melalui menu Pengembang Web.
+enable-devtools-popup-description2 = Untuk menggunakan pintasan F12, buka DevTools pertama melalui menu Alat Peramban.
 
 ## URL Bar
 
