@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Nur übergeordneter Prozess
 toolbox-mode-parent-process-sub-label = (Schnell)
 toolbox-mode-parent-process-container =
     .title = Nur auf Ressourcen aus dem übergeordneten Prozess konzentrieren
+toolbox-always-on-top-enabled =
+    .title = Immer im Vordergrund deaktivieren (dadurch werden die Entwicklerwerkzeuge neu gestartet)
+toolbox-always-on-top-disabled =
+    .title = Immer im Vordergrund aktivieren (dadurch werden die Entwicklerwerkzeuge neu gestartet)
