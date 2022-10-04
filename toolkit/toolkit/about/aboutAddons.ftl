@@ -115,9 +115,9 @@ private-browsing-description2 =
     huliðsvafri stendur, nema þú leyfir það í stillingum og mun hún því ekki hafa aðgang að athöfnum þínum á netinu
     þar. Við höfum gert þessa breytingu til að halda huliðsvafri þínu leyndu.
     <label data-l10n-name="private-browsing-learn-more">Sjáðu hvernig á að hafa umsjón með stillingum viðbóta</label>
-addon-category-discover = Meðmæli
+addon-category-discover = Mælt með
 addon-category-discover-title =
-    .title = Meðmæli
+    .title = Mælt með
 addon-category-extension = Viðbætur
 addon-category-extension-title =
     .title = Viðbætur
@@ -295,10 +295,6 @@ theme-monochromatic-heading = Litasett
 theme-monochromatic-subheading = Lífleg ný litasett frá { -brand-product-name }. Í boði í takmarkaðan tíma.
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Prófaðu litasettin
-colorway-collection-independent-voices-subheading = Láttu { -brand-short-name } vera aðeins meira eins og þú.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Rennur út { DATETIME($expiryDate, month: "long", day: "numeric") }
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Breyta litasetti
 # Variables:
