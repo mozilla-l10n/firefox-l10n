@@ -323,6 +323,9 @@ quickactions-cmd-update = อัปเดต
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ดูต้นฉบับ
 quickactions-cmd-viewsource = ดูต้นฉบับ, ต้นฉบับ
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = เรียนรู้เพิ่มเติมเกี่ยวกับคำสั่งด่วน
 
 ## Bookmark Panel
 
@@ -497,6 +500,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = หากต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู Web Developer
+enable-devtools-popup-description2 = หากต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู เครื่องมือสำหรับเบราว์เซอร์
 
 ## URL Bar
 
