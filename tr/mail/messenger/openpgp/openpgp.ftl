@@ -404,9 +404,12 @@ openpgp-export-secret-fail = <b>Seçilen gizli anahtar dışa aktarılamadı.</b
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = { $userId } anahtarı (anahtar kimliği { $keyId }) iptal edildi.
 key-ring-pub-key-expired = { $userId } anahtarının (anahtar kimliği { $keyId }) süresi doldu.
+key-ring-pub-key-not-for-signing = { $userId } anahtarı (anahtar kimliği { $keyId }) imzalama için kullanılamaz.
+key-ring-pub-key-not-for-encryption = { $userId } anahtarı (anahtar kimliği { $keyId }) şifreleme için kullanılamaz.
 key-ring-sign-sub-keys-revoked = { $UserId } anahtarının tüm imzalama alt anahtarları (anahtar kimliği { $keyId }) iptal edildi.
 key-ring-sign-sub-keys-expired = { $userId } anahtarının (anahtar kimliği { $keyId }) tüm imzalama alt anahtarlarının süresi doldu.
 key-ring-enc-sub-keys-revoked = { $userId } anahtarının tüm şifreleme alt anahtarları (anahtar kimliği { $keyId }) iptal edildi.
+key-ring-enc-sub-keys-expired = { $userId } anahtarının tüm şifreleme alt anahtarlarının (anahtar kimliği { $keyId }) süresi doldu.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotoğraf
 user-att-photo = Kullanıcı özniteliği (JPEG resmi)
@@ -427,6 +430,7 @@ key-error-not-accepted-as-personal = '{ $keySpec }' kimliğine sahip anahtarın 
 need-online = Seçtiğiniz işlev çevrimdışı modda kullanılamaz. Lütfen çevrimiçi olun ve tekrar deneyin.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Belirtilen arama ölçütleriyle eşleşen kullanılabilir bir anahtar bulamadık.
+no-update-found = Çevrimiçi keşfedilmiş anahtarlara zaten sahipsiniz.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Hata - Anahtar çıkarma komutu başarısız oldu
 # Strings used in keyRing.jsm
