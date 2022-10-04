@@ -33,7 +33,7 @@ cfr-doorhanger-extension-notification2 = Tillaga
     .a11y-announcement = Fyrirliggjandi er tillaga að viðbót
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
-cfr-doorhanger-feature-notification = Meðmæli
+cfr-doorhanger-feature-notification = Mælt með
     .tooltiptext = Eiginleiki sem mælt er með
     .a11y-announcement = Meðmæli með eiginleika eru tiltæk
 
