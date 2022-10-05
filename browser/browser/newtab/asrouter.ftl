@@ -210,3 +210,4 @@ firefoxview-cfr-header = Få nyligt lukkede faneblade tilbage med { -firefoxview
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Prøv { -firefoxview-brand-name }
+firefoxview-spotlight-promo-secondarybutton = Spring over

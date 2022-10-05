@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Frigør denne video
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Flere skærme er sjovere. Afspil denne video i Billede-i-billede, mens du browser.
+videocontrols-picture-in-picture-explainer3 = Flere skærme er sjovere. Afspil videoer, mens du gør andre ting.
 videocontrols-error-aborted = Indlæsning af video stoppet.
 videocontrols-error-network = Afspilning af video stoppet på grund af en netværksfejl.
 videocontrols-error-decode = Videoen kan ikke afspilles fordi filen er ødelagt.
