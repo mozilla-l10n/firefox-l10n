@@ -332,6 +332,8 @@ mr2022-onboarding-colorway-description-default = <b>Utilizar as minhas cores atu
 mr2022-onboarding-colorway-label-playmaker = Impulsionador(a)
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Impulsionador(a)
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Jogador (red)
 mr2022-onboarding-colorway-description-playmaker = <b>É um(a) impulsionador(a).</b> Você cria oportunidades para vencer e ajudar a todos à sua volta a melhorar as suas capacidades.
 mr2022-onboarding-colorway-label-expressionist = Expressionista
 mr2022-onboarding-colorway-tooltip-expressionist =
@@ -356,24 +358,43 @@ mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Sonhador(a)
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sonhador(a) (roxo)
+mr2022-onboarding-colorway-description-dreamer = <b>Você é um(a) sonhador(a).</b> Você acredita que a sorte favorece os ousados e inspira os outros a serem corajosos.
 mr2022-onboarding-colorway-label-innovator = Inovador(a)
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Inovador(a)
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Inovador(a) (laranja)
+mr2022-onboarding-colorway-description-innovator = <b>Você é um(a) inovador(a).</b> Você vê oportunidades em todo o lado e causa impacto na vida de todos à sua volta.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Mude do portátil para o telemóvel e vice-versa
+mr2022-onboarding-mobile-download-subtitle = Obtenha os separadores de um dispositivo e continue de onde parou noutro. Além disto, sincronize os seus marcadores e palavras-passe em qualquer sítio onde utilize o { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Digitalize o código QR para obter o { -brand-product-name } para telemóvel ou <a data-l10n-name="download-label">envie uma ligação de transferência para você mesmo.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Digitalize o código QR para obter o { -brand-product-name } para telemóveis.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Obtenha a liberdade da navegação privada num clique
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Sem cookies ou histórico guardados, diretamente a partir do seu ambiente de trabalho. Navegue como se ninguém estivesse a ver.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Manter a navegação privada do { -brand-short-name } na Doca
+       *[other] Fixar a navegação privada do { -brand-short-name } à minha barra de tarefas
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Nós respeitamos sempre a sua privacidade
+mr2022-onboarding-privacy-segmentation-subtitle = A partir de sugestões inteligentes para pesquisas mais inteligentes. Nós trabalhamos constantemente para criar um { -brand-product-name } melhor e mais pessoal.
+mr2022-onboarding-privacy-segmentation-text-cta = O que quer ver quando oferecemos novas funcionalidades que utilizam os seus dados para melhorar a sua navegação?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Usar as recomendações do { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar informações detalhadas
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Está a ajudar-nos a construir uma Internet melhor.
+mr2022-onboarding-gratitude-subtitle = Obrigado por utilizar o { -brand-short-name }, apoiado pela Fundação Mozilla. Com o seu apoio, estamos a trabalhar para tornar a Internet mais aberta, acessível e melhor para todos.
 mr2022-onboarding-gratitude-primary-button-label = Veja as novidades
 mr2022-onboarding-gratitude-secondary-button-label = Começar a navegar

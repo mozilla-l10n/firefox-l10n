@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Apenas o processo pai
 toolbox-mode-parent-process-sub-label = (Rápido)
 toolbox-mode-parent-process-container =
     .title = Focar-se apenas nos recursos do processo pai.
+toolbox-always-on-top-enabled =
+    .title = Desativar o sempre no topo (Isto irá reiniciar as ferramentas de programador)
+toolbox-always-on-top-disabled =
+    .title = Ativar o sempre no topo (Isto irá reiniciar as ferramentas de programador)
