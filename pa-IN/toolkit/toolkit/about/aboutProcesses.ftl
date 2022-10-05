@@ -77,9 +77,12 @@ about-processes-frame-name-one = ਸਬ-ਫਰੇਮ: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = ਸਬ-ਫਰੇਮ ({ $number }): { $shortUrl }
-# Utility process actor names
+
+## Utility process actor names
+
 about-processes-utility-actor-unknown = ਅਣਪਛਾਤਾ ਐਕਟਰ
 about-processes-utility-actor-audio-decoder = ਆਡੀਓ ਡੀਕੋਡਰ
+about-processes-utility-actor-mf-media-engine = Windows ਮੀਡੀਆ ਫਾਊਂਡੇਸ਼ਨ ਮੀਡੀਆ ਇੰਜਣ CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -114,6 +117,9 @@ about-processes-cpu-fully-idle = ਵੇਹਲਾ
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = ਇਵੋਲੂਸ਼ਨ: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
