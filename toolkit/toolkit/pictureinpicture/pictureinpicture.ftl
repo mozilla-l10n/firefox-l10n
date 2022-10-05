@@ -15,6 +15,16 @@ pictureinpicture-unpip =
     .aria-label = Trametter enavos al tab
 pictureinpicture-close =
     .aria-label = Serrar
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
+##
+
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Maletg entir
+    .title = Maletg entir (clic dubel)
 pictureinpicture-subtitles-label = Suttitels
 pictureinpicture-font-size-label = Grondezza da scrittira
 pictureinpicture-font-size-small = Pitschna
