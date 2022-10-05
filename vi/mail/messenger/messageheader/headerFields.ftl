@@ -8,6 +8,7 @@
 message-header-to-list-name = Đến
 message-header-from-list-name = Từ
 message-header-sender-list-name = Người gửi
+message-header-reply-to-list-name = Trả lời đến
 message-header-cc-list-name = Cc
 message-header-bcc-list-name = Bcc
 message-header-newsgroups-list-name = Nhóm tin
