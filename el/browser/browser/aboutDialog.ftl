@@ -23,6 +23,7 @@ update-otherInstanceHandlingUpdates = Το { -brand-short-name } ενημερώ�
 update-manual = Διαθέσιμες ενημερώσεις στο <label data-l10n-name="manual-link"/>
 update-unsupported = Δεν μπορείτε να εκτελέσετε περαιτέρω ενημερώσεις σε αυτό το σύστημα. <label data-l10n-name="unsupported-link">Μάθετε περισσότερα</label>
 update-restarting = Επανεκκίνηση…
+update-internal-error = Δεν είναι δυνατός ο έλεγχος για ενημερώσεις λόγω εσωτερικού σφάλματος. Οι ενημερώσεις διατίθενται στο <label data-l10n-name="manual-link"/>
 channel-description = Αυτήν τη στιγμή, βρίσκεστε στο κανάλι ενημερώσεων της έκδοσης <label data-l10n-name="current-channel"></label>.
 warningDesc-version = Το { -brand-short-name } είναι σε πειραματικό στάδιο και πιθανότατα ασταθές.
 aboutdialog-help-user = Βοήθεια { -brand-product-name }
