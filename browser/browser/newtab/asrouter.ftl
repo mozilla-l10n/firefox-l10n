@@ -211,5 +211,7 @@ firefoxview-cfr-body = Hop også nemt mellem enheder og frisk din browser op med
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Prøv { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Vil du se et åbent faneblad på din telefon? Hent det. Har du brug for en side, du besøgte tidligere? Find den i { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Se, hvordan det fungerer
 firefoxview-spotlight-promo-secondarybutton = Spring over
