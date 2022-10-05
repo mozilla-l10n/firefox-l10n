@@ -211,6 +211,7 @@
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY fromAddr2.label "Từ">
 <!ENTITY fromAddr.accesskey "i">
+<!ENTITY replyAddr2.label "Trả lời đến">
 <!ENTITY newsgroupsAddr2.label "Nhóm tin">
 <!ENTITY subject2.label "Tiêu đề">
 <!ENTITY subject.accesskey "u">
