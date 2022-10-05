@@ -18,6 +18,8 @@ about-telemetry-page-title = ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ
 about-telemetry-current-store = ਮੌਜੂਦਾ ਸਟੋਰ:
 about-telemetry-more-information = ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਖੋਜਣਾ ਹੈ?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">ਫਾਇਰਫਾਕਸ ਡਾਟਾ ਦਸਤਾਵੇਜ਼ (ਅੰਗਰੇਜ਼ੀ)</a> ਵਿੱਚ ਗਾਈਡਾਂ ਹਨ, ਜੋ ਕਿ ਸਾਡੇ ਡਾਟਾ ਟੂਲ ਨਾਲ ਕੰਮ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿੰਦੀਆਂ ਹਨ।
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox ਟੈਲੀਮੈਂਟਰੀ ਕਲਾਈਂਟ ਦਸਤਾਵੇਜ਼</a> ਵਿੱਚ ਸੰਕਲਪ ਦੀਆਂ ਪਰਿਭਾਸ਼ਾਵਾਂ, API ਦਸਤਾਵੇਜ਼ ਅਤੇ ਡਾਟਾ ਹਵਾਲੇ ਮੌਜੂਦ ਹਨ।
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">ਟੈਲੀਮੈਂਟਰੀ ਡੈਸ਼ਬੋਰਡ</a> ਤੁਹਾਨੂੰ Mozilla ਨੂੰ ਟੈਲੀਮੈਂਟਰੀ ਰਾਹੀਂ ਮਿਲੇ ਡਾਟੇ ਨੂੰ ਦਿਖਾਉਂਦਾ ਹੈ।
 about-telemetry-show-in-Firefox-json-viewer = JSON ਦਰਸ਼ਕ 'ਚ ਖੋਲ੍ਹੋ
 about-telemetry-home-section = ਘਰ
 about-telemetry-general-data-section = ਆਮ ਡਾਟਾ
