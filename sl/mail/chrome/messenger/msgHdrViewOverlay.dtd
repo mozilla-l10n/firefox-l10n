@@ -20,7 +20,7 @@
 <!ENTITY referencesField4.label "Sklici">
 <!ENTITY messageIdField4.label "ID sporočila">
 <!ENTITY inReplyToField4.label "V odgovoru za">
-<!ENTITY originalWebsite4.label "Spletna stran">
+<!ENTITY originalWebsite4.label "Spletno mesto">
 
 <!ENTITY hdrArchiveButton1.label "Arhiviraj">
 <!ENTITY hdrArchiveButton1.tooltip "Arhiviraj to sporočilo">
