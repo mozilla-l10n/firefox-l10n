@@ -186,6 +186,8 @@ spotlight-pin-secondary-button = Ei nyt
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Uusi { -brand-short-name }. Entistä yksityisempi. Vähemmän seuraimia. Ei kompromisseja.
+mr2022-background-update-toast-text = Kokeile uusinta { -brand-short-name }ia nyt. Päivitetty tähän mennessä vahvimmalla seurantasuojauksella.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -203,7 +205,13 @@ firefoxview-cfr-primarybutton = Kokeile
     .accesskey = o
 firefoxview-cfr-secondarybutton = Ei nyt
     .accesskey = n
+firefoxview-cfr-header = Palauta äskettäin suljetut välilehdet käyttämällä { -firefoxview-brand-name }iä
+firefoxview-cfr-body = Lisäksi voit siirtyä saumattomasti laitteiden välillä sekä lisätä selaimeesi väriä.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Tervehdi { -firefoxview-brand-name }iä
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Haluatko avoimen välilehden puhelimeltasi? Nappaa se. Tarvitsetko sivuston, jolla juuri vierailit? Hokkuspokkus, se on palannut { -firefoxview-brand-name }illä.
+firefoxview-spotlight-promo-primarybutton = Katso miten se toimii
 firefoxview-spotlight-promo-secondarybutton = Ohita
