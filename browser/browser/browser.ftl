@@ -507,6 +507,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = For at bruge F12 som genvej skal du først åbne udviklerværktøj fra menuen Webudvikler.
+enable-devtools-popup-description2 = For at bruge F12 som genvej skal du først åbne udviklerværktøj fra menuen Browser-værktøj.
 
 ## URL Bar
 
