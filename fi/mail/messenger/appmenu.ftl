@@ -22,6 +22,12 @@ appmenu-new-calendar =
 appmenu-new-chat-account =
     .label = Keskustelu
     .accesskey = e
+appmenu-new-feed =
+    .label = Syöte
+    .accesskey = ö
+appmenu-new-newsgroup =
+    .label = Keskusteluryhmä
+    .accesskey = r
 
 ## New Account / Address Book
 
@@ -56,6 +62,9 @@ appmenu-create-event =
 appmenu-create-task =
     .label = Tehtävä
     .accesskey = ä
+appmenu-create-contact =
+    .label = Yhteystieto
+    .accesskey = Y
 
 ## Open
 
@@ -64,6 +73,11 @@ appmenu-open-panel =
     .accesskey = A
 appmenu-open-panel-title =
     .title = Avaa
+appmenu-open-file-panel =
+    .label = Avaa tiedostosta
+    .accesskey = v
+appmenu-open-file-panel-title =
+    .title = Avaa tiedostosta
 appmenu-open-message =
     .label = Viesti…
     .accesskey = V
@@ -102,17 +116,35 @@ appmenu-tools-import =
 appmenu-tools-export =
     .label = Vienti
     .accesskey = V
+appmenu-tools-message-search =
+    .label = Etsi viesteistä
+    .accesskey = s
+appmenu-tools-dev-tools =
+    .label = Kehittäjätyökalut
+    .accesskey = ä
 
 ## Help
 
 appmenu-help-panel-title =
     .title = Ohje
+appmenu-help-get-help =
+    .label = Tuki
+    .accesskey = T
 appmenu-help-explore-features =
     .label = Tutustu ominaisuuksiin
     .accesskey = F
 appmenu-help-shortcuts =
     .label = Pikanäppäimet
     .accesskey = k
+appmenu-help-get-involved =
+    .label = Tule mukaan
+    .accesskey = m
+appmenu-help-donation =
+    .label = Tee lahjoitus
+    .accesskey = h
+appmenu-help-share-feedback =
+    .label = Jaa ideoita ja palautetta
+    .accesskey = d
 appmenu-help-about-product =
     .label = Tietoja: { -brand-short-name }
     .accesskey = A
