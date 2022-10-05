@@ -511,7 +511,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Aby móc użyć skrótu F12, najpierw otwórz narzędzia dla programistów w menu „Dla twórców witryn”.
-enable-devtools-popup-description2 = Aby móc użyć skrótu F12, najpierw otwórz narzędzia dla dla twórców witryn w menu „Narzędzia przeglądarki”.
+enable-devtools-popup-description2 = Aby móc użyć skrótu F12, najpierw otwórz narzędzia dla twórców witryn w menu „Narzędzia przeglądarki”.
 
 ## URL Bar
 

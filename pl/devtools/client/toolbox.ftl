@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Tylko proces nadrzędny
 toolbox-mode-parent-process-sub-label = (szybkie)
 toolbox-mode-parent-process-container =
     .title = Skup się wyłącznie na zasobach z procesu nadrzędnego.
+toolbox-always-on-top-enabled =
+    .title = Wyłącz wyświetlanie zawsze na wierzchu (spowoduje to ponowne uruchomienie narzędzi dla programistów)
+toolbox-always-on-top-disabled =
+    .title = Włącz wyświetlanie zawsze na wierzchu (spowoduje to ponowne uruchomienie narzędzi dla programistów)
