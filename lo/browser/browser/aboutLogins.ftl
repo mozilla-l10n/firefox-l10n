@@ -252,6 +252,7 @@ about-logins-import-dialog-done = ສຳເລັດ
 about-logins-import-dialog-error-title = ມີຂໍ້ຜິດພາດໃນການນຳເຂົ້າ
 about-logins-import-dialog-error-conflicting-values-title = ມີຄ່າຂັດແຍ້ງຫຼາຍຄ່າສໍາລັບການເຂົ້າສູ່ລະບົບດຽວ
 about-logins-import-dialog-error-file-format-title = ບັນຫາຮູບແບບໄຟລ໌
+about-logins-import-dialog-error-file-format-description = ສ່ວນຄໍລໍາບໍ່ຖືກຕ້ອງ ຫຼືຂາດຫາຍໄປ. ໃຫ້ແນ່ໃຈວ່າໄຟລ໌ປະກອບມີຄໍລໍາສໍາລັບຊື່ຜູ້ໃຊ້, ລະຫັດຜ່ານແລະ URL.
 about-logins-import-dialog-error-file-permission-title = ບໍ່ສາມາດອ່ານໄຟລ໌ໄດ້
 about-logins-import-dialog-error-unable-to-read-title = ບໍ່ສາມາດວິເຄາະໄຟລ໌ໄດ້
 about-logins-import-dialog-error-unable-to-read-description = ໃຫ້ແນ່ໃຈວ່າທ່ານເລືອກໄຟລ໌ CSV ຫຼື TSV.
