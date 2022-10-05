@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = { -brand-short-name } — tryb prywatny
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } — tryb prywatny
 
 ##
 
@@ -267,9 +268,6 @@ search-one-offs-actions =
     .tooltiptext = Działania ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -291,7 +289,7 @@ quickactions-extensions = Zarządzaj rozszerzeniami
 quickactions-cmd-extensions = rozszerzenia
 # Opens the devtools web inspector
 quickactions-inspector = Otwórz inspektora
-quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, devtools
+quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, narzędzia dla twórców witryn, devtools
 # Opens about:logins
 quickactions-logins = Wyświetl dane logowania
 quickactions-cmd-logins = dane logowania, loginy, hasła
@@ -325,6 +323,9 @@ quickactions-cmd-update = uaktualnij, uaktualnienie, zaktualizuj, aktualizuj, ak
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Wyświetl źródło
 quickactions-cmd-viewsource = wyświetl źródło, źródło, pokaż źródło
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Więcej informacji o szybkich działaniach
 
 ## Bookmark Panel
 
@@ -510,6 +511,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Aby móc użyć skrótu F12, najpierw otwórz narzędzia dla programistów w menu „Dla twórców witryn”.
+enable-devtools-popup-description2 = Aby móc użyć skrótu F12, najpierw otwórz narzędzia dla dla twórców witryn w menu „Narzędzia przeglądarki”.
 
 ## URL Bar
 
