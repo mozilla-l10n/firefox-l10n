@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Kun overordnet proces
 toolbox-mode-parent-process-sub-label = (Hurtig)
 toolbox-mode-parent-process-container =
     .title = Fokuser kun på ressourcer fra den overordnede proces.
+toolbox-always-on-top-enabled =
+    .title = Deaktiver altid-øverst (Dette genstarter Udviklerværktøj)
+toolbox-always-on-top-disabled =
+    .title = Aktiver altid-øverst (Dette genstarter Udviklerværktøj)
