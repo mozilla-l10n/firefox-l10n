@@ -347,18 +347,26 @@ mr2022-onboarding-colorway-description-expressionist = <b>Du er en ekspressionis
 mr2022-onboarding-colorway-label-visionary = Visionær
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionær
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Visionær (grøn)
 mr2022-onboarding-colorway-description-visionary = <b>Du er en visionær.</b> Du stiller spørgsmålstegn til tingenes tilstand og får andre til at forestille sig en bedre fremtid.
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivist
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Aktivist (blå)
 mr2022-onboarding-colorway-description-activist = <b>Du er en aktivist.</b> Du engagerer dig for at gøre verden bedre og får andre med dig.
 mr2022-onboarding-colorway-label-dreamer = Drømmer
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Drømmer
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Drømmer (lilla)
 mr2022-onboarding-colorway-description-dreamer = <b>Du er en drømmer.</b> Du mener, at lykken står den kække bi, og inspirerer andre til at være modige.
 mr2022-onboarding-colorway-label-innovator = Nyskaber
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Nyskaber
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Nyskaber (orange)
 mr2022-onboarding-colorway-description-innovator = <b>Du er en nyskaber.</b> Du ser muligheder overalt og påvirker livet for alle omkring dig.
 
 ## MR2022 Multistage Mobile Download screen strings
