@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 500px;
-
 copy =
     .key = C
 menu-copy =
     .label = ਕਾਪੀ ਕਰੋ
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = ਸਭ ਚੁਣੋ
     .accesskey = A
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = ਆਮ
     .accesskey = G
@@ -43,7 +39,6 @@ general-meta-name =
     .label = ਨਾਂ
 general-meta-content =
     .label = ਸਮੱਗਰੀ
-
 media-tab =
     .label = ਮੀਡਿਆ
     .accesskey = M
@@ -65,19 +60,20 @@ media-dimension =
     .value = ਮਾਪ:
 media-long-desc =
     .value = ਲੰਮਾ ਵੇਰਵਾ:
+media-select-all =
+    .label = ਸਭ ਚੁਣੋ
+    .accesskey = e
 media-save-as =
     .label = … ਵਜੋਂ ਸੰਭਾਲੋ
     .accesskey = A
 media-save-image-as =
     .label = … ਵਜੋਂ ਸੰਭਾਲੋ
     .accesskey = e
-
 perm-tab =
     .label = ਅਧਿਕਾਰ
     .accesskey = P
 permissions-for =
     .value = ਅਧਿਕਾਰ:
-
 security-tab =
     .label = ਸੁਰੱਖਿਆ
     .accesskey = S
@@ -98,22 +94,17 @@ security-view-identity-validity =
     .value = ਮਿਆਦ ਪੁੱਗੇਗੀ:
 security-view-privacy =
     .value = ਪਰਦੇਦਾਰੀ ਤੇ ਅਤੀਤ
-
 security-view-privacy-history-value = ਕੀ ਮੈਂ ਇਹ ਵੈੱਬਸਾਇਟ ਅੱਜ ਤੋਂ ਪਹਿਲਾਂ ਵੇਖੀ ਹੈ?
 security-view-privacy-sitedata-value = ਕੀ ਇਹ ਵੈੱਬਸਾਈਟ ਮੇਰੇ ਕੰਪਿਊਟਰ 'ਤੇ ਜਾਣਕਾਰੀ ਸੰਭਾਲਦੀ ਹੈ?
-
 security-view-privacy-clearsitedata =
     .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ
     .accesskey = C
-
 security-view-privacy-passwords-value = ਕੀ ਇਸ ਵੈੱਬ ਸਾਇਟ ਲਈ ਮੈਂ ਕੋਈ ਪਾਸਵਰਡ ਸੰਭਾਲੇ ਹਨ?
-
 security-view-privacy-viewpasswords =
     .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਵੇਖੋ
     .accesskey = w
 security-view-technical =
     .value = ਤਕਨੀਕੀ ਵੇਰਵਾ
-
 help-button =
     .label = ਮਦਦ
 
@@ -125,7 +116,6 @@ help-button =
 
 security-site-data-cookies = ਹਾਂ ਜੀ, ਕੂਕੀਜ਼ ਅਤੇ { $value } { $unit } ਸਾਈਟ ਡਾਟਾ
 security-site-data-only = ਹਾਂ ਜੀ, { $value } { $unit } ਸਾਈਟ ਡਾਟਾ
-
 security-site-data-cookies-only = ਹਾਂ ਜੀ, ਕੂਕੀਜ਼
 security-site-data-no = ਨਹੀਂ
 
@@ -149,7 +139,6 @@ media-video = ਵੀਡੀਓ
 media-audio = ਆਡੀਓ
 saved-passwords-yes = ਹਾਂ
 saved-passwords-no = ਨਹੀਂ
-
 no-page-title =
     .value = ਬੇਨਾਮਾ ਸਫ਼ਾ:
 general-quirks-mode =
@@ -164,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ਮੂਲ ਵਰਤੋਂ
 security-no-visits = ਨਹੀਂ
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -175,7 +163,6 @@ general-meta-tags =
             [one] ਮੇਟਾ (1 ਟੈਗ)
            *[other] ਮੇਟਾ ({ $tags } ਟੈਗ)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -186,7 +173,6 @@ security-visits-number =
         [one] ਹਾਂ, ਇੱਕ ਵਾਰ
        *[other] ਹਾਂ, { $visits } ਵਾਰ
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -197,7 +183,6 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } ਬਾਈਟ)
            *[other] { $kb } KB ({ $bytes } ਬਾਈਟ)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -209,14 +194,12 @@ media-animated-image-type =
             [one] { $type } ਚਿੱਤਰ  (ਐਨੀਮੇਟ, { $frames } ਫਰੇਮ)
            *[other] { $type } ਚਿੱਤਰ (ਐਨੀਮੇਟ, { $frames } ਫਰੇਮ)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ਚਿੱਤਰ
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -226,20 +209,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px ਲਈ ਸਕੇਲ ਕੀਤਾ)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -247,11 +227,10 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website } ਤੋਂ ਚਿੱਤਰ ਨੂੰ ਬਲਾਕ ਕਰੋ
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
+#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = ਸਫ਼ਾ ਜਾਣਕਾਰੀ - { $website }
 page-info-frame =
