@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Introduzione
        *[other] Benvenuti in { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Introduzione
+       *[other] Benvenuti in { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } salva le informazioni personali e le opzioni in un profilo personale.
 profile-creation-explanation-2 = Se si condivide questa copia di { -brand-short-name } con altre persone è possibile utilizzare i profili per mantenere separate le informazioni di ciascun utente. Per ottenere questo ogni utente deve creare un proprio profilo.
 profile-creation-explanation-3 = Se si è l’unica persona a utilizzare questa copia di { -brand-short-name } è comunque necessario avere almeno un profilo. È possibile creare più profili per salvare gruppi di informazioni e impostazioni differenti, ad esempio per separare il profilo di lavoro da quello personale.
