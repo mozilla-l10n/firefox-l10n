@@ -5,20 +5,19 @@
 sanitize-prefs =
     .title = Impostazioni per la cancellazione della cronologia
     .style = width: 34em
-
+sanitize-prefs2 =
+    .title = Impostazioni per la cancellazione della cronologia
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
-
 dialog-title =
     .title = Cancella cronologia recente
     .style = width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
     .title = Cancella tutta la cronologia
     .style = width: 34em
-
 clear-data-settings-label = Alla chiusura di { -brand-short-name } eliminare automaticamente
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -32,22 +31,16 @@ clear-data-settings-label = Alla chiusura di { -brand-short-name } eliminare aut
 clear-time-duration-prefix =
     .value = Intervallo di tempo da cancellare:{ " " }
     .accesskey = n
-
 clear-time-duration-value-last-hour =
     .label = ultima ora
-
 clear-time-duration-value-last-2-hours =
     .label = ultime due ore
-
 clear-time-duration-value-last-4-hours =
     .label = ultime quattro ore
-
 clear-time-duration-value-today =
     .label = oggi
-
 clear-time-duration-value-everything =
     .label = tutto
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -55,55 +48,41 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Cronologia
-
 item-history-and-downloads =
     .label = Cronologia navigazione e download
     .accesskey = z
-
 item-cookies =
     .label = Cookie
     .accesskey = o
-
 item-active-logins =
     .label = Accessi effettuati
     .accesskey = A
-
 item-cache =
     .label = Cache
     .accesskey = h
-
 item-form-search-history =
     .label = Moduli e ricerche
     .accesskey = M
-
 data-section-label = Dati
-
 item-site-settings =
     .label = Impostazioni dei siti web
     .accesskey = w
-
 item-offline-apps =
     .label = Dati non in linea dei siti web
     .accesskey = w
-
 sanitize-everything-undo-warning = Questa operazione non può essere annullata.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Cancella adesso
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Cancellazione in corso
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Tutta la cronologia verrà eliminata.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
