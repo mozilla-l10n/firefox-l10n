@@ -267,9 +267,6 @@ search-one-offs-actions =
     .tooltiptext = Toiminnot ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -302,8 +299,11 @@ quickactions-cmd-print = tulosta
 # Opens a new private browsing window
 quickactions-private = Avaa yksityinen selausikkuna
 quickactions-cmd-private = yksityinen selaus
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Palauta { -brand-short-name } uudenveroiseksi
 # Restarts the browser
 quickactions-restart = Käynnistä { -brand-short-name } uudelleen
+quickactions-cmd-restart = käynnistä uudelleen
 # Opens the screenshot tool
 quickactions-screenshot2 = Ota kuvakaappaus
 quickactions-cmd-screenshot = kuvakaappaus
@@ -315,9 +315,13 @@ quickactions-themes = Hallitse teemoja
 quickactions-cmd-themes = teemat
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Päivitä { -brand-short-name }
+quickactions-cmd-update = päivitä
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Näytä lähdekoodi
 quickactions-cmd-viewsource = näytä lähde, lähdekoodi
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Lue lisää pikatoiminnoista
 
 ## Bookmark Panel
 
