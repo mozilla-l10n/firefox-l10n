@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Wszystko gotowe!
 firefoxview-mobile-confirmation-description = Możesz teraz otwierać karty z przeglądarki { -brand-product-name } na telefonie lub tablecie.
 firefoxview-closed-tabs-title = Ostatnio zamknięte
 firefoxview-closed-tabs-description = Ponownie otwieraj strony zamknięte na tym urządzeniu.
+firefoxview-closed-tabs-description2 = Ponownie otwieraj strony zamknięte w tym oknie.
 firefoxview-closed-tabs-placeholder = <strong>Nie ma ostatnio zamkniętych stron</strong><br/>Nigdy więcej nie obawiaj się utraty zamkniętej karty. Zawsze możesz odzyskać ją tutaj.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ostatnio aktywna
