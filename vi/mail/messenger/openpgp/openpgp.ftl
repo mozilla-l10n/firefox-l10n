@@ -462,6 +462,7 @@ need-online = Chức năng bạn đã chọn không khả dụng ở chế độ
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Chúng tôi không thể tìm thấy bất kỳ khóa có thể sử dụng nào phù hợp với tiêu chí tìm kiếm được chỉ định.
 no-update-found = Bạn đã có các khóa được phát hiện trực tuyến.
+import-key-confirm = Nhập (các) khóa công khai được nhúng trong thư?
 fail-key-import = Lỗi - nhập khóa không thành công
 file-write-failed = Không thể ghi vào tập tin { $output }
 confirm-permissive-import = Nhập không thành công. Khóa bạn đang cố gắng nhập có thể bị hỏng hoặc sử dụng các thuộc tính không xác định. Bạn có muốn cố gắng nhập các bộ phận chính xác không? Điều này có thể dẫn đến việc nhập các khóa không đầy đủ và không sử dụng được.

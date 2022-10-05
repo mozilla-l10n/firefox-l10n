@@ -203,3 +203,7 @@ about-addressbook-photo-filepicker-title = Chọn một tập tin hình ảnh
 about-addressbook-photo-discard = Hủy ảnh hiện có
 about-addressbook-photo-cancel = Hủy bỏ
 about-addressbook-photo-save = Lưu
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N

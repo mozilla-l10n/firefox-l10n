@@ -151,6 +151,9 @@ message-header-hide-label-column =
 message-header-large-subject =
     .label = Chủ đề lớn
     .accesskey = s
+message-header-all-headers =
+    .label = Hiển thị tất cả header
+    .accesskey = a
 
 ## Action Button Context Menu
 
