@@ -285,6 +285,11 @@ mr2022-onboarding-set-default-only-subtitle = Començatz per utilizar un navegad
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Mercés d’apreciar { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Aviatz un Internet mai sanitós d’ont volètz amb un sol clic. Nòstra darrièra mesa a jorn es cargada de novetats que vos agradaràn.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Utilizatz un navegador que defend vòstra vida privada quand navegatz pel web. Nòstra darrièra mesa a jorn es cargada de novetat que vos agradaràn.
 mr2022-onboarding-existing-pin-checkbox-label = Ajustatz tanben la navegacion privada { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
@@ -367,6 +372,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Inventor/Inventritz.</b>Ve
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Passatz d’un ordenador portatiu a un mobil e invèrsament
+mr2022-onboarding-mobile-download-cta-text = Numerizatz lo còdi QR per installar { -brand-product-name } per mobil o <a data-l10n-name="download-label">enviatz un ligam de telecargament.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Numerizatz lo còdi QR per telecargar { -brand-product-name } mobile.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -382,6 +389,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Respectam totjorn vòstra vida privada
+mr2022-onboarding-privacy-segmentation-subtitle = De las suggestions intelligentas a la recèrca fina, sèm totjorn a crear un { -brand-product-name } melhor e mai personal.
 mr2022-onboarding-privacy-segmentation-button-primary-label = Utilizar las recomandacions { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar las informacions detalhadas
 
