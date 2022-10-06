@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = Certificate Manager
-
 certmgr-tab-mine =
     .label = Yer Certificates
-
 certmgr-tab-remembered =
     .label = Uphaudin Deceesions
-
 certmgr-tab-people =
     .label = Fowk
-
 certmgr-tab-servers =
     .label = Servers
-
 certmgr-tab-ca =
     .label = Authorities
-
 certmgr-mine = Ye hae certificates fae these organisations that identify ye
 certmgr-remembered = These certificates are yaised fur tae identify ye tae wabsites
 certmgr-people = Ye hae certificates on file that identify these fowk
 certmgr-server = These inpits identify server certificate mishanter exceptions
 certmgr-ca = Ye hae certificates on file that identify these certificate authorities
-
 certmgr-edit-ca-cert =
     .title = Chynge CA certificate trust settins
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Chynge CA certificate trust settins
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Chynge trust settins:
-
 certmgr-edit-cert-trust-ssl =
     .label = This certificate can identify wabsites.
-
 certmgr-edit-cert-trust-email =
     .label = This certificate can identify mail yaisers.
-
 certmgr-delete-cert =
     .title = Dicht Certificate
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Dicht Certificate
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Host
-
 certmgr-cert-name =
     .label = Certificate Nemme
-
 certmgr-cert-server =
     .label = Server
-
 certmgr-override-lifetime =
     .label = Lifetime
-
 certmgr-token-name =
     .label = Siccarness Device
-
 certmgr-begins-label =
     .label = Sterts On
-
 certmgr-expires-label =
     .label = Feenishes On
-
 certmgr-email =
     .label = Email Address
-
 certmgr-serial =
     .label = Serial Nummer
-
 certmgr-view =
     .label = View…
     .accesskey = V
-
 certmgr-edit =
     .label = Chynge Trust…
     .accesskey = C
-
 certmgr-export =
     .label = Ootgie…
     .accesskey = O
-
 certmgr-delete =
     .label = Dicht…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = Dicht or Dinnae Trust…
     .accesskey = D
-
 certmgr-backup =
     .label = Backup…
     .accesskey = B
-
 certmgr-backup-all =
     .label = Backup Aw…
     .accesskey = k
-
 certmgr-restore =
     .label = Inbring…
     .accesskey = b
-
 certmgr-add-exception =
     .label = Eik On Exception…
     .accesskey = x
-
 exception-mgr =
     .title = Eik On Siccarness Exception
-
 exception-mgr-extra-button =
     .label = Confirm Siccarness Exception
     .accesskey = C
-
 exception-mgr-supplemental-warning = Evendoon banks, shops, and ither public sites willnae speir ye tae dae this.
-
 exception-mgr-cert-location-url =
     .value = Airtin:
-
 exception-mgr-cert-location-download =
     .label = Get Certificate
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = View…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Store this exception ayebidin
     .accesskey = S
-
 pk11-bad-password = The passwird inpit wisnae richt.
 pkcs12-decode-err = Couldnae decode the file. Either it's no in PKCS #12 format, has been camshauchlet, or the passwird ye inpit wisnae richt.
 pkcs12-unknown-err-restore = Couldnae restore the PKCS #12 file for unkent reasons.
@@ -161,39 +130,28 @@ delete-user-cert-title =
     .title = Dicht yer Certificates
 delete-user-cert-confirm = Are ye shair ye're wantin tae dicht these certificates?
 delete-user-cert-impact = If ye dicht yin o yer ain certificates, ye cannae yaise it tae identify yersel onie mair.
-
-
 delete-ssl-override-title =
     .title = Dicht Server Certificate Exception
 delete-ssl-override-confirm = Are you sure ye're wantin tae dicht this server exception?
 delete-ssl-override-impact = If ye dicht a server exception, ye restore the ordinar siccarness checks fur thon server and require it tae yaise a suithfest certificate.
-
 delete-ca-cert-title =
     .title = Dicht or Dinnae Trust CA Certificates
 delete-ca-cert-confirm = Ye hae speired tae dicht these CA certificates. Fur biggit-in certificates aw trust will be remuived, which comes tae the same thing. Are ye shair ye're wantin tae dicht or dinnae trust?
 delete-ca-cert-impact = If ye dicht or dinnae trust a certificate authority (CA) certificate, this application willnae trust onie certificates gied oot by that CA onie mair.
-
-
 delete-email-cert-title =
     .title = Dicht E-Mail Certificates
 delete-email-cert-confirm = Are ye shair ye're wantin tae dicht these fowk's e-mail certificates?
 delete-email-cert-impact = If ye dicht a body’s e-mail certificate, ye'll no be able tae send encryptit e-mail tae thon body onie mair.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certificate wi serial nummer: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Send nae client certificate
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (No Stored)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (No available)
 
