@@ -24,6 +24,13 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Vsi imeniki
 all-address-books = Vsi imeniki
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Skupaj stikov v imeniku { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Skupaj stikov v vseh imenikih: { $count }
 about-addressbook-books-context-properties =
     .label = Lastnosti
 about-addressbook-books-context-edit-list =
@@ -213,6 +220,7 @@ about-addressbook-details-phone-numbers-header = Telefonske številke
 about-addressbook-details-addresses-header = Naslovi
 about-addressbook-details-notes-header = Opombe
 about-addressbook-details-impp-header = Neposredno sporočanje
+about-addressbook-details-websites-header = Spletne strani
 about-addressbook-details-other-info-header = Drugi podatki
 about-addressbook-entry-type-work = Služba
 about-addressbook-entry-type-home = Doma
