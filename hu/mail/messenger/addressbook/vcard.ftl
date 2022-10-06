@@ -36,6 +36,10 @@ vcard-n-suffix = Utótag
 vcard-n-add-suffix =
     .title = Utótag hozzáadása
 
+# Nickname
+
+vcard-nickname = Becenév
+
 # Email vCard field
 
 vcard-email-header = E-mail-címek
@@ -54,6 +58,10 @@ vcard-url-label = Webhely
 vcard-tel-header = Telefonszámok
 vcard-tel-add = Telefonszám hozzáadása
 vcard-tel-label = Telefonszám
+# Or "Mobile"
+vcard-entry-type-cell = Cella
+vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Személyhívó
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Időzóna hozzáadása
 
 # IMPP vCard field
 
-vcard-impp-header = Csevegőfiókok
 vcard-impp2-header = Azonnali üzenetküldés
 vcard-impp-add = Csevegőfiók hozzáadása
 vcard-impp-label = Csevegőfiók
