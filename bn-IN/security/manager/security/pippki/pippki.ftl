@@ -13,8 +13,6 @@ change-password-old = বর্তমান পাসওয়ার্ড:
 change-password-new = নতুন পাসওয়ার্ড:
 change-password-reenter = নতুন পাসওয়ার্ড (পুনরায় লিখুন):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
     .style = width: 46em
+download-cert-window2 =
+    .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
+    .style = min-width: 46em
 download-cert-message = একটি নতুন সার্টিফিকেট অথোরিটিকে (CA) বিশ্বাস করার অনুরোধ জানানো হয়েছে।
 download-cert-trust-ssl =
     .label = ওয়েব-সাইট সনাক্ত করতে এই CA-টি বিশ্বাস করা হবে।
