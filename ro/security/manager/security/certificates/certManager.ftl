@@ -4,130 +4,99 @@
 
 certmgr-title =
     .title = Manager de certificate
-
 certmgr-tab-mine =
     .label = Certificatele tale
-
 certmgr-tab-remembered =
     .label = Decizii de autentificare
-
 certmgr-tab-people =
     .label = Persoane
-
 certmgr-tab-servers =
     .label = Servere
-
 certmgr-tab-ca =
     .label = Autorități
-
 certmgr-mine = Ai certificate de la aceste organizații care te identifică
 certmgr-remembered = Aceste certificate sunt folosite pentru a te identifica pe site-urile web
 certmgr-people = Ai stocate certificate care identifică aceste persoane
 certmgr-ca = Ai stocate certificate care identifică aceste autorități de certificare
-
 certmgr-edit-ca-cert =
     .title = Editează setările certificatului de încredere AC
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Editează setările certificatului de încredere AC
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Editează setările de acreditare:
-
 certmgr-edit-cert-trust-ssl =
     .label = Acest certificat poate identifica site-uri web.
-
 certmgr-edit-cert-trust-email =
     .label = Acest certificat poate identifica utilizatori de e-mail.
-
 certmgr-delete-cert =
     .title = Șterge certificatul
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Șterge certificatul
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Gazdă
-
 certmgr-cert-name =
     .label = Numele certificatului
-
 certmgr-cert-server =
     .label = Server
-
 certmgr-override-lifetime =
     .label = Durată de viață
-
 certmgr-token-name =
     .label = Dispozitiv de securitate
-
 certmgr-begins-label =
     .label = Începe
-
 certmgr-expires-label =
     .label = Expiră
-
 certmgr-email =
     .label = Adresă de e-mail
-
 certmgr-serial =
     .label = Număr de serie
-
 certmgr-view =
     .label = Vezi
     .accesskey = V
-
 certmgr-edit =
     .label = Editează încrederea…
     .accesskey = E
-
 certmgr-export =
     .label = Exportă…
     .accesskey = x
-
 certmgr-delete =
     .label = Șterge…
     .accesskey = g
-
 certmgr-delete-builtin =
     .label = Șterge sau anulează încrederea…
     .accesskey = D
-
 certmgr-backup =
     .label = Salvează
     .accesskey = S
-
 certmgr-backup-all =
     .label = Salvează tot
     .accesskey = l
-
 certmgr-restore =
     .label = Importă…
     .accesskey = m
-
 certmgr-add-exception =
     .label = Adaugă excepție…
     .accesskey = x
-
 exception-mgr =
     .title = Adaugă excepție de la securitate
-
 exception-mgr-extra-button =
     .label = Confirmă excepția de la securitate
     .accesskey = C
-
 exception-mgr-supplemental-warning = Băncile autorizate, magazinele și alte site-uri publice nu îți vor cere să faci asta.
-
 exception-mgr-cert-location-url =
     .value = Adresă:
-
 exception-mgr-cert-location-download =
     .label = Ia certificatul
     .accesskey = I
-
 exception-mgr-cert-status-view-cert =
     .label = Vedere…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Stochează această excepție permanent
     .accesskey = p
-
 pk11-bad-password = Parola introdusă este incorectă.
 pkcs12-decode-err = Nu se poate decoda fișierul.  Fie acesta nu e în format PKCS #12, fie a fost corupt, fie parola pe care ați introdus-o e incorectă.
 pkcs12-unknown-err-restore = Nu s-a putut restaura fișierul de tip PKCS #12 din motive necunoscute.
@@ -160,32 +129,25 @@ delete-user-cert-title =
     .title = Șterge certificatele proprii
 delete-user-cert-confirm = Sigur vrei să ștergi aceste certificate?
 delete-user-cert-impact = Dacă ștergi unul dintre certificatele proprii, nu-l vei mai putea folosi pentru a te identifica.
-
-
 delete-ca-cert-title =
     .title = Șterge sau anulează încrederea certificatelor AC
 delete-ca-cert-confirm = Ai cerut ștergerea acestor certificate AC. Pentru certificatele incluse, toate încrederile acordate vor fi eliminate, lucru ce are același efect. Sigur vrei să ștergi sau să elimini încrederea?
 delete-ca-cert-impact = Dacă ștergi sau anulezi încrederea în certificatul autorității de certificare (AC), aplicația nu va mai considera de încredere certificatele emise de acea AC.
-
-
 delete-email-cert-title =
     .title = Șterge certificatele de e-mail
 delete-email-cert-confirm = Sigur vrei să ștergi certificatele de e-mail ale acestor persoane?
 delete-email-cert-impact = Dacă ștergi un certificat de e-mail al unei persoane, nu vei mai putea să îi trimiți mesaje de e-mail criptate.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certificatul cu numărul de serie: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Nu trimite niciun certificat de client
 
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
