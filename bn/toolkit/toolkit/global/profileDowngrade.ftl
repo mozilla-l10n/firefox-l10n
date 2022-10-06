@@ -5,10 +5,11 @@
 profiledowngrade-window =
     .title = আপনি { -brand-product-name } এর একটি পুরনো সংস্করণ চালু করেছেন
     .style = width: 490px;
-
+profiledowngrade-window2 =
+    .title = আপনি { -brand-product-name } এর একটি পুরনো সংস্করণ চালু করেছেন
+    .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = নতুন প্রোফাইল তৈরি করুন
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
