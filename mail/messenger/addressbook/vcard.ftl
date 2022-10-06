@@ -117,8 +117,17 @@ vcard-org-title-input =
     .title = Kargua edo lana
     .placeholder = Lan izendapena
 vcard-org-role = Rola
+vcard-org-role-input =
+    .title = Funtzioa edo egoera berezian jokatutako papera
+    .placeholder = Funtzioa proiektuan
 vcard-org-org = Erakundea
+vcard-org-org-input =
+    .title = Erakundearen izena
+    .placeholder = Konpainia izena
 vcard-org-org-unit = Saila
+vcard-org-org-unit-input =
+    .title = Erakundearen atal izena
+    .placeholder = Saila
 
 # Custom properties
 
