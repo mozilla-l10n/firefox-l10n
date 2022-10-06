@@ -13,8 +13,6 @@ change-password-old = ప్రస్తుత సంకేతపదం:
 change-password-new = కొత్త సంకేతపదం:
 change-password-reenter = కొత్త సంకేతపదం (మరలా):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
     .style = width: 46em
+download-cert-window2 =
+    .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
+    .style = min-width: 46em
 download-cert-message = కొత్త ధృవీకరణపత్ర అధారిటీ (CA)ని నమ్మమని మీరు అడగబడుతున్నారు.
 download-cert-trust-ssl =
     .label = వెబ్ సైట్లను గుర్తించడానికి ఈ CAను విశ్వసించు.
