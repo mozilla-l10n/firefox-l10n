@@ -115,8 +115,12 @@ vcard-org-add = Gehitu erakundearen propietateak
 vcard-org-title = Izenburua
 vcard-org-role = Rola
 vcard-org-org = Erakundea
+vcard-org-org-unit = Saila
 
 # Custom properties
 
 vcard-custom-header = Propietate pertsonalizatuak
 vcard-custom-add = Gehitu propietate pertsonalizatuak
+vcard-remove-button-title =
+    .title = Kendu
+vcard-remove-button = Kendu
