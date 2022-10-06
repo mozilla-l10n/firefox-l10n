@@ -32,6 +32,11 @@ create-profile-last-page-header =
         [macos] முடிவுரை
        *[other] { create-profile-window.title } முடிகிறது
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] முடிவுரை
+       *[other] { create-profile-window2.title } முடிகிறது
+    }
 profile-creation-intro = பல விவரக்குறிப்பை உருவாக்கினால் அவைகளுக்கு தனி பெயரை பயன்படுத்தலாம். இங்கே கொடுக்கப்பட்ட பெயர் அல்லது சொந்த பெயரை பயன்படுத்தலாம்.
 profile-prompt = புதிய விவரக்குறிப்பு பெயரை உள்ளிடவும்:
     .accesskey = E
