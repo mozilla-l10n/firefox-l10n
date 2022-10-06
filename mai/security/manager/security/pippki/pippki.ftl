@@ -13,8 +13,6 @@ change-password-old = मोजुदा  गुड़किल्ली:
 change-password-new = नव गुड़किल्ली:
 change-password-reenter = नव गुड़किल्ली (फेर):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = प्रमाणपत्र डाउनलोड कए रहल  अछि
     .style = width: 46em
+download-cert-window2 =
+    .title = प्रमाणपत्र डाउनलोड कए रहल  अछि
+    .style = min-width: 46em
 download-cert-message = आपको एकटाटा नव सर्टिफिकेट आथोरिटी (CA) पर विश्वास  कलेल  पूछा जएताह.
 download-cert-trust-ssl =
     .label = ई CA केँ भरोसा करू वेबसाइट केँ पहचानने  कलेल .
