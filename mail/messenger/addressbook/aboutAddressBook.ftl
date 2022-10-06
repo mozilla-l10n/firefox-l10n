@@ -22,6 +22,10 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Усі адресні книги
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Загальна кількість контактів у { $name }: { $count }
 about-addressbook-books-context-properties =
     .label = Властивості
 about-addressbook-books-context-edit-list =
