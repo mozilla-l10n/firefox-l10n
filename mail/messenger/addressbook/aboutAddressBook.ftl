@@ -21,11 +21,16 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Усі адресні книги
 all-address-books = Усі адресні книги
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
 about-addressbook-card-count = Загальна кількість контактів у { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Загальна кількість контактів у всіх адресних книгах: { $count }
 about-addressbook-books-context-properties =
     .label = Властивості
 about-addressbook-books-context-edit-list =
@@ -91,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = Адреси електронної пошти
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Псевдонім
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Номери телефону
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -179,10 +187,23 @@ about-addressbook-placeholder-no-search-results = Контактів не зна
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = Вибрано { $count } контактів і списків
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = Вибрано { $count } контактів
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = Вибрано { $count } списків
+about-addressbook-details-edit-photo =
+    .title = Змінити світлину контакту
+about-addressbook-new-contact-header = Новий контакт
 about-addressbook-prefer-display-name = Надавати перевагу показуваному імені, а не заголовку повідомлення
 about-addressbook-write-action-button = Створити
 about-addressbook-event-action-button = Подія
 about-addressbook-search-action-button = Пошук
+about-addressbook-new-list-action-button = Створити список
 about-addressbook-begin-edit-contact-button = Редагувати
 about-addressbook-delete-edit-contact-button = Видалити
 about-addressbook-cancel-edit-contact-button = Скасувати
@@ -193,6 +214,7 @@ about-addressbook-details-phone-numbers-header = Номери телефону
 about-addressbook-details-addresses-header = Адреси
 about-addressbook-details-notes-header = Примітки
 about-addressbook-details-impp-header = Миттєві повідомлення
+about-addressbook-details-websites-header = Вебсайти
 about-addressbook-details-other-info-header = Інші відомості
 about-addressbook-entry-type-work = Робота
 about-addressbook-entry-type-home = Дім
@@ -207,6 +229,9 @@ about-addressbook-entry-name-role = Роль
 about-addressbook-entry-name-organization = Організація
 about-addressbook-entry-name-website = Вебсайт
 about-addressbook-entry-name-time-zone = Часовий пояс
+about-addressbook-entry-name-custom1 = Інше 1
+about-addressbook-entry-name-custom2 = Інше 2
+about-addressbook-entry-name-custom3 = Інше 3
 about-addressbook-unsaved-changes-prompt-title = Незбережені зміни
 about-addressbook-unsaved-changes-prompt = Зберегти зміни, перш ніж вийти з режиму редагування?
 
