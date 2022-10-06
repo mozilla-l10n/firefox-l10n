@@ -13,8 +13,6 @@ change-password-old = Huidige wagwoord:
 change-password-new = Nuwe wagwoord:
 change-password-reenter = Nuwe wagwoord (weer):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Laai tans sertifikaat af
     .style = width: 46em
+download-cert-window2 =
+    .title = Laai tans sertifikaat af
+    .style = min-width: 46em
 download-cert-message = U is gevra om 'n nuwe sertifikaatowerheid (SO) te vertrou.
 download-cert-trust-ssl =
     .label = Vertrou hierdie SO om webwerwe te identifiseer.
