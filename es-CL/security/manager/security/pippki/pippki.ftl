@@ -8,22 +8,18 @@ password-quality-meter = Medidor de calidad de la contraseña
 
 change-device-password-window =
     .title = Cambiar contraseña
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguridad: { $tokenName }
 change-password-old = Contraseña actual:
 change-password-new = Nueva contraseña:
 change-password-reenter = Nueva contraseña (otra vez):
-
 pippki-failed-pw-change = No se pudo cambiar la contraseña primaria.
 pippki-incorrect-pw = No ingresaste correctamente la contraseña primaria. Por favor, vuelve a intentarlo.
 pippki-pw-change-ok = La contraseña ha sido cambiada exitosamente.
-
 pippki-pw-empty-warning = Tus contraseñas almacenadas y claves privadas no estarán protegidas.
 pippki-pw-erased-ok = Has eliminado tu contraseña. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ¡Advertencia! Has decidido no usar una contraseña. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Actualmente estás en modo FIPS. FIPS requiere de una contraseña que no esté en blanco.
 
 ## Reset Primary Password dialog
@@ -31,10 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Actualmente estás en modo FIPS. FIPS requ
 reset-primary-password-window =
     .title = Restablecer la contraseña primaria
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = Restablecer la contraseña primaria
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Restablecer
 reset-primary-password-text = Si restableces tu contraseña primaria, todas las contraseñas de webs y de correo electrónico, certificados personales y llaves privadas almacenados serán olvidados. ¿De verdad quieres restablecer tu contraseña primaria?
-
 pippki-reset-password-confirmation-title = Restablecer la contraseña primaria
 pippki-reset-password-confirmation-message = Tu contraseña primaria ha sido restablecida.
 
@@ -43,6 +41,9 @@ pippki-reset-password-confirmation-message = Tu contraseña primaria ha sido res
 download-cert-window =
     .title = Bajando certificado
     .style = width: 46em
+download-cert-window2 =
+    .title = Bajando certificado
+    .style = min-width: 46em
 download-cert-message = Se te ha pedido que confíes en una nueva autoridad de certificación (CA).
 download-cert-trust-ssl =
     .label = Confiar en esta CA para identificar sitios web.
