@@ -13,13 +13,14 @@ create-profile-first-page-header =
         [macos] Introduksjon
        *[other] Velkomen til { create-profile-window.title }
     }
-
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Introduksjon
+       *[other] Velkomen til { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } lagrar innstillingar og adre brukardata i den personlege profilen din.
-
 profile-creation-explanation-2 = Dersom du deler dette eksemplaret av { -brand-short-name } med andre brukarar kan du bruke profilane for å halde informasjonen til kvar brukar for seg sjølv. For å gjere dette må kvar brukar lage sin eigen profil.
-
 profile-creation-explanation-3 = Dersom du er den einaste personen som brukar dette eksemplaret av { -brand-short-name } må du ha minst ein profil. Dersom du vil kan du lage fleire profilar for deg sjølv for å skilja mellom ulike sett av innstillingar og val. Du kan til dømes ha separate profilar for arbeid og personleg bruk.
-
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Trykk «Fortset» for å byrje å lage profilen din.
@@ -33,21 +34,20 @@ create-profile-last-page-header =
         [macos] Konklusjon
        *[other] Fullfører { create-profile-window.title }
     }
-
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Konklusjon
+       *[other] Fullfører { create-profile-window2.title }
+    }
 profile-creation-intro = Dersom du lagar fleire profilar kan du skilje dei frå kvarandre med profilnamn. Du kan bruke namnet spesifisert her, eller du kan bruke eit anna.
-
 profile-prompt = Skriv inn nytt profilnamn:
     .accesskey = S
-
 profile-default-name =
     .value = Standardbrukar
-
 profile-directory-explanation = Innstillingane dine og andre brukardata vart lagra i:
-
 create-profile-choose-folder =
     .label = Vel mappe…
     .accesskey = V
-
 create-profile-use-default =
     .label = Bruk standardmappe
     .accesskey = B
