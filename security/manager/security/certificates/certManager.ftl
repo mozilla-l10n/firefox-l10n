@@ -4,119 +4,88 @@
 
 certmgr-title =
     .title = प्रमाणपत्र प्रबंधक
-
 certmgr-tab-mine =
     .label = अहाँक प्रमाणपत्र
-
 certmgr-tab-people =
     .label = आम आदमी
-
 certmgr-tab-servers =
     .label = सर्वर
-
 certmgr-tab-ca =
     .label = प्राधिकार
-
 certmgr-edit-ca-cert =
     .title = CA प्रमाणपत्र ट्रस्ट जमावट केँ संपादित  करू
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = ट्रस्ट जमावट संपादित  करू :
-
 certmgr-edit-cert-trust-ssl =
     .label = ई प्रमाणपत्र वैबसाइट पहचान सकैत अछि .
-
 certmgr-edit-cert-trust-email =
     .label = ई प्रमाणपत्र मेल प्रयोक्ता केँ पहचान सकैत अछि .
-
 certmgr-delete-cert =
     .title = प्रमाणपत्र मेटाउ
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = प्रमाणपत्र मेटाउ
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = प्रमाणपत्र नाम
-
 certmgr-cert-server =
     .label = सर्वर
-
 certmgr-override-lifetime =
     .label = जीवनपर्यंत
-
 certmgr-token-name =
     .label = सुरक्षा युक्ति
-
 certmgr-begins-label =
     .label = ईसमय आरंभ
-
 certmgr-expires-label =
     .label = एकरा पर समाप्त
-
 certmgr-email =
     .label = ईमेल पता
-
 certmgr-serial =
     .label = क्रम संख्या
-
 certmgr-view =
     .label = दृश्य…
     .accesskey = V
-
 certmgr-edit =
     .label = भरोस संपादित करू…
     .accesskey = E
-
 certmgr-export =
     .label = निर्यात…
     .accesskey = x
-
 certmgr-delete =
     .label = मेटाउ…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = मेटाउ अथवा भरोस नहि करू…
     .accesskey = D
-
 certmgr-backup =
     .label = बैकअप…
     .accesskey = B
-
 certmgr-backup-all =
     .label = सभक बैकअप लिअ…
     .accesskey = k
-
 certmgr-restore =
     .label = आयात  करू …
     .accesskey = m
-
 certmgr-add-exception =
     .label = अपवाद जोड़ू…
     .accesskey = x
-
 exception-mgr =
     .title = सुरक्षा अपवाद जोड़ू
-
 exception-mgr-extra-button =
     .label = Confirm Security Exception
     .accesskey = C
-
 exception-mgr-supplemental-warning = वैध बैंक, भंडार, आओर दोसर सार्वजनिक साइट अहाँकेँ एहन करबाक लेल नहि कहब.
-
 exception-mgr-cert-location-url =
     .value = स्थान:
-
 exception-mgr-cert-location-download =
     .label = प्रमाणपत्र पाउ
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = दृश्य…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = ई अपवाद स्थायी रूप सँ जमा करू
     .accesskey = P
-
 pk11-bad-password = दाखिल गुड़किल्ली गलत था.
 pkcs12-decode-err = फाइल डिकोड करब मे विफल.  अथवा तँ ई PKCS #12 प्रारूपेँ नहि था, गतल कएल गेल था, अथवा जे गुड़किल्ली अहाँ डाला वह गलत था.
 pkcs12-unknown-err-restore = PKCS #12 फाइल फेर जमा करब मे बिफल अनजान कारण से.
@@ -149,22 +118,17 @@ delete-user-cert-title =
     .title = अपन प्रमाणपत्र मेटाउ
 delete-user-cert-confirm = की अहाँ ई प्रमाणपत्र केँ मेटाबैक लेल निश्चित छी?
 delete-user-cert-impact = जँ अहाँ अपन एकटा प्रमाणपत्र मेटाबै अछि, अहाँ स्वयं एकरा प्रयोग नहि कए पाएब.
-
-
 delete-ca-cert-title =
     .title = Delete or Distrust CA Certificates
 delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
 delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
-
-
 delete-email-cert-title =
     .title = ईमेल प्रमाणपत्र मेटाउ
 delete-email-cert-confirm = की अहाँ ई लोकनिक इमेल प्रमाणपत्र केँ मेटाबैक लेल निश्चित छी?
 delete-email-cert-impact = जँ अहाँ ककरो व्यक्ति क इमेल प्रमाणपत्र मेटाबै छी, अहाँक ओ लोकनिकेँ गोपित इमेल भेजबाक लेल नहि रहि जएताह.
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
