@@ -13,8 +13,6 @@ change-password-old = Kakano akasumulizo:
 change-password-new = Akasumulizo akapya:
 change-password-reenter = Akasumulizo akapya (nddamu):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Kuwanuula Santifikati
     .style = width: 46em
+download-cert-window2 =
+    .title = Kuwanuula Santifikati
+    .style = min-width: 46em
 download-cert-message = Obandee osabibwa ku kakasa Obunyiza bwa Santifikati empya (CA).
 download-cert-trust-ssl =
     .label = Wesige CA eno okwawula ebyapa.
