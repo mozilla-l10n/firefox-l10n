@@ -13,8 +13,6 @@ change-password-old = Igama lokungena lamanje:
 change-password-new = Igama Lokungena Elisha:
 change-password-reenter = Igama lokungena elisha (futhi):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Ukuthatha ufake izitifiketi
     .style = width: 46em
+download-cert-window2 =
+    .title = Ukuthatha ufake izitifiketi
+    .style = min-width: 46em
 download-cert-message = Ucelwe ukuba wethembe iGunya Lesitifiketi (CA) elisha.
 download-cert-trust-email =
     .label = Themba le CA ukuthi izohlonza abasebenzisi be-imeyili.
