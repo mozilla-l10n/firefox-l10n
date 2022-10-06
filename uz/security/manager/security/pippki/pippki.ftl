@@ -13,8 +13,6 @@ change-password-old = Joriy parol:
 change-password-new = Yangi parol:
 change-password-reenter = Yangi parol (yana):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Sertifikat yuklab olinmoqda
     .style = width: 46em
+download-cert-window2 =
+    .title = Sertifikat yuklab olinmoqda
+    .style = min-width: 46em
 download-cert-message = Sizdan yangi sertifikat tasdig‘i (CA)ga ishonishingiz so‘ralgan edi.
 download-cert-trust-ssl =
     .label = Ushbu CA tasdiqli vebsaytlarga ishonish.
