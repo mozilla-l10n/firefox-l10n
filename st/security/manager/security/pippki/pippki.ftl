@@ -13,8 +13,6 @@ change-password-old = Phasewete ya Hajwale:
 change-password-new = Phasewete e ntjha:
 change-password-reenter = Phasewete e ntjha (hape):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = E jarolla Disetifikeiti
     .style = width: 46em
+download-cert-window2 =
+    .title = E jarolla Disetifikeiti
+    .style = min-width: 46em
 download-cert-message = O kopilwe ho tshepa Taolo ya Setifikeiti (CA) e ntjha.
 download-cert-trust-ssl =
     .label = Tshepa CA ena ho tsebahatsa ditsha tsa webe.
