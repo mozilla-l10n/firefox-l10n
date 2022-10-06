@@ -4,130 +4,99 @@
 
 certmgr-title =
     .title = Chestor de certificaus
-
 certmgr-tab-mine =
     .label = Os suyos certificaus
-
 certmgr-tab-remembered =
     .label = Decisions d'autenticación
-
 certmgr-tab-people =
     .label = D'atros
-
 certmgr-tab-servers =
     .label = Servidors
-
 certmgr-tab-ca =
     .label = Entidatz
-
 certmgr-mine = Tiens certificaus d'estas organizacions que t'identifican
 certmgr-remembered = Estos certificaus se fan servir para identificar-te en pachinas web
 certmgr-people = Tiens certificaus en o fichero que identifican a estas personas
 certmgr-ca = Tiens certificaus en o fichero que identifican estas autoridatz de certificación
-
 certmgr-edit-ca-cert =
     .title = Editar os parametros de confianza d'o certificau d'a CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Editar os parametros de confianza d'o certificau d'a CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Editar os parametros de confianza:
-
 certmgr-edit-cert-trust-ssl =
     .label = Iste certificau puede identificar puestos web.
-
 certmgr-edit-cert-trust-email =
     .label = Iste certificau puede identificar usuarios de correu.
-
 certmgr-delete-cert =
     .title = Eliminar o certificau
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Eliminar o certificau
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Servidor
-
 certmgr-cert-name =
     .label = Nombre d'o certificau
-
 certmgr-cert-server =
     .label = Servidor
-
 certmgr-override-lifetime =
     .label = Tiempo de vida
-
 certmgr-token-name =
     .label = Dispositivo de seguranza
-
 certmgr-begins-label =
     .label = Data d'inicio
-
 certmgr-expires-label =
     .label = Calendata de vencimiento
-
 certmgr-email =
     .label = Adreza de correu electronico
-
 certmgr-serial =
     .label = Numero de serie
-
 certmgr-view =
     .label = Veyer…
     .accesskey = V
-
 certmgr-edit =
     .label = Editar a confianza…
     .accesskey = E
-
 certmgr-export =
     .label = Exportar…
     .accesskey = x
-
 certmgr-delete =
     .label = Eliminar…
     .accesskey = r
-
 certmgr-delete-builtin =
     .label = Eliminar u deixar de confiar-ie…
     .accesskey = n
-
 certmgr-backup =
     .label = Fer-ne copia de seguranza…
     .accesskey = p
-
 certmgr-backup-all =
     .label = Fer-ne copia de seguranza de tot…
     .accesskey = g
-
 certmgr-restore =
     .label = Importar…
     .accesskey = m
-
 certmgr-add-exception =
     .label = Adhibir una excepción…
     .accesskey = x
-
 exception-mgr =
     .title = Adhibir una excepción de seguranza
-
 exception-mgr-extra-button =
     .label = Confirmar a excepción de seguranza
     .accesskey = C
-
 exception-mgr-supplemental-warning = Bancos, botigas y atros puestos publicos lechitimos no le pedirán que lo faiga.
-
 exception-mgr-cert-location-url =
     .value = Ubicación:
-
 exception-mgr-cert-location-download =
     .label = Aconseguir o certificau
     .accesskey = g
-
 exception-mgr-cert-status-view-cert =
     .label = Veyer…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Almagazenar permanentment ista excepción
     .accesskey = p
-
 pk11-bad-password = A clau introducida yera incorrecta.
 pkcs12-decode-err = No s'ha puesto decodificar o fichero. Puede ser que no siga en formato PKCS #12, que siga corrompiu u que a clau que ha introduciu siga incorrecta.
 pkcs12-unknown-err-restore = No s'ha puesto recuperar o fichero PKCS #12 por razons desconoixidas.
@@ -160,32 +129,25 @@ delete-user-cert-title =
     .title = Eliminar os suyos certificaus
 delete-user-cert-confirm = Ye seguro que quiere eliminar istos certificaus?
 delete-user-cert-impact = Si elimina un d'os suyos propios certificaus, no podrá fer-lo servir ta identificar-se.
-
-
 delete-ca-cert-title =
     .title = Eliminar u deixar de confiar en os certificaus d'a CA
 delete-ca-cert-confirm = Ha solicitau eliminar istos certificaus d'a CA. En o caso de certificaus integraus, se'n eliminará toda la confianza, que tiene o mesmo efecto. Ye seguro que eliminar-los o deixar-ie de confiar?
 delete-ca-cert-impact = Si elimina u deixa de confiar en un certificau d'una entidat certificadera (CA), ista aplicación deixará de confiar en qualsiquier certificau emitiu por ista CA.
-
-
 delete-email-cert-title =
     .title = Eliminar os certificaus de correu electronico
 delete-email-cert-confirm = Ye seguro que quiere eliminar istos certificaus de correu electronico d'istas personas?
 delete-email-cert-impact = Si elimina un certificau de correu electronico d'una persona, ya no podrá ninviar-le correu zifrau.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certificau con numero de serie: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = No ninviar lo certificau de client
 
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
