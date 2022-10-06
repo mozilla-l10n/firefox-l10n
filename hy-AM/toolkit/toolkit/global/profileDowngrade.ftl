@@ -5,13 +5,13 @@
 profiledowngrade-window =
     .title = Դուք օգտագործում եք { -brand-product-name }֊ի հին տարբերակը
     .style = width: 490px;
-
+profiledowngrade-window2 =
+    .title = Դուք օգտագործում եք { -brand-product-name }֊ի հին տարբերակը
+    .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = Ստեղծել նոր հաշիվ
-
 profiledowngrade-sync = { -brand-product-name }-ի հին տարբերակի օգտագործումը կարող է վնասել գոյություն ունեցող { -brand-product-name }-ի հաշվում արդեն պահպանված էջանիշերը և զննարկման պատմությունը։ Ձեր տեղեկությունը պաշտպանելու համար, ստեղծեք նոր հաշիվ { -brand-short-name }-ի այս տեղակայման համար։ Դուք կարող եք միշտ մուտք գործել { -fxaccount-brand-name }-ի հետ Ձեր էջանիշերը և զննարկման պատմությունը հաշիվների միջև համաժամեցնելու համար։
 profiledowngrade-nosync = { -brand-product-name }֊ի ավելի հին տարաբերակի օգտագործումը կարող է վնասել էջանիշները և դիտման պատմությունը, որոնք արդեն պահված են Ձեր առկա { -brand-product-name }֊ի հատկագրում։ Ձեր տեղեկատվությունը պաշտպանելու համար ստեղծեք նոր տեղադրություն այս տեղադրման համար { -brand-short-name }
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
