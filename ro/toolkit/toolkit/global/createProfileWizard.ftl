@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Asistent pentru crearea profilului
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = Asistent pentru crearea profilului
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
