@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] შესავალი
        *[other] მოგესალმებათ { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] შესავალი
+       *[other] მოგესალმებათ { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } ინახავს მონაცემებს თქვენი პარამეტრების, მახასიათებლების და სანიშნების შესახებ თქვენს პირად პროფილში.
 profile-creation-explanation-2 = თუ ეს { -brand-short-name } თქვენ გარდა სხვა მომხმარებლების განკარგულებაშიცაა, შეგიძლიათ პროფილები გამოიყენოთ მონაცემების განსაცალკევებლად. ამისთვის თითოეულმა მომხმარებელმა საკუთარი პროფილი უნდა შექმნას.
 profile-creation-explanation-3 = თუ ეს { -brand-short-name } მხოლოდ თქვენს განკარგულებაშია, უნდა გაგაჩნდეთ ერთი პროფილი მაინც. სურვილისამებრ შეგიძლიათ შექმნათ სხვადასხვა პროფილებიც განსხვავებული პარამეტრებით. მაგალითად, სამუშაოდ და პირადი სარგებლობისთვის.
