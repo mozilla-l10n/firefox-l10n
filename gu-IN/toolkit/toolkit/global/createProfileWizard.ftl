@@ -5,6 +5,9 @@
 create-profile-window =
     .title = રુપરેખા વિઝાર્ડ બનાવો
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = રુપરેખા વિઝાર્ડ બનાવો
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
