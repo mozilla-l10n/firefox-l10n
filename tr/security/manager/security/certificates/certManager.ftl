@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = Sertifika Yöneticisi
-
 certmgr-tab-mine =
     .label = Sertifikalarınız
-
 certmgr-tab-remembered =
     .label = Kimlik doğrulama kararları
-
 certmgr-tab-people =
     .label = Kişiler
-
 certmgr-tab-servers =
     .label = Sunucular
-
 certmgr-tab-ca =
     .label = Makamlar
-
 certmgr-mine = Sizi tanımlayan aşağıdaki kuruluşlardan sertifikalarınız var
 certmgr-remembered = Bu sertifikalar sizi web sitelerine tanıtmak için kullanılır
 certmgr-people = Aşağıdaki kişileri tanımlayan kayıtlı sertifikalarınız var
 certmgr-server = Bu girdiler, sunucu sertifikası hata ayrıcalıklarını tanımlar
 certmgr-ca = Aşağıdaki sertifika makamlarını tanımlayan kayıtlı sertifikalarınız var
-
 certmgr-edit-ca-cert =
     .title = CA sertifikası güven ayarlarını düzenle
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = CA sertifikası güven ayarlarını düzenle
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Güven ayarlarını düzenle:
-
 certmgr-edit-cert-trust-ssl =
     .label = Bu sertifika, web sitelerini tanımlayabilir.
-
 certmgr-edit-cert-trust-email =
     .label = Bu sertifika posta kullanıcılarını tanımlayabilir.
-
 certmgr-delete-cert =
     .title = Sertifikayı sil
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Sertifikayı sil
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Ana makine
-
 certmgr-cert-name =
     .label = Sertifika adı
-
 certmgr-cert-server =
     .label = Sunucu
-
 certmgr-override-lifetime =
     .label = Yaşam süresi
-
 certmgr-token-name =
     .label = Güvenlik aygıtı
-
 certmgr-begins-label =
     .label = Başlangıç tarihi
-
 certmgr-expires-label =
     .label = Bitiş tarihi
-
 certmgr-email =
     .label = E-posta adresi
-
 certmgr-serial =
     .label = Seri numarası
-
 certmgr-view =
     .label = Görüntüle…
     .accesskey = G
-
 certmgr-edit =
     .label = Güven ayarları…
     .accesskey = n
-
 certmgr-export =
     .label = Dışa aktar…
     .accesskey = D
-
 certmgr-delete =
     .label = Sil…
     .accesskey = S
-
 certmgr-delete-builtin =
     .label = Sil veya güvenme…
     .accesskey = S
-
 certmgr-backup =
     .label = Yedekle…
     .accesskey = Y
-
 certmgr-backup-all =
     .label = Hepsini yedekle…
     .accesskey = d
-
 certmgr-restore =
     .label = İçe aktar…
     .accesskey = a
-
 certmgr-add-exception =
     .label = Ayrıcalık tanı…
     .accesskey = t
-
 exception-mgr =
     .title = Güvenlik ayrıcalığı tanı
-
 exception-mgr-extra-button =
     .label = Güvenlik ayrıcalığını doğrula
     .accesskey = d
-
 exception-mgr-supplemental-warning = Bankalar, mağazalar ve diğer kamu siteleri bunu yapmanızı istemez.
-
 exception-mgr-cert-location-url =
     .value = Konum:
-
 exception-mgr-cert-location-download =
     .label = Sertifikayı al
     .accesskey = a
-
 exception-mgr-cert-status-view-cert =
     .label = Göster…
     .accesskey = G
-
 exception-mgr-permanent =
     .label = Bu ayrıcalığı kalıcı olarak kaydet
     .accesskey = k
-
 pk11-bad-password = Geçerli parola girişi hatalı.
 pkcs12-decode-err = Dosyanın çözülmesi başarısız. Ya PKCS #12 biçiminde değil ve bozuldu ya da girdiğiniz şifre hatalı.
 pkcs12-unknown-err-restore = PKCS #12 dosyasının yenilenmesi bilinmeyen sebeplerden dolayı başarısız oldu.
@@ -161,39 +130,28 @@ delete-user-cert-title =
     .title = Sertifikalarınızı silin
 delete-user-cert-confirm = Bu sertifikaları silmek istediğinizden emin misiniz?
 delete-user-cert-impact = Kendi sertifikalarınızdan birini silerseniz artık kendinizi tanıtmak için onu kullanamazsınız.
-
-
 delete-ssl-override-title =
     .title = Sunucu sertifikası ayrıcalığını sil
 delete-ssl-override-confirm = Bu sunucu ayrıcalığını silmek istediğinizden emin misiniz?
 delete-ssl-override-impact = Bir sunucu ayrıcalığını silerseniz, o sunucu için olağan güvenlik kontrollerini geri yüklemiş ve sunucunun geçerli bir sertifika kullanmasını zorunlu tutmuş olursunuz.
-
 delete-ca-cert-title =
     .title = CA sertifikalarını sil veya güvenme
 delete-ca-cert-confirm = Bu CA sertifikalarını silmeyi istediniz. Dahili sertifikalar için tüm güvenler kaldırılacaktır ki bu da aynı etkiye sahiptir. Silmek veya güvenmemek istediğinizden emin misiniz?
 delete-ca-cert-impact = Bir sertifika makamının (CA) sertifikasını silerseniz veya ona güvenmezseniz, bu uygulama artık o CA tarafından yayımlanan hiçbir sertifikaya güvenmeyecektir.
-
-
 delete-email-cert-title =
     .title = E-posta sertifikalarını sil
 delete-email-cert-confirm = Bu kişilerin e-posta sertifikalarını silmek istediğinizden emin misiniz?
 delete-email-cert-impact = Bir şahsın e-posta sertifikasını silerseniz, artık o kişiye şifrelenmiş e-posta gönderemezsiniz.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Sertifika seri numarası: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = İstemci sertifikası gönderme
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Depolanmamış)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Kullanılamaz)
 
