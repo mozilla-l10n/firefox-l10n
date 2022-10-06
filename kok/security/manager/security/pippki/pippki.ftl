@@ -13,8 +13,6 @@ change-password-old = सद्याचो गुप्तशब्द:
 change-password-new = नवो गुप्तशब्द :
 change-password-reenter = नवो गुप्तशब्द (परतून):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = प्रमाणपत्रां डावनलोड करता
     .style = width: 46em
+download-cert-window2 =
+    .title = प्रमाणपत्रां डावनलोड करता
+    .style = min-width: 46em
 download-cert-message = नवे प्रमाणपत्र अधिकारिणी (सीए) चेर विश्वास दवरुपाक तुमका सांगला.
 download-cert-trust-ssl =
     .label = वेबसायटी ओळखपाक ह्या CA चेर विश्वास दवरात
