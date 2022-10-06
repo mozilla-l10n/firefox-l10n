@@ -8,24 +8,18 @@ password-quality-meter = Mesura de la qualitat del senhal
 
 change-device-password-window =
     .title = Cambiar lo senhal
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Periferic de seguretat: { $tokenName }
 change-password-old = Senhal actual :
 change-password-new = Picatz lo senhal actual :
 change-password-reenter = Tornatz picatz lo senhal :
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Cambiament del senhal impossible.
 pippki-incorrect-pw = Avètz pas picat lo senhal principal actual corrècte. Tornatz ensajar.
 pippki-pw-change-ok = Senhal corrèctament modificat.
-
 pippki-pw-empty-warning = Los senhals e claus privadas seràn pas protegidas.
 pippki-pw-erased-ok = Avètz suprimit vòstre senhal principal. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Atencion ! Avètz decidit d'utilizar pas de senhal principal. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Actualament, sètz en mòde FIPS. Lo mòde FIPS necessita un senhal principal pas void.
 
 ## Reset Primary Password dialog
@@ -33,10 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Actualament, sètz en mòde FIPS. Lo mòde
 reset-primary-password-window =
     .title = Reïnicializar lo senhal principal
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = Reïnicializar lo senhal principal
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Escafar
 reset-primary-password-text = Se reïnicializatz vòstre senhal principal, totes vòstres senhals e email salvats, certificats personals e vòstras claus privadas seràn oblidats. Volètz vertadièrament suprimir lo senhal principal ?
-
 pippki-reset-password-confirmation-title = Reïnicializar lo senhal principal
 pippki-reset-password-confirmation-message = Vòstre senhal es estat reïnicializat.
 
