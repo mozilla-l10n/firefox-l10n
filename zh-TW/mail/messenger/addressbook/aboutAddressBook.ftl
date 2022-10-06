@@ -24,6 +24,13 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = 所有通訊錄
 all-address-books = 所有通訊錄
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = { $name } 的聯絡人總數: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = 所有通訊錄的聯絡人總數: { $count }
 about-addressbook-books-context-properties =
     .label = 屬性
 about-addressbook-books-context-edit-list =
@@ -89,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = 電子郵件地址
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = 暱稱
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = 電話號碼
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -168,10 +178,23 @@ about-addressbook-placeholder-no-search-results = 找不到聯絡人
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } 個選擇的聯絡人與清單
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } 位選擇的聯絡人
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } 個選擇的清單
+about-addressbook-details-edit-photo =
+    .title = 編輯連絡人相片
+about-addressbook-new-contact-header = 新連絡人
 about-addressbook-prefer-display-name = 在郵件檔頭上方顯示姓名
 about-addressbook-write-action-button = 寫信
 about-addressbook-event-action-button = 事件
 about-addressbook-search-action-button = 搜尋
+about-addressbook-new-list-action-button = 新增群組名單
 about-addressbook-begin-edit-contact-button = 編輯
 about-addressbook-delete-edit-contact-button = 刪除
 about-addressbook-cancel-edit-contact-button = 取消
@@ -182,6 +205,7 @@ about-addressbook-details-phone-numbers-header = 電話號碼
 about-addressbook-details-addresses-header = 通訊錄
 about-addressbook-details-notes-header = 附註
 about-addressbook-details-impp-header = 即時訊息
+about-addressbook-details-websites-header = 網站
 about-addressbook-details-other-info-header = 其他資訊
 about-addressbook-entry-type-work = 商務
 about-addressbook-entry-type-home = 住家
@@ -196,6 +220,10 @@ about-addressbook-entry-name-role = 角色
 about-addressbook-entry-name-organization = 公司
 about-addressbook-entry-name-website = 網站
 about-addressbook-entry-name-time-zone = 時區
+about-addressbook-entry-name-custom1 = 自訂 1
+about-addressbook-entry-name-custom2 = 自訂 2
+about-addressbook-entry-name-custom3 = 自訂 3
+about-addressbook-entry-name-custom4 = 自訂 4
 about-addressbook-unsaved-changes-prompt-title = 未儲存修改
 about-addressbook-unsaved-changes-prompt = 您想要在離開編輯畫面前儲存變更嗎？
 

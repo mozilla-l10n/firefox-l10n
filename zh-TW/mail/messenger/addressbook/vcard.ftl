@@ -36,6 +36,10 @@ vcard-n-suffix = 後綴
 vcard-n-add-suffix =
     .title = 新增後綴
 
+# Nickname
+
+vcard-nickname = 暱稱
+
 # Email vCard field
 
 vcard-email-header = 電子郵件地址
@@ -54,6 +58,10 @@ vcard-url-label = 網站
 vcard-tel-header = 電話號碼
 vcard-tel-add = 新增電話號碼
 vcard-tel-label = 電話號碼
+# Or "Mobile"
+vcard-entry-type-cell = 手機
+vcard-entry-type-fax = 傳真
+vcard-entry-type-pager = 呼叫器
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = 新增時區
 
 # IMPP vCard field
 
-vcard-impp-header = 聊天帳號
 vcard-impp2-header = 即時訊息
 vcard-impp-add = 新增聊天帳號
 vcard-impp-label = 聊天帳號

@@ -5,28 +5,22 @@
 cookies-window-dialog =
     .title = Cookie
     .style = width: 36em;
-
+cookies-window-dialog2 =
+    .title = Cookie
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = 搜尋:
     .accesskey = S
-
 cookies-on-system-label = 您的電腦中已儲存下列的 Cookie:
-
 treecol-site-header =
     .label = 網站
-
 treecol-name-header =
     .label = Cookie 名稱
-
 props-name-label =
     .value = 名稱:
 props-value-label =
@@ -41,15 +35,12 @@ props-expires-label =
     .value = 有效期限:
 props-container-label =
     .value = 容器:
-
 remove-cookie-button =
     .label = 刪除 Cookie
     .accesskey = R
-
 remove-all-cookies-button =
     .label = 刪除全部 Cookie
     .accesskey = A
-
 cookie-close-button =
     .label = 關閉
     .accesskey = C
