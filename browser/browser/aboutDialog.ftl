@@ -31,8 +31,8 @@ aboutdialog-submit-feedback = ਸੁਝਾਅ ਭੇਜੋ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ਮਿਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਪਬਲਿਕ ਅਤੇ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲੀ <label data-l10n-name="community-exp-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ</label> ਹੈ।
 community-2 = { -brand-short-name } ਨੂੰ  <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> ਨੇ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਹੈ, ਜੋ ਮਿਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਪਬਲਿਕ ਅਤੇ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲੀ <label data-l10n-name="community-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ ਹੈ</label>।
 helpus = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="helpus-donateLink">ਦਾਨ ਦਿਓ</label> ਜਾਂ <label data-l10n-name="helpus-getInvolvedLink">ਭਾਗ ਲਵੋ!</label>
-bottomLinks-license = ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ
-bottomLinks-rights = ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ
+bottomLinks-license = ਲਸੰਸ ਬਾਰੇ ਜਾਣਕਾਰੀ
+bottomLinks-rights = ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ
 bottomLinks-privacy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
