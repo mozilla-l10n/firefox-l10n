@@ -4,51 +4,42 @@
 
 certmgr-title =
     .title = Igunya Lesitifiketi
-
 certmgr-tab-mine =
     .label = Izitifiketi Zakho
-
 certmgr-tab-ca =
     .label = Amagunya
-
 certmgr-edit-ca-cert =
     .title = Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Lungisa ukuhlelwa kokwethembeka:
-
 certmgr-edit-cert-trust-email =
     .label = Lesi sitifiketi singahlonza abasebenzisa iposi.
-
 certmgr-delete-cert =
     .title = Cisha Isitifiketi
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Cisha Isitifiketi
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Igama Lesitifiketi
-
 certmgr-cert-server =
     .label = Iseva
-
 certmgr-token-name =
     .label = Ithuluzi Lokulondeka
-
 certmgr-expires-label =
     .label = Siphelelwa Yisikhathi Mhlaka
-
 certmgr-email =
     .label = Ikheli Le-imeyili
-
 certmgr-serial =
     .label = Inombolo Yaso
-
 certmgr-delete =
     .label = Susa…
     .accesskey = S
-
 exception-mgr-cert-location-url =
     .value = Indawo:
-
 pk11-bad-password = Igama lokungena elifakiwe bekungelona.
 pkcs12-decode-err = Ihlulekile ukususa ikhodi efayeleni.  Kuphakathi kokuthi ayakhekile ngendlela ye-PKCS #12, ingcolisiwe, noma igama lokungena olifakile bekungelona.
 pkcs12-unknown-err-restore = Ihlulekile ukubuyisela ifayela PKCS #12 ngenxa yezizathu ezingaziwa.
@@ -80,16 +71,13 @@ delete-user-cert-title =
     .title = Cisha iZitifiketi zakho
 delete-user-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifiketi?
 delete-user-cert-impact = Uma ucisha esinye sezitifiketi zakho, ngeke usasisebenzisa ukuze uzihlonze.
-
-
 delete-email-cert-title =
     .title = Cisha Izitifiketi ze-imeyili
 delete-email-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifiketi ze-imeyili yalaba bantu?
 delete-email-cert-impact = Uma ucisha isitifiketi se-imeyili, ngeke usakwazi ukuthumela i-imeyili enombhalo ocashile kulabo bantu.
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
