@@ -5,6 +5,9 @@
 create-profile-window =
     .title = אשף יצירת פרופיל
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = אשף יצירת פרופיל
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
@@ -13,13 +16,14 @@ create-profile-first-page-header =
         [macos] הקדמה
        *[other] ברוכים הבאים אל { create-profile-window.title }
     }
-
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] הקדמה
+       *[other] ברוכים הבאים אל { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } מאחסן מידע על ההגדרות וההעדפות שלך בפרופיל האישי שלך.
-
 profile-creation-explanation-2 = אם אתה חולק עותק זה של { -brand-short-name } עם משתמשים אחרים, תוכל להשתמש בפרופילים כדי לשמור את המידע של כל משתמש בנפרד. כדי לעשות זאת, על כל משתמש ומשתמשת ליצור פרופיל משלו (או משלה).
-
 profile-creation-explanation-3 = אם אתה האדם היחיד המשתמש בעותק זה של { -brand-short-name }, חייב להיות להיות לך לפחות פרופיל אחד. אם תרצה, תוכל ליצור לעצמך מספר פרופילים כדי לאחסן קבוצות שונות של הגדרות והעדפות. למשל, ייתכן שתרצה פרופילים נפרדים לשימוש עסקי ואישי.
-
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] כדי להתחיל ליצור את הפרופיל שלך, לחץ על "המשך".
@@ -33,21 +37,20 @@ create-profile-last-page-header =
         [macos] סוף
        *[other] משלים את { create-profile-window.title }
     }
-
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] סוף
+       *[other] משלים את { create-profile-window2.title }
+    }
 profile-creation-intro = אם תיצור מספר פרופילים תוכל להבדיל ביניהם לפי שמם. תוכל להשתמש בשם המסופק כאן או להשתמש בשם משלך.
-
 profile-prompt = הכנס שם לפרופיל חדש:
     .accesskey = E
-
 profile-default-name =
     .value = משתמש בררת מחדל
-
 profile-directory-explanation = הגדרות המשתמש, ההעדפות, ונתונים אחרים הקשורים למשתמש שלך יאוחסנו ב:
-
 create-profile-choose-folder =
     .label = בחירת תיקייה…
     .accesskey = ת
-
 create-profile-use-default =
     .label = שימוש בתיקיית בררת המחדל
     .accesskey = ה
