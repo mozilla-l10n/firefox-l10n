@@ -5,6 +5,9 @@
 create-profile-window =
     .title = प्रोफाइल विजार्ड सिर्जना गर्नुहोस्
     .style = width: 46em; height: 34em;
+create-profile-window2 =
+    .title = प्रोफाइल विजार्ड सिर्जना गर्नुहोस्
+    .style = min-width: 46em; min-height: 34em;
 
 ## First wizard page
 
