@@ -13,8 +13,6 @@ change-password-old = حالیئ خفیئ لفظ:
 change-password-new = نئو ئ خفیہ لفظ
 change-password-reenter = نئو ئ خفیہ لفظ(دوبارہ)
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = سرٹیفکیٹ  ڈاونلوڈ كران
     .style = width: 46em
+download-cert-window2 =
+    .title = سرٹیفکیٹ  ڈاونلوڈ كران
+    .style = min-width: 46em
 download-cert-message = تہئ چھُوئ وننئ آمُت زئ تہئ كریو نئوئ سرٹئفیكیٹ ایتھورٹی  (CA)پیٹھ بروسئ
 download-cert-trust-ssl =
     .label = یتھ CA پیٹھ كریو بروسئ ویب سایٹس پرزناونئ خٲطرئ.
