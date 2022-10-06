@@ -4,123 +4,94 @@
 
 certmgr-title =
     .title = Sa ri nej sertifikâdo
-
 certmgr-tab-mine =
     .label = Nej si sertifikadôt
-
 certmgr-tab-people =
     .label = Guìi
-
 certmgr-tab-servers =
     .label = Servidor
-
 certmgr-tab-ca =
     .label = Nej sa a'nïn'ïn
-
 certmgr-mine = Nikajt si sertificadô nej yi'nïn' nan nata' dàj huat
 certmgr-people = Màn sertifikâdo riña archîbo nata' dà hua nej guì nan
 certmgr-ca = Màn nej sertifikâdo riña archîbo nata' dàj hua nej sa a'nïn' nan
-
 certmgr-edit-ca-cert =
     .title = Nagi'iaj ni nachrunt dàj huin ruhuât riña sertifikadô CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Nagi'iaj ni nachrunt dàj huin ruhuât riña sertifikadô CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Nachrun sa hua nikâ doj ruhuât:
-
 certmgr-edit-cert-trust-ssl =
     .label = Ga'ue natà' sertifikadô nan dàj hua nej sitiô.
-
 certmgr-edit-cert-trust-email =
     .label = Ga'ue natà' sertifikadô nan dàj hua nej sa na'nín korrêo.
-
 certmgr-delete-cert =
     .title = Nadure' Sertifikâdo
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Nadure' Sertifikâdo
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Si Yugui Sertifikâdo
-
 certmgr-cert-server =
     .label = Serbidôr
-
 certmgr-override-lifetime =
     .label = Nìko diû ga man
-
 certmgr-token-name =
     .label = Sa dugumîn sò'
-
 certmgr-begins-label =
     .label = Hiuj nan gayi'ij
-
 certmgr-expires-label =
     .label = Gui nahuij ma huin
-
 certmgr-email =
     .label = Direksiûn Korrêo
-
 certmgr-serial =
     .label = Da'nga' nikaj Serie
-
 certmgr-view =
     .label = Gini'iaj…
     .accesskey = V
-
 certmgr-edit =
     .label = Nagi'io'
     .accesskey = E
-
 certmgr-export =
     .label = Ga’nïnj gan’an a’ngô hiūj u…
     .accesskey = x
-
 certmgr-delete =
     .label = Dure'…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = Nadure' asi sê sa nikaa...
     .accesskey = D
-
 certmgr-backup =
     .label = Gachra so'...
     .accesskey = B
-
 certmgr-backup-all =
     .label = Gachra so' dara'anj…
     .accesskey = k
-
 certmgr-restore =
     .label = Ga’nïnj gan’an a’ngô hiūj u…
     .accesskey = m
-
 certmgr-add-exception =
     .label = Nitaj ama na'nìn' na ma...
     .accesskey = x
-
 exception-mgr =
     .title = Nutà' esepsiôn de seguridad
-
 exception-mgr-extra-button =
     .label = Hua nika ruhuât ga esepsiôn de seguridad
     .accesskey = C
-
 exception-mgr-supplemental-warning = Nej bankû 'iaj sun nikaa, riña ane' rasuun, ni a'ngo nej sa dû'uej e si gata gi'iát sa hua nan.
-
 exception-mgr-cert-location-url =
     .value = Dane' huin:
-
 exception-mgr-cert-location-download =
     .label = Girì' Sertifikâdo
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = Gini'iaj…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Na'nïnj sà' ginun yitïnj esepsiôn nan
     .accesskey = P
-
 pk11-bad-password = Nitaj si hua hue'ê da'nga' huì gachrûnt.
 pkcs12-decode-err = Hua sa gahui a'nan' danj na'ue na'nïn archîbo. Asi nitaj si nunj riña formatô PKCS 12, hua a'nanj asi nitaj si hua hue'ê da'nga' huì gachrûnt.
 pkcs12-unknown-err-restore = Nu ni'în' nùhuin saj na'ue nagi'ia archibô PKCS #12
@@ -153,19 +124,14 @@ delete-user-cert-title =
     .title = Nadure' nej si Sertifikadôt
 delete-user-cert-confirm = Huin hia ruhuât nadurê't nej sertifikadô nan anj.
 delete-user-cert-impact = Sisi nadurê't go'ngo si sertifikadôt ni, si ga'ue garasunt man guendâ nadigânt man'ânt ngà'.
-
-
 delete-ca-cert-title =
     .title = Nadure' asi si gi'iaj guendât nej sertifikadô CA
 delete-ca-cert-confirm = Gachín ni'iát guendâ nadurê't nej sertifikadô CA. Guendâ nej sertifikadô hìaj ga'nïnt ni, sê sa ga nùkuaj ruhuô' gahuin ngà'. Huin ruhuâ yangà't nadurê' raj asi nitaj si yumân ruhuât ni'înt man sà'.
 delete-ca-cert-impact = Sisi nadurê't 'ngo sertifikadô segurida (CA), aplikasiûn na ni si garayinaj garasunj a'ngô sertifikâdo ngà'.
-
-
 delete-email-cert-title =
     .title = Nadure' ne si Sertifikadô Korrêo
 delete-email-cert-confirm = Huin hia ruhuât nadurê't nej sertifikadô nikaj si korreô nej duguî' nan anj.
 delete-email-cert-impact = Sisi nadurê't 'ngo si sertifikadô korreo 'ngo guì ni, si ga'ue ga'ninjt korreo huìi riña diguî' dan ngà'.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -173,9 +139,8 @@ delete-email-cert-impact = Sisi nadurê't 'ngo si sertifikadô korreo 'ngo guì 
 cert-with-serial =
     .value = Ñanj nù da'nga' seriê: { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
