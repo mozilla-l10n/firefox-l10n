@@ -10,5 +10,5 @@
 input-file-and-more-files =
     { $fileCount ->
         [one] এবং আরও একটি
-       *[other] { " " }এবং { $fileCount } আরও
+       *[other] এবং { $fileCount } আরও
     }
