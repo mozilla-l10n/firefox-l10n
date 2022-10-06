@@ -36,6 +36,10 @@ vcard-n-suffix = Hậu tố
 vcard-n-add-suffix =
     .title = Thêm hậu tố
 
+# Nickname
+
+vcard-nickname = Biệt danh
+
 # Email vCard field
 
 vcard-email-header = Địa chỉ email
@@ -54,6 +58,10 @@ vcard-url-label = Trang web
 vcard-tel-header = Số điện thoại
 vcard-tel-add = Thêm số điện thoại
 vcard-tel-label = Số điện thoại
+# Or "Mobile"
+vcard-entry-type-cell = Di động
+vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Máy nhắn tin
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Thêm múi giờ
 
 # IMPP vCard field
 
-vcard-impp-header = Tài khoản trò chuyện
 vcard-impp2-header = Thư nhanh
 vcard-impp-add = Thêm tài khoản trò chuyện
 vcard-impp-label = Tài khoản trò chuyện
@@ -115,6 +122,9 @@ vcard-org-org-input =
     .title = Tên tổ chức
     .placeholder = Tên công ty
 vcard-org-org-unit = Bộ phận
+vcard-org-org-unit-input =
+    .title = Tên đơn vị của tổ chức
+    .placeholder = Phòng
 
 # Custom properties
 
