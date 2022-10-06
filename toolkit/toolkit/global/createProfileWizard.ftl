@@ -37,6 +37,11 @@ create-profile-last-page-header =
         [macos] Përfundim
        *[other] Po përfundohet { create-profile-window.title }
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Përfundim
+       *[other] Po përfundohet { create-profile-window2.title }
+    }
 profile-creation-intro = Nëse krijoni disa profile, mund t'i dalloni nga emrat e profileve. Mund të përdorni emrin e dhënë këtu ose një të tuajin.
 profile-prompt = Jepni emër profili të ri:
     .accesskey = J
