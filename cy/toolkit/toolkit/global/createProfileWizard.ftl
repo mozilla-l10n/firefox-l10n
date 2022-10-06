@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Cyflwyniad
        *[other] Croeso i { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Cyflwyniad
+       *[other] Croeso i { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = Mae { -brand-short-name } yn storio gwybodaeth am eich gosodiadau a'ch dewisiadau yn eich proffil personol.
 profile-creation-explanation-2 = Os ydych yn rhannu'r copi o { -brand-short-name } gyda defnyddwyr eraill, mae modd defnyddio proffiliau i gadw gwybodaeth eich gilydd ar wahân. I wneud hyn, dylai pob defnyddiwr greu ei broffil ei hun.
 profile-creation-explanation-3 = Os mai chi yw'r unig berson sy'n defnyddio'r copi o { -brand-short-name }, rhaid i chi gael o leiaf un proffil. Os hoffech chi mae modd creu proffiliau niferus er mwyn cadw gosodiadau a dewisiadau i chi eich hun. Er enghraifft, efallai yr hoffech chi gael proffil gwahanol ar gyfer defnydd busnes neu bersonol.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Diweddglo
        *[other] Cwblhau { create-profile-window.title }
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Diweddglo
+       *[other] Cwblhau { create-profile-window2.title }
     }
 profile-creation-intro = Os ydych yn creu nifer o broffiliau mae modd eu gwahaniaethu wrth enw'r proffil. Mae modd defnyddio'r enw sy'n cael ei ddarparu yma neu enw eich hun.
 profile-prompt = Rhowch enw proffil newydd:
