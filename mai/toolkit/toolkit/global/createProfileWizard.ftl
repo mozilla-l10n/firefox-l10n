@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] प्रस्तावना
        *[other] { create-profile-window.title } मे अहाँक स्वागत अछि
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] प्रस्तावना
+       *[other] { create-profile-window2.title } मे अहाँक स्वागत अछि
+    }
 profile-creation-explanation-1 = { -brand-short-name }अपन सैटिंग क जानकारी एवं वरीयता अहाँक निज प्रोफाइल मे सहेजब अछि .
 profile-creation-explanation-2 = जँ  अहाँ { -brand-short-name } क प्रति केँ आन प्रयोक्ताक सँग साझा कए रहल छी तँ अहाँ प्रत्येक प्रयोक्ताक जानकारी अलग रखबाक लेल प्रोफाइल क उपयोग कए सकैत छी. एहन करबाक लेल प्रत्येक प्रयोक्ता केँ अपन प्रोफाइल बनाबै पड़त.
 profile-creation-explanation-3 = जँ  अहाँ { -brand-short-name } क ई प्रति कए उपयोग करैबला एकटा व्यक्ति छी , अहाँक पास कम सँ कम एकटा प्रोफाइल क होनाइ आवश्यक अछि.  जँ अहाँ चाहैत छी तँ अहाँ विभिन्न सैटिंग क सैट एवं वरीयता केँ सहेजबाक लेल स्वयं अनेक प्रोफाइल बनाए सकैत छी . जहिना अहाँ व्यापारिक एवं निज उपयोगक लेल अलग-अलग प्रोफाइल बनाए सकैत छी.
