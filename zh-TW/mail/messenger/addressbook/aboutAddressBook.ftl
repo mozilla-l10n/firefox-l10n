@@ -21,6 +21,8 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = 所有通訊錄
 all-address-books = 所有通訊錄
 about-addressbook-books-context-properties =
     .label = 屬性
