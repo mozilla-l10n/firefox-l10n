@@ -8,24 +8,18 @@ password-quality-meter = Ukazovateľ kvality hesla:
 
 change-device-password-window =
     .title = Zmena hesla
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Bezpečnostné zariadenie: { $tokenName }
 change-password-old = Aktuálne heslo:
 change-password-new = Nové heslo:
 change-password-reenter = Nové heslo (znova):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Nie je možné zmeniť heslo.
 pippki-incorrect-pw = Aktuálne heslo nebolo zadané správne. Skúste to znova.
 pippki-pw-change-ok = Heslo bolo úspešne zmenené.
-
 pippki-pw-empty-warning = Uložené heslá a súkromné kľúče nebudú chránené.
 pippki-pw-erased-ok = Odstránili ste svoje heslo. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Upozornenie! Rozhodli ste sa nepoužívať heslo. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Momentálne používate režim FIPS. Tento režim vyžaduje nastavenie hesla.
 
 ## Reset Primary Password dialog
@@ -33,11 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Momentálne používate režim FIPS. Tento
 reset-primary-password-window =
     .title = Obnoviť hlavné heslo
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = Obnoviť hlavné heslo
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Obnoviť
-
 reset-primary-password-text = Ak obnovíte svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete obnoviť svoje hlavné heslo?
-
 pippki-reset-password-confirmation-title = Obnoviť hlavné heslo
 pippki-reset-password-confirmation-message = Vaše hlavné heslo bolo obnovené.
 
