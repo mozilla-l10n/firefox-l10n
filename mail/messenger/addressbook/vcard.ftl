@@ -36,6 +36,10 @@ vcard-n-suffix = Achtervoegsel
 vcard-n-add-suffix =
     .title = Achtervoegsel toevoegen
 
+# Nickname
+
+vcard-nickname = Schermnaam
+
 # Email vCard field
 
 vcard-email-header = E-mailadressen
@@ -54,6 +58,10 @@ vcard-url-label = Website
 vcard-tel-header = Telefoonnummers
 vcard-tel-add = Telefoonnummer toevoegen
 vcard-tel-label = Telefoonnummer
+# Or "Mobile"
+vcard-entry-type-cell = Mobiel
+vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Pieper
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Tijdzone toevoegen
 
 # IMPP vCard field
 
-vcard-impp-header = Chataccounts
 vcard-impp2-header = Instant-berichten
 vcard-impp-add = Chataccount toevoegen
 vcard-impp-label = Chataccount
