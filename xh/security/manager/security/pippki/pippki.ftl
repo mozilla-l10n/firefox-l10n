@@ -10,8 +10,6 @@ change-password-old = Igama lokugqithisa langoku:
 change-password-new = Igama lokugqithisa elitsha:
 change-password-reenter = Igama lokugqithisa (kwakhona):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -22,6 +20,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Kuthotywa Umthwalo Wesatifikethi
     .style = width: 46em
+download-cert-window2 =
+    .title = Kuthotywa Umthwalo Wesatifikethi
+    .style = min-width: 46em
 download-cert-message = Ucelwe ukuba uthembe Ugunyaziwe Wesatifikethi omtsha (CA).
 download-cert-trust-email =
     .label = Themba le-CA ukuchonga abasebenzisi bemeyile.
