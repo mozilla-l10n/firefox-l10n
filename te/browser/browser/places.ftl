@@ -11,7 +11,6 @@ places-open-in-tab =
 places-open-all-in-tabs =
     .label = అన్నింటినీ ట్యాబులలో తెరువు
     .accesskey = O
-
 places-view =
     .label = చూడండి
     .accesskey = w
@@ -30,14 +29,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = తేదీ, సైటు క్రమంలో
     .accesskey = t
-
 places-history-search =
     .placeholder = చరిత్రలో వెతకండి
 places-history =
     .aria-label = చరిత్ర
 places-bookmarks-search =
     .placeholder = ఇష్టాంశాలను వెతకండి
-
 places-delete-domain-data =
     .label = ఈ సైటుని మర్చిపో
     .accesskey = F
@@ -52,121 +49,92 @@ places-delete-folder =
            *[other] సంచయాలను తొలగించు
         }
     .accesskey = D
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = ఇతర ఇష్టాంశాలు
-
 places-library =
     .title = లైబ్రరీ
     .style = width:700px; height:500px;
-
+places-library2 =
+    .title = లైబ్రరీ
+    .style = min-width:700px; min-height:500px;
 places-organize-button =
     .label = నిర్వహించు
     .tooltiptext = మీ ఇష్టాంశాలను నిర్వహించండి
     .accesskey = O
-
 places-organize-button-mac =
     .label = నిర్వహించు
     .tooltiptext = మీ ఇష్టాంశాలను నిర్వహించండి
-
 places-file-close =
     .label = మూసివేయి
     .accesskey = C
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = వీక్షణలు
     .tooltiptext = మీరు వీక్షణరీతిని మార్చండి
     .accesskey = V
-
 places-view-button-mac =
     .label = వీక్షణలు
     .tooltiptext = మీరు వీక్షణరీతిని మార్చండి
-
 places-view-menu-columns =
     .label = నిలువువరుసలను చూపు
     .accesskey = C
-
 places-view-menu-sort =
     .label = క్రమపరచు
     .accesskey = S
-
 places-view-sort-unsorted =
     .label = క్రమపరచని
     .accesskey = U
-
 places-view-sort-ascending =
     .label = A > Z క్రమపద్దతి
     .accesskey = A
-
 places-view-sort-descending =
     .label = Z > A క్రమపద్దతి
     .accesskey = Z
-
 places-maintenance-button =
     .label = దిగుమతి చేసి బ్యాకప్ చేయి
     .tooltiptext = మీ ఇష్టాంశములను దిగుమతి చేసి మరియు బ్యాకప్ చేయండి
     .accesskey = I
-
 places-maintenance-button-mac =
     .label = దిగుమతి చేసి బ్యాకప్ చేయి
     .tooltiptext = మీ ఇష్టాంశములను దిగుమతి చేసి మరియు బ్యాకప్ చేయండి
-
 places-cmd-backup =
     .label = బ్యాక్అప్…
     .accesskey = B
-
 places-cmd-restore =
     .label = పునరుద్ధరించు
     .accesskey = R
-
 places-cmd-restore-from-file =
     .label = ఫైలును ఎంచుకోండి…
     .accesskey = C
-
 places-import-bookmarks-from-html =
     .label = ఇష్టాంశములను HTML నుండి దిగుమతి చేయి…
     .accesskey = I
-
 places-export-bookmarks-to-html =
     .label = ఇష్టాంశములను HTML కు ఎగుమతి చేయి…
     .accesskey = E
-
 places-import-other-browser =
     .label = వేరే విహరణి నుండి దత్తాంశమును దిగుమతి చేయి…
     .accesskey = A
-
 places-view-sort-col-name =
     .label = పేరు
-
 places-view-sort-col-tags =
     .label = ట్యాగులు
-
 places-view-sort-col-url =
     .label = స్థానము
-
 places-view-sort-col-most-recent-visit =
     .label = ఇటీవల దర్శించిన
-
 places-view-sort-col-visit-count =
     .label = చూపుల సంఖ్య
-
 places-view-sort-col-date-added =
     .label = జతచేయబడింది
-
 places-view-sort-col-last-modified =
     .label = చివరిగా సవరించిన
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = వెనుకకు వెళ్ళు
-
 places-forward-button =
     .tooltiptext = ముందుకు వెళ్ళు
-
 places-details-pane-select-an-item-description = ఒక అంశము యొక్క లక్షణములను చూసుటకు మరియు సరిచేయుటకు ఎంపికచేయి

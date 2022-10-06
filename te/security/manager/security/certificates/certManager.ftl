@@ -4,119 +4,91 @@
 
 certmgr-title =
     .title = ధృవీకరణపత్ర నిర్వాహకుడు
-
 certmgr-tab-mine =
     .label = మీ ధృవీకరణపత్రాలు
-
 certmgr-tab-people =
     .label = ప్రజలు
-
 certmgr-tab-servers =
     .label = సేవికలు
-
 certmgr-tab-ca =
     .label = అథారిటీలు
-
 certmgr-edit-ca-cert =
     .title = CA ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = CA ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = విశ్సనీయత అమరికలను మార్చు:
-
 certmgr-edit-cert-trust-ssl =
     .label = ఈ ధృవీకరణపత్రం వెబ్ సైటులను గుర్తించగలదు.
-
 certmgr-edit-cert-trust-email =
     .label = ఈ ధృవీకరణపత్రం మెయిల్ వాడుకరులను గుర్తించగలదు.
-
 certmgr-delete-cert =
     .title = ధృవీకరణపత్రంను తొలగించు
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = ధృవీకరణపత్రంను తొలగించు
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = ధృవీకరణపత్రపు పేరు
-
 certmgr-cert-server =
     .label = సేవిక
-
 certmgr-override-lifetime =
     .label = జీవిత కాలం
-
 certmgr-token-name =
     .label = రక్షణ సాధనం
-
 certmgr-begins-label =
     .label = మొదలవు తేదీ
-
 certmgr-expires-label =
     .label = ముగియు తేదీ
-
 certmgr-email =
     .label = ఈ-మెయిల్ చిరునామా
-
 certmgr-serial =
     .label = వరుస సంఖ్య
-
 certmgr-view =
     .label = చూడండి…
     .accesskey = V
-
 certmgr-edit =
     .label = నమ్మికను సరికూర్చు…
     .accesskey = E
-
 certmgr-export =
     .label = ఎగుమతి…
     .accesskey = x
-
 certmgr-delete =
     .label = తొలగించు…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = తొలగించు లేదా నమ్మకు…
     .accesskey = D
-
 certmgr-backup =
     .label = బ్యాక్అప్…
     .accesskey = B
-
 certmgr-backup-all =
     .label = అన్నిటిని బ్యాక్అప్ తీయి…
     .accesskey = k
-
 certmgr-restore =
     .label = దిగుమతి…
     .accesskey = m
-
 certmgr-add-exception =
     .label = మినహాయింపును చేర్చు…
     .accesskey = x
-
 exception-mgr =
     .title = భద్రతా మినహాయింపు చేర్పు
-
 exception-mgr-extra-button =
     .label = రక్షణ ఆక్షేపణను ఖాయపరచు
     .accesskey = C
-
 exception-mgr-supplemental-warning = చట్టబద్దమైన బ్యాంకులు, దుకాణాలు, ఇతర బహిరంగ సైటులు ఇలా చేయమని మిమ్మల్ని అడగవు.
-
 exception-mgr-cert-location-url =
     .value = స్థానము:
-
 exception-mgr-cert-location-download =
     .label = ధృవీకరణపత్రాన్ని తెచ్చుకో
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = చూడండి…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = ఈ ఆక్షేపణను శాశ్వతంగా నిల్వవుంచు
     .accesskey = P
-
 pk11-bad-password = ప్రవేశపెట్టిన సంకేతపదం సరైనదికాదు.
 pkcs12-decode-err = ఫైల్   డీకోడు  చేయుటకు  విఫలమైంది.అది PKCS #12 రూపంలో  లేకపోవుటకాని , చెడిపోయికాని, లేదా మీరు  ప్రవేశపెట్టిన  సంకేతపదం  సరైనది కాకపోవుటకాని అయ్యుండాలి.
 pkcs12-unknown-err-restore = PKCS #12 ఫైల్   తిరిగినిల్వవుంచుటలో  తెలియని కారణాలవల్ల  విఫలమైంది.
@@ -149,19 +121,14 @@ delete-user-cert-title =
     .title = మీ ధృవీకరణపత్రాలను తొలగించండి
 delete-user-cert-confirm = మీరు ఖచ్చితంగా ఈ ధృవీకరణపత్రాలన తోలగిద్దామని అనుకుంటున్నారా?
 delete-user-cert-impact = మీరు మీస్వంత వాటిలో ఒక ధృవీకరణపత్రం తొలగించిన, మిమ్ములను నిరూపించుకొనుటకు మీరు దీనిని ఉపయోగించలేరు.
-
-
 delete-ca-cert-title =
     .title = CA ధృవీకరణపత్రాలను తొలగించు లేదా నమ్మకుండా వుండు
 delete-ca-cert-confirm = మీరు ఈ CA ధృవీకరణపత్రములను తొలగించుటకు అభ్యర్థించినారు. అంతర్నిర్మిత ధృవీకరణపత్రములకు అన్ని తొలగించబడును, అది అదే ప్రభావాన్ని కలిగివుంటుంది. మీరు ఖచ్చితంగా తొలగించుదామని అనుకొనుచున్నారా లేక నమ్మకుండా వుంటారా?
 delete-ca-cert-impact = మీరు సర్టిఫికేట్ అధారిటి (CA) ధృవీకరణపత్రాన్ని తొలగించినా లేదా నమ్మకుండా వున్నా, ఈ అనువర్తనం ఇకపై CA చేత ధృవీకరించబడిన ఏధృవీకరణపత్రాలను నమ్మదు.
-
-
 delete-email-cert-title =
     .title = ఇ-మెయిల్ ధృవీకరణపత్రాలను తొలగించండి
 delete-email-cert-confirm = మీరు ఖచ్చితంగా ఈ పీపుల్సు ఇమెయిల్ ధృవీకరణపత్రాలను తొలగిద్దామని అనుకుంటున్నారా?
 delete-email-cert-impact = మీరు ఒక వ్యక్తియొక్క ఈ-మెయిల్ ధృవీకరణపత్రాన్ని తొలగించితే, మీరు ఇకపై ఆవ్యక్తికి ఎన్క్రిప్టెడ్ ఈ-మెయిల్‌ను పంపలేరు.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -169,9 +136,8 @@ delete-email-cert-impact = మీరు ఒక వ్యక్తియొక్
 cert-with-serial =
     .value = సీరియల్ నంబర్ తో సర్టిఫికెట్: { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
