@@ -5,26 +5,21 @@
 dock-options-window-dialog =
     .title = Alkalmazásikon beállításai
     .style = width: 35em;
-
+dock-options-window-dialog2 =
+    .title = Alkalmazásikon beállításai
 dock-options-show-badge =
     .label = Jelvény ikon megjelenítése
     .accesskey = J
-
 bounce-system-dock-icon =
     .label = Az alkalmazásikon animálása új üzenet érkezésekor
     .accesskey = a
-
 dock-icon-legend = Alkalmazásikon megjelölése
-
 dock-icon-show-label =
     .value = Alkalmazásikon megjelölése ezzel:
-
 count-unread-messages-radio =
     .label = Olvasatlan üzenetek száma
     .accesskey = O
-
 count-new-messages-radio =
     .label = Új üzenetek száma
     .accesskey = n
-
 notification-settings-info2 = A kitűzőt a Rendszerbeállítások Értesítés lapján tudja letiltani.
