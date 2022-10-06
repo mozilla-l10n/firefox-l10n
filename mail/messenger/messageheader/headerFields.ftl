@@ -18,6 +18,9 @@ message-header-author-field = 作者<span data-l10n-name="field-separator">：</
 message-header-subject-field = 主题<span data-l10n-name="field-separator">：</span>
 message-header-date-field = 日期<span data-l10n-name="field-separator">：</span>
 message-header-user-agent-field = 用户代理<span data-l10n-name="field-separator">：</span>
+message-header-references-field = 参考<span data-l10n-name="field-separator">：</span>
+message-header-message-id-field = 消息 ID<span data-l10n-name="field-separator">：</span>
+message-header-in-reply-to-field = 回复<span data-l10n-name="field-separator">：</span>
 message-header-website-field = 网站<span data-l10n-name="field-separator">：</span>
 # An additional email header field that the user has chosen to display. Unlike
 # the other headers, the name of this header is not expected to be localised
@@ -31,6 +34,8 @@ message-header-address-in-address-book-icon2 =
     .alt = 在通讯录中
 message-header-address-not-in-address-book-icon2 =
     .alt = 不在通讯录中
+message-header-address-not-in-address-book-button =
+    .title = 将此邮箱地址保存到通讯录
 message-header-address-in-address-book-button =
     .title = 编辑联系人
 message-header-field-show-more = 更多

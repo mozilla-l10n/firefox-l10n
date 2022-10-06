@@ -360,6 +360,8 @@ cloud-file-account-error = 由于文件快传已被删除，文件快传附件 {
 ## Link Preview
 
 link-preview-title = 链接预览
+link-preview-description = { -brand-short-name } 可以在粘贴链接时嵌入预览。
+link-preview-autoadd = 可用时，自动添加链接预览
 link-preview-replace-now = 为此链接添加链接预览？
 link-preview-yes-replace = 好的
 

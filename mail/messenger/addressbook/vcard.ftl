@@ -109,9 +109,18 @@ vcard-note-add = 添加备注
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = 组织属性
+vcard-org-add = 添加组织属性
 vcard-org-title = 职位
 vcard-org-role = 角色
+vcard-org-org = 组织
+vcard-org-org-input =
+    .title = 组织名称
+    .placeholder = 公司名称
 vcard-org-org-unit = 部门
+vcard-org-org-unit-input =
+    .title = 组织单位名称
+    .placeholder = 部门
 
 # Custom properties
 
