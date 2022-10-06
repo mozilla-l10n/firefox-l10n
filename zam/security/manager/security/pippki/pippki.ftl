@@ -6,8 +6,6 @@
 ## Change Password dialog
 
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -18,6 +16,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Delan certificado
     .style = width: 46em
+download-cert-window2 =
+    .title = Delan certificado
+    .style = min-width: 46em
 download-cert-view-cert =
     .label = Mbwíʔ
 
