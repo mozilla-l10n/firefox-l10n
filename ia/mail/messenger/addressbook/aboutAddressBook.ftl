@@ -21,6 +21,8 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Tote le libros del adresses
 all-address-books = Tote le libros del adresses
 about-addressbook-books-context-properties =
     .label = Proprietates
