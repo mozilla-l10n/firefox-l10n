@@ -13,8 +13,6 @@ change-password-old = ഇപ്പോഴത്തെ പാസ്‌വേര്
 change-password-new = പുതിയ പാസ്‌വേര്‍ഡ്
 change-password-reenter = പുതിയ പാസ്‌വേര്‍ഡ് (വീണ്ടും)
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = സര്‍ട്ടിഫിക്കറ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്യുന്നു
     .style = width: 46em
+download-cert-window2 =
+    .title = സര്‍ട്ടിഫിക്കറ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്യുന്നു
+    .style = min-width: 46em
 download-cert-message = നിങ്ങള്‍ ഒരു പുതിയ സര്‍ട്ടിഫിക്കേറ്റ് അഥോറിറ്റിയെ (CA) വിശ്വസിക്കുവാന്‍ ആവശ്യപ്പെട്ടിരിക്കുന്നു.
 download-cert-trust-ssl =
     .label = വെബ്‌ സൈറ്റുകള്‍ തിരിച്ചറിയുന്നതിനായി ഈ CA വിശ്വസിക്കുക
