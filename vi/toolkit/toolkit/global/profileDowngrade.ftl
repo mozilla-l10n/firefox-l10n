@@ -5,13 +5,13 @@
 profiledowngrade-window =
     .title = Bạn vừa chạy phiên bản cũ của { -brand-product-name }
     .style = width: 490px;
-
+profiledowngrade-window2 =
+    .title = Bạn vừa chạy phiên bản cũ của { -brand-product-name }
+    .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = Tạo hồ sơ mới
-
 profiledowngrade-sync = Sử dụng phiên bản { -brand-product-name } cũ hơn có thể làm hỏng dấu trang và lịch sử duyệt web đã được lưu vào cấu hình { -brand-product-name } hiện có. Để bảo vệ thông tin của bạn, hãy tạo một hồ sơ mới cho bản cài đặt này của { -brand-short-name }. Bạn luôn có thể đăng nhập bằng { -fxaccount-brand-name } để đồng bộ hóa dấu trang và lịch sử duyệt giữa các hồ sơ.
 profiledowngrade-nosync = Sử dụng phiên bản { -brand-product-name } cũ hơn có thể làm hỏng dấu trang và lịch sử duyệt web đã được lưu vào cấu hình { -brand-product-name } hiện có. Để bảo vệ thông tin của bạn, hãy tạo một hồ sơ mới cho bản cài đặt này của { -brand-short-name }.
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
