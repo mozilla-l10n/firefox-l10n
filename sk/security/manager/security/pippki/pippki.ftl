@@ -25,15 +25,15 @@ pippki-pw-change2empty-in-fips-mode = Momentálne používate režim FIPS. Tento
 ## Reset Primary Password dialog
 
 reset-primary-password-window =
-    .title = Obnoviť hlavné heslo
+    .title = Obnovenie hlavného hesla
     .style = width: 40em
 reset-primary-password-window2 =
-    .title = Obnoviť hlavné heslo
+    .title = Obnovenie hlavného hesla
     .style = min-width: 40em
 reset-password-button-label =
     .label = Obnoviť
 reset-primary-password-text = Ak obnovíte svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete obnoviť svoje hlavné heslo?
-pippki-reset-password-confirmation-title = Obnoviť hlavné heslo
+pippki-reset-password-confirmation-title = Obnovenie hlavného hesla
 pippki-reset-password-confirmation-message = Vaše hlavné heslo bolo obnovené.
 
 ## Downloading cert dialog
