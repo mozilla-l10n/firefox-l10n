@@ -13,8 +13,6 @@ change-password-old = Paròlla segreta corente:
 change-password-new = Neuva paròlla segreta:
 change-password-reenter = Neuva paròlla segreta (ancon):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Descarego o certificato
     .style = width: 46em
+download-cert-window2 =
+    .title = Descarego o certificato
+    .style = min-width: 46em
 download-cert-message = Te vegne domandou de dâ a fiduccia a sta neuva aotoritæ de certificaçion (CA).
 download-cert-trust-ssl =
     .label = Fiate de sta CA pe identificâ i sciti web.

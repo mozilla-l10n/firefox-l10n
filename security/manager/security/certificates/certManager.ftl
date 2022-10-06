@@ -4,123 +4,94 @@
 
 certmgr-title =
     .title = Gestô di certificati
-
 certmgr-tab-mine =
     .label = I teu Certificati
-
 certmgr-tab-people =
     .label = Personn-e
-
 certmgr-tab-servers =
     .label = Server
-
 certmgr-tab-ca =
     .label = Aotoritæ
-
 certmgr-mine = Ti gh'é sti certificati da ste organizaçioin che te identifican
 certmgr-people = Ti gh'é sti certificati che identifican ste personn-e
 certmgr-ca = Ti gh'é sti certificati inti schedai che identifican ste aotoritæ
-
 certmgr-edit-ca-cert =
     .title = Cangia e inpostaçioin de fiduccia do certificato CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Cangia e inpostaçioin de fiduccia do certificato CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Cangia e inpostaçioin de fiduccia:
-
 certmgr-edit-cert-trust-ssl =
     .label = Sto certificato o peu identificâ sti sciti.
-
 certmgr-edit-cert-trust-email =
     .label = Sto certificato o peu identificâ email.
-
 certmgr-delete-cert =
     .title = Scancella certificato
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Scancella certificato
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Nomme do certificato
-
 certmgr-cert-server =
     .label = Server
-
 certmgr-override-lifetime =
     .label = Durata de vitta
-
 certmgr-token-name =
     .label = Aparato de seguessa
-
 certmgr-begins-label =
     .label = L'iniçia o
-
 certmgr-expires-label =
     .label = Scazze o
-
 certmgr-email =
     .label = Indirisso e-mail
-
 certmgr-serial =
     .label = Numero de serie
-
 certmgr-view =
     .label = Fanni vedde…
     .accesskey = v
-
 certmgr-edit =
     .label = Cangia fiduccia…
     .accesskey = M
-
 certmgr-export =
     .label = Espòrta…
     .accesskey = E
-
 certmgr-delete =
     .label = Scancella…
     .accesskey = S
-
 certmgr-delete-builtin =
     .label = Scancella ò leva a fiduccia…
     .accesskey = d
-
 certmgr-backup =
     .label = Fanni 'na còpia de seguessa…
     .accesskey = c
-
 certmgr-backup-all =
     .label = Fanni 'na còpia de seguessa de tutto…
     .accesskey = F
-
 certmgr-restore =
     .label = Inpòrta…
     .accesskey = I
-
 certmgr-add-exception =
     .label = Azonzi 'na eceçion…
     .accesskey = A
-
 exception-mgr =
     .title = Azonzi eceçion de seguessa
-
 exception-mgr-extra-button =
     .label = Conferma eceçion de seguessa
     .accesskey = C
-
 exception-mgr-supplemental-warning = Legitima banche, negòççi, e atri sciti publici e no te saiâ ciù domandou de fâ cosci.
-
 exception-mgr-cert-location-url =
     .value = Indirisso
-
 exception-mgr-cert-location-download =
     .label = Danni o certificato
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = Fanni vedde…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Tegni sarvâ sta eceçion de longo
     .accesskey = T
-
 pk11-bad-password = A paròlla segreta a l'é sbalia.
 pkcs12-decode-err = Inposcibile decodificâ l'archivio. Ò o no l'é into formato PKCS #12, ò o l'é corotto, ò a paròlla d'ordine a l'é scoretta.
 pkcs12-unknown-err-restore = Inposcibile arecuviâ l'archivio PKCS #12 pe de raxoin sconosciue.
@@ -153,19 +124,14 @@ delete-user-cert-title =
     .title = Scancella i teu certificati
 delete-user-cert-confirm = T'ê seguo de scancelâ sti certificati?
 delete-user-cert-impact = Se ti ti scancelli un di teu certificati, ti no poriæ ciù deuvialo pe identificate.
-
-
 delete-ca-cert-title =
     .title = Scancella ò leva a fiduccia a-i certificati CA
 delete-ca-cert-confirm = T'æ domandou de scancelâ sti cerficati CA. Mia che saiâ scancelâ anche a fiduccia di cerficati relativi a questa CA. T'ê seguo de scancelâ ò levâ a fiduccia?
 delete-ca-cert-impact = Se ti ti scancelli o ti levi a fiduccia a ina aotoritæ de certificaçion (CA), st'aplicaçion a no poriâ ciù fiase di certificati fæti da sta CA.
-
-
 delete-email-cert-title =
     .title = Scancella certificati email
 delete-email-cert-confirm = T'ê seguo de scancelâ sti certificati de personn-e?
 delete-email-cert-impact = Se ti ti scancelli un certificato email, ti no saiæ ciù in graddo de spedî 'na email criptâ a sta personn-a.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -173,9 +139,8 @@ delete-email-cert-impact = Se ti ti scancelli un certificato email, ti no saiæ 
 cert-with-serial =
     .value = Cartificato con numero seriale: { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
