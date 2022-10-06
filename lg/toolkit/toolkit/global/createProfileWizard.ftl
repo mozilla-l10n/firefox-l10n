@@ -37,6 +37,11 @@ create-profile-last-page-header =
         [macos] Obufuuze
        *[other] Kuwendde { create-profile-window.title }
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Obufuuze
+       *[other] Kuwendde { create-profile-window2.title }
+    }
 profile-creation-intro = Bwokola pulofailo enyingi osobola okuzawula ng'okozesa amannya gaazo. Oyinza okukozesa erinnya erikuwereddwa wano oba lyoyagala.
 profile-prompt = Yingizaamu erinnya lya pulofailo epya:
     .accesskey = Y
