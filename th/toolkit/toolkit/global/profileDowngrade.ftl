@@ -5,13 +5,13 @@
 profiledowngrade-window =
     .title = คุณได้เรียกใช้ { -brand-product-name } รุ่นเก่า
     .style = width: 490px;
-
+profiledowngrade-window2 =
+    .title = คุณได้เรียกใช้ { -brand-product-name } รุ่นเก่า
+    .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = สร้างโปรไฟล์ใหม่
-
 profiledowngrade-sync = การใช้ { -brand-product-name } รุ่นเก่าอาจทำให้ที่คั่นหน้าและประวัติการเรียกดูที่บันทึกไว้ในโปรไฟล์ { -brand-product-name } ที่มีอยู่เสียหาย เพื่อปกป้องข้อมูลของคุณ ให้สร้างโปรไฟล์ใหม่สำหรับการติดตั้ง { -brand-short-name } นี้ คุณสามารถลงชื่อเข้าใช้ด้วย{ -fxaccount-brand-name } เพื่อซิงค์ที่คั่นหน้าและประวัติการเรียกดูของคุณข้ามโปรไฟล์ได้
 profiledowngrade-nosync = การใช้ { -brand-product-name } รุ่นเก่าอาจทำให้ที่คั่นหน้าและประวัติการเรียกดูที่บันทึกไว้ในโปรไฟล์ { -brand-product-name } ที่มีอยู่เสียหาย เพื่อปกป้องข้อมูลของคุณ ให้สร้างโปรไฟล์ใหม่สำหรับการติดตั้ง { -brand-short-name } นี้
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
