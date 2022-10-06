@@ -4,44 +4,37 @@
 
 certmgr-title =
     .title = Umphathi Wesitifikeyiti
-
 certmgr-tab-mine =
     .label = Iintifikeyiti Zakho
-
 certmgr-tab-ca =
     .label = Iimphathi mandla
-
 certmgr-edit-ca-cert =
     .title = Lungisa ijamo lesitifikeyiti se trust yeCA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Lungisa ijamo lesitifikeyiti se trust yeCA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Lungisa ijamo le trust:
-
 certmgr-edit-cert-trust-ssl =
     .label = Isitifikeyitesi singakgonukwazi ama-Websayidi.
-
 certmgr-edit-cert-trust-email =
     .label = Isitifikeyitesi singakgonukwazi abasebenzisa iposo.
-
 certmgr-delete-cert =
     .title = Sula isitifikeyiti
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Sula isitifikeyiti
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Ibizo lesitifikeyiti
-
 certmgr-token-name =
     .label = Iisisetjenziswa sokuvikela
-
 certmgr-expires-label =
     .label = Siphela Mhlaka
-
 certmgr-email =
     .label = Isiphande se-Imeyili
-
 certmgr-serial =
     .label = Inomboro Yesiriyeli
-
 pk11-bad-password = Inomboro yokungena etloliweko ayikalungi.
 pkcs12-decode-err = Ihlulekile ukususa ikhowudi yefayili.  Alikakheki ngendlela yePKCS#12, lonakelel namkha inomboro yokungena oyifakileko ayikalungi.
 pkcs12-unknown-err-restore = Ihlulekile ukubuyisela ifayili lePKCS#12 ngezizathu ezingaziwako.
@@ -73,15 +66,12 @@ delete-user-cert-title =
     .title = Cima Iintifikhethi
 delete-user-cert-confirm = Uqinisile bona ufuna ukusula iintifikhethi lezi?
 delete-user-cert-impact = Nakube usula esinye seentifikhethi zakho, angeze usakwazi ukusisebenzisela ukuzazisa.
-
-
 delete-email-cert-title =
     .title = Cima Iintifikhethi ze-Email
 delete-email-cert-confirm = Uqinisile bona ufuna ukusula iintifikhethi zeposo zabantwaba?
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 

@@ -13,8 +13,6 @@ change-password-old = Inomboro yokungena yanje:
 change-password-new = Inomboro yokungena etja:
 change-password-reenter = Inomboro yokungena etja (godu):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Ukukhuphela Iintifikhethi
     .style = width: 46em
+download-cert-window2 =
+    .title = Ukukhuphela Iintifikhethi
+    .style = min-width: 46em
 download-cert-message = Kube nesibawo sokobana uthembe Isiphathimandla esitjha Sesitifikhethi (CA).
 download-cert-trust-ssl =
     .label = Themba CA le ukubona ama-web sites.
