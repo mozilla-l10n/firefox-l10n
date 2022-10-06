@@ -13,8 +13,6 @@ change-password-old = Lentšuphetišo la bjale:
 change-password-new = Lentšuphetišo le leswa:
 change-password-reenter = Lentšuphetišo le leswa (gape):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Go bula Setifikheiti
     .style = width: 46em
+download-cert-window2 =
+    .title = Go bula Setifikheiti
+    .style = min-width: 46em
 download-cert-message = O kgopetšwe go tshepha Taolo e mpsha ya Disetifikheiti (CA).
 download-cert-trust-email =
     .label = Tshepha CA ye go hlatha bašomiši ba e-poso.
