@@ -5,28 +5,22 @@
 cookies-window-dialog =
     .title = Куки
     .style = width: 36em;
-
+cookies-window-dialog2 =
+    .title = Куки
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Пошук:
     .accesskey = о
-
 cookies-on-system-label = На вашому комп’ютері збережено такі куки:
-
 treecol-site-header =
     .label = Сайт
-
 treecol-name-header =
     .label = Ім’я куки
-
 props-name-label =
     .value = Ім’я:
 props-value-label =
@@ -41,15 +35,12 @@ props-expires-label =
     .value = Термін дії завершується:
 props-container-label =
     .value = Контейнер:
-
 remove-cookie-button =
     .label = Вилучити куку
     .accesskey = и
-
 remove-all-cookies-button =
     .label = Вилучити всі куки
     .accesskey = и
-
 cookie-close-button =
     .label = Закрити
     .accesskey = а

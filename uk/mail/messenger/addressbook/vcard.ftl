@@ -36,6 +36,10 @@ vcard-n-suffix = Суфікс
 vcard-n-add-suffix =
     .title = Додати суфікс
 
+# Nickname
+
+vcard-nickname = Псевдонім
+
 # Email vCard field
 
 vcard-email-header = Адреси електронної пошти
@@ -54,6 +58,10 @@ vcard-url-label = Вебсайт
 vcard-tel-header = Номери телефону
 vcard-tel-add = Додати номер телефону
 vcard-tel-label = Номер телефону
+# Or "Mobile"
+vcard-entry-type-cell = Мобільний
+vcard-entry-type-fax = Факс
+vcard-entry-type-pager = Пейджер
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Додати часовий пояс
 
 # IMPP vCard field
 
-vcard-impp-header = Облікові записи чату
 vcard-impp2-header = Миттєві повідомлення
 vcard-impp-add = Додати обліковий запис чату
 vcard-impp-label = Облікові записи чату
