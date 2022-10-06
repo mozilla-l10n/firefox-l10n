@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Vegvisar for ny profil
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = Vegvisar for ny profil
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
