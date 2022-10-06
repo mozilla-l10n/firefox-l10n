@@ -21,6 +21,8 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Alla adressböcker
 all-address-books = Alla adressböcker
 about-addressbook-books-context-properties =
     .label = Egenskaper
@@ -87,6 +89,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = E-postadresser
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Smeknamn
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Telefonnummer
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -169,6 +174,9 @@ about-addressbook-placeholder-no-search-results = Inga kontakter hittades
 
 ## Details
 
+about-addressbook-details-edit-photo =
+    .title = Redigera kontaktfoto
+about-addressbook-new-contact-header = Ny kontakt
 about-addressbook-prefer-display-name = Föredra visningsnamn framför meddelandehuvud
 about-addressbook-write-action-button = Skriv
 about-addressbook-event-action-button = Händelse
