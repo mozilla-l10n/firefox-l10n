@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Барномаи сохтани профил
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = Барномаи сохтани профил
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
@@ -12,6 +15,11 @@ create-profile-first-page-header =
     { PLATFORM() ->
         [macos] Муқаддима
        *[other] Хуш омадед ба «{ create-profile-window.title }»
+    }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Муқаддима
+       *[other] Хуш омадед ба «{ create-profile-window2.title }»
     }
 profile-creation-explanation-1 = { -brand-short-name } маълумотро дар бораи танзимот ва хусусиятҳои браузери шумо дар профили шахсии шумо нигоҳ медорад.
 profile-creation-explanation-2 = Агар шумо ин нусхаи браузери { -brand-short-name }-ро бо корбарони дигар якҷоя истифода баред, шумо метавонед барои алоҳида нигоҳ доштани маълумоти ҳар як корбар аз профилҳо истифода баред. Дар ин маврид, ҳар як корбар бояд профили шахсии худро эҷод намояд.
@@ -28,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Анҷоми амал
        *[other] Ба анҷом расонидани амали { create-profile-window.title }
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Анҷоми амал
+       *[other] Ба анҷом расонидани амали { create-profile-window2.title }
     }
 profile-creation-intro = Агар шумо якчанд профилро эҷод кунед, шумо метавонед онҳоро аз рӯйи номи профил фарқ намоед. Шумо метавонед барои профили нав номи пешниҳодшудаи зеринро истифода баред ё номи дигар гузоред.
 profile-prompt = Номи профили навро ворид намоед:
