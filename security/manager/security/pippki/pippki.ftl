@@ -13,8 +13,6 @@ change-password-old = ପ୍ରଚଳିତ ପ୍ରବେଶ ସଂକେତ:
 change-password-new = ନୂତନ ପ୍ରବେଶ ସଂକେତ:
 change-password-reenter = ପ୍ରବେଶ ସଂକେତ (ପୁଣିଥରେ):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
     .style = width: 46em
+download-cert-window2 =
+    .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
+    .style = min-width: 46em
 download-cert-message = ଆପଣ ଗୋଟିଏ ନୂତନ ପ୍ରମାଣପତ୍ର ଅଧିକାରୀ (CA)କୁ ବିଶ୍ୱାସ କରିବା ପାଇଁ କହିଥିଲେ.
 download-cert-trust-ssl =
     .label = ୱେବ ସାଇଟ ଚିହ୍ନିବା ପାଇଁ ଏହି CA କୁ ବିଶ୍ୱାସ କରନ୍ତୁ.
