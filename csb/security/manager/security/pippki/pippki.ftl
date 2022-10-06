@@ -13,8 +13,6 @@ change-password-old = Aktualnô parola:
 change-password-new = Nowô parola:
 change-password-reenter = Nowô parola (jesz rôz):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Zladënk certifikatów
     .style = width: 46em
+download-cert-window2 =
+    .title = Zladënk certifikatów
+    .style = min-width: 46em
 download-cert-message = Zażądano dôwaniô wiarë nowémù Òrganowi Certifikacje (CA).
 download-cert-trust-ssl =
     .label = Wierzë nemù CA przë identifikacje Internetowëch stron.
