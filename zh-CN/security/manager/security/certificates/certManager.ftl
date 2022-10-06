@@ -4,131 +4,97 @@
 
 certmgr-title =
     .title = 证书管理器
-
 certmgr-tab-mine =
     .label = 您的证书
-
 certmgr-tab-remembered =
     .label = 认证决策
-
 certmgr-tab-people =
     .label = 个人
-
 certmgr-tab-servers =
     .label = 服务器
-
 certmgr-tab-ca =
     .label = 证书颁发机构
-
 certmgr-mine = 您有下列组织的证书可以识别您自己
 certmgr-remembered = 下列证书可用于向网站识别您的身份
 certmgr-people = 您有用来识别这些人的证书文件
 certmgr-server = 下列是服务器证书例外项目
 certmgr-ca = 您有用来识别这些证书颁发机构的证书文件
-
 certmgr-edit-ca-cert =
     .title = 编辑证书颁发机构信任关系设置
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = 编辑信任设置：
-
 certmgr-edit-cert-trust-ssl =
     .label = 此证书可以标识网站。
-
 certmgr-edit-cert-trust-email =
     .label = 此证书可以标识电子邮件用户。
-
 certmgr-delete-cert =
     .title = 删除证书
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = 删除证书
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = 主机
-
 certmgr-cert-name =
     .label = 证书名称
-
 certmgr-cert-server =
     .label = 服务器
-
 certmgr-override-lifetime =
     .label = 生命周期
-
 certmgr-token-name =
     .label = 安全设备
-
 certmgr-begins-label =
     .label = 起始时间
-
 certmgr-expires-label =
     .label = 过期时间
-
 certmgr-email =
     .label = 电子邮件地址
-
 certmgr-serial =
     .label = 序列号
-
 certmgr-view =
     .label = 查看…
     .accesskey = V
-
 certmgr-edit =
     .label = 编辑信任…
     .accesskey = E
-
 certmgr-export =
     .label = 导出…
     .accesskey = x
-
 certmgr-delete =
     .label = 删除…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = 删除或不信任…
     .accesskey = D
-
 certmgr-backup =
     .label = 备份…
     .accesskey = B
-
 certmgr-backup-all =
     .label = 全部备份…
     .accesskey = k
-
 certmgr-restore =
     .label = 导入…
     .accesskey = m
-
 certmgr-add-exception =
     .label = 添加例外…
     .accesskey = x
-
 exception-mgr =
     .title = 添加安全例外
-
 exception-mgr-extra-button =
     .label = 确认安全例外
     .accesskey = C
-
 exception-mgr-supplemental-warning = 合法的银行、电商以及其他公共网站不会要求您这么做。
-
 exception-mgr-cert-location-url =
     .value = 地址:
-
 exception-mgr-cert-location-download =
     .label = 获取证书
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = 查看…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = 永久保存此例外
     .accesskey = P
-
 pk11-bad-password = 输入的密码不正确。
 pkcs12-decode-err = 解码该文件失败。它可能不是 PKCS #12 格式，或已经损坏，或您输入的密码不正确。
 pkcs12-unknown-err-restore = 恢复 PKCS #12 文件失败，原因未知。
@@ -161,39 +127,28 @@ delete-user-cert-title =
     .title = 删除您的证书
 delete-user-cert-confirm = 确定要删除这些证书吗？
 delete-user-cert-impact = 如果您删除了某个您自己的证书，您将无法使用它来标识你自己。
-
-
 delete-ssl-override-title =
     .title = 删除服务器证书例外
 delete-ssl-override-confirm = 您确定要删除此服务器例外吗？
 delete-ssl-override-impact = 如果您删除一个服务器例外，下次您再访问该服务器时会恢复要求该网站使用有效的证书，您可能又会收到服务器证书无效的提示。
-
 delete-ca-cert-title =
     .title = 删除或不信任 CA 证书
 delete-ca-cert-confirm = 您已请求删除这些 CA 证书。内置的证书将被取消所有信任使操作达到同样的效果。您确认要删除或取消信任吗？
 delete-ca-cert-impact = 如果您删除或不信任证书一个颁发机构（CA）证书，本应用程序将不再信任由该 CA 颁发的任何证书.
-
-
 delete-email-cert-title =
     .title = 删除电子邮件证书
 delete-email-cert-confirm = 您确定要删除这些人的电子邮件证书吗？
 delete-email-cert-impact = 如果您删除了某人的电子邮件证书，您将不能再向此人发送加密电子邮件。
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = 证书序列号：{ $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = 不发送客户端证书
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = （未存储）
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (不可用)
 
