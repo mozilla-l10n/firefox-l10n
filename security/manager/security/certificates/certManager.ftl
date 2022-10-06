@@ -4,130 +4,99 @@
 
 certmgr-title =
     .title = Управление на сертификати
-
 certmgr-tab-mine =
     .label = Вашите сертификати
-
 certmgr-tab-remembered =
     .label = Решения при удостоверяване
-
 certmgr-tab-people =
     .label = Хора
-
 certmgr-tab-servers =
     .label = Сървъри
-
 certmgr-tab-ca =
     .label = Удостоверители
-
 certmgr-mine = Имате сертификати от тези организации, които ви идентифицират
 certmgr-remembered = Тези сертификати се използват, за да ви идентифицират пред уеб сайтове
 certmgr-people = Имате сертификати, които идентифицират следните хора
 certmgr-ca = Имате сертификати, които идентифицират следните удостоверители на сертификати
-
 certmgr-edit-ca-cert =
     .title = Редактиране на настройките за доверие в сертификат на CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Редактиране на настройките за доверие в сертификат на CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Редактиране на настройките за доверие:
-
 certmgr-edit-cert-trust-ssl =
     .label = Този сертификат може да идентифицира уеб сайтове.
-
 certmgr-edit-cert-trust-email =
     .label = Този сертификат може да идентифицира пощенски потребители.
-
 certmgr-delete-cert =
     .title = Изтриване на сертификат
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Изтриване на сертификат
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Хост
-
 certmgr-cert-name =
     .label = Име на сертификат
-
 certmgr-cert-server =
     .label = Сървър
-
 certmgr-override-lifetime =
     .label = Време на живот
-
 certmgr-token-name =
     .label = Устройство по безопасността
-
 certmgr-begins-label =
     .label = Започва на
-
 certmgr-expires-label =
     .label = Изтича на
-
 certmgr-email =
     .label = Е-поща
-
 certmgr-serial =
     .label = Сериен номер
-
 certmgr-view =
     .label = Подробности…
     .accesskey = П
-
 certmgr-edit =
     .label = Редактиране на доверието…
     .accesskey = Р
-
 certmgr-export =
     .label = Изнасяне…
     .accesskey = И
-
 certmgr-delete =
     .label = Изтриване…
     .accesskey = т
-
 certmgr-delete-builtin =
     .label = Изтриване или недоверяване…
     .accesskey = д
-
 certmgr-backup =
     .label = Резервно копие…
     .accesskey = Р
-
 certmgr-backup-all =
     .label = Резервно копие на всичко…
     .accesskey = в
-
 certmgr-restore =
     .label = Внасяне…
     .accesskey = В
-
 certmgr-add-exception =
     .label = Добавяне на изключение…
     .accesskey = к
-
 exception-mgr =
     .title = Добавяне на изключение по безопасността
-
 exception-mgr-extra-button =
     .label = Потвърждаване на изключение по безопасността
     .accesskey = П
-
 exception-mgr-supplemental-warning = Законни банки, магазини и други публични сайтове няма да искат да го правите.
-
 exception-mgr-cert-location-url =
     .value = Адрес:
-
 exception-mgr-cert-location-download =
     .label = Изтегляне на сертификата
     .accesskey = И
-
 exception-mgr-cert-status-view-cert =
     .label = Преглед…
     .accesskey = П
-
 exception-mgr-permanent =
     .label = Запазване като постоянно изключение
     .accesskey = З
-
 pk11-bad-password = Въведената парола е грешна.
 pkcs12-decode-err = Неуспешно декодиране на файла. Може би той не е в формат PKCS #12, повреден е или сте въвели грешна парола.
 pkcs12-unknown-err-restore = Неуспешно възстановяване на PKCS #12 файла поради неизвестни причини.
@@ -160,19 +129,14 @@ delete-user-cert-title =
     .title = Изтриване на вашите сертификати
 delete-user-cert-confirm = Сигурни ли сте, че искате да изтриете тези сертификати?
 delete-user-cert-impact = Ако изтриете някой от вашите сертификати, няма да може да го използвате, за да се идентифицирате.
-
-
 delete-ca-cert-title =
     .title = Изтриване или премахване на доверие от сертификати на CA
 delete-ca-cert-confirm = Поискахте да изтриете тези сертификати на CA. При вградените сертификати цялото доверие ще бъде премахнато, което има същият ефект. Сигурни ли сте, че искате да изтриете или премахнете доверието?
 delete-ca-cert-impact = Ако изтриете или премахнете доверие от сертификат на сертификатен удостоверител (CA), това приложение повече няма да се доверява на сертификати, издадени от този CA.
-
-
 delete-email-cert-title =
     .title = Изтриване на сертификати за е-поща
 delete-email-cert-confirm = Сигурни ли сте, че искате да изтриете сертификатите за е-поща на тези хора?
 delete-email-cert-impact = Ако изтриете сертификат на е-поща на човек, няма да може да изпращате шифрована поща до този човек.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -180,9 +144,8 @@ delete-email-cert-impact = Ако изтриете сертификат на е-
 cert-with-serial =
     .value = Сертификат със сериен номер: { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
