@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = Mynedżer certfikatōw
-
 certmgr-tab-mine =
     .label = Twoje certyfikaty
-
 certmgr-tab-remembered =
     .label = Rozwiōnzania autyntyzacyje
-
 certmgr-tab-people =
     .label = Ôsoby
-
 certmgr-tab-servers =
     .label = Serwery
-
 certmgr-tab-ca =
     .label = Regiyrōnki
-
 certmgr-mine = Mosz certyfikaty ôd takich ôrganizacyjōw, co cie idyntyfikujōm
 certmgr-remembered = Te certyfikaty sōm używane, coby cie idyntyfikować na strōnach
 certmgr-people = Mosz certyfikaty, co idyntyfikujōm te ôsoby
 certmgr-server = Te wkludzynia idyntyfikujōm wyjōntki felerōw certyfikatōw serwera
 certmgr-ca = Mosz certyfikaty, co idyntyfikujōm te regiyrōnki
-
 certmgr-edit-ca-cert =
     .title = Edytuj sztalōnki wierzynio certyfikatu CA
     .style = width: 40em;
-
+certmgr-edit-ca-cert2 =
+    .title = Edytuj sztalōnki wierzynio certyfikatu CA
+    .style = min-width: 40em;
 certmgr-edit-cert-edit-trust = Edytuj sztalōnki wierzynio:
-
 certmgr-edit-cert-trust-ssl =
     .label = Tyn certyfikat poradzi idyntyfikować serwery.
-
 certmgr-edit-cert-trust-email =
     .label = Tyn certyfikat poradzi idyntyfikować używoczy emaili.
-
 certmgr-delete-cert =
     .title = Skasuj certyfikat
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Skasuj certyfikat
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Host
-
 certmgr-cert-name =
     .label = Miano certyfikatu
-
 certmgr-cert-server =
     .label = Serwer
-
 certmgr-override-lifetime =
     .label = Czas życio
-
 certmgr-token-name =
     .label = Maszina bezpieczyństwa
-
 certmgr-begins-label =
     .label = Zaczyno sie
-
 certmgr-expires-label =
     .label = Przedownio sie:
-
 certmgr-email =
     .label = Emailowo adresa
-
 certmgr-serial =
     .label = Nōmer seryje
-
 certmgr-view =
     .label = Pokoż
     .accesskey = P
-
 certmgr-edit =
     .label = Edytuj wierzynie…
     .accesskey = E
-
 certmgr-export =
     .label = Eksportuj…
     .accesskey = E
-
 certmgr-delete =
     .label = Skasuj…
     .accesskey = S
-
 certmgr-delete-builtin =
     .label = Skasuj abo przestōń wierzić…
     .accesskey = S
-
 certmgr-backup =
     .label = Zrōb ibryczno kopijo…
     .accesskey = I
-
 certmgr-backup-all =
     .label = Zrōb ibryczno kopijo wszyskigo…
     .accesskey = k
-
 certmgr-restore =
     .label = Importuj…
     .accesskey = m
-
 certmgr-add-exception =
     .label = Przidej wyjōntek…
     .accesskey = x
-
 exception-mgr =
     .title = Przidanie wyjōntku bezpieczyństwa
-
 exception-mgr-extra-button =
     .label = Przitupluj wyjōntek bezpieczyństwa
     .accesskey = P
-
 exception-mgr-supplemental-warning = Godne banki, sklepy i inksze publiczne strōny niy bydōm cie ô to prosić.
-
 exception-mgr-cert-location-url =
     .value = Adresa:
-
 exception-mgr-cert-location-download =
     .label = Dostōń certyfikat
     .accesskey = D
-
 exception-mgr-cert-status-view-cert =
     .label = Pokoż
     .accesskey = P
-
 exception-mgr-permanent =
     .label = Schrōń tyj wyjōntek na zawdy
     .accesskey = S
-
 pk11-bad-password = Wkludzōne hasło je felerne.
 pkcs12-decode-err = Niy podarziło sie dekodowanie zbioru. Abo ô niy ma we formacie PKCS #12, abo je popsuty, abo wkludzōne hasło było złe.
 pkcs12-unknown-err-restore = Wrōcynie zbioru PKCS #12 sie niy podarziło z niypoznanyj prziczyny.
@@ -161,34 +130,26 @@ delete-user-cert-title =
     .title = Skasuj swoje certyfikaty
 delete-user-cert-confirm = Na zicher chcesz skasować te certyfikaty?
 delete-user-cert-impact = Jak skasujesz swoje certyfikaty, to niy pōdzie ich używać do idyntyfikacyje.
-
-
 delete-ssl-override-title =
     .title = Skasuj wyjōntek certyfikatu serwera
 delete-ssl-override-confirm = Na zicher chcesz skasować wyjōntek do tego serwera?
 delete-ssl-override-impact = Jak skasujesz wyjōntek do tego serwera, to wrōcisz normalne testy bezpieczyństwa do tego serwera i bydzie musioł używać dobrego certyfikatu.
-
 delete-ca-cert-title =
     .title = Skasuj abo przestōń wierzić certyfikatōm CA
 delete-ca-cert-confirm = Poszła prośba o skasowanie tych certyfikatōw CA. Do wbudowanych certyfikatōw ôznaczo to, że niy bydziesz im wierzić, co mo taki sōm efekt. Na zicher chcesz je skasować abo przestać im wierzić?
 delete-ca-cert-impact = Jak skasujesz abo przestaniesz wierzić certyfikatowi ôd regiyrōnku certyfikacyje (CA), to aplikacyjo niy bydzie już wierzić żodnym certyfikatōm ôd tego CA.
-
-
 delete-email-cert-title =
     .title = Skasuj emailowe certyfikaty
 delete-email-cert-confirm = Na zicher chcesz skasować emailowe certyfikaty ôd tych ôsōb?
 delete-email-cert-impact = Jak skasujesz emailowy certyfikat ôd tyj ôsoby, to niy poradzisz już posyłać do nij szyfrowanych emailōw.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certyfikat z nōmerym seryje: { $serialNumber }
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Niy posyłej żodnego certyfikatu klijynta
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Niyschraniany)
 

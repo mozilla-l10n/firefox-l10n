@@ -8,22 +8,18 @@ password-quality-meter = Meter jakości hasła
 
 change-device-password-window =
     .title = Zmiyń hasło
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Maszina ôd bezpieczyństwa: { $tokenName }
 change-password-old = Aktualne hasło:
 change-password-new = Nowe hasło:
 change-password-reenter = Nowe hasło (jeszcze roz):
-
 pippki-failed-pw-change = Niy idzie zmiynić hasła.
 pippki-incorrect-pw = Niy było wkludzōne dobre hasło. Sprōbuj jeszcze roz.
 pippki-pw-change-ok = Zmiana hasła sie podarziła.
-
 pippki-pw-empty-warning = Poschraniane hasła i prywatne klucze niy bydōm brōniōne.
 pippki-pw-erased-ok = Hasło je skasowane. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Pozōr! Ôbrane je niyużywanie hasła. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Jeżeś prawie w trybie FIPS, co potrzebuje niyprōżnego hasła.
 
 ## Reset Primary Password dialog
@@ -31,10 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Jeżeś prawie w trybie FIPS, co potrzebuj
 reset-primary-password-window =
     .title = Wynuluj głōwne hasło
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = Wynuluj głōwne hasło
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Wynuluj
 reset-primary-password-text = Jak wynulujesz swoje głōwne hasło, to przepōmnōm sie wszyskie poschraniane hasła, dane formularōw, ôsobiste certyfikaty i prywatne klucze. Na zicher chcesz wynulować swoje głōwne hasło?
-
 pippki-reset-password-confirmation-title = Wynuluj głōwne hasło
 pippki-reset-password-confirmation-message = Twoje głōwne hasło je wynulowane.
 
@@ -43,6 +41,9 @@ pippki-reset-password-confirmation-message = Twoje głōwne hasło je wynulowane
 download-cert-window =
     .title = Pobiyranie certyfikatu
     .style = width: 46em
+download-cert-window2 =
+    .title = Pobiyranie certyfikatu
+    .style = min-width: 46em
 download-cert-message = Prziszła prośba, coby wierzić nowymu wystowcy certyfikatōw (CA).
 download-cert-trust-ssl =
     .label = Wiyrz tymu CA przi poznowaniu strōn.
