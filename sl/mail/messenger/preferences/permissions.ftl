@@ -5,6 +5,8 @@
 permissions-reminder-window =
     .title = Izjeme
     .style = width: 36em;
+permissions-reminder-window2 =
+    .title = Izjeme
 permission-preferences-close-window =
     .key = w
 website-address-label =

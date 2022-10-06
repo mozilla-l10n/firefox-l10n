@@ -21,6 +21,8 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Vsi imeniki
 all-address-books = Vsi imeniki
 about-addressbook-books-context-properties =
     .label = Lastnosti
@@ -87,6 +89,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = E-poštni naslovi
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Vzdevek
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Telefonske številke
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -181,10 +186,23 @@ about-addressbook-placeholder-no-search-results = Ni najdenih stikov
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } izbranih stikov in seznamov
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } izbranih stikov
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } izbranih seznamov
+about-addressbook-details-edit-photo =
+    .title = Uredi fotografijo stika
+about-addressbook-new-contact-header = Nov stik
 about-addressbook-prefer-display-name = Daj prednost prikazanemu imenu namesto glavi sporočila
 about-addressbook-write-action-button = Piši
 about-addressbook-event-action-button = Dogodek
 about-addressbook-search-action-button = Išči
+about-addressbook-new-list-action-button = Nov seznam
 about-addressbook-begin-edit-contact-button = Uredi
 about-addressbook-delete-edit-contact-button = Izbriši
 about-addressbook-cancel-edit-contact-button = Prekliči
@@ -209,6 +227,10 @@ about-addressbook-entry-name-role = Funkcija
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Spletno mesto
 about-addressbook-entry-name-time-zone = Časovni pas
+about-addressbook-entry-name-custom1 = Po meri 1
+about-addressbook-entry-name-custom2 = Po meri 2
+about-addressbook-entry-name-custom3 = Po meri 3
+about-addressbook-entry-name-custom4 = Po meri 4
 about-addressbook-unsaved-changes-prompt-title = Neshranjene spremembe
 about-addressbook-unsaved-changes-prompt = Ali želite shraniti spremembe, preden zapustite pogled za urejanje?
 
