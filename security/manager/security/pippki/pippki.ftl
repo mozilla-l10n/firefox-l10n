@@ -13,8 +13,6 @@ change-password-old = தற்போதைய கடவுச்சொல்:
 change-password-new = புதிய கடவுச்சொல்:
 change-password-reenter = புதிய கடவுச்சொல் (மீண்டும்):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = சான்றிதழ் பதிவிறக்கம் செய்யப்படுகிறது
     .style = width: 46em
+download-cert-window2 =
+    .title = சான்றிதழ் பதிவிறக்கம் செய்யப்படுகிறது
+    .style = min-width: 46em
 download-cert-message = புதிய் சான்றிதழ் உரிமம் (CA) பெற்றவர்களை நம்ப சொல்கிறார்கள்.
 download-cert-trust-ssl =
     .label = இணையதளத்தை கண்டுபிடிக்க இந்த CA வை நம்பு.
