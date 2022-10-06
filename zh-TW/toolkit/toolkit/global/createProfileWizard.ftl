@@ -37,6 +37,11 @@ create-profile-last-page-header =
         [macos] 最後一步
        *[other] 完成{ create-profile-window.title }
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] 最後一步
+       *[other] 完成{ create-profile-window2.title }
+    }
 profile-creation-intro = 可用名稱來區分不同的設定檔。您可參考下列建議，或使用自己喜歡的名稱。
 profile-prompt = 輸入新設定檔名稱:
     .accesskey = E
