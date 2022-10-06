@@ -54,6 +54,7 @@ about-processes-unknown-process = ਹੋਰ: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, ਸਰਵਿਸ-ਵਰਕਰ)
 about-processes-web-isolated-process-private = { $origin } — ਪ੍ਰਾਈਵੇਟ ({ $pid })
+about-processes-with-coop-coep-process-private = { $origin } — ਪ੍ਰਾਈਵੇਟ ({ $pid }, ਅੰਤਰ-ਮੂਲ ਅੱਡ ਕੀਤੇ)
 
 ## Details within processes
 
@@ -82,6 +83,7 @@ about-processes-frame-name-many = ਸਬ-ਫਰੇਮ ({ $number }): { $shortUrl
 
 about-processes-utility-actor-unknown = ਅਣਪਛਾਤਾ ਐਕਟਰ
 about-processes-utility-actor-audio-decoder = ਆਡੀਓ ਡੀਕੋਡਰ
+about-processes-utility-actor-audio-decoder-applemedia = Apple ਮੀਡੀਆ ਆਡੀਓ ਡੀਕੋਡਰ
 about-processes-utility-actor-mf-media-engine = Windows ਮੀਡੀਆ ਫਾਊਂਡੇਸ਼ਨ ਮੀਡੀਆ ਇੰਜਣ CDM
 
 ## Displaying CPU (percentage and total)

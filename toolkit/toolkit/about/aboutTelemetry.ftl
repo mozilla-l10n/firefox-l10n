@@ -20,6 +20,7 @@ about-telemetry-more-information = ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਖੋ
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">ਫਾਇਰਫਾਕਸ ਡਾਟਾ ਦਸਤਾਵੇਜ਼ (ਅੰਗਰੇਜ਼ੀ)</a> ਵਿੱਚ ਗਾਈਡਾਂ ਹਨ, ਜੋ ਕਿ ਸਾਡੇ ਡਾਟਾ ਟੂਲ ਨਾਲ ਕੰਮ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿੰਦੀਆਂ ਹਨ।
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox ਟੈਲੀਮੈਂਟਰੀ ਕਲਾਈਂਟ ਦਸਤਾਵੇਜ਼</a> ਵਿੱਚ ਸੰਕਲਪ ਦੀਆਂ ਪਰਿਭਾਸ਼ਾਵਾਂ, API ਦਸਤਾਵੇਜ਼ ਅਤੇ ਡਾਟਾ ਹਵਾਲੇ ਮੌਜੂਦ ਹਨ।
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">ਟੈਲੀਮੈਂਟਰੀ ਡੈਸ਼ਬੋਰਡ</a> ਤੁਹਾਨੂੰ Mozilla ਨੂੰ ਟੈਲੀਮੈਂਟਰੀ ਰਾਹੀਂ ਮਿਲੇ ਡਾਟੇ ਨੂੰ ਦਿਖਾਉਂਦਾ ਹੈ।
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">ਪਰੋਬ ਡਿਕਸ਼ਨਰੀ</a> ਟੈਲੀਮੈਂਟਰੀ ਵਲੋਂ ਇਕੱਤਰ ਕੀਤੀਆਂ ਪੜਤਾਲਾਂ ਦੇ ਬਾਰੇ ਵੇਰਵੇ ਅਤੇ ਵਰਣਨ ਦਿੰਦੀ ਹੈ।
 about-telemetry-show-in-Firefox-json-viewer = JSON ਦਰਸ਼ਕ 'ਚ ਖੋਲ੍ਹੋ
 about-telemetry-home-section = ਘਰ
 about-telemetry-general-data-section = ਆਮ ਡਾਟਾ
@@ -54,6 +55,16 @@ about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] ਸਮਰੱਥ ਹੈ
        *[disabled] ਅਸਮਰੱਥ ਹੈ
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } ਨਮੂਨੇ, ਔਸਤ= { $prettyAverage }, ਜੋੜ= { $sum }
+       *[other] { $sampleCount } ਨਮੂਨੇ, ਔਸਤ= { $prettyAverage }, ਜੋੜ= { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
