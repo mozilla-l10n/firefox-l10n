@@ -13,8 +13,6 @@ change-password-old = Ijambobanga rigezweho:
 change-password-new = Ijambobanga rishya:
 change-password-reenter = Ijambobanga rishya (na none):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Irimo Kwimura Icyemezo
     .style = width: 46em
+download-cert-window2 =
+    .title = Irimo Kwimura Icyemezo
+    .style = min-width: 46em
 download-cert-message = Wasabwe kwizera Umuyobozi mushya w'Icyemezo (CA).
 download-cert-trust-ssl =
     .label = Kwizera uyu CA kugira ngo ubone imbugamakuru.
