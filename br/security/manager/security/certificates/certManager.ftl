@@ -4,126 +4,93 @@
 
 certmgr-title =
     .title = Ardoer testenioù
-
 certmgr-tab-mine =
     .label = Ho testenioù
-
 certmgr-tab-people =
     .label = Tud
-
 certmgr-tab-servers =
     .label = Dafariadoù
-
 certmgr-tab-ca =
     .label = Aotrouniezhoù
-
 certmgr-mine = Testenioù hoc'h eus a-berzh an aozadurioù-mañ oc'h anaout ac'hanoc'h
 certmgr-people = Testenioù ho peus diwar-benn an dud da-heul
 certmgr-ca = Testenioù hoc'h eus er restr oc'h anaout an aotrouniezh testeniañ-mañ
-
 certmgr-edit-ca-cert =
     .title = Embann arventennoù testenioù a fiziañs an aotrouniezh testeniañ
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = Embann an arventennoù a fiziañs:
-
 certmgr-edit-cert-trust-ssl =
     .label = An testeni-mañ a c'hall anaout al lec'hiennoù web.
-
 certmgr-edit-cert-trust-email =
     .label = Barrek eo an testeni-mañ da anaout an arveriaded posteloù.
-
 certmgr-delete-cert =
     .title = Dilemel an testeni
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Dilemel an testeni
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Ostiz
-
 certmgr-cert-name =
     .label = Anv an testeni
-
 certmgr-cert-server =
     .label = Dafariad
-
 certmgr-override-lifetime =
     .label = Buhez pad
-
 certmgr-token-name =
     .label = Trevnad diogelroez
-
 certmgr-begins-label =
     .label = Kregiñ a ra d'an/ar
-
 certmgr-expires-label =
     .label = Diamzeret e vo d'an/ar
-
 certmgr-email =
     .label = Chomlec'h Postel
-
 certmgr-serial =
     .label = Steudriñv
-
 certmgr-view =
     .label = Gwelout…
     .accesskey = w
-
 certmgr-edit =
     .label = Embann Fiziañs…
     .accesskey = E
-
 certmgr-export =
     .label = Ezporzhiañ…
     .accesskey = z
-
 certmgr-delete =
     .label = Dilemel…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = Dilemel pe disfiziout
     .accesskey = D
-
 certmgr-backup =
     .label = Gwarediñ…
     .accesskey = e
-
 certmgr-backup-all =
     .label = Gwarediñ pep tra…
     .accesskey = p
-
 certmgr-restore =
     .label = Enporzhiañ…
     .accesskey = n
-
 certmgr-add-exception =
     .label = Ouzhpennañ un nemedenn…
     .accesskey = n
-
 exception-mgr =
     .title = Ouzhpennañ un nemedenn diogelroez
-
 exception-mgr-extra-button =
     .label = Kadarnaat an nemedenn diogelroez
     .accesskey = K
-
 exception-mgr-supplemental-warning = An dra-se ne vo ket goulennet diganeoc'h gant ar bankoù, ar stalioù dezvek pe lec'hiennoù foran all.
-
 exception-mgr-cert-location-url =
     .value = Lec'hiadur:
-
 exception-mgr-cert-location-download =
     .label = Kaout un testeni
     .accesskey = a
-
 exception-mgr-cert-status-view-cert =
     .label = Gwelout…
     .accesskey = G
-
 exception-mgr-permanent =
     .label = Gwarediñ an nemedenn-mañ da vat
     .accesskey = w
-
 pk11-bad-password = Direizh e oa ar ger-tremen enanket.
 pkcs12-decode-err = C'hwitadenn war divonegañ ar restr.  Pe n'eo ket e mentrezh PKCS #12, kontronet eo bet pe direizh e oa ar ger-tremen enanket.
 pkcs12-unknown-err-restore = C'hwitadenn war assav ar restr PKCS #12 evit abegoù dianav.
@@ -156,33 +123,24 @@ delete-user-cert-title =
     .title = Dilemel ho testenioù
 delete-user-cert-confirm = Fellout a ra deoc'h dilemel an testenioù-mañ?
 delete-user-cert-impact = Mar bez dilamet ho testenioù deoc'h ne c'hallot ket mui o arverañ evit hennadiñ ac'hanoc'h.
-
-
 delete-ssl-override-title =
     .title = Dilemel nemedennoù testenioù an dafariad
 delete-ssl-override-confirm = Ha fellout a ra deoc’h dilemel an nemedenn evit an dafariad-mañ?
 delete-ssl-override-impact = Mar bez dilamet un nemedenn dafariad e vo assavet ganeoc’h ar gwiriadurioù boaz evit an dafariad-mañ ha goulenn a ra e vo arveret un testeni talvoudek gantañ.
-
 delete-ca-cert-title =
     .title = Dilemel pe Disfiziañ testenioù an aotrouniezh testeniañ
 delete-ca-cert-confirm = Azgoulennet hoc'h eus dilemel testenioù an aotrouniezh testeniañ-mañ. Evit an testenioù enframmet, ne vo fiziañs ebet ken enno, ar pezh a zo heñvel. Ha sur oc'h e fell deoc'h dilemel pe disfiziout anezho?
 delete-ca-cert-impact = Mar bez dilamet pe disfiziet un testeni a-berzh un aotrouniezh testeniañ ne vo fiziañs ebet gant an arload-mañ en testenioù kaset gant an aotrouniezh testeniañ.
-
-
 delete-email-cert-title =
     .title = Dilemel an testenioù posteloù
 delete-email-cert-confirm = Fellout a ra deoc'h dilemel testenioù posteloù an dud-mañ?
 delete-email-cert-impact = Mar bez dilamet testeni postel un den ne viot ket mui evit kas posteloù enrinek d'an den-mañ.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Testeni gant steudriñv: { $serialNumber }
-
-## Cert Viewer
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (N’eo ket gwaredet)
 

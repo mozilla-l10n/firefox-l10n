@@ -8,24 +8,18 @@ password-quality-meter = Perzhded ar ger-tremen
 
 change-device-password-window =
     .title = Kemmañ ar ger-tremen
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Trevnad diogelroez: { $tokenName }
 change-password-old = Ger-tremen war arver:
 change-password-new = Ger-tremen nevez:
 change-password-reenter = Ger-tremen nevez (c'hoazh):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = N’haller ket kemmañ ar ger-tremen.
 pippki-incorrect-pw = N’ho peus ket enanket ar ger-tremen reizh. Klaskit en-dro mar plij.
 pippki-pw-change-ok = Ger-tremen kemmet gant berzh.
-
 pippki-pw-empty-warning = Ho kerioù-tremen hag alc'hwezioù prevez miret ne vint ket gwarezet.
 pippki-pw-erased-ok = Dilamet ho peus ho ker-tremen. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Diwall! Dibabet ho peus na ober gant ur ger-tremen. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = E mod FIPS emaoc’h bremañ. Azgoulenn a ra FIPS ur ger-tremen bet roet.
 
 ## Reset Primary Password dialog
@@ -35,9 +29,7 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Adderaouekaat
-
 reset-primary-password-text = Mar adderaouekait ho ker-tremen pennañ e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho testenioù personel hag hoc’h alc’hwezioù prevez. Fellout a ra deoc’h dilemel ho ker-tremen pennañ?
-
 pippki-reset-password-confirmation-title = Adderaouekaat ar ger-tremen pennañ
 pippki-reset-password-confirmation-message = Diweredekaet eo bet ho ker-tremen pennañ.
 
@@ -46,6 +38,9 @@ pippki-reset-password-confirmation-message = Diweredekaet eo bet ho ker-tremen p
 download-cert-window =
     .title = O pellgargañ an testeni
     .style = width: 46em
+download-cert-window2 =
+    .title = O pellgargañ an testeni
+    .style = min-width: 46em
 download-cert-message = Goulennet ez eus bet diganeoc'h kaout fiziañs en un aotrouniezh testeniañ nevez.
 download-cert-trust-ssl =
     .label = Kaout fiziañ en aotrouniezh testeniañ-mañ evit anaout al lec'hiennoù web.
