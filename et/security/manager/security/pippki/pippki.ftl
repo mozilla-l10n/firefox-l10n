@@ -8,22 +8,18 @@ password-quality-meter = Parooli kvaliteedihinnang
 
 change-device-password-window =
     .title = Parooli muutmine
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Turvaseade: { $tokenName }
 change-password-old = Praegune parool:
 change-password-new = Uus parool:
 change-password-reenter = Uue parooli kinnitus:
-
 pippki-failed-pw-change = Parooli muutmine pole võimalik.
 pippki-incorrect-pw = Sa ei sisestanud praegu kehtivat õiget parooli. Palun proovi uuesti.
 pippki-pw-change-ok = Parooli muutmine õnnestus.
-
 pippki-pw-empty-warning = Sinu salvestatud paroole ja privaatseid võtmeid ei kaitsta.
 pippki-pw-erased-ok = Sa kustutasid oma parooli. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Hoiatus! Sa otsustasid parooli kasutamisest loobuda. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Sa oled FIPS-režiimis. See eeldab, et sinu parool poleks tühi.
 
 ## Reset Primary Password dialog
@@ -31,10 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Sa oled FIPS-režiimis. See eeldab, et sin
 reset-primary-password-window =
     .title = Ülemparooli lähtestamine
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = Ülemparooli lähtestamine
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Lähtesta
 reset-primary-password-text = Ülemparooli lähtestamisel unustatakse kõik sinu salvestatud veebi ja e-posti paroolid, isiklikud sertifikaadid ja privaatvõtmed. Kas oled kindel, et soovid ülemparooli lähtestada?
-
 pippki-reset-password-confirmation-title = Ülemparooli lähtestamine
 pippki-reset-password-confirmation-message = Ülemparool on lähtestatud.
 
