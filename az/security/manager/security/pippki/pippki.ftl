@@ -13,8 +13,6 @@ change-password-old = Hazırkı parol:
 change-password-new = Yeni parol:
 change-password-reenter = Yeni parol (təkrar):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Təsdiq sənədi yüklənir
     .style = width: 46em
+download-cert-window2 =
+    .title = Təsdiq sənədi yüklənir
+    .style = min-width: 46em
 download-cert-message = Yeni bir təsdiqləmə sertifikatı (CA) təhlükəsizliyi istədiniz.
 download-cert-trust-ssl =
     .label = Saytları təyin etmək üçün bu təsdiqləmə sertifikatına etibar et.

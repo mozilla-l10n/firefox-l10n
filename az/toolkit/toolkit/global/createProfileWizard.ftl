@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Başlatma
        *[other] { create-profile-window.title } bölməsinə xoş gəlmisiniz
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Başlatma
+       *[other] { create-profile-window2.title } bölməsinə xoş gəlmisiniz
+    }
 profile-creation-explanation-1 = { -brand-short-name } nizamlarınızı, favoritlərinizi və oxşar seçimlərinizi hesabınızda saxlayır.
 profile-creation-explanation-2 = { -brand-short-name } brauzerini başqalarıyla ortaq işlədirsinizsə, hər istifadəçinin məlumatlarını ayrı-ayrı saxlamaq üçün fərqli hesablar yarada bilərsiniz.
 profile-creation-explanation-3 = { -brand-short-name } brauzerini istifadə edirsinizsə ən azından bir hesaba sahib olmağınız lazımdır. Sizi maraqlandıran fərqli tənzimləmələri birdən çox hesabda saxlaya bilərsiniz. Məsələn iş üçün ayrı, ev üçün ayrı hesab yarada bilərsiniz.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Nəticə
        *[other] { create-profile-window.title } tamamlanır
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Nəticə
+       *[other] { create-profile-window2.title } tamamlanır
     }
 profile-creation-intro = Birdən çox hesab yaratsanız bunları bir birindən ayırmaq üçün hesab adlarından istifadə edə bilərsiniz. Burada təqdim olunan  ya da özünüz seçdiyiniz bir addan istifadə edə bilərsiniz.
 profile-prompt = Yeni bir hesab adı daxil edin:
