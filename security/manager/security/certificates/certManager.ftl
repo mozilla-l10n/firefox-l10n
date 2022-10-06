@@ -4,119 +4,88 @@
 
 certmgr-title =
     .title = ಪ್ರಮಾಣಪತ್ರ ನಿರ್ವಾಹಕ
-
 certmgr-tab-mine =
     .label = ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರಗಳು
-
 certmgr-tab-people =
     .label = ಜನರು
-
 certmgr-tab-servers =
     .label = ಪರಿಚಾರಕಗಳು
-
 certmgr-tab-ca =
     .label = ಅಥಾರಿಟಿಗಳು
-
 certmgr-edit-ca-cert =
     .title = CA ಪ್ರಮಾಣಪತ್ರ ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಯೋಜಿಸು:
-
 certmgr-edit-cert-trust-ssl =
     .label = ಈ ಪ್ರಮಾಣಪತ್ರವು ಜಾಲತಾಣವನ್ನು ಗುರುತಿಸಬಲ್ಲದು.
-
 certmgr-edit-cert-trust-email =
     .label = ಈ ಪ್ರಮಾಣಪತ್ರವು ಮೇಲ್‍ ಬಳೆಕದಾರರನ್ನು ಗುರುತಿಸಬಲ್ಲದು.
-
 certmgr-delete-cert =
     .title = ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಳಿಸು
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಳಿಸು
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = ಪ್ರಮಾಣಪತ್ರದ ಹೆಸರು
-
 certmgr-cert-server =
     .label = ಪರಿಚಾರಕ
-
 certmgr-override-lifetime =
     .label = ಜೀವಿತಾವಧಿ
-
 certmgr-token-name =
     .label = ಸುರಕ್ಷತಾ ಸಾಧನ
-
 certmgr-begins-label =
     .label = ಆರಂಭಗೊಳ್ಳುವುದು
-
 certmgr-expires-label =
     .label = ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕ
-
 certmgr-email =
     .label = ಇ-ಮೇಲ್ ವಿಳಾಸ
-
 certmgr-serial =
     .label = ಅನುಕ್ರಮ ಸಂಖ್ಯೆ
-
 certmgr-view =
     .label = ನೋಟ…
     .accesskey = V
-
 certmgr-edit =
     .label = ನಂಬಿಕೆಯನ್ನು ಬದಲಾಯಿಸು…
     .accesskey = E
-
 certmgr-export =
     .label = ರಫ್ತು ಮಾಡು…
     .accesskey = x
-
 certmgr-delete =
     .label = ಅಳಿಸು…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = ಅಳಿಸು ಅಥವ ನಂಬಿಕೆಗೆ ಅನರ್ಹಗೊಳಿಸು…
     .accesskey = D
-
 certmgr-backup =
     .label = ಬ್ಯಾಕ್ಅಪ್…
     .accesskey = B
-
 certmgr-backup-all =
     .label = ಎಲ್ಲವನ್ನೂ ಬ್ಯಾಕ್ಅಪ್ ಮಾಡು…
     .accesskey = k
-
 certmgr-restore =
     .label = ಆಮದು ಮಾಡಿಕೊ…
     .accesskey = m
-
 certmgr-add-exception =
     .label = ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸು…
     .accesskey = x
-
 exception-mgr =
     .title = ಸುರಕ್ಷತಾ ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಿ
-
 exception-mgr-extra-button =
     .label = ಸುರಕ್ಷತಾ ವಿನಾಯಿತಿಯನ್ನು ಖಚಿತಪಡಿಸಿ
     .accesskey = C
-
 exception-mgr-supplemental-warning = ನ್ಯಾಯಯುತವಾದ ಬ್ಯಾಂಕ್‌ಗಳು, ಅಂಗಡಿಗಳು ಹಾಗು ಇತರೆ ಖಾಸಗಿ ತಾಣಗಳು, ನೀವು ಹೀಗೆ ಮಾಡುವಂತೆ ಅಪೇಕ್ಷಿಸುವುದಿಲ್ಲ.
-
 exception-mgr-cert-location-url =
     .value = ಸ್ಥಳ:
-
 exception-mgr-cert-location-download =
     .label = ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪಡೆದುಕೊ
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = ನೋಟ…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = ಶಾಶ್ವತವಾಗಿ ಈ ವಿನಾಯಿತಿಯನ್ನು ಶೇಖರಿಸು
     .accesskey = P
-
 pk11-bad-password = ನಮೂದಿಸಿದ ಗುಪ್ತಪದವು ಸರಿ ಇಲ್ಲ.
 pkcs12-decode-err = ಕಡತವನ್ನು ಡಿಕೋಡ್ ಮಾಡುವಲ್ಲಿ ವಿಫಲತೆ ಎದುರಾಗಿದೆ.  ಬಹುಷಃ ಅದು PKCS #12 ಮಾದರಿಯಲ್ಲಿರಬೇಕು, ಭ್ರಷ್ಟಗೊಂಡಿರಬೇಕು ಅಥವ ನೀವು ನಮೂದಿಸಿದ ಗುಪ್ತಪದವು ತಪ್ಪಾಗಿರಬಹುದು.
 pkcs12-unknown-err-restore = PKCS #12 ಕಡತವನ್ನು ಅಜ್ಞಾತ ಕಾರಣಗಳಿಂದಾಗಿ ಮರಳಿ ಸ್ಥಾಪಿಸಲಾಗಲಿಲ್ಲ.
@@ -149,22 +118,17 @@ delete-user-cert-title =
     .title = ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸಿಹಾಕು
 delete-user-cert-confirm = ಈ ಜಾಲತಾಣದ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ನೀವು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಲು ಬಯಸುತ್ತೀರ?
 delete-user-cert-impact = ನೀವು  ನಿಮ್ಮದೆ ಸ್ವಂತ ಪ್ರಮಾಣಪತ್ರಗಳಲ್ಲಿ ಒಂದನ್ನು ಅಳಿಸಿದರೆ,ನಂತರ ನೀವು ಅದನ್ನು ನಿಮ್ಮನ್ನು ನೀವು ಗುರುತಿಸಿಕೊಳ್ಳಲು ಬಳಸಲಾಗುವುದಿಲ್ಲ.
-
-
 delete-ca-cert-title =
     .title = CA ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸು ಅಥವ ನಂಬಿಕೆಗೆ ಅನರ್ಹಗೊಳಿಸು
 delete-ca-cert-confirm = ನೀವು ಈ CA ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸಲು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ. ಒಳನಿರ್ಮಿತ ಪ್ರಮಾಣಪತ್ರಗಳಿಗಾಗಿ ಎಲ್ಲಾ ನಂಬಿಕೆಗಳನ್ನು ಅಳಿಸಿಹಾಕಲಾಗುತ್ತದೆ, ಇದರ ಪರಿಣಾಮವೂ ಸಹ ಅದೆ ಆಗಿರುತ್ತದೆ. ನೀವು ಅಳಿಸಲು ಅಥವ ನಂಬಿಕೆಗಳನ್ನು ಅನರ್ಹಗೊಳಿಸಲು ಬಯಸುತ್ತೀರೆ?
 delete-ca-cert-impact = ನೀವು ಒಂದು ಪ್ರಮಾಣಪತ್ರ ಅತಾರಿಟಿಯ (CA) ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಳಿಸಿದಲ್ಲಿ ಅಥವ ನಂಬಿಕೆಗೆ ಅನರ್ಹಗೊಳಿಸಿದಲ್ಲಿ ಆ CA ಇಂದ ಒದಗಿಸಲಾದ ಯಾವುದೆ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಈ ಅನ್ವಯಗಳನ್ನು ನಂಬುವುದಿಲ್ಲ.
-
-
 delete-email-cert-title =
     .title = ವಿ-ಅಂಚೆ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸಿಹಾಕು
 delete-email-cert-confirm = ನೀವು ಈ ಎಲ್ಲಾ ವಿ-ಅಂಚೆ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಲು ಬಯಸುತ್ತೀರೆ?
 delete-email-cert-impact = ನೀವು ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಇ-ಮೈಲ್‌ ಅಳಿಸಿದರೆ, ಆ ವ್ಯಕ್ತಿಗೆ ಮುಂದೆ ಗೂಢಲಿಪೀಕರಣಗೊಂಡ(ಎನ್‌ಕ್ರಿಪ್ಟ್‍ ) ಇ-ಮೈಲ್ ಅನ್ನು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
