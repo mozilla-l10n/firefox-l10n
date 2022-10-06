@@ -29,3 +29,20 @@ toolbox-meatball-menu-pseudo-locale-bidi = Kích hoạt ngôn ngữ “bidi”
 
 ##
 
+
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
+toolbox-mode-browser-toolbox-label = Chế độ công cụ trình duyệt
+toolbox-mode-browser-console-label = Chế độ bảng điều khiển trình duyệt
+toolbox-mode-everything-label = Đa tiến trình
+toolbox-mode-everything-sub-label = (Chậm hơn)
+toolbox-mode-everything-container =
+    .title = Gỡ lỗi mọi thứ trong tất cả tiến trình
+toolbox-mode-parent-process-label = Chỉ tiến trình mẹ
+toolbox-mode-parent-process-sub-label = (Nhanh)
+toolbox-mode-parent-process-container =
+    .title = Chỉ tập trung vào các tài nguyên từ tiến trình mẹ.
+toolbox-always-on-top-enabled =
+    .title = Vô hiệu hóa cửa sổ luôn ở trên cùng (Thao tác này sẽ khởi động lại công cụ dành cho nhà phát triển)
+toolbox-always-on-top-disabled =
+    .title = Kích hoạt cửa sổ luôn ở trên cùng (Thao tác này sẽ khởi động lại công cụ dành cho nhà phát triển)
