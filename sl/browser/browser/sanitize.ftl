@@ -5,20 +5,19 @@
 sanitize-prefs =
     .title = Nastavitve brisanja zgodovine
     .style = width: 34em
-
+sanitize-prefs2 =
+    .title = Nastavitve brisanja zgodovine
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
-
 dialog-title =
     .title = Počisti nedavno zgodovino
     .style = width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
     .title = Počisti vso zgodovino
     .style = width: 34em
-
 clear-data-settings-label = Ob izhodu naj { -brand-short-name } samodejno počisti
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -32,22 +31,16 @@ clear-data-settings-label = Ob izhodu naj { -brand-short-name } samodejno počis
 clear-time-duration-prefix =
     .value = Časovni obseg brisanja:{ " " }
     .accesskey = o
-
 clear-time-duration-value-last-hour =
     .label = Zadnja ura
-
 clear-time-duration-value-last-2-hours =
     .label = Zadnji dve uri
-
 clear-time-duration-value-last-4-hours =
     .label = Zadnje štiri ure
-
 clear-time-duration-value-today =
     .label = Danes
-
 clear-time-duration-value-everything =
     .label = Vse
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -55,55 +48,41 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Zgodovino
-
 item-history-and-downloads =
     .label = zgodovino brskanja in prenosov
     .accesskey = B
-
 item-cookies =
     .label = piškotke
     .accesskey = P
-
 item-active-logins =
     .label = aktivne prijave
     .accesskey = A
-
 item-cache =
     .label = predpomnilnik
     .accesskey = R
-
 item-form-search-history =
     .label = zgodovino obrazcev in iskanja
     .accesskey = I
-
 data-section-label = Podatke
-
 item-site-settings =
     .label = nastavitve strani
     .accesskey = s
-
 item-offline-apps =
     .label = podatke pri delu brez povezave
     .accesskey = B
-
 sanitize-everything-undo-warning = Tega dejanja ni mogoče razveljaviti.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Počisti zdaj
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Čiščenje
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Vsa zgodovina bo izbrisana.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
