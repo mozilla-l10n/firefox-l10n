@@ -13,8 +13,6 @@ change-password-old = Phasiwede Ino:
 change-password-new = Phasiwede Ntswa:
 change-password-reenter = Phasiwde Ntswa (hafhu):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = U Longela ṱhanziela
     .style = width: 46em
+download-cert-window2 =
+    .title = U Longela ṱhanziela
+    .style = min-width: 46em
 download-cert-message = No humbelwa uri ni fulufhele Mulanguli wa Ṱhanziela muswa (CA).
 download-cert-trust-ssl =
     .label = Fulufhelani hei CA u sumba dzi webusaithi.

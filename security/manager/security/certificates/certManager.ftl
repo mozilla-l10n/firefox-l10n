@@ -4,44 +4,37 @@
 
 certmgr-title =
     .title = Mulanguli wa Ṱhanziela
-
 certmgr-tab-mine =
     .label = Ṱhanziela Dzaṅu
-
 certmgr-tab-ca =
     .label = Vhahulwane
-
 certmgr-edit-ca-cert =
     .title = Lulamisani nzudzanyo ya ṱhanziela dza fulufhelo kha CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Lulamisani nzudzanyo ya ṱhanziela dza fulufhelo kha CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Lulamisani nzudzanyo dza dzangano:
-
 certmgr-edit-cert-trust-ssl =
     .label = Hei ṱhanziela i nga sumba dziwebusaithi.
-
 certmgr-edit-cert-trust-email =
     .label = Hei ṱhanziela i nga sumba vhashumisi vha meiḽi.
-
 certmgr-delete-cert =
     .title = Thuthani ṱhanziela
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Thuthani ṱhanziela
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Dzina ḽa ṱhanziela
-
 certmgr-token-name =
     .label = Tshishumswa tsha Tsireledzo
-
 certmgr-expires-label =
     .label = I Khou Fhelelwa Nga
-
 certmgr-email =
     .label = Ḓiresi ya Emeiḽi
-
 certmgr-serial =
     .label = Nomboro ya u Londa
-
 pk11-bad-password = Phasiwedo yo dzheniswaho yo khakhea.
 pkcs12-decode-err = Yo kundelwa u talutshedza faela.  Khamusi ha i ho kha maitele a PKCS #12, kana yo tshinyadzwa, kana phasiwede ye na dzhenisa yone yo khakhea.
 pkcs12-unknown-err-restore = Yo kundelwa u talutshedza faela ya PKCS #12 nga ndivho dzi sa divheiho.
@@ -73,15 +66,12 @@ delete-user-cert-title =
     .title = Thuthani Ṱhanziela dzanu
 delete-user-cert-confirm = Ni na vhuṱanizi ho fhelelaho ha uri ni khou toda u thutha idzi ṱhanziela?
 delete-user-cert-impact = Arali na thutha nthihi ya ṱhanziela dzanu, ni nga si tsha i shumisa u ditalusa.
-
-
 delete-email-cert-title =
     .title = Thuthani Ṱhanziela dza E-meili
 delete-email-cert-confirm = Ni na vhuṱanzi ho fhelelaho ha uri ni khou ṱoḓa u thutha ṱhanziela dza e-meili dza avha vhathu?
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
