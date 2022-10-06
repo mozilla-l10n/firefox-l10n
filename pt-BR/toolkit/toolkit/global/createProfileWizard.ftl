@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Assistente de criação de perfil
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = Assistente de criação de perfil
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
@@ -12,6 +15,11 @@ create-profile-first-page-header =
     { PLATFORM() ->
         [macos] Introdução
        *[other] Boas-vindas ao { create-profile-window.title }
+    }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Introdução
+       *[other] Boas-vindas ao { create-profile-window2.title }
     }
 profile-creation-explanation-1 = O { -brand-short-name } armazena informações sobre suas configurações e preferências em seu perfil pessoal.
 profile-creation-explanation-2 = Caso compartilhe esta instalação do { -brand-short-name } com outras pessoas, você pode usar perfis para manter separadas as informações de cada usuário. Para fazer isso, cada um deve criar seu próprio perfil.
