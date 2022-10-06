@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Guiden skapa profil
     .style = width: 45em; height: 34em;
+create-profile-window2 =
+    .title = Guiden skapa profil
+    .style = min-width: 45em; min-height: 34em;
 
 ## First wizard page
 
