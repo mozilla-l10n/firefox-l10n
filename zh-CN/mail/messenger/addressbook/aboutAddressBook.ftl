@@ -21,6 +21,8 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = 所有通讯录
 all-address-books = 所有通讯录
 about-addressbook-books-context-properties =
     .label = 属性
@@ -87,6 +89,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = 电子邮件地址
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = 昵称
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = 手机号码
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -166,6 +171,17 @@ about-addressbook-placeholder-no-search-results = 找不到联系人
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } 个选定的联系人和列表
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } 位选定的联系人
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } 个选定的列表
+about-addressbook-details-edit-photo =
+    .title = 编辑联系人照片
 about-addressbook-new-contact-header = 新建联系人
 about-addressbook-prefer-display-name = 在邮件标题上方显示姓名
 about-addressbook-write-action-button = 写邮件
