@@ -4,84 +4,67 @@
 
 certmgr-tab-ca =
     .label = Turay
-
 certmgr-edit-ca-cert =
     .title = Baliwan dagiti parametro ti pannakatalek ti sertipiko a CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Baliwan dagiti parametro ti pannakatalek ti sertipiko a CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Baliwan dagiti parametro ti pannakatalek:
-
 certmgr-edit-cert-trust-email =
     .label = Mailasin daytoy a sertipiko dagiti agar-aramat ti korreo.
-
 certmgr-delete-cert =
     .title = Buraen ti Sertipiko
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Buraen ti Sertipiko
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Nagan ti Sertipiko
-
 certmgr-expires-label =
     .label = Panagpapaso
-
 certmgr-email =
     .label = E-Mail
-
 certmgr-serial =
     .label = Bilang ti Serie
-
 certmgr-view =
     .label = Imatangen...
     .accesskey = V
-
 certmgr-edit =
     .label = Baliwan ti Panagtalek...
     .accesskey = e
-
 certmgr-export =
     .label = Iluas...
     .accesskey = x
-
 certmgr-delete =
     .label = Borraen
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = Borraen wenno Ipaidam...
     .accesskey = d
-
 certmgr-backup =
     .label = Itipon...
     .accesskey = B
-
 certmgr-backup-all =
     .label = Itipon Amin...
     .accesskey = k
-
 certmgr-add-exception =
     .label = Inayon ti Laksid...
     .accesskey = x
-
 exception-mgr =
     .title = Inayon ti Laksid ti Seguridad
-
 exception-mgr-extra-button =
     .label = Patalgedan ti Laksid ti Seguridad
     .accesskey = C
-
 exception-mgr-supplemental-warning = Dagiti nalinteg a bangko, tienda ken pagraramanan a purok ket didakayo dawaten nga aramiden daytoy.
-
 exception-mgr-cert-location-url =
     .value = Disso:
-
 exception-mgr-cert-status-view-cert =
     .label = Imatangen...
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Taginayonen nga itipon daytoy a laksid
     .accesskey = p
-
 pk11-bad-password = Madi ti naidatag a kontrasenias.
 pkcs12-decode-err = Napaay ti pannakadekodigo ti intar. Wenno ti pormatona ket saan PKCS #12, wenno narukop, wenno saan a maipateg ti kontrasenias nga inaramatyo.
 pkcs12-info-no-smartcard-backup = Saan a maidulin ti sertipiko manipud iti aparato a hardware ti seguridad kas pagarigan smart card.
@@ -109,15 +92,12 @@ edit-trust-ca = Isaup ti sertipiko a "{ $certName }" maysa a Sertipikasion nga A
 delete-user-cert-title =
     .title = Borraen dagiti Sertipikoyo
 delete-user-cert-impact = No buraenyo ti maysa a bukodyo a sertipiko, saanyonto a maaramat dayta tapno makapamigbigan.
-
-
 delete-email-cert-title =
     .title = Borraen ti Sertipiko ti E-Mail
 delete-email-cert-impact = No borraenyo ti sertipiko ti korreo ti sabali, saanyonton a maipatulod ti nakakripta nga e-mail kadaydiay a tao.
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
