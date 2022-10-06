@@ -3,9 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-manager-window-dialog =
-    .title = 程式詳情
+    .title = 程式詳細資訊
     .style = width: 30em; min-height: 20em;
-
+app-manager-window-dialog2 =
+    .title = 程式詳細資訊
 remove-app-button =
     .label = 移除
     .accesskey = R
