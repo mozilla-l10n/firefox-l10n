@@ -111,7 +111,7 @@ newtab-menu-show-privacy-info = ਸਾਡੇ ਸਪਾਂਸਰ ਅਤੇ ਤੁ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
-newtab-privacy-modal-button-done = ਸਮਾਪਤ
+newtab-privacy-modal-button-done = ਮੁਕੰਮਲ
 newtab-privacy-modal-button-manage = ਸਪਾਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦੇ ਇੰਤਜ਼ਾਮ ਲਈ ਸੈਟਿੰਗਾਂ
 newtab-privacy-modal-header = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਮਹੱਤਵ ਰੱਖਦੀ ਹੈ।
 newtab-privacy-modal-paragraph-2 =

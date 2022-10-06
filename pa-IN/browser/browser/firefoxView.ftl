@@ -68,6 +68,6 @@ firefoxview-change-colorway-button = ਰੰਗ-ਢੰਗ ਬਦਲੋ
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>ਹਾਲੇ ਕੁਝ ਵੀ ਨਹੀਂ ਹੈ</strong><br/>ਜਦੋਂ ਤੁਸੀਂ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਉਸ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।
 firefoxview-collapse-button-show =
-    .title = ਸੂਚੀ ਵੇਖੋ
+    .title = ਸੂਚੀ ਵੇਖਾਓ
 firefoxview-collapse-button-hide =
     .title = ਸੂਚੀ ਲੁਕਾਓ
