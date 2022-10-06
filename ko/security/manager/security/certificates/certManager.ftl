@@ -4,131 +4,97 @@
 
 certmgr-title =
     .title = 인증서 관리자
-
 certmgr-tab-mine =
     .label = 개인 인증서
-
 certmgr-tab-remembered =
     .label = 인증 결정
-
 certmgr-tab-people =
     .label = 다른 사람
-
 certmgr-tab-servers =
     .label = 서버
-
 certmgr-tab-ca =
     .label = 인증 기관
-
 certmgr-mine = 사용자를 확인하는 이 기관의 인증서를 가지고 있습니다
 certmgr-remembered = 이 인증서는 웹 사이트에서 사용자를 식별하는 데 사용됩니다.
 certmgr-people = 다음 사람들을 확인하는 파일의 인증서를 가지고 있습니다
 certmgr-server = 이 항목은 서버 인증서 오류 예외를 식별합니다.
 certmgr-ca = 다음 인증 권한을 확인하는 파일의 인증서를 가지고 있습니다
-
 certmgr-edit-ca-cert =
     .title = CA 인증서 신뢰도 설정 편집
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = 신뢰도 설정 편집:
-
 certmgr-edit-cert-trust-ssl =
     .label = 아래 인증서는 웹 사이트를 인증합니다.
-
 certmgr-edit-cert-trust-email =
     .label = 아래 인증서는 메일 사용자를 인증합니다.
-
 certmgr-delete-cert =
     .title = 인증서 삭제
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = 인증서 삭제
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = 호스트
-
 certmgr-cert-name =
     .label = 인증서 이름
-
 certmgr-cert-server =
     .label = 서버
-
 certmgr-override-lifetime =
     .label = 수명
-
 certmgr-token-name =
     .label = 보안 장치
-
 certmgr-begins-label =
     .label = 시작일
-
 certmgr-expires-label =
     .label = 만료일
-
 certmgr-email =
     .label = 메일 주소
-
 certmgr-serial =
     .label = 일련 번호
-
 certmgr-view =
     .label = 보기…
     .accesskey = V
-
 certmgr-edit =
     .label = 신뢰 편집…
     .accesskey = E
-
 certmgr-export =
     .label = 내보내기…
     .accesskey = x
-
 certmgr-delete =
     .label = 삭제…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = 삭제 또는 신뢰 안 함…
     .accesskey = D
-
 certmgr-backup =
     .label = 백업…
     .accesskey = B
-
 certmgr-backup-all =
     .label = 전체 백업…
     .accesskey = k
-
 certmgr-restore =
     .label = 가져오기…
     .accesskey = m
-
 certmgr-add-exception =
     .label = 예외 추가…
     .accesskey = x
-
 exception-mgr =
     .title = 보안 예외 추가
-
 exception-mgr-extra-button =
     .label = 보안 예외 확인
     .accesskey = C
-
 exception-mgr-supplemental-warning = 합법적인 은행, 상점 및 기타 공공 사이트에서는 이를 요구하지 않습니다.
-
 exception-mgr-cert-location-url =
     .value = 주소:
-
 exception-mgr-cert-location-download =
     .label = 인증서 받기
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = 보기…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = 예외 영구 저장
     .accesskey = P
-
 pk11-bad-password = 입력한 비밀번호가 맞지 않습니다.
 pkcs12-decode-err = 파일 복호화가 실패했습니다. PKCS #12 형식이 아니거나, 손상되었거나, 입력하신 비밀번호가 잘못되었습니다.
 pkcs12-unknown-err-restore = 알 수 없는 이유로 PKCS #12 파일 복원을 실패했습니다.
@@ -161,39 +127,28 @@ delete-user-cert-title =
     .title = 개인 인증서 삭제
 delete-user-cert-confirm = 정말로 이 인증서를 삭제하시겠습니까?
 delete-user-cert-impact = 개인 인증서를 삭제하면 더 이상 사용할 수 없습니다.
-
-
 delete-ssl-override-title =
     .title = 서버 인증서 예외 삭제
 delete-ssl-override-confirm = 다음 서버 예외를 삭제하시겠습니까?
 delete-ssl-override-impact = 만약 서버 예외를 삭제하면, 해당 서버에 대한 일반적인 보안 확인을 복원하고 유효한 인증서 사용을 요구하게 됩니다.
-
 delete-ca-cert-title =
     .title = CA 인증서 삭제 또는 신뢰 안 함
 delete-ca-cert-confirm = CA 인증서 삭제를 요청하셨습니다. 기본 제공 인증서의 경우 모든 신뢰가 제거되며 동일한 효과가 있습니다. 삭제 또는 신뢰 안 함으로 하시겠습니까?
 delete-ca-cert-impact = 만약 인증 기관 (CA) 인증서를 삭제하거나 신뢰 안 함으로 하면, 이 애플리케이션은 해당 CA에서 발급한 인증서를 더 이상 신뢰하지 않습니다.
-
-
 delete-email-cert-title =
     .title = 전자 메일 인증서 삭제
 delete-email-cert-confirm = 다른 사람의 전자 메일 인증서를 삭제하시겠습니까?
 delete-email-cert-impact = 개인 전자 메일 인증서를 삭제하면 더 이상 암호화된 메일을 보낼 수 없게 됩니다.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = 일련 번호 인증서: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = 클라이언트 인증서를 보내지 않음
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (저장 안 됨)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (사용할 수 없음)
 
