@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = Përgjegjës Dëshmish
-
 certmgr-tab-mine =
     .label = Dëshmitë Tuaja
-
 certmgr-tab-remembered =
     .label = Vendime Mirëfilltësimi
-
 certmgr-tab-people =
     .label = Persona
-
 certmgr-tab-servers =
     .label = Shërbyes
-
 certmgr-tab-ca =
     .label = Autoritete
-
 certmgr-mine = Dëshmi që ju identifikojnë keni prej këtyre enteve
 certmgr-remembered = Këto dëshmi përdoren për t’ju identifikuar në sajte
 certmgr-people = Keni të ruajtura dëshmi që identifikojnë këta persona
 certmgr-server = Këto zëra identifikojnë përjashtime gabimesh dëshmish shërbyesi
 certmgr-ca = Keni të ruajtura dëshmi që identifikojnë këta autoritete dëshmish
-
 certmgr-edit-ca-cert =
     .title = Përpunoni rregullime besueshmërie dëshmish AD-sh
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Përpunoni rregullime besueshmërie dëshmish AD-sh
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Përpunoni rregullime besueshmërie:
-
 certmgr-edit-cert-trust-ssl =
     .label = Kjo dëshmi mund të identifikojë sajte.
-
 certmgr-edit-cert-trust-email =
     .label = Kjo dëshmi mund të identifikojë përdorues poste.
-
 certmgr-delete-cert =
     .title = Fshini Dëshmi
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Fshini Dëshmi
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Strehë
-
 certmgr-cert-name =
     .label = Emër Dëshmie
-
 certmgr-cert-server =
     .label = Shërbyes
-
 certmgr-override-lifetime =
     .label = Jetëgjatësi
-
 certmgr-token-name =
     .label = Pajisje Sigurie
-
 certmgr-begins-label =
     .label = Fillon Më
-
 certmgr-expires-label =
     .label = Skadon Më
-
 certmgr-email =
     .label = Adresë Email
-
 certmgr-serial =
     .label = Numër Serial
-
 certmgr-view =
     .label = Shihni…
     .accesskey = s
-
 certmgr-edit =
     .label = Përpunojini Besueshmërinë…
     .accesskey = P
-
 certmgr-export =
     .label = Eksportoni…
     .accesskey = E
-
 certmgr-delete =
     .label = Fshini…
     .accesskey = F
-
 certmgr-delete-builtin =
     .label = Fshijeni ose Mos e Besoni…
     .accesskey = M
-
 certmgr-backup =
     .label = Kopjeruani…
     .accesskey = K
-
 certmgr-backup-all =
     .label = Kopjeruajini të Tëra…
     .accesskey = T
-
 certmgr-restore =
     .label = Importoni…
     .accesskey = I
-
 certmgr-add-exception =
     .label = Shtoni Përjashtim…
     .accesskey = o
-
 exception-mgr =
     .title = Shtoni Përjashtime Sigurie
-
 exception-mgr-extra-button =
     .label = Ripohoni Përjashtime Sigurie
     .accesskey = R
-
 exception-mgr-supplemental-warning = Banka, dyqane të ligjshme, dhe sajte të tjerë publikë nuk do t'ju kërkojnë ta bëni këtë.
-
 exception-mgr-cert-location-url =
     .value = Vendndodhje:
-
 exception-mgr-cert-location-download =
     .label = Merrni Dëshmi
     .accesskey = M
-
 exception-mgr-cert-status-view-cert =
     .label = Shihni…
     .accesskey = S
-
 exception-mgr-permanent =
     .label = Depozitoje përgjithmonë këtë përjashtim
     .accesskey = D
-
 pk11-bad-password = Fjalëkalimi i dhënë qe i pasaktë.
 pkcs12-decode-err = S’u arrit të shkodohej kartela. Ose nuk është në format PKCS #12, ose është dëmtuar, ose fjalëkalimi që dhatë nuk qe i saktë.
 pkcs12-unknown-err-restore = Për arsye të panjohura, s’u arrit të rikthehej kartela PKCS #12.
@@ -161,37 +130,28 @@ delete-user-cert-title =
     .title = Fshini Dëshmitë tuaja
 delete-user-cert-confirm = Jeni i sigurt se doni të fshihen këto dëshmi?
 delete-user-cert-impact = Nëse fshini një nga dëshmitë tuaja vetjake, nuk mund ta përdorni më për identifikimin e vetvetes.
-
-
 delete-ssl-override-title =
     .title = Fshi Përjashtim Dëshmish Shërbyesi
 delete-ssl-override-confirm = Jeni i sigurt se doni të fshihet ky përjashtim shërbyesi?
 delete-ssl-override-impact = Nëse fshini një përjashtim shërbyesi, riktheni kështu kontrollet e zakonshëm të sigurisë për atë shërbyes dhe e shtrëngoni të përdorë një dëshmi të vlefshme.
-
 delete-ca-cert-title =
     .title = Fshini ose Mos Besoni Dëshmi AD-sh
 delete-ca-cert-confirm = Keni kërkuar të fshihen këto dëshmi AD-sh. Do të hiqet çfarëdo besimi për dëshmi të trupëzuara, çka ka të njëjtin efekt. Jeni i sigurt se doni të fshihen ose të mos besohen?
 delete-ca-cert-impact = Nëse e fshini ose nuk e besoni një dëshmi autoriteti dëshmish (AD), ky aplikacion nuk do të besojë më ndonjë dëshmi nga ai AD.
-
-
 delete-email-cert-title =
     .title = Fshini Dëshmi Email-esh
 delete-email-cert-confirm = Jeni i sigurt se doni të fshihen këto dëshmi email-esh personash?
 delete-email-cert-impact = Nëse fshini dëshminë e email-it të dikujt, nuk do të jeni më në gjendje t’i dërgoni atij personi email të fshehtëzuar.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Dëshmia me numër serial: { $serialNumber }
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Mos dërgo dëshmi klienti
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (E Paruajtur)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Jo e passhme)
 
