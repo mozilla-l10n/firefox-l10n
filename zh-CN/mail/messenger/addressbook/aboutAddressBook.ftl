@@ -24,6 +24,13 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = 所有通讯录
 all-address-books = 所有通讯录
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = { $name } 的联系人总数：{ $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = 所有通讯录中的联系人总数：{ $count }
 about-addressbook-books-context-properties =
     .label = 属性
 about-addressbook-books-context-edit-list =

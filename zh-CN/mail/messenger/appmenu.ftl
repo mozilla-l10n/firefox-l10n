@@ -5,6 +5,9 @@
 
 ## New Account
 
+appmenu-new-mail-account =
+    .label = 现有电子邮箱
+    .accesskey = E
 appmenu-new-calendar =
     .label = 日历
     .accesskey = C
