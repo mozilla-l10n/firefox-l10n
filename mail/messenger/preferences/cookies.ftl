@@ -5,28 +5,22 @@
 cookies-window-dialog =
     .title = Správca cookies
     .style = width: 36em;
-
+cookies-window-dialog2 =
+    .title = Cookies
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Hľadať:
     .accesskey = H
-
 cookies-on-system-label = Tieto cookies sú uložené v počítači:
-
 treecol-site-header =
     .label = Stránka
-
 treecol-name-header =
     .label = Názov cookie
-
 props-name-label =
     .value = Názov:
 props-value-label =
@@ -41,15 +35,12 @@ props-expires-label =
     .value = Koniec platnosti:
 props-container-label =
     .value = Kontajner:
-
 remove-cookie-button =
     .label = Odstrániť cookie
     .accesskey = O
-
 remove-all-cookies-button =
     .label = Odstrániť všetky cookie
     .accesskey = e
-
 cookie-close-button =
     .label = Zavrieť
     .accesskey = Z
