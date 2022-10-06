@@ -61,6 +61,8 @@ openpgp-key-assistant-key-source =
        *[other] Kaynaklar
     }
 openpgp-key-assistant-key-collected-attachment = e-posta eki
+# Autocrypt is the name of a standard.
+openpgp-key-assistant-key-collected-autocrypt = Autocrypt başlığı
 openpgp-key-assistant-key-collected-keyserver = anahtar sunucusu
 # Web Key Directory (WKD) is a concept.
 openpgp-key-assistant-key-collected-wkd = Web Anahtarı Dizini
