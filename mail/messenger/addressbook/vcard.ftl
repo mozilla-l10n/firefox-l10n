@@ -36,6 +36,10 @@ vcard-n-suffix = Suffixe
 vcard-n-add-suffix =
     .title = Ajouter un suffixe
 
+# Nickname
+
+vcard-nickname = Pseudonyme
+
 # Email vCard field
 
 vcard-email-header = Adresses électroniques
@@ -54,6 +58,10 @@ vcard-url-label = Site web
 vcard-tel-header = Numéros de téléphone
 vcard-tel-add = Ajouter un numéro de téléphone
 vcard-tel-label = Numéro de téléphone
+# Or "Mobile"
+vcard-entry-type-cell = Portable
+vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Pager
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Ajouter un fuseau horaire
 
 # IMPP vCard field
 
-vcard-impp-header = Comptes de messagerie instantanée
 vcard-impp2-header = Messagerie instantanée
 vcard-impp-add = Ajouter un compte de messagerie instantanée
 vcard-impp-label = Compte de messagerie instantanée
@@ -106,9 +113,21 @@ vcard-note-add = Ajouter une note
 vcard-org-header = Propriétés organisationnelles
 vcard-org-add = Ajouter des propriétés organisationnelles
 vcard-org-title = Fonction
+vcard-org-title-input =
+    .title = Position ou emploi
+    .placeholder = Nom de l’emploi
 vcard-org-role = Rôle
+vcard-org-role-input =
+    .title = Fonction ou rôle joué dans une situation particulière
+    .placeholder = Rôle dans un projet
 vcard-org-org = Société
+vcard-org-org-input =
+    .title = Nom de l’organisation
+    .placeholder = Nom de l’entreprise
 vcard-org-org-unit = Service
+vcard-org-org-unit-input =
+    .title = Nom de l’unité d’organisation
+    .placeholder = Département
 
 # Custom properties
 

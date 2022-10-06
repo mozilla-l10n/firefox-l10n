@@ -5,52 +5,41 @@
 permissions-reminder-window =
     .title = Exceptions
     .style = width: 45em;
-
+permissions-reminder-window2 =
+    .title = Exceptions
 permission-preferences-close-window =
     .key = w
-
 website-address-label =
     .value = Adresse du site web :
     .accesskey = d
-
 block-button =
     .label = Bloquer
     .accesskey = B
-
 allow-session-button =
     .label = Autoriser pour la session
     .accesskey = o
-
 allow-button =
     .label = Autoriser
     .accesskey = A
-
 treehead-sitename-label =
     .label = Site
-
 treehead-status-label =
     .label = État
-
 remove-site-button =
     .label = Supprimer le site
     .accesskey = S
-
 remove-all-site-button =
     .label = Supprimer tous les sites
     .accesskey = u
-
 cancel-button =
     .label = Annuler
     .accesskey = n
-
 save-button =
     .label = Enregistrer les modifications
     .accesskey = E
-
 permission-can-label = Autoriser
 permission-can-access-first-party-label = Domaine principal seul
 permission-can-session-label = Autoriser pour la session
 permission-cannot-label = Bloquer
-
 invalid-uri-message = Veuillez saisir un nom d’hôte valide
 invalid-uri-title = Nom d’hôte invalide
