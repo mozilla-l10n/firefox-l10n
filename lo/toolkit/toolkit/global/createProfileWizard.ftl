@@ -5,6 +5,9 @@
 create-profile-window =
     .title = ຕົວຊ່ວຍສ້າງໂປຣໄຟລ໌
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = ຕົວຊ່ວຍສ້າງໂປຣໄຟລ໌
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
