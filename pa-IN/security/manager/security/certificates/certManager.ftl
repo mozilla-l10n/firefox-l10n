@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = ਸਰਟੀਫਕੇਟ ਮੈਨੇਜਰ
-
 certmgr-tab-mine =
     .label = ਤੁਹਾਡਾ ਸਰਟੀਫਕੇਟ
-
 certmgr-tab-remembered =
     .label = ਪਰਮਾਣਕਿਤਾ ਫ਼ੈਸਲੇ
-
 certmgr-tab-people =
     .label = ਲੋਕ
-
 certmgr-tab-servers =
     .label = ਸਰਵਰ
-
 certmgr-tab-ca =
     .label = ਅਥਾਰਟੀ
-
 certmgr-mine = ਤੁਹਾਡੇ ਕੋਲ ਇਹਨਾਂ ਸੰਗਠਨਾਂ ਤੋਂ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਤੁਹਾਨੂੰ ਪਛਾਣਦੀਆਂ ਹਨ
 certmgr-remembered = ਇਹ ਸਰਟੀਫਿਕੇਟ ਹੋਰ ਵੈਬਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੀ ਪਛਾਣ ਕਰਵਾਉਣ ਲਈ ਵਰਤੇ ਜਾਂਦੇ ਹਨ
 certmgr-people = ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਲੋਕਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
 certmgr-server = ਇਹ ਇੰਦਰਾਜ਼ ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਗ਼ਲਤੀ ਛੋਟਾਂ ਦੀ ਪਛਾਣਦੇ ਹਨ
 certmgr-ca = ਤੁਹਾਡੇ ਕੋਲ ਫਾਇਲ 'ਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀਆਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
-
 certmgr-edit-ca-cert =
     .title = CA ਸਰਟੀਫਿਕੇਟ ਟਰੱਸਟ ਸੈਟਿੰਗ ਸੋਧ
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = CA ਸਰਟੀਫਿਕੇਟ ਟਰੱਸਟ ਸੈਟਿੰਗ ਸੋਧ
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = ਟਰੱਸਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ:
-
 certmgr-edit-cert-trust-ssl =
     .label = ਇਹ ਸਰਟੀਫਿਕੇਟ ਵੈੱਬ ਸਾਇਟਾਂ ਦੀ ਪਛਾਣ ਕਰ ਸਕਦਾ ਹੈ।
-
 certmgr-edit-cert-trust-email =
     .label = ਇਹ ਸਰਟੀਫਿਕੇਟ ਮੇਲ ਯੂਜ਼ਰਾਂ ਨੂੰ ਪਛਾਣ ਸਕਦਾ ਹੈ।
-
 certmgr-delete-cert =
     .title = ਸਰਟੀਫਕੇਟ ਨੂੰ ਹਟਾਓ
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = ਸਰਟੀਫਕੇਟ ਨੂੰ ਹਟਾਓ
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = ਹੋਸਟ
-
 certmgr-cert-name =
     .label = ਸਰਟੀਫਿਕੇਟ ਨਾਂ
-
 certmgr-cert-server =
     .label = ਸਰਵਰ
-
 certmgr-override-lifetime =
     .label = ਲਾਇਫ-ਟਾਈਮ
-
 certmgr-token-name =
     .label = ਸੁਰੱਖਿਆ ਜੰਤਰ
-
 certmgr-begins-label =
     .label = ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ
-
 certmgr-expires-label =
     .label = ਮਿਆਦ
-
 certmgr-email =
     .label = ਈਮੇਲ ਐਡਰੈੱਸ
-
 certmgr-serial =
     .label = ਸੀਰੀਅਲ ਨੰਬਰ
-
 certmgr-view =
     .label = … ਨੂੰ ਵੇਖੋ
     .accesskey = V
-
 certmgr-edit =
     .label = ਭਰੋਸੇ ਨੂੰ ਸੋਧ…
     .accesskey = E
-
 certmgr-export =
     .label = …ਨੂੰ ਐਕਸਪੋਰਟ
     .accesskey = x
-
 certmgr-delete =
     .label = …ਨੂੰ ਹਟਾਓ
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = …ਹਟਾਓ ਜਾਂ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ
     .accesskey = D
-
 certmgr-backup =
     .label = …ਬੈਕਅੱਪ
     .accesskey = B
-
 certmgr-backup-all =
     .label = …ਸਭ ਬੈਕਅੱਪ
     .accesskey = k
-
 certmgr-restore =
     .label = …ਨੂੰ ਇੰਪੋਰਟ
     .accesskey = m
-
 certmgr-add-exception =
     .label = …ਨੂੰ ਛੋਟ ਦਿਓ
     .accesskey = x
-
 exception-mgr =
     .title = ਸੁਰੱਖਿਆ ਛੋਟ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ
-
 exception-mgr-extra-button =
     .label = ਸੁਰੱਖਿਆ ਛੋਟ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
     .accesskey = C
-
 exception-mgr-supplemental-warning = ਉੱਚਿਤ ਬੈਕਾਂ, ਸਟੋਰ ਅਤੇ ਹੋਰ ਪਬਲਿਕ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਇਹ ਕਰਨ ਲਈ ਨਹੀਂ ਪੁੱਛਣਗੀਆਂ।
-
 exception-mgr-cert-location-url =
     .value = ਟਿਕਾਣਾ:
-
 exception-mgr-cert-location-download =
     .label = ਸਰਟੀਫਿਕੇਟ ਲਵੋ
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = …ਵੇਖੋ
     .accesskey = V
-
 exception-mgr-permanent =
     .label = ਇਹ ਛੋਟ ਹਮੇਸ਼ਾ ਲਈ ਸਟੋਰ ਕਰੋ
     .accesskey = P
-
 pk11-bad-password = ਦਿੱਤਾ ਪਾਸਵਰਡ ਗਲਤ ਹੈ।
 pkcs12-decode-err = ਫਾਈਲ ਡੀ-ਕੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ। ਜਾਂ ਤਾਂ ਇਹ PKCS #12 ਫਾਰਮੈਤ 'ਚ ਨਹੀਂ, ਨਿਕਾਰਾ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਭਰਿਆ ਪਾਸਵਰਡ ਗਲਤ ਹੈ।
 pkcs12-unknown-err-restore = ਅਣਜਾਣ ਕਾਰਨਾਂ ਕਰਕੇ  PKCS #12 ਫਾਈਲ ਸਟੋਰ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ।
@@ -161,37 +130,28 @@ delete-user-cert-title =
     .title = ਆਪਣਾ ਸਰਟੀਫਕੇਟ ਨੂੰ ਹਟਾਓ
 delete-user-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦੇ ਹੋ?
 delete-user-cert-impact = ਜੇਕਰ ਤੁਸੀਂ ਆਪਣੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਆਪਣੀ ਪਛਾਣ ਲਈ ਇਸਤੇਮਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।
-
-
 delete-ssl-override-title =
     .title = ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਛੋਟ ਨੂੰ ਹਟਾਓ
 delete-ssl-override-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਵਰ ਛੋਟ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 delete-ssl-override-impact = ਜੇ ਤੁਸੀਂ ਸਰਵਰ ਛੋਟ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਤਾਂ ਤੁਸੀਂ ਉਸ ਸਰਵਰ ਲਈ ਅਕਸਰ ਹੁੰਦੀਆਂ ਸੁਰੱਖਿਆ ਜਾਂਚਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋਗੇ ਅਤੇ ਇਸ ਨੂੰ ਵਾਜਬ ਸਰਟੀਫਿਕੇਟ ਵਰਤਣ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।
-
 delete-ca-cert-title =
     .title = CA ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾਓ ਜਾਂ ਬੇਭਰੋਸੇਯੋਗ ਬਣਾਓ
 delete-ca-cert-confirm = ਤੁਸੀਂ ਇਹ CA ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ। ਬਿਲਟ-ਇਨ ਸਰਟੀਫਿਕੇਟ ਲਈ, ਸਭ ਭਰੋਸਾ ਹਟਾਇਆ ਜਾਵੇਗਾ, ਜਿਸ ਦਾ ਇਹੀ ਪਰਭਾਵ ਹੈ। ਕੀ ਤੁਸੀਂ ਹਟਾਉਣਾ ਜਾਂ ਭਰੋਸਾ ਖਤਮ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
 delete-ca-cert-impact = ਜੇ ਤੁਸੀਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ (CA) ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾਉਣ ਜਾਂ ਬੇਭਰੋਸੇਯੋਗ ਬਣਾਇਆ ਤਾਂ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਉਸ CA ਵਲੋਂ ਜਾਰੀ ਕੀਤੇ ਕਿਸੇ ਵੀ ਸਰਟੀਫਿਕੇਟ ਉੱਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰੇਗੀ।
-
-
 delete-email-cert-title =
     .title = ਈ-ਮੇਲ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾਓ
 delete-email-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਲੋਕਾਂ ਦੇ ਈਮੇਲ ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣੇ ਚਾਹੁੰਦੇ ਹੋ?
 delete-email-cert-impact = ਜੇ ਤੁਸੀਂ ਇੱਕ ਵਿਅਕਤੀ ਦਾ ਈਮੇਲ ਸਰਟੀਫਿਕੇਟ ਹਟਾ ਦਿੱਤਾ ਤਾਂ ਤੁਸੀਂ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਇਕ੍ਰਿਪਟ ਕਰਕੇ ਈਮੇਲ ਨਹੀਂ ਭੇਜ ਸਕੋਗੇ।
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = ਲੜੀ ਨੰਬਰ ਨਾਲ ਸਰਟੀਫਿਕੇਟ: { $serialNumber }
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = ਕੋਈ ਕਲਾਈਂਟ ਸਰਟੀਫਿਕੇਟ ਨਾ ਭੇਜੋ
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (ਸੰਭਾਲਿਆ ਨਹੀਂ ਹੈ)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (ਨਾ-ਉਪਲੱਬਧ)
 
