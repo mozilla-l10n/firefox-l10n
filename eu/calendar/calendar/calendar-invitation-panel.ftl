@@ -33,6 +33,18 @@ calendar-invitation-datetime-date = { $date },{ $dayOfWeek }
 # $time (String) - The time part of a datetime using the "short" timeStyle.
 # $timezone (String) - The timezone info for the datetime.
 calendar-invitation-datetime-time = { $time } ({ $timezone })
+# Example: Friday, September 16, 2022
+# Variables:
+# $startDate (String) - The date (without time) the event starts on.
+calendar-invitation-interval-all-day = { $startDate }
+# Example: September 16, 2022 – September 16, 2023
+# $startMonth (String) - The month the interval starts.
+# $startDay   (String) - The day of the month the interval starts.
+# $startYear  (String) - The year the interval starts.
+# $endMonth   (String) - The month the interval ends.
+# $endDay     (String) - The day of the month the interval ends.
+# $endYear    (String) - The year the interval ends.
+calendar-invitation-interval-all-day-between-years = { $startYear }  { $startMonth } { $startDay }–  { $endYear } { $endMonth } { $endDay }
 calendar-invitation-panel-prop-title-attendees = Partaideak:
 calendar-invitation-panel-prop-title-description = Azalpena:
 # Variables:
