@@ -13,8 +13,6 @@ change-password-old = বৰ্ত্তমান পাছৱাৰ্ড:
 change-password-new = নতুন পাছৱাৰ্ড:
 change-password-reenter = নতুন পাছৱাৰ্ড (আকৌ):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
     .style = width: 46em
+download-cert-window2 =
+    .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
+    .style = min-width: 46em
 download-cert-message = আপোনাক এটা নতুন প্ৰমাণপত্ৰৰ কৰ্ত্তৃপক্ষক (CA) বিশ্বাস কৰিবলৈ অনুৰোধ কৰা হৈছে।
 download-cert-trust-ssl =
     .label = ৱেব ছাইটৰ পৰিচয়ৰ কাৰণে এই CA ক বিশ্বাস কৰক।
