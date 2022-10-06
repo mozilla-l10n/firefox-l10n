@@ -5,6 +5,9 @@
 sanitize-prefs =
     .title = Geçmiş temizleme ayarları
     .style = width: 34em
+sanitize-prefs2 =
+    .title = Geçmiş temizleme ayarları
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
