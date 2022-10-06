@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Pengenalan
        *[other] Selamat Datang ke { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Pengenalan
+       *[other] Selamat Datang ke { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } menyimpan maklumat perihal tetapan dan keutamaan anda dalam profil peribadi anda.
 profile-creation-explanation-2 = Jika anda berkongsi salinan { -brand-short-name } ini dengan pengguna lain, anda boleh gunakan profil untuk kekalkan maklumat pengguna terpisah. Untuk itu, setiap pengguna perlu mencipta profilnya sendiri.
 profile-creation-explanation-3 = Jika hanya anda seorang yang menggunakan salinan { -brand-short-name }, anda mesti mempunyai sekurangnya satu profil. Jika anda mahu, anda boleh menipta banyak profil untuk diri anda bagi menyimpan tetapan dan keutamaan yang berbeza. Sebagai ontoh, anda mungkin mahukan profil berasingan untuk kegunaan perniagaan dan peribadi.
