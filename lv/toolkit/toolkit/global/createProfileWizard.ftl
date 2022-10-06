@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Ievads
        *[other] Laipni lūdzam { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Ievads
+       *[other] Laipni lūdzam { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } saglabā jūsu iestatījumus un izvēles jūsu personīgajā profilā.
 profile-creation-explanation-2 = Ja { -brand-short-name } izmanto vairāki lietotāji, iespējams izmantot profilus, kas ļauj glabāt katra lietotāja informāciju atsevišķi. Lai to izdarītu, katram lietotājam ir jāizveido savs profils.
 profile-creation-explanation-3 = Ja jūs esat vienīgā persona, kas lieto šo { -brand-short-name } kopiju, jums ir jābūt vismaz vienam profilam. Ja vēlaties, varat radīt sev vairākus profilus, lai saglabātu dažādas iestatījumu un izvēļu kopas. Piemēram, jūs varētu vēlēties vienu profilu darbam un citu personīgai lietošanai.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Noslēgums
        *[other] Pabeidz { create-profile-window.title }
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Noslēgums
+       *[other] Pabeidz { create-profile-window2.title }
     }
 profile-creation-intro = Izveidojot vairākus profilus, tos var atšķirt pēc nosaukumiem. Profila nosaukumu varat izvēlēties vai izmantot piedāvāto.
 profile-prompt = Ievadiet jaunu profila nosaukumu:

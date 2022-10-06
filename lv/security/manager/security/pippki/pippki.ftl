@@ -13,8 +13,6 @@ change-password-old = Pašreizējā parole:
 change-password-new = Jaunā parole:
 change-password-reenter = Jaunā parole (vēlreiz):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Lejupielādē sertifikātus
     .style = width: 46em
+download-cert-window2 =
+    .title = Lejupielādē sertifikātus
+    .style = min-width: 46em
 download-cert-message = Jums tiek vaicāts uzticēties jaunai Sertifikātu Autoritātei (CA).
 download-cert-trust-ssl =
     .label = Uzticēties šai CA tīmekļa vietņu identificēšanai.
