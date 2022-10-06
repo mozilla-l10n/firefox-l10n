@@ -123,8 +123,6 @@ other-action-redirect-msg =
 message-header-msg-flagged =
     .title = Suivi
     .aria-label = Suivi
-message-header-msg-not-flagged =
-    .title = Message non suivi
 # Variables:
 # $address (String) - The email address of the recipient this picture belongs to.
 message-header-recipient-avatar =
@@ -155,6 +153,9 @@ message-header-hide-label-column =
 message-header-large-subject =
     .label = Grand sujet
     .accesskey = s
+message-header-all-headers =
+    .label = Afficher tous les en-têtes
+    .accesskey = t
 
 ## Action Button Context Menu
 
@@ -232,18 +233,6 @@ settings-context-open-addons-item2 =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Ouvrir le menu des espaces
-spaces-pinned-button-menuitem-mail =
-    .label = { spaces-toolbar-button-mail.title }
-spaces-pinned-button-menuitem-address-book =
-    .label = { spaces-toolbar-button-address-book.title }
-spaces-pinned-button-menuitem-calendar =
-    .label = { spaces-toolbar-button-calendar.title }
-spaces-pinned-button-menuitem-tasks =
-    .label = { spaces-toolbar-button-tasks.title }
-spaces-pinned-button-menuitem-chat =
-    .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-settings =
-    .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-mail2 =
     .label = { spaces-toolbar-button-mail2.title }
 spaces-pinned-button-menuitem-address-book2 =
