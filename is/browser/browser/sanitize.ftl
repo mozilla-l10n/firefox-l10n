@@ -5,20 +5,19 @@
 sanitize-prefs =
     .title = Stillingar fyrir ferilhreinsun
     .style = width: 34em
-
+sanitize-prefs2 =
+    .title = Stillingar fyrir ferilhreinsun
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
-
 dialog-title =
     .title = Hreinsa nýlega ferla
     .style = width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
     .title = Hreinsa alla ferla
     .style = width: 34em
-
 clear-data-settings-label = Þegar lokað er ætti { -brand-short-name } sjálfkrafa að hreinsa allt.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -32,22 +31,16 @@ clear-data-settings-label = Þegar lokað er ætti { -brand-short-name } sjálfk
 clear-time-duration-prefix =
     .value = Tímabil sem á að hreinsa:{ " " }
     .accesskey = T
-
 clear-time-duration-value-last-hour =
     .label = Seinasta klukkustund
-
 clear-time-duration-value-last-2-hours =
     .label = Seinustu tvær klukkustundir
-
 clear-time-duration-value-last-4-hours =
     .label = Seinustu fjórar klukkustundir
-
 clear-time-duration-value-today =
     .label = Í dag
-
 clear-time-duration-value-everything =
     .label = Allt
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -55,55 +48,41 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Ferill
-
 item-history-and-downloads =
     .label = Vafra og niðurhals ferla
     .accesskey = V
-
 item-cookies =
     .label = Vefkökur
     .accesskey = V
-
 item-active-logins =
     .label = Virkar innskráningar
     .accesskey = i
-
 item-cache =
     .label = Biðminni
     .accesskey = B
-
 item-form-search-history =
     .label = Innfyllingar- og leitarferill
     .accesskey = f
-
 data-section-label = Gögn
-
 item-site-settings =
     .label = Stillingar vefsvæðis
     .accesskey = S
-
 item-offline-apps =
     .label = Ónettengd vefgögn
     .accesskey = t
-
 sanitize-everything-undo-warning = Ekki er ekki hægt að bakfæra þessa aðgerð.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Hreinsa núna
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Léttir til
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Allir ferlar verða hreinsaðir.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
