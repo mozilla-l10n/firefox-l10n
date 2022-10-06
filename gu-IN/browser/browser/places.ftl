@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = બધું ટૅબ્સમાં ખોલો
     .accesskey = O
-
 places-view =
     .label = દૃશ્ય
     .accesskey = w
@@ -27,131 +26,101 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = તારીખ અને સાઇટ પ્રમાણે
     .accesskey = t
-
 places-history-search =
     .placeholder = શોધ ઇતિહાસ
 places-history =
     .aria-label = ઇતિહાસ
 places-bookmarks-search =
     .placeholder = બુકમાર્ક્સ શોધો
-
 places-delete-domain-data =
     .label = આ સાઈટ વિશે ભૂલી જાવ
     .accesskey = F
 places-sortby-name =
     .label = નામ પ્રમાણે ક્રમમાં ગોઠવો
     .accesskey = r
-
 places-library =
     .title = લાઈબ્રેરી
     .style = width:700px; height:500px;
-
+places-library2 =
+    .title = લાઈબ્રેરી
+    .style = min-width:700px; min-height:500px;
 places-organize-button =
     .label = આયોજીત કરો
     .tooltiptext = તમારા બુકમાર્કોને સંચાલિત કરો
     .accesskey = O
-
 places-organize-button-mac =
     .label = આયોજીત કરો
     .tooltiptext = તમારા બુકમાર્કોને સંચાલિત કરો
-
 places-file-close =
     .label = બંધ કરો
     .accesskey = C
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = દેખાવો
     .tooltiptext = તમારા દેખાવને બદલો
     .accesskey = V
-
 places-view-button-mac =
     .label = દેખાવો
     .tooltiptext = તમારા દેખાવને બદલો
-
 places-view-menu-columns =
     .label = સ્તંભ બતાવો
     .accesskey = C
-
 places-view-menu-sort =
     .label = ક્રમમાં ગોઠવો
     .accesskey = S
-
 places-view-sort-unsorted =
     .label = ક્રમમાં નહિં ગોઠવાયેલ
     .accesskey = U
-
 places-view-sort-ascending =
     .label = A > Z ક્રમ
     .accesskey = A
-
 places-view-sort-descending =
     .label = Z > A ક્રમ
     .accesskey = Z
-
 places-maintenance-button =
     .label = આયાત અને બેકઅપ
     .tooltiptext = તમારા બુકમાર્કોનો બેકઅપ અને આયાત કરો
     .accesskey = I
-
 places-maintenance-button-mac =
     .label = આયાત અને બેકઅપ
     .tooltiptext = તમારા બુકમાર્કોનો બેકઅપ અને આયાત કરો
-
 places-cmd-backup =
     .label = બેકઅપ...
     .accesskey = B
-
 places-cmd-restore =
     .label = પુનઃસંગ્રહો...
     .accesskey = R
-
 places-cmd-restore-from-file =
     .label = ફાઈલ પસંદ કરો...
     .accesskey = C
-
 places-import-bookmarks-from-html =
     .label = HTML માંથી બુકમાર્કો આયાત કરો…
     .accesskey = I
-
 places-export-bookmarks-to-html =
     .label = HTML માં બુકમાર્કોની નિકાસ કરો…
     .accesskey = E
-
 places-import-other-browser =
     .label = અન્ય બ્રાઉઝરમાંથી માહિતી આયાત કરો…
     .accesskey = A
-
 places-view-sort-col-name =
     .label = નામ
-
 places-view-sort-col-tags =
     .label = ટૅબ
-
 places-view-sort-col-url =
     .label = સ્થાન
-
 places-view-sort-col-most-recent-visit =
     .label = એકદમ તાજેતરની મુલાકાત
-
 places-view-sort-col-visit-count =
     .label = મુલાકાત ગણતરી
-
 places-view-sort-col-date-added =
     .label = એડ-ઓનયું
-
 places-view-sort-col-last-modified =
     .label = છેલ્લે સુધારાયું
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = પાછળ જાવ
-
 places-forward-button =
     .tooltiptext = આગળ જાવ
-
 places-details-pane-select-an-item-description = વસ્તુના ગુણધર્મો જોવા અને તેમાં ફેરફાર કરવા માટે તેને પસંદ કરો
