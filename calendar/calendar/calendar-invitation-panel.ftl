@@ -57,6 +57,24 @@ calendar-invitation-interval-all-day-in-month = { $year } 年 { $month } { $star
 # $endDay     (String) - The day of the month the interval ends.
 # $year       (String) - The year the interval is in.
 calendar-invitation-interval-all-day-between-months = { $year } 年 { $startMonth } { $startDay } 日 - { $endMonth } { $endDay } 日
+# Example: Friday, September 16, 2022 15:00 America/Port of Spain
+# $startDate (String) - The date the interval starts.
+# $startTime (String) - The time the interval starts.
+# $timezone  (String) - The timezone the interval is in.
+calendar-invitation-interval-same-date-time = { $startDate } <b>{ $startTime }</b> { $timezone }
+# Example: Friday, September 16, 2022 14:00 – 16:00 America/Port of Spain
+# $startDate (String) - The date the interval starts.
+# $startTime (String) - The time the interval starts.
+# $endTime   (String) - The time the interval ends.
+# $timezone  (String) - The timezone the interval is in.
+calendar-invitation-interval-same-day = { $startDate } <b>{ $startTime }</b> – <b>{ $endTime }</b> { $timezone }
+# Example: Friday, September 16, 2022 14:00 – Tuesday, September 20, 2022 16:00 America/Port of Spain
+# $startDate (String) - The date the interval starts.
+# $startTime (String) - The time the interval starts.
+# $startDate (String) - The date the interval ends.
+# $endTime   (String) - The time the interval ends.
+# $timezone  (String) - The timezone the interval is in.
+calendar-invitation-interval-several-days = { $startDate } <b>{ $startTime }</b> – { $endDate } <b>{ $endTime }</b> { $timezone }
 calendar-invitation-panel-prop-title-recurrence = 重複發生:
 calendar-invitation-panel-prop-title-attendees = 與會者:
 calendar-invitation-panel-prop-title-description = 說明:
