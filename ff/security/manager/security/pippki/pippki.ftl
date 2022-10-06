@@ -13,8 +13,6 @@ change-password-old = Finnde woodnde:
 change-password-new = Finnde hesere:
 change-password-reenter = Finnde hesere (goɗngol):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Aawto Seedamfaagu
     .style = width: 46em
+download-cert-window2 =
+    .title = Aawto Seedamfaagu
+    .style = min-width: 46em
 download-cert-message = A naamnaama yo a hoolo Kohowo Seedamfaagu keso (CA).
 download-cert-trust-ssl =
     .label = Hoolo oo CA e keftingol lowe geese.
