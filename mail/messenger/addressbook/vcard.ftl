@@ -36,6 +36,10 @@ vcard-n-suffix = Suffix
 vcard-n-add-suffix =
     .title = Lägg till suffix
 
+# Nickname
+
+vcard-nickname = Smeknamn
+
 # Email vCard field
 
 vcard-email-header = E-postadresser
@@ -54,6 +58,10 @@ vcard-url-label = Webbplats
 vcard-tel-header = Telefonnummer
 vcard-tel-add = Lägg till telefonnummer
 vcard-tel-label = Telefonnummer
+# Or "Mobile"
+vcard-entry-type-cell = Mobiltelefon
+vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Personsökare
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Lägg till tidszon
 
 # IMPP vCard field
 
-vcard-impp-header = Chattkonton
 vcard-impp2-header = Snabbmeddelande
 vcard-impp-add = Lägg till chattkonto
 vcard-impp-label = Chattkonto
