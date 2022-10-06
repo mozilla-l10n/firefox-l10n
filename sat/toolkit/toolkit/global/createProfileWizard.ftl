@@ -5,6 +5,9 @@
 create-profile-window =
     .title = ᱢᱚᱦᱚᱨ ᱣᱤᱡᱟᱹᱲ ᱛᱮᱭᱟᱨ ᱢᱮ
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = ᱢᱚᱦᱚᱨ ᱣᱤᱡᱟᱹᱲ ᱛᱮᱭᱟᱨ ᱢᱮ
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
@@ -12,6 +15,11 @@ create-profile-first-page-header =
     { PLATFORM() ->
         [macos] ᱩᱯᱨᱩᱢ
        *[other] { create-profile-window.title } ᱨᱮ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+    }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] ᱩᱯᱨᱩᱢ
+       *[other] { create-profile-window2.title } ᱨᱮ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
     }
 profile-creation-explanation-1 = { -brand-short-name } ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱢᱚᱦᱚᱨ ᱨᱮ ᱥᱟᱡᱟᱣ ᱟᱨ ᱠᱩᱥᱤᱭᱟᱜ ᱵᱟᱵᱚᱛ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱡᱚᱜᱟᱣ᱾
 profile-creation-explanation-2 = ᱡᱩᱫᱤ ᱟᱢ ᱱᱚᱣᱟ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱱᱚᱠᱚᱞ ᱦᱟᱹᱴᱤᱧ ᱮᱴᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚ ᱥᱟᱸᱣ ᱟᱢ ᱡᱚᱛᱚ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱣᱟᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱢᱚᱦᱚᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱜᱟᱨ ᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱟᱢ᱾ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱡᱚᱛᱚ ᱵᱮᱵᱷᱟᱨ ᱠᱚ ᱟᱠᱚᱣᱟᱜ ᱱᱤᱡᱮᱨ ᱢᱚᱦᱚᱨ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱠᱛᱤ ᱾
@@ -28,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] ᱟᱠᱟᱥᱚᱜ
        *[other] { create-profile-window.title } ᱯᱩᱨᱟᱹᱣ ᱭᱮᱫ ᱟ
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] ᱟᱠᱟᱥᱚᱜ
+       *[other] { create-profile-window2.title } ᱯᱩᱨᱟᱹᱣ ᱭᱮᱫ ᱟ
     }
 profile-creation-intro = ᱡᱩᱫᱤ ᱟᱢ ᱟᱭᱢᱟ ᱨᱮᱫ ᱮᱢ ᱛᱮᱭᱟᱨᱟ ᱟᱢ ᱩᱱᱤᱢ ᱞᱟᱹᱭ ᱫᱟᱲᱮᱭᱟᱭᱟ ᱢᱚᱦᱚᱨ ᱧᱩᱛᱩᱢ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱞᱟᱹᱭ ᱟᱠᱟᱱ ᱧᱩᱛᱩᱢ ᱮᱢ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱟᱨ ᱵᱟᱝ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱢᱤᱫ ᱴᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ᱾
 profile-prompt = ᱱᱟᱣᱟ ᱢᱚᱦᱚᱨ ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱦᱚᱪᱚᱭ ᱢᱮ :
