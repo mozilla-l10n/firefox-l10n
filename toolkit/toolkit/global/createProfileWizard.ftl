@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Sissejuhatus
        *[other] { create-profile-window.title } tervitab
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Sissejuhatus
+       *[other] { create-profile-window2.title } tervitab
+    }
 profile-creation-explanation-1 = { -brand-short-name } säilitab teavet sinu kasutajasätete ja eelistuste kohta isikliku profiili kujul.
 profile-creation-explanation-2 = Kui jagad seda { -brand-short-name }i koopiat teiste kasutajatega, võid luua rohkem profiile, et iga kasutaja andmed oleksid eraldi. Selleks peab iga kasutaja looma endale isikliku profiili.
 profile-creation-explanation-3 = Kui sa oled selle { -brand-short-name }i koopia ainukasutaja, pead looma vähemalt ühe kasutajaprofiili. Soovi korral võid neid endale ka rohkem teha, kui soovid talletada suuremat kogust erinevaid sätteid ja eelistusi. Võid näiteks teha eraldi profiilid kasutamiseks tööl ja kodus.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Kokkuvõte
        *[other] { create-profile-window.title } lõpetas
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Kokkuvõte
+       *[other] { create-profile-window2.title } lõpetas
     }
 profile-creation-intro = Profiile on võimalik eristada nime järgi. Võid kasutada siin pakutavat nime või kirjutada uue nime.
 profile-prompt = Sisesta uue profiili nimi:
