@@ -5,52 +5,41 @@
 permissions-reminder-window =
     .title = Exceptions
     .style = width: 36em;
-
+permissions-reminder-window2 =
+    .title = Exceptions
 permission-preferences-close-window =
     .key = w
-
 website-address-label =
     .value = Address of web site:
     .accesskey = d
-
 block-button =
     .label = Block
     .accesskey = B
-
 allow-session-button =
     .label = Allow for Session
     .accesskey = S
-
 allow-button =
     .label = Allow
     .accesskey = A
-
 treehead-sitename-label =
     .label = Site
-
 treehead-status-label =
     .label = Status
-
 remove-site-button =
     .label = Remove Site
     .accesskey = R
-
 remove-all-site-button =
     .label = Remove All Sites
     .accesskey = e
-
 cancel-button =
     .label = Cancel
     .accesskey = C
-
 save-button =
     .label = Save Changes
     .accesskey = S
-
 permission-can-label = Allow
 permission-can-access-first-party-label = Allow first party only
 permission-can-session-label = Allow for Session
 permission-cannot-label = Block
-
 invalid-uri-message = Please enter a valid hostname
 invalid-uri-title = Invalid Hostname Entered
