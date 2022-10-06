@@ -8,24 +8,18 @@ password-quality-meter = Medidor de calidade de contrasinais
 
 change-device-password-window =
     .title = Cambiar o contrasinal
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguranza: { $tokenName }
 change-password-old = Contrasinal actual:
 change-password-new = Novo contrasinal:
 change-password-reenter = Novo contrasinal (outra vez):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Non foi posíbel cambiar o contrasinal.
 pippki-incorrect-pw = Non introduciu o contrasinal actual correcto. Por favor, inténteo de novo.
 pippki-pw-change-ok = Cambiouse correctamente o contrasinal.
-
 pippki-pw-empty-warning = Non se protexerán os seus contrasinais e chaves privadas almacenadas.
 pippki-pw-erased-ok = Eliminou o seu contrasinal. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Advertencia! Decidiu non usar un contrasinal. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Actualmente está en modo FIPS. FIPS require un contrasinal non baleiro.
 
 ## Reset Primary Password dialog
@@ -35,9 +29,7 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Restabelecer
-
 reset-primary-password-text = Se restablece o seu contrasinal principal, esqueceranse todos os seus contrasinais de correo electrónico e correo electrónico, certificados persoais e chaves privadas. Confirma que desexa restablecer o seu contrasinal principal?
-
 pippki-reset-password-confirmation-title = Restablecer contrasinal principal
 pippki-reset-password-confirmation-message = Restableceuse o seu contrasinal principal.
 
@@ -46,6 +38,9 @@ pippki-reset-password-confirmation-message = Restableceuse o seu contrasinal pri
 download-cert-window =
     .title = Descargando certificado
     .style = width: 46em
+download-cert-window2 =
+    .title = Descargando certificado
+    .style = min-width: 46em
 download-cert-message = Solicitouse que confíe nunha nova entidade de acreditación (AC).
 download-cert-trust-ssl =
     .label = Confiar nesta AC para identificar sitios web.
