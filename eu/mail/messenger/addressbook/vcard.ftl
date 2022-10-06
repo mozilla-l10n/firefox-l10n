@@ -36,6 +36,10 @@ vcard-n-suffix = Atzizkia
 vcard-n-add-suffix =
     .title = Gehitu atzizkia
 
+# Nickname
+
+vcard-nickname = Goitizena
+
 # Email vCard field
 
 vcard-email-header = Helbide elektronikoak
@@ -54,6 +58,10 @@ vcard-url-label = Webgunea
 vcard-tel-header = Telefono zenbakiak
 vcard-tel-add = Gehitu telefono zenbakia
 vcard-tel-label = Telefono zenbakia
+# Or "Mobile"
+vcard-entry-type-cell = Mugikorra
+vcard-entry-type-fax = Faxa
+vcard-entry-type-pager = Bilagailua
 
 # TZ vCard field
 
@@ -62,9 +70,13 @@ vcard-tz-add = Gehitu ordu-zona
 
 # IMPP vCard field
 
-vcard-impp-header = Txat-kontuak
+vcard-impp2-header = Berehalako mezularitza
 vcard-impp-add = Gehitu txat-kontua
 vcard-impp-label = Txat-kontua
+vcard-impp-select = Protokoloa
+vcard-impp-option-other = Bestelakoak
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI berehalako mezularitzan
 
 # BDAY and ANNIVERSARY vCard field
 
