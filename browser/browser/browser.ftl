@@ -178,7 +178,7 @@ urlbar-persistent-storage-blocked =
 urlbar-popup-blocked =
     .tooltiptext = ਇਸ ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ ਤੁਸੀਂ ਪੋਪਅੱਪ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 urlbar-autoplay-media-blocked =
-    .tooltiptext = ਤੁਸੀਂ ਆਵਾਜ਼ ਵਾਲੇ ਆਟੋਪਲੇ ਮੀਡੀਆ ਨੂੰ ਇਸ ਵੈਬਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
+    .tooltiptext = ਤੁਸੀਂ ਆਵਾਜ਼ ਵਾਲੇ ਆਟੋ-ਪਲੇਅ ਮੀਡੀਆ ਨੂੰ ਇਸ ਵੈਬਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 urlbar-canvas-blocked =
     .tooltiptext = ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਤੁਸੀਂ ਕੈਨਵਸ ਡਾਟਾ ਕੱਢਣ ਉੱਤੇ ਰੋਕ ਲਗਾ ਚੁੱਕੇ ਹੋ
 urlbar-midi-blocked =
@@ -188,16 +188,16 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ ({ $shortcut })
+    .tooltiptext = ਇਸ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ ({ $shortcut })
+    .tooltiptext = ਇਸ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ ({ $shortcut })
 
 ## Page Action Context Menu
 
 page-action-manage-extension =
-    .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ
 page-action-remove-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਹਟਾਓ
 page-action-manage-extension2 =
@@ -340,7 +340,7 @@ bookmark-panel-remove =
     .label =
         { $count ->
             [one] ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
-           *[other] ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਹਟਾਓ ({ $count })
+           *[other] { $count } ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਹਟਾਓ
         }
     .accesskey = R
 bookmark-panel-show-editor-checkbox =

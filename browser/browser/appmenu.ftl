@@ -139,7 +139,7 @@ profiler-popup-settings =
     .value = ਸੈਟਿੰਗਾਂ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
-    .label = …ਸੈਟਿਗਾਂ ਸੋਧੋ
+    .label = …ਸੈਟਿੰਗਾਂ ਸੋਧੋ
 profiler-popup-recording-screen = ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 profiler-popup-start-recording-button =
     .label = ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰੋ
