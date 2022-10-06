@@ -312,7 +312,7 @@ mr2022-onboarding-get-started-primary-button-label = ਸਕਿੰਟਾਂ ਵ�
 
 ## MR2022 Import Settings screen strings
 
-mr2022-onboarding-import-header = ਨ੍ਹੇਰੀ ਵਰਗਾ ਤੇਜ਼ ਸੈਟਅੱਪ
+mr2022-onboarding-import-header = ਹਨ੍ਹੇਰੀ ਵਰਗਾ ਤੇਜ਼ ਸੈਟਅੱਪ
 mr2022-onboarding-import-subtitle = { -brand-short-name } ਨੂੰ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ, ਉਵੇਂ ਸੈਟਅੱਪ ਕਰੋ। ਆਪਣੇ ਪੁਰਾਣੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਕਈ ਕੁਝ ਜੋੜੋ।
 mr2022-onboarding-import-primary-button-label-no-attribution = ਪਿਛਲੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
 
@@ -324,7 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = ਪਿਛਲੇ �
 mr2022-onboarding-colorway-title = ਰੰਗ ਚੁਣੋ, ਜੋ ਤੁਹਾਡੇ ਦਿਲ ਨੂੰ ਖਿੱਚ ਪਾਉਣ
 mr2022-onboarding-colorway-subtitle = ਆਜ਼ਾਦ ਆਵਾਜ਼ਾਂ, ਜੋ ਕਿ ਸੱਭਿਆਚਾਰ ਨੂੰ ਬਦਲ ਸਕਦੀਆਂ ਹਨ।
 mr2022-onboarding-colorway-primary-button-label = ਰੰਗ-ਢੰਗ ਲਾਓ
-mr2022-onboarding-colorway-primary-button-label-continue = ਸੈੱਟ ਤੇ ਜਾਰੀ ਰੱਖੋ
+mr2022-onboarding-colorway-primary-button-label-continue = ਲਾਓ ਤੇ ਜਾਰੀ ਰੱਖੋ
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ਆਪਣਾ ਰੰਗਦਾਰ ਮੁੱਖ-ਸਫ਼ਾ ਬਣਾਓ
 mr2022-onboarding-colorway-label-default = ਡਿਫਾਲਟ
 mr2022-onboarding-colorway-tooltip-default =
@@ -342,19 +342,19 @@ mr2022-onboarding-colorway-label-expressionist = ਪਰਗਟਾਵਾਦੀ
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = ਪਰਗਟਾਵਾਦੀ
 mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = ਹਿਸਾਬੀ-ਕਿਤਾਬੀ (ਪੀਲਾ)
+    .title = ਪਰਗਟਾਵਾਦੀ (ਪੀਲਾ)
 mr2022-onboarding-colorway-description-expressionist = <b>ਤੁਸੀਂ ਪਰਗਟਾਵਾਦੀ ਹੋ। </b> ਤੁਸੀਂ ਸੰਸਾਰ ਨੂੰ ਵੱਖਰੇ ਢੰਗ ਨਾਲ ਵੇਖਦੇ ਹੋ ਅਤੇ ਤੁਹਾਡੀਆਂ ਰਚਨਾਵਾਂ ਹੋਰਾਂ ਦੇ ਜਜ਼ਬਾਤਾਂ ਨੂੰ ਟੁੰਬਦੀਆਂ ਹਨ।
 mr2022-onboarding-colorway-label-visionary = ਭਵਿੱਖਦਰਸ਼ੀ
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = ਭਵਿੱਖਦਰਸ਼ੀ
 mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = ਦੂਰਦਰਸ਼ੀ (ਹਰਾ)
+    .title = ਭਵਿੱਖਦਰਸ਼ੀ (ਹਰਾ)
 mr2022-onboarding-colorway-description-visionary = <b>ਤੁਸੀਂ ਭਵਿੱਖਦਰਸ਼ੀ ਹੋ।</b> ਤੁਸੀਂ ਮੌਜੂਦਾ ਹਾਲਤਾਂ ਉੱਤੇ ਸਵਾਲ ਕਰਦੇ ਹੋ ਅਤੇ ਹੋਰਾਂ ਨੂੰ ਬੇਹਤਰ ਭਵਿੱਖ ਬਾਰੇ ਸੋਚਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰਦੇ ਹੋ।
 mr2022-onboarding-colorway-label-activist = ਕਾਰਕੁੰਨ
 mr2022-onboarding-colorway-tooltip-activist =
     .title = ਕਾਰਕੁੰਨ
 mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = ਸਰਗਰਮ ਮੈਂਬਰ (ਨੀਲਾ)
+    .title = ਕਾਰਕੁੰਨ (ਨੀਲਾ)
 mr2022-onboarding-colorway-description-activist = <b>ਤੁਸੀਂ ਕਾਰਕੁੰਨ ਹੋ।</b> ਤੁਸੀਂ ਸੰਸਾਰ ਨੂੰ ਪਹਿਲਾਂ ਨਾਲੋਂ ਬੇਹਤਰ ਥਾਂ ਬਣਾ ਕੇ ਰੱਖਦੇ ਹੋ ਅਤੇ ਹੋਰਾਂ ਦਾ ਭਰੋਸਾ ਵਧਾਉਂਦੇ ਹੋ।
 mr2022-onboarding-colorway-label-dreamer = ਸੁਪਨਸਾਜ਼
 mr2022-onboarding-colorway-tooltip-dreamer =
@@ -366,7 +366,7 @@ mr2022-onboarding-colorway-label-innovator = ਖੋਜੀ
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = ਖੋਜੀ
 mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = ਕਾਢੀ (ਸੰਤਰੀ)
+    .title = ਖੋਜੀ (ਸੰਤਰੀ)
 mr2022-onboarding-colorway-description-innovator = <b>ਤੁਸੀਂ ਖੋਜੀ ਹੋ।</b> ਤੁਸੀਂ ਹਰ ਥਾਂ ਉੱਤੇ ਮੌਕੇ ਤਲਾਸ਼ਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਆਲੇ ਦੁਆਲੇ ਹਰ ਕਿਸੇ ਦੀ ਜ਼ਿੰਦਗੀ ਉੱਤੇ ਅਸਰ ਛੱਡਦੇ ਹੋ।
 
 ## MR2022 Multistage Mobile Download screen strings
