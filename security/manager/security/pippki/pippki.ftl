@@ -8,24 +8,18 @@ password-quality-meter = Mjerač kvalitete lozinke
 
 change-device-password-window =
     .title = Promijeni lozinku
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sigurnosni uređaj: { $tokenName }
 change-password-old = Trenutačna lozinka:
 change-password-new = Nova lozinka:
 change-password-reenter = Ponovo upiši novu lozinku:
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Nije moguće promijeniti lozinku.
 pippki-incorrect-pw = Nisi upisao/la ispravnu trenutačnu lozinku. Pokušaj ponovo.
 pippki-pw-change-ok = Lozinka uspješno promijenjena.
-
 pippki-pw-empty-warning = Tvoje spremljene lozinke i privatni ključevi neće biti zaštićeni.
 pippki-pw-erased-ok = Lozinka je izbrisana. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Upozorenje! Odabrano je da se ne koristi lozinka. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Trenutačno si u FIPS modusu. FIPS zahtijeva nepraznu lozinku.
 
 ## Reset Primary Password dialog
@@ -35,7 +29,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Poništi
-
 pippki-reset-password-confirmation-title = Ponovno postavljanje primarne lozinke
 pippki-reset-password-confirmation-message = Tvoja primarna lozinka ponovno je postavljena.
 
@@ -44,6 +37,9 @@ pippki-reset-password-confirmation-message = Tvoja primarna lozinka ponovno je p
 download-cert-window =
     .title = Preuzimanje certifikata
     .style = width: 46em
+download-cert-window2 =
+    .title = Preuzimanje certifikata
+    .style = min-width: 46em
 download-cert-message = Novo certifikacijsko tijelo (CA) traži da mu se vjeruje.
 download-cert-trust-ssl =
     .label = Vjeruj ovom CA-u za identifikaciju web stranica.

@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Čarobnjak za stvaranje profila
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = Čarobnjak za stvaranje profila
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
@@ -13,13 +16,14 @@ create-profile-first-page-header =
         [macos] Uvod
        *[other] Dobrodošli u { create-profile-window.title }
     }
-
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Uvod
+       *[other] Dobrodošli u { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } sprema informacije o tvojim postavkama i osobitostima u tvoj osobni profil.
-
 profile-creation-explanation-2 = Ako ovu kopiju { -brand-short-name(case: "gen") } dijelite s ostalima, možete koristiti profile kako biste informacije svakog korisnika držali odvojenima. Da biste to uradili, svaki korisnik bi trebao stvoriti svoj vlastiti profil.
-
 profile-creation-explanation-3 = Ako si jedini korisnik ove verzije { -brand-short-name(case: "gen") }, moraš imati barem jedan profil. Ako želiš, možeš stvoriti više profila za spremanje različitih postavki i osobitosti. Na primjer, možeš imati odvojene profile za poslovnu i osobnu upotrebu.
-
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Za početak stvaranja tvog profila, klikni na Nastavi.
@@ -33,21 +37,20 @@ create-profile-last-page-header =
         [macos] Zaključak
        *[other] Dovršavanje { create-profile-window.title }
     }
-
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Zaključak
+       *[other] Dovršavanje { create-profile-window2.title }
+    }
 profile-creation-intro = Ako stvoriš nekoliko profila, možeš ih razlikovati po njihovim imenima. Možeš koristiti imena koja su ovdje zadana ili stvoriti svoja vlastita.
-
 profile-prompt = Upiši ime novog profila:
     .accesskey = e
-
 profile-default-name =
     .value = Standardni korisnik
-
 profile-directory-explanation = Tvoje korisničke postavke, osobitosti i ostali korisnički podaci bit će spremljeni u:
-
 create-profile-choose-folder =
     .label = Odaberi mapu …
     .accesskey = O
-
 create-profile-use-default =
     .label = Koristi standardnu mapu
     .accesskey = u
