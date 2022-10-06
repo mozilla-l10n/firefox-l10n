@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Майстар стварэння профіляў
     .style = width: 55em; height: 34em;
+create-profile-window2 =
+    .title = Майстар стварэння профіляў
+    .style = min-width: 55em; min-height: 34em;
 
 ## First wizard page
 
@@ -12,6 +15,11 @@ create-profile-first-page-header =
     { PLATFORM() ->
         [macos] Уступ
        *[other] Вас вітае { create-profile-window.title }
+    }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Уступ
+       *[other] Вас вітае { create-profile-window2.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } захоўвае звесткі пра вашы налады і перавагі ў вашым асабістым профілі.
 profile-creation-explanation-2 = Калі вы падзяляеце гэтую копію { -brand-short-name } з іншымі карыстальнікамі, вы можаце стварыць профілі, каб трымаць звесткі карыстальнікаў паасобку. Каб зрабіць гэта, кожны карыстальнік павінны стварыць свой асабісты профіль.

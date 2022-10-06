@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = Менеджар сертыфікатаў
-
 certmgr-tab-mine =
     .label = Вашы сертыфікаты
-
 certmgr-tab-remembered =
     .label = Рашэнні па аўтэнтыфікацыі
-
 certmgr-tab-people =
     .label = Людзі
-
 certmgr-tab-servers =
     .label = Серверы
-
 certmgr-tab-ca =
     .label = Установы
-
 certmgr-mine = Вы маеце сертыфікаты наступных устаноў, якія вызначаюць вас
 certmgr-remembered = Гэтыя сертыфікаты выкарыстоўваюцца для ідэнтыфікацыі вас на сайтах
 certmgr-people = Вы маеце сертыфікаты, якія вызначаюць наступных асоб
 certmgr-server = Гэтыя запісы вызначаюць выключэнні для памылак сертыфікатаў сервера
 certmgr-ca = Вы маеце сертыфікаты, якія вызначаюць наступныя сертыфікацыйныя ўстановы
-
 certmgr-edit-ca-cert =
     .title = Рэдагаванне наладаў даверу да сертыфіката ЦС
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Рэдагаванне наладаў даверу да сертыфіката ЦС
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Рэдагаваць налады даверу:
-
 certmgr-edit-cert-trust-ssl =
     .label = Гэты сертыфікат можа ідэнтыфікаваць сайт.
-
 certmgr-edit-cert-trust-email =
     .label = Гэты сертыфікат можа вызначаць карыстальнікаў пошты.
-
 certmgr-delete-cert =
     .title = Выдаленне сертыфіката
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Выдаленне сертыфіката
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Хост
-
 certmgr-cert-name =
     .label = Назва сертыфіката
-
 certmgr-cert-server =
     .label = Сервер
-
 certmgr-override-lifetime =
     .label = Час жыцця
-
 certmgr-token-name =
     .label = Прылада бяспекі
-
 certmgr-begins-label =
     .label = Пачынаецца (калі)
-
 certmgr-expires-label =
     .label = Сканчэнне тэрміну
-
 certmgr-email =
     .label = Эл.паштовы адрас
-
 certmgr-serial =
     .label = Серыйны нумар
-
 certmgr-view =
     .label = Прагляд…
     .accesskey = г
-
 certmgr-edit =
     .label = Правіць давер…
     .accesskey = П
-
 certmgr-export =
     .label = Экспарт…
     .accesskey = Э
-
 certmgr-delete =
     .label = Выдаліць…
     .accesskey = д
-
 certmgr-delete-builtin =
     .label = Выдаліць або не давяраць…
     .accesskey = д
-
 certmgr-backup =
     .label = Рэзерв.капіяванне…
     .accesskey = Р
-
 certmgr-backup-all =
     .label = Рэзерв.капіяванне для ўсіх…
     .accesskey = ў
-
 certmgr-restore =
     .label = Імпарт…
     .accesskey = І
-
 certmgr-add-exception =
     .label = Дадаць выключэнне…
     .accesskey = в
-
 exception-mgr =
     .title = Даданне выключэння бяспекі
-
 exception-mgr-extra-button =
     .label = Пацвердзіць выключэнне бяспекі
     .accesskey = ц
-
 exception-mgr-supplemental-warning = Правамоцныя банкі, біржы і іншыя публічныя сайты ніколі не будуць прасіць вас рабіць гэта.
-
 exception-mgr-cert-location-url =
     .value = Адрас:
-
 exception-mgr-cert-location-download =
     .label = Атрымаць сертыфікат
     .accesskey = А
-
 exception-mgr-cert-status-view-cert =
     .label = Прагляд…
     .accesskey = П
-
 exception-mgr-permanent =
     .label = Стала захаваць гэта выключэнне
     .accesskey = з
-
 pk11-bad-password = Вы ўвялі няправільны пароль.
 pkcs12-decode-err = Немагчыма дэкадаваць файл. Ці яго фармат не PKCS #12, ці ён сапсаваны, ці ўведзены вамі пароль няправільны.
 pkcs12-unknown-err-restore = Няўдача аднаўлення файла PKCS #12 па невядомых прычынах.
@@ -161,39 +130,28 @@ delete-user-cert-title =
     .title = Выдаленне вашых сертыфікатаў
 delete-user-cert-confirm = Вы сапраўды хочаце выдаліць гэтыя сертыфікаты?
 delete-user-cert-impact = Калі вы выдаліце адзін з вашых асабовых сертыфікатаў, вы не зможаце болей ужываць яго, каб ідэнтыфікаваць сябе.
-
-
 delete-ssl-override-title =
     .title = Выдаленне выключэння для сертыфіката сервера
 delete-ssl-override-confirm = Вы сапраўды хочаце выдаліць выключэнне для гэтага сервера?
 delete-ssl-override-impact = Калі вы выдаліце выключэнне сервера, вы адновіце звычайную праверку бяспекі гэтага сервера, што патрабуе ад яго выкарыстоўваць сапраўдны сертыфікат.
-
 delete-ca-cert-title =
     .title = Выдаленне або пазбаўленне даверу сертыфікатаў ЦС
 delete-ca-cert-confirm = Вы хочаце выдаліць сертыфікаты гэтых ЦС. Усе даверы да ўбудаваных сертыфікатаў будуць выдалены, што мае той жа вынік. Вы сапраўды хочаце правесці выдаленне або адмену даверу?
 delete-ca-cert-impact = Калі вы выдаліце або пазбавіце даверу сертыфікат цэнтра сертыфікацыі (ЦС), гэтае праграма больш не будзе давяраць сертыфікатам, выдадзеным гэтым ЦС.
-
-
 delete-email-cert-title =
     .title = Выдаленне сертыфікатаў эл.пошты
 delete-email-cert-confirm = Вы сапраўды хочаце выдаліць эл.паштовыя сертыфікаты гэтых людзей?
 delete-email-cert-impact = Калі вы выдаліце эл.паштовы сертыфікат асобы, вы больш не зможаце дасылаць шыфраваную эл.пошту да гэтай асобы.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Сертыфікат з серыйным нумарам: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Не адпраўляць сертыфікат кліента
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Не захоўваецца)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Недаступны)
 
