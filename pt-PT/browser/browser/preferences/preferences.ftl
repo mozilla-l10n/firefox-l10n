@@ -182,7 +182,7 @@ containers-remove-cancel-button = Não remover este contentor
 language-and-appearance-header = Idioma e aparência
 preferences-web-appearance-header = Aparência do site
 preferences-web-appearance-description = Alguns sites adaptam o seu esquema de cores com base nas suas preferências. Escolha qual o esquema de cores que gostaria de usar para esses sites.
-preferences-web-appearance-choice-browser = tema do { -brand-short-name }
+preferences-web-appearance-choice-browser = Tema do { -brand-short-name }
 preferences-web-appearance-choice-system = Tema do sistema
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
@@ -212,7 +212,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = As suas seleções de cores estão a substituir a aparência do website. <a data-l10n-name="colors-link">Gerir cores</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Gerir temas do { -brand-short-name } em<a data-l10n-name="themes-link">Extensões e Temas</a>
+preferences-web-appearance-footer = Gerir temas do { -brand-short-name } em <a data-l10n-name="themes-link">Extensões e Temas</a>
 preferences-colors-header = Cores
 preferences-colors-description = Subsituir as cores padrão do { -brand-short-name } quanto a texto, fundos de websites e ligações.
 preferences-colors-manage-button =
