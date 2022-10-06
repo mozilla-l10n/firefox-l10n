@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = Tanúsítványkezelő
-
 certmgr-tab-mine =
     .label = Saját tanúsítványok
-
 certmgr-tab-remembered =
     .label = Hitelesítési döntések
-
 certmgr-tab-people =
     .label = Emberek
-
 certmgr-tab-servers =
     .label = Kiszolgálók
-
 certmgr-tab-ca =
     .label = Hitelesítésszolgáltatók
-
 certmgr-mine = A következő szervezetektől vannak Önt azonosító tanúsítványok
 certmgr-remembered = Ezekkel a tanúsítványokkal azonosítja magát a webhelyek felé
 certmgr-people = A következő embereket lehet azonosítani a meglevő tanúsítványokkal
 certmgr-server = Ezek a bejegyzések kiszolgálói tanúsítványhiba kivételeket azonosítanak
 certmgr-ca = A következő hitelesítésszolgáltatókat lehet azonosítani a meglevő tanúsítványokkal
-
 certmgr-edit-ca-cert =
     .title = Hitelesítésszolgáltató tanúsítványa megbízhatóságának beállítása
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Hitelesítésszolgáltató tanúsítványa megbízhatóságának beállítása
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Megbízhatósági beállítások megadása:
-
 certmgr-edit-cert-trust-ssl =
     .label = Ez a tanúsítvány használható webhelyek azonosítására.
-
 certmgr-edit-cert-trust-email =
     .label = Ez a tanúsítvány használható elektronikus levelek feladóinak azonosítására.
-
 certmgr-delete-cert =
     .title = Tanúsítvány törlése
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Tanúsítvány törlése
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Gép
-
 certmgr-cert-name =
     .label = Tanúsítvány neve
-
 certmgr-cert-server =
     .label = Kiszolgáló
-
 certmgr-override-lifetime =
     .label = Élettartam
-
 certmgr-token-name =
     .label = Adatvédelmi eszköz
-
 certmgr-begins-label =
     .label = Érvényesség kezdete
-
 certmgr-expires-label =
     .label = Lejárat dátuma
-
 certmgr-email =
     .label = E-mail cím
-
 certmgr-serial =
     .label = Sorozatszám
-
 certmgr-view =
     .label = Megtekintés…
     .accesskey = M
-
 certmgr-edit =
     .label = Bizalom szerkesztése…
     .accesskey = B
-
 certmgr-export =
     .label = Exportálás…
     .accesskey = x
-
 certmgr-delete =
     .label = Törlés…
     .accesskey = T
-
 certmgr-delete-builtin =
     .label = Törlés vagy bizalom visszavonása…
     .accesskey = v
-
 certmgr-backup =
     .label = Mentés…
     .accesskey = e
-
 certmgr-backup-all =
     .label = Biztonsági mentés mindenről…
     .accesskey = s
-
 certmgr-restore =
     .label = Importálás…
     .accesskey = I
-
 certmgr-add-exception =
     .label = Kivétel hozzáadása…
     .accesskey = h
-
 exception-mgr =
     .title = Biztonsági kivétel hozzáadása
-
 exception-mgr-extra-button =
     .label = Biztonsági kivétel megerősítése
     .accesskey = B
-
 exception-mgr-supplemental-warning = Törvényesen működő bankok, üzletek és nyilvános webhelyek nem kérnek ilyesmit.
-
 exception-mgr-cert-location-url =
     .value = Hely:
-
 exception-mgr-cert-location-download =
     .label = Tanúsítvány letöltése
     .accesskey = T
-
 exception-mgr-cert-status-view-cert =
     .label = Megtekintés…
     .accesskey = M
-
 exception-mgr-permanent =
     .label = Kivétel megőrzése
     .accesskey = K
-
 pk11-bad-password = Hibás a megadott jelszó.
 pkcs12-decode-err = A fájl dekódolása nem sikerült.  Vagy nem PKCS #12 formátumban van, vagy megsérült, vagy a megadott jelszó hibás.
 pkcs12-unknown-err-restore = A PKCS #12 fájl visszaállítása ismeretlen okokból nem sikerült.
@@ -161,37 +130,28 @@ delete-user-cert-title =
     .title = Saját tanúsítványok törlése
 delete-user-cert-confirm = Biztosan törölni akarja ezeket a tanúsítványokat?
 delete-user-cert-impact = Ha valamely saját tanúsítványodat törli, akkor többé nem használhatja saját maga azonosítására.
-
-
 delete-ssl-override-title =
     .title = Kiszolgálói tanúsítvány kivételek törlése
 delete-ssl-override-confirm = Biztos, hogy törli ezeket a kiszolgáló-kivételeket?
 delete-ssl-override-impact = A kiszolgáló-kivétel törlésével a kiszolgálóra visszaállnak az eredeti biztonsági ellenőrzések, és kötelező lesz az érvényes tanúsítvány használata.
-
 delete-ca-cert-title =
     .title = CA-tanúsítványok törlése vagy bizalom visszavonása
 delete-ca-cert-confirm = A következő CA-tanúsítványok törlését kezdeményezte. A beépített tanúsítványok esetén a bizalom lesz visszavonva, ami ugyanazt eredményezi. Biztosan töröl vagy visszavonja a bizalmat?
 delete-ca-cert-impact = Ha egy hitelesítésszolgáltató (CA) tanúsítványát törli vagy a bizalmát attól visszavonja, az alkalmazás nem fog megbízni az általa kiadott tanúsítványokban.
-
-
 delete-email-cert-title =
     .title = E-mail tanúsítványok törlése
 delete-email-cert-confirm = Biztosan törölni akarja ezen emberek e-mail tanúsítványát?
 delete-email-cert-impact = Ha törli valakinek az e-mail tanúsítványát, többé nem tud kódolt levelet küldeni az illetőnek.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Tanúsítvány ezen sorozatszámmal: { $serialNumber }
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Ne küldjön ügyféltanúsítványt
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (nincs tárolva)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Nem érhető el)
 
