@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Sarrera
        *[other] Ongi etorri { create-profile-window.title }-(e)ra
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Sarrera
+       *[other] Ongi etorri { create-profile-window2.title }-(e)ra
+    }
 profile-creation-explanation-1 = { -brand-short-name }(e)k zure ezarpen eta hobespenak gordetzen ditu profil pertsonalean.
 profile-creation-explanation-2 = { -brand-short-name }(r)en kopia hau beste erabiltzaile batzuekin partekatzen ari bazara, profilak erabil ditzakezu erabiltzaile bakoitzaren datuak bereizita gordetzeko. Hau egiteko erabiltzaile bakoitzak bere profila sortu behar du.
 profile-creation-explanation-3 = { -brand-short-name } kopia hau erabiltzen duen pertsona bakarra bazara, behintzat profil bat eduki behar duzu. Nahi izanez gero profil bat baino gehiago erabil ditzakezu ezarpen eta hobespen desberdinak erabiltzeko. Adibidez, profil bat erabilera pertsonalerako eta beste bat lanerako.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Bukaera
        *[other] { create-profile-window.title } bukatzen
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Bukaera
+       *[other] { create-profile-window2.title } bukatzen
     }
 profile-creation-intro = Profil ugari sortuz gero, profil-izen desberdinez dei ditzakezu. Hemen eskaintzen zaizun izena edo aukerako beste edozein erabil dezakezu.
 profile-prompt = Idatzi profil berriaren izena
