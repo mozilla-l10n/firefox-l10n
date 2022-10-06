@@ -8,24 +8,18 @@ password-quality-meter = Wachtwurdkwaliteitsmeter
 
 change-device-password-window =
     .title = Wachtwurd wizigje
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Befeiligingsapparaat: { $tokenName }
 change-password-old = Aktueel wachtwurd:
 change-password-new = Nij wachtwurd:
 change-password-reenter = Nij wachtwurd (opnij):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Kin haadwachtwurd net wizigje.
 pippki-incorrect-pw = Jo ha net it korrekte haadwachtwurd ynfierd. Probearje it opnij.
 pippki-pw-change-ok = Wachtwurd mei sukses wizige.
-
 pippki-pw-empty-warning = Jo bewarre wachtwurden en priveekaaien sille net beskerme wurde.
 pippki-pw-erased-ok = Jo hawwe jo haadwachtwurd fuortsmiten. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Warskôging! Jo ha besletten gjin haadwachtwurd te brûken. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Jo binne no yn FIPS-modus. FIPS fereasket dat it haadwachtwurd net leech is.
 
 ## Reset Primary Password dialog
@@ -33,11 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Jo binne no yn FIPS-modus. FIPS fereasket 
 reset-primary-password-window =
     .title = Haadwachtwurd opnij ynstelle
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = Haadwachtwurd opnij ynstelle
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Opnij inisjalisearje
-
 reset-primary-password-text = As jo jo haadwachtwurd opnij ynstelle sille, al jo bewarre web- en e-mailwachtwurden, persoanlijke sertifikaten en priveekaaien fergetten wurde. Binne jo wis dat jo jo haadwachtwurd opnij inisjalisearje wolle?
-
 pippki-reset-password-confirmation-title = Haadwachtwurd opnij ynstelle
 pippki-reset-password-confirmation-message = Jo haadwachtwurd is opnij ynsteld
 
