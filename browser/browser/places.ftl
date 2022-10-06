@@ -23,7 +23,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Opne i nytt privat vindauge
     .accesskey = p
-
 places-add-bookmark =
     .label = Legg til bokmerke
     .accesskey = b
@@ -36,7 +35,6 @@ places-add-folder =
 places-add-separator =
     .label = Legg til skiljelinje
     .accesskey = s
-
 places-view =
     .label = Vis
     .accesskey = i
@@ -55,14 +53,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Etter dato og nettstad
     .accesskey = d
-
 places-history-search =
     .placeholder = Søkjehistorikk
 places-history =
     .aria-label = Historikk
 places-bookmarks-search =
     .placeholder = Søk i bokmerka
-
 places-delete-domain-data =
     .label = Gløym denne nettstaden
     .accesskey = G
@@ -86,22 +82,18 @@ places-delete-folder =
            *[other] Slett mapper
         }
     .accesskey = S
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerte bokmerke
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Undermappe
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Andre bokmerke
-
 places-show-in-folder =
     .label = Vis i mappe
     .accesskey = V
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -111,129 +103,97 @@ places-delete-bookmark =
            *[other] Slett bokmerke
         }
     .accesskey = S
-
 places-manage-bookmarks =
     .label = Handsam bokmerke
     .accesskey = H
-
 places-forget-about-this-site-confirmation-title = Gløymer denne nettstaden
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Denne handlinga fjernar alle dataa relaterte til { $hostOrBaseDomain }, inkludert historikk, passord, infokapslar, hurtigbuffer og innhalds-innstillingar. Er du sikker på at du vil fortsetje?
-
 places-forget-about-this-site-forget = Gløym
-
 places-library =
     .title = Arkiv
     .style = width:700px; height:500px;
-
+places-library2 =
+    .title = Arkiv
+    .style = min-width:700px; min-height:500px;
 places-organize-button =
     .label = Organiser
     .tooltiptext = Organiser bokmerka dine
     .accesskey = O
-
 places-organize-button-mac =
     .label = Organiser
     .tooltiptext = Organiser bokmerka dine
-
 places-file-close =
     .label = Lat att
     .accesskey = L
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = Vis
     .tooltiptext = Endre vising
     .accesskey = V
-
 places-view-button-mac =
     .label = Vis
     .tooltiptext = Endre vising
-
 places-view-menu-columns =
     .label = Vis kolonner
     .accesskey = V
-
 places-view-menu-sort =
     .label = Sorter
     .accesskey = S
-
 places-view-sort-unsorted =
     .label = Usortert
     .accesskey = U
-
 places-view-sort-ascending =
     .label = Sorteringsrekkjefølgje A -> Å
     .accesskey = A
-
 places-view-sort-descending =
     .label = Sorteringsrekkjefølgje Å -> A
     .accesskey = Å
-
 places-maintenance-button =
     .label = Importer og sikkerheitskopier
     .tooltiptext = Importer og sikkerheitskopier bokmerka
     .accesskey = I
-
 places-maintenance-button-mac =
     .label = Importer og sikkerheitskopier
     .tooltiptext = Importer og sikkerheitskopier bokmerka
-
 places-cmd-backup =
     .label = Sikkerheitskopier…
     .accesskey = S
-
 places-cmd-restore =
     .label = Bygg oppatt
     .accesskey = G
-
 places-cmd-restore-from-file =
     .label = Vel fil…
     .accesskey = V
-
 places-import-bookmarks-from-html =
     .label = Importer bokmerke frå HTML…
     .accesskey = I
-
 places-export-bookmarks-to-html =
     .label = Eksporter bokmerke til HTML…
     .accesskey = E
-
 places-import-other-browser =
     .label = Importer data frå ein annan nettlesar…
     .accesskey = a
-
 places-view-sort-col-name =
     .label = Namn
-
 places-view-sort-col-tags =
     .label = Etikettar
-
 places-view-sort-col-url =
     .label = Adresse
-
 places-view-sort-col-most-recent-visit =
     .label = Sist besøkt
-
 places-view-sort-col-visit-count =
     .label = Tal på besøk
-
 places-view-sort-col-date-added =
     .label = Lagt til
-
 places-view-sort-col-last-modified =
     .label = Sist endra
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = Gå tilbake
-
 places-forward-button =
     .tooltiptext = Gå fram
-
 places-details-pane-select-an-item-description = Vel elementet du vil vise og redigere
