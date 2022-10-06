@@ -13,8 +13,6 @@ change-password-old = Güncel parola:
 change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Sertifika indiriliyor
     .style = width: 46em
+download-cert-window2 =
+    .title = Sertifika indiriliyor
+    .style = min-width: 46em
 download-cert-message = Yeni bir Sertifika Yöneticisinin (CA) güvenliğini sordunuz.
 download-cert-trust-ssl =
     .label = Ağ-saytlarını teşhis etmek içün bu Şeadet Salahiyetine (CA) itimat et.

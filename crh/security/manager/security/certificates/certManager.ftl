@@ -4,123 +4,94 @@
 
 certmgr-title =
     .title = Sertifika Yöneticisi
-
 certmgr-tab-mine =
     .label = Sertifikalarınız
-
 certmgr-tab-people =
     .label = Kişiler
-
 certmgr-tab-servers =
     .label = Sunucılar
-
 certmgr-tab-ca =
     .label = Yetkili
-
 certmgr-mine = Bu teşkilâtlardan sizni kimliklendirgen şeadetnameleriñiz bar
 certmgr-people = Bu kişilerni kimliklendirgen dosyelengen şeadetnameleriñiz bar
 certmgr-ca = Bu şeadetname salahiyetlerini kimliklendirgen dosyelengen şeadetnameleriñiz bar
-
 certmgr-edit-ca-cert =
     .title = CA Sertifika Güvenlik Ayarlarını düzenle
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = CA Sertifika Güvenlik Ayarlarını düzenle
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = İtimat ayarlarını tarir et:
-
 certmgr-edit-cert-trust-ssl =
     .label = Bu şeadetname ağ-saytlarını teşhis etebilir.
-
 certmgr-edit-cert-trust-email =
     .label = Bu sertifika posta qullanıcılarını tanımlar.
-
 certmgr-delete-cert =
     .title = Sertifika Sil
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Sertifika Sil
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Sertifika İsmi
-
 certmgr-cert-server =
     .label = Sunucı
-
 certmgr-override-lifetime =
     .label = Yaşam müddeti
-
 certmgr-token-name =
     .label = Güvenlik Aygıtları
-
 certmgr-begins-label =
     .label = Başlağanı Tarih
-
 certmgr-expires-label =
     .label = Bitiş tarihi
-
 certmgr-email =
     .label = E-posta Adresleri
-
 certmgr-serial =
     .label = Seri Numarası
-
 certmgr-view =
     .label = Görüntüle…
     .accesskey = G
-
 certmgr-edit =
     .label = İtimatnı Tarir Et…
     .accesskey = T
-
 certmgr-export =
     .label = Dışa aktar…
     .accesskey = D
-
 certmgr-delete =
     .label = Sil
     .accesskey = S
-
 certmgr-delete-builtin =
     .label = Sil yaki İtimat Etme…
     .accesskey = S
-
 certmgr-backup =
     .label = Yedekle
     .accesskey = Y
-
 certmgr-backup-all =
     .label = Episini Yedekle…
     .accesskey = D
-
 certmgr-restore =
     .label = İçe aktar
     .accesskey = a
-
 certmgr-add-exception =
     .label = İstisna Ekle…
     .accesskey = s
-
 exception-mgr =
     .title = Güvenlik ayrıcalığı tanı
-
 exception-mgr-extra-button =
     .label = Emniyet İstisnasını Teyit Et
     .accesskey = T
-
 exception-mgr-supplemental-warning = Yasal bankalar, mağazalar ve diğer kamu siteleri sizden bunu yapmanızı istemeyecektir.
-
 exception-mgr-cert-location-url =
     .value = Qonum:
-
 exception-mgr-cert-location-download =
     .label = Şeadetnameni Al
     .accesskey = A
-
 exception-mgr-cert-status-view-cert =
     .label = Baq…
     .accesskey = B
-
 exception-mgr-permanent =
     .label = Bu istisnanı payidarca saqla
     .accesskey = p
-
 pk11-bad-password = Geçerli parola girişi hatalı.
 pkcs12-decode-err = Dosyanın çözülmesi başarısız. Ya PKCS #12 biçiminde değil ve bozuldu ya da girdiğiniz şifre hatalı.
 pkcs12-unknown-err-restore = PKCS #12 dosyasının yenilenmesi bilinmeyen sebeplerden dolayı başarısız oldu.
@@ -153,19 +124,14 @@ delete-user-cert-title =
     .title = Sertifikalarınızı Silin
 delete-user-cert-confirm = Bu sertifikayı silmek istediğinizden emin misiniz?
 delete-user-cert-impact = Kendi sertifikanızı silerseniz, kendi kendinizi kimlik doğrulamada bunu qullanamazsınız.
-
-
 delete-ca-cert-title =
     .title = ŞS Şeadetnamelerini Sil yaki Olarğa İtimat Etme
 delete-ca-cert-confirm = Bu Şeadetnameleme Salâhiyetiniñ şeadetnamelerini silmege rica etken olasıñız. Yapı-içi şeadetnameler içün bütün itimat çetleştirilecek ki, bunıñ da tesiri aynıdır. Silmege yaki itimat etmemege istegeniñizden eminsiñizmi?
 delete-ca-cert-impact = Eger bir şeadetnameleme salâhiyeti (ŞS; CA) şeadetnamesini silseñiz yaki oña itimat etmeseñiz, bu uyğulama o ŞS tarafından ihrac etilgen iç bir şeadetnamege artıq itimat etmeycektir.
-
-
 delete-email-cert-title =
     .title = E-Posta Sertifikasını sil
 delete-email-cert-confirm = Bu insanların E-Posta sertifikalarını silmek istediğinizden emin misiniz?
 delete-email-cert-impact = Eğer bir şahsın posta sertifikasını silerseniz, sonraki posta gönderimlerinde şahısla şifreli posta alışverişi yapamazsınız.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -173,9 +139,8 @@ delete-email-cert-impact = Eğer bir şahsın posta sertifikasını silerseniz, 
 cert-with-serial =
     .value = Aşağıdaki seri numaralı şeadetname: { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
