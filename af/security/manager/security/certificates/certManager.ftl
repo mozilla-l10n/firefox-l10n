@@ -4,119 +4,91 @@
 
 certmgr-title =
     .title = Sertifikaatbestuurder
-
 certmgr-tab-mine =
     .label = U sertifikate
-
 certmgr-tab-people =
     .label = Mense
-
 certmgr-tab-servers =
     .label = Bedieners
-
 certmgr-tab-ca =
     .label = Owerhede
-
 certmgr-edit-ca-cert =
     .title = Redigeer SO-sertifikaatvertroueopstelling
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Redigeer SO-sertifikaatvertroueopstelling
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Redigeer vertroueopstelling:
-
 certmgr-edit-cert-trust-ssl =
     .label = Hierdie sertifikaat kan webwerwe identifiseer.
-
 certmgr-edit-cert-trust-email =
     .label = Hierdie sertifikaat kan e-posgebruikers identifiseer.
-
 certmgr-delete-cert =
     .title = Skrap sertifikaat
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Skrap sertifikaat
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Naam van sertifikaat
-
 certmgr-cert-server =
     .label = Bediener
-
 certmgr-override-lifetime =
     .label = Lewensduur
-
 certmgr-token-name =
     .label = Sekuriteitstoestel
-
 certmgr-begins-label =
     .label = Begin op
-
 certmgr-expires-label =
     .label = Verval op
-
 certmgr-email =
     .label = E-posadres
-
 certmgr-serial =
     .label = Reeksnommer
-
 certmgr-view =
     .label = Bekyk…
     .accesskey = B
-
 certmgr-edit =
     .label = Redigeer vertroue…
     .accesskey = R
-
 certmgr-export =
     .label = Uitvoer…
     .accesskey = i
-
 certmgr-delete =
     .label = Skrap…
     .accesskey = S
-
 certmgr-delete-builtin =
     .label = Skrap of wantrou…
     .accesskey = S
-
 certmgr-backup =
     .label = Rugsteun…
     .accesskey = R
-
 certmgr-backup-all =
     .label = Rugsteun alles…
     .accesskey = s
-
 certmgr-restore =
     .label = Invoer…
     .accesskey = n
-
 certmgr-add-exception =
     .label = Voeg uitsondering by…
     .accesskey = u
-
 exception-mgr =
     .title = Voeg sekuriteituitsondering by
-
 exception-mgr-extra-button =
     .label = Bevestig sekuriteituitsondering
     .accesskey = B
-
 exception-mgr-supplemental-warning = Legitieme banke, winkels en ander publieke werwe sal u nie vra om dit te doen nie.
-
 exception-mgr-cert-location-url =
     .value = Ligging:
-
 exception-mgr-cert-location-download =
     .label = Kry sertifikaat
     .accesskey = S
-
 exception-mgr-cert-status-view-cert =
     .label = Bekyk…
     .accesskey = B
-
 exception-mgr-permanent =
     .label = Stoor hierdie uitsondering permanent
     .accesskey = S
-
 pk11-bad-password = Die wagwoord wat ingetik is, is verkeerd.
 pkcs12-decode-err = Kon nie die lêer dekodeer nie.  Dit is óf nie in PKCS #12-formaat nie, óf gekorrumpeer, óf die wagwoord wat ingetik is, is nie korrek nie.
 pkcs12-unknown-err-restore = Kon om onbekende redes nie die PKCS #12-lêer terugkopieer nie.
@@ -149,19 +121,14 @@ delete-user-cert-title =
     .title = Skrap u sertifikate
 delete-user-cert-confirm = Wil u definitief hierdie sertifikate skrap?
 delete-user-cert-impact = As u een van u eie sertifikate skrap, kan u dit nie meer gebruik om uself te identifiseer nie.
-
-
 delete-ca-cert-title =
     .title = Skrap of wantrou nie meer SO-sertifikate
 delete-ca-cert-confirm = U het versoek dat hierdie SO-sertifikate geskrap word. Vir ingeboude sertifikate sal alle vertroue verwyder word, wat dieselfde uitwerking het. Wil u definitief skrap of wantrou?
 delete-ca-cert-impact = As jy 'n sertifikaatowerheid- (SO) sertifikaat skrap of wantrou, sal hierdie toepassing nie meer enige sertifikate vertrou wat deur daardie SO uitgereik word nie.
-
-
 delete-email-cert-title =
     .title = Skrap e-possertifikate
 delete-email-cert-confirm = Wil u definitief hierdie persone se e-possertifikate skrap?
 delete-email-cert-impact = Indien u 'n persoon e-possertifikaat skrap, sal u nie meer geënkripteerde e-pos aan daardie mense kan stuur nie.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -169,9 +136,8 @@ delete-email-cert-impact = Indien u 'n persoon e-possertifikaat skrap, sal u nie
 cert-with-serial =
     .value = Sertifikaat met reeksnommer: { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
