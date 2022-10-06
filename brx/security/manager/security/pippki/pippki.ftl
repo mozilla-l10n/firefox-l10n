@@ -13,8 +13,6 @@ change-password-old = दानि पासवार्ड:
 change-password-new = गोदान पासवार्ड:
 change-password-reenter = गोदान पासवार्ड (फिन):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = चार्टिफिकेट डाउनल'ड खालाम गासिनो दङ
     .style = width: 46em
+download-cert-window2 =
+    .title = चार्टिफिकेट डाउनल'ड खालाम गासिनो दङ
+    .style = min-width: 46em
 download-cert-message = नोंथांखौ मोनसे गोदान चार्टिफिकेट अथ'रिटि (CA) फोथायनो थिननाय जाबाय।
 download-cert-trust-ssl =
     .label = वेबसाइटफोरखौ सिनायथि खालामनो बे CA खौ फोथाय
