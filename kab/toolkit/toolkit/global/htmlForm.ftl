@@ -9,6 +9,6 @@
 #   $fileCount (Number): The number of remaining files.
 input-file-and-more-files =
     { $fileCount ->
-        [one] d 1 nniḍen{ " " }
+        [one] d 1 nniḍen
        *[other] d{ $fileCount }nniḍen
     }
