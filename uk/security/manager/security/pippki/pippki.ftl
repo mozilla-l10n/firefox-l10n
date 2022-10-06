@@ -8,22 +8,18 @@ password-quality-meter = Рівень якості пароля
 
 change-device-password-window =
     .title = Змінити пароль
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Пристрій захисту: { $tokenName }
 change-password-old = Поточний пароль:
 change-password-new = Новий пароль:
 change-password-reenter = Новий пароль (ще раз):
-
 pippki-failed-pw-change = Не вдається змінити пароль.
 pippki-incorrect-pw = Ви ввели неправильний поточний головний пароль. Спробуйте ще раз.
 pippki-pw-change-ok = Пароль змінено.
-
 pippki-pw-empty-warning = Ваші збережені паролі та приватні ключі будуть не захищеними.
 pippki-pw-erased-ok = Ви видалили головний пароль. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Попередження! Ви вирішили не використовувати головний пароль. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Зараз ви в режимі FIPS. Для цього режиму необхідно встановити пароль.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Скинути
 reset-primary-password-text = Якщо ви скинете свій головний пароль, усі збережені паролі для мережі та електронної пошти, особисті сертифікати та приватні ключі буде втрачено. Ви справді хочете скинути свій головний пароль?
-
 pippki-reset-password-confirmation-title = Скинути головний пароль
 pippki-reset-password-confirmation-message = Ваш головний пароль скинуто.
 
@@ -43,6 +38,9 @@ pippki-reset-password-confirmation-message = Ваш головний парол�
 download-cert-window =
     .title = Завантаження сертифіката
     .style = width: 46em
+download-cert-window2 =
+    .title = Завантаження сертифіката
+    .style = min-width: 46em
 download-cert-message = Вас просять довіряти новому центру сертифікації (CA).
 download-cert-trust-ssl =
     .label = Довіряти при ідентифікації вебсайтів.
