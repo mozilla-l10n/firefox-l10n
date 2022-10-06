@@ -8,24 +8,18 @@ password-quality-meter = Merilnik kakovosti gesla
 
 change-device-password-window =
     .title = Spremeni geslo
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Varnostna naprava: { $tokenName }
 change-password-old = Trenutno geslo:
 change-password-new = Novo geslo:
 change-password-reenter = Novo geslo (ponovno):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Gesla ni bilo mogoče spremeniti.
 pippki-incorrect-pw = Vneseno geslo je napačno. Poskusite znova.
 pippki-pw-change-ok = Geslo je uspešno spremenjeno.
-
 pippki-pw-empty-warning = Vaša shranjena gesla in zasebni ključi ne bodo zaščiteni.
 pippki-pw-erased-ok = Zbrisali ste svoje geslo. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Pozor! Odločili ste se, da ne boste uporabljali gesla. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Trenutno ste v načinu FIPS. FIPS zahteva geslo, ki ni prazno.
 
 ## Reset Primary Password dialog
@@ -33,11 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Trenutno ste v načinu FIPS. FIPS zahteva 
 reset-primary-password-window =
     .title = Ponastavi glavno geslo
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = Ponastavi glavno geslo
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Ponastavi
-
 reset-primary-password-text = Če ponastavite glavno geslo, bodo vsi vaši osebni podatki pozabljeni (shranjena spletna in e-poštna gesla, osebna digitalna potrdila in zasebni ključi). Ste prepričani, da želite ponastaviti svoje glavno geslo?
-
 pippki-reset-password-confirmation-title = Ponastavi glavno geslo
 pippki-reset-password-confirmation-message = Vaše glavno geslo je bilo ponastavljeno.
 
@@ -46,6 +41,9 @@ pippki-reset-password-confirmation-message = Vaše glavno geslo je bilo ponastav
 download-cert-window =
     .title = Prenašanje digitalnega potrdila
     .style = width: 46em
+download-cert-window2 =
+    .title = Prenašanje digitalnega potrdila
+    .style = min-width: 46em
 download-cert-message = Ali zaupate novemu overitelju?
 download-cert-trust-ssl =
     .label = Overitelju zaupaj identifikacijo spletnih strani.
