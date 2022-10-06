@@ -4,98 +4,76 @@
 
 certmgr-title =
     .title = Гэрчилгээ зохицуулагч
-
 certmgr-tab-mine =
     .label = Таны гэрчилгээ
-
 certmgr-tab-people =
     .label = Хүмүүс
-
 certmgr-tab-servers =
     .label = Серверүүд
-
 certmgr-tab-ca =
     .label = Эрх
-
 certmgr-edit-ca-cert =
     .title = ГЭ гэрчилгээнд итгэх тохиргоог засварлах
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = ГЭ гэрчилгээнд итгэх тохиргоог засварлах
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Итгэх тохиргоог засварлах:
-
 certmgr-edit-cert-trust-email =
     .label = Энэ гэрчилгээ захианы хэрэглэгчийг таниж чадна.
-
 certmgr-delete-cert =
     .title = Гэрчилгээ устгах
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Гэрчилгээ устгах
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Гэрчилгээний нэр
-
 certmgr-cert-server =
     .label = Сервер
-
 certmgr-override-lifetime =
     .label = Үргэлж
-
 certmgr-token-name =
     .label = Нууцлалын төхөөрөмж
-
 certmgr-expires-label =
     .label = Дуусах хугацаа
-
 certmgr-serial =
     .label = Цуврал дугаар
-
 certmgr-view =
     .label = Харагдац…
     .accesskey = ц
-
 certmgr-export =
     .label = Экспортлох…
     .accesskey = к
-
 certmgr-delete =
     .label = Устга…
     .accesskey = с
-
 certmgr-backup =
     .label = Нөөцөл…
     .accesskey = ө
-
 certmgr-backup-all =
     .label = Бүгдийг нөөцөл…
     .accesskey = Б
-
 certmgr-restore =
     .label = Импорт…
     .accesskey = м
-
 certmgr-add-exception =
     .label = Тодорхой зааж өгөх…
     .accesskey = ж
-
 exception-mgr =
     .title = Нууцлалын нэмэлт заалт
-
 exception-mgr-supplemental-warning = Банкны эрх, худалдаа хийгч болон олон нийтийн хуудаснууд танаас үүнийг хийхийг асуухгүй байх болно.
-
 exception-mgr-cert-location-url =
     .value = Байршил:
-
 exception-mgr-cert-location-download =
     .label = Гэрчилгээ авах
     .accesskey = Г
-
 exception-mgr-cert-status-view-cert =
     .label = Харагдац…
     .accesskey = р
-
 exception-mgr-permanent =
     .label = Энэ заалтыг үргэлж хадгал
     .accesskey = х
-
 pk11-bad-password = Оруулсан нууц үг буруу
 pkcs12-decode-err = Файлыг хөрвүүлэхэд алдаа гарлаа. Энэ нь  PKCS #12 хэлбэртэй биш, эсвэл эвдэрсэн байна. Эсвэл таны оруулсан нууц үг буруу байна.
 pkcs12-unknown-err-restore = Үл мэдэгдэх шалтгаанаар PKCS #12 файлыг сэрэгээж чадахгүй байна.
@@ -127,14 +105,11 @@ delete-user-cert-title =
     .title = Өөрийнхөө гэрчилгээг устгах
 delete-user-cert-confirm = Та эдгээр гэрчилгээг устгахдаа итгэлтэй байна уу?
 delete-user-cert-impact = Та хэрэв өөрийнхөө нэг гэрчилгээг устгавал цаашид өөрийгөө танихдаа хэрэглэж чадахгүй болно.
-
-
 delete-email-cert-confirm = Та энэ хүмүүсийн захианы гэрчилгээг устгахдаа итгэлтэй байна уу?
 delete-email-cert-impact = Та хэрэв захианы гэрчилгээг устгавал та тэр хүмүүст цаашид нууцалсан захиа илгээж чадахгүй болно.
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 

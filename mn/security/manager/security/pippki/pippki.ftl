@@ -13,8 +13,6 @@ change-password-old = Одоогийн нууц үг:
 change-password-new = Шинэ нууц үг:
 change-password-reenter = Шинэ нууц үг (дахиад):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Гэрчилгээ татаж авч байна
     .style = width: 46em
+download-cert-window2 =
+    .title = Гэрчилгээ татаж авч байна
+    .style = min-width: 46em
 download-cert-message = Танаас шинэ Гэрчилгээний Эрх-д итгэхийг асуусан (ГЭ).
 download-cert-trust-email =
     .label = Захианы хэрэглэгчийг танихад энэ ГЭ-д итгэ
