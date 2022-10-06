@@ -13,8 +13,6 @@ change-password-old = Kata laluan semasa:
 change-password-new = Katalalan baru:
 change-password-reenter = Kata laluan baru (lagi):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Memuat turun Sijil
     .style = width: 46em
+download-cert-window2 =
+    .title = Memuat turun Sijil
+    .style = min-width: 46em
 download-cert-message = Anda telah diminta untuk mempercayai Autoriti Sijil (CA) yang baru.
 download-cert-trust-ssl =
     .label = Percayai CA ini untuk mengenal pasti laman web.
