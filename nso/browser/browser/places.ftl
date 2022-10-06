@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Bula tšohle ka dithepo
     .accesskey = l
-
 places-view =
     .label = Tebelelo
     .accesskey = l
@@ -27,121 +26,93 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ka letšatšikgwedi le saete
     .accesskey = t
-
 places-delete-domain-data =
     .label = Lebala ka saete ye
     .accesskey = a
 places-sortby-name =
     .label = Hlopha ka leina
     .accesskey = r
-
 places-library =
     .title = Bokgobapuku
     .style = width:700px; height:500px;
-
+places-library2 =
+    .title = Bokgobapuku
+    .style = min-width:700px; min-height:500px;
 places-organize-button =
     .label = Rulaganya
     .tooltiptext = Rulaganya dipukutshwayo tša gago
     .accesskey = R
-
 places-organize-button-mac =
     .label = Rulaganya
     .tooltiptext = Rulaganya dipukutshwayo tša gago
-
 places-file-close =
     .label = Tswalela
     .accesskey = T
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = Ditebelelo
     .tooltiptext = Fetoša tebelelo ya gago
     .accesskey = b
-
 places-view-button-mac =
     .label = Ditebelelo
     .tooltiptext = Fetoša tebelelo ya gago
-
 places-view-menu-columns =
     .label = Laetša dikholomo
     .accesskey = k
-
 places-view-menu-sort =
     .label = Hlopha
     .accesskey = a
-
 places-view-sort-unsorted =
     .label = Tše sa hlophiwago
     .accesskey = T
-
 places-view-sort-ascending =
     .label = Tatelano ya go hlopha ya A > Z
     .accesskey = A
-
 places-view-sort-descending =
     .label = Tatelano ya go hlopha ya Z > A
     .accesskey = Z
-
 places-maintenance-button =
     .label = Diamogelwa le dikopišwa
     .tooltiptext = Amogela le go dira pekapo ya dipukutshwayo tša gago
     .accesskey = i
-
 places-maintenance-button-mac =
     .label = Diamogelwa le dikopišwa
     .tooltiptext = Amogela le go dira pekapo ya dipukutshwayo tša gago
-
 places-cmd-backup =
     .label = Dikopišwa…
     .accesskey = D
-
 places-cmd-restore =
     .label = Bušetša
     .accesskey = e
-
 places-cmd-restore-from-file =
     .label = Kgetha faele…
     .accesskey = K
-
 places-import-bookmarks-from-html =
     .label = Amogela dipukutshwayo go tšwa go HTML...
     .accesskey = A
-
 places-export-bookmarks-to-html =
     .label = Romela dipukutshwayo go HTML...
     .accesskey = e
-
 places-import-other-browser =
     .label = Amogela tsebišo go tšwa go praosara e nngwe...
     .accesskey = e
-
 places-view-sort-col-name =
     .label = Leina
-
 places-view-sort-col-tags =
     .label = Ditshwayo
-
 places-view-sort-col-url =
     .label = Lefelo
-
 places-view-sort-col-visit-count =
     .label = Palo ya diketelo
-
 places-view-sort-col-date-added =
     .label = Okeditšwe
-
 places-view-sort-col-last-modified =
     .label = Fetošitšwe la mafelelo
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = Boela morago
-
 places-forward-button =
     .tooltiptext = Eya pele
-
 places-details-pane-select-an-item-description = Kgetha aetheme gore o lebelele le go lokiša dipharologantšho tša yona
