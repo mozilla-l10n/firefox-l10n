@@ -33,6 +33,31 @@ calendar-invitation-datetime-date = { $date } { $dayOfWeek }
 # $time (String) - The time part of a datetime using the "short" timeStyle.
 # $timezone (String) - The timezone info for the datetime.
 calendar-invitation-datetime-time = { $time }（{ $timezone }）
+# Example: Friday, September 16, 2022
+# Variables:
+# $startDate (String) - The date (without time) the event starts on.
+calendar-invitation-interval-all-day = { $startDate }
+# Example: September 16, 2022 – September 16, 2023
+# $startMonth (String) - The month the interval starts.
+# $startDay   (String) - The day of the month the interval starts.
+# $startYear  (String) - The year the interval starts.
+# $endMonth   (String) - The month the interval ends.
+# $endDay     (String) - The day of the month the interval ends.
+# $endYear    (String) - The year the interval ends.
+calendar-invitation-interval-all-day-between-years = { $startYear } 年 { $startMonth } { $startDay } 日 - { $endYear } 年 { $endMonth } { $endDay } 日
+# Example: September 16 – 20, 2022
+# $month      (String) - The month the interval is in.
+# $startDay   (String) - The day of the month the interval starts.
+# $endDay     (String) - The day of the month the interval ends.
+# $year       (String) - The year the interval is in.
+calendar-invitation-interval-all-day-in-month = { $year } 年 { $month } { $startDay } - { $endDay } 日
+# Example: September 16 – October 20, 2022
+# $startMonth (String) - The month the interval starts.
+# $startDay   (String) - The day of the month the interval starts.
+# $endDay     (String) - The day of the month the interval ends.
+# $year       (String) - The year the interval is in.
+calendar-invitation-interval-all-day-between-months = { $year } 年 { $startMonth } { $startDay } 日 - { $endMonth } { $endDay } 日
+calendar-invitation-panel-prop-title-recurrence = 重複發生:
 calendar-invitation-panel-prop-title-attendees = 與會者:
 calendar-invitation-panel-prop-title-description = 說明:
 # Variables:
