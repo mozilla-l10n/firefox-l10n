@@ -5,6 +5,9 @@
 create-profile-window =
     .title = আলেখ্য সৃষ্টি কৰাৰ ৱিজাৰ্ড
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = আলেখ্য সৃষ্টি কৰাৰ ৱিজাৰ্ড
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
