@@ -4,119 +4,91 @@
 
 certmgr-title =
     .title = Bainisteoir na dTeastas
-
 certmgr-tab-mine =
     .label = Do Theastais
-
 certmgr-tab-people =
     .label = Daoine
-
 certmgr-tab-servers =
     .label = Freastalaithe
-
 certmgr-tab-ca =
     .label = Údaráis
-
 certmgr-edit-ca-cert =
     .title = Cuir socruithe muiníne do theastais na nÚdarás Deimhniúcháin in eagar
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Cuir socruithe muiníne do theastais na nÚdarás Deimhniúcháin in eagar
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Cuir socruithe muiníne in eagar:
-
 certmgr-edit-cert-trust-ssl =
     .label = Is féidir leis an teastas seo suímh Ghréasáin a shainaithint.
-
 certmgr-edit-cert-trust-email =
     .label = Is féidir leis an teastas seo úsáideoirí ríomhphoist a shainaithint.
-
 certmgr-delete-cert =
     .title = Scrios Teastas
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Scrios Teastas
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Ainm an Teastais
-
 certmgr-cert-server =
     .label = Freastalaí
-
 certmgr-override-lifetime =
     .label = Saolré
-
 certmgr-token-name =
     .label = Gléas Slándála
-
 certmgr-begins-label =
     .label = Le tosú
-
 certmgr-expires-label =
     .label = Le síothlú
-
 certmgr-email =
     .label = Seoladh Ríomhphoist
-
 certmgr-serial =
     .label = Sraithuimhir
-
 certmgr-view =
     .label = Amharc…
     .accesskey = A
-
 certmgr-edit =
     .label = Cuir Muinín in Eagar…
     .accesskey = M
-
 certmgr-export =
     .label = Easpórtáil…
     .accesskey = s
-
 certmgr-delete =
     .label = Scrios…
     .accesskey = S
-
 certmgr-delete-builtin =
     .label = Scrios nó bí mímhuiníneach as…
     .accesskey = S
-
 certmgr-backup =
     .label = Cúltaca…
     .accesskey = C
-
 certmgr-backup-all =
     .label = Cúltaca de gach rud…
     .accesskey = t
-
 certmgr-restore =
     .label = Iompórtáil…
     .accesskey = m
-
 certmgr-add-exception =
     .label = Cuir Eisceacht Leis…
     .accesskey = s
-
 exception-mgr =
     .title = Cuir Eisceacht Slándála Leis
-
 exception-mgr-extra-button =
     .label = Dearbhaigh an Eisceacht Slándála
     .accesskey = D
-
 exception-mgr-supplemental-warning = Ní iarrfaidh bainc, siopaí agus suíomhanna dlisteanacha poiblí eile ort é seo a dhéanamh.
-
 exception-mgr-cert-location-url =
     .value = Suíomh:
-
 exception-mgr-cert-location-download =
     .label = Faigh Teastas
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = Amharc…
     .accesskey = A
-
 exception-mgr-permanent =
     .label = Glac leis an eisceacht seo go buan
     .accesskey = G
-
 pk11-bad-password = Bhí an focal faire mícheart.
 pkcs12-decode-err = Níorbh fhéidir an comhad a dhíchódú. B'fhéidir nach bhfuil sé i bhformáid PKCS #12, nó go bhfuil sé truaillithe, nó gur chuir tú an focal faire mícheart isteach.
 pkcs12-unknown-err-restore = Níorbh fhéidir an comhad PKCS #12 a chur ar ais, ach ní fios cén fáth.
@@ -149,19 +121,14 @@ delete-user-cert-title =
     .title = Scrios do Theastais
 delete-user-cert-confirm = An bhfuil tú cinnte gur mian leat na teastais seo a scriosadh?
 delete-user-cert-impact = Má scriosann tú ceann de do theastais féin, ní féidir é a úsáid níos mó chun tú féin a chur in aithne.
-
-
 delete-ca-cert-title =
     .title = Scrios nó bí mímhuiníneach as teastais ó údaráis deimhniúcháin
 delete-ca-cert-confirm = D'iarr tú na teastais seo ó údaráis deimhniúcháin a scrios. I gcás na dteastas inmheánacha, beifear mímhuiníneach ar fad astu, leis an éifeacht chéanna. An bhfuil tú cinnte go dteastaíonn uait iad a scrios nó bheith mímhuiníneach astu?
 delete-ca-cert-impact = Má scriosann tú teastas ó údarás deimhniúcháin, nó má tá tú mímhuiníneach as, ní bheidh muinín ag an bhfeidhmchlár seo as teastas ar bith eisithe ag an údarás deimhniúcháin sin.
-
-
 delete-email-cert-title =
     .title = Scrios Teastais Ríomhphoist
 delete-email-cert-confirm = An bhfuil tú cinnte gur mian leat teastais ríomhphoist na ndaoine seo a scriosadh?
 delete-email-cert-impact = Má scriosann tú teastas ríomhphoist duine, ní bheidh tú in ann ríomhphost criptithe a sheoladh chuige a thuilleadh.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -169,9 +136,8 @@ delete-email-cert-impact = Má scriosann tú teastas ríomhphoist duine, ní bhe
 cert-with-serial =
     .value = Teastas le sraithuimhir: { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
