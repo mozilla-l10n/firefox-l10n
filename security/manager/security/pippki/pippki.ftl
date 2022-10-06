@@ -8,24 +8,18 @@ password-quality-meter = Indicador de qualidade da palavra-passe
 
 change-device-password-window =
     .title = Alterar palavra-passe
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de segurança: { $tokenName }
 change-password-old = Palavra-passe atual:
 change-password-new = Nova palavra-passe:
 change-password-reenter = Nova palavra-passe (novamente):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Não foi possível alterar a palavra-passe.
 pippki-incorrect-pw = A palavra-passe que digitou não corresponde à palavra-passe principal atual. Por favor, tente novamente.
 pippki-pw-change-ok = Palavra-passe alterada com sucesso.
-
 pippki-pw-empty-warning = As suas palavras-passe armazenadas e chaves privadas não serão protegidas.
 pippki-pw-erased-ok = Eliminou a sua palavra-passe. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Aviso! Decidiu não utilizar uma palavra-passe. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Atualmente, está no modo FIPS. Este modo requer uma palavra-passe não vazia.
 
 ## Reset Primary Password dialog
@@ -33,11 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Atualmente, está no modo FIPS. Este modo 
 reset-primary-password-window =
     .title = Repor palavra-passe principal
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = Repor palavra-passe principal
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Repor
-
 reset-primary-password-text = Se remover a sua palavra-passe principal, todas as suas palavras-passe da Internet e e-mail, certificados pessoais e chaves privadas guardadas serão esquecidas. Tem a certeza de que pretende repor a sua palavra-passe principal?
-
 pippki-reset-password-confirmation-title = Repor palavra-passe principal
 pippki-reset-password-confirmation-message = A sua palavra-passe principal foi reposta.
 
