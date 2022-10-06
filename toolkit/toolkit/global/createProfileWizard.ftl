@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Danasîn
        *[other] Bi xêr hatî { create-profile-window.title } 'ê
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Danasîn
+       *[other] Bi xêr hatî { create-profile-window2.title } 'ê
+    }
 profile-creation-explanation-1 = { -brand-short-name }  Vebijêrk, bijare û nasnameyên te yên di posteyê de tomar dike.
 profile-creation-explanation-2 = Heke kopyeya { -brand-short-name } 'ê bi bikarhênerên din re bikar bînî, ji bo tomarkirina agahiyên her bikarhênerê, dikarî profîlên cuda bikar bînî. Ji bo vê divê her bikarhênerek profîla xwe ya taybet biafirîne.
 profile-creation-explanation-3 = Heke tenê tu kopyeya { -brand-short-name } 'ê bikar bînî divê herî kêm profîlekê biafirînî. Ji bo cureyên mîhengan ên cuda, dikarî ji profîlekê zêdetir profîlek biafirînî.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Encam
        *[other] { create-profile-window.title } Tê qedandin
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Encam
+       *[other] { create-profile-window2.title } Tê qedandin
     }
 profile-creation-intro = Her profîlek bi navê xwe tê nasîn. Dikarî profîleke pêşniyarbûyî an jî profîleke ku tu dixwazî biafirînî.
 profile-prompt = Navekî ji bo profîlekê têkevê:

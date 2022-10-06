@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Hemûyan di Hilpekînan de Veke
     .accesskey = H
-
 places-view =
     .label = Bibîne
     .accesskey = B
@@ -27,127 +26,97 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Li gorî dîrok û malperê
     .accesskey = L
-
 places-history =
     .aria-label = Raborî
-
 places-delete-domain-data =
     .label = Vê rûpelê ji bîr bike
     .accesskey = b
 places-sortby-name =
     .label = li Gorî Navan Rêz Bike
     .accesskey = R
-
 places-library =
     .title = Pirtûkxane
     .style = width:700px; height:500px;
-
+places-library2 =
+    .title = Pirtûkxane
+    .style = min-width:700px; min-height:500px;
 places-organize-button =
     .label = Organîze Bike
     .tooltiptext = Bijareyên xwe bi rê ve bibe
     .accesskey = O
-
 places-organize-button-mac =
     .label = Organîze Bike
     .tooltiptext = Bijareyên xwe bi rê ve bibe
-
 places-file-close =
     .label = Girtin
     .accesskey = G
-
 places-cmd-close =
     .key = W
-
 places-view-button =
     .label = Xuyakirin
     .tooltiptext = Xuyakirina xwe biguherîne
     .accesskey = X
-
 places-view-button-mac =
     .label = Xuyakirin
     .tooltiptext = Xuyakirina xwe biguherîne
-
 places-view-menu-columns =
     .label = Stûnan Nîşan Bide
     .accesskey = S
-
 places-view-menu-sort =
     .label = Rêzkirin
     .accesskey = R
-
 places-view-sort-unsorted =
     .label = Rêznebûyî
     .accesskey = R
-
 places-view-sort-ascending =
     .label = A > Z Rêz Bike
     .accesskey = A
-
 places-view-sort-descending =
     .label = Z > A Rêz Bike
     .accesskey = Z
-
 places-maintenance-button =
     .label = Bîne û Hilîne
     .tooltiptext = Bijareyên xwe derxe û hilîne
     .accesskey = i
-
 places-maintenance-button-mac =
     .label = Bîne û Hilîne
     .tooltiptext = Bijareyên xwe derxe û hilîne
-
 places-cmd-backup =
     .label = Hilîne
     .accesskey = H
-
 places-cmd-restore =
     .label = Danişîna Berê
     .accesskey = D
-
 places-cmd-restore-from-file =
     .label = Pelê hilbijêre...
     .accesskey = P
-
 places-import-bookmarks-from-html =
     .label = Bijareyan ji HTMLê bîne…
     .accesskey = b
-
 places-export-bookmarks-to-html =
     .label = Bijareyan wekî HTML derxe…
     .accesskey = d
-
 places-import-other-browser =
     .label = Daneyan ji gerokeke din bîne…
     .accesskey = d
-
 places-view-sort-col-name =
     .label = Nav
-
 places-view-sort-col-tags =
     .label = Etîket
-
 places-view-sort-col-url =
     .label = Cih
-
 places-view-sort-col-most-recent-visit =
     .label = Serdana Dawîn
-
 places-view-sort-col-visit-count =
     .label = Hejmara Vebûnê
-
 places-view-sort-col-date-added =
     .label = Têxistin
-
 places-view-sort-col-last-modified =
     .label = Guherandina Dawîn
-
 places-cmd-find-key =
     .key = F
-
 places-back-button =
     .tooltiptext = Here paş
-
 places-forward-button =
     .tooltiptext = Here pêş
-
 places-details-pane-select-an-item-description = Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre
