@@ -13,8 +13,6 @@ change-password-old = Trenutna lozinka:
 change-password-new = Nova lozinka:
 change-password-reenter = Nova lozinka (ponovo):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Preuzimam certifikate
     .style = width: 46em
+download-cert-window2 =
+    .title = Preuzimam certifikate
+    .style = min-width: 46em
 download-cert-message = Upitani ste da li vjerujete novom Certifikacijskom Autoritetu (CA).
 download-cert-trust-ssl =
     .label = Vjeruj ovom CA da identifikuje web stranice.
