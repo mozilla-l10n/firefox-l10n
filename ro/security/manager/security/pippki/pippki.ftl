@@ -8,24 +8,18 @@ password-quality-meter = Indicatorul de calitate a parolei
 
 change-device-password-window =
     .title = Schimbă parola
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispozitiv de securitate: { $tokenName }
 change-password-old = Parola actuală:
 change-password-new = Parola nouă:
 change-password-reenter = Parola nouă (din nou):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Parola nu a putut fi modificată.
 pippki-incorrect-pw = Nu ai introdus corect parola curentă. Te rugăm să încerci din nou.
 pippki-pw-change-ok = Parola a fost schimbată cu succes.
-
 pippki-pw-empty-warning = Parolele și cheile private salvate nu vor fi protejate.
 pippki-pw-erased-ok = Ți-ai șters parola. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Avertisment! Ai decis să nu folosești o parolă. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Acum ești în modul FIPS. FIPS necesită existența unei parole.
 
 ## Reset Primary Password dialog
@@ -35,9 +29,7 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Resetează
-
 reset-primary-password-text = Dacă îți resetezi parola primară, toate parolele tale salvate de web și de e-mail, certificatele personale și cheile private vor fi uitate. Sigur vrei să îți resetezi parola primară?
-
 pippki-reset-password-confirmation-title = Resetează parola primară
 pippki-reset-password-confirmation-message = Parola primară a fost resetată.
 
@@ -46,6 +38,9 @@ pippki-reset-password-confirmation-message = Parola primară a fost resetată.
 download-cert-window =
     .title = Descărcare certificat
     .style = width: 46em
+download-cert-window2 =
+    .title = Descărcare certificat
+    .style = min-width: 46em
 download-cert-message = Vi se cere să acreditați o autoritate nouă de certificare (AC).
 download-cert-trust-ssl =
     .label = Acreditează această AC pentru identificarea site-urilor web.
