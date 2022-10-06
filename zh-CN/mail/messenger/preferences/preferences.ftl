@@ -447,6 +447,7 @@ restore-html-label =
 default-format-label =
     .label = 默认使用段落而非正文文本格式
     .accesskey = P
+compose-send-format-title = 发送格式
 compose-send-automatic-option =
     .label = 自动
 compose-send-both-option =

@@ -166,10 +166,12 @@ about-addressbook-placeholder-no-search-results = 找不到联系人
 
 ## Details
 
+about-addressbook-new-contact-header = 新建联系人
 about-addressbook-prefer-display-name = 在邮件标题上方显示姓名
 about-addressbook-write-action-button = 写邮件
 about-addressbook-event-action-button = 事件
 about-addressbook-search-action-button = 搜索
+about-addressbook-new-list-action-button = 新建列表
 about-addressbook-begin-edit-contact-button = 编辑
 about-addressbook-delete-edit-contact-button = 删除
 about-addressbook-cancel-edit-contact-button = 取消
@@ -180,7 +182,10 @@ about-addressbook-details-phone-numbers-header = 手机号码
 about-addressbook-details-addresses-header = 地址
 about-addressbook-details-notes-header = 备注
 about-addressbook-details-impp-header = 即时通讯
+about-addressbook-details-websites-header = 网站
 about-addressbook-details-other-info-header = 其他信息
+about-addressbook-entry-type-work = 工作
+about-addressbook-entry-type-home = 住址
 about-addressbook-entry-type-fax = 传真
 # Or "Mobile"
 about-addressbook-entry-type-cell = 手机
@@ -192,6 +197,10 @@ about-addressbook-entry-name-role = 角色
 about-addressbook-entry-name-organization = 公司
 about-addressbook-entry-name-website = 网站
 about-addressbook-entry-name-time-zone = 时区
+about-addressbook-entry-name-custom1 = 自定义 1
+about-addressbook-entry-name-custom2 = 自定义 2
+about-addressbook-entry-name-custom3 = 自定义 3
+about-addressbook-entry-name-custom4 = 自定义 4
 about-addressbook-unsaved-changes-prompt-title = 未保存更改
 about-addressbook-unsaved-changes-prompt = 您想要在离开编辑视图前保存更改吗？
 

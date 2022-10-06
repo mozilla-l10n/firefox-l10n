@@ -12,6 +12,8 @@ vcard-displayname-placeholder =
 # Type selection
 
 vcard-entry-type-label = 类型
+vcard-entry-type-home = 住址
+vcard-entry-type-work = 工作
 vcard-entry-type-none = 无
 vcard-entry-type-custom = 自定义
 
@@ -34,6 +36,10 @@ vcard-n-suffix = 后缀
 vcard-n-add-suffix =
     .title = 添加后缀
 
+# Nickname
+
+vcard-nickname = 呢称
+
 # Email vCard field
 
 vcard-email-header = 电子邮件地址
@@ -52,6 +58,10 @@ vcard-url-label = 网站
 vcard-tel-header = 手机号码
 vcard-tel-add = 添加手机号码
 vcard-tel-label = 手机号码
+# Or "Mobile"
+vcard-entry-type-cell = 手机
+vcard-entry-type-fax = 传真
+vcard-entry-type-pager = 传呼机
 
 # TZ vCard field
 
@@ -60,11 +70,13 @@ vcard-tz-add = 添加时区
 
 # IMPP vCard field
 
-vcard-impp-header = 聊天账户
+vcard-impp2-header = 即时通讯
 vcard-impp-add = 添加聊天账户
 vcard-impp-label = 聊天账户
 vcard-impp-select = 协议
 vcard-impp-option-other = 其他
+vcard-impp-input-label = URI
+vcard-impp-input-title = 即时通讯 URI
 
 # BDAY and ANNIVERSARY vCard field
 
