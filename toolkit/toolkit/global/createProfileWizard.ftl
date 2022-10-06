@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Початок
        *[other] Ласкаво просимо в { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Початок
+       *[other] Ласкаво просимо в { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } зберігає інформацію про ваші налаштування та вподобання у вашому особистому профілі.
 profile-creation-explanation-2 = Якщо ви не єдиний користувач цієї копії { -brand-short-name }, тоді за допомогою профілів ви можете зберігати інформацію кожного користувача окремо. Для цього кожному користувачу необхідно створити свій власний профіль.
 profile-creation-explanation-3 = Якщо ви єдиний користувач цієї копії { -brand-short-name }, ви повинні мати принаймні один профіль. При бажанні, ви можете створити декілька власних профілів для зберігання різних наборів налаштувань. Наприклад, якщо ви захочете мати два різні профілі для роботи і для особистого користування.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Завершення
        *[other] Завершення роботи { create-profile-window.title }
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Завершення
+       *[other] Завершення роботи { create-profile-window2.title }
     }
 profile-creation-intro = При створенні декількох профілів, ви зможете розрізняти їх за назвою. Ви можете скористатися пропонованою назвою, або ж придумати власну.
 profile-prompt = Введіть назву нового профілю:
