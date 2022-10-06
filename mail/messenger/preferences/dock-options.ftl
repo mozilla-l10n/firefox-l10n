@@ -5,26 +5,21 @@
 dock-options-window-dialog =
     .title = Možnosti ikon programov
     .style = width: 45em;
-
+dock-options-window-dialog2 =
+    .title = Možnosti ikon programov
 dock-options-show-badge =
     .label = Pokaži ikono značke
     .accesskey = i
-
 bounce-system-dock-icon =
     .label = Animiraj ikono programa, kadar prispe novo sporočilo
     .accesskey = m
-
 dock-icon-legend = Značka ikone programa
-
 dock-icon-show-label =
     .value = Dodaj značko ikoni programa:
-
 count-unread-messages-radio =
     .label = Število neprebranih sporočil
     .accesskey = n
-
 count-new-messages-radio =
     .label = Število novih sporočil
     .accesskey = Š
-
 notification-settings-info2 = Značko lahko onemogočite v podoknu obvestil v sistemskih nastavitvah.

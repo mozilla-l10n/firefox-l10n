@@ -36,6 +36,10 @@ vcard-n-suffix = Pripona
 vcard-n-add-suffix =
     .title = Dodaj pripono
 
+# Nickname
+
+vcard-nickname = Vzdevek
+
 # Email vCard field
 
 vcard-email-header = E-poštni naslovi
@@ -54,6 +58,9 @@ vcard-url-label = Spletna stran
 vcard-tel-header = Telefonske številke
 vcard-tel-add = Dodaj telefonsko številko
 vcard-tel-label = Telefonska številka
+# Or "Mobile"
+vcard-entry-type-cell = Mobilni
+vcard-entry-type-fax = Faks
 
 # TZ vCard field
 
@@ -62,7 +69,6 @@ vcard-tz-add = Dodaj časovni pas
 
 # IMPP vCard field
 
-vcard-impp-header = Računi za klepet
 vcard-impp2-header = Neposredno sporočanje
 vcard-impp-add = Dodaj račun za klepet
 vcard-impp-label = Račun za klepet
