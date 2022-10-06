@@ -5,6 +5,9 @@
 sanitize-prefs =
     .title = ისტორიის გასუფთავების პარამეტრები
     .style = width: 34em
+sanitize-prefs2 =
+    .title = ისტორიის გასუფთავების პარამეტრები
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
