@@ -13,8 +13,6 @@ change-password-old = ಪ್ರಸ್ತುತ ಗುಪ್ತಪದ:
 change-password-new = ಹೊಸ ಗುಪ್ತಪದ:
 change-password-reenter = ಹೊಸ ಗುಪ್ತಪದ (ಮತ್ತೊಮ್ಮೆ):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ
     .style = width: 46em
+download-cert-window2 =
+    .title = ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ
+    .style = min-width: 46em
 download-cert-message = ಒಂದು ಹೊಸ ಪ್ರಮಾಣಪತ್ರ ಅಥಾರಿಟಿಯನ್ನು(CA) ನಂಬುವಂತೆ ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗಿದೆ .
 download-cert-trust-ssl =
     .label = ಜಾಲ ತಾಣಗಳನ್ನು ಗುರುತಿಸಲು ಈ CA ಅನ್ನು ನಂಬು.
