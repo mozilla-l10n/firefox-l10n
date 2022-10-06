@@ -34,6 +34,11 @@ create-profile-last-page-header =
         [macos] সামৰণি
        *[other] { create-profile-window.title } ক সম্পূৰ্ণ কৰা হৈছে
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] সামৰণি
+       *[other] { create-profile-window2.title } ক সম্পূৰ্ণ কৰা হৈছে
+    }
 profile-creation-intro = বহুতো আলেখ্য সৃষ্টি কৰিলে আপুনি সিহঁতক আলেখ্যৰ নামেৰে চিনিব পাৰে। আপুনি ইয়াত দিয়া বা নিজৰ পছন্দৰ নাম ব্যৱহাৰ কৰিব পাৰে।
 profile-prompt = নতুন আলেখ্যৰ নাম দিয়ক:
     .accesskey = E
