@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Вовед
        *[other] Добродојдовте во „{ create-profile-window.title }“
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Вовед
+       *[other] Добродојдовте во „{ create-profile-window2.title }“
+    }
 profile-creation-explanation-1 = { -brand-short-name } ги чува информациите за вашите поставки и параметри во вашиот личен профил.
 profile-creation-explanation-2 = Ако ја делите оваа копија на { -brand-short-name } со други корисници, можете да ги користите профилите за да чувате информациите за секој од нив на посебно место. За да се направи ова, секој корисник треба да си направи сопствен профил.
 profile-creation-explanation-3 = Ако вие сте единствените кои ја користите оваа копија на { -brand-short-name }, тогаш мора да имате барем еден профил. Ако сакате, можете да креирате повеќе профили за себе, за да чувате различни поставки и параметри. На пример, може да имате профили за лична и бизнис употреба.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Заклучок
        *[other] Комплетирање на „{ create-profile-window.title }“
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Заклучок
+       *[other] Комплетирање на „{ create-profile-window2.title }“
     }
 profile-creation-intro = Ако креирате повеќе профили можете да ги разликувате по нивните имиња. Можете да ги користите имињата наведени овде или да користите ваши имиња.
 profile-prompt = Внесете име за новиот профил:
