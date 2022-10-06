@@ -5,14 +5,14 @@
 sanitize-prefs =
     .title = Iisethingi zokususa imbali
     .style = width: 34em
-
+sanitize-prefs2 =
+    .title = Iisethingi zokususa imbali
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
-
 dialog-title =
     .title = Susa iMbali Yakutshanje
     .style = width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
@@ -30,22 +30,16 @@ dialog-title-everything =
 clear-time-duration-prefix =
     .value = Ubungakanani bexesha lokususa:{ " " }
     .accesskey = b
-
 clear-time-duration-value-last-hour =
     .label = Iyure yokugqibela
-
 clear-time-duration-value-last-2-hours =
     .label = Iiyure ezimbini zokugqibela
-
 clear-time-duration-value-last-4-hours =
     .label = Iiyure ezinezokugqibela
-
 clear-time-duration-value-today =
     .label = Namhla
-
 clear-time-duration-value-everything =
     .label = Yonke into
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -53,51 +47,38 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Imbali
-
 item-history-and-downloads =
     .label = Ukubhrawuza nembali yokukhuphela
     .accesskey = U
-
 item-cookies =
     .label = Iikhukhi
     .accesskey = k
-
 item-active-logins =
     .label = Iilogin ezisebenzayo
     .accesskey = I
-
 item-cache =
     .label = Uvimba wethutyana
     .accesskey = m
-
 item-form-search-history =
     .label = Ifom nembali yokukhangela
     .accesskey = I
-
 data-section-label = Iingcombolo
-
 item-offline-apps =
     .label = Iingcombolo zewebhusayithi engekho kwinethiwekhi
     .accesskey = e
-
 sanitize-everything-undo-warning = Eli nyathelo alinakujikwa.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Susa ngoku
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Ukususa
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Yonke imbali iza kususwa.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
