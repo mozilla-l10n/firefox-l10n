@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Wizard Profiel aanmaken
     .style = width: 50em; height: 37em;
+create-profile-window2 =
+    .title = Wizard Profiel aanmaken
+    .style = min-width: 50em; min-height: 37em;
 
 ## First wizard page
 
