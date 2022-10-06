@@ -4,119 +4,91 @@
 
 certmgr-title =
     .title = சான்றிதழ் மேலாளர்
-
 certmgr-tab-mine =
     .label = உங்கள் சான்றிதழ்கள்
-
 certmgr-tab-people =
     .label = மக்கள்
-
 certmgr-tab-servers =
     .label = சேவையகங்கள்
-
 certmgr-tab-ca =
     .label = அதிகாரம் உள்ளவர்கள்
-
 certmgr-edit-ca-cert =
     .title = CA சான்றிதழ் நம்பகத்தன்மை அமைப்பை மாற்று
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = CA சான்றிதழ் நம்பகத்தன்மை அமைப்பை மாற்று
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = நம்பகத்தன்மை அமைப்பை மாற்று:
-
 certmgr-edit-cert-trust-ssl =
     .label = இந்த சான்றிதழ் இணைய தளங்களை கண்டுபிடிக்கும்.
-
 certmgr-edit-cert-trust-email =
     .label = இந்த சான்றிதழ் மின்னஞ்சல் பயனர்களை கண்டுபிடிக்கும்.
-
 certmgr-delete-cert =
     .title = சான்றிதழை நீக்கு
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = சான்றிதழை நீக்கு
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = சான்றிதழ் பெயர்
-
 certmgr-cert-server =
     .label = சேவையகம்
-
 certmgr-override-lifetime =
     .label = வாழ்நாள் முழுவதும்
-
 certmgr-token-name =
     .label = பாதுகாப்பு சாதனம்
-
 certmgr-begins-label =
     .label = தொடங்கும் நாள்
-
 certmgr-expires-label =
     .label = காலாவதியாகும் நாள்
-
 certmgr-email =
     .label = மின்னஞ்சல் முகவரி
-
 certmgr-serial =
     .label = வரிசை எண்
-
 certmgr-view =
     .label = பார்...
     .accesskey = V
-
 certmgr-edit =
     .label = திருத்து...
     .accesskey = E
-
 certmgr-export =
     .label = ஏற்றுமதி...
     .accesskey = x
-
 certmgr-delete =
     .label = அழி...
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = அழி அல்லது நம்பாதே…
     .accesskey = D
-
 certmgr-backup =
     .label = காப்பு...
     .accesskey = B
-
 certmgr-backup-all =
     .label = அனைத்தையும் காப்பு செய்...
     .accesskey = k
-
 certmgr-restore =
     .label = இறக்கு...
     .accesskey = m
-
 certmgr-add-exception =
     .label = விதிவிலக்கு சேர்...
     .accesskey = x
-
 exception-mgr =
     .title = பாதுகாப்பு விதிவிலக்கை சேர்
-
 exception-mgr-extra-button =
     .label = பாதுகாப்பு விதிவிலக்கை உறுதிப்படுத்து
     .accesskey = C
-
 exception-mgr-supplemental-warning = Legitimate வங்கிகள், ஸ்டோர்கள் மற்றும் பிற பொது இணைய தளங்களில் இதனை செய்ய சொல்லாது.
-
 exception-mgr-cert-location-url =
     .value = இருப்பிடம்:
-
 exception-mgr-cert-location-download =
     .label = சான்றிதழ் பெறு
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = பார்…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = நிரந்தரமாக இந்த விதிவிலக்கில் சேமி
     .accesskey = P
-
 pk11-bad-password = உள்ளிடப்பட்ட கடவுச்சொல் தவறானது.
 pkcs12-decode-err = கோப்பை குறிநீக்கம் செய்தல் தோல்வியடைந்தது.  அது PKCS #12 வடிவமைப்பில் இல்லை, அல்லது சிதைந்துள்ளது அல்லது நீங்கள் உள்ளிட்ட கடவுச்சொல் தவறானது.
 pkcs12-unknown-err-restore = தெரியாத காரணங்களால், PKCS #12 கோப்பை மீட்டமைப்பது தோல்வியடைந்தது.
@@ -149,19 +121,14 @@ delete-user-cert-title =
     .title = உங்கள் சான்றிதழ்களை அழி
 delete-user-cert-confirm = இந்த சான்றிதழ்களை அழிக்க வேண்டுமா?
 delete-user-cert-impact = If you delete one of your own certificates,  you can no longer use it to identify yourself.
-
-
 delete-ca-cert-title =
     .title = CA சான்றிதழ்களை அழி
 delete-ca-cert-confirm = இந்த CA சான்றிதழ்களை அழிக்க வேண்டுமா?
 delete-ca-cert-impact = If you delete a certificate authority (CA) certificate,  this application will no longer trust any certificates issued by that CA.
-
-
 delete-email-cert-title =
     .title = மின்னஞ்சல் சான்றிதழ்களை அழி
 delete-email-cert-confirm = இந்த நபர்களின் மின்னஞ்சல் சான்றிதழ்களை அழிக்க வேண்டுமா?
 delete-email-cert-impact = If you delete a person's e-mail certificate,  you will no longer be able to send encrypted e-mail to that person.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -169,9 +136,8 @@ delete-email-cert-impact = If you delete a person's e-mail certificate,  you wil
 cert-with-serial =
     .value = வரிசை எண் கொண்ட சான்றிதழ்: { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
