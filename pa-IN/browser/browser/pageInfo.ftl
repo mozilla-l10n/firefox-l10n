@@ -104,7 +104,7 @@ security-view-privacy-viewpasswords =
     .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਵੇਖੋ
     .accesskey = w
 security-view-technical =
-    .value = ਤਕਨੀਕੀ ਵੇਰਵਾ
+    .value = ਤਕਨੀਕੀ ਵੇਰਵੇ
 help-button =
     .label = ਮਦਦ
 
