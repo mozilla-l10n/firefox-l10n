@@ -36,6 +36,10 @@ vcard-n-suffix = Efterheaksel
 vcard-n-add-suffix =
     .title = Efterheaksel tafoegje
 
+# Nickname
+
+vcard-nickname = Bynamme
+
 # Email vCard field
 
 vcard-email-header = E-mailadressen
@@ -54,6 +58,10 @@ vcard-url-label = Website
 vcard-tel-header = Telefoannûmers
 vcard-tel-add = Telefoannûmer tafoegje
 vcard-tel-label = Telefoannûmer
+# Or "Mobile"
+vcard-entry-type-cell = Mobyl
+vcard-entry-type-fax = Faks
+vcard-entry-type-pager = Piper
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Tiidsône tafoegje
 
 # IMPP vCard field
 
-vcard-impp-header = Chataccounts
 vcard-impp2-header = Ynstant-berjochten
 vcard-impp-add = Chataccount tafoegje
 vcard-impp-label = Chataccount

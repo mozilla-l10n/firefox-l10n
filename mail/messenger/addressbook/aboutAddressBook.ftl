@@ -21,7 +21,16 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Alle adresboeken
 all-address-books = Alle adresboeken
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Totaal oantal kontakten yn { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Totaal oantal kontakten yn alle adresboeken: { $count }
 about-addressbook-books-context-properties =
     .label = Eigenskippen
 about-addressbook-books-context-edit-list =
@@ -87,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = E-mailadressen
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Bynamme
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Telefoannûmers
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -169,10 +181,23 @@ about-addressbook-placeholder-no-search-results = Gjin kontakten fûn
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } selektearre kontakten en listen
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } selektearre kontakten
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } selektearre listen
+about-addressbook-details-edit-photo =
+    .title = Kontaktfoto bewurkje
+about-addressbook-new-contact-header = Nij kontakt
 about-addressbook-prefer-display-name = Werjeftenamme boppe berjochtkop ferkieze
 about-addressbook-write-action-button = Opstelle
 about-addressbook-event-action-button = Barren
 about-addressbook-search-action-button = Sykje
+about-addressbook-new-list-action-button = Nije list
 about-addressbook-begin-edit-contact-button = Bewurkje
 about-addressbook-delete-edit-contact-button = Fuortsmite
 about-addressbook-cancel-edit-contact-button = Annulearje
@@ -183,6 +208,7 @@ about-addressbook-details-phone-numbers-header = Telefoannûmers
 about-addressbook-details-addresses-header = Adressen
 about-addressbook-details-notes-header = Opmerkingen
 about-addressbook-details-impp-header = Ynstant-berjochten
+about-addressbook-details-websites-header = Websites
 about-addressbook-details-other-info-header = Oare ynformaasje
 about-addressbook-entry-type-work = Wurk
 about-addressbook-entry-type-home = Thús
@@ -197,6 +223,10 @@ about-addressbook-entry-name-role = Rol
 about-addressbook-entry-name-organization = Organisaasje
 about-addressbook-entry-name-website = Website
 about-addressbook-entry-name-time-zone = Tiidsône
+about-addressbook-entry-name-custom1 = Oars 1
+about-addressbook-entry-name-custom2 = Oars 2
+about-addressbook-entry-name-custom3 = Oars 3
+about-addressbook-entry-name-custom4 = Oars 4
 about-addressbook-unsaved-changes-prompt-title = Net bewarre wizigingen
 about-addressbook-unsaved-changes-prompt = Wolle jo jo wizigingen bewarje eardat jo de bewurkingswerjefte ferlitte?
 
