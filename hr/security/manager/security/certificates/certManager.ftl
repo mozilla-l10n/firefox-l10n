@@ -4,126 +4,93 @@
 
 certmgr-title =
     .title = Upravljač certifikata
-
 certmgr-tab-mine =
     .label = Tvoji certifikati
-
 certmgr-tab-people =
     .label = Osobe
-
 certmgr-tab-servers =
     .label = Poslužitelji
-
 certmgr-tab-ca =
     .label = Certifikacijska tijela
-
 certmgr-mine = Imaš certifikate sljedećih organizacija koje te identificiraju
 certmgr-people = Imaš spremljene certifikate koji identificiraju sljedeće osobe
 certmgr-ca = Imaš spremljene certifikate koji identificiraju ova certifikacijska tijela
-
 certmgr-edit-ca-cert =
     .title = Uredi postavke povjerenja CA-ovih certifikata
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Uredi postavke povjerenja CA-ovih certifikata
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Uredi postavke povjerenja:
-
 certmgr-edit-cert-trust-ssl =
     .label = Ovaj certifikat može identificirati web stranice.
-
 certmgr-edit-cert-trust-email =
     .label = Ovaj certifikat može identificirati korisnike e-pošte.
-
 certmgr-delete-cert =
     .title = Izbriši certifikat
     .style = width: 48em; height: 24em;
-
 certmgr-cert-host =
     .label = Poslužitelj
-
 certmgr-cert-name =
     .label = Naziv certifikata
-
 certmgr-cert-server =
     .label = Poslužitelj
-
 certmgr-override-lifetime =
     .label = Vijek trajanja
-
 certmgr-token-name =
     .label = Sigurnosni uređaj
-
 certmgr-begins-label =
     .label = Počinje na
-
 certmgr-expires-label =
     .label = Isteći će
-
 certmgr-email =
     .label = Adresa e-pošte
-
 certmgr-serial =
     .label = Serijski broj
-
 certmgr-view =
     .label = Pogled…
     .accesskey = P
-
 certmgr-edit =
     .label = Uredi povjerenje…
     .accesskey = U
-
 certmgr-export =
     .label = Izvezi …
     .accesskey = z
-
 certmgr-delete =
     .label = Izbriši …
     .accesskey = b
-
 certmgr-delete-builtin =
     .label = Izbriši ili ne vjeruj …
     .accesskey = I
-
 certmgr-backup =
     .label = Izradi sigurnosnu kopiju …
     .accesskey = s
-
 certmgr-backup-all =
     .label = Izradi sigurnosnu kopiju za sve …
     .accesskey = k
-
 certmgr-restore =
     .label = Uvezi …
     .accesskey = v
-
 certmgr-add-exception =
     .label = Dodaj iznimku…
     .accesskey = D
-
 exception-mgr =
     .title = Dodaj sigurnosnu iznimku
-
 exception-mgr-extra-button =
     .label = Potvrdi sigurnosnu iznimku
     .accesskey = r
-
 exception-mgr-supplemental-warning = Legitimne banke, trgovine i ostale javne stranice te neće tražiti da ovo učiniš.
-
 exception-mgr-cert-location-url =
     .value = Lokacija:
-
 exception-mgr-cert-location-download =
     .label = Preuzmi certifikat
     .accesskey = c
-
 exception-mgr-cert-status-view-cert =
     .label = Pogled…
     .accesskey = P
-
 exception-mgr-permanent =
     .label = Trajno spremi ovu iznimku
     .accesskey = i
-
 pk11-bad-password = Lozinka koju ste upisali je bila netočna.
 pkcs12-decode-err = Dekodiranje datoteke nije uspjelo. Ili datoteka nije u PKCS #12 formatu ili je oštećena ili je lozinka koju ste unijeli bila kriva.
 pkcs12-unknown-err-restore = Vraćanje PKCS #12 datoteke nije uspjelo zbog nepoznatih razloga.
@@ -156,28 +123,21 @@ delete-user-cert-title =
     .title = Izbriši svoje certifikate
 delete-user-cert-confirm = Stvarno želiš izbrisati ove certifikate?
 delete-user-cert-impact = Ako izbrišeš jedan od vlastitih certifikata, više ga nećeš moći koristiti za identifikaciju.
-
-
 delete-ssl-override-confirm = Sigurno izbrisati ovu iznimku poslužitelja?
-
 delete-ca-cert-title =
     .title = Brisanje ili poništavanje povjerenja CA certifikata
 delete-ca-cert-confirm = Zatražio/la si brisanje ovih CA certifikata. Za ugrađene certifikate uklonit će se sva povjerenja, što ima isti efekt. Zaista želiš izbrisati certifikate ili poništiti povjerenje?
 delete-ca-cert-impact = Ako izbrišeš ili poništiš povjerenje za certifikat certifikacijskog tijela, ovaj program više neće vjerovati certifikatima koje izdaje to certifikacijsko tijelo.
-
-
 delete-email-cert-title =
     .title = Izbriši certifikate e-pošte
 delete-email-cert-confirm = Stvarno želiš izbrisati certifikate e-pošte ovih ljudi?
 delete-email-cert-impact = Ako izbrišete certifikat e-pošte određene osobe, više nećeš moći toj osobi slati šifrirane e-poruke.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certifikat sa serijskim brojem: { $serialNumber }
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (nije pohranjeno)
 
