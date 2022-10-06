@@ -5,6 +5,9 @@
 sanitize-prefs =
     .title = ඉතිහාසය හිස් කිරීමට සැකසුම්
     .style = width: 34em
+sanitize-prefs2 =
+    .title = ඉතිහාසය හිස් කිරීමට සැකසුම්
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
