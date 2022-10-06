@@ -5,7 +5,8 @@
 app-manager-window-dialog =
     .title = Forritsupplýsingar
     .style = width: 30em; min-height: 20em;
-
+app-manager-window-dialog2 =
+    .title = Upplýsingar um forrit
 remove-app-button =
     .label = Fjarlægja
     .accesskey = r

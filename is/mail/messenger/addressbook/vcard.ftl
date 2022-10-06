@@ -36,6 +36,10 @@ vcard-n-suffix = Viðskeyti
 vcard-n-add-suffix =
     .title = Bæta við viðskeyti
 
+# Nickname
+
+vcard-nickname = Gælunafn
+
 # Email vCard field
 
 vcard-email-header = Tölvupóstföng
@@ -54,6 +58,10 @@ vcard-url-label = Vefsvæði
 vcard-tel-header = Símanúmer
 vcard-tel-add = Bæta við símanúmeri
 vcard-tel-label = Símanúmer
+# Or "Mobile"
+vcard-entry-type-cell = Farsími
+vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Símboði
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Bæta við tímabelti
 
 # IMPP vCard field
 
-vcard-impp-header = Spjallreikningar
 vcard-impp2-header = Snarskilaboð
 vcard-impp-add = Bæta við spjallreikningi
 vcard-impp-label = Spjallreikningur
