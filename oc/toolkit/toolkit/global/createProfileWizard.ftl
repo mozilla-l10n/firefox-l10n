@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Introduccion
        *[other] { create-profile-window.title } - Benvenguda
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Introduccion
+       *[other] { create-profile-window2.title } - Benvenguda
+    }
 profile-creation-explanation-1 = { -brand-short-name } garda las informacions que concernisson vòstres paramètres e preferéncias dins vòstre perfil personal.
 profile-creation-explanation-2 = Se partejatz aquesta còpia de { -brand-short-name } amb d'autres utilizaires, podètz utilizar los perfils per gardar las informacions de cada utilizaire separadas. Per aquò far, cada utilizaire deurà crear son perfil pròpri.
 profile-creation-explanation-3 = Se sètz la sola persona qu'utilize aquesta còpia de { -brand-short-name }, vos cal aver al mens un perfil. S'o desiratz, podètz crear diferents perfils per vos-meteis. Per exemple, podètz voler dispausar de perfils separats per vòstra utilizacion personala e professionala.
