@@ -34,6 +34,11 @@ create-profile-last-page-header =
         [macos] Daaneel bi
        *[other] { create-profile-window.title } - Jeexal bi
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Daaneel bi
+       *[other] { create-profile-window2.title } - Jeexal bi
+    }
 profile-creation-intro = Soo bëggee sos jëmmalin yu bari, mën nga leen raññee ak tur yu wuute. Mën nga jël tur bi ñu la jox walla nga wutal sa bopp.
 profile-prompt = Duggalal turu jëmmalin bu bees bi:
     .accesskey = D
