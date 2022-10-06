@@ -9,34 +9,29 @@ dock-options-window-dialog =
            *[other] Taakbalkitemopties
         }
     .style = width: 35em;
-
+dock-options-window-dialog2 =
+    .title = Programmasymboolopties
 dock-options-show-badge =
     .label = Taakbalkitemmarkering tonen
     .accesskey = T
-
 bounce-system-dock-icon =
     .label = Het programmasymbool laten bewegen als een nieuw bericht binnenkomt
     .accesskey = b
-
 dock-icon-legend =
     { PLATFORM() ->
         [macos] Programmasymboolmarkering
        *[other] Taakbalkitemmarkering
     }
-
 dock-icon-show-label =
     .value =
         { PLATFORM() ->
             [macos] Programmasymbool markeren met:
            *[other] Taakbalkitem markeren met:
         }
-
 count-unread-messages-radio =
     .label = Aantal ongelezen berichten
     .accesskey = o
-
 count-new-messages-radio =
     .label = Aantal nieuwe berichten
     .accesskey = n
-
 notification-settings-info2 = U kunt de badge uitschakelen via het paneel Berichtgeving in Systeeminstellingen.

@@ -5,7 +5,8 @@
 app-manager-window-dialog =
     .title = Toepassingsdetails
     .style = width: 30em; min-height: 20em;
-
+app-manager-window-dialog2 =
+    .title = Toepassingsdetails
 remove-app-button =
     .label = Verwijderen
     .accesskey = V
