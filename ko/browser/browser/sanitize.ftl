@@ -5,6 +5,9 @@
 sanitize-prefs =
     .title = 기록 지우기 설정
     .style = width: 34em
+sanitize-prefs2 =
+    .title = 기록 지우기 설정
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
