@@ -13,8 +13,6 @@ change-password-old = Current password:
 change-password-new = New password:
 change-password-reenter = New password (again):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Downloading Certificate
     .style = width: 46em
+download-cert-window2 =
+    .title = Downloading Certificate
+    .style = min-width: 46em
 download-cert-message = You have been asked to trust a new Certificate Authority (CA).
 download-cert-trust-ssl =
     .label = Trust this CA to identify websites.
