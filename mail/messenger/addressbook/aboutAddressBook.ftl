@@ -21,7 +21,16 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Összes címjegyzék
 all-address-books = Minden címjegyzék
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Összes névjegy száma itt: { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Összes névjegy száma az összes címjegyzékben: { $count }
 about-addressbook-books-context-properties =
     .label = Tulajdonságok
 about-addressbook-books-context-edit-list =
@@ -87,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = E-mail-címek
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Becenév
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Telefonszámok
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -169,10 +181,23 @@ about-addressbook-placeholder-no-search-results = Nem találhatók névjegyek
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } kiválasztott névjegy és lista
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } kiválasztott névjegy
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } kiválasztott lista
+about-addressbook-details-edit-photo =
+    .title = Névjegyfotó szerkesztése
+about-addressbook-new-contact-header = Új névjegy
 about-addressbook-prefer-display-name = Megjelenő név előnyben részesítése az üzenetfejlécben levő helyett
 about-addressbook-write-action-button = Írás
 about-addressbook-event-action-button = Esemény
 about-addressbook-search-action-button = Keresés
+about-addressbook-new-list-action-button = Új lista
 about-addressbook-begin-edit-contact-button = Szerkesztés
 about-addressbook-delete-edit-contact-button = Törlés
 about-addressbook-cancel-edit-contact-button = Mégse
@@ -183,6 +208,7 @@ about-addressbook-details-phone-numbers-header = Telefonszámok
 about-addressbook-details-addresses-header = Címek
 about-addressbook-details-notes-header = Jegyzetek
 about-addressbook-details-impp-header = Azonnali üzenetküldés
+about-addressbook-details-websites-header = Webhelyek
 about-addressbook-details-other-info-header = Egyéb információk
 about-addressbook-entry-type-work = Munkahelyi
 about-addressbook-entry-type-home = Otthoni
@@ -197,6 +223,10 @@ about-addressbook-entry-name-role = Szerep
 about-addressbook-entry-name-organization = Szervezet
 about-addressbook-entry-name-website = Webhely
 about-addressbook-entry-name-time-zone = Időzóna
+about-addressbook-entry-name-custom1 = 1. egyéni
+about-addressbook-entry-name-custom2 = 2. egyéni
+about-addressbook-entry-name-custom3 = 3. egyéni
+about-addressbook-entry-name-custom4 = 4. egyéni
 about-addressbook-unsaved-changes-prompt-title = Nem mentett módosítások
 about-addressbook-unsaved-changes-prompt = Menti a módosításokat, mielőtt kilép a szerkesztési nézetből?
 
