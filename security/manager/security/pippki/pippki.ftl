@@ -13,8 +13,6 @@ change-password-old = Focal Faire Reatha:
 change-password-new = Focal Faire Nua:
 change-password-reenter = Focal Faire Nua (Arís):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Teastas á íoslódáil
     .style = width: 46em
+download-cert-window2 =
+    .title = Teastas á íoslódáil
+    .style = min-width: 46em
 download-cert-message = Iarrtar ort muinín a bheith agat as Údarás Deimhniúcháin nua.
 download-cert-trust-ssl =
     .label = Tá muinín agat as an údarás deimhniúcháin seo chun suímh Ghréasáin a shainaithint.
