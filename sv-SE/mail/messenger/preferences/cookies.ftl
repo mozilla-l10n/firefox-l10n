@@ -5,28 +5,22 @@
 cookies-window-dialog =
     .title = Kakor
     .style = width: 36em;
-
+cookies-window-dialog2 =
+    .title = Kakor
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Sök:
     .accesskey = S
-
 cookies-on-system-label = Följande kakor lagras på datorn:
-
 treecol-site-header =
     .label = Webbplats
-
 treecol-name-header =
     .label = Kakans namn
-
 props-name-label =
     .value = Namn:
 props-value-label =
@@ -41,15 +35,12 @@ props-expires-label =
     .value = Förfaller:
 props-container-label =
     .value = Behållare:
-
 remove-cookie-button =
     .label = Ta bort
     .accesskey = T
-
 remove-all-cookies-button =
     .label = Ta bort alla
     .accesskey = a
-
 cookie-close-button =
     .label = Stäng
     .accesskey = ä
