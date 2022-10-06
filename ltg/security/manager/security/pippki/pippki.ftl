@@ -13,8 +13,6 @@ change-password-old = Pošreizejuo parole:
 change-password-new = Jaunō parole:
 change-password-reenter = Jaunō parole (vēļreiz):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Lejupīluodē sertifikatus
     .style = width: 46em
+download-cert-window2 =
+    .title = Lejupīluodē sertifikatus
+    .style = min-width: 46em
 download-cert-message = Jiusim tīk vaicuots uzaticeitīs jaunai Sertifikatu Autoritatei (CA).
 download-cert-trust-ssl =
     .label = Uzaticeitīs itai CA šķārsteikla vītņu identificiešonai.
