@@ -32,6 +32,11 @@ create-profile-last-page-header =
         [macos] Rumusan
        *[other] Menyelesaikan { create-profile-window.title }
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Rumusan
+       *[other] Menyelesaikan { create-profile-window2.title }
+    }
 profile-creation-intro = Jika anda mencipta beberapa profil anda boleh panggilnya dengan nama profil. Anda boleh gunakan nama yang disediakan atau gunakan nama yang anda pilih.
 profile-prompt = Masukkan nama profil baru:
     .accesskey = a
