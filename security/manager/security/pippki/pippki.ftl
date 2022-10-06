@@ -13,8 +13,6 @@ change-password-old = सध्याचा पासवर्ड:
 change-password-new = नवीन पासवर्ड:
 change-password-reenter = नवीन पासवर्ड(पुन्हा):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = प्रमाणपत्र डाउनलोड करत आहे
     .style = width: 46em
+download-cert-window2 =
+    .title = प्रमाणपत्र डाउनलोड करत आहे
+    .style = min-width: 46em
 download-cert-message = आपणास नवीन प्रमाणपत्र अधिप्रमाणन (CA) वर विश्वास ठेवण्यास कळवण्यात आले आहे.
 download-cert-trust-ssl =
     .label = संकेत स्थळे ओळखण्याकरिता ह्या CA वर विश्वास ठेवा.
