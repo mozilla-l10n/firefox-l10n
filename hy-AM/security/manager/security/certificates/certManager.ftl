@@ -4,130 +4,96 @@
 
 certmgr-title =
     .title = Վկայագրերի Կառավարիչ
-
 certmgr-tab-mine =
     .label = Ձեր Արտոնաթղթերը
-
 certmgr-tab-remembered =
     .label = Նույնականացման որոշումներ
-
 certmgr-tab-people =
     .label = Մարդիք
-
 certmgr-tab-servers =
     .label = Սերվերներ
-
 certmgr-tab-ca =
     .label = Հեղինակություններ
-
 certmgr-mine = Դուք ունեք ձեր անձը նույնացնող վկայագրեր հետևյալ կազմակերպություններից։
 certmgr-remembered = Այս վկայագրերն օգտագործվում են ձեզ վեբ կայքերում նույնականացնելու համար
 certmgr-people = Դուք ունեք պահպանված արտոնաթղթեր, որոնք այս անձանց նույնացնում են։
 certmgr-ca = Դուք ունեք պահպանված վկայագրեր, որոնք այս հեղինակությունները նույնացնում են։
-
 certmgr-edit-ca-cert =
     .title = Խմբագրել CA Վկայագրի վստահության դրույթները
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Խմբագրել CA Վկայագրի վստահության դրույթները
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Խմբագրել վստահության դրույթները
-
 certmgr-edit-cert-trust-ssl =
     .label = Այս Վկայագիրը կարող է վեբ հանգույցներ նույնացնել:
-
 certmgr-edit-cert-trust-email =
     .label = Այս Վկայագիրը կարող է էլ-փոստ օգտվ. նույնացնել:
-
 certmgr-delete-cert =
     .title = Հեռացնել Վկայագիրը
     .style = width: 48em; height: 24em;
-
 certmgr-cert-host =
     .label = Հանգույց
-
 certmgr-cert-name =
     .label = Վկայագրի Անունը
-
 certmgr-cert-server =
     .label = Սպասարկիչ
-
 certmgr-override-lifetime =
     .label = Տևողություն
-
 certmgr-token-name =
     .label = Անվտանգության Սարք
-
 certmgr-begins-label =
     .label = Սկսում է՝
-
 certmgr-expires-label =
     .label = Ժամկետը ավարտվում է՝
-
 certmgr-email =
     .label = Էլ-Փոստ հասցեն
-
 certmgr-serial =
     .label = Հերթ. Համարը
-
 certmgr-view =
     .label = Դիտել...
     .accesskey = Դ
-
 certmgr-edit =
     .label = Խմբագրել վստահությունը
     .accesskey = Խ
-
 certmgr-export =
     .label = Արտահանել...
     .accesskey = Ա
-
 certmgr-delete =
     .label = Ջնջում...
     .accesskey = Ջ
-
 certmgr-delete-builtin =
     .label = Ջնջել կամ Չվստահել
     .accesskey = Ջ
-
 certmgr-backup =
     .label = Պահուստացում...
     .accesskey = Պ
-
 certmgr-backup-all =
     .label = Վերականգնում Ամենը...
     .accesskey = Վ
-
 certmgr-restore =
     .label = Ներմուծել…
     .accesskey = ե
-
 certmgr-add-exception =
     .label = Ավելացնել բացառություն...
     .accesskey = բ
-
 exception-mgr =
     .title = Ավելացնել Անվտանգության Բացառություն
-
 exception-mgr-extra-button =
     .label = Հաստատել Անվտանգության Բացառությունը
     .accesskey = Հ
-
 exception-mgr-supplemental-warning = Օրինական բանկեր, խանութներ և այլ հասարակական կայքեր չեն խնդրի ձեզանից անել սա:
-
 exception-mgr-cert-location-url =
     .value = Հասցեն.
-
 exception-mgr-cert-location-download =
     .label = Ստանալ Վկայագիրը
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = Դիտել...
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Ընդմիշտ պահել այս բացառությունը
     .accesskey = Ը
-
 pk11-bad-password = Նշված Գաղտնաբառը հավաստի չէր:
 pkcs12-decode-err = Անհնար էր գաղտնազերծել ֆայլը: Նա կամ PKCS #12 կառուցվածք չուներ, կամ վնասվել էր, կամ էլ նշված գաղտնաբառը ճշգրիտ չէր:
 pkcs12-unknown-err-restore = PKCS#12 Ֆայլի վերականգնումը անհայտ պատճառով խափանվեց:
@@ -160,19 +126,14 @@ delete-user-cert-title =
     .title = Հեռացնել Ձեր Արտոնագիրը
 delete-user-cert-confirm = Դուք վստա՞հ եք, որ ցանկանում եք ջնջել այս հավաստագրերը։
 delete-user-cert-impact = Եթե հեռացնեք Ձեր արտոնաթղթերից մեկը, ապա այլևս իվիճակի չէք լինի Ձեր ինքնությունը հաստատելու համար այն օգտագործել:
-
-
 delete-ca-cert-title =
     .title = Ջնջում կամ Անվստահություն Վկայագրերի Կենտրոնի (CA) Վկայագրերին
 delete-ca-cert-confirm = Դուք պատրաստվում եք ջնջել այս CA վկայագրերը: Եթե տվյալ վկայագրերի ցանկում առկա են ներկառուցված վկայագրեր, ապա դրանք կհամարվեն անվստահելի: Ջնջե՞լ դրանք և հայտարարել անվստահելի:
 delete-ca-cert-impact = Եթե ջնջեք կամ չվստահեք Վկայագրման կենտրոնի (CA) Վկայագրին, ապա ծրագիրը այլևս չի վստահլի այս CA-ի Վկայագրերին:
-
-
 delete-email-cert-title =
     .title = Ջնջել Էլ-Փոստ արտոնագրերը
 delete-email-cert-confirm = Իրո՞ք ցանկանում եք այս անձանց էլ. փոստ արտոնագրերը հեռացնել:
 delete-email-cert-impact = Եթե Դուք ջնջեք անձի էլ. փոստի Վկայագիրը, ապա Դուք այլևս չեք կարողանա ուղարկել կոդավորված էլ. նամակ տվյալ անձին:
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -180,9 +141,8 @@ delete-email-cert-impact = Եթե Դուք ջնջեք անձի էլ. փոստի 
 cert-with-serial =
     .value = Վկայագրել հաջորդական համարով՝ { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
