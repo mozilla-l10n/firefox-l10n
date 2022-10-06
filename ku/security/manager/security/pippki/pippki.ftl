@@ -13,8 +13,6 @@ change-password-old = Nasnavê Niha:
 change-password-new = Nasnavê nû:
 change-password-reenter = Nasnavê nû (dubare):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Sertîfîka tê jêbarkirin
     .style = width: 46em
+download-cert-window2 =
+    .title = Sertîfîka tê jêbarkirin
+    .style = min-width: 46em
 download-cert-message = Te Ewlekariya Rêvebira Sertîfîkayeke nû (CA) pirs kir.
 download-cert-trust-ssl =
     .label = Ev CA ji bo diyarkirina malperan ewle ye.
