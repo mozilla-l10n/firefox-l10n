@@ -5,13 +5,13 @@
 profiledowngrade-window =
     .title = Lañset ho peus un handelv kozh eus { -brand-product-name }
     .style = width: 490px;
-
+profiledowngrade-window2 =
+    .title = Lañset ho peus un handelv kozh eus { -brand-product-name }
+    .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = Krouiñ un aelad nevez
-
 profiledowngrade-sync = Arverañ un handelv koshoc'h eus { -brand-product-name } a c'hall kontroniñ ho sinedoù hag ho roll istor enrollet en un aelad { -brand-product-name } a zo dioutañ endeo. Evit gwareziñ ho titouroù, krouit un aelad nevez evit ar staliadur-mañ eus { -brand-short-name }. Gallout a rit atav kennaskañ gant ur { -fxaccount-brand-name } evit goubredañ ho sinedoù hag ho roll istor etre aeladoù.
 profiledowngrade-nosync = Ober gant un handelv kozh eus { -brand-product-name } a c'hall kontroniñ ar sinedoù  hag ar roll istor enrollet e-barzh un aelad { -brand-product-name } a zo anezhañ endeo. Evit gwareziñ ho titouroù, krouit un aelad nevez evit ar staliadur-mañ eus { -brand-short-name }.
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
