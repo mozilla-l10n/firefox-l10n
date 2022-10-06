@@ -13,8 +13,6 @@ change-password-old = گذرواژهٔ فعلی:
 change-password-new = گذرواژهٔ جدید:
 change-password-reenter = گذرواژهٔ جدید (دوباره وارد کنید):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = در حال بارگیری گواهی
     .style = width: 46em
+download-cert-window2 =
+    .title = در حال بارگیری گواهی
+    .style = min-width: 46em
 download-cert-message = از شما تقاضا شده به یک مرجع صدور گواهی جدید اعتماد کنید.
 download-cert-trust-ssl =
     .label = برای تشخیص هویت وب‌گاه‌ها به این مرجع صدور گواهی اعتماد شود.

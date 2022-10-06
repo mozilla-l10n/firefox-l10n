@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] مقدمه
        *[other] به { create-profile-window.title } خوش آمدید
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] مقدمه
+       *[other] به { create-profile-window2.title } خوش آمدید
+    }
 profile-creation-explanation-1 = { -brand-short-name } اطلاعات مربوط به تنظبمات و ترجیحات شما را در یک مجوعه تنظیمات نگه‌داری می‌کند.
 profile-creation-explanation-2 = اگر شما از این نسخه از { -brand-short-name } با کاربران دیگر به صورت اشتراکی استفاده می‌کنید، می‌توانید برای نگه‌داری تنظیمات هر کاربر به صورت جداگانه از مجموعه تنظیمات استفاده کنید. برای این کار، هر کاربری باید مجموعه تنظیمات خود را ایجاد کند.
 profile-creation-explanation-3 = اگر شما تنها کسی هستید که از این نسخه از { -brand-short-name } استفاده می‌کنید، باید حداقل یک مجموعه تنظیمات داشته باشید. اگر مایل باشید، می‌توانید به تنهایی چندین مجموعه تنظیمات داشته باشید و از هر کدام برای نگهداری تنظیمات خاصی استفاده کنید. مثلاً ممکن است بخواهید مجموعه تنظیمات مجزایی برای استفادهٔ شخصی و کاری داشته باشید.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] نتیجه
        *[other] در حال تکمیل { create-profile-window.title }
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] نتیجه
+       *[other] در حال تکمیل { create-profile-window2.title }
     }
 profile-creation-intro = اگر چندین مجموعه تنظیمات ایجاد کنید، می‌توانید آن‌ها را توسط نام از یکدیگر تشخیص دهید. می‌توانید از اسم موجود در اینجا و یا اسم دلخواه خود استفاده کنید.
 profile-prompt = نام مجموعه تنظیمات جدید را وارد کنید:
