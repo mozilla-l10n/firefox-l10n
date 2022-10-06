@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] ਜਾਣ-ਪਛਾਣ
        *[other] { create-profile-window.title } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] ਜਾਣ-ਪਛਾਣ
+       *[other] { create-profile-window2.title } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
+    }
 profile-creation-explanation-1 = { -brand-short-name } ਤੁਹਾਡੀ ਸੈਟਿੰਗ ਅਤੇ ਪਸੰਦ ਨੂੰ ਤੁਹਾਡੇ ਨਿੱਜੀ ਪਰੋਫਾਈਲ ਵਿੱਚ ਸੰਭਾਲ ਕੇ ਰੱਖਦਾ ਹੈ
 profile-creation-explanation-2 = ਜੇਕਰ ਤੁਸੀਂ { -brand-short-name } ਦੀ ਇਸ ਕਾਪੀ ਨੂੰ ਹੋਰ ਯੂਜ਼ਰਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਹਰ ਵਰਤੋਂਕਾਰ ਦੀ ਜਾਣਕਾਰੀ ਇੱਕ ਵੱਖਰੇ ਪਰੋਫਾਈਲ ਵਿੱਚ ਰੱਖ ਸਕਦੇ ਹੋ। ਇਸ ਤਰਾਂ ਕਰਨ ਲਈ  ਹਰ ਵਰਤੋਂਕਾਰ ਨੂੰ  ਆਪਣਾ ਵੱਖਰਾ ਪਰੋਫਾਈਲ ਬਣਾਉਣਾ ਚਾਹੀਦਾ ਹੈ।
 profile-creation-explanation-3 = ਜੇਕਰ ਤੁਸੀਂ ਇੱਕਲੇ ਹੀ { -brand-short-name } ਦਾ ਇਸਤੇਮਾਲ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਪਰੋਫਾਈਲ ਚਾਹੀਦਾ ਹੈ। ਜੇਕਰ ਤੁਹਾਨੂੰ ਪਸੰਦ ਹੋਵੇ ਤਾਂ ਤੁਸੀਂ ਆਪਣੇ ਲਈ ਵੱਖਰੀ ਵੱਖਰੀ ਸੈਟਿੰਗ ਤੇ ਪਸੰਦ ਸੰਭਾਲਣ ਲਈ ਕਈ ਪਰੋਫਾਈਲ ਬਣਾ ਸਕਦੇ ਹੋ। ਉਦਾਹਰਨ ਲਈ, ਵਪਾਰ ਲਈ ਅਤੇ ਨਿੱਜੀ ਇਸਤੇਮਾਲ ਲਈ ਵੱਖਰੇ ਪਰੋਫਾਈਲ ਬਣਾ ਸਕਦੇ ਹੋ।
