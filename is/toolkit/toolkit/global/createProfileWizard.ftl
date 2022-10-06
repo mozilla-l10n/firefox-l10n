@@ -5,6 +5,9 @@
 create-profile-window =
     .title = Leiðarvísir við að búa til notanda
     .style = width: 45em; height: 32em;
+create-profile-window2 =
+    .title = Leiðarvísir við að búa til notanda
+    .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
 
