@@ -21,7 +21,16 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Allar nafnaskrár
 all-address-books = Allar nafnaskrár
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Heildarfjöldi tengiliða í { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Heildarfjöldi tengiliða í öllum nafnaskrám: { $count }
 about-addressbook-books-context-properties =
     .label = Eiginleikar
 about-addressbook-books-context-edit-list =
@@ -87,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = Tölvupóstfang
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Gælunafn
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Símanúmer
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -169,10 +181,23 @@ about-addressbook-placeholder-no-search-results = Engir tengiliðir fundust
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } valdir tengiliðir og listar
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } valdir tengiliðir
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } valdir listar
+about-addressbook-details-edit-photo =
+    .title = Breyta tengiliðamynd
+about-addressbook-new-contact-header = Nýr tengiliður
 about-addressbook-prefer-display-name = Kjósa birtingarnafn fram yfir það sem stendur í haus skilaboða
 about-addressbook-write-action-button = Skrifa
 about-addressbook-event-action-button = Atburður
 about-addressbook-search-action-button = Leita
+about-addressbook-new-list-action-button = Nýr listi
 about-addressbook-begin-edit-contact-button = Breyta
 about-addressbook-delete-edit-contact-button = Eyða
 about-addressbook-cancel-edit-contact-button = Hætta við
@@ -183,6 +208,7 @@ about-addressbook-details-phone-numbers-header = Símanúmer
 about-addressbook-details-addresses-header = Tölvupóstföng
 about-addressbook-details-notes-header = Athugasemdir
 about-addressbook-details-impp-header = Snarskilaboð
+about-addressbook-details-websites-header = Vefsvæði
 about-addressbook-details-other-info-header = Aðrar upplýsingar
 about-addressbook-entry-type-work = Vinna
 about-addressbook-entry-type-home = Heima
@@ -197,6 +223,10 @@ about-addressbook-entry-name-role = Hlutverk
 about-addressbook-entry-name-organization = Fyrirtæki/Stofnun
 about-addressbook-entry-name-website = Vefsvæði
 about-addressbook-entry-name-time-zone = Tímabelti
+about-addressbook-entry-name-custom1 = Sérsniðið 1
+about-addressbook-entry-name-custom2 = Sérsniðið 2
+about-addressbook-entry-name-custom3 = Sérsniðið 3
+about-addressbook-entry-name-custom4 = Sérsniðið 4
 about-addressbook-unsaved-changes-prompt-title = Óvistaðar breytingar
 about-addressbook-unsaved-changes-prompt = Viltu vista breytingarnar þínar áður en þú ferð úr breytingaglugganum?
 
