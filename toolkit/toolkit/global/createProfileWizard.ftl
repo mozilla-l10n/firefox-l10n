@@ -32,6 +32,11 @@ create-profile-last-page-header =
         [macos] Conclusion
        *[other] { create-profile-window.title } - Fin
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Conclusion
+       *[other] { create-profile-window2.title } - Fin
+    }
 profile-creation-intro = Se creatz mantun perfil, los podètz diferenciar per lor nom. Podètz utilizar lo nom prepausat o ne causir un vos-meteis.
 profile-prompt = Picatz lo nom del perfil novèl :
     .accesskey = e
