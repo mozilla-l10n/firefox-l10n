@@ -4,44 +4,37 @@
 
 certmgr-title =
     .title = Mininjhere wa Xitifiketi
-
 certmgr-tab-mine =
     .label = Switifiketi swa wena
-
 certmgr-tab-ca =
     .label = Valawuri
-
 certmgr-edit-ca-cert =
     .title = Hlela malulamisele ya xitifiketi xa CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Hlela malulamisele ya xitifiketi xa CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Hlela malulamisele ya thirusiti:
-
 certmgr-edit-cert-trust-ssl =
     .label = Xitifiketi lexi xi kota ku tiva tisayiti ta web.
-
 certmgr-edit-cert-trust-email =
     .label = Xitifiketi lexi xi kota ku tiva vatirhisi va mapapila.
-
 certmgr-delete-cert =
     .title = Sula xitifiketi
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Sula xitifiketi
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Vito ra xitifiketi
-
 certmgr-token-name =
     .label = Xitirhisiwa xa vuhlayiseke
-
 certmgr-expires-label =
     .label = Xi hela rini
-
 certmgr-email =
     .label = Adirese ya Imeyili
-
 certmgr-serial =
     .label = Nomboro ya siriyele
-
 pk11-bad-password = Phasiwedi leyi nghenisiweke yi hoxekile.
 pkcs12-decode-err = A swi kotekangi ku dikhoda fayili.  Yi nga va yi nga ri eka xivumbeko xa PKCS #12, yi onhakile kumbe u nghenisile phasiwedi yo hoxeka.
 pkcs12-unknown-err-restore = Swi tsandzile ku thlerisela fayili ya PKCS #12 hikwalaho ka swivangelo swo ka swi nga tiveki.
@@ -73,15 +66,12 @@ delete-user-cert-title =
     .title = Sula switifiketi swa wena
 delete-user-cert-confirm = U na ntiyiso leswaku u lava ku sula switifiketi leswi?
 delete-user-cert-impact = Loko wo sula xin'wana xa switifiketi swa wena, u nge he xi tirhisi ku titivisa.
-
-
 delete-email-cert-title =
     .title = Sula switifiketi swa Imeyili
 delete-email-cert-confirm = U na ntiyiso leswaku u lava ku sula switifiketi swa Imeyili swa vanhu lava?
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 

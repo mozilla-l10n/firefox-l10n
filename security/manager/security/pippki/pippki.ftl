@@ -13,8 +13,6 @@ change-password-old = Phasiwedi ya sweswi:
 change-password-new = Phasiwedi yintshwa:
 change-password-reenter = Phasiwedi yintshwa (nakambe):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Panga switifiketi
     .style = width: 46em
+download-cert-window2 =
+    .title = Panga switifiketi
+    .style = min-width: 46em
 download-cert-message = U komberiwile ku tshemba Mpfumelelo wa Xitifiketi (CA).
 download-cert-trust-ssl =
     .label = Tshemba mpfumelelo lowu wa CA xitifiketi ku kuma masayiti ya web.
