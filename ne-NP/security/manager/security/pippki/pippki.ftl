@@ -13,8 +13,6 @@ change-password-old = हालको गोप्यशब्द:
 change-password-new = नयाँ गोप्यशब्द:
 change-password-reenter = नयाँ गोप्यशब्द(पुनः):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = प्रमाणपत्र डाउनलोड गरिँदै
     .style = width: 46em
+download-cert-window2 =
+    .title = प्रमाणपत्र डाउनलोड गरिँदै
+    .style = min-width: 46em
 download-cert-message = तपाईँलाई एउटा नयाँ प्रमाणपत्र अधिकारी (CA) लाई विश्वास गर्न भनिएको छ।
 download-cert-trust-ssl =
     .label = Trust this CA to identify web sites.
