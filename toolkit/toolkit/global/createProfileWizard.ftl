@@ -37,6 +37,11 @@ create-profile-last-page-header =
         [macos] Завършване
        *[other] Завършване на { create-profile-window.title }
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Завършване
+       *[other] Завършване на { create-profile-window2.title }
+    }
 profile-creation-intro = Ако създадете няколко профила, може да ги разграничавате с различни имена. Използвайте шаблонното име или използвайте свое.
 profile-prompt = Име на профила:
     .accesskey = И
