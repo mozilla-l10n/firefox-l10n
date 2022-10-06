@@ -8,24 +8,18 @@ password-quality-meter = Jelszó minősége
 
 change-device-password-window =
     .title = Jelszó módosítása
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Adatvédelmi eszköz: { $tokenName }
 change-password-old = Jelenlegi jelszó:
 change-password-new = Új jelszó:
 change-password-reenter = Új jelszó (ismét):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Nem sikerült megváltoztatni a jelszót.
 pippki-incorrect-pw = Nem helyesen adta meg a jelenlegi jelszót. Próbálja újra.
 pippki-pw-change-ok = A jelszó megváltoztatása sikeres.
-
 pippki-pw-empty-warning = A tárolt jelszavai és privát kulcsai nem lesznek védve.
 pippki-pw-erased-ok = Törölte a jelszót. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Figyelem! Úgy döntött, hogy nem használ jelszót. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Jelenleg FIPS-módban van. A FIPS-hez kötelező nem üres jelszót megadni.
 
 ## Reset Primary Password dialog
@@ -35,9 +29,7 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Alaphelyzet
-
 reset-primary-password-text = Ha visszaállítja az elsődleges jelszót, akkor minden tárolt webes és e-mail-jelszó, űrlapadat, valamint személyes tanúsítvány és privát kulcs elvész. Biztos, hogy visszaállítja az elsődleges jelszót?
-
 pippki-reset-password-confirmation-title = Elsődleges jelszó visszaállítása
 pippki-reset-password-confirmation-message = Az elsődleges jelszó vissza lett állítva.
 
@@ -46,6 +38,9 @@ pippki-reset-password-confirmation-message = Az elsődleges jelszó vissza lett 
 download-cert-window =
     .title = Tanúsítvány letöltése
     .style = width: 46em
+download-cert-window2 =
+    .title = Tanúsítvány letöltése
+    .style = min-width: 46em
 download-cert-message = Arra kérik, hogy bízzon meg egy új hitelesítésszolgáltatóban (CA-ban).
 download-cert-trust-ssl =
     .label = Megbízás webhelyek azonosítására
