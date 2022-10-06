@@ -5,13 +5,13 @@
 profiledowngrade-window =
     .title = Þú hefur ræst eldri útgáfu af { -brand-product-name }
     .style = width: 490px;
-
+profiledowngrade-window2 =
+    .title = Þú hefur ræst eldri útgáfu af { -brand-product-name }
+    .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = Útbúa nýjan notanda
-
 profiledowngrade-sync = Notkun eldri útgáfu af { -brand-product-name } getur skemmt bókamerki og vafraferil sem þegar hafa verið vistuð í fyrirliggjandi { -brand-product-name } notkunarsnið. Til að vernda upplýsingarnar þínar skaltu búa til nýtt notkunarsnið fyrir þessa uppsetningu á { -brand-short-name }. Þú getur alltaf skráð þig inn með { -fxaccount-brand-name } til að samstilla bókamerkin þín og vafraferil á milli notkunarsniða.
 profiledowngrade-nosync = Notkun á eldri útgáfu af { -brand-product-name } getur skemmt bókamerki og vafraferil sem þegar hefur verið vistaður á núverandi { -brand-product-name } notandasnið. Til að vernda upplýsingarnar þínar skaltu búa til nýtt notandasnið fyrir þessa uppsetningu á { -brand-short-name }.
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
