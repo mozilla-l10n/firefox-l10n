@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] หน้าแนะนำ
        *[other] ยินดีต้อนรับสู่ { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] หน้าแนะนำ
+       *[other] ยินดีต้อนรับสู่ { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } จัดเก็บข้อมูลเกี่ยวกับการตั้งค่าและค่ากำหนดของคุณในโปรไฟล์ส่วนบุคคลของคุณ
 profile-creation-explanation-2 = หากคุณกำลังใช้สำเนานี้ของ { -brand-short-name } ร่วมกับผู้ใช้อื่น ๆ คุณสามารถใช้โปรไฟล์เพื่อเก็บข้อมูลของผู้ใช้แต่ละคนแยกกัน เพื่อทำสิ่งนี้ ผู้ใช้แต่ละคนควรสร้างโปรไฟล์ของตนเอง
 profile-creation-explanation-3 = หากคุณเป็นเพียงคนเดียวที่ใช้สำเนานี้ของ { -brand-short-name } คุณต้องมีอย่างน้อยหนึ่งโปรไฟล์ หากคุณต้องการ คุณสามารถสร้างโปรไฟล์หลายชุดสำหรับคุณเองเพื่อจัดเก็บชุดของการตั้งค่าและค่ากำหนดที่ต่างกัน ตัวอย่างเช่น คุณอาจต้องการมีโปรไฟล์แยกสำหรับการใช้งานทางธุรกิจและส่วนบุคคล
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] หน้าสรุป
        *[other] เสร็จสิ้นการ { create-profile-window.title }
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] หน้าสรุป
+       *[other] เสร็จสิ้นการ { create-profile-window2.title }
     }
 profile-creation-intro = หากคุณสร้างหลายโปรไฟล์ คุณสามารถแยกแยะโปรไฟล์ได้โดยชื่อโปรไฟล์ คุณอาจใช้ชื่อที่ให้มานี้หรือใช้ชื่อของคุณเอง
 profile-prompt = ป้อนชื่อโปรไฟล์ใหม่:
