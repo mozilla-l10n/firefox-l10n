@@ -107,10 +107,7 @@ cfr-doorhanger-doh-secondary-button = ਅਸਮਰੱਥ ਕਰੋ
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved =
-    ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਪਹਿਲਾਂ ਹੈ। { -brand-short-name } ਹੁਣ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ
-    ਇੱਕ ਦੂਜੇ ਤੋਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਲਹਿਦਾ ਕਰ ਦਿੰਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਹੈਕਰਾਂ ਲਈ ਪਾਸਵਰਡ,
-    ਕਰੈਡਿਟ ਕਾਰਡ ਨੰਬਰ ਤੇ ਹੋਰ ਸੰਵੇਦਨਸ਼ੀਲ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨਾ ਔਖਾ ਹੋ ਜਾਂਦਾ ਹੈ।
+cfr-doorhanger-fission-body-approved = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਪਹਿਲਾਂ ਹੈ। { -brand-short-name } ਹੁਣ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਇੱਕ ਦੂਜੇ ਤੋਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਲਹਿਦਾ ਕਰ ਦਿੰਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਹੈਕਰਾਂ ਲਈ ਪਾਸਵਰਡ, ਕਰੈਡਿਟ ਕਾਰਡ ਨੰਬਰ ਤੇ ਹੋਰ ਸੰਵੇਦਨਸ਼ੀਲ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨਾ ਔਖਾ ਹੋ ਜਾਂਦਾ ਹੈ।
 cfr-doorhanger-fission-header = ਸਾਈਟ ਅਲਹਿਦਗੀ
 cfr-doorhanger-fission-primary-button = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
     .accesskey = O
