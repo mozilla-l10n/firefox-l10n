@@ -8,6 +8,9 @@
 devmgr =
     .title = Gjestôr dispositîfs
     .style = width: 67em; height: 32em;
+devmgr-window =
+    .title = Gjestôr dispositîfs
+    .style = min-width: 67em; min-height: 32em;
 devmgr-devlist =
     .label = Modui e dispositîfs di sigurece
 devmgr-header-details =

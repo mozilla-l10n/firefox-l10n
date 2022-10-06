@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Introduzion
        *[other] Benvignûts sul { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Introduzion
+       *[other] Benvignûts sul { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } al salve lis informazions su lis tôs impostazions e preferencis intal to profîl personâl.
 profile-creation-explanation-2 = Se tu condividis cheste copie di { -brand-short-name } cun altris utents, tu puedis doprâ i profîi par mantignî separadis lis informazions par ogni utent. Par fâ chest, ogni utent al à di creâ il so profîl.
 profile-creation-explanation-3 = Se tu sês l'uniche persone a doprâ cheste copie di { -brand-short-name }, tu âs di vê almancul un profîl. Se tu vuelis, tu puedis creâ plui profîi par te par salvâ diferentis impostazions e preferencis. Par esempli, ti podaressin coventâ profîi diviers par ûs personâl e pal lavôr.
