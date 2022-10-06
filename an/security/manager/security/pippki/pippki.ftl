@@ -13,8 +13,6 @@ change-password-old = Clau actual:
 change-password-new = Clau nueva:
 change-password-reenter = Clau nueva (unatra vegada):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = Descargando o certificau
     .style = width: 46em
+download-cert-window2 =
+    .title = Descargando o certificau
+    .style = min-width: 46em
 download-cert-message = Se l'ha demandau que confíe en una entidat certificadera (CA) nueva.
 download-cert-trust-ssl =
     .label = Confiar en ista CA ta identificar puestos web.
