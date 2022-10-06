@@ -4,126 +4,96 @@
 
 certmgr-title =
     .title = प्रमाणपत्र प्रबंधक
-
 certmgr-tab-mine =
     .label = आपका प्रमाणपत्र
-
 certmgr-tab-people =
     .label = आम आदमी
-
 certmgr-tab-servers =
     .label = सर्वर
-
 certmgr-tab-ca =
     .label = प्राधिकार
-
 certmgr-mine = आपके पास इन संगठनों से प्रमाणपत्र हैं जो आपको पहचानते हैं
 certmgr-people = आपके पास फ़ाइल पर प्रमाणपत्र हैं जो इन लोगों को पहचानते हैं
 certmgr-ca = आपके पास फ़ाइल पर प्रमाणपत्र हैं जो इन प्रमाणपत्र प्राधिकारियों को पहचानते हैं
-
 certmgr-edit-ca-cert =
     .title = CA प्रमाणपत्र ट्रस्ट जमावट को संपादित करें
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = CA प्रमाणपत्र ट्रस्ट जमावट को संपादित करें
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = ट्रस्ट जमावट संपादित करें:
-
 certmgr-edit-cert-trust-ssl =
     .label = यह प्रमाणपत्र वैबसाइट पहचान सकता है.
-
 certmgr-edit-cert-trust-email =
     .label = यह प्रमाणपत्र मेल उपयोक्ता को पहचान सकता है.
-
 certmgr-delete-cert =
     .title = प्रमाणपत्र मिटायें
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = प्रमाणपत्र मिटायें
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = होस्ट
-
 certmgr-cert-name =
     .label = प्रमाणपत्र नाम
-
 certmgr-cert-server =
     .label = सर्वर
-
 certmgr-override-lifetime =
     .label = जीवनपर्यंत
-
 certmgr-token-name =
     .label = सुरक्षा युक्ति
-
 certmgr-begins-label =
     .label = इस समय आरंभ
-
 certmgr-expires-label =
     .label = इसपर समाप्त
-
 certmgr-email =
     .label = ईमेल पता
-
 certmgr-serial =
     .label = क्रम संख्या
-
 certmgr-view =
     .label = दृश्य…
     .accesskey = V
-
 certmgr-edit =
     .label = Edit Trust…
     .accesskey = E
-
 certmgr-export =
     .label = निर्यात…
     .accesskey = x
-
 certmgr-delete =
     .label = मिटाएँ…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = Delete or Distrust…
     .accesskey = D
-
 certmgr-backup =
     .label = बैकअप…
     .accesskey = B
-
 certmgr-backup-all =
     .label = सबका बैकअप लें…
     .accesskey = k
-
 certmgr-restore =
     .label = आयात करें…
     .accesskey = m
-
 certmgr-add-exception =
     .label = अपवाद जोड़ें…
     .accesskey = x
-
 exception-mgr =
     .title = सुरक्षा अपवाद जोड़ें
-
 exception-mgr-extra-button =
     .label = Confirm Security Exception
     .accesskey = C
-
 exception-mgr-supplemental-warning = वैध बैंक, भंडार, और दूसरे सार्वजनिक साइट आपको ऐसा करने के लिए नहीं कहेंगे.
-
 exception-mgr-cert-location-url =
     .value = स्थान:
-
 exception-mgr-cert-location-download =
     .label = प्रमाणपत्र पाएँ
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = दृश्य…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = यह अपवाद स्थायी रूप से जमा करें
     .accesskey = P
-
 pk11-bad-password = दाखिल कूटशब्द गलत था.
 pkcs12-decode-err = फाइल डिकोड करने में विफल.  या तो यह PKCS #12 प्रारूप में नहीं था, गतल किया गया था, या जो कूटशब्द आपने डाला वह गलत था.
 pkcs12-unknown-err-restore = PKCS #12 फाइल फिर जमा करने में विफल अनजान कारण से.
@@ -156,19 +126,14 @@ delete-user-cert-title =
     .title = अपना प्रमाणपत्र मिटाएँ
 delete-user-cert-confirm = क्या आप इन प्रमाणपत्र को मिटाने के लिये निश्चित हैं?
 delete-user-cert-impact = अगर आप अपना एक प्रमाणपत्र मिटाते हैं, आप स्वयं इसे प्रयोग नहीं कर पाएँगे.
-
-
 delete-ca-cert-title =
     .title = Delete or Distrust CA Certificates
 delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
 delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
-
-
 delete-email-cert-title =
     .title = ईमेल प्रमाणपत्र मिटाएँ
 delete-email-cert-confirm = क्या आप इन लोगों के ईमेल प्रमाणपत्र को मिटाने के लिये निश्चित हैं?
 delete-email-cert-impact = अगर आप किसी व्यक्ति का ईमेल प्रमाणपत्र मिटाते हैं, आपका उन लोगों को गोपित ईमेल भेजने के लिये लायक नहीं रह जायेगा.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
