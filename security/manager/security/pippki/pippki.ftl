@@ -8,16 +8,12 @@ password-quality-meter = कूटशब्द गुणवत्ता मी�
 
 change-device-password-window =
     .title = पासवर्ड बदलें
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = सुरक्षा युक्ति: { $tokenName }
 change-password-old = मौजूदा कूटशब्द:
 change-password-new = नया कूटशब्द:
 change-password-reenter = नया कूटशब्द (फिर):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = पासवर्ड बदलने में असमर्थ।
 pippki-pw-change-ok = पासवर्ड सफलतापूर्वक बदल दिया गया है।
 
@@ -31,6 +27,9 @@ reset-password-button-label =
 download-cert-window =
     .title = प्रमाणपत्र डाउनलोड कर रहा है
     .style = width: 46em
+download-cert-window2 =
+    .title = प्रमाणपत्र डाउनलोड कर रहा है
+    .style = min-width: 46em
 download-cert-message = आपको एक नया सर्टिफिकेट ऑथोरिटी (CA) पर विश्वास के लिये पूछा जायेगा.
 download-cert-trust-ssl =
     .label = इस CA को भरोसा करें वेबसाइट को पहचानने के लिये.
