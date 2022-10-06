@@ -4,72 +4,58 @@
 
 certmgr-title =
     .title = Umphathi Wesatifikethi
-
 certmgr-tab-mine =
     .label = Izatifikethi Zakho
-
 certmgr-tab-ca =
     .label = Oogunyaziwe
-
 certmgr-edit-ca-cert =
     .title = Hlela Imimiselo yentembeko yesatifikethi se-CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Hlela Imimiselo yentembeko yesatifikethi se-CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Hlela imimiselo yentembeko:
-
 certmgr-edit-cert-trust-email =
     .label = Esi satifikethi sinako ukuchonga abasebenzisi bemeyile.
-
 certmgr-delete-cert =
     .title = Cima Isatifikethi
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Cima Isatifikethi
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Igama Lesatifikethi
-
 certmgr-token-name =
     .label = Isixhobo Sokhuseleko
-
 certmgr-begins-label =
     .label = Iqala Ngo
-
 certmgr-expires-label =
     .label = Iphelelwa Ngeli Xesha
-
 certmgr-email =
     .label = Idilesi Yemeyile
-
 certmgr-serial =
     .label = Inombolo Yolandelelwano
-
 certmgr-view =
     .label = Jonga…
     .accesskey = J
-
 certmgr-export =
     .label = Thumela ngaphandle…
     .accesskey = p
-
 certmgr-delete-builtin =
     .label = Cima okanye Ungathembi…
     .accesskey = C
-
 certmgr-backup =
     .label = Eyogcino…
     .accesskey = E
-
 certmgr-backup-all =
     .label = Gcina Iikopi Zako Konke…
     .accesskey = G
-
 certmgr-restore =
     .label = Okuthathwa ngaphandle…
     .accesskey = t
-
 certmgr-add-exception =
     .label = Yongeza ieksepshini…
     .accesskey = e
-
 pk11-bad-password = Igama logqithiso elingenisiweyo alichanekanga.
 pkcs12-decode-err = Akuphumelelanga ukususa ikhowudi kwifayili.  Mhlawumbi ayikho kulungiselelo lwe-PKCS #12, yonakalisiwe, okanye igama lokugqithisa olingenisileyo belingachanekanga.
 pkcs12-unknown-err-restore = Akuphumelelanga ukubuyisela ifayili ye-PKCS #12 ngezizathu ezingaziwayo.
@@ -101,19 +87,14 @@ delete-user-cert-title =
     .title = Cima Izatifikethi zakho
 delete-user-cert-confirm = Uqinisekile ufuna ukucima ezi zatifikethi?
 delete-user-cert-impact = Ukuba ucima esinye sezatifikethi ezizezakho, akunakukwazi ukuphinga usisebenzisele ukuzichonga.
-
-
 delete-ca-cert-impact = Ukuba ucima okanye akuthembanga igunya (CA), le aplikheyishini ayisayi kuthemba naziphi na izatifikethi ezinikezelwe lelo gunya (CA).
-
-
 delete-email-cert-title =
     .title = Cima Izatifikethi Zemeyile
 delete-email-cert-confirm = Uqinisekile ufuna ukucima izatifikethi zemeyile zaba bantu?
 delete-email-cert-impact = Ukuba ucima isatifikethi semeyile, akusayi kuphinda ukwazi ukuthumela imeyile yoguqulelo oluntsonkothileyo kwabo bantu.
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
