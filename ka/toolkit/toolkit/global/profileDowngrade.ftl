@@ -5,13 +5,13 @@
 profiledowngrade-window =
     .title = თქვენ გაუშვით ძველი { -brand-product-name }
     .style = width: 490px;
-
+profiledowngrade-window2 =
+    .title = თქვენ გაუშვით ძველი { -brand-product-name }
+    .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = ახალი პროფილის შექმნა
-
 profiledowngrade-sync = { -brand-product-name } ძველია, ამიტომ შესაძლოა დააზიანოს სანიშნები და მონახულებული საიტების ისტორია, რომელთაც თავის პროფილში ინახავს არსებული { -brand-product-name }. მონაცემების გადასარჩენად, შექმენით ახალი პროფილი და იმას გამოიყენებს აღნიშნული { -brand-short-name }. ასევე ყოველთვის შეგიძლიათ დაიხმაროთ { -fxaccount-brand-name } სანიშნებისა და ისტორიის დასინქრონებისთვის, სხვადასხვა პროფილებს შორის.
 profiledowngrade-nosync = { -brand-product-name } ძველია, ამიტომ შესაძლოა დააზიანოს სანიშნები და მონახულებული საიტების ისტორია, რომელთაც თავის პროფილში ინახავს არსებული { -brand-product-name }. მონაცემების გადასარჩენად, შექმენით ახალი პროფილი და იმას გამოიყენებს აღნიშნული { -brand-short-name }.
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
