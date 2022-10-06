@@ -22,6 +22,13 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Tüm Adres Defterleri
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = { $name } içindeki toplam kişi sayısı: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Tüm adres defterlerindeki toplam kişi sayısı: { $count }
 about-addressbook-books-context-properties =
     .label = Özellikler
 about-addressbook-books-context-edit-list =
@@ -87,6 +94,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = E-posta adresleri
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Takma ad
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Telefon numaraları
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -169,6 +179,8 @@ about-addressbook-placeholder-no-search-results = Kişi bulunamadı
 
 ## Details
 
+about-addressbook-details-edit-photo =
+    .title = Kişi fotoğrafını düzenle
 about-addressbook-prefer-display-name = İleti başlığında görünen adı tercih et
 about-addressbook-write-action-button = Yaz
 about-addressbook-event-action-button = Etkinlik
@@ -197,6 +209,10 @@ about-addressbook-entry-name-role = Rol
 about-addressbook-entry-name-organization = Şirket
 about-addressbook-entry-name-website = Web sitesi
 about-addressbook-entry-name-time-zone = Saat dilimi
+about-addressbook-entry-name-custom1 = Özel 1
+about-addressbook-entry-name-custom2 = Özel 2
+about-addressbook-entry-name-custom3 = Özel 3
+about-addressbook-entry-name-custom4 = Özel 4
 about-addressbook-unsaved-changes-prompt-title = Kaydedilmemiş değişiklikler
 about-addressbook-unsaved-changes-prompt = Düzenleme görünümünden çıkmadan önce değişikliklerinizi kaydetmek ister misiniz?
 

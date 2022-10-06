@@ -36,6 +36,10 @@ vcard-n-suffix = Son ek
 vcard-n-add-suffix =
     .title = Son ek ekle
 
+# Nickname
+
+vcard-nickname = Takma ad
+
 # Email vCard field
 
 vcard-email-header = E-posta adresleri
@@ -54,6 +58,10 @@ vcard-url-label = Web sitesi
 vcard-tel-header = Telefon numaraları
 vcard-tel-add = Telefon numarası ekle
 vcard-tel-label = Telefon numarası
+# Or "Mobile"
+vcard-entry-type-cell = Cep
+vcard-entry-type-fax = Faks
+vcard-entry-type-pager = Çağrı cihazı
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Saat dilimi ekle
 
 # IMPP vCard field
 
-vcard-impp-header = Sohbet hesapları
 vcard-impp2-header = Anlık mesajlaşma
 vcard-impp-add = Sohbet hesabı ekle
 vcard-impp-label = Sohbet hesabı

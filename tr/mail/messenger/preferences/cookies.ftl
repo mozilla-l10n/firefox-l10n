@@ -5,28 +5,22 @@
 cookies-window-dialog =
     .title = Çerezler
     .style = width: 36em;
-
+cookies-window-dialog2 =
+    .title = Çerezler
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Arama:
     .accesskey = A
-
 cookies-on-system-label = Aşağıdaki çerezler bilgisayarınızda depolanmıştır:
-
 treecol-site-header =
     .label = Site
-
 treecol-name-header =
     .label = Çerez adı
-
 props-name-label =
     .value = Ad:
 props-value-label =
@@ -41,15 +35,12 @@ props-expires-label =
     .value = Zaman Aşımı:
 props-container-label =
     .value = Kapsayıcı:
-
 remove-cookie-button =
     .label = Çerezi sil
     .accesskey = r
-
 remove-all-cookies-button =
     .label = Tüm çerezleri sil
     .accesskey = T
-
 cookie-close-button =
     .label = Kapat
     .accesskey = K
