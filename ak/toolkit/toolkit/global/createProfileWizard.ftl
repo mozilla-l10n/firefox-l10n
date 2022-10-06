@@ -16,6 +16,11 @@ create-profile-first-page-header =
         [macos] Nfitiaseɛ
        *[other] Akwaaba ɛba { create-profile-window.title }
     }
+create-profile-first-page-header2 =
+    { PLATFORM() ->
+        [macos] Nfitiaseɛ
+       *[other] Akwaaba ɛba { create-profile-window2.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } esie wo nhyehyɛe ne pɛyeɛ ho infɔmehyen wɔ wo adwumadini profael mu.
 profile-creation-explanation-2 = Se wo ne afoforo rekyɛw { -brand-short-name } yi a, mobetumi ɛde aprofael akyɛ mo infɔmehyen mu. Sɛ eyi bɛkɔ so yiye no, ɛwɔ sɛ adwumadini biara nbɔ ɔnoaa ne profael.
 profile-creation-explanation-3 = sɛ wo nkoa na woreyɛ { -brand-short-name } yi ho adwuma a, annyɛ a, ɛwɔ sɛ wo wɔ profael baako. Sɛ wo pɛ a, wobetumi abɔ aprofael mbɔho sɛnea wobetumi asie nhehyɛe ne apɛyeɛ ahorow. Mfatoho ne sɛ, wobetumi abɔ aprofael foforo ama adwuma ne ankoroankorɛ.
@@ -31,6 +36,11 @@ create-profile-last-page-header =
     { PLATFORM() ->
         [macos] Ntwatoɔ
        *[other] Ɛrewie { create-profile-window.title } no
+    }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Ntwatoɔ
+       *[other] Ɛrewie { create-profile-window2.title } no
     }
 profile-creation-intro = Sɛ wobɔ aprofael pii a, wobetumi de wɔn din ahyɛ wɔn nso. Wobetumi de edin a ɛwɔ ha anaa wobetumi de nea wopɛ.
 profile-prompt = Bɔ profael din foforo:
