@@ -185,6 +185,9 @@ about-addressbook-placeholder-no-search-results = Nulle contactos trovate
 # $count (Number) - The number of selected items (will never be fewer than two)
 about-addressbook-selection-mixed-header = { $count } contactos e listas eligite
 # Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } contactos eligite
+# Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = { $count } listas eligite
 about-addressbook-details-edit-photo =
