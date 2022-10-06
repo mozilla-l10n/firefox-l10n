@@ -13,8 +13,6 @@ change-password-old = ពាក្យ​សម្ងាត់​បច្ចុ�
 change-password-new = ពាក្យ​សម្ងាត់​ថ្មី ៖
 change-password-reenter = ពាក្យ​សម្ងាត់​ថ្មី (ម្តង​ទៀត) ៖
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = កំពុង​ទាញ​យក​វិញ្ញាបនបត្រ
     .style = width: 46em
+download-cert-window2 =
+    .title = កំពុង​ទាញ​យក​វិញ្ញាបនបត្រ
+    .style = min-width: 46em
 download-cert-message = អ្នក​ត្រូវ​បាន​ស្នើ​ឲ្យ​ជឿ​ទុកចិត្ត​លើ​​អាជ្ញាធរ​​វិញ្ញាបនបត្រ​ (CA) ថ្មី ។
 download-cert-trust-ssl =
     .label = ទុកចិត្ត​លើ CA នេះ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ ។
