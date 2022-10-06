@@ -27,6 +27,9 @@ pippki-pw-change2empty-in-fips-mode = 現在 FIPS モードです。FIPS は空�
 reset-primary-password-window =
     .title = マスターパスワードのリセット
     .style = width: 40em
+reset-primary-password-window2 =
+    .title = マスターパスワードのリセット
+    .style = min-width: 40em
 reset-password-button-label =
     .label = リセット
 # (^m^) en-US: "Primary Password"
