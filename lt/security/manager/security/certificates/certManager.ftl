@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = Liudijimų tvarkytuvė
-
 certmgr-tab-mine =
     .label = Jūsų liudijimai
-
 certmgr-tab-remembered =
     .label = Tapatumo tikrinimo sprendimai
-
 certmgr-tab-people =
     .label = Asmenų
-
 certmgr-tab-servers =
     .label = Serverių
-
 certmgr-tab-ca =
     .label = Liudijimų įstaigų
-
 certmgr-mine = Turite liudijimus, išduotus šių jus identifikuojančių įstaigų
 certmgr-remembered = Šie liudijimai naudojami jūsų tapatumo patvirtinimui svetainėse
 certmgr-people = Turite liudijimus, identifikuojančius šiuos asmenis
 certmgr-server = Šie įrašai nurodo serverių liudijimų klaidų išimtis
 certmgr-ca = Turite liudijimus, identifikuojančius šias liudijimų įstaigas
-
 certmgr-edit-ca-cert =
     .title = Pasitikėjimo LĮ liudijimu nuostatos
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Pasitikėjimo LĮ liudijimu nuostatos
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Pasitikėjimo nuostatos:
-
 certmgr-edit-cert-trust-ssl =
     .label = Šis liudijimas gali patvirtinti svetainių tapatybę
-
 certmgr-edit-cert-trust-email =
     .label = Šis liudijimas gali patvirtinti el. pašto naudotojų tapatybę
-
 certmgr-delete-cert =
     .title = Liudijimo šalinimas
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Liudijimo šalinimas
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Serveris
-
 certmgr-cert-name =
     .label = Liudijimo vardas
-
 certmgr-cert-server =
     .label = Serveris
-
 certmgr-override-lifetime =
     .label = Galiojimo laikas
-
 certmgr-token-name =
     .label = Saugumo priemonė
-
 certmgr-begins-label =
     .label = Prasideda
-
 certmgr-expires-label =
     .label = Baigiasi
-
 certmgr-email =
     .label = El. pašto adresas
-
 certmgr-serial =
     .label = Numeris
-
 certmgr-view =
     .label = Peržiūrėti…
     .accesskey = P
-
 certmgr-edit =
     .label = Taisyti pasitikėjimą…
     .accesskey = T
-
 certmgr-export =
     .label = Eksportuoti…
     .accesskey = E
-
 certmgr-delete =
     .label = Pašalinti…
     .accesskey = š
-
 certmgr-delete-builtin =
     .label = Pašalinti arba nepasitikėti…
     .accesskey = š
-
 certmgr-backup =
     .label = Archyvuoti…
     .accesskey = A
-
 certmgr-backup-all =
     .label = Archyvuoti viską…
     .accesskey = v
-
 certmgr-restore =
     .label = Importuoti…
     .accesskey = I
-
 certmgr-add-exception =
     .label = Pritaikyti išimtį…
     .accesskey = m
-
 exception-mgr =
     .title = Saugumo išimties pritaikymas
-
 exception-mgr-extra-button =
     .label = Patvirtinti saugumo išimtį
     .accesskey = P
-
 exception-mgr-supplemental-warning = Patikimi bankai, parduotuvės ir kitos viešos svetainės neprašytų šito daryti.
-
 exception-mgr-cert-location-url =
     .value = Adresas:
-
 exception-mgr-cert-location-download =
     .label = Atsiųsti liudijimą
     .accesskey = A
-
 exception-mgr-cert-status-view-cert =
     .label = Parodyti…
     .accesskey = r
-
 exception-mgr-permanent =
     .label = Įrašyti šią išimtį visam laikui
     .accesskey = v
-
 pk11-bad-password = Neteisingas slaptažodis.
 pkcs12-decode-err = Klaida iškoduojant failą.  Priežastys gali būti šios: ne PKCS Nr. 12 formatas, pažeistas failas arba įvestas neteisingas slaptažodis.
 pkcs12-unknown-err-restore = Nepavyko atstatyti PKCS Nr. 12 failo (priežastis neaiški).
@@ -161,39 +130,28 @@ delete-user-cert-title =
     .title = Jūsų liudijimų šalinimas
 delete-user-cert-confirm = Ar tikrai pašalinti šiuos liudijimus?
 delete-user-cert-impact = Jei pašalinsite asmeninį liudijimą, nebegalėsite juo patvirtinti savo tapatybės.
-
-
 delete-ssl-override-title =
     .title = Pašalinti serverio liudijimo išimtį
 delete-ssl-override-confirm = Ar tikrai pašalinti šiam serveriui taikomą išimtį?
 delete-ssl-override-impact = Nustojus serveriui taikyti išimtį, šiai sričiai bus taikomos įprastos saugumo patikros procedūros ir bus reikalaujama galiojančio liudijimo.
-
 delete-ca-cert-title =
     .title = Pasitikėjimo LĮ liudijimais nutraukimas ir jų šalinimas
 delete-ca-cert-confirm = Jūs nurodėte pašalinti šiuos LĮ liudijimus. Įtaisytųjų liudijimų atveju, užuot juos pašalinus, bus visiškai nutrauktas pasitikėjimas jais (šio veiksmo efektas toks pat). Ar norite, kad liudijimai būtų pašalinti arba nutrauktas pasitikėjimas jais?
 delete-ca-cert-impact = Pašalinus liudijimų įstaigos (LĮ) liudijimą arba nutraukus pasitikėjimą juo, programa nebepasitikės jokiais šios LĮ išduodamais liudijimais.
-
-
 delete-email-cert-title =
     .title = El. pašto liudijimų šalinimas
 delete-email-cert-confirm = Ar tikrai pašalinti šių asmenų el. pašto liudijimus?
 delete-email-cert-impact = Jei pašalinsite adresato el. pašto liudijimą, nebegalėsite jam siųsti šifruotų laiškų.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Liudijimas su numeriu: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Nesiųsti kliento liudijimo
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Neįrašytas)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Nepasiekiamas)
 
