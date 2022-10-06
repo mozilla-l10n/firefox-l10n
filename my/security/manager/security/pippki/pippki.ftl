@@ -13,8 +13,6 @@ change-password-old = လက်ရှိ စကားဝှက် -
 change-password-new = စကားဝှက် အသစ် -
 change-password-reenter = စကားဝှက် အသစ် (ပြန်ရေးပါ) -
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = လက်မှတ် ဆွဲချနေတယ်
     .style = width: 46em
+download-cert-window2 =
+    .title = လက်မှတ် ဆွဲချနေတယ်
+    .style = min-width: 46em
 download-cert-message = လက်မှတ် အာဏာပိုင် (CA) သစ်တခုကို စိတ်ချဖို့ သင့်ကို တောင်းဆိုခဲ့တယ်။
 download-cert-trust-ssl =
     .label = ဝဘ်ဆိုက်များကို ခွဲခြားသိရှိနိုင်ရန် ယခု CA ကို သုံးမည်။

@@ -4,119 +4,88 @@
 
 certmgr-title =
     .title = လက်မှတ် စီမံခန့်ခွဲသူ
-
 certmgr-tab-mine =
     .label = သင့်ရဲ့ လက်မှတ်များ
-
 certmgr-tab-people =
     .label = လူထု
-
 certmgr-tab-servers =
     .label = ဆာဗာများ
-
 certmgr-tab-ca =
     .label = အာဏာပိုင်များ
-
 certmgr-edit-ca-cert =
     .title = CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ -
-
 certmgr-edit-cert-trust-ssl =
     .label = ယခုလက်မှတ်သည် ဝဘ်ဆိုက်များကို အတည်ပြုနိုင်သည်။
-
 certmgr-edit-cert-trust-email =
     .label = ဒီလက်မှတ်က အီးမေးလ် သုံးစွသူများကို ဖေါ်ထုတ်နိုင်တယ်။
-
 certmgr-delete-cert =
     .title = လက်မှတ်ကို ဖျက်ရန်
     .style = width: 48em; height: 24em;
-
 certmgr-cert-name =
     .label = လက်မှတ်အမည်
-
 certmgr-cert-server =
     .label = ဆာဗာ
-
 certmgr-override-lifetime =
     .label = သက်တမ်း
-
 certmgr-token-name =
     .label = လုံခြုံရေး ကိရိယာ
-
 certmgr-begins-label =
     .label = စသည့်နေ့
-
 certmgr-expires-label =
     .label = သက်တန်းကုန်တဲ့ နေ့စွဲ
-
 certmgr-email =
     .label = အီးမေးလ် လိပ်စာ
-
 certmgr-serial =
     .label = အစဉ်လိုက် အမှတ်စဉ်
-
 certmgr-view =
     .label = ကြည့်...
     .accesskey = က
-
 certmgr-edit =
     .label = Edit Trust…
     .accesskey = E
-
 certmgr-export =
     .label = Export...
     .accesskey = x
-
 certmgr-delete =
     .label = Delete...
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = Delete or Distrust…
     .accesskey = D
-
 certmgr-backup =
     .label = Backup...
     .accesskey = B
-
 certmgr-backup-all =
     .label = Backkup All...
     .accesskey = k
-
 certmgr-restore =
     .label = Import...
     .accesskey = m
-
 certmgr-add-exception =
     .label = xချွင်းချက်ထည့်...
     .accesskey = x
-
 exception-mgr =
     .title = လုံခြုံရေး ချွင်းချက် ထည့်သွင်းပါ
-
 exception-mgr-extra-button =
     .label = (C)လုံခြုံရေးဆိုင်ရာ ခြွင်းချက်ကို အတည်ပြု
     .accesskey = C
-
 exception-mgr-supplemental-warning = တရား၀င် ဘဏ်များ၊ စတိုးများနဲ့၊ အခြား လူထု ကွန်ရက်များက ဒီအရာကို ပြုလုပ်ဖို့ တောင်းဆိုမှာ မဟုတ်ဘူး။
-
 exception-mgr-cert-location-url =
     .value = နေရာတစ်ခု -
-
 exception-mgr-cert-location-download =
     .label = လက်မှတ် ရယူပါ
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = ရှုမြင်ပါ...
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Pချွင်းချက်အမြဲသိမ်း
     .accesskey = P
-
 pk11-bad-password = ရေးထည့်လိုက်တဲ့ စကားဝှက် မမှန်ကန်ဘူး။
 pkcs12-decode-err = Failed to decode the file.  Either it is not in PKCS #12 format, has been corrupted, or the password you entered was incorrect.
 pkcs12-unknown-err-restore = အမည်မသိ အကြောင်း ကိစ္စများကြောင့် PKCS #12 ဖိုင် ပြန်ထားဖို့ မအောင်မြင်ဘူး။
@@ -149,19 +118,14 @@ delete-user-cert-title =
     .title = သင့်လက်မှတ်များကို ပယ်ဖျက်ပါ
 delete-user-cert-confirm = ဒီလက်မှတ်များကို သင်တကယ် ပယ်ဖျက်လို သလား။
 delete-user-cert-impact = သင့်ကိုယ်တိုင် လက်မှတ်များထဲက တခုကို သင်ပယ်ဖျက်တာနဲ့၊ သင့်ကိုသင် ​ဖေါ်ထုတ်ဖို့ ၄င်းကို သင်သုံးစွဲတော့မှာ မဟုတ်ဘူး။
-
-
 delete-ca-cert-title =
     .title = CA အသိအမှတ်ပြုလက်မှတ်အား ဖျက်ပါ(သို့)ပုံဖျက်ပါ
 delete-ca-cert-confirm = CAအသိအမှတ်ပြုလက်မှတ်အားဖျက်ပစ်ရန်သင်တောင်းဆိုခဲ့ပါသည်။မူရင်းအသိအမှတ်ပြုလက်မှတ်များထဲမှ သက်ရောက်မှူ တူညီသောယုံကြည်မှူအားလုံးကိုဖျက်ပစ်မည်ဖြစ်သည်။သင်ဖျက်မည်မှာသေချာပြီလား?
 delete-ca-cert-impact = (CA) အသိအမှတ်ပြုလက်မှတ်တစ်ခုအားဖျက်ပစ်လိုက်ပါက ယခု အက်ပလီကေးရှင်းသည်မည်သည် (CA) မှထုတ်လုပ်သည်အသိအမှတ်ပြုလက်မှတ်ကိုမှယုံကြည်တော့မည်မဟုတ်ပါ။
-
-
 delete-email-cert-title =
     .title = အီးမေးလ် လက်မှတ်များကို ပယ်ဖျက်ပါ
 delete-email-cert-confirm = ဒီလူများရဲ့ အီးမေးလ် လက်မှတ်များကို သင်တယ် ပယ်ဖျက်လိုသလား။
 delete-email-cert-impact = လူတဦးရဲ့ အီးမေးလ် လက်မှတ် တခုကို သင် ပယ်ဖျက်လိုက်ရင်၊ အဲဒီ ပုဂ္ဂိုလ်ထံ စာဝှက်ထားတဲ့ အီးမေးလ်ကို သင်ပို့နိုင်တော့မှာ မဟုတ်ဘူး။
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -169,9 +133,8 @@ delete-email-cert-impact = လူတဦးရဲ့ အီးမေးလ် လ
 cert-with-serial =
     .value = အမှတ်စဉ်ဖြင့် လက်မှတ် - { $serialNumber }
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
