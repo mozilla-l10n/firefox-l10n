@@ -13,8 +13,6 @@ change-password-old = Առկա գաղտնաբառը.
 change-password-new = Նոր Գաղտնաբառը.
 change-password-reenter = Նոր գաղտնաբառ (կրկին) ՝
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-primary-password-window =
@@ -22,9 +20,7 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Վերադարձնել
-
 reset-primary-password-text = Եթե մաքրեք Ձեր Հիմնական գաղտնաբառը, ապա բոլոր պահպանված Վեբ և Էլ. Փոստ գաղտնաբառերը, անհատական հավատարմագրերը, անձնական բանալիները կմոռացվեն: Համոզվա՞ծ եք, որ ցանկանում եք վերակայել Հիմնական գաղտնաբառը:
-
 pippki-reset-password-confirmation-title = Վերակայել Հիմնական գաղտնաբառը
 pippki-reset-password-confirmation-message = Ձեր հիմնական գաղտնաբառը վերակայվել է:
 
@@ -33,6 +29,9 @@ pippki-reset-password-confirmation-message = Ձեր հիմնական գաղտն�
 download-cert-window =
     .title = Բեռնավորում եմ Վկայագիրը
     .style = width: 46em
+download-cert-window2 =
+    .title = Բեռնավորում եմ Վկայագիրը
+    .style = min-width: 46em
 download-cert-message = Դուք հայց եք ստացել մի նոր Վկայագրի լիազորման (CA) համար:
 download-cert-trust-ssl =
     .label = Վստահել այս CA-ին՝ վեբ հանգույցների նույնացման համար:
