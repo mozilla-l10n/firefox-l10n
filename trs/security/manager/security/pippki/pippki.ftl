@@ -13,8 +13,6 @@ change-password-old = Da’nga’ huì nikājt akuan’ nïn:
 change-password-new = Da'nga' huì nakàa:
 change-password-reenter = Da'nga' huìi (gachrun ñû):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,6 +23,9 @@ reset-password-button-label =
 download-cert-window =
     .title = si naduninj ma sertifikado
     .style = width: 46em
+download-cert-window2 =
+    .title = si naduninj ma sertifikado
+    .style = min-width: 46em
 download-cert-message = Gachin ni'io' da' gida'aj si nuguan' 'ngò Dukuâ sun 'iaj sertifikando (CA).
 download-cert-trust-ssl =
     .label = Ga'nin' da' ni CA nani'ìn da'ngà' daj hua sitio web.
