@@ -10,8 +10,6 @@ change-password-old = Khunololamoraba ya ga jaana:
 change-password-new = Khunololamoraba e ntšhwa:
 change-password-reenter = Khunololamoraba e ntšhwa (gape):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -22,6 +20,9 @@ reset-password-button-label =
 download-cert-window =
     .title = E kopolola Setifikeiti
     .style = width: 46em
+download-cert-window2 =
+    .title = E kopolola Setifikeiti
+    .style = min-width: 46em
 download-cert-message = O kopilwe go ikanya Bothati jo bontšhwa jwa ditifikeiti (CA).
 download-cert-trust-email =
     .label = Ikanye CA eno go supa badirisi ba poso ya eleketoroniki.
