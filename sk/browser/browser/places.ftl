@@ -23,7 +23,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Otvoriť v novom súkromnom okne
     .accesskey = s
-
 places-add-bookmark =
     .label = Pridať záložku…
     .accesskey = z
@@ -36,7 +35,6 @@ places-add-folder =
 places-add-separator =
     .label = Pridať oddeľovač
     .accesskey = e
-
 places-view =
     .label = Zobraziť
     .accesskey = b
@@ -55,14 +53,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = podľa dátumu a názvu stránky
     .accesskey = t
-
 places-history-search =
     .placeholder = Hľadať v histórii
 places-history =
     .aria-label = História
 places-bookmarks-search =
     .placeholder = Hľadať v záložkách
-
 places-delete-domain-data =
     .label = Zabudnúť na túto stránku
     .accesskey = b
@@ -88,22 +84,18 @@ places-delete-folder =
            *[other] Odstrániť priečinky
         }
     .accesskey = d
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Záložky spravované správcom
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Podpriečinok
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Ostatné záložky
-
 places-show-in-folder =
     .label = Zobraziť v priečinku
     .accesskey = b
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -115,129 +107,97 @@ places-delete-bookmark =
            *[other] Odstrániť záložky
         }
     .accesskey = d
-
 places-manage-bookmarks =
     .label = Spravovať záložky
     .accesskey = S
-
 places-forget-about-this-site-confirmation-title = Zabudnúť na túto stránku
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Touto akciou odstránite všetky údaje súvisiace so stránkou { $hostOrBaseDomain } vrátane histórie, hesiel, súborov cookie, vyrovnávacej pamäte a nastavení pre obsah. Naozaj chcete pokračovať?
-
 places-forget-about-this-site-forget = Zabudnúť
-
 places-library =
     .title = Knižnica
     .style = width:760px; height:500px;
-
+places-library2 =
+    .title = Knižnica
+    .style = min-width:760px; min-height:500px;
 places-organize-button =
     .label = Usporiadať
     .tooltiptext = Usporiadať moje záložky
     .accesskey = s
-
 places-organize-button-mac =
     .label = Usporiadať
     .tooltiptext = Usporiadať moje záložky
-
 places-file-close =
     .label = Zavrieť
     .accesskey = e
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = Zobrazenie
     .tooltiptext = Zmení zobrazenie
     .accesskey = o
-
 places-view-button-mac =
     .label = Zobrazenie
     .tooltiptext = Zmení zobrazenie
-
 places-view-menu-columns =
     .label = Zobraziť stĺpce
     .accesskey = b
-
 places-view-menu-sort =
     .label = Usporiadať
     .accesskey = s
-
 places-view-sort-unsorted =
     .label = Neusporiadané
     .accesskey = e
-
 places-view-sort-ascending =
     .label = Smer usporiadania A > Z
     .accesskey = A
-
 places-view-sort-descending =
     .label = Smer usporiadania Z > A
     .accesskey = Z
-
 places-maintenance-button =
     .label = Import a zálohovanie
     .tooltiptext = Import a zálohovanie mojich záložiek
     .accesskey = I
-
 places-maintenance-button-mac =
     .label = Import a zálohovanie
     .tooltiptext = Import a zálohovanie mojich záložiek
-
 places-cmd-backup =
     .label = Zálohovať…
     .accesskey = Z
-
 places-cmd-restore =
     .label = Obnoviť
     .accesskey = O
-
 places-cmd-restore-from-file =
     .label = Vybrať súbor…
     .accesskey = V
-
 places-import-bookmarks-from-html =
     .label = Importovať záložky zo súboru HTML…
     .accesskey = I
-
 places-export-bookmarks-to-html =
     .label = Exportovať záložky do súboru HTML…
     .accesskey = E
-
 places-import-other-browser =
     .label = Importovať údaje z iného prehliadača…
     .accesskey = d
-
 places-view-sort-col-name =
     .label = Názov
-
 places-view-sort-col-tags =
     .label = Značky
-
 places-view-sort-col-url =
     .label = Adresa
-
 places-view-sort-col-most-recent-visit =
     .label = Dátum poslednej návštevy
-
 places-view-sort-col-visit-count =
     .label = Počet návštev
-
 places-view-sort-col-date-added =
     .label = Pridané
-
 places-view-sort-col-last-modified =
     .label = Posledná úprava
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = Prejsť naspäť
-
 places-forward-button =
     .tooltiptext = Prejsť dopredu
-
 places-details-pane-select-an-item-description = Vyberte položku, ktorej vlastnosti chcete zobraziť alebo upraviť
