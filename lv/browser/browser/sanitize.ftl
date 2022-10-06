@@ -5,20 +5,19 @@
 sanitize-prefs =
     .title = Privāto datu dzēšanas iestatījumi
     .style = width: 40em
-
+sanitize-prefs2 =
+    .title = Privāto datu dzēšanas iestatījumi
+    .style = min-width: 40em
 sanitize-prefs-style =
     .style = width: 19em
-
 dialog-title =
     .title = Dzēst pārlūkošanas vēsturi
     .style = width: 40em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
     .title = Dzēst visu vēsturi
     .style = width: 40em
-
 clear-data-settings-label = Kad es aizveru { -brand-short-name } dzēst šo
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -32,22 +31,16 @@ clear-data-settings-label = Kad es aizveru { -brand-short-name } dzēst šo
 clear-time-duration-prefix =
     .value = Aizvākt{ " " }
     .accesskey = A
-
 clear-time-duration-value-last-hour =
     .label = pēdējo stundu
-
 clear-time-duration-value-last-2-hours =
     .label = pēdējās 2 stundas
-
 clear-time-duration-value-last-4-hours =
     .label = pēdējās 4 stundas
-
 clear-time-duration-value-today =
     .label = šīs dienas pārlūkošanas vēsturi
-
 clear-time-duration-value-everything =
     .label = visu pārlūkošanas vēsturi
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -55,51 +48,38 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Vēsture
-
 item-history-and-downloads =
     .label = Pārlūkošanas un lejupielāžu vēsturi
     .accesskey = r
-
 item-cookies =
     .label = Sīkdatnes
     .accesskey = S
-
 item-active-logins =
     .label = Aktīvos lietotājus
     .accesskey = l
-
 item-cache =
     .label = Kešatmiņu
     .accesskey = K
-
 item-form-search-history =
     .label = Formu un meklēšanas vēsturi
     .accesskey = F
-
 data-section-label = Dati
-
 item-offline-apps =
     .label = Lapu nesaistes datus
     .accesskey = t
-
 sanitize-everything-undo-warning = Šī ir neatgriezeniska darbība.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Dzēst privātos datus
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Notiek tīrīšana
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Visa vēsture tiks dzēsta.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
