@@ -4,44 +4,37 @@
 
 certmgr-title =
     .title = Mucunga Ibyemezo
-
 certmgr-tab-mine =
     .label = Ibyemezo Byawe
-
 certmgr-tab-ca =
     .label = Abayobozi
-
 certmgr-edit-ca-cert =
     .title = Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Guhindura amagenamiterere y'icyizere:
-
 certmgr-edit-cert-trust-ssl =
     .label = Iki cyemezo gishobora kuranga imbugamakuru.
-
 certmgr-edit-cert-trust-email =
     .label = Iki cyemezo gishobora kuranga abakoresha ubutumwa.
-
 certmgr-delete-cert =
     .title = Gusiba Icyemezo
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Gusiba Icyemezo
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Izina ry'Icyemezo
-
 certmgr-token-name =
     .label = Apareyi y'Umutekano
-
 certmgr-expires-label =
     .label = Agaciro Kayo Kazarangira Ku Wa:
-
 certmgr-email =
     .label = Aderesi ya Imeyili
-
 certmgr-serial =
     .label = Nimero Iranga
-
 pk11-bad-password = Ijambobanga  winjije siryo.
 pkcs12-decode-err = Ntibishobotse iyo dosiye. Birashoboka ko itari mu bwoko bwa PKCS #12, cyangwa byapfuye, cyangwa se winjije ijambobanga  ritariryo.
 pkcs12-unknown-err-restore = Ntibishobotse gusubizaho idosiye y'ubwoko bwa PKCS #12 kubera impamvu zitazwi.
@@ -73,15 +66,12 @@ delete-user-cert-title =
     .title = Gusiba Ibyemezo byawe
 delete-user-cert-confirm = Urashaka koko gusiba izi byemezo?
 delete-user-cert-impact = Nusiba rumwe mu byemezo byawe bwite, ntuzaba icyongeye kurukoresha kugira ngo wirange.
-
-
 delete-email-cert-title =
     .title = Gusiba Ibyemezo bya Imeyili
 delete-email-cert-confirm = Urashaka koko gusiba ibyemezo bya imeyili z'aba bantu?
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
