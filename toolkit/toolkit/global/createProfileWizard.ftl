@@ -37,6 +37,11 @@ create-profile-last-page-header =
         [macos] Tonngirka
        *[other] Nana jokkita { create-profile-window.title }
     }
+create-profile-last-page-header2 =
+    { PLATFORM() ->
+        [macos] Tonngirka
+       *[other] Nana jokkita { create-profile-window2.title }
+    }
 profile-creation-intro = So a sosii keftinirɗe keewɗe aɗa waawi seerndirɗe-ɗe innde. Aɗa waawi huutoraade innde hokkaande ndee walla kuutoro-ɗaa innde nde cuɓi-ɗaa.
 profile-prompt = Naatnu innde heftinirde hesere:
     .accesskey = N
