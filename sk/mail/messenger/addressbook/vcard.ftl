@@ -36,6 +36,10 @@ vcard-n-suffix = Titul za menom
 vcard-n-add-suffix =
     .title = Pridať titul za menom
 
+# Nickname
+
+vcard-nickname = Prezývka
+
 # Email vCard field
 
 vcard-email-header = E-mailové adresy
@@ -54,6 +58,10 @@ vcard-url-label = Webová stránka
 vcard-tel-header = Telefónne čísla
 vcard-tel-add = Pridať telefónne číslo
 vcard-tel-label = Telefónne číslo
+# Or "Mobile"
+vcard-entry-type-cell = Mobil
+vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Pager
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Pridať časové pásmo
 
 # IMPP vCard field
 
-vcard-impp-header = Účty pre konverzácie
 vcard-impp2-header = Okamžité správy
 vcard-impp-add = Pridať účet pre konverzácie
 vcard-impp-label = Účet pre konverzácie

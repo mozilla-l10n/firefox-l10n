@@ -21,7 +21,16 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Všetky adresáre kontaktov
 all-address-books = Všetky adresáre
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Celkový počet kontaktov v adresári { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Celkový počet kontaktov vo všetkých adresároch: { $count }
 about-addressbook-books-context-properties =
     .label = Vlastnosti
 about-addressbook-books-context-edit-list =
@@ -87,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = E-mailové adresy
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Prezývka
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Telefónne čísla
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -175,10 +187,23 @@ about-addressbook-placeholder-no-search-results = Neboli nájdené žiadne konta
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = Vybraté kontakty a zoznamy: { $count }
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = Vybraté kontakty: { $count }
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = Vybraté zoznamy: { $count }
+about-addressbook-details-edit-photo =
+    .title = Upraviť fotografiu kontaktu
+about-addressbook-new-contact-header = Nový kontakt
 about-addressbook-prefer-display-name = Uprednostniť Zobrazované meno namiesto mena z hlavičky správy
 about-addressbook-write-action-button = Napísať správu
 about-addressbook-event-action-button = Udalosť
 about-addressbook-search-action-button = Hľadať
+about-addressbook-new-list-action-button = Nový zoznam
 about-addressbook-begin-edit-contact-button = Upraviť
 about-addressbook-delete-edit-contact-button = Odstrániť
 about-addressbook-cancel-edit-contact-button = Zrušiť
@@ -189,6 +214,7 @@ about-addressbook-details-phone-numbers-header = Telefónne čísla
 about-addressbook-details-addresses-header = Adresy
 about-addressbook-details-notes-header = Poznámky
 about-addressbook-details-impp-header = Okamžité správy
+about-addressbook-details-websites-header = Webové stránky
 about-addressbook-details-other-info-header = Ďalšie informácie
 about-addressbook-entry-type-work = Práca
 about-addressbook-entry-type-home = Domov
@@ -203,6 +229,10 @@ about-addressbook-entry-name-role = Funkcia
 about-addressbook-entry-name-organization = Organizácia
 about-addressbook-entry-name-website = Webová stránka
 about-addressbook-entry-name-time-zone = Časové pásmo
+about-addressbook-entry-name-custom1 = Ostatné 1
+about-addressbook-entry-name-custom2 = Ostatné 2
+about-addressbook-entry-name-custom3 = Ostatné 3
+about-addressbook-entry-name-custom4 = Ostatné 4
 about-addressbook-unsaved-changes-prompt-title = Neuložené zmeny
 about-addressbook-unsaved-changes-prompt = Chcete pred ukončením uložiť vykonané zmeny?
 
