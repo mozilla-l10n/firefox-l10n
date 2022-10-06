@@ -4,131 +4,100 @@
 
 certmgr-title =
     .title = Administratur da certificats
-
 certmgr-tab-mine =
     .label = Tes certificats
-
 certmgr-tab-remembered =
     .label = Decisiuns d'autentificaziun
-
 certmgr-tab-people =
     .label = Persunas
-
 certmgr-tab-servers =
     .label = Server
-
 certmgr-tab-ca =
     .label = Posts da certificaziun
-
 certmgr-mine = Ti has certificats da questas organisaziuns che identifitgeschan tai
 certmgr-remembered = Quests certificats vegnan utilisads per t'identifitgar visavi websites
 certmgr-people = Ti has certificats memorisads che identifitgeschan questas persunas
 certmgr-server = Questas endataziuns identifitgeschan las excepziuns da las errurs da certificats da servers
 certmgr-ca = Ti has certificats memorisads che identifitgeschan quests posts da certificaziun
-
 certmgr-edit-ca-cert =
     .title = Modifitgar ils parameters da fidanza en certificats CA
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Modifitgar ils parameters da fidanza en certificats CA
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Modifitgar ils parameters da fidanza:
-
 certmgr-edit-cert-trust-ssl =
     .label = Quest certificat po identifitgar websites.
-
 certmgr-edit-cert-trust-email =
     .label = Quest certificat po identifitgar utilisaders dad e-mail.
-
 certmgr-delete-cert =
     .title = Stizzar il certificat
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Stizzar il certificat
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-host =
     .label = Host
-
 certmgr-cert-name =
     .label = Num dal certificat
-
 certmgr-cert-server =
     .label = Server
-
 certmgr-override-lifetime =
     .label = Durada da vita
-
 certmgr-token-name =
     .label = Modul da criptografia
-
 certmgr-begins-label =
     .label = Cumenza ils
-
 certmgr-expires-label =
     .label = Scada ils
-
 certmgr-email =
     .label = Adressa dad e-mail
-
 certmgr-serial =
     .label = Numer da seria
-
 certmgr-view =
     .label = Vesair…
     .accesskey = V
-
 certmgr-edit =
     .label = Modifitgar la fidanza…
     .accesskey = M
-
 certmgr-export =
     .label = Exportar…
     .accesskey = x
-
 certmgr-delete =
     .label = Stizzar…
     .accesskey = t
-
 certmgr-delete-builtin =
     .label = Stizzar u betg pli fidar…
     .accesskey = b
-
 certmgr-backup =
     .label = Memorisar…
     .accesskey = M
-
 certmgr-backup-all =
     .label = Memorisar tuts…
     .accesskey = t
-
 certmgr-restore =
     .label = Importar…
     .accesskey = I
-
 certmgr-add-exception =
     .label = Agiuntar in'excepziun…
     .accesskey = e
-
 exception-mgr =
     .title = Agiuntar ina regla d'excepziun da segirezza
-
 exception-mgr-extra-button =
     .label = Confermar la regla d'excepziun da segirezza
     .accesskey = S
-
 exception-mgr-supplemental-warning = Bancas seriusas, fatschentas ed autras paginas uffizialas na vegnan betg a dumandar tai da far talas chaussas.
-
 exception-mgr-cert-location-url =
     .value = Adressa:
-
 exception-mgr-cert-location-download =
     .label = Telechargiar il certificat
     .accesskey = T
-
 exception-mgr-cert-status-view-cert =
     .label = Vesair…
     .accesskey = A
-
 exception-mgr-permanent =
     .label = Memorisar questa excepziun per adina
     .accesskey = n
-
 pk11-bad-password = Il pled-clav endatà n'era betg correct.
 pkcs12-decode-err = Impussibel da decodar la datoteca. U ch'ella n'ha betg il format PKCS#12, u ch'ella è vegnida transmessa cun errurs, u ch'il pled-clav endatà n'è betg correct.
 pkcs12-unknown-err-restore = Per motivs betg enconuschents n'èsi betg reussì da restaurar la datoteca PKCS#12.
@@ -161,39 +130,28 @@ delete-user-cert-title =
     .title = Stizzar tes certificats
 delete-user-cert-confirm = Duain quests certificats propi vegnir stizzads?
 delete-user-cert-impact = Sche ti stizzas in da tes agens certificats, na pos ti betg pli utilisar quel per t'identifitgar.
-
-
 delete-ssl-override-title =
     .title = Stizzar l'excepziun dal certificat da server
 delete-ssl-override-confirm = Vuls ti propi stizzar questa excepziun dal certificat da server?
 delete-ssl-override-impact = Sche ti stizzas ina excepziun da server, vegnan las controllas da segirezza normalas restauradas per quest server ed el sto utilisar in certificat valid.
-
 delete-ca-cert-title =
     .title = Stizzar u betg pli fidar a certificats CS
 delete-ca-cert-confirm = Ti has dumandà da stizzar quests certificats CA. Per certificats integrads vegn tut la fidanza allontanada, cun il medem effect. Es ti segir che ti vuls stizzar u betg pli fidar?
 delete-ca-cert-impact = Sche ti stizzas u na fidas betg pli ad in certificat dad in post da certificaziun (CA) na vegn questa applicaziun betg pli a fidar a certificats emess da quest post.
-
-
 delete-email-cert-title =
     .title = Stizzar certificats dad e-mail
 delete-email-cert-confirm = Duain ils certificats dad e-mail da questa persuna propi vegnir stizzads?
 delete-email-cert-impact = Sche ti stizzas in certificat dad e-mail d'ina persuna, na pos ti betg pli trametter e-mails criptads a questa persuna.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certificat cun il numer da seria: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Na trametter nagin certificat da client
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Betg memorisà)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (betg disponibel)
 
