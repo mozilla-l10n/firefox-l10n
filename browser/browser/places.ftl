@@ -23,7 +23,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Открыть в новом приватном окне
     .accesskey = и
-
 places-add-bookmark =
     .label = Создать закладку…
     .accesskey = з
@@ -36,7 +35,6 @@ places-add-folder =
 places-add-separator =
     .label = Добавить разделитель
     .accesskey = р
-
 places-view =
     .label = Вид
     .accesskey = и
@@ -55,14 +53,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = По дате и сайтам
     .accesskey = и
-
 places-history-search =
     .placeholder = Поиск по журналу
 places-history =
     .aria-label = Журнал
 places-bookmarks-search =
     .placeholder = Поиск закладок
-
 places-delete-domain-data =
     .label = Забыть об этом сайте
     .accesskey = б
@@ -88,22 +84,18 @@ places-delete-folder =
            *[many] Удалить папки
         }
     .accesskey = л
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Управляемые закладки
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Вложенная папка
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Другие закладки
-
 places-show-in-folder =
     .label = Показать в папке
     .accesskey = з
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -115,129 +107,97 @@ places-delete-bookmark =
            *[many] Удалить { $count } закладок
         }
     .accesskey = л
-
 places-manage-bookmarks =
     .label = Управление закладками
     .accesskey = в
-
 places-forget-about-this-site-confirmation-title = Забыть об этом сайте
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Это действие удалит все данные, связанные с { $hostOrBaseDomain }, в том числе историю, пароли, куки, кэш и настройки содержимого. Вы уверены, что хотите продолжить?
-
 places-forget-about-this-site-forget = Забыть
-
 places-library =
     .title = Библиотека
     .style = width:700px; height:500px;
-
+places-library2 =
+    .title = Библиотека
+    .style = min-width:700px; min-height:500px;
 places-organize-button =
     .label = Управление
     .tooltiptext = Управление вашими закладками
     .accesskey = а
-
 places-organize-button-mac =
     .label = Управление
     .tooltiptext = Управление вашими закладками
-
 places-file-close =
     .label = Закрыть
     .accesskey = З
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = Вид
     .tooltiptext = Изменение внешнего вида
     .accesskey = и
-
 places-view-button-mac =
     .label = Вид
     .tooltiptext = Изменение внешнего вида
-
 places-view-menu-columns =
     .label = Показать колонки
     .accesskey = к
-
 places-view-menu-sort =
     .label = Сортировка
     .accesskey = р
-
 places-view-sort-unsorted =
     .label = Без сортировки
     .accesskey = е
-
 places-view-sort-ascending =
     .label = Сортировка по алфавиту
     .accesskey = С
-
 places-view-sort-descending =
     .label = В обратном порядке
     .accesskey = о
-
 places-maintenance-button =
     .label = Импорт и резервные копии
     .tooltiptext = Импорт и резервные копии ваших закладок
     .accesskey = о
-
 places-maintenance-button-mac =
     .label = Импорт и резервные копии
     .tooltiptext = Импорт и резервные копии ваших закладок
-
 places-cmd-backup =
     .label = Создать резервную копию…
     .accesskey = р
-
 places-cmd-restore =
     .label = Восстановить резервную копию от
     .accesskey = с
-
 places-cmd-restore-from-file =
     .label = Выбрать файл…
     .accesskey = б
-
 places-import-bookmarks-from-html =
     .label = Импорт закладок из HTML-файла…
     .accesskey = И
-
 places-export-bookmarks-to-html =
     .label = Экспорт закладок в HTML-файл…
     .accesskey = Э
-
 places-import-other-browser =
     .label = Импорт данных из другого браузера…
     .accesskey = п
-
 places-view-sort-col-name =
     .label = Имя
-
 places-view-sort-col-tags =
     .label = Метки
-
 places-view-sort-col-url =
     .label = Адрес
-
 places-view-sort-col-most-recent-visit =
     .label = Последнее посещение
-
 places-view-sort-col-visit-count =
     .label = Число посещений
-
 places-view-sort-col-date-added =
     .label = Добавлена
-
 places-view-sort-col-last-modified =
     .label = Посл. изменение
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = Перейти назад
-
 places-forward-button =
     .tooltiptext = Перейти вперёд
-
 places-details-pane-select-an-item-description = Выберите элемент для просмотра и редактирования его свойств
