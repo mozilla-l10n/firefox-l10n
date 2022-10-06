@@ -8,24 +8,18 @@ password-quality-meter = ਪਾਸਵਰਡ ਕੁਆਲਟੀ ਮੀਟਰ
 
 change-device-password-window =
     .title = ਪਾਸਵਰਡ ਬਦਲੋ
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ: { $tokenName }
 change-password-old = ਮੌਜੂਦਾ ਪਾਸਵਰਡ:
 change-password-new = ਨਵਾਂ ਪਾਸਵਰਡ:
 change-password-reenter = ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = ਪਾਸਵਰਡ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 pippki-incorrect-pw = ਤੁਸੀਂ ਆਪਣਾ ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਠੀਕ ਨਹੀਂ ਭਰਿਆ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।
 pippki-pw-change-ok = ਪਾਸਵਰਡ ਕਾਮਯਾਬੀ ਨਾਲ ਬਦਲਿਆ ਹੈ।
-
 pippki-pw-empty-warning = ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਤੇ ਪ੍ਰਾਈਵੇਟ ਕੁੰਜੀਆਂ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਰਹਿਣਗੀਆਂ।
 pippki-pw-erased-ok = ਤੁਸੀਂ ਆਪਣਾ ਪਾਸਵਰਡ ਹਟਾ ਚੁੱਕੇ ਹੋ। { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ਸਾਵਧਾਨ! ਤੁਸੀਂ ਪਾਸਵਰਡ ਨਾ ਵਰਤਣ ਦਾ ਫ਼ੈਸਲਾ ਕੀਤਾ ਹੈ। { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = ਇਸ ਵੇਲੇ ਤੁਸੀਂ FIPS ਢੰਗ ਵਰਤ ਰਹੇ ਹੋ। FIPS ਲਈ ਪਾਸਵਰਡ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।
 
 ## Reset Primary Password dialog
@@ -35,9 +29,7 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = ਮੁੜ-ਲੋਡ ਕਰੋ
-
 reset-primary-password-text = ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮੁੱਖ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਪਾਸਵਰਡ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?
-
 pippki-reset-password-confirmation-title = ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 pippki-reset-password-confirmation-message = ਤੁਹਾਡਾ ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ।
 
@@ -46,6 +38,9 @@ pippki-reset-password-confirmation-message = ਤੁਹਾਡਾ ਮੁੱਖ ਪ
 download-cert-window =
     .title = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .style = width: 46em
+download-cert-window2 =
+    .title = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+    .style = min-width: 46em
 download-cert-message = ਤੁਹਾਨੂੰ ਇੱਕ ਨਵੀਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ (CA) ਉੱਤੇ ਭਰੋਸਾ ਕਰਨ ਲਈ ਕਿਹਾ ਜਾਂਦਾ ਹੈ
 download-cert-trust-ssl =
     .label = ਇਸ CA ਨੂੰ ਵੈੱਬ ਸਾਇਟਾਂ ਨੂੰ ਪਛਾਣ ਲਈ ਵਿਸ਼ਵਾਸ ਵਿੱਚ ਲਵੋ।
