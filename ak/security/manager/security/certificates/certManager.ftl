@@ -4,90 +4,70 @@
 
 certmgr-title =
     .title = Abodin krata Sohwɛfo
-
 certmgr-tab-mine =
     .label = W'abodin Nkrataa
-
 certmgr-tab-people =
     .label = Nnipa
-
 certmgr-tab-servers =
     .label = Somfo mfidie
-
 certmgr-tab-ca =
     .label = Aban
-
 certmgr-edit-ca-cert =
     .title = Sesa CA abodin krataa agyedi nhyehyɛe
     .style = width: 48em;
-
+certmgr-edit-ca-cert2 =
+    .title = Sesa CA abodin krataa agyedi nhyehyɛe
+    .style = min-width: 48em;
 certmgr-edit-cert-edit-trust = Sesa agyedi nhyehyɛe:
-
 certmgr-edit-cert-trust-email =
     .label = Saa abodin krataa yi betumi akyerɛ emel dwumadifo.
-
 certmgr-delete-cert =
     .title = Diliite Abodin krataa
     .style = width: 48em; height: 24em;
-
+certmgr-delete-cert2 =
+    .title = Diliite Abodin krataa
+    .style = min-width: 48em; min-height: 24em;
 certmgr-cert-name =
     .label = Abodin krataa Din
-
 certmgr-cert-server =
     .label = Somfofidie
-
 certmgr-override-lifetime =
     .label = Nkwa Nda
-
 certmgr-token-name =
     .label = Bambɔ Efidie
-
 certmgr-expires-label =
     .label = Expires On
-
 certmgr-email =
     .label = Emel adrɛs
-
 certmgr-view =
     .label = Hwɛ…
     .accesskey = H
-
 certmgr-delete =
     .label = Pepa…
     .accesskey = P
-
 certmgr-backup =
     .label = Sie-bio…
     .accesskey = S
-
 certmgr-backup-all =
     .label = Jjamu copi otteereke ya zona…
     .accesskey = m
-
 certmgr-restore =
     .label = Impɔɔt…
     .accesskey = I
-
 certmgr-add-exception =
     .label = Ggataa Okundawo…
     .accesskey = k
-
 exception-mgr =
     .title = Ggataa Ebyokwerida Okundawo
-
 exception-mgr-extra-button =
     .label = Foa sekuriti ngyegye so
     .accesskey = F
-
 exception-mgr-supplemental-warning = Zabaki, amateerekero, ne wakale awalala awakumee tteewa kusaba kukola kino.
-
 exception-mgr-cert-location-url =
     .value = Lokehyɛn:
-
 exception-mgr-permanent =
     .label = Ekyekalakalira tteereka okundawo kino
     .accesskey = E
-
 pk11-bad-password = The password entered was incorrect.
 pkcs12-decode-err = Failed to decode the file.  Either it is not in PKCS #12 format, has been corrupted, or the password you entered was incorrect.
 pkcs12-unknown-err-restore = Failed to restore the PKCS #12 file for unknown reasons.
@@ -118,16 +98,13 @@ edit-trust-ca = Santifikati "{ $certName }" ye mubakka wo bunyiza bwa Santifikat
 delete-user-cert-title =
     .title = Sangula Santifikati zo
 delete-user-cert-impact = Bwosangula emu ku santifikati zo, tojjakunddamu kujjikozesako kwogerako.
-
-
 delete-email-cert-title =
     .title = Sangula Satifikati ya i-mayilu
 delete-email-cert-confirm = Okakasa oyagala ku sangula santifikati i-mayilu za bantu bano?
 delete-email-cert-impact = Bwosangula satifikati ya i-mayilu yo muntu, ojjakuba to kyasindika i-mayilu ekyakalanyi ku muntu oyo.
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
