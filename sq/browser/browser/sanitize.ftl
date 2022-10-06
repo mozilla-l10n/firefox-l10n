@@ -5,20 +5,19 @@
 sanitize-prefs =
     .title = Rregullime për Spastrim Historiku
     .style = width: 34em
-
+sanitize-prefs2 =
+    .title = Rregullime për Spastrim Historiku
+    .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
-
 dialog-title =
     .title = Spastro Historikun Së Fundi
     .style = width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
     .title = Spastro Krejt Historikun
     .style = width: 34em
-
 clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i spastrojë të tëra automatikisht
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -32,22 +31,16 @@ clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i spast
 clear-time-duration-prefix =
     .value = Interval kohor për t’u spastruar:{ " " }
     .accesskey = I
-
 clear-time-duration-value-last-hour =
     .label = Ora e Fundit
-
 clear-time-duration-value-last-2-hours =
     .label = Dy Orët e Fundit
-
 clear-time-duration-value-last-4-hours =
     .label = Katër Orët e Fundit
-
 clear-time-duration-value-today =
     .label = Sot
-
 clear-time-duration-value-everything =
     .label = Gjithçka
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -55,55 +48,41 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historik
-
 item-history-and-downloads =
     .label = Historik Shfletimesh dhe Shkarkimesh
     .accesskey = H
-
 item-cookies =
     .label = Cookies
     .accesskey = C
-
 item-active-logins =
     .label = Kredenciale Hyrjeje Aktive
     .accesskey = A
-
 item-cache =
     .label = Fshehtinë
     .accesskey = e
-
 item-form-search-history =
     .label = Historik Formularësh & Kërkimesh
     .accesskey = F
-
 data-section-label = Të dhëna
-
 item-site-settings =
     .label = Rregullime sajti
     .accesskey = R
-
 item-offline-apps =
     .label = Të dhëna Sajti Jashtë Linje
     .accesskey = T
-
 sanitize-everything-undo-warning = Ky veprim s’mund të zhbëhet.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Spastroje Tani
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Po spastrohet
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Do të spastrohet krejt historiku.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
