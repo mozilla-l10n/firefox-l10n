@@ -5,6 +5,9 @@
 sanitize-prefs =
     .title = Roghainnean a chum glanadh na h-eachdraidh
     .style = width: 45em
+sanitize-prefs2 =
+    .title = Roghainnean a chum glanadh na h-eachdraidh
+    .style = min-width: 45em
 sanitize-prefs-style =
     .style = width: 30em
 dialog-title =
