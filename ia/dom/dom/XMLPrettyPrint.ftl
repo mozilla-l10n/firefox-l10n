@@ -2,4 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xml-nostylesheet = Le file XML non pare haber informationes de stilo associate. Le arbore del documento es monstrate infra.
+xml-nostylesheet = Iste file XML non pare haber informationes de stilo associate. Le arbore del documento es monstrate infra.
