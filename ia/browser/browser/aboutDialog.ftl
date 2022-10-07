@@ -23,7 +23,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } es in actualisation 
 update-manual = Actualisationes disponibile in <label data-l10n-name="manual-link"/>
 update-unsupported = Tu non pote facer plus actualisationes in iste systema. <label data-l10n-name="unsupported-link">Saper plus</label>
 update-restarting = Reinitiante…
-update-internal-error = Impossibile verificar pro actualisationes per error interne. Actualisationes disponibile a <label data-l10n-name="manual-link"/>
+update-internal-error = Impossibile verificar le presentia de actualisationes a causa de un error interne. Actualisationes disponibile a <label data-l10n-name="manual-link"/>
 channel-description = Tu es actualmente in le canal de actualisationes <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } es experimental e pote esser instabile.
 aboutdialog-help-user = Adjuta de { -brand-product-name }

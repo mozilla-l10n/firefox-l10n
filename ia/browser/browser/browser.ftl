@@ -325,7 +325,7 @@ quickactions-viewsource = Vider le fonte
 quickactions-cmd-viewsource = vider fonte, fonte
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
-    .title = Saper plus re le actiones rapide
+    .title = Saper plus sur le actiones rapide
 
 ## Bookmark Panel
 
@@ -504,7 +504,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Pro usar le clave de accesso directe F12, aperi primo le instrumentos de disveloppamento per le menu “Disveloppamento Web”.
-enable-devtools-popup-description2 = Pro usar le via breve de claviero F12, aperi primo le DevTools per le “Menu del utensiles de navigator”.
+enable-devtools-popup-description2 = Pro usar le clave de accesso directe F12, aperi primo le DevTools a partir del “Menu del utensiles de navigator”.
 
 ## URL Bar
 
