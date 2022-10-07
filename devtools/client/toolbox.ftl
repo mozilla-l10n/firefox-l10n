@@ -34,5 +34,6 @@ toolbox-meatball-menu-pseudo-locale-bidi = Activar lenga « bidireccionala �
 
 toolbox-mode-browser-toolbox-label = Mòde bóstia d'aisinas del navegador
 toolbox-mode-browser-console-label = Mòde consòla del navegador
+toolbox-mode-everything-label = Multiprocèssus
 toolbox-mode-everything-sub-label = (Mai lent)
 toolbox-mode-parent-process-sub-label = (Rapid)
