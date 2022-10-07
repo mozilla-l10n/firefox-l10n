@@ -7,4 +7,4 @@ app-picker-browse-button =
 app-picker-send-msg =
     .value = Inviar iste elemento a:
 app-picker-no-app-found =
-    .value = Nulle application esseva trovate pro iste typo de file.
+    .value = Nulle application ha essite trovate pro iste typo de file.
