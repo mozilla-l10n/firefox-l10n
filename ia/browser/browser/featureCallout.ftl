@@ -28,5 +28,5 @@ callout-firefox-view-colorways-reminder-subtitle = Colora tu navigator con iste 
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Stimula tu navigation con le prisa de schedas
-continuous-onboarding-firefox-view-tab-pickup-subtitle = Accede a tu schedas aperte ab ulle apparato. In ultra synchronisa tu marcapaginas, contrasignos e altero ancora.
-continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Que nos va
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Accede a tu schedas aperte a partir de non importa qual apparato. In ultra, synchronisa tu marcapaginas, contrasignos, e plus.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Comenciar
