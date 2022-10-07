@@ -69,6 +69,7 @@ policy-ExtensionUpdate = Activar o desactivar la mesa a jorn automatica de las e
 policy-FirefoxHome = Configurar l’acuèlh de Firefox.
 policy-FirefoxHome2 = Configurar { -firefox-home-brand-name }.
 policy-FlashPlugin = Autoriza o pas l’utilizacion del plugin Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forçar la navegacion per l’intranet a la plaça de recercar quand òm pica un sol mot dins la barra d’adreça.
 policy-Handlers = Configurar los gestionaris d’aplicacions per defaut.
 policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.
 # “lock” means that the user won’t be able to change this setting
