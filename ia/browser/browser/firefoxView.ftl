@@ -21,16 +21,16 @@ firefoxview-tabpickup-recenttabs-description = Le listas de schedas recente vade
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% complete
-firefoxview-tabpickup-step-signin-header = Passar perfectemente inter apparatos
-firefoxview-tabpickup-step-signin-description = Pro aperir ci le schedas de tu telephono, primo accede o crea un conto.
+firefoxview-tabpickup-step-signin-header = Passar facilemente inter apparatos
+firefoxview-tabpickup-step-signin-description = Pro transferer le schedas de tu telephono ci, primo aperi session o crea un conto.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
-firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparato mobile e accede illac.
-firefoxview-tabpickup-adddevice-learn-how = Apprende como
+firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
+firefoxview-tabpickup-adddevice-learn-how = Apprender como
 firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
 firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
-firefoxview-tabpickup-synctabs-learn-how = Apprende como
+firefoxview-tabpickup-synctabs-learn-how = Apprender como
 firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu administrator ha disactivate le synchronisation.
