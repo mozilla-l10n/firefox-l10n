@@ -224,7 +224,7 @@ mr2-onboarding-start-browsing-button-label = Comenciar a navigar
 
 onboarding-live-language-header = Elige tu lingua
 mr2022-onboarding-live-language-text = { -brand-short-name } parla tu lingua
-mr2022-language-mismatch-subtitle = Gratias a nostre communitate, { -brand-short-name } es traducite in ultra 90 linguas. Il pare que tu systema usa { $systemLanguage }, e { -brand-short-name } usa { $appLanguage }.
+mr2022-language-mismatch-subtitle = Gratias a nostre communitate, { -brand-short-name } ha essite traducite in plus de 90 linguas. Il pare que tu systema usa { $systemLanguage }, e { -brand-short-name } usa { $appLanguage }.
 onboarding-live-language-button-label-downloading = Discargante le pacchetto de lingua pro { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Obtenente linguas disponibile…
 onboarding-live-language-installing = Installation del pacchetto de lingua pro { $negotiatedLanguage }…
@@ -257,7 +257,7 @@ fx100-upgrade-thanks-header = 100 gratias
 fx100-upgrade-thank-you-body = Isto es nostre 100me version de { -brand-short-name }. Gratias a <em>tu</em>adjuta nos pote render internet melior e plus salubre.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Isto es nostre 100me version! Gratias pro participar a nostre communitate. Mantene { -brand-short-name } a portata de clic pro le proxime 100.
-mr2022-onboarding-secondary-skip-button-label = Salta iste passo
+mr2022-onboarding-secondary-skip-button-label = Saltar iste passo
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -265,7 +265,7 @@ mr2022-onboarding-secondary-skip-button-label = Salta iste passo
 # In this context, open up is synonymous with "Discover".
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
-mr2022-onboarding-welcome-pin-header = Aperi un internet stupende
+mr2022-onboarding-welcome-pin-header = Discoperi un internet meraviliose
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Lancea { -brand-short-name } de ubique con un sol clic.  Cata vice tu lo face, tu elige un web plus aperte e independente.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -278,7 +278,7 @@ mr2022-onboarding-pin-primary-button-label =
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Initia con un navigator supportate per un organisation non-lucrative. Nos defende tu confidentialitate dum tu ambula circum le web.
+mr2022-onboarding-set-default-only-subtitle = Comencia con un navigator sustenite per un organisation sin scopo lucrative. Nos defende tu vita private durante que tu naviga sur le web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -289,16 +289,16 @@ mr2022-onboarding-existing-pin-subtitle = Lancea un internet plus san de ubique 
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Usa un navigator que defende tu confidentialitate dum tu ambula circum le web. Nostre ultime actualisation es plen de cosas que tu adora.
-mr2022-onboarding-existing-pin-checkbox-label = Alsi adde navigation private de { -brand-short-name }
+mr2022-onboarding-existing-pin-checkbox-label = Adde equalmente le navigation private de { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
-mr2022-onboarding-set-default-title = Rende { -brand-short-name } tu navigator de referentia
-mr2022-onboarding-set-default-primary-button-label = Rende { -brand-short-name } tu navigator predefinite
+mr2022-onboarding-set-default-title = Facer de { -brand-short-name } tu navigator favorite
+mr2022-onboarding-set-default-primary-button-label = Facer de { -brand-short-name } tu navigator predefinite
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-subtitle = Usa un navigator supportate per un organisation non-lucrative. Nos defende tu confidentialitate dum tu ambula circum le web.
+mr2022-onboarding-set-default-subtitle = Usa un navigator sustenite per un organisation sin scopo lucrative. Nos defende tu vita private durante que tu naviga sur le web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -306,7 +306,7 @@ mr2022-onboarding-set-default-subtitle = Usa un navigator supportate per un orga
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Nostre ultime version es construite circum te, rendente plus facile que mais ambular circum le web. Tu adorara su functionalitates integrate.
+mr2022-onboarding-get-started-primary-subtitle = Nostre ultime version es construite circa te, rendente le navigation del web plus facile que jammais. Es replete de functiones que nos crede que tu va adorar.
 mr2022-onboarding-get-started-primary-button-label = Configura lo in secundas
 
 ## MR2022 Import Settings screen strings
