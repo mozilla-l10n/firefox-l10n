@@ -36,4 +36,7 @@ toolbox-mode-browser-toolbox-label = Mòde bóstia d'aisinas del navegador
 toolbox-mode-browser-console-label = Mòde consòla del navegador
 toolbox-mode-everything-label = Multiprocèssus
 toolbox-mode-everything-sub-label = (Mai lent)
+toolbox-mode-everything-container =
+    .title = Tot desbugar dins totes los procèssus
+toolbox-mode-parent-process-label = Processus parent solament
 toolbox-mode-parent-process-sub-label = (Rapid)
