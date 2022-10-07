@@ -16,9 +16,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Privát böngészés)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Privát böngészés)
+    .data-title-private = { -brand-full-name } (privát böngészés)
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name } (privát böngészés)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -35,9 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Privát böngészés)
+    .data-title-private = { -brand-full-name } – (Privát böngészés)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Privát böngészés)
+    .data-content-title-private = { $content-title } – (Privát böngészés)
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #

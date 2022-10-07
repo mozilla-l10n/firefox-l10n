@@ -65,8 +65,8 @@ about-processes-unknown-process = Egyéb: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, eredet szerint elkülönítve)
-about-processes-web-isolated-process-private = { $origin } – Privát ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } – Privát ({ $pid }, eredet szerint elkülönítve)
+about-processes-web-isolated-process-private = { $origin } – privát ({ $pid })
+about-processes-with-coop-coep-process-private = { $origin } – privát ({ $pid }, eredet szerint elkülönítve)
 
 ## Details within processes
 
