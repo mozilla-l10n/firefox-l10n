@@ -5,52 +5,41 @@
 permissions-reminder-window =
     .title = Exceções
     .style = width: 36em;
-
+permissions-reminder-window2 =
+    .title = Exceções
 permission-preferences-close-window =
     .key = w
-
 website-address-label =
     .value = Endereço do site:
     .accesskey = n
-
 block-button =
     .label = Bloquear
     .accesskey = B
-
 allow-session-button =
     .label = Excluir ao sair
     .accesskey = x
-
 allow-button =
     .label = Permitir
     .accesskey = P
-
 treehead-sitename-label =
     .label = Site
-
 treehead-status-label =
     .label = Status
-
 remove-site-button =
     .label = Remover site
     .accesskey = R
-
 remove-all-site-button =
     .label = Excluir tudo
     .accesskey = t
-
 cancel-button =
     .label = Cancelar
     .accesskey = C
-
 save-button =
     .label = Salvar alterações
     .accesskey = S
-
 permission-can-label = Permitir
 permission-can-access-first-party-label = Permitir somente a primeira festa
 permission-can-session-label = Excluir ao sair
 permission-cannot-label = Bloquear
-
 invalid-uri-message = Digite um nome de servidor válido
 invalid-uri-title = Nome de servidor inválido

@@ -21,7 +21,16 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Todos os catálogos de endereços
 all-address-books = Todos os catálogos de endereços
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Total de contatos em { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Total de contatos em todos os catálogos de endereços: { $count }
 about-addressbook-books-context-properties =
     .label = Propriedades
 about-addressbook-books-context-edit-list =
@@ -87,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = Endereços de email
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Apelido
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Números de telefone
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -169,10 +181,23 @@ about-addressbook-placeholder-no-search-results = Nenhum contato encontrado
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } contatos e listas selecionados
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } contatos selecionados
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } listas selecionadas
+about-addressbook-details-edit-photo =
+    .title = Editar foto do contato
+about-addressbook-new-contact-header = Novo contato
 about-addressbook-prefer-display-name = Preferir nome de exibição ao cabeçalho da mensagem
 about-addressbook-write-action-button = Escrever
 about-addressbook-event-action-button = Evento
 about-addressbook-search-action-button = Pesquisar
+about-addressbook-new-list-action-button = Nova lista
 about-addressbook-begin-edit-contact-button = Editar
 about-addressbook-delete-edit-contact-button = Excluir
 about-addressbook-cancel-edit-contact-button = Cancelar
@@ -183,6 +208,7 @@ about-addressbook-details-phone-numbers-header = Números de telefone
 about-addressbook-details-addresses-header = Endereços
 about-addressbook-details-notes-header = Notas
 about-addressbook-details-impp-header = Mensagens instantâneas
+about-addressbook-details-websites-header = Sites
 about-addressbook-details-other-info-header = Outras informações
 about-addressbook-entry-type-work = Trabalho
 about-addressbook-entry-type-home = Casa
@@ -197,6 +223,10 @@ about-addressbook-entry-name-role = Função
 about-addressbook-entry-name-organization = Organização
 about-addressbook-entry-name-website = Site
 about-addressbook-entry-name-time-zone = Fuso horário
+about-addressbook-entry-name-custom1 = Personalizado 1
+about-addressbook-entry-name-custom2 = Personalizado 2
+about-addressbook-entry-name-custom3 = Personalizado 3
+about-addressbook-entry-name-custom4 = Personalizado 4
 about-addressbook-unsaved-changes-prompt-title = Alterações não salvas
 about-addressbook-unsaved-changes-prompt = Quer salvar suas alterações antes de sair do modo de edição?
 
