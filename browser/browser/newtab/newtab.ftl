@@ -266,4 +266,4 @@ newtab-custom-pocket-show-recent-saves = Mostrar coisas guardadas recentemente
 newtab-custom-recent-title = Atividade recente
 newtab-custom-recent-subtitle = Uma seleção de sites e conteúdos recentes
 newtab-custom-close-button = Fechar
-newtab-custom-settings = Gerir mais configurações
+newtab-custom-settings = Gerir mais definições
