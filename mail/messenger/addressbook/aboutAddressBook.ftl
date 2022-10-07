@@ -232,6 +232,7 @@ about-addressbook-entry-name-time-zone = Часовий пояс
 about-addressbook-entry-name-custom1 = Інше 1
 about-addressbook-entry-name-custom2 = Інше 2
 about-addressbook-entry-name-custom3 = Інше 3
+about-addressbook-entry-name-custom4 = Інше 4
 about-addressbook-unsaved-changes-prompt-title = Незбережені зміни
 about-addressbook-unsaved-changes-prompt = Зберегти зміни, перш ніж вийти з режиму редагування?
 
