@@ -372,6 +372,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Inventor/Inventritz.</b>Ve
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Passatz d’un ordenador portatiu a un mobil e invèrsament
+mr2022-onboarding-mobile-download-subtitle = Trapatz los onglets d’un aparelh e tornatz ont eratz sus un autre. Sincronizatz tanben los marcapaginas e senhals pertot ont utilizatz { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Numerizatz lo còdi QR per installar { -brand-product-name } per mobil o <a data-l10n-name="download-label">enviatz un ligam de telecargament.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Numerizatz lo còdi QR per telecargar { -brand-product-name } mobile.
 
@@ -390,6 +391,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Respectam totjorn vòstra vida privada
 mr2022-onboarding-privacy-segmentation-subtitle = De las suggestions intelligentas a la recèrca fina, sèm totjorn a crear un { -brand-product-name } melhor e mai personal.
+mr2022-onboarding-privacy-segmentation-text-cta = De qué volètz veire quand vos ensenham de foncionalitats novèlas qu’utilizan vòstras donadas per melhorar vòstra navegacion ?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Utilizar las recomandacions { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar las informacions detalhadas
 
