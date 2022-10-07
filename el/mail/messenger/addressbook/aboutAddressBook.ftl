@@ -21,7 +21,16 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Όλα τα ευρετήρια
 all-address-books = Όλα τα ευρετήρια
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Σύνολο επαφών στο «{ $name }»: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Σύνολο επαφών σε όλα τα ευρετήρια: { $count }
 about-addressbook-books-context-properties =
     .label = Ιδιότητες
 about-addressbook-books-context-edit-list =
@@ -87,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = Διευθύνσεις email
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Ψευδώνυμο
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Αριθμοί τηλεφώνου
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -169,10 +181,23 @@ about-addressbook-placeholder-no-search-results = Δεν βρέθηκαν επα
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } επιλεγμένες επαφές και λίστες
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } επιλεγμένες επαφές
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } επιλεγμένες λίστες
+about-addressbook-details-edit-photo =
+    .title = Επεξεργασία φωτογραφίας επαφής
+about-addressbook-new-contact-header = Νέα επαφή
 about-addressbook-prefer-display-name = Να προτιμηθεί η εμφάνιση ονόματος στην κεφαλίδα του μηνύματος
 about-addressbook-write-action-button = Σύνταξη
 about-addressbook-event-action-button = Εκδήλωση
 about-addressbook-search-action-button = Αναζήτηση
+about-addressbook-new-list-action-button = Νέα λίστα
 about-addressbook-begin-edit-contact-button = Επεξεργασία
 about-addressbook-delete-edit-contact-button = Διαγραφή
 about-addressbook-cancel-edit-contact-button = Ακύρωση
@@ -183,6 +208,7 @@ about-addressbook-details-phone-numbers-header = Αριθμοί τηλεφώνο
 about-addressbook-details-addresses-header = Διευθύνσεις
 about-addressbook-details-notes-header = Σημειώσεις
 about-addressbook-details-impp-header = Άμεσα μηνύματα
+about-addressbook-details-websites-header = Ιστότοποι
 about-addressbook-details-other-info-header = Άλλες πληροφορίες
 about-addressbook-entry-type-work = Εργασία
 about-addressbook-entry-type-home = Οικία
@@ -197,6 +223,10 @@ about-addressbook-entry-name-role = Ρόλος
 about-addressbook-entry-name-organization = Οργανισμός
 about-addressbook-entry-name-website = Ιστότοπος
 about-addressbook-entry-name-time-zone = Ζώνη ώρας
+about-addressbook-entry-name-custom1 = Προσαρμοσμένο 1
+about-addressbook-entry-name-custom2 = Προσαρμοσμένο 2
+about-addressbook-entry-name-custom3 = Προσαρμοσμένο 3
+about-addressbook-entry-name-custom4 = Προσαρμοσμένο 4
 about-addressbook-unsaved-changes-prompt-title = Μη αποθηκευμένες αλλαγές
 about-addressbook-unsaved-changes-prompt = Θέλετε να αποθηκεύσετε τις αλλαγές σας πριν αποχωρήσετε από την προβολή επεξεργασίας;
 
