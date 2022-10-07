@@ -5,7 +5,8 @@
 app-manager-window-dialog =
     .title = Uygulama Ayrıntıları
     .style = width: 30em; min-height: 20em;
-
+app-manager-window-dialog2 =
+    .title = Uygulama ayrıntıları
 remove-app-button =
     .label = Kaldır
     .accesskey = K
