@@ -38,6 +38,7 @@ firefoxview-tabpickup-network-offline-header = Sjekk internettilkoplinga di
 firefoxview-tabpickup-network-offline-description = Dersom du brukar ein brannmur eller proxy, sjekk at { -brand-short-name } har tilgangsløyve til nettet.
 firefoxview-tabpickup-network-offline-primarybutton = Prøv igjen
 firefoxview-tabpickup-sync-error-header = Vi har problem med å synkronisere
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kan ikkje nå synkroniseringstenesta akkurat no. Prøv igjen litt seinare.
 firefoxview-tabpickup-sync-error-primarybutton = Prøv igjen
 firefoxview-tabpickup-sync-disconnected-header = Slå på synkronisering for å halde fram
 firefoxview-tabpickup-sync-disconnected-description = For å få tilgang til fanene dine må du aktivere synkronisering i { -brand-short-name }.
