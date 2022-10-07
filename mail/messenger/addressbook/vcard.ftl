@@ -36,6 +36,10 @@ vcard-n-suffix = Sufixo
 vcard-n-add-suffix =
     .title = Adicionar sufixo
 
+# Nickname
+
+vcard-nickname = Apelido
+
 # Email vCard field
 
 vcard-email-header = Endereços de email
@@ -54,6 +58,10 @@ vcard-url-label = Site
 vcard-tel-header = Números de telefone
 vcard-tel-add = Adicionar número de telefone
 vcard-tel-label = Número de telefone
+# Or "Mobile"
+vcard-entry-type-cell = Celular
+vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Pager
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Adicionar fuso horário
 
 # IMPP vCard field
 
-vcard-impp-header = Contas de conversa
 vcard-impp2-header = Mensagens instantâneas
 vcard-impp-add = Adicionar conta de conversa
 vcard-impp-label = Conta de conversa
