@@ -22,7 +22,7 @@ autofill-add-new-address-title = Adder un nove adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modificar le adresse
 autofill-address-given-name = Prenomine
-autofill-address-additional-name = Nomine intermedie
+autofill-address-additional-name = Secunde nomine
 autofill-address-family-name = Nomine de familia
 autofill-address-organization = Organisation
 autofill-address-street = Adresse del strata
@@ -30,7 +30,7 @@ autofill-address-street = Adresse del strata
 ## address-level-3 (Sublocality) names
 
 # Used in IR, MX
-autofill-address-neighborhood = Vicinitate
+autofill-address-neighborhood = Quartiero
 # Used in MY
 autofill-address-village-township = Village o municipio
 autofill-address-island = Insula
