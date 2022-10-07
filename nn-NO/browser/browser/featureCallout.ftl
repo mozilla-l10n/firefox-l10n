@@ -28,4 +28,5 @@ callout-firefox-view-colorways-reminder-subtitle = Farg nettlesaren din med dess
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Gjer nettopplevinga di betre med synkronisering av faner
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Få tilgang til dei opne fanene dine frå kva som helst eining. Synkroniser også bokmerke og passord, med meir.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kom i gang
