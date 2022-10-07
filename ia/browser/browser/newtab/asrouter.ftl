@@ -211,8 +211,8 @@ firefoxview-cfr-body = In ultra, salta sin problemas inter apparatos e adde un t
 
 ## Firefox View Spotlight
 
-firefoxview-spotlight-promo-title = Saluta { -firefoxview-brand-name }
+firefoxview-spotlight-promo-title = Nos te presenta { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Vole tu ille scheda aperte sur tu telephono? Sasi lo. Besonia tu de ille sito que justo visitava? Puf, re-ecce lo con { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-subtitle = Vole tu transferer ille scheda aperte a tu telephono? Prende lo. Ha tu besonio de ille sito que tu ha justo ora visitate? Puf, es de retorno con { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Vider como functiona
 firefoxview-spotlight-promo-secondarybutton = Saltar
