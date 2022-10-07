@@ -5,52 +5,41 @@
 permissions-reminder-window =
     .title = Εξαιρέσεις
     .style = width: 45em;
-
+permissions-reminder-window2 =
+    .title = Εξαιρέσεις
 permission-preferences-close-window =
     .key = w
-
 website-address-label =
     .value = Διεύθυνση ιστοτόπου:
     .accesskey = θ
-
 block-button =
     .label = Φραγή
     .accesskey = Φ
-
 allow-session-button =
     .label = Αποδοχή για τη συνεδρία
     .accesskey = χ
-
 allow-button =
     .label = Αποδοχή
     .accesskey = Α
-
 treehead-sitename-label =
     .label = Ιστότοπος
-
 treehead-status-label =
     .label = Κατάσταση
-
 remove-site-button =
     .label = Αφαίρεση ιστοτόπου
     .accesskey = ρ
-
 remove-all-site-button =
     .label = Αφαίρεση όλων των ιστοτόπων
     .accesskey = λ
-
 cancel-button =
     .label = Ακύρωση
     .accesskey = Α
-
 save-button =
     .label = Αποθήκευση αλλαγών
     .accesskey = Α
-
 permission-can-label = Αποδοχή
 permission-can-access-first-party-label = Αποδοχή μόνο πρώτου μέρους
 permission-can-session-label = Αποδοχή για τη συνεδρία
 permission-cannot-label = Φραγή
-
 invalid-uri-message = Παρακαλώ εισαγάγετε ένα έγκυρο όνομα κεντρικού υπολογιστή
 invalid-uri-title = Μη έγκυρο όνομα κεντρικού υπολογιστή

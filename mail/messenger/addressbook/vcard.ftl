@@ -36,6 +36,10 @@ vcard-n-suffix = Επίθεμα
 vcard-n-add-suffix =
     .title = Προσθήκη επιθέματος
 
+# Nickname
+
+vcard-nickname = Ψευδώνυμο
+
 # Email vCard field
 
 vcard-email-header = Διευθύνσεις email
@@ -54,6 +58,10 @@ vcard-url-label = Ιστότοπος
 vcard-tel-header = Αριθμοί τηλεφώνου
 vcard-tel-add = Προσθήκη αριθμού τηλεφώνου
 vcard-tel-label = Αριθμός τηλεφώνου
+# Or "Mobile"
+vcard-entry-type-cell = Κινητό
+vcard-entry-type-fax = Φαξ
+vcard-entry-type-pager = Βομβητής
 
 # TZ vCard field
 
@@ -62,7 +70,6 @@ vcard-tz-add = Προσθήκη ζώνης ώρας
 
 # IMPP vCard field
 
-vcard-impp-header = Λογαριασμοί συνομιλίας
 vcard-impp2-header = Άμεσα μηνύματα
 vcard-impp-add = Προσθήκη λογαριασμού συνομιλίας
 vcard-impp-label = Λογαριασμός συνομιλίας

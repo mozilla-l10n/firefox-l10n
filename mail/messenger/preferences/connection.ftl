@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 60em !important
            *[other] width: 60em !important
         }
+connection-dialog-window2 =
+    .title = Ρυθμίσεις σύνδεσης
 disable-extension-button = Απενεργοποίηση επέκτασης
 # Variables:
 #   $name (String) - The extension that is controlling the proxy settings.
