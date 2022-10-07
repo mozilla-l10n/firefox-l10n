@@ -378,7 +378,7 @@ mr2022-onboarding-no-mobile-download-cta-text = Скануйце QR-код, ка
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-upgrade-onboarding-pin-private-window-header = Атрымайце свабода прыватнага аглядання ў адзін націск
+mr2022-upgrade-onboarding-pin-private-window-header = Атрымайце свабоду прыватнага аглядання ў адзін націск
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Ніякіх захаваных кукаў або гісторыі наўпрост з працоўнага стала. Аглядайце так, нібы ніхто не назірае.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
