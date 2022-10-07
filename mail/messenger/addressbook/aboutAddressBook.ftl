@@ -21,6 +21,8 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Tüm adres defterleri
 all-address-books = Tüm Adres Defterleri
 # Variables:
 # $name (String) - The name of the selected book/list.
@@ -179,12 +181,23 @@ about-addressbook-placeholder-no-search-results = Kişi bulunamadı
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } kişi ve liste seçili
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } kişi seçili
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } liste seçili
 about-addressbook-details-edit-photo =
     .title = Kişi fotoğrafını düzenle
+about-addressbook-new-contact-header = Yeni kişi
 about-addressbook-prefer-display-name = İleti başlığında görünen adı tercih et
 about-addressbook-write-action-button = Yaz
 about-addressbook-event-action-button = Etkinlik
 about-addressbook-search-action-button = Ara
+about-addressbook-new-list-action-button = Yeni liste
 about-addressbook-begin-edit-contact-button = Düzenle
 about-addressbook-delete-edit-contact-button = Sil
 about-addressbook-cancel-edit-contact-button = Vazgeç
@@ -195,6 +208,7 @@ about-addressbook-details-phone-numbers-header = Telefon numaraları
 about-addressbook-details-addresses-header = Adresler
 about-addressbook-details-notes-header = Notlar
 about-addressbook-details-impp-header = Anlık mesajlaşma
+about-addressbook-details-websites-header = Web siteleri
 about-addressbook-details-other-info-header = Diğer bilgiler
 about-addressbook-entry-type-work = İş
 about-addressbook-entry-type-home = Ev
