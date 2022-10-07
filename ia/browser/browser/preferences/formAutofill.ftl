@@ -32,10 +32,10 @@ autofill-address-street = Adresse del strata
 # Used in IR, MX
 autofill-address-neighborhood = Vicinitate
 # Used in MY
-autofill-address-village-township = Village o municipalitate
+autofill-address-village-township = Village o municipio
 autofill-address-island = Insula
 # Used in IE
-autofill-address-townland = Division de territorio
+autofill-address-townland = Communa
 
 ## address-level-2 names
 
@@ -80,10 +80,10 @@ autofill-address-eircode = Eircode
 
 autofill-address-country = Pais o region
 autofill-address-tel = Telephono
-autofill-address-email = Email
+autofill-address-email = E-mail
 autofill-cancel-button = Cancellar
 autofill-save-button = Salvar
-autofill-country-warning-message = Le completion automatic de formularios es disponibile solmente pro alicun paises.
+autofill-country-warning-message = Le completion automatic de formularios es disponibile solmente pro certe paises.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Adder un nove carta de credito
 # The dialog title for editing credit cards in browser preferences.
@@ -97,7 +97,7 @@ autofill-edit-card-password-prompt =
        *[other] { -brand-short-name } tenta de monstrar informationes de carta de credito.
     }
 autofill-card-number = Numero del carta
-autofill-card-invalid-number = Per favor insere un valide numero de carta
+autofill-card-invalid-number = Per favor insere un numero de carta valide
 autofill-card-name-on-card = Nomine sur le carta
 autofill-card-expires-month = Mense de expiration
 autofill-card-expires-year = Anno de expiration
