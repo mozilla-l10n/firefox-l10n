@@ -361,7 +361,7 @@ view-attachments-inline =
 ## using (mark-read-delay) and a number (seconds-label).
 
 mark-read-delay =
-    .label = Ao exibir por
+    .label = Após exibir por
     .accesskey = e
 seconds-label = segundos
 
