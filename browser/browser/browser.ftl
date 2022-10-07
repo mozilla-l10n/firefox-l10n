@@ -504,6 +504,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 მალსახმობის გამოსაყენებლად, ჯერ გახსენით DevTools, ვებშემუშავების მენიუდან.
+enable-devtools-popup-description2 = F12 მალსახმობის გამოსაყენებლად ჯერ გახსენით DevTools ბრაუზერის ხელსაწყობის მენიუდან.
 
 ## URL Bar
 
