@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Flýtileit (aðeins tenglar)
 findbar-case-sensitive-status =
     .value = (Stafrétt)
+findbar-entire-word-status =
+    .value = (Aðeins stök orð)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
