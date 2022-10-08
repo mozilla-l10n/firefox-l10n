@@ -13,7 +13,7 @@
 pending-crash-reports-message =
     { $reportCount ->
         [one] அனுப்பப்படாத நொறுக்கு அறிக்கை உள்ளது
-       *[other] { " " }{ $reportCount } அனுப்பப்படாத நொறுக்கு அறிக்கைகள்
+       *[other] { $reportCount } அனுப்பப்படாத நொறுக்கு அறிக்கைகள்
     }
 pending-crash-reports-view-all =
     .label = பார்
