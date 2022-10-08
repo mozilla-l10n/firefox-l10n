@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = پیدا کردن سریع (تنها در پیوندها)
 findbar-case-sensitive-status =
     .value = (حساس به بزرگی و کوچکی حروف)
+findbar-match-diacritics-status =
+    .value = (مطابقت با دیاکریتیک‌ها)
 findbar-entire-word-status =
     .value = (فقط کلمه‌هایِ کامل)
 # Variables:
