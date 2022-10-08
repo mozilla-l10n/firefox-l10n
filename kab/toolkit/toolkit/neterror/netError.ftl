@@ -62,6 +62,10 @@ certerror-sts-intro = { -brand-short-name } yufa-d dakken izmer ad yili ugur n t
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } Yufa-d ugur u ur ikemmel ara ɣer <b>{ $hostname }</b>. Asmel web atan ur ittwasbadu ara neɣ tamrilt n uselkim-ik/im ur tettwasbadu ara ɣer wakud iwatan.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> ahat d asmel aɣelsan, maca ilaq ad termed tuqqna taɣelsant. Ugur-a iḍra-d sɣur <b>{ $mitm }</b>, i yellan d aseɣẓan deg uselkim-inek neɣ deg uẓeṭṭa-inek.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Talɣut leqqayen: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -86,6 +90,14 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = ma telliḍ te
 certerror-expired-cert-what-can-you-do-about-it-clock = Tamrilt n uselkim tettwasbadu ɣer { DATETIME($now, dateStyle: "medium") }. Senqeḍ d akken aselkim-inek ittwasbadu ɣer uzemz, akud, akked tamnaḍt takudant iwatan deg iɣewwaṛen n unagraw, sakin smiren <b>{ $hostname }</b>
 certerror-expired-cert-what-can-you-do-about-it-contact-website = ma yellan tamrilt-inek tettwasbadu yakan ɣer wakud iwatan, izmer ahat asmel web ur ittwasbadu ara, da ulac ayen ara txedmeḍ akken ad ifru wugur-agi
 certerror-bad-cert-domain-what-can-you-do-about-it = Ugur iḍurr-d aṭas akked usmel, ulac ayen ara txedmeḍ akken ad ifru. Tzemreḍ ad tnremseḍ anedbal n usmel ɣef ugur-agi.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ma yeqber aseɣẓan-ik n mgalavirus timahaltin ittnadin deg iẓeḍwa ( isem-nsent aḍuman web neɣ aḍuman https), tzemreḍ ad tsenseḍ tamahilt-a. ma yella ur teddu ara, tzemreḍ ad tt-tekseḍ neɣ ad talseḍ asebded n useɣẓan mgalavirus.
+certerror-mitm-what-can-you-do-about-it-corporate = Ma tedceḍ aẓeṭṭa n tkebbanit; nermes anedbal n ugezdu IT.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Ma ur tuɣeḍ ara tanumi akked <b>{ $mitm }</b>, Aya izmer ad yili d attεeddi ihi ur isefk ara ad tkemleḍ ɣer usmel-a.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Ma ur tuɣeḍ ara tanumi akked <b>{ $mitm }</b>, Aya izmer ad yili d attεeddi ihi ulac ayen ara txedmeḍ akken ad tkemleḍ ɣer usmel-a.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ɣur-s tasertit n tɣellist HTTP Strict Transport Security (HSTS), ay-agi yemmal-d d akken { -brand-short-name } izmer kan ad iqqen ɣur-s s tɣellist. Ur tezmireḍ ara ad ternuḍ tasureft akken ad twaliḍ asmel-agi.
