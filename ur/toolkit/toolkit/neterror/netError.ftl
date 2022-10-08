@@ -19,6 +19,7 @@ neterror-copy-to-clipboard-button = متن کو تختہ تراشہ پر نقل 
 neterror-learn-more-link = مزید سیکھیں…
 neterror-open-portal-login-page-button = نیٹ ورک کا لاگ ان صفحہ کھولیں
 neterror-override-exception-button = خطرے کو قبول کریں اور جاری رکھیں
+neterror-pref-reset-button = طے شدہ سیٹنگز بحال کریں
 neterror-return-to-previous-page-button = واپس جائیں
 neterror-return-to-previous-page-recommended-button = واپس جائیں (تجویز شدہ)
 neterror-try-again-button = دوبارہ کوشش کریں
@@ -26,6 +27,7 @@ neterror-view-certificate-link = تصدیق نامہ دیکھیں
 
 ##
 
+neterror-pref-reset = ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی سیٹنگز ہو سکتی ہے۔ کیا آپ طےشدہ سیٹنگز بحال کرناچاہتے ہیں؟
 neterror-error-reporting-automatic = { -vendor-short-name } کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے
 
 ## Specific error messages
@@ -39,12 +41,18 @@ neterror-file-not-found-filename = مسل نام کو کیپیٹل یا دوسر
 neterror-file-not-found-moved = چیک کریں کہ مسل ہٹائی، نام تبدیل یا ڈلیٹ تو نہیں کر دی گئی۔
 neterror-access-denied = یہ شاید ہٹائی گئی ہو، منتقل کر دیا ہو یا مسل کی اجازت رسائ سے روک رہی ہو
 neterror-unknown-protocol = آپ کو یہ پتہ کھولنے کے لیے دیگر سافٹ ویئر تنصیب کرنے کی ضرورت پڑھ سکتی ہے۔
+neterror-redirect-loop = یہ مسلہ کبھی کبھی کوکیز نااہل کرنے یا انہیں قبول کہ کرنے کی وجہ سے ہو سکتی ہے۔
 neterror-unknown-socket-type-psm-installed = چیک کریں کہ آپ کے سسٹم پر پرسنل سکیورٹی مینیجر  تنصیب ہے۔
 neterror-unknown-socket-type-server-config = یہ پیش کار پر غیر سٹینڈرڈ تشکیل کی وجہ سے ہو سکتا ہے۔
 neterror-not-cached-intro = درخواست کردہ دستاویز { -brand-short-name } کے کیسے میں دستیاب نہیں۔
 neterror-not-cached-sensitive = احتیاط کے لیے { -brand-short-name } حساس دستاویز خود بخود دوبارہ نہیں مانگتا۔
 neterror-not-cached-try-again = ویب سائٹ سے دستاویز پھر مانگنے کے لیے "پھر کوشش کریں" پر کلک کریں۔
 neterror-net-offline = آن لائن موڈ پر آنے کے لیے اور صفح پھر لوڈ کرنے کے لیے “پھر کوشش کریں” دبائیں
+neterror-proxy-resolve-failure-settings = پراکسی سیٹنگز چیک کریں اور یقین کریں کہ یہ ٹھیک ہیں۔
+neterror-proxy-resolve-failure-connection = چیک کریں کہ آپ کے کمپیوٹر کے پاس ایک ٹھیک نیٹورک کنکشن ہے۔
+neterror-proxy-resolve-failure-firewall = اگر آپ کا کمپیوٹر یا نیٹورک فصیل کے ذریعے محفوظ ہے تو چیک کریں کہ  ویب تک رسائی کر سکتا ہے۔{ -brand-short-name }
+neterror-proxy-connect-failure-settings = پراکسی سیٹنگز چیک کریں اور یقین کریں کہ یہ ٹھیک ہیں۔
+neterror-proxy-connect-failure-contact-admin = یہ چیک کرنے کے لیے کہ آپ کا پراکسی پیش کار ٹھیک سے کام کر رہا ہے، اپنے نیٹورک نظام کار سے رابطہ کریں۔
 neterror-content-encoding-error = ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے رابطہ کریں
 neterror-unsafe-content-type = ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے رابطہ کریں
 neterror-nss-failure-not-verified = جو صفحہ آپ دیکھنا چاہ رہے ہیں، دکھایا نہیں جا سکتا کیونکہ موصول قوائف کی اصلیت کی تصدیق نہیں ہو سکی۔
