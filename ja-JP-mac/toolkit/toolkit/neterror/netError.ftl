@@ -10,12 +10,15 @@ certerror-page-title = 警告: 潜在的なセキュリティリスクあり
 certerror-sts-page-title = 接続中止: 潜在的なセキュリティ問題
 neterror-blocked-by-policy-page-title = ブロックしたページ
 neterror-captive-portal-page-title = ネットワークにログイン
+neterror-dns-not-found-title = サーバーが見つかりませんでした
+neterror-malformed-uri-page-title = 不正な URL
 
 ## Error page actions
 
 neterror-advanced-button = 詳細情報...
 neterror-copy-to-clipboard-button = テキストをクリップボードにコピー
 neterror-learn-more-link = エラーの説明...
+neterror-open-portal-login-page-button = ネットワークのログインページを開く
 neterror-override-exception-button = 危険性を承知で続行
 neterror-pref-reset-button = デフォルトに戻す
 neterror-return-to-previous-page-button = 戻る
@@ -31,6 +34,10 @@ neterror-error-reporting-automatic = エラーを報告すると、悪意のあ�
 ## Specific error messages
 
 neterror-generic-error = 何らかの理由により { -brand-short-name } はこのページを正常に読み込めませんでした。
+neterror-load-error-try-again = このサイトが一時的に利用できなくなっていたり、サーバーの負荷が高すぎて接続できなくなっている可能性があります。しばらくしてから再度試してください。
+neterror-load-error-connection = 他のサイトも表示できない場合、コンピューターのネットワーク接続を確認してください。
+neterror-load-error-firewall = ファイアウォールやプロキシーでネットワークが保護されている場合、{ -brand-short-name } によるウェブアクセスが許可されているか確認してください。
+neterror-captive-portal = インターネットへ接続するには、このネットワークにログインする必要があります。
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = もしかして訪問先は <a data-l10n-name="website">{ $hostAndPath }</a> ですか？
@@ -43,10 +50,17 @@ neterror-file-not-found-moved = ファイルの名前が変更、削除、また
 neterror-access-denied = ファイルが削除または移動されているかファイルの許可属性によりアクセスが拒否された可能性があります。
 neterror-unknown-protocol = このプロトコルを使用するアドレスを開くには、別のソフトウェアをインストールする必要があるかもしれません。
 neterror-redirect-loop = Cookie を無効化したり拒否していることにより、この問題が発生している可能性もあります。
+neterror-unknown-socket-type-psm-installed = コンピューターにパーソナルセキュリティマネージャーがインストールされているか確認してください。
+neterror-unknown-socket-type-server-config = サーバーの設定が間違っていることにより、この問題が発生している可能性もあります。
 neterror-not-cached-intro = リクエストされた { -brand-short-name } のキャッシュ内のドキュメントは、利用できません。
 neterror-not-cached-sensitive = 安全対策のため、{ -brand-short-name } は注意を要するドキュメントを自動的に再リクエストしません。
 neterror-not-cached-try-again = "再試行" ボタンをクリックしてドキュメントをウェブサイトから読み込んでください。
 neterror-net-offline = "再試行” ボタンを押してブラウザーをオンラインモードに切り替え、ページを再読み込みしてください。
+neterror-proxy-resolve-failure-settings = プロキシー設定が正しいか確認してください。
+neterror-proxy-resolve-failure-connection = コンピューターが有効なネットワークに接続されているか確認してください。
+neterror-proxy-resolve-failure-firewall = ファイアウォールやプロキシーでネットワークが保護されている場合、{ -brand-short-name } によるウェブアクセスが許可されているか確認してください。
+neterror-proxy-connect-failure-settings = プロキシー設定が正しいか確認してください。
+neterror-proxy-connect-failure-contact-admin = プロキシーサーバーが正常に動作しているかネットワーク管理者に問い合わせてください。
 neterror-content-encoding-error = この問題をウェブサイトの管理者に報告してください。
 neterror-unsafe-content-type = この問題をウェブサイトの管理者に報告してください。
 neterror-nss-failure-not-verified = 受信したデータの真正性を検証できなかったため、このページは表示できませんでした。
@@ -68,6 +82,11 @@ neterror-corrupted-content-intro = このページは、データの伝送中に
 neterror-corrupted-content-contact-website = ウェブサイトの所有者に連絡を取り、この問題を報告してください。
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = 高度な情報: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> は攻撃に対して脆弱な古いセキュリティ技術を使用しています。攻撃者は保護された情報を簡単に暴露できます。サイトを安全に訪れるには、このウェブサイトの管理者にサーバーの問題を修正してもらう必要があります。
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = エラーコード: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
@@ -93,3 +112,6 @@ certerror-mitm-what-can-you-do-about-it-attack = <b>{ $mitm }</b> に心当た�
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack-sts = <b>{ $mitm }</b> に心当たりがない場合は攻撃されている可能性があるため、このサイトにアクセスする方法はありません。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> は HTTP Strict Transport Security (HSTS) と呼ばれるセキュリティポリシーが設定されており、{ -brand-short-name } は安全な接続でしか通信できません。そのため、このサイトを例外に追加することはできません。
