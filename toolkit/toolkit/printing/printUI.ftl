@@ -5,6 +5,7 @@
 printui-title = Ofdrukke
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Bewarje as
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } side
        *[other] { $sheetCount } siden
     }
+
 printui-page-range-all = Alle
 printui-page-range-current = Aktueel
 printui-page-range-odd = Uneven
@@ -23,22 +25,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Oanpast sideberik ynfiere
     .placeholder = byg. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Kopyen
+
 printui-orientation = Oriïntaasje
 printui-landscape = Lizzend
 printui-portrait = Steand
+
 # Section title for the printer or destination device to target
 printui-destination-label = Bestimming
 printui-destination-pdf-label = Bewarje as PDF
+
 printui-more-settings = Mear ynstellingen
 printui-less-settings = Minder ynstellingen
+
 printui-paper-size-label = Papierôfmjitting
+
 # Section title (noun) for the print scaling options
 printui-scale = Skaal
 printui-scale-fit-to-page-width = Oan sidebreedte oanpasse
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skaal
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Dûbeldsidich ôfdrukke
 printui-two-sided-printing-off = Ut
@@ -46,6 +55,7 @@ printui-two-sided-printing-off = Ut
 printui-two-sided-printing-long-edge = Draaie op lange side
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Draaie op koarte side
+
 # Section title for miscellaneous print options
 printui-options = Opsjes
 printui-headers-footers-checkbox = Kop- en foetteksten ôfdrukke
@@ -69,6 +79,7 @@ printui-simplify-page-radio = Ferienfâldige
 printui-color-mode-label = Kleurmodus
 printui-color-mode-color = Kleur
 printui-color-mode-bw = Swart-wyt
+
 printui-margins = Marzjes
 printui-margins-default = Standert
 printui-margins-min = Minimum
@@ -87,17 +98,23 @@ printui-margins-custom-left-mm = Links (mm)
 printui-margins-custom-right = Rjochts
 printui-margins-custom-right-inches = Rjochts (inches)
 printui-margins-custom-right-mm = Rjochts (mm)
+
 printui-system-dialog-link = Ofdrukke fia it systeemdialoochfienster…
+
 printui-primary-button = Ofdrukke
 printui-primary-button-save = Bewarje
 printui-cancel-button = Annulearje
 printui-close-button = Slute
+
 printui-loading = Foarbyld tariede
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Ofdrukfoarbyld
+
 printui-pages-per-sheet = Siden per blêd
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Ofdrukke…
@@ -124,6 +141,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = De skaal moat in getal tusken 10 en 200 wêze.
 printui-error-invalid-margin = Fier in jildige marzje foar it selektearre papierformaat yn.
 printui-error-invalid-copies = It oantal eksimplaren moat in getal tusken 1 en 10000 wêze.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = It berik moat in getal tusken 1 en { $numPages } wêze.

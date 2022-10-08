@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Oanrekommandearre funksje
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Wêrom sjoch ik dit
+
 cfr-doorhanger-extension-cancel-button = No net
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = No tafoegje
     .accesskey = t
+
 cfr-doorhanger-extension-manage-settings-button = Ynstellingen foar oanrekommandaasjes beheare
     .accesskey = o
+
 cfr-doorhanger-extension-never-show-recommendation = Dizze oanrekommandaasje net toane
     .accesskey = D
+
 cfr-doorhanger-extension-learn-more-link = Mear ynfo
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = troch { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Oanrekommandaasje
 cfr-doorhanger-extension-notification2 = Oanrekommandaasje
     .tooltiptext = Oanrekommandaasje foar útwreiding
     .a11y-announcement = Oanrekommandaasje foar útwreiding beskikber
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Oanrekommandaasje
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Mear ynfo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nije funksje:
+
 cfr-whatsnew-button =
     .label = Wat is der nij
     .tooltiptext = Wat is der nij
+
 cfr-whatsnew-release-notes-link-text = Utjefteopmerkingen lêze
 
 ## Enhanced Tracking Protection Milestones
@@ -156,6 +166,7 @@ spotlight-total-cookie-protection-body = Totale cookiebeskerming foarkomt dat tr
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bout in stek rûnom cookies, wêrtroch se beheint wurde ta de website wêrop jo jo binne, sadat trackers se net brûke kinne om jo te folgjen. As betide brûker helpe jo dizze funksje te optimalisearjen, sadat wy in better ynternet foar elkenien bouwe bliuwe kinne.
 spotlight-total-cookie-protection-primary-button = Totale cookiebeskerming ynskeakelje
 spotlight-total-cookie-protection-secondary-button = No net
+
 cfr-total-cookie-protection-header = Mei troch jo is { -brand-short-name } mear privee en feiliger as ea
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -189,11 +200,13 @@ spotlight-pin-secondary-button = No net
 
 mr2022-background-update-toast-title = Nije { -brand-short-name }. Mear privee. Minder trackers. Gjin kompromissen.
 mr2022-background-update-toast-text = Probearje no de nijste { -brand-short-name }, opwurdearre mei ús krêftichste beskerming tsjin folgjen oant no ta.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } no iepenje
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -212,6 +225,7 @@ firefoxview-cfr-body = Plus: ljep ienfâldich tusken apparaten en foegje in byts
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Sis hallo tsjin { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Wolle jo dat iepen ljepblêd op jo telefoan? Pak it. Need oan dy side dy’t jo krekt besocht hawwe? Poef, it is werom mei { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Sjen hoe't dit wurket

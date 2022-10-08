@@ -41,6 +41,7 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Fuortgong: stap { $current } fan { $total }
+
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -49,11 +50,13 @@ onboarding-welcome-steps-indicator2 =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = It fjoer begjint hjir
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – Meubelûntwerper, Firefox-fan
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animaasjes útskeakelje
 
@@ -79,9 +82,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Begjinne
+
 mr1-onboarding-welcome-header = Wolkom by { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } myn foarkarsbrowser meitsje
     .title = Stelt { -brand-short-name } yn as standertbrowser en makket it oan de taakbalke fêst
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } myn foarkarsbrowser meitsje
@@ -99,13 +104,16 @@ mr1-onboarding-default-primary-button-label = Standertbrowser meitsje
 
 mr1-onboarding-import-header = Nim alles mei jo mei
 mr1-onboarding-import-subtitle = Ymportearje jo wachtwurden, <br/>blêdwizers en mear.
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Ymportearje út { $previous }
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Ymportearje út foarige browser
 mr1-onboarding-import-secondary-button-label = No net
+
 mr2-onboarding-colorway-header = Libben yn kleur
 mr2-onboarding-colorway-subtitle = Libbene nije kleuren. Beskikber foar in beheinde tiid.
 mr2-onboarding-colorway-primary-button-label = Kleurstelling bewarje
@@ -115,20 +123,26 @@ mr2-onboarding-colorway-label-balanced = Balansearre
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Stevich
+
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatysk
+
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Standert
+
 mr1-onboarding-theme-header = Meitsje it fan josels
 mr1-onboarding-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
 mr1-onboarding-theme-primary-button-label = Tema bewarje
 mr1-onboarding-theme-secondary-button-label = No net
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systeemtema
+
 mr1-onboarding-theme-label-light = Ljocht
 mr1-onboarding-theme-label-dark = Donker
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Dien
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -141,61 +155,74 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         It tema fan it bestjoeringssysteem
         foar knoppen, menu’s en finsters folgje.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         It tema fan it bestjoeringssysteem
         foar knoppen, menu’s en finsters folgje.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         In ljocht tema brûke foar knoppen,
         menu‘s en finsters.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         In ljocht tema brûke foar knoppen,
         menu‘s en finsters.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         In donker tema brûke foar knoppen,
         menu‘s en finsters.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         In donker tema brûke foar knoppen,
         menu‘s en finsters.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         In dynamysk, kleurryk tema brûke foar knoppen,
         menu’s en finsters.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         In dynamysk, kleurryk tema brûke foar knoppen,
         menu’s en finsters.
+
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Dizze kleurstelling brûke
+
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Dizze kleurstelling brûke.
+
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Kleurstellingen { $colorwayName } ûntdekke.
+
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Kleurstellingen { $colorwayName } ûntdekke.
+
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Standerttema’s ferkenne.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Standerttema’s ferkenne.
 
@@ -223,13 +250,18 @@ mr2-onboarding-start-browsing-button-label = Start mei browsen
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Kies jo taal
+
 mr2022-onboarding-live-language-text = { -brand-short-name } sprekt jo taal
+
 mr2022-language-mismatch-subtitle = Mei tank oan ús mienskip, { -brand-short-name } is yn mear as 90 talen oerset. It liket derop dat jo systeem { $systemLanguage } brûkt, en { -brand-short-name } { $appLanguage } brûkt.
+
 onboarding-live-language-button-label-downloading = It taalpakket downloade foar { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Beskikbere talen ophelje…
 onboarding-live-language-installing = It taalpakket foar { $negotiatedLanguage } ynstallearje…
+
 mr2022-onboarding-live-language-switch-to = Wikselje nei { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Trochgean yn { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Annulearje
 onboarding-live-language-skip-button-label = Oerslaan
 
@@ -252,12 +284,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] { -brand-short-name } oan de Dock fêstmeitsje
        *[other] { -brand-short-name } oan de taakbalke fêstmeitsje
     }
+
 fx100-upgrade-thanks-header = 100 kear tank
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = It is ús 100e ferzje fan { -brand-short-name }. <em>Tank</em> foar jo help by it bouwen fan in better, sûner ynternet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = It is ús 100ste ferzje! Tank dat jo ûnderdiel binne fan ús mienskip. Hâld { -brand-short-name } ien klik ôf fan de folgjende 100.
+
 mr2022-onboarding-secondary-skip-button-label = Dizze stap oerslaan
 
 ## MR2022 New User Pin Firefox screen strings
@@ -326,42 +360,49 @@ mr2022-onboarding-colorway-subtitle = Unôfhinklike stimmen kinne kultuer feroar
 mr2022-onboarding-colorway-primary-button-label = Kleurstelling ynstelle
 mr2022-onboarding-colorway-primary-button-label-continue = Ynstelle en trochgean
 mr2022-onboarding-existing-colorway-checkbox-label = Meitsje fan { -firefox-home-brand-name } jo kleurrike startside
+
 mr2022-onboarding-colorway-label-default = Standert
 mr2022-onboarding-colorway-tooltip-default =
     .title = Standert
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Aktuele { -brand-short-name }-kleuren
 mr2022-onboarding-colorway-description-default = <b>Myn aktuele { -brand-short-name }-kleuren brûke.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Spulmakker
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Spulmakker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Spulmakker (read)
 mr2022-onboarding-colorway-description-playmaker = <b>Jo binne in spulmakker.</b> Jo meitsje kânsen om te winnen en helpe elkenien om jo hinne har spultsje te ferbetterjen.
+
 mr2022-onboarding-colorway-label-expressionist = Ekspresjonist
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Ekspresjonist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresjonist (giel)
 mr2022-onboarding-colorway-description-expressionist = <b>Jo binne in ekspresjonist.</b> Jo sjogge de wrâld oars en jo kreaasjes reitsje de emoasjes fan oaren.
+
 mr2022-onboarding-colorway-label-visionary = Fisjonêr
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Fisjonêr
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Fisjonêr (grien)
 mr2022-onboarding-colorway-description-visionary = <b>Jo binne in fisjonêr.</b> Jo twivelje oan de status-quo en stimulearje oaren om harren in bettere takomst foar te stellen.
+
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (blau)
 mr2022-onboarding-colorway-description-activist = <b>Jo binne in aktivist.</b> Jo litte de wrâld moaier efter dan jo it fûn ha en lit oaren leauwe.
+
 mr2022-onboarding-colorway-label-dreamer = Dreamer
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Dreamer
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Dreamer (pears)
 mr2022-onboarding-colorway-description-dreamer = <b>Jo binne in dreamer.</b> Jo leauwe dat gelok de dappere favoryt is en oaren ynspirearret om dapper te wêzen.
+
 mr2022-onboarding-colorway-label-innovator = Ynnovator
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Ynnovator

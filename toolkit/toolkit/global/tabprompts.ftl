@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Brûkersnamme:
 tabmodalprompt-password =
     .value = Wachtwurd:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

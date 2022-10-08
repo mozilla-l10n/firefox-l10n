@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Sykje
     .accesskey = S
+
 context-text-action-find-again =
     .label = Opnij sykje
     .accesskey = n
+
 text-action-find =
     .label = Sykje
     .accesskey = S
+
 text-action-find-again =
     .label = Opnij sykje
     .accesskey = n

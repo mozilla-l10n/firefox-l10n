@@ -5,62 +5,81 @@
 permissions-window =
     .title = Utsûnderingen
     .style = width: 45em
+
 permissions-window2 =
     .title = Utsûnderingen
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adres fan de website
     .accesskey = d
+
 permissions-block =
     .label = Blokkearje
     .accesskey = B
+
 permissions-session =
     .label = Tastean foar sesje
     .accesskey = s
+
 permissions-allow =
     .label = Tastean
     .accesskey = T
+
 permissions-button-off =
     .label = Utskeakelje
     .accesskey = U
+
 permissions-button-off-temporarily =
     .label = Tydlik útskeakelje
     .accesskey = T
+
 permissions-site-name =
     .label = Website
+
 permissions-status =
     .label = Steat
+
 permissions-remove =
     .label = Website fuortsmite
     .accesskey = W
+
 permissions-remove-all =
     .label = Alle websites fuortsmite
     .accesskey = s
+
 permission-dialog =
     .buttonlabelaccept = Wizigingen bewarje
     .buttonaccesskeyaccept = i
+
 permissions-autoplay-menu = Standert foar alle websites:
+
 permissions-searchbox =
     .placeholder = Websites trochsykje
+
 permissions-capabilities-autoplay-allow =
     .label = Audio en fideo tastean
 permissions-capabilities-autoplay-block =
     .label = Audio blokkearje
 permissions-capabilities-autoplay-blockall =
     .label = Audio en fideo blokkearje
+
 permissions-capabilities-allow =
     .label = Tastean
 permissions-capabilities-block =
     .label = Blokkearje
 permissions-capabilities-prompt =
     .label = Altyd freegje
+
 permissions-capabilities-listitem-allow =
     .value = Tastean
 permissions-capabilities-listitem-block =
     .value = Blokkearje
 permissions-capabilities-listitem-allow-session =
     .value = Tastean foar sesje
+
 permissions-capabilities-listitem-off =
     .value = Ut
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Folje in jildige kompjûternamme yn
 permissions-exceptions-etp-window =
     .title = Utsûnderingen foar Ferbettere beskerming tsjin folgjen
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Utsûnderingen foar Ferbettere beskerming tsjin folgjen
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Jo hawwe beskermingen foar dizze websites úts
 permissions-exceptions-cookie-window =
     .title = Utsûnderingen - Cookies en websitegegevens
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Utsûnderingen - Cookies en websitegegevens
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Jo kinne opjaan hokker websites altyd of ne
 permissions-exceptions-https-only-window =
     .title = Utsûnderingen – Allinnich-HTTPS-modus
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Utsûnderingen – Allinnich-HTTPS-modus
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Jo kinne de Allinnich-HTTPS-modus foar 
 permissions-exceptions-popup-window =
     .title = Tastiene websites - Popupfinsters
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Tastiene websites - Popupfinsters
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Jo kinne oanjaan hokker siden popupfinsters 
 permissions-exceptions-saved-logins-window =
     .title = Utsûnderingen - Bewarre oanmeldingen
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Utsûnderingen - Bewarre oanmeldingen
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Oanmeldingen foar de folgjende websit
 permissions-exceptions-addons-window =
     .title = Tastiene websites - Ynstallaasje fan add-ons
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Tastiene websites - Ynstallaasje fan add-ons
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Jo kinne oanjaan hokker siden add-ons ynsta
 permissions-site-autoplay-window =
     .title = Ynstellingen - Automatysk ôfspylje
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Ynstellingen - Automatysk ôfspylje
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Jo kinne hjir de websites beheare dy’t jo sta
 permissions-site-notification-window =
     .title = Ynstellingen - Tastimmingen foar notifikaasjes
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Ynstellingen - Tastimmingen foar notifikaasjes
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Dit soarget derfoar dat websites dy
 permissions-site-location-window =
     .title = Ynstellingen - Tastimmingen foar lokaasje
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Ynstellingen - Tastimmingen foar lokaasje
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Dit soarget derfoar dat websites dy’t
 permissions-site-xr-window =
     .title = Ynstellingen - Tastimmingen foar virtual reality
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Ynstellingen - Tastimmingen foar virtual reality
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Dit foarkomt dat websites dy’t hjirboppe ne
 permissions-site-camera-window =
     .title = Ynstellingen - Tastimmingen foar kamera
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Ynstellingen - Tastimmingen foar kamera
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Dit soarget derfoar dat websites dy’t h
 permissions-site-microphone-window =
     .title = Ynstellingen - Tastimmingen foar mikrofoan
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Ynstellingen - Tastimmingen foar mikrofoan
     .style = { permissions-window2.style }

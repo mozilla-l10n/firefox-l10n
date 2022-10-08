@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = Underoan fêstsette
 toolbox-meatball-menu-dock-left-label = Fêstsette oan lofterkant
 toolbox-meatball-menu-dock-right-label = Fêstsette oan rjochterkant
 toolbox-meatball-menu-dock-separate-window-label = Apart finster
+
 toolbox-meatball-menu-splitconsole-label = Splitste konsole toane
 toolbox-meatball-menu-hideconsole-label = Splitste konsole ferstopje
+
 toolbox-meatball-menu-settings-label = Ynstellingen
 toolbox-meatball-menu-documentation-label = Dokumintaasje…
 toolbox-meatball-menu-community-label = Mienskip…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Automatysk pop-up ferstopje útskeakelje
+
 toolbox-meatball-menu-pseudo-locale-accented = ’Aksintuearre’ locale ynskeakelje
 toolbox-meatball-menu-pseudo-locale-bidi = Locale ‘bidi’ ynskeakelje
 
@@ -34,14 +38,17 @@ toolbox-meatball-menu-pseudo-locale-bidi = Locale ‘bidi’ ynskeakelje
 
 toolbox-mode-browser-toolbox-label = Browserwurksetmodus
 toolbox-mode-browser-console-label = Browserkonsolemodus
+
 toolbox-mode-everything-label = Multiproses
 toolbox-mode-everything-sub-label = (Stadiger)
 toolbox-mode-everything-container =
     .title = Alles yn alle prosessen debugge
+
 toolbox-mode-parent-process-label = Allinnich boppelizzend proses
 toolbox-mode-parent-process-sub-label = (Fluch)
 toolbox-mode-parent-process-container =
     .title = Allinne rjochtsje op middels út it âlderproses.
+
 toolbox-always-on-top-enabled =
     .title = Altyd boppe oan útskeakelje (hjirmei wurdt it Untwikkelersark opnij start)
 toolbox-always-on-top-disabled =
