@@ -5,26 +5,34 @@
 permissions-window =
     .title = अपवाद
     .style = width: 45em
+
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = रोकू
     .accesskey = B
+
 permissions-session =
     .label = सत्रक लेल अनुमति दिअ
     .accesskey = S
+
 permissions-allow =
     .label = अनुमति दिअ
     .accesskey = A
+
 permissions-status =
     .label = स्थिति
+
 permissions-capabilities-allow =
     .label = अनुमति दिअ
 permissions-capabilities-block =
     .label = रोकू
+
 permissions-capabilities-listitem-allow =
     .value = अनुमति दिअ
 permissions-capabilities-listitem-block =

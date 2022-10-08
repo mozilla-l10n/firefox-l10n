@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = घर पृष्ठ सेट करू
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = घर पृष्ठ सेट करू
     .style = min-width: 32em;
+
 select-bookmark-desc = अपन घर पृष्ठ बनाबैक लेल पुस्तकचिह्न चुनू. जँ अहाँ कोनो फोल्डर चुनैत छी, ओ फोल्डरमे पुस्तकचिह्न टैब मे खोलल जएताह.

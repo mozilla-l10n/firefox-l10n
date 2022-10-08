@@ -9,23 +9,30 @@ findbar-next =
     .tooltiptext = खोजक अगिला उपस्थिति ताकू
 findbar-previous =
     .tooltiptext = खोजक पछिला उपस्थिति ताकू
+
 findbar-find-button-close =
     .tooltiptext = खोज पट्टी बन्न करू
+
 findbar-case-sensitive =
     .label = मिलान स्थिति
     .accesskey = c
     .tooltiptext = केस संवेदनशीलतासँ खोजू
+
 findbar-not-found = मुहावरा नहि भेटल
+
 findbar-wrapped-to-top = पृष्ठक तल मे जाए पहुँचल, शीर्ष सँ जारी
 findbar-wrapped-to-bottom = पृष्ठक शीर्ष जाए पहुँचल, तल सँ जारी
+
 findbar-normal-find =
     .placeholder = ई पृष्ठमे खोजू
 findbar-fast-find =
     .placeholder = तेज ताकनाइ
 findbar-fast-find-links =
     .placeholder = तेज ताकनाइ (कड़ी केवल):
+
 findbar-case-sensitive-status =
     .value = (स्थिति क प्रति संवेदनशील)
+
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -35,6 +42,7 @@ findbar-found-matches =
             [one] { $current } केर { $total } टा मेल
            *[other] { $current } केर { $total } टा मेल
         }
+
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =

@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लॉगिन & गुड़किल्ली
+
 login-filter =
     .placeholder = लॉगिन खोज
+
 create-login-button = नवीन लॉगिन बनाबू
+
 fxaccounts-sign-in-text = अपन गुड़किल्ली दोसर डिवाइस पर पाबू
 fxaccounts-sign-in-sync-button = सिंक करए कलेल साइन-इन करू
 fxaccounts-avatar-button =
@@ -103,12 +106,15 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = सहेजल लॉगिन क' संपादित करू
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली जानू
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली कॉपी करू
+
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = सहेजल लॉगिन आओर गुड़किल्ली निर्यात करू
@@ -124,24 +130,29 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = रद्द करू
 confirmation-dialog-dismiss-button =
     .title = रद्द करू
+
 about-logins-confirm-remove-dialog-title = ई लॉगिन केँ हटाबू?
 confirm-delete-dialog-message = ई क्रिया घुराबल नहि जाए सकैत अछि.
 about-logins-confirm-remove-dialog-confirm-button = हटाउ
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] हटाउ
        *[other] सभ हटाउ
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] हँ, ई लॉगिन हटाउ
        *[other] हँ, सभ लॉगिन हटाउ
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ल़गिन { $count } हटाउ?
        *[other] सभ लॉगिन { $count } हटाउ?
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] सभ डिवाइस सँ लॉगिन { $count } हटाउ?
