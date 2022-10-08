@@ -5,6 +5,8 @@
 select-bookmark-window =
     .title = Nákinti uénatara
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Nákinti uénatara
     .style = min-width: 32em;
+
