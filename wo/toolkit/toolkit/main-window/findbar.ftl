@@ -9,4 +9,8 @@ findbar-next =
     .tooltiptext = Seet beneen kaddu bu ni mel
 findbar-previous =
     .tooltiptext = Seet beneen kaddu bu ni mel te jiitu
-
+findbar-not-found = Gisiñu kaddu gi
+findbar-wrapped-to-top = Jot nañu jeexitalu xët wi, kontine ci ndorte
+findbar-wrapped-to-bottom = Jot nañu ndorteel xët wi, kontine dale ko ci suuf
+findbar-case-sensitive-status =
+    .value = (Yëg yëg ci jëmmalin)
