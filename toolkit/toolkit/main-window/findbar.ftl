@@ -42,3 +42,16 @@ findbar-fast-find-links =
     .placeholder = Lorg luath (ceanglaichean a-mhàin)
 findbar-case-sensitive-status =
     .value = (aire do litrichean mòra/beaga)
+findbar-entire-word-status =
+    .value = (Faclan slàna a-mhàin)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } à { $total } mhaids
+            [two] { $current } à { $total } mhaids
+            [few] { $current } à { $total } maidsichean
+           *[other] { $current } à { $total } maids
+        }
