@@ -40,6 +40,8 @@ findbar-fast-find-links =
     .placeholder = Recèrca rapida (ligams solament)
 findbar-case-sensitive-status =
     .value = (Sensible a la cassa)
+findbar-entire-word-status =
+    .value = (Pas que de mots entièrs)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
