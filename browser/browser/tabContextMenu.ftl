@@ -109,6 +109,7 @@ tab-context-move-tabs =
            *[other] Mută filele
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

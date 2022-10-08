@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Adaugă etichete
+
 pocket-panel-saved-error-generic = A apărut o eroare la încercarea de salvare în { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etichetele sunt limitate la 25 de caractere
 pocket-panel-saved-error-only-links = Doar linkurile pot fi salvate

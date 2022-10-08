@@ -55,6 +55,7 @@ mr1-onboarding-pin-primary-button-label =
 
 mr1-onboarding-set-default-pin-primary-button-label = Desemnează { -brand-short-name } ca browserul meu principal
     .title = Setează { -brand-short-name } drept browser implict și fixează în bara de activități
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Desemnează { -brand-short-name } ca browserul meu implicit
@@ -70,11 +71,14 @@ mr1-onboarding-default-primary-button-label = Desemnează ca browser implicit
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-secondary-button-label = Nu acum
+
 mr1-onboarding-theme-subtitle = Personalizează { -brand-short-name } cu o temă.
 mr1-onboarding-theme-primary-button-label = Salvează tema
 mr1-onboarding-theme-secondary-button-label = Nu acum
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sistemului
+
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 
@@ -88,6 +92,7 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Urmează tema sistemului de operare
         pentru butoane, meniuri și ferestre.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =

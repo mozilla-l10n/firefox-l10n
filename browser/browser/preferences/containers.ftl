@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = Setările containerului { $name }
     .style = width: 45em
+
 containers-window-new2 =
     .title = Adaugă un container nou
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Setările containerului { $name }
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nume
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Introdu un nume pentru container
+
 containers-icon-label = Pictogramă
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Culoare
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Terminat
     .buttonaccesskeyaccept = D
+
 containers-color-blue =
     .label = Albastru
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Purpuriu
 containers-color-toolbar =
     .label = Corelează bara de instrumente
+
 containers-icon-fence =
     .label = Gard
 containers-icon-fingerprint =

@@ -177,16 +177,12 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 
-openpgp-key-details-title =
-    .title = Proprietăți cheie
-
 openpgp-key-details-signatures-tab =
     .label = Certificări
 openpgp-key-details-structure-tab =
     .label = Structură
 openpgp-key-details-uid-certified-col =
     .label = ID utilizator / certificat de
-openpgp-key-details-user-id2-label = Presupus proprietar al cheii
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tip
@@ -467,9 +463,6 @@ key-error-not-accepted-as-personal = Nu ai confirmat cheia cu ID-ul „{ $keySpe
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Funcția pe care ai selectat-o nu este disponibilă în modul offline. Treci în modul online și încearcă din nou.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Nu am găsit nicio cheie potrivită pentru criteriile de căutare specificate.
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Eroare - Comanda de extragere a cheii a eșuat
