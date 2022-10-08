@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button2 = Inställningar för { -brand-short-name }
+
 open-addons-sidebar-button = Tillägg och teman
+
 account-action-add-newsgroup-account =
     .label = Lägg diskussionsgruppskonto…
     .accesskey = d
+
 server-change-restart-required = Omstart krävs för att ändra servernamnet eller användarnamnet.
+
 edit-vcard-dialog-accept-button = Spara
     .accesskey = S
 edit-vcard-dialog-cancel-button = Avbryt

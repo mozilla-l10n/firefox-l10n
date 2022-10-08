@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Sök
     .aria-label = Sök
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Sök med { $engine } eller ange en adress
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Sök eller ange adress
     .title = Sök eller ange adress
     .aria-label = Sök eller ange adress
+
 newtab-search-box-text = Sök på webben
 newtab-search-box-input =
     .placeholder = Sök på webben
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Redigera genväg
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Ange en titel
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller klistra in en URL
 newtab-topsites-url-validation = Giltig URL krävs
+
 newtab-topsites-image-url-label = Anpassa bild-URL
 newtab-topsites-use-image-link = Använd en anpassad bild…
 newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Sponsrad
 newtab-menu-section-tooltip =
     .title = Öppna meny
     .aria-label = Öppna meny
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Ta bort
     .aria-label = Ta bort
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -156,14 +162,17 @@ newtab-label-removed-bookmark = Bokmärke har tagits bort
 newtab-label-recommended = Trend
 newtab-label-saved = Spara till { -pocket-brand-name }
 newtab-label-download = Hämtat
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsrad
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsrad av { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -202,6 +211,7 @@ newtab-section-header-pocket = Rekommenderas av { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Börja surfa, och vi visar några av de bästa artiklarna, videoklippen och andra sidor du nyligen har besökt eller bokmärkt här.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -226,9 +236,11 @@ newtab-pocket-learn-more = Läs mer
 newtab-pocket-cta-button = Hämta { -pocket-brand-name }
 newtab-pocket-cta-text = Spara de historier som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } är en del av familjen { -brand-product-name }
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Spara till { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Sparad till { -pocket-brand-name }
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Ladda fler berättelser
 
@@ -239,6 +251,7 @@ newtab-pocket-last-card-title = Du är ikapp!
 newtab-pocket-last-card-desc = Kom tillbaka senare för mer.
 newtab-pocket-last-card-image =
     .alt = Du är ikapp!
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Spara
 newtab-pocket-saved = Sparad
