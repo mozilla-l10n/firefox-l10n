@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Enw Defnyddiwr:
 tabmodalprompt-password =
     .value = Cyfrinair:
+
 tabmodalprompt-ok-button =
     .label = Iawn
 tabmodalprompt-cancel-button =

@@ -118,6 +118,7 @@ tab-context-move-tabs =
            *[other] Symud Tab
         }
     .accesskey = S
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -5,6 +5,7 @@
 printui-title = Argraffu
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Cadw Fel
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -16,6 +17,7 @@ printui-sheets-count =
         [many] { $sheetCount } dalen o bapur
        *[other] { $sheetCount } dalen o bapur
     }
+
 printui-page-range-all = Y Cyfan
 printui-page-range-current = Cyfredol
 printui-page-range-odd = Odrif
@@ -27,22 +29,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Rhowch ystod tudalen cyfaddas
     .placeholder = e.e. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Copïau
+
 printui-orientation = Cyfeiriad
 printui-landscape = Tirlun
 printui-portrait = Portread
+
 # Section title for the printer or destination device to target
 printui-destination-label = Cyrchfan
 printui-destination-pdf-label = Cadw i PDF
+
 printui-more-settings = Rhagor o osodiadau
 printui-less-settings = Llai o osodiadau
+
 printui-paper-size-label = Maint papur
+
 # Section title (noun) for the print scaling options
 printui-scale = Graddfa
 printui-scale-fit-to-page-width = Yn ffitio i led y dudalen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Graddfa
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Argraffu dwy ochr
 printui-two-sided-printing-off = Wedi diffodd
@@ -50,6 +59,7 @@ printui-two-sided-printing-off = Wedi diffodd
 printui-two-sided-printing-long-edge = Fflipio ar ymyl hir
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Fflipio ar ymyl fer
+
 # Section title for miscellaneous print options
 printui-options = Dewisiadau
 printui-headers-footers-checkbox = Argraffu penynnau a throedynnau
@@ -73,6 +83,7 @@ printui-simplify-page-radio = Symleiddiwyd
 printui-color-mode-label = Modd lliw
 printui-color-mode-color = Lliw
 printui-color-mode-bw = Du a gwyn
+
 printui-margins = Ymylon
 printui-margins-default = Rhagosodiad
 printui-margins-min = Lleiafswm
@@ -91,17 +102,23 @@ printui-margins-custom-left-mm = Chwith (mm)
 printui-margins-custom-right = De
 printui-margins-custom-right-inches = De (modfeddi)
 printui-margins-custom-right-mm = De (mm)
+
 printui-system-dialog-link = Argraffu gan ddefnyddio deialog y system ...
+
 printui-primary-button = Argraffu
 printui-primary-button-save = Cadw
 printui-cancel-button = Diddymu
 printui-close-button = Cau
+
 printui-loading = Paratoi Rhagolwg
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Rhagolwg Argraffu
+
 printui-pages-per-sheet = Tudalennau fesul dalen
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Argraffu…
@@ -128,6 +145,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Rhaid i'r raddfa fod yn rhif rhwng 10 a 200.
 printui-error-invalid-margin = Rhowch ymyl ddilys ar gyfer y maint papur a ddewiswyd.
 printui-error-invalid-copies = Rhaid i gopïau fod yn rhif rhwng 1 a 10000.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rhaid i'r raddfa fod yn rhif rhwng 10 a { $numPages }.

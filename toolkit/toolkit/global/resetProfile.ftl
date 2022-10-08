@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Ail gychwynnwch o'r newydd i ddatrys proble
 refresh-profile = Rhoi bywyd newydd i { -brand-short-name }
 refresh-profile-button = Adnewyddu { -brand-short-name }…
 refresh-profile-learn-more = Dysgu rhagor
+
 refresh-profile-progress =
     .title = Adnewyddu { -brand-short-name }
 refresh-profile-progress-description = Bron â gorffen…

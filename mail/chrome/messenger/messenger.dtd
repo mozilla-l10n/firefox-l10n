@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sgwrsio">
 <!ENTITY goChatCmd.accesskey "g">
-<!ENTITY goChatCmd2.key "g">
 <!ENTITY prevStarredMsgCmd.label "Neges Serennog">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Ffolder">

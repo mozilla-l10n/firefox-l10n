@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Canfod
     .accesskey = C
+
 context-text-action-find-again =
     .label = Canfod Eto
     .accesskey = C
+
 text-action-find =
     .label = Canfod
     .accesskey = C
+
 text-action-find-again =
     .label = Canfod Eto
     .accesskey = C

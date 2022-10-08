@@ -44,7 +44,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Maint byffer:
+
 perftools-custom-threads-label = Ychwanegwch drywydd cyfaddas yn ôl enw:
+
 perftools-devtools-interval-label = Cyfnod:
 perftools-devtools-threads-label = Trywyddion:
 perftools-devtools-settings-label = Gosodiadau
@@ -114,6 +116,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Osgoi'r dewisiadau uchod a chofnodi'r holl drywyddion cofrestredig
+
 perftools-tools-threads-input-label =
     .title = Mae'r enwau trywyddion hyn yn rhestr sydd wedi'i gwahanu â choma sy'n cael ei ddefnyddio i alluogi proffilio trywydd yn y proffiliwr. Mae angen i'r enw fod yn cyfateb yn unig â'r enw trywydd i'w gynnwys. Mae'n sensitif i ofod gwyn.
 
@@ -121,6 +124,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Newydd</b>: Mae'r { -profiler-brand-name } bellach wedi'i integreiddio i Offer Datblygwr. <a>Gweld rhagor</a> am yr offeryn newydd pwerus hwn.
+
 perftools-onboarding-close-button =
     .aria-label = Cau'r neges cyflwyno
 
@@ -133,17 +137,23 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Datblygwr Gwe
 perftools-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Y rhagosodiad a argymhellir ar gyfer proffilio { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Graffigau
 perftools-presets-graphics-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }.
+
 perftools-presets-media-label = Cyfrwng
 perftools-presets-media-description2 = Y rhagosodiad ar gyfer ymchwilio i wallau sain a fideo yn { -brand-shorter-name }.
+
 perftools-presets-networking-label = Rhwydweithio
 perftools-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Pŵer
 perftools-presets-power-description = Y rhagosodiad ar gyfer ymchwilio i wallau defnydd pŵer yn { -brand-shorter-name }, gyda gorbenion isel.
+
 perftools-presets-custom-label = Cyfaddas
 
 ##

@@ -3,82 +3,116 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Rheolwr Ychwanegion
+
 search-header =
     .placeholder = Search addons.mozilla.org
     .searchbuttonlabel = Chwilio
+
 search-header-shortcut =
     .key = f
+
 list-empty-get-extensions-message = Cewch estyniadau a themâu yn <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-dictionaries-message = Cael geiriaduron o <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-language-packs-message = Cael pecynnau iaith o <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-installed =
     .value = Nid oes gennych ychwanegion o'r math yma wedi eu gosod
+
 list-empty-available-updates =
     .value = Heb ganfod diweddariadau
+
 list-empty-recent-updates =
     .value = Nid ydych wedi diweddaru eich ychwanegion yn ddiweddar
+
 list-empty-find-updates =
     .label = Gwirio am Ddiweddariadau
+
 list-empty-button =
     .label = Dysgu rhagor am ychwanegion
+
 help-button = Cefnogaeth Ychwanegion
 sidebar-help-button-title =
     .title = Cefnogaeth Ychwanegion
+
 addons-settings-button = Gosodiadau { -brand-short-name }
 sidebar-settings-button-title =
     .title = Gosodiadau { -brand-short-name }
+
 show-unsigned-extensions-button =
     .label = Nid oedd modd dilysu rhai estyniadau
+
 show-all-extensions-button =
     .label = Dangos pob estyniad
+
 detail-version =
     .label = Fersiwn
+
 detail-last-updated =
     .label = Diweddarwyd Diwethaf
+
 addon-detail-description-expand = Dangos rhagor
 addon-detail-description-collapse = Dangos llai
+
 detail-contributions-description = Mae datblygwr yr ychwanegyn yn gofyn eich bod yn cynorthwyo i gefnogi datblygiad drwy wneud cyfraniad bychan.
+
 detail-contributions-button = Cyfrannu
     .title = Cyfrannwch i ddatblygiad yr ategyn hwn
     .accesskey = C
+
 detail-update-type =
     .value = Diweddariadau Awtomatig
+
 detail-update-default =
     .label = Rhagosodedig
     .tooltiptext = Gosod diweddariadau'n awtomatig os mai dyna yw'r rhagosodedig
+
 detail-update-automatic =
     .label = Ymlaen
     .tooltiptext = Gosod diweddariadau'n awtomatig
+
 detail-update-manual =
     .label = Diffodd
     .tooltiptext = Peidio gosod diweddariadau'n awtomatig
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Rhedeg mewn Ffenestri Preifat
+
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Heb ei ganiatáu mewn Ffenestri Preifat
 detail-private-disallowed-description2 = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Angen Mynediad at Ffenestri Preifat
 detail-private-required-description2 = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein wrth bori'n breifat. <a data-l10n-name="learn-more">Dysgu mwy</a>
+
 detail-private-browsing-on =
     .label = Caniatáu
     .tooltiptext = Caniatáu wrth Bori Preifat
+
 detail-private-browsing-off =
     .label = Peidio â Chaniatáu
     .tooltiptext = Analluogi mewn Pori Preifat
+
 detail-home =
     .label = Tudalen Cartref
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Proffil Ychwanegyn
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Gwirio am Ddiweddariadau
     .accesskey = G
     .tooltiptext = Gwirio am ddiweddariad i'r ychwanegyn
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -95,23 +129,35 @@ detail-show-preferences =
             [windows] Newid dewisiadau'r ychwanegyn
            *[other] Newid dewisiadau'r ychwanegyn
         }
+
 detail-rating =
     .value = Graddio
+
 addon-restart-now =
     .label = Ailgychwyn nawr
+
 disabled-unsigned-heading =
     .value = Mae rhai ychwanegion wedi eu hanalluogi
+
 disabled-unsigned-description = Mae'r ychwanegion canlynol wedi eu dilysu i'w defnyddio yn { -brand-short-name }. Gallwch <label data-l10n-name="find-addons">canfod newidiadau</label> neu ofyn i'r datblygwr iddynt gael eu dilysu.
+
 disabled-unsigned-learn-more = Dysgu rhagor am ein hymdrechion i'ch cadw'n ddiogel ar-lein.
+
 disabled-unsigned-devinfo = Gall ddatblygwyr sydd â diddordeb mewn dilysu eu hychwanegion barhau drwy ddarllen ein <label data-l10n-name="learn-more">canllawiau</label>.
+
 plugin-deprecation-description = Rhywbeth ar goll? Nid yw rhai ategion yn cael eu cynnal bellach gan { -brand-short-name }. <label data-l10n-name="learn-more">Dysgu Rhagor.</label>
+
 legacy-warning-show-legacy = Dangos hen estyniadau
+
 legacy-extensions =
     .value = Hen Estyniadau
+
 legacy-extensions-description = Nid yw'r estyniadau hyn yn cyrraedd safonau cyfredol { -brand-short-name } ac mae nhw wedi cael eu diffodd. <label data-l10n-name="legacy-learn-more">Dysgu am y newidiadau i ychwanegion</label>
+
 private-browsing-description2 =
     Mae { -brand-short-name } yn newid sut mae estyniadau'n gweithio o fewn pori preifat. Ni fydd unrhyw estyniadau newydd y byddwch chi'n eu hychwanegu at { -brand-short-name } yn rhedeg yn ragosodedig o fewn Ffenestri Prefat. Oni bai eich bod yn ei ganiatáu yn y gosodiadau, ni fydd estyniad yn gweithio wrth bori'n preifat, ac ni chaiff fynediad at eich gweithgareddau ar-lein yno. Rydym wedi gwneud y newid hwn i gadw eich pori preifat yn breifat.
     <label data-l10n-name="private-browsing-learn-more">Dysgu sut i reoli gosodiadau estyniad.</label>
+
 addon-category-discover = Argymhellion
 addon-category-discover-title =
     .title = Argymhellion
@@ -195,28 +241,35 @@ addon-open-about-debugging = Dadfygio Ychwanegion
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Rheoli Estyniad Llwybrau Byr
     .accesskey = R
+
 shortcuts-no-addons = Nid oes gennych unrhyw estyniadau wedi'u galluogi.
 shortcuts-no-commands = Nid oes gan yr estyniadau canlynol lwybrau byr:
 shortcuts-input =
     .placeholder = Teipiwch llwybr byr
+
 shortcuts-browserAction2 = Cychwyn botwm bar offer
 shortcuts-pageAction = Cychwyn gweithred tudalen
 shortcuts-sidebarAction = Toglo'r bar ochr
+
 shortcuts-modifier-mac = Cynnwys Ctrl, Alt, neu ⌘
 shortcuts-modifier-other = Cynnwys Ctrl neu Alt
 shortcuts-invalid = Cyfuniad annilys
 shortcuts-letter = Teipiwch lythyr
 shortcuts-system = Methu anwybyddu llwybr byr { -brand-short-name }
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Llwybr byr dyblyg
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = Mae { $shortcut } yn cael ei ddefnyddio fel llwybr byr mewn mwy nag un achos. Gall llwybrau byr dyblyg achosi ymddygiad annisgwyl.
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ar waith eisoes gan { $addon }
+
 shortcuts-card-expand-button =
     { $numberToShow ->
         [zero] Dangos { $numberToShow } yn Rhagor
@@ -226,7 +279,9 @@ shortcuts-card-expand-button =
         [many] Dangos { $numberToShow } yn Rhagor
        *[other] Dangos { $numberToShow } yn Rhagor
     }
+
 shortcuts-card-collapse-button = Dangos Llai
+
 header-back-button =
     .title = Mynd nôl
 
@@ -239,12 +294,15 @@ discopane-intro =
     diogelu cyfrineiriau, llwytho fideos i lawr, dod o hyd i gytundebau, rhwystro hysbysebion blin, newid
     golwg eich porwr a llawer mwy. Mae'r rhaglenni meddalwedd bach hyn fel arfer yn cael eu datblygu gan drydydd parti. Dyma detholiad y mae { -brand-product-name }<a data-l10n-name="learn-more-trigger">
     yn eu hargymell </a> am ddiogelwch, perfformiad, a swyddogaethau gwell.
+
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Mae rhai o'r argymhellion hyn wedi'u dewis yn benodol ar eich cyfer chi. Maen nhw'n seiliedig ar 
     estyniadau eraill rydych chi wedi'u gosod, eich proffil dewisiadau, a'ch ystadegau defnydd.
 discopane-notice-learn-more = Dysgu rhagor
+
 privacy-policy = Polisi Preifatrwydd
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -260,6 +318,7 @@ install-theme-button = Gosod Thema
 manage-addon-button = Rheoli
 find-more-addons = Canfod rhagor o ychwanegion
 find-more-themes = Canfod themâu eraill
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -285,51 +344,60 @@ preferences-addon-button =
 details-addon-button = Manylion
 release-notes-addon-button = Nodiadau Rhyddhau
 permissions-addon-button = Caniatâd
+
 extension-enabled-heading = Galluogwyd
 extension-disabled-heading = Analluogwyd
+
 theme-enabled-heading = Galluogwyd
 theme-disabled-heading = Analluogwyd
 theme-disabled-heading2 = Themâu wedi'u Cadw
 theme-monochromatic-heading = Llwybrau lliw
 theme-monochromatic-subheading = Llwybrau lliw newydd bywiog gan { -brand-product-name }. Ar gael am gyfnod cyfyngedig.
+
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Rhowch gynnig ar Colorways
-colorway-collection-independent-voices-subheading = Gwnewch i { -brand-short-name } deimlo ychydig yn fwy perthyn i chi.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Yn dod i ben{ DATETIME($expiryDate, month: "long", day: "numeric") }
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Newid y Llwybr Lliw
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Yn dod i ben{ DATETIME($expiryDate, month: "long", day: "numeric") }
+
 plugin-enabled-heading = Galluogwyd
 plugin-disabled-heading = Analluogwyd
+
 dictionary-enabled-heading = Galluogwyd
 dictionary-disabled-heading = Analluogwyd
+
 locale-enabled-heading = Galluogwyd
 locale-disabled-heading = Analluogwyd
+
 sitepermission-enabled-heading = Galluogwyd
 sitepermission-disabled-heading = Analluogwyd
+
 always-activate-button = Gweithredu Bob Tro
 never-activate-button = Byth Gweithredu
+
 addon-detail-author-label = Awdur
 addon-detail-version-label = Fersiwn
 addon-detail-last-updated-label = Diweddarwyd Diwethaf
 addon-detail-homepage-label = Tudalen Cartref
 addon-detail-rating-label = Graddio
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = Bydd yr estyniad hwn yn cael ei ddiweddaru pan fydd { -brand-short-name } yn ailgychwyn.
 install-postponed-button = Diweddaru Nawr
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Graddiwyd { NUMBER($rating, maximumFractionDigits: 1) } allan o 5
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (analluogwyd)
+
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -349,12 +417,14 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Mae <span data-l10n-name="addon-name">{ $addon }</span> wedi ei dynnu.
 pending-uninstall-undo-button = Dadwneud
+
 addon-detail-updates-label = Caniatáu diweddariadau awtomatig
 addon-detail-updates-radio-default = Rhagosodedig
 addon-detail-updates-radio-on = Ymlaen
 addon-detail-updates-radio-off = Diffodd
 addon-detail-update-check-label = Gwirio am Ddiweddariadau
 install-update-button = Diweddaru
+
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -383,15 +453,20 @@ addon-badge-verified2 =
 
 available-updates-heading = Diweddariadau ar Gael
 recent-updates-heading = Diweddariadau Diweddar
+
 release-notes-loading = Llwytho…
 release-notes-error = Ymddiheuriadau ond bu gwall llwytho'r nodiadau ryddhau.
+
 addon-permissions-empty = Nid oes angen unrhyw ganiatâd ar yr estyniad hwn
 addon-permissions-required = Caniatâd angenrheidiol y swyddogaethau craidd:
 addon-permissions-optional = Caniatâd dewisol ar gyfer y swyddogaethau ychwanegol:
 addon-permissions-learnmore = Dysgu rhagor am ganiatâd
+
 recommended-extensions-heading = Estyniadau Cymeradwy
 recommended-themes-heading = Themâu Cymeradwy
+
 addon-sitepermissions-required = Yn caniatáu'r galluoedd canlynol i <span data-l10n-name="hostname">{ $hostname }</span>:
+
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Teimlo'n greadigol? <a data-l10n-name="link">Adeiladwch eich thema eich hun gyda Firefox Color. </a>
@@ -407,9 +482,11 @@ updates-heading = Rheoli Eich Diweddariadau
 sitepermission-heading = Rheoli Eich Caniatâd Gwefan
 discover-heading = Personoli Eich { -brand-short-name }
 shortcuts-heading = Rheoli Estyniad Llwybrau Byr
+
 default-heading-search-label = Canfod rhagor o ychwanegion
 addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
+
 addon-page-options-button =
     .title = Offer ar gyfer pob ychwanegyn
 
@@ -420,13 +497,19 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
+
 details-notification-incompatible-link = Rhagor o wybodaeth
+
 details-notification-unsigned-and-disabled = Nid oedd modd dilysu { $name } i'w ddefnyddio yn { -brand-short-name } ac mae wedi ei analluogi.
 details-notification-unsigned-and-disabled-link = Rhagor o Wybodaeth
+
 details-notification-unsigned = Nid oedd modd dilysu { $name } i'w defnyddio yn { -brand-short-name }. Cymerwch ofal.
 details-notification-unsigned-link = Rhagor o Wybodaeth
+
 details-notification-blocked = Mae { $name } wedi ei analluogi o ganlyniad i faterion diogelwch a sefydlogrwydd.
 details-notification-blocked-link = Rhagor o Wybodaeth
+
 details-notification-softblocked = Mae'n hysbys fod { $name } yn achosi anawsterau diogelwch a sefydlogrwydd.
 details-notification-softblocked-link = Rhagor o Wybodaeth
+
 details-notification-gmp-pending = Bydd { $name } yn cael ei osod yn fuan.

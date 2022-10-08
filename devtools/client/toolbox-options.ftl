@@ -142,8 +142,3 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Sesiwn gyfredol yn unig, ail-lwytho'r dudalen
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Dangos data platfform Gecko
-options-show-platform-data-tooltip =
-    .title = Os ydych wedi galluogi'r dewis hwn bydd adroddiadau Proffiliwr JavaScript yn cynnwys symbolau platfform Gecko
