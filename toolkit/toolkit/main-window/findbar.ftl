@@ -33,3 +33,7 @@ findbar-entire-word =
     .tooltiptext = ค้นหาทั้งคำเท่านั้น
 findbar-wrapped-to-top = ค้นหาถึงจุดสิ้นสุดหน้า เริ่มค้นต่อจากด้านบน
 findbar-wrapped-to-bottom = ค้นหาถึงจุดเริ่มต้นของหน้า เริ่มค้นต่อจากด้านล่าง
+findbar-fast-find =
+    .placeholder = ค้นแบบเร็ว
+findbar-fast-find-links =
+    .placeholder = ค้นแบบเร็ว (ลิงก์เท่านั้น)
