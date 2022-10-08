@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Canfod cyflym (dolenni'n unig)
 findbar-case-sensitive-status =
     .value = (Mawr/bach)
+findbar-match-diacritics-status =
+    .value = (Diacritig cyfatebol)
 findbar-entire-word-status =
     .value = (Geiriau llawn yn unig)
 # Variables:
