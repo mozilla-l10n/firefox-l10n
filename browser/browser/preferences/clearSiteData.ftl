@@ -5,12 +5,16 @@
 clear-site-data-window =
     .title = Tyhjennä tiedot
     .style = width: 35em
+
 clear-site-data-window2 =
     .title = Tyhjennä tiedot
     .style = min-width: 35em
+
 clear-site-data-description = Jos poistat kaikki evästeet ja sivuston { -brand-short-name }iin tallentamat tiedot, sinut saatetaan kirjata ulos sivustoilta ja yhteydetöntä tilaa varten tallennettu sisältö saatetaan poistaa. Välimuistissa olevan sisällön poistaminen ei kirjaa sinua ulos sivustoilta.
+
 clear-site-data-close-key =
     .key = w
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
@@ -19,6 +23,7 @@ clear-site-data-close-key =
 clear-site-data-cookies-with-data =
     .label = Evästeet ja sivustotiedot ({ $amount } { $unit })
     .accesskey = E
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -27,7 +32,9 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Evästeet ja sivustotiedot
     .accesskey = E
+
 clear-site-data-cookies-info = Näiden poistaminen saattaa kirjata sinut ulos sivustoilta
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
@@ -36,6 +43,7 @@ clear-site-data-cookies-info = Näiden poistaminen saattaa kirjata sinut ulos si
 clear-site-data-cache-with-data =
     .label = Välimuistissa oleva verkkosisältö ({ $amount } { $unit })
     .accesskey = V
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -44,7 +52,9 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Välimuistissa oleva verkkosisältö
     .accesskey = V
+
 clear-site-data-cache-info = Vaatii sivustot lataamaan kuvat ja tiedot uudestaan
+
 clear-site-data-dialog =
     .buttonlabelaccept = Tyhjennä
     .buttonaccesskeyaccept = T

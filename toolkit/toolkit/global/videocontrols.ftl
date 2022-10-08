@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Äänenvoimakkuus
 videocontrols-closed-caption-button =
     .aria-label = Tekstitys
+
 videocontrols-play-button =
     .aria-label = Toista
 videocontrols-pause-button =
@@ -28,23 +29,29 @@ videocontrols-casting-button-label =
     .aria-label = Lähetä ruudulle
 videocontrols-closed-caption-off =
     .offlabel = Pois käytöstä
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Kuva kuvassa
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Katso Kuva kuvassa -tilassa
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Toista videoita etualalla samalla, kun teet muita asioita { -brand-short-name }issa
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Ponnahduta ulos tämä video
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Useampi näyttö on aina hauskempaa. Toista tämä video kuva kuvassa -tilassa samalla kun selaat.
+
 videocontrols-error-aborted = Videon lataaminen pysähtynyt.
 videocontrols-error-network = Videon toisto keskeytynyt verkkovirheen vuoksi.
 videocontrols-error-decode = Videota ei voida toistaa, koska tiedosto on vioittunut.
@@ -52,6 +59,7 @@ videocontrols-error-src-not-supported = Videon tiedostomuoto tai MIME-tyyppi ei 
 videocontrols-error-no-source = Ei löytynyt videota tuetussa tiedostomuodossa ja MIME-tyypissä.
 videocontrols-error-generic = Videon toisto keskeytynyt tuntemattoman virheen vuoksi.
 videocontrols-status-picture-in-picture = Tätä videota toistetaan kuva kuvassa -tilassa.
+
 # This message shows the current position and total video duration
 #
 # Variables:

@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Kaikki osoitekirjat
+
 about-addressbook-books-context-properties =
     .label = Ominaisuudet
 about-addressbook-books-context-synchronize =
@@ -36,6 +37,7 @@ about-addressbook-books-context-delete =
     .label = Poista
 about-addressbook-books-context-remove =
     .label = Poista
+
 about-addressbook-confirm-delete-book-title = Poista osoitekirja
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -53,12 +55,14 @@ about-addressbook-search =
     .placeholder = Hae { $name }
 about-addressbook-search-all =
     .placeholder = Hae kaikista osoitekirjoista
+
 about-addressbook-name-format-display =
     .label = Näyttönimi
 about-addressbook-name-format-firstlast =
     .label = Etunimi Sukunimi
 about-addressbook-name-format-lastfirst =
     .label = Sukunimi, Etunimi
+
 about-addressbook-sort-name-ascending =
     .label = Järjestä nimen mukaan (A > Ö)
 about-addressbook-sort-name-descending =
@@ -67,6 +71,7 @@ about-addressbook-sort-email-ascending =
     .label = Järjestä sähköpostiosoitteen mukaan (A > Ö)
 about-addressbook-sort-email-descending =
     .label = Järjestä sähköpostiosoitteen mukaan (Ö > A)
+
 about-addressbook-horizontal-layout =
     .label = Vaihda vaakasuuntaiseen asetteluun
 about-addressbook-vertical-layout =
@@ -111,19 +116,23 @@ about-addressbook-begin-edit-contact-button = Muokkaa
 about-addressbook-delete-edit-contact-button = Poista
 about-addressbook-cancel-edit-contact-button = Peruuta
 about-addressbook-save-edit-contact-button = Tallenna
+
 about-addressbook-details-email-addresses-header = Sähköpostiosoitteet
 about-addressbook-details-phone-numbers-header = Puhelinnumerot
 about-addressbook-details-addresses-header = Osoitteet
 about-addressbook-details-impp-header = Pikaviestintä
 about-addressbook-details-other-info-header = Muut tiedot
+
 about-addressbook-entry-type-work = Työ
 about-addressbook-entry-type-home = Koti
 about-addressbook-entry-type-fax = Faksi
+
 about-addressbook-entry-name-birthday = Syntymäpäivä
 about-addressbook-entry-name-role = Rooli
 about-addressbook-entry-name-organization = Organisaatio
 about-addressbook-entry-name-website = Verkkosivusto
 about-addressbook-entry-name-time-zone = Aikavyöhyke
+
 about-addressbook-unsaved-changes-prompt-title = Tallentamattomia muutoksia
 about-addressbook-unsaved-changes-prompt = Haluatko tallentaa tekemäsi muutokset ennen kuin poistut muokkausnäkymästä?
 
@@ -133,6 +142,10 @@ about-addressbook-photo-drop-target = Pudota tai liitä kuva tähän, tai valits
 about-addressbook-photo-drop-loading = Ladataan kuvaa…
 about-addressbook-photo-drop-error = Kuvan lataaminen epäonnistui.
 about-addressbook-photo-filepicker-title = Valitse kuvatiedosto
+
 about-addressbook-photo-discard = Hylkää olemassa oleva kuva
 about-addressbook-photo-cancel = Peruuta
 about-addressbook-photo-save = Tallenna
+
+# Keyboard shortcuts
+

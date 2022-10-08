@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Aloita puhtaalta pöydältä korjataksesi s
 refresh-profile = Viritä { -brand-short-name }
 refresh-profile-button = Palauta { -brand-short-name } uudenveroiseksi…
 refresh-profile-learn-more = Lue lisää
+
 refresh-profile-progress =
     .title = Palauta { -brand-short-name } uudeksi
 refresh-profile-progress-description = Melkein valmista…

@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "T">
 <!ENTITY productHelp.label "&brandShortName;-ohje">
 <!ENTITY productHelp.accesskey "O">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "Kiihdytä">
