@@ -6,16 +6,24 @@
 ## Error page titles
 
 neterror-page-title = পেজ লোড করতে সমস্যা
+certerror-page-title = সতর্কতা: এগিয়ে সম্ভাব্য নিরাপত্তা ঝুঁকি
+certerror-sts-page-title = সংযুক্ত ছিল না: সম্ভাব্য নিরাপত্তা সমস্যা
+neterror-blocked-by-policy-page-title = ব্লক করা পাতা
 neterror-captive-portal-page-title = নেটওয়ার্কে লগইন করুন
 neterror-dns-not-found-title = সার্ভার পাওয়া যায়নি
+neterror-malformed-uri-page-title = অবৈধ URL
 
 ## Error page actions
 
 neterror-copy-to-clipboard-button = ক্লিপ-বোর্ডের মধ্যে টেক্সট কপি করুন
 neterror-learn-more-link = আরও জানুন ...
+neterror-open-portal-login-page-button = নেটওয়ার্ক লগইন পাতা খুলুন
+neterror-override-exception-button = ঝুঁকি গ্রহণ করুন এবং করুন এগিয়ে যান
 neterror-pref-reset-button = ডিফল্ট বৈশিষ্ট্যাবলী পুনরুদ্ধার করুন
 neterror-return-to-previous-page-button = ফিরে যান
+neterror-return-to-previous-page-recommended-button = ফিরে যান (প্রস্তাবিত)
 neterror-try-again-button = পুনরায় চেষ্টা করুন
+neterror-view-certificate-link = সার্টিফিকেট প্রদর্শন
 
 ##
 
@@ -28,6 +36,7 @@ neterror-generic-error = কোনো কারণবসত { -brand-short-name 
 neterror-load-error-try-again = সাইটটি সম্ভবত সাময়িকরূপে উপলব্ধ নয় অথবা অত্যন্ত ব্যস্ত। কয়েক মুহূর্ত পরে পুনরায় প্রচেষ্টা করুন।
 neterror-load-error-connection = পেজ লোড সম্ভব না হলে আপনার কম্পিউটারের সাথে নেটওয়ার্কের  সংযোগ পরীক্ষা করুন।
 neterror-load-error-firewall = আপনার কম্পিউটার যদি কোনো ফায়ারওয়াল  অথবা প্রক্সির আড়ালে স্থাপিত হয় তাহলে { -brand-short-name }-কে ওয়েবে সংযোগ করার অনুমতি প্রদান করুন।
+neterror-captive-portal = ইন্টারনেট প্রবেশ করতে হলে, আপনাকে এই নেটওয়ার্কে অবশ্যই লগইন করতে হবে।
 neterror-file-not-found-filename = ফাইলের নামের মধ্যে ভুলবসত লেখা বড় ছাঁদের হরফ অথবা অন্যান্য ত্রুটি পরীক্ষা করুন।
 neterror-file-not-found-moved = ফাইলের স্থান অথবা নাম পরিবর্তিত হয়েছে কিনা অথবা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।
 neterror-access-denied = এটা হয়তো মোছা হয়েছে, সরানো হয়েছে, বা ফাইলে প্রবেশের অনুমুতির অ্যাক্সেস নিষেধ করা হয়েছে।
@@ -57,3 +66,5 @@ neterror-sslv3-used = উন্নত তথ্য: SSL_ERROR_UNSUPPORTED_VERSIO
 neterror-inadequate-security-intro = <b>{ $hostname }</b> সুরক্ষা টেকনোলজি ব্যবহার করুন যা সেকেলে এবং ঝুঁকিপূর্ণ আক্রমণের ক্ষেত্রে। একজন আক্রমণকারী সহজে তথ্য বার করতে পারে যা আপনার সুরক্ষিত বলে মনে হয়। ওয়েবসাইটের প্রশাসকের সার্ভারটাকে প্রথমে সুরক্ষা করার দরকার আপনার সাইট পরিদর্শনের সাথে।
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = ত্রুটি কোড: NS_ERROR_NET_INADEQUATE_SECURITY
+certerror-what-can-you-do-about-it-title = এ ব্যাপারে আপনি কি করতে পারেন?
+certerror-bad-cert-domain-what-can-you-do-about-it = এই সমস্যাটি ওয়েবসাইটের সাথে সর্বাধিক সম্ভাব্য, এবং এটি সমাধান করার জন্য আপনি কিছুই করতে পারবেন না। আপনি সমস্যা সম্পর্কে ওয়েবসাইট প্রশাসককে অবহিত করতে পারেন।
