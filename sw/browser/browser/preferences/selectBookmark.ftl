@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = Seti Ukurasa Maskani
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Seti Ukurasa Maskani
     .style = min-width: 32em;
+
 select-bookmark-desc = Chagua Alamisho kuwa Ukurasa wako wa Maskani. Ukichagua folda, Alamisho zilizo kwenye folda hiyo zitafunguliwa katika Vichupo.

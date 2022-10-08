@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Tafuta
 config-new-pref-name =
     .placeholder = Jina
+
 config-new-pref-value-boolean = Boleani
 config-new-pref-value-string = Tungo
 config-new-pref-value-integer = Namba kamili
+
 config-new-pref-string =
     .placeholder = Ingiza tungo
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Katiza
 config-new-pref-create-button = Unda
 config-new-pref-change-button = Badilisha
+
 config-pref-toggle-button = Badilisha
 config-pref-reset-button = Seti upya
+
 config-context-menu-copy-pref-name =
     .label = Nakili Jina
 config-context-menu-copy-pref-value =
