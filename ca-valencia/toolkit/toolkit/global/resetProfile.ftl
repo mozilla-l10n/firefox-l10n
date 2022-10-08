@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Comenceu des de zero per arreglar problemes
 refresh-profile = Poseu a punt el { -brand-short-name }
 refresh-profile-button = Restableix el { -brand-short-name } a l'estat inicial…
 refresh-profile-learn-more = Més informació
+
 refresh-profile-progress =
     .title = Restableix el { -brand-short-name } a l'estat inicial
 refresh-profile-progress-description = Gairebé heu acabat…
