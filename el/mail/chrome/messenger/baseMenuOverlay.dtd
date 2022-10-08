@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "Σ">
 <!ENTITY productHelp.label "Βοήθεια &brandShortName;">
 <!ENTITY productHelp.accesskey "Β">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

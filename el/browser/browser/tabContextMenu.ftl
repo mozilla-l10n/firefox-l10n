@@ -103,6 +103,7 @@ tab-context-move-tabs =
            *[other] Μετακίνηση καρτελών
         }
     .accesskey = τ
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

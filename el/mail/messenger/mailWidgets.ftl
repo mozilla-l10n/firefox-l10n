@@ -4,6 +4,7 @@
 
 apply-current-view-to-menu =
     .label = Εφαρμογή τρέχουσας προβολής σε…
+
 threadpane-apply-changes-prompt-title = Εφαρμογή των αλλαγών;
 # Variables:
 #  $name (String): The name of the folder to apply to.
@@ -11,3 +12,4 @@ threadpane-apply-changes-prompt-no-children-text = Εφαρμογή προβολ
 # Variables:
 #  $name (String): The name of the folder to apply to.
 threadpane-apply-changes-prompt-with-children-text = Εφαρμογή προβολής του τρέχοντος φακέλου στο «{ $name }» και τα τέκνα του;
+

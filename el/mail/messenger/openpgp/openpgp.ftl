@@ -1,13 +1,17 @@
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Για να στείλετε κρυπτογραφημένα ή ψηφιακά υπογεγραμμένα μηνύματα, πρέπει να ρυθμίσετε μια τεχνολογία κρυπτογράφησης, είτε OpenPGP είτε S/MIME.
 e2e-intro-description-more = Επιλέξτε το προσωπικό σας κλειδί για να ενεργοποιήσετε τη χρήση του OpenPGP ή το προσωπικό σας πιστοποιητικό για να ενεργοποιήσετε τη χρήση του S/MIME. Για ένα προσωπικό κλειδί ή πιστοποιητικό έχετε και το αντίστοιχο μυστικό κλειδί.
+
 e2e-signing-description = Μια ψηφιακή υπογραφή επιτρέπει στους παραλήπτες να επαληθεύσουν ότι το μήνυμα εστάλη από εσάς και ότι το περιεχόμενό του δεν έχει αλλάξει. Τα κρυπτογραφημένα μηνύματα υπογράφονται πάντα από προεπιλογή.
+
 e2e-sign-message =
     .label = Υπογραφή μη κρυπτογραφημένων μηνυμάτων
     .accesskey = η
+
 e2e-disable-enc =
     .label = Απενεργοποίηση κρυπτογράφησης για νέα μηνύματα
     .accesskey = γ
@@ -15,6 +19,7 @@ e2e-enable-enc =
     .label = Ενεργοποίηση κρυπτογράφησης για νέα μηνύματα
     .accesskey = ν
 e2e-enable-description = Θα μπορείτε να απενεργοποιείτε την κρυπτογράφηση για μεμονωμένα μηνύματα.
+
 e2e-advanced-section = Σύνθετες ρυθμίσεις
 e2e-attach-key =
     .label = Επισύναψη δημόσιου κλειδιού κατά την προσθήκη ψηφιακής υπογραφής OpenPGP
@@ -25,6 +30,7 @@ e2e-encrypt-subject =
 e2e-encrypt-drafts =
     .label = Αποθήκευση πρόχειρων μηνυμάτων σε κρυπτογραφημένη μορφή
     .accesskey = κ
+
 openpgp-key-user-id-label = Λογαριασμός/ID χρήστη
 openpgp-keygen-title-label =
     .title = Δημιουργία κλειδιού OpenPGP
@@ -55,13 +61,18 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Σύνθετα…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">ΣΗΜΕΙΩΣΗ: Η δημιουργία κλειδιού ενδέχεται να διαρκέσει αρκετά λεπτά για να ολοκληρωθεί.</a> Μην κλείσετε την εφαρμογή ενώ είναι σε εξέλιξη η δημιουργία του κλειδιού. Η ενεργή περιήγηση ή η εκτέλεση έντονων εργασιών δίσκου κατά τη δημιουργία του κλειδιού θα αναπληρώσει τη 'δεξαμενή τυχαιότητας' και θα επιταχύνει τη διαδικασία. Θα ενημερωθείτε όταν ολοκληρωθεί η δημιουργία του κλειδιού.
+
 openpgp-key-created-label =
     .label = Δημιουργία
+
 openpgp-key-expiry-label =
     .label = Λήξη
+
 openpgp-key-id-label =
     .label = ID κλειδιού
+
 openpgp-cannot-change-expiry = Αυτό είναι κλειδί με περίπλοκη δομή, η αλλαγή της ημερομηνίας λήξης δεν υποστηρίζεται.
+
 openpgp-key-man-title =
     .title = Διαχείριση κλειδιών OpenPGP
 openpgp-key-man-generate =
@@ -72,6 +83,7 @@ openpgp-key-man-gen-revoke =
     .accesskey = κ
 openpgp-key-man-ctx-gen-revoke-label =
     .label = Δημιουργία και αποθήκευση πιστοποιητικού ανάκλησης
+
 openpgp-key-man-file-menu =
     .label = Αρχείο
     .accesskey = Α
@@ -87,6 +99,7 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Διακομιστής κλειδιών
     .accesskey = Δ
+
 openpgp-key-man-import-public-from-file =
     .label = Εισαγωγή δημόσιων κλειδιών από αρχείο
     .accesskey = Ε
@@ -109,23 +122,29 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Αντιγραφή μυστικών κλειδιών σε αρχείο
     .accesskey = Α
+
 openpgp-key-man-discover-cmd =
     .label = Ανακάλυψη κλειδιών στο διαδίκτυο
     .accesskey = Α
 openpgp-key-man-discover-prompt = Για να βρείτε κλειδιά OpenPGP στο διαδίκτυο, σε διακομιστές κλειδιών ή μέσω του πρωτοκόλλου WKD, εισαγάγετε είτε μια διεύθυνση email είτε ένα ID κλειδιού.
 openpgp-key-man-discover-progress = Αναζήτηση…
+
 openpgp-key-copy-key =
     .label = Αντιγραφή δημόσιου κλειδιού
     .accesskey = Α
+
 openpgp-key-export-key =
     .label = Εξαγωγή δημόσιου κλειδιού σε αρχείο
     .accesskey = Ε
+
 openpgp-key-backup-key =
     .label = Αντιγραφή μυστικού κλειδιού σε αρχείο
     .accesskey = Α
+
 openpgp-key-send-key =
     .label = Αποστολή δημόσιου κλειδιού με email
     .accesskey = Α
+
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -133,6 +152,7 @@ openpgp-key-man-copy-key-ids =
            *[other] Αντιγραφή ID κλειδιών στο πρόχειρο
         }
     .accesskey = κ
+
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
@@ -140,6 +160,7 @@ openpgp-key-man-copy-fprs =
            *[other] Αντιγραφή αποτυπωμάτων στο πρόχειρο
         }
     .accesskey = Α
+
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -147,11 +168,14 @@ openpgp-key-man-copy-to-clipboard =
            *[other] Αντιγραφή δημόσιων κλειδιών στο πρόχειρο
         }
     .accesskey = δ
+
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Εξαγωγή κλειδιών σε αρχείο
+
 openpgp-key-man-ctx-copy =
     .label = Αντιγραφή
     .accesskey = Α
+
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -159,6 +183,7 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Αποτυπώματα
         }
     .accesskey = τ
+
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
@@ -166,6 +191,7 @@ openpgp-key-man-ctx-copy-key-ids =
            *[other] ID κλειδιών
         }
     .accesskey = I
+
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
@@ -173,6 +199,7 @@ openpgp-key-man-ctx-copy-public-keys =
            *[other] Δημόσια κλειδιά
         }
     .accesskey = Δ
+
 openpgp-key-man-close =
     .label = Κλείσιμο
 openpgp-key-man-reload =
@@ -225,13 +252,17 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Δεν υπάρχουν κλειδιά που να ταιριάζουν με τους όρους αναζήτησης
 openpgp-key-man-please-wait-tooltip =
     .label = Παρακαλούμε περιμένετε όσο φορτώνονται τα κλειδιά…
+
 openpgp-key-man-filter-label =
     .placeholder = Αναζήτηση για κλειδιά
+
 openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
+
 openpgp-ign-addr-intro = Αποδέχεστε τη χρήση αυτού του κλειδιού για τις εξής επιλεγμένες διευθύνσεις email:
+
 openpgp-key-details-doc-title = Ιδιότητες κλειδιού
 openpgp-key-details-signatures-tab =
     .label = Πιστοποιητικά
@@ -246,13 +277,17 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Τύπος
 openpgp-key-details-key-part-label =
     .label = Τμήμα κλειδιού
+
 openpgp-key-details-attr-ignored = Προειδοποίηση: Αυτό το κλειδί ενδέχεται να μην λειτουργεί όπως αναμένεται, επειδή ορισμένες από τις ιδιότητές του δεν είναι ασφαλείς και ενδέχεται να αγνοηθούν.
 openpgp-key-details-attr-upgrade-sec = Θα πρέπει να αναβαθμίσετε τις επισφαλείς ιδιότητες.
 openpgp-key-details-attr-upgrade-pub = Θα πρέπει να ζητήσετε από τον κάτοχο του κλειδιού να ενημερώσει τις επισφαλείς ιδιότητες.
+
 openpgp-key-details-upgrade-unsafe =
     .label = Αναβάθμιση επισφαλών ιδιοτήτων
     .accesskey = β
+
 openpgp-key-details-upgrade-ok = Το κλειδί αναβαθμίστηκε επιτυχώς. Πρέπει να μοιραστείτε το ενημερωμένο δημόσιο κλειδί με τους επιστολογράφους σας.
+
 openpgp-key-details-algorithm-label =
     .label = Αλγόριθμος
 openpgp-key-details-size-label =
@@ -289,6 +324,7 @@ openpgp-personal-no-label =
     .label = Όχι, να μην χρησιμοποιηθεί ως προσωπικό κλειδί μου.
 openpgp-personal-yes-label =
     .label = Ναι, να αντιμετωπιστεί το κλειδί ως προσωπικό κλειδί.
+
 openpgp-copy-cmd-label =
     .label = Αντιγραφή
 
@@ -296,6 +332,7 @@ openpgp-copy-cmd-label =
 
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-no-key = Το { -brand-short-name } δεν έχει προσωπικό κλειδί OpenPGP για <b>{ $identity }</b>
+
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-has-keys =
@@ -303,47 +340,69 @@ openpgp-description-has-keys =
         [one] Το { -brand-short-name } βρήκε { $count } προσωπικό κλειδί OpenPGP για το <b>{ $identity }</b>
        *[other] Το { -brand-short-name } βρήκε { $count } προσωπικά κλειδιά OpenPGP για το <b>{ $identity }</b>
     }
+
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Η τρέχουσα ρύθμισή σας χρησιμοποιεί το ID κλειδιού <b>{ $key }</b>
+
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Η τρέχουσα διαμόρφωσή σας χρησιμοποιεί το κλειδί <b>{ $key }</b>, το οποίο έχει λήξει.
+
 openpgp-add-key-button =
     .label = Προσθήκη κλειδιού…
     .accesskey = Π
+
 e2e-learn-more = Μάθετε περισσότερα
+
 openpgp-keygen-success = Επιτυχής δημιουργία κλειδιού OpenPGP!
+
 openpgp-keygen-import-success = Επιτυχής εισαγωγή κλειδιών OpenPGP!
+
 openpgp-keygen-external-success = Το ID εξωτερικού κλειδιού GnuPG αποθηκεύτηκε!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Κανένα
+
 openpgp-radio-none-desc = Να μην χρησιμοποιηθεί OpenPGP για αυτήν την ταυτότητα.
+
 openpgp-radio-key-not-usable = Αυτό το κλειδί δεν μπορεί να χρησιμοποιηθεί ως προσωπικό, επειδή λείπει το μυστικό κλειδί!
 openpgp-radio-key-not-accepted = Για να χρησιμοποιήσετε αυτό το κλειδί θα πρέπει να το εγκρίνετε ως προσωπικό κλειδί!
 openpgp-radio-key-not-found = Δεν ήταν δυνατή η εύρεση του κλειδιού! Εάν θέλετε να το χρησιμοποιήσετε, πρέπει να το εισαγάγετε στο { -brand-short-name }.
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Λήγει στις: { $date }
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Έληξε στις: { $date }
+
 openpgp-key-expires-within-6-months-icon =
     .title = Το κλειδί λήγει σε λιγότερο από 6 μήνες
+
 openpgp-key-has-expired-icon =
     .title = Το κλειδί έληξε
+
 openpgp-key-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
+
 openpgp-key-revoke-title = Ανάκληση κλειδιού
+
 openpgp-key-edit-title = Αλλαγή κλειδιού OpenPGP
+
 openpgp-key-edit-date-title = Επέκταση ημερομηνίας λήξης
+
 openpgp-manager-description = Χρησιμοποιήστε τη Διαχείριση κλειδιών OpenPGP για να δείτε και να διαχειριστείτε τα δημόσια κλειδιά των συνομιλητών σας και όλα τα άλλα κλειδιά που δεν εμφανίζονται παραπάνω.
+
 openpgp-manager-button =
     .label = Διαχείριση κλειδιών OpenPGP
     .accesskey = κ
+
 openpgp-key-remove-external =
     .label = Αφαίρεση ID εξωτερικού κλειδιού
     .accesskey = φ
+
 key-external-label = Εξωτερικό κλειδί GnuPG
+
 # Strings in keyDetailsDlg.xhtml
 key-type-public = δημόσιο κλειδί
 key-type-primary = κύριο κλειδί
@@ -360,12 +419,15 @@ key-expired-simple = Το κλειδί έχει λήξει
 key-revoked-simple = Το κλειδί ανακλήθηκε
 key-do-you-accept = Αποδέχεστε αυτό το κλειδί για την επαλήθευση ψηφιακών υπογραφών και για την κρυπτογράφηση μηνυμάτων;
 key-verification = Επαληθεύστε το αποτύπωμα του κλειδιού μέσω ενός ασφαλούς καναλιού επικοινωνίας, εκτός του ηλεκτρονικού ταχυδρομείου, ώστε να βεβαιωθείτε ότι πρόκειται πράγματι για το κλειδί του { $addr }.
+
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Δεν είναι δυνατή η αποστολή του μηνύματος, επειδή υπάρχει πρόβλημα με το προσωπικό σας κλειδί. { $problem }
 cannot-encrypt-because-missing = Δεν είναι δυνατή η αποστολή αυτού του μηνύματος με κρυπτογράφηση από άκρο σε άκρο, επειδή υπάρχουν προβλήματα με τα κλειδιά των ακόλουθων παραληπτών: { $problem }
 window-locked = Το παράθυρο σύνθεσης είναι κλειδωμένο· η αποστολή ακυρώθηκε
+
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Αυτό είναι ένα τμήμα κρυπτογραφημένου μηνύματος. Πρέπει να το ανοίξετε σε ξεχωριστό παράθυρο κάνοντας κλικ στο συνημμένο.
+
 # Strings in keyserver.jsm
 keyserver-error-aborted = Ακυρώθηκε
 keyserver-error-unknown = Προέκυψε άγνωστο σφάλμα
@@ -375,6 +437,7 @@ keyserver-error-unavailable = Ο διακομιστής κλειδιών δεν 
 keyserver-error-security-error = Ο διακομιστής κλειδιών δεν υποστηρίζει κρυπτογραφημένη πρόσβαση.
 keyserver-error-certificate-error = Το πιστοποιητικό του διακομιστή κλειδιών δεν είναι έγκυρο.
 keyserver-error-unsupported = Ο διακομιστής κλειδιών δεν υποστηρίζεται.
+
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
     Ο πάροχος ηλεκτρονικού ταχυδρομείου σας επεξεργάστηκε το αίτημά σας για τη μεταφόρτωση του δημόσιου κλειδιού σας στον κατάλογο κλειδιών ιστού OpenPGP.
@@ -382,11 +445,13 @@ wkd-message-body-req =
 wkd-message-body-process =
     Αυτό το email σχετίζεται με την αυτόματη επεξεργασία για τη μεταφόρτωση του δημόσιου κλειδιού σας στον κατάλογο κλειδιών ιστού OpenPGP.
     Δεν χρειάζεται να κάνετε καμία άλλη ενέργεια σε αυτό το σημείο.
+
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Δεν ήταν δυνατή η αποκρυπτογράφηση του μηνύματος με θέμα
     «{ $subject }».
     Θέλετε να δοκιμάσετε με διαφορετική φράση πρόσβασης ή να παραλείψετε το μήνυμα;
+
 # Strings filters.jsm
 filter-folder-required = Πρέπει να επιλέξετε έναν φάκελο προορισμού.
 filter-decrypt-move-warn-experimental =
@@ -398,10 +463,12 @@ filter-key-not-found = Δεν ήταν δυνατή η εύρεση κλειδι
 filter-warn-key-not-secret =
     Προειδοποίηση - η ενέργεια φίλτρου «Κρυπτογράφηση με κλειδί» αντικαθιστά τους παραλήπτες.
     Εάν δεν έχετε το μυστικό κλειδί για το «{ $desc }», δεν θα μπορείτε πλέον να διαβάζετε τα email.
+
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Οριστική αποκρυπτογράφηση (OpenPGP)
 filter-decrypt-copy-label = Δημιουργία αποκρυπτογραφημένου αντιγράφου (OpenPGP)
 filter-encrypt-label = Κρυπτογράφηση με κλειδί (OpenPGP)
+
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Επιτυχία! Έγινε εισαγωγή κλειδιών
@@ -410,6 +477,7 @@ import-info-created = Δημιουργήθηκε
 import-info-fpr = Αποτύπωμα
 import-info-details = Προβολή λεπτομερειών και διαχείριση αποδοχής κλειδιών
 import-info-no-keys = Δεν έγινε εισαγωγή κλειδιών.
+
 # Strings in enigmailKeyManager.js
 import-from-clip = Θέλετε να εισαγάγετε μερικά κλειδιά από το πρόχειρο;
 import-from-url = Λήψη δημόσιου κλειδιού από αυτό το URL:
@@ -453,8 +521,10 @@ dlg-button-delete = &Διαγραφή
 
 openpgp-export-public-success = <b>Επιτυχής εξαγωγή δημόσιου κλειδιού!</b>
 openpgp-export-public-fail = <b>Δεν είναι δυνατή η εξαγωγή του επιλεγμένου δημόσιου κλειδιού!</b>
+
 openpgp-export-secret-success = <b>Επιτυχής εξαγωγή μυστικού κλειδιού!</b>
 openpgp-export-secret-fail = <b>Δεν είναι δυνατή η εξαγωγή του επιλεγμένου μυστικού κλειδιού!</b>
+
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Το κλειδί { $userId } (ID κλειδιού { $keyId }) έχει ανακληθεί.
 key-ring-pub-key-expired = Το κλειδί { $userId } (ID κλειδιού { $keyId }) έχει λήξει.
@@ -465,48 +535,68 @@ key-ring-sign-sub-keys-revoked = Ανακαλούνται όλα τα υποκλ
 key-ring-sign-sub-keys-expired = Όλα τα υποκλειδιά υπογραφής του κλειδιού { $userId } (ID κλειδιού { $keyId }) έχουν λήξει.
 key-ring-enc-sub-keys-revoked = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (ID κλειδιού { $keyId }) έχουν ανακληθεί.
 key-ring-enc-sub-keys-expired = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (ID κλειδιού { $keyId }) έχουν λήξει.
+
 # Strings in gnupg-keylist.jsm
 keyring-photo = Φωτογραφία
 user-att-photo = Χαρακτηριστικό χρήστη (εικόνα JPEG)
+
 # Strings in key.jsm
 already-revoked = Αυτό το κλειδί έχει ήδη ανακληθεί.
+
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Πρόκειται να ανακαλέσετε το κλειδί '{ $identity }'.
     Δε θα μπορείτε πλέον να υπογράφετε με αυτό το κλειδί και μόλις αυτό διανεμηθεί, άλλοι δε θα μπορούν πλέον να κρυπτογραφούν με αυτό το κλειδί. Μπορείτε ωστόσο να χρησιμοποιείτε το κλειδί για την αποκρυπτογράφηση παλιών μηνυμάτων.
     Θέλετε να συνεχίσετε;
+
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     Δεν έχετε κλειδί (0x{ $keyId }) που να αντιστοιχεί σε αυτό το πιστοποιητικό ανάκλησης!
     Εάν έχετε χάσει το κλειδί σας, πρέπει να το εισαγάγετε (π.χ. από έναν διακομιστή κλειδιών) πριν από την εισαγωγή του πιστοποιητικού ανάκλησης!
+
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Το κλειδί 0x{ $keyId } έχει ήδη ανακληθεί.
+
 key-man-button-revoke-key = &Ανάκληση κλειδιού
+
 openpgp-key-revoke-success = Επιτυχής ανάκληση κλειδιού.
+
 after-revoke-info =
     Το κλειδί έχει ανακληθεί.
     Μοιραστείτε ξανά αυτό το δημόσιο κλειδί, στέλνοντάς το μέσω email ή μεταφορτώνοντάς το σε διακομιστές κλειδιών, ώστε να ενημερώσετε τους συνομιλητές σας ότι ανακαλέσατε το κλειδί σας.
     Μόλις το λογισμικό που χρησιμοποιούν ενημερωθεί για την ανάκληση, θα σταματήσει να χρησιμοποιεί το παλιό σας κλειδί.
     Εάν χρησιμοποιείτε ένα νέο κλειδί για την ίδια διεύθυνση email και επισυνάψετε το νέο δημόσιο κλειδί στα email που στέλνετε, τότε η πληροφορία σχετικά με το παλιό κλειδί που ανακαλέσατε θα συμπεριληφθεί αυτόματα.
+
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Εισαγωγή
+
 delete-key-title = Διαγραφή κλειδιού OpenPGP
+
 delete-external-key-title = Αφαίρεση εξωτερικού κλειδιού GnuPG
+
 delete-external-key-description = Θέλετε να αφαιρέσετε αυτό το ID εξωτερικού κλειδιού GnuPG;
+
 key-in-use-title = Το κλειδί OpenPGP χρησιμοποιείται
+
 delete-key-in-use-description = Δεν είναι δυνατή η συνέχεια! Το κλειδί που επιλέξατε για διαγραφή χρησιμοποιείται αυτήν τη στιγμή από αυτήν την ταυτότητα. Επιλέξτε ένα άλλο κλειδί ή μην επιλέξετε κανένα και δοκιμάστε ξανά.
+
 revoke-key-in-use-description = Δεν είναι δυνατή η συνέχεια! Το κλειδί που επιλέξατε για ανάκληση χρησιμοποιείται αυτήν τη στιγμή από αυτήν την ταυτότητα. Επιλέξτε ένα άλλο κλειδί ή μην επιλέξετε κανένα και δοκιμάστε ξανά.
+
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Η διεύθυνση email «{ $keySpec }» δεν μπορεί να αντιστοιχιστεί με κάποιο κλειδί στο αποθετήριο κλειδιών σας.
 key-error-key-id-not-found = Δεν είναι δυνατή η εύρεση του καθορισμένου ID κλειδιού «{ $keySpec }» στο αποθετήριο κλειδιών σας.
 key-error-not-accepted-as-personal = Δεν έχετε επιβεβαιώσει ότι το κλειδί με ID «{ $keySpec }» είναι το προσωπικό σας κλειδί.
+
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Η λειτουργία που έχετε επιλέξει δεν είναι διαθέσιμη σε λειτουργία εκτός σύνδεσης. Συνδεθείτε στο διαδίκτυο και δοκιμάστε ξανά.
+
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Δεν ήταν δυνατή η εύρεση χρησιμοποιήσιμων κλειδιών που να ταιριάζουν με τα κριτήρια αναζήτησης.
 no-update-found = Έχετε ήδη τα κλειδιά που ανακαλύφθηκαν στο διαδίκτυο.
+
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Σφάλμα - Η εντολή εξαγωγής κλειδιού απέτυχε
+
 # Strings used in keyRing.jsm
 fail-cancel = Σφάλμα - Η λήψη του κλειδιού ακυρώθηκε από τον χρήστη
 not-first-block = Σφάλμα - Το πρώτο τμήμα OpenPGP δεν αποτελεί τμήμα δημόσιου κλειδιού
@@ -515,6 +605,7 @@ fail-key-import = Σφάλμα - η εισαγωγή κλειδιού απέτυ
 file-write-failed = Αποτυχία εγγραφής στο αρχείο { $output }
 no-pgp-block = Σφάλμα - Δεν βρέθηκε έγκυρο μπλοκ δεδομένων θωράκισης OpenPGP
 confirm-permissive-import = Η εισαγωγή απέτυχε. Το κλειδί που προσπαθείτε να εισαγάγετε ενδέχεται να είναι κατεστραμμένο ή να χρησιμοποιεί άγνωστες ιδιότητες. Θέλετε να προσπαθήσετε να εισαγάγετε τα τμήματα που είναι σωστά; Αυτό μπορεί να έχει ως αποτέλεσμα την εισαγωγή ημιτελών και μη χρησιμοποιήσιμων κλειδιών.
+
 # Strings used in trust.jsm
 key-valid-unknown = άγνωστο
 key-valid-invalid = μη έγκυρο
@@ -526,6 +617,7 @@ key-trust-marginal = οριακό
 key-trust-full = έμπιστο
 key-trust-ultimate = απόλυτο
 key-trust-group = (ομάδα)
+
 # Strings used in commonWorkflows.js
 import-key-file = Εισαγωγή αρχείου κλειδιού OpenPGP
 import-rev-file = Εισαγωγή αρχείου ανάκλησης OpenPGP
@@ -533,6 +625,7 @@ gnupg-file = Αρχεία GnuPG
 import-keys-failed = Αποτυχία εισαγωγής κλειδιών
 passphrase-prompt = Εισαγάγετε τη μυστική φράση που ξεκλειδώνει το ακόλουθο κλειδί: { $key }
 file-to-big-to-import = Το αρχείο είναι πολύ μεγάλο. Παρακαλώ μην εισαγάγετε ταυτόχρονα ένα μεγάλο σύνολο κλειδιών.
+
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Δημιουργία και αποθήκευση πιστοποιητικού ανάκλησης
 revoke-cert-ok = Το πιστοποιητικό ανάκλησης δημιουργήθηκε με επιτυχία. Μπορείτε να το χρησιμοποιήσετε για να ακυρώσετε το δημόσιο κλειδί σας, π.χ. σε περίπτωση που χάσετε το μυστικό κλειδί σας.
@@ -551,6 +644,7 @@ key-man-button-generate-key-continue = &Συνέχεια δημιουργίας 
 
 failed-decrypt = Σφάλμα - αποτυχία αποκρυπτογράφησης
 fix-broken-exchange-msg-failed = Αποτυχία επιδιόρθωσης μηνύματος.
+
 attachment-no-match-from-signature = Δεν ήταν δυνατή η αντιστοίχιση του αρχείου υπογραφής «{ $attachment }» με κάποιο συνημμένο
 attachment-no-match-to-signature = Δεν ήταν δυνατή η αντιστοίχιση του συνημμένου «{ $attachment }» σε αρχείο υπογραφής
 signature-verified-ok = Επιτυχής επαλήθευση της υπογραφής για το συνημμένο «{ $attachment }»
@@ -560,6 +654,7 @@ decrypt-ok-no-sig =
     Η αποκρυπτογράφηση ήταν επιτυχής, αλλά δεν ήταν δυνατή η ορθή επαλήθευση της υπογραφής
 msg-ovl-button-cont-anyway = &Συνέχεια ούτως ή άλλως
 enig-content-note = *Δεν έχει γίνει υπογραφή ούτε κρυπτογράφηση των συνημμένων αυτού του μηνύματος*
+
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Αποστολή μηνύματος
 msg-compose-details-button-label = Λεπτομέρειες…
@@ -593,6 +688,7 @@ save-attachment-header = Αποθήκευση αποκρυπτογραφημέν
 possibly-pgp-mime = Μήνυμα με πιθανή κρυπτογράφηση PGP/MIME ή υπογραφή· χρησιμοποιήστε τη λειτουργία «Αποκρυπτογράφηση/Επαλήθευση» για επιβεβαίωση
 cannot-send-sig-because-no-own-key = Δεν είναι δυνατή η ψηφιακή υπογραφή αυτού του μηνύματος, επειδή δεν έχετε ρυθμίσει ακόμα τη διατερματική κρυπτογράφηση για το <{ $key }>
 cannot-send-enc-because-no-own-key = Δεν είναι δυνατή η αποστολή αυτού του μηνύματος ως κρυπτογραφημένου, επειδή δεν έχετε ρυθμίσει ακόμα τη διατερματική κρυπτογράφηση για το <{ $key }>
+
 # Strings used in decryption.jsm
 do-import-multiple =
     Εισαγωγή των ακόλουθων κλειδιών;
@@ -607,14 +703,18 @@ attachment-pgp-key =
     Το συνημμένο «{ $name }» που ανοίγετε φαίνεται να είναι ένα αρχείο κλειδιού OpenPGP.
     Κάντε κλικ στο «Εισαγωγή» για να εισαγάγετε τα περιεχόμενα κλειδιά ή στο «Προβολή» για να δείτε τα περιεχόμενα του αρχείου σε ένα παράθυρο του προγράμματος περιήγησης
 dlg-button-view = &Προβολή
+
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Αποκρυπτογραφημένο μήνυμα (αποκαταστάθηκε η κατεστραμμένη μορφή μηνύματος PGP που πιθανότατα προκλήθηκε από έναν παλιό διακομιστή Exchange, άρα το αποτέλεσμα μπορεί να μην είναι άριστο)
+
 # Strings used in encryption.jsm
 not-required = Σφάλμα - δεν απαιτείται κρυπτογράφηση
+
 # Strings used in windows.jsm
 no-photo-available = Καμία διαθέσιμη φωτογραφία
 error-photo-path-not-readable = Η διαδρομή της φωτογραφίας «{ $photo }» δεν είναι αναγνώσιμη
 debug-log-title = Αρχείο ελέγχου σφαλμάτων OpenPGP
+
 # Strings used in dialog.jsm
 repeat-prefix = Αυτή η ειδοποίηση θα επαναληφθεί { $count }
 repeat-suffix-singular = ακόμη φορά.
@@ -629,9 +729,11 @@ enig-prompt = Προτροπή OpenPGP
 enig-confirm = Επιβεβαίωση OpenPGP
 enig-alert = Ειδοποίηση OpenPGP
 enig-info = Πληροφορίες OpenPGP
+
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Επανάληψη
 dlg-button-skip = &Παράλειψη
+
 # Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Ειδοποίηση OpenPGP

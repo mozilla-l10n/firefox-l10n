@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Αποθηκευμένες διευθύνσεις
 autofill-manage-addresses-list-header = Διευθύνσεις
+
 autofill-manage-credit-cards-title = Αποθηκευμένες πιστωτικές κάρτες
 autofill-manage-credit-cards-list-header = Πιστωτικές κάρτες
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Αφαίρεση
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Επεξεργασία…
 autofill-add-new-address-title = Προσθήκη νέας διεύθυνσης
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Επεξεργασία διεύθυνσης
+
 autofill-address-given-name = Όνομα
 autofill-address-additional-name = Μεσαίο όνομα
 autofill-address-family-name = Επώνυμο
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Χώρα ή περιοχή
 autofill-address-tel = Τηλέφωνο
 autofill-address-email = Email
+
 autofill-cancel-button = Ακύρωση
 autofill-save-button = Αποθήκευση
 autofill-country-warning-message = Η αυτοσυμπλήρωση φορμών είναι διαθέσιμη μόνο σε ορισμένες χώρες προς το παρόν.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Προσθήκη νέας πιστωτικής κάρτας
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Επεξεργασία πιστωτικής κάρτας
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] Το { -brand-short-name } προσπαθεί να εμφανίσει πληροφορίες πιστωτικών καρτών. Επιβεβαιώστε παρακάτω την πρόσβαση σε αυτό το λογαριασμό Windows.
        *[other] Το { -brand-short-name } προσπαθεί να εμφανίσει πληροφορίες πιστωτικών καρτών.
     }
+
 autofill-card-number = Αριθμός κάρτας
 autofill-card-invalid-number = Εισάγετε έναν έγκυρο αριθμό κάρτας
 autofill-card-name-on-card = Όνομα στην κάρτα

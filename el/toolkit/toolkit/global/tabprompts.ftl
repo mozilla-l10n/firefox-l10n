@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Όνομα χρήστη:
 tabmodalprompt-password =
     .value = Κωδικός πρόσβασης:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Ξεκινήστε από την αρχή �
 refresh-profile = Διόρθωση του { -brand-short-name }
 refresh-profile-button = Ανανέωση του { -brand-short-name }…
 refresh-profile-learn-more = Μάθετε περισσότερα
+
 refresh-profile-progress =
     .title = Ανανέωση του { -brand-short-name }
 refresh-profile-progress-description = Σχεδόν τελειώσαμε…

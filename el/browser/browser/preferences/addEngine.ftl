@@ -5,15 +5,22 @@
 add-engine-window =
     .title = Προσθήκη μηχανής αναζήτησης
     .style = width: 32em;
+
 add-engine-window2 =
     .title = Προσθήκη μηχανής αναζήτησης
     .style = min-width: 32em;
+
 add-engine-button = Προσθήκη προσαρμοσμένης μηχανής
+
 add-engine-name = Όνομα μηχανής αναζήτησης
+
 add-engine-alias = Ψευδώνυμο
+
 add-engine-url = URL μηχανής, χρησιμοποιήστε το %s αντί του όρου αναζήτησης
+
 add-engine-dialog =
     .buttonlabelaccept = Προσθήκη μηχανής
     .buttonaccesskeyaccept = A
+
 engine-name-exists = Υπάρχει ήδη μια μηχανή με το ίδιο όνομα
 engine-alias-exists = Υπάρχει ήδη μια μηχανή με αυτό το ψευδώνυμο
