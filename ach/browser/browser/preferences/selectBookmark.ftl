@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = Ter Pot buk me Gang
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Ter Pot buk me Gang
     .style = min-width: 32em;
+
 select-bookmark-desc = Yer Alama me buk me bedo Pot buk me gangi. Ka iyero boc, kibiyabo Alama me buk ma iye boc meno i dirica matino.

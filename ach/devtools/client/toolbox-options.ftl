@@ -114,8 +114,3 @@ options-context-triggers-page-refresh = * Kare ma kombedi ni keken, nwoyo cano p
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Nyut tuti me tic pa Gecko
-options-show-platform-data-tooltip =
-    .title = Ka ce i ye gin ayera man ripot pa La co profile me JavaScript obi bedo ki lanen me tuti me Gecko

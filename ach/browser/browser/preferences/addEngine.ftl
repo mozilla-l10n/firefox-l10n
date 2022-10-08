@@ -5,13 +5,18 @@
 add-engine-window =
     .title = Med Ingin me Yeny
     .style = width: 32em;
+
 add-engine-window2 =
     .title = Med Ingin me Yeny
     .style = min-width: 32em;
+
 add-engine-name = Nying ingin me yeny
+
 add-engine-alias = Nying pen
+
 add-engine-dialog =
     .buttonlabelaccept = Med Ingin
     .buttonaccesskeyaccept = M
+
 engine-name-exists = Ingin matye ki nying eno ni dong tye
 engine-alias-exists = Ingin matye ki nying pen eno ni dong tye

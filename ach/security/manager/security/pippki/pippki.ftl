@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Gamo Waraga
     .style = width: 46em
+
 download-cert-window2 =
     .title = Gamo Waraga
     .style = min-width: 46em

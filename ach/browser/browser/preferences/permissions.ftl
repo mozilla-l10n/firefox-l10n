@@ -5,50 +5,66 @@
 permissions-window =
     .title = Ma kiweko woko
     .style = width: 45em
+
 permissions-window2 =
     .title = Ma kiweko woko
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Kanonge me kakube
     .accesskey = d
+
 permissions-block =
     .label = Geng
     .accesskey = G
+
 permissions-session =
     .label = Ye pi Kare
     .accesskey = K
+
 permissions-allow =
     .label = Ye
     .accesskey = Y
+
 permissions-site-name =
     .label = Kakube
+
 permissions-status =
     .label = Kit ma tye kwede
+
 permissions-remove =
     .label = Kwany kakube
     .accesskey = K
+
 permissions-remove-all =
     .label = Kwany kakube weng
     .accesskey = w
+
 permission-dialog =
     .buttonlabelaccept = Gwok alokaloka
     .buttonaccesskeyaccept = G
+
 permissions-autoplay-menu = Makwongo pi kakube weng:
+
 permissions-searchbox =
     .placeholder = Yeny kakube
+
 permissions-capabilities-autoplay-allow =
     .label = Yer Dwon ki Video
 permissions-capabilities-autoplay-block =
     .label = Geng Dwon
 permissions-capabilities-autoplay-blockall =
     .label = Geng Dwon ki Video
+
 permissions-capabilities-allow =
     .label = Ye
 permissions-capabilities-block =
     .label = Geng
 permissions-capabilities-prompt =
     .label = Peny jwijwi
+
 permissions-capabilities-listitem-allow =
     .value = Ye
 permissions-capabilities-listitem-block =
@@ -81,6 +97,7 @@ permissions-exceptions-popup-desc = I twero cimo kakube mene ma kiye me yabo dir
 permissions-exceptions-saved-logins-window =
     .title = Ma pe gude - Donyo iyie ma kigwoko
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Ma pe gude - Donyo iyie ma kigwoko
     .style = { permissions-window2.style }
@@ -91,6 +108,7 @@ permissions-exceptions-saved-logins-desc = Donyo iyie pi kakube magi pe ki bigwo
 permissions-exceptions-addons-window =
     .title = Kakube ma kiyee - Keto med-ikome
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Kakube ma kiyee - Keto med-ikome
     .style = { permissions-window2.style }
@@ -104,6 +122,7 @@ permissions-exceptions-addons-desc = I twero cimo kakube mene ma kiye me keto me
 permissions-site-notification-window =
     .title = Ter - Twero pi jami angeya
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Ter - Twero pi jami angeya
     .style = { permissions-window2.style }
@@ -117,6 +136,7 @@ permissions-site-notification-disable-desc = Man bi gengo kakube mo keken ma pe 
 permissions-site-location-window =
     .title = Ter - Twero pi kabedo
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Ter - Twero pi kabedo
     .style = { permissions-window2.style }
@@ -133,6 +153,7 @@ permissions-site-location-disable-desc = Man bi gengo kakube mo keken ma pe ki c
 permissions-site-camera-window =
     .title = Ter - Twero pi lamak cal
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Ter - Twero pi lamak cal
     .style = { permissions-window2.style }
@@ -146,6 +167,7 @@ permissions-site-camera-disable-desc = Man bi gengo kakube mo keken ma pe ki coy
 permissions-site-microphone-window =
     .title = Ter - Twero pi mikropon
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Ter - Twero pi mikropon
     .style = { permissions-window2.style }
