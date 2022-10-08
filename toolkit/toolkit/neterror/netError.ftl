@@ -6,13 +6,19 @@
 ## Error page titles
 
 neterror-page-title = Problemas al cargar la página
+certerror-sts-page-title = No se conectó: Potencial problema de seguridad
+neterror-blocked-by-policy-page-title = Página bloqueada
 
 ## Error page actions
 
+neterror-copy-to-clipboard-button = Copiar texto al portapapeles
+neterror-override-exception-button = Aceptar el riesgo y continuar
+neterror-pref-reset-button = Restaurar ajustes predeterminados
 neterror-return-to-previous-page-button = Regresar
 
 ##
 
+neterror-pref-reset = Parece que la configuración de seguridad de la red podría estar provocando esto. ¿Quieres la configuración predeterminada para restaurar?
 neterror-error-reporting-automatic = Informa errores de este tipo para ayudar a { -vendor-short-name } a identificar y bloquear sitios maliciosos.
 
 ## Specific error messages
@@ -21,8 +27,16 @@ neterror-generic-error = { -brand-short-name } no puede cargar esta página por 
 neterror-load-error-try-again = El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta nuevamente en un momento.
 neterror-load-error-connection = Si no puedes cargar ninguna página, verifica la conexión de red de tu computadora.
 neterror-load-error-firewall = Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate que { -brand-short-name } pueda acceder a internet.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = ¿Querías ir a <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Si ingresaste la dirección correcta, puedes:</strong>
+neterror-dns-not-found-hint-try-again = Intentar de nuevo más tarde
+neterror-dns-not-found-hint-check-network = Comprueba tu conexión de red
+neterror-dns-not-found-hint-firewall = Verifica que { -brand-short-name } tenga permiso para acceder a la web (es posible que estés conectado pero detrás de un firewall)
 neterror-file-not-found-filename = Comprueba que el nombre del archivo no contenga errores.
 neterror-file-not-found-moved = Verifica si el archivo se borró, movió o renombró.
+neterror-access-denied = Puede haber sido eliminado, movido o los permisos del archivo pueden evitar el acceso.
 neterror-unknown-protocol = Necesitas instalar otro programa para abrir esta dirección.
 neterror-redirect-loop = Este problema puede estar pasando por haber deshabilitado las cookies.
 neterror-unknown-socket-type-psm-installed = Verifica que tu sistema tiene instalado el administrador de seguridad personal.
@@ -40,5 +54,46 @@ neterror-content-encoding-error = Contacta a los propietarios del sitio web para
 neterror-unsafe-content-type = Contacta a los propietarios del sitio web para informarles sobre este problema.
 neterror-nss-failure-not-verified = La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.
 neterror-nss-failure-contact-website = Por favor contacta a los propietarios del sitio web para informarles de este problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } ha detectado una potencial amenaza y no ha continuado a <b>{ $hostname }</b>. Si visitas este sitio, los atacantes podrían intentar robar tu información como tus contraseñas, correo o datos de tu tarjeta de crédito.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } ha detectado una potencial amenaza de seguridad y no ha continuado a <b>{ $hostname }</b> porque este sitio web requiere una conexión segura.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } ha detectado un problema y no continuó a <b>{ $hostname }</b>. El sitio web está mal configurado o el reloj de tu computadora tiene una hora incorrecta.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> es probablemente un sitio seguro, pero no se puede realizar una conexión segura. Este problema es causado por <b>{ $mitm }</b>, el cual es un programa en su computadora o en tu red.
+neterror-corrupted-content-intro = La página que estás tratando de ver no puede mostrarse porque se detectó un error en la transmisión de los datos.
+neterror-corrupted-content-contact-website = Por favor, contacta a los dueños del sitio web para informarles de este problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría fácilmente revelar información que se piensa segura. El administrador del sitio web necesitará corregir el servidor antes de poder visitar el sitio.
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = Código de error: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Tu computadora cree que son las { DATETIME($now, dateStyle: "medium") }, lo que previene a { -brand-short-name } de conectarse de forma segura. Para visitar <b>{ $hostname }</b>, actualiza la hora de tu computadora en los ajustes de tu sistema a la hora, fecha y zona horaria actuales, y luego recarga <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = La página que estás intentando ver no se puede mostrar porque fue detectado un error del protocolo de red.
+neterror-network-protocol-error-contact-website = Por favor, contacta con los propietarios del sitio web para informarles de este problema.
+certerror-expired-cert-second-para = Es probable que el certificado del sitio esté expirado, lo que previene a { -brand-short-name } de conectarse de forma segura. Si visitas este sitio, los atacantes pueden intentar robar tu información como contraseñas, correos electrónicos o detalles de tu tarjeta de crédito.
+certerror-expired-cert-sts-second-para = Probablemente el certificado del sitio ha expirado, impidiendo que { -brand-short-name } se conecte con seguridad.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = El reloj de tu computadora está ajustado a las { DATETIME($now, dateStyle: "medium") }. Asegúrate de que tu computadora está ajustada a la fecha, hora y zona horaria correctas en los ajustes de tu sistema, y luego recarga <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Si tu reloj ya está ajustado a la hora correcta, el sitio web probablemente está mal configurado, y no hay nada que puedas hacer para resolverlo. Podrías intentar notificar al administrador del sitio sobre el problema.
+certerror-mitm-what-can-you-do-about-it-antivirus = Si tu antivirus tiene una característica que escanea conexiones encriptadas (normalmente llamado “web scanning” o “https scanning”), puedes desactivar esta característica. Si no funciona, puedes eliminar y reinstalar el antivirus.
+certerror-mitm-what-can-you-do-about-it-corporate = Si estás en una red corporativa, puedes comunicarte con el departamento de informática.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Si no estás familiarizado con <b>{ $mitm }</b>, entonces esto puede ser un ataque y no sería bueno continuar al sitio.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Si no estás familiarizado con <b>{ $mitm }</b>, entonces esto puede ser un ataque y no hay nada que puedas hacer para acceder al sitio.
