@@ -5,6 +5,14 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong> Այս էջի որոշ հատուած խափանուեց։ </strong> Խնդրի մասին { -brand-product-name }֊ին տեղեկացնելու եւ արագ լուծելու համար ուղարկէք զեկուցում։
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Էջի որոշ յատուած խափանուած է։ Դիմել { -brand-product-name }֊ին խնդրի աւելի արագ բացայայտման եւ լուծման համար:
+crashed-subframe-submit =
+    .label = Ուղարկէք զեկուցում
+    .accesskey = Ո
 
 ## Pending crash reports
 
