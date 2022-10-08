@@ -15,6 +15,7 @@ neterror-malformed-uri-page-title = URL không hợp lệ
 
 ## Error page actions
 
+neterror-advanced-button = Nâng cao…
 neterror-copy-to-clipboard-button = Sao chép văn bản vào bộ nhớ tạm
 neterror-learn-more-link = Tìm hiểu thêm…
 neterror-open-portal-login-page-button = Mở trang đăng nhập mạng
