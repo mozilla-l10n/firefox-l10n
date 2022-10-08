@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Del te strani se je sesul.</strong> Pošljite { -brand-product-name }u poročilo, da ga obvestite  o težavi in mu jo pomagate hitreje odpraviti.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Del te strani se je sesul. Pošljite { -brand-product-name(sklon: "dajalnik") } poročilo, da ga obvestite o težavi in mu jo pomagate hitreje odpraviti.
+crashed-subframe-learnmore-link =
+    .value = Več o tem
+crashed-subframe-submit =
+    .label = Pošlji poročilo
+    .accesskey = P
 
 ## Pending crash reports
 
