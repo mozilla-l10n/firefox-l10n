@@ -8,6 +8,14 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [zero] Tev ir { $reportCount } nanusyuteiti avārejis ziņojumi
+        [one] Tev ir { $reportCount } nanusyuteits avārejis ziņojums
+       *[other] Tev ir { $reportCount } nanusyuteiti avārejis ziņojumi
+    }
 pending-crash-reports-view-all =
     .label = View
 pending-crash-reports-send =
