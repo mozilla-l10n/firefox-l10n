@@ -5,62 +5,81 @@
 permissions-window =
     .title = Etzetziones
     .style = width: 45em
+
 permissions-window2 =
     .title = Etzetziones
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Indiritzu de su situ web
     .accesskey = n
+
 permissions-block =
     .label = Bloca
     .accesskey = B
+
 permissions-session =
     .label = Permite in sa sessione
     .accesskey = s
+
 permissions-allow =
     .label = Permite
     .accesskey = P
+
 permissions-button-off =
     .label = Istuda
     .accesskey = I
+
 permissions-button-off-temporarily =
     .label = Istuda pro immoe
     .accesskey = m
+
 permissions-site-name =
     .label = Situ web
+
 permissions-status =
     .label = Istadu
+
 permissions-remove =
     .label = Boga su situ web
     .accesskey = B
+
 permissions-remove-all =
     .label = Boga totu is sitos web
     .accesskey = t
+
 permission-dialog =
     .buttonlabelaccept = Sarva is modìficas
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Predefinidu pro totu is sitos web:
+
 permissions-searchbox =
     .placeholder = Chirca unu situ web
+
 permissions-capabilities-autoplay-allow =
     .label = Permite àudio e vìdeu
 permissions-capabilities-autoplay-block =
     .label = Bloca s'àudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloca àudio e vìdeu
+
 permissions-capabilities-allow =
     .label = Permite
 permissions-capabilities-block =
     .label = Bloca
 permissions-capabilities-prompt =
     .label = Pregunta·mi·ddu semper
+
 permissions-capabilities-listitem-allow =
     .value = Permite
 permissions-capabilities-listitem-block =
     .value = Bloca
 permissions-capabilities-listitem-allow-session =
     .value = Permite in sa sessione
+
 permissions-capabilities-listitem-off =
     .value = Disativadu
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Inserta unu nòmine de ordinadore tzentrale vàl
 permissions-exceptions-etp-window =
     .title = Etzetziones pro s'amparu megioradu contra sa sighidura
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Etzetziones pro s'amparu megioradu contra sa sighidura
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = As disativadu is protetziones in custos sitos 
 permissions-exceptions-cookie-window =
     .title = Etzetziones - Testimòngios (cookies) e datos de is sitos
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Etzetziones - Testimòngios (cookies) e datos de is sitos
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Podes pretzisare a cales sitos web est semp
 permissions-exceptions-https-only-window =
     .title = Etzetziones - Modalidade isceti HTTPS
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Etzetziones - Modalidade isceti HTTPS
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Podes disativare sa modalidade isceti H
 permissions-exceptions-popup-window =
     .title = Sitos permìtidos - Ventanas emergentes
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Sitos permìtidos - Ventanas emergentes
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Podes pretzisare a cales cales sitos web sia
 permissions-exceptions-saved-logins-window =
     .title = Etzetziones - Credentziales sarvadas
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Etzetziones - Credentziales sarvadas
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Is credentziales pro is sitos web imb
 permissions-exceptions-addons-window =
     .title = Sitos web permìtidos - Installatzione de is cumplementos
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Sitos web permìtidos - Installatzione de is cumplementos
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Podes pretzisare is sitos in ue est permìt
 permissions-site-autoplay-window =
     .title = Cunfiguratzione - Riprodutzione in automàticu
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Cunfiguratzione - Riprodutzione in automàticu
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Inoghe podes gestire is sitos chi non sighent s
 permissions-site-notification-window =
     .title = Cunfiguratzione - Permissos de notìficas
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Cunfiguratzione - Permissos de notìficas
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Custu at a evitare chi is sitos web
 permissions-site-location-window =
     .title = Cunfiguratzione - Permissos de positzione
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Cunfiguratzione - Permissos de positzione
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Custu at a evitare chi is sitos web chi
 permissions-site-xr-window =
     .title = Cunfiguratzione - Permissos de realidade virtuale
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Cunfiguratzione - Permissos de realidade virtuale
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Custu at a evitare chi is sitos web chi non s
 permissions-site-camera-window =
     .title = Cunfiguratzione - Permissos de sa fotocàmera
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Cunfiguratzione - Permissos de sa fotocàmera
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Custu at a evitare chi is sitos web chi n
 permissions-site-microphone-window =
     .title = Cunfiguratzione - Permissos de su micròfonu
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Cunfiguratzione - Permissos de su micròfonu
     .style = { permissions-window2.style }

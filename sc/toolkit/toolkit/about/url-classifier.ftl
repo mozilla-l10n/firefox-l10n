@@ -6,6 +6,7 @@ url-classifier-provider-update-btn = Atualiza
 url-classifier-cache-title = Cache
 url-classifier-cache-clear-btn = Isbòida
 url-classifier-cache-show-entries = Ammustra is detàllios
+
 url-classifier-enabled = Ativadu
 url-classifier-disabled = Disativadu
 url-classifier-download-error = faddina in s'iscarrigamentu ({ $error })

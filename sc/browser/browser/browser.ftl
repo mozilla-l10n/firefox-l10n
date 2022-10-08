@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigatzione privada)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigatzione privada)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigatzione privada)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigatzione privada)
+
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -52,6 +54,7 @@ browser-main-window-window-titles =
     .data-title-private = Navigatzione privada de { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — Navigatzione privada de { -brand-full-name }
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -71,12 +74,15 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Navigatzione privada
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Navigatzione privada
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 private-browsing-shortcut-text = Navigatzione privada de { -brand-short-name }
+
 private-browsing-shortcut-text-2 = Navigatzione privada de { -brand-shortcut-name }
 
 ##
@@ -148,6 +154,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Iscrie prus pagu, agata de prus: chirca deretu { $engineName } in sa barra de is indiritzos.
 urlbar-search-tips-redirect-2 = Cumintza sa chirca tua in sa barra de indirizos pro bìdere cussìgios dae { $engineName } e sa cronologia de su navigadore.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seletziona custu curtzadòrgiu pro agatare prus a lestru su chi ti serbit.
@@ -157,6 +164,7 @@ urlbar-tabtosearch-onboard = Seletziona custu curtzadòrgiu pro agatare prus a l
 urlbar-search-mode-bookmarks = Sinnalibros
 urlbar-search-mode-tabs = Ischedas
 urlbar-search-mode-history = Cronologia
+
 urlbar-search-mode-actions = Atziones
 
 ##
@@ -185,10 +193,12 @@ urlbar-midi-blocked =
     .tooltiptext = As blocadu s'atzessu MIDI pro custu situ.
 urlbar-install-blocked =
     .tooltiptext = As blocadu s'installatzione de cumplementos pro custu situ.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modìfica custu sinnalibru ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -200,6 +210,7 @@ page-action-manage-extension =
     .label = Gesti s'estensione...
 page-action-remove-extension =
     .label = Boga s'estensione
+
 page-action-manage-extension2 =
     .label = Gesti s'estensione...
     .accesskey = e
@@ -221,8 +232,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Custa borta, chirca cun:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Modìfica sa cunfiguratzione de chirca
+
 search-one-offs-context-open-new-tab =
     .label = Chirca in un'ischeda noa
     .accesskey = C
@@ -232,12 +245,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Cunfigura comente motore de chirca predefinidu pro ventanas privadas
     .accesskey = C
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -264,6 +279,7 @@ search-one-offs-tabs =
     .tooltiptext = Ischedas ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Cronologia ({ $restrict })
+
 search-one-offs-actions =
     .tooltiptext = Atziones ({ $restrict })
 
@@ -274,52 +290,69 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ammustra is cumplementos
 quickactions-cmd-addons = cumplementos, estensiones, temas
+
 quickactions-cmd-addons2 = cumplementos
+
 # Opens the bookmarks library window
 quickactions-bookmarks = Ammustra is sinnalibros
 quickactions-cmd-bookmarks = sinnalibros
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Isbòida sa cronologia
 quickactions-cmd-clearhistory = isbòida sa cronologia
+
 # Opens about:downloads page
 quickactions-downloads = Aberi is iscarrigamentos
 quickactions-cmd-downloads = iscarrigamentos
+
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gesti is estensiones
 quickactions-cmd-extensions = estensiones
+
 # Opens about:logins
 quickactions-logins = Ammustra is credentziales
 quickactions-cmd-logins = credentziales, craes
+
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gesti is cumplementos
 quickactions-cmd-plugins = cumplementos
+
 # Opens the print dialog
 quickactions-print = Imprenta
 quickactions-cmd-print = imprenta
+
 # Opens a new private browsing window
 quickactions-private = Aberi una ventana de navigatzione privada
 quickactions-cmd-private = navigatzione privada
+
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Torra { -brand-short-name } a sa cunfiguratzione predefinida
 quickactions-cmd-refresh = atualiza
+
 # Restarts the browser
 quickactions-restart = Torra a aviare { -brand-short-name }
 quickactions-cmd-restart = torra a aviare
+
 # Opens the screenshot tool
 quickactions-screenshot2 = Faghe una catura de s'ischermu
 quickactions-cmd-screenshot = Catura de s'ischermu
+
 # Opens about:preferences
 quickactions-settings = Aberi is cunfiguratziones
 quickactions-cmd-settings = cunfiguratziones, preferèntzias, optziones
+
 # Opens about:addons page in the themes section
 quickactions-themes = Gesti is temas
 quickactions-cmd-themes = temas
+
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualiza { -brand-short-name }
 quickactions-cmd-update = atualiza
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ammustra su còdighe
 quickactions-cmd-viewsource = ammustra su còdighe, còdighe
+
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Àteras informatziones subra de is atziones ràpidas
@@ -345,6 +378,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = A
 bookmark-panel-save-button =
     .label = Sarva
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -372,6 +406,7 @@ identity-passive-loaded = Partes de custa pàgina non sunt seguras (pro esèmpiu
 identity-active-loaded = As disativadu s'amparu pro custa pàgina.
 identity-weak-encryption = Custa pàgina impreat tzifradura dèbile.
 identity-insecure-login-forms = Is credentziales postas in custa pàgina diant pòdere èssere in perìgulu.
+
 identity-https-only-connection-upgraded = (atualizadu a HTTPS)
 identity-https-only-label = Modalidade «isceti HTTPS»
 identity-https-only-dropdown-on =
@@ -383,9 +418,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ativa sa modalidade «isceti HTTPS» pro custu situ si boles chi { -brand-short-name } agiornet sa connessione cando possìbile.
 identity-https-only-info-turn-off2 = Si sa pàgina non funtzionat, podes proare a disativare sa modalidade «isceti HTTPS» pro custu situ e torrare a carrigare cun HTTP non seguru.
 identity-https-only-info-no-upgrade = No at fatu a agiornare sa connessione dae HTTP.
+
 identity-permissions-storage-access-header = Testimòngios intre-sitos
 identity-permissions-storage-access-hint = Custos sugetos podent impreare testimòngios intre sitos e datos de is sitos cando ses in custu situ.
 identity-permissions-storage-access-learn-more = Àteras informatziones
+
 identity-permissions-reload-hint = Forsis depes torrare a carrigare sa pàgina pro aplicare is modìficas.
 identity-clear-site-data =
     .label = Isbòida is testimòngios e is datos de is sitos…
@@ -448,11 +485,13 @@ browser-tab-mute =
         [1] ISCHEDA A SA MUDA
        *[other] { $count } ISCHEDAS A SA MUDA
     }
+
 browser-tab-unmute =
     { $count ->
         [1] ATIVA ÀUDIU ISCHEDA
        *[other] ATIVA ÀUDIU DE { $count } ISCHEDAS
     }
+
 browser-tab-unblock =
     { $count ->
         [1] REPRODUE ISCHEDA
@@ -464,6 +503,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importa sinnalibros...
     .tooltiptext = Importa sinnalibros dae un'àteru navigadore a { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Pro un'atzessu lestru, pone is sinnalibros tuos inoghe, in sa barra de is sinnalibros. <a data-l10n-name="manage-bookmarks">Gesti sinnalibros…</a>
 
 ## WebRTC Pop-up notifications
@@ -481,12 +521,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Altoparlantes
 popup-all-windows-shared = S'ant a cumpartzire totu is ventanas visìbiles in s'ischermu tuo.
+
 popup-screen-sharing-block =
     .label = Bloca
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = Bloca semper
     .accesskey = s
+
 popup-mute-notifications-checkbox = Disativa is notìficas de is sitos web cando ses cumpartzende
 
 ## WebRTC window or screen share tab switch warning
@@ -508,6 +551,7 @@ enable-devtools-popup-description = Pro impreare su curtzadòrgiu F12, pro primu
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Chirca o inserta·nche un'indiritzu
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -516,6 +560,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Chirca in sa rete
     .aria-label = Chirca cun { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -524,26 +569,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Inserta is tèrmines de chirca
     .aria-label = Chirca in { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Inserta is tèrmines de chirca
     .aria-label = Chirca in sinnalibros
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Inserta is tèrmines de chirca
     .aria-label = Chirca in sa cronologia
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Inserta is tèrmines de chirca
     .aria-label = Chirca in ischedas
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Inserta is tèrmines de chirca
     .aria-label = Chirca is atziones
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Chirca cun { $name } o inserta indiritzu
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -553,9 +604,11 @@ urlbar-permissions-granted =
     .tooltiptext = As cuntzèdidu is permissos agiuntivos a custu situ web.
 urlbar-switch-to-tab =
     .value = Bae a s'ischeda:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Agiunta:
+
 urlbar-go-button =
     .tooltiptext = Bae a s'indiritzu in sa barra de positzione
 urlbar-page-action-button =
@@ -615,6 +668,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Chirca in sinnalibros
 urlbar-result-action-search-history = Chirca in sa cronologia
 urlbar-result-action-search-tabs = Chirca in ischedas
+
 urlbar-result-action-search-actions = Chirca in is atziones
 
 ## Labels shown above groups of urlbar results
@@ -623,12 +677,14 @@ urlbar-result-action-search-actions = Chirca in is atziones
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Cussìgios de { $engine }
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Atziones lestras
@@ -640,9 +696,12 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> est immoe in mannària prena
 fullscreen-warning-no-domain = Custu documentu s'ammustrat immoe in mannària prena
+
+
 fullscreen-exit-button = Essi dae sa mannària prena (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -652,6 +711,7 @@ pointerlock-warning-no-domain = Custu documentu tenet su controllu de su puntado
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Parte de custa pàgina est faddida.</strong> Pro sinnalare custu problema a { -brand-product-name }, pro chi ddu risolvat a lestru, imbia un'informe.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -707,8 +767,10 @@ bookmarks-tools =
     .label = Ainas de is sinnalibros
 bookmarks-bookmark-edit-panel =
     .label = Modìfica custu sinnalibru
+
 bookmarks-subview-edit-bookmark =
     .label = Modìfica custu sinnalibru…
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -722,9 +784,11 @@ bookmarks-toolbar-placeholder =
     .title = Elementos de sa barra de sinnalibros
 bookmarks-toolbar-placeholder-button =
     .label = Elementos de sa barra de sinnalibros
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Agiunghe s'ischeda atuale a is sinnalibros
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Agiunghe s'ischeda atuale a is sinnalibros...
@@ -755,6 +819,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Cumplementos e temas
     .tooltiptext = Gesti cumplementos e temas tuos { $shortcut }
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -764,25 +829,31 @@ toolbar-settings-button =
             [macos] Aberi cunfiguratzione ({ $shortcut })
            *[other] Aberi cunfiguratzione
         }
+
 toolbar-overflow-customize-button =
     .label = Personaliza barra de ainas...
     .accesskey = P
+
 toolbar-button-email-link =
     .label = Imbia su ligòngiu cun posta eletrònica
     .tooltiptext = Imbia unu ligòngiu a custa pàgina cun posta eletrònica
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Sarva pàgina
     .tooltiptext = Sarva custa pàgina ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Aberi archìviu
     .tooltiptext = Aberi un'archìviu ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Ischedas sincronizadas
     .tooltiptext = Ammustra ischedas dae àteros dispositivos
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -823,6 +894,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Permite ventanas a cumparsa pro { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Bloca ventanas a cumparsa pro { $uriHost }
     .accesskey = B
@@ -832,9 +904,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No ammustres custu messàgiu cando is ventanas a cumparsa siant blocadas
     .accesskey = N
+
 edit-popup-settings =
     .label = Gesti sa cunfiguratzione de is ventanas a cumparsa...
     .accesskey = G
+
 picture-in-picture-hide-toggle =
     .label = Cua su butone de Immàgine-subra-immàgine
     .accesskey = C
@@ -845,6 +919,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Move su butone immàgine-subra-immàgine a dereta
     .accesskey = d
+
 picture-in-picture-move-toggle-left =
     .label = Move su butone immàgine-subra-immàgine a manca
     .accesskey = m
@@ -859,32 +934,42 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigatzione
+
 navbar-downloads =
     .label = Iscarrigamentos
+
 navbar-overflow =
     .tooltiptext = Àteros istrumentos...
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Imprenta
     .tooltiptext = Imprenta custa pàgina… ({ $shortcut })
+
 navbar-home =
     .label = Pàgina printzipale
     .tooltiptext = Pàgina printzipale de { -brand-short-name }
+
 navbar-library =
     .label = Biblioteca
     .tooltiptext = Visualiza cronologia, sinnalibros sarvados e àteru
+
 navbar-search =
     .title = Chirca
+
 navbar-accessibility-indicator =
     .tooltiptext = Caraterìsticas de atzessibilidade ativadas
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Ischedas de su navigadore
+
 tabs-toolbar-new-tab =
     .label = Ischeda noa
+
 tabs-toolbar-list-all-tabs =
     .label = Elenca totu is ischedas
     .tooltiptext = Elenca totu is ischedas
@@ -901,6 +986,7 @@ data-reporting-notification-message = { -brand-short-name } imbiat in automàtic
 data-reporting-notification-button =
     .label = Sèbera su chi bògio cumpartzire
     .accesskey = S
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigatzione privada
 

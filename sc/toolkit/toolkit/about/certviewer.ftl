@@ -19,6 +19,7 @@ certificate-viewer-download-pem = PEM (tzertificadu)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-cadena.pem
+
 certificate-viewer-export = Esporta
     .download = { $fileName }.pem
 

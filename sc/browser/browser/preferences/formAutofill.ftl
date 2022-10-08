@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Indiritzos sarvados
 autofill-manage-addresses-list-header = Indiritzos
+
 autofill-manage-credit-cards-title = Cartas de crèditu sarvadas
 autofill-manage-credit-cards-list-header = Cartas de crèditu
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Boga
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Modìfica...
 autofill-add-new-address-title = Agiunghe un'indiritzu nou
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modìfica s'indiritzu
+
 autofill-address-given-name = Nòmine
 autofill-address-additional-name = Segundu nòmine
 autofill-address-family-name = Sangunadu
@@ -81,13 +84,16 @@ autofill-address-eircode = Còdighe postale (Eircode)
 autofill-address-country = Paisu o regione
 autofill-address-tel = Telèfonu
 autofill-address-email = Indiritzu de posta eletrònica
+
 autofill-cancel-button = Annulla
 autofill-save-button = Sarva
 autofill-country-warning-message = Su cumpletamentu automàticu de formulàrios est a disponimentu isceti pro unos cantos paisos, pro immoe.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Agiunghe una carta de crèditu noa
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modìfica sa carta de crèditu
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } est chirchende de ammustrare informatzione de una carta de crèditu. Cunfirma s'atzessu a custu contu de Windows in bàsciu.
        *[other] { -brand-short-name } est chirchende de ammustrare informatzione de una carta de crèditu.
     }
+
 autofill-card-number = Nùmeru de carta
 autofill-card-invalid-number = Inserta unu nùmeru de carta vàlidu
 autofill-card-name-on-card = Nòmine in sa carta

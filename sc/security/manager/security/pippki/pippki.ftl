@@ -16,6 +16,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Iscarrighende su tzertificadu
     .style = width: 46em
+
 download-cert-window2 =
     .title = Iscarrighende su tzertificadu
     .style = min-width: 46em
