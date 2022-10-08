@@ -232,6 +232,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = Žurnalas ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Įtraukti adresą
@@ -854,3 +858,6 @@ data-reporting-notification-message = „{ -brand-short-name }“ automatiškai 
 data-reporting-notification-button =
     .label = Pasirinkti, kas bus siunčiama
     .accesskey = s
+
+## Unified extensions (toolbar) button
+

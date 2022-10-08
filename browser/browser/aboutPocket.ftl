@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Pridėkite gairių
+
 pocket-panel-saved-error-generic = Bandant išsaugoti į „{ -pocket-brand-name }“ įvyko klaida.
 pocket-panel-saved-error-tag-length = Gaires gali sudaryti iki 25 simbolių
 pocket-panel-saved-error-only-links = Išsaugoti galima tik nuorodas
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Išsaugoma…
 pocket-panel-saved-suggested-tags = Siūlomos gairės
 pocket-panel-saved-tags-saved = Gairės pridėtos
 pocket-panel-signup-view-list = Peržiūrėti sąrašą
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Pridėti gairių:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = Prisijungti su „{ -brand-product-name }�
 pocket-panel-signup-tagline = Išsaugokite straipsnius bei vaizdo įrašus iš „{ -brand-product-name }“ norėdami juos peržiūrėti bet kokiame įrenginyje su „{ -pocket-brand-name }“, bet kuriuo metu.
 pocket-panel-signup-tagline-story-one = Spustelėkite „{ -pocket-brand-name }“ mygtuką norėdami išsaugoti bet kokį straipsnį, vaizdo įrašą ar tinklalapį iš „{ -brand-product-name }“.
 pocket-panel-signup-tagline-story-two = Peržiūrėkite bet kokiame įrenginyje su „{ -pocket-brand-name }“, bet kuriuo metu.
+
 pocket-panel-signup-cta-a-fix = Jūsų įrašymo mygtukas internetui
 pocket-panel-signup-cta-b = Spustelėkite „{ -pocket-brand-name }“ mygtuką, norėdami išsaugoti straipsnius, vaizdo įrašus, ir saitus. Peržiūrėkite savo sąrašą bet kuriame įrenginyje, bet kuriuo metu.
 pocket-panel-signup-cta-b-short = Spustelėkite „{ -pocket-brand-name }“ mygtuką, norėdami išsaugoti straipsnius, vaizdo įrašus, ir saitus.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = Naudodami „{ -pocket-brand-name }“ galite išs
 pocket-panel-home-explore-popular-topics = Naršyti populiarias temas
 pocket-panel-home-discover-more = Atrasti daugiau
 pocket-panel-home-explore-more = Naršyti
+
 pocket-panel-home-most-recent-saves = Čia yra jūsų paskiausi įrašymai:
 pocket-panel-home-most-recent-saves-loading = Įkeliami paskiausi įrašai…
 pocket-panel-home-new-user-cta = Spustelėkite „{ -pocket-brand-name }“ mygtuką, norėdami išsaugoti straipsnius, vaizdo įrašus, ir saitus.

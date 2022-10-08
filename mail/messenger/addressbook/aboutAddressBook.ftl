@@ -51,6 +51,12 @@ about-addressbook-sort-email-ascending =
 about-addressbook-sort-email-descending =
     .label = Rikiuoti pagal el. pašto adresą (Z > A)
 
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+## Card list placeholder
+## Shown when there are no cards in the list
+
 ## Details
 
 about-addressbook-begin-edit-contact-button = Redaguoti
@@ -59,9 +65,9 @@ about-addressbook-save-edit-contact-button = Įrašyti
 
 about-addressbook-details-email-addresses-header = El. paštas
 about-addressbook-details-phone-numbers-header = Telefonų numeriai
-about-addressbook-details-home-address-header = Namų adresas
-about-addressbook-details-work-address-header = Darbovietės adresas
 about-addressbook-details-other-info-header = Kita informacija
 
 # Photo dialog
+
+# Keyboard shortcuts
 

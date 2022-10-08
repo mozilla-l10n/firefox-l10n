@@ -38,9 +38,11 @@ menu-quit =
             [windows] B
            *[other] B
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Baigti „{ -brand-shorter-name }“ darbą
+
 menu-about =
     .label = Apie „{ -brand-shorter-name }“
     .accesskey = A

@@ -236,16 +236,12 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 
-openpgp-key-details-title =
-    .title = Rakto savybės
-
 openpgp-key-details-signatures-tab =
     .label = Sertifikatai
 openpgp-key-details-structure-tab =
     .label = struktūra
 openpgp-key-details-uid-certified-col =
     .label = Vartotojo ID / patvirtino
-openpgp-key-details-user-id2-label = Tariamas rakto savininkas
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tipas
@@ -527,9 +523,6 @@ key-error-not-accepted-as-personal = Jūs nepatvirtinote, kad raktas, kurio ID �
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Pasirinkta funkcija negalima neprisijungus prie tinklo. Prisijunkite prie interneto ir bandykite dar kartą.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Nepavyko rasti jokių raktų, atitinkančių nurodytus paieškos kriterijus.
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Klaida - nepavyko išgauti rakto
