@@ -31,7 +31,31 @@ findbar-entire-word =
     .label = Hele ord
     .accesskey = e
     .tooltiptext = Søg kun efter hele ord
+findbar-not-found = Der blev ikke fundet noget
 findbar-wrapped-to-top = Bunden af siden blev nået, fortsatte fra toppen.
 findbar-wrapped-to-bottom = Toppen af siden blev nået, fortsatte fra bunden.
+findbar-normal-find =
+    .placeholder = Find på siden
+findbar-fast-find =
+    .placeholder = Hurtig søgning
+findbar-fast-find-links =
+    .placeholder = Hurtig søgning (kun links)
 findbar-case-sensitive-status =
     .value = (Versalfølsom)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } af { $total } forekomst
+           *[other] { $current } af { $total } forekomster
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Mere end { $limit } forekomst
+           *[other] Mere end { $limit } forekomster
+        }
