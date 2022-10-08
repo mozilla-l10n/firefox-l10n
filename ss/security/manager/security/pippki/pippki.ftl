@@ -22,6 +22,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Layisha sitifiketi
     .style = width: 46em
+
 download-cert-message = Ucelwe kutsi utsembe umtsetfo wesitifiketi lesisha (CA).
 download-cert-trust-email =
     .label = Tsemba CA kukhomba basebentisi be-imeyili.
