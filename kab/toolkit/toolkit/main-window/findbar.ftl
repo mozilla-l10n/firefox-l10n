@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Anadu arurad (iseɣwan kan):
 findbar-case-sensitive-status =
     .value = (Amḥulfu ɣer umasal n isekkilen)
+findbar-match-diacritics-status =
+    .value = (Aqadeṛ n yifeskilen)
 findbar-entire-word-status =
     .value = (Awalen ukmilen kan)
 # Variables:
