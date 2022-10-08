@@ -41,6 +41,7 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = 進度：第 { $current } 步，共 { $total } 步
+
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -49,11 +50,13 @@ onboarding-welcome-steps-indicator2 =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = 一切從這裡開始
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — 家具設計師、Firefox 粉絲
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 關閉動畫
 
@@ -79,9 +82,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = 開始使用
+
 mr1-onboarding-welcome-header = 歡迎使用 { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
     .title = 將 { -brand-short-name } 設為預設瀏覽器，並釘選到工作列
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
@@ -101,13 +106,16 @@ mr1-onboarding-import-header = 資料隨身攜帶
 mr1-onboarding-import-subtitle =
     匯入您的密碼、書籤<br/>
     與更多資料。
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = 從 { $previous } 匯入
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入
 mr1-onboarding-import-secondary-button-label = 現在不要
+
 mr2-onboarding-colorway-header = 美麗生活
 mr2-onboarding-colorway-subtitle = 活力滿點的新配色，限時提供。
 mr2-onboarding-colorway-primary-button-label = 儲存配色
@@ -117,20 +125,26 @@ mr2-onboarding-colorway-label-balanced = 均衡色調
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = 濃烈色調
+
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = 自動
+
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = 預設
+
 mr1-onboarding-theme-header = 有您的風格
 mr1-onboarding-theme-subtitle = 使用佈景主題，讓 { -brand-short-name } 有您的風格
 mr1-onboarding-theme-primary-button-label = 儲存佈景主題
 mr1-onboarding-theme-secondary-button-label = 現在不要
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = 系統佈景主題
+
 mr1-onboarding-theme-label-light = 亮色
 mr1-onboarding-theme-label-dark = 暗色
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = 完成
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -143,49 +157,62 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         依照作業系統的佈景主題設定來顯示
         按鈕、選單、視窗的外觀。
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         依照作業系統的佈景主題設定來顯示
         按鈕、選單、視窗的外觀。
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title = 使用亮色按鈕、選單、視窗佈景主題。
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description = 使用亮色按鈕、選單、視窗佈景主題。
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title = 使用暗色按鈕、選單、視窗佈景主題。
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description = 使用暗色按鈕、選單、視窗佈景主題。
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title = 使用色彩繽紛的按鈕、選單、視窗佈景主題。
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description = 使用色彩繽紛的按鈕、選單、視窗佈景主題。
+
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = 使用這套配色。
+
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = 使用這套配色。
+
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = 探索 { $colorwayName } 的配色。
+
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = 探索 { $colorwayName } 的配色。
+
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = 探索預設佈景主題。
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = 探索預設佈景主題。
 
@@ -213,13 +240,18 @@ mr2-onboarding-start-browsing-button-label = 開始上網
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = 選擇您的語言
+
 mr2022-onboarding-live-language-text = { -brand-short-name } 會說您的語言
+
 mr2022-language-mismatch-subtitle = 透過社群的努力，{ -brand-short-name } 已翻譯成超過 90 種語言版本。您的系統使用 { $systemLanguage }，而 { -brand-short-name } 則是 { $appLanguage } 版本。
+
 onboarding-live-language-button-label-downloading = 正在下載 { $negotiatedLanguage } 的語言套件…
 onboarding-live-language-waiting-button = 正在取得可用的語言清單…
 onboarding-live-language-installing = 正在安裝 { $negotiatedLanguage } 的語言套件…
+
 mr2022-onboarding-live-language-switch-to = 切換為 { $negotiatedLanguage } 版
 mr2022-onboarding-live-language-continue-in = 以 { $appLanguage } 版繼續
+
 onboarding-live-language-secondary-cancel-download = 取消
 onboarding-live-language-skip-button-label = 略過
 
@@ -241,12 +273,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] 將 { -brand-short-name } 保留在 Dock
        *[other] 將 { -brand-short-name } 釘選到工具列
     }
+
 fx100-upgrade-thanks-header = 100 倍的感謝您
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = 這一版是 { -brand-short-name } 的第 100 版！非常感謝<em>您</em>與我們一起打造更好、更健康的網路環境。
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 這一版是我們的第 100 版！非常感謝您參與我們的社群，只要點一下即可進入 { -brand-short-name } 的下一個 100 版旅程。
+
 mr2022-onboarding-secondary-skip-button-label = 跳過這步
 
 ## MR2022 New User Pin Firefox screen strings
@@ -315,42 +349,49 @@ mr2022-onboarding-colorway-subtitle = 獨立的聲音將改變文化。
 mr2022-onboarding-colorway-primary-button-label = 使用此配色
 mr2022-onboarding-colorway-primary-button-label-continue = 設定並繼續
 mr2022-onboarding-existing-colorway-checkbox-label = 將 { -firefox-home-brand-name }設定為色彩繽紛的首頁
+
 mr2022-onboarding-colorway-label-default = 預設
 mr2022-onboarding-colorway-tooltip-default =
     .title = 預設
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = { -brand-short-name } 目前的配色
 mr2022-onboarding-colorway-description-default = <b>使用我目前的 { -brand-short-name } 色彩。</b>
+
 mr2022-onboarding-colorway-label-playmaker = 控球後衛
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = 控球後衛
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = 控球後衛（紅色）
 mr2022-onboarding-colorway-description-playmaker = <b>您是控球後衛。</b>您創造了勝利的機會，並且幫助您周圍的所有人，一同贏得競賽。
+
 mr2022-onboarding-colorway-label-expressionist = 表現主義者
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = 表現主義者
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = 表現主義者（黃色）
 mr2022-onboarding-colorway-description-expressionist = <b>您是表現主義者。</b>您用不同的方式看待世界，您的作品激發出他人的情感。
+
 mr2022-onboarding-colorway-label-visionary = 遠見家
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = 遠見家
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = 遠見家（綠色）
 mr2022-onboarding-colorway-description-visionary = <b>您是遠見家。</b>您不滿意於現狀，讓所有人能夠一同想像出更好的未來。
+
 mr2022-onboarding-colorway-label-activist = 社會運動家
 mr2022-onboarding-colorway-tooltip-activist =
     .title = 社會運動家
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = 社會運動家（藍色）
 mr2022-onboarding-colorway-description-activist = <b>您是社會運動家。</b>您讓世界變得更好，並讓他人也如此相信。
+
 mr2022-onboarding-colorway-label-dreamer = 夢想家
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = 夢想家
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = 夢想家（紫色）
 mr2022-onboarding-colorway-description-dreamer = <b>您是夢想家。</b>您相信命運之神眷顧大膽的人，並且鼓勵大家勇敢表現。
+
 mr2022-onboarding-colorway-label-innovator = 創造者
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = 創造者

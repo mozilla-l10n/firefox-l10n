@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = 推薦功能
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 為什麼我會看到這個？
+
 cfr-doorhanger-extension-cancel-button = 現在不要
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = 立刻新增
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = 管理建議設定
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = 不要告訴我這個建議
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = 了解更多
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = 由 { $name } 開發
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 推薦
 cfr-doorhanger-extension-notification2 = 推薦
     .tooltiptext = 推薦擴充套件
     .a11y-announcement = 有推薦的擴充套件可以使用
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 推薦
@@ -75,9 +83,11 @@ cfr-protections-panel-link-text = 了解更多
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 新功能:
+
 cfr-whatsnew-button =
     .label = 有什麼新鮮事
     .tooltiptext = 有什麼新鮮事
+
 cfr-whatsnew-release-notes-link-text = 閱讀發行公告
 
 ## Enhanced Tracking Protection Milestones
@@ -151,6 +161,7 @@ spotlight-total-cookie-protection-body = 「全方位 Cookie 保護」功能可�
 spotlight-total-cookie-protection-expanded = { -brand-short-name } 會將 Cookie 包圍起來，讓它們僅能在您所在的網站使用，這樣追蹤器就無法用它們來追蹤您。透過搶先試用，您可以協助我們最佳化這個功能，持續為每個人打造更好的網路環境。
 spotlight-total-cookie-protection-primary-button = 開啟「全方位 Cookie 保護」功能
 spotlight-total-cookie-protection-secondary-button = 現在不要
+
 cfr-total-cookie-protection-header = 感謝您的協助，讓 { -brand-short-name } 比以往更安全、更能保護隱私
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -184,11 +195,13 @@ spotlight-pin-secondary-button = 現在不要
 
 mr2022-background-update-toast-title = 全新 { -brand-short-name }。更有隱私、更少追蹤器，一切毫不妥協。
 mr2022-background-update-toast-text = 立即試用最新版 { -brand-short-name }，升級使用我們最強大的反追蹤保護功能。
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = 立即開啟 { -brand-shorter-name }
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -207,6 +220,7 @@ firefoxview-cfr-body = 此外還可以於不同裝置間無縫跳轉，再為瀏
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = 跟 { -firefoxview-brand-name } 說嗨
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = 想要在手機上看到開啟的那個分頁嗎？可以直接開啟。需要再打開剛關閉的分頁嗎？點一下 { -firefoxview-brand-name } 馬上就回來。
 firefoxview-spotlight-promo-primarybutton = 看看原理是什麼
