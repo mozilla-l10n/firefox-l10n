@@ -10,6 +10,8 @@ crashed-subframe-message = <strong>Sac’het eo ul lodenn eus al lec’hienn.</s
 # but without any markup.
 crashed-subframe-title =
     .title = Sac'het eo ul lodenn eus ar bajenn-mañ. Evit leuskel { -brand-product-name } da c'houzout ez eus bet ur gudenn ha kempenn anezhi buanoc'h, kinnig un danevell.
+crashed-subframe-learnmore-link =
+    .value = Gouzout hiroc'h
 crashed-subframe-submit =
     .label = Kas danevell
     .accesskey = K
