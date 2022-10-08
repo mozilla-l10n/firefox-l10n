@@ -9,7 +9,8 @@ findbar-next =
     .tooltiptext = Batla tiragalo e e latelang ya setlhopha sa mafoko
 findbar-previous =
     .tooltiptext = Batla tiragalo e e fetileng ya setlhopha sa mafoko
-
 findbar-find-button-close =
     .tooltiptext = Tswala Bara ya Patlo
-
+findbar-not-found = Setlhopha sa mafoko ga se a bonwa
+findbar-wrapped-to-top = Fitlhile kwa bokhutlong jwa tsebe, tsweletse go tswa kwa godimo
+findbar-wrapped-to-bottom = Fitlhile kwa bogodimong jwa tsebe, tsweletse go tswa kwa tlase
