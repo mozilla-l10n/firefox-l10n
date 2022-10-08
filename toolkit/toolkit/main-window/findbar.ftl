@@ -9,16 +9,18 @@ findbar-next =
     .tooltiptext = Fumanisa isenzeko esilandelayo sebinzana lamagama
 findbar-previous =
     .tooltiptext = Fumanisa isenzeko sangaphambili sebinzana lamagama
-
 findbar-find-button-close =
     .tooltiptext = Vala ibha yokufumana
-
 findbar-case-sensitive =
     .label = Ngqamanisa unobumba
     .accesskey = n
     .tooltiptext = Khangela ngokoonobumba
-
 findbar-entire-word =
     .label = Amagama Apheleleyo
     .accesskey = A
     .tooltiptext = Khangela amagama apheleleyo kuphela
+findbar-not-found = Ibinzana lamagama alifunyanwanga
+findbar-wrapped-to-top = Ufike ekupheleni kwekhasi, kuqhutywe ukususela emantla
+findbar-wrapped-to-bottom = Ufike emantla ekhasi, kuqhutywe ukususela ngezantsi
+findbar-case-sensitive-status =
+    .value = (Inobuzaza kubhalo loonobumba)
