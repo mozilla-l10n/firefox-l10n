@@ -31,5 +31,27 @@ findbar-entire-word =
     .label = Hele ord
     .accesskey = H
     .tooltiptext = Søk bare etter hele ord
+findbar-not-found = Finner ikke uttrykket
 findbar-wrapped-to-top = Nådde bunnen av siden, fortsetter fra toppen
 findbar-wrapped-to-bottom = Nådde toppen av siden, fortsetter fra bunnen
+findbar-fast-find =
+    .placeholder = Hurtigsøk
+findbar-fast-find-links =
+    .placeholder = Hurtigsøk (bare lenker)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } av { $total } treff
+           *[other] { $current } av { $total } treff
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Mer enn { $limit } treff
+           *[other] Mer enn { $limit } treff
+        }
