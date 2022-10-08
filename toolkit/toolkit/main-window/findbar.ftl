@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Spěšne pytanje (jano wótkaze)
 findbar-case-sensitive-status =
     .value = (Na wjelikopisanje źiwaś)
+findbar-match-diacritics-status =
+    .value = (źiwa na diakritikiske znamuška)
 findbar-entire-word-status =
     .value = (Jano cełe słowa)
 # Variables:
