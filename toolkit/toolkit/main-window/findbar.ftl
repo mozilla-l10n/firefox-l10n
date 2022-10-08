@@ -33,3 +33,5 @@ findbar-entire-word =
     .tooltiptext = Chỉ tìm toàn bộ từ
 findbar-wrapped-to-top = Đã xuống tới cuối trang, bắt đầu lại từ đầu trang
 findbar-wrapped-to-bottom = Đã lên tới đầu trang, bắt đầu lại từ cuối trang
+findbar-case-sensitive-status =
+    .value = (Phân biệt HOA-thường)
