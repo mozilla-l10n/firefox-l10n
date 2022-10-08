@@ -8,6 +8,7 @@
 neterror-page-title = Stránku se nepodařilo načíst
 certerror-sts-page-title = Nepřipojeno: Možný bezpečnostní problém
 neterror-blocked-by-policy-page-title = Zablokovaná stránka
+neterror-captive-portal-page-title = Přihlásit se do sítě
 neterror-dns-not-found-title = Server nenalezen
 neterror-malformed-uri-page-title = Neplatná URL adresa
 
