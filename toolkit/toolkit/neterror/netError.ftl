@@ -14,6 +14,7 @@ neterror-malformed-uri-page-title = URL nevalid
 
 ## Error page actions
 
+neterror-advanced-button = Avansat…
 neterror-copy-to-clipboard-button = Copiază textul în clipboard
 neterror-learn-more-link = Află mai multe…
 neterror-open-portal-login-page-button = Deschide pagina de autentificare în rețea
