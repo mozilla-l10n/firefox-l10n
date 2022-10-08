@@ -29,6 +29,7 @@ neterror-view-certificate-link = Tanúsítvány megtekintése
 ##
 
 neterror-pref-reset = Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?
+neterror-error-reporting-automatic = Az ilyen hibák jelentése segít a { -vendor-short-name(ending: "accented") }nak a rosszindulatú oldalak azonosításában és blokkolásában
 
 ## Specific error messages
 
