@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = પ્રમાણપત્રો ડાઉનલોડ થાય છે
     .style = width: 46em
+
 download-cert-window2 =
     .title = પ્રમાણપત્રો ડાઉનલોડ થાય છે
     .style = min-width: 46em

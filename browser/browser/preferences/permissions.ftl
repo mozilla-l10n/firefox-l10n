@@ -5,43 +5,57 @@
 permissions-window =
     .title = અપવાદો
     .style = width: 45em
+
 permissions-window2 =
     .title = અપવાદો
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = વેબ સાઈટનું સરનામું
     .accesskey = d
+
 permissions-block =
     .label = બ્લોક
     .accesskey = B
+
 permissions-session =
     .label = સત્ર માટે પરવાનગી આપો
     .accesskey = S
+
 permissions-allow =
     .label = પરવાનગી આપો
     .accesskey = A
+
 permissions-site-name =
     .label = વેબસાઇટ
+
 permissions-status =
     .label = પરિસ્થિતિ
+
 permissions-remove =
     .label = વેબસાઇટ દૂર કરો
     .accesskey = R
+
 permissions-remove-all =
     .label = બધી વેબસાઇટ્સને દૂર કરો
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = પરિવર્તનો સાચવો
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = વેબસાઇટ શોધો
+
 permissions-capabilities-allow =
     .label = માન્યતા આપો
 permissions-capabilities-block =
     .label = બ્લોક
 permissions-capabilities-prompt =
     .label = હંમેશા પૂછો
+
 permissions-capabilities-listitem-allow =
     .value = માન્યતા આપો
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = મહેરબાની કરીને મા�
 permissions-exceptions-cookie-window =
     .title = અપવાદો - કૂકીઝ અને સાઇટ ડેટા
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = અપવાદો - કૂકીઝ અને સાઇટ ડેટા
     .style = { permissions-window2.style }
@@ -75,6 +90,7 @@ permissions-exceptions-cookie-desc = તમે કઈ વેબસાઇટ્�
 permissions-exceptions-popup-window =
     .title = માન્ય વેબસાઈટ્સ - પોપઅપ
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = માન્ય વેબસાઈટ્સ - પોપઅપ
     .style = { permissions-window2.style }
@@ -85,6 +101,7 @@ permissions-exceptions-popup-desc = તમે સ્પષ્ટ કરી શ�
 permissions-exceptions-saved-logins-window =
     .title = અપવાદો - સાચવેલા લોગિન
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = અપવાદો - સાચવેલા લોગિન
     .style = { permissions-window2.style }
@@ -95,6 +112,7 @@ permissions-exceptions-saved-logins-desc = નીચેની વેબસાઇ
 permissions-exceptions-addons-window =
     .title = માન્ય વેબસાઈટ્સ - એડ-ઓન સ્થાપન
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = માન્ય વેબસાઈટ્સ - એડ-ઓન સ્થાપન
     .style = { permissions-window2.style }
@@ -108,6 +126,7 @@ permissions-exceptions-addons-desc = કઈ વેબ સાઈટો એડ-ઓ
 permissions-site-notification-window =
     .title = સેટિંગ્સ - સૂચના પરવાનગીઓ
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = સેટિંગ્સ - સૂચના પરવાનગીઓ
     .style = { permissions-window2.style }
@@ -121,6 +140,7 @@ permissions-site-notification-disable-desc = સૂચનાઓ મોકલવ�
 permissions-site-location-window =
     .title = સેટિંગ્સ - સ્થાન પરવાનગીઓ
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = સેટિંગ્સ - સ્થાન પરવાનગીઓ
     .style = { permissions-window2.style }
@@ -137,6 +157,7 @@ permissions-site-location-disable-desc = આ તમારા સ્થાનન�
 permissions-site-camera-window =
     .title = સેટિંગ્સ - કૅમેરા પરવાનગીઓ
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = સેટિંગ્સ - કૅમેરા પરવાનગીઓ
     .style = { permissions-window2.style }
@@ -150,6 +171,7 @@ permissions-site-camera-disable-desc = આ તમારા કૅમેરાન
 permissions-site-microphone-window =
     .title = સેટિંગ્સ - માઇક્રોફોન પરવાનગીઓ
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = સેટિંગ્સ - માઇક્રોફોન પરવાનગીઓ
     .style = { permissions-window2.style }
