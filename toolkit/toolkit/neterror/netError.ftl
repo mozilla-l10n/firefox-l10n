@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-captive-portal-page-title = ජාලයට පිවිසෙන්න
 
 ## Error page actions
 
