@@ -49,3 +49,11 @@ findbar-found-matches =
             [one] { $total } میں سے { $current } مشابہ کرتا ہے
            *[other] { $total } میں سے { $current } مشابہ کرتا ہے
         }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } سے مزید مشابہ
+           *[other] { $limit } سے مزید مشابہ کرتا ہے
+        }
