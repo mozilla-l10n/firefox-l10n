@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button2 = Ajustes de { -brand-short-name }
+
 open-addons-sidebar-button = Complementos y temas
+
 account-action-add-newsgroup-account =
     .label = Agregar cuenta de grupo de noticias…
     .accesskey = n
+
 server-change-restart-required = Se requiere reiniciar para aplicar el cambio de servidor o de nombre de usuario.
+
 edit-vcard-dialog-accept-button = Guardar
     .accesskey = G
 edit-vcard-dialog-cancel-button = Cancelar

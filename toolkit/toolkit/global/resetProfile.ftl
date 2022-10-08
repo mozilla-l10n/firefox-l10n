@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Empiece de cero para solucionar problemas d
 refresh-profile = Darle a { -brand-short-name } una puesta a punto
 refresh-profile-button = Refrescar { -brand-short-name }…
 refresh-profile-learn-more = Conocer más
+
 refresh-profile-progress =
     .title = Refrescar { -brand-short-name }
 refresh-profile-progress-description = Casi listo…

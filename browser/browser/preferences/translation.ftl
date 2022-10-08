@@ -5,29 +5,40 @@
 translation-window =
     .title = Excepciones - Traducción
     .style = width: 36em
+
 translation-window2 =
     .title = Excepciones - Traducción
     .style = min-width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-disabled-desc = No se ofrecerán traducciones para los siguientes idiomas
+
 translation-languages-column =
     .label = Idiomas
+
 translation-languages-button-remove =
     .label = Eliminar idioma
     .accesskey = E
+
 translation-languages-button-remove-all =
     .label = Eliminar todos los idiomas
     .accesskey = r
+
 translation-sites-disabled-desc = No se ofrecerán traducciones para los siguientes sitios
+
 translation-sites-column =
     .label = Sitios web
+
 translation-sites-button-remove =
     .label = Eliminar sitio
     .accesskey = s
+
 translation-sites-button-remove-all =
     .label = Eliminar todos los sitios
     .accesskey = i
+
 translation-dialog =
     .buttonlabelaccept = Cerrar
     .buttonaccesskeyaccept = C
