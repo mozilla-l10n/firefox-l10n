@@ -9,7 +9,10 @@ findbar-next =
     .tooltiptext = Thola okhunye okwenzekako ngomutjho
 findbar-previous =
     .tooltiptext = Thola okhunye okwenzekako ngomutjho
-
 findbar-find-button-close =
     .tooltiptext = Vala isivalo Sokuthola
-
+findbar-not-found = Umutjho awutholakali
+findbar-wrapped-to-top = Ufike ekupheleni kwekhasi, ragela phambili Kusukela phezulu
+findbar-wrapped-to-bottom = Kufikeke phezulu kwekhasi, kusukela phasi
+findbar-case-sensitive-status =
+    .value = (Case sensitive)
