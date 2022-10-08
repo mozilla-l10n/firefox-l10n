@@ -19,12 +19,19 @@ findbar-entire-word =
     .label = పూర్తి పదాలు
     .accesskey = w
     .tooltiptext = పూర్తి పదాలు మాత్రమే వెతుకు
+findbar-not-found = పదబంధం కనబడలేదు
 findbar-wrapped-to-top = పేజీ చివరకు చేరుకున్నది,పైనుండి కొనసాగించండి
 findbar-wrapped-to-bottom = పేజీ పైకి చేరుకున్నది, క్రింది నుండి కొనసాగించండి
+findbar-normal-find =
+    .placeholder = పేజీలో వెతకండి
 findbar-fast-find =
     .placeholder = త్వరిత కనుగోలు
+findbar-fast-find-links =
+    .placeholder = త్వరిత కనుగోలు (లంకెలు మాత్రమే)
 findbar-case-sensitive-status =
     .value = (చిన్నాపెద్దా అక్షరంతేడా)
+findbar-entire-word-status =
+    .value = (పూర్తి పదాలు మాత్రమే)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
