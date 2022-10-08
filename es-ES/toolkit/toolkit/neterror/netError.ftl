@@ -7,6 +7,7 @@
 
 neterror-page-title = Problema al cargar la página
 certerror-page-title = Advertencia: riesgo potencial de seguridad a continuación
+certerror-sts-page-title = No se ha conectado: Posible problema de seguridad
 neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Iniciar sesión en la red
 neterror-dns-not-found-title = Servidor no encontrado
@@ -17,6 +18,7 @@ neterror-malformed-uri-page-title = URL no válida
 neterror-copy-to-clipboard-button = Copiar texto al portapapeles
 neterror-learn-more-link = Más información…
 neterror-open-portal-login-page-button = Abrir página de inicio de sesión en la red
+neterror-override-exception-button = Aceptar el riesgo y continuar
 neterror-pref-reset-button = Restablecer configuración predeterminada
 neterror-return-to-previous-page-button = Ir atrás
 neterror-return-to-previous-page-recommended-button = Retroceder (recomendado)
@@ -54,6 +56,9 @@ neterror-content-encoding-error = Contacte con los propietarios del sitio web pa
 neterror-unsafe-content-type = Contacte con los propietarios del sitio web para informarles de este problema.
 neterror-nss-failure-not-verified = La página que está intentando ver no se puede mostrar porque la autenticidad de los datos recibidos no ha podido ser verificada.
 neterror-nss-failure-contact-website = Contacte con los propietarios del sitio web para informarles de este problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } ha detectado una posible amenaza de seguridad y no ha cargado <b>{ $hostname }</b>. Si visita este sitio, los atacantes podrían intentar robar información como sus contraseñas, correos electrónicos o detalles de su tarjeta de crédito.
 neterror-corrupted-content-intro = La página que está intentando ver no se puede mostrar porque se ha detectado un error en la transmisión de datos.
 neterror-corrupted-content-contact-website = Contacte con los propietarios del sitio web para informarles de este problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
