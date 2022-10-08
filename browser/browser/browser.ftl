@@ -178,6 +178,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = Historial ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Amiestu d'un marcador
@@ -614,3 +618,6 @@ tabs-toolbar-list-all-tabs =
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } unvia automáticamente dalgunos datos a { -vendor-short-name } pa que podamos ameyorar la to esperiencia.
+
+## Unified extensions (toolbar) button
+

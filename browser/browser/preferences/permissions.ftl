@@ -5,50 +5,66 @@
 permissions-window =
     .title = Esceiciones
     .style = width: 36em
+
 permissions-window2 =
     .title = Esceiciones
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Direición del sitiu web
     .accesskey = D
+
 permissions-block =
     .label = Bloquiar
     .accesskey = B
+
 permissions-session =
     .label = Permitir na sesión
     .accesskey = s
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-site-name =
     .label = Sitiu web
+
 permissions-status =
     .label = Estáu
+
 permissions-remove =
     .label = Quitar el sitiu web
     .accesskey = Q
+
 permissions-remove-all =
     .label = Quitar tolos sitios web
     .accesskey = u
+
 permission-dialog =
     .buttonlabelaccept = Guardar los cambeos
     .buttonaccesskeyaccept = G
+
 permissions-autoplay-menu = Lo predeterminao pa tolos sitios web:
+
 permissions-searchbox =
     .placeholder = Buscar un sitiu web
+
 permissions-capabilities-autoplay-allow =
     .label = Permitir l'audiu y videu
 permissions-capabilities-autoplay-block =
     .label = Bloquiar l'audiu
 permissions-capabilities-autoplay-blockall =
     .label = Bloquiar l'audiu y videu
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquiar
 permissions-capabilities-prompt =
     .label = Entrugar siempres
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
@@ -66,6 +82,7 @@ permissions-invalid-uri-label = Introduz un nome d'agospiador válidu
 permissions-exceptions-etp-window =
     .title = Esceiciones pa la proteición antirrastrexu ameyorada
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Esceiciones pa la proteición antirrastrexu ameyorada
     .style = { permissions-window2.style }
@@ -76,6 +93,7 @@ permissions-exceptions-etp-desc = Desactivesti les proteiciones nestos sitios we
 permissions-exceptions-cookie-window =
     .title = Esceiciones - Cookies y datos de los sitios
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Esceiciones - Cookies y datos de los sitios
     .style = { permissions-window2.style }
@@ -89,6 +107,7 @@ permissions-exceptions-cookie-desc = Pues especificar los sitios web que siempre
 permissions-exceptions-popup-window =
     .title = Sitios web permitíos - Ventanos emerxentes
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Sitios web permitíos - Ventanos emerxentes
     .style = { permissions-window2.style }
@@ -99,6 +118,7 @@ permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir 
 permissions-exceptions-saved-logins-window =
     .title = Esceiciones - Anicios de sesión guardaos
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Esceiciones - Anicios de sesión guardaos
     .style = { permissions-window2.style }
@@ -109,6 +129,7 @@ permissions-exceptions-saved-logins-desc = Nun van guardase los anicios de sesi�
 permissions-exceptions-addons-window =
     .title = Sitios web permitíos - Instalación de complementos
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Sitios web permitíos - Instalación de complementos
     .style = { permissions-window2.style }
@@ -119,6 +140,7 @@ permissions-exceptions-addons-desc = Pues especificar los sitios web que tienen 
 permissions-site-autoplay-window =
     .title = Axustes - Reproducción automática
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Axustes - Reproducción automática
     .style = { permissions-window2.style }
@@ -129,6 +151,7 @@ permissions-site-autoplay-desc = Equí pues xestionar los sitios que nun siguen 
 permissions-site-notification-window =
     .title = Axustes - Permisos d'avisos
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Axustes - Permisos d'avisos
     .style = { permissions-window2.style }
@@ -142,6 +165,7 @@ permissions-site-notification-disable-desc = Esto va evitar que cualesquier siti
 permissions-site-location-window =
     .title = Axustes - Permisos d'allugamientu
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Axustes - Permisos d'allugamientu
     .style = { permissions-window2.style }
@@ -155,6 +179,7 @@ permissions-site-location-disable-desc = Esto va evitar que los sitios web que n
 permissions-site-xr-window =
     .title = Axustes - Permisos de realidá virtual
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Axustes - Permisos de realidá virtual
     .style = { permissions-window2.style }
@@ -168,6 +193,7 @@ permissions-site-xr-disable-desc = Esto va evitar que los sitios web que nun tea
 permissions-site-camera-window =
     .title = Axustes - Permisos de la cámara
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Axustes - Permisos de la cámara
     .style = { permissions-window2.style }
@@ -181,6 +207,7 @@ permissions-site-camera-disable-desc = Esto va evitar que los sitios web que nun
 permissions-site-microphone-window =
     .title = Axustes - Permisos del micrófonu
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Axustes - Permisos del micrófonu
     .style = { permissions-window2.style }
