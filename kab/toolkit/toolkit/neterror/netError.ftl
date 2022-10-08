@@ -16,6 +16,7 @@ neterror-return-to-previous-page-button = Uɣal ɣeṛ deffir
 
 ##
 
+neterror-pref-reset = Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-inek i d-yewwin ugur-a. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?
 
 ## Specific error messages
 
