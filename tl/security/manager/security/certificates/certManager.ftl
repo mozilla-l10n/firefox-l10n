@@ -4,98 +4,137 @@
 
 certmgr-title =
     .title = Certificate Manager
+
 certmgr-tab-mine =
     .label = Mga Certificate Mo
+
 certmgr-tab-remembered =
     .label = Mga Authentication Decision
+
 certmgr-tab-people =
     .label = Mga Tao
+
 certmgr-tab-servers =
     .label = Mga Server
+
 certmgr-tab-ca =
     .label = Mga AuthorityMga Awtoridad
+
 certmgr-mine = May mga certificate ka mula sa mga organisasyong ito na nakakakilala sa iyo
 certmgr-people = May mga certificate kang nakatago na kumikilala sa mga taong ito
 certmgr-ca = May mga certificate ka na nakatago na kumikilala sa mga certificate authority na ito
+
 certmgr-edit-ca-cert =
     .title = i-Edit ang CA certificate trust settings
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = i-Edit ang CA certificate trust settings
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = i-Edit ang trust settings:
+
 certmgr-edit-cert-trust-ssl =
     .label = This certificate can identify web sites.
+
 certmgr-edit-cert-trust-email =
     .label = Ang sertipiko na ito ay maaaring makilala ang mga gumagamit ng mail.
+
 certmgr-delete-cert =
     .title = Burahin ang Sertipiko
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Burahin ang Sertipiko
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-host =
     .label = Host
+
 certmgr-cert-name =
     .label = Pangalan ng Sertipiko
+
 certmgr-cert-server =
     .label = Server
+
 certmgr-override-lifetime =
     .label = Haba ng buhay
+
 certmgr-token-name =
     .label = Security Device
+
 certmgr-begins-label =
     .label = Nagsisimula Sa
+
 certmgr-expires-label =
     .label = Mawawalan ng Bisa Sa
+
 certmgr-email =
     .label = E-Mail Address
+
 certmgr-serial =
     .label = Serial Number
+
 certmgr-view =
     .label = Tingnan
     .accesskey = T
+
 certmgr-edit =
     .label = Baguhin ang Trust...
     .accesskey = E
+
 certmgr-export =
     .label = I-export...
     .accesskey = x
+
 certmgr-delete =
     .label = Burahin…
     .accesskey = B
+
 certmgr-delete-builtin =
     .label = Burahin o I-distrust...
     .accesskey = D
+
 certmgr-backup =
     .label = Backup…
     .accesskey = B
+
 certmgr-backup-all =
     .label = I-backup ang Lahat…
     .accesskey = k
+
 certmgr-restore =
     .label = I-import...
     .accesskey = m
+
 certmgr-add-exception =
     .label = Magdagdag ng Exception…
     .accesskey = x
+
 exception-mgr =
     .title = Magdagdag ng Security Exception
+
 exception-mgr-extra-button =
     .label = I-Confirm ang Security Exception
     .accesskey = C
+
 exception-mgr-supplemental-warning = Hindi hihilingin ng mga lehitimong bangko, tindahan, at iba pang mga site na gawin mo ito.
+
 exception-mgr-cert-location-url =
     .value = Lokasyon:
+
 exception-mgr-cert-location-download =
     .label = Kuhanin ang Certificate
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = Tingnan…
     .accesskey = v
+
 exception-mgr-permanent =
     .label = Permanenteng i-store ang exception na ito
     .accesskey = P
+
 pk11-bad-password = Hindi tama ang pinasok mong password.
 pkcs12-decode-err = Bigong i-decode ang file. Maaaring wala ito sa PKCS #12 format, nasira, o mali ang password na naipasok.
 pkcs12-unknown-err-restore = Bigong maibalik ang PKCS #12 file sa mga di-kilalang dahilan.
@@ -128,21 +167,28 @@ delete-user-cert-title =
     .title = Burahin ang iyong mga Sertipiko
 delete-user-cert-confirm = Nakasisiguro ka bang nais mong burahin ang mga sertipikong ito?
 delete-user-cert-impact = Kung tatangalin mo ang isa sa iyong mga sariling sertipiko, maaari mong hindi na magagamit ito upang kilalanin ang iyong sarili.
+
+
 delete-ssl-override-confirm = Sigurado ka bang gusto mong tanggalin itong server exception?
+
 delete-ca-cert-title =
     .title = Burahin o Tigilang Pagkatiwalaan ang mga CA Certificate
 delete-ca-cert-confirm = Hiningi mong burahin ang mga CA certificate na ito. Para sa mga built-in certificate lahat ay tatanggalin, na kapareho lang ng epekto. Sigurado ka bang gusto mong burahin ito o tigilang pagkatiwalaan?
 delete-ca-cert-impact = Kapag binura mo o tinigilang pagkatiwalaan ang isang certificate authority (CA) certificate, hindi na magtitiwala ang application na ito sa kahit anong certificate na binigay ng CA na iyon.
+
+
 delete-email-cert-title =
     .title = Burahin ang E-Mail Certificates
 delete-email-cert-confirm = Nakasisiguro ka bang nais mong burahin ang mga sertipiko sa email ng mga taong ito?
 delete-email-cert-impact = Kung tatangalin mo ang e-mail certificate ng isang tao, hindi mo na magagawang magpadala ng naka-encrypt na e-mail sa taong iyon.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certificate na may serial number: { $serialNumber }
+
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Hindi Nakaimbak)
 

@@ -48,6 +48,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-graphics-label = Graphics
+
 perftools-presets-media-label = Media
 
 ##

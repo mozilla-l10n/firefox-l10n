@@ -5,62 +5,81 @@
 permissions-window =
     .title = Mga Exception
     .style = width: 45em
+
 permissions-window2 =
     .title = Mga Exception
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Address ng website
     .accesskey = d
+
 permissions-block =
     .label = Harangin
     .accesskey = H
+
 permissions-session =
     .label = Payagan para sa Session
     .accesskey = S
+
 permissions-allow =
     .label = Payagan
     .accesskey = a
+
 permissions-button-off =
     .label = Patayin
     .accesskey = P
+
 permissions-button-off-temporarily =
     .label = Pansamantalang patayin
     .accesskey = P
+
 permissions-site-name =
     .label = Website
+
 permissions-status =
     .label = Kalagayan
+
 permissions-remove =
     .label = Alisin ang Website
     .accesskey = R
+
 permissions-remove-all =
     .label = Alisin ang Lahat ng mga Website
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Ang default para sa lahat ng mga website:
+
 permissions-searchbox =
     .placeholder = Maghanap ng Website
+
 permissions-capabilities-autoplay-allow =
     .label = Payagan ang Audio at Video
 permissions-capabilities-autoplay-block =
     .label = Harangin ang Audio
 permissions-capabilities-autoplay-blockall =
     .label = Harangin ang Audio at Video
+
 permissions-capabilities-allow =
     .label = Payagan
 permissions-capabilities-block =
     .label = Harangin
 permissions-capabilities-prompt =
     .label = Palaging Magtanong
+
 permissions-capabilities-listitem-allow =
     .value = Payagan
 permissions-capabilities-listitem-block =
     .value = Harangin
 permissions-capabilities-listitem-allow-session =
     .value = Payagan ang Session
+
 permissions-capabilities-listitem-off =
     .value = Nakapatay
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Maglagay ng wastong hostname
 permissions-exceptions-etp-window =
     .title = Mga Exception para sa Enhanced Tracking Protection
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Mga Exception para sa Enhanced Tracking Protection
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Isinara mo ang mga protection sa mga website n
 permissions-exceptions-cookie-window =
     .title = Mga Exception - Mga Cookie at Site Data
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Mga Exception - Mga Cookie at Site Data
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang 
 permissions-exceptions-https-only-window =
     .title = Mga Exception - HTTPS-Only Mode
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Mga Exception - HTTPS-Only Mode
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Maaari mong patayin ang HTTPS-Only Mode
 permissions-exceptions-popup-window =
     .title = Mga Website na Pinapayagan - Mga Pop-up
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Mga Website na Pinapayagan - Mga Pop-up
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Maaari mong tukuyin aling mga website ang pi
 permissions-exceptions-saved-logins-window =
     .title = Mga Exception - Mga Naka-save na Login
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Mga Exception - Mga Naka-save na Login
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod n
 permissions-exceptions-addons-window =
     .title = Mga Website na Pinapayagan - Pagkabit ng mga Add-on
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Mga Website na Pinapayagan - Pagkabit ng mga Add-on
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Maaari mong tukuyin aling mga website ang p
 permissions-site-autoplay-window =
     .title = Mga setting - Autoplay
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Mga setting - Autoplay
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Maaari mong pamahalaan ang mga site na hindi su
 permissions-site-notification-window =
     .title = Mga Setting - Mga Pahintulot sa Pag-abiso
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Mga Setting - Mga Pahintulot sa Pag-abiso
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Pipigilan nito ang mga website na w
 permissions-site-location-window =
     .title = Mga Setting - Mga Pahintulot sa Lokasyon
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Mga Setting - Mga Pahintulot sa Lokasyon
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Ito ang pipigil sa mga website na wala 
 permissions-site-xr-window =
     .title = Mga Setting - Mga Pahintulot sa Virtual Reality
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Mga Setting - Mga Pahintulot sa Virtual Reality
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Ito ang pipigil sa mga website na wala sa lis
 permissions-site-camera-window =
     .title = Mga Setting - Mga Pahintulot sa Camera
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Mga Setting - Mga Pahintulot sa Camera
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Ito ang pipigil sa mga website na wala sa
 permissions-site-microphone-window =
     .title = Mga Setting - Mga Pahintulot sa Mikropono
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Mga Setting - Mga Pahintulot sa Mikropono
     .style = { permissions-window2.style }

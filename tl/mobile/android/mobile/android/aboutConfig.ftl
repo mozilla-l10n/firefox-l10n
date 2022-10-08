@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Hanapin
 config-new-pref-name =
     .placeholder = Pangalan
+
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = String
 config-new-pref-value-integer = Integer
+
 config-new-pref-string =
     .placeholder = Magpasok ng isang string
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Kanselahan
 config-new-pref-create-button = Lumikha
 config-new-pref-change-button = Palitan
+
 config-pref-toggle-button = I-toggle
 config-pref-reset-button = I-reset
+
 config-context-menu-copy-pref-name =
     .label = Kopya ang Pangalan
 config-context-menu-copy-pref-value =

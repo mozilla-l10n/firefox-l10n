@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = Refresh { -brand-short-name }
 refresh-profile = Bigyan ng tune up ang { -brand-short-name }
 refresh-profile-button = Refresh { -brand-short-name }…
+
 refresh-profile-progress =
     .title = Refresh { -brand-short-name }
 refresh-profile-progress-description = Halos tapos na…

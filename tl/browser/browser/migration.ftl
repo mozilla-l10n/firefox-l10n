@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Import Wizard
+
 import-from =
     { PLATFORM() ->
         [windows] Mag-import ng mga Option, Bookmark, Kasaysayan, Password at iba pang data mula sa:
        *[other] I-import ang mga Kagustuhan, Bookmarks, History, Passwords atbp. mula sa:
     }
+
 import-from-bookmarks = I-angkat ang mga Bookmark mula sa:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -52,23 +54,37 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Ligtas na Browser
     .accesskey = 3
+
 no-migration-sources = Walang mahanap na application na naglalaman ng bookmark, history o password data.
+
 import-source-page-title = Mag-import ng mga Setting at Data
 import-items-page-title = Mga item na Iimport
+
 import-items-description = Pumili kung aling item ang i-import:
+
 import-permissions-page-title = Pakibigyan ng pahintulot ang { -brand-short-name }
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = Inoobliga ka ng macOS na lantarang pahintulutan ang { -brand-short-name } para ma-access ang mga bookmark sa Safari. Pindutin ang “Magpatuloy” at piliin ang file na “Bookmarks.plist” sa File Open panel na magpapakita.
+
 import-migrating-page-title = Ini-import...
+
 import-migrating-description = Ang mga sumusunod na mga bagay ay kasalukuyang inaangkat
+
 import-select-profile-page-title = Piliin ang Profile
+
 import-select-profile-description = Ang mga sumusunod na mga profile ay pweden i-import mula sa:
+
 import-done-page-title = Kumpleto na ang Pag-angkat
+
 import-done-description = Ang mga sumusunod na mga bagay ay matagumpay na naiangkat :
+
 import-close-source-browser = Siguruhing ang piniling browser ay nakasara bago magpatuloy.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Listahan ng Babasahin (Mula sa Safari)
 imported-edge-reading-list = Listahan ng Babasahin (Mula sa Edge)
 
@@ -90,6 +106,7 @@ browser-data-cookies-checkbox =
     .label = Mga cookie
 browser-data-cookies-label =
     .value = Cookies
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -102,10 +119,12 @@ browser-data-history-label =
             [firefox] Kasaysayan at mga Bookmark
            *[other] Kasaysayan
         }
+
 browser-data-formdata-checkbox =
     .label = Naka-save na Form History
 browser-data-formdata-label =
     .value = Naka-save na Form History
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -114,6 +133,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Naka-save na mga Login at Password
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -128,10 +148,12 @@ browser-data-bookmarks-label =
             [edge] Mga Favorite
            *[other] Mga Bookmark
         }
+
 browser-data-otherdata-checkbox =
     .label = Iba Pang Data
 browser-data-otherdata-label =
     .label = Iba Pang Data
+
 browser-data-session-checkbox =
     .label = Mga Window at mga tab
 browser-data-session-label =

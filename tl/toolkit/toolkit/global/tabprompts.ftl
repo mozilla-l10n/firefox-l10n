@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Pangalan ng User:
 tabmodalprompt-password =
     .value = Password:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

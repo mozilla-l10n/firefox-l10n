@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = i-save ang about:webrtc bilang
@@ -70,10 +71,12 @@ about-webrtc-type-remote = Remote
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nakatalaga
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Napili
+
 about-webrtc-save-page-label = I-save ang Pahina
 about-webrtc-debug-mode-msg-label = Mode na Pag-debug
 about-webrtc-debug-mode-off-state-label = Simulan ang Debug Mode
@@ -152,6 +155,7 @@ about-webrtc-frames =
         [one] { $frames } frame
        *[other] { $frames } frames
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -160,11 +164,13 @@ about-webrtc-channels =
         [one] { $channels } channel
        *[other] { $channels } channels
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

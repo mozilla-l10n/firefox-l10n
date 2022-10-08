@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Magdagdag ng mga Tag
+
 pocket-panel-saved-error-generic = Nagkaroon ng error nung sinusubukang I-save sa { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Limitado ang mga tag sa 25 character
 pocket-panel-saved-error-only-links = Tanging mga link lamang ay maaaring i-save
@@ -27,6 +28,7 @@ pocket-panel-saved-saving-tags = Nagsasave…
 pocket-panel-saved-suggested-tags = Iminungkahing Tanda
 pocket-panel-saved-tags-saved = Tags Naidagdag
 pocket-panel-signup-view-list = Tingnan ang Listahan
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Magdagdag ng mga Tag:
 
@@ -41,6 +43,7 @@ pocket-panel-signup-signup-firefox = Mag-sign up sa { -brand-product-name }
 pocket-panel-signup-tagline = Mag-save ng mga artikulo at video mula sa { -brand-product-name } para makita sa { -pocket-brand-name } sa anumang device, anumang oras.
 pocket-panel-signup-tagline-story-one = Pindutin ang { -pocket-brand-name } Button para ma-save ang kahit anong artikulo, video o pahina mula sa { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Tingnan sa { -pocket-brand-name } sa anumang device, anumang oras.
+
 pocket-panel-signup-cta-a-fix = Iyong save button para sa internet.
 pocket-panel-signup-cta-c = Tignan ang iyong list sa kahit na anong device at anong oras
 
@@ -52,6 +55,7 @@ pocket-panel-home-paragraph = Maaari mong gamitin ang { -pocket-brand-name } upa
 pocket-panel-home-explore-popular-topics = Saliksikin ang Mga Patok na Paksa
 pocket-panel-home-discover-more = Magtuklas Pa
 pocket-panel-home-explore-more = Magsaliksik
+
 pocket-panel-home-most-recent-saves = Narito ang iyong pinakabagong mga pag-save:
 pocket-panel-home-new-user-message = Tingnan ang iyong kamakailang pag-save dito.
 
