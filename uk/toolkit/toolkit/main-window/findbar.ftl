@@ -42,3 +42,26 @@ findbar-fast-find-links =
     .placeholder = Швидкий пошук (лише посилання)
 findbar-case-sensitive-status =
     .value = (З урахуванням регістру)
+findbar-match-diacritics-status =
+    .value = (Відповідність діакритичних знаків)
+findbar-entire-word-status =
+    .value = (лише цілі слова)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } із { $total } входження
+            [few] { $current } із { $total } входжень
+           *[many] { $current } із { $total } входжень
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Більше ніж { $limit } входження
+            [few] Більше ніж { $limit } входження
+           *[many] Більше ніж { $limit } входжень
+        }
