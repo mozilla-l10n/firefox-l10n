@@ -34,12 +34,12 @@ text-action-paste =
     .label = Incolla
     .accesskey = I
 
-text-action-paste-shortcut =
-    .key = V
-
 text-action-paste-no-formatting =
     .label = Copia senza formattazione
     .accesskey = f
+
+text-action-paste-shortcut =
+    .key = V
 
 text-action-delete =
     .label = Elimina

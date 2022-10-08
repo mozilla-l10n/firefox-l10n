@@ -111,6 +111,7 @@ policy-ExtensionSettings = Gestisci tutti gli aspetti connessi all’installazio
 policy-ExtensionUpdate = Attiva o disattiva l’aggiornamento automatico delle estensioni.
 
 policy-FirefoxHome = Configura Firefox Home.
+
 policy-FirefoxHome2 = Configura { -firefox-home-brand-name }.
 
 policy-FlashPlugin = Consenti o nega l’utilizzo del plugin Flash.

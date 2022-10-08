@@ -37,13 +37,16 @@ videocontrols-picture-in-picture-label = Picture-in-Picture
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Guarda con Picture-in-Picture
-videocontrols-picture-in-picture-toggle-label2 = Sgancia questo video
 
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Riproduci i video in primo piano mentre fai altre cose in { -brand-short-name }
+
+videocontrols-picture-in-picture-toggle-label2 = Sgancia questo video
+
 videocontrols-picture-in-picture-explainer2 = Più sono gli schermi, maggiore è il divertimento. Riproduci questo video in Picture-in-Picture mentre navighi.
+
 videocontrols-picture-in-picture-explainer3 = Più sono gli schermi, maggiore è il divertimento. Riproduci questo video mentre fai altro.
 
 videocontrols-error-aborted = Il caricamento del video è stato interrotto.
