@@ -6,10 +6,12 @@ common-dialog-title-null = Ova stranica kaže
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Nepoznato
+
 common-dialog-username =
     .value = Korisničko ime
 common-dialog-password =
     .value = Lozinka
+
 common-dialog-copy-cmd =
     .label = Kopiraj
     .accesskey = K

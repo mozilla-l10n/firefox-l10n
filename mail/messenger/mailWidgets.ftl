@@ -4,6 +4,7 @@
 
 apply-current-view-to-menu =
     .label = Primijeni trenutni prikaz na…
+
 threadpane-apply-changes-prompt-title = Primijeniti promjene?
 # Variables:
 #  $name (String): The name of the folder to apply to.
@@ -11,3 +12,4 @@ threadpane-apply-changes-prompt-no-children-text = Primjeni prikaz trenutne mape
 # Variables:
 #  $name (String): The name of the folder to apply to.
 threadpane-apply-changes-prompt-with-children-text = Primjeni prikaz trenutne mape na { $name } i podmape?
+
