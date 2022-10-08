@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Csevegés">
 <!ENTITY goChatCmd.accesskey "e">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Csillagozott üzenet">
 <!ENTITY prevStarredMsgCmd.accesskey "C">
 <!ENTITY folderMenu.label "Mappa">

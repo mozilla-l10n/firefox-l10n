@@ -106,6 +106,7 @@ tab-context-move-tabs =
            *[other] Lapok áthelyezése
         }
     .accesskey = h
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

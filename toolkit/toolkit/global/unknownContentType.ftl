@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Megnyitás a { -brand-short-name(case: "instrumental") }
     .accesskey = M
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] A beállítások a { -brand-short-name } Beállítások párbeszédpaneljén megváltoztathatók.
            *[other] A beállítások a { -brand-short-name } Beállítások párbeszédpaneljén megváltoztathatók.
         }
+
 unknowncontenttype-intro = Megnyitotta a következőt:
 unknowncontenttype-which-is = ami egy:
 unknowncontenttype-from = forrás:

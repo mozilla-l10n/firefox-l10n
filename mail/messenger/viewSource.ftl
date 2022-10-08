@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Keresés
     .accesskey = K
+
 context-text-action-find-again =
     .label = Következő keresése
     .accesskey = z
+
 text-action-find =
     .label = Keresés
     .accesskey = K
+
 text-action-find-again =
     .label = Következő keresése
     .accesskey = z

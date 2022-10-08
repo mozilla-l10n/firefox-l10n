@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Ajánlott szolgáltatás
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miért látom ezt
+
 cfr-doorhanger-extension-cancel-button = Most nem
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Hozzáadás most
     .accesskey = a
+
 cfr-doorhanger-extension-manage-settings-button = Ajánlási beállítások kezelése
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Ne mutassa ezt az ajánlást
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = További tudnivalók
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = szerző: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Javaslat
 cfr-doorhanger-extension-notification2 = Javaslat
     .tooltiptext = Kiegészítőjavaslat
     .a11y-announcement = Kiegészítőjavaslat érhető el
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Javaslat
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = További tudnivalók
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Új funkciók:
+
 cfr-whatsnew-button =
     .label = Újdonságok
     .tooltiptext = Újdonságok
+
 cfr-whatsnew-release-notes-link-text = Olvassa el a kiadási megjegyzéseket
 
 ## Enhanced Tracking Protection Milestones
@@ -156,6 +166,7 @@ spotlight-total-cookie-protection-body = A Teljes sütivédelem megakadályozza,
 spotlight-total-cookie-protection-expanded = A { -brand-short-name } kerítést épít a sütik köré, oly módon korlátozva őket, hogy a nyomkövetők ne használhassák az Ön követésére. A korai hozzáféréssel segít nekünk optimalizálni a funkciót, így egy mindenki számára jobb webet építhetünk.
 spotlight-total-cookie-protection-primary-button = A Teljes sütivédelem bekapcsolása
 spotlight-total-cookie-protection-secondary-button = Most nem
+
 cfr-total-cookie-protection-header = Önnek köszönhetően a { -brand-short-name } privátabb és biztonságosabb, mint valaha
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -189,11 +200,13 @@ spotlight-pin-secondary-button = Most nem
 
 mr2022-background-update-toast-title = Új { -brand-short-name }. Még privátabb. Kevesebb nyomkövető. Kompromisszumok nélkül.
 mr2022-background-update-toast-text = Próbálja ki most a legújabb { -brand-short-name } verziót, amely az eddigi legerősebb nyomkövetés elleni védelmünkkel rendelkezik.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = A { -brand-shorter-name } megnyitása most
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -212,6 +225,7 @@ firefoxview-cfr-body = Ezenkívül zökkenőmentesen válthat az eszközök köz
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Köszöntse a { -firefoxview-brand-name }t
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Szeretné ezt a nyitott lapot a telefonján? Vegye át. Szüksége van arra az oldalra, amelyet most látogatott meg? Puff, vissza is jött a { -firefoxview-brand-name }sel.
 firefoxview-spotlight-promo-primarybutton = Nézze meg a működését

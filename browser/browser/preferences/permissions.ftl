@@ -5,62 +5,81 @@
 permissions-window =
     .title = Kivételek
     .style = width: 55em
+
 permissions-window2 =
     .title = Kivételek
     .style = min-width: 55em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Weboldal címe
     .accesskey = o
+
 permissions-block =
     .label = Tiltás
     .accesskey = T
+
 permissions-session =
     .label = Engedélyezés a munkamenetben
     .accesskey = m
+
 permissions-allow =
     .label = Engedélyezés
     .accesskey = E
+
 permissions-button-off =
     .label = Kikapcsolás
     .accesskey = K
+
 permissions-button-off-temporarily =
     .label = Ideiglenes kikapcsolás
     .accesskey = I
+
 permissions-site-name =
     .label = Weboldal
+
 permissions-status =
     .label = Állapot
+
 permissions-remove =
     .label = Weboldal eltávolítása
     .accesskey = v
+
 permissions-remove-all =
     .label = Minden weboldal eltávolítása
     .accesskey = M
+
 permission-dialog =
     .buttonlabelaccept = Változtatások mentése
     .buttonaccesskeyaccept = V
+
 permissions-autoplay-menu = Alapértelmezés az összes webhelyhez:
+
 permissions-searchbox =
     .placeholder = Weboldal keresése
+
 permissions-capabilities-autoplay-allow =
     .label = Hang és videó engedélyezése
 permissions-capabilities-autoplay-block =
     .label = Hang blokkolása
 permissions-capabilities-autoplay-blockall =
     .label = Hang és videó blokkolása
+
 permissions-capabilities-allow =
     .label = Engedélyezés
 permissions-capabilities-block =
     .label = Tiltás
 permissions-capabilities-prompt =
     .label = Rákérdezés mindig
+
 permissions-capabilities-listitem-allow =
     .value = Engedélyezés
 permissions-capabilities-listitem-block =
     .value = Tiltás
 permissions-capabilities-listitem-allow-session =
     .value = Engedélyezés a munkamenetben
+
 permissions-capabilities-listitem-off =
     .value = Ki
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Írjon be egy érvényes gépnevet.
 permissions-exceptions-etp-window =
     .title = Kivételek a fokozott követés elleni védelemhez
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Kivételek a fokozott követés elleni védelemhez
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Ezeken a webhelyeken kikapcsolta a védelmeket
 permissions-exceptions-cookie-window =
     .title = Kivételek – Sütik és oldaladatok
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Kivételek – Sütik és oldaladatok
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Megadhatja mely webhelyek nem használhatna
 permissions-exceptions-https-only-window =
     .title = Kivételek – Csak HTTPS mód
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Kivételek – Csak HTTPS mód
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Az egyes webhelyeknél kikapcsolhatja a
 permissions-exceptions-popup-window =
     .title = Engedélyezett webhelyek – Felugró ablakok
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Engedélyezett webhelyek – Felugró ablakok
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Megadhatja azokat a webhelyeket, amelyek fel
 permissions-exceptions-saved-logins-window =
     .title = Kivételek – mentett bejelentkezések
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Kivételek – mentett bejelentkezések
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = A bejelentkezések a következő olda
 permissions-exceptions-addons-window =
     .title = Engedélyezett webhelyek – Kiegészítők telepítése
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Engedélyezett webhelyek – Kiegészítők telepítése
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Megadhatja azokat a webhelyeket, amelyekrő
 permissions-site-autoplay-window =
     .title = Beállítások – Automatikus lejátszás
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Beállítások – Automatikus lejátszás
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Itt kezelheti azokat a webhelyeket, amelyek nem
 permissions-site-notification-window =
     .title = Beállítások – Értesítési engedélyek
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Beállítások – Értesítési engedélyek
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Ez megakadályozza, hogy a fent fel
 permissions-site-location-window =
     .title = Beállítások – Tartózkodási hely engedélyek
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Beállítások – Tartózkodási hely engedélyek
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Ez megakadályozza, hogy a fent fel nem
 permissions-site-xr-window =
     .title = Beállítások – Virtuális valóság engedélyek
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Beállítások – Virtuális valóság engedélyek
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Ez megakadályozza, hogy a fent fel nem sorol
 permissions-site-camera-window =
     .title = Beállítások – Kamera engedélyek
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Beállítások – Kamera engedélyek
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem s
 permissions-site-microphone-window =
     .title = Beállítások – Mikrofon engedélyek
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Beállítások – Mikrofon engedélyek
     .style = { permissions-window2.style }
