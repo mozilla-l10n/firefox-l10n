@@ -20,3 +20,6 @@ neterror-generic-error = Pour une raison inconnue, { -brand-short-name } ne peut
 neterror-redirect-loop = La cause de ce problème peut être la désactivation ou le refus des cookies.
 neterror-unknown-socket-type-psm-installed = Vérifiez que le gestionnaire de sécurité personnelle (PSM) est installé sur votre système.
 neterror-unknown-socket-type-server-config = Ceci peut être dû à une configuration inhabituelle du serveur.
+neterror-net-offline = Cliquez sur le bouton « Réessayer » pour revenir en mode connecté et recharger la page.
+neterror-proxy-connect-failure-settings = Vérifiez que les paramètres du proxy sont corrects ;
+neterror-proxy-connect-failure-contact-admin = Contactez votre administrateur réseau pour vous assurer que le serveur proxy fonctionne.
