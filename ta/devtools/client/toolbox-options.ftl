@@ -105,8 +105,3 @@ options-context-triggers-page-refresh = * நடப்பு அமர்வி�
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = கெக்கோ தளத்திற்க்கான தரவை காட்டு
-options-show-platform-data-tooltip =
-    .title = ஒருவேளை நீங்க இந்த விருப்பத்தை இயக்கினால் ஜாவாநிரலின் விவரக்குறிப்பு அறிக்கைகள் கெக்கோ தளத்தின் சின்னங்களை உள்ளடக்கியிருக்கும்

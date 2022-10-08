@@ -173,6 +173,10 @@ search-one-offs-add-engine-menu =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =
@@ -503,3 +507,6 @@ data-reporting-notification-message = { -brand-short-name } தானாகவ�
 data-reporting-notification-button =
     .label = நான் என்ன பகிர்கிறேன் என்பதைத் தேர்வு செய்யவும்
     .accesskey = த
+
+## Unified extensions (toolbar) button
+

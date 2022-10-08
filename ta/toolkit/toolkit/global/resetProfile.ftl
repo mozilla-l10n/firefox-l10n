@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } ஐ புதுப்பி
 refresh-profile = { -brand-short-name } க்கு ஒரு தூக்கலைக் கொடுக்கவும்
 refresh-profile-button = { -brand-short-name } ஐ புதுப்பி…
+
 refresh-profile-progress =
     .title = { -brand-short-name } ஐ புதுப்பி
 refresh-profile-progress-description = ஏறக்குறைய முடிந்தது...

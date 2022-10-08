@@ -5,11 +5,6 @@
 
 <!-- File Menu -->
 
-<!ENTITY fileMenu.label                                 "கோப்பு">
-<!ENTITY fileMenu.accesskey                             "F">
-<!ENTITY newMenu.label                                  "புதிய">
-<!ENTITY newMenu.accesskey                              "N">
-
 
 
 
@@ -38,9 +33,6 @@
 
 
 <!-- Edit Menu -->
-
-<!ENTITY editMenu.label                                 "தொகு">
-<!ENTITY editMenu.accesskey                             "E">
 
 
 
@@ -209,7 +201,6 @@ because displayed names don't have the comma in between. -->
 
 <!-- Status Bar -->
 
-<!ENTITY statusText.label                               "">
 <!--  Mac OS X Window Menu -->
 
 

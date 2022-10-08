@@ -5,43 +5,57 @@
 permissions-window =
     .title = விதிவிலக்குகள்
     .style = width: 45em
+
 permissions-window2 =
     .title = விதிவிலக்குகள்
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = வலைத்தளத்தின் முகவரி
     .accesskey = d
+
 permissions-block =
     .label = தடு
     .accesskey = B
+
 permissions-session =
     .label = அமர்வுக்கு அனுமதி
     .accesskey = S
+
 permissions-allow =
     .label = அனுமதி
     .accesskey = A
+
 permissions-site-name =
     .label = வலைத்தளம்
+
 permissions-status =
     .label = நிலை
+
 permissions-remove =
     .label = வலைத்தளத்தை நீக்கு
     .accesskey = R
+
 permissions-remove-all =
     .label = அனைத்து தளங்களையும் நீக்கு
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = மாற்றங்களைச் சேமிக்கவும்
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = வலைத்தளத்தைத் தேடவும்
+
 permissions-capabilities-allow =
     .label = அனுமதி
 permissions-capabilities-block =
     .label = தடு
 permissions-capabilities-prompt =
     .label = எப்போதும் கேள்
+
 permissions-capabilities-listitem-allow =
     .value = அனுமதி
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = ஒரு சரியான புரவலன�
 permissions-exceptions-cookie-window =
     .title = விதிவிலக்குகள் - நினைவிகளும் தள தரவும்
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = விதிவிலக்குகள் - நினைவிகளும் தள தரவும்
     .style = { permissions-window2.style }
@@ -74,6 +89,7 @@ permissions-exceptions-cookie-window2 =
 permissions-exceptions-popup-window =
     .title = அனுமதிக்கப்பட்ட தளங்கள் - துள்ளல்கள்
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = அனுமதிக்கப்பட்ட தளங்கள் - துள்ளல்கள்
     .style = { permissions-window2.style }
@@ -84,6 +100,7 @@ permissions-exceptions-popup-desc = எந்த இணையதளங்கள�
 permissions-exceptions-saved-logins-window =
     .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
     .style = { permissions-window2.style }
@@ -94,6 +111,7 @@ permissions-exceptions-saved-logins-desc = பின்வரும் தளங
 permissions-exceptions-addons-window =
     .title = அனுமதிக்கப்பட்ட இணைய தளங்கள் - கூடுதல் இணைப்பு நிறுவல்
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = அனுமதிக்கப்பட்ட இணைய தளங்கள் - கூடுதல் இணைப்பு நிறுவல்
     .style = { permissions-window2.style }
@@ -107,6 +125,7 @@ permissions-exceptions-addons-desc = எந்த இணையதளங்கள
 permissions-site-notification-window =
     .title = அமைப்புகள் - அறிவிப்பு அனுமதிகள்
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = அமைப்புகள் - அறிவிப்பு அனுமதிகள்
     .style = { permissions-window2.style }
@@ -118,6 +137,7 @@ permissions-site-notification-disable-label =
 permissions-site-location-window =
     .title = அமைப்புகள் - இட அனுமதிகள்
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = அமைப்புகள் - இட அனுமதிகள்
     .style = { permissions-window2.style }
@@ -132,6 +152,7 @@ permissions-site-location-disable-label =
 permissions-site-camera-window =
     .title = அமைப்புகள் - படக்கருவி அனுமதிகள்
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = அமைப்புகள் - படக்கருவி அனுமதிகள்
     .style = { permissions-window2.style }
@@ -143,6 +164,7 @@ permissions-site-camera-disable-label =
 permissions-site-microphone-window =
     .title = அமைப்புகள் - ஒலிவாங்கி அனுமதிகள்
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = அமைப்புகள் - ஒலிவாங்கி அனுமதிகள்
     .style = { permissions-window2.style }
