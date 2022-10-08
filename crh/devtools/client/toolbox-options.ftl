@@ -126,10 +126,3 @@ options-context-triggers-page-refresh = * Faqat cari oturım, saifeni kene yükl
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Gecko platforma verilerini köster
-options-show-platform-data-tooltip =
-    .title =
-        Bu seçenekni qabilleştirseñiz JavaBitigi Profilcisi maruzaları
-        Gecko platforma remizlerini ihtiva etecek

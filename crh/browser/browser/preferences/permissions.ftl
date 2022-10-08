@@ -5,43 +5,57 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
+
 permissions-window2 =
     .title = İstisnalar
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Ağ-saytı adresi
     .accesskey = d
+
 permissions-block =
     .label = Blokla
     .accesskey = B
+
 permissions-session =
     .label = Oturım içün İzin Ber
     .accesskey = O
+
 permissions-allow =
     .label = İzin Ber
     .accesskey = z
+
 permissions-site-name =
     .label = Ağ-saytı
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Saytnı Çetleştir
     .accesskey = S
+
 permissions-remove-all =
     .label = Saytlarnıñ Episini Çetleştir
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Deñişikliklerni Saqla
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Ağ-saytı Qıdır
+
 permissions-capabilities-allow =
     .label = İzin Ber
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Er Zaman Sora
+
 permissions-capabilities-listitem-allow =
     .value = İzin Ber
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = Lütfen keçerli bir qonaqbay-ismi kirsetiñiz
 permissions-exceptions-cookie-window =
     .title = İstisnalar - Çörekler ve Sayt Verileri
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = İstisnalar - Çörekler ve Sayt Verileri
     .style = { permissions-window2.style }
@@ -75,6 +90,7 @@ permissions-exceptions-cookie-desc = Angi ağ-saytlarınınñ çöreklerni ve sa
 permissions-exceptions-popup-window =
     .title = İzin Berilgen Ağ-saytları - Peydalar
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = İzin Berilgen Ağ-saytları - Peydalar
     .style = { permissions-window2.style }
@@ -85,6 +101,7 @@ permissions-exceptions-popup-desc = Qaysı ağ-saytlarına peyda pencereler açm
 permissions-exceptions-saved-logins-window =
     .title = İstisnalar - Saqlanğan İçeri İmzalanışlar
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = İstisnalar - Saqlanğan İçeri İmzalanışlar
     .style = { permissions-window2.style }
@@ -95,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Aşağıdaki saytlar içün içeri-im
 permissions-exceptions-addons-window =
     .title = İzin Berilgen Ağ-saytları - Eklentiler Qurulımı
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = İzin Berilgen Ağ-saytları - Eklentiler Qurulımı
     .style = { permissions-window2.style }
@@ -108,6 +126,7 @@ permissions-exceptions-addons-desc = Qaysı ağ-saytlarına eklentiler qurmağa 
 permissions-site-notification-window =
     .title = Ayarlar - Tebliğler Ruhsetleri
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Ayarlar - Tebliğler Ruhsetleri
     .style = { permissions-window2.style }
@@ -121,6 +140,7 @@ permissions-site-notification-disable-desc = Bu, yuqarıda listelenmegen er angi
 permissions-site-location-window =
     .title = Ayarlar - Qonum Ruhsetleri
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Ayarlar - Qonum Ruhsetleri
     .style = { permissions-window2.style }
@@ -137,6 +157,7 @@ permissions-site-location-disable-desc = Bu, yuqarıda listelenmegen ağ-saytlar
 permissions-site-camera-window =
     .title = Ayarlar - Kamera Ruhsetleri
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Ayarlar - Kamera Ruhsetleri
     .style = { permissions-window2.style }
@@ -150,6 +171,7 @@ permissions-site-camera-disable-desc = Bu, yuqarıda listelenmegen ağ-saytları
 permissions-site-microphone-window =
     .title = Ayarlar - Mikrofon Ruhsetleri
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Ayarlar - Mikrofon Ruhsetleri
     .style = { permissions-window2.style }

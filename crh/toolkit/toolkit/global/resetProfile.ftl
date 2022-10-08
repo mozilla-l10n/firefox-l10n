@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } Tazertilsin
 refresh-profile = { -brand-short-name } kezicisine bir tadilât beriñiz
 refresh-profile-button = { -brand-short-name } Tazertilsin…
+
 refresh-profile-progress =
     .title = { -brand-short-name } Tazertilsin
 refresh-profile-progress-description = Bitmek üzre…
