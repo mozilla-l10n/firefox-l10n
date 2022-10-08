@@ -9,6 +9,7 @@ neterror-page-title = Problem sa učitavanjem stranice
 
 ## Error page actions
 
+neterror-try-again-button = Pokušaj ponovo
 
 ##
 
