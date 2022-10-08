@@ -10,3 +10,8 @@ pictureinpicture-pause =
 pictureinpicture-close =
     .aria-label = Jupa
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

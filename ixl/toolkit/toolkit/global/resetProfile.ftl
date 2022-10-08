@@ -6,3 +6,4 @@ refresh-profile-dialog-button =
     .label = B'an tuche'.{ -brand-short-name }
 refresh-profile = Pichu' unpajte.{ -brand-short-name }
 refresh-profile-button = La q'avisal tu tantimb'al{ -brand-short-name }
+
