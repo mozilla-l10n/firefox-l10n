@@ -35,3 +35,20 @@ findbar-fast-find =
     .placeholder = חיפוש מהיר
 findbar-fast-find-links =
     .placeholder = חיפוש מהיר (קישורים בלבד)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } מתוך { $total } תוצאות
+           *[other] { $current } מתוך { $total } תוצאות
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] יותר מתוצאה אחת
+           *[other] יותר מ־{ $limit } תוצאות
+        }
