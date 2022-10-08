@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Problema al cargar la página
+neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Iniciar sesión en la red
 neterror-dns-not-found-title = Servidor no encontrado
 neterror-malformed-uri-page-title = URL no válida
