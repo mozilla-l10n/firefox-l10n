@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = पृष्ठ की लोडिंग में समस्या
+certerror-page-title = खतरा: आगे संभावित सुरक्षा जोखिम है
 neterror-blocked-by-policy-page-title = ब्लॉक किया हुआ पृष्ट
 neterror-captive-portal-page-title = नेटवर्क के लिए लॉग इन करें
 neterror-dns-not-found-title = सर्वर नहीं मिला
@@ -18,6 +19,7 @@ neterror-learn-more-link = अधिक जानें…
 neterror-open-portal-login-page-button = ओपन नेटवर्क लॉगिन पृष्ठ
 neterror-pref-reset-button = तयशुदा सेटिंग्स पुरानी स्थिति में लाएं
 neterror-return-to-previous-page-button = पीछे जाएँ
+neterror-return-to-previous-page-recommended-button = पीछे जाएँ (निर्देशित)
 neterror-try-again-button = फिर कोशिश करें
 
 ##
@@ -61,3 +63,4 @@ neterror-sslv3-used = उन्नत जानकारी: SSL_ERROR_UNSUPPORT
 neterror-inadequate-security-intro = <b>{ $hostname }</b> सुरक्षा तकनीक का उपयोग करता है जो पुराना और आक्रमण हेतु भेद्य है. एक भेदी आसानी से वो सूचना प्रत्यक्ष कर सकता है जिसे आप सुरक्षित समझते हैं. वेबसाइट प्रशासक को आपके साईट देखने से पहले सर्वर ठीक करना होगा.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = त्रुटि कोड: NS_ERROR_NET_INADEQUATE_SECURITY
+certerror-what-can-you-do-about-it-title = आप इसके लिए क्या कर सकते हैं?
