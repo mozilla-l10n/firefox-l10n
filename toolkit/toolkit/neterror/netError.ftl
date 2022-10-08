@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Проблем со вчитувањето на страницата
+neterror-dns-not-found-title = Серверот не е пронајден
 
 ## Error page actions
 
@@ -20,6 +21,8 @@ neterror-generic-error = Поради некоја причина { -brand-short
 neterror-load-error-try-again = Можеби местото е привремено недостапно или зафатено. Обидете се повторно по неколку секунди.
 neterror-load-error-connection = Ако не можете да вчитате никакви страници, проверете ја мрежната врска на вашиот компјутер.
 neterror-load-error-firewall = Ако вашиот компјутер или мрежа се заштитени со огнен ѕид или посредник, проверете дали { -brand-short-name } има дозвола да пристапи на Интернет.
+neterror-dns-not-found-hint-try-again = Обидете се повторно подоцна
+neterror-dns-not-found-hint-check-network = Проверете ја вашата мрежна врска
 neterror-file-not-found-filename = Проверете дали во името има големи букви или други печатни грешки.
 neterror-file-not-found-moved = Проверете дали датотеката е преместена, преименувана или избришана.
 neterror-redirect-loop = Овој проблем некогаш може да биде предизвикан од оневозможување или одбивање на колачиња.
