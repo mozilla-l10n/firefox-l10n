@@ -7,18 +7,23 @@
 
 certerror-page-title = Обережно: Попереду ймовірна загроза безпеки
 certerror-sts-page-title = З'єднання не встановлено: Ймовірна загроза безпеки
+neterror-blocked-by-policy-page-title = Заблокована сторінка
 neterror-captive-portal-page-title = Вхід в мережу
 neterror-dns-not-found-title = Сервер не знайдено
 neterror-malformed-uri-page-title = Недійсна URL-адреса
 
 ## Error page actions
 
+neterror-advanced-button = Додатково…
 neterror-copy-to-clipboard-button = Копіювати текст у буфер обміну
 neterror-learn-more-link = Докладніше…
 neterror-open-portal-login-page-button = Відкрити сторінку входу в мережу
+neterror-override-exception-button = Погодитись на ризик і продовжити
 neterror-pref-reset-button = Відновити типові налаштування
 neterror-return-to-previous-page-button = Назад
+neterror-return-to-previous-page-recommended-button = Назад (Рекомендовано)
 neterror-try-again-button = Спробувати знову
+neterror-view-certificate-link = Переглянути сертифікат
 
 ##
 
@@ -28,13 +33,34 @@ neterror-error-reporting-automatic = Звітувати про подібні п
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } не може завантажити цю сторінку з невизначеної причини.
+neterror-load-error-try-again = Сайт може бути тимчасово недоступний, або перевантажений запитами. Спробуйте знову трохи згодом.
+neterror-load-error-connection = Якщо жодна сторінка не завантажується, перевірте з’єднання комп'ютера з Інтернетом.
+neterror-load-error-firewall = Якщо ваш комп’ютер або мережа захищені мережевим екраном чи проксі-сервером, переконайтеся, що для { -brand-short-name } дозволено доступ до Інтернету.
 neterror-captive-portal = Перш, ніж отримати доступ до Інтернету, ви повинні увійти в цю мережу.
 neterror-dns-not-found-hint-header = <strong>Якщо ви ввели правильну адресу, можна:</strong>
 neterror-dns-not-found-hint-try-again = Спробувати знову пізніше
 neterror-dns-not-found-hint-check-network = Перевірити мережеве з'єднання
 neterror-dns-not-found-hint-firewall = Перевірити чи { -brand-short-name } має дозвіл на доступ до інтернету (мережевий екран може блокувати з'єднання)
+neterror-file-not-found-filename = Перевірте правильність назви файлу, відповідність регістру та відсутність інших помилок.
+neterror-file-not-found-moved = Перевірте, чи файл не був переміщений, перейменований або видалений.
 neterror-access-denied = Він міг бути вилучений, переміщений, або дозволи файлу забороняють доступ.
+neterror-unknown-protocol = Для відкриття цієї адреси вам, можливо, доведеться встановити стороннє програмне забезпечення.
+neterror-redirect-loop = Ця проблема може виникати при вимиканні або забороні прийняття кук.
+neterror-unknown-socket-type-psm-installed = Переконайтеся, що у вашій системі встановлено Менеджер особистого захисту.
+neterror-unknown-socket-type-server-config = Можливо, це відбулося через нетипову конфігурацію сервера.
 neterror-net-offline = Натисніть «Спробувати знову» щоб перемкнутись в онлайновий режим і перезавантажити сторінку.
+neterror-proxy-resolve-failure-settings = Перевірте правильність встановлених налаштувань проксі-сервера.
+neterror-proxy-resolve-failure-connection = Перевірте з’єднання вашого комп’ютера з мережею.
+neterror-proxy-resolve-failure-firewall = Якщо ваш комп’ютер або мережа захищені мережевим екраном чи проксі-сервером — переконайтеся, що для { -brand-short-name } дозволено доступ до Інтернету.
+neterror-proxy-connect-failure-settings = Перевірте налаштування проксі-сервера і переконайтеся, що вони правильні.
+neterror-proxy-connect-failure-contact-admin = Зв’яжіться з вашим системним адміністратором і переконайтеся, що проксі-сервер працює.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } виявив ймовірну загрозу безпеки і не продовжив перехід на <b>{ $hostname }</b>. Якщо ви відвідаєте цей сайт, зловмисники можуть спробувати викрасти вашу інформацію, наприклад, паролі, електронні адреси, або дані платіжних карток.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b>, найімовірніше, є безпечним сайтом, але захищене з'єднання не вдалося встановити. Ця проблема спричинена <b>{ $mitm }</b> - програмним забезпеченням на вашому комп'ютері чи у вашій мережі.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Додаткова інформація: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -42,6 +68,21 @@ neterror-sslv3-used = Додаткова інформація: SSL_ERROR_UNSUPPO
 neterror-inadequate-security-intro = <b>{ $hostname }</b> використовує технологію безпеки, яка є застарілою і вразливою до атак. Нападник може з легкістю розкрити інформацію, яка, на вашу думку, є захищеною. Перш ніж ви зможете відвідати сайт, його адміністратор повинен виправити це на сервері.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Ваш комп'ютер вважає, що це { DATETIME($now, dateStyle: "medium") }, тому { -brand-short-name } не може встановити захищене з'єднання. Для відвідання <b>{ $hostname }</b>, оновіть системні налаштування дати, часу та часового поясу, після чого оновіть <b>{ $hostname }</b>.
+certerror-what-can-you-do-about-it-title = Як ви можете це виправити?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Найімовірніше, ця проблема стосується вебсайту, і ви не зможете її виправити.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Якщо ви використовуєте корпоративний комп'ютер, або антивірусне програмне забезпечення, ви можете зв'язатися зі службою підтримки для отримання допомоги. Ви також можете сповістити адміністратора вебсайту про цю проблему.
 certerror-bad-cert-domain-what-can-you-do-about-it = Найімовірніше, ця проблема стосується вебсайту, і ви не зможете її виправити. Ви можете сповістити адміністратора вебсайту про цю проблему.
+certerror-mitm-what-can-you-do-about-it-corporate = Якщо ви знаходитесь в корпоративній мережі, зв'яжіться зі своїм адміністратором.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Якщо ви не знайомі з <b>{ $mitm }</b>, в такому разі це могла бути атака і вам краще не переходити на цей сайт.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Якщо ви не знайомі з <b>{ $mitm }</b>, в такому разі це могла бути атака і ви нічого не зможете зробити, щоб отримати доступ до цього сайту.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> має політику безпеки, що називається HTTP Strict Transport Security (HSTS), і це означає, що { -brand-short-name } може перейти сюди лише з використанням захищеного з'єднання. Ви не можете додати виняток для відвідування цього сайту.
