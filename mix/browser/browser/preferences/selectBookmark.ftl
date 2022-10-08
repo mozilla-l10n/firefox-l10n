@@ -5,6 +5,8 @@
 select-bookmark-window =
     .title = Chika  página nu kitsau
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Chika  página nu kitsau
     .style = min-width: 32em;
+

@@ -5,8 +5,11 @@
 clear-site-data-window =
     .title = Stòo tutù
     .style = width: 35em
+
 clear-site-data-window2 =
     .title = Stòo tutù
     .style = min-width: 35em
+
 clear-site-data-close-key =
     .key = w
+

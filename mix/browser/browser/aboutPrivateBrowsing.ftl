@@ -23,3 +23,5 @@ about-private-browsing-not-private = Su ventana seé kui.
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasi
 
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+

@@ -6,3 +6,4 @@ refresh-profile-dialog-button =
     .label = Restablecer { -brand-short-name }
 refresh-profile = Kunchee { -brand-short-name }
 refresh-profile-button = Ndakitsa { -brand-short-name }…
+

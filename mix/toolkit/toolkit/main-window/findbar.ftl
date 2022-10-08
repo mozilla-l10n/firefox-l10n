@@ -26,3 +26,4 @@ findbar-entire-word =
     .label = Palabras completas
     .accesskey = w
     .tooltiptext = Buscar solo palabras completas
+

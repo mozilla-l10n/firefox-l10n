@@ -24,6 +24,7 @@
 ##
 
 autofill-address-email = Korreo
+
 autofill-cancel-button = Kunchatu
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
