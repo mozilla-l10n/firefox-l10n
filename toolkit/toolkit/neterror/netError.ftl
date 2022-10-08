@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-page-title = Праблема загрузкі старонкі
 neterror-captive-portal-page-title = Злучыцца з сеткай
 
 ## Error page actions
