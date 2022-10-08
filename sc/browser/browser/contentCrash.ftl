@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Parte de custa pàgina est faddida.</strong> Pro sinnalare custu problema a { -brand-product-name }, pro chi ddu risolvat a lestru, imbia un'informe.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Parte de custa pàgina est faddida. Pro sinnalare custu problema a { -brand-product-name }, pro chi ddu risolvat a lestru, imbia un'informe.
+crashed-subframe-learnmore-link =
+    .value = Àteras informatziones
+crashed-subframe-submit =
+    .label = Imbia informe
+    .accesskey = I
 
 ## Pending crash reports
 
