@@ -31,5 +31,31 @@ findbar-entire-word =
     .label = සමස්ත වචන
     .accesskey = w
     .tooltiptext = සම්පූර්ණ වචන පමණක් සොයන්න
+findbar-not-found = වචන හමු නොවිණි
+findbar-wrapped-to-top = පිටුවේ පතුලට ළඟා විය, මුදුනේ සිට පහළටය
+findbar-wrapped-to-bottom = පිටුවේ මුදුනට ළඟා විය, පහළ සිට ඉහළටය
 findbar-normal-find =
     .placeholder = පිටුව තුළ සොයන්න
+findbar-fast-find =
+    .placeholder = ඉක්මන් සෙවීම
+findbar-fast-find-links =
+    .placeholder = ඉක්මන් සෙවීම (සබැඳි පමණි)
+findbar-entire-word-status =
+    .value = (සමස්ත වචන පමණි)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } / { $total } ක් ගැළපෙයි
+           *[other] { $current } / { $total } ක් ගැළපෙයි
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] ගැළපීම් { $limit } කට වඩා
+           *[other] ගැළපීම් { $limit } කට වඩා
+        }
