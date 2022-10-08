@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Cari teks frasa berkenaan yang berikut
 findbar-previous =
     .tooltiptext = Cari teks frasa berkenaan yang terdahulu
-
 findbar-find-button-close =
     .tooltiptext = Tutup Bar Carian
-
 findbar-highlight-all2 =
     .label = Serlahkan Semua
     .accesskey =
@@ -21,13 +19,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Serlahkan semua frasa kejadian
-
 findbar-case-sensitive =
     .label = Huruf Sepadan
     .accesskey = p
     .tooltiptext = Cari dengan sensitiviti klausa
-
 findbar-entire-word =
     .label = Seluruh Perkataan
     .accesskey = r
     .tooltiptext = Cari perkataan penuh sahaja
+findbar-not-found = Frasa tidak ditemui
