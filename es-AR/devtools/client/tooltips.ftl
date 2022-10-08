@@ -15,23 +15,41 @@ learn-more = <span data-l10n-name="link"> Conocer más</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = <strong> { $property }</strong> no tiene ningún efecto en este elemento, ya que no es un contenedor flexible ni un contenedor de grilla.
+
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento, ya que no es un contenedor flexible, un contenedor de cuadrícula ni un contenedor multi columnas.
+
 inactive-css-not-grid-or-flex-item = <strong> { $property }</strong> no tiene ningún efecto en este elemento, ya que no es una cuadrícula ni un elemento flexible.
+
 inactive-css-not-grid-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de la cuadrícula.
+
 inactive-css-not-grid-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor de cuadrícula.
+
 inactive-css-not-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento, ya que no es un elemento flexible.
+
 inactive-css-not-flex-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento, ya que no es un contenedor flexible.
+
 inactive-css-not-inline-or-tablecell = <strong> { $property }</strong> no tiene ningún efecto en este elemento, ya que no es un elemento en línea o de celda de tabla.
+
 inactive-css-property-because-of-display = <strong>{ $property }</strong> no tiene efecto en este elemento, ya que tiene una visualización de <strong>{ $display }</strong>.
+
 inactive-css-not-display-block-on-floated = El motor cambió el valor de <strong>visualización</strong> a <strong>bloque</strong> porque el elemento está <strong>flotando</strong>.
+
 inactive-css-property-is-impossible-to-override-in-visited = Es imposible anular <strong>{ $property }</strong> debido a la restricción <strong>:visitada </strong>.
+
 inactive-css-position-property-on-unpositioned-box = <strong> { $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado.
+
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> no tiene efecto en este elemento porque <strong>overflow:hidden</strong> no está establecido.
+
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> no tiene efecto en elementos internos de la tabla.
+
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> no tiene efecto en elementos internos de la tabla excepto en celdas de la tabla.
+
 inactive-css-not-table = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de la cuadrícula.
+
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no se desplaza.
+
 inactive-css-border-image = <strong>{ $property }</strong> no tiene efecto en este elemento porque no se puede aplicar a los elementos de la tabla interna donde <strong>border-collapse</strong> tiene el valor <strong>collapse</strong> en el elemento de la tabla principal.
+
 inactive-css-ruby-element = <strong>{ $property }</strong> no tiene efecto en este elemento ya que es un elemento ruby. Su tamaño está determinado por el tamaño de fuente del texto rubí.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -39,23 +57,41 @@ inactive-css-ruby-element = <strong>{ $property }</strong> no tiene efecto en es
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Intente agregar <strong>display:grid</strong> o <strong>display:flex</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Intente agregando <strong> display: grid </strong>, <strong> display: flex </strong> o <strong> columnas: 2 </strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-item-fix-3 = Pruebe agregar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
+
 inactive-css-not-grid-item-fix-2 = Pruebe agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del item. { learn-more }
+
 inactive-css-not-grid-container-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-css-not-flex-item-fix-2 = Pruebe agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
+
 inactive-css-not-flex-container-fix = Intente agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-inline-or-tablecell-fix = Intente agregar <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Pruebe agregar <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pruebe agregar <strong>display:inline-block</strong>. { learn-more }
+
 inactive-css-not-display-block-on-floated-fix = Intente eliminar <strong>flotante</strong> o agregue<strong> display:block </strong>. { learn-more }
+
 inactive-css-position-property-on-unpositioned-box-fix = Intente establecer la propiedad de<strong> posición </strong> en algo más que <strong>la estática </strong>. { learn-more }
+
 inactive-text-overflow-when-no-overflow-fix = Intente agregar <strong>overflow:hidden</strong>. { learn-more }
+
 inactive-css-not-for-internal-table-elements-fix = Pruebe  configurar su propiedad <strong>display</strong> a algo diferente de <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
+
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pruebe establecer su propiedad <strong>mostrar</strong> a algo diferente de<strong>tabla-columna</strong>, <strong>table-fila</strong>, <strong>table-de gupo de-columnas</strong>, <strong>tabla-de grupo de-filas</strong> o <strong>tabla de grupo de pies de página</strong>. { learn-more }
+
 inactive-css-not-table-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-scroll-padding-when-not-scroll-container-fix = Intente agregar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
+
 inactive-css-border-image-fix = En el elemento de la tabla principal, se debe eliminar la propiedad o cambiar el valor de <strong>border-collapse</strong> a un valor que no sea <strong>collapse</strong>. { learn-more }
+
 inactive-css-ruby-element-fix = Intente cambiar el <strong>tamaño de fuente</strong> del texto rubí. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
@@ -66,10 +102,17 @@ inactive-css-ruby-element-fix = Intente cambiar el <strong>tamaño de fuente</st
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> no está soportado en los siguientes navegadores:
+
 css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> fue una propiedad experimental que ahora es obsoleta según los estándares de W3C. No está soportada en los siguientes navegadores:
+
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> fue una propiedad experimental que ahora es obsoleta según los estándares de W3C.
+
 css-compatibility-deprecated-message = <strong>{ $property }</strong> es obsoleto según los estándares de W3C. No está soportado en los siguientes navegadores:
+
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> es obsoleto según los estándares de W3C.
+
 css-compatibility-experimental-message = <strong>{ $property }</strong> es una propiedad experimental. No está soportada en los siguientes navegadores:
+
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> es una propiedad experimental.
+
 css-compatibility-learn-more-message = <span data-l10n-name="link">Conocer más</span> sobre <strong>{ $rootProperty }</strong>
