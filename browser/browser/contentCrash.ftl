@@ -8,6 +8,9 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message = Bạn có { $reportCount } bản báo cáo lỗi chưa gửi
 pending-crash-reports-view-all =
     .label = Xem
 pending-crash-reports-send =
