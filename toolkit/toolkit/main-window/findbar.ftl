@@ -26,3 +26,20 @@ findbar-fast-find-links =
     .placeholder = ଶୀଘ୍ର ସନ୍ଧାନ (କେବଳ ସଂଯୋଗିକୀଗୁଡ଼ିକ)
 findbar-case-sensitive-status =
     .value = (ଅକ୍ଷର ନିର୍ଦ୍ଦିଷ୍ଟ)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $total } ମେଳକରୁ { $current }
+           *[other] { $total } ଟି ମେଳକରୁ { $current }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } ମେଳକରୁ ଅଧିକ
+           *[other] { " " }{ $limit } ମେଳକରୁ ଅଧିକ
+        }
