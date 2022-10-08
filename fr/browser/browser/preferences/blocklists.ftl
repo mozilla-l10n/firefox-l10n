@@ -5,17 +5,23 @@
 blocklist-window =
     .title = Listes de blocage
     .style = width: 66em
+
 blocklist-window2 =
     .title = Listes de blocage
     .style = min-width: 66em
+
 blocklist-description = Choisissez quelle liste { -brand-short-name } utilise pour bloquer les traqueurs en ligne. Les listes proviennent de <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Liste
+
 blocklist-dialog =
     .buttonlabelaccept = Enregistrer les modifications
     .buttonaccesskeyaccept = E
+
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -24,6 +30,7 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+
 blocklist-item-moz-std-listName = Liste de blocage de niveau 1 (recommandé).
 blocklist-item-moz-std-description = Autorise certains traqueurs pour que moins de sites dysfonctionnent.
 blocklist-item-moz-full-listName = Liste de blocage de niveau 2.

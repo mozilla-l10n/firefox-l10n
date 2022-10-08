@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Messagerie instantanée">
 <!ENTITY goChatCmd.accesskey "s">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Message suivi">
 <!ENTITY prevStarredMsgCmd.accesskey "v">
 <!ENTITY folderMenu.label "Dossier">

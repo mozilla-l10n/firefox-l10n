@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "p">
 <!ENTITY productHelp.label "Aide de &brandShortName;">
 <!ENTITY productHelp.accesskey "e">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">
