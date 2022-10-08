@@ -38,3 +38,5 @@ findbar-fast-find-links =
     .placeholder = Klask herrek (ereoù nemetken)
 findbar-case-sensitive-status =
     .value = (Doujañs d'ar bennlizherenn)
+findbar-entire-word-status =
+    .value = (Gerioù a-bezh hepken)
