@@ -34,3 +34,26 @@ findbar-entire-word =
 findbar-not-found = Szukany tekst nie został odnaleziony.
 findbar-wrapped-to-top = Koniec strony. Wyszukiwanie od początku.
 findbar-wrapped-to-bottom = Początek strony. Wyszukiwanie od końca.
+findbar-case-sensitive-status =
+    .value = (z rozróżnianiem wielkości liter)
+findbar-entire-word-status =
+    .value = (tylko całe słowa)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Jedyne trafienie
+            [few] { $current }. z { $total } trafień
+           *[many] { $current }. z { $total } trafień
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Więcej niż jedno trafienie
+            [few] Więcej niż { $limit } trafienia
+           *[many] Więcej niż { $limit } trafień
+        }
