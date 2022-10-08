@@ -88,8 +88,3 @@ options-enable-remote-label = দূৰৱৰ্তী ডিবাগিং স
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * কে‌ৱল বৰ্তমান অধিবেশন, পৃষ্ঠা পুনৰ ল'ড কৰে
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Gecko প্লেটফৰ্ম তথ্য দেখুৱাওক
-options-show-platform-data-tooltip =
-    .title = যদি আপুনি এই বিকল্প সামৰ্থবান কৰে JavaScript আলেখ্যক সংবাদসমূহে Gecko প্লেটফৰ্ম চিহ্নসমূহ অন্তৰ্ভুক্ত কৰিব

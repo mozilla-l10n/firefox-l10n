@@ -9,6 +9,7 @@ refresh-profile-dialog-description = কাৰ্য্যকাৰিতাৰ 
 refresh-profile = { -brand-short-name } ক টিউন আপ কৰক
 refresh-profile-button = { -brand-short-name } সতেজ কৰক…
 refresh-profile-learn-more = অধিক জানক
+
 refresh-profile-progress =
     .title = { -brand-short-name } সতেজ কৰক
 refresh-profile-progress-description = প্ৰায় সম্পূৰ্ণ…

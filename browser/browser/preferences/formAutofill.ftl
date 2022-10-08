@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = সাঁচি থোৱা ঠিকনাসমূহ
 autofill-manage-addresses-list-header = ঠিকনাসমূহ
+
 autofill-manage-credit-cards-title = সাঁচি থোৱা ক্ৰেডিট কাৰ্ডসমূহ
 autofill-manage-credit-cards-list-header = ক্ৰেডিট কাৰ্ডসমূহ
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = আঁতৰাওক
@@ -21,6 +23,7 @@ autofill-manage-edit-button = সম্পাদন কৰক…
 autofill-add-new-address-title = নতুন ঠিকনা যোগ কৰক
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ঠিকনা সম্পাদনা কৰক
+
 autofill-address-given-name = প্ৰথম নাম
 autofill-address-additional-name = মাজৰ নাম
 autofill-address-family-name = শেষৰ নাম
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = দেশ বা অঞ্চল
 autofill-address-tel = ফোন
 autofill-address-email = ইমেইল
+
 autofill-cancel-button = বাতিল কৰক
 autofill-save-button = সাঁচি থওক
 autofill-country-warning-message = প্ৰ-পত্ৰ স্বয়ং-পূৰণ বৰ্তমান কেৱল কিছুমান দেশত উপলব্ধ।
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = নতুন ক্ৰেডিট কাৰ্ড যোগ কৰক
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ক্ৰেডিট কাৰ্ড সম্পাদনা কৰক
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name }-এ ক্ৰেডিট কাৰ্ডৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে। তলৰ এই উইণ্ড'জ একাউণ্টত প্ৰৱেশাধিকাৰ নিশ্চিত কৰক।
        *[other] { -brand-short-name }-এ ক্ৰেডিট কাৰ্ডৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে।
     }
+
 autofill-card-number = কাৰ্ড নম্বৰ
 autofill-card-invalid-number = অনুগ্ৰহ কৰি এটা বৈধ কাৰ্ড নম্বৰ প্ৰবিষ্ট কৰক
 autofill-card-name-on-card = কাৰ্ডত নাম
