@@ -5,8 +5,10 @@
 app-manager-window-dialog =
     .title = Alkalmazás részletei
     .style = width: 30em; min-height: 20em;
+
 app-manager-window-dialog2 =
     .title = Alkalmazás részletei
+
 remove-app-button =
     .label = Eltávolítás
     .accesskey = E

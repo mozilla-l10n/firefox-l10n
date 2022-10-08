@@ -43,7 +43,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Puffer mérete:
+
 perftools-custom-threads-label = Egyéni szálak hozzáadása név szerint:
+
 perftools-devtools-interval-label = Intervallum:
 perftools-devtools-threads-label = Szálak:
 perftools-devtools-settings-label = Beállítások
@@ -113,6 +115,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = A fenti kiválasztások megkerülése, és az összes regisztrált szál rögzítése
+
 perftools-tools-threads-input-label =
     .title = Az itt felsorolt szálnevek vesszővel elválasztott listája a profilozóban a szálak profilozásának engedélyezésére szolgál. A szál már nevének részleges egyezése esetén is hozzáadásra kerül. A mező szóközökre érzékeny.
 
@@ -120,6 +123,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Új</b>: A { -profiler-brand-name } mostantól a Fejlesztői eszközökbe integrált. <a>Tudjon meg többet</a> erről a hatékony új eszközről.
+
 perftools-onboarding-close-button =
     .aria-label = A bemutató üzenet bezárása
 
@@ -132,17 +136,23 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Webfejlesztő
 perftools-presets-web-developer-description = Ajánlott előbeállítás a legtöbb webalkalmazás hibakereséséhez, alacsony pluszköltséggel.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Javasolt előbeállítás a { -brand-shorter-name } profilozásához.
+
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Előbeállítás a { -brand-shorter-name } grafikai hibák kivizsgálásához.
+
 perftools-presets-media-label = Média
 perftools-presets-media-description2 = Előbeállítás a { -brand-shorter-name } hang- és videóhibáinak kivizsgálásához.
+
 perftools-presets-networking-label = Hálózat
 perftools-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energiagazdálkodás
 perftools-presets-power-description = Előbeállítás a { -brand-shorter-name } energiagazdálkodási hibáinak kivizsgálásához, alacsony többletfogyasztással.
+
 perftools-presets-custom-label = Egyéni
 
 ##

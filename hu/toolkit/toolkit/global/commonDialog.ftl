@@ -6,10 +6,12 @@ common-dialog-title-null = Az oldal a következőket mondja:
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Ismeretlen
+
 common-dialog-username =
     .value = Felhasználónév
 common-dialog-password =
     .value = Jelszó
+
 common-dialog-copy-cmd =
     .label = Másolás
     .accesskey = M

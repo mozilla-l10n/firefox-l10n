@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Kezdje frissen a teljesítményproblémák 
 refresh-profile = Tuningolja a { -brand-short-name } böngészőt
 refresh-profile-button = { -brand-short-name } felfrissítése…
 refresh-profile-learn-more = További tudnivalók
+
 refresh-profile-progress =
     .title = { -brand-short-name } felfrissítése
 refresh-profile-progress-description = Majdnem kész…

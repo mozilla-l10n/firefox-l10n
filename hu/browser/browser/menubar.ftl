@@ -38,9 +38,11 @@ menu-quit =
             [windows] K
            *[other] K
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kilépés a { -brand-shorter-name }ból
+
 menu-about =
     .label = A { -brand-shorter-name } névjegye
     .accesskey = A

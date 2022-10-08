@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Következő
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Megértettem!
 
@@ -12,13 +13,20 @@ callout-primary-complete-button-label = Megértettem!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Váltson az eszközök között a lapok átvételével
+
 callout-firefox-view-tab-pickup-subtitle = Gyorsan ragadja meg a nyitott lapokat a telefonjáról, és nyissa meg őket a maximális flow élmény érdekében.
+
 callout-firefox-view-recently-closed-title = Állítsa vissza a bezárt lapjait egy pillanat alatt
+
 callout-firefox-view-recently-closed-subtitle = Az összes bezárt lapja varázsütésre megjelenik itt. Sose aggódjon, ha véletlenül bezár egy webhelyet.
+
 callout-firefox-view-colorways-title = Adjon hozzá egy kis színt
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Válasszon egy Önhöz passzoló színvilágot. Csak a { -brand-product-name }ban.
+
 callout-firefox-view-colorways-reminder-title = Fedezze fel a legújabb színvilágainkat
+
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Színezze böngészőjét ezekkel az ikonikus árnyalatokkal, amelyeket független hangok ihlettek. Csak a { -brand-product-name }ban.
 
@@ -28,5 +36,7 @@ callout-firefox-view-colorways-reminder-subtitle = Színezze böngészőjét eze
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Tuningolja fel a böngészését a lapok átvételével
+
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Érje el bármelyik eszközéről a nyitott lapjait. Továbbá szinkronizálja könyvjelzőit, jelszavait és egyebeit.
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kezdő lépések

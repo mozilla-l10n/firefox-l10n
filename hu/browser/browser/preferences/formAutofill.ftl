@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Mentett címek
 autofill-manage-addresses-list-header = Címek
+
 autofill-manage-credit-cards-title = Mentett bankkártyák
 autofill-manage-credit-cards-list-header = Bankkártyák
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Eltávolítás
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Szerkesztés…
 autofill-add-new-address-title = Új cím hozzáadása
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Cím szerkesztése
+
 autofill-address-given-name = Utónév
 autofill-address-additional-name = Egyéb név
 autofill-address-family-name = Vezetéknév
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Ország vagy régió
 autofill-address-tel = Telefonszám
 autofill-address-email = E-mail
+
 autofill-cancel-button = Mégse
 autofill-save-button = Mentés
 autofill-country-warning-message = Az űrlapkitöltés jelenleg csak egyes országbeli címekre érhető el.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Új bankkártya hozzáadása
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Bankkártya szerkesztése
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni. Erősítse meg a hozzáférést az alábbi Windows-fiókhoz.
        *[other] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni.
     }
+
 autofill-card-number = Kártyaszám
 autofill-card-invalid-number = Írjon be érvényes kártyaszámot
 autofill-card-name-on-card = Kártyán szereplő név
