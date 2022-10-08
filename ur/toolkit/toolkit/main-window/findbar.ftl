@@ -32,3 +32,20 @@ findbar-wrapped-to-top = صفحہ کے اختتام پر پہنچ گیا، او�
 findbar-wrapped-to-bottom = صفحہ کے شروع پر پہنچ گیا، نیچے سے جاری کیا
 findbar-normal-find =
     .placeholder = صفحہ میں ڈھونڈیں
+findbar-fast-find =
+    .placeholder = فوری تلاش کریں
+findbar-fast-find-links =
+    .placeholder = فوری تلاش کریں (صرف روابط)
+findbar-case-sensitive-status =
+    .value = (کیس حساس)
+findbar-entire-word-status =
+    .value = ( پورے الفاظ صرف)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $total } میں سے { $current } مشابہ کرتا ہے
+           *[other] { $total } میں سے { $current } مشابہ کرتا ہے
+        }
