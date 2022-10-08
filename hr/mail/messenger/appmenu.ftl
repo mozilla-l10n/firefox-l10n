@@ -3,15 +3,31 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+## New Account / Address Book
+
+## Create
+
+## Open
+
 ## View / Layout
 
 appmenu-font-size-value = Veličina fonta
+
 appmenuitem-font-size-enlarge =
     .tooltiptext = Povećaj veličinu fonta
+
 appmenuitem-font-size-reduce =
     .tooltiptext = Smanji veličinu fonta
+
 # Variables:
 # $size (String) - The current font size.
 appmenuitem-font-size-reset =
     .label = { $size }px
     .tooltiptext = Vrati veličinu fonta na početno
+
+## Tools
+
+## Help
+

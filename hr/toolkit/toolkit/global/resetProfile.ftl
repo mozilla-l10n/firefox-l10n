@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Počni iznova za rješavanje problema s per
 refresh-profile = Podesi { -brand-short-name }
 refresh-profile-button = Osvježi { -brand-short-name } …
 refresh-profile-learn-more = Saznaj više
+
 refresh-profile-progress =
     .title = Osvježi { -brand-short-name }
 refresh-profile-progress-description = Uskoro gotovo…

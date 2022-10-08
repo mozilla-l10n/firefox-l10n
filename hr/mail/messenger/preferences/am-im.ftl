@@ -4,8 +4,10 @@
 
 account-settings-title = Postavke autentifikacije
 account-channel-title = Zadani kanali
+
 chat-autologin =
     .label = Prijavi se prilikom pokretanja
+
 chat-encryption-generic = Općenito
 chat-encryption-log =
     .label = Uključi obostrano šifrirane poruke u zapis razgovora
