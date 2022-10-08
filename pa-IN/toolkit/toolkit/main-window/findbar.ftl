@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = ਤੁਰੰਤ ਲੱਭੋ (ਕੇਵਲ ਲਿੰਕ)
 findbar-case-sensitive-status =
     .value = (ਅੱਖਰ ਆਕਾਰ ਲਈ ਸੰਵੇਦਨਸ਼ੀਲ)
+findbar-match-diacritics-status =
+    .value = (ਮਿਲਦੇ ਭੇਦਸੂਚਕ)
 findbar-entire-word-status =
     .value = (ਕੇਵਲ  ਪੂਰੇ ਸ਼ਬਦ)
 # Variables:
