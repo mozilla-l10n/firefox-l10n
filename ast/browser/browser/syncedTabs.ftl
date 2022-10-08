@@ -11,6 +11,13 @@ synced-tabs-sidebar-tabsnotsyncing = Activa la sincronización de llingüetes pa
 synced-tabs-sidebar-connect-another-device = Conectar otru preséu
 synced-tabs-sidebar-search =
     .placeholder = Buscar llingüetes sincronizaes
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Abrir
     .accesskey = A
@@ -26,6 +33,9 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Amestar esta llingüeta a Marcadores…
     .accesskey = M
+
+##
+
 synced-tabs-context-copy =
     .label = Copiar
     .accesskey = C

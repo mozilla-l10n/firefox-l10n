@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = Axustes del contenedor «{ $name }»
     .style = width: 45em
+
 containers-window-new2 =
     .title = Amiestu d'un contenedor nuevu
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Axustes del contenedor «{ $name }»
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nome
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Introduz el nome del contenedor
+
 containers-icon-label = Iconu
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Color
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Fecho
     .buttonaccesskeyaccept = F
+
 containers-color-blue =
     .label = Azul
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Moráu
 containers-color-toolbar =
     .label = Concasar cola barra de ferramientes
+
 containers-icon-fence =
     .label = Valla
 containers-icon-fingerprint =
