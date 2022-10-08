@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } ಪುನ:ಶ್ಚೇತನಗೊಳಿಸು
 refresh-profile = { -brand-short-name } ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ
 refresh-profile-button = { -brand-short-name } ಪುನ:ಶ್ಚೇತನಗೊಳಿಸು…
+
 refresh-profile-progress =
     .title = { -brand-short-name } ಅನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡು
 refresh-profile-progress-description = ಇನ್ನೇನು ಆಯ್ತು…
