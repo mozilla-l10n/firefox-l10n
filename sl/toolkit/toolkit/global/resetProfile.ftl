@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Začnite znova in odpravite težave z učin
 refresh-profile = Opravite čiščenje { -brand-short-name(sklon: "rodilnik") }
 refresh-profile-button = Osveži { -brand-short-name } …
 refresh-profile-learn-more = Več o tem
+
 refresh-profile-progress =
     .title = Osvežite { -brand-short-name }
 refresh-profile-progress-description = Samo še malo …

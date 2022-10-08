@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Dnevniški moduli varnega brskanja
 url-classifier-debug-modules = Trenutni dnevniški moduli
 url-classifier-debug-sbjs-modules = Dnevnik JS varnega brskanja
 url-classifier-debug-file = Trenutna dnevniška datoteka
+
 url-classifier-trigger-update = Sproži posodobitev
 url-classifier-not-available = Ni določeno
 url-classifier-disable-sbjs-log = Onemogoči dnevnik JS varnega brskanja

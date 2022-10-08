@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Nastavitve
     .accesskey = t
+
 menu-addons-and-themes =
     .label = Dodatki in teme
     .accesskey = D
@@ -20,39 +21,51 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Pomoč
     .accesskey = m
+
 menu-help-get-help =
     .label = Poiščite pomoč
     .accesskey = P
+
 menu-help-explore-features =
     .label = Raziščite možnosti
     .accesskey = š
+
 menu-help-shortcuts =
     .label = Bližnjice na tipkovnici
     .accesskey = ž
+
 menu-help-get-involved =
     .label = Pridružite se
     .accesskey = u
+
 menu-help-donation =
     .label = Donirajte
     .accesskey = D
+
 menu-help-share-feedback =
     .label = Sporočite ideje in povratne informacije
     .accesskey = S
+
 menu-help-enter-troubleshoot-mode =
     .label = Način za odpravljanje težav …
     .accesskey = r
+
 menu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
     .accesskey = I
+
 menu-help-more-troubleshooting-info =
     .label = Več podatkov za odpravljanje težav
     .accesskey = V
+
 menu-help-troubleshooting-info =
     .label = Podatki za odpravljanje težav
     .accesskey = a
+
 menu-help-about-product =
     .label = O { -brand-short-name(sklon: "mestnik") }
     .accesskey = O
+
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -65,9 +78,11 @@ menu-quit =
             [windows] h
            *[other] h
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Izhod iz { -brand-shorter-name(sklon: "rodilnik") }
+
 quit-app-shortcut =
     .key = h
 
@@ -97,33 +112,43 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Velikost pisave
     .accesskey = o
+
 menuitem-font-size-enlarge =
     .label = Povečaj velikost pisave
     .accesskey = v
+
 menuitem-font-size-reduce =
     .label = Zmanjšaj velikost pisave
     .accesskey = m
+
 menuitem-font-size-reset =
     .label = Ponastavi velikost pisave
     .accesskey = n
+
 mail-uidensity-label =
     .label = Gostota
     .accesskey = G
+
 mail-uidensity-compact =
     .label = Strnjeno
     .accesskey = S
+
 mail-uidensity-normal =
     .label = Običajno
     .accesskey = O
+
 mail-uidensity-touch =
     .label = Dotik
     .accesskey = D
+
 mail-uidensity-default =
     .label = Privzeto
     .accesskey = P
+
 mail-uidensity-relaxed =
     .label = Razmaknjeno
     .accesskey = R
+
 menu-spaces-toolbar-button =
     .label = Vrstica komponent
     .accesskey = k

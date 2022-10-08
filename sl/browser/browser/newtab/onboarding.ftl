@@ -41,6 +41,7 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Napredek: korak { $current } od { $total }
+
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -51,11 +52,13 @@ onboarding-welcome-steps-indicator2 =
 mr1-welcome-screen-hero-text =
     Kjer se vse
     začenja
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – oblikovalka pohištva, ljubiteljica Firefoxa
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Izklopi animacije
 
@@ -81,9 +84,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Začni
+
 mr1-onboarding-welcome-header = Dobrodošli v { -brand-short-name(sklon: "mestnik") }
 mr1-onboarding-set-default-pin-primary-button-label = Nastavi { -brand-short-name } kot moj glavni brskalnik
     .title = Nastavi { -brand-short-name } kot privzeti brskalnik in ga pripni v opravilno vrstico
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Nastavi { -brand-short-name } kot privzet brskalnik
@@ -101,13 +106,16 @@ mr1-onboarding-default-primary-button-label = Nastavi kot privzeti brskalnik
 
 mr1-onboarding-import-header = Prinesite vse s seboj
 mr1-onboarding-import-subtitle = Uvozite svoja gesla, zaznamke<br/>in druge podatke.
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Uvozi iz brskalnika { $previous }
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Uvozi iz prejšnjega brskalnika
 mr1-onboarding-import-secondary-button-label = Ne zdaj
+
 mr2-onboarding-colorway-header = Barvito življenje
 mr2-onboarding-colorway-subtitle = Živahne nove barvne kombinacije. Le še kratek čas.
 mr2-onboarding-colorway-primary-button-label = Shrani barvno kombinacijo
@@ -117,20 +125,26 @@ mr2-onboarding-colorway-label-balanced = Uravnotežena
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Drzna
+
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Samodejno
+
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Privzeta
+
 mr1-onboarding-theme-header = Uredite ga po svoje
 mr1-onboarding-theme-subtitle = Prilagodite svoj { -brand-short-name } s temo.
 mr1-onboarding-theme-primary-button-label = Shrani temo
 mr1-onboarding-theme-secondary-button-label = Ne zdaj
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Sistemska tema
+
 mr1-onboarding-theme-label-light = Svetla
 mr1-onboarding-theme-label-dark = Temna
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Končano
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -143,61 +157,74 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Sledi temi operacijskega sistema
         za gumbe, menije in okna.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Sledi temi operacijskega sistema
         za gumbe, menije in okna.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Uporabi svetlo temo za gumbe,
         menije in okna.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Uporabi svetlo temo za gumbe,
         menije in okna.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Uporabi temno temo za gumbe,
         menije in okna.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Uporabi temno temo za gumbe,
         menije in okna.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Uporabi energično, barvito temo za
         gumbe, menije in okna.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Uporabi energično, barvito temo za
         gumbe, menije in okna.
+
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Uporabi to barvno kombinacijo.
+
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Uporabi to barvno kombinacijo.
+
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Raziščite barvne kombinacije za { $colorwayName }.
+
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Raziščite barvne kombinacije za { $colorwayName }.
+
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Raziščite privzete teme.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Raziščite privzete teme.
 
@@ -225,13 +252,18 @@ mr2-onboarding-start-browsing-button-label = Začnite z brskanjem
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Izberite svoj jezik
+
 mr2022-onboarding-live-language-text = { -brand-short-name } govori vaš jezik
+
 mr2022-language-mismatch-subtitle = Zahvaljujoč naši skupnosti je { -brand-short-name } preveden v več kot 90 jezikov. Videti je, da vaš sistem uporablja jezik { $systemLanguage }, { -brand-short-name } pa jezik { $appLanguage }.
+
 onboarding-live-language-button-label-downloading = Prenašanje jezikovnega paketa za jezik { $negotiatedLanguage } …
 onboarding-live-language-waiting-button = Pridobivanje razpoložljivih jezikov …
 onboarding-live-language-installing = Nameščanje jezikovnega paketa za jezik { $negotiatedLanguage } …
+
 mr2022-onboarding-live-language-switch-to = Preklopi na jezik { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Nadaljuj v jeziku { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Prekliči
 onboarding-live-language-skip-button-label = Preskoči
 
@@ -253,12 +285,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Obdrži { -brand-short-name } v Docku
        *[other] Pripni { -brand-short-name } v opravilno vrstico
     }
+
 fx100-upgrade-thanks-header = 100-krat hvala
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = To je 100. izdaja { -brand-short-name(sklon: "rodilnik") }. <em>Hvala</em>, ker z nami ustvarjate boljši in bolj zdrav internet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = To je naša 100. izdaja! Hvala, ker ste del naše skupnosti. Pripnite si { -brand-short-name } na doseg roke za naslednjih 100.
+
 mr2022-onboarding-secondary-skip-button-label = Preskoči ta korak
 
 ## MR2022 New User Pin Firefox screen strings
@@ -327,42 +361,49 @@ mr2022-onboarding-colorway-subtitle = Neodvisni glasovi lahko spreminjajo kultur
 mr2022-onboarding-colorway-primary-button-label = Nastavi barvno kombinacijo
 mr2022-onboarding-colorway-primary-button-label-continue = Nastavi in nadaljuj
 mr2022-onboarding-existing-colorway-checkbox-label = Naj bo { -firefox-home-brand-name } vaša barvita domača stran
+
 mr2022-onboarding-colorway-label-default = Privzeta
 mr2022-onboarding-colorway-tooltip-default =
     .title = Privzeta
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Trenutne barve { -brand-short-name(sklon: "rodilnik") }
 mr2022-onboarding-colorway-description-default = <b>Uporabi moje trenutne barve { -brand-short-name(sklon: "rodilnik") }.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Organizator igre
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Organizator igre
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Organizator igre (rdeča)
 mr2022-onboarding-colorway-description-playmaker = <b>Ste organizator igre.</b> Ustvarjate priložnosti za zmago in vsem okoli sebe pomagate igrati bolje.
+
 mr2022-onboarding-colorway-label-expressionist = Ekspresionist
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Ekspresionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresionist (rumena)
 mr2022-onboarding-colorway-description-expressionist = <b>Ste ekspresionist.</b> Svet vidite drugače in vaše stvaritve pri drugih vzbujajo čustva.
+
 mr2022-onboarding-colorway-label-visionary = Vizionar
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Vizionar
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Vizionar (zelena)
 mr2022-onboarding-colorway-description-visionary = <b>Ste vizionar.</b> Ne sprijaznite se s statusom quo in drugim predstavljate boljšo prihodnost.
+
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (modra)
 mr2022-onboarding-colorway-description-activist = <b>Ste aktivist.</b> Svet pustite boljši, kot ste ga našli, in prepričate druge, da verjamejo.
+
 mr2022-onboarding-colorway-label-dreamer = Sanjač
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Sanjač
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sanjač (vijolična)
 mr2022-onboarding-colorway-description-dreamer = <b>Ste sanjač.</b> Verjamete, da je sreča naklonjena hrabrim, in drugim vlivate pogum.
+
 mr2022-onboarding-colorway-label-innovator = Inovator
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Inovator

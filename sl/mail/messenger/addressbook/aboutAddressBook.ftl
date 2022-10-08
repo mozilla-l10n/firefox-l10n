@@ -24,6 +24,7 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Vsi imeniki
 all-address-books = Vsi imeniki
+
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -31,6 +32,7 @@ about-addressbook-card-count = Skupaj stikov v imeniku { $name }: { $count }
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = Skupaj stikov v vseh imenikih: { $count }
+
 about-addressbook-books-context-properties =
     .label = Lastnosti
 about-addressbook-books-context-edit-list =
@@ -49,6 +51,7 @@ about-addressbook-books-context-remove =
     .label = Odstrani
 about-addressbook-books-context-startup-default =
     .label = Privzeta zagonska mapa
+
 about-addressbook-confirm-delete-book-title = Izbriši imenik
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -66,14 +69,17 @@ about-addressbook-search =
     .placeholder = Išči v imeniku { $name }
 about-addressbook-search-all =
     .placeholder = Išči v vseh imenikih
+
 about-addressbook-sort-button2 =
     .title = Možnosti prikaza seznama
+
 about-addressbook-name-format-display =
     .label = Prikazno ime
 about-addressbook-name-format-firstlast =
     .label = Ime Priimek
 about-addressbook-name-format-lastfirst =
     .label = Priimek, Ime
+
 about-addressbook-sort-name-ascending =
     .label = Razvrsti po imenu (A > Ž)
 about-addressbook-sort-name-descending =
@@ -82,6 +88,7 @@ about-addressbook-sort-email-ascending =
     .label = Razvrsti po e-poštnem naslovu (A > Ž)
 about-addressbook-sort-email-descending =
     .label = Razvrsti po e-poštnem naslovu (Ž > A)
+
 about-addressbook-horizontal-layout =
     .label = Preklopi na vodoravno postavitev
 about-addressbook-vertical-layout =
@@ -117,8 +124,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Imenik
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = Sestavi
+
 about-addressbook-confirm-delete-mixed-title = Izbriši stike in sezname
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -202,19 +211,27 @@ about-addressbook-selection-contacts-header = { $count } izbranih stikov
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = { $count } izbranih seznamov
+
 about-addressbook-details-edit-photo =
     .title = Uredi fotografijo stika
+
 about-addressbook-new-contact-header = Nov stik
+
 about-addressbook-prefer-display-name = Daj prednost prikazanemu imenu namesto glavi sporočila
+
 about-addressbook-write-action-button = Piši
 about-addressbook-event-action-button = Dogodek
 about-addressbook-search-action-button = Išči
+
 about-addressbook-new-list-action-button = Nov seznam
+
 about-addressbook-begin-edit-contact-button = Uredi
 about-addressbook-delete-edit-contact-button = Izbriši
 about-addressbook-cancel-edit-contact-button = Prekliči
 about-addressbook-save-edit-contact-button = Shrani
+
 about-addressbook-add-contact-to = Dodaj v:
+
 about-addressbook-details-email-addresses-header = E-poštni naslovi
 about-addressbook-details-phone-numbers-header = Telefonske številke
 about-addressbook-details-addresses-header = Naslovi
@@ -222,12 +239,14 @@ about-addressbook-details-notes-header = Opombe
 about-addressbook-details-impp-header = Neposredno sporočanje
 about-addressbook-details-websites-header = Spletne strani
 about-addressbook-details-other-info-header = Drugi podatki
+
 about-addressbook-entry-type-work = Služba
 about-addressbook-entry-type-home = Doma
 about-addressbook-entry-type-fax = Faks
 # Or "Mobile"
 about-addressbook-entry-type-cell = Mobilni
 about-addressbook-entry-type-pager = Pozivnik
+
 about-addressbook-entry-name-birthday = Rojstni dan
 about-addressbook-entry-name-anniversary = Obletnica
 about-addressbook-entry-name-title = Naziv
@@ -235,10 +254,12 @@ about-addressbook-entry-name-role = Funkcija
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Spletno mesto
 about-addressbook-entry-name-time-zone = Časovni pas
+
 about-addressbook-entry-name-custom1 = Po meri 1
 about-addressbook-entry-name-custom2 = Po meri 2
 about-addressbook-entry-name-custom3 = Po meri 3
 about-addressbook-entry-name-custom4 = Po meri 4
+
 about-addressbook-unsaved-changes-prompt-title = Neshranjene spremembe
 about-addressbook-unsaved-changes-prompt = Ali želite shraniti spremembe, preden zapustite pogled za urejanje?
 
@@ -248,6 +269,7 @@ about-addressbook-photo-drop-target = Tukaj spustite ali prilepite fotografijo a
 about-addressbook-photo-drop-loading = Nalaganje fotografije …
 about-addressbook-photo-drop-error = Fotografije ni bilo mogoče naložiti.
 about-addressbook-photo-filepicker-title = Izberi slikovno datoteko
+
 about-addressbook-photo-discard = Zavrzi obstoječo fotografijo
 about-addressbook-photo-cancel = Prekliči
 about-addressbook-photo-save = Shrani

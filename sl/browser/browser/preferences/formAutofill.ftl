@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Shranjeni naslovi
 autofill-manage-addresses-list-header = Naslovi
+
 autofill-manage-credit-cards-title = Shranjene kreditne kartice
 autofill-manage-credit-cards-list-header = Kreditne kartice
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Odstrani
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Uredi …
 autofill-add-new-address-title = Dodaj nov naslov
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Uredi naslov
+
 autofill-address-given-name = Ime
 autofill-address-additional-name = Srednje ime
 autofill-address-family-name = Priimek
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Država ali območje
 autofill-address-tel = Telefon
 autofill-address-email = E-pošta
+
 autofill-cancel-button = Prekliči
 autofill-save-button = Shrani
 autofill-country-warning-message = Samodejno izpolnjevanje obrazcev je trenutno na voljo samo v nekaterih državah.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Dodaj novo kreditno kartico
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Uredi kreditno kartico
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } poskuša prikazati podatke o kreditni kartici. Spodaj potrdite dostop do tega računa Windows.
        *[other] { -brand-short-name } poskuša prikazati podatke o kreditni kartici.
     }
+
 autofill-card-number = Številka kartice
 autofill-card-invalid-number = Vnesite veljavno številko kartice
 autofill-card-name-on-card = Ime na kartici
