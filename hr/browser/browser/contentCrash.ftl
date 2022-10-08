@@ -5,6 +5,12 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Dio ove stranice se srušio.</strong> Da bi { -brand-product-name } znao za ovu grešku i ispravio je, pošalji izvješće.
+crashed-subframe-learnmore-link =
+    .value = Saznaj više
+crashed-subframe-submit =
+    .label = Pošalji izvješće
+    .accesskey = P
 
 ## Pending crash reports
 
