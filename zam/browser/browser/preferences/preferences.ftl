@@ -5,11 +5,14 @@
 pane-general-title = Ree ta koo taak niel
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-search-title = KwàɁn
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = TòɁw
 
@@ -36,6 +39,7 @@ restart-later = Bí~rè là kíy sé rá
 ## General Section
 
 startup-header = Tòlô
+
 tabs-group-header = Loo yib
 
 ## General Section - Language & Appearance
@@ -43,10 +47,13 @@ tabs-group-header = Loo yib
 advanced-fonts =
     .label = Thus kuey...
     .accesskey = T
+
 choose-language-description = Toob dizh koo lash lu lab luu lo Firefox
+
 choose-button =
     .label = Mxhen na...
     .accesskey = M
+
 translate-web-pages =
     .label = Zè díʔz lô ré
     .accesskey = r
@@ -54,8 +61,10 @@ translate-web-pages =
 ## General Section - Files and Applications
 
 download-header = Ko Blaál
+
 download-save-where = Loo xhog kue
     .accesskey = h
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -67,27 +76,34 @@ download-choose-folder =
             [macos] M
            *[other] i
         }
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Yêtz { $extension }
 applications-action-save =
     .label = Loo xhog ga
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Lii xhin { $app-name }
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Lii xhin { $app-name } (koo toob luu)
+
 applications-use-other =
     .label = Lii xhin taa diif va...
+
 applications-manage-app =
     .label = Xha mud nak kue...
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -99,14 +115,19 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -143,6 +164,7 @@ use-current-pages =
            *[other] Mxhen le loo ree
         }
     .accesskey = e
+
 choose-bookmark =
     .label = Mxhen ko ka dohs do lahs na...
     .accesskey = k
@@ -184,6 +206,7 @@ sync-signedin-login-failure = -taɁ lélù { $email }
 sync-engine-bookmarks =
     .label = Ndó~làz=ná
     .accesskey = z
+
 sync-engine-history =
     .label = Ree koo güil
     .accesskey = o
@@ -211,15 +234,19 @@ history-remember-option-never =
     .label = Na loot lu re kuan güin
 history-remember-option-custom =
     .label = Tak thus kuey ree koo de güil
+
 history-private-browsing-permanent =
     .label = Lii xhin navegación privada
     .accesskey = i
+
 history-remember-search-option =
     .label = Ne loot kuan güin ner mko key lo yets
     .accesskey = m
+
 history-clear-on-close-option =
     .label = Te dont koo güuin ce { -brand-short-name } tog lo kue
     .accesskey = T
+
 history-clear-on-close-settings =
     .label = Tak thus kuey como lash luuy...
     .accesskey = T
@@ -251,6 +278,7 @@ addressbar-locbar-bookmarks-option =
 permissions-block-popups =
     .label = Naa güit loo taa maas loo
     .accesskey = N
+
 permissions-addon-exceptions =
     .label = Koo tak toob luu...
     .accesskey = K

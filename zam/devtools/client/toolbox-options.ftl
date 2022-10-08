@@ -38,6 +38,3 @@ options-disable-javascript-label = Disable JavaScript *
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Mb-lòɁ Gecko platform data

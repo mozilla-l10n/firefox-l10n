@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = KwàɁn
 config-new-pref-name =
     .placeholder = Xha mud leel
+
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = Xís
 config-new-pref-value-integer = Reta
+
 config-new-pref-string =
     .placeholder = Blú xís
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = B-láɁ=y
 config-new-pref-create-button = Thus kuey
 config-new-pref-change-button = Xéy
+
 config-pref-toggle-button = Xéy
 config-pref-reset-button = Mtetey
+
 config-context-menu-copy-pref-name =
     .label = Lí chop lél
 config-context-menu-copy-pref-value =

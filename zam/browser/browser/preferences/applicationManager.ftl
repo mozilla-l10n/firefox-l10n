@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Xha mud nak firefox
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Xha mud nak firefox
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Tee doont naa
     .accesskey = T
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Kue tak lii xhin luuy koon { $type } Taa más koo güil loo internet.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Kue tak lii xhin luuy koon { $type } koo lahs luu güil.

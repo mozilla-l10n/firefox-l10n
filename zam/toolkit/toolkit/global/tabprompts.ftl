@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Xha mud leel:
 tabmodalprompt-password =
     .value = Taa dizh koo luut ta ne:
+
 tabmodalprompt-ok-button =
     .label = Bliy
 tabmodalprompt-cancel-button =

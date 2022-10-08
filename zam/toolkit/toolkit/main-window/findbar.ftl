@@ -7,3 +7,4 @@
 
 findbar-normal-find =
     .placeholder = GòzăɁl lô ré
+
