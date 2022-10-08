@@ -40,3 +40,26 @@ findbar-case-sensitive-status =
     .value = (Doujañs d'ar bennlizherenn)
 findbar-entire-word-status =
     .value = (Gerioù a-bezh hepken)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Kenglotadenn { $current } eus { $total }
+            [two] Kenglotadenn { $current } eus { $total }
+            [few] Kenglotadenn { $current } eus { $total }
+            [many] Kenglotadenn { $current } eus { $total }
+           *[other] Kenglotadenn { $current } eus { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Muioc'h eget { $limit } c'henglotadur
+            [two] Muioc'h eget { $limit } genglotadur
+            [few] Muioc'h eget { $limit } c'henglotadur
+            [many] Muioc'h eget { $limit } a genglotadurioù
+           *[other] Muioc'h eget { $limit } kenglotadur
+        }
