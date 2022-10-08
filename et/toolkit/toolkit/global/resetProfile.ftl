@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Jõudlusprobleemide lahendamiseks alusta uu
 refresh-profile = Alusta { -brand-short-name }iga puhtalt lehelt
 refresh-profile-button = Värskenda { -brand-short-name }…
 refresh-profile-learn-more = Rohkem teavet
+
 refresh-profile-progress =
     .title = { -brand-short-name }i värskendamine
 refresh-profile-progress-description = Peaaegu valmis…

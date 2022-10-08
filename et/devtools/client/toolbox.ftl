@@ -33,3 +33,5 @@ toolbox-meatball-menu-pseudo-locale-bidi = Enable “bidi” locale
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

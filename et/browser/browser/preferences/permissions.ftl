@@ -5,62 +5,81 @@
 permissions-window =
     .title = Erandid
     .style = width: 36em
+
 permissions-window2 =
     .title = Erandid
     .style = min-width: 36em
+
 permissions-close-key =
     .key = W
+
 permissions-address = Saidi aadress
     .accesskey = a
+
 permissions-block =
     .label = Bloki
     .accesskey = B
+
 permissions-session =
     .label = Luba selleks seansiks
     .accesskey = s
+
 permissions-allow =
     .label = Luba
     .accesskey = a
+
 permissions-button-off =
     .label = Lülita välja
     .accesskey = L
+
 permissions-button-off-temporarily =
     .label = Lülita ajutiselt välja
     .accesskey = j
+
 permissions-site-name =
     .label = Sait
+
 permissions-status =
     .label = Olek
+
 permissions-remove =
     .label = Eemalda sait
     .accesskey = E
+
 permissions-remove-all =
     .label = Eemalda kõik saidid
     .accesskey = k
+
 permission-dialog =
     .buttonlabelaccept = Salvesta muudatused
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Vaikeväärtus kõigi saitide jaoks:
+
 permissions-searchbox =
     .placeholder = Otsi saiti
+
 permissions-capabilities-autoplay-allow =
     .label = heli ja video lubatakse
 permissions-capabilities-autoplay-block =
     .label = heli blokitakse
 permissions-capabilities-autoplay-blockall =
     .label = heli ja video blokitakse
+
 permissions-capabilities-allow =
     .label = Lubatud
 permissions-capabilities-block =
     .label = Blokitud
 permissions-capabilities-prompt =
     .label = Alati küsitakse
+
 permissions-capabilities-listitem-allow =
     .value = Lubatud
 permissions-capabilities-listitem-block =
     .value = Blokitud
 permissions-capabilities-listitem-allow-session =
     .value = Lubatud seansi jooksul
+
 permissions-capabilities-listitem-off =
     .value = Väljas
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Palun sisesta korrektne masinanimi
 permissions-exceptions-etp-window =
     .title = Erandid - täiustatud jälitamisvastane kaitse
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Erandid - täiustatud jälitamisvastane kaitse
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Kaitse on järgnevatel saitidel välja lülita
 permissions-exceptions-cookie-window =
     .title = Erandid - küpsised ja saidi andmed
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Erandid - küpsised ja saidi andmed
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Siin saad määrata, millistel saitidel on 
 permissions-exceptions-https-only-window =
     .title = HTTPS-režiim - erandid
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = HTTPS-režiim - erandid
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Kindlate saitide puhul on võimalik HTT
 permissions-exceptions-popup-window =
     .title = Lubatud saidid - hüpikaknad
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Lubatud saidid - hüpikaknad
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Sa võid määrata, millistel veebilehtedel 
 permissions-exceptions-saved-logins-window =
     .title = Erandid - Salvestatud kasutajakontod
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Erandid - Salvestatud kasutajakontod
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Järgnevate saitide kasutajakontosid 
 permissions-exceptions-addons-window =
     .title = Lubatud saidid - lisade paigaldamine
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Lubatud saidid - lisade paigaldamine
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Sa võid määrata, millistel veebilehtedel
 permissions-site-autoplay-window =
     .title = Sätted - automaatne esitamine
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Sätted - automaatne esitamine
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Siin saad määrata, millised saidid ei järgi 
 permissions-site-notification-window =
     .title = Sätted - teavituste õigused
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Sätted - teavituste õigused
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = See takistab kõigil ülal mitte v�
 permissions-site-location-window =
     .title = Sätted - asukoha õigused
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Sätted - asukoha õigused
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = See takistab kõigil ülal mitte välja
 permissions-site-xr-window =
     .title = Sätted - virtuaalreaalsuse õigused
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Sätted - virtuaalreaalsuse õigused
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = See takistab kõigil ülal mitte välja toodu
 permissions-site-camera-window =
     .title = Sätted - kaamera õigused
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Sätted - kaamera õigused
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = See takistab kõigil ülal mitte välja t
 permissions-site-microphone-window =
     .title = Sätted - mikrofoni õigused
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Sätted - mikrofoni õigused
     .style = { permissions-window2.style }
