@@ -6,7 +6,9 @@
 ## Error page titles
 
 neterror-page-title = صفحہ لوڈ کرنے میں مسلہ
+neterror-blocked-by-policy-page-title = بلاک شدہ صفحہ
 neterror-captive-portal-page-title = نیٹ ورک میں لاگ ان کریں
+neterror-dns-not-found-title = پیش کار نہیں ملا
 
 ## Error page actions
 
