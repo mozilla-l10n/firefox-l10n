@@ -29,11 +29,11 @@
 
 -brand-shorter-name = Firefox
 -brand-short-name = Firefox
+-brand-shortcut-name = Firefox
+
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ଏବଂ Firefox ପ୍ରତୀକଗୁଡ଼ିକ Mozilla ଅନୁଷ୍ଠାନର ବାଣିଜ୍ୟିକ ଚିହ୍ନ ଅଟେ।
--brand-shortcut-name = Firefox
-

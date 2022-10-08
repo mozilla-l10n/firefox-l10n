@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
     .style = width: 46em
+
 download-cert-window2 =
     .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
     .style = min-width: 46em

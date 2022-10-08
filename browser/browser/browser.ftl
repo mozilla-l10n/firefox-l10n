@@ -186,6 +186,10 @@ search-one-offs-context-set-as-default-private =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 
@@ -386,3 +390,6 @@ data-reporting-notification-message = { -brand-short-name } ସ୍ୱୟଂଚ�
 data-reporting-notification-button =
     .label = ମୁଁ ଯାହା ସହଭାଗ କରିଛି ତାହାକୁ ବାଛନ୍ତୁ
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
