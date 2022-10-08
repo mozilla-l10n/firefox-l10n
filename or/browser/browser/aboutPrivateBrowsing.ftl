@@ -18,3 +18,5 @@ about-private-browsing-search-banner-title = ଗୋପନୀୟ ୱିଣ୍ଡ�
 about-private-browsing-search-banner-close-button =
     .aria-label = ବନ୍ଦ କରନ୍ତୁ
 
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
