@@ -12,8 +12,23 @@ crashed-subframe-title =
     .title = Časť tejto stránky zlyhala. Ak chcete, aby sa autori aplikácie { -brand-product-name } dozvedeli o tomto probléme a tento mohol byť rýchlejšie vyriešený, prosím, odošlite hlásenie.
 crashed-subframe-learnmore-link =
     .value = Ďalšie informácie
+crashed-subframe-submit =
+    .label = Odoslať hlásenie
+    .accesskey = h
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Máte neodoslané hlásenie o páde
+        [few] Máte { $reportCount } neodoslané hlásenia o páde
+       *[other] Máte { $reportCount } neodoslaných hlásení o páde
+    }
 pending-crash-reports-view-all =
     .label = Zobraziť
+pending-crash-reports-send =
+    .label = Odoslať
+pending-crash-reports-always-send =
+    .label = Vždy odoslať
