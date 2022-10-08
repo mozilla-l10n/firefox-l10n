@@ -61,6 +61,10 @@ neterror-proxy-resolve-failure-connection = Проверьте работу со
 neterror-proxy-resolve-failure-firewall = Если ваш компьютер или сеть защищены межсетевым экраном или прокси-сервером – убедитесь, что { -brand-short-name } разрешён выход в Интернет.
 neterror-proxy-connect-failure-settings = Проверьте настройки прокси-сервера и убедитесь, что они верны.
 neterror-proxy-connect-failure-contact-admin = Свяжитесь с вашим системным администратором и убедитесь, что прокси-сервер работает.
+neterror-content-encoding-error = Пожалуйста, свяжитесь с владельцами веб-сайта и сообщите им об этой проблеме.
+neterror-unsafe-content-type = Пожалуйста, свяжитесь с владельцами веб-сайта и сообщите им об этой проблеме.
+neterror-nss-failure-not-verified = Страница, которую вы пытаетесь просмотреть, не может быть отображена, так как достоверность полученных данных не может быть проверена.
+neterror-nss-failure-contact-website = Пожалуйста, свяжитесь с владельцами веб-сайта и сообщите им об этой проблеме.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } обнаружил вероятную угрозу безопасности и не стал открывать <b>{ $hostname }</b>. Если вы посетите этот сайт, злоумышленники могут попытаться похитить вашу информацию, такую как пароли, адреса электронной почты или данные банковских карт.
@@ -74,6 +78,8 @@ certerror-expired-cert-intro = { -brand-short-name } обнаружил веро
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b>, вероятно, является безопасным сайтом, но защищённое соединение не может быть установлено. Эта проблема вызвана <b>{ $mitm }</b>, программным обеспечением на вашем компьютере или в вашей сети.
+neterror-corrupted-content-intro = Страница, которую вы пытаетесь просмотреть, не может быть показана, так как была обнаружена ошибка при передаче данных.
+neterror-corrupted-content-contact-website = Пожалуйста, свяжитесь с владельцами веб-сайта и сообщите им об этой проблеме.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Дополнительная информация: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -85,6 +91,8 @@ neterror-inadequate-security-code = Код ошибки: NS_ERROR_NET_INADEQUATE
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Ваш компьютер считает, что текущее время — { DATETIME($now, dateStyle: "medium") }, что не даёт { -brand-short-name } установить защищённое соединение. Чтобы посетить <b>{ $hostname }</b>, укажите в компьютерных часах в настройках системы текущую дату, время и часовой пояс, а затем перезагрузите <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Страница, которую вы пытаетесь просмотреть, не может быть показана, так как была обнаружена ошибка в сетевом протоколе.
+neterror-network-protocol-error-contact-website = Пожалуйста, свяжитесь с владельцами веб-сайта и сообщите им об этой проблеме.
 certerror-expired-cert-second-para = Вероятно, сертификат веб-сайта истёк, что не даёт { -brand-short-name } установить защищённое соединение. Если вы посетите этот сайт, злоумышленники могут попытаться похитить вашу информацию, такую как пароли, адреса электронной почты или данные банковских карт.
 certerror-expired-cert-sts-second-para = Вероятно, сертификат веб-сайта истёк, что не даёт { -brand-short-name } установить защищённое соединение.
 certerror-what-can-you-do-about-it-title = Как вы можете это исправить?
