@@ -7,6 +7,7 @@
 
 neterror-page-title = Problema ao carregar página
 certerror-page-title = Aviso: Potencial risco de segurança à frente
+certerror-sts-page-title = Não se ligou: potencial problema de segurança
 neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Iniciar sessão na rede
 neterror-dns-not-found-title = Servidor não encontrado
@@ -44,26 +45,58 @@ neterror-unknown-protocol = Pode precisar de instalar outro programa para abrir 
 neterror-redirect-loop = Este problema pode, por vezes, ser causado por desativar ou recusar aceitar cookies.
 neterror-unknown-socket-type-psm-installed = Verifique se o seu sistema tem o Personal Security Manager instalado.
 neterror-unknown-socket-type-server-config = Isto pode ser causado por uma configuração não comum no servidor.
+neterror-not-cached-intro = O documento solicitado não está disponível na cache do { -brand-short-name }.
+neterror-not-cached-sensitive = Como medida de segurança, o { -brand-short-name } não solicita novamente e de forma automática documentos sensíveis.
+neterror-not-cached-try-again = Clique em Tentar novamente para solicitar novamente o documento do site.
 neterror-net-offline = Pressione “Tentar novamente” para trocar para o modo online e recarregar a página.
 neterror-proxy-resolve-failure-settings = Verifique se as definições do proxy estão corretas.
 neterror-proxy-resolve-failure-connection = Verifique se o seu computador tem uma ligação de rede ativa.
 neterror-proxy-resolve-failure-firewall = Se o seu computador ou rede estiverem protegidos por uma firewall ou um proxy, verifique se o { -brand-short-name } tem permissão de acesso à Web.
 neterror-proxy-connect-failure-settings = Verifique as definições do proxy.
 neterror-proxy-connect-failure-contact-admin = Contacte o administrador de rede para ter a certeza de que o servidor proxy está a funcionar.
+neterror-content-encoding-error = Por favor, contacte os proprietários do site para os informar deste problema.
+neterror-unsafe-content-type = Por favor, contacte os proprietários do site para os informar deste problema.
+neterror-nss-failure-not-verified = A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.
+neterror-nss-failure-contact-website = Por favor, contacte os proprietários do site para os informar deste problema.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = O { -brand-short-name } detetou um potencial risco de segurança e não continuou para <b>{ $hostname }</b>. Se visitar este site, atacantes podem tentar furtar informação como palavras-passe, emails, ou detalhes de cartão de crédito.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = O { -brand-short-name } detetou uma potencial ameaça de segurança e não continuou para <b>{ $hostname }</b> porque este site requer uma ligação segura.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = O { -brand-short-name } detetou um problema e não continuou para <b>{ $hostname }</b>. O site está mal configurado ou o relógio do computador está definido para a hora errada.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> é provavelmente um site seguro, mas uma ligação segura não pôde ser estabelecida. O problema é causado por <b>{ $mitm }</b>, que é um software no seu computador ou rede.
+neterror-corrupted-content-intro = A página que está a tentar ver não pode ser mostrada porque foi detetado um erro na transmissão de dados.
+neterror-corrupted-content-contact-website = Por favor contacte os proprietários do site para os informar sobre este problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Informação avançada: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> utiliza tecnologia de segurança que está desatualizada e vulnerável a ataques. Um atacante pode facilmente revelar a informação que você achou que estaria segura. O administrador do site necessita de corrigir o problema no servidor antes de poder visitar o site.
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = O seu computador pensa que são { DATETIME($now, dateStyle: "medium") }, o que impede que o { -brand-short-name } se ligue corretamente. Para visitar <b>{ $hostname }</b>, atualize o relógio do seu computador nas suas definições de sistema para a data, hora, e fuso horário corretos, e depois atualize <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = A página que está a tentar ver não pode ser mostrada porque um erro de protocolo de rede foi detetado.
+neterror-network-protocol-error-contact-website = Por favor contacte os proprietários do site para os informar sobre este problema.
+certerror-expired-cert-second-para = É provável que o certificado do site tenha expirado, o que impede o { -brand-short-name } de se ligar com segurança. Se visitar este site, atacantes podem tentar furtar informação como as suas palavras-passe, emails, ou detalhes de cartões de crédito.
+certerror-expired-cert-sts-second-para = É provável que o certificado do site tenha expirado, o que impede o { -brand-short-name } de se ligar com segurança.
 certerror-what-can-you-do-about-it-title = O que pode fazer quanto a isto?
+certerror-unknown-issuer-what-can-you-do-about-it-website = O mais provável é que o problema seja do site e não há nada que possa fazer para o resolver.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Se está numa rede empresarial ou a utilizar software de anti-vírus, pode entrar em contacto com as equipas de apoio para assistência. Pode também notificar o administrador do site sobre o problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = O relógio do seu computador está definido para { DATETIME($now, dateStyle: "medium") }. Certifique-se que o seu computador está definido para a data, hora e fuso horário corretos nas suas definições de sistema, e depois atualize <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Se o seu relógio já está definido para a hora correta, o site deve estar mal configurado e não há nada que possa fazer para resolver o problema. Pode notificar o administrador do site sobre o problema.
+certerror-bad-cert-domain-what-can-you-do-about-it = O mais provável é que o problema seja do site e não há nada que possa fazer para o resolver. Pode notificar o administrador do site sobre o problema.
 certerror-mitm-what-can-you-do-about-it-antivirus = Se o seu software antivírus inclui uma funcionalidade que verifica ligações encriptadas (geralmente chamado “verificação da web” ou “verificação de https”), pode desativar essa funcionalidade. Se isso não funcionar, pode remover ou reinstalar o software antivírus.
 certerror-mitm-what-can-you-do-about-it-corporate = Se está uma rede corporativa, pode contactar o seu departamento de TI.
 # Variables:
