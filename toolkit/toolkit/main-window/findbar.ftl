@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = મહાવરાનો આગળનો વારો શોધો
 findbar-previous =
     .tooltiptext = મહાવરાનો પાછળનો વારો શોધો
-
 findbar-find-button-close =
     .tooltiptext = શોધ પટ્ટી બંધ કરો
-
 findbar-highlight-all2 =
     .label = બધા પ્રકાશિત કરો
     .accesskey =
@@ -21,13 +19,16 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = શબ્દસમૂહની બધી ઘટનાઓ પ્રકાશિત કરો
-
 findbar-case-sensitive =
     .label = કેસ સરખાવો
     .accesskey = c
     .tooltiptext = કેસ સંવેદનશીલતાથી શોધો
-
 findbar-entire-word =
     .label = આખા શબ્દો
     .accesskey = w
     .tooltiptext = ફક્ત સંપૂર્ણ શબ્દો શોધો
+findbar-not-found = મહાવરો મળ્યો નહિં
+findbar-wrapped-to-top = પાનાંના અંતે પહોંચી ગયા, ટોચથી ચાલુ રાખેલ
+findbar-wrapped-to-bottom = પાનાંની ટોચે પહોંચી ગયા, તળિયેથી ચાલુ રાખેલ
+findbar-case-sensitive-status =
+    .value = (કેસ પ્રત્યે સંવેદનશીલ)
