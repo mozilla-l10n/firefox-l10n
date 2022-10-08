@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Problema al cargar la página
+certerror-page-title = Advertencia: riesgo potencial de seguridad a continuación
 neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Iniciar sesión en la red
 neterror-dns-not-found-title = Servidor no encontrado
@@ -18,6 +19,7 @@ neterror-learn-more-link = Más información…
 neterror-open-portal-login-page-button = Abrir página de inicio de sesión en la red
 neterror-pref-reset-button = Restablecer configuración predeterminada
 neterror-return-to-previous-page-button = Ir atrás
+neterror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 neterror-try-again-button = Reintentar
 
 ##
@@ -61,3 +63,19 @@ neterror-sslv3-used = Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> usa tecnología de seguridad que está obsoleta y es vulnerable a ataques. Un atacante podría revelar fácilmente información que usted pensaría que es segura. El administrador del sitio web tendrá que corregir el problema antes de que se pueda visitar el sitio.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Código de error: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Su equipo piensa que la fecha y hora es { DATETIME($now, dateStyle: "medium") }, lo que evita que { -brand-short-name } se conecte de forma segura. Para visitar <b>{ $hostname }</b>, actualice el reloj de su equipo en los ajustes de su sistema a la fecha y hora actuales, y la zona horaria apropiada, y luego refresque <b>{ $hostname }</b>.
+certerror-what-can-you-do-about-it-title = ¿Qué puede hacer al respecto?
+certerror-unknown-issuer-what-can-you-do-about-it-website = El problema está probablemente en el sitio web, y no hay nada que pueda hacer para resolverlo.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si está en una red corporativa o utilizando un antivirus, puede ponerse en contacto con el equipo de asistencia para obtener ayuda. También puede notificar el problema al administrador del sitio web.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = El reloj de su equipo está establecido en { DATETIME($now, dateStyle: "medium") }. Asegúrese de que su equipo está configurado, en los ajustes del sistema, en la fecha y hora correctas, así como la zona horaria apropiada, y luego refresque <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Si su equipo ya está configurado en la hora correcta, entonces lo más probable es que el sitio web esté mal configurado, y no hay nada que pueda hacer para resolver el problema. Puede avisar al administrador del sitio web sobre el problema.
+certerror-bad-cert-domain-what-can-you-do-about-it = Lo más probable es que el problema sea con el sitio web, y no hay nada que pueda hacer para resolverlo. Puede notificar el problema al administrador del sitio web.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tiene una política de seguridad llamada HTTP Strict Transport Security (HSTS), que significa que { -brand-short-name } solo puede conectarse a él de forma segura. No puede añadir una excepción para visitar este sitio.
