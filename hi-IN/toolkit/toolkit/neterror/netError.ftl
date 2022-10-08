@@ -8,6 +8,8 @@
 neterror-page-title = पृष्ठ की लोडिंग में समस्या
 neterror-blocked-by-policy-page-title = ब्लॉक किया हुआ पृष्ट
 neterror-captive-portal-page-title = नेटवर्क के लिए लॉग इन करें
+neterror-dns-not-found-title = सर्वर नहीं मिला
+neterror-malformed-uri-page-title = अवैध URL
 
 ## Error page actions
 
