@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Snel zoeken (alleen koppelingen)
 findbar-case-sensitive-status =
     .value = (Hoofdlettergevoelig)
+findbar-match-diacritics-status =
+    .value = (Overeenkomende diakritische tekens)
 findbar-entire-word-status =
     .value = (Alleen hele woorden)
 # Variables:
