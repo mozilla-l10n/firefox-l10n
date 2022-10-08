@@ -31,3 +31,6 @@ findbar-entire-word =
     .label = সম্পূর্ণ শব্দ
     .accesskey = W
     .tooltiptext = শুধুমাত্র সম্পূর্ণ শব্দ অনুসন্ধান করুন
+findbar-not-found = বাক্যাংশ পাওয়া যায়নি
+findbar-case-sensitive-status =
+    .value = (অক্ষরের ছাঁদ সংবেদনশীল)
