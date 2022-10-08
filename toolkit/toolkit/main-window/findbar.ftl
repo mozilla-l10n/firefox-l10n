@@ -41,6 +41,15 @@ findbar-case-sensitive-status =
 findbar-entire-word-status =
     .value = (শুধুমাত্র সম্পূর্ণ শব্দ)
 # Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $total } এর { $current } মিলেছে
+           *[other] { $total } এর { $current } মিলেছে
+        }
+# Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
     .value =
