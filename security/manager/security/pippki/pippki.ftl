@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = சான்றிதழ் பதிவிறக்கம் செய்யப்படுகிறது
     .style = width: 46em
+
 download-cert-window2 =
     .title = சான்றிதழ் பதிவிறக்கம் செய்யப்படுகிறது
     .style = min-width: 46em
