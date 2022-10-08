@@ -124,6 +124,8 @@ about-processes-frame-name-one = Ցածրարկիչ շրջանակ. { $url }
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Ցածրարկիչ շրջանակներ ({ $number }). { $shortUrl }
 
+## Utility process actor names
+
 # Utility process actor names
 about-processes-utility-actor-unknown = Անյայտ հեղինակ
 

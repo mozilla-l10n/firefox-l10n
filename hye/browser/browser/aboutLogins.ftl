@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Մուտքանուններ եւ գաղտնաբառեր
+
 login-filter =
     .placeholder = Որոնել մուտքանուններ
+
 create-login-button = Ստեղծել նոր մուտքանուն
+
 fxaccounts-sign-in-text = Դարձրէք Ձեր գաղտնաբառերը հասանելի նաեւ Ձեր մեւս սարքերում
 fxaccounts-sign-in-sync-button = Մուտք գործել համաժամեցման համար
 fxaccounts-avatar-button =
@@ -113,16 +116,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Ձեր մտից անուն�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = խմբագրել պահպանուած մտից անունը։
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ձեր մտից անունը դիտելու համար գրանցէք Windows֊ի մտանուան տուեալները: Այս ընթացակարգն աւգնում է պահպանել ձեր հաշիւների անվտանգութիւնը:
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = բացայայտել պահպանուած գաղտնաբառը
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Ձեր մուտքանունը պատճէնելու համար գրանցէք Windows մուտքագրման Ձեր տուեալները: Այս ընթացակարգն աւգնում է պահպանել ձեր հաշիւների անվտանգութիւնը:
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = պատճէնել պահպանուած գաղտնաբառը
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ձեր մուտքանունը խմբագրելու համար գրանցէք Windows մուտքագրման Ձեր տուեալները: Այս ընթացակարգն աւգնում է պահպանել ձեր հաշիւների անվտանգութիւնը:
 # This message can be seen when attempting to export a password in about:logins
@@ -141,21 +147,25 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Չեղարկել
 confirmation-dialog-dismiss-button =
     .title = Չեղարկել
+
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողութիւնը չի կարող ետարկուել։
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Հեռացնել
         [one] Հեռացնել բոլորը
        *[other] Հեռացնել բոլորը
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Այո, հեռացնել այս մտից անունը
         [one] Այո, հեռացնել այս մտից անունները
        *[other] Այո, հեռացնել այս մտից անունները
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Հեռացնե՞լ { $count } մտից անունը:
@@ -167,6 +177,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Սա կը հեռացնի { -brand-short-name } - ում պահպանած մտից անունները եւ խախտումների ծանուցումները, որոնք յայտնուում են այստեղ: Դուք չէք կարողանայ յետարկել այս գործողութիւնը:
        *[other] Սա կը հեռացնի { -brand-short-name } - ում պահպանած մտից անունները եւ խախտումների ծանուցումները, որոնք յայտնուում են այստեղ: Դուք չէք կարողանայ յետարկել այս գործողութիւնը:
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Հեռացնե՞լ { $count } մտից անունը բոլոր սարքերից:
@@ -178,11 +189,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Սա կը հեռացնի { -fxaccount-brand-name }- ում պահպանած մտից անունները ձեր { -fxaccount-brand-name }֊ի հետ համաժամեցրած բոլոր սարքերում։ Կը հեռացուեն նաեւ խախտումների ծանուցումները, որոնք յայտնուում են այստեղ: Դուք չէք կարողանայ յետարկել այս գործողութիւնը:
        *[other] Սա կը հեռացնի { -fxaccount-brand-name }- ում պահպանած մտից անունները ձեր { -fxaccount-brand-name }֊ի հետ համաժամեցրած բոլոր սարքերում։ Կը հեռացուեն նաեւ խախտումների ծանուցումները, որոնք յայտնուում են այստեղ: Դուք չէք կարողանայ յետարկել այս գործողութիւնը:
     }
+
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանուններն ու գաղտնաբառերը
 about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել Ձեր նիշերը, կը տեսնեն գաղտնաբառերը։
 about-logins-confirm-export-dialog-confirm-button = Արտահանել
+
 about-logins-alert-import-title = Ներմուծումն աւարտուեց
 about-logins-alert-import-message = Նայէք մուտքագրուած մանրամասների ամփոփագիրը
+
 confirm-discard-changes-dialog-title = Անտեսե՞լ չպահպանուած փոփոխութիւնները։
 confirm-discard-changes-dialog-message = Բոլոր չպահպանուած փոփոխութիւնները կը կորչեն։
 confirm-discard-changes-dialog-confirm-button = Անտեսել
@@ -213,6 +227,7 @@ about-logins-vulnerable-alert-learn-more-link = Իմանալ աւելին
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle }-ի այդ անունով մուտք արդէն գոյութիւն ունի։ <a data-l10n-name="duplicate-link"> Գնա՞լ դէպի առկայ մուտքագրումները։</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Գաղտնաբառի պահպանման ժամանակ սխալմունք է տեղի ունեցել
 
@@ -262,11 +277,13 @@ about-logins-import-dialog-items-added =
         [one] <span> Նոր մտից անուններն աւելացուած են. </span> <span data-l10n-name="count"> { $count } </span>
        *[other] <span> Նոր մտից անուններն աւելացուած են. </span> <span data-l10n-name="count"> { $count } </span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span> գոյութիւն ունեցեղ մտից անունները թարմացուել են. </span> <span data-l10n-name="count"> { $count } </span>
        *[other] <span> գույութիւն ունեցող մտից անունները թարմացուում են. </span> <span data-l10n-name="count"> { $count } </span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span> Կրկնաւրինակէք յայտնաբերուած մտից անունները. </span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta"> (ներմուծուած չեն) </span>
@@ -278,6 +295,7 @@ about-logins-import-dialog-items-error =
        *[other] <span> Սխալներ. </span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta"> (ներմուծուած չեն) </span>
     }
 about-logins-import-dialog-done = Արուած
+
 about-logins-import-dialog-error-title = Ներածման սխալ
 about-logins-import-dialog-error-conflicting-values-title = Բազմաթիւ հակասող արժէքներ մեկ մտից անուան համար
 about-logins-import-dialog-error-conflicting-values-description = Աւրինակ՝ բազմաթիւ աւգտանուններ, գաղտնաբառեր, URL֊ներ եւ այղն մեկ աւգտանուան համար։
@@ -291,8 +309,10 @@ about-logins-import-dialog-error-no-logins-imported = Մտից անուններ 
 about-logins-import-dialog-error-learn-more = Իմանալ աւելին
 about-logins-import-dialog-error-try-import-again = Փորձէք մուտքագրել նորից․․․
 about-logins-import-dialog-error-cancel = Չեղարկել
+
 about-logins-import-report-title = Ներածել ամփոփագիրը
 about-logins-import-report-description = Մտից անունները եւ գաղտնաբառերը ներածուած են { -brand-short-name }:
+
 #
 # Variables:
 #  $number (number) - The number of the row

@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong> Այս էջի որոշ հատուած խափանուեց։ </strong> Խնդրի մասին { -brand-product-name }֊ին տեղեկացնելու եւ արագ լուծելու համար ուղարկէք զեկուցում։
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

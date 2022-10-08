@@ -348,7 +348,6 @@ fission-status-experiment-treatment = Միացուած է փորձնականով
 fission-status-disabled-by-e10s-env = Անջատուած է միջավայրի կողմից
 fission-status-enabled-by-env = Միացուած է միջավայրի կողմից
 fission-status-disabled-by-env = Անջատուած միջավայրի կողմից
-fission-status-disabled-by-safe-mode = Անջատուած է ապահով եղանակով
 fission-status-enabled-by-default = Միացուած է սկզբնադիր
 fission-status-disabled-by-default = Անջատուած է սկզբնադիր
 fission-status-enabled-by-user-pref = Միացուած է աւգտուողի կողմից

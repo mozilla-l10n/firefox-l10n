@@ -314,7 +314,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Զրոյց">
 <!ENTITY goChatCmd.accesskey "Զ">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Աստղանշուած նամակ">
 <!ENTITY prevStarredMsgCmd.accesskey "Ա">
 <!ENTITY folderMenu.label "Թղթապանակ">

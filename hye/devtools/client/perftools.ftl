@@ -113,9 +113,6 @@ perftools-tools-threads-input-label =
 
 perftools-onboarding-message = <b> Նոր </b>: { -profiler-brand-name }-ն այժմ ընդգրկուած է մշակողների գործիքներում: <a> Իմանալ աւելին </a> այս նոր հզաւր գործիքի մասին:
 
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Սահամանափակ ժամանակով կարող էք մուտք գործել ելակէտային կատարողականութեան վահանակ <a> { options-context-advanced-settings }-ի միջոցով </a>)
-
 perftools-onboarding-close-button =
     .aria-label = Փակէք անդամագրման ուղերձը
 

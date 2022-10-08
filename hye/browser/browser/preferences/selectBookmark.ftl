@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = Հաստատել որպէս հիմնական էջ
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Հաստատել որպէս հիմնական էջ
     .style = min-width: 32em;
+
 select-bookmark-desc = Ընտրեք էջանիշ հիմնական էջի համար: Եթե ընտրեք թղթապանակ, ապա նրանում առկայ բոլոր էջերը կբացուեն էջադիրներում:

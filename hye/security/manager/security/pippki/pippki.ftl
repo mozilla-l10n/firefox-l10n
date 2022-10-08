@@ -8,18 +8,22 @@ password-quality-meter = Գաղտնաբառի ապահովութիւնը
 
 change-device-password-window =
     .title = Փոխել գաղտնաբառը
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Անվտանգութեան սարք: { $tokenName }
 change-password-old = Ընթացիկ գաղտնաբառը.
 change-password-new = Նոր գաղտնաբառը.
 change-password-reenter = Նոր գաղտնաբառ (կրկին):
+
 pippki-failed-pw-change = Հնարաւոր չէ փոխել գաղտնաբառը:
 pippki-incorrect-pw = Դուք չէք գրել ընթացիկ ճիշդ գաղտնաբառը: Խնդրում ենք փորձել կրկին:
 pippki-pw-change-ok = Գաղտնաբառը յաջողութեամբ փոխուել է:
+
 pippki-pw-empty-warning = Ձեր գաղտնաբառերի պահեստը եւ անձնական ստեղները պաշտպանուած չեն լինի:
 pippki-pw-erased-ok = Դուք ջնջեցիք Ձեր գաղտնաբառը: { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Զգուշացու՛մ: Դուք որոշեցիք չգործածել գաղտնաբառ: { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Դուք այժմ ընթացիկ FIPS աշխատակերպում էք: FIPS-ը պահանջում է ոչ-դատարկ գաղտնաբառ:
 
 ## Reset Primary Password dialog
@@ -27,12 +31,14 @@ pippki-pw-change2empty-in-fips-mode = Դուք այժմ ընթացիկ FIPS աշ
 reset-primary-password-window =
     .title = Վերակայել առաջնային գաղտնաբառը
     .style = width: 40em
+
 reset-primary-password-window2 =
     .title = Վերակայել առաջնային գաղտնաբառը
     .style = min-width: 40em
 reset-password-button-label =
     .label = Վերագործարկել
 reset-primary-password-text = Եթե Դուք վերակայել էք Ձեր առաջնային գաղտնաբառը, Ձեր բոլոր ցանցային պահեստները եւ ել.հասցէի գաղտնաբառերը, անհատական վկայագրերը եւ անձնական բանալիները կը մոռացուեն: Համոզուա՞ծ էք, որ ցանկանում էք վերակայել Ձեր առաջնային գաղտնաբառը:
+
 pippki-reset-password-confirmation-title = Վերակայել առաջնային գաղտնաբառը
 pippki-reset-password-confirmation-message = Ձեր առաջնային գաղտնաբառը վերակայուել է:
 
@@ -41,6 +47,7 @@ pippki-reset-password-confirmation-message = Ձեր առաջնային գաղտ�
 download-cert-window =
     .title = Վկայագրի բեռնում
     .style = width: 46em
+
 download-cert-window2 =
     .title = Վկայագրի բեռնում
     .style = min-width: 46em
