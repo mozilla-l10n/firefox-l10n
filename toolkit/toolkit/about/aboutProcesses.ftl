@@ -30,6 +30,8 @@
 ## Details within processes
 
 
+## Utility process actor names
+
 ## Displaying CPU (percentage and total)
 ## Variables:
 ##    $percent (Number) The percentage of CPU used by the process or thread.

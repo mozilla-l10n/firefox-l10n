@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Seòlaidhean a shàbhail thu
 autofill-manage-addresses-list-header = Seòlaidhean
+
 autofill-manage-credit-cards-title = Cairtean-creideis a shàbhail thu
 autofill-manage-credit-cards-list-header = Cairtean-creideis
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Thoir air falbh
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Deasaich...
 autofill-add-new-address-title = Cuir seòladh ùr ris
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Deasaich an seòladh
+
 autofill-address-given-name = Ainm
 autofill-address-additional-name = Ainm meadhanach
 autofill-address-family-name = Sloinneadh
@@ -81,13 +84,16 @@ autofill-address-eircode = Éirchód
 autofill-address-country = Dùthaich no roinn-dùthcha
 autofill-address-tel = Fòn
 autofill-address-email = Post-d
+
 autofill-cancel-button = Sguir dheth
 autofill-save-button = Sàbhail
 autofill-country-warning-message = Tha fèin-lìonadh fhoirmean ri fhaighinn airson seòlaidhean ann an cuidh a dhùthchannan aig an àm seo.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Cuir cairt-chreideis ùr ris
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Deasaich a’ chairt-chreideis
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] Tha { -brand-short-name } a’ feuchainn ri fiosrachadh cairt-chreidis a shealltainn. Dearbh inntrigeadh dhan chunntas Windows seo gu h-ìosal.
        *[other] Tha { -brand-short-name } a’ feuchainn ri fiosrachadh cairt-chreidis a shealltainn.
     }
+
 autofill-card-number = Àireamh na cairt-chreideis
 autofill-card-invalid-number = Cuir a-steach àireamh cairt dhligheach
 autofill-card-name-on-card = An t-ainm air a’ chairt

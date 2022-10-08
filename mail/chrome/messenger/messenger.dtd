@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Cabadaich">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd2.key "h">
 <!ENTITY prevStarredMsgCmd.label "Teachdaireachd le rionnag">
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Pasgan">

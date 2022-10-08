@@ -5,6 +5,7 @@
 create-profile-window =
     .title = Draoidh cruthachadh pròifile
     .style = width: 45em; height: 32em;
+
 create-profile-window2 =
     .title = Draoidh cruthachadh pròifile
     .style = min-width: 45em; min-height: 32em;
@@ -16,14 +17,19 @@ create-profile-first-page-header =
         [macos] Ro-ràdh
        *[other] Fàilte gu { create-profile-window.title }
     }
+
 create-profile-first-page-header2 =
     { PLATFORM() ->
         [macos] Ro-ràdh
        *[other] Fàilte gu { create-profile-window2.title }
     }
+
 profile-creation-explanation-1 = Cumaidh { -brand-short-name } fiosrachadh nan roghainnean agad 'nad phròifil phearsanta.
+
 profile-creation-explanation-2 = Ma bhios daoine eile a' cleachdadh { -brand-short-name } air an inneal seo, 's urrainn dhut pròifil a chleachdadh gus fiosrachadh gach cleachdaiche a chumail o chèile. Bu chòir do gach cleachdaiche pròifil aca fhèin a chruthachadh a chum seo.
+
 profile-creation-explanation-3 = Mas tusa an aon duine a bhios a' cleachdadh { -brand-short-name } air an inneal seo, feumaidh aon phròifil a bhith agad air a' char as lugha. 'S urrainn dhut iomadh pròifil a chruthachadh dhut fhèin, ma thogras tu, gus seataichean eadar-dhealaichte de roghainnean a stòradh. Mar eisimpleir, ma bhios tu ag iarraidh pròifil a chleachdas tu 'nad obair 's tè eile a chum cleachdaidh phearsanta.
+
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Briog air "Air adhart" gus a' phròifil agad a chruthachadh.
@@ -37,20 +43,27 @@ create-profile-last-page-header =
         [macos] Co-dhùnadh
        *[other] A' toirt gu buil an { create-profile-window.title }
     }
+
 create-profile-last-page-header2 =
     { PLATFORM() ->
         [macos] Co-dhùnadh
        *[other] A' toirt gu buil an { create-profile-window2.title }
     }
+
 profile-creation-intro = Ma chruthaicheas tu iomadh pròifil, aithnichidh tu iad air an cuid ainmean. 'S urrainn dhut an t-ainm a chaidh a chur air shùilean dhut an-seo a chleachdadh no ainm sam bith eile bu toigh leat.
+
 profile-prompt = Cuir a-steach ainm ùr airson na pròifile:
     .accesskey = e
+
 profile-default-name =
     .value = Cleachdaiche bunaiteach
+
 profile-directory-explanation = Thèid na roghainnean cleachdaiche agad is dàta cleachdaiche sam bith eile a tha co-cheangailte ris a stòradh ann an:
+
 create-profile-choose-folder =
     .label = Tagh pasgan…
     .accesskey = T
+
 create-profile-use-default =
     .label = Cleachd am pasgan bunaiteach
     .accesskey = p

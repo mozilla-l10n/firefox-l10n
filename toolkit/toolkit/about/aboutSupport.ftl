@@ -344,7 +344,6 @@ fission-status-experiment-control = Chaidh a chur à comas le deuchainn
 fission-status-experiment-treatment = Chaidh a chur an comas le deuchainn
 fission-status-disabled-by-e10s-env = Chaidh a chur à comas leis an àrainneachd
 fission-status-enabled-by-env = Chaidh a chur an comas leis an àrainneachd
-fission-status-disabled-by-safe-mode = Chaidh a chur à comas leis a’ mhodh tèarainte
 fission-status-enabled-by-default = An comas o thùs
 fission-status-disabled-by-default = À comas o thùs
 fission-status-enabled-by-user-pref = Chaidh a chur an comas leis a’ chleachdaiche

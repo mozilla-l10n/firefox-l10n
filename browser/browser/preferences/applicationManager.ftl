@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Mion-fhiosrachadh na h-aplacaid
     .style = width: 36em; min-height: 24em;
+
 app-manager-window2 =
     .title = Mion-fhiosrachadh na h-aplacaid
     .style = min-width: 36em; min-height: 24em;
+
 app-manager-remove =
     .label = Thoir air falbh
     .accesskey = r
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Gabhaidh na h-aplacaidean a leanas an cleachdadh gus Ceanglaichean { $type } a làimhseachadh.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Gabhaidh na h-aplacaidean a leanas an cleachdadh gus Susbaint { $type } a làimhseachadh.
