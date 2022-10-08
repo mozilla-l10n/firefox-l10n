@@ -8,6 +8,13 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Ti gh'é un report do cianto no mandou
+       *[other] Ti gh'é { $reportCount } report do cianto no mandæ
+    }
 pending-crash-reports-view-all =
     .label = Amia
 pending-crash-reports-send =
