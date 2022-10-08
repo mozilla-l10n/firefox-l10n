@@ -20,3 +20,8 @@ pictureinpicture-unpip =
 pictureinpicture-close =
     .aria-label = Nārán
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

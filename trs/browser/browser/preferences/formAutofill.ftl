@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Nej direksion ma sa'
 autofill-manage-addresses-list-header = Hiuj gun'
+
 autofill-manage-credit-cards-title = Na'nïnj sa'aj Tarjeta Yikín
 autofill-manage-credit-cards-list-header = Tarjeta Yikín
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Guxūn
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Nagi'iô'…
 autofill-add-new-address-title = Nuto' Direksiôn Nakàa
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Nagi'io' Direksiôn
+
 autofill-address-given-name = Si yugui asini ma
 autofill-address-additional-name = A'go si yugui't
 autofill-address-family-name = Sa nata' ràt
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = País ne't
 autofill-address-tel = Si telefonot
 autofill-address-email = Korrêo
+
 autofill-cancel-button = Duyichin'
 autofill-save-button = Na'nïnj sà'
 autofill-country-warning-message = Nej sa nachra ma'ān ni si daran' hiuj 'iah sun ma.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nuto' Tarjeta Yikíin
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Nagi'iô' Tarjeta Yikíin
+
 autofill-card-number = Si Numero Tarjeta
 autofill-card-invalid-number = Gi'iaj 'ngo sunnuj u ni, gachrun si da'nga si tarjetat
 autofill-card-name-on-card = Si yugui tarjeta

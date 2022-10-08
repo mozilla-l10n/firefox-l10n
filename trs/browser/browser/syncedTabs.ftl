@@ -11,6 +11,13 @@ synced-tabs-sidebar-tabsnotsyncing = Nachrūn si sinkronisasion rakïj ñaj da' 
 synced-tabs-sidebar-connect-another-device = Ganachrun' 'ngà a'ngò aga'a
 synced-tabs-sidebar-search =
     .placeholder = Nana'ui' rakïj ñanj 'iaj sun nugua'ān
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Na'nïn
     .accesskey = O
@@ -26,6 +33,9 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Nuto' markador riña rakïj ñanj na...
     .accesskey = B
+
+##
+
 synced-tabs-context-copy =
     .label = Guxun' ni nachrun' a'ngô hiuj u
     .accesskey = C
