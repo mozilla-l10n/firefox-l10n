@@ -9,16 +9,18 @@ findbar-next =
     .tooltiptext = နောက်ထပ်တွေ့ရှိသော စကားစုကို ရှာဖွေပါ
 findbar-previous =
     .tooltiptext = ရှေ့တွင် တွေ့ခဲ့သော စကားစုကို ရှာဖွေပါ
-
 findbar-find-button-close =
     .tooltiptext = ရှာဖွေမှုဘားတန်းကို ပိတ်ပါ
-
 findbar-case-sensitive =
     .label = စာလုံး အကြီး/အသေးအားဖြင့် တိုက်ဆိုင်ပါ
     .accesskey = c
     .tooltiptext = စာလုံးအကြီးအသေးဖြင့် ရှာဖွေပါ
-
 findbar-entire-word =
     .label = စာလုံးတစ်ခုလုံး
     .accesskey = w
     .tooltiptext = စာလုံးတစ်ခုလုံးအားဖြင့် ရှာပါ
+findbar-not-found = စကားစု မတွေ့ရဘူး
+findbar-wrapped-to-top = စာမျက်နှာအဆုံး ရောက်နေပြီ၊ ထိပ်ကနေ ပြန်စပါ
+findbar-wrapped-to-bottom = စာမျက်နှာထိပ် ရောက်နေပြီ၊ အဆုံးကနေ ပြန်စပါ
+findbar-case-sensitive-status =
+    .value = (စာလုံး အမှားမခံ)
