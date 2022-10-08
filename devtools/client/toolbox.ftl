@@ -30,3 +30,5 @@ toolbox-meatball-menu-noautohide-label = عطّل الإخفاء الآلي لل
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

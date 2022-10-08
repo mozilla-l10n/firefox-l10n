@@ -10,6 +10,7 @@
 <!ENTITY helpMenuWin.label "مساعدة">
 <!ENTITY helpMenuWin.accesskey "ة">
 <!ENTITY aboutProduct2.label "عن &brandShorterName;">
+
 <!ENTITY productHelpMac.modifiers "accel">
 
 <!ENTITY helpKeyboardShortcuts.label "اختصارات لوحة المفاتيح">

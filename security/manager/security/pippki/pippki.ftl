@@ -12,6 +12,7 @@ change-password-token = جهاز الأمن: { $tokenName }
 change-password-old = كلمة السرّ الحاليّة:
 change-password-new = كلمة السرّ الجّديدة:
 change-password-reenter = كلمة السرّ الجّديدة (مرّة ثانية):
+
 pippki-incorrect-pw = لم تُدخل كلمة السر الرئيسية الصحيحة. رجاءً أعِد المحاولة.
 
 ## Reset Primary Password dialog
@@ -24,6 +25,7 @@ reset-password-button-label =
 download-cert-window =
     .title = يجري تنزيل الشّهادات
     .style = width: 46em
+
 download-cert-window2 =
     .title = يجري تنزيل الشّهادات
     .style = min-width: 46em

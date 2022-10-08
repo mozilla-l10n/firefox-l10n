@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = أضف وسومًا
+
 pocket-panel-saved-error-generic = حدث عطل أثناء محاولة الحفظ في { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = أقصى طول للوسم ٢٥ حرفًا
 pocket-panel-saved-error-only-links = لا يمكن حفظ إلا الوصلات
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = يحفظ…
 pocket-panel-saved-suggested-tags = الوسوم المقترحة
 pocket-panel-saved-tags-saved = أُضيفت الوسوم
 pocket-panel-signup-view-list = اعرض القائمة
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = أضِف وسومًا:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = سجّل بِ‍ { -brand-product-name }
 pocket-panel-signup-tagline = احفظ المقالات و الڤديوهات من { -brand-product-name } لعرضها في { -pocket-brand-name } على أي جهاز و في أي وقت.
 pocket-panel-signup-tagline-story-one = انقر على زر { -pocket-brand-name } لحفظ أي مقالة أو ڤديو أو صفحة من { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = اعرض في { -pocket-brand-name } على أي جهاز في أي وقت.
+
 pocket-panel-signup-cta-a-fix = زر الحفظ لكل ما تريده على الإنترنت
 pocket-panel-signup-cta-b = انقر زر { -pocket-brand-name } لحفظ المقالات والفيديوهات والروابط. اعرف قائمة بما حفظت على أي جهاز تريد، ومتى تريد.
 pocket-panel-signup-cta-b-short = انقر زر { -pocket-brand-name } لحفظ المقالات والفيديوهات والروابط.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = يمكنك عبر { -pocket-brand-name } استك�
 pocket-panel-home-explore-popular-topics = استكشف المواضيع الشائعة
 pocket-panel-home-discover-more = اكتشف المزيد
 pocket-panel-home-explore-more = استكشف
+
 pocket-panel-home-most-recent-saves = هنا آخر ما حفظته:
 pocket-panel-home-most-recent-saves-loading = يُحمّل آخر ما حفظته…
 pocket-panel-home-new-user-cta = انقر زر { -pocket-brand-name } لحفظ المقالات والفيديوهات والروابط.
