@@ -12,6 +12,7 @@ neterror-captive-portal-page-title = Logg inn på nettverket
 
 neterror-copy-to-clipboard-button = Kopier tekst til utklippstavlen
 neterror-learn-more-link = Les mer …
+neterror-open-portal-login-page-button = Åpne innloggingsside for nettverk
 neterror-pref-reset-button = Gjenopprett standardinnstillinger
 neterror-return-to-previous-page-button = Gå tilbake
 neterror-try-again-button = Prøv igjen
@@ -27,6 +28,7 @@ neterror-generic-error = { -brand-short-name } klarte ikke å laste denne siden 
 neterror-load-error-try-again = Nettstedet kan være midlertidig utilgjengelig eller opptatt. Prøv igjen om en liten stund.
 neterror-load-error-connection = Dersom du ikke klarer å laste noen sider, kontroller at datamaskinens nettverkstilkobling er i orden.
 neterror-load-error-firewall = Dersom datamaskinen er beskyttet av en brannmur eller proxy, kontroller at { -brand-short-name } har tillatelse til å bruke nettet (www).
+neterror-captive-portal = Du må logge inn på nettverket før du får tilgang til Internett.
 neterror-file-not-found-filename = Kontroller filnavnet etter forskjeller i store/små bokstaver eller andre skrivefeil.
 neterror-file-not-found-moved = Sjekk om filen er flyttet, har endret navn eller er slettet.
 neterror-access-denied = Den kan være fjernet, flyttet eller filrettighetene forhindrer tilgang.
