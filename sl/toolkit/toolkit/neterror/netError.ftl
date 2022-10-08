@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Napaka pri nalaganju strani
+certerror-page-title = Pozor: možno varnostno tveganje
 neterror-captive-portal-page-title = Prijavite se v omrežje
 neterror-dns-not-found-title = Strežnika ni mogoče najti
 neterror-malformed-uri-page-title = Neveljaven URL
@@ -21,12 +22,21 @@ neterror-try-again-button = Poskusi znova
 ##
 
 neterror-pref-reset = Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?
+neterror-error-reporting-automatic = S prijavo podobnih napak pomagajte Mozilli prepoznati in zavračati zlonamerne strani
 
 ## Specific error messages
 
+neterror-generic-error = { -brand-short-name } iz neznanega razloga ne more naložiti te strani.
 neterror-load-error-try-again = Stran je morda začasno nedosegljiva ali preobremenjena. Poskusite znova nekoliko pozneje.
 neterror-load-error-connection = Če ne uspete naložiti nobene strani, preverite povezavo svojega računalnika do interneta.
 neterror-load-error-firewall = Če uporabljate posrednika ali požarni zid, se prepričajte, da ima { -brand-short-name } dovoljenja za dostop do spleta.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Ste bili namenjeni na <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Če je vneseni naslov pravi, lahko:</strong>
+neterror-dns-not-found-hint-try-again = poskusite znova pozneje
+neterror-dns-not-found-hint-check-network = preverite povezavo z omrežjem
+neterror-dns-not-found-hint-firewall = preverite, da ima { -brand-short-name } dovoljenje za dostop do spleta (morda ste povezani, vendar za požarnim zidom)
 neterror-access-denied = Morda je bila odstranjena, premaknjena ali pa dovoljenja datoteke preprečujejo dostop.
 neterror-unknown-protocol = Za odpiranje tega naslova boste morda morali namestiti dodaten program.
 neterror-redirect-loop = Težavo lahko povzroča onemogočanje ali zavračanje piškotkov.
@@ -36,12 +46,24 @@ neterror-not-cached-intro = Zahtevan dokument ni več na voljo v predpomnilniku 
 neterror-not-cached-sensitive = { -brand-short-name } občutljivih dokumentov iz varnostnih razlogov samodejno ne nalaga ponovno.
 neterror-not-cached-try-again = Kliknite poskusi znova za ponovno nalaganje dokumenta s spletne strani.
 neterror-net-offline = Kliknite “Poskusi znova” za preklop v povezan način in ponovno naložite stran.
+neterror-proxy-resolve-failure-settings = Preverite nastavitve posrednika in se prepričajte, da so pravilne.
+neterror-proxy-resolve-failure-connection = Prepričajte se, da ima vaš računalnik delujočo omrežno povezavo.
+neterror-proxy-resolve-failure-firewall = Če uporabljate posrednika ali požarni zid, se prepričajte, da ima { -brand-short-name } dovoljenja za dostop do spleta.
 neterror-proxy-connect-failure-settings = Preverite nastavitve posrednika in se prepričajte, da so pravilne.
 neterror-proxy-connect-failure-contact-admin = Pri skrbniku svojega omrežja preverite, da posrednik deluje.
 neterror-content-encoding-error = O napaki obvestite lastnike spletne strani.
 neterror-unsafe-content-type = O napaki obvestite lastnike spletne strani.
 neterror-nss-failure-not-verified = Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti sprejetih podatkov.
 neterror-nss-failure-contact-website = O napaki obvestite lastnike spletne strani.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } je zaznal morebitno varnostno grožnjo in ni nadaljeval na <b>{ $hostname }</b>. Če obiščete to stran, bodo napadalci morda poskušali ukrasti vaše podatke, kot so gesla, e-poštni naslovi ali podrobnosti kreditnih kartic.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } je zaznal morebitno varnostno grožnjo in ni nadaljeval na <b>{ $hostname }</b>, ker ta spletna stran zahteva varno povezavo.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } je zaznal težavo in ni nadaljeval na <b>{ $hostname }</b>. Spletna stran je nepravilno nastavljena ali pa je ura računalnika nastavljena na napačen čas.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Napredni podatki: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -49,3 +71,17 @@ neterror-sslv3-used = Napredni podatki: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni. Preden lahko obiščete to stran, bo moral njen skrbnik popraviti strežnik.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Vaš računalnik misli, da smo { DATETIME($now, dateStyle: "medium") }, kar { -brand-short-name }u preprečuje varno povezavo. Da boste lahko obiskali <b>{ $hostname }</b>, v nastavitvah sistema nastavite uro računalnika na trenutni datum in čas ter časovni pas, nato osvežite <b>{ $hostname }</b>.
+certerror-unknown-issuer-what-can-you-do-about-it-website = Težava je najverjetneje na spletni strani, zato je sami ne morete odpraviti.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Če ste povezani z omrežjem v podjetju ali uporabljate protivirusno programsko opremo, se lahko za pomoč obrnete na ekipo za podporo. O težavi lahko tudi obvestite skrbnika spletne strani.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Ura vašega računalnika je nastavljena na datum { DATETIME($now, dateStyle: "medium") }. V nastavitvah sistema nastavite računalnik na pravilen datum in čas ter časovni pas, nato osvežite <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Če je ura že nastavljena pravilno, je težava verjetno v spletni strani in je sami ne morete odpraviti. O njej lahko obvestite skrbnika spletne strani.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> uporablja varnostni pravilnik, imenovan HTTP Strict Transport Security (HSTS), kar pomeni, da se lahko { -brand-short-name } nanjo poveže zgolj varno. Za obisk te strani ne morete dodati izjeme.
