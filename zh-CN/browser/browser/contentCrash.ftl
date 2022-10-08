@@ -8,5 +8,12 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message = 您有 { $reportCount } 份未发送的崩溃报告
+pending-crash-reports-view-all =
+    .label = 查看
+pending-crash-reports-send =
+    .label = 发送
 pending-crash-reports-always-send =
     .label = 一律发送
