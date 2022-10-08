@@ -9,6 +9,7 @@ neterror-page-title = Napaka pri nalaganju strani
 
 ## Error page actions
 
+neterror-try-again-button = Poskusi znova
 
 ##
 
