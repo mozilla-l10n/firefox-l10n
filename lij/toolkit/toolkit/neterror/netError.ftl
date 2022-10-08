@@ -6,17 +6,22 @@
 ## Error page titles
 
 neterror-page-title = Erô into caregamento da pagina
+certerror-page-title = Atençion: gh'é 'n reizego de seguessa potensiâ
 neterror-captive-portal-page-title = Intra inta ræ
 neterror-dns-not-found-title = Server no atrovou
 neterror-malformed-uri-page-title = URL grammo
 
 ## Error page actions
 
+neterror-advanced-button = Avansæ…
 neterror-copy-to-clipboard-button = Còpia testo inti aponti
 neterror-learn-more-link = Atre informaçioin…
+neterror-override-exception-button = Acetta o reizego e vanni avanti
 neterror-pref-reset-button = Repiggia inpostaçioin predefinie
 neterror-return-to-previous-page-button = Vanni inderê
+neterror-return-to-previous-page-recommended-button = Vanni inderê (Racomandou)
 neterror-try-again-button = Preuva Torna
+neterror-view-certificate-link = Amia certificato
 
 ##
 
@@ -49,3 +54,7 @@ neterror-sslv3-used = Informaçion avansæ: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> o deuvia 'na tecnòlogia de seguessa vegia ch'a l'é debole . Un mascarson o peu pigiâ con façiliæ e teu informaçioin che ti pensi segian a-o seguo. L'aministratô do scito o deve dâ recatto a-o server primma che ti ti posse vixitâ sta pagina.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Còdice d'erô: NS_ERROR_NET_INADEQUATE_SECURITY
+certerror-what-can-you-do-about-it-title = E aloa cöse ti peu fâ?
+certerror-unknown-issuer-what-can-you-do-about-it-website = O problema o l'é corpa do scito e no ti ghe peu fâ ninte.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Se t'ê inte na ræ aziendale ò ti deuvi 'n software anti-viros, ti peu vedde se l'ascistensa peu agiutate. Ti peu anche informâ i aministratoî do scito che gh'é sto problema chi.
+certerror-bad-cert-domain-what-can-you-do-about-it = Me sa che sto problema o l'é do scito e ti no ti ghe peu fâninte. Diggou a l'aministratô do scito che ti gh'æ sto problema.
