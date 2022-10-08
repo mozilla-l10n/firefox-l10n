@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Быстрый поиск (только ссылки)
 findbar-case-sensitive-status =
     .value = (С учётом регистра)
+findbar-match-diacritics-status =
+    .value = (С учётом диакритических знаков)
 findbar-entire-word-status =
     .value = (Только слова целиком)
 # Variables:
