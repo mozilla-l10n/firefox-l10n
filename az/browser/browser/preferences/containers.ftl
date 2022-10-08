@@ -5,11 +5,14 @@
 containers-window-new =
     .title = Yeni konteyner əlavə et
     .style = width: 45em
+
 containers-window-new2 =
     .title = Yeni konteyner əlavə et
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -20,20 +23,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Ad
     .accesskey = A
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Konteyner adını daxil edin
+
 containers-icon-label = İkon
     .accesskey = k
     .style = { -containers-labels-style }
+
 containers-color-label = Rəng
     .accesskey = g
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Hazır
     .buttonaccesskeyaccept = H
+
 containers-color-blue =
     .label = Göy
 containers-color-turquoise =
@@ -52,6 +61,7 @@ containers-color-purple =
     .label = Bənövşəyi
 containers-color-toolbar =
     .label = Alət paneli ilə uyğunlaşdır
+
 containers-icon-fence =
     .label = Hasar
 containers-icon-fingerprint =

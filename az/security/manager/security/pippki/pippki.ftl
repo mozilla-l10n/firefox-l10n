@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Təsdiq sənədi yüklənir
     .style = width: 46em
+
 download-cert-window2 =
     .title = Təsdiq sənədi yüklənir
     .style = min-width: 46em
