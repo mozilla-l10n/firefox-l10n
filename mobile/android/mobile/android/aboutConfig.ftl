@@ -8,6 +8,7 @@ config-new-pref-name =
     .placeholder = ឈ្មោះ
 config-new-pref-value-boolean = ប៊ូលីន
 config-new-pref-value-string = ខ្សែ​អក្សរ
+config-new-pref-value-integer = ចំនួន​គត់
 config-new-pref-string =
     .placeholder = បញ្ចូល​អក្សរ
 config-new-pref-number =
