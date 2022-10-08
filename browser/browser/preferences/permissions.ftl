@@ -5,50 +5,66 @@
 permissions-window =
     .title = ব্যতিক্রম
     .style = width: 45em
+
 permissions-window2 =
     .title = ব্যতিক্রম
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ওয়েবসাইটের ঠিকানা
     .accesskey = d
+
 permissions-block =
     .label = প্রতিরোধ করা হবে
     .accesskey = B
+
 permissions-session =
     .label = সেশনের জন্য অনুমোদন করা হবে
     .accesskey = S
+
 permissions-allow =
     .label = অনুমোদন
     .accesskey = A
+
 permissions-site-name =
     .label = ওয়েবসাইট
+
 permissions-status =
     .label = অবস্থা
+
 permissions-remove =
     .label = ওয়েবসাইট অপসারণ
     .accesskey = R
+
 permissions-remove-all =
     .label = সব ওয়েবসাইট অপসারণ কর
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = পরিবর্তন সংরক্ষণ
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = সব ওয়েবসাইটের জন্য ডিফল্ট:
+
 permissions-searchbox =
     .placeholder = ওয়েবসাইট খুঁজুন
+
 permissions-capabilities-autoplay-allow =
     .label = অডিও ও ভিডিও অনুমোদন দিন
 permissions-capabilities-autoplay-block =
     .label = অডিও ব্লক
 permissions-capabilities-autoplay-blockall =
     .label = অডিও ও ভিডিও ব্লক
+
 permissions-capabilities-allow =
     .label = অনুমোদন করা হবে
 permissions-capabilities-block =
     .label = প্রতিরোধ করা হবে
 permissions-capabilities-prompt =
     .label = সর্বদা জিজ্ঞাসা কর
+
 permissions-capabilities-listitem-allow =
     .value = অনুমোদন করা হবে
 permissions-capabilities-listitem-block =
@@ -66,6 +82,7 @@ permissions-invalid-uri-label = অনুগ্রহ করে কার্য�
 permissions-exceptions-etp-window =
     .title = বর্ধিত ট্র্যাকিং সুরক্ষার জন্য ব্যতিক্রম
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = বর্ধিত ট্র্যাকিং সুরক্ষার জন্য ব্যতিক্রম
     .style = { permissions-window2.style }
@@ -76,6 +93,7 @@ permissions-exceptions-etp-desc = আপনি এই ওয়েবসাই�
 permissions-exceptions-cookie-window =
     .title = ব্যতিক্রম - কুকিজ এবং সাইট ডাটা
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = ব্যতিক্রম - কুকিজ এবং সাইট ডাটা
     .style = { permissions-window2.style }
@@ -89,6 +107,7 @@ permissions-exceptions-cookie-desc = কোন ওয়েবসাইট স�
 permissions-exceptions-popup-window =
     .title = ওয়েবসাইট সমূহ- পপ-আপ দেখাতে পারবে
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = ওয়েবসাইট সমূহ- পপ-আপ দেখাতে পারবে
     .style = { permissions-window2.style }
@@ -99,6 +118,7 @@ permissions-exceptions-popup-desc = কোন ওয়েবসাইটগুল�
 permissions-exceptions-saved-logins-window =
     .title = ব্যতিক্রম - সংরক্ষিত লগইন
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = ব্যতিক্রম - সংরক্ষিত লগইন
     .style = { permissions-window2.style }
@@ -109,6 +129,7 @@ permissions-exceptions-saved-logins-desc = নিম্নলিখিত ওয
 permissions-exceptions-addons-window =
     .title = ওয়েবসাইট সমূহ- অ্যাডনস ইন্সটল করতে পারবে
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = ওয়েবসাইট সমূহ- অ্যাডনস ইন্সটল করতে পারবে
     .style = { permissions-window2.style }
@@ -119,6 +140,7 @@ permissions-exceptions-addons-desc = কোন ওয়েবসাইটগুল
 permissions-site-autoplay-window =
     .title = সেটিংস - অটোপ্লে
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = সেটিংস - অটোপ্লে
     .style = { permissions-window2.style }
@@ -129,6 +151,7 @@ permissions-site-autoplay-desc = আপনার ডিফল্ট অটোপ
 permissions-site-notification-window =
     .title = সেটিং - বিজ্ঞপ্তির অনুমতি
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = সেটিং - বিজ্ঞপ্তির অনুমতি
     .style = { permissions-window2.style }
@@ -142,6 +165,7 @@ permissions-site-notification-disable-desc = এতে করে, উপরে�
 permissions-site-location-window =
     .title = সেটিং - অবস্থান অনুমতি
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = সেটিং - অবস্থান অনুমতি
     .style = { permissions-window2.style }
@@ -155,6 +179,7 @@ permissions-site-location-disable-desc = এতে করে, উপরের �
 permissions-site-xr-window =
     .title = সেটিংস - ভার্চুয়াল রিয়েলিটির অনুমতি
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = সেটিংস - ভার্চুয়াল রিয়েলিটির অনুমতি
     .style = { permissions-window2.style }
@@ -168,6 +193,7 @@ permissions-site-xr-disable-desc = এতে করে, উপরের তা�
 permissions-site-camera-window =
     .title = সেটিং - ক্যামেরা ব্যবহারের অনুমতি
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = সেটিং - ক্যামেরা ব্যবহারের অনুমতি
     .style = { permissions-window2.style }
@@ -181,6 +207,7 @@ permissions-site-camera-disable-desc = এতে করে, উপরের ত�
 permissions-site-microphone-window =
     .title = সেটিং - মাইক্রোফোন অনুমোদন
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = সেটিং - মাইক্রোফোন অনুমোদন
     .style = { permissions-window2.style }

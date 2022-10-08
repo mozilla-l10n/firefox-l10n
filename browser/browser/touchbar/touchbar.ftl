@@ -19,6 +19,7 @@ open-location = অনুসন্ধান করুন বা ঠিকান�
 share = শেয়ার করুন
 close-window = উইন্ডো বন্ধ করুন
 open-sidebar = সাইডবার
+
 # This string describes shortcuts for search.
 search-popover = শর্টকাট অনুসন্ধান করুন
 # Describes searches limited to a specific scope

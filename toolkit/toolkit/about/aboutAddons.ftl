@@ -3,74 +3,103 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = অ্যাড-অন ব্যবস্থাপক
+
 search-header =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
     .searchbuttonlabel = অনুসন্ধান
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = আপনার এই ধরণের কোনো অ্যাড-অন ইনস্টল করা নেই
+
 list-empty-available-updates =
     .value = কোনো হালনাগাদ পাওয়া যায়নি
+
 list-empty-recent-updates =
     .value = আপনি সাম্প্রতিক সময়ে কোনো অ্যাড-অন হালনাগাদ করেননি
+
 list-empty-find-updates =
     .label = হালনাগাদের জন্য পরীক্ষা
+
 list-empty-button =
     .label = অ্যাড-অন সম্পর্কে আরও শিখুন
+
 help-button = অ্যাড-অন সহযোগীতা
 sidebar-help-button-title =
     .title = অ্যাড-অন সহযোগীতা
+
 show-unsigned-extensions-button =
     .label = কিছু এক্সটেনশন ভ্যারিফাই করা হয়নি
+
 show-all-extensions-button =
     .label = সব এক্সটেনশন দেখাও
+
 detail-version =
     .label = সংস্করণ
+
 detail-last-updated =
     .label = সর্বশেষ হালনাগাদ
+
 detail-contributions-description = এ অ্যাড-অন ডেভেলপার বলে যে, আপনি আপনার যে কোনো ছোট অবদান দিয়েও এই অ্যাড-অনের উন্নয়নে সহায়তা করতে পারেন।
+
 detail-contributions-button = অবদান রাখুন
     .title = এই অ্যাড-অনের বিকাশে অবদান রাখুন
     .accesskey = C
+
 detail-update-type =
     .value = স্বয়ংক্রিয় হালনাগাদ
+
 detail-update-default =
     .label = ডিফল্ট
     .tooltiptext = ডিফল্ট হলেই কেবল স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে
+
 detail-update-automatic =
     .label = সচল
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে
+
 detail-update-manual =
     .label = বন্ধ
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে না
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = ব্যক্তিগত উইন্ডোতে রান করুন
+
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ব্যক্তিগত উইন্ডোতে অনুমোদিত নয়
 detail-private-disallowed-description2 = ব্যক্তিগত ব্রাউজিং এর সময় এই এক্সটেনশন কাজ করবেনা।<a data-l10n-name="learn-more"> আরও জানুন </a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = ব্যক্তিগত উইন্ডোতে প্রবেশ প্রয়োজন
 detail-private-required-description2 = ব্যক্তিগত ব্রাউজিং করার সময় এই এক্সটেনশন আপনার অনলাইন কর্মকান্ড সম্পর্কে জানতে পারে। <a data-l10n-name="learn-more"> আরও জানুন </a>
+
 detail-private-browsing-on =
     .label = অনুমতি দিন
     .tooltiptext = ব্যক্তিগত ব্রাউজিং সক্রিয় করুন
+
 detail-private-browsing-off =
     .label = অনুমতি দিবেন না
     .tooltiptext = ব্যক্তিগত ব্রাউজিং নিষ্ক্রিয় করুন
+
 detail-home =
     .label = নীড়পাতা
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = অ্যাড-অন প্রোফাইল
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = হালনাগাদের জন্য পরীক্ষা
     .accesskey = f
     .tooltiptext = এই অ্যাড-অনের জন্য হালনাগাদ পরীক্ষা
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -87,20 +116,31 @@ detail-show-preferences =
             [windows] এই অ্যাড-অন এর অপশন পরিবর্তন করুন
            *[other] এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন
         }
+
 detail-rating =
     .value = রেটিং
+
 addon-restart-now =
     .label = এখন পুনরায় শুরু করুন
+
 disabled-unsigned-heading =
     .value = কিছু অ্যাড-অন নিস্ক্রিয় করা হয়েছে
+
 disabled-unsigned-description = নিম্নলিখিত অ্যাড-অনসমূহ { -brand-short-name } ব্যবহারের জন্য যাচাই করা হয় নি। আপনি যা করতে পারেন <label data-l10n-name="find-addons">প্রতিস্থাপন খুঁজুন</label> অথবা ডেভেলপার কে জিজ্ঞাসা করুন যাচাই করার জন্য
+
 disabled-unsigned-learn-more = আপনাকে অনলাইনে নিরাপদ রাখতে সাহায্য করতে আমাদের প্রচেষ্টা সম্পর্কে আরও জানুন.
+
 disabled-unsigned-devinfo = পড়ার অবিরত করতে পারেন যাচাই তাদের অ্যাড টার্ন পেতে আগ্রহী ডেভেলপারদের আমাদের <label data-l10n-name="learn-more">ম্যানুয়াল</label>।
+
 plugin-deprecation-description = কোন কিছু পাওয়া যাচ্ছে না? কোন কোন প্লাগইন { -brand-short-name } আর সমর্থন করে না। <label data-l10n-name="learn-more">আরও জানুন।</label>
+
 legacy-warning-show-legacy = সব পুরাতন এক্সটেনশন দেখাও
+
 legacy-extensions =
     .value = লিগ্যাসি এক্সটেনশন
+
 legacy-extensions-description = এই এক্সটেনশন বর্তমান { -brand-short-name } মান পূরণ করে না তাই তাদের নিষ্ক্রিয় করা হয়েছে। <label data-l10n-name="legacy-learn-more">অ্যাড-অন এ পরিবর্তন সম্পর্কে আরও জানুন</label>
+
 addon-category-discover = সুপারিশসমূহ
 addon-category-discover-title =
     .title = সুপারিশসমূহ
@@ -181,33 +221,42 @@ addon-open-about-debugging = অ্যাড-অন ডিবাগ
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = এক্সটেনশন এর শর্টকাট পরিচালনা করুন
     .accesskey = S
+
 shortcuts-no-addons = আপনার কোনো এক্সটেনশন সক্রিয় নেই।
 shortcuts-no-commands = উল্লেখিত এক্সটেনশনের শর্টকাট নেই:
 shortcuts-input =
     .placeholder = একটি শর্টকাট টাইপ করুন
+
 shortcuts-pageAction = পাতার কর্ম সক্রিয় করুন
 shortcuts-sidebarAction = সাইডবার টগল করুন
+
 shortcuts-modifier-mac = Ctrl, Alt, অথবা ⌘ যুক্ত করুন
 shortcuts-modifier-other = Ctrl বা Alt যুক্ত করুন
 shortcuts-invalid = অকার্যকর সমন্বয়
 shortcuts-letter = একটি চিঠি লিখুন
 shortcuts-system = { -brand-short-name } শর্টকাট ওভাররাইড করা যাবে না
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = সদৃশ শর্টকাট
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } একাধিক ক্ষেত্রে শর্টকাট হিসাবে ব্যবহৃত হচ্ছে। সদৃশ শর্টকাটগুলি অপ্রত্যাশিত আচরণের কারণ হতে পারে।
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } দ্বারা ইতিমধ্যে ব্যবহৃত
+
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] আরও { $numberToShow } দেখাও
        *[other] আরও { $numberToShow } দেখাও
     }
+
 shortcuts-card-collapse-button = কম দেখাও
+
 header-back-button =
     .title = ফিরে যাও
 
@@ -221,12 +270,15 @@ discopane-intro =
     বদলসহ আরও অনেক কিছু করতে পারেন। এইসব ছোট ছোট সফটওয়্যার প্রোগ্রাম অনেক সময়
     তৃতীয় কারও দ্বারা তৈরি করা হয়। অসাধারণ নিরাপত্তা, কর্মক্ষমতা এবং কার্যকারিতার জন্য এখানে 
     { -brand-product-name } <a data-l10n-name="learn-more-trigger">সুপারিশ</a>।
+
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     এর মধ্যে কিছু সুপারিশ পারসোনালাইজ সম্পর্কিত। এদের ভিত্তি অন্য
      যেসব এক্সটেনশন আপনি ইন্সটল করেছেন, আপনার প্রোফাইল পছন্দসমূহ এবং ব্যাবহারের পরিসংখ্যান।
 discopane-notice-learn-more = আরও জানুন
+
 privacy-policy = গোপনীয়তা নীতি
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -241,6 +293,7 @@ install-theme-button = থিম ইন্সটল করুন
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = পরিচালনা
 find-more-addons = আরও অ্যাড-অন খুঁজুন
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -262,34 +315,45 @@ preferences-addon-button =
 details-addon-button = বিশদ বিবরণ
 release-notes-addon-button = রিলিজ নোট
 permissions-addon-button = অনুমতিসমূহ
+
 extension-enabled-heading = সক্রিয়
 extension-disabled-heading = নিষ্ক্রিয়
+
 theme-enabled-heading = সক্রিয়
 theme-disabled-heading = নিষ্ক্রিয়
+
 plugin-enabled-heading = সক্রিয়
 plugin-disabled-heading = নিষ্ক্রিয়
+
 dictionary-enabled-heading = সক্রিয়
 dictionary-disabled-heading = নিষ্ক্রিয়
+
 locale-enabled-heading = সক্রিয়
 locale-disabled-heading = নিষ্ক্রিয়
+
 always-activate-button = সর্বদা সক্রিয়
 never-activate-button = কখনোই সক্রিয় নয়
+
 addon-detail-author-label = লেখক
 addon-detail-version-label = সংস্করণ
 addon-detail-last-updated-label = সর্বশেষ হালনাগাদ
 addon-detail-homepage-label = হোমপেজ
 addon-detail-rating-label = রেটিং
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = { -brand-short-name } পুনরাম্ভ হলে এই এক্সটেনশনটি হালনাগাদ করা হবে।
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = 5 এর ভেতর মান { NUMBER($rating, maximumFractionDigits: 1) }
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (নিষ্ক্রিয়)
+
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -305,12 +369,14 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> বাতিল করে দেয়া হয়েছে।
 pending-uninstall-undo-button = পূর্বাবস্থায় ফিরে যান
+
 addon-detail-updates-label = স্বয়ংক্রিয়ভাবে আপডেটের অনুমতি দিন
 addon-detail-updates-radio-default = ডিফল্ট
 addon-detail-updates-radio-on = সচল
 addon-detail-updates-radio-off = বন্ধ
 addon-detail-update-check-label = হালনাগাদ এর জন্য অনুসন্ধান করুন
 install-update-button = হালনাগাদ
+
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -331,11 +397,15 @@ addon-badge-recommended2 =
 
 available-updates-heading = বিদ্যমান হালনাগাদ
 recent-updates-heading = সাম্প্রতিক হালনাগাদ
+
 release-notes-loading = লোডিং…
 release-notes-error = দুঃখিত, রিলিজ নোট লোড করার সময় ত্রুটি হয়েছিল।
+
 addon-permissions-empty = এই এক্সটেনশনের জন্য কোনো অনুমতির প্রয়োজন নেই
+
 recommended-extensions-heading = প্রস্তাবিত এক্সটেনশনগুলি
 recommended-themes-heading = প্রস্তাবিত থিমস
+
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = সৃজনশীল মনে হচ্ছে? <a data-l10n-name="link">Firefox Color দিয়ে নিজের থিম তৈরি করুন।</a>
@@ -350,8 +420,10 @@ locale-heading = আপনার ভাষা ব্যবস্থাপনা
 updates-heading = আপনার হালনাগাদ পরিচালনা করুন
 discover-heading = আপনার { -brand-short-name } নিজের মত করুন
 shortcuts-heading = এক্সটেনশন শর্টকাট পরিচালনা করুন
+
 addons-heading-search-input =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
+
 addon-page-options-button =
     .title = সব অ্যাড-অন এর জন্য টুল
 
@@ -362,12 +434,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
+
 details-notification-unsigned-and-disabled = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
 details-notification-unsigned-and-disabled-link = আরও তথ্য
+
 details-notification-unsigned = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সাথে আগান।
 details-notification-unsigned-link = আরও তথ্য
+
 details-notification-blocked = নিরাপত্তা ও স্থায়ীত্বজনিত কারণে { $name } নিস্ক্রিয় করা হয়েছে।
 details-notification-blocked-link = আরও তথ্য
+
 details-notification-softblocked = নিরাপত্তা ও স্থায়ীত্বজনিত ত্রুটির জন্য { $name } দায়ী।
 details-notification-softblocked-link = আরও তথ্য
+
 details-notification-gmp-pending = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।

@@ -56,6 +56,7 @@ certificate-viewer-validity = বৈধতা
 certificate-viewer-miscellaneous = বিবিধ
 certificate-viewer-fingerprints = ফিঙ্গারপ্রিন্ট
 certificate-viewer-basic-constraints = প্রাথমিক সীমাবদ্ধতা
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ডাউনলোড
