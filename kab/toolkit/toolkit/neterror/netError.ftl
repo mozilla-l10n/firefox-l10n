@@ -29,6 +29,7 @@ neterror-view-certificate-link = Sken aselkin
 ##
 
 neterror-pref-reset = Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-inek i d-yewwin ugur-a. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?
+neterror-error-reporting-automatic = Tuzzna n tuccḍiwin am ta, d tallelt ad d-tmuddeḍ i { -vendor-short-name } akken ad isulu u ad isewḥel ismal web n ukellex
 
 ## Specific error messages
 
@@ -37,6 +38,8 @@ neterror-load-error-try-again = Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi a
 neterror-load-error-connection = Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.
 neterror-load-error-firewall = Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella { -brand-short-name } yezmer ad yekcem ɣer Web.
 neterror-captive-portal = Yessefk ad tkecmeḍ ar uẓeṭṭa-a send ad tizmireḍ ad tkecmeḍ ar Internet
+neterror-file-not-found-filename = Senqed isem n ufaylu ma yura s usekkil meqqren neɣ meẓẓi neɣ tuccdiwin n tira-nniḍen.
+neterror-file-not-found-moved = Senqed ma yella afaylu ur ittusenkez ara, ur ibeddel ara isem neɣ ur ittwakkes ara.
 neterror-access-denied = Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.
 neterror-unknown-protocol = Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmireḍ ad teldiḍ tawsit n tansa-a.
 neterror-redirect-loop = Ugur-a ahat yekka-d seg tukksa n urmad neɣ asewḥel n inagan n tuqqna.
@@ -53,6 +56,8 @@ neterror-proxy-connect-failure-settings = Senqed iɣewwaṛen n upṛuksi ma lla
 neterror-proxy-connect-failure-contact-admin = Nermes anedbal n uẓeṭṭa akken ad twaliḍ ma yella aqeddac apṛuksi itteddu.
 neterror-content-encoding-error = M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-a.
 neterror-unsafe-content-type = M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-a.
+neterror-nss-failure-not-verified = Asebter-a i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n yisefka i d-itturemsen
+neterror-nss-failure-contact-website = Ma uulac aɣilif, nermes imawlan n usmel web ɣef ugur-a.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } yufa-d dakken izmer ad yili ugur n teɣlist u ur ikemmel ara ɣer <b>{ $hostname }</b>. Ma terziḍ ɣer usmel, Imakwaren zemren ad ɛerḍen ad akren talɣut yecban awalen uffiren, imaylen, neɣ talqayt n tkerḍa n usmad.
@@ -66,6 +71,8 @@ certerror-expired-cert-intro = { -brand-short-name } Yufa-d ugur u ur ikemmel ar
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> ahat d asmel aɣelsan, maca ilaq ad termed tuqqna taɣelsant. Ugur-a iḍra-d sɣur <b>{ $mitm }</b>, i yellan d aseɣẓan deg uselkim-inek neɣ deg uẓeṭṭa-inek.
+neterror-corrupted-content-intro = Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa deg tuzna n yisefka.
+neterror-corrupted-content-contact-website = Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Talɣut leqqayen: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
