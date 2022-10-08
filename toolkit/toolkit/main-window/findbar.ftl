@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Bilaketa azkarra (loturak soilik)
 findbar-case-sensitive-status =
     .value = (Maiuskula/minuskula errespetatuz)
+findbar-match-diacritics-status =
+    .value = (Diakritikoak bereizten)
 findbar-entire-word-status =
     .value = (Hitz osoak soilik)
 # Variables:
