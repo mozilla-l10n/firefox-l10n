@@ -34,8 +34,16 @@ findbar-entire-word =
 findbar-not-found = Szukany tekst nie został odnaleziony.
 findbar-wrapped-to-top = Koniec strony. Wyszukiwanie od początku.
 findbar-wrapped-to-bottom = Początek strony. Wyszukiwanie od końca.
+findbar-normal-find =
+    .placeholder = Znajdź na stronie
+findbar-fast-find =
+    .placeholder = Znajdź szybko
+findbar-fast-find-links =
+    .placeholder = Znajdź szybko (tylko odnośniki)
 findbar-case-sensitive-status =
     .value = (z rozróżnianiem wielkości liter)
+findbar-match-diacritics-status =
+    .value = (z rozróżnianiem liter diakrytyzowanych)
 findbar-entire-word-status =
     .value = (tylko całe słowa)
 # Variables:
