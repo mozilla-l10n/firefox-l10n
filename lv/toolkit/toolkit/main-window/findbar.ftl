@@ -22,5 +22,30 @@ findbar-entire-word =
 findbar-not-found = Frāze netika atrasta
 findbar-wrapped-to-top = Sasniegtas lapas beigas, turpina no augšas
 findbar-wrapped-to-bottom = Sasniegta lapas augša, turpina no apakšas
+findbar-normal-find =
+    .placeholder = Atrast lapā
+findbar-fast-find =
+    .placeholder = Ātrā meklēšana
+findbar-fast-find-links =
+    .placeholder = Ātrā meklēšana (tikai saites)
 findbar-case-sensitive-status =
     .value = (Reģistrjūtīgs)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [zero] { $current } no { $total } atbilstībām
+            [one] { $current } no { $total } atbilstības
+           *[other] { $current } no { $total } atbilstībām
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [zero] Vairāk kā { $limit } atbilstības
+            [one] Vairāk kā { $limit } atbilstība
+           *[other] Vairāk kā { $limit } atbilstības
+        }
