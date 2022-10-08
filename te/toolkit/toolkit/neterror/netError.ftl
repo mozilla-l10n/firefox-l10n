@@ -9,9 +9,12 @@ neterror-page-title = పేజీని లోడుచేయడంలో స�
 
 ## Error page actions
 
+neterror-return-to-previous-page-button = వెనక్కి వెళ్ళు
 
 ##
 
 
 ## Specific error messages
 
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = ఉన్నత సమాచారం: SSL_ERROR_UNSUPPORTED_VERSION
