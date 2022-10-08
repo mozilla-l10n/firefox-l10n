@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Polecana funkcja
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Dlaczego jest to wyświetlane?
+
 cfr-doorhanger-extension-cancel-button = Nie teraz
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Dodaj
     .accesskey = D
+
 cfr-doorhanger-extension-manage-settings-button = Ustawienia polecania
     .accesskey = U
+
 cfr-doorhanger-extension-never-show-recommendation = Nie pokazuj więcej polecenia tego rozszerzenia
     .accesskey = e
+
 cfr-doorhanger-extension-learn-more-link = Więcej informacji
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Autor: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Polecenie
 cfr-doorhanger-extension-notification2 = Polecenie
     .tooltiptext = Polecenie rozszerzenia
     .a11y-announcement = Dostępne polecenie rozszerzenia
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Polecenie
@@ -81,9 +89,11 @@ cfr-protections-panel-link-text = Więcej informacji
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowa funkcja:
+
 cfr-whatsnew-button =
     .label = Co nowego
     .tooltiptext = Co nowego
+
 cfr-whatsnew-release-notes-link-text = Przeczytaj informacje o wydaniu
 
 ## Enhanced Tracking Protection Milestones
@@ -161,6 +171,7 @@ spotlight-total-cookie-protection-body = Całkowita ochrona ciasteczek uniemożl
 spotlight-total-cookie-protection-expanded = { -brand-short-name } buduje płot wokół ciasteczek, ograniczając je do odwiedzanej witryny, aby elementy śledzące nie mogły ich używać do śledzenia Cię. Włączając tę funkcję przed innymi pomożesz ją zoptymalizować, abyśmy mogli kontynuować tworzenie lepszego Internetu dla wszystkich.
 spotlight-total-cookie-protection-primary-button = Włącz całkowitą ochronę ciasteczek
 spotlight-total-cookie-protection-secondary-button = Nie teraz
+
 cfr-total-cookie-protection-header = Dzięki Tobie { -brand-short-name } jest teraz bardziej prywatny i bezpieczny niż kiedykolwiek
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -178,3 +189,21 @@ spotlight-pin-primary-button =
        *[other] Przypnij do paska zadań
     }
 spotlight-pin-secondary-button = Nie teraz
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+## Firefox View CFR
+
+## Firefox View Spotlight
+

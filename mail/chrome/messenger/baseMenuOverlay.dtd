@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "O">
 <!ENTITY productHelp.label "Pomoc programu &brandShortName;">
 <!ENTITY productHelp.accesskey "c">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

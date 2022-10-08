@@ -105,6 +105,7 @@ tab-context-move-tabs =
            *[other] Przenieś karty
         }
     .accesskey = r
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

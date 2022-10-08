@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Zacznij od nowa, aby rozwiązać problemy z
 refresh-profile = Odnów program { -brand-short-name }
 refresh-profile-button = Odśwież program { -brand-short-name }…
 refresh-profile-learn-more = Więcej informacji
+
 refresh-profile-progress =
     .title = Odświeżanie programu { -brand-short-name }
 refresh-profile-progress-description = Prawie gotowe…

@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Ustawienia
     .accesskey = U
+
 menu-addons-and-themes =
     .label = Dodatki i motywy
     .accesskey = D
@@ -20,36 +21,47 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Pomoc
     .accesskey = c
+
 menu-help-get-help =
     .label = Pomoc
     .accesskey = P
+
 menu-help-explore-features =
     .label = Odkrywaj możliwości
     .accesskey = m
+
 menu-help-shortcuts =
     .label = Skróty klawiaturowe
     .accesskey = S
+
 menu-help-get-involved =
     .label = Dołącz do nas
     .accesskey = D
+
 menu-help-donation =
     .label = Przekaż datek
     .accesskey = z
+
 menu-help-share-feedback =
     .label = Podziel się pomysłami i opiniami
     .accesskey = d
+
 menu-help-enter-troubleshoot-mode =
     .label = Tryb rozwiązywania problemów…
     .accesskey = T
+
 menu-help-exit-troubleshoot-mode =
     .label = Wyłącz tryb rozwiązywania problemów
     .accesskey = t
+
 menu-help-more-troubleshooting-info =
     .label = Więcej informacji do rozwiązywania problemów
     .accesskey = n
+
 menu-help-troubleshooting-info =
     .label = Informacje do rozwiązywania problemów
     .accesskey = n
+
 menu-help-about-product =
     .label = O programie { -brand-short-name }
     .accesskey = O
@@ -80,33 +92,43 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Rozmiar czcionki
     .accesskey = R
+
 menuitem-font-size-enlarge =
     .label = Zwiększ rozmiar czcionki
     .accesskey = w
+
 menuitem-font-size-reduce =
     .label = Zmniejsz rozmiar czcionki
     .accesskey = m
+
 menuitem-font-size-reset =
     .label = Rozmiar pierwotny
     .accesskey = z
+
 mail-uidensity-label =
     .label = Gęstość i upakowanie
     .accesskey = G
+
 mail-uidensity-compact =
     .label = Zwarte
     .accesskey = w
+
 mail-uidensity-normal =
     .label = Zwykłe
     .accesskey = Z
+
 mail-uidensity-touch =
     .label = Dotykowe
     .accesskey = D
+
 mail-uidensity-default =
     .label = Domyślne
     .accesskey = m
+
 mail-uidensity-relaxed =
     .label = Rozluźnione
     .accesskey = R
+
 menu-spaces-toolbar-button =
     .label = Pasek miejsc
     .accesskey = c

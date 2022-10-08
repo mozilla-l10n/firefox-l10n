@@ -5,13 +5,17 @@
 app-manager-window =
     .title = Szczegóły aplikacji
     .style = width: 32em; min-height: 20em;
+
 app-manager-window2 =
     .title = Szczegóły aplikacji
     .style = min-width: 32em; min-height: 20em;
+
 app-manager-remove =
     .label = Usuń
     .accesskey = U
+
 app-manager-handle-protocol = Do obsługi odnośników „{ $type }” można użyć następujących aplikacji:
+
 app-manager-handle-file = Do obsługi treści „{ $type }” można użyć następujących aplikacji:
 
 ## These strings are followed, on a new line,
