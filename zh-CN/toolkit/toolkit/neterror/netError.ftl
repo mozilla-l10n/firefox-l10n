@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = 页面载入出错
+certerror-page-title = 警告：面临潜在的安全风险
 certerror-sts-page-title = 未连接：有安全风险
 neterror-blocked-by-policy-page-title = 页面已封锁
 neterror-captive-portal-page-title = 请登录网络
@@ -21,6 +22,7 @@ neterror-open-portal-login-page-button = 打开网络登录页面
 neterror-override-exception-button = 接受风险并继续
 neterror-pref-reset-button = 恢复默认设置
 neterror-return-to-previous-page-button = 后退
+neterror-return-to-previous-page-recommended-button = 返回上一页（推荐）
 neterror-try-again-button = 重试
 neterror-view-certificate-link = 查看证书
 
@@ -61,6 +63,9 @@ neterror-nss-failure-contact-website = 建议向此网站的管理员反馈这�
 certerror-intro = { -brand-short-name } 检测到潜在的安全威胁，因此没有继续访问 <b>{ $hostname }</b>。若您访问此网站，攻击者可能会尝试窃取您的密码、电子邮件、信用卡等信息。
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } 检测到潜在的安全威胁，并因 <b>{ $hostname }</b> 要求安全连接而没有继续。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } 检测到问题而没有继续连接 <b>{ $hostname }</b>。可能是该网站配置有误，或者您的计算机时钟设置有误。
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -75,6 +80,9 @@ neterror-sslv3-used = 高级信息: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> 使用了过时的安全技术，较容易遭受攻击。攻击者可以轻易窃取您的信息。该网站的管理员修正服务器后您才能访问该网站。
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = 错误代码：NS_ERROR_NET_INADEQUATE_SECURITY
+neterror-network-protocol-error-intro = 您尝试查看的页面无法显示，因为检测到了网络协议中的错误。
+neterror-network-protocol-error-contact-website = 建议向此网站的管理员反馈这个问题。
+certerror-what-can-you-do-about-it-title = 您可以做什么？
 certerror-unknown-issuer-what-can-you-do-about-it-website = 这个问题大多与网站有关，无法通过您的操作解决。
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = 如果您是在使用公司网络或某些防病毒软件时遇到此问题，可考虑联系客服（技术支持）以寻求帮助。您也可以向网站管理员告知此问题。
 # Variables:
