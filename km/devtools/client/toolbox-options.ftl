@@ -99,8 +99,3 @@ options-enable-service-workers-http-tooltip =
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = តែ​សម័យ​ប៉ុណ្ណោះ ផ្ទុក​ទំព័រ​​ឡើយ​វិញ
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = បង្ហាញ​ទិន្នន័យ​កម្មវិធី Gecko
-options-show-platform-data-tooltip =
-    .title = បើ​អ្នក​បិទ​ជម្រើស​នេះ របាយការណ៍​កម្មវិធី​បង្កើត​ប្រវត្តិរូប​របស់ JavaScript នឹង​រួម​បញ្ចូល និមិត្តសញ្ញា​កម្មវិធី Gecko

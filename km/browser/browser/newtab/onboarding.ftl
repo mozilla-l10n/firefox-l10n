@@ -35,6 +35,7 @@ return-to-amo-add-extension-label = បញ្ចូលផ្នែកបន្�
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-welcome-header = សូម​ស្វាគមន៍​មក​កាន់ { -brand-short-name }
+
 mr1-onboarding-set-default-secondary-button-label = កុំទាន់
 mr1-onboarding-sign-in-button-label = ចូល
 
@@ -49,10 +50,13 @@ mr1-onboarding-default-primary-button-label = កំណត់​ជាកម្�
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = នាំចូលពី { $previous }
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = នាំចូលពីកម្មវិធីរុករកតាមអ៊ីនធឺណិត​មុន
 mr1-onboarding-import-secondary-button-label = កុំទាន់
+
 mr1-onboarding-theme-label-dark = ងងឹត
+
 onboarding-theme-primary-button-label = រួចរាល់
 
 ## Please make sure to split the content of the title attribute into lines whose
