@@ -14,11 +14,13 @@ neterror-copy-to-clipboard-button = Kopijuoti tekstą į iškarpinę
 neterror-learn-more-link = Sužinoti daugiau…
 neterror-open-portal-login-page-button = Atverti prisijungimo tinklalapį
 neterror-pref-reset-button = Atstatyti numatytąsias nuostatas
+neterror-return-to-previous-page-button = Eiti atgal
 neterror-try-again-button = Bandyti dar kartą
 
 ##
 
 neterror-pref-reset = Panašu, kad taip galėjo nutikti dėl jūsų tinklo saugumo nuostatų. Ar norite atstatyti numatytąsias reikšmes?
+neterror-error-reporting-automatic = Pranešdami apie tokias klaidas kaip ši, padėsite „{ -vendor-short-name }i“ nustatyti ir užblokuoti kenksmingas svetaines
 
 ## Specific error messages
 
@@ -49,6 +51,8 @@ neterror-nss-failure-not-verified = Tinklalapis, kurį bandote atverti, negali b
 neterror-nss-failure-contact-website = Prašom pranešti apie šią problemą svetainės savininkams.
 neterror-corrupted-content-intro = Tinklalapio, kurį bandote atverti, parodyti negalima, nes perduodant duomenis įvyko klaida.
 neterror-corrupted-content-contact-website = Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Papildoma informacija: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-inadequate-security-intro = <b>{ $hostname }</b> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis lengvai galėtų pamatyti informaciją, kuri jums atrodė saugi. Kol svetainės administratorius jos nesutvarkys, negalėsite į šią svetainę užeiti.
