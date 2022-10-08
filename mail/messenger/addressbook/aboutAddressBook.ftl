@@ -24,6 +24,7 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Усі адресні книги
 all-address-books = Усі адресні книги
+
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -31,6 +32,7 @@ about-addressbook-card-count = Загальна кількість контак�
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = Загальна кількість контактів у всіх адресних книгах: { $count }
+
 about-addressbook-books-context-properties =
     .label = Властивості
 about-addressbook-books-context-edit-list =
@@ -49,6 +51,7 @@ about-addressbook-books-context-remove =
     .label = Вилучити
 about-addressbook-books-context-startup-default =
     .label = Типовий початковий каталог
+
 about-addressbook-confirm-delete-book-title = Видалити адресну книгу
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -66,14 +69,17 @@ about-addressbook-search =
     .placeholder = Пошук { $name }
 about-addressbook-search-all =
     .placeholder = Пошук у всіх адресних книгах
+
 about-addressbook-sort-button2 =
     .title = Перелік параметрів показу
+
 about-addressbook-name-format-display =
     .label = Ім'я для показу
 about-addressbook-name-format-firstlast =
     .label = Ім’я Прізвище
 about-addressbook-name-format-lastfirst =
     .label = Прізвище, ім’я
+
 about-addressbook-sort-name-ascending =
     .label = Впорядкувати за іменем (А > Я)
 about-addressbook-sort-name-descending =
@@ -82,6 +88,7 @@ about-addressbook-sort-email-ascending =
     .label = Впорядкувати за адресою електронної пошти (А > Я)
 about-addressbook-sort-email-descending =
     .label = Впорядкувати за адресою електронної пошти (Я > А)
+
 about-addressbook-horizontal-layout =
     .label = Перейти до альбомного подання
 about-addressbook-vertical-layout =
@@ -117,8 +124,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Адресна книга
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = Записати
+
 about-addressbook-confirm-delete-mixed-title = Видалити контакти та списки
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -196,19 +205,27 @@ about-addressbook-selection-contacts-header = Вибрано { $count } конт
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = Вибрано { $count } списків
+
 about-addressbook-details-edit-photo =
     .title = Змінити світлину контакту
+
 about-addressbook-new-contact-header = Новий контакт
+
 about-addressbook-prefer-display-name = Надавати перевагу показуваному імені, а не заголовку повідомлення
+
 about-addressbook-write-action-button = Створити
 about-addressbook-event-action-button = Подія
 about-addressbook-search-action-button = Пошук
+
 about-addressbook-new-list-action-button = Створити список
+
 about-addressbook-begin-edit-contact-button = Редагувати
 about-addressbook-delete-edit-contact-button = Видалити
 about-addressbook-cancel-edit-contact-button = Скасувати
 about-addressbook-save-edit-contact-button = Зберегти
+
 about-addressbook-add-contact-to = Додати в:
+
 about-addressbook-details-email-addresses-header = Адреси електронної пошти
 about-addressbook-details-phone-numbers-header = Номери телефону
 about-addressbook-details-addresses-header = Адреси
@@ -216,12 +233,14 @@ about-addressbook-details-notes-header = Примітки
 about-addressbook-details-impp-header = Миттєві повідомлення
 about-addressbook-details-websites-header = Вебсайти
 about-addressbook-details-other-info-header = Інші відомості
+
 about-addressbook-entry-type-work = Робота
 about-addressbook-entry-type-home = Дім
 about-addressbook-entry-type-fax = Факс
 # Or "Mobile"
 about-addressbook-entry-type-cell = Мобільний
 about-addressbook-entry-type-pager = Пейджер
+
 about-addressbook-entry-name-birthday = День народження
 about-addressbook-entry-name-anniversary = Ювілей
 about-addressbook-entry-name-title = Заголовок
@@ -229,10 +248,12 @@ about-addressbook-entry-name-role = Роль
 about-addressbook-entry-name-organization = Організація
 about-addressbook-entry-name-website = Вебсайт
 about-addressbook-entry-name-time-zone = Часовий пояс
+
 about-addressbook-entry-name-custom1 = Інше 1
 about-addressbook-entry-name-custom2 = Інше 2
 about-addressbook-entry-name-custom3 = Інше 3
 about-addressbook-entry-name-custom4 = Інше 4
+
 about-addressbook-unsaved-changes-prompt-title = Незбережені зміни
 about-addressbook-unsaved-changes-prompt = Зберегти зміни, перш ніж вийти з режиму редагування?
 
@@ -242,6 +263,7 @@ about-addressbook-photo-drop-target = Перетягніть або вставт
 about-addressbook-photo-drop-loading = Завантаження світлин…
 about-addressbook-photo-drop-error = Не вдалося завантажити світлину.
 about-addressbook-photo-filepicker-title = Вибрати файл зображення
+
 about-addressbook-photo-discard = Відкинути наявну світлину
 about-addressbook-photo-cancel = Скасувати
 about-addressbook-photo-save = Зберегти

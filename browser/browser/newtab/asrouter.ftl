@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Рекомендована функція
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чому я це бачу?
+
 cfr-doorhanger-extension-cancel-button = Не зараз
     .accesskey = е
+
 cfr-doorhanger-extension-ok-button = Додати
     .accesskey = т
+
 cfr-doorhanger-extension-manage-settings-button = Керувати налаштуваннями рекомендацій
     .accesskey = К
+
 cfr-doorhanger-extension-never-show-recommendation = Не показувати цю рекомендацію
     .accesskey = Н
+
 cfr-doorhanger-extension-learn-more-link = Докладніше
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = від { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рекомендація
 cfr-doorhanger-extension-notification2 = Рекомендація
     .tooltiptext = Рекомендація розширень
     .a11y-announcement = Доступна рекомендація розширень
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Рекомендація
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Докладніше
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова функція:
+
 cfr-whatsnew-button =
     .label = Що нового
     .tooltiptext = Що нового
+
 cfr-whatsnew-release-notes-link-text = Ознайомитися з інформацією про випуск
 
 ## Enhanced Tracking Protection Milestones
@@ -159,6 +169,7 @@ spotlight-total-cookie-protection-body = Повний захист кук не �
 spotlight-total-cookie-protection-expanded = { -brand-short-name } обгороджує куки, обмежуючи їх використання сайтом, на якому ви перебуваєте, тому елементи стеження не можуть використовувати їх для переслідування. Завдяки ранньому доступу ви допомагаєте оптимізувати цю функцію, щоб ми продовжували створювати кращий Інтернет для кожного.
 spotlight-total-cookie-protection-primary-button = Увімкнути повний захист кук
 spotlight-total-cookie-protection-secondary-button = Не зараз
+
 cfr-total-cookie-protection-header = Завдяки вам { -brand-short-name } ще приватніший та безпечніший, ніж будь-коли
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -192,11 +203,13 @@ spotlight-pin-secondary-button = Не зараз
 
 mr2022-background-update-toast-title = Новий { -brand-short-name }. Ще приватніший. Менше стеження. Жодних компромісів.
 mr2022-background-update-toast-text = Спробуйте найновіший { -brand-short-name }, з нашим оновленим, найпотужнішим захистом від стеження.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Відкрити { -brand-shorter-name }
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -215,6 +228,7 @@ firefoxview-cfr-body = Крім того, легко перемикайтеся 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Вітайте { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Ця відкрита вкладка потрібна на вашому телефоні? Перенесіть її. Потрібен щойно відвіданий сайт? Пуф, він повернувся за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
 firefoxview-spotlight-promo-primarybutton = Дивитись, як це працює

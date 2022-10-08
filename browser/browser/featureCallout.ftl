@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Далі
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Зрозуміло!
 
@@ -12,13 +13,20 @@ callout-primary-complete-button-label = Зрозуміло!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Перемикайтеся між пристроями з доступом до своїх вкладок
+
 callout-firefox-view-tab-pickup-subtitle = Швидко отримуйте відкриті вкладки з телефона та відкривайте їх тут для продовження роботи.
+
 callout-firefox-view-recently-closed-title = Миттєво відновлюйте закриті вкладки
+
 callout-firefox-view-recently-closed-subtitle = Усі ваші закриті вкладки з'являтимуться тут. Більше ніколи не хвилюйтеся про випадкове закриття сторінки.
+
 callout-firefox-view-colorways-title = Додайте сплеск кольорів
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Оберіть відтінок, який пасуватиме саме вам, за допомогою забарвлень. Лише в { -brand-product-name }.
+
 callout-firefox-view-colorways-reminder-title = Ознайомтеся з нашими найновішими забарвленнями
+
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Розфарбуйте свій браузер цими знаковими відтінками, натхненними незалежними голосами. Тільки в { -brand-product-name }.
 
@@ -28,5 +36,7 @@ callout-firefox-view-colorways-reminder-subtitle = Розфарбуйте сві
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Пришвидшіть свій перегляд за допомогою синхронізованих вкладок
+
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Отримуйте доступ до ваших відкритих вкладок з будь-якого пристрою. Крім того, синхронізуйте свої закладки, паролі та інші дані.
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Почнемо
