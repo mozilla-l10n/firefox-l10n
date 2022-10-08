@@ -38,6 +38,13 @@ neterror-load-error-try-again = O site pode estar temporariamente indisponível 
 neterror-load-error-connection = Se não conseguir carregar quaisquer páginas, verifique a ligação do seu computador à rede.
 neterror-load-error-firewall = Se o seu computador ou rede estiverem protegidos por uma firewall ou proxy, certifique-se de que o { -brand-short-name } tem permissão para aceder à Web.
 neterror-captive-portal = Tem de iniciar sessão nesta rede antes de poder aceder à Internet.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Pretendia aceder a <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Se inseriu o endereço correto, pode:</strong>
+neterror-dns-not-found-hint-try-again = Tentar novamente mais tarde
+neterror-dns-not-found-hint-check-network = Verificar a sua ligação à rede
+neterror-dns-not-found-hint-firewall = Verificar se { -brand-short-name } tem permissão para aceder à Internet (pode estar ligado, mas atrás de uma firewall)
 neterror-file-not-found-filename = Verifique se existem erros de escrita no nome do ficheiro.
 neterror-file-not-found-moved = Verifique se o ficheiro foi movido, renomeado ou apagado.
 neterror-access-denied = Este pode ter sido removido, movido ou as permissões do ficheiro podem estar a impedir o acesso.
