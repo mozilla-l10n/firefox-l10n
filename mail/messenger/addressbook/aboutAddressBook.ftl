@@ -21,8 +21,9 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Wšě adresniki
 all-address-books = Wšě adresniki
-
 about-addressbook-books-context-properties =
     .label = Kajkosće
 about-addressbook-books-context-edit-list =
@@ -41,7 +42,6 @@ about-addressbook-books-context-remove =
     .label = Wotstronić
 about-addressbook-books-context-startup-default =
     .label = Standardny startowy zapis
-
 about-addressbook-confirm-delete-book-title = Adresnik zhašeć
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -59,17 +59,14 @@ about-addressbook-search =
     .placeholder = { $name } přepytać
 about-addressbook-search-all =
     .placeholder = Wšě adresniki přepytać
-
 about-addressbook-sort-button2 =
     .title = Pokazowanske nastajenja nalistować
-
 about-addressbook-name-format-display =
     .label = Zwobraznjenske mjeno
 about-addressbook-name-format-firstlast =
     .label = Předmjeno Swójbne mjeno
 about-addressbook-name-format-lastfirst =
     .label = Swójbne mjeno, předmjeno
-
 about-addressbook-sort-name-ascending =
     .label = Po mjenje sortěrować (A > Z)
 about-addressbook-sort-name-descending =
@@ -78,7 +75,6 @@ about-addressbook-sort-email-ascending =
     .label = Po e-mejlowej adresy sortěrować (A > Z)
 about-addressbook-sort-email-descending =
     .label = Po e-mejlowej adresy sortěrować (Z > A)
-
 about-addressbook-horizontal-layout =
     .label = Do horicontalneho wuhotowanja přepinać
 about-addressbook-vertical-layout =
@@ -93,6 +89,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = E-mejlowe adresy
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Přimjeno
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Telefonowe čisła
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -111,10 +110,8 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Adresnik
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
-
 about-addressbook-cards-context-write =
     .label = Pisać
-
 about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny zhašeć
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -189,33 +186,41 @@ about-addressbook-placeholder-no-search-results = Žane kontakty namakane
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = Ličba wubranych kontaktow a lisćinow: { $count }
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = Ličba wubranych kontaktow: { $count }
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = Ličba wubranych lisćinow: { $count }
+about-addressbook-details-edit-photo =
+    .title = Kontaktowe foto wobdźěłać
+about-addressbook-new-contact-header = Nowy kontakt
 about-addressbook-prefer-display-name = Mjeno skerje nad hłowu powěsće pokazać
-
 about-addressbook-write-action-button = Pisać
 about-addressbook-event-action-button = Podawk
 about-addressbook-search-action-button = Pytać
-
+about-addressbook-new-list-action-button = Nowa lisćina
 about-addressbook-begin-edit-contact-button = Wobdźěłać
 about-addressbook-delete-edit-contact-button = Zhašeć
 about-addressbook-cancel-edit-contact-button = Přetorhnyć
 about-addressbook-save-edit-contact-button = Składować
-
 about-addressbook-add-contact-to = Přidać do:
-
 about-addressbook-details-email-addresses-header = E-mejlowe adresy
 about-addressbook-details-phone-numbers-header = Telefonowe čisła
 about-addressbook-details-addresses-header = Adresy
 about-addressbook-details-notes-header = Přispomnjenki
 about-addressbook-details-impp-header = Hnydomne posrědkowanje powěsćow
+about-addressbook-details-websites-header = Websydła
 about-addressbook-details-other-info-header = Druhe informacije
-
 about-addressbook-entry-type-work = Słužbny
 about-addressbook-entry-type-home = Startowa strona
 about-addressbook-entry-type-fax = Faks
 # Or "Mobile"
 about-addressbook-entry-type-cell = Mobilny telefon
 about-addressbook-entry-type-pager = Pager
-
 about-addressbook-entry-name-birthday = Narodniny
 about-addressbook-entry-name-anniversary = Róčnica
 about-addressbook-entry-name-title = Titul
@@ -223,7 +228,10 @@ about-addressbook-entry-name-role = Róla
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Websydło
 about-addressbook-entry-name-time-zone = Časowe pasmo
-
+about-addressbook-entry-name-custom1 = Swójske 1
+about-addressbook-entry-name-custom2 = Swójske 2
+about-addressbook-entry-name-custom3 = Swójske 3
+about-addressbook-entry-name-custom4 = Swójske 4
 about-addressbook-unsaved-changes-prompt-title = Njeskładowane změny
 about-addressbook-unsaved-changes-prompt = Chceće swoje změny składować, prjedy hač wobdźěłowanski napohlad wopušćeće?
 
@@ -233,7 +241,6 @@ about-addressbook-photo-drop-target = Pušćće abo zasadźće tu foto abo klik�
 about-addressbook-photo-drop-loading = Foto so začituje …
 about-addressbook-photo-drop-error = Foto njeda so začitać.
 about-addressbook-photo-filepicker-title = Wobrazowu dataju wubrać
-
 about-addressbook-photo-discard = Eksistowace foto zaćisnyć
 about-addressbook-photo-cancel = Přetorhnyć
 about-addressbook-photo-save = Składować
