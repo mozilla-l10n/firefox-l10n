@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Ainm an Úsáideora:
 tabmodalprompt-password =
     .value = Focal Faire:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =
