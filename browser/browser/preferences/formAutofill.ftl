@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = ਸੰਭਾਲੇ ਸਿਰਨਾਵੇਂ
 autofill-manage-addresses-list-header = ਸਿਰਨਾਵੇਂ
+
 autofill-manage-credit-cards-title = ਸੰਭਾਲੇ ਕਰੈਡਿਟ ਕਾਰਡ
 autofill-manage-credit-cards-list-header = ਕਰੈਡਿਟ ਕਾਰਡ
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ਹਟਾਓ
@@ -21,6 +23,7 @@ autofill-manage-edit-button = …ਸੋਧੋ
 autofill-add-new-address-title = ਨਵਾਂ ਸਿਰਨਾਵਾਂ ਜੋੜੋ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ਸਿਰਨਾਵਾਂ ਨੂੰ ਸੋਧੋ
+
 autofill-address-given-name = ਪਹਿਲਾਂ ਨਾਂ
 autofill-address-additional-name = ਮੱਧ ਨਾਂ
 autofill-address-family-name = ਆਖਰੀ ਨਾਂ
@@ -81,13 +84,16 @@ autofill-address-eircode = ਇਰਕੋਡ
 autofill-address-country = ਦੇਸ਼ ਜਾਂ ਖਿੱਤਾ
 autofill-address-tel = ਫ਼ੋਨ
 autofill-address-email = ਈਮੇਲ
+
 autofill-cancel-button = ਰੱਦ ਕਰੋ
 autofill-save-button = ਸੰਭਾਲੋ
 autofill-country-warning-message = ਫ਼ਾਰਮ ਖੁਦ-ਭਰੋ ਇਸ ਵੇਲੇ ਕੁਝ ਦੇਸ਼ਾਂ 'ਚ ਹੀ ਉਪਲਬਧ ਹੈ।
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ਨਵਾਂ ਕਰੈਡਿਟ ਕਾਰਡ ਜੋੜੋ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ਕਰੈਡਿਟ ਕਾਰਡ ਸੋਧੋ
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਕਾਰੀ ਵਿਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਹੇਠ ਦਿੱਤੇ ਇਸ ਵਿੰਡੋ ਖਾਤੇ ਲਈ ਪਹੁੰਚ ਦੀ ਤਸਦੀਕ ਕਰੋ।
        *[other] { -brand-short-name } ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਾਕਰੀ ਦਿਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।
     }
+
 autofill-card-number = ਕਾਰਡ ਨੰਬਰ
 autofill-card-invalid-number = ਢੁੱਕਵਾਂ ਕਾਰਡ ਨੰਬਰ ਦਿਓ
 autofill-card-name-on-card = ਕਾਰਡ 'ਤੇ ਨਾਂ

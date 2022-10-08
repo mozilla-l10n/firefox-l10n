@@ -9,6 +9,7 @@ refresh-profile-dialog-description = ਕਾਰਗੁਜ਼ਾਰੀ ਮਸਲਿਆ
 refresh-profile = { -brand-short-name } ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਓ
 refresh-profile-button = …{ -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
 refresh-profile-learn-more = ਹੋਰ ਜਾਣੋ
+
 refresh-profile-progress =
     .title = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
 refresh-profile-progress-description = …ਬੱਸ ਹੋ ਗਿਆ
