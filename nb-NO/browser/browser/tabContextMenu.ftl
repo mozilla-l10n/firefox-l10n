@@ -103,6 +103,7 @@ tab-context-move-tabs =
            *[other] Flytt faner
         }
     .accesskey = F
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

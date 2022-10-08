@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Begynn på nytt for å løse ytelsesproblem
 refresh-profile = Gi { -brand-short-name } en overhaling
 refresh-profile-button = Tilbakestill { -brand-short-name }…
 refresh-profile-learn-more = Les mer
+
 refresh-profile-progress =
     .title = Tilbakestill { -brand-short-name }
 refresh-profile-progress-description = Nesten ferdig …
