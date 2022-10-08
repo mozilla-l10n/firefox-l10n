@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Loowgol hello waɗii caɗeele
+neterror-blocked-by-policy-page-title = Hello Daaƴaango
 neterror-captive-portal-page-title = Seŋo e laylaytol hee
 neterror-dns-not-found-title = Sarworde Nde Yiytaaka
 neterror-malformed-uri-page-title = URL o moƴƴaani
