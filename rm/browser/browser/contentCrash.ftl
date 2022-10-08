@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Ina part da questa pagina è collabada.</strong> Trametta per plaschair in rapport per infurmar { -brand-product-name } davart quest problem e gidar d'al schliar pli svelt.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

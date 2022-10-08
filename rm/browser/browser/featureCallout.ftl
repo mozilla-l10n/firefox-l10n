@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Enavant
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Chapì!
 
@@ -12,13 +13,20 @@ callout-primary-complete-button-label = Chapì!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Mida dad in apparat a l'auter senza perder tabs
+
 callout-firefox-view-tab-pickup-subtitle = Va svelt per tabs averts sin tes telefonin ed als avra qua senza interrupziun.
+
 callout-firefox-view-recently-closed-title = Recuperescha tes tabs serrads en in batterdegl
+
 callout-firefox-view-recently-closed-subtitle = Tut tes tabs serrads vegnan a cumparair qua a moda magica. Uschia na stos ti mai avair tema da serrar per sbagl ina website.
+
 callout-firefox-view-colorways-title = Dà in zic colur
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Tscherna il schema che correspunda a tai – grazia a las novas cumbinaziuns da colurs. Mo en { -brand-product-name }.
+
 callout-firefox-view-colorways-reminder-title = Explorescha nossas cumbinaziuns da colurs las pli novas
+
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Colurescha tes navigatur cun questas cumbinaziuns da colurs legendaras, inspiradas da vuschs independentas. Mo en { -brand-product-name }.
 
@@ -28,5 +36,7 @@ callout-firefox-view-colorways-reminder-subtitle = Colurescha tes navigatur cun 
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Optimescha tia navigaziun cun la recuperaziun da tabs
+
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Acceda a tes tabs averts sin mintga apparat. Sincronisescha ultra da quai tes segnapaginas, pleds-clav e dapli.
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Emprims pass

@@ -14,13 +14,18 @@ colorway-collection-independent-voices-short-description = Colurs che midan la s
 
 playmaker-colorway-name = Capo
 playmaker-colorway-description = Ti creeschas occasiuns per gudagnar e gidas mintgin enturn tai da giugar anc meglier.
+
 expressionist-colorway-name = Expressiunist
 expressionist-colorway-description = Ti vesas il mund cun auters egls e tias creaziuns sveglian emoziuns.
+
 visionary-colorway-name = Visiunari
 visionary-colorway-description = Ti mettas en dumonda il status quo ed animeschas auters da s'imaginar in meglier mund.
+
 activist-colorway-name = Activista
 activist-colorway-description = Ti laschas enavos in meglier mund e mussas ad auters da crair en il futur.
+
 dreamer-colorway-name = Siemiader
 dreamer-colorway-description = Ti crais ch'il cletg gidia ils giagliards ed inspireschas auters dad esser curaschus.
+
 innovator-colorway-name = Innovatura
 innovator-colorway-description = Ti vesas dapertut ina pussaivladad ed influenzeschas las vitas da las persunas enturn tai.
