@@ -38,6 +38,8 @@ pending-crash-reports-message =
         [few] Máte { $reportCount } neodeslaná hlášení o pádu
        *[other] Máte { $reportCount } neodeslaných hlášení o pádu
     }
+pending-crash-reports-view-all =
+    .label = Zobrazit
 pending-crash-reports-send =
     .label = Odeslat
 pending-crash-reports-always-send =
