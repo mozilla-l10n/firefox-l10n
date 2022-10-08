@@ -7,6 +7,8 @@
 
 neterror-page-title = مشكلة في تحميل الصفحة
 neterror-captive-portal-page-title = لِج إلى الشبكة
+neterror-dns-not-found-title = الخادوم غير موجود
+neterror-malformed-uri-page-title = مسار غير صحيح
 
 ## Error page actions
 
@@ -15,6 +17,7 @@ neterror-learn-more-link = اطّلع على المزيد…
 neterror-open-portal-login-page-button = افتح صفحة الولوج إلى الشبكة
 neterror-pref-reset-button = استرجع الإعدادات الأصلية
 neterror-return-to-previous-page-button = عُد للخلف
+neterror-try-again-button = حاول مجددًا
 
 ##
 
