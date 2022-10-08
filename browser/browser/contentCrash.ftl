@@ -13,7 +13,7 @@
 pending-crash-reports-message =
     { $reportCount ->
         [one] Unengxelo engafakwanga yokukresha
-       *[other] { " " }Unengxelo yokukresha eyi-{ $reportCount } engafakwanga
+       *[other] Unengxelo yokukresha eyi-{ $reportCount } engafakwanga
     }
 pending-crash-reports-view-all =
     .label = Buka
