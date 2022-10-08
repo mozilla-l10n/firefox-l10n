@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡುವಲ್ಲಿ ತೊಂದರೆ ಎದುರಾಗಿದೆ
+neterror-blocked-by-policy-page-title = ನಿರ್ಬಂಧಿಸಿದ ಪುಟ
 neterror-captive-portal-page-title = ಜಾಲ ಸಂಪರ್ಕಕ್ಕೆ ಲಾಗಿನ್ ಆಗಿ
 neterror-dns-not-found-title = ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ
 neterror-malformed-uri-page-title = ಅಮಾನ್ಯವಾದ URL
