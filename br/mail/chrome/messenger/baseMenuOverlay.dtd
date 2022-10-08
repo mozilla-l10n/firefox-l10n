@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "D">
 <!ENTITY productHelp.label "Skoazell &brandShortName;">
 <!ENTITY productHelp.accesskey "S">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

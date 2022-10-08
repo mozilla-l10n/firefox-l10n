@@ -12,6 +12,10 @@ colorway-collection-independent-voices-short-description = Livioù a gemm ar sev
 ## Colorway names and descriptions
 
 expressionist-colorway-name = Ekspresionour
+
 visionary-colorway-name = Dreistweler
+
 activist-colorway-name = Stourmer
+
 dreamer-colorway-name = Huñvreour
+

@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Chomlec'hioù enrollet
 autofill-manage-addresses-list-header = Chomlec'hioù
+
 autofill-manage-credit-cards-title = Kartennoù kred enrollet
 autofill-manage-credit-cards-list-header = Kartennoù kred
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Dilemel
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Embann…
 autofill-add-new-address-title = Ouzhpennañ ur chomlec'h nevez
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Embann ar chomlec'h
+
 autofill-address-given-name = Anv bihan
 autofill-address-additional-name = Anv kreiz
 autofill-address-family-name = Anv familh
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Bro pe Rannvro
 autofill-address-tel = Pellgomz
 autofill-address-email = Chomlec'h postel
+
 autofill-cancel-button = Nullañ
 autofill-save-button = Enrollañ
 autofill-country-warning-message = Leuniañ emgefreek ar furmskridoù a zo hegerz evit chomlec'hioù broioù ’zo hepken
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ouzhpennañ ar gartenn gred
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Embann ar gartenn gred
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } a glask diskouez titouroù ur gartenn vank. Kadarnait an haeziñ d'ar gont Windows dindan.
        *[other] { -brand-short-name } a glask diskouez titouroù ur gartenn vank.
     }
+
 autofill-card-number = Niverenn ar gartenn
 autofill-card-invalid-number = Roit un niver kartenn dalvoudek mar plij
 autofill-card-name-on-card = Anv war ar gartenn

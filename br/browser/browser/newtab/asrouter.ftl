@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Keweriuster erbedet
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perak e welan an dra-mañ
+
 cfr-doorhanger-extension-cancel-button = Ket bremañ
     .accesskey = K
+
 cfr-doorhanger-extension-ok-button = Ouzhpennañ bremañ
     .accesskey = O
+
 cfr-doorhanger-extension-manage-settings-button = Merañ an arventennoù erbediñ
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Na ziskouez din an erbedadenn-mañ
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Gouzout hiroc'h
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = gant { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Erbedadennoù
 cfr-doorhanger-extension-notification2 = Erbedadenn
     .tooltiptext = Erbedadenn askouezh
     .a11y-announcement = Erbedadenn askouezh egerzh
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Erbedadenn
@@ -83,9 +91,11 @@ cfr-protections-panel-link-text = Gouzout hiroc'h
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Keweriuster nevez:
+
 cfr-whatsnew-button =
     .label = Petra nevez
     .tooltiptext = Petra nevez
+
 cfr-whatsnew-release-notes-link-text = Lenn an notennoù ermaeziañ
 
 ## Enhanced Tracking Protection Milestones
@@ -163,6 +173,7 @@ spotlight-total-cookie-protection-body = Ar gwarez klok toupinoù a vir an heuli
 spotlight-total-cookie-protection-expanded = { -brand-short-name } a sav ur voger tro-dro d'an toupinoù, ar pezh a vir anezho el lec'hienn lec'h m'emaoc'h ha n'hallont ket bezañ implijet evit heuliañ ac'hanoc'h. Gant an haeziñ abred e c'hallit gwellekaat ar c'heweriuster-mañ evit ma savfemp ur web gwelloc'h evit an holl.
 spotlight-total-cookie-protection-primary-button = Gweredekaat ar gwarez toupinoù klok
 spotlight-total-cookie-protection-secondary-button = Ket bremañ
+
 cfr-total-cookie-protection-header = Trugarez deoc'h, suroc'h ha prevesoc'h eget biskoazh eo { -brand-short-name }
 
 ## Emotive Continuous Onboarding
@@ -177,3 +188,21 @@ spotlight-pin-primary-button =
        *[other] Spilhennañ er varrenn an trevelloù
     }
 spotlight-pin-secondary-button = Ket bremañ
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+## Firefox View CFR
+
+## Firefox View Spotlight
+

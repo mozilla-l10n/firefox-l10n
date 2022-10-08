@@ -5,62 +5,81 @@
 permissions-window =
     .title = Nemedennoù
     .style = width: 45em
+
 permissions-window2 =
     .title = Nemedennoù
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Chomlec'h al lec'hienn
     .accesskey = C
+
 permissions-block =
     .label = Herzel
     .accesskey = H
+
 permissions-session =
     .label = Aotren evit an estez
     .accesskey = A
+
 permissions-allow =
     .label = Aotren
     .accesskey = A
+
 permissions-button-off =
     .label = Diweredekaat
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Diweredekaat e-pad nebeut amzer
     .accesskey = n
+
 permissions-site-name =
     .label = Lec'hienn
+
 permissions-status =
     .label = Stad
+
 permissions-remove =
     .label = Lemel kuit al lec'hienn
     .accesskey = L
+
 permissions-remove-all =
     .label = Lemel kuit an holl lec'hiennoù
     .accesskey = h
+
 permission-dialog =
     .buttonlabelaccept = Enrollañ ar c'hemmoù
     .buttonaccesskeyaccept = E
+
 permissions-autoplay-menu = Dre ziouer evit an holl lec'hiennoù:
+
 permissions-searchbox =
     .placeholder = Klask lec'hiennoù
+
 permissions-capabilities-autoplay-allow =
     .label = Aotren aodio ha video
 permissions-capabilities-autoplay-block =
     .label = Stankañ an aodio
 permissions-capabilities-autoplay-blockall =
     .label = Stankañ an aodio ha video
+
 permissions-capabilities-allow =
     .label = Aotren
 permissions-capabilities-block =
     .label = Herzel
 permissions-capabilities-prompt =
     .label = Goulenn bewech
+
 permissions-capabilities-listitem-allow =
     .value = Aotren
 permissions-capabilities-listitem-block =
     .value = Herzel
 permissions-capabilities-listitem-allow-session =
     .value = Aotren evit an estez
+
 permissions-capabilities-listitem-off =
     .value = Diweredekaet
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Roit un anv ostiz talvoudek, mar plij
 permissions-exceptions-etp-window =
     .title = Nemedennoù evit ar gwarez heuliañ araokaet.
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Nemedennoù evit ar gwarez heuliañ araokaet.
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Diweredekaet ho peus ar gwarez war al lec'hien
 permissions-exceptions-cookie-window =
     .title = Nemedennoù - Toupinoù ha roadennoù lec'hienn
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Nemedennoù - Toupinoù ha roadennoù lec'hienn
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Gallout a ri despizañ pe lec'hiennoù a vo
 permissions-exceptions-https-only-window =
     .title = Nemedennoù - Mod HTTPS hepken
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Nemedennoù - Mod HTTPS hepken
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Gallout a rit diweredekaat ar mod HTTPS
 permissions-exceptions-popup-window =
     .title = Lec'hiennoù aotreet - diflugelloù
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Lec'hiennoù aotreet - diflugelloù
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Gallout a rit erspizañ pe lec'hiennoù zo a
 permissions-exceptions-saved-logins-window =
     .title = Nemedennoù - Titouroù kennaskañ enrollet
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Nemedennoù - Titouroù kennaskañ enrollet
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Ne vo ket enrollet titouroù kennaska
 permissions-exceptions-addons-window =
     .title = Lec'hiennoù aotreet - Staliadur askouezhioù
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Lec'hiennoù aotreet - Staliadur askouezhioù
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù 
 permissions-site-autoplay-window =
     .title = Arventennoù - lenn emgefreek
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Arventennoù - lenn emgefreek
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Gallout a rit merañ al lec'hiennoù na heulion
 permissions-site-notification-window =
     .title = Arventennoù - Aotreoù ar rebuzadurioù
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Arventennoù - Aotreoù ar rebuzadurioù
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Herzel a raio al lec'hiennoù ha n'
 permissions-site-location-window =
     .title = Arventennoù - Aotreoù al lec'hiadur
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Arventennoù - Aotreoù al lec'hiadur
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Herzel a raio al lec'hiennoù ha n'int 
 permissions-site-xr-window =
     .title = Arventennoù - Aotreoù ar gwirvoud galloudel
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Arventennoù - Aotreoù ar gwirvoud galloudel
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Mirout a raio kement lec'hienn n'emañ ket er
 permissions-site-camera-window =
     .title = Arventennoù - Aotreoù ar c'hamera
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Arventennoù - Aotreoù ar c'hamera
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Herzel a raio al lec'hiennoù ha n'int ke
 permissions-site-microphone-window =
     .title = Arventennoù - Aotreoù ar glevell
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Arventennoù - Aotreoù ar glevell
     .style = { permissions-window2.style }

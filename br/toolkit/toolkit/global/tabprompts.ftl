@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Anv an arveriad:
 tabmodalprompt-password =
     .value = Ger-tremen:
+
 tabmodalprompt-ok-button =
     .label = Mat eo
 tabmodalprompt-cancel-button =

@@ -4,6 +4,7 @@
 
 page-title = Titouroù disac'hañ
 page-subtitle = Ar bajenn-mañ a endalc'h stlennoù teknikel hag a c'hallfe bezañ talvoudus pa glaskit  dirouestlañ ur gudenn. Mar klaskit respontoù da c'houlennoù boutin a-zivout  { -brand-short-name }, e c'hallit klask war hol <a data-l10n-name="support-link">lec'hienn skoazell</a>.
+
 crashes-title = Danevelloù sac'hadenn
 crashes-id = Naoudi an danevell
 crashes-send-date = Kaset
@@ -68,10 +69,12 @@ app-basics-safebrowsing-key-google = Alc'hwez Google Safebrowsing
 app-basics-key-mozilla = Alc'hwez Gwazerezh Lec'hiadur Mozilla
 app-basics-safe-mode = Mod diarvar
 app-basics-memory-size = Ment ar memor (RAM)
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Diskouez e-barzh Finder
@@ -174,6 +177,7 @@ report-crash-for-days =
         [many] Danevelloù sac'hadenn evit ar { $days } a zeizioù diwezhañ
        *[other] Danevelloù sac'hadenn evit an { $days } devezh diwezhañ
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -184,6 +188,7 @@ crashes-time-minutes =
         [many] { $minutes } a vunutennoù zo
        *[other] { $minutes } munutenn zo
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -194,6 +199,7 @@ crashes-time-hours =
         [many] { $hours } a eurioù zo
        *[other] { $hours } eur zo
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -204,6 +210,7 @@ crashes-time-days =
         [many] { $days } a zeizioù zo
        *[other] { $days } deiz zo
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -214,6 +221,7 @@ pending-reports =
         [many] An holl zanevelloù sac'hadenn (enno { $reports } a zanevelloù war c'hortoz evit sac'hadennoù bet degouezhet e-pad ar pennad)
        *[other] An holl zanevelloù sac'hadenn (enno { $reports } danevell war c'hortoz evit ur sac'hadenn bet degouezhet e-pad ar pennad)
     }
+
 raw-data-copied = Eilet eo bet ar roadenn diaoz er golver
 text-copied = Eilet eo bet an destenn er golver
 
@@ -226,9 +234,11 @@ blocked-mismatched-version = Stanket eo bet dre ma ne glot ket handelv marilh ha
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Harzet evit handelv ho stur kevregat. Klaskit hizivaat ho stur kevregat gant an handelv { $driverVersion } pe nevesoc'h.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Arventennoù ClearType
+
 compositing = Kenaozadur
 hardware-h264 = Ezvonegañ periant H264
 main-thread-no-omtc = neudenn bennañ, OMTC ebet
@@ -243,6 +253,7 @@ virtual-monitor-disp = Diskouez Skrammad galloudel
 
 found = Kavet
 missing = A vank
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Deskrivadur
@@ -264,11 +275,14 @@ webgl2-renderer = Deouezer WebGL 2 Driver
 webgl2-version = Handelv WebGL 2 Driver
 webgl2-driver-extensions = Askouezhioù WebGL 2 Driver
 webgl2-extensions = Askouezhioù WebGL 2
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Er roll stanket; boneg c'hwitadenn { $failureCode }
+
 d3d11layers-crash-guard = Kenaozer D3D11
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Adderaouekaat en adloc'hañ a zeu
 gpu-process-kill-button = Herzel ar araezad kevregad
 gpu-device-reset = Adderaouekaat an trevnad
@@ -278,8 +292,10 @@ content-uses-tiling = Ober gant an teolioù (endalc'had)
 off-main-thread-paint-enabled = Pentañ e diavaez an neudenn erounezadur pennañ gweredekaet
 off-main-thread-paint-worker-count = Niver a worker o pentañ e diavaez an neudenn erounezadur pennañ
 target-frame-rate = Bukenn feur skeudennoù
+
 min-lib-versions = Handelv izek gortozet
 loaded-lib-versions = Handelv en arver
+
 has-seccomp-bpf = Seccomp-BPF (Silañ ar galvoù reizhiad)
 has-seccomp-tsync = Goubredañ neudennoù seccomp
 has-user-namespaces = Egor anvioù an arveriad
@@ -292,14 +308,17 @@ sandbox-proc-type-content = endalc'had
 sandbox-proc-type-file = endalc'had ar restr
 sandbox-proc-type-media-plugin = enlugellad media
 sandbox-proc-type-data-decoder = ezvoneger roadennoù
+
 launcher-process-status-0 = Gweredekaet
 launcher-process-status-1 = Diweredekaet abalamour d'ur c'hwitadenn
 launcher-process-status-2 = Rediet da ziweredekaat
 launcher-process-status-unknown = Stad dianav
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+
 async-pan-zoom = Zoum ec'houbred
 apz-none = netra
 wheel-enabled = enankad rod gweredekaet
