@@ -6,17 +6,24 @@
 ## Error page titles
 
 neterror-page-title = Kudenn o kargañ ar bajennad
+certerror-sts-page-title = N'eo ket kennasket: kudenn diogelroez posupl
+neterror-blocked-by-policy-page-title = Pajenn stanket
 neterror-captive-portal-page-title = Kennaskañ d'ar rouedad
 neterror-dns-not-found-title = Dafariad ebet kavet
+neterror-malformed-uri-page-title = URL didalvoudek
 
 ## Error page actions
 
+neterror-advanced-button = Kempleshoc'h…
 neterror-copy-to-clipboard-button = Eilañ an destenn er golver
 neterror-learn-more-link = Gouzout hiroc'h…
 neterror-open-portal-login-page-button = Digeriñ ar bajenn gennaskañ d'ar rouedad
+neterror-override-exception-button = Asantiñ ar riskl ha kenderc'hel
 neterror-pref-reset-button = Assav an arventennoù dre ziouer
 neterror-return-to-previous-page-button = Distreiñ
+neterror-return-to-previous-page-recommended-button = Distreiñ (Erbedet)
 neterror-try-again-button = Klask en-dro
+neterror-view-certificate-link = Gwelout an testeni
 
 ##
 
@@ -50,6 +57,19 @@ neterror-content-encoding-error = Kit e darempred gant perc'henned al lec'hienn 
 neterror-unsafe-content-type = Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.
 neterror-nss-failure-not-verified = N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet dilested ar roadennoù bet degemeret.
 neterror-nss-failure-contact-website = Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = Dinoet eo bet gant { -brand-short-name } ur arvar diogelroez ha n'eus ket kendalc'het etrezek <b>{ $hostname }</b>. Ma weladennit al lec'hienn-mañ e c'hallo tagerien klask laerez ho titouroù evel gerioù-tremen, chomlec'hioù postel pe munudoù kartennoù kred.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = Dinoet ez eus bet gant { -brand-short-name } un arvar diogelroez posupl ha n'en deus ket kendalc'het etrezek <b>{ $hostname }</b> dre ma azgoulenn al lec'hienn-mañ ur c'hennask diogel.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = Dinoet ez eus bet ur gudenn gant { -brand-short-name } ha n'en deus ket kendalc'het etrezek <b>{ $hostname }</b>. Kefluniet eo fall al lec'hienn pe direizh eo eur hoc'h urzhiataer.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = Ul lec'hienn diarvar eo <b>{ $hostname }</b> moarvat, met n'haller ket staliañ ur c'hennask diogel. Abalamour da <b>{ $mitm }</b> zo eus ar fazi, ar pezh a zo ur meziant war hoc'h urzhiataer pe ho rouedad.
 neterror-corrupted-content-intro = Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.
 neterror-corrupted-content-contact-website = Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.
 # Variables:
@@ -57,3 +77,16 @@ neterror-corrupted-content-contact-website = Mar plij, kit e darempred gant perc
 neterror-inadequate-security-intro = <b>{ $hostname }</b> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Hoc'h urzhiataer a soñj dezhañ eo { DATETIME($now, dateStyle: "medium") }, ar pezh a vir { -brand-short-name } da gennaskañ ent diogel. Evit gweladenniñ <b>{ $hostname }</b>, hizivait eur hoc'h urzhiataer en hoc'h arventennoù reizhiad ha lakait an deiziad, an eur hag ar gwerzhid-eur reizh. Adkargit <b>{ $hostname }</b> da c'houde.
+certerror-expired-cert-second-para = Moarvat eo diamzeret testeni al lec'hienn, ar pezh a vir { -brand-short-name } da gennaskañ en un doare diogel. Ma weladennit al lec'hienn e c'hallfe tagerien laerez titouroù evel ho kerioù-tremen, ho chomlec'hioù postel pe munudoù ho kartenn gred.
+certerror-expired-cert-sts-second-para = Moarvat eo diamzeret testeni al lec'hienn, ar pezh a vir { -brand-short-name } da gennaskañ en un doare diogel.
+certerror-what-can-you-do-about-it-title = Petra a c'hallit ober?
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Ma n'anavezit ket <b>{ $mitm }</b> e c'hall bezañ un dagadenn ha rankout a rafec'h chom hep kenderc'hel war al lec'hienn-mañ.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Ma n'anavezit ket <b>{ $mitm }</b> e c'hall bezañ un dagadenn ha n'hallit ket haeziñ al lec'hienn.
