@@ -11,6 +11,7 @@ neterror-page-title = Nagad blan página re
 
 neterror-learn-more-link = Lab Kue...
 neterror-return-to-previous-page-button = M-bì~rè
+neterror-try-again-button = Bí~rè lìy
 
 ##
 
