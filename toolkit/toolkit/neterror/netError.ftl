@@ -5,9 +5,11 @@
 
 ## Error page titles
 
+neterror-page-title = பக்கத்தை ஏற்றுவதில் சிக்கல்
 
 ## Error page actions
 
+neterror-try-again-button = மீண்டும் முயற்சிக்கவும்
 
 ##
 
