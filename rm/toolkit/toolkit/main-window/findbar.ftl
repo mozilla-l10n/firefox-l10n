@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Tschertgar immediat (be colliaziuns)
 findbar-case-sensitive-status =
     .value = (Maiusclas/minusclas)
+findbar-match-diacritics-status =
+    .value = (Resguardar segns diacritics)
 findbar-entire-word-status =
     .value = (Be entirs pleds)
 # Variables:
