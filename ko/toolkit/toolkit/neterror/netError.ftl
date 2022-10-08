@@ -8,6 +8,7 @@
 
 ## Error page actions
 
+neterror-learn-more-link = 더 알아보기…
 
 ##
 
