@@ -10,3 +10,7 @@
 
 pending-crash-reports-view-all =
     .label = ดู
+pending-crash-reports-send =
+    .label = ส่ง
+pending-crash-reports-always-send =
+    .label = ส่งเสมอ
