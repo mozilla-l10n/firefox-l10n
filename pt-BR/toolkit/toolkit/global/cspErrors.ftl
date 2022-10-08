@@ -5,22 +5,27 @@
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 csp-error-missing-directive = Falta uma diretiva '{ $directive }' obrigatória
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
 csp-error-illegal-keyword = A diretiva ‘{ $directive }’ contém uma palavra-chave { $keyword } proibida
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-illegal-protocol = A diretiva ‘{ $directive }’ contém um { $scheme } proibido: origem do protocolo
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }: o protocolo requer um host em diretivas ‘{ $directive }’
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = ‘{ $directive }’ deve incluir a origem { $source }
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.

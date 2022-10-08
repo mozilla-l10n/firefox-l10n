@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Restaure para corrigir problemas de desempe
 refresh-profile = Faça uma limpeza no seu { -brand-short-name }
 refresh-profile-button = Restaurar o { -brand-short-name }…
 refresh-profile-learn-more = Saiba mais
+
 refresh-profile-progress =
     .title = Restaurar o { -brand-short-name }
 refresh-profile-progress-description = Quase concluído…

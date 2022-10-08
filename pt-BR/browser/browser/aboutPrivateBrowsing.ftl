@@ -22,10 +22,12 @@ about-private-browsing-not-private = No momento você não está em uma janela p
 about-private-browsing-info-description-private-window = Janela privativa: O { -brand-short-name } limpa o histórico de pesquisa e navegação quando você fecha todas as janelas privativas. Isso não torna você anônimo.
 about-private-browsing-info-description-simplified = O { -brand-short-name } limpa seu histórico de pesquisa e navegação quando você fecha todas as janelas privativas, mas isso não o torna anônimo.
 about-private-browsing-learn-more-link = Saiba mais
+
 about-private-browsing-hide-activity = Oculte sua atividade e localização, onde quer que navegue
 about-private-browsing-get-privacy = Tenha proteções de privacidade onde quer que navegue
 about-private-browsing-hide-activity-1 = Oculte sua localização e atividade de navegação com o { -mozilla-vpn-brand-name }. Um único clique cria uma conexão segura, mesmo em redes públicas de WiFi.
 about-private-browsing-prominent-cta = Proteja sua privacidade com o { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Instale o { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegação privativa em qualquer lugar
 about-private-browsing-focus-promo-text = Nosso aplicativo móvel de navegação dedicado à privacidade sempre limpa seu histórico e cookies.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Leve a navegação privativa para 
 about-private-browsing-focus-promo-text-b = Use o { -focus-brand-name } naquelas pesquisas privativas que você não quer que seu navegador principal para celular veja.
 about-private-browsing-focus-promo-header-c = Privacidade de nível superior em dispositivos móveis
 about-private-browsing-focus-promo-text-c = O { -focus-brand-name } limpa o histórico toda vez, além de bloquear anúncios e rastreadores.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Fechar
+
 about-private-browsing-promo-close-button =
     .title = Fechar
 
