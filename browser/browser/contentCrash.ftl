@@ -5,6 +5,12 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Parte de esta página falló.</strong> Para que { -brand-product-name } sepa sobre este problema y se arregle más rápido, por favor envía un informe.
+crashed-subframe-learnmore-link =
+    .value = Saber más
+crashed-subframe-submit =
+    .label = Enviar informe
+    .accesskey = E
 
 ## Pending crash reports
 
