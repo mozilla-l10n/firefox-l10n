@@ -15,6 +15,7 @@ config-new-pref-number =
     .placeholder = Indtast et tal
 config-new-pref-cancel-button = Annuller
 config-new-pref-create-button = Opret
+config-new-pref-change-button = Skift
 config-pref-toggle-button = Skift
 config-pref-reset-button = Nulstil
 config-context-menu-copy-pref-name =
