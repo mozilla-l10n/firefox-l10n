@@ -5,6 +5,12 @@
 
 ## Subframe crash notification
 
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Parte de esta página falló. Para que { -brand-product-name } conozca este problema y lo arregle más rápido, por favor envíe un informe.
+crashed-subframe-learnmore-link =
+    .value = Saber más
 
 ## Pending crash reports
 
