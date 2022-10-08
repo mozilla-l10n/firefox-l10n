@@ -120,9 +120,6 @@ openpgp-key-man-please-wait-tooltip =
 openpgp-key-man-filter-label =
     .placeholder = חיפוש אחר מפתחות
 
-openpgp-key-details-title =
-    .title = מאפייני מפתח
-
 openpgp-key-details-signatures-tab =
     .label = אישורים
 openpgp-key-details-structure-tab =

@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = שם משתמש:
 tabmodalprompt-password =
     .value = ססמה:
+
 tabmodalprompt-ok-button =
     .label = אישור
 tabmodalprompt-cancel-button =

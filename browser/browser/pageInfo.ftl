@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 500px;
+
 copy =
     .key = C
 menu-copy =
     .label = העתקה
     .accesskey = ה
+
 select-all =
     .key = A
 menu-select-all =
     .label = בחירת הכול
     .accesskey = ב
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = כללי
     .accesskey = כ
@@ -39,6 +43,7 @@ general-meta-name =
     .label = שם
 general-meta-content =
     .label = תוכן
+
 media-tab =
     .label = מדיה
     .accesskey = מ
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = שמירה בשם…
     .accesskey = ב
+
 perm-tab =
     .label = הרשאות
     .accesskey = ר
 permissions-for =
     .value = הרשאות עבור:
+
 security-tab =
     .label = אבטחה
     .accesskey = א
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = מועד תפוגה:
 security-view-privacy =
     .value = פרטיות והיסטוריה
+
 security-view-privacy-history-value = האם ביקרתי באתר זה בעבר?
 security-view-privacy-sitedata-value = האם אתר זה מאחסן מידע על המחשב שלי?
+
 security-view-privacy-clearsitedata =
     .label = ניקוי עוגיות ונתוני אתרים
     .accesskey = נ
+
 security-view-privacy-passwords-value = האם שמרתי ססמאות עבור אתר זה?
+
 security-view-privacy-viewpasswords =
     .label = הצגת ססמאות שמורות
     .accesskey = ס
 security-view-technical =
     .value = פרטים טכניים
+
 help-button =
     .label = עזרה
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = כן, עוגיות ו־‎{ $value } { $unit } של נתוני אתרים
 security-site-data-only = כן, ‎{ $value } { $unit } של נתוני אתרים
+
 security-site-data-cookies-only = כן, עוגיות
 security-site-data-no = לא
 
@@ -139,6 +152,7 @@ media-video = וידאו
 media-audio = אודיו
 saved-passwords-yes = כן
 saved-passwords-no = לא
+
 no-page-title =
     .value = דף ללא כותרת:
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = שימוש בברירת מחדל
 security-no-visits = לא
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -163,6 +178,7 @@ general-meta-tags =
             [one] ‏Meta (תגית אחת)
            *[other] ‏Meta (‏{ $tags } תגיות)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -174,6 +190,7 @@ security-visits-number =
         [two] כן, פעמיים
        *[other] כן, { $visits } פעמים
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -184,6 +201,7 @@ properties-general-size =
             [one] { $kb } ק״ב (בית אחד)
            *[other] { $kb } ק״ב ({ $bytes } בתים)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -195,12 +213,14 @@ media-animated-image-type =
             [one] תמונה מסוג { $type } (מונפשת, שקופית אחת)
            *[other] תמונה מסוג { $type } (מונפשת, { $frames } שקופית)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = תמונה מסוג { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -210,17 +230,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx } פיקסלים × { $dimy } פיקסלים (מוקטן ל־{ $scaledx } פיקסלים × { $scaledy } פיקסלים)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx } פיקסלים × { $dimy } פיקסלים
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } ק״ב
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -228,6 +251,7 @@ media-file-size = { $size } ק״ב
 media-block-image =
     .label = חסימת תמונות מ־{ $website }
     .accesskey = ח
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

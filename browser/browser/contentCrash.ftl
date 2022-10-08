@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>חלק מדף זה קרס.</strong> כדי ליידע את { -brand-product-name } על בעיה זו ולתקן אותה מהר יותר, נא לשלוח דיווח.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
