@@ -13,6 +13,7 @@ neterror-malformed-uri-page-title = 잘못된 URL
 
 ## Error page actions
 
+neterror-advanced-button = 고급…
 neterror-copy-to-clipboard-button = 클립보드에 텍스트 복사
 neterror-learn-more-link = 더 알아보기…
 neterror-open-portal-login-page-button = 네트워크 로그인 페이지 열기
