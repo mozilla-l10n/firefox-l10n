@@ -171,6 +171,10 @@ search-one-offs-context-set-as-default =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =
@@ -502,3 +506,6 @@ data-reporting-notification-message = { -brand-short-name } automatically sends 
 data-reporting-notification-button =
     .label = Choose What I Share
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
