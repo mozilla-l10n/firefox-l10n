@@ -90,9 +90,6 @@ appmenu-addons-and-themes =
 
 ## Spaces toolbar
 
-settings-context-open-addons-item =
-    .label = Åpne tillegg og temaer
-
 ## Spaces toolbar pinned tab menupopup
 
 

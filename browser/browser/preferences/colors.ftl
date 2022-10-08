@@ -9,35 +9,48 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-dialog =
     .title = Farger
     .style = width: 41em;
+
 colors-dialog2 =
     .title = Farger
     .style = min-width: 41em;
+
 colors-close-key =
     .key = w
+
 colors-page-override = Overstyr fargene som er spesifisert av siden med valgene dine ovenfor
     .accesskey = O
+
 colors-page-override-option-always =
     .label = Alltid
 colors-page-override-option-auto =
     .label = Bare ved bruk av høykontrast-temaer
 colors-page-override-option-never =
     .label = Aldri
+
 colors-text-and-background = Tekst og bakgrunn
+
 colors-text-header = Tekst
     .accesskey = T
+
 colors-background = Bakgrunn
     .accesskey = B
+
 colors-use-system =
     .label = Bruk systemfarger
     .accesskey = s
+
 colors-underline-links =
     .label = Understrek lenker
     .accesskey = U
+
 colors-links-header = Lenkefarger
+
 colors-unvisited-links = Ubesøkte lenker
     .accesskey = l
+
 colors-visited-links = Besøkte lenker
     .accesskey = B

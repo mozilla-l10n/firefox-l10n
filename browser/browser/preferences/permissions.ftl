@@ -5,62 +5,81 @@
 permissions-window =
     .title = Unntak
     .style = width: 45em
+
 permissions-window2 =
     .title = Unntak
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adressen til nettstedet
     .accesskey = d
+
 permissions-block =
     .label = Blokker
     .accesskey = B
+
 permissions-session =
     .label = Tillat for programøkten
     .accesskey = T
+
 permissions-allow =
     .label = Tillat
     .accesskey = T
+
 permissions-button-off =
     .label = Slå av
     .accesskey = S
+
 permissions-button-off-temporarily =
     .label = Slå av midlertidig
     .accesskey = a
+
 permissions-site-name =
     .label = Nettsted
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Fjern nettsted
     .accesskey = F
+
 permissions-remove-all =
     .label = Fjern alle nettsteder
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Lagre endringer
     .buttonaccesskeyaccept = L
+
 permissions-autoplay-menu = Standard for alle nettsteder:
+
 permissions-searchbox =
     .placeholder = Søk på nettside
+
 permissions-capabilities-autoplay-allow =
     .label = Tillat lyd og video
 permissions-capabilities-autoplay-block =
     .label = Blokker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Blokker lyd og video
+
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
+
 permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
     .value = Blokker
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkten
+
 permissions-capabilities-listitem-off =
     .value = Av
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Skriv inn et gyldig servernavn
 permissions-exceptions-etp-window =
     .title = Unntak for utvidet sporingsbeskyttelse
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Unntak for utvidet sporingsbeskyttelse
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Du har slått av beskyttelsen på disse nettst
 permissions-exceptions-cookie-window =
     .title = Unntak - Infokapsler og nettstedsdata
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Unntak - Infokapsler og nettstedsdata
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Du kan spesifisere hvilke nettsteder som al
 permissions-exceptions-https-only-window =
     .title = Unntak - kun-HTTPS-modus
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Unntak - kun-HTTPS-modus
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Du kan slå av kun-HTTPS-modus for best
 permissions-exceptions-popup-window =
     .title = Tillatte nettsteder - Sprettoppvinduer
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Tillatte nettsteder - Sprettoppvinduer
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Du kan oppgi hvilke nettsted som har tillate
 permissions-exceptions-saved-logins-window =
     .title = Unntak - lagrede innlogginger
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Unntak - lagrede innlogginger
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Innlogginger fra følgende nettsteder
 permissions-exceptions-addons-window =
     .title = Tillatte nettsteder - Installering av utvidelser
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Tillatte nettsteder - Installering av utvidelser
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Du kan oppgi hvilke nettsted som har tillat
 permissions-site-autoplay-window =
     .title = Innstillinger - Automatisk avspilling
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Innstillinger - Automatisk avspilling
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Du kan håndtere de nettsteder som ikke følger
 permissions-site-notification-window =
     .title = Innstillinger - Varslingstillatelser
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Innstillinger - Varslingstillatelser
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Dette forhindrer nettsteder som ikk
 permissions-site-location-window =
     .title = Innstillinger - Plasseringstillatelser
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Innstillinger - Plasseringstillatelser
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Dette forhindrer nettsteder som ikke er
 permissions-site-xr-window =
     .title = Innstillinger - Tillatelser for virtuell virkelighet
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Innstillinger - Tillatelser for virtuell virkelighet
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Dette forhindrer nettsteder som ikke er oppf�
 permissions-site-camera-window =
     .title = Innstillinger - Kameratillatelser
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Innstillinger - Kameratillatelser
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Dette forhindrer nettsteder som ikke er o
 permissions-site-microphone-window =
     .title = Innstillinger - Mikrofontillatelser
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Innstillinger - Mikrofontillatelser
     .style = { permissions-window2.style }

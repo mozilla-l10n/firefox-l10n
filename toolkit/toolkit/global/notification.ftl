@@ -4,9 +4,11 @@
 
 notification-learnmore-default-label =
     .value = Les mer
+
 # This label is read by screen readers when focusing the close button for an
 # "infobar" (message shown when for example a popup is blocked).
 close-button-label =
     .aria-label = Lukk
+
 close-notification-message =
     .tooltiptext = Lukk denne meldingen

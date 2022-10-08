@@ -22,10 +22,12 @@ about-private-browsing-not-private = Du er for tiden ikke i et privat vindu.
 about-private-browsing-info-description-private-window = Private vindu: { -brand-short-name } sletter søke- og nettleserloggen din når du lukker alle private vinduer. Dette gjør deg ikke anonym.
 about-private-browsing-info-description-simplified = { -brand-short-name } sletter søke- og nettleserloggen din når du lukker alle private vinduer, men dette gjør deg ikke anonym.
 about-private-browsing-learn-more-link = Les mer
+
 about-private-browsing-hide-activity = Skjul aktiviteten og plasseringen din, hvor enn du surfer
 about-private-browsing-get-privacy = Få personvernbeskyttelse overalt der du surfer
 about-private-browsing-hide-activity-1 = Skjul nettleseraktivitet og plasseringen din med { -mozilla-vpn-brand-name }. Ett klikk skaper en sikker tilkobling, selv på offentlig Wi-Fi.
 about-private-browsing-prominent-cta = Hold deg privat med { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Last ned { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat nettlesing mens du er på farten
 about-private-browsing-focus-promo-text = Vår dedikerte mobilapp for privat nettlesing sletter historikken og infokapslene hver gang.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Ta privat nettlesing til telefonen
 about-private-browsing-focus-promo-text-b = Bruk { -focus-brand-name } for de private søkene du ikke vil at din hoved mobilnettleser skal se.
 about-private-browsing-focus-promo-header-c = Personvern på neste nivå på mobile enheter
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } sletter historikken din hver gang mens du blokkerer annonser og sporere.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Lukk
+
 about-private-browsing-promo-close-button =
     .title = Lukk
 

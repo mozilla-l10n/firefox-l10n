@@ -239,16 +239,12 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 
-openpgp-key-details-title =
-    .title = Nøkkelegenskaper
-
 openpgp-key-details-signatures-tab =
     .label = Sertifiseringer
 openpgp-key-details-structure-tab =
     .label = Struktur
 openpgp-key-details-uid-certified-col =
     .label = Bruker-ID / sertifisert av
-openpgp-key-details-user-id2-label = Påstått nøkkeleier
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Type
@@ -544,9 +540,6 @@ key-error-not-accepted-as-personal = Du har ikke bekreftet at nøkkelen med ID �
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Funksjonen du har valgt er ikke tilgjengelig i frakoblet modus. Koble til og prøv igjen.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Vi kunne ikke finne noen nøkkel som samsvarer med de spesifiserte søkekriteriene.
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Feil - nøkkelekstraksjonskommandoen mislyktes
