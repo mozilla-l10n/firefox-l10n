@@ -15,5 +15,7 @@ findbar-case-sensitive =
     .label = मिलान स्थिति
     .accesskey = c
     .tooltiptext = केस संवेदनशीलतासँ खोजू
+findbar-wrapped-to-top = पृष्ठक तल मे जाए पहुँचल, शीर्ष सँ जारी
+findbar-wrapped-to-bottom = पृष्ठक शीर्ष जाए पहुँचल, तल सँ जारी
 findbar-case-sensitive-status =
     .value = (स्थिति क प्रति संवेदनशील)
