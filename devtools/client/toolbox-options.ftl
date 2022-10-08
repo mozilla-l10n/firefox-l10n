@@ -101,8 +101,3 @@ options-context-triggers-page-refresh = * वर्तमान सत्र क
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = देखाबू गेक्को मंच डेटा
-options-show-platform-data-tooltip =
-    .title = अहाँ एहि विकल्प केँ सक्षम जावास्क्रिप्ट प्रोफाइलर रिपोर्टों गेक्को मंच प्रतीक शामिल हाएब.

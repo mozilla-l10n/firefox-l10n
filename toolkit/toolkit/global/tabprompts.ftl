@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = प्रयोक्ता नाम:
 tabmodalprompt-password =
     .value = गुड़किल्ली:
+
 tabmodalprompt-ok-button =
     .label = बेस
 tabmodalprompt-cancel-button =
