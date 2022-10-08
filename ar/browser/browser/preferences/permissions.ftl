@@ -5,56 +5,73 @@
 permissions-window =
     .title = الاستثناءات
     .style = width: 45em
+
 permissions-window2 =
     .title = الاستثناءات
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = عنوان موقع وِب
     .accesskey = و
+
 permissions-block =
     .label = احجب
     .accesskey = ح
+
 permissions-session =
     .label = اسمح لهذه الجلسة
     .accesskey = ج
+
 permissions-allow =
     .label = اسمح
     .accesskey = س
+
 permissions-site-name =
     .label = موقع الوِب
+
 permissions-status =
     .label = الحالة
+
 permissions-remove =
     .label = احذف موقع الوِب
     .accesskey = ح
+
 permissions-remove-all =
     .label = احذف كل مواقع الوِب
     .accesskey = ذ
+
 permission-dialog =
     .buttonlabelaccept = احفظ التغييرات
     .buttonaccesskeyaccept = ح
+
 permissions-autoplay-menu = المبدئي للمواقع كافة:
+
 permissions-searchbox =
     .placeholder = ابحث عن موقع
+
 permissions-capabilities-autoplay-allow =
     .label = اسمح بالصوت والڤِديو
 permissions-capabilities-autoplay-block =
     .label = احجب الصوت
 permissions-capabilities-autoplay-blockall =
     .label = احجب الصوت والڤِديو
+
 permissions-capabilities-allow =
     .label = اسمح
 permissions-capabilities-block =
     .label = احجب
 permissions-capabilities-prompt =
     .label = اسأل دائمًا
+
 permissions-capabilities-listitem-allow =
     .value = اسمح
 permissions-capabilities-listitem-block =
     .value = احجب
 permissions-capabilities-listitem-allow-session =
     .value = اسمح لهذه الجلسة
+
 permissions-capabilities-listitem-off =
     .value = معطّل
 permissions-capabilities-listitem-off-temporarily =
@@ -70,6 +87,7 @@ permissions-invalid-uri-label = رجاءً أدخل اسم مستضيف صالح
 permissions-exceptions-etp-window =
     .title = استثناءات الحماية الموسّعة من التعقب
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = استثناءات الحماية الموسّعة من التعقب
     .style = { permissions-window2.style }
@@ -80,6 +98,7 @@ permissions-exceptions-etp-desc = عطّلت مزايا الحماية في هذ
 permissions-exceptions-cookie-window =
     .title = الاستثناءات - الكعكات و بيانات المواقع
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = الاستثناءات - الكعكات و بيانات المواقع
     .style = { permissions-window2.style }
@@ -90,6 +109,7 @@ permissions-exceptions-cookie-desc = يمكنك تحديد المواقع الت
 permissions-exceptions-https-only-window =
     .title = الاستثناءات - وضع HTTPS فقط
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = الاستثناءات - وضع HTTPS فقط
     .style = { permissions-window2.style }
@@ -99,6 +119,7 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-popup-window =
     .title = مواقع الوِب المسموح لها - نوافذ منبثقة
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = مواقع الوِب المسموح لها - نوافذ منبثقة
     .style = { permissions-window2.style }
@@ -109,6 +130,7 @@ permissions-exceptions-popup-desc = يمكنك تحديد أي مواقع يسم
 permissions-exceptions-saved-logins-window =
     .title = الاستثناءات - جلسات الولوج المحفوظة
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = الاستثناءات - جلسات الولوج المحفوظة
     .style = { permissions-window2.style }
@@ -119,6 +141,7 @@ permissions-exceptions-saved-logins-desc = لن تُحفظ جلسات الولو
 permissions-exceptions-addons-window =
     .title = مواقع الوِب المسموح لها - تنصيب الإضافات
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = مواقع الوِب المسموح لها - تنصيب الإضافات
     .style = { permissions-window2.style }
@@ -129,6 +152,7 @@ permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يس�
 permissions-site-autoplay-window =
     .title = الإعدادات - التشغيل التلقائي
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = الإعدادات - التشغيل التلقائي
     .style = { permissions-window2.style }
@@ -139,6 +163,7 @@ permissions-site-autoplay-desc = يمكنك من هنا إدارة المواق�
 permissions-site-notification-window =
     .title = الإعدادات - تصاريح التنبيهات
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = الإعدادات - تصاريح التنبيهات
     .style = { permissions-window2.style }
@@ -152,6 +177,7 @@ permissions-site-notification-disable-desc = سيمنع هذا مواقع الو
 permissions-site-location-window =
     .title = الإعدادات - تصاريح المكان
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = الإعدادات - تصاريح المكان
     .style = { permissions-window2.style }
@@ -165,6 +191,7 @@ permissions-site-location-disable-desc = سيمنع هذا مواقع الوب �
 permissions-site-xr-window =
     .title = الإعدادات - تصاريح الواقع الافتراضي
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = الإعدادات - تصاريح الواقع الافتراضي
     .style = { permissions-window2.style }
@@ -178,6 +205,7 @@ permissions-site-xr-disable-desc = سيمنع هذا مواقع الوب غير 
 permissions-site-camera-window =
     .title = الإعدادات - تصاريح الكمرة
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = الإعدادات - تصاريح الكمرة
     .style = { permissions-window2.style }
@@ -191,6 +219,7 @@ permissions-site-camera-disable-desc = سيمنع هذا مواقع الوب غ�
 permissions-site-microphone-window =
     .title = الإعدادات - تصاريح الميكروفون
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = الإعدادات - تصاريح الميكروفون
     .style = { permissions-window2.style }

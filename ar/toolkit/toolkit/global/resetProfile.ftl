@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = أنعش { -brand-short-name }
 refresh-profile = حسّن أداء { -brand-short-name }
 refresh-profile-button = أنعش { -brand-short-name }…
+
 refresh-profile-progress =
     .title = أنعش { -brand-short-name }
 refresh-profile-progress-description = أوشكنا على الانتهاء…

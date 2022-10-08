@@ -5,29 +5,40 @@
 translation-window =
     .title = الاستثناءات - الترجمة
     .style = width: 36em
+
 translation-window2 =
     .title = الاستثناءات - الترجمة
     .style = min-width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-disabled-desc = لن تُعرض ترجمة للغات التالية
+
 translation-languages-column =
     .label = اللغات
+
 translation-languages-button-remove =
     .label = احذف اللغة
     .accesskey = ح
+
 translation-languages-button-remove-all =
     .label = احذف جميع اللغات
     .accesskey = ذ
+
 translation-sites-disabled-desc = لن تُعرض ترجمة للمواقع التالية
+
 translation-sites-column =
     .label = مواقع وِب
+
 translation-sites-button-remove =
     .label = احذف الموقع
     .accesskey = ح
+
 translation-sites-button-remove-all =
     .label = احذف كل المواقع
     .accesskey = ذ
+
 translation-dialog =
     .buttonlabelaccept = أغلق
     .buttonaccesskeyaccept = غ
