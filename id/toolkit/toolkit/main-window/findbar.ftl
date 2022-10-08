@@ -44,6 +44,8 @@ findbar-case-sensitive-status =
     .value = (Cocokkan BESAR/kecilnya huruf)
 findbar-match-diacritics-status =
     .value = (Pencocokan diakritik)
+findbar-entire-word-status =
+    .value = (Hanya seluruh kata)
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
