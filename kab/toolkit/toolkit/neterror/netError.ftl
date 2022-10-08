@@ -20,9 +20,11 @@ neterror-pref-reset = Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-in
 
 ## Specific error messages
 
+neterror-generic-error = { -brand-short-name } ur izmir ara ad d-yessali asebter-a.
 neterror-load-error-try-again = Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.
 neterror-load-error-connection = Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.
 neterror-load-error-firewall = Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella { -brand-short-name } yezmer ad yekcem ɣer Web.
+neterror-captive-portal = Yessefk ad tkecmeḍ ar uẓeṭṭa-a send ad tizmireḍ ad tkecmeḍ ar Internet
 neterror-access-denied = Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.
 neterror-redirect-loop = Ugur-a ahat yekka-d seg tukksa n urmad neɣ asewḥel n inagan n tuqqna.
 neterror-proxy-resolve-failure-settings = Senqed ma yella iɣewwaren n upṛuksi ma llan d imeɣta.
@@ -30,6 +32,8 @@ neterror-proxy-resolve-failure-connection = Senqed ma yella tuqqna n uẓeṭṭ
 neterror-proxy-resolve-failure-firewall = Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes, Wali ma yella { -brand-short-name } ɣur-s tasiregt n unekcum ɣer Web.
 neterror-proxy-connect-failure-settings = Senqed iɣewwaṛen n upṛuksi ma llan d imeɣta.
 neterror-proxy-connect-failure-contact-admin = Nermes anedbal n uẓeṭṭa akken ad twaliḍ ma yella aqeddac apṛuksi itteddu.
+neterror-content-encoding-error = M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-a.
+neterror-unsafe-content-type = M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-a.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Talɣut leqqayen: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
