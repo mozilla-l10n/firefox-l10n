@@ -5,9 +5,22 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Bu sayfanın bir kısmı çöktü.</strong> Bize rapor göndererek sorunu bildirirseniz { -brand-product-name } tarayıcınızı daha hızlı düzeltebiliriz.
+crashed-subframe-learnmore-link =
+    .value = Daha fazla bilgi al
+crashed-subframe-submit =
+    .label = Rapor gönder
+    .accesskey = R
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Gönderilmemiş bir çökme raporunuzu var
+       *[other] Gönderilmemiş { $reportCount } çökme raporunuzu var
+    }
 pending-crash-reports-view-all =
     .label = Göster
 pending-crash-reports-send =
