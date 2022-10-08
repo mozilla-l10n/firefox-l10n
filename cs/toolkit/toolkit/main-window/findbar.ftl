@@ -31,14 +31,21 @@ findbar-entire-word =
     .label = Celá slova
     .accesskey = C
     .tooltiptext = Najde pouze celá slova
+findbar-not-found = Hledaný text nenalezen
 findbar-wrapped-to-top = Dosažen konec stránky, pokračuje se od začátku
 findbar-wrapped-to-bottom = Dosažen začátek stránky, pokračuje se od konce
+findbar-normal-find =
+    .placeholder = Najít na stránce
 findbar-fast-find =
     .placeholder = Rychlé hledání
 findbar-fast-find-links =
     .placeholder = Rychlé hledání (pouze odkazy)
 findbar-case-sensitive-status =
     .value = (Rozlišovat velikost písmen)
+findbar-match-diacritics-status =
+    .value = (Rozlišovat diakritiku)
+findbar-entire-word-status =
+    .value = (Pouze celá slova)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
