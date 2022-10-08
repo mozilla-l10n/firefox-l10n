@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = İleri
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Anladım
 
@@ -12,13 +13,20 @@ callout-primary-complete-button-label = Anladım
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Sekma taşıma ile cihazlarınız arasında geçiş yapın
+
 callout-firefox-view-tab-pickup-subtitle = Telefonunuzdaki açık sekmeleri daha rahat incelemek için bilgisayarınızda açabilirsiniz.
+
 callout-firefox-view-recently-closed-title = Kapattığınız sekmeleri bir çırpıda tekrar açın
+
 callout-firefox-view-recently-closed-subtitle = Kapattığınız tüm sekmeler burada görünecek. Artık siteleri yanlışlıkla kapatmaktan korkmanıza gerek yok.
+
 callout-firefox-view-colorways-title = Renklendirin
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Size en çok hitap eden renk kuşağını seçin. Renk kuşakları yalnızca { -brand-product-name }’ta.
+
 callout-firefox-view-colorways-reminder-title = En yeni renk kuşaklarımızı keşfedin
+
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Bağımsız seslerden ilham alan bu ikonik tonlarla tarayıcınızı renklendirin. Yalnızca { -brand-product-name }’ta.
 
@@ -28,5 +36,7 @@ callout-firefox-view-colorways-reminder-subtitle = Bağımsız seslerden ilham a
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Sekme taşıma ile gezintinizi iyileştirin
+
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Açık sekmelerinize istediğiniz cihazdan erişin. Ayrıca yer imlerinizi, parolalarınızı ve daha fazlasını eşitleyin.
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Başlayın

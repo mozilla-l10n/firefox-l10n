@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Performans sorunlarını gidermek için yen
 refresh-profile = { -brand-short-name } tarayıcınızı hızlandırın
 refresh-profile-button = { -brand-short-name } tarayıcısını yenile…
 refresh-profile-learn-more = Daha fazla bilgi alın
+
 refresh-profile-progress =
     .title = { -brand-short-name } tarayıcısını yenile
 refresh-profile-progress-description = Bitmek üzere…

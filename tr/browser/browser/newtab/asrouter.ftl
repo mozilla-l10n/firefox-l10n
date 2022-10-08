@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Özellik Önerisi
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bunu neden görüyorum?
+
 cfr-doorhanger-extension-cancel-button = Daha sonra
     .accesskey = D
+
 cfr-doorhanger-extension-ok-button = Hemen ekle
     .accesskey = H
+
 cfr-doorhanger-extension-manage-settings-button = Öneri ayarlarını yönet
     .accesskey = Ö
+
 cfr-doorhanger-extension-never-show-recommendation = Bana bu öneriyi gösterme
     .accesskey = B
+
 cfr-doorhanger-extension-learn-more-link = Daha fazla bilgi al
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = geliştiren: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Öneri
 cfr-doorhanger-extension-notification2 = Öneri
     .tooltiptext = Eklenti önerisi
     .a11y-announcement = Eklenti öneriniz var
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Öneri
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Daha fazla bilgi alın
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Yeni özellik:
+
 cfr-whatsnew-button =
     .label = Yeni neler var?
     .tooltiptext = Yeni neler var?
+
 cfr-whatsnew-release-notes-link-text = Sürüm notlarını okuyun
 
 ## Enhanced Tracking Protection Milestones
@@ -156,6 +166,7 @@ spotlight-total-cookie-protection-body = Komple çerez koruması, takip kodları
 spotlight-total-cookie-protection-expanded = { -brand-short-name }, çerezlerin etrafına bir duvar örerek bulunduğunuz sitedeki çerezleri sadece o sitenin kullanmasına izin verir. Böylece takip kodları sizi izlemek için çerezleri kullanamaz. Erken erişim aşamasında bu özelliği deneyerek herkes için daha iyi bir web yaratmamıza yardımcı olabilirsiniz.
 spotlight-total-cookie-protection-primary-button = Komple çerez korumasını aç
 spotlight-total-cookie-protection-secondary-button = Daha sonra
+
 cfr-total-cookie-protection-header = Sizin sayenizde { -brand-short-name } her zamankinden daha gizli ve güvenli
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -189,11 +200,13 @@ spotlight-pin-secondary-button = Daha sonra
 
 mr2022-background-update-toast-title = Yeni { -brand-short-name }. Daha çok gizlilik. Daha az izleyici.
 mr2022-background-update-toast-text = Bugüne kadarki en güçlü izlenme korumamızla güncellenen en yeni { -brand-short-name }’u şimdi deneyin.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = { -brand-shorter-name }’u açın
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -212,6 +225,7 @@ firefoxview-cfr-body = Ayrıca cihazlar arasında sorunsuzca geçiş yapın ve t
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name }’a merhaba deyin
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Telefonunuzdan baktığınız sayfayı görmek mi istiyorsunuz? Az önce ziyaret ettiğiniz siteye geri dönmeniz mi gerekiyor? { -firefoxview-brand-name } ile hepsi yanınızda.
 firefoxview-spotlight-promo-primarybutton = Nasıl çalıştığını görün

@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Bul
     .accesskey = B
+
 context-text-action-find-again =
     .label = Sonrakini bul
     .accesskey = o
+
 text-action-find =
     .label = Bul
     .accesskey = B
+
 text-action-find-again =
     .label = Sonrakini bul
     .accesskey = o
