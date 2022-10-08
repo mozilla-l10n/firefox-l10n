@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Snabbsök (endast länkar)
 findbar-case-sensitive-status =
     .value = (Skiftlägeskänslig)
+findbar-match-diacritics-status =
+    .value = (Matchande diakritik)
 findbar-entire-word-status =
     .value = (Endast hela ord)
 # Variables:
