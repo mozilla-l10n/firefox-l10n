@@ -4,94 +4,131 @@
 
 certmgr-title =
     .title = Sertifikatu puorvaļdnīks
+
 certmgr-tab-mine =
     .label = Jiusu sertifikati
+
 certmgr-tab-people =
     .label = Cylvāki
+
 certmgr-tab-servers =
     .label = Serveri
+
 certmgr-tab-ca =
     .label = Autoritatis
+
 certmgr-mine = Jiusim ir jius identificiejūši sertifikati nu itom organizacejom
 certmgr-people = Jiusim failā ir itūs cylvākus identificiejūši sertifikati
 certmgr-ca = Jiusim failā ir ituos sertificiešonuos autoritatis identificiejūši sertifikati
+
 certmgr-edit-ca-cert =
     .title = Redigeit CA sertifikatu uztycameibys īstatiejumus
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = Redigeit CA sertifikatu uztycameibys īstatiejumus
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = Redigeit uztycameibys īstatiejumus:
+
 certmgr-edit-cert-trust-ssl =
     .label = Itys sertifikats var identificeit šķārsteikla vītnes.
+
 certmgr-edit-cert-trust-email =
     .label = Itys sertifikats var identificeit posta lītuotuojus.
+
 certmgr-delete-cert =
     .title = Dzēst sertifikatu
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Dzēst sertifikatu
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-name =
     .label = Sertifikata nūsaukums
+
 certmgr-cert-server =
     .label = Serveris
+
 certmgr-override-lifetime =
     .label = Dzeives ilgums
+
 certmgr-token-name =
     .label = Drūseibys īrīce
+
 certmgr-begins-label =
     .label = Suokās
+
 certmgr-expires-label =
     .label = Dereigs leidz
+
 certmgr-email =
     .label = E-posta adress
+
 certmgr-serial =
     .label = Serejis numurs
+
 certmgr-view =
     .label = Apsavērt…
     .accesskey = A
+
 certmgr-edit =
     .label = Redigeit uztycameibu…
     .accesskey = e
+
 certmgr-export =
     .label = Eksporteit…
     .accesskey = k
+
 certmgr-delete =
     .label = Dzēst…
     .accesskey = D
+
 certmgr-delete-builtin =
     .label = Dzēst voi nauzaticeit…
     .accesskey = D
+
 certmgr-backup =
     .label = Saglobuot puorspīdumus…
     .accesskey = p
+
 certmgr-backup-all =
     .label = Saglobuot puorspīdumus vysim…
     .accesskey = S
+
 certmgr-restore =
     .label = Importeit…
     .accesskey = I
+
 certmgr-add-exception =
     .label = Pīvīnuot izjiemumu…
     .accesskey = z
+
 exception-mgr =
     .title = Pīvīnuot drūseibys izjiemumu
+
 exception-mgr-extra-button =
     .label = Apstyprynuot drūseibys izjiemumu
     .accesskey = A
+
 exception-mgr-supplemental-warning = Eistuos bankys, veikali i cytys publiskys vītnes jiusim nikod nalyugs dareit itū.
+
 exception-mgr-cert-location-url =
     .value = Atsarasšona vīta:
+
 exception-mgr-cert-location-download =
     .label = Īluodeit sertifikatu
     .accesskey = I
+
 exception-mgr-cert-status-view-cert =
     .label = Apsavērt…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Patstuoveigi saglobuot itū izjiemumu
     .accesskey = P
+
 pk11-bad-password = Īvodeita napareiza parole.
 pkcs12-decode-err = Navar atkodēt failu.  Voi nu tys nav PKCS #12 formatā, ir būjuots voi ari tyka īvodeita napareiza parole.
 pkcs12-unknown-err-restore = Nazynomu īmaslu dieļ naizadeve atjaunōt PKCS #12 failu.
@@ -124,14 +161,19 @@ delete-user-cert-title =
     .title = Dzēst sovus sertifikatus
 delete-user-cert-confirm = Voi asot puorlīcynuots, ka vālotīs dzēst itūs sertifikatus?
 delete-user-cert-impact = Nui izdziessit vīnu no sovim sertifikatym, vairs navareisit to izmantuot sevis identificiešonai šķārsteiklā.
+
+
 delete-ca-cert-title =
     .title = Dzēst CA sertifikatus
 delete-ca-cert-confirm = Jius asot izavielieji dzēst CA sertifikatus. Ībyuveitajim sertifikatym vysa uztycameiba tiks nūjimta. Voi asot puorlīcynuots, ka vālotīs dzēst itūs CA sertifikatus?
 delete-ca-cert-impact = Nui izdziessit sertifikatu autoritatis (CA) sertifikatu, itei programa vairs nauzaticeis nivīnam sertifikatam, kū izsnīguse itei autoritate.
+
+
 delete-email-cert-title =
     .title = Dzēst e-posta sertifikatus
 delete-email-cert-confirm = Voi asot puorlīcynuots, ka vālotīs dzēst itū cylvāku e-posta sertifikatus?
 delete-email-cert-impact = Nui izdziessit personys e-posta sertifikatu, jius vairs navareisit itai personai nūsyuteit šifreitys viestules.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:

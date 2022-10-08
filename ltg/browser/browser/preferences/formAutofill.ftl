@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Saglobōtōs adresis
 autofill-manage-addresses-list-header = Adresis
+
 autofill-manage-credit-cards-title = Saglobōtōs bankas kartes
 autofill-manage-credit-cards-list-header = Bankas kartes
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Nūjimt
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Redigeit…
 autofill-add-new-address-title = Pīvīnōt jaunu adresi
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Lobōt adresi
+
 autofill-address-given-name = Vōrds
 autofill-address-additional-name = Ūtrais vōrds
 autofill-address-family-name = Uzvōrds
@@ -49,13 +52,16 @@ autofill-address-zip = Posta indekss
 autofill-address-country = Vaļsts voi reģions
 autofill-address-tel = Telefona numers
 autofill-address-email = E-posts
+
 autofill-cancel-button = Atceļt
 autofill-save-button = Saglobōt
 autofill-country-warning-message = Formu automatiskō aizpiļdiešona ņiuļa ir pīejama viņ pōrs vaļstīs.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Pīvīnōt jaunu bankas karti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Lobōt bankas kartes datus
+
 autofill-card-number = Kartes numers
 autofill-card-invalid-number = Lyudzu, īvodi dereigu kartes numeri
 autofill-card-name-on-card = Kartes eipašnīks

@@ -5,43 +5,57 @@
 permissions-window =
     .title = Izjāmumi
     .style = width: 45em
+
 permissions-window2 =
     .title = Izjāmumi
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Sātys lopys adress
     .accesskey = d
+
 permissions-block =
     .label = Blokeit
     .accesskey = B
+
 permissions-session =
     .label = Atļaut tikai ituos sesejis laikā
     .accesskey = s
+
 permissions-allow =
     .label = Atļaut
     .accesskey = A
+
 permissions-site-name =
     .label = Sātys lopa
+
 permissions-status =
     .label = Statuss
+
 permissions-remove =
     .label = Aizvuokt lopu
     .accesskey = z
+
 permissions-remove-all =
     .label = Aizvuokt vysys lopys
     .accesskey = k
+
 permission-dialog =
     .buttonlabelaccept = Saglobuot izmaiņis
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Mekleit lopys
+
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Blokeit
 permissions-capabilities-prompt =
     .label = Vīnmār vaicuot
+
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 permissions-exceptions-cookie-window =
     .title = Izjāmumi - seikdatnes un kešatmiņa
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Izjāmumi - seikdatnes un kešatmiņa
     .style = { permissions-window2.style }
@@ -75,6 +90,7 @@ permissions-exceptions-cookie-desc = Tu vari nūrōdēt, kurom lopom ir un kurom
 permissions-exceptions-popup-window =
     .title = Atļautuos lopys - jaunī lūgi
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Atļautuos lopys - jaunī lūgi
     .style = { permissions-window2.style }
@@ -85,6 +101,7 @@ permissions-exceptions-popup-desc = Jius varot nūruodeit, kurom lopom ir atļau
 permissions-exceptions-saved-logins-window =
     .title = Izjāmumi - Saglobuotuos paroles
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Izjāmumi - Saglobuotuos paroles
     .style = { permissions-window2.style }
@@ -95,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Itū vītņu paroles natiks saglobuot
 permissions-exceptions-addons-window =
     .title = Atļautuos lopys - papyldynuojumu instaliešona
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Atļautuos lopys - papyldynuojumu instaliešona
     .style = { permissions-window2.style }
@@ -108,6 +126,7 @@ permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir at
 permissions-site-notification-window =
     .title = Īstatiejumi - paziņuojumu atļuovis
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Īstatiejumi - paziņuojumu atļuovis
     .style = { permissions-window2.style }
@@ -121,6 +140,7 @@ permissions-site-notification-disable-desc = Tys aizlīgs vyskurom lopom, kuras 
 permissions-site-location-window =
     .title = Īstatiejumi - atsarasšona vītys atļuovis
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Īstatiejumi - atsarasšona vītys atļuovis
     .style = { permissions-window2.style }
@@ -137,6 +157,7 @@ permissions-site-location-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav 
 permissions-site-camera-window =
     .title = Settings - Camera Permissions
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Settings - Camera Permissions
     .style = { permissions-window2.style }
@@ -150,6 +171,7 @@ permissions-site-camera-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uz
 permissions-site-microphone-window =
     .title = Settings - Microphone Permissions
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Settings - Microphone Permissions
     .style = { permissions-window2.style }

@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Lejupīluodē sertifikatus
     .style = width: 46em
+
 download-cert-window2 =
     .title = Lejupīluodē sertifikatus
     .style = min-width: 46em

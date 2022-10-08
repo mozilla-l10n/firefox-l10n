@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = Atjaunōt { -brand-short-name }
 refresh-profile = Uzloboj { -brand-short-name }
 refresh-profile-button = Atjaunōt { -brand-short-name }…
+
 refresh-profile-progress =
     .title = Refresh { -brand-short-name }
 refresh-profile-progress-description = Gondreiž gotovs…
