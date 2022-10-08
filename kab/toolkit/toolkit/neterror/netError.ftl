@@ -73,6 +73,8 @@ neterror-inadequate-security-code = Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Aselkim-inek iɣil d { DATETIME($now, dateStyle: "medium") }, aya isewḥel tuqqna n { -brand-short-name } s tɣellist. Akken ad terzuḍ ɣer <b>{ $hostname }</b>, leqqem asarag n uselkim-inek deg iɣewwaṛen n unagraw ɣer uzemz, akud, akked tamnaḍt takudant iwatan, sakin smiren <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Asebter amiran aniɣer i tetteɛraḍeḍ ad tkecmeḍ ur yezmir ara ad d-iban, acku tuccḍa n uneggaf n uẓeṭṭa teḍra-d.
+neterror-network-protocol-error-contact-website = Nermes bab n usmel web akken ad iẓeṛ ugur-a.
 certerror-expired-cert-second-para = Aselkin n usmel web-agi ad yili yemmut, dɣa issewḥal tuqqna taɣelsant n { -brand-short-name } Ma terziḍ ɣer usmel-agi, Imakwaren zemren ad ɛerḍen ad akren talɣut yecban awalen uffiren, imaylen, neɣ talqayt n tkerḍa n usmad.
 certerror-expired-cert-sts-second-para = Aselkin n usmel web ad yili yemmut, issewḥal tuqqna tɣelsant n { -brand-short-name }
 certerror-what-can-you-do-about-it-title = D acu i tzemreḍ ad txedmeḍ i waya?
