@@ -66,6 +66,10 @@ certerror-sts-intro = { -brand-short-name } mendeteksi potensi ancaman keamanan 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } mendeteksi masalah dan tidak melanjutkan ke <b>{ $hostname }</b>. Situs web salah dikonfigurasi atau jam komputer Anda disetel ke waktu yang salah.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> sepertinya situs yang aman, tapi sambungan yang aman tidak terjalin. Masalah ini disebabkan oleh <b>{ $mitm }</b>, yang bisa berasal dari peranti lunak dalam komputer atau jaringan Anda.
 neterror-corrupted-content-intro = Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.
 neterror-corrupted-content-contact-website = Mohon hubungi pemilik situs web mengenai masalah ini.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
