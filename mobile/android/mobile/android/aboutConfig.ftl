@@ -6,6 +6,7 @@ config-toolbar-search =
     .placeholder = Pesquisa
 config-new-pref-name =
     .placeholder = Nome
+config-new-pref-value-boolean = Booleano
 config-new-pref-value-integer = Inteiro
 config-new-pref-string =
     .placeholder = Introduza um texto
