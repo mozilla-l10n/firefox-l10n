@@ -12,3 +12,8 @@ pictureinpicture-mute =
 pictureinpicture-unmute =
     .aria-label = Bideng
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

@@ -27,8 +27,8 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
+-brand-shortcut-name = Firefox
+
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox û logoyên Firefoxê markayên tomarkirî yên Weqfa Mozillayê ne.
--brand-shortcut-name = Firefox
-
