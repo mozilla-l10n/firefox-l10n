@@ -17,6 +17,7 @@ config-new-pref-cancel-button = Sefsex
 config-new-pref-create-button = Rnu
 config-new-pref-change-button = Snifel
 config-pref-toggle-button = Nṭew
+config-pref-reset-button = Wennez tikelt-nniḍen
 config-context-menu-copy-pref-name =
     .label = Nɣel isem
 config-context-menu-copy-pref-value =
