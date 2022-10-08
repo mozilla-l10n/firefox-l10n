@@ -7,6 +7,7 @@
 
 neterror-page-title = اشکال در هنگام بارگیری
 certerror-page-title = هشدار: خطر امنیتی نهفته در پیش است
+certerror-sts-page-title = متصل نشد: مشکل امنیتی بالقوه
 neterror-blocked-by-policy-page-title = صفحهٔ مسدود شده
 neterror-captive-portal-page-title = ورود به شبکه
 neterror-dns-not-found-title = سرور پیدا نشد
@@ -14,6 +15,7 @@ neterror-malformed-uri-page-title = نشانی معتبر نیست
 
 ## Error page actions
 
+neterror-advanced-button = پیشرفته…
 neterror-copy-to-clipboard-button = رونوشت متن به کلیپ بورد
 neterror-learn-more-link = اطلاعات بیشتر…
 neterror-open-portal-login-page-button = بازکردن صفحه ورود به شبکه
