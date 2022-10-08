@@ -29,11 +29,11 @@
 
 -brand-shorter-name = Firefox
 -brand-short-name = Firefox
+-brand-shortcut-name = Firefox
+
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox 및 Firefox 로고는 미국 Mozilla Foundation의 소유이며, 미국 및 그 외의 나라에 등록된 상표입니다.
--brand-shortcut-name = Firefox
-

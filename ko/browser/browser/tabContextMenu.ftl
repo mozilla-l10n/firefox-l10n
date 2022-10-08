@@ -103,6 +103,7 @@ tab-context-move-tabs =
            *[other] 탭 이동
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label = 탭 { $tabCount }개를 기기로 보내기
     .accesskey = n

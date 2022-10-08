@@ -142,8 +142,3 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * 현재 세션만 해당되며, 페이지를 새로 고침
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Gecko 플랫폼 데이터
-options-show-platform-data-tooltip =
-    .title = 이 옵션을 사용하면 JavaScript 프로파일러 보고서에 Gecko 플랫폼 기호가 들어갑니다

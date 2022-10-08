@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = 프로세스 관리자
+
 # The Actions column
 about-processes-column-action =
     .title = 작업
@@ -14,6 +15,7 @@ about-processes-shutdown-process =
     .title = 탭 언로드 및 프로세스 종료
 about-processes-shutdown-tab =
     .title = 탭 닫기
+
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -50,6 +52,7 @@ about-processes-remote-sandbox-broker-process = 원격 샌드박스 브로커 ({
 about-processes-fork-server-process = 포크 서버 ({ $pid })
 about-processes-preallocated-process = 사전 할당 ({ $pid })
 about-processes-utility-process = 유틸리티 ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -83,6 +86,7 @@ about-processes-active-threads =
     { $active ->
        *[other] { $number }개 중 활성 스레드 { $active }개: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -93,21 +97,25 @@ about-processes-inactive-threads =
     { $number ->
        *[other] { $number } 비활성화 스레드
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = 스레드 id: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = 탭: { $name }
 about-processes-preloaded-tab = 사전 로드된 새 탭
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = 서브 프레임: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -118,6 +126,7 @@ about-processes-frame-name-many = 서브 프레임 ({ $number }): { $shortUrl }
 
 about-processes-utility-actor-unknown = 알 수 없는 작업자
 about-processes-utility-actor-audio-decoder = 오디오 디코더
+
 about-processes-utility-actor-audio-decoder-generic = 일반 오디오 디코더
 about-processes-utility-actor-audio-decoder-applemedia = 애플 미디어 오디오 디코더
 about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework 오디오 디코더
@@ -135,12 +144,15 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation 미디�
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = 전체 CPU 시간: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (측정 중)
+
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = 전체 CPU 시간: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = 유휴
     .title = 전체 CPU 시간: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -159,6 +171,7 @@ about-processes-cpu-fully-idle = 유휴
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = 변화: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

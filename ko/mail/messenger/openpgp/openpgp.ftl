@@ -223,16 +223,12 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 
-openpgp-key-details-title =
-    .title = 키 속성
-
 openpgp-key-details-signatures-tab =
     .label = 인증
 openpgp-key-details-structure-tab =
     .label = 구조
 openpgp-key-details-uid-certified-col =
     .label = 사용자 ID / 인증 기관
-openpgp-key-details-user-id2-label = 주장하는 키 소유자
 openpgp-key-details-id-label =
     .label = 아이디
 openpgp-key-details-key-type-label = 형식
@@ -513,9 +509,6 @@ key-error-not-accepted-as-personal = ID가 '{ $keySpec }'인 키가 개인 키�
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = 선택한 기능은 오프라인 모드에서 사용할 수 없습니다. 온라인에 접속하여 다시 시도하십시오.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = 지정된 검색 기준과 일치하는 키를 찾을 수 없습니다.
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = 오류 - 키 추출 명령 실패
