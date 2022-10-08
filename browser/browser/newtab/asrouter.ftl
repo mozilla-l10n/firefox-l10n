@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Tilrådd funksjon
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kvifor ser eg dette
-
 cfr-doorhanger-extension-cancel-button = Ikkje no
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Legg til no
     .accesskey = e
-
 cfr-doorhanger-extension-manage-settings-button = Handsam tilrådingsinnstillingar
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Ikkje vis meg denne tilrådinga
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Les meir
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = av { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Tilråding
 cfr-doorhanger-extension-notification2 = Tilråding
     .tooltiptext = Utvidingstilråding
     .a11y-announcement = Utvidingstilråding tilgjengeleg
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Tilråding
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Les meir
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funksjon:
-
 cfr-whatsnew-button =
     .label = Kva er nytt
     .tooltiptext = Kva er nytt
-
 cfr-whatsnew-release-notes-link-text = Les versjonsnotatet
 
 ## Enhanced Tracking Protection Milestones
@@ -165,7 +155,6 @@ spotlight-total-cookie-protection-body = Totalt vern mot infokapslar stoppar spo
 spotlight-total-cookie-protection-expanded = { -brand-short-name }byggjer eit gjerde rundt infokapslar, og avgrensar dei til nettstaden du er på, slik at sporarar ikkje kan bruke dei til å følgje deg. Med tidleg tilgang hjelper du til med å optimalisere denne funksjonen slik at vi kan fortsetje å byggje eit betre nett for alle.
 spotlight-total-cookie-protection-primary-button = Slå på total vern mot infokapslar
 spotlight-total-cookie-protection-secondary-button = Ikkje no
-
 cfr-total-cookie-protection-header = Takka vere deg er { -brand-short-name } meir privat og sikrare enn nokon gong
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -197,12 +186,13 @@ spotlight-pin-secondary-button = Ikkje no
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Ny { -brand-short-name }. Meir privat. Færre sporarar. Ingen kompromiss.
+mr2022-background-update-toast-text = Prøv den nyaste { -brand-short-name } no, oppgradert med det sterkaste anti-sporingsvernet vårt til no.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Opne { -brand-shorter-name } no
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -215,8 +205,13 @@ firefoxview-cfr-primarybutton = Prøv det
     .accesskey = t
 firefoxview-cfr-secondarybutton = Ikkje no
     .accesskey = n
+firefoxview-cfr-header = Få tilbake nyleg attlatne faner med { -firefoxview-brand-name }
+firefoxview-cfr-body = Saumlaust byte mellom einingar. Legg óg til ein fargeklatt i nettlesaren din.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Sei hei til { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Vil du ha den opne fana på telefonen din? Hent henne. Treng du sida du nettopp har besøkt? Hent henne tilbake med { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Sjå korleis dette fungerer
 firefoxview-spotlight-promo-secondarybutton = Hopp over
