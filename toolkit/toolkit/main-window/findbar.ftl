@@ -9,16 +9,18 @@ findbar-next =
     .tooltiptext = वाक्यांश की अगली उपस्थिति ढूँढ़ें
 findbar-previous =
     .tooltiptext = वाक्यांश की पिछली उपस्थिति ढूँढ़ें
-
 findbar-find-button-close =
     .tooltiptext = ढ़ूँढ़ पट्टी बंद करें
-
 findbar-case-sensitive =
     .label = केस मिलाएँ
     .accesskey = c
     .tooltiptext = केस संवेदनशीलता से खोजें
-
 findbar-entire-word =
     .label = पूर्ण शब्द
     .accesskey = W
     .tooltiptext = केवल पूर्ण शब्द ढूंढें
+findbar-not-found = वाक्यांश नहीं मिला
+findbar-wrapped-to-top = पृष्ठ के तल में जा पहुँचा, शीर्ष से जारी
+findbar-wrapped-to-bottom = पृष्ठ के शीर्ष जा पहुँचा, तल से जारी
+findbar-case-sensitive-status =
+    .value = (स्थिति के प्रति संवेदनशील)
