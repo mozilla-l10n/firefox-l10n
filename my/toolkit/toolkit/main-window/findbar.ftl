@@ -32,3 +32,12 @@ findbar-case-sensitive-status =
     .value = (စာလုံး အမှားမခံ)
 findbar-entire-word-status =
     .value = (စာလုံးတစ်လုံးလုံးသာ)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value = ကိုက်ညီတွေ့ရှိမှု { $total } ခုထဲမှ စဉ် { $current }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value = ကိုက်ညီတွေ့ရှိမှု { $limit } ခုထက်ပို
