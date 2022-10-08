@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Ein del av denne sida krasja.</strong> For å informere { -brand-product-name } om dette problemet og få det løyst raskare, må du sende inn ein rapport.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Ein del av denne sida krasja. For å informere { -brand-product-name } om dette problemet og få det løyst raskare, må du sende inn ein rapport.
+crashed-subframe-learnmore-link =
+    .value = Les meir
+crashed-subframe-submit =
+    .label = Send inn rapport
+    .accesskey = S
 
 ## Pending crash reports
 
