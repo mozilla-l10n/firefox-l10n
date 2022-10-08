@@ -6,16 +6,25 @@
 ## Error page titles
 
 neterror-page-title = Probléma az oldal betöltése közben
+certerror-page-title = Figyelmeztetés: Lehetséges biztonsági kockázat következik
+certerror-sts-page-title = Nem kapcsolódott: lehetséges biztonsági probléma
+neterror-blocked-by-policy-page-title = Blokkolt oldal
 neterror-captive-portal-page-title = Bejelentkezés a hálózatba
+neterror-dns-not-found-title = A kiszolgáló nem található
+neterror-malformed-uri-page-title = Érvénytelen URL
 
 ## Error page actions
 
+neterror-advanced-button = Speciális…
 neterror-copy-to-clipboard-button = Szöveg másolása a vágólapra
 neterror-learn-more-link = További tudnivalók…
 neterror-open-portal-login-page-button = Hálózati bejelentkezés oldal megnyitása
+neterror-override-exception-button = Kockázat elfogadása és továbblépés
 neterror-pref-reset-button = Alap beállítások visszaállítása
 neterror-return-to-previous-page-button = Ugrás vissza
+neterror-return-to-previous-page-recommended-button = Visszalépés (ajánlott)
 neterror-try-again-button = Próbálja újra
+neterror-view-certificate-link = Tanúsítvány megtekintése
 
 ##
 
@@ -49,6 +58,13 @@ neterror-content-encoding-error = Értesítse a webhely tulajdonosait erről a p
 neterror-unsafe-content-type = Értesítse a webhely tulajdonosait erről a problémáról.
 neterror-nss-failure-not-verified = A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.
 neterror-nss-failure-contact-website = Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = A { -brand-short-name } egy lehetséges biztonsági kockázatot észlelt, és nem lépett tovább a(z) <b>{ $hostname }</b> oldalra. Ha felkeresi ezt az oldalt, akkor támadók megpróbálhatják ellopni a jelszavait, e-mailjeit vagy bankkártyaadatait.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = A(z) <b>{ $hostname }</b> valószínűleg egy biztonságos oldal, de nem hozható létre biztonságos kapcsolat. A problémát <b>{ $mitm }</b> okozza, amely valószínűleg egy a számítógépén vagy a hálózatán lévő szoftver.
 neterror-corrupted-content-intro = A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.
 neterror-corrupted-content-contact-website = Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -58,3 +74,29 @@ neterror-sslv3-used = Speciális információ: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> olyan biztonsági technológiát használ, amely elavult, és sérülékeny a támadásokkal szemben. Egy támadó könnyen felfedhet olyan információkat, amelyeket biztonságosnak gondol. A weboldal rendszergazdájának ki kell javítania a kiszolgálót, mielőtt meglátogathatja az oldalt.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = A számítógépe szerint a pontos idő { DATETIME($now, dateStyle: "medium") }, és ez megakadályozza, hogy a { -brand-short-name } biztonságosan kapcsolódjon. A(z) <b>{ $hostname }</b> felkereséséhez frissítse a rendszerbeállításokban a számítógép óráját a jelenlegi dátumra, időre és időzónára, és frissítse a(z) <b>{ $hostname }</b> oldalt.
+neterror-network-protocol-error-intro = A megtekinteni kívánt oldal nem jeleníthető meg, mert hiba észlelhető a hálózati protokollban.
+neterror-network-protocol-error-contact-website = Lépjen kapcsolatba a webhely tulajdonosaival, hogy tájékoztassa őket a problémáról.
+certerror-what-can-you-do-about-it-title = Mit tehet?
+certerror-unknown-issuer-what-can-you-do-about-it-website = A probléma valószínűleg a weboldallal van, és semmit sem tehet a megoldása érdekében.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ha vállalati hálózaton van, vagy antivírus szoftvert használ, akkor segítségért felkeresheti a terméktámogatási csoportot. A weboldal rendszergazdáját is értesítheti a problémáról.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = A számítógép órája erre van állítva: { DATETIME($now, dateStyle: "medium") }. Győződjön meg róla, hogy a helyes dátum, idő és időzóna van beállítva a rendszerbeállításokban, majd töltse újra a(z) <b>{ $hostname }</b> oldalt.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Ha már a helyes időre van állítva az óra, akkor valószínűleg a webhely van rosszul beállítva, és semmit sem tehet a probléma megoldása érdekében. Értesítheti a webhely rendszergazdáját a problémáról.
+certerror-bad-cert-domain-what-can-you-do-about-it = A probléma valószínűleg a weboldallal van, és semmit sem tehet a megoldása érdekében. Értesítheti a weboldal rendszergazdáját a problémáról.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ha a víruskereső szoftvere olyan funkciót tartalmaz, amely titkosított kapcsolatokat ellenőriz (gyakran „webes szkennelés” vagy „https szkennelés” néven szerepel), akkor letilthatja ezt a funkciót. Ha ez nem működik, akkor eltávolíthatja és újratelepítheti a víruskereső szoftvert.
+certerror-mitm-what-can-you-do-about-it-corporate = Ha vállalati hálózaton tartózkodik, akkor forduljon az IT részlegéhez.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Ha nem tudja mi az a <b>{ $mitm }</b>, akkor ez egy támadás lehet, és nem szabad továbblépnie a webhelyre.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Ha nem tudja mi az a <b>{ $mitm }</b>, akkor ez egy támadás lehet, és semmit sem tehet, hogy hozzáférjen a webhelyhez.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = A(z) <b>{ $hostname }</b> oldal a HTTP Strict Transport Security (HSTS) nevű biztonsági házirendet használja, amely azt jelenti, hogy a { -brand-short-name } csak biztonságosan kapcsolódhat hozzá. Nem adhat hozzá kivételt, hogy felkeresse ezt az oldalt.
