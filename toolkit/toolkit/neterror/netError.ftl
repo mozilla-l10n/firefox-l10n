@@ -6,14 +6,18 @@
 ## Error page titles
 
 neterror-page-title = Problem pri učitavanju stranice
+neterror-blocked-by-policy-page-title = Blokirana stranica
 neterror-captive-portal-page-title = Prijava na mrežu
 neterror-dns-not-found-title = Poslužitelj nije pronađen
+neterror-malformed-uri-page-title = Neispravan URL
 
 ## Error page actions
 
 neterror-copy-to-clipboard-button = Kopiraj tekst u međuspremnik
 neterror-open-portal-login-page-button = Otvaranje stranice prijave na mrežu
+neterror-override-exception-button = Prihvati rizik i nastavi
 neterror-return-to-previous-page-button = Idi natrag
+neterror-view-certificate-link = Pregled certifikata
 
 ##
 
