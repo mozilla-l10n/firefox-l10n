@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Problem loading page
+neterror-blocked-by-policy-page-title = Blocked Page
 neterror-dns-not-found-title = Server Not Found
 neterror-malformed-uri-page-title = Invalid URL
 
