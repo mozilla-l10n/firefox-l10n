@@ -5,43 +5,57 @@
 permissions-window =
     .title = Pengecualian
     .style = width: 45em
+
 permissions-window2 =
     .title = Pengecualian
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Alamat laman web
     .accesskey = l
+
 permissions-block =
     .label = Sekat
     .accesskey = a
+
 permissions-session =
     .label = Izinkan untuk Sesi
     .accesskey = S
+
 permissions-allow =
     .label = Izinkan
     .accesskey = A
+
 permissions-site-name =
     .label = Laman web
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Buang Laman Web
     .accesskey = B
+
 permissions-remove-all =
     .label = Buang Semua Laman Web
     .accesskey = u
+
 permission-dialog =
     .buttonlabelaccept = Simpan Perubahan
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Carian laman web
+
 permissions-capabilities-allow =
     .label = Izinkan
 permissions-capabilities-block =
     .label = Sekat
 permissions-capabilities-prompt =
     .label = Sentiasa Tanya
+
 permissions-capabilities-listitem-allow =
     .value = Izinkan
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = Sila masukkan nama hos yang sah
 permissions-exceptions-cookie-window =
     .title = Pengecualian - Kuki dan Data Laman
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Pengecualian - Kuki dan Data Laman
     .style = { permissions-window2.style }
@@ -75,6 +90,7 @@ permissions-exceptions-cookie-desc = Anda boleh tentukan laman web yang sentiasa
 permissions-exceptions-popup-window =
     .title = Laman Web Diizinkan - Pop-ups
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Laman Web Diizinkan - Pop-ups
     .style = { permissions-window2.style }
@@ -85,6 +101,7 @@ permissions-exceptions-popup-desc = Anda boleh tentukan laman web yang diizinkan
 permissions-exceptions-saved-logins-window =
     .title = Pengecualian - Log masuk Tersimpan
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Pengecualian - Log masuk Tersimpan
     .style = { permissions-window2.style }
@@ -95,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Log masuk ke laman berikut tidak akan
 permissions-exceptions-addons-window =
     .title = Laman Web Diizinkan - Pemasangan Add-ons
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Laman Web Diizinkan - Pemasangan Add-ons
     .style = { permissions-window2.style }
@@ -108,6 +126,7 @@ permissions-exceptions-addons-desc = Anda boleh tentukan laman web yang diizinka
 permissions-site-notification-window =
     .title = Tetapan - Keizinan Notifikasi
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Tetapan - Keizinan Notifikasi
     .style = { permissions-window2.style }
@@ -121,6 +140,7 @@ permissions-site-notification-disable-desc = Ini akan menghalang mana-mana laman
 permissions-site-location-window =
     .title = Tetapan - Keizinan Lokasi
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Tetapan - Keizinan Lokasi
     .style = { permissions-window2.style }
@@ -137,6 +157,7 @@ permissions-site-location-disable-desc = Ini akan menghalang mana-mana laman web
 permissions-site-camera-window =
     .title = Tetapan - Keizinan Kamera
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Tetapan - Keizinan Kamera
     .style = { permissions-window2.style }
@@ -150,6 +171,7 @@ permissions-site-camera-disable-desc = Ini akan menghalang mana-mana laman web y
 permissions-site-microphone-window =
     .title = Tetapan - Keizinan Mikrofon
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Tetapan - Keizinan Mikrofon
     .style = { permissions-window2.style }

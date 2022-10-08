@@ -30,3 +30,5 @@ toolbox-meatball-menu-noautohide-label = Nyahdayakan autosorok popup
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

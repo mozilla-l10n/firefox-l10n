@@ -126,10 +126,3 @@ options-context-triggers-page-refresh = * Sesi semasa sahaja, ulang muat laman
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Papar data platform Gecko
-options-show-platform-data-tooltip =
-    .title =
-        Jika anda dayakan pilihan ini JavaScript laporan Profiler akan memasukkan
-        simbol platfom Gecko
