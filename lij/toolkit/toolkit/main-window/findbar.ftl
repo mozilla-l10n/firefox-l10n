@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Treuva a pròscima ripetiçion do testo da çercâ
 findbar-previous =
     .tooltiptext = Treuva a precedente ripetiçion do testo da çercâ
-
 findbar-find-button-close =
     .tooltiptext = Særa a bara de riçerca
-
 findbar-highlight-all2 =
     .label = Evidensia tutto
     .accesskey =
@@ -21,13 +19,15 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = evidensia tutte e ripetiçioin do testo
-
 findbar-case-sensitive =
     .label = maioscole/minoscole
     .accesskey = M
     .tooltiptext = Distinoi fra maioscole e minoscole inta riçerca
-
 findbar-entire-word =
     .label = Paròlla intrega
     .accesskey = i
     .tooltiptext = Çerca solo e paròlle intreghe
+findbar-wrapped-to-top = Fin da pagina, continoa da çimma
+findbar-wrapped-to-bottom = Çimma da pagina, continoa da fin
+findbar-case-sensitive-status =
+    .value = (Contròlla e maioscole)
