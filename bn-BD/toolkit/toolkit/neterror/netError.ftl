@@ -6,6 +6,8 @@
 ## Error page titles
 
 neterror-captive-portal-page-title = নেটওয়ার্কে লগইন করুন
+neterror-dns-not-found-title = সার্ভার খুঁজে পাওয়া যায় নি
+neterror-malformed-uri-page-title = অবৈধ URL
 
 ## Error page actions
 
