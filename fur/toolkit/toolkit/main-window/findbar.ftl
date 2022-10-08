@@ -38,5 +38,7 @@ findbar-normal-find =
     .placeholder = Cjate te pagjine
 findbar-fast-find =
     .placeholder = Ricercje svelte
+findbar-fast-find-links =
+    .placeholder = Ricercje svelte (dome colegaments)
 findbar-case-sensitive-status =
     .value = (Distinzion tra maiusculis e minusculis)
