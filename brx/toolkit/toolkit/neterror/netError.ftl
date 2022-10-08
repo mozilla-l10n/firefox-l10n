@@ -6,9 +6,11 @@
 ## Error page titles
 
 neterror-page-title = बिलाइखौ ल'ड खालामनायाव जानाय जेंना
+neterror-blocked-by-policy-page-title = ब्लक जानाय बिलाइ
 
 ## Error page actions
 
+neterror-advanced-button = जौगाहोनाय…
 neterror-learn-more-link = गोबां सोलों
 neterror-try-again-button = फिन नाजा
 
@@ -42,3 +44,5 @@ neterror-nss-failure-not-verified = नोंथाङा नायनो ना
 neterror-nss-failure-contact-website = बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।
 neterror-corrupted-content-intro = नोंथाङा नायनो नाजाबाय थानाय बिलाइखौ दिन्थिनो हाया मानोना डाटा दैथायनायाव गोरोन्थि संना दिहुनबाय।
 neterror-corrupted-content-contact-website = बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = जौगाहोनाय मोनथिहोनाय: SSL_ERROR_UNSUPPORTED_VERSION
