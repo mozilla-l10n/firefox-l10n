@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = পেজ লোড করতে সমস্যা
+neterror-captive-portal-page-title = নেটওয়ার্কে লগইন করুন
 
 ## Error page actions
 
@@ -40,6 +41,8 @@ neterror-net-offline = "পুনরায় প্রচেষ্টা করু
 neterror-proxy-resolve-failure-settings = প্রক্সি সেটিংস ঠিক দেওয়া আছে নাকি দেখে নিন
 neterror-proxy-resolve-failure-connection = কম্যুটারে চালু নেট কানেকশান আছে কিনা দেখে নিন
 neterror-proxy-resolve-failure-firewall = ফায়ারওয়াল বা প্রক্সি দিয়ে সুরক্ষিত থাকলে, নিশ্চিত করুন যে that { -brand-short-name } কে ওয়েব ব্যবহারের অনুমতি দেওয়া আছে।
+neterror-proxy-connect-failure-settings = ওই প্রক্সি সেটিংস্টা দেখে নিন এটা নিশ্চিত করতে যে তারা সংযুক্ত।
+neterror-proxy-connect-failure-contact-admin = আপনার নেটওয়ার্ক প্রশাসকের সাথে যোগাযোগ করুন এটা নিশ্চিত করতে যে আপনার প্রক্সি সার্ভার     কাজ করছে।
 neterror-content-encoding-error = অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের সূচিত করুন।
 neterror-unsafe-content-type = অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের সূচিত করুন।
 neterror-nss-failure-not-verified = প্রাপ্ত তথ্যের যথার্থতা পরীক্ষা করা সম্ভব না হওয়ার ফলে প্রদর্শনের জন্য চিহ্নিত পৃষ্ঠা প্রদর্শন করা সম্ভব হয়নি।
