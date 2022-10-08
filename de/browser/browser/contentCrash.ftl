@@ -5,6 +5,12 @@
 
 ## Subframe crash notification
 
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Ein Teil der Seite ist abgestürzt. Übermitteln Sie bitte einen Bericht, um { -brand-product-name } über dieses Problem zu informieren und beim Beheben des Fehlers zu helfen.
+crashed-subframe-learnmore-link =
+    .value = Weitere Informationen
 
 ## Pending crash reports
 
