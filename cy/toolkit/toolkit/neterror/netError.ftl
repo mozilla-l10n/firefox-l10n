@@ -6,7 +6,10 @@
 ## Error page titles
 
 neterror-page-title = Anhawster llwytho tudalen
+neterror-blocked-by-policy-page-title = Tudalen wedi'i Rhwystro
 neterror-captive-portal-page-title = Mewngofnodi i'r rhwydwaith
+neterror-dns-not-found-title = Heb Ganfod Gweinydd
+neterror-malformed-uri-page-title = URL annilys
 
 ## Error page actions
 
@@ -33,11 +36,19 @@ neterror-file-not-found-filename = Gwiriwch yr enw ffeil am brif lythrennu neu w
 neterror-file-not-found-moved = Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.
 neterror-access-denied = Gall ei fod wedi ei dynnu, symud neu fod caniatâd ffeiliau yn rhwystro mynediad.
 neterror-unknown-protocol = Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.
+neterror-redirect-loop = Gall y broblem yma fod wedi ei hachosi drwy analluogi neu wrthod cwci.
 neterror-unknown-socket-type-psm-installed = Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.
 neterror-unknown-socket-type-server-config = Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.
+neterror-net-offline = Clicio “Ceisio newid eto” i newid i'r modd ar-lein ac ail lwytho'r dudalen.
 neterror-proxy-resolve-failure-settings = Gwiriwch y gosodiadau dirprwyol i wneud yn siŵr eu bod yn gywir.
 neterror-proxy-resolve-failure-connection = Gwiriwch fod gan eich cyfrifiadur cyswllt a'r we sy'n gweithio.
 neterror-proxy-resolve-failure-firewall = Os yw eich cyfrifiadur wedi ei ddiogelu gan fur cadarn neu ddirprwy, gwnewch yn siŵr fod gan { -brand-short-name } fynediad i'r we.
+neterror-proxy-connect-failure-settings = Gwiriwch osodiadau'r dirprwy i wneud yn siŵr eu bod yn gywir.
+neterror-proxy-connect-failure-contact-admin = Cysylltwch â'ch gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.
+neterror-content-encoding-error = Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.
+neterror-unsafe-content-type = Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.
+neterror-nss-failure-not-verified = Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data rydych wedi ei dderbyn.
+neterror-nss-failure-contact-website = Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Gwybodaeth uwch: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
