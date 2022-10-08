@@ -180,6 +180,10 @@ search-one-offs-context-set-as-default-private =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =
@@ -475,4 +479,6 @@ tabs-toolbar-list-all-tabs =
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+## Unified extensions (toolbar) button
 

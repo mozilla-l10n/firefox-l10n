@@ -4,3 +4,8 @@
 
 pictureinpicture-player-title = Mmàggini-nnâ-Mmàggini
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

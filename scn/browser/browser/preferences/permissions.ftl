@@ -5,47 +5,62 @@
 permissions-window =
     .title = Ccizziuna
     .style = width: 45em
+
 permissions-window2 =
     .title = Ccizziuna
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Nnirizzu dû situ
     .accesskey = d
+
 permissions-block =
     .label = Blocca
     .accesskey = B
+
 permissions-session =
     .label = Pirmetti sissiuni
     .accesskey = S
+
 permissions-allow =
     .label = Pirmetti
     .accesskey = P
+
 permissions-site-name =
     .label = Situ
+
 permissions-status =
     .label = Statu
+
 permissions-remove =
     .label = Leva situ
     .accesskey = L
+
 permissions-remove-all =
     .label = Leva tutti i siti
     .accesskey = e
+
 permissions-autoplay-menu = Pridifinutu pi tutti i siti:
+
 permissions-searchbox =
     .placeholder = Cerca situ
+
 permissions-capabilities-autoplay-allow =
     .label = Pirmetti audiu e vidiu
 permissions-capabilities-autoplay-block =
     .label = Blocca audiu
 permissions-capabilities-autoplay-blockall =
     .label = Blocca audiu e vidiu
+
 permissions-capabilities-allow =
     .label = Pirmetti
 permissions-capabilities-block =
     .label = Blocca
 permissions-capabilities-prompt =
     .label = Addumanna sempri
+
 permissions-capabilities-listitem-allow =
     .value = Pirmetti
 permissions-capabilities-listitem-block =
@@ -63,6 +78,7 @@ permissions-invalid-uri-label = Metti nomu òspiti vàlidu
 permissions-exceptions-etp-window =
     .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
     .style = { permissions-window2.style }
@@ -73,6 +89,7 @@ permissions-exceptions-etp-desc = Disattivasti i prutizziuna pi sti siti.
 permissions-exceptions-cookie-window =
     .title = Ccizziuna - Cookie e dati dû situ
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Ccizziuna - Cookie e dati dû situ
     .style = { permissions-window2.style }
@@ -86,6 +103,7 @@ permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponn
 permissions-exceptions-popup-window =
     .title = Siti cunzintuti - Finestri autumàtichi
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Siti cunzintuti - Finestri autumàtichi
     .style = { permissions-window2.style }
@@ -96,6 +114,7 @@ permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu ràpiri fin
 permissions-exceptions-saved-logins-window =
     .title = Ccizziuna - Accessi sarbati
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Ccizziuna - Accessi sarbati
     .style = { permissions-window2.style }
@@ -106,6 +125,7 @@ permissions-exceptions-saved-logins-desc = L'accessi pi i siti appressu nun venn
 permissions-exceptions-addons-window =
     .title = Siti cunzintuti - Nstallazziuni di agghiuncitini
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Siti cunzintuti - Nstallazziuni di agghiuncitini
     .style = { permissions-window2.style }
@@ -116,6 +136,7 @@ permissions-exceptions-addons-desc = Po' spicificari quali siti ponnu nstallari 
 permissions-site-autoplay-window =
     .title = Mpustazziuna - Ripruduzziuni autumàtica
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Mpustazziuna - Ripruduzziuni autumàtica
     .style = { permissions-window2.style }
@@ -126,6 +147,7 @@ permissions-site-autoplay-desc = Cca po' spicificari i siti chi nun ànnu a risp
 permissions-site-notification-window =
     .title = Mpustazziuna - Pirmisi di nutìfica
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Mpustazziuna - Pirmisi di nutìfica
     .style = { permissions-window2.style }
@@ -139,6 +161,7 @@ permissions-site-notification-disable-desc = Chistu mpidisci ê siti ca nun cump
 permissions-site-location-window =
     .title = Mpustazziuna - Pirmisi di lucalizzazziuni
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Mpustazziuna - Pirmisi di lucalizzazziuni
     .style = { permissions-window2.style }
@@ -152,6 +175,7 @@ permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparì
 permissions-site-xr-window =
     .title = Mpustazziuna - Pirmisi pâ rialtà virtuali
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Mpustazziuna - Pirmisi pâ rialtà virtuali
     .style = { permissions-window2.style }
@@ -165,6 +189,7 @@ permissions-site-xr-disable-desc = Chistu bluccarà tutti i siti ca nun sunnu el
 permissions-site-camera-window =
     .title = Mpustazziuna - Primisi fotucàmira
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Mpustazziuna - Primisi fotucàmira
     .style = { permissions-window2.style }
@@ -178,6 +203,7 @@ permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìsc
 permissions-site-microphone-window =
     .title = Mpustazziuna - Pirmisi micròfunu
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Mpustazziuna - Pirmisi micròfunu
     .style = { permissions-window2.style }
