@@ -7,6 +7,8 @@
 
 neterror-page-title = Erô into caregamento da pagina
 certerror-page-title = Atençion: gh'é 'n reizego de seguessa potensiâ
+certerror-sts-page-title = Conescion fermâ: reizego potensiâ de seguessa
+neterror-blocked-by-policy-page-title = Pagina blocâ
 neterror-captive-portal-page-title = Intra inta ræ
 neterror-dns-not-found-title = Server no atrovou
 neterror-malformed-uri-page-title = URL grammo
@@ -16,6 +18,7 @@ neterror-malformed-uri-page-title = URL grammo
 neterror-advanced-button = Avansæ…
 neterror-copy-to-clipboard-button = Còpia testo inti aponti
 neterror-learn-more-link = Atre informaçioin…
+neterror-open-portal-login-page-button = Arvi a pagina de intrâ da ræ
 neterror-override-exception-button = Acetta o reizego e vanni avanti
 neterror-pref-reset-button = Repiggia inpostaçioin predefinie
 neterror-return-to-previous-page-button = Vanni inderê
@@ -34,8 +37,10 @@ neterror-generic-error = { -brand-short-name } o no peu caregâ sta pagina pe qu
 neterror-load-error-try-again = O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.
 neterror-load-error-connection = Se no ti riesci a caregâ nisciunn-a pagina, preuva a controlâ a conescion do teu computer.
 neterror-load-error-firewall = Se o teu computer ò a teu conescion en protezui da 'n firewall ò proxy, açertite che { -brand-short-name } o l'agge o permisso de acede a-a Ræ.
+neterror-captive-portal = Ti devi intrâ in sta ræ prima che ti pòsse acede a l'internet.
 neterror-access-denied = O peu ese stæto scancelou,mesciou, ò i permissi de acesso a-i file peuan proibine l'acesso.
 neterror-unknown-protocol = Bezeugna instalâ do software in ciù pe arvî st'indirisso.
+neterror-redirect-loop = Sto problema o peu ese caozòu da l'avei dizabilitòu ò refuòu i cookie.
 neterror-not-cached-intro = O documento domandou o no l'é disponibile inta cache de { -brand-short-name }.
 neterror-not-cached-sensitive = Comme mezua de seguessa, o { -brand-short-name } o no te domanda torna documenti senscibili in aotomatico.
 neterror-not-cached-try-again = Sciacca Preuva torna pe domandâ torna o documento a-o scito.
