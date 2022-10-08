@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Pronađi sljedeće pojavljivanje ovog izraza
 findbar-previous =
     .tooltiptext = Pronađi prethodno pojavljivanje ovog izraza
-
 findbar-find-button-close =
     .tooltiptext = Zatvori traku za traženje
-
 findbar-highlight-all2 =
     .label = Istakni sve
     .accesskey =
@@ -21,18 +19,20 @@ findbar-highlight-all2 =
            *[other] I
         }
     .tooltiptext = Istakni sva ponavljanja traženog izraza
-
 findbar-case-sensitive =
     .label = Razlikuj velika i mala slova
     .accesskey = j
     .tooltiptext = Razlikuj velika i mala slova prilikom pretraživanja
-
 findbar-match-diacritics =
     .label = Razlikuj dijakritičke znakove
     .accesskey = a
     .tooltiptext = Razlikuj slova s dijakritičkim znakovima i osnovna slova (npr. kad tražiš riječi „kuca”, riječ „kuća” se neće prikazati u rezultatima)
-
 findbar-entire-word =
     .label = Cijele riječi
     .accesskey = C
     .tooltiptext = Traži samo cijele riječi
+findbar-not-found = Izraz nije pronađen
+findbar-wrapped-to-top = Dosegnut kraj stranice, nastavak s vrha
+findbar-wrapped-to-bottom = Dosegnut početak stranice, nastavak s kraja
+findbar-case-sensitive-status =
+    .value = (Razlikovanje malih i velikih slova)
