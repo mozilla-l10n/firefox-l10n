@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Polecana funkcja
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Dlaczego jest to wyświetlane?
-
 cfr-doorhanger-extension-cancel-button = Nie teraz
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Dodaj
     .accesskey = D
-
 cfr-doorhanger-extension-manage-settings-button = Ustawienia polecania
     .accesskey = U
-
 cfr-doorhanger-extension-never-show-recommendation = Nie pokazuj więcej polecenia tego rozszerzenia
     .accesskey = e
-
 cfr-doorhanger-extension-learn-more-link = Więcej informacji
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Autor: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Polecenie
 cfr-doorhanger-extension-notification2 = Polecenie
     .tooltiptext = Polecenie rozszerzenia
     .a11y-announcement = Dostępne polecenie rozszerzenia
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Polecenie
@@ -89,11 +81,9 @@ cfr-protections-panel-link-text = Więcej informacji
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowa funkcja:
-
 cfr-whatsnew-button =
     .label = Co nowego
     .tooltiptext = Co nowego
-
 cfr-whatsnew-release-notes-link-text = Przeczytaj informacje o wydaniu
 
 ## Enhanced Tracking Protection Milestones
@@ -171,7 +161,6 @@ spotlight-total-cookie-protection-body = Całkowita ochrona ciasteczek uniemożl
 spotlight-total-cookie-protection-expanded = { -brand-short-name } buduje płot wokół ciasteczek, ograniczając je do odwiedzanej witryny, aby elementy śledzące nie mogły ich używać do śledzenia Cię. Włączając tę funkcję przed innymi pomożesz ją zoptymalizować, abyśmy mogli kontynuować tworzenie lepszego Internetu dla wszystkich.
 spotlight-total-cookie-protection-primary-button = Włącz całkowitą ochronę ciasteczek
 spotlight-total-cookie-protection-secondary-button = Nie teraz
-
 cfr-total-cookie-protection-header = Dzięki Tobie { -brand-short-name } jest teraz bardziej prywatny i bezpieczny niż kiedykolwiek
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -203,7 +192,32 @@ spotlight-pin-secondary-button = Nie teraz
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Nowy { -brand-short-name }. Bardziej prywatny. Mniej śledzenia. Bez wyjątków.
+mr2022-background-update-toast-text = Już teraz wypróbuj najnowszą przeglądarkę { -brand-short-name }, zaktualizowaną o naszą najsilniejszą ochronę przed śledzeniem w historii.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Uruchom
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Przypomnij później
+
 ## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Wypróbuj
+    .accesskey = W
+firefoxview-cfr-secondarybutton = Nie teraz
+    .accesskey = N
+firefoxview-cfr-header = Odzyskaj ostatnio zamknięte karty za pomocą { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
+firefoxview-cfr-body = Płynnie przechodź z urządzenia na urządzenie i dodaj odrobinę koloru do swojej przeglądarki.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Poznaj { -firefoxview-brand-name(case: "acc", capitalization: "lower") }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Potrzebujesz karty otwartej na telefonie? Otwórz ją tutaj. Chcesz wrócić do zamkniętej przed chwilą strony? { -firefoxview-brand-name } już ją ma.
+firefoxview-spotlight-promo-primarybutton = Zobacz, jak to działa
+firefoxview-spotlight-promo-secondarybutton = Pomiń
