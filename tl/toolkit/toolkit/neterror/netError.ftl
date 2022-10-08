@@ -5,9 +5,12 @@
 
 ## Error page titles
 
+neterror-captive-portal-page-title = Mag log in sa network
 
 ## Error page actions
 
+neterror-open-portal-login-page-button = Buksan ang Login na Pahina para sa Network
+neterror-return-to-previous-page-button = Bumalik
 
 ##
 
