@@ -42,5 +42,16 @@ findbar-fast-find-links =
     .placeholder = ค้นแบบเร็ว (ลิงก์เท่านั้น)
 findbar-case-sensitive-status =
     .value = (ตัวพิมพ์ใหญ่เล็กตรงกัน)
+findbar-match-diacritics-status =
+    .value = (ตรงกับเครื่องหมายการออกเสียง)
 findbar-entire-word-status =
     .value = (ทั้งคำเท่านั้น)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value = { $current } จาก { $total } ที่ตรงกัน
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value = มากกว่า { $limit } ที่ตรงกัน
