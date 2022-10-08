@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Procurar a próxima ocorrência da busca
 findbar-previous =
     .tooltiptext = Procurar a ocorrência anterior da busca
-
 findbar-find-button-close =
     .tooltiptext = Fechar a barra de procura
-
 findbar-highlight-all2 =
     .label = Destacar todas
     .accesskey =
@@ -21,18 +19,16 @@ findbar-highlight-all2 =
            *[other] t
         }
     .tooltiptext = Destacar na página todas as ocorrências da busca
-
 findbar-case-sensitive =
     .label = Diferenciar maiúsculas/minúsculas
     .accesskey = m
     .tooltiptext = Procurar considerando diferenças entre maiúsculas e minúsculas
-
 findbar-match-diacritics =
     .label = Considerar acentuação
     .accesskey = C
     .tooltiptext = Distinguir letras acentuadas de suas letras de base (por exemplo, ao procurar “Pará”, não serão consideradas as ocorrências de “para”)
-
 findbar-entire-word =
     .label = Palavras inteiras
     .accesskey = P
     .tooltiptext = Só procurar palavras inteiras
+findbar-wrapped-to-bottom = Atingido o início da página, continuando do fim
