@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Iɣewwaren
     .accesskey = e
+
 menu-addons-and-themes =
     .label = Izegrar d yisental
     .accesskey = I
@@ -20,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Askar n usellek…
     .accesskey = A
+
 menu-help-exit-troubleshoot-mode =
     .label = Sens askar n ferru n wuguren
     .accesskey = S
+
 menu-help-more-troubleshooting-info =
     .label = Ugar n talɣut n usellek
     .accesskey = U
@@ -53,18 +56,23 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Teɣzi n tsefsit
     .accesskey = e
+
 mail-uidensity-label =
     .label = Taneẓẓi
     .accesskey = T
+
 mail-uidensity-compact =
     .label = Ussid
     .accesskey = U
+
 mail-uidensity-normal =
     .label = Amagnu
     .accesskey = A
+
 mail-uidensity-touch =
     .label = Amennal
     .accesskey = A
+
 menu-spaces-toolbar-button =
     .label = Afeggag n yifecka n tallunin
     .accesskey = L

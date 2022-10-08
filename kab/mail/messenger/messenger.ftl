@@ -146,10 +146,6 @@ message-header-msg-flagged =
     .title = Ɣur-s itri
     .aria-label = Ɣur-s itri
 
-message-header-msg-not-flagged =
-    .title = S war itri
-    .aria-label = S war itri
-
 ## Message header cutomize panel
 
 message-header-customize-panel-title = Iɣewwaren n uqerru n yizen
@@ -181,12 +177,6 @@ toolbar-context-menu-remove-extension =
     .accesskey = K
 
 ## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Tansa ha-tt deg umedlis n tansiwin
-
-message-header-address-not-in-address-book-icon =
-    .alt = Tansa ulac-itt deg umedlis n tansiwin
 
 ## Add-on removal warning
 
@@ -254,37 +244,10 @@ spaces-context-new-window-item =
 spaces-context-switch-tab-item =
     .label = Uɣal ɣer { $tabName }
 
-settings-context-open-settings-item =
-    .label = Ldi iɣewwaren
-
-settings-context-open-account-settings-item =
-    .label = Lqi iɣewwaren n umiḍan
-
-settings-context-open-addons-item =
-    .label = Ldi izegrar d yisental
-
 ## Spaces toolbar pinned tab menupopup
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Umuɣ n tallunin
-
-spaces-pinned-button-menuitem-mail =
-    .label = { spaces-toolbar-button-mail2.title }
-
-spaces-pinned-button-menuitem-address-book =
-    .label = { spaces-toolbar-button-address-book2.title }
-
-spaces-pinned-button-menuitem-calendar =
-    .label = { spaces-toolbar-button-calendar2.title }
-
-spaces-pinned-button-menuitem-tasks =
-    .label = { spaces-toolbar-button-tasks2.title }
-
-spaces-pinned-button-menuitem-chat =
-    .label = { spaces-toolbar-button-chat2.title }
-
-spaces-pinned-button-menuitem-settings =
-    .label = { spaces-toolbar-button-settings2.title }
 
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }

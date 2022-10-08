@@ -22,10 +22,12 @@ about-private-browsing-not-private = Mačči deg usfaylu uslig i telliḍ tura.
 about-private-browsing-info-description-private-window = Asfaylu uslig: { -brand-short-name } iseffeḍ anadi-inek·inem d uzray n tunigin mi ara tmedleḍ akk isfuyla usligen. Aya ur ak·akem-yettarra ara d t·udrig·t.
 about-private-browsing-info-description-simplified = { -brand-short-name } iseffeḍ anadi-inek·inem d uzray n tunigin mi ara tmedleḍ akk isfuyla usligen, maca aya ur ak·akem-yettarra ara d t·udrig·t.
 about-private-browsing-learn-more-link = Issin ugar
+
 about-private-browsing-hide-activity = Ffer armud-ik·im d wadig, anida akk i tettinigeḍ
 about-private-browsing-get-privacy = Sεu ammesten n tbaḍnit anida akk tettinigeḍ
 about-private-browsing-hide-activity-1 = Ffer armud d wadig n tunigin s { -mozilla-vpn-brand-name }. Yiwen n usiti, rnu tuqqna , ula ɣef Wi-Fi azayaz.
 about-private-browsing-prominent-cta = Qqim d uslig s { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Sader { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: tunigin tusligt tazirazt
 about-private-browsing-focus-promo-text = Asnas-nneɣ aziraz yettwagen i tunigin tusligt itekkes azray-inek d yinagan n tuqqna seld yal aseqdec.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Fṛes tunigin tusligt ɣef tiliɣ
 about-private-browsing-focus-promo-text-b = Seqdec { -focus-brand-name } i yinadiyen-a usligen ur tebɣiḍ ad ten-iwali iminig-ik aziraz.
 about-private-browsing-focus-promo-header-c = Tabaḍnit izaden ɣef uziraz
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } iseffeḍ azray-ik yal mi ara ttusweḥlen udellel d yineḍfaren.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Mdel
+
 about-private-browsing-promo-close-button =
     .title = Mdel
 

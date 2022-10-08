@@ -4,4 +4,6 @@
 
 apply-current-view-to-menu =
     .label = Snes taskant tamirant ɣef…
+
 threadpane-apply-changes-prompt-title = Snes isenfal?
+

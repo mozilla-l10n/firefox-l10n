@@ -8,18 +8,22 @@ password-quality-meter = Asɣel n tɣaṛa n wawal uffir
 
 change-device-password-window =
     .title = Beddel awal uffir
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Ibenk n tɣellist: { $tokenName }
 change-password-old = Awal uffir aqbuṛ:
 change-password-new = Awal uffir amaynut
 change-password-reenter = Sentem Awal uffir
+
 pippki-failed-pw-change = Ur yezmir ara ad isnifel awal uffir.
 pippki-incorrect-pw = Ur t-sekcemḍ ara awal uffir amiran ameɣtu. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.
 pippki-pw-change-ok = Awal uffir ibeddel akken iwata.
+
 pippki-pw-empty-warning = Awalen-ik·im uffiren d tsura tusligin yettwakelsen ur ttwammestanen ara.
 pippki-pw-erased-ok = Tekkseḍ awal-ik·im uffir. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Γur-k! Tgezmeḍ-tt deg ṛṛay ur tseqdaceḍ ara awal uffir. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Aql-ak·akem akka tura deg uskar FIPS . FIPS yesra awal uffir agejdan arilem.
 
 ## Reset Primary Password dialog
@@ -27,12 +31,14 @@ pippki-pw-change2empty-in-fips-mode = Aql-ak·akem akka tura deg uskar FIPS . FI
 reset-primary-password-window =
     .title = Wennez awal uffir agejdan
     .style = width: 40em
+
 reset-primary-password-window2 =
     .title = Wennez awal uffir agejdan
     .style = min-width: 40em
 reset-password-button-label =
     .label = Sfeḍ
 reset-primary-password-text = Ma tsefḍeḍ awal-ik·im uffir agejdan, akk awallen uffiren n web d wid n yimaylen, iselkinen udmawanen d tsura tusligin ad ttwattun. Tebɣiḍ s tidet ad twennzeḍ awal-ik·im uffir agejdan?
+
 pippki-reset-password-confirmation-title = Wennez awal uffir agejdan
 pippki-reset-password-confirmation-message = Awla-inek·inem uffir agejdan yettuwennez.
 
@@ -41,6 +47,7 @@ pippki-reset-password-confirmation-message = Awla-inek·inem uffir agejdan yettu
 download-cert-window =
     .title = Asader n uselkin
     .style = width: 46em
+
 download-cert-window2 =
     .title = Asader n uselkin
     .style = min-width: 46em

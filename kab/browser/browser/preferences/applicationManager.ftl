@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Aglam leqqayen n usnas
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Aglam leqqayen n usnas
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Kkes
     .accesskey = K
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Isnasen-a zemren ad ttusqedcen deg Iseɣwan { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Isnasen-a zemren ad ttusqedcen deg Agbur { $type }.

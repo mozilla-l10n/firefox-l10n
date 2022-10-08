@@ -260,9 +260,6 @@ openpgp-key-man-key-details-key =
 
 openpgp-ign-addr-intro = Ad tqebleḍ aseqdec n tsarut-a i tansiwin-a n yimayl i d-yettwafernen:
 
-openpgp-key-details-title =
-    .title = Iraten n tsarut
-
 openpgp-key-details-signatures-tab =
     .label = Isleknen
 openpgp-key-details-structure-tab =
@@ -270,7 +267,6 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Asulay n useqdac / Yettuselken s
 openpgp-key-details-key-id-label = Asulay n tsarut
-openpgp-key-details-user-id2-label = Bab n tsarut
 openpgp-key-details-id-label =
     .label = Asulay
 openpgp-key-details-key-type-label = Anaw

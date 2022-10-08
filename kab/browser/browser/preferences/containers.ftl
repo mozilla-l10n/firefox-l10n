@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = Iɣewwaren n umagbar { $name }
     .style = width: 45em
+
 containers-window-new2 =
     .title = Rnu amagbar-nniḍen
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Iɣewwaren n umagbar { $name }
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Isem
     .accesskey = T
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Sekcem isem n umagbar
+
 containers-icon-label = Tignit
     .accesskey = G
     .style = { -containers-labels-style }
+
 containers-color-label = Initen
     .accesskey = w
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Immed
     .buttonaccesskeyaccept = m
+
 containers-color-blue =
     .label = Amidadi
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Avyuli
 containers-color-toolbar =
     .label = Iṣeggem deg ufeggag n yifecka
+
 containers-icon-fence =
     .label = Talast
 containers-icon-fingerprint =
