@@ -32,12 +32,18 @@ findbar-entire-word =
     .accesskey = e
     .tooltiptext = Alleen hele woorden zoeken
 findbar-not-found = Tekst niet gevonden
+findbar-wrapped-to-top = Onderkant van pagina bereikt, doorgegaan vanaf bovenkant
+findbar-wrapped-to-bottom = Bovenkant van pagina bereikt, doorgegaan vanaf onderkant
+findbar-normal-find =
+    .placeholder = Zoeken op pagina
 findbar-fast-find =
     .placeholder = Snel zoeken
 findbar-fast-find-links =
     .placeholder = Snel zoeken (alleen koppelingen)
 findbar-case-sensitive-status =
     .value = (Hoofdlettergevoelig)
+findbar-entire-word-status =
+    .value = (Alleen hele woorden)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
