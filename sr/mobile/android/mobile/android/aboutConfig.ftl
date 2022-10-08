@@ -20,3 +20,5 @@ config-pref-toggle-button = Промени стање
 config-pref-reset-button = Ресетуј
 config-context-menu-copy-pref-name =
     .label = Копирај име
+config-context-menu-copy-pref-value =
+    .label = Копирај вредност
