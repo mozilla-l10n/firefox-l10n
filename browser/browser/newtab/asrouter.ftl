@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Característica recomendada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Por qué estoy viendo esto?
+
 cfr-doorhanger-extension-cancel-button = Ahora no
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Agregar ahora
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Administrar configuraciones de recomendación
     .accesskey = m
+
 cfr-doorhanger-extension-never-show-recommendation = No mostrar esta recomendación
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Saber más
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión disponible
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Más información
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nueva característica:
+
 cfr-whatsnew-button =
     .label = Novedades
     .tooltiptext = Novedades
+
 cfr-whatsnew-release-notes-link-text = Lee el informe de novedades
 
 ## Enhanced Tracking Protection Milestones
@@ -156,6 +166,7 @@ spotlight-total-cookie-protection-body = La protección total contra las cookies
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construye un cerco alrededor de tus cookies, limitándolas al sitio en el que estás, para que los rastreadores no las puedan usar para seguirte. Con el acceso anticipado, ayudarás a optimizar esta funcionalidad para que sigamos construyendo una mejor web para todos.
 spotlight-total-cookie-protection-primary-button = Activar la protección total contra las cookies
 spotlight-total-cookie-protection-secondary-button = Ahora no
+
 cfr-total-cookie-protection-header = Gracias a ti, { -brand-short-name } es más privado y seguro que nunca
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -189,11 +200,13 @@ spotlight-pin-secondary-button = Ahora no
 
 mr2022-background-update-toast-title = Nuevo { -brand-short-name }. Más privado. Menos rastreadores. Sin compromisos.
 mr2022-background-update-toast-text = Prueba el nuevo { -brand-short-name } ahora, mejorado con nuestra protección anti-rastreo más fuerte hasta el momento.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Abrir { -brand-shorter-name } ahora
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -212,6 +225,7 @@ firefoxview-cfr-body = Además, cambia sin problemas entre dispositivos y agrega
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Saluda a { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ¿Quieres esa pestaña abierta en tu teléfono? Tómala. ¿Necesitas ese sitio que acabas de visitar? Puf, ha vuelto con { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Ver cómo funciona

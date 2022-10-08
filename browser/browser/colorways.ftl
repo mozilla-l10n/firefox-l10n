@@ -14,13 +14,18 @@ colorway-collection-independent-voices-short-description = Colores que cambian l
 
 playmaker-colorway-name = Creador de jugadas
 playmaker-colorway-description = Creas oportunidades para ganar y ayudas a todos los que te rodean a mejorar su juego.
+
 expressionist-colorway-name = Expresionista
 expressionist-colorway-description = Ves el mundo de manera diferente y tus creaciones despiertan las emociones de los demás.
+
 visionary-colorway-name = Visionario
 visionary-colorway-description = Cuestionas el status quo y mueves a otros a imaginar un futuro mejor.
+
 activist-colorway-name = Activista
 activist-colorway-description = Dejas el mundo como un lugar mejor de lo que lo encontraste y llevas a otros a creer.
+
 dreamer-colorway-name = Soñador
 dreamer-colorway-description = Crees que la fortuna favorece a los audaces e inspiras a otros a ser valientes.
+
 innovator-colorway-name = Innovador
 innovator-colorway-description = Ves oportunidades en todas partes y tienes un impacto en la vida de todos los que te rodean.
