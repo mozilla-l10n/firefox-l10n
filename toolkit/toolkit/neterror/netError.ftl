@@ -12,36 +12,55 @@ neterror-captive-portal-page-title = Masuk ke jaringan
 
 ## Error page actions
 
+neterror-copy-to-clipboard-button = Salin teks ke papan klip
 neterror-learn-more-link = Pelajari lebih lanjut…
 neterror-override-exception-button = Terima Risikonya dan Lanjutkan
 neterror-pref-reset-button = Pulihkan setelan baku
+neterror-return-to-previous-page-button = Mundur
 neterror-try-again-button = Coba Lagi
 neterror-view-certificate-link = Tampilkan Sertifikat
 
 ##
 
 neterror-pref-reset = Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Ingin setelan baku dipulihkan?
+neterror-error-reporting-automatic = Laporkan kesalahan seperti ini untuk membantu { -vendor-short-name } mengidentifikasi dan memblokir situs yang mencurigakan.
 
 ## Specific error messages
 
+neterror-generic-error = Untuk alasan tertentu { -brand-short-name } tidak dapat memuat laman ini.
 neterror-load-error-try-again = Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.
 neterror-load-error-connection = Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.
 neterror-load-error-firewall = Apabila komputer atau jaringan Anda dilindungi firewall atau proksi, pastikan bahwa { -brand-short-name } diizinkan mengakses Web.
+neterror-file-not-found-filename = Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.
+neterror-file-not-found-moved = Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.
 neterror-access-denied = Berkas mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.
+neterror-unknown-protocol = Anda mungkin perlu untuk menginstal perangkat lunak lain untuk membuka alamat ini.
+neterror-redirect-loop = Masalah ini kadangkala disebabkan karena mematikan fungsi atau menolak menerima kuki.
+neterror-unknown-socket-type-psm-installed = Pastikan sistem Anda telah terpasang Pengelola Keamanan Pribadi.
+neterror-unknown-socket-type-server-config = Hal ini mungkin disebabkan konfigurasi server yang tidak standar.
 neterror-not-cached-intro = Dokumen yang diminta tidak tersedia pada tembolok { -brand-short-name }.
 neterror-not-cached-sensitive = Sebagai tindakan pencegahan keamanan, { -brand-short-name } tidak meminta ulang dokumen sensitif secara otomatis.
 neterror-not-cached-try-again = Klik Coba Lagi untuk meminta ulang dokumen dari situs web.
+neterror-net-offline = Tekan “Coba Lagi” untuk kembali ke mode daring dan memuat ulang lamannya.
 neterror-proxy-resolve-failure-settings = Periksa pengaturan proksi, pastikan sudah benar.
 neterror-proxy-resolve-failure-connection = Pastikan sambungan ke jaringan komputer Anda berjalan dengan baik.
 neterror-proxy-resolve-failure-firewall = Apabila komputer atau jaringan Anda dilindungi firewall atau proksi, pastikan bahwa { -brand-short-name } diizinkan mengakses Web.
 neterror-proxy-connect-failure-settings = Periksa pengaturan proksi, pastikan sudah benar.
 neterror-proxy-connect-failure-contact-admin = Hubungi administrator jaringan Anda untuk memastikan server proksi sudah berjalan.
+neterror-content-encoding-error = Mohon hubungi pemilik situs web mengenai masalah ini.
+neterror-unsafe-content-type = Mohon hubungi pemilik situs web mengenai masalah ini.
+neterror-nss-failure-not-verified = Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang diterima tidak bisa diverifikasi.
+neterror-nss-failure-contact-website = Mohon hubungi pemilik situs web mengenai masalah ini.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } mendeteksi potensi ancaman keamanan dan tidak melanjutkan ke <b>{ $hostname }</b>. Jika Anda mengunjungi situs ini, penyerang bisa saja mencuri informasi seperti sandi, surel, atau rincian kartu kredit Anda.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = { -brand-short-name } mendeteksi potensi ancaman keamanan dan tidak dapat melanjutkan ke <b>{ $hostname }</b> karena situs ini memerlukan sambungan aman.
+neterror-corrupted-content-intro = Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.
+neterror-corrupted-content-contact-website = Mohon hubungi pemilik situs web mengenai masalah ini.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Info lebih lanjut: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-inadequate-security-intro = <b>{ $hostname }</b> menggunakan teknologi keamanan yang sudah kedaluwarsa dan rentan diserang. Penyerang dapat dengan mudah mengungkapkan informasi yang Anda anggap aman. Administrator situs web perlu memperbaiki server terlebih dahulu sebelum Anda dapat mengunjungi situsnya.
