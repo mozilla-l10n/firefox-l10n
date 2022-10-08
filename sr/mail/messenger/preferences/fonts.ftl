@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Подразумевани ({ $name })
 fonts-label-default-unnamed =
     .label = Подразумевано
+
 fonts-encoding-dialog-title =
     .title = Фонтови и кодирања
+
 fonts-language-legend =
     .value = Фонтови за:
     .accesskey = т
+
 fonts-proportional-label =
     .value = Сразмерно:
     .accesskey = з
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Серифни
+
 default-font-sans-serif =
     .label = Безсерифни
+
 font-size-proportional-label =
     .value = Величина:
     .accesskey = е
+
 font-size-monospace-label =
     .value = Величина:
     .accesskey = т
+
 font-serif-label =
     .value = Серифни:
     .accesskey = С
+
 font-sans-serif-label =
     .value = Безсерифни:
     .accesskey = ф
+
 font-monospace-label =
     .value = Утврђене ширине:
     .accesskey = У
+
 font-min-size-label =
     .value = Најмања величина фонта:
     .accesskey = т
+
 min-size-none =
     .label = Ништа
 
 ## Fonts in message
 
 font-control-legend = Контрола фонта
+
 use-document-fonts-checkbox =
     .label = Дозволи порукама да користе друге фонтове
     .accesskey = о
+
 use-fixed-width-plain-checkbox =
     .label = Користи фонт утврђене ширине за обичне текстуалне поруке
     .accesskey = б
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Кодирање текста
+
 text-encoding-description = Постави подразумевано кодирање текста за послату и примљену пошту
+
 font-outgoing-email-label =
     .value = Одлазна пошта:
     .accesskey = л
+
 font-incoming-email-label =
     .value = Долазна пошта:
     .accesskey = Д
+
 default-font-reply-checkbox =
     .label = Где је могуће, користи подразумевано кодирање текста у одговорима
     .accesskey = Г

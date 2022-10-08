@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Следеће
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Разумем!
 
@@ -12,3 +13,6 @@ callout-primary-complete-button-label = Разумем!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Жонглирајте између уређаја без губитка језичака
+
+## Continuous Onboarding - Firefox View: Tab pick up
+

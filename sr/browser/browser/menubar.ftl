@@ -36,6 +36,7 @@ menu-application-touch-bar =
 menu-quit =
     .label = Изађи
     .accesskey = И
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -45,6 +46,7 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
+
 menu-about =
     .label =
         О { -brand-shorter-name.gender ->

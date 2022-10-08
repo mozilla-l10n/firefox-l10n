@@ -4,7 +4,9 @@
 
 migration-wizard =
     .title = Чаробњак за увоз
+
 import-from = Увези подешавања, обележиваче, историју, лозинке и остало из:
+
 import-from-bookmarks = Увези обележиваче из:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -48,23 +50,37 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Није пронађен ниједан програм који садржи обележиваче, историју или лозинке.
+
 import-source-page-title = Увоз подешавања и података
 import-items-page-title = Ставке за увоз
+
 import-items-description = Изаберите ставке за увоз:
+
 import-permissions-page-title = Одобрите дозволе за { -brand-short-name }
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS захтева да дозволите { -brand-short-name }-у изричит приступ Safari обележивачима. Кликните “Настави” и на приказаном File Open панелу одаберите “Bookmarks.plist” датотеку.
+
 import-migrating-page-title = Увоз…
+
 import-migrating-description = Наредне ставке се тренутно увозе…
+
 import-select-profile-page-title = Избор профила
+
 import-select-profile-description = Следеће профиле можете увести из:
+
 import-done-page-title = Увоз је завршен
+
 import-done-description = Следеће ставке су успешно увезене:
+
 import-close-source-browser = Затворите изабрани прегледач пре него што наставите.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Листа за читање (из Safari)
 imported-edge-reading-list = Листа за читање (из Edge)
 
@@ -86,6 +102,7 @@ browser-data-cookies-checkbox =
     .label = Колачићи
 browser-data-cookies-label =
     .value = Колачићи
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -98,10 +115,12 @@ browser-data-history-label =
             [firefox] Историја прегледања и обележивачи
            *[other] Историја прегледања
         }
+
 browser-data-formdata-checkbox =
     .label = Сачувани формулари
 browser-data-formdata-label =
     .value = Сачувани формулари
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -110,6 +129,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Сачувани подаци за пријаву
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -124,10 +144,12 @@ browser-data-bookmarks-label =
             [edge] Омиљено
            *[other] Обележивачи
         }
+
 browser-data-otherdata-checkbox =
     .label = Остали подаци
 browser-data-otherdata-label =
     .label = Остали подаци
+
 browser-data-session-checkbox =
     .label = Прозори и картице
 browser-data-session-label =

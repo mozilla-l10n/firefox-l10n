@@ -6,8 +6,11 @@
 ## Header lists
 
 message-header-to-list-name = Прима
+
 message-header-reply-to-list-name = Одговор за
+
 message-header-cc-list-name = Коп
+
 message-header-bcc-list-name = сКоп
 
 ## Other message headers.
@@ -18,3 +21,4 @@ message-header-bcc-list-name = сКоп
 
 message-header-field-show-more = Више
     .title = Прикажи све примаоце
+

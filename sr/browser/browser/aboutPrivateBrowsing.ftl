@@ -22,10 +22,12 @@ about-private-browsing-not-private = Тренутно нисте у приват
 about-private-browsing-info-description-private-window = Приватни прозор: { -brand-short-name } чисти ваш историјат претраживања и прегледања када затворите све приватне прозоре. Ово вас не чини анонимним.
 about-private-browsing-info-description-simplified = { -brand-short-name } брише вашу историју претраживања и прегледања када затворите све приватне прозоре, али то не значи сте анонимни.
 about-private-browsing-learn-more-link = Сазнајте више
+
 about-private-browsing-hide-activity = Сакријте вашу активност и локацију где год да прегледате
 about-private-browsing-get-privacy = Заштитите вашу приватност где год да сте
 about-private-browsing-hide-activity-1 = Сакријте ваше прегледање и локацију уз помоћ производа { -mozilla-vpn-brand-name }. Један клик за стварање безбедне везе, чак и на јавним бежичним мрежама.
 about-private-browsing-prominent-cta = Останите приватни уз { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Преузми { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Приватно прегледање на длану
 about-private-browsing-focus-promo-text = Наш прегледач који је посвећен заштити ваше приватности аутоматски брише вашу историју и колачиће.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Уживајте у приватн
 about-private-browsing-focus-promo-text-b = Користите { -focus-brand-name } за приватне претраге које желите да сакријете од свог главног мобилног прегледача.
 about-private-browsing-focus-promo-header-c = Висок ниво приватности на телефону
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } брише вашу историју и истовремено блокира огласе и елементе за праћење.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,6 +47,7 @@ about-private-browsing-search-banner-title = { $engineName } је ваш под�
 about-private-browsing-search-banner-description = У <a data-l10n-name="link-options">подешавањима</a> можете да изаберете други претраживач.
 about-private-browsing-search-banner-close-button =
     .aria-label = Затвори
+
 about-private-browsing-promo-close-button =
     .title = Затвори
 
