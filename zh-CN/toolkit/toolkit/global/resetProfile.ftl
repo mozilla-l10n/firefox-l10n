@@ -9,6 +9,7 @@ refresh-profile-dialog-description = 从头再来，以解决性能问题。这�
 refresh-profile = 保养一下 { -brand-short-name }
 refresh-profile-button = 翻新 { -brand-short-name }…
 refresh-profile-learn-more = 详细了解
+
 refresh-profile-progress =
     .title = 翻新 { -brand-short-name }
 refresh-profile-progress-description = 即将完成…

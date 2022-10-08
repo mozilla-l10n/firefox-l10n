@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = 搜索
 config-new-pref-name =
     .placeholder = 名称
+
 config-new-pref-value-boolean = 布尔
 config-new-pref-value-string = 字符串
 config-new-pref-value-integer = 整数
+
 config-new-pref-string =
     .placeholder = 请输入字符串
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = 取消
 config-new-pref-create-button = 创建
 config-new-pref-change-button = 更改
+
 config-pref-toggle-button = 切换
 config-pref-reset-button = 重置
+
 config-context-menu-copy-pref-name =
     .label = 复制名称
 config-context-menu-copy-pref-value =

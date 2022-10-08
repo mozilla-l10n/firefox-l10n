@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = 查找
     .accesskey = F
+
 context-text-action-find-again =
     .label = 查找下一个
     .accesskey = g
+
 text-action-find =
     .label = 查找
     .accesskey = F
+
 text-action-find-again =
     .label = 查找下一个
     .accesskey = g

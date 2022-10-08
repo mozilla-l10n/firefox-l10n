@@ -103,6 +103,7 @@ tab-context-move-tabs =
            *[other] 移动标签页
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

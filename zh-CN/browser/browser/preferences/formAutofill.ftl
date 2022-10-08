@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = 已保存的地址
 autofill-manage-addresses-list-header = 地址
+
 autofill-manage-credit-cards-title = 已保存的信用卡
 autofill-manage-credit-cards-list-header = 信用卡
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = 移除
@@ -21,6 +23,7 @@ autofill-manage-edit-button = 编辑…
 autofill-add-new-address-title = 添加新地址
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = 编辑地址
+
 autofill-address-given-name = 名
 autofill-address-additional-name = 中间名
 autofill-address-family-name = 姓
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode 邮政编码
 autofill-address-country = 国家/地区
 autofill-address-tel = 电话号码
 autofill-address-email = 电子邮箱
+
 autofill-cancel-button = 取消
 autofill-save-button = 保存
 autofill-country-warning-message = 表单自动填写目前仅适用于部分地区。
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = 添加新信用卡
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = 编辑信用卡
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } 正尝试显示信用卡信息。请在下方登录此 Windows 账户确认。
        *[other] { -brand-short-name } 正尝试显示信用卡信息。
     }
+
 autofill-card-number = 卡号
 autofill-card-invalid-number = 请输入有效的卡号
 autofill-card-name-on-card = 卡上名称
