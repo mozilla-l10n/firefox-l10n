@@ -17,6 +17,7 @@ config-new-pref-cancel-button = ਰੱਦ ਕਰੋ
 config-new-pref-create-button = ਬਣਾਓ
 config-new-pref-change-button = ਬਦਲੋ
 config-pref-toggle-button = ਬਦਲੋ
+config-pref-reset-button = ਮੁੜ-ਸੈੱਟ
 config-context-menu-copy-pref-name =
     .label = ਨਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ
 config-context-menu-copy-pref-value =
