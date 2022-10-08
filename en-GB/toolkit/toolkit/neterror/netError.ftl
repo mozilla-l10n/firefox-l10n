@@ -6,6 +6,9 @@
 ## Error page titles
 
 neterror-page-title = Problem loading page
+certerror-page-title = Warning: Potential Security Risk Ahead
+certerror-sts-page-title = Did Not Connect: Potential Security Issue
+neterror-blocked-by-policy-page-title = Blocked Page
 neterror-dns-not-found-title = Server Not Found
 neterror-malformed-uri-page-title = Invalid URL
 
@@ -14,9 +17,12 @@ neterror-malformed-uri-page-title = Invalid URL
 neterror-copy-to-clipboard-button = Copy text to clipboard
 neterror-learn-more-link = Learn more…
 neterror-open-portal-login-page-button = Open Network Login Page
+neterror-override-exception-button = Accept the Risk and Continue
 neterror-pref-reset-button = Restore default settings
 neterror-return-to-previous-page-button = Go Back
+neterror-return-to-previous-page-recommended-button = Go Back (Recommended)
 neterror-try-again-button = Try Again
+neterror-view-certificate-link = View Certificate
 
 ##
 
@@ -26,6 +32,13 @@ neterror-error-reporting-automatic = Report errors like this to help { -vendor-s
 ## Specific error messages
 
 neterror-captive-portal = You must log in to this network before you can access the Internet.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Did you mean to go to <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>If you entered the right address, you can:</strong>
+neterror-dns-not-found-hint-try-again = Try again later
+neterror-dns-not-found-hint-check-network = Check your network connection
+neterror-dns-not-found-hint-firewall = Check that { -brand-short-name } has permission to access the web (you might be connected but behind a firewall)
 neterror-access-denied = It may have been removed, moved, or file permissions may be preventing access.
 neterror-unknown-protocol = You might need to install other software to open this address.
 neterror-redirect-loop = This problem can sometimes be caused by disabling or refusing to accept cookies.
@@ -41,6 +54,19 @@ neterror-content-encoding-error = Please contact the web site owners to inform t
 neterror-unsafe-content-type = Please contact the web site owners to inform them of this problem.
 neterror-nss-failure-not-verified = The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
 neterror-nss-failure-contact-website = Please contact the web site owners to inform them of this problem.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } detected a potential security threat and did not continue to <b>{ $hostname }</b>. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } detected a potential security threat and did not continue to <b>{ $hostname }</b> because this web site requires a secure connection.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } detected an issue and did not continue to <b>{ $hostname }</b>. The web site is either misconfigured or your computer clock is set to the wrong time.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> is most likely a safe site, but a secure connection could not be established. This issue is caused by <b>{ $mitm }</b>, which is either software on your computer or your network.
 neterror-corrupted-content-intro = The page you are trying to view cannot be shown because an error in the data transmission was detected.
 neterror-corrupted-content-contact-website = Please contact the web site owners to inform them of this problem.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -50,3 +76,31 @@ neterror-sslv3-used = Advanced info: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The web site administrator will need to fix the server first before you can visit the site.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Error code: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Your computer thinks it is { DATETIME($now, dateStyle: "medium") }, which prevents { -brand-short-name } from connecting securely. To visit <b>{ $hostname }</b>, update your computer clock in your system settings to the current date, time, and time zone, and then refresh <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = The page you are trying to view cannot be shown because an error in the network protocol was detected.
+neterror-network-protocol-error-contact-website = Please contact the web site owners to inform them of this problem.
+certerror-expired-cert-second-para = It’s likely the web site’s certificate is expired, which prevents { -brand-short-name } from connecting securely. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.
+certerror-expired-cert-sts-second-para = It’s likely the web site’s certificate is expired, which prevents { -brand-short-name } from connecting securely.
+certerror-what-can-you-do-about-it-title = What can you do about it?
+certerror-unknown-issuer-what-can-you-do-about-it-website = The issue is most likely with the web site, and there is nothing you can do to resolve it.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = If you are on a corporate network or using anti-virus software, you can reach out to the support teams for assistance. You can also notify the web site’s administrator about the problem.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Your computer clock is set to { DATETIME($now, dateStyle: "medium") }. Make sure your computer is set to the correct date, time, and time zone in your system settings, and then refresh <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = If your clock is already set to the right time, the web site is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the web site’s administrator about the problem.
+certerror-bad-cert-domain-what-can-you-do-about-it = The issue is most likely with the web site, and there is nothing you can do to resolve it. You can notify the web site’s administrator about the problem.
+certerror-mitm-what-can-you-do-about-it-antivirus = If your antivirus software includes a feature that scans encrypted connections (often called “web scanning” or “https scanning”), you can disable that feature. If that doesn’t work, you can remove and reinstall the antivirus software.
+certerror-mitm-what-can-you-do-about-it-corporate = If you are on a corporate network, you can contact your IT department.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = If you are not familiar with <b>{ $mitm }</b>, then this could be an attack and you should not continue to the site.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = If you are not familiar with <b>{ $mitm }</b>, then this could be an attack, and there is nothing you can do to access the site.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> has a security policy called HTTP Strict Transport Security (HSTS), which means that { -brand-short-name } can only connect to it securely. You can’t add an exception to visit this site.
