@@ -5,10 +5,14 @@
 
 ## Error page titles
 
+neterror-captive-portal-page-title = Đăng nhập vào mạng
+neterror-dns-not-found-title = Không tìm thấy máy chủ
+neterror-malformed-uri-page-title = URL không hợp lệ
 
 ## Error page actions
 
 neterror-learn-more-link = Tìm hiểu thêm…
+neterror-open-portal-login-page-button = Mở trang đăng nhập mạng
 neterror-pref-reset-button = Khôi phục cài đặt mặc định
 neterror-try-again-button = Thử lại
 
@@ -23,6 +27,7 @@ neterror-generic-error = Vì lý do nào đó, { -brand-short-name } không th�
 neterror-load-error-try-again = Trang web này có thể bị gián đoạn tạm thời hoặc do quá tải. Hãy thử lại trong chốc lát.
 neterror-load-error-connection = Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng.
 neterror-load-error-firewall = Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc chắn rằng { -brand-short-name } được phép truy cập Web.
+neterror-captive-portal = Bạn cần đăng nhập vào mạng trước khi có thể truy cập Internet.
 neterror-file-not-found-filename = Kiểm tra tên xem có lỗi gõ HOA-thường hay lỗi nào khác không.
 neterror-file-not-found-moved = Kiểm tra xem tập tin có bị di chuyển, đổi tên hay bị xóa không.
 neterror-access-denied = Nó có thể đã bị xóa, chuyển đi, hay quyền truy cập tập tin đã bị chặn.
