@@ -5,11 +5,14 @@
 profiledowngrade-window =
     .title = Pokrenuli ste stariju verziju { -brand-product-name }
     .style = width: 490px;
+
 profiledowngrade-window2 =
     .title = Pokrenuli ste stariju verziju { -brand-product-name }
     .style = min-width: 490px;
+
 profiledowngrade-window-create =
     .label = Kreiraj novi profil
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

@@ -190,6 +190,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = Historija ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
@@ -551,3 +555,6 @@ data-reporting-notification-message = { -brand-short-name } automatski šalje ne
 data-reporting-notification-button =
     .label = Izbor šta dijelim
     .accesskey = I
+
+## Unified extensions (toolbar) button
+

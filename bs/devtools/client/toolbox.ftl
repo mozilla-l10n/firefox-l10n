@@ -22,3 +22,5 @@ toolbox-meatball-menu-community-label = Zajednica…
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

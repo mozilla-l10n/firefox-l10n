@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Preuzimam certifikate
     .style = width: 46em
+
 download-cert-window2 =
     .title = Preuzimam certifikate
     .style = min-width: 46em

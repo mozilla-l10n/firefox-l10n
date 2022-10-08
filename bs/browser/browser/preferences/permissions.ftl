@@ -5,43 +5,57 @@
 permissions-window =
     .title = Izuzeci
     .style = width: 36em
+
 permissions-window2 =
     .title = Izuzeci
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa web stranice
     .accesskey = d
+
 permissions-block =
     .label = Blokiraj
     .accesskey = B
+
 permissions-session =
     .label = Dozvoli za sesiju
     .accesskey = s
+
 permissions-allow =
     .label = Dozvoli
     .accesskey = D
+
 permissions-site-name =
     .label = Web stranica
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Ukloni web stranicu
     .accesskey = U
+
 permissions-remove-all =
     .label = Ukloni sve web stranice
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Spasi promjene
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Pretraži web stranicu
+
 permissions-capabilities-allow =
     .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
+
 permissions-capabilities-listitem-allow =
     .value = Dozvoli
 permissions-capabilities-listitem-block =
@@ -69,6 +83,7 @@ permissions-exceptions-cookie-desc = Možete navesti kojim web stranica je uvije
 permissions-exceptions-popup-window =
     .title = Dozvoljene web stranice - Pop-up prozori
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Dozvoljene web stranice - Pop-up prozori
     .style = { permissions-window2.style }
@@ -79,6 +94,7 @@ permissions-exceptions-popup-desc = Možete odrediti kojim web stranicama je doz
 permissions-exceptions-saved-logins-window =
     .title = Izuzeci - Spašene prijave
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Izuzeci - Spašene prijave
     .style = { permissions-window2.style }
@@ -89,6 +105,7 @@ permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće b
 permissions-exceptions-addons-window =
     .title = Dozvoljene web stranice - Instalacija add-ona
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Dozvoljene web stranice - Instalacija add-ona
     .style = { permissions-window2.style }
@@ -102,6 +119,7 @@ permissions-exceptions-addons-desc = Možete odrediti kojim web stranicama je do
 permissions-site-notification-window =
     .title = Postavke - Dozvole za obavještenja
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Postavke - Dozvole za obavještenja
     .style = { permissions-window2.style }
@@ -115,6 +133,7 @@ permissions-site-notification-disable-desc = Ovo će spriječiti bilo koju stran
 permissions-site-location-window =
     .title = Postavke - Dozvole za lokaciju
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Postavke - Dozvole za lokaciju
     .style = { permissions-window2.style }
@@ -131,6 +150,7 @@ permissions-site-location-disable-desc = Ovo će onemogućiti bilo koju stranicu
 permissions-site-camera-window =
     .title = Postavke - Dozvole za kameru
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Postavke - Dozvole za kameru
     .style = { permissions-window2.style }
@@ -144,6 +164,7 @@ permissions-site-camera-disable-desc = Ovo će onemogućiti bilo koju stranicu k
 permissions-site-microphone-window =
     .title = Postavke - Dozvole za mikrofon
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Postavke - Dozvole za mikrofon
     .style = { permissions-window2.style }
