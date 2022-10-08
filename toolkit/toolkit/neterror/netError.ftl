@@ -7,6 +7,8 @@
 
 neterror-page-title = Villa við að hlaða inn síðu
 neterror-captive-portal-page-title = Innskráning á net
+neterror-dns-not-found-title = Netþjónn fannst ekki
+neterror-malformed-uri-page-title = Ógild slóð (URL)
 
 ## Error page actions
 
