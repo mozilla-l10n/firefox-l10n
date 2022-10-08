@@ -38,6 +38,13 @@ neterror-load-error-try-again = Nettstaden kan vere mellombels utilgjengeleg ell
 neterror-load-error-connection = Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.
 neterror-load-error-firewall = Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at { -brand-short-name } har løyve til å bruke nettet.
 neterror-captive-portal = Du må logge inn på nettverket før du kan kople til Internett.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Meinte du å gå til <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Om du har skrive inn rett adresse, kan du:</strong>
+neterror-dns-not-found-hint-try-again = Prøve igjen seinare
+neterror-dns-not-found-hint-check-network = Kontrollere nettverkstilkoplinga di
+neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har løyve til å kople til nettet (du kan vere tilkopla, men bak ein brannvegg)
 neterror-file-not-found-filename = Kontroller filnamnet etter skilnadar i store/små bokstavar eller andre skrivefeil.
 neterror-file-not-found-moved = Kontroller om fila er flytta, har endra namn eller er sletta.
 neterror-access-denied = Den kan ha vorte fjerna, flytta, eller filrettar hindrar tilgang.
