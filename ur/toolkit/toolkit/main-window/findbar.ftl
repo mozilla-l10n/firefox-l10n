@@ -30,3 +30,5 @@ findbar-entire-word =
 findbar-not-found = فقرا نہیں ملا
 findbar-wrapped-to-top = صفحہ کے اختتام پر پہنچ گیا، اوپر سے جاری کیا
 findbar-wrapped-to-bottom = صفحہ کے شروع پر پہنچ گیا، نیچے سے جاری کیا
+findbar-normal-find =
+    .placeholder = صفحہ میں ڈھونڈیں
