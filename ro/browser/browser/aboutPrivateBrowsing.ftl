@@ -20,12 +20,14 @@ about-private-browsing-not-private = În prezent nu ești într-o fereastră pri
 about-private-browsing-info-description-private-window = Fereastră privată: { -brand-short-name } îți șterge istoricul de căutare și de navigare atunci când închizi toate ferestrele private. Acest lucru nu te face anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name } îți șterge istoricul de căutare și de navigare atunci când închizi toate ferestrele private, dar acest lucru nu te face anonim.
 about-private-browsing-learn-more-link = Află mai multe
+
 about-private-browsing-focus-promo-cta = Descarcă { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-c = Următorul nivel de confidențialitate pe mobil
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } îți șterge istoricul de fiecare dată, blocând reclamele și elementele de urmărire.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -38,3 +40,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Închide
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+

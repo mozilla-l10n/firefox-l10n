@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funcție recomandată
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = De ce văd asta
+
 cfr-doorhanger-extension-cancel-button = Nu acum
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Adaugă acum
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gestionează setările pentru recomandări
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Nu-mi afișa această recomandare
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Află mai multe
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomandare
 cfr-doorhanger-extension-notification2 = Recomandare
     .tooltiptext = Recomandare extensie
     .a11y-announcement = Recomandare disponibilă pentru extensie
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomandare
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Află mai multe
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Funcționalitate nouă:
+
 cfr-whatsnew-button =
     .label = Ce este nou
     .tooltiptext = Ce este nou
+
 cfr-whatsnew-release-notes-link-text = Citește notele privind versiunea
 
 ## Enhanced Tracking Protection Milestones

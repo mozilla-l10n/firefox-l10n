@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Adrese salvate
 autofill-manage-addresses-list-header = Adrese
+
 autofill-manage-credit-cards-title = Carduri de credit salvate
 autofill-manage-credit-cards-list-header = Carduri de credit
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Elimină
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Editează…
 autofill-add-new-address-title = Adaugă o adresă nouă
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editează adresa
+
 autofill-address-given-name = Prenume
 autofill-address-additional-name = Al doilea nume
 autofill-address-family-name = Nume de familie
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode (Irlanda)
 autofill-address-country = Țară sau regiune
 autofill-address-tel = Număr de telefon
 autofill-address-email = E-mail
+
 autofill-cancel-button = Renunță
 autofill-save-button = Salvează
 autofill-country-warning-message = Completarea automată a formularelor este în prezent disponibilă numai pentru anumite țări.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Adaugă card de credit nou
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editează cardul de credit
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } încearcă să afișeze informații despre cardurile de credit. Confirmă accesul la acest cont de Windows mai jos.
        *[other] { -brand-short-name } încearcă să afișeze informații despre cardurile de credit.
     }
+
 autofill-card-number = Numărul cardului
 autofill-card-invalid-number = Te rugăm să introduci un număr de card valid
 autofill-card-name-on-card = Numele de pe card
