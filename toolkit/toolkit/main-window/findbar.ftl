@@ -28,6 +28,7 @@ findbar-entire-word =
     .accesskey = P
     .tooltiptext = Cerca solo parole intere
 findbar-not-found = Testo non trovato
+findbar-wrapped-to-top = Fine della pagina raggiunta; si continua dall’inizio
 findbar-wrapped-to-bottom = Inizio della pagina raggiunto; si continua dalla fine
 findbar-normal-find =
     .placeholder = Trova nella pagina
@@ -37,3 +38,24 @@ findbar-fast-find-links =
     .placeholder = Ricerca rapida (solo link)
 findbar-case-sensitive-status =
     .value = (Maiuscole/minuscole)
+findbar-match-diacritics-status =
+    .value = (Segni diacritici)
+findbar-entire-word-status =
+    .value = (Solo parole intere)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Corrispondenza { $current } di { $total }
+           *[other] Corrispondenza { $current } di { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Più di { $limit } corrispondenza
+           *[other] Più di { $limit } corrispondenze
+        }
