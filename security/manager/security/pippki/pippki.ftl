@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = در حال بارگیری گواهی
     .style = width: 46em
+
 download-cert-window2 =
     .title = در حال بارگیری گواهی
     .style = min-width: 46em

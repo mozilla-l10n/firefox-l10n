@@ -126,8 +126,3 @@ options-context-triggers-page-refresh = تنها نشست فعلی، صفحه ر
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = نمایش اطلاعات بستر Gecko
-options-show-platform-data-tooltip =
-    .title = اگر شما این گزینه را فعال کنید نمایه JavaScript گزارش هایی شامل نماد های سکو Gecko گزارش خواهد کرد

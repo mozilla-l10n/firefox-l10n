@@ -19,3 +19,9 @@ pictureinpicture-unpip =
 
 pictureinpicture-close =
     .aria-label = بستن
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

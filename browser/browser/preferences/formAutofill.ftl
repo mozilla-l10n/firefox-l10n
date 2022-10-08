@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = آدرس‌های ذخیره شده
 autofill-manage-addresses-list-header = آدرس‌ها
+
 autofill-manage-credit-cards-title = کارت‌های اعتباری ذخیره شده
 autofill-manage-credit-cards-list-header = کارت‌های اعتباری
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = حذف
@@ -21,6 +23,7 @@ autofill-manage-edit-button = ویرایش…
 autofill-add-new-address-title = افزودن آدرس جدید
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = نشانی رایانامه
+
 autofill-address-given-name = نام
 autofill-address-additional-name = نام میانی
 autofill-address-family-name = نام خانوادگی
@@ -81,13 +84,16 @@ autofill-address-eircode = کد پستی
 autofill-address-country = کشور یا منطقه
 autofill-address-tel = تلفن
 autofill-address-email = رایانامه
+
 autofill-cancel-button = لغو
 autofill-save-button = ذخیره
 autofill-country-warning-message = پرکردن خودکار فرم در حال حاضر برای تعدادی از کشورها فعال است.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = افزودن کارت اعتباری جدید
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ویرایش کارت اعتباری
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } در تلاش است تا اطلاعات کارت اعتباری را نمایش دهد. دسترسی به این حساب Windows را در زیر تأیید کنید.
        *[other] { -brand-short-name } در تلاش است تا اطلاعات کارت اعتباری را نمایش دهد.
     }
+
 autofill-card-number = شماره کارت
 autofill-card-invalid-number = لطفا یک شماره کارت اعتباری معتبر وارد کنید
 autofill-card-name-on-card = نام روی کارت
