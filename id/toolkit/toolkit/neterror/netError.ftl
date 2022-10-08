@@ -9,6 +9,7 @@ neterror-page-title = Memuat laman bermasalah
 certerror-page-title = Peringatan: Potensi Risiko Keamanan Menghadang
 certerror-sts-page-title = Tidak Tersambung: Dugaan Masalah Keamanan
 neterror-captive-portal-page-title = Masuk ke jaringan
+neterror-malformed-uri-page-title = URL tidak valid
 
 ## Error page actions
 
