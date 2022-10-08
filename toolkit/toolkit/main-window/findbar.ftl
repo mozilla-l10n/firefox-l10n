@@ -39,6 +39,8 @@ findbar-fast-find =
     .placeholder = Бързо търсене
 findbar-fast-find-links =
     .placeholder = Бързо търсене (препратки)
+findbar-entire-word-status =
+    .value = (Само цели думи)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
