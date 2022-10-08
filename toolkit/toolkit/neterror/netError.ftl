@@ -9,6 +9,7 @@ neterror-page-title = Səhifə yüklənmə xətası
 
 ## Error page actions
 
+neterror-try-again-button = Təkrar Yoxla
 
 ##
 
