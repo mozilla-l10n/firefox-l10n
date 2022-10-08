@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Gyorskeresés (csak hivatkozások)
 findbar-case-sensitive-status =
     .value = (Kis- és nagybetűk megkülönböztetése)
+findbar-match-diacritics-status =
+    .value = (Diakritikus jelek)
 findbar-entire-word-status =
     .value = (Csak teljes szavak)
 # Variables:
