@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Lorg luath (ceanglaichean a-mhàin)
 findbar-case-sensitive-status =
     .value = (aire do litrichean mòra/beaga)
+findbar-match-diacritics-status =
+    .value = (An aire do shràcan)
 findbar-entire-word-status =
     .value = (Faclan slàna a-mhàin)
 # Variables:
