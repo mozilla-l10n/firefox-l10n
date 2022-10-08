@@ -63,6 +63,12 @@ neterror-nss-failure-contact-website = Lépjen kapcsolatba a webhely üzemeltet�
 certerror-intro = A { -brand-short-name } egy lehetséges biztonsági kockázatot észlelt, és nem lépett tovább a(z) <b>{ $hostname }</b> oldalra. Ha felkeresi ezt az oldalt, akkor támadók megpróbálhatják ellopni a jelszavait, e-mailjeit vagy bankkártyaadatait.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = A { -brand-short-name } egy lehetséges biztonsági kockázatot észlelt, és nem lépett tovább a(z) <b>{ $hostname }</b> oldalra, mert ez a webhely biztonságos kapcsolatot igényel.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = A { -brand-short-name } egy problémát észlelt, és nem lépett tovább a(z) <b>{ $hostname }</b> oldalra. Lehet, hogy a webhely van rosszul beállítva vagy hibás az Ön számítógépének órabeállítása.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = A(z) <b>{ $hostname }</b> valószínűleg egy biztonságos oldal, de nem hozható létre biztonságos kapcsolat. A problémát <b>{ $mitm }</b> okozza, amely valószínűleg egy a számítógépén vagy a hálózatán lévő szoftver.
 neterror-corrupted-content-intro = A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.
@@ -80,6 +86,8 @@ neterror-inadequate-security-code = Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY
 neterror-clock-skew-error = A számítógépe szerint a pontos idő { DATETIME($now, dateStyle: "medium") }, és ez megakadályozza, hogy a { -brand-short-name } biztonságosan kapcsolódjon. A(z) <b>{ $hostname }</b> felkereséséhez frissítse a rendszerbeállításokban a számítógép óráját a jelenlegi dátumra, időre és időzónára, és frissítse a(z) <b>{ $hostname }</b> oldalt.
 neterror-network-protocol-error-intro = A megtekinteni kívánt oldal nem jeleníthető meg, mert hiba észlelhető a hálózati protokollban.
 neterror-network-protocol-error-contact-website = Lépjen kapcsolatba a webhely tulajdonosaival, hogy tájékoztassa őket a problémáról.
+certerror-expired-cert-second-para = A webhely tanúsítványa valószínűleg lejárt, ami megakadályozza a { -brand-short-name } biztonságos csatlakozását. Ha meglátogatja ezt a webhelyet, támadók megpróbálhatnak ellopni olyan információkat, mint jelszavak, e-mailek vagy hitelkártyaadatok.
+certerror-expired-cert-sts-second-para = A webhely tanúsítványa valószínűleg lejárt, ami megakadályozza a { -brand-short-name } biztonságos csatlakozását.
 certerror-what-can-you-do-about-it-title = Mit tehet?
 certerror-unknown-issuer-what-can-you-do-about-it-website = A probléma valószínűleg a weboldallal van, és semmit sem tehet a megoldása érdekében.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ha vállalati hálózaton van, vagy antivírus szoftvert használ, akkor segítségért felkeresheti a terméktámogatási csoportot. A weboldal rendszergazdáját is értesítheti a problémáról.
