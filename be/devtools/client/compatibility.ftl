@@ -40,9 +40,11 @@ compatibility-issue-occurrences =
         [few] { $number } выпадкі
        *[many] { $number } выпадкаў
     }
+
 compatibility-no-issues-found = Праблем з сумяшчальнасцю не выяўлена.
 compatibility-close-settings-button =
     .title = Закрыць налады
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

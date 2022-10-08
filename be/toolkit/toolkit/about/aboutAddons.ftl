@@ -3,82 +3,116 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Менеджар дадаткаў
+
 search-header =
     .placeholder = Пошук на addons.mozilla.org
     .searchbuttonlabel = Пошук
+
 search-header-shortcut =
     .key = f
+
 list-empty-get-extensions-message = Атрымлівайце пашырэнні і тэмы з <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-dictionaries-message = Атрымлівайце слоўнікі з <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-language-packs-message = Атрымлівайце моўныя пакункі з <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-installed =
     .value = У вас няма ніводнага ўсталяванага дадатку гэтага тыпу
+
 list-empty-available-updates =
     .value = Абнаўленні не знойдзеныя
+
 list-empty-recent-updates =
     .value = Нядаўна вы не абнаўлялі ніякіх дадаткаў
+
 list-empty-find-updates =
     .label = Знайсці абнаўленні
+
 list-empty-button =
     .label = Падрабязней пра дадаткі
+
 help-button = Падтрымка дадаткаў
 sidebar-help-button-title =
     .title = Падтрымка дадаткаў
+
 addons-settings-button = Налады { -brand-short-name }
 sidebar-settings-button-title =
     .title = Налады { -brand-short-name }
+
 show-unsigned-extensions-button =
     .label = Некаторыя пашырэнні не могуць быць правераны
+
 show-all-extensions-button =
     .label = Паказаць усе пашырэнні
+
 detail-version =
     .label = Версія
+
 detail-last-updated =
     .label = Апошняе абнаўленне
+
 addon-detail-description-expand = Паказаць больш
 addon-detail-description-collapse = Паказаць менш
+
 detail-contributions-description = Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.
+
 detail-contributions-button = Зрабіць унёсак
     .title = Зрабіць унёсак у распрацоўку гэтага дадатку
     .accesskey = с
+
 detail-update-type =
     .value = Аўтаматычныя абнаўленні
+
 detail-update-default =
     .label = Прадвызначана
     .tooltiptext = Самастойна ўсталёўваць абнаўленні, калі гэта прадвызначана
+
 detail-update-automatic =
     .label = Укл.
     .tooltiptext = Аўтаматычна ўсталёўваць абнаўленні
+
 detail-update-manual =
     .label = Выкл.
     .tooltiptext = Не ўсталёўваць абнаўленні аўтаматычна
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Задзейнічаць у прыватных вокнах
+
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Не дазволена ў прыватных вокнах
 detail-private-disallowed-description2 = Гэта пашырэнне не працуе ў час прыватнага аглядання. <a data-l10n-name="learn-more">Падрабязней</a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Патрабуе доступ да прыватных акон
 detail-private-required-description2 = Гэта пашырэнне мае доступ да вашай дзейнасці ў сеціве ў час прыватнага аглядання. <a data-l10n-name="learn-more">Падрабязней</a>
+
 detail-private-browsing-on =
     .label = Дазволіць
     .tooltiptext = Уключаць у рэжыме прыватнага аглядання
+
 detail-private-browsing-off =
     .label = Не дазваляць
     .tooltiptext = Адключаць у рэжыме прыватнага аглядання
+
 detail-home =
     .label = Хатняя старонка
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Профіль дадатка
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Знайсці абнаўленні
     .accesskey = н
     .tooltiptext = Праверыць, ці існуюць абнаўленні гэтага дадатку
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -95,26 +129,38 @@ detail-show-preferences =
             [windows] Змяненне налад гэтага дадатка
            *[other] Змяненне налад гэтага дадатка
         }
+
 detail-rating =
     .value = Ацэнка
+
 addon-restart-now =
     .label = Перазапусціць зараз
+
 disabled-unsigned-heading =
     .value = Некаторыя дадаткі былі адключаны
+
 disabled-unsigned-description = Праца наступных дадаткаў у { -brand-short-name } не была праверана. Вы можаце <label data-l10n-name="find-addons">знайсці ім замену</label> або папрасіць распрацоўшчыка правесці іх праверку.
+
 disabled-unsigned-learn-more = Даведайцеся больш пра нашы намаганні ў забеспячэнні вашай бяспекі ў інтэрнэце.
+
 disabled-unsigned-devinfo = Распрацоўшчыкі, зацікаўленыя ў праверцы сваіх дадаткаў, могуць прачытаць наш <label data-l10n-name="learn-more">дапаможнік</label>.
+
 plugin-deprecation-description = Нешта адсутнічае? { -brand-short-name } больш не падтрымлівае некаторыя плагіны. <label data-l10n-name="learn-more">Падрабязней.</label>
+
 legacy-warning-show-legacy = Паказаць састарэлыя пашырэнні
+
 legacy-extensions =
     .value = Састарэлыя пашырэнні
+
 legacy-extensions-description = Гэтыя пашырэнні не адпавядаюць бягучым стандартам { -brand-short-name }, таму яны былі выключаны. <label data-l10n-name="legacy-learn-more">Даведацца аб зменах у дадатках</label>
+
 private-browsing-description2 =
     { -brand-short-name } змяняе парадак працы пашырэнняў у прыватным агляданні. Усе новыя пашырэнні, якія вы дадаяце да
     { -brand-short-name }, тыпова не будуць дзейнічаць у прыватных вокнах. Пакуль вы не выставіце дазвол у наладах,
     пашырэнне не будзе працаваць у час прыватнага аглядання, і не будзе мець доступу да вашай сеціўнай
     актыўнасці ў гэтым рэжыме. Мы зрабілі гэта для аховы вашай прыватнасці.
     <label data-l10n-name="private-browsing-learn-more">Даведайцеся, як кіраваць наладамі пашырэння.</label>
+
 addon-category-discover = Рэкамендацыі
 addon-category-discover-title =
     .title = Рэкамендацыі
@@ -198,35 +244,44 @@ addon-open-about-debugging = Адладка дадаткаў
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Кіраваць спалучэннямі клавіш пашырэнняў
     .accesskey = ы
+
 shortcuts-no-addons = У вас не ўключана ніводнага пашырэння.
 shortcuts-no-commands = Наступныя пашырэнні не маюць спалучэнняў клавіш:
 shortcuts-input =
     .placeholder = Увядзіце спалучэнне клавіш
+
 shortcuts-browserAction2 = Актываваць кнопку на паліцы прылад
 shortcuts-pageAction = Актываваць дзеянні старонкі
 shortcuts-sidebarAction = Паказаць/схаваць бакавую панэль
+
 shortcuts-modifier-mac = Улучыце Ctrl, Alt або ⌘
 shortcuts-modifier-other = Улучыце Ctrl або Alt
 shortcuts-invalid = Недапушчальная камбінацыя
 shortcuts-letter = Увядзіце літару
 shortcuts-system = Нельга перавызначыць спалучэнне клавіш { -brand-short-name }
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Дублікат спалучэння клавіш
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } выкарыстоўваецца як спалучэнне клавіш больш чым у адным выпадку. Дубліраваныя спалучэнні могуць выклікаць нечаканыя паводзіны.
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ужо выкарыстоўваецца дадаткам { $addon }
+
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Паказаць яшчэ { $numberToShow }
         [few] Паказаць яшчэ { $numberToShow }
        *[many] Паказаць яшчэ { $numberToShow }
     }
+
 shortcuts-card-collapse-button = Паказаць менш
+
 header-back-button =
     .title = Вярнуцца
 
@@ -241,12 +296,15 @@ discopane-intro =
     невялікія праграмы часта распрацаваны трэцім бокам. Гэты набор { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">рэкамендуе </a> для выключнай
     бяспекі, прадукцыйнасці і функцыянальнасці.
+
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Некаторыя з гэтых рэкамендацый персаніфікаваныя. Яны заснаваны на іншых
     пашырэннях, якія вы ўсталявалі, перавагах профілю і статыстыцы выкарыстання.
 discopane-notice-learn-more = Даведацца больш
+
 privacy-policy = Палітыка прыватнасці
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -262,6 +320,7 @@ install-theme-button = Усталяваць тэму
 manage-addon-button = Кіраванне
 find-more-addons = Знайсці больш дадаткаў
 find-more-themes = Знайсці іншыя тэмы
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -287,51 +346,60 @@ preferences-addon-button =
 details-addon-button = Падрабязнасці
 release-notes-addon-button = Заўвагі да выпуску
 permissions-addon-button = Правы доступу
+
 extension-enabled-heading = Уключаны
 extension-disabled-heading = Адключана
+
 theme-enabled-heading = Уключана
 theme-disabled-heading = Выключана
 theme-disabled-heading2 = Захаваныя тэмы
 theme-monochromatic-heading = Расфарбоўкі
 theme-monochromatic-subheading = Яркія новыя колеры ад { -brand-product-name }. Даступныя абмежаваны час.
+
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Паспрабаваць расфарбоўкі
-colorway-collection-independent-voices-subheading = Зрабіце так, каб { -brand-short-name } больш пасаваў да вас.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Згасае { DATETIME($expiryDate, day: "numeric", month: "long") }
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Змяніць расфарбоўку
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Згасае { DATETIME($expiryDate, month: "long", day: "numeric") }
+
 plugin-enabled-heading = Уключаны
 plugin-disabled-heading = Адключана
+
 dictionary-enabled-heading = Уключаны
 dictionary-disabled-heading = Адключана
+
 locale-enabled-heading = Уключана
 locale-disabled-heading = Выключана
+
 sitepermission-enabled-heading = Уключаны
 sitepermission-disabled-heading = Адключаны
+
 always-activate-button = Заўсёды задейнічаць
 never-activate-button = Ніколі не задзейнічаць
+
 addon-detail-author-label = Аўтар
 addon-detail-version-label = Версія
 addon-detail-last-updated-label = Апошняе абнаўленне
 addon-detail-homepage-label = Хатняя старонка
 addon-detail-rating-label = Ацэнка
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = Гэта пашырэнне будзе абноўлена пасля перазапуску { -brand-short-name }.
 install-postponed-button = Абнавіць зараз
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Ацэнена на { NUMBER($rating, maximumFractionDigits: 1) } з 5
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (адключана)
+
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -348,12 +416,14 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> быў выдалены.
 pending-uninstall-undo-button = Адмяніць
+
 addon-detail-updates-label = Дазволіць аўтаматычныя абнаўленні
 addon-detail-updates-radio-default = Прадвызначана
 addon-detail-updates-radio-on = Укл.
 addon-detail-updates-radio-off = Выкл.
 addon-detail-update-check-label = Праверыць наяўнасць абнаўленняў
 install-update-button = Абнавіць
+
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -382,15 +452,20 @@ addon-badge-verified2 =
 
 available-updates-heading = Даступныя абнаўленні
 recent-updates-heading = Нядаўнія абнаўленні
+
 release-notes-loading = Загрузка…
 release-notes-error = Выбачайце, здарылася памылка пры загрузцы заўваг да выпуску.
+
 addon-permissions-empty = Гэта пашырэнне не патрабуе якіх-небудзь дазволаў
 addon-permissions-required = Неабходныя дазволы для асноўнай функцыянальнасці:
 addon-permissions-optional = Неабавязковыя дазволы для дадатковай функцыянальнасці:
 addon-permissions-learnmore = Даведацца больш пра дазволы
+
 recommended-extensions-heading = Рэкамендаваныя пашырэнні
 recommended-themes-heading = Рэкамендаваныя тэмы
+
 addon-sitepermissions-required = Дае <span data-l10n-name="hostname">{ $hostname }</span> наступныя магчымасці:
+
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Адчуваеце натхненне? <a data-l10n-name="link">Стварыце ўласную тэму з дапамогай Firefox Color.</a>
@@ -406,9 +481,11 @@ updates-heading = Кіруйце сваімі абнаўленнямі
 sitepermission-heading = Кіраваць дазволамі для сайтаў
 discover-heading = Персаналізуйце свой { -brand-short-name }
 shortcuts-heading = Кіраваць спалучэннямі клавіш пашырэнняў
+
 default-heading-search-label = Знайсці больш дадаткаў
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
+
 addon-page-options-button =
     .title = Прылады для ўсіх дадаткаў
 
@@ -419,13 +496,19 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } несумяшчальна з { -brand-short-name } { $version }.
+
 details-notification-incompatible-link = Больш звестак
+
 details-notification-unsigned-and-disabled = Праца { $name } у { -brand-short-name } не была праверана, таму яно было адключана.
 details-notification-unsigned-and-disabled-link = Больш звестак
+
 details-notification-unsigned = Праца { $name } у { -brand-short-name } не была праверана. Працягвайце з асцярогай.
 details-notification-unsigned-link = Больш звестак
+
 details-notification-blocked = { $name } забаронены, бо маюцца праблемы сумяшчальнасці або ўстойлівасці.
 details-notification-blocked-link = Падрабязней
+
 details-notification-softblocked = Вядома, што { $name } мае праблемы сумяшчальнасці або ўстойлівасці.
 details-notification-softblocked-link = Падрабязней
+
 details-notification-gmp-pending = { $name } будзе хутка усталявана.

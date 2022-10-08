@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Захаваныя адрасы
 autofill-manage-addresses-list-header = Адрасы
+
 autofill-manage-credit-cards-title = Захаваныя крэдытныя карткі
 autofill-manage-credit-cards-list-header = Крэдытныя карткі
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Выдаліць
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Змяніць…
 autofill-add-new-address-title = Дадаць новы адрас
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Змяніць адрас
+
 autofill-address-given-name = Імя
 autofill-address-additional-name = Імя па бацьку
 autofill-address-family-name = Прозвішча
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Краіна ці рэгіён
 autofill-address-tel = Тэлефон
 autofill-address-email = Эл.пошта
+
 autofill-cancel-button = Скасаваць
 autofill-save-button = Захаваць
 autofill-country-warning-message = Аўтазапаўненне формаў зараз даступна толькі для пэўных краін.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Дадаць новую крэдытную картку
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Змяніць крэдытную картку
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } спрабуе паказаць інфармацыю крэдытнай карткі. Пацвердзіце доступ да гэтага ўліковага запісу Windows ніжэй.
        *[other] { -brand-short-name } спрабуе паказаць інфармацыю крэдытнай карткі.
     }
+
 autofill-card-number = Нумар карткі
 autofill-card-invalid-number = Калі ласка, увядзіце сапраўдны нумар карты
 autofill-card-name-on-card = Імя на картцы

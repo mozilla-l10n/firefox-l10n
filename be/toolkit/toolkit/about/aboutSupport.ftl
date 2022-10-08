@@ -7,6 +7,7 @@ page-subtitle =
     Гэта старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі, калі
     спрабуеце вырашыць праблему. Калі вы шукаеце адказы на агульныя пытанні
     пра { -brand-short-name }, наведайце наш <a data-l10n-name="support-link">сайт падтрымкі</a>.
+
 crashes-title = Cправаздачы пра крахі
 crashes-id = Ідэнтыфікатар справаздачы
 crashes-send-date = Пададзена
@@ -77,10 +78,12 @@ app-basics-key-mozilla = Ключ Службы вызначэння месцаз
 app-basics-safe-mode = Абаронены рэжым
 app-basics-memory-size = Памер памяці (RAM)
 app-basics-disk-available = Даступнае месца на дыску
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Паказаць у шукальніку
@@ -200,6 +203,7 @@ report-crash-for-days =
         [few] Справаздачы пра крахі за { $days } апошнія дні
        *[many] Справаздачы пра крахі за { $days } апошніх дзён
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -208,6 +212,7 @@ crashes-time-minutes =
         [few] { $minutes } хвіліны таму
        *[many] { $minutes } хвілінаў таму
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -216,6 +221,7 @@ crashes-time-hours =
         [few] { $hours } гадзіны таму
        *[many] { $hours } гадзінаў таму
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -224,6 +230,7 @@ crashes-time-days =
         [few] { $days } дні таму
        *[many] { $days } дзён таму
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -232,6 +239,7 @@ pending-reports =
         [few] Усе справаздачы пра крахі (уключаючы { $reports } адкладзеныя крахі з дадзеным перыядзе)
        *[many] Усе справаздачы пра крахі (уключаючы { $reports } адкладзеных крахаў у дадзеным перыядзе)
     }
+
 raw-data-copied = Сырыя дадзеныя скапіяваны ў буфер абмену
 text-copied = Тэкст скапіяваны ў буфер абмену
 
@@ -244,9 +252,11 @@ blocked-mismatched-version = Заблакавана з-за несупадзен
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Блакавана для вашай версіі графічнага кіроўцы. Паспрабуйце абнавіць ваш графічны кіровец да версіі { $driverVersion } або навейшай.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметры ClearType
+
 compositing = Кампазітынг
 hardware-h264 = Апаратнае дэкадаванне H264
 main-thread-no-omtc = галоўная плынь, без OMTC
@@ -261,6 +271,7 @@ virtual-monitor-disp = Адлюстраванне віртуальнага ма�
 
 found = Знойдзены
 missing = Адсутнічае
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Апісанне
@@ -283,15 +294,19 @@ webgl2-renderer = WebGL 2 - Адлюстравальнік драйвера
 webgl2-version = WebGL 2 - Версія драйвера
 webgl2-driver-extensions = WebGL 2 - Пашырэнні драйвера
 webgl2-extensions = WebGL 2 - Пашырэнні
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Заблакавана з-за вядомых праблем: <a data-l10n-name="bug-link">апісанне { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = У спісе блакавання; код памылкі { $failureCode }
+
 d3d11layers-crash-guard = Кампазітар D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Відэадэкодэр WMF VPX
+
 reset-on-next-restart = Скінуць пры наступным перазапуску
 gpu-process-kill-button = Завяршыць GPU працэс
 gpu-device-reset = Скід прылады
@@ -301,8 +316,10 @@ content-uses-tiling = Выкарыстоўвае тайлінг (кантэнт)
 off-main-thread-paint-enabled = Прамалёўванне па-за асноўным патокам уключана
 off-main-thread-paint-worker-count = Колькасць воркераў прамалёўвання па-за асноўным патокам
 target-frame-rate = Мэтавая частата кадраў
+
 min-lib-versions = Чаканая найменшая версія
 loaded-lib-versions = Версія ва ўжытку
+
 has-seccomp-bpf = Seccomp-BPF (Фільтраванне сістэмных выклікаў)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = Прасторы імён карыстальніка
@@ -316,15 +333,18 @@ sandbox-proc-type-content = змесціва
 sandbox-proc-type-file = змесціва файла
 sandbox-proc-type-media-plugin = медыяплагін
 sandbox-proc-type-data-decoder = дэкодар даных
+
 startup-cache-title = Кэш запуску
 startup-cache-disk-cache-path = Шлях да дыскавага кэшу
 startup-cache-ignore-disk-cache = Ігнараваць дыскавы кэш
 startup-cache-found-disk-cache-on-init = Знойдзены дыскавы кэш пры ініцыялізацыі
 startup-cache-wrote-to-disk-cache = Запісаны ў дыскавы кэш
+
 launcher-process-status-0 = Уключана
 launcher-process-status-1 = Адключана з-за збою
 launcher-process-status-2 = Прымусова адключана
 launcher-process-status-unknown = Невядомы статус
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -344,6 +364,7 @@ fission-status-enabled-by-user-pref = Уключаны карыстальнік�
 fission-status-disabled-by-user-pref = Адключана карыстальнікам
 fission-status-disabled-by-e10s-other = E10s адключаны
 fission-status-enabled-by-rollout = Уключана паэтапным разгортваннем
+
 async-pan-zoom = Асінхроннае павелічэнне/маштаб
 apz-none = няма
 wheel-enabled = увод колца ўключаны
@@ -380,6 +401,7 @@ support-remote-experiments-title = Аддаленыя эксперыменты
 support-remote-experiments-name = Назва
 support-remote-experiments-branch = Галіна эксперыменту
 support-remote-experiments-see-about-studies = Гл. <a data-l10n-name="support-about-studies-link">about:studies</a> для дадатковай інфармацыі, у тым ліку пра тое, як адключыць асобныя эксперыменты або забараніць { -brand-short-name } запускаць эксперыменты такога тыпу ў будучыні.
+
 support-remote-features-title = Аддаленыя функцыі
 support-remote-features-name = Назва
 support-remote-features-status = Стан

@@ -5,62 +5,81 @@
 permissions-window =
     .title = Выключэнні
     .style = width: 38em
+
 permissions-window2 =
     .title = Выключэнні
     .style = min-width: 38em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адрас вэб-сайта
     .accesskey = д
+
 permissions-block =
     .label = Блакаваць
     .accesskey = Б
+
 permissions-session =
     .label = Дазволіць на сеанс
     .accesskey = с
+
 permissions-allow =
     .label = Дазволіць
     .accesskey = Д
+
 permissions-button-off =
     .label = Выключыць
     .accesskey = В
+
 permissions-button-off-temporarily =
     .label = Часова выключыць
     .accesskey = Ч
+
 permissions-site-name =
     .label = Вэб-сайт
+
 permissions-status =
     .label = Статус
+
 permissions-remove =
     .label = Выдаліць вэб-сайт
     .accesskey = В
+
 permissions-remove-all =
     .label = Выдаліць усе вэб-сайты
     .accesskey = ы
+
 permission-dialog =
     .buttonlabelaccept = Захаваць змены
     .buttonaccesskeyaccept = Ы
+
 permissions-autoplay-menu = Прадвызначана для ўсіх сайтаў:
+
 permissions-searchbox =
     .placeholder = Пошук сярод вэб-сайтаў
+
 permissions-capabilities-autoplay-allow =
     .label = Дазваляць гук і відэа
 permissions-capabilities-autoplay-block =
     .label = Блакаваць гук
 permissions-capabilities-autoplay-blockall =
     .label = Блакаваць гук і відэа
+
 permissions-capabilities-allow =
     .label = Дазволіць
 permissions-capabilities-block =
     .label = Блакаваць
 permissions-capabilities-prompt =
     .label = Заўсёды пытаць
+
 permissions-capabilities-listitem-allow =
     .value = Дазволіць
 permissions-capabilities-listitem-block =
     .value = Блакаваць
 permissions-capabilities-listitem-allow-session =
     .value = Дазволіць на час сэсіі
+
 permissions-capabilities-listitem-off =
     .value = Выкл.
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Увядзіце назву хоста
 permissions-exceptions-etp-window =
     .title = Выключэнні для ўзмоцненай аховы ад сачэння
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Выключэнні для ўзмоцненай аховы ад сачэння
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Вы адключылі ахову на гэт
 permissions-exceptions-cookie-window =
     .title = Выключэнні - Кукі і дадзеныя сайтаў
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Выключэнні - Кукі і дадзеныя сайтаў
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Вы можаце ўказаць, якім 
 permissions-exceptions-https-only-window =
     .title = Выключэнні - Рэжым толькі HTTPS
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Выключэнні - Рэжым толькі HTTPS
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Вы можаце выключыць р
 permissions-exceptions-popup-window =
     .title = Дазволеныя вэб-сайты - Выплыўныя вокны
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Дазволеныя вэб-сайты - Выплыўныя вокны
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Вы можаце вызначыць, які
 permissions-exceptions-saved-logins-window =
     .title = Выключэнні - Запісаныя лагіны
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Выключэнні - Запісаныя лагіны
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Лагіны для наступны�
 permissions-exceptions-addons-window =
     .title = Дазволеныя вэб-сайты - Усталяванне дадаткаў
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Дазволеныя вэб-сайты - Усталяванне дадаткаў
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Вы можаце вызначыць, як�
 permissions-site-autoplay-window =
     .title = Налады - Аўтапрайграванне
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Налады - Аўтапрайграванне
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Тут вы можаце кіраваць са�
 permissions-site-notification-window =
     .title = Налады - Дазволы абвесткі
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Налады - Дазволы абвесткі
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Гэта не дазволіць в
 permissions-site-location-window =
     .title = Налады - Дазволы месцазнаходжання
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Налады - Дазволы месцазнаходжання
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Гэта не дазволіць вэб
 permissions-site-xr-window =
     .title = Налады - Дазволы віртуальнай рэальнасці
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Налады - Дазволы віртуальнай рэальнасці
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Гэта не дазволіць вэб-са�
 permissions-site-camera-window =
     .title = Налады - Дазволы камеры
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Налады - Дазволы камеры
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Гэта не дазволіць вэб-�
 permissions-site-microphone-window =
     .title = Налады - Дазволы мікрафона
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Налады - Дазволы мікрафона
     .style = { permissions-window2.style }

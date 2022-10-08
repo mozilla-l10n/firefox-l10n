@@ -10,5 +10,6 @@ text-recognition-modal-searching-title = Пошук тэксту ў відар�
 text-recognition-modal-results-title = Тэкст скапіраваны з відарыса
 text-recognition-modal-no-results-title = На жаль, не ўдалося атрымаць тэкст. Паспрабуйце іншы відарыс. <a data-l10n-name="error-link">Падрабязней</a>.
 text-recognition-modal-close-button = Закрыць
+
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = Вынікі распазнавання тэксту

@@ -22,10 +22,12 @@ about-private-browsing-not-private = Вы зараз не ў прыватным 
 about-private-browsing-info-description-private-window = Прыватнае акно: { -brand-short-name } ачышчае гісторыю пошуку і аглядання, калі вы закрываеце ўсе прыватныя вокны. Гэта не робіць вас ананімнымi.
 about-private-browsing-info-description-simplified = { -brand-short-name } ачышчае гісторыю пошуку і аглядання, калі вы закрываеце ўсе прыватныя вокны, але гэта не робіць вас ананімным.
 about-private-browsing-learn-more-link = Даведацца больш
+
 about-private-browsing-hide-activity = Хавайце сваю актыўнасць і месцазнаходжанне ўсюды, дзе аглядаеце
 about-private-browsing-get-privacy = Атрымайце абарону прыватнасці ўсюды, дзе аглядаеце
 about-private-browsing-hide-activity-1 = Хавайце актыўнасць агляду і месцазнаходжанне з дапамогай { -mozilla-vpn-brand-name }. Адзін пстрык стварае бяспечнае злучэнне нават у агульнадаступнай сетцы Wi-Fi.
 about-private-browsing-prominent-cta = Заставайцеся прыватным з { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Сцягнуць { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: прыватнае агляданне ў дарозе
 about-private-browsing-focus-promo-text = Наша спецыялізаваная мабільная праграма для прыватнага аглядання кожны раз ачышчае вашу гісторыю і кукі.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Вазьміце прыватна�
 about-private-browsing-focus-promo-text-b = Выкарыстоўвайце { -focus-brand-name } для тых прыватных пошукаў, якія не хочаце, каб ваш асноўны мабільны браўзер бачыў.
 about-private-browsing-focus-promo-header-c = Новы ўзровень прыватнасці на мабільных прыладах
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } кожны раз ачышчае вашу гісторыю, блакуючы рэкламу і трэкеры.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Закрыць
+
 about-private-browsing-promo-close-button =
     .title = Закрыць
 
