@@ -34,11 +34,34 @@ findbar-entire-word =
 findbar-not-found = Nu s-a găsit textul
 findbar-wrapped-to-top = Sfârșitul paginii, continuare de la început
 findbar-wrapped-to-bottom = Începutul paginii, continuare de la sfârșit
+findbar-normal-find =
+    .placeholder = Caută în pagină
 findbar-fast-find =
     .placeholder = Găsire rapidă
 findbar-fast-find-links =
     .placeholder = Găsire rapidă (doar linkuri)
 findbar-case-sensitive-status =
     .value = (Nu ignora majuscule)
+findbar-match-diacritics-status =
+    .value = (Respectă diacriticele)
 findbar-entire-word-status =
     .value = (Numai cuvinte întregi)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } din { $total } rezultat
+            [few] { $current } din { $total } rezultate
+           *[other] { $current } din { $total } de rezultate
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Mai mult de { $limit } rezultat
+            [few] Mai mult de { $limit } rezultate
+           *[other] Mai mult de { $limit } de rezultate
+        }
