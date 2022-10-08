@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Sparade adresser
 autofill-manage-addresses-list-header = Adresser
+
 autofill-manage-credit-cards-title = Sparade kreditkort
 autofill-manage-credit-cards-list-header = Kreditkort
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Ta bort
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Redigera…
 autofill-add-new-address-title = Lägg till ny adress
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Redigera adress
+
 autofill-address-given-name = Förnamn
 autofill-address-additional-name = Mellannamn
 autofill-address-family-name = Efternamn
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Land eller region
 autofill-address-tel = Telefon
 autofill-address-email = E-post
+
 autofill-cancel-button = Avbryt
 autofill-save-button = Spara
 autofill-country-warning-message = Autofyll av formulär är för närvarande endast tillgänglig för vissa länder.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Lägg till nytt kreditkort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Redigera kreditkort
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } försöker visa kreditkortsinformation. Bekräfta åtkomst till detta Windows-konto nedan.
        *[other] { -brand-short-name } försöker visa kreditkortsinformation.
     }
+
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Ange ett giltigt kortnummer
 autofill-card-name-on-card = Namn på kort

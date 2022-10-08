@@ -1,13 +1,17 @@
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = För att skicka krypterade eller digitalt signerade meddelanden måste du konfigurera en krypteringsteknik, antingen OpenPGP eller S/MIME.
 e2e-intro-description-more = Välj din personliga nyckel för att aktivera användning av OpenPGP eller ditt personliga certifikat för att aktivera användning av S/MIME. För en personlig nyckel eller certifikat äger du motsvarande hemlig nyckel.
+
 e2e-signing-description = En digital signatur låter mottagarna verifiera att meddelandet skickades av dig och att dess innehåll inte har ändrats. Krypterade meddelanden signeras alltid som standard.
+
 e2e-sign-message =
     .label = Signera okrypterade meddelanden
     .accesskey = o
+
 e2e-disable-enc =
     .label = Inaktivera kryptering för nya meddelanden
     .accesskey = n
@@ -15,6 +19,7 @@ e2e-enable-enc =
     .label = Aktivera kryptering för nya meddelanden
     .accesskey = n
 e2e-enable-description = Du kommer att kunna inaktivera kryptering för enskilda meddelanden.
+
 e2e-advanced-section = Avancerade inställningar
 e2e-attach-key =
     .label = Bifoga min publika nyckel när du lägger till en OpenPGP digital signatur
@@ -25,6 +30,7 @@ e2e-encrypt-subject =
 e2e-encrypt-drafts =
     .label = Lagra utkast till meddelanden i krypterat format
     .accesskey = L
+
 openpgp-key-user-id-label = Konto / användar-ID
 openpgp-keygen-title-label =
     .title = Generera OpenPGP-nyckel
@@ -55,13 +61,18 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Avancerat…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">OBS: Nyckelgenerering kan ta upp till flera minuter att slutföra.</a> Stäng inte programmet medan nyckelgenerering pågår. Om du surfar eller utför en hårddiskaktivitet under nyckelgenerering kommer du att fylla på den "slumpmässiga poolen" och påskynda processen. Du får en varning när nyckelgenerering är klar.
+
 openpgp-key-created-label =
     .label = Skapad
+
 openpgp-key-expiry-label =
     .label = Upphör
+
 openpgp-key-id-label =
     .label = Nyckel-ID
+
 openpgp-cannot-change-expiry = Detta är en nyckel med en komplex struktur, ändring av dess utgångsdatum stöds inte.
+
 openpgp-key-man-title =
     .title = OpenPGP-nyckelhanterare
 openpgp-key-man-generate =
@@ -72,6 +83,7 @@ openpgp-key-man-gen-revoke =
     .accesskey = t
 openpgp-key-man-ctx-gen-revoke-label =
     .label = Skapa och spara återkallningscertifikat
+
 openpgp-key-man-file-menu =
     .label = Arkiv
     .accesskey = A
@@ -87,6 +99,7 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Nyckelserver
     .accesskey = N
+
 openpgp-key-man-import-public-from-file =
     .label = Importera publika nycklar från fil
     .accesskey = m
@@ -109,23 +122,29 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Säkerhetskopiera hemliga nycklar till fil
     .accesskey = S
+
 openpgp-key-man-discover-cmd =
     .label = Hitta nycklar online
     .accesskey = H
 openpgp-key-man-discover-prompt = Om du vill hitta OpenPGP-nycklar online, på nyckelservrar eller använda WKD-protokollet anger du antingen en e-postadress eller ett nyckel-ID.
 openpgp-key-man-discover-progress = Söker…
+
 openpgp-key-copy-key =
     .label = Kopiera publik nyckel
     .accesskey = K
+
 openpgp-key-export-key =
     .label = Exportera publik nyckel till fil
     .accesskey = E
+
 openpgp-key-backup-key =
     .label = Säkerhetskopiera hemlig nyckel till fil
     .accesskey = S
+
 openpgp-key-send-key =
     .label = Skicka publik nyckel via e-post
     .accesskey = S
+
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -133,6 +152,7 @@ openpgp-key-man-copy-key-ids =
            *[other] Kopiera nyckel-ID till Urklipp
         }
     .accesskey = n
+
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
@@ -140,6 +160,7 @@ openpgp-key-man-copy-fprs =
            *[other] Kopiera fingeravtryck till Urklipp
         }
     .accesskey = f
+
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -147,11 +168,14 @@ openpgp-key-man-copy-to-clipboard =
            *[other] Kopiera publika nycklar till Urklipp
         }
     .accesskey = p
+
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportera nycklar till fil
+
 openpgp-key-man-ctx-copy =
     .label = Kopiera
     .accesskey = K
+
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -159,6 +183,7 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Fingeravtryck
         }
     .accesskey = F
+
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
@@ -166,6 +191,7 @@ openpgp-key-man-ctx-copy-key-ids =
            *[other] Nyckel-ID
         }
     .accesskey = N
+
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
@@ -173,6 +199,7 @@ openpgp-key-man-ctx-copy-public-keys =
            *[other] Publika nycklar
         }
     .accesskey = P
+
 openpgp-key-man-close =
     .label = Stäng
 openpgp-key-man-reload =
@@ -225,15 +252,17 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Inga nycklar matchar dina söktermer
 openpgp-key-man-please-wait-tooltip =
     .label = Vänta medan nycklar laddas…
+
 openpgp-key-man-filter-label =
     .placeholder = Sök efter nycklar
+
 openpgp-key-man-select-all-key =
     .key = a
 openpgp-key-man-key-details-key =
     .key = I
+
 openpgp-ign-addr-intro = Du accepterar att använda denna nyckel för följande valda e-postadresser:
-openpgp-key-details-title =
-    .title = Nyckelegenskaper
+
 openpgp-key-details-doc-title = Nyckelegenskaper
 openpgp-key-details-signatures-tab =
     .label = Certifieringar
@@ -242,20 +271,23 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Användar-ID / Certifierat av
 openpgp-key-details-key-id-label = Nyckel-ID
-openpgp-key-details-user-id2-label = Påstådd nyckelägare
 openpgp-key-details-user-id3-label = Påstådd nyckelägare
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Typ
 openpgp-key-details-key-part-label =
     .label = Nyckeldel
+
 openpgp-key-details-attr-ignored = Varning: Den här nyckeln kanske inte fungerar som förväntat, eftersom vissa av dess egenskaper är osäkra och kan ignoreras.
 openpgp-key-details-attr-upgrade-sec = Du bör uppgradera de osäkra egenskaperna.
 openpgp-key-details-attr-upgrade-pub = Du bör be ägaren av denna nyckel att uppgradera de osäkra egenskaperna.
+
 openpgp-key-details-upgrade-unsafe =
     .label = Uppgradera osäkra egenskaper
     .accesskey = e
+
 openpgp-key-details-upgrade-ok = Nyckeln har uppgraderats. Du bör dela den uppgraderade publika nyckeln med dina korrespondenter.
+
 openpgp-key-details-algorithm-label =
     .label = Algoritm
 openpgp-key-details-size-label =
@@ -292,6 +324,7 @@ openpgp-personal-no-label =
     .label = Nej, använd inte den som min personliga nyckel.
 openpgp-personal-yes-label =
     .label = Ja, behandla den här nyckeln som en personlig nyckel.
+
 openpgp-copy-cmd-label =
     .label = Kopiera
 
@@ -299,6 +332,7 @@ openpgp-copy-cmd-label =
 
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-no-key = { -brand-short-name } har ingen personlig OpenPGP-nyckel för <b>{ $identity }</b>
+
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-has-keys =
@@ -306,47 +340,69 @@ openpgp-description-has-keys =
         [one] { -brand-short-name } hittade { $count } personlig OpenPGP-nyckel kopplad till <b>{ $identity }</b>
        *[other] { -brand-short-name } hittade { $count } personliga OpenPGP-nycklar kopplade till <b>{ $identity }</b>
     }
+
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
+
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Din nuvarande konfiguration använder nyckeln <b>{ $key }</b> som har upphört.
+
 openpgp-add-key-button =
     .label = Lägg till nyckel…
     .accesskey = L
+
 e2e-learn-more = Läs mer
+
 openpgp-keygen-success = OpenPGP-nyckeln har skapats!
+
 openpgp-keygen-import-success = OpenPGP-nycklar har importerats!
+
 openpgp-keygen-external-success = Extern GnuPG nyckel-ID sparad!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Ingen
+
 openpgp-radio-none-desc = Använd inte OpenPGP för den här identiteten.
+
 openpgp-radio-key-not-usable = Denna nyckel kan inte användas som en personlig nyckel, eftersom den hemliga nyckeln saknas!
 openpgp-radio-key-not-accepted = För att använda den här nyckeln måste du godkänna den som en personlig nyckel!
 openpgp-radio-key-not-found = Den här nyckeln kunde inte hittas! Om du vill använda den måste du importera den till { -brand-short-name }.
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Upphör: { $date }
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Upphört: { $date }
+
 openpgp-key-expires-within-6-months-icon =
     .title = Nyckeln upphör om mindre än sex månader
+
 openpgp-key-has-expired-icon =
     .title = Nyckeln har upphört
+
 openpgp-key-expand-section =
     .tooltiptext = Mer information
+
 openpgp-key-revoke-title = Återkalla nyckel
+
 openpgp-key-edit-title = Ändra OpenPGP-nyckel
+
 openpgp-key-edit-date-title = Förläng utgångsdatum
+
 openpgp-manager-description = Använd OpenPGP-nyckelhanterare för att visa och hantera publika nycklar för dina korrespondenter och alla andra nycklar som inte listas ovan.
+
 openpgp-manager-button =
     .label = OpenPGP-nyckelhanterare
     .accesskey = O
+
 openpgp-key-remove-external =
     .label = Ta bort externt nyckel-ID
     .accesskey = T
+
 key-external-label = Extern GnuPG-nyckel
+
 # Strings in keyDetailsDlg.xhtml
 key-type-public = publik nyckel
 key-type-primary = primär nyckel
@@ -363,12 +419,15 @@ key-expired-simple = Nyckeln har upphört
 key-revoked-simple = Nyckeln återkallades
 key-do-you-accept = Accepterar du den här nyckeln för att verifiera digitala signaturer och för att kryptera meddelanden?
 key-verification = Verifiera nyckelns fingeravtryck med en annan säker kommunikationskanal än e-post för att säkerställa att det verkligen är nyckeln till { $addr }.
+
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Det går inte att skicka meddelandet eftersom det finns ett problem med din personliga nyckel. { $problem }
 cannot-encrypt-because-missing = Det går inte att skicka meddelandet med end-to-end kryptering eftersom det finns problem med nycklarna för följande mottagare: { $problem }
 window-locked = Skrivfönstret är låst; skicka avbruten
+
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Detta är en krypterad meddelandedel. Du måste öppna det i ett separat fönster genom att klicka på bilagan.
+
 # Strings in keyserver.jsm
 keyserver-error-aborted = Avbruten
 keyserver-error-unknown = Ett okänt fel uppstod
@@ -378,6 +437,7 @@ keyserver-error-unavailable = Nyckelservern är inte tillgänglig.
 keyserver-error-security-error = Nyckelservern stöder inte krypterad åtkomst.
 keyserver-error-certificate-error = Nyckelserverns certifikat är inte giltigt.
 keyserver-error-unsupported = Nyckelservern stöds inte.
+
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
     Din e-postleverantör behandlade din begäran om att ladda upp din publika nyckel till OpenPGP Web Key Directory.
@@ -385,11 +445,13 @@ wkd-message-body-req =
 wkd-message-body-process =
     Det här är ett e-postmeddelande relaterad till automatisk process för att ladda upp din publika nyckel till OpenPGP Web Key Directory.
     Du behöver inte vidta några manuella åtgärder vid denna tidpunkt.
+
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Det gick inte att dekryptera meddelandet med ämnet
     { $subject }.
     Vill du försöka igen med en annan lösenfras eller vill du hoppa över meddelandet?
+
 # Strings filters.jsm
 filter-folder-required = Du måste välja en målmapp.
 filter-decrypt-move-warn-experimental =
@@ -401,10 +463,12 @@ filter-key-not-found = Det gick inte att hitta en krypteringsnyckel för '{ $des
 filter-warn-key-not-secret =
     Varning - filteråtgärden "Kryptera till nyckel" ersätter mottagarna.
     Om du inte har den hemliga nyckeln för '{ $desc }' kommer du inte längre att kunna läsa e-postmeddelandena.
+
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dekryptera permanent (OpenPGP)
 filter-decrypt-copy-label = Skapa dekrypterad kopia (OpenPGP)
 filter-encrypt-label = Kryptera till nyckel (OpenPGP)
+
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Nycklar har importerats!
@@ -413,6 +477,7 @@ import-info-created = Skapad
 import-info-fpr = Fingeravtryck
 import-info-details = Visa detaljer och hantera nyckelacceptans
 import-info-no-keys = Inga nycklar importerade.
+
 # Strings in enigmailKeyManager.js
 import-from-clip = Vill du importera några nycklar från urklipp?
 import-from-url = Ladda ner publik nyckel från denna URL:
@@ -456,8 +521,10 @@ dlg-button-delete = &Ta bort
 
 openpgp-export-public-success = <b>Publik nyckel har exporterats!</b>
 openpgp-export-public-fail = <b>Det går inte att exportera den valda publika nyckeln!</b>
+
 openpgp-export-secret-success = <b>Hemlig nyckel har exporterats!</b>
 openpgp-export-secret-fail = <b>Det går inte att exportera den valda hemliga nyckeln!</b>
+
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Nyckeln { $userId } (nyckel-ID { $keyId }) har återkallats.
 key-ring-pub-key-expired = Nyckeln { $userId } (nyckel-ID { $keyId }) har upphört.
@@ -468,50 +535,68 @@ key-ring-sign-sub-keys-revoked = Alla signerings-undernycklar för nyckel { $use
 key-ring-sign-sub-keys-expired = Alla signerings-undernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har upphört.
 key-ring-enc-sub-keys-revoked = Alla krypteringsundernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats.
 key-ring-enc-sub-keys-expired = Alla krypteringsundernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har upphört.
+
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Användarattribut (JPEG-bild)
+
 # Strings in key.jsm
 already-revoked = Denna nyckel har redan återkallats.
+
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Du håller på att återkalla nyckeln '{ $identity }'.
     Du kommer inte längre att kunna signera med den här nyckeln och när den har distribuerats kommer andra inte längre att kunna kryptera med den nyckeln. Du kan fortfarande använda nyckeln för att dekryptera gamla meddelanden.
     Vill du fortsätta?
+
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     Du har ingen nyckel (0x{ $keyId }) som matchar detta återkallningscertifikat!
     Om du har tappat nyckeln måste du importera den (t.ex. från en nyckelserver) innan du importerar återkallningscertifikatet!
+
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Nyckeln 0x{ $keyId } har redan återkallats.
+
 key-man-button-revoke-key = &Återkalla nyckel
+
 openpgp-key-revoke-success = Nyckel har återkallats.
+
 after-revoke-info =
     Nyckeln har återkallats.
     Dela den här publika nyckeln igen, genom att skicka den via e-post eller genom att ladda upp den till nyckelservrar, för att låta andra veta att du har återkallat din nyckel.
     Så fort den programvara som används av andra människor lär sig om återkallelsen kommer den att sluta använda din gamla nyckel.
     Om du använder en ny nyckel för samma e-postadress och bifogar den nya publika nyckeln till e-postmeddelanden som du skickar kommer information om din återkallade gamla nyckel att inkluderas automatiskt.
+
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importera
+
 delete-key-title = Ta bort OpenPGP-nyckel
+
 delete-external-key-title = Ta bort den externa GnuPG-nyckeln
+
 delete-external-key-description = Vill du ta bort detta externa GnuPG nyckel-ID?
+
 key-in-use-title = OpenPGP-nyckel som för närvarande används
+
 delete-key-in-use-description = Det går inte att fortsätta! Den nyckel som du valde för borttagning används för närvarande av denna identitet. Välj en annan nyckel eller välj ingen och försök igen.
+
 revoke-key-in-use-description = Det går inte att fortsätta! Den nyckel du valt för återkallelse används för närvarande av denna identitet. Välj en annan nyckel eller välj ingen och försök igen.
+
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = E-postadressen '{ $keySpec }' kan inte matchas med en nyckel på din nyckelring.
 key-error-key-id-not-found = Det konfigurerade nyckel-ID '{ $keySpec }' kan inte hittas på din nyckelring.
 key-error-not-accepted-as-personal = Du har inte bekräftat att nyckeln med ID '{ $keySpec }' är din personliga nyckel.
+
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Funktionen du har valt är inte tillgänglig i offline-läge. Gå online och försök igen.
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Vi kunde inte hitta någon nyckel som matchar de angivna sökkriterierna.
+
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Vi kunde inte hitta någon användbar nyckel som matchade de angivna sökkriterierna.
 no-update-found = Du har redan nycklarna som upptäcktes online.
+
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Fel - nyckelutvinning misslyckades
+
 # Strings used in keyRing.jsm
 fail-cancel = Fel - nyckelmottagning avbruten av användaren
 not-first-block = Fel - första OpenPGP-blocket inte blocket för en publik nyckel
@@ -520,6 +605,7 @@ fail-key-import = Fel - nyckelimport misslyckades
 file-write-failed = Det gick inte att skriva till filen { $output }
 no-pgp-block = Fel - inget giltigt, armerat OpenPGP-datablock hittades
 confirm-permissive-import = Importen misslyckades. Nyckeln du försöker importera kan vara skadad eller använda okända attribut. Vill du försöka importera de korrekta delarna? Detta kan resultera i import av ofullständiga och oanvändbara nycklar.
+
 # Strings used in trust.jsm
 key-valid-unknown = okänd
 key-valid-invalid = ogiltig
@@ -531,6 +617,7 @@ key-trust-marginal = marginellt
 key-trust-full = betrodd
 key-trust-ultimate = ultimat
 key-trust-group = (grupp)
+
 # Strings used in commonWorkflows.js
 import-key-file = Importera OpenPGP-nyckelfil
 import-rev-file = Importera OpenPGP-återkallningsfil
@@ -538,6 +625,7 @@ gnupg-file = GnuPG-filer
 import-keys-failed = Importering av nycklarna misslyckades
 passphrase-prompt = Ange lösenfrasen som låser upp följande nyckel: { $key }
 file-to-big-to-import = Denna fil är för stor. Importera inte en stor uppsättning nycklar på en gång.
+
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Skapa och spara återkallningscertifikat
 revoke-cert-ok = Återkallningscertifikatet har skapats. Du kan använda det för att upphäva din publika nyckel, t.ex. om du skulle förlora din hemliga nyckel.
@@ -556,6 +644,7 @@ key-man-button-generate-key-continue = &Fortsätt nyckelgenerering
 
 failed-decrypt = Fel - dekryptering misslyckades
 fix-broken-exchange-msg-failed = Lyckades inte reparera meddelandet.
+
 attachment-no-match-from-signature = Det gick inte att matcha signaturfilen '{ $attachment }' till en bilaga
 attachment-no-match-to-signature = Det gick inte att matcha bilagan '{ $attachment }' till en signaturfil
 signature-verified-ok = Signaturen för bilaga { $attachment } har verifierats
@@ -565,6 +654,7 @@ decrypt-ok-no-sig =
     Dekryptering var framgångsrik, men signaturen kunde inte verifieras korrekt
 msg-ovl-button-cont-anyway = &Fortsätt ändå
 enig-content-note = *Bilagor till detta meddelande har inte signerats eller krypterats*
+
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Skicka meddelande
 msg-compose-details-button-label = Detaljer…
@@ -598,6 +688,7 @@ save-attachment-header = Spara dekrypterad bilaga
 possibly-pgp-mime = Eventuellt PGP/MIME-krypterat eller signerat meddelande; använd 'Dekryptera/verifiera'-funktionen för att verifiera
 cannot-send-sig-because-no-own-key = Det här meddelandet kan inte signeras digitalt, eftersom du ännu inte har konfigurerat end-to-end kryptering för <{ $key }>
 cannot-send-enc-because-no-own-key = Det går inte att skicka det här meddelandet krypterat eftersom du inte har konfigurerat end-to-end kryptering för <{ $key }>
+
 # Strings used in decryption.jsm
 do-import-multiple =
     Importera följande nycklar?
@@ -612,14 +703,18 @@ attachment-pgp-key =
     Bilagan '{ $name }' du öppnar verkar vara en OpenPGP-nyckelfil.
     Klicka på 'Importera' för att importera nycklarna eller 'Visa' för att se filinnehållet i ett webbläsarfönster
 dlg-button-view = &Visa
+
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Dekrypterat meddelande (återställ trasigt PGP e-postformat förmodligen orsakat av en gammal Exchange-server, så resultatet kanske inte går att läsa)
+
 # Strings used in encryption.jsm
 not-required = Fel - ingen kryptering krävs
+
 # Strings used in windows.jsm
 no-photo-available = Inget foto tillgängligt
 error-photo-path-not-readable = Fotosökväg '{ $photo }' är inte läsbar
 debug-log-title = OpenPGP Felsökningslogg
+
 # Strings used in dialog.jsm
 repeat-prefix = Denna varning kommer att upprepas { $count }
 repeat-suffix-singular = gång till.
@@ -634,9 +729,11 @@ enig-prompt = OpenPGP Prompt
 enig-confirm = OpenPGP Bekräftelse
 enig-alert = OpenPGP Varning
 enig-info = OpenPGP Information
+
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Försök igen
 dlg-button-skip = &Hoppa över
+
 # Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP-varning

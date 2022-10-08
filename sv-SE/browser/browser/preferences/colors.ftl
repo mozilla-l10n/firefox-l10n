@@ -9,35 +9,48 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-dialog =
     .title = Färger
     .style = width: 41em;
+
 colors-dialog2 =
     .title = Färger
     .style = min-width: 41em;
+
 colors-close-key =
     .key = w
+
 colors-page-override = Överskrid färgerna som specificerats på sidan med dina val ovan
     .accesskey = v
+
 colors-page-override-option-always =
     .label = Alltid
 colors-page-override-option-auto =
     .label = Endast med teman med hög kontrast
 colors-page-override-option-never =
     .label = Aldrig
+
 colors-text-and-background = Text och bakgrund
+
 colors-text-header = Text
     .accesskey = T
+
 colors-background = Bakgrund
     .accesskey = B
+
 colors-use-system =
     .label = Använd systemfärgerna
     .accesskey = s
+
 colors-underline-links =
     .label = Stryk under länkar
     .accesskey = u
+
 colors-links-header = Länkfärger
+
 colors-unvisited-links = Obesökta länkar
     .accesskey = O
+
 colors-visited-links = Besökta länkar
     .accesskey = e

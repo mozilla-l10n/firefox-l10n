@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Inställningar
     .accesskey = n
+
 menu-addons-and-themes =
     .label = Tillägg och teman
     .accesskey = T
@@ -20,39 +21,51 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Hjälp
     .accesskey = H
+
 menu-help-get-help =
     .label = Få hjälp
     .accesskey = F
+
 menu-help-explore-features =
     .label = Utforska funktioner
     .accesskey = t
+
 menu-help-shortcuts =
     .label = Tangentbordsgenvägar
     .accesskey = T
+
 menu-help-get-involved =
     .label = Engagera dig
     .accesskey = E
+
 menu-help-donation =
     .label = Gör en donation
     .accesskey = d
+
 menu-help-share-feedback =
     .label = Dela idéer och feedback
     .accesskey = D
+
 menu-help-enter-troubleshoot-mode =
     .label = Felsökningsläge…
     .accesskey = F
+
 menu-help-exit-troubleshoot-mode =
     .label = Stäng av felsökningsläge
     .accesskey = S
+
 menu-help-more-troubleshooting-info =
     .label = Mer felsökningsinformation
     .accesskey = M
+
 menu-help-troubleshooting-info =
     .label = Felsökningsinformation
     .accesskey = F
+
 menu-help-about-product =
     .label = Om { -brand-short-name }
     .accesskey = m
+
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -65,9 +78,11 @@ menu-quit =
             [windows] A
            *[other] A
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Avsluta { -brand-shorter-name }
+
 quit-app-shortcut =
     .key = A
 
@@ -97,33 +112,43 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Textstorlek
     .accesskey = e
+
 menuitem-font-size-enlarge =
     .label = Öka textstorlek
     .accesskey = k
+
 menuitem-font-size-reduce =
     .label = Minska textstorlek
     .accesskey = M
+
 menuitem-font-size-reset =
     .label = Återställ textstorlek
     .accesskey = t
+
 mail-uidensity-label =
     .label = Täthet
     .accesskey = T
+
 mail-uidensity-compact =
     .label = Kompakt
     .accesskey = K
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Touch
     .accesskey = T
+
 mail-uidensity-default =
     .label = Standard
     .accesskey = S
+
 mail-uidensity-relaxed =
     .label = Avslappnad
     .accesskey = A
+
 menu-spaces-toolbar-button =
     .label = Flikmeny
     .accesskey = F

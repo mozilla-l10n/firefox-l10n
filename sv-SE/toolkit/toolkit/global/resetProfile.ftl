@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Börja om för att lösa prestandaproblem. 
 refresh-profile = Ge { -brand-short-name } en finjustering
 refresh-profile-button = Återställ { -brand-short-name }…
 refresh-profile-learn-more = Läs mer
+
 refresh-profile-progress =
     .title = Återställ { -brand-short-name }
 refresh-profile-progress-description = Nästan färdig…

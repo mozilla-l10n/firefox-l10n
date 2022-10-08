@@ -104,6 +104,7 @@ tab-context-move-tabs =
            *[other] Flytta flikar
         }
     .accesskey = t
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

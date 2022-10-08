@@ -22,10 +22,12 @@ about-private-browsing-not-private = Du är för närvarande inte i ett privat f
 about-private-browsing-info-description-private-window = Privat fönster: { -brand-short-name } rensar din sök- och surfhistorik när du stänger alla privata fönster. Detta gör dig inte anonym.
 about-private-browsing-info-description-simplified = { -brand-short-name } rensar din sök- och surfhistorik när du stänger alla privata fönster, men det gör dig inte anonym.
 about-private-browsing-learn-more-link = Läs mer
+
 about-private-browsing-hide-activity = Dölj din aktivitet och plats, var du än surfar
 about-private-browsing-get-privacy = Få integritetsskydd överallt där du surfar
 about-private-browsing-hide-activity-1 = Dölj surfaktivitet och plats med { -mozilla-vpn-brand-name }. Ett klick skapar en säker anslutning, även på offentligt Wi-Fi.
 about-private-browsing-prominent-cta = Håll dig privat med { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Hämta { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat surfning när du är på språng
 about-private-browsing-focus-promo-text = Vår dedikerade mobilapp för privat surfning rensar din historik och kakor varje gång.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Ta privat surfning till din telefo
 about-private-browsing-focus-promo-text-b = Använd { -focus-brand-name } för de privata sökningar som du inte vill att din huvudsakliga mobilwebbläsare ska se.
 about-private-browsing-focus-promo-header-c = Sekretess på nästa nivå för mobila enheter
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } rensar din historik varje gång, samtidigt som annonser och spårare blockeras.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Stäng
+
 about-private-browsing-promo-close-button =
     .title = Stäng
 
