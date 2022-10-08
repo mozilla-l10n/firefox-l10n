@@ -9,6 +9,7 @@ neterror-page-title = Arazoa orria kargatzerakoan
 
 ## Error page actions
 
+neterror-try-again-button = Saiatu berriro
 
 ##
 
