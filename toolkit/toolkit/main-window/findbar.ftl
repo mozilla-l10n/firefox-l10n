@@ -31,6 +31,7 @@ findbar-entire-word =
     .label = Mots entiers
     .accesskey = M
     .tooltiptext = Rechercher seulement les mots entiers
+findbar-not-found = Expression non trouvée
 findbar-wrapped-to-top = Bas de la page atteint, poursuite au début
 findbar-wrapped-to-bottom = Haut de la page atteint, poursuite depuis le bas
 findbar-normal-find =
