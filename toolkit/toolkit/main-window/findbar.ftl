@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Hitro najdi (samo povezave)
 findbar-case-sensitive-status =
     .value = (razlikovanje malih in velikih črk)
+findbar-entire-word-status =
+    .value = (samo cele besede)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
