@@ -10,3 +10,7 @@
 
 pending-crash-reports-view-all =
     .label = Tampilkan
+pending-crash-reports-send =
+    .label = Kirim
+pending-crash-reports-always-send =
+    .label = Selalu Kirim
