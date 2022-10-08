@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Hitta nästa förekomst av frasen
 findbar-previous =
     .tooltiptext = Hitta föregående förekomst av frasen
-
 findbar-find-button-close =
     .tooltiptext = Stäng sökfältet
-
 findbar-highlight-all2 =
     .label = Markera alla
     .accesskey =
@@ -21,18 +19,20 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Markera alla förekomster av frasen
-
 findbar-case-sensitive =
     .label = Matcha VERSALER/gemener
     .accesskey = c
     .tooltiptext = Sök skiftlägeskänsligt
-
 findbar-match-diacritics =
     .label = Matcha diakritiska tecken
     .accesskey = k
     .tooltiptext = Skillnaden mellan accentbokstäver och deras basbokstäver (till exempel när du söker efter "ide", kommer inte "idé" att matchas)
-
 findbar-entire-word =
     .label = Hela ord
     .accesskey = H
     .tooltiptext = Sök endast hela ord
+findbar-not-found = Frasen hittades inte
+findbar-wrapped-to-top = Kommit till slutet på sidan, börjat om
+findbar-wrapped-to-bottom = Kommit till början på sidan, börjat om
+findbar-case-sensitive-status =
+    .value = (Skiftlägeskänslig)
