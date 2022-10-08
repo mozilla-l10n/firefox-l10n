@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Mearchuardach (nascanna amháin)
 findbar-case-sensitive-status =
     .value = (Cásíogair)
+findbar-entire-word-status =
+    .value = (Focail iomlána amháin)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
