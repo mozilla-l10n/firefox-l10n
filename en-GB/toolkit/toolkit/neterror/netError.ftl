@@ -14,6 +14,7 @@ neterror-malformed-uri-page-title = Invalid URL
 
 ## Error page actions
 
+neterror-advanced-button = Advanced…
 neterror-copy-to-clipboard-button = Copy text to clipboard
 neterror-learn-more-link = Learn more…
 neterror-open-portal-login-page-button = Open Network Login Page
