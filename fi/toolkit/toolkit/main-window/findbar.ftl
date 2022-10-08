@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Pikahaku (vain linkit)
 findbar-case-sensitive-status =
     .value = (Kirjainkoko huomioidaan)
+findbar-match-diacritics-status =
+    .value = (Erotetaan tarkkeet)
 findbar-entire-word-status =
     .value = (Vain kokonaiset sanat)
 # Variables:
