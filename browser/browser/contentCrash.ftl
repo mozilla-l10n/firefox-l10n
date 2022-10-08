@@ -10,6 +10,8 @@ crashed-subframe-message = <strong>Част от тази страница се 
 # but without any markup.
 crashed-subframe-title =
     .title = Част от тази страница се срина. За да уведомите { -brand-product-name } за този проблем и да го поправим по-бързо, изпратете доклад.
+crashed-subframe-learnmore-link =
+    .value = Научете повече
 crashed-subframe-submit =
     .label = Изпращане на доклад
     .accesskey = з
