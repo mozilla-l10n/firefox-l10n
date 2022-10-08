@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>חלק מדף זה קרס.</strong> כדי ליידע את { -brand-product-name } על בעיה זו ולתקן אותה מהר יותר, נא לשלוח דיווח.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = חלק מדף זה קרס. כדי ליידע את { -brand-product-name } על בעיה זו ולתקן אותה מהר יותר, נא לשלוח דיווח.
+crashed-subframe-learnmore-link =
+    .value = מידע נוסף
+crashed-subframe-submit =
+    .label = שליחת דיווח
+    .accesskey = ש
 
 ## Pending crash reports
 
