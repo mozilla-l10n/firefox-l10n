@@ -34,3 +34,32 @@ findbar-entire-word =
 findbar-not-found = Fraasi ei leitud
 findbar-wrapped-to-top = Jõuti lehe lõppu, jätkati algusest
 findbar-wrapped-to-bottom = Jõuti lehe algusse, jätkati lõpust
+findbar-normal-find =
+    .placeholder = Otsi lehelt
+findbar-fast-find =
+    .placeholder = Otsi kiirelt
+findbar-fast-find-links =
+    .placeholder = Otsi kiirelt (ainult linke)
+findbar-case-sensitive-status =
+    .value = (tõstutundlik)
+findbar-match-diacritics-status =
+    .value = (otsitakse diakriitikutega)
+findbar-entire-word-status =
+    .value = (ainult täissõnad)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current }. tulemus (kokku { $total } tulemus)
+           *[other] { $current }. tulemus (kokku { $total } tulemust)
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Rohkem kui { $limit } tulemus
+           *[other] Rohkem kui { $limit } tulemust
+        }
