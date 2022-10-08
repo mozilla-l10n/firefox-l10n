@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-toolbar-search =
+    .placeholder = Cari
 config-new-pref-name =
     .placeholder = Nama
 config-new-pref-value-boolean = Boolean
