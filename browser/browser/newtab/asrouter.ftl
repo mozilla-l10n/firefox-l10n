@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = คุณลักษณะที่แนะ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ทำไมฉันจึงเห็นสิ่งนี้
+
 cfr-doorhanger-extension-cancel-button = ไม่ใช่ตอนนี้
     .accesskey = ม
+
 cfr-doorhanger-extension-ok-button = เพิ่มตอนนี้
     .accesskey = พ
+
 cfr-doorhanger-extension-manage-settings-button = จัดการการตั้งค่าคำแนะนำ
     .accesskey = จ
+
 cfr-doorhanger-extension-never-show-recommendation = ไม่ต้องแสดงคำแนะนำนี้ให้ฉัน
     .accesskey = ส
+
 cfr-doorhanger-extension-learn-more-link = เรียนรู้เพิ่มเติม
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = โดย { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = คำแนะนำ
 cfr-doorhanger-extension-notification2 = แนะนำ
     .tooltiptext = ส่วนขยายที่แนะนำ
     .a11y-announcement = ส่วนขยายแนะนำที่มีอยู่
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = แนะนำ
@@ -75,9 +83,11 @@ cfr-protections-panel-link-text = เรียนรู้เพิ่มเต�
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = คุณสมบัติใหม่:
+
 cfr-whatsnew-button =
     .label = มีอะไรใหม่
     .tooltiptext = มีอะไรใหม่
+
 cfr-whatsnew-release-notes-link-text = อ่านบันทึกประจำรุ่น
 
 ## Enhanced Tracking Protection Milestones
@@ -185,6 +195,7 @@ spotlight-pin-secondary-button = ไม่ใช่ตอนนี้
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = เปิด { -brand-shorter-name } เลย
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,

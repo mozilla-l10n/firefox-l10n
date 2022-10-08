@@ -41,6 +41,7 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = ความคืบหน้า: ขั้นตอนที่ { $current } จาก { $total }
+
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -51,11 +52,13 @@ onboarding-welcome-steps-indicator2 =
 mr1-welcome-screen-hero-text =
     ทุกอย่างเริ่มจาก
     ที่นี่
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — นักออกแบบเฟอร์นิเจอร์ แฟน Firefox
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ปิดภาพเคลื่อนไหว
 
@@ -81,9 +84,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = เริ่มต้น
+
 mr1-onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
     .title = ตั้ง { -brand-short-name } เป็นเบราว์เซอร์หลักและปักหมุดเข้ากับแถบงาน
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของฉัน
@@ -101,13 +106,16 @@ mr1-onboarding-default-primary-button-label = ทำให้เป็นเบ�
 
 mr1-onboarding-import-header = นำทุกอย่างติดตัวไปด้วย
 mr1-onboarding-import-subtitle = นำเข้ารหัสผ่าน <br/>ที่คั่นหน้า และอื่น ๆ ของคุณ
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = นำเข้าจาก { $previous }
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = นำเข้าจากเบราว์เซอร์ก่อนหน้า
 mr1-onboarding-import-secondary-button-label = ไม่ใช่ตอนนี้
+
 mr2-onboarding-colorway-header = Life in color
 mr2-onboarding-colorway-subtitle = ชุดรูปแบบสีใหม่ที่สดใส มีให้ใช้ในช่วงเวลาจำกัด
 mr2-onboarding-colorway-primary-button-label = บันทึกชุดรูปแบบสี
@@ -117,20 +125,26 @@ mr2-onboarding-colorway-label-balanced = Balanced
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Bold
+
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = อัตโนมัติ
+
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ค่าเริ่มต้น
+
 mr1-onboarding-theme-header = ทำให้เป็นของคุณเอง
 mr1-onboarding-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยชุดตกแต่ง
 mr1-onboarding-theme-primary-button-label = บันทึกชุดตกแต่ง
 mr1-onboarding-theme-secondary-button-label = ไม่ใช่ตอนนี้
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ชุดตกแต่งระบบ
+
 mr1-onboarding-theme-label-light = สว่าง
 mr1-onboarding-theme-label-dark = มืด
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = เสร็จสิ้น
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -143,61 +157,74 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่าง
         ตามระบบปฏิบัติการ
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่าง
         ตามระบบปฏิบัติการ
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม
         เมนู และหน้าต่าง
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม
         เมนู และหน้าต่าง
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม
         เมนู และหน้าต่าง
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม
         เมนู และหน้าต่าง
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม
         เมนู และหน้าต่าง
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม
         เมนู และหน้าต่าง
+
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = ใช้ชุดรูปแบบสีนี้
+
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = ใช้ชุดรูปแบบสีนี้
+
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = สำรวจชุดรูปแบบสี { $colorwayName }
+
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = สำรวจชุดรูปแบบสี { $colorwayName }
+
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = สำรวจชุดตกแต่งเริ่มต้น
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = สำรวจชุดตกแต่งเริ่มต้น
 
@@ -225,13 +252,18 @@ mr2-onboarding-start-browsing-button-label = เริ่มการเรี�
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = เลือกภาษาของคุณ
+
 mr2022-onboarding-live-language-text = ให้ { -brand-short-name } พูดภาษาของคุณ
+
 mr2022-language-mismatch-subtitle = { -brand-short-name } ถูกแปลเป็นภาษาต่าง ๆ กว่า 90 ภาษาโดยชุมชนของเรา ดูเหมือนว่าระบบของคุณกำลังใช้ { $systemLanguage } และ { -brand-short-name } กำลังใช้ { $appLanguage }
+
 onboarding-live-language-button-label-downloading = กำลังดาวน์โหลดชุดภาษาสำหรับ { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = กำลังขอข้อมูลเกี่ยวกับภาษาที่มีให้ใช้…
 onboarding-live-language-installing = กำลังติดตั้งชุดภาษาสำหรับ { $negotiatedLanguage }…
+
 mr2022-onboarding-live-language-switch-to = เปลี่ยนเป็น { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = ใช้ { $appLanguage } ต่อไป
+
 onboarding-live-language-secondary-cancel-download = ยกเลิก
 onboarding-live-language-skip-button-label = ข้าม
 
@@ -254,12 +286,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] เก็บ { -brand-short-name } ไว้ใน Dock
        *[other] ปักหมุด { -brand-short-name } เข้ากับแถบงาน
     }
+
 fx100-upgrade-thanks-header = 100 คำขอบคุณ
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = นี่คือ { -brand-short-name } รุ่นที่ 100 ของเรา <em>ขอบคุณ</em>ที่ช่วยเราสร้างอินเทอร์เน็ตที่ดีและแข็งแกร่งขึ้น
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = นี่คือรุ่นที่ 100 ของเรา! ขอบคุณที่ร่วมเป็นส่วนหนึ่งของชุมชนของเรา สร้างอินเทอร์เน็ตที่ดีและแข็งแกร่งขึ้น ร่วมเดินทางกับเราไปอีก 100 รุ่นด้วยการนำ { -brand-short-name } มาไว้ใกล้คุณแค่เพียงคลิกเดียว
+
 mr2022-onboarding-secondary-skip-button-label = ข้ามขั้นตอนนี้
 
 ## MR2022 New User Pin Firefox screen strings
@@ -328,30 +362,37 @@ mr2022-onboarding-colorway-subtitle = เสียงที่เป็นอิ
 mr2022-onboarding-colorway-primary-button-label = ตั้งค่าชุดรูปแบบสี
 mr2022-onboarding-colorway-primary-button-label-continue = ตั้งค่าและดำเนินการต่อ
 mr2022-onboarding-existing-colorway-checkbox-label = ทำให้ { -firefox-home-brand-name } เป็นหน้าแรกที่เต็มไปด้วยสีสันของคุณ
+
 mr2022-onboarding-colorway-label-default = ค่าเริ่มต้น
 mr2022-onboarding-colorway-tooltip-default =
     .title = ค่าเริ่มต้น
 mr2022-onboarding-colorway-description-default = <b>ใช้สี { -brand-short-name } ปัจจุบันของฉัน</b>
+
 mr2022-onboarding-colorway-label-playmaker = เพลย์เมคเกอร์
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = เพลย์เมคเกอร์
 mr2022-onboarding-colorway-description-playmaker = <b>คุณคือเพลย์เมคเกอร์</b> คุณสร้างโอกาสในการชนะและช่วยทุกคนรอบตัวคุณยกระดับความสามารถในการเล่นเกมของพวกเขา
+
 mr2022-onboarding-colorway-label-expressionist = นักแสดงออก
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = นักแสดงออก
 mr2022-onboarding-colorway-description-expressionist = <b>คุณคือนักแสดงออก</b> คุณมองโลกแตกต่างออกไปและการสร้างสรรค์ของคุณก็กระตุ้นอารมณ์ของผู้อื่น
+
 mr2022-onboarding-colorway-label-visionary = ผู้มีวิสัยทัศน์
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = ผู้มีวิสัยทัศน์
 mr2022-onboarding-colorway-description-visionary = <b>คุณคือผู้มีวิสัยทัศน์</b> คุณตั้งคำถามกับสภาพที่เป็นอยู่และกระตุ้นให้ผู้อื่นจินตนาการถึงอนาคตที่ดีกว่า
+
 mr2022-onboarding-colorway-label-activist = นักกิจกรรม
 mr2022-onboarding-colorway-tooltip-activist =
     .title = นักกิจกรรม
 mr2022-onboarding-colorway-description-activist = <b>คุณคือนักกิจกรรม</b> คุณทำให้โลกนี้เป็นสถานที่ที่ดียิ่งขึ้นและชักนำให้ผู้อื่นเชื่อคุณ
+
 mr2022-onboarding-colorway-label-dreamer = คนช่างฝัน
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = คนช่างฝัน
 mr2022-onboarding-colorway-description-dreamer = <b>คุณคือคนช่างฝัน</b> คุณเชื่อว่าโชคเข้าข้างผู้กล้าเสมอและเป็นแรงบันดาลใจให้ผู้อื่นกล้า
+
 mr2022-onboarding-colorway-label-innovator = นักนวัตกรรม
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = นักนวัตกรรม

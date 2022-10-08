@@ -223,16 +223,12 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 
-openpgp-key-details-title =
-    .title = คุณสมบัติคีย์
-
 openpgp-key-details-signatures-tab =
     .label = ใบรับรอง
 openpgp-key-details-structure-tab =
     .label = โครงสร้าง
 openpgp-key-details-uid-certified-col =
     .label = ID ผู้ใช้ / รับรองโดย
-openpgp-key-details-user-id2-label = เจ้าของคีย์ที่ถูกกล่าวหา
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = ชนิด
@@ -527,9 +523,6 @@ key-error-not-accepted-as-personal = คุณยังไม่ได้ยื�
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = ฟังก์ชันที่คุณเลือกไม่สามารถใช้ได้ในโหมดออฟไลน์ โปรดออนไลน์และลองอีกครั้ง
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = เราไม่พบคีย์ใด ๆ ที่ตรงกับเกณฑ์การค้นหาที่ระบุ
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = ข้อผิดพลาด - คำสั่งการแยกคีย์ล้มเหลว

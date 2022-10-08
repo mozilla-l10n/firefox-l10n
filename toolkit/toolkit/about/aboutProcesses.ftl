@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = ตัวจัดการกระบวนการ
+
 # The Actions column
 about-processes-column-action =
     .title = การกระทำ
@@ -14,6 +15,7 @@ about-processes-shutdown-process =
     .title = เลิกโหลดแท็บและหยุดการทำงานของกระบวนการ
 about-processes-shutdown-tab =
     .title = ปิดแท็บ
+
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -50,6 +52,7 @@ about-processes-remote-sandbox-broker-process = ตัวกลาง Sandbox �
 about-processes-fork-server-process = ฟอร์คเซิร์ฟเวอร์ ({ $pid })
 about-processes-preallocated-process = จัดสรรล่วงหน้า ({ $pid })
 about-processes-utility-process = โปรแกรมอรรถประโยชน์ ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -83,6 +86,7 @@ about-processes-active-threads =
     { $active ->
        *[other] { $active } เธรดที่ใช้งานอยู่จาก { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -93,26 +97,33 @@ about-processes-inactive-threads =
     { $number ->
        *[other] { $number } เธรดที่ไม่ได้ใช้งาน
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = เธรด id: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = แท็บ: { $name }
 about-processes-preloaded-tab = แท็บใหม่ที่โหลดไว้ล่วงหน้า
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = เฟรมย่อย: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = เฟรมย่อย ({ $number }): { $shortUrl }
+
+## Utility process actor names
+
 # Utility process actor names
 about-processes-utility-actor-unknown = ตัวดำเนินการที่ไม่รู้จัก
 about-processes-utility-actor-audio-decoder = ตัวถอดรหัสเสียง
@@ -129,12 +140,15 @@ about-processes-utility-actor-audio-decoder = ตัวถอดรหัสเ�
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = เวลาของ CPU ทั้งหมด: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (กำลังวัด)
+
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = เวลาของ CPU ทั้งหมด: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = ว่าง
     .title = เวลาของ CPU ทั้งหมด: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -153,6 +167,7 @@ about-processes-cpu-fully-idle = ว่าง
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = วิวัฒนาการ: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

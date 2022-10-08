@@ -14,6 +14,7 @@
 
 <!ENTITY productHelp.label "ความช่วยเหลือของ &brandShortName;">
 <!ENTITY productHelp.accesskey "ค">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">
