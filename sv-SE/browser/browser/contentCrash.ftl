@@ -6,6 +6,10 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>En del av den här sidan kraschade.</strong> Skicka en rapport om du vill meddela { -brand-product-name } om problemet och få det åtgärdat snabbare.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = En del av denna sida kraschade. Skicka in en rapport om du vill informera { -brand-product-name } om problemet och åtgärda det snabbare.
 crashed-subframe-learnmore-link =
     .value = Läs mer
 crashed-subframe-submit =
