@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Tính năng được đề xuất
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
+
 cfr-doorhanger-extension-cancel-button = Không phải bây giờ
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Thêm vào ngay
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Quản lý các thiết lập được đề xuất
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Không hiển thị cho tôi đề xuất này
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Tìm hiểu thêm
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = bởi { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Đề xuất
 cfr-doorhanger-extension-notification2 = Đề xuất
     .tooltiptext = Tiện ích được đề xuất
     .a11y-announcement = Tiện ích được đề xuất có sẵn
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Đề xuất
@@ -75,9 +83,11 @@ cfr-protections-panel-link-text = Tìm hiểu thêm
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Tính năng mới:
+
 cfr-whatsnew-button =
     .label = Có gì mới
     .tooltiptext = Có gì mới
+
 cfr-whatsnew-release-notes-link-text = Đọc ghi chú phát hành
 
 ## Enhanced Tracking Protection Milestones
@@ -153,6 +163,7 @@ spotlight-total-cookie-protection-body = Trình chống cookie chung ngăn nhữ
 spotlight-total-cookie-protection-expanded = { -brand-short-name } xây dựng một hàng rào xung quanh cookie, giới hạn chúng ở trang web bạn đang truy cập để trình theo dõi không thể sử dụng chúng để theo dõi bạn. Với quyền truy cập sớm, bạn sẽ giúp tối ưu hóa tính năng này để chúng tôi có thể tiếp tục xây dựng một trang web tốt hơn cho mọi người.
 spotlight-total-cookie-protection-primary-button = Bật Trình chống cookie chung
 spotlight-total-cookie-protection-secondary-button = Không phải bây giờ
+
 cfr-total-cookie-protection-header = Nhờ có bạn, { -brand-short-name } trở nên riêng tư và an toàn hơn bao giờ hết
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -186,11 +197,13 @@ spotlight-pin-secondary-button = Không phải bây giờ
 
 mr2022-background-update-toast-title = { -brand-short-name } mới. Riêng tư hơn. Ít trình theo dõi hơn. Không có thỏa hiệp.
 mr2022-background-update-toast-text = Hãy thử { -brand-short-name } mới nhất ngay bây giờ, được nâng cấp với trình chống theo dõi mạnh nhất của chúng tôi.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Mở { -brand-shorter-name } ngay
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -209,6 +222,7 @@ firefoxview-cfr-body = Thêm vào đó, chuyển đổi liền mạch giữa cá
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Xin chào với { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Muốn thẻ đang mở nằm trên điện thoại của bạn? Lấy nó. Cần trang web mà bạn vừa truy cập? Nó đã trở lại với { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = Xem cách hoạt động

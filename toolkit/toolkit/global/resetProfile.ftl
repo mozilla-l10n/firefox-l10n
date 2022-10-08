@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Bắt đầu làm mới để khắc phục
 refresh-profile = Làm mới { -brand-short-name } như khi mới cài đặt
 refresh-profile-button = Khôi phục { -brand-short-name }…
 refresh-profile-learn-more = Tìm hiểu thêm
+
 refresh-profile-progress =
     .title = Làm mới { -brand-short-name }
 refresh-profile-progress-description = Sắp xong rồi…
