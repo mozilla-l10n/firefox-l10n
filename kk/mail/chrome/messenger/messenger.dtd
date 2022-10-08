@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Чат">
 <!ENTITY goChatCmd.accesskey "а">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Жұлдызшалы хабарлама">
 <!ENTITY prevStarredMsgCmd.accesskey "Ж">
 <!ENTITY folderMenu.label "Бума">

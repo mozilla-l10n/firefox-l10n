@@ -49,11 +49,13 @@ onboarding-welcome-steps-indicator =
 mr1-welcome-screen-hero-text =
     От осында
     басталады
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — жиһаз дизайнері, Firefox фанаты
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Анимацияларды сөндіру
 
@@ -79,9 +81,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Бастау
+
 mr1-onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
     .title = { -brand-short-name } негізгі браузер етіп, тапсырмалар панеліне бекітеді
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
@@ -99,13 +103,16 @@ mr1-onboarding-default-primary-button-label = Негізгі браузер қы
 
 mr1-onboarding-import-header = Барлығын өзіңізбен бірге алыңыз
 mr1-onboarding-import-subtitle = Парольдер, <br/>бетбелгілер және т.б. импорттаңыз.
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } ішінен импорттау
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
 mr1-onboarding-import-secondary-button-label = Қазір емес
+
 mr2-onboarding-colorway-header = Түрлі-түсті өмір
 mr2-onboarding-colorway-subtitle = Жаңа, жарық түстер схемалары. Шектеулі уақыт ішінде ғана қолжетімді.
 mr2-onboarding-colorway-primary-button-label = Түстер схемасын сақтау
@@ -115,20 +122,26 @@ mr2-onboarding-colorway-label-balanced = Теңгерілген
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Жуан
+
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Автоматты түрде
+
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Бастапқы
+
 mr1-onboarding-theme-header = Оны өзіңіздікі етіп қылу
 mr1-onboarding-theme-subtitle = { -brand-short-name } өнімін тема көмегімен жеке қылыңыз.
 mr1-onboarding-theme-primary-button-label = Теманы сақтау
 mr1-onboarding-theme-secondary-button-label = Қазір емес
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Жүйелік тема
+
 mr1-onboarding-theme-label-light = Ашық түсті
 mr1-onboarding-theme-label-dark = Күңгірт
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Дайын
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -141,61 +154,74 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         операциялық жүйе баптауларын қолдану.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         операциялық жүйе баптауларын қолдану.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         ашық түсті теманы қолдану.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         ашық түсті теманы қолдану.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         күңгірт түсті теманы қолдану.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         күңгірт түсті теманы қолдану.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         динамикалық, түрлі-түсті теманы қолдану.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         динамикалық, түрлі-түсті теманы қолдану.
+
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Бұл түстер схемасын қолдану.
+
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Бұл түстер схемасын қолдану.
+
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = { $colorwayName } түстер схемаларын шолу.
+
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = { $colorwayName } түстер схемаларын шолу.
+
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Бастапқы темаларды шолу.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Бастапқы темаларды шолу.
 
@@ -223,11 +249,14 @@ mr2-onboarding-start-browsing-button-label = Шолуды бастау
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Өз тіліңізді таңдаңыз
+
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } тілдік дестесі жүктеліп алынуда…
 onboarding-live-language-waiting-button = Қолжетімді тілдер алынуда…
 onboarding-live-language-installing = { $negotiatedLanguage } тілдік дестесі орнатылуда…
+
 mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } тіліне ауысу
 mr2022-onboarding-live-language-continue-in = { $appLanguage } тілінде жалғастыру
+
 onboarding-live-language-secondary-cancel-download = Бас тарту
 onboarding-live-language-skip-button-label = Аттап кету
 
@@ -249,12 +278,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] { -brand-short-name } өнімін Dock ішіне бекіту
        *[other] { -brand-short-name } өнімін тапсырмалар панеліне бекіту
     }
+
 fx100-upgrade-thanks-header = 100 рахмет
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Бұл - біздің 100-ші { -brand-short-name } шығарылымымыз. Жақсырақ, сау интернет құруға көмектескеніңіз үшін <em>сізге</em> рахмет.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Бұл біздің 100-ші шығарылымымыз! Біздің қауымдастықтың бір бөлігі болғаныңыз үшін рахмет. Келесі 100 шығарылым үшін { -brand-short-name } жақын ұстаңыз.
+
 mr2022-onboarding-secondary-skip-button-label = Бұл қадамды аттап кету
 
 ## MR2022 New User Pin Firefox screen strings
@@ -291,27 +322,34 @@ mr2022-onboarding-colorway-title = Сізге шабыт беретін түст
 mr2022-onboarding-colorway-subtitle = Тәуелсіз дауыстар мәдениетті өзгерте алады.
 mr2022-onboarding-colorway-primary-button-label = Түстер схемасын орнату
 mr2022-onboarding-colorway-primary-button-label-continue = Орнатып, жалғастыру
+
 mr2022-onboarding-colorway-label-default = Бастапқы
 mr2022-onboarding-colorway-tooltip-default =
     .title = Бастапқы
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Ағымдағы { -brand-short-name } түстері
 mr2022-onboarding-colorway-description-default = <b>Менің ағымдағы { -brand-short-name } түстерін қолдану.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Плеймейкер
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Плеймейкер
+
 mr2022-onboarding-colorway-label-expressionist = Экспрессионист
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Экспрессионист
+
 mr2022-onboarding-colorway-label-visionary = Визионер
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Визионер
+
 mr2022-onboarding-colorway-label-activist = Активист
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Активист
+
 mr2022-onboarding-colorway-label-dreamer = Армандаушы
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Армандаушы
+
 mr2022-onboarding-colorway-label-innovator = Жаңашыл
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Жаңашыл

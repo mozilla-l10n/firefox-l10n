@@ -9,3 +9,4 @@
 text-recognition-modal-searching-title = Суреттен мәтінді іздеу…
 text-recognition-modal-results-title = Мәтін суреттен көшірілді
 text-recognition-modal-close-button = Жабу
+

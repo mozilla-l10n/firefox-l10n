@@ -103,6 +103,7 @@ tab-context-move-tabs =
            *[other] Беттерді жылжыту
         }
     .accesskey = ы
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

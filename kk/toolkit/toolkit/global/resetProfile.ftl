@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Өнімділік мәселелерін �
 refresh-profile = { -brand-short-name } үдетіп жіберу
 refresh-profile-button = { -brand-short-name } жұмысын жаңғырту…
 refresh-profile-learn-more = Көбірек білу
+
 refresh-profile-progress =
     .title = { -brand-short-name } жаңарту
 refresh-profile-progress-description = Дайын болуға жақын…
