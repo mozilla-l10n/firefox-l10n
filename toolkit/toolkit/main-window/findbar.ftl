@@ -34,6 +34,8 @@ findbar-entire-word =
 findbar-not-found = Fann ikkje frasen
 findbar-wrapped-to-top = Nådde botnen av sida, held fram frå toppen
 findbar-wrapped-to-bottom = Nådde toppen av sida, held fram frå botnen
+findbar-entire-word-status =
+    .value = (Berre heile ord)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
