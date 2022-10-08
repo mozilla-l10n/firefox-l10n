@@ -10,9 +10,12 @@ certerror-page-title = Предупреждение: Вероятная угро
 certerror-sts-page-title = Соединение не установлено: Вероятная угроза безопасности
 neterror-blocked-by-policy-page-title = Заблокированная страница
 neterror-captive-portal-page-title = Вход в сеть
+neterror-dns-not-found-title = Сервер не найден
+neterror-malformed-uri-page-title = Некорректный URL
 
 ## Error page actions
 
+neterror-advanced-button = Дополнительно…
 neterror-copy-to-clipboard-button = Копировать текст в буфер обмена
 neterror-learn-more-link = Подробнее…
 neterror-open-portal-login-page-button = Открыть страницу входа в сеть
@@ -63,7 +66,14 @@ neterror-proxy-connect-failure-contact-admin = Свяжитесь с вашим 
 certerror-intro = { -brand-short-name } обнаружил вероятную угрозу безопасности и не стал открывать <b>{ $hostname }</b>. Если вы посетите этот сайт, злоумышленники могут попытаться похитить вашу информацию, такую как пароли, адреса электронной почты или данные банковских карт.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } обнаружил вероятную угрозу безопасности и не стал открывать <b>{ $hostname }</b>, так как для подключения к этому сайту необходимо установить защищённое соединение.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } обнаружил вероятную угрозу безопасности и не стал открывать <b>{ $hostname }</b>. Либо веб-сайт неправильно настроен, либо часы вашего компьютера установлены неправильно.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b>, вероятно, является безопасным сайтом, но защищённое соединение не может быть установлено. Эта проблема вызвана <b>{ $mitm }</b>, программным обеспечением на вашем компьютере или в вашей сети.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Дополнительная информация: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -86,6 +96,14 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Если вы 
 certerror-expired-cert-what-can-you-do-about-it-clock = Часы вашего компьютера показывают { DATETIME($now, dateStyle: "medium") }. Убедитесь, что в настройках системы вашего компьютера установлены правильные дата, время и часовой пояс, после чего перезагрузите <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Если ваши часы установлены правильно, то скорее всего неправильно настроен веб-сайт и вы ничего не сможете с этим сделать. Вы можете сообщить об этой проблеме администратору веб-сайта.
 certerror-bad-cert-domain-what-can-you-do-about-it = Скорее всего, эта проблема связана с самим веб-сайтом, и вы ничего не сможете с этим сделать. Вы можете сообщить администратору веб-сайта об этой проблеме.
+certerror-mitm-what-can-you-do-about-it-antivirus = Если ваша антивирусная программа содержит функциональность, которая сканирует защищённые соединения (часто называемую «веб-сканирование» или «https-сканирование», то вы можете отключить её. Если это не поможет, то вы можете удалить и переустановить антивирусное программное обеспечение.
+certerror-mitm-what-can-you-do-about-it-corporate = Если вы находитесь в корпоративной сети, то вы можете связаться со своим IT-отделом.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Если вы не знакомы с <b>{ $mitm }</b>, то, вероятно, это может быть атакой и вам не следует продолжать работу с сайтом.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Если вы не знакомы с <b>{ $mitm }</b>, то, вероятно, это может быть атакой и вы никак не сможете получить доступ к сайту.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> имеет политику безопасности называемую Форсированное защищённое соединение HTTP (HSTS), что означает, что { -brand-short-name } может подключиться к нему только через защищённое соединение. Вы не можете добавить исключение, чтобы посетить этот сайт.
