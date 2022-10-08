@@ -12,3 +12,5 @@ findbar-previous =
 findbar-not-found = Umshwana awutholakali
 findbar-wrapped-to-top = Finyelele esiphelweni sekhasi, qhubeka ekhasini elilandelayo phezulu
 findbar-wrapped-to-bottom = Finyelele phezulu ekhasini, qhubeka ekhasini elilandelayo phansi
+findbar-case-sensitive-status =
+    .value = (Udaba oluzwelayo)
