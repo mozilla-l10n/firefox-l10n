@@ -40,6 +40,18 @@ findbar-case-sensitive-status =
     .value = (осетљиво на мала и велика слова)
 findbar-match-diacritics-status =
     .value = (Проналазим дијакритике)
+findbar-entire-word-status =
+    .value = (само целе речи)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current }. од { $total } подударања
+            [few] { $current }. од { $total } подударања
+           *[other] { $current }. од { $total } подударања
+        }
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
