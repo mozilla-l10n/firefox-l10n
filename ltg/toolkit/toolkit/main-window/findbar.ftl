@@ -33,6 +33,16 @@ findbar-case-sensitive-status =
 findbar-entire-word-status =
     .value = (Whole words only)
 # Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [zero] { $current } nu { $total } atbiļsteibom
+            [one] { $current } nu { $total } atbiļsteibys
+           *[other] { $current } nu { $total } atbiļsteibom
+        }
+# Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
     .value =
