@@ -5,9 +5,22 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>En del av den här sidan kraschade.</strong> Skicka en rapport om du vill meddela { -brand-product-name } om problemet och få det åtgärdat snabbare.
+crashed-subframe-learnmore-link =
+    .value = Läs mer
+crashed-subframe-submit =
+    .label = Skicka in rapport
+    .accesskey = S
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Du har en ej inskickad kraschrapport
+       *[other] Du har { $reportCount } ej inskickade kraschrapporter
+    }
 pending-crash-reports-view-all =
     .label = Visa
 pending-crash-reports-send =
