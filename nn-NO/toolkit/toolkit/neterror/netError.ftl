@@ -20,6 +20,7 @@ neterror-override-exception-button = Godta risikoen og fortset
 neterror-return-to-previous-page-button = Gå tilbake
 neterror-return-to-previous-page-recommended-button = Gå tilbake (Tilrådd)
 neterror-try-again-button = Prøv på nytt
+neterror-view-certificate-link = Vis sertifikat
 
 ##
 
