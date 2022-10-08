@@ -31,5 +31,6 @@ findbar-entire-word =
     .label = Mots entièrs
     .accesskey = m
     .tooltiptext = Cercar sonque los mots entièrs
+findbar-not-found = Frasa pas trobada
 findbar-case-sensitive-status =
     .value = (Sensible a la cassa)
