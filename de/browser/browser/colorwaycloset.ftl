@@ -5,17 +5,21 @@
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Läuft am { DATETIME($expiryDate, month: "long", day: "numeric") } ab
+
 # Document title, not shown in the UI but exposed through accessibility APIs
 colorways-modal-title = Wählen Sie Ihre Farbwelt
+
 colorway-intensity-selector-label = Intensität
 colorway-intensity-soft = Weich
 colorway-intensity-balanced = Ausgewogen
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 colorway-intensity-bold = Kühn
+
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Farbwelt festlegen
 colorway-closet-cancel-button = Abbrechen
+
 colorway-homepage-reset-prompt = Machen Sie { -firefox-home-brand-name } zu Ihrer farbenfrohen Startseite
 colorway-homepage-reset-success-message = { -firefox-home-brand-name } ist jetzt Ihre Startseite
 colorway-homepage-reset-apply-button = Anwenden

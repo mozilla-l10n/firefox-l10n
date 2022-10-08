@@ -8,18 +8,22 @@ password-quality-meter = Passwort-Qualitätsmessung
 
 change-device-password-window =
     .title = Passwort ändern
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Kryptographie-Modul: { $tokenName }
 change-password-old = Aktuelles Passwort:
 change-password-new = Neues Passwort:
 change-password-reenter = Neues Passwort (nochmals):
+
 pippki-failed-pw-change = Passwort konnte nicht geändert werden.
 pippki-incorrect-pw = Sie haben nicht das richtige aktuelle Passwort eingegeben. Bitte versuchen Sie es erneut.
 pippki-pw-change-ok = Passwort erfolgreich geändert.
+
 pippki-pw-empty-warning = Ihre gespeicherten Passwörter und privaten Schlüssel werden nicht geschützt.
 pippki-pw-erased-ok = Sie haben Ihr Passwort gelöscht. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Warnung! Sie haben sich entschieden, kein Passwort zu verwenden. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Sie sind derzeit im FIPS-Modus. FIPS benötigt ein nicht leeres Passwort.
 
 ## Reset Primary Password dialog
@@ -27,12 +31,14 @@ pippki-pw-change2empty-in-fips-mode = Sie sind derzeit im FIPS-Modus. FIPS benö
 reset-primary-password-window =
     .title = Hauptpasswort zurücksetzen
     .style = width: 40em
+
 reset-primary-password-window2 =
     .title = Hauptpasswort zurücksetzen
     .style = min-width: 40em
 reset-password-button-label =
     .label = Zurücksetzen
 reset-primary-password-text = Wenn Sie Ihr Hauptpasswort zurücksetzen, gehen all Ihre gespeicherten Web- und E-Mail-Passwörter, Formulardaten, persönlichen Zertifikate und privaten Schlüssel verloren. Soll Ihr Hauptpasswort trotzdem zurückgesetzt werden?
+
 pippki-reset-password-confirmation-title = Hauptpasswort zurücksetzen
 pippki-reset-password-confirmation-message = Ihr Hauptpasswort wurde zurückgesetzt.
 
@@ -41,6 +47,7 @@ pippki-reset-password-confirmation-message = Ihr Hauptpasswort wurde zurückgese
 download-cert-window =
     .title = Herunterladen des Zertifikats
     .style = width: 46em
+
 download-cert-window2 =
     .title = Herunterladen des Zertifikats
     .style = min-width: 46em

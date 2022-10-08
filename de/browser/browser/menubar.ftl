@@ -38,9 +38,11 @@ menu-quit =
             [windows] B
            *[other] B
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } beenden
+
 menu-about =
     .label = Über { -brand-shorter-name }
     .accesskey = e

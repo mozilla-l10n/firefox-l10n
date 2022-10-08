@@ -144,10 +144,6 @@ message-header-msg-flagged =
     .title = Gekennzeichnet
     .aria-label = Gekennzeichnet
 
-message-header-msg-not-flagged =
-    .title = Nicht gekennzeichnet
-    .aria-label = Nicht gekennzeichnet
-
 # Variables:
 # $address (String) - The email address of the recipient this picture belongs to.
 message-header-recipient-avatar =
@@ -198,12 +194,6 @@ toolbar-context-menu-remove-extension =
     .accesskey = n
 
 ## Message headers
-
-message-header-address-in-address-book-icon =
-  .alt = Adresse ist im Adressbuch
-
-message-header-address-not-in-address-book-icon =
-  .alt = Adresse ist nicht im Adressbuch
 
 ## Add-on removal warning
 
@@ -276,15 +266,6 @@ spaces-context-new-window-item =
 spaces-context-switch-tab-item =
     .label = Wechseln zu { $tabName }
 
-settings-context-open-settings-item =
-    .label = Einstellungen öffnen
-
-settings-context-open-account-settings-item =
-    .label = Konten-Einstellungen öffnen
-
-settings-context-open-addons-item =
-    .label = Add-ons und Themes öffnen
-
 settings-context-open-settings-item2 =
     .label = Einstellungen
 
@@ -298,24 +279,6 @@ settings-context-open-addons-item2 =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Bereiche-Menü
-
-spaces-pinned-button-menuitem-mail =
-    .label = { spaces-toolbar-button-mail2.title }
-
-spaces-pinned-button-menuitem-address-book =
-    .label = { spaces-toolbar-button-address-book2.title }
-
-spaces-pinned-button-menuitem-calendar =
-    .label = { spaces-toolbar-button-calendar2.title }
-
-spaces-pinned-button-menuitem-tasks =
-    .label = { spaces-toolbar-button-tasks2.title }
-
-spaces-pinned-button-menuitem-chat =
-    .label = { spaces-toolbar-button-chat2.title }
-
-spaces-pinned-button-menuitem-settings =
-    .label = { spaces-toolbar-button-settings2.title }
 
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }

@@ -27,29 +27,14 @@ message-header-tags-list-name = Schlagwörter
 ## Other message headers.
 ## The field-separator is for screen readers to separate the field name from the field value.
 
-message-header-to-field = An<span data-l10n-name="field-separator">:</span>
-
-message-header-from-field = Von<span data-l10n-name="field-separator">:</span>
-
-message-header-sender-field = Absender<span data-l10n-name="field-separator">:</span>
-
 message-header-author-field = Autor<span data-l10n-name="field-separator">:</span>
 
 message-header-organization-field = Organisation<span data-l10n-name="field-separator">:</span>
 
-message-header-reply-to-field = Antwort an<span data-l10n-name="field-separator">:</span>
-
 message-header-subject-field = Betreff<span data-l10n-name="field-separator">:</span>
-
-message-header-cc-field = Kopie (CC)<span data-l10n-name="field-separator">:</span>
-
-message-header-bcc-field = Blindkopie (BCC)<span data-l10n-name="field-separator">:</span>
-
-message-header-newsgroups-field = Newsgruppen<span data-l10n-name="field-separator">:</span>
 
 message-header-followup-to-field = Followup an<span data-l10n-name="field-separator">:</span>
 
-message-header-tags-field = Schlagwörter<span data-l10n-name="field-separator">:</span>
 
 message-header-date-field = Datum<span data-l10n-name="field-separator">:</span>
 
@@ -68,6 +53,8 @@ message-header-website-field = Webseite<span data-l10n-name="field-separator">:<
 # because it is generated from the raw field name found in the email header.
 #   $fieldName (String) - The field name.
 message-header-custom-field = { $fieldName }<span data-l10n-name="field-separator">:</span>
+
+##
 
 message-header-address-in-address-book-icon2 =
   .alt = In einem Adressbuch
