@@ -8,5 +8,7 @@
 
 ## Pending crash reports
 
+pending-crash-reports-view-all =
+    .label = មើល​
 pending-crash-reports-always-send =
     .label = ផ្ញើ​ជានិច្ច
