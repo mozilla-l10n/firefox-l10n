@@ -42,3 +42,5 @@ findbar-fast-find-links =
     .placeholder = Хуткі пошук (толькі спасылкі)
 findbar-case-sensitive-status =
     .value = (Адрозніваць вялікія/малыя літары)
+findbar-entire-word-status =
+    .value = (Толькі словы цалкам)
