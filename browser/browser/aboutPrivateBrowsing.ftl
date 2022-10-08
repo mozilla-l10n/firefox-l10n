@@ -22,10 +22,12 @@ about-private-browsing-not-private = Tuchylu njejsćo w priwatnem woknje.
 about-private-browsing-info-description-private-window = Priwatne wokno: { -brand-short-name } wašu pytańsku a pśeglědowańsku historiju lašujo, gaž wšykne priwatne wokna zacynjaśo. Pśez to njebuźośo anonymny.
 about-private-browsing-info-description-simplified = { -brand-short-name } wašu pytańsku a pśeglědowańsku historiju lašujo, gaž wšykne priwatne wokna zacynjaśo, ale pśez to njebuźośo anonymny.
 about-private-browsing-learn-more-link = Dalšne informacije
+
 about-private-browsing-hide-activity = Schowajśo swóju aktiwitu a stojnišćo, źožkuli wobglědowak wužywaśo
 about-private-browsing-get-privacy = Wobstarajśo se šćit priwatnosći wšuźi, źož pśeglědujośo
 about-private-browsing-hide-activity-1 = Schowajśo pśeglědowańsku aktiwitu a stojnišćo z { -mozilla-vpn-brand-name }. Z jadnym kliknjenim napórajośo zwisk, samo w zjawnem WLAN:
 about-private-browsing-prominent-cta = Šćitajśo swóju priwatnosć z { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ześěgnuś
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus pó droze
 about-private-browsing-focus-promo-text = Našo mobilne, za priwatny modus myslone nałoženje wašu historiju a cookieje kuždy cas prozni.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Pśinjasćo priwatne pśeglědowan
 about-private-browsing-focus-promo-text-b = Wužywajśo { -focus-brand-name } za te priwatne pytanja, kótarež njama waš głowny mobilny wobglědowak wiźeś.
 about-private-browsing-focus-promo-header-c = Priwatnosć pśiducego schójźeńka za mobilne rědy
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } wašu historiju kuždy raz lašujo, gaž wabjenje a pśeslědowaki blokěrujośo.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zacyniś
+
 about-private-browsing-promo-close-button =
     .title = Zacyniś
 

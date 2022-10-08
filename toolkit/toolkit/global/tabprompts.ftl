@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Mě wužywarja:
 tabmodalprompt-password =
     .value = Gronidło:
+
 tabmodalprompt-ok-button =
     .label = W pórěźe
 tabmodalprompt-cancel-button =
