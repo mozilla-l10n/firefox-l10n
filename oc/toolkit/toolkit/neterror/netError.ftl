@@ -28,6 +28,7 @@ neterror-view-certificate-link = Mostrar lo certificat
 
 ##
 
+neterror-pref-reset = Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?
 neterror-error-reporting-automatic = Senhalar de talas errors ajuda { -vendor-short-name } a identificar e blocar de sites malvolents
 
 ## Specific error messages
@@ -81,6 +82,11 @@ neterror-corrupted-content-intro = La pagina qu'ensajatz de veire pòt pas èsse
 neterror-corrupted-content-contact-website = Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Informacion avançada: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> utiliza una tecnologia de seguretat obsolèta e vulnerabla a las atacas. Un atacant poiriá aisidament revelar d'informacions que pensèssetz èsser seguras. L'administrator del site web deurà d'en primièr adobar lo servidor abans que poguèssetz visitar lo site.
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = Error code : NS_ERROR_NET_INADEQUATE_SECURITY
 neterror-network-protocol-error-intro = La pagina que volètz veire pòt pas èsser afichada a causa d’una error de protocòl ret detectada.
 neterror-network-protocol-error-contact-website = Mercés de contactar los proprietaris del site web per los informar d’aqueste problèma.
 certerror-expired-cert-second-para = Es probable que lo certificat del site Web s'acabèt, çò qu'empacha { -brand-short-name } de se connectar en tota seguretat. En visitant aqueste site, los atacaires poirián ensajar de panar d'informacions coma los senhals, las adreças electronicas o las donadas de cartas bancàrias.
