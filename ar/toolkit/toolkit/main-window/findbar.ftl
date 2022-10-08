@@ -34,5 +34,7 @@ findbar-entire-word =
 findbar-not-found = لا وجود للعبارة
 findbar-wrapped-to-top = تابعت من الأعلى بعدما وصلت إلى نهاية الصفحة
 findbar-wrapped-to-bottom = تابعت من الأسفل بعدما وصلت إلى بداية الصفحة
+findbar-fast-find =
+    .placeholder = بحث سريع
 findbar-case-sensitive-status =
     .value = (حساس لحالة الأحرف)
