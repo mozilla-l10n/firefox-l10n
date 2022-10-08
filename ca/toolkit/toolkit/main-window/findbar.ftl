@@ -34,5 +34,28 @@ findbar-entire-word =
 findbar-not-found = No s'ha trobat l'expressió
 findbar-wrapped-to-top = S'ha arribat al final de la pàgina, es continua des de dalt
 findbar-wrapped-to-bottom = S'ha arribat al començament de la pàgina, es continua des de baix
+findbar-normal-find =
+    .placeholder = Cerca a la pàgina
+findbar-fast-find =
+    .placeholder = Cerca ràpida
+findbar-fast-find-links =
+    .placeholder = Cerca ràpida (només els enllaços)
 findbar-case-sensitive-status =
     .value = (Distingeix entre majúscules i minúscules)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Coincidència { $current } de { $total }
+           *[other] Coincidències { $current } de { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Més d'{ $limit } coincidència
+           *[other] Més de { $limit } coincidències
+        }
