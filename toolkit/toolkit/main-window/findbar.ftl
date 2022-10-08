@@ -9,7 +9,10 @@ findbar-next =
     .tooltiptext = Kuma laha ku landzelaka ku tirhisiwaka xivulwa-hava
 findbar-previous =
     .tooltiptext = Kuma laha ku nag hundza ku tirhisiweke xivulwa-hava
-
 findbar-find-button-close =
     .tooltiptext = Pfala bara leyi kumekeke
-
+findbar-not-found = Xivulwa-hava a xi kumeki
+findbar-wrapped-to-top = Ku fikiwile emakumu ka pheji, ku sunguriwile ehenhla
+findbar-wrapped-to-bottom = Ku fikiwile ehenhla ka pheji, ku sunguriwile ehansi
+findbar-case-sensitive-status =
+    .value = (Case sensitive)
