@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Zladënk certifikatów
     .style = width: 46em
+
 download-cert-window2 =
     .title = Zladënk certifikatów
     .style = min-width: 46em

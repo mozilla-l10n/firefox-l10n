@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Miono brëkòwnika:
 tabmodalprompt-password =
     .value = Parola:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

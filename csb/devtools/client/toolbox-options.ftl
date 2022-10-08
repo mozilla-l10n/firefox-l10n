@@ -44,8 +44,3 @@ options-enable-remote-label = Włączë zdalné debùgging
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Wëskrzëni pòdôwczi platfòrmë Gecko
-options-show-platform-data-tooltip =
-    .title = Żlë włączëc nã òptacjã, profiler JavaScript dodô cechë platfòrmë Gecko do rapòrtów
