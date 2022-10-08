@@ -30,3 +30,22 @@ findbar-fast-find-links =
     .placeholder = ಕ್ಷಿಪ್ರ ಹುಡುಕಾಟ (ಕೊಂಡಿಗಳು ಮಾತ್ರ)
 findbar-case-sensitive-status =
     .value = (ಕೇಸ್ ಸಂವೇದಿ)
+findbar-entire-word-status =
+    .value = (ಸಂಪೂರ್ಣ ಪದಗಳನ್ನು ಮಾತ್ರ)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $total } ರಲ್ಲಿ { $current } ಹೊಂದುತ್ತದೆ
+           *[other] { $total } ರಲ್ಲಿ { $current } ಹೊಂದುತ್ತವೆ
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } ಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಹೊಂದುತ್ತದೆ
+           *[other] { $limit } ಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಹೊಂದುತ್ತವೆ
+        }
