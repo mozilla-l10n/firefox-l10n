@@ -9,7 +9,9 @@ neterror-captive-portal-page-title = ජාලයට පිවිසෙන්න
 
 ## Error page actions
 
+neterror-override-exception-button = අවදානම පිළිගෙන ඉදිරියට යන්න
 neterror-try-again-button = නැවත උත්සාහ කරන්න
+neterror-view-certificate-link = සහතිකය පෙන්වන්න
 
 ##
 
