@@ -4,6 +4,7 @@
 
 page-title = Informoj por solvado de problemoj
 page-subtitle = Tiu ĉi paĝo enhavas teĥnikajn informojn kiuj povas esti utilaj kiam vi klopodas solvi problemon. Se vi serĉas respondojn al oftaj demandoj pri  { -brand-short-name }, bonvolu viziti nian <a data-l10n-name="support-link">helporetejon</a>.
+
 crashes-title = Raportoj pri paneoj
 crashes-id = Identigilo de raporto
 crashes-send-date = Sendita
@@ -74,10 +75,12 @@ app-basics-key-mozilla = Ŝlosilo de la servo de pozicio de Mozilla
 app-basics-safe-mode = Sekura reĝimo
 app-basics-memory-size = Grando de memoro (RAM)
 app-basics-disk-available = Disponebla diska spaco
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Montri en dosierserĉilo
@@ -196,6 +199,7 @@ report-crash-for-days =
         [one] Raportoj pri paneo dum la lasta tago
        *[other] Raportoj pri paneo dum la lastaj { $days } tagoj
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -203,6 +207,7 @@ crashes-time-minutes =
         [one] antaŭ { $minutes } minuto
        *[other] antaŭ { $minutes } minutoj
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -210,6 +215,7 @@ crashes-time-hours =
         [one] antaŭ { $hours } horo
        *[other] antaŭ { $hours } horoj
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -217,6 +223,7 @@ crashes-time-days =
         [one] antaŭ { $days } tago
        *[other] antaŭ { $days } tagoj
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -224,6 +231,7 @@ pending-reports =
         [one] Ĉiuj raportoj pri paneo (kun { $reports } traktota paneo en la donita intertempo)
        *[other] Ĉiuj raportoj pri paneo (kun { $reports } traktotaj paneoj en la donita intertempo)
     }
+
 raw-data-copied = Krudaj datumoj kopiitaj al tondujo
 text-copied = Teksto kopiita al tondujo
 
@@ -236,9 +244,11 @@ blocked-mismatched-version = Blokita pro la nekongruo de versio de pelilo inter 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokita por via versio de grafika pelilo. Klopodu ĝisdatigi vian grafikan pelilon al la versio { $driverVersion } aŭ al pli nova.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Agordoj de ClearType
+
 compositing = Komponado
 hardware-h264 = Aparata malkodigo de H264
 main-thread-no-omtc = ĉefa fadeno, sen OMTC
@@ -253,6 +263,7 @@ virtual-monitor-disp = Virtuala ekrano
 
 found = Trovita
 missing = Mankanta
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Priskribo
@@ -275,15 +286,19 @@ webgl2-renderer = Pelilo de la videbligo WebGL2
 webgl2-version = WebGL 2 GL versio
 webgl2-driver-extensions = Etendaĵoj de pelilo WebGL 2
 webgl2-extensions = WebGL 2 GL etendaĵoj
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blokita pro konataj problemoj: <a data-l10n-name="bug-link">eraro{ $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = En bloklisto; kodo de malsukceso { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Komponisto
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Videa malkodilo
+
 reset-on-next-restart = Restarigi en la venonta restarto
 gpu-process-kill-button = Fini procezon de GPU
 gpu-device-reset = Restartigi aparaton
@@ -293,8 +308,10 @@ content-uses-tiling = Kaheloj uzataj (enhavo)
 off-main-thread-paint-enabled = La farbado ekster la ĉefa fadeno estas aktiva
 off-main-thread-paint-worker-count = Nombro de workers, kiuj farbas ekster la ĉefa fadeno
 target-frame-rate = Celata frekvenco de kadroj
+
 min-lib-versions = Minimuma atendita versio
 loaded-lib-versions = Uzata versio
+
 has-seccomp-bpf = Seccomp-BPF (Filtrado de sistemaj vokoj)
 has-seccomp-tsync = Sinkronigo de fadenoj de Seccomp
 has-user-namespaces = Nomspacoj de uzanto
@@ -308,15 +325,18 @@ sandbox-proc-type-content = enhavo
 sandbox-proc-type-file = enhavo de dosiero
 sandbox-proc-type-media-plugin = aŭdvida kromprogramo
 sandbox-proc-type-data-decoder = malkodilo de datumoj
+
 startup-cache-title = Starta staplo
 startup-cache-disk-cache-path = Vojo al la diska staplo
 startup-cache-ignore-disk-cache = Ignori diskan staplon
 startup-cache-found-disk-cache-on-init = Diska staplo trovita je starto
 startup-cache-wrote-to-disk-cache = Skribado al diska staplo
+
 launcher-process-status-0 = Aktiva
 launcher-process-status-1 = Malaktiva pro paneo
 launcher-process-status-2 = Devigite malaktiva
 launcher-process-status-unknown = Nekonata stato
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -336,6 +356,7 @@ fission-status-enabled-by-user-pref = Aktivigita de uzanto
 fission-status-disabled-by-user-pref = Malaktivigita de uzanto
 fission-status-disabled-by-e10s-other = E10s malaktiva
 fission-status-enabled-by-rollout = Aktivigita de laŭgrada livero
+
 async-pan-zoom = Nesinkrona panoramado kaj skaligo
 apz-none = neniu
 wheel-enabled = rada enigo aktiva
@@ -372,6 +393,7 @@ support-remote-experiments-title = Forigi eksperimentojn
 support-remote-experiments-name = Nomo
 support-remote-experiments-branch = Eksperimenta branĉo
 support-remote-experiments-see-about-studies = Vidu <a data-l10n-name="support-about-studies-link">about:studies</a> por havi pli da informo, ekzemple, kiel malaktivigi unuopajn eksperimentojn aŭ kiel eviti ke { -brand-short-name } rulu ĉi tiajn tipojn de eksperimentoj en la estonteco.
+
 support-remote-features-title = Foraj trajtoj
 support-remote-features-name = Nomo
 support-remote-features-status = Stato

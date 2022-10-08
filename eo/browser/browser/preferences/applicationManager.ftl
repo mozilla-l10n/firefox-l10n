@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Detaloj de programo
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Detaloj de programo
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Forigi
     .accesskey = F
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = La jenaj programoj povas esti uzitaj por pritrakti { $type } ligiloj.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = La jenaj programoj povas esti uzitaj por pritrakti { $type } enhavo.

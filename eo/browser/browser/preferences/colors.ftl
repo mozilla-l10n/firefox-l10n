@@ -9,35 +9,48 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-dialog =
     .title = Koloroj
     .style = width: 41em;
+
 colors-dialog2 =
     .title = Koloroj
     .style = min-width: 41em;
+
 colors-close-key =
     .key = w
+
 colors-page-override = Superregi la kolorojn specifitajn de la paĝo per viaj supraj elektoj
     .accesskey = S
+
 colors-page-override-option-always =
     .label = Ĉiam
 colors-page-override-option-auto =
     .label = Nur en etosojkun granda konstrasto
 colors-page-override-option-never =
     .label = Neniam
+
 colors-text-and-background = Teksto kaj fono
+
 colors-text-header = Teksto
     .accesskey = T
+
 colors-background = Fono
     .accesskey = F
+
 colors-use-system =
     .label = Uzi la kolorojn de la sistemo
     .accesskey = z
+
 colors-underline-links =
     .label = Substreki ligojn
     .accesskey = s
+
 colors-links-header = Ligaj koloroj
+
 colors-unvisited-links = Nevizititaj ligiloj
     .accesskey = N
+
 colors-visited-links = Vizititaj ligiloj
     .accesskey = V
