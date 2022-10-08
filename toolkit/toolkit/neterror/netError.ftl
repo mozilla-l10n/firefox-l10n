@@ -11,6 +11,7 @@ certerror-sts-page-title = Nepripojené: možné bezpečnostné riziko
 neterror-blocked-by-policy-page-title = Zablokovaná stránka
 neterror-captive-portal-page-title = Prihlásiť sa do siete
 neterror-dns-not-found-title = Server sa nenašiel
+neterror-malformed-uri-page-title = Neplatná URL adresa
 
 ## Error page actions
 
