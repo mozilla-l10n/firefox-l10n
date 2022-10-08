@@ -122,8 +122,3 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * वर्तमान सत्र केवल, फिर से पृष्ठ लोड करता है
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = दिखाएँ गेक्को मंच डेटा
-options-show-platform-data-tooltip =
-    .title = आप इस विकल्प को सक्षम जावास्क्रिप्ट प्रोफाइलर रिपोर्टों गेक्को मंच प्रतीकों शामिल होंगे.

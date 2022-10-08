@@ -55,8 +55,11 @@ perftools-thread-render-backend =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = वेब डेवलपर
+
 perftools-presets-firefox-label = { -brand-shorter-name }
+
 perftools-presets-graphics-label = ग्राफिक्स
+
 perftools-presets-media-label = मीडिया
 
 ##

@@ -4,6 +4,7 @@
 
 page-title = विघ्ननिवारण सूचना
 page-subtitle = यह पृष्ठ आपको एक समस्या को हल करने की कोशिश कर रहे हैं उपयोगी हो सकता है कि तकनीकी जानकारी है. { -brand-short-name }, के बारे में आम सवालों के जवाब की तलाश में हैं, हमारे  <a data-l10n-name="support-link">समर्थन वेबसाइट की जाँच करें.</a>
+
 crashes-title = क्रैश रिपोर्ट
 crashes-id = रिपोर्ट ID
 crashes-send-date = सुपुर्द
@@ -56,10 +57,12 @@ app-basics-multi-process-support = बहुप्रक्रिया वि�
 app-basics-enterprise-policies = एंटरप्राइज नीतियाँ
 app-basics-key-mozilla = Mozilla अवस्थिति सेवा कुंजी
 app-basics-safe-mode = सेफ मोड
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] फाइंडर में पता करें
@@ -156,6 +159,7 @@ report-crash-for-days =
         [one] अंतिम { $days } दिन के लिए क्रैश रिपोर्ट
        *[other] अंतिम { $days } दिन के लिए क्रैश रिपोर्ट
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -163,6 +167,7 @@ crashes-time-minutes =
         [one] { $minutes } मिनट पहले
        *[other] { $minutes } मिनट पहले
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -170,6 +175,7 @@ crashes-time-hours =
         [one] { $hours } घंटा पहले
        *[other] { $hours } घंटे पहले
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -177,6 +183,7 @@ crashes-time-days =
         [one] { $days } दिन पहले
        *[other] { $days } दिनों पहले
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -184,6 +191,7 @@ pending-reports =
         [one] सभी क्रैश रिपोर्ट (दिए समय परिसर में { $reports } स्थगित क्रैश सहित)
        *[other] सभी क्रैश रिपोर्ट (दिए समय परिसर में { $reports } स्थगित क्रैश सहित)
     }
+
 raw-data-copied = क्लिपबोर्ड में पाठ नकल किए गए
 text-copied = Text copied to clipboard
 
@@ -196,9 +204,11 @@ blocked-mismatched-version = रजिस्ट्री और डीएलए�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocked for your graphics driver version. Try updating your graphics driver to version { $driverVersion } or newer.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = क्लीयरटाइप पैरामीटर
+
 compositing = संयोजन
 hardware-h264 = हार्डवेयर एच264 कूटानुवाद
 main-thread-no-omtc = मुख्य सूत्र, कोई OMTC नहीं
@@ -212,6 +222,7 @@ unknown = अज्ञात
 
 found = पाया गया
 missing = अनुपलब्ध
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = वर्णन
@@ -233,18 +244,23 @@ webgl2-renderer = WebGL 2 ड्राइवर रेंडेरेर
 webgl2-version = WebGL 2 ड्राइवर वर्ज़न
 webgl2-driver-extensions = WebGL 2 ड्राइवर एक्सटेंशन
 webgl2-extensions = WebGL 2 एक्सटेंशन
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = निरुद्ध सूचीबद्ध किया गया; { $failureCode } असफल कूट
+
 d3d11layers-crash-guard = डी3डी11 अक्षर योजक
 glcontext-crash-guard = जीएल खोलें
 wmfvpxvideo-crash-guard = WMF VPX वीडियो डिकोडर
+
 reset-on-next-restart = अगला पुनः आरंभ फिर सेट करें
 gpu-process-kill-button = GPU प्रक्रिया समाप्त करें
 gpu-device-reset-button = ट्रिगर डिवाइस रीसेट करें
 off-main-thread-paint-enabled = मुख्य थ्रेड चित्रकारी बंद
+
 min-lib-versions = प्रत्याशित न्यूनतम संस्करण
 loaded-lib-versions = उपयोग में संस्करण
+
 has-seccomp-bpf = Seccomp - BPF (सिस्टम कॉल छनन )
 has-seccomp-tsync = सेक्केम्प लड़ी तुल्यकालन
 has-user-namespaces = उपयोक्ता नामस्थान
@@ -257,10 +273,12 @@ sandbox-proc-type-content = अंतर्वस्तु
 sandbox-proc-type-file = फ़ाइल सामग्री
 sandbox-proc-type-media-plugin = मीडिया प्लगइन
 sandbox-proc-type-data-decoder = डेटा डीकोडर
+
 launcher-process-status-0 = सक्रिय
 launcher-process-status-1 = विफलता के कारण निष्क्रिय
 launcher-process-status-2 = बलपूर्वक अक्षम किया गया
 launcher-process-status-unknown = अज्ञात स्थिति
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -271,6 +289,7 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-enabled-by-user-pref = उपयोगकर्ता द्वारा सक्षम
 fission-status-disabled-by-user-pref = उपयोगकर्ता द्वारा अक्षम
+
 async-pan-zoom = असमन्वित पैन/Zoom
 apz-none = कोई नहीं
 wheel-enabled = पहिया इनपुट सक्षम
@@ -298,4 +317,5 @@ support-printing-prefs-name = नाम
 ## Normandy sections
 
 support-remote-experiments-name = नाम
+
 support-remote-features-name = नाम
