@@ -27,6 +27,7 @@ findbar-entire-word =
     .label = Paròlla intrega
     .accesskey = i
     .tooltiptext = Çerca solo e paròlle intreghe
+findbar-not-found = Fraze no trovâ
 findbar-wrapped-to-top = Fin da pagina, continoa da çimma
 findbar-wrapped-to-bottom = Çimma da pagina, continoa da fin
 findbar-normal-find =
