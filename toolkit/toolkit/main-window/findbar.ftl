@@ -32,5 +32,18 @@ findbar-wrapped-to-top = Достигнуто је дно странице, на
 findbar-wrapped-to-bottom = Достигнут је врх странице, наставак иде одоздо
 findbar-normal-find =
     .placeholder = Пронађи:
+findbar-fast-find =
+    .placeholder = Брза претрага
+findbar-fast-find-links =
+    .placeholder = Брза претрага (само везе)
 findbar-case-sensitive-status =
     .value = (осетљиво на мала и велика слова)
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Више од { $limit } подударања
+            [few] Више од { $limit } подударања
+           *[other] Више од { $limit } подударања
+        }
