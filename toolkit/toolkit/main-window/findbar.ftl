@@ -9,4 +9,5 @@ findbar-next =
     .tooltiptext = Hwetša tiragalo e latelago ya sekafoko
 findbar-previous =
     .tooltiptext = Hwetša tiragalo e fetilego ya sekafoko
-
+findbar-not-found = Sekafoko ga sa hwetšwa
+findbar-wrapped-to-top = Fihlile mafelelong a letlakala, go tšwetšwe pele go tloga godimo
