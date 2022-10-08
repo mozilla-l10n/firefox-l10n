@@ -12,6 +12,13 @@ synced-tabs-sidebar-tabsnotsyncing = Укључите синхронизациј
 synced-tabs-sidebar-connect-another-device = Повежи други уређај
 synced-tabs-sidebar-search =
     .placeholder = Претражите синхронизоване картице
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Отвори
     .accesskey = О
@@ -27,6 +34,9 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Обележи ову картицу…
     .accesskey = б
+
+##
+
 synced-tabs-context-copy =
     .label = Копирај
     .accesskey = К

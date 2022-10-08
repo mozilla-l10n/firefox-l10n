@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Препоручена функција
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово?
+
 cfr-doorhanger-extension-cancel-button = Не сада
     .accesskey = Н
+
 cfr-doorhanger-extension-ok-button = Додај
     .accesskey = Д
+
 cfr-doorhanger-extension-manage-settings-button = Управљај препорукама
     .accesskey = У
+
 cfr-doorhanger-extension-never-show-recommendation = Не приказуј ми ову препоруку
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Сазнајте више
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Аутор: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препорука
 cfr-doorhanger-extension-notification2 = Препорука
     .tooltiptext = Препорука додатка
     .a11y-announcement = Доступна је препорука додатка
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препорука
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Сазнајте више
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова функција:
+
 cfr-whatsnew-button =
     .label = Шта је ново
     .tooltiptext = Шта је ново
+
 cfr-whatsnew-release-notes-link-text = Прочитајте напомене о верзији
 
 ## Enhanced Tracking Protection Milestones
@@ -162,4 +172,21 @@ spotlight-total-cookie-protection-header =
 spotlight-total-cookie-protection-body = Свеобухватна заштита од колачића спречава механизме за праћење да вас прате широм мреже.
 
 ## Emotive Continuous Onboarding
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+## Firefox View CFR
+
+## Firefox View Spotlight
 

@@ -5,62 +5,81 @@
 permissions-window =
     .title = Изузеци
     .style = width: 46em
+
 permissions-window2 =
     .title = Изузеци
     .style = min-width: 46em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адреса веб-сајта:
     .accesskey = А
+
 permissions-block =
     .label = Блокирај
     .accesskey = Б
+
 permissions-session =
     .label = Дозволи док траје сесија
     .accesskey = о
+
 permissions-allow =
     .label = Дозволи
     .accesskey = Д
+
 permissions-button-off =
     .label = Искључи
     .accesskey = И
+
 permissions-button-off-temporarily =
     .label = Привремено искључи
     .accesskey = П
+
 permissions-site-name =
     .label = Веб-сајт
+
 permissions-status =
     .label = Статус
+
 permissions-remove =
     .label = Уклони
     .accesskey = У
+
 permissions-remove-all =
     .label = Уклони све
     .accesskey = с
+
 permission-dialog =
     .buttonlabelaccept = Сачувај
     .buttonaccesskeyaccept = С
+
 permissions-autoplay-menu = Подразумевано за све веб-сајтове:
+
 permissions-searchbox =
     .placeholder = Претражите
+
 permissions-capabilities-autoplay-allow =
     .label = Дозволи звук и видео
 permissions-capabilities-autoplay-block =
     .label = Блокирај звук
 permissions-capabilities-autoplay-blockall =
     .label = Блокирај звук и видео
+
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
     .label = Блокирај
 permissions-capabilities-prompt =
     .label = Увек питај
+
 permissions-capabilities-listitem-allow =
     .value = Дозволи
 permissions-capabilities-listitem-block =
     .value = Блокирај
 permissions-capabilities-listitem-allow-session =
     .value = Дозволи док траје сесија
+
 permissions-capabilities-listitem-off =
     .value = Искључено
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Унесите важећи назив хост�
 permissions-exceptions-etp-window =
     .title = Побољшана заштита од праћења – изузеци
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Побољшана заштита од праћења – изузеци
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Искључили сте заштиту на 
 permissions-exceptions-cookie-window =
     .title = Колачићи и подаци о сајтовима – изузеци
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Колачићи и подаци о сајтовима – изузеци
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Овде можете да наведете
 permissions-exceptions-https-only-window =
     .title = Изузеци – режим „Само HTTPS”
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Изузеци – режим „Само HTTPS”
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Можете искључити сам�
 permissions-exceptions-popup-window =
     .title = Искачући прозори – дозвољени веб-сајтови
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Искачући прозори – дозвољени веб-сајтови
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Овде можете да наведете 
 permissions-exceptions-saved-logins-window =
     .title = Сачуване лозинке – изузеци
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Сачуване лозинке – изузеци
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Пријаве за следеће с
 permissions-exceptions-addons-window =
     .title = Инсталација додатака – дозвољени веб-сајтови
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Инсталација додатака – дозвољени веб-сајтови
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Овде можете да наведете
 permissions-site-autoplay-window =
     .title = Аутоматска репродукција – подешавања
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Аутоматска репродукција – подешавања
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Овде можете да управљате �
 permissions-site-notification-window =
     .title = Дозволе поставки и обавештења
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Дозволе поставки и обавештења
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Овим ћете онемогућ�
 permissions-site-location-window =
     .title = Дозволе за локацију
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Дозволе за локацију
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Овим ћете онемогућит�
 permissions-site-xr-window =
     .title = Подешавања – дозволе за виртуелну реалност
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Подешавања – дозволе за виртуелну реалност
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Овим ћете онемогућити св
 permissions-site-camera-window =
     .title = Дозволе за камеру
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Дозволе за камеру
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Овим ћете онемогућити 
 permissions-site-microphone-window =
     .title = Дозволе за микрофон
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Дозволе за микрофон
     .style = { permissions-window2.style }

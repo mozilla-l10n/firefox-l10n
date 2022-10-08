@@ -3,9 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 export-dialog-title = Извези
+
 export-dialog =
     .buttonlabelaccept = Следеће
+
 export-dialog-button-finish = Заврши
+
 export-dialog-file-picker = Извези у зип датотеку
+
 export-dialog-exporting = Извозим…
+
 export-dialog-exported = Извезено!

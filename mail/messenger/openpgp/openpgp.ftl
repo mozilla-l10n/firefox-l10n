@@ -43,9 +43,6 @@ import-info-no-keys = Ниједан кључ није увезен.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Слика
 
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Нисмо могли наћи кључ који се подудара са датим параметрима претраге.
-
 # Strings used in enigmailMessengerOverlay.js
 
 # Strings used in decryption.jsm

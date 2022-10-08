@@ -28,3 +28,5 @@ about-addressbook-books-context-export =
 
 # Photo dialog
 
+# Keyboard shortcuts
+

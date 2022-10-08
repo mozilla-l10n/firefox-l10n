@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Подешавања
     .accesskey = е
+
 menu-addons-and-themes =
     .label = Додаци и теме
     .accesskey = Д
@@ -20,6 +21,7 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Режим решавања проблема…
     .accesskey = Р
+
 menu-help-more-troubleshooting-info =
     .label = Више података за решавање проблема
     .accesskey = м
@@ -38,27 +40,35 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Величина фонта
     .accesskey = о
+
 menuitem-font-size-enlarge =
     .label = Повећај величину фонта
     .accesskey = ј
+
 menuitem-font-size-reduce =
     .label = Смањи величину фонта
     .accesskey = т
+
 menuitem-font-size-reset =
     .label = Врати величину фонта
     .accesskey = р
+
 mail-uidensity-label =
     .label = Збијеност
     .accesskey = З
+
 mail-uidensity-compact =
     .label = Сажета
     .accesskey = т
+
 mail-uidensity-normal =
     .label = Обична
     .accesskey = б
+
 mail-uidensity-touch =
     .label = Додирна
     .accesskey = д
+
 menu-spaces-toolbar-button =
     .label = Просторна трака
     .accesskey = к

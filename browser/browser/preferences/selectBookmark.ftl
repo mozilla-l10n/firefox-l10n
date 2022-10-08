@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = Постављање почетне странице
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Постављање почетне странице
     .style = min-width: 32em;
+
 select-bookmark-desc = Изаберите обележивач као почетну страницу. Ако изаберете фасциклу, обележивачи из ње ће се отворити у картицама.

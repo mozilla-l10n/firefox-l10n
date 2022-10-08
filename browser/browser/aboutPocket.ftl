@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Додајте ознаке
+
 pocket-panel-saved-error-generic = Дошло је до грешке при чувању у { -pocket-brand-name(case: "loc") }.
 pocket-panel-saved-error-tag-length = Ознаке су ограничене на 25 знакова
 pocket-panel-saved-error-only-links = Можете сачувати само везе
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Чување…
 pocket-panel-saved-suggested-tags = Предложене ознаке
 pocket-panel-saved-tags-saved = Ознаке су додате
 pocket-panel-signup-view-list = Прикажи листу
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Додај ознаке:
 
@@ -49,6 +51,7 @@ pocket-panel-signup-tagline-story-one =
        *[other] програма { -brand-product-name }
     }.
 pocket-panel-signup-tagline-story-two = Погледајте у { -pocket-brand-name(case: "loc") } на било ком уређају, било када.
+
 pocket-panel-signup-cta-a-fix = Дугме за чување вашег интернет садржаја
 pocket-panel-signup-cta-b = Кликните на { -pocket-brand-name } дугме да бисте сачували чланке, видео снимке и везе. Пронађите своју листу на свим својим уређајима у било ком тренутку.
 pocket-panel-signup-cta-b-short = Кликните на { -pocket-brand-name } дугме да бисте сачували чланке, видео снимке и везе.
@@ -62,6 +65,7 @@ pocket-panel-home-paragraph = { -pocket-brand-name(case: "acc") } можете �
 pocket-panel-home-explore-popular-topics = Истражите популарне теме
 pocket-panel-home-discover-more = Откријте више
 pocket-panel-home-explore-more = Истражите
+
 pocket-panel-home-most-recent-saves = Ово су ваше последње сачуване ставке:
 pocket-panel-home-most-recent-saves-loading = Учитавање последњег сачуваног…
 pocket-panel-home-new-user-cta = Кликните на { -pocket-brand-name } дугме да бисте сачували чланке, видео снимке и везе.
