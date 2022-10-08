@@ -9,3 +9,4 @@
 ## Colorway names and descriptions
 
 visionary-colorway-name = దార్శనికుడు
+

@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = స్థాపన దోషం
 opensearch-error-duplicate-desc = { -brand-short-name } శోధన ప్లగిన్‌ను “{ $location-url }” నుండి స్థాపించలేదు ఎందుకంటే అదే పేరుతో ఒక యంత్రము ఇప్పటికే ఉంది.
+
 opensearch-error-format-title = చెల్లని ఫార్మాటు
 opensearch-error-format-desc = { $location-url } వద్ద ఉన్న { -brand-short-name } సెర్చ్ ఇంజన్ని స్థాపించలేము
+
 opensearch-error-download-title = దింపుకోలు దోషం
 opensearch-error-download-desc = { -brand-short-name } శోధన ప్లగిన్ ను దీని నుండి దింపుకోలేకపోయింది: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } శోధన ప్లగ
 
 searchbar-submit =
     .tooltiptext = శోధనను సమర్పించండి
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = వెతకండి
+
 searchbar-icon =
     .tooltiptext = వెతుకు
 

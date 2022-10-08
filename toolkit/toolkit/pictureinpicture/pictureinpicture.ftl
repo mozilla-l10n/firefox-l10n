@@ -15,3 +15,8 @@ pictureinpicture-unmute =
 pictureinpicture-close =
     .aria-label = మూసివేయి
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

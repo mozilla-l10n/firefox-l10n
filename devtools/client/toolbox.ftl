@@ -19,3 +19,5 @@ toolbox-meatball-menu-community-label = సముదాయం…
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

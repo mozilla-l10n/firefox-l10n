@@ -8,5 +8,7 @@ colorway-intensity-balanced = సంతులితం
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 colorway-intensity-bold = తీక్షణం
+
 colorway-closet-cancel-button = రద్దుచేయి
+
 colorway-homepage-reset-apply-button = వర్తింపజేయి
