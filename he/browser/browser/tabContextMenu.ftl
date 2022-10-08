@@ -104,6 +104,7 @@ tab-context-move-tabs =
            *[other] העברת לשוניות
         }
     .accesskey = ע
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

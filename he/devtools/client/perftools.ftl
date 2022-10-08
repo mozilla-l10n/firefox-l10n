@@ -34,7 +34,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = גודל חוצץ:
+
 perftools-custom-threads-label = הוספת תהליכונים מותאמים אישית לפי שם:
+
 perftools-devtools-threads-label = תהליכונים
 perftools-devtools-settings-label = הגדרות
 
@@ -85,17 +87,23 @@ perftools-onboarding-message = <b>חדש</b>: { -profiler-brand-name } משול�
 
 perftools-presets-web-developer-label = Web Developer
 perftools-presets-web-developer-description = ערכה מומלצת עבור רוב ניפויי השגיאות של יישומוני רשת, עם תקורה נמוכה.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = ערכת מומלצת ליצירת פרופיל ביצועים של { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Graphics
 perftools-presets-graphics-description = ערכה לחקירת באגים גרפיים ב־{ -brand-shorter-name }.
+
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = ערכה לחקירת באגים בשמע ווידאו ב־{ -brand-shorter-name }.
+
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = צריכת חשמל
 perftools-presets-power-description = ערכה לחקירת באגים של צריכת חשמל ב־{ -brand-shorter-name }, עם תקורה נמוכה.
+
 perftools-presets-custom-label = התאמה אישית
 
 ##

@@ -10,15 +10,19 @@
 
 # The heading
 options-select-default-tools-label = כלי פיתוח ברירת מחדל
+
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * לא נתמך עבור המטרה הנוכחית של ארגז הכלים
+
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = כלי פיתוח שהותקנו על־ידי תוספות
+
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = כפתורי ארגז כלים זמינים
+
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = ערכות נושא
 
@@ -26,14 +30,17 @@ options-select-dev-tools-theme-label = ערכות נושא
 
 # The heading
 options-context-inspector = מפקח
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = הצגת סגנונות דפדפן
 options-show-user-agent-styles-tooltip =
     .title = הפעלת אפשרות זו תציג את סגנונות בררת המחדל שנטענים על־ידי הדפדפן.
+
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = חיתוך רכיבי DOM
 options-collapse-attrs-tooltip =
     .title = קיצור תכונות ארוכות במפקח
+
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = לחיצה וגרירה כדי לערוך ערכים של גדלים
 options-inspector-draggable-properties-tooltip =
@@ -53,6 +60,7 @@ options-default-color-unit-name = שמות הצבעים
 
 # The heading
 options-styleeditor-label = עורך סגנונות
+
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = השלמה אוטומטית של CSS
 options-stylesheet-autocompletion-tooltip =
@@ -62,10 +70,12 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = התנהגות צילום המסך
+
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = צילום מסך ללוח העריכה בלבד
 options-screenshot-clipboard-tooltip2 =
     .title = שמירת צילום המסך ישירות ללוח
+
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = השמעת צליל צמצם המצלמה
 options-screenshot-audio-tooltip =
@@ -75,6 +85,7 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = העדפות עורך
+
 options-sourceeditor-detectindentation-tooltip =
     .title = לנחש הזחה לפי תוכן קוד המקור
 options-sourceeditor-detectindentation-label = זיהוי הזחה
@@ -92,32 +103,34 @@ options-sourceeditor-keybinding-default-label = בררת מחדל
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = הגדרות מתקדמות
+
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = נטרול מטמון HTTP (כשארגז הכלים פתוח)
 options-disable-http-cache-tooltip =
     .title = הפעלת אפשרות זו תשבית את מטמון ה־HTTP עבור כל הלשוניות בהן פתוח ארגז הכלים. Service Workers אינם מושפעים מאפשרות זו.
+
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = השבתת JavaScript *
 options-disable-javascript-tooltip =
     .title = הפעלת אפשרות זו תשבית את JavaScript בלשונית הנוכחית. אם הלשונית או ארגז הכלים יסגרו הגדרה זו תישכח.
+
 options-enable-chrome-tooltip =
     .title = הפעלת אפשרות זו תאפשר לך להשתמש במגוון כלי פיתוח בהקשר הדפדפן (דרך כלים -> כלי פיתוח -> ארגז הכלים של הדפדפן) ולנפות שגיאות בתוספות ממנהל התוספות
+
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = הפעלת מנפה שגיאות מרוחק
 options-enable-remote-tooltip2 =
     .title = הפעלת אפשרות זו תאפשר לנפות שגיאות מרחוק במופע דפדפן זה
+
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = הפעלת Service Workers על גבי HTTP (כשארגז הכלים פתוח)
 options-enable-service-workers-http-tooltip =
     .title = הפעלת אפשרות זו תאפשר את ה־service workers על גבי HTTP עבור כל הלשוניות שבהן ארגז הכלים פתוח.
+
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = הפעלת מפות מקור
 options-source-maps-tooltip =
     .title = אם אפשרות זו תופעל המקורות ימופו בכלים.
+
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * הפעלה נוכחית בלבד, יש לטעון מחדש את הדף
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = הצגת נתוני סביבת Gecko
-options-show-platform-data-tooltip =
-    .title = אפשרות זו תגרום לדיווחי מאבחן ה־JavaScript להכיל גם סמלי סביבת Gecko

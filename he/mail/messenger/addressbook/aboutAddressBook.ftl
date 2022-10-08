@@ -41,11 +41,11 @@ about-addressbook-confirm-remove-remote-book = להסיר את { $name }?
 about-addressbook-search =
     .placeholder = חיפוש { $name }
 
-about-addressbook-sort-button =
-    .title = שינוי סדר הרשימה
-
 about-addressbook-name-format-display =
     .label = שם תצוגה
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
 
 about-addressbook-cards-context-write =
     .label = כתיבה
@@ -101,6 +101,9 @@ about-addressbook-confirm-delete-contacts =
        *[other] למחוק את { $count } אנשי הקשר האלו?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
 ## Details
 
 about-addressbook-begin-edit-contact-button = עריכה
@@ -109,9 +112,9 @@ about-addressbook-save-edit-contact-button = שמירה
 
 about-addressbook-details-email-addresses-header = כתובות דוא״ל
 about-addressbook-details-phone-numbers-header = מספרי טלפון
-about-addressbook-details-home-address-header = כתובת בבית
-about-addressbook-details-work-address-header = כתובת עבודה
 about-addressbook-details-other-info-header = מידע אחר
 
 # Photo dialog
+
+# Keyboard shortcuts
 

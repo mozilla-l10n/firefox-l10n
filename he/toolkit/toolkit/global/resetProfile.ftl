@@ -9,6 +9,7 @@ refresh-profile-dialog-description = התחלה חדשה כדי לפתור בע�
 refresh-profile = לכוונן מחדש את { -brand-short-name }
 refresh-profile-button = רענון { -brand-short-name }…
 refresh-profile-learn-more = מידע נוסף
+
 refresh-profile-progress =
     .title = רענון { -brand-short-name }
 refresh-profile-progress-description = כמעט סיימנו…

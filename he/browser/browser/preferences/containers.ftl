@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = הגדרות המגירה { $name }
     .style = width: 45em
+
 containers-window-new2 =
     .title = הוספת מגירה חדשה
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = הגדרות המגירה { $name }
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = שם
     .accesskey = ש
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = נא להזין שם מגירה
+
 containers-icon-label = סמל
     .accesskey = ס
     .style = { -containers-labels-style }
+
 containers-color-label = צבע
     .accesskey = צ
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = סיום
     .buttonaccesskeyaccept = ס
+
 containers-color-blue =
     .label = כחול
 containers-color-turquoise =
@@ -60,6 +69,7 @@ containers-color-pink =
     .label = ורוד
 containers-color-purple =
     .label = סגול
+
 containers-icon-fence =
     .label = גדר
 containers-icon-fingerprint =

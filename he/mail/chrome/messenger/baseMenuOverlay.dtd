@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "א">
 <!ENTITY productHelp.label "עזרה עבור &brandShortName;">
 <!ENTITY productHelp.accesskey "ע">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 
