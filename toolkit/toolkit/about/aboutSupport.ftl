@@ -341,7 +341,6 @@ fission-status-experiment-control = Desactivada polo experimento
 fission-status-experiment-treatment = Activada polo experimento
 fission-status-disabled-by-e10s-env = Desactivada polo entorno
 fission-status-enabled-by-env = Activada polo entorno
-fission-status-disabled-by-safe-mode = Desactivada polo modo seguro
 fission-status-enabled-by-default = Activada por omisión
 fission-status-disabled-by-default = Desactivada por omisión
 fission-status-enabled-by-user-pref = Activada polo usuario

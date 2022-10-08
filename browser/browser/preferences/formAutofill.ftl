@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Enderezos gardados
 autofill-manage-addresses-list-header = Enderezos
+
 autofill-manage-credit-cards-title = Tarxetas de crédito gardadas
 autofill-manage-credit-cards-list-header = Tarxetas de crédito
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Retirar
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Editar…
 autofill-add-new-address-title = Engadir novo enderezo
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar enderezo
+
 autofill-address-given-name = Nome
 autofill-address-additional-name = Segundo nome
 autofill-address-family-name = Apelidos
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = País ou rexión
 autofill-address-tel = Teléfono
 autofill-address-email = Correo
+
 autofill-cancel-button = Cancelar
 autofill-save-button = Gardar
 autofill-country-warning-message = O completado automático de formularios só está dispoñíbel para certos países.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Engadir unha nova tarxeta de crédito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editar a tarxeta de crédito
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } tenta amosar a información da tarxeta de crédito. Confirme o acceso á conta de usuario de Windows a continuación.
        *[other] { -brand-short-name } tenta amosar a información da tarxeta de crédito.
     }
+
 autofill-card-number = Número da tarxeta
 autofill-card-invalid-number = Introduza un número de tarxeta válido
 autofill-card-name-on-card = Nome do titular

@@ -124,12 +124,6 @@ toolbar-context-menu-remove-extension =
 
 ## Message headers
 
-message-header-address-in-address-book-icon =
-    .alt = O enderezo está na axenda de enderezos
-
-message-header-address-not-in-address-book-icon =
-    .alt = O enderezo non está na axenda de enderezos
-
 ## Add-on removal warning
 
 # Variables:

@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Comece de novo para solucionar problemas de
 refresh-profile = Facer un cambio de imaxe a { -brand-short-name }
 refresh-profile-button = Refrescar { -brand-short-name }…
 refresh-profile-learn-more = Máis información
+
 refresh-profile-progress =
     .title = Refrescar { -brand-short-name }
 refresh-profile-progress-description = Case feito…
