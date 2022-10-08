@@ -34,5 +34,30 @@ findbar-entire-word =
 findbar-not-found = عبارت پیدا نشد
 findbar-wrapped-to-top = به آخر صفحه رسیدیم، از بالا ادامه می‌دهیم
 findbar-wrapped-to-bottom = به بالای صفحه رسیدیم، از پایین ادامه می‌دهیم
+findbar-normal-find =
+    .placeholder = پیداکردن در صفحه
+findbar-fast-find =
+    .placeholder = پیدا کردن سریع
+findbar-fast-find-links =
+    .placeholder = پیدا کردن سریع (تنها در پیوندها)
 findbar-case-sensitive-status =
     .value = (حساس به بزرگی و کوچکی حروف)
+findbar-entire-word-status =
+    .value = (فقط کلمه‌هایِ کامل)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] مورد { $current } از { $total }
+           *[other] مورد { $current } از { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] بیش از { $limit } مورد منطبق
+           *[other] بیش از { $limit } مورد منطبق
+        }
