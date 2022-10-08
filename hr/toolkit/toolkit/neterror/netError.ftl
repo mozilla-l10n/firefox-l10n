@@ -7,6 +7,7 @@
 
 neterror-page-title = Problem pri učitavanju stranice
 neterror-captive-portal-page-title = Prijava na mrežu
+neterror-dns-not-found-title = Poslužitelj nije pronađen
 
 ## Error page actions
 
