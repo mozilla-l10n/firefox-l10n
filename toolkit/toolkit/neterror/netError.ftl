@@ -10,10 +10,12 @@ neterror-page-title = Problém pri načítaní stránky
 ## Error page actions
 
 neterror-learn-more-link = Ďalšie informácie…
+neterror-return-to-previous-page-button = Prejsť naspäť
 neterror-try-again-button = Skúsiť znova
 
 ##
 
+neterror-error-reporting-automatic = Hlásiť chyby ako je táto a pomôcť tým organizácii { -vendor-short-name } identifikovať a blokovať škodlivé stránky
 
 ## Specific error messages
 
@@ -37,6 +39,8 @@ neterror-content-encoding-error = Obráťte sa na vlastníkov stránky a informu
 neterror-unsafe-content-type = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
 neterror-nss-failure-not-verified = Stránku nemožno zobraziť, pretože pravosť prijímaných údajov sa nedá overiť.
 neterror-nss-failure-contact-website = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Rozšírené informácie: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-inadequate-security-intro = <b>{ $hostname }</b> využíva technológiu zabezpečenia, ktorá je zastaraná a zraniteľná voči útokom. Útočník by mohol jednoducho odhaliť informácie, o ktorých ste si mysleli, že sú v bezpečí. Správca webovej stránky ju bude musieť pred jej ďalšou návštevou opraviť.
