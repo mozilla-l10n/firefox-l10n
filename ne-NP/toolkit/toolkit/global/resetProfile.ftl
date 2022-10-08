@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } ताजा पार्नुहोस
 refresh-profile = { -brand-short-name } लाई अनुरक्षण गर्नुहोस्
 refresh-profile-button = { -brand-short-name } ताजा पार्नुहोस…
+
 refresh-profile-progress =
     .title = { -brand-short-name } ताजा पार्नुहोस्
 refresh-profile-progress-description = लगभग भयो…

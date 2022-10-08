@@ -10,6 +10,13 @@ synced-tabs-sidebar-tabsnotsyncing = तपाईँको अन्य यन�
 synced-tabs-sidebar-connect-another-device = अर्को उपकरण जडान गर्नुहोस्
 synced-tabs-sidebar-search =
     .placeholder = समक्रमण गरिएका ट्याबहरू खोजि गर्नुहोस्
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = खोल्नुहोस्
     .accesskey = O
@@ -25,6 +32,9 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = यस ट्याबमा पुस्तकचिनो लगाउनुहोस्…
     .accesskey = B
+
+##
+
 synced-tabs-context-copy =
     .label = प्रतिलिपि गर्नुहोस्
     .accesskey = C

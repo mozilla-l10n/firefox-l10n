@@ -174,6 +174,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = इतिहास ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = बुकमार्क थप्नुहोस्
@@ -518,3 +522,6 @@ data-reporting-notification-message = { -brand-short-name } ले केही 
 data-reporting-notification-button =
     .label = मैले बाँड्ने कुराहरू छान्छु
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
