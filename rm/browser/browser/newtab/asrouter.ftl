@@ -173,3 +173,27 @@ spotlight-pin-primary-button =
        *[other] Fixar en la taskbar
     }
 spotlight-pin-secondary-button = Betg ussa
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Empruvar
+    .accesskey = E
+firefoxview-cfr-secondarybutton = Betg ussa
+    .accesskey = B
+
+## Firefox View Spotlight
+
