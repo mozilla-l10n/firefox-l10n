@@ -5,6 +5,8 @@
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Learn more
 
 ## Pending crash reports
 
@@ -19,3 +21,5 @@ pending-crash-reports-view-all =
     .label = View
 pending-crash-reports-send =
     .label = Send
+pending-crash-reports-always-send =
+    .label = Always send
