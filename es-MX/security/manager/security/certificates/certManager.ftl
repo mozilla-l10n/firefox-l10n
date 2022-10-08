@@ -4,100 +4,139 @@
 
 certmgr-title =
     .title = Administrador de certificados
+
 certmgr-tab-mine =
     .label = Tus certificados
+
 certmgr-tab-remembered =
     .label = Decisiones de autenticación
+
 certmgr-tab-people =
     .label = Personas
+
 certmgr-tab-servers =
     .label = Servidores
+
 certmgr-tab-ca =
     .label = Autoridades
+
 certmgr-mine = Tienes certificados de estas organizaciones que te identifican
 certmgr-remembered = Estos certificados se utilizan para identificarlo en los sitios web
 certmgr-people = Tienes certificados en el archivo que identifican a estas personas
 certmgr-server = Estas entradas identifican las excepciones de error del certificado del servidor
 certmgr-ca = Tienes certificados en el archivo que identifican a las siguientes autoridades de certificación
+
 certmgr-edit-ca-cert =
     .title = Editar configuración de confianza de la CA
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = Editar configuración de confianza de la CA
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = Editar configuraciones de confianza:
+
 certmgr-edit-cert-trust-ssl =
     .label = Este certificado puede identificar sitios web.
+
 certmgr-edit-cert-trust-email =
     .label = Este certificado puede identificar a los usuarios de correo.
+
 certmgr-delete-cert =
     .title = Eliminar certificado
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Eliminar certificado
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-host =
     .label = Servidor
+
 certmgr-cert-name =
     .label = Nombre del certificado
+
 certmgr-cert-server =
     .label = Servidor
+
 certmgr-override-lifetime =
     .label = Vida útil
+
 certmgr-token-name =
     .label = Dispositivo de seguridad
+
 certmgr-begins-label =
     .label = Comienza el
+
 certmgr-expires-label =
     .label = Expira el
+
 certmgr-email =
     .label = Dirección de correo electr.
+
 certmgr-serial =
     .label = Número de serie
+
 certmgr-view =
     .label = Ver…
     .accesskey = V
+
 certmgr-edit =
     .label = Edición confiable...
     .accesskey = E
+
 certmgr-export =
     .label = Exportar…
     .accesskey = x
+
 certmgr-delete =
     .label = Eliminar…
     .accesskey = r
+
 certmgr-delete-builtin =
     .label = Eliminar o desconfiable...
     .accesskey = d
+
 certmgr-backup =
     .label = Hacer copia…
     .accesskey = H
+
 certmgr-backup-all =
     .label = Hacer copia de todo…
     .accesskey = t
+
 certmgr-restore =
     .label = Importar…
     .accesskey = m
+
 certmgr-add-exception =
     .label = Añadir excepción…
     .accesskey = x
+
 exception-mgr =
     .title = Añadir excepción de seguridad
+
 exception-mgr-extra-button =
     .label = Confirmar Excepción de Seguridad
     .accesskey = C
+
 exception-mgr-supplemental-warning = Los bancos, tiendas y otros sitios públicos legítimos no le pedirán hacer esto.
+
 exception-mgr-cert-location-url =
     .value = Dirección:
+
 exception-mgr-cert-location-download =
     .label = Obtener certificado
     .accesskey = O
+
 exception-mgr-cert-status-view-cert =
     .label = Ver…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Guardar esta excepción de manera permanente
     .accesskey = p
+
 pk11-bad-password = La contraseña introducida era incorrecta.
 pkcs12-decode-err = Fallo al decodificar el archivo. O no está en formato PKCS #12, o está corrupto, o la contraseña suministrada es incorrecta.
 pkcs12-unknown-err-restore = Fallo en la recuperación del archivo PKCS #12 por motivos desconocidos.
@@ -130,28 +169,37 @@ delete-user-cert-title =
     .title = Eliminar mis certificados
 delete-user-cert-confirm = ¿Realmente quieres eliminar estos certificados?
 delete-user-cert-impact = Si eliminas uno de tus propios certificados, no podrás utilizarlo para identificarte a ti mismo.
+
+
 delete-ssl-override-title =
     .title = Eliminar la excepción del certificado del servidor
 delete-ssl-override-confirm = ¿Seguro que quieres eliminar esta excepción de servidor?
 delete-ssl-override-impact = Si eliminas una excepción de servidor, restaurará los controles de seguridad habituales para ese servidor y se requerirá que use un certificado válido.
+
 delete-ca-cert-title =
     .title = Eliminar o desconfiar de los certificados de CA
 delete-ca-cert-confirm = Has solicitado eliminar estos certificados de CA. En el caso de los incluidos de serie, en lugar de borrarlos se les retira la confianza, lo que tiene el mismo efecto. ¿Estás seguro de que quieres hacer esto?
 delete-ca-cert-impact = Si elimina los certificados de confianza (CA) esta aplicación ya no confía en los certificados emitidos por dicha CA.
+
+
 delete-email-cert-title =
     .title = Eliminar certificados de correo electrónico
 delete-email-cert-confirm = ¿Realmente quieres eliminar los certificados de correo-e de estas personas?
 delete-email-cert-impact = Si borra el certificado de correo electrónico de una persona, ya no podrá enviar mensajes cifrados a esa persona.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certificado con el número de serie: { $serialNumber }
+
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = No se envió certificado de cliente
+
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (No guardado)
+
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (No disponible)
 

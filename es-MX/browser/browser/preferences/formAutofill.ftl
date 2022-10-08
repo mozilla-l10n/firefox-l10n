@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Direcciones guardadas
 autofill-manage-addresses-list-header = Direcciones
+
 autofill-manage-credit-cards-title = Tarjetas de crédito guardadas
 autofill-manage-credit-cards-list-header = Tarjetas de crédito
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Eliminar
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Editar…
 autofill-add-new-address-title = Agregar nueva dirección
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar dirección
+
 autofill-address-given-name = Primer nombre
 autofill-address-additional-name = Segundo nombre
 autofill-address-family-name = Apellido
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = País o región
 autofill-address-tel = Teléfono
 autofill-address-email = Correo electrónico
+
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
 autofill-country-warning-message = El autocompletado de formularios actualmente está disponible solo para algunos países.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Agregar nueva tarjeta de crédito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editar tarjeta de crédito
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } está intentando mostrar información de la tarjeta de crédito. Confirma abajo el acceso a esta cuenta de Windows.
        *[other] { -brand-short-name } está intentando mostrar información de la tarjeta de crédito.
     }
+
 autofill-card-number = Número de tarjeta de crédito
 autofill-card-invalid-number = Por favor, ingresa un número de tarjeta válido
 autofill-card-name-on-card = Nombre en la tarjeta
