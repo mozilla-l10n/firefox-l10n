@@ -30,3 +30,5 @@ findbar-fast-find-links =
     .placeholder = အမြန် ရှာ (အချိတ်အဆက်များသာ)
 findbar-case-sensitive-status =
     .value = (စာလုံး အမှားမခံ)
+findbar-entire-word-status =
+    .value = (စာလုံးတစ်လုံးလုံးသာ)
