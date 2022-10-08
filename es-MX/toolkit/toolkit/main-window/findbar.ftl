@@ -38,5 +38,7 @@ findbar-normal-find =
     .placeholder = Buscar en la página
 findbar-fast-find =
     .placeholder = Búsqueda rápida
+findbar-fast-find-links =
+    .placeholder = Búsqueda rápida (enlaces)
 findbar-case-sensitive-status =
     .value = (Sensible a mayúsculas)
