@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Fluch sykje (allinnich keppelingen):
 findbar-case-sensitive-status =
     .value = (Haadlettergefoelich)
+findbar-match-diacritics-status =
+    .value = (Oerienkommende diakrityske tekens)
 findbar-entire-word-status =
     .value = (Allinnich hiele wurden)
 # Variables:
