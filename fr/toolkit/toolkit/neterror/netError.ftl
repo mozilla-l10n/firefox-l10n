@@ -24,6 +24,7 @@ neterror-pref-reset-button = Restaurer les paramètres par défaut
 neterror-return-to-previous-page-button = Retour
 neterror-return-to-previous-page-recommended-button = Retour (recommandé)
 neterror-try-again-button = Réessayer
+neterror-view-certificate-link = Afficher le certificat
 
 ##
 
