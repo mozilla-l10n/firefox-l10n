@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Recercar
     .aria-label = Recercar
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Recercar amb { $engine } o picar una adreça
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Picar un tèrme de recercar o una adreça
     .title = Picar un tèrme de recercar o una adreça
     .aria-label = Picar un tèrme de recercar o una adreça
+
 newtab-search-box-text = Recercar sul web
 newtab-search-box-input =
     .placeholder = Recercar sul web
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Modificar acorchi
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Picar un títol
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Picar o pegar una URL
 newtab-topsites-url-validation = Una URLvalida es requesida
+
 newtab-topsites-image-url-label = URL de l'imatge personalizat
 newtab-topsites-use-image-link = Utilizar un imatge personalizat…
 newtab-topsites-image-validation = L’imatge a pas capitat de se cargar. Ensajatz una URL diferenta.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Esponsorizat
 newtab-menu-section-tooltip =
     .title = Dobrir lo menú
     .aria-label = Dobrir lo menú
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Suprimir
     .aria-label = Suprimir
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -152,14 +158,17 @@ newtab-label-removed-bookmark = Marcapaginas suprimit
 newtab-label-recommended = Tendéncia
 newtab-label-saved = Pagina enregistrada dins { -pocket-brand-name }
 newtab-label-download = Telecargat
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Pairinejat
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Pairinejat per { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -198,6 +207,7 @@ newtab-section-header-pocket = Recomandat per { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Començatz de navegar e aquí vos mostrarem los melhors articles, vidèos e autras paginas qu’avètz visitadas o apondudas als marcapaginas.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -222,9 +232,11 @@ newtab-pocket-learn-more = Ne saber mai
 newtab-pocket-cta-button = Installar { -pocket-brand-name }
 newtab-pocket-cta-text = Enregistratz vòstres articles preferits dins { -pocket-brand-name } e garissètz vòstre esperit amb de lecturas fascinantas.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } fa part de la familha { -brand-product-name }
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Enregistrar dins { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Pagina enregistrada dins { -pocket-brand-name }
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Cargar mai d’articles
 
@@ -235,6 +247,7 @@ newtab-pocket-last-card-title = Sètz ja a jorn !
 newtab-pocket-last-card-desc = Tornatz mai tard per veire se i a mai d’articles.
 newtab-pocket-last-card-image =
     .alt = Sètz ja a jorn
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Enregistrar
 newtab-pocket-saved = Enregistrada

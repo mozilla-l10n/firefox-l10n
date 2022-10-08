@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Tròba l'ocurréncia venenta de la frasa
 findbar-previous =
     .tooltiptext = Tròba l'ocurréncia precedenta de la frasa
+
 findbar-find-button-close =
     .tooltiptext = Tampar la barra de recèrca
+
 findbar-highlight-all2 =
     .label = Suslinhar tot
     .accesskey =
@@ -19,33 +21,41 @@ findbar-highlight-all2 =
            *[other] S
         }
     .tooltiptext = Suslinhar totas las ocurréncias de la frasa
+
 findbar-case-sensitive =
     .label = Respectar la cassa
     .accesskey = R
     .tooltiptext = Efectuar una recèrca en respectant la cassa
+
 findbar-match-diacritics =
     .label = Respectar los diacritics
     .accesskey = s
     .tooltiptext = Diferenciar las letras accentuadas e las sens accent escrich (per exemple, se cercatz « cafe », « cafè » serà pas trobat)
+
 findbar-entire-word =
     .label = Mots entièrs
     .accesskey = m
     .tooltiptext = Cercar sonque los mots entièrs
+
 findbar-not-found = Frasa pas trobada
+
 findbar-wrapped-to-top = Bas de la pagina atenh, contunhar del començament
 findbar-wrapped-to-bottom = Naut de la pagina atenh, contunhar del bas
+
 findbar-normal-find =
     .placeholder = Recercar dins la pagina
 findbar-fast-find =
     .placeholder = Recèrca rapida
 findbar-fast-find-links =
     .placeholder = Recèrca rapida (ligams solament)
+
 findbar-case-sensitive-status =
     .value = (Sensible a la cassa)
 findbar-match-diacritics-status =
     .value = (Respècte dels diacritics)
 findbar-entire-word-status =
     .value = (Pas que de mots entièrs)
+
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -55,6 +65,7 @@ findbar-found-matches =
             [one] Ocurréncia { $current } sus { $total }
            *[other] Ocurréncia { $current } sus { $total }
         }
+
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =

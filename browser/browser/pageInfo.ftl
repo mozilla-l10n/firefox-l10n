@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Copiar
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = Seleccionar tot
     .accesskey = S
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = General
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Nom
 general-meta-content =
     .label = Contengut
+
 media-tab =
     .label = Mèdia
     .accesskey = M
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = Enregistrar jos…
     .accesskey = E
+
 perm-tab =
     .label = Permissions
     .accesskey = P
 permissions-for =
     .value = Permissions per :
+
 security-tab =
     .label = Seguretat
     .accesskey = S
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = S'acaba lo :
 security-view-privacy =
     .value = Vida privada e istoric
+
 security-view-privacy-history-value = Ai ja visitat aqueste site ?
 security-view-privacy-sitedata-value = Aqueste site web collècta d'informacions sus mon ordenador ?
+
 security-view-privacy-clearsitedata =
     .label = Escafar cookies e donadas de site
     .accesskey = E
+
 security-view-privacy-passwords-value = Ai enregistrat un senhal per aqueste site web ?
+
 security-view-privacy-viewpasswords =
     .label = Visualizar los senhals enregistrats
     .accesskey = V
 security-view-technical =
     .value = Detalhs tecnics
+
 help-button =
     .label = Ajuda
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = Òc-ben, de cookies e { $value } { $unit } de donadas de site
 security-site-data-only = Òc-ben, { $value } { $unit } de donadas de site
+
 security-site-data-cookies-only = Òc-ben, de cookies
 security-site-data-no = Non
 
@@ -139,6 +152,7 @@ media-video = Vidèo
 media-audio = Àudio
 saved-passwords-yes = Òc
 saved-passwords-no = Non
+
 no-page-title =
     .value = Pagina sens títol :
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Utilizar las valors per defaut
 security-no-visits = Non
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -163,6 +178,7 @@ general-meta-tags =
             [one] Meta (1 balisa)
            *[other] Meta ({ $tags } balisas)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -173,6 +189,7 @@ security-visits-number =
         [one] Òc, un còp
        *[other] Òc, { $visits } còps
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -183,6 +200,7 @@ properties-general-size =
             [one] { $kb } Ko ({ $bytes } octet)
            *[other] { $kb } Ko ({ $bytes } octets)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -194,12 +212,14 @@ media-animated-image-type =
             [one] Imatge { $type } (animat, { $frames } calc)
            *[other] Imatge { $type } (animat, { $frames } calques)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Imatge { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -209,17 +229,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (redimensionat a { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx } px × { $dimy } px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } Ko
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -227,6 +250,7 @@ media-file-size = { $size } Ko
 media-block-image =
     .label = Blocar los imatges que venon de { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
