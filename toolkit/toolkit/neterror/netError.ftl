@@ -8,9 +8,11 @@
 
 ## Error page actions
 
+neterror-return-to-previous-page-button = Voltar
 
 ##
 
+neterror-error-reporting-automatic = Relatar erros como este para ajudar a { -vendor-short-name } a identificar e bloquear sites maliciosos
 
 ## Specific error messages
 
@@ -18,3 +20,5 @@ neterror-unknown-protocol = Pode ser necessário instalar algum aplicativo para 
 neterror-redirect-loop = Este problema pode ser causado pela desativação ou recusa de aceitar cookies.
 neterror-proxy-connect-failure-settings = Verifique as configurações de proxy para se certificar que estão corretas
 neterror-proxy-connect-failure-contact-admin = Contate seu administrador de rede para se certificar que o servidor proxy está  funcionando.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Informações avançadas: SSL_ERROR_UNSUPPORTED_VERSION
