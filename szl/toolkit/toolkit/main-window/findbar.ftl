@@ -31,6 +31,7 @@ findbar-entire-word =
     .label = Cołke słowa
     .accesskey = C
     .tooltiptext = Szukej ino cołkich słōw
+findbar-not-found = Fraza niy znaleziōno
 findbar-wrapped-to-top = Doszło do kōńca strōny, dalij ôd poczōntku
 findbar-wrapped-to-bottom = Doszło do poczōntku strōny, dalij ôd kōńca
 findbar-normal-find =
