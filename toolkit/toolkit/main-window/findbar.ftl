@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Flýtileit (aðeins tenglar)
 findbar-case-sensitive-status =
     .value = (Stafrétt)
+findbar-match-diacritics-status =
+    .value = (Passar við broddstafi)
 findbar-entire-word-status =
     .value = (Aðeins stök orð)
 # Variables:
