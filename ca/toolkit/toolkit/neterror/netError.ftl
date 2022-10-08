@@ -9,6 +9,7 @@ neterror-page-title = S'ha produït un problema en carregar la pàgina
 
 ## Error page actions
 
+neterror-try-again-button = Torna-ho a provar
 
 ##
 
