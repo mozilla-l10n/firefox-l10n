@@ -17,6 +17,7 @@ config-new-pref-cancel-button = Loobu
 config-new-pref-create-button = Loo
 config-new-pref-change-button = Muuda
 config-pref-toggle-button = Vastanda
+config-pref-reset-button = Lähtesta
 config-context-menu-copy-pref-name =
     .label = Kopeeri nimi
 config-context-menu-copy-pref-value =
