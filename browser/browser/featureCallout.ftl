@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Далей
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Зразумела!
 
@@ -12,13 +13,20 @@ callout-primary-complete-button-label = Зразумела!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Пераключайцеся паміж прыладамі з доступам да сваіх картак
+
 callout-firefox-view-tab-pickup-subtitle = Шпарка бярыце адкрытыя карткі са свайго тэлефона і адкрывайце іх тут для працягу працы.
+
 callout-firefox-view-recently-closed-title = Вяртайце закрытыя карткі імгненна
+
 callout-firefox-view-recently-closed-subtitle = Тут чароўным чынам з'явяцца ўсе закрытыя карткі. Больш ніколі не турбуйцеся, што выпадкова закрылі сайт.
+
 callout-firefox-view-colorways-title = Дадайце ўсплёск колеру
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Выберыце адценне, якое пасуе вам, з дапамогай расфарбовак. Толькі ў { -brand-product-name }.
+
 callout-firefox-view-colorways-reminder-title = Азнаёмцеся з нашымі найноўшымі расфарбоўкамі
+
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Расфарбуйце свой браўзер у гэтыя знакавыя адценні, натхнёныя незалежнымі галасамі. Толькі ў { -brand-product-name }.
 
@@ -28,5 +36,7 @@ callout-firefox-view-colorways-reminder-subtitle = Расфарбуйце сво
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Палепшыце сваё агляданне з дапамогай выбару картак
+
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Атрымлівайце доступ да адкрытых картак з любой прылады. Акрамя таго, сінхранізуйце свае закладкі, паролі і іншае.
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Пачаць

@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 700px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Капіяваць
     .accesskey = К
+
 select-all =
     .key = A
 menu-select-all =
     .label = Вылучыць усё
     .accesskey = у
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Агульныя
     .accesskey = А
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Назва
 general-meta-content =
     .label = Змест
+
 media-tab =
     .label = Медыя
     .accesskey = М
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = Захаваць як…
     .accesskey = х
+
 perm-tab =
     .label = Дазволы
     .accesskey = Д
 permissions-for =
     .value = Дазволы для:
+
 security-tab =
     .label = Бяспека
     .accesskey = Б
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = Канчаецца:
 security-view-privacy =
     .value = Прыватнасць і гісторыя
+
 security-view-privacy-history-value = Ці я наведваў гэты вэб-сайт раней?
 security-view-privacy-sitedata-value = Ці захоўвае гэты вэб-сайт звесткі на маім камп'ютары?
+
 security-view-privacy-clearsitedata =
     .label = Выдаліць кукі і дадзеныя сайтаў
     .accesskey = В
+
 security-view-privacy-passwords-value = Ці я захаваў які-небудзь пароль для гэтага вэб-сайта?
+
 security-view-privacy-viewpasswords =
     .label = Прагледзець захаваныя паролі
     .accesskey = п
 security-view-technical =
     .value = Тэхнічныя падрабязнасці
+
 help-button =
     .label = Даведка
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = Так, кукі і { $value } { $unit } дадзеных з сайта
 security-site-data-only = Так, { $value } { $unit } дадзеных з сайта
+
 security-site-data-cookies-only = Так, кукі
 security-site-data-no = Не
 
@@ -139,6 +152,7 @@ media-video = Відэа
 media-audio = Гук
 saved-passwords-yes = Так
 saved-passwords-no = Не
+
 no-page-title =
     .value = Старонка без загалоўку:
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Ужываць прадвызначаныя
 security-no-visits = Не
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -164,6 +179,7 @@ general-meta-tags =
             [few] Мета ({ $tags } тэгі)
            *[many] Мэта ({ $tags } тэгаў)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -175,6 +191,7 @@ security-visits-number =
         [few] Так, { $visits } разы
        *[many] Так, { $visits } разоў
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -186,6 +203,7 @@ properties-general-size =
             [few] { $kb } КБ ({ $bytes } байты)
            *[many] { $kb } КБ ({ $bytes } байтаў)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -198,12 +216,14 @@ media-animated-image-type =
             [few] Выява { $type } (анімацыя, { $frames } кадры)
            *[many] Выява { $type } (анімацыя, { $frames } кадраў)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Выява { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -213,17 +233,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }пкс × { $dimy }пкс (маштабаваны да { $scaledx }пкс × { $scaledy }пкс)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }пкс × { $dimy }пкс
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } КБ
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -231,6 +254,7 @@ media-file-size = { $size } КБ
 media-block-image =
     .label = Затрымліваць выявы з { $website }
     .accesskey = З
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
