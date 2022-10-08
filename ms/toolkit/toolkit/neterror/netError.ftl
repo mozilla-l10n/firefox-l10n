@@ -62,6 +62,9 @@ neterror-nss-failure-contact-website = Sila hubungi pemilik laman web untuk mema
 certerror-intro = { -brand-short-name } mengesan ada potensi ancaman keselamatan dan tidak meneruskan ke <b>{ $hostname }</b>. Jika anda lawat laman web ini, penyerang boleh cuba untuk mencuri maklumat seperti kata laluan, e-mel atau butiran kad kredit anda.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } mengesan potensi ancaman keselamatan dan tidak terus <b>{ $hostname }</b> kerana laman web ini memerlukan sambungan yang selamat.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } mengesan isu dan tidak terus <b>{ $hostname }</b>. Laman web sama ada salah konfigurasi atau jam komputer ditetapkan mengikut masa yang salah.
 neterror-corrupted-content-intro = Halaman yang anda cuba lihat tidak dapat dipaparkan kerana ada ralat dalam transmisi data.
 neterror-corrupted-content-contact-website = Sila hubungi pemilik laman web untuk memaklumkan masalah ini.
@@ -76,6 +79,8 @@ neterror-inadequate-security-code = Kod ralat: NS_ERROR_NET_INADEQUATE_SECURITY
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Komputer anda fikir sekarang ialah { DATETIME($now, dateStyle: "medium") }, yang menghalang { -brand-short-name } membuat sambungan dengan selamat. Untuk melawat <b>{ $hostname }</b>, kemas kini jam komputer dalam tetapan sistem ke tarikh, masa dan zon masa semasa dan mulakan semula <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Halaman yang anda cuba papar tidak dapat ditunjukkan kerana ada ralat dalam protokol rangkaian.
+neterror-network-protocol-error-contact-website = Sila hubungi pemilik laman web untuk memaklumkan masalah ini.
 certerror-expired-cert-second-para = Kemungkinan sijil laman web tamat tempoh, yang menghalang { -brand-short-name } menyambung dengan selamat. Jika anda melawat laman web ini, penyerang boleh cuba mencuri maklumat seperti kata laluan, emel atau butiran kad kredit anda.
 certerror-expired-cert-sts-second-para = Kemungkinan sijil laman web tamat tempoh, yang menghalang { -brand-short-name } menyambung dengan selamat.
 certerror-what-can-you-do-about-it-title = Apa yang anda boleh lakukan tentangnya?
