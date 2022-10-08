@@ -31,6 +31,7 @@ findbar-entire-word =
     .label = Awalen iččuranen
     .accesskey = w
     .tooltiptext = Nadi kan awalen ukmilen
+findbar-not-found = Ulac tawinest
 findbar-wrapped-to-top = Yabbeḍ s adda n usebter, kemmel s ufella
 findbar-wrapped-to-bottom = Yabbeḍ s afella n usebter, kemmel s wadda
 findbar-normal-find =
