@@ -9,5 +9,7 @@
 
 default-bookmarks-title = Էջանիշեր
 default-bookmarks-heading = Էջանիշեր
+
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = Մեր Մասին
+

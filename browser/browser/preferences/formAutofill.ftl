@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Պահպանված հասցեներ
 autofill-manage-addresses-list-header = Հասցեներ
+
 autofill-manage-credit-cards-title = Պահպանված բանկային քարտեր
 autofill-manage-credit-cards-list-header = Բանկային քարտեր
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Հեռացնել
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Խմբագրել…
 autofill-add-new-address-title = Ավելացնել նոր հասցե
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Խմբագրել հասցեն
+
 autofill-address-given-name = Անուն
 autofill-address-additional-name = Հայրանուն
 autofill-address-family-name = Ազգանուն
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Երկիր կամ տարածաշրջան
 autofill-address-tel = Հեռախոս
 autofill-address-email = Էլ. փոստ
+
 autofill-cancel-button = Չեղարկել
 autofill-save-button = Պահպանել
 autofill-country-warning-message = Ինքնալրացման ձևը այժմ մատչելի է միայն որոշ երկրների համար:
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ավելացնել նոր բանկային քարտ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Խմբագրել բանկային քարտը
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկություն։ Հաստատեք ստորև այս պատուհանների էջի մատչումը։
        *[other] { -brand-short-name }-ը փորձում է ցցուցադրել բանկային քարտի տեղեկությունը։
     }
+
 autofill-card-number = Քատի համարը
 autofill-card-invalid-number = Մուտքագրեք ճիշտ քարտի համար
 autofill-card-name-on-card = Անունը քարտի վրա

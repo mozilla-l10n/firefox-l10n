@@ -7,6 +7,8 @@
 ### feature.
 
 about-unloads-page-title = Ներդիրի ապավերբեռնավորում
+
 about-unloads-column-priority = Առաջնահերթություն
 about-unloads-column-host = Հոսթ
 about-unloads-column-last-accessed = Վերջին մատչում
+

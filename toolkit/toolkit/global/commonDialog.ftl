@@ -6,6 +6,7 @@ common-dialog-username =
     .value = Օգտվողի անուն
 common-dialog-password =
     .value = Գաղտնաբառ
+
 common-dialog-copy-cmd =
     .label = Պատճենել
     .accesskey = Պ

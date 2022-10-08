@@ -5,6 +5,7 @@
 printui-title = Տպել
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Պահպանել որպես
+
 printui-page-range-all = Բոլորը
 printui-page-range-custom = Ընտրված
 printui-page-range-label = Էջեր
@@ -13,25 +14,33 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Մուտքագրեք էջերի ընտրված ընդգրկույթը
     .placeholder = օր.՝ 2-6,9,12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Օրինակներ
+
 printui-orientation = Դիրքավորում
 printui-landscape = Ալբոմային
 printui-portrait = Գրքային
+
 # Section title for the printer or destination device to target
 printui-destination-label = Նպատակակետը
 printui-destination-pdf-label = Պահել PDF-ում
+
 printui-more-settings = Լրացուցիչ կարգավորումներ
 printui-less-settings = Քիչ կարգավորումներ
+
 printui-paper-size-label = Թղթի չափը
+
 # Section title (noun) for the print scaling options
 printui-scale = Մասշտաբ
 printui-scale-fit-to-page-width = Տեղավորել էջի լայնությամբ
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Մասշտաբ
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Երկկողմանի տպագրություն
 printui-two-sided-printing-off = Անջ.
+
 # Section title for miscellaneous print options
 printui-options = Ընտրանքներ
 printui-headers-footers-checkbox = Տպել էջագլուխները և էջատակները
@@ -47,19 +56,26 @@ printui-backgrounds-checkbox = Տպել խորքերը
 printui-color-mode-label = Գունավոր կերպը
 printui-color-mode-color = Գունավոր
 printui-color-mode-bw = Սեւ եւ սպիտակ
+
 printui-margins = Լուսանցքներ
 printui-margins-none = Չկա
 printui-margins-custom-inches = Ընտրված (դյույմ)
+
 printui-system-dialog-link = Տպելիս գտագործելով համակարգի երկխոսությունը…
+
 printui-primary-button = Տպել
 printui-cancel-button = Չեղարկել
 printui-close-button = Փակել
+
 printui-loading = Նախադիտման պատրաստում
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Տպելու նախադիտում
+
 printui-pages-per-sheet = Էջեր թերթում
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Տպում է…

@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY productHelp.label "&brandShortName; Օգնություն">
 <!ENTITY productHelp.accesskey "H">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "արագացուցիչ">
