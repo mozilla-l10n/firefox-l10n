@@ -8,6 +8,7 @@
 
 ## Error page actions
 
+neterror-return-to-previous-page-button = Undur
 neterror-try-again-button = Cuba Lagi
 
 ##
