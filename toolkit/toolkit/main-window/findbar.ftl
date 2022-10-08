@@ -40,6 +40,10 @@ findbar-fast-find =
     .placeholder = 快速尋找
 findbar-fast-find-links =
     .placeholder = 快速尋找 (僅鏈結)
+findbar-case-sensitive-status =
+    .value = （區分大小寫）
+findbar-match-diacritics-status =
+    .value = （變音符號需符合）
 findbar-entire-word-status =
     .value = （僅整個字）
 # Variables:
