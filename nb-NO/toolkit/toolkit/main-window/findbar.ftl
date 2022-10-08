@@ -38,6 +38,8 @@ findbar-fast-find =
     .placeholder = Hurtigsøk
 findbar-fast-find-links =
     .placeholder = Hurtigsøk (bare lenker)
+findbar-entire-word-status =
+    .value = (Bare hele ord)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
