@@ -5,6 +5,8 @@
 select-bookmark-window =
     .title = Kugena Paji Ndasukirwaho
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Kugena Paji Ndasukirwaho
     .style = min-width: 32em;
+

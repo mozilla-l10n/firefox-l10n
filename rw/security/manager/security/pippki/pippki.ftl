@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Irimo Kwimura Icyemezo
     .style = width: 46em
+
 download-cert-window2 =
     .title = Irimo Kwimura Icyemezo
     .style = min-width: 46em
