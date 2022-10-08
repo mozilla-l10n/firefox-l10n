@@ -8,6 +8,14 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Ai un raport de defecțiune netrimis
+        [few] Ai { $reportCount } rapoarte de defecțiuni netrimise
+       *[other] Ai { $reportCount } de rapoarte de defecțiuni netrimise
+    }
 pending-crash-reports-view-all =
     .label = Vezi
 pending-crash-reports-send =
