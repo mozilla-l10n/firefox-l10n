@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = การตั้งค่าการแยกข้อมูล { $name }
     .style = width: 45em
+
 containers-window-new2 =
     .title = เพิ่มการแยกข้อมูลใหม่
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = การตั้งค่าการแยกข้อมูล { $name }
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = ชื่อ
     .accesskey = ช
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = ป้อนชื่อการแยกข้อมูล
+
 containers-icon-label = ไอคอน
     .accesskey = อ
     .style = { -containers-labels-style }
+
 containers-color-label = สี
     .accesskey = ส
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = เสร็จสิ้น
     .buttonaccesskeyaccept = ร
+
 containers-color-blue =
     .label = น้ำเงิน
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = ม่วง
 containers-color-toolbar =
     .label = จับคู่แถบเครื่องมือ
+
 containers-icon-fence =
     .label = รั้ว
 containers-icon-fingerprint =

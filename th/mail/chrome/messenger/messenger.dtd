@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "แชท">
 <!ENTITY goChatCmd.accesskey "ช">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "ข้อความที่ติดดาว">
 <!ENTITY prevStarredMsgCmd.accesskey "ต">
 <!ENTITY folderMenu.label "โฟลเดอร์">

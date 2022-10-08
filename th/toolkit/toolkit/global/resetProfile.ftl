@@ -9,6 +9,7 @@ refresh-profile-dialog-description = ล้างใหม่เพื่อแ�
 refresh-profile = รีดประสิทธิภาพ { -brand-short-name }
 refresh-profile-button = ล้าง { -brand-short-name } ใหม่…
 refresh-profile-learn-more = เรียนรู้เพิ่มเติม
+
 refresh-profile-progress =
     .title = ล้าง { -brand-short-name } ใหม่
 refresh-profile-progress-description = เกือบเสร็จสิ้น…
