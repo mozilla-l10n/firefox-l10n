@@ -38,6 +38,13 @@ neterror-load-error-try-again = 此站点暂时无法使用或者太过忙碌。
 neterror-load-error-connection = 如果您无法载入任何网页，请检查您计算机的网络连接状态。
 neterror-load-error-firewall = 如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 { -brand-short-name } 已被授权访问网络。
 neterror-captive-portal = 您必须先登录此网络才能访问互联网。
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = 您是要打开 <a data-l10n-name="website">{ $hostAndPath }</a> 吗？
+neterror-dns-not-found-hint-header = <strong>若您确认输入的是正确网址，可以：</strong>
+neterror-dns-not-found-hint-try-again = 稍后再试
+neterror-dns-not-found-hint-check-network = 检查您的网络连接
+neterror-dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有联网权限（可能已接入网络，但被防火墙阻止）
 neterror-file-not-found-filename = 请检查文件名是否大小写输错，或者有其他输入错误。
 neterror-file-not-found-moved = 请检查文件是否已被移动，重命名或删除。
 neterror-access-denied = 文件可能已被删除、移动，或者因文件权限问题被拒绝访问。
