@@ -24,6 +24,7 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Όλα τα ευρετήρια
 all-address-books = Όλα τα ευρετήρια
+
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -31,6 +32,7 @@ about-addressbook-card-count = Σύνολο επαφών στο «{ $name }»: {
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = Σύνολο επαφών σε όλα τα ευρετήρια: { $count }
+
 about-addressbook-books-context-properties =
     .label = Ιδιότητες
 about-addressbook-books-context-edit-list =
@@ -49,6 +51,7 @@ about-addressbook-books-context-remove =
     .label = Αφαίρεση
 about-addressbook-books-context-startup-default =
     .label = Προεπιλεγμένος κατάλογος εκκίνησης
+
 about-addressbook-confirm-delete-book-title = Διαγραφή ευρετηρίου
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -66,14 +69,17 @@ about-addressbook-search =
     .placeholder = Αναζήτηση σε { $name }
 about-addressbook-search-all =
     .placeholder = Αναζήτηση σε όλα τα ευρετήρια
+
 about-addressbook-sort-button2 =
     .title = Επιλογές εμφάνισης λίστας
+
 about-addressbook-name-format-display =
     .label = Εμφανιζόμενο όνομα
 about-addressbook-name-format-firstlast =
     .label = Όνομα Επώνυμο
 about-addressbook-name-format-lastfirst =
     .label = Επώνυμο, Όνομα
+
 about-addressbook-sort-name-ascending =
     .label = Ταξινόμηση κατά όνομα (Α > Ω)
 about-addressbook-sort-name-descending =
@@ -82,6 +88,7 @@ about-addressbook-sort-email-ascending =
     .label = Ταξινόμηση κατά διεύθυνση email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ταξινόμηση κατά διεύθυνση email (Z > A)
+
 about-addressbook-horizontal-layout =
     .label = Εναλλαγή σε οριζόντια διάταξη
 about-addressbook-vertical-layout =
@@ -117,8 +124,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Ευρετήριο
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = Σύνταξη
+
 about-addressbook-confirm-delete-mixed-title = Διαγραφή επαφών και λιστών
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -190,19 +199,27 @@ about-addressbook-selection-contacts-header = { $count } επιλεγμένες 
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = { $count } επιλεγμένες λίστες
+
 about-addressbook-details-edit-photo =
     .title = Επεξεργασία φωτογραφίας επαφής
+
 about-addressbook-new-contact-header = Νέα επαφή
+
 about-addressbook-prefer-display-name = Να προτιμηθεί η εμφάνιση ονόματος στην κεφαλίδα του μηνύματος
+
 about-addressbook-write-action-button = Σύνταξη
 about-addressbook-event-action-button = Εκδήλωση
 about-addressbook-search-action-button = Αναζήτηση
+
 about-addressbook-new-list-action-button = Νέα λίστα
+
 about-addressbook-begin-edit-contact-button = Επεξεργασία
 about-addressbook-delete-edit-contact-button = Διαγραφή
 about-addressbook-cancel-edit-contact-button = Ακύρωση
 about-addressbook-save-edit-contact-button = Αποθήκευση
+
 about-addressbook-add-contact-to = Προσθήκη σε:
+
 about-addressbook-details-email-addresses-header = Διευθύνσεις email
 about-addressbook-details-phone-numbers-header = Αριθμοί τηλεφώνου
 about-addressbook-details-addresses-header = Διευθύνσεις
@@ -210,12 +227,14 @@ about-addressbook-details-notes-header = Σημειώσεις
 about-addressbook-details-impp-header = Άμεσα μηνύματα
 about-addressbook-details-websites-header = Ιστότοποι
 about-addressbook-details-other-info-header = Άλλες πληροφορίες
+
 about-addressbook-entry-type-work = Εργασία
 about-addressbook-entry-type-home = Οικία
 about-addressbook-entry-type-fax = Φαξ
 # Or "Mobile"
 about-addressbook-entry-type-cell = Κινητό
 about-addressbook-entry-type-pager = Βομβητής
+
 about-addressbook-entry-name-birthday = Γενέθλια
 about-addressbook-entry-name-anniversary = Επέτειος
 about-addressbook-entry-name-title = Τίτλος
@@ -223,10 +242,12 @@ about-addressbook-entry-name-role = Ρόλος
 about-addressbook-entry-name-organization = Οργανισμός
 about-addressbook-entry-name-website = Ιστότοπος
 about-addressbook-entry-name-time-zone = Ζώνη ώρας
+
 about-addressbook-entry-name-custom1 = Προσαρμοσμένο 1
 about-addressbook-entry-name-custom2 = Προσαρμοσμένο 2
 about-addressbook-entry-name-custom3 = Προσαρμοσμένο 3
 about-addressbook-entry-name-custom4 = Προσαρμοσμένο 4
+
 about-addressbook-unsaved-changes-prompt-title = Μη αποθηκευμένες αλλαγές
 about-addressbook-unsaved-changes-prompt = Θέλετε να αποθηκεύσετε τις αλλαγές σας πριν αποχωρήσετε από την προβολή επεξεργασίας;
 
@@ -236,6 +257,7 @@ about-addressbook-photo-drop-target = Εναποθέστε ή επικολλήσ
 about-addressbook-photo-drop-loading = Φόρτωση φωτογραφίας…
 about-addressbook-photo-drop-error = Αποτυχία φόρτωσης φωτογραφίας.
 about-addressbook-photo-filepicker-title = Επιλογή αρχείου εικόνας
+
 about-addressbook-photo-discard = Απόρριψη υπάρχουσας φωτογραφίας
 about-addressbook-photo-cancel = Ακύρωση
 about-addressbook-photo-save = Αποθήκευση

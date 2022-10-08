@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Εύρεση
     .accesskey = ρ
+
 context-text-action-find-again =
     .label = Εύρεση ξανά
     .accesskey = ξ
+
 text-action-find =
     .label = Εύρεση
     .accesskey = ρ
+
 text-action-find-again =
     .label = Εύρεση ξανά
     .accesskey = ξ

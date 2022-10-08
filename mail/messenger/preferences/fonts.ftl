@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Προεπιλογή ({ $name })
 fonts-label-default-unnamed =
     .label = Προεπιλογή
+
 fonts-encoding-dialog-title =
     .title = Γραμματοσειρές και κωδικοποίηση
+
 fonts-language-legend =
     .value = Γραμματοσειρές για:
     .accesskey = τ
+
 fonts-proportional-label =
     .value = Μεταβλητού πλάτους:
     .accesskey = β
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-proportional-label =
     .value = Μέγεθος:
     .accesskey = ε
+
 font-size-monospace-label =
     .value = Μέγεθος:
     .accesskey = ε
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Σταθερού πλάτους:
     .accesskey = Σ
+
 font-min-size-label =
     .value = Ελάχιστο μέγεθος γραμματοσειράς:
     .accesskey = χ
+
 min-size-none =
     .label = Κανένα
 
 ## Fonts in message
 
 font-control-legend = Έλεγχος γραμματοσειράς
+
 use-document-fonts-checkbox =
     .label = Να επιτρέπεται στα μηνύματα η χρήση άλλων γραμματοσειρών
     .accesskey = ο
+
 use-fixed-width-plain-checkbox =
     .label = Χρήση γραμματοσειράς σταθερού πλάτους για μηνύματα απλού κειμένου
     .accesskey = ρ
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Κωδικοποίηση κειμένου
+
 text-encoding-description = Ρύθμιση της προεπιλεγμένης κωδικοποίησης χαρακτήρων για την αποστολή και λήψη αλληλογραφίας
+
 font-outgoing-email-label =
     .value = Εξερχόμενα:
     .accesskey = ξ
+
 font-incoming-email-label =
     .value = Εισερχόμενα:
     .accesskey = ι
+
 default-font-reply-checkbox =
     .label = Όταν είναι δυνατόν, να γίνεται χρήση της προεπιλεγμένης κωδικοποίησης στις απαντήσεις
     .accesskey = υ

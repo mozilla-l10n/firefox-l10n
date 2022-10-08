@@ -7,6 +7,7 @@ page-subtitle =
     Αυτή η σελίδα περιέχει τεχνικές πληροφορίες που ενδέχεται να φανούν χρήσιμες κατά
     την επίλυση προβλημάτων. Αν ψάχνετε για απαντήσεις σε συχνές ερωτήσεις σχετικά με το
     { -brand-short-name }, δείτε τη <a data-l10n-name="support-link">σελίδα υποστήριξής</a> μας.
+
 crashes-title = Αναφορές κατάρρευσης
 crashes-id = ID αναφοράς
 crashes-send-date = Υποβεβλημένα
@@ -77,10 +78,12 @@ app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Mo
 app-basics-safe-mode = Ασφαλής λειτουργία
 app-basics-memory-size = Μέγεθος μνήμης (RAM)
 app-basics-disk-available = Διαθέσιμος χώρος δίσκου
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Προβολή στο Finder
@@ -199,6 +202,7 @@ report-crash-for-days =
         [one] Αναφορές κατάρρευσης της τελευταίας { $days } ημέρας
        *[other] Αναφορές κατάρρευσης των τελευταίων { $days } ημερών
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -206,6 +210,7 @@ crashes-time-minutes =
         [one] { $minutes } λεπτό πριν
        *[other] { $minutes } λεπτά πριν
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -213,6 +218,7 @@ crashes-time-hours =
         [one] { $hours } ώρα πριν
        *[other] { $hours } ώρες πριν
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -220,6 +226,7 @@ crashes-time-days =
         [one] { $days } μέρα πριν
        *[other] { $days } ημέρες πριν
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -227,6 +234,7 @@ pending-reports =
         [one] Όλες οι αναφορές κατάρρευσης (συμπεριλαμβανομένης { $reports } κατάρρευσης σε αναμονή στο δεδομένο χρονικό διάστημα)
        *[other] Όλες οι αναφορές κατάρρευσης (συμπεριλαμβανομένων { $reports } καταρρεύσεων σε αναμονή στο δεδομένο χρονικό διάστημα)
     }
+
 raw-data-copied = Τα ακατέργαστα δεδομένα αντιγράφτηκαν στο πρόχειρο
 text-copied = Το κείμενο αντιγράφτηκε στο πρόχειρο
 
@@ -239,9 +247,11 @@ blocked-mismatched-version = Αποκλείστηκε λόγω ασυμφωνί�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Αποκλείστηκε για το πρόγραμμα οδήγησης της κάρτας γραφικών σας. Δοκιμάστε να το αναβαθμίστε στην έκδοση { $driverVersion } ή νεότερη.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Παράμετροι ClearType
+
 compositing = Σύνθεση
 hardware-h264 = Αποκωδικοποίηση υλικού H264
 main-thread-no-omtc = κύριο νήμα, όχι OMTC
@@ -256,6 +266,7 @@ virtual-monitor-disp = Οθόνη εικονικής εποπτείας
 
 found = Βρέθηκε
 missing = Λείπει
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Περιγραφή
@@ -278,15 +289,19 @@ webgl2-renderer = Πρόγραμμα οδήγησης απεικόνισης Web
 webgl2-version = Έκδοση προγράμματος οδήγησης WebGL 2
 webgl2-driver-extensions = Επεκτάσεις προγράμματος οδήγησης WebGL 2
 webgl2-extensions = Επεκτάσεις WebGL 2
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Αποκλείστηκε λόγω γνωστών ζητημάτων: <a data-l10n-name="bug-link">σφάλμα { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Αποκλείστηκε· κωδικός αποτυχίας { $failureCode }
+
 d3d11layers-crash-guard = Συνθέτης D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Αποκωδικοποιητής βίντεο WMF VPX
+
 reset-on-next-restart = Επαναφορά στην επόμενη επανεκκίνηση
 gpu-process-kill-button = Τερματισμός διεργασίας GPU
 gpu-device-reset = Επαναφορά συσκευής
@@ -296,8 +311,10 @@ content-uses-tiling = Χρησιμοποιεί παράθεση (περιεχό�
 off-main-thread-paint-enabled = Ενεργό off main thread painting
 off-main-thread-paint-worker-count = Πλήθος worker για off main thread painting
 target-frame-rate = Ρυθμός καρέ στόχου
+
 min-lib-versions = Αναμενόμενη ελάχιστη έκδοση
 loaded-lib-versions = Έκδοση σε χρήση
+
 has-seccomp-bpf = Seccomp-BPF (Φιλτράρισμα κλήσεων συστήματος)
 has-seccomp-tsync = Συγχρονισμός νήματος Seccomp
 has-user-namespaces = Χώροι ονομάτων χρήστη
@@ -311,15 +328,18 @@ sandbox-proc-type-content = περιεχόμενο
 sandbox-proc-type-file = περιεχόμενο αρχείου
 sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
 sandbox-proc-type-data-decoder = αποκωδικοποιητής δεδομένων
+
 startup-cache-title = Κρυφή μνήμη εκκίνησης
 startup-cache-disk-cache-path = Διαδρομή κρυφής μνήμης δίσκου
 startup-cache-ignore-disk-cache = Παράβλεψη κρυφής μνήμης δίσκου
 startup-cache-found-disk-cache-on-init = Βρέθηκε κρυφή μνήμη δίσκου στο Init
 startup-cache-wrote-to-disk-cache = Εγγράφηκε στην κρυφή μνήμη δίσκου
+
 launcher-process-status-0 = Ενεργή
 launcher-process-status-1 = Ανενεργή λόγω αποτυχίας
 launcher-process-status-2 = Ανενεργή εξαναγκαστικά
 launcher-process-status-unknown = Άγνωστη κατάσταση
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -339,6 +359,7 @@ fission-status-enabled-by-user-pref = Ενεργοποιήθηκε από το �
 fission-status-disabled-by-user-pref = Απενεργοποιήθηκε από το χρήστη
 fission-status-disabled-by-e10s-other = Ανενεργό E10s
 fission-status-enabled-by-rollout = Ενεργό με σταδιακή διάθεση
+
 async-pan-zoom = Ασύγχρονο pan/zoom
 apz-none = κανένα
 wheel-enabled = είσοδος ρόδας ενεργή
@@ -375,6 +396,7 @@ support-remote-experiments-title = Απομακρυσμένα πειράματα
 support-remote-experiments-name = Όνομα
 support-remote-experiments-branch = Κλάδος πειραμάτων
 support-remote-experiments-see-about-studies = Δείτε το <a data-l10n-name="support-about-studies-link">about:studies</a> για περισσότερες πληροφορίες, όπως για απενεργοποίηση μεμονωμένων πειραμάτων ή αποτροπή αυτού του τύπου πειραμάτων στο { -brand-short-name }.
+
 support-remote-features-title = Απομακρυσμένες δυνατότητες
 support-remote-features-name = Όνομα
 support-remote-features-status = Κατάσταση

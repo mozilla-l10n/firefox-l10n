@@ -38,9 +38,11 @@ menu-quit =
             [windows] ξ
            *[other] ξ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Έξοδος από το { -brand-shorter-name }
+
 menu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = τ
