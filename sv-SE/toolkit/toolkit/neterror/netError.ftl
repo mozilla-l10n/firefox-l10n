@@ -7,8 +7,11 @@
 
 neterror-page-title = Fel vid sidhämtning
 certerror-page-title = Varning: Möjlig säkerhetsrisk framöver
+certerror-sts-page-title = Kunde inte ansluta: Potentiellt säkerhetsproblem
 neterror-blocked-by-policy-page-title = Blockerad sida
 neterror-captive-portal-page-title = Logga in till nätverk
+neterror-dns-not-found-title = Servern hittades inte
+neterror-malformed-uri-page-title = Ogiltig URL
 
 ## Error page actions
 
@@ -19,6 +22,7 @@ neterror-open-portal-login-page-button = Öppna inloggningssida för nätverk
 neterror-override-exception-button = Acceptera risken och fortsätt
 neterror-pref-reset-button = Återställ standardinställningar
 neterror-return-to-previous-page-button = Gå bakåt
+neterror-return-to-previous-page-recommended-button = Gå tillbaka (rekommenderas)
 neterror-try-again-button = Försök igen
 neterror-view-certificate-link = Visa certifikat
 
