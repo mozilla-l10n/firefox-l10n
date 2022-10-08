@@ -5,26 +5,34 @@
 permissions-window =
     .title = Swa le thlelo
     .style = width: 36em
+
 permissions-window2 =
     .title = Swa le thlelo
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Block
     .accesskey = B
+
 permissions-session =
     .label = Allow for Session
     .accesskey = S
+
 permissions-allow =
     .label = Allow
     .accesskey = A
+
 permissions-status =
     .label = Xiyimo
+
 permissions-capabilities-allow =
     .label = Pfumelela
 permissions-capabilities-block =
     .label = Siva
+
 permissions-capabilities-listitem-allow =
     .value = Pfumelela
 permissions-capabilities-listitem-block =
