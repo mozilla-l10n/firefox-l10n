@@ -47,3 +47,11 @@ findbar-found-matches =
             [one] { $total } બંધબેસતુનું { $current }{ "  " }
            *[other] { $total } બંધબેસતુનું { $current }
         }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } બંધબેસતા કરતા વધારે
+           *[other] { " " }{ $limit } બંધબેસતા કરતા વધારે
+        }
