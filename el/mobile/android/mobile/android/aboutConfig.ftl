@@ -2,3 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-toolbar-search =
+    .placeholder = Αναζήτηση
+config-new-pref-name =
+    .placeholder = Όνομα
+config-new-pref-value-string = Συμβολοσειρά
+config-new-pref-value-integer = Ακέραιος
+config-new-pref-string =
+    .placeholder = Εισάγετε μια συμβολοσειρά
+config-new-pref-number =
+    .placeholder = Εισάγετε έναν αριθμό
+config-new-pref-cancel-button = Ακύρωση
+config-context-menu-copy-pref-name =
+    .label = Αντιγραφή ονόματος
+config-context-menu-copy-pref-value =
+    .label = Αντιγραφή τιμής
