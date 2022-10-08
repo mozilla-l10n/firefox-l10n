@@ -16,6 +16,7 @@ config-new-pref-number =
 config-new-pref-cancel-button = Diddymu
 config-new-pref-create-button = Creu
 config-new-pref-change-button = Newid
+config-pref-toggle-button = Toglo
 config-pref-reset-button = Ailosod
 config-context-menu-copy-pref-name =
     .label = Copïo Enw
