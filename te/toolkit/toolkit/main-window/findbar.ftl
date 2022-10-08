@@ -21,5 +21,7 @@ findbar-entire-word =
     .tooltiptext = పూర్తి పదాలు మాత్రమే వెతుకు
 findbar-wrapped-to-top = పేజీ చివరకు చేరుకున్నది,పైనుండి కొనసాగించండి
 findbar-wrapped-to-bottom = పేజీ పైకి చేరుకున్నది, క్రింది నుండి కొనసాగించండి
+findbar-fast-find =
+    .placeholder = త్వరిత కనుగోలు
 findbar-case-sensitive-status =
     .value = (చిన్నాపెద్దా అక్షరంతేడా)
