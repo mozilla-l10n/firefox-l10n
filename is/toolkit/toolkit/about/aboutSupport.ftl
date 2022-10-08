@@ -4,6 +4,7 @@
 
 page-title = Upplýsingar fyrir úrræðaleit
 page-subtitle =   Þessi síða inniheldur tæknilegar upplýsingar sem gætu verið hjálplegar ef þú ert að reyna að leysa eitthvað vandamál. Ef þú ert að leita að svörum við algengum spurningum um { -brand-short-name }, athugaðu þá <a data-l10n-name="support-link">hjálparvefsvæðið okkar</a>.
+
 crashes-title = Hrunskýrslur
 crashes-id = Skýrslu auðkenni
 crashes-send-date = Sent
@@ -74,10 +75,12 @@ app-basics-key-mozilla = Mozilla Location Service lykill
 app-basics-safe-mode = Öryggishamur
 app-basics-memory-size = Stærð minnis (RAM)
 app-basics-disk-available = Tiltækt diskapláss
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Sýna í Finder
@@ -196,6 +199,7 @@ report-crash-for-days =
         [one] Hrunskýrslur fyrir síðasta { $days } dag
        *[other] Hrunskýrslur fyrir síðustu { $days } daga
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -203,6 +207,7 @@ crashes-time-minutes =
         [one] { $minutes } mínútu síðan
        *[other] { $minutes } mínútum síðan
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -210,6 +215,7 @@ crashes-time-hours =
         [one] { $hours } klukkustund síðan
        *[other] { $hours } klukkustundum síðan
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -217,6 +223,7 @@ crashes-time-days =
         [one] { $days } degi síðan
        *[other] { $days } dögum síðan
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -224,6 +231,7 @@ pending-reports =
         [one] Allar hrunskýrslur (einnig { $reports } hrunskýrsla í vinnslu á gefnum tíma)
        *[other] Allar hrunskýrslur (einnig { $reports } hrunskýrslur í vinnslu á gefnum tíma)
     }
+
 raw-data-copied = Hrá gögn afrituð á klippispjald
 text-copied = Texti afritaður á klippispjald
 
@@ -236,9 +244,11 @@ blocked-mismatched-version = Útgáfumismunur á milli stýrisrkáar og DLL sem 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Lokað á fyrir þína útgáfu af skjárekli. Reyndu að uppfæra skjárekil yfir í útgáfu { $driverVersion } eða nýrri.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType breytur
+
 compositing = Samsetning
 hardware-h264 = H264 kóðun í vélbúnaði
 main-thread-no-omtc = aðalþráður, ekkert OMTC
@@ -253,6 +263,7 @@ virtual-monitor-disp = Sýndarskjár
 
 found = Fannst
 missing = Vantar
+
 gpu-process-pid = GPUVinnslaPid
 gpu-process = GPUVinnsla
 gpu-description = Lýsing
@@ -275,15 +286,19 @@ webgl2-renderer = WebGL 2 myndrekill
 webgl2-version = WebGL 2 útgáfa rekils
 webgl2-driver-extensions = WebGL 2 reklaviðbætur
 webgl2-extensions = WebGL 2 viðbætur
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Sett á bannlista vegna þekktra vandamála: <a data-l10n-name="bug-link">villa { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Á svörtum lista; villukóði { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX myndafkóðari
+
 reset-on-next-restart = Endurstilla í næstu endurræsingu
 gpu-process-kill-button = Stöðva GPU ferli
 gpu-device-reset = Endurstilla tæki
@@ -293,8 +308,10 @@ content-uses-tiling = Notar flísar (innihald)
 off-main-thread-paint-enabled = Litun fyrir utan aðalþráð virkt
 off-main-thread-paint-worker-count = Fjöldi vinnsluþráða fyrir litun fyrir utan aðalþráð
 target-frame-rate = Marktíðni ramma
+
 min-lib-versions = Bjóst við lágmarksútgáfu
 loaded-lib-versions = Útgáfa í notkun
+
 has-seccomp-bpf = Seccomp-BPF (System Call sía)
 has-seccomp-tsync = Seccomp þráðasamstilling
 has-user-namespaces = Nafnarými notanda
@@ -308,15 +325,18 @@ sandbox-proc-type-content = innihald
 sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = margmiðlunar-tengiforrit
 sandbox-proc-type-data-decoder = gagnaafkóðari
+
 startup-cache-title = Skyndiminni ræsingar
 startup-cache-disk-cache-path = Slóð á diskminni
 startup-cache-ignore-disk-cache = Hunsa diskminni
 startup-cache-found-disk-cache-on-init = Fann diskminni á Init
 startup-cache-wrote-to-disk-cache = Skrifað í diskminni
+
 launcher-process-status-0 = Virkt
 launcher-process-status-1 = Óvirkt vegna óhapps
 launcher-process-status-2 = Gert óvirkt með valdi
 launcher-process-status-unknown = Óþekkt staða
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -336,6 +356,7 @@ fission-status-enabled-by-user-pref = Virkjað af notanda
 fission-status-disabled-by-user-pref = Gert óvirkt af notanda
 fission-status-disabled-by-e10s-other = E10s óvirkt
 fission-status-enabled-by-rollout = Gert virkt af útfærslu í áföngum
+
 async-pan-zoom = Ósamstillt hliðrun/aðdráttur
 apz-none = ekkert
 wheel-enabled = músa skrunhjól virkt
@@ -372,6 +393,7 @@ support-remote-experiments-title = Fjartilraunir
 support-remote-experiments-name = Heiti
 support-remote-experiments-branch = Grein tilraunar
 support-remote-experiments-see-about-studies = Skoðaðu <a data-l10n-name="support-about-studies-link">about:studies</a> til að fá frekari upplýsingar, þar á meðal hvernig á að slökkva á einstökum tilraunum eða slökkva á því að { -brand-short-name } geti í framtíðinni keyrt tilteknar tegundir tilrauna.
+
 support-remote-features-title = Fjartengingareiginleikar
 support-remote-features-name = Heiti
 support-remote-features-status = Staða

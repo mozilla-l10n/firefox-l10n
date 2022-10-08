@@ -28,18 +28,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Opna aftur lokaða flipa
         }
     .accesskey = O
+
 toolbar-context-menu-manage-extension =
     .label = Stjórna viðbót
     .accesskey = j
 toolbar-context-menu-remove-extension =
     .label = Fjarlægja viðbót
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Kvarta yfir viðbót
     .accesskey = o
+
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -61,6 +64,7 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Sérsníða verkfæraslá…
     .accesskey = C
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Sýna alltaf
     .accesskey = a
@@ -70,9 +74,11 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Sýna aðeins á nýjum flipa
     .accesskey = p
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Sýna önnur bókamerki
     .accesskey = m
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Valmyndaslá
     .accesskey = V

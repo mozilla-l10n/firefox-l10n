@@ -6,14 +6,13 @@
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Vefkökur: SameSite=Lax er sjálfgefið
+
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Virkjaðu Warp, verkefni til að bæta afköst JavaScript og minnisnotkun.
-# Text recognition for images
-experimental-features-text-recognition =
-    .label = Textagreining
-experimental-features-text-recognition-description = Virkjaðu eiginleika til að þekkja texta í myndum.
+

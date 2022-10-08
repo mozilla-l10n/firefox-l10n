@@ -106,6 +106,7 @@ tab-context-move-tabs =
            *[other] Færa flipa
         }
     .accesskey = F
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

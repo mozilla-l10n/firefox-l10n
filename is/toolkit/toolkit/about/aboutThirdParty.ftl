@@ -4,9 +4,11 @@
 
 third-party-tag-shellex = Skeljarviðbót
     .title = Þessi gerð einingar hleðst inn þegar þú opnar kerfisskráagluggann.
+
 third-party-status-loaded = Hlaðið
 third-party-status-blocked = Lokað á
 third-party-status-redirected = Endurbeint
+
 third-party-button-copy-to-clipboard = Afrita hrá gögn á klippispjald
 third-party-button-reload = Endurhlaða með kerfisupplýsingum
     .title = Endurhlaða með kerfisupplýsingum

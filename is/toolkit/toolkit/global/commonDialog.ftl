@@ -6,10 +6,12 @@ common-dialog-title-null = Þessi síða segir
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Óþekkt
+
 common-dialog-username =
     .value = Notandanafn
 common-dialog-password =
     .value = Lykilorð
+
 common-dialog-copy-cmd =
     .label = Afrita
     .accesskey = A

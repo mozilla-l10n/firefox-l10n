@@ -24,6 +24,7 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Allar nafnaskrár
 all-address-books = Allar nafnaskrár
+
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -31,6 +32,7 @@ about-addressbook-card-count = Heildarfjöldi tengiliða í { $name }: { $count 
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = Heildarfjöldi tengiliða í öllum nafnaskrám: { $count }
+
 about-addressbook-books-context-properties =
     .label = Eiginleikar
 about-addressbook-books-context-edit-list =
@@ -49,6 +51,7 @@ about-addressbook-books-context-remove =
     .label = Fjarlægja
 about-addressbook-books-context-startup-default =
     .label = Sjálfgefin ræsimappa
+
 about-addressbook-confirm-delete-book-title = Eyða nafnaskrá
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -66,14 +69,17 @@ about-addressbook-search =
     .placeholder = Leita í { $name }
 about-addressbook-search-all =
     .placeholder = Leita í öllum nafnaskrám
+
 about-addressbook-sort-button2 =
     .title = Valkostir birtingar lista
+
 about-addressbook-name-format-display =
     .label = Birtingarnafn
 about-addressbook-name-format-firstlast =
     .label = Skírnarnafn, Eftirnafn
 about-addressbook-name-format-lastfirst =
     .label = Eftirnafn, Skírnarnafn
+
 about-addressbook-sort-name-ascending =
     .label = Raða eftir nafni (A > Ö)
 about-addressbook-sort-name-descending =
@@ -82,6 +88,7 @@ about-addressbook-sort-email-ascending =
     .label = Raða eftir tölvupóstfangi (A > Ö)
 about-addressbook-sort-email-descending =
     .label = Raða eftir tölvupóstfangi (Ö > A)
+
 about-addressbook-horizontal-layout =
     .label = Skipta yfir í lárétta framsetningu
 about-addressbook-vertical-layout =
@@ -117,8 +124,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Nafnaskrá
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = Skrifa
+
 about-addressbook-confirm-delete-mixed-title = Eyða tengiliðum og listum
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -190,19 +199,27 @@ about-addressbook-selection-contacts-header = { $count } valdir tengiliðir
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = { $count } valdir listar
+
 about-addressbook-details-edit-photo =
     .title = Breyta tengiliðamynd
+
 about-addressbook-new-contact-header = Nýr tengiliður
+
 about-addressbook-prefer-display-name = Kjósa birtingarnafn fram yfir það sem stendur í haus skilaboða
+
 about-addressbook-write-action-button = Skrifa
 about-addressbook-event-action-button = Atburður
 about-addressbook-search-action-button = Leita
+
 about-addressbook-new-list-action-button = Nýr listi
+
 about-addressbook-begin-edit-contact-button = Breyta
 about-addressbook-delete-edit-contact-button = Eyða
 about-addressbook-cancel-edit-contact-button = Hætta við
 about-addressbook-save-edit-contact-button = Vista
+
 about-addressbook-add-contact-to = Bæta í:
+
 about-addressbook-details-email-addresses-header = Tölvupóstfang
 about-addressbook-details-phone-numbers-header = Símanúmer
 about-addressbook-details-addresses-header = Tölvupóstföng
@@ -210,12 +227,14 @@ about-addressbook-details-notes-header = Athugasemdir
 about-addressbook-details-impp-header = Snarskilaboð
 about-addressbook-details-websites-header = Vefsvæði
 about-addressbook-details-other-info-header = Aðrar upplýsingar
+
 about-addressbook-entry-type-work = Vinna
 about-addressbook-entry-type-home = Heima
 about-addressbook-entry-type-fax = Fax
 # Or "Mobile"
 about-addressbook-entry-type-cell = Farsími
 about-addressbook-entry-type-pager = Símboði
+
 about-addressbook-entry-name-birthday = Fæðingardagur
 about-addressbook-entry-name-anniversary = Afmæli
 about-addressbook-entry-name-title = Titill
@@ -223,10 +242,12 @@ about-addressbook-entry-name-role = Hlutverk
 about-addressbook-entry-name-organization = Fyrirtæki/Stofnun
 about-addressbook-entry-name-website = Vefsvæði
 about-addressbook-entry-name-time-zone = Tímabelti
+
 about-addressbook-entry-name-custom1 = Sérsniðið 1
 about-addressbook-entry-name-custom2 = Sérsniðið 2
 about-addressbook-entry-name-custom3 = Sérsniðið 3
 about-addressbook-entry-name-custom4 = Sérsniðið 4
+
 about-addressbook-unsaved-changes-prompt-title = Óvistaðar breytingar
 about-addressbook-unsaved-changes-prompt = Viltu vista breytingarnar þínar áður en þú ferð úr breytingaglugganum?
 
@@ -236,6 +257,7 @@ about-addressbook-photo-drop-target = Slepptu eða límdu mynd hér, eða smellt
 about-addressbook-photo-drop-loading = Hleð inn mynd...
 about-addressbook-photo-drop-error = Mistókst að hlaða inn mynd.
 about-addressbook-photo-filepicker-title = Veldu myndskrá
+
 about-addressbook-photo-discard = Henda fyrirliggjandi mynd
 about-addressbook-photo-cancel = Hætta við
 about-addressbook-photo-save = Vista

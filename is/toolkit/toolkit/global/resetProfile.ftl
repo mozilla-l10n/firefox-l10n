@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Byrjaðu upp á nýtt til að laga afkastav
 refresh-profile = Lagfæra { -brand-short-name }
 refresh-profile-button = Uppfæra { -brand-short-name }…
 refresh-profile-learn-more = Frekari upplýsingar
+
 refresh-profile-progress =
     .title = Uppfæra { -brand-short-name }
 refresh-profile-progress-description = Næstum því búið…
