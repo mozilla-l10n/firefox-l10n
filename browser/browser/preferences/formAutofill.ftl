@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Saxlanılmış Ünvanlar
 autofill-manage-addresses-list-header = Ünvanlar
+
 autofill-manage-credit-cards-title = Saxlanılmış Kredit Kartları
 autofill-manage-credit-cards-list-header = Kredit kartları
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Sil
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Düzəlt…
 autofill-add-new-address-title = Yeni ünvan əlavə et
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Ünvanı düzəlt
+
 autofill-address-given-name = Ad
 autofill-address-additional-name = İkinci ad
 autofill-address-family-name = Soyad
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Ölkə və ya Bölgə
 autofill-address-tel = Telefon
 autofill-address-email = E-poçt
+
 autofill-cancel-button = Ləğv et
 autofill-save-button = Saxla
 autofill-country-warning-message = Forma avto doldurma hazırda ancaq bəzi ölkələrdə mövcuddur.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Yeni kredit kartı əlavə et
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kredit kartını dəyişdir
+
 autofill-card-number = Kart nömrəsi
 autofill-card-invalid-number = Lütfən, keçərli kart nömrəsi daxil edin
 autofill-card-name-on-card = Kart üzərindəki ad

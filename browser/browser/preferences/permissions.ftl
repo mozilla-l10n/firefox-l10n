@@ -5,43 +5,57 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
+
 permissions-window2 =
     .title = İstisnalar
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Sayt ünvanı
     .accesskey = S
+
 permissions-block =
     .label = Blokla
     .accesskey = B
+
 permissions-session =
     .label = Bu seans üçün icazə ver
     .accesskey = r
+
 permissions-allow =
     .label = İcazə ver
     .accesskey = a
+
 permissions-site-name =
     .label = Sayt
+
 permissions-status =
     .label = Durum
+
 permissions-remove =
     .label = Saytı sil
     .accesskey = S
+
 permissions-remove-all =
     .label = Bütün saytları sil
     .accesskey = s
+
 permission-dialog =
     .buttonlabelaccept = Dəyişiklikləri Yadda Saxla
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Saytda Axtar
+
 permissions-capabilities-allow =
     .label = İcazə ver
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Həmişə soruş
+
 permissions-capabilities-listitem-allow =
     .value = İcazə ver
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = Lütfən etibarlı bir server adı daxil edin
 permissions-exceptions-cookie-window =
     .title = İstisnalar: Çərəzlər və Sayt Məlumatları
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = İstisnalar: Çərəzlər və Sayt Məlumatları
     .style = { permissions-window2.style }
@@ -75,6 +90,7 @@ permissions-exceptions-cookie-desc = Hansı saytların çərəz və sayt məluma
 permissions-exceptions-popup-window =
     .title = İcazə verilən Saytlar - Avtomatik açılan pəncərələr
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = İcazə verilən Saytlar - Avtomatik açılan pəncərələr
     .style = { permissions-window2.style }
@@ -85,6 +101,7 @@ permissions-exceptions-popup-desc = Hansı saytların avtomatik açılan pəncə
 permissions-exceptions-saved-logins-window =
     .title = İstisnalar - Saxlanılmış Hesablar
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = İstisnalar - Saxlanılmış Hesablar
     .style = { permissions-window2.style }
@@ -95,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Aşağıdakı saytlar üçün hesabla
 permissions-exceptions-addons-window =
     .title = İcazə verilən saytlar - Əlavə quraşdırılması
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = İcazə verilən saytlar - Əlavə quraşdırılması
     .style = { permissions-window2.style }
@@ -108,6 +126,7 @@ permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləc
 permissions-site-notification-window =
     .title = Tənzimləmələr - Bildiriş İcazələri
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Tənzimləmələr - Bildiriş İcazələri
     .style = { permissions-window2.style }
@@ -121,6 +140,7 @@ permissions-site-notification-disable-desc = Bu yuxarıda olmayan bütün saytla
 permissions-site-location-window =
     .title = Tənzimləmələr - Mövqe İcazələri
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Tənzimləmələr - Mövqe İcazələri
     .style = { permissions-window2.style }
@@ -137,6 +157,7 @@ permissions-site-location-disable-desc = Bu yuxarıda olmayan bütün saytların
 permissions-site-camera-window =
     .title = Tənzimləmələr - Kamera İcazələri
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Tənzimləmələr - Kamera İcazələri
     .style = { permissions-window2.style }
@@ -150,6 +171,7 @@ permissions-site-camera-disable-desc = Bu yuxarıda olmayan bütün saytların k
 permissions-site-microphone-window =
     .title = Tənzimləmələr - Mikrofon İcazələri
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Tənzimləmələr - Mikrofon İcazələri
     .style = { permissions-window2.style }
