@@ -31,9 +31,35 @@ findbar-entire-word =
     .label = Palabras completas
     .accesskey = b
     .tooltiptext = Buscar solo palabras completas
+findbar-not-found = Frase no encontrada
+findbar-wrapped-to-top = Se alcanzó el final de la página, se continua desde el principio
+findbar-wrapped-to-bottom = Se alcanzó el principio de la página, se continúa desde el final
 findbar-normal-find =
     .placeholder = Buscar en la página
 findbar-fast-find =
     .placeholder = Búsqueda rápida
 findbar-fast-find-links =
     .placeholder = Búsqueda rápida (solo enlaces)
+findbar-case-sensitive-status =
+    .value = (Coincidir mayúsculas)
+findbar-match-diacritics-status =
+    .value = (Haciendo coincidir diacrícitos)
+findbar-entire-word-status =
+    .value = (Solo palabras completas)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Coincidencia { $current } de { $total }
+           *[other] Coincidencia { $current } de { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Más de { $limit } coincidencia
+           *[other] Más de { $limit } coincidencias
+        }
