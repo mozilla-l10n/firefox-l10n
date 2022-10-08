@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-captive-portal-page-title = ចូល​បណ្ដាញ
 
 ## Error page actions
 
