@@ -6,10 +6,13 @@
 ## Error page titles
 
 neterror-captive-portal-page-title = Mag log in sa network
+neterror-dns-not-found-title = Hindi matagpuan ang server
 
 ## Error page actions
 
+neterror-copy-to-clipboard-button = Kopyahin sa clipboard
 neterror-open-portal-login-page-button = Buksan ang Login na Pahina para sa Network
+neterror-pref-reset-button = Ibalik ang default settings
 neterror-return-to-previous-page-button = Bumalik
 
 ##
