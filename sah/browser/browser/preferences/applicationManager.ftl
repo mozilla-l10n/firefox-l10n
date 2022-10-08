@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Приложение туһунан
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Приложение туһунан
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Сот
     .accesskey = С
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Маны арыйарга { $type } сигэлэр маннык бырагырааммалар туттуллуохтарын сөп.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Маны арыйарга { $type } иһинээҕитэ маннык бырагырааммалар туттуллуохтарын сөп.

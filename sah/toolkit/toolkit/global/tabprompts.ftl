@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Кыттааччы аата:
 tabmodalprompt-password =
     .value = Киирии тыл:
+
 tabmodalprompt-ok-button =
     .label = Сөп
 tabmodalprompt-cancel-button =
