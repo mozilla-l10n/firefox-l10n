@@ -38,6 +38,8 @@ findbar-fast-find-links =
     .placeholder = गोख्रै नागिरना दिहुन (लिंकल')
 findbar-case-sensitive-status =
     .value = (केस बद गोनां)
+findbar-entire-word-status =
+    .value = (गासै सोदोबफोरल')
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
