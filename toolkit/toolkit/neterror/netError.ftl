@@ -6,7 +6,10 @@
 ## Error page titles
 
 neterror-page-title = ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ
+neterror-blocked-by-policy-page-title = ਪਾਬੰਦੀ ਲਗਾਇਆ ਸਫ਼ਾ
 neterror-captive-portal-page-title = ਨੈੱਟਵਰਕ ਲਈ ਲਾਗਇਨ ਕਰੋ
+neterror-dns-not-found-title = ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ
+neterror-malformed-uri-page-title = ਅਢੁੱਕਵਾਂ URL
 
 ## Error page actions
 
