@@ -41,7 +41,6 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Framdrift: steg { $current } av { $total }
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -50,13 +49,11 @@ onboarding-welcome-steps-indicator2 =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Det byrjar her
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Møbeldesignar, Firefox-fan
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slå av animasjonar
 
@@ -82,11 +79,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Kom i gang
-
 mr1-onboarding-welcome-header = Velkomen til { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Vel { -brand-short-name } som primærnettlesar
     .title = Stiller inn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Vel { -brand-short-name } som stanardnettlesar
@@ -104,16 +99,13 @@ mr1-onboarding-default-primary-button-label = Bruk som standardnettlesar
 
 mr1-onboarding-import-header = Ta med deg alt
 mr1-onboarding-import-subtitle = Importer passorda dine, <br/>bokmerke og meir.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importer frå { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importer frå tidlegare nettlesar
 mr1-onboarding-import-secondary-button-label = Ikkje no
-
 mr2-onboarding-colorway-header = Livet i fargar
 mr2-onboarding-colorway-subtitle = Levande nye fargesamansetjingar. Tilgjengeleg i ein avgrensa periode.
 mr2-onboarding-colorway-primary-button-label = Lagre fargesamansetjing
@@ -123,26 +115,20 @@ mr2-onboarding-colorway-label-balanced = Balansert
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Modig
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatisk
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Standard
-
 mr1-onboarding-theme-header = Gjer han til din eigen
 mr1-onboarding-theme-subtitle = Tilpass { -brand-short-name } med eit tema.
 mr1-onboarding-theme-primary-button-label = Lagre tema
 mr1-onboarding-theme-secondary-button-label = Ikkje no
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systemtema
-
 mr1-onboarding-theme-label-light = Lyst
 mr1-onboarding-theme-label-dark = Mørkt
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
-
 onboarding-theme-primary-button-label = Ferdig
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -155,74 +141,61 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Brukar same fargeskjema som operativsystemet
         for knappar, menyar og vindauge.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Brukar same fargetema som operativsystemet
         for knappar, menyar og vindauge.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Bruk eit lyst tema for knappar,
         menyar og vindauge.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Bruk eit lyst tema for knappar,
         menyar og vindauge.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Bruk eit mørt tema for knappar,
         menyar og vindauge.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Bruk eit mørt tema for knappar,
         menyar og vindauge.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Bruk eit dynamisk, fargerikt tema for knappar,
         menyar og vindauge.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Bruk eit dynamisk, fargerikt tema for knappar,
         menyar og vindauge.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Bruk denne fargesamansetjinga.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Bruk denne fargesamansetjinga.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Utforsk { $colorwayName }-fargesamansetjingar.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Utforsk { $colorwayName }-fargesamansetjingar.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Utforsk standardtema.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Utforsk standardtema.
 
@@ -250,16 +223,12 @@ mr2-onboarding-start-browsing-button-label = Byrj surfinga
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Vel ditt språk
-
 mr2022-onboarding-live-language-text = { -brand-short-name } snakkar ditt språk
-
 onboarding-live-language-button-label-downloading = Lastar ned språkpakke for { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Hentar tilgjengelege språk…
 onboarding-live-language-installing = Installerer språkpakken for { $negotiatedLanguage }…
-
 mr2022-onboarding-live-language-switch-to = Byt til { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Hald fram med { $appLanguage }
-
 onboarding-live-language-secondary-cancel-download = Avbryt
 onboarding-live-language-skip-button-label = Hopp over
 
@@ -281,14 +250,12 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Behald { -brand-short-name } i Dock
        *[other] Fest { -brand-short-name } til oppgåvelinja
     }
-
 fx100-upgrade-thanks-header = 100 tusen takk
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Dette er utgjeving nummer 100 av { -brand-short-name }. Tusen takk for at <em>du</em> hjelper oss med å byggje eit betre og sunnare internett.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Dette er utgjeving nummer 100! Takk for at du er ein del av samfunnet vårt. Ha { -brand-short-name } eitt klikk unna for dei neste 100.
-
 mr2022-onboarding-secondary-skip-button-label = Hopp over dette steget
 
 ## MR2022 New User Pin Firefox screen strings
@@ -312,50 +279,53 @@ mr2022-onboarding-existing-pin-header = Takk for at du likar { -brand-product-na
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Snøgg konfigurering
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Lynrask konfigurering
+mr2022-onboarding-import-subtitle = Konfiguer { -brand-short-name } slik du likar han. Legg til bokmerke, passord, og meir, frå den gamle nettlesaren din.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importer frå tidlegare nettlesar
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Vel fargen som inspirerer deg
+mr2022-onboarding-colorway-subtitle = Uavhengige røyster kan endre kultur.
 mr2022-onboarding-colorway-primary-button-label = Vel fargesamansetjing
 mr2022-onboarding-colorway-primary-button-label-continue = Still inn og hald fram
-
+mr2022-onboarding-existing-colorway-checkbox-label = Gjer { -firefox-home-brand-name } til di fargerike startside
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =
     .title = Standard
-
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Gjeldande { -brand-short-name }-fargar
+mr2022-onboarding-colorway-description-default = <b>Bruk dei gjeldande { -brand-short-name }-fargane mine.</b>
 mr2022-onboarding-colorway-label-playmaker = Spelar
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Spelar
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Spelar (raud)
-
 mr2022-onboarding-colorway-label-expressionist = Ekspresjonistisk
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Ekspresjonistisk
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresjonistisk (gul)
-
 mr2022-onboarding-colorway-label-visionary = Visjonær
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visjonær
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visjonær (grøn)
-
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (blå)
-
 mr2022-onboarding-colorway-label-dreamer = Drøymar
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Drøymar
-
 mr2022-onboarding-colorway-label-innovator = Nyskapar
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Nyskapar
