@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-blocked-by-policy-page-title = Trang bị chặn
 neterror-captive-portal-page-title = Đăng nhập vào mạng
 neterror-dns-not-found-title = Không tìm thấy máy chủ
 neterror-malformed-uri-page-title = URL không hợp lệ
