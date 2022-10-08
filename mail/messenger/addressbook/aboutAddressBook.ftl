@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = ყველა წიგნაკი
+
 about-addressbook-books-context-properties =
     .label = პარამეტრები
 about-addressbook-books-context-synchronize =
@@ -38,6 +39,7 @@ about-addressbook-books-context-remove =
     .label = მოცილება
 about-addressbook-books-context-startup-default =
     .label = ნაგულისხმევი საწყისი საქაღალდე
+
 about-addressbook-confirm-delete-book-title = წიგნაკის წაშლა
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,14 +57,17 @@ about-addressbook-search =
     .placeholder = მოიძებნოს { $name }
 about-addressbook-search-all =
     .placeholder = მოიძებნოს ყველა წიგნაკი
+
 about-addressbook-sort-button2 =
     .title = ჩვენების პარამეტრების სია
+
 about-addressbook-name-format-display =
     .label = გამოსაჩენი სახელი
 about-addressbook-name-format-firstlast =
     .label = სახელი, გვარი
 about-addressbook-name-format-lastfirst =
     .label = გვარი, სახელი
+
 about-addressbook-sort-name-ascending =
     .label = დალაგება სახელით (ანბანურად)
 about-addressbook-sort-name-descending =
@@ -71,6 +76,7 @@ about-addressbook-sort-email-ascending =
     .label = დალაგება ელფოსტის მისამართით (ანბანურად)
 about-addressbook-sort-email-descending =
     .label = დალაგება ელფოსტის მისამართით (უკუანბანურად)
+
 about-addressbook-horizontal-layout =
     .label = თარაზულ განლაგებაზე გადართვა
 about-addressbook-vertical-layout =
@@ -103,8 +109,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = მისამართების წიგნაკი
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = მიწერა
+
 about-addressbook-confirm-delete-mixed-title = ხალხისა და სიების წაშლა
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -168,24 +176,30 @@ about-addressbook-placeholder-no-search-results = ხალხი ვერ მ�
 ## Details
 
 about-addressbook-prefer-display-name = სახელის გამოჩენა, ნაცვლად წერილის თავსართისა
+
 about-addressbook-write-action-button = ჩაწერა
 about-addressbook-event-action-button = ღონისძიება
 about-addressbook-search-action-button = ძიება
+
 about-addressbook-begin-edit-contact-button = ჩასწორება
 about-addressbook-delete-edit-contact-button = წაშლა
 about-addressbook-cancel-edit-contact-button = გაუქმება
 about-addressbook-save-edit-contact-button = შენახვა
+
 about-addressbook-add-contact-to = დამატება:
+
 about-addressbook-details-email-addresses-header = ელფოსტის მისამართები
 about-addressbook-details-phone-numbers-header = ტელეფონის ნომრები
 about-addressbook-details-addresses-header = მისამართები
 about-addressbook-details-notes-header = შენიშვნები
 about-addressbook-details-other-info-header = სხვა ინფორმაცია
+
 about-addressbook-entry-type-work = სამსახური
 about-addressbook-entry-type-home = სახლი
 about-addressbook-entry-type-fax = ფაქსი
 about-addressbook-entry-type-cell = მობილური
 about-addressbook-entry-type-pager = პეიჯერი
+
 about-addressbook-entry-name-birthday = დაბადების დღე
 about-addressbook-entry-name-anniversary = იუბილე
 about-addressbook-entry-name-title = სათაური
@@ -193,6 +207,7 @@ about-addressbook-entry-name-role = მოვალეობა
 about-addressbook-entry-name-organization = დაწესებულება
 about-addressbook-entry-name-website = ვებსაიტი
 about-addressbook-entry-name-time-zone = დროის სარტყელი
+
 about-addressbook-unsaved-changes-prompt-title = შეუნახავი ცვლილებები
 about-addressbook-unsaved-changes-prompt = გსურთ, შეინახოთ ცვლილებები გამოსვლამდე?
 
@@ -202,6 +217,10 @@ about-addressbook-photo-drop-target = განათავსეთ ან ჩ�
 about-addressbook-photo-drop-loading = იტვირთება სურათი…
 about-addressbook-photo-drop-error = ვერ ჩაიტვირთა.
 about-addressbook-photo-filepicker-title = სურათის ფაილის არჩევა
+
 about-addressbook-photo-discard = არსებული სურათის მოცილება
 about-addressbook-photo-cancel = გაუქმება
 about-addressbook-photo-save = შენახვა
+
+# Keyboard shortcuts
+

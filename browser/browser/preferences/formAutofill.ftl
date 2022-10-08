@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = დამახსოვრებული მისამართები
 autofill-manage-addresses-list-header = მისამართები
+
 autofill-manage-credit-cards-title = დამახსოვრებული საკრედიტო ბარათები
 autofill-manage-credit-cards-list-header = საკრედიტო ბარათები
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = მოცილება
@@ -21,6 +23,7 @@ autofill-manage-edit-button = ჩასწორება…
 autofill-add-new-address-title = ახალი მისამართის დამატება
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = მისამართის ჩასწორება
+
 autofill-address-given-name = სახელი
 autofill-address-additional-name = მეორე სახელი
 autofill-address-family-name = გვარი
@@ -81,13 +84,16 @@ autofill-address-eircode = Eir-კოდი
 autofill-address-country = ქვეყანა ან მხარე
 autofill-address-tel = ტელეფონი
 autofill-address-email = ელფოსტა
+
 autofill-cancel-button = გაუქმება
 autofill-save-button = შენახვა
 autofill-country-warning-message = ველების თვითშევსება, ამჟამად მიუწვდომელია ცალკეული ქვეყნებისთვის.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ახალი საკრედიტო ბარათის დამატება
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = საკრედიტო ბარათის მონაცემების ჩასწორება
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ცდილობს გამოაჩინოს საკრედიტო ბარათის მონაცემები. დაადასტურეთ ამ Windows-ანგარიშთან წვდომა.
        *[other] { -brand-short-name } ცდილობს გამოაჩინოს საკრედიტო ბარათის მონაცემები.
     }
+
 autofill-card-number = ბარათის ნომერი
 autofill-card-invalid-number = გთხოვთ, მიუთითეთ ბარათის მართებული ნომერი
 autofill-card-name-on-card = მფლობელის სახელი

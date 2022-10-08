@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = პარამეტრები
     .accesskey = ე
+
 menu-addons-and-themes =
     .label = დამატებები და თემები
     .accesskey = ტ
@@ -20,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = ხარვეზის აღმოფხვრის რეჟიმი…
     .accesskey = ხ
+
 menu-help-exit-troubleshoot-mode =
     .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
     .accesskey = გ
+
 menu-help-more-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
     .accesskey = ნ
@@ -53,27 +56,35 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = შრიფტის ზომა
     .accesskey = ო
+
 menuitem-font-size-enlarge =
     .label = ნაწერის გადიდება
     .accesskey = დ
+
 menuitem-font-size-reduce =
     .label = ნაწერის შემცირება
     .accesskey = ც
+
 menuitem-font-size-reset =
     .label = შრიფტის საწყისი ზომა
     .accesskey = წ
+
 mail-uidensity-label =
     .label = სიმჭიდროვე
     .accesskey = ჭ
+
 mail-uidensity-compact =
     .label = შეკუმშული
     .accesskey = კ
+
 mail-uidensity-normal =
     .label = ჩვეულებრივი
     .accesskey = ჩ
+
 mail-uidensity-touch =
     .label = შეხებისთვის
     .accesskey = ხ
+
 menu-spaces-toolbar-button =
     .label = არეების ზოლი
     .accesskey = ე

@@ -29,9 +29,11 @@
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
 -focus-brand-name = Firefox Focus
+
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefox-შეთავაზება
+
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name =
@@ -40,6 +42,7 @@
         [dat] Firefox-მთავარს
         [loc] Firefox-მთავარზე
     }
+
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name =

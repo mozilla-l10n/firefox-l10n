@@ -9,6 +9,7 @@ graph-week-summary =
         [one] ამ დღეებში { $count } მეთვალყურეა აღმოჩენილი, რომელსაც ზღუდავს { -brand-short-name }
        *[other] ამ დღეებში { $count } მეთვალყურეა აღმოჩენილი, რომელთაც ზღუდავს { -brand-short-name }
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -18,43 +19,57 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> მეთვალყურეა შეზღუდული თარიღიდან { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> მეთვალყურეა შეზღუდული თარიღიდან { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } განაგრძობს მეთვალყურეების შეზღუდვას პირად ჩანართებში, თუმცა არ აღრიცხავს, რა შეიზღუდა.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = მეთვალყურეები, რომელთაც ზღუდავდა { -brand-short-name } ამ კვირაში
+
 protection-report-webpage-title = დაცვის მაჩვენებლები
 protection-report-page-content-title = დაცვის მაჩვენებლები
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } იცავს თქვენს უსაფრთხოებას შეუმჩნევლად, გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რომლებითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეების ხელში აღებას.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } იცავს თქვენს უსაფრთხოებას შეუმჩნევლად, გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რომლებითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეების ხელში აღებას.
+
 protection-report-settings-link = პირადულობისა და უსართხოების პარამეტრები
+
 etp-card-title-always = თვალთვალისგან გაძლიერებული დაცვა: მუდმივად ჩართულია
 etp-card-title-custom-not-blocking = თვალთვალისგან გაძლიერებული დაცვა: გამორთულია
 etp-card-content-description = { -brand-short-name } ავტომატურად უზღუდავს კომპანიებს, თქვენს მოქმედებებზე ფარულად თვალის მიდევნების საშუალებას ვებსივრცეში.
 protection-report-etp-card-content-custom-not-blocking = დაცვა სრულად გამორთულია ამჟამად. უსაფრთხოების პარამეტრებიდან შეარჩიეთ მეთვალყურეები, რომელთაც შეზღუდავს { -brand-short-name }.
 protection-report-manage-protections = პარამეტრების მართვა
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = დღეს
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = გამოსახულებაზე მოცემულია თითოეული სახის მეთვალყურის რაოდენობა ჯამურად, რომლებიც ამ კვირაში შეიზღუდა.
+
 social-tab-title = სოციალური ქსელის მეთვალყურეები
 social-tab-contant = სოციალური ქსელები ათავსებს მეთვალყურეებს სხვა საიტებზე, რომ თვალი გადევნონ ინტერნეტში. ეს საშუალებას აძლევს მათ მფლობელ დაწესებულებებს, იმაზე მეტი რამ შეიტყონ თქვენ შესახებ, ვიდრე ამ სოციალურ ქსელში გაქვთ გაზიარებული. <a data-l10n-name="learn-more-link">ვრცლად</a>
+
 cookie-tab-title = საიტთაშორისი მეთვალყურე ფუნთუშები
 cookie-tab-content = ეს ფუნთუშები თან დაგყვებათ საიტებზე და აგროვებს მონაცემებს, თუ რას აკეთებთ ინტერნეტში. მათ იყენებს გარეშე მხარეები, სარეკლამო და კვლევითი დაწესებულებები. საიტთაშორისი მეთვალყურე ფუნთუშების შეზღუდვა, ამცირებს თვალის მდევნელ რეკლამებს თქვენ ირგვლივ. <a data-l10n-name="learn-more-link">ვრცლად</a>
+
 tracker-tab-title = თვალის მდევნელი შიგთავსი
 tracker-tab-description = საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავს თვალის სადევნებელი კოდის შემცველ მასალას. მათი შეზღუდვით, საიტი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა შეიძლება, აღარ იმუშაოს. <a data-l10n-name="learn-more-link">ვრცლად</a>
+
 fingerprinter-tab-title = მომხმარებლის ამომცნობები
 fingerprinter-tab-content = მომხმარებლის ამომცნობები აგროვებს ბრაუზერისა და კომპიუტერის მონაცემებს, თქვენი დახასიათების შესადგენად. ამის შედეგად კი თქვენი სხვებისგან გამორჩევაა შესაძლებელი, სხვადასხვა საიტებზე. <a data-l10n-name="learn-more-link">ვრცლად</a>
+
 cryptominer-tab-title = კრიპტოვალუტის გამომმუშავებლები
 cryptominer-tab-content = კრიპტოვალუტის გამომმუშავებლები სარგებლობს თქვენი სისტემის გამოთვლის სიმძლავრით ციფრული ფულის მოსაპოვებლად. ამგვარი კოდები ასუსტებს ბატარეას, ანელებს კომპიუტერს და ზრდის დენის დანახარჯს. <a data-l10n-name="learn-more-link">ვრცლად</a>
+
 protections-close-button2 =
     .aria-label = დახურვა
     .title = დახურვა
+
 mobile-app-title = შეზღუდეთ სარეკლამო მეთვალყურეები მეტ მოწყობილობაზე
 mobile-app-card-content = გამოიყენეთ მობილური ბრაუზერი ჩაშენებული დაცვით, სარეკლამო მეთვალყურეებისგან.
 mobile-app-links = { -brand-product-name } ბრაუზერი <a data-l10n-name="android-mobile-inline-link">Android-სა</a> და <a data-l10n-name="ios-mobile-inline-link">iOS-ზე</a>
+
 lockwise-title = აღარასდროს დაკარგავთ პაროლებს
 passwords-title-logged-in = მართეთ თქვენი პაროლები
 passwords-header-content = { -brand-product-name } უსაფრთხოდ შეინახავს თქვენს პაროლებს ბრაუზერში.
@@ -63,6 +78,8 @@ protection-report-passwords-save-passwords-button = პაროლების 
     .title = პაროლების შენახვა
 protection-report-passwords-manage-passwords-button = პაროლების მართვა
     .title = პაროლების მართვა
+
+
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -70,6 +87,7 @@ lockwise-scanned-text-breached-logins =
         [one] 1 პაროლი, შესაძლოა გამჟღავნებულიყო მიტაცებისას.
        *[other] { $count } პაროლი, შესაძლოა გამჟღავნებულიყო მიტაცებისას.
     }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -80,6 +98,7 @@ lockwise-scanned-text-no-breached-logins =
        *[other] თქვენი პაროლები ინახება უსაფრთხოდ
     }
 lockwise-how-it-works-link = როგორ მუშაობს
+
 monitor-title = არ გამოგრჩეთ მონაცემების მიტაცების შემთხვევები
 monitor-link = როგორ მუშაობს
 monitor-header-content-no-account = გამოცადეთ { -monitor-brand-name } და ნახეთ, თქვენი ინფორმაცია აღმოჩენილია თუ არა ცნობილ მიტაცებულ მონაცემებს შორის და მიიღეთ შეტყობინებები, ახალი შემთხვევების შესახებ.
@@ -87,12 +106,14 @@ monitor-header-content-signed-in = { -monitor-brand-name } გაცნობე
 monitor-sign-up-link = გამოიწერეთ ცნობები, მონაცემების მიტაცებებზე
     .title = გამოიწერეთ { -monitor-brand-name } ცნობები, მონაცემების მიტაცებებზე
 auto-scan = ავტომატურად გადამოწმებული დღეს
+
 monitor-emails-tooltip =
     .title = ელფოსტებზე, რომლებიც მოწმდება იხილეთ { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = ცნობილი მიტაცებების შესახებ, იხილეთ { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = გამჟღავნებული პაროლების შესახებ, იხილეთ { -monitor-brand-short-name }
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -101,6 +122,7 @@ info-monitored-emails =
         [one] ელფოსტის მისამართი ზედამხედველობის ქვეშაა
        *[other] ელფოსტის მისამართია ზედამხედველობის ქვეშ
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -109,6 +131,7 @@ info-known-breaches-found =
         [one] ცნობილ მიტაცებულ მონაცემებშია აღმოჩენილი თქვენი ინფორმაცია
        *[other] ცნობილ მიტაცებულ მონაცემებშია აღმოჩენილი თქვენი ინფორმაცია
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -117,6 +140,7 @@ info-known-breaches-resolved =
         [one] მონაცემთა ცნობილი მიტაცება, აღნიშნულია გამოსწორებულად
        *[other] მონაცემთა ცნობილი მიტაცება, აღნიშნულია გამოსწორებულად
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -125,6 +149,7 @@ info-exposed-passwords-found =
         [one] პაროლია გამჟღავნებული, მონაცემების მიტაცების შემთხვევების შედეგად
        *[other] პაროლია გამჟღავნებული, მონაცემების მიტაცების შემთხვევების შედეგად
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -133,6 +158,7 @@ info-exposed-passwords-resolved =
         [one] პაროლია მიტაცებული, რომელიც გამოსასწორებელია
        *[other] პაროლია მიტაცებული, რომელიც გამოსასწორებელია
     }
+
 monitor-no-breaches-title = მშვენიერი ამბავი!
 monitor-no-breaches-description = თქვენი მონაცემები არაა მიტაცებული. თუ რამე შეიცვლება, გაცნობებთ.
 monitor-view-report-link = ანგარიშის ნახვა
@@ -143,6 +169,7 @@ monitor-manage-breaches-link = მიტაცებული მონაცე
     .title = მიტაცებული მონაცემების მართვა – { -monitor-brand-short-name }
 monitor-breaches-resolved-title = მშვენიერია! ყველა მიტაცებული მონაცემი გამოსწორებულია.
 monitor-breaches-resolved-description = თუ თქვენი ელფოსტა აღმოჩნდება ახალ მიტაცებებში, გაცნობებთ.
+
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
@@ -151,9 +178,11 @@ monitor-partial-breaches-title =
         [one] { $numBreachesResolved } მიტაცება { $numBreaches }-იდან აღნიშნულია გამოსწორებულად
        *[other] { $numBreachesResolved } მიტაცება { $numBreaches }-იდან აღნიშნულია გამოსწორებულად
     }
+
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% შესრულებულია
+
 monitor-partial-breaches-motivation-title-start = დასაწყისისთვის მშვენიერია!
 monitor-partial-breaches-motivation-title-middle = ასე განაგრძეთ!
 monitor-partial-breaches-motivation-title-end = თითქმის მზადაა! განაგრძეთ.

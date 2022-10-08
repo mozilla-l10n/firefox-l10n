@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "სასაუბრო">
 <!ENTITY goChatCmd.accesskey "ბ">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "ვარსკვლავიანი წერილი">
 <!ENTITY prevStarredMsgCmd.accesskey "ვ">
 <!ENTITY folderMenu.label "საქაღალდე">

@@ -10,5 +10,6 @@ text-recognition-modal-searching-title = წარწერების მო�
 text-recognition-modal-results-title = ტექსტი ასლი ამოღებულია სურათიდან
 text-recognition-modal-no-results-title = სამწუხაროდ, ტექსტის ამოღება ვერ მოხერხდა. სცადეთ სხვა სურათზე. <a data-l10n-name="error-link">ვრცლად</a>.
 text-recognition-modal-close-button = დახურვა
+
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = ტექსტის ამოღების შედეგები

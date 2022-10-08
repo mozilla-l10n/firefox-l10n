@@ -9,6 +9,7 @@ refresh-profile-dialog-description = შეაკეთეთ ხარვეზ
 refresh-profile = მოაწესრიგეთ { -brand-short-name }
 refresh-profile-button = { -brand-short-name } – შეკეთება…
 refresh-profile-learn-more = ვრცლად
+
 refresh-profile-progress =
     .title = { -brand-short-name } – შეკეთება
 refresh-profile-progress-description = თითქმის დასრულებულია…
