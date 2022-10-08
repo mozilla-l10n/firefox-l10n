@@ -7,3 +7,5 @@ privatebrowsingpage-open-private-window-label = Pencereyeke Nepen ya nû veke
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
