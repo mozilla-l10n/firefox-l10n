@@ -10,6 +10,7 @@
 
 neterror-copy-to-clipboard-button = Копиране на текста в системния буфер
 neterror-learn-more-link = Научете повече…
+neterror-return-to-previous-page-button = Връщане назад
 
 ##
 
@@ -18,3 +19,5 @@ neterror-learn-more-link = Научете повече…
 
 neterror-unknown-socket-type-psm-installed = Проверете дали системата има инсталиран Personal Security Manager.
 neterror-unknown-socket-type-server-config = Настройките на сървъра може да са нестандартни.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION
