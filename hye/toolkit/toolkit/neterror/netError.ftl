@@ -49,6 +49,11 @@ neterror-not-cached-intro = Պահանջուող փաստաթուղթը հասա
 neterror-not-cached-sensitive = Անվտանգութեան նկատառումներով { -brand-short-name }-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։
 neterror-not-cached-try-again = Սեղմէք, Կրկին փորձել՝ վերապահանջելու փաստաթուղթը կայքից։
 neterror-net-offline = Սեղմէք “Կրկին փորձել"` անցնելու համար առցանց եղանակի եւ էջը վերաբացելու համար։
+neterror-proxy-resolve-failure-settings = Ստուգէք միջնորդ կարգաւորումները համոզուելու համար, որ դրանք ճիշդ են:
+neterror-proxy-resolve-failure-connection = Ստուգէք եւ համոզուէք, որ համակարգիչն ունի աշխատող ցանցային կապակցում։
+neterror-proxy-resolve-failure-firewall = Եթե Ձեր համակարգիչը կամ ցանցը պաշտպանուած է արգելապատնեշով կամ միջնորդով, համոզուէք, որ { -brand-short-name }-ն ունի ցանցին միանալու իրաւունք:
+neterror-proxy-connect-failure-settings = Ստուգէք միջնորդի կարգաւորումները՝ նրանց ստոյգութեան մէջ համոզուելու համար։
+neterror-proxy-connect-failure-contact-admin = Կապուէք Ձեր ցանցի կառավարչի հետ՝ համոզուելու համար, որ միջնորդի սպասարկիչն  աշխատում է:
 neterror-content-encoding-error = Խնդրեմ կապուէք այս կայքի սեփականատերերին այս խնդրի մասին տեղեակ պահելու համար։
 neterror-unsafe-content-type = Խնդրեմ կապուեք այս կայքի սեփականատերերին այս խնդրի մասին տեղեակ պահելու համար։
 neterror-nss-failure-not-verified = Այն էջը, որը փորձում եք դիտել, կարող է չերեւալ, որովհետեւ ստացուած տուեալների իսկութիւնը  չի կարող ստուգուել։
@@ -86,6 +91,11 @@ certerror-expired-cert-sts-second-para = Հնարաւոր է, որ կայքի վ
 certerror-what-can-you-do-about-it-title = Ի՞նչ կարող եք անել դրա վերաբերեալ։
 certerror-unknown-issuer-what-can-you-do-about-it-website = Խնդիրը ամենայն հաւանականութեամբ, կայքի հետ է, այն լուծելու համար ոչինչ չկա:
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Եթե դու միանաս այդ ցանցին կամ աւգտագործես  հակավարակաին ծրագրը դւ կարող ես հասնել աւգնութեան ջակցութեանը:Դու կարղ ես նաեւ հայտնել սեփականատերներին խնդրի մասին:
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Ձեր համակարգչի ժամացոյցը սահմանուած է { DATETIME($now, dateStyle: "medium") }։ Համոզուէք, որ Ձեր համակարգչում տուեալները, ժամանակը եւ ժամային գաւտին Ձեր համակարգի կարգաւորումներում ճիշդ են սահմանուած եւ յետոյ թարմացրէք <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Եթե Ձեր ժամացոյցն արդէն սահմանուած է ճիշդ ժամանակով, կայքը հաւանաբար սխալ է կազմաձեւուել եւ էք ծանուցել կայքի կառավարիչներին։
 certerror-bad-cert-domain-what-can-you-do-about-it = Խնդիրը, ամենայն հաւանականութեամբ, կայքի հետ է, եւ այն լուծելու համար ոչինչ չկա։ Խնդրի մասին կարող եք տեղեկացնել վեբ կայքի վարիչին։
 certerror-mitm-what-can-you-do-about-it-antivirus = Եթե Ձեր հակաւիրուսային ծրագիրը ներառում է այնպիսի յատկութիւն, որը սկանաւորում է կոդաւորուած կապերը (Հաճախ կոչուում է «վեբ սկանաւորում» կամ «https սկան»), կարող եք անջատել այդ հնարաւորութիւնը։ Եթե դա չի աշխատում, կարող եք հեռացնել եւ վերազինել հակաւիրուսային ծրագիր։
 certerror-mitm-what-can-you-do-about-it-corporate = Եթե դուք գտնուում եք կորպորատիւ ցանցում, կարող եք կապուել Ձեր ՏՏ բաժին։
