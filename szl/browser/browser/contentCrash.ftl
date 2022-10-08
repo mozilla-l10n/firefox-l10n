@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Kōnsek tyj strōny mo awaryjo.</strong>. Poślij raport, coby { -brand-product-name } sie ô tym przewiedzioł i pryndzyj to naprawiōł.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

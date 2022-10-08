@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Miano ôd używocza:
 tabmodalprompt-password =
     .value = Hasło:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

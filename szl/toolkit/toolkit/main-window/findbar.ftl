@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Znojdź nastympne pokozanie sie tyj frazy
 findbar-previous =
     .tooltiptext = Znojdź piyrwyjsze pokozanie sie tyj frazy
+
 findbar-find-button-close =
     .tooltiptext = Zawrzij posek znojdowanio
+
 findbar-highlight-all2 =
     .label = Zaznacz wszysko
     .accesskey =
@@ -19,33 +21,41 @@ findbar-highlight-all2 =
            *[other] o
         }
     .tooltiptext = Zaznacz wszyskie pokozania sie tyj frazy
+
 findbar-case-sensitive =
     .label = Poznowej srogość liter
     .accesskey = L
     .tooltiptext = Szukej ze zważowaniym na srogość liter
+
 findbar-match-diacritics =
     .label = Poznowej diakrytyki
     .accesskey = i
     .tooltiptext = Poznowej rōżnica miyndzy bazowymi literami a takimi z diakrytykami (bez przikłod przi szukaniu hasła "wroc" niy bydzie znojdniynte słowo "wrōć")
+
 findbar-entire-word =
     .label = Cołke słowa
     .accesskey = C
     .tooltiptext = Szukej ino cołkich słōw
+
 findbar-not-found = Fraza niy znaleziōno
+
 findbar-wrapped-to-top = Doszło do kōńca strōny, dalij ôd poczōntku
 findbar-wrapped-to-bottom = Doszło do poczōntku strōny, dalij ôd kōńca
+
 findbar-normal-find =
     .placeholder = Znojdź na strōnie
 findbar-fast-find =
     .placeholder = Gibkie szukanie
 findbar-fast-find-links =
     .placeholder = Gibkie szukanie (ino linki)
+
 findbar-case-sensitive-status =
     .value = (Dowej pozōr na srogość liter)
 findbar-match-diacritics-status =
     .value = (Dowej pozōr na diakrytyki)
 findbar-entire-word-status =
     .value = (Ino cołkie słowa)
+
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -56,6 +66,7 @@ findbar-found-matches =
             [few] { $current } ze { $total } pasownych
            *[many] { $current } z { $total } pasownych
         }
+
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =

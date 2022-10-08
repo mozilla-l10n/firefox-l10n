@@ -15,15 +15,18 @@ about-unloads-intro =
     ôbiyro karty do ôdpamiyntanio po załōnczyniu ôdpamiyntowanio kart.
     Idzie ryncznie ôdpamiyntować karty po klikniyńciu knefla
     <em>Ôdpamiyntej</em> niżyj.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Wejrzij na <a data-l10n-name="doc-link">Ôdpamiyntowanie kart</a>, coby sie przewiedzieć wiyncyj
     ô tyj fōnkcyji i tyj strōnie.
+
 about-unloads-last-updated = Ôstatnio zaktualizowane: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Ôdpamiyntej
     .title = Ôdpamiyntej karta z nojwyższym priorytetym
 about-unloads-no-unloadable-tab = Niy ma żodnych kart do ôdpamiyntanio.
+
 about-unloads-column-priority = Priorytet
 about-unloads-column-host = Serwer
 about-unloads-column-last-accessed = Ôstatni dostymp
@@ -35,6 +38,7 @@ about-unloads-column-memory = Pamiyńć
     .title = Przewidowane spotrzebowanie pamiyńci ôd karty
 about-unloads-column-processes = ID procesōw
     .title = ID procesōw, co hostujōm zawartość karty
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
