@@ -44,3 +44,12 @@ findbar-case-sensitive-status =
     .value = (Phân biệt HOA-thường)
 findbar-entire-word-status =
     .value = (Chỉ toàn bộ từ)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value = { $current } trên { $total } kết quả
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value = Tìm thấy hơn { $limit } kết quả
