@@ -38,6 +38,13 @@ neterror-load-error-try-again = Sementara ini mungkin situs terlalu sibuk atau t
 neterror-load-error-connection = Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.
 neterror-load-error-firewall = Apabila komputer atau jaringan Anda dilindungi firewall atau proksi, pastikan bahwa { -brand-short-name } diizinkan mengakses Web.
 neterror-captive-portal = Anda harus masuk ke dalam jaringan ini sebelum dapat mengakses Internet.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Apakah Anda bermaksud membuka <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Jika Anda memasukkan alamat yang benar, Anda dapat:</strong>
+neterror-dns-not-found-hint-try-again = Coba lagi nanti
+neterror-dns-not-found-hint-check-network = Periksa sambungan jaringan Anda
+neterror-dns-not-found-hint-firewall = Periksa apakah { -brand-short-name } memiliki izin untuk mengakses web (Anda mungkin tersambung tetapi berada di balik firewall)
 neterror-file-not-found-filename = Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.
 neterror-file-not-found-moved = Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.
 neterror-access-denied = Berkas mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.
