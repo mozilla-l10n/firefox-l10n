@@ -73,6 +73,8 @@ neterror-inadequate-security-code = Код грешке: NS_ERROR_NET_INADEQUATE
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Ваш рачунар мисли да је { DATETIME($now, dateStyle: "medium") }, што спречава { -brand-short-name } да се повеже безбедно. Да бисте посетили <b>{ $hostname }</b>, ажурирајте ваш сат на рачунару у вашим системским подешавањима на тренутан датум, време и временску зону и освежите <b>{ $hostname }</b>.
+certerror-expired-cert-second-para = Вероватно је сертификат странице истекао, што спречава { -brand-short-name } да се безбедно повеже. Ако посетите ову страницу, нападачи могу покушати да украду податке као што су лозинке, е-поруке или подаци о кредитној картици.
+certerror-expired-cert-sts-second-para = Вероватно је сертификат странице истекао, што спречава { -brand-short-name } да се безбедно повеже.
 certerror-what-can-you-do-about-it-title = Шта можете учинити поводом тога?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Проблем је највероватније са веб сајтом и ништа не можете учинити да га решите.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ако сте на пословној мрежи или користите антивирус, можете контактирати тимове за подршку и подражити од њих помоћ. Такође можете и обавестити администратора веб сајта о проблему.
@@ -82,3 +84,10 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ако сте 
 certerror-expired-cert-what-can-you-do-about-it-clock = Ваш сат на рачунару је постављен на { DATETIME($now, dateStyle: "medium") }. Поставите тачан датум, време и временску зону у вашим системским подешавањима, а затим освежите <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Ако је ваш сат већ постављен на тачно време, онда је веб сајт највероватније погрешно подешен и не можете ништа урадити поводом тога. Можете једино обавестити администратора веб сајта о проблему.
 certerror-bad-cert-domain-what-can-you-do-about-it = Проблем је највероватније са веб сајтом и не можете ништа урадити да га решите. Можете једино обавестити администратора веб сајта о проблему.
+certerror-mitm-what-can-you-do-about-it-corporate = Ако сте у корпоративној мрежи, можете се обратити свом ИТ одељењу.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Ако вам <b>{ $mitm }</b> страница није позната, ово може да представља напад и не би требало да наставите на ту страницу.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Ако вам <b>{ $mitm }</b> страница није позната, ово може да представљата напад и не можете ништа учинити како бисте приступили тој страници.
