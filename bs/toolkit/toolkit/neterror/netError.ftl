@@ -7,6 +7,8 @@
 
 neterror-page-title = Problem sa učitavanjem stranice
 neterror-captive-portal-page-title = Prijavi se na mrežu
+neterror-dns-not-found-title = Server nije pronađen
+neterror-malformed-uri-page-title = Neispravan URL
 
 ## Error page actions
 
