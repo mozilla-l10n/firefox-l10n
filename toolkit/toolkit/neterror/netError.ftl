@@ -96,6 +96,8 @@ neterror-network-protocol-error-contact-website = Mercés de contactar los propr
 certerror-expired-cert-second-para = Es probable que lo certificat del site Web s'acabèt, çò qu'empacha { -brand-short-name } de se connectar en tota seguretat. En visitant aqueste site, los atacaires poirián ensajar de panar d'informacions coma los senhals, las adreças electronicas o las donadas de cartas bancàrias.
 certerror-expired-cert-sts-second-para = Lo certificat del site acabèt benlèu, çò qu'empacha { -brand-short-name } d’establir una connexion securizada.
 certerror-what-can-you-do-about-it-title = De qué podètz far ?
+certerror-unknown-issuer-what-can-you-do-about-it-website = Lo problèma ven benlèu del site web, doncas podètz pas res far per resòlver aquò.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Se navegatz sus un ret d’entrepresa o utilizatz un antivirus, podètz contactar las equipas d’assisténcias per obténer ajuda. Tanben podètz senhalar lo problèma als administrators del site web.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
