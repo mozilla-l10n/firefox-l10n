@@ -36,8 +36,14 @@ findbar-wrapped-to-top = Dulo na ng pahina, pagpapatuloy mula sa itaas
 findbar-wrapped-to-bottom = Naabot ang taas ng pahina, ipinagpatuloy mula sa baba
 findbar-normal-find =
     .placeholder = Hanapin sa pahina
+findbar-fast-find =
+    .placeholder = Madaliang paghanap
+findbar-fast-find-links =
+    .placeholder = Madaliang paghanap (mga link lang)
 findbar-case-sensitive-status =
     .value = (Case sensitive)
+findbar-match-diacritics-status =
+    .value = (Tumutugmang mga tuldik)
 findbar-entire-word-status =
     .value = (Buong mga salita lang)
 # Variables:
