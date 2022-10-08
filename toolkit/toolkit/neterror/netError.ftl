@@ -7,6 +7,8 @@
 
 neterror-page-title = Erô into caregamento da pagina
 neterror-captive-portal-page-title = Intra inta ræ
+neterror-dns-not-found-title = Server no atrovou
+neterror-malformed-uri-page-title = URL grammo
 
 ## Error page actions
 
@@ -23,6 +25,7 @@ neterror-error-reporting-automatic = Segnala eroî comme sto chi pe agiutâ { -v
 
 ## Specific error messages
 
+neterror-generic-error = { -brand-short-name } o no peu caregâ sta pagina pe quarche caxon.
 neterror-load-error-try-again = O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.
 neterror-load-error-connection = Se no ti riesci a caregâ nisciunn-a pagina, preuva a controlâ a conescion do teu computer.
 neterror-load-error-firewall = Se o teu computer ò a teu conescion en protezui da 'n firewall ò proxy, açertite che { -brand-short-name } o l'agge o permisso de acede a-a Ræ.
