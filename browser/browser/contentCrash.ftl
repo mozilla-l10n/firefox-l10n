@@ -8,5 +8,18 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Imate neposlano poročilo o sesutju
+        [two] Imate { $reportCount } neposlani poročili o sesutju
+        [few] Imate { $reportCount } neposlana poročila o sesutju
+       *[other] Imate { $reportCount } neposlanih poročil o sesutju
+    }
 pending-crash-reports-view-all =
     .label = Prikaži
+pending-crash-reports-send =
+    .label = Pošlji
+pending-crash-reports-always-send =
+    .label = Vedno pošlji
