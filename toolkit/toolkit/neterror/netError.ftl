@@ -80,6 +80,10 @@ neterror-sslv3-used = 高级信息: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> 使用了过时的安全技术，较容易遭受攻击。攻击者可以轻易窃取您的信息。该网站的管理员修正服务器后您才能访问该网站。
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = 错误代码：NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = 您计算机上的时间是 { DATETIME($now, dateStyle: "medium") }，{ -brand-short-name } 无法在这个设定的时间下进行安全连接。要访问 <b>{ $hostname }</b>，请在您的系统设置中确认当前的日期、时间、时区设置是否正确，然后重新载入 <b>{ $hostname }</b>。
 neterror-network-protocol-error-intro = 您尝试查看的页面无法显示，因为检测到了网络协议中的错误。
 neterror-network-protocol-error-contact-website = 建议向此网站的管理员反馈这个问题。
 certerror-expired-cert-second-para = 很可能该网站的证书已过期，因而阻碍 { -brand-short-name } 安全地连接。如果您继续访问该网站，攻击者可能尝试窃取您的密码、电子邮件或信用卡等信息。
