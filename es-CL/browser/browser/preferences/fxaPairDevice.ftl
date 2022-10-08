@@ -5,17 +5,28 @@
 fxa-pair-device-dialog =
     .title = Conectar otro dispositivo
     .style = width: 26em; min-height: 35em;
+
 fxa-qrcode-heading-step1 = 1. Si aún no lo has hecho, instala <a data-l10n-name="connect-another-device"> Firefox en tu dispositivo móvil </a>.
+
 fxa-qrcode-heading-step2 = 2. Abre Firefox en tu dispositivo móvil.
+
 fxa-qrcode-heading-step3 = 3. Abre el <b>menú</b> (<img data-l10n-name="ios-menu-icon"/> o <img data-l10n-name="android-menu-icon"/>), toca <img data-l10n-name="settings-icon"/> <b>Ajustes</b> y selecciona <b>Activar sincronización</b>
+
 fxa-qrcode-heading-step4 = 4. Escanea este código:
+
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+
 fxa-pair-device-dialog-sync2 =
     .style = min-width: 32em;
+
 fxa-qrcode-pair-title = Sincroniza { -brand-product-name } en tu teléfono o tablet
 fxa-qrcode-pair-step1 = 1. Abre { -brand-product-name } en tu dispositivo móvil.
+
 fxa-qrcode-pair-step2 = 2. Abre el <strong>menu</strong> (<img data-l10n-name="ios-menu-icon"/> en iOS o <img data-l10n-name="android-menu-icon"/> en Android) y toca <strong>Conectarse para sincronizar</strong>
+
 fxa-qrcode-pair-step3 = 3. Toca <strong>Listo para escanear</strong> y pasa tu teléfono por este código
+
 fxa-qrcode-error-title = No se pudo emparejar.
+
 fxa-qrcode-error-body = Vuelve a intentarlo.
