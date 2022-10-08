@@ -24,6 +24,7 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = 所有通訊錄
 all-address-books = 所有通訊錄
+
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -31,6 +32,7 @@ about-addressbook-card-count = { $name } 的聯絡人總數: { $count }
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = 所有通訊錄的聯絡人總數: { $count }
+
 about-addressbook-books-context-properties =
     .label = 屬性
 about-addressbook-books-context-edit-list =
@@ -49,6 +51,7 @@ about-addressbook-books-context-remove =
     .label = 移除
 about-addressbook-books-context-startup-default =
     .label = 預設啟動目錄
+
 about-addressbook-confirm-delete-book-title = 刪除通訊錄
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -66,14 +69,17 @@ about-addressbook-search =
     .placeholder = 搜尋 { $name }
 about-addressbook-search-all =
     .placeholder = 搜尋所有通訊錄
+
 about-addressbook-sort-button2 =
     .title = 清單顯示選項
+
 about-addressbook-name-format-display =
     .label = 顯示名稱
 about-addressbook-name-format-firstlast =
     .label = [名] [姓]（英式）
 about-addressbook-name-format-lastfirst =
     .label = [姓][名]（中式）
+
 about-addressbook-sort-name-ascending =
     .label = 依照名稱排序（升冪）
 about-addressbook-sort-name-descending =
@@ -82,6 +88,7 @@ about-addressbook-sort-email-ascending =
     .label = 依照電子郵件地址排序（升冪）
 about-addressbook-sort-email-descending =
     .label = 依照電子郵件地址排序（降冪）
+
 about-addressbook-horizontal-layout =
     .label = 切換為水平版面配置
 about-addressbook-vertical-layout =
@@ -117,8 +124,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = 通訊錄
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = 寫信
+
 about-addressbook-confirm-delete-mixed-title = 刪除通訊錄與群組
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -187,19 +196,27 @@ about-addressbook-selection-contacts-header = { $count } 位選擇的聯絡人
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = { $count } 個選擇的清單
+
 about-addressbook-details-edit-photo =
     .title = 編輯連絡人相片
+
 about-addressbook-new-contact-header = 新連絡人
+
 about-addressbook-prefer-display-name = 在郵件檔頭上方顯示姓名
+
 about-addressbook-write-action-button = 寫信
 about-addressbook-event-action-button = 事件
 about-addressbook-search-action-button = 搜尋
+
 about-addressbook-new-list-action-button = 新增群組名單
+
 about-addressbook-begin-edit-contact-button = 編輯
 about-addressbook-delete-edit-contact-button = 刪除
 about-addressbook-cancel-edit-contact-button = 取消
 about-addressbook-save-edit-contact-button = 儲存
+
 about-addressbook-add-contact-to = 新增到:
+
 about-addressbook-details-email-addresses-header = 電子郵件地址
 about-addressbook-details-phone-numbers-header = 電話號碼
 about-addressbook-details-addresses-header = 通訊錄
@@ -207,12 +224,14 @@ about-addressbook-details-notes-header = 附註
 about-addressbook-details-impp-header = 即時訊息
 about-addressbook-details-websites-header = 網站
 about-addressbook-details-other-info-header = 其他資訊
+
 about-addressbook-entry-type-work = 商務
 about-addressbook-entry-type-home = 住家
 about-addressbook-entry-type-fax = 傳真
 # Or "Mobile"
 about-addressbook-entry-type-cell = 手機
 about-addressbook-entry-type-pager = 呼叫器
+
 about-addressbook-entry-name-birthday = 生日
 about-addressbook-entry-name-anniversary = 週年紀念日
 about-addressbook-entry-name-title = 頭銜
@@ -220,10 +239,12 @@ about-addressbook-entry-name-role = 角色
 about-addressbook-entry-name-organization = 公司
 about-addressbook-entry-name-website = 網站
 about-addressbook-entry-name-time-zone = 時區
+
 about-addressbook-entry-name-custom1 = 自訂 1
 about-addressbook-entry-name-custom2 = 自訂 2
 about-addressbook-entry-name-custom3 = 自訂 3
 about-addressbook-entry-name-custom4 = 自訂 4
+
 about-addressbook-unsaved-changes-prompt-title = 未儲存修改
 about-addressbook-unsaved-changes-prompt = 您想要在離開編輯畫面前儲存變更嗎？
 
@@ -233,6 +254,7 @@ about-addressbook-photo-drop-target = 將照片放到或貼到此處，或點擊
 about-addressbook-photo-drop-loading = 正在載入照片…
 about-addressbook-photo-drop-error = 照片載入失敗。
 about-addressbook-photo-filepicker-title = 選擇圖檔
+
 about-addressbook-photo-discard = 捨棄現有照片
 about-addressbook-photo-cancel = 取消
 about-addressbook-photo-save = 儲存
