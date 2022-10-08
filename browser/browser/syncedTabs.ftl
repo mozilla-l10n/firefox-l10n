@@ -12,15 +12,19 @@ synced-tabs-sidebar-tabsnotsyncing = Attiva la sincronizzazione delle schede per
 synced-tabs-sidebar-connect-another-device = Connetti un altro dispositivo
 synced-tabs-sidebar-search =
     .placeholder = Cerca nelle schede sincronizzate
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Apri
     .accesskey = A
 synced-tabs-context-open-in-new-tab =
     .label = Apri in nuova scheda
     .accesskey = h
-synced-tabs-context-open-in-container-tab =
-    .label = Apri in nuova scheda contenitore
-    .accesskey = o
 synced-tabs-context-open-in-new-window =
     .label = Apri in nuova finestra
     .accesskey = f
@@ -28,20 +32,26 @@ synced-tabs-context-open-in-new-private-window =
     .label = Apri in nuova finestra anonima
     .accesskey = n
 
+synced-tabs-context-bookmark-single-tab =
+    .label = Aggiungi ai segnalibri…
+    .accesskey = s
 synced-tabs-context-open-in-tab =
     .label = Apri in nuova scheda
     .accesskey = h
+synced-tabs-context-open-in-container-tab =
+    .label = Apri in nuova scheda contenitore
+    .accesskey = o
 synced-tabs-context-open-in-window =
     .label = Apri in nuova finestra
     .accesskey = f
 synced-tabs-context-open-in-private-window =
     .label = Apri in nuova finestra anonima
     .accesskey = n
+
+##
+
 synced-tabs-context-bookmark =
     .label = Aggiungi scheda ai segnalibri…
-    .accesskey = s
-synced-tabs-context-bookmark-single-tab =
-    .label = Aggiungi ai segnalibri…
     .accesskey = s
 synced-tabs-context-copy =
     .label = Copia

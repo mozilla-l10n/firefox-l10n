@@ -31,6 +31,8 @@ toolbox-meatball-menu-noautohide-label = Disattiva “nascondi automaticamente�
 toolbox-meatball-menu-pseudo-locale-accented = Attiva locale “accented”
 toolbox-meatball-menu-pseudo-locale-bidi = Attiva locale “bidi”
 
+##
+
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
 toolbox-mode-browser-toolbox-label = Modalità Cassetta degli attrezzi browser

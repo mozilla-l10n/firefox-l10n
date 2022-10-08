@@ -19,11 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigazione anonima)
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } (Navigazione anonima)
-browser-main-window-window-titles =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Navigazione anonima
-    .data-content-title-default = { $content-title } – { -brand-full-name }
-    .data-content-title-private = { $content-title } – { -brand-full-name } Navigazione anonima
 
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
@@ -44,6 +39,13 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } – (Navigazione anonima)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – (Navigazione anonima)
+
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Navigazione anonima
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name } Navigazione anonima
+
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } – Navigazione anonima
@@ -57,6 +59,7 @@ browser-main-window-mac-window-titles =
 browser-main-window-title = { -brand-full-name }
 
 private-browsing-shortcut-text = { -brand-short-name } – Navigazione anonima
+
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } – Navigazione anonima
 
 ##
@@ -135,6 +138,7 @@ urlbar-tabtosearch-onboard = Seleziona questa scorciatoia per trovare ciò che t
 urlbar-search-mode-bookmarks = Segnalibri
 urlbar-search-mode-tabs = Schede
 urlbar-search-mode-history = Cronologia
+
 urlbar-search-mode-actions = Azioni
 
 ##
@@ -180,6 +184,7 @@ page-action-manage-extension =
     .label = Gestisci estensione…
 page-action-remove-extension =
     .label = Rimuovi estensione
+
 page-action-manage-extension2 =
     .label = Gestisci estensione…
     .accesskey = G
@@ -248,44 +253,66 @@ search-one-offs-tabs =
     .tooltiptext = Schede ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Cronologia ({ $restrict })
+
 search-one-offs-actions =
     .tooltiptext = Azioni ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 quickactions-addons = Visualizza componenti aggiuntivi
 quickactions-cmd-addons = componenti aggiuntivi, estensioni, temi
+
 quickactions-cmd-addons2 = componenti aggiuntivi
-quickactions-extensions = Gestisci estensioni
-quickactions-cmd-extensions = estensioni
-quickactions-plugins = Gestisci plugin
-quickactions-cmd-plugins = plugin
-quickactions-themes = Gestisci temi
-quickactions-cmd-themes = temi
+
 quickactions-bookmarks = Visualizza segnalibri
 quickactions-cmd-bookmarks = segnalibri
+
 quickactions-clearhistory = Cancella cronologia
 quickactions-cmd-clearhistory = cancella cronologia
+
 quickactions-downloads = Apri download
 quickactions-cmd-downloads = download
+
+quickactions-extensions = Gestisci estensioni
+quickactions-cmd-extensions = estensioni
+
 quickactions-inspector = Apri Analisi pagina
 quickactions-cmd-inspector = analisi pagina, devtools, sviluppatori
+
 quickactions-logins = Visualizza credenziali
 quickactions-cmd-logins = credenziali, password
+
+quickactions-plugins = Gestisci plugin
+quickactions-cmd-plugins = plugin
+
 quickactions-print = Stampa
 quickactions-cmd-print = stampa
+
 quickactions-private = Apri finestra in Navigazione anonima
 quickactions-cmd-private = navigazione anonima, incognito
+
 quickactions-refresh = Ripristina { -brand-short-name }
 quickactions-cmd-refresh = ripristina
+
 quickactions-restart = Riavvia { -brand-short-name }
 quickactions-cmd-restart = riavvia
+
 quickactions-screenshot2 = Cattura schermata
 quickactions-cmd-screenshot = schermata, screenshot
+
 quickactions-settings = Apri impostazioni
 quickactions-cmd-settings = impostazioni, preferenze, opzioni
+
+quickactions-themes = Gestisci temi
+quickactions-cmd-themes = temi
+
 quickactions-update = Aggiorna { -brand-short-name }
 quickactions-cmd-update = aggiorna
+
 quickactions-viewsource = Visualizza sorgente
 quickactions-cmd-viewsource = visualizza sorgente, sorgente
 
@@ -480,6 +507,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu “Sviluppo web”.
+
 enable-devtools-popup-description2 = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu ”Strumenti del browser”.
 
 ## URL Bar
@@ -603,6 +631,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Cerca nei segnalibri
 urlbar-result-action-search-history = Cerca nella cronologia
 urlbar-result-action-search-tabs = Cerca nelle schede
+
 urlbar-result-action-search-actions = Cerca nelle azioni
 
 ## Labels shown above groups of urlbar results
@@ -701,6 +730,7 @@ bookmarks-tools =
     .label = Strumenti per i segnalibri
 bookmarks-bookmark-edit-panel =
     .label = Modifica segnalibro
+
 bookmarks-subview-edit-bookmark =
     .label = Modifica segnalibro…
 
@@ -721,6 +751,7 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Aggiungi scheda corrente ai segnalibri
+
 bookmarks-subview-bookmark-tab =
     .label = Aggiungi scheda corrente ai segnalibri…
 

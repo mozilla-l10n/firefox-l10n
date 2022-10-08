@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Riparti da zero per risolvere problemi di p
 refresh-profile = Esegui una messa a punto di { -brand-short-name }
 refresh-profile-button = Ripristina { -brand-short-name }…
 refresh-profile-learn-more = Ulteriori informazioni
+
 refresh-profile-progress =
     .title = Ripristino di { -brand-short-name }
 refresh-profile-progress-description = Quasi completato…
