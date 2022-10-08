@@ -24,6 +24,7 @@ neterror-pref-reset-button = Standardeinstellungen wiederherstellen
 neterror-return-to-previous-page-button = Zurück
 neterror-return-to-previous-page-recommended-button = Zurück (empfohlen)
 neterror-try-again-button = Nochmals versuchen
+neterror-view-certificate-link = Zertifikat anzeigen
 
 ##
 
@@ -79,6 +80,10 @@ neterror-sslv3-used = Weitere Informationen: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> verwendet Sicherheitstechnologie, welche veraltet und verwundbar ist. Ein Angreifer könnte leicht Informationen entschlüsseln, welche Sie für sicher hielten. Der Website-Administrator muss dieses Problem auf dem Server beheben, bevor Sie die Seite aufrufen können.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Fehlercode: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Datum und Uhrzeit Ihres Computers sind auf { DATETIME($now, dateStyle: "medium") } gesetzt, was { -brand-short-name } am Herstellen einer gesicherten Verbindung hindert. Setzen Sie Datum, Uhrzeit und Zeitzone in den Systemeinstellungen korrekt und laden Sie anschließend <b>{ $hostname }</b> neu.
 certerror-expired-cert-second-para = Das Zertifikat der Website ist wahrscheinlich abgelaufen, weshalb { -brand-short-name } keine verschlüsselte Verbindung aufbauen kann. Falls Sie die Website besuchen, könnten Angreifer versuchen, Passwörter, E-Mails oder Kreditkartendaten zu stehlen.
 certerror-expired-cert-sts-second-para = Das Zertifikat der Website ist wahrscheinlich abgelaufen, weshalb { -brand-short-name } keine verschlüsselte Verbindung aufbauen kann.
 certerror-what-can-you-do-about-it-title = Was können Sie dagegen tun?
