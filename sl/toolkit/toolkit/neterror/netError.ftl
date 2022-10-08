@@ -7,17 +7,24 @@
 
 neterror-page-title = Napaka pri nalaganju strani
 certerror-page-title = Pozor: možno varnostno tveganje
+certerror-sts-page-title = Povezava ni bila vzpostavljena: morebitna varnostna težava
+neterror-blocked-by-policy-page-title = Zavrnjena stran
 neterror-captive-portal-page-title = Prijavite se v omrežje
 neterror-dns-not-found-title = Strežnika ni mogoče najti
 neterror-malformed-uri-page-title = Neveljaven URL
 
 ## Error page actions
 
+neterror-advanced-button = Napredno …
 neterror-copy-to-clipboard-button = Kopiraj besedilo v odložišče
 neterror-learn-more-link = Več o tem …
+neterror-open-portal-login-page-button = Odpri stran za prijavo v omrežje
+neterror-override-exception-button = Sprejmi tveganje in nadaljuj
 neterror-pref-reset-button = Obnovi privzete nastavitve
 neterror-return-to-previous-page-button = Nazaj
+neterror-return-to-previous-page-recommended-button = Pojdi nazaj (priporočeno)
 neterror-try-again-button = Poskusi znova
+neterror-view-certificate-link = Ogled digitalnega potrdila
 
 ##
 
@@ -30,6 +37,7 @@ neterror-generic-error = { -brand-short-name } iz neznanega razloga ne more nalo
 neterror-load-error-try-again = Stran je morda začasno nedosegljiva ali preobremenjena. Poskusite znova nekoliko pozneje.
 neterror-load-error-connection = Če ne uspete naložiti nobene strani, preverite povezavo svojega računalnika do interneta.
 neterror-load-error-firewall = Če uporabljate posrednika ali požarni zid, se prepričajte, da ima { -brand-short-name } dovoljenja za dostop do spleta.
+neterror-captive-portal = Za dostop do interneta se morate prijaviti v to omrežje.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Ste bili namenjeni na <a data-l10n-name="website">{ $hostAndPath }</a>?
@@ -66,6 +74,10 @@ certerror-sts-intro = { -brand-short-name } je zaznal morebitno varnostno grožn
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } je zaznal težavo in ni nadaljeval na <b>{ $hostname }</b>. Spletna stran je nepravilno nastavljena ali pa je ura računalnika nastavljena na napačen čas.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> je najverjetneje varna stran, vendar varne povezave ni bilo mogoče vzpostaviti. Težavo povzroča <b>{ $mitm }</b>, ki je ali program na vašem računalniku ali vaše omrežje.
 neterror-corrupted-content-intro = Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.
 neterror-corrupted-content-contact-website = O napaki obvestite lastnike spletne strani.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -79,6 +91,11 @@ neterror-inadequate-security-code = Koda napake: NS_ERROR_NET_INADEQUATE_SECURIT
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Vaš računalnik misli, da smo { DATETIME($now, dateStyle: "medium") }, kar { -brand-short-name }u preprečuje varno povezavo. Da boste lahko obiskali <b>{ $hostname }</b>, v nastavitvah sistema nastavite uro računalnika na trenutni datum in čas ter časovni pas, nato osvežite <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Strani, ki si jo poskušate ogledati, ni mogoče prikazati, ker je bila zaznana napaka omrežnega protokola.
+neterror-network-protocol-error-contact-website = O napaki obvestite lastnike spletne strani.
+certerror-expired-cert-second-para = Digitalno potrdilo spletne strani je najverjetneje poteklo, kar { -brand-short-name }u preprečuje varno povezovanje. Če obiščete to stran, bi napadalci lahko poskušali ukrasti vaše podatke, kot so gesla, e-poštna sporočila ali podatki o kreditni kartici.
+certerror-expired-cert-sts-second-para = Digitalno potrdilo spletne strani je najverjetneje poteklo, kar { -brand-short-name }u preprečuje varno povezovanje.
+certerror-what-can-you-do-about-it-title = Kaj lahko storite?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Težava je najverjetneje na spletni strani, zato je sami ne morete odpraviti.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Če ste povezani z omrežjem v podjetju ali uporabljate protivirusno programsko opremo, se lahko za pomoč obrnete na ekipo za podporo. O težavi lahko tudi obvestite skrbnika spletne strani.
 # Variables:
@@ -87,6 +104,14 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Če ste poveza
 certerror-expired-cert-what-can-you-do-about-it-clock = Ura vašega računalnika je nastavljena na datum { DATETIME($now, dateStyle: "medium") }. V nastavitvah sistema nastavite računalnik na pravilen datum in čas ter časovni pas, nato osvežite <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Če je ura že nastavljena pravilno, je težava verjetno v spletni strani in je sami ne morete odpraviti. O njej lahko obvestite skrbnika spletne strani.
 certerror-bad-cert-domain-what-can-you-do-about-it = Težava je najverjetneje na spletni strani, zato je sami ne morete odpraviti. Lahko pa obvestite skrbnika spletne strani.
+certerror-mitm-what-can-you-do-about-it-antivirus = Če vaš protivirusni program vključuje možnost pregledovanja šifriranih povezav (pogosto imenovano "spletna zaščita" ali "pregledovanje HTTPS"), jo poskusite onemogočiti. Če to ne odpravi težave, lahko protivirusni program odstranite in znova namestite.
+certerror-mitm-what-can-you-do-about-it-corporate = Če ste povezani v podjetje omrežja, se obrnite na njegov oddelek za IT.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Če ne poznate <b>{ $mitm }</b>, gre morda za napad in raje ne nadaljujte na spletno stran.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Če ne poznate <b>{ $mitm }</b>, gre morda za napad in do spletne strani ne morete dostopati.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> uporablja varnostni pravilnik, imenovan HTTP Strict Transport Security (HSTS), kar pomeni, da se lahko { -brand-short-name } nanjo poveže zgolj varno. Za obisk te strani ne morete dodati izjeme.
