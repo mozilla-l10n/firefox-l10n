@@ -57,6 +57,10 @@ search-one-offs-context-open-new-tab =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 
@@ -194,4 +198,6 @@ tabs-toolbar =
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+## Unified extensions (toolbar) button
 

@@ -5,19 +5,25 @@
 permissions-window =
     .title = Kúena dama jananɨaɨ
     .style = width: 45em
+
 permissions-window2 =
     .title = Kúena dama jananɨaɨ
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Ɨ́baika
     .accesskey = Ɨ
+
 permissions-allow =
     .label = Jɨɨ
     .accesskey = J
+
 permissions-status =
     .label = Táɨnia
+
 permissions-capabilities-allow =
     .label = Jɨɨ
 permissions-capabilities-block =

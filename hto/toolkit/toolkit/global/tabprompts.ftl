@@ -6,3 +6,4 @@ tabmodalprompt-username =
     .value = Mámekɨ náama:
 tabmodalprompt-password =
     .value = Fakára ráa:
+
