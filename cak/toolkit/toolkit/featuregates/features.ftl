@@ -72,3 +72,4 @@ experimental-features-js-warp-description = Titzij Warp, jun nuk'samaj richin nu
 experimental-features-ime-search =
     .label = Rukajtz'ik Ochochib'äl: Kek'ut ri xe'ilitäj ri runuk'uj IME
 experimental-features-ime-search-description = Jun IME (Input Method Editor) jun samajib'äl richin tikirel yetz'ib'äx jalajöj taq tz'ib', achi'el ri ye'okisäx pa indico o Asia Oriental taq ch'ab'äl rik'in jun pa rub'eyal tz'ib'ab'äl. Toq nitzij re tojtob'enel xtujäq ri rupas kikajtz'ik taq ochochib'äl, akuchi' yeruk'üt ri e'ilon chuqa' taq chilab'enïk toq nokisäx ri IME richin yetz'ib'äx taq tzij. Tatz'eta' chi ri IME nitikïr nuk'üt jun pas nuq'alajisaj ronojel ri xekanöx pa kikajtz'ik ochochib'äl, ruma ri' nichilab'ëx chi tokisäx re runuk'ulem xa xe we ri IME man nrokisaj ta re ruwäch pas.
+

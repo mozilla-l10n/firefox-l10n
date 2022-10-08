@@ -111,9 +111,6 @@ perftools-tools-threads-input-label =
 
 perftools-onboarding-message = <b>K'ak'a'</b>: { -profiler-brand-name } wakami k'o wi pe pa Kisamajib'al B'anonela'. <a>Tetamäx ch'aqa'</a> chi rij re nïm samajib'äl.
 
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Jun ch'utiramaj yatikïr yatok pa ri rupas rub'eyal nisamäj rik'in ri <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Titz'apïx ri nab'ey rutzijol
 

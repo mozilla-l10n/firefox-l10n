@@ -5,62 +5,81 @@
 permissions-window =
     .title = Nuk'unel wachb'äl
     .style = width: 45em
+
 permissions-window2 =
     .title = Nuk'unel wachb'äl
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Rochochib'al ri ruxaq k'amaya'l
     .accesskey = o
+
 permissions-block =
     .label = Tiq'eleb'ëx
     .accesskey = T
+
 permissions-session =
     .label = Tiya' q'ij pa re molojri'ïl re'
     .accesskey = m
+
 permissions-allow =
     .label = Tiya' q'ij
     .accesskey = T
+
 permissions-button-off =
     .label = Tichup
     .accesskey = p
+
 permissions-button-off-temporarily =
     .label = Tichup Jumej
     .accesskey = T
+
 permissions-site-name =
     .label = Ruxaq Ajk'amaya'l
+
 permissions-status =
     .label = B'anikil:
+
 permissions-remove =
     .label = Tiyuj Ruxaq Ajk'amaya'l
     .accesskey = T
+
 permissions-remove-all =
     .label = Keyuj el Konojel ri taq Ruxaq Ajk'amaya'l
     .accesskey = y
+
 permission-dialog =
     .buttonlabelaccept = Keyak Jaloj
     .buttonaccesskeyaccept = K
+
 permissions-autoplay-menu = Kan k'o wi pa ronojel ajk'amaya'l:
+
 permissions-searchbox =
     .placeholder = Tikanöx K'amaya'l
+
 permissions-capabilities-autoplay-allow =
     .label = Tiya' q'ij chi ke ri K'oxom chuqa' Silowäch
 permissions-capabilities-autoplay-block =
     .label = Tiq'at K'oxom
 permissions-capabilities-autoplay-blockall =
     .label = Keq'at K'oxom chuqa' Silowäch
+
 permissions-capabilities-allow =
     .label = Tiya' q'ij
 permissions-capabilities-block =
     .label = Tiq'eleb'ëx
 permissions-capabilities-prompt =
     .label = Junelïk tik'utüx pe
+
 permissions-capabilities-listitem-allow =
     .value = Tiya' q'ij
 permissions-capabilities-listitem-block =
     .value = Tiq'eleb'ëx
 permissions-capabilities-listitem-allow-session =
     .value = Tiya' q'ij pa re molojri'ïl re'
+
 permissions-capabilities-listitem-off =
     .value = Tichup
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Tatz'ib'aj ri okel rub'i' ruk'uxasamaj
 permissions-exceptions-etp-window =
     .title = Taq man relik ta richin ri utzirisan Chajinïk chuwäch Ojqanïk
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Taq man relik ta richin ri utzirisan Chajinïk chuwäch Ojqanïk
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Xe'achüp ri taq chajinïk pa re taq ajk'amaya
 permissions-exceptions-cookie-window =
     .title = Taq Man Relik ta - Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Taq Man Relik ta - Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Yatikïr naya' ketal ri taq ajk'amaya'l rux
 permissions-exceptions-https-only-window =
     .title = Taq cha'oj - Xa xe Rub'anikil-HTTPS
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Taq cha'oj - Xa xe Rub'anikil-HTTPS
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Yatikïr nachüp ri rub'anikil HTTPS-On
 permissions-exceptions-popup-window =
     .title = Ri taq Ruxaq Ajk'amaya'l yatikir nawokisaj - Elenel taq tzuwäch
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Ri taq Ruxaq Ajk'amaya'l yatikir nawokisaj - Elenel taq tzuwäch
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Yatikïr naya' ketal ri taq ruxaq k'amaya'l,
 permissions-exceptions-saved-logins-window =
     .title = Taq man relik ta - Yakon kitikirib'al taq molojri'ïl
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Taq man relik ta - Yakon kitikirib'al taq molojri'ïl
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Man xkeyak ta kan ri kitikirib'al taq
 permissions-exceptions-addons-window =
     .title = Taq ruxaq Ajk'amaya'l ya'on q'ij chi ke - Kiyakik taq Tz'aqat
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Taq ruxaq Ajk'amaya'l ya'on q'ij chi ke - Kiyakik taq Tz'aqat
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Yatikïr naya' retal pan achike ruxaq k'ama
 permissions-site-autoplay-window =
     .title = Nuk'ulem - Ruyon Titzijtäj
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Nuk'ulem - Ruyon Titzijtäj
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Wawe' yatikïr ye'anuk'samajij ri taq ruxaq man
 permissions-site-notification-window =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Rutzijol
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Rutzijol
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Re re' xtub'än chi ri taq ruxaq aj
 permissions-site-location-window =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin K'ojlib'äl
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin K'ojlib'äl
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'am
 permissions-site-xr-window =
     .title = Taq nuk'ulem - Ya'oj taq Ruq'ij ri achik'al K'ojlemal
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Taq nuk'ulem - Ya'oj taq Ruq'ij ri achik'al K'ojlemal
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l 
 permissions-site-camera-window =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Elesäy Wachib'äl
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Elesäy Wachib'äl
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amay
 permissions-site-microphone-window =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Q'asäy Tzij
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Q'asäy Tzij
     .style = { permissions-window2.style }

@@ -8,18 +8,22 @@ password-quality-meter = Retanel rutzil ri ewan tzij
 
 change-device-password-window =
     .title = Tijal Ewan Tzij
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Okisaxel richin jikomal: { $tokenName }
 change-password-old = Ewan tzij wakami:
 change-password-new = K'ak'a' ewan tzij:
 change-password-reenter = K'ak'a' ewan tzij (tijikib'äx):
+
 pippki-failed-pw-change = Man tikirel ta xjal ri ewan tzij.
 pippki-incorrect-pw = Man ütz ta ri ewan tzij xatz'ib'aj. Tatojtob'ej chik.
 pippki-pw-change-ok = Ütz xjal ri nab'ey ewan tzij.
+
 pippki-pw-empty-warning = Man xkechajïx ta ri ewan taq atzij chuqa' ichinan ewan taq atzij e'ayakon.
 pippki-pw-erased-ok = Xayüj el ri nimaläj ewan tzij. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ¡Tawak'axaj! Man xawajo' ta xawokisaj jun ewan tzij. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun ewan tzij ri man kowöl ta.
 
 ## Reset Primary Password dialog
@@ -27,12 +31,14 @@ pippki-pw-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo
 reset-primary-password-window =
     .title = Titzolïx Nab'ey Ewan Tzij
     .style = width: 40em
+
 reset-primary-password-window2 =
     .title = Titzolïx Nab'ey Ewan Tzij
     .style = min-width: 40em
 reset-password-button-label =
     .label = Titzolïx
 reset-primary-password-text = We natzolij ri Nab'ey Ewan Atzij, xkeyujtäj el ri nab'ey ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l kichin tzij, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri nab'ey ewan atzij?
+
 pippki-reset-password-confirmation-title = Titzolïx Nab'ey Ewan Tzij
 pippki-reset-password-confirmation-message = Xtzolïx Nab'ey Ewan Atzij.
 
@@ -41,6 +47,7 @@ pippki-reset-password-confirmation-message = Xtzolïx Nab'ey Ewan Atzij.
 download-cert-window =
     .title = Tajin niqasäx ri ruwujil rub'i'
     .style = width: 46em
+
 download-cert-window2 =
     .title = Tajin niqasäx ri ruwujil rub'i'
     .style = min-width: 46em

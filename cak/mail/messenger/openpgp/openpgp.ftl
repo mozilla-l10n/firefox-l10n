@@ -48,9 +48,6 @@ openpgp-key-man-user-id-label =
 openpgp-key-man-fingerprint-label =
     .label = Retal ruwi' q'ab'aj
 
-openpgp-key-details-title =
-    .title = Taq Richinil Ruk'u'x Tzij
-
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Ruwäch

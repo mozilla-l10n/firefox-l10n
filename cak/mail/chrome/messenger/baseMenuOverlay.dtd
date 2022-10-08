@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "C">
 <!ENTITY productHelp.label "&brandShortName; To'ïk">
 <!ENTITY productHelp.accesskey "T">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

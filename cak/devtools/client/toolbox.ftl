@@ -30,3 +30,5 @@ toolbox-meatball-menu-noautohide-label = Tichup ri ruyonil rewaxik ri elenel rut
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
