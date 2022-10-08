@@ -4,100 +4,139 @@
 
 certmgr-title =
     .title = Certifikatadministration
+
 certmgr-tab-mine =
     .label = Dine certifikater
+
 certmgr-tab-remembered =
     .label = Beslutninger om godkendelse
+
 certmgr-tab-people =
     .label = Personer
+
 certmgr-tab-servers =
     .label = Servere
+
 certmgr-tab-ca =
     .label = Autoriteter
+
 certmgr-mine = Du har certifikater fra disse organisationer, der identificerer dig
 certmgr-remembered = Disse certifikater bruges til at identificere dig overfor websteder
 certmgr-people = Du har certifikater liggende, der identificerer disse personer
 certmgr-server = Disse poster identificerer undtagelser for servercertifikatfejl
 certmgr-ca = Du har certifikater liggende, der identificerer disse certifikatautoriteter
+
 certmgr-edit-ca-cert =
     .title = Rediger tillidsindstillinger for CA-certifikat
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = Rediger tillidsindstillinger for CA-certifikat
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = Rediger tillidsindstillinger:
+
 certmgr-edit-cert-trust-ssl =
     .label = Dette certifikat kan identificere websteder.
+
 certmgr-edit-cert-trust-email =
     .label = Dette certifikat kan identificere mailbrugere.
+
 certmgr-delete-cert =
     .title = Slet certifikat
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Slet certifikat
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-host =
     .label = Vært
+
 certmgr-cert-name =
     .label = Certifikatnavn
+
 certmgr-cert-server =
     .label = Server
+
 certmgr-override-lifetime =
     .label = Levetid
+
 certmgr-token-name =
     .label = Sikkerhedsenhed
+
 certmgr-begins-label =
     .label = Begynder den
+
 certmgr-expires-label =
     .label = Udløber den
+
 certmgr-email =
     .label = Mailadresse
+
 certmgr-serial =
     .label = Serienummer
+
 certmgr-view =
     .label = Vis…
     .accesskey = V
+
 certmgr-edit =
     .label = Rediger tillid…
     .accesskey = R
+
 certmgr-export =
     .label = Eksporter…
     .accesskey = E
+
 certmgr-delete =
     .label = Slet…
     .accesskey = S
+
 certmgr-delete-builtin =
     .label = Slet eller fjern tillid…
     .accesskey = S
+
 certmgr-backup =
     .label = Lav sikkerhedskopi…
     .accesskey = k
+
 certmgr-backup-all =
     .label = Lav sikkerhedskopi af alle…
     .accesskey = a
+
 certmgr-restore =
     .label = Importer…
     .accesskey = I
+
 certmgr-add-exception =
     .label = Tilføj undtagelse…
     .accesskey = U
+
 exception-mgr =
     .title = Tilføj sikkerhedsundtagelse
+
 exception-mgr-extra-button =
     .label = Bekræft sikkerhedsundtagelse
     .accesskey = B
+
 exception-mgr-supplemental-warning = Legitime banker, forretninger og andre offentlige websteder vil ikke bede dig om at gøre dette.
+
 exception-mgr-cert-location-url =
     .value = Adresse:
+
 exception-mgr-cert-location-download =
     .label = Hent certifikat
     .accesskey = H
+
 exception-mgr-cert-status-view-cert =
     .label = Vis…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Gem denne undtagelse permanent
     .accesskey = p
+
 pk11-bad-password = Den indtastede mærkeadgangskode var forkert.
 pkcs12-decode-err = Kunne ikke afkode filen.  Enten er den ikke i PKCS #12 format, er gået i stykker, eller den indtastede adgangskode var forkert.
 pkcs12-unknown-err-restore = Kunne ikke gendanne PKCS #12 filen af ukendte årsager.
@@ -130,28 +169,37 @@ delete-user-cert-title =
     .title = Slet dine certifikater
 delete-user-cert-confirm = Er du sikker på, at du vil slette disse certifikater?
 delete-user-cert-impact = Hvis du sletter et af dine egne certifikater, kan du ikke længere bruge det til at identificere dig selv.
+
+
 delete-ssl-override-title =
     .title = Slet undtagelse for servercertifikat
 delete-ssl-override-confirm = Er du sikker på, at du vil slette denne serverundtagelse?
 delete-ssl-override-impact = Hvis du sletter en serverundtagelse, så gendanner du de almindelige sikkerhedschecks for denne server og kræver, at den anvender et gyldigt certifikat.
+
 delete-ca-cert-title =
     .title = Slet eller fjern tillid til CA-certifikater
 delete-ca-cert-confirm = Du har bedt om at få slette disse CA-certifikater. For indlejrede certifikater vil al tillid blive fjernet, hvilket har samme virkning. Er du sikker på, at du vil slette eller fjerne tilliden?
 delete-ca-cert-impact = Hvis du sletter eller fjerner tilliden til et Certificate Authority (CA)-certifikat vil programmet ikke længere stole på certifikater udstedt af denne CA.
+
+
 delete-email-cert-title =
     .title = Slet mailcertifikater
 delete-email-cert-confirm = Er du sikker på, at du vil slette disse personers mailcertifikater?
 delete-email-cert-impact = Hvis du sletter en persons mailcertifikat, vil du ikke længere kunne sende krypterede mails til personen.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certifikat med serienummer: { $serialNumber }
+
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Send intet klient-certifikat
+
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Ikke gemt)
+
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Utilgængelig)
 

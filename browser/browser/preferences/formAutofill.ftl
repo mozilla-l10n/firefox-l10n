@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Gemte adresser
 autofill-manage-addresses-list-header = Adresser
+
 autofill-manage-credit-cards-title = Gemte betalingskort
 autofill-manage-credit-cards-list-header = Betalingskort
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Fjern
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Rediger…
 autofill-add-new-address-title = Tilføj ny adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
+
 autofill-address-given-name = Fornavn
 autofill-address-additional-name = Mellemnavn
 autofill-address-family-name = Efternavn
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Land eller region
 autofill-address-tel = Telefonnummer
 autofill-address-email = Mailadresse
+
 autofill-cancel-button = Fortryd
 autofill-save-button = Gem
 autofill-country-warning-message = Autoudfyldning af adresser er lige nu kun tilgængelig i udvalgte lande.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Tilføj nyt betalingskort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediger betalingskort
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } forsøger at vise information om et betalingskort. Bekræft adgang til Windows-kontoen nedenfor.
        *[other] { -brand-short-name } forsøger at vise information om et betalingskort.
     }
+
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Angiv et gyldigt kortnummer
 autofill-card-name-on-card = Navn på kort
