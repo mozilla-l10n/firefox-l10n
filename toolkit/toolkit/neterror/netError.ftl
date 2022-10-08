@@ -46,6 +46,7 @@ neterror-redirect-loop = Cookie を無効化したり拒否していることに
 neterror-not-cached-intro = リクエストされた { -brand-short-name } のキャッシュ内のドキュメントは、利用できません。
 neterror-not-cached-sensitive = 安全対策のため、{ -brand-short-name } は注意を要するドキュメントを自動的に再リクエストしません。
 neterror-not-cached-try-again = "再試行" ボタンをクリックしてドキュメントをウェブサイトから読み込んでください。
+neterror-net-offline = "再試行” ボタンを押してブラウザーをオンラインモードに切り替え、ページを再読み込みしてください。
 neterror-content-encoding-error = この問題をウェブサイトの管理者に報告してください。
 neterror-unsafe-content-type = この問題をウェブサイトの管理者に報告してください。
 neterror-nss-failure-not-verified = 受信したデータの真正性を検証できなかったため、このページは表示できませんでした。
