@@ -8,10 +8,38 @@
 
 ## Error page actions
 
+neterror-copy-to-clipboard-button = คัดลอกข้อความไปยังคลิปบอร์ด
+neterror-learn-more-link = เรียนรู้เพิ่มเติม…
+neterror-return-to-previous-page-button = ย้อนกลับ
 neterror-try-again-button = ลองอีกครั้ง
 
 ##
 
+neterror-error-reporting-automatic = รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย { -vendor-short-name } ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย
 
 ## Specific error messages
 
+neterror-generic-error = { -brand-short-name } ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง
+neterror-file-not-found-filename = ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ
+neterror-file-not-found-moved = ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ
+neterror-unknown-protocol = คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้
+neterror-redirect-loop = ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้
+neterror-unknown-socket-type-psm-installed = ตรวจสอบให้แน่ใจว่าระบบของคุณมีตัวจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่
+neterror-unknown-socket-type-server-config = สิ่งนี้อาจเกิดจากการกำหนดค่าที่ไม่มาตรฐานบนเซิร์ฟเวอร์
+neterror-net-offline = กด “ลองอีกครั้ง” เพื่อสลับเป็นโหมดออนไลน์และโหลดหน้าใหม่
+neterror-proxy-resolve-failure-settings = ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซีถูกต้อง
+neterror-proxy-resolve-failure-connection = ตรวจสอบให้แน่ใจว่าคอมพิวเตอร์ของคุณมีการเชื่อมต่อเครือข่ายที่ทำงานได้
+neterror-proxy-resolve-failure-firewall = หากคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องด้วยไฟร์วอลล์หรือพร็อกซี ตรวจสอบให้แน่ใจว่า { -brand-short-name } ได้รับอนุญาตให้เข้าถึงเว็บ
+neterror-proxy-connect-failure-settings = ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซีถูกต้อง
+neterror-proxy-connect-failure-contact-admin = ติดต่อผู้ดูแลเครือข่ายของคุณเพื่อให้แน่ใจว่าเซิร์ฟเวอร์พร็อกซีกำลังทำงานอยู่
+neterror-content-encoding-error = โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้
+neterror-unsafe-content-type = โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้
+neterror-corrupted-content-intro = ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในการส่งผ่านข้อมูล
+neterror-corrupted-content-contact-website = โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = ข้อมูลขั้นสูง: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> ใช้เทคโนโลยีความปลอดภัยที่ล้าสมัยและเสี่ยงต่อการถูกโจมตี ผู้โจมตีสามารถเปิดเผยข้อมูลที่คุณคิดว่าปลอดภัยได้อย่างง่ายดาย ผู้ดูแลเว็บไซต์จำเป็นต้องแก้ไขเซิร์ฟเวอร์ก่อนที่คุณจะสามารถเยี่ยมชมไซต์ได้
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = รหัสข้อผิดพลาด: NS_ERROR_NET_INADEQUATE_SECURITY
