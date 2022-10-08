@@ -30,3 +30,22 @@ findbar-fast-find-links =
     .placeholder = तेज ढूँढ़ना (कड़ी केवल):
 findbar-case-sensitive-status =
     .value = (स्थिति के प्रति संवेदनशील)
+findbar-entire-word-status =
+    .value = (केवल संपूर्ण शब्द)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current }, { $total } मिलान का
+           *[other] { $current }, { $total } मिलान का
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } मिलान से अधिक
+           *[other] { $limit } मिलान से अधिक
+        }
