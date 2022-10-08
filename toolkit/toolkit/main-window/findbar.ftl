@@ -29,5 +29,30 @@ findbar-entire-word =
     .tooltiptext = Çerca solo e paròlle intreghe
 findbar-wrapped-to-top = Fin da pagina, continoa da çimma
 findbar-wrapped-to-bottom = Çimma da pagina, continoa da fin
+findbar-normal-find =
+    .placeholder = Treuva inta pagina
+findbar-fast-find =
+    .placeholder = Riçerca rapida
+findbar-fast-find-links =
+    .placeholder = Riçerca rapida (solo colegamenti)
 findbar-case-sensitive-status =
     .value = (Contròlla e maioscole)
+findbar-entire-word-status =
+    .value = (Solo paròlle intreghe)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Corispondensa { $current } de { $total }
+           *[other] Corispondensa { $current } de { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Ciù de { $limit } corispondensa
+           *[other] Ciù de { $limit } corispondense
+        }
