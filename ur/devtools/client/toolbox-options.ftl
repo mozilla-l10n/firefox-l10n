@@ -122,8 +122,3 @@ options-source-maps-label = ماخذ نقشہ جات اہل بنائیں
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * موجودہ سیشن صرف، صفحات دوبارہ
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = گیکو پلیٹ فارم کوائف دکھایں
-options-show-platform-data-tooltip =
-    .title = اگر آپ اس اختیار کو فعال ہے تو جاوا پروفائلر رپورٹوں چھپکلی پلیٹ فارم علامتوں میں شامل ہوں گے

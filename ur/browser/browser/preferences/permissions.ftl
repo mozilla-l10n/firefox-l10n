@@ -5,62 +5,81 @@
 permissions-window =
     .title = استثنیات
     .style = width: 45em
+
 permissions-window2 =
     .title = استثنیات
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ویب سائٹ کا پتہ
     .accesskey = d
+
 permissions-block =
     .label = بلاک کریں
     .accesskey = B
+
 permissions-session =
     .label = سیشن کے لیے اجازت دیں
     .accesskey = S
+
 permissions-allow =
     .label = اجازت دیں
     .accesskey = A
+
 permissions-button-off =
     .label = بند کریں
     .accesskey = O
+
 permissions-button-off-temporarily =
     .label = عارضی طور پر بندکریں
     .accesskey = T
+
 permissions-site-name =
     .label = ويب سائٹ
+
 permissions-status =
     .label = حالت
+
 permissions-remove =
     .label = ویب سائٹ ہٹائیں
     .accesskey = R
+
 permissions-remove-all =
     .label = تمام ویب سائٹیں ہٹائیں
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = تبدیلیاں محفوظ کریں
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = تمام ویب سائٹس کے لئے پہلے سے طے شدہ:
+
 permissions-searchbox =
     .placeholder = ویبسائٹ تلاش کریں
+
 permissions-capabilities-autoplay-allow =
     .label = آڈیو اور ویڈیو کی اجازت دیں
 permissions-capabilities-autoplay-block =
     .label = آڈیو کو مسدود کریں۔
 permissions-capabilities-autoplay-blockall =
     .label = آڈیو اور ویڈیو کو مسدود کریں
+
 permissions-capabilities-allow =
     .label = اجازت دیں
 permissions-capabilities-block =
     .label = بلاک کریں
 permissions-capabilities-prompt =
     .label = ہمیشہ پوچھیں
+
 permissions-capabilities-listitem-allow =
     .value = اجازت دیں
 permissions-capabilities-listitem-block =
     .value = بلاک کریں
 permissions-capabilities-listitem-allow-session =
     .value = سیشن کے لیے اجازت دیں
+
 permissions-capabilities-listitem-off =
     .value = ‏‏بندکریں
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = کوئی جائز نام میزبان داخل �
 permissions-exceptions-etp-window =
     .title = بہتر ٹریکنگ سے حفاظت کے لئے استثنا
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = بہتر ٹریکنگ سے حفاظت کے لئے استثنا
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = آپ نے ان ویب سائٹوں پر تحف
 permissions-exceptions-cookie-window =
     .title = استثنیات - کوکیز اور سائٹ کا ڈیٹا
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = استثنیات - کوکیز اور سائٹ کا ڈیٹا
     .style = { permissions-window2.style }
@@ -99,6 +120,7 @@ permissions-exceptions-cookie-desc = آپ اختصاص کر سکتے ہیں کی
 permissions-exceptions-popup-window =
     .title = اجازت دی ویب سائٹ - پاپ اپ
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = اجازت دی ویب سائٹ - پاپ اپ
     .style = { permissions-window2.style }
@@ -109,6 +131,7 @@ permissions-exceptions-popup-desc = آپ اختصاص کر سکتے ہیں کہ 
 permissions-exceptions-saved-logins-window =
     .title = استثنیات ۔ محفوظ شدہ لاگ ان
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = استثنیات ۔ محفوظ شدہ لاگ ان
     .style = { permissions-window2.style }
@@ -119,6 +142,7 @@ permissions-exceptions-saved-logins-desc = درج ذیل ویب سائٹس کے 
 permissions-exceptions-addons-window =
     .title = اجازت دار ویب سائٹیں - ایڈ اون انسٹالیشن
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = اجازت دار ویب سائٹیں - ایڈ اون انسٹالیشن
     .style = { permissions-window2.style }
@@ -129,6 +153,7 @@ permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ
 permissions-site-autoplay-window =
     .title = سیٹنگز - آٹو پلے
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = سیٹنگز - آٹو پلے
     .style = { permissions-window2.style }
@@ -138,6 +163,7 @@ permissions-site-autoplay-window2 =
 permissions-site-notification-window =
     .title = سیٹنگز - نوٹیفکیشن اجازات
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = سیٹنگز - نوٹیفکیشن اجازات
     .style = { permissions-window2.style }
@@ -151,6 +177,7 @@ permissions-site-notification-disable-desc = یہ کسی بھی ویب سائٹ 
 permissions-site-location-window =
     .title = سیٹنگز- محل وقوع اجازت
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = سیٹنگز- محل وقوع اجازت
     .style = { permissions-window2.style }
@@ -164,6 +191,7 @@ permissions-site-location-disable-desc = یہ کسی بھی ویب سائٹ کو
 permissions-site-xr-window =
     .title = سیٹنگز - ورچوئل رئیلٹی اجازت
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = سیٹنگز - ورچوئل رئیلٹی اجازت
     .style = { permissions-window2.style }
@@ -175,6 +203,7 @@ permissions-site-xr-disable-label =
 permissions-site-camera-window =
     .title = سیٹنگز- کیمرہ اجازتیں
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = سیٹنگز- کیمرہ اجازتیں
     .style = { permissions-window2.style }
@@ -188,6 +217,7 @@ permissions-site-camera-disable-desc = یہ کسی بھی ویب سائٹ کو �
 permissions-site-microphone-window =
     .title = سیٹنگز - مائکروفون کی اجازت
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = سیٹنگز - مائکروفون کی اجازت
     .style = { permissions-window2.style }

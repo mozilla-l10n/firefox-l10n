@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } تازہ کریں
 refresh-profile = { -brand-short-name } کی صفائی کریں
 refresh-profile-button = { -brand-short-name } تازہ کریں…
+
 refresh-profile-progress =
     .title = { -brand-short-name } تازہ کریں
 refresh-profile-progress-description = تقریبا ختم…
