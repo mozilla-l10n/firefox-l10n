@@ -13,3 +13,5 @@ about-private-browsing-not-private = നിങ്ങള്‍ നിലവില
 about-private-browsing-search-banner-close-button =
     .aria-label = അടയ്ക്കുക
 
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+

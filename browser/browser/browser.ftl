@@ -171,6 +171,10 @@ search-one-offs-add-engine-menu =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 
@@ -474,3 +478,6 @@ data-reporting-notification-message = { -brand-short-name } സ്വയമാ�
 data-reporting-notification-button =
     .label = പങ്കിടുന്നതു് തെരഞ്ഞെടുക്കുക
     .accesskey = ര
+
+## Unified extensions (toolbar) button
+
