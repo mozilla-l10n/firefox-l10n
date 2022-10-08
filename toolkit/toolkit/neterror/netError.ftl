@@ -38,6 +38,9 @@ neterror-load-error-try-again = La retejo povas esti tempe ne atingebla aŭ troe
 neterror-load-error-connection = Se vi ne sukcesas ŝargi iun ajn paĝon, kontrolu la komputilan retan konekton.
 neterror-load-error-firewall = Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto, certiĝu ke { -brand-short-name } rajtas aliri la TTT-n.
 neterror-captive-portal = Vi devas komenci seancon en tiu ĉi reto antaŭ ol vi povos aliri la Interreton.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Ĉu vi celis iri al <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Se vi tajpis la ĝustan adreson, vi povas:</strong>
 neterror-dns-not-found-hint-try-again = klopodi denove poste
 neterror-dns-not-found-hint-check-network = kontroli vian retaliron
