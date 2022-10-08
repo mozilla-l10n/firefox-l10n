@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Asetukset
     .accesskey = A
+
 menu-addons-and-themes =
     .label = Lisäosat ja teemat
     .accesskey = L
@@ -20,36 +21,47 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Ohje
     .accesskey = H
+
 menu-help-get-help =
     .label = Tuki
     .accesskey = H
+
 menu-help-explore-features =
     .label = Tutustu ominaisuuksiin
     .accesskey = F
+
 menu-help-shortcuts =
     .label = Pikanäppäimet
     .accesskey = k
+
 menu-help-get-involved =
     .label = Tule mukaan
     .accesskey = G
+
 menu-help-donation =
     .label = Tee lahjoitus
     .accesskey = D
+
 menu-help-share-feedback =
     .label = Jaa ideoita ja palautetta
     .accesskey = S
+
 menu-help-enter-troubleshoot-mode =
     .label = Ongelmanratkaisutila…
     .accesskey = O
+
 menu-help-exit-troubleshoot-mode =
     .label = Poista Ongelmanratkaisutila käytöstä
     .accesskey = i
+
 menu-help-more-troubleshooting-info =
     .label = Lisää ongelmanratkaisutietoja
     .accesskey = s
+
 menu-help-troubleshooting-info =
     .label = Tietoja ongelmatilanteisiin
     .accesskey = l
+
 menu-help-about-product =
     .label = Tietoja: { -brand-short-name }
     .accesskey = A
@@ -80,30 +92,39 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Fonttikoko
     .accesskey = o
+
 menuitem-font-size-enlarge =
     .label = Suurenna fonttikokoa
     .accesskey = u
+
 menuitem-font-size-reduce =
     .label = Pienennä fonttikokoa
     .accesskey = i
+
 menuitem-font-size-reset =
     .label = Palauta fonttikoko
     .accesskey = l
+
 mail-uidensity-label =
     .label = Tiheys
     .accesskey = h
+
 mail-uidensity-compact =
     .label = Tiivistä
     .accesskey = v
+
 mail-uidensity-normal =
     .label = Normaali
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Kosketus
     .accesskey = k
+
 mail-uidensity-default =
     .label = Oletus
     .accesskey = D
+
 menu-spaces-toolbar-button =
     .label = Tilat-työkalupalkki
     .accesskey = T

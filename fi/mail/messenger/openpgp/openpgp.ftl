@@ -1,9 +1,11 @@
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Salattujen tai digitaalisesti allekirjoitettujen viestien lähettämistä varten on määritettävä joko OpenPGP- tai S/MIME-salaustekniikka.
 e2e-intro-description-more = Ota OpenPGP käyttöösi valitsemalla henkilökohtainen avaimesi, tai S/MIME valitsemalla henkilökohtainen varmenteesi. Henkilökohtaista avainta tai varmennetta varten sinulla on vastaava oma salainen avain.
+
 e2e-disable-enc =
     .label = Poista uusien viestien salaus käytöstä
     .accesskey = P
@@ -11,6 +13,7 @@ e2e-enable-enc =
     .label = Ota salaus käyttöön uusille viesteille
     .accesskey = n
 e2e-enable-description = Voit poistaa yksittäisten viestien salauksen käytöstä.
+
 e2e-advanced-section = Lisäasetukset
 e2e-attach-key =
     .label = Liitä julkinen avaimeni digitaalista OpenPGP-allekirjoitusta lisätessä
@@ -21,6 +24,7 @@ e2e-encrypt-subject =
 e2e-encrypt-drafts =
     .label = Säilytä luonnosviestit salatussa muodossa
     .accesskey = m
+
 openpgp-key-user-id-label = Tili / käyttäjätunnus
 openpgp-keygen-title-label =
     .title = Luo OpenPGP-avain
@@ -51,13 +55,18 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Lisäasetukset…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">HUOMAA: Avaimen luominen saattaa kestää useita minuutteja.</a> Älä sulje sovellusta avaimen luomisen aikana. Aktiivinen selaaminen tai muiden levyintensiivisten toimintojen suorittaminen avaimen luomisen aikana tehostaa 'satunnaisuusaluetta' ja nopeuttaa prosessia. Kun avaimen luominen valmistuu, siitä annetaan ilmoitus.
+
 openpgp-key-created-label =
     .label = Luotu
+
 openpgp-key-expiry-label =
     .label = Vanheneminen
+
 openpgp-key-id-label =
     .label = Avaimen tunniste (ID)
+
 openpgp-cannot-change-expiry = Tämä on avain, jolla on monimutkainen rakenne. Sen voimassaoloajan muuttamista ei tueta.
+
 openpgp-key-man-title =
     .title = OpenPGP-avainhallinta
 openpgp-key-man-generate =
@@ -68,6 +77,7 @@ openpgp-key-man-gen-revoke =
     .accesskey = K
 openpgp-key-man-ctx-gen-revoke-label =
     .label = Luo ja tallenna kumoamisvarmenne
+
 openpgp-key-man-file-menu =
     .label = Tiedosto
     .accesskey = T
@@ -83,6 +93,7 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Avainpalvelin
     .accesskey = A
+
 openpgp-key-man-import-public-from-file =
     .label = Tuo julkiset avaimet tiedostosta
     .accesskey = T
@@ -105,23 +116,29 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Varmuuskopioi salaiset avaimet tiedostoon
     .accesskey = r
+
 openpgp-key-man-discover-cmd =
     .label = Etsi avaimia verkossa
     .accesskey = E
 openpgp-key-man-discover-prompt = Etsi OpenPGP-avaimia verkossa, avainpalvelimissa tai WKD-protokollaa käyttäen kirjoittamalla joko sähköpostiosoitteesi tai avaimesi tunniste (ID).
 openpgp-key-man-discover-progress = Etsitään…
+
 openpgp-key-copy-key =
     .label = Kopioi julkinen avain
     .accesskey = o
+
 openpgp-key-export-key =
     .label = Vie julkinen avain tiedostoon
     .accesskey = j
+
 openpgp-key-backup-key =
     .label = Varmuuskopioi salainen avain tiedostoon
     .accesskey = s
+
 openpgp-key-send-key =
     .label = Lähetä julkinen avain sähköpostilla
     .accesskey = t
+
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -129,6 +146,7 @@ openpgp-key-man-copy-key-ids =
            *[other] Kopioi avainten tunnisteet leikepöydälle
         }
     .accesskey = o
+
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
@@ -136,6 +154,7 @@ openpgp-key-man-copy-fprs =
            *[other] Kopioi sormenjäljet leikepöydälle
         }
     .accesskey = r
+
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -143,11 +162,14 @@ openpgp-key-man-copy-to-clipboard =
            *[other] Kopioi julkiset avaimet leikepöydälle
         }
     .accesskey = ä
+
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Vie avaimet tiedostoon
+
 openpgp-key-man-ctx-copy =
     .label = Kopioi
     .accesskey = K
+
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -155,6 +177,7 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Sormenjäljet
         }
     .accesskey = S
+
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
@@ -162,6 +185,7 @@ openpgp-key-man-ctx-copy-key-ids =
            *[other] Avainten tunnisteet
         }
     .accesskey = m
+
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
@@ -169,6 +193,7 @@ openpgp-key-man-ctx-copy-public-keys =
            *[other] Julkiset avaimet
         }
     .accesskey = J
+
 openpgp-key-man-close =
     .label = Sulje
 openpgp-key-man-reload =
@@ -218,14 +243,15 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Mikään avain ei vastaa hakusanojasi
 openpgp-key-man-please-wait-tooltip =
     .label = Odota, avaimia ladataan ...
+
 openpgp-key-man-filter-label =
     .placeholder = Etsi avaimia
+
 openpgp-key-man-select-all-key =
     .key = K
 openpgp-key-man-key-details-key =
     .key = T
-openpgp-key-details-title =
-    .title = Avaimen ominaisuudet
+
 openpgp-key-details-doc-title = Avaimen ominaisuudet
 openpgp-key-details-signatures-tab =
     .label = Varmenteet
@@ -234,12 +260,12 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Käyttäjätunnus / varmentanut
 openpgp-key-details-key-id-label = Avaimen tunniste
-openpgp-key-details-user-id2-label = Oletettu avaimen omistaja
 openpgp-key-details-id-label =
     .label = Tunniste
 openpgp-key-details-key-type-label = Tyyppi
 openpgp-key-details-key-part-label =
     .label = Avaimen osa
+
 openpgp-key-details-algorithm-label =
     .label = Algoritmi
 openpgp-key-details-size-label =
@@ -275,6 +301,7 @@ openpgp-personal-no-label =
     .label = Ei, älä käytä sitä henkilökohtaisena avaimenani.
 openpgp-personal-yes-label =
     .label = Kyllä, käytä tätä avainta henkilökohtaisena avaimenani.
+
 openpgp-copy-cmd-label =
     .label = Kopioi
 
@@ -282,45 +309,66 @@ openpgp-copy-cmd-label =
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Nykyinen kokoonpanosi käyttää avaimen tunnistetta <b>{ $key }</b>
+
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Nykyinen kokoonpano käyttää avainta <b>{ $key }</b>, joka on vanhentunut.
+
 openpgp-add-key-button =
     .label = Lisää avain…
     .accesskey = L
+
 e2e-learn-more = Lue lisää
+
 openpgp-keygen-success = OpenPGP-avain luotu onnistuneesti!
+
 openpgp-keygen-import-success = OpenPGP-avainten tuonti onnistui!
+
 openpgp-keygen-external-success = Ulkoisen GnuPG-avaimen tunniste tallennettu!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Ei mitään
+
 openpgp-radio-none-desc = Älä käytä OpenPGP:tä tähän henkilöyteen.
+
 openpgp-radio-key-not-usable = Tämä avain ei ole soveltuva henkilökohtaiseksi avaimeksi, koska salainen avain puuttuu!
 openpgp-radio-key-not-accepted = Tämän avaimen käyttämiseksi sinun on hyväksyttävä se henkilökohtaiseksi avaimeksi!
 openpgp-radio-key-not-found = Tätä avainta ei löytynyt! Jos haluat käyttää sitä, sinun on tuotava se { -brand-short-name }iin.
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Vanhenee: { $date }
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Vanhentunut: { $date }
+
 openpgp-key-expires-within-6-months-icon =
     .title = Avain vanhenee alle 6 kuukaudessa
+
 openpgp-key-has-expired-icon =
     .title = Avain on vanhentunut
+
 openpgp-key-expand-section =
     .tooltiptext = Lisätietoja
+
 openpgp-key-revoke-title = Kumoa avain
+
 openpgp-key-edit-title = Vaihda OpenPGP-avain
+
 openpgp-key-edit-date-title = Myöhäistä vanhenemispäivää
+
 openpgp-manager-description = Tarkastele ja hallinnoi yhteyshenkilöidesi julkisia avaimia ja muita yllä mainitsemattomia avaimia OpenPGP-avainhallinnalla.
+
 openpgp-manager-button =
     .label = OpenPGP-avainhallinta
     .accesskey = O
+
 openpgp-key-remove-external =
     .label = Poista ulkoisen avaimen tunniste
     .accesskey = P
+
 key-external-label = Ulkoinen GnuPG-avain
+
 # Strings in keyDetailsDlg.xhtml
 key-type-public = julkinen avain
 key-type-primary = ensisijainen avain
@@ -336,12 +384,15 @@ key-expired-date = Avain vanhentui { $keyExpiry }
 key-expired-simple = Avain on vanhentunut
 key-revoked-simple = Avain kumottiin
 key-do-you-accept = Hyväksytkö tämän avaimen digitaalisten allekirjoitusten todentamiseksi ja viestien salaamiseksi?
+
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Viestiä ei voida lähettää, koska henkilökohtaisessa avaimessasi on ongelma. { $problem }
 cannot-encrypt-because-missing = Tätä viestiä ei voi lähettää päästä päähän -salauksella, koska seuraavien vastaanottajien avaimissa on ongelmia: { $problem }
 window-locked = Kirjoitusikkuna on lukittu; lähetys peruutettu
+
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Tämä on salattu viestiosa. Avaa se erillisessä ikkunassa napsauttamalla liitettä.
+
 # Strings in keyserver.jsm
 keyserver-error-aborted = Keskeytetty
 keyserver-error-unknown = Tapahtui tuntematon virhe
@@ -351,6 +402,7 @@ keyserver-error-unavailable = Avainpalvelin ei ole käytettävissä.
 keyserver-error-security-error = Avainpalvelin ei tue salattua käyttöä.
 keyserver-error-certificate-error = Avainpalvelimen varmenne ei ole kelvollinen.
 keyserver-error-unsupported = Avainpalvelin ei ole tuettu.
+
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
     Sähköpostipalveluntarjoajasi käsitteli pyyntösi julkisen avaimesi lähettämiseksi OpenPGP-verkkoavainhakemistoon.
@@ -358,11 +410,13 @@ wkd-message-body-req =
 wkd-message-body-process =
     Tämä sähköpostiviesti liittyy julkisen avaimesi automaattiseen lähettämiseen OpenPGP-verkkoavainhakemistoon.
     Tässä vaiheessa sinulta ei edellytetä mitään toimia.
+
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Ei pystytty purkamaan viestiä aiheella
     { $subject }.
     Haluatko yrittää uudelleen toisella tunnuslauseella, vai haluatko ohittaa viestin?
+
 # Strings filters.jsm
 filter-folder-required = Kohdekansio on valittava.
 filter-decrypt-move-warn-experimental =
@@ -374,10 +428,12 @@ filter-key-not-found = Ei löytynyt salausavainta seuraaville '{ $desc }'.
 filter-warn-key-not-secret =
     Varoitus - suodatintoiminto "Salaa avaimeen" korvaa vastaanottajat.
     Jos sinulla ei ole salaista avainta kohteisiin '{ $desc }', et pysty enää lukea sähköpostiviestejä.
+
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Pura salaus pysyvästi (OpenPGP)
 filter-decrypt-copy-label = Luo salauksesta purettu kopio (OpenPGP)
 filter-encrypt-label = Salaa avaimeen (OpenPGP)
+
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Onnistui! Avaimet tuotu
@@ -386,6 +442,7 @@ import-info-created = Luotu
 import-info-fpr = Sormenjälki
 import-info-details = Näytä yksityiskohdat ja hallitse avaimen hyväksyntää
 import-info-no-keys = Avaimia ei ole tuotu.
+
 # Strings in enigmailKeyManager.js
 import-from-clip = Haluatko tuoda yhden tai useamman avaimen leikepöydältä?
 import-from-url = Lataa julkinen avain tästä osoitteesta:
@@ -429,8 +486,10 @@ dlg-button-delete = &Poista
 
 openpgp-export-public-success = <b>Julkinen avain viety onnistuneesti!</b>
 openpgp-export-public-fail = <b>Valitun julkisen avaimen vienti ei onnistunut!</b>
+
 openpgp-export-secret-success = <b>Salainen avain viety onnistuneesti!</b>
 openpgp-export-secret-fail = <b>Valitun salaisen avaimen vienti ei onnistunut!</b>
+
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Avain { $userId } (avaimen tunniste { $keyId }) on kumottu.
 key-ring-pub-key-expired = Avain { $userId } (avaimen tunniste { $keyId }) on vanhentunut.
@@ -441,47 +500,64 @@ key-ring-sign-sub-keys-revoked = Kaikki avaimen { $userId } (avaimen tunniste { 
 key-ring-sign-sub-keys-expired = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) allekirjoitukseen tarkoitetut aliavaimet ovat vanhentuneet.
 key-ring-enc-sub-keys-revoked = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) salaukseen tarkoitetut aliavaimet on kumottu.
 key-ring-enc-sub-keys-expired = Kaikki avaimen { $userId } (avaimen tunniste { $keyId }) salaukseen tarkoitetut aliavaimet ovat vanhentuneet.
+
 # Strings in gnupg-keylist.jsm
 keyring-photo = Kuva
 user-att-photo = Käyttäjän ominaisuus (JPEG-kuva)
+
 # Strings in key.jsm
 already-revoked = Tämä avain on jo kumottu.
+
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Olet aikeissa kumota avaimen '{ $identity }'.
     Et voi enää allekirjoittaa tällä avaimella, ja kun jaettu muille, muut eivät enää pysty salata kyseisellä avaimella. Voit silti käyttää avainta vanhojen viestien salauksen purkamiseen.
     Haluatko jatkaa?
+
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     Sinulla ei ole avainta (0x{ $keyId }) mikä täsmäisi tätä kumoamisvarmennetta!
     Jos olet kadottanut avaimesi, sinun tulee tuoda (esim. avainpalvelimelta), ennen kuin tuot kumoamisvarmenteen!
+
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Avain 0x{ $keyId } on jo kumottu.
+
 key-man-button-revoke-key = &Kumoa avain
+
 openpgp-key-revoke-success = Avain kumottu onnistuneesti.
+
 after-revoke-info =
     Avain on kumottu.
     Jaa tämä julkinen avain uudelleen, lähettämällä se ihmisille sähköpostitse tai lähettämällä avainpalvelimille, jotta muut saavat tietää sinun kumonneen avaimesi.
     Kun muiden ihmisten käyttämät ohjelmat saavat tiedon kumoamisesta, ohjelmat lopettavat vanhan avaimesi käytön.
     Jos käytät uutta avainta samaan sähköpostiosoitteeseen, ja liität uuden julkisen avaimesi lähettämiisi sähköposteihin, niin tieto kumotusta vanhasta avaimestasi sisällytetään automaattisesti.
+
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Tuo
+
 delete-key-title = Poista OpenPGP-avain
+
 delete-external-key-title = Poista ulkoinen GnuPG-avain
+
 delete-external-key-description = Haluatko poistaa tämän ulkoisen GnuPG-avaimen tunnisteen?
+
 key-in-use-title = OpenPGP-avain on parhaillaan käytössä
+
 delete-key-in-use-description = Ei voi jatkaa! Poistettavaksi valitsemasi avain on parhaillaan tämän identiteetin käytössä. Valitse eri avain, tai älä valitse mitään avainta, ja yritä uudelleen.
+
 revoke-key-in-use-description = Ei voi jatkaa! Kumottavaksi valitsemasi avain on parhaillaan tämän identiteetin käytössä. Valitse eri avain, tai älä valitse mitään avainta, ja yritä uudelleen.
+
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Sähköpostiosoitetta '{ $keySpec }' ei voida täsmätä avainnipussasi olevaan avaimeen.
 key-error-key-id-not-found = Määritettyä avaimen tunnistetta '{ $keySpec }' ei löydy avainnipustasi.
 key-error-not-accepted-as-personal = Et ole vahvistanut, että avain tunnisteella '{ $keySpec }' on henkilökohtainen avaimesi.
+
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Valitsemasi toiminto ei ole käytettävissä yhteydettömässä tilassa. Yhdistä verkkoon ja yritä uudelleen.
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Hakuehtoja vastaavia avaimia ei löytynyt.
+
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Virhe - avaimen purkamiskomento epäonnistui
+
 # Strings used in keyRing.jsm
 fail-cancel = Virhe - Avaimen vastaanotto peruttu käyttäjän toimesta
 not-first-block = Virhe - Ensimmäinen OpenPGP-lohko ei ole julkisen avaimen lohko
@@ -490,6 +566,7 @@ fail-key-import = Virhe - avaimen tuominen epäonnistui
 file-write-failed = Kirjoitus tiedostoon { $output } epäonnistui
 no-pgp-block = Virhe - Kelvollista panssaroitua OpenPGP-datalohkoa ei löytynyt
 confirm-permissive-import = Tuonti epäonnistui. Avain, jota yritit tuoda, saattaa olla rikkoutunut tai se se saattaa käyttää tuntemattomia ominaisuuksia. Haluatko yrittää tuoda kelvolliset osat avaimesta? Tämä saattaa johtaa epätäydellisten ja käyttökelvottomien avainten tuontiin.
+
 # Strings used in trust.jsm
 key-valid-unknown = tuntematon
 key-valid-invalid = virheellinen
@@ -501,6 +578,7 @@ key-trust-marginal = marginaalinen
 key-trust-full = luotettu
 key-trust-ultimate = ultimaattinen
 key-trust-group = (ryhmä)
+
 # Strings used in commonWorkflows.js
 import-key-file = Tuo OpenPGP-avaintiedosto
 import-rev-file = Tuo OpenPGP-kumoamistiedosto
@@ -508,6 +586,7 @@ gnupg-file = GnuPG-tiedostot
 import-keys-failed = Avainten tuonti epäonnistui
 passphrase-prompt = Kirjoita salalause joka avaa seuraavan avaimen: { $key }
 file-to-big-to-import = Tämä tiedosto on liian suuri. Älä tuo liian suurta määrää avaimia kerralla.
+
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Luo ja tallenna kumoamisvarmenne
 revoke-cert-ok = Kumoamisvarmenne on luotu onnistuneesti. Voit käyttää sitä julkisen avaimesi mitätöimiseen, jos esimerkiksi kadotat salaisen avaimesi.
@@ -526,6 +605,7 @@ key-man-button-generate-key-continue = &Jatka avaimen luomista
 
 failed-decrypt = Virhe - salauksen purkaminen epäonnistui
 fix-broken-exchange-msg-failed = Viestin korjaaminen ei onnistunut.
+
 attachment-no-match-from-signature = Allekirjoitustiedostoa '{ $attachment }' ei voitu täsmätä liitteeseen
 attachment-no-match-to-signature = Liitettä '{ $attachment }' ei voitu täsmätä allekirjoitustiedostoon
 signature-verified-ok = Liitteen { $attachment } allekirjoitus vahvistettiin onnistuneesti
@@ -535,6 +615,7 @@ decrypt-ok-no-sig =
     Viestin salauksen purkaminen onnistui, mutta allekirjoitusta ei voitu vahvistaa oikeaoppisesti
 msg-ovl-button-cont-anyway = &Jatka silti
 enig-content-note = *Tämän viestin liitteitä ei ole allekirjoitettu tai salattu*
+
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Lähetä viesti
 msg-compose-details-button-label = Lisätiedot…
@@ -568,6 +649,7 @@ save-attachment-header = Tallenna salauksesta purettu liite
 possibly-pgp-mime = Mahdollisesti PGP/MIME-salattu tai allekirjoitettu viesti; käytä "Pura salaus/Vahvista'-toimintoa vahvistaaksesi
 cannot-send-sig-because-no-own-key = Tätä viestiä ei voi digitaalisesti allekirjoittaa, koska et ole vielä määrittänyt päästä päähän -salausta avaimelle <{ $key }>
 cannot-send-enc-because-no-own-key = Tätä viestiä ei voi lähettää salattuna, koska et ole vielä määrittänyt päästä päähän -salausta avaimelle <{ $key }>
+
 # Strings used in decryption.jsm
 do-import-multiple =
     Haluatko tuoda seuraavat avaimet?
@@ -582,14 +664,18 @@ attachment-pgp-key =
     Liite '{ $name }' vaikuttaa olevan OpenPGP-avaintiedosto.
     Napsauta "Tuo" tuodaksesi avaimen tai "Näytä" tarkastellaksesi tiedoston sisältöä selainikkunassa
 dlg-button-view = &Näytä
+
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Salauksesta purettu viesti (palautettu rikkoutuneesta PGP-sähköpostimuodosta, jonka aiheutti mitä luultavimmin vanha Exchange-palvelin, joten lopputulos ei välttämättä ole täydellisesti luettavissa)
+
 # Strings used in encryption.jsm
 not-required = Virhe - salausta ei vaadita
+
 # Strings used in windows.jsm
 no-photo-available = Ei kuvaa saatavilla
 error-photo-path-not-readable = Kuvan polku '{ $photo }' ei ole luettavissa
 debug-log-title = OpenPGP-vianjäljitysloki
+
 # Strings used in dialog.jsm
 repeat-prefix = Tämä hälytys toistetaan { $count }
 repeat-suffix-singular = kerran.
@@ -604,9 +690,11 @@ enig-prompt = OpenPGP-kehote
 enig-confirm = OpenPGP-vahvistus
 enig-alert = OpenPGP-hälytys
 enig-info = OpenPGP-tiedot
+
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Yritä uudelleen
 dlg-button-skip = &Ohita
+
 # Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP-hälytys

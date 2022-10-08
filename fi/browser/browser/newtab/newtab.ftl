@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Haku
     .aria-label = Haku
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Hae hakukoneella { $engine } tai kirjoita osoite
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Kirjoita osoite tai hakusana
     .title = Kirjoita osoite tai hakusana
     .aria-label = Kirjoita osoite tai hakusana
+
 newtab-search-box-text = Verkkohaku
 newtab-search-box-input =
     .placeholder = Verkkohaku
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
+
 newtab-topsites-url-label = Osoite
 newtab-topsites-url-input =
     .placeholder = Kirjoita tai liitä osoite
 newtab-topsites-url-validation = Kelvollinen osoite vaaditaan
+
 newtab-topsites-image-url-label = Oman kuvan osoite
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
 newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Sponsoroitu
 newtab-menu-section-tooltip =
     .title = Avaa valikko
     .aria-label = Avaa valikko
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Poista
     .aria-label = Poista
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -156,14 +162,17 @@ newtab-label-removed-bookmark = Kirjanmerkki poistettu
 newtab-label-recommended = Pinnalla
 newtab-label-saved = Tallennettu { -pocket-brand-name }-palveluun
 newtab-label-download = Ladatut
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsoroitu
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsorina { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -202,6 +211,7 @@ newtab-section-header-pocket = Suositukset lähteestä { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ala selata, niin tässä alkaa näkyä hyviä juttuja, videoita ja muita sivuja, joilla olet käynyt hiljattain tai jotka olet lisännyt kirjanmerkkeihin.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -226,9 +236,11 @@ newtab-pocket-learn-more = Lue lisää
 newtab-pocket-cta-button = Hanki { -pocket-brand-name }
 newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name }-perhettä
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Tallenna { -pocket-brand-name }iin
 newtab-pocket-saved-to-pocket = Tallennettu { -pocket-brand-name }iin
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Lataa lisää tarinoita
 
@@ -239,6 +251,7 @@ newtab-pocket-last-card-title = Siinä kaikki!
 newtab-pocket-last-card-desc = Katso lisää myöhemmin.
 newtab-pocket-last-card-image =
     .alt = Siinä kaikki
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Tallenna
 newtab-pocket-saved = Tallennettu

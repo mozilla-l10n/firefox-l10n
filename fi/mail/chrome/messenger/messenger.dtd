@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goChatCmd.label "Keskustele">
 <!ENTITY goChatCmd.accesskey "K">
-<!ENTITY goChatCmd2.key "e">
 <!ENTITY prevStarredMsgCmd.label "Tähdellä merkitty viesti">
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Kansio">

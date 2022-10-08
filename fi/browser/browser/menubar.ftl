@@ -38,9 +38,11 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sulje { -brand-shorter-name }
+
 menu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T

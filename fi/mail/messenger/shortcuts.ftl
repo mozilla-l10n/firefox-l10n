@@ -8,3 +8,4 @@
 # Variables:
 #  $key (String) - The shortcut key.
 shortcut-key = { $key }
+
