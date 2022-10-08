@@ -7,6 +7,7 @@
 
 certerror-page-title = คำเตือน: ความเสี่ยงด้านความปลอดภัยที่อาจเกิดขึ้นข้างหน้า
 certerror-sts-page-title = ไม่ได้เชื่อมต่อ: ปัญหาความปลอดภัยที่อาจเกิดขึ้น
+neterror-blocked-by-policy-page-title = หน้าที่ถูกปิดกั้น
 neterror-captive-portal-page-title = เข้าสู่ระบบเครือข่าย
 neterror-dns-not-found-title = ไม่พบเซิร์ฟเวอร์
 neterror-malformed-uri-page-title = URL ไม่ถูกต้อง
