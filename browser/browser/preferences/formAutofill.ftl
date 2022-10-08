@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = सङ्ग्रह गरिएका ठेगानाहरू
 autofill-manage-addresses-list-header = ठेगानाहरू
+
 autofill-manage-credit-cards-title = सुरक्षित गरिएका क्रेडिट कार्डहरु
 autofill-manage-credit-cards-list-header = क्रेडिट कार्ड
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = हटाउनुहोस्
@@ -21,6 +23,7 @@ autofill-manage-edit-button = सम्पादन गर्नुहोस्�
 autofill-add-new-address-title = नयाँ ठेगाना थप्नुहोस्
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ठेगाना सम्पादन गर्नुहोस्
+
 autofill-address-given-name = नाम
 autofill-address-additional-name = बीचको नाम
 autofill-address-family-name = थर
@@ -49,12 +52,15 @@ autofill-address-zip = ZIP कोड
 autofill-address-country = देश वा क्षेत्र
 autofill-address-tel = फोन
 autofill-address-email = इमेल
+
 autofill-cancel-button = रद्द गर्नुहोस्
 autofill-save-button = सङ्ग्रह गर्नुहोस्
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = नयाँ क्रेडिट कार्ड थप्नुहोस्
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = क्रेडिट कार्ड सम्पादन गर्नुहोस्
+
 autofill-card-number = कार्ड नम्बर
 autofill-card-name-on-card = कार्डमा रहेको नाम
 
