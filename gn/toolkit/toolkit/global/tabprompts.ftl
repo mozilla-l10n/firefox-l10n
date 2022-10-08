@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Puruhára réra:
 tabmodalprompt-password =
     .value = Ñe’ẽñemi:
+
 tabmodalprompt-ok-button =
     .label = MONEĨ
 tabmodalprompt-cancel-button =

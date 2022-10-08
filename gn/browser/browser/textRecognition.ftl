@@ -9,5 +9,6 @@
 text-recognition-modal-searching-title = Oheka ta’ãnga moñe’ẽrãme g̃uarã…
 text-recognition-modal-results-title = Moñe’ẽrã ikuatiáva ta’ãngágui
 text-recognition-modal-close-button = Mboty
+
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = Moñe’ẽrãgui ñeguenohẽpyre
