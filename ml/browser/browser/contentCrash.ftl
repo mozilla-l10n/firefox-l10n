@@ -10,3 +10,7 @@
 
 pending-crash-reports-view-all =
     .label = കാണുക
+pending-crash-reports-send =
+    .label = അയയ്ക്കുക
+pending-crash-reports-always-send =
+    .label = എല്ലായ്‌പ്പോഴും അയയ്ക്കുക
