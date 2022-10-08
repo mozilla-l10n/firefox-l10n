@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Suchen (nur Links)
 findbar-case-sensitive-status =
     .value = (Groß-/Kleinschreibung)
+findbar-match-diacritics-status =
+    .value = (Akzentzeichen berücksichtigen)
 findbar-entire-word-status =
     .value = (Nur ganze Wörter)
 # Variables:
