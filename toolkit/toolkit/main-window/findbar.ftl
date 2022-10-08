@@ -25,3 +25,20 @@ findbar-fast-find =
     .placeholder = త్వరిత కనుగోలు
 findbar-case-sensitive-status =
     .value = (చిన్నాపెద్దా అక్షరంతేడా)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } పోలిక మొత్తం { $total } కీ గాను
+           *[other] { $current } పోలికలు మొత్తం { $total } కీ గాను
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } కన్నా ఎక్కువ పోలికలు
+           *[other] { $limit } కన్నా ఎక్కువ పోలికలు
+        }
