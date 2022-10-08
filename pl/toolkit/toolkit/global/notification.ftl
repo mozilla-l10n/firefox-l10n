@@ -4,9 +4,11 @@
 
 notification-learnmore-default-label =
     .value = Więcej informacji
+
 # This label is read by screen readers when focusing the close button for an
 # "infobar" (message shown when for example a popup is blocked).
 close-button-label =
     .aria-label = Zamknij
+
 close-notification-message =
     .tooltiptext = Zamknij tę wiadomość

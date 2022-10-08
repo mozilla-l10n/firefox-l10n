@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Znajdź
     .accesskey = Z
+
 context-text-action-find-again =
     .label = Znajdź ponownie
     .accesskey = o
+
 text-action-find =
     .label = Znajdź
     .accesskey = Z
+
 text-action-find-again =
     .label = Znajdź ponownie
     .accesskey = o
