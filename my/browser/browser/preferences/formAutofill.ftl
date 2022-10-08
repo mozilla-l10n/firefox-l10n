@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = မှတ်ထားသောလိပ်စာများ
 autofill-manage-addresses-list-header = လိပ်စာများ
+
 autofill-manage-credit-cards-title = အကြွေးဝယ်ကတ်များကို မှတ်သားထားပါ
 autofill-manage-credit-cards-list-header = အကြွေးဝယ်ကတ်များ
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ဖယ်ရှားပါ
@@ -21,6 +23,7 @@ autofill-manage-edit-button = တည်းဖြတ်…
 autofill-add-new-address-title = လိပ်စာအသစ်ပေါင်းထည့်ပါ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = လိပ်စာပြုပြင်ပါ
+
 autofill-address-given-name = နာမည်အစအလုံး
 autofill-address-additional-name = နာမည်အလယ်လုံး
 autofill-address-family-name = နာမည်နောက်ဆုံးအလုံး
@@ -66,8 +69,10 @@ autofill-address-eircode = Eircode
 autofill-address-country = နိုင်ငံ သို့မဟုတ် ဒေသ
 autofill-address-tel = ဖုန်း
 autofill-address-email = အီးမေးလ်
+
 autofill-cancel-button = မလုပ်ဆောင်တော့ပါ
 autofill-save-button = သိမ်းထားပါ
+
 autofill-card-number = ကတ် နံပတ်
 autofill-card-name-on-card = ကတ်ပေါ်ရှိ နာမည်
 

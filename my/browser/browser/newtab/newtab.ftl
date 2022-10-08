@@ -23,10 +23,12 @@ newtab-topsites-edit-topsites-header = ထိပ်တန်းဆိုက်�
 newtab-topsites-title-label = ခေါင်းစဉ်
 newtab-topsites-title-input =
     .placeholder = ခေါင်းစဉ် ရေးပါ
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL ကို ရိုက်ပါ သို့မဟုတ် ပွားထည့်ပါ
 newtab-topsites-url-validation = URL အမှန် လိုအပ်သည်
+
 newtab-topsites-image-url-label = စိတ်ကြိုက်ပုံ URL
 newtab-topsites-use-image-link = စိတ်ကြိုက်ပုံတစ်ခုသုံးပါ…
 newtab-topsites-image-validation = ပုံတင်ရန် ပျက်ကွက်ခဲ့သည်။ မတူသော URL ကို စမ်းပါ။
@@ -54,6 +56,7 @@ newtab-confirm-delete-history-p2 = ယခုလုပ်ဆောင်မှု
 newtab-menu-section-tooltip =
     .title = မီနူးကို ဖွင့်ပါ
     .aria-label = မီနူးကို ဖွင့်ပါ
+
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ဆိုက်အားပြင်မည်

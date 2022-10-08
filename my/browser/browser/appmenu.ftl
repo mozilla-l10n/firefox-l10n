@@ -35,25 +35,33 @@ appmenu-remote-tabs-sign-into-sync =
     .label = တစ်ပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ…
 appmenu-remote-tabs-turn-on-sync =
     .label = တစ်ပြေးညီဖြစ်စေရန် ဖွင့်ပါ…
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ဖွင့်ထားသည့်တပ်ဗ်များ မရှိပါ
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = သင့်အခြား ကိရိယာများမှ တပ်ဗ်စာရင်းကို ကြည့်ရန် တပ်ဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။
+
 appmenu-remote-tabs-opensettings =
     .label = အပြင်အဆင်များ
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = အခြားကိရိယာများမှ တပ်ဗ်များကို ဒီမှာ ကြည့်ရှုချင်ပါသလား။
+
 appmenu-remote-tabs-connectdevice =
     .label = အခြားကိရိယာကို ချိတ်ဆက်ရန်
 appmenu-remote-tabs-unverified = အကောင့်ကို အတည်ပြုရန် လိုအပ်သည်။
+
 appmenuitem-fxa-toolbar-sync-now2 = ယခုချိတ်ပါ
+
 appmenuitem-save-page =
     .label = စာမျက်နှာကို သိမ်းမည်…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ဘာတွေ အသစ် ပါလဲ
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =

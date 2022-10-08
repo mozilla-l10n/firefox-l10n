@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = လက်မှတ် ဆွဲချနေတယ်
     .style = width: 46em
+
 download-cert-window2 =
     .title = လက်မှတ် ဆွဲချနေတယ်
     .style = min-width: 46em

@@ -8,12 +8,15 @@ about-private-browsing-search-placeholder = ဝဘ်တွင် ရှာဖ�
 about-private-browsing-info-title = သင်ဟာ ကိုယ်ပိုင်ဝင်းဒိုးရှာဖွေမှုထဲတွင်ရှိပါသည်။
 about-private-browsing-handoff-text-no-engine = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
 about-private-browsing-not-private = သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။
+
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ဖြင့် သီးသန့်သုံးပါ။
+
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ကို ဒေါင်းလုဒ်လုပ်ပါ
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-c = မိုဘိုင်းပေါ်ရှိ အဆင့်မြင့် ကိုယ်ရေးကိုယ်တာ
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -26,6 +29,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = ပိတ်ရန်
+
 about-private-browsing-promo-close-button =
     .title = ပိတ်ပါ
 

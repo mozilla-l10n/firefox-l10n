@@ -5,40 +5,53 @@
 permissions-window =
     .title = ခြွင်းချက်များ
     .style = width: 45em
+
 permissions-window2 =
     .title = ခြွင်းချက်များ
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ၀ဘ်ဆိုက်လိပ်စာ
     .accesskey = d
+
 permissions-block =
     .label = Bပိတ်ဆို့ပါ
     .accesskey = B
+
 permissions-session =
     .label = အသုံးပြုနေစဉ်အတွင်း ခွင့်ပြုပါ
     .accesskey = S
+
 permissions-allow =
     .label = ခွင့်ပြုပါ
     .accesskey = A
+
 permissions-site-name =
     .label = ဝဘ်ဆိုက်
+
 permissions-status =
     .label = လက်ရှိအခြေအနေ
+
 permissions-remove =
     .label = ဝဘ်ဆိုက်ကို ဖျက်
     .accesskey = R
+
 permissions-remove-all =
     .label = ဝဘ်ဆိုက်အားလုံးကို ဖယ်ရှားပါ
     .accesskey = e
+
 permissions-searchbox =
     .placeholder = ဝဘ်ဆိုက်ကို ရှာဖွေရန်
+
 permissions-capabilities-allow =
     .label = ခွင့်ပြုပါ
 permissions-capabilities-block =
     .label = ပိတ်ဆို့ပါ
 permissions-capabilities-prompt =
     .label = အမြဲမေးပါ
+
 permissions-capabilities-listitem-allow =
     .value = ခွင့်ပြုပါ
 permissions-capabilities-listitem-block =
@@ -59,6 +72,7 @@ permissions-invalid-uri-label = အလုပ်လုပ်သောတည်ရ
 permissions-exceptions-cookie-window =
     .title = ခြွင်းချက်များ - ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = ခြွင်းချက်များ - ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်
     .style = { permissions-window2.style }
@@ -71,6 +85,7 @@ permissions-exceptions-cookie-window2 =
 permissions-exceptions-popup-window =
     .title = ခွင့်ပြုထားသောဆိုက်များ - တိုးဖွင့်၀င်းဒိုး
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = ခွင့်ပြုထားသောဆိုက်များ - တိုးဖွင့်၀င်းဒိုး
     .style = { permissions-window2.style }
@@ -81,6 +96,7 @@ permissions-exceptions-popup-desc = သင်သည်မည်သည့်၀�
 permissions-exceptions-saved-logins-window =
     .title = ခြွင်းချက်များ - သိမ်းဆည်းထားသည့် ဝင်ရောက်မှု အချက်အလက်များ
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = ခြွင်းချက်များ - သိမ်းဆည်းထားသည့် ဝင်ရောက်မှု အချက်အလက်များ
     .style = { permissions-window2.style }
@@ -91,6 +107,7 @@ permissions-exceptions-saved-logins-desc = အောက်ပါဆိုက်�
 permissions-exceptions-addons-window =
     .title = ခွင့်ပြုထားသောဆိုက်များ - ထပ်မံဖြည့်စွက်မှုများ လုပ်ခြင်း
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = ခွင့်ပြုထားသောဆိုက်များ - ထပ်မံဖြည့်စွက်မှုများ လုပ်ခြင်း
     .style = { permissions-window2.style }
@@ -104,6 +121,7 @@ permissions-exceptions-addons-desc = သင်သည်မည်သည့်၀�
 permissions-site-notification-window =
     .title = အပြင်အဆင်များ - အသိပေးချက်များဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = အပြင်အဆင်များ - အသိပေးချက်များဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window2.style }
@@ -115,6 +133,7 @@ permissions-site-notification-disable-label =
 permissions-site-location-window =
     .title = အပြင်အဆင်များ - တည်နေရာဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = အပြင်အဆင်များ - တည်နေရာဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window2.style }
@@ -129,6 +148,7 @@ permissions-site-location-disable-label =
 permissions-site-camera-window =
     .title = အပြင်အဆင်များ - ကင်မရာဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = အပြင်အဆင်များ - ကင်မရာဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window2.style }
@@ -140,6 +160,7 @@ permissions-site-camera-disable-label =
 permissions-site-microphone-window =
     .title = အပြင်အဆင်များ - မိုက်ကရိုဖုန်းဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = အပြင်အဆင်များ - မိုက်ကရိုဖုန်းဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window2.style }
