@@ -30,3 +30,5 @@ toolbox-meatball-menu-noautohide-label = पॉपअप का स्वत: �
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

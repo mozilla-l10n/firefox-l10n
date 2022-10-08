@@ -3,4 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-detail-app = ऐप्लिकेशन
+
 third-party-th-process = प्रक्रिया
+

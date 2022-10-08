@@ -5,50 +5,66 @@
 permissions-window =
     .title = अपवाद
     .style = width: 45em
+
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = वेब साइट पता
     .accesskey = d
+
 permissions-block =
     .label = रोकें
     .accesskey = B
+
 permissions-session =
     .label = सत्र के लिए अनुमति दें
     .accesskey = S
+
 permissions-allow =
     .label = अनुमति दें
     .accesskey = A
+
 permissions-site-name =
     .label = वेबसाइट
+
 permissions-status =
     .label = स्थिति
+
 permissions-remove =
     .label = वेबसाइट हटाएँ
     .accesskey = R
+
 permissions-remove-all =
     .label = सभी वेबसाइटों को हटाएँ
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = परिवर्तन सहेजें
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = सभी वेबसाइटों के लिए डिफ़ॉल्ट:
+
 permissions-searchbox =
     .placeholder = वेबसाइट खोजें
+
 permissions-capabilities-autoplay-allow =
     .label = ऑडियो और वीडियो की अनुमति दें
 permissions-capabilities-autoplay-block =
     .label = ऑडियो ब्लॉक करें
 permissions-capabilities-autoplay-blockall =
     .label = ऑडियो और वीडियो ब्लॉक करें
+
 permissions-capabilities-allow =
     .label = अनुमति दें
 permissions-capabilities-block =
     .label = रोकें
 permissions-capabilities-prompt =
     .label = हमेशा पूछें
+
 permissions-capabilities-listitem-allow =
     .value = अनुमति दें
 permissions-capabilities-listitem-block =
@@ -70,6 +86,7 @@ permissions-exceptions-etp-desc = आपने इन वेबसाइटो�
 permissions-exceptions-cookie-window =
     .title = अपवाद - कुकीज़ और साइट डेटा
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = अपवाद - कुकीज़ और साइट डेटा
     .style = { permissions-window2.style }
@@ -83,6 +100,7 @@ permissions-exceptions-cookie-desc = आप विशेष रूप से च
 permissions-exceptions-popup-window =
     .title = अनुमत वेबसाइट - पॉप-अप
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = अनुमत वेबसाइट - पॉप-अप
     .style = { permissions-window2.style }
@@ -93,6 +111,7 @@ permissions-exceptions-popup-desc = कौन-सी वेबसाइटों
 permissions-exceptions-saved-logins-window =
     .title = अपवाद - संग्रहित प्रवेश
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = अपवाद - संग्रहित प्रवेश
     .style = { permissions-window2.style }
@@ -103,6 +122,7 @@ permissions-exceptions-saved-logins-desc = निम्न वेबसाइट
 permissions-exceptions-addons-window =
     .title = अनुमत वेबसाइटें - एड-ऑन अधिष्ठापन
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = अनुमत वेबसाइटें - एड-ऑन अधिष्ठापन
     .style = { permissions-window2.style }
@@ -117,6 +137,7 @@ permissions-site-autoplay-desc = आप उन साइटों को प्�
 permissions-site-notification-window =
     .title = सेटिंग्स - अधिसूचना अनुमतियां
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = सेटिंग्स - अधिसूचना अनुमतियां
     .style = { permissions-window2.style }
@@ -130,6 +151,7 @@ permissions-site-notification-disable-desc = इससे किसी भी �
 permissions-site-location-window =
     .title = सेटिंग्स - स्थान अनुमतियां
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = सेटिंग्स - स्थान अनुमतियां
     .style = { permissions-window2.style }
@@ -146,6 +168,7 @@ permissions-site-location-disable-desc = इससे किसी भी वे
 permissions-site-camera-window =
     .title = सेटिंग्स - कैमरा अनुमतियां
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = सेटिंग्स - कैमरा अनुमतियां
     .style = { permissions-window2.style }
@@ -159,6 +182,7 @@ permissions-site-camera-disable-desc = इससे किसी भी वे�
 permissions-site-microphone-window =
     .title = सेटिंग्स - माइक्रोफ़ोन अनुमतियां
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = सेटिंग्स - माइक्रोफ़ोन अनुमतियां
     .style = { permissions-window2.style }
