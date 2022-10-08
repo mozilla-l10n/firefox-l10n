@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Регистрации и пароли
+
 login-filter =
     .placeholder = Търсене на регистрация
+
 create-login-button = Нова регистрация
+
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
 fxaccounts-sign-in-sync-button = Вписване в Sync
 fxaccounts-avatar-button =
@@ -113,16 +116,19 @@ about-logins-edit-login-os-auth-dialog-message-win = За да променит�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = прави промени в данни за вход
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = За да видите паролата, въведете данните си за вход в Windows. Това се прави с цел защита на регистрациите.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = показва запазената парола
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = За да копирате паролата, въведете данните си за вход в Windows. Това се прави с цел защита на регистрациите.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копира запазена парола
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = За да изнесете регистрациите, въведете данните си за вход в Windows. Това се прави с цел защита на регистрациите.
 # This message can be seen when attempting to export a password in about:logins
@@ -141,19 +147,23 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Отказ
 confirmation-dialog-dismiss-button =
     .title = Отказ
+
 about-logins-confirm-remove-dialog-title = Изтриване на регистрацията?
 confirm-delete-dialog-message = Действието е необратимо.
 about-logins-confirm-remove-dialog-confirm-button = Премахване
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [one] Премахване
        *[other] Премахване на всички
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [one] Да, премахване на регистрацията
        *[other] Да, премахване на регистрациите
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Премахване на { $count } регистрация?
@@ -164,6 +174,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация и всички известия за пробиви, появяващи се тук. Действието е необратимо.
        *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации и всички известия за пробиви, появяващи се тук. Действието е необратимо.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Премахване на { $count } регистрация от всички устройства?
@@ -174,11 +185,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
        *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
     }
+
 about-logins-confirm-export-dialog-title = Изнасяне на регистрации и пароли
 about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
 about-logins-confirm-export-dialog-confirm-button = Изнасяне…
+
 about-logins-alert-import-title = Внасянето е завършено
 about-logins-alert-import-message = Подробен отчет за внасянето
+
 confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отхвърляне
@@ -209,6 +223,7 @@ about-logins-vulnerable-alert-learn-more-link = Научете повече
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запис за { $loginTitle } с това потребителско име вече съществува. <a data-l10n-name="duplicate-link">Преглед на записа.</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Възникна грешка при опита за запазване на тази парола.
 
@@ -257,10 +272,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Добавени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Обновени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Дублиращи се регистрации:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не са внесени)</span>
@@ -271,6 +288,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Грешки:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не внесени)</span>
     }
 about-logins-import-dialog-done = Готово
+
 about-logins-import-dialog-error-title = Грешка при внасяне
 about-logins-import-dialog-error-conflicting-values-title = Множество конфликтни стойности за една регистрация
 about-logins-import-dialog-error-conflicting-values-description = Например: множество потребителски имена, пароли, адреси и т.н. за една регистрация.
@@ -284,8 +302,10 @@ about-logins-import-dialog-error-no-logins-imported = Не са внесени �
 about-logins-import-dialog-error-learn-more = Научете повече
 about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново ...
 about-logins-import-dialog-error-cancel = Отказ
+
 about-logins-import-report-title = Отчет за внасянето
 about-logins-import-report-description = Регистрации и пароли внесени в { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

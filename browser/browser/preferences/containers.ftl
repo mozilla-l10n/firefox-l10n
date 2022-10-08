@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = Настройки на изолатора „{ $name }“
     .style = width: 45em
+
 containers-window-new2 =
     .title = Нов изолатор
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Настройки на изолатора „{ $name }“
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Наименование
     .accesskey = н
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Въведете име на изолатор
+
 containers-icon-label = Пиктограма
     .accesskey = п
     .style = { -containers-labels-style }
+
 containers-color-label = Цвят
     .accesskey = ц
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Готово
     .buttonaccesskeyaccept = Г
+
 containers-color-blue =
     .label = Синьо
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Лилаво
 containers-color-toolbar =
     .label = Като лентата с инструменти
+
 containers-icon-fence =
     .label = Ограда
 containers-icon-fingerprint =

@@ -5,29 +5,40 @@
 translation-window =
     .title = Изключения - Превеждане
     .style = width: 36em
+
 translation-window2 =
     .title = Изключения - Превеждане
     .style = min-width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-disabled-desc = Превод няма да бъде предлаган за следните езици
+
 translation-languages-column =
     .label = Езици
+
 translation-languages-button-remove =
     .label = Премахване на език
     .accesskey = П
+
 translation-languages-button-remove-all =
     .label = Премахване на всички езици
     .accesskey = ч
+
 translation-sites-disabled-desc = Превод няма да бъде предлаган за следните страници
+
 translation-sites-column =
     .label = Страници
+
 translation-sites-button-remove =
     .label = Премахване на сайт
     .accesskey = с
+
 translation-sites-button-remove-all =
     .label = Премахване на всички страници
     .accesskey = р
+
 translation-dialog =
     .buttonlabelaccept = Затваряне
     .buttonaccesskeyaccept = З

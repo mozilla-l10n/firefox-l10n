@@ -31,6 +31,8 @@ about-processes-gmp-plugin-process = Приставки за медия на Gec
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Раздел: { $name }
 
+## Utility process actor names
+
 ## Displaying CPU (percentage and total)
 ## Variables:
 ##    $percent (Number) The percentage of CPU used by the process or thread.

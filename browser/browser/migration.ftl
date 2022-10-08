@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Помощник при внасяне
+
 import-from =
     { PLATFORM() ->
         [windows] Внасяне на настройки, отметки, история, пароли и други данни от:
        *[other] Внасяне на настройки, отметки, история, пароли и други данни от:
     }
+
 import-from-bookmarks = Внасяне на отметки от:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -52,23 +54,37 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Не са намерени програми, съдържащи отметки, история или пароли.
+
 import-source-page-title = Внасяне на настройки и данни
 import-items-page-title = Елементи за внасяне
+
 import-items-description = Изберете елементите за внасяне:
+
 import-permissions-page-title = Дайте права на { -brand-short-name }
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS изисква изрично да разрешите на { -brand-short-name } достъп до отметките на Safari. Щракнете върху „Напред“ и изберете файла „Bookmarks.plist“ в панела за избор на файл, който се появява.
+
 import-migrating-page-title = Внасяне…
+
 import-migrating-description = В момента се внасят следните елементи…
+
 import-select-profile-page-title = Избиране на профил
+
 import-select-profile-description = Следните профили могат да бъдат внесени:
+
 import-done-page-title = Внасянето е завършено
+
 import-done-description = Следните елементи са внесени успешно:
+
 import-close-source-browser = Моля, преди да продължите се уверете, че избраният мрежов четец е затворен.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Списък за четене (от Safari)
 imported-edge-reading-list = Списък за четене (от Edge)
 
@@ -90,6 +106,7 @@ browser-data-cookies-checkbox =
     .label = Бисквитки
 browser-data-cookies-label =
     .value = Бисквитки
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -102,10 +119,12 @@ browser-data-history-label =
             [firefox] История на разглеждане и отметки
            *[other] История на разглеждане
         }
+
 browser-data-formdata-checkbox =
     .label = История на запазени формуляри
 browser-data-formdata-label =
     .value = История на запазени формуляри
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -114,6 +133,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Запазени регистрации и пароли
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -128,10 +148,12 @@ browser-data-bookmarks-label =
             [edge] Любими
            *[other] Отметки
         }
+
 browser-data-otherdata-checkbox =
     .label = Други данни
 browser-data-otherdata-label =
     .label = Други данни
+
 browser-data-session-checkbox =
     .label = Прозорци и раздели
 browser-data-session-label =

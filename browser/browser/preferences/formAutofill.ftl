@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Запазени адреси
 autofill-manage-addresses-list-header = Адреси
+
 autofill-manage-credit-cards-title = Запазени банкови карти
 autofill-manage-credit-cards-list-header = Банкови карти
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Премахване
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Промяна…
 autofill-add-new-address-title = Нов адрес
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Промяна на адрес
+
 autofill-address-given-name = Име
 autofill-address-additional-name = Презиме
 autofill-address-family-name = Фамилия
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Държава или район
 autofill-address-tel = Телефон
 autofill-address-email = Ел. адрес
+
 autofill-cancel-button = Отказ
 autofill-save-button = Запазване
 autofill-country-warning-message = Автоматичното попълване на формуляри в момента е достъпно само за някои държави.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Нова банкова карта
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Промяна
+
 autofill-card-number = Номер на карта
 autofill-card-invalid-number = Моля, въведете валиден номер на банкова карта
 autofill-card-name-on-card = Име от картата

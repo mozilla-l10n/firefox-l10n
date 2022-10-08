@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = Избиране на начална страница
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Избиране на начална страница
     .style = min-width: 32em;
+
 select-bookmark-desc = Изберете отметката, която да бъде вашата начална страница. Ако това е папка, отметките в нея ще се отворят в раздели.
