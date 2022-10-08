@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
     .style = width: 46em
+
 download-cert-window2 =
     .title = সার্টিফিকেট ডাউনলোড করা হচ্ছে
     .style = min-width: 46em

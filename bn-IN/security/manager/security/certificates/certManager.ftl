@@ -4,91 +4,127 @@
 
 certmgr-title =
     .title = সার্টিফিকেট পরিচালন ব্যবস্থা
+
 certmgr-tab-mine =
     .label = আপনার ব্যক্তিগত সার্টিফিকেট
+
 certmgr-tab-people =
     .label = ব্যক্তি
+
 certmgr-tab-servers =
     .label = সার্ভার
+
 certmgr-tab-ca =
     .label = কর্তৃপক্ষ (অথোরিটি)
+
 certmgr-edit-ca-cert =
     .title = CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন:
+
 certmgr-edit-cert-trust-ssl =
     .label = এই সার্টিফিকেটের সাহায্যে ওয়েব-সাইট সনাক্ত করা সম্ভব।
+
 certmgr-edit-cert-trust-email =
     .label = এই সার্টিফিকেটের সাহায্যে মেইল ব্যবহারকারীদের সনাক্ত করা সম্ভব।
+
 certmgr-delete-cert =
     .title = সার্টিফিকেট মুছে ফেলুন
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = সার্টিফিকেট মুছে ফেলুন
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-name =
     .label = সার্টিফিকেটের নাম
+
 certmgr-cert-server =
     .label = সার্ভার
+
 certmgr-override-lifetime =
     .label = সীমাহীন মেয়াদ
+
 certmgr-token-name =
     .label = নিরাপত্তা ডিভাইস
+
 certmgr-begins-label =
     .label = আরম্ভ হল
+
 certmgr-expires-label =
     .label = মেয়াদ পূরণের তারিখ
+
 certmgr-email =
     .label = ই-মেইল ঠিকানা
+
 certmgr-serial =
     .label = ক্রমিক সংখ্যা
+
 certmgr-view =
     .label = প্রদর্শন…
     .accesskey = V
+
 certmgr-edit =
     .label = বিশ্বস্ততার মাত্রা পরিবর্তন করুন…
     .accesskey = E
+
 certmgr-export =
     .label = এক্সপোর্ট করুন…
     .accesskey = এ
+
 certmgr-delete =
     .label = মুছে ফেলুন…
     .accesskey = D
+
 certmgr-delete-builtin =
     .label = মুছে ফেলুন অথবা অবিশ্বস্ত রূপে চিহ্নিত করুন…
     .accesskey = D
+
 certmgr-backup =
     .label = ব্যাক-আপ করুন…
     .accesskey = B
+
 certmgr-backup-all =
     .label = সমগ্র ব্যাক-আপ করুন…
     .accesskey = স
+
 certmgr-restore =
     .label = ইম্পোর্ট করুন…
     .accesskey = ই
+
 certmgr-add-exception =
     .label = ব্যতিক্রম যোগ করুন…
     .accesskey = ব
+
 exception-mgr =
     .title = নিরাপত্তা জড়িত ব্যতিক্রম যোগ করুন
+
 exception-mgr-extra-button =
     .label = নিরাপত্তা জড়িত ব্যতিক্রম নিশ্চিত করুন
     .accesskey = C
+
 exception-mgr-supplemental-warning = বৈধ ব্যাঙ্ক, বিপনী ও অন্যান্য সার্বজনীন সাইট দ্বারা এই অনুরোধ করা হবে না।
+
 exception-mgr-cert-location-url =
     .value = অবস্থান:
+
 exception-mgr-cert-location-download =
     .label = সার্টিফিকেট প্রাপ্ত করুন
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = প্রদর্শন…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = এই ব্যতিক্রমটি স্থায়ীরূপে সংরক্ষণ করুন
     .accesskey = P
+
 pk11-bad-password = উল্লিখিত পাসওয়ার্ড সঠিক নয়।
 pkcs12-decode-err = ফাইল ডিকোড করতে ব্যর্থ।  সম্ভবত এটি PKCS #12 বিন্যাসে নেই, ক্ষতিগ্রস্থ হয়েছে, অথবা আপনার উল্লিখিত পাসওয়ার্ডটি সঠিক নয়।
 pkcs12-unknown-err-restore = অজ্ঞাত কারণে PKCS #12 ফাইলটি উদ্ধার করা যায়নি।
@@ -121,14 +157,19 @@ delete-user-cert-title =
     .title = আপনার সার্টিফিকেটগুলি মুছে ফেলুন
 delete-user-cert-confirm = আপনি কি নিশ্চিতরূপে এই সার্টিফিকেটগুলি মুছে ফেলতে ইচ্ছুক?
 delete-user-cert-impact = আপনার কোনো নিজস্ব সার্টিফিকেট মুছে ফেলা হলে, পরিচয় প্রমাণের জন্য আপনি তা পুনরায় ব্যবহার করতে সক্ষম হবেন না।
+
+
 delete-ca-cert-title =
     .title = CA সার্টিফিকেট মুছে ফেলুন অথবা অবিশ্বস্ত রূপে ধার্য করুন
 delete-ca-cert-confirm = চিহ্নিত CA সার্টিফিকেটগুলি আপনি মুছে ফেলার অনুরোধ জানিয়েছেন। বিল্ট-ইন সার্টিফিকেটের ক্ষেত্রে সর্বধরনের বিশ্বস্ততা মুছে ফেলা হলে সমতূল্য প্রভাব সৃষ্টি হবে। আপনি কি নিশ্চিতরূপে মুছে ফেলতে অথবা অবিশ্বস্ত রূপে ধার্য করতে ইচ্ছুক?
 delete-ca-cert-impact = কোনো সার্টিফিকেট অথোরিটির (CA) সার্টিফিকেট মুছে ফেলা হলে অথবা অবিশ্বস্ত হিসাবে ধার্য করা হলে, ঐ CA-র দ্বারা প্রকাশিত কোনো সার্টিফিকেট এই অ্যাপ্লিকেশন দ্বারা বিশ্বাস করা হবে না।
+
+
 delete-email-cert-title =
     .title = ই-মেইল সার্টিফিকেট মুছে ফেলুন
 delete-email-cert-confirm = আপনি কি নিশ্চিতরূপে উল্লিখিত ব্যক্তিদের ই-মেইল সার্টিফিকেটগুলি মুছে ফেলতে ইচ্ছুক?
 delete-email-cert-impact = কোনো ই-মেইল সার্টিফিকেট মুছে ফেলা হলে সংশ্লিষ্ট ব্যক্তিদেরকে  এনক্রিপ্ট করা ই-মেইল পাঠানো সম্ভব হবে না।
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
