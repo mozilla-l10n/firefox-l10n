@@ -6,6 +6,4 @@
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = ਵੈੱਬ API: WebGPU
-# Text recognition for images
-experimental-features-text-recognition =
-    .label = ਲਿਖਤ ਪਛਾਣ
+

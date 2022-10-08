@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ਅੰਦਰੂਨੀ
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
@@ -18,6 +19,7 @@ about-webrtc-aec-logging-msg-label = AEC ਲਾਗ ਰੱਖਣਾ
 about-webrtc-aec-logging-off-state-label = AEC ਲਾਗ ਰੱਖਣਾ ਸ਼ੁਰੂ
 about-webrtc-aec-logging-on-state-label = AEC ਲਾਗ ਰੱਖਣਾ ਰੋੋਕ
 about-webrtc-aec-logging-on-state-msg = AEC ਲਾਗ ਰੱਖਣਾ ਸਰਗਰਮ ਹੈ (ਕਾਲਰ ਨਾਲ ਕੁਝ ਮਿੰਟਾਂ ਲਈ ਗੱਲ ਕਰੋ ਅਤੇ ਤਦ ਪ੍ਰਾਪਤ ਕਰਨ ਨੂੰ ਰੋਕੋ)
+
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ
 
@@ -72,10 +74,12 @@ about-webrtc-type-remote = ਰਿਮੋਟ
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ਨਾਮਜ਼ਦ
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ਚੁਣੇ
+
 about-webrtc-save-page-label = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
 about-webrtc-debug-mode-msg-label = ਡੀਬੱਗ ਮੋਡ
 about-webrtc-debug-mode-off-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ
@@ -154,6 +158,7 @@ about-webrtc-frames =
         [one] { $frames } ਫਰੇਮ
        *[other] { $frames } ਫਰੇਮ
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -162,6 +167,7 @@ about-webrtc-channels =
         [one] { $channels } ਚੈਨਲ
        *[other] { $channels } ਚੈਨਲ
     }
+
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -170,11 +176,13 @@ about-webrtc-received-label =
         [one] { $packets } ਪੈਕੇਟ ਭੇਜਿਆ
        *[other] { $packets } ਪੈਕੇਟ ਭੇਜੇ
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ਜਿੱਟਰ { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

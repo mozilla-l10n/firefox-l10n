@@ -5,6 +5,7 @@
 printui-title = ਪਰਿੰਟ
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = ਇੰਝ ਸੰਭਾਲੋ
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] ਪੇਪਰ ਦੀ { $sheetCount } ਸ਼ੀਟ
        *[other] ਪੇਪਰ ਦੀ { $sheetCount } ਸ਼ੀਟਾਂ
     }
+
 printui-page-range-all = ਸਭ
 printui-page-range-current = ਮੌਜੁਦਾ
 printui-page-range-odd = ਟਾਂਕ
@@ -23,22 +25,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = ਪਸੰਦੀਦਾ ਸਫ਼ਾ ਹੱਦ ਦਿਓ
     .placeholder = ਜਿਵੇਂ 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = ਕਾਪੀਆਂ
+
 printui-orientation = ਸਥਿਤੀ
 printui-landscape = ਲੈਂਡਸਕੇਪ
 printui-portrait = ਪੋਰਟਰੇਟ
+
 # Section title for the printer or destination device to target
 printui-destination-label = ਟਿਕਾਣਾ
 printui-destination-pdf-label = PDF ਵਜੋਂ ਸੰਭਾਲੋ
+
 printui-more-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ
 printui-less-settings = ਘੱਟ ਸੈਟਿੰਗਾਂ
+
 printui-paper-size-label = ਪੇਪਰ ਸਾਈਜ਼
+
 # Section title (noun) for the print scaling options
 printui-scale = ਸਕੇਲ
 printui-scale-fit-to-page-width = ਸਫ਼ੇ ਦੀ ਚੌੜਾਈ 'ਤੇ ਫਿੱਟ
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = ਸਕੇਲ
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = ਦੋ ਪਾਸੀ ਪਰਿੰਟ ਕਰਨਾ
 printui-two-sided-printing-off = ਬੰਦ
@@ -46,6 +55,7 @@ printui-two-sided-printing-off = ਬੰਦ
 printui-two-sided-printing-long-edge = ਲੰਮੇ ਪਾਸਿਓ ਪਲਟੋ
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = ਛੋਟੇ ਪਾਸਿਓ ਪਲਟੋ
+
 # Section title for miscellaneous print options
 printui-options = ਚੋਣਾਂ
 printui-headers-footers-checkbox = ਸਿਰਲੇਖ ਅਤੇ ਫੁੱਟਰ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
@@ -69,6 +79,7 @@ printui-simplify-page-radio = ਸਰਲ ਕੀਤਾ
 printui-color-mode-label = ਰੰਗ ਮੋਡ
 printui-color-mode-color = ਰੰਗ
 printui-color-mode-bw = ਕਾਲਾ ਅਤੇ ਚਿੱਟਾ
+
 printui-margins = ਹਾਸ਼ੀਏ
 printui-margins-default = ਡਿਫਾਲਟ
 printui-margins-min = ਘੱਟੋ-ਘੱਟ
@@ -87,17 +98,23 @@ printui-margins-custom-left-mm = ਖੱਬੇ (ਮਿਲੀਮੀਟਰ)
 printui-margins-custom-right = ਸੱਜੇ
 printui-margins-custom-right-inches = ਸੱਜੇ (ਇੰਚ)
 printui-margins-custom-right-mm = ਸੱਜੇ (ਮਿਲੀਮੀਟਰ)
+
 printui-system-dialog-link = …ਸਿਸਟਮ ਡਾਈਲਾਗ ਨੂੰ ਵਰਤ ਕੇ ਪਰਿੰਟ ਕਰੋ
+
 printui-primary-button = ਪਰਿੰਟ ਕਰੋ
 printui-primary-button-save = ਸੰਭਾਲੋ
 printui-cancel-button = ਰੱਦ ਕਰੋ
 printui-close-button = ਬੰਦ ਕਰੋ
+
 printui-loading = ਝਲਕ ਤਿਆਰ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = ਪਰਿੰਟ ਝਲਕ
+
 printui-pages-per-sheet = ਹਰ ਸ਼ੀਟ ਲਈ ਸਫ਼ੇ
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = …ਪਰਿੰਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
@@ -124,6 +141,7 @@ printui-paper-tabloid = ਸਮਾਚਾਰ ਪੱਤਰ
 printui-error-invalid-scale = ਸਕੇਲ ਲਈ ਨੰਬਰ 10 ਤੋਂ 200 ਦੇ ਵਿਚਾਲੇ ਚਾਹੀਦਾ ਹੈ।
 printui-error-invalid-margin = ਚੁਣੇ ਗਏ ਪੇਪਰ ਆਕਾਰ ਲਈ ਢੁੱਕਵਾਂ ਹਾਸ਼ੀਆ ਦਿਓ।
 printui-error-invalid-copies = ਕਾਪੀਆਂ ਦੀ ਗਿਣਤੀ 1 ਤੋਂ 10000 ਦੇ ਵਿਚਾਲੇ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = ਰੇਜ਼ ਲਈ ਨੰਬਰ 1 ਅਤੇ { $numPages } ਦੇ ਵਿਚਾਲੇ ਚਾਹੀਦਾ ਹੈ।
