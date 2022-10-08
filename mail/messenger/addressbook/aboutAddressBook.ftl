@@ -50,9 +50,6 @@ about-addressbook-search =
 about-addressbook-search-all =
     .placeholder = Cerca en totes les llibretes d'adreces
 
-about-addressbook-sort-button =
-    .title = Canvieu l'ordre de la llista
-
 about-addressbook-name-format-display =
     .label = Nom a mostrar
 about-addressbook-name-format-firstlast =
@@ -68,6 +65,9 @@ about-addressbook-sort-email-ascending =
     .label = Ordena per adreça electrònica (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordena per adreça electrònica (Z > A)
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
 
 about-addressbook-confirm-delete-mixed-title = Suprimeix contactes i llistes
 # Variables:
@@ -120,6 +120,9 @@ about-addressbook-confirm-delete-contacts =
        *[other] Segur que voleu suprimir aquests { $count } contactes?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
 ## Details
 
 about-addressbook-begin-edit-contact-button = Edita
@@ -128,9 +131,9 @@ about-addressbook-save-edit-contact-button = Desa
 
 about-addressbook-details-email-addresses-header = Adreces electròniques
 about-addressbook-details-phone-numbers-header = Números de telèfon
-about-addressbook-details-home-address-header = Adreça particular
-about-addressbook-details-work-address-header = Adreça de la feina
 about-addressbook-details-other-info-header = Altra informació
 
 # Photo dialog
+
+# Keyboard shortcuts
 

@@ -4,100 +4,139 @@
 
 certmgr-title =
     .title = Gestor de certificats
+
 certmgr-tab-mine =
     .label = Els vostres certificats
+
 certmgr-tab-remembered =
     .label = Decisions d'autenticació
+
 certmgr-tab-people =
     .label = D'altri
+
 certmgr-tab-servers =
     .label = Servidors
+
 certmgr-tab-ca =
     .label = Entitats
+
 certmgr-mine = Teniu certificats d'aquestes organitzacions que us identifiquen
 certmgr-remembered = Aquests certificats s'utilitzen per identificar-vos en els llocs web
 certmgr-people = Teniu certificats al fitxer que identifiquen aquesta gent
 certmgr-server = Aquestes entrades identifiquen les excepcions d'error de certificats de servidor
 certmgr-ca = Teniu certificats al fitxer que identifiquen aquestes entitats certificadores
+
 certmgr-edit-ca-cert =
     .title = Edita els paràmetres de confiança del certificat de la CA
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = Edita els paràmetres de confiança del certificat de la CA
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = Edita els paràmetres de confiança:
+
 certmgr-edit-cert-trust-ssl =
     .label = Aquest certificat pot identificar llocs web.
+
 certmgr-edit-cert-trust-email =
     .label = Aquest certificat pot identificar usuaris de correu.
+
 certmgr-delete-cert =
     .title = Suprimeix el certificat
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Suprimeix el certificat
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-host =
     .label = Amfitrió
+
 certmgr-cert-name =
     .label = Nom del certificat
+
 certmgr-cert-server =
     .label = Servidor
+
 certmgr-override-lifetime =
     .label = Temps de vida
+
 certmgr-token-name =
     .label = Dispositiu de seguretat
+
 certmgr-begins-label =
     .label = Data d'inici
+
 certmgr-expires-label =
     .label = Data de venciment
+
 certmgr-email =
     .label = Adreça electrònica
+
 certmgr-serial =
     .label = Número de sèrie
+
 certmgr-view =
     .label = Visualitza…
     .accesskey = V
+
 certmgr-edit =
     .label = Edita la confiança…
     .accesskey = E
+
 certmgr-export =
     .label = Exporta…
     .accesskey = x
+
 certmgr-delete =
     .label = Suprimeix…
     .accesskey = x
+
 certmgr-delete-builtin =
     .label = Suprimeix o deixa de confiar-hi…
     .accesskey = d
+
 certmgr-backup =
     .label = Fes-ne còpia de seguretat…
     .accesskey = p
+
 certmgr-backup-all =
     .label = Fes-ne còpia de seguretat de tot…
     .accesskey = g
+
 certmgr-restore =
     .label = Importa…
     .accesskey = m
+
 certmgr-add-exception =
     .label = Afegeix una excepció…
     .accesskey = x
+
 exception-mgr =
     .title = Afegeix una excepció de seguretat
+
 exception-mgr-extra-button =
     .label = Confirma l'excepció de seguretat
     .accesskey = C
+
 exception-mgr-supplemental-warning = Bancs, botigues i altres llocs públics legítims no us demanaran que ho feu.
+
 exception-mgr-cert-location-url =
     .value = Ubicació:
+
 exception-mgr-cert-location-download =
     .label = Obtén el certificat
     .accesskey = b
+
 exception-mgr-cert-status-view-cert =
     .label = Visualitza…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Emmagatzema permanentment aquesta excepció
     .accesskey = p
+
 pk11-bad-password = La contrasenya no és correcta.
 pkcs12-decode-err = No s'ha pogut descodificar el fitxer. Pot ser que no estigui en format PKCS #12, que estigui malmès, o que la contrasenya que heu introduït sigui incorrecta.
 pkcs12-unknown-err-restore = No s'ha pogut restaurar el fitxer PKCS #12 per raons desconegudes.
@@ -130,28 +169,37 @@ delete-user-cert-title =
     .title = Suprimeix els vostres certificats
 delete-user-cert-confirm = Esteu segur que voleu suprimir aquests certificats?
 delete-user-cert-impact = Si suprimiu un dels propis certificats, no podreu utilitzar-lo més per identificar-vos.
+
+
 delete-ssl-override-title =
     .title = Suprimeix l'excepció de certificats de servidor
 delete-ssl-override-confirm = Segur que voleu suprimir aquesta excepció de servidor?
 delete-ssl-override-impact = Si suprimiu una excepció de servidor, es restauraran les comprovacions de seguretat habituals per al servidor i us caldrà utilitzar un certificat vàlid.
+
 delete-ca-cert-title =
     .title = Suprimeix o deixa de confiar en els certificats de la CA
 delete-ca-cert-confirm = Esteu segur que voleu suprimir aquests certificats de la CA? En el cas de certificats integrats, se n'eliminarà tota la confiança, que té el mateix efecte. Esteu segur que voleu suprimir-los o deixar-hi de confiar?
 delete-ca-cert-impact = Si suprimiu o deixeu de confiar en un certificat d'una entitat certificadora (CA), l'aplicació deixarà de confiar en els certificats que emeti aquella CA.
+
+
 delete-email-cert-title =
     .title = Suprimeix els certificats de correu electrònic
 delete-email-cert-confirm = Esteu segur que voleu suprimir aquests certificats de correu electrònic d'aquestes persones?
 delete-email-cert-impact = Si suprimiu un certificat de correu electrònic d'algú, ja no podreu enviar-li correu xifrat.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certificat amb número de sèrie: { $serialNumber }
+
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = No enviïs cap certificat de client
+
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (No emmagatzemat)
+
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (No disponible)
 

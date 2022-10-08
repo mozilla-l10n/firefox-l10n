@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = S'ha produït un error durant la connexió a { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Codi d'error: { $error }
+
 psmerr-ssl-disabled = No es pot connectar de forma segura perquè s'ha inhabilitat el protocol SSL.
 psmerr-ssl2-disabled = No es pot connectar de forma segura perquè el lloc utilitza una versió antiga i insegura del protocol SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Heu rebut un certificat que no és vàlid. Contacteu amb l'administrador del servidor o amb el remitent de correu electrònic i doneu-los aquesta informació:
     
     El certificat conté el mateix número de sèrie que un altre certificat emès per l'entitat certificadora. Obteniu un altre certificat que contingui un número de sèrie únic.
+
 ssl-error-export-only-server = No es pot comunicar de forma segura. L'altre extrem no admet el xifratge d'alt nivell.
 ssl-error-us-only-server = No es pot comunicar de forma segura. L'altre extrem requereix un xifratge d'alt nivell, que no és compatible.
 ssl-error-no-cypher-overlap = No es pot comunicar de forma segura amb l'altre extrem: no hi ha cap algorisme de xifratge comú.

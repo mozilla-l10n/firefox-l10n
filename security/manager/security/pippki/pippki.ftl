@@ -8,18 +8,22 @@ password-quality-meter = Avaluador de qualitat de la contrasenya
 
 change-device-password-window =
     .title = Canvia la contrasenya
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositiu de seguretat: { $tokenName }
 change-password-old = Contrasenya actual:
 change-password-new = Contrasenya nova:
 change-password-reenter = Contrasenya nova (un altre cop):
+
 pippki-failed-pw-change = No s'ha pogut canviar la contrasenya.
 pippki-incorrect-pw = No heu introduït la contrasenya actual correcta. Torneu-ho a provar.
 pippki-pw-change-ok = La contrasenya s'ha canviat correctament.
+
 pippki-pw-empty-warning = Les contrasenyes i claus privades que deseu no estaran protegides.
 pippki-pw-erased-ok = Heu suprimit la vostra contrasenya. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Avís! Heu decidit no utilitzar cap contrasenya. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Us trobeu en mode FIPS. El FIPS requereix una contrasenya que no sigui buida.
 
 ## Reset Primary Password dialog
@@ -27,12 +31,14 @@ pippki-pw-change2empty-in-fips-mode = Us trobeu en mode FIPS. El FIPS requereix 
 reset-primary-password-window =
     .title = Reinicia la contrasenya principal
     .style = width: 40em
+
 reset-primary-password-window2 =
     .title = Reinicia la contrasenya principal
     .style = min-width: 40em
 reset-password-button-label =
     .label = Reinicia
 reset-primary-password-text = Si reinicieu la vostra contrasenya principal, totes les vostres contrasenyes de web i de correu electrònic, els certificats personals i les claus privades emmagatzemades es perdran. Esteu segur que voleu reiniciar la vostra contrasenya principal?
+
 pippki-reset-password-confirmation-title = Reinicia la contrasenya principal
 pippki-reset-password-confirmation-message = S'ha reiniciat la vostra contrasenya principal.
 
@@ -41,6 +47,7 @@ pippki-reset-password-confirmation-message = S'ha reiniciat la vostra contraseny
 download-cert-window =
     .title = Baixada de certificats
     .style = width: 46em
+
 download-cert-window2 =
     .title = Baixada de certificats
     .style = min-width: 46em

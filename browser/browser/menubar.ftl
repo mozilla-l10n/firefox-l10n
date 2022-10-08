@@ -38,9 +38,11 @@ menu-quit =
             [windows] u
            *[other] u
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Surt del { -brand-shorter-name }
+
 menu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
