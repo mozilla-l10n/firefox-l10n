@@ -17,7 +17,9 @@ neterror-learn-more-link = अझ जान्नुहोस्…
 neterror-open-portal-login-page-button = नेटवर्क लगइन पृष्ठ खोल्नुहोस्
 neterror-pref-reset-button = पूर्वनिर्धारित सेटिङहरू पूर्वावस्थामा ल्याउनुहोस्
 neterror-return-to-previous-page-button = पछाडि जानुहोस्
+neterror-return-to-previous-page-recommended-button = पछाडी जानुहोस्(सिफारिस गरिएको)
 neterror-try-again-button = पुनःप्रयास गर्नुहोस्
+neterror-view-certificate-link = प्रमाणपत्र हेर्नुहोस्
 
 ##
 
