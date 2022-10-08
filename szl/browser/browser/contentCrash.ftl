@@ -18,6 +18,14 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Mosz jedne niyposłane złoszynie awaryje
+        [few] Mosz { $reportCount } niyposłane złoszynia awaryje
+       *[many] Mosz { $reportCount } niyposłanych złoszyń awaryje
+    }
 pending-crash-reports-view-all =
     .label = Pokoż
 pending-crash-reports-send =
