@@ -40,5 +40,26 @@ findbar-fast-find =
     .placeholder = Γρήγορη εύρεση
 findbar-fast-find-links =
     .placeholder = Γρήγορη εύρεση (μόνο δεσμοί)
+findbar-case-sensitive-status =
+    .value = (Συμφωνία πεζών/κεφαλαίων)
+findbar-match-diacritics-status =
+    .value = (Αντιστοίχιση διακριτικών)
 findbar-entire-word-status =
     .value = (Μόνο ολόκληρες λέξεις)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } από { $total } αποτέλεσμα
+           *[other] { $current } από { $total } αποτελέσματα
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Περισσότερα από { $limit } αποτέλεσμα
+           *[other] Περισσότερα από { $limit } αποτελέσματα
+        }
