@@ -38,3 +38,22 @@ findbar-fast-find =
     .placeholder = Rýchlo nájsť
 findbar-fast-find-links =
     .placeholder = Rýchlo nájsť (len odkazy)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } výskyt
+            [few] Výskyt { $current } z { $total }
+           *[other] Výskyt { $current } z { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Viac ako { $limit } výskyt
+            [few] Viac ako { $limit } výskyty
+           *[other] Viac ako { $limit } výskytov
+        }
