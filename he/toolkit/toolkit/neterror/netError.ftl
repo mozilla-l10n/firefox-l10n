@@ -8,6 +8,7 @@
 certerror-page-title = אזהרה: סכנת אבטחה אפשרית לפניך
 certerror-sts-page-title = לא בוצעה התחברות: חולשת אבטחה אפשרית
 neterror-blocked-by-policy-page-title = עמוד חסום
+neterror-captive-portal-page-title = כניסה לרשת
 neterror-dns-not-found-title = השרת לא נמצא
 
 ## Error page actions
@@ -17,6 +18,7 @@ neterror-copy-to-clipboard-button = העתקת טקסט ללוח
 neterror-learn-more-link = מידע נוסף…
 neterror-open-portal-login-page-button = פתיחת דף התחברות לרשת
 neterror-override-exception-button = קבלת הסיכון והמשך
+neterror-pref-reset-button = שחזור הגדרות בררת המחדל
 neterror-return-to-previous-page-button = חזרה
 neterror-return-to-previous-page-recommended-button = חזרה (מומלץ)
 neterror-try-again-button = נסה שוב
