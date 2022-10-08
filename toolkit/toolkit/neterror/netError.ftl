@@ -19,6 +19,7 @@ neterror-advanced-button = Avancé…
 neterror-copy-to-clipboard-button = Copier le texte dans le presse-papiers
 neterror-learn-more-link = En savoir plus…
 neterror-open-portal-login-page-button = Ouvrir la page de connexion du réseau
+neterror-override-exception-button = Accepter le risque et poursuivre
 neterror-pref-reset-button = Restaurer les paramètres par défaut
 neterror-return-to-previous-page-button = Retour
 neterror-return-to-previous-page-recommended-button = Retour (recommandé)
@@ -36,6 +37,8 @@ neterror-load-error-try-again = Le site est peut-être temporairement indisponib
 neterror-load-error-connection = Si vous n’arrivez à naviguer sur aucun site, vérifiez la connexion au réseau de votre ordinateur ;
 neterror-load-error-firewall = Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy, assurez-vous que { -brand-short-name } est autorisé à accéder au Web.
 neterror-captive-portal = Ce réseau nécessite que vous vous connectiez à un compte pour utiliser Internet.
+neterror-dns-not-found-hint-header = <strong>Si l’adresse saisie était correcte, vous pouvez :</strong>
+neterror-dns-not-found-hint-try-again = Réessayer plus tard
 neterror-file-not-found-filename = Vérifiez la syntaxe du nom de fichier (dont le respect des minuscules/majuscules) ;
 neterror-file-not-found-moved = Vérifiez si le fichier n’a pas été déplacé, renommé ou supprimé.
 neterror-access-denied = Il a peut-être été supprimé, déplacé ou les permissions associées au fichier ne permettent pas d’y accéder.
@@ -58,6 +61,9 @@ neterror-nss-failure-not-verified = La page que vous essayez de consulter ne peu
 neterror-nss-failure-contact-website = Veuillez contacter les propriétaires du site web pour les informer de ce problème.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } a détecté une menace de sécurité potentielle et n’a pas poursuivi vers <b>{ $hostname }</b>. Si vous accédez à ce site, des attaquants pourraient dérober des informations comme vos mots de passe, courriels, ou données de carte bancaire.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } a détecté un problème et a interrompu le chargement de <b>{ $hostname }</b>. Soit le site est mal configuré, soit l’horloge de votre ordinateur est réglée à la mauvaise heure.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -78,6 +84,7 @@ neterror-inadequate-security-code = Code d’erreur : NS_ERROR_NET_INADEQUATE_S
 neterror-clock-skew-error = Votre ordinateur pense qu’il est { DATETIME($now, dateStyle: "medium") }, ce qui empêche { -brand-short-name } de se connecter de façon sécurisée. Pour visiter <b>{ $hostname }</b>, mettez à jour l’horloge de votre ordinateur dans vos paramètres système afin qu’elle soit réglée sur la date, l’heure et le fuseau horaire qui conviennent, puis actualisez <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = La page à laquelle vous essayez d’accéder ne peut pas être affichée, car une erreur du protocole réseau a été détectée.
 neterror-network-protocol-error-contact-website = Veuillez contacter les propriétaires du site web pour les informer de ce problème.
+certerror-expired-cert-second-para = Le certificat du site a probablement expiré, ce qui empêche { -brand-short-name } d’établir une connexion sécurisée. Si vous visitez ce site, des attaquants pourraient dérober des informations telles que vos mots de passe, vos adresses électroniques ou vos informations de carte bancaire.
 certerror-expired-cert-sts-second-para = Le certificat du site a probablement expiré, ce qui empêche { -brand-short-name } d’établir une connexion sécurisée.
 certerror-what-can-you-do-about-it-title = Que pouvez-vous faire ?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Le problème vient probablement du site web, donc vous ne pouvez pas y remédier.
