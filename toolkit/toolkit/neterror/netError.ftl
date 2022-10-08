@@ -8,6 +8,7 @@
 neterror-page-title = Memuat laman bermasalah
 certerror-page-title = Peringatan: Potensi Risiko Keamanan Menghadang
 certerror-sts-page-title = Tidak Tersambung: Dugaan Masalah Keamanan
+neterror-blocked-by-policy-page-title = Laman Diblokir
 neterror-captive-portal-page-title = Masuk ke jaringan
 neterror-malformed-uri-page-title = URL tidak valid
 
@@ -19,6 +20,7 @@ neterror-open-portal-login-page-button = Buka Laman Masuk Jaringan
 neterror-override-exception-button = Terima Risikonya dan Lanjutkan
 neterror-pref-reset-button = Pulihkan setelan baku
 neterror-return-to-previous-page-button = Mundur
+neterror-return-to-previous-page-recommended-button = Kembali (Disarankan)
 neterror-try-again-button = Coba Lagi
 neterror-view-certificate-link = Tampilkan Sertifikat
 
@@ -75,6 +77,7 @@ neterror-inadequate-security-code = Kode galat: NS_ERROR_NET_INADEQUATE_SECURITY
 neterror-clock-skew-error = Menurut komputer Anda waktu sekarang adalah { DATETIME($now, dateStyle: "medium") }, yang mencegah { -brand-short-name } tersambung dengan aman. Untuk mengunjungi <b>{ $hostname }</b>, perbarui jam komputer Anda di pengaturan sistem agar diatur ke tanggal, jam, dan zona waktu yang benar, lalu segarkan <b>{ $hostname }</b>.
 certerror-expired-cert-second-para = Sepertinya sertifikat situs ini telah kedaluwarsa, yang mencegah { -brand-short-name } tersambung secara aman. Jika Anda mengunjungi situs ini, penyerang dapat mencoba mencuri informasi seperti kata sandi, surel, atau rincian kartu kredit Anda.
 certerror-expired-cert-sts-second-para = Sepertinya sertifikat situs web telah kedaluwarsa, yang menghalangi { -brand-short-name } untuk menyambungkan dengan aman.
+certerror-what-can-you-do-about-it-title = Apa yang bisa Anda lakukan mengenai masalah ini?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Masalahnya mungkin berasal dari situs webnya, dan tidak ada yang bisa Anda lakukan untuk mengatasinya.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Jika Anda berada di jaringan kantor atau menggunakan perangkat lunak antivirus, Anda bisa menghubungi tim dukungan untuk mendapatkan bantuan. Anda juga bisa memberi tahu administrator situs web tentang masalahnya.
 # Variables:
