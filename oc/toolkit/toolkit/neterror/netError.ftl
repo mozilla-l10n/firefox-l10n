@@ -87,6 +87,10 @@ neterror-sslv3-used = Informacion avançada: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> utiliza una tecnologia de seguretat obsolèta e vulnerabla a las atacas. Un atacant poiriá aisidament revelar d'informacions que pensèssetz èsser seguras. L'administrator del site web deurà d'en primièr adobar lo servidor abans que poguèssetz visitar lo site.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Error code : NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Segon vòstre ordenador es { DATETIME($now, dateStyle: "medium") } qu'empacha { -brand-short-name } de se connectar en tota seguretat. Per visitar <b>{ $hostname }</b>, reglatz lo relòtge de l’ordenador dins los paramètres sistèma de data d’ora e de fus orari, puèi actualizatz <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = La pagina que volètz veire pòt pas èsser afichada a causa d’una error de protocòl ret detectada.
 neterror-network-protocol-error-contact-website = Mercés de contactar los proprietaris del site web per los informar d’aqueste problèma.
 certerror-expired-cert-second-para = Es probable que lo certificat del site Web s'acabèt, çò qu'empacha { -brand-short-name } de se connectar en tota seguretat. En visitant aqueste site, los atacaires poirián ensajar de panar d'informacions coma los senhals, las adreças electronicas o las donadas de cartas bancàrias.
