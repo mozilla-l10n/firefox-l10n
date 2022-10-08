@@ -41,6 +41,7 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = 进度：步骤 { $current } / { $total }
+
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -49,11 +50,13 @@ onboarding-welcome-steps-indicator2 =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = 星星之火 正将燎原
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = 索拉娅·奥索里奥（Soraya Osorio）— 家具设计师、Firefox 粉丝
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 关闭动画
 
@@ -79,9 +82,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = 开始使用
+
 mr1-onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = 将 { -brand-short-name } 设为我的主浏览器
     .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = 将 { -brand-short-name } 设为我的默认浏览器
@@ -99,13 +104,16 @@ mr1-onboarding-default-primary-button-label = 设为默认浏览器
 
 mr1-onboarding-import-header = 快速迁移
 mr1-onboarding-import-subtitle = 导入您的密码、书签等数据。
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = 从 { $previous } 导入
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 从先前所用浏览器导入
 mr1-onboarding-import-secondary-button-label = 暂时不要
+
 mr2-onboarding-colorway-header = 多彩生活
 mr2-onboarding-colorway-subtitle = 元气满满的新配色，限时提供。
 mr2-onboarding-colorway-primary-button-label = 保存配色
@@ -115,20 +123,26 @@ mr2-onboarding-colorway-label-balanced = 平衡
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = 浓烈
+
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = 自动
+
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = 默认
+
 mr1-onboarding-theme-header = 我有我的范儿
 mr1-onboarding-theme-subtitle = 换上主题，让 { -brand-short-name } 有您的个性。
 mr1-onboarding-theme-primary-button-label = 保存主题
 mr1-onboarding-theme-secondary-button-label = 暂时不要
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = 系统主题
+
 mr1-onboarding-theme-label-light = 明亮
 mr1-onboarding-theme-label-dark = 深邃
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = 染山霞
+
 onboarding-theme-primary-button-label = 完成
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -139,47 +153,60 @@ onboarding-theme-primary-button-label = 完成
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title = 跟随系统主题配色显示按钮、菜单和窗口
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description = 跟随系统主题配色显示按钮、菜单和窗口
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title = 为按钮、菜单和窗口使用明亮配色主题。
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description = 为按钮、菜单和窗口使用明亮配色主题。
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title = 为按钮、菜单和窗口使用深邃配色主题。
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description = 为按钮、菜单和窗口使用深邃配色主题。
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title = 为按钮、菜单和窗口使用活力多彩配色主题。
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description = 为按钮、菜单和窗口使用活力多彩配色主题。
+
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = 使用此配色。
+
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = 使用此配色。
+
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = 探索 { $colorwayName } 配色。
+
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = 探索 { $colorwayName } 配色。
+
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = 探索默认主题。
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = 探索默认主题。
 
@@ -207,13 +234,18 @@ mr2-onboarding-start-browsing-button-label = 开始上网冲浪
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = 选择您的语言
+
 mr2022-onboarding-live-language-text = { -brand-short-name } 也懂您的语言
+
 mr2022-language-mismatch-subtitle = 幸得社区相助，{ -brand-short-name } 已被翻译成 90 余种语言。您的操作系统似乎正在使用“{ $systemLanguage }”，而 { -brand-short-name } 正在使用“{ $appLanguage }”。
+
 onboarding-live-language-button-label-downloading = 正在下载“{ $negotiatedLanguage }”语言包…
 onboarding-live-language-waiting-button = 正在获取可用语言列表…
 onboarding-live-language-installing = 正在安装“{ $negotiatedLanguage }”语言包…
+
 mr2022-onboarding-live-language-switch-to = 切换为“{ $negotiatedLanguage }”
 mr2022-onboarding-live-language-continue-in = 继续使用“{ $appLanguage }”
+
 onboarding-live-language-secondary-cancel-download = 取消
 onboarding-live-language-skip-button-label = 跳过
 
@@ -235,12 +267,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] 在程序坞中保留 { -brand-short-name }
        *[other] 将 { -brand-short-name } 固定到任务栏
     }
+
 fx100-upgrade-thanks-header = 百版之约，万分感谢
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = { -brand-short-name } 的第 100 个版本如约而至。感谢<em>您</em> 支持我们建设更好、更健康的互联网。
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 这是我们的第 100 个版本！一路相伴，感谢有您。{ -brand-short-name } 诚挚邀您共赴下个百版之约。
+
 mr2022-onboarding-secondary-skip-button-label = 跳过此步
 
 ## MR2022 New User Pin Firefox screen strings
@@ -309,42 +343,49 @@ mr2022-onboarding-colorway-subtitle = 凡人之声，文化之根
 mr2022-onboarding-colorway-primary-button-label = 设置配色
 mr2022-onboarding-colorway-primary-button-label-continue = 设置并继续
 mr2022-onboarding-existing-colorway-checkbox-label = 将“{ -firefox-home-brand-name }”设为您的多彩主页
+
 mr2022-onboarding-colorway-label-default = 默认
 mr2022-onboarding-colorway-tooltip-default =
     .title = 默认
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = 当前 { -brand-short-name } 配色
 mr2022-onboarding-colorway-description-default = <b>使用我当前的 { -brand-short-name } 颜色。</b>
+
 mr2022-onboarding-colorway-label-playmaker = 实力派
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = 实力派
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = 实力派（赤）
 mr2022-onboarding-colorway-description-playmaker = <b>您是实力派。</b>您是做事成功的关键，并乐于帮助周围的人一同提升。
+
 mr2022-onboarding-colorway-label-expressionist = 表现派
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = 表现派
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = 表现派（黄）
 mr2022-onboarding-colorway-description-expressionist = <b>您是表现派。</b>您以不同的方式看待世界，并善用创作引起他人的情感共鸣。
+
 mr2022-onboarding-colorway-label-visionary = 远见派
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = 远见派
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = 远见派（绿）
 mr2022-onboarding-colorway-description-visionary = <b>您是远见派。</b>您不满足于现状，并带领大家畅想更美好的未来。
+
 mr2022-onboarding-colorway-label-activist = 行动派
 mr2022-onboarding-colorway-tooltip-activist =
     .title = 行动派
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = 行动派（蓝）
 mr2022-onboarding-colorway-description-activist = <b>您是行动派。</b>您让世界变得更美好，并引导他人相信亦应如此。
+
 mr2022-onboarding-colorway-label-dreamer = 理想派
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = 理想派
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = 理想派（紫）
 mr2022-onboarding-colorway-description-dreamer = <b>您是理想派。</b>您相信命运偏爱大胆的人，并激励他人勇敢做自己。
+
 mr2022-onboarding-colorway-label-innovator = 创新派
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = 创新派

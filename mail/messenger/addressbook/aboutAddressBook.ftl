@@ -24,6 +24,7 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = 所有通讯录
 all-address-books = 所有通讯录
+
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -31,6 +32,7 @@ about-addressbook-card-count = { $name } 的联系人总数：{ $count }
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = 所有通讯录中的联系人总数：{ $count }
+
 about-addressbook-books-context-properties =
     .label = 属性
 about-addressbook-books-context-edit-list =
@@ -49,6 +51,7 @@ about-addressbook-books-context-remove =
     .label = 移除
 about-addressbook-books-context-startup-default =
     .label = 默认启动目录
+
 about-addressbook-confirm-delete-book-title = 删除通讯录
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -66,14 +69,17 @@ about-addressbook-search =
     .placeholder = 搜索 { $name }
 about-addressbook-search-all =
     .placeholder = 搜索所有通讯录
+
 about-addressbook-sort-button2 =
     .title = 列表显示选项
+
 about-addressbook-name-format-display =
     .label = 显示名称
 about-addressbook-name-format-firstlast =
     .label = 名前姓后
 about-addressbook-name-format-lastfirst =
     .label = 姓前名后
+
 about-addressbook-sort-name-ascending =
     .label = 按名称排序（A > Z）
 about-addressbook-sort-name-descending =
@@ -82,6 +88,7 @@ about-addressbook-sort-email-ascending =
     .label = 按电子邮件地址排序（A > Z）
 about-addressbook-sort-email-descending =
     .label = 按电子邮件地址排序（Z > A）
+
 about-addressbook-horizontal-layout =
     .label = 切换为水平布局
 about-addressbook-vertical-layout =
@@ -117,8 +124,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = 通讯录
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = 写邮件
+
 about-addressbook-confirm-delete-mixed-title = 删除联系人和列表
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -187,19 +196,27 @@ about-addressbook-selection-contacts-header = { $count } 位选定的联系人
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = { $count } 个选定的列表
+
 about-addressbook-details-edit-photo =
     .title = 编辑联系人照片
+
 about-addressbook-new-contact-header = 新建联系人
+
 about-addressbook-prefer-display-name = 在邮件标题上方显示姓名
+
 about-addressbook-write-action-button = 写邮件
 about-addressbook-event-action-button = 事件
 about-addressbook-search-action-button = 搜索
+
 about-addressbook-new-list-action-button = 新建列表
+
 about-addressbook-begin-edit-contact-button = 编辑
 about-addressbook-delete-edit-contact-button = 删除
 about-addressbook-cancel-edit-contact-button = 取消
 about-addressbook-save-edit-contact-button = 保存
+
 about-addressbook-add-contact-to = 添加到：
+
 about-addressbook-details-email-addresses-header = 电子邮件地址
 about-addressbook-details-phone-numbers-header = 手机号码
 about-addressbook-details-addresses-header = 地址
@@ -207,12 +224,14 @@ about-addressbook-details-notes-header = 备注
 about-addressbook-details-impp-header = 即时通讯
 about-addressbook-details-websites-header = 网站
 about-addressbook-details-other-info-header = 其他信息
+
 about-addressbook-entry-type-work = 工作
 about-addressbook-entry-type-home = 住址
 about-addressbook-entry-type-fax = 传真
 # Or "Mobile"
 about-addressbook-entry-type-cell = 手机
 about-addressbook-entry-type-pager = 传呼机
+
 about-addressbook-entry-name-birthday = 生日
 about-addressbook-entry-name-anniversary = 周年纪念
 about-addressbook-entry-name-title = 职位
@@ -220,10 +239,12 @@ about-addressbook-entry-name-role = 角色
 about-addressbook-entry-name-organization = 公司
 about-addressbook-entry-name-website = 网站
 about-addressbook-entry-name-time-zone = 时区
+
 about-addressbook-entry-name-custom1 = 自定义 1
 about-addressbook-entry-name-custom2 = 自定义 2
 about-addressbook-entry-name-custom3 = 自定义 3
 about-addressbook-entry-name-custom4 = 自定义 4
+
 about-addressbook-unsaved-changes-prompt-title = 未保存更改
 about-addressbook-unsaved-changes-prompt = 您想要在离开编辑视图前保存更改吗？
 
@@ -233,6 +254,7 @@ about-addressbook-photo-drop-target = 拖放或粘贴照片至此处，或点此
 about-addressbook-photo-drop-loading = 正在加载照片…
 about-addressbook-photo-drop-error = 照片加载失败。
 about-addressbook-photo-filepicker-title = 选择图片
+
 about-addressbook-photo-discard = 丢弃现有照片
 about-addressbook-photo-cancel = 取消
 about-addressbook-photo-save = 保存

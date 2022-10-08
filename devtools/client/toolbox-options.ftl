@@ -142,8 +142,3 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * 仅限当前会话，将重新载入当前页面
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = 显示 Gecko 平台数据
-options-show-platform-data-tooltip =
-    .title = 如果开启此选项，JavaScript 分析报告将会包含 Gecko 平台符号表
