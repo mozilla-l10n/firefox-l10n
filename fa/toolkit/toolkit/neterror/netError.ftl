@@ -9,6 +9,7 @@ neterror-page-title = اشکال در هنگام بارگیری
 
 ## Error page actions
 
+neterror-try-again-button = تلاش دوباره
 
 ##
 
