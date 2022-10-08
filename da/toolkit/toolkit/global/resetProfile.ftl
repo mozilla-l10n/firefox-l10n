@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Start forfra for at løse problemer med yde
 refresh-profile = Giv { -brand-short-name } en tuning
 refresh-profile-button = Nulstil { -brand-short-name }…
 refresh-profile-learn-more = Læs mere
+
 refresh-profile-progress =
     .title = Nulstil { -brand-short-name }
 refresh-profile-progress-description = Næsten færdig…

@@ -106,6 +106,7 @@ tab-context-move-tabs =
            *[other] Flyt faneblade
         }
     .accesskey = y
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
