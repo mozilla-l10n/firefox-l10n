@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = Sudėtinio rodinio „{ $name }“ nuostatos
     .style = width: 45em
+
 containers-window-new2 =
     .title = Pridėti naują sudėtinį rodinį
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Sudėtinio rodinio „{ $name }“ nuostatos
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Pavadinimas
     .accesskey = P
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Įveskite sudėtinio rodinio pavadinimą
+
 containers-icon-label = Piktograma
     .accesskey = i
     .style = { -containers-labels-style }
+
 containers-color-label = Spalva
     .accesskey = v
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Atlikta
     .buttonaccesskeyaccept = A
+
 containers-color-blue =
     .label = Mėlyna
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Purpurinė
 containers-color-toolbar =
     .label = Kaip priemonių juostos
+
 containers-icon-fence =
     .label = Tvora
 containers-icon-fingerprint =

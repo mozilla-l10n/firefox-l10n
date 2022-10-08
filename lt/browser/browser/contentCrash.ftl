@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dalis šio tinklalapio užstrigo.</strong> Norėdami pranešti apie šią problemą „{ -brand-product-name }“ ir greičiau ją išspręsti, nusiųskite pranešimą.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

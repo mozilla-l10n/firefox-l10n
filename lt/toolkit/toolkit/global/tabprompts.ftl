@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Abonento vardas:
 tabmodalprompt-password =
     .value = Slaptažodis:
+
 tabmodalprompt-ok-button =
     .label = Gerai
 tabmodalprompt-cancel-button =

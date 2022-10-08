@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Į pokalbius">
 <!ENTITY goChatCmd.accesskey "k">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "žvaigždute pažymėtą laišką">
 <!ENTITY prevStarredMsgCmd.accesskey "ž">
 <!ENTITY folderMenu.label "Į aplanką">

@@ -33,3 +33,5 @@ toolbox-meatball-menu-pseudo-locale-bidi = Įjungti „dvikryptę“ lokalę
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Pradėkite iš naujo, norėdami išspręsti
 refresh-profile = Įpūsti „{ -brand-short-name }“ naujos gyvybės
 refresh-profile-button = Atšviežinti „{ -brand-short-name }“…
 refresh-profile-learn-more = Sužinoti daugiau
+
 refresh-profile-progress =
     .title = Atšviežinti „{ -brand-short-name }“
 refresh-profile-progress-description = Beveik atlikta…
