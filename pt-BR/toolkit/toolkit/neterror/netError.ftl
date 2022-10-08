@@ -8,6 +8,7 @@
 neterror-page-title = Problemas ao carregar a página
 neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Autenticar na rede
+neterror-malformed-uri-page-title = URL inválida
 
 ## Error page actions
 
