@@ -312,7 +312,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sembang">
 <!ENTITY goChatCmd.accesskey "S">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mesej Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
 <!ENTITY folderMenu.label "Folder">
