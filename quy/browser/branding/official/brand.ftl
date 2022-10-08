@@ -19,11 +19,11 @@
 
 -brand-shorter-name = Firefox nisqa
 -brand-short-name = Firefox nisqa
+-brand-shortcut-name = Firefox
+
 -brand-full-name = Mozilla Firefox nisqa
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox nisqa
 -vendor-short-name = Mozilla nisqa
 trademarkInfo = Firefox chaymanta Firefox logotipokuna Mozilla Fundación kaqpa rantiqnin kanku.
--brand-shortcut-name = Firefox
-
