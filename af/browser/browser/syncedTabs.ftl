@@ -6,6 +6,13 @@ synced-tabs-sidebar-title = Gesinkroniseerde oortjies
 synced-tabs-sidebar-noclients-subtitle = Lus om oortjies van ander toestelle hier te sien?
 synced-tabs-sidebar-notabs = Geen oop oortjies nie
 synced-tabs-sidebar-tabsnotsyncing = Skakel oortjiesinkronisering aan om 'n lys oortjies van ander toestelle te sien.
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Open
     .accesskey = O
@@ -21,6 +28,9 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Boekmerk hierdie oortjie…
     .accesskey = B
+
+##
+
 synced-tabs-context-copy =
     .label = Kopieer
     .accesskey = K
