@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Sparčioji paieška (tik saituose)
 findbar-case-sensitive-status =
     .value = (Skiriant didž. ir maž. raides)
+findbar-match-diacritics-status =
+    .value = (Skiriant diakritinius ženklus)
 findbar-entire-word-status =
     .value = (Tik ištisi žodžiai)
 # Variables:
