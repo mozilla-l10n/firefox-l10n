@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Airt oot the neist time this phrase occurs
 findbar-previous =
     .tooltiptext = Airt oot the last time this phrase occurred
-
 findbar-find-button-close =
     .tooltiptext = Sneck airt-oot baur
-
 findbar-highlight-all2 =
     .label = Highlicht Aw
     .accesskey =
@@ -21,18 +19,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Highlicht aw the times this phrase occurs
-
 findbar-case-sensitive =
     .label = Match Case
     .accesskey = C
     .tooltiptext = Sairch wi case sensitivity
-
 findbar-match-diacritics =
     .label = Match Diacritics
     .accesskey = i
     .tooltiptext = Mak odds atween accentit letters and their base letters (likesay, when searchin fur “resume”, “résumé” willnae be matched)
-
 findbar-entire-word =
     .label = Hale Words
     .accesskey = W
     .tooltiptext = Airt oot hale wirds anely
+findbar-normal-find =
+    .placeholder = Airt-oot in page
