@@ -40,3 +40,5 @@ findbar-fast-find-links =
     .placeholder = სწრაფი პოვნა (მხოლოდ ბმულები)
 findbar-case-sensitive-status =
     .value = (მთავრულის გათვალისწინებით)
+findbar-entire-word-status =
+    .value = (მხოლოდ მთლიანი სიტყვები)
