@@ -9,6 +9,7 @@ neterror-page-title = Problém pri načítaní stránky
 
 ## Error page actions
 
+neterror-learn-more-link = Ďalšie informácie…
 neterror-try-again-button = Skúsiť znova
 
 ##
@@ -19,6 +20,7 @@ neterror-try-again-button = Skúsiť znova
 neterror-generic-error = { -brand-short-name } nedokáže z nejakého dôvodu načítať stránku.
 neterror-file-not-found-filename = Skontrolujte názov súboru, napríklad malé a veľké písmená alebo iné preklepy.
 neterror-file-not-found-moved = Skontrolujte, či súbor nebol premenovaný, presunutý alebo odstránený.
+neterror-unknown-protocol = Na otvorenie tejto adresy možno bude potrebné nainštalovať ďalší softvér.
 neterror-redirect-loop = Tento problém môže nastať pri nepovolení, resp. odmietnutí cookies.
 neterror-unknown-socket-type-psm-installed = Uistite sa, či je v systéme nainštalovaný Správca súkromných kľúčov (PSM).
 neterror-unknown-socket-type-server-config = Môže to byť spôsobené neštandardnou konfiguráciou servera.
@@ -33,3 +35,10 @@ neterror-proxy-connect-failure-settings = Skontrolujte nastavenia proxy servera.
 neterror-proxy-connect-failure-contact-admin = Obráťte sa na správcu siete a skontrolujte, či server proxy funguje.
 neterror-content-encoding-error = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
 neterror-unsafe-content-type = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
+neterror-nss-failure-not-verified = Stránku nemožno zobraziť, pretože pravosť prijímaných údajov sa nedá overiť.
+neterror-nss-failure-contact-website = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> využíva technológiu zabezpečenia, ktorá je zastaraná a zraniteľná voči útokom. Útočník by mohol jednoducho odhaliť informácie, o ktorých ste si mysleli, že sú v bezpečí. Správca webovej stránky ju bude musieť pred jej ďalšou návštevou opraviť.
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY
