@@ -14,6 +14,7 @@ account-setup-tab-title = Configuração da conta
 
 account-setup-button-continue = Continuar
     .accesskey = C
+
 account-setup-button-done = Feito
     .accesskey = F
 
@@ -32,21 +33,28 @@ account-setup-button-done = Feito
 ## Manual configuration area
 
 account-setup-protocol-label = Protocolo:
+
 account-setup-hostname-label = Nome do servidor:
+
 account-setup-port-label = Porta:
     .title = Defina o número da porta para 0 para deteção automática
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = Deteção automática
+
 ssl-no-authentication-option = Sem autenticação
+
 ssl-cleartext-password-option = Palavra-passe normal
+
 ssl-encrypted-password-option = Palavra-passe encriptada
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Nenhuma
+
 account-setup-auth-label = Método de autenticação
+
 account-setup-username-label = Nome de utilizador:
 
 ## Warning insecure server dialog
@@ -71,4 +79,6 @@ account-setup-username-label = Nome de utilizador:
 
 calendar-dialog-cancel-button = Cancelar
     .accesskey = C
+
 account-setup-calendar-name-label = Nome
+
