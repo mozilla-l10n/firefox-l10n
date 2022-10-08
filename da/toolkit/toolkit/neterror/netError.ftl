@@ -17,3 +17,6 @@ neterror-page-title = Problem med indlæsning af side
 
 neterror-file-not-found-filename = Undersøg filnavnet for store bogstaver eller andre tastefejl.
 neterror-file-not-found-moved = Undersøg om filen er blevet flyttet, omdøbt eller slettet
+neterror-not-cached-intro = Den forespurgte side er ikke tilgængelig i cacheen.
+neterror-not-cached-sensitive = Af sikkerhedshensyn henter { -brand-short-name } ikke automatisk følsomme sider igen.
+neterror-not-cached-try-again = Klik for at prøve at hente siden igen fra webstedet.
