@@ -16,6 +16,7 @@ neterror-malformed-uri-page-title = URL ไม่ถูกต้อง
 neterror-advanced-button = ขั้นสูง…
 neterror-copy-to-clipboard-button = คัดลอกข้อความไปยังคลิปบอร์ด
 neterror-learn-more-link = เรียนรู้เพิ่มเติม…
+neterror-open-portal-login-page-button = เปิดหน้าเข้าสู่ระบบของเครือข่าย
 neterror-override-exception-button = ยอมรับความเสี่ยงและดำเนินการต่อ
 neterror-pref-reset-button = เรียกคืนการตั้งค่าเริ่มต้น
 neterror-return-to-previous-page-button = ย้อนกลับ
