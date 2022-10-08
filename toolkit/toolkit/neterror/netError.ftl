@@ -12,6 +12,7 @@ neterror-dns-not-found-title = Сервер није пронађен
 
 ## Error page actions
 
+neterror-advanced-button = Напредно…
 neterror-copy-to-clipboard-button = Копирај текст у бележницу
 neterror-learn-more-link = Сазнајте више…
 neterror-override-exception-button = Прихвати ризик и настави
@@ -46,6 +47,19 @@ neterror-content-encoding-error = Oбратите се власницима ве
 neterror-unsafe-content-type = Oбратите се власницима веб сајта и обавестите их о овом проблему.
 neterror-nss-failure-not-verified = Страница коју желите да прикажете не може бити приказана јер није могуће проверити аутентичност примљених података.
 neterror-nss-failure-contact-website = Обратите се власницима веб сајта и обавестите их о овом проблему.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } је открио потенцијалну безбедносну претњу и није наставио на <b>{ $hostname }</b>. Ако посетите овај сајт, нападачи би могли покушати украсти ваше податке као што су лозинке, е-адресе или кредитне картице.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } је открио потенцијалну безбедносну опасност и није наставио на <b>{ $hostname }</b> зато што ова веб страница захтева безбедну везу.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } је открио проблем и није наставио на адресу <b>{ $hostname }</b>. Веб место је лоше подешено или је сат вашег рачунара постављен на погрешно време.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> је највероватније безбедна веб страница, али није могуће успоставити безбедну везу са њом. Овај проблем узрокује програм <b>{ $mitm }</b>, који се налази на вашем рачунару или на вашој мрежи.
 neterror-corrupted-content-intro = Страница коју желите да погледате не може бити приказана због грешке у преносу података.
 neterror-corrupted-content-contact-website = Обратите се власницима веб странице и обавестите их о проблему.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
