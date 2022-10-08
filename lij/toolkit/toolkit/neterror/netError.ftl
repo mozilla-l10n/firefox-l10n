@@ -9,16 +9,20 @@ neterror-page-title = Erô into caregamento da pagina
 
 ## Error page actions
 
+neterror-learn-more-link = Atre informaçioin…
+neterror-return-to-previous-page-button = Vanni inderê
 neterror-try-again-button = Preuva Torna
 
 ##
 
+neterror-error-reporting-automatic = Segnala eroî comme sto chi pe agiutâ { -vendor-short-name } a identificâ e blocâ sciti danozi
 
 ## Specific error messages
 
 neterror-load-error-try-again = O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.
 neterror-load-error-connection = Se no ti riesci a caregâ nisciunn-a pagina, preuva a controlâ a conescion do teu computer.
 neterror-load-error-firewall = Se o teu computer ò a teu conescion en protezui da 'n firewall ò proxy, açertite che { -brand-short-name } o l'agge o permisso de acede a-a Ræ.
+neterror-unknown-protocol = Bezeugna instalâ do software in ciù pe arvî st'indirisso.
 neterror-not-cached-intro = O documento domandou o no l'é disponibile inta cache de { -brand-short-name }.
 neterror-not-cached-sensitive = Comme mezua de seguessa, o { -brand-short-name } o no te domanda torna documenti senscibili in aotomatico.
 neterror-not-cached-try-again = Sciacca Preuva torna pe domandâ torna o documento a-o scito.
@@ -28,3 +32,5 @@ neterror-proxy-resolve-failure-connection = Contròlla se o teu computer o l'agg
 neterror-proxy-resolve-failure-firewall = Se o teu computer ò ræ son protezui da un firewall ò proxy verifica se { -brand-short-name } o peu acede a ræ
 neterror-nss-failure-not-verified = A pagina che ti veu vedde a no peu ese mostrâ perché no l'é poscibile verificâ l’aotenticitæ di dæti riçevui.
 neterror-nss-failure-contact-website = Ciamma o responsabile do scito web pe informalo do problema.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Informaçion avansæ: SSL_ERROR_UNSUPPORTED_VERSION
