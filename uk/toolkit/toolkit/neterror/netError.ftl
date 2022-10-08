@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-page-title = Проблема під час завантаження сторінки
 certerror-page-title = Обережно: Попереду ймовірна загроза безпеки
 certerror-sts-page-title = З'єднання не встановлено: Ймовірна загроза безпеки
 neterror-blocked-by-policy-page-title = Заблокована сторінка
@@ -48,6 +49,9 @@ neterror-unknown-protocol = Для відкриття цієї адреси ва
 neterror-redirect-loop = Ця проблема може виникати при вимиканні або забороні прийняття кук.
 neterror-unknown-socket-type-psm-installed = Переконайтеся, що у вашій системі встановлено Менеджер особистого захисту.
 neterror-unknown-socket-type-server-config = Можливо, це відбулося через нетипову конфігурацію сервера.
+neterror-not-cached-intro = Вказаний документ більше недоступний у кеші { -brand-short-name }.
+neterror-not-cached-sensitive = З міркувань безпеки, { -brand-short-name } не здійснює автоматичний повторний запит вразливих документів.
+neterror-not-cached-try-again = Клацніть Спробувати знову, щоб перезавантажити документ з вебсайту.
 neterror-net-offline = Натисніть «Спробувати знову» щоб перемкнутись в онлайновий режим і перезавантажити сторінку.
 neterror-proxy-resolve-failure-settings = Перевірте правильність встановлених налаштувань проксі-сервера.
 neterror-proxy-resolve-failure-connection = Перевірте з’єднання вашого комп’ютера з мережею.
@@ -97,6 +101,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Якщо ви 
 certerror-expired-cert-what-can-you-do-about-it-clock = Годинник вашого комп'ютера налаштовано на { DATETIME($now, dateStyle: "medium") }. Переконайтеся, що ваш комп'ютер має правильні системні налаштування дати, часу та часового поясу, після чого оновіть <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Якщо ваш годинник налаштовано правильно, ймовірно, конфігурація сайту є неправильною і вам не вдасться це виправити. Ви можете повідомити про цю проблему адміністратора вебсайту.
 certerror-bad-cert-domain-what-can-you-do-about-it = Найімовірніше, ця проблема стосується вебсайту, і ви не зможете її виправити. Ви можете сповістити адміністратора вебсайту про цю проблему.
+certerror-mitm-what-can-you-do-about-it-antivirus = Якщо ваше антивірусне програмне забезпечення має функцію сканування зашифрованих з'єднань (“мережний сканер” чи “https-сканер”), ви можете вимкнути її. Якщо це не спрацює, ви можете спробувати перевстановити антивірусне програмне забезпечення.
 certerror-mitm-what-can-you-do-about-it-corporate = Якщо ви знаходитесь в корпоративній мережі, зв'яжіться зі своїм адміністратором.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
