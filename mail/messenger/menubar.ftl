@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Настройки
     .accesskey = а
+
 menu-addons-and-themes =
     .label = Дополнения и темы
     .accesskey = п
@@ -20,39 +21,51 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Справка
     .accesskey = С
+
 menu-help-get-help =
     .label = Получить помощь
     .accesskey = л
+
 menu-help-explore-features =
     .label = Узнать о возможностях
     .accesskey = ж
+
 menu-help-shortcuts =
     .label = Сочетания клавиш
     .accesskey = к
+
 menu-help-get-involved =
     .label = Принять участие
     .accesskey = ч
+
 menu-help-donation =
     .label = Сделать пожертвование
     .accesskey = е
+
 menu-help-share-feedback =
     .label = Поделиться идеями или оставить отзыв
     .accesskey = д
+
 menu-help-enter-troubleshoot-mode =
     .label = Безопасный режим…
     .accesskey = п
+
 menu-help-exit-troubleshoot-mode =
     .label = Отключить безопасный режим
     .accesskey = ю
+
 menu-help-more-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = ш
+
 menu-help-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = И
+
 menu-help-about-product =
     .label = О { -brand-short-name }
     .accesskey = О
+
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -65,9 +78,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Завершить { -brand-shorter-name }
+
 quit-app-shortcut =
     .key = Q
 
@@ -97,33 +112,43 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Размер шрифта
     .accesskey = м
+
 menuitem-font-size-enlarge =
     .label = Увеличить размер шрифта
     .accesskey = в
+
 menuitem-font-size-reduce =
     .label = Уменьшить размер шрифта
     .accesskey = ш
+
 menuitem-font-size-reset =
     .label = Сбросить размер шрифта
     .accesskey = и
+
 mail-uidensity-label =
     .label = Значки
     .accesskey = н
+
 mail-uidensity-compact =
     .label = Компактные
     .accesskey = м
+
 mail-uidensity-normal =
     .label = Обычные
     .accesskey = ы
+
 mail-uidensity-touch =
     .label = Сенсорные
     .accesskey = о
+
 mail-uidensity-default =
     .label = По умолчанию
     .accesskey = м
+
 mail-uidensity-relaxed =
     .label = Комфортные
     .accesskey = н
+
 menu-spaces-toolbar-button =
     .label = Панель мест
     .accesskey = л

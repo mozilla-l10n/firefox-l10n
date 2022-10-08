@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Поиск
 config-new-pref-name =
     .placeholder = Имя
+
 config-new-pref-value-boolean = Логическое
 config-new-pref-value-string = Строка
 config-new-pref-value-integer = Целое
+
 config-new-pref-string =
     .placeholder = Введите строку
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Отмена
 config-new-pref-create-button = Создать
 config-new-pref-change-button = Изменить
+
 config-pref-toggle-button = Переключить
 config-pref-reset-button = Сбросить
+
 config-context-menu-copy-pref-name =
     .label = Копировать имя
 config-context-menu-copy-pref-value =

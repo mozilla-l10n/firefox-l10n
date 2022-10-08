@@ -4,6 +4,7 @@
 
 apply-current-view-to-menu =
     .label = Применить текущий вид к…
+
 threadpane-apply-changes-prompt-title = Применить изменения?
 # Variables:
 #  $name (String): The name of the folder to apply to.
@@ -11,3 +12,4 @@ threadpane-apply-changes-prompt-no-children-text = Применить вид т�
 # Variables:
 #  $name (String): The name of the folder to apply to.
 threadpane-apply-changes-prompt-with-children-text = Применить вид текущей папки к { $name } и вложенным в неё папкам?
+

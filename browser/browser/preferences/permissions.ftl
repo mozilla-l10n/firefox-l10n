@@ -5,62 +5,81 @@
 permissions-window =
     .title = Исключения
     .style = width: 55em
+
 permissions-window2 =
     .title = Исключения
     .style = min-width: 55em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адрес веб-сайта
     .accesskey = е
+
 permissions-block =
     .label = Блокировать
     .accesskey = л
+
 permissions-session =
     .label = Разрешить на сессию
     .accesskey = с
+
 permissions-allow =
     .label = Разрешить
     .accesskey = з
+
 permissions-button-off =
     .label = Отключить
     .accesskey = ю
+
 permissions-button-off-temporarily =
     .label = Временно отключить
     .accesskey = е
+
 permissions-site-name =
     .label = Веб-сайт
+
 permissions-status =
     .label = Статус
+
 permissions-remove =
     .label = Удалить веб-сайт
     .accesskey = д
+
 permissions-remove-all =
     .label = Удалить все веб-сайты
     .accesskey = в
+
 permission-dialog =
     .buttonlabelaccept = Сохранить изменения
     .buttonaccesskeyaccept = х
+
 permissions-autoplay-menu = По умолчанию для всех веб-сайтов:
+
 permissions-searchbox =
     .placeholder = Поиск по веб-сайту
+
 permissions-capabilities-autoplay-allow =
     .label = Разрешить аудио и видео
 permissions-capabilities-autoplay-block =
     .label = Блокировать аудио
 permissions-capabilities-autoplay-blockall =
     .label = Блокировать аудио и видео
+
 permissions-capabilities-allow =
     .label = Разрешить
 permissions-capabilities-block =
     .label = Блокировать
 permissions-capabilities-prompt =
     .label = Всегда спрашивать
+
 permissions-capabilities-listitem-allow =
     .value = Разрешить
 permissions-capabilities-listitem-block =
     .value = Блокировать
 permissions-capabilities-listitem-allow-session =
     .value = Разрешить на сессию
+
 permissions-capabilities-listitem-off =
     .value = Отключить
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Введите корректное сетево
 permissions-exceptions-etp-window =
     .title = Исключения для улучшенной защиты от отслеживания
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Исключения для улучшенной защиты от отслеживания
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Вы отключили защиту на сл
 permissions-exceptions-cookie-window =
     .title = Исключения — Куки и данные сайтов
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Исключения — Куки и данные сайтов
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Вы можете указать, каки�
 permissions-exceptions-https-only-window =
     .title = Исключения — Режим «Только HTTPS»
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Исключения — Режим «Только HTTPS»
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Вы можете отключить Р
 permissions-exceptions-popup-window =
     .title = Разрешённые веб-сайты — Всплывающие окна
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Разрешённые веб-сайты — Всплывающие окна
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Вы можете указать, каким
 permissions-exceptions-saved-logins-window =
     .title = Исключения — Сохранённые логины
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Исключения — Сохранённые логины
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Логины для следующи�
 permissions-exceptions-addons-window =
     .title = Разрешённые веб-сайты — Установка дополнений
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Разрешённые веб-сайты — Установка дополнений
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Вы можете указать, каки�
 permissions-site-autoplay-window =
     .title = Параметры — Автовоспроизведение
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Параметры — Автовоспроизведение
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Вы можете указать, какие с
 permissions-site-notification-window =
     .title = Параметры — Разрешения на отправку уведомлений
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Параметры — Разрешения на отправку уведомлений
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Это не позволит веб
 permissions-site-location-window =
     .title = Параметры — Разрешения на доступ к местоположению
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Параметры — Разрешения на доступ к местоположению
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Это не позволит веб-с�
 permissions-site-xr-window =
     .title = Настройки - Разрешения виртуальной реальности
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Настройки - Разрешения виртуальной реальности
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Это не позволит веб-сайт�
 permissions-site-camera-window =
     .title = Параметры — Разрешения на доступ к камере
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Параметры — Разрешения на доступ к камере
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Это не позволит веб-са�
 permissions-site-microphone-window =
     .title = Параметры — Разрешения на доступ к микрофону
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Параметры — Разрешения на доступ к микрофону
     .style = { permissions-window2.style }
