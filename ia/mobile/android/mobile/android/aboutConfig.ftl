@@ -18,3 +18,7 @@ config-new-pref-create-button = Crear
 config-new-pref-change-button = Cambiar
 config-pref-toggle-button = Commutar
 config-pref-reset-button = Reinitialisar
+config-context-menu-copy-pref-name =
+    .label = Copiar le nomine
+config-context-menu-copy-pref-value =
+    .label = Copiar le valor
