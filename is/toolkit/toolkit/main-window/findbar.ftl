@@ -34,5 +34,28 @@ findbar-entire-word =
 findbar-not-found = Fann ekki orðið
 findbar-wrapped-to-top = Náði enda síðunnar, held áfram frá byrjun
 findbar-wrapped-to-bottom = Náði byrjun síðunnar, held áfram frá enda
+findbar-normal-find =
+    .placeholder = Finna á síðu
+findbar-fast-find =
+    .placeholder = Hraðleit
+findbar-fast-find-links =
+    .placeholder = Flýtileit (aðeins tenglar)
 findbar-case-sensitive-status =
     .value = (Stafrétt)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } af { $total } passar við
+           *[other] { $current } af { $total } passar við
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Fleiri en { $limit } passar við
+           *[other] Fleiri en { $limit } passa við
+        }
