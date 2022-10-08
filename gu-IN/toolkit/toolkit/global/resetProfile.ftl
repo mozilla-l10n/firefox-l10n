@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } પુનઃતાજું કરો
 refresh-profile = { -brand-short-name } ને ટ્યુન અપ કરો
 refresh-profile-button = { -brand-short-name } પુનઃતાજું કરો…
+
 refresh-profile-progress =
     .title = { -brand-short-name } પુનઃતાજું કરો
 refresh-profile-progress-description = લગભગ સમાપ્ત…

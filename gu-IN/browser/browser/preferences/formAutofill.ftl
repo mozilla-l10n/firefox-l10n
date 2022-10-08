@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = સાચવેલા સરનામાંઓ
 autofill-manage-addresses-list-header = સરનામાંઓ
+
 autofill-manage-credit-cards-title = સાચવેલ ક્રેડિટ કાર્ડ્સ
 autofill-manage-credit-cards-list-header = ક્રેડિટ કાર્ડ
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = દૂર કરો
@@ -21,6 +23,7 @@ autofill-manage-edit-button = ફેરફાર કરો…
 autofill-add-new-address-title = નવુ સરનામું ઉમેરો
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = સરનામું સંપાદિત કરો
+
 autofill-address-given-name = પ્રથમ નામ
 autofill-address-additional-name = વચલું નામ
 autofill-address-family-name = છેલ્લું નામ
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = દેશ અથવા પ્રદેશ
 autofill-address-tel = ફોન
 autofill-address-email = ઇમેઇલ
+
 autofill-cancel-button = રદ કરો
 autofill-save-button = સાચવો
 autofill-country-warning-message = ફોર્મ સ્વતઃભરણ હાલમાં ફક્ત ચોક્કસ દેશો માટે જ ઉપલબ્ધ છે.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = નવું ક્રેડિટ કાર્ડ ઉમેરો
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ક્રેડિટ કાર્ડ સંપાદિત કરો
+
 autofill-card-number = કાર્ડ ક્રમાંક
 autofill-card-invalid-number = કૃપા કરી માન્ય કાર્ડ નંબર દાખલ કરો
 autofill-card-name-on-card = કાર્ડ પરનું નામ

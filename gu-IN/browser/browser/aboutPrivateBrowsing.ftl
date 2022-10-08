@@ -13,3 +13,5 @@ about-private-browsing-not-private = તમે હાલમાં ખાનગ�
 about-private-browsing-search-banner-close-button =
     .aria-label = બંધ
 
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
