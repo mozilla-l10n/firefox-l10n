@@ -8,6 +8,7 @@
 
 ## Error page actions
 
+neterror-learn-more-link = Zjistit více…
 neterror-try-again-button = Zkusit znovu
 
 ##
@@ -16,3 +17,4 @@ neterror-try-again-button = Zkusit znovu
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } nemůže tuto stránku načíst.
+neterror-unknown-protocol = Pro otevření této adresy budete patrně potřebovat nainstalovat další software.
