@@ -98,6 +98,7 @@
 <!ENTITY fileHereMenu.label "Archivar aquí">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!ENTITY sendButton.label "Enviar">
 <!ENTITY addressButton.label "Direcciones">
 <!ENTITY attachButton.label "Adjuntar">
@@ -105,6 +106,7 @@
 <!ENTITY saveButton.label "Guardar">
 <!ENTITY stopButton.label "Detener">
 
+<!--tooltips-->
 <!--tooltips-->
 <!ENTITY addressBar.tooltip "Barra de direcciones">
 <!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">

@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Comience de cero para solucionar problemas 
 refresh-profile = Dar un repaso a { -brand-short-name }
 refresh-profile-button = Restablecer { -brand-short-name }…
 refresh-profile-learn-more = Saber más
+
 refresh-profile-progress =
     .title = Restablecer { -brand-short-name }
 refresh-profile-progress-description = A punto de terminar…

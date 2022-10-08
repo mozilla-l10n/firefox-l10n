@@ -5,62 +5,81 @@
 permissions-window =
     .title = Administrador de imágenes
     .style = width: 49em
+
 permissions-window2 =
     .title = Administrador de imágenes
     .style = min-width: 49em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Dirección del sitio web
     .accesskey = D
+
 permissions-block =
     .label = Bloquear
     .accesskey = B
+
 permissions-session =
     .label = Permitir en esta sesión
     .accesskey = S
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-button-off =
     .label = Desactivar
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Desactivar temporalmente
     .accesskey = t
+
 permissions-site-name =
     .label = Sitio web
+
 permissions-status =
     .label = Estado
+
 permissions-remove =
     .label = Eliminar sitio web
     .accesskey = E
+
 permissions-remove-all =
     .label = Eliminar todos los sitios web
     .accesskey = a
+
 permission-dialog =
     .buttonlabelaccept = Guardar cambios
     .buttonaccesskeyaccept = G
+
 permissions-autoplay-menu = Predeterminado para todos los sitios web:
+
 permissions-searchbox =
     .placeholder = Buscar sitio web
+
 permissions-capabilities-autoplay-allow =
     .label = Permitir audio y video
 permissions-capabilities-autoplay-block =
     .label = Bloquear audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear audio y video
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar siempre
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir en esta sesión
+
 permissions-capabilities-listitem-off =
     .value = Desactivado
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor válido
 permissions-exceptions-etp-window =
     .title = Excepciones para la protección mejorada contra el rastreo
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Excepciones para la protección mejorada contra el rastreo
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Ha desactivado las protecciones en estos sitio
 permissions-exceptions-cookie-window =
     .title = Excepciones: Cookies y datos del sitio
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Excepciones: Cookies y datos del sitio
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Puede especificar qué sitios web pueden o 
 permissions-exceptions-https-only-window =
     .title = Excepciones - Modo solo HTTPS
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Excepciones - Modo solo HTTPS
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Puede desactivar el modo solo HTTPS par
 permissions-exceptions-popup-window =
     .title = Sitios web permitidos - Ventanas emergentes
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Sitios web permitidos - Ventanas emergentes
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Se puede especificar qué sitios web pueden 
 permissions-exceptions-saved-logins-window =
     .title = Excepciones - Logins guardados
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Excepciones - Logins guardados
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Los inicios de sesión de los siguien
 permissions-exceptions-addons-window =
     .title = Sitios web permitidos - Instalación de complementos
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Sitios web permitidos - Instalación de complementos
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Puede especificar desde qué sitios web est
 permissions-site-autoplay-window =
     .title = Ajustes - Reproducción automática
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Ajustes - Reproducción automática
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Aquí puedes gestionar los sitios que no cumple
 permissions-site-notification-window =
     .title = Config. - Permisos de notificaciones
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Config. - Permisos de notificaciones
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Esto evitará que cualquier sitio w
 permissions-site-location-window =
     .title = Config. - Permisos de ubicación
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Config. - Permisos de ubicación
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Esto evitará que cualquier sitio web n
 permissions-site-xr-window =
     .title = Ajustes - Permisos de realidad virtual
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Ajustes - Permisos de realidad virtual
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Esto evitará que los sitios web no incluidos
 permissions-site-camera-window =
     .title = Config. - Permisos de la cámara
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Config. - Permisos de la cámara
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Esto evitará que cualquier sitio web no 
 permissions-site-microphone-window =
     .title = Config. - Permisos del micrófono
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Config. - Permisos del micrófono
     .style = { permissions-window2.style }
