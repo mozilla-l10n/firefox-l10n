@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Leina la modiriši:
 tabmodalprompt-password =
     .value = Lentšuphetišo:
+
 tabmodalprompt-ok-button =
     .label = Go lokile
 tabmodalprompt-cancel-button =

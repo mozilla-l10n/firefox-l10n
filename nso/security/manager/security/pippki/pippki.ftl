@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Go bula Setifikheiti
     .style = width: 46em
+
 download-cert-window2 =
     .title = Go bula Setifikheiti
     .style = min-width: 46em
