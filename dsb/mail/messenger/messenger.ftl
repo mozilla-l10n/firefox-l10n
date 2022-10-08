@@ -13,6 +13,7 @@ messenger-window-restore-down-button =
     .tooltiptext = Wótnowiś
 messenger-window-close-button =
     .tooltiptext = Zacyniś
+
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -22,6 +23,7 @@ unread-messages-os-tooltip =
         [few] { $count } njecytane powěsći
        *[other] { $count } njecytanych powěsćow
     }
+
 about-rights-notification-text = { -brand-short-name } jo dermotna softwara wótwórjonego žrědła, wuwita wót zgromaźeństwa towzyntow luźi z cełego swěta.
 
 ## Content tabs
@@ -38,9 +40,11 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Dodanki a drastwy
     .tooltiptext = Waše dodanki zastojaś
+
 quick-filter-toolbarbutton =
     .label = Spěšny filter
     .tooltiptext = Powěsći filtrowaś
+
 redirect-msg-button =
     .label = Dalej pósrědniś
     .tooltiptext = Wubranu powěsć dalej pósrědniś
@@ -50,8 +54,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Symbolowa rědka zarědnikowego wobcerka
     .accesskey = z
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Nastajenja wobceŕka zarědnikow
+
 folder-pane-header-label = Zarědniki
 
 ## Folder Toolbar Header Popup
@@ -59,21 +65,27 @@ folder-pane-header-label = Zarědniki
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Symbolowu rědku schowaś
     .accesskey = S
+
 show-all-folders-label =
     .label = Wšykne zarědniki
     .accesskey = W
+
 show-unread-folders-label =
     .label = Njepśecytane zarědniki
     .accesskey = N
+
 show-favorite-folders-label =
     .label = Nejlubše zarědniki
     .accesskey = l
+
 show-smart-folders-label =
     .label = Zjadnośone zarědniki
     .accesskey = d
+
 show-recent-folders-label =
     .label = Nejnowše zarědniki
     .accesskey = o
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktny naglěd
     .accesskey = K
@@ -83,6 +95,7 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Dalej pósrědniś
     .accesskey = D
+
 menu-file-save-as-file =
     .label = Dataja…
     .accesskey = D
@@ -91,16 +104,22 @@ menu-file-save-as-file =
 
 appmenu-save-as-file =
     .label = Dataja…
+
 appmenu-settings =
     .label = Nastajenja
+
 appmenu-addons-and-themes =
     .label = Dodanki a drastwy
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow znjemóžniś
+
 appmenu-help-more-troubleshooting-info =
     .label = Dalšne informacije za rozwězowanje problemow
+
 appmenu-redirect-msg =
     .label = Dalej pósrědniś
 
@@ -108,6 +127,7 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Dalej pósrědniś
+
 mail-context-delete-messages =
     .label =
         { $count ->
@@ -116,6 +136,7 @@ mail-context-delete-messages =
             [few] Wubrane powěsći lašowaś
            *[other] Wubrane powěsći lašowaś
         }
+
 context-menu-decrypt-to-folder =
     .label = Ako dešifrěrowanu kopěrowaś do
     .accesskey = d
@@ -124,9 +145,11 @@ context-menu-decrypt-to-folder =
 
 other-action-redirect-msg =
     .label = Dalej pósrědniś
+
 message-header-msg-flagged =
     .title = Z gwězdku
     .aria-label = Z gwězdku
+
 # Variables:
 # $address (String) - The email address of the recipient this picture belongs to.
 message-header-recipient-avatar =
@@ -135,28 +158,38 @@ message-header-recipient-avatar =
 ## Message header cutomize panel
 
 message-header-customize-panel-title = Nastajenja głowy powěsći
+
 message-header-customize-button-style =
     .value = Tłocaškowy stil
     .accesskey = T
+
 message-header-button-style-default =
     .label = Symbole a tekst
+
 message-header-button-style-text =
     .label = Tekst
+
 message-header-button-style-icons =
     .label = Symbole
+
 message-header-show-sender-full-address =
     .label = Pśecej dopołnu adresu wótpósłarja pokazaś
     .accesskey = d
+
 message-header-show-sender-full-address-description = E-mailowa adresa se pód zwobraznjeńskim mjenim pokažo.
+
 message-header-show-recipient-avatar =
     .label = Profilowy wobraz wótpósłarja pokazaś
     .accesskey = P
+
 message-header-hide-label-column =
     .label = Słup pópisanjow schowaś
     .accesskey = u
+
 message-header-large-subject =
     .label = Wjelika tema
     .accesskey = l
+
 message-header-all-headers =
     .label = Wšykne głowy pokazaś
     .accesskey = n
@@ -177,9 +210,11 @@ toolbar-context-menu-remove-extension =
 addon-removal-title = { $name } wótwónoźeś?
 addon-removal-confirmation-button = Wótwónoźeś
 addon-removal-confirmation-message = { $name } a jogo konfiguraciju a daty z { -brand-short-name } wótwónoźeś?
+
 caret-browsing-prompt-title = Tastaturowa nawigacija
 caret-browsing-prompt-text = Tłocenje tasty F7 zašaltujo abo wušaltujo tastaturowu nawigaciju. Toś ta funkcija staja pógibny kursor do wopśimjeśa a dowólujo wam tekst z tastaturu wubraś. Cośo něnto tastaturowu nawigaciju zašaltowaś?
 caret-browsing-prompt-check-text = Wěcej se njepšašaś.
+
 repair-text-encoding-button =
     .label = Tekstowe koděrowanje reparěrowaś
     .tooltiptext = Korektne teksotwe koděrowanje z wopśimjeśa powěsći wugódás
@@ -200,36 +235,51 @@ spaces-toolbar-element =
     .toolbarname = Rědka źělnych programow
     .aria-label = Rědka źělnych programow
     .aria-description = Wertikalna symbolowa rědka, kótaraž mjazy rozdźělnymi źělnymi programami pśešaltujo. Wužywajśo šypkowe tasty, aby pó k dispoziciji stojecych tłocaškach nawigěrował.
+
 spaces-toolbar-button-mail2 =
     .title = E-mail
+
 spaces-toolbar-button-address-book2 =
     .title = Adresnik
+
 spaces-toolbar-button-calendar2 =
     .title = Kalendaŕ
+
 spaces-toolbar-button-tasks2 =
     .title = Nadawki
+
 spaces-toolbar-button-chat2 =
     .title = Chat
+
 spaces-toolbar-button-overflow =
     .title = Wěcej rumow…
+
 spaces-toolbar-button-settings2 =
     .title = Nastajenja
+
 spaces-toolbar-button-hide =
     .title = Rědku źělnych programow schowaś
+
 spaces-toolbar-button-show =
     .title = Rědku źělnych programow pokazaś
+
 spaces-context-new-tab-item =
     .label = W nowem rejtarku wócyniś
+
 spaces-context-new-window-item =
     .label = W nowem woknje wócyniś
+
 # Variables:
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = K { $tabName } pśejś
+
 settings-context-open-settings-item2 =
     .label = Nastajenja
+
 settings-context-open-account-settings-item2 =
     .label = Kontowe nastajenja
+
 settings-context-open-addons-item2 =
     .label = Dodanki a drastwy
 
@@ -237,20 +287,28 @@ settings-context-open-addons-item2 =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Meni źělnych programow wócyniś
+
 spaces-pinned-button-menuitem-mail2 =
     .label = { spaces-toolbar-button-mail2.title }
+
 spaces-pinned-button-menuitem-address-book2 =
     .label = { spaces-toolbar-button-address-book2.title }
+
 spaces-pinned-button-menuitem-calendar2 =
     .label = { spaces-toolbar-button-calendar2.title }
+
 spaces-pinned-button-menuitem-tasks2 =
     .label = { spaces-toolbar-button-tasks2.title }
+
 spaces-pinned-button-menuitem-chat2 =
     .label = { spaces-toolbar-button-chat2.title }
+
 spaces-pinned-button-menuitem-settings2 =
     .label = { spaces-toolbar-button-settings2.title }
+
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }
+
 # Variables:
 # $count (Number) - Number of unread messages.
 chat-button-unread-messages = { $count }
@@ -266,16 +324,23 @@ chat-button-unread-messages = { $count }
 
 menuitem-customize-label =
     .label = Pśiměriś…
+
 spaces-customize-panel-title = Nastajenja rědki źělnych programow
+
 spaces-customize-background-color = Slězynowa barwa
+
 spaces-customize-icon-color = Tłocaškowa barwa
+
 # The background color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-background-color = Slězynowa barwa wubranego tłocaška
+
 # The icon color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-text-color = Barwa wubranego tłocaška
+
 spaces-customize-button-restore = Standard wótnowiś
     .accesskey = S
+
 customize-panel-button-save = Dokóńcony
     .accesskey = D

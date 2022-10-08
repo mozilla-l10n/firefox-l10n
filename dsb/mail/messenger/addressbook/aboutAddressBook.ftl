@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Wšykne adresniki
+
 about-addressbook-books-context-properties =
     .label = Kakosći
 about-addressbook-books-context-edit-list =
@@ -40,6 +41,7 @@ about-addressbook-books-context-remove =
     .label = Wótwónoźeś
 about-addressbook-books-context-startup-default =
     .label = Standardny startowy zapis
+
 about-addressbook-confirm-delete-book-title = Adresnik lašowaś
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -57,14 +59,17 @@ about-addressbook-search =
     .placeholder = { $name } pśepytaś
 about-addressbook-search-all =
     .placeholder = Wšykne adresniki pśepytaś
+
 about-addressbook-sort-button2 =
     .title = Pokazowańske nastajenja nalicyś
+
 about-addressbook-name-format-display =
     .label = Zwobraznjeńske mě
 about-addressbook-name-format-firstlast =
     .label = Pśedmě Familijowe mě
 about-addressbook-name-format-lastfirst =
     .label = Swójźbne mě, pśedmě
+
 about-addressbook-sort-name-ascending =
     .label = Pó mjenju sortěrowaś (A > Z)
 about-addressbook-sort-name-descending =
@@ -73,6 +78,7 @@ about-addressbook-sort-email-ascending =
     .label = Pó e-mailowej adresy sortěrowaś (A > Z)
 about-addressbook-sort-email-descending =
     .label = Pó e-mailowej adresy sortěrowaś (Z > A)
+
 about-addressbook-horizontal-layout =
     .label = Do horicontalnego wugótowanja pśešaltowaś
 about-addressbook-vertical-layout =
@@ -105,8 +111,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Adresnik
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = Pisaś
+
 about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny wulašowaś
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -182,26 +190,32 @@ about-addressbook-placeholder-no-search-results = Žedne kontakty namakane
 ## Details
 
 about-addressbook-prefer-display-name = Zwobraznjone mě nad hłowu powěsći lubjej wužywaś
+
 about-addressbook-write-action-button = Pisaś
 about-addressbook-event-action-button = Tšojenje
 about-addressbook-search-action-button = Pytaś
+
 about-addressbook-begin-edit-contact-button = Wobźěłaś
 about-addressbook-delete-edit-contact-button = Lašowaś
 about-addressbook-cancel-edit-contact-button = Pśetergnuś
 about-addressbook-save-edit-contact-button = Składowaś
+
 about-addressbook-add-contact-to = Pśidaś do:
+
 about-addressbook-details-email-addresses-header = E-mailowe adrese
 about-addressbook-details-phone-numbers-header = Telefonowe numery
 about-addressbook-details-addresses-header = Adrese
 about-addressbook-details-notes-header = Pokaze
 about-addressbook-details-impp-header = Pósrědnjanje powěsćow ned
 about-addressbook-details-other-info-header = Druge informacije
+
 about-addressbook-entry-type-work = Słužbny telefon
 about-addressbook-entry-type-home = Startowy bok
 about-addressbook-entry-type-fax = Faks
 # Or "Mobile"
 about-addressbook-entry-type-cell = Mobilny telefon
 about-addressbook-entry-type-pager = Pager
+
 about-addressbook-entry-name-birthday = Narodny źeń
 about-addressbook-entry-name-anniversary = Wrośenica
 about-addressbook-entry-name-title = Titel
@@ -209,6 +223,7 @@ about-addressbook-entry-name-role = Rola
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Websedło
 about-addressbook-entry-name-time-zone = Casowa cona
+
 about-addressbook-unsaved-changes-prompt-title = Njeskłaźone změny
 about-addressbook-unsaved-changes-prompt = Cośo swóje změny składowaś, nježli až wobźěłowański naglěd spušćaśo?
 
@@ -218,6 +233,7 @@ about-addressbook-photo-drop-target = Pušććo abo zasajźćo how foto abo klik
 about-addressbook-photo-drop-loading = Foto se zacytujo …
 about-addressbook-photo-drop-error = Foto njedajo se zacytaś.
 about-addressbook-photo-filepicker-title = Wobrazowu dataju wubraś
+
 about-addressbook-photo-discard = Eksistěrujuce foto zachyśiś
 about-addressbook-photo-cancel = Pśetergnuś
 about-addressbook-photo-save = Składowaś

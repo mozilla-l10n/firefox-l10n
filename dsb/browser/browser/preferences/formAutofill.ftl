@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Skłaźone adrese
 autofill-manage-addresses-list-header = Adrese
+
 autofill-manage-credit-cards-title = Skłaźone kreditowe kórty
 autofill-manage-credit-cards-list-header = Kreditowe kórty
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Wótwónoźeś
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Wobźěłaś…
 autofill-add-new-address-title = Nowu adresu pśidaś
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresu wobźěłaś
+
 autofill-address-given-name = Pśedmě
 autofill-address-additional-name = Druge pśedmě
 autofill-address-family-name = Familijowe mě
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Kraj abo region
 autofill-address-tel = Telefon
 autofill-address-email = E-mail
+
 autofill-cancel-button = Pśetergnuś
 autofill-save-button = Składowaś
 autofill-country-warning-message = Awtomatiske wupołnjenje formularow jo tuchylu jano za wěste kraje k dispoziciji.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nowu kreditowu kórtu pśidaś
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kreditowu kórtu wobźěłaś
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } wopytujo, daty kreditneje kórty pokazaś. Wobkšuśćo pśistup k Windowsowemu kontoju dołojce.
        *[other] { -brand-short-name } wopytujo, daty kreditneje kórty pokazaś.
     }
+
 autofill-card-number = Numer kórty
 autofill-card-invalid-number = Pšosym zapódajśo płaśiwy kórtowy numer
 autofill-card-name-on-card = Mě na kórśe

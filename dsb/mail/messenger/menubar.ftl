@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Nastajenja
     .accesskey = N
+
 menu-addons-and-themes =
     .label = Dodanki a drastwy
     .accesskey = D
@@ -20,39 +21,51 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Pomoc
     .accesskey = P
+
 menu-help-get-help =
     .label = Pomoc wobstaraś
     .accesskey = b
+
 menu-help-explore-features =
     .label = Funkcije wuslěźiś
     .accesskey = l
+
 menu-help-shortcuts =
     .label = Tastowe skrotconki
     .accesskey = T
+
 menu-help-get-involved =
     .label = Cyńśo sobu
     .accesskey = C
+
 menu-help-donation =
     .label = Pósćiś
     .accesskey = P
+
 menu-help-share-feedback =
     .label = Ideje a měnjenja źěliś
     .accesskey = m
+
 menu-help-enter-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow znjemóžniś
     .accesskey = r
+
 menu-help-more-troubleshooting-info =
     .label = Dalšne informacije za rozwězowanje problemow
     .accesskey = D
+
 menu-help-troubleshooting-info =
     .label = Informacije za rozwězowanje problemow
     .accesskey = I
+
 menu-help-about-product =
     .label = Wó { -brand-short-name }
     .accesskey = W
+
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -65,9 +78,11 @@ menu-quit =
             [windows] k
            *[other] u
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } skóńcyś
+
 quit-app-shortcut =
     .key = s
 
@@ -97,33 +112,43 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Pismowe wjelikosć
     .accesskey = i
+
 menuitem-font-size-enlarge =
     .label = Pismowu wjelikosć pówětšyś
     .accesskey = m
+
 menuitem-font-size-reduce =
     .label = Pismowu wjelikosć pómjeńšyś
     .accesskey = l
+
 menuitem-font-size-reset =
     .label = Pismowu wjelikosć slědk stajiś
     .accesskey = d
+
 mail-uidensity-label =
     .label = Gustosć
     .accesskey = G
+
 mail-uidensity-compact =
     .label = Kompaktny
     .accesskey = K
+
 mail-uidensity-normal =
     .label = Normalny
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Dotyknjenje
     .accesskey = D
+
 mail-uidensity-default =
     .label = Standard
     .accesskey = S
+
 mail-uidensity-relaxed =
     .label = Njenapěty
     .accesskey = N
+
 menu-spaces-toolbar-button =
     .label = Rědka źělnych programow
     .accesskey = l

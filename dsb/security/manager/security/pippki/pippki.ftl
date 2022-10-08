@@ -8,18 +8,22 @@ password-quality-meter = Měridło kakosći gronidła
 
 change-device-password-window =
     .title = Gronidło změniś
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wěstotny rěd: { $tokenName }
 change-password-old = Aktualne gronidło:
 change-password-new = Nowe gronidło:
 change-password-reenter = Nowe gronidło (hyšći raz):
+
 pippki-failed-pw-change = Njejo móžno, gronidło změniś.
 pippki-incorrect-pw = Njejsćo pšawe gronidło zapódał. Pšosym wopytajśo hyšći raz.
 pippki-pw-change-ok = Gronidło jo se wuspěšnje změniło.
+
 pippki-pw-empty-warning = Waše skłaźone gronidła a priwatne kluce njebudu se nješćitaś.
 pippki-pw-erased-ok = Sćo swójo wulašował swójo gronidło.  { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Warnowanje! Sćo se rozsuźił, až njeby se gronidło wužywało. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Sćo tuchylu we FIPS-modusu. FIPS pomina se gronidło.
 
 ## Reset Primary Password dialog
@@ -27,12 +31,14 @@ pippki-pw-change2empty-in-fips-mode = Sćo tuchylu we FIPS-modusu. FIPS pomina s
 reset-primary-password-window =
     .title = Głowne gronidło slědk stajiś
     .style = width: 40em
+
 reset-primary-password-window2 =
     .title = Głowne gronidło slědk stajiś
     .style = min-width: 40em
 reset-password-button-label =
     .label = Slědk stajiś
 reset-primary-password-text = Jolic stajiśo swójo głowne gronidło slědk, zgubiju se wšykne waše składowane webowe a e-mailowe gronidła, wósobinske certifikaty a priwatne kluce. Cośo napšawdu swój głowne gronidło slědk stajiś?
+
 pippki-reset-password-confirmation-title = Głowne gronidło slědk stajiś
 pippki-reset-password-confirmation-message = Wašo głowne gronidło jo se slědk stajiło.
 
@@ -41,6 +47,7 @@ pippki-reset-password-confirmation-message = Wašo głowne gronidło jo se slěd
 download-cert-window =
     .title = Ześěgnjenje certifikata
     .style = width: 46em
+
 download-cert-window2 =
     .title = Ześěgnjenje certifikata
     .style = min-width: 46em
