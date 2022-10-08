@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Ngobrol">
 <!ENTITY goChatCmd.accesskey "N">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Pesan Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
 <!ENTITY folderMenu.label "Folder">

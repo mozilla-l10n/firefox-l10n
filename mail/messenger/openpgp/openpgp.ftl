@@ -233,9 +233,6 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 
-openpgp-key-details-title =
-    .title = Properti Kunci
-
 openpgp-key-details-signatures-tab =
     .label = Sertifikasi
 openpgp-key-details-structure-tab =
@@ -535,9 +532,6 @@ key-error-not-accepted-as-personal = Anda belum mengonfirmasi bahwa kunci dengan
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Fungsi yang Anda pilih tidak tersedia dalam mode luring. Pergilah daring dan coba lagi.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Kami tidak dapat menemukan kunci yang cocok dengan kriteria pencarian yang ditentukan.
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Kesalahan - perintah ekstraksi kunci gagal

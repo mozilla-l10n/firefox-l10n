@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cari
     .aria-label = Cari
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Cari lewat { $engine } atau masukkan alamat
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Cari atau masukkan alamat
     .title = Cari atau masukkan alamat
     .aria-label = Cari atau masukkan alamat
+
 newtab-search-box-text = Cari di Web
 newtab-search-box-input =
     .placeholder = Cari di web
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Edit Pintasan
 newtab-topsites-title-label = Judul
 newtab-topsites-title-input =
     .placeholder = Masukkan judul
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Ketik atau tempel URL
 newtab-topsites-url-validation = URL valid diperlukan
+
 newtab-topsites-image-url-label = URL Gambar Khusus
 newtab-topsites-use-image-link = Gunakan gambar khusus…
 newtab-topsites-image-validation = Gambar gagal dimuat. Coba URL lain.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Bersponsor
 newtab-menu-section-tooltip =
     .title = Buka menu
     .aria-label = Buka menu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Hapus
     .aria-label = Hapus
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -152,14 +158,17 @@ newtab-label-removed-bookmark = Markah dihapus
 newtab-label-recommended = Trending
 newtab-label-saved = Disimpan di { -pocket-brand-name }
 newtab-label-download = Terunduh
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Pesan Sponsor
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Disponsori oleh { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -198,6 +207,7 @@ newtab-section-header-pocket = Disarankan oleh { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Mulai menjelajah, dan kami akan menampilkan beberapa artikel bagus, video, dan halaman lain yang baru saja Anda kunjungi atau termarkah di sini.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -222,9 +232,11 @@ newtab-pocket-learn-more = Pelajari lebih lanjut
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } adalah bagian dari keluarga { -brand-product-name }
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Disimpan di { -pocket-brand-name }
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Muat lebih banyak cerita
 
@@ -235,6 +247,7 @@ newtab-pocket-last-card-title = Semua sudah terbaca!
 newtab-pocket-last-card-desc = Periksa lagi nanti untuk yang lainnya.
 newtab-pocket-last-card-image =
     .alt = Semua sudah terbaca
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Simpan
 newtab-pocket-saved = Disimpan
