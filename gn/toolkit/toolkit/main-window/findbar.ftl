@@ -31,7 +31,35 @@ findbar-entire-word =
     .label = Ñe’ẽ orekopáva
     .accesskey = W
     .tooltiptext = Eheka ñe'ẽ oĩmbáva añónte
+findbar-not-found = Ñe’ẽrysýi ojejuhu’ỹva
+findbar-wrapped-to-top = Ojehupyty kuatiarogue paha, ojeku’ejeýta oñepyrũha guive
+findbar-wrapped-to-bottom = Ojehupity kuatiarogue ñepyrũ, ojeku’ejeýta opaha guive
 findbar-normal-find =
     .placeholder = Kuatiaroguépe jeheka
+findbar-fast-find =
+    .placeholder = Jeheka pya’e
+findbar-fast-find-links =
+    .placeholder = Jeheka pya’e (juajuhápe añoite)
 findbar-case-sensitive-status =
     .value = (Ojesarekóva taiguasúre)
+findbar-match-diacritics-status =
+    .value = (Diacrítico ñembosaráipe)
+findbar-entire-word-status =
+    .value = (Ñe’ẽ oĩmbáva añónte)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } ha { $total } ñeha’ã
+           *[other] { $current } ha { $total } ñeha’ã
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Hetave { $limit } ñeha’ã
+           *[other] Hetave { $limit } ñeha’ã
+        }
