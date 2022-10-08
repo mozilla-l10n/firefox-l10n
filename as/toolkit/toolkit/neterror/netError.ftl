@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-page-title = পৃষ্ঠা ল'ড কৰোঁতে সমস্যা
 
 ## Error page actions
 
