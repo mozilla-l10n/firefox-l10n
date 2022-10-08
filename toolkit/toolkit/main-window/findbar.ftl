@@ -34,3 +34,20 @@ findbar-entire-word =
 findbar-not-found = Fann ikkje frasen
 findbar-wrapped-to-top = Nådde botnen av sida, held fram frå toppen
 findbar-wrapped-to-bottom = Nådde toppen av sida, held fram frå botnen
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } av { $total } treff
+           *[other] { $current } av { $total } treff
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Meir enn { $limit } treff
+           *[other] Meir enn { $limit } treff
+        }
