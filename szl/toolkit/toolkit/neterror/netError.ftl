@@ -10,6 +10,7 @@ certerror-page-title = Pozōr: potyncjalne zagrożynie bezpieczyństwa
 certerror-sts-page-title = Niypołōnczōne: potyncjalne zagrożynie bezpieczyństwa
 neterror-blocked-by-policy-page-title = Zaszperowano strōna
 neterror-captive-portal-page-title = Logowanie do neca
+neterror-dns-not-found-title = Niy szło znojś serwera
 neterror-malformed-uri-page-title = Zło adresa URL
 
 ## Error page actions
