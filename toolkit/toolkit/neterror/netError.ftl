@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Problemas al cargar la página
+certerror-page-title = Advertencia: Riesgo potencial de seguridad a continuación
 certerror-sts-page-title = No se conectó: Potencial problema de seguridad
 neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Iniciar sesión en la red
@@ -21,6 +22,7 @@ neterror-open-portal-login-page-button = Abrir página de ingreso a la red
 neterror-override-exception-button = Aceptar el riesgo y continuar
 neterror-pref-reset-button = Restaurar ajustes predeterminados
 neterror-return-to-previous-page-button = Regresar
+neterror-return-to-previous-page-recommended-button = Volver (recomendado)
 neterror-try-again-button = Intentar de nuevo
 neterror-view-certificate-link = Ver certificado
 
@@ -93,11 +95,15 @@ neterror-network-protocol-error-intro = La página que estás intentando ver no 
 neterror-network-protocol-error-contact-website = Por favor, contacta con los propietarios del sitio web para informarles de este problema.
 certerror-expired-cert-second-para = Es probable que el certificado del sitio esté expirado, lo que previene a { -brand-short-name } de conectarse de forma segura. Si visitas este sitio, los atacantes pueden intentar robar tu información como contraseñas, correos electrónicos o detalles de tu tarjeta de crédito.
 certerror-expired-cert-sts-second-para = Probablemente el certificado del sitio ha expirado, impidiendo que { -brand-short-name } se conecte con seguridad.
+certerror-what-can-you-do-about-it-title = ¿Qué puedes hacer al respecto?
+certerror-unknown-issuer-what-can-you-do-about-it-website = Es probable que haya un problema con el sitio web y no hay nada que puedas hacer al respecto.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si estás usando una red corporativa o un software antivirus, puedes contactarte con el equipo de asistencia técnica. También puedes notificarle al administrador del sitio sobre el problema.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = El reloj de tu computadora está ajustado a las { DATETIME($now, dateStyle: "medium") }. Asegúrate de que tu computadora está ajustada a la fecha, hora y zona horaria correctas en los ajustes de tu sistema, y luego recarga <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Si tu reloj ya está ajustado a la hora correcta, el sitio web probablemente está mal configurado, y no hay nada que puedas hacer para resolverlo. Podrías intentar notificar al administrador del sitio sobre el problema.
+certerror-bad-cert-domain-what-can-you-do-about-it = Es probable que haya un problema con el sitio web, y no hay nada que puedas hacer para resolverlo. Puedes notificar al administrador del sitio web sobre el problema.
 certerror-mitm-what-can-you-do-about-it-antivirus = Si tu antivirus tiene una característica que escanea conexiones encriptadas (normalmente llamado “web scanning” o “https scanning”), puedes desactivar esta característica. Si no funciona, puedes eliminar y reinstalar el antivirus.
 certerror-mitm-what-can-you-do-about-it-corporate = Si estás en una red corporativa, puedes comunicarte con el departamento de informática.
 # Variables:
@@ -106,3 +112,6 @@ certerror-mitm-what-can-you-do-about-it-attack = Si no estás familiarizado con 
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack-sts = Si no estás familiarizado con <b>{ $mitm }</b>, entonces esto puede ser un ataque y no hay nada que puedas hacer para acceder al sitio.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tiene una política de seguridad llamada HTTP Strict transporte Security (HSTS), que significa que { -brand-short-name } solo puede conectarse a él con seguridad. No puedes agregar una excepción para visitar este sitio.
