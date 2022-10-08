@@ -13,6 +13,7 @@ messenger-window-restore-down-button =
     .tooltiptext = Restaurer
 messenger-window-close-button =
     .tooltiptext = Fermer
+
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -20,6 +21,7 @@ unread-messages-os-tooltip =
         [one] 1 message non lu
        *[other] { $count } messages non lus
     }
+
 about-rights-notification-text = { -brand-short-name } est un logiciel libre et open source, réalisé par une communauté internationale de milliers de personnes.
 
 ## Content tabs
@@ -36,9 +38,11 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Modules complémentaires et thèmes
     .tooltiptext = Gestion de vos modules complémentaires
+
 quick-filter-toolbarbutton =
     .label = Filtre rapide
     .tooltiptext = Filtrer les messages
+
 redirect-msg-button =
     .label = Rediriger
     .tooltiptext = Rediriger le message sélectionné
@@ -48,8 +52,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Barre d’outils du panneau des dossiers
     .accesskey = d
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Options du panneau des dossiers
+
 folder-pane-header-label = Dossiers
 
 ## Folder Toolbar Header Popup
@@ -57,21 +63,27 @@ folder-pane-header-label = Dossiers
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Masquer la barre d’outils
     .accesskey = M
+
 show-all-folders-label =
     .label = Tous les dossiers
     .accesskey = T
+
 show-unread-folders-label =
     .label = Dossiers non lus
     .accesskey = n
+
 show-favorite-folders-label =
     .label = Dossiers préférés
     .accesskey = f
+
 show-smart-folders-label =
     .label = Dossiers unifiés
     .accesskey = u
+
 show-recent-folders-label =
     .label = Dossiers récents
     .accesskey = r
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Affichage compact
     .accesskey = c
@@ -81,6 +93,7 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Rediriger
     .accesskey = d
+
 menu-file-save-as-file =
     .label = Fichier…
     .accesskey = F
@@ -89,16 +102,22 @@ menu-file-save-as-file =
 
 appmenu-save-as-file =
     .label = Fichier…
+
 appmenu-settings =
     .label = Paramètres
+
 appmenu-addons-and-themes =
     .label = Modules complémentaires et thèmes
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Mode de dépannage…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Désactiver le mode de dépannage
+
 appmenu-help-more-troubleshooting-info =
     .label = Plus d’informations de dépannage
+
 appmenu-redirect-msg =
     .label = Rediriger
 
@@ -106,12 +125,14 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Rediriger
+
 mail-context-delete-messages =
     .label =
         { $count ->
             [one] Supprimer le message
            *[other] Supprimer les messages sélectionnés
         }
+
 context-menu-decrypt-to-folder =
     .label = Copier comme déchiffré vers
     .accesskey = C
@@ -120,9 +141,11 @@ context-menu-decrypt-to-folder =
 
 other-action-redirect-msg =
     .label = Rediriger
+
 message-header-msg-flagged =
     .title = Suivi
     .aria-label = Suivi
+
 # Variables:
 # $address (String) - The email address of the recipient this picture belongs to.
 message-header-recipient-avatar =
@@ -131,28 +154,38 @@ message-header-recipient-avatar =
 ## Message header cutomize panel
 
 message-header-customize-panel-title = Paramètres d’en-tête des messages
+
 message-header-customize-button-style =
     .value = Style du bouton
     .accesskey = B
+
 message-header-button-style-default =
     .label = Icônes et texte
+
 message-header-button-style-text =
     .label = Texte
+
 message-header-button-style-icons =
     .label = Icônes
+
 message-header-show-sender-full-address =
     .label = Toujours afficher l’adresse complète de l’expéditeur
     .accesskey = c
+
 message-header-show-sender-full-address-description = L’adresse électronique sera affichée sous le nom d’affichage.
+
 message-header-show-recipient-avatar =
     .label = Afficher la photo du profil de l’expéditeur
     .accesskey = p
+
 message-header-hide-label-column =
     .label = Masquer la colonne des étiquettes
     .accesskey = M
+
 message-header-large-subject =
     .label = Grand sujet
     .accesskey = s
+
 message-header-all-headers =
     .label = Afficher tous les en-têtes
     .accesskey = t
@@ -173,9 +206,11 @@ toolbar-context-menu-remove-extension =
 addon-removal-title = Supprimer { $name } ?
 addon-removal-confirmation-button = Supprimer
 addon-removal-confirmation-message = Supprimer { $name } ainsi que sa configuration et ses données de { -brand-short-name } ?
+
 caret-browsing-prompt-title = Navigation au curseur
 caret-browsing-prompt-text = L’appui sur F7 active ou désactive la navigation au curseur. Cette fonction place un curseur déplaçable dans certains contenus, permettant de sélectionner du texte au clavier. Désirez-vous activer la navigation au curseur ?
 caret-browsing-prompt-check-text = Ne plus demander à l’avenir.
+
 repair-text-encoding-button =
     .label = Réparer l’encodage du texte
     .tooltiptext = Détermine l’encodage correct du texte en fonction du contenu
@@ -196,36 +231,51 @@ spaces-toolbar-element =
     .toolbarname = Barre d’espaces
     .aria-label = Barre d’espaces
     .aria-description = Barre d’outils verticale pour passer d’un espace à un autre. Utilisez les flèches pour naviguer entre les boutons disponibles.
+
 spaces-toolbar-button-mail2 =
     .title = Courrier
+
 spaces-toolbar-button-address-book2 =
     .title = Carnet d’adresses
+
 spaces-toolbar-button-calendar2 =
     .title = Agenda
+
 spaces-toolbar-button-tasks2 =
     .title = Tâches
+
 spaces-toolbar-button-chat2 =
     .title = Messagerie instantanée
+
 spaces-toolbar-button-overflow =
     .title = Plus d’espaces…
+
 spaces-toolbar-button-settings2 =
     .title = Paramètres
+
 spaces-toolbar-button-hide =
     .title = Masquer la barre d’espaces
+
 spaces-toolbar-button-show =
     .title = Afficher la barre d’espaces
+
 spaces-context-new-tab-item =
     .label = Ouvrir dans un nouvel onglet
+
 spaces-context-new-window-item =
     .label = Ouvrir dans une nouvelle fenêtre
+
 # Variables:
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Aller à { $tabName }
+
 settings-context-open-settings-item2 =
     .label = Paramètres
+
 settings-context-open-account-settings-item2 =
     .label = Paramètres des comptes
+
 settings-context-open-addons-item2 =
     .label = Modules complémentaires et thèmes
 
@@ -233,20 +283,28 @@ settings-context-open-addons-item2 =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Ouvrir le menu des espaces
+
 spaces-pinned-button-menuitem-mail2 =
     .label = { spaces-toolbar-button-mail2.title }
+
 spaces-pinned-button-menuitem-address-book2 =
     .label = { spaces-toolbar-button-address-book2.title }
+
 spaces-pinned-button-menuitem-calendar2 =
     .label = { spaces-toolbar-button-calendar2.title }
+
 spaces-pinned-button-menuitem-tasks2 =
     .label = { spaces-toolbar-button-tasks2.title }
+
 spaces-pinned-button-menuitem-chat2 =
     .label = { spaces-toolbar-button-chat2.title }
+
 spaces-pinned-button-menuitem-settings2 =
     .label = { spaces-toolbar-button-settings2.title }
+
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }
+
 # Variables:
 # $count (Number) - Number of unread messages.
 chat-button-unread-messages = { $count }
@@ -260,16 +318,23 @@ chat-button-unread-messages = { $count }
 
 menuitem-customize-label =
     .label = Personnaliser…
+
 spaces-customize-panel-title = Paramètres de la barre d’espaces
+
 spaces-customize-background-color = Couleur du fond
+
 spaces-customize-icon-color = Couleur des boutons
+
 # The background color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-background-color = Couleur de fond du bouton sélectionné
+
 # The icon color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-text-color = Couleur du bouton sélectionné
+
 spaces-customize-button-restore = Configuration par défaut
     .accesskey = C
+
 customize-panel-button-save = Terminé
     .accesskey = T

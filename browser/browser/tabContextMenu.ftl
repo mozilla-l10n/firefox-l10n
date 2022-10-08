@@ -105,6 +105,7 @@ tab-context-move-tabs =
            *[other] Déplacer les onglets
         }
     .accesskey = c
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

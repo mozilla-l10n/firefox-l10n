@@ -24,6 +24,7 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Tous les carnets d’adresses
 all-address-books = Tous les carnets d’adresses
+
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -31,6 +32,7 @@ about-addressbook-card-count = Nombre total de contacts du carnet { $name } : {
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = Nombre total de contacts de tous les carnets d’adresses : { $count }
+
 about-addressbook-books-context-properties =
     .label = Propriétés
 about-addressbook-books-context-edit-list =
@@ -49,6 +51,7 @@ about-addressbook-books-context-remove =
     .label = Supprimer
 about-addressbook-books-context-startup-default =
     .label = Annuaire par défaut
+
 about-addressbook-confirm-delete-book-title = Supprimer le carnet d’adresses
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -66,14 +69,17 @@ about-addressbook-search =
     .placeholder = Rechercher dans { $name }
 about-addressbook-search-all =
     .placeholder = Rechercher dans tous les carnets d’adresses
+
 about-addressbook-sort-button2 =
     .title = Options d’affichage de la liste
+
 about-addressbook-name-format-display =
     .label = Nom à afficher
 about-addressbook-name-format-firstlast =
     .label = Prénom Nom
 about-addressbook-name-format-lastfirst =
     .label = Nom, Prénom
+
 about-addressbook-sort-name-ascending =
     .label = Trier par nom (A > Z)
 about-addressbook-sort-name-descending =
@@ -82,6 +88,7 @@ about-addressbook-sort-email-ascending =
     .label = Trier par adresse électronique (A > Z)
 about-addressbook-sort-email-descending =
     .label = Trier par adresse électronique (Z > A)
+
 about-addressbook-horizontal-layout =
     .label = Passer à la disposition horizontale
 about-addressbook-vertical-layout =
@@ -117,8 +124,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Carnet d’adresses
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = Écrire
+
 about-addressbook-confirm-delete-mixed-title = Supprimer des contacts et des listes
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -190,19 +199,27 @@ about-addressbook-selection-contacts-header = { $count } contacts sélectionné
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = { $count } listes sélectionnées
+
 about-addressbook-details-edit-photo =
     .title = Modifier la photo du contact
+
 about-addressbook-new-contact-header = Nouveau contact
+
 about-addressbook-prefer-display-name = Préférer le nom à afficher plutôt que l’en-tête de message
+
 about-addressbook-write-action-button = Écrire
 about-addressbook-event-action-button = Évènement
 about-addressbook-search-action-button = Rechercher
+
 about-addressbook-new-list-action-button = Nouvelle liste
+
 about-addressbook-begin-edit-contact-button = Modifier
 about-addressbook-delete-edit-contact-button = Supprimer
 about-addressbook-cancel-edit-contact-button = Annuler
 about-addressbook-save-edit-contact-button = Enregistrer
+
 about-addressbook-add-contact-to = Ajouter à :
+
 about-addressbook-details-email-addresses-header = Adresses électroniques
 about-addressbook-details-phone-numbers-header = Numéros de téléphone
 about-addressbook-details-addresses-header = Adresses
@@ -210,12 +227,14 @@ about-addressbook-details-notes-header = Notes
 about-addressbook-details-impp-header = Messagerie instantanée
 about-addressbook-details-websites-header = Sites web
 about-addressbook-details-other-info-header = Autres informations
+
 about-addressbook-entry-type-work = Professionnel
 about-addressbook-entry-type-home = Domicile
 about-addressbook-entry-type-fax = Fax
 # Or "Mobile"
 about-addressbook-entry-type-cell = Téléphone portable
 about-addressbook-entry-type-pager = Pager
+
 about-addressbook-entry-name-birthday = Anniversaire
 about-addressbook-entry-name-anniversary = Date d’anniversaire
 about-addressbook-entry-name-title = Fonction
@@ -223,10 +242,12 @@ about-addressbook-entry-name-role = Rôle
 about-addressbook-entry-name-organization = Société
 about-addressbook-entry-name-website = Site web
 about-addressbook-entry-name-time-zone = Fuseau horaire
+
 about-addressbook-entry-name-custom1 = Divers 1
 about-addressbook-entry-name-custom2 = Divers 2
 about-addressbook-entry-name-custom3 = Divers 3
 about-addressbook-entry-name-custom4 = Divers 4
+
 about-addressbook-unsaved-changes-prompt-title = Modifications non enregistrées
 about-addressbook-unsaved-changes-prompt = Voulez-vous enregistrer vos modifications avant de quitter la vue d’édition ?
 
@@ -236,6 +257,7 @@ about-addressbook-photo-drop-target = Déposez ou collez une photo ici, ou cliqu
 about-addressbook-photo-drop-loading = Chargement de la photo…
 about-addressbook-photo-drop-error = Échec du chargement de la photo.
 about-addressbook-photo-filepicker-title = Sélectionner un fichier d’image
+
 about-addressbook-photo-discard = Supprimer la photo existante
 about-addressbook-photo-cancel = Annuler
 about-addressbook-photo-save = Enregistrer

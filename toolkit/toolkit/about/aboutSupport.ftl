@@ -7,6 +7,7 @@ page-subtitle =
     Cette page contient des informations techniques qui pourraient être utiles quand vous essayez
     de résoudre un problème. Si vous cherchez des réponses à des questions courantes
     sur { -brand-short-name }, veuillez consulter notre <a data-l10n-name="support-link">site web d’assistance</a>.
+
 crashes-title = Rapports de plantage
 crashes-id = Identifiant du rapport
 crashes-send-date = Date d’envoi
@@ -77,10 +78,12 @@ app-basics-key-mozilla = Clé du service de localisation de Mozilla
 app-basics-safe-mode = Mode sans échec
 app-basics-memory-size = Taille de la mémoire (RAM)
 app-basics-disk-available = Espace disque disponible
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Afficher dans le Finder
@@ -199,6 +202,7 @@ report-crash-for-days =
         [one] Rapports de plantage de la veille
        *[other] Rapports de plantage des { $days } derniers jours
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -206,6 +210,7 @@ crashes-time-minutes =
         [one] Il y a { $minutes } minute
        *[other] Il y a { $minutes } minutes
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -213,6 +218,7 @@ crashes-time-hours =
         [one] Il y a { $hours } heure
        *[other] Il y a { $hours } heures
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -220,6 +226,7 @@ crashes-time-days =
         [one] Il y a { $days } jour
        *[other] Il y a { $days } jours
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -227,6 +234,7 @@ pending-reports =
         [one] Tous les rapports de plantage (y compris { $reports } rapport en attente d’un plantage ayant eu lieu dans l’intervalle)
        *[other] Tous les rapports de plantage (y compris { $reports } rapports en attente de plantages ayant eu lieu dans l’intervalle)
     }
+
 raw-data-copied = Informations brutes copiées dans le presse-papiers
 text-copied = Texte copié dans le presse-papiers
 
@@ -239,9 +247,11 @@ blocked-mismatched-version = Bloqué pour la version de votre pilote graphique c
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqué pour la version de votre pilote graphique. Essayez de faire la mise à jour de votre pilote graphique vers la version { $driverVersion } ou supérieure.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramètres ClearType
+
 compositing = Composition
 hardware-h264 = Décodage matériel H264
 main-thread-no-omtc = Fil d’exécution principal, pas d’OMTC
@@ -256,6 +266,7 @@ virtual-monitor-disp = Affichage virtuel
 
 found = Présente
 missing = Manquante
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Description
@@ -278,15 +289,19 @@ webgl2-renderer = Pilote WebGL 2 - Rendu
 webgl2-version = Pilote WebGL 2 - Version
 webgl2-driver-extensions = Pilote WebGL 2 - Extensions
 webgl2-extensions = WebGL 2 - Extensions
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Mis en liste de blocage en raison de problèmes connus : <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Mis sur liste de blocage ; code d’erreur { $failureCode }
+
 d3d11layers-crash-guard = Compositeur D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Décodeur vidéo WMF VPX
+
 reset-on-next-restart = Réinitialisé au prochain démarrage
 gpu-process-kill-button = Arrêter le processus GPU
 gpu-device-reset = Réinitialisation de l’appareil
@@ -296,8 +311,10 @@ content-uses-tiling = Utilise le pavage (contenu)
 off-main-thread-paint-enabled = Painting en dehors du fil d’exécution principal activé
 off-main-thread-paint-worker-count = Nombre de workers participant au painting en dehors du fil d’exécution principal
 target-frame-rate = Fréquence d’images cible
+
 min-lib-versions = Version minimale attendue
 loaded-lib-versions = Version utilisée
+
 has-seccomp-bpf = Seccomp-BPF (Filtrage des appels système)
 has-seccomp-tsync = Synchronisation du fil d’exécution Seccomp
 has-user-namespaces = Espace de noms utilisateur
@@ -311,15 +328,18 @@ sandbox-proc-type-content = contenu
 sandbox-proc-type-file = contenu du fichier
 sandbox-proc-type-media-plugin = plugin multimédia
 sandbox-proc-type-data-decoder = décodeur de données
+
 startup-cache-title = Cache de démarrage
 startup-cache-disk-cache-path = Chemin du cache disque
 startup-cache-ignore-disk-cache = Ignorer le cache disque
 startup-cache-found-disk-cache-on-init = Cache disque trouvé à l’initialisation
 startup-cache-wrote-to-disk-cache = Écriture dans le cache disque
+
 launcher-process-status-0 = Activé
 launcher-process-status-1 = Désactivé en raison d’une défaillance
 launcher-process-status-2 = Désactivé de force
 launcher-process-status-unknown = État inconnu
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -339,6 +359,7 @@ fission-status-enabled-by-user-pref = Activées par l’utilisateur
 fission-status-disabled-by-user-pref = Désactivées par l’utilisateur
 fission-status-disabled-by-e10s-other = Désactivées par E10s
 fission-status-enabled-by-rollout = Activé par déploiement progressif
+
 async-pan-zoom = Zoom/Panoramique asynchrones
 apz-none = aucun
 wheel-enabled = entrée molette activée
@@ -375,6 +396,7 @@ support-remote-experiments-title = Expériences à distance
 support-remote-experiments-name = Nom
 support-remote-experiments-branch = Branche expérimentale
 support-remote-experiments-see-about-studies = Consultez <a data-l10n-name="support-about-studies-link">about:studies</a> pour plus d’informations, notamment sur la façon de désactiver des tests individuels ou d’empêcher { -brand-short-name } d’exécuter ce  type d’expérience dans le futur.
+
 support-remote-features-title = Fonctionnalités distantes
 support-remote-features-name = Nom
 support-remote-features-status = État
