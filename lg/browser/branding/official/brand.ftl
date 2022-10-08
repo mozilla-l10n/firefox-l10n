@@ -29,8 +29,8 @@
 
 -brand-shorter-name = Firefox
 -brand-short-name = Firefox
+-brand-shortcut-name = Firefox
+
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ne'bipapi byayo bye bituunda Mozilla Foundation.
--brand-shortcut-name = Firefox
-

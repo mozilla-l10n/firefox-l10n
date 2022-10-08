@@ -4,89 +4,124 @@
 
 certmgr-title =
     .title = Santifikati Efunga
+
 certmgr-tab-mine =
     .label = Zasantifikati zo
+
 certmgr-tab-people =
     .label = Wantu
+
 certmgr-tab-servers =
     .label = Kompyuta zifuuga zinazo
+
 certmgr-tab-ca =
     .label = Obunyiza
+
 certmgr-edit-ca-cert =
     .title = Kyusa enteeka ya satifikati eyekyika kya CA
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = Kyusa enteeka ya satifikati eyekyika kya CA
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = Kyusa enteegeka zo kwesiga:
+
 certmgr-edit-cert-trust-ssl =
     .label = Eno Satifiketi esoobola okwawula ebyapa.
+
 certmgr-edit-cert-trust-email =
     .label = Santifikati eno enyiza kwogera ku mukozesa wa mayiru.
+
 certmgr-delete-cert =
     .title = Sagula santifikati
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Sagula santifikati
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-name =
     .label = Erinya rya Santifikati
+
 certmgr-cert-server =
     .label = Kompyuta efunga zinazo
+
 certmgr-override-lifetime =
     .label = Embbagga dyo budde
+
 certmgr-token-name =
     .label = Security Device
+
 certmgr-expires-label =
     .label = Expires On
+
 certmgr-email =
     .label = E-Mail Address
+
 certmgr-serial =
     .label = Serial Number
+
 certmgr-view =
     .label = Legera…
     .accesskey = L
+
 certmgr-edit =
     .label = Kyusa Enesiga…
     .accesskey = K
+
 certmgr-export =
     .label = Okuwerezza ebweru…
     .accesskey = k
+
 certmgr-delete =
     .label = Saggula…
     .accesskey = S
+
 certmgr-delete-builtin =
     .label = Sangula oba Jjawo Obwesige…
     .accesskey = S
+
 certmgr-backup =
     .label = Jjamu copi otteereke…
     .accesskey = J
+
 certmgr-backup-all =
     .label = Jjamu copi otteereke ya zona…
     .accesskey = m
+
 certmgr-restore =
     .label = Okujja ebweru…
     .accesskey = k
+
 certmgr-add-exception =
     .label = Ggataa Okundawo…
     .accesskey = k
+
 exception-mgr =
     .title = Ggataa Ebyokwerida Okundawo
+
 exception-mgr-extra-button =
     .label = Kakasa Okuyisa Ebyokwerinda
     .accesskey = a
+
 exception-mgr-supplemental-warning = Zabaki, amateerekero, ne wakale awalala awakumee tteewa kusaba kukola kino.
+
 exception-mgr-cert-location-url =
     .value = Wosaggirwa:
+
 exception-mgr-cert-location-download =
     .label = Leeta santikate
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = Leegere…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Ekyekalakalira tteereka okundawo kino
     .accesskey = E
+
 pk11-bad-password = The password entered was incorrect.
 pkcs12-decode-err = Failed to decode the file.  Either it is not in PKCS #12 format, has been corrupted, or the password you entered was incorrect.
 pkcs12-unknown-err-restore = Failed to restore the PKCS #12 file for unknown reasons.
@@ -119,10 +154,14 @@ delete-user-cert-title =
     .title = Sangula Santifikati zo
 delete-user-cert-confirm = Okakasa oyagala ku sangula santifikati zino?
 delete-user-cert-impact = Bwosangula emu ku santifikati zo, tojjakunddamu kujjikozesako kwogerako.
+
+
 delete-ca-cert-title =
     .title = Sangula oba Jjamu satifiketi eza CA
 delete-ca-cert-confirm = Osabye okujjawo zino satifiketi eza CA. Ku satifiketi eza zimbibwa munda obwesige bwona bujakuvawo, ekyikosa mu ngeri yemu. Okakasa oyagala okujjawo oba okujjamu obwesige?
 delete-ca-cert-impact = Bwono sangula oba okujjawo afulumya satifiketi, plogulamu eno tejjakudamu kwesiga satifiketi yona gyefulumiza.
+
+
 delete-email-cert-title =
     .title = Sangula Satifikati ya i-mayilu
 delete-email-cert-confirm = Okakasa oyagala ku sangula santifikati i-mayilu za bantu bano?
