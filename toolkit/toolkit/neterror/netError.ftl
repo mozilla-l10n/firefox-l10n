@@ -21,6 +21,7 @@ neterror-learn-more-link = En savoir plus…
 neterror-open-portal-login-page-button = Ouvrir la page de connexion du réseau
 neterror-pref-reset-button = Restaurer les paramètres par défaut
 neterror-return-to-previous-page-button = Retour
+neterror-return-to-previous-page-recommended-button = Retour (recommandé)
 neterror-try-again-button = Réessayer
 
 ##
@@ -78,6 +79,7 @@ neterror-clock-skew-error = Votre ordinateur pense qu’il est { DATETIME($now, 
 neterror-network-protocol-error-intro = La page à laquelle vous essayez d’accéder ne peut pas être affichée, car une erreur du protocole réseau a été détectée.
 neterror-network-protocol-error-contact-website = Veuillez contacter les propriétaires du site web pour les informer de ce problème.
 certerror-expired-cert-sts-second-para = Le certificat du site a probablement expiré, ce qui empêche { -brand-short-name } d’établir une connexion sécurisée.
+certerror-what-can-you-do-about-it-title = Que pouvez-vous faire ?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Le problème vient probablement du site web, donc vous ne pouvez pas y remédier.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si vous naviguez sur un réseau d’entreprise ou si vous utilisez un antivirus, vous pouvez contacter les équipes d’assistance pour obtenir de l’aide. Vous pouvez également signaler le problème aux personnes qui administrent le site web.
 # Variables:
@@ -94,3 +96,6 @@ certerror-mitm-what-can-you-do-about-it-attack = Si vous ne reconnaissez pas <b>
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack-sts = Si vous ne reconnaissez pas <b>{ $mitm }</b>, alors il pourrait s’agir d’une attaque et il n’est pas possible d’accéder au site.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> a recours à une stratégie de sécurité HTTP Strict Transport Security (HSTS), une connexion sécurisée est obligatoire pour y accéder. Vous ne pouvez pas ajouter d’exception pour visiter ce site.
