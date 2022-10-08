@@ -19,6 +19,7 @@ neterror-advanced-button = Avançado…
 neterror-copy-to-clipboard-button = Copiar texto para área de transferência
 neterror-learn-more-link = Saiba mais…
 neterror-open-portal-login-page-button = Abrir página de acesso à rede
+neterror-override-exception-button = Aceitar o risco e continuar
 neterror-pref-reset-button = Restaurar configurações padrão
 neterror-return-to-previous-page-button = Voltar
 neterror-return-to-previous-page-recommended-button = Voltar (recomendado)
