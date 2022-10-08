@@ -18,3 +18,7 @@ callout-firefox-view-recently-closed-subtitle = Tutaj w magiczny sposób pojawi
 callout-firefox-view-colorways-title = Dodaj odrobinę koloru
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Wybierz odcień kolorystyki, który do Ciebie pasuje. Tylko w przeglądarce { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Poznaj nasze najnowsze kolorystyki
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
