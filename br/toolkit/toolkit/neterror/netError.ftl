@@ -38,6 +38,13 @@ neterror-load-error-try-again = Marteze n'eo ket hegerz al lec'hienn evit un neb
 neterror-load-error-connection = Ma n'oc'h ket gouest da verdeiñ war lec'hiennoù all, gwiriit kennaskañ hoc'h urzhiataer ouzh ar rouedad.
 neterror-load-error-firewall = Ma'z eo gwaredet hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi, gwiriit ez eo aotreet { -brand-short-name } da gennaskañ ouzh ar rouedad
 neterror-captive-portal = Ret eo deoc'h kennaskañ d'ar rouedad-mañ a-raok bezañ gouest da haeziñ an Internet.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Hag e felle deoc'h mont da <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>M'ho peus skrivet ar chomlec'h mat e c'hallit :</strong>
+neterror-dns-not-found-hint-try-again = Klask en-dro diwezhatoc'h
+neterror-dns-not-found-hint-check-network = Gweredekait oc'h kevreet mat ouzh ar rouedad
+neterror-dns-not-found-hint-firewall = Gweredekait en deus { -brand-short-name } an aotre da vont war ar web (kevreet e c'hallfec'h bezañ, met a-dreñv ur maltouter)
 neterror-file-not-found-filename = Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.
 neterror-file-not-found-moved = Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.
 neterror-access-denied = Gallout a ra bezañ dilamet, dilec'hiet, pe n'eus ket ar gwirioù a-zere evit an haeziñ.
