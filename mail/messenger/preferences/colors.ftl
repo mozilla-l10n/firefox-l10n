@@ -9,44 +9,34 @@ colors-dialog-window =
             [macos] width: 41em !important
            *[other] width: 38em !important
         }
-
+colors-dialog-window2 =
+    .title = Colores
 colors-dialog-legend = Texto y fondo
-
 text-color-label =
     .value = Texto:
     .accesskey = T
-
 background-color-label =
     .value = Fondo:
     .accesskey = B
-
 use-system-colors =
     .label = Usar colores del sistema
     .accesskey = s
-
 colors-link-legend = Colores de enlace
-
 link-color-label =
     .value = Enlaces sin visitar:
     .accesskey = L
-
 visited-link-color-label =
     .value = Enlaces visitados:
     .accesskey = V
-
 underline-link-checkbox =
     .label = Enlaces subrayados
     .accesskey = U
-
 override-color-label =
     .value = Anular los colores especificados por el contenido con mis selecciones:
     .accesskey = O
-
 override-color-always =
     .label = Siempre
-
 override-color-auto =
     .label = Solamente con temas de alto contraste
-
 override-color-never =
     .label = Nunca
