@@ -4,6 +4,7 @@
 
 common-dialog-username =
     .value = Sivɨ ñɨvɨ
+
 common-dialog-copy-cmd =
     .label = Tɨɨn
     .accesskey = C

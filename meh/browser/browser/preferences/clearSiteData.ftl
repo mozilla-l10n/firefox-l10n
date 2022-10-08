@@ -5,11 +5,14 @@
 clear-site-data-window =
     .title = Sno datos
     .style = width: 35em
+
 clear-site-data-window2 =
     .title = Sno datos
     .style = min-width: 35em
+
 clear-site-data-close-key =
     .key = W
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
@@ -18,6 +21,7 @@ clear-site-data-close-key =
 clear-site-data-cookies-with-data =
     .label = Cookies jíí datos sitio ({ $amount } { $unit })
     .accesskey = S
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -26,6 +30,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Cookies ji datos nuu ya´a
     .accesskey = C
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
@@ -34,6 +39,7 @@ clear-site-data-cookies-empty =
 clear-site-data-cache-with-data =
     .label = Tu'un web ji caché ({ $amount } { $unit })
     .accesskey = W
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -42,7 +48,9 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Tu´un web nuu caché
     .accesskey = w
+
 clear-site-data-cache-info = Nejika da nuu web nachu´un tuku tutu natava ji datos
+
 clear-site-data-dialog =
     .buttonlabelaccept = Sno
     .buttonaccesskeyaccept = l

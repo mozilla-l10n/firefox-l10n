@@ -228,6 +228,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = Da sukua ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Tee a ta´a ini noo´o
@@ -725,3 +729,6 @@ restore-session-startup-suggestion-button = Xituvi kua
 data-reporting-notification-button =
     .label = Kaji naku kuvi kua´a
     .accesskey = C
+
+## Unified extensions (toolbar) button
+

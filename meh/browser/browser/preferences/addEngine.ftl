@@ -5,15 +5,22 @@
 add-engine-window =
     .title = Chisó ka̱a̱ nánuku
     .style = width: 32em;
+
 add-engine-window2 =
     .title = Chisó ka̱a̱ nánuku
     .style = min-width: 32em;
+
 add-engine-button = Chisó iin ka̱a̱ nánuku kuvi noo'o ni'i
+
 add-engine-name = Sivɨ ka̱a̱ nánuku
+
 add-engine-alias = Alias
+
 add-engine-url = URL ka̱a̱, ni'i %s je ntu ni'i tu'un nánuku
+
 add-engine-dialog =
     .buttonlabelaccept = Chisó ka̱a̱ nánuku
     .buttonaccesskeyaccept = A
+
 engine-name-exists = A íyo iin ka̱a̱ nánuku ji sivɨ a tajinu
 engine-alias-exists = A íyo iin ka̱a̱ nánuku ji sivɨ a tajinu

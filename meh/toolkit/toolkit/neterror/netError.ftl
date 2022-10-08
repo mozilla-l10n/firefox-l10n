@@ -21,6 +21,8 @@ neterror-view-certificate-link = Kune´ya certificado
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } íyo iin a sá´á ntu kuvi síne página ya´a.
+
 neterror-load-error-try-again = Sa̱naan sitio ya´a ntu íyo tiñu ntañu´u a xíín íyo chitu. Kunetu je nakivɨ íchika.
 neterror-load-error-connection = De ntu kuvi kivɨnu nuu ni´í página, kune´ya conexión red ka̱a̱ noo'o.
 neterror-load-error-firewall = De red a xíín ka̱a̱ noo'o kumi iin firewall a xíín proxy, nejika kune'yanu a { -brand-short-name } kuvi kivɨ nu internet
+
