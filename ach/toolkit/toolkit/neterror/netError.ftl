@@ -6,16 +6,22 @@
 ## Error page titles
 
 neterror-page-title = Peko i cano pot buk
+neterror-blocked-by-policy-page-title = Potbuk ma kigengo
 neterror-captive-portal-page-title = Dony iyie netwak
+neterror-dns-not-found-title = Lapok tic pe ononge
+neterror-malformed-uri-page-title = URL mape atir
 
 ## Error page actions
 
+neterror-advanced-button = Ma lamal…
 neterror-copy-to-clipboard-button = Lok coc i bao coc
 neterror-learn-more-link = Nong ngec mapol…
 neterror-open-portal-login-page-button = Yab potbuk me donyo iyie netwak
 neterror-pref-reset-button = Dwok ter makwongo
 neterror-return-to-previous-page-button = Dok cen
+neterror-return-to-previous-page-recommended-button = Dok cen (Kicwako)
 neterror-try-again-button = Tem Doki
+neterror-view-certificate-link = Nen Catibiket
 
 ##
 
@@ -58,3 +64,7 @@ neterror-sslv3-used = Ngec ma lamal: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> tiyo ki diro me ber bedo ma con ki kiromo mwonyo ne cawa mo keken. Ngat ma omwonyo romo nyuto ngec mamegi ma itamo no ni tye maber iyoo mayot. Laloc me kakube ne myero kong oyub lapok tic ma pud pe ilimo kakube ne.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Kod me bal: NS_ERROR_NET_INADEQUATE_SECURITY
+neterror-network-protocol-error-intro = Pot buk ma i tye katemo neno ne pe romo nyutu pien bal mo i cik me netwak onyute.
+neterror-network-protocol-error-contact-website = Tim ber i kube ki wegi di bar me Web me minigi ngec pi peko man.
+certerror-what-can-you-do-about-it-title = Ngo ma i twero timo pire?
+certerror-bad-cert-domain-what-can-you-do-about-it = Peko ne tutwale twero bedo ki kakube, ki gin mo pe ma itwero timo yubo ne. Itwero miyo ngec me peko man bot luloc me kakube.
