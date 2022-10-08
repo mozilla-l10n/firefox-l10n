@@ -34,10 +34,16 @@ findbar-entire-word =
 findbar-not-found = Finner ikke uttrykket
 findbar-wrapped-to-top = Nådde bunnen av siden, fortsetter fra toppen
 findbar-wrapped-to-bottom = Nådde toppen av siden, fortsetter fra bunnen
+findbar-normal-find =
+    .placeholder = Søk på siden
 findbar-fast-find =
     .placeholder = Hurtigsøk
 findbar-fast-find-links =
     .placeholder = Hurtigsøk (bare lenker)
+findbar-case-sensitive-status =
+    .value = (Skill mellom små og store bokstaver)
+findbar-match-diacritics-status =
+    .value = (Samsvar diakritiske tegn)
 findbar-entire-word-status =
     .value = (Bare hele ord)
 # Variables:
