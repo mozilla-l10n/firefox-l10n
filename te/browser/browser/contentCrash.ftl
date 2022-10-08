@@ -18,7 +18,7 @@ crashed-subframe-submit =
 pending-crash-reports-message =
     { $reportCount ->
         [one] మీరు ఒక సమర్పించని క్రాష్ నివేదికను కలిగి ఉన్నారు
-       *[other] { " " }మీకు { $reportCount } సమర్పించని క్రాష్ నివేదికలు ఉన్నవి
+       *[other] మీకు { $reportCount } సమర్పించని క్రాష్ నివేదికలు ఉన్నవి
     }
 pending-crash-reports-view-all =
     .label = వీక్షణ
