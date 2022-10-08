@@ -32,3 +32,13 @@ findbar-fast-find =
     .placeholder = দ্রুত অনুসন্ধান
 findbar-case-sensitive-status =
     .value = (অক্ষরের ছাঁদ সংবেদনশীল)
+findbar-entire-word-status =
+    .value = (শুধুমাত্র সম্পূর্ণ শব্দ)
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } এর বেশি মিল
+           *[other] { $limit } এর বেশি মিলসমূহ
+        }
