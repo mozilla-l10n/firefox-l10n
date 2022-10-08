@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Rapida serĉo (nur ligiloj)
 findbar-case-sensitive-status =
     .value = (distingi inter minuskloj kaj majuskloj)
+findbar-match-diacritics-status =
+    .value = (Respekti supersignojn)
 findbar-entire-word-status =
     .value = (nur tutaj vortoj)
 # Variables:
