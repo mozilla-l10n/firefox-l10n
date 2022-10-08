@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Ejuhu ñe’ẽrysýi ñesẽ tenondeveguáva
 findbar-previous =
     .tooltiptext = Eho ñe’ẽ juhupyre mboyveguávape
-
 findbar-find-button-close =
     .tooltiptext = Jeheka renda mboty
-
 findbar-highlight-all2 =
     .label = Ehechapaite
     .accesskey =
@@ -21,18 +19,19 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Ehachayka opaite je’pyre
-
 findbar-case-sensitive =
     .label = Ejesareko tai tuicháva/michĩva rehe
     .accesskey = c
     .tooltiptext = Jehekápe ejesareko taimichĩ ha taiguasúre
-
 findbar-match-diacritics =
     .label = Diacrítico ñembosaráipe
     .accesskey = i
     .tooltiptext = Ehechakuaa tai imyanduhéva ha umi tai guapyháva (techapyrã, ehekávo “currículum”, “currículum” ndojojoguamo’ãi)
-
 findbar-entire-word =
     .label = Ñe’ẽ orekopáva
     .accesskey = W
     .tooltiptext = Eheka ñe'ẽ oĩmbáva añónte
+findbar-normal-find =
+    .placeholder = Kuatiaroguépe jeheka
+findbar-case-sensitive-status =
+    .value = (Ojesarekóva taiguasúre)
