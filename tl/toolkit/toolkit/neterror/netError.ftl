@@ -5,8 +5,10 @@
 
 ## Error page titles
 
+neterror-blocked-by-policy-page-title = Naka-block na Pahina
 neterror-captive-portal-page-title = Mag log in sa network
 neterror-dns-not-found-title = Hindi matagpuan ang server
+neterror-malformed-uri-page-title = Di-wastong URL
 
 ## Error page actions
 
@@ -17,6 +19,7 @@ neterror-return-to-previous-page-button = Bumalik
 
 ##
 
+neterror-pref-reset = Mukhang ang iyong mga setting ng seguridad sa network ay maaaring magdulot nito. Nais mo bang maibalik ang mga default na setting?
 
 ## Specific error messages
 
