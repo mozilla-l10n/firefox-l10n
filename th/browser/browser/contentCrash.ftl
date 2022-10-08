@@ -8,6 +8,9 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message = คุณมี { $reportCount } รายงานข้อขัดข้องที่ยังไม่ได้ส่ง
 pending-crash-reports-view-all =
     .label = ดู
 pending-crash-reports-send =
