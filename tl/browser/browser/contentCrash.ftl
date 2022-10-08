@@ -19,3 +19,5 @@ pending-crash-reports-view-all =
     .label = Tingnan
 pending-crash-reports-send =
     .label = Ipadala
+pending-crash-reports-always-send =
+    .label = Laging Ipadala
