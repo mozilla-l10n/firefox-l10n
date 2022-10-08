@@ -9,4 +9,6 @@ findbar-next =
     .tooltiptext = Funa lokunye kuvela kwalibintamagama
 findbar-previous =
     .tooltiptext = Funa lokwendlulile kuvela kwalelibintamagama
-
+findbar-not-found = Libintana alitfolakali
+findbar-wrapped-to-top = Ufike ekugcineni kwelipheji, chubeka usuke etulu
+findbar-wrapped-to-bottom = Ufike etulu kwelipheji, chubeka usuke phansi ekugcineni
