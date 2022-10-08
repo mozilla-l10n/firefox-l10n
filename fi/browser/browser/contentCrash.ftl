@@ -10,6 +10,8 @@ crashed-subframe-message = <strong>Osa tästä sivusta kaatui.</strong> Lähetä
 # but without any markup.
 crashed-subframe-title =
     .title = Osa tästä sivusta kaatui. Lähetäthän raportin, jotta { -brand-product-name } saa tiedon tästä ja voi korjata ongelman nopeammin.
+crashed-subframe-learnmore-link =
+    .value = Lue lisää
 crashed-subframe-submit =
     .label = Lähetä raportti
     .accesskey = L
