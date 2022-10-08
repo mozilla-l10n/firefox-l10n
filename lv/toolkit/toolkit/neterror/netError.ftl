@@ -9,6 +9,7 @@ neterror-page-title = Problēma ar lapas ielādi
 
 ## Error page actions
 
+neterror-learn-more-link = Uzzināt vairāk…
 neterror-try-again-button = Mēģināt vēlreiz
 
 ##
