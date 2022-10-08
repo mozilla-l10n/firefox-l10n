@@ -25,6 +25,7 @@ neterror-file-not-found-moved = Bitte überprüfen Sie, ob die Adresse umbenannt
 neterror-redirect-loop = Dieses Problem kann manchmal auftreten, wenn Cookies deaktiviert oder abgelehnt werden.
 neterror-unknown-socket-type-psm-installed = Bitte stellen Sie sicher, dass auf Ihrem System der Personal-Security-Manager installiert ist.
 neterror-unknown-socket-type-server-config = Dies kann mit einer nicht-standardgemäßen Konfiguration des Servers zusammenhängen.
+neterror-net-offline = Wählen Sie “Nochmals versuchen", um in den Online-Modus zu wechseln und die Seite erneut zu laden.
 neterror-proxy-resolve-failure-settings = Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind.
 neterror-proxy-resolve-failure-connection = Überprüfen Sie bitte, ob eine Netzwerk-/Internet-Verbindung besteht.
 neterror-proxy-resolve-failure-firewall = Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher, dass { -brand-short-name } auf das Internet zugreifen darf.
