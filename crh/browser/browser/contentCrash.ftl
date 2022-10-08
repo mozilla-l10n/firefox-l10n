@@ -8,6 +8,13 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Yiberilmegen bir çöküş maruzañız bar
+       *[other] Yiberilmegen { $reportCount } çöküş maruzañız bar
+    }
 pending-crash-reports-view-all =
     .label = Köster
 pending-crash-reports-send =
