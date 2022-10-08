@@ -14,13 +14,16 @@ neterror-malformed-uri-page-title = अवैध URL
 
 ## Error page actions
 
+neterror-advanced-button = विस्तृत…
 neterror-copy-to-clipboard-button = क्लिपबोर्ड पर पाठ की नक़ल करें
 neterror-learn-more-link = अधिक जानें…
 neterror-open-portal-login-page-button = ओपन नेटवर्क लॉगिन पृष्ठ
+neterror-override-exception-button = जोखिम को स्वीकार करें और जारी रखें
 neterror-pref-reset-button = तयशुदा सेटिंग्स पुरानी स्थिति में लाएं
 neterror-return-to-previous-page-button = पीछे जाएँ
 neterror-return-to-previous-page-recommended-button = पीछे जाएँ (निर्देशित)
 neterror-try-again-button = फिर कोशिश करें
+neterror-view-certificate-link = प्रमाणपत्र देखें
 
 ##
 
