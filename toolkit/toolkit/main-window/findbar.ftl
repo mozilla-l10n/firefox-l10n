@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Tìm cụm từ ở phần sau
 findbar-previous =
     .tooltiptext = Tìm cụm từ ở phần trước
-
 findbar-find-button-close =
     .tooltiptext = Đóng thanh tìm kiếm
-
 findbar-highlight-all2 =
     .label = Tô sáng tất cả
     .accesskey =
@@ -21,18 +19,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Tô sáng tất cả các cụm từ được tìm thấy
-
 findbar-case-sensitive =
     .label = Phân biệt HOA-thường
     .accesskey = C
     .tooltiptext = Tìm kiếm có phân biệt chữ hoa và chữ thường
-
 findbar-match-diacritics =
     .label = Dấu phụ phù hợp
     .accesskey = i
     .tooltiptext = Phân biệt giữa các chữ cái có dấu và các chữ cái cơ sở của chúng (ví dụ: khi tìm kiếm về “resume”, “résumé” sẽ không khớp)
-
 findbar-entire-word =
     .label = Toàn bộ từ
     .accesskey = W
     .tooltiptext = Chỉ tìm toàn bộ từ
+findbar-wrapped-to-top = Đã xuống tới cuối trang, bắt đầu lại từ đầu trang
+findbar-wrapped-to-bottom = Đã lên tới đầu trang, bắt đầu lại từ cuối trang
