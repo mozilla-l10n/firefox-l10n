@@ -8,6 +8,7 @@
 
 ## Error page actions
 
+neterror-learn-more-link = מידע נוסף…
 neterror-try-again-button = נסה שוב
 
 ##
@@ -15,6 +16,11 @@ neterror-try-again-button = נסה שוב
 
 ## Specific error messages
 
+neterror-file-not-found-filename = בדוק ששם הקובץ אוית נכון, שנעשה שימוש נכון באותיות רישיות ושאין שגיאות הקלדה אחרות.
+neterror-file-not-found-moved = בדוק אם הקובץ הועבר, שינה שם או נמחק.
+neterror-unknown-socket-type-psm-installed = ודא כי מותקן על המערכת שלך מנהל האבטחה האישי.
+neterror-unknown-socket-type-server-config = ייכתן וההגדרות השרת אינן תקניות
 neterror-not-cached-intro = המסמך המבוקש לא זמין במטמון של { -brand-short-name }.
 neterror-not-cached-sensitive = כאמצעי זהירות, { -brand-short-name } לא יבקש שוב אוטומטית מסמכים רגישים.
 neterror-not-cached-try-again = לחץ נסה שוב כדי לבקש מחדש את המסמך מאתר האינטרנט.
+neterror-net-offline = לחץ על “נסה שוב” כדי לעבור למצב מקוון ולטעון מחדש את הדף.
