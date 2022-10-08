@@ -38,9 +38,11 @@ menu-quit =
             [windows] T
            *[other] T
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Terminar { -brand-shorter-name }
+
 menu-about =
     .label = Davart { -brand-shorter-name }
     .accesskey = D

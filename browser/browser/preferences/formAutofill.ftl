@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Adressas memorisadas
 autofill-manage-addresses-list-header = Adressas
+
 autofill-manage-credit-cards-title = Cartas da credit memorisadas
 autofill-manage-credit-cards-list-header = Cartas da credit
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Allontanar
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Modifitgar…
 autofill-add-new-address-title = Agiuntar ina nova adressa
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifitgar l'adressa
+
 autofill-address-given-name = Prenum
 autofill-address-additional-name = Segund prenum
 autofill-address-family-name = Num
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Pajais u regiun
 autofill-address-tel = Telefon
 autofill-address-email = E-mail
+
 autofill-cancel-button = Interrumper
 autofill-save-button = Memorisar
 autofill-country-warning-message = L'endataziun automatica per formulars è actualmain mo disponibla per tscherts pajais.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Agiuntar ina nova carta da credit
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modifitgar la carta da credit
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } emprova da mussar infurmaziuns dad ina carta da credit. Conferma l'access al conto d'utilisader da Windows sutvart.
        *[other] { -brand-short-name } emprova da mussar infurmaziuns dad ina carta da credit.
     }
+
 autofill-card-number = Numer da la carta
 autofill-card-invalid-number = Endatescha p. pl. in numer da carta da credit valaivel
 autofill-card-name-on-card = Num sin la carta
