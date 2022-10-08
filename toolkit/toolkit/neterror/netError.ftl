@@ -38,6 +38,13 @@ neterror-load-error-try-again = A webhely ideiglenesen nem érhető el vagy túl
 neterror-load-error-connection = Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati kapcsolatát.
 neterror-load-error-firewall = Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a { -brand-short-name } számára engedélyezett-e a webhozzáférés.
 neterror-captive-portal = Az internet elérése előtt be kell jelentkezni a hálózatra.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Erre gondolt: <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Ha a megfelelő címet adta meg, a következőket teheti:</strong>
+neterror-dns-not-found-hint-try-again = Próbálja meg újra később
+neterror-dns-not-found-hint-check-network = Ellenőrizze a hálózati kapcsolatot
+neterror-dns-not-found-hint-firewall = Ellenőrizze, hogy a { -brand-short-name } jogosult-e az internet elérésére (lehet, hogy csatlakozik, de tűzfal mögött van)
 neterror-file-not-found-filename = Ellenőrizze a fájlnevet, hogy jól írta-e.
 neterror-file-not-found-moved = Ellenőrizze, hogy a fájlt áthelyezték-e, átnevezték-e vagy eltávolították-e.
 neterror-access-denied = Lehet hogy törölve lett, át lett helyezve, vagy a fájljogosultságok megakadályozzák a hozzáférést.
