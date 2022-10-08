@@ -6,12 +6,22 @@
 ## Error page titles
 
 neterror-page-title = ページ読み込みエラー
+certerror-page-title = 警告: 潜在的なセキュリティリスクあり
+certerror-sts-page-title = 接続中止: 潜在的なセキュリティ問題
+neterror-blocked-by-policy-page-title = ブロックしたページ
+neterror-captive-portal-page-title = ネットワークにログイン
 
 ## Error page actions
 
+neterror-advanced-button = 詳細情報...
+neterror-copy-to-clipboard-button = テキストをクリップボードにコピー
+neterror-learn-more-link = エラーの説明...
+neterror-override-exception-button = 危険性を承知で続行
 neterror-pref-reset-button = デフォルトに戻す
 neterror-return-to-previous-page-button = 戻る
+neterror-return-to-previous-page-recommended-button = 戻る (推奨)
 neterror-try-again-button = 再試行
+neterror-view-certificate-link = 証明書を確認
 
 ##
 
@@ -21,9 +31,64 @@ neterror-error-reporting-automatic = エラーを報告すると、悪意のあ�
 ## Specific error messages
 
 neterror-generic-error = 何らかの理由により { -brand-short-name } はこのページを正常に読み込めませんでした。
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = もしかして訪問先は <a data-l10n-name="website">{ $hostAndPath }</a> ですか？
+neterror-dns-not-found-hint-header = <strong>アドレスが正しい場合は、以下のことを試してください:</strong>
+neterror-dns-not-found-hint-try-again = 後でもう一度試してください。
+neterror-dns-not-found-hint-check-network = ネットワーク接続を確認してください。
+neterror-dns-not-found-hint-firewall = ファイアウォール越しに接続している場合は、{ -brand-short-name } がウェブへの接続を許可されているか確認してください。
 neterror-file-not-found-filename = アドレスに大文字/小文字の違い、その他の間違いがないか確認してください。
 neterror-file-not-found-moved = ファイルの名前が変更、削除、または移動している可能性があります。
+neterror-access-denied = ファイルが削除または移動されているかファイルの許可属性によりアクセスが拒否された可能性があります。
 neterror-unknown-protocol = このプロトコルを使用するアドレスを開くには、別のソフトウェアをインストールする必要があるかもしれません。
 neterror-redirect-loop = Cookie を無効化したり拒否していることにより、この問題が発生している可能性もあります。
+neterror-not-cached-intro = リクエストされた { -brand-short-name } のキャッシュ内のドキュメントは、利用できません。
+neterror-not-cached-sensitive = 安全対策のため、{ -brand-short-name } は注意を要するドキュメントを自動的に再リクエストしません。
+neterror-not-cached-try-again = "再試行" ボタンをクリックしてドキュメントをウェブサイトから読み込んでください。
+neterror-content-encoding-error = この問題をウェブサイトの管理者に報告してください。
+neterror-unsafe-content-type = この問題をウェブサイトの管理者に報告してください。
+neterror-nss-failure-not-verified = 受信したデータの真正性を検証できなかったため、このページは表示できませんでした。
+neterror-nss-failure-contact-website = この問題をウェブサイトの管理者に連絡してください。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } はセキュリティ上の潜在的な脅威を検知したため、<b>{ $hostname }</b> への接続を中止しました。このサイトに訪問すると、攻撃者がパスワードやメールアドレス、クレジットカードの詳細な情報を盗み取ろうとする恐れがあります。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } はセキュリティ上の潜在的な脅威を検知したため、<b>{ $hostname }</b> への接続を中止しました。このウェブサイトには安全な接続が必要なためです。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } は問題を検知したため、<b>{ $hostname }</b> への接続を中止しました。このウェブサイトの設定が不適切、またはあなたのコンピューターの時刻設定に誤りがあります。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> は安全なサイトだと思われますが、安全な接続を確立できませんでした。この問題はあなたのコンピューターかネットワークにある <b>{ $mitm }</b> が原因です。
+neterror-corrupted-content-intro = このページは、データの伝送中にエラーが検出されたため表示できません。
+neterror-corrupted-content-contact-website = ウェブサイトの所有者に連絡を取り、この問題を報告してください。
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = 高度な情報: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = あなたのコンピューターは現在の日時を { DATETIME($now, dateStyle: "medium") } だと誤解しており、{ -brand-short-name } の安全な接続を妨げる原因になります。<b>{ $hostname }</b> にアクセスして、コンピュータの現在の日付と時刻、タイムゾーンを正しいものに更新して、<b>{ $hostname }</b> を再読み込みしてください。
+neterror-network-protocol-error-intro = 表示しようとしているページは、ネットワークプロトコルにエラーが検出されたため表示できません。
+neterror-network-protocol-error-contact-website = ウェブサイトの所有者に連絡を取り、この問題を報告してください。
+certerror-expired-cert-second-para = ウェブサイトの証明書が有効期限切れの可能性があるため、安全な接続ができません。このサイトを訪問すると、パスワードやメールアドレス、クレジットカードの詳細情報を攻撃者に盗み取られる恐れがあります。
+certerror-expired-cert-sts-second-para = ウェブサイトの証明書が有効期限切れの可能性があるため、安全な接続ができません。
+certerror-what-can-you-do-about-it-title = どうすればいいですか？
+certerror-unknown-issuer-what-can-you-do-about-it-website = この問題はウェブサイトに原因があり、あなたにできることはありません。
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = 組織内のネットワークからアクセスしている、またはウイルス対策ソフトウェアを利用している場合は、あなたの所属組織のネットワーク管理者に連絡してください。ウェブサイトの管理者に問題を報告するのもよいでしょう。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = あなたのコンピューターの時刻は { DATETIME($now, dateStyle: "medium") } に設定されています。正しい日付と時刻、タイムゾーンをコンピューターに設定して、<b>{ $hostname }</b> を再読み込みしてください。
+certerror-expired-cert-what-can-you-do-about-it-contact-website = すでに正しい時刻が設定されている場合は、ウェブサイトに問題があるため、あなたにできることはありません。ウェブサイトの管理者に問題を報告するのもよいでしょう。
+certerror-bad-cert-domain-what-can-you-do-about-it = この問題はウェブサイトに原因があり、あなたにできることはありません。ウェブサイトの管理者に問題を報告するのもよいでしょう。
+certerror-mitm-what-can-you-do-about-it-antivirus = ウイルス対策ソフトウェアに暗号化された接続をスキャンする機能 (“ウェブスキャン” または “HTTPS スキャン” という機能名) が含まれている場合は、その機能を無効にしてください。無効にしても解決できない場合は、ウイルス対策ソフトウェアを削除して再インストールしてください。
+certerror-mitm-what-can-you-do-about-it-corporate = 組織内のネットワークからアクセスしている場合は、ネットワーク管理者に連絡してください。
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = <b>{ $mitm }</b> に心当たりがない場合は攻撃されている可能性があるため、以後このサイトには接続しないでください。
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = <b>{ $mitm }</b> に心当たりがない場合は攻撃されている可能性があるため、このサイトにアクセスする方法はありません。
