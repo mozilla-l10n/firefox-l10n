@@ -38,6 +38,13 @@ neterror-load-error-try-again = Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi a
 neterror-load-error-connection = Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.
 neterror-load-error-firewall = Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella { -brand-short-name } yezmer ad yekcem ɣer Web.
 neterror-captive-portal = Yessefk ad tkecmeḍ ar uẓeṭṭa-a send ad tizmireḍ ad tkecmeḍ ar Internet
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Tebɣiḍ ad tedduḍ ɣer <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Ma yella teskecmeḍ tansa tameɣtut, tzemreeḍ:</strong>
+neterror-dns-not-found-hint-try-again = Ɛreḍ tikkelt-nniḍen ticki
+neterror-dns-not-found-hint-check-network = senqed azeṭṭa-k·m internet
+neterror-dns-not-found-hint-firewall = Senqqed aya { -brand-short-name } yettwasireg ad yekcem ɣer web ( yezmer ahat teqqneḍ d acu ɣer uɣrab n tmes)
 neterror-file-not-found-filename = Senqed isem n ufaylu ma yura s usekkil meqqren neɣ meẓẓi neɣ tuccdiwin n tira-nniḍen.
 neterror-file-not-found-moved = Senqed ma yella afaylu ur ittusenkez ara, ur ibeddel ara isem neɣ ur ittwakkes ara.
 neterror-access-denied = Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.
