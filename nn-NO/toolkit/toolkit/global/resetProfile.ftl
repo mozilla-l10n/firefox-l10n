@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Begynn på nytt for å løyse ytingsproblem
 refresh-profile = Gje { -brand-short-name } ei overhaling
 refresh-profile-button = Tilbakestill { -brand-short-name }…
 refresh-profile-learn-more = Les meir
+
 refresh-profile-progress =
     .title = Tilbakestill { -brand-short-name }
 refresh-profile-progress-description = Nesten ferdig…

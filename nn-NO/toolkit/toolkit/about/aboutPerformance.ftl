@@ -54,6 +54,7 @@ close-tab =
     .title = Lat att fane
 show-addon =
     .title = Vis i tilleggshandsamaren
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Søk
     .aria-label = Søk
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Søk med { $engine } eller skriv inn ei adresse
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Søk eller skriv inn ei adresse
     .title = Søk eller skriv inn ei adresse
     .aria-label = Søk eller skriv inn ei adresse
+
 newtab-search-box-text = Søk på nettet
 newtab-search-box-input =
     .placeholder = Søk på nettet
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Rediger snarveg
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Skriv inn ein tittel
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller lim inn ein URL
 newtab-topsites-url-validation = Gyldig URL er påkravd
+
 newtab-topsites-image-url-label = Tilpassa bilde-URL
 newtab-topsites-use-image-link = Bruk eit tilpassa bilde…
 newtab-topsites-image-validation = Klarte ikkje å lesa bildet. Prøv ein annan URL.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Sponsa
 newtab-menu-section-tooltip =
     .title = Opne meny
     .aria-label = Opne meny
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Fjern
     .aria-label = Fjern
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -155,14 +161,17 @@ newtab-label-removed-bookmark = Bokmerke fjerna
 newtab-label-recommended = Trendar
 newtab-label-saved = Lagra til { -pocket-brand-name }
 newtab-label-download = Nedlasta
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsa
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsa av { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -201,6 +210,7 @@ newtab-section-header-pocket = Tilrådd av { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Begynn å surfe, og vi vil vise deg nokre av dei beste artiklane, videoane og andre sider du nyleg har besøkt eller bokmerka her.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -225,9 +235,11 @@ newtab-pocket-learn-more = Les meir
 newtab-pocket-cta-button = Last ned { -pocket-brand-name }
 newtab-pocket-cta-text = Lagre artiklane du synest er interessante i { -pocket-brand-name }, og stimuler tankane dine med fasinerande lesemateriell.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er ein del av { -brand-product-name }-familien.
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Lagre til { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Lagra til { -pocket-brand-name }
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Last inn fleire artiklar
 
@@ -238,6 +250,7 @@ newtab-pocket-last-card-title = Du har lese alt!
 newtab-pocket-last-card-desc = Kom tilbake seinare for meir.
 newtab-pocket-last-card-image =
     .alt = Du har lese alt
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Lagre
 newtab-pocket-saved = Lagra

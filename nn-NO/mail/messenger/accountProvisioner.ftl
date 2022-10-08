@@ -4,12 +4,15 @@
 
 provisioner-searching-icon =
     .alt = Søkjer…
+
 account-provisioner-title = Opprett ei ny e-postadresse
 
 ## Forms
 
 account-provisioner-search-button = Søk
+
 account-provisioner-button-cancel = Avbryt
+
 account-provisioner-button-back = Gå tilbake
 
 ## Notifications
@@ -21,3 +24,4 @@ account-provisioner-button-back = Gå tilbake
 ## Search results
 
 account-provisioner-free-account = Gratis
+

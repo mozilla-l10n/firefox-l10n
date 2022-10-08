@@ -3,14 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 otr-finger-title = Tidlegare sette OTR-fingeravtrykk
+
 finger-intro = OTR-nøkkelfingeravtrykk frå tidlegare ende-til-ende-krypterte samtalar.
+
 finger-screen-name =
     .label = Kontakt
 finger-verified =
     .label = Stadfestingsstatus
 finger-fingerprint =
     .label = Fingeravtrykk
+
 finger-remove =
     .label = Fjern valde
+
 finger-remove-all =
     .label = Fjern alle

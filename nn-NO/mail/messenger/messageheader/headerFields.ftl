@@ -6,9 +6,13 @@
 ## Header lists
 
 message-header-to-list-name = Til
+
 message-header-from-list-name = Frå
+
 message-header-sender-list-name = Avsendar
+
 message-header-reply-to-list-name = Svar til
+
 message-header-newsgroups-list-name = Nyheitsgrupper
 
 ## Other message headers.
@@ -19,12 +23,17 @@ message-header-newsgroups-list-name = Nyheitsgrupper
 
 message-header-address-in-address-book-icon2 =
     .alt = I adresseboka
+
 message-header-address-not-in-address-book-icon2 =
     .alt = Ikkje i adresseboka
+
 message-header-address-not-in-address-book-button =
     .title = Lagre denne adressa i adresseboka
+
 message-header-address-in-address-book-button =
     .title = Rediger kontakt
+
 message-header-field-show-more = Meir
     .title = Vis alle mottakarar
+
 message-ids-field-show-all = Vis alle
