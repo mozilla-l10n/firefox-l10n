@@ -6,11 +6,15 @@
 ## Error page titles
 
 neterror-page-title = ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡುವಲ್ಲಿ ತೊಂದರೆ ಎದುರಾಗಿದೆ
+neterror-captive-portal-page-title = ಜಾಲ ಸಂಪರ್ಕಕ್ಕೆ ಲಾಗಿನ್ ಆಗಿ
+neterror-dns-not-found-title = ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ
+neterror-malformed-uri-page-title = ಅಮಾನ್ಯವಾದ URL
 
 ## Error page actions
 
 neterror-copy-to-clipboard-button = ಪಠ್ಯವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿಮಾಡು
 neterror-learn-more-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...
+neterror-open-portal-login-page-button = ಜಾಲ ಸಂಪರ್ಕ ಲಾಗಿನ್ ಪುಟವನ್ನು ತೆರೆಯಿರಿ
 neterror-pref-reset-button = ಪೂರ್ವನಿಯೋಜಿತ ಸಿದ್ಧತೆಗಳನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು
 neterror-return-to-previous-page-button = ಹಿಂದೆ ಹೋಗು
 neterror-try-again-button = ಮರಳಿ ಪ್ರಯತ್ನಿಸು
