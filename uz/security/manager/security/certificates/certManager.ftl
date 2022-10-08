@@ -4,91 +4,127 @@
 
 certmgr-title =
     .title = Sertifikat boshqaruvchisi
+
 certmgr-tab-mine =
     .label = Sertifikatlaringiz
+
 certmgr-tab-people =
     .label = Odamlar
+
 certmgr-tab-servers =
     .label = Serverlar
+
 certmgr-tab-ca =
     .label = Tasdiqdan oʻtkazishlar
+
 certmgr-edit-ca-cert =
     .title = CA sertifikati ishonch sozlamalarini oʻzgartirish
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = CA sertifikati ishonch sozlamalarini oʻzgartirish
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = Ishonch sozlalamalarini oʻzgartirish:
+
 certmgr-edit-cert-trust-ssl =
     .label = Ushbu sertifikat veb sayt haqida ma’lumotlarni aniqlashtira oladi.
+
 certmgr-edit-cert-trust-email =
     .label = Ushbu sertifikat foydalanuvchilar pochtalari ma’lumotlarini aniqlay oladi.
+
 certmgr-delete-cert =
     .title = Sertifikatni o‘chirish
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Sertifikatni o‘chirish
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-name =
     .label = Sertifikat nomi
+
 certmgr-cert-server =
     .label = Server
+
 certmgr-override-lifetime =
     .label = Foydalanish muddati
+
 certmgr-token-name =
     .label = Qurilma xavfsizligi
+
 certmgr-begins-label =
     .label = Boshlanishi:
+
 certmgr-expires-label =
     .label = Tugashi:
+
 certmgr-email =
     .label = E-pochta manzili
+
 certmgr-serial =
     .label = Serial raqami
+
 certmgr-view =
     .label = Ko‘rinishi…
     .accesskey = K
+
 certmgr-edit =
     .label = Ishonchni tasdiqlash…
     .accesskey = E
+
 certmgr-export =
     .label = Eksport qilish…
     .accesskey = E
+
 certmgr-delete =
     .label = O‘chirish…
     .accesskey = O
+
 certmgr-delete-builtin =
     .label = O‘chirish yoki ishonmaslik…
     .accesskey = O
+
 certmgr-backup =
     .label = Zahiralash…
     .accesskey = Z
+
 certmgr-backup-all =
     .label = Barchasini zahiralash…
     .accesskey = z
+
 certmgr-restore =
     .label = Import qilish…
     .accesskey = I
+
 certmgr-add-exception =
     .label = Istisno qoʻshish…
     .accesskey = I
+
 exception-mgr =
     .title = Xavfsizlik istisnosini qo‘shish
+
 exception-mgr-extra-button =
     .label = Xavfsizlik istisnosini tasdiqlash
     .accesskey = C
+
 exception-mgr-supplemental-warning = Qonuniy banklar, do‘konlar va boshqa ommaviy saytlar sizdan buni qilishni so‘ramaydi.
+
 exception-mgr-cert-location-url =
     .value = Manzili:
+
 exception-mgr-cert-location-download =
     .label = Sertifikatni olish
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = Ko‘rinishi…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Ushbu istisnoni butunlay joylashtirish
     .accesskey = b
+
 pk11-bad-password = Kiritilgan parol - xato.
 pkcs12-decode-err = Faylni dekodlab bo‘lmadi. Yoki u PKCS #12 formatda emas va buzilgan, yoki kiritlgan parol noto‘g‘ri.
 pkcs12-unknown-err-restore = Noma’lum sabablarga ko‘ra PKCS #12 faylni tiklab bo‘lmadi.
@@ -121,10 +157,14 @@ delete-user-cert-title =
     .title = Sertifikatlaringizni o‘chirish
 delete-user-cert-confirm = Ushbu sertifikatlarni o‘chirmoqchi ekanligingizga ishonchingiz komilmi?
 delete-user-cert-impact = Shaxsiy sertifikatlaringizdan birini o'chirib yuborsangiz, o‘zingizni tasdiqdan o‘tkazishdan foydalana olmay qolasiz.
+
+
 delete-ca-cert-title =
     .title = CA sertifikatlarni o‘chirish yoki ishonishni to‘xtatish
 delete-ca-cert-confirm = Sizdan ushbu CA sertifikatlarni o‘chirish so‘raldi. Ichki sertifikatlar uchun xuddi shunday effekt bor barcha ishonchlar o‘chiriladi. O‘chirmoqchi ekanligingizga yoki ishonchni olib tashlashni xohlashingizga ishonchingiz komilmi?
 delete-ca-cert-impact = Agar siz tasdiqdan o‘tkazish sertifikati (CA)ni o‘chirsangiz yoki ishonchni to‘xtatsangiz, ushbu ilova dastur ushbu CA’ga tegishli har qanday sertifikatlarga ishonmaydi.
+
+
 delete-email-cert-title =
     .title = E-pochta sertifikatlrini oʻchirish
 delete-email-cert-confirm = Ushbu odamlarning e-pochta sertifikatlarini o‘chirmoqchi ekanligingizga ishonchingiz komilmi?

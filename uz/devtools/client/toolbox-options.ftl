@@ -101,8 +101,3 @@ options-enable-service-workers-http-tooltip =
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Faqat joriy seans, sahifani qayta yuklaydi
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Gecko platformasi ma’lumotlarini koʻrsatish
-options-show-platform-data-tooltip =
-    .title = Agar siz ushbu moslamani yoqsangiz, JavaScript Profiler natijalari  Gekko platformasi simvollarini qoʻshadi

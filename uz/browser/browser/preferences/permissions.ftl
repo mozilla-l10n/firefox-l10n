@@ -5,38 +5,51 @@
 permissions-window =
     .title = Istisnolar
     .style = width: 45em
+
 permissions-window2 =
     .title = Istisnolar
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Sayt manzili
     .accesskey = m
+
 permissions-block =
     .label = Bloklash
     .accesskey = B
+
 permissions-session =
     .label = Seans uchun ruxsat berish
     .accesskey = S
+
 permissions-allow =
     .label = Ruxsat berish
     .accesskey = a
+
 permissions-site-name =
     .label = Sayt
+
 permissions-status =
     .label = Holati
+
 permissions-remove =
     .label = Saytni olib tashlash
     .accesskey = o
+
 permissions-remove-all =
     .label = Barcha saytlarni olib tashlash
     .accesskey = B
+
 permissions-searchbox =
     .placeholder = Saytdan izlash
+
 permissions-capabilities-allow =
     .label = Ruxsat berish
 permissions-capabilities-block =
     .label = Bloklash
+
 permissions-capabilities-listitem-allow =
     .value = Ruxsat berish
 permissions-capabilities-listitem-block =
@@ -67,6 +80,7 @@ permissions-exceptions-popup-desc = Siz xohlagan vebsaytlaringizga paydo boʻluv
 permissions-exceptions-saved-logins-window =
     .title = Istisnolar - saqlangan taxalluslar
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Istisnolar - saqlangan taxalluslar
     .style = { permissions-window2.style }

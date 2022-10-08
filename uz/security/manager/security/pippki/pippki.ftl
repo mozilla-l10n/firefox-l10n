@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Sertifikat yuklab olinmoqda
     .style = width: 46em
+
 download-cert-window2 =
     .title = Sertifikat yuklab olinmoqda
     .style = min-width: 46em
