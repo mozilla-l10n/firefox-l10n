@@ -8,6 +8,9 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message = Anda memiliki { $reportCount } laporan kemacetan yang belum terkirim
 pending-crash-reports-view-all =
     .label = Tampilkan
 pending-crash-reports-send =
