@@ -7,19 +7,29 @@
 
 neterror-page-title = Проблем при учитавању странице
 certerror-page-title = Упозорење: Потенцијални безбедносни ризик
+certerror-sts-page-title = Успостављање везе није успело: потенцијални безбедносни проблем
 neterror-blocked-by-policy-page-title = Блокиране странице
+neterror-captive-portal-page-title = Пријавите се на мрежу
 neterror-dns-not-found-title = Сервер није пронађен
+neterror-malformed-uri-page-title = Неважећи URL
 
 ## Error page actions
 
 neterror-advanced-button = Напредно…
 neterror-copy-to-clipboard-button = Копирај текст у бележницу
 neterror-learn-more-link = Сазнајте више…
+neterror-open-portal-login-page-button = Отвори страницу за пријаву на мрежу
 neterror-override-exception-button = Прихвати ризик и настави
+neterror-pref-reset-button = Врати подразумевана подешавања
+neterror-return-to-previous-page-button = Назад
+neterror-return-to-previous-page-recommended-button = Назад (препоручује се)
 neterror-try-again-button = Пoкушај поново
+neterror-view-certificate-link = Прикажи сертификат
 
 ##
 
+neterror-pref-reset = Изгледа да су узрок томе ваша подешавања безбедности мреже. Желите ли да вратите подразумевана подешавања?
+neterror-error-reporting-automatic = Пријавите грешке попут ове како би { -vendor-short-name } лакше препознала и блокирала злонамерне сајтове
 
 ## Specific error messages
 
@@ -27,6 +37,7 @@ neterror-generic-error = { -brand-short-name } из неког разлога н
 neterror-load-error-try-again = Сајт је можда привремено недоступан или заузет. Покушајте поново мало касније.
 neterror-load-error-connection = Ако не можете да учитате ниједну страницу, проверите мрежну везу рачунара.
 neterror-load-error-firewall = Ако су рачунар или мрежа заштићени заштитним зидом или проксијем, проверите да ли { -brand-short-name } има дозвољен приступ мрежи.
+neterror-captive-portal = Морате да се пријавите на ову мрежу пре него што можете приступити интернету.
 neterror-file-not-found-filename = Проверите подударање малих и великих слова и друге могуће грешке у куцању.
 neterror-file-not-found-moved = Проверите да ли је датотека премештена, преименована или избрисана.
 neterror-access-denied = Можда је уклоњена, премештена или немате приступ датотеци.
@@ -73,6 +84,8 @@ neterror-inadequate-security-code = Код грешке: NS_ERROR_NET_INADEQUATE
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Ваш рачунар мисли да је { DATETIME($now, dateStyle: "medium") }, што спречава { -brand-short-name } да се повеже безбедно. Да бисте посетили <b>{ $hostname }</b>, ажурирајте ваш сат на рачунару у вашим системским подешавањима на тренутан датум, време и временску зону и освежите <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Тражена страница се не може приказати због грешке у мрежном протоколу.
+neterror-network-protocol-error-contact-website = Обавестите власника веб-сајта о овом проблему.
 certerror-expired-cert-second-para = Вероватно је сертификат странице истекао, што спречава { -brand-short-name } да се безбедно повеже. Ако посетите ову страницу, нападачи могу покушати да украду податке као што су лозинке, е-поруке или подаци о кредитној картици.
 certerror-expired-cert-sts-second-para = Вероватно је сертификат странице истекао, што спречава { -brand-short-name } да се безбедно повеже.
 certerror-what-can-you-do-about-it-title = Шта можете учинити поводом тога?
@@ -84,6 +97,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ако сте 
 certerror-expired-cert-what-can-you-do-about-it-clock = Ваш сат на рачунару је постављен на { DATETIME($now, dateStyle: "medium") }. Поставите тачан датум, време и временску зону у вашим системским подешавањима, а затим освежите <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Ако је ваш сат већ постављен на тачно време, онда је веб сајт највероватније погрешно подешен и не можете ништа урадити поводом тога. Можете једино обавестити администратора веб сајта о проблему.
 certerror-bad-cert-domain-what-can-you-do-about-it = Проблем је највероватније са веб сајтом и не можете ништа урадити да га решите. Можете једино обавестити администратора веб сајта о проблему.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ако ваш антивирусни програм садржи функцију која скенира шифроване везе (позната под називом „веб-скенирање” или „HTTPS скенирање”), онемогућите је. Ако то не помогне, уклоните и поново инсталирате антивирусни програм.
 certerror-mitm-what-can-you-do-about-it-corporate = Ако сте у корпоративној мрежи, можете се обратити свом ИТ одељењу.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
@@ -91,3 +105,6 @@ certerror-mitm-what-can-you-do-about-it-attack = Ако вам <b>{ $mitm }</b> 
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack-sts = Ако вам <b>{ $mitm }</b> страница није позната, ово може да представљата напад и не можете ништа учинити како бисте приступили тој страници.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = Сајт <b>{ $hostname }</b> има безбедносну политику под називом HTTP Strict Transport Security (HSTS), што значи да се { -brand-short-name } може повезати само на безбедан начин. Не можете да додате изузетак како бисте посетили овај сајт.
