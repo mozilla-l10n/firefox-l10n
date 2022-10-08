@@ -4,91 +4,127 @@
 
 certmgr-title =
     .title = प्रमाणपत्र व्यवस्थापक
+
 certmgr-tab-mine =
     .label = तुमची  प्रमाणपत्रां
+
 certmgr-tab-people =
     .label = लोक
+
 certmgr-tab-servers =
     .label = सर्वर
+
 certmgr-tab-ca =
     .label = अधिकारी
+
 certmgr-edit-ca-cert =
     .title = सीए प्रमाणपत्र विश्वास स्थापिता सम्पादन
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = सीए प्रमाणपत्र विश्वास स्थापिता सम्पादन
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = विश्वास स्थापितां सम्पादन:
+
 certmgr-edit-cert-trust-ssl =
     .label = हे प्रमाणपत्र वेबसायटीं ओळखूपाक शकता.
+
 certmgr-edit-cert-trust-email =
     .label = हे प्रमाणपत्र मेल वापरुप्यांक वळखुपाक शकता.
+
 certmgr-delete-cert =
     .title = प्रमाणपत्र काडून उडयात
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = प्रमाणपत्र काडून उडयात
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-name =
     .label = प्रमाणपत्र नाव
+
 certmgr-cert-server =
     .label = सर्वर
+
 certmgr-override-lifetime =
     .label = जिविताचो
+
 certmgr-token-name =
     .label = सुरक्षा उपकरण
+
 certmgr-begins-label =
     .label = सुरू जाता
+
 certmgr-expires-label =
     .label = क सोपता
+
 certmgr-email =
     .label = ईमेल नामो
+
 certmgr-serial =
     .label = अनुक्रमांक
+
 certmgr-view =
     .label = दृश्य करचें…
     .accesskey = द
+
 certmgr-edit =
     .label = विस्वास संपादीत करचो...
     .accesskey = स
+
 certmgr-export =
     .label = निर्यात करचें…
     .accesskey = र
+
 certmgr-delete =
     .label = वगळावचें…
     .accesskey = व
+
 certmgr-delete-builtin =
     .label = वगळावचें वा विस्वास दवरचो न्हय…
     .accesskey = व
+
 certmgr-backup =
     .label = बॅकअप…
     .accesskey = ब
+
 certmgr-backup-all =
     .label = सगळें बॅकअप करचें…
     .accesskey = अ
+
 certmgr-restore =
     .label = आयात करचें…
     .accesskey = य
+
 certmgr-add-exception =
     .label = अपवाद जोडचो…
     .accesskey = व
+
 exception-mgr =
     .title = सुरक्षा अपवाद जोडचो
+
 exception-mgr-extra-button =
     .label = सुरक्षा अपवादाची खात्री करची
     .accesskey = ख
+
 exception-mgr-supplemental-warning = वैध बँको, दुकानां आणि हेर भौशिक सायटी तुमका हे करपाक लावच्यो ना.
+
 exception-mgr-cert-location-url =
     .value = थळः
+
 exception-mgr-cert-location-download =
     .label = प्रमाणपत्र मेळोवचें
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = दृश्य करचें...
     .accesskey = V
+
 exception-mgr-permanent =
     .label = हो अपवाद सदांकाळा खातीर सांठोवचो
     .accesskey = स
+
 pk11-bad-password = घातिल्लो गुप्तशब्द चुकीचो
 pkcs12-decode-err = फायल डिकोड करपाक शकना.  एक तर ती PKCS #12  स्वरूपान नासत, ईबाडल्या आसत, वो तुमी दिल्लो पासवर्ड चुकला आसत.
 pkcs12-unknown-err-restore = खबर नाशिल्ल्या कारणाकलागून  PKCS #12 धारिका परतून हाडपांत अपेस
@@ -121,10 +157,14 @@ delete-user-cert-title =
     .title = तुमची प्रमाणपत्रां काडून उडयात
 delete-user-cert-confirm = तुमका खरेच ही प्रमाणपत्र काडून उडोंवपाक जांय?
 delete-user-cert-impact = तुमी जर तुमचे स्वतःचे एक प्रमाणपत्र काडून उडयले, तुमी स्वतःची ओळख पटोवपाक ते वापरपाक शकचे ना.
+
+
 delete-ca-cert-title =
     .title = सीए प्रमाणपत्रां वगळावचीं वा विस्वास दवरचो न्हय
 delete-ca-cert-confirm = तुमी ही CA प्रमाणपत्रां काडून उडोवपाची विनंती केल्या. सगळ्या अंतर्गत प्रमाणपत्रांखातीर सगळो विश्र्वास काडलो वतलो, जाचो तोच परिणाम जातलो. तुमी खरेच ते वो ताचेवेलो विश्र्वास काडून उडोवपाक सोदता?
 delete-ca-cert-impact = तुमी जर प्रमाणपत्र अधिकारिणी (CA) प्रमाणपत्र काढून उडयले वो तुमचो तांचेर विश्र्वास ना, हो अनुप्रयोग त्या CA न दिल्ल्या कसल्याय प्रमाणपत्राचेर विश्र्वास दवरचो ना.
+
+
 delete-email-cert-title =
     .title = ईमेल प्रमाणपत्रां काडून उडयात
 delete-email-cert-confirm = ह्या लोकांची ईमेल प्रमाणपत्रां काडून उडोवपाक सोदता?

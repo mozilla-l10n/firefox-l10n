@@ -100,8 +100,3 @@ options-context-triggers-page-refresh = * फकत सद्याचे सत
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = गिको प्लॅटफॉर्म डेटा दाखयात
-options-show-platform-data-tooltip =
-    .title = जर तुमी हो विकल्प निवडलो, जावालिपी प्रोफायलर अहवालांत  जीको प्लॅटफॉर्म चिन्नां आसतली

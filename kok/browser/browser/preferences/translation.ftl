@@ -5,22 +5,30 @@
 translation-window =
     .title = अपवाद - अणकार
     .style = width: 36em
+
 translation-window2 =
     .title = अपवाद - अणकार
     .style = min-width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-column =
     .label = भासो
+
 translation-languages-button-remove =
     .label = भाशा काडात&
     .accesskey = R
+
 translation-languages-button-remove-all =
     .label = सगळ्यो भाशा काडात&
     .accesskey = e
+
 translation-sites-button-remove =
     .label = सायट काडात&
     .accesskey = S
+
 translation-sites-button-remove-all =
     .label = सगळ्यो सायटी काडात&
     .accesskey = i
+

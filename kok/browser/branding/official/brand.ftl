@@ -27,8 +27,8 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
+-brand-shortcut-name = Firefox
+
 -brand-full-name = मॉझिला फायरफॉक्स
 -vendor-short-name = मोझीला
 trademarkInfo = फायरफॉक्स आनी फायरफॉक्स चीं बोधचिन्नां  मोझिला फावंडेशनाची वेपारी कुरू आसा.
--brand-shortcut-name = Firefox
-

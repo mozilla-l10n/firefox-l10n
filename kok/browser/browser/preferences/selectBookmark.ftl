@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = होमपेज थारायात
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = होमपेज थारायात
     .style = min-width: 32em;
+
 select-bookmark-desc = तुमची होमपेज करपाक बुकमार्क निवडात. जर तुमी फोल्डर निवडले, त्या फोल्डरातलो बुकमार्क टॅबांनी उक्तो जातलो.
