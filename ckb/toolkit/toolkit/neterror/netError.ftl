@@ -27,4 +27,6 @@ neterror-view-certificate-link = بڕوانامە پیشان بدە
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ناتوانێت پەڕگە باربکات لەبەر چەند هۆکارێک.
+
 neterror-captive-portal = پێویستە پێش ئەوە بچیتە ژوورەوە بۆ ئەوەی بتوانی دەستت بگات بە ئینتەرنێت.
+

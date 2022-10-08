@@ -10,6 +10,7 @@
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = ڕێگە بەم ماڵپەڕە بدە بەستەری { $scheme } بکاتەوە؟
+
 permission-dialog-description-file = ڕێگە بدە بەم پەڕگەیە بەستەری { $scheme } بکاتەوە؟
 
 ## Please keep the emphasis around the hostname and scheme (ie the
@@ -29,5 +30,6 @@ choose-app-btn =
     .label = هەڵبژێرە...
     .accessKey = C
 choose-other-app-window-title = داوانامەیەکی تر...
+
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = لە پەنجەرەی تایبەت ناچالاک کراوە

@@ -5,25 +5,33 @@
 webpage-languages-window =
     .title = ڕێکخستنی زمانی پەڕەی وێب
     .style = width: 40em
+
 webpage-languages-window2 =
     .title = ڕێکخستنی زمانی پەڕەی وێب
     .style = min-width: 40em
+
 languages-close-key =
     .key = w
+
 languages-customize-moveup =
     .label = بیبە سەرەوە
     .accesskey = U
+
 languages-customize-movedown =
     .label = بیبە خوارەوە
     .accesskey = D
+
 languages-customize-remove =
     .label = بیسڕەوە
     .accesskey = R
+
 languages-customize-select-language =
     .placeholder = زمان هەڵبژێرە بۆ زیادکردن...
+
 languages-customize-add =
     .label = زیادکردن
     .accesskey = A
+
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -36,21 +44,30 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }[{ $code }]
+
 languages-active-code-format =
     .value = { languages-code-format.label }
+
 browser-languages-window =
     .title = { -brand-short-name } ڕێکخستنی زمان
     .style = width: 40em
+
 browser-languages-window2 =
     .title = { -brand-short-name } ڕێکخستنی زمان
     .style = min-width: 40em
+
 browser-languages-search = بگەڕێ بۆ زمانی زیاتر...
+
 browser-languages-searching =
     .label = دەگەڕێت بۆ زمانی زیاتر...
+
 browser-languages-downloading =
     .label = دادەگیرێت...
+
 browser-languages-select-language =
     .label = زمان هەڵبژێرە بۆ زیادکردن...
     .placeholder = زمان هەڵبژێرە بۆ زیادکردن...
+
 browser-languages-installed-label = زمانی دامەزراو
 browser-languages-available-label = زمانی بەردەست
+

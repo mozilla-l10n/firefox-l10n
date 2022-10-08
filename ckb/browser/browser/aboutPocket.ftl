@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = تاگ زیاد بکە
+
 pocket-panel-saved-error-generic = هەڵەیەک ڕوویدا لە کاتی پاشەکەوتکردنی بۆ { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = تاگەکان سنوردار کراوە بۆ ٢٥ پیت وهێما.
 pocket-panel-saved-error-only-links = تەنها بەستەرەکان پاشەکەوت دەکرێن.
@@ -25,6 +26,7 @@ pocket-panel-saved-saving-tags = پاشکەوت دەکرێت...
 pocket-panel-saved-suggested-tags = تاگی پێشنیارکراو
 pocket-panel-saved-tags-saved = تاگەکان زیادکران
 pocket-panel-signup-view-list = لیستە پیشان بدە
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = تاگ زیاد بکە:
 
