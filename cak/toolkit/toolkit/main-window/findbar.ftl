@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Anin rukanoxik (taq ximonel)
 findbar-case-sensitive-status =
     .value = (Na'onel chi ke taq nimatz'ib')
+findbar-match-diacritics-status =
+    .value = (Tiya' kikojol tz'aqat taq tz'ib')
 findbar-entire-word-status =
     .value = (Xa xe tz'aqät taq tzij)
 # Variables:
