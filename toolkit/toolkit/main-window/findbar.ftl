@@ -42,3 +42,5 @@ findbar-fast-find-links =
     .placeholder = Brza pretraga (samo poveznice)
 findbar-case-sensitive-status =
     .value = (Razlikovanje malih i velikih slova)
+findbar-entire-word-status =
+    .value = (samo cijele riječi)
