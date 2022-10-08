@@ -6,3 +6,5 @@ about-private-browsing-not-private = Ãçxteya mei'g vxitx leçxkwete jiyunximet
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+

@@ -16,3 +16,4 @@
 
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Yaçka pta'sxwa'j: SSL_ERROR_UNSUPPORTED_VERSION
+
