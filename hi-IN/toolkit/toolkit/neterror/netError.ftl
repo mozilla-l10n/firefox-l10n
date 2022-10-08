@@ -6,11 +6,13 @@
 ## Error page titles
 
 neterror-page-title = पृष्ठ की लोडिंग में समस्या
+neterror-captive-portal-page-title = नेटवर्क के लिए लॉग इन करें
 
 ## Error page actions
 
 neterror-copy-to-clipboard-button = क्लिपबोर्ड पर पाठ की नक़ल करें
 neterror-learn-more-link = अधिक जानें…
+neterror-open-portal-login-page-button = ओपन नेटवर्क लॉगिन पृष्ठ
 neterror-pref-reset-button = तयशुदा सेटिंग्स पुरानी स्थिति में लाएं
 neterror-return-to-previous-page-button = पीछे जाएँ
 neterror-try-again-button = फिर कोशिश करें
