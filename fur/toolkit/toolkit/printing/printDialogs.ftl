@@ -103,6 +103,7 @@ print-window =
     .title = Daûr a stampâ
 print-complete =
     .value = Finît di stampâ.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

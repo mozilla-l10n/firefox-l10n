@@ -14,11 +14,15 @@ about-config-intro-warning-button = Acete il risi e continue
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Lis modifichis di chestis preferencis a puedin influî su la sigurece e lis prestazions di { -brand-short-name }.
+
 about-config-page-title = Preferencis avanzadis
+
 about-config-search-input1 =
     .placeholder = Cîr il non de preference
 about-config-show-all = Mostre dut
+
 about-config-show-only-modified = Mostre dome lis preferencis modificadis
+
 about-config-pref-add-button =
     .title = Zonte
 about-config-pref-toggle-button =

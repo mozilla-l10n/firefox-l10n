@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Credenziâls e Passwords
+
 login-filter =
     .placeholder = Cîr credenziâls
+
 create-login-button = Cree gnove credenziâl
+
 fxaccounts-sign-in-text = Torne a cjatâ lis tôs passwords sui tiei altris dispositîfs
 fxaccounts-sign-in-sync-button = Jentre par sincronizâ
 fxaccounts-avatar-button =
@@ -113,16 +116,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Par modificâ la tô creden
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modificâ lis credenziâls salvadis
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Par visualizâ la tô password, inserìs lis tôs credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei accounts.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = rivelâ la password salvade
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Par copiâ la tô password, inserìs lis tôs credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei accounts.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiâ la password salvade
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Par espuartâ lis tôs credenziâls, inserìs lis credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei account.
 # This message can be seen when attempting to export a password in about:logins
@@ -141,21 +147,25 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Anule
 confirmation-dialog-dismiss-button =
     .title = Anule
+
 about-logins-confirm-remove-dialog-title = Gjavâ cheste credenziâl?
 confirm-delete-dialog-message = No si pues tornâ indaûr di cheste azion.
 about-logins-confirm-remove-dialog-confirm-button = Gjave
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Gjave
         [one] Gjave
        *[other] Gjave dutis
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Sì, gjave cheste credenziâl
         [one] Sì, gjave cheste credenziâl
        *[other] Sì, gjave chestis credenziâls
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Gjavâ { $count } credenziâl?
@@ -167,6 +177,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Chest al gjavarà la credenziâl salvade su { -brand-short-name } e ducj i relatîfs avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
        *[other] Chest al gjavarà lis credenziâls salvadis su { -brand-short-name } e ducj i relatîfs avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Gjavâ { $count } credenziâl di ducj i dispositîfs?
@@ -178,11 +189,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Chest al gjavarà la credenziâl salvade su { -brand-short-name } su ducj i dispositîfs sincronizâts al to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
        *[other] Chest al gjavarà dutis lis credenziâls salvadadis su { -brand-short-name } su ducj i dispositîfs sincronizâts al to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
     }
+
 about-logins-confirm-export-dialog-title = Espuarte credenziâls e passwords
 about-logins-confirm-export-dialog-message = Si salvarà lis tôs passwords tant che test leibil (p.e. BadP@ssw0rd) si che duncje chei che a puedin vierzilu a rivaran a viodilis.
 about-logins-confirm-export-dialog-confirm-button = Espuarte…
+
 about-logins-alert-import-title = Importazion completade
 about-logins-alert-import-message = Viôt la sintesi detaiade de importazion
+
 confirm-discard-changes-dialog-title = Scartâ lis modifichis no salvadis?
 confirm-discard-changes-dialog-message = Dutis lis modifichis che no son stadis salvadis a laran pierdudis.
 confirm-discard-changes-dialog-confirm-button = Scarte
@@ -213,6 +227,7 @@ about-logins-vulnerable-alert-learn-more-link = Plui informazions
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = E esist za une vôs par { $loginTitle } cun chel non utent. <a data-l10n-name="duplicate-link">Lâ ae vôs esistente?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Al è capitât un erôr intant che si cirive di salvâ cheste password.
 
@@ -261,10 +276,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Gnovis credenziâls zontadis:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Credenziâls esistentis inzornadis:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Cjatadis credenziâls doplis::</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no impuartadis)</span>
@@ -274,6 +291,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Erôrs:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no impuartadis)</span>
     }
 about-logins-import-dialog-done = Fat
+
 about-logins-import-dialog-error-title = Erôr di importazion
 about-logins-import-dialog-error-conflicting-values-title = Plui valôrs in conflit par une credenziâl
 about-logins-import-dialog-error-conflicting-values-description = Par esempli: multiplis nons utents, passwords, URLs e v. i. par une sole credenziâl.
@@ -287,8 +305,10 @@ about-logins-import-dialog-error-no-logins-imported = No je stade impuartade nis
 about-logins-import-dialog-error-learn-more = Plui informazions
 about-logins-import-dialog-error-try-import-again = Prove torne a impuartâ…
 about-logins-import-dialog-error-cancel = Anule
+
 about-logins-import-report-title = Sintesi di importazion
 about-logins-import-report-description = Credenziâls e passwords impuartadis su { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

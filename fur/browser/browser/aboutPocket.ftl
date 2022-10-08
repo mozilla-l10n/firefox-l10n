@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Zonte etichetis
+
 pocket-panel-saved-error-generic = Al è vignût fûr un erôr intant che si cirive di salvâ su { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Lis etichetis a àn un limit di 25 caratars
 pocket-panel-saved-error-only-links = Si pues salvâ dome i colegaments
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Daûr a salvâ…
 pocket-panel-saved-suggested-tags = Etichetis sugjeridis
 pocket-panel-saved-tags-saved = Etichetis zontadis
 pocket-panel-signup-view-list = Visualize la liste
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Zonte etichetis:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = Regjistriti cun { -brand-product-name }
 pocket-panel-signup-tagline = Salve i articui e i videos di { -brand-product-name } par visualizâju in { -pocket-brand-name } su cualsisei dispositîf, cuant che tu vûs.
 pocket-panel-signup-tagline-story-one = Fâs clic sul boton di { -pocket-brand-name } par salvâ di { -brand-product-name } cualsisei articul, video o pagjine.
 pocket-panel-signup-tagline-story-two = Visualize in { -pocket-brand-name } su cualsisei dispositîf, cuant che tu vûs.
+
 pocket-panel-signup-cta-a-fix = Il to boton di salvament par internet
 pocket-panel-signup-cta-b = Fâs clic sul boton { -pocket-brand-name } par salvâ articui, videos e colegaments. Visualize la tô liste su cualsisei dispositîf, cuant che tu vûs.
 pocket-panel-signup-cta-b-short = Fâs clic sul boton { -pocket-brand-name } par salvâ articui, videos e colegaments.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = Tu puedis doprâ { -pocket-brand-name } par esplor
 pocket-panel-home-explore-popular-topics = Esplora i argoments plui popolârs
 pocket-panel-home-discover-more = Scuvierç alc altri
 pocket-panel-home-explore-more = Esplore
+
 pocket-panel-home-most-recent-saves = Chi a son i salvaments plui resints:
 pocket-panel-home-most-recent-saves-loading = Cjariament dal salvaments resints…
 pocket-panel-home-new-user-cta = Fâs clic sul boton { -pocket-brand-name } par salvâ articui, videos e colegaments.

@@ -103,6 +103,7 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -8,33 +8,44 @@
 devmgr =
     .title = Gjestôr dispositîfs
     .style = width: 67em; height: 32em;
+
 devmgr-window =
     .title = Gjestôr dispositîfs
     .style = min-width: 67em; min-height: 32em;
+
 devmgr-devlist =
     .label = Modui e dispositîfs di sigurece
+
 devmgr-header-details =
     .label = Detais
+
 devmgr-header-value =
     .label = Valôr
+
 devmgr-button-login =
     .label = Jentre
     .accesskey = J
+
 devmgr-button-logout =
     .label = Jes
     .accesskey = J
+
 devmgr-button-changepw =
     .label = Gambie password
     .accesskey = G
+
 devmgr-button-load =
     .label = Cjarie
     .accesskey = C
+
 devmgr-button-unload =
     .label = Discjarie
     .accesskey = D
+
 devmgr-button-enable-fips =
     .label = Ative FIPS
     .accesskey = F
+
 devmgr-button-disable-fips =
     .label = Disative FIPS
     .accesskey = F
@@ -43,15 +54,20 @@ devmgr-button-disable-fips =
 
 load-device =
     .title = Cjame driver di dispositîf PKCS#11
+
 load-device-info = Inserìs informazion pal modul che tu vuelis zontâ.
+
 load-device-modname =
     .value = Non dal modul
     .accesskey = M
+
 load-device-modname-default =
     .value = Gnûf modul PKCS#11
+
 load-device-filename =
     .value = Non dal file dal modul
     .accesskey = f
+
 load-device-browse =
     .label = Sgarfe…
     .accesskey = S
@@ -60,35 +76,50 @@ load-device-browse =
 
 devinfo-status =
     .label = Stât
+
 devinfo-status-disabled =
     .label = Disativât
+
 devinfo-status-not-present =
     .label = No presint
+
 devinfo-status-uninitialized =
     .label = No inizializât
+
 devinfo-status-not-logged-in =
     .label = No conetût
+
 devinfo-status-logged-in =
     .label = Jentrât
+
 devinfo-status-ready =
     .label = Pront
+
 devinfo-desc =
     .label = Descrizion
+
 devinfo-man-id =
     .label = Produtôr
+
 devinfo-hwversion =
     .label = Version HW
 devinfo-fwversion =
     .label = Version FW
+
 devinfo-modname =
     .label = Modul
+
 devinfo-modpath =
     .label = Percors
+
 login-failed = No si à rivât a jentrâ
+
 devinfo-label =
     .label = Etichete
+
 devinfo-serialnum =
     .label = Numar seriâl
+
 add-module-failure = Impussibil zontâ il modul
 del-module-warning = Eliminâ pardabon chest modul di sigurece?
 del-module-error = Impussibil eliminâ il modul

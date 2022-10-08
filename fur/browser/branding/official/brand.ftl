@@ -30,11 +30,11 @@
 
 -brand-shorter-name = Firefox
 -brand-short-name = Firefox
+-brand-shortcut-name = Firefox
+
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox e i logos di Firefox a son marchis regjistradis de Mozilla Foundation.
--brand-shortcut-name = Firefox
-

@@ -158,8 +158,6 @@ sandbox-proc-type-media-plugin = plugin multimediâl
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
-fission-status-disabled-by-safe-mode = Disativât de modalitât sigure
-
 apz-none = nissun
 keyboard-enabled = tastiere abilitade
 

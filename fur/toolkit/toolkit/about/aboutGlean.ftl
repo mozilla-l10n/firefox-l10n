@@ -8,6 +8,7 @@
 about-glean-page-title = Informazions su Glean
 about-glean-description = Il <a data-l10n-name="glean-sdk-doc-link">SDK di Glean</a> e je une librarie di colezions di dâts doprade tai prodots di Mozilla. Cheste pagjine e je pai svilupadôrs e par chei che a fasin provis che a àn bisugne di <a data-l10n-name="fog-debug-doc-link">configurâ il debug e il stât dai regjistris tal SDK di Glean</a>.
 about-glean-warning = Doprâ in maniere sbaliade cheste interface al pues causâ il colàs di { -brand-short-name }.
+
 tag-pings-label = Segne ducj i pings inviâts cun cheste etichete
 log-pings-label = Regjistrâ il caric util dal ping prime di inviâlu?
 send-pings-label = Invie il ping cul non

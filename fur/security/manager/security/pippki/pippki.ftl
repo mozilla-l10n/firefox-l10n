@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Daûr a cjamâ certificât
     .style = width: 46em
+
 download-cert-window2 =
     .title = Daûr a cjamâ certificât
     .style = min-width: 46em

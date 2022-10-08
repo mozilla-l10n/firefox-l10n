@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Recapits salvâts
 autofill-manage-addresses-list-header = Recapits
+
 autofill-manage-credit-cards-title = Cjartis di credit salvadis
 autofill-manage-credit-cards-list-header = Cjartis di credit
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Gjave
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Modifiche…
 autofill-add-new-address-title = Zonte gnûf recapit
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifiche recapit
+
 autofill-address-given-name = Non
 autofill-address-additional-name = Secont non
 autofill-address-family-name = Cognon
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Paîs o regjon
 autofill-address-tel = Telefon
 autofill-address-email = E-mail
+
 autofill-cancel-button = Anule
 autofill-save-button = Salve
 autofill-country-warning-message = La compilazion automatiche dai formularis e je disponibile dome par cualchi paîs.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Zonte gnove cjarte di credit
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modifiche cjarte di credit
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } al sta cirint di visualizâ lis informazions de cjarte di credit. Conferme l'acès a chest account di Windows chi sot.
        *[other] { -brand-short-name } al sta cirint di visualizâ lis informazions de cjarte di credit.
     }
+
 autofill-card-number = Numar de cjarte
 autofill-card-invalid-number = Inserìs un numar di cjarte valit
 autofill-card-name-on-card = Non su la cjarte
