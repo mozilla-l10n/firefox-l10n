@@ -33,5 +33,28 @@ findbar-entire-word =
     .tooltiptext = Najde pouze celá slova
 findbar-wrapped-to-top = Dosažen konec stránky, pokračuje se od začátku
 findbar-wrapped-to-bottom = Dosažen začátek stránky, pokračuje se od konce
+findbar-fast-find =
+    .placeholder = Rychlé hledání
+findbar-fast-find-links =
+    .placeholder = Rychlé hledání (pouze odkazy)
 findbar-case-sensitive-status =
     .value = (Rozlišovat velikost písmen)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current }. z { $total } výskytu
+            [few] { $current }. z { $total } výskytů
+           *[other] { $current }. z { $total } výskytů
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Více než { $limit } výskyt
+            [few] Více než { $limit } výskyty
+           *[other] Více než { $limit } výskytů
+        }
