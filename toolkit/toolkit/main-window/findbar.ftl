@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Buscar la próxima aparición de la frase
 findbar-previous =
     .tooltiptext = Buscar la aparición anterior de la frase
-
 findbar-find-button-close =
     .tooltiptext = Cerrar la barra de búsqueda
-
 findbar-highlight-all2 =
     .label = Resaltar todo
     .accesskey =
@@ -21,18 +19,38 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Resaltar todas las ocurrencias de la frase
-
 findbar-case-sensitive =
     .label = Coincidir mayúsculas
     .accesskey = C
     .tooltiptext = Buscar con coincidencia de mayúsculas
-
 findbar-match-diacritics =
     .label = Coincidir diacríticos
     .accesskey = i
     .tooltiptext = Distingue entre letras con acentos y sus letras base (por ejemplo, al buscar por "como", "cómo" no coincidirá  y por lo tanto no va a aparecer)
-
 findbar-entire-word =
     .label = Palabras completas
     .accesskey = P
     .tooltiptext = Buscar solamemte palabras completas
+findbar-normal-find =
+    .placeholder = Buscar en página
+findbar-fast-find =
+    .placeholder = Búsqueda rápida
+findbar-fast-find-links =
+    .placeholder = Búsqueda rápida (solamente enlaces)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } de { $total } coincidencia
+           *[other] { $current } de { $total } coincidencias
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Más de { $limit } coincidencia
+           *[other] Más de { $limit } coincidencias
+        }
