@@ -13,7 +13,7 @@
 pending-crash-reports-message =
     { $reportCount ->
         [one] আপনার পাঠানো হয়নি এমন একটি ক্রাস রিপোর্ট রয়েছে
-       *[other] { " " }আপনার পাঠানো হয়নি এমন { $reportCount } ক্রাস রিপোর্ট রয়েছে
+       *[other] আপনার পাঠানো হয়নি এমন { $reportCount } ক্রাস রিপোর্ট রয়েছে
     }
 pending-crash-reports-view-all =
     .label = দেখাও
