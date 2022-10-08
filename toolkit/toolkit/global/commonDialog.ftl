@@ -6,10 +6,12 @@ common-dialog-title-null = Sayfa diyor ki:
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Bilinmeyen
+
 common-dialog-username =
     .value = Kullanıcı adı
 common-dialog-password =
     .value = Parola
+
 common-dialog-copy-cmd =
     .label = Kopyala
     .accesskey = K

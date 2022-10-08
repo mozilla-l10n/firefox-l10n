@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Gizli Gezinti)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (Gizli Gezinti)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (Gizli Gezinti)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (Gizli Gezinti)
+
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -52,6 +54,7 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } Gizli Gezinti
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Gizli Gezinti
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -71,12 +74,15 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Gizli Gezinti
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Gizli Gezinti
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 private-browsing-shortcut-text = { -brand-short-name } Gizli Gezinti
+
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Gizli Gezinti
 
 ##
@@ -148,6 +154,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Daha az yazın, daha çok bulun: Adres çubuğunuzdan { $engineName } ile arama yapın.
 urlbar-search-tips-redirect-2 = { $engineName } ve gezinti geçmişinizden gelen önerileri görmek için adres çubuğunda arama yapmaya başlayın.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Aradığınızı daha hızlı bulmak için bu kısayolu seçin.
@@ -157,6 +164,7 @@ urlbar-tabtosearch-onboard = Aradığınızı daha hızlı bulmak için bu kısa
 urlbar-search-mode-bookmarks = Yer imleri
 urlbar-search-mode-tabs = Sekmeler
 urlbar-search-mode-history = Geçmiş
+
 urlbar-search-mode-actions = Eylemler
 
 ##
@@ -185,10 +193,12 @@ urlbar-midi-blocked =
     .tooltiptext = Bu sitenin MIDI erişimini engellediniz.
 urlbar-install-blocked =
     .tooltiptext = Bu sitenin eklenti yüklemesini engellediniz.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Bu yer imini düzenle ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -200,6 +210,7 @@ page-action-manage-extension =
     .label = Uzantıyı yönet…
 page-action-remove-extension =
     .label = Uzantıyı kaldır
+
 page-action-manage-extension2 =
     .label = Uzantıyı yönet…
     .accesskey = U
@@ -221,8 +232,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Bir de bununla aramayı deneyin:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Arama ayarlarını değiştir
+
 search-one-offs-context-open-new-tab =
     .label = Yeni sekmede ara
     .accesskey = s
@@ -232,12 +245,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Gizli pencerelerde varsayılan arama motoru olarak ayarla
     .accesskey = G
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -264,6 +279,7 @@ search-one-offs-tabs =
     .tooltiptext = Sekmeler ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Geçmiş ({ $restrict })
+
 search-one-offs-actions =
     .tooltiptext = Eylemler ({ $restrict })
 
@@ -274,55 +290,73 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Eklentileri görüntüle
 quickactions-cmd-addons = eklentiler, uzantılar, temalar
+
 quickactions-cmd-addons2 = eklentiler
+
 # Opens the bookmarks library window
 quickactions-bookmarks = Yer imlerini görüntüle
 quickactions-cmd-bookmarks = yer imleri
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Geçmişi temizle
 quickactions-cmd-clearhistory = geçmişi temizle
+
 # Opens about:downloads page
 quickactions-downloads = İndirilenleri aç
 quickactions-cmd-downloads = indirilenler
+
 # Opens about:addons page in the extensions section
 quickactions-extensions = Uzantıları yönet
 quickactions-cmd-extensions = uzantılar
+
 # Opens the devtools web inspector
 quickactions-inspector = Denetçiyi aç
 quickactions-cmd-inspector = denetçi, geliştirici araçları
+
 # Opens about:logins
 quickactions-logins = Hesapları göster
 quickactions-cmd-logins = hesaplar, parolalar
+
 # Opens about:addons page in the plugins section
 quickactions-plugins = Yan uygulamaları yönet
 quickactions-cmd-plugins = yan uygulamalar
+
 # Opens the print dialog
 quickactions-print = Yazdır
 quickactions-cmd-print = yazdır
+
 # Opens a new private browsing window
 quickactions-private = Gizli gezinti penceresini aç
 quickactions-cmd-private = gizli gezinti
+
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } tarayıcısını yenile
 quickactions-cmd-refresh = tazele
+
 # Restarts the browser
 quickactions-restart = { -brand-short-name } tarayıcısını yeniden başlat
 quickactions-cmd-restart = yeniden başlat
+
 # Opens the screenshot tool
 quickactions-screenshot2 = Ekran görüntüsü al
 quickactions-cmd-screenshot = ekran görüntüsü
+
 # Opens about:preferences
 quickactions-settings = Ayarları aç
 quickactions-cmd-settings = ayarlar, tercihler, seçenekler
+
 # Opens about:addons page in the themes section
 quickactions-themes = Temaları yönet
 quickactions-cmd-themes = temalar
+
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } tarayıcısını güncelle
 quickactions-cmd-update = güncelle
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Kaynağı göster
 quickactions-cmd-viewsource = kaynağı görüntüle, kaynak
+
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Hızlı eylemler hakkında daha fazla bilgi alın
@@ -348,6 +382,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = K
 bookmark-panel-save-button =
     .label = Kaydet
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -375,6 +410,7 @@ identity-passive-loaded = Bu sayfanın bazı kısımları (örneğin resimler) g
 identity-active-loaded = Bu sayfada korumayı devre dışı bıraktınız.
 identity-weak-encryption = Bu sayfada zayıf şifreleme kullanılıyor.
 identity-insecure-login-forms = Bu sayfaya girilen hesap bilgileri ele geçirilebilir.
+
 identity-https-only-connection-upgraded = (HTTPS’e yükseltildi)
 identity-https-only-label = Yalnızca HTTPS modu
 identity-https-only-dropdown-on =
@@ -386,9 +422,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Mümkün olduğunda { -brand-short-name } tarayıcınızın güvenli bağlantıya geçmesini istiyorsanız bu site için Yalnızca HTTPS modunu açın.
 identity-https-only-info-turn-off2 = Sayfa düzgün çalışmazsa bu site için Yalnızca HTTPS modunu kapatarak siteyi güvensiz HTTP ile yüklemeyi deneyebilirsiniz.
 identity-https-only-info-no-upgrade = HTTP bağlantısı yükseltilemedi.
+
 identity-permissions-storage-access-header = Siteler arası çerezler
 identity-permissions-storage-access-hint = Bu siteler, siz bu sitedeyken siteler diğer sitelerdeki çerezleri ve site verilerini kullanabilir.
 identity-permissions-storage-access-learn-more = Daha fazla bilgi al
+
 identity-permissions-reload-hint = Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.
 identity-clear-site-data =
     .label = Çerezleri ve site verilerini temizle…
@@ -451,12 +489,14 @@ browser-tab-mute =
         [1] SEKMENİN SESİNİ KAPAT
        *[other] { $count } SEKMENİN SESİNİ KAPAT
     }
+
 browser-tab-unmute =
     { $count ->
         [1] SEKMENİN SESİNİ AÇ
         [one] SEKMENİN SESİNİ AÇ
        *[other] { $count } SEKMENİN SESİNİ AÇ
     }
+
 browser-tab-unblock =
     { $count ->
         [1] SEKMEYİ OYNAT
@@ -469,6 +509,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Yer imlerini içe aktar…
     .tooltiptext = Başka bir tarayıcıdaki yer imlerini { -brand-short-name } tarayıcısına aktar.
+
 bookmarks-toolbar-empty-message = Hızlıca erişmek istediğiniz yer imlerinizi yer imleri araç çubuğuna yerleştirebilirsiniz. <a data-l10n-name="manage-bookmarks">Yer imlerini yönet…</a>
 
 ## WebRTC Pop-up notifications
@@ -486,12 +527,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Hoparlör
 popup-all-windows-shared = Ekranınızdaki tüm görünür pencereler paylaşılacaktır.
+
 popup-screen-sharing-block =
     .label = Engelle
     .accesskey = E
+
 popup-screen-sharing-always-block =
     .label = Her zaman engelle
     .accesskey = H
+
 popup-mute-notifications-checkbox = Paylaşırken web sitesi bildirimlerini sessize al
 
 ## WebRTC window or screen share tab switch warning
@@ -506,6 +550,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 kısayolunu kullanmak için önce Web geliştirici menüsünden geliştirici araçlarını açın.
+
 enable-devtools-popup-description2 = F12 kısayolunu kullanmak için önce tarayıcı araçları menüsünden geliştirici araçlarını açın.
 
 ## URL Bar
@@ -514,6 +559,7 @@ enable-devtools-popup-description2 = F12 kısayolunu kullanmak için önce taray
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Arama yapın veya adres yazın
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -522,6 +568,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Web’de ara
     .aria-label = { $name } ile ara
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -530,26 +577,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Aranacak terimleri yazın
     .aria-label = { $name } ile ara
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Aranacak terimleri yazın
     .aria-label = Yer imlerinde ara
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Aranacak terimleri yazın
     .aria-label = Geçmişte ara
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Aranacak terimleri yazın
     .aria-label = Sekmelerde ara
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Aranacak terimleri yazın
     .aria-label = Eylemlerde ara
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } ile arama yapın veya adres yazın
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -559,9 +612,11 @@ urlbar-permissions-granted =
     .tooltiptext = Bu siteye ek izinler verdiniz.
 urlbar-switch-to-tab =
     .value = Sekmeye geç:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
+
 urlbar-go-button =
     .tooltiptext = Konum çubuğundaki adrese git
 urlbar-page-action-button =
@@ -621,6 +676,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Yer imlerinde ara
 urlbar-result-action-search-history = Geçmişte ara
 urlbar-result-action-search-tabs = Sekmelerde ara
+
 urlbar-result-action-search-actions = İşlemlerde ara
 
 ## Labels shown above groups of urlbar results
@@ -629,12 +685,14 @@ urlbar-result-action-search-actions = İşlemlerde ara
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } Önerileri
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Hızlı Eylemler
@@ -646,9 +704,12 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> artık tam ekran
 fullscreen-warning-no-domain = Bu belge artık tam ekran
+
+
 fullscreen-exit-button = Tam ekrandan çık (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam ekrandan çık (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -658,6 +719,7 @@ pointerlock-warning-no-domain = Bu belge işaretçinizi kontrol ediyor. Kontrol�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Bu sayfanın bir kısmı çöktü.</strong> Bize rapor göndererek sorunu bildirirseniz { -brand-product-name } tarayıcınızı daha hızlı düzeltebiliriz.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -713,8 +775,10 @@ bookmarks-tools =
     .label = Yer imi araçları
 bookmarks-bookmark-edit-panel =
     .label = Bu yer imini düzenle
+
 bookmarks-subview-edit-bookmark =
     .label = Bu yer imini düzenle…
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -728,9 +792,11 @@ bookmarks-toolbar-placeholder =
     .title = Yer imleri araç çubuğu öğeleri
 bookmarks-toolbar-placeholder-button =
     .label = Yer imleri araç çubuğu öğeleri
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bu sekmeyi yer imlerine ekle
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Bu sekmeyi yer imlerine ekle…
@@ -761,6 +827,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Eklentiler ve temalar
     .tooltiptext = Eklentilerinizi ve temalarınızı yönetin ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -770,25 +837,31 @@ toolbar-settings-button =
             [macos] Ayarları aç ({ $shortcut })
            *[other] Ayarları aç
         }
+
 toolbar-overflow-customize-button =
     .label = Araç çubuğunu özelleştir…
     .accesskey = u
+
 toolbar-button-email-link =
     .label = Bağlantıyı e-postala
     .tooltiptext = Bu sayfanın linkini e-postayla gönder
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Sayfayı kaydet
     .tooltiptext = Bu sayfayı kaydet ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Dosya aç
     .tooltiptext = Dosya aç ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Eşitlenmiş sekmeler
     .tooltiptext = Diğer cihazlardaki sekmeleri göster
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -829,6 +902,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } açılır pencerelerine izin ver
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } açılır pencerelerini engelle
     .accesskey = p
@@ -838,9 +912,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Açılır pencereler engellendiğinde bu iletiyi gösterme
     .accesskey = m
+
 edit-popup-settings =
     .label = Açılır pencere ayarlarını yönet…
     .accesskey = A
+
 picture-in-picture-hide-toggle =
     .label = Görüntü içinde görüntü düğmesini gizle
     .accesskey = G
@@ -851,6 +927,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Görüntü içinde görüntü düğmesini sağa taşı
     .accesskey = G
+
 picture-in-picture-move-toggle-left =
     .label = Görüntü içinde görüntü düğmesini sola taşı
     .accesskey = ö
@@ -865,32 +942,42 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Gezinme
+
 navbar-downloads =
     .label = İndirilenler
+
 navbar-overflow =
     .tooltiptext = Daha fazla araç…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Yazdır
     .tooltiptext = Bu sayfayı yazdır… ({ $shortcut })
+
 navbar-home =
     .label = Başlangıç
     .tooltiptext = { -brand-short-name } Giriş Sayfası
+
 navbar-library =
     .label = Arşiv
     .tooltiptext = Geçmişinize, kayıtlı yer imlerinize ve daha fazlasına bakın
+
 navbar-search =
     .title = Ara
+
 navbar-accessibility-indicator =
     .tooltiptext = Erişilebilirlik özellikleri açık
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tarayıcı sekmeleri
+
 tabs-toolbar-new-tab =
     .label = Yeni sekme
+
 tabs-toolbar-list-all-tabs =
     .label = Tüm sekmeleri listele
     .tooltiptext = Tüm sekmeleri listele
@@ -907,6 +994,7 @@ data-reporting-notification-message = { -brand-short-name }, deneyiminizi geliş
 data-reporting-notification-button =
     .label = Ne paylaşacağımı seç
     .accesskey = N
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Gizli gezinti
 

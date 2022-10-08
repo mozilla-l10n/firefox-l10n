@@ -14,6 +14,7 @@
 
 <!ENTITY productHelp.label "&brandShortName; yardımı">
 <!ENTITY productHelp.accesskey "a">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">
