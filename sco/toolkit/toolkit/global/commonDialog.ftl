@@ -6,10 +6,12 @@ common-dialog-title-null = This page says
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Unkent
+
 common-dialog-username =
     .value = Yaiser nemme
 common-dialog-password =
     .value = Passwird
+
 common-dialog-copy-cmd =
     .label = Copy
     .accesskey = C

@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Saved Addresses
 autofill-manage-addresses-list-header = Addresses
+
 autofill-manage-credit-cards-title = Saved Credit Cairds
 autofill-manage-credit-cards-list-header = Credit Cairds
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Remuive
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Edit…
 autofill-add-new-address-title = Add New Addresses
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edit Address
+
 autofill-address-given-name = First Nemme
 autofill-address-additional-name = Middle Nemme
 autofill-address-family-name = Last Nemme
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Kintra or Region
 autofill-address-tel = Phone
 autofill-address-email = Email
+
 autofill-cancel-button = Stap
 autofill-save-button = Save
 autofill-country-warning-message = Form Autofeenish is available anely fur certain kintras the noo.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Eik On New Credit Caird
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edit Credit Caird
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } is tryin tae kythe credit caird information. Confirm ingang tae this Windows accoont ablow.
        *[other] { -brand-short-name } is tryin tae kythe credit caird information.
     }
+
 autofill-card-number = Caird Nummer
 autofill-card-invalid-number = Gonnae inpit a suithfest caird nummer
 autofill-card-name-on-card = Nemme on Caird

@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Stert fresh fur tae sort performance issues
 refresh-profile = Gie { -brand-short-name } a wance-ower
 refresh-profile-button = Refresh { -brand-short-name }…
 refresh-profile-learn-more = Lairn mair
+
 refresh-profile-progress =
     .title = Refresh { -brand-short-name }
 refresh-profile-progress-description = Jist aboot feenisht…

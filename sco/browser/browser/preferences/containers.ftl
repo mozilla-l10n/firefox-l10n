@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = { $name } Conteener Settins
     .style = width: 45em
+
 containers-window-new2 =
     .title = Eik On New Conteener
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = { $name } Conteener Settins
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nemme
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Inpit a conteener nemme
+
 containers-icon-label = Icon
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Colour
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Duin
     .buttonaccesskeyaccept = D
+
 containers-color-blue =
     .label = Blue
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Purple
 containers-color-toolbar =
     .label = Match toolbaur
+
 containers-icon-fence =
     .label = Fence
 containers-icon-fingerprint =

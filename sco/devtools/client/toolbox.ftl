@@ -15,3 +15,5 @@ toolbox-meatball-menu-settings-label = Settins
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
