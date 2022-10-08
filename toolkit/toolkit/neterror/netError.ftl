@@ -11,6 +11,7 @@ neterror-captive-portal-page-title = ចូល​បណ្ដាញ
 
 neterror-copy-to-clipboard-button = ចម្លង​អត្ថបទ​ទៅ​ក្ដារ​តម្បៀត​ខ្ទាស់
 neterror-learn-more-link = ស្វែងយល់​បន្ថែម...
+neterror-open-portal-login-page-button = បើក​ទំព័រ​ចូល​ទៅកាន់​បណ្ដាញ
 neterror-pref-reset-button = ស្ដារ​ការ​កំណត់​លំនាំដើម
 neterror-return-to-previous-page-button = ថយក្រោយ
 neterror-try-again-button = ព្យាយាម​ម្តងទៀត
@@ -26,6 +27,7 @@ neterror-generic-error = { -brand-short-name } មិន​អាច​ផ្ទ
 neterror-load-error-try-again = តំបន់បណ្ដាញ​នេះ​អាច​នឹង​មិន​ដំណើរការ​ជា​បណ្ដោះអាសន្ន ឬ​ក៏​វា​រវល់​ពេក ។ ព្យាយាម​ម្ដងទៀត​ក្នុង​រយៈ​ពេល ​ពីរបី​​នាទី​ក្រោយ ។
 neterror-load-error-connection = ប្រសិនបើ​ អ្នក​មិន​អាច​ផ្ទុក​​ទំព័រ​ណាមួយ​បាន​ទេ សូម​ពិនិត្យមើល​ការ​តភ្ជាប់​បណ្ដាញ​ កុំព្យូទ័រ​របស់​អ្នក ។
 neterror-load-error-firewall = ប្រសិនបើ​ កុំព្យូទ័រ ឬ​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​ការពារ​ដោយ​ជញ្ជាំងភ្លើង​ ឬ​ប្រូកស៊ី សូម​ប្រាកដ​ថា { -brand-short-name } អនុញ្ញាត​ឲ្យ​ចូល​ប្រើ​បណ្ដាញ ។
+neterror-captive-portal = អ្នក​ត្រូវ​តែ​ចូល​ទៅ​កាន់​បណ្ដាញ​នេះ​មុន​ពេល​អ្នក​អាច​ចូល​ប្រើ​អ៊ីន​ធឺណិត។
 neterror-file-not-found-filename = ពិនិត្យ​ឈ្មោះ​ឯកសារ​រក​មើល​អក្សរពុម្ព​ ឬ​កំហុស​ក្នុង​ការ​វាយ​ផ្សេងទៀត​ ។
 neterror-file-not-found-moved = ពិនិត្យមើល​ថា តើ​ឯកសារ​ត្រូវ​បាន​ផ្លាស់ទី ប្ដូរ​ឈ្មោះ ឬ​លុប​ដែរ​ឬ​ទេ ។
 neterror-access-denied = វា​ប្រហែល​ជា​ត្រូវបាន​លុប ផ្លាស់ប្ដូរ​ទីតាំង ឬ​ក៏​មក​ពី​ការ​កំណត់​សិទ្ធិ​ចូល​ប្រើប្រាស់​ឯកសារ។
