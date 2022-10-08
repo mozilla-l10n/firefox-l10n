@@ -7,10 +7,13 @@
 
 site-data-settings-window =
     .title = ფუნთუშების და საიტების მონაცემების მართვა
+
 site-data-settings-description = ქვემოთ მოცემული ვებგვერდები საიტის მონაცემებსა და ფუნთუშებს ინახავს თქვენს კომპიუტერში. { -brand-short-name } საიტების მონაცემებს იქამდე დატოვებს მუდმივ მეხსიერებაზე, სანამ არ წაშლით, ხოლო დროებითი მეხსიერებიდან წაშლის მაშინ, როცა ადგილი დასჭირდება.
+
 site-data-search-textbox =
     .placeholder = საიტების ძიება
     .accesskey = ს
+
 site-data-column-host =
     .label = საიტი
 site-data-column-cookies =
@@ -19,14 +22,18 @@ site-data-column-storage =
     .label = საცავი
 site-data-column-last-used =
     .label = ბოლოს გამოყენებული
+
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (ადგილობრივი ფაილი)
+
 site-data-remove-selected =
     .label = მონიშნულის წაშლა
     .accesskey = წ
+
 site-data-settings-dialog =
     .buttonlabelaccept = ცვლილებების შენახვა
     .buttonaccesskeyaccept = ც
+
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -34,9 +41,11 @@ site-storage-usage =
     .value = { $value } { $unit }
 site-storage-persistent =
     .value = { site-storage-usage.value } (მუდმივი მეხსიერება)
+
 site-data-remove-all =
     .label = ყველაფრის წაშლა
     .accesskey = ყ
+
 site-data-remove-shown =
     .label = ყველა ნაჩვენების წაშლა
     .accesskey = ყ
@@ -46,9 +55,12 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = წაშლა
+
 site-data-removing-header = ფუნთუშებისა და საიტის მონაცემების წაშლა
+
 site-data-removing-desc = ფუნთუშებისა და საიტის მონაცემების წაშლის შედეგად შესაძლოა, ვებსაიტებზე შესული ანგარიშებიდან გამოხვიდეთ. ნამდვილად გსურთ, განაგრძოთ?
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = ფუნთუშებისა და საიტის მონაცემების წაშლით, გამოხვალთ შესული ანგარიშიდან. გსურთ წაშალოთ ფუნთუშები და მონაცემები საიტისთვის <strong>{ $baseDomain }</strong>?
+
 site-data-removing-table = მოცემული საიტების მონაცემები და ფუნთუშები წაიშლება

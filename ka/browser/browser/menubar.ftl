@@ -38,9 +38,11 @@ menu-quit =
             [windows] ლ
            *[other] გ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = დაიხუროს { -brand-shorter-name }
+
 menu-about =
     .label = { -brand-shorter-name } შესახებ
     .accesskey = შ

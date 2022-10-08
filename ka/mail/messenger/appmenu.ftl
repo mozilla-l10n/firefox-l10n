@@ -3,15 +3,31 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+## New Account / Address Book
+
+## Create
+
+## Open
+
 ## View / Layout
 
 appmenu-font-size-value = შრიფტის ზომა
+
 appmenuitem-font-size-enlarge =
     .tooltiptext = შრიფტის ზომის გაზრდა
+
 appmenuitem-font-size-reduce =
     .tooltiptext = შრიფტის ზომის შემცირება
+
 # Variables:
 # $size (String) - The current font size.
 appmenuitem-font-size-reset =
     .label = { $size } px
     .tooltiptext = შრიფტის საწყისი ზომა
+
+## Tools
+
+## Help
+

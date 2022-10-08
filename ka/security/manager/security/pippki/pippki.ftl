@@ -8,18 +8,22 @@ password-quality-meter = პაროლის ხარისხმზომი
 
 change-device-password-window =
     .title = პაროლის შეცვლა
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = უსაფრთხოების მოწყობილობა: { $tokenName }
 change-password-old = მიმდინარე პაროლი:
 change-password-new = ახალი პაროლი:
 change-password-reenter = ახალი პაროლი (კვლავ):
+
 pippki-failed-pw-change = პაროლის შეცვლა, ვერ ხერხდება.
 pippki-incorrect-pw = თქვენ მიერ მითითებული მიმდინარე პაროლი მცდარია. სცადეთ ხელახლა.
 pippki-pw-change-ok = პაროლი წარმატებით შეიცვალა.
+
 pippki-pw-empty-warning = თქვენ მიერ შენახული პაროლები და პირადი გასაღებები, დაუცველი დარჩება.
 pippki-pw-erased-ok = თქვენ მოხსენით პაროლი. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = გაფრთხილება! თქვენ გადაწყვიტეთ არ გამოიყენოთ პაროლი. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = თქვენ FIPS-რეჟიმში ხართ. FIPS-ს ესაჭიროება პაროლი.
 
 ## Reset Primary Password dialog
@@ -27,12 +31,14 @@ pippki-pw-change2empty-in-fips-mode = თქვენ FIPS-რეჟიმში
 reset-primary-password-window =
     .title = მთავარი პაროლის განულება
     .style = width: 40em
+
 reset-primary-password-window2 =
     .title = მთავარი პაროლის განულება
     .style = min-width: 40em
 reset-password-button-label =
     .label = განულება
 reset-primary-password-text = მთავარი პაროლის განულებით, დაიკარგება თქვენ მიერ შენახული ყველა ანგარიშისა და ელფოსტის პაროლი, შევსებული ველების მონაცემები, პირადი სერტიფიკატები. ნამდვილად გსურთ გაანულოთ მთავარი პაროლი?
+
 pippki-reset-password-confirmation-title = მთავარი პაროლის განულება
 pippki-reset-password-confirmation-message = თქვენი მთავარი პაროლი განულებულია.
 
@@ -41,6 +47,7 @@ pippki-reset-password-confirmation-message = თქვენი მთავა�
 download-cert-window =
     .title = სერტიფიკატის გადმოწერა
     .style = width: 46em
+
 download-cert-window2 =
     .title = სერტიფიკატის გადმოწერა
     .style = min-width: 46em

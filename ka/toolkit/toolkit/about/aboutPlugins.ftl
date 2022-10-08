@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = მოდულების შესახებ
+
 installed-plugins-label = ჩადგმული მოდულები
 no-plugins-are-installed-label = ჩადგმული მოდულები ვერ მოიძებნა
+
 deprecation-description = რამე აკლია? ზოგიერთი მოდული აღარაა მხარდაჭერილი. <a data-l10n-name="deprecation-link">იხილეთ ვრცლად.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">მდგომარეობ�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">მდგომარეობა:</span> ჩართულია ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">მდგომარეობა:</span> ამორთულია
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">მდგომარეობა:</span> ამორთულია ({ $blockListState })
+
 mime-type-label = MIME სახის
 description-label = აღწერილობა
 suffixes-label = ფაილის გაფართოებები
@@ -35,7 +38,9 @@ suffixes-label = ფაილის გაფართოებები
 
 plugins-gmp-license-info = ლიცენზიის შესახებ
 plugins-gmp-privacy-info = პირადი მონაცემების დაცვის დებულება
+
 plugins-openh264-name = OpenH264-ვიდეომშიფრავს უზრუნველყოფს Cisco Systems, Inc.
 plugins-openh264-description = ეს მოდული ავტომატურად ჩაიდგა Mozilla-ს მიერ WebRTC-თან სამუშაოდ და WebRTC-ზარების ასამოქმედებლად იმ მოწყობილობებზე, რომლებიც საჭიროებს H.264 სახის ვიდეომშიფრავს. ვრცლად მათ შორის გამშიფრავის წყაროს გაეცნობით http://www.openh264.org/ ბმულზე.
+
 plugins-widevine-name = Widevine შიგთავსის გამშიფრავი მოდული. მომწოდებელი: Google Inc.
 plugins-widevine-description = ეს მოდული საშუალებას იძლევა გაეშვას დაშიფრული ფაილები, Encrypted Media Extensions-ის მოთხოვნების შესაბამისად. დაშიფრულ ფაილებს ჩვეულებრივ საიტები იყენებენ, ძვირადღირებული მასალების უნებართვო მოპარვისა და გავრცელებისგან დასაცავად. იხილეთ https://www.w3.org/TR/encrypted-media/ დამატებითი ინფორმაციისთვის Encrypted Media Extensions-ის შესახებ.
