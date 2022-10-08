@@ -5,15 +5,22 @@
 add-engine-window =
     .title = Přidat vyhledávač
     .style = width: 32em;
+
 add-engine-window2 =
     .title = Přidat vyhledávač
     .style = min-width: 32em;
+
 add-engine-button = Přidat vlastní vyhledávač
+
 add-engine-name = Název vyhledávače
+
 add-engine-alias = Alias
+
 add-engine-url = URL vyhledávače, dotaz nahraďte „%s“
+
 add-engine-dialog =
     .buttonlabelaccept = Přidat vyhledávač
     .buttonaccesskeyaccept = P
+
 engine-name-exists = Vyhledávač s tímto názvem už máte nastavený
 engine-alias-exists = Vyhledávač s tímto aliasem už máte nastavený

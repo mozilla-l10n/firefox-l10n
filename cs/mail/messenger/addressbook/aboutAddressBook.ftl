@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Všechny složky kontaktů
+
 about-addressbook-books-context-properties =
     .label = Vlastnosti
 about-addressbook-books-context-synchronize =
@@ -38,6 +39,7 @@ about-addressbook-books-context-remove =
     .label = Odebrat
 about-addressbook-books-context-startup-default =
     .label = Výchozí počáteční složka
+
 about-addressbook-confirm-delete-book-title = Smazat složku kontaktů
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,14 +57,17 @@ about-addressbook-search =
     .placeholder = Najít ve složce { $name }
 about-addressbook-search-all =
     .placeholder = Prohledat všechny složky kontaktů
+
 about-addressbook-sort-button2 =
     .title = Zobrazení seznamu
+
 about-addressbook-name-format-display =
     .label = Zobrazované jméno
 about-addressbook-name-format-firstlast =
     .label = Jméno Příjmení
 about-addressbook-name-format-lastfirst =
     .label = Příjmení, Jméno
+
 about-addressbook-sort-name-ascending =
     .label = Seřadit podle jména
 about-addressbook-sort-name-descending =
@@ -71,6 +76,7 @@ about-addressbook-sort-email-ascending =
     .label = Seřadit podle e-mailové adresy
 about-addressbook-sort-email-descending =
     .label = Seřadit podle e-mailové adresy (pozpátku)
+
 about-addressbook-horizontal-layout =
     .label = Přepnout na rozložení na šířku
 about-addressbook-vertical-layout =
@@ -103,8 +109,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Kontakty
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = Napsat
+
 about-addressbook-confirm-delete-mixed-title = Smazat kontakty a skupiny
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -179,24 +187,30 @@ about-addressbook-placeholder-no-search-results = Nebyly nalezeny žádné konta
 ## Details
 
 about-addressbook-prefer-display-name = Upřednostnit zobrazované jméno před hlavičkou zprávy
+
 about-addressbook-write-action-button = Napsat zprávu
 about-addressbook-event-action-button = Událost
 about-addressbook-search-action-button = Hledat
+
 about-addressbook-begin-edit-contact-button = Upravit
 about-addressbook-delete-edit-contact-button = Smazat
 about-addressbook-cancel-edit-contact-button = Zrušit
 about-addressbook-save-edit-contact-button = Uložit
+
 about-addressbook-add-contact-to = Přidat do:
+
 about-addressbook-details-email-addresses-header = E-mailové adresy
 about-addressbook-details-phone-numbers-header = Telefonní čísla
 about-addressbook-details-addresses-header = Adresy
 about-addressbook-details-notes-header = Poznámky
 about-addressbook-details-other-info-header = Další údaje
+
 about-addressbook-entry-type-work = Práce
 about-addressbook-entry-type-home = Domů
 about-addressbook-entry-type-fax = Fax
 about-addressbook-entry-type-cell = Mobil
 about-addressbook-entry-type-pager = Pager
+
 about-addressbook-entry-name-birthday = Narozeniny
 about-addressbook-entry-name-anniversary = Výročí
 about-addressbook-entry-name-title = Titul
@@ -204,6 +218,7 @@ about-addressbook-entry-name-role = Pozice
 about-addressbook-entry-name-organization = Společnost
 about-addressbook-entry-name-website = Webové stránky
 about-addressbook-entry-name-time-zone = Časové pásmo
+
 about-addressbook-unsaved-changes-prompt-title = Neuložené změny
 about-addressbook-unsaved-changes-prompt = Chcete před opuštěním režimu úprav uložit provedené změny?
 
@@ -213,6 +228,10 @@ about-addressbook-photo-drop-target = Sem přetáhněte nebo vložte fotografii,
 about-addressbook-photo-drop-loading = Načítání fotografie…
 about-addressbook-photo-drop-error = Fotografii se nepodařilo načíst.
 about-addressbook-photo-filepicker-title = Vyberte soubor s obrázkem
+
 about-addressbook-photo-discard = Zahodit existující fotografii
 about-addressbook-photo-cancel = Zrušit
 about-addressbook-photo-save = Uložit
+
+# Keyboard shortcuts
+

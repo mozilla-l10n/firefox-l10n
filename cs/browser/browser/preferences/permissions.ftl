@@ -5,62 +5,81 @@
 permissions-window =
     .title = Výjimky
     .style = width: 36em
+
 permissions-window2 =
     .title = Výjimky
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa webového serveru
     .accesskey = d
+
 permissions-block =
     .label = Blokovat
     .accesskey = B
+
 permissions-session =
     .label = Povolit pro relaci
     .accesskey = o
+
 permissions-allow =
     .label = Povolit
     .accesskey = P
+
 permissions-button-off =
     .label = Vypnout
     .accesskey = o
+
 permissions-button-off-temporarily =
     .label = Dočasně vypnout
     .accesskey = t
+
 permissions-site-name =
     .label = Server
+
 permissions-status =
     .label = Stav
+
 permissions-remove =
     .label = Odebrat server
     .accesskey = r
+
 permissions-remove-all =
     .label = Odebrat všechny servery
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Uložit změny
     .buttonaccesskeyaccept = U
+
 permissions-autoplay-menu = Výchozí nastavení:
+
 permissions-searchbox =
     .placeholder = Hledat
+
 permissions-capabilities-autoplay-allow =
     .label = povolit zvuk i video
 permissions-capabilities-autoplay-block =
     .label = blokovat zvuk
 permissions-capabilities-autoplay-blockall =
     .label = blokovat zvuk i video
+
 permissions-capabilities-allow =
     .label = Povolit
 permissions-capabilities-block =
     .label = Blokovat
 permissions-capabilities-prompt =
     .label = Vždy se zeptat
+
 permissions-capabilities-listitem-allow =
     .value = Povolit
 permissions-capabilities-listitem-block =
     .value = Blokovat
 permissions-capabilities-listitem-allow-session =
     .value = Povolit pro relaci
+
 permissions-capabilities-listitem-off =
     .value = Vypnuto
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Vložte prosím platný název serveru
 permissions-exceptions-etp-window =
     .title = Výjimky pro používání rozšířené ochrany proti sledování
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Výjimky pro používání rozšířené ochrany proti sledování
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Pro tyto servery jste ochranu proti sledován�
 permissions-exceptions-cookie-window =
     .title = Výjimky pro používání cookies a dat stránek
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Výjimky pro používání cookies a dat stránek
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Zde můžete určit, které servery mohou n
 permissions-exceptions-https-only-window =
     .title = Servery, které mohou používat nezabezpečený protokol HTTP
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Servery, které mohou používat nezabezpečený protokol HTTP
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Zde můžete určit, které servery moh
 permissions-exceptions-popup-window =
     .title = Servery, které mohou otevírat vyskakovací okna
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Servery, které mohou otevírat vyskakovací okna
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Zde můžete určit, které servery mohou ot
 permissions-exceptions-saved-logins-window =
     .title = Výjimky pro ukládání přihlašovacích údajů
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Výjimky pro ukládání přihlašovacích údajů
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Pro následující servery se nebudou
 permissions-exceptions-addons-window =
     .title = Důvěryhodné servery pro instalaci doplňků
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Důvěryhodné servery pro instalaci doplňků
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Zde můžete určit, které servery mohou i
 permissions-site-autoplay-window =
     .title = Oprávnění automatického přehrávání
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Oprávnění automatického přehrávání
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Níže můžete nastavit výjimky a vlastní na
 permissions-site-notification-window =
     .title = Oprávnění posílat oznámení
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Oprávnění posílat oznámení
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Tímto zakážete všem serverům, 
 permissions-site-location-window =
     .title = Oprávnění zjišťovat polohu
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Oprávnění zjišťovat polohu
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Tímto zakážete všem serverům, kter
 permissions-site-xr-window =
     .title = Oprávnění pro virtuální realitu
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Oprávnění pro virtuální realitu
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Tímto zakážete všem serverům, které nej
 permissions-site-camera-window =
     .title = Oprávnění přístupu ke kameře
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Oprávnění přístupu ke kameře
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Tímto zakážete všem serverům, které
 permissions-site-microphone-window =
     .title = Oprávnění přístupu k mikrofonu
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Oprávnění přístupu k mikrofonu
     .style = { permissions-window2.style }

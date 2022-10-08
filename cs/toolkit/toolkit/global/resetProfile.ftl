@@ -33,6 +33,7 @@ refresh-profile-button =
        *[other] aplikaci { -brand-short-name }
     }
 refresh-profile-learn-more = Zjistit více
+
 refresh-profile-progress =
     .title =
         { -brand-short-name.gender ->
