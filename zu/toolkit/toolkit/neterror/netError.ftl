@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-page-title = Kune nkinga ekulayisheni ikhasi
 
 ## Error page actions
 
