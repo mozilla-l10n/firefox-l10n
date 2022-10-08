@@ -54,13 +54,25 @@ neterror-proxy-resolve-failure-connection = Перевірте з’єднанн
 neterror-proxy-resolve-failure-firewall = Якщо ваш комп’ютер або мережа захищені мережевим екраном чи проксі-сервером — переконайтеся, що для { -brand-short-name } дозволено доступ до Інтернету.
 neterror-proxy-connect-failure-settings = Перевірте налаштування проксі-сервера і переконайтеся, що вони правильні.
 neterror-proxy-connect-failure-contact-admin = Зв’яжіться з вашим системним адміністратором і переконайтеся, що проксі-сервер працює.
+neterror-content-encoding-error = Будь ласка, зв'яжіться з власниками вебсайту і повідомте їх про цю проблему.
+neterror-unsafe-content-type = Будь ласка, зв'яжіться з власниками вебсайту і повідомте їх про цю проблему.
+neterror-nss-failure-not-verified = Сторінка, яку ви намагаєтесь переглянути, не може бути показана, тому що неможливо перевірити достовірність отриманих даних.
+neterror-nss-failure-contact-website = Будь ласка, зв'яжіться з власниками вебсайту і повідомте їх про цю проблему.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } виявив ймовірну загрозу безпеки і не продовжив перехід на <b>{ $hostname }</b>. Якщо ви відвідаєте цей сайт, зловмисники можуть спробувати викрасти вашу інформацію, наприклад, паролі, електронні адреси, або дані платіжних карток.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } виявив потенційну вразливість безпеки і не продовжив встановлення з'єднання з <b>{ $hostname }</b>, тому що цей вебсайт вимагає захищене з'єднання.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } виявив проблему і не встановив з'єднання з <b>{ $hostname }</b>. Вебсайт має неправильну конфігурацію, або годинник вашого комп'ютера має неправильний час.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b>, найімовірніше, є безпечним сайтом, але захищене з'єднання не вдалося встановити. Ця проблема спричинена <b>{ $mitm }</b> - програмним забезпеченням на вашому комп'ютері чи у вашій мережі.
+neterror-corrupted-content-intro = Сторінка, яку ви намагаєтесь переглянути, не може бути показана через те, що було виявлено помилку в передачі даних.
+neterror-corrupted-content-contact-website = Будь ласка, зв'яжіться з власниками вебсайту та повідомте їх про цю проблему.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Додаткова інформація: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -72,9 +84,18 @@ neterror-inadequate-security-code = Код помилки: NS_ERROR_NET_INADEQUA
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Ваш комп'ютер вважає, що це { DATETIME($now, dateStyle: "medium") }, тому { -brand-short-name } не може встановити захищене з'єднання. Для відвідання <b>{ $hostname }</b>, оновіть системні налаштування дати, часу та часового поясу, після чого оновіть <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Неможливо відобразити сторінку, яку ви намагаєтесь переглянути, тому що виявлено помилку мережевого протоколу.
+neterror-network-protocol-error-contact-website = Зв'яжіться з власниками вебсайту, щоб повідомити їх про цю проблему.
+certerror-expired-cert-second-para = Схоже, що термін дії сертифіката вебсайту завершився, що не дозволяє { -brand-short-name } встановити безпечне з'єднання. Якщо ви відвідаєте цей сайт, зловмисники можуть викрасти інформацію, наприклад, паролі, адреси електронної пошти чи дані кредитних карток.
+certerror-expired-cert-sts-second-para = Схоже, що термін дії сертифіката вебсайту завершився, що не дозволяє { -brand-short-name } встановити безпечне з'єднання.
 certerror-what-can-you-do-about-it-title = Як ви можете це виправити?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Найімовірніше, ця проблема стосується вебсайту, і ви не зможете її виправити.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Якщо ви використовуєте корпоративний комп'ютер, або антивірусне програмне забезпечення, ви можете зв'язатися зі службою підтримки для отримання допомоги. Ви також можете сповістити адміністратора вебсайту про цю проблему.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Годинник вашого комп'ютера налаштовано на { DATETIME($now, dateStyle: "medium") }. Переконайтеся, що ваш комп'ютер має правильні системні налаштування дати, часу та часового поясу, після чого оновіть <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Якщо ваш годинник налаштовано правильно, ймовірно, конфігурація сайту є неправильною і вам не вдасться це виправити. Ви можете повідомити про цю проблему адміністратора вебсайту.
 certerror-bad-cert-domain-what-can-you-do-about-it = Найімовірніше, ця проблема стосується вебсайту, і ви не зможете її виправити. Ви можете сповістити адміністратора вебсайту про цю проблему.
 certerror-mitm-what-can-you-do-about-it-corporate = Якщо ви знаходитесь в корпоративній мережі, зв'яжіться зі своїм адміністратором.
 # Variables:
