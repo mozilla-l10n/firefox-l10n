@@ -15,3 +15,5 @@ crashed-subframe-learnmore-link =
 
 ## Pending crash reports
 
+pending-crash-reports-view-all =
+    .label = Zobraziť
