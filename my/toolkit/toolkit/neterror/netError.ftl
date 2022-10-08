@@ -8,6 +8,7 @@
 neterror-page-title = စာမျက်နှာ ဖွင့်လှစ်မှု အမှား
 neterror-captive-portal-page-title = ကွန်ယက်သို့ ဝင်ရောက်ပါ
 neterror-dns-not-found-title = ဆာဗာကို မတွေ့ပါ
+neterror-malformed-uri-page-title = မမှန်ကန်သောURL
 
 ## Error page actions
 
@@ -17,7 +18,9 @@ neterror-learn-more-link = ပိုမို လေ့လာပါ…
 neterror-open-portal-login-page-button = ကွန်ယက်သို့ လက်မှတ်ထိုးဝင်ရန် စာမျက်နှာကို ဖွင့်ပါ
 neterror-pref-reset-button = မူလသတ်မှတ်ထားသည့်အတိုင်း ပြန်ထားပါ
 neterror-return-to-previous-page-button = နောက်သို့ သွားရန်
+neterror-return-to-previous-page-recommended-button = ပြန်သွားပါ (အကြံပြုချက်အရ)
 neterror-try-again-button = ထပ်ကြိုးစားပါ
+neterror-view-certificate-link = အထောက်အထားများကို ကြည့်ရန်
 
 ##
 
