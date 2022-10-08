@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Teastas á íoslódáil
     .style = width: 46em
+
 download-cert-window2 =
     .title = Teastas á íoslódáil
     .style = min-width: 46em
