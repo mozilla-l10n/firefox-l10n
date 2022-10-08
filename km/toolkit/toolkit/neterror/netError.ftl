@@ -6,7 +6,10 @@
 ## Error page titles
 
 neterror-page-title = បញ្ហា​ក្នុង​ការ​ផ្ទុក​ទំព័រ
+neterror-blocked-by-policy-page-title = ទំព័រ​ដែល​បាន​ទប់ស្កាត់
 neterror-captive-portal-page-title = ចូល​បណ្ដាញ
+neterror-dns-not-found-title = រក​មិន​ឃើញ​ម៉ាស៊ីន​មេ​ទេ
+neterror-malformed-uri-page-title = URL មិនត្រឹមត្រូវ
 
 ## Error page actions
 
