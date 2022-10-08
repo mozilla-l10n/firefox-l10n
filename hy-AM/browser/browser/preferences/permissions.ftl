@@ -5,50 +5,66 @@
 permissions-window =
     .title = Բացառումներ
     .style = width: 45em
+
 permissions-window2 =
     .title = Բացառումներ
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Կայքի հասցեն
     .accesskey = d
+
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
+
 permissions-session =
     .label = Թույլատրել աշխատաշրջանում
     .accesskey = ա
+
 permissions-allow =
     .label = Թույլատրել
     .accesskey = Թ
+
 permissions-site-name =
     .label = Կայք
+
 permissions-status =
     .label = Կարգավիճակը
+
 permissions-remove =
     .label = Հեռացնել կայքը
     .accesskey = R
+
 permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Պահել փոփոխությունները
     .buttonaccesskeyaccept = Պ
+
 permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
+
 permissions-searchbox =
     .placeholder = Որոնել կայք
+
 permissions-capabilities-autoplay-allow =
     .label = Թույլատրել Ձայն և Տեսանյութ
 permissions-capabilities-autoplay-block =
     .label = Արգելափակել ձայնը
 permissions-capabilities-autoplay-blockall =
     .label = Արգելափակել ձայնը և տեսանյութը
+
 permissions-capabilities-allow =
     .label = Թույլատրել
 permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
+
 permissions-capabilities-listitem-allow =
     .value = Թույլատրել
 permissions-capabilities-listitem-block =
@@ -66,6 +82,7 @@ permissions-invalid-uri-label = Նշեք հանգույցի վավեր անու�
 permissions-exceptions-etp-window =
     .title = Բացառություններ հաետագծման պաշտապանությունը կատարելագրծելու համար։
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Բացառություններ հաետագծման պաշտապանությունը կատարելագրծելու համար։
     .style = { permissions-window2.style }
@@ -76,6 +93,7 @@ permissions-exceptions-etp-desc = Դուք անջատել եք այս կայքե
 permissions-exceptions-cookie-window =
     .title = Բացառություններ՝ Cookie-ներ և կայքի տվյալներ
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Բացառություններ՝ Cookie-ներ և կայքի տվյալներ
     .style = { permissions-window2.style }
@@ -89,6 +107,7 @@ permissions-exceptions-cookie-desc = Կարող եք հատկորոշել, թե 
 permissions-exceptions-popup-window =
     .title = Թույլատրված կայքեր՝ ելնող պատուհաններ
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Թույլատրված կայքեր՝ ելնող պատուհաններ
     .style = { permissions-window2.style }
@@ -99,6 +118,7 @@ permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ
 permissions-exceptions-saved-logins-window =
     .title = Բացառություններ՝ պահված մուտքագրումներ
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Բացառություններ՝ պահված մուտքագրումներ
     .style = { permissions-window2.style }
@@ -109,6 +129,7 @@ permissions-exceptions-saved-logins-desc = Հետևյալ կայքերի մու�
 permissions-exceptions-addons-window =
     .title = Թույլատրված կայքեր՝ ընդլայնումների տեղադրում
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Թույլատրված կայքեր՝ ընդլայնումների տեղադրում
     .style = { permissions-window2.style }
@@ -119,6 +140,7 @@ permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վ
 permissions-site-autoplay-window =
     .title = Կարգավորումներ - Ինքնանվագարկում
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Կարգավորումներ - Ինքնանվագարկում
     .style = { permissions-window2.style }
@@ -129,6 +151,7 @@ permissions-site-autoplay-desc = Կարող եք կառավարել էջերը, 
 permissions-site-notification-window =
     .title = Կարգավորումներ՝ ծանուցումների թույլտվություններ
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Կարգավորումներ՝ ծանուցումների թույլտվություններ
     .style = { permissions-window2.style }
@@ -142,6 +165,7 @@ permissions-site-notification-disable-desc = Սա կկանխի ցանկում չ
 permissions-site-location-window =
     .title = Կարգավորումներ՝ տեղադրության թույլտվություններ
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Կարգավորումներ՝ տեղադրության թույլտվություններ
     .style = { permissions-window2.style }
@@ -155,6 +179,7 @@ permissions-site-location-disable-desc = Սա կկանխի ցանկում չնշ
 permissions-site-xr-window =
     .title = Կարգավորումներ - թվացյալ իրականության թույլտվություններ
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Կարգավորումներ - թվացյալ իրականության թույլտվություններ
     .style = { permissions-window2.style }
@@ -168,6 +193,7 @@ permissions-site-xr-disable-desc = Սա կկանխի ցանկում չնշված
 permissions-site-camera-window =
     .title = Կարգավորումներ՝ խցիկի թույլտվություններ
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Կարգավորումներ՝ խցիկի թույլտվություններ
     .style = { permissions-window2.style }
@@ -181,6 +207,7 @@ permissions-site-camera-disable-desc = Սա կկանխի ցանկում չնշվ
 permissions-site-microphone-window =
     .title = Կարգավորումներ՝ խոսափողի թույլտվություններ
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Կարգավորումներ՝ խոսափողի թույլտվություններ
     .style = { permissions-window2.style }

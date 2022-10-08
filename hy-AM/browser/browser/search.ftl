@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Տեղադրման սխալ
 opensearch-error-duplicate-desc = { -brand-short-name }-ը չկարողացավ տեղադրել որոնման բաղադրիչը "{ $location-url }"-ից, քանի որ նույնանուն որոնման հանգույցը արդեն առկա է:
+
 opensearch-error-format-title = Անվավեր ձևաչափ
 opensearch-error-format-desc = { -brand-short-name }-ը չի կարող տեղադրել որոնիչ հետևյալից՝ { $location-url }
+
 opensearch-error-download-title = Բեռնման Սխալ
 opensearch-error-download-desc = { -brand-short-name }-ը չկարողացավ բեռնել որոնման բաղադրիչը { $location-url }-ից
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name }-ը չկարողացավ �
 
 searchbar-submit =
     .tooltiptext = Հաստատել որոնումը
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Որոնում
+
 searchbar-icon =
     .tooltiptext = Որոնում
 

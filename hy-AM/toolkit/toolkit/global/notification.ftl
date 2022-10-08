@@ -6,5 +6,6 @@
 # "infobar" (message shown when for example a popup is blocked).
 close-button-label =
     .aria-label = Փակել
+
 close-notification-message =
     .tooltiptext = Փակել հաղորդագրությունը
