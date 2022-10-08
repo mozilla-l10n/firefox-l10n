@@ -24,6 +24,7 @@ neterror-pref-reset-button = Restarigi normajn agordojn
 neterror-return-to-previous-page-button = Iri reen
 neterror-return-to-previous-page-recommended-button = Reen (rekomendita)
 neterror-try-again-button = Klopodi denove
+neterror-view-certificate-link = Vidi atestilon
 
 ##
 
