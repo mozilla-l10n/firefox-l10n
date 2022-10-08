@@ -31,4 +31,5 @@ findbar-entire-word =
     .label = Palavras inteiras
     .accesskey = P
     .tooltiptext = Só procurar palavras inteiras
+findbar-wrapped-to-top = Atingido o fim da página, continuando do início
 findbar-wrapped-to-bottom = Atingido o início da página, continuando do fim
