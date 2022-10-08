@@ -17,10 +17,12 @@ neterror-malformed-uri-page-title = URL mačči d tarameɣtut
 neterror-advanced-button = Talqayt…
 neterror-copy-to-clipboard-button = Nɣel aḍris ɣef afus
 neterror-learn-more-link = Issin ugar…
+neterror-open-portal-login-page-button = Ldi asebter n unekcum ɣer uẓeṭṭa
 neterror-override-exception-button = Qbel ugur u kemmel
 neterror-pref-reset-button = Err-d iɣewwaṛen imezwar
 neterror-return-to-previous-page-button = Uɣal ɣeṛ deffir
 neterror-return-to-previous-page-recommended-button = Uɣal ɣer deffir (Yelha)
+neterror-try-again-button = Ɛreḍ i tikelt-nniḍen
 neterror-view-certificate-link = Sken aselkin
 
 ##
@@ -35,7 +37,14 @@ neterror-load-error-connection = Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ is
 neterror-load-error-firewall = Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella { -brand-short-name } yezmer ad yekcem ɣer Web.
 neterror-captive-portal = Yessefk ad tkecmeḍ ar uẓeṭṭa-a send ad tizmireḍ ad tkecmeḍ ar Internet
 neterror-access-denied = Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.
+neterror-unknown-protocol = Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmireḍ ad teldiḍ tawsit n tansa-a.
 neterror-redirect-loop = Ugur-a ahat yekka-d seg tukksa n urmad neɣ asewḥel n inagan n tuqqna.
+neterror-unknown-socket-type-psm-installed = Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.
+neterror-unknown-socket-type-server-config = Ahat aqeddac ur ittuswel ara akken iwata.
+neterror-not-cached-intro = Isemli ittusutren ulac-it deg tuffirt n { -brand-short-name }.
+neterror-not-cached-sensitive = I lmendad n tɣellist, { -brand-short-name } ur yessutur ara s twurmant isemliyen imḥulfuyen.
+neterror-not-cached-try-again = Sit ɣef Ɛreḍ i usuter n isemli-a seg usmel web.
+neterror-net-offline = Sit ɣef “Ɛreḍ tikelt-nniḍen” akken ad tuɣaleḍ ɣer uskar uqqin sakin smiren asebter
 neterror-proxy-resolve-failure-settings = Senqed ma yella iɣewwaren n upṛuksi ma llan d imeɣta.
 neterror-proxy-resolve-failure-connection = Senqed ma yella tuqqna n uẓeṭṭa n uselkim-inek tetteddu.
 neterror-proxy-resolve-failure-firewall = Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes, Wali ma yella { -brand-short-name } ɣur-s tasiregt n unekcum ɣer Web.
