@@ -30,3 +30,22 @@ findbar-fast-find-links =
     .placeholder = Kitsvind (net skakels):
 findbar-case-sensitive-status =
     .value = (Kassensitief)
+findbar-entire-word-status =
+    .value = Slegs hele woorde
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } uit { $total } passende
+           *[other] { $current } uit { $total } passendes
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Meer as { $limit } passende
+           *[other] Meer as { $limit } passendes
+        }
