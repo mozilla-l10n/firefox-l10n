@@ -5,43 +5,57 @@
 permissions-window =
     .title = Paltooje
     .style = width: 45em
+
 permissions-window2 =
     .title = Paltooje
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Ñiiɓirɗe lowre
     .accesskey = d
+
 permissions-block =
     .label = Falo
     .accesskey = F
+
 permissions-session =
     .label = Yamir e Naatol
     .accesskey = N
+
 permissions-allow =
     .label = Yamir
     .accesskey = Y
+
 permissions-site-name =
     .label = Lowre geese
+
 permissions-status =
     .label = Ngonka
+
 permissions-remove =
     .label = Momtu Lowre
     .accesskey = M
+
 permissions-remove-all =
     .label = Momtu Lowe Fof
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Danndu Bayle
     .buttonaccesskeyaccept = D
+
 permissions-searchbox =
     .placeholder = Yiylo e Lowre
+
 permissions-capabilities-allow =
     .label = Yamir
 permissions-capabilities-block =
     .label = Falo
 permissions-capabilities-prompt =
     .label = Naamno Sahaa Kala
+
 permissions-capabilities-listitem-allow =
     .value = Yamir
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = Tiiɗno naatnu innde koɗol moƴƴol
 permissions-exceptions-cookie-window =
     .title = Paltooje - Kuukiije kam e Keɓe Lowre
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Paltooje - Kuukiije kam e Keɓe Lowre
     .style = { permissions-window2.style }
@@ -75,6 +90,7 @@ permissions-exceptions-cookie-desc = Aɗa waawi hollitde hol lowe geese jamiraa�
 permissions-exceptions-popup-window =
     .title = Lowe Jamiraaɗe - Cuppitte
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Lowe Jamiraaɗe - Cuppitte
     .style = { permissions-window2.style }
@@ -85,6 +101,7 @@ permissions-exceptions-popup-desc = Aɗa waawi joopaade hol lowe geese njamiraa 
 permissions-exceptions-saved-logins-window =
     .title = Paltooje - Ceŋorɗe Danndaaɗi
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Paltooje - Ceŋorɗe Danndaaɗi
     .style = { permissions-window2.style }
@@ -95,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Baccooje e ɗeeɗoo lowe ndanndoytaak
 permissions-exceptions-addons-window =
     .title = Lowe Jamiraaɗe - Aafgol ɓeyditte
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Lowe Jamiraaɗe - Aafgol ɓeyditte
     .style = { permissions-window2.style }
@@ -108,6 +126,7 @@ permissions-exceptions-addons-desc = Aɗa waawi joopaade hol lowe geese njamiraa
 permissions-site-notification-window =
     .title = Teelte - Jamirooje Tintine
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Teelte - Jamirooje Tintine
     .style = { permissions-window2.style }
@@ -121,6 +140,7 @@ permissions-site-notification-disable-desc = Ɗuum maa haɗ kala lowre nde limta
 permissions-site-location-window =
     .title = Teelte - Jamirooje Nokkuure
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Teelte - Jamirooje Nokkuure
     .style = { permissions-window2.style }
@@ -137,6 +157,7 @@ permissions-site-location-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka 
 permissions-site-camera-window =
     .title = Teelte - Jamirooje Kameraa
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Teelte - Jamirooje Kameraa
     .style = { permissions-window2.style }
@@ -150,6 +171,7 @@ permissions-site-camera-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka do
 permissions-site-microphone-window =
     .title = Teelte - Jamirooje Mikkoroo
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Teelte - Jamirooje Mikkoroo
     .style = { permissions-window2.style }

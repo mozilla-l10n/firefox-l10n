@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Innde kuutoro:
 tabmodalprompt-password =
     .value = Finnde:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =
