@@ -17,16 +17,21 @@ neterror-advanced-button = 고급…
 neterror-copy-to-clipboard-button = 클립보드에 텍스트 복사
 neterror-learn-more-link = 더 알아보기…
 neterror-open-portal-login-page-button = 네트워크 로그인 페이지 열기
+neterror-try-again-button = 다시 시도
 neterror-view-certificate-link = 인증서 보기
 
 ##
 
+neterror-error-reporting-automatic = 이러한 오류를 보고하여 { -vendor-short-name }가 악성 사이트를 식별하고 차단하는 것을 돕습니다.
 
 ## Specific error messages
 
 neterror-captive-portal = 인터넷을 사용하기 위해서 반드시 이 네트워크에 로그인해야 합니다.
 neterror-access-denied = 삭제, 이동 또는 권한이 없어서 접근할 수 없습니다.
 neterror-redirect-loop = 이 문제는 드물게 해당 사이트에서 요구하는 쿠키를 차단하여 발생할 수 있습니다.
+neterror-not-cached-intro = 요청하신 문서는 { -brand-short-name } 캐시에서 사용할 수 없습니다.
+neterror-not-cached-sensitive = 보안 예방책으로 { -brand-short-name }는 자동으로 민감한 문서를 다시 요청하지 않습니다.
+neterror-not-cached-try-again = 웹 사이트에서 문서를 다시 요청하려면 다시 시도를 누르세요.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
