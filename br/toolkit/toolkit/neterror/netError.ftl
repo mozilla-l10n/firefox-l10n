@@ -73,6 +73,8 @@ certerror-expired-cert-intro = Dinoet ez eus bet ur gudenn gant { -brand-short-n
 certerror-mitm = Ul lec'hienn diarvar eo <b>{ $hostname }</b> moarvat, met n'haller ket staliañ ur c'hennask diogel. Abalamour da <b>{ $mitm }</b> zo eus ar fazi, ar pezh a zo ur meziant war hoc'h urzhiataer pe ho rouedad.
 neterror-corrupted-content-intro = Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.
 neterror-corrupted-content-contact-website = Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Titouroù kempleshoc'h: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-inadequate-security-intro = <b>{ $hostname }</b> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.
