@@ -8,6 +8,17 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [zero] Nid oes gennych adroddiad chwalu sydd heb ei gyflwyno
+        [one] Mae gennych { $reportCount } adroddiad chwalu sydd heb ei gyflwyno
+        [two] Mae gennych { $reportCount } adroddiad chwalu sydd heb eu cyflwyno
+        [few] Mae gennych { $reportCount } adroddiad chwalu sydd heb eu cyflwyno
+        [many] Mae gennych { $reportCount } adroddiad chwalu sydd heb eu cyflwyno
+       *[other] Mae gennych { $reportCount } adroddiad chwalu sydd heb eu cyflwyno
+    }
 pending-crash-reports-view-all =
     .label = Gweld
 pending-crash-reports-send =
