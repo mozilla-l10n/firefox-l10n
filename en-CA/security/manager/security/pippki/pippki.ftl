@@ -8,18 +8,22 @@ password-quality-meter = Password quality meter
 
 change-device-password-window =
     .title = Change Password
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Security Device: { $tokenName }
 change-password-old = Current password:
 change-password-new = New password:
 change-password-reenter = New password (again):
+
 pippki-failed-pw-change = Unable to change password.
 pippki-incorrect-pw = You did not enter the correct current password. Please try again.
 pippki-pw-change-ok = Password successfully changed.
+
 pippki-pw-empty-warning = Your stored passwords and private keys will not be protected.
 pippki-pw-erased-ok = You have deleted your password. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Warning! You have decided not to use a password. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requires a non-empty password.
 
 ## Reset Primary Password dialog
@@ -27,12 +31,14 @@ pippki-pw-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requi
 reset-primary-password-window =
     .title = Reset Primary Password
     .style = width: 40em
+
 reset-primary-password-window2 =
     .title = Reset Primary Password
     .style = min-width: 40em
 reset-password-button-label =
     .label = Reset
 reset-primary-password-text = If you reset your Primary Password, all your stored web and e-mail passwords, personal certificates, and private keys will be forgotten. Are you sure you want to reset your Primary Password?
+
 pippki-reset-password-confirmation-title = Reset Primary Password
 pippki-reset-password-confirmation-message = Your Primary Password has been reset.
 
@@ -41,6 +47,7 @@ pippki-reset-password-confirmation-message = Your Primary Password has been rese
 download-cert-window =
     .title = Downloading Certificate
     .style = width: 46em
+
 download-cert-window2 =
     .title = Downloading Certificate
     .style = min-width: 46em

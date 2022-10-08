@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Copy
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = Select All
     .accesskey = A
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = General
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Name
 general-meta-content =
     .label = Content
+
 media-tab =
     .label = Media
     .accesskey = M
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = Save As…
     .accesskey = v
+
 perm-tab =
     .label = Permissions
     .accesskey = P
 permissions-for =
     .value = Permissions for:
+
 security-tab =
     .label = Security
     .accesskey = S
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = Expires on:
 security-view-privacy =
     .value = Privacy & History
+
 security-view-privacy-history-value = Have I visited this website prior to today?
 security-view-privacy-sitedata-value = Is this website storing information on my computer?
+
 security-view-privacy-clearsitedata =
     .label = Clear Cookies and Site Data
     .accesskey = C
+
 security-view-privacy-passwords-value = Have I saved any passwords for this website?
+
 security-view-privacy-viewpasswords =
     .label = View Saved Passwords
     .accesskey = w
 security-view-technical =
     .value = Technical Details
+
 help-button =
     .label = Help
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = Yes, cookies and { $value } { $unit } of site data
 security-site-data-only = Yes, { $value } { $unit } of site data
+
 security-site-data-cookies-only = Yes, cookies
 security-site-data-no = No
 
@@ -139,6 +152,7 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Yes
 saved-passwords-no = No
+
 no-page-title =
     .value = Untitled Page:
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Use Default
 security-no-visits = No
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -163,6 +178,7 @@ general-meta-tags =
             [one] Meta (1 tag)
            *[other] Meta ({ $tags } tags)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -173,6 +189,7 @@ security-visits-number =
         [one] Yes, once
        *[other] Yes, { $visits } times
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -183,6 +200,7 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -194,12 +212,14 @@ media-animated-image-type =
             [one] { $type } Image (animated, { $frames } frame)
            *[other] { $type } Image (animated, { $frames } frames)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Image
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -209,17 +229,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } kB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -227,6 +250,7 @@ media-file-size = { $size } kB
 media-block-image =
     .label = Block Images from { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
