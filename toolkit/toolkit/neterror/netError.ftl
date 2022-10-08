@@ -7,6 +7,7 @@
 
 neterror-page-title = পেজ লোড করতে সমস্যা
 neterror-captive-portal-page-title = নেটওয়ার্কে লগইন করুন
+neterror-dns-not-found-title = সার্ভার পাওয়া যায়নি
 
 ## Error page actions
 
