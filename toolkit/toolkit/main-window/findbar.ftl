@@ -42,5 +42,26 @@ findbar-fast-find-links =
     .placeholder = Хуткі пошук (толькі спасылкі)
 findbar-case-sensitive-status =
     .value = (Адрозніваць вялікія/малыя літары)
+findbar-match-diacritics-status =
+    .value = (З улікам дыякрытык)
 findbar-entire-word-status =
     .value = (Толькі словы цалкам)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current }-е з { $total } супадзення
+            [few] { $current }-е з { $total } супадзенняў
+           *[many] { $current }-е з { $total } супадзенняў
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Больш за { $limit } супадзенне
+            [few] Больш за { $limit } супадзенні
+           *[many] Больш за { $limit } супадзенняў
+        }
