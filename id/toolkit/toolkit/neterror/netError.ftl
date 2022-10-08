@@ -14,6 +14,7 @@ neterror-malformed-uri-page-title = URL tidak valid
 
 ## Error page actions
 
+neterror-advanced-button = Tingkat Lanjut…
 neterror-copy-to-clipboard-button = Salin teks ke papan klip
 neterror-learn-more-link = Pelajari lebih lanjut…
 neterror-open-portal-login-page-button = Buka Laman Masuk Jaringan
@@ -62,6 +63,9 @@ certerror-intro = { -brand-short-name } mendeteksi potensi ancaman keamanan dan 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = { -brand-short-name } mendeteksi potensi ancaman keamanan dan tidak dapat melanjutkan ke <b>{ $hostname }</b> karena situs ini memerlukan sambungan aman.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } mendeteksi masalah dan tidak melanjutkan ke <b>{ $hostname }</b>. Situs web salah dikonfigurasi atau jam komputer Anda disetel ke waktu yang salah.
 neterror-corrupted-content-intro = Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.
 neterror-corrupted-content-contact-website = Mohon hubungi pemilik situs web mengenai masalah ini.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -75,6 +79,8 @@ neterror-inadequate-security-code = Kode galat: NS_ERROR_NET_INADEQUATE_SECURITY
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Menurut komputer Anda waktu sekarang adalah { DATETIME($now, dateStyle: "medium") }, yang mencegah { -brand-short-name } tersambung dengan aman. Untuk mengunjungi <b>{ $hostname }</b>, perbarui jam komputer Anda di pengaturan sistem agar diatur ke tanggal, jam, dan zona waktu yang benar, lalu segarkan <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Laman yang ingin Anda lihat tidak dapat ditampilkan karena ada yang salah dalam protokol jaringan.
+neterror-network-protocol-error-contact-website = Harap hubungi pemilik situs web untuk memberi tahu mereka tentang masalah ini.
 certerror-expired-cert-second-para = Sepertinya sertifikat situs ini telah kedaluwarsa, yang mencegah { -brand-short-name } tersambung secara aman. Jika Anda mengunjungi situs ini, penyerang dapat mencoba mencuri informasi seperti kata sandi, surel, atau rincian kartu kredit Anda.
 certerror-expired-cert-sts-second-para = Sepertinya sertifikat situs web telah kedaluwarsa, yang menghalangi { -brand-short-name } untuk menyambungkan dengan aman.
 certerror-what-can-you-do-about-it-title = Apa yang bisa Anda lakukan mengenai masalah ini?
@@ -87,6 +93,13 @@ certerror-expired-cert-what-can-you-do-about-it-clock = Jam komputer Anda disete
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Jika jam Anda telah disetel ke waktu yang benar, situs web mungkin salah dikonfigurasikan, dan tidak ada yang bisa Anda lakukan untuk mengatasi masalahnya. Anda bisa memberi tahu administrator situs web tentang masalahnya.
 certerror-bad-cert-domain-what-can-you-do-about-it = Masalahnya sangat mungkin bersumber pada situs web, dan tidak ada yang bisa Anda lakukan untuk mengatasi masalahnya. Anda bisa memberi tahu administrator sistem tentang masalahnya.
 certerror-mitm-what-can-you-do-about-it-antivirus = Jika perangkat lunak antivirus Anda menyertakan fitur pemindai koneksi terenkripsi (sering disebut “pemindaian web” atau “pemindaian https”), Anda dapat menonaktifkan fitur ini. Jika tidak berhasil, Anda dapat menghapus dan menginstal ulang perangkat lunak antivirus.
+certerror-mitm-what-can-you-do-about-it-corporate = Jika Anda berada di jaringan perusahaan, Anda dapat menghubungi departemen TI Anda.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Jika Anda tidak akrab dengan <b>{ $mitm }</b>, bisa jadi ini sebuah serangan dan Anda sebaiknya tidak melanjutkan ke situs.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Jika Anda tidak akrab dengan <b>{ $mitm }</b>, bisa jadi ini sebuah serangan, dan tidak ada yang dapat Anda lakukan untuk mengakses situs.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> memiliki kebijakan keamanan yang disebut sebagai HTTP Strict Transport Security (HSTS), yang berarti { -brand-short-name } hanya bisa tersambung dengannya secara aman. Anda tidak bisa menambahkan pengecualian untuk mengunjungi situs.
