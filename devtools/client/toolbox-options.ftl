@@ -126,8 +126,3 @@ options-context-triggers-page-refresh = * solo sescion corente, recarega a pagin
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Fanni vedde i daæti piataforma Gecko
-options-show-platform-data-tooltip =
-    .title = Ativando sta opçion i rapòrti do Profiler JavaScript contegnian i scinboli da piataforma Gecko
