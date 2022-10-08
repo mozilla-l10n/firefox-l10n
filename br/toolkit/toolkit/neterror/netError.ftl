@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Kudenn o kargañ ar bajennad
+certerror-page-title = Diwallit: ur riskl surentez bennak ’zo
 certerror-sts-page-title = N'eo ket kennasket: kudenn diogelroez posupl
 neterror-blocked-by-policy-page-title = Pajenn stanket
 neterror-captive-portal-page-title = Kennaskañ d'ar rouedad
@@ -81,12 +82,27 @@ neterror-inadequate-security-code = Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Hoc'h urzhiataer a soñj dezhañ eo { DATETIME($now, dateStyle: "medium") }, ar pezh a vir { -brand-short-name } da gennaskañ ent diogel. Evit gweladenniñ <b>{ $hostname }</b>, hizivait eur hoc'h urzhiataer en hoc'h arventennoù reizhiad ha lakait an deiziad, an eur hag ar gwerzhid-eur reizh. Adkargit <b>{ $hostname }</b> da c'houde.
+neterror-network-protocol-error-intro = N’haller ket diskouez ar pajennoù a glaskit sellet abalamour m’eo bet dinoet ur fazi er c’homenad rouedad.
+neterror-network-protocol-error-contact-website = Kit e darempred gant perc’henned al lec’hienn evit o zitouriñ eus ar gudenn-mañ.
 certerror-expired-cert-second-para = Moarvat eo diamzeret testeni al lec'hienn, ar pezh a vir { -brand-short-name } da gennaskañ en un doare diogel. Ma weladennit al lec'hienn e c'hallfe tagerien laerez titouroù evel ho kerioù-tremen, ho chomlec'hioù postel pe munudoù ho kartenn gred.
 certerror-expired-cert-sts-second-para = Moarvat eo diamzeret testeni al lec'hienn, ar pezh a vir { -brand-short-name } da gennaskañ en un doare diogel.
 certerror-what-can-you-do-about-it-title = Petra a c'hallit ober?
+certerror-unknown-issuer-what-can-you-do-about-it-website = Liammet eo ar gudenn gant al lec'hienn sur-mat, ha n'eus netra e c'hallfec'h ober evit dont a-benn anezhi.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ma 'z oc'h war ur genrouedad kenlabourus pe e rit gant ur meziant enepviruz, gellout a rit mont e darempred gant ar skipailhoù skoazell evit kaout sikour. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Eurier hoc’h urzhiataer a zo lakaet da { DATETIME($now, dateStyle: "medium") }. Gwiriekait ez eo lakaet hoc’h urzhiataer d'an deiziad, eur ha gwerzhid-eur dereat en hoc’h arventennoù reizhiad hag adkargit <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = M’eo lakaet hoc’h eurier en eur dereat endeo e c’hall al lec’hienn-mañ bezañ kefluniet fall ha n’hallit ober netra evit diskoulmañ ar gudenn. Gallout a rit mont e darempred gant ardoer al lec’hienn evit e gelaouiñ eus ar gudenn.
+certerror-bad-cert-domain-what-can-you-do-about-it = Liammet eo ar gudenn gant al lec'hienn sur-mat, ha n'eus netra e c'hallfec'h ober evit dont a-benn anezhi. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.
+certerror-mitm-what-can-you-do-about-it-antivirus = M’eo enkorfet ur c’heweriuster a c’hwilerv ar c'hennaskoù enrineget (anvet eo “web scanning” pe “https scanning” peurvuiañ) en ho enepvirus e c’hallit e ziweredekaat. Ma n’ha ket en-dro e c’hallit dilemel hag adstaliañ ar meziant enepvirus.
+certerror-mitm-what-can-you-do-about-it-corporate = M’emaoc’h war ur rouedad embregerezh e c’hallit mont e darempred gant an departamant stlenneg.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack = Ma n'anavezit ket <b>{ $mitm }</b> e c'hall bezañ un dagadenn ha rankout a rafec'h chom hep kenderc'hel war al lec'hienn-mañ.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack-sts = Ma n'anavezit ket <b>{ $mitm }</b> e c'hall bezañ un dagadenn ha n'hallit ket haeziñ al lec'hienn.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> a zo gantañ ur politikerezh surentez anvet HTTP Strict Transport Security (HSTS), ar pezh a dalvez { -brand-short-name } a c'hall kennaskañ outañ en un doare sur. N'hallit ket ouzhpennañ un nemedenn ebet evit gweladenniñ al lec'hienn-mañ.
