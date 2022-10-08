@@ -18,7 +18,16 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Nch'est un'informe de faddina de imbiare
+       *[other] Nche sunt { $reportCount } informes de faddinas de imbiare
+    }
 pending-crash-reports-view-all =
     .label = Visualiza
 pending-crash-reports-send =
     .label = Imbia
+pending-crash-reports-always-send =
+    .label = Imbia·ddos semper
