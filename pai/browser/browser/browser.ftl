@@ -46,6 +46,10 @@ browser-main-window-title = { -brand-full-name }
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 
@@ -151,4 +155,6 @@ ui-tour-info-panel-close =
 ## Infobar shown at startup to suggest session-restore
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+## Unified extensions (toolbar) button
 

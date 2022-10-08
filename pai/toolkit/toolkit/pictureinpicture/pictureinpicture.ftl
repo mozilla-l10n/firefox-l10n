@@ -5,3 +5,8 @@
 pictureinpicture-close =
     .aria-label = Ŕ´amch
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+
