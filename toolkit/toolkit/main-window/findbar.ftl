@@ -30,6 +30,8 @@ findbar-fast-find-links =
     .placeholder = Ātrā meklēšana (tikai saites)
 findbar-case-sensitive-status =
     .value = (Reģistrjūtīgs)
+findbar-entire-word-status =
+    .value = (Tikai veselus vārdus)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
