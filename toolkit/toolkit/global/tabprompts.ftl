@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Izina ry'Ukoresha:
 tabmodalprompt-password =
     .value = Ijambobanga:
+
 tabmodalprompt-ok-button =
     .label = YEGO
 tabmodalprompt-cancel-button =

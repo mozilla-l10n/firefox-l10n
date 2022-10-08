@@ -5,3 +5,8 @@
 pictureinpicture-pause =
     .aria-label = Kuhagarara
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+
