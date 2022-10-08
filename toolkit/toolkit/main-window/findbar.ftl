@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Ir a la siguiente frase encontrada
 findbar-previous =
     .tooltiptext = Ir a la anterior frase encontrada
-
 findbar-find-button-close =
     .tooltiptext = Cerrar la barra de búsqueda
-
 findbar-highlight-all2 =
     .label = Remarcar todo
     .accesskey =
@@ -21,18 +19,24 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Resaltar todas las apariciones de la frase
-
 findbar-case-sensitive =
     .label = Sensible a mayúsculas
     .accesskey = m
     .tooltiptext = Buscar distinguiendo mayúsculas y minúsculas
-
 findbar-match-diacritics =
     .label = Coincidir diacríticos
     .accesskey = o
     .tooltiptext = Distingue entre letras con acentos y sus letras base (por ejemplo, al buscar por "como", "cómo" no coincidirá  y por lo tanto no aparecerá)
-
 findbar-entire-word =
     .label = Palabras completas
     .accesskey = P
     .tooltiptext = Buscar solo palabras completas
+findbar-not-found = No se encontró la frase
+findbar-wrapped-to-top = Final de la página, se continúa desde el inicio
+findbar-wrapped-to-bottom = Inicio de la página, se continúa desde el final
+findbar-normal-find =
+    .placeholder = Buscar en la página
+findbar-fast-find =
+    .placeholder = Búsqueda rápida
+findbar-case-sensitive-status =
+    .value = (Sensible a mayúsculas)
