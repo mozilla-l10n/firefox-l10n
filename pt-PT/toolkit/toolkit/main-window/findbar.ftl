@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Localização rápida (só ligações)
 findbar-case-sensitive-status =
     .value = (Diferenciar maiúsculas/minúsculas)
+findbar-match-diacritics-status =
+    .value = (A corresponder diacríticos)
 findbar-entire-word-status =
     .value = (Apenas palavras completas)
 # Variables:
