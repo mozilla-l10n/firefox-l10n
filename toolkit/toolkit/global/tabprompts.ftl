@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Nome de usuário:
 tabmodalprompt-password =
     .value = Senha:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

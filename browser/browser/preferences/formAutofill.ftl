@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Endereços salvos
 autofill-manage-addresses-list-header = Endereços
+
 autofill-manage-credit-cards-title = Cartões de crédito salvos
 autofill-manage-credit-cards-list-header = Cartões de crédito
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Remover
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Editar…
 autofill-add-new-address-title = Adicionar novo endereço
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar endereço
+
 autofill-address-given-name = Nome
 autofill-address-additional-name = Nome do meio
 autofill-address-family-name = Sobrenome
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = País
 autofill-address-tel = Telefone
 autofill-address-email = Email
+
 autofill-cancel-button = Cancelar
 autofill-save-button = Salvar
 autofill-country-warning-message = O preenchimento automático de formulários só está disponível em alguns países.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Adicionar novo cartão de crédito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editar cartão de crédito
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } está tentando exibir informações de cartão de crédito. Confirme abaixo o acesso a esta conta do Windows.
        *[other] { -brand-short-name } está tentando exibir informações de cartão de crédito.
     }
+
 autofill-card-number = Número do cartão
 autofill-card-invalid-number = Digite um número de cartão válido
 autofill-card-name-on-card = Nome no cartão
