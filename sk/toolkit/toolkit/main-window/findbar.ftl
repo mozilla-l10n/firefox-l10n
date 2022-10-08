@@ -34,3 +34,7 @@ findbar-entire-word =
 findbar-not-found = Reťazec nebol nájdený
 findbar-wrapped-to-top = Dosiahnutý koniec stránky, pokračuje sa od začiatku
 findbar-wrapped-to-bottom = Dosiahnutý začiatok stránky, pokračuje sa od konca
+findbar-fast-find =
+    .placeholder = Rýchlo nájsť
+findbar-fast-find-links =
+    .placeholder = Rýchlo nájsť (len odkazy)
