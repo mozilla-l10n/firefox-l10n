@@ -9,16 +9,24 @@ findbar-next =
     .tooltiptext = Kalimaɲaŋoo hiino bangayroo ceeci
 findbar-previous =
     .tooltiptext = Kalimaɲaŋoo bangayri bisantaa ceeci
-
 findbar-find-button-close =
     .tooltiptext = Ceeci žeeri daabu
-
 findbar-case-sensitive =
     .label = Harfu-beeriyan tenjandi
     .accesskey = a
     .tooltiptext = Ceeci nda harfu-beeri maateyan
-
 findbar-entire-word =
     .label = Kalima timmantey
     .accesskey = K
     .tooltiptext = Kalima timmantey hinne ceeci
+findbar-not-found = Kalimaɲaa mana duwandi
+findbar-wrapped-to-top = A too moɲoo cewoo, koy jine boŋoo ga
+findbar-wrapped-to-bottom = A too moŋoo boŋoo, koy jine cewoo ga
+findbar-normal-find =
+    .placeholder = Ceeci moɲoo ra
+findbar-fast-find =
+    .placeholder = Ceeci cahãnte
+findbar-fast-find-links =
+    .placeholder = Ceeci cahãnte (dobey hinne)
+findbar-case-sensitive-status =
+    .value = (Harfu beeriyan bande)
