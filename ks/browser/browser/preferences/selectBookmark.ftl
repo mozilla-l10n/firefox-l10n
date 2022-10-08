@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = ہوم صفحئ كریو سیٹ
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = ہوم صفحئ كریو سیٹ
     .style = min-width: 32em;
+
 select-bookmark-desc = اکھ بوک مارْک ژأریو بطور پنُن ہوم پیج۔ اگر توہیہ اکھ فولڈر ژأریو، تتھ فولڈرس منز بوک مارْک یِین اوپْن کرنْہ ٹیبس منز۔

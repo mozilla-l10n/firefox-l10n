@@ -4,91 +4,127 @@
 
 certmgr-title =
     .title = دستاویزك منتظم
+
 certmgr-tab-mine =
     .label = تہنزئ سَٹیفِكیٹئ
+
 certmgr-tab-people =
     .label = لوْك
+
 certmgr-tab-servers =
     .label = سرورس
+
 certmgr-tab-ca =
     .label = منتظم
+
 certmgr-edit-ca-cert =
     .title = سرٹئفیكیٹ CA بروسئ مند سیٹینگسن كریو ادارت
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = سرٹئفیكیٹ CA بروسئ مند سیٹینگسن كریو ادارت
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = بروسئ مند سیٹینگسن كریو ادارت:
+
 certmgr-edit-cert-trust-ssl =
     .label = یئ سرٹئفیكیٹ پرزناوئ ویبسایٹس
+
 certmgr-edit-cert-trust-email =
     .label = یئ سرٹئفیكیٹ پرزناوئ  میل استیمال كرئن وال۪ین
+
 certmgr-delete-cert =
     .title = سرٹیفکیٹ  كریو خئرج
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = سرٹیفکیٹ  كریو خئرج
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-name =
     .label = سرٹئفیكیٹ ناو
+
 certmgr-cert-server =
     .label = سرور
+
 certmgr-override-lifetime =
     .label = پورئ عمر۪ی
+
 certmgr-token-name =
     .label = حفئظتی عالئ
+
 certmgr-begins-label =
     .label = پیٹھ شروع گژھان
+
 certmgr-expires-label =
     .label = مكل۪ی
+
 certmgr-email =
     .label = پتہE-mail
+
 certmgr-serial =
     .label = سیریل نمبر
+
 certmgr-view =
     .label = وچھیو…
     .accesskey = و
+
 certmgr-edit =
     .label = بروسس كریو ادارت...
     .accesskey = E
+
 certmgr-export =
     .label = برامد...
     .accesskey = x
+
 certmgr-delete =
     .label = خئرج کریو...
     .accesskey = D
+
 certmgr-delete-builtin =
     .label = خٲرج كریو یا تُہئ چھَوئ نئ بروسئ كران...
     .accesskey = D
+
 certmgr-backup =
     .label = بیک اپ ...
     .accesskey = B
+
 certmgr-backup-all =
     .label = سئرسی  كریو بیك اپ ...
     .accesskey = k
+
 certmgr-restore =
     .label = درآمد ...
     .accesskey = m
+
 certmgr-add-exception =
     .label = غئر مومول رلئویو...
     .accesskey = x
+
 exception-mgr =
     .title = حفئظتی غئر مومول رلئویو
+
 exception-mgr-extra-button =
     .label = حفئظتی غئر مومول كریو تصدیق
     .accesskey = C
+
 exception-mgr-supplemental-warning = قأنونی بینک، سِٹور، تْہ باقی پبلِک سایٹْہ پرژھن نْہ توہیہ یہ کرنْہ باپت۔
+
 exception-mgr-cert-location-url =
     .value = جاے:
+
 exception-mgr-cert-location-download =
     .label = سرٹیفکیٹ  كریو خئرج
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = نظارئ ...
     .accesskey = V
+
 exception-mgr-permanent =
     .label = & مكمل تور پئٹھ كریو محفوظ یئ غئر مومول
     .accesskey = P
+
 pk11-bad-password = غلط خوفیئ لفظ اوس دئخل كرنئ آموْت
 pkcs12-decode-err = ناکام گو ڈیکوڈ کرنس منز فایل۔ یا چھ نْہ یہ PKCS #12 فارمیٹس منز، یا چھ خراب گأمْژ یا پاس وأرڈ یوس توہیہ اینٹر کور اوس غلط۔
 pkcs12-unknown-err-restore = PKCS #12  فایل ہیك نئ انیتھ نا مولوم وجوہاتئو كن
@@ -121,10 +157,14 @@ delete-user-cert-title =
     .title = پن۪ین سرٹیفیکیٹ  کریو خٲرج
 delete-user-cert-confirm = تہئ چھئو یژھان پز پئٹھ یئم سرٹئفیكیٹس   خٲرج كرین؟
 delete-user-cert-impact = اگر توہیہ ڈیلیٹ کْریو پننیو سرٹیفیکیٹو منز اکھ، توہیہ ہیکیو نْہ وْنئ یہ استعمال کْرتھ پنُن پان پریزناونْہ باپت۔
+
+
 delete-ca-cert-title =
     .title = خٲرچ كریو یا مئ كریو بروسئ CA سرٹیفیكیٹ۪ی
 delete-ca-cert-confirm = توہیہ چُھ درخواست کورمُت ڈیلیٹ کرنْہ باپت یم سی اے سرٹیفیکیٹ۔ بِلٹْہ اِن سرتیفیکیٹن باپت یِیہ تمام بھروس ہٹاونْہ یتھ ذن کونوی اثر چُھ۔ کیاہ توہیہ چھیو پْز پأٹھ یژھان ڈیلیٹ کرُن یا ڈیسٹرسٹْہ کرُن؟
 delete-ca-cert-impact = اگر توہیہ اکھ سرٹیفیکیٹ ایتھارٹی (سی اے) ڈیلیٹ یا ڈیسٹرسٹْہ کْریو، یہ ایپلیکیشن کرِ نْہ تیلہ بھروس کونِہ تْہ سرتیفیکیت یوس ایشو آسِہ کْرمْژ تمِہ سی اے۔
+
+
 delete-email-cert-title =
     .title = ای میل سرٹئفیكیٹس كریو خٲرج
 delete-email-cert-confirm = تہئ چھُوئ یقین تہئ چھئوئ لوْكئن ہند ای میل سرٹئفیكیٹس خٲرج یژھان كر۪ین؟

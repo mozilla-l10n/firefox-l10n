@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = سرٹیفکیٹ  ڈاونلوڈ كران
     .style = width: 46em
+
 download-cert-window2 =
     .title = سرٹیفکیٹ  ڈاونلوڈ كران
     .style = min-width: 46em

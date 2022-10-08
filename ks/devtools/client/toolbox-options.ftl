@@ -90,8 +90,3 @@ options-context-triggers-page-refresh = موجود سیشن صرف، پیج چُ
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = ہأیو گیکو پلیٹ فارم ڈاٹا
-options-show-platform-data-tooltip =
-    .title = اگر توہیہ اینیبْل کریو یہ اوپشن جاوا سیکریپٹْہ پروفایلر رپورٹن منز گژھ شأملگیکو پلیٹ فارم سیمبُل{ " " }

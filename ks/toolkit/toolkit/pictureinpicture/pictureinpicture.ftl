@@ -12,3 +12,8 @@ pictureinpicture-mute =
 pictureinpicture-unmute =
     .aria-label = آواز تھٲویو
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+
