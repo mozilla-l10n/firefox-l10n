@@ -44,3 +44,22 @@ findbar-case-sensitive-status =
     .value = (Razlikovanje malih i velikih slova)
 findbar-entire-word-status =
     .value = (samo cijele riječi)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } od { $total } rezultata
+            [few] { $current } od { $total } rezultata
+           *[other] { $current } od { $total } rezultata
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Više od { $limit } rezultata
+            [few] Više od { $limit } rezultata
+           *[other] Više od { $limit } rezultata
+        }
