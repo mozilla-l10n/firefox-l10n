@@ -18,5 +18,16 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Sul on saatmata vearaport
+       *[other] Sul on { $reportCount } saatmata vearaportit
+    }
 pending-crash-reports-view-all =
     .label = Vaata
+pending-crash-reports-send =
+    .label = Saada
+pending-crash-reports-always-send =
+    .label = Saada alati
