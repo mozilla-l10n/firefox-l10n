@@ -10,13 +10,25 @@ crashed-subframe-message = <strong>Део странице се срушио. </
 # but without any markup.
 crashed-subframe-title =
     .title = Део странице се срушио. Пошаљите извештај да би { -brand-product-name } сазнао за овај проблем и брже га решио.
+crashed-subframe-learnmore-link =
+    .value = Сазнајте више
 crashed-subframe-submit =
     .label = Поднесите извештај
     .accesskey = S
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Имате извештај о отказивању који нисте послали
+        [few] Имате { $reportCount } извештаја о отказивању које нисте послали
+       *[other] Имате { $reportCount } извештаја о отказивању које нисте послали
+    }
 pending-crash-reports-view-all =
     .label = Прикажи
 pending-crash-reports-send =
     .label = Пошаљи
+pending-crash-reports-always-send =
+    .label = Увек шаљи
