@@ -65,6 +65,9 @@ neterror-nss-failure-contact-website = Veuillez contacter les propriétaires du 
 certerror-intro = { -brand-short-name } a détecté une menace de sécurité potentielle et n’a pas poursuivi vers <b>{ $hostname }</b>. Si vous accédez à ce site, des attaquants pourraient dérober des informations comme vos mots de passe, courriels, ou données de carte bancaire.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } a détecté une menace potentielle de sécurité et a interrompu le chargement de <b>{ $hostname }</b>, car ce site web nécessite une connexion sécurisée.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } a détecté un problème et a interrompu le chargement de <b>{ $hostname }</b>. Soit le site est mal configuré, soit l’horloge de votre ordinateur est réglée à la mauvaise heure.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
