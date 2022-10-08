@@ -9,16 +9,18 @@ findbar-next =
     .tooltiptext = Yiylo cilol garowol konngol ngol
 findbar-previous =
     .tooltiptext = Yiylo cilol ɓennugol konngol ngol
-
 findbar-find-button-close =
     .tooltiptext = Uddu palal njiilaw
-
 findbar-case-sensitive =
     .label = Jaaɓnu darnde
     .accesskey = d
     .tooltiptext = Yiylo wonndude e jaaɓgol darnde
-
 findbar-entire-word =
     .label = Kelme Kuuɓɗe
     .accesskey = K
     .tooltiptext = Yiylo kelme kuuɓɗe tan
+findbar-not-found = Konngi njiyataa
+findbar-wrapped-to-top = Heɓii gasirde hello, jokku faya dow
+findbar-wrapped-to-bottom = Heɓii fuɗɗorde hello, jokku faya les
+findbar-case-sensitive-status =
+    .value = (Darnde ena hiisaa)
