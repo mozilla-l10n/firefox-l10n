@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = Po shkarkohet përditësim { -brand-shorter-name }-i
+
 appmenuitem-banner-update-available =
     .label = Përditësim gati — shkarkojeni që tani
+
 appmenuitem-banner-update-manual =
     .label = Përditësim gati — shkarkojeni që tani
+
 appmenuitem-banner-update-unsupported =
     .label = S’arrihet të përditësohet — mospërputhje sistemi
+
 appmenuitem-banner-update-restart =
     .label = Përditësim gati — riniseni tani
+
 appmenuitem-new-tab =
     .label = Skedë e Re
 appmenuitem-new-window =
@@ -51,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Mbyll Menu Aplikacioni
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -71,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Hyni në Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktivizoni Sync-un…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Shfaq Më Tepër Skeda
     .tooltiptext = Shfaqni më tepër skeda nga kjo pajisje
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = S'ka skeda të hapura
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Aktivizoni njëkohësim skedash që të shihni një listë skedash nga pajisje tuajat të tjera.
+
 appmenu-remote-tabs-opensettings =
     .label = Rregullime
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Doni të shihni këtu skedat tuaja nga pajisje të tjera?
+
 appmenu-remote-tabs-connectdevice =
     .label = Lidhni Tjetër Pajisje
 appmenu-remote-tabs-welcome = Shihni një listë skedash nga pajisje tuajat të tjera.
 appmenu-remote-tabs-unverified = Llogaria juaj duhet verifikuar.
+
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji Tani
 appmenuitem-fxa-sign-in = Hyni te { -brand-product-name }
 appmenuitem-fxa-manage-account = Administroni Llogari
@@ -101,12 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Njëkohëso dhe Ruaj të Dhëna
 appmenu-fxa-signed-in-label = Hyni
 appmenu-fxa-setup-sync =
     .label = Aktivizoni Sync-un…
+
 appmenuitem-save-page =
     .label = Ruajeni Faqen Si…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ç’ka të Re
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -120,38 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profilizues
     .tooltiptext = Regjistro një profil funksionimi
+
 profiler-popup-button-recording =
     .label = Profilizues
     .tooltiptext = Profilizuesi po regjistron një profil
+
 profiler-popup-button-capturing =
     .label = Profilizues
     .tooltiptext = Profili po merr një profil
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Shfaq më tepër informacion
+
 profiler-popup-description-title =
     .value = Regjistro, analizo, jep
+
 profiler-popup-description = Bashkëpunoni në probleme funksionimi, duke publikuar profile për t’i ndarë me ekipin tuaj.
+
 profiler-popup-learn-more-button =
     .label = Mësoni më tepër
+
 profiler-popup-settings =
     .value = Rregullime
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Përpunoni Rregullime…
+
 profiler-popup-recording-screen = Po regjistron…
+
 profiler-popup-start-recording-button =
     .label = Fillo Regjistrimin
+
 profiler-popup-discard-button =
     .label = Hidhe tej
+
 profiler-popup-capture-button =
     .label = Regjistroje
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -169,21 +199,27 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Profil i gatshëm i rekomanduar për shumicën e diagnostikimit të aplikacioneve web, me kokëçarje të pakta.
 profiler-popup-presets-web-developer-label =
     .label = Zhvillues Web
+
 profiler-popup-presets-firefox-description = Model i rekomanduar për profilizim { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Model për hetim të metash grafike në { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafikë
+
 profiler-popup-presets-media-description2 = Model për hetim të metash audio dhe video nën { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+
 profiler-popup-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Punim në rrjet
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energji
+
 profiler-popup-presets-custom-label =
     .label = Vetjak
 
@@ -243,6 +279,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Përshtateni Panelin…
+
 appmenu-developer-tools-subheader = Mjete Shfletuesi
 appmenu-developer-tools-extensions =
     .label = Zgjerime për Zhvillues
