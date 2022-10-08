@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Hľadať
     .accesskey = H
+
 context-text-action-find-again =
     .label = Hľadať znova
     .accesskey = z
+
 text-action-find =
     .label = Hľadať
     .accesskey = H
+
 text-action-find-again =
     .label = Hľadať znova
     .accesskey = z

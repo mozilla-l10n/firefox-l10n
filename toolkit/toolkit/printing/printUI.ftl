@@ -5,6 +5,7 @@
 printui-title = Tlačiť
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Uložiť ako
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,6 +14,7 @@ printui-sheets-count =
         [few] { $sheetCount } listy papiera
        *[other] { $sheetCount } listov papiera
     }
+
 printui-page-range-all = Všetky
 printui-page-range-current = Aktuálna
 printui-page-range-odd = Nepárne
@@ -24,22 +26,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Zadajte vlastný rozsah strán
     .placeholder = napr. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Kópie
+
 printui-orientation = Orientácia
 printui-landscape = Na šírku
 printui-portrait = Na výšku
+
 # Section title for the printer or destination device to target
 printui-destination-label = Zariadenie pre tlač
 printui-destination-pdf-label = Uložiť ako PDF
+
 printui-more-settings = Ďalšie nastavenia
 printui-less-settings = Menej nastavení
+
 printui-paper-size-label = Veľkosť papiera
+
 # Section title (noun) for the print scaling options
 printui-scale = Mierka
 printui-scale-fit-to-page-width = Prispôsobiť šírke stránky
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Mierka
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Obojstranná tlač
 printui-two-sided-printing-off = Vypnutá
@@ -47,6 +56,7 @@ printui-two-sided-printing-off = Vypnutá
 printui-two-sided-printing-long-edge = Preklopiť na dlhšom okraji
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Preklopiť na kratšom okraji
+
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Vytlačiť hlavičku a pätu
@@ -70,6 +80,7 @@ printui-simplify-page-radio = Zjednodušená
 printui-color-mode-label = Nastavenia farby
 printui-color-mode-color = Farebne
 printui-color-mode-bw = Čiernobielo
+
 printui-margins = Okraje
 printui-margins-default = Predvolené
 printui-margins-min = Minimálne
@@ -88,17 +99,23 @@ printui-margins-custom-left-mm = Vľavo (mm)
 printui-margins-custom-right = Vpravo
 printui-margins-custom-right-inches = Vpravo (palce)
 printui-margins-custom-right-mm = Vpravo (mm)
+
 printui-system-dialog-link = Vytlačiť pomocou systémového dialógu…
+
 printui-primary-button = Tlačiť
 printui-primary-button-save = Uložiť
 printui-cancel-button = Zrušiť
 printui-close-button = Zavrieť
+
 printui-loading = Pripravuje sa ukážka pred tlačou
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Ukážka pred tlačou
+
 printui-pages-per-sheet = Stránok na list papiera
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Prebieha tlač…
@@ -125,6 +142,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Mierka musí byť číslo medzi 10 a 200.
 printui-error-invalid-margin = Zadajte platné okraje pre vybranú veľkosť papiera.
 printui-error-invalid-copies = Počet kópií musí byť číslo medzi 1 a 10000.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rozsah strán musí byť číslo medzi 1 a { $numPages }.
