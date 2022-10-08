@@ -25,6 +25,8 @@ neterror-error-reporting-automatic = Report errors like this to help { -vendor-s
 
 ## Specific error messages
 
+neterror-file-not-found-filename = Check the file name for capitalization or other typing errors.
+neterror-file-not-found-moved = Check to see if the file was moved, renamed or deleted.
 neterror-access-denied = It may have been removed, moved, or file permissions may be preventing access.
 neterror-unknown-protocol = You might need to install other software to open this address.
 neterror-redirect-loop = This problem can sometimes be caused by disabling or refusing to accept cookies.
