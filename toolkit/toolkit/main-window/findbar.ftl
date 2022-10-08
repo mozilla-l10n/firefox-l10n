@@ -40,3 +40,5 @@ findbar-fast-find =
     .placeholder = Γρήγορη εύρεση
 findbar-fast-find-links =
     .placeholder = Γρήγορη εύρεση (μόνο δεσμοί)
+findbar-entire-word-status =
+    .value = (Μόνο ολόκληρες λέξεις)
