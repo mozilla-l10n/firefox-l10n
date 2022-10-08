@@ -3,16 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Gambar-dalam-Gambar
+
 pictureinpicture-pause =
     .aria-label = Tunda
 pictureinpicture-play =
     .aria-label = Mainkan
+
 pictureinpicture-mute =
     .aria-label = Senyap
 pictureinpicture-unmute =
     .aria-label = Keraskan
+
 pictureinpicture-unpip =
     .aria-label = Kirim kembali ke tab
+
 pictureinpicture-close =
     .aria-label = Tutup
 
@@ -25,18 +29,22 @@ pictureinpicture-pause-cmd =
 pictureinpicture-play-cmd =
     .aria-label = Mainkan
     .title = Mainkan (Spacebar)
+
 pictureinpicture-mute-cmd =
     .aria-label = Senyap
     .title = Senyap ({ $shortcut })
 pictureinpicture-unmute-cmd =
     .aria-label = Suarakan
     .title = Suarakan ({ $shortcut })
+
 pictureinpicture-unpip-cmd =
     .aria-label = Kirim kembali ke tab
     .title = Kembali ke tab
+
 pictureinpicture-close-cmd =
     .aria-label = Tutup
     .title = Tutup ({ $shortcut })
+
 pictureinpicture-subtitles-cmd =
     .aria-label = Subtitel
     .title = Subtitel
@@ -46,17 +54,25 @@ pictureinpicture-subtitles-cmd =
 pictureinpicture-fullscreen-cmd =
     .aria-label = Layar Penuh
     .title = Layar Penuh (klik ganda)
+
 pictureinpicture-exit-fullscreen-cmd =
     .aria-label = Keluar dari Layar Penuh
     .title = Keluar dari Layar Penuh (klik ganda)
+
 pictureinpicture-seekbackward-cmd =
     .aria-label = Mundur
     .title = Mundur (←)
+
 pictureinpicture-seekforward-cmd =
     .aria-label = Maju
     .title = Maju (→)
+
 pictureinpicture-subtitles-label = Subtitel
+
 pictureinpicture-font-size-label = Ukuran fon
+
 pictureinpicture-font-size-small = Kecil
+
 pictureinpicture-font-size-medium = Sedang
+
 pictureinpicture-font-size-large = Besar

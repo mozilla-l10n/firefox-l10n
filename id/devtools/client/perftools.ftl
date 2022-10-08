@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Ukuran buffer:
+
 perftools-custom-threads-label = Tambahkan thread khusus berdasarkan nama:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Thread:
 perftools-devtools-settings-label = Pengaturan
@@ -112,6 +114,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Lewati pilihan di atas dan rekam semua utas yang terdaftar
+
 perftools-tools-threads-input-label =
     .title = Nama utas ini berupa daftar yang dipisahkan karakter koma, yang akan digunakan untuk mengaktifkan profiling utas pada profiler. Pencocokan nama juga akan dilakukan secara bagian, tidak secara lengkap pada utas yang disertakan. Karakter spasi pada nama berpengaruh.
 
@@ -119,6 +122,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Baru</b>: { -profiler-brand-name } telah diintegrasikan ke dalam Alat Pengembang. <a>Pelajari lebih lanjut</a> tentang alat baru yang canggih ini.
+
 perftools-onboarding-close-button =
     .aria-label = Tutup pesan orientasi
 
@@ -131,17 +135,23 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Pengembang Web
 perftools-presets-web-developer-description = Prasetel yang direkomendasikan untuk sebagian besar debugging aplikasi web, dengan overhead yang rendah.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Prasetel yang disarankan untuk pembuatan profil { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Grafik
 perftools-presets-graphics-description = Prasetel untuk menyelidiki bug grafis di { -brand-shorter-name }.
+
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Prasetel untuk menyelidiki bug audio dan video di { -brand-shorter-name }.
+
 perftools-presets-networking-label = Jaringan
 perftools-presets-networking-description = Prasetel untuk menyelidiki bug jaringan di { -brand-shorter-name }.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Daya
 perftools-presets-power-description = Prasetel untuk menyelidiki bug penggunaan daya di { -brand-shorter-name }, dengan overhead rendah.
+
 perftools-presets-custom-label = Khusus
 
 ##

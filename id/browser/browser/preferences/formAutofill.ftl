@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Alamat Tersimpan
 autofill-manage-addresses-list-header = Alamat
+
 autofill-manage-credit-cards-title = Kartu Kredit Tersimpan
 autofill-manage-credit-cards-list-header = Kartu Kredit
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Hapus
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Edit…
 autofill-add-new-address-title = Tambahkan Alamat Baru
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edit Alamat
+
 autofill-address-given-name = Nama Depan
 autofill-address-additional-name = Nama Tengah
 autofill-address-family-name = Nama Belakang
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Negara atau Wilayah
 autofill-address-tel = Telepon
 autofill-address-email = Email
+
 autofill-cancel-button = Batalkan
 autofill-save-button = Simpan
 autofill-country-warning-message = Saat ini fitur IsiOtomatis Formulir hanya tersedia untuk negara tertentu.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Tambahkan Kartu Kredit Baru
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edit Kartu Kredit
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } berusaha menampilkan informasi kartu kredit. Konfirmasikan akses ke akun Windows di bawah ini.
        *[other] { -brand-short-name } berusaha menampilkan informasi kartu kredit.
     }
+
 autofill-card-number = Nomor Kartu
 autofill-card-invalid-number = Masukkan nomor kartu yang valid
 autofill-card-name-on-card = Nama pada Kartu

@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Mulailah dari awal untuk memperbaiki masala
 refresh-profile = Lakukan penyegaran untuk { -brand-short-name }
 refresh-profile-button = Segarkan { -brand-short-name }…
 refresh-profile-learn-more = Pelajari lebih lanjut
+
 refresh-profile-progress =
     .title = Segarkan { -brand-short-name }
 refresh-profile-progress-description = Hampir selesai…
