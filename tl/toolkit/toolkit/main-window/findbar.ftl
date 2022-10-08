@@ -34,8 +34,12 @@ findbar-entire-word =
 findbar-not-found = Hindi makikita ang kasabihan
 findbar-wrapped-to-top = Dulo na ng pahina, pagpapatuloy mula sa itaas
 findbar-wrapped-to-bottom = Naabot ang taas ng pahina, ipinagpatuloy mula sa baba
+findbar-normal-find =
+    .placeholder = Hanapin sa pahina
 findbar-case-sensitive-status =
     .value = (Case sensitive)
+findbar-entire-word-status =
+    .value = (Buong mga salita lang)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -44,4 +48,12 @@ findbar-found-matches =
         { $total ->
             [one] { $current } of { $total } ang tugma
            *[other] { $current } of { $total } ang tugma
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Higit pa sa { $limit } na tumugma
+           *[other] Higit pa sa { $limit } na mga nagtugma
         }
