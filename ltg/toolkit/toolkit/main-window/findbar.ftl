@@ -30,6 +30,8 @@ findbar-fast-find-links =
     .placeholder = Uotrā mekliešona (tikai saites)
 findbar-case-sensitive-status =
     .value = (Registrjiuteigs)
+findbar-entire-word-status =
+    .value = (Whole words only)
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
