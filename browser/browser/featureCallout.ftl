@@ -9,6 +9,9 @@ callout-primary-complete-button-label = Түсіндім!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Құрылғылар арасында ауысып, беттерді алып жүріңіз
 callout-firefox-view-colorways-title = Түстер шашырауын қосыңыз
 
 ## Continuous Onboarding - Firefox View: Tab pick up
