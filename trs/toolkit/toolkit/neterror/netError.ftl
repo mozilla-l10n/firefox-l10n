@@ -28,6 +28,7 @@ neterror-view-certificate-link = Ni'io' sertifikado
 
 ##
 
+neterror-pref-reset = Rû’ huaj sisī konfigurasiûn si seguridâ internet ‘iaj hua sa huā dànanj. Ruhuât nanìka dàj rû’ hua niñanj ‘naj da’ nahuin sà’aj aj?
 neterror-error-reporting-automatic = Ga'ninj nugua'an ga'anj riña { -vendor-short-name } da' gini'in' nej sitio hua yi'ī.
 
 ## Specific error messages
@@ -66,10 +67,25 @@ certerror-sts-intro = { -brand-short-name } nari'ij 'ngo sa yi'ì hia ni nu gan'
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } nari'ij 'ngo sa yi'ìi ni nu gan'an riña <b>{ $hostname }</b>. Hua a'nan' riña sîtio asi si horât nitaj si nùn hue'ê.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> Huin ‘ngō sitiô sà’a si gūruhuaj, sanī na’ue gi’iaj konektandô sà’aj. <b>{ $mitm }</b> huin sa ‘iaj hua sa huā dànanj, nī sa nū riña si aga’t nî’ asi riña red arâj sunt.
 neterror-corrupted-content-intro = Pajinâ ruhuât ni'iajt ni na'ue guruguì'ij dadin' nari'ij 'ngo sa a'ui' riña nej dâto.
 neterror-corrupted-content-contact-website = Gi'iaj 'ngo sununj un ni natà' na'anj riña nej duguî' 'nïnj ra'a sitiô nan da' nahui man.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Nuguan' nga huaj ne'ñan an: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> arâj sunj ‘ngō sa gō nitāj si arán hue’ê riña sa yi’ìi. Si gatū nej si nī nda nanè chre gini’in nej si sa màn sà’ ‘iát. Asinïn da’ui sû’ nikāj ñu’ūnj sitiô nan nagi’iaj si man da’ ga’ue gatūt riñanj.
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = Da’nga’ nikāj sa gahui a’nan’an: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Anïn ruhuâ si aga’t sisī { DATETIME($now, dateStyle: "medium") }, huin sa nu a’nïnj riña { -brand-short-name } da’ gi’iaj konektândo sà’aj. Da’ ga’ue gatūt riña <b>{ $hostname }</b>, nagi’iaj nakà ôra riña si agâ’t, diû, sôna orâria, nī dunayì’ì ñût <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Pajinâ ni'iājt ruhuât nī na'ue nayi'nïn dadin' huā a'nan' si protokolô red.
+neterror-network-protocol-error-contact-website = Gi'iaj 'ngō sununj nī natà' na'ānj' riña nej duguî' sī’iaj huin pajinâ nan.
 certerror-expired-cert-second-para = Si guruhuaj ni ngà gisîj si diû sertifikâdo, yi'ì dan na'ue ga'nïn riña { -brand-short-name } guendâ gi'iaj sun hue'ej. Si gatut hiuj nan ruhuât nïn, ga'ue gi'iaj tu nej si nuguan' hua rayi'ît, si da'nga' huìt, si korreôt asi da'nga' araj sunt ngà nakaj nu sà' san'anj an riña.
 certerror-expired-cert-sts-second-para = Si guruhuaj ni ngà gisîj si diû si sertifikadô web, yi'ì dan na'ue ga'nïn riña { -brand-short-name } gi'iaj konektandoj da' dugumij sò'.
 certerror-what-can-you-do-about-it-title = Nùhuin si ga'ue gi'iát.
@@ -81,6 +97,14 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Sisi hua 'ngo 
 certerror-expired-cert-what-can-you-do-about-it-clock = Si relô si agô' 'iaj sun guendâ { DATETIME($now, dateStyle: "medium") }. Da'uît natsíj ni'iajt sisi nu hue'ê gui, ni hora riña si aga't, da' ga'ue nagi'iaj nakàt sa nu riñanj <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Sisi hua hue'ê diû ngà si relôt ni riña sîtio hua a'nan', ni nitaj nùhuin si gi'iô' da' ga'ue nahuin sa gahui a'nan' nan.
 certerror-bad-cert-domain-what-can-you-do-about-it = Sa hua a'nan' nan ni riña sîtio 'iaj si guruhuaj, ni nitaj nùhuin si ga'ue gi'iô' da nahuin man. Natà' na'anj riña sû' nikaj ñun'unj sitiô dan rayi'î sa hua dan.
+certerror-mitm-what-can-you-do-about-it-antivirus = Sisī antivirus nikājt nani’in man nej koneksiûn huā ráan (gu’nàj “web scanning” asi “https scanning”), ga’ue dunâ’àjt sa huā dànanj. Sisī na’ue nī nadure’ antivirus nī na’nïnj ñût man.
+certerror-mitm-what-can-you-do-about-it-corporate = Sisī riña ‘ngō red korporatiba nut nī, ga’ue ga’mint riña dukuâ sun informâtika.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Sisī nitāj si râj sun yìtïnjt <b>{ $mitm }</b>, ga’ue si sa yi’ìi huin nan nī dugunàj huaj si gahuīt riña sîtio.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Sisī nitāj si râj sun yìtïnjt <b>{ $mitm }</b>, ga’ue si sa yi’ìi huin nan nī nitāj dàj gāj gatūt riña sitiô nan ngà’.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> hua 'ngo sa dugumin ma gu'naj ma HTTP Strict Transport Security (HSTS), sa gata ruaj huin si { -brand-short-name } man 'nga na gi'iaj sunj. Si ga'ue ahuin si gataj gà gatut riña sitio na.
