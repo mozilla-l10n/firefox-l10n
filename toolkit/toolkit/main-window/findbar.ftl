@@ -34,6 +34,14 @@ findbar-entire-word =
 findbar-not-found = Frasa tidak ditemukan
 findbar-wrapped-to-top = Sampai di akhir laman, dilanjutkan dari atas
 findbar-wrapped-to-bottom = Sampai di awal laman, dilanjutkan dari bawah
+findbar-normal-find =
+    .placeholder = Temukan di laman
+findbar-fast-find =
+    .placeholder = Pencarian cepat
+findbar-fast-find-links =
+    .placeholder = Pencarian cepat (hanya tautan)
+findbar-case-sensitive-status =
+    .value = (Cocokkan BESAR/kecilnya huruf)
 findbar-match-diacritics-status =
     .value = (Pencocokan diakritik)
 # Variables:
