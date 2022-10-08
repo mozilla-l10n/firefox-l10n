@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Tut ils cudeschets d'adressas
+
 about-addressbook-books-context-properties =
     .label = Caracteristicas
 about-addressbook-books-context-synchronize =
@@ -38,6 +39,7 @@ about-addressbook-books-context-remove =
     .label = Allontanar
 about-addressbook-books-context-startup-default =
     .label = Ordinatur da standard suenter aviar
+
 about-addressbook-confirm-delete-book-title = Stizzar il cudeschet d'adressas
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,14 +57,17 @@ about-addressbook-search =
     .placeholder = Tschertgar { $name }
 about-addressbook-search-all =
     .placeholder = Tschertgar en tut ils cudeschets d'adressas
+
 about-addressbook-sort-button2 =
     .title = Opziuns da vista da la glista
+
 about-addressbook-name-format-display =
     .label = Num per mussar
 about-addressbook-name-format-firstlast =
     .label = Prenum Num
 about-addressbook-name-format-lastfirst =
     .label = Num, Prenum
+
 about-addressbook-sort-name-ascending =
     .label = Zavrar tenor num (A > Z)
 about-addressbook-sort-name-descending =
@@ -71,6 +76,7 @@ about-addressbook-sort-email-ascending =
     .label = Zavrar tenor l'adressa d'e-mail (A > Z)
 about-addressbook-sort-email-descending =
     .label = Zavrar tenor l'adressa d'e-mail (Z > A)
+
 about-addressbook-horizontal-layout =
     .label = Midar al layout orizontal
 about-addressbook-vertical-layout =
@@ -103,8 +109,10 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Cudeschet d'adressas
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
+
 about-addressbook-cards-context-write =
     .label = Scriver
+
 about-addressbook-confirm-delete-mixed-title = Stizzar contacts e glistas
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -168,24 +176,30 @@ about-addressbook-placeholder-no-search-results = Na chattà nagins contacts
 ## Details
 
 about-addressbook-prefer-display-name = Da preferenza mussar il 'num per mussar' empè dal chau dal messadi
+
 about-addressbook-write-action-button = Scriver
 about-addressbook-event-action-button = Eveniment
 about-addressbook-search-action-button = Tschertgar
+
 about-addressbook-begin-edit-contact-button = Modifitgar
 about-addressbook-delete-edit-contact-button = Stizzar
 about-addressbook-cancel-edit-contact-button = Interrumper
 about-addressbook-save-edit-contact-button = Memorisar
+
 about-addressbook-add-contact-to = Agiuntar a:
+
 about-addressbook-details-email-addresses-header = Adressas dad e-mail
 about-addressbook-details-phone-numbers-header = Numers da telefon
 about-addressbook-details-addresses-header = Adressas
 about-addressbook-details-notes-header = Notizias
 about-addressbook-details-other-info-header = Autras infurmaziuns
+
 about-addressbook-entry-type-work = Lavur
 about-addressbook-entry-type-home = Privat
 about-addressbook-entry-type-fax = Fax
 about-addressbook-entry-type-cell = Telefonin
 about-addressbook-entry-type-pager = Pager
+
 about-addressbook-entry-name-birthday = Di da naschientscha
 about-addressbook-entry-name-anniversary = Anniversari
 about-addressbook-entry-name-title = Titel
@@ -193,6 +207,7 @@ about-addressbook-entry-name-role = Rolla
 about-addressbook-entry-name-organization = Organisaziun
 about-addressbook-entry-name-website = Website
 about-addressbook-entry-name-time-zone = Zona d'urari
+
 about-addressbook-unsaved-changes-prompt-title = Midadas betg memorisadas
 about-addressbook-unsaved-changes-prompt = Vuls ti memorisar tias modificaziuns avant che bandunar la vista da redacziun?
 
@@ -202,6 +217,10 @@ about-addressbook-photo-drop-target = Deponer u encollar qua ina foto u cliccar 
 about-addressbook-photo-drop-loading = Chargiar la foto…
 about-addressbook-photo-drop-error = Betg reussì da chargiar la foto.
 about-addressbook-photo-filepicker-title = Tscherner ina datoteca da grafica
+
 about-addressbook-photo-discard = Sbittar la foto existenta
 about-addressbook-photo-cancel = Interrumper
 about-addressbook-photo-save = Memorisar
+
+# Keyboard shortcuts
+

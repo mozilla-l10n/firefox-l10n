@@ -14,6 +14,7 @@
 
 <!ENTITY productHelp.label "Agid da &brandShortName;">
 <!ENTITY productHelp.accesskey "A">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

@@ -16,8 +16,10 @@ openpgp-one-recipient-status-open-details =
     .label = Avrir ils detagls e modifitgar l'acceptaziun…
 openpgp-one-recipient-status-discover =
     .label = Tschertgar clavs actualisadas u novas
+
 openpgp-one-recipient-status-instruction1 = Per trametter in messadi criptà da fin a fin ad in destinatur, stos ti avair sia clav publica OpenPGP e la stos marcar sco acceptada.
 openpgp-one-recipient-status-instruction2 = Per obtegnair sia clav publica, l'importescha dad in e-mail ch'el ha ta tramess e che includa la clav. Uschiglio pos ti empruvar da chattar sia clav publica en in register.
+
 openpgp-key-own = Acceptada (clav persunala)
 openpgp-key-secret-not-personal = Betg utilisabla
 openpgp-key-verified = Acceptada (verifitgada)
@@ -25,19 +27,24 @@ openpgp-key-unverified = Acceptada (betg verifitgada)
 openpgp-key-undecided = Betg acceptada (betg decidì)
 openpgp-key-rejected = Betg acceptada (refusada)
 openpgp-key-expired = Scrudà
+
 openpgp-intro = Clavs publicas disponiblas per { $key }
+
 openpgp-pubkey-import-id = ID: { $kid }
 openpgp-pubkey-import-fpr = Impronta digitala: { $fpr }
+
 openpgp-pubkey-import-intro =
     { $num ->
         [one] La datoteca cuntegna ina clav publica sco inditgà sutvart:
        *[other] La datoteca cuntegna { $num } clavs publicas sco inditgà sutvart:
     }
+
 openpgp-pubkey-import-accept =
     { $num ->
         [one] Acceptas ti questa clav per verifitgar suttascripziuns digitalas e per criptar messadis per tut las adressas dad e-mail inditgadas?
        *[other] Acceptas ti questas clavs per verifitgar suttascripziuns digitalas e per criptar messadis per tut las adressas dad e-mail inditgadas?
     }
+
 pubkey-import-button =
     .buttonlabelaccept = Importar
     .buttonaccesskeyaccept = I

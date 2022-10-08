@@ -352,7 +352,6 @@ fission-status-experiment-treatment = Activà dad experiment
 fission-status-disabled-by-e10s-env = Deactivà da l'ambient
 fission-status-enabled-by-env = Activà da l'ambient
 fission-status-disabled-by-env = Deactivà da l'ambient
-fission-status-disabled-by-safe-mode = Deactivà dal modus segirà
 fission-status-enabled-by-default = Activà tenor standard
 fission-status-disabled-by-default = Deactivà tenor standard
 fission-status-enabled-by-user-pref = Activà da l'utilisader

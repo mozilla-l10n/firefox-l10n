@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Cumenza da nov per reparar problems da pres
 refresh-profile = Dà nov schlantsch a { -brand-short-name }
 refresh-profile-button = Redefinir { -brand-short-name }…
 refresh-profile-learn-more = Ulteriuras infurmaziuns
+
 refresh-profile-progress =
     .title = Redefinir { -brand-short-name }
 refresh-profile-progress-description = Prest a fin…

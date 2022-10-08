@@ -18,11 +18,15 @@
 ## View / Layout
 
 appmenu-font-size-value = Grondezza da scrittira
+
 appmenu-mail-uidensity-value = Cumpactadad
+
 appmenuitem-font-size-enlarge =
     .tooltiptext = Engrondir la grondezza da la scrittira
+
 appmenuitem-font-size-reduce =
     .tooltiptext = Reducir la grondezza da la scrittira
+
 # Variables:
 # $size (String) - The current font size.
 appmenuitem-font-size-reset =

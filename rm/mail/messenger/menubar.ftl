@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Parameters
     .accesskey = e
+
 menu-addons-and-themes =
     .label = Supplements e designs
     .accesskey = S
@@ -20,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modus per schliar problems…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Deactivar il modus per schliar problems
     .accesskey = o
+
 menu-help-more-troubleshooting-info =
     .label = Dapli infurmaziuns per schliar problems
     .accesskey = m
@@ -53,27 +56,35 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Grondezza da scrittira
     .accesskey = o
+
 menuitem-font-size-enlarge =
     .label = Engrondir la grondezza da la scrittira
     .accesskey = E
+
 menuitem-font-size-reduce =
     .label = Reducir la grondezza da la scrittira
     .accesskey = d
+
 menuitem-font-size-reset =
     .label = Reinizialisar la grondezza da scrittira
     .accesskey = R
+
 mail-uidensity-label =
     .label = Cumpactadad
     .accesskey = C
+
 mail-uidensity-compact =
     .label = Cumpact
     .accesskey = u
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Touch
     .accesskey = T
+
 menu-spaces-toolbar-button =
     .label = Trav d'utensils da locals
     .accesskey = s
