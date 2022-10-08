@@ -90,11 +90,18 @@ neterror-inadequate-security-code = Fehlercode: NS_ERROR_NET_INADEQUATE_SECURITY
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Datum und Uhrzeit Ihres Computers sind auf { DATETIME($now, dateStyle: "medium") } gesetzt, was { -brand-short-name } am Herstellen einer gesicherten Verbindung hindert. Setzen Sie Datum, Uhrzeit und Zeitzone in den Systemeinstellungen korrekt und laden Sie anschließend <b>{ $hostname }</b> neu.
+neterror-network-protocol-error-intro = Die angeforderte Seite kann nicht angezeigt werden, da ein Fehler bei der Verwendung des Netzwerkprotokolls festgestellt wurde.
+neterror-network-protocol-error-contact-website = Kontaktieren Sie bitte die Betreiber der Website, um sie über dieses Problem zu informieren.
 certerror-expired-cert-second-para = Das Zertifikat der Website ist wahrscheinlich abgelaufen, weshalb { -brand-short-name } keine verschlüsselte Verbindung aufbauen kann. Falls Sie die Website besuchen, könnten Angreifer versuchen, Passwörter, E-Mails oder Kreditkartendaten zu stehlen.
 certerror-expired-cert-sts-second-para = Das Zertifikat der Website ist wahrscheinlich abgelaufen, weshalb { -brand-short-name } keine verschlüsselte Verbindung aufbauen kann.
 certerror-what-can-you-do-about-it-title = Was können Sie dagegen tun?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Am wahrscheinlichsten wird das Problem durch die Website verursacht und Sie können nichts dagegen tun.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Falls Sie sich in einem Firmennetzwerk befinden oder Antivirus-Software einsetzen, so können Sie jeweils deren IT-Support kontaktieren. Das Benachrichtigen des Website-Administrators über das Problem ist eine weitere Möglichkeit.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Datum und Uhrzeit Ihres Computers sind eingestellt auf { DATETIME($now, dateStyle: "medium") }. Überprüfen Sie, ob Datum, Uhrzeit und Zeitzone in den Systemeinstellungen korrekt gesetzt sind und laden Sie <b>{ $hostname }</b> neu.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Falls Datum und Uhrzeit bereits korrekt sind, so ist die Website wahrscheinlich falsch eingerichtet und Sie können das Problem nicht selbst beheben. Sie können den Website-Administrator über das Problem benachrichtigen.
 certerror-bad-cert-domain-what-can-you-do-about-it = Am wahrscheinlichsten wird das Problem durch die Website verursacht und Sie können nichts dagegen tun. Sie können den Website-Administrator über das Problem benachrichtigen.
 certerror-mitm-what-can-you-do-about-it-antivirus = Falls die verwendete Antivirus-Software eine Funktion zum Untersuchen verschlüsselter Verbindungen enthält (oft als "Browser Safety" oder "Untersuchung von sicheren Verbindungen" bezeichnet), können Sie diese Funktion deaktivieren. Falls dies das Problem nicht behebt, können Sie die Antivirus-Software deinstallieren und neu installieren.
 certerror-mitm-what-can-you-do-about-it-corporate = Falls Sie ein Firmennetzwerk verwenden, kontaktieren Sie bitte Ihre IT-Abteilung.
