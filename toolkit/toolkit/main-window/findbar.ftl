@@ -26,6 +26,8 @@ findbar-fast-find-links =
     .placeholder = പെട്ടെന്നുള്ള തെരച്ചില്‍ (ലിങ്കുകള്‍ മാത്രം):
 findbar-case-sensitive-status =
     .value = (കേസ് സെന്‍സിറ്റീവ്)
+findbar-entire-word-status =
+    .value = (മുഴുവൻ വാക്കുകൾ മാത്രം)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
