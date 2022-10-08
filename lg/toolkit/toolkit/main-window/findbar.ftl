@@ -9,4 +9,6 @@ findbar-next =
     .tooltiptext = Zuula ekidako mukweddamu mumiteddera
 findbar-previous =
     .tooltiptext = Zuula awayise mukweddamu mumiteddera
-
+findbar-wrapped-to-top = Enkomerero yomuko etukidwako, byongedwako okuva wagulu
+findbar-case-sensitive-status =
+    .value = (Kikosebwa ennukuta enene oba entono)
