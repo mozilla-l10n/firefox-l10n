@@ -6,9 +6,17 @@ pictureinpicture-pause =
     .aria-label = Паузирај
 pictureinpicture-play =
     .aria-label = Пушти
+
 pictureinpicture-mute =
     .aria-label = Занеми
 pictureinpicture-unmute =
     .aria-label = Пушти звук
+
 pictureinpicture-close =
     .aria-label = Затвори
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

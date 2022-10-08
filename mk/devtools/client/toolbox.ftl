@@ -16,3 +16,5 @@ toolbox-meatball-menu-documentation-label = Документација...
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

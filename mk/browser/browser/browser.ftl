@@ -232,6 +232,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = Историја ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Додадете обележувач
@@ -851,3 +855,6 @@ data-reporting-notification-message = За да го подобриме ваше
 data-reporting-notification-button =
     .label = Што споделувам?
     .accesskey = с
+
+## Unified extensions (toolbar) button
+

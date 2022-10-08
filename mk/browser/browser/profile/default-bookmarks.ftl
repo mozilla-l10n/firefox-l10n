@@ -9,17 +9,24 @@
 
 default-bookmarks-title = Обележувачи
 default-bookmarks-heading = Обележувачи
+
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Да почнеме!
+
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
+
 # link title for https://www.mozilla.org/firefox/help/
 default-bookmarks-firefox-get-help = Побарајте помош
+
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = Прилагоди го Firefox
+
 # link title for https://www.mozilla.org/contribute/
 default-bookmarks-firefox-community = Вклучете се
+
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = За нас
+
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = Planet Mozilla

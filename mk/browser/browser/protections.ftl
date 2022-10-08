@@ -5,17 +5,25 @@
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Денес
+
 protections-close-button2 =
     .aria-label = Затвори
     .title = Затвори
+
 protection-report-passwords-save-passwords-button = Зачувај лозинки
     .title = Зачувај лозинки
+
+
 lockwise-how-it-works-link = Како работи
+
 monitor-link = Како работи
+
 monitor-no-breaches-title = Добри вести!
+
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% завршено
+
 monitor-partial-breaches-motivation-title-start = Одличен почеток!
 monitor-partial-breaches-motivation-title-middle = Продолжи така!
 monitor-partial-breaches-motivation-title-end = Скоро готово! Продолжи така.

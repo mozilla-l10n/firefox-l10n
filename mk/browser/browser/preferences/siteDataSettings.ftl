@@ -8,12 +8,14 @@
 site-data-search-textbox =
     .placeholder = Пребарувај мрежни места
     .accesskey = С
+
 site-data-column-host =
     .label = Мрежно место
 site-data-column-cookies =
     .label = Колачиња
 site-data-column-storage =
     .label = Складиште
+
 site-data-remove-selected =
     .label = Отстрани избрани
     .accesskey = р

@@ -9,6 +9,7 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-window2 =
     .title = Поставки за врската
     .style =
@@ -16,8 +17,10 @@ connection-window2 =
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = Без посредник
     .accesskey = Б
@@ -27,19 +30,26 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Авто-откривање на поставки за посредник за оваа мрежа
     .accesskey = о
+
 connection-proxy-http-port = Порта
     .accesskey = П
+
 connection-proxy-ssl-port = Порта
     .accesskey = о
+
 connection-proxy-socks-port = Порта
     .accesskey = т
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Пример: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Превчитај
     .accesskey = е
+
