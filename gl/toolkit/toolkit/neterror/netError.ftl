@@ -15,6 +15,7 @@ neterror-malformed-uri-page-title = URL non válido
 
 ## Error page actions
 
+neterror-advanced-button = Avanzadas…
 neterror-copy-to-clipboard-button = Copiar texto ao portapapeis
 neterror-learn-more-link = Obter máis información…
 neterror-open-portal-login-page-button = Abrir a páxina de inicio de sesión na rede
@@ -66,6 +67,10 @@ certerror-sts-intro = { -brand-short-name } detectou unha posible ameaza de segu
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } detectou unha incidencia e non continuou coa conexión a  <b>{ $hostname }</b>. Ou ben o sitio web está mal configurado ou o reloxo do seu computador non ten a hora correcta.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> é probabelmente un sitio seguro, pero non foi posíbel establecer unha conexión segura. Este problema é causado por <b>{ $mitm }</b>, que é ou sexa software no seu computador ou na súa rede.
 neterror-corrupted-content-intro = Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro na transmisión de datos.
 neterror-corrupted-content-contact-website = Contacte cos propietarios do sitio web para informalos deste problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -92,6 +97,14 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Se está nunha
 certerror-expired-cert-what-can-you-do-about-it-clock = Segundo o reloxo do seu computador, a data e hora actual son: { DATETIME($now, dateStyle: "medium") }. Na configuración do seu sistema, asegúrese de que a data e hora actual é correcta, e que está no fuso horario apropiado, logo actualice <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Se o seu equipo está configurado correctamente, entón o máis probable é que o sitio web está mal configurado e non hai nada que poida facer para resolver a incidencia. Pode avisar ao administrador do sitio web sobre o problema.
 certerror-bad-cert-domain-what-can-you-do-about-it = Probablemente a incidencia está no sitio web, e non hai nada que poida facer para resolvela. Pode avisar ao administrador do sitio web sobre o problema.
+certerror-mitm-what-can-you-do-about-it-antivirus = Se o seu software antivirus inclúe unha función que escanee conexións cifradas (a miúdo chamadas «analizar a web» ou «escanear https»), pode deshabilitar esta función. Se iso non funciona, pode eliminar e reinstalar o software antivirus.
+certerror-mitm-what-can-you-do-about-it-corporate = Se está nunha rede corporativa, pode poñerse en contacto co seu departamento de informática.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Se non está familiarizado con <b>{ $mitm }</b>, entón isto podería ser un ataque e non debe continuar ata o sitio.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Se non está familiarizado con <b>{ $mitm }</b>, entón isto podería ser un ataque e non hai nada que poida facer para acceder ao sitio.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ten unha política de seguranza chamada «HTTP Strict Transport Security» (Seguranza de transporte estrita HTTP, ou HSTS), que significa que { -brand-short-name } só pode conectarse con el de forma segura. Non é posíbel engadir unha excepción para visitar este sitio.
