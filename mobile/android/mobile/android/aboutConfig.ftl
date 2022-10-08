@@ -18,3 +18,7 @@ config-new-pref-create-button = Tạo
 config-new-pref-change-button = Thay đổi
 config-pref-toggle-button = Bật/Tắt
 config-pref-reset-button = Mặc định
+config-context-menu-copy-pref-name =
+    .label = Sao chép tên
+config-context-menu-copy-pref-value =
+    .label = Sao chép giá trị
