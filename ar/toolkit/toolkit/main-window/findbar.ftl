@@ -32,5 +32,7 @@ findbar-entire-word =
     .accesskey = ك
     .tooltiptext = ابحث عن الكلمات الكاملة فقط
 findbar-not-found = لا وجود للعبارة
+findbar-wrapped-to-top = تابعت من الأعلى بعدما وصلت إلى نهاية الصفحة
+findbar-wrapped-to-bottom = تابعت من الأسفل بعدما وصلت إلى بداية الصفحة
 findbar-case-sensitive-status =
     .value = (حساس لحالة الأحرف)
