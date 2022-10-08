@@ -4,9 +4,11 @@
 
 notification-learnmore-default-label =
     .value = Mësoni më tepër
+
 # This label is read by screen readers when focusing the close button for an
 # "infobar" (message shown when for example a popup is blocked).
 close-button-label =
     .aria-label = Mbylle
+
 close-notification-message =
     .tooltiptext = Mbylleni këtë mesazh

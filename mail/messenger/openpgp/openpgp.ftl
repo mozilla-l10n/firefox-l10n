@@ -239,16 +239,12 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = H
 
-openpgp-key-details-title =
-    .title = Veti Kyçi
-
 openpgp-key-details-signatures-tab =
     .label = Dëshmi
 openpgp-key-details-structure-tab =
     .label = Strukturë
 openpgp-key-details-uid-certified-col =
     .label = ID Përdoruesi / Certifikuar nga
-openpgp-key-details-user-id2-label = Pronar i Hamendshëm i Kyçit
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Lloj
@@ -545,9 +541,6 @@ key-error-not-accepted-as-personal = S’keni ripohuar se kyçi me ID-në '{ $ke
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Funksioni që keni përzgjedhur s’mund të përdoret nën mënyrën jo i lidhur. Ju lutemi, lidhuni në internet dhe riprovoni.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = S’gjetëm dot ndonjë kyç me përputhje me kriterin e dhënë të kërkimit.
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Gabim - urdhri për përftim kyçi dështoi

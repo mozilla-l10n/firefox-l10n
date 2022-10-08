@@ -146,9 +146,6 @@ message-header-msg-flagged =
     .title = Me yllkë
     .aria-label = Me yllkë
 
-message-header-msg-not-flagged =
-    .title = Mesazh pa yllkë
-
 ## Message header cutomize panel
 
 ## Action Button Context Menu
@@ -161,12 +158,6 @@ toolbar-context-menu-remove-extension =
     .accesskey = H
 
 ## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Adresa gjendet në Librin e Adresave
-
-message-header-address-not-in-address-book-icon =
-    .alt = Adresa s’gjendet në Librin e Adresave
 
 ## Add-on removal warning
 
@@ -239,37 +230,10 @@ spaces-context-new-window-item =
 spaces-context-switch-tab-item =
     .label = Kalo te { $tabName }
 
-settings-context-open-settings-item =
-    .label = Hap Rregullimet
-
-settings-context-open-account-settings-item =
-    .label = Hap Rregullime Llogarie
-
-settings-context-open-addons-item =
-    .label = Hap Shtesa dhe Tema
-
 ## Spaces toolbar pinned tab menupopup
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Menu Hapësirash
-
-spaces-pinned-button-menuitem-mail =
-    .label = { spaces-toolbar-button-mail2.title }
-
-spaces-pinned-button-menuitem-address-book =
-    .label = { spaces-toolbar-button-address-book2.title }
-
-spaces-pinned-button-menuitem-calendar =
-    .label = { spaces-toolbar-button-calendar2.title }
-
-spaces-pinned-button-menuitem-tasks =
-    .label = { spaces-toolbar-button-tasks2.title }
-
-spaces-pinned-button-menuitem-chat =
-    .label = { spaces-toolbar-button-chat2.title }
-
-spaces-pinned-button-menuitem-settings =
-    .label = { spaces-toolbar-button-settings2.title }
 
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }

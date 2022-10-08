@@ -56,9 +56,6 @@ about-addressbook-search =
 about-addressbook-search-all =
     .placeholder = Kërko në krejt librat e adresave
 
-about-addressbook-sort-button =
-    .title = Ndryshoni renditjen e listës
-
 about-addressbook-name-format-display =
     .label = Emër i Shfaqur
 about-addressbook-name-format-firstlast =
@@ -74,6 +71,9 @@ about-addressbook-sort-email-ascending =
     .label = Renditi sipas adresash email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Renditi sipas adresash email (Z > A)
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
 
 about-addressbook-cards-context-write =
     .label = Shkruani
@@ -129,6 +129,9 @@ about-addressbook-confirm-delete-contacts =
        *[other] Jeni i sigurt se doni të fshihen këto { $count } kontakte?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
 ## Details
 
 about-addressbook-begin-edit-contact-button = Përpunoni
@@ -137,8 +140,6 @@ about-addressbook-save-edit-contact-button = Ruaje
 
 about-addressbook-details-email-addresses-header = Adresa Email
 about-addressbook-details-phone-numbers-header = Numra Telefonash
-about-addressbook-details-home-address-header = Adresë Shtëpie
-about-addressbook-details-work-address-header = Adresë Pune
 about-addressbook-details-other-info-header = Hollësi të Tjera
 
 about-addressbook-unsaved-changes-prompt-title = Ndryshime të Paruajtura
@@ -154,3 +155,6 @@ about-addressbook-photo-filepicker-title = Përzgjidhni kartelë figure
 about-addressbook-photo-discard = Hidh tej foton ekzistuese
 about-addressbook-photo-cancel = Anuloje
 about-addressbook-photo-save = Ruaje
+
+# Keyboard shortcuts
+

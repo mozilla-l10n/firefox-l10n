@@ -339,7 +339,6 @@ fission-status-experiment-control = Çaktivizuar nga eksperiment
 fission-status-experiment-treatment = Aktivizuar nga eksperiment
 fission-status-disabled-by-e10s-env = Çaktivizuar nga mjedisi
 fission-status-enabled-by-env = Aktivizuar nga mjedisi
-fission-status-disabled-by-safe-mode = Çaktivizuar nga mënyra e parrezik
 fission-status-enabled-by-default = Aktivizuar si parazgjedhje
 fission-status-disabled-by-default = Çaktivizuar si parazgjedhje
 fission-status-enabled-by-user-pref = Aktivizuar nga përdoruesi

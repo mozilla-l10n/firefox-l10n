@@ -8,17 +8,9 @@ import-page-title = Importim
 
 import-from-app = Importo prej Aplikacioni
 
-import-from-app-desc = Zgjidhni të importohet nga Llogari, Libra Adresash dhe të dhëna të tjera nga:
-
-import-address-book = Importo Kartelë Libri Adresash
-
-import-calendar = Importo Kartelë Kalendari
-
 export-profile = Eksportim
 
 ## Buttons
-
-button-cancel = Anuloje
 
 button-back = Mbrapsht
 
@@ -40,19 +32,7 @@ app-name-apple-mail = Apple Mail
 
 ## Import from file selections
 
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Importo nga { $app }
-
-profiles-pane-desc = Zgjidhni vendndodhjen prej nga të importohet
-
-profile-file-picker-dir = Përzgjidhni një dosje profili
-
-profile-file-picker-zip = Përzgjidhni një kartelë zip (më të vogël se 2GB)
-
-items-pane-title = Përzgjidhni ç’të importohet
-
-items-pane-source = Vend burim:
+## Import from app profile steps
 
 items-pane-checkbox-accounts = Llogari dhe Rregullime
 
@@ -63,8 +43,6 @@ items-pane-checkbox-calendars = Kalendarë
 items-pane-checkbox-mail-messages = Mesazhe Poste
 
 ## Import from address book file steps
-
-import-from-addr-book-file-desc = Përzgjidhni llojin e kartelës që doni të importohet:
 
 addr-book-csv-file = Kartelë e ndarë me presje, ose me simbol tabulacioni (.csv, .tsv)
 
@@ -82,13 +60,11 @@ addr-book-csv-field-map-title = Përputh emra fushash
 
 addr-book-csv-field-map-desc = Përzgjidhni fusha libri adresash që u përgjigjen fushave të burimit. Hiquni shenjën fushave që nuk doni të importohen.
 
-addr-book-directories-pane-title = Përzgjidhni drejtorinë te e cila doni të bëhet importimi:
-
 addr-book-directories-pane-source = Kartelë burim:
 
-addr-book-import-into-new-directory = Krijoni një drejtori të re
-
 ## Import from address book file steps
+
+## Import from calendar file steps
 
 import-from-calendar-file-desc = Përzgjidhni kartelën iCalendar (.ics) që doni të importohet.
 
@@ -101,23 +77,9 @@ calendar-select-all-items = Përzgjidhi krejt
 
 calendar-deselect-all-items = Shpërzgjidhi krejt
 
-calendar-import-into-new-calendar = Krijoni kalendar të ri
-
 ## Import dialog
 
-progress-pane-importing = Importim
-
-progress-pane-exporting = Eksportim
-
-progress-pane-finished-desc = Përfundoi.
-
-progress-pane-restart-desc = Riniseni, që të përfundohet importimi.
-
 error-pane-title = Gabim
-
-error-message-zip-file-too-big = Kartela zip e përzgjedhur është më e madhe se 2GB. Ju lutemi, së pari çngjesheni, mandej bëni importim prej dosjes së përftuar.
-
-error-message-extract-zip-file-failed = S’u arrit të përftohet kartela zip. Ju lutemi, përftojeni dorazi, mandej importojeni që nga dosja e përftuar.
 
 error-message-failed = Importimi dështoi papritmas, më tepër hollësi mund të ketë te Konsola e Gabimeve.
 
@@ -139,12 +101,13 @@ csv-target-field = Fushë libri adresash
 
 ## Export tab
 
-export-profile-desc = Eksportoni te një kartelë zip llogari poste, mesazhe poste, libra adresash, rregullime. Kur duhet, mund të importoni kartelën që të riktheni profilin tuaj.
-
-export-profile-desc2 = Nëse profili juaj i tanishëm është më i madh se 2GB, këshillojmë ta kopjeruani vetë.
-
 export-open-profile-folder = Hapni dosje profili
 
-export-file-picker = Eksportojeni në një kartelë zip
-
 export-brand-name = { -brand-product-name }
+
+## Summary pane
+
+## Footer area
+
+## Step navigation on top of the wizard pages
+

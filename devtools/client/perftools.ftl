@@ -98,9 +98,6 @@ perftools-tools-threads-input-label =
 
 perftools-onboarding-message = <b>E re</b>: { -profiler-brand-name } tani është i integruar me Mjete Zhvilluesi. <a>Mësoni më tepër</a> rreth këtij mjeti të fuqishëm.
 
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Për një kohë të kufizuar, mund të përdorni panelin origjinal Funksionim përmes <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Mbylle mesazhin e mirëseardhjes
 
