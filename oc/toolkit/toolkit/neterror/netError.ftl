@@ -5,10 +5,12 @@
 
 ## Error page titles
 
+neterror-captive-portal-page-title = Se connectar al ret
 
 ## Error page actions
 
 neterror-learn-more-link = Ne saber mai…
+neterror-open-portal-login-page-button = Dobrir la pagina de connexion al ret
 neterror-return-to-previous-page-button = Tornar en arrièr
 
 ##
