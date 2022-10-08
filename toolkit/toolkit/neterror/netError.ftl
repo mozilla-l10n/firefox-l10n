@@ -9,6 +9,7 @@ neterror-page-title = Problemă la încărcarea paginii
 certerror-page-title = Avertisment: Urmează un posibil risc de securitate
 certerror-sts-page-title = Nu s-a realizat conectarea: Posibilă problemă de securitate
 neterror-blocked-by-policy-page-title = Pagină blocată
+neterror-captive-portal-page-title = Autentifică-te în rețea
 neterror-dns-not-found-title = Server negăsit
 neterror-malformed-uri-page-title = URL nevalid
 
