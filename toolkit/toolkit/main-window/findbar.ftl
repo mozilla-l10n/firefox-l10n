@@ -40,6 +40,10 @@ findbar-fast-find =
     .placeholder = ਤੁਰੰਤ ਲੱਭੋ
 findbar-fast-find-links =
     .placeholder = ਤੁਰੰਤ ਲੱਭੋ (ਕੇਵਲ ਲਿੰਕ)
+findbar-case-sensitive-status =
+    .value = (ਅੱਖਰ ਆਕਾਰ ਲਈ ਸੰਵੇਦਨਸ਼ੀਲ)
+findbar-entire-word-status =
+    .value = (ਕੇਵਲ  ਪੂਰੇ ਸ਼ਬਦ)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -48,4 +52,12 @@ findbar-found-matches =
         { $total ->
             [one] { $total } ਮੇਲ ਵਿੱਚ { $current } ਮੇਲ
            *[other] { $total } ਮੇਲਾਂ ਵਿੱਚੋਂ { $current }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } ਤੋਂ ਵੱਧ ਮੇਲ
+           *[other] { " " }{ $limit } ਤੋਂ ਵੱਧ ਮੇਲ
         }
