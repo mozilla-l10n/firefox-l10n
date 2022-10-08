@@ -42,3 +42,22 @@ findbar-fast-find-links =
     .placeholder = Արագ որոնում (միայն հղումները)
 findbar-case-sensitive-status =
     .value = (Հաշվի առնելով ռեգիստրը)
+findbar-entire-word-status =
+    .value = (Միայն լրիվ բառերը)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $total } համընկնումից { $current }-ը
+           *[other] { $total } համընկնումներից { $current }-ը
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Ավելի քան { $limit } համընկնում
+           *[other] Ավելի քան { $limit } համընկնումներ
+        }
