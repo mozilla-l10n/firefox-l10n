@@ -38,3 +38,12 @@ findbar-fast-find-links =
     .placeholder = ઝડપી શોધ (માત્ર કડીઓ)
 findbar-case-sensitive-status =
     .value = (કેસ પ્રત્યે સંવેદનશીલ)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $total } બંધબેસતુનું { $current }{ "  " }
+           *[other] { $total } બંધબેસતુનું { $current }
+        }
