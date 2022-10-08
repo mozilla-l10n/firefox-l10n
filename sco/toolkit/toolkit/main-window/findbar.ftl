@@ -31,5 +31,35 @@ findbar-entire-word =
     .label = Hale Words
     .accesskey = W
     .tooltiptext = Airt oot hale wirds anely
+findbar-not-found = Phrase no fund
+findbar-wrapped-to-top = Raxed end o page, went on fae the tap
+findbar-wrapped-to-bottom = Raxed tap o page, went on fae the dowp end
 findbar-normal-find =
     .placeholder = Airt-oot in page
+findbar-fast-find =
+    .placeholder = Quick airt-oot
+findbar-fast-find-links =
+    .placeholder = Quick airt-oot (links anely)
+findbar-case-sensitive-status =
+    .value = (Case sensitive)
+findbar-match-diacritics-status =
+    .value = (Matchin diacritics)
+findbar-entire-word-status =
+    .value = (Hale wirds anely)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } o { $total } match
+           *[other] { $current } o { $total } matches
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Mair than { $limit } match
+           *[other] Mair than { $limit } matches
+        }
