@@ -33,3 +33,20 @@ findbar-entire-word =
     .tooltiptext = Só procurar palavras inteiras
 findbar-wrapped-to-top = Atingido o fim da página, continuando do início
 findbar-wrapped-to-bottom = Atingido o início da página, continuando do fim
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Ocorrência { $current } de { $total }
+           *[other] Ocorrência { $current } de { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Mais de { $limit } ocorrência
+           *[other] Mais de { $limit } ocorrências
+        }
