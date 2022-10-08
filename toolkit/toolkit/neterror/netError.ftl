@@ -9,6 +9,8 @@ neterror-page-title = Problema cargando la página
 certerror-sts-page-title = No se conectó: Posible problema de seguridad
 neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Ingresar a una red
+neterror-dns-not-found-title = Servidor no encontrado
+neterror-malformed-uri-page-title = URL inválida
 
 ## Error page actions
 
