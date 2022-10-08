@@ -34,5 +34,34 @@ findbar-entire-word =
 findbar-not-found = Abairtín gan aimsiú
 findbar-wrapped-to-top = Ag bun an leathanaigh, ag leanúint ón mbarr
 findbar-wrapped-to-bottom = Ag barr an leathanaigh, ag leanúint ón mbun
+findbar-normal-find =
+    .placeholder = Aimsigh sa leathanach
+findbar-fast-find =
+    .placeholder = Mearchuardach
+findbar-fast-find-links =
+    .placeholder = Mearchuardach (nascanna amháin)
 findbar-case-sensitive-status =
     .value = (Cásíogair)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } as { $total } rud aimsithe
+            [two] { $current } as { $total } rud aimsithe
+            [few] { $current } as { $total } rud aimsithe
+            [many] { $current } as { $total } rud aimsithe
+           *[other] { $current } as { $total } rud aimsithe
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Níos mó ná { $limit } rud aimsithe
+            [two] Níos mó ná { $limit } rud aimsithe
+            [few] Níos mó ná { $limit } rud aimsithe
+            [many] Níos mó ná { $limit } rud aimsithe
+           *[other] Níos mó ná { $limit } rud aimsithe
+        }
