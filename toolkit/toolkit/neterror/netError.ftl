@@ -38,8 +38,13 @@ neterror-load-error-try-again = ไซต์อาจไม่พร้อมใ
 neterror-load-error-connection = หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อเครือข่ายของคอมพิวเตอร์ของคุณ
 neterror-load-error-firewall = หากคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องด้วยไฟร์วอลล์หรือพร็อกซี ตรวจสอบให้แน่ใจว่า { -brand-short-name } ได้รับอนุญาตให้เข้าถึงเว็บ
 neterror-captive-portal = คุณต้องเข้าสู่ระบบเครือข่ายนี้ก่อนที่คุณจะสามารถเข้าถึงอินเทอร์เน็ต
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = คุณต้องการไปที่ <a data-l10n-name="website">{ $hostAndPath }</a> ใช่หรือไม่?
+neterror-dns-not-found-hint-header = <strong>หากคุณป้อนที่อยู่ถูกต้องแล้ว คุณสามารถ:</strong>
 neterror-dns-not-found-hint-try-again = ลองอีกครั้งในภายหลัง
 neterror-dns-not-found-hint-check-network = ตรวจสอบการเชื่อมต่อเครือข่ายของคุณ
+neterror-dns-not-found-hint-firewall = ตรวจสอบว่า { -brand-short-name } ได้รับอนุญาตให้เข้าถึงเว็บ (คุณอาจเชื่อมต่ออยู่แต่ไม่ผ่านไฟร์วอลล์)
 neterror-file-not-found-filename = ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ
 neterror-file-not-found-moved = ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ
 neterror-access-denied = ไฟล์อาจถูกเอาออก ย้าย หรือสิทธิอนุญาตของไฟล์อาจป้องกันการเข้าถึง
