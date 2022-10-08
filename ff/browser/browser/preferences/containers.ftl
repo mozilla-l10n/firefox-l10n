@@ -5,11 +5,14 @@
 containers-window-new =
     .title = Ɓeydu Mooftiree Hesere
     .style = width: 45em
+
 containers-window-new2 =
     .title = Ɓeydu Mooftiree Hesere
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -20,20 +23,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Innde
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Winndu innde mooftirde
+
 containers-icon-label = Ikon
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Noordi
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Gasii
     .buttonaccesskeyaccept = G
+
 containers-color-blue =
     .label = Bulaajo
 containers-color-turquoise =
@@ -50,6 +59,7 @@ containers-color-pink =
     .label = Rooso
 containers-color-purple =
     .label = Boruujo
+
 containers-icon-fingerprint =
     .label = Temmbelol
 containers-icon-briefcase =

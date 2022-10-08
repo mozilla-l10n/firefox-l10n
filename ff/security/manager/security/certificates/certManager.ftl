@@ -4,94 +4,131 @@
 
 certmgr-title =
     .title = Toppitorde Seedamfaaje
+
 certmgr-tab-mine =
     .label = Seedamfaaje Maa
+
 certmgr-tab-people =
     .label = Yimɓe
+
 certmgr-tab-servers =
     .label = Carworɗe
+
 certmgr-tab-ca =
     .label = Hohowɓe
+
 certmgr-mine = Aɗa jogii seedamfaaji ɗee pelle kebtinooji ma
 certmgr-people = Aɗa jogii seedamfaaji e fiilde kebtinooji ɓee yimɓe
 certmgr-ca = Aɗa jogii seedamfaaji e fiilde kebtinooji ɗee pelle kalfinaaɗe seedamfaaji
+
 certmgr-edit-ca-cert =
     .title = Taƴto teelte koolnol seedamfaagu CA
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = Taƴto teelte koolnol seedamfaagu CA
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = Taƴto teelte koolnol:
+
 certmgr-edit-cert-trust-ssl =
     .label = Seedamfaagu nguu ena waawi heftinde lowe.
+
 certmgr-edit-cert-trust-email =
     .label = Seedamfaagu nguu ena waawi heftinde joom iimeel en.
+
 certmgr-delete-cert =
     .title = Momtu Seedamfaagu
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Momtu Seedamfaagu
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-name =
     .label = Innde Seedamfaagu
+
 certmgr-cert-server =
     .label = Sarworde
+
 certmgr-override-lifetime =
     .label = Nguurndam
+
 certmgr-token-name =
     .label = Kaɓirgol Kisal
+
 certmgr-begins-label =
     .label = Fuɗɗotoo ko Ñalnde
+
 certmgr-expires-label =
     .label = Gasata ko ñalnde
+
 certmgr-email =
     .label = Ñiiɓirde Iimeel
+
 certmgr-serial =
     .label = Tonngoode Dewindol
+
 certmgr-view =
     .label = Hollu…
     .accesskey = H
+
 certmgr-edit =
     .label = Taƴto Koolnol…
     .accesskey = T
+
 certmgr-export =
     .label = Jiggito…
     .accesskey = i
+
 certmgr-delete =
     .label = Momtu…
     .accesskey = M
+
 certmgr-delete-builtin =
     .label = Momtu walla Hoolkiso…
     .accesskey = M
+
 certmgr-backup =
     .label = Dannditol…
     .accesskey = D
+
 certmgr-backup-all =
     .label = Danndit Fof…
     .accesskey = d
+
 certmgr-restore =
     .label = Jiggo…
     .accesskey = g
+
 certmgr-add-exception =
     .label = Ɓeydu Faltoore…
     .accesskey = a
+
 exception-mgr =
     .title = Ɓeydu Faltoore Kisal
+
 exception-mgr-extra-button =
     .label = Teeŋtin Faltoore Kisal
     .accesskey = T
+
 exception-mgr-supplemental-warning = Baŋke dewɗe laawol, bitikaaji e lowe peñcu goɗɗe naamnotaako-ma yo a waɗ ɗum.
+
 exception-mgr-cert-location-url =
     .value = Nokkuure:
+
 exception-mgr-cert-location-download =
     .label = Heɓ Seedamfaagu
     .accesskey = H
+
 exception-mgr-cert-status-view-cert =
     .label = Hollu…
     .accesskey = H
+
 exception-mgr-permanent =
     .label = Mooftu ndee faltoore haa badaa
     .accesskey = M
+
 pk11-bad-password = Finnde naatnaande ndee moƴƴaani.
 pkcs12-decode-err = Horiima dokkitaade fiilde ndee.   Maa wonii wonaa mbaydi PKCS #12, walla ko jiiɓnde, walla finnde naatnu-ɗaa moƴƴaani.
 pkcs12-unknown-err-restore = Horiima artirde fiilde PKCS #12 ndee sabu daliilu mo anndaaka.
@@ -124,14 +161,19 @@ delete-user-cert-title =
     .title = Momtu Seedamfaaje maa
 delete-user-cert-confirm = Aɗa yenanaa yiɗde momtude ɗee seedamfaaje?
 delete-user-cert-impact = So a momtii ngootu e seedamfaaje maa keeriiɗe, a waawataa haŋkadi huutoraade ngu ngam innitaade.
+
+
 delete-ca-cert-title =
     .title = Momtu walla Hoolkiso Seedamfaaje CA
 delete-ca-cert-confirm = A naamniima yoo ɗee seedamfaaje CA momte. Koolaaje seedamfaaje asliije fof maa momte, ɗum ena wufta e pilte nannduɗe heen. Aɗa yenanaa yiɗde momtude walla hoolkisaade?
 delete-ca-cert-impact = So a momtii walla a hoolkisiima seedamfaagu kohowo seedamfaagu (CA), ngal jaaɓnirgal wontaa hoolo hay seedamfaagu ummiingu e oon kohowo.
+
+
 delete-email-cert-title =
     .title = Momtu Seedamfaaje Iimeel
 delete-email-cert-confirm = Aɗa yenanaa yiɗde momtude seedamfaaje iimeel ɓee-ɗoo yimɓe?
 delete-email-cert-impact = So a momtii seedamfaagu iimel neɗɗo, a waawataa haŋkadi neldude iimeel gannaaɗo fayde e oon neɗɗo.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:

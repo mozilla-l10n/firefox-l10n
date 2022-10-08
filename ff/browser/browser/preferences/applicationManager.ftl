@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Sifaaji kuutorgal
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Sifaaji kuutorgal
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Ittu
     .accesskey = I
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Ɗee kuutorɗe garooje ina mbaawi huutoreede ngam tammbaade Jokkorɗe { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Ɗee kuutorɗe garooje ina mbaawi huutoreede ngam tammbaade { $type } loowdi ndi.

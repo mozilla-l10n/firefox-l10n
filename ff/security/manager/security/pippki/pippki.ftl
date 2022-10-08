@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Aawto Seedamfaagu
     .style = width: 46em
+
 download-cert-window2 =
     .title = Aawto Seedamfaagu
     .style = min-width: 46em

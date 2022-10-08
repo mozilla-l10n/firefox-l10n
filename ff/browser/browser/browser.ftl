@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Peeragol Suturo)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Peeragol Suturo)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Peeragol Suturo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Peeragol Suturo)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -135,10 +137,12 @@ urlbar-midi-blocked =
     .tooltiptext = A daaƴii keɓgol MIDI wonande ndee lowre geese.
 urlbar-install-blocked =
     .tooltiptext = A daaƴii aafgol ɓeyditte e ndee lowre geese.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Taƴto ngol maantorol ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -165,8 +169,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ngol laawol, yiylo e:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Waylu teelte njiilaw
+
 search-one-offs-context-open-new-tab =
     .label = Yiylo e Tabbere Hesere
     .accesskey = T
@@ -176,6 +182,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Waɗtu Yiylorɗe Woowaanɗe ngam Windows Keeriiɗo
     .accesskey = P
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -188,6 +195,10 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
 
 ## Bookmark Panel
 
@@ -206,6 +217,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Hollu taƴtorde kisnugol
     .accesskey = 5
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -225,6 +237,7 @@ identity-passive-loaded = Geɗe ɗe kisaani nana e ngoo hello (wano nate).
 identity-active-loaded = A dartinii ndeenka e ngoo hello.
 identity-weak-encryption = Ngoo hello huutortoo ko gannugol jaafngol.
 identity-insecure-login-forms = Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.
+
 identity-permissions-reload-hint = Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.
 identity-clear-site-data =
     .label = Mumtu kuukiije e keɓe lowre ndee…
@@ -293,17 +306,21 @@ enable-devtools-popup-description = Ngam huutoraade sodorde F12, uddit tawo DevT
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Yiylo walla naatnu ñiiɓirde
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Yiiloro { $name } walla naatnu ñiiɓirde
+
 urlbar-permissions-granted =
     .tooltiptext = A hokkii ndee lowre jamirooje goɗɗe.
 urlbar-switch-to-tab =
     .value = Yah to tabbere:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Timmitere:
+
 urlbar-go-button =
     .tooltiptext = Yah to ñiiɓirde wonde e Palal Nokkuuje
 urlbar-page-action-button =
@@ -335,9 +352,12 @@ urlbar-result-action-visit = Yillo
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jooni ko e jaajeende yaynirde
 fullscreen-warning-no-domain = Ndee fiilannde jonni ko e njaajeendi yaynirde
+
+
 fullscreen-exit-button = Yaltu njaajeendi yaynirde (Ech)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Yaltu njaajeendi yaynirde (Ech)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -383,12 +403,14 @@ bookmarks-tools =
     .label = Kuutorɗe Maantorgol
 bookmarks-bookmark-edit-panel =
     .label = Taƴto Ngol Maantorol
+
 bookmarks-toolbar-menu =
     .label = Palal Maantore
 bookmarks-toolbar-placeholder =
     .title = Maantorto Teme Palal Kuutorɗe
 bookmarks-toolbar-placeholder-button =
     .label = Maantorto Teme Palal Kuutorɗe
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Maantoro tabbere wonaande
@@ -412,22 +434,27 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Heertin Palal Kuutorɗe…
     .accesskey = H
+
 toolbar-button-email-link =
     .label = Neldu Jokkol e Iimeel
     .tooltiptext = Neldu jokkol ngoo hello e iimeel
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Danndu Hello
     .tooltiptext = Danndu ngoo hello ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Uddit Fiilde
     .tooltiptext = Uddit fiilde ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Tabbe synckaaɗe
     .tooltiptext = Hollu tabbe ummiiɗe e kaɓirɗi goɗɗi
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -455,6 +482,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Yamir cuppitte e { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Falo cuppitte e { $uriHost }
     .accesskey = p
@@ -476,30 +504,39 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Gaawte
+
 navbar-overflow =
     .tooltiptext = Kuutorɗe goɗɗe…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Waanjito
     .tooltiptext = Muul hello… ({ $shortcut })
+
 navbar-home =
     .label = Jaɓɓorgo
     .tooltiptext = { -brand-short-name } Jaɓɓorgo
+
 navbar-library =
     .label = Deftordu
     .tooltiptext = Yiy aslol, maantore danndaaɗe, e goɗɗe
+
 navbar-search =
     .title = Yiylo
+
 navbar-accessibility-indicator =
     .tooltiptext = Fannuuji Weeɓitaare Kurminama
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tabbe wanngorde
+
 tabs-toolbar-new-tab =
     .label = Tabbere Hesere
+
 tabs-toolbar-list-all-tabs =
     .label = Waɗ doggol tabbe kala
     .tooltiptext = Waɗ doggol tabbe kala
@@ -513,3 +550,6 @@ data-reporting-notification-message = { -brand-short-name } neldat keɓe seeɗa 
 data-reporting-notification-button =
     .label = Suɓo Ko Lollintu-mi
     .accesskey = S
+
+## Unified extensions (toolbar) button
+
