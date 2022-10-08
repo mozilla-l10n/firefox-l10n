@@ -14,13 +14,18 @@ colorway-collection-independent-voices-short-description = Kleuren dy’t kultue
 
 playmaker-colorway-name = Spulmakker
 playmaker-colorway-description = Jo meitsje kânsen om te winnen en helpe elkenien om jo hinne har spultsje te ferbetterjen.
+
 expressionist-colorway-name = Ekspresjonist
 expressionist-colorway-description = Jo sjogge de wrâld oars en jo kreaasjes reitsje de emoasjes fan oaren.
+
 visionary-colorway-name = Fisjonêr
 visionary-colorway-description = Jo twivelje oan de status-quo en stimulearje oaren om harren in bettere takomst foar te stellen.
+
 activist-colorway-name = Aktivist
 activist-colorway-description = Jo litte de wrâld moaier efter as dat jo it fûn ha en lit oaren leauwe.
+
 dreamer-colorway-name = Dreamer
 dreamer-colorway-description = Jo leauwe dat gelok de dappere favoryt is en oaren ynspirearret om dapper te wêzen.
+
 innovator-colorway-name = Ynnovator
 innovator-colorway-description = Jo sjogge oeral kânsen en hawwe ynfloed op it libben fan elkenien om jo hinne.

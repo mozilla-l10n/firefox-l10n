@@ -5,41 +5,55 @@
 permissions-reminder-window =
     .title = Utsûnderingen
     .style = width: 45em;
+
 permissions-reminder-window2 =
     .title = Utsûnderingen
+
 permission-preferences-close-window =
     .key = w
+
 website-address-label =
     .value = Adres fan de website:
     .accesskey = d
+
 block-button =
     .label = Blokkearje
     .accesskey = B
+
 allow-session-button =
     .label = Tastean foar sesje
     .accesskey = s
+
 allow-button =
     .label = Tastean
     .accesskey = T
+
 treehead-sitename-label =
     .label = Website
+
 treehead-status-label =
     .label = Steat
+
 remove-site-button =
     .label = Website fuortsmite
     .accesskey = f
+
 remove-all-site-button =
     .label = Alle websites fuortsmite
     .accesskey = A
+
 cancel-button =
     .label = Annulearje
     .accesskey = n
+
 save-button =
     .label = Wizigingen bewarje
     .accesskey = i
+
 permission-can-label = Tastean
 permission-can-access-first-party-label = Fan tredden blokkearje
 permission-can-session-label = Tastean foar sesje
 permission-cannot-label = Blokkearje
+
 invalid-uri-message = Folje in jildige kompjûternamme yn
 invalid-uri-title = Unjildige kompjûternamme

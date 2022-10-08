@@ -43,7 +43,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffergrutte:
+
 perftools-custom-threads-label = Oanpaste threads op namme tafoegje:
+
 perftools-devtools-interval-label = Ynterfal:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Ynstellingen
@@ -113,6 +115,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Boppesteande seleksje pasearje en alle registrearre threads opnimme
+
 perftools-tools-threads-input-label =
     .title = Dizze threadnammen binne in kommaskieden list, dy’t brûkt wurdt om it profilearjen fan de threads yn de profiler mooglik te meitsjen. De namme hoecht mar in part oerien te kommen mei de threadnamme om opnommen te wurden. Gefoelich foar wytromte.
 
@@ -120,6 +123,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nij</b>: { -profiler-brand-name } is no yntegrearre yn de Untwikkelershelpmiddelen. <a>Mear ynfo</a> oer dit krêftige nije helpmiddel.
+
 perftools-onboarding-close-button =
     .aria-label = It wolkomstberjocht slute
 
@@ -132,17 +136,23 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Webûntwikkeler
 perftools-presets-web-developer-description = Oanrekommandearre foarynstelling foar de measte flateropspoaring yn web-apps, mei lege overhead.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Oanrekommandearre foarynstelling foar profilearjen { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Grafysk
 perftools-presets-graphics-description = Foarynstelling foar it ûndersykjen fan grafyske bugs yn { -brand-shorter-name }.
+
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Foarynstelling foar it ûndersykjen fan audio- en fideobugs yn { -brand-shorter-name }.
+
 perftools-presets-networking-label = Netwurk
 perftools-presets-networking-description = Foarynstelling foar it ûndersykjen fan netwerkbugs yn { -brand-shorter-name }.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Fermogen
 perftools-presets-power-description = Foarynstelling foar it ûndersykjen fan stroomferbrûkbugs yn { -brand-shorter-name }, mei lege overhead.
+
 perftools-presets-custom-label = Oanpast
 
 ##

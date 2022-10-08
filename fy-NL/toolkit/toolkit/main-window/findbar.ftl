@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = De folgjende oerienkomst fan de tekst sykje
 findbar-previous =
     .tooltiptext = De foarige oerienkomst fan de tekst sykje
+
 findbar-find-button-close =
     .tooltiptext = Sykbalke slute
+
 findbar-highlight-all2 =
     .label = Alles markearje
     .accesskey =
@@ -19,33 +21,41 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Alle foarkommen fan de tekst markearje
+
 findbar-case-sensitive =
     .label = Haadlettergefoelich
     .accesskey = H
     .tooltiptext = Haadlettergefoelich sykje
+
 findbar-match-diacritics =
     .label = Diakrityske tekens brûke
     .accesskey = k
     .tooltiptext = Meitsje ûnderskied tusken letters mei aksinten en harren basistekens (sa is bygelyks by it sykjen nei ‘resume’ gjin oerienkomst mei ‘resumé’)
+
 findbar-entire-word =
     .label = Hiele wurden
     .accesskey = e
     .tooltiptext = Allinnich hiele wurden sykje
+
 findbar-not-found = Tekst net fûn
+
 findbar-wrapped-to-top = Underkant fan de side berikt, trochgien fan de boppekant ôf
 findbar-wrapped-to-bottom = Boppekant fan de side berikt, trochgien fan de ûnderkant ôf
+
 findbar-normal-find =
     .placeholder = Sykje op side
 findbar-fast-find =
     .placeholder = Fluch sykje
 findbar-fast-find-links =
     .placeholder = Fluch sykje (allinnich keppelingen):
+
 findbar-case-sensitive-status =
     .value = (Haadlettergefoelich)
 findbar-match-diacritics-status =
     .value = (Oerienkommende diakrityske tekens)
 findbar-entire-word-status =
     .value = (Allinnich hiele wurden)
+
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -55,6 +65,7 @@ findbar-found-matches =
             [one] { $current } fan { $total } oerienkomst
            *[other] { $current } fan { $total } oerienkomsten
         }
+
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
