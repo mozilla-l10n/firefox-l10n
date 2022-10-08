@@ -8,6 +8,13 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Έχετε μια μη απεσταλμένη αναφορά σφάλματος
+       *[other] Έχετε { $reportCount } μη απεσταλμένες αναφορές σφαλμάτων
+    }
 pending-crash-reports-view-all =
     .label = Προβολή
 pending-crash-reports-send =
