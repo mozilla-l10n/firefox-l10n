@@ -28,3 +28,24 @@ findbar-fast-find =
     .placeholder = Tez topish
 findbar-fast-find-links =
     .placeholder = Tez topish (faqat linklar)
+findbar-case-sensitive-status =
+    .value = (Katta-kichik harflarni farqlash)
+findbar-entire-word-status =
+    .value = (Faqat butun soʻzlar)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current }/ { $total } topildi
+           *[other] { $current }/ { $total } topildi
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } dan ko‘proq topildi
+           *[other] { $limit } dan ko‘proq topildi
+        }
