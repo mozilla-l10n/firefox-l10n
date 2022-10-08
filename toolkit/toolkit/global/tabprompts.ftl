@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Dzina ḽa Mushumisi:
 tabmodalprompt-password =
     .value = Phasiwede:
+
 tabmodalprompt-ok-button =
     .label = Zwo luga
 tabmodalprompt-cancel-button =

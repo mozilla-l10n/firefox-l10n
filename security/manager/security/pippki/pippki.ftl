@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = U Longela ṱhanziela
     .style = width: 46em
+
 download-cert-window2 =
     .title = U Longela ṱhanziela
     .style = min-width: 46em
