@@ -5,40 +5,53 @@
 permissions-window =
     .title = ವಿನಾಯಿತಿಗಳು
     .style = width: 45em
+
 permissions-window2 =
     .title = ವಿನಾಯಿತಿಗಳು
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ಜಾಲತಾಣದ ವಿಳಾಸ
     .accesskey = d
+
 permissions-block =
     .label = ನಿರ್ಬಂಧಿಸು
     .accesskey = B
+
 permissions-session =
     .label = ಅಧಿವೇಶನಕ್ಕೆ ಅನುಮತಿಸು
     .accesskey = S
+
 permissions-allow =
     .label = ಅನುಮತಿಸು
     .accesskey = A
+
 permissions-site-name =
     .label = ಜಾಲತಾಣ
+
 permissions-status =
     .label = ಸ್ಥಿತಿ
+
 permissions-remove =
     .label = ಜಾಲತಾಣವನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = R
+
 permissions-remove-all =
     .label = ಎಲ್ಲಾ ಜಾಲತಾಣಗಳನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = e
+
 permissions-searchbox =
     .placeholder = ಜಾಲತಾಣವನ್ನು ಹುಡುಕು
+
 permissions-capabilities-allow =
     .label = ಅನುಮತಿಸು
 permissions-capabilities-block =
     .label = ನಿರ್ಬಂಧಿಸು
 permissions-capabilities-prompt =
     .label = ಯಾವಾಗಲೂ ಕೇಳು
+
 permissions-capabilities-listitem-allow =
     .value = ಅನುಮತಿಸು
 permissions-capabilities-listitem-block =
@@ -69,6 +82,7 @@ permissions-exceptions-popup-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಪು
 permissions-exceptions-saved-logins-window =
     .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
     .style = { permissions-window2.style }
@@ -94,6 +108,7 @@ permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆ�
 permissions-site-camera-window =
     .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window2.style }
@@ -103,6 +118,7 @@ permissions-site-camera-window2 =
 permissions-site-microphone-window =
     .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window2.style }

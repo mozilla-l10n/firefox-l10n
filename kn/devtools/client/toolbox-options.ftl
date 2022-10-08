@@ -117,8 +117,3 @@ options-context-triggers-page-refresh = * ಪ್ರಸಕ್ತ ಅಧಿವೇ�
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Gecko ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು
-options-show-platform-data-tooltip =
-    .title = ನೀವು ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಲ್ಲಿ JavaScript ಪ್ರೊಫೈಲರ್ ವರದಿಗಳು Gecko  ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಸಂಕೇತಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ

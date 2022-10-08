@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ
     .style = width: 46em
+
 download-cert-window2 =
     .title = ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ
     .style = min-width: 46em
