@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Sparčioji paieška (tik saituose)
 findbar-case-sensitive-status =
     .value = (Skiriant didž. ir maž. raides)
+findbar-entire-word-status =
+    .value = (Tik ištisi žodžiai)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -51,4 +53,13 @@ findbar-found-matches =
             [one] { $current } iš { $total } atitikmens
             [few] { $current } iš { $total } atitikmenų
            *[other] { $current } iš { $total } atitikmenų
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Daugiau kaip { $limit } atitikmuo
+            [few] Daugiau kaip { $limit } atitikmenys
+           *[other] Daugiau kaip { $limit } atitikmenų
         }
