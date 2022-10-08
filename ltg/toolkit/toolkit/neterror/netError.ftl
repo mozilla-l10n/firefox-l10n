@@ -6,11 +6,15 @@
 ## Error page titles
 
 neterror-page-title = Problema ar lopys īluodi
+neterror-captive-portal-page-title = Log in to network
+neterror-dns-not-found-title = Serveris nav atrosts
+neterror-malformed-uri-page-title = Nadereiga adress
 
 ## Error page actions
 
 neterror-copy-to-clipboard-button = Kopēt tekstu atmiņā
 neterror-learn-more-link = Uzzynojit vairuok…
+neterror-open-portal-login-page-button = Attaiseit teikla pīsasliegšonuos lopu
 neterror-return-to-previous-page-button = Īt atpakaļ
 neterror-try-again-button = Try Again
 
@@ -25,6 +29,7 @@ neterror-generic-error = Kaida nazynuoma īmesla dieļ { -brand-short-name } nav
 neterror-load-error-try-again = Lopa var byut eislaiceigi napīejama voi puoruok aizjimta. Raugit vēļreiz piec puors mynotom.
 neterror-load-error-connection = Nui navarot attaiseit nivīnu lopu, puorbaudit sova datora teikla savīnuojumu.
 neterror-load-error-firewall = Nui jiusu datu aizsardzeibai tīk izmontuots guņsmyurs, puorsalīcinojit, ka { -brand-short-name } ir atļauts pīkliut šķārsteiklam.
+neterror-captive-portal = You must log in to this network before you can access the Internet.
 neterror-file-not-found-filename = Puorbaudit, voi faila vuords ir uzraksteits pareizi i ar pareizuo leluma burtym.
 neterror-file-not-found-moved = Puorsalīcinojit, ka fails nav puorvītuots, puorsaukts voi izdzāsts.
 neterror-access-denied = Tys varātu byut aizvuokts, puorvītuots voi ari faila pīkļuves tīseibys līdz pīkļuvi tam.
