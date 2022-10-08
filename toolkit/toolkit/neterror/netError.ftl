@@ -15,6 +15,7 @@ neterror-malformed-uri-page-title = Geçersiz URL
 
 ## Error page actions
 
+neterror-advanced-button = Gelişmiş…
 neterror-copy-to-clipboard-button = Metni panoya kopyala
 neterror-learn-more-link = Daha fazla bilgi al…
 neterror-open-portal-login-page-button = Ağa giriş sayfasını aç
