@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = Cài đặt ngăn chứa { $name }
     .style = width: 45em
+
 containers-window-new2 =
     .title = Thêm ngăn chứa mới
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Cài đặt ngăn chứa { $name }
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Tên
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Nhập tên vùng chứa
+
 containers-icon-label = Biểu tượng
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Màu
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Xong
     .buttonaccesskeyaccept = X
+
 containers-color-blue =
     .label = Xanh lam
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Tím
 containers-color-toolbar =
     .label = Thanh công cụ phù hợp
+
 containers-icon-fence =
     .label = Hàng rào
 containers-icon-fingerprint =

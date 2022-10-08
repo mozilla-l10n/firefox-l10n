@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Tìm
     .accesskey = F
+
 context-text-action-find-again =
     .label = Tìm lại
     .accesskey = g
+
 text-action-find =
     .label = Tìm
     .accesskey = F
+
 text-action-find-again =
     .label = Tìm lại
     .accesskey = g

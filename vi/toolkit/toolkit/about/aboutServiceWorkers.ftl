@@ -9,6 +9,7 @@ about-service-workers-title = Về Service Worker
 about-service-workers-main-title = Các Service Worker đã đăng ký
 about-service-workers-warning-not-enabled = Service Worker không được bật.
 about-service-workers-warning-no-service-workers = Không có Service Worker đã đăng ký.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Tên bộ đệm đang hoạt động:</strong> { $n
 waiting-cache-name = <strong>Tên bộ đệm đang chờ:</strong> { $name }
 push-end-point-waiting = <strong>Điểm cuối:</strong> { waiting }
 push-end-point-result = <strong>Điểm cuối:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Cập nhật
+
 unregister-button = Hủy đăng ký
+
 unregister-error = Không thể hủy đăng ký Service Worker này.
+
 waiting = Đang chờ…

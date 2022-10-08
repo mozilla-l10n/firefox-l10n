@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Cài đặt
     .accesskey = e
+
 menu-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
     .accesskey = A
@@ -20,39 +21,51 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Trợ giúp
     .accesskey = H
+
 menu-help-get-help =
     .label = Nhận trợ giúp
     .accesskey = H
+
 menu-help-explore-features =
     .label = Khám phá tính năng
     .accesskey = F
+
 menu-help-shortcuts =
     .label = Phím tắt bàn phím
     .accesskey = K
+
 menu-help-get-involved =
     .label = Tham gia
     .accesskey = G
+
 menu-help-donation =
     .label = Quyên góp tài chính
     .accesskey = D
+
 menu-help-share-feedback =
     .label = Chia sẻ ý tưởng và phản hồi
     .accesskey = S
+
 menu-help-enter-troubleshoot-mode =
     .label = Chế độ xử lý sự cố…
     .accesskey = T
+
 menu-help-exit-troubleshoot-mode =
     .label = Tắt chế độ xử lý sự cố
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = M
+
 menu-help-troubleshooting-info =
     .label = Thông tin xử lý sự cố
     .accesskey = I
+
 menu-help-about-product =
     .label = Về { -brand-short-name }
     .accesskey = A
+
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -65,9 +78,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Thoát { -brand-shorter-name }
+
 quit-app-shortcut =
     .key = Q
 
@@ -97,33 +112,43 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Cỡ chữ
     .accesskey = o
+
 menuitem-font-size-enlarge =
     .label = Tăng cỡ chữ
     .accesskey = I
+
 menuitem-font-size-reduce =
     .label = Giảm cỡ chữ
     .accesskey = D
+
 menuitem-font-size-reset =
     .label = Đặt lại cỡ chữ
     .accesskey = R
+
 mail-uidensity-label =
     .label = Mật độ
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Thu gọn
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Bình thường
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Chạm
     .accesskey = T
+
 mail-uidensity-default =
     .label = Mặc định
     .accesskey = D
+
 mail-uidensity-relaxed =
     .label = Thoải mái
     .accesskey = R
+
 menu-spaces-toolbar-button =
     .label = Thanh công cụ Spaces
     .accesskey = S
