@@ -55,3 +55,13 @@ findbar-found-matches =
             [few] { $current } à { $total } maidsichean
            *[other] { $current } à { $total } maids
         }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Barrachd air { $limit } mhaids
+            [two] Barrachd air { $limit } mhaids
+            [few] Barrachd air { $limit } maidsichean
+           *[other] Barrachd air { $limit } maids
+        }
