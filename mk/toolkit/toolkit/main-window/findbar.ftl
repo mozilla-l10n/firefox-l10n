@@ -14,5 +14,30 @@ findbar-find-button-close =
 findbar-not-found = Фразата не е пронајдена
 findbar-wrapped-to-top = Стигнав до крајот на страницата, продолжувам од почеток
 findbar-wrapped-to-bottom = Стигнав до почетокот на страницата, продолжувам од крајот
+findbar-normal-find =
+    .placeholder = Најди во страница
+findbar-fast-find =
+    .placeholder = Брзо наоѓање
+findbar-fast-find-links =
+    .placeholder = Брзо наоѓање (само врски)
 findbar-case-sensitive-status =
     .value = (Разлика меѓу големи и мали букви)
+findbar-entire-word-status =
+    .value = (Само цели зборови)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } од { $total } погодок
+           *[other] { $current } од { $total } погодоци
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Повеќе од { $limit } погодок
+           *[other] Повеќе од { $limit } погодоци
+        }
