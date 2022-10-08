@@ -7,6 +7,7 @@
 
 neterror-page-title = Sivun lataamisvirhe
 certerror-page-title = Varoitus: mahdollinen tietoturvariski
+certerror-sts-page-title = Ei yhdistetty: mahdollinen turvallisuusongelma
 neterror-blocked-by-policy-page-title = Estetty sivu
 neterror-captive-portal-page-title = Kirjaudu verkkoon
 neterror-dns-not-found-title = Palvelinta ei löytynyt
@@ -23,6 +24,7 @@ neterror-pref-reset-button = Palauta oletusasetukset
 neterror-return-to-previous-page-button = Palaa
 neterror-return-to-previous-page-recommended-button = Palaa (suositellaan)
 neterror-try-again-button = Yritä uudestaan
+neterror-view-certificate-link = Näytä varmenne
 
 ##
 
@@ -36,6 +38,13 @@ neterror-load-error-try-again = Sivusto voi olla väliaikaisesti saavuttamattomi
 neterror-load-error-connection = Jos mitkään sivustot eivät toimi, tarkista tietokoneen verkkoasetukset.
 neterror-load-error-firewall = Jos tietokone tai verkko on suojattu palomuurilla tai välityspalvelin on käytössä, tarkista että { -brand-short-name }in verkkoyhteyttä ei estetä.
 neterror-captive-portal = Tähän verkkoon täytyy kirjautua ennen internetin käyttämistä.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Oliko tarkoituksesi vierailla <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Jos kirjoitit osoitteen oikein, voit:</strong>
+neterror-dns-not-found-hint-try-again = Yrittää myöhemmin uudelleen
+neterror-dns-not-found-hint-check-network = Tarkistaa verkkoyhteytesi
+neterror-dns-not-found-hint-firewall = Tarkistaa, että { -brand-short-name }illa on lupa asioida verkkoon (saatat olla yhteydessä, mutta palomuurin takana)
 neterror-file-not-found-filename = Tarkista, että tiedostonimi on kirjoitettu virheettömästi ja oikealla kirjainkoolla.
 neterror-file-not-found-moved = Tarkista, ettei tiedostoa ole poistettu, siirretty tai nimetty uudelleen.
 neterror-access-denied = Tiedosto on voitu poistaa tai siirtää, tai ehkä siihen ei ole käyttöoikeutta.
@@ -58,7 +67,17 @@ neterror-nss-failure-not-verified = Avattavaa sivua ei voida näyttää, koska v
 neterror-nss-failure-contact-website = Ilmoitathan ongelmasta sivuston omistajalle.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } havaitsi mahdollisen turvallisuusuhan, eikä jatkanut sivustolle <b>{ $hostname }</b>. Jos käyt tällä sivustolla, henkilökohtaisia tietojasi kuten salasanoja, sähköpostiviestejä tai luottokorttitietoja saatetaan yrittää varastaa.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } havaitsi mahdollisen turvallisuusuhan, eikä jatkanut sivustolle <b>{ $hostname }</b>, koska tämä sivusto vaatii salatun yhteyden.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } havaitsi ongelman, eikä jatkanut sivustolle <b>{ $hostname }</b>. Sivuston asetukset on määritetty väärin tai tietokoneesi kello on asetettu väärään aikaan.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> on mitä luultavimmin turvallinen sivusto, mutta salattua yhteyttä ei voitu muodostaa. Tämän ongelman aiheuttaa <b>{ $mitm }</b>, mikä on ohjelmisto tietokoneellasi tai verkossasi.
 neterror-corrupted-content-intro = Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.
 neterror-corrupted-content-contact-website = Ilmoitathan ongelmasta sivuston omistajalle.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -86,6 +105,7 @@ certerror-expired-cert-what-can-you-do-about-it-clock = Tietokoneesi mukaan nyt 
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Jos kello on jo oikeassa ajassa,  vika on luultavasti sivustossa etkä voi korjata ongelmaa itse. Voit ilmoittaa ongelmasta sivuston ylläpitäjälle.
 certerror-bad-cert-domain-what-can-you-do-about-it = Ongelma johtuu todennäköisesti sivustosta, etkä voi korjata sitä itse. Voit ilmoittaa ongelmasta sivuston ylläpitäjälle.
 certerror-mitm-what-can-you-do-about-it-antivirus = Jos käyttämäsi virustorjuntaohjelma skannaa salattuja yhteyksiä (kutsutaan usein ”verkon skannaukseksi”, ”web-skannaukseksi” tai ”HTTPS-skannaukseksi”), voit poistaa kyseisen ominaisuuden käytöstä. Jos se ei auta, voit poistaa virustorjunnan ja asentaa sen uudestaan.
+certerror-mitm-what-can-you-do-about-it-corporate = Jos käytät työnantajasi verkkoyhteyttä, voit olla yhteydessä IT-tukeen.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack = Jos et tunne <b>{ $mitm }</b>-ohjelmaa, kyseessä voi olla huijaus eikä sivustolle tulisi jatkaa.
