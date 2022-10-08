@@ -19,3 +19,9 @@ pending-crash-reports-message =
         [many] لديك { $reportCount } بلاغ انهيار غير مرسل
        *[other] لديك { $reportCount } بلاغ انهيار غير مرسل
     }
+pending-crash-reports-view-all =
+    .label = اعرض
+pending-crash-reports-send =
+    .label = أرسل
+pending-crash-reports-always-send =
+    .label = أرسل دائمًا
