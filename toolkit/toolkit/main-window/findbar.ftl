@@ -9,4 +9,8 @@ findbar-next =
     .tooltiptext = Gushaka aho uyu murongo wongera kugaruka
 findbar-previous =
     .tooltiptext = Gushaka aho uyu murongo ugaruka mbere y'aha
-
+findbar-not-found = Umurongo ntubonetse
+findbar-wrapped-to-top = Hageze aho paji irangira, hakomejwe biturutse hejuru
+findbar-wrapped-to-bottom = Hageze aho paji itangira, hakomejwe biturutse hepfo
+findbar-case-sensitive-status =
+    .value = (Ryita ku myandikire)
