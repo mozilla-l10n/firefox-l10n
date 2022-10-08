@@ -8,7 +8,10 @@
 neterror-page-title = Okazis problemo dum ŝargado de la paĝo
 certerror-page-title = Averto: Ebla sekureca risko antaŭ vi
 certerror-sts-page-title = Malsukcesa konekto: ebla sekureca problemo
+neterror-blocked-by-policy-page-title = Blokita paĝo
 neterror-captive-portal-page-title = Komenci seancon en tiu ĉi reto
+neterror-dns-not-found-title = Servilo ne trovita
+neterror-malformed-uri-page-title = Nevalida retadreso
 
 ## Error page actions
 
