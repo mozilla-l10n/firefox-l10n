@@ -10,6 +10,8 @@ crashed-subframe-message = <strong> Այս էջի որոշ հատուած խափ
 # but without any markup.
 crashed-subframe-title =
     .title = Էջի որոշ յատուած խափանուած է։ Դիմել { -brand-product-name }֊ին խնդրի աւելի արագ բացայայտման եւ լուծման համար:
+crashed-subframe-learnmore-link =
+    .value = Իմանալ աւելին
 crashed-subframe-submit =
     .label = Ուղարկէք զեկուցում
     .accesskey = Ո
