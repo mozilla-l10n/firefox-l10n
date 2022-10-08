@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = चार्टिफिकेट डाउनल'ड खालाम गासिनो दङ
     .style = width: 46em
+
 download-cert-window2 =
     .title = चार्टिफिकेट डाउनल'ड खालाम गासिनो दङ
     .style = min-width: 46em

@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लगिन & पासवर्डखौ
+
 login-filter =
     .placeholder = ल'गइनफोर नागिर
+
 create-login-button = गोदान ल'गइन खुलि
+
 fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
 fxaccounts-avatar-button =
     .title = एकाउन्ट सामलाय
@@ -97,9 +100,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = नेवसि
 confirmation-dialog-dismiss-button =
     .title = नेवसि
+
 about-logins-confirm-remove-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 about-logins-confirm-remove-dialog-confirm-button = बोखार
+
 confirm-discard-changes-dialog-title = थिनानै देनै सोलायनाफोरखौ बोखार
 confirm-discard-changes-dialog-message = गासिबो थिनानै दोनै सोलायनायफोरा गोमागोन
 confirm-discard-changes-dialog-confirm-button = नागार
@@ -120,6 +125,7 @@ about-logins-vulnerable-alert-learn-more-link = गोबां सोलों
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = बे { $loginTitle } इउजार नेमजों सोगा्या दंखायो,  <a data-l10n-name="duplicate-link"> थाखानाय सोनायाव थां</a>
+
 # This is a generic error message.
 about-logins-error-message-default = बे फासवाद खौ लाखिनो नाजानायाव गोरोनथि जादों
 

@@ -5,15 +5,19 @@
 app-manager-window =
     .title = एप्लिकेचन्नि दिटेल्सफोर
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = एप्लिकेचन्नि दिटेल्सफोर
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = बोखार
     .accesskey = ब
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } लिंकफोर खौ हेन्दोल खालामनोब्ला गाहाइनि एप्लिखेसनफोरखौ बाहाइनो हायो ।
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } कनटेन्थ खौ हेन्दोल खालामनोब्ला गाहाइनि एप्लिखेसनफोरखौ बाहाइनो हायो ।

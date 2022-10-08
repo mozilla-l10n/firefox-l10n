@@ -90,8 +90,3 @@ options-context-triggers-page-refresh = दानि जथुम्माल', 
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Gecko प्लेटफर्म डाटाखौ दिन्थि
-options-show-platform-data-tooltip =
-    .title = नोंथाङा बे उफ्राखौ हाहोनाय खालामोब्ला जाभास्क्रिप्ट प्रफाइलार रिपर्टआगेक' प्लेटफर्म दिन्थिसिनखौ सोफादेरगोन।
