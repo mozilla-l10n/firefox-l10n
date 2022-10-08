@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Ugur deg usali n usebter
+certerror-page-title = Ɣur-k: izmer ad yili ugur n teɣlist
 certerror-sts-page-title = Ur yeqqin ara: Yezmer ad yili ugur n teɣlist
 neterror-blocked-by-policy-page-title = Asebter iwḥel
 neterror-captive-portal-page-title = Kcem ɣer uẓeṭṭa
@@ -74,8 +75,14 @@ neterror-inadequate-security-code = Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_
 neterror-clock-skew-error = Aselkim-inek iɣil d { DATETIME($now, dateStyle: "medium") }, aya isewḥel tuqqna n { -brand-short-name } s tɣellist. Akken ad terzuḍ ɣer <b>{ $hostname }</b>, leqqem asarag n uselkim-inek deg iɣewwaṛen n unagraw ɣer uzemz, akud, akked tamnaḍt takudant iwatan, sakin smiren <b>{ $hostname }</b>.
 certerror-expired-cert-second-para = Aselkin n usmel web-agi ad yili yemmut, dɣa issewḥal tuqqna taɣelsant n { -brand-short-name } Ma terziḍ ɣer usmel-agi, Imakwaren zemren ad ɛerḍen ad akren talɣut yecban awalen uffiren, imaylen, neɣ talqayt n tkerḍa n usmad.
 certerror-expired-cert-sts-second-para = Aselkin n usmel web ad yili yemmut, issewḥal tuqqna tɣelsant n { -brand-short-name }
+certerror-what-can-you-do-about-it-title = D acu i tzemreḍ ad txedmeḍ i waya?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Ugur iḍurr-d aṭas akked usmel, ulac ayen ara txedmeḍ akken ad ifru
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = ma telliḍ teqneḍ s uẓeṭṭa n tkebbanit neɣ tseqdaceḍ amgal avirus, Tzemreḍ ad tsutreḍ tallelt sɣur tarbaɛt. Tzemreḍ daɣen ad tnremseḍ anedbal n usmel ɣef ugur-agi
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Tamrilt n uselkim tettwasbadu ɣer { DATETIME($now, dateStyle: "medium") }. Senqeḍ d akken aselkim-inek ittwasbadu ɣer uzemz, akud, akked tamnaḍt takudant iwatan deg iɣewwaṛen n unagraw, sakin smiren <b>{ $hostname }</b>
+certerror-expired-cert-what-can-you-do-about-it-contact-website = ma yellan tamrilt-inek tettwasbadu yakan ɣer wakud iwatan, izmer ahat asmel web ur ittwasbadu ara, da ulac ayen ara txedmeḍ akken ad ifru wugur-agi
 certerror-bad-cert-domain-what-can-you-do-about-it = Ugur iḍurr-d aṭas akked usmel, ulac ayen ara txedmeḍ akken ad ifru. Tzemreḍ ad tnremseḍ anedbal n usmel ɣef ugur-agi.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
