@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-page-title = បញ្ហា​ក្នុង​ការ​ផ្ទុក​ទំព័រ
 neterror-captive-portal-page-title = ចូល​បណ្ដាញ
 
 ## Error page actions
