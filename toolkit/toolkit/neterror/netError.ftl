@@ -8,12 +8,14 @@
 certerror-page-title = Обережно: Попереду ймовірна загроза безпеки
 certerror-sts-page-title = З'єднання не встановлено: Ймовірна загроза безпеки
 neterror-captive-portal-page-title = Вхід в мережу
+neterror-dns-not-found-title = Сервер не знайдено
 neterror-malformed-uri-page-title = Недійсна URL-адреса
 
 ## Error page actions
 
 neterror-copy-to-clipboard-button = Копіювати текст у буфер обміну
 neterror-learn-more-link = Докладніше…
+neterror-open-portal-login-page-button = Відкрити сторінку входу в мережу
 neterror-pref-reset-button = Відновити типові налаштування
 neterror-return-to-previous-page-button = Назад
 neterror-try-again-button = Спробувати знову
@@ -26,6 +28,7 @@ neterror-error-reporting-automatic = Звітувати про подібні п
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } не може завантажити цю сторінку з невизначеної причини.
+neterror-captive-portal = Перш, ніж отримати доступ до Інтернету, ви повинні увійти в цю мережу.
 neterror-dns-not-found-hint-header = <strong>Якщо ви ввели правильну адресу, можна:</strong>
 neterror-dns-not-found-hint-try-again = Спробувати знову пізніше
 neterror-dns-not-found-hint-check-network = Перевірити мережеве з'єднання
