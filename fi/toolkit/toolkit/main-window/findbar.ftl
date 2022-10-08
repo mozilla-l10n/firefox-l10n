@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Pikahaku (vain linkit)
 findbar-case-sensitive-status =
     .value = (Kirjainkoko huomioidaan)
+findbar-entire-word-status =
+    .value = (Vain kokonaiset sanat)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
