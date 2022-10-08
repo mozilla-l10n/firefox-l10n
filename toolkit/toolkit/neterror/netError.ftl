@@ -6,20 +6,37 @@
 ## Error page titles
 
 neterror-page-title = Problém pri načítaní stránky
+certerror-page-title = Varovanie: možné bezpečnostné riziko
+certerror-sts-page-title = Nepripojené: možné bezpečnostné riziko
+neterror-blocked-by-policy-page-title = Zablokovaná stránka
+neterror-captive-portal-page-title = Prihlásiť sa do siete
+neterror-dns-not-found-title = Server sa nenašiel
 
 ## Error page actions
 
+neterror-advanced-button = Rozšírené…
+neterror-copy-to-clipboard-button = Kopírovať text do schránky
 neterror-learn-more-link = Ďalšie informácie…
+neterror-open-portal-login-page-button = Otvoriť prihlasovaciu stránku k sieti
+neterror-override-exception-button = Rozumiem riziku a chcem pokračovať
+neterror-pref-reset-button = Obnoviť predvolené nastavenia
 neterror-return-to-previous-page-button = Prejsť naspäť
+neterror-return-to-previous-page-recommended-button = Prejsť naspäť (odporúča sa)
 neterror-try-again-button = Skúsiť znova
+neterror-view-certificate-link = Zobraziť certifikát
 
 ##
 
+neterror-pref-reset = Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?
 neterror-error-reporting-automatic = Hlásiť chyby ako je táto a pomôcť tým organizácii { -vendor-short-name } identifikovať a blokovať škodlivé stránky
 
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } nedokáže z nejakého dôvodu načítať stránku.
+neterror-load-error-try-again = Stránka môže byť dočasne nedostupná alebo zaneprázdnená. Svoj pokus opakujte neskôr.
+neterror-load-error-connection = Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.
+neterror-load-error-firewall = Ak sú počítač alebo sieť chránené firewallom alebo serverom proxy, uistite sa, či má { -brand-short-name } povolený prístup k webu.
+neterror-captive-portal = Pre prístup na internet sa musíte najprv prihlásiť k tejto sieti.
 neterror-file-not-found-filename = Skontrolujte názov súboru, napríklad malé a veľké písmená alebo iné preklepy.
 neterror-file-not-found-moved = Skontrolujte, či súbor nebol premenovaný, presunutý alebo odstránený.
 neterror-unknown-protocol = Na otvorenie tejto adresy možno bude potrebné nainštalovať ďalší softvér.
@@ -39,6 +56,21 @@ neterror-content-encoding-error = Obráťte sa na vlastníkov stránky a informu
 neterror-unsafe-content-type = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
 neterror-nss-failure-not-verified = Stránku nemožno zobraziť, pretože pravosť prijímaných údajov sa nedá overiť.
 neterror-nss-failure-contact-website = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = Aplikácia { -brand-short-name } rozpoznala potenciálne bezpečnostné riziko a stránku <b>{ $hostname }</b> nenačítala. Ak sa napriek tomu rozhodnete danú stránku navštíviť, útočníci sa môžu pokúsiť odcudziť vaše informácie, ako napríklad heslá, e-mailové adresy alebo údaje o platobných kartách.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = Aplikácia { -brand-short-name } rozpoznala potenciálne bezpečnostné riziko a stránku <b>{ $hostname }</b> nenačítala, pretože táto webová stránka vyžaduje zabezpečené pripojenie.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = Aplikácia { -brand-short-name } rozpoznala problém a stránku <b>{ $hostname }</b> nenačítala. Webová stránka je buď zle nastavená alebo hodiny na vašom počítači nejdú správne.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> je pravdepodobne bezpečná stránka, ale nie je možné s ňou nadviazať zabezpečené pripojenie. Tento problém spôsobuje softvér <b>{ $mitm }</b>, ktorý je buď umiestnený vo vašom počítači alebo v sieti.
+neterror-corrupted-content-intro = Požadovanú stránku nemožno zobraziť, pretože pri prenose údajov došlo k chybe.
+neterror-corrupted-content-contact-website = Kontaktujte prosím vlastníkov webovej stránky a informujte ich o tomto probléme.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Rozšírené informácie: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -46,3 +78,31 @@ neterror-sslv3-used = Rozšírené informácie: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> využíva technológiu zabezpečenia, ktorá je zastaraná a zraniteľná voči útokom. Útočník by mohol jednoducho odhaliť informácie, o ktorých ste si mysleli, že sú v bezpečí. Správca webovej stránky ju bude musieť pred jej ďalšou návštevou opraviť.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Váš počítač si myslí, že je { DATETIME($now, dateStyle: "medium") }, čo bráni aplikácii { -brand-short-name } bezpečne sa spojiť so serverom. Ak chcete navštíviť <b>{ $hostname }</b>, upravte nastavenia dátumu a času vo vašom počítači na správne hodnoty a obnovte <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Stránka, ktorú sa pokúšate navštíviť nemôže byť zobrazená, pretože bola zistená chyba v sieťovom protokole.
+neterror-network-protocol-error-contact-website = Kontaktujte, prosím, vlastníkov stránky a informujte ich o tomto probléme.
+certerror-expired-cert-second-para = Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii { -brand-short-name } bezpečne sa pripojiť. Ak sa napriek tomu rozhodnete stránku navštíviť, útočníci sa môžu pokúsiť ukradnúť vaše informácie, ako sú heslá, e-mailové adresy alebo čísla platobných kariet.
+certerror-expired-cert-sts-second-para = Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii { -brand-short-name } bezpečne sa pripojiť.
+certerror-what-can-you-do-about-it-title = Čo s tým môžete urobiť?
+certerror-unknown-issuer-what-can-you-do-about-it-website = Tento problém je pravdepodobne na strane webovej stránky a vy ho, bohužiaľ, nedokážete vyriešiť.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ak ste pripojení do firemnej siete alebo používate antivírusový program, kontaktujte podporu svojej firmy, respektíve antivírusového programu. O probléme môžete taktiež informovať správcu webovej stránky.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Dátum a čas vo vašom počítači sú nastavené na { DATETIME($now, dateStyle: "medium") }. Skontrolujte, prosím, nastavenia dátumu, času a časovej zóny v nastaveniach svojho systému a potom obnovte stránku <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Ak máte čas nastavený správne, pravdepodobne je webová stránka zle nastavená a vy tento problém nedokážete vyriešiť. O probléme môžete informovať správcu webovej stránky.
+certerror-bad-cert-domain-what-can-you-do-about-it = Tento problém je pravdepodobne na strane webovej stránky a vy ho, bohužiaľ, nedokážete vyriešiť. O probléme môžete informovať správcu webovej stránky.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ak váš antivírusový program obsahuje funkciu skenovania šifrovaných spojení (často nazývaná ako „skenovanie webu“ alebo „skenovanie https“), môžete túto funkciu skúsiť vypnúť. Ak to nepomôže, môžete skúsiť antivírusový program odstrániť a preinštalovať.
+certerror-mitm-what-can-you-do-about-it-corporate = Ak ste na firemnej sieti, kontaktujte jej IT oddelenie.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Ak <b>{ $mitm }</b> nepoznáte, môže ísť o útok a nemali by ste pokračovať v pokusoch o pripojenie sa k tejto stránke.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Ak <b>{ $mitm }</b> nepoznáte, môže ísť o útok a bohužiaľ nie je možné urobiť nič, aby ste sa mohli pripojiť k tejto stránke.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = Server <b>{ $hostname }</b> má nastavené bezpečnostné pravidlo HTTP Strict Transport Security (HSTS), ktoré vynucuje používanie len zabezpečeného spojenia. Pre pripojenie k tejto stránke nie je možné pridať výnimku.
