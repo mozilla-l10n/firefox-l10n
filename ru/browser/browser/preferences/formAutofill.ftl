@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Сохранённые адреса
 autofill-manage-addresses-list-header = Адреса
+
 autofill-manage-credit-cards-title = Сохранённые банковские карты
 autofill-manage-credit-cards-list-header = Банковские карты
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Удалить
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Изменить…
 autofill-add-new-address-title = Добавить новый адрес
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Изменить адрес
+
 autofill-address-given-name = Имя
 autofill-address-additional-name = Отчество
 autofill-address-family-name = Фамилия
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Страна или регион
 autofill-address-tel = Телефон
 autofill-address-email = Эл. почта
+
 autofill-cancel-button = Отмена
 autofill-save-button = Сохранить
 autofill-country-warning-message = В настоящее время автозаполнение форм доступно только для некоторых стран.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Добавить новую банковскую карту
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Изменить банковскую карту
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } пытается показать данные банковской карты. Подтвердите ниже доступ к этой учётной записи Windows.
        *[other] { -brand-short-name } пытается показать данные банковской карты.
     }
+
 autofill-card-number = Номер карты
 autofill-card-invalid-number = Введите корректный номер карты
 autofill-card-name-on-card = Имя держателя
