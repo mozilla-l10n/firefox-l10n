@@ -8,14 +8,19 @@
 neterror-page-title = Problemas al cargar la página
 certerror-sts-page-title = No se conectó: Potencial problema de seguridad
 neterror-blocked-by-policy-page-title = Página bloqueada
+neterror-captive-portal-page-title = Iniciar sesión en la red
 
 ## Error page actions
 
+neterror-advanced-button = Avanzado…
 neterror-copy-to-clipboard-button = Copiar texto al portapapeles
 neterror-learn-more-link = Saber más…
+neterror-open-portal-login-page-button = Abrir página de ingreso a la red
 neterror-override-exception-button = Aceptar el riesgo y continuar
 neterror-pref-reset-button = Restaurar ajustes predeterminados
 neterror-return-to-previous-page-button = Regresar
+neterror-try-again-button = Intentar de nuevo
+neterror-view-certificate-link = Ver certificado
 
 ##
 
@@ -28,6 +33,7 @@ neterror-generic-error = { -brand-short-name } no puede cargar esta página por 
 neterror-load-error-try-again = El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta nuevamente en un momento.
 neterror-load-error-connection = Si no puedes cargar ninguna página, verifica la conexión de red de tu computadora.
 neterror-load-error-firewall = Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate que { -brand-short-name } pueda acceder a internet.
+neterror-captive-portal = Hay que iniciar sesión en esta red antes de poder acceder a Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = ¿Querías ir a <a data-l10n-name="website">{ $hostAndPath }</a>?
