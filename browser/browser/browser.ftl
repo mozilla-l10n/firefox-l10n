@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (privaatne veebilehitsemine)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (privaatne veebilehitsemine)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (privaatne veebilehitsemine)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (privaatne veebilehitsemine)
+
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -52,6 +54,7 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } (privaatne veebilehitsemine)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (privaatne veebilehitsemine)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -71,11 +74,13 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — privaatne veebilehitsemine
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — privaatne veebilehitsemine
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 private-browsing-shortcut-text = { -brand-short-name } (privaatne veebilehitsemine)
 
 ##
@@ -147,6 +152,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Sisesta vähem, leia rohkem: otsi otsingumootoriga { $engineName } otse oma aadressiribalt.
 urlbar-search-tips-redirect-2 = Alusta oma otsingut aadressiribalt, et näha soovitusi otsingumootorilt { $engineName } ning oma lehitsemise ajaloost.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Kiiremaks otsimiseks vali see otsetee.
@@ -156,6 +162,7 @@ urlbar-tabtosearch-onboard = Kiiremaks otsimiseks vali see otsetee.
 urlbar-search-mode-bookmarks = Järjehoidjad
 urlbar-search-mode-tabs = Kaardid
 urlbar-search-mode-history = Ajalugu
+
 urlbar-search-mode-actions = Tegevused
 
 ##
@@ -184,10 +191,12 @@ urlbar-midi-blocked =
     .tooltiptext = Oled sellel lehel keelanud ligipääsu MIDIle.
 urlbar-install-blocked =
     .tooltiptext = Oled sellel lehel keelanud lisade paigaldamise.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Muuda seda järjehoidjat ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -214,8 +223,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Seekord soorita otsing järgneva otsingumootoriga:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Otsingu sätete muutmine
+
 search-one-offs-context-open-new-tab =
     .label = Soorita otsing uuel kaardil
     .accesskey = S
@@ -225,12 +236,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Määra privaatsete akende vaikeotsingumootoriks
     .accesskey = M
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -257,21 +270,31 @@ search-one-offs-tabs =
     .tooltiptext = Kaardid ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Ajalugu ({ $restrict })
+
 search-one-offs-actions =
     .tooltiptext = Tegevused ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Tühjenda ajalugu
-quickactions-print = Prindi
-quickactions-screenshot = Tee ekraanipilt
-quickactions-settings = Ava sätted
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 quickactions-downloads = Ava allalaadimised
-quickactions-viewsource = Vaata lähtekoodi
+
 quickactions-inspector = Ava inspekteerimine
+
+quickactions-print = Prindi
+
 quickactions-refresh = Värskenda { -brand-short-name }
+
 quickactions-restart = Taaskäivita { -brand-short-name }
+
+quickactions-settings = Ava sätted
+
 quickactions-update = Uuenda { -brand-short-name }
+
+quickactions-viewsource = Vaata lähtekoodi
 
 ## Bookmark Panel
 
@@ -294,6 +317,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = d
 bookmark-panel-save-button =
     .label = Salvesta
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -321,6 +345,7 @@ identity-passive-loaded = Mõned selle lehe osad on ebaturvalised (nt pildid).
 identity-active-loaded = Kaitse sellel lehel on keelatud.
 identity-weak-encryption = See leht kasutab nõrka krüpteeringut.
 identity-insecure-login-forms = Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.
+
 identity-https-only-connection-upgraded = (uuendati HTTPSile)
 identity-https-only-label = Ainult HTTPS-režiim
 identity-https-only-dropdown-on =
@@ -332,9 +357,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Kui soovid, et { -brand-short-name } eelistaks võimalusel turvalist ühendust, siis lülita selle saidi puhul sisse HTTPS-režiim.
 identity-https-only-info-turn-off2 = Kui leht tundub olevat katki, siis võid proovida selle saidi puhul HTTPS-režiimi välja lülitada, et laadida sisu ebaturvalise HTTP kaudu.
 identity-https-only-info-no-upgrade = Ühenduse turvaliseks muutmine ebaõnnestus.
+
 identity-permissions-storage-access-header = Saidiülesed küpsised
 identity-permissions-storage-access-hint = Need osapooled võivad sinu sellel saidil viibimise ajal kasutada saidiüleseid küpsiseid ja saidiandmeid.
 identity-permissions-storage-access-learn-more = Rohkem teavet
+
 identity-permissions-reload-hint = Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.
 identity-clear-site-data =
     .label = Kustuta küpsised ja saidi andmed…
@@ -398,12 +425,14 @@ browser-tab-mute =
         [one] VAIGISTA KAART
        *[other] VAIGISTA { $count } KAARTI
     }
+
 browser-tab-unmute =
     { $count ->
         [1] LÕPETA KAARDI VAIGISTAMINE
         [one] LÕPETA KAARDI VAIGISTAMINE
        *[other] LÕPETA { $count } KAARDI VAIGISTAMINE
     }
+
 browser-tab-unblock =
     { $count ->
         [1] ESITA KAARDI SISU
@@ -416,6 +445,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Impordi järjehoidjad…
     .tooltiptext = Impordi järjehoidjad teisest brauserist { -brand-short-name }i.
+
 bookmarks-toolbar-empty-message = Kiiremaks ligipääsuks paiguta oma järjehoidjad siia järjehoidjate ribale. <a data-l10n-name="manage-bookmarks">Halda järjehoidjaid…</a>
 
 ## WebRTC Pop-up notifications
@@ -433,12 +463,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Kõlarid
 popup-all-windows-shared = Jagatakse kõiki nähtavaid aknaid sinu ekraanil.
+
 popup-screen-sharing-block =
     .label = Bloki
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = Blokitakse alati
     .accesskey = a
+
 popup-mute-notifications-checkbox = Jagamise ajal saidi teavitused vaigistatakse
 
 ## WebRTC window or screen share tab switch warning
@@ -460,6 +493,7 @@ enable-devtools-popup-description = To use the F12 shortcut, first open DevTools
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Otsi või sisesta aadress
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -468,6 +502,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Otsi veebist
     .aria-label = Otsi otsingumootoriga { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -476,26 +511,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi otsingumootoriga { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi järjehoidjatest
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi ajaloost
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi kaartide seast
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi tegevusi
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Otsi otsingumootoriga { $name } või sisesta veebiaadress
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -505,9 +546,11 @@ urlbar-permissions-granted =
     .tooltiptext = Sa oled taganud sellele saidile täiendavaid õigusi.
 urlbar-switch-to-tab =
     .value = Lülitu kaardile:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laiendus:
+
 urlbar-go-button =
     .tooltiptext = Mine aadressiribal olevale aadressile
 urlbar-page-action-button =
@@ -574,12 +617,14 @@ urlbar-result-action-search-tabs = Otsi kaartide hulgast
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Otsingumootori { $engine } soovitused
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Kiired tegevused
@@ -591,9 +636,12 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = Sait <span data-l10n-name="domain">{ $domain }</span> on nüüd täisekraanirežiimis
 fullscreen-warning-no-domain = See dokument on nüüd täisekraanirežiimis
+
+
 fullscreen-exit-button = Välju täisekraanirežiimist (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Välju täisekraanirežiimist (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -603,6 +651,7 @@ pointerlock-warning-no-domain = See dokument kontrollib sinu kursori tegevust. K
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Osa sellest lehest jooksis kokku.</strong> Kui soovid, et { -brand-product-name } teaks sellest probleemist ja lahendaks selle kiiremini, siis raporteeri sellest palun.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -658,6 +707,7 @@ bookmarks-tools =
     .label = Järjehoidjate tööriistad
 bookmarks-bookmark-edit-panel =
     .label = Muuda seda järjehoidjat
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -671,6 +721,7 @@ bookmarks-toolbar-placeholder =
     .title = Järjehoidjariba elemendid
 bookmarks-toolbar-placeholder-button =
     .label = Järjehoidjariba elemendid
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Lisa praegune kaart järjehoidjatesse
@@ -701,6 +752,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Lisad ja teemad
     .tooltiptext = Halda lisasid ja teemasid ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -710,25 +762,31 @@ toolbar-settings-button =
             [macos] Ava sätted ({ $shortcut })
            *[other] Ava sätted
         }
+
 toolbar-overflow-customize-button =
     .label = Kohanda tööriistariba…
     .accesskey = K
+
 toolbar-button-email-link =
     .label = Saada link
     .tooltiptext = Saada link e-postiga
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Salvesta leht
     .tooltiptext = Salvesta see leht ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Ava fail
     .tooltiptext = Ava fail ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Sünkroniseeritud kaardid
     .tooltiptext = Kuva teistes seadmetes avatud kaarte
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -769,6 +827,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Luba hüpikaknad aadressilt { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Bloki hüpikaknad aadressilt { $uriHost }
     .accesskey = p
@@ -778,9 +837,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Seda teadet ei näidata, kui hüpikaknad blokitakse
     .accesskey = d
+
 edit-popup-settings =
     .label = Halda hüpikakende sätteid
     .accesskey = H
+
 picture-in-picture-hide-toggle =
     .label = Peida pilt-pildis lüliti
     .accesskey = p
@@ -791,6 +852,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Liiguta pilt-pildis lüliti paremale küljele
     .accesskey = p
+
 picture-in-picture-move-toggle-left =
     .label = Liiguta pilt-pildis lüliti vasakule küljele
     .accesskey = v
@@ -805,32 +867,42 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigatsioon
+
 navbar-downloads =
     .label = Allalaadimised
+
 navbar-overflow =
     .tooltiptext = Rohkem tööriistu…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Prindi
     .tooltiptext = Prindi see leht… ({ $shortcut })
+
 navbar-home =
     .label = Kodu
     .tooltiptext = { -brand-short-name }i avaleht
+
 navbar-library =
     .label = Kogumik
     .tooltiptext = Vaata ajalugu, salvestatud järjehoidjaid ja muid asju
+
 navbar-search =
     .title = Otsi
+
 navbar-accessibility-indicator =
     .tooltiptext = Hõlbustus on lubatud
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Brauseri kaartide
+
 tabs-toolbar-new-tab =
     .label = Uus kaart
+
 tabs-toolbar-list-all-tabs =
     .label = Näita kõigi kaartide nimekirja
     .tooltiptext = Näita kõigi kaartide nimekirja
@@ -847,5 +919,9 @@ data-reporting-notification-message = Sinu kasutuskogemuse parandamiseks saadab 
 data-reporting-notification-button =
     .label = Vali saadetavad andmed
     .accesskey = V
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privaatne veebilehitsemine
+
+## Unified extensions (toolbar) button
+

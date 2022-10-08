@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Osa sellest lehest jooksis kokku.</strong> Kui soovid, et { -brand-product-name } teaks sellest probleemist ja lahendaks selle kiiremini, siis raporteeri sellest palun.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

@@ -5,13 +5,17 @@
 profiledowngrade-window =
     .title = Käivitatud on { -brand-product-name }i vanem versioon
     .style = width: 490px;
+
 profiledowngrade-window2 =
     .title = Käivitatud on { -brand-product-name }i vanem versioon
     .style = min-width: 490px;
+
 profiledowngrade-window-create =
     .label = Loo uus profiil
+
 profiledowngrade-sync = Vanema { -brand-product-name }i versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle { -brand-short-name }i paigalduse jaoks uue profiili. Sa võid alati sisse logida { -fxaccount-brand-name }ga ja erinevate profiilide vahel oma järjehoidjad ja veebilehitsemise ajaloo sünkroniseerida.
 profiledowngrade-nosync = Vanema { -brand-product-name }i versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle { -brand-short-name }i paigalduse jaoks uue profiili.
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

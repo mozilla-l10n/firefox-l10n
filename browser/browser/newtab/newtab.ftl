@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Otsi
     .aria-label = Otsi
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Otsi otsingumootoriga { $engine } või sisesta veebiaadress
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Otsi või sisesta aadress
     .title = Otsi või sisesta aadress
     .aria-label = Otsi või sisesta aadress
+
 newtab-search-box-text = Otsi veebist
 newtab-search-box-input =
     .placeholder = Otsi veebist
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Muuda otseteed
 newtab-topsites-title-label = Pealkiri
 newtab-topsites-title-input =
     .placeholder = Sisesta pealkiri
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Sisesta või aseta URL
 newtab-topsites-url-validation = URL peab olema korrektne
+
 newtab-topsites-image-url-label = Kohandatud pildi URL
 newtab-topsites-use-image-link = Kasuta kohandatud pilti…
 newtab-topsites-image-validation = Pildi laadimine ebaõnnestus. Proovi teistsugust URLi.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Sponsitud
 newtab-menu-section-tooltip =
     .title = Ava menüü
     .aria-label = Ava menüü
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Eemalda
     .aria-label = Eemalda
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -156,14 +162,17 @@ newtab-label-removed-bookmark = Järjehoidja eemaldatud
 newtab-label-recommended = Menukad
 newtab-label-saved = Salvestatud { -pocket-brand-name }isse
 newtab-label-download = Allalaaditud
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsitud
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsor: { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -202,6 +211,7 @@ newtab-section-header-pocket = { $provider } soovitab
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Alusta veebilehitsemist ja me näitame siin häid artikleid, videoid ja muid lehti, mida hiljuti külastasid või järjehoidjatesse lisasid.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -226,9 +236,11 @@ newtab-pocket-learn-more = Rohkem teavet
 newtab-pocket-cta-button = Hangi { -pocket-brand-name }
 newtab-pocket-cta-text = Salvesta oma lemmiklood { -pocket-brand-name }isse.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name } perekonnast
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Salvesta { -pocket-brand-name }isse
 newtab-pocket-saved-to-pocket = { -pocket-brand-name }isse salvestatud
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Laadi rohkem lugusid
 

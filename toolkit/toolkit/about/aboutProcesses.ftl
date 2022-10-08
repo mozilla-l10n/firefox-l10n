@@ -126,6 +126,8 @@ about-processes-frame-name-one = Subframe: { $url }
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 
+## Utility process actor names
+
 # Utility process actor names
 about-processes-utility-actor-unknown = Unknown actor
 about-processes-utility-actor-audio-decoder = Audio Decoder

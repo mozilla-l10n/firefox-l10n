@@ -14,6 +14,7 @@
 
 <!ENTITY productHelp.label "&brandShortName;i käsiraamat">
 <!ENTITY productHelp.accesskey "k">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

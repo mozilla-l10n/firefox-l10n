@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Helitugevus
 videocontrols-closed-caption-button =
     .aria-label = Subtiitrid suletud
+
 videocontrols-play-button =
     .aria-label = Esita
 videocontrols-pause-button =
@@ -28,23 +29,29 @@ videocontrols-casting-button-label =
     .aria-label = Edasta ekraanile
 videocontrols-closed-caption-off =
     .offlabel = Välja lülitatud
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Pilt-pildis
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Vaata pilt-pildis režiimis
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Esita videoid esiplaanil, samal ajal kui teed { -brand-short-name }is muid asju
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Tõsta see video välja
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Rohkemate ekraanidega on lõbusam. Esita seda videot lehitsemise ajal pilt-pildis režiimis.
+
 videocontrols-error-aborted = Video laadimine peatati.
 videocontrols-error-network = Video esitamine katkestati võrguvea tõttu.
 videocontrols-error-decode = Videot pole võimalik esitada, kuna fail on vigane.
@@ -52,6 +59,7 @@ videocontrols-error-src-not-supported = Video vorming või MIME tüüp pole toet
 videocontrols-error-no-source = Ei leitud ühtki toetatud vormingus või toetatud MIME tüübiga videot.
 videocontrols-error-generic = Video esitamine katkestati tundmatu vea tõttu.
 videocontrols-status-picture-in-picture = Seda videot esitatakse pilt-pildis režiimis.
+
 # This message shows the current position and total video duration
 #
 # Variables:

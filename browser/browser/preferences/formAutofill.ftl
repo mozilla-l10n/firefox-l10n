@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Salvestatud aadressid
 autofill-manage-addresses-list-header = Aadressid
+
 autofill-manage-credit-cards-title = Salvestatud krediitkaardid
 autofill-manage-credit-cards-list-header = Krediitkaardid
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Eemalda
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Muuda…
 autofill-add-new-address-title = Uue aadressi lisamine
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Aadressi muutmine
+
 autofill-address-given-name = Eesnimi
 autofill-address-additional-name = Teine nimi
 autofill-address-family-name = Perekonnanimi
@@ -81,13 +84,16 @@ autofill-address-eircode = Iirimaa postikood
 autofill-address-country = Riik või piirkond
 autofill-address-tel = Telefon
 autofill-address-email = E-posti aadress
+
 autofill-cancel-button = Loobu
 autofill-save-button = Salvesta
 autofill-country-warning-message = Vormide automaatne täitmine on praegu kasutatav vaid üksikutes riikides.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Uue krediitkaardi lisamine
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Krediitkaardi muutmine
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } üritab kuvada krediitkaardi andmeid. Kinnita ligipääs sellele Windowsi kontole allpool.
        *[other] { -brand-short-name } üritab kuvada krediitkaardi andmeid.
     }
+
 autofill-card-number = Kaardi number
 autofill-card-invalid-number = Palun sisesta korrektne kaardi number
 autofill-card-name-on-card = Nimi kaardil
