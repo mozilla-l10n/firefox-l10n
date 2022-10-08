@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Արագ որոնում (միայն հղումները)
 findbar-case-sensitive-status =
     .value = (Հաշվի առնելով ռեգիստրը)
+findbar-match-diacritics-status =
+    .value = (Տարբերիչ նշանների համապատասխանությամբ)
 findbar-entire-word-status =
     .value = (Միայն լրիվ բառերը)
 # Variables:
