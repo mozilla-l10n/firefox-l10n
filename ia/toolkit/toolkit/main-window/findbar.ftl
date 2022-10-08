@@ -34,8 +34,21 @@ findbar-entire-word =
 findbar-not-found = Phrase non trovate
 findbar-fast-find =
     .placeholder = Recerca rapide
+findbar-fast-find-links =
+    .placeholder = Recerca rapide (solmente ligamines)
 findbar-case-sensitive-status =
     .value = (Differentiar majusculas/minusculas)
+findbar-entire-word-status =
+    .value = (Solmente parolas integre)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } de { $total } correspondentia
+           *[other] { $current } de { $total } correspondentias
+        }
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
