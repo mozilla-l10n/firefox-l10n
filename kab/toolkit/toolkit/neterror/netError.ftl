@@ -6,7 +6,9 @@
 ## Error page titles
 
 neterror-page-title = Ugur deg usali n usebter
+neterror-blocked-by-policy-page-title = Asebter iwḥel
 neterror-captive-portal-page-title = Kcem ɣer uẓeṭṭa
+neterror-malformed-uri-page-title = URL mačči d tarameɣtut
 
 ## Error page actions
 
