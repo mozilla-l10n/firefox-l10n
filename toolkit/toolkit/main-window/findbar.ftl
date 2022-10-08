@@ -30,3 +30,22 @@ findbar-fast-find-links =
     .placeholder = Yiylo Jaawngol (jokke tan)
 findbar-case-sensitive-status =
     .value = (Darnde ena hiisaa)
+findbar-entire-word-status =
+    .value = (Kelme kuuɓɗe tan)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } e dow { $total } yiytaa
+           *[other] { $current } e dow { $total } njiytaa
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Ko ɓuri { $limit } yiytaa
+           *[other] Ko ɓuri { $limit } njiytaa
+        }
