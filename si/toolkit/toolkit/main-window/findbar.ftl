@@ -31,3 +31,5 @@ findbar-entire-word =
     .label = සමස්ත වචන
     .accesskey = w
     .tooltiptext = සම්පූර්ණ වචන පමණක් සොයන්න
+findbar-normal-find =
+    .placeholder = පිටුව තුළ සොයන්න
