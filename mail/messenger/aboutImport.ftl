@@ -10,8 +10,6 @@ import-from-app = Қолданбадан импорттау
 
 ## Buttons
 
-button-cancel = Бас тарту
-
 button-back = Артқа
 
 button-continue = Жалғастыру
@@ -19,6 +17,8 @@ button-continue = Жалғастыру
 ## Import from app steps
 
 ## Import from file selections
+
+## Import from app profile steps
 
 items-pane-checkbox-address-books = Адрестік кітапшалар
 
@@ -28,14 +28,12 @@ items-pane-checkbox-mail-messages = Пошта хабарламалары
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Импорттағыңыз келетін файл түрін таңдаңыз:
-
 ## Import from address book file steps
 
 
-## Import dialog
+## Import from calendar file steps
 
-progress-pane-restart-desc = Импорттауды аяқтау үшін қайта іске қосыңыз.
+## Import dialog
 
 error-pane-title = Қате
 
@@ -43,4 +41,10 @@ error-pane-title = Қате
 
 
 ## Export tab
+
+## Summary pane
+
+## Footer area
+
+## Step navigation on top of the wizard pages
 

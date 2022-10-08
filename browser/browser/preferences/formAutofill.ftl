@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Сақталған адрестер
 autofill-manage-addresses-list-header = Адрестер
+
 autofill-manage-credit-cards-title = Сақталған несиелік карталар
 autofill-manage-credit-cards-list-header = Несиелік карталар
+
 autofill-manage-dialog =
     .style = min-width: 660px
 autofill-manage-remove-button = Өшіру
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Түзету…
 autofill-add-new-address-title = Жаңа адресті қосу
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Адресті түзету
+
 autofill-address-given-name = Аты
 autofill-address-additional-name = Әкесінің аты
 autofill-address-family-name = Тегi
@@ -81,13 +84,16 @@ autofill-address-eircode = Пошта индексі
 autofill-address-country = Ел немесе аймақ
 autofill-address-tel = Телефон
 autofill-address-email = Эл. пошта
+
 autofill-cancel-button = Бас тарту
 autofill-save-button = Сақтау
 autofill-country-warning-message = Формаларды автотолтыру ағымдағы уақытта тек кейбір елдер үшін қолжетімді.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Жаңа несиелік картаны қосу
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Несиелік картаны түзету
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } сақталған несие карта ақпаратын қолданғысы келеді. Бұл Windows тіркелгісіне қатынау рұқсатын төменде растаңыз.
        *[other] { -brand-short-name } несие карта ақпаратын көрсеткісі келеді.
     }
+
 autofill-card-number = Карта нөмірі
 autofill-card-invalid-number = Жарамды карта нөмірін енгізіңіз
 autofill-card-name-on-card = Картадағы аты
