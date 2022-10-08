@@ -42,6 +42,10 @@ findbar-fast-find-links =
     .placeholder = দ্ৰুত সন্ধান কৰক (কেৱল সংযোগ)
 findbar-case-sensitive-status =
     .value = (ফলা সংবেদ্য)
+findbar-match-diacritics-status =
+    .value = (স্বৰচিহ্ন মিলা)
+findbar-entire-word-status =
+    .value = (কেৱল সম্পূৰ্ণ শব্দ)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
