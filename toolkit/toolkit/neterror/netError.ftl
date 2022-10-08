@@ -84,6 +84,8 @@ neterror-inadequate-security-code = کد خطا: NS_ERROR_NET_INADEQUATE_SECURIT
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = رایانه شما فکر می‌کند زمان کنونی { DATETIME($now, dateStyle: "medium") } است، که امکان اتصال امن را از { -brand-short-name } می‌گیرد. برای مشاهده <b>{ $hostname }</b>، تاریخ، ساعت و منطقه زمانی رایانه خود را از طریق تنظیمات سیستم اصلاح کنید، و سپس <b>{ $hostname }</b> را نوسازی کنید.
+neterror-network-protocol-error-intro = صفحه‌ای که می‌خواهید مشاهده کنید به خاطر خطایی که در پروتکل شبکه شناسایی شده قابل نمایش نیست.
+neterror-network-protocol-error-contact-website = لطفا با مالک وب سایت تماس بگیرید تا آنها را درباره این مشکل مطلع سازید.
 certerror-expired-cert-second-para = به احتمال زیاد گواهی وب‌سایت منقضی شده است، که جلوی { -brand-short-name } برای اتصال امن را می‌گیرد. اگر از این سایت بازدید کنید، مهاجمان می‌توانند اطلاعاتی مانند گذرواژه، ایمیل‌ها یا جزئیات کارت اعتباری شما را سرقت کنند.
 certerror-expired-cert-sts-second-para = به احتمال زیاد گواهی وب‌سایت منقضی شده است، که جلوی { -brand-short-name } برای اتصال امن را می‌گیرد.
 certerror-what-can-you-do-about-it-title = چه کاری می‌توانید در مورد آن انجام دهید؟
