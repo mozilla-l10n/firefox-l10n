@@ -8,6 +8,13 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] آپ کے پاس جمع نہیں کروائی ہوئی تباہ رپورٹ ہے
+       *[other] آپ کے پاس { $reportCount } جمع نہیں کروائی ہوئی تباہ رپورٹیں ہے
+    }
 pending-crash-reports-view-all =
     .label = نظارہ
 pending-crash-reports-send =
