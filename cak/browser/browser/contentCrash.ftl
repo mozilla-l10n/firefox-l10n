@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Xsach jun peraj ruxaq.</strong> Chi ri { -brand-product-name } nretamaj chi rij re k'ayewal chuqa' anin nich'ojmïr, tataqa' jun rutzijol.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Xsach jun peraj ruxaq. Chi ri { -brand-product-name } nretamaj chi rij re k'ayewal chuqa' anin nich'ojmïr, tataqa' jun rutzijol.
+crashed-subframe-learnmore-link =
+    .value = Tisik'ïx Ch'aqa' Chik
+crashed-subframe-submit =
+    .label = Titaq Rutzijol
+    .accesskey = t
 
 ## Pending crash reports
 
