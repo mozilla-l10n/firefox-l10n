@@ -7,6 +7,8 @@
 
 neterror-page-title = Էջը բեռնելու խնդիր
 neterror-captive-portal-page-title = Մուտք գործել ցանց
+neterror-dns-not-found-title = Սպասարկիչը չի գտնվել
+neterror-malformed-uri-page-title = Անվավեր URL
 
 ## Error page actions
 
