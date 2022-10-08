@@ -4,100 +4,139 @@
 
 certmgr-title =
     .title = Správce certifikátů
+
 certmgr-tab-mine =
     .label = Osobní
+
 certmgr-tab-remembered =
     .label = Rozhodnutí o ověřování
+
 certmgr-tab-people =
     .label = Lidé
+
 certmgr-tab-servers =
     .label = Servery
+
 certmgr-tab-ca =
     .label = Autority
+
 certmgr-mine = Tyto certifikáty od následujících organizací slouží k vaší osobní identifikaci
 certmgr-remembered = Tyto certifikáty slouží k vaší identifikaci na webových stránkách
 certmgr-people = Tyto certifikáty jsou dostupné pro identifikaci následujících lidí
 certmgr-server = Tento seznam obsahuje výjimky pro chyby serverových certifikátů
 certmgr-ca = Tyto certifikáty jsou dostupné pro identifikaci certifikačních autorit
+
 certmgr-edit-ca-cert =
     .title = Upravit nastavení důvěryhodnosti CA
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = Upravit nastavení důvěryhodnosti CA
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = Upravit nastavení důvěryhodnosti:
+
 certmgr-edit-cert-trust-ssl =
     .label = Tento certifikát může identifikovat server.
+
 certmgr-edit-cert-trust-email =
     .label = Tento certifikát může identifikovat uživatele e-mailu.
+
 certmgr-delete-cert =
     .title = Smazat certifikát
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Smazat certifikát
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-host =
     .label = Server
+
 certmgr-cert-name =
     .label = Jméno certifikátu
+
 certmgr-cert-server =
     .label = Server
+
 certmgr-override-lifetime =
     .label = Platnost
+
 certmgr-token-name =
     .label = Bezpečnostní zařízení
+
 certmgr-begins-label =
     .label = Vydáno dne
+
 certmgr-expires-label =
     .label = Platný do
+
 certmgr-email =
     .label = E-mailová adresa
+
 certmgr-serial =
     .label = Sériové číslo
+
 certmgr-view =
     .label = Zobrazit…
     .accesskey = b
+
 certmgr-edit =
     .label = Upravit důvěru…
     .accesskey = a
+
 certmgr-export =
     .label = Exportovat…
     .accesskey = x
+
 certmgr-delete =
     .label = Smazat…
     .accesskey = S
+
 certmgr-delete-builtin =
     .label = Smazat nebo nedůvěřovat…
     .accesskey = d
+
 certmgr-backup =
     .label = Zálohovat…
     .accesskey = l
+
 certmgr-backup-all =
     .label = Zálohovat vše…
     .accesskey = o
+
 certmgr-restore =
     .label = Importovat…
     .accesskey = m
+
 certmgr-add-exception =
     .label = Přidat výjimku…
     .accesskey = P
+
 exception-mgr =
     .title = Přidání bezpečnostní výjimky
+
 exception-mgr-extra-button =
     .label = Schválit bezpečnostní výjimku
     .accesskey = S
+
 exception-mgr-supplemental-warning = Legitimní banky, obchody a ostatní veřejné servery vás o toto žádat nebudou.
+
 exception-mgr-cert-location-url =
     .value = Adresa:
+
 exception-mgr-cert-location-download =
     .label = Získat certifikát
     .accesskey = c
+
 exception-mgr-cert-status-view-cert =
     .label = Zobrazit…
     .accesskey = Z
+
 exception-mgr-permanent =
     .label = Uložit tuto výjimku trvale
     .accesskey = U
+
 pk11-bad-password = Zadané heslo není správné.
 pkcs12-decode-err = Soubor nemohl být dekódován. Buď není ve formátu PCKS #12, nebo je porušen nebo zadané heslo není správné.
 pkcs12-unknown-err-restore = Soubor PKCS #12 nemohl být obnoven z neznámých příčin.
@@ -130,28 +169,37 @@ delete-user-cert-title =
     .title = Smazání osobních certifikátů
 delete-user-cert-confirm = Opravdu chcete tyto certifikáty smazat?
 delete-user-cert-impact = Pokud smažete jeden ze svých vlastních certifikátů, nebudete moci dále prokazovat svoji identitu.
+
+
 delete-ssl-override-title =
     .title = Smazání výjimky pro certifikát serveru
 delete-ssl-override-confirm = Opravdu chcete smazat výjimku pro tento server?
 delete-ssl-override-impact = Pokud smažete výjimku pro server, obnovíte pro daný server obvyklé bezpečnostní kontroly a server pak bude požadovat platný certifikát.
+
 delete-ca-cert-title =
     .title = Smazání nebo nedůvěra certifikátů CA
 delete-ca-cert-confirm = Požádali jste o smazání certifikátů CA. V případě vestavěných certifikátů jim bude odebrána důvěra, což má stejný efekt jako jejich smazání. Opravdu je chcete smazat nebo jim přestat důvěřovat?
 delete-ca-cert-impact = Pokud smažete nebo přestanete důvěřovat certifikátům certifikační autority (CA), aplikace už nebude dále důvěřovat certifikátům vystaveným touto autoritou.
+
+
 delete-email-cert-title =
     .title = Smazání certifikátů ostatních lidí
 delete-email-cert-confirm = Opravdu chcete smazat poštovní certifikáty těchto lidí?
 delete-email-cert-impact = Pokud smažete poštovní certifikát nějaké osoby, nebudete jí moci poslat zašifrovanou zprávu.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certifikát se sériovým číslem: { $serialNumber }
+
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Neposílat klientský certifikát
+
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (neuloženo)
+
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Nedostupné)
 

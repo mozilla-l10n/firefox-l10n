@@ -11,6 +11,7 @@ profiledowngrade-window =
            *[other] aplikace { -brand-product-name }
         }
     .style = width: 490px;
+
 profiledowngrade-window2 =
     .title =
         Spustili jste starší verzi { -brand-product-name.gender ->
@@ -20,8 +21,10 @@ profiledowngrade-window2 =
            *[other] aplikace { -brand-product-name }
         }
     .style = min-width: 490px;
+
 profiledowngrade-window-create =
     .label = Vytvořit nový profil
+
 profiledowngrade-sync =
     Spuštěním starší verze { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "gen") }
@@ -46,5 +49,6 @@ profiledowngrade-nosync =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     } vytvořte profil nový.
+
 profiledowngrade-quit =
     .label = Ukončit

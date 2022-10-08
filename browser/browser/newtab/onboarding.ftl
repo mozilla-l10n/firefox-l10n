@@ -46,6 +46,7 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Postup: krok { $current } z { $total }
+
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -54,11 +55,13 @@ onboarding-welcome-steps-indicator2 =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Začínáme
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — návrhářka nábytku a fanynka Firefoxu
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Vypnout animace
 
@@ -96,6 +99,7 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Jdeme na to
+
 mr1-onboarding-welcome-header = Vítá vás { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label =
     Nastavit { -brand-short-name.gender ->
@@ -116,6 +120,7 @@ mr1-onboarding-set-default-pin-primary-button-label =
             [neuter] ho
            *[other] ji
         } na lištu
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label =
@@ -145,13 +150,16 @@ mr1-onboarding-default-primary-button-label = Nastavit jako výchozí prohlíže
 
 mr1-onboarding-import-header = Všechno, vždy a po ruce
 mr1-onboarding-import-subtitle = Importujte svá hesla, <br/>záložky a další
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importovat z prohlížeče { $previous }
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importovat z dříve používaného prohlížeče
 mr1-onboarding-import-secondary-button-label = Teď ne
+
 mr2-onboarding-colorway-header = Život v barvách
 mr2-onboarding-colorway-subtitle = Nové palety barev dostupné po omezenou dobu.
 mr2-onboarding-colorway-primary-button-label = Uložit paletu barev
@@ -161,10 +169,13 @@ mr2-onboarding-colorway-label-balanced = Vyvážená
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Výrazná
+
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatický
+
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Výchozí
+
 mr1-onboarding-theme-header = Přizpůsobení
 mr1-onboarding-theme-subtitle =
     Přizpůsobte si vzhled { -brand-short-name.gender ->
@@ -175,12 +186,15 @@ mr1-onboarding-theme-subtitle =
     }
 mr1-onboarding-theme-primary-button-label = Uložit vzhled
 mr1-onboarding-theme-secondary-button-label = Teď ne
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Podle systému
+
 mr1-onboarding-theme-label-light = Světlý
 mr1-onboarding-theme-label-dark = Tmavý
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+
 onboarding-theme-primary-button-label = Hotovo
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -193,61 +207,74 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Vzhled s barevným tématem
         podle nastavení operačního systému.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Vzhled s barevným tématem
         podle nastavení operačního systému.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Vzhled se světlým barevným tématem
         pro tlačítka, nabídky a okna.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Vzhled se světlým barevným tématem
         pro tlačítka, nabídky a okna.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Vzhled s tmavým barevným tématem
         pro tlačítka, nabídky a okna.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Vzhled s tmavým barevným tématem
         pro tlačítka, nabídky a okna.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Vzhled s barevným tématem
         pro tlačítka, nabídky a okna.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Vzhled s barevným tématem
         pro tlačítka, nabídky a okna.
+
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Použije tuto paletu barev.
+
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Použít tuto paletu barev.
+
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Vyzkoušet paletu barev { $colorwayName }.
+
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Vyzkoušet paletu barev { $colorwayName }.
+
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Vyzkoušet výchozí vzhledy.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Vyzkoušet výchozí vzhledy.
 
@@ -275,7 +302,9 @@ mr2-onboarding-start-browsing-button-label = Začít prohlížet
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Výběr jazyka
+
 mr2022-onboarding-live-language-text = { -brand-short-name } mluví vaším jazykem
+
 mr2022-language-mismatch-subtitle =
     { -brand-short-name.gender ->
         [masculine] Díky naší komunitě je { -brand-short-name } přeložený do více než 90 jazyků. Zdá se, že váš systém je v jazyce { $systemLanguage }, a { -brand-short-name } používá jazyk { $appLanguage }.
@@ -283,11 +312,14 @@ mr2022-language-mismatch-subtitle =
         [neuter] Díky naší komunitě je { -brand-short-name } přeložené do více než 90 jazyků. Zdá se, že váš systém je v jazyce { $systemLanguage }, a { -brand-short-name } používá jazyk { $appLanguage }.
        *[other] Díky naší komunitě je aplikace { -brand-short-name } přeložená do více než 90 jazyků. Zdá se, že váš systém je v jazyce { $systemLanguage }, a { -brand-short-name } používá jazyk { $appLanguage }.
     }
+
 onboarding-live-language-button-label-downloading = Stahování jazykového balíčku pro jazyk { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Získávání dostupných jazyků…
 onboarding-live-language-installing = Instalace jazykového balíčku pro jazyk { $negotiatedLanguage }…
+
 mr2022-onboarding-live-language-switch-to = Přepnout na jazyk { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Ponechat jazyk { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Zrušit
 onboarding-live-language-skip-button-label = Přeskočit
 
@@ -321,6 +353,7 @@ fx100-thank-you-pin-primary-button-label =
                *[other] Připnout aplikaci { -brand-short-name } na lištu
             }
     }
+
 fx100-upgrade-thanks-header = Děkujeme 100krát
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
@@ -340,7 +373,29 @@ fx100-upgrade-thanks-keep-body =
        *[other] Toto je 100. vydání! Mějte aplikaci { -brand-short-name } na dosah ještě dalších 100 vydání.
     }
 
+## MR2022 New User Pin Firefox screen strings
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+## MR2022 New User Set Default screen strings
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+## MR2022 Import Settings screen strings
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+## MR2022 Multistage Mobile Download screen strings
+
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Přeskočit tento krok
+## MR2022 Privacy Segmentation screen strings
+
+## MR2022 Multistage Gratitude screen strings
+

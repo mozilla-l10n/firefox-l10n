@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Přidat štítky
+
 pocket-panel-saved-error-generic = Při pokusu o uložení do { -pocket-brand-name(case: "gen") } došlo k chybě.
 pocket-panel-saved-error-tag-length = Štítky jsou omezeny na 25 znaků
 pocket-panel-saved-error-only-links = Ukládat můžete jenom odkazy
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Ukládání…
 pocket-panel-saved-suggested-tags = Doporučené štítky
 pocket-panel-saved-tags-saved = Štítky přidány
 pocket-panel-signup-view-list = Zobrazit seznam
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Přidat štítky:
 
@@ -61,6 +63,7 @@ pocket-panel-signup-tagline-story-one =
        *[other] aplikace { -brand-product-name }
     }.
 pocket-panel-signup-tagline-story-two = Zobrazení v { -pocket-brand-name(case: "loc") } kdykoliv a na jakémkoliv zařízení.
+
 pocket-panel-signup-cta-a-fix = Vaše tlačítko „uložit“ pro internet
 pocket-panel-signup-cta-b = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy. Seznam si můžete kdykoliv zobrazit na kterémkoliv svém zařízení.
 pocket-panel-signup-cta-b-short = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy.
@@ -74,6 +77,7 @@ pocket-panel-home-paragraph = { -pocket-brand-name(case: "acc") } můžete použ
 pocket-panel-home-explore-popular-topics = Podívejte se na oblíbená témata
 pocket-panel-home-discover-more = Objevte více
 pocket-panel-home-explore-more = Procházet
+
 pocket-panel-home-most-recent-saves = Váš nedávno uložený obsah:
 pocket-panel-home-most-recent-saves-loading = Načítání nedávno uloženého obsahu…
 pocket-panel-home-new-user-cta = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy.

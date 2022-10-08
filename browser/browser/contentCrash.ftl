@@ -12,6 +12,7 @@ crashed-subframe-message =
         [neuter] { -brand-product-name(case: "gen") }
        *[other] aplikace { -brand-product-name }
     } tento problém nahlásit pro zrychlení opravy, odešlete prosím hlášení.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

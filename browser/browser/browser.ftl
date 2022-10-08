@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Anonymní prohlížení)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Anonymní prohlížení)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Anonymní prohlížení)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Anonymní prohlížení)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -57,6 +59,7 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — anonymní prohlížení
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — anonymní prohlížení
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -132,6 +135,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Méně psaní, více výsledků: používejte { $engineName } přímo z adresního řádku.
 urlbar-search-tips-redirect-2 = Zadejte do adresního řádku vyhledávaný text a uvidíte návrhy z vyhledávače { $engineName } a vaší historie prohlížení.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Klepněte na tuto zkratku, abyste rychleji našli, co potřebujete.
@@ -141,6 +145,7 @@ urlbar-tabtosearch-onboard = Klepněte na tuto zkratku, abyste rychleji našli, 
 urlbar-search-mode-bookmarks = Záložky
 urlbar-search-mode-tabs = Otevřené panely
 urlbar-search-mode-history = Historie prohlížení
+
 urlbar-search-mode-actions = Akce
 
 ##
@@ -169,10 +174,12 @@ urlbar-midi-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali přístup k MIDI zařízením.
 urlbar-install-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali instalaci doplňků.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Upraví tuto záložku ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,6 +191,7 @@ page-action-manage-extension =
     .label = Nastavení tohoto rozšíření
 page-action-remove-extension =
     .label = Odebrat rozšíření
+
 page-action-manage-extension2 =
     .label = Nastavení tohoto rozšíření…
     .accesskey = e
@@ -205,8 +213,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Vyhledat pomocí
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Změnit nastavení vyhledávání
+
 search-one-offs-context-open-new-tab =
     .label = Hledat v novém panelu
     .accesskey = n
@@ -216,12 +226,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Nastavit jako výchozí vyhledávač pro anonymní prohlížení
     .accesskey = p
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -248,6 +260,7 @@ search-one-offs-tabs =
     .tooltiptext = Otevřené panely ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historie prohlížení ({ $restrict })
+
 search-one-offs-actions =
     .tooltiptext = Akce ({ $restrict })
 
@@ -261,27 +274,35 @@ search-one-offs-actions =
 # Opens the about:addons page
 quickactions-addons = Zobrazit doplňky
 quickactions-cmd-addons = doplňky, rozšíření, vzhledy
+
 # Opens the bookmarks library window
 quickactions-bookmarks = Zobrazit záložky
 quickactions-cmd-bookmarks = záložky
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vymazat historii
 quickactions-cmd-clearhistory = vymazat historii
+
 # Opens about:downloads page
 quickactions-downloads = Otevřít seznam stahování
 quickactions-cmd-downloads = stahování
+
 # Opens the devtools web inspector
 quickactions-inspector = Otevřít průzkumník
 quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
+
 # Opens about:logins
 quickactions-logins = Zobrazit přihlašovací údaje
 quickactions-cmd-logins = přihlašovací údaje, hesla
+
 # Opens the print dialog
 quickactions-print = Tisk
 quickactions-cmd-print = tisk
+
 # Opens a new private browsing window
 quickactions-private = Otevřít nové anonymní okno
 quickactions-cmd-private = anonymní prohlížení
+
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh =
     { -brand-short-name.gender ->
@@ -291,6 +312,7 @@ quickactions-refresh =
        *[other] Obnova aplikace { -brand-short-name }
     }
 quickactions-cmd-refresh = obnova, obnovit
+
 # Restarts the browser
 quickactions-restart =
     { -brand-short-name.gender ->
@@ -300,12 +322,15 @@ quickactions-restart =
        *[other] Restartovat aplikaci { -brand-short-name }
     }
 quickactions-cmd-restart = restart, restartovat
+
 # Opens the screenshot tool
 quickactions-screenshot2 = Pořídit snímek stránky
 quickactions-cmd-screenshot = snímek obrazovky, stránky
+
 # Opens about:preferences
 quickactions-settings = Otevřít nastavení
 quickactions-cmd-settings = nastavení, předvolby, možnosti
+
 # Opens a SUMO article explaining how to update the browser
 quickactions-update =
     { -brand-short-name.gender ->
@@ -315,6 +340,7 @@ quickactions-update =
        *[other] Aktualizace aplikace { -brand-short-name }
     }
 quickactions-cmd-update = aktualizace, aktualizovat
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Zobrazit zdrojový kód
 quickactions-cmd-viewsource = zdrojový kód
@@ -341,6 +367,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = u
 bookmark-panel-save-button =
     .label = Uložit
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -380,6 +407,7 @@ identity-passive-loaded = Části této stránky nejsou zabezpečené (napříkl
 identity-active-loaded = Na této stránce jste ochranu zakázali.
 identity-weak-encryption = Tento server používá slabé šifrování.
 identity-insecure-login-forms = Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.
+
 identity-https-only-connection-upgraded = (přepnuto na HTTPS)
 identity-https-only-label = Režim „pouze HTTPS“
 identity-https-only-dropdown-on =
@@ -397,9 +425,11 @@ identity-https-only-info-turn-on2 =
     } spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
 identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
 identity-https-only-info-no-upgrade = Nepodařilo se přepnout spojení z HTTP.
+
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = Tyto weby mohou používat cross-site cookies a během vaší návštěvy této stránky tak přistupovat k jejím datům.
 identity-permissions-storage-access-learn-more = Zjistit více
+
 identity-permissions-reload-hint = Pro provedení změn může být potřeba stránku znovu načíst.
 identity-clear-site-data =
     .label = Vymazat cookies a data stránky…
@@ -476,6 +506,7 @@ browser-tab-mute =
         [few] Vypnout zvuk { $count } panelů
        *[other] Vypnout zvuk { $count } panelů
     }
+
 browser-tab-unmute =
     { $count ->
         [1] Zapnout zvuk panelu
@@ -483,6 +514,7 @@ browser-tab-unmute =
         [few] Zapnout zvuk { $count } panelů
        *[other] Zapnout zvuk { $count } panelů
     }
+
 browser-tab-unblock =
     { $count ->
         [1] Spustit přehrávání
@@ -496,6 +528,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importovat záložky…
     .tooltiptext = Importovat záložky z jiného prohlížeče do { -brand-short-name(case: "gen") }.
+
 bookmarks-toolbar-empty-message = Chcete-li mít ke svým záložkám rychlý přístup, umístěte je sem na lištu záložek. <a data-l10n-name="manage-bookmarks">Spravovat záložky…</a>
 
 ## WebRTC Pop-up notifications
@@ -513,12 +546,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Zvukový výstup
 popup-all-windows-shared = Budou sdílena všechna viditelná okna na vaší obrazovce.
+
 popup-screen-sharing-block =
     .label = Blokovat
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = Vždy blokovat
     .accesskey = V
+
 popup-mute-notifications-checkbox = Ztlumit oznámení ze serverů během sdílení
 
 ## WebRTC window or screen share tab switch warning
@@ -540,6 +576,7 @@ enable-devtools-popup-description = Pokud chcete používat zkratku F12, otevře
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Zadejte webovou adresu nebo dotaz pro vyhledávač
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -548,6 +585,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Vyhledat na webu
     .aria-label = Vyhledat pomocí { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -556,26 +594,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Zadejte hledaný výraz
     .aria-label = Vyhledat na serveru { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Zadejte hledaný výraz
     .aria-label = Hledat v záložkách
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Zadejte hledaný výraz
     .aria-label = Hledat v historii
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Zadejte hledaný výraz
     .aria-label = Hledat v otevřených panelech
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Zadejte hledané výrazy
     .aria-label = Vyhledávání akcí
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Zadejte webovou adresu nebo dotaz pro vyhledávač { $name }
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -585,9 +629,11 @@ urlbar-permissions-granted =
     .tooltiptext = Tomuto serveru jste udělili dodatečná oprávnění.
 urlbar-switch-to-tab =
     .value = Přepnout na panel:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozšíření:
+
 urlbar-go-button =
     .tooltiptext = Přejde na adresu v adresním řádku
 urlbar-page-action-button =
@@ -647,6 +693,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Hledat v záložkách
 urlbar-result-action-search-history = Hledat v historii
 urlbar-result-action-search-tabs = Najít panel
+
 urlbar-result-action-search-actions = Akce vyhledávání
 
 ## Labels shown above groups of urlbar results
@@ -655,12 +702,14 @@ urlbar-result-action-search-actions = Akce vyhledávání
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Návrhy vyhledávače { $engine }
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Rychlé akce
@@ -672,9 +721,12 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> je teď v režimu celé obrazovky
 fullscreen-warning-no-domain = Tento dokument je teď v režimu celé obrazovky
+
+
 fullscreen-exit-button = Ukončit režim celé obrazovky (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ukončit režim celé obrazovky (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -690,6 +742,7 @@ crashed-subframe-message =
         [neuter] { -brand-product-name(case: "gen") }
        *[other] aplikace { -brand-product-name }
     } tento problém nahlásit pro zrychlení opravy, odešlete prosím hlášení.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -751,8 +804,10 @@ bookmarks-tools =
     .label = Nástroje pro práci se záložkami
 bookmarks-bookmark-edit-panel =
     .label = Upravit záložku
+
 bookmarks-subview-edit-bookmark =
     .label = Upravit záložku…
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -766,9 +821,11 @@ bookmarks-toolbar-placeholder =
     .title = Záložky nástrojové lišty
 bookmarks-toolbar-placeholder-button =
     .label = Záložky nástrojové lišty
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Přidat současný panel do záložek
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Přidat současný panel do záložek…
@@ -799,6 +856,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Doplňky a vzhledy
     .tooltiptext = Správa doplňků a motivů vzhledu ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -808,25 +866,31 @@ toolbar-settings-button =
             [macos] Otevře nastavení ({ $shortcut })
            *[other] Otevře nastavení
         }
+
 toolbar-overflow-customize-button =
     .label = Nastavení tlačítek a lišt…
     .accesskey = V
+
 toolbar-button-email-link =
     .label = Poslat odkaz e-mailem
     .tooltiptext = Odešle odkaz na aktuální stránku
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Uložit stránku
     .tooltiptext = Uloží aktuální stránku ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Otevřít soubor
     .tooltiptext = Otevře soubor ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Synchronizované panely
     .tooltiptext = Zobrazí panely z jiných zařízení
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -879,6 +943,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Povolit vyskakovací okna pro { $uriHost }
     .accesskey = P
+
 popups-infobar-block =
     .label = Blokovat vyskakovací okna pro { $uriHost }
     .accesskey = p
@@ -888,9 +953,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Při blokování vyskakovacích oken nezobrazovat tuto zprávu
     .accesskey = n
+
 edit-popup-settings =
     .label = Spravovat nastavení vyskakovacích oken…
     .accesskey = y
+
 picture-in-picture-hide-toggle =
     .label = Skrýt přepínač obrazu v obraze
     .accesskey = v
@@ -901,6 +968,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Přesunout přepínač zobrazení obrazu v obraze doprava
     .accesskey = r
+
 picture-in-picture-move-toggle-left =
     .label = Přesunout přepínač zobrazení obrazu v obraze doleva
     .accesskey = l
@@ -915,15 +983,19 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigace
+
 navbar-downloads =
     .label = Stahování
+
 navbar-overflow =
     .tooltiptext = Další nástroje…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Vytisknout
     .tooltiptext = Vytiskne tuto stránku… ({ $shortcut })
+
 navbar-home =
     .label = Domů
     .tooltiptext =
@@ -933,20 +1005,26 @@ navbar-home =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] aplikace { -brand-short-name }
         }
+
 navbar-library =
     .label = Knihovna stránek
     .tooltiptext = Zobrazí historii, uložené záložky, a mnoho dalšího
+
 navbar-search =
     .title = Vyhledávací pole
+
 navbar-accessibility-indicator =
     .tooltiptext = Funkce pro podporu přístupnosti povoleny
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Ouška panelů
+
 tabs-toolbar-new-tab =
     .label = Nový panel
+
 tabs-toolbar-list-all-tabs =
     .label = Seznam všech panelů
     .tooltiptext = Seznam všech panelů
@@ -975,6 +1053,7 @@ data-reporting-notification-message =
 data-reporting-notification-button =
     .label = Nastavit odesílaná data
     .accesskey = N
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Anonymní prohlížení
 
