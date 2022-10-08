@@ -38,8 +38,13 @@ neterror-load-error-try-again = Siden kan være midlertidigt utilgængelig eller
 neterror-load-error-connection = Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.
 neterror-load-error-firewall = Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, sørg da for at { -brand-short-name } har tilladelse til at tilgå nettet.
 neterror-captive-portal = Dette netværk kræver, at du skal logge ind for at bruge internettet.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Ville du besøge <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Hvis du har indtasten adressen korrekt:</strong>
 neterror-dns-not-found-hint-try-again = Prøv igen senere
 neterror-dns-not-found-hint-check-network = Kontroller din internetforbindelse
+neterror-dns-not-found-hint-firewall = Kontroller, om { -brand-short-name } har adgang til internettet (forbindelsen kan fx befinde sig bag en firewall)
 neterror-file-not-found-filename = Undersøg filnavnet for store bogstaver eller andre tastefejl.
 neterror-file-not-found-moved = Undersøg om filen er blevet flyttet, omdøbt eller slettet
 neterror-access-denied = Den kan være blevet slettet, flyttet, eller tilladelserne for filen kan forhindre adgang.
