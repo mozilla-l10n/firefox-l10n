@@ -6,6 +6,8 @@
 ## Error page titles
 
 neterror-page-title = Loowgol hello waɗii caɗeele
+certerror-page-title = Jeertino: Ina soomi tanaa yeeso
+certerror-sts-page-title = Hoto seŋo: soomi saɗeende kisal
 neterror-blocked-by-policy-page-title = Hello Daaƴaango
 neterror-captive-portal-page-title = Seŋo e laylaytol hee
 neterror-dns-not-found-title = Sarworde Nde Yiytaaka
@@ -16,9 +18,12 @@ neterror-malformed-uri-page-title = URL o moƴƴaani
 neterror-copy-to-clipboard-button = Natto binndol to ɗakkitorde
 neterror-learn-more-link = Ɓeydu humpito…
 neterror-open-portal-login-page-button = Uddit nello seŋorgo e laylaytol ngol
+neterror-override-exception-button = Jaɓ tanaa oo njokkaa
 neterror-pref-reset-button = Artir teelte goowaaɗe
 neterror-return-to-previous-page-button = Rutto
+neterror-return-to-previous-page-recommended-button = Rutto (Wasiyaa)
 neterror-try-again-button = Fuɗɗito
+neterror-view-certificate-link = Yiy Sartifikaa
 
 ##
 
@@ -52,6 +57,15 @@ neterror-content-encoding-error = Tiiɗno jokkondir e jeyɓe lowre ndee ngam hum
 neterror-unsafe-content-type = Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.
 neterror-nss-failure-not-verified = Hello ngo etoto-ɗaa naatnde ngoo waawaa hollireede sabu goongɗingol keɓe keɓaaɗe ɗee waawaa ƴeewteede.
 neterror-nss-failure-contact-website = Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } tinii tanaa cooaaɗo wonande kisal, tee jokkaani haa <b>{ $hostname }</b>. So aɗa yilloo ndee lowre, taƴooɓe ina mbaawi etaade wujjude kabaruuji baaɗi no pinle, iimeeluuji walla kabaruuji kartal keredi.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } yiytii huunde nde moƴƴaani e kisal, waɗde jokkaani haa <b>{ $hostname }</b> sibu ndee lowre geese ina ɗaɓɓi ceŋol kisngol.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } yiytii saɗeende, waɗde jokkaani haa <b>{ $hostname }</b>. Lowre geese ndee teeltiraaka no feewi walla montoor ordinateer maa reeglaaka e waktu moƴƴo.
 neterror-corrupted-content-intro = Hello ngo etot-ɗaa naatnde ngoo waawaa hollireede sabu juumre waɗii e baanjitagol keɓe ɗee.
 neterror-corrupted-content-contact-website = Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -61,3 +75,23 @@ neterror-sslv3-used = Humpito ceeɓtoto: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo janngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi. Maa jiiloowo oo feewnita sarworde ndee hade maa waawde yillaade lowre ndee.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Dokkol juumre: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Ordinateer maa ina sikki ko { DATETIME($now, dateStyle: "medium") } haɗata { -brand-short-name } seŋoraade e kisal. Ngam yillaade <b>{ $hostname }</b>, waɗ montoor ordinateer maa e waktu to teelte yuɓɓo haa yahda e ñalngu e waktu jurol waktu gonangol ngol, caggal ɗuum kesɗitinaa <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Hello ngo etoto-ɗaa ɗisde ngoo waawaa ɗiseede sibu juumre yiytaande nder jaɓɓitorde geese.
+neterror-network-protocol-error-contact-website = Tiiɗno jokkondir e joom en lowe geese ɗee ngam habrude ɗum en saɗeende ndee.
+certerror-expired-cert-second-para = Ina gasa tawa sartifikaa lowre geese ndee ko buntuɗo, ko ɗuum haɗata { -brand-short-name } seŋoraade kisal. So aɗa yilloo ndee lowre, yanooɓe ina mbaawi etaade wujjude kabaruuji baaɗi no pinle, iimeeluuji walla kabaruuji karal keredi.
+certerror-expired-cert-sts-second-para = Ina gasa tawa sartifikaa lowre geese ndee ko buntuɗo, ko ɗuum haɗata { -brand-short-name } seŋoraade kisal.
+certerror-what-can-you-do-about-it-title = Ko mbaaw-ɗaa heen?
+certerror-unknown-issuer-what-can-you-do-about-it-website = Ina gasa tawa saɗeende ndee jotondiri ko e lowre geese ndee, alaa ko mbaaw-ɗaa waɗde ngam safrude ɗum.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = So tawii ngon-ɗaa ko e laylaytol antampiris walla so tawii aɗa huutoroo lidduwiris, aɗa waawi jokkondirde e kippuuji tammbol ngam heɓde ballal. Aɗa waawi kadi humpitde jiiloowo lowre geese ndee saɗeende ndee.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Montoor ordinateer maa tuugii ko e { DATETIME($now, dateStyle: "medium") }. Yenane ñalngu, waktu e jurol waktu ordinateer ina teeltiraa no moƴƴi to teelte yuɓɓo too, caggal ɗuum loowtaa <b>{ $hostname }</b>
+certerror-expired-cert-what-can-you-do-about-it-contact-website = So tawii montoor maa reglaa ko e waktu moƴƴo oo, ina gasa tawa ko lowre geese ndee woni nde feewaani, ndeen noon a waawaa safrude saɗeende ndee. Aɗa waawi humptide jiiloowo lowre ndee saɗeende ndee.
+certerror-bad-cert-domain-what-can-you-do-about-it = Ellee saɗeende ndee jotondiri ko e lowre geese ndee tee a waawaa safrude nde. Aɗa waawi humpitde jiiloowo lowre geese ndee saɗeende ndee.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ina jogii politik kisal biyeteengal HSTS (HTTP Strict Transport Security), ɗum firti ko { -brand-short-name } seŋortoo tan ko e kisal. A waawaa ɓeydude luulndal ngam yillaade ndee lowre.
