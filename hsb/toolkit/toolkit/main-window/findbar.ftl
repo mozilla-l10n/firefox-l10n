@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Spěšne pytanje (jenož wotkazy)
 findbar-case-sensitive-status =
     .value = (Na wulkopisanje dźiwać)
+findbar-match-diacritics-status =
+    .value = (dźiwa na diakritikiske znamješka)
 findbar-entire-word-status =
     .value = (Jenož cyłe słowa)
 # Variables:
