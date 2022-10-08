@@ -14,11 +14,13 @@ neterror-malformed-uri-page-title = Neveljaven URL
 
 neterror-copy-to-clipboard-button = Kopiraj besedilo v odložišče
 neterror-learn-more-link = Več o tem …
+neterror-pref-reset-button = Obnovi privzete nastavitve
 neterror-return-to-previous-page-button = Nazaj
 neterror-try-again-button = Poskusi znova
 
 ##
 
+neterror-pref-reset = Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?
 
 ## Specific error messages
 
