@@ -32,6 +32,8 @@ findbar-entire-word =
     .accesskey = m
     .tooltiptext = Cercar sonque los mots entièrs
 findbar-not-found = Frasa pas trobada
+findbar-wrapped-to-top = Bas de la pagina atenh, contunhar del començament
+findbar-wrapped-to-bottom = Naut de la pagina atenh, contunhar del bas
 findbar-normal-find =
     .placeholder = Recercar dins la pagina
 findbar-fast-find =
@@ -40,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Recèrca rapida (ligams solament)
 findbar-case-sensitive-status =
     .value = (Sensible a la cassa)
+findbar-match-diacritics-status =
+    .value = (Respècte dels diacritics)
 findbar-entire-word-status =
     .value = (Pas que de mots entièrs)
 # Variables:
