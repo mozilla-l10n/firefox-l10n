@@ -2,152 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title "Puku ya Diaterese">
 <!-- File Menu -->
-
-<!ENTITY fileMenu.label "Faele">
-<!ENTITY fileMenu.accesskey "f">
-<!ENTITY newMenu.label "Mpsha">
-<!ENTITY newMenu.accesskey "M">
-<!ENTITY newListCmd.label "Lenaneo la Diaterese...">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newListCmd.accesskey "L">
-<!ENTITY newAddressBookCmd.label "Aterese Puku...">
-<!ENTITY newAddressBookCmd.accesskey "P">
-<!ENTITY newLDAPDirectoryCmd.label "Tšhupamegala ya LDAP...">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newLDAPDirectoryCmd.accesskey "D">
-<!ENTITY newMessageCmd.label "Molaetša">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.accesskey "m">
-<!ENTITY closeCmd.label "Tswalela">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "t">
-<!ENTITY printAddressBook.label "Gatiša Puku ya Diaterese...">
-<!ENTITY printAddressBook.accesskey "P">
 
 <!-- Edit Menu -->
 
-<!ENTITY editMenu.label "Rulaganya">
-<!ENTITY editMenu.accesskey "r">
-<!ENTITY deleteCmd.label "Phumula">
-<!ENTITY deleteAbCmd.label "Phumula Puku ya Diaterese">
-<!ENTITY searchAddressesCmd.key "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
-<!ENTITY viewMenu.label "Lebelela">
-<!ENTITY viewMenu.accesskey "l">
-<!ENTITY viewToolbarsMenu.label "Dithulupaa">
-<!ENTITY viewToolbarsMenu.accesskey "D">
-<!ENTITY showAbToolbarCmd.label "Thulupaa ya Puku ya Diaterese">
-<!ENTITY showAbToolbarCmd.accesskey "u">
-<!ENTITY showTaskbarCmd.label "Paa ya Boemo">
-<!ENTITY showTaskbarCmd.accesskey "P">
-<!ENTITY customizeToolbar.label "Tlwaetša...">
-<!ENTITY customizeToolbar.accesskey "T">
-<!ENTITY menu_ShowNameAs.label "Laetša Fa Leina Go ba">
-<!ENTITY menu_ShowNameAs.accesskey "f">
-<!ENTITY lastFirstCmd.label "Mafelelo, Mathomo">
-<!ENTITY lastFirstCmd.accesskey "f">
-<!ENTITY displayNameCmd.label "Bontšha Leina">
-<!ENTITY displayNameCmd.accesskey "b">
-<!ENTITY sortMenu.label "Hlaola ka">
-<!ENTITY sortMenu.accesskey "H">
 <!-- Tools Menu -->
 
-<!ENTITY tasksMenu.label "Dithuluse">
-<!ENTITY tasksMenu.accesskey "D">
-<!ENTITY messengerCmd.label "Posa &amp; Dihlopha tša ditaba">
-<!ENTITY messengerCmd.accesskey "p">
-<!ENTITY messengerCmd.commandkey "1">
-<!ENTITY searchAddressesCmd.label "Nyaka Diaterese...">
-<!ENTITY searchAddressesCmd.accesskey "N">
-<!ENTITY importCmd.label "Amogeladitšwantle...">
-<!ENTITY importCmd.accesskey "A">
-<!ENTITY exportCmd.label "Romelantle...">
-<!ENTITY exportCmd.accesskey "R">
 <!-- Help Menu -->
 
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newlistButton.label "Lenaneo le Leswa">
-<!ENTITY newlistButton.accesskey "L">
-
-<!ENTITY newmsgButton.label "Ngwala">
-<!ENTITY newmsgButton.accesskey "N">
-<!ENTITY newIM.label "Molaetša wa Potlako">
-<!ENTITY newIM.accesskey "M">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newlistButton.tooltip "Hlama lenaneo le lefsa">
-<!ENTITY newmsgButton.tooltip "Romela molaetša wa poso">
-<!ENTITY newIM.tooltip "Romela molaetša goba kgang ya potlako">
 <!-- Dir Tree header -->
 
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Leina goba Eposo">
-<!ENTITY SearchNameOrEmail.accesskey "L">
-<!ENTITY advancedButton.tooltip "Setšha diaterese ye e gatetšego pele">
-<!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchItem.title "Quick Search">
 <!-- Results Pane -->
 
 <!ENTITY GeneratedName.label "Leina">
-<!ENTITY GeneratedName.accesskey "L">
 <!ENTITY PrimaryEmail.label "Eposo">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "Mokgahlo">
-<!ENTITY Company.accesskey "h">
-<!ENTITY NickName.label "Leina la dikwero">
-<!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "Eposo ya tlaleletšo">
-<!ENTITY SecondEmail.accesskey "o">
-<!ENTITY Department.label "Kgoro">
-<!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "Thaetlele">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "Selefounu">
-<!ENTITY CellularNumber.accesskey "S">
-<!ENTITY PagerNumber.label "Pheija">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY FaxNumber.label "Fekese">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "Mogala wa ka Lapeng">
-<!ENTITY HomePhone.accesskey "M">
-<!ENTITY WorkPhone.label "Mogala wa Mošomong">
-<!ENTITY WorkPhone.accesskey "M">
-<!ENTITY sortAscending.label "Rotoga">
-<!ENTITY sortAscending.accesskey "R">
-<!ENTITY sortDescending.label "Theoga">
-<!ENTITY sortDescending.accesskey "T">
-<!ENTITY _PhoneticName.label "Leina la Fonetiki">
-<!ENTITY _PhoneticName.accesskey "o">
 <!-- Results pane context menu -->
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
-<!ENTITY contact.heading "Kgokagano">
-<!ENTITY home.heading "Lapeng">
-<!ENTITY other.heading "Ye nngwe">
-<!ENTITY phone.heading "Mogala">
-<!ENTITY work.heading "Mošomong">
-<!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "Tlhaloso">
-<!ENTITY addresses.heading "Diaterese">
-<!-- For Map It! -->
-<!ENTITY mapItButton.label "Hwetša Mmepe">
-<!ENTITY mapIt.tooltip "Bontšha mmepe wa aterese ye go tšwa go Wepe">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Lefasetere">
-<!ENTITY minimizeWindow.label "Fokotša">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Tliša ka moka ka Pele">
-<!ENTITY zoomWindow.label "Gola ka lebelo">
