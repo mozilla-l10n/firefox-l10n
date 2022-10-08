@@ -37,6 +37,8 @@ neterror-dns-not-found-hint-header = <strong>Če je vneseni naslov pravi, lahko:
 neterror-dns-not-found-hint-try-again = poskusite znova pozneje
 neterror-dns-not-found-hint-check-network = preverite povezavo z omrežjem
 neterror-dns-not-found-hint-firewall = preverite, da ima { -brand-short-name } dovoljenje za dostop do spleta (morda ste povezani, vendar za požarnim zidom)
+neterror-file-not-found-filename = Preverite, ali so bile velike in male črke v imenu datoteke pravilno uporabljene in da ni drugih tipkarskih napak.
+neterror-file-not-found-moved = Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.
 neterror-access-denied = Morda je bila odstranjena, premaknjena ali pa dovoljenja datoteke preprečujejo dostop.
 neterror-unknown-protocol = Za odpiranje tega naslova boste morda morali namestiti dodaten program.
 neterror-redirect-loop = Težavo lahko povzroča onemogočanje ali zavračanje piškotkov.
@@ -64,6 +66,8 @@ certerror-sts-intro = { -brand-short-name } je zaznal morebitno varnostno grožn
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } je zaznal težavo in ni nadaljeval na <b>{ $hostname }</b>. Spletna stran je nepravilno nastavljena ali pa je ura računalnika nastavljena na napačen čas.
+neterror-corrupted-content-intro = Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.
+neterror-corrupted-content-contact-website = O napaki obvestite lastnike spletne strani.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Napredni podatki: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -82,6 +86,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Če ste poveza
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = Ura vašega računalnika je nastavljena na datum { DATETIME($now, dateStyle: "medium") }. V nastavitvah sistema nastavite računalnik na pravilen datum in čas ter časovni pas, nato osvežite <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Če je ura že nastavljena pravilno, je težava verjetno v spletni strani in je sami ne morete odpraviti. O njej lahko obvestite skrbnika spletne strani.
+certerror-bad-cert-domain-what-can-you-do-about-it = Težava je najverjetneje na spletni strani, zato je sami ne morete odpraviti. Lahko pa obvestite skrbnika spletne strani.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> uporablja varnostni pravilnik, imenovan HTTP Strict Transport Security (HSTS), kar pomeni, da se lahko { -brand-short-name } nanjo poveže zgolj varno. Za obisk te strani ne morete dodati izjeme.
