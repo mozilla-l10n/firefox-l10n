@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = De folgjende oerienkomst fan de tekst sykje
 findbar-previous =
     .tooltiptext = De foarige oerienkomst fan de tekst sykje
-
 findbar-find-button-close =
     .tooltiptext = Sykbalke slute
-
 findbar-highlight-all2 =
     .label = Alles markearje
     .accesskey =
@@ -21,18 +19,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Alle foarkommen fan de tekst markearje
-
 findbar-case-sensitive =
     .label = Haadlettergefoelich
     .accesskey = H
     .tooltiptext = Haadlettergefoelich sykje
-
 findbar-match-diacritics =
     .label = Diakrityske tekens brûke
     .accesskey = k
     .tooltiptext = Meitsje ûnderskied tusken letters mei aksinten en harren basistekens (sa is bygelyks by it sykjen nei ‘resume’ gjin oerienkomst mei ‘resumé’)
-
 findbar-entire-word =
     .label = Hiele wurden
     .accesskey = e
     .tooltiptext = Allinnich hiele wurden sykje
+findbar-case-sensitive-status =
+    .value = (Haadlettergefoelich)
