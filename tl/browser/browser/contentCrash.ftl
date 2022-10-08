@@ -5,6 +5,12 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Bumagsak ang parte ng pahinang ito.</strong> Upang ipaalam sa { -brand-product-name } ang tungkol sa isyung ito at mas mabilis itong maayos, mangyaring magsumite ng ulat.
+crashed-subframe-learnmore-link =
+    .value = Alamin
+crashed-subframe-submit =
+    .label = Magsumite ng ulat
+    .accesskey = s
 
 ## Pending crash reports
 
