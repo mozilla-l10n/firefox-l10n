@@ -10,3 +10,5 @@
 
 pending-crash-reports-view-all =
     .label = Прикажи
+pending-crash-reports-send =
+    .label = Пошаљи
