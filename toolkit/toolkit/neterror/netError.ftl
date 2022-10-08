@@ -8,6 +8,7 @@
 
 ## Error page actions
 
+neterror-try-again-button = ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 
 ##
 
@@ -15,6 +16,9 @@
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ਕੁਝ ਕਾਰਨਾਂ ਕਰਕੇ ਇਹ ਪੇਜ਼ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।
+neterror-load-error-try-again = ਸਾਇਟ ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਅਣ-ਉਪਲੱਬਧ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਬਹੁਤ ਰੁੱਝੀ ਹੋ ਹੋ ਸਕਦੀ ਹੈ। ਕੁਝ ਪਲਾਂ ਬਾਅਦ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+neterror-load-error-connection = ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਪੇਜ਼ ਲੋਡ ਕਰਨ ਲਈ ਅਸਫ਼ਲ ਹੋ ਤਾਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦੇ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਨੂੰ ਚੈੱਕ ਕਰੋ।
+neterror-load-error-firewall = ਜੇ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਜਾਂ ਨੈੱਟਵਰਕ ਫਾਇਰਵਾਲ ਜਾਂ ਪਰਾਕਸੀ ਰਾਹੀਂ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਹੈ ਤਾਂ ਯਕੀਨੀ ਬਣਾਓ ਕਿ { -brand-short-name } ਨੂੰ ਵੈੱਬ ਵਰਤਣ ਲਈ ਅਧਿਕਾਰ ਹੈ।
 neterror-redirect-loop = ਇਹ ਸਮੱਸਿਆ ਕੁਝ ਵਾਰ ਕੂਕੀਜ਼ ਨੂੰ ਆਯੋਗ ਕਰਨ ਜਾਂ ਲੈਣ ਤੋਂ ਇਨਕਾਰ ਕਰਕੇ ਆ ਸਕਦੀ ਹੈ।
 neterror-proxy-resolve-failure-settings = ਪਰਾਕਸੀ ਸੈਟਿੰਗ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ ਉਹ ਠੀਕ ਹਨ।
 neterror-proxy-resolve-failure-connection = ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਚੱਲਦਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਹੈ।
