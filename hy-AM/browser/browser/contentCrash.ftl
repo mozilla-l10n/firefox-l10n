@@ -5,6 +5,11 @@
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Իմանալ ավելին
+crashed-subframe-submit =
+    .label = Ուղարկել զեկույց
+    .accesskey = S
 
 ## Pending crash reports
 
