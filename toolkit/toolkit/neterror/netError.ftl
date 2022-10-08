@@ -7,6 +7,7 @@
 
 neterror-page-title = பக்கத்தை ஏற்றுவதில் சிக்கல்
 neterror-captive-portal-page-title = பிணையத்தினுள் புகுபதிகை
+neterror-dns-not-found-title = சேவையகம் கிடைக்கவில்லை
 
 ## Error page actions
 
