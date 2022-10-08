@@ -31,6 +31,10 @@ findbar-entire-word =
     .label = 단어 단위로
     .accesskey = w
     .tooltiptext = 단어 단위로 일치하는 경우만 검색합니다
+findbar-match-diacritics-status =
+    .value = (일치하는 분음 부호)
+findbar-entire-word-status =
+    .value = (단어 단위로)
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
