@@ -23,12 +23,18 @@ neterror-error-reporting-automatic = Rapportar talas errurs per gidar a { -vendo
 
 ## Specific error messages
 
+neterror-generic-error = { -brand-short-name } na po betg chargiar questa pagina per tscherts motivs.
 neterror-load-error-try-again = Eventualmain n'è la website temporarmain betg cuntanschibla. Emprova per plaschair pli tard anc ina giada.
 neterror-load-error-connection = Sche ti na pos era betg chargiar in'autra website, controllescha per plaschair la connexiun a l'internet / a la rait.
 neterror-load-error-firewall = Sche tes computer u tia rait èn protegids d'ina firewall u d'in proxy, controllescha per plaschair schebain { -brand-short-name } dastga acceder a l'internet.
 neterror-captive-portal = Ti stos t'annunziar en questa rait avant che ti pos acceder a l'internet.
+neterror-file-not-found-filename = Controllescha sch'il num da datoteca cuntegna in sbagl da scripziun grond u pitschen u auters sbagls da tippar.
+neterror-file-not-found-moved = Controllescha sche la datoteca è vegnida renumnada, stizzada u spustada.
 neterror-access-denied = Forsa è ella stizzada, spustada u che ti n'es betg autorisà per l'access.
 neterror-unknown-protocol = Ti stos eventualmain installar ulteriura software per avrir questa adressa.
+neterror-not-cached-intro = Il document dumandà n'è betg disponibel en il cache da { -brand-short-name }.
+neterror-not-cached-sensitive = Sco mesira da precauziun na rechargia { -brand-short-name } betg automaticamain documents delicats.
+neterror-not-cached-try-again = Clicca sin Empruvar danovamain per rechargiar il document da la website.
 neterror-net-offline = Clicca sin “Empruvar anc ina giada” per midar en il modus online e rechargiar la pagina.
 neterror-proxy-connect-failure-settings = Controllescha ch'ils parameters dal proxy server sajan corrects.
 neterror-proxy-connect-failure-contact-admin = Contactescha l'administratur da tia rait per far la segira ch'il proxy server è en funcziun.
