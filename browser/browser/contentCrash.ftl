@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Một phần của trang này đã bị vớ.</strong> Để { -brand-product-name } biết về lỗi này và sửa nó nhanh hơn, vui lòng báo cáo nó.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Một phần của trang này đã bị lỗi. Để cho { -brand-product-name } biết về vấn đề này và khắc phục sự cố nhanh hơn, vui lòng gửi báo cáo.
+crashed-subframe-learnmore-link =
+    .value = Tìm hiểu thêm
+crashed-subframe-submit =
+    .label = Gửi báo cáo
+    .accesskey = S
 
 ## Pending crash reports
 
