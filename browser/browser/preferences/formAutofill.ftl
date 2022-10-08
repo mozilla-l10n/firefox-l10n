@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = සුරැකි ලිපින
 autofill-manage-addresses-list-header = ලිපින
+
 autofill-manage-credit-cards-title = සුරැකි ණය පත්
 autofill-manage-credit-cards-list-header = ණය පත්
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ඉවත් කරන්න
@@ -21,6 +23,7 @@ autofill-manage-edit-button = සංස්කරණය…
 autofill-add-new-address-title = නව ලිපිනයක් යොදන්න
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ලිපිනය සංස්කරණය
+
 autofill-address-given-name = මුල් නම
 autofill-address-additional-name = මැද නම
 autofill-address-family-name = අග නම
@@ -81,13 +84,16 @@ autofill-address-eircode = Eirකේතය
 autofill-address-country = රට හෝ කලාපය
 autofill-address-tel = දුරකථනය
 autofill-address-email = වි-තැපෑල
+
 autofill-cancel-button = අවලංගු කරන්න
 autofill-save-button = සුරකින්න
 autofill-country-warning-message = ආකෘති ස්වයං පිරවුම දැනට තිබෙන්නේ ඇතැම් රටවල් සඳහා පමණයි.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = නව ණය පතක් යොදන්න
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ණයපත සංශෝධනය
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ගබඩා කළ ණයපත් තොරතුරු පෙන්වීමට උත්සාහ කරයි. මෙම වින්ඩෝස් ගිණුමට ප්‍රවේශය පහතින් තහවුරු කරන්න.
        *[other] { -brand-short-name } ණය පතෙහි තොරතුරු පෙන්වීමට උත්සාහ කරයි.
     }
+
 autofill-card-number = ණයපත් අංකය
 autofill-card-invalid-number = වලංගු ණයපත් අංකයක් යොදන්න
 autofill-card-name-on-card = ණයපත මත නම

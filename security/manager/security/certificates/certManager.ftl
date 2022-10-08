@@ -4,90 +4,126 @@
 
 certmgr-title =
     .title = සහතික කළමනාකරු
+
 certmgr-tab-mine =
     .label = ඔබගේ සහතික
+
 certmgr-tab-remembered =
     .label = සත්‍යාපන තීරණ
+
 certmgr-tab-people =
     .label = පුද්ගලයින්
+
 certmgr-tab-servers =
     .label = සේවාදායක
+
 certmgr-tab-ca =
     .label = අධිකාරි
+
 certmgr-mine = මෙම සංවිධාන වෙතින් ඔබව හඳුනාගත හැකි සහතික ඔබ සතුව ඇත
 certmgr-people = මෙම පුද්ගලයින් හඳුනාගත හැකි සහතික ඇතුළත් ගොනුවක් ඔබ සතුව ඇත
 certmgr-ca = මෙම සහතික අධිකාරි හඳුනාගත හැකි සහතික ඇතුළත් ගොනුවක් ඔබ සතුව ඇත
+
 certmgr-edit-ca-cert =
     .title = CA සහතිකයේ විශ්වාස සැකසුම් සංස්කරණය
     .style = width: 48em;
+
 certmgr-edit-ca-cert2 =
     .title = CA සහතිකයේ විශ්වාස සැකසුම් සංස්කරණය
     .style = min-width: 48em;
+
 certmgr-edit-cert-edit-trust = විශ්වාස සැකසුම් සංස්කරණය:
+
 certmgr-edit-cert-trust-ssl =
     .label = මෙම සහතිකයෙන් අඩවි හඳුනාගත හැකිය.
+
 certmgr-edit-cert-trust-email =
     .label = මෙම සහතිකයෙන් තැපැල් පරිශීලකයින් හඳුනාගත හැකිය.
+
 certmgr-delete-cert =
     .title = සහතිකය මකන්න
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = සහතිකය මකන්න
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-host =
     .label = සත්කාරකය
+
 certmgr-cert-name =
     .label = සහතිකයේ නම
+
 certmgr-cert-server =
     .label = සේවාදායකය
+
 certmgr-override-lifetime =
     .label = සැමදා
+
 certmgr-token-name =
     .label = ආරක්‍ෂණ උපාංගය
+
 certmgr-expires-label =
     .label = කල් ඉකුත් වීම
+
 certmgr-email =
     .label = වි-තැපැල් ලිපිනය
+
 certmgr-serial =
     .label = අනුක්‍රමික අංකය
+
 certmgr-edit =
     .label = විශ්වාසය සංස්කරණය...
     .accesskey = E
+
 certmgr-export =
     .label = නිර්යාත…
     .accesskey = x
+
 certmgr-delete =
     .label = මකන්න…
     .accesskey = D
+
 certmgr-delete-builtin =
     .label = මකන්න හෝ අවිශ්වාස...
     .accesskey = D
+
 certmgr-backup =
     .label = උපස්ථ...
     .accesskey = B
+
 certmgr-backup-all =
     .label = සියල්ල උපස්ථ කරන්න...
     .accesskey = k
+
 certmgr-restore =
     .label = ආයාත…
     .accesskey = m
+
 certmgr-add-exception =
     .label = හැරදැමීමක් යොදන්න…
     .accesskey = x
+
 exception-mgr =
     .title = ආරක්‍ෂණ හැරදැමීමක් යොදන්න
+
 exception-mgr-extra-button =
     .label = ආරක්‍ෂණ හැරදැමීම තහවුරුව
     .accesskey = C
+
 exception-mgr-supplemental-warning = නීත්‍යානුකූල බැංකු, වෙළඳසැල් සහ වෙනත් පොදු අඩවි මෙය කිරීමට අසන්නේ නැත.
+
 exception-mgr-cert-location-url =
     .value = ස්ථානය:
+
 exception-mgr-cert-location-download =
     .label = සහතිකය ගන්න
     .accesskey = G
+
 exception-mgr-permanent =
     .label = මෙම හැරදැමීම ස්ථිරව තබාගන්න
     .accesskey = P
+
 pk11-bad-password = ඇතුල් කළ මුරපදය වැරදියි.
 pkcs12-decode-err = ගොනුව විකේතනය කිරීමට අසමත් විය. එය PKCS #12 ආකෘතියේ නැත, හෝ හානි වී ඇත, නැතහොත් ඔබ ඇතුල් කළ මුරපදය වැරදිය.
 pkcs12-unknown-err-restore = නොදන්නා හේතු නිසා PKCS #12 ගොනුව ප්‍රත්‍යර්පණයට අසමත් විය.
@@ -119,22 +155,29 @@ delete-user-cert-title =
     .title = ඔබගේ සහතික මකන්න
 delete-user-cert-confirm = මෙම සහතික මැකීමට අවශ්‍ය බවට ඔබට විශ්වාසද?
 delete-user-cert-impact = ඔබගේම සහතිකයක් මකා දැමුවහොත්, තවදුරටත් එය ඔබව හඳුනා ගැනීමට භාවිත කළ නොහැකිය.
+
+
 delete-ca-cert-title =
     .title = CA සහතික මකන්න හෝ අවිශ්වාස කරන්න
 delete-ca-cert-confirm = ඔබ මෙම CA සහතික මකා දැමීමට ඉල්ලා ඇත. නිර්මිත සහතික සඳහා සියළු විශ්වාස ද ඉවත් කරනු ලැබේ. ඔබට මැකීමට හෝ අවිශ්වාස කිරීමට අවශ්‍ය බව විශ්වාසද?
 delete-ca-cert-impact = ඔබ සහතික අධිකාරියක (CA) සහතිකයක් මැකීම හෝ අවිශ්වාස කරන්නේ නම්, මෙම යෙදුම එම CA විසින් නිකුත් කරන ලද කිසිදු සහතිකයක් තවදුරටත් විශ්වාස නොකරයි.
+
+
 delete-email-cert-title =
     .title = වි-තැපැල් සහතික මකන්න
 delete-email-cert-confirm = මෙම පුද්ගලයින්ගේ වි-තැපැල් සහතික මැකීමට අවශ්‍ය බව ඔබට විශ්වාසද?
 delete-email-cert-impact = ඔබ කිසිවෙකුගේ වි-තැපැල් සහතිකයක් මකා දැමුවහොත් එම පුද්ගලයා වෙත සංකේතිත වි-තැපෑලක් යැවීමට නොහැකිය.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = අනුක්‍රමික අංකය සහිත සහතිකය: { $serialNumber }
+
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (ගබඩා කර නැත)
+
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (නොතිබේ)
 

@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = පොත්යොමු
+
 sidebar-menu-history =
     .label = ඉතිහාසය
+
 sidebar-menu-synced-tabs =
     .label = සමමුහූර්ත පටිති
+
 sidebar-menu-close =
     .label = පැති තීරුව වසන්න
+
 sidebar-close-button =
     .tooltiptext = පැති තීරුව වසන්න

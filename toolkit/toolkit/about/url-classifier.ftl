@@ -37,6 +37,7 @@ url-classifier-debug-sb-modules = ආරක්‍ෂිත පිරික්ස
 url-classifier-debug-modules = වත්මන් සටහන් ඒකක
 url-classifier-debug-sbjs-modules = ආරක්‍ෂිත පිරික්සුම් JS සටහන
 url-classifier-debug-file = වත්මන් සටහන් ගොනුව
+
 url-classifier-not-available = අ/නොවේ
 url-classifier-disable-sbjs-log = ආරක්‍ෂිත පිරික්සුම් JS සටහන අබල කරන්න
 url-classifier-enable-sbjs-log = ආරක්‍ෂිත පිරික්සුම් JS සටහන සබල කරන්න

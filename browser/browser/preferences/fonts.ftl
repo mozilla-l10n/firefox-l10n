@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = මුද්‍රණ අකුරු
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = මුද්‍රණ අකුරු
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = අරාබි
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = සමානුපාතික
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = තරම
     .accesskey = z
+
 fonts-serif = සෙරිෆ්
     .accesskey = S
+
 fonts-sans-serif = සාන්ස් සෙරිෆ්
     .accesskey = n
+
 fonts-monospace = එකසම
     .accesskey = M
+
 fonts-monospace-size = තරම
     .accesskey = e
+
 fonts-minsize = අකුරේ අවම ප්‍රමාණය
     .accesskey = o
+
 fonts-minsize-none =
     .label = කිසිවක් නැත
+
 fonts-allow-own =
     .label = ඉහත ඔබගේ තේරීම් වෙනුවට පිටුවලට ඒවායේ අකුරු යොදා ගැනීමට ඉඩ දෙන්න
     .accesskey = A
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

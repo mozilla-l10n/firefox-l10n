@@ -19,6 +19,7 @@ open-location = සොයන්න හෝ ලිපිනය යොදන්න
 share = බෙදාගන්න
 close-window = කවුළුව වසන්න
 open-sidebar = පැති තීරු
+
 # This string describes shortcuts for search.
 search-popover = කෙටිමං සොයන්න
 

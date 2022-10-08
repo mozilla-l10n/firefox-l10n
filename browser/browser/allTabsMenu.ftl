@@ -5,10 +5,13 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = පටිතිවල සොයන්න
+
 all-tabs-menu-new-user-context =
     .label = නව පටිති අඩංගුව
+
 all-tabs-menu-hidden-tabs =
     .label = සැඟවුණු පටිති
+
 all-tabs-menu-manage-user-context =
     .label = අඩංගු කළමනාකරණය
     .accesskey = o

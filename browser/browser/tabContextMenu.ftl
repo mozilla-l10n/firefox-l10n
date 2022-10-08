@@ -103,6 +103,7 @@ tab-context-move-tabs =
            *[other] පටිති ගෙනයන්න
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

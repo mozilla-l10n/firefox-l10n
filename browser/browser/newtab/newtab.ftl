@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = සොයන්න
     .aria-label = සොයන්න
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = සොයන්න හෝ ලිපිනය යොදන්න
     .title = සොයන්න හෝ ලිපිනය යොදන්න
     .aria-label = සොයන්න හෝ ලිපිනය යොදන්න
+
 newtab-search-box-text = වියමනහි සොයන්න
 newtab-search-box-input =
     .placeholder = වියමනහි සොයන්න
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = කෙටිමඟ සංස්කරණ�
 newtab-topsites-title-label = සිරැසිය
 newtab-topsites-title-input =
     .placeholder = සිරැසියක් යොදන්න
+
 newtab-topsites-url-label = ඒ.ස.නි.
 newtab-topsites-url-input =
     .placeholder = ඒ.ස.නි. ලියන්න හෝ අලවන්න
 newtab-topsites-url-validation = වලංගු ඒ.ස.නි. අවශ්‍ය වේ
+
 newtab-topsites-image-url-label = අභිරුචි රූපයේ ඒ.ස.නි.
 newtab-topsites-use-image-link = අභිරුචි රූපයක් යොදා ගන්න...
 newtab-topsites-image-validation = රූපය පූරණයට අසමත් විය. අන් ඒ.ස.නි. බලන්න.
@@ -79,10 +83,12 @@ newtab-topsite-sponsored = අනුග්‍රහය ලද
 newtab-menu-section-tooltip =
     .title = වට්ටෝරුව අරින්න
     .aria-label = වට්ටෝරුව අරින්න
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ඉවත් කරන්න
     .aria-label = ඉවත් කරන්න
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -144,14 +150,17 @@ newtab-label-bookmarked = පොත්යොමුවකි
 newtab-label-removed-bookmark = පොත්යොමුව ඉවත් කළා
 newtab-label-saved = { -pocket-brand-name } හි සුරැකිණි
 newtab-label-download = බාගත විය
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · අනුග්‍රහය ලද
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = { $sponsor } මගින් අනුග්‍රහය ලද
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -205,9 +214,11 @@ newtab-pocket-more-recommendations = තවත් නිර්දේශ
 newtab-pocket-learn-more = තව දැනගන්න
 newtab-pocket-cta-button = { -pocket-brand-name } ගන්න
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } යනු { -brand-product-name } පවුලේ කොටසකි
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } වෙත සුරකින්න
 newtab-pocket-saved-to-pocket = { -pocket-brand-name } වෙත සුරකින්න
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = තවත් කතා පූරණය
 
@@ -215,6 +226,7 @@ newtab-pocket-load-more-stories-button = තවත් කතා පූරණය
 ## This is for the final card in the Pocket grid.
 
 newtab-pocket-last-card-desc = තවත් දෑ සඳහා පසුව බලන්න.
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = සුරකින්න
 newtab-pocket-saved = සුරැකිණි

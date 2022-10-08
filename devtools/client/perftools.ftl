@@ -28,6 +28,7 @@ perftools-range-interval-milliseconds = මි.ත. { NUMBER($interval, maxFract
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = අන්තරාච ප්‍රමාණය:
+
 perftools-devtools-interval-label = අන්තරය:
 perftools-devtools-settings-label = සැකසුම්
 
@@ -67,12 +68,18 @@ perftools-button-edit-settings = සැකසුම් සංස්කරණය.
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = වියමන සංවර්ධක
+
 perftools-presets-firefox-label = { -brand-shorter-name }
+
 perftools-presets-graphics-label = මාධ්‍යරූප
+
 perftools-presets-media-label = මාධ්‍ය
+
 perftools-presets-networking-label = ජාලකරණය
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = බලය
+
 perftools-presets-custom-label = අභිරුචි
 
 ##

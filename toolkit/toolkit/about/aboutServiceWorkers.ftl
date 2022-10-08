@@ -19,7 +19,10 @@ origin-title = මූලය: { $originTitle }
 
 active-cache-name = <strong>සක්‍රිය නිහිතයේ නම:</strong> { $name }
 waiting-cache-name = <strong>නිහිතයේ නම සඳහා රැඳෙමින්:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = යාවත්කාල
+
 unregister-button = ලියාපදිංචිය ඉවතට
+
 waiting = රැඳී සිටියි…

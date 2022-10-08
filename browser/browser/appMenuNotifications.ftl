@@ -36,6 +36,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = දැන් නොවේ
     .secondarybuttonaccesskey = N
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = හරි
     .buttonaccesskey = O
@@ -43,6 +44,7 @@ appmenu-addon-post-install-message3 = යෙදුමේ වට්ටෝරු�
 appmenu-addon-post-install-incognito-checkbox =
     .label = මෙම දිගුවට පෞද්. කවුළුවල ධාවනය වීමට ඉඩ දෙන්න
     .accesskey = A
+
 appmenu-new-tab-controlled-changes =
     .label = ඔබගේ නව පටිත්ත වෙනස් වී ඇත.
     .buttonlabel = වෙනස්කම් තබාගන්න
