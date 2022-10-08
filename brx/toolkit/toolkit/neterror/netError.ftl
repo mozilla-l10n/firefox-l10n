@@ -7,12 +7,17 @@
 
 neterror-page-title = बिलाइखौ ल'ड खालामनायाव जानाय जेंना
 neterror-blocked-by-policy-page-title = ब्लक जानाय बिलाइ
+neterror-captive-portal-page-title = नेटॱवर्क अव लगॱइन खालाम
+neterror-dns-not-found-title = सारभार मोनाखौ
+neterror-malformed-uri-page-title = बाहायजायै URL
 
 ## Error page actions
 
 neterror-advanced-button = जौगाहोनाय…
 neterror-learn-more-link = गोबां सोलों
+neterror-return-to-previous-page-button = उनथिं थांफिन
 neterror-try-again-button = फिन नाजा
+neterror-view-certificate-link = चार्टिफिकेटखौ नाय
 
 ##
 
