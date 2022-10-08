@@ -8,6 +8,13 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Un rapòrt de plantatge foguèt pas mandat
+       *[other] I a { $reportCount } rapòrts de plantatge non mandats
+    }
 pending-crash-reports-view-all =
     .label = Afichar
 pending-crash-reports-send =
