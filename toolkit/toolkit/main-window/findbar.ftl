@@ -26,3 +26,20 @@ findbar-fast-find-links =
     .placeholder = പെട്ടെന്നുള്ള തെരച്ചില്‍ (ലിങ്കുകള്‍ മാത്രം):
 findbar-case-sensitive-status =
     .value = (കേസ് സെന്‍സിറ്റീവ്)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } / { $total } പൊരുത്തം
+           *[other] { $current } / { $total } പൊരുത്തങ്ങള്‍
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } പൊരുത്തത്തില്‍ കൂടുതല്‍
+           *[other] { $limit } പൊരുത്തങ്ങളില്‍ കൂടുതല്‍
+        }
