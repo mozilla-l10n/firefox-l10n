@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Жылдам табу (тек сілтемелер ғана):
 findbar-case-sensitive-status =
     .value = (Регистрді ескеру)
+findbar-match-diacritics-status =
+    .value = (Диакритиканы ескеру)
 findbar-entire-word-status =
     .value = (Тек толық сөздер)
 # Variables:
