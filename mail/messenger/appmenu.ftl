@@ -18,10 +18,13 @@
 ## View / Layout
 
 appmenu-font-size-value = Skriftstorleik
+
 appmenuitem-font-size-enlarge =
     .tooltiptext = Auk skriftstorleiken
+
 appmenuitem-font-size-reduce =
     .tooltiptext = Reduser skriftstorleiken
+
 # Variables:
 # $size (String) - The current font size.
 appmenuitem-font-size-reset =
@@ -36,3 +39,4 @@ appmenuitem-font-size-reset =
 appmenu-help-share-feedback =
     .label = Del idear og tilbakemeldingar
     .accesskey = D
+

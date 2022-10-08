@@ -16,8 +16,10 @@ openpgp-one-recipient-status-open-details =
     .label = Opne detaljar og rediger godkjenning…
 openpgp-one-recipient-status-discover =
     .label = Oppdag ny eller oppdatert nøkkel
+
 openpgp-one-recipient-status-instruction1 = For å sende ei ende-til-ende-kryptert melding til ein mottaker, må du skaffe deg den offentlege OpenPGP-nøkkelen deira og merke han som godkjend.
 openpgp-one-recipient-status-instruction2 = For å få den offentlege nøkkelen, importer han frå e-posten sendt til deg, og som inkluderer han. Alternativt kan du prøve å finne den offentlege nøkkelen i ein katalog.
+
 openpgp-key-own = Godkjend (personleg nøkkel)
 openpgp-key-secret-not-personal = Ubrukande
 openpgp-key-verified = Godkjend (stadfesta)
@@ -25,5 +27,8 @@ openpgp-key-unverified = Godkjend (ikkje stadfesta)
 openpgp-key-undecided = Ikkje godkjend (ikkje bestemt)
 openpgp-key-rejected = Ikkje godkjend (avvist)
 openpgp-key-expired = Utgått
+
 openpgp-intro = Tilgjengelege offentlege nøklar for { $key }
+
 openpgp-pubkey-import-id = ID: { $kid }
+
