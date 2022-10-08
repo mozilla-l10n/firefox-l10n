@@ -43,7 +43,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Розмір буфера:
+
 perftools-custom-threads-label = Додати власні потоки за назвою:
+
 perftools-devtools-interval-label = Інтервал:
 perftools-devtools-threads-label = Потоки:
 perftools-devtools-settings-label = Налаштування
@@ -113,6 +115,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Обходити вибране вгорі й записувати всі зареєстровані потоки
+
 perftools-tools-threads-input-label =
     .title = Назви потоків є розділеним комами списком, що використовується для увімкнення профілювання потоків у Profiler. Для включення, назва повинна мати лише частковий збіг з назвою потоку. Вони чутливі до пробілів.
 
@@ -120,6 +123,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Нове</b>: { -profiler-brand-name } тепер вбудовано в Інструменти розробника. <a>Дізнайтеся докладніше</a> про цей потужний новий інструмент.
+
 perftools-onboarding-close-button =
     .aria-label = Закрити вітальне повідомлення
 
@@ -132,17 +136,23 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Веброзробник
 perftools-presets-web-developer-description = Рекомендовані попередні налаштування для зневадження більшості застосунків. З низькими споживанням ресурсів.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Рекомендовані налаштування для профілювання { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Графіка
 perftools-presets-graphics-description = Налаштування для виявлення помилок графіки в { -brand-shorter-name }.
+
 perftools-presets-media-label = Медіа
 perftools-presets-media-description2 = Налаштування для виявлення помилок аудіо та відео в { -brand-shorter-name }.
+
 perftools-presets-networking-label = Мережа
 perftools-presets-networking-description = Налаштування для виявлення помилок мережі в { -brand-shorter-name }.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Потужність
 perftools-presets-power-description = Налаштування для виявлення помилок використання потужності { -brand-shorter-name } із низьким накладанням.
+
 perftools-presets-custom-label = Власні
 
 ##

@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Розпочніть заново, щоб �
 refresh-profile = Налагодження { -brand-short-name }
 refresh-profile-button = Відновити { -brand-short-name }…
 refresh-profile-learn-more = Докладніше
+
 refresh-profile-progress =
     .title = Відновлення { -brand-short-name }
 refresh-profile-progress-description = Майже готово…

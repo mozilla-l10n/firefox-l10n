@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Збій частини цієї сторінки.</strong> Надішліть звіт, щоб повідомити { -brand-product-name } про цю проблему для швидшого її розв'язання.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
