@@ -38,6 +38,8 @@ findbar-fast-find-links =
     .placeholder = Брза претрага (само везе)
 findbar-case-sensitive-status =
     .value = (осетљиво на мала и велика слова)
+findbar-match-diacritics-status =
+    .value = (Проналазим дијакритике)
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
