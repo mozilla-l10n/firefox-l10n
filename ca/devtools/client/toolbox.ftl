@@ -23,3 +23,5 @@ toolbox-meatball-menu-community-label = Comunitat…
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+

@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Afegeix etiquetes
+
 pocket-panel-saved-error-generic = S'ha produït un error en intentar desar al { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Les etiquetes tenen un límit de 25 caràcters
 pocket-panel-saved-error-only-links = Només es poden desar enllaços
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = S'està desant…
 pocket-panel-saved-suggested-tags = Etiquetes recomanades
 pocket-panel-saved-tags-saved = Etiquetes afegides
 pocket-panel-signup-view-list = Mostra la llista
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Afegiu etiquetes:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = Registre amb el { -brand-product-name }
 pocket-panel-signup-tagline = Deseu articles i vídeos des del { -brand-product-name } per veure'ls al { -pocket-brand-name } en qualsevol dispositiu i a qualsevol hora.
 pocket-panel-signup-tagline-story-one = Feu clic al botó del { -pocket-brand-name } per desar un article, vídeo o pàgina des del { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vegeu-lo al { -pocket-brand-name } en qualsevol dispositiu, a qualsevol hora.
+
 pocket-panel-signup-cta-a-fix = El vostre botó de «desa» d'Internet.
 pocket-panel-signup-cta-b = Feu clic al botó del { -pocket-brand-name } per a desar articles, vídeos i enllaços. Podeu veure la vostra llista en qualsevol dispositiu, a qualsevol hora.
 pocket-panel-signup-cta-b-short = Feu clic al botó del { -pocket-brand-name } per a desar articles, vídeos i enllaços.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = Podeu utilitzar el { -pocket-brand-name } per expl
 pocket-panel-home-explore-popular-topics = Exploreu els temes populars
 pocket-panel-home-discover-more = Descobriu-ne més
 pocket-panel-home-explore-more = Explora
+
 pocket-panel-home-most-recent-saves = Aquest és el contingut que heu desat més recentment:
 pocket-panel-home-most-recent-saves-loading = S'estan carregant els elements desats recents…
 pocket-panel-home-new-user-cta = Feu clic al botó del { -pocket-brand-name } per a desar articles, vídeos i enllaços.

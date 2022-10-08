@@ -4,8 +4,11 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Següent
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Entesos
 
 ## Firefox View feature tour strings
+
+## Continuous Onboarding - Firefox View: Tab pick up
 
