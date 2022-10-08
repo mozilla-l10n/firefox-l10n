@@ -9,7 +9,10 @@ findbar-next =
     .tooltiptext = Хайлтын дараагийн олдцыг харуулна
 findbar-previous =
     .tooltiptext = Хайлтын өмнөх олдцыг харуулна
-
 findbar-find-button-close =
     .tooltiptext = Олох самбарыг хаах
-
+findbar-not-found = Олдсонгүй
+findbar-wrapped-to-top = Хуудасны төгсгөлд хүрлээ, эхнээс нь үргэлжлүүл
+findbar-wrapped-to-bottom = Хуудасны эхэнд хүрлээ, доороос нь үргэлжлүүл
+findbar-case-sensitive-status =
+    .value = (Үсгийн том жижиг нь хамаарна)
