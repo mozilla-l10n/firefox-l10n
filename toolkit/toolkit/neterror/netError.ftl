@@ -38,6 +38,13 @@ neterror-load-error-try-again = Gunea une batez desgaituta edo oso lanpetuta ego
 neterror-load-error-connection = Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.
 neterror-load-error-firewall = Ordenagailua edo sarea suebaki edo proxy baten bidez babestuta badaude, egiaztatu { -brand-short-name }(e)k webera sartzeko baimena daukala.
 neterror-captive-portal = Internetera sartu ahal izateko saioa hasi behar duzu sare honetan.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = <a data-l10n-name="website">{ $hostAndPath }</a> helbidera joan nahi zenuen?
+neterror-dns-not-found-hint-header = <strong>Helbide zuzena sartu baduzu, ondorengoa proba dezakezu:</strong>
+neterror-dns-not-found-hint-try-again = Saiatu berriro geroago
+neterror-dns-not-found-hint-check-network = Egiaztatu zure Interneterako konexioa
+neterror-dns-not-found-hint-firewall = Egiaztatu { -brand-short-name }(e)k webera sartzeko baimenak dituela (konektatuta egon zaitezke baina suebaki baten atzean)
 neterror-file-not-found-filename = Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.
 neterror-file-not-found-moved = Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin den.
 neterror-access-denied = Kendua edo lekuz aldatua egon liteke, edo fitxategi-baimenek sarrera eragotz lezakete.
