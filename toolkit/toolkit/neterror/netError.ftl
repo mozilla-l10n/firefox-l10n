@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Problemas ao carregar a página
+neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Autenticar na rede
 
 ## Error page actions
