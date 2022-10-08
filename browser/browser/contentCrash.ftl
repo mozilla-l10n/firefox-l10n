@@ -15,6 +15,8 @@ pending-crash-reports-message =
         [one] Ti has in'annunzia da collaps betg tramessa
        *[other] Ti has { $reportCount } annunzias da collaps betg tramessas
     }
+pending-crash-reports-view-all =
+    .label = Mussar
 pending-crash-reports-send =
     .label = Trametter
 pending-crash-reports-always-send =
