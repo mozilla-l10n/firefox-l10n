@@ -33,5 +33,30 @@ findbar-entire-word =
     .tooltiptext = Rechercher seulement les mots entiers
 findbar-wrapped-to-top = Bas de la page atteint, poursuite au début
 findbar-wrapped-to-bottom = Haut de la page atteint, poursuite depuis le bas
+findbar-normal-find =
+    .placeholder = Rechercher dans la page
+findbar-fast-find =
+    .placeholder = Recherche rapide
+findbar-fast-find-links =
+    .placeholder = Recherche rapide (liens seulement)
 findbar-case-sensitive-status =
     .value = (Sensible à la casse)
+findbar-entire-word-status =
+    .value = (Mots entiers seulement)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Occurrence { $current } sur { $total }
+           *[other] Occurrence { $current } sur { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Plus d’une occurrence
+           *[other] Plus de { $limit } occurrences
+        }
