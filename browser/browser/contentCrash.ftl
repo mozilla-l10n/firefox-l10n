@@ -5,10 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Sebagian dari laman ini mogok. </strong>Untuk memberi tahu { -brand-product-name } tentang masalah ini dan memperbaikinya lebih cepat, harap kirimkan laporan.
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
     .title = Sebagian dari laman ini mogok. Untuk memberi tahu { -brand-product-name } tentang masalah ini dan memperbaikinya lebih cepat, harap kirimkan laporan.
+crashed-subframe-learnmore-link =
+    .value = Pelajari Lebih Lanjut
+crashed-subframe-submit =
+    .label = Kirimkan Laporan
+    .accesskey = K
 
 ## Pending crash reports
 
