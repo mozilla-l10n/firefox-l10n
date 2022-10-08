@@ -5,6 +5,8 @@
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Узнать больше
 crashed-subframe-submit =
     .label = Отправить сообщение
     .accesskey = п
