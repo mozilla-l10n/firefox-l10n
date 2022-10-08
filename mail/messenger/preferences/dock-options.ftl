@@ -5,26 +5,21 @@
 dock-options-window-dialog =
     .title = Opzioni icona applicazione
     .style = width: 48em;
-
+dock-options-window-dialog2 =
+    .title = Opzioni icona applicazione
 dock-options-show-badge =
     .label = Mostra contrassegno dell’icona
     .accesskey = M
-
 bounce-system-dock-icon =
     .label = Anima l’icona dell’app quando arriva un nuovo messaggio
     .accesskey = i
-
 dock-icon-legend = Contrassegno nell’icona dell’applicazione
-
 dock-icon-show-label =
     .value = Contrassegna l’icona dell’applicazione con:
-
 count-unread-messages-radio =
     .label = Contatore messaggi non letti
     .accesskey = C
-
 count-new-messages-radio =
     .label = Contatore nuovi messaggi
     .accesskey = n
-
 notification-settings-info2 = È possibile disattivare il contrassegno nella sezione Notifiche delle Impostazioni di Sistema
