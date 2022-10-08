@@ -42,3 +42,22 @@ findbar-fast-find-links =
     .placeholder = Snabbsök (endast länkar)
 findbar-case-sensitive-status =
     .value = (Skiftlägeskänslig)
+findbar-entire-word-status =
+    .value = (Endast hela ord)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } av { $total } matchningar
+           *[other] { " " }{ $current } av { $total } matchande
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Mer än { $limit } matchning
+           *[other] { " " }Mer än { $limit } matchningar
+        }
