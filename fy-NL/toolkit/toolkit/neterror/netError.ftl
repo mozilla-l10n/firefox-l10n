@@ -9,6 +9,7 @@ neterror-page-title = Probleem by it laden fan de side
 
 ## Error page actions
 
+neterror-learn-more-link = Mear ynfo…
 
 ##
 
