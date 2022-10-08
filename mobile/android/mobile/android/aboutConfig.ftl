@@ -18,3 +18,7 @@ config-new-pref-create-button = Жасау
 config-new-pref-change-button = Өзгерту
 config-pref-toggle-button = Ауыстыру
 config-pref-reset-button = Тастау
+config-context-menu-copy-pref-name =
+    .label = Атын көшіріп алу
+config-context-menu-copy-pref-value =
+    .label = Мәнін көшіріп алу
