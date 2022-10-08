@@ -5,17 +5,21 @@
 
 ## Error page titles
 
+neterror-page-title = Problemas ao carregar a página
 
 ## Error page actions
 
+neterror-pref-reset-button = Restaurar configurações padrão
 neterror-return-to-previous-page-button = Voltar
 
 ##
 
+neterror-pref-reset = Parece que suas configurações de segurança de rede podem estar causando isso. Você quer restaurar as configurações padrão?
 neterror-error-reporting-automatic = Relatar erros como este para ajudar a { -vendor-short-name } a identificar e bloquear sites maliciosos
 
 ## Specific error messages
 
+neterror-access-denied = Pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.
 neterror-unknown-protocol = Pode ser necessário instalar algum aplicativo para abrir este endereço.
 neterror-redirect-loop = Este problema pode ser causado pela desativação ou recusa de aceitar cookies.
 neterror-proxy-connect-failure-settings = Verifique as configurações de proxy para se certificar que estão corretas
