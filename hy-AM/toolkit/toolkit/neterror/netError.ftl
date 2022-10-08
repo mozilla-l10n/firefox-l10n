@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Էջը բեռնելու խնդիր
+certerror-page-title = Զգուշացում․ Հավանական ավտանգության վտանգ է առկա
 certerror-sts-page-title = Չկապվեց․ Անվտանգության հնարավոր պոտենցիալ
 neterror-blocked-by-policy-page-title = Արգելափակված էջ
 neterror-captive-portal-page-title = Մուտք գործել ցանց
@@ -15,6 +16,7 @@ neterror-malformed-uri-page-title = Անվավեր URL
 ## Error page actions
 
 neterror-advanced-button = Լրացուցիչ…
+neterror-copy-to-clipboard-button = Պատճենել սեղմատախտակին
 neterror-learn-more-link = Իմանալ ավելին…
 neterror-open-portal-login-page-button = Բացել ցանց մուտք գործելու էջը
 neterror-override-exception-button = Ընդունել վտանգը և շարունակել
@@ -39,6 +41,7 @@ neterror-captive-portal = Դուք պետք է մուտք գործեք այս ց
 neterror-file-not-found-filename = Ստուգեք ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:
 neterror-file-not-found-moved = Ստուգեք, թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:
 neterror-access-denied = Հնարավոր է՝ այն հեռացվել է, տեղափոխվել կամ նիշքի թույլտվությունները կանխել են մատչումը։
+neterror-unknown-protocol = Այս հասցեն բացելու համար ձեզ հավանաբար անհրաժեշտ է ձեռք բերել այլ ծրագիր:
 neterror-redirect-loop = Այս խնդիրը երբեմն կարող է ծագել cookie-ների  անջատումից կամ մերժումից:
 neterror-unknown-socket-type-psm-installed = Ստուգեք և համոզվեք, որ ձեր համակարգը ունի տեղակայված Անվտանգության  Անձնական Կառավարիչ:
 neterror-unknown-socket-type-server-config = Դա կարող է լինել սպասարկիչի ոչ ստանդարտ կարգավորման արդյունք:
@@ -46,6 +49,9 @@ neterror-not-cached-intro = Պահանջվող փաստաթուղթը հասան
 neterror-not-cached-sensitive = Անվտանգության նկատառումներով { -brand-short-name }-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։
 neterror-not-cached-try-again = Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։
 neterror-net-offline = Սեղմեք “Կրկին փորձել"` անցնելու համար առցանց եղանակի և էջը վերաբացելու համար։
+neterror-proxy-resolve-failure-settings = Ստուգեք պրոքսի կարգավորումները՝ համոզվելու համար դրանք ճիշտ են:
+neterror-proxy-resolve-failure-connection = Ստուգեք և համոզվեք, որ համակարգիչը ունի աշխատող ցանցային կապակցում:
+neterror-proxy-resolve-failure-firewall = Եթե ձեր համակարգիչը կամ ցանցը պաշտպանված է firewall-ով կամ պրոքսիով,  համոզվեք, որ { -brand-short-name }-ը ունի ցանցին միանալու իրավունք:
 neterror-proxy-connect-failure-settings = Ստուգեք պրոքսի կարգավորումները՝ նրանց ստույգության մեջ համոզվելու համար:
 neterror-proxy-connect-failure-contact-admin = Կապվեք ձեր ցանցի կառավարիչի հետ՝ համոզվելու համար, որ պրոքսի սպասարկիչը  աշխատում է:
 neterror-content-encoding-error = Խնդրեմ կապվեք այս կայքի սեփականատերերին այս խնդրի մասին տեղյակ պահելու համար։
