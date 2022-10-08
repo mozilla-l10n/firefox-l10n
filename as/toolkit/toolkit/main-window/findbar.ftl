@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = বাক্যাংশৰ পৰৱৰ্তী উপস্থিতি সন্ধান কৰক
 findbar-previous =
     .tooltiptext = বাক্যাংশৰ পূৰ্বৱৰ্তী উপস্থিতি সন্ধান কৰক
-
 findbar-find-button-close =
     .tooltiptext = বিচৰা দণ্ডিকা বন্ধ কৰক
-
 findbar-highlight-all2 =
     .label = সকলো উজ্জ্বল কৰক
     .accesskey =
@@ -21,18 +19,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = বাক্যাংশৰ সকলো উপস্থিতি উজ্জ্বল কৰক
-
 findbar-case-sensitive =
     .label = ফলা মিলাওক
     .accesskey = c
     .tooltiptext = ফলা সংবেদনশীলতাৰ সৈতে সন্ধান কৰক
-
 findbar-match-diacritics =
     .label = অযোগবাহ মিলাওক
     .accesskey = i
     .tooltiptext = উচ্চাৰণযুক্ত অক্ষৰ আৰু সেইবোৰৰ বুনিয়াদী অক্ষৰৰ মাজত পাৰ্থক্য কৰক (উদাহৰণ স্বৰূপে, “resume”ৰ সন্ধান কৰোঁতে “résumé” নিমিলিব)
-
 findbar-entire-word =
     .label = গোটেই শব্দ
     .accesskey = W
     .tooltiptext = কেৱল গোটেই শব্দৰ সন্ধান কৰক
+findbar-case-sensitive-status =
+    .value = (ফলা সংবেদ্য)
