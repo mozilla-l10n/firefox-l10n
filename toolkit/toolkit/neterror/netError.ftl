@@ -10,6 +10,7 @@ certerror-sts-page-title = לא בוצעה התחברות: חולשת אבטחה
 neterror-blocked-by-policy-page-title = עמוד חסום
 neterror-captive-portal-page-title = כניסה לרשת
 neterror-dns-not-found-title = השרת לא נמצא
+neterror-malformed-uri-page-title = כתובת לא תקנית
 
 ## Error page actions
 
@@ -26,6 +27,7 @@ neterror-view-certificate-link = הצגת אישור
 
 ##
 
+neterror-pref-reset = נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?
 neterror-error-reporting-automatic = דיווח על תקלות מסוג זה כדי לסייע ל־{ -vendor-short-name } לזהות ולחסום אתרים מסוכנים
 
 ## Specific error messages
@@ -34,6 +36,7 @@ neterror-generic-error = מסיבה בלתי ידועה, אין ל־{ -brand-sho
 neterror-load-error-try-again = האתר איננו זמין כרגע או שהוא עמוס מדי. נא לנסות שוב בעוד מספר רגעים.
 neterror-load-error-connection = אם אינך מצליח לטעון שום דף, מומלץ לבדוק את הקישוריות של המחשב שלך לרשת.
 neterror-load-error-firewall = אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, יש לוודא כי { -brand-short-name } מורשה לגישה לרשת.
+neterror-captive-portal = עליך להתחבר לרשת זו כדי לגלוש באינטרנט.
 neterror-file-not-found-filename = בדוק ששם הקובץ אוית נכון, שנעשה שימוש נכון באותיות רישיות ושאין שגיאות הקלדה אחרות.
 neterror-file-not-found-moved = בדוק אם הקובץ הועבר, שינה שם או נמחק.
 neterror-access-denied = ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.
