@@ -5,26 +5,34 @@
 permissions-window =
     .title = Mekgelo
     .style = width: 36em
+
 permissions-window2 =
     .title = Mekgelo
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Block
     .accesskey = B
+
 permissions-session =
     .label = Allow for Session
     .accesskey = S
+
 permissions-allow =
     .label = Allow
     .accesskey = A
+
 permissions-status =
     .label = Boemo
+
 permissions-capabilities-allow =
     .label = Dumella
 permissions-capabilities-block =
     .label = Thibela
+
 permissions-capabilities-listitem-allow =
     .value = Dumella
 permissions-capabilities-listitem-block =
