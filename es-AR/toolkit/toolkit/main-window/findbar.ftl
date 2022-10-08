@@ -31,12 +31,19 @@ findbar-entire-word =
     .label = Palabras completas
     .accesskey = P
     .tooltiptext = Buscar solamemte palabras completas
+findbar-not-found = Frase no encontrada
+findbar-wrapped-to-top = Fin de página alcanzado, continuando desde el principio
+findbar-wrapped-to-bottom = Principio de página alcanzado, continuando desde el final
 findbar-normal-find =
     .placeholder = Buscar en página
 findbar-fast-find =
     .placeholder = Búsqueda rápida
 findbar-fast-find-links =
     .placeholder = Búsqueda rápida (solamente enlaces)
+findbar-case-sensitive-status =
+    .value = (Coincidir mayúsculas)
+findbar-entire-word-status =
+    .value = (Solamente palabras completas)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
