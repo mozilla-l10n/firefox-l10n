@@ -30,3 +30,22 @@ findbar-fast-find-links =
     .placeholder = Fumana ngokukhawuleza (amakhonkco odwa)
 findbar-case-sensitive-status =
     .value = (Inobuzaza kubhalo loonobumba)
+findbar-entire-word-status =
+    .value = (Amagama apheleleyo kuphela)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } kwezi- { $total } ingqamene
+           *[other] { $current } kwezi { $total } ingqamene
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Ngaphezu kwe- { $limit } ingqamene
+           *[other] Ngaphezu kwe- { $limit } ingqamene
+        }
