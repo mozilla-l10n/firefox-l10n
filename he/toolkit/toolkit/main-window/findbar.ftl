@@ -27,6 +27,7 @@ findbar-entire-word =
     .label = מילים שלמות
     .accesskey = ש
     .tooltiptext = חיפוש מילים שלמות בלבד
+findbar-not-found = הביטוי לא נמצא
 findbar-wrapped-to-top = הגיע לסוף הדף, ממשיך מלמעלה
 findbar-wrapped-to-bottom = הגיע לראש הדף, ממשיך מלמטה
 findbar-normal-find =
@@ -35,6 +36,8 @@ findbar-fast-find =
     .placeholder = חיפוש מהיר
 findbar-fast-find-links =
     .placeholder = חיפוש מהיר (קישורים בלבד)
+findbar-entire-word-status =
+    .value = (מילים שלמות בלבד)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
