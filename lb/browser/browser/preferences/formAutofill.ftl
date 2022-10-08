@@ -6,12 +6,14 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 autofill-manage-addresses-list-header = Adressen
+
 autofill-manage-remove-button = Ewechhuelen
 
 ##
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adress änneren
+
 autofill-address-given-name = Virnumm
 autofill-address-organization = Organisatioun
 
@@ -33,8 +35,10 @@ autofill-address-province = Provënz
 autofill-address-country = Land oder Regioun
 autofill-address-tel = Telefon
 autofill-address-email = E-Mail
+
 autofill-cancel-button = Ofbriechen
 autofill-save-button = Späicheren
+
 autofill-card-number = Kaartennummer
 autofill-card-name-on-card = Numm op der Kaart
 

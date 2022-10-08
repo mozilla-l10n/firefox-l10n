@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Uwendungsdetailer
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Uwendungsdetailer
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Läschen
     .accesskey = R
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Folgend Applikatiounen kënne benotzt ginn fir { $type } Links.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Folgend Applikatiounen kënne benotzt ginn fir Inhalt vum Typ { $type } .

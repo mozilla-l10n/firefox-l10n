@@ -5,11 +5,14 @@
 containers-window-new =
     .title = Neie Container bäisetzen
     .style = width: 45em
+
 containers-window-new2 =
     .title = Neie Container bäisetzen
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -20,17 +23,22 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Numm
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Container Numm uginn
+
 containers-icon-label = Ikon
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Fuerw
     .accesskey = F
     .style = { -containers-labels-style }
+
 containers-color-blue =
     .label = Blo
 containers-color-turquoise =
@@ -47,6 +55,7 @@ containers-color-pink =
     .label = Pink
 containers-color-purple =
     .label = Mof
+
 containers-icon-fingerprint =
     .label = Fangerofdrock
 containers-icon-briefcase =

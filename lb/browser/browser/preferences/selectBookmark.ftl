@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = Startsäit definéieren
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Startsäit definéieren
     .style = min-width: 32em;
+
 select-bookmark-desc = E Lieszeeche als Startsäit wielen. Wanns Du en Dossier wiels, ginn all d'Lieszeechen aus deem Dossier an Tabs opgemaach.

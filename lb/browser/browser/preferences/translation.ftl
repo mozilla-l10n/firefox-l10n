@@ -5,26 +5,37 @@
 translation-window =
     .title = Ausnamen - Iwwersetzung
     .style = width: 36em
+
 translation-window2 =
     .title = Ausnamen - Iwwersetzung
     .style = min-width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-disabled-desc = Iwwersetzung gëtt fir dës Sproochen net ugebueden
+
 translation-languages-column =
     .label = Sproochen
+
 translation-languages-button-remove =
     .label = Sprooch ewechhuelen
     .accesskey = R
+
 translation-languages-button-remove-all =
     .label = All Sproochen ewechhuelen
     .accesskey = e
+
 translation-sites-disabled-desc = Iwwersetzung gëtt net fir dës Internetsitten ugebueden
+
 translation-sites-column =
     .label = Internetsitten
+
 translation-sites-button-remove =
     .label = Internetsite ewechhuelen
     .accesskey = S
+
 translation-sites-button-remove-all =
     .label = All Internetsitten ewechhuelen
     .accesskey = i
+
