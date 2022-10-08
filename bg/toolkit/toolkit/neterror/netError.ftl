@@ -15,6 +15,7 @@ neterror-malformed-uri-page-title = Неправилен адрес
 
 ## Error page actions
 
+neterror-advanced-button = Разширени…
 neterror-copy-to-clipboard-button = Копиране на текста в системния буфер
 neterror-learn-more-link = Научете повече…
 neterror-open-portal-login-page-button = Страница за вписване в мрежа
