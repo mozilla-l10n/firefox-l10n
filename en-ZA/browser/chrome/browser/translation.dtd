@@ -12,6 +12,10 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!-- This file is only used by the Firefox Translations extension,
+   - and should be removed once possible.
+   - See: https://bugzilla.mozilla.org/show_bug.cgi?id=1788595 -->
+
 <!ENTITY translation.thisPageIsIn.label         "This page is in">
 <!ENTITY translation.translateThisPage.label    "Translate this page?">
 <!ENTITY translation.translate.button           "Translate">

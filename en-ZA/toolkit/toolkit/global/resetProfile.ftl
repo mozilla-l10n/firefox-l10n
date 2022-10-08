@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = Refresh { -brand-short-name }
 refresh-profile = Give { -brand-short-name } a tune up
 refresh-profile-button = Refresh { -brand-short-name }…
+
 refresh-profile-progress =
     .title = Refresh { -brand-short-name }
 refresh-profile-progress-description = Almost done…
