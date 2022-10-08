@@ -5,6 +5,11 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Un parte de iste pagina ha collabite.</strong> Pro permitter que { -brand-product-name } sape de iste problema e lo corrige plus rapidemente, invia un reporto.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Un parte de iste pagina ha collabite. Pro permitter que { -brand-product-name } sape de iste problema e lo corrige plus rapidemente, invia un reporto.
 crashed-subframe-learnmore-link =
     .value = Saper plus
 crashed-subframe-submit =
