@@ -40,3 +40,20 @@ findbar-fast-find-links =
     .placeholder = Recèrca rapida (ligams solament)
 findbar-case-sensitive-status =
     .value = (Sensible a la cassa)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] Ocurréncia { $current } sus { $total }
+           *[other] Ocurréncia { $current } sus { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Mai de { $limit } ocurréncia
+           *[other] Mai de { $limit } ocurréncias
+        }
