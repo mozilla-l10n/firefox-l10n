@@ -9,6 +9,7 @@ neterror-page-title = Проблем при учитавању странице
 
 ## Error page actions
 
+neterror-copy-to-clipboard-button = Копирај текст у бележницу
 neterror-learn-more-link = Сазнајте више…
 neterror-try-again-button = Пoкушај поново
 
