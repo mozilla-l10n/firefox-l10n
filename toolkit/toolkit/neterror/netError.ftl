@@ -38,6 +38,9 @@ neterror-load-error-try-again = Сайт може бути тимчасово н
 neterror-load-error-connection = Якщо жодна сторінка не завантажується, перевірте з’єднання комп'ютера з Інтернетом.
 neterror-load-error-firewall = Якщо ваш комп’ютер або мережа захищені мережевим екраном чи проксі-сервером, переконайтеся, що для { -brand-short-name } дозволено доступ до Інтернету.
 neterror-captive-portal = Перш, ніж отримати доступ до Інтернету, ви повинні увійти в цю мережу.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Ви хотіли відвідати <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Якщо ви ввели правильну адресу, можна:</strong>
 neterror-dns-not-found-hint-try-again = Спробувати знову пізніше
 neterror-dns-not-found-hint-check-network = Перевірити мережеве з'єднання
