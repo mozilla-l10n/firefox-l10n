@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = Umiestniť nadol
 toolbox-meatball-menu-dock-left-label = Umiestniť naľavo
 toolbox-meatball-menu-dock-right-label = Umiestniť napravo
 toolbox-meatball-menu-dock-separate-window-label = Samostatné okno
+
 toolbox-meatball-menu-splitconsole-label = Zobraziť rozdelenú konzolu
 toolbox-meatball-menu-hideconsole-label = Skryť rozdelenie konzoly
+
 toolbox-meatball-menu-settings-label = Nastavenia
 toolbox-meatball-menu-documentation-label = Dokumentácia…
 toolbox-meatball-menu-community-label = Komunita…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Vypnúť automatické skrývanie vyskakovacích okien
+
 toolbox-meatball-menu-pseudo-locale-accented = Zapnúť jazyk s diakritikou
 toolbox-meatball-menu-pseudo-locale-bidi = Zapnúť “bidi” jazyk
 
@@ -34,14 +38,17 @@ toolbox-meatball-menu-pseudo-locale-bidi = Zapnúť “bidi” jazyk
 
 toolbox-mode-browser-toolbox-label = Režim Súprava nástrojov prehliadača
 toolbox-mode-browser-console-label = Režim Konzola prehliadača
+
 toolbox-mode-everything-label = Všetky procesy
 toolbox-mode-everything-sub-label = (pomalšie)
 toolbox-mode-everything-container =
     .title = Ladiť všetko vo všetkých procesoch
+
 toolbox-mode-parent-process-label = Iba nadradený proces
 toolbox-mode-parent-process-sub-label = (rýchlejšie)
 toolbox-mode-parent-process-container =
     .title = Zamerať sa iba na zdroje z nadradeného procesu
+
 toolbox-always-on-top-enabled =
     .title = Zakázať možnosť Vždy navrchu (týmto sa reštartujú nástroje pre vývojárov)
 toolbox-always-on-top-disabled =

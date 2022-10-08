@@ -38,9 +38,11 @@ menu-quit =
             [windows] U
            *[other] U
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ukončiť { -brand-shorter-name }
+
 menu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O

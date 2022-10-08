@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Uložené adresy
 autofill-manage-addresses-list-header = Adresy
+
 autofill-manage-credit-cards-title = Uložené platobné karty
 autofill-manage-credit-cards-list-header = Platobné karty
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Odstrániť
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Upraviť…
 autofill-add-new-address-title = Pridanie novej adresy
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Úprava adresy
+
 autofill-address-given-name = Krstné meno
 autofill-address-additional-name = Stredné meno
 autofill-address-family-name = Priezvisko
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Krajina alebo oblasť
 autofill-address-tel = Telefón
 autofill-address-email = E-mailová adresa
+
 autofill-cancel-button = Zrušiť
 autofill-save-button = Uložiť
 autofill-country-warning-message = Automatické dopĺňanie formulárov momentálne funguje len pre niektoré krajiny.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Pridanie novej platobnej karty
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Úprava platobnej karty
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } chce zobraziť informácie o platobnej karte. Prosím, potvrďte prístup k nižšie uvedenému účtu Windows.
        *[other] { -brand-short-name } chce zobraziť informácie o platobnej karte.
     }
+
 autofill-card-number = Číslo karty
 autofill-card-invalid-number = Prosím, zadajte platné číslo platobnej karty
 autofill-card-name-on-card = Meno na karte

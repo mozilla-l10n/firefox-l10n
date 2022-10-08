@@ -40,7 +40,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Veľkosť buffera:
+
 perftools-custom-threads-label = Pridať vlastné vlákna podľa názvu:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Vlákna:
 perftools-devtools-settings-label = Nastavenia
@@ -110,6 +112,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Obísť položky zvolené vyššie a zaznamenať všetky registrované vlákna
+
 perftools-tools-threads-input-label =
     .title = Tieto názvy vlákien sú zoznamom oddeleným čiarkami, ktorý sa používa na povolenie profilovania vlákien v nástroji na profilovanie. Názov môže obsahovať iba časť názvu vlákna. Pozor na medzery.
 
@@ -117,6 +120,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novinka</b>: { -profiler-brand-name } je teraz integrovaný do Nástrojov pre vývojárov. <a>Pozrite si ďalšie informácie</a> o tomto novom výkonnom nástroji.
+
 perftools-onboarding-close-button =
     .aria-label = Zavrieť informačnú správu
 
@@ -129,17 +133,23 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Webový vývojár
 perftools-presets-web-developer-description = Odporúčaná predvoľba pre väčšinu ladení webových aplikácií s nízkymi nárokmi na výkon.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Odporúčaná predvoľba pre profilovanie { -brand-shorter-name(case: "gen") }.
+
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Predvoľba na diagnostiku grafických chýb v prehliadači { -brand-shorter-name }.
+
 perftools-presets-media-label = Médiá
 perftools-presets-media-description2 = Predvoľba na diagnostiku problémov so zvukom a videom v prehliadači { -brand-shorter-name }.
+
 perftools-presets-networking-label = Sieťová aktivita
 perftools-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Napájanie
 perftools-presets-power-description = Predvoľba pre diagnostiku chýb zvyšujúcich spotrebu energie prehliadača { -brand-shorter-name }, s nízkou réžiou
+
 perftools-presets-custom-label = Vlastné
 
 ##

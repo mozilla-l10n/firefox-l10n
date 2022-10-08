@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Hľadať
 config-new-pref-name =
     .placeholder = Názov
+
 config-new-pref-value-boolean = Logická
 config-new-pref-value-string = Reťazec
 config-new-pref-value-integer = Číselná
+
 config-new-pref-string =
     .placeholder = Zadajte reťazec
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Zrušiť
 config-new-pref-create-button = Vytvoriť
 config-new-pref-change-button = Zmeniť
+
 config-pref-toggle-button = Prepnúť
 config-pref-reset-button = Vynulovať
+
 config-context-menu-copy-pref-name =
     .label = Kopírovať názov
 config-context-menu-copy-pref-value =

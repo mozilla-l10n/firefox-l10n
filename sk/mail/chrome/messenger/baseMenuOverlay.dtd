@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "O">
 <!ENTITY productHelp.label "Pomocník aplikácie &brandShortName;">
 <!ENTITY productHelp.accesskey "P">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

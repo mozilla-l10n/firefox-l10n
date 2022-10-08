@@ -5,8 +5,10 @@
 app-manager-window-dialog =
     .title = Podrobnosti o aplikácii
     .style = width: 30em; min-height: 20em;
+
 app-manager-window-dialog2 =
     .title = Podrobnosti o aplikácii
+
 remove-app-button =
     .label = Odstrániť
     .accesskey = O

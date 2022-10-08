@@ -5,62 +5,81 @@
 permissions-window =
     .title = Výnimky
     .style = width: 45em
+
 permissions-window2 =
     .title = Výnimky
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa webovej stránky
     .accesskey = d
+
 permissions-block =
     .label = Zakázať
     .accesskey = a
+
 permissions-session =
     .label = Povoliť pre reláciu
     .accesskey = o
+
 permissions-allow =
     .label = Povoliť
     .accesskey = P
+
 permissions-button-off =
     .label = Vypnúť
     .accesskey = V
+
 permissions-button-off-temporarily =
     .label = Vypnúť dočasne
     .accesskey = d
+
 permissions-site-name =
     .label = Webová stránka
+
 permissions-status =
     .label = Stav
+
 permissions-remove =
     .label = Odstrániť stránku
     .accesskey = r
+
 permissions-remove-all =
     .label = Odstrániť všetky stránky
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Uložiť zmeny
     .buttonaccesskeyaccept = U
+
 permissions-autoplay-menu = Predvolené nastavenia pre všetky webové stránky:
+
 permissions-searchbox =
     .placeholder = Hľadať
+
 permissions-capabilities-autoplay-allow =
     .label = Povoliť zvuk a video
 permissions-capabilities-autoplay-block =
     .label = Blokovať zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokovať zvuk a video
+
 permissions-capabilities-allow =
     .label = Povoliť
 permissions-capabilities-block =
     .label = Zakázať
 permissions-capabilities-prompt =
     .label = Vždy sa opýtať
+
 permissions-capabilities-listitem-allow =
     .value = Povoliť
 permissions-capabilities-listitem-block =
     .value = Zakázať
 permissions-capabilities-listitem-allow-session =
     .value = Povoliť pre reláciu
+
 permissions-capabilities-listitem-off =
     .value = Vypnutá
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Zadajte platný názov servera
 permissions-exceptions-etp-window =
     .title = Výnimky pre Rozšírenú ochranu pred sledovaním
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Výnimky pre Rozšírenú ochranu pred sledovaním
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Na týchto stránkach ste vypli ochranu pred s
 permissions-exceptions-cookie-window =
     .title = Výnimky - Cookies a údaje stránok
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Výnimky - Cookies a údaje stránok
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Na tomto mieste môžete určiť, ktoré st
 permissions-exceptions-https-only-window =
     .title = Výnimky z režimu Len HTTPS
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Výnimky z režimu Len HTTPS
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Pre konkrétne webové stránky môžet
 permissions-exceptions-popup-window =
     .title = Povolené stránky - Vyskakovacie okná
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Povolené stránky - Vyskakovacie okná
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Na tomto mieste môžete určiť, ktoré str
 permissions-exceptions-saved-logins-window =
     .title = Výnimky - Uložené prihlasovacie údaje
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Výnimky - Uložené prihlasovacie údaje
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Pre nasledujúce stránky sa nebudú 
 permissions-exceptions-addons-window =
     .title = Povolené stránky – Inštalácia doplnkov
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Povolené stránky – Inštalácia doplnkov
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Na tomto mieste môžete určiť, ktoré st
 permissions-site-autoplay-window =
     .title = Nastavenia - Automatické prehrávanie
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Nastavenia - Automatické prehrávanie
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Na tomto mieste môžete spravovať stránky, k
 permissions-site-notification-window =
     .title = Nastavenia - Posielanie upozornení
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Nastavenia - Posielanie upozornení
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Týmto zakážete webovým stránka
 permissions-site-location-window =
     .title = Nastavenia - Prístup k polohe
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Nastavenia - Prístup k polohe
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Týmto zakážete webovým stránkam, k
 permissions-site-xr-window =
     .title = Nastavenia - Virtuálna realita
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Nastavenia - Virtuálna realita
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Týmto zakážete webovým stránkam, ktoré 
 permissions-site-camera-window =
     .title = Nastavenia - Prístup ku kamere
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Nastavenia - Prístup ku kamere
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Týmto zakážete webovým stránkam, kto
 permissions-site-microphone-window =
     .title = Nastavenia - Prístup k mikrofónu
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Nastavenia - Prístup k mikrofónu
     .style = { permissions-window2.style }
