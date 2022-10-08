@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = Stillingar { $name } sérefnis
     .style = width: 45em
+
 containers-window-new2 =
     .title = Bæta við nýju sérefni
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Stillingar { $name } sérefnis
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nafn
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Settu inn heiti sérefnis
+
 containers-icon-label = Táknmynd
     .accesskey = y
     .style = { -containers-labels-style }
+
 containers-color-label = Litur
     .accesskey = L
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Lokið
     .buttonaccesskeyaccept = ð
+
 containers-color-blue =
     .label = Blár
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Fjólublár
 containers-color-toolbar =
     .label = Eins og verkfæraslá
+
 containers-icon-fence =
     .label = Girðing
 containers-icon-fingerprint =

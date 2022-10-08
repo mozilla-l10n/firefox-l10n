@@ -6,4 +6,5 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Um Glean
+
 controls-button-label = Senda inn stillingar

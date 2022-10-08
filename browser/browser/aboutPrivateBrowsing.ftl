@@ -22,10 +22,12 @@ about-private-browsing-not-private = Þú ert ekki í huliðsglugga.
 about-private-browsing-info-description-private-window = Huliðsgluggi: { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar öllum huliðsgluggum. Þetta gerir þig ekki nafnlausan á netinu.
 about-private-browsing-info-description-simplified = { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar öllum huliðsgluggum. Þetta gerir þig ekki nafnlausan á netinu.
 about-private-browsing-learn-more-link = Fræðast meira
+
 about-private-browsing-hide-activity = Feldu virkni þína og staðsetningu, hvar sem þú vafrar
 about-private-browsing-get-privacy = Fáðu persónuvernd hvar sem þú vafrar
 about-private-browsing-hide-activity-1 = Feldu vafravirkni og staðsetningu með { -mozilla-vpn-brand-name }. Einn smellur útbýr örugga tengingu, jafnvel á þráðlausum Wi-Fi almenningsnetum.
 about-private-browsing-prominent-cta = Haltu þig til hlés með { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Sækja { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Einkavafur á ferðinni
 about-private-browsing-focus-promo-text = Einkavafurforritið okkar fyrir farsíma hreinsar feril þinn og vefkökur eftir hvert skipti.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Fáðu einkavafur í símann þinn
 about-private-browsing-focus-promo-text-b = Notaðu { -focus-brand-name } fyrir þær persónulegu leitir sem þú vilt ekki að aðalfarsímavafrinn þinn sjái.
 about-private-browsing-focus-promo-header-c = Næsta stig persónuverndar í farsímum
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } hreinsar ferilinn þinn eftir hverja notkun, jafnframt því að loka á auglýsingar og rekjara.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Loka
+
 about-private-browsing-promo-close-button =
     .title = Loka
 

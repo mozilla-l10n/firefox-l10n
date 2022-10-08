@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Finna
     .accesskey = F
+
 context-text-action-find-again =
     .label = Finna aftur
     .accesskey = n
+
 text-action-find =
     .label = Finna
     .accesskey = F
+
 text-action-find-again =
     .label = Finna aftur
     .accesskey = n

@@ -32,6 +32,8 @@ compatibility-issue-occurrences =
         [one] { $number } tilvik
        *[other] { $number } tilvik
     }
+
 compatibility-no-issues-found = Engin samhæfnisvandamál fundust.
 compatibility-close-settings-button =
     .title = Loka stillingum
+
