@@ -50,6 +50,8 @@ neterror-nss-failure-not-verified = Không thể hiển thị trang bạn muốn
 neterror-nss-failure-contact-website = Vui lòng liên hệ chủ trang web để báo với họ vấn đề này.
 neterror-corrupted-content-intro = Không thể hiển thị được trang mà bạn muốn xem vì có lỗi trong truyền tải dữ liệu.
 neterror-corrupted-content-contact-website = Vui lòng liên hệ chủ trang web để báo họ về vấn đề này.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Thông tin bổ sung: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-inadequate-security-intro = <b>{ $hostname }</b> sử dụng công nghệ bảo mật lỗi thời và dễ bị tấn công. Một kẻ tấn công có thể dễ dàng làm lộ những thông tin mà bạn nghĩ là an toàn. Người quản lý trang web trước tiên sẽ cần phải sửa lỗi máy chủ trước khi bạn có thể vào trang.
