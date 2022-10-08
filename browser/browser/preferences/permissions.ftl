@@ -5,26 +5,34 @@
 permissions-window =
     .title = Wëjimczi
     .style = width: 36em
+
 permissions-window2 =
     .title = Wëjimczi
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Blokùjë
     .accesskey = B
+
 permissions-session =
     .label = Zezwòlë dlô sesje
     .accesskey = s
+
 permissions-allow =
     .label = Zezwòlë
     .accesskey = z
+
 permissions-status =
     .label = Stón
+
 permissions-capabilities-allow =
     .label = Zezwòlë
 permissions-capabilities-block =
     .label = Blokùjë
+
 permissions-capabilities-listitem-allow =
     .value = Zezwòlë
 permissions-capabilities-listitem-block =

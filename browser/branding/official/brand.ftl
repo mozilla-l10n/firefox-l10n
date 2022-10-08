@@ -28,8 +28,8 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -brand-short-name = Firefox
+-brand-shortcut-name = Firefox
+
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox i jegò loga są zastrzéżonyma znakama Fùndacje Mozilla.
--brand-shortcut-name = Firefox
-
