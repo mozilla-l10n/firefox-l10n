@@ -5,26 +5,34 @@
 permissions-window =
     .title = Exceptions
     .style = width: 45em
+
 permissions-window2 =
     .title = Exceptions
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Block
     .accesskey = B
+
 permissions-session =
     .label = Allow for Session
     .accesskey = S
+
 permissions-allow =
     .label = Allow
     .accesskey = A
+
 permissions-status =
     .label = Status
+
 permissions-capabilities-allow =
     .label = Allow
 permissions-capabilities-block =
     .label = Block
+
 permissions-capabilities-listitem-allow =
     .value = Allow
 permissions-capabilities-listitem-block =
