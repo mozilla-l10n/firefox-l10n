@@ -54,6 +54,7 @@ neterror-proxy-resolve-failure-connection = Check fur tae mak siccar yer compute
 neterror-proxy-resolve-failure-firewall = Gin yer computer or netwark is bieldit by a firewaw or proxy, mak siccar that { -brand-short-name } is allooed ingang tae the Wab.
 neterror-proxy-connect-failure-settings = Check the proxy settins fur tae mak siccar that they are correct.
 neterror-proxy-connect-failure-contact-admin = Get in touch wi yer netwark admeenistrator fur tae mak siccar the proxy server is wirkin.
+neterror-content-encoding-error = Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.
 neterror-unsafe-content-type = Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.
 neterror-nss-failure-not-verified = The page ye're tryin tae view cannae be shawn acause the authenticity o the receivit data couldnae be trystmakkit.
 neterror-nss-failure-contact-website = Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.
