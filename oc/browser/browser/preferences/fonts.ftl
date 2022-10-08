@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Polissas
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Polissas per
     .accesskey = P
+
 fonts-langgroup-arabic =
     .label = Arabi
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionala
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Talha
     .accesskey = T
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sens-serif
     .accesskey = n
+
 fonts-monospace = Largor fixa
     .accesskey = F
+
 fonts-monospace-size = Talha
     .accesskey = l
+
 fonts-minsize = Talha minimala de la polissa
     .accesskey = T
+
 fonts-minsize-none =
     .label = Pas cap
+
 fonts-allow-own =
     .label = Permetre a las paginas de causir lors polissas, puslèu que las seleccions precedentas
     .accesskey = A
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
