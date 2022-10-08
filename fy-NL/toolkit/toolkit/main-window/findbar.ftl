@@ -32,12 +32,18 @@ findbar-entire-word =
     .accesskey = e
     .tooltiptext = Allinnich hiele wurden sykje
 findbar-not-found = Tekst net fûn
+findbar-wrapped-to-top = Underkant fan de side berikt, trochgien fan de boppekant ôf
+findbar-wrapped-to-bottom = Boppekant fan de side berikt, trochgien fan de ûnderkant ôf
+findbar-normal-find =
+    .placeholder = Sykje op side
 findbar-fast-find =
     .placeholder = Fluch sykje
 findbar-fast-find-links =
     .placeholder = Fluch sykje (allinnich keppelingen):
 findbar-case-sensitive-status =
     .value = (Haadlettergefoelich)
+findbar-entire-word-status =
+    .value = (Allinnich hiele wurden)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
