@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY productHelp.label "Adjuta de &brandShortName;">
 <!ENTITY productHelp.accesskey "A">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

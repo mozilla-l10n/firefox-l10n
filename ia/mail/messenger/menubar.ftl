@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Parametros
     .accesskey = a
+
 menu-addons-and-themes =
     .label = Additivos e themas
     .accesskey = A
@@ -20,39 +21,51 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Adjuta
     .accesskey = A
+
 menu-help-get-help =
     .label = Obtener adjuta
     .accesskey = a
+
 menu-help-explore-features =
     .label = Discoperi le functionalitates
     .accesskey = f
+
 menu-help-shortcuts =
     .label = Vias breve de claviero
     .accesskey = b
+
 menu-help-get-involved =
     .label = Collabora
     .accesskey = C
+
 menu-help-donation =
     .label = Face un donation
     .accesskey = d
+
 menu-help-share-feedback =
     .label = Comparti ideas e commentarios
     .accesskey = C
+
 menu-help-enter-troubleshoot-mode =
     .label = Modo diagnostic…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Disactivar le modo diagnostic
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Altere informationes diagnostic
     .accesskey = A
+
 menu-help-troubleshooting-info =
     .label = Informationes diagnostic
     .accesskey = I
+
 menu-help-about-product =
     .label = A proposito de { -brand-short-name }
     .accesskey = A
+
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -65,9 +78,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Quitar { -brand-shorter-name }
+
 quit-app-shortcut =
     .key = Q
 
@@ -97,33 +112,43 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Dimension del litteras
     .accesskey = i
+
 menuitem-font-size-enlarge =
     .label = Augmentar le dimension del litteras
     .accesskey = A
+
 menuitem-font-size-reduce =
     .label = Reducer le dimension del litteras
     .accesskey = R
+
 menuitem-font-size-reset =
     .label = Remontar le dimension del litteras
     .accesskey = R
+
 mail-uidensity-label =
     .label = Densitate
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Compactar
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Tactile
     .accesskey = T
+
 mail-uidensity-default =
     .label = Predefinite
     .accesskey = P
+
 mail-uidensity-relaxed =
     .label = Relaxate
     .accesskey = R
+
 menu-spaces-toolbar-button =
     .label = Barra de spatios
     .accesskey = s

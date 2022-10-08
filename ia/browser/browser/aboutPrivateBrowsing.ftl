@@ -22,10 +22,12 @@ about-private-browsing-not-private = Tu non es actualmente in un fenestra privat
 about-private-browsing-info-description-private-window = Fenestra private: { -brand-short-name } cancella le chronologia de recerca e navigation quando es claudite tote le fenestras private. Isto non te rende anonyme.
 about-private-browsing-info-description-simplified = { -brand-short-name } cancella le chronologia de recerca e navigation quando es claudite tote le fenestras private, ma isto non te rende anonyme.
 about-private-browsing-learn-more-link = Saper plus
+
 about-private-browsing-hide-activity = Cela tu activitate e tu position, ubicunque tu naviga
 about-private-browsing-get-privacy = Obtene protectiones de confidentialitate ubicunque tu naviga
 about-private-browsing-hide-activity-1 = Cela tu activate de navigation e tu position con { -mozilla-vpn-brand-name }. Un sol clic pro crear un connexion secur, mesmo sur wi-fi public.
 about-private-browsing-prominent-cta = Resta private con { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Discargar{ -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigation anonyme al volo
 about-private-browsing-focus-promo-text = Nostre app mobile devote al navigation anonyme, clara tu chronologia e cookies cata vice.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Porta le navigation private a tu t
 about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } pro cercar qualcosa sin lassar tracias in tu navigator mobile principal.
 about-private-browsing-focus-promo-header-c = Confidentialitate de nivello superior sur mobile
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } elimina automaticamente le chronologia, ultra a blocar le publicitate e le traciatores.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Clauder
+
 about-private-browsing-promo-close-button =
     .title = Clauder
 

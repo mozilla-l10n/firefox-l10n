@@ -6,10 +6,12 @@ common-dialog-title-null = Iste pagina dice
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Incognite
+
 common-dialog-username =
     .value = Nomine de usator
 common-dialog-password =
     .value = Contrasigno
+
 common-dialog-copy-cmd =
     .label = Copiar
     .accesskey = C
