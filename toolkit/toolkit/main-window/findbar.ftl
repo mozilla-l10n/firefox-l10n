@@ -32,6 +32,8 @@ findbar-entire-word =
     .accesskey = მ
     .tooltiptext = მხოლოდ მთლიანი სიტყვების ძიება
 findbar-not-found = ფრაზა ვერ მოიძებნა
+findbar-wrapped-to-top = მიღწეულია გვერდის ბოლო, გრძელდება თავიდან
+findbar-wrapped-to-bottom = მიღწეულია გვერდის თავი, გრძელდება ბოლოდან
 findbar-normal-find =
     .placeholder = გვერდზე პოვნა
 findbar-fast-find =
@@ -40,5 +42,24 @@ findbar-fast-find-links =
     .placeholder = სწრაფი პოვნა (მხოლოდ ბმულები)
 findbar-case-sensitive-status =
     .value = (მთავრულის გათვალისწინებით)
+findbar-match-diacritics-status =
+    .value = (ემთხვევა ნიშნები)
 findbar-entire-word-status =
     .value = (მხოლოდ მთლიანი სიტყვები)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] თანხვედრა { $current }, სულ { $total }
+           *[other] თანხვედრა { $current }, სულ { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] არანაკლებ { $limit } თანხვედრა
+           *[other] არანაკლებ { $limit } თანხვედრა
+        }
