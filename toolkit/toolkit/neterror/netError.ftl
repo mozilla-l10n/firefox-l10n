@@ -38,6 +38,13 @@ neterror-load-error-try-again = Misschien is de website tijdelijk niet beschikba
 neterror-load-error-connection = Als u geen enkele pagina kunt laden, controleer dan de netwerkverbinding van uw computer.
 neterror-load-error-firewall = Als uw computer of netwerk wordt beveiligd door een firewall of proxy, zorg er dan voor dat { -brand-short-name } toegang heeft tot het web.
 neterror-captive-portal = U moet zich aanmelden bij dit netwerk voordat u toegang hebt tot het internet.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Wilde u naar <a data-l10n-name="website">{ $hostAndPath }</a> gaan?
+neterror-dns-not-found-hint-header = <strong>Als u het juiste adres hebt ingevoerd, kunt u:</strong>
+neterror-dns-not-found-hint-try-again = Het later opnieuw proberen
+neterror-dns-not-found-hint-check-network = Uw netwerkverbinding controleren
+neterror-dns-not-found-hint-firewall = Controleren of { -brand-short-name } toestemming heeft om toegang te krijgen tot internet (u bent mogelijk verbonden maar bevindt zich achter een firewall)
 neterror-file-not-found-filename = Controleer de bestandsnaam op grote/kleine letters of andere typefouten.
 neterror-file-not-found-moved = Controleer of het bestand is verplaatst, hernoemd of verwijderd.
 neterror-access-denied = Het kan zijn verwijderd, verplaatst, of bestandsmachtigingen kunnen toegang tegengaan.
