@@ -7,6 +7,7 @@
 
 neterror-page-title = પાનું લાવવામાં સમસ્યા
 neterror-blocked-by-policy-page-title = અવરોધિત પૃષ્ઠ
+neterror-captive-portal-page-title = નેટવર્કમાં પ્રવેશ કરો
 neterror-dns-not-found-title = સર્વર મળતું નથી
 
 ## Error page actions
@@ -15,6 +16,7 @@ neterror-copy-to-clipboard-button = ક્લિપબોર્ડમાં લ�
 neterror-learn-more-link = વધુ શીખો…
 neterror-open-portal-login-page-button = ખુલ્લું નેટવર્ક લૉગિન પૃષ્ઠ
 neterror-pref-reset-button = મૂળભુત સેટિંગ પાછા લાવો
+neterror-return-to-previous-page-button = પાછા જાવ
 neterror-try-again-button = પુનઃપ્રયાસ કરો
 
 ##
