@@ -43,7 +43,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer-tamaina:
+
 perftools-custom-threads-label = Gehitu hari pertsonalizatuak izenez:
+
 perftools-devtools-interval-label = Tartea:
 perftools-devtools-threads-label = Hariak:
 perftools-devtools-settings-label = Ezarpenak
@@ -113,6 +115,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Saihestu goiko hautapenak eta grabatu erregistratutako hari guztiak
+
 perftools-tools-threads-input-label =
     .title = Hari-izen hauek komaz bereizitako zerrenda bat dira eta harien analisia gaitzeko erabiltzen da analizatzailean. Haria kontuan har dadin, nahikoa da hari-izena erdizka bat etortzea; zuriuneak errespetatu egiten dira.
 
@@ -120,6 +123,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Berria</b>: { -profiler-brand-name } orain garatzaile-tresnen zati da. Eskuratu tresna boteretsu berri honi buruzko <a>argibide gehiago</a>.
+
 perftools-onboarding-close-button =
     .aria-label = Itxi aurkezpeneko mezua
 
@@ -132,17 +136,23 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Web garapena
 perftools-presets-web-developer-description = Web aplikazio gehienen arazketarako gomendatutako aurrezarpena, eragin negatibo txikiarekin.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = { -brand-shorter-name }(r)en profila egiteko gomendatutako aurrezarpena.
+
 perftools-presets-graphics-label = Grafikoak
 perftools-presets-graphics-description = { -brand-shorter-name }(r)en programa-errore grafikoak ikertzeko aurrezarpena.
+
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
+
 perftools-presets-networking-label = Sarea
 perftools-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
 perftools-presets-power-description = { -brand-shorter-name }(r)en energia-erabilpenaren arazoak ikertzeko aurrezarpena, eragin negatibo txikiarekin.
+
 perftools-presets-custom-label = Pertsonalizatua
 
 ##

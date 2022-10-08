@@ -5,8 +5,10 @@
 app-manager-window-dialog =
     .title = Aplikazio xehetasunak
     .style = width: 30em; min-height: 20em;
+
 app-manager-window-dialog2 =
     .title = Aplikazio xehetasunak
+
 remove-app-button =
     .label = Kendu
     .accesskey = K

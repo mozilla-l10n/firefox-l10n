@@ -22,10 +22,12 @@ about-private-browsing-not-private = Une honetan ez zaude leiho pribatu batean.
 about-private-browsing-info-description-private-window = Leiho pribatua: { -brand-short-name }(e)k zure bilaketa- eta nabigazio-historia garbitzen ditu leiho pribatu guztiak ixtean. Honek ez zaitu anonimo egiten.
 about-private-browsing-info-description-simplified = { -brand-short-name }(e)k zure bilaketa- eta nabigazio-historia garbitzen ditu leiho pribatu guztiak ixtean baina honek ez zaitu anonimo egiten.
 about-private-browsing-learn-more-link = Argibide gehiago
+
 about-private-browsing-hide-activity = Ezkutatu zure jarduera eta kokapena, nabigatzen duzun toki orotan
 about-private-browsing-get-privacy = Eskuratu pribatutasun-babesak nabigatzen duzun toki orotan
 about-private-browsing-hide-activity-1 = Ezkutatu nabigazio-jarduera eta kokapena { -mozilla-vpn-brand-name } erabiliz. Klik bakarrak konexio segurua sortzen du, baita Wi-Fi publikoetan ere.
 about-private-browsing-prominent-cta = Mantendu pribatu { -mozilla-vpn-brand-name } erabiliz
+
 about-private-browsing-focus-promo-cta = Deskargatu { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: nabigazio pribatua edonon
 about-private-browsing-focus-promo-text = Gure berariazko nabigatze pribatuko aplikazio mugikorrak zure historia eta cookieak garbitzen ditu aldi oro.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Eramazu nabigatze pribatua zure te
 about-private-browsing-focus-promo-text-b = Erabili { -focus-brand-name } zure mugikorreko nabigatzaileak ikusterik nahi ez dituzun bilaketa pribatu horiek egiteko.
 about-private-browsing-focus-promo-header-c = Hurrengo mailako pribatutasuna mugikorrean
 about-private-browsing-focus-promo-text-c = { -focus-brand-name }(e)k zure historia eta cookieak garbitzen ditu aldi oro, halaber publizitatea eta jarraipen-elementuak ere blokeatzen ditu.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Itxi
+
 about-private-browsing-promo-close-button =
     .title = Itxi
 

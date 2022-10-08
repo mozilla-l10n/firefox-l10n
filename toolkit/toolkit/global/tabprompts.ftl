@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Erabiltzaile-izena:
 tabmodalprompt-password =
     .value = Pasahitza:
+
 tabmodalprompt-ok-button =
     .label = Ados
 tabmodalprompt-cancel-button =

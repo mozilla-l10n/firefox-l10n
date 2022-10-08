@@ -4,11 +4,16 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Hurrengoa
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Ulertu dut!
 
 ## Firefox View feature tour strings
 
 callout-firefox-view-colorways-title = Gehitu kolore ukitu bat
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Aukeratu kolore-konbinazioekin ongien datorkizun ñabardura. { -brand-product-name }(e)n bakarrik.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+

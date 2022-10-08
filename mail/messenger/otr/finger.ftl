@@ -3,14 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 otr-finger-title = Aurretik ikusitako OTR hatz-markak
+
 finger-intro = OTR hatz-marka gakoa aurreko muturretik muturrera zifratutako elkarrizketena.
+
 finger-screen-name =
     .label = Kontaktua
 finger-verified =
     .label = Egiaztapen egoera
 finger-fingerprint =
     .label = Hatz-marka
+
 finger-remove =
     .label = Kendu hautatutakoak
+
 finger-remove-all =
     .label = Kendu denak

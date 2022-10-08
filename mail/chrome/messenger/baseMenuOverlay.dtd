@@ -13,6 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "b">
 <!ENTITY productHelp.label "&brandShortName;(r)en laguntza">
 <!ENTITY productHelp.accesskey "l">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "azel">

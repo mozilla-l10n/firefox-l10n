@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Gordetako helbideak
 autofill-manage-addresses-list-header = Helbideak
+
 autofill-manage-credit-cards-title = Gordetako kreditu-txartelak
 autofill-manage-credit-cards-list-header = Kreditu-txartelak
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Kendu
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Editatu…
 autofill-add-new-address-title = Gehitu helbide berria
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editatu helbidea
+
 autofill-address-given-name = Izena
 autofill-address-additional-name = Bigarren izena
 autofill-address-family-name = Abizenak
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Herrialdea edo eskualdea
 autofill-address-tel = Telefonoa
 autofill-address-email = Helbide elektronikoa
+
 autofill-cancel-button = Utzi
 autofill-save-button = Gorde
 autofill-country-warning-message = Inprimakiak automatikoki betetzea momentuz zenbait herrialdetan dago erabilgarri soilik.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Gehitu kreditu-txartel berria
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editatu kreditu-txartela
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
        *[other] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }.
     }
+
 autofill-card-number = Txartelaren zenbakia
 autofill-card-invalid-number = Idatzi baliozko txartel-zenbakia
 autofill-card-name-on-card = Txarteleko izena
