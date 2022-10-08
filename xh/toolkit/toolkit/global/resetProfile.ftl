@@ -6,6 +6,7 @@ refresh-profile-dialog-button =
     .label = Seta kwakhona i-{ -brand-short-name }
 refresh-profile = Nika i-{ -brand-short-name } ulungiso
 refresh-profile-button = Seta kwakhona i-{ -brand-short-name }…
+
 refresh-profile-progress =
     .title = Seta kwakhona i-{ -brand-short-name }
 refresh-profile-progress-description = Sele iza kugqiba...

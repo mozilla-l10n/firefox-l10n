@@ -117,8 +117,3 @@ options-context-triggers-page-refresh = * Iseshoni ekhoyo kuphela iyaphinda ilow
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Bonisa idatha yeGecko platfom
-options-show-platform-data-tooltip =
-    .title = Ukuba uvula olu khetho, ingxelo yoMenzi-Profayili weJavaScript iya kuquka izimbo zeplatfom yeGecko

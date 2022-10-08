@@ -5,11 +5,14 @@
 containers-window-new =
     .title = Yongeza iKhonteyina eNtsha
     .style = width: 45em
+
 containers-window-new2 =
     .title = Yongeza iKhonteyina eNtsha
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -20,6 +23,7 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-color-blue =
     .label = eBlue
 containers-color-turquoise =
@@ -36,6 +40,7 @@ containers-color-pink =
     .label = EPinki
 containers-color-purple =
     .label = Epurple
+
 containers-icon-fingerprint =
     .label = Umzila womnwe
 containers-icon-briefcase =

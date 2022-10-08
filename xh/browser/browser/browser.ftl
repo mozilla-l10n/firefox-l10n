@@ -155,6 +155,10 @@ search-one-offs-add-engine-menu =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 
@@ -423,3 +427,6 @@ data-reporting-notification-message = { -brand-short-name } ithumela enye ingcom
 data-reporting-notification-button =
     .label = Khetha into endabelana ngayo
     .accesskey = K
+
+## Unified extensions (toolbar) button
+
