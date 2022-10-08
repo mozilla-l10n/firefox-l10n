@@ -10,6 +10,7 @@
 <!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY productHelp.label "Ayuda de &brandShortName;">
 <!ENTITY productHelp.accesskey "b">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">

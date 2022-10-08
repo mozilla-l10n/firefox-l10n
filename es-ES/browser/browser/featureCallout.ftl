@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Siguiente
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = ¡Entendido!
 
@@ -12,13 +13,20 @@ callout-primary-complete-button-label = ¡Entendido!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Cambie entre dispositivos llevándose sus pestañas
+
 callout-firefox-view-tab-pickup-subtitle = Traiga rápidamente las pestañas abiertas de su teléfono y ábralas aquí directamente.
+
 callout-firefox-view-recently-closed-title = Recupere en un instante sus pestañas cerradas
+
 callout-firefox-view-recently-closed-subtitle = Todas las pestañas cerradas aparecerán mágicamente aquí. No vuelva a preocuparse por cerrar accidentalmente un sitio.
+
 callout-firefox-view-colorways-title = Añade un toque de color
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Elija el tono que le represente con combinaciones de colores. Solo en { -brand-product-name }.
+
 callout-firefox-view-colorways-reminder-title = Explore nuestras últimas combinaciones de colores
+
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Coloree su navegador con estos tonos icónicos, inspirados en voces independientes. Solo en { -brand-product-name }.
 
@@ -28,5 +36,7 @@ callout-firefox-view-colorways-reminder-subtitle = Coloree su navegador con esto
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Mejore su navegación con la recuperación de pestañas
+
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Acceda a sus pestañas abiertas desde cualquier dispositivo. Además, sincronice sus marcadores, contraseñas y más.
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Comenzar

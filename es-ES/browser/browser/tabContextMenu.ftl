@@ -106,6 +106,7 @@ tab-context-move-tabs =
            *[other] Mover pestañas
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
