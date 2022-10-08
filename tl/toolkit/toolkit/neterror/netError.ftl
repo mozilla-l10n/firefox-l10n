@@ -16,6 +16,7 @@ neterror-copy-to-clipboard-button = Kopyahin sa clipboard
 neterror-open-portal-login-page-button = Buksan ang Login na Pahina para sa Network
 neterror-pref-reset-button = Ibalik ang default settings
 neterror-return-to-previous-page-button = Bumalik
+neterror-view-certificate-link = Ipakita ang Certificate
 
 ##
 
