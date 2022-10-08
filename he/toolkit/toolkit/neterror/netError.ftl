@@ -5,6 +5,7 @@
 
 ## Error page titles
 
+neterror-page-title = בעיה בטעינת הדף
 certerror-page-title = אזהרה: סכנת אבטחה אפשרית לפניך
 certerror-sts-page-title = לא בוצעה התחברות: חולשת אבטחה אפשרית
 neterror-blocked-by-policy-page-title = עמוד חסום
@@ -37,6 +38,13 @@ neterror-load-error-try-again = האתר איננו זמין כרגע או שה�
 neterror-load-error-connection = אם אינך מצליח לטעון שום דף, מומלץ לבדוק את הקישוריות של המחשב שלך לרשת.
 neterror-load-error-firewall = אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, יש לוודא כי { -brand-short-name } מורשה לגישה לרשת.
 neterror-captive-portal = עליך להתחבר לרשת זו כדי לגלוש באינטרנט.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = האם התכוונת לעבור אל <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>אם הזנת את הכתובת הנכונה, באפשרותך:</strong>
+neterror-dns-not-found-hint-try-again = לנסות שוב מאוחר יותר
+neterror-dns-not-found-hint-check-network = לבדוק את חיבור הרשת שלך
+neterror-dns-not-found-hint-firewall = לבדוק של־{ -brand-short-name } יש הרשאה לגשת לרשת (ייתכן שיש חיבור אבל מאחורי חומת אש)
 neterror-file-not-found-filename = בדוק ששם הקובץ אוית נכון, שנעשה שימוש נכון באותיות רישיות ושאין שגיאות הקלדה אחרות.
 neterror-file-not-found-moved = בדוק אם הקובץ הועבר, שינה שם או נמחק.
 neterror-access-denied = ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.
@@ -48,6 +56,11 @@ neterror-not-cached-intro = המסמך המבוקש לא זמין במטמון �
 neterror-not-cached-sensitive = כאמצעי זהירות, { -brand-short-name } לא יבקש שוב אוטומטית מסמכים רגישים.
 neterror-not-cached-try-again = לחץ נסה שוב כדי לבקש מחדש את המסמך מאתר האינטרנט.
 neterror-net-offline = לחץ על “נסה שוב” כדי לעבור למצב מקוון ולטעון מחדש את הדף.
+neterror-proxy-resolve-failure-settings = נא לבדוק כי הגדרות השרת המתווך שלך נכונות.
+neterror-proxy-resolve-failure-connection = נא לוודא כי חיבור המחשב שלך לרשת פעיל.
+neterror-proxy-resolve-failure-firewall = אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, נא לוודא כי { -brand-short-name } מורשה לגישה לרשת.
+neterror-proxy-connect-failure-settings = נא לבדוק כי הגדרות השרת המתווך שלך נכונות.
+neterror-proxy-connect-failure-contact-admin = נא ליצור קשר עם מנהל הרשת שלך כדי לוודא כי השרת המתווך מתפקד.
 neterror-content-encoding-error = נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.
 neterror-unsafe-content-type = נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.
 neterror-nss-failure-not-verified = לא ניתן להציג את הדף המבוקש מכיוון שאין אפשרות לאמת את אמינות הנתונים שהתקבלו.
@@ -83,11 +96,14 @@ neterror-network-protocol-error-contact-website = נא ליצור קשר עם ב
 certerror-expired-cert-second-para = כנראה שפג תוקף אישור האבטחה של האתר, מצב זה מונע מ־{ -brand-short-name } להתחבר באופן מאובטח. אם ברצונך לבקר באתר זה, תוקפים יכולים לנסות לגנוב מידע כמו הססמאות, הודעות דוא״ל או פרטי כרטיס האשראי שלך.
 certerror-expired-cert-sts-second-para = כנראה שפג תוקף אישור האבטחה של האתר, מצב זה מונע מ־{ -brand-short-name } להתחבר באופן מאובטח.
 certerror-what-can-you-do-about-it-title = מה ניתן לעשות בנדון?
+certerror-unknown-issuer-what-can-you-do-about-it-website = כנראה שהבעיה היא באתר, ואין שום דבר שבאפשרותך לעשות כדי לפתור זאת.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = אם הינך ברשת ארגונית או אם מותקנת תוכנת אנטיוירוס, ניתן לפנות אל צוותי התמיכה לקבלת סיוע. באפשרותך גם להודיע למנהל האתר על הבעיה.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = שעון המחשב שלך מוגדר ל־{ DATETIME($now, dateStyle: "medium") }. נא לוודא שהתאריך, השעה ואזור הזמן הנכונים מוגדרים בהגדרות המערכת במחשב, ולאחר מכן לרענן את <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = אם השעון שלך כבר מוגדר לשעה הנכונה, יתכן שהאתר לא מוגדר כראוי, ואין שום דבר שבאפשרותך לעשות כדי לפתור את התקלה. ניתן ליידע את מנהל האתר בנוגע לבעיה.
+certerror-bad-cert-domain-what-can-you-do-about-it = כנראה שהבעיה היא באתר, ואין שום דבר שבאפשרותך לעשות כדי לפתור זאת. ניתן להודיע למנהל האתר על הבעיה.
 certerror-mitm-what-can-you-do-about-it-antivirus = אם תכנית האנטי־וירוס שלך כוללת תכונה הסורקת חיבורים מוצפנים (המכונה לעתים קרובות ”סריקת אינטרנט” או ”סריקת https”), ניתן לנסות להשבית את התכונה. אם פעולה זו לא סייעה בפתרון התקלה, באפשרותך להסיר ולהתקין מחדש את תכנית האנטי־וירוס.
 certerror-mitm-what-can-you-do-about-it-corporate = אם מחשב זה הוא חלק ממערך ארגוני, ניתן ליצור קשר עם מחלקת המחשוב שלך.
 # Variables:
