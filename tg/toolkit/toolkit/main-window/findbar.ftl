@@ -31,3 +31,35 @@ findbar-entire-word =
     .label = Калимаҳои пурра
     .accesskey = К
     .tooltiptext = Ҷустуҷӯи танҳо калимаҳои пурра
+findbar-not-found = Ибора ёфт нашуд
+findbar-wrapped-to-top = Ба поёни саҳифа расид, аз боло идома ёфт
+findbar-wrapped-to-bottom = Ба болои саҳифа расид, аз поён идома ёфт
+findbar-normal-find =
+    .placeholder = Ҷустуҷӯ дар саҳифа
+findbar-fast-find =
+    .placeholder = Ҷустуҷӯи фаврӣ
+findbar-fast-find-links =
+    .placeholder = Ҷустуҷӯи фаврӣ (танҳо пайвандҳо)
+findbar-case-sensitive-status =
+    .value = (Бо дарназардошти ҳарфҳои хурду калон)
+findbar-match-diacritics-status =
+    .value = (Бо дарназардошти аломатҳои диакритикӣ)
+findbar-entire-word-status =
+    .value = (Танҳо калимаҳои пурра)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } аз { $total } мувофиқат
+           *[other] { $current } аз { $total } мувофиқат
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Зиёда аз { $limit } мувофиқат
+           *[other] Зиёда аз { $limit } мувофиқат
+        }
