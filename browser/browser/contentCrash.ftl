@@ -5,9 +5,26 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>بخشی از این صفحه خراب شد.</strong> برای اطلاع { -brand-product-name } از این مسئله و رفع سریعتر آن، لطفاً گزارشی ارسال کنید.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = بخشی از این صفحه خراب شد. لطفاً برای اطلاع { -brand-product-name } از این موضوع و رفع سریعتر آن، یک گزارش ارسال کنید.
+crashed-subframe-learnmore-link =
+    .value = بیشتر بدانید
+crashed-subframe-submit =
+    .label = ثبت گزارش
+    .accesskey = S
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] شما یک گزارش فروپاشیِ ارسال نشده دارید
+       *[other] شما { $reportCount } گزارش فروپاشیِ ارسال نشده دارید
+    }
 pending-crash-reports-view-all =
     .label = نمایش
 pending-crash-reports-send =
