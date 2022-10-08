@@ -50,6 +50,8 @@ vcard-n-suffix = Suffix
 vcard-n-add-suffix =
     .title = Suffix hinzufügen
 
+# Nickname
+
 # Email vCard field
 
 vcard-email-header = E-Mail-Adresse
@@ -59,9 +61,6 @@ vcard-email-add = E-Mail-Adresse hinzufügen
 vcard-email-label = E-Mail-Adresse
 
 vcard-primary-email-label = Standard
-
-vcard-email-choose-primary = Standard
-    .aria-label = Standard-E-Mail-Adresse auswählen
 
 # URL vCard field
 
@@ -86,8 +85,6 @@ vcard-tz-header = Zeitzone
 vcard-tz-add = Zeitzone hinzufügen
 
 # IMPP vCard field
-
-vcard-impp-header = Chat-Konten
 
 vcard-impp-add = Chat-Konto hinzufügen
 
@@ -119,10 +116,6 @@ vcard-adr-label = Adresse
 
 vcard-adr-delivery-label = Lieferungsbeschriftung
 
-vcard-adr-pobox = Postfach
-
-vcard-adr-ext = Adresszusatz
-
 vcard-adr-street = Straßenadresse
 
 # Or "Locality"
@@ -153,3 +146,6 @@ vcard-org-title = Titel
 vcard-org-role = Position
 
 vcard-org-org = Organisation
+
+# Custom properties
+

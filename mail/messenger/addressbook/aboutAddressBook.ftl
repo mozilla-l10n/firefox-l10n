@@ -60,9 +60,6 @@ about-addressbook-search =
 about-addressbook-search-all =
   .placeholder = In allen Adressbüchern suchen
 
-about-addressbook-sort-button =
-  .title = Sortierregel ändern
-
 about-addressbook-sort-button2 =
   .title = Anzeigeoptionen öffnen
 
@@ -196,8 +193,6 @@ about-addressbook-add-contact-to = Hinzufügen zu:
 
 about-addressbook-details-email-addresses-header = E-Mail-Adressen
 about-addressbook-details-phone-numbers-header = Telefonnummern
-about-addressbook-details-home-address-header = Privatadresse
-about-addressbook-details-work-address-header = Dienstadresse
 about-addressbook-details-addresses-header = Adressen
 about-addressbook-details-notes-header = Notizen
 about-addressbook-details-other-info-header = Weitere Informationen
@@ -212,7 +207,6 @@ about-addressbook-entry-name-birthday = Geburtstag
 about-addressbook-entry-name-anniversary = Jubiläum
 about-addressbook-entry-name-title = Titel
 about-addressbook-entry-name-role = Position
-about-addressbook-entry-name-department = Abteilung
 about-addressbook-entry-name-organization = Organisation
 about-addressbook-entry-name-website = Website
 about-addressbook-entry-name-time-zone = Zeitzone
@@ -230,3 +224,6 @@ about-addressbook-photo-filepicker-title = Bilddatei auswählen
 about-addressbook-photo-discard = Bestehendes Foto verwerfen
 about-addressbook-photo-cancel = Abbrechen
 about-addressbook-photo-save = Speichern
+
+# Keyboard shortcuts
+

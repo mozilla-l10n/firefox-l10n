@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Lautstärke
 videocontrols-closed-caption-button =
     .aria-label = Untertitel
+
 videocontrols-play-button =
     .aria-label = Abspielen
 videocontrols-pause-button =
@@ -28,24 +29,31 @@ videocontrols-casting-button-label =
     .aria-label = An Bildschirm weiterleiten
 videocontrols-closed-caption-off =
     .offlabel = Keine
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Bild-im-Bild (PiP)
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = In Bild-im-Bild ansehen
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Spielen Sie Videos im Vordergrund ab, während Sie anderweitig in { -brand-short-name } beschäftigt sind
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Dieses Video herausholen
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Mehr Bildschirme machen mehr Spaß. Dieses Video in Bild-im-Bild abspielen, während Sie surfen.
+
 videocontrols-picture-in-picture-explainer3 = Mehr Bildschirme machen mehr Spaß. Spielen Sie dieses Video ab, während Sie andere Dinge tun.
+
 videocontrols-error-aborted = Laden des Videos gestoppt.
 videocontrols-error-network = Abspielen des Videos wegen eines Netzwerkfehlers abgebrochen.
 videocontrols-error-decode = Video kann nicht abgespielt werden, weil die Datei beschädigt ist.
@@ -53,6 +61,7 @@ videocontrols-error-src-not-supported = Video-Format oder MIME-Typ wird nicht un
 videocontrols-error-no-source = Kein Video mit unterstütztem Format und MIME-Typ gefunden.
 videocontrols-error-generic = Abspielen des Videos wegen eines unbekannten Fehlers abgebrochen.
 videocontrols-status-picture-in-picture = Dieses Video wird im Modus "Bild im Bild" (PiP) wiedergegeben.
+
 # This message shows the current position and total video duration
 #
 # Variables:

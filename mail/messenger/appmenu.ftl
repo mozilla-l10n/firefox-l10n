@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## New Account
+
+## New Account / Address Book
+
+## Create
+
+## Open
+
 ## View / Layout
 
 appmenu-font-size-value = Schriftgröße
@@ -17,3 +25,8 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
   .label = { $size }px
   .tooltiptext = Zurücksetzen der Schriftgröße
+
+## Tools
+
+## Help
+

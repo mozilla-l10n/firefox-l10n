@@ -258,9 +258,6 @@ openpgp-key-man-key-details-key =
 openpgp-ign-addr-intro =
     Sie akzeptieren den Schlüssel für die folgenden E-Mail-Adressen:
 
-openpgp-key-details-title =
-    .title = Schlüsseleigenschaften
-
 openpgp-key-details-doc-title = Schlüsseleigenschaften
 openpgp-key-details-signatures-tab =
     .label = Zertifizierungen
@@ -269,7 +266,6 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Benutzerkennung / Zertifiziert von
 openpgp-key-details-key-id-label = Schlüssel-ID
-openpgp-key-details-user-id2-label = Vorgeblicher Schlüsselbesitzer
 openpgp-key-details-user-id3-label = Vorgeblicher Schlüsselbesitzer
 openpgp-key-details-id-label =
     .label = ID
@@ -591,9 +587,6 @@ key-error-not-accepted-as-personal = Sie haben nicht bestätigt, dass der Schlü
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Die gewählte Funktion ist nicht im Offline-Modus verfügbar. Bitte gehen Sie online und versuchen Sie es erneut.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Leider konnte kein passender Schlüssel zu den angegebenen Suchkriterien gefunden werden.
 
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Es wurde kein Schlüssel gefunden, welcher den Suchkriterien entspricht.

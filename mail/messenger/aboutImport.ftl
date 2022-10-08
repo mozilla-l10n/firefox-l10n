@@ -16,12 +16,6 @@ import-start-description = Wählen Sie aus, woher importiert werden soll. Sie k�
 
 import-from-app = Aus Anwendung importieren
 
-import-from-app-desc = Zu importierende Konten, Adressbücher, Kalender und weitere Daten auswählen:
-
-import-address-book = Adressbuchdatei importieren
-
-import-calendar = Kalenderdatei importieren
-
 import-file = Aus Datei importieren
 
 import-file-title = Datei auswählen, deren Inhalt importiert werden soll
@@ -35,8 +29,6 @@ import-calendar-title = Kalenderdatei importieren
 export-profile = Exportieren
 
 ## Buttons
-
-button-cancel = Abbrechen
 
 button-back = Zurück
 
@@ -57,20 +49,6 @@ app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 
 app-name-apple-mail = Apple Mail
-
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Import aus { $app }
-
-profiles-pane-desc = Speicherort wählen, aus dem importiert werden soll
-
-profile-file-picker-dir = Profilordner wählen
-
-profile-file-picker-zip = .zip-Datei wählen (kleiner als 2GB)
-
-items-pane-title = Wählen Sie die zu importierenden Daten aus
-
-items-pane-source = Import aus folgendem Speicherort:
 
 source-thunderbird = Import aus einer anderen { app-name-thunderbird }-Installation
 
@@ -163,8 +141,6 @@ items-pane-override = Bestehende oder identische Daten werden nicht überschrieb
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Zu importierenden Dateityp auswählen:
-
 import-from-addr-book-file-description = Dateiformat des zu importierenden Adressbuchs auswählen
 
 addr-book-csv-file = Komma- oder Tabulator-getrennte Datei (.csv, .tsv)
@@ -183,13 +159,9 @@ addr-book-csv-field-map-title = Übereinstimmende Feldnamen erkennen
 
 addr-book-csv-field-map-desc = Weisen Sie den Quellfeldern der Datei die entsprechenden Adressbuchfelder zu. Wählen Sie nicht zu importierende Felder ab.
 
-addr-book-directories-pane-title = Wählen Sie den Ordner aus, in welchen importiert werden soll:
-
 addr-book-directories-title = Zu verwendendes Adressbuch auswählen
 
 addr-book-directories-pane-source = Quelldatei:
-
-addr-book-import-into-new-directory = Neuen Ordner erstellen
 
 ## Import from address book file steps
 
@@ -217,8 +189,6 @@ calendar-select-all-items = Alle auswählen
 
 calendar-deselect-all-items = Alle abwählen
 
-calendar-import-into-new-calendar = Neuen Kalender erstellen
-
 calendar-target-title = Zu verwendender Kalender
 
 # $targetCalendar (string) - name of the new calendar that would be created
@@ -237,14 +207,6 @@ calendar-summary-description = Es wird ein Kalender mit dem Namen "{ $targetCale
 
 ## Import dialog
 
-progress-pane-importing = Import wird durchgeführt
-
-progress-pane-exporting = Export wird durchgeführt
-
-progress-pane-finished-desc = Abgeschlossen
-
-progress-pane-restart-desc = Neu starten, um den Import abzuschließen.
-
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Import wird durchgeführt… { $progressPercent }
 
@@ -254,10 +216,6 @@ progress-pane-exporting2 = Export wird durchgeführt… { $progressPercent }
 progress-pane-finished-desc2 = Fertig
 
 error-pane-title = Fehler
-
-error-message-zip-file-too-big = Die ausgewählte .zip-Datei ist größer als 2GB. Entpacken Sie diese erst und importieren Sie anschließend den entpackten Ordner.
-
-error-message-extract-zip-file-failed = Fehler beim Entpacken der .zip-Datei. Entpacken Sie diese erst und importieren Sie anschließend den entpackten Ordner.
 
 error-message-zip-file-too-big2 = Die ausgewählte .zip-Datei ist größer als 2GB. Entpacken Sie diese erst und importieren Sie anschließend den entpackten Ordner.
 
@@ -285,17 +243,11 @@ csv-target-field = Adressbuchfeld
 
 ## Export tab
 
-export-profile-desc = E-Mail-Konten und -Nachrichten sowie Adressbücher und Einstellungen in eine ZIP-Datei exportieren. Bei Bedarf kann die ZIP-Datei importiert werden, um Ihr Profil wiederherzustellen.
-
-export-profile-desc2 = Falls der Profilordner größer als 2GB ist, wird das manuelle Erstellen der Sicherheitskopie empfohlen.
-
 export-profile-title = Konten, Nachrichten, Adressbücher und Einstellungen in eine .zip-Datei exportieren
 
 export-profile-description = Falls der Profilordner größer als 2GB ist, wird das manuelle Erstellen der Sicherheitskopie empfohlen.
 
 export-open-profile-folder = Profilordner öffnen
-
-export-file-picker = In ZIP-Datei exportieren
 
 export-file-picker2 = In ZIP-Datei exportieren
 
