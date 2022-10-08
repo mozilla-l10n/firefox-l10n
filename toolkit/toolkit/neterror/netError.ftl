@@ -9,18 +9,22 @@ neterror-captive-portal-page-title = Se connectar al ret
 
 ## Error page actions
 
+neterror-copy-to-clipboard-button = Copiar lo tèxte dins lo quichapapièrs
 neterror-learn-more-link = Ne saber mai…
 neterror-open-portal-login-page-button = Dobrir la pagina de connexion al ret
+neterror-pref-reset-button = Restablir los paramètres per defaut
 neterror-return-to-previous-page-button = Tornar en arrièr
 
 ##
 
+neterror-error-reporting-automatic = Senhalar de talas errors ajuda { -vendor-short-name } a identificar e blocar de sites malvolents
 
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } pòt pas cargar aquesta pagina.
 neterror-file-not-found-filename = Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas) ;
 neterror-file-not-found-moved = Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.
+neterror-access-denied = Benlèu es estat suprimit, bolegat o las permissions del fichièr n'empacharián l'accès.
 neterror-unknown-protocol = Benlèu qu'es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.
 neterror-redirect-loop = La causa d'aqueste problèma pòt èsser la desactivacion o lo refús dels cookies.
 neterror-unknown-socket-type-psm-installed = Verificatz que lo gestionari de seguretat personala (PSM) es installat sus vòstre sistèma.
