@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = E jarolla Disetifikeiti
     .style = width: 46em
+
 download-cert-window2 =
     .title = E jarolla Disetifikeiti
     .style = min-width: 46em

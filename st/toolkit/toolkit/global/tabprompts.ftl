@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Lebitso la Mosebedisi:
 tabmodalprompt-password =
     .value = Phasewete:
+
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =
