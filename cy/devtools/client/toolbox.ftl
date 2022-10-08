@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = Docio i'r gwaelod
 toolbox-meatball-menu-dock-left-label = Docio i'r chwith
 toolbox-meatball-menu-dock-right-label = Docio i'r dde
 toolbox-meatball-menu-dock-separate-window-label = Ffenestr ar wahân
+
 toolbox-meatball-menu-splitconsole-label = Dangos consol hollt
 toolbox-meatball-menu-hideconsole-label = Cuddio'r consol hollt
+
 toolbox-meatball-menu-settings-label = Gosodiadau
 toolbox-meatball-menu-documentation-label = Dogfennaeth…
 toolbox-meatball-menu-community-label = Cymuned…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Analluogi awtoguddio llamlenni
+
 toolbox-meatball-menu-pseudo-locale-accented = Galluogi locale “acennog”.
 toolbox-meatball-menu-pseudo-locale-bidi = Galluogi locale “bidi”.
 
@@ -34,14 +38,17 @@ toolbox-meatball-menu-pseudo-locale-bidi = Galluogi locale “bidi”.
 
 toolbox-mode-browser-toolbox-label = Modd Blwch Offer Porwr
 toolbox-mode-browser-console-label = Modd Consol Porwr
+
 toolbox-mode-everything-label = Amlbroses
 toolbox-mode-everything-sub-label = (Arafach)
 toolbox-mode-everything-container =
     .title = Dadfygio popeth ym mhob proses
+
 toolbox-mode-parent-process-label = Proses rhiant yn unig
 toolbox-mode-parent-process-sub-label = (Cyflym)
 toolbox-mode-parent-process-container =
     .title = Canolbwyntio ar adnoddau o'r broses rhiant yn unig.
+
 toolbox-always-on-top-enabled =
     .title = Analluogu bob amser ar y brig (Bydd hyn yn ailgychwyn yr Offer Datblygwr)
 toolbox-always-on-top-disabled =

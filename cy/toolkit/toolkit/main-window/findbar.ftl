@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Canfod enghraifft nesaf yr ymadrodd
 findbar-previous =
     .tooltiptext = Canfod enghraifft flaenorol o'r ymadrodd
+
 findbar-find-button-close =
     .tooltiptext = Cau'r bar chwilio
+
 findbar-highlight-all2 =
     .label = Amlygu Popeth
     .accesskey =
@@ -19,33 +21,41 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Amlygu pob enghraifft o'r ymadrodd
+
 findbar-case-sensitive =
     .label = Cydweddu Maint
     .accesskey = C
     .tooltiptext = Chwilio gyda sensitifrwydd maint nodau
+
 findbar-match-diacritics =
     .label = Diacritig cyfatebol
     .accesskey = i
     .tooltiptext = Gwahaniaethu rhwng nodau acennog a nodau sylfaenol, (e.e. wrth chwilio am “resume”, ni fydd “résumé” yn cael ei gynnig)
+
 findbar-entire-word =
     .label = Geiriau Llawn
     .accesskey = G
     .tooltiptext = Chwilio'r geiriau llawn yn unig
+
 findbar-not-found = Heb ganfod ymadrodd
+
 findbar-wrapped-to-top = Wedi cyrraedd diwedd y dudalen, parhau o'r brig
 findbar-wrapped-to-bottom = Wedi cyrraedd diwedd y dudalen, parhau o'r gwaelod
+
 findbar-normal-find =
     .placeholder = Canfod ar y dudalen
 findbar-fast-find =
     .placeholder = Canfod cyflym
 findbar-fast-find-links =
     .placeholder = Canfod cyflym (dolenni'n unig)
+
 findbar-case-sensitive-status =
     .value = (Mawr/bach)
 findbar-match-diacritics-status =
     .value = (Diacritig cyfatebol)
 findbar-entire-word-status =
     .value = (Geiriau llawn yn unig)
+
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -59,6 +69,7 @@ findbar-found-matches =
             [many] { $current } o { $total } chydweddiad
            *[other] { $current } o { $total } cydweddiad
         }
+
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =

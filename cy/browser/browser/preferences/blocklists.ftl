@@ -5,17 +5,23 @@
 blocklist-window =
     .title = Rhestrau Rhwystro
     .style = width: 55em
+
 blocklist-window2 =
     .title = Rhestrau Rhwystro
     .style = min-width: 55em
+
 blocklist-description = Dewis y rhestr mae { -brand-short-name } yn ei defnyddio i atal tracio ar-lein. Rhestrau'n cael eu darparu gan <a data-l10n-name="disconnect-link" title="Disconnect"> Datgysylltu</a>.
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Rhestr
+
 blocklist-dialog =
     .buttonlabelaccept = Cadw Newidiadau
     .buttonaccesskeyaccept = N
+
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -24,6 +30,7 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+
 blocklist-item-moz-std-listName = Rhestr rhwystro Lefel 1 (Argymell).
 blocklist-item-moz-std-description = Mae'n caniatáu rhai tracwyr fel bod llai o wefannau yn torri.
 blocklist-item-moz-full-listName = Rhestr rhwystro Lefel 2.
