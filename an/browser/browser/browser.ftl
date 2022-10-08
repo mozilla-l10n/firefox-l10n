@@ -216,6 +216,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = Historial ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =
@@ -641,3 +645,6 @@ data-reporting-notification-message = { -brand-short-name } ninvia automaticamen
 data-reporting-notification-button =
     .label = Deixar-me trigar o que quiero compartir
     .accesskey = c
+
+## Unified extensions (toolbar) button
+

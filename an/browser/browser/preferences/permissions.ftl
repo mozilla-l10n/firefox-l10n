@@ -5,62 +5,81 @@
 permissions-window =
     .title = Excepcions
     .style = width: 48em
+
 permissions-window2 =
     .title = Excepcions
     .style = min-width: 48em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adreza d'o puesto web
     .accesskey = a
+
 permissions-block =
     .label = Blocar
     .accesskey = B
+
 permissions-session =
     .label = Permitir por ista sesión
     .accesskey = s
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-button-off =
     .label = Desactivar
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Desactivar temporalment
     .accesskey = t
+
 permissions-site-name =
     .label = Puesto web
+
 permissions-status =
     .label = Estau
+
 permissions-remove =
     .label = Borrar puesto web
     .accesskey = B
+
 permissions-remove-all =
     .label = Borrar totz los puestos web
     .accesskey = t
+
 permission-dialog =
     .buttonlabelaccept = Alzar os cambios
     .buttonaccesskeyaccept = A
+
 permissions-autoplay-menu = Per defecto pa totz los puestos web:
+
 permissions-searchbox =
     .placeholder = Mirar puesto web
+
 permissions-capabilities-autoplay-allow =
     .label = Permitir l'audio y lo video
 permissions-capabilities-autoplay-block =
     .label = Blocar l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l'audio y lo video
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Preguntar-me-lo siempre
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Permitir ta ista sesión
+
 permissions-capabilities-listitem-off =
     .value = Desactivau
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor valido
 permissions-exceptions-etp-window =
     .title = Excepcions pa la protección de seguimiento millorada
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Excepcions pa la protección de seguimiento millorada
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Has desactivau las proteccions d'estes puestos
 permissions-exceptions-cookie-window =
     .title = Excepcions - Cookies y datos d'o puesto
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Excepcions - Cookies y datos d'o puesto
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Puetz especificar los puestos web a qui se 
 permissions-exceptions-https-only-window =
     .title = Excepcions - Modo HTTPS nomás
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Excepcions - Modo HTTPS nomás
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Puetz desactivar lo modo "HTTPS nomás"
 permissions-exceptions-popup-window =
     .title = Pachinas web autorizadas- Pop-ups
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Pachinas web autorizadas- Pop-ups
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Puede especificar qué puestos web pueden ub
 permissions-exceptions-saved-logins-window =
     .title = Excepcions - Inicios de sesión alzaus
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Excepcions - Inicios de sesión alzaus
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = No s'alzarán los datos d'inicio en o
 permissions-exceptions-addons-window =
     .title = Pachinas web autorizadas- Instalación de complementos
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Pachinas web autorizadas- Instalación de complementos
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Puede especificar qué puestos web pueden i
 permissions-site-autoplay-window =
     .title = Achustes - Lectura automatica
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Achustes - Lectura automatica
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Puetz chestionar dende aquí los puestos que no
 permissions-site-notification-window =
     .title = Achustes - Permisos de notificación
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Achustes - Permisos de notificación
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Esto privará que garra puesto web 
 permissions-site-location-window =
     .title = Achustes - Permisos de localización
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Achustes - Permisos de localización
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Esto privará que garra puesto web no l
 permissions-site-xr-window =
     .title = Achustes - Permisos de realidat virtual
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Achustes - Permisos de realidat virtual
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Esto privará a totz los puestos web que no s
 permissions-site-camera-window =
     .title = Achustes - Permisos d'acceso a camara
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Achustes - Permisos d'acceso a camara
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Esto privará que garra puesto web no lis
 permissions-site-microphone-window =
     .title = Achustes - Permisos d'acceso a microfono
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Achustes - Permisos d'acceso a microfono
     .style = { permissions-window2.style }
