@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
     .style = width: 46em
+
 download-cert-window2 =
     .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
     .style = min-width: 46em

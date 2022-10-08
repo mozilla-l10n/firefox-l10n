@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>এই পৃষ্ঠাৰ কিছু অংশ ক্ৰেশ্ব হৈছে।</strong> { -brand-product-name }-ক এই সমস্যাটোৰ বিষয়ে জনাবলৈ আৰু ইয়াক দ্ৰুততাৰে ঠিক কৰিবলৈ, অনুগ্ৰহ কৰি এখন প্ৰতিবেদন দাখিল কৰক।
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
