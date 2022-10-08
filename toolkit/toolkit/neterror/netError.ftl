@@ -7,6 +7,8 @@
 
 neterror-page-title = Loowgol hello waɗii caɗeele
 neterror-captive-portal-page-title = Seŋo e laylaytol hee
+neterror-dns-not-found-title = Sarworde Nde Yiytaaka
+neterror-malformed-uri-page-title = URL o moƴƴaani
 
 ## Error page actions
 
