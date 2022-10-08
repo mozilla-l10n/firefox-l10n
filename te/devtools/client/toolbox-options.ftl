@@ -124,8 +124,3 @@ options-context-triggers-page-refresh = * ప్రస్తుత సెషన�
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = గెకో ప్లాట్‌ఫాం దత్తాంశం చూపు
-options-show-platform-data-tooltip =
-    .title = మీరు ఈ ఎంపిక చేతనం చేస్తే జావాస్క్రిప్ట్ ప్రొఫైలర్ అనునదిగెకో ప్లాట్‌ఫాం చిహ్నాలు నివేదించును

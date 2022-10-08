@@ -5,62 +5,81 @@
 permissions-window =
     .title = మినహాయింపులు
     .style = width: 45em
+
 permissions-window2 =
     .title = మినహాయింపులు
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = వెబ్‌సైటు చిరునామా
     .accesskey = d
+
 permissions-block =
     .label = నిరోధించు
     .accesskey = B
+
 permissions-session =
     .label = ఈ సెషనుకి అనుమతించు
     .accesskey = S
+
 permissions-allow =
     .label = అనుమతించు
     .accesskey = A
+
 permissions-button-off =
     .label = ఆపివేయి
     .accesskey = O
+
 permissions-button-off-temporarily =
     .label = తాత్కాలికంగా ఆపివేయి
     .accesskey = T
+
 permissions-site-name =
     .label = వెబ్‌సైటు
+
 permissions-status =
     .label = స్థితి
+
 permissions-remove =
     .label = వెబ్‌సైటును తీసివేయి
     .accesskey = R
+
 permissions-remove-all =
     .label = వెబ్‌సైట్లన్నీ తీసివేయి
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = మార్పులను భద్రపరచు
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = వెబ్‌సైట్లన్నిటికీ అప్రమేయం:
+
 permissions-searchbox =
     .placeholder = వెబ్‌సైట్లను వెతకండి
+
 permissions-capabilities-autoplay-allow =
     .label = ఆడియో, వీడియోలను అనుమతించు
 permissions-capabilities-autoplay-block =
     .label = ఆడియోను నిరోధించు
 permissions-capabilities-autoplay-blockall =
     .label = ఆడియో, వీడియోలను నిరోధించు
+
 permissions-capabilities-allow =
     .label = అనుమతించు
 permissions-capabilities-block =
     .label = నిరోధించు
 permissions-capabilities-prompt =
     .label = ఎల్లప్పుడూ అడుగు
+
 permissions-capabilities-listitem-allow =
     .value = అనుమతించు
 permissions-capabilities-listitem-block =
     .value = నిరోధించు
 permissions-capabilities-listitem-allow-session =
     .value = సెషనుకి అనుమతించు
+
 permissions-capabilities-listitem-off =
     .value = అచేతనం
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = దయచేసి సరైన హోస్ట�
 permissions-exceptions-etp-window =
     .title = మెరుగైన ట్రాకింగ్ సంరక్షణ కొరకు మినహాయింపులు
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = మెరుగైన ట్రాకింగ్ సంరక్షణ కొరకు మినహాయింపులు
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = ఈ వెబ్‌సైట్లలో మ�
 permissions-exceptions-cookie-window =
     .title = మినహాయింపులు - కుకీలు, సైటు డేటా
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = మినహాయింపులు - కుకీలు, సైటు డేటా
     .style = { permissions-window2.style }
@@ -95,6 +116,7 @@ permissions-exceptions-cookie-window2 =
 permissions-exceptions-https-only-window =
     .title = మినహాయింపులు - HTTPS- మాత్రమే రీతి
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = మినహాయింపులు - HTTPS- మాత్రమే రీతి
     .style = { permissions-window2.style }
@@ -104,6 +126,7 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-popup-window =
     .title = అనుమతించిన వెబ్‌సైట్లు - పాప్అప్‌లు
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = అనుమతించిన వెబ్‌సైట్లు - పాప్అప్‌లు
     .style = { permissions-window2.style }
@@ -114,6 +137,7 @@ permissions-exceptions-popup-desc = పాప్‌అప్ విండోల�
 permissions-exceptions-saved-logins-window =
     .title = మినహాయింపులు - భద్రపరిచన ప్రవేశాలు
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = మినహాయింపులు - భద్రపరిచన ప్రవేశాలు
     .style = { permissions-window2.style }
@@ -124,6 +148,7 @@ permissions-exceptions-saved-logins-desc = ఈ క్రింది వెబ�
 permissions-exceptions-addons-window =
     .title = అనుమతించబడిన సైట్లు - పొడిగింతల స్థాపన
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = అనుమతించబడిన సైట్లు - పొడిగింతల స్థాపన
     .style = { permissions-window2.style }
@@ -134,6 +159,7 @@ permissions-exceptions-addons-desc = పొడిగింతలను స్థ
 permissions-site-autoplay-window =
     .title = అమరికలు - ఆటోప్లే
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = అమరికలు - ఆటోప్లే
     .style = { permissions-window2.style }
@@ -143,6 +169,7 @@ permissions-site-autoplay-window2 =
 permissions-site-notification-window =
     .title = అమరికలు - గమనింపుల అనుమతులు
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = అమరికలు - గమనింపుల అనుమతులు
     .style = { permissions-window2.style }
@@ -154,6 +181,7 @@ permissions-site-notification-disable-label =
 permissions-site-location-window =
     .title = అమరికలు - స్థాన అనుమతులు
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = అమరికలు - స్థాన అనుమతులు
     .style = { permissions-window2.style }
@@ -165,6 +193,7 @@ permissions-site-location-disable-label =
 permissions-site-xr-window =
     .title = అమరికలు - వర్చువల్ రియాలిటీ అనుమతులు
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = అమరికలు - వర్చువల్ రియాలిటీ అనుమతులు
     .style = { permissions-window2.style }
@@ -174,6 +203,7 @@ permissions-site-xr-window2 =
 permissions-site-camera-window =
     .title = అమరికలు - కెమెరా అనుమతులు
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = అమరికలు - కెమెరా అనుమతులు
     .style = { permissions-window2.style }
@@ -185,6 +215,7 @@ permissions-site-camera-disable-label =
 permissions-site-microphone-window =
     .title = అమరికలు - మైక్రోఫోన్ అనుమతులు
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = అమరికలు - మైక్రోఫోన్ అనుమతులు
     .style = { permissions-window2.style }

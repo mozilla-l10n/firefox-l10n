@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
     .style = width: 46em
+
 download-cert-window2 =
     .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
     .style = min-width: 46em
