@@ -13,7 +13,7 @@
 pending-crash-reports-message =
     { $reportCount ->
         [one] Hua 'ngo sa gire' sani nū nata't
-       *[other] { " " }Hua { $reportCount } sa gire' ni nū na'nïjt nugua'anj
+       *[other] Hua { $reportCount } sa gire' ni nū na'nïjt nugua'anj
     }
 pending-crash-reports-view-all =
     .label = Gini'iaj
