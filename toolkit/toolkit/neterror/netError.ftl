@@ -77,5 +77,6 @@ neterror-inadequate-security-code = ભૂલ ક્રમાંક: NS_ERROR_NE
 neterror-clock-skew-error = તમારાં કમ્પ્યુટર પ્રમાણે { DATETIME($now, dateStyle: "medium") }, જે { -brand-short-name } ને સુરક્ષિત જોડાણથી અટકાવે છે. <b>{ $hostname }</b> ની મુલાકાત લેવાં માટે, તમારાં સીસ્ટમ સેંટિંગ્સમાંથી તમારાં કમ્પ્યુટરની ઘડિયાળ હાલનાં પ્રમાણે તારીખ, સમય, અને સમય ઝોન સુધારો કરો, અને પછી <b>{ $hostname }</b> તાજું કરો.
 certerror-expired-cert-second-para = સંભવિત છે કે વેબસાઇટનું પ્રમાણપત્ર સમાપ્ત થઈ ગયું છે, જે { -brand-short-name } સુરક્ષિત રીતે કનેક્ટ થવાથી અટકાવે છે. જો તમે આ સાઇટની મુલાકાત લો છો, તો હુમલાખોર તમારા પાસવર્ડ્સ, ઇમેઇલ્સ અથવા ક્રેડિટ કાર્ડની વિગતો જેવી માહિતી ચોરી કરવાનો પ્રયાસ કરી શકે છે.
 certerror-expired-cert-sts-second-para = સંભવિત છે કે વેબસાઇટનું પ્રમાણપત્ર સમાપ્ત થઈ ગયું છે, જે { -brand-short-name } સુરક્ષિત રીતે કનેક્ટ થવાથી અટકાવે છે.
+certerror-what-can-you-do-about-it-title = તમે તેના વિશે શું કરી શકો?
 certerror-unknown-issuer-what-can-you-do-about-it-website = આ સમસ્યા વેબસાઇટની છે, જેનાં સમાધાન માટે તમે કંઇ કરી શકો તેમ નથી.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = જો તમે વ્યવસાયિક નેટવર્ક પર છો કે એન્ટી-વાયરસ સોફ્ટવેરનો ઉપયોગ કરો છો, તો તમે સહાયક ટીમની મદદ લઇ શકો છો. તમે આ સમસ્યા વિશે વેબસાઇટ સંચાલકને પણ જણાવી શકો છો.
