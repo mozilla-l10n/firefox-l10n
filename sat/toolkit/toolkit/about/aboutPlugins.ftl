@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱠᱚ ᱵᱟᱵᱚᱛ ᱛᱮ
+
 installed-plugins-label = ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱚᱦᱟᱞ ᱮᱱᱟ
 no-plugins-are-installed-label = ᱡᱟᱦᱟᱱ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ᱮᱢ 
 state-dd-enabled-block-list-state = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ({ $blockListState }) ᱮᱢ ᱪᱷᱚ ᱮᱱᱟ
 state-dd-Disabled = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ᱵᱚᱸᱫ ᱮᱱᱟ
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ({ $blockListState }) ᱵᱚᱸᱫ ᱪᱷᱚ ᱮᱱᱟ
+
 mime-type-label = MIME ᱞᱮᱠᱟᱱ:
 description-label = ᱵᱤᱵᱨᱚᱬ
 suffixes-label = ᱥᱟᱵᱟᱫ ᱛᱟᱭᱚᱢ ᱥᱮᱞᱮᱫ ᱟᱠᱷᱚᱨ ᱠᱚ᱾
@@ -33,3 +35,4 @@ suffixes-label = ᱥᱟᱵᱟᱫ ᱛᱟᱭᱚᱢ ᱥᱮᱞᱮᱫ ᱟᱠᱷᱚᱨ
 ## Gecko Media Plugins (GMPs)
 
 plugins-openh264-name = ᱥᱤᱥᱠᱚ ᱥᱮᱥᱴᱮᱢ ,ᱤᱸᱠ ᱫᱟᱨᱭ ᱛᱮ ᱮᱢᱟᱠᱟᱱ H264 ᱵᱤᱰᱤᱭᱚ ᱠᱚᱰᱮᱠ ᱡᱷᱤᱡ ᱢᱮ ᱾
+

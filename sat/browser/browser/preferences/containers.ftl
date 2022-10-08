@@ -5,6 +5,7 @@
 containers-dialog =
     .buttonlabelaccept = ᱦᱩᱭᱮᱱᱟ
     .buttonaccesskeyaccept = D
+
 containers-color-blue =
     .label = ᱞᱤᱞ
 containers-color-green =
@@ -19,3 +20,4 @@ containers-color-pink =
     .label = ᱜᱩᱞᱟᱹᱯ
 containers-color-purple =
     .label = ᱱᱟᱥᱮ ᱵᱮᱝᱜᱩᱱ
+

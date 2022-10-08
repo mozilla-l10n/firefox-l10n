@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 colorway-closet-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+
 colorway-homepage-reset-undo-button = ᱨᱩᱣᱟᱹᱲ ᱟᱹᱜᱩ

@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚᱭᱮᱫ ᱟ
     .style = width: 46em
+
 download-cert-window2 =
     .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚᱭᱮᱫ ᱟ
     .style = min-width: 46em

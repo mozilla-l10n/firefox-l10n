@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱛᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
     .accesskey = ᱥ
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] { -brand-short-name }'ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
            *[other] { -brand-short-name }' ᱠᱩᱥᱤᱭᱟᱜ ᱨᱮ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱾
         }
+
 unknowncontenttype-intro = ᱟᱢ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱟᱠᱟᱫ ᱟ:
 unknowncontenttype-which-is = ᱳᱠᱟ ᱠᱟᱱᱟ:
 unknowncontenttype-from = ᱠᱷᱚᱱ:

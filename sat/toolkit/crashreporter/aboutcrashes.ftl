@@ -4,8 +4,11 @@
 
 crash-reports-title = ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ
 delete-confirm-title = ᱪᱮᱫ ᱟᱢ ᱜᱚᱴᱟ ᱟᱠᱟᱫ ᱟ?
+
 id-heading = ᱨᱤᱯᱚᱨᱴ ID
+
 crashes-submitted-label = ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ ᱡᱚᱢᱟ ᱭᱮᱱᱟ
 date-submitted-heading = ᱢᱟᱹᱦᱤᱫ ᱡᱚᱢᱟ ᱭᱮᱱᱟ
+
 no-reports-label = ᱡᱟᱦᱟᱱ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱵᱟᱭ ᱡᱚᱢᱟ ᱟᱠᱟᱱᱟ
 no-config-label = ᱱᱚᱣᱟ ᱟᱹᱨᱡᱤ ᱥᱟᱠᱟᱢ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ ᱩᱫᱩᱠ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱛᱮᱭᱟᱨᱟᱠᱟᱱᱟ᱾ ᱠᱩᱥᱤᱭᱟᱜ <code> ᱨᱟᱹᱯᱩᱫ ᱯᱮᱰ ᱾ reportURL</code> ᱥᱮᱴ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾

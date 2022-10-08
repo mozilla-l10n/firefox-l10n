@@ -4,24 +4,31 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = ᱟᱠᱚᱴ
     .accesskey = B
+
 permissions-session =
     .label = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣ ᱮᱢ
     .accesskey = S
+
 permissions-allow =
     .label = ᱦᱮᱥᱟᱹᱨᱤᱭᱟᱹ
     .accesskey = A
+
 permissions-button-off =
     .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .accesskey = O
+
 permissions-status =
     .label = ᱫᱚᱥᱟ
+
 permissions-capabilities-allow =
     .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-block =
     .label = ᱟᱠᱚᱴ
+
 permissions-capabilities-listitem-allow =
     .value = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-listitem-block =
@@ -59,6 +66,7 @@ permissions-exceptions-addons-desc = ᱟᱢ ᱜᱚᱴᱟ ᱫᱟᱲᱮᱭᱟᱜ �
 permissions-site-autoplay-window =
     .title = ᱥᱟᱡᱟᱣ ᱼ ᱟᱡ ᱛᱮ
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = ᱥᱟᱡᱟᱣ ᱼ ᱟᱡ ᱛᱮ
     .style = { permissions-window2.style }

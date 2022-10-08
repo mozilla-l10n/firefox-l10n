@@ -3,46 +3,65 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ᱮᱰᱼᱚᱱᱥ ᱵᱮᱵᱚᱥᱛᱷᱟᱤᱡ
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = ᱟᱢ ᱴᱷᱮᱱ ᱱᱚᱣᱟ ᱞᱮᱠᱟᱱ ᱵᱚᱦᱟᱞᱟᱜ ᱨᱮᱭᱟᱜ ᱡᱟᱦᱟᱱ ᱮᱰ-ᱟᱹᱱᱥ ᱵᱟᱹᱱᱩᱜ ᱟ
+
 list-empty-available-updates =
     .value = ᱡᱟᱦᱟᱱ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
+
 list-empty-recent-updates =
     .value = ᱟᱢ ᱥᱩᱨ ᱫᱤᱱ ᱡᱟᱦᱟᱸ ᱜᱮ ᱮᱰ-ᱟᱹᱱᱥ ᱵᱟᱢ ᱦᱟᱹᱞᱤ ᱟᱠᱟᱫ ᱟ
+
 list-empty-find-updates =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱸᱞ
+
 list-empty-button =
     .label = ᱠᱷᱚᱸᱡᱟ-ᱟᱫᱮᱨ ᱵᱟᱵᱚᱫ ᱵᱟᱲᱛᱤ ᱪᱮᱫ ᱢᱮ
+
 detail-version =
     .label = ᱵᱷᱟᱹᱨᱥᱚᱱ
+
 detail-last-updated =
     .label = ᱢᱩᱪᱟᱹᱫ ᱦᱟᱹᱞᱤᱭᱟᱜ
+
 detail-contributions-description = ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱨᱮ ᱱᱤᱡ ᱛᱮᱭᱟᱨᱤᱡ ᱠᱩᱞᱤ ᱜᱮᱭᱟ ᱡᱮ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱛᱮ ᱢᱤᱫ ᱦᱩᱰᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱛᱮᱭᱟᱨ ᱫᱟᱨᱟᱭ ᱛᱮ ᱟᱡᱟᱜ ᱞᱮᱛᱟᱲ ᱞᱟᱦᱟ ᱨᱮᱭᱟᱜ ᱜᱚᱲᱚ ᱢᱮᱱᱟᱜ ᱟ᱾
+
 detail-update-type =
     .value = ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ
+
 detail-update-default =
     .label = ᱢᱩᱞ
     .tooltiptext = ᱮᱠᱮᱱ ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚ़ᱦᱟᱞ ᱡᱩᱫᱤ ᱳᱸᱰᱮ ᱦᱩᱲᱟᱜ ᱢᱮᱱᱟᱜ ᱟ ᱾
+
 detail-update-automatic =
     .label = ᱪᱟᱹᱞᱩ
     .tooltiptext = ᱦᱟᱹᱞᱤ ᱠᱚ ᱟᱡ ᱟᱡ ᱛᱮ ᱵᱚ़ᱦᱟᱞ
+
 detail-update-manual =
     .label = ᱵᱚᱸᱫᱚ
     .tooltiptext = ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱟᱞᱚᱢ ᱵᱚᱦᱟᱞᱟ
+
 detail-home =
     .label = ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = ᱮᱰ-ᱟᱹᱱ ᱯᱨᱚᱯᱷᱟᱤᱞ
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱸᱜᱷᱟᱱ
     .accesskey = f
     .tooltiptext = ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤ ᱠᱚ ᱛᱮᱸᱜᱷᱟᱱ
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -59,10 +78,13 @@ detail-show-preferences =
             [windows] ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
            *[other] ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱᱥ ᱨᱮᱭᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
         }
+
 detail-rating =
     .value = ᱫᱚᱨ ᱴᱷᱟᱹᱣᱠᱟᱹ
+
 addon-restart-now =
     .label = ᱱᱤᱛ ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ ᱢᱮ
+
 addon-category-extension = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
 addon-category-extension-title =
     .title = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
@@ -162,7 +184,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ᱫᱚ { -brand-short-name } { $version } ᱥᱟᱸᱣ ᱵᱟᱝ ᱥᱚᱸᱜᱚᱛᱟ᱾
+
 details-notification-blocked = { $name } ᱫᱚ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱵᱟᱝ ᱛᱤᱸᱜᱩ ᱛᱷᱤᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ
 details-notification-blocked-link = ᱰᱷᱮᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+
 details-notification-softblocked = { $name }ᱫᱚ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱵᱟᱝ ᱛᱤᱸᱜᱩ ᱛᱷᱤᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱵᱟᱰᱟᱭᱟ ᱠᱟᱱᱟ᱾
 details-notification-softblocked-link = ᱰᱷᱮᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+

@@ -10,6 +10,7 @@
 clear-site-data-cookies-empty =
     .label = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ
     .accesskey = S
+
 clear-site-data-dialog =
     .buttonlabelaccept = ᱯᱷᱟᱨᱪᱟ
     .buttonaccesskeyaccept = l

@@ -7,3 +7,5 @@ callout-primary-advance-button-label = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
 
 ## Firefox View feature tour strings
 
+## Continuous Onboarding - Firefox View: Tab pick up
+

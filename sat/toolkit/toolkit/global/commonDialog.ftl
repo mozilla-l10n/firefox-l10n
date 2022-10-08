@@ -4,6 +4,7 @@
 
 common-dialog-username =
     .value = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ
+
 common-dialog-copy-cmd =
     .label = ᱱᱚᱠᱚᱞ
     .accesskey = C

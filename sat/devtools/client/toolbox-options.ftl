@@ -87,8 +87,3 @@ options-enable-remote-label = ᱥᱟᱹᱝᱜᱤᱧ ᱰᱤᱵᱚᱜᱤᱝ ᱦᱩ
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * ᱮᱠᱷᱮᱱ ᱱᱤᱛᱟᱜ ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ, ᱥᱟᱦᱴᱟ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ ᱾
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = ᱜᱮᱠᱚ ᱯᱞᱮᱴᱯᱷᱚᱨᱢ ᱰᱟᱴᱟ ᱩᱫᱩᱜ
-options-show-platform-data-tooltip =
-    .title = ᱡᱩᱫᱤ ᱟᱢ ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ JavaScript ᱢᱚᱦᱚᱨᱤᱭᱟᱹ ᱠᱷᱚᱵᱚᱨ ᱫᱚ Gecko ᱯᱞᱮᱴᱯᱷᱚᱨᱢ ᱪᱤᱱᱦᱟᱹ ᱦᱚᱸ ᱢᱮᱥᱟ ᱛᱟᱨᱟᱭᱟᱭ
