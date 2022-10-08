@@ -61,7 +61,10 @@ neterror-proxy-resolve-failure-connection = Controllescha che la connexiun dal c
 neterror-proxy-resolve-failure-firewall = Sch'il computer u la rait èn protegids dad ina firewall u dad in proxy, controllescha che { -brand-short-name } haja ils dretgs necessaris per acceder al web.
 neterror-proxy-connect-failure-settings = Controllescha ch'ils parameters dal proxy server sajan corrects.
 neterror-proxy-connect-failure-contact-admin = Contactescha l'administratur da tia rait per far la segira ch'il proxy server è en funcziun.
+neterror-content-encoding-error = Contactescha per plaschair l'administratur da la website per infurmar el davart quest problem.
 neterror-unsafe-content-type = Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.
+neterror-nss-failure-not-verified = La pagina dumandada na po betg vegnir mussada, perquai che l'autenticitad da las datas na po betg vegnir verifitgada.
+neterror-nss-failure-contact-website = Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } ha chattà in eventual ristg per la segirezza ed ha perquai interrut la connexiun cun <b>{ $hostname }</b>. Sche ti visitas la pagina, pudessan attatgaders empruvar dad engular infurmaziuns sco tes pleds-clav, e-mails u datas da la carta da credit.
