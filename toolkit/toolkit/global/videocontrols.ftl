@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Sylnosć zwuka
 videocontrols-closed-caption-button =
     .aria-label = Podtitule
+
 videocontrols-play-button =
     .aria-label = Wothrać
 videocontrols-pause-button =
@@ -28,24 +29,31 @@ videocontrols-casting-button-label =
     .aria-label = Na wobrazowku projicěrować
 videocontrols-closed-caption-off =
     .offlabel = Wupinjeny
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Wobraz-we-wobrazu
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = We „wobraz-we-wobrazu“ wobhladać
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Wothrajće wideja w prědku, mjeztym zo něšto druheho w { -brand-short-name } činiće.
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Widejo wućahnyć
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Wjace wobrazowkow rěka wjace wjesela. Wothrajće tute widejo w modusu wobraz-we-wobrazu, mjeztym zo přehladujeće.
+
 videocontrols-picture-in-picture-explainer3 = Wjace wobrazowkow je wjace wjesela. Wothrajće tute widejo, hdyž druhe wěcy činiće.
+
 videocontrols-error-aborted = Začitowanje wideja je so zastajiło.
 videocontrols-error-network = Wothrawanje wideja je so syćoweho zmylka dla přetorhnyło.
 videocontrols-error-decode = Widejo njeda so wothrać, dokelž dataja je wobškodźena.
@@ -53,6 +61,7 @@ videocontrols-error-src-not-supported = Widejowy format abo MIME-typ so njepodp�
 videocontrols-error-no-source = Widejo z podpěranym formatom a MIME-typom njeje so namakało.
 videocontrols-error-generic = Wothrawanje wideja je so njeznateho zmylka dla přetorhnyło.
 videocontrols-status-picture-in-picture = Tute widejo so w modusu wobraz-we-wobrazu wothrawa.
+
 # This message shows the current position and total video duration
 #
 # Variables:

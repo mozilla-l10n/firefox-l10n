@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Mjeno wužiwarja:
 tabmodalprompt-password =
     .value = Hesło:
+
 tabmodalprompt-ok-button =
     .label = W porjadku
 tabmodalprompt-cancel-button =
