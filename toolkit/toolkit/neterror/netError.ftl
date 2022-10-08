@@ -7,6 +7,7 @@
 
 neterror-page-title = પાનું લાવવામાં સમસ્યા
 certerror-page-title = ચેતવણી: આગળ સંભવિત સુરક્ષા જોખમ
+certerror-sts-page-title = કનેક્ટ કર્યું નહોતું: સંભવિત સુરક્ષા સમસ્યા
 neterror-blocked-by-policy-page-title = અવરોધિત પૃષ્ઠ
 neterror-captive-portal-page-title = નેટવર્કમાં પ્રવેશ કરો
 neterror-dns-not-found-title = સર્વર મળતું નથી
@@ -23,6 +24,7 @@ neterror-pref-reset-button = મૂળભુત સેટિંગ પાછા 
 neterror-return-to-previous-page-button = પાછા જાવ
 neterror-return-to-previous-page-recommended-button = પાછા જાઓ (ભલામણ કરેલ)
 neterror-try-again-button = પુનઃપ્રયાસ કરો
+neterror-view-certificate-link = પ્રમાણપત્ર જુઓ
 
 ##
 
