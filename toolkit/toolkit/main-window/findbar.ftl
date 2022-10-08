@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Recherche rapide (liens seulement)
 findbar-case-sensitive-status =
     .value = (Sensible à la casse)
+findbar-match-diacritics-status =
+    .value = (respect des diacritiques)
 findbar-entire-word-status =
     .value = (Mots entiers seulement)
 # Variables:
