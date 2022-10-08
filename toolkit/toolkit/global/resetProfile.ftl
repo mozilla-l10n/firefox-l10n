@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Rekomenci de nulo por solvi efikecajn probl
 refresh-profile = Alĝustigi { -brand-short-name }
 refresh-profile-button = Refreŝigi { -brand-short-name }…
 refresh-profile-learn-more = Pli da informo
+
 refresh-profile-progress =
     .title = Refreŝigi { -brand-short-name }
 refresh-profile-progress-description = Preskaŭ farita…

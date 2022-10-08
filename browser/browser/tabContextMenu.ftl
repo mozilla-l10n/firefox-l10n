@@ -106,6 +106,7 @@ tab-context-move-tabs =
            *[other] Movi langetojn
         }
     .accesskey = M
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

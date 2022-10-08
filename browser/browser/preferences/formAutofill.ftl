@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Konservitaj adresoj
 autofill-manage-addresses-list-header = Adresoj
+
 autofill-manage-credit-cards-title = Konservitaj kreditkartoj
 autofill-manage-credit-cards-list-header = Kreditkartoj
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Forigi
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Redakti…
 autofill-add-new-address-title = Aldoni novan adreson
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Redakti adreson
+
 autofill-address-given-name = Nomo
 autofill-address-additional-name = Dua nomo
 autofill-address-family-name = Familia nomo
@@ -81,13 +84,16 @@ autofill-address-eircode = Koda poŝto (Eircode)
 autofill-address-country = Lando aŭ regiono
 autofill-address-tel = Telefono
 autofill-address-email = Retpoŝto
+
 autofill-cancel-button = Nuligi
 autofill-save-button = Konservi
 autofill-country-warning-message = Aŭtomata plenigo de formularoj disponeblas nuntempe nur por kelkaj landoj.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Aldoni novan kreditkarton
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Redakti kreditkarton
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } klopodas montri kreditkartajn informojn. Konfirmu aliron al tiu ĉi suba konto de Windows.
        *[other] { -brand-short-name } klopodas montri kreditkartajn informojn.
     }
+
 autofill-card-number = Numero de karto
 autofill-card-invalid-number = Bonvolu tajpi validan kartan numeron
 autofill-card-name-on-card = Nomo sur karto

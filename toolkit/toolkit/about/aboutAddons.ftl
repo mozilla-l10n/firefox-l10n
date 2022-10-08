@@ -3,82 +3,116 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Administrilo de aldonaĵoj
+
 search-header =
     .placeholder = Serĉi en addons.mozilla.org
     .searchbuttonlabel = Serĉi
+
 search-header-shortcut =
     .key = f
+
 list-empty-get-extensions-message = Elŝutu etendaĵojn kaj etosojn el <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-dictionaries-message = Elŝutu vortarojn el <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-language-packs-message = Elŝutu lingvajn pakojn el <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-installed =
     .value = Vi havas neniun aldonaĵon de tiu tipo instalita
+
 list-empty-available-updates =
     .value = Neniu ĝisdatigo trovita
+
 list-empty-recent-updates =
     .value = Vi ne ĝisdatigis viajn aldonaĵojn lastatempe
+
 list-empty-find-updates =
     .label = Kontroli ĉu estas ĝisdatigoj
+
 list-empty-button =
     .label = Pli da informo pri aldonaĵoj
+
 help-button = Helpo pri aldonaĵoj
 sidebar-help-button-title =
     .title = Helpo pri aldonaĵoj
+
 addons-settings-button = Agordoj de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Agordoj de { -brand-short-name }
+
 show-unsigned-extensions-button =
     .label = Montri etendaĵojn kiuj ne povis esti kontrolitaj
+
 show-all-extensions-button =
     .label = Montri ĉiujn etendaĵojn
+
 detail-version =
     .label = Versio
+
 detail-last-updated =
     .label = Laste modifita
+
 addon-detail-description-expand = Montri pli
 addon-detail-description-collapse = Montri malpli
+
 detail-contributions-description = La programisto de tiu ĉi aldonaĵo petas al vi subteni la daŭran disvolvon per eta kontribuo.
+
 detail-contributions-button = Kontribui
     .title = Kontribui al la evoluigado de tiu ĉi aldonaĵo
     .accesskey = K
+
 detail-update-type =
     .value = Aŭtomataj ĝisdatigoj
+
 detail-update-default =
     .label = Ĉefa
     .tooltiptext = Aŭtomate instali ĝisdatigojn nur se tiu estas la normo
+
 detail-update-automatic =
     .label = Ŝaltita
     .tooltiptext = Aŭtomate instali ĝisdatigojn
+
 detail-update-manual =
     .label = Malŝaltita
     .tooltiptext = Ne instali ĝisdatigojn aŭtomate
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Lanĉi en privataj fenestroj
+
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ne permesita en privataj fenestroj
 detail-private-disallowed-description2 = Tiu ĉi etendaĵo ne funkcias dum privata retumo. <a data-l10n-name="learn-more">Pli da informo</a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Ĝi postulas aliron al privataj fenestroj
 detail-private-required-description2 = Tiu ĉi etendaĵo havas aliron al viaj agoj dum privata retumo. <a data-l10n-name="learn-more">Pli da informo</a>
+
 detail-private-browsing-on =
     .label = Permesi
     .tooltiptext = Aktivigi en privata retumo
+
 detail-private-browsing-off =
     .label = Malpermesi
     .tooltiptext = Ne aktivigi en privata retumo
+
 detail-home =
     .label = Ĉefpaĝo
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Profilo de aldonaĵo
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Kontroli ĉu estas ĝisdatigoj
     .accesskey = K
     .tooltiptext = Kontroli ĉu estas ĝisdatigoj por tiu ĉi aldonaĵo
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -95,21 +129,33 @@ detail-show-preferences =
             [windows] Ŝanĝi la elekteblojn de tiu ĉi aldonaĵo
            *[other] Ŝanĝi la preferojn de tiu ĉi aldonaĵo
         }
+
 detail-rating =
     .value = Taksado
+
 addon-restart-now =
     .label = Restartigi nun
+
 disabled-unsigned-heading =
     .value = Kelkaj aldonaĵoj estis malaktivigitaj
+
 disabled-unsigned-description = La jenaj aldonaĵoj ne estis kontrolitaj por uzo en { -brand-short-name }. Vi povas <label data-l10n-name="find-addons">trovi anstataŭojn</label> aŭ peti al la programisto kontroli ilin.
+
 disabled-unsigned-learn-more = Pli da informo pri niaj penoj helpi vin plu esti sekura en la reto.
+
 disabled-unsigned-devinfo = Programistoj, kiuj volas ke iliaj aldonaĵoj estu kontrolitaj povas komenci per legado de nia <label data-l10n-name="learn-more">manlibro</label>.
+
 plugin-deprecation-description = Ĉu io mankas? Kelkaj kromprogramoj ne plu estas subtenataj de { -brand-short-name }. <label data-l10n-name="learn-more">Pli da informo.</label>
+
 legacy-warning-show-legacy = Montri kadukajn etendaĵojn
+
 legacy-extensions =
     .value = Kadukaj etendaĵoj
+
 legacy-extensions-description = Tiuj ĉi etendaĵoj ne kongruas kun la nunaj normoj de { -brand-short-name }, tial ili estis malaktivigitaj. <label data-l10n-name="legacy-learn-more">Pli da informo pri la ŝanĝoj en aldonaĵoj</label>
+
 private-browsing-description2 = { -brand-short-name } modifis la funkciadon de etendaĵoj en privata retumo. Norme, neniu nova etendaĵo aldonita al { -brand-short-name } funkcios en privataj fenestroj. Krom se vi permesos tion en agordoj, la etendaĵo ne funkcios en privata retumo kaj ne havos aliron al viaj agoj en la interreto. Ni ŝanĝis tion por certigi, ke via privata retumo restu privata. <label data-l10n-name="private-browsing-learn-more">Pli da informo pri administro de agordoj de etendaĵoj.</label>
+
 addon-category-discover = Rekomendoj
 addon-category-discover-title =
     .title = Rekomendoj
@@ -193,34 +239,43 @@ addon-open-about-debugging = Senerarigi aldonaĵojn
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Administri alirklavojn de etendaĵoj
     .accesskey = A
+
 shortcuts-no-addons = Vi havas neniun aktivan etendaĵon.
 shortcuts-no-commands = La jenaj etendaĵoj ne havas alirklavojn:
 shortcuts-input =
     .placeholder = Tajpu alirklavon
+
 shortcuts-browserAction2 = Aktivigi ilaran butonon
 shortcuts-pageAction = Aktivigi paĝan agon
 shortcuts-sidebarAction = Montri/kaŝi flankan strion
+
 shortcuts-modifier-mac = Inkluzivi Stir, Alt aŭ ⌘
 shortcuts-modifier-other = Inkluzivi Stir aŭ Alt
 shortcuts-invalid = Nevalida kombino
 shortcuts-letter = Tajpu literon
 shortcuts-system = Ne eblas anstataŭigi alirklavon de { -brand-short-name }
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Ripetita alirklavo
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } estas uzata kiel alirklavon en pli ol unu okazo. Ripetitaj alirklavoj povas kaŭzi neatenditan konduton.
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Jam uzata de { $addon }
+
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Montri { $numberToShow } pli
        *[other] Montri { $numberToShow } pli
     }
+
 shortcuts-card-collapse-button = Montri malpli
+
 header-back-button =
     .title = Iri reen
 
@@ -229,10 +284,13 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = Etendaĵoj kaj etosoj estas kiel programoj por via retumilo, kiuj permesas al vi protekti pasvortojn, elŝuti filmetojn, serĉi ofertojn, bloki ĝenajn reklamojn, ŝanĝi la aspekton de via retumilo kaj fari multe pli da aferoj. Tiuj etaj programoj estas ofte ne programitaj de ni. Jen <a data-l10n-name="learn-more-trigger">kelkaj rekomendoj</a> de { -brand-product-name } por eksterordinaraj sekureco, efikeco kaj funkcioj.
+
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Kelkaj el tiuj ĉi rekomendoj estas personecigitaj. Ili baziĝas sur la listo de viaj nunaj etendaĵoj, preferoj de profilo kaj statistikoj de uzo.
 discopane-notice-learn-more = Pli da informo
+
 privacy-policy = Politiko pri privateco
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -248,6 +306,7 @@ install-theme-button = Instali etoson
 manage-addon-button = Administri
 find-more-addons = Serĉi pli da aldonaĵoj
 find-more-themes = Serĉi pli da etosoj
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -273,51 +332,60 @@ preferences-addon-button =
 details-addon-button = Detaloj
 release-notes-addon-button = Notoj pri liverado
 permissions-addon-button = Permesoj
+
 extension-enabled-heading = Aktiva
 extension-disabled-heading = Malaktiva
+
 theme-enabled-heading = Aktiva
 theme-disabled-heading = Malaktiva
 theme-disabled-heading2 = Konservitaj etosoj
 theme-monochromatic-heading = Koloraroj
 theme-monochromatic-subheading = Vibraj, novaj koloraroj de { -brand-product-name }. Disponeblaj dum limigita tempo.
+
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Provu koloraron
-colorway-collection-independent-voices-subheading = Igu { -brand-short-name } simili iom pli al vi.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Senvalidiĝo je { DATETIME($expiryDate, month: "long", day: "numeric") }
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Ŝanĝi koloraron
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Senvalidiĝo je { DATETIME($expiryDate, month: "long", day: "numeric") }
+
 plugin-enabled-heading = Aktiva
 plugin-disabled-heading = Malaktiva
+
 dictionary-enabled-heading = Aktiva
 dictionary-disabled-heading = Malaktiva
+
 locale-enabled-heading = Aktiva
 locale-disabled-heading = Malaktiva
+
 sitepermission-enabled-heading = Aktiva
 sitepermission-disabled-heading = Malaktiva
+
 always-activate-button = Ĉiam aktivigi
 never-activate-button = Neniam aktivigi
+
 addon-detail-author-label = Aŭtoro
 addon-detail-version-label = Versio
 addon-detail-last-updated-label = Laste ĝisdatigita
 addon-detail-homepage-label = Ĉefpaĝo
 addon-detail-rating-label = Taksado
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = Tiu ĉi etendaĵo estos ĝisdatigita dum restarto de { -brand-short-name }.
 install-postponed-button = Ĝisdatigi nun
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Taksado { NUMBER($rating, maximumFractionDigits: 1) } el 5
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (malaktiva)
+
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -333,12 +401,14 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> estis forigita.
 pending-uninstall-undo-button = Malfari
+
 addon-detail-updates-label = Permesi aŭtomatajn ĝisdatigojn
 addon-detail-updates-radio-default = Norma
 addon-detail-updates-radio-on = Ŝaltita
 addon-detail-updates-radio-off = Malŝaltita
 addon-detail-update-check-label = Kontroli ĉu estas ĝisdatigoj
 install-update-button = Ĝisdatigi
+
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -367,15 +437,20 @@ addon-badge-verified2 =
 
 available-updates-heading = Haveblaj ĝisdatigoj
 recent-updates-heading = Ĵusaj ĝisdatigoj
+
 release-notes-loading = Ŝargado…
 release-notes-error = Bedaŭrinde okazis eraro dum la ŝargado de la notoj pri liverado.
+
 addon-permissions-empty = Tiu ĉi etendaĵo postulas neniun permeson
 addon-permissions-required = Postulataj permesoj por kernaj funkcioj:
 addon-permissions-optional = Elekteblaj permesoj por aldonaj funkcioj:
 addon-permissions-learnmore = Pli da informo pri permesoj
+
 recommended-extensions-heading = Rekomenditaj etendaĵoj
 recommended-themes-heading = Rekomenditaj etosoj
+
 addon-sitepermissions-required = Ĝi donas jenajn kapablojn al <span data-l10n-name="hostname">{ $hostname }</span>:
+
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ĉu vi kreemas? <a data-l10n-name="link">Kreu vian propran etoson per Firefox Color.</a>
@@ -391,9 +466,11 @@ updates-heading = Administri viajn ĝisdatigojn
 sitepermission-heading = Administri viajn permesojn por retejoj
 discover-heading = Personecigu vian { -brand-short-name }
 shortcuts-heading = Administri alirklavojn de etendaĵoj
+
 default-heading-search-label = Serĉi pli da aldonaĵoj
 addons-heading-search-input =
     .placeholder = Serĉi en addons.mozilla.org
+
 addon-page-options-button =
     .title = Iloj por ĉiuj aldonaĵoj
 
@@ -404,13 +481,19 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } estas nekongrua kun { -brand-short-name } { $version }.
+
 details-notification-incompatible-link = Pli da informo
+
 details-notification-unsigned-and-disabled = { $name } ne povis esti kontrolita por uzo en { -brand-short-name } kaj estis malaktivigita.
 details-notification-unsigned-and-disabled-link = Pli da informo
+
 details-notification-unsigned = { $name } ne povis esti kontrolita por uzo en { -brand-short-name }. Daŭrigu singarde.
 details-notification-unsigned-link = Pli da informo
+
 details-notification-blocked = { $name } esti blokita pro sekurecaj kaj stabilecaj problemoj.
 details-notification-blocked-link = Plia informo
+
 details-notification-softblocked = Estas konata fakto ke { $name } povas okazigi sekurecajn kaj stabilecajn problemojn.
 details-notification-softblocked-link = Plia informo
+
 details-notification-gmp-pending = { $name } estos baldaŭ instalita.

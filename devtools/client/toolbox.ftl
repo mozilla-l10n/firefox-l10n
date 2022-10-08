@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = Ankri malsupre
 toolbox-meatball-menu-dock-left-label = Ankri maldekstre
 toolbox-meatball-menu-dock-right-label = Ankri dekstre
 toolbox-meatball-menu-dock-separate-window-label = Apartigita fenestro
+
 toolbox-meatball-menu-splitconsole-label = Montri apartigitan konzolon
 toolbox-meatball-menu-hideconsole-label = Kaŝi apartigitan konzolon
+
 toolbox-meatball-menu-settings-label = Agordoj
 toolbox-meatball-menu-documentation-label = Dokumentaro…
 toolbox-meatball-menu-community-label = Komunumo…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Malaktivigi aŭtomatan kaŝon de ŝprucfenestroj
+
 toolbox-meatball-menu-pseudo-locale-accented = Aktivigi "supersignitan" lingvon
 toolbox-meatball-menu-pseudo-locale-bidi = Aktivigi "ambaŭdirektan" lingvon
 
@@ -34,14 +38,17 @@ toolbox-meatball-menu-pseudo-locale-bidi = Aktivigi "ambaŭdirektan" lingvon
 
 toolbox-mode-browser-toolbox-label = Reĝimo de retumila ilarujo
 toolbox-mode-browser-console-label = Reĝimo de retumila konzolo
+
 toolbox-mode-everything-label = Plurprocezo
 toolbox-mode-everything-sub-label = (pli malrapida)
 toolbox-mode-everything-container =
     .title = Senerarigi ĉion en ĉiuj procezoj
+
 toolbox-mode-parent-process-label = Nur gepatra procezo
 toolbox-mode-parent-process-sub-label = (Rapida)
 toolbox-mode-parent-process-container =
     .title = Koncentriĝi nur sur aktivaj rimedoj el la gepatra procezo.
+
 toolbox-always-on-top-enabled =
     .title = Malaktivigi 'ĉiam supre' (tio rekomencos la ilojn por programistoj)
 toolbox-always-on-top-disabled =
