@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = اشکال در هنگام بارگیری
+certerror-page-title = هشدار: خطر امنیتی نهفته در پیش است
 neterror-blocked-by-policy-page-title = صفحهٔ مسدود شده
 neterror-captive-portal-page-title = ورود به شبکه
 neterror-dns-not-found-title = سرور پیدا نشد
@@ -16,9 +17,12 @@ neterror-malformed-uri-page-title = نشانی معتبر نیست
 neterror-copy-to-clipboard-button = رونوشت متن به کلیپ بورد
 neterror-learn-more-link = اطلاعات بیشتر…
 neterror-open-portal-login-page-button = بازکردن صفحه ورود به شبکه
+neterror-override-exception-button = پذیرش خطر و ادامه
 neterror-pref-reset-button = بازگردانی تنظیمات پیش‌فرض
 neterror-return-to-previous-page-button = برو عقب
+neterror-return-to-previous-page-recommended-button = بازگشت (توصیه شده)
 neterror-try-again-button = تلاش دوباره
+neterror-view-certificate-link = نمایش گواهی
 
 ##
 
@@ -80,6 +84,7 @@ neterror-inadequate-security-code = کد خطا: NS_ERROR_NET_INADEQUATE_SECURIT
 neterror-clock-skew-error = رایانه شما فکر می‌کند زمان کنونی { DATETIME($now, dateStyle: "medium") } است، که امکان اتصال امن را از { -brand-short-name } می‌گیرد. برای مشاهده <b>{ $hostname }</b>، تاریخ، ساعت و منطقه زمانی رایانه خود را از طریق تنظیمات سیستم اصلاح کنید، و سپس <b>{ $hostname }</b> را نوسازی کنید.
 certerror-expired-cert-second-para = به احتمال زیاد گواهی وب‌سایت منقضی شده است، که جلوی { -brand-short-name } برای اتصال امن را می‌گیرد. اگر از این سایت بازدید کنید، مهاجمان می‌توانند اطلاعاتی مانند گذرواژه، ایمیل‌ها یا جزئیات کارت اعتباری شما را سرقت کنند.
 certerror-expired-cert-sts-second-para = به احتمال زیاد گواهی وب‌سایت منقضی شده است، که جلوی { -brand-short-name } برای اتصال امن را می‌گیرد.
+certerror-what-can-you-do-about-it-title = چه کاری می‌توانید در مورد آن انجام دهید؟
 certerror-unknown-issuer-what-can-you-do-about-it-website = مشکل به احتمال زیاد مربوط به وب‌سایت است و هیچ کاری نمی‌توانید برای حل آن انجام دهید.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = اگر در یک شبکهٔ شرکتی هستید یا از نرم‌افزار ضد ویروس استفاده می‌کنید، می‌توانید برای کمک با تیم‌های پشتیبانی تماس بگیرید. همچنین می‌توانید مشکل را به مدیر وب‌سایت اطلاع دهید.
 # Variables:
