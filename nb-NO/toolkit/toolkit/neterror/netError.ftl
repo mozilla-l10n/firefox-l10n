@@ -107,5 +107,11 @@ certerror-bad-cert-domain-what-can-you-do-about-it = Problemet er mest sannsynli
 certerror-mitm-what-can-you-do-about-it-antivirus = Hvis antivirusprogrammet ditt inneholder en funksjon som skanner krypterte tilkoblinger (ofte kalt «webscanning» eller «https-skanning»), kan du deaktivere denne funksjonen. Hvis det ikke virker, kan du fjerne og installere antivirusprogrammet på nytt.
 certerror-mitm-what-can-you-do-about-it-corporate = Om du er i et bedriftsnettverk, kan du kontakte din IT-avdeling.
 # Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Hvis du ikke kjenner til <b>{ $mitm }</b>, kan dette være et angrep, og du bør ikke fortsette til nettstedet.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Hvis du ikke kjenner til <b>{ $mitm }</b>, kan dette være et angrep, og det er ingenting du kan gjøre for å få tilgang til nettstedet.
+# Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> har en sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at { -brand-short-name } bare kan koble til den sikkert. Du kan ikke legge til et unntak for å besøke dette nettstedet.
