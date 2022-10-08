@@ -80,3 +80,9 @@ certerror-expired-cert-sts-second-para = સંભવિત છે કે વે
 certerror-what-can-you-do-about-it-title = તમે તેના વિશે શું કરી શકો?
 certerror-unknown-issuer-what-can-you-do-about-it-website = આ સમસ્યા વેબસાઇટની છે, જેનાં સમાધાન માટે તમે કંઇ કરી શકો તેમ નથી.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = જો તમે વ્યવસાયિક નેટવર્ક પર છો કે એન્ટી-વાયરસ સોફ્ટવેરનો ઉપયોગ કરો છો, તો તમે સહાયક ટીમની મદદ લઇ શકો છો. તમે આ સમસ્યા વિશે વેબસાઇટ સંચાલકને પણ જણાવી શકો છો.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = તમારું કમ્પ્યુટર ઘડિયાળ { DATETIME($now, dateStyle: "medium") }પર સેટ છે. ખાતરી કરો કે તમારું કમ્પ્યુટર તમારી સિસ્ટમ સેટિંગ્સમાં યોગ્ય તારીખ, સમય અને સમય ઝોન પર સેટ છે, અને તે પછી <b>{ $hostname }</b>રીફ્રેશ કરો.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = જો તમારી ઘડિયાળ પહેલાથી જ યોગ્ય સમયે સેટ થઈ ગઈ હોય, તો વેબસાઇટને ખોટી રીતે ગોઠવી શકાતી નથી, અને સમસ્યાનો ઉકેલ લાવવા માટે તમે કશું જ કરી શકતા નથી. સમસ્યા વિશે તમે વેબસાઈટ સંચાલકને સૂચિત કરી શકો છો.
+certerror-bad-cert-domain-what-can-you-do-about-it = આ સમસ્યા વેબસાઈટ સાથે સંભાવના છે, અને તે ઉકેલવા માટે તમે કશું કરી શકતા નથી. સમસ્યા વિશે તમે વેબસાઈટ સંચાલકને સૂચિત કરી શકો છો.
