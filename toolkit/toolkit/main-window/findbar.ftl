@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Búsqueda rápida (enlaces)
 findbar-case-sensitive-status =
     .value = (Sensible a mayúsculas)
+findbar-entire-word-status =
+    .value = (Solo palabras completas)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
