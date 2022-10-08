@@ -6,15 +6,19 @@
 ## Error page titles
 
 neterror-page-title = Erô into caregamento da pagina
+neterror-captive-portal-page-title = Intra inta ræ
 
 ## Error page actions
 
+neterror-copy-to-clipboard-button = Còpia testo inti aponti
 neterror-learn-more-link = Atre informaçioin…
+neterror-pref-reset-button = Repiggia inpostaçioin predefinie
 neterror-return-to-previous-page-button = Vanni inderê
 neterror-try-again-button = Preuva Torna
 
 ##
 
+neterror-pref-reset = Pâ che segian e teu inpostaçioin de seguessa a caozâ questo. Ti veu repigiâ e inpostaçioin predefinie?
 neterror-error-reporting-automatic = Segnala eroî comme sto chi pe agiutâ { -vendor-short-name } a identificâ e blocâ sciti danozi
 
 ## Specific error messages
@@ -22,6 +26,7 @@ neterror-error-reporting-automatic = Segnala eroî comme sto chi pe agiutâ { -v
 neterror-load-error-try-again = O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.
 neterror-load-error-connection = Se no ti riesci a caregâ nisciunn-a pagina, preuva a controlâ a conescion do teu computer.
 neterror-load-error-firewall = Se o teu computer ò a teu conescion en protezui da 'n firewall ò proxy, açertite che { -brand-short-name } o l'agge o permisso de acede a-a Ræ.
+neterror-access-denied = O peu ese stæto scancelou,mesciou, ò i permissi de acesso a-i file peuan proibine l'acesso.
 neterror-unknown-protocol = Bezeugna instalâ do software in ciù pe arvî st'indirisso.
 neterror-not-cached-intro = O documento domandou o no l'é disponibile inta cache de { -brand-short-name }.
 neterror-not-cached-sensitive = Comme mezua de seguessa, o { -brand-short-name } o no te domanda torna documenti senscibili in aotomatico.
@@ -32,5 +37,12 @@ neterror-proxy-resolve-failure-connection = Contròlla se o teu computer o l'agg
 neterror-proxy-resolve-failure-firewall = Se o teu computer ò ræ son protezui da un firewall ò proxy verifica se { -brand-short-name } o peu acede a ræ
 neterror-nss-failure-not-verified = A pagina che ti veu vedde a no peu ese mostrâ perché no l'é poscibile verificâ l’aotenticitæ di dæti riçevui.
 neterror-nss-failure-contact-website = Ciamma o responsabile do scito web pe informalo do problema.
+neterror-corrupted-content-intro = A pagina che ti veu vedde a no peu ese mostrâ perché gh'é 'n erô inta trasmiscion di dæti.
+neterror-corrupted-content-contact-website = Pe piaxei, ciamma o responsabile do scito pe informalo do problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Informaçion avansæ: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> o deuvia 'na tecnòlogia de seguessa vegia ch'a l'é debole . Un mascarson o peu pigiâ con façiliæ e teu informaçioin che ti pensi segian a-o seguo. L'aministratô do scito o deve dâ recatto a-o server primma che ti ti posse vixitâ sta pagina.
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = Còdice d'erô: NS_ERROR_NET_INADEQUATE_SECURITY
