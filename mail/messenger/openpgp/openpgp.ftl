@@ -229,16 +229,12 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = l
 
-openpgp-key-details-title =
-    .title = Propriedades da chave
-
 openpgp-key-details-signatures-tab =
     .label = Certificações
 openpgp-key-details-structure-tab =
     .label = Estrutura
 openpgp-key-details-uid-certified-col =
     .label = ID de utilizador / certificado por
-openpgp-key-details-user-id2-label = Suposto proprietário da chave
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tipo
@@ -519,9 +515,6 @@ key-error-not-accepted-as-personal = Não confirmou que a chave com ID '{ $keySp
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = A função que selecionou não está disponível no modo desligado. Ligue-se à Internet e tente novamente.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Não foi possível encontrar qualquer chave que corresponda aos critérios de pesquisa especificados.
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Erro - o comando de extração da chave falhou
