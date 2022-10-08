@@ -9,6 +9,7 @@
 ## Error page actions
 
 neterror-learn-more-link = Meurunoë lom…
+neterror-return-to-previous-page-button = Gisa Balek
 neterror-try-again-button = Ci Lom
 
 ##
