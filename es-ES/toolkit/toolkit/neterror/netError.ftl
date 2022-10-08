@@ -22,6 +22,7 @@ neterror-file-not-found-moved = Compruebe si el archivo ha sido movido, renombra
 neterror-redirect-loop = Este problema a veces está causado por desactivar o rechazar la recepción de cookies.
 neterror-unknown-socket-type-psm-installed = Compruebe que su sistema tiene el administrador personal de seguridad instalado.
 neterror-unknown-socket-type-server-config = Esto podría deberse a una configuración no estándar en el servidor.
+neterror-net-offline = Presione “Probar de nuevo” para cambiar al modo con conexión y recargar la página.
 neterror-proxy-resolve-failure-settings = Compruebe la configuración de proxy para asegurarse de que es correcta.
 neterror-proxy-resolve-failure-connection = Compruebe que su equipo tiene una conexión de red operativa.
 neterror-proxy-resolve-failure-firewall = Si su equipo o red está protegida por un cortafuegos o proxy, asegúrese de que { -brand-short-name } tiene permiso para acceder a la web.
