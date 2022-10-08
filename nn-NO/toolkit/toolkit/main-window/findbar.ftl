@@ -34,6 +34,14 @@ findbar-entire-word =
 findbar-not-found = Fann ikkje frasen
 findbar-wrapped-to-top = Nådde botnen av sida, held fram frå toppen
 findbar-wrapped-to-bottom = Nådde toppen av sida, held fram frå botnen
+findbar-normal-find =
+    .placeholder = Søk på sida
+findbar-fast-find =
+    .placeholder = Snøggsøk
+findbar-fast-find-links =
+    .placeholder = Snøggsøk (berre lenkjer)
+findbar-case-sensitive-status =
+    .value = (Skil mellom store og små bokstavar)
 findbar-entire-word-status =
     .value = (Berre heile ord)
 # Variables:
