@@ -8,5 +8,16 @@
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Tienes un informe de fallos sin enviar
+       *[other] Tienes { $reportCount } informes de fallos sin enviar
+    }
 pending-crash-reports-view-all =
     .label = Ver
+pending-crash-reports-send =
+    .label = Enviar
+pending-crash-reports-always-send =
+    .label = Siempre enviar
