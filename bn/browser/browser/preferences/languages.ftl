@@ -5,28 +5,38 @@
 webpage-languages-window =
     .title = ওয়েবপাতার ভাষা সেটিং
     .style = width: 40em
+
 webpage-languages-window2 =
     .title = ওয়েবপাতার ভাষা সেটিং
     .style = min-width: 40em
+
 languages-close-key =
     .key = w
+
 languages-description = অনেক ক্ষেত্রে ওয়েবপাতাগুলো একাধিক ভাষা সমর্থন করে। আপনার পছন্দ অনুসারে, ওয়েবপাতা প্রদর্শনের ভাষার ক্রম নির্বাচন করুন
+
 languages-customize-spoof-english =
     .label = উন্নত গোপনীয়তা পেতে ওয়েব পাতাগুলোর ইংরেজি সংস্করণের জন্য অনুরোধ করুন
+
 languages-customize-moveup =
     .label = উপরে উঠাও
     .accesskey = U
+
 languages-customize-movedown =
     .label = নীচে নামাও
     .accesskey = D
+
 languages-customize-remove =
     .label = অপসারণ
     .accesskey = R
+
 languages-customize-select-language =
     .placeholder = যোগ করতে ভাষা নির্বাচন করুন…
+
 languages-customize-add =
     .label = যোগ করুন
     .accesskey = A
+
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -39,23 +49,33 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+
 languages-active-code-format =
     .value = { languages-code-format.label }
+
 browser-languages-window =
     .title = { -brand-short-name } ভাষা সেটিং
     .style = width: 40em
+
 browser-languages-window2 =
     .title = { -brand-short-name } ভাষা সেটিং
     .style = min-width: 40em
+
 browser-languages-description = { -brand-short-name } প্রথম ভাষাকে আপনার ডিফল্ট ভাষা হিসেবে প্রদর্শন করবে এবং বিকল্প ভাষাগুলো প্রয়োজন অনুযায়ী তাদের আবির্ভাবের ক্রমানুসারে প্রদর্শন করবে।
+
 browser-languages-search = আরও ভাষার জন্য অনুসন্ধান করুন...
+
 browser-languages-searching =
     .label = ভাষার জন্য অনুসন্ধান হচ্ছে...
+
 browser-languages-downloading =
     .label = ডাউনলোড হচ্ছে...
+
 browser-languages-select-language =
     .label = যোগ করতে ভাষা নির্বাচন করুন...
     .placeholder = যোগ করতে ভাষা নির্বাচন করুন...
+
 browser-languages-installed-label = ইন্সটলকৃত ভাষা
 browser-languages-available-label = বিদ্যমান ভাষা
+
 browser-languages-error = { -brand-short-name } এখন আপনার ভাষা হালনাগাদ করতে পারছে না। আপনি ইন্টারনেটে সংযুক্ত আছে কি না যাচাই করুন এবং পুনরায় চেষ্টা করুন।

@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = ওয়েব অভ্যন্তরীণ মেমোরি
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = সংরক্ষণ করুন about: WebRTC হিসাবে
@@ -68,10 +69,12 @@ about-webrtc-type-remote = দূরবর্তী
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = নোমিনেটেড
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = নির্বাচিত
+
 about-webrtc-save-page-label = পাতা সংরক্ষণ করুন
 about-webrtc-debug-mode-msg-label = ডিবাগ মোড
 about-webrtc-debug-mode-off-state-label = ডিভাগ মোড চালু করুন

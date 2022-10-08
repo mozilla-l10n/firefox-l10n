@@ -4,6 +4,7 @@
 
 page-title = সমস্যার সমাধান সংক্রান্ত তথ্য
 page-subtitle = এ পাতায় প্রযুক্তিগত তথ্য আছে যা সমস্যা সমাধানের সময় আপনার জন্য উপকারী হতে পারে। আপনি যদি { -brand-short-name } সম্পর্কিত কোনো সাধারণ প্রশ্নের উত্তর খুঁজতে থাকেন, তবে আমাদের <a data-l10n-name="support-link">সহায়তা ওয়েবসাইট দেখুন</a>।
+
 crashes-title = ক্র্যাশ প্রতিবেদন
 crashes-id = প্রতিবেদন আইডি
 crashes-send-date = প্রেরিত
@@ -62,6 +63,7 @@ app-basics-location-service-key-google = Google অবস্থান পরি�
 app-basics-safebrowsing-key-google = Google নিরাপদ ব্রাউজিং কী
 app-basics-key-mozilla = Mozilla লোকেশন সার্ভিস Key
 app-basics-safe-mode = সেফ মোড
+
 show-dir-label =
     { PLATFORM() ->
         [macos] ফাইন্ডারে প্রদর্শন
@@ -163,6 +165,7 @@ report-crash-for-days =
         [one] সর্বশেষ { $days } দিনের ক্র্যাশ রিপোর্ট
        *[other] সর্বশেষ { $days } দিনের ক্র্যাশ রিপোর্ট
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -170,6 +173,7 @@ crashes-time-minutes =
         [one] { $minutes } মিনিট পূর্বে
        *[other] { $minutes } মিনিট পূর্বে
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -177,6 +181,7 @@ crashes-time-hours =
         [one] { $hours } ঘন্টা পূর্বে
        *[other] { $hours } ঘন্টা পূর্বে
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -184,6 +189,7 @@ crashes-time-days =
         [one] { $days } দিন পূর্বে
        *[other] { $days } দিন পূর্বে
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -191,6 +197,7 @@ pending-reports =
         [one] সকল ক্র্যাশ রিপোর্ট (প্রদান করা সময়ের মধ্যে { $reports } টি অমীমাংসিত ক্র্যাশ সহ)
        *[other] সকল ক্র্যাশ রিপোর্ট (প্রদান করা সময়ের মধ্যে { $reports } টি অমীমাংসিত ক্র্যাশ সহ)
     }
+
 raw-data-copied = অবিন্যস্ত ডাটা ক্লিপবোর্ডে অনুলিপি করা হয়েছে
 text-copied = টেক্সট ক্লিপবোর্ডে অনুলিপি করা হয়েছে
 
@@ -203,9 +210,11 @@ blocked-mismatched-version = রেজিস্ট্রি এবং DLL এর
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = আপনার গ্রাফিক্স ড্রাইভার সংস্করণের জন্য ব্লক করুন। সংস্করণের { $driverVersion } অথবা আরও নতুন সংস্করণে আপনার গ্রাফিক্স ড্রাইভার হালনাগাদ করার চেষ্টা করুন।
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType স্থিতিমাপসমূহ
+
 compositing = কম্পোজিটিং
 hardware-h264 = H264 হার্ডওয়্যার ডিকোডিং
 main-thread-no-omtc = মূল থ্রেড, OMTC নাই
@@ -220,6 +229,7 @@ virtual-monitor-disp = ভার্চুয়াল মনিটর প্র�
 
 found = পাওয়া গেছে
 missing = নিখোঁজ
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = বিবরণ
@@ -242,11 +252,14 @@ webgl2-renderer = WebGL 2 ড্রাইভার Renderer
 webgl2-version = WebGL 2 ড্রাইভার সংষ্করণ
 webgl2-driver-extensions = WebGL 2 ড্রাইভার এক্সটেনসন
 webgl2-extensions = WebGL 2 এক্সটেনশন
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ব্লকতালিকাভুক্ত; ব্যর্থ কোড { $failureCode }
+
 d3d11layers-crash-guard = D3D11 কম্পোজিটর
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = পুনরায় শুরু করার সময় রিসেট করুন
 gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করুন
 gpu-device-reset = ডিভাইস রিসেট
@@ -256,8 +269,10 @@ content-uses-tiling = টাইলিং (কনটেন্ট) এর ব্�
 off-main-thread-paint-enabled = অফ মেইন থ্রেড পেইন্টিং সক্রিয়
 off-main-thread-paint-worker-count = Main Thread Painting Worker Count বন্ধ
 target-frame-rate = টার্গেট ফ্রেম রেট
+
 min-lib-versions = প্রত্যাশিত সর্বনিম্ন সংস্করণ
 loaded-lib-versions = ব্যবহৃত সংস্করণ
+
 has-seccomp-bpf = Seccomp-BPF (সিস্টেম কল ফিল্টারিং)
 has-seccomp-tsync = সিকম্প থ্রেড সিংক্রোনাইজেশন
 has-user-namespaces = ব্যবহারকারী নামস্থান
@@ -270,14 +285,17 @@ sandbox-proc-type-content = কন্টেন্ট
 sandbox-proc-type-file = ফাইল কনটেন্ট
 sandbox-proc-type-media-plugin = মিডিয়া প্লাগইন
 sandbox-proc-type-data-decoder = ডাটা ডিকোডার
+
 launcher-process-status-0 = সক্রিয় হয়েছে
 launcher-process-status-1 = ব্যর্থতার কারণে নিস্ক্রিয়
 launcher-process-status-2 = জোরপূর্বক নিষ্ক্রিয় করা হয়েছে
 launcher-process-status-unknown = অজ্ঞাত অবস্থা
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+
 async-pan-zoom = অ্যাসিংক্রোনাস প্যান/জুম
 apz-none = কোনোটি নয়
 wheel-enabled = চাকা নিবেশ সক্ষম

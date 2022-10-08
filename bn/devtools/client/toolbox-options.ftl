@@ -126,8 +126,3 @@ options-context-triggers-page-refresh = *কেবল বর্তমান স�
 
 ##
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = গেকো প্ল্যাটফর্ম ডাটা দেখান
-options-show-platform-data-tooltip =
-    .title = যদি আপনি এই অপশন সক্রিয় করেন তবে জাভাস্ক্রিপ্ট প্রোফাইলার গেকো প্লাটফর্ম চিহ্নে অর্ন্তভূক্ত রাখবে

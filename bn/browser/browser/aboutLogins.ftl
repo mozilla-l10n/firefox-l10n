@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = লগইন ও পাসওয়ার্ড
+
 login-filter =
     .placeholder = লগইন অনুসন্ধান
+
 create-login-button = নতুন লগইন তৈরি করুন
+
 fxaccounts-sign-in-text = আপনার অন্যান্য ডিভাইসে আপনার পাসওয়ার্ড পান
 fxaccounts-sign-in-sync-button = sync এর জন্য সাইন ইন করুন
 fxaccounts-avatar-button =
@@ -113,16 +116,19 @@ about-logins-edit-login-os-auth-dialog-message-win = আপনার লগই�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সংরক্ষিত লগইন সম্পাদনা করুন
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = আপনার পাসওয়ার্ড দেখতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড দেখাও
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = আপনার পাসওয়ার্ড অনুলিপি করতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড অনুলিপি করুন
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = আপনার লগইন রপ্তানি করতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
 # This message can be seen when attempting to export a password in about:logins
@@ -141,31 +147,38 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = বাতিল
 confirmation-dialog-dismiss-button =
     .title = বাতিল
+
 about-logins-confirm-remove-dialog-title = লগইনটি মুছে ফেলবেন?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
 about-logins-confirm-remove-dialog-confirm-button = সরান
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] সরান
         [one] একটি সরান
        *[other] সব সরান
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] হ্যাঁ, এই লগইন সরান
         [one] হ্যাঁ, এই লগইন সরান
        *[other] হ্যাঁ, এই লগইনগুলি সরান
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] সমস্ত ডিভাইস থেকে সমস্ত { $count } লগইন মুছে ফেলবেন?
        *[other] সমস্ত ডিভাইস থেকে সমস্ত { $count } লগইনগুলো মুছে ফেলবেন?
     }
+
 about-logins-confirm-export-dialog-title = লগইন এবং পাসওয়ার্ড রপ্তানি করুন
 about-logins-confirm-export-dialog-message = আপনার পাসওয়ার্ড পাঠযোগ্য টেক্সট হিসাবে সংরক্ষণ করা হবে, সুতরাং ফাইলটি কেহ খুলতে পারলে পাসওয়ার্ড দেখতে পাবে
 about-logins-confirm-export-dialog-confirm-button = রপ্তানি করুন…
+
 about-logins-alert-import-title = আমদানি সম্পূর্ণ হয়েছে
 about-logins-alert-import-message = বিস্তারিত আমদানির সারাংশ দেখুন
+
 confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
 confirm-discard-changes-dialog-message = সংরক্ষিত সকল পরিবর্তনগুলো হারিয়ে যাবে।
 confirm-discard-changes-dialog-confirm-button = বাতিল
@@ -194,6 +207,7 @@ about-logins-vulnerable-alert-learn-more-link = আরও জানুন
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } নামের ব্যবহারকারী পূর্ব থেকেই আছেন। <a data-l10n-name="duplicate-link">পূর্বে থাকা ব্যবহারকারীতে যেতে চান?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = এই পাসওয়ার্ডটি সংরক্ষণ করার চেষ্টা করার সময় একটি ত্রুটি ঘটেছে।
 
@@ -243,12 +257,14 @@ about-logins-import-dialog-items-added =
         [one] <span>নতুন লগইন যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>নতুন লগইন যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>ত্রুটি:</span> <span data-l10n-name="count">{ $count }টি</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
        *[other] <span>ত্রুটি:</span> <span data-l10n-name="count">{ $count }টি</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
     }
 about-logins-import-dialog-done = সম্পন্ন হয়েছে
+
 about-logins-import-dialog-error-title = আমদানি ত্রুটি
 about-logins-import-dialog-error-conflicting-values-title = এক লগইনের জন্য একাধিক পরস্পরবিরোধী মান
 about-logins-import-dialog-error-conflicting-values-description = উদাহরণস্বরূপ: এক লগইনের জন্য একাধিক ব্যবহারকারীর নাম, পাসওয়ার্ড, ইউআরএল ইত্যাদি।
@@ -259,6 +275,7 @@ about-logins-import-dialog-error-unable-to-read-description = নিশ্চি
 about-logins-import-dialog-error-learn-more = অধিক জানুন
 about-logins-import-dialog-error-try-import-again = আবার আমদানির চেষ্টা করুন…
 about-logins-import-dialog-error-cancel = বাতিল করুন
+
 about-logins-import-report-title = আমদানির সারাংশ
 about-logins-import-report-description = লগইন এবং পাসওয়ার্ড { -brand-short-name } এ আমদানি করা হয়েছে।
 

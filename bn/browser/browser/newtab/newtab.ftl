@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = অনুসন্ধান
     .aria-label = অনুসন্ধান
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = অনুসন্ধান করুন বা ঠিকানা লিখুন
     .title = অনুসন্ধান করুন বা ঠিকানা লিখুন
     .aria-label = অনুসন্ধান করুন বা ঠিকানা লিখুন
+
 newtab-search-box-text = ওয়েবে অনুসন্ধান করুন
 newtab-search-box-input =
     .placeholder = ওয়েবে অনুসন্ধান করুন
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = শর্টকাট সম্পাদ�
 newtab-topsites-title-label = শিরোনাম
 newtab-topsites-title-input =
     .placeholder = শিরোনাম লিখুন
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = একটি URL লিখুন বা প্রতিলেপন করুন
 newtab-topsites-url-validation = কার্যকর URL প্রয়োজন
+
 newtab-topsites-image-url-label = কাস্টম ছবির URL
 newtab-topsites-use-image-link = কাস্টম ছবি ব্যবহার করুন…
 newtab-topsites-image-validation = ছবি লোড করতে ব্যর্থ। ভিন্ন URL এ চেস্টা করুন।
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = স্পন্সরকৃত
 newtab-menu-section-tooltip =
     .title = মেনু খুলুন
     .aria-label = মেনু খুলুন
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = মুছে ফেলুন
     .aria-label = মুছে ফেলুন
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -157,14 +163,17 @@ newtab-label-removed-bookmark = বুকমার্ক মুছে ফেল�
 newtab-label-recommended = প্রবণতা
 newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ হয়েছে
 newtab-label-download = ডাউনলোড হয়েছে
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } । প্রযোজিত
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = { $sponsor } দ্বারা স্পনসরকৃত
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -203,6 +212,7 @@ newtab-section-header-pocket = { $provider } দ্বারা সুপার�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ব্রাউজি করা শুরু করুন, এবং কিছু গুরুত্বপূর্ণ নিবন্ধ, ভিডিও, এবং আপনি সম্প্রতি পরিদর্শন বা বুকমার্ক করেছেন এমন কিছু পৃষ্ঠা আমরা এখানে প্রদর্শন করব।
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -225,9 +235,11 @@ newtab-pocket-more-recommendations = আরও সুপারিশ
 newtab-pocket-learn-more = আরও জানুন
 newtab-pocket-cta-button = { -pocket-brand-name } ব্যবহার করুন
 newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্দের গল্পগুলো সংরক্ষণ করুন, এবং চমৎকার সব লেখা পড়ে আপনার মনের ইন্ধন যোগান।
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name }-এ সংরক্ষণ করুন
 newtab-pocket-saved-to-pocket = { -pocket-brand-name }-এ সংরক্ষিত হয়েছে
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = আরও গল্প লোড করুন
 

@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname }-এর সাথে সংযোগ স্থাপনের সময় একটি ত্রুটি ঘটেছে। { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = ভুল কোড: { $error }
+
 psmerr-ssl-disabled = SSL প্রোটোকল নিষ্ক্রিয় হওয়ার ফলে নিরাপদরূপে সংযোগ স্থাপন করা যায়নি।
 psmerr-ssl2-disabled = এই সাইটের সাথে নিরাপদরূপে সংযোগ স্থাপন করা সম্ভব নয় কারণ এই সাইটে SSL প্রোটোকলের একটি পুরোনো ও অরক্ষিত সংস্করণ ব্যবহৃত হয়েছে।
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     আপনি একটি অকার্যকর সার্টিফিকেট গ্রহণ করেছেন।  সার্ভারের অ্যাডমিনিস্ট্রেটর অথবা ইমেইল লেখক বা প্রাপকের সাথে অনুগ্রহ করে যোগাযোগ করুন এবং তাদেরকে নিম্নলিখিত তথ্য প্রেরণ করুন:
     
     আপনার সার্টিফিকেটের ক্রমিক সংখ্যা সার্টিফিকেট কর্তৃপক্ষর দ্বারা প্রকাশিত অন্য একটি সার্টিফিকেটের ক্রমিক সংখ্যার অনুরূপ।  অনুগ্রহ করে স্বতন্ত্র ক্রমিক সংখ্যা সহ একটি নতুন সার্টিফিকেট গ্রহণ করুন।
+
 ssl-error-export-only-server = নিরাপদভাবে তথ্য বিনিময় করতে ব্যর্থ। পিয়ার উচ্চমানের এনক্রিপশন সমর্থন করে না।
 ssl-error-us-only-server = নিরাপদভাবে তথ্য বিনিময় করতে ব্যর্থ। পিয়ার উচ্চমানের এনক্রিপশন দাবী করে যা বর্তমানে সমর্থিত নয়।
 ssl-error-no-cypher-overlap = নিরাপদভাবে পিয়ার সার্ভারের সাথে তথ্য বিনিময় করা সম্ভব নয়: এনক্রিপশন এলগরিদমে কোন মিল নেই।

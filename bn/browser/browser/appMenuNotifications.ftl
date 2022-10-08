@@ -29,6 +29,7 @@ appmenu-update-restart2 =
     .buttonaccesskey = U
     .secondarybuttonlabel = খারিজ করুন
     .secondarybuttonaccesskey = m
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ঠিক আছে
     .buttonaccesskey = O
@@ -36,6 +37,7 @@ appmenu-addon-post-install-message3 = অ্যাপ্লিকেশন ম�
 appmenu-addon-post-install-incognito-checkbox =
     .label = এই এক্সটেনশনটিকে ব্যক্তিগত উইন্ডো তে চালানোর অনুমতি দিন
     .accesskey = A
+
 appmenu-tab-hide-controlled =
     .label = আপনার লুকানো ট্যাবে প্রবেশ করুন
     .buttonlabel = ট্যাবগুলো লুকানো রাখুন

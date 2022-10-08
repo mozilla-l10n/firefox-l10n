@@ -5,14 +5,18 @@
 firefoxview-close-button =
     .title = বন্ধ করুন
     .aria-label = বন্ধ করুন
+
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = এইমাত্র
+
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% সম্পন্ন
+
 firefoxview-tabpickup-adddevice-learn-how = শিখুন কীভাবে
+
 firefoxview-tabpickup-network-offline-header = আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন
 firefoxview-tabpickup-network-offline-primarybutton = আবার চেষ্টা করুন
+
 firefoxview-closed-tabs-title = সম্প্রতি বন্ধকৃত
-firefoxview-closed-tabs-collapse-button =
-    .title = সম্প্রতি বন্ধ করা ট্যাবের তালিকা দেখান বা লুকান
+
