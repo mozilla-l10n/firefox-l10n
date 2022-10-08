@@ -22,6 +22,7 @@ neterror-load-error-connection = Su fekkee mënuloo joow ci benn dal, seetal sa 
 neterror-load-error-firewall = Su fekkee sa ordinatëër walla sa lëkkale danu leen aar ak paarfë walla benn proxy seetal ndax { -brand-short-name } am ndigal agg ci Web bi.
 neterror-file-not-found-filename = Settantal mbindu turu dencukaay bi .
 neterror-file-not-found-moved = Seetal ndax kenn randalul dencukaay bi, walla ñu jox ko beneen tur mbaa ñu mabb ko.
+neterror-unknown-protocol = Da nga war samp beneen jëfekaay ngir mëna ubbi giiru makkaan bile.
 neterror-redirect-loop = Li indi jafe jafe bii mën na nekk suuxal mba bañ cookies.
 neterror-unknown-socket-type-psm-installed = Seetal ndax sa saytukatu kaarange bopp sampu na ci sa doxalin.
 neterror-unknown-socket-type-server-config = Mën na doon tabbinu serwëër bi la.
