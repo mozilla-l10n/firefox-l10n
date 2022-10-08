@@ -9,16 +9,22 @@ findbar-next =
     .tooltiptext = San hu fres no wɔ enim baako
 findbar-previous =
     .tooltiptext = San hu fres wɔ ekyiri baako
+
 findbar-find-button-close =
     .tooltiptext = To find-baa mu
+
 findbar-not-found = Ennhu fres
+
 findbar-wrapped-to-top = Edu krataafa n'ewiei, atoa so efiri soro
 findbar-wrapped-to-bottom = Edu krataafa ne soro, atoa so efiri ase
+
 findbar-normal-find =
     .placeholder = Hu wɔ krataafa mu
 findbar-fast-find =
     .placeholder = Hu ntɛm
 findbar-fast-find-links =
     .placeholder = Hu ntɛm: (alenk nko ara)
+
 findbar-case-sensitive-status =
     .value = (Atenkanoɔden kase)
+

@@ -19,6 +19,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Kuwanuula Santifikati
     .style = width: 46em
+
 download-cert-window2 =
     .title = Kuwanuula Santifikati
     .style = min-width: 46em

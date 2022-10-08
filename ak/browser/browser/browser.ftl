@@ -87,6 +87,10 @@ full-screen-exit =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 
@@ -255,3 +259,6 @@ tabs-toolbar-list-all-tabs =
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } soma data bi otomatikmu kɔ { -vendor-short-name } ama yɛ atumi atu wo ɛkspiriɛns mpon.
+
+## Unified extensions (toolbar) button
+
