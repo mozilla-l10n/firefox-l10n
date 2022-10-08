@@ -56,6 +56,12 @@ neterror-nss-failure-not-verified = প্রাপ্ত তথ্যের য
 neterror-nss-failure-contact-website = অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের সূচিত করুন।
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } একটি সম্ভাব্য হুমকি শনাক্ত করেছে এবং <b>{ $hostname }</b>এ প্রবেশ করেনি। যদি আপনি এই সাইটটিতে প্রবেশ করেন, তাহলে আক্রমণকারীরা আপনার পাসওয়ার্ড, ইমেইল অথবা ক্রেডিট কার্ডের মত তথ্য চুরি করার চেষ্টা করতে পারে।
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } একটি সম্ভাব্য হুমকি শনাক্ত করেছে এবং <b>{ $hostname }</b> এ কাজ করেনি কারণ এই ওয়েবসাইটটিতে একটি নিরাপদ সংযোগ প্রয়োজন।
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = { -brand-short-name } একটি সমস্যা শনাক্ত করেছে এবং <b>{ $hostname }</b>এ চালিয়ে যায়নি। ওয়েবসাইটটি হয়তোবা ভুলভাবে কনফিগার করা আছে অথবা আপনার কম্পিউটারের ঘড়িতে ভুল সময় সেট করা আছে।
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
