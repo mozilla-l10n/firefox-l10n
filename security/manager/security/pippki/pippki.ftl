@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Laai tans sertifikaat af
     .style = width: 46em
+
 download-cert-window2 =
     .title = Laai tans sertifikaat af
     .style = min-width: 46em

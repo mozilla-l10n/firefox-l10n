@@ -4,21 +4,27 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Blokkeer
     .accesskey = B
+
 permissions-session =
     .label = Laat toe vir sessie
     .accesskey = s
+
 permissions-allow =
     .label = Laat toe
     .accesskey = L
+
 permissions-status =
     .label = Status
+
 permissions-capabilities-allow =
     .label = Laat toe
 permissions-capabilities-block =
     .label = Blokkeer
+
 permissions-capabilities-listitem-allow =
     .value = Laat toe
 permissions-capabilities-listitem-block =
@@ -49,6 +55,7 @@ permissions-exceptions-popup-desc = U kan spesifiseer watter webwerwe toegelaat 
 permissions-exceptions-saved-logins-window =
     .title = Uitsonderings - Gestoorde aanmeldings
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Uitsonderings - Gestoorde aanmeldings
     .style = { permissions-window2.style }
