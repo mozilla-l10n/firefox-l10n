@@ -5,43 +5,57 @@
 permissions-window =
     .title = Eceçioin…
     .style = width: 36em
+
 permissions-window2 =
     .title = Eceçioin…
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Indirisso do scito
     .accesskey = d
+
 permissions-block =
     .label = Blòcco
     .accesskey = B
+
 permissions-session =
     .label = Permetti in sta sescion
     .accesskey = s
+
 permissions-allow =
     .label = Permetti
     .accesskey = P
+
 permissions-site-name =
     .label = Scito
+
 permissions-status =
     .label = Stato
+
 permissions-remove =
     .label = Scancella scito
     .accesskey = S
+
 permissions-remove-all =
     .label = Scancella tutti i sciti
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Sarva cangiamenti
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Çerca scito
+
 permissions-capabilities-allow =
     .label = Permetti
 permissions-capabilities-block =
     .label = Blòcco
 permissions-capabilities-prompt =
     .label = Domanda de longo
+
 permissions-capabilities-listitem-allow =
     .value = Permetti
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = Pe piaxei inserisci un nomme de host valido
 permissions-exceptions-cookie-window =
     .title = Eceçioin - Cookie e Dæti di Sciti
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Eceçioin - Cookie e Dæti di Sciti
     .style = { permissions-window2.style }
@@ -75,6 +90,7 @@ permissions-exceptions-cookie-desc = Ti peu anche decidde quali sciti peuan de l
 permissions-exceptions-popup-window =
     .title = Sciti permissi - Pop-up
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Sciti permissi - Pop-up
     .style = { permissions-window2.style }
@@ -85,6 +101,7 @@ permissions-exceptions-popup-desc = Ti ti peu dî quæ sciti peuan arvî barcoin
 permissions-exceptions-saved-logins-window =
     .title = Eceçioin - Login sarvæ
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Eceçioin - Login sarvæ
     .style = { permissions-window2.style }
@@ -95,6 +112,7 @@ permissions-exceptions-saved-logins-desc = I dæti d'acesso pe sti sciti no saia
 permissions-exceptions-addons-window =
     .title = Sciti permissi - Instalaçion di conponenti azonti
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Sciti permissi - Instalaçion di conponenti azonti
     .style = { permissions-window2.style }
@@ -108,6 +126,7 @@ permissions-exceptions-addons-desc = Ti ti peu dî quæ sciti peuan arvî ò ins
 permissions-site-notification-window =
     .title = Inpostaçioin - Permessi de Notificaçion
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Inpostaçioin - Permessi de Notificaçion
     .style = { permissions-window2.style }
@@ -121,6 +140,7 @@ permissions-site-notification-disable-desc = Questo o blòcca i sciti che no en 
 permissions-site-location-window =
     .title = Inpostaçioin - Permessi de Poxiçion
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Inpostaçioin - Permessi de Poxiçion
     .style = { permissions-window2.style }
@@ -137,6 +157,7 @@ permissions-site-location-disable-desc = Questo o blòcca i sciti che no en inta
 permissions-site-camera-window =
     .title = Inpostaçioin - Permessi da Fötocamera
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Inpostaçioin - Permessi da Fötocamera
     .style = { permissions-window2.style }
@@ -150,6 +171,7 @@ permissions-site-camera-disable-desc = Questo o no permette a-i sciti che non en
 permissions-site-microphone-window =
     .title = Inpostaçioin - Permessi do Micròfono
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Inpostaçioin - Permessi do Micròfono
     .style = { permissions-window2.style }

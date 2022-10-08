@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Sarva indirissi
 autofill-manage-addresses-list-header = Indirissi
+
 autofill-manage-credit-cards-title = Carte de credito sarvæ
 autofill-manage-credit-cards-list-header = Carte de credito
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Scancella
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Cangia…
 autofill-add-new-address-title = Azonzi neuvo indirisso
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Cangia indirisso
+
 autofill-address-given-name = Nomme
 autofill-address-additional-name = Segondo nomme
 autofill-address-family-name = Cognomme
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Tæra ò Region
 autofill-address-tel = Telefono
 autofill-address-email = Email
+
 autofill-cancel-button = Anulla
 autofill-save-button = Sarva
 autofill-country-warning-message = E form aoto-inpimento en disponibili solo in çerte naçioin.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Azonzi neuva carta de credito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Cangia carta de credito
+
 autofill-card-number = Numero carta
 autofill-card-invalid-number = Pe piaxei scrivi 'n numero de carta ch'o segge bon
 autofill-card-name-on-card = Nomme in sciâ carta

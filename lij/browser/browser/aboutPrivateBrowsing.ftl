@@ -33,3 +33,5 @@ about-private-browsing-search-banner-description =
 about-private-browsing-search-banner-close-button =
     .aria-label = Særa
 
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
