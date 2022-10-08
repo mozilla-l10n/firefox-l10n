@@ -9,6 +9,7 @@ neterror-page-title = Obuzibu mukutikka omuko
 
 ## Error page actions
 
+neterror-try-again-button = Gezako Nate
 
 ##
 
