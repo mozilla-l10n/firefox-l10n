@@ -11,3 +11,6 @@ findbar-previous =
     .tooltiptext = Hwetša tiragalo e fetilego ya sekafoko
 findbar-not-found = Sekafoko ga sa hwetšwa
 findbar-wrapped-to-top = Fihlile mafelelong a letlakala, go tšwetšwe pele go tloga godimo
+findbar-wrapped-to-bottom = Fihlile godimo ga letlakala, go tšwetšwe pele go tloga tlase
+findbar-case-sensitive-status =
+    .value = (Amega ka ditlhakakgolo)
