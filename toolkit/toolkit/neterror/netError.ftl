@@ -15,3 +15,6 @@ neterror-page-title = Problemas al cargar la página
 
 ## Specific error messages
 
+neterror-not-cached-intro = El documento solicitado no está disponible en la caché de { -brand-short-name }.
+neterror-not-cached-sensitive = Como precaución de seguridad, { -brand-short-name } no solicita automáticamente documentos sensibles.
+neterror-not-cached-try-again = Haz clic en Intentar de nuevo para volver a solicitar el documento del sitio web.
