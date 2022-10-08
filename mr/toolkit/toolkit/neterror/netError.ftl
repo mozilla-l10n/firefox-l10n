@@ -6,15 +6,22 @@
 ## Error page titles
 
 neterror-page-title = पृष्ठ दाखल करतेवेळी समस्या
+neterror-blocked-by-policy-page-title = अवरोधित पृष्ठ
 neterror-captive-portal-page-title = नेटवर्कमध्ये लॉग इन करा
+neterror-dns-not-found-title = सर्व्हर आढळला नाही
+neterror-malformed-uri-page-title = अवैध URL
 
 ## Error page actions
 
+neterror-advanced-button = प्रगत…
 neterror-copy-to-clipboard-button = क्लिपबोर्डमध्ये मजकूरचे प्रत बनवा
+neterror-learn-more-link = अधिक जाणा…
 neterror-open-portal-login-page-button = नेटवर्क लॉग इन पृष्ठ उघडा
+neterror-override-exception-button = जोखिम स्वीकारा आणि पुढे चालू ठेवा
 neterror-pref-reset-button = पूर्वनिर्धारीत सेटिंग पुनर्स्थापित करा
 neterror-return-to-previous-page-button = मागे जा
 neterror-try-again-button = पुन्हा प्रयत्न करा
+neterror-view-certificate-link = प्रमाणपत्र पहा
 
 ##
 
