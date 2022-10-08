@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = រក​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​បន្ទាប់
 findbar-previous =
     .tooltiptext = រក​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​មុន
-
 findbar-find-button-close =
     .tooltiptext = បិទ​របារ​ស្វែងរក
-
 findbar-highlight-all2 =
     .label = រំលេចទាំងអស់
     .accesskey =
@@ -21,13 +19,16 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = រំលេច​កថាខណ្ឌ​ដែល​កើត​ឡើងវិញ​ទាំងអស់
-
 findbar-case-sensitive =
     .label = ករណី​ដំណូច
     .accesskey = c
     .tooltiptext = ស្វែងរក​ដោយ​ប្រកាន់​អក្សរ​តូច​ធំ
-
 findbar-entire-word =
     .label = ពាក្យ​ទាំងមូល
     .accesskey = W
     .tooltiptext = ស្វែងរក​ពាក្យ​ទាំងមូល​តែប៉ុណ្ណោះ
+findbar-not-found = រក​មិន​ឃើញ​ពាក្យ ឬ​ឃ្លា
+findbar-wrapped-to-top = បាន​ទៅ​ដល់​ចុង​ទំព័រ បន្ត​ពី​កំពូល
+findbar-wrapped-to-bottom = បាន​ទៅដល់​ចុង​ទំព័រ បន្ត​ពី​បាត
+findbar-case-sensitive-status =
+    .value = (ប្រកាន់​តួអក្សរ​តូច​ធំ)
