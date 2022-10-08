@@ -5,8 +5,11 @@
 clear-site-data-window =
     .title = Vuidar les donâs
     .style = width: 35em
+
 clear-site-data-window2 =
     .title = Vuidar les donâs
     .style = min-width: 35em
+
 clear-site-data-close-key =
     .key = w
+

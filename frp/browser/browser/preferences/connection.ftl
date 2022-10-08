@@ -9,6 +9,7 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-window2 =
     .title = Prèfèrences de conèxion
     .style =
@@ -16,11 +17,15 @@ connection-window2 =
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-disable-extension =
     .label = Dèsactivar l’aponse
+
 connection-proxy-configure = Configuar lo sèrvòr mitan por accèdar a Internet
+
 connection-proxy-option-no =
     .label = Niun sèrvor mitan
     .accesskey = N
@@ -33,16 +38,20 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = Configuracion manuèla du sèrvòr mitan
     .accesskey = m
+
 connection-proxy-http = Sèrvòr mitan HTTP
     .accesskey = H
 connection-proxy-http-port = Pòrt
     .accesskey = P
+
 connection-proxy-ssl-port = Pòrt
     .accesskey = r
+
 connection-proxy-socks = Hôto SOCKS
     .accesskey = C
 connection-proxy-socks-port = Pòrt
     .accesskey = P
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -51,7 +60,10 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = Niun sèrvòr mitan por
     .accesskey = N
+
 connection-proxy-noproxy-desc = Èzèmpllo: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Rechargér
     .accesskey = e
+

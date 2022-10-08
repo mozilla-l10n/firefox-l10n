@@ -86,6 +86,10 @@ full-screen-autohide =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 # Width of the bookmark panel.
@@ -213,4 +217,6 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+## Unified extensions (toolbar) button
 

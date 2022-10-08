@@ -5,11 +5,14 @@
 containers-window-new =
     .title = Apondre un novél contenòr
     .style = width: 45em
+
 containers-window-new2 =
     .title = Apondre un novél contenòr
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -20,17 +23,22 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nom
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Entrâds un nom de contenòr
+
 containers-icon-label = Icona
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Colòr
     .accesskey = C
     .style = { -containers-labels-style }
+
 containers-color-blue =
     .label = Blu
 containers-color-turquoise =
@@ -47,6 +55,7 @@ containers-color-pink =
     .label = Rosa
 containers-color-purple =
     .label = Violèt
+
 containers-icon-fingerprint =
     .label = Marca de dêts
 containers-icon-briefcase =
