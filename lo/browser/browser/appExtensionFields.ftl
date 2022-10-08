@@ -6,7 +6,9 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 extension-firefox-compact-light-name = ແຈ້ງ
+
 extension-firefox-compact-dark-name = ມືດ
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 
 ## Colorway Themes

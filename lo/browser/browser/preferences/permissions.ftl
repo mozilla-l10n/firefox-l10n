@@ -5,40 +5,53 @@
 permissions-window =
     .title = ຂໍ້ຍົກເວັ້ນ
     .style = width: 45em
+
 permissions-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ທີ່ຢູ່ຂອງເວັບໄຊທ໌
     .accesskey = ທ
+
 permissions-block =
     .label = ບັອກ
     .accesskey = ບ
+
 permissions-session =
     .label = ອະນຸຍາດສຳລັບເຊສຊັນ
     .accesskey = ຊ
+
 permissions-allow =
     .label = ອະນຸຍາດ
     .accesskey = ອ
+
 permissions-site-name =
     .label = ເວັບໄຊທ໌
+
 permissions-status =
     .label = ສະຖານະ
+
 permissions-remove =
     .label = ລຶບເວັບໄຊທ໌ອອກ
     .accesskey = ລ
+
 permissions-remove-all =
     .label = ລຶບເວັບໄຊທ໌ທັງຫມົດອອກ
     .accesskey = ມ
+
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
+
 permissions-capabilities-allow =
     .label = ອະນຸຍາດ
 permissions-capabilities-block =
     .label = ບັອກ
 permissions-capabilities-prompt =
     .label = ຖາມທຸກຄັ້ງ
+
 permissions-capabilities-listitem-allow =
     .value = ອະນຸຍາດ
 permissions-capabilities-listitem-block =
@@ -59,6 +72,7 @@ permissions-invalid-uri-label = ກະລຸນາປ້ອນຊື່ໂຮສ
 permissions-exceptions-cookie-window =
     .title = ຂໍ້ຍົກເວັ້ນ - ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ - ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ
     .style = { permissions-window2.style }
@@ -72,6 +86,7 @@ permissions-exceptions-cookie-desc = ທ່ານສາມາດລະບຸເ�
 permissions-exceptions-popup-window =
     .title = ເວັບໄຊທີ່ອະນຸຍາດ - ປ໋ອບອັບ
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = ເວັບໄຊທີ່ອະນຸຍາດ - ປ໋ອບອັບ
     .style = { permissions-window2.style }
@@ -82,6 +97,7 @@ permissions-exceptions-popup-desc = ທ່ານສາມາດກຳນົດ�
 permissions-exceptions-saved-logins-window =
     .title = ຂໍ້ຍົກເວັ້ນ - ບັນທຶກການເຂົ້າສູ່ລະບົບ
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ - ບັນທຶກການເຂົ້າສູ່ລະບົບ
     .style = { permissions-window2.style }
@@ -92,6 +108,7 @@ permissions-exceptions-saved-logins-desc = ການເຂົ້າສູ່ລ�
 permissions-exceptions-addons-window =
     .title = ເວັບໄຊທີ່ອະນຸຍາດ - ການຕິດຕັ້ງສ່ວນເສີມ
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = ເວັບໄຊທີ່ອະນຸຍາດ - ການຕິດຕັ້ງສ່ວນເສີມ
     .style = { permissions-window2.style }
@@ -105,6 +122,7 @@ permissions-exceptions-addons-desc = ທ່ານສາມາດກຳນົດ�
 permissions-site-notification-window =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດການແຈ້ງເຕືອນ
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດການແຈ້ງເຕືອນ
     .style = { permissions-window2.style }
@@ -118,6 +136,7 @@ permissions-site-notification-disable-desc = ນີ້ຈະປ້ອງກັ�
 permissions-site-location-window =
     .title = ການຕັ້ງຄ່າ - ອະນຸຍາດສະຖານທີ່
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = ການຕັ້ງຄ່າ - ອະນຸຍາດສະຖານທີ່
     .style = { permissions-window2.style }
@@ -134,6 +153,7 @@ permissions-site-location-disable-desc = ນີ້ຈະປ່ອງກັນເ
 permissions-site-camera-window =
     .title = ຕັ້ງຄ່າ - ການອະນຸຍາດກ້ອງ
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = ຕັ້ງຄ່າ - ການອະນຸຍາດກ້ອງ
     .style = { permissions-window2.style }
@@ -147,6 +167,7 @@ permissions-site-camera-disable-desc = ນີ້ຈະປ້ອງກັນເ�
 permissions-site-microphone-window =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດໄມໂຄຣໂຟນ
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດໄມໂຄຣໂຟນ
     .style = { permissions-window2.style }

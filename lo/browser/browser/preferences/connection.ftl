@@ -9,6 +9,7 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-window2 =
     .title = ຕັ້ງຄ່າການເຊື່ອມຕໍ່
     .style =
@@ -16,11 +17,15 @@ connection-window2 =
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-disable-extension =
     .label = ປິດໃຊ້ສ່ວນຂະຫຍາຍ
+
 connection-proxy-configure = ກຳນົດຄ່າການເຂົ້າເຖິງພຣັອກຊີກັບອິນເຕີເນັດ
+
 connection-proxy-option-no =
     .label = ບໍ່ມີພຣັອກຊີ
     .accesskey = ພ
@@ -33,16 +38,20 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = ການກຳນົດຄ່າພຣັອກຊີດ້ວຍຕົນເອງ
     .accesskey = ອ
+
 connection-proxy-http = ພຣັອກຊີ HTTP
     .accesskey = x
 connection-proxy-http-port = ພັອດ
     .accesskey = ພ
+
 connection-proxy-ssl-port = ພັອດ
     .accesskey = ພ
+
 connection-proxy-socks = ໂຮສຕ໌ SOCKS
     .accesskey = C
 connection-proxy-socks-port = ພັອດ
     .accesskey = ດ
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -51,24 +60,32 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = ບໍ່ມີພຣັອກຊີສຳລັບ
     .accesskey = N
+
 connection-proxy-noproxy-desc = ຕົວຢ່າງ: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-autotype =
     .label = URL ການກຳນົດຄ່າພຣັອກຊີອັດຕະໂນມັດ
     .accesskey = A
+
 connection-proxy-reload =
     .label = ໂຫລດໃຫມ່
     .accesskey = e
+
 connection-proxy-autologin =
     .label = ບໍ່ຕ້ອງຖາມສຳລັບການຮັບຮອງຄວາມຖືກຕ້ອງຖ້າລະຫັດຜ່ານຖືກບັນທຶກໄວ້
     .accesskey = i
     .tooltip = ຕົວເລືອກນີ້ຈະຮັບຮອງຄວາມຖືກຕ້ອງຂອງທ່ານໄປທີ່ພຣັອກຊີໂດຍອັດຕະໂນມັດເມື່ອທ່ານໄດ້ບັນທຶກຫນັງສືຮັບຮອງໄວ້. ທ່ານຈະໄດ້ຮັບການແຈ້ງເຕືອນຖ້າການຮັບຮອງຄວາມຖືກຕ້ອງລົ້ມເຫລວ.
+
 connection-proxy-socks-remote-dns =
     .label = DNS ແບບພຣັອກຊີເມື່ອໃຊ້ SOCKS v5
     .accesskey = D
+
 connection-dns-over-https =
     .label = ອະນຸຍາດ DNS ເທິງ HTTPS
     .accesskey = b
+
 connection-dns-over-https-url-custom =
     .label = ປັບແຕ່ງ
     .accesskey = C
     .tooltiptext = ປ້ອນ URL ທີ່ທ່ານມັກສຳລັບການ resolve DNS ຜ່ານທາງ HTTPS
+
