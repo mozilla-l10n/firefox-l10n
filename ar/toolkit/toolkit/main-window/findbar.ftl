@@ -34,6 +34,8 @@ findbar-entire-word =
 findbar-not-found = لا وجود للعبارة
 findbar-wrapped-to-top = تابعت من الأعلى بعدما وصلت إلى نهاية الصفحة
 findbar-wrapped-to-bottom = تابعت من الأسفل بعدما وصلت إلى بداية الصفحة
+findbar-normal-find =
+    .placeholder = ابحث في الصفحة
 findbar-fast-find =
     .placeholder = بحث سريع
 findbar-fast-find-links =
@@ -54,4 +56,16 @@ findbar-found-matches =
             [few] نتيجة { $current } من { $total }
             [many] نتيجة { $current } من { $total }
            *[other] نتيجة { $current } من { $total }
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [zero] أكثر من { $limit } نتيجة
+            [one] أكثر من نتيجة
+            [two] أكثر من نتيجتين
+            [few] أكثر من { $limit } نتائج
+            [many] أكثر من { $limit } نتيجة
+           *[other] أكثر من { $limit } نتيجة
         }
