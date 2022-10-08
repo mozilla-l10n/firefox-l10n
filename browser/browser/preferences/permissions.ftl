@@ -5,40 +5,53 @@
 permissions-window =
     .title = ករណី​លើកលែង
     .style = width: 45em
+
 permissions-window2 =
     .title = ករណី​លើកលែង
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = អាសយដ្ឋាន​គេហទំព័រ
     .accesskey = d
+
 permissions-block =
     .label = ទប់ស្កាត់
     .accesskey = ទ
+
 permissions-session =
     .label = អនុញ្ញាត​សម្រាប់​សម័យ
     .accesskey = ត
+
 permissions-allow =
     .label = អនុញ្ញាត
     .accesskey = ត
+
 permissions-site-name =
     .label = គេហទំព័រ
+
 permissions-status =
     .label = ស្ថានភាព
+
 permissions-remove =
     .label = លុប​គេហទំព័រ
     .accesskey = R
+
 permissions-remove-all =
     .label = លុប​គេហទំព័រ​ទាំងអស់
     .accesskey = e
+
 permissions-searchbox =
     .placeholder = ស្វែងរក​គេហទំព័រ
+
 permissions-capabilities-allow =
     .label = អនុញ្ញាត
 permissions-capabilities-block =
     .label = ទប់ស្កាត់
 permissions-capabilities-prompt =
     .label = សួរ​ជានិច្ច
+
 permissions-capabilities-listitem-allow =
     .value = អនុញ្ញាត
 permissions-capabilities-listitem-block =
@@ -59,6 +72,7 @@ permissions-invalid-uri-label = សូម​បញ្ចូល​ឈ្មោះ
 permissions-exceptions-cookie-window =
     .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
     .style = { permissions-window2.style }
@@ -72,6 +86,7 @@ permissions-exceptions-cookie-desc = អ្នក​អាច​បញ្ជា�
 permissions-exceptions-popup-window =
     .title = វេបសាយដែលអនុញ្ញាត - ការលេចឡើង
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = វេបសាយដែលអនុញ្ញាត - ការលេចឡើង
     .style = { permissions-window2.style }
@@ -82,6 +97,7 @@ permissions-exceptions-popup-desc = អ្នក​អាច​បញ្ជា�
 permissions-exceptions-saved-logins-window =
     .title = ការ​លើកលែង - ការ​ចូល​បាន​រក្សាទុក
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = ការ​លើកលែង - ការ​ចូល​បាន​រក្សាទុក
     .style = { permissions-window2.style }
@@ -92,6 +108,7 @@ permissions-exceptions-saved-logins-desc = ការចូលសម្រាប�
 permissions-exceptions-addons-window =
     .title = តំបន់បណ្ដាញដែលបានអនុញ្ញាត - ការដំឡើងកម្មវិធីបន្ថែម
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = តំបន់បណ្ដាញដែលបានអនុញ្ញាត - ការដំឡើងកម្មវិធីបន្ថែម
     .style = { permissions-window2.style }
@@ -105,6 +122,7 @@ permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជា�
 permissions-site-notification-window =
     .title = ការកំណត់ - ការអនុញ្ញាតការជូនដំណឹង
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = ការកំណត់ - ការអនុញ្ញាតការជូនដំណឹង
     .style = { permissions-window2.style }
@@ -118,6 +136,7 @@ permissions-site-notification-disable-desc = វា​នឹងរារាំ�
 permissions-site-location-window =
     .title = ការកំណត់ - ការអនុញ្ញាតទីតាំង
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = ការកំណត់ - ការអនុញ្ញាតទីតាំង
     .style = { permissions-window2.style }
@@ -134,6 +153,7 @@ permissions-site-location-disable-desc = វា​នឹងរារាំងគ
 permissions-site-camera-window =
     .title = ការកំណត់ - ការអនុញ្ញាតកាមេរ៉ា
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = ការកំណត់ - ការអនុញ្ញាតកាមេរ៉ា
     .style = { permissions-window2.style }
@@ -147,6 +167,7 @@ permissions-site-camera-disable-desc = វា​នឹងរារាំងគ�
 permissions-site-microphone-window =
     .title = ការកំណត់ - ការអនុញ្ញាតមីក្រូហ្វូន
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = ការកំណត់ - ការអនុញ្ញាតមីក្រូហ្វូន
     .style = { permissions-window2.style }

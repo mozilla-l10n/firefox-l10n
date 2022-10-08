@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = កំពុង​ទាញ​យក​វិញ្ញាបនបត្រ
     .style = width: 46em
+
 download-cert-window2 =
     .title = កំពុង​ទាញ​យក​វិញ្ញាបនបត្រ
     .style = min-width: 46em
