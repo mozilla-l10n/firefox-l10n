@@ -30,3 +30,22 @@ findbar-fast-find-links =
     .placeholder = விரைவாக தேடு (இணைப்புகள் மட்டும்)
 findbar-case-sensitive-status =
     .value = (எழுத்துணர்வுடையது)
+findbar-entire-word-status =
+    .value = (முழுச்சொற்கள் மட்டும்)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } of { $total } பொருத்தம்
+           *[other] { $current } of { $total } பொருத்தங்கள்
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] { $limit } க்கும் மேற்பட்ட பொருத்தம்
+           *[other] { " " }{ $limit } க்கும் மேற்பட்ட பொருத்தங்கள்
+        }
