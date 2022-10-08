@@ -5,12 +5,15 @@
 context-text-action-find =
     .label = Pytać
     .accesskey = P
+
 context-text-action-find-again =
     .label = Dale pytać
     .accesskey = l
+
 text-action-find =
     .label = Pytać
     .accesskey = P
+
 text-action-find-again =
     .label = Dale pytać
     .accesskey = l

@@ -5,62 +5,81 @@
 permissions-window =
     .title = Wuwzaća
     .style = width: 45em
+
 permissions-window2 =
     .title = Wuwzaća
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa websydła
     .accesskey = A
+
 permissions-block =
     .label = Blokować
     .accesskey = B
+
 permissions-session =
     .label = Za posedźenje dowolić
     .accesskey = p
+
 permissions-allow =
     .label = Dowolić
     .accesskey = D
+
 permissions-button-off =
     .label = Znjemóžnić
     .accesskey = n
+
 permissions-button-off-temporarily =
     .label = Nachwilu znjemóžnić
     .accesskey = c
+
 permissions-site-name =
     .label = Websydło
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Websydło wotstronić
     .accesskey = t
+
 permissions-remove-all =
     .label = Wšě websydła wotstronić
     .accesskey = y
+
 permission-dialog =
     .buttonlabelaccept = Změny składować
     .buttonaccesskeyaccept = s
+
 permissions-autoplay-menu = Standard za wšě websydła:
+
 permissions-searchbox =
     .placeholder = Websydło pytać
+
 permissions-capabilities-autoplay-allow =
     .label = Awdio a widejo dowolić
 permissions-capabilities-autoplay-block =
     .label = Awdio blokować
 permissions-capabilities-autoplay-blockall =
     .label = Awdio a widejo blokować
+
 permissions-capabilities-allow =
     .label = Dowolić
 permissions-capabilities-block =
     .label = Blokować
 permissions-capabilities-prompt =
     .label = Přeco so prašeć
+
 permissions-capabilities-listitem-allow =
     .value = Dowolić
 permissions-capabilities-listitem-block =
     .value = Blokować
 permissions-capabilities-listitem-allow-session =
     .value = Za posedźenje dowolić
+
 permissions-capabilities-listitem-off =
     .value = Znjemóžnjeny
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Prošu zapodajće płaćiwe mjeno hosta
 permissions-exceptions-etp-window =
     .title = Wuwzaća za polěpšeny slědowanski škit
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Wuwzaća za polěpšeny slědowanski škit
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Sće škit na tutych websydłach znjemóžnił
 permissions-exceptions-cookie-window =
     .title = Wuwzaća - placki a sydłowe daty
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Wuwzaća - placki a sydłowe daty
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = Móžeće podać, kotre websydła smědźa 
 permissions-exceptions-https-only-window =
     .title = Wuwzaća - Modus Jenož-HTTPS
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Wuwzaća - Modus Jenož-HTTPS
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = Móžeće modus Jenož-HTTPS za wěste 
 permissions-exceptions-popup-window =
     .title = Dowolene sydła - wuskakowace wokna
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Dowolene sydła - wuskakowace wokna
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = Móžeće podać, kotre websydła smědźa w
 permissions-exceptions-saved-logins-window =
     .title = Wuwzaća - składowane přizjewjenja
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Wuwzaća - składowane přizjewjenja
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Přizjewjenja za slědowace sydła nj
 permissions-exceptions-addons-window =
     .title = Dowolene sydła - Instalacija přidatkow
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Dowolene sydła - Instalacija přidatkow
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = Móžeće podać, kotre websydła smědźa 
 permissions-site-autoplay-window =
     .title = Nastajenja - awtomatiske wothraće
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Nastajenja - awtomatiske wothraće
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = Móžeće sydła rjadować, kotrež nimaja so t
 permissions-site-notification-window =
     .title = Nastajenja - zdźělenske prawa
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Nastajenja - zdźělenske prawa
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = To budźe websydła, kotrež horjek
 permissions-site-location-window =
     .title = Nastajenja - prawa stejnišća
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Nastajenja - prawa stejnišća
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = To budźe websydła, kotrež horjeka w 
 permissions-site-xr-window =
     .title = Nastajenja - prawa za wirtualnu realitu
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Nastajenja - prawa za wirtualnu realitu
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = To budźe websydła, kotrež horjeka w lisći
 permissions-site-camera-window =
     .title = Nastajenja - prawa kamery
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Nastajenja - prawa kamery
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = To budźe websydła, kotrež horjeka w li
 permissions-site-microphone-window =
     .title = Nastajenja - prawa mikrofona
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Nastajenja - prawa mikrofona
     .style = { permissions-window2.style }

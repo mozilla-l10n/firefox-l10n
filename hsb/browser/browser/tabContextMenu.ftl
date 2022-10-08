@@ -112,6 +112,7 @@ tab-context-move-tabs =
            *[other] { $tabCount } rajtarkow přesunyć
         }
     .accesskey = s
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

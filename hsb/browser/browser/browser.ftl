@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Priwatny modus)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Priwatny modus)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Priwatny modus)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Priwatny modus)
+
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -52,6 +54,7 @@ browser-main-window-window-titles =
     .data-title-private = Priwatny modus { -brand-full-name }
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = Priwatny modus { $content-title } – { -brand-full-name }
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -71,12 +74,15 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } – priwatny modus
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – priwatny modus
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 private-browsing-shortcut-text = Priwatny modus { -brand-short-name }
+
 private-browsing-shortcut-text-2 = Priwatny modus { -brand-shortcut-name }
 
 ##
@@ -148,6 +154,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Pisajće mjenje, namakajće wjace: Pytajće z { $engineName } direktnje ze swojeho adresoweho pola.
 urlbar-search-tips-redirect-2 = Započńće swoje pytanje w adresowym polu, zo byšće namjety wot { $engineName } a ze swojeje přehladowanskeje historije widźał.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Wubjerće tute zwjazanje, zo byšće spěšnišo namakał, štož trjebaće.
@@ -157,6 +164,7 @@ urlbar-tabtosearch-onboard = Wubjerće tute zwjazanje, zo byšće spěšnišo na
 urlbar-search-mode-bookmarks = Zapołožki
 urlbar-search-mode-tabs = Rajtarki
 urlbar-search-mode-history = Historija
+
 urlbar-search-mode-actions = Akcije
 
 ##
@@ -185,10 +193,12 @@ urlbar-midi-blocked =
     .tooltiptext = Sće přistup k MIDI za tute websydło zablokował.
 urlbar-install-blocked =
     .tooltiptext = Sće instalowanje přidatkow za tute websydło zablokował.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tutu zapołožku ({ $shortcut }) wobdźěłać
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -200,6 +210,7 @@ page-action-manage-extension =
     .label = Rozšěrjenje rjadować…
 page-action-remove-extension =
     .label = Rozšěrjenje wotstronić
+
 page-action-manage-extension2 =
     .label = Rozšěrjenje rjadować…
     .accesskey = R
@@ -221,8 +232,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Nětko pytać z:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Pytanske nastajenja změnić
+
 search-one-offs-context-open-new-tab =
     .label = W nowym rajtarku pytać
     .accesskey = r
@@ -232,12 +245,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Jako standardnu pytawu za priwatne wokna nastajić
     .accesskey = J
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -264,6 +279,7 @@ search-one-offs-tabs =
     .tooltiptext = Rajtarki ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historija ({ $restrict })
+
 search-one-offs-actions =
     .tooltiptext = Akcije ({ $restrict })
 
@@ -274,55 +290,73 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Přidatki pokazać
 quickactions-cmd-addons = přidatki, rozšěrjenja, drasty
+
 quickactions-cmd-addons2 = přidatki
+
 # Opens the bookmarks library window
 quickactions-bookmarks = Zapołožki pokazać
 quickactions-cmd-bookmarks = zapołožki
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Historiju zhašeć
 quickactions-cmd-clearhistory = historiju zhašeć
+
 # Opens about:downloads page
 quickactions-downloads = Sćehnjenja wočinić
 quickactions-cmd-downloads = sćehnjenja
+
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rozšěrjenja rjadować
 quickactions-cmd-extensions = rozšěrjenja
+
 # Opens the devtools web inspector
 quickactions-inspector = Inspektor wočinić
 quickactions-cmd-inspector = inspektor, wuwiwarske nastroje
+
 # Opens about:logins
 quickactions-logins = Přizjewjenja pokazać
 quickactions-cmd-logins = přizjewjenja, hesła
+
 # Opens about:addons page in the plugins section
 quickactions-plugins = Tykače rjadować
 quickactions-cmd-plugins = tykače
+
 # Opens the print dialog
 quickactions-print = Ćišćeć
 quickactions-cmd-print = ćišćeć
+
 # Opens a new private browsing window
 quickactions-private = Priwatne wokno wočinić
 quickactions-cmd-private = priwatny modus
+
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } wobnowić
 quickactions-cmd-refresh = aktualizować
+
 # Restarts the browser
 quickactions-restart = { -brand-short-name } znowa startować
 quickactions-cmd-restart = znowa startować
+
 # Opens the screenshot tool
 quickactions-screenshot2 = Foto wobrazowki činić
 quickactions-cmd-screenshot = foto wobrazowki
+
 # Opens about:preferences
 quickactions-settings = Nastajenja wočinić
 quickactions-cmd-settings = nastajenja
+
 # Opens about:addons page in the themes section
 quickactions-themes = Drasty rjadować
 quickactions-cmd-themes = drasty
+
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualizować
 quickactions-cmd-update = aktualizować
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Žórłowy kod pokazać
 quickactions-cmd-viewsource = žórło pokazać, žórło
+
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Zhońće wjace wo spěšnych akcijach
@@ -350,6 +384,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = E
 bookmark-panel-save-button =
     .label = Składować
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -377,6 +412,7 @@ identity-passive-loaded = Dźěle tuteje strony wěste njejsu (na přikład wobr
 identity-active-loaded = Sće škit na tutej stronje znjemóžnił.
 identity-weak-encryption = Tuta strona słabe zaklučowanje wužiwa.
 identity-insecure-login-forms = Přizjewjenja, kotrež so na tutej stronje zapodawaja, móhli wohrožene być.
+
 identity-https-only-connection-upgraded = (na HTTPS zaktualizowany)
 identity-https-only-label = Modus Jenož-HTTPS
 identity-https-only-dropdown-on =
@@ -388,9 +424,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Zmóžńće modus Jenož-HTTPS, jeli chceće, zo { -brand-short-name } zwisk aktualizuje, jeli móžno.
 identity-https-only-info-turn-off2 = Jeli so zda, zo strona je wobškodźena, chceće snano  modus Jenož-HTTPS za tute sydło znjemóžnić. zo byšće zaso njewěsty HTTP wužiwał.
 identity-https-only-info-no-upgrade = Zwisk njeda so z HTTP aktualizować.
+
 identity-permissions-storage-access-header = Sydła přesahowace placki
 identity-permissions-storage-access-hint = Tući wobdźěleni móža sydła přesahowace placki a sydłowe daty wužiwać, mjeztym zo sće na tutym sydle.
 identity-permissions-storage-access-learn-more = Dalše informacije
+
 identity-permissions-reload-hint = Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.
 identity-clear-site-data =
     .label = Placki a sydłowe daty zhašeć…
@@ -456,6 +494,7 @@ browser-tab-mute =
         [few] { $count } RAJTARKI ZNĚMIĆ
        *[other] { $count } RAJTARKOW ZNĚMIĆ
     }
+
 browser-tab-unmute =
     { $count ->
         [1] ZNĚMJENJE RAJTARKA ZBĚHNYĆ
@@ -464,6 +503,7 @@ browser-tab-unmute =
         [few] ZNĚMJENJE { $count } RAJTARKOW ZBĚHNYĆ
        *[other] ZNĚMJENJE { $count } RAJTARKOW ZBĚHNYĆ
     }
+
 browser-tab-unblock =
     { $count ->
         [1] RAJTARK WOTHRAĆ
@@ -478,6 +518,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Zapołožki importować…
     .tooltiptext = Zapołožki z druheho wobhladowaka do { -brand-short-name } importować.
+
 bookmarks-toolbar-empty-message = Wotkładźće swoje zapołožki w symbolowej lajsće za spěšny přistup. <a data-l10n-name="manage-bookmarks">Zapołožki rjadować…</a>
 
 ## WebRTC Pop-up notifications
@@ -495,12 +536,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Awdiowudawanske nastroje
 popup-all-windows-shared = Wšě widźomne wokna na wašej wobrazowce budu so dźělić.
+
 popup-screen-sharing-block =
     .label = Blokować
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = Přeco blokować
     .accesskey = P
+
 popup-mute-notifications-checkbox = Zdźělenki websydła při dźělenju zněmić
 
 ## WebRTC window or screen share tab switch warning
@@ -522,6 +566,7 @@ enable-devtools-popup-description = Zo byšće tastu F12 wužiwał, wočińće n
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Pytać abo adresu zapodać
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -530,6 +575,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Web přepytać
     .aria-label = Z { $name } pytać
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -538,26 +584,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Pytanske wurazy zapodać
     .aria-label = Z { $name } pytać
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Pytanske wurazy zapodać
     .aria-label = Zapołožki přepytać
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Pytanske wurazy zapodać
     .aria-label = Historiju přepytać
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Pytanske wurazy zapodać
     .aria-label = Rajtarki přepytać
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Pytanske wurazy zapodać
     .aria-label = Pytanske akcije
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Pytajće z { $name } abo zapodajće adresu
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -567,9 +619,11 @@ urlbar-permissions-granted =
     .tooltiptext = Sće tutomu websydłu přidatne prawa dał.
 urlbar-switch-to-tab =
     .value = K rajtarkej přeńć:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozšěrjenje:
+
 urlbar-go-button =
     .tooltiptext = K adresy w adresowym polu
 urlbar-page-action-button =
@@ -629,6 +683,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Zapołožki přepytać
 urlbar-result-action-search-history = Historiju přepytać
 urlbar-result-action-search-tabs = Rajtarki přepytać
+
 urlbar-result-action-search-actions = W akcijach pytać
 
 ## Labels shown above groups of urlbar results
@@ -637,12 +692,14 @@ urlbar-result-action-search-actions = W akcijach pytać
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Namjety pytawy { $engine }
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Spěšne akcije
@@ -654,9 +711,12 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> je nětko połna wobrazowka
 fullscreen-warning-no-domain = Tutón dokument je nětko połna wobrazowka
+
+
 fullscreen-exit-button = Połnu wobrazowku skónčić (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Połnu wobrazowku (esc) skónčić
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -666,6 +726,7 @@ pointerlock-warning-no-domain = Tutón dokument ma kontrolu nad wašim pokazowak
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dźěl tuteje strony je spadnył.</strong> Zo byšće { -brand-product-name } wo tutym problemje informował a jón spěšnišo rozrisował, pósćelće prošu spadowu rozprawu.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -721,8 +782,10 @@ bookmarks-tools =
     .label = Nastroje za zapołožki
 bookmarks-bookmark-edit-panel =
     .label = Tutu zapołožku wobdźěłać
+
 bookmarks-subview-edit-bookmark =
     .label = Tutu zapołožku wobdźěłać …
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -736,9 +799,11 @@ bookmarks-toolbar-placeholder =
     .title = Zapiski lajsty zapołožkow
 bookmarks-toolbar-placeholder-button =
     .label = Zapiski lajsty zapołožkow
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Aktualny rajtark jako zapołožku składować
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Aktualny rajtark jako zapołožku składować …
@@ -769,6 +834,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Přidatki a drasty
     .tooltiptext = Rjadujće swoje přidatki a drasty ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -778,25 +844,31 @@ toolbar-settings-button =
             [macos] Nastajenja wočinić ({ $shortcut })
            *[other] Nastajenja wočinić
         }
+
 toolbar-overflow-customize-button =
     .label = Symbolowu lajstu přiměrić…
     .accesskey = S
+
 toolbar-button-email-link =
     .label = Wotkaz e-mejlować
     .tooltiptext = Wotkaz k tutej stronje e-mejlować
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Stronu składować
     .tooltiptext = Tutu stronu składować ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Dataju wočinić
     .tooltiptext = Dataju wočinić ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Synchronizowane rajtarki
     .tooltiptext = Rajtarki z druhich gratow pokazać
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -837,6 +909,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Wuskakowace wokna za { $uriHost } dowolić
     .accesskey = u
+
 popups-infobar-block =
     .label = Wuskakowace wokna za { $uriHost } blokować
     .accesskey = u
@@ -846,9 +919,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Tutu powěsć njepokazać, hdyž wuskakowace wokna so blokuja
     .accesskey = n
+
 edit-popup-settings =
     .label = Nastajenja wuskakowacych woknow rjadować…
     .accesskey = N
+
 picture-in-picture-hide-toggle =
     .label = Přepinanje wobraz-we-wobrazu schować
     .accesskey = P
@@ -859,6 +934,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Suwak wobraz we wobrazu naprawo přesunyć
     .accesskey = p
+
 picture-in-picture-move-toggle-left =
     .label = Suwak wobraz we wobrazu nalěwo přesunyć
     .accesskey = l
@@ -873,32 +949,42 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Nawigacija
+
 navbar-downloads =
     .label = Sćehnjenja
+
 navbar-overflow =
     .tooltiptext = Dalše nastroje…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Ćišćeć
     .tooltiptext = Tutu stronu ćišćeć... ({ $shortcut })
+
 navbar-home =
     .label = Startowa strona
     .tooltiptext = Startowa strona { -brand-short-name }
+
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Historiju, składowane zapołožki a wjace pokazać
+
 navbar-search =
     .title = Pytać
+
 navbar-accessibility-indicator =
     .tooltiptext = Funkcije bjezbarjernošće zmóžnjene
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Rajtarki wobhladowaka
+
 tabs-toolbar-new-tab =
     .label = Nowy rajtark
+
 tabs-toolbar-list-all-tabs =
     .label = Wšě rajtarki nalistować
     .tooltiptext = Wšě rajtarki nalistować
@@ -915,6 +1001,7 @@ data-reporting-notification-message = { -brand-short-name } do { -vendor-short-n
 data-reporting-notification-button =
     .label = Wubrać, štož so dźěli
     .accesskey = u
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Priwatny modus
 

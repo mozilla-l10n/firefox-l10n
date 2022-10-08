@@ -14,6 +14,7 @@
 
 <!ENTITY productHelp.label "Pomoc &brandShortName;">
 <!ENTITY productHelp.accesskey "P">
+
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">
