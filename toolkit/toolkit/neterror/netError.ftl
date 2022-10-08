@@ -9,6 +9,7 @@ neterror-page-title = Problem loading page
 certerror-page-title = Warning: Potential Security Risk Ahead
 certerror-sts-page-title = Did Not Connect: Potential Security Issue
 neterror-blocked-by-policy-page-title = Blocked Page
+neterror-captive-portal-page-title = Log in to network
 neterror-dns-not-found-title = Server Not Found
 neterror-malformed-uri-page-title = Invalid URL
 
@@ -32,6 +33,10 @@ neterror-error-reporting-automatic = Report errors like this to help { -vendor-s
 
 ## Specific error messages
 
+neterror-generic-error = { -brand-short-name } can’t load this page for some reason.
+neterror-load-error-try-again = The site could be temporarily unavailable or too busy. Try again in a few moments.
+neterror-load-error-connection = If you are unable to load any pages, check your computer’s network connection.
+neterror-load-error-firewall = If your computer or network is protected by a firewall or proxy, make sure that { -brand-short-name } is permitted to access the Web.
 neterror-captive-portal = You must log in to this network before you can access the Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -40,11 +45,16 @@ neterror-dns-not-found-hint-header = <strong>If you entered the right address, y
 neterror-dns-not-found-hint-try-again = Try again later
 neterror-dns-not-found-hint-check-network = Check your network connection
 neterror-dns-not-found-hint-firewall = Check that { -brand-short-name } has permission to access the web (you might be connected but behind a firewall)
+neterror-file-not-found-filename = Check the file name for capitalisation or other typing errors.
+neterror-file-not-found-moved = Check to see if the file was moved, renamed or deleted.
 neterror-access-denied = It may have been removed, moved, or file permissions may be preventing access.
 neterror-unknown-protocol = You might need to install other software to open this address.
 neterror-redirect-loop = This problem can sometimes be caused by disabling or refusing to accept cookies.
 neterror-unknown-socket-type-psm-installed = Check to make sure your system has the Personal Security Manager installed.
 neterror-unknown-socket-type-server-config = This might be due to a non-standard configuration on the server.
+neterror-not-cached-intro = The requested document is not available in { -brand-short-name }’s cache.
+neterror-not-cached-sensitive = As a security precaution, { -brand-short-name } does not automatically re-request sensitive documents.
+neterror-not-cached-try-again = Click Try Again to re-request the document from the web site.
 neterror-net-offline = Press “Try Again” to switch to online mode and reload the page.
 neterror-proxy-resolve-failure-settings = Check the proxy settings to make sure that they are correct.
 neterror-proxy-resolve-failure-connection = Check to make sure your computer has a working network connection.
