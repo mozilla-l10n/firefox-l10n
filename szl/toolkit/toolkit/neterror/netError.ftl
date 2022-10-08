@@ -33,6 +33,9 @@ neterror-error-reporting-automatic = Dej znać ô takich felerach, coby pōmōc 
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } niy poradzi zaladować tyj strony.
+neterror-load-error-try-again = Strōna może być czasowo niydostympno abo za fest zajynto. Sprōbuj zaś za pora chwil.
+neterror-load-error-connection = Jak niy idzie zaladować żodnych strōn, badnij na połōnczynie tego kōmputra z necym.
+neterror-load-error-firewall = Jak tyn kōmputer abo nec je chrōniōny  bez firewall abo proxy, badnij jeźli { -brand-short-name } mo zgoda na dostymp do internetu.
 neterror-captive-portal = Trza połōnczynio z tym necym, podwiela pudzie mieć dostymp do internetu.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
