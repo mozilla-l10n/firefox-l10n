@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Búsqueda rápida (solamente enlaces)
 findbar-case-sensitive-status =
     .value = (Coincidir mayúsculas)
+findbar-match-diacritics-status =
+    .value = (Coincidir diacríticos)
 findbar-entire-word-status =
     .value = (Solamente palabras completas)
 # Variables:
