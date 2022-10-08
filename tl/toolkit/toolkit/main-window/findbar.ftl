@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Hanapin ang susunod na pangyayari ng parirala
 findbar-previous =
     .tooltiptext = Hanapin ang nakaraang pangyayari ng parirala
-
 findbar-find-button-close =
     .tooltiptext = Isara ang bar ng paghahanap
-
 findbar-highlight-all2 =
     .label = I-highlight lahat
     .accesskey =
@@ -21,18 +19,29 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = I-highlight lahat kung saan matatagpuan ang parirala
-
 findbar-case-sensitive =
     .label = Itugma ang Case
     .accesskey = c
     .tooltiptext = Maghanap na may case sensitivity
-
 findbar-match-diacritics =
     .label = Itugma ang mga Tuldik
     .accesskey = i
     .tooltiptext = Kilalanin ang pagkakaiba sa pagitan ng mga titik na may tuldik at wala (halimbawa, kapag naghahanap ng “basa”, hindi tutugma ang “basâ”)
-
 findbar-entire-word =
     .label = Buong Salita
     .accesskey = w
     .tooltiptext = Maghanap lamang ng mga buong salita
+findbar-not-found = Hindi makikita ang kasabihan
+findbar-wrapped-to-top = Dulo na ng pahina, pagpapatuloy mula sa itaas
+findbar-wrapped-to-bottom = Naabot ang taas ng pahina, ipinagpatuloy mula sa baba
+findbar-case-sensitive-status =
+    .value = (Case sensitive)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } of { $total } ang tugma
+           *[other] { $current } of { $total } ang tugma
+        }
