@@ -36,6 +36,8 @@ findbar-fast-find =
     .placeholder = חיפוש מהיר
 findbar-fast-find-links =
     .placeholder = חיפוש מהיר (קישורים בלבד)
+findbar-case-sensitive-status =
+    .value = (תלוי רישיות)
 findbar-entire-word-status =
     .value = (מילים שלמות בלבד)
 # Variables:
