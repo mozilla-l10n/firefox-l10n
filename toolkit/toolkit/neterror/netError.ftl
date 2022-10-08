@@ -53,6 +53,12 @@ neterror-unsafe-content-type = Contacte a los dueños del sitio web para informa
 certerror-intro = { -brand-short-name } detectó una potencial amenaza de seguridad y no continuó a <b>{ $hostname }</b>. Si visita este sitio, los atacantes podrían intentar robar su información tal como sus contraseñas, correo electrónico o datos de su tarjeta de crédito.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } detectó una amenaza de seguridad potencial y no continuó a <b>{ $hostname }</b> porque este sitio web requiere una conexión segura.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } detectó un problema y no continuó a <b>{ $hostname }</b>. El sitio web está mal configurado o el reloj de su computadora está configurado en una hora incorrecta.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> es probablemente un sitio seguro, pero no se pudo establecer una conexión segura. Este problema se debe a <b>{ $mitm }</b>, que es un software en su computadora o su red.
 neterror-corrupted-content-intro = La página que está tratando de ver no puede mostrarse porque se detectó un error en la transmisión de los datos.
@@ -71,6 +77,7 @@ neterror-clock-skew-error = Su computadora cree que hoy es { DATETIME($now, date
 neterror-network-protocol-error-intro = La página que está intentando ver no se puede mostrar porque se detectó un error en el protocolo de red.
 neterror-network-protocol-error-contact-website = Póngase en contacto con los propietarios del sitio web para informarles de este problema.
 certerror-expired-cert-second-para = Es probable que el certificado del sitio web haya caducado, lo que impide que { -brand-short-name } se conecte de forma segura. Si visita este sitio, los atacantes podrían intentar robar información como sus contraseñas, correos electrónicos o detalles de tarjetas de crédito.
+certerror-expired-cert-sts-second-para = Es probable que el certificado del sitio web haya caducado, lo que impide que { -brand-short-name } se conecte de forma segura.
 certerror-what-can-you-do-about-it-title = ¿Qué puede hacer al respecto?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Es probable que haya un problema con el sitio web y no hay nada que pueda hacer al respecto.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si está usando una red corporativa o un software antivirus, puede contactarse con el equipo de asistencia técnica. También puede notificarle al administrador del sitio sobre el problema.
