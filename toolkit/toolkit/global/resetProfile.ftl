@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Empieza renovado para solucionar problemas 
 refresh-profile = Darle a { -brand-short-name } una manito de gato
 refresh-profile-button = Refrescar { -brand-short-name }…
 refresh-profile-learn-more = Aprender más
+
 refresh-profile-progress =
     .title = Refrescar { -brand-short-name }
 refresh-profile-progress-description = Casi listo…
