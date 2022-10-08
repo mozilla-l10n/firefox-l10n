@@ -18,3 +18,7 @@ config-new-pref-create-button = შექმნა
 config-new-pref-change-button = შეცვლა
 config-pref-toggle-button = ჩამრთველი
 config-pref-reset-button = ჩამოყრა
+config-context-menu-copy-pref-name =
+    .label = სახელის ასლი
+config-context-menu-copy-pref-value =
+    .label = მნიშვნელობის ასლი
