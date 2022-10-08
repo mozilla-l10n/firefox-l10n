@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Rincian Aplikasi
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Rincian Aplikasi
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Sampôh
     .accesskey = S
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Aplikasi di yup nyoe jeuet geungui keu neuatô peunawot { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Aplikasi di yup nyoe jeuet neungui keu neuatô asoe { $type }.

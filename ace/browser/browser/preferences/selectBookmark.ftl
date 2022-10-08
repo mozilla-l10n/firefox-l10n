@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = Seutè Ônkeuë
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Seutè Ônkeuë
     .style = min-width: 32em;
+
 select-bookmark-desc = Piléh sabôh bookmark keu ôn keu droen. Meunyô neu piléh sabôh folder, bookmark nyan na lam folder nyan jibuka laju bak Tab Tab.

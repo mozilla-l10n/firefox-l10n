@@ -5,11 +5,14 @@
 containers-window-new =
     .title = Tamah Kontèner Barô
     .style = width: 45em
+
 containers-window-new2 =
     .title = Tamah Kontèner Barô
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -20,17 +23,22 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nan
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Peutamong nan kontèner
+
 containers-icon-label = Ikon
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Wareuna
     .accesskey = W
     .style = { -containers-labels-style }
+
 containers-color-blue =
     .label = Beulawu
 containers-color-turquoise =
@@ -47,6 +55,7 @@ containers-color-pink =
     .label = Mirah Jambèe
 containers-color-purple =
     .label = Gadông
+
 containers-icon-fingerprint =
     .label = Cap jaroë
 containers-icon-briefcase =

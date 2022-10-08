@@ -5,34 +5,46 @@
 permissions-window =
     .title = Keucuwali
     .style = width: 45em
+
 permissions-window2 =
     .title = Keucuwali
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Alamat situihwèb
     .accesskey = l
+
 permissions-block =
     .label = Tham
     .accesskey = T
+
 permissions-session =
     .label = Peuidin keu Sési
     .accesskey = S
+
 permissions-allow =
     .label = Peuidin
     .accesskey = P
+
 permissions-site-name =
     .label = Situihwèb
+
 permissions-status =
     .label = Statuih
+
 permissions-remove =
     .label = Sampôh Situihwèb
     .accesskey = S
+
 permissions-remove-all =
     .label = Sampôh Ban Mandum Situihwèb
     .accesskey = a
+
 permissions-searchbox =
     .placeholder = Mita Situihwèb
+
 permissions-capabilities-allow =
     .label = Peuidin
 permissions-capabilities-block =
@@ -53,6 +65,7 @@ permissions-invalid-uri-label = Neutulông pasoë nanhost (hostname) nyang beut�
 permissions-exceptions-cookie-window =
     .title = Keucuwali - Kukis ngön Data Situih
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Keucuwali - Kukis ngön Data Situih
     .style = { permissions-window2.style }
@@ -66,6 +79,7 @@ permissions-exceptions-cookie-desc = Droëneuh jeuët neupeuteuntèë situihwèb
 permissions-exceptions-popup-window =
     .title = Peuidin Situihwèb - Pop-up
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Peuidin Situihwèb - Pop-up
     .style = { permissions-window2.style }
@@ -76,6 +90,7 @@ permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situih
 permissions-exceptions-saved-logins-window =
     .title = Keucuwali - Keubah Tamèng Log
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Keucuwali - Keubah Tamèng Log
     .style = { permissions-window2.style }
@@ -86,6 +101,7 @@ permissions-exceptions-saved-logins-desc = Tamèng log lam situihwèb dimiyub ny
 permissions-exceptions-addons-window =
     .title = Peuidin Situihwèb - Pasang Add-on
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Peuidin Situihwèb - Pasang Add-on
     .style = { permissions-window2.style }
@@ -99,6 +115,7 @@ permissions-exceptions-addons-desc = Droëneuh jeuët neupeuteuntèë toh situih
 permissions-site-notification-window =
     .title = Peuatô - Peuidin Notifikasi
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Peuatô - Peuidin Notifikasi
     .style = { permissions-window2.style }
@@ -112,6 +129,7 @@ permissions-site-notification-disable-desc = Nyoe keu peutheun laman web laen ny
 permissions-site-location-window =
     .title = Peuatô - laké idin lokasi
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Peuatô - laké idin lokasi
     .style = { permissions-window2.style }
@@ -128,6 +146,7 @@ permissions-site-location-disable-desc = Nyôe keu peutheun situs web laén nyan
 permissions-site-camera-window =
     .title = Peuatô - laké idin kamera
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Peuatô - laké idin kamera
     .style = { permissions-window2.style }
@@ -141,6 +160,7 @@ permissions-site-camera-disable-desc = Nyoe keu peutheun situs web laén nyang h
 permissions-site-microphone-window =
     .title = Peuatô - lakéi idin ngui mic
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Peuatô - lakéi idin ngui mic
     .style = { permissions-window2.style }
