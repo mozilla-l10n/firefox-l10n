@@ -9,16 +9,17 @@ findbar-next =
     .tooltiptext = இந்த சொற்றொடரின் அடுத்த நிகழ்வை தேடு
 findbar-previous =
     .tooltiptext = இந்த சொற்றொடரின் முந்தைய நிகழ்வை தேடு
-
 findbar-find-button-close =
     .tooltiptext = தேடு பட்டியை மூடு
-
 findbar-case-sensitive =
     .label = வழக்கு பொருத்தும்
     .accesskey = c
     .tooltiptext = உணர்திறன் வழக்கத்துடன் தேடு
-
 findbar-entire-word =
     .label = முழுச்சொற்கள்
     .accesskey = W
     .tooltiptext = முழுச்சொற்களை மட்டும் தேடு
+findbar-wrapped-to-top = பக்கத்திற்கு கீழே சென்றுள்ளது, மேலிருந்து தொடர்ந்தது
+findbar-wrapped-to-bottom = பக்கத்திற்கு மேல் சென்றுள்ளது, கீழிருந்து தொடர்ந்தது
+findbar-case-sensitive-status =
+    .value = (எழுத்துணர்வுடையது)
