@@ -9,6 +9,7 @@ neterror-page-title = પાનું લાવવામાં સમસ્ય�
 neterror-blocked-by-policy-page-title = અવરોધિત પૃષ્ઠ
 neterror-captive-portal-page-title = નેટવર્કમાં પ્રવેશ કરો
 neterror-dns-not-found-title = સર્વર મળતું નથી
+neterror-malformed-uri-page-title = અયોગ્ય URL
 
 ## Error page actions
 
