@@ -32,5 +32,26 @@ findbar-entire-word =
     .accesskey = e
     .tooltiptext = Alleen hele woorden zoeken
 findbar-not-found = Tekst niet gevonden
+findbar-fast-find =
+    .placeholder = Snel zoeken
+findbar-fast-find-links =
+    .placeholder = Snel zoeken (alleen koppelingen)
 findbar-case-sensitive-status =
     .value = (Hoofdlettergevoelig)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } van { $total } overeenkomst
+           *[other] { $current } van { $total } overeenkomsten
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Meer dan { $limit } overeenkomst
+           *[other] Meer dan { $limit } overeenkomsten
+        }
