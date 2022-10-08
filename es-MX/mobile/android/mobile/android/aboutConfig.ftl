@@ -16,6 +16,7 @@ config-new-pref-number =
 config-new-pref-cancel-button = Cancelar
 config-new-pref-create-button = Crear
 config-new-pref-change-button = Cambiar
+config-pref-toggle-button = Alternar
 config-pref-reset-button = Restablecer
 config-context-menu-copy-pref-name =
     .label = Copiar nombre
