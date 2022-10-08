@@ -9,6 +9,7 @@ neterror-page-title = Probleem bij het laden van de pagina
 
 ## Error page actions
 
+neterror-learn-more-link = Meer info…
 neterror-try-again-button = Opnieuw proberen
 
 ##
@@ -18,5 +19,6 @@ neterror-try-again-button = Opnieuw proberen
 
 neterror-file-not-found-filename = Controleer de bestandsnaam op grote/kleine letters of andere typefouten.
 neterror-file-not-found-moved = Controleer of het bestand is verplaatst, hernoemd of verwijderd.
+neterror-unknown-protocol = Misschien moet u andere software installeren om dit adres te openen.
 neterror-proxy-connect-failure-settings = Controleer of uw proxyinstellingen juist zijn.
 neterror-proxy-connect-failure-contact-admin = Neem contact op met uw netwerkbeheerder om te controleren of de proxyserver werkt.
