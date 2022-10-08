@@ -9,7 +9,10 @@ findbar-next =
     .tooltiptext = Fumana ketsahalo e latelang polelwaneng
 findbar-previous =
     .tooltiptext = Fumana boteng ba polelwana nakong e fetileng
-
 findbar-find-button-close =
     .tooltiptext = Kwala mola wa Fumana
-
+findbar-not-found = Polelwana ha e fumanehe
+findbar-wrapped-to-top = E fihlile pheletsong ya leqephe, e tswella hodimo
+findbar-wrapped-to-bottom = E fihlile hodimo ho leqephe, e tswella tlase
+findbar-case-sensitive-status =
+    .value = (Case sensitive)
