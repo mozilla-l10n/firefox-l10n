@@ -17,6 +17,8 @@
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = එක් කෙරිණි:
+
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = ඉවත් කෙරිණි:
+

@@ -9,3 +9,4 @@
 text-recognition-modal-searching-title = පෙළ සඳහා රූපය සොයමින්…
 text-recognition-modal-results-title = රූපයෙන් පෙළ පිටපත් විය
 text-recognition-modal-close-button = වසන්න
+

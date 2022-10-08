@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = සැකසීම් කළමනාකරු
+
 # The Actions column
 about-processes-column-action =
     .title = ක්‍රියාමාර්ග
@@ -35,6 +36,7 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = දත්ත විකේතකය ({ $pid })
 about-processes-socket-process = ජාලය ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -59,6 +61,7 @@ about-processes-tab-name = පටිත්ත: { $name }
 
 about-processes-utility-actor-unknown = නොදන්නා දෝෂයකි
 about-processes-utility-actor-audio-decoder = ශ්‍රව්‍ය විකේතනය
+
 about-processes-utility-actor-audio-decoder-applemedia = ඇපල් මාධ්‍ය හඬ විකේතකය
 
 ## Displaying CPU (percentage and total)
@@ -73,8 +76,10 @@ about-processes-utility-actor-audio-decoder-applemedia = ඇපල් මාධ�
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = මුළු ම.සැ.ඒ. කාලය: { $unit } { NUMBER($total, maximumFractionDigits: 0) }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (මැනීම)
+
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%

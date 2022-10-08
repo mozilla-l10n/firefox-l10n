@@ -4,6 +4,7 @@
 
 page-title = දොස් සෙවීමේ තොරතුරු
 page-subtitle = ඔබ ගැටළුවක් විසඳීමට උත්සාහ කරමින් සිටින විට ප්‍රයෝජනවත් විය හැකි තාක්‍ෂණික තොරතුරු මෙම පිටුවෙහි අඩංගු වේ. { -brand-short-name } ගැන සරල ප්‍රශ්නවලට පිළිතුරු සොයන්නේ නම්, අපගේ <a data-l10n-name="support-link">සහාය අඩවිය</a> බලන්න.
+
 crashes-title = බිඳ වැටීමේ වාර්තා
 crashes-id = වාර්තාවේ හැඳු.
 crashes-send-date = යොමුකළ
@@ -62,10 +63,12 @@ app-basics-key-mozilla = මොසිල්ලා ස්ථාන සේවා �
 app-basics-safe-mode = ආරක්‍ෂිත ප්‍රකාරය
 app-basics-memory-size = මතක ප්‍රමාණය (RAM)
 app-basics-disk-available = තැටියේ ඉඩ තිබේ
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $unit } { $value }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] සෙවීමෙහි පෙන්වන්න
@@ -148,6 +151,7 @@ report-crash-for-days =
         [one] පසුගිය දවස් { $days } සඳහා බිඳ වැටීම් වාර්තා
        *[other] පසුගිය දවස් { $days } සඳහා බිඳ වැටීම් වාර්තා
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -155,6 +159,7 @@ crashes-time-minutes =
         [one] විනාඩි { $minutes } කට පෙර
        *[other] විනාඩි { $minutes } කට පෙර
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -162,6 +167,7 @@ crashes-time-hours =
         [one] පැය { $hours } කට පෙර
        *[other] පැය { $hours } කට පෙර
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -169,12 +175,14 @@ crashes-time-days =
         [one] දවස් { $days } කට පෙර
        *[other] දවස් { $days } කට පෙර
     }
+
 raw-data-copied = අමු දත්ත පසුරු පුවරුවට පිටපත් විය
 text-copied = පෙළ පසුරු පුවරුවට පිටපත් විය
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-os-version = ඔබගේ මෙහෙයුම් පද්ධතියේ අනුවාදය සඳහා අවහිරයි.
+
 hardware-h264 = දෘඩාංග H264 විකේතනය
 yes = ඔව්
 no = නැහැ
@@ -186,6 +194,7 @@ unknown = නොදන්නා
 
 found = හමුවුණි
 missing = මඟහැරී
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = සවිස්තරය
@@ -206,24 +215,31 @@ webgl2-wsiinfo = WebGL 2 ධාවකයේ WSI තොරතුරු
 webgl2-version = WebGL 2 ධාවකයේ අනුවාදය
 webgl2-driver-extensions = WebGL 2 ධාවක දිගු
 webgl2-extensions = WebGL 2 දිගු
+
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX දෘශ්‍ය විකේතකය
+
 target-frame-rate = ඉලක්කගත රාමු අනුපා.
+
 min-lib-versions = අපේක්‍ෂිත අවම අනුවාදය
 loaded-lib-versions = භාවිතා වන අනුවාදය
+
 has-seccomp-bpf = Seccomp-BPF (පද්ධතියේ ඇමතුම් පෙරීීම)
 sandbox-proc-type-content = අන්තර්ගතය
 sandbox-proc-type-media-plugin = මාධ්‍ය පේනුව
 sandbox-proc-type-data-decoder = දත්ත විකේතකය
+
 startup-cache-title = ආරම්භක නිහිතය
 startup-cache-disk-cache-path = තැටියේ නිහිතයට පෙත
 startup-cache-ignore-disk-cache = තැටියේ නිහිතය නොසලකන්න
 startup-cache-found-disk-cache-on-init = Init හි තැටියේ නිහිතය හමු විය
 startup-cache-wrote-to-disk-cache = තැටියේ නිහිතයට ලිවීය
+
 launcher-process-status-0 = සබලයි
 launcher-process-status-1 = අසාර්ථක වීම නිසා අබලයි
 launcher-process-status-2 = බලාත්මක අබල කිරීමකි
 launcher-process-status-unknown = නොදන්නා තත්‍වයකි
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -237,6 +253,7 @@ fission-status-disabled-by-default = පෙරනිමි ලෙස අබල�
 fission-status-enabled-by-user-pref = අතින් සබල කර ඇත
 fission-status-disabled-by-user-pref = අතින් අබල කර ඇත
 fission-status-disabled-by-e10s-other = E10s අබලයි
+
 apz-none = කිසිත් නැත
 wheel-enabled = රෝද ආදාන සබලයි
 touch-enabled = ස්පර්ශ ආදානය සබලයි
@@ -265,6 +282,7 @@ support-printing-prefs-value = අගය
 ## Normandy sections
 
 support-remote-experiments-name = නම
+
 support-remote-features-title = දුරස්ථ විශේෂාංග
 support-remote-features-name = නම
 support-remote-features-status = තත්‍වය

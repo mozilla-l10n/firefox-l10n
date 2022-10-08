@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = පේනු ගැන
+
 installed-plugins-label = ස්ථාපිත පේනු
 no-plugins-are-installed-label = ස්ථාපිත පේනු හමු නොවිණි
+
 deprecation-description = යමක් මඟහැරී තිබේද? ඇතැම් පේනු තවදුරටත් සහය නොදක්වයි. <a data-l10n-name="deprecation-link">තව දැනගන්න.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">තත්‍වය:</span> ස�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">තත්‍වය:</span> සබලයි ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">තත්‍වය:</span> අබලයි
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">තත්‍වය:</span> අබලයි ({ $blockListState })
+
 mime-type-label = MIME වර්ගය
 description-label = විස්තරය
 
@@ -34,3 +37,4 @@ description-label = විස්තරය
 
 plugins-gmp-license-info = බලපත්‍ර තොරතුරු
 plugins-gmp-privacy-info = පෞද්ගලිකත්‍ව තොරතුරු
+

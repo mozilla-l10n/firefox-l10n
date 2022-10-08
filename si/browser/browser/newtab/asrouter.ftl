@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = නිර්දේශිත විශේෂා�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = මම මෙය දකින්නේ ඇයි?
+
 cfr-doorhanger-extension-cancel-button = දැන් නොවේ
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = එක් කරන්න
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = නිර්දේශිත සැකසුම් කළමනාකරණය
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = මෙම නිර්දේශය යළි නොපෙන්වන්න
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = තව දැනගන්න
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = කර්තෘ: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = නිර්දේශය
 cfr-doorhanger-extension-notification2 = නිර්දේශය
     .tooltiptext = නිර්දේශිත දිගු
     .a11y-announcement = නිර්දේශිත දිගු තිබේ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = නිර්දේශ
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = තව දැනගන්න
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = නව විශේෂාංගය:
+
 cfr-whatsnew-button =
     .label = අළුත් දෑ
     .tooltiptext = අළුත් දෑ
+
 cfr-whatsnew-release-notes-link-text = නිකුතු සටහන් කියවන්න
 
 ## Enhanced Tracking Protection Milestones
@@ -145,6 +155,7 @@ spotlight-public-wifi-vpn-link = දැන් නොවේ
 spotlight-total-cookie-protection-body = පූර්ණ දත්තකඩ රැකවරණය මගින් වියමන පුරා දත්තකඩ භාවිතයෙන් ඔබ පසුපස එන ලුහුබඳින්නන් නවත්වයි.
 spotlight-total-cookie-protection-primary-button = පූර්ණ දත්තකඩ රැකවරණය සක්‍රිය කරන්න
 spotlight-total-cookie-protection-secondary-button = දැන් නොවේ
+
 cfr-total-cookie-protection-header = ඔබට ස්තුති වන්නට, { -brand-short-name } අන් කවරදාටත් වඩා පෞද්ගලිකයි සහ ආරක්‍ෂිතයි
 
 ## Emotive Continuous Onboarding
@@ -174,6 +185,7 @@ spotlight-pin-secondary-button = දැන් නොවේ
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = දැන් { -brand-shorter-name } අරින්න
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -192,6 +204,7 @@ firefoxview-cfr-body = තවද උපාංග අතර බාධාවකි
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name } අත්විඳින්න
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = දුරකථනයෙහි විවෘත පටිත්ත වුවමනාද? එය ඇහිඳින්න. ඔබ දැන් ගොඩවැදුණු අඩවිය වුවමනාද? ඔන්න, එය { -firefoxview-brand-name } සමඟ ලැබෙණු ඇත.
 firefoxview-spotlight-promo-primarybutton = එය වැඩ කරන අයුරු බලන්න

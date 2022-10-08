@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = ස්ථාපන දෝෂයකි
 opensearch-error-duplicate-desc = { -brand-short-name } සඳහා “{ $location-url }” වෙතින් සෙවුම් පේනුව ස්ථාපනය කිරීමට නොහැකි වූයේ එම නම සහිත යන්ත්‍රයක් දැනටමත් පවතින නිසාය.
+
 opensearch-error-format-title = වැරදි ආකෘතියකි
 opensearch-error-format-desc = { -brand-short-name } සඳහා මෙයින් සෙවුම් යන්ත්‍රය ස්ථාපනය කිරීමට නොහැකි විය: { $location-url }
+
 opensearch-error-download-title = බාගැනිමේ දෝෂයකි
 opensearch-error-download-desc = { -brand-short-name } මගින් සෙවුම් පේනුව බාගැනීමට නොහැකි විය: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } මගින් සෙව
 
 searchbar-submit =
     .tooltiptext = සෙවුම යොමන්න
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = සෙවුම
+
 searchbar-icon =
     .tooltiptext = සෙවුම
 

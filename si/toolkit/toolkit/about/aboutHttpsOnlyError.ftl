@@ -4,7 +4,9 @@
 
 about-httpsonly-title-alert = HTTPS-පමණි ප්‍රකාරයේ ඇඟවීම
 about-httpsonly-title-site-not-available = ආරක්‍ෂිත අඩවිය නැත
+
 about-httpsonly-explanation-risk = ප්‍රහාරකයෙක් සම්බන්ධ වී සිටීමට ද ඉඩ ඇත. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි කිසිදු සංවේදී තොරතුරක් ඇතුල් නොකළ යුතුය.
+
 about-httpsonly-button-continue-to-site = HTTP අඩවියට යන්න
 about-httpsonly-button-go-back = ආපසු යන්න
 about-httpsonly-link-learn-more = තව දැනගන්න…

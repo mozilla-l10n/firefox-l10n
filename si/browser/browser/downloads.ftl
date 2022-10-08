@@ -18,6 +18,7 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
+
 downloads-cmd-pause =
     .label = විරාමය
     .accesskey = P
@@ -28,6 +29,7 @@ downloads-cmd-cancel =
     .tooltiptext = අවලංගු
 downloads-cmd-cancel-panel =
     .aria-label = අවලංගු
+
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -48,6 +50,7 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = { $handler } හි අරින්න
     .accesskey = I
+
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -67,12 +70,14 @@ downloads-cmd-always-use-system-default-named =
 downloads-cmd-always-open-similar-files =
     .label = සෑමවිට සමාන ගොනු අරින්න
     .accesskey = w
+
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] බහාලුමෙහි පෙන්වන්න
            *[other] බහාලුමෙහි පෙන්වන්න
         }
+
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -85,6 +90,7 @@ downloads-cmd-show-description-2 =
             [macos] බහාලුමෙහි පෙන්වන්න
            *[other] බහාලුමෙහි පෙන්වන්න
         }
+
 downloads-cmd-show-downloads =
     .label = බාගැනීමේ බහාලුම පෙන්වන්න
 downloads-cmd-retry =
@@ -109,33 +115,42 @@ downloads-cmd-clear-downloads =
 downloads-cmd-delete-file =
     .label = මකන්න
     .accesskey = D
+
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = බාගැනීමට ඉඩදෙන්න
     .accesskey = o
+
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = ගොනුව ඉවත් කරන්න
+
 downloads-cmd-remove-file-panel =
     .aria-label = ගොනුව ඉවත් කරන්න
+
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = ගොනුව ඉවතලන්න හෝ බාගැනීමට ඉඩදෙන්න
+
 downloads-cmd-choose-unblock-panel =
     .aria-label = ගොනුව ඉවතලන්න හෝ බාගැනීමට ඉඩදෙන්න
+
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = ගොනුව අරින්න හෝ ඉවතලන්න
+
 downloads-cmd-choose-open-panel =
     .aria-label = ගොනුව අරින්න හෝ ඉවතලන්න
+
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = තව තොරතුරු පෙන්වන්න
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -163,16 +178,19 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = බාගැනීමට යළි උත්සාහය
+
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = බාගැනීම අවලංගු කරන්න
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = සියළු බාගැනීම් පෙන්වන්න
     .accesskey = S
+
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -196,13 +214,16 @@ downloads-blocked-download-detailed-info = { $url } වෙතින් ගොන
 downloads-clear-downloads-button =
     .label = බාගැනීම් මකන්න
     .tooltiptext = නිම වූ, අවලංගු කළ හා අසමත් වූ බාගැනීම් හිස් කරයි
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = බාගැනීම් කිසිවක් නැත.
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = මෙම වාරය සඳහා බාගැනීම් නැත.
+
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the

@@ -32,6 +32,7 @@ printpreview-page-setup =
 printpreview-page =
     .value = පිටුව:
     .accesskey = a
+
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print

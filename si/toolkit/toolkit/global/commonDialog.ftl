@@ -6,10 +6,12 @@ common-dialog-title-null = මෙම පිටුව පවසන්නේ
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = නොදන්නා
+
 common-dialog-username =
     .value = පරිශීලක නාමය
 common-dialog-password =
     .value = මුරපදය
+
 common-dialog-copy-cmd =
     .label = පිටපතක්
     .accesskey = C

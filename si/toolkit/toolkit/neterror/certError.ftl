@@ -5,37 +5,55 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } සාවද්‍ය ආරක්‍ෂණ සහතිකයක් භාවිත කරයි.
+
 cert-error-mitm-intro = සහතික අධිකාරි විසින් නිකුත් කරනු ලබන සහතික හරහා වියමන අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි.
+
 cert-error-trust-unknown-issuer-intro = යමෙක් වංචනිකව මෙම අඩවිය හසුරුවීමට තැත් කරනවා විය හැකි බැවින් ඔබ ඉදිරියට නොයා යුතුය.
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = සහතික මගින් වියමන අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි. { $hostname } හි සහතිකය නිකුත් කරන්නා නොදන්නා නිසා, සහතිකය ස්වයං අත්සන් කර ඇති නිසා, හෝ සේවාදායකය නිවැරදි අතරමැදි සහතික එවන්නේ නැති නිසා { -brand-short-name } එය විශ්වාස නොකරයි.
+
 cert-error-trust-cert-invalid = සාවද්‍ය CA සහතිකයක් මඟින් නිකුත් කර ඇති නිසා සහතිකය විශ්වාස නැත.
+
 cert-error-trust-untrusted-issuer = නිකුත් කරන්නාගේ සහතිකය විශ්වාස නැති නිසා සහතිකය විශ්වාස නැත.
+
 cert-error-trust-expired-issuer = නිකුත් කරන්නාගේ සහතිකය කල් ඉකුත් වී ඇති නිසා සහතිකය විශ්වාස නැත.
+
 cert-error-trust-self-signed = සහතිකය ස්වයංව අත්සන් කර ඇති නිසා එය විශ්වාස නැත.
+
 cert-error-trust-symantec = ජියෝට්‍රස්ට්, RapidSSL, සිමැන්ටෙක්, තව්ටේ, සහ වෙරිසයින් විසින් නිකුත් කරන ලද සහතික තවදුරටත් ආරක්‍ෂිත යැයි නොසැලකේ. මන්ද මෙම සහතික අධිකාරි අතීතයේ දී ආරක්‍ෂණ පිළිවෙත් අනුගමනය කිරීමට අපොහොසත් වූ නිසාය.
+
 cert-error-untrusted-default = සහතිකය විශ්වසන මූලාශ්‍රයකින් නොලැබෙයි.
+
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = සහතික මගින් වියමන අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි. { $hostname } සඳහා වලංගු නොවන සහතිකයක් භාවිතා කරන නිසා { -brand-short-name } මෙම අඩවිය විශ්වාස නොකරයි. මෙම සහතිකය වලංගු වන්නේ පහත නම් සඳහා පමණි: { $subject-alt-names }
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = නිශ්චිත කාල සීමාවක් සඳහා වලංගු වන සහතික හරහා අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි. { $hostname } සඳහා සහතිකය { $not-after-local-time } දී කල් ඉකුත් වී ඇත.
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = නිශ්චිත කාල සීමාවක් සඳහා වලංගු වන සහතික හරහා අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි. { $hostname } සඳහා සහතිකය { $not-before-local-time } දක්වා වලංගු නොවේ.
+
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = දෝෂ කේතය: <a data-l10n-name="error-code-link">{ $error }</a>
+
 cert-error-symantec-distrust-admin = මෙම ගැටළුව පිළිබඳව අඩවියේ පරිපාලක වෙත දැනුම් දීමට හැකිය
+
 cert-error-old-tls-version = මෙම වියමන අඩවිය { -brand-short-name } මගින් සහය දක්වන අවම අනුවාදය වන TLS 1.2 කෙටුම්පත සඳහා සහාය නොදක්වයි.
+
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP දැඩි පරිවහන ආරක්‍ෂාව: { $hasHSTS }
+
 cert-error-details-cert-chain-label = සහතික දාමය:
+
 open-in-new-window-for-csp-or-xfo-error = නව කවුළුවකින් අඩවිය අරින්න
 
 ## Messages used for certificate error titles

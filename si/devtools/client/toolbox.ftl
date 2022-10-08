@@ -12,9 +12,11 @@
 ## the label.
 
 toolbox-meatball-menu-dock-separate-window-label = වෙනම කවුළුවක්
+
 toolbox-meatball-menu-settings-label = සැකසුම්
 toolbox-meatball-menu-documentation-label = ප්‍රලේඛනය…
 toolbox-meatball-menu-community-label = ප්‍රජාව…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
@@ -27,5 +29,8 @@ toolbox-meatball-menu-noautohide-label = උත්පතන ස්වයං ස�
 
 toolbox-mode-browser-toolbox-label = අතිරික්සු මෙ.පෙට්ටි ප්‍රකාරය
 toolbox-mode-browser-console-label = අතිරික්සු හසුරුව ප්‍රකාරය
+
 toolbox-mode-everything-sub-label = (සෙමින්)
+
 toolbox-mode-parent-process-sub-label = (වේගයෙන්)
+

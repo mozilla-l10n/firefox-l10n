@@ -55,6 +55,7 @@ certificate-viewer-authority-key-id = අධිකාරියේ යතුර�
 certificate-viewer-authority-info-aia = අධිකාරියේ තොරතුරු (AIA)
 certificate-viewer-certificate-policies = සහතික ප්‍රතිපත්ති
 certificate-viewer-embedded-scts = කාවැද්දූ SCTs
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = බාගන්න
@@ -74,6 +75,7 @@ certificate-viewer-download-pem = PEM (සහතිකය)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (දාමය)
     .download = { $fileName }-chain.pem
+
 certificate-viewer-export = නිර්යාතය
     .download = { $fileName }.pem
 

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (පෞද්. පිරික්සීම)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (පෞද්. පිරික්සීම)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (පෞද්. පිරික්සීම)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (පෞද්. පිරික්සීම)
+
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -52,6 +54,7 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } පෞද්. පිරික්සුම
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } පෞද්. පිරික්සුම
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -71,12 +74,15 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — පෞද්. පිරික්සුම
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — පෞද්. පිරික්සුම
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 private-browsing-shortcut-text = { -brand-short-name } පෞද්. පිරික්සුම
+
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } පෞද්. පිරික්සුම
 
 ##
@@ -146,6 +152,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = ටිකක් ලියන්න, ගොඩක් සොයා ගන්න: ඔබගේ ලිපින තීරුවෙන් { $engineName } හි සොයන්න.
 urlbar-search-tips-redirect-2 = { $engineName } සහ පිරික්සුම් ඉතිහාසයෙන් යෝජනා බැලීමට ලිපින තීරුවෙහි සෙවීම අරඹන්න.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = අවශ්‍ය දෑ ඉක්මනින් සොයා ගැනීමට මෙම කෙටිමඟ තෝරන්න.
@@ -155,6 +162,7 @@ urlbar-tabtosearch-onboard = අවශ්‍ය දෑ ඉක්මනින් 
 urlbar-search-mode-bookmarks = පොත්යොමු
 urlbar-search-mode-tabs = පටිති
 urlbar-search-mode-history = ඉතිහාසය
+
 urlbar-search-mode-actions = ක්‍රියාමාර්ග
 
 ##
@@ -181,10 +189,12 @@ urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම අඩවියට MIDI ප්‍රවේශය අවහිර කර ඇත.
 urlbar-install-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා එක්කහු ස්ථාපනය අවහිර කර ඇත.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = මෙම පොත්යොමුව සංස්කරණය ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -196,6 +206,7 @@ page-action-manage-extension =
     .label = දිගුව කළමනාකරණය...
 page-action-remove-extension =
     .label = දිගුව ඉවත් කරන්න
+
 page-action-manage-extension2 =
     .label = දිගුව කළමනාකරණය...
     .accesskey = E
@@ -217,8 +228,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = මෙවර, මෙය සමඟ සොයන්න:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = සෙවීම් සැකසුම් සංශෝධනය
+
 search-one-offs-context-open-new-tab =
     .label = නව පටිත්තක සොයන්න
     .accesskey = T
@@ -228,12 +241,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = පෞද්. කවුළු සඳහා පෙරනිමි සෙවුම් යන්ත්‍රය ලෙස යොදන්න
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -260,6 +275,7 @@ search-one-offs-tabs =
     .tooltiptext = පටිති ({ $restrict })
 search-one-offs-history =
     .tooltiptext = ඉතිහාසය ({ $restrict })
+
 search-one-offs-actions =
     .tooltiptext = ක්‍රියාමාර්ග ({ $restrict })
 
@@ -270,55 +286,73 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = එක්කහු බලන්න
 quickactions-cmd-addons = එක්කහු, දිගු, තේමා
+
 quickactions-cmd-addons2 = එක්කහු
+
 # Opens the bookmarks library window
 quickactions-bookmarks = පොත්යොමු බලන්න
 quickactions-cmd-bookmarks = පොත්යොමු
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ඉතිහාසය මකන්න
 quickactions-cmd-clearhistory = ඉතිහාසය මකන්න
+
 # Opens about:downloads page
 quickactions-downloads = බාගැනීම් අරින්න
 quickactions-cmd-downloads = බාගැනීම්
+
 # Opens about:addons page in the extensions section
 quickactions-extensions = දිගු කළමනාකරණය
 quickactions-cmd-extensions = දිගු
+
 # Opens the devtools web inspector
 quickactions-inspector = සෝදිසිය අරින්න
 quickactions-cmd-inspector = සෝදිසිකරු, සං.මෙවලම්
+
 # Opens about:logins
 quickactions-logins = පිවිසුම් බලන්න
 quickactions-cmd-logins = පිවිසුම්, මුරපද
+
 # Opens about:addons page in the plugins section
 quickactions-plugins = පේනු කළමණාකරණය
 quickactions-cmd-plugins = පේනු
+
 # Opens the print dialog
 quickactions-print = මුද්‍රණය
 quickactions-cmd-print = මුද්‍රණය
+
 # Opens a new private browsing window
 quickactions-private = පෞද්. පිරික්සුම් කවුළුව අරින්න
 quickactions-cmd-private = පෞද්. පිරික්සුම
+
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } නැවුම් කරන්න
 quickactions-cmd-refresh = නැවුම් කරන්න
+
 # Restarts the browser
 quickactions-restart = { -brand-short-name } යළි අරඹන්න
 quickactions-cmd-restart = යළි අරඹන්න
+
 # Opens the screenshot tool
 quickactions-screenshot2 = තිර සේයාවක් ගන්න
 quickactions-cmd-screenshot = තිරසේයාව
+
 # Opens about:preferences
 quickactions-settings = සැකසුම් අරින්න
 quickactions-cmd-settings = සැකසුම්, අභිප්‍රේත, විකල්ප
+
 # Opens about:addons page in the themes section
 quickactions-themes = තේමා කළමනාකරණය
 quickactions-cmd-themes = තේමා
+
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } යාවත්කාල
 quickactions-cmd-update = යාවත්කාල
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource = මූලාශ්‍රය පෙන්වන්න
 quickactions-cmd-viewsource = මූලාශ්‍රය බලන්න, මූලාශ්‍රය
+
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ඉක්මන් ක්‍රියාමාර්ග ගැන තව දැනගන්න
@@ -344,6 +378,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = සුරකින්න
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -371,6 +406,7 @@ identity-passive-loaded = මෙම පිටුවේ කොටස් ආරක
 identity-active-loaded = ඔබ මෙම පිටුව සඳහා රැකවරණය අබල කර ඇත.
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
 identity-insecure-login-forms = මෙම පිටුවට යොදන පිවිසුම් තොරතුරු බිඳ හෙළීමකට ලක් විය හැකිය.
+
 identity-https-only-connection-upgraded = (HTTPS වෙත උත්ශ්‍රේණියි)
 identity-https-only-label = HTTPS-පමණි ප්‍රකාරය
 identity-https-only-dropdown-on =
@@ -380,9 +416,11 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = තාවකාලිකව අක්‍රියයි
 identity-https-only-info-no-upgrade = HTTP වෙතින් සම්බන්ධතාව උත්ශ්‍රේණි කළ නොහැකිය.
+
 identity-permissions-storage-access-header = හරස් අඩවි දත්තකඩ
 identity-permissions-storage-access-hint = ඔබ මෙම අඩවියේ සිටින විට මෙම පාර්ශ්ව සඳහා හරස්-අඩවි දත්තකඩ සහ අඩවි දත්ත භාවිතා කළ හැකිය.
 identity-permissions-storage-access-learn-more = තව දැනගන්න
+
 identity-permissions-reload-hint = වෙනස්කම් යෙදීමට පිටුව යළි පූරණය කිරීමට සිදු වනු ඇත.
 identity-clear-site-data =
     .label = දත්තකඩ හා අඩවි දත්ත මකන්න…
@@ -445,11 +483,13 @@ browser-tab-mute =
         [1] පටිත්ත නිහඬව
        *[other] පටිති { $count } ක් නිහඬව
     }
+
 browser-tab-unmute =
     { $count ->
         [1] පටිත්ත නොනිහඬව
        *[other] පටිති { $count } ක් නොනිහඬව
     }
+
 browser-tab-unblock =
     { $count ->
         [1] පටිත්ත වාදනය
@@ -461,6 +501,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = පොත්යොමු ආයාතය...
     .tooltiptext = අන් අතිරික්සුවකින් පොත්යොමු { -brand-short-name } වෙත ආයාත කරන්න
+
 bookmarks-toolbar-empty-message = පොත්යොමු මෙවලම් තීරුවේ ඔබගේ පොත්යොමු තැබීමෙන් ඉක්මනින් ප්‍රවේශ වන්න. <a data-l10n-name="manage-bookmarks">පොත්යොමු කළමනාකරණය …</a>
 
 ## WebRTC Pop-up notifications
@@ -478,12 +519,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = විකාශක
 popup-all-windows-shared = ඔබගේ තිරයේ දිස්වන සියළුම කවුළු බෙදා ගනු ඇත.
+
 popup-screen-sharing-block =
     .label = අවහිර
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = සෑමවිටම අවහිර
     .accesskey = w
+
 popup-mute-notifications-checkbox = බෙදාගැනීමේදී අඩවිවල දැනුම්දීම් නිහඬ කරන්න
 
 ## WebRTC window or screen share tab switch warning
@@ -505,6 +549,7 @@ enable-devtools-popup-description = F12 කෙටිමඟ භාවිතා �
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = සොයන්න හෝ ලිපිනය යොදන්න
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -513,6 +558,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = වියමනහි සොයන්න
     .aria-label = { $name } සමඟ සොයන්න
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -521,26 +567,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = සෙවුම් පද යොදන්න
     .aria-label = { $name } සොයන්න
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = සෙවුම් පද යොදන්න
     .aria-label = පොත්යොමු සොයන්න
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = සෙවුම් පද යොදන්න
     .aria-label = ඉතිහාසය සොයන්න
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = සෙවුම් පද යොදන්න
     .aria-label = පටිති සොයන්න
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = සෙවුම් පද යොදන්න
     .aria-label = ක්‍රියාමාර්ග සොයන්න
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය යොදන්න
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -550,9 +602,11 @@ urlbar-permissions-granted =
     .tooltiptext = ඔබ මෙම අඩවියට අතිරේක අවසර ලබා දී ඇත.
 urlbar-switch-to-tab =
     .value = පටිත්තට මාරුවන්න:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = දිගුව:
+
 urlbar-go-button =
     .tooltiptext = ස්ථාන තීරුවේ ලිපිනය වෙත යන්න
 urlbar-page-action-button =
@@ -612,6 +666,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = පොත්යොමු සොයන්න
 urlbar-result-action-search-history = ඉතිහාසය සොයන්න
 urlbar-result-action-search-tabs = සෙවුම් පටිති
+
 urlbar-result-action-search-actions = ක්‍රියාමාර්ග සොයන්න
 
 ## Labels shown above groups of urlbar results
@@ -620,12 +675,14 @@ urlbar-result-action-search-actions = ක්‍රියාමාර්ග ස�
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } යෝජනා
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = ඉක්මන් ක්‍රියාමාර්ග
@@ -637,9 +694,12 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> දැන් පූර්ණ තිරයෙහිය
 fullscreen-warning-no-domain = මෙම ලේඛනය දැන් පූර්ණ තිරයෙහිය
+
+
 fullscreen-exit-button = පූර්ණ තිරයෙන් පිටවන්න (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = පූර්ණ තිරයෙන් පිටවන්න (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -649,6 +709,7 @@ pointerlock-warning-no-domain = මෙම ලේඛනයට ඔබගේ ඊත
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>මෙම පිටුවේ කොටසක් බිඳ වැටුණි.</strong> මෙම ගැටළුව පිළිබඳව { -brand-product-name } වෙත වාර්තාවක් යොමු කිරීමෙන් ඉක්මනින් විසඳා ගැනීමට හැකිවනු ඇත.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -704,8 +765,10 @@ bookmarks-tools =
     .label = පොත්යොමු මෙවලම්
 bookmarks-bookmark-edit-panel =
     .label = පොත්යොමුව සංස්කරණය
+
 bookmarks-subview-edit-bookmark =
     .label = පොත්යොමුව සංස්කරණය…
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -719,9 +782,11 @@ bookmarks-toolbar-placeholder =
     .title = පොත්යොමු මෙවලම් තීරුවේ අංග
 bookmarks-toolbar-placeholder-button =
     .label = පොත්යොමු මෙවලම් තීරුවේ අංග
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = වත්මන් පටිත්තට පොත්යොමුවක්
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = වත්මන් පටිත්තට පොත්යොමුවක්…
@@ -752,6 +817,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = එක්කහු සහ තේමා
     .tooltiptext = ඔබගේ එක්කහු සහ තේමා කළමනාකරණය ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -761,22 +827,27 @@ toolbar-settings-button =
             [macos] සැකසුම් අරින්න ({ $shortcut })
            *[other] සැකසුම් අරින්න
         }
+
 toolbar-overflow-customize-button =
     .label = මෙවලම් තීරුව රිසිකරණය…
     .accesskey = C
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = පිටුව සුරකින්න
     .tooltiptext = පිටුව සුරකින්න ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ගොනුව අරින්න
     .tooltiptext = ගොනුව අරින්න ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = සමමුහූර්ත පටිති
     .tooltiptext = අන් උපාංග වලින් පටිති පෙන්වන්න
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -817,6 +888,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } උත්පතනවලට ඉඩදෙන්න
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } උත්පතන අවහිර කරන්න
     .accesskey = p
@@ -826,6 +898,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = උත්පතන අවහිර විට මෙම පණිවිඩය නොපෙන්වන්න
     .accesskey = D
+
 edit-popup-settings =
     .label = උත්පතන සැකසුම් කළමනාකරණය…
     .accesskey = M
@@ -844,32 +917,42 @@ edit-popup-settings =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = යාත්‍රණය
+
 navbar-downloads =
     .label = බාගැනීම්
+
 navbar-overflow =
     .tooltiptext = තවත් මෙවලම්...
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = මුද්‍රණය
     .tooltiptext = මෙම පිටුව මුද්‍රණය කරන්න... ({ $shortcut })
+
 navbar-home =
     .label = මුල් පිටුව
     .tooltiptext = { -brand-short-name } මුල් පිටුව
+
 navbar-library =
     .label = පුස්තකාලය
     .tooltiptext = ඉතිහාසය, සුරැකි පොත්යොමු හා තවත් දෑ බලන්න
+
 navbar-search =
     .title = සොයන්න
+
 navbar-accessibility-indicator =
     .tooltiptext = ප්‍රවේශ්‍යතා විශේෂාංග සබලයි
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = පිරික්සුම් පටිති
+
 tabs-toolbar-new-tab =
     .label = නව පටිත්ත
+
 tabs-toolbar-list-all-tabs =
     .label = සියළු පටිති ලේඛනය
     .tooltiptext = සියළු පටිති ලේඛනය
@@ -886,6 +969,7 @@ data-reporting-notification-message = { -brand-short-name } ස්වයංක�
 data-reporting-notification-button =
     .label = බෙදාගන්නා දෑ තෝරන්න
     .accesskey = C
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = පෞද්. පිරික්සුම
 

@@ -50,3 +50,4 @@ close-tab =
     .title = පටිත්ත වසන්න
 show-addon =
     .title = එක්කහු කළමනාකරු පෙන්වන්න
+

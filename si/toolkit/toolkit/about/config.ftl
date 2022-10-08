@@ -13,10 +13,13 @@ about-config-intro-warning-button = අවදානම පිළිගෙන ඉ
 ##
 
 about-config-page-title = සංකීර්ණ අභිප්‍රේත
+
 about-config-search-input1 =
     .placeholder = අභිප්‍රේත නාමය සොයන්න
 about-config-show-all = සියල්ල පෙන්වන්න
+
 about-config-show-only-modified = සංශෝධිත අභිප්‍රේත පමණක් පෙන්වන්න
+
 about-config-pref-add-button =
     .title = එකතු
 about-config-pref-edit-button =
