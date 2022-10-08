@@ -31,10 +31,26 @@ findbar-entire-word =
     .label = 단어 단위로
     .accesskey = w
     .tooltiptext = 단어 단위로 일치하는 경우만 검색합니다
+findbar-not-found = 문구를 찾을 수 없음
+findbar-wrapped-to-top = 아래에 도달해 위부터 계속됨
+findbar-wrapped-to-bottom = 위에 도달해 아래부터 계속됨
+findbar-normal-find =
+    .placeholder = 페이지에서 찾기
+findbar-fast-find =
+    .placeholder = 빠른 찾기
+findbar-fast-find-links =
+    .placeholder = 빠른 찾기 (링크만)
+findbar-case-sensitive-status =
+    .value = (대/소문자 구분)
 findbar-match-diacritics-status =
     .value = (일치하는 분음 부호)
 findbar-entire-word-status =
     .value = (단어 단위로)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value = { $current } / { $total } 일치
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
