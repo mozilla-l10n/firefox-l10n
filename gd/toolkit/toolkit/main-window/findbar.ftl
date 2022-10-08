@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Lorg ath-làthair na h-abairt seo
 findbar-previous =
     .tooltiptext = Lorg làthair roimhe na h-abairt seo
-
 findbar-find-button-close =
     .tooltiptext = Dùin am bàr luirg
-
 findbar-highlight-all2 =
     .label = Soillsich na h-uile
     .accesskey =
@@ -21,18 +19,20 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Soillsich gach ionstans dhen abairt
-
 findbar-case-sensitive =
     .label = Aire do litrichean mòra is beaga
     .accesskey = c
     .tooltiptext = Lorg agus an aire do litrichean mòra 's beaga
-
 findbar-match-diacritics =
     .label = An aire do shràcan
     .accesskey = i
     .tooltiptext = Dèan diofar eadar litrichean le sràcan is na litrichean bunasach aca (mar sin, chan ionnann “aithne” is “àithne”)
-
 findbar-entire-word =
     .label = Faclan slàna
     .accesskey = F
     .tooltiptext = Na lorg ach faclan slàna
+findbar-not-found = Cha deach an abairt a lorg
+findbar-wrapped-to-top = Ràinig sinn bun na duilleige, a' leantainn air adhart o bharr na duilleige
+findbar-wrapped-to-bottom = Ràinig sinn barr na duilleige, a' leantainn air adhart o bhun na duilleige
+findbar-case-sensitive-status =
+    .value = (aire do litrichean mòra/beaga)
