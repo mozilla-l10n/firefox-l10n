@@ -7,8 +7,10 @@
 experimental-features-abouthome-startup-cache =
     .label = Зерҳофизаи оғози кори «about:home»
 experimental-features-abouthome-startup-cache-description = Зерҳофиза барои ҳуҷҷати ибтидоии «about:home» дар оғози кори браузер ба сурати пешфарз бор карда мешавад. Мақсади зерҳофиза дар беҳтаркунии самаранокии оғози кори браузер асос меёбад.
+
 # Search during IME
 experimental-features-ime-search =
     .label = Навори нишонӣ: ҳангоми иҷрокунии IME натиҷаҳоро нишон медишад
+
 experimental-features-accessibility-cache =
     .label = Зерҳофизаи қобилияти дастрасӣ

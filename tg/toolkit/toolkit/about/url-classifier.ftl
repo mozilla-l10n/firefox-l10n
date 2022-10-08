@@ -18,6 +18,7 @@ url-classifier-cache-title = Зерҳофиза
 url-classifier-cache-refresh-btn = Нав кардан
 url-classifier-cache-clear-btn = Пок кардан
 url-classifier-cache-table-name = Номи ҷадвал
+
 url-classifier-not-available = Дастнорас
 url-classifier-enabled = Фаъол аст
 url-classifier-disabled = Ғайрифаъол аст

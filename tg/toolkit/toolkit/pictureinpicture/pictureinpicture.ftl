@@ -3,16 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Расм-дар-расм
+
 pictureinpicture-pause =
     .aria-label = Таваққуф кардан
 pictureinpicture-play =
     .aria-label = Пахш кардан
+
 pictureinpicture-mute =
     .aria-label = Садоро хомӯш кардан
 pictureinpicture-unmute =
     .aria-label = Садоро фаъол кардан
+
 pictureinpicture-unpip =
     .aria-label = Бозгашт ба варақа
+
 pictureinpicture-close =
     .aria-label = Пӯшидан
 
@@ -25,18 +29,22 @@ pictureinpicture-pause-cmd =
 pictureinpicture-play-cmd =
     .aria-label = Пахш кардан
     .title = Пахш (тугмаи фосила)
+
 pictureinpicture-mute-cmd =
     .aria-label = Бесадо кардан
     .title = Бесадо ({ $shortcut })
 pictureinpicture-unmute-cmd =
     .aria-label = Фаъол кардани садо
     .title = Садо ({ $shortcut })
+
 pictureinpicture-unpip-cmd =
     .aria-label = Бозгашт ба варақа
     .title = Бозгашт ба варақа
+
 pictureinpicture-close-cmd =
     .aria-label = Пӯшидан
     .title = Пӯшидан ({ $shortcut })
+
 pictureinpicture-subtitles-cmd =
     .aria-label = Зерунвонҳо
     .title = Зерунвонҳо
@@ -46,17 +54,25 @@ pictureinpicture-subtitles-cmd =
 pictureinpicture-fullscreen-cmd =
     .aria-label = Экрани пурра
     .title = Экрани пурра (ду бор зер кунед)
+
 pictureinpicture-exit-fullscreen-cmd =
     .aria-label = Баромад аз экрани пурра
     .title = Баромад аз экрани пурра (ду бор зер кунед)
+
 pictureinpicture-seekbackward-cmd =
     .aria-label = Ба қафо
     .title = Ба қафо (←)
+
 pictureinpicture-seekforward-cmd =
     .aria-label = Ба пеш
     .title = Ба пеш (→)
+
 pictureinpicture-subtitles-label = Зерунвонҳо
+
 pictureinpicture-font-size-label = Андозаи ҳуруф
+
 pictureinpicture-font-size-small = Хурд
+
 pictureinpicture-font-size-medium = Миёна
+
 pictureinpicture-font-size-large = Калон

@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ҳангоми пайвастшавӣ ба { $hostname } хато ба миён омад. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Рамзи хато: { $error }
+
 psmerr-ssl-disabled = Ба таври бехатар пайваст карда наметавонад, зеро ки протоколи SSL ғайрифаъол карда шуд.
 psmerr-ssl2-disabled = Ба таври бехатар пайваст шуда наметавонад, зеро ки сомона версияи куҳна ва хатарноки протоколи SSL-ро истифода мебарад.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Шумо гувоҳиномаи беэътиборро қабул кардед. Лутфан, бо маъмури сервер дар тамос шавед ё ба шахси масъул паёми элетрониро бо маълумоти зерин фиристонед:
     
     Гувоҳиномаи шумо дорои ҳамон рақами силсилавие мебошад, ки барои гувоҳиномаи дигар аз тарафи мақомоти иҷозатномадиҳанда дода шудааст. Лутфан, гувоҳиномаи наверо гиред, ки дорои рақами силсилавии мушаххас мебошад.
+
 ssl-error-export-only-server = Пайвастшавии бехатар танзим карда нашуд. Ҳамсон рамзгузории дараҷаи баландро дастгирӣ намекунад.
 ssl-error-us-only-server = Пайвастшавии бехатар танзим карда нашуд. Ҳамсон рамзгузории дараҷаи баландеро дархост мекунад, ки дастгирӣ карда намешавад.
 ssl-error-no-cypher-overlap = Пайвастшавии бехатар бо ҳамсон танзим карда нашуд: алгоритм(ҳо)и рамзгузории умумӣ вуҷуд надорад.

@@ -67,17 +67,23 @@ perftools-thread-renderer =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Барномарезии сомонаҳо
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Танзимоти тавсияшуда барои профилсозии { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Графика
 perftools-presets-graphics-description = Танзимот барои тафтиши хатоҳои графикӣ дар { -brand-shorter-name }.
+
 perftools-presets-media-label = Расона
 perftools-presets-media-description2 = Танзимот барои тафтиши хатоҳои аудио ва видео дар { -brand-shorter-name }.
+
 perftools-presets-networking-label = Шабакасозӣ
 perftools-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Қувва
 perftools-presets-power-description = Танзимот барои тафтиши хатоҳои истифодаи қувваи барқ дар { -brand-shorter-name }, бо хароҷоти паст.
+
 perftools-presets-custom-label = Фармоишӣ
 
 ##

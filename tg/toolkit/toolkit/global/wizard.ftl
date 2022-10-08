@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Ба қафо
     .accesskey = Б
+
 wizard-macos-button-next =
     .label = Идома додан
     .accesskey = И
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Ба пеш >
     .accesskey = П
+
 wizard-macos-button-finish =
     .label = Тайёр
 wizard-linux-button-finish =
     .label = Анҷом
 wizard-win-button-finish =
     .label = Анҷом
+
 wizard-macos-button-cancel =
     .label = Бекор кардан
 wizard-linux-button-cancel =

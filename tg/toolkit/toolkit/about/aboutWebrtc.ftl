@@ -63,6 +63,7 @@ about-webrtc-type-remote = Дурдаст
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Интихоб шуд
+
 about-webrtc-save-page-label = Нигоҳ доштани саҳифа
 about-webrtc-debug-mode-msg-label = Реҷаи ислоҳи нуқсонҳо
 about-webrtc-debug-mode-off-state-label = Оғоз кардани реҷаи ислоҳи нуқсонҳо

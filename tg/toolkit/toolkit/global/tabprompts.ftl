@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Номи корбар:
 tabmodalprompt-password =
     .value = Ниҳонвожа:
+
 tabmodalprompt-ok-button =
     .label = ХУБ
 tabmodalprompt-cancel-button =

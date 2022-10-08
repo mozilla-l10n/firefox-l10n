@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Қисми ин саҳифа вайрон шуд.</strong> Барои ба { -brand-product-name } дар бораи ин масъала хабар додан ва зудтар ҳал кардани он, лутфан, гузориши худро пешниҳод намоед.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

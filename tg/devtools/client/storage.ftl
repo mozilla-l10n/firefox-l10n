@@ -7,37 +7,48 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Барои мизбони интихобшуда ягон маълумот нест
+
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Ҷустуҷӯи унсурҳо
+
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Қиматҳои ҷустуҷӯ
+
 # Add Item button title
 storage-add-button =
     .title = Илова кардани унсур
+
 # Refresh button title
 storage-refresh-button =
     .title = Нав кардани унсурҳо
+
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Ҳамаро нест кардан
+
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Нест кардани кукиҳои ҳамаи сомонаҳо
+
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = Нусха бардоштан
+
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Нест кардани «{ $itemName }»
+
 # Context menu action to add an item
 storage-context-menu-add-item =
     .label = Илова кардани унсур
+
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -69,8 +80,10 @@ storage-tree-labels-extension-storage = Захирагоҳи васеъшави�
 
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Ҷаласа
+
 # Heading displayed over the item value in the sidebar
 storage-data = Иттилоот
+
 # Error notification when IndexedDB database could not be deleted.
 # Variables:
 #   $dbName (String) - Name of the database
