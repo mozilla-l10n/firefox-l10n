@@ -5,7 +5,9 @@
 firefoxview-try-colorways-button = Опитайте цветовете
 firefoxview-no-current-colorway-collection = Нови цветови комбинации са на път
 firefoxview-change-colorway-button = Променяне на цветовете
+
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+

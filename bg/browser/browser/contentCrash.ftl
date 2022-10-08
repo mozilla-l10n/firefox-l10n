@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Част от тази страница се срина.</strong> За да уведомите { -brand-product-name } за този проблем и да го поправим по-бързо, изпратете доклад.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =

@@ -3,82 +3,116 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Управление на добавки
+
 search-header =
     .placeholder = търсене в addons.mozilla.org
     .searchbuttonlabel = Търсене
+
 search-header-shortcut =
     .key = f
+
 list-empty-get-extensions-message = Изтеглете разширения и теми от <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-dictionaries-message = Изтеглете речници от <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-language-packs-message = Изтеглете езикови пакети от <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-installed =
     .value = Няма инсталирани добавки от този вид
+
 list-empty-available-updates =
     .value = Не са открити обновявания
+
 list-empty-recent-updates =
     .value = Скоро не сте обновявали никоя добавка
+
 list-empty-find-updates =
     .label = Проверка за обновяване
+
 list-empty-button =
     .label = Научете повече за добавките
+
 help-button = Поддръжка
 sidebar-help-button-title =
     .title = Поддръжка
+
 addons-settings-button = Настройки на { -brand-short-name }
 sidebar-settings-button-title =
     .title = Настройки на { -brand-short-name }
+
 show-unsigned-extensions-button =
     .label = Някои разширения не можаха да бъдат проверени
+
 show-all-extensions-button =
     .label = Показване на всички разширения
+
 detail-version =
     .label = Версия
+
 detail-last-updated =
     .label = Последно обновяване
+
 addon-detail-description-expand = Повече
 addon-detail-description-collapse = По-малко
+
 detail-contributions-description = Разработчикът на добавката ви приканва да допринесете за бъдещото ѝ развитие, като направите скромно дарение.
+
 detail-contributions-button = Допринасяне
     .title = Допринасяне за развитието на добавката
     .accesskey = Д
+
 detail-update-type =
     .value = Автоматично обновяване
+
 detail-update-default =
     .label = Стандартно
     .tooltiptext = Автоматично инсталиране на обновявания само ако е стандартно
+
 detail-update-automatic =
     .label = Включено
     .tooltiptext = Автоматично инсталиране на обновявания
+
 detail-update-manual =
     .label = Изключено
     .tooltiptext = Без автоматично инсталиране на обновявания
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Работa в поверителни прозорци
+
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Не позволено в поверителни прозорци
 detail-private-disallowed-description2 = Разширението не работи докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Изисква достъп до поверителни прозорци
 detail-private-required-description2 = Разширението има достъп до дейностите ви докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
+
 detail-private-browsing-on =
     .label = Разрешаване
     .tooltiptext = Включване при поверително разглеждане
+
 detail-private-browsing-off =
     .label = Забраняване
     .tooltiptext = Изключване при поверително разглеждане
+
 detail-home =
     .label = Страница
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Профил на добавка
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Проверка за обновяване
     .accesskey = П
     .tooltiptext = Проверка за обновяване на тази добавка
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -95,23 +129,35 @@ detail-show-preferences =
             [windows] Промяна на настройките на тази добавка
            *[other] Сменяне на настройките на тази добавка
         }
+
 detail-rating =
     .value = Оценка
+
 addon-restart-now =
     .label = Рестартиране
+
 disabled-unsigned-heading =
     .value = Някои добавки бяха изключени
+
 disabled-unsigned-description = Следните добавки не са проверени, за да могат да се използват от { -brand-short-name }. Можете <label data-l10n-name="find-addons">да намерите заместители</label> или да поискате от разработчиците тяхната добавка да премине проверка.
+
 disabled-unsigned-learn-more = Научете повече за нашите усилия да поддържаме безопасността ви, докато сте онлайн.
+
 disabled-unsigned-devinfo = Разработчиците, интересуващи се от преминаване на проверка за техните добавки, могат да прочетат повече в нашето <label data-l10n-name="learn-more">ръководство</label>.
+
 plugin-deprecation-description = Липсва ли нещо? Някои приставки вече не се поддържат от { -brand-short-name }. <label data-l10n-name="learn-more">Научете повече</label>
+
 legacy-warning-show-legacy = Показване на остарелите разширения
+
 legacy-extensions =
     .value = Остарели добавки
+
 legacy-extensions-description = Тези разширения не отговарят на текущите стандарти на { -brand-short-name } и затова са изключени. <label data-l10n-name="legacy-learn-more">Научете повече за промените при добавките</label>
+
 private-browsing-description2 =
     { -brand-short-name } променя начина на работа на разширенията в поверителни прозорци. Всяко ново разширение, което добавите в { -brand-short-name } няма да работи по подразбиране в поверителен прозорец, освен ако вие не промените неговите настройки. Направихме тази промяна за да запазим поверителното ви разглеждане наистина поверително.
     <label data-l10n-name="private-browsing-learn-more">Научете повече как да управлявате разширенията</label>
+
 addon-category-discover = Препоръки
 addon-category-discover-title =
     .title = Препоръки
@@ -195,34 +241,43 @@ addon-open-about-debugging = Дебъгване на добавки
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Управление на клавишни комбинации на разширения
     .accesskey = к
+
 shortcuts-no-addons = Нямате включени разширения.
 shortcuts-no-commands = Следните разширения нямат клавишни комбинации:
 shortcuts-input =
     .placeholder = Изберете комбинация
+
 shortcuts-browserAction2 = Изпълняване на действието на бутона на лентата
 shortcuts-pageAction = Изпълняване на действието със страницата
 shortcuts-sidebarAction = Превключване на страничната лента
+
 shortcuts-modifier-mac = Включване на Ctrl, Alt, или ⌘
 shortcuts-modifier-other = Включване на Ctrl или Alt
 shortcuts-invalid = Недействителна комбинация
 shortcuts-letter = Въведете буква
 shortcuts-system = Не може да презапишете клавишна комбинация на { -brand-short-name }
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Дублиране на комбинация
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = Комбинацията { $shortcut } се използва на повече от едно място. Дублиране на клавишни комбинации могат да имат  поведение.
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Вече се използва от { $addon }
+
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Показване на още { $numberToShow }
        *[other] Показване на още { $numberToShow }
     }
+
 shortcuts-card-collapse-button = По-малко
+
 header-back-button =
     .title = Назад
 
@@ -238,12 +293,15 @@ discopane-intro =
     често се разработват от трети страни. Ето избраните, които { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">препоръчва</a> за изключителна
     сигурност, производителност и възможности.
+
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Някои от тези препоръки са персонализирани. Те се основават на други
     инсталирани разширения, предпочитания запазени в профила и статистика за използване.
 discopane-notice-learn-more = Научете повече
+
 privacy-policy = Политика за поверителност
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -259,6 +317,7 @@ install-theme-button = Инсталиране на тема
 manage-addon-button = Управление
 find-more-addons = Още добавки
 find-more-themes = Още теми
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -284,51 +343,60 @@ preferences-addon-button =
 details-addon-button = Подробности
 release-notes-addon-button = Бележки към изданието
 permissions-addon-button = Права
+
 extension-enabled-heading = Включени
 extension-disabled-heading = Изключени
+
 theme-enabled-heading = Включени
 theme-disabled-heading = Изключени
 theme-disabled-heading2 = Запазени теми
 theme-monochromatic-heading = Цветови комбинации
 theme-monochromatic-subheading = Изразителни цветови комбинации от { -brand-product-name }. Достъпни за ограничен период.
+
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Опитайте цветовете
-colorway-collection-independent-voices-subheading = Накарайте { -brand-short-name } да се чувства малко повече като вас.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Изтича на { DATETIME($expiryDate, month: "long", day: "numeric") }
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Променяне на цветовете
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Изтича на { DATETIME($expiryDate, month: "long", day: "numeric") }
+
 plugin-enabled-heading = Включени
 plugin-disabled-heading = Изключени
+
 dictionary-enabled-heading = Включени
 dictionary-disabled-heading = Изключени
+
 locale-enabled-heading = Включени
 locale-disabled-heading = Изключени
+
 sitepermission-enabled-heading = Включено
 sitepermission-disabled-heading = Изключено
+
 always-activate-button = Винаги включено
 never-activate-button = Винаги изключено
+
 addon-detail-author-label = Автор
 addon-detail-version-label = Издание
 addon-detail-last-updated-label = Последно обновяване
 addon-detail-homepage-label = Страница
 addon-detail-rating-label = Оценка
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = Разширението ще бъде обновено при рестарт на { -brand-short-name }
 install-postponed-button = Обновяване
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Оценено на { NUMBER($rating, maximumFractionDigits: 1) } от 5
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (изключено)
+
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -344,12 +412,14 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> е премахнато.
 pending-uninstall-undo-button = Отменяне
+
 addon-detail-updates-label = Автоматично обновяване
 addon-detail-updates-radio-default = Стандартно
 addon-detail-updates-radio-on = Включено
 addon-detail-updates-radio-off = Изключено
 addon-detail-update-check-label = Проверка за обновяване
 install-update-button = Обновяване
+
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -378,15 +448,20 @@ addon-badge-verified2 =
 
 available-updates-heading = Налични обновявания
 recent-updates-heading = Последни обновявания
+
 release-notes-loading = Зареждане…
 release-notes-error = За съжаление, зареждането на бележките към изданието е неуспешно.
+
 addon-permissions-empty = Разширението не изисква никакви права
 addon-permissions-required = Необходими права за основни възможности:
 addon-permissions-optional = Незадължителни права за допълнителни възможности:
 addon-permissions-learnmore = Научете повече за правата
+
 recommended-extensions-heading = Препоръчани разширения
 recommended-themes-heading = Препоръчани теми
+
 addon-sitepermissions-required = Предоставя следните възможности на <span data-l10n-name="hostname">{ $hostname }</span>:
+
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Чувствате се креативни? <a data-l10n-name="link"> Създайте своя собствена тема с Firefox Color.</a>
@@ -402,9 +477,11 @@ updates-heading = Управление на обновявания
 sitepermission-heading = Управление на правата на страница
 discover-heading = Персонализирайте вашия { -brand-short-name }
 shortcuts-heading = Управление на клавишни комбинации на разширения
+
 default-heading-search-label = Намерете още добавки
 addons-heading-search-input =
     .placeholder = търсене в addons.mozilla.org
+
 addon-page-options-button =
     .title = Инструменти за всички добавки
 
@@ -415,13 +492,19 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Добавката { $name } е несъвместима с { -brand-short-name } { $version }.
+
 details-notification-incompatible-link = Повече информация
+
 details-notification-unsigned-and-disabled = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }, и беше изключена.
 details-notification-unsigned-and-disabled-link = Повече информация
+
 details-notification-unsigned = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }. Бъдете внимателни.
 details-notification-unsigned-link = Повече информация
+
 details-notification-blocked = Добавката { $name } беше изключена поради съображения за сигурност или стабилност.
 details-notification-blocked-link = Повече информация
+
 details-notification-softblocked = Добавката { $name } може да причини проблеми със сигурността или стабилността.
 details-notification-softblocked-link = Повече информация
+
 details-notification-gmp-pending = Добавката { $name } ще бъде инсталирана след малко.

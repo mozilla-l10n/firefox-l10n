@@ -9,3 +9,4 @@ compact-dialog =
     .buttonaccesskeycancel = к
     .buttonlabelextra1 = Научете повече
     .buttonaccesskeyextra1 = п
+

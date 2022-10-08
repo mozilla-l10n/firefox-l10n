@@ -38,9 +38,11 @@ menu-quit =
             [windows] х
            *[other] х
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Изход от { -brand-shorter-name }
+
 menu-about =
     .label = Относно { -brand-shorter-name }
     .accesskey = О

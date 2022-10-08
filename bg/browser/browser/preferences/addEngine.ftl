@@ -5,15 +5,22 @@
 add-engine-window =
     .title = Добавяне на търсеща машина
     .style = width: 32em;
+
 add-engine-window2 =
     .title = Добавяне на търсеща машина
     .style = min-width: 32em;
+
 add-engine-button = Добавяне на търсеща машина от потребител
+
 add-engine-name = Име на търсеща машина
+
 add-engine-alias = Съкращения
+
 add-engine-url = Аддрес на търсачка, използвайте %s вместо търсената фраза
+
 add-engine-dialog =
     .buttonlabelaccept = Добавяне на машина
     .buttonaccesskeyaccept = а
+
 engine-name-exists = Машина с това име вече съществува
 engine-alias-exists = Машина с това съкращение вече съществува

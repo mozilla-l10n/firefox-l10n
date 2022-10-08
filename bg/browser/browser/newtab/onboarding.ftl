@@ -49,11 +49,13 @@ onboarding-welcome-steps-indicator =
 mr1-welcome-screen-hero-text =
     Жегата започва
     тук
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Сорая Осорио - дизайнер на мебели, почитателка на Firefox
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Изключване на анимации
 
@@ -79,9 +81,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Въведение
+
 mr1-onboarding-welcome-header = Добре дошли при { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Избиране на { -brand-short-name } за основен четец
     .title = Задава { -brand-short-name } за четец по подразбиране и го закача към лентата със задачи
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Избиране на { -brand-short-name } за стандартен четец
@@ -99,13 +103,16 @@ mr1-onboarding-default-primary-button-label = Избиране като стан
 
 mr1-onboarding-import-header = Вземете всичко със себе си
 mr1-onboarding-import-subtitle = Внесете паролите си,<br/>отметките си и други.
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Внасяне от { $previous }
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
 mr1-onboarding-import-secondary-button-label = Не сега
+
 mr2-onboarding-colorway-header = Цветен живот
 mr2-onboarding-colorway-subtitle = Изразителни цветови комбинации. Достъпни за ограничен период.
 mr2-onboarding-colorway-primary-button-label = Запазване
@@ -115,16 +122,21 @@ mr2-onboarding-colorway-label-balanced = Умерена
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Ярка
+
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Авто
+
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = По подразбиране
+
 mr1-onboarding-theme-header = По свой вкус
 mr1-onboarding-theme-subtitle = Приспособете { -brand-short-name } с тема.
 mr1-onboarding-theme-primary-button-label = Запазване на тема
 mr1-onboarding-theme-secondary-button-label = Не сега
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системна тема
+
 mr1-onboarding-theme-label-light = Светла
 mr1-onboarding-theme-label-dark = Тъмна
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -138,59 +150,72 @@ mr1-onboarding-theme-label-alpenglow = Сияйни Алпи
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title = Използва темата на операционната система за бутони, менюта и прозорци.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description = Използва темата на операционната система за бутони, менюта и прозорци.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Светла тема за бутони,
         менюта и прозорци.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Светла тема за бутони,
         менюта и прозорци.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Тъмна тема за бутони,
         менюта и прозорци.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Тъмна тема за бутони,
         менюта и прозорци.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Динамична и цветна тема за бутони,
         менюта и прозорци.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Динамична и цветна тема за бутони,
         менюта и прозорци.
+
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Използвайте тази цветова комбинация.
+
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Използвайте тази цветова комбинация.
+
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Разгледайте цветовите комбинации на { $colorwayName }.
+
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Разгледайте цветовите комбинации на { $colorwayName }.
+
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Разгледайте темите по подразбиране.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Разгледайте темите по подразбиране.
 
@@ -207,10 +232,21 @@ mr2-onboarding-start-browsing-button-label = Започнете да разгл�
 ## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
+## Multistage live language reloading onboarding strings (about:welcome pages)
+##
+## The following language names are generated by the browser's Intl.DisplayNames API.
+##
+## Variables:
+##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
+##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
+##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
+
 onboarding-live-language-header = Изберете език
+
 onboarding-live-language-button-label-downloading = Изтегляне на { $negotiatedLanguage } езиков пакет…
 onboarding-live-language-waiting-button = Зареждане на наличните езици…
 onboarding-live-language-installing = Инсталиране на { $negotiatedLanguage } езиков пакет…
+
 onboarding-live-language-secondary-cancel-download = Отказ
 onboarding-live-language-skip-button-label = Пропускане
 
@@ -232,9 +268,37 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Закачане на { -brand-short-name } към лентата със задачи
        *[other] Закачане на { -brand-short-name } към лентата със задачи
     }
+
 fx100-upgrade-thanks-header = 100 благодарности
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Това 100-то издание на { -brand-short-name }. Благодарим <em>ви</em>, че ни помагате да изградим по-добър и по-здравословен интернет.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Това е нашето 100-тно издание! Благодарим ви, че сте част от нашата общност. Дръжте { -brand-short-name } на едно щракване разстояние за следващите 100.
+
+## MR2022 New User Pin Firefox screen strings
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+## MR2022 New User Set Default screen strings
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+## MR2022 Import Settings screen strings
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+## MR2022 Multistage Mobile Download screen strings
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+## MR2022 Privacy Segmentation screen strings
+
+## MR2022 Multistage Gratitude screen strings
+
