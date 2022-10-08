@@ -5,26 +5,34 @@
 permissions-window =
     .title = Hasarawey
     .style = width: 45em
+
 permissions-window2 =
     .title = Hasarawey
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Gagay
     .accesskey = G
+
 permissions-session =
     .label = Goywaati noo fondo
     .accesskey = G
+
 permissions-allow =
     .label = Noo fondo
     .accesskey = N
+
 permissions-status =
     .label = Assariya
+
 permissions-capabilities-allow =
     .label = Noo fondo
 permissions-capabilities-block =
     .label = Gagay
+
 permissions-capabilities-listitem-allow =
     .value = Noo fondo
 permissions-capabilities-listitem-block =
@@ -55,6 +63,7 @@ permissions-exceptions-popup-desc = War ga hin ka tabatandi Interneti nungey ka≈
 permissions-exceptions-saved-logins-window =
     .title = Hasarawey - huruyan gaabuntey
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Hasarawey - huruyan gaabuntey
     .style = { permissions-window2.style }

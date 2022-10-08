@@ -5,22 +5,30 @@
 translation-window =
     .title = Laybey - berandiyan
     .style = width: 36em
+
 translation-window2 =
     .title = Laybey - berandiyan
     .style = min-width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-column =
     .label = Šenney
+
 translation-languages-button-remove =
     .label = Šenni kaa
     .accesskey = k
+
 translation-languages-button-remove-all =
     .label = Šenney kul kaa
     .accesskey = e
+
 translation-sites-button-remove =
     .label = Nungu kaa
     .accesskey = N
+
 translation-sites-button-remove-all =
     .label = Nungey kul kaa
     .accesskey = u
+

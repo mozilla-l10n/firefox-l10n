@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Goo ma tabatiyan-tiira zumandi
     .style = width: 46em
+
 download-cert-window2 =
     .title = Goo ma tabatiyan-tiira zumandi
     .style = min-width: 46em

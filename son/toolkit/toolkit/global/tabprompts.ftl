@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Goykaw maa:
 tabmodalprompt-password =
     .value = Šennikufal:
+
 tabmodalprompt-ok-button =
     .label = Ayyo
 tabmodalprompt-cancel-button =

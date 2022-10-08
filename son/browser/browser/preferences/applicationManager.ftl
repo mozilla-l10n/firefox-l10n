@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Porogaram šilbayhayey
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Porogaram šilbayhayey
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Kaa
     .accesskey = K
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Porogaramey wey ga hin ka goy nda { $type } dobey.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Porogaramey wey ga hin ka goy nda { $type } gundekunaa.
