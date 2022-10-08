@@ -5,15 +5,19 @@
 app-manager-window =
     .title = Benn bennali jëfekaay bi
     .style = width: 30em; min-height: 20em;
+
 app-manager-window2 =
     .title = Benn bennali jëfekaay bi
     .style = min-width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Màbb
     .accesskey = M
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Jëfekaay yile mën nañu leen jëfandikoo ngir Buum yi { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Jëfekaay yile mën nañu leen jëfandikoo ngir Këmb { $type }.

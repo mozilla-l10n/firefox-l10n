@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Seet
 config-new-pref-name =
     .placeholder = Tur
+
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = String
 config-new-pref-value-integer = Integer
+
 config-new-pref-string =
     .placeholder = Enter a string
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Neenal
 config-new-pref-create-button = Sos
 config-new-pref-change-button = Soppi
+
 config-pref-toggle-button = Wëlbati
 config-pref-reset-button = Tambaliwaat
+
 config-context-menu-copy-pref-name =
     .label = Duppi Tur
 config-context-menu-copy-pref-value =

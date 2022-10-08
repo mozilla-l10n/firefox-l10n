@@ -4,36 +4,48 @@
 
 certmgr-tab-servers =
     .label = Serwëër yi
+
 certmgr-delete-cert =
     .title = Màbb benn sarsifikaa
     .style = width: 48em; height: 24em;
+
 certmgr-delete-cert2 =
     .title = Màbb benn sarsifikaa
     .style = min-width: 48em; min-height: 24em;
+
 certmgr-cert-server =
     .label = Serwëër
+
 certmgr-token-name =
     .label = Wër ndombo kaarange
+
 certmgr-email =
     .label = Màkkaanu imeel
+
 certmgr-view =
     .label = Wone…
     .accesskey = W
+
 certmgr-export =
     .label = jàllale…
     .accesskey = j
+
 certmgr-delete =
     .label = Màbb...
     .accesskey = M
+
 certmgr-backup =
     .label = Aar…
     .accesskey = A
+
 certmgr-restore =
     .label = Fat…
     .accesskey = F
+
 certmgr-add-exception =
     .label = Yokk lu kenn tëgaalewul…
     .accesskey = Y
+
 exception-mgr-cert-location-url =
     .value = Màkkaan :
 
@@ -53,6 +65,8 @@ import-email-cert-prompt = Fal ab dencukaay bu am sarsifikaa imeel bu wara fatu
 delete-user-cert-title =
     .title = Far say sarsifikaa
 delete-user-cert-confirm = Ndax bëgg dëgg far sasifikaa yii?
+
+
 delete-email-cert-title =
     .title = Màbb sarsifikaa imeel
 delete-email-cert-confirm = Ndax bëgg nga dëgg màbb sarsifikaa imeel yu nit ñii?

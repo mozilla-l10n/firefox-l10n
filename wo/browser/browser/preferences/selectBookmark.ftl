@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = Xëtu dalal jamm
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = Xëtu dalal jamm
     .style = min-width: 32em;
+
 select-bookmark-desc = Tànn mandarga xët ngir sa xëtu dalal jamm. Boo tànnee benn wayndare, mandarga xët bi ci wayndare bi dafay ubbeeku cib koñ.
