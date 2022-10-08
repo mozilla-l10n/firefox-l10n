@@ -23,6 +23,7 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-vr-process = VR ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -37,6 +38,8 @@ about-processes-unknown-process = Друго: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 
 ## Details within processes
+
+## Utility process actor names
 
 # Utility process actor names
 about-processes-utility-actor-unknown = Непознат актер

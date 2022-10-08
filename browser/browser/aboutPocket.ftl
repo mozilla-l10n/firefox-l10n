@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Додај етикети
+
 pocket-panel-saved-error-generic = Се појави грешка кога се обидов да зачувам на { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Етикетите се ограничени на 25 знаци
 pocket-panel-saved-error-only-links = Може да се зачувуваат само врски до мрежни места
@@ -26,6 +27,7 @@ pocket-panel-saved-saving-tags = Се снима…
 pocket-panel-saved-suggested-tags = Предложени етикети
 pocket-panel-saved-tags-saved = Додадени етикети
 pocket-panel-signup-view-list = Види листа
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Додај етикети:
 

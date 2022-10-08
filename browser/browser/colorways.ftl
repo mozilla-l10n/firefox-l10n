@@ -12,7 +12,11 @@ colorway-collection-independent-voices-short-description = Бои кои ја м
 ## Colorway names and descriptions
 
 expressionist-colorway-name = Експресионист
+
 visionary-colorway-name = Визионер
+
 activist-colorway-name = Активист
+
 dreamer-colorway-name = Сонувач
+
 innovator-colorway-name = Иноватор

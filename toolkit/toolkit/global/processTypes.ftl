@@ -15,6 +15,7 @@
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to decode media
 process-type-rdd = RDD
 

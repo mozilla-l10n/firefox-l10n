@@ -26,5 +26,7 @@ storage-tree-labels-cookies = Колачиња
 
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Сесија
+
 # Heading displayed over the item value in the sidebar
 storage-data = Податоци
+

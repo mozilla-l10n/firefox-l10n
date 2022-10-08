@@ -3,5 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-detail-publisher = Издавач
+
 third-party-th-process = Процес
 third-party-th-status = Статус
+

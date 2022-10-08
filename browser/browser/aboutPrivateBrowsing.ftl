@@ -20,6 +20,7 @@ about-private-browsing-handoff-text = Пребарајте со { $engine } ил
 about-private-browsing-handoff-text-no-engine = Барај или внеси адреса
 about-private-browsing-not-private = Во моментов не сте во приватен прозорец.
 about-private-browsing-learn-more-link = Дознајте повеќе
+
 about-private-browsing-focus-promo-cta = Преземете { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -31,5 +32,9 @@ about-private-browsing-focus-promo-cta = Преземете { -focus-brand-name 
 about-private-browsing-search-banner-title = { $engineName } е вашиот стандарден пребарувач во приватни прозорци
 about-private-browsing-search-banner-close-button =
     .aria-label = Затвори
+
 about-private-browsing-promo-close-button =
     .title = Затвори
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+

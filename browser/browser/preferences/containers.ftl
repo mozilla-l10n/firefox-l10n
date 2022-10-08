@@ -5,11 +5,14 @@
 containers-window-new =
     .title = Додај нов контејнер
     .style = width: 45em
+
 containers-window-new2 =
     .title = Додај нов контејнер
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -20,17 +23,22 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Име
     .accesskey = И
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Внесете име на контејнер
+
 containers-icon-label = Икона
     .accesskey = И
     .style = { -containers-labels-style }
+
 containers-color-label = Боја
     .accesskey = Б
     .style = { -containers-labels-style }
+
 containers-color-blue =
     .label = Сина
 containers-color-turquoise =
@@ -47,6 +55,7 @@ containers-color-pink =
     .label = Розова
 containers-color-purple =
     .label = Виолетова
+
 containers-icon-fingerprint =
     .label = Отпечаток
 containers-icon-briefcase =

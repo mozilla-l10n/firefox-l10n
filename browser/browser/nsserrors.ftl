@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Настана грешка при поврзување со { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Кодот на грешката: { $error }
+
 psmerr-ssl-disabled = Безбедното поврзување не е можно бидејќи SSL протоколот е оневозможен.
 psmerr-ssl2-disabled = Безбедното поврзување не е можно бидејќи страницата користи стара и небезбедна верзија на SSL протоколот.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Добивте неважечки сертификат.  Контактирајте со администраторот на серверот или одговорното лице и пренесете ги следниве информации:
     
     вашиот сертификат е со ист сериски број како друг сертификат издаден од авторитетот.  Земете нов сертификат кој има уникатен сериски број.
+
 ssl-error-export-only-server = Не може да се комуницира безбедно.  Врсникот не поддржува висока енкрипација.
 ssl-error-us-only-server = Не може да се комуницира безбедно.  Врсникот бара висока енкрипција која не е поддржана.
 ssl-error-no-cypher-overlap = Не може да се комуницира безбедно со врсникот: нема заеднички алгоритам за енкрипција.

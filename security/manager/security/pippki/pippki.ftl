@@ -8,6 +8,7 @@ password-quality-meter = Мерач на квалитетот на лозинк�
 
 change-device-password-window =
     .title = Промени лозинка
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Безбедносен уред: { $tokenName }
@@ -25,6 +26,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Преземање на сертификат
     .style = width: 46em
+
 download-cert-window2 =
     .title = Преземање на сертификат
     .style = min-width: 46em
