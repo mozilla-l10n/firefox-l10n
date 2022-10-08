@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Gyorskeresés (csak hivatkozások)
 findbar-case-sensitive-status =
     .value = (Kis- és nagybetűk megkülönböztetése)
+findbar-entire-word-status =
+    .value = (Csak teljes szavak)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
