@@ -49,3 +49,7 @@ findbar-entire-word-status =
 #   $total (Number): Total count of matches
 findbar-found-matches =
     .value = 第 { $current } 项，共找到 { $total } 个匹配项
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value = 匹配超过 { $limit } 项
