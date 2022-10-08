@@ -44,3 +44,8 @@ findbar-case-sensitive-status =
     .value = （区分大小写）
 findbar-entire-word-status =
     .value = （仅匹配整个词或句）
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value = 第 { $current } 项，共找到 { $total } 个匹配项
