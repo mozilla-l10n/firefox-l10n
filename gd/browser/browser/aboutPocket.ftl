@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Cuir tagaichean ris
+
 pocket-panel-saved-error-generic = Thachair mearachd nuair a dh’fheuch sinn ri rud a shàbhaladh ann am { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Chan fhaod taga a bhith nas fhaide na 25 caractar
 pocket-panel-saved-error-only-links = Cha ghabh ach ceanglaichean a shàbhaladh
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = ’Ga shàbhaladh…
 pocket-panel-saved-suggested-tags = Tagaichean a mholar
 pocket-panel-saved-tags-saved = Tagaichean air an cur ris
 pocket-panel-signup-view-list = Seall an liosta
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Cuir tagaichean ris:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = Clàraich le { -brand-product-name }
 pocket-panel-signup-tagline = Sàbhail artaigilean is videothan o { -brand-product-name } ann am { -pocket-brand-name } agus coimhead orra air uidheam sam bith, uair sam bith.
 pocket-panel-signup-tagline-story-one = Briog air a’ phutan { -pocket-brand-name } gus artaigeal, video no duilleag a shàbhaladh o { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Seall ann am { -pocket-brand-name } air uidheam sam bith, uair sam bith.
+
 pocket-panel-signup-cta-a-fix = Am putan sàbhalaidh agad airson an eadar-lìn
 pocket-panel-signup-cta-b = Briog air putan { -pocket-brand-name } airson artaigealan, videothan is ceanglaichean a shàbhaladh is faic an liosta agad air uidheam sam bith, uair sam bith.
 pocket-panel-signup-cta-b-short = Briog air putan { -pocket-brand-name } airson artaigealan, videothan is ceanglaichean a shàbhaladh.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = ’S urrainn dhut { -pocket-brand-name } a chleach
 pocket-panel-home-explore-popular-topics = Rùraich sna cuspairean fèillmhor
 pocket-panel-home-discover-more = Fidir barrachd
 pocket-panel-home-explore-more = Rùraich
+
 pocket-panel-home-most-recent-saves = Seo na shàbhail thu o chionn goirid:
 pocket-panel-home-most-recent-saves-loading = A’ luchdadh na shàbhail thu o chionn goirid…
 pocket-panel-home-new-user-cta = Briog air putan { -pocket-brand-name } airson artaigealan, videothan is ceanglaichean a shàbhaladh.

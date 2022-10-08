@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Gleus a mholamaid
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Carson a tha mi a’ faicinn seo?
+
 cfr-doorhanger-extension-cancel-button = Chan ann an-dràsta
     .accesskey = d
+
 cfr-doorhanger-extension-ok-button = Cuir ris an-dràsta
     .accesskey = C
+
 cfr-doorhanger-extension-manage-settings-button = Stiùirich roghainnean nam molaidhean
     .accesskey = m
+
 cfr-doorhanger-extension-never-show-recommendation = Na seall am moladh seo dhomh
     .accesskey = s
+
 cfr-doorhanger-extension-learn-more-link = Barrachd fiosrachaidh
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = le { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Moladh
 cfr-doorhanger-extension-notification2 = Moladh
     .tooltiptext = Leudachan a mholamaid
     .a11y-announcement = Tha moladh leudachain ann
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Moladh
@@ -81,9 +89,11 @@ cfr-protections-panel-link-text = Barrachd fiosrachaidh
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gleus ùr:
+
 cfr-whatsnew-button =
     .label = Na tha ùr
     .tooltiptext = Na tha ùr
+
 cfr-whatsnew-release-notes-link-text = Leugh na nòtaichean sgaoilidh
 
 ## Enhanced Tracking Protection Milestones
@@ -160,6 +170,7 @@ spotlight-total-cookie-protection-body = Cuiridh làn-dìon o bhriosgaidean stad
 spotlight-total-cookie-protection-expanded = Togaidh { -brand-short-name } feansa mun cuairt air na briosgaidean airson ’s nach obraich iad ach air an làrach air a bheil thu agus cuiridh sin bacadh air na tracaichean o bhith gad leantainn. Le bhith a’ cur a’ ghleus seo fo dheuchainn tràth, cuiridh tu ri obair-leasachaidh a’ ghleus seo ach an tog sinn lìon nas fheàrr dhan a h-uile duine.
 spotlight-total-cookie-protection-primary-button = Cuir an làn-dìon o bhriosgaidean air
 spotlight-total-cookie-protection-secondary-button = Chan ann an-dràsta
+
 cfr-total-cookie-protection-header = Taing dhut-sa, tha { -brand-short-name } nas prìobhaidiche agus nas tèarainte na bha e a-riamh roimhe
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -177,3 +188,21 @@ spotlight-pin-primary-button =
        *[other] Prìnich ri bàr nan saothair
     }
 spotlight-pin-secondary-button = Chan ann an-dràsta
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+## Firefox View CFR
+
+## Firefox View Spotlight
+

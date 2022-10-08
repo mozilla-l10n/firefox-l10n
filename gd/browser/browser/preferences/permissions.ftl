@@ -5,62 +5,81 @@
 permissions-window =
     .title = Eisgeachdan
     .style = width: 49em
+
 permissions-window2 =
     .title = Eisgeachdan
     .style = min-width: 49em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Seòladh na làraich-lìn
     .accesskey = d
+
 permissions-block =
     .label = Cuir bacadh air
     .accesskey = b
+
 permissions-session =
     .label = Ceadaich fad an t-seisein
     .accesskey = s
+
 permissions-allow =
     .label = Ceadaich
     .accesskey = a
+
 permissions-button-off =
     .label = Cuir dheth
     .accesskey = d
+
 permissions-button-off-temporarily =
     .label = Cuir dheth rè seal
     .accesskey = t
+
 permissions-site-name =
     .label = Làrach-lìn
+
 permissions-status =
     .label = Staid
+
 permissions-remove =
     .label = Thoir an làrach-lìn air falbh
     .accesskey = r
+
 permissions-remove-all =
     .label = Thoir air falbh a h-uile làrach-lìn
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Sàbhail na h-atharraichean
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Bun-roghainn dhan a h-uile làrach-lìn:
+
 permissions-searchbox =
     .placeholder = Lorg air an làrach-lìn
+
 permissions-capabilities-autoplay-allow =
     .label = Ceadaich fuaim is video
 permissions-capabilities-autoplay-block =
     .label = Bac fuaim
 permissions-capabilities-autoplay-blockall =
     .label = Bac fuaimean is videothan
+
 permissions-capabilities-allow =
     .label = Ceadaich
 permissions-capabilities-block =
     .label = Cuir bacadh air
 permissions-capabilities-prompt =
     .label = Faighnich dhìom an-còmhnaidh
+
 permissions-capabilities-listitem-allow =
     .value = Ceadaich
 permissions-capabilities-listitem-block =
     .value = Cuir bacadh air
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaich fad an t-seisein
+
 permissions-capabilities-listitem-off =
     .value = Dheth
 permissions-capabilities-listitem-off-temporarily =
@@ -76,6 +95,7 @@ permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
 permissions-exceptions-etp-window =
     .title = Eisgeachdan air an dìon adhartach o thracadh
     .style = { permissions-window.style }
+
 permissions-exceptions-etp-window2 =
     .title = Eisgeachdan air an dìon adhartach o thracadh
     .style = { permissions-window2.style }
@@ -86,6 +106,7 @@ permissions-exceptions-etp-desc = Chuir thu dheth an dìon air na làraichean-l�
 permissions-exceptions-cookie-window =
     .title = Eisgeachdan - Briosgaidean is dàta làraichean
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Eisgeachdan - Briosgaidean is dàta làraichean
     .style = { permissions-window2.style }
@@ -96,6 +117,7 @@ permissions-exceptions-cookie-desc = ’S urrainn dhut sònrachadh dè na làrai
 permissions-exceptions-https-only-window =
     .title = Eisgeachdan – Modh HTTPS a-mhàin
     .style = { permissions-window.style }
+
 permissions-exceptions-https-only-window2 =
     .title = Eisgeachdan – Modh HTTPS a-mhàin
     .style = { permissions-window2.style }
@@ -106,6 +128,7 @@ permissions-exceptions-https-only-desc = ’S urrainn dhut am modh HTTPS a-mhài
 permissions-exceptions-popup-window =
     .title = Làraichean-lìn le cead - Priob-uinneagan
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Làraichean-lìn le cead - Priob-uinneagan
     .style = { permissions-window2.style }
@@ -116,6 +139,7 @@ permissions-exceptions-popup-desc = 'S urrainn dhut sònrachadh dè na làraiche
 permissions-exceptions-saved-logins-window =
     .title = Eisgeachdan – Clàraidhean a-steach sàbhailte
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Eisgeachdan – Clàraidhean a-steach sàbhailte
     .style = { permissions-window2.style }
@@ -126,6 +150,7 @@ permissions-exceptions-saved-logins-desc = Cha dèid clàraidhean a-steach air n
 permissions-exceptions-addons-window =
     .title = Làraichean-lìn le cead - Stàladh thuilleadan
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Làraichean-lìn le cead - Stàladh thuilleadan
     .style = { permissions-window2.style }
@@ -136,6 +161,7 @@ permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraich
 permissions-site-autoplay-window =
     .title = Roghainnean – Fèin-chluich
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = Roghainnean – Fèin-chluich
     .style = { permissions-window2.style }
@@ -146,6 +172,7 @@ permissions-site-autoplay-desc = ’S urrainn dhut na làraichean nach cleachd n
 permissions-site-notification-window =
     .title = Roghainnean – Cead brathan a chur
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Roghainnean – Cead brathan a chur
     .style = { permissions-window2.style }
@@ -159,6 +186,7 @@ permissions-site-notification-disable-desc = Cumaidh seo làrach-lìn sam bith n
 permissions-site-location-window =
     .title = Roghainnean – Cead air d’ ionaid
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Roghainnean – Cead air d’ ionaid
     .style = { permissions-window2.style }
@@ -172,6 +200,7 @@ permissions-site-location-disable-desc = Cumaidh seo làrach-lìn sam bith nach 
 permissions-site-xr-window =
     .title = Roghainnean – Ceadan na fìorachd bhiortail
     .style = { permissions-window.style }
+
 permissions-site-xr-window2 =
     .title = Roghainnean – Ceadan na fìorachd bhiortail
     .style = { permissions-window2.style }
@@ -185,6 +214,7 @@ permissions-site-xr-disable-desc = Cumaidh seo làrach-lìn sam bith nach eil ai
 permissions-site-camera-window =
     .title = Roghainnean – Cead air a’ chamara
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Roghainnean – Cead air a’ chamara
     .style = { permissions-window2.style }
@@ -198,6 +228,7 @@ permissions-site-camera-disable-desc = Cumaidh seo làrach-lìn sam bith nach ei
 permissions-site-microphone-window =
     .title = Roghainnean – Cead air a’ mhicreofon
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Roghainnean – Cead air a’ mhicreofon
     .style = { permissions-window2.style }

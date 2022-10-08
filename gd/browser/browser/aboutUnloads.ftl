@@ -17,15 +17,18 @@ about-unloads-intro =
     feum air sin. ’S urrainn dhut dì-luchdadh thabaichean a chur gu dol
     thu fhèin le bhith a’ briogadh air a’ phutan <em>Dì-luchdaich</em>
     gu h-ìosal.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Faic <a data-l10n-name="doc-link">Dì-luchdadh thabaichean</a> airson barrachd
     fiosrachaidh mun ghelus is mun duilleag seo.
+
 about-unloads-last-updated = An t-ùrachadh mu dheireadh: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Dì-luchdaich
     .title = Dì-luchdaich an taba leis a’ phrìomhachas as àirde
 about-unloads-no-unloadable-tab = Chan eil taba sam bith ann a ghabhas a dhì-luchdadh.
+
 about-unloads-column-priority = Prìomhachas
 about-unloads-column-host = Òstair
 about-unloads-column-last-accessed = An t-inntrigeadh mu dheireadh
@@ -37,6 +40,7 @@ about-unloads-column-memory = Cuimhne
     .title = Tuairmeas air a’ chuimhne a chaitheas an taba
 about-unloads-column-processes = IDs nam pròiseasan
     .title = IDs nam pròiseasan a tha ag òstaireachd susbaint an taba
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) }MB
 about-unloads-memory-in-mb-tooltip =
