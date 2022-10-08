@@ -5,6 +5,10 @@
 
 ## Subframe crash notification
 
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Sebagian dari laman ini mogok. Untuk memberi tahu { -brand-product-name } tentang masalah ini dan memperbaikinya lebih cepat, harap kirimkan laporan.
 
 ## Pending crash reports
 
