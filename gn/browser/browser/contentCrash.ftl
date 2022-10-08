@@ -5,9 +5,26 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Peteĩva kuatiarogue pehẽ ndokói.</strong> Oikuaa hag̃ua { -brand-product-name } ko apañuãi ha omoĩporã pya’e hag̃ua, ikatúpa emondo marandu’i.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Peteĩva kuatiarogue pehẽ ndokói. Oikuaa hag̃ua { -brand-product-name } ko apañuãi ha omoĩporã pya’e, ikatúpa emondo marandu’i.
+crashed-subframe-learnmore-link =
+    .value = Kuaave
+crashed-subframe-submit =
+    .label = Emondo Marandu
+    .accesskey = S
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] Eguereko peteĩ marandu jokopyre emondo’ỹva
+       *[other] Eguereko { $reportCount } marandu jokopyre emondo’ỹva
+    }
 pending-crash-reports-view-all =
     .label = Hecha
 pending-crash-reports-send =
