@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Bilaketa azkarra (loturak soilik)
 findbar-case-sensitive-status =
     .value = (Maiuskula/minuskula errespetatuz)
+findbar-entire-word-status =
+    .value = (Hitz osoak soilik)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
