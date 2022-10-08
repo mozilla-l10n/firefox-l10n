@@ -40,6 +40,7 @@ neterror-load-error-firewall = Si votre ordinateur ou votre réseau est protég�
 neterror-captive-portal = Ce réseau nécessite que vous vous connectiez à un compte pour utiliser Internet.
 neterror-dns-not-found-hint-header = <strong>Si l’adresse saisie était correcte, vous pouvez :</strong>
 neterror-dns-not-found-hint-try-again = Réessayer plus tard
+neterror-dns-not-found-hint-check-network = Veuillez vérifier votre connexion réseau
 neterror-file-not-found-filename = Vérifiez la syntaxe du nom de fichier (dont le respect des minuscules/majuscules) ;
 neterror-file-not-found-moved = Vérifiez si le fichier n’a pas été déplacé, renommé ou supprimé.
 neterror-access-denied = Il a peut-être été supprimé, déplacé ou les permissions associées au fichier ne permettent pas d’y accéder.
