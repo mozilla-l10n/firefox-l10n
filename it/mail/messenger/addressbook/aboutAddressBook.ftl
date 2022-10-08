@@ -21,11 +21,13 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Tutte le rubriche
 all-address-books = Tutte le rubriche
 about-addressbook-books-context-properties =
     .label = Proprietà
 about-addressbook-books-context-edit-list =
-    .label = Modifica elenco
+    .label = Modifica lista
 about-addressbook-books-context-synchronize =
     .label = Sincronizza
 about-addressbook-books-context-edit =
@@ -58,7 +60,7 @@ about-addressbook-search =
 about-addressbook-search-all =
     .placeholder = Cerca in tutte le rubriche
 about-addressbook-sort-button2 =
-    .title = Opzioni visualizzazione elenco
+    .title = Opzioni visualizzazione lista
 about-addressbook-name-format-display =
     .label = Nome visualizzato
 about-addressbook-name-format-firstlast =
@@ -87,6 +89,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = Indirizzi email
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Soprannome
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Numeri di telefono
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -169,10 +174,17 @@ about-addressbook-placeholder-no-search-results = Nessun contatto trovato
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } contatti selezionati
+about-addressbook-details-edit-photo =
+    .title = Modifica foto contatto
+about-addressbook-new-contact-header = Nuovo contatto
 about-addressbook-prefer-display-name = Preferisci il nome visualizzato all’intestazione del messaggio
 about-addressbook-write-action-button = Scrivi
 about-addressbook-event-action-button = Evento
 about-addressbook-search-action-button = Cerca
+about-addressbook-new-list-action-button = Nuova lista
 about-addressbook-begin-edit-contact-button = Modifica
 about-addressbook-delete-edit-contact-button = Elimina
 about-addressbook-cancel-edit-contact-button = Annulla
@@ -183,6 +195,7 @@ about-addressbook-details-phone-numbers-header = Numeri di telefono
 about-addressbook-details-addresses-header = Indirizzi
 about-addressbook-details-notes-header = Note
 about-addressbook-details-impp-header = Messaggistica istantanea
+about-addressbook-details-websites-header = Siti web
 about-addressbook-details-other-info-header = Altre informazioni
 about-addressbook-entry-type-work = Lavoro
 about-addressbook-entry-type-home = Casa
@@ -197,6 +210,10 @@ about-addressbook-entry-name-role = Ruolo
 about-addressbook-entry-name-organization = Organizzazione
 about-addressbook-entry-name-website = Sito web
 about-addressbook-entry-name-time-zone = Fuso orario
+about-addressbook-entry-name-custom1 = Personalizzato 1
+about-addressbook-entry-name-custom2 = Personalizzato 2
+about-addressbook-entry-name-custom3 = Personalizzato 3
+about-addressbook-entry-name-custom4 = Personalizzato 4
 about-addressbook-unsaved-changes-prompt-title = Modifiche non salvate
 about-addressbook-unsaved-changes-prompt = Salvare le modifiche prima di uscire dalla modalità di modifica?
 
