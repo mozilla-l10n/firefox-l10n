@@ -2,152 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title "Incwadi yeemphande">
 <!-- File Menu -->
-
-<!ENTITY fileMenu.label "Ifayili">
-<!ENTITY fileMenu.accesskey "i">
-<!ENTITY newMenu.label "Etja">
-<!ENTITY newMenu.accesskey "E">
-<!ENTITY newListCmd.label "Irhelo lokuposa...">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newListCmd.accesskey "L">
-<!ENTITY newAddressBookCmd.label "Isiphandeincwadi...">
-<!ENTITY newAddressBookCmd.accesskey "I">
-<!ENTITY newLDAPDirectoryCmd.label "Irherho le LDAP...">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newLDAPDirectoryCmd.accesskey "D">
-<!ENTITY newMessageCmd.label "Umlayezo">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.accesskey "u">
-<!ENTITY closeCmd.label "Vala">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "v">
-<!ENTITY printAddressBook.label "Gadangisa incwadi yeemphande...">
-<!ENTITY printAddressBook.accesskey "G">
 
 <!-- Edit Menu -->
 
-<!ENTITY editMenu.label "Lungisa">
-<!ENTITY editMenu.accesskey "l">
-<!ENTITY deleteCmd.label "Sula">
-<!ENTITY deleteAbCmd.label "Sula incwadi yamakheli">
-<!ENTITY searchAddressesCmd.key "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
-<!ENTITY viewMenu.label "Bona">
-<!ENTITY viewMenu.accesskey "b">
-<!ENTITY viewToolbarsMenu.label "Isivalo samathulusi">
-<!ENTITY viewToolbarsMenu.accesskey "I">
-<!ENTITY showAbToolbarCmd.label "Isiphande isivalo samathulusu wencwadi">
-<!ENTITY showAbToolbarCmd.accesskey "i">
-<!ENTITY showTaskbarCmd.label "Isivalo sezinga">
-<!ENTITY showTaskbarCmd.accesskey "I">
-<!ENTITY customizeToolbar.label "Jayezisa...">
-<!ENTITY customizeToolbar.accesskey "J">
-<!ENTITY menu_ShowNameAs.label "Bonisa Thiya njenga">
-<!ENTITY menu_ShowNameAs.accesskey "t">
-<!ENTITY lastFirstCmd.label "Kokugcina, Kokuthoma">
-<!ENTITY lastFirstCmd.accesskey "k">
-<!ENTITY displayNameCmd.label "Tjengisa ibizo">
-<!ENTITY displayNameCmd.accesskey "t">
-<!ENTITY sortMenu.label "Hlela ngokwe">
-<!ENTITY sortMenu.accesskey "H">
 <!-- Tools Menu -->
 
-<!ENTITY tasksMenu.label "Amathulusi">
-<!ENTITY tasksMenu.accesskey "A">
-<!ENTITY messengerCmd.label "Iposo &amp; Iinchema zeendaba">
-<!ENTITY messengerCmd.accesskey "i">
-<!ENTITY messengerCmd.commandkey "1">
-<!ENTITY searchAddressesCmd.label "Rhubhulula iimphande...">
-<!ENTITY searchAddressesCmd.accesskey "R">
-<!ENTITY importCmd.label "Letha ngaphakathi...">
-<!ENTITY importCmd.accesskey "L">
-<!ENTITY exportCmd.label "Khiphela ngaphandle...">
-<!ENTITY exportCmd.accesskey "K">
 <!-- Help Menu -->
 
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newlistButton.label "Irhelo Elitjha">
-<!ENTITY newlistButton.accesskey "I">
-
-<!ENTITY newmsgButton.label "Tlola">
-<!ENTITY newmsgButton.accesskey "T">
-<!ENTITY newIM.label "Umlayezo orhabileko">
-<!ENTITY newIM.accesskey "U">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newlistButton.tooltip "Yenza irhelo elitjha">
-<!ENTITY newmsgButton.tooltip "Thumela umlayezo e I-meyili">
-<!ENTITY newIM.tooltip "Thumela umlayezo orhabileko namkha ucocisane">
 <!-- Dir Tree header -->
 
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Ibizo namkha I-Imeyili">
-<!ENTITY SearchNameOrEmail.accesskey "I">
-<!ENTITY advancedButton.tooltip "Irhubhululo elingaphezulu ngezinga">
-<!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchItem.title "Quick Search">
 <!-- Results Pane -->
 
 <!ENTITY GeneratedName.label "Ibizo">
-<!ENTITY GeneratedName.accesskey "I">
 <!ENTITY PrimaryEmail.label "I-Imeyili">
-<!ENTITY PrimaryEmail.accesskey "I">
-<!ENTITY Company.label "Ihlangano">
-<!ENTITY Company.accesskey "i">
-<!ENTITY NickName.label "Igama lokudlala">
-<!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "I-Imeyili Engezelelweko">
-<!ENTITY SecondEmail.accesskey "e">
-<!ENTITY Department.label "Umnyango">
-<!ENTITY Department.accesskey "u">
-<!ENTITY JobTitle.label "Isikhundla">
-<!ENTITY JobTitle.accesskey "I">
-<!ENTITY CellularNumber.label "Umrhala">
-<!ENTITY CellularNumber.accesskey "U">
-<!ENTITY PagerNumber.label "Ipheyija">
-<!ENTITY PagerNumber.accesskey "I">
-<!ENTITY FaxNumber.label "Ifeksi">
-<!ENTITY FaxNumber.accesskey "I">
-<!ENTITY HomePhone.label "Umrhala wekhaya">
-<!ENTITY HomePhone.accesskey "U">
-<!ENTITY WorkPhone.label "Umrhala wemsebenzini">
-<!ENTITY WorkPhone.accesskey "U">
-<!ENTITY sortAscending.label "Khuphukela">
-<!ENTITY sortAscending.accesskey "K">
-<!ENTITY sortDescending.label "Yehlela">
-<!ENTITY sortDescending.accesskey "Y">
-<!ENTITY _PhoneticName.label "Ibizo lefunetiki">
-<!ENTITY _PhoneticName.accesskey "i">
 <!-- Results pane context menu -->
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
-<!ENTITY contact.heading "Thintana">
-<!ENTITY home.heading "Ikhaya">
-<!ENTITY other.heading "Okunye">
-<!ENTITY phone.heading "Umrhala">
-<!ENTITY work.heading "Umsebenzi">
-<!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "Ihlathululo">
-<!ENTITY addresses.heading "Iimphande">
-<!-- For Map It! -->
-<!ENTITY mapItButton.label "Thola umebhe">
-<!ENTITY mapIt.tooltip "Tjengisa umebhe lesisphande kuWebhu">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label "">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY windowMenu.label "Ifasidere">
-<!ENTITY minimizeWindow.label "Nciphisa">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Letha Koke Phambili">
-<!ENTITY zoomWindow.label "Khulisa">
