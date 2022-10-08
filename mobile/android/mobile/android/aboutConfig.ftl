@@ -4,4 +4,6 @@
 
 config-new-pref-name =
     .placeholder = Leina
+
 config-new-pref-cancel-button = Khansela
+
