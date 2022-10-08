@@ -9,16 +9,22 @@ findbar-next =
     .tooltiptext = Iboradagi keyingi hodisani topish
 findbar-previous =
     .tooltiptext = Iboradagi oldingi hodisani topish
-
 findbar-find-button-close =
     .tooltiptext = Topish panelini yopish
-
 findbar-case-sensitive =
     .label = Katta-kichik harflarni farqlash
     .accesskey = c
     .tooltiptext = Harflar katta-kichikligini farqlab izlash
-
 findbar-entire-word =
     .label = To‘liq so‘zlar
     .accesskey = B
     .tooltiptext = Faqat butun so‘zlar izlansin
+findbar-not-found = Ibora topilmadi
+findbar-wrapped-to-top = Sahifaning oxiriga kelib qoldi, yuqoridan davom ettiriladi
+findbar-wrapped-to-bottom = Sahifaning boshiga kelib qoldi, yuqoridan davom ettiriladi
+findbar-normal-find =
+    .placeholder = Sahifadan topish
+findbar-fast-find =
+    .placeholder = Tez topish
+findbar-fast-find-links =
+    .placeholder = Tez topish (faqat linklar)
