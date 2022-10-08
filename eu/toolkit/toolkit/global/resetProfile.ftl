@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Hasi hutsetik errendimendu-arazoak konpontz
 refresh-profile = Optimizatu { -brand-short-name }
 refresh-profile-button = Biziberritu { -brand-short-name }…
 refresh-profile-learn-more = Argibide gehiago
+
 refresh-profile-progress =
     .title = Biziberritu { -brand-short-name }
 refresh-profile-progress-description = Ia eginda…

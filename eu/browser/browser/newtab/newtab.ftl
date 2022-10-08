@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Bilatu
     .aria-label = Bilatu
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Bilatu { $engine } erabiliz edo idatzi helbidea
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Bilatu edo idatzi helbidea
     .title = Bilatu edo idatzi helbidea
     .aria-label = Bilatu edo idatzi helbidea
+
 newtab-search-box-text = Bilatu webean
 newtab-search-box-input =
     .placeholder = Bilatu webean
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Editatu lasterbidea
 newtab-topsites-title-label = Izenburua
 newtab-topsites-title-input =
     .placeholder = Idatzi izenburua
+
 newtab-topsites-url-label = URLa
 newtab-topsites-url-input =
     .placeholder = Idatzi edo itsatsi URLa
 newtab-topsites-url-validation = Baliozko URLa behar da
+
 newtab-topsites-image-url-label = Irudi pertsonalizatuaren URLa
 newtab-topsites-use-image-link = Erabili irudi pertsonalizatua…
 newtab-topsites-image-validation = Ezin da irudia kargatu. Saiatu beste URL batekin.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Babesleak hornituta
 newtab-menu-section-tooltip =
     .title = Ireki menua
     .aria-label = Ireki menua
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kendu
     .aria-label = Kendu
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -155,14 +161,17 @@ newtab-label-removed-bookmark = Laster-marka kenduta
 newtab-label-recommended = Joerak
 newtab-label-saved = { -pocket-brand-name }-en gordeta
 newtab-label-download = Deskargatuta
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource }(e)k lagundua
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Babeslea: { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -201,6 +210,7 @@ newtab-section-header-pocket = { $provider } hornitzaileak gomendatuta
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Hasi nabigatzen eta azkenaldian bisitatutako edo laster-marka egindako aparteko artikulu, bideo eta orriak erakutsiko ditugu.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -225,9 +235,11 @@ newtab-pocket-learn-more = Argibide gehiago
 newtab-pocket-cta-button = Eskuratu { -pocket-brand-name }
 newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-en eta piztu zure gogoa irakurgai erakargarriekin.
 newtab-pocket-pocket-firefox-family = { -brand-product-name }(r)en familiakoa da { -pocket-brand-name }
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Gorde { -pocket-brand-name }-en
 newtab-pocket-saved-to-pocket = { -pocket-brand-name }-en gordeta
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Kargatu istorio gehiago
 
@@ -238,6 +250,7 @@ newtab-pocket-last-card-title = Egunean zaude!
 newtab-pocket-last-card-desc = Itzuli geroago gehiago aurkitzeko.
 newtab-pocket-last-card-image =
     .alt = Egunean zaude!
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Gorde
 newtab-pocket-saved = Gordeta

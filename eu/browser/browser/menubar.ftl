@@ -38,9 +38,11 @@ menu-quit =
             [windows] I
            *[other] I
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Irten { -brand-shorter-name }(e)tik
+
 menu-about =
     .label = { -brand-shorter-name }(r)i buruz
     .accesskey = b

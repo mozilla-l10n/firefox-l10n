@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name } eguneraketa deskargatzen
+
 appmenuitem-banner-update-available =
     .label = Eguneraketa erabilgarri — deskargatu orain
+
 appmenuitem-banner-update-manual =
     .label = Eguneraketa erabilgarri — deskargatu orain
+
 appmenuitem-banner-update-unsupported =
     .label = Ezin da eguneratu — sistema bateragaitza
+
 appmenuitem-banner-update-restart =
     .label = Eguneraketa erabilgarri — berrabiarazi orain
+
 appmenuitem-new-tab =
     .label = Fitxa berria
 appmenuitem-new-window =
@@ -51,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Itxi aplikazio-menua
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -71,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Hasi saioa sinkronizatzeko…
 appmenu-remote-tabs-turn-on-sync =
     .label = Gaitu sinkronizazioa…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Erakutsi fitxa gehiago
     .tooltiptext = Erakutsi gailu honetako fitxa gehiago
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Irekitako fitxarik ez
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.
+
 appmenu-remote-tabs-opensettings =
     .label = Ezarpenak
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Beste gailuetako zure fitxak hemen ikusi nahi dituzu?
+
 appmenu-remote-tabs-connectdevice =
     .label = Konektatu beste gailu bat
 appmenu-remote-tabs-welcome = Ikusi zure beste gailuetako fitxen zerrenda.
 appmenu-remote-tabs-unverified = Zure kontua egiaztatu egin behar da.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronizatu orain
 appmenuitem-fxa-sign-in = Hasi saioa { -brand-product-name }(e)n
 appmenuitem-fxa-manage-account = Kudeatu kontua
@@ -101,12 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Sinkronizatu eta gorde datuak
 appmenu-fxa-signed-in-label = Hasi saioa
 appmenu-fxa-setup-sync =
     .label = Gaitu sinkronizazioa…
+
 appmenuitem-save-page =
     .label = Gorde orria honela…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nobedadeak
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -120,38 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profil sortzailea
     .tooltiptext = Grabatu errendimenduaren profila
+
 profiler-popup-button-recording =
     .label = Profil sortzailea
     .tooltiptext = Profil sortzailea profila grabatzen ari da
+
 profiler-popup-button-capturing =
     .label = Profil sortzailea
     .tooltiptext = Profil sortzailea profila kapturatzen ari da
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Agerrarazi informazio gehiago
+
 profiler-popup-description-title =
     .value = Grabatu, analizatu, partekatu
+
 profiler-popup-description = Elkarrekin lan egin errendimenduaren gaineko arazoetan, zure taldearekin partekatzeko profilak argitaratuz.
+
 profiler-popup-learn-more-button =
     .label = Argibide gehiago
+
 profiler-popup-settings =
     .value = Ezarpenak
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Editatu ezarpenak…
+
 profiler-popup-recording-screen = Grabatzen…
+
 profiler-popup-start-recording-button =
     .label = Hasi grabatzen
+
 profiler-popup-discard-button =
     .label = Baztertu
+
 profiler-popup-capture-button =
     .label = Kapturatu
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -169,22 +199,28 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Web aplikazio gehienen arazketarako gomendatutako aurrezarpena, eragin negatibo txikiarekin.
 profiler-popup-presets-web-developer-label =
     .label = Web garapena
+
 profiler-popup-presets-firefox-description = { -brand-shorter-name }(r)en profila egiteko gomendatutako aurrezarpena.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = { -brand-shorter-name }(r)en programa-errore grafikoak ikertzeko aurrezarpena.
 profiler-popup-presets-graphics-label =
     .label = Grafikoak
+
 profiler-popup-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
 profiler-popup-presets-media-label =
     .label = Multimedia
+
 profiler-popup-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
 profiler-popup-presets-networking-label =
     .label = Sarea
+
 profiler-popup-presets-power-description = { -brand-shorter-name }(r)en energia-erabilpenaren arazoak ikertzeko aurrezarpena, eragin negatibo txikiarekin.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+
 profiler-popup-presets-custom-label =
     .label = Pertsonalizatua
 
@@ -247,6 +283,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Pertsonalizatu tresna-barra…
+
 appmenu-developer-tools-subheader = Nabigatzailearen tresnak
 appmenu-developer-tools-extensions =
     .label = Garatzaileentzako hedapenak

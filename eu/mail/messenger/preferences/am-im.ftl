@@ -4,8 +4,10 @@
 
 account-settings-title = Autentifikazio ezarpenak
 account-channel-title = Kanal lehenetsiak
+
 chat-autologin =
     .label = Hasi saioa abioan
+
 chat-encryption-generic = Orokorra
 chat-encryption-log =
     .label = Gehitu muturretik muturrera zifratutako mezuak elkarrizketen egunkarian

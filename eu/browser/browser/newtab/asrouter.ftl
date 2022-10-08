@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Gomendatutako eginbidea
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zergatik ari naizen hau ikusten
+
 cfr-doorhanger-extension-cancel-button = Une honetan ez
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Gehitu orain
     .accesskey = G
+
 cfr-doorhanger-extension-manage-settings-button = Kudeatu gomendioen ezarpenak
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Ez erakutsi gomendio hau
     .accesskey = z
+
 cfr-doorhanger-extension-learn-more-link = Argibide gehiago
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = egilea: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Gomendioa
 cfr-doorhanger-extension-notification2 = Gomendioa
     .tooltiptext = Hedapenaren gomendioa
     .a11y-announcement = Hedapenaren gomendioa erabilgarri dago
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Gomendioa
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Argibide gehiago
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Eginbide berria:
+
 cfr-whatsnew-button =
     .label = Nobedadeak
     .tooltiptext = Nobedadeak
+
 cfr-whatsnew-release-notes-link-text = Irakurri bertsio-oharrak
 
 ## Enhanced Tracking Protection Milestones
@@ -155,6 +165,7 @@ spotlight-total-cookie-protection-body = Cookien erabateko babesarekin jarraipen
 spotlight-total-cookie-protection-expanded = { -brand-short-name }(e)k hesi bat sortzen du cookien inguruan eta zauden gunera mugatzen ditu, hauek zure jarraipena egiteko erabiltzea galarazteko. Sarbide esklusiboarekin, eginbide hau optimizatzen lagunduko duzu, guztiontzat hobea den weba eraikitzen jarraitzeko.
 spotlight-total-cookie-protection-primary-button = Gaitu cookien erabateko babesa
 spotlight-total-cookie-protection-secondary-button = Orain ez
+
 cfr-total-cookie-protection-header = Zuri eskerrak, { -brand-short-name } inoiz baino pribatu eta seguruagoa da
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -172,3 +183,21 @@ spotlight-pin-primary-button =
        *[other] Ainguratu ataza-barran
     }
 spotlight-pin-secondary-button = Une honetan ez
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+## Firefox View CFR
+
+## Firefox View Spotlight
+

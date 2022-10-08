@@ -4,9 +4,11 @@
 
 notification-learnmore-default-label =
     .value = Argibide gehiago
+
 # This label is read by screen readers when focusing the close button for an
 # "infobar" (message shown when for example a popup is blocked).
 close-button-label =
     .aria-label = Itxi
+
 close-notification-message =
     .tooltiptext = Itxi mezu hau
