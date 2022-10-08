@@ -104,7 +104,14 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Калі вы 
 certerror-expired-cert-what-can-you-do-about-it-clock = Гадзіннік вашага камп'ютара настаўлены на { DATETIME($now, dateStyle: "medium") }. Упэўніцеся, што на вашым камп'ютары ў наладках выстаўлены правільная дата, час і часавы пояс, пасля абнавіце <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Калі ваш гадзіннік ідзе правільна, імаверна, вэб-сайт сканфігураваны няправільна, і вам не ўдасца гэта паправіць. Вы можаце паведаміць адміністратару сайта аб праблеме.
 certerror-bad-cert-domain-what-can-you-do-about-it = Хутчэй за ўсё, праблема звязана з вэб-сайтам, і вам не ўдасца гэта паправіць. Вы можаце паведаміць адміністратару сайта аб праблеме..
+certerror-mitm-what-can-you-do-about-it-antivirus = Калі ваш антывірус мае функцыю сканавання зашыфраваных злучэнняў (звычайна называецца «вэб-сканаванне» або «https -сканаванне»), вы можаце адключыць гэту функцыю. Калі гэта не працуе, вы можаце выдаліць і пераўсталяваць антывіруснае праграмнае забеспячэнне.
 certerror-mitm-what-can-you-do-about-it-corporate = Калі вы ў карпаратыўнай сетцы, можаце звярнуцца ў аддзел ІТ.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Калі вы не знаёмыя з <b>{ $mitm }</b>, гэта можа быць нападзенне, і вам не варта пераходзіць на сайт.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Калі вы не знаёмыя з <b>{ $mitm }</b>, гэта можа быць нападзенне, і вы ўжо нічога не можаце зрабіць, каб атрымаць доступ да сайта.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> мае палітыку бяспекі, што называецца HTTP Strict Transport Security (HSTS), і гэта азначае, што { -brand-short-name } можа звязвацца з ім толькі абароненым злучэннем. Вы не можаце дадаць выключэнне для наведвання гэтага сайта.
