@@ -16,6 +16,7 @@ neterror-try-again-button = Обиди се повторно
 
 ## Specific error messages
 
+neterror-generic-error = Поради некоја причина { -brand-short-name } не може да ја вчита оваа страница.
 neterror-file-not-found-filename = Проверете дали во името има големи букви или други печатни грешки.
 neterror-file-not-found-moved = Проверете дали датотеката е преместена, преименувана или избришана.
 neterror-redirect-loop = Овој проблем некогаш може да биде предизвикан од оневозможување или одбивање на колачиња.
