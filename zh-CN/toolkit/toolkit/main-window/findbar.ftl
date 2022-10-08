@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = 快速查找（仅链接）
 findbar-case-sensitive-status =
     .value = （区分大小写）
+findbar-match-diacritics-status =
+    .value = （匹配变音符号）
 findbar-entire-word-status =
     .value = （仅匹配整个词或句）
 # Variables:
