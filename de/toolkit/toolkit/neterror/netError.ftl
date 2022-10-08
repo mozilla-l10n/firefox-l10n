@@ -41,6 +41,7 @@ neterror-captive-portal = Sie müssen sich bei dem Netzwerk anmelden, um auf das
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Wollten Sie <a data-l10n-name="website">{ $hostAndPath }</a> aufrufen?
+neterror-dns-not-found-hint-header = <strong>Wenn Sie die richtige Adresse eingegeben haben, können Sie Folgendes tun:</strong>
 neterror-dns-not-found-hint-try-again = Versuchen Sie es später erneut.
 neterror-dns-not-found-hint-check-network = Überprüfen Sie Ihre Netzwerkverbindung.
 neterror-dns-not-found-hint-firewall = Überprüfen Sie, ob { -brand-short-name } die Berechtigung hat, auf das Internet zuzugreifen (Sie sind möglicherweise verbunden, aber hinter einer Firewall).
