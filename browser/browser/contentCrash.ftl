@@ -5,6 +5,12 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>此页面中的部分内容出现崩溃。</strong>您可以向 { -brand-product-name } 报告此问题，以尽快修复。
+crashed-subframe-learnmore-link =
+    .value = 详细了解
+crashed-subframe-submit =
+    .label = 提交报告
+    .accesskey = S
 
 ## Pending crash reports
 
