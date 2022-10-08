@@ -9,6 +9,7 @@ refresh-profile-dialog-description = 성능 문제 해결을 위해서 새로 �
 refresh-profile = { -brand-short-name } 조정
 refresh-profile-button = { -brand-short-name } 새로 설정…
 refresh-profile-learn-more = 더 알아보기
+
 refresh-profile-progress =
     .title = { -brand-short-name } 새로 설정
 refresh-profile-progress-description = 완료 중…

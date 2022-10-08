@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = { $name } 컨테이너 설정
     .style = width: 45em
+
 containers-window-new2 =
     .title = 새 컨테이너 추가
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = { $name } 컨테이너 설정
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = 이름
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = 컨테이너 이름 입력
+
 containers-icon-label = 아이콘
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = 색상
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = 완료
     .buttonaccesskeyaccept = D
+
 containers-color-blue =
     .label = 파랑
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = 보라
 containers-color-toolbar =
     .label = 도구 모음과 맞춤
+
 containers-icon-fence =
     .label = 울타리
 containers-icon-fingerprint =
