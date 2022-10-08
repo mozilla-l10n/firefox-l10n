@@ -14,6 +14,7 @@ neterror-captive-portal-page-title = Masuk ke jaringan
 
 neterror-copy-to-clipboard-button = Salin teks ke papan klip
 neterror-learn-more-link = Pelajari lebih lanjut…
+neterror-open-portal-login-page-button = Buka Laman Masuk Jaringan
 neterror-override-exception-button = Terima Risikonya dan Lanjutkan
 neterror-pref-reset-button = Pulihkan setelan baku
 neterror-return-to-previous-page-button = Mundur
@@ -31,6 +32,7 @@ neterror-generic-error = Untuk alasan tertentu { -brand-short-name } tidak dapat
 neterror-load-error-try-again = Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.
 neterror-load-error-connection = Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.
 neterror-load-error-firewall = Apabila komputer atau jaringan Anda dilindungi firewall atau proksi, pastikan bahwa { -brand-short-name } diizinkan mengakses Web.
+neterror-captive-portal = Anda harus masuk ke dalam jaringan ini sebelum dapat mengakses Internet.
 neterror-file-not-found-filename = Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.
 neterror-file-not-found-moved = Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.
 neterror-access-denied = Berkas mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.
