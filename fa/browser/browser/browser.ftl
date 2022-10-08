@@ -232,6 +232,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = تاریخچه ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = اضافه کردن نشانک
@@ -847,3 +851,6 @@ data-reporting-notification-message = { -brand-short-name } به صورت خود
 data-reporting-notification-button =
     .label = انتخاب چیزهایی که میخواهم به‌اشتراک‌ بگذارم
     .accesskey = ا
+
+## Unified extensions (toolbar) button
+

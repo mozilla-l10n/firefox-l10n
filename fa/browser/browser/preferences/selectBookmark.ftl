@@ -5,7 +5,9 @@
 select-bookmark-window =
     .title = تنظیم صفحهٔ خانگی
     .style = width: 32em;
+
 select-bookmark-window2 =
     .title = تنظیم صفحهٔ خانگی
     .style = min-width: 32em;
+
 select-bookmark-desc = یک نشانک را به عنوان صفحهٔ خانگی خود انتخاب کنید. اگر یک پوشه را انتخاب نمایید، نشانک‌های درون آن پوشه هر کدام در یک زبانه باز خواهند شد.

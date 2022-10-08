@@ -17,3 +17,5 @@ toolbox-meatball-menu-community-label = جامعه کاربران…
 
 ##
 
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
