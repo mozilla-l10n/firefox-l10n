@@ -6,10 +6,12 @@ common-dialog-title-null = Esta páxina di
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Descoñecido
+
 common-dialog-username =
     .value = Nome de usuario
 common-dialog-password =
     .value = Contrasinal
+
 common-dialog-copy-cmd =
     .label = Copiar
     .accesskey = C

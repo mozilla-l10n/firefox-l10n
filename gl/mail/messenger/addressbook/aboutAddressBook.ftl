@@ -50,9 +50,6 @@ about-addressbook-search =
 about-addressbook-search-all =
     .placeholder = Busca en todas as axendas de enderezos
 
-about-addressbook-sort-button =
-    .title = Alterar a orde da lista
-
 about-addressbook-name-format-display =
     .label = Amosar o nome
 about-addressbook-name-format-firstlast =
@@ -68,6 +65,9 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por enderezo de correo electrónico (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por enderezo de correo electrónico (Z > A)
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
 
 about-addressbook-cards-context-write =
     .label = Escribir
@@ -123,6 +123,9 @@ about-addressbook-confirm-delete-contacts =
        *[other] Desexa realmente eliminar estes { $count } contactos da lista { $list }?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
 ## Details
 
 about-addressbook-begin-edit-contact-button = Modificar
@@ -131,9 +134,9 @@ about-addressbook-save-edit-contact-button = Gardar
 
 about-addressbook-details-email-addresses-header = Enderezos de correo electrónico
 about-addressbook-details-phone-numbers-header = Números de teléfono
-about-addressbook-details-home-address-header = Enderezo particular
-about-addressbook-details-work-address-header = Enderezo do traballo
 about-addressbook-details-other-info-header = Outra información
 
 # Photo dialog
+
+# Keyboard shortcuts
 

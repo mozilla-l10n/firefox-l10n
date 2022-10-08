@@ -72,3 +72,4 @@ experimental-features-js-warp-description = Activar Warp, un proxecto para mello
 experimental-features-ime-search =
     .label = Barra de enderezos: amosar os resultados durante a composición IME
 experimental-features-ime-search-description = Un IME (Editor de método de entrada) é unha ferramenta que lle permite escribir símbolos complexos, tales como os utilizados na escrita de idiomas do leste asiático ou índico, utilizando un teclado estándar. Activando este experimento, manterase aberto o panel da barra de enderezos, que amosará os resultados da busca e suxestións, mentres se utiliza o IME para escribir texto. Note que o IME pode presentar un panel que cobre os resultados da barra de enderezos; daquela, esta preferencia só é unha suxestión para o IME que non utiliza este tipo de panel.
+

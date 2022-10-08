@@ -115,9 +115,6 @@ perftools-tools-threads-input-label =
 
 perftools-onboarding-message = <b>Novo</b>:{ -profiler-brand-name } está agora integrado nas Developer Tools.<a>Saiba máis</a> sobre esta poderosa ferramenta nova.
 
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Durante un tempo limitado, pode acceder ao panel orixinal de Rendemento via<a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Pechar a mensaxe de incorporación
 

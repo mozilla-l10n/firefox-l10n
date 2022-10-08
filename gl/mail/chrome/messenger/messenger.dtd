@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Conversas">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mensaxe con estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "n">
 <!ENTITY folderMenu.label "Cartafol">
