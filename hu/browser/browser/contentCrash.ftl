@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Az oldal egy része összeomlott.</strong> Küldjön egy jelentést a { -brand-product-name } fejlesztőinek, hogy gyorsabban elháríthassák a problémát.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Az oldal egy része összeomlott. Küldjön egy jelentést a { -brand-product-name } fejlesztőinek, hogy gyorsabban elháríthassák a problémát.
+crashed-subframe-learnmore-link =
+    .value = További tudnivalók
+crashed-subframe-submit =
+    .label = Jelentés beküldése
+    .accesskey = b
 
 ## Pending crash reports
 
