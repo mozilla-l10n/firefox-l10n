@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Snøggsøk (berre lenkjer)
 findbar-case-sensitive-status =
     .value = (Skil mellom store og små bokstavar)
+findbar-match-diacritics-status =
+    .value = (Samsvar diakritiske teikn)
 findbar-entire-word-status =
     .value = (Berre heile ord)
 # Variables:
