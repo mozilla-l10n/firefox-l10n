@@ -34,5 +34,28 @@ findbar-entire-word =
 findbar-not-found = Ei osumia
 findbar-wrapped-to-top = Päästiin sivun loppuun, jatketaan alusta
 findbar-wrapped-to-bottom = Päästiin sivun alkuun, jatketaan lopusta
+findbar-normal-find =
+    .placeholder = Etsi sivulta
+findbar-fast-find =
+    .placeholder = Pikahaku
+findbar-fast-find-links =
+    .placeholder = Pikahaku (vain linkit)
 findbar-case-sensitive-status =
     .value = (Kirjainkoko huomioidaan)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } / { $total } osuma
+           *[other] { $current } / { $total } osumaa
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Yli { $limit } osuma
+           *[other] Yli { $limit } osumaa
+        }
