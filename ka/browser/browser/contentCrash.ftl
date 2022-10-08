@@ -8,6 +8,8 @@
 
 ## Pending crash reports
 
+pending-crash-reports-view-all =
+    .label = ნახვა
 pending-crash-reports-send =
     .label = გაგზავნა
 pending-crash-reports-always-send =
