@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Panga switifiketi
     .style = width: 46em
+
 download-cert-window2 =
     .title = Panga switifiketi
     .style = min-width: 46em
