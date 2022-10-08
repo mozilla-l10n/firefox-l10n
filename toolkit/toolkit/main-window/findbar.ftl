@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = Aimsigh an chéad sampla eile den nath sin
 findbar-previous =
     .tooltiptext = Aimsigh an sampla roimhe seo den nath seo
-
 findbar-find-button-close =
     .tooltiptext = Dún an barra Aimsithe
-
 findbar-highlight-all2 =
     .label = Aibhsigh Uile
     .accesskey =
@@ -21,18 +19,20 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Aibhsigh gach sampla den fhrása seo
-
 findbar-case-sensitive =
     .label = Cásíogair
     .accesskey = C
     .tooltiptext = Cuardach cásíogair
-
 findbar-match-diacritics =
     .label = Meaitseáil Síntí Fada
     .accesskey = i
     .tooltiptext = Déan idirdhealú idir guta le síntí fada agus gan iad (m.sh. má dhéanann tú cuardach ar “tiomanta“, ní mheaitseálfar “tiománta”)
-
 findbar-entire-word =
     .label = Focail Iomlána
     .accesskey = F
     .tooltiptext = Cuardaigh focail iomlána amháin
+findbar-not-found = Abairtín gan aimsiú
+findbar-wrapped-to-top = Ag bun an leathanaigh, ag leanúint ón mbarr
+findbar-wrapped-to-bottom = Ag barr an leathanaigh, ag leanúint ón mbun
+findbar-case-sensitive-status =
+    .value = (Cásíogair)
