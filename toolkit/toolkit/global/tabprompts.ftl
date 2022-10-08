@@ -6,6 +6,7 @@ tabmodalprompt-username =
     .value = Igama lomsebenzisi:
 tabmodalprompt-password =
     .value = Iphasiwedi:
+
 tabmodalprompt-ok-button =
     .label = Kulungile
 tabmodalprompt-cancel-button =
