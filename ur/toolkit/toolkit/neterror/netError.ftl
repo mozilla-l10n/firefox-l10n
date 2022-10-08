@@ -6,6 +6,7 @@
 ## Error page titles
 
 neterror-page-title = صفحہ لوڈ کرنے میں مسلہ
+certerror-sts-page-title = رابطہ قائم نہیں ھوا: امکانی حفاظتی مسئلہ
 neterror-blocked-by-policy-page-title = بلاک شدہ صفحہ
 neterror-captive-portal-page-title = نیٹ ورک میں لاگ ان کریں
 neterror-dns-not-found-title = پیش کار نہیں ملا
@@ -13,11 +14,15 @@ neterror-malformed-uri-page-title = ناجائز URL
 
 ## Error page actions
 
+neterror-advanced-button = اعلٰی…
 neterror-copy-to-clipboard-button = متن کو تختہ تراشہ پر نقل کریں
 neterror-learn-more-link = مزید سیکھیں…
 neterror-open-portal-login-page-button = نیٹ ورک کا لاگ ان صفحہ کھولیں
+neterror-override-exception-button = خطرے کو قبول کریں اور جاری رکھیں
 neterror-return-to-previous-page-button = واپس جائیں
+neterror-return-to-previous-page-recommended-button = واپس جائیں (تجویز شدہ)
 neterror-try-again-button = دوبارہ کوشش کریں
+neterror-view-certificate-link = تصدیق نامہ دیکھیں
 
 ##
 
@@ -53,3 +58,5 @@ neterror-sslv3-used = اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> سیکورٹی ٹیکنالوجی کا استعمال کرتا ہے جو کی فرسودہ اور حملے کا شکار ہے۔ حملہ آور آسانی سے اس معلومات کو ظاہر کر سکتا یے جسے آپ محفوظ سمجھ رہے ہے۔ آپکی سائٹ دورہ کرنے سے پہلے ویب سائٹ منتظمکار کو پیش کار ٹھک کرنا ہوگا۔
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = خرابی کا کوڈ: NS_ERROR_NET_INADEQUATE_SECURITY
+certerror-what-can-you-do-about-it-title = آپ اس بارے میں کیا کر سکتے ہیں؟
+certerror-mitm-what-can-you-do-about-it-corporate = اگر آپ کارپوریٹ نیٹ ورک پر ہیں تو ، آپ اپنے آئی ٹی ڈیپارٹمنٹ سے رابطہ کرسکتے ہیں۔
