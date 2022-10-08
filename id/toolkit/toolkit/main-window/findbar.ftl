@@ -47,6 +47,11 @@ findbar-match-diacritics-status =
 findbar-entire-word-status =
     .value = (Hanya seluruh kata)
 # Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value = { $current } dari { $total } yang cocok
+# Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
     .value = Lebih dari { $limit } kecocokan
