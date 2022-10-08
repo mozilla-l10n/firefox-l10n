@@ -105,3 +105,6 @@ certerror-mitm-what-can-you-do-about-it-attack = જો તમે <b>{ $mitm }</
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack-sts = જો તમે <b>{ $mitm }</b>થી પરિચિત નથી, તો આ હુમલો હોઈ શકે છે, અને સાઇટ ઍક્સેસ કરવા માટે તમે કંઈ કરી શકતા નથી.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> પાસે HTTP સખત પરિવહન સુરક્ષા (HSTS) નામની સુરક્ષા નીતિ છે,એટલે { -brand-short-name } ફક્ત તેને સુરક્ષિત રીતે જોડાઈ શકે છે. તમે આ સાઇટની મુલાકાત લેવા માટે અપવાદ ઉમેરી શકતા નથી.
