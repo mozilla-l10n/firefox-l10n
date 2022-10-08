@@ -7,6 +7,7 @@
 
 neterror-page-title = Kudenn o kargañ ar bajennad
 neterror-captive-portal-page-title = Kennaskañ d'ar rouedad
+neterror-dns-not-found-title = Dafariad ebet kavet
 
 ## Error page actions
 
