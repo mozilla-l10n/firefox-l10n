@@ -6,6 +6,10 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>此页面中的部分内容出现崩溃。</strong>您可以向 { -brand-product-name } 报告此问题，以尽快修复。
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = 此页面中的部分内容出现崩溃。您可以向 { -brand-product-name } 报告此问题，以尽快修复。
 crashed-subframe-learnmore-link =
     .value = 详细了解
 crashed-subframe-submit =
