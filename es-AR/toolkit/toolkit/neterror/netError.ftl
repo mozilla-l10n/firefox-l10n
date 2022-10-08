@@ -33,6 +33,10 @@ neterror-error-reporting-automatic = Informar errores como este para ayudar a { 
 
 ## Specific error messages
 
+neterror-generic-error = { -brand-short-name } no puede cargar esta página por alguna razón.
+neterror-load-error-try-again = El sitio puede no estar disponible temporariamente o estar sobrecargado. Intente nuevamente en unos momentos.
+neterror-load-error-connection = Si no puede cargar ninguna página, verifique la conexión de su computadora a la red.
+neterror-load-error-firewall = Si su computadora o red están protegidas por un firewall o proxy, asegúrese que { -brand-short-name } tiene permiso para acceder a la web.
 neterror-captive-portal = Hay que iniciar sesión en esta red antes de poder acceder a Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -43,11 +47,24 @@ neterror-dns-not-found-hint-check-network = Verifique la conexión a internet
 neterror-dns-not-found-hint-firewall = Verifique que { -brand-short-name } tenga permiso para acceder a la web (puede ser que esté conectado pero detrás de un firewall)
 neterror-file-not-found-filename = Verifique si el nombre del archivo tiene errores de mayúsculas o de tipeo.
 neterror-file-not-found-moved = Fíjese si el archivo fue movido, renombrado o borrado.
+neterror-access-denied = Puede haber sido eliminado, movido o los permisos del archivo pueden evitar el acceso.
+neterror-unknown-protocol = Necesita instalar otro software para abrir esta dirección.
+neterror-redirect-loop = Este problema a veces es causado por deshabilitar o rechazar cookies.
+neterror-unknown-socket-type-psm-installed = Verifique que su sistema tenga instalado el Personal Security Manager.
+neterror-unknown-socket-type-server-config = Ésto puede deberse a una configuración no estándar del servidor.
 neterror-not-cached-intro = El documento solicitado no está disponible en caché de { -brand-short-name }.
 neterror-not-cached-sensitive = Como una precaución de seguridad, { -brand-short-name } no reenvía automáticamente documentos sensibles.
 neterror-not-cached-try-again = Haga clic en Intente nuevamente para solicitar el documento al sitio web nuevamente.
+neterror-net-offline = Presione “Intente nuevamente” para volver al modo con conexión y recargar la página.
+neterror-proxy-resolve-failure-settings = Verifique las opciones de proxy para confirmar que están correctas.
+neterror-proxy-resolve-failure-connection = Asegúrese que su computadora tenga una conexión de red en funcionamiento.
+neterror-proxy-resolve-failure-firewall = Si su computadora o red están protegidas por un firewall o proxy, asegúrese que { -brand-short-name } tenga permiso de acceder a la web.
+neterror-proxy-connect-failure-settings = Verifique las opciones de proxy para confirmar que están correctas.
+neterror-proxy-connect-failure-contact-admin = Contacte a su administrador de red para asegurarse que el servidor proxy está funcionando.
 neterror-content-encoding-error = Contacte a los dueños del sitio web para informarles sobre este problema.
 neterror-unsafe-content-type = Contacte a los dueños del sitio web para informarles sobre este problema.
+neterror-nss-failure-not-verified = La página que está tratando de ver no puede mostrarse porque la autenticidad de los datos recibidos no puede verificarse.
+neterror-nss-failure-contact-website = Contacte a los dueños del sitio para informarles de este problema.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } detectó una potencial amenaza de seguridad y no continuó a <b>{ $hostname }</b>. Si visita este sitio, los atacantes podrían intentar robar su información tal como sus contraseñas, correo electrónico o datos de su tarjeta de crédito.
