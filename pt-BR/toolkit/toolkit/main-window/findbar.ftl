@@ -31,8 +31,21 @@ findbar-entire-word =
     .label = Palavras inteiras
     .accesskey = P
     .tooltiptext = Só procurar palavras inteiras
+findbar-not-found = Frase não encontrada
 findbar-wrapped-to-top = Atingido o fim da página, continuando do início
 findbar-wrapped-to-bottom = Atingido o início da página, continuando do fim
+findbar-normal-find =
+    .placeholder = Procurar na página
+findbar-fast-find =
+    .placeholder = Procura rápida
+findbar-fast-find-links =
+    .placeholder = Procura rápida (só links)
+findbar-case-sensitive-status =
+    .value = (diferencia maiúsculas/minúsculas)
+findbar-match-diacritics-status =
+    .value = (considera acentuação)
+findbar-entire-word-status =
+    .value = (só palavras inteiras)
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
