@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Saglabātās adreses
 autofill-manage-addresses-list-header = Adreses
+
 autofill-manage-credit-cards-title = Saglabātās kredītkartes
 autofill-manage-credit-cards-list-header = Kredītkartes
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Aizvākt
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Rediģēt…
 autofill-add-new-address-title = Pievienot adresi
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediģēt adresi
+
 autofill-address-given-name = Vārds
 autofill-address-additional-name = Otrs vārds
 autofill-address-family-name = Uzvārds
@@ -79,13 +82,16 @@ autofill-address-eircode = Eirkode
 autofill-address-country = Štats vai reģions
 autofill-address-tel = Telefons
 autofill-address-email = Epasts
+
 autofill-cancel-button = Atcelt
 autofill-save-button = Saglabāt
 autofill-country-warning-message = Formu automātiskās aizpilde šobrīd ir pieejama tikai dažās valstīs.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Paslēpt kredītkarti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediģēt kredītkarti
+
 autofill-card-number = Kartes numurs
 autofill-card-invalid-number = Lūdzu, ievadiet derīgu kredītkartes numuru
 autofill-card-name-on-card = Kartes īpašnieks

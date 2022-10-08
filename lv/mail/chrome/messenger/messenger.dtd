@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Tērzēšana">
 <!ENTITY goChatCmd.accesskey "T">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Zvaigžņota vēstule">
 <!ENTITY prevStarredMsgCmd.accesskey "Z">
 <!ENTITY folderMenu.label "Mape">

@@ -174,6 +174,10 @@ search-one-offs-add-engine-menu =
 ##    bookmarks).
 
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =
@@ -512,3 +516,6 @@ data-reporting-notification-message = { -brand-short-name } automātiski nosūta
 data-reporting-notification-button =
     .label = Izvēlēties ar ko dalīties
     .accesskey = d
+
+## Unified extensions (toolbar) button
+
