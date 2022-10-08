@@ -8,6 +8,8 @@
 
 ## Pending crash reports
 
+pending-crash-reports-view-all =
+    .label = Xem
 pending-crash-reports-send =
     .label = Gửi
 pending-crash-reports-always-send =
