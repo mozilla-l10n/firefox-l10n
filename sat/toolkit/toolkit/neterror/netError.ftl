@@ -20,6 +20,7 @@ neterror-open-portal-login-page-button = ᱱᱮᱴᱣᱟᱨᱠ ᱵᱚᱞᱚ ᱥ�
 neterror-override-exception-button = ᱡᱤᱢᱟ ᱦᱟᱛᱟᱣ ᱢᱮ ᱟᱨ ᱥᱮᱱᱚᱜ ᱢᱮ
 neterror-return-to-previous-page-button = ᱯᱟᱹᱪᱷᱞᱟᱹ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
 neterror-return-to-previous-page-recommended-button = ᱛᱟᱭᱚᱢ ᱥᱮᱱᱚᱜ ᱢᱮ (ᱠᱷᱚᱡᱚᱜ ᱜᱮᱭᱟ)
+neterror-try-again-button = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ
 neterror-view-certificate-link = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱮᱞ ᱢᱮ
 
 ##
