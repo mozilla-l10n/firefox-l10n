@@ -42,6 +42,8 @@ findbar-fast-find-links =
     .placeholder = Tìm nhanh (chỉ tìm liên kết)
 findbar-case-sensitive-status =
     .value = (Phân biệt HOA-thường)
+findbar-match-diacritics-status =
+    .value = (Dấu phụ phù hợp)
 findbar-entire-word-status =
     .value = (Chỉ toàn bộ từ)
 # Variables:
