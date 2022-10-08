@@ -31,22 +31,33 @@ neterror-error-reporting-automatic = Indberet automatisk fejl som denne for at h
 
 ## Specific error messages
 
+neterror-generic-error = { -brand-short-name } kan ikke indlæse denne side af en eller anden grund.
 neterror-load-error-try-again = Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.
 neterror-load-error-connection = Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.
 neterror-load-error-firewall = Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, sørg da for at { -brand-short-name } har tilladelse til at tilgå nettet.
 neterror-captive-portal = Dette netværk kræver, at du skal logge ind for at bruge internettet.
+neterror-dns-not-found-hint-try-again = Prøv igen senere
+neterror-dns-not-found-hint-check-network = Kontroller din internetforbindelse
 neterror-file-not-found-filename = Undersøg filnavnet for store bogstaver eller andre tastefejl.
 neterror-file-not-found-moved = Undersøg om filen er blevet flyttet, omdøbt eller slettet
 neterror-access-denied = Den kan være blevet slettet, flyttet, eller tilladelserne for filen kan forhindre adgang.
 neterror-unknown-protocol = Du er måske nødt til at installere andet software for at åbne denne adresse.
+neterror-redirect-loop = Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse af cookies er blevet nægtet.
+neterror-unknown-socket-type-psm-installed = Undersøg om dit system har Personal Security Manager installeret.
+neterror-unknown-socket-type-server-config = Dette kan skyldes en ikke-standardopsætning af serveren.
 neterror-not-cached-intro = Den forespurgte side er ikke tilgængelig i cacheen.
 neterror-not-cached-sensitive = Af sikkerhedshensyn henter { -brand-short-name } ikke automatisk følsomme sider igen.
 neterror-not-cached-try-again = Klik for at prøve at hente siden igen fra webstedet.
+neterror-net-offline = Klik på “Prøv igen” for at skifte til online-tilstand og genindlæse siden.
 neterror-proxy-resolve-failure-settings = Kontrollér proxy-indstillingerne, og vær sikker på, at de er korrekte.
 neterror-proxy-resolve-failure-connection = Kontrollér om din computer har en fungerende netværksforbindelse.
 neterror-proxy-resolve-failure-firewall = Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, så kontrollér, om { -brand-short-name }  har tilladelse til at tilgå nettet i firewallen eller proxyens indstillinger.
 neterror-proxy-connect-failure-settings = Kontrollér proxy-indstillingerne, og vær sikker på, at de er korrekte.
 neterror-proxy-connect-failure-contact-admin = Kontakt din netværks-administrator for at sikre dig, at proxyserveren fungerer.
+neterror-content-encoding-error = Kontakt ejerne af webstedet omkring dette problem.
+neterror-unsafe-content-type = Kontakt ejerne af webstedet omkring dette problem.
+neterror-nss-failure-not-verified = Siden kunne ikke vises, da autenticiteten af de modtagne data ikke kunne bekræftes.
+neterror-nss-failure-contact-website = Kontakt ejerne af webstedet omkring dette problem.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } har opdaget en mulig sikkerhedstrussel og fortsatte ikke til <b>{ $hostname }</b>. Hvis du besøger webstedet, kan angribere forsøge at stjæle informationer, som fx dine adgangskoder, mails eller oplysninger om dine betalingskort.
