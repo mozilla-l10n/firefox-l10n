@@ -26,3 +26,20 @@ findbar-fast-find-links =
     .placeholder = Quick find (links only)
 findbar-case-sensitive-status =
     .value = (Case sensitive)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } of { $total } match
+           *[other] { $current } of { $total } matches
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] More than { $limit } match
+           *[other] More than { $limit } matches
+        }
