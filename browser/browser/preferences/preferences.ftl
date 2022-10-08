@@ -4,10 +4,13 @@
 
 category-general =
     .tooltiptext = { pane-general-title }
+
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = Vala
 
@@ -41,8 +44,10 @@ advanced-fonts =
 ## General Section - Files and Applications
 
 download-header = Downloads
+
 download-save-where = Save files to
     .accesskey = v
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -54,10 +59,13 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Ifayili { $extension }
+
 applications-select-helper = Khetha Isisetjenziswa Sokusiza
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -69,14 +77,19 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -89,12 +102,15 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Ukufunafuna
+
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
+
 browsing-use-smooth-scrolling =
     .label = Sebenza ifunisiso elingatshwenyiko
     .accesskey = e
+
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c

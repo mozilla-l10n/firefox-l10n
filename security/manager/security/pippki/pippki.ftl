@@ -23,6 +23,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Ukukhuphela Iintifikhethi
     .style = width: 46em
+
 download-cert-window2 =
     .title = Ukukhuphela Iintifikhethi
     .style = min-width: 46em
