@@ -36,5 +36,22 @@ findbar-wrapped-to-top = تابعت من الأعلى بعدما وصلت إلى
 findbar-wrapped-to-bottom = تابعت من الأسفل بعدما وصلت إلى بداية الصفحة
 findbar-fast-find =
     .placeholder = بحث سريع
+findbar-fast-find-links =
+    .placeholder = بحث سريع (روابط فقط)
 findbar-case-sensitive-status =
     .value = (حساس لحالة الأحرف)
+findbar-entire-word-status =
+    .value = (الكلمات الكاملة فقط)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [zero] نتيجة { $current } من { $total }
+            [one] نتيجة { $current } من { $total }
+            [two] نتيجة { $current } من { $total }
+            [few] نتيجة { $current } من { $total }
+            [many] نتيجة { $current } من { $total }
+           *[other] نتيجة { $current } من { $total }
+        }
