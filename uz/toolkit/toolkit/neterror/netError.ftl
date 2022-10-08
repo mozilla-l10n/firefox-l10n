@@ -25,6 +25,9 @@ neterror-error-reporting-automatic = Shu kabi xatolik hisobotlari { -vendor-shor
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ushbu sahifani ba’zi sabablarga ko‘ra yuklay olmadi.
+neterror-load-error-try-again = Bu sayt vaqtinchalik ishlamayotgan yoki juda band boʻlishi mumkin. Birozdan soʻng urinib ko‘ring.
+neterror-load-error-connection = Agar birorta ham sahifa yuklanmasa, kompyuteringizni tarmoqqa ulanishini tekshirib ko‘ring.
+neterror-load-error-firewall = Agar kompyuter yoki tarmogʻingiz fayervol yoki proksi bilan himoyalangan boʻlsa, { -brand-short-name }ning internetga kirishi cheklanmaganligini tekshirib koʻring.
 neterror-captive-portal = Internetdan foydalanish uchun tarmoqda ro‘yxatdan o‘tishingiz lozim.
 neterror-file-not-found-filename = Fayl nomlarining katta-kichik harfdaligi yoki matndagi boshqa xatolarini tekshiring.
 neterror-file-not-found-moved = Fayl o‘chirilgan, nomi o‘zgargan yoki ko‘chirilgan bo‘lishi mumkin.
