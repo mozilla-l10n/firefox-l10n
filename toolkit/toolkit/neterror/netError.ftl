@@ -6,12 +6,15 @@
 ## Error page titles
 
 neterror-page-title = Villa við að hlaða inn síðu
+certerror-page-title = Viðvörun: Hugsanleg öryggisáhætta framundan
+neterror-blocked-by-policy-page-title = Lokuð síða
 neterror-captive-portal-page-title = Innskráning á net
 neterror-dns-not-found-title = Netþjónn fannst ekki
 neterror-malformed-uri-page-title = Ógild slóð (URL)
 
 ## Error page actions
 
+neterror-advanced-button = Nánar…
 neterror-learn-more-link = Fræðast meira…
 neterror-open-portal-login-page-button = Opna net innskráningar síðu
 neterror-override-exception-button = Samþykkja áhættuna og halda áfram
