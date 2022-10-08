@@ -38,3 +38,14 @@ findbar-fast-find-links =
     .placeholder = រកមើល​រហ័ស (តែ​តំណ​ប៉ុណ្ណោះ)៖
 findbar-case-sensitive-status =
     .value = (ប្រកាន់​តួអក្សរ​តូច​ធំ)
+findbar-entire-word-status =
+    .value = (ពាក្យ​ទាំងមូល​ប៉ុណ្ណោះ)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value = ភាព​ត្រូវគ្នា { $current } នៃ { $total }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value = ភាពត្រូវគ្នា​ច្រើន​ជាង { $limit }
