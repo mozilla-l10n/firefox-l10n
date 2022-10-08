@@ -9,29 +9,37 @@ findbar-next =
     .tooltiptext = Meklēt frāzi turpmākajā tekstā
 findbar-previous =
     .tooltiptext = Meklēt frāzi virzienā uz sākumu
+
 findbar-find-button-close =
     .tooltiptext = Aizvērt meklēšanas joslu
+
 findbar-case-sensitive =
     .label = Lielo, mazo burtu atbilstība
     .accesskey = l
     .tooltiptext = Meklēt uztverot lielos un mazos burtus kā atšķirīgus simbolus
+
 findbar-entire-word =
     .label = Veselus vārdus
     .accesskey = v
     .tooltiptext = Meklēt tikai kā pilnus vārdus
+
 findbar-not-found = Frāze netika atrasta
+
 findbar-wrapped-to-top = Sasniegtas lapas beigas, turpina no augšas
 findbar-wrapped-to-bottom = Sasniegta lapas augša, turpina no apakšas
+
 findbar-normal-find =
     .placeholder = Atrast lapā
 findbar-fast-find =
     .placeholder = Ātrā meklēšana
 findbar-fast-find-links =
     .placeholder = Ātrā meklēšana (tikai saites)
+
 findbar-case-sensitive-status =
     .value = (Reģistrjūtīgs)
 findbar-entire-word-status =
     .value = (Tikai veselus vārdus)
+
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -42,6 +50,7 @@ findbar-found-matches =
             [one] { $current } no { $total } atbilstības
            *[other] { $current } no { $total } atbilstībām
         }
+
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =

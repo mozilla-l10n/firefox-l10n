@@ -5,43 +5,57 @@
 permissions-window =
     .title = Izņēmumi
     .style = width: 45em
+
 permissions-window2 =
     .title = Izņēmumi
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Mājas lapas adrese
     .accesskey = d
+
 permissions-block =
     .label = Bloķēt
     .accesskey = B
+
 permissions-session =
     .label = Atļaut tikai šīs sesijas laikā
     .accesskey = s
+
 permissions-allow =
     .label = Atļaut
     .accesskey = A
+
 permissions-site-name =
     .label = Mājas lapa
+
 permissions-status =
     .label = Statuss
+
 permissions-remove =
     .label = Aizvākt lapu
     .accesskey = Z
+
 permissions-remove-all =
     .label = Aizvākt visas lapas
     .accesskey = k
+
 permission-dialog =
     .buttonlabelaccept = Saglabāt izmaiņas
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Meklēt lapas
+
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Bloķēt
 permissions-capabilities-prompt =
     .label = Vienmēr jautāt
+
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
@@ -62,6 +76,7 @@ permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 permissions-exceptions-cookie-window =
     .title = Izņēmumi - sīkdatnes un kešatmiņa
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = Izņēmumi - sīkdatnes un kešatmiņa
     .style = { permissions-window2.style }
@@ -75,6 +90,7 @@ permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un k
 permissions-exceptions-popup-window =
     .title = Atļautās lapas - jaunie logi
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = Atļautās lapas - jaunie logi
     .style = { permissions-window2.style }
@@ -85,6 +101,7 @@ permissions-exceptions-popup-desc = Jūs varat norādīt, kurām lapām ir atļa
 permissions-exceptions-saved-logins-window =
     .title = Izņēmumi - Saglabātās paroles
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Izņēmumi - Saglabātās paroles
     .style = { permissions-window2.style }
@@ -95,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Šo vietņu paroles netiks saglabāta
 permissions-exceptions-addons-window =
     .title = Atļautās lapas - papildinājumu instalēšana
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = Atļautās lapas - papildinājumu instalēšana
     .style = { permissions-window2.style }
@@ -108,6 +126,7 @@ permissions-exceptions-addons-desc = Jūs varat norādīt, no kurām lapām ir a
 permissions-site-notification-window =
     .title = Iestatījumi - paziņojumu atļaujas
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = Iestatījumi - paziņojumu atļaujas
     .style = { permissions-window2.style }
@@ -121,6 +140,7 @@ permissions-site-notification-disable-desc = Tas liegs jebkurām lapām, kas nav
 permissions-site-location-window =
     .title = Iestatījumi - atrašanās vietas atļaujas
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = Iestatījumi - atrašanās vietas atļaujas
     .style = { permissions-window2.style }
@@ -137,6 +157,7 @@ permissions-site-location-disable-desc = Tas liegs jebkurām lapām, kas nav uzs
 permissions-site-camera-window =
     .title = Iestatījumi - kameras atļaujas
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = Iestatījumi - kameras atļaujas
     .style = { permissions-window2.style }
@@ -150,6 +171,7 @@ permissions-site-camera-disable-desc = Tas liegs jebkurām lapām, kas nav uzska
 permissions-site-microphone-window =
     .title = Iestatījumi - mikrofona atļaujas
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = Iestatījumi - mikrofona atļaujas
     .style = { permissions-window2.style }

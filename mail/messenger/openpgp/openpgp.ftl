@@ -235,16 +235,12 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 
-openpgp-key-details-title =
-    .title = Atslēgas īpašības
-
 openpgp-key-details-signatures-tab =
     .label = Sertifikāti
 openpgp-key-details-structure-tab =
     .label = Struktūra
 openpgp-key-details-uid-certified-col =
     .label = Lietotāja ID / sertificējis
-openpgp-key-details-user-id2-label = Iespējamais atslēgas īpašnieks
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Veids
@@ -527,9 +523,6 @@ key-error-not-accepted-as-personal = Jūs neesat apstiprinājis, ka atslēga ar 
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Jūsu izvēlētā darbība nav pieejama nesaistes režīmā. Lūdzu, dodieties tiešsaistē un mēģiniet vēlreiz.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Neizdevās atrast nevienu atslēgu, kas atbilstu norādītajiem meklēšanas kritērijiem.
 
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Kļūda - atslēgas izvilkšanas komanda neizdevās
