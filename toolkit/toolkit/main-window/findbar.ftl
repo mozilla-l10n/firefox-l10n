@@ -31,6 +31,7 @@ findbar-entire-word =
     .label = Cuvinte întregi
     .accesskey = W
     .tooltiptext = Caută numai cuvinte întregi
+findbar-not-found = Nu s-a găsit textul
 findbar-wrapped-to-top = Sfârșitul paginii, continuare de la început
 findbar-wrapped-to-bottom = Începutul paginii, continuare de la sfârșit
 findbar-case-sensitive-status =
