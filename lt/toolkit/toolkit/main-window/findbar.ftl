@@ -34,5 +34,21 @@ findbar-entire-word =
 findbar-not-found = Ieškomos frazės nepavyko rasti
 findbar-wrapped-to-top = Pasiekus puslapio pabaigą, paieška pratęsta nuo pradžios
 findbar-wrapped-to-bottom = Pasiekus puslapio pradžią, paieška pratęsta nuo pabaigos
+findbar-normal-find =
+    .placeholder = Paieška tinklalapyje
+findbar-fast-find =
+    .placeholder = Sparčioji paieška
+findbar-fast-find-links =
+    .placeholder = Sparčioji paieška (tik saituose)
 findbar-case-sensitive-status =
     .value = (Skiriant didž. ir maž. raides)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } iš { $total } atitikmens
+            [few] { $current } iš { $total } atitikmenų
+           *[other] { $current } iš { $total } atitikmenų
+        }
