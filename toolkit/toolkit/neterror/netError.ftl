@@ -49,6 +49,10 @@ neterror-corrupted-content-intro = La páxina que tentes de ver nun pue amosase 
 neterror-corrupted-content-contact-website = Ponte en contautu colos propietarios del sitiu pa informalos d'esti problema, por favor.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = L'ordenador cuida que tamos a { DATETIME($now, dateStyle: "medium") }, lo qu'evita que { -brand-short-name } se conecte con seguranza. Pa visitar <b>{ $hostname }</b> anueva los axustes del reló, la data y el fusu horariu del sistema, y refresca <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = La páxina que tentes de ver nun pue amosase porque detectóse un fallu nel protocolu de rede.
 neterror-network-protocol-error-contact-website = Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.
 certerror-expired-cert-sts-second-para = Ye probable que'l certificáu del sitiu web caducare, lo qu'evita que { -brand-short-name } se conecte de mou seguru.
