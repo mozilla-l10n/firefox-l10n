@@ -20,6 +20,7 @@ neterror-copy-to-clipboard-button = Kopiér tekst til udklipsholder
 neterror-learn-more-link = Læs mere…
 neterror-open-portal-login-page-button = Åbn netværkets login-side
 neterror-override-exception-button = Accepter risikoen og fortsæt
+neterror-pref-reset-button = Gendan indstillinger til standard
 neterror-return-to-previous-page-button = Gå tilbage
 neterror-return-to-previous-page-recommended-button = Gå tilbage (anbefalet)
 neterror-try-again-button = Prøv igen
@@ -27,6 +28,7 @@ neterror-view-certificate-link = Vis certifikat
 
 ##
 
+neterror-pref-reset = Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?
 neterror-error-reporting-automatic = Indberet automatisk fejl som denne for at hjælpe { -vendor-short-name } med at identificere og blokere ondsindede websteder.
 
 ## Specific error messages
@@ -71,6 +73,8 @@ certerror-expired-cert-intro = { -brand-short-name } har opdaget et problem og f
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> er højst sandsynligt et sikkert websted, men der kan ikke oprettes en sikker forbindelse til det. Problemet skyldes programmet <b>{ $mitm }</b>, der enten er på din computer eller på dit netværk.
+neterror-corrupted-content-intro = Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.
+neterror-corrupted-content-contact-website = Kontakt ejerne af webstedet omkring dette problem.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Avanceret info: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
