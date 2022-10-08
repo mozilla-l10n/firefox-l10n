@@ -38,8 +38,16 @@ neterror-load-error-try-again = Stránka môže byť dočasne nedostupná alebo 
 neterror-load-error-connection = Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.
 neterror-load-error-firewall = Ak sú počítač alebo sieť chránené firewallom alebo serverom proxy, uistite sa, či má { -brand-short-name } povolený prístup k webu.
 neterror-captive-portal = Pre prístup na internet sa musíte najprv prihlásiť k tejto sieti.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Chceli ste prejsť na <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Ak ste zadali správnu adresu, môžete:</strong>
+neterror-dns-not-found-hint-try-again = Skúsiť to znova neskôr
+neterror-dns-not-found-hint-check-network = Skontrolovať pripojenie k sieti
+neterror-dns-not-found-hint-firewall = Skontrolovať, či má { -brand-short-name } povolenie na prístup na web (môžete byť pripojený, ale za bránou firewall)
 neterror-file-not-found-filename = Skontrolujte názov súboru, napríklad malé a veľké písmená alebo iné preklepy.
 neterror-file-not-found-moved = Skontrolujte, či súbor nebol premenovaný, presunutý alebo odstránený.
+neterror-access-denied = Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho oprávnenia.
 neterror-unknown-protocol = Na otvorenie tejto adresy možno bude potrebné nainštalovať ďalší softvér.
 neterror-redirect-loop = Tento problém môže nastať pri nepovolení, resp. odmietnutí cookies.
 neterror-unknown-socket-type-psm-installed = Uistite sa, či je v systéme nainštalovaný Správca súkromných kľúčov (PSM).
