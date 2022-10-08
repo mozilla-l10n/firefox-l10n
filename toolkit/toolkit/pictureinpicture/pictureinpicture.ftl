@@ -3,16 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Picture-in-picture
+
 pictureinpicture-pause =
     .aria-label = Pauzeren
 pictureinpicture-play =
     .aria-label = Afspelen
+
 pictureinpicture-mute =
     .aria-label = Dempen
 pictureinpicture-unmute =
     .aria-label = Dempen opheffen
+
 pictureinpicture-unpip =
     .aria-label = Terugsturen naar tabblad
+
 pictureinpicture-close =
     .aria-label = Sluiten
 
@@ -25,18 +29,22 @@ pictureinpicture-pause-cmd =
 pictureinpicture-play-cmd =
     .aria-label = Afspelen
     .title = Afspelen (spatiebalk)
+
 pictureinpicture-mute-cmd =
     .aria-label = Dempen
     .title = Dempen ({ $shortcut })
 pictureinpicture-unmute-cmd =
     .aria-label = Dempen opheffen
     .title = Dempen opheffen ({ $shortcut })
+
 pictureinpicture-unpip-cmd =
     .aria-label = Terugsturen naar tabblad
     .title = Terug naar tabblad
+
 pictureinpicture-close-cmd =
     .aria-label = Sluiten
     .title = Sluiten ({ $shortcut })
+
 pictureinpicture-subtitles-cmd =
     .aria-label = Ondertitels
     .title = Ondertitels
@@ -46,17 +54,25 @@ pictureinpicture-subtitles-cmd =
 pictureinpicture-fullscreen-cmd =
     .aria-label = Volledig scherm
     .title = Volledig scherm (dubbelklik)
+
 pictureinpicture-exit-fullscreen-cmd =
     .aria-label = Volledig scherm verlaten
     .title = Volledig scherm verlaten (dubbelklik)
+
 pictureinpicture-seekbackward-cmd =
     .aria-label = Terug
     .title = Terug (←)
+
 pictureinpicture-seekforward-cmd =
     .aria-label = Vooruit
     .title = Vooruit (→)
+
 pictureinpicture-subtitles-label = Ondertitels
+
 pictureinpicture-font-size-label = Lettergrootte
+
 pictureinpicture-font-size-small = Klein
+
 pictureinpicture-font-size-medium = Normaal
+
 pictureinpicture-font-size-large = Groot

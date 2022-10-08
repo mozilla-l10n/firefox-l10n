@@ -22,10 +22,12 @@ about-private-browsing-not-private = U bevindt zich momenteel niet in een privé
 about-private-browsing-info-description-private-window = Privévenster: { -brand-short-name } wist uw zoek- en navigatiegeschiedenis wanneer u alle privévensters sluit. Dit maakt u niet anoniem.
 about-private-browsing-info-description-simplified = { -brand-short-name } wist uw zoek- en navigatiegeschiedenis wanneer u alle privévensters sluit, maar dit maakt u niet anoniem.
 about-private-browsing-learn-more-link = Meer info
+
 about-private-browsing-hide-activity = Verberg uw activiteit en locatie, overal waar u surft
 about-private-browsing-get-privacy = Ontvang privacybescherming overal waar u surft
 about-private-browsing-hide-activity-1 = Verberg uw surfactiviteiten en locatie met { -mozilla-vpn-brand-name }. Met één klik maakt u een veilige verbinding, zelfs op openbare wifi.
 about-private-browsing-prominent-cta = Blijf privé met { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = { -focus-brand-name } downloaden
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privénavigatie onderweg
 about-private-browsing-focus-promo-text = Onze speciale mobiele app voor privénavigatie wist elke keer uw geschiedenis en cookies.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Breng privénavigatie naar uw tele
 about-private-browsing-focus-promo-text-b = Gebruik { -focus-brand-name } voor die privézoekopdrachten waarvan u niet wilt dat uw mobiele standaardbrowser ze ziet.
 about-private-browsing-focus-promo-header-c = Privacy op mobiel op het volgende niveau
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } wist elke keer uw geschiedenis, terwijl advertenties en trackers worden geblokkeerd.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Sluiten
+
 about-private-browsing-promo-close-button =
     .title = Sluiten
 
