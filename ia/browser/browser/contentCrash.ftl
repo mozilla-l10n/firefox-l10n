@@ -5,6 +5,11 @@
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Saper plus
+crashed-subframe-submit =
+    .label = Inviar reporto
+    .accesskey = I
 
 ## Pending crash reports
 
