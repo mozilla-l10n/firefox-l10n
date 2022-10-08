@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Funcziunalitad recumandada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
-
 cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
-
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
     .accesskey = B
-
 cfr-doorhanger-extension-learn-more-link = Ulteriuras infurmaziuns
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = da { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recumandaziun
 cfr-doorhanger-extension-notification2 = Recumandaziun
     .tooltiptext = Recumandaziun dad extensiun
     .a11y-announcement = Ina recumandaziun per ina extensiun è disponibla
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recumandaziun
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Ulteriuras infurmaziuns
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funcziunalitad:
-
 cfr-whatsnew-button =
     .label = Novaziuns
     .tooltiptext = Novaziuns
-
 cfr-whatsnew-release-notes-link-text = Leger las notizias davart la versiun
 
 ## Enhanced Tracking Protection Milestones
@@ -166,7 +156,6 @@ spotlight-total-cookie-protection-body = La protecziun totala cunter cookies imp
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construescha ina saiv enturn cookies, cun als limitar a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar. Cun duvrar gia ussa questa funcziun gidas ti a l'optimar per che nus possian crear in meglier web per ina e mintgin.
 spotlight-total-cookie-protection-primary-button = Activar la protecziun totala cunter cookies
 spotlight-total-cookie-protection-secondary-button = Betg ussa
-
 cfr-total-cookie-protection-header = Grazia a tai è { -brand-short-name } pli discret e segir che mai
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -198,6 +187,18 @@ spotlight-pin-secondary-button = Betg ussa
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Il nov { -brand-short-name }. Pli discret. Damain fastizaders. Nagins cumpromiss.
+mr2022-background-update-toast-text = Emprova ussa il pli nov { -brand-short-name }, actualisà cun nossa protecziun cunter fastizaders la pli ferma d'enfin qua.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Avrir ussa { -brand-shorter-name }
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Ma regurdar pli tard
 
 ## Firefox View CFR
 
@@ -205,6 +206,13 @@ firefoxview-cfr-primarybutton = Empruvar
     .accesskey = E
 firefoxview-cfr-secondarybutton = Betg ussa
     .accesskey = B
+firefoxview-cfr-header = Va danovamain per tabs serrads dacurt cun { -firefoxview-brand-name }
+firefoxview-cfr-body = Mida ultra da quai quasi senza interrupziun tranter apparats e dà in zic colur a tes navigatur.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Nus ta mussain { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Vuls ti avair quel tab avert sin tes telefonin? Va per el. Dovras ti la website che ti has gist visità? Zac ed ella è puspè qua cun { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Mussar co che quai funcziuna
+firefoxview-spotlight-promo-secondarybutton = Sursiglir
