@@ -10,6 +10,7 @@ containers-window-new =
 containers-window-update-settings =
     .title = Instellingen van container { $name }
     .style = width: 45em
+
 containers-window-new2 =
     .title = Nieuwe container toevoegen
     .style = min-width: 45em
@@ -18,8 +19,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Instellingen van container { $name }
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +33,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Naam
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Voer een containernaam in
+
 containers-icon-label = Pictogram
     .accesskey = P
     .style = { -containers-labels-style }
+
 containers-color-label = Kleur
     .accesskey = K
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Gereed
     .buttonaccesskeyaccept = G
+
 containers-color-blue =
     .label = Blauw
 containers-color-turquoise =
@@ -62,6 +71,7 @@ containers-color-purple =
     .label = Paars
 containers-color-toolbar =
     .label = Met de werkbalk overeen laten komen
+
 containers-icon-fence =
     .label = Hekwerk
 containers-icon-fingerprint =

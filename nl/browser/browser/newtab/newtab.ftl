@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Zoeken
     .aria-label = Zoeken
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Met { $engine } zoeken of voer adres in
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Voer zoekterm of adres in
     .title = Voer zoekterm of adres in
     .aria-label = Voer zoekterm of adres in
+
 newtab-search-box-text = Zoeken op het web
 newtab-search-box-input =
     .placeholder = Zoeken op het web
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Snelkoppeling bewerken
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Voer een titel in
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Typ of plak een URL
 newtab-topsites-url-validation = Geldige URL vereist
+
 newtab-topsites-image-url-label = URL van aangepaste afbeelding
 newtab-topsites-use-image-link = Een aangepaste afbeelding gebruiken…
 newtab-topsites-image-validation = Afbeelding kon niet worden geladen. Probeer een andere URL.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Gesponsord
 newtab-menu-section-tooltip =
     .title = Menu openen
     .aria-label = Menu openen
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Verwijderen
     .aria-label = Verwijderen
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -156,14 +162,17 @@ newtab-label-removed-bookmark = Bladwijzer verwijderd
 newtab-label-recommended = Trending
 newtab-label-saved = Opgeslagen naar { -pocket-brand-name }
 newtab-label-download = Gedownload
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Gesponsord
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Gesponsord door { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -202,6 +211,7 @@ newtab-section-header-pocket = Aanbevolen door { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Begin met surfen, en we tonen hier een aantal geweldige artikelen, video’s en andere pagina’s die u onlangs hebt bezocht of waarvoor u een bladwijzer hebt gemaakt.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -226,9 +236,11 @@ newtab-pocket-learn-more = Meer info
 newtab-pocket-cta-button = { -pocket-brand-name } gebruiken
 newtab-pocket-cta-text = Bewaar de verhalen die u interessant vindt in { -pocket-brand-name }, en stimuleer uw gedachten met boeiende leesstof.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } maakt deel uit van de { -brand-product-name }-familie
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Opslaan naar { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Opgeslagen naar { -pocket-brand-name }
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Meer verhalen laden
 
@@ -239,6 +251,7 @@ newtab-pocket-last-card-title = U bent helemaal bij!
 newtab-pocket-last-card-desc = Kom later terug voor meer.
 newtab-pocket-last-card-image =
     .alt = U bent helemaal bij
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Opslaan
 newtab-pocket-saved = Opgeslagen

@@ -142,8 +142,3 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Alleen huidige sessie, vernieuwt de pagina
 
-# The label for the checkbox that toggles the display of the platform data in the
-# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Gecko-platformgegevens tonen
-options-show-platform-data-tooltip =
-    .title = Als u deze optie inschakelt, zullen de JavaScript-profilerrapporten Gecko-platformsymbolen bevatten

@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 620px; min-height: 580px;
+
 copy =
     .key = C
 menu-copy =
     .label = Kopiëren
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Alles selecteren
     .accesskey = A
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Algemeen
     .accesskey = A
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Naam
 general-meta-content =
     .label = Inhoud
+
 media-tab =
     .label = Media
     .accesskey = M
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = Opslaan als…
     .accesskey = p
+
 perm-tab =
     .label = Toestemmingen
     .accesskey = T
 permissions-for =
     .value = Toestemmingen voor:
+
 security-tab =
     .label = Beveiliging
     .accesskey = B
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = Verloopt op:
 security-view-privacy =
     .value = Privacy & geschiedenis
+
 security-view-privacy-history-value = Heb ik deze website eerder dan vandaag bezocht?
 security-view-privacy-sitedata-value = Slaat deze website informatie op op mijn computer?
+
 security-view-privacy-clearsitedata =
     .label = Cookies en websitegegevens wissen
     .accesskey = k
+
 security-view-privacy-passwords-value = Heb ik wachtwoorden opgeslagen voor deze website?
+
 security-view-privacy-viewpasswords =
     .label = Opgeslagen wachtwoorden bekijken
     .accesskey = w
 security-view-technical =
     .value = Technische details
+
 help-button =
     .label = Help
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = Ja, cookies en { $value } { $unit } aan websitegegevens
 security-site-data-only = Ja, { $value } { $unit } aan websitegegevens
+
 security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Nee
 
@@ -139,6 +152,7 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Ja
 saved-passwords-no = Nee
+
 no-page-title =
     .value = Pagina zonder titel:
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Standaard gebruiken
 security-no-visits = Nee
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -163,6 +178,7 @@ general-meta-tags =
             [one] Meta (1 tag)
            *[other] Meta ({ $tags } tags)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -173,6 +189,7 @@ security-visits-number =
         [one] Ja, eenmaal
        *[other] Ja, { $visits } maal
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -183,6 +200,7 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -194,12 +212,14 @@ media-animated-image-type =
             [one] { $type }-afbeelding (geanimeerd, { $frames } frame)
            *[other] { $type }-afbeelding (geanimeerd, { $frames } frames)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type }-afbeelding
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -209,17 +229,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (geschaald naar { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -227,6 +250,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Afbeeldingen van { $website } blokkeren
     .accesskey = e
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -11,6 +11,7 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Instellingen
     .accesskey = e
+
 menu-addons-and-themes =
     .label = Add-ons en thema’s
     .accesskey = A
@@ -20,39 +21,51 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Help
     .accesskey = H
+
 menu-help-get-help =
     .label = Hulp verkrijgen
     .accesskey = H
+
 menu-help-explore-features =
     .label = Functies verkennen
     .accesskey = F
+
 menu-help-shortcuts =
     .label = Sneltoetsen
     .accesskey = S
+
 menu-help-get-involved =
     .label = Meewerken
     .accesskey = M
+
 menu-help-donation =
     .label = Een donatie doen
     .accesskey = d
+
 menu-help-share-feedback =
     .label = Ideeën en feedback delen
     .accesskey = l
+
 menu-help-enter-troubleshoot-mode =
     .label = Probleemoplossingsmodus…
     .accesskey = P
+
 menu-help-exit-troubleshoot-mode =
     .label = Probleemoplossingsmodus uitschakelen
     .accesskey = c
+
 menu-help-more-troubleshooting-info =
     .label = Meer probleemoplossingsinformatie
     .accesskey = M
+
 menu-help-troubleshooting-info =
     .label = Probleemoplossingsinformatie
     .accesskey = i
+
 menu-help-about-product =
     .label = Over { -brand-short-name }
     .accesskey = O
+
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -65,9 +78,11 @@ menu-quit =
             [windows] f
            *[other] f
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } afsluiten
+
 quit-app-shortcut =
     .key = f
 
@@ -97,33 +112,43 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Lettergrootte
     .accesskey = o
+
 menuitem-font-size-enlarge =
     .label = Lettergrootte vergroten
     .accesskey = v
+
 menuitem-font-size-reduce =
     .label = Lettergrootte verkleinen
     .accesskey = k
+
 menuitem-font-size-reset =
     .label = Lettergrootte opnieuw instellen
     .accesskey = n
+
 mail-uidensity-label =
     .label = Dichtheid
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Compact
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Normaal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Aanraking
     .accesskey = A
+
 mail-uidensity-default =
     .label = Standaard
     .accesskey = S
+
 mail-uidensity-relaxed =
     .label = Ontspannen
     .accesskey = p
+
 menu-spaces-toolbar-button =
     .label = Taakbalk
     .accesskey = T

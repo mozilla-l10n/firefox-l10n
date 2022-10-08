@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Maak een frisse start om prestatieproblemen
 refresh-profile = { -brand-short-name } optimaliseren
 refresh-profile-button = { -brand-short-name } opfrissen…
 refresh-profile-learn-more = Meer info
+
 refresh-profile-progress =
     .title = { -brand-short-name } opfrissen
 refresh-profile-progress-description = Bijna gereed…

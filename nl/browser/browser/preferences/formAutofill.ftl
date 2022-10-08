@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Opgeslagen adressen
 autofill-manage-addresses-list-header = Adressen
+
 autofill-manage-credit-cards-title = Opgeslagen creditcards
 autofill-manage-credit-cards-list-header = Creditcards
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Verwijderen
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Bewerken…
 autofill-add-new-address-title = Nieuw adres toevoegen
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adres bewerken
+
 autofill-address-given-name = Voornaam
 autofill-address-additional-name = Tweede naam
 autofill-address-family-name = Achternaam
@@ -81,13 +84,16 @@ autofill-address-eircode = Eircode
 autofill-address-country = Land of regio
 autofill-address-tel = Telefoon
 autofill-address-email = E-mailadres
+
 autofill-cancel-button = Annuleren
 autofill-save-button = Opslaan
 autofill-country-warning-message = Formulieren automatisch invullen is momenteel alleen voor bepaalde landen beschikbaar.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nieuwe creditcard toevoegen
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Creditcard bewerken
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } probeert creditcardgegevens te tonen. Bevestig hieronder toegang tot deze Windows-account.
        *[other] { -brand-short-name } probeert creditcardgegevens te tonen.
     }
+
 autofill-card-number = Kaartnummer
 autofill-card-invalid-number = Voer een geldig kaartnummer in
 autofill-card-name-on-card = Naam op kaart
