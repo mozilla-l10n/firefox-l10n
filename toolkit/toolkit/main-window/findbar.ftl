@@ -9,29 +9,37 @@ findbar-next =
     .tooltiptext = Fumanisa isenzeko esilandelayo sebinzana lamagama
 findbar-previous =
     .tooltiptext = Fumanisa isenzeko sangaphambili sebinzana lamagama
+
 findbar-find-button-close =
     .tooltiptext = Vala ibha yokufumana
+
 findbar-case-sensitive =
     .label = Ngqamanisa unobumba
     .accesskey = n
     .tooltiptext = Khangela ngokoonobumba
+
 findbar-entire-word =
     .label = Amagama Apheleleyo
     .accesskey = A
     .tooltiptext = Khangela amagama apheleleyo kuphela
+
 findbar-not-found = Ibinzana lamagama alifunyanwanga
+
 findbar-wrapped-to-top = Ufike ekupheleni kwekhasi, kuqhutywe ukususela emantla
 findbar-wrapped-to-bottom = Ufike emantla ekhasi, kuqhutywe ukususela ngezantsi
+
 findbar-normal-find =
     .placeholder = Fumana ephepheni
 findbar-fast-find =
     .placeholder = Fumana ngokukhawuleza
 findbar-fast-find-links =
     .placeholder = Fumana ngokukhawuleza (amakhonkco odwa)
+
 findbar-case-sensitive-status =
     .value = (Inobuzaza kubhalo loonobumba)
 findbar-entire-word-status =
     .value = (Amagama apheleleyo kuphela)
+
 # Variables:
 #   $current (Number): Index of the currently selected match
 #   $total (Number): Total count of matches
@@ -41,6 +49,7 @@ findbar-found-matches =
             [one] { $current } kwezi- { $total } ingqamene
            *[other] { $current } kwezi { $total } ingqamene
         }
+
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =

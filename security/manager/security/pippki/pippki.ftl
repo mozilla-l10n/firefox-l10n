@@ -20,6 +20,7 @@ reset-password-button-label =
 download-cert-window =
     .title = Kuthotywa Umthwalo Wesatifikethi
     .style = width: 46em
+
 download-cert-window2 =
     .title = Kuthotywa Umthwalo Wesatifikethi
     .style = min-width: 46em

@@ -5,26 +5,34 @@
 permissions-window =
     .title = Izinxaxhi
     .style = width: 45em
+
 permissions-window2 =
     .title = Izinxaxhi
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Nqanda
     .accesskey = N
+
 permissions-session =
     .label = Vumela Iseshoni
     .accesskey = I
+
 permissions-allow =
     .label = Vumela
     .accesskey = V
+
 permissions-status =
     .label = Isimo
+
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Nqanda
+
 permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
@@ -55,6 +63,7 @@ permissions-exceptions-popup-desc = Ungabalula ukuba zeziphi na iiwebhusayithi e
 permissions-exceptions-saved-logins-window =
     .title = Ezikhethekileyo - IiLogini Ezigciniweyo
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = Ezikhethekileyo - IiLogini Ezigciniweyo
     .style = { permissions-window2.style }
