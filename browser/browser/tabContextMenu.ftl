@@ -111,6 +111,7 @@ tab-context-move-tabs =
            *[other] Premakni zavihke
         }
     .accesskey = m
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

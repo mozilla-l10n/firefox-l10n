@@ -38,9 +38,11 @@ menu-quit =
             [windows] h
            *[other] I
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Izhod iz { -brand-shorter-name }a
+
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O

@@ -33,7 +33,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Velikost medpomnilnika:
+
 perftools-custom-threads-label = Dodaj niti po meri po imenu:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Niti:
 perftools-devtools-settings-label = Nastavitve
@@ -98,17 +100,23 @@ perftools-onboarding-message = <b>Novo</b>: { -profiler-brand-name } je sedaj vk
 
 perftools-presets-web-developer-label = Spletni razvoj
 perftools-presets-web-developer-description = Priporočena prednastavitev za razhroščevanje večine spletnih aplikacij, z nizko porabo sredstev.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Priporočena prednastavitev za spremljanje zmogljivosti { -brand-shorter-name(sklon: "rodilnik") }.
+
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Prednastavitev za preiskovanje napak grafike v { -brand-shorter-name(sklon: "mestnik") }
+
 perftools-presets-media-label = Predstavnost
 perftools-presets-media-description2 = Prednastavitev za preiskovanje napak zvoka in videa v { -brand-shorter-name(sklon: "mestnik") }.
+
 perftools-presets-networking-label = Omrežje
 perftools-presets-networking-description = Prednastavitev za preiskovanje napak v delovanju omrežja v { -brand-shorter-name(sklon: "mestnik") }
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Napajanje
 perftools-presets-power-description = Prednastavitev za preiskovanje napak pri porabi energije v { -brand-shorter-name(sklon: "mestnik") } z nizko porabo sredstev.
+
 perftools-presets-custom-label = Po meri
 
 ##
