@@ -38,6 +38,13 @@ neterror-load-error-try-again = Сајт је можда привремено н
 neterror-load-error-connection = Ако не можете да учитате ниједну страницу, проверите мрежну везу рачунара.
 neterror-load-error-firewall = Ако су рачунар или мрежа заштићени заштитним зидом или проксијем, проверите да ли { -brand-short-name } има дозвољен приступ мрежи.
 neterror-captive-portal = Морате да се пријавите на ову мрежу пре него што можете приступити интернету.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Да ли сте хтели да одете на <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Ако сте исправно унели адресу, можете да:</strong>
+neterror-dns-not-found-hint-try-again = Покушате поново касније
+neterror-dns-not-found-hint-check-network = Проверите вашу интернет везу
+neterror-dns-not-found-hint-firewall = Проверите да ли { -brand-short-name } има дозволу за приступ интернету (можда сте повезани али иза заштитног зида)
 neterror-file-not-found-filename = Проверите подударање малих и великих слова и друге могуће грешке у куцању.
 neterror-file-not-found-moved = Проверите да ли је датотека премештена, преименована или избрисана.
 neterror-access-denied = Можда је уклоњена, премештена или немате приступ датотеци.
