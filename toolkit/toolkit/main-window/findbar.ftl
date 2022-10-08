@@ -32,3 +32,5 @@ findbar-entire-word =
     .accesskey = w
     .tooltiptext = 僅搜尋整個文字
 findbar-not-found = 找不到指定文字
+findbar-wrapped-to-top = 已達頁尾，從頁首重新搜尋
+findbar-wrapped-to-bottom = 已達頁首，從頁尾重新搜尋
