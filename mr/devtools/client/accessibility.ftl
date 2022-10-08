@@ -13,6 +13,8 @@ accessibility-keyboard-header = कीबोर्ड
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
+## Text entries that are used as text alternative for icons that depict accessibility issues.
+
 accessibility-warning =
     .alt = चेतावनी
 

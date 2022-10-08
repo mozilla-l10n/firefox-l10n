@@ -14,3 +14,8 @@ pictureinpicture-mute =
 pictureinpicture-unmute =
     .aria-label = मंद करू नका
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

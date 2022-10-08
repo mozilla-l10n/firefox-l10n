@@ -5,50 +5,66 @@
 permissions-window =
     .title = अपवाद
     .style = width: 45em
+
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = संकेतस्थळाचा पत्ता
     .accesskey = d
+
 permissions-block =
     .label = अडवा
     .accesskey = B
+
 permissions-session =
     .label = सत्रकरिता सहमती द्या
     .accesskey = S
+
 permissions-allow =
     .label = परवानगी द्या
     .accesskey = A
+
 permissions-site-name =
     .label = संकेतस्थळ
+
 permissions-status =
     .label = परीस्थिती
+
 permissions-remove =
     .label = संकेतस्थळ काढून टाका
     .accesskey = R
+
 permissions-remove-all =
     .label = सर्व साईट्स काढून टाका
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = बदल जतन करा
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = सर्व वेबसाइटसाठी डीफॉल्टः
+
 permissions-searchbox =
     .placeholder = वेबसाईट शोधा
+
 permissions-capabilities-autoplay-allow =
     .label = ऑडिओ आणि व्हिडिओला अनुमती द्या
 permissions-capabilities-autoplay-block =
     .label = ऑडिओ अवरोधित करा
 permissions-capabilities-autoplay-blockall =
     .label = ऑडिओ आणि व्हिडिओ अवरोधित करा
+
 permissions-capabilities-allow =
     .label = परवानगी द्या
 permissions-capabilities-block =
     .label = अडवा
 permissions-capabilities-prompt =
     .label = नेहमी विचारा
+
 permissions-capabilities-listitem-allow =
     .value = परवानगी द्या
 permissions-capabilities-listitem-block =
@@ -70,6 +86,7 @@ permissions-exceptions-etp-desc = आपण या वेबसाइटवर �
 permissions-exceptions-cookie-window =
     .title = अपवाद - कुकीज व साईट माहिती
     .style = { permissions-window.style }
+
 permissions-exceptions-cookie-window2 =
     .title = अपवाद - कुकीज व साईट माहिती
     .style = { permissions-window2.style }
@@ -83,6 +100,7 @@ permissions-exceptions-cookie-desc = कोणत्या संकेतस्
 permissions-exceptions-popup-window =
     .title = अनुमतीत साइट्स - पॉपअप्स्
     .style = { permissions-window.style }
+
 permissions-exceptions-popup-window2 =
     .title = अनुमतीत साइट्स - पॉपअप्स्
     .style = { permissions-window2.style }
@@ -93,6 +111,7 @@ permissions-exceptions-popup-desc = आपण कोणत्या साइट
 permissions-exceptions-saved-logins-window =
     .title = अपवाद - संचयीत लॉगइन्स
     .style = { permissions-window.style }
+
 permissions-exceptions-saved-logins-window2 =
     .title = अपवाद - संचयीत लॉगइन्स
     .style = { permissions-window2.style }
@@ -103,6 +122,7 @@ permissions-exceptions-saved-logins-desc = खालील संकेतस्
 permissions-exceptions-addons-window =
     .title = अनुमतीत स्थळाकरता - ॲड-ऑन्स् स्थापना
     .style = { permissions-window.style }
+
 permissions-exceptions-addons-window2 =
     .title = अनुमतीत स्थळाकरता - ॲड-ऑन्स् स्थापना
     .style = { permissions-window2.style }
@@ -113,6 +133,7 @@ permissions-exceptions-addons-desc = कुठल्या संकेतस्
 permissions-site-autoplay-window =
     .title = सेटिंग - ऑटोप्ले
     .style = { permissions-window.style }
+
 permissions-site-autoplay-window2 =
     .title = सेटिंग - ऑटोप्ले
     .style = { permissions-window2.style }
@@ -122,6 +143,7 @@ permissions-site-autoplay-window2 =
 permissions-site-notification-window =
     .title = सेटिंग - सूचना परवानग्या
     .style = { permissions-window.style }
+
 permissions-site-notification-window2 =
     .title = सेटिंग - सूचना परवानग्या
     .style = { permissions-window2.style }
@@ -135,6 +157,7 @@ permissions-site-notification-disable-desc = वर नमूद केलेल
 permissions-site-location-window =
     .title = सेटिंग - स्थान परवानग्या
     .style = { permissions-window.style }
+
 permissions-site-location-window2 =
     .title = सेटिंग - स्थान परवानग्या
     .style = { permissions-window2.style }
@@ -151,6 +174,7 @@ permissions-site-location-disable-desc = वर नमूद न केलेल
 permissions-site-camera-window =
     .title = सेटिंग - कॅमेरा परवानग्या
     .style = { permissions-window.style }
+
 permissions-site-camera-window2 =
     .title = सेटिंग - कॅमेरा परवानग्या
     .style = { permissions-window2.style }
@@ -164,6 +188,7 @@ permissions-site-camera-disable-desc = उपरोक्त सूचीबद�
 permissions-site-microphone-window =
     .title = सेटिंग - मायक्रोफोन परवानग्या
     .style = { permissions-window.style }
+
 permissions-site-microphone-window2 =
     .title = सेटिंग - मायक्रोफोन परवानग्या
     .style = { permissions-window2.style }
