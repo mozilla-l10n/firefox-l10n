@@ -32,3 +32,12 @@ findbar-case-sensitive-status =
     .value = (ຕົວພິມນ້ອຍ-ຕົວພິມໃຫຍ່)
 findbar-entire-word-status =
     .value = (ກົງກັນທຸກຄຳເທົ່ານັ້ນ)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value = { $current } ຂອງ { $total } ທີ່ກັງກັນ
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value = ຫລາຍກ່ວາ { $limit } ທີ່ກົງກັນ
