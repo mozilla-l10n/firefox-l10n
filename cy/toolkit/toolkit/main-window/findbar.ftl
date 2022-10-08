@@ -44,3 +44,28 @@ findbar-case-sensitive-status =
     .value = (Mawr/bach)
 findbar-entire-word-status =
     .value = (Geiriau llawn yn unig)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [zero] Dim cydweddiadau
+            [one] { $current } o { $total } cydweddiad
+            [two] { $current } o { $total } gydweddiad
+            [few] { $current } o { $total } cydweddiad
+            [many] { $current } o { $total } chydweddiad
+           *[other] { $current } o { $total } cydweddiad
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [zero] Dim cydweddiadau
+            [one] Mwy nag { $limit } cydweddiad
+            [two] Mwy na { $limit } gydweddiad
+            [few] Mwy nag { $limit } chydweddiad
+            [many] Mwy nag { $limit } chydweddiad
+           *[other] Mwy nag { $limit } cydweddiad
+        }
