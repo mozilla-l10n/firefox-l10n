@@ -30,5 +30,7 @@ findbar-entire-word =
 findbar-not-found = Фраза није пронађена
 findbar-wrapped-to-top = Достигнуто је дно странице, наставак иде одозго
 findbar-wrapped-to-bottom = Достигнут је врх странице, наставак иде одоздо
+findbar-normal-find =
+    .placeholder = Пронађи:
 findbar-case-sensitive-status =
     .value = (осетљиво на мала и велика слова)
