@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Página bloqueada
 ## Error page actions
 
 neterror-copy-to-clipboard-button = Copiar texto al portapapeles
+neterror-learn-more-link = Saber más…
 neterror-override-exception-button = Aceptar el riesgo y continuar
 neterror-pref-reset-button = Restaurar ajustes predeterminados
 neterror-return-to-previous-page-button = Regresar
