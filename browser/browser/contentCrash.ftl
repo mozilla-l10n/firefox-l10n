@@ -5,6 +5,8 @@
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Află mai multe
 
 ## Pending crash reports
 
