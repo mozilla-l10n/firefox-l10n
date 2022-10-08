@@ -16,6 +16,7 @@ config-new-pref-number =
 config-new-pref-cancel-button = Zrušit
 config-new-pref-create-button = Vytvořit
 config-new-pref-change-button = Změnit
+config-pref-toggle-button = Přepnout
 config-pref-reset-button = Obnovit
 config-context-menu-copy-pref-name =
     .label = Kopírovat název
