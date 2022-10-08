@@ -20,6 +20,7 @@ neterror-open-portal-login-page-button = नेटवर्क लॉग इन 
 neterror-override-exception-button = जोखिम स्वीकारा आणि पुढे चालू ठेवा
 neterror-pref-reset-button = पूर्वनिर्धारीत सेटिंग पुनर्स्थापित करा
 neterror-return-to-previous-page-button = मागे जा
+neterror-return-to-previous-page-recommended-button = मागे जा (शिफारसीय)
 neterror-try-again-button = पुन्हा प्रयत्न करा
 neterror-view-certificate-link = प्रमाणपत्र पहा
 
@@ -64,3 +65,4 @@ neterror-sslv3-used = सखोल माहिती: SSL_ERROR_UNSUPPORTED_VER
 neterror-inadequate-security-intro = <b>{ $hostname }</b> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY
+certerror-what-can-you-do-about-it-title = आपण याबद्दल काय करू शकता?
