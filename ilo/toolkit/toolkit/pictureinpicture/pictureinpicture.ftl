@@ -7,3 +7,8 @@ pictureinpicture-mute =
 pictureinpicture-unmute =
     .aria-label = Pagunien
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+

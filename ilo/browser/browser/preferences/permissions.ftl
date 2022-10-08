@@ -5,25 +5,32 @@
 permissions-window =
     .title = Laksid
     .style = width: 45em
+
 permissions-window2 =
     .title = Laksid
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Lapdan
     .accesskey = B
+
 permissions-allow =
     .label = Palubosan
     .accesskey = a
+
 permissions-status =
     .label = Kasasaad
+
 permissions-capabilities-allow =
     .label = Palubosan
 permissions-capabilities-block =
     .label = Lapdan
 permissions-capabilities-prompt =
     .label = Kanayon a Saludsuden
+
 permissions-capabilities-listitem-allow =
     .value = Palubosan
 permissions-capabilities-listitem-block =
