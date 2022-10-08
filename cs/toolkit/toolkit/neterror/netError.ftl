@@ -8,11 +8,14 @@
 
 ## Error page actions
 
+neterror-copy-to-clipboard-button = Zkopírovat text do schránky
 neterror-learn-more-link = Zjistit více…
+neterror-pref-reset-button = Obnovit výchozí nastavení
 neterror-try-again-button = Zkusit znovu
 
 ##
 
+neterror-pref-reset = Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?
 neterror-error-reporting-automatic = Hlásit chyby jako je tato a pomoci tak organizaci { -vendor-short-name } identifikovat a blokovat škodlivé stránky
 
 ## Specific error messages
