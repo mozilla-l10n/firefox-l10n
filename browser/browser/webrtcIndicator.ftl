@@ -18,6 +18,7 @@ webrtc-indicator-title = { -brand-short-name } - Indikator for deling
 
 ## Used as list items in sharing menu
 
+webrtc-item-application = program
 
 ##
 
@@ -57,6 +58,8 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-application =
+    .tooltiptext = En applikation bliver delt. Klik for at kontrollere deling.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +67,14 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Deler en applikation med "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler skærm med { $tabCount } faneblad
+           *[other] Deler skærm med { $tabCount } faneblade
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +87,14 @@ webrtc-screen-system-menu =
 
 ##
 
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } vindue)
+       *[other] { $appName } ({ $windowCount } vinduer)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
