@@ -18,14 +18,25 @@ webrtc-indicator-title = { -brand-short-name } - indikator dijeljenja
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofon
+webrtc-item-audio-capture = zvuk kartice
+webrtc-item-application = aplikacija
+webrtc-item-window = prozor
+webrtc-item-browser = kartica
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Nepoznati izvor
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Kartice koje dijele uređaje
+    .accesskey = u
 webrtc-sharing-window = Dijeliš drugi prozor aplikacije.
 webrtc-sharing-browser-window = Dijeliš { -brand-short-name }.
 webrtc-sharing-screen = Dijeliš svoj cijeli zaslon
@@ -64,6 +75,66 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Upravljanje dijeljenjem
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Upravljanje dijeljenjem na "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Dijeljenje kamere sa "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Dijeljenje kamere s { $tabCount } karticom
+            [few] Dijeljenje kamere sa { $tabCount } kartice
+           *[other] Dijeljenje kamere sa { $tabCount } kartica
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Dijeljenje mikrofona sa "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Dijeljenje mikrofona s { $tabCount } karticom
+            [few] Dijeljenje mikrofona sa { $tabCount } kartice
+           *[other] Dijeljenje mikrofona sa { $tabCount } kartica
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Aplikacija se dijeli sa "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Aplikacija se dijeli s { $tabCount } karticom
+            [few] Aplikacija se dijeli s { $tabCount } kartice
+           *[other] Aplikacija se dijeli s { $tabCount } kartica
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Dijeljenje ekrana sa "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Dijeljenje ekrana s { $tabCount } karticom
+            [few] Dijeljenje ekrana sa { $tabCount } kartice
+           *[other] Dijeljenje ekrana sa { $tabCount } kartica
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Dijeljenje prozora sa "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Dijeljenje prozora s { $tabCount } karticom
+            [few] Dijeljenje prozora sa { $tabCount } kartice
+           *[other] Dijeljenje prozora sa { $tabCount } kartica
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Dijeljenje kartice sa "{ $streamTitle }"
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Dijeljenje kartice s { $tabCount } karticom
+            [few] Dijeljenje kartica sa { $tabCount } kartice
+           *[other] Dijeljenje kartica sa { $tabCount } kartica
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,9 +147,23 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Cijeli ekran
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } prozor)
+        [few] { $appName } ({ $windowCount } prozora)
+       *[other] { $appName } ({ $windowCount } prozora)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Dozvoli
+    .accesskey = D
 
 ##
 
+webrtc-remember-allow-checkbox = Zapamti moju odluku
