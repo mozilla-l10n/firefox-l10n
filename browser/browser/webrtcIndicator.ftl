@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Indicator voor delen
+webrtc-indicator-window =
+    .title = { -brand-short-name } – Indicator voor delen
 
 ## Used as list items in sharing menu
 
@@ -148,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = { $origin } toestaan om het geluid van dit tabblad te beluisteren?
+webrtc-allow-share-camera = { $origin } toestaan om uw camera te gebruiken?
+webrtc-allow-share-microphone = { $origin } toestaan om uw microfoon te gebruiken?
+webrtc-allow-share-screen = { $origin } toestaan om uw scherm te zien?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } toestaan om andere luidsprekers te gebruiken?
+webrtc-allow-share-camera-and-microphone = { $origin } toestaan om uw camera en microfoon te gebruiken?
+webrtc-allow-share-camera-and-audio-capture = { $origin } toestaan om uw camera te gebruiken en het geluid van dit tabblad te beluisteren?
+webrtc-allow-share-screen-and-microphone = { $origin } toestaan uw microfoon te gebruiken en uw scherm te zien?
+webrtc-allow-share-screen-and-audio-capture = { $origin } toestaan om het geluid van dit tabblad te beluisteren en uw scherm te zien?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = { $origin } toestaan om { $thirdParty } toegang tot uw camera te geven?
+webrtc-allow-share-microphone-unsafe-delegations = { $origin } toestaan om { $thirdParty } toegang tot uw microfoon te geven?
+webrtc-allow-share-screen-unsafe-delegation = { $origin } toestaan om { $thirdParty } uw scherm te laten zien?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = { $origin } toestaan om { $thirdParty } toegang tot andere luidsprekers te geven?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $origin } toestaan om { $thirdParty } toegang tot uw camera en microfoon te geven?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $origin } toestaan om { $thirdParty } toegang tot uw camera te geven en geluid van dit tabblad te beluisteren?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin } toestaan { $thirdParty } toegang tot uw microfoon te geven en uw scherm te laten zien?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } toestaan om { $thirdParty } het geluid van dit tabblad te laten beluisteren en uw scherm te zien?
 
 ##
 
+webrtc-share-screen-warning = Deel alleen schermen met websites die u vertrouwt. Delen kan misleidende websites toestaan om als u te surfen en uw privégegevens te stelen.
+webrtc-share-browser-warning = Deel { -brand-short-name } alleen met websites die u vertrouwt. Delen kan misleidende websites toestaan om als u te surfen en uw privégegevens te stelen.
 webrtc-share-screen-learn-more = Meer info
 webrtc-pick-window-or-screen = Venster of scherm selecteren
 webrtc-share-entire-screen = Gehele scherm
+webrtc-share-pipe-wire-portal = Instellingen van het besturingssysteem gebruiken
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Scherm { $monitorIndex }
@@ -176,10 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Toestaan
     .accesskey = T
+webrtc-action-block =
+    .label = Blokkeren
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Altijd blokkeren
+    .accesskey = t
+webrtc-action-not-now =
+    .label = Niet nu
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Deze beslissing onthouden
+webrtc-mute-notifications-checkbox = Websitemeldingen dempen tijdens delen
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan geen permanente toegang tot uw scherm toestaan.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan geen permanente toegang tot het geluid van uw tabblad toestaan zonder te vragen welk tabblad moet worden gedeeld.
 webrtc-reason-for-no-permanent-allow-insecure = Uw verbinding met deze website is niet beveiligd. Om u te beschermen, zal { -brand-short-name } alleen toegang voor deze sessie toestaan.
