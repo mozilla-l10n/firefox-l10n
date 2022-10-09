@@ -134,4 +134,5 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = จดจำการตัดสินใจนี้
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ไม่สามารถอนุญาตการเข้าถึงแบบถาวรให้กับหน้าจอของคุณได้
 webrtc-reason-for-no-permanent-allow-insecure = การเชื่อมต่อของคุณไปยังไซต์นี้ไม่ปลอดภัย เพื่อปกป้องคุณ { -brand-short-name } จะอนุญาตให้เข้าถึงเฉพาะในวาระนี้เท่านั้น
