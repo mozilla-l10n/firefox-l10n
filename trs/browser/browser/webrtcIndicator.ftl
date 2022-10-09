@@ -74,7 +74,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Rajsun nugua'ān si kamarat 'ngà { $tabCount } rakïj ñanj
-           *[other] { " " }Rajsun nugua'ān kamara 'ngà { $tabCount } nej rakïj ñaj
+           *[other] Rajsun nugua'ān kamara 'ngà { $tabCount } nej rakïj ñaj
         }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Rajsun nugua'āt si Mikrofonot 'ngà “{ $streamTitle }”
@@ -82,7 +82,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Rajsun nugua'ān si mickrofonot 'ngà { $tabCount } rakïj ñanj
-           *[other] { " " }Rajsun nugua'ān mikrofono 'ngà { $tabCount } nej rakïj ñaj
+           *[other] Rajsun nugua'ān mikrofono 'ngà { $tabCount } nej rakïj ñaj
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Rajsun nugua'āt si Aplikasiônt 'ngà “{ $streamTitle }”
@@ -90,7 +90,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Rajsun nugua'ān aplikasiôn 'ngà { $tabCount } rakïj ñanj
-           *[other] { " " }Rajsun nugua'ān aplicasiô 'ngà { $tabCount } nej rakïj ñaj
+           *[other] Rajsun nugua'ān aplicasiô 'ngà { $tabCount } nej rakïj ñaj
         }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Rajsun nugua'āt si pantayât 'ngà “{ $streamTitle }”
@@ -98,7 +98,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Rajsun nugua'ān pantayâ 'ngà { $tabCount } rakïj ñanj
-           *[other] { " " }Rajsun nugua'ān pantayâ 'ngà { $tabCount } nej rakïj ñaj
+           *[other] Rajsun nugua'ān pantayâ 'ngà { $tabCount } nej rakïj ñaj
         }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Rajsun nugua'āt si ventanat 'ngà “{ $streamTitle }”
@@ -106,7 +106,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Rajsun nugua'ān ventana 'ngà { $tabCount } rakïj ñanj
-           *[other] { " " }Rajsun nugua'ān ventana 'ngà { $tabCount } nej rakïj ñaj
+           *[other] Rajsun nugua'ān ventana 'ngà { $tabCount } nej rakïj ñaj
         }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Rajsun nugua'āt si rakïj ñanj 'ngà “{ $streamTitle }”
@@ -116,7 +116,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Rajsun nugua'ān rakïj ñaj 'ngà { $tabCount } rakïj ñanj
-           *[other] { " " }Rajsun nugua'ān rakïj ñaj 'ngà { $tabCount } nej rakïj ñaj
+           *[other] Rajsun nugua'ān rakïj ñaj 'ngà { $tabCount } nej rakïj ñaj
         }
 
 ## Variables:
