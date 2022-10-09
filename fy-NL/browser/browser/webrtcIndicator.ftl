@@ -20,6 +20,7 @@ webrtc-indicator-title = { -brand-short-name } – Yndikator foar dielen
 
 webrtc-item-camera = kamera
 webrtc-item-microphone = mikrofoan
+webrtc-item-audio-capture = ljepblêdaudio
 webrtc-item-application = applikaasje
 webrtc-item-screen = skerm
 webrtc-item-window = finster
@@ -153,6 +154,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-entire-screen = Folslein skerm
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Skerm { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
