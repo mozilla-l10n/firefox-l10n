@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Chỉ số chia sẻ
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Chỉ số chia sẻ
 
 ## Used as list items in sharing menu
 
@@ -69,6 +71,10 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Bạn đang chia sẻ máy ảnh và micro. Nhấn vào đây để kiểm soát những gì được chia sẻ.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Bạn đang chia sẻ máy ảnh. Nhấn vào đây để kiểm soát những gì được chia sẻ.
 webrtc-indicator-sharing-microphone =
     .tooltiptext = Bạn đang chia sẻ micro. Nhấn vào đây để kiểm soát những gì được chia sẻ.
 webrtc-indicator-sharing-application =
@@ -90,6 +96,10 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Kiểm soát chia sẻ
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Kiểm soát chia sẻ với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Chia sẻ máy ảnh với “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label = Đang chia sẻ máy ảnh với { $tabCount } thẻ
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Chia sẻ micrô với "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -116,16 +126,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Cho phép { $origin } nghe âm thanh của thẻ này?
+webrtc-allow-share-camera = Cho phép { $origin } sử dụng máy ảnh của bạn?
+webrtc-allow-share-microphone = Cho phép { $origin } sử dụng micrô của bạn?
+webrtc-allow-share-screen = Cho phép { $origin } xem màn hình của bạn?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Cho phép { $origin } sử dụng các loa khác?
+webrtc-allow-share-camera-and-microphone = Cho phép { $origin } sử dụng máy ảnh và micrô của bạn?
+webrtc-allow-share-camera-and-audio-capture = Cho phép { $origin } sử dụng máy ảnh của bạn và nghe âm thanh của thẻ này?
+webrtc-allow-share-screen-and-microphone = Cho phép { $origin } sử dụng micrô của bạn và xem màn hình của bạn?
+webrtc-allow-share-screen-and-audio-capture = Cho phép { $origin } nghe âm thanh của thẻ này và xem màn hình của bạn?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào máy ảnh của bạn?
+webrtc-allow-share-microphone-unsafe-delegations = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào micrô của bạn?
+webrtc-allow-share-screen-unsafe-delegation = Cho phép { $origin } cấp quyền cho { $thirdParty } xem màn hình của bạn?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào các loa khác?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào máy ảnh và micrô của bạn?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào máy ảnh của bạn và nghe âm thanh của thẻ này?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào micrô và xem màn hình của bạn?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Cho phép { $origin } cấp quyền cho { $thirdParty } nghe âm thanh của thẻ này và xem màn hình của bạn?
 
 ##
 
+webrtc-share-screen-warning = Chỉ chia sẻ màn hình với các trang web mà bạn tin tưởng. Chia sẻ có thể cho phép các trang web lừa đảo duyệt web như bạn và lấy cắp dữ liệu cá nhân của bạn.
+webrtc-share-browser-warning = Chỉ chia sẻ { -brand-short-name } với các trang web mà bạn tin tưởng. Chia sẻ có thể cho phép các trang web lừa đảo duyệt web như bạn và lấy cắp dữ liệu cá nhân của bạn.
 webrtc-share-screen-learn-more = Tìm hiểu thêm
+webrtc-pick-window-or-screen = Chọn cửa sổ hoặc màn hình
 webrtc-share-entire-screen = Toàn bộ màn hình
+webrtc-share-pipe-wire-portal = Sử dụng cài đặt của hệ điều hành
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Màn hình { $monitorIndex }
@@ -139,9 +174,19 @@ webrtc-share-application = { $appName } ({ $windowCount } cửa sổ)
 webrtc-action-allow =
     .label = Cho phép
     .accesskey = A
+webrtc-action-block =
+    .label = Chặn
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Luôn chặn
+    .accesskey = w
+webrtc-action-not-now =
+    .label = Không phải bây giờ
+    .accesskey = N
 
 ##
 
+webrtc-mute-notifications-checkbox = Ẩn thông báo trang web khi chia sẻ
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } có thể vĩnh viễn không cho phép quyền truy cập vào màn hình của bạn.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } không thể cho phép vĩnh viễn quyền truy cập vào phần âm thanh của thẻ mà không cần yêu cầu thẻ đó chia sẻ.
 webrtc-reason-for-no-permanent-allow-insecure = Kết nối của bạn đến website này không an toàn. Để bảo vệ bạn, { -brand-short-name } sẽ chỉ cho phép truy cập vào trang này trong phiên hiện tại.
