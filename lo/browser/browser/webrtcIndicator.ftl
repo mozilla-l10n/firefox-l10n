@@ -15,14 +15,26 @@
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = ກ້ອງ
+webrtc-item-microphone = ໄມໂຄຣໂຟນ
+webrtc-item-audio-capture = ສຽງຂອງແທັບ
+webrtc-item-application = ແອັບພລິເຄຊັນ
+webrtc-item-screen = ຫນ້າຈໍ
+webrtc-item-window = ວິນໂດ
+webrtc-item-browser = ແທັບ
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = ບໍ່ຮູ້ຈັກແຫລ່ງທີ່ມາ
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = ອຸປະກອນແບ່ງປັນແທັບ
+    .accesskey = d
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -50,9 +62,25 @@ webrtc-sharing-menuitem =
 
 ##
 
+webrtc-share-screen-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+webrtc-share-entire-screen = ທັງຫນ້າຈໍ
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = ຫນ້າຈໍ { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application = { $appName } ({ $windowCount } ວິນໂດ)
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = ອະນຸຍາດ
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = ຈົດຈຳການຕັດສິນໃຈນີ້
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ບໍ່ສາມາດອະນຸຍາດການເຂົ້າເຖິງຫນ້າຈໍຂອງທ່ານແບບຖາວອນໄດ້.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ບໍ່ສາມາດອະນຍຸາດການເຂົ້າເຖິງສຽງຂອງແທັບຂອງທ່ານແບບຖາວອນໄດ້ໂດຍບໍ່ຖາມແທັບທີ່ຕ້ອງການແບ່ງປັນ.
+webrtc-reason-for-no-permanent-allow-insecure = ການເຊື່ອມຕໍ່ໄປທີ່ເວັບໄຊທ໌ນີ້ຂອງທ່ານແມ່ນບໍ່ປອດໄພ. ເພື່ອປົກປ້ອງທ່ານ, { -brand-short-name } ຈະອະນຸຍາດການເຂົ້າເຖິງສະເພາະສຳລັບເຊສຊັນນີ້ເທົ່ານັ້ນ.
