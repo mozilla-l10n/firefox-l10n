@@ -158,6 +158,14 @@ webrtc-share-entire-screen = Pantalla completa
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Pantalla { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } ventana)
+       *[other] { $appName } ({ $windowCount } ventanas)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
@@ -167,3 +175,7 @@ webrtc-action-allow =
 
 ##
 
+webrtc-remember-allow-checkbox = Recordar esta decisión
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no puede conceder acceso permanente a su pantalla.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no puede permitir acceso permanente al audio de su pestaña sin preguntar qué pestaña compartir.
+webrtc-reason-for-no-permanent-allow-insecure = Su conexión a este sitio no es segura. Para protegerle, { -brand-short-name } solo permitirá el acceso en esta sesión.
