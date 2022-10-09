@@ -133,5 +133,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Памятаць гэтае рашэнне
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не можа дазволіць пастаянны доступ да вашага экрана.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не можа даць сталы доступ да аўдыё з карткі, не запытваючы, якой з картак дзяліцца.
 webrtc-reason-for-no-permanent-allow-insecure = Вашае злучэнне з гэтым сайтам небяспечнае. Каб вас абараніць, { -brand-short-name } дасць доступ толькі на гэты сеанс.
