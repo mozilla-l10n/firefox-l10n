@@ -18,9 +18,16 @@ webrtc-indicator-title = { -brand-short-name } - индикатор дељења
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = камера
+webrtc-item-microphone = микрофон
+webrtc-item-application = апликација
+webrtc-item-screen = екран
+webrtc-item-window = прозор
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Непознат извор
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -57,6 +64,8 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Камера и микрофон се деле. Кликните да контролишете дељење.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +73,12 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Контрола дељења
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Контролиши дељење на "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Делим прозор са "{ $streamTitle }"
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +91,19 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Цео екран
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Екран { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } прозор)
+        [few] { $appName } ({ $windowCount } прозора)
+       *[other] { $appName } ({ $windowCount } прозора)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
