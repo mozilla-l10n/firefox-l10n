@@ -152,3 +152,4 @@ webrtc-action-allow =
 
 ##
 
+webrtc-remember-allow-checkbox = ಈ ನಿರ್ಣಯವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ
