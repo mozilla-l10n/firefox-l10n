@@ -18,14 +18,26 @@ webrtc-indicator-title = { -brand-short-name } — 分享指示器
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = 攝影機
+webrtc-item-microphone = 麥克風
+webrtc-item-audio-capture = 分頁音訊
+webrtc-item-application = 應用程式
+webrtc-item-screen = 畫面
+webrtc-item-window = 視窗
+webrtc-item-browser = 分頁
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = 未知來源
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = 正在分享裝置的分頁
+    .accesskey = d
 webrtc-sharing-window = 您正在分享其他應用程式視窗。
 webrtc-sharing-browser-window = 您正在分享 { -brand-short-name }。
 webrtc-sharing-screen = 您正在分享整個畫面。
@@ -64,6 +76,36 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = 調整分享的項目
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = 調整與「{ $streamTitle }」分享的項目
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = 與「{ $streamTitle }」分享攝影機
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label = 與 { $tabCount } 個分頁分享攝影機
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = 與「{ $streamTitle }」分享麥克風
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label = 與 { $tabCount } 個分頁分享麥克風
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = 與「{ $streamTitle }」分享應用程式
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label = 與 { $tabCount } 個分頁分享應用程式
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = 與「{ $streamTitle }」分享畫面
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label = 與 { $tabCount } 個分頁分享畫面
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = 與「{ $streamTitle }」分享視窗
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label = 正與 { $tabCount } 個分頁分享視窗
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = 與「{ $streamTitle }」分享分頁
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label = 正與 { $tabCount } 個分頁分享分頁
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +118,14 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = 整個畫面
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = 畫面 { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application = { $appName }（{ $windowCount } 個視窗）
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
