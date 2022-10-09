@@ -77,6 +77,10 @@ webrtc-indicator-sharing-microphone =
     .tooltiptext = Din mikrofon delas. Klicka för att kontrollera delning.
 webrtc-indicator-sharing-application =
     .tooltiptext = Ett program delas. Klicka för att kontrollera delning.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Din skärm delas. Klicka för att kontrollera delning.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Ett fönster delas. Klicka för att kontrollera delning.
 webrtc-indicator-sharing-browser =
     .tooltiptext = En flik delas. Klicka för att kontrollera delning.
 
