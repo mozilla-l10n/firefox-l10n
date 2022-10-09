@@ -81,16 +81,54 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = Настройки на споделяне за „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Споделяте камера с „{ $streamTitle }“
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Споделяте камера с { $tabCount } раздел
+           *[other] Споделяте камера с { $tabCount } раздела
+        }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Споделяте микрофон с „{ $streamTitle }“
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Споделяте микрофон с { $tabCount } раздел
+           *[other] Споделяте микрофон с { $tabCount } раздела
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Споделяте приложение с „{ $streamTitle }“
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Споделяте приложение с { $tabCount } раздел
+           *[other] Споделяте приложение с { $tabCount } раздела
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Споделяте екран с „{ $streamTitle }“
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Споделяте екран с { $tabCount } раздел
+           *[other] Споделяте екран с { $tabCount } раздела
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Споделяте прозорец с „{ $streamTitle }“
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Споделяте прозорец с { $tabCount } раздел
+           *[other] Споделяте прозорец с { $tabCount } раздела
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Споделяте раздел с „{ $streamTitle }“
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Споделяте прозорец с { $tabCount } раздел
+           *[other] Споделяте прозорец с { $tabCount } раздела
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
