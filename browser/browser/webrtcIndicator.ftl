@@ -154,6 +154,9 @@ webrtc-allow-share-audio-capture = ¿Permitir a { $origin } escuchar el audio de
 webrtc-allow-share-camera = ¿Permitir que { $origin } use tu cámara?
 webrtc-allow-share-microphone = ¿Permitir que { $origin } use tu micrófono?
 webrtc-allow-share-screen = ¿Permitir que { $origin } vea tu pantalla?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = ¿Permitir que { $origin } use altavoces alternativos?
 webrtc-allow-share-camera-and-microphone = ¿Permitir a { $origin } usar tu cámara y micrófono?
 webrtc-allow-share-camera-and-audio-capture = ¿Permitir a { $origin } usar tu cámara y escuchar el audio de esta pestaña?
 webrtc-allow-share-screen-and-microphone = ¿Permitir a { $origin } usar tu micrófono y ver tu pantalla?
@@ -166,6 +169,9 @@ webrtc-allow-share-screen-and-audio-capture = ¿Permitir a { $origin } escuchar 
 webrtc-allow-share-camera-unsafe-delegation = ¿Permitir a { $origin } dar a { $thirdParty } permiso para acceder a tu cámara?
 webrtc-allow-share-microphone-unsafe-delegations = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu micrófono?
 webrtc-allow-share-screen-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu pantalla?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = ¿Permitir que { $origin } de acceso a los altavoces alternativos a { $thirdParty }?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu cámara y micrófono?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu cámara y escuchar al audio de esta pestaña?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu micrófono y ver tu pantalla?
