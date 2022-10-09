@@ -67,6 +67,8 @@ webrtc-screen-system-menu =
 
 webrtc-indicator-sharing-camera-and-microphone =
     .tooltiptext = Takamiṛat d usawaḍ-inek ttwabḍan. Sit i usenqed n beṭṭu.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Takamirat-inek tettwabḍa. Sit i usenqed n beṭṭu.
 webrtc-indicator-sharing-microphone =
     .tooltiptext = Asawaḍ-inek ittwabḍa. Sit i usenqed n beṭṭu.
 webrtc-indicator-sharing-application =
@@ -88,36 +90,48 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Senqed beṭṭu
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Beṭṭu n usenqed d "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Beṭṭu n tkamirat d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Taɣdellest tebḍa d  { $tabCount } n yiccer
            *[other] Taɣdellest tebḍa d { $tabCount } n yiccaren
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Beṭṭu n usawaḍ d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Asawaḍ ibḍa d  { $tabCount } n yiccer
            *[other] Isawaḍen bḍan d { $tabCount } n yiccaren
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Beṭṭu n usnas d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Asnas ibḍa d  { $tabCount } n yiccer
            *[other] Isnasen bḍan d { $tabCount } n yiccaren
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Beṭṭu n ugdil d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Agdil ibḍa d  { $tabCount } n yiccer
            *[other] Iggdilen bḍan d { $tabCount } n yiccaren
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Beṭṭu n usfaylu d "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Asfaylu ibḍa d  { $tabCount } n yiccer
            *[other] Isfuyla bḍan d { $tabCount } n yiccaren
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Beṭṭu n yiccer d "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
