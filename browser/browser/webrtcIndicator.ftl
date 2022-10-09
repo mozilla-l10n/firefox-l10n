@@ -37,6 +37,9 @@ webrtc-sharing-menuitem-unknown-host = Origine necunoscută
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = File care partajează dispozitive
+    .accesskey = d
 webrtc-sharing-window = Partajezi o altă fereastră a aplicației.
 webrtc-sharing-browser-window = Partajezi { -brand-short-name }.
 webrtc-sharing-screen = Îți partajezi tot ecranul.
@@ -145,11 +148,19 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-camera = Permiți { $origin } să îți folosească camera?
+webrtc-allow-share-microphone = Permiți lui { $origin } să îți folosească microfonul?
+webrtc-allow-share-screen = Permiți lui { $origin } să îți vadă ecranul?
+webrtc-allow-share-camera-and-microphone = Permiți lui { $origin } să îți folosească microfonul și camera?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la cameră?
+webrtc-allow-share-screen-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } permisiunea de a-ți vedea ecranul?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la cameră și microfon?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } permisiunea de a asculta sunetul acestei file și de a-ți vedea ecranul?
 
 ##
 
