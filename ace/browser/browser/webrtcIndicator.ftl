@@ -17,6 +17,7 @@
 
 webrtc-item-camera = kamèra
 webrtc-item-application = aplikasi
+webrtc-item-screen = layeu
 webrtc-item-window = tingkap
 webrtc-item-browser = tab
 
@@ -55,9 +56,15 @@ webrtc-sharing-menuitem =
 ##
 
 webrtc-share-screen-learn-more = Meurunoë Lom
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Layeu { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Peuijin
+    .accesskey = A
 
 ##
 
