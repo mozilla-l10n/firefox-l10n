@@ -18,9 +18,16 @@ webrtc-indicator-title = { -brand-short-name } – Yndikator foar dielen
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofoan
+webrtc-item-application = applikaasje
+webrtc-item-screen = skerm
+webrtc-item-window = finster
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Unbekende orizjine
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -57,6 +64,18 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Jo kamera en mikrofoan wurde dield. Klik om dielen te behearen.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Jo kamera wurdt dield. Klik om dielen te behearen.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Jo mikrofoan wurdt dield. Klik om dielen te behearen.
+webrtc-indicator-sharing-application =
+    .tooltiptext = In applikaasje wurdt dield. Klik om dielen te behearen.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Jo skerm wurdt dield. Klik om dielen te behearen.
+webrtc-indicator-sharing-window =
+    .tooltiptext = In finster wurdt dield. Klik om dielen te behearen.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +83,38 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Dielen beheare
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Kamera dield mei { $tabCount } ljepblêd
+           *[other] Kamera dield mei { $tabCount } ljepblêden
+        }
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Mikrofoan dield mei { $tabCount } ljepblêd
+           *[other] Mikrofoan dield mei { $tabCount } ljepblêden
+        }
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] In applikaasje dield mei { $tabCount } ljepblêdb
+           *[other] Applikaasjes dield mei { $tabCount } ljepblêden
+        }
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Skerm dield mei { $tabCount } ljepblêd
+           *[other] Skerm dield mei { $tabCount } ljepblêden
+        }
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Finster dield mei { $tabCount } ljepblêd
+           *[other] Finster dield mei { $tabCount } ljepblêden
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +127,15 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Folslein skerm
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } finster)
+       *[other] { $appName } ({ $windowCount } finsters)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
