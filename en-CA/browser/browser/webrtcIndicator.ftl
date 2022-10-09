@@ -154,6 +154,9 @@ webrtc-allow-share-audio-capture = Allow { $origin } to listen to this tab’s a
 webrtc-allow-share-camera = Allow { $origin } to use your camera?
 webrtc-allow-share-microphone = Allow { $origin } to use your microphone?
 webrtc-allow-share-screen = Allow { $origin } to see your screen?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Allow { $origin } to use other speakers?
 webrtc-allow-share-camera-and-microphone = Allow { $origin } to use your camera and microphone?
 webrtc-allow-share-camera-and-audio-capture = Allow { $origin } to use your camera and listen to this tab’s audio?
 webrtc-allow-share-screen-and-microphone = Allow { $origin } to use your microphone and see your screen?
@@ -166,6 +169,9 @@ webrtc-allow-share-screen-and-audio-capture = Allow { $origin } to listen to thi
 webrtc-allow-share-camera-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to your camera?
 webrtc-allow-share-microphone-unsafe-delegations = Allow { $origin } to give { $thirdParty } access to your microphone?
 webrtc-allow-share-screen-unsafe-delegation = Allow { $origin } to give { $thirdParty } permission to see your screen?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to other speakers?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to your camera and microphone?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to your camera and listen to this tab’s audio?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to your microphone and see your screen?
@@ -202,6 +208,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Always block
     .accesskey = w
+webrtc-action-not-now =
+    .label = Not now
+    .accesskey = N
 
 ##
 
