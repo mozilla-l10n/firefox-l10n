@@ -20,9 +20,11 @@ webrtc-indicator-title = { -brand-short-name } – Megosztásjelző
 
 webrtc-item-camera = kamera
 webrtc-item-microphone = mikrofon
+webrtc-item-audio-capture = lap hangja
 webrtc-item-application = alkalmazás
 webrtc-item-screen = képernyő
 webrtc-item-window = ablak
+webrtc-item-browser = lap
 
 ##
 
@@ -79,6 +81,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Képernyője meg van osztva. Kattintson a megosztási beállításokhoz.
 webrtc-indicator-sharing-window =
     .tooltiptext = Egy ablak meg van osztva. Kattintson a megosztási beállításokhoz.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Egy lap meg van osztva. Kattintson a megosztási beállításokhoz.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -88,35 +92,57 @@ webrtc-indicator-sharing-window =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = Megosztás beállítása
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Megosztás beállítása ezen: „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Kamera megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Kamera megosztása { $tabCount } lappal
            *[other] Kamera megosztása { $tabCount } lappal
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Mikrofon megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Mikrofon megosztása { $tabCount } lappal
            *[other] Mikrofon megosztása { $tabCount } lappal
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Alkalmazás megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Alkalmazás megosztása { $tabCount } lappal
            *[other] Alkalmazás megosztása { $tabCount } lappal
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Képernyő megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Képernyő megosztása { $tabCount } lappal
            *[other] Képernyő megosztása { $tabCount } lappal
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Ablak megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Ablak megosztása { $tabCount } lappal
            *[other] Ablak megosztása { $tabCount } lappal
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Lap megosztása vele: „{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Lap megosztása { $tabCount } lappal
+           *[other] Lap megosztása { $tabCount } lappal
         }
 
 ## Variables:
@@ -130,7 +156,11 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = További tudnivalók
 webrtc-share-entire-screen = Teljes képernyő
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = { $monitorIndex }. képernyő
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
@@ -142,6 +172,10 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Engedélyezés
+    .accesskey = E
 
 ##
 
+webrtc-remember-allow-checkbox = A döntés megjegyzése
