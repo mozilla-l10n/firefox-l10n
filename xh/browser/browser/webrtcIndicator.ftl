@@ -89,8 +89,8 @@ webrtc-indicator-menuitem-sharing-application-with =
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Yabelana ngosetyenziso nethebhu { $tabCount }{ " " }
-           *[other] { " " }Yabelana ngosetyenziso neethebhu { $tabCount }
+            [one] Yabelana ngosetyenziso nethebhu { $tabCount }
+           *[other] Yabelana ngosetyenziso neethebhu { $tabCount }
         }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ukwabelana ngeskrini ne-"{ $streamTitle }"
