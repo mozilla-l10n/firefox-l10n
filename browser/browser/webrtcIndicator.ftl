@@ -18,9 +18,17 @@ webrtc-indicator-title = { -brand-short-name } - Indicador de partilha
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = câmara
+webrtc-item-microphone = microfone
+webrtc-item-application = aplicação
+webrtc-item-screen = ecrã
+webrtc-item-window = janela
+webrtc-item-browser = separador
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Origem desconhecida
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -57,6 +65,18 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = A sua câmara e microfone estão a ser partilhados. Clique para controlar a partilha.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = A sua câmara está a ser partilhada. Clique para controlar a partilha.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = O seu microfone está a ser partilhado. Clique para controlar a partilha.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Está a ser partilhada uma aplicação. Clique para controlar a partilha.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = O seu ecrã está a ser partilhado. Clique para controlar a partilha.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Uma janela está a ser partilhada. Clique para controlar a partilha.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +84,34 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Controlar partilha
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A partilhar câmara com { $tabCount } separador
+           *[other] A partilhar câmara com { $tabCount } separadores
+        }
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A partilhar uma aplicação com { $tabCount } separador
+           *[other] A partilhar uma aplicação com { $tabCount } separadores
+        }
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A partilhar ecrã com { $tabCount } separador
+           *[other] A partilhar ecrã com { $tabCount } separadores
+        }
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A partilhar um separador com { $tabCount } separador
+           *[other] A partilhar separadores com { $tabCount } separadores
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +124,14 @@ webrtc-screen-system-menu =
 
 ##
 
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } janela)
+       *[other] { $appName } ({ $windowCount } janelas)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
