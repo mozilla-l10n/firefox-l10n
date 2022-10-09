@@ -18,9 +18,16 @@ webrtc-indicator-title = { -brand-short-name } - źěleński pokazowak
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofon
+webrtc-item-application = nałoženje
+webrtc-item-screen = wobrazowka
+webrtc-item-window = wokno
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Njeznaty póchad
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -57,6 +64,18 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Waša kamera a waš mikrofon se źělotej. Klikniśo, aby źělenje wóźił.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Waša kamera se źěli. Klikniśo, aby źělenje wóźił.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Waš mikrofon se źěli. Klikniśo, aby źělenje wóźił.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Nałoženje se źěli. Klikniśo, aby źělenje kontrolěrował.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Waša wobrazowka se źěli. Klikniśo, aby źělenje wóźił.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Wokno se źěli. Klikniśo, aby źělenje wóźił.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +83,20 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Źělenje wóźiś
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Źělenje na "{ $streamTitle }" wóźiś
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Kameru z "{ $streamTitle }" źěliś
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Mikrofon z "{ $streamTitle }" źěliś
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Nałoženje z "{ $streamTitle }" źěliś
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Wobrazowku z "{ $streamTitle }" źěliś
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Wokno z "{ $streamTitle }" źěliś
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,9 +109,29 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = Dalšne informacije
+webrtc-share-entire-screen = Ceła wobrazowka
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Wobrazowka { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } wokno)
+        [two] { $appName } ({ $windowCount } woknje)
+        [few] { $appName } ({ $windowCount } wokna)
+       *[other] { $appName } ({ $windowCount } woknow)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Dowóliś
+    .accesskey = D
 
 ##
 
+webrtc-remember-allow-checkbox = Toś ten rozsud se spomnjeś
+webrtc-reason-for-no-permanent-allow-insecure = Waš zwisk z toś tym sedłom njejo wěsty. Aby was šćitał, { -brand-short-name } dowólijo jano pśistup za toś to pósejźenje.
