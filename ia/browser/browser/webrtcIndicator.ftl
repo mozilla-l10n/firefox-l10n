@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicator de compartimento
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indicator de compartimento
 
 ## Used as list items in sharing menu
 
@@ -153,8 +155,11 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-browser-warning = Comparti { -brand-short-name } solo con sitos a que tu confide. Le compartimento pote permitter que sitos fraudulente naviga in tu nomine e roba tu datos private.
 webrtc-share-screen-learn-more = Saper plus
+webrtc-pick-window-or-screen = Seliger fenestra o schermo
 webrtc-share-entire-screen = Tote le schermo
+webrtc-share-pipe-wire-portal = Usar parametros del systema operative
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Schermo { $monitorIndex }
@@ -172,6 +177,15 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permitter
     .accesskey = P
+webrtc-action-block =
+    .label = Blocar
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Blocar sempre
+    .accesskey = s
+webrtc-action-not-now =
+    .label = Non ora
+    .accesskey = N
 
 ##
 
