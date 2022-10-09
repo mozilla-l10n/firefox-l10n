@@ -15,9 +15,16 @@
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = కేమెరా
+webrtc-item-application = అనువర్తనం
+webrtc-item-screen = తెర
+webrtc-item-window = విండో
+webrtc-item-browser = ట్యాబు
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = తెలియని మూలం
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -50,6 +57,18 @@ webrtc-sharing-menuitem =
 
 ##
 
+webrtc-share-entire-screen = మొత్తం తెర
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = తెర { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } విండో)
+       *[other] { $appName } ({ $windowCount } విండోలు)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
