@@ -178,9 +178,12 @@ webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin } erlaube
 
 ##
 
+webrtc-share-screen-warning = Erlauben Sie nur Websites Ihres Vertrauens Zugriff auf Ihre Bildschirme. Der Zugriff durch betrügerische Websites würde diesen erlauben, im Internet als Sie zu surfen und private Daten zu stehlen.
+webrtc-share-browser-warning = Erlauben Sie nur Websites Ihres Vertrauens Zugriff auf { -brand-short-name }. Der Zugriff durch betrügerische Websites würde diesen erlauben, im Internet als Sie zu surfen und private Daten zu stehlen.
 webrtc-share-screen-learn-more = Weitere Informationen
 webrtc-pick-window-or-screen = Fenster oder Bildschirm auswählen
 webrtc-share-entire-screen = Vollständiger Bildschirm
+webrtc-share-pipe-wire-portal = Betriebssystem-Einstellungen verwenden
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Bildschirm { $monitorIndex }
@@ -198,6 +201,15 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Erlauben
     .accesskey = E
+webrtc-action-block =
+    .label = Blockieren
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Immer blockieren
+    .accesskey = m
+webrtc-action-not-now =
+    .label = Nicht jetzt
+    .accesskey = N
 
 ##
 
