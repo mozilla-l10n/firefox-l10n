@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Індыкатар супольнага доступу
 webrtc-indicator-window =
     .title = { -brand-short-name } - Індыкатар супольнага доступу
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Вы абагульваеце камеру. Націсніце для кантролю сумеснага доступу.
 webrtc-microphone-system-menu =
@@ -172,6 +167,7 @@ webrtc-allow-share-screen-and-audio-capture = Дазволіць { $origin } с�
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ да праслухоўвання аўдыё з гэтай карткі?
 webrtc-allow-share-camera-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ да вашай камеры?
 webrtc-allow-share-microphone-unsafe-delegations = Дазволіць { $origin } даць { $thirdParty } доступ да вашага мікрафона?
 webrtc-allow-share-screen-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ, каб бачыць ваш экран?
