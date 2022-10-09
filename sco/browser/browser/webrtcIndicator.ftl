@@ -81,11 +81,13 @@ webrtc-allow-share-speaker = Alloo { $origin } tae yaise ither speakers?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = Alloo { $origin } tae gie { $thirdParty } ingang tae ither speakers?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Alloo { $origin } tae gie { $thirdParty } permeesion tae lug-in tae this tab’s soond and see yer screen?
 
 ##
 
 webrtc-share-screen-warning = Anely share screens wi sites ye trust. Sharin can alloo begowkin sites tae stravaig as you and pauchle yer private data.
 webrtc-share-browser-warning = Anely share { -brand-short-name } wi sites ye trust. Sharin can alloo begowkin sites tae stravaig as you and pauchle yer private data.
+webrtc-share-screen-learn-more = Lairn mair
 webrtc-share-pipe-wire-portal = Yaise operatin system settins
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
