@@ -155,6 +155,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 webrtc-pick-window-or-screen = Seleccionar ventana o pantalla
 webrtc-share-entire-screen = Pantalla completa
+webrtc-share-pipe-wire-portal = Usar los ajustes del sistema operativo
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Pantalla { $monitorIndex }
@@ -172,6 +173,9 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permitir
     .accesskey = A
+webrtc-action-not-now =
+    .label = Ahora no
+    .accesskey = N
 
 ##
 
