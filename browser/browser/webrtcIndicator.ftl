@@ -57,6 +57,14 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Šiuo metu leidžiama prieiti prie kompiuterio kameros ir mikrofono. Spustelėkite prieigai valdyti.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Šiuo metu leidžiama prieiti prie kompiuterio kameros. Spustelėkite prieigai valdyti.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Šiuo metu leidžiama prieiti prie kompiuterio mikrofono. Spustelėkite prieigai valdyti.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Šiuo metu leidžiama matyti ekrane rodomą vaizdą. Spustelėkite prieigai valdyti.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +72,22 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Valdyti prieigą
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Prieiga prie ekrane rodomo vaizdo suteikta { $tabCount } kortelei
+            [few] Prieiga prie ekrane rodomo vaizdo suteikta { $tabCount } kortelėms
+           *[other] Prieiga prie ekrane rodomo vaizdo suteikta { $tabCount } kortelių
+        }
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Prieiga prie ekrane rodomo lango vaizdo suteikta { $tabCount } kortelei
+            [few] Prieiga prie ekrane rodomo lango vaizdo suteikta { $tabCount } kortelėms
+           *[other] Prieiga prie ekrane rodomo lango vaizdo suteikta { $tabCount } kortelių
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +100,7 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Visas ekranas
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
