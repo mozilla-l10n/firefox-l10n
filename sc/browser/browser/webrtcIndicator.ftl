@@ -166,6 +166,13 @@ webrtc-allow-share-screen-and-audio-capture = Boles permìtere chi { $origin } a
 webrtc-allow-share-camera-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro atzèdere a sa càmera tua?
 webrtc-allow-share-microphone-unsafe-delegations = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro atzèdere a su micròfonu tuo?
 webrtc-allow-share-screen-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro bìdere s'ischermu tuo?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Boles permìtere a { $origin } de donare a { $thirdParty } s'atzessu a is àteros altoparlantes?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Boles permìtere a { $origin } de donare a { $thirdParty } s'atzessu a sa càmera e a su micròfonu tuos?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Boles permìtere a { $origin } de donare a { $thirdParty } s'atzessu a sa càmera tua e a ascurtare s'àudio de custa ventana?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Boles permìtere a { $origin } de donare a { $thirdParty } s'atzessu a su micròfonu tuo e a bìdere s'ischermu tuo?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Boles permìtere a { $origin } de donare a { $thirdParty } su permissu de ascurtare s'àudio de custa ventana e de bìdere s'ischermu tuo?
 
 ##
 
