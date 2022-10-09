@@ -22,6 +22,7 @@ webrtc-item-camera = kamera
 webrtc-item-microphone = mikrofon
 webrtc-item-audio-capture = zvuk kartice
 webrtc-item-application = aplikacija
+webrtc-item-screen = ekran
 webrtc-item-window = prozor
 webrtc-item-browser = kartica
 
@@ -68,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Tvoja kamera i mikrofon se dijele. Klikni za upravljanje dijeljenjem.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Tvoja kamera se dijeli. Klikni za upravljanje dijeljenjem.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Tvoj mikrofon se dijeli. Klikni za upravljanje dijeljenjem.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Aplikacija se dijeli. Klikni za upravljanje dijeljenjem.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Tvoj ekran se dijeli. Klikni za upravljanje dijeljenjem.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Prozor se dijeli. Klikni za upravljanje dijeljenjem.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Kartica se dijeli. Klikni za upravljanje dijeljenjem.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -144,10 +159,21 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Dopustiti { $origin } da { $thirdParty } omogući pristup tvojoj kameri i mikrofonu?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Dopustiti { $origin } da { $thirdParty } omogući pristup tvojoj kameri i slušanje zvuka ove kartice?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Dopustiti { $origin } da { $thirdParty } omogući pristup tvom mikrofonu i da vidi tvoj ekran?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dopustiti { $origin } da dade { $thirdParty } odobrenje za sluüanje zvuka ove kartice i za prikaz tvog ekrana?
 
 ##
 
+webrtc-share-screen-warning = Dijeli ekrane samo s web lokacijama kojima vjeruješ. Dijeljenje može omogućiti obmanjujućim web-lokacijama da pregledavaju kao i ti, te ukrasti tvoje privatne podatke.
+webrtc-share-browser-warning = Dijeli { -brand-short-name } samo s web lokacijama kojima vjeruješ. Dijeljenje može omogućiti obmanjujućim web-lokacijama da pregledavaju kao ti, te ukrasti tvoje privatne podatke.
+webrtc-share-screen-learn-more = Saznaj više
+webrtc-pick-window-or-screen = Odaberi prozor ili ekran
 webrtc-share-entire-screen = Cijeli ekran
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Ekran { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
@@ -167,3 +193,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Zapamti moju odluku
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne može dozvoliti trajni pristup tvom ekranu.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne može trajno dozvoliti pristup zvuku kartice, jer mora pitati koju karticu želiš dijeliti.
+webrtc-reason-for-no-permanent-allow-insecure = Veza s ovom stranicom nije sigurna. Kako bismo te zaštitili, { -brand-short-name } će dozvoliti pristup samo za trajanja ove sesije.
