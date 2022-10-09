@@ -150,20 +150,37 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Voleu permetre que { $origin } escolti l'àudio d'aquesta pestanya?
+webrtc-allow-share-camera = Voleu permetre que { $origin } utilitzi la càmera?
+webrtc-allow-share-microphone = Voleu permetre que { $origin } utilitzi el micròfon?
+webrtc-allow-share-screen = Voleu permetre que { $origin } accedeixi a la vostra pantalla?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = Voleu permetre que { $origin } utilitzi altres altaveus?
+webrtc-allow-share-camera-and-microphone = Voleu permetre que { $origin } utilitzi la càmera i el micròfon?
+webrtc-allow-share-camera-and-audio-capture = Voleu permetre que { $origin } utilitzi la càmera i escolti l'àudio d'aquesta pestanya?
+webrtc-allow-share-screen-and-microphone = Voleu permetre que { $origin } utilitzi el micròfon i accedeixi a la vostra pantalla?
+webrtc-allow-share-screen-and-audio-capture = Voleu permetre que { $origin } accedeixi a la vostra pantalla i escolti l'àudio d'aquesta pestanya?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir a la càmera?
+webrtc-allow-share-microphone-unsafe-delegations = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir al micròfon?
+webrtc-allow-share-screen-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir a la vostra pantalla?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir a altres altaveus?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir a la càmera i al micròfon?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir a la càmera i escoltar l'àudio d'aquesta pestanya?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir al micròfon i a la vostra pantalla?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a escoltar l'àudio d'aquesta pestanya i accedir a la vostra pantalla?
 
 ##
 
+webrtc-share-screen-warning = Compartiu la pantalla únicament amb els llocs en què confieu. Quan compartiu, és possible que llocs web maliciosos puguin navegar en nom vostre i robar les vostres dades privades.
+webrtc-share-browser-warning = Compartiu el { -brand-short-name } únicament amb els llocs en què confieu. Quan compartiu, és possible que llocs web maliciosos puguin navegar en nom vostre i robar les vostres dades privades.
 webrtc-share-screen-learn-more = Més informació
 webrtc-pick-window-or-screen = Trieu una finestra o pantalla
 webrtc-share-entire-screen = Pantalla sencera
@@ -185,10 +202,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permet
     .accesskey = P
+webrtc-action-block =
+    .label = Bloca
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Bloca sempre
+    .accesskey = s
 
 ##
 
 webrtc-remember-allow-checkbox = Recorda aquesta decisió
+webrtc-mute-notifications-checkbox = Silencia les notificacions del lloc web mentre s'està compartint
 webrtc-reason-for-no-permanent-allow-screen = El { -brand-short-name } no pot permetre l'accés permanent a la vostra pantalla.
 webrtc-reason-for-no-permanent-allow-audio = El { -brand-short-name } no pot permetre l'accés permanent a l'àudio de cap pestanya sense demanar abans quina pestanya voleu compartir.
 webrtc-reason-for-no-permanent-allow-insecure = La vostra connexió no és segura. Per protegir-vos, { -brand-short-name } només podrà accedir durant aquesta sessió.
