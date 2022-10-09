@@ -17,6 +17,7 @@
 
 webrtc-item-camera = ceamara
 webrtc-item-microphone = micreafón
+webrtc-item-audio-capture = fuaim chluaisín
 webrtc-item-application = feidhmchlár
 webrtc-item-screen = scáileán
 webrtc-item-window = fuinneog
@@ -65,6 +66,10 @@ webrtc-indicator-sharing-browser =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = Bainistigh an Chomhroinnt
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Bainistigh an Chomhroinnt ar “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Ceamara á chomhroinnt le “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
@@ -74,6 +79,8 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [many] Ceamara á chomhroinnt le { $tabCount } gcluaisín
            *[other] Ceamara á chomhroinnt le { $tabCount } cluaisín
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Micreafón á chomhroinnt le “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
@@ -83,6 +90,8 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [many] Micreafón á chomhroinnt le { $tabCount } gcluaisín
            *[other] Micreafón á chomhroinnt le { $tabCount } cluaisín
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Feidhmchlár á chomhroinnt le “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
@@ -92,6 +101,8 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [many] Feidhmchlár á chomhroinnt le { $tabCount } gcluaisín
            *[other] Feidhmchlár á chomhroinnt le { $tabCount } cluaisín
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Scáileán á chomhroinnt le “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
@@ -101,6 +112,8 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [many] Scáileán á chomhroinnt le { $tabCount } gcluaisín
            *[other] Scáileán á chomhroinnt le { $tabCount } cluaisín
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Fuinneog á comhroinnt le “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
@@ -110,6 +123,8 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [many] Fuinneog á comhroinnt le { $tabCount } gcluaisín
            *[other] Fuinneog á comhroinnt le { $tabCount } cluaisín
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Cluaisín á chomhroinnt le “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
@@ -133,7 +148,11 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Tuilleadh Eolais
 webrtc-share-entire-screen = An scáileán iomlán
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Scáileán { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
@@ -148,6 +167,13 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Ceadaigh
+    .accesskey = a
 
 ##
 
+webrtc-remember-allow-checkbox = Meabhraigh an cinneadh seo
+webrtc-reason-for-no-permanent-allow-screen = Ní féidir le { -brand-short-name } rochtain bhuan ar do scáileán a cheadú.
+webrtc-reason-for-no-permanent-allow-audio = Ní féidir le { -brand-short-name } rochtain bhuan ar d'fhuaim a cheadú gan fiafraí cé acu cluaisín atá le roinnt.
+webrtc-reason-for-no-permanent-allow-insecure = Níl do cheangal leis an suíomh seo slán. Le go gcoinneofar slán thú, tabharfaidh { -brand-short-name } rochtain dó don seisiún seo amháin.
