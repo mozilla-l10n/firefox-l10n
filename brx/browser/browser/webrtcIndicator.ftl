@@ -17,9 +17,11 @@
 
 webrtc-item-camera = केमेरा
 webrtc-item-microphone = माइक्र'फन
+webrtc-item-audio-capture = टेबनि सदोब
 webrtc-item-application = एप्लिकेसन
 webrtc-item-screen = स्क्रिन
 webrtc-item-window = उइन्ड'
+webrtc-item-browser = टेब
 
 ##
 
@@ -121,6 +123,9 @@ webrtc-indicator-menuitem-sharing-browser-with =
 webrtc-share-screen-learn-more = गोबां सोलों
 webrtc-share-entire-screen = गासै स्क्रिन
 # Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = { $monitorIndex } स्क्रिन
+# Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
 webrtc-share-application =
@@ -131,6 +136,9 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = गनायथि हो
+    .accesskey = A
 
 ##
 
