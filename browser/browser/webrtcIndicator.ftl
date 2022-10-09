@@ -150,23 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Tillad { $origin } at lytte til lyden i dette faneblad?
+webrtc-allow-share-camera = Tillad { $origin } at bruge dit kamera?
+webrtc-allow-share-microphone = Tillad { $origin } at bruge din mikrofon?
+webrtc-allow-share-screen = Tillad { $origin } at se din skærm?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = Tillad { $origin } at bruge andre højttalere?
+webrtc-allow-share-camera-and-microphone = Tillad { $origin } at bruge dit kamera og din mikrofon?
+webrtc-allow-share-camera-and-audio-capture = Tillad { $origin } at bruge dit kamera og lytte til lyd i dette faneblad?
+webrtc-allow-share-screen-and-microphone = Tillad { $origin } at bruge din mikrofon og se din skærm?
+webrtc-allow-share-screen-and-audio-capture = Tillad { $origin } at lytte til lyd i dette faneblad og se din skærm?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til dit kamera?
+webrtc-allow-share-microphone-unsafe-delegations = Tillad { $origin } at give { $thirdParty } adgang til din mikrofon?
+webrtc-allow-share-screen-unsafe-delegation = Tillad { $origin } at give { $thirdParty } tilladelse til at se din skærm?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til andre højttalere?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til dit kamera og din mikrofon?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til dit kamera og til at lytte til lyden i dette faneblad?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til din mikrofon og til at se din skærm?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillad { $origin } at give { $thirdParty } tilladelse til at lytte til lyden i dette faneblad og til at se din skærm?
 
 ##
 
+webrtc-share-screen-warning = Del kun din skærm med websteder, du stoler på. Deling kan gøre det muligt for vildledende websteder at stjæle dine private data og foregive at være dig på internettet.
+webrtc-share-browser-warning = Del kun { -brand-short-name } med websteder, du stoler på. Deling kan gøre det muligt for vildledende websteder at stjæle dine private data og foregive at være dig på internettet.
 webrtc-share-screen-learn-more = Læs mere
 webrtc-pick-window-or-screen = Vælg vindue eller skærm
 webrtc-share-entire-screen = Hele skærmen
+webrtc-share-pipe-wire-portal = Brug operativsystemets indstillinger
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Skærm { $monitorIndex }
@@ -184,6 +202,12 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Tillad
     .accesskey = T
+webrtc-action-block =
+    .label = Bloker
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Bloker altid
+    .accesskey = a
 webrtc-action-not-now =
     .label = Ikke nu
     .accesskey = N
@@ -191,6 +215,7 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Husk dette valg
+webrtc-mute-notifications-checkbox = Slå websteds-beskeder fra ved deling
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikke tillade permanent adgang til din skærm.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikke tillade permanent adgang til dit faneblads lyd uden først at spørge, hvilket faneblad der skal deles.
 webrtc-reason-for-no-permanent-allow-insecure = Din forbindelse til dette websted er ikke sikker. For at beskytte dig vil { -brand-short-name } kun tillade adgang for denne session.
