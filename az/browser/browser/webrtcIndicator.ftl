@@ -43,8 +43,18 @@ webrtc-sharing-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Kamera və mikrofonunuz paylaşılır. Paylaşımı idarə etmək üçün klikləyin.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Kameranız paylaşılır. Paylaşımı idarə etmək üçün klikləyin.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Mikrofonunuz paylaşılır. Paylaşımı idarə etmək üçün klikləyin.
 webrtc-indicator-sharing-application =
     .tooltiptext = Bir tətbiq paylaşılır. Paylaşmanı idarə etmək üçün klikləyin.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Ekranınız paylaşılır. Paylaşımı idarə etmək üçün klikləyin.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Bir pəncərə paylaşılır. Paylaşımı idarə etmək üçün klikləyin.
 webrtc-indicator-sharing-browser =
     .tooltiptext = Vərəq paylaşılır. Paylaşımı idarə etmək üçün klikləyin.
 
@@ -54,12 +64,26 @@ webrtc-indicator-sharing-browser =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Paylaşmanı İdarə et
 webrtc-indicator-menuitem-control-sharing-on =
     .label = “{ $streamTitle }” üzərində paylaşımı idarə et
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamera “{ $streamTitle }” ilə paylaşılır
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Kamera { $tabCount } vərəq ilə paylaşılır
+           *[other] Kamera { $tabCount } vərəq ilə paylaşılır
+        }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofon “{ $streamTitle }” ilə paylaşılır
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Mikrofon { $tabCount } vərəq ilə paylaşılır
+           *[other] Mikrofon { $tabCount } vərəq ilə paylaşılır
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Tətbiq “{ $streamTitle }” ilə paylaşılır
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -70,8 +94,20 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ekran “{ $streamTitle }” ilə paylaşılır
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ekran { $tabCount } vərəq ilə paylaşılır
+           *[other] Ekran { $tabCount } vərəq ilə paylaşılır
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Pəncərə “{ $streamTitle }” ilə paylaşılır
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Pəncərə { $tabCount } vərəq ilə paylaşılır
+           *[other] Pəncərələr { $tabCount } vərəq ilə paylaşılır
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Vərəq “{ $streamTitle }” ilə paylaşılır
 # This message is shown when the contents of a tab is shared during a WebRTC
