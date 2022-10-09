@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - علامة المشاركة
+webrtc-indicator-window =
+    .title = { -brand-short-name } - علامة المشاركة
 
 ## Used as list items in sharing menu
 
@@ -172,16 +174,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = أتسمح بأن يستمع { $origin } للصوت على هذا اللسان؟
+webrtc-allow-share-camera = أتسمح بأن يستعمل { $origin } الكمرة؟
+webrtc-allow-share-microphone = أتسمح بأن يستعمل { $origin } الميكروفون؟
+webrtc-allow-share-screen = أتسمح بأن يرى { $origin } شاشتك؟
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = أتسمح بأن يستعمل { $origin } السماعات؟
+webrtc-allow-share-camera-and-microphone = أتسمح بأن يستعمل { $origin } الكمرة والميكروفون؟
+webrtc-allow-share-camera-and-audio-capture = أتسمح بأن يستعمل { $origin } كمرتك و أن يستمع للصوت على هذا اللسان؟
+webrtc-allow-share-screen-and-microphone = أتسمح بأن يستعمل { $origin } ميكروفونك و يرى شاشتك؟
+webrtc-allow-share-screen-and-audio-capture = أتسمح بأن يستمع { $origin } للصوت على هذا اللسان و يرى شاشتك؟
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح الوصول إلى الكمرة إلى { $thirdParty }؟
+webrtc-allow-share-microphone-unsafe-delegations = أتسمح بأن يُعطي { $origin } تصريح الوصول إلى الميكروفون إلى { $thirdParty }؟
+webrtc-allow-share-screen-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح رؤية شاشتك إلى { $thirdParty }؟
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح الوصول إلى السماعات إلى { $thirdParty }؟
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح الوصول إلى الكمرة والميكروفون إلى { $thirdParty }؟
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح الوصول إلى الكمرة والاستماع للصوت على هذا اللسان إلى { $thirdParty }؟
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح الوصول إلى الميكروفون ورؤية شاشتك إلى { $thirdParty }؟
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح الاستماع للصوت على هذا اللسان ورؤية شاشتك إلى { $thirdParty }؟
 
 ##
 
+webrtc-share-screen-warning = لا تشارك الشاشة إلا مع المواقع التي تثق فيها. يمكن للمشاركة أن تسمح للمواقع المخادعة أن تتصفح باسمك و تسرق بياناتك الخاصة.
+webrtc-share-browser-warning = لا تشارك { -brand-short-name } إلا مع المواقع التي تثق فيها. يمكن للمشاركة أن تسمح للمواقع المخادعة أن تتصفح باسمك و تسرق بيانات الخاصة.
 webrtc-share-screen-learn-more = اطّلع على المزيد
+webrtc-pick-window-or-screen = اختر نافذة أو شاشة
 webrtc-share-entire-screen = كل الشاشة
+webrtc-share-pipe-wire-portal = استعمل إعدادات نظام التشغيل
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = الشاشة { $monitorIndex }
@@ -203,10 +230,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = اسمح
     .accesskey = س
+webrtc-action-block =
+    .label = احجبه
+    .accesskey = ح
+webrtc-action-always-block =
+    .label = احجبه دائمًا
+    .accesskey = د
 
 ##
 
 webrtc-remember-allow-checkbox = تذكّر هذا القرار
+webrtc-mute-notifications-checkbox = اكتم تنبيهات المواقع أثناء المشاركة
 webrtc-reason-for-no-permanent-allow-screen = لا يُمكن أن يسمح { -brand-short-name } بوصول دائم إلى شاشتك.
 webrtc-reason-for-no-permanent-allow-audio = لا يستطيع { -brand-short-name } أن يسمح بمشاركة دائمة للصوت على اللسان بدون السؤال عن أي لسان سيشارك.
 webrtc-reason-for-no-permanent-allow-insecure = الاتصال بهذا الموقع غير آمن. لحمايتك، لم يسمح { -brand-short-name } بالوصول إلا لهذه الجلسة.
