@@ -176,6 +176,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Autoriser { $ori
 webrtc-share-screen-warning = Partagez uniquement vos écrans avec les sites auxquels vous faites confiance. Le partage peut permettre à des sites trompeurs de naviguer en votre nom et de dérober des informations.
 webrtc-share-browser-warning = Partagez uniquement { -brand-short-name } avec les sites auxquels vous faites confiance. Le partage peut permettre à des sites trompeurs de naviguer en votre nom et de dérober des informations.
 webrtc-share-screen-learn-more = En savoir plus
+webrtc-pick-window-or-screen = Sélectionnez une fenêtre ou un écran
 webrtc-share-entire-screen = Écran entier
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
