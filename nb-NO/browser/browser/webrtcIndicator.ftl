@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Delingsviser
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Delingsviser
 
 ## Used as list items in sharing menu
 
@@ -69,6 +71,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Kamera og mikrofon deles nå. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Kamera deles nå. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Mikrofon deles nå. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Et program deles. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Skjermen din deles nå. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Et vindu deles nå. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = En fane deles nå. Trykk for å kontrollere deling.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -134,16 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Tillate { $origin } å høre på denne fanens lyd?
+webrtc-allow-share-camera = Tillate { $origin } å bruke kameraet?
+webrtc-allow-share-microphone = Tillat { $origin } å bruke mikrofonen?
+webrtc-allow-share-screen = Tillate { $origin } å se skjermen din?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Tillate { $origin } å bruke andre høyttalere?
+webrtc-allow-share-camera-and-microphone = Tillate { $origin } å bruke kameraet og mikrofonen?
+webrtc-allow-share-camera-and-audio-capture = Tillate { $origin } å bruke kameraet og høre på denne fanens lyd?
+webrtc-allow-share-screen-and-microphone = Tillate { $origin } å bruke mikrofonen og se din skjerm?
+webrtc-allow-share-screen-and-audio-capture = Tillate { $origin } å høre på denne fanens lyd og se din skjerm?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å bruke kameraet ditt?
+webrtc-allow-share-microphone-unsafe-delegations = Tillate { $origin } å gi { $thirdParty } tilgang til å bruke mikrofonen din?
+webrtc-allow-share-screen-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å se skjermen din?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å andre høyttalere?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å bruke kamera ditt og mikrofonen din?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å bruke kameraet ditt og lytte til lyden i denne fanen?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å bruke mikrofonen din og til å se skjermen din?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å lytte til lyden i denne fanen og se skjermen din?
 
 ##
 
+webrtc-share-screen-warning = Del skjermen din kun med sider du har tiltro til. Deling kan la villedende sider surfe som deg og stjele dine private data.
+webrtc-share-browser-warning = Del { -brand-short-name } din kun med sider du har tiltro til. Deling kan la villedende sider surfe som deg og stjele dine private data.
 webrtc-share-screen-learn-more = Les mer
+webrtc-pick-window-or-screen = Velg vindu eller skjerm
 webrtc-share-entire-screen = Hele skjermen
+webrtc-share-pipe-wire-portal = Bruk operativsystemets innstillinger
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Skjerm { $monitorIndex }
@@ -161,9 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Tillat
     .accesskey = T
+webrtc-action-block =
+    .label = Blokker
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Blokker alltid
+    .accesskey = k
+webrtc-action-not-now =
+    .label = Ikke nå
+    .accesskey = n
 
 ##
 
 webrtc-remember-allow-checkbox = Husk denne avgjørelsen
+webrtc-mute-notifications-checkbox = Slå av nettstedsvarsler mens du deler
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikke tillate permanent tilgang til din skjerm.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikke tillate permanent tilgang til fanens lyd uten å spørre hvilken fane du vil dele.
 webrtc-reason-for-no-permanent-allow-insecure = Tilkoblingen til dette nettstedet er ikke sikkert. For å beskytte deg, vil { -brand-short-name } bare tillate tilgang for denne økten.
