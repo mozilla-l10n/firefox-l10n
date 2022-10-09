@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - ਸਾਂਝਾ ਕਰਨਾ ਸੰਕੇਤਕ
+webrtc-indicator-window =
+    .title = { -brand-short-name } - ਸਾਂਝਾ ਕਰਨਾ ਸੰਕੇਤਕ
 
 ## Used as list items in sharing menu
 
@@ -148,16 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = ਕੀ { $origin } ਨੂੰ ਇਸ ਟੈਬ ਦੀ ਆਡੀਓ ਸੁਣਨ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-camera = { $origin } ਨੂੰ ਤੁਹਾਡਾ ਕੈਮਰਾ ਵਰਤਣ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-microphone = { $origin } ਨੂੰ ਤੁਹਾਡਾ ਮਾਈਕਰੋਫ਼ੋਨ ਵਰਤਣ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-screen = { $origin } ਨੂੰ ਤੁਹਾਡੀ ਸਕਰੀਨ ਵਰਤਣ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } ਨੂੰ ਹੋਰ ਸਪੀਕਰ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-camera-and-microphone = { $origin } ਨੂੰ ਤੁਹਾਡਾ ਕੈਮਰਾ ਅਤੇ ਮਾਈਕਰੋਫ਼ੋਨ ਵਰਤਣ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-camera-and-audio-capture = ਕੀ { $origin } ਨੂੰ ਆਪਣੇ ਕੈਮਰੇ ਨੂੰ ਵਰਤਣ ਤੇ ਇਸ ਟੈਬ ਦੀ ਆਡੀਓ ਸੁਣਨ ਦੇਣ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-screen-and-microphone = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੇ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਵਰਤਣ ਅਤੇ ਤੁਹਾਡੀ ਸਕਰੀਨ ਵੇਖਣ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-screen-and-audio-capture = ਕੀ { $origin } ਨੂੰ ਇਸ ਟੈਬ ਦੀ ਆਡੀਓ ਸੁਣਨ ਅਤੇ ਆਪਣੀ ਸਕਰੀਨ ਵੇਖਣ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੇ ਕੈਮਰੇ ਲਈ { $thirdParty } ਪਹੁੰਚ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-microphone-unsafe-delegations = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੇ ਮਾਈਕਰੋਫ਼ੋਨ ਲਈ { $thirdParty } ਪਹੁੰਚ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-screen-unsafe-delegation = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੀ ਸਕਰੀਨ ਵੇਖਣ ਲਈ { $thirdParty } ਇਜਾਜ਼ਤ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = { $origin } ਨੂੰ ਹੋਰ ਸਪੀਕਰਾਂ ਲਈ { $thirdParty } ਪਹੁੰਚ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੇ ਕੈਮਰੇ ਅਤੇ ਮਾਈਕਰੋਫ਼ੋਨ ਲਈ { $thirdParty } ਪਹੁੰਚ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੇ ਕੈਮਰੇ ਅਤੇ ਇਸ ਟੈਬ ਦੀ ਆਡੀਓ ਸੁਣਨ ਵਾਸਤੇ { $thirdParty } ਪਹੁੰਚ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੇ ਮਾਈਕਰੋਫੋਨ ਅਤੇ ਤੁਹਾਡੀ ਸਕਰੀਨ ਨੂੰ ਵੇਖਣ ਵਾਸਤੇ { $thirdParty } ਪਹੁੰਚ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ਕੀ { $origin } ਨੂੰ ਇਸ ਟੈਬ ਦੀ ਆਡੀਓ ਸੁਣਨ ਤੇ ਤੁਹਾਡੇ ਸਕਰੀਨ ਨੂੰ ਵੇਖਣ ਵਾਸਤੇ { $thirdParty } ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
 
 ##
 
+webrtc-share-screen-warning = ਸਕਰੀਨਾਂ ਸਿਰਫ਼ ਉਹਨਾਂ ਸਾਈਟਾਂ ਨਾਲ ਹੀ ਸਾਂਝੀਆਂ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ। ਸਾਂਝਾ ਕਰਨ ਨਾਲ ਦੋਖੀ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਜੋਂ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਚੋਰੀ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦੇ ਸਕਦਾ ਹੈ।
+webrtc-share-browser-warning = { -brand-short-name } ਸਿਰਫ਼ ਉਹਨਾਂ ਸਾਈਟਾਂ ਨਾਲ ਹੀ ਸਾਂਝਾ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ। ਸਾਂਝਾ ਕਰਨ ਨਾਲ ਦੋਖੀ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਜੋਂ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਚੋਰੀ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦੇ ਸਕਦਾ ਹੈ।
 webrtc-share-screen-learn-more = ਹੋਰ ਜਾਣੋ
+webrtc-pick-window-or-screen = ਵਿੰਡੋ ਜਾਂ ਸਕਰੀਨ ਚੁਣੋ
 webrtc-share-entire-screen = ਪੂਰੀ ਸਕਰੀਨ
+webrtc-share-pipe-wire-portal = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = ਸਕਰੀਨ { $monitorIndex }
@@ -175,9 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = A
+webrtc-action-block =
+    .label = ਪਾਬੰਦੀ ਲਾਓ
+    .accesskey = B
+webrtc-action-always-block =
+    .label = ਹਮੇਸ਼ਾਂ ਪਾਬੰਦੀ ਲਾਓ
+    .accesskey = w
+webrtc-action-not-now =
+    .label = ਹੁਣੇ ਨਹੀਂ
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = ਇਹ ਫ਼ੈਸਲਾ ਯਾਦ ਰੱਖੋ
+webrtc-mute-notifications-checkbox = ਜਦੋਂ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋਵੋ ਤਾਂ ਵੈੱਬਸਾਈਟ ਨੋਟੀਫਿਕੋਸ਼ਨ ਬੰਦ ਕਰੋ
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੀ ਸਕਰੀਨ ਲਈ ਪੱਕੀ ਪਹੁੰਚ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ਤੁਹਾਡੇ ਟੈਬ ਦੀ ਆਡੀਓ ਲਈ ਇਹ ਪੁੱਛੇ ਬਿਨਾਂ ਕਿ ਕਿਹੜੀ ਟੈਬ ਸਾਂਝੀ ਕਰਨੀ ਹੈ, ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਪਹੁੰਚ ਲਈ ਸਹਿਮਤੀ ਨਹੀਂ ਦੇ ਸਕਦਾ।
 webrtc-reason-for-no-permanent-allow-insecure = ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ। ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ, { -brand-short-name } ਕੇਵਲ ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਹੀ ਇਜਾਜ਼ਤ ਦੇਵੇਗਾ।
