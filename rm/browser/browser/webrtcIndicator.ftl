@@ -68,6 +68,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Tia camera e tes microfon vegnan cundividì. Clicca per controllar la cundivisiun.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Tia camera vegn cundividida. Clicca per controllar la cundivisiun.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Tes microfon vegn cundividì. Clicca per controllar la cundivisiun.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Ina applicaziun vegn actualmain cundividida. Clicca per controllar la cundivisiun.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Tes visur vegn cundividì. Clicca per controllar la cundivisiun.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Ina fanestra vegn cundividida. Clicca per controllar la cundivisiun.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = In tab vegn cundividì. Clicca per controllar la cundivisiun.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -75,6 +89,60 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Controllar la cundivisiun
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Controllar la cundivisiun cun "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Cundivider la camera cun "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] La camera vegn cundividida cun { $tabCount } tab
+           *[other] La camera vegn cundividida cun { $tabCount } tabs
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Cundivider il microfon cun "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Il microfon vegn cundividì cun { $tabCount } tab
+           *[other] Il microfon vegn cundividì cun { $tabCount } tabs
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Cundivider ina applicaziun cun "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ina applicaziun vegn cundividida cun { $tabCount } tab
+           *[other] Applicaziuns vegnan cundivididas cun { $tabCount } tabs
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Cundivider il visur cun "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Il visur vegn cundividì cun { $tabCount } tab
+           *[other] Il visur vegn cundividì cun { $tabCount } tabs
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Cundivider ina fanestra cun "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Fanestras vegnan cundivididas cun { $tabCount } tab
+           *[other] Fanestras vegnan cundivididas cun { $tabCount } tabs
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Cundivider in tab cun "{ $streamTitle }"
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] In tab vegn cundividì cun { $tabCount } tab
+           *[other] Tabs vegnan cundividids cun { $tabCount } tabs
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
