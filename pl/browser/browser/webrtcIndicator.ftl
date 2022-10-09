@@ -76,9 +76,21 @@ webrtc-screen-system-menu =
 
 ##
 
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] Aplikacja „{ $appName }” (jedno okno)
+        [few] Aplikacja „{ $appName }” ({ $windowCount } okna)
+       *[many] Aplikacja „{ $appName }” ({ $windowCount } okien)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
 
 ##
 
+webrtc-remember-allow-checkbox = Pamiętaj tę decyzję
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nie mógł zezwolić na trwały dostęp do obrazu ekranu.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nie mógł zezwolić na trwały dostęp do dźwięku karty bez pytania o to, której karty dźwięk udostępniać.
