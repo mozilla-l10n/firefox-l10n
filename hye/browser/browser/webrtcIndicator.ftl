@@ -202,6 +202,9 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Թոյլատրել
     .accesskey = A
+webrtc-action-block =
+    .label = Արգելափակել
+    .accesskey = Ա
 
 ##
 
