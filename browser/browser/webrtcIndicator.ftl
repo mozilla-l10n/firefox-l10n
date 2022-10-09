@@ -35,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = Ukjent opprinnelse
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Faner som deler enheter
+    .accesskey = e
 webrtc-sharing-window = Du deler et annet programvindu.
 webrtc-sharing-browser-window = Du deler { -brand-short-name }.
 webrtc-sharing-screen = Du deler hele skjermen.
@@ -139,6 +142,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Les mer
 webrtc-share-entire-screen = Hele skjermen
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -154,6 +158,12 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Tillat
+    .accesskey = T
 
 ##
 
+webrtc-remember-allow-checkbox = Husk denne avgjørelsen
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikke tillate permanent tilgang til fanens lyd uten å spørre hvilken fane du vil dele.
+webrtc-reason-for-no-permanent-allow-insecure = Tilkoblingen til dette nettstedet er ikke sikkert. For å beskytte deg, vil { -brand-short-name } bare tillate tilgang for denne økten.
