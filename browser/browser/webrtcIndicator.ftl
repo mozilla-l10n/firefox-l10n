@@ -130,6 +130,9 @@ webrtc-allow-share-audio-capture = 要允许 { $origin } 听到此标签页的�
 webrtc-allow-share-camera = 要允许 { $origin } 使用您的摄像头吗？
 webrtc-allow-share-microphone = 要允许 { $origin } 使用您的麦克风吗？
 webrtc-allow-share-screen = 要允许 { $origin } 看到您的屏幕吗？
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = 要允许 { $origin } 使用其他音频输出设备吗？
 webrtc-allow-share-camera-and-microphone = 要允许 { $origin } 使用您的摄像头和麦克风吗？
 webrtc-allow-share-camera-and-audio-capture = 要允许 { $origin } 使用您的摄像头，并听到此标签页的音频吗？
 webrtc-allow-share-screen-and-microphone = 要允许 { $origin } 使用您的麦克风，并看到您的屏幕吗？
@@ -142,6 +145,9 @@ webrtc-allow-share-screen-and-audio-capture = 要允许 { $origin } 听到此标
 webrtc-allow-share-camera-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的摄像头吗？
 webrtc-allow-share-microphone-unsafe-delegations = 要允许 { $origin } 授权 { $thirdParty } 使用您的麦克风吗？
 webrtc-allow-share-screen-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 看到您的屏幕吗？
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的其他音频输出设备吗？
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的摄像头和麦克风吗？
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的摄像头，并听到此标签页的音频吗？
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的麦克风，并看到您的屏幕吗？
