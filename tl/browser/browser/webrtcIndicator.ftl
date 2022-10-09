@@ -15,11 +15,15 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Tanda ng Pagbabahagi
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Tanda ng Pagbabahagi
 
 ## Used as list items in sharing menu
 
 webrtc-item-camera = camera
 webrtc-item-microphone = mikropono
+webrtc-item-audio-capture = tab audio
+webrtc-item-application = application
 webrtc-item-screen = screen
 webrtc-item-window = window
 webrtc-item-browser = tab
@@ -67,6 +71,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Ibinabahagi ang iyong camera at mikropono. Pindutin upang kontrolin ang pagbabahagi.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Ibinabahagi ang iyong camera. Pindutin upang kontrolin ang pagbabahagi.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Ibinabahagi ang iyong mikropono. Pindutin upang kontrolin ang pagbabahagi.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Ang isang application ay ibinabahagi. Pindutin upang kontrolin ang pagbabahagi.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Ibinabahagi ang iyong screen. Pindutin upang kontrolin ang pagbabahagi.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Ang isang window ay ibinabahagi. Pindutin upang kontrolin ang pagbabahagi.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Ang isang tab ay ibinabahagi. Pindutin upang kontrolin ang pagbabahagi.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -140,6 +158,8 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Alamin
+webrtc-pick-window-or-screen = Piliin ang Window o Screen
 webrtc-share-entire-screen = Buong screen
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
