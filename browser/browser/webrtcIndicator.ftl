@@ -18,14 +18,26 @@ webrtc-indicator-title = { -brand-short-name } – Taisbeanair co-roinnidh
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = camara
+webrtc-item-microphone = micreofon
+webrtc-item-audio-capture = fuaim aig taba
+webrtc-item-application = aplacaid
+webrtc-item-screen = sgrìn
+webrtc-item-window = uinneag
+webrtc-item-browser = taba
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Chan eil fhios cò às a thàinig e
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Tabaichean a tha a' co-roinneadh uidheaman
+    .accesskey = b
 webrtc-sharing-window = Tha thu a’ co-roinneadh uinneag aplacaid eile.
 webrtc-sharing-browser-window = Tha thu a’ co-roinneadh { -brand-short-name }.
 webrtc-sharing-screen = Tha thu a’ co-roinneadh na sgrìn agad air fad.
@@ -57,6 +69,16 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Tha an camara 's am micreofon agad 'gan co-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Tha aplacaid 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Tha an sgrìn agad 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Tha uinneag 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Tha taba ’ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +86,72 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Stiùireadh a' cho-roinnidh
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = A’ co-roinnidh smachd air “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = A’ co-roinneadh a’ chamara le “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A' co-roinneadh a' chamara le { $tabCount } taba
+            [two] A' co-roinneadh a' chamara le { $tabCount } thaba
+            [few] A' co-roinneadh a' chamara le { $tabCount } tabaichean
+           *[other] A' co-roinneadh a' chamara le { $tabCount } taba
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = A’ co-roinneadh a’ mhicreofoin le “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A' co-roinneadh a' mhicreofoin le { $tabCount } taba
+            [two] A' co-roinneadh a' mhicreofoin le { $tabCount } thaba
+            [few] A' co-roinneadh a' mhicreofoin le { $tabCount } tabaichean
+           *[other] A' co-roinneadh a' mhicreofoin le { $tabCount } taba
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = A’ co-roinneadh aplacaid le “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A' co-roinneadh aplacaid le { $tabCount } taba
+            [two] A' co-roinneadh aplacaid le { $tabCount } thaba
+            [few] A' co-roinneadh aplacaid le { $tabCount } tabaichean
+           *[other] A' co-roinneadh aplacaid le { $tabCount } taba
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = A’ co-roinneadh na sgrìn le “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A' co-roinneadh na sgrìn le { $tabCount } taba
+            [two] A' co-roinneadh na sgrìn le { $tabCount } thaba
+            [few] A' co-roinneadh na sgrìn le { $tabCount } tabaichean
+           *[other] A' co-roinneadh na sgrìn le { $tabCount } taba
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = A’ co-roinneadh uinneag le “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Tòisich air co-roinneadh uinneag le { $tabCount } taba
+            [two] Tòisich air co-roinneadh uinneag le { $tabCount } thaba
+            [few] Tòisich air co-roinneadh uinneag le { $tabCount } tabaichean
+           *[other] Tòisich air co-roinneadh uinneag le { $tabCount } taba
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = A’ co-roinneadh taba le “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] A’ co-roinneadh taba le { $tabCount } taba
+            [two] A’ co-roinneadh taba le { $tabCount } thaba
+            [few] A’ co-roinneadh taba le { $tabCount } tabaichean
+           *[other] A’ co-roinneadh taba le { $tabCount } taba
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,9 +164,31 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = Barrachd fiosrachaidh
+webrtc-share-entire-screen = An sgrìn air fad
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Sgrìn { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } uinneag)
+        [two] { $appName } ({ $windowCount } uinneag)
+        [few] { $appName } ({ $windowCount } uinneagan)
+       *[other] { $appName } ({ $windowCount } uinneag)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Ceadaich
+    .accesskey = a
 
 ##
 
+webrtc-remember-allow-checkbox = Cuimhnich an co-dhùnadh seo
+webrtc-reason-for-no-permanent-allow-screen = Chan urrainn dha { -brand-short-name } inntrigeadh buan dhan sgrìn agad a cheadachadh.
+webrtc-reason-for-no-permanent-allow-audio = Chan urrainn dha { -brand-short-name } inntrigeadh buan a cheadachadh dha fuaime an taba agad gun a bhith a’ faighneachd dè an taba a tha ri cho-roinneadh.
+webrtc-reason-for-no-permanent-allow-insecure = Chan eil an ceangal agad ris an làrach seo tèarainte. Cha cheadaich { -brand-short-name } inntrigeadh ach rè an t-seisein seo gus do dhìon.
