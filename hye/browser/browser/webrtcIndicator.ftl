@@ -21,6 +21,7 @@ webrtc-indicator-title = { -brand-short-name } Կիսուած
 webrtc-item-camera = տեսախցիկ
 webrtc-item-microphone = խաւսափող
 webrtc-item-audio-capture = ձայնանիւթի ներդիր
+webrtc-item-application = յաւելուած
 webrtc-item-window = պատուհան
 webrtc-item-browser = ներդիր
 
@@ -33,6 +34,9 @@ webrtc-sharing-menuitem-unknown-host = Անյայտ ծագում
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Սարքերը տարածող ներդիրներ
+    .accesskey = d
 webrtc-sharing-window = Դուք կիսում էք այլ յաւելուածի պատուհանը
 webrtc-sharing-browser-window = Դուք կիսում էք { -brand-short-name }
 webrtc-sharing-screen = Դուք կիսում էք ամբողջ եկրանը
@@ -127,6 +131,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Իմանալ աւելին
 webrtc-pick-window-or-screen = Ընտրէք պատուհան կամ ցուցադրիչ
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
@@ -139,6 +144,12 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Թոյլատրել
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = Յիշել այս որոշումը
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }-ը չի կարող է թոյատրել մշտական հասանելութիւն Ձեր ներդիրի ձայնանիւթին՝ առանց հարցնելու, թէ որ ներդիրը կիսել։
+webrtc-reason-for-no-permanent-allow-insecure = Ձեր կապակցումը այս կայքին անվտագ չէ։ Ձեզ պաշտպանելու համար { -brand-short-name }-ը կը տայ հասանելութիւն միայն այս աշխատաշրջանի համար։
