@@ -20,17 +20,23 @@ webrtc-indicator-title = { -brand-short-name } – Indicator voor delen
 
 webrtc-item-camera = camera
 webrtc-item-microphone = microfoon
+webrtc-item-audio-capture = tabbladaudio
 webrtc-item-application = toepassing
 webrtc-item-screen = scherm
 webrtc-item-window = venster
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Onbekende herkomst
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Apparaten die tabbladen delen
+    .accesskey = t
 webrtc-sharing-window = U deelt een ander toepassingsvenster.
 webrtc-sharing-browser-window = U deelt { -brand-short-name }.
 webrtc-sharing-screen = U deelt uw volledige scherm.
@@ -83,6 +89,50 @@ webrtc-indicator-sharing-window =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = Delen beheren
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Delen op ‘{ $streamTitle }’ beheren
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Camera gedeeld met ‘{ $streamTitle }’
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Camera gedeeld met { $tabCount } tabblad
+           *[other] Camera gedeeld met { $tabCount } tabbladen
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Microfoon gedeeld met ‘{ $streamTitle }’
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Microfoon gedeeld met { $tabCount } tabblad
+           *[other] Microfoon gedeeld met { $tabCount } tabbladen
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Een toepassing gedeeld met ‘{ $streamTitle }’
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Een toepassing gedeeld met { $tabCount } tabblad
+           *[other] Toepassingen gedeeld met { $tabCount } tabbladen
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Scherm gedeeld met ‘{ $streamTitle }’
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Scherm gedeeld met { $tabCount } tabblad
+           *[other] Scherm gedeeld met { $tabCount } tabbladen
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Een venster gedeeld met ‘{ $streamTitle }’
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Een venster gedeeld met { $tabCount } tabblad
+           *[other] Vensters gedeeld met { $tabCount } tabbladen
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Een tabblad gedeeld met ‘{ $streamTitle }’
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -95,7 +145,12 @@ webrtc-indicator-menuitem-control-sharing =
 
 ##
 
+webrtc-share-screen-learn-more = Meer info
+webrtc-pick-window-or-screen = Venster of scherm selecteren
 webrtc-share-entire-screen = Gehele scherm
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Scherm { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
@@ -107,6 +162,13 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Toestaan
+    .accesskey = T
 
 ##
 
+webrtc-remember-allow-checkbox = Deze beslissing onthouden
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan geen permanente toegang tot uw scherm toestaan.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan geen permanente toegang tot het geluid van uw tabblad toestaan zonder te vragen welk tabblad moet worden gedeeld.
+webrtc-reason-for-no-permanent-allow-insecure = Uw verbinding met deze website is niet beveiligd. Om u te beschermen, zal { -brand-short-name } alleen toegang voor deze sessie toestaan.
