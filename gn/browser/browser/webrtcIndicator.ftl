@@ -15,9 +15,16 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Purujovái jehechaukaha
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Purujovái jehechaukaha
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = ta’ãngamýi
+webrtc-item-microphone = ñe’ẽataha
+webrtc-item-audio-capture = tendayke mba’epu
+webrtc-item-application = tembipuru’i
+webrtc-item-screen = mba’erechaha
 webrtc-item-window = ovetã
 webrtc-item-browser = tendayke
 
@@ -30,6 +37,9 @@ webrtc-sharing-menuitem-unknown-host = Ndojekuaái mamoguápa
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Emoherakuã ko’ápe mba’epuru
+    .accesskey = d
 webrtc-sharing-window = Emoherakuãhína ambue tembipuru’i rovetã.
 webrtc-sharing-browser-window = Emoherakuãhína { -brand-short-name }.
 webrtc-sharing-screen = Emoherakuãhína ne mba’erechaha.
@@ -61,6 +71,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Pe ta’ãngamýi ha ñe’ẽataha oñemoherakuãhína. Eikutu ehechaséramõ mba’éichapa iñemoambue.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Pe ta’ãngamýi oñemoherakuãhína. Eikutu ehechaséramõ mba’éichapa iñemoambue.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Neñe’ẽataha oñemoherakuãhína. Eikutu ehechasérõ mba’éichapa iñemoambue.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Pe mba’ejerure oñemoherakuãhína. Eikutu ehechaséramõ mba’éichapa iñemoambue.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Pe mba’erechaha oñemoherakuã. Eikutu ehechaséramõ mba’éichapa iñemoambue.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Oñemoherakuãhína peteĩ ovetã. Eikutu ehechaséramõ mba’éichapa iñemoambue.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Peteĩ tendayke oñemoherakuãhína. Eikutu ehechaséramõ mba’éichapa iñemoambue.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -72,6 +96,38 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Ñemoherakuã ñangarekoha
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Ñangarekoha ñemoambue "{ $streamTitle }"-pe
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Eipuruhína Ta’ãngamýi “{ $streamTitle }” ndive
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Emoherakuãhína Ta’ãngamýi peteĩ { $tabCount } tendayke ndive
+           *[other] Emoherakuãhína Ta’ãngamýi peteĩ { $tabCount } tendayke ndive
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Eipuruhína Ñe’ẽatãha “{ $streamTitle }” ndive
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Emoherakuãhína Ñe’ẽatãha peteĩ { $tabCount } tendayke ndive
+           *[other] Emoherakuãhína Ñe’ẽatãha peteĩ { $tabCount } tendayke ndive
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Eipuruhína Tembipuru’i “{ $streamTitle }” ndive
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Emoherakuãhína Tembipuru’i peteĩ { $tabCount } tendayke ndive
+           *[other] Emoherakuãhína Tembipuru’i peteĩ { $tabCount } tendayke ndive
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Eipuruhína Mba’erechaha “{ $streamTitle }” ndive
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Emoherakuãhína Mba’erechaha peteĩ { $tabCount } tendayke ndive
+           *[other] Emoherakuãhína Mba’erechaha peteĩ { $tabCount } tendayke ndive
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Eipuruhína Ovetã "{ $streamTitle }" ndive
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -94,15 +150,44 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = ¿Emoneĩ { $origin } ohendúvo mba’epu ko tendayke pegua?
+webrtc-allow-share-camera = Emoneĩpa { $origin } oipurúvo ta’ãnganohẽha?
+webrtc-allow-share-microphone = ¿Emoneĩ { $origin } oipurúvo ñe’ẽatãha?
+webrtc-allow-share-screen = ¿Emoneĩ { $origin } ohechávo mba’erechaha?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = ¿Emoneĩ { $origin } oipurúvo ambue ta’ãnganohẽha?
+webrtc-allow-share-camera-and-microphone = ¿Emoneĩ { $origin } oipurúvo ta’ãnganohẽha ha ñe’ẽatãha?
+webrtc-allow-share-camera-and-audio-capture = ¿Emoneĩ { $origin } oipurúvo ne ra’ãngamýi ha ohendu mba’epu ko tendayképe?
+webrtc-allow-share-screen-and-microphone = ¿Emoneĩ { $origin } oipurúvo ne ñe’ẽatãha ha ohecha nde mba’erechaha?
+webrtc-allow-share-screen-and-audio-capture = ¿Emoneĩ { $origin } ohendúvo mba’epu ko tendayképe ha ohecha ne mba’erechaha?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = ¿Emoneĩ { $origin } oikévo { $thirdParty } ta’ãngamýipe?
+webrtc-allow-share-microphone-unsafe-delegations = ¿Emoneĩ { $origin } oikévo { $thirdParty } mba’epúpe?
+webrtc-allow-share-screen-unsafe-delegation = ¿Emoneĩ { $origin } ome’ẽvo { $thirdParty } ohecha hag̃ua mba’erechaha?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = ¿Emoneĩ { $origin } oikévo { $thirdParty } ambue ta’ãnganohẽhápe?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ¿Emoneĩ { $origin }-pe oikévo { $thirdParty } ta’ãngamýi ha mba’epúpe?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ¿Emoneĩ { $origin }-pe oikévo { $thirdParty } ta’ãngamýi ha ohendúvo mba’epu tendayképe?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ¿Emoneĩ { $origin }-pe oikévo { $thirdParty } ne’ẽatãhápe ha ohechávo ne mba’erechaha?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Emoneĩ { $origin }-pe oikévo { $thirdParty } ohendu hag̃ua ne mba’epu ko tendayképe ha ohechávo ne mba’erechaha?
 
 ##
 
+webrtc-share-screen-warning = Emoherakuã mba’erechaha tenda ejeroviahápe. Jepuru oñondivegua omoneĩkuaa tenda imarãva oipykúivo ndéramo ha omonda ne mba’ekuaarã ñemigua.
+webrtc-share-browser-warning = Emoherakuã { -brand-short-name } rendakuéra ejeroviahápe añoite. Jepuru oñondivegua omoneĩkuaa tenda imarãva nemyendaguévo ha omonda ne mba’ekuaarã ñemigua.
 webrtc-share-screen-learn-more = Jekuaave
+webrtc-pick-window-or-screen = Eiporavo ovetã térã mba’erechaha
+webrtc-share-entire-screen = Mba’erechaha tuichakue
+webrtc-share-pipe-wire-portal = Eipuru apopyvusu oku’éva ñemboheko
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Mba’erechaha { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
@@ -117,6 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Moneĩ
     .accesskey = M
+webrtc-action-block =
+    .label = Joko
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Ejoko tapiaite
+    .accesskey = w
+webrtc-action-not-now =
+    .label = Ani ko’ág̃a
+    .accesskey = N
 
 ##
 
+webrtc-remember-allow-checkbox = Eñemomandu’a mba’épepa ojepyta
+webrtc-mute-notifications-checkbox = Emokirirĩ ñanduti renda marandu’i emoherakuã aja
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ndaikatúi omoneĩ mba’erechahápe jeike tapia.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ndaikatúi omoneĩ tendayke mba’epúpe jeike tapia oporandu’ỹre mba’e tendayképa omoherakuãta.
+webrtc-reason-for-no-permanent-allow-insecure = Nde jeike ko tendápe nahekorosãi. Eñemo’ã hag̃ua, { -brand-short-name } omoneĩta eikévo ko tembiapópe añoite.
