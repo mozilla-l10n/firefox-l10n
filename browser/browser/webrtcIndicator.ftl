@@ -18,6 +18,7 @@ webrtc-indicator-title = { -brand-short-name } - Індыкатар суполь
 
 ## Used as list items in sharing menu
 
+webrtc-item-browser = картка
 
 ##
 
@@ -82,3 +83,4 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не можа даць сталы доступ да аўдыё з карткі, не запытваючы, якой з картак дзяліцца.
