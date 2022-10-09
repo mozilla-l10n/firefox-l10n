@@ -23,6 +23,7 @@ webrtc-item-microphone = mikrofoan
 webrtc-item-application = applikaasje
 webrtc-item-screen = skerm
 webrtc-item-window = finster
+webrtc-item-browser = ljepblêd
 
 ##
 
@@ -76,6 +77,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Jo skerm wurdt dield. Klik om dielen te behearen.
 webrtc-indicator-sharing-window =
     .tooltiptext = In finster wurdt dield. Klik om dielen te behearen.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = In ljepblêd wurdt dield. Klik om dielen te behearen.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -85,35 +88,57 @@ webrtc-indicator-sharing-window =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = Dielen beheare
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Dielen beheare op ‘{ $streamTitle }’
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Kamera dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Kamera dield mei { $tabCount } ljepblêd
            *[other] Kamera dield mei { $tabCount } ljepblêden
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Mikrofoan dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Mikrofoan dield mei { $tabCount } ljepblêd
            *[other] Mikrofoan dield mei { $tabCount } ljepblêden
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = In applikaasje dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] In applikaasje dield mei { $tabCount } ljepblêdb
            *[other] Applikaasjes dield mei { $tabCount } ljepblêden
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Skerm dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Skerm dield mei { $tabCount } ljepblêd
            *[other] Skerm dield mei { $tabCount } ljepblêden
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Finster dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Finster dield mei { $tabCount } ljepblêd
            *[other] Finster dield mei { $tabCount } ljepblêden
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = In ljepblêd dield mei ‘{ $streamTitle }’
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] In ljepblêd dield mei { $tabCount } ljepblêd
+           *[other] Ljepblêden dield mei { $tabCount } ljepblêden
         }
 
 ## Variables:
