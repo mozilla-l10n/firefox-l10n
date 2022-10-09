@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - ইণ্ডিকেটৰ সহভাগ কৰি আছে
+webrtc-indicator-window =
+    .title = { -brand-short-name } - ইণ্ডিকেটৰ সহভাগ কৰি আছে
 
 ## Used as list items in sharing menu
 
@@ -22,6 +24,7 @@ webrtc-item-camera = কেমেৰা
 webrtc-item-microphone = মাইক্ৰফোন
 webrtc-item-application = এপ্লিকেচন
 webrtc-item-screen = পৰ্দা
+webrtc-item-window = উইণ্ড'
 
 ##
 
@@ -59,6 +62,10 @@ webrtc-indicator-sharing-application =
     .tooltiptext = এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
 webrtc-indicator-sharing-screen =
     .tooltiptext = আপোনাৰ পৰ্দা অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
+webrtc-indicator-sharing-window =
+    .tooltiptext = এটা উইণ্ড' অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
+webrtc-indicator-sharing-browser =
+    .tooltiptext = এটা টেব ভাগ-বতৰা কৰি থকা হৈছে। ভাগ-বতৰা কৰাটো নিয়ন্ত্ৰণ কৰিবলৈ ক্লিক কৰক।
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -102,8 +109,24 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] পৰ্দাক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] পৰ্দাক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = "{ $streamTitle }" ৰ সৈতে এটা উইণ্ড' অংশীদাৰী কৰা
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] এটা উইণ্ড'ক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
+           *[other] উইণ্ড'সমূহক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = কেমেৰাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount }টা টেবৰ সৈতে টেব ভাগ-বতৰা কৰি থকা হৈছে
+           *[other] { $tabCount }টা টেবৰ সৈতে টেব ভাগ-বতৰা কৰি থকা হৈছে
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -116,10 +139,26 @@ webrtc-indicator-menuitem-sharing-browser-with =
 
 ##
 
+webrtc-share-screen-learn-more = অধিক জানক
 webrtc-share-entire-screen = সম্পূৰ্ণ পৰ্দা
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } উইণ্ড')
+       *[other] { $appName } ({ $windowCount } উইণ্ড')
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-block =
+    .label = বাধা দিয়ক
+    .accesskey = য়
+webrtc-action-always-block =
+    .label = সদায় বাধা দিব
+    .accesskey = স
 
 ##
 
+webrtc-mute-notifications-checkbox = ভাগ-বতৰা কৰাৰ সময়ত ৱেবছাইটৰ জাননীবোৰ নিমাত কৰিব
