@@ -126,9 +126,13 @@ webrtc-share-monitor = Sgrin { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Caniatáu
+    .accesskey = C
 
 ##
 
 webrtc-remember-allow-checkbox = Cofio'r penderfyniad yma
+webrtc-reason-for-no-permanent-allow-screen = Nid yw { -brand-short-name } yn caniatáu mynediad parhaus i'ch sgrin.
 webrtc-reason-for-no-permanent-allow-audio = Nid yw { -brand-short-name } yn gallu caniatáu mynediad parhaol i sain eich tab heb ofyn pa dab i'w rannu.
 webrtc-reason-for-no-permanent-allow-insecure = Nid yw eich cysylltiad a'r wefan hon y ddiogel. Er mwyn eich diogelu, dim ond ar gyfer y sesiwn yma y bydd { -brand-short-name } yn caniatáu mynediad.
