@@ -18,9 +18,18 @@ webrtc-indicator-title = { -brand-short-name } - Indicator de partatge
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = camèra
+webrtc-item-microphone = microfòn
+webrtc-item-audio-capture = àudio de l'onglet
+webrtc-item-application = aplicacion
+webrtc-item-screen = ecran
+webrtc-item-window = fenèstra
+webrtc-item-browser = onglet
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Font desconeguda
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -57,6 +66,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Vòstra camèra e vòstre microfòn son partejats. Clicar per contrarotlar lo partiment.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Vòstra camèra es partejada. Clicar per contrarotlar lo partiment.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Vòstre microfòn es partejat. Clicar per contrarotlar lo partiment.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Una aplicacion es partejada. Clicar per contrarotlar lo partiment.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Vòstre ecran es partejat. Clicar per contrarotlar lo partiment.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Una fenèstra es partejada. Clicar per contrarotlar lo partiment.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Un onglet es partejat. Clicar per contrarotlar lo partiment.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +87,60 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Contrarotlar lo partiment
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Contrarotlar lo partiment amb « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Camèra partejada amb « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Camèra partejada amb { $tabCount } onglet
+           *[other] Camèra partejada amb { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Microfòn partejat amb « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Microfòn partejat amb { $tabCount } onglet
+           *[other] Microfòn partejat amb { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Aplicacion partejada amb « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Aplicacion partejada amb { $tabCount } onglet
+           *[other] Aplicacions partejadas amb { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Ecran partejat amb « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ecran partejat amb { $tabCount } onglet
+           *[other] Ecran partejat amb { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Fenèstra partejada amb « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Fenèstra partejada amb { $tabCount } onglet
+           *[other] Fenèstras partejadas amb { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Onglet partejat amb « { $streamTitle } »
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Onglet partejat amb { $tabCount } onglet
+           *[other] Onglets partejats amb { $tabCount } onglets
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +153,19 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = Ne saber mai
+webrtc-share-entire-screen = Ecran complet
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Ecran { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } fenèstra)
+       *[other] { $appName } ({ $windowCount } fenèstras)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
