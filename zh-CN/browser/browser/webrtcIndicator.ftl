@@ -120,15 +120,25 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = 详细了解
 webrtc-share-entire-screen = 整个屏幕
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = 屏幕 { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application = { $appName }（{ $windowCount } 个窗口）
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = 允许
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = 记住此决定
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } 不能长效允许访问您的屏幕。
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } 无法永久不让您先指定特定标签页，就允许存取任意标签页的音频内容。
 webrtc-reason-for-no-permanent-allow-insecure = 您与此网站间的连接并不安全。为了保护您，{ -brand-short-name } 将只允许此次浏览期间的访问。
