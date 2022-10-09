@@ -151,7 +151,12 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
 webrtc-allow-share-audio-capture = Saako { $origin } kuunnella tämän välilehden ääniä?
+webrtc-allow-share-camera = Saako { $origin } käyttää kameraa?
+webrtc-allow-share-microphone = Saako { $origin } käyttää mikrofonia?
 webrtc-allow-share-screen = Saako { $origin } nähdä näyttösi?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Saako { $origin } käyttää muita kaiuttimia?
 webrtc-allow-share-camera-and-microphone = Saako { $origin } käyttää kameraa ja mikrofonia?
 webrtc-allow-share-camera-and-audio-capture = Saako { $origin } käyttää kameraa ja kuunnella tämän välilehden ääniä?
 webrtc-allow-share-screen-and-microphone = Saako { $origin } käyttää mikrofonia ja nähdä näyttösi?
@@ -177,6 +182,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Saako { $origin 
 webrtc-share-screen-warning = Jaa näyttöjä vain luottamillesi sivustoille. Jakamisen ansiosta petollinen sivusto voi pystyä selaamaan verkkoa esiintyen sinuna ja varastamaan henkilötietojasi.
 webrtc-share-browser-warning = Jaa { -brand-short-name } vain luottamillesi sivustoille. Jakamisen ansiosta petollinen sivusto voi pystyä selaamaan verkkoa esiintyen sinuna ja varastamaan henkilötietojasi.
 webrtc-share-screen-learn-more = Lue lisää
+webrtc-pick-window-or-screen = Valitse ikkuna tai näyttö
 webrtc-share-entire-screen = Koko näyttö
 webrtc-share-pipe-wire-portal = Käytä käyttöjärjestelmän asetuksia
 # Variables:
@@ -196,6 +202,15 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Salli
     .accesskey = S
+webrtc-action-block =
+    .label = Estä
+    .accesskey = E
+webrtc-action-always-block =
+    .label = Estä aina
+    .accesskey = a
+webrtc-action-not-now =
+    .label = Ei nyt
+    .accesskey = N
 
 ##
 
