@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — 共享指示器
 webrtc-indicator-window =
     .title = { -brand-short-name } — 共享指示器
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = 您正在共享摄像头。点击以控制共享。
 webrtc-microphone-system-menu =
@@ -142,6 +137,7 @@ webrtc-allow-share-screen-and-audio-capture = 要允许 { $origin } 听到此标
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 听到此标签页的音频吗？
 webrtc-allow-share-camera-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的摄像头吗？
 webrtc-allow-share-microphone-unsafe-delegations = 要允许 { $origin } 授权 { $thirdParty } 使用您的麦克风吗？
 webrtc-allow-share-screen-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 看到您的屏幕吗？
