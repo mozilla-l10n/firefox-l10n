@@ -32,6 +32,9 @@ webrtc-sharing-menuitem-unknown-host = មិន​ស្គាល់​ប្�
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = ផ្ទាំង​ចែករំលែកឧបករណ៍
+    .accesskey = d
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -103,6 +106,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = ស្វែងយល់​បន្ថែម
 webrtc-share-entire-screen = អេក្រង់​ទាំងមូល
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
