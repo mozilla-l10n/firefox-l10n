@@ -173,6 +173,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dovolite { $orig
 
 ##
 
+webrtc-share-screen-learn-more = Več o tem
 webrtc-share-entire-screen = Celoten zaslon
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -190,6 +191,12 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Dovoli
+    .accesskey = D
 
 ##
 
+webrtc-remember-allow-checkbox = Zapomni si to odločitev
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne more dovoliti trajnega dostopa do zvoka tega zavihka, ne da bi vprašal, kateri zavihek želite deliti.
+webrtc-reason-for-no-permanent-allow-insecure = Vaša povezava na to stran ni varna. Da vas zaščiti, bo { -brand-short-name } dovolil dostop samo za to sejo.
