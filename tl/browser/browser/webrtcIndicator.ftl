@@ -178,10 +178,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Pahintulutan
     .accesskey = A
+webrtc-action-block =
+    .label = Harangin
+    .accesskey = H
+webrtc-action-always-block =
+    .label = Palaging harangin
+    .accesskey = w
 
 ##
 
 webrtc-remember-allow-checkbox = Tandaan itong desisyon
+webrtc-mute-notifications-checkbox = I-mute ang mga abiso sa website habang nagbabahagi
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ay hindi pinapayagan ang permanenteng pag-access sa iyong screen.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ay hindi pinapayagan ang permanenteng pag-access sa audio ng iyong tab nang walang pagtatanong kung aling tab ang ibabahagi.
 webrtc-reason-for-no-permanent-allow-insecure = Ang iyong koneksyon sa site na ito ay hindi ligtas. Upang protektahan ka, papayagan lamang ng { -brand-short-name } ang pag-access para sa session na ito.
