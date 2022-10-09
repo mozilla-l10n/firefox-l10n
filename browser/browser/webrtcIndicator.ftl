@@ -160,6 +160,9 @@ webrtc-share-screen-learn-more = Ulteriuras infurmaziuns
 webrtc-pick-window-or-screen = Tscherna la fanestra u il visur
 webrtc-share-entire-screen = Entir visur
 # Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Visur { $monitorIndex }
+# Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
 webrtc-share-application =
