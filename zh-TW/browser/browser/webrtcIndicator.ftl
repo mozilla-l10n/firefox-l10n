@@ -137,6 +137,7 @@ webrtc-allow-share-screen-and-audio-capture = 要允許 { $origin } 聽到這個
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 聽到此分頁播放的音訊嗎？
 webrtc-allow-share-camera-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 使用您的攝影機與麥克風嗎？
 webrtc-allow-share-microphone-unsafe-delegations = 要允許 { $origin } 授權 { $thirdParty } 使用您的麥克風嗎？
 webrtc-allow-share-screen-unsafe-delegation = 要允許 { $origin } 授權 { $thirdParty } 看到您的螢幕畫面嗎？
