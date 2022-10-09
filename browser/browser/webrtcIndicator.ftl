@@ -96,16 +96,78 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = Rheoli Rhannu gyda "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Rhannu camera gyda "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Peidio rhannu Camera gyda thabiau
+            [one] Rhannu Camera gyda { $tabCount } tab
+            [two] Rhannu Camera gyda { $tabCount } dab
+            [few] Rhannu Camera gyda { $tabCount } thab
+            [many] Rhannu Camera gyda { $tabCount } thab
+           *[other] Rhannu Camera gyda { $tabCount } tab
+        }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Rhannu Meicroffon gyda "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Peidio rhannu Meicroffon gyda thabiau
+            [one] Rhannu Meicroffon gydag { $tabCount } tab
+            [two] Rhannu Meicroffon gyda { $tabCount } dab
+            [few] Rhannu Meicroffon gyda { $tabCount } thab
+            [many] Rhannu Meicroffon gyda { $tabCount } thab
+           *[other] Rhannu Meicroffon gyda { $tabCount } tab
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Rhannu Rhaglen gyda "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Peidio rhannu Rhaglen gyda thabiau
+            [one] Rhannu Rhaglen gyda { $tabCount } tab
+            [two] Rhannu Rhaglen gyda { $tabCount } dab
+            [few] Rhannu Rhaglen gyda { $tabCount } thab
+            [many] Rhannu Rhaglen gyda { $tabCount } thab
+           *[other] Rhannu Rhaglen gyda { $tabCount } tab
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Rhannu Sgrin gyda "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Peidio rhannu'r Sgrin gyda thabiau
+            [one] Rhannu'r Sgrin gyda { $tabCount } tab
+            [two] Rhannu'r Sgrin gyda { $tabCount } dab
+            [few] Rhannu'r Sgrin gyda { $tabCount } thab
+            [many] Rhannu'r Sgrin gyda { $tabCount } thab
+           *[other] Rhannu'r Sgrin gyda { $tabCount } tab
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Rhannu Ffenestr gyda "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Peidio rhannu Ffenestr gyda thabiau
+            [one] Rhannu Ffenestr gydag { $tabCount } tab
+            [two] Rhannu Ffenestr gyda { $tabCount } dab
+            [few] Rhannu Ffenestr gyda { $tabCount } thab
+            [many] Rhannu Ffenestr gyda { $tabCount } thab
+           *[other] Rhannu Ffenestr gyda { $tabCount } tab
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Rhannu Tab gyda "{ $streamTitle }"
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Peidio rhannu Tab gyda thabiau
+            [one] Rhannu Tab gydag { $tabCount } tab
+            [two] Rhannu Tab gyda { $tabCount } dab
+            [few] Rhannu Tab gyda { $tabCount } thab
+            [many] Rhannu Tab gyda { $tabCount } thab
+           *[other] Rhannu Tab gyda { $tabCount } tab
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -123,6 +185,18 @@ webrtc-share-entire-screen = Sgrin gyfan
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Sgrin { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [zero] { $appName } (Dim ffenestri)
+        [one] { $appName } ({ $windowCount } ffenestr)
+        [two] { $appName } ({ $windowCount } ffenestr)
+        [few] { $appName } ({ $windowCount } ffenestr)
+        [many] { $appName } ({ $windowCount } ffenestr)
+       *[other] { $appName } ({ $windowCount } ffenestr)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
