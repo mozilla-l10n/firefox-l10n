@@ -148,6 +148,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
 webrtc-allow-share-audio-capture = ¿Permitir a { $origin } escuchar el audio de esta pestaña?
+webrtc-allow-share-camera = ¿Permitir a { $origin } usar su cámara?
 webrtc-allow-share-microphone = ¿Permitir a { $origin } usar su micrófono?
 webrtc-allow-share-screen = ¿Permitir a { $origin } ver su pantalla?
 # "Speakers" is used in a general sense that might include headphones or
@@ -198,6 +199,12 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permitir
     .accesskey = P
+webrtc-action-block =
+    .label = Bloquear
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Bloquear siempre
+    .accesskey = s
 webrtc-action-not-now =
     .label = Ahora no
     .accesskey = n
@@ -205,6 +212,7 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Recordar esta decisión
+webrtc-mute-notifications-checkbox = Silenciar notificaciones de la página mientras se comparte
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no puede conceder acceso permanente a su pantalla.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no puede permitir acceso permanente al audio de su pestaña sin preguntar qué pestaña compartir.
 webrtc-reason-for-no-permanent-allow-insecure = Su conexión a este sitio no es segura. Para protegerle, { -brand-short-name } solo permitirá el acceso en esta sesión.
