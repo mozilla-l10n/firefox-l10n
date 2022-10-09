@@ -18,14 +18,24 @@ webrtc-indicator-title = Ukazovateľ zdieľania aplikácie { -brand-short-name }
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofón
+webrtc-item-application = aplikácia
+webrtc-item-screen = obrazovka
+webrtc-item-window = okno
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Neznámy pôvod
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Karty zdieľajúce zariadenia
+    .accesskey = d
 webrtc-sharing-window = Zdieľate okno inej aplikácie.
 webrtc-sharing-browser-window = Zdieľate aplikáciu { -brand-short-name }.
 webrtc-sharing-screen = Zdieľate celú svoju obrazovku.
@@ -57,6 +67,8 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-application =
+    .tooltiptext = Aplikácia je práve zdieľaná. Kliknutím sem zmeníte nastavenia.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +76,15 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Zdieľa sa aplikácia s "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Zdieľa sa aplikácia s { $tabCount } kartou
+            [few] Zdieľa sa aplikácia s { $tabCount } kartami
+           *[other] Zdieľa sa aplikácia s { $tabCount } kartami
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +97,16 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Celá obrazovka
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } okno)
+        [few] { $appName } ({ $windowCount } okná)
+       *[other] { $appName } ({ $windowCount } okien)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
