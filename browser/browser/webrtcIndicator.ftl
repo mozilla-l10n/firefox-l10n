@@ -113,6 +113,8 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Koplieto logu ar { $tabCount } cilni
            *[other] Koplieto logu ar { $tabCount } cilnēm
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Koplieto cilni ar “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
