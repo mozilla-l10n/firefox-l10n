@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indikilo de divido
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indikilo de divido
 
 ## Used as list items in sharing menu
 
@@ -148,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Ĉu permesi al { $origin } aŭskulti la sonon de tiu ĉi langeto?
+webrtc-allow-share-camera = Ĉu permesi al { $origin } uzi vian filmilon?
+webrtc-allow-share-microphone = Ĉu permesi al { $origin } uzi vian mikrofonon?
+webrtc-allow-share-screen = Ĉu permesi al { $origin } vidi vian ekranon?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Ĉu permesi al { $origin } uzi aliajn laŭtparolilojn?
+webrtc-allow-share-camera-and-microphone = Ĉu permesi al { $origin } uzi vian filmilon kaj mikrofonon?
+webrtc-allow-share-camera-and-audio-capture = Ĉu permesi al { $origin } uzi vian filmilon kaj aŭskulti la sonon de tiu ĉi langeto?
+webrtc-allow-share-screen-and-microphone = Ĉu permesi al { $origin } uzi vian mikrofonon kaj vidi vian ekranon?
+webrtc-allow-share-screen-and-audio-capture = Ĉu permesi al { $origin } aŭskulti la sonon de tiu ĉi langeto kaj vidi vian ekranon?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian filmilon?
+webrtc-allow-share-microphone-unsafe-delegations = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian mikrofonon?
+webrtc-allow-share-screen-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } vidi vian ekranon?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri aliajn laŭtparolilojn?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian filmilon kaj vian mikrofonon?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian filmilon kaj aŭskulti la sonon de tiu ĉi langeto?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aliri vian mikrofonon kaj vidi vian ekranon?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Ĉu permesi al { $origin } rajtigi { $thirdParty } aŭskulti la sonon de tiu ĉi langeto kaj vidi vian ekranon?
 
 ##
 
+webrtc-share-screen-warning = Nur dividu ekranojn kun retejoj, kiujn vi fidas. Divido de ekrano povas permesi al trompaj retejoj retumi nome via kaj ŝteli viajn privatajn datumojn.
+webrtc-share-browser-warning = Nur dividu { -brand-short-name } kun retejoj, kiujn vi fidas. Divido povas permesi al trompaj retejoj retumi nome via kaj ŝteli viajn privatajn datumojn.
 webrtc-share-screen-learn-more = Pli da informo
 webrtc-pick-window-or-screen = Elektu fenestron aŭ ekranon
 webrtc-share-entire-screen = Tuta ekrano
+webrtc-share-pipe-wire-portal = Uzi la agordojn de la mastruma sistemo
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ekrano { $monitorIndex }
@@ -176,10 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permesi
     .accesskey = P
+webrtc-action-block =
+    .label = Bloki
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Ĉiam bloki
+    .accesskey = i
+webrtc-action-not-now =
+    .label = Ne nun
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Memori tiun ĉi decidon
+webrtc-mute-notifications-checkbox = Malaktivigi retejejan sciigojn dum divido
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne povas permesi konstantan aliron al via ekrano.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne povas permesi konstantan aliron al la sono de via langeto sen demandi, kiu langeto.
 webrtc-reason-for-no-permanent-allow-insecure = Via konekto al tiu ĉir retejo ne estas sekura. Por protekti vin, { -brand-short-name } nur permesos aliron dum tiu ĉi seanco.
