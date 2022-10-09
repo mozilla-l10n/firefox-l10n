@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Partekatzearen adierazlea
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Partekatzearen adierazlea
 
 ## Used as list items in sharing menu
 
@@ -148,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Baimendu { $origin } guneak fitxa honetako audioa entzutea?
+webrtc-allow-share-camera = Baimendu { $origin } guneak zure kamera erabiltzea?
+webrtc-allow-share-microphone = Baimendu { $origin } guneak zure mikrofonoa erabiltzea?
+webrtc-allow-share-screen = Baimendu { $origin } guneak zure pantaila ikustea?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Baimendu { $origin } guneak beste bozgorailuak erabiltzea?
+webrtc-allow-share-camera-and-microphone = Baimendu { $origin } guneak zure kamera eta mikrofonoa erabiltzea?
+webrtc-allow-share-camera-and-audio-capture = Baimendu { $origin } guneak zure kamera erabili eta fitxa honetako audioa entzutea?
+webrtc-allow-share-screen-and-microphone = Baimendu { $origin } guneak zure kamera erabili eta zure pantaila ikustea?
+webrtc-allow-share-screen-and-audio-capture = Baimendu { $origin } guneak fitxa honetako audioa entzun eta zure pantaila ikustea?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari zure kamerarako sarbidea ematea?
+webrtc-allow-share-microphone-unsafe-delegations = Baimendu { $origin } guneak { $thirdParty } guneari zure mikrofonorako sarbidea ematea?
+webrtc-allow-share-screen-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari zure pantaila ikusteko baimena ematea?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari beste bozgorailuetarako sarbidea ematea?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari zure kamera eta mikrofonorako sarbidea ematea?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari zure kamerarako eta fitxa honetako audioa entzuteko sarbidea ematea?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari zure mikrofonorako eta zure pantaila ikusteko sarbidea ematea?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari fitxa honetako audioa entzun eta zure pantaila ikusteko baimena ematea?
 
 ##
 
+webrtc-share-screen-warning = Partekatu pantailak soilik zuretzat fidagarriak diren guneekin. Partekatuz gero, gune iruzurtiek zu bazina bezala guneak nabigatu eta zure datu pribatuak lapurtzea baimen lezake.
+webrtc-share-browser-warning = Partekatu { -brand-short-name } soilik zuretzat fidagarriak diren guneekin. Partekatuz gero, gune iruzurtiek zu bazina bezala guneak nabigatu eta zure datu pribatuak lapurtzea baimen lezake.
 webrtc-share-screen-learn-more = Argibide gehiago
 webrtc-pick-window-or-screen = Hautatu leihoa edo pantaila
 webrtc-share-entire-screen = Pantaila osoa
+webrtc-share-pipe-wire-portal = Erabili sistema eragilearen ezarpenak
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = { $monitorIndex }. pantaila
@@ -176,10 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Baimendu
     .accesskey = B
+webrtc-action-block =
+    .label = Blokeatu
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Blokeatu beti
+    .accesskey = k
+webrtc-action-not-now =
+    .label = Une honetan ez
+    .accesskey = z
 
 ##
 
 webrtc-remember-allow-checkbox = Gogoratu erabakia
+webrtc-mute-notifications-checkbox = Mututu webgunearen jakinarazpenak partekatzea aktibo dagoenean
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }(e)k ezin du zure pantailarako sarbide iraunkorra baimendu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }(e)k ezin du zure fitxaren audiorako sarbide iraunkorra baimendu zein fitxa partekatu galdetu gabe.
 webrtc-reason-for-no-permanent-allow-insecure = Gune honetarako zure konexioa ez da segurua. Zure babeserako, saio honetarako bakarrik baimenduko du sarbidea { -brand-short-name }(e)k.
