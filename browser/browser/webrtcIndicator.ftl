@@ -175,6 +175,7 @@ webrtc-allow-share-screen-and-microphone-unsafe-delegation = Разрешить 
 ##
 
 webrtc-share-screen-learn-more = Подробнее
+webrtc-pick-window-or-screen = Выберите окно или экран
 webrtc-share-pipe-wire-portal = Использовать настройки операционной системы
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
