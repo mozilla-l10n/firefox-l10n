@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - බෙදාගැනීමේ දර්ශකය
 webrtc-indicator-window =
     .title = { -brand-short-name } - බෙදාගැනීමේ දර්ශකය
@@ -25,7 +23,7 @@ webrtc-item-microphone = ශබ්දවාහිනිය
 webrtc-item-application = යෙදුම
 webrtc-item-screen = තිරය
 webrtc-item-window = කවුළුව
-webrtc-item-browser = (පටිත්ත %1$S
+webrtc-item-browser = පටිත්ත
 
 ##
 
@@ -56,9 +54,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = ඔබගේ රූගතය බෙදා ගැනෙමින්. එය පාලනයට ඔබන්න.
 webrtc-microphone-system-menu =
