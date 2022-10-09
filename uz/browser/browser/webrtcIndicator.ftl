@@ -15,9 +15,16 @@
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofon
+webrtc-item-application = ilova dastur
+webrtc-item-screen = ekran
+webrtc-item-window = oyna
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Manbasi noma’lum
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -31,6 +38,18 @@ webrtc-sharing-menuitem =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Kamera va mikrofoningizdan o‘zaro foydalanilmoqda. Bo‘lishishni boshqarish uchun bosing.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Kamerangiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Mikrofoningiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Ilova dasturingiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Ekraningiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Oynangiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -38,6 +57,52 @@ webrtc-sharing-menuitem =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Bo‘lishishni boshqarish
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = "{ $streamTitle }"dagi bo‘lishishni boshqarish
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Kamerani "{ $streamTitle }" bilan bo‘lishish
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Mikrofonni "{ $streamTitle }" bilan bo‘lishish
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Mikrofonni { $tabCount } ta ichki oyna bilan bo‘lishish
+           *[other] Mikrofonni { $tabCount } ta ichki oyna bilan bo‘lishish
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Ilova dasturni "{ $streamTitle }" bilan bo‘lishish
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ilova dasturni { $tabCount } ta ichki oyna bilan bo‘lishish
+           *[other] Ilova dasturni { $tabCount } ta ichki oyna bilan bo‘lishish
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Ekranni "{ $streamTitle }" bilan bo‘lishish
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ekranni { $tabCount } ta ichki oyna bilan bo‘lishish
+           *[other] Ekranni { $tabCount } ta ichki oyna bilan bo‘lishish
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Oynani "{ $streamTitle }" bilan bo‘lishish
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Oynani { $tabCount } ta ichki oyna bilan bo‘lishish
+           *[other] Oynani { $tabCount } ta ichki oyna bilan bo‘lishish
+        }
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ichki oynani { $tabCount } ta ichki oyna bilan bo‘lishish
+           *[other] Ichki oynani { $tabCount } ta ichki oyna bilan bo‘lishish
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -50,6 +115,18 @@ webrtc-sharing-menuitem =
 
 ##
 
+webrtc-share-entire-screen = Butun ekran
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = { $monitorIndex }-ekran
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } ta oyna)
+       *[other] { $appName } ({ $windowCount } ta oyna)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
