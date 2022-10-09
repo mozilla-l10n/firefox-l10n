@@ -5,12 +5,11 @@
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Časť tejto stránky zlyhala.</strong> Ak chcete, aby sa autori aplikácie { -brand-product-name } dozvedeli o tomto probléme a tento mohol byť rýchlejšie vyriešený, prosím, odošlite hlásenie.
-
+crashed-subframe-message = <strong>Časť tejto stránky zlyhala.</strong> Ak chcete, aby sa tvorcovia prehliadača { -brand-product-name } dozvedeli o tomto probléme a tento mohol byť rýchlejšie vyriešený, prosím, odošlite hlásenie.
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
-    .title = Časť tejto stránky zlyhala. Ak chcete, aby sa autori aplikácie { -brand-product-name } dozvedeli o tomto probléme a tento mohol byť rýchlejšie vyriešený, prosím, odošlite hlásenie.
+    .title = Časť tejto stránky zlyhala. Ak chcete, aby sa tvorcovia prehliadača { -brand-product-name } dozvedeli o tomto probléme a tento mohol byť rýchlejšie vyriešený, prosím, odošlite hlásenie.
 crashed-subframe-learnmore-link =
     .value = Ďalšie informácie
 crashed-subframe-submit =
