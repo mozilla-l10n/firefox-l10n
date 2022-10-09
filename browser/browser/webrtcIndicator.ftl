@@ -175,6 +175,7 @@ webrtc-allow-share-speaker-unsafe-delegation = { $origin } erlauben, den Zugriff
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $origin } erlauben, den Zugriff auf Kamera und Mikrofon mit { $thirdParty } zu teilen?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihre Kamera und die Audio-Wiedergabe des Tabs mit { $thirdParty } zu teilen?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihr Mikrofon und den Bildschirminhalt mit { $thirdParty } zu teilen?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } erlauben, den Zugriff auf die Audio-Wiedergabe des Tabs und Ihren Bildschirm mit { $thirdParty } zu teilen?
 
 ##
 
