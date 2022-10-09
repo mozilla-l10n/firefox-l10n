@@ -50,30 +50,42 @@ webrtc-indicator-sharing-window =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = વહેંચવાનુ નિયંત્રણ કરો
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = "{ $streamTitle }" પર વહેંચવાનું નિયંત્રણ કરો
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = "{ $streamTitle }" સાથે કૅમેરાને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ટૅબ સાથે કૅમેરાને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે કૅમેરાને વહેંચી રહ્યા છે
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = "{ $streamTitle }" સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ટૅબ સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = "{ $streamTitle }" સાથે સ્ક્રીનને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ટૅબ સાથે સ્ક્રીનને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે સ્ક્રીનને વહેંચી રહ્યા છે
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = "{ $streamTitle }" સાથે વિન્ડોને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ટૅબ સાથે વિન્ડોને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે વિન્ડોને વહેંચી રહ્યા છે
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = "{ $streamTitle }" સાથે કૅમેરાને વહેંચી રહ્યા છે
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -86,6 +98,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
 
 ##
 
+webrtc-share-entire-screen = આખી સ્ક્રીન
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
