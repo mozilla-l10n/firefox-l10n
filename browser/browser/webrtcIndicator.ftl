@@ -144,6 +144,8 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = מידע נוסף
+webrtc-pick-window-or-screen = בחירת חלון או מסך
 webrtc-share-entire-screen = כל המסך
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -159,8 +161,13 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = לאפשר
+    .accesskey = א
 
 ##
 
+webrtc-remember-allow-checkbox = שמירת הבחירה הזו
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } אינו יכול לאפשר גישה קבועה למסך שלך.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } אינו יכול לאפשר גישה קבועה לאודיו של לשונית מבלי לשאול איזו לשונית לשתף.
+webrtc-reason-for-no-permanent-allow-insecure = החיבור שלך לאתר זה אינו מאובטח. כדי להגן עליך, { -brand-short-name } יאפשר גישה רק להפעלה זו.
