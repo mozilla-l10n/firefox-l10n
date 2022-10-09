@@ -82,7 +82,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Mikro žemni nda kanji { $tabCount }
-           *[other] { " " }Mikro žemni nda kanji { $tabCount }
+           *[other] Mikro žemni nda kanji { $tabCount }
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Goo ma porogaramize žemna nda "{ $streamTitle }
@@ -141,7 +141,7 @@ webrtc-share-monitor = Diji { $monitorIndex }
 webrtc-share-application =
     { $windowCount ->
         [one] { $appName } (zanfun { $windowCount })
-       *[other] { " " }{ $appName } (zanfun { $windowCount })
+       *[other] { $appName } (zanfun { $windowCount })
     }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
