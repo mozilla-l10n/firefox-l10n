@@ -33,6 +33,9 @@ webrtc-sharing-menuitem-unknown-host = Hindi tiyak ang pinanggalingan
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Mga device sa pagbabahagi ng mga tab
+    .accesskey = d
 webrtc-sharing-window = Nagbabahagi ka ng isa pang application window.
 webrtc-sharing-browser-window = Ibinabahagi mo ang { -brand-short-name }.
 webrtc-sharing-screen = Ibinabahagi mo ang iyong buong screen.
