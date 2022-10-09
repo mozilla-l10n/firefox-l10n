@@ -69,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Kamera og mikrofon vert delte no. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Kamera vert delt no. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Mikrofonen vert delt no. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Eit program vert delt. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Skjermen din vert delt no. Trykk for å kontrollere deling.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Eit vindauge vert delt no. Trykk her for å kontrollere deling.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Ei fane vert delt no. Trykk for å kontrollere deling.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -76,18 +90,28 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Kontroller deling
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Kontroller deling på «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Deler kamera med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Deler kamera med { $tabCount } fane
            *[other] Deler kamera med { $tabCount }faner
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Deler mikrofon med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Deler mikrofon med { $tabCount } fane
            *[other] Deler mikrofon med { $tabCount } faner
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Deler eit program med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
@@ -102,6 +126,16 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Deler skjerm med { $tabCount } fane
            *[other] Deler skjerm med { $tabCount } faner
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Deler eit vindauge med «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler eit vindauge med { $tabCount } fane
+           *[other] Deler vindauge med { $tabCount } faner
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Deler ei fane med «{ $streamTitle }»
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
@@ -145,3 +179,5 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Hugs dette valet
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikkje tillate permanent tilgang til skjermen din.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikkje tillate permanent tilgang til lyden på fana di utan å spørje kva for fane som skal delast.
