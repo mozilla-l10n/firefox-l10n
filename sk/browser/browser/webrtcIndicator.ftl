@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = Ukazovateľ zdieľania aplikácie { -brand-short-name }
+webrtc-indicator-window =
+    .title = Ukazovateľ zdieľania aplikácie { -brand-short-name }
 
 ## Used as list items in sharing menu
 
@@ -185,6 +187,8 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chcete povoliť 
 
 webrtc-share-screen-warning = Obrazovku zdieľajte len so stránkami, ktorým veríte. Zdieľanie môže umožniť klamlivým stránkam sledovať vaše prehliadanie a ukradnúť vaše osobné údaje.
 webrtc-share-browser-warning = { -brand-short-name } zdieľajte len so stránkami, ktorým veríte. Zdieľanie môže umožniť klamlivým stránkam sledovať vaše prehliadanie a ukradnúť vaše osobné údaje.
+webrtc-share-screen-learn-more = Ďalšie informácie
+webrtc-pick-window-or-screen = Vybrať okno alebo obrazovku
 webrtc-share-entire-screen = Celá obrazovka
 webrtc-share-pipe-wire-portal = Použiť nastavenia operačného systému
 # Variables:
@@ -202,6 +206,9 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Povoliť
+    .accesskey = P
 webrtc-action-block =
     .label = Zakázať
     .accesskey = Z
@@ -211,4 +218,8 @@ webrtc-action-always-block =
 
 ##
 
+webrtc-remember-allow-checkbox = Zapamätať si toto rozhodnutie
 webrtc-mute-notifications-checkbox = Počas zdieľania stlmiť upozornenia na webe
+webrtc-reason-for-no-permanent-allow-screen = Aplikácia { -brand-short-name } nemôže povoliť trvalý prístup k vašej obrazovke.
+webrtc-reason-for-no-permanent-allow-audio = Aplikácia { -brand-short-name } nemôže povoliť trvalý prístup k zvuku z vašej karty bez toho, aby sa spýtala ktorú kartu chcete zdieľať.
+webrtc-reason-for-no-permanent-allow-insecure = Vaše pripojenie k tejto stránke nie je zabezpečené. { -brand-short-name } z dôvodu vašej ochrany povolí prístup len pre túto reláciu.
