@@ -96,16 +96,30 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = ควบคุมการแบ่งปันบน “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = กำลังแบ่งปันกล้องกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label = กำลังแบ่งปันกล้องกับ { $tabCount } แท็บ
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = กำลังแบ่งปันไมโครโฟนกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label = กำลังแบ่งปันไมโครโฟนกับ { $tabCount } แท็บ
 webrtc-indicator-menuitem-sharing-application-with =
     .label = กำลังแบ่งปันแอปพลิเคชันกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label = กำลังแบ่งปันแอปพลิเคชันกับ { $tabCount } แท็บ
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = กำลังแบ่งปันหน้าจอกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label = กำลังแบ่งปันหน้าจอกับ { $tabCount } แท็บ
 webrtc-indicator-menuitem-sharing-window-with =
     .label = กำลังแบ่งปันหน้าต่างกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label = กำลังแบ่งปันหน้าต่างกับ { $tabCount } แท็บ
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = กำลังแบ่งปันแท็บกับ “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label = กำลังแบ่งปันแท็บกับ { $tabCount } แท็บ
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -121,9 +135,14 @@ webrtc-indicator-menuitem-sharing-browser-with =
 webrtc-share-screen-learn-more = เรียนรู้เพิ่มเติม
 webrtc-pick-window-or-screen = เลือกหน้าต่างหรือหน้าจอ
 webrtc-share-entire-screen = ทั้งหน้าจอ
+webrtc-share-pipe-wire-portal = ใช้การตั้งค่าระบบปฏิบัติการ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = หน้าจอ { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application = { $appName } ({ $windowCount } หน้าต่าง)
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
@@ -135,4 +154,5 @@ webrtc-action-allow =
 
 webrtc-remember-allow-checkbox = จดจำการตัดสินใจนี้
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ไม่สามารถอนุญาตการเข้าถึงแบบถาวรให้กับหน้าจอของคุณได้
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ไม่อนุญาตให้เข้าถึงแท็บของคุณแบบถาวรโดยไม่ถามว่าจะแบ่งปันแท็บไหน
 webrtc-reason-for-no-permanent-allow-insecure = การเชื่อมต่อของคุณไปยังไซต์นี้ไม่ปลอดภัย เพื่อปกป้องคุณ { -brand-short-name } จะอนุญาตให้เข้าถึงเฉพาะในวาระนี้เท่านั้น
