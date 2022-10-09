@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Bḍu anamal
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Bḍu anamal
 
 ## Used as list items in sharing menu
 
@@ -148,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Sireg { $origin } ad isel i umeslaw n yiccer-a?
+webrtc-allow-share-camera = Sireg { $origin } ad isegdec takamiṛat?
+webrtc-allow-share-microphone = Sireg { $origin } ad isegdec aṣawaḍ?
+webrtc-allow-share-screen = Sireg { $origin } ad iwali agdil-inek·inem?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Sireg { $origin } aseqdec n yimesnarnayen imesli?
+webrtc-allow-share-camera-and-microphone = Sireg { $origin } ad iseqdec takamiṛat-ik·im akked usawaḍ-ik·im?
+webrtc-allow-share-camera-and-audio-capture = Sireg { $origin } akken ad iseqdec takamirat u ad isell i umeslaw n yiccer-a?
+webrtc-allow-share-screen-and-microphone = Sireg { $origin } ad iseqdec aṣawaḍ wa ad iwali agdil-inek?
+webrtc-allow-share-screen-and-audio-capture = Sireg { $origin } ad isel i umselaw n yiccer-a u ad iwali agdil-inek?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Sireg { $origin } ad yefk i { $thirdParty } anekcum ɣer tkamiṛat-ik?
+webrtc-allow-share-microphone-unsafe-delegations = Sireg { $origin } ad yefk i { $thirdParty } anekcum ɣer usawaḍ-ik·im?
+webrtc-allow-share-screen-unsafe-delegation = Sireg i { $origin } ad yeǧǧ { $thirdParty } ad iwali agdil-inek?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Sireg { $origin } ad imudd i { $thirdParty } anekcum i yimesnarnayen n yimesli?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Sireg { $origin } ad yefk i { $thirdParty } anekcum ɣer tkamiṛat akked usawaḍ inek·inem?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Sireg { $origin } ad imudd i { $thirdParty } tasiregt n unekcum ɣer takamirat daɣen ad isel i umeslaw n yiccer-a?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Sireg { $origin } ad yefk i { $thirdParty } anekcum ɣer usawaḍ u ad iwali agdil-inek?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Sireg { $origin } ad imudd tasiregt i { $thirdParty } akken ad isel i umeslaw n yiccer-a daɣen ad iwali agdil-ik?
 
 ##
 
+webrtc-share-screen-warning = Bḍu kan igdilen akked yismal iɣef tettekleḍ. Beṭṭu yezmer ad isireg ismal n ukellex akken ad inigen am kečč, ad rnun ad akren isefka-inek·inem usligen.
+webrtc-share-browser-warning = Bḍu kan { -brand-short-name } akked yismal iɣef tettekleḍ. Beṭṭu yezmer ad isireg ismal n ukellex akken ad inigen am kečč·kemm, ad rnun ad akren isefka-inek·inem usligen.
 webrtc-share-screen-learn-more = Issin ugar
 webrtc-pick-window-or-screen = Fren asfaylu neɣ agdil
 webrtc-share-entire-screen = Akk agdil
+webrtc-share-pipe-wire-portal = Seqdec iɣewwaren n unagraw n wammud
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Agdil { $monitorIndex }
@@ -176,10 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Sireg
     .accesskey = r
+webrtc-action-block =
+    .label = Sewḥel
+    .accesskey = Ḥ
+webrtc-action-always-block =
+    .label = Sewḥel yal tikkelt
+    .accesskey = W
+webrtc-action-not-now =
+    .label = Mačči tura
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Cfu ɣef leqsed-a
+webrtc-mute-notifications-checkbox = Sgugem ilɣa n usmel web mi ara tbeṭṭuḍ
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ur izmir ara ad isireg anekcum izgan ɣer ugdil-inek.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ur yizmir ara ad isireg anekcum izgan ɣer yiccer-inek amesalw war ma isuter anwa iccer ara yebḍu.
 webrtc-reason-for-no-permanent-allow-insecure = Tuqqna-inek ɣer usmel-a mačči d taɣelsant. Akken ad tḥerzeḍ iman-ik, { -brand-short-name } ad isireg anekcum deg tɣimit-a kan.
