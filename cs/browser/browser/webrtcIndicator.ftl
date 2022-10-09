@@ -205,6 +205,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chcete serveru {
 
 webrtc-share-screen-warning = Obrazovku sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
 webrtc-share-browser-warning = Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+webrtc-share-screen-learn-more = Zjistit více
 webrtc-pick-window-or-screen = Vyberte okno nebo obrazovku
 webrtc-share-entire-screen = Celou obrazovku
 # Variables:
