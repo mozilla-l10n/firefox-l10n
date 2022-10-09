@@ -20,6 +20,7 @@ webrtc-item-microphone = micreafón
 webrtc-item-application = feidhmchlár
 webrtc-item-screen = scáileán
 webrtc-item-window = fuinneog
+webrtc-item-browser = cluaisín
 
 ##
 
@@ -30,6 +31,9 @@ webrtc-sharing-menuitem-unknown-host = Foinse anaithnid
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Cluaisíní atá ag comhroinnt gléasanna
+    .accesskey = g
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -50,6 +54,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Tá do scáileán á chomhroinnt. Cliceáil chun comhroinnt a bhainistiú.
 webrtc-indicator-sharing-window =
     .tooltiptext = Tá fuinneog á comhroinnt. Cliceáil chun comhroinnt a bhainistiú.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Tá cluaisín á comhroinnt. Cliceáil chun comhroinnt a bhainistiú.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -103,6 +109,17 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Fuinneog á comhroinnt le { $tabCount } chluaisín
             [many] Fuinneog á comhroinnt le { $tabCount } gcluaisín
            *[other] Fuinneog á comhroinnt le { $tabCount } cluaisín
+        }
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Cluaisín á chomhroinnt le { $tabCount } chluaisín
+            [two] Cluaisíní á gcomhroinnt le { $tabCount } chluaisín
+            [few] Cluaisíní á gcomhroinnt le { $tabCount } chluaisín
+            [many] Cluaisíní á gcomhroinnt le { $tabCount } gcluaisín
+           *[other] Cluaisíní á gcomhroinnt le { $tabCount } cluaisín
         }
 
 ## Variables:
