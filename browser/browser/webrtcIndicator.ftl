@@ -14,13 +14,13 @@
 
 webrtc-indicator-title = { -brand-short-name } - Delningsindikator
 webrtc-indicator-window =
-    .title = { -brand-short-name } - Delningsindikator
+    .title = { -brand-short-name } — Delningsindikator
 
 ## Used as list items in sharing menu
 
 webrtc-item-camera = kamera
 webrtc-item-microphone = mikrofon
-webrtc-item-audio-capture = flik ljud
+webrtc-item-audio-capture = flikljud
 webrtc-item-application = program
 webrtc-item-screen = skärm
 webrtc-item-window = fönster
