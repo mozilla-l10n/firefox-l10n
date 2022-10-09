@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Tanda ng Pagbabahagi
 webrtc-indicator-window =
     .title = { -brand-short-name } - Tanda ng Pagbabahagi
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Ibinabahagi mo ang iyong camera. Pindutin upang kontrolin ang pagbabahagi.
 webrtc-microphone-system-menu =
@@ -102,7 +97,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Pagbabahagi ng Camera na may { $tabCount } na tab
-           *[other] { " " }Pagbabahagi ng Camera na may { $tabCount } na mga tab
+           *[other] Pagbabahagi ng Camera na may { $tabCount } na mga tab
         }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Pagbabahagi ng Microphone sa "{ $streamTitle }"
