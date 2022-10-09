@@ -94,36 +94,48 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Muokkaa jakoasetuksia
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Muokkaa välilehden "{ $streamTitle }" jakoasetuksia
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Kamera on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Kamera on jaettu { $tabCount } välilehdellä
            *[other] Kamera on jaettu { $tabCount } välilehdellä
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Mikrofoni on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Mikrofoni on jaettu { $tabCount } välilehdellä
            *[other] Mikrofoni on jaettu { $tabCount } välilehdellä
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Ohjelma on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Ohjelma on jaettu { $tabCount } välilehdellä
            *[other] Ohjelma on jaettu { $tabCount } välilehdellä
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Näyttö on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Näyttö on jaettu { $tabCount } välilehdellä
            *[other] Näyttö on jaettu { $tabCount } välilehdellä
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Ikkuna on jaettu välilehdellä ”{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Ikkuna on jaettu { $tabCount } välilehdellä
            *[other] Ikkuna on jaettu { $tabCount } välilehdellä
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Välilehti on jaettu välilehdellä ”{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
@@ -144,6 +156,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Lue lisää
 webrtc-share-entire-screen = Koko näyttö
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -162,3 +175,7 @@ webrtc-share-application =
 
 ##
 
+webrtc-remember-allow-checkbox = Muista valinta
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ei voi sallia pysyvää käyttöoikeutta näyttöön.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ei voi sallia pysyvää käyttöoikeutta välilehden äänien kuuntelemiseen kysymättä, mikä välilehti jaetaan.
+webrtc-reason-for-no-permanent-allow-insecure = Yhteys tähän sivustoon ei ole suojattu. Suojellaksesi sinua { -brand-short-name } sallii käytön vain tämän istunnon ajaksi.
