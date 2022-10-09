@@ -127,6 +127,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Uzzināt vairāk
 webrtc-share-entire-screen = Visu ekrānu
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -143,6 +144,13 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Atļaut
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = Atcerēties šo izvēli
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu ekrānam.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu cilnes audio nejautājot kuru tieši cilni koplietot.
+webrtc-reason-for-no-permanent-allow-insecure = Jūsu savienojums ar šo lapu nav drošs. Lai jūs aizsargātu, { -brand-short-name } atļaus piekļuvi tikai uz šīs darba sesijas laiku.
