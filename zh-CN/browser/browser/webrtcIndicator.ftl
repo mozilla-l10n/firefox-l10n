@@ -71,6 +71,18 @@ webrtc-screen-system-menu =
 
 webrtc-indicator-sharing-camera-and-microphone =
     .tooltiptext = 您的摄像头和麦克风目前已被共享。点击这里控制共享。
+webrtc-indicator-sharing-camera =
+    .tooltiptext = 正在共享您的摄像头。点击此处控制要共享的项目。
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = 正在共享您的麦克风。点击此处控制要共享的项目。
+webrtc-indicator-sharing-application =
+    .tooltiptext = 正在共享应用程序。点击此处控制要共享的项目。
+webrtc-indicator-sharing-screen =
+    .tooltiptext = 正在共享您的屏幕。点击此处控制要共享的项目。
+webrtc-indicator-sharing-window =
+    .tooltiptext = 正在共享窗口。点击此处控制要共享的项目。
+webrtc-indicator-sharing-browser =
+    .tooltiptext = 正在共享标签页。点击此处控制要共享的项目。
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
