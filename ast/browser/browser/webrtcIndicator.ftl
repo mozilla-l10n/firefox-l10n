@@ -20,6 +20,12 @@ webrtc-indicator-window =
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = cámara
+webrtc-item-microphone = micrófonu
+webrtc-item-application = aplicación
+webrtc-item-screen = pantalla
+webrtc-item-window = ventana
+webrtc-item-browser = llingüeta
 
 ##
 
