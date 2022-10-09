@@ -25,9 +25,11 @@ webrtc-indicator-title =
 ## Used as list items in sharing menu
 
 webrtc-item-camera = kamera
+webrtc-item-audio-capture = audio panel
 webrtc-item-application = aplikace
 webrtc-item-screen = obrazovka
 webrtc-item-window = okno
+webrtc-item-browser = panel
 
 ##
 
@@ -147,6 +149,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-entire-screen = Celou obrazovku
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Obrazovka { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
