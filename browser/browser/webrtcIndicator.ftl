@@ -67,6 +67,18 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Kamerája és mikrofonja meg van osztva. Kattintson a megosztási beállításokhoz.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Kamerája meg van osztva. Kattintson a megosztási beállításokhoz.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Mikrofonja meg van osztva. Kattintson a megosztási beállításokhoz.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Egy alkalmazás meg van osztva. Kattintson a megosztási beállításokhoz.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Képernyője meg van osztva. Kattintson a megosztási beállításokhoz.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Egy ablak meg van osztva. Kattintson a megosztási beállításokhoz.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -74,6 +86,38 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Megosztás beállítása
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Kamera megosztása { $tabCount } lappal
+           *[other] Kamera megosztása { $tabCount } lappal
+        }
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Mikrofon megosztása { $tabCount } lappal
+           *[other] Mikrofon megosztása { $tabCount } lappal
+        }
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Alkalmazás megosztása { $tabCount } lappal
+           *[other] Alkalmazás megosztása { $tabCount } lappal
+        }
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Képernyő megosztása { $tabCount } lappal
+           *[other] Képernyő megosztása { $tabCount } lappal
+        }
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ablak megosztása { $tabCount } lappal
+           *[other] Ablak megosztása { $tabCount } lappal
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
