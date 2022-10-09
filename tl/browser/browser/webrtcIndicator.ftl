@@ -18,6 +18,7 @@ webrtc-indicator-title = { -brand-short-name } - Tanda ng Pagbabahagi
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = camera
 webrtc-item-screen = screen
 
 ##
