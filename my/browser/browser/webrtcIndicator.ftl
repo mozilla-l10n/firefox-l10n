@@ -32,6 +32,9 @@ webrtc-sharing-menuitem-unknown-host = မူလရင်းမြစ်ကိ�
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = ကိရိယာများနှင့် မျှသုံးနေသော တပ်ဗ်များ
+    .accesskey = d
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -67,16 +70,30 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" ရှိ မျှဝေခြင်းကို ထိန်းချုပ်ရန်
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = ကင်မရာကို "{ $streamTitle }"ထံ မျှဝေထားသည်
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label = ကင်မရာကို တပ်ဗ် { $tabCount } ခုနှင့်အတူ မျှသုံးနေသည်
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = မိုက္ကရိုဖုန်းကို "{ $streamTitle }"ထံ မျှဝေထားသည်
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label = မိုက္ကရိုဖုန်းကို တပ်ဗ် { $tabCount } ခုနှင့်အတူ မျှသုံးနေသည်
 webrtc-indicator-menuitem-sharing-application-with =
     .label = အက်ပလီကေးရှင်းကို "{ $streamTitle }"ထံ မျှဝေထားသည်
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label = အက်ပလီကေးရှင်းများကို တပ်ဗ် { $tabCount } ခုနှင့်အတူ မျှသုံးနေသည်
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = မျက်နှာပြင်ကို "{ $streamTitle }"ထံ မျှဝေထားသည်
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label = မျက်နှာပြင်ကို တပ်ဗ် { $tabCount } ခုနှင့်အတူ မျှသုံးနေသည်
 webrtc-indicator-menuitem-sharing-window-with =
     .label = ဝင်းဒိုးကို "{ $streamTitle }"ထံ မျှဝေထားသည်
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label = ဝင်းဒိုးများကို တပ်ဗ် { $tabCount } ခုနှင့်အတူ မျှသုံးနေသည်
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = စာမျက်နှာကို "{ $streamTitle }"ထံ မျှဝေထားသည်
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label = တပ်ဗ်များကို တပ်ဗ် { $tabCount } ခုနှင့်အတူ မျှသုံးနေသည်
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -89,13 +106,25 @@ webrtc-indicator-menuitem-sharing-browser-with =
 
 ##
 
+webrtc-share-screen-learn-more = ပိုမိုလေ့လာရန်
 webrtc-share-entire-screen = မျက်နှာပြင်တစ်ခုလုံး
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = { $monitorIndex } (မျက်နှာပြင်)
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application = { $appName } (ဝင်းဒိုး { $windowCount } ခု)
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = ခွင့်ပြုပါ
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = ယခုဆုံးဖြတ်ချက်ကို မှတ်ထားပါ
+webrtc-reason-for-no-permanent-allow-screen = သင့်မျက်နှာပြင်ကို အမြဲအသုံးပြုခွင့်ရစေရန် { -brand-short-name } က ခွင့်မပြုပါ။
+webrtc-reason-for-no-permanent-allow-audio = သင့်တပ်ဗ် ဘယ်တစ်ခု၏ အသံကို မျှဝေအသုံးပြုရန် မတောင်းဆိုပဲ ရယူအသုံးပြုခြင်းကို { -brand-short-name } က ဆောင်ရွက်ခွင့် မပေးနိုင်ပါ။
+webrtc-reason-for-no-permanent-allow-insecure = ယခုဝဘ်ဆိုက်သို့ ချိက်ဆက်ထားခြင်းသည် လုံခြုံမှု မရှိပါ။ သင့်ကို ကာကွယ်ရန် { -brand-short-name } က ယခုချိတ်ဆက်ထားစဉ် ကာလအတွက်သာ ဆောင်ရွက်ခွင့် ပေးပါမည်။
