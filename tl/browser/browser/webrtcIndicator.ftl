@@ -71,6 +71,60 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Control Sharing
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Pagkontrol sa Pagbabahagi sa "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Pagbabahagi ng Camera gamit ang "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Pagbabahagi ng Camera na may { $tabCount } na tab
+           *[other] { " " }Pagbabahagi ng Camera na may { $tabCount } na mga tab
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Pagbabahagi ng Microphone sa "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Pagbabahagi ng Mikropono na may { $tabCount } na tab
+           *[other] Pagbabahagi ng Mikropono na may { $tabCount } na mga tab
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Pagbabahagi ng isang Aplikasyon na may "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Pagbabahagi ng isang Application na may { $tabCount } na tab
+           *[other] Pagbabahagi ng Mga Application na may { $tabCount } na mga tab
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Pagbabahagi ng Screen gamit ang "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Pagbabahagi ng Screen na may { $tabCount } na tab
+           *[other] Pagbabahagi ng Screen na may { $tabCount } na mga tab
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Pagbabahagi ng Window na may "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Pagbabahagi ng Window na may { $tabCount } na tab
+           *[other] Pagbabahagi ng Windows na may { $tabCount } na mga tab
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Pagbabahagi ng Tab na may "{ $streamTitle }"
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Pagbabahagi ng Tab na may { $tabCount } na tab
+           *[other] Mga Pagbabahagi ng Tab na may { $tabCount } na mga tab
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
