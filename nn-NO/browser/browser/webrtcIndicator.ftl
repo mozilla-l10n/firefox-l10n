@@ -24,9 +24,12 @@ webrtc-item-audio-capture = fanelyd
 webrtc-item-application = program
 webrtc-item-screen = skjerm
 webrtc-item-window = vindauge
+webrtc-item-browser = fane
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Ukjent opphav
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
