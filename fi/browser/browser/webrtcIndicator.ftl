@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Jakamisen ilmaisin
+webrtc-indicator-window =
+    .title = { -brand-short-name } — Jakamisen ilmaisin
 
 ## Used as list items in sharing menu
 
@@ -148,16 +150,35 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Saako { $origin } kuunnella tämän välilehden ääniä?
+webrtc-allow-share-screen = Saako { $origin } nähdä näyttösi?
+webrtc-allow-share-camera-and-microphone = Saako { $origin } käyttää kameraa ja mikrofonia?
+webrtc-allow-share-camera-and-audio-capture = Saako { $origin } käyttää kameraa ja kuunnella tämän välilehden ääniä?
+webrtc-allow-share-screen-and-microphone = Saako { $origin } käyttää mikrofonia ja nähdä näyttösi?
+webrtc-allow-share-screen-and-audio-capture = Saako { $origin } kuunnella tämän välilehden ääniä ja nähdä näyttösi?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää kameraa?
+webrtc-allow-share-microphone-unsafe-delegations = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää mikrofonia?
+webrtc-allow-share-screen-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden nähdä näyttösi?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää muita kaiuttimia?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää kameraa ja mikrofonia?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää kameraa ja kuunnella tämän välilehden ääniä?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää mikrofonia ja nähdä näyttösi?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden kuunnella tämän välilehden ääniä ja nähdä näyttösi?
 
 ##
 
+webrtc-share-screen-warning = Jaa näyttöjä vain luottamillesi sivustoille. Jakamisen ansiosta petollinen sivusto voi pystyä selaamaan verkkoa esiintyen sinuna ja varastamaan henkilötietojasi.
+webrtc-share-browser-warning = Jaa { -brand-short-name } vain luottamillesi sivustoille. Jakamisen ansiosta petollinen sivusto voi pystyä selaamaan verkkoa esiintyen sinuna ja varastamaan henkilötietojasi.
 webrtc-share-screen-learn-more = Lue lisää
 webrtc-share-entire-screen = Koko näyttö
+webrtc-share-pipe-wire-portal = Käytä käyttöjärjestelmän asetuksia
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Näyttö { $monitorIndex }
@@ -172,10 +193,14 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Salli
+    .accesskey = S
 
 ##
 
 webrtc-remember-allow-checkbox = Muista valinta
+webrtc-mute-notifications-checkbox = Vaimenna sivustojen ilmoitukset jakamisen aikana
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ei voi sallia pysyvää käyttöoikeutta näyttöön.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ei voi sallia pysyvää käyttöoikeutta välilehden äänien kuuntelemiseen kysymättä, mikä välilehti jaetaan.
 webrtc-reason-for-no-permanent-allow-insecure = Yhteys tähän sivustoon ei ole suojattu. Suojellaksesi sinua { -brand-short-name } sallii käytön vain tämän istunnon ajaksi.
