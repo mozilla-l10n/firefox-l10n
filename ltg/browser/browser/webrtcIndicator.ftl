@@ -43,6 +43,20 @@ webrtc-sharing-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Tova kamera un mikrofons ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Tova kamera ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Tova mikrofons ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Tova aplikāceja ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Tovs ekrans ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Tovs lūgs ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Tova cilne ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -54,6 +68,62 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Control Sharing
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Control Sharing on “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Kūplītoj kameru ar “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Kūplītoj kameru ar { $tabCount } cilnem
+            [one] Kūplītoj kameru ar { $tabCount } cilni
+           *[other] Kūplītoj kameru ar { $tabCount } cilnem
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Kūplītoj mikrofonu ar “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Kūplītoj mikrofonu ar { $tabCount } cilnem
+            [one] Kūplītoj mikrofonu ar { $tabCount } cilni
+           *[other] Kūplītoj mikrofonu ar { $tabCount } cilnem
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Kūplītoj aplikāceji ar “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Kūplītoj aplikāceji ar { $tabCount } cilnem
+            [one] Kūplītoj aplikāceji ar { $tabCount } cilni
+           *[other] Kūplītoj aplikāceji lietotni ar { $tabCount } cilnem
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Kūplītoj ekranu ar “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Kūplītoj ekranu ar { $tabCount } cilnem
+            [one] Kūplītoj ekranu ar { $tabCount } cilni
+           *[other] Kūplītoj ekranu ar { $tabCount } cilnem
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Kūplītoj lūgu ar “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Kūplītoj lūgu ar { $tabCount } cilnem
+            [one] Kūplītoj lūgu ar { $tabCount } cilni
+           *[other] Kūplītoj lūgu ar { $tabCount } cilnem
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Kūplītoj cilni ar “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Kūplītoj cilni ar { $tabCount } cilnem
+            [one] Kūplītoj cilni ar { $tabCount } cilni
+           *[other] Kūplītoj cilni ar { $tabCount } cilnem
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -71,6 +141,15 @@ webrtc-share-entire-screen = Entire screen
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Screen { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [zero] { $appName } ({ $windowCount } lūgu)
+        [one] { $appName } ({ $windowCount } lūgs)
+       *[other] { $appName } ({ $windowCount } lūgi)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
