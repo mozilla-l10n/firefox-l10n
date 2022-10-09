@@ -18,14 +18,26 @@ webrtc-indicator-title = { -brand-short-name } — Jakamisen ilmaisin
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofoni
+webrtc-item-audio-capture = välilehden äänet
+webrtc-item-application = ohjelma
+webrtc-item-screen = näyttö
+webrtc-item-window = ikkuna
+webrtc-item-browser = välilehti
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Tuntematon lähde
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Laitteita jakavat välilehdet
+    .accesskey = j
 webrtc-sharing-window = Jaat toisen sovellusikkunan.
 webrtc-sharing-browser-window = Jaat sovelluksen { -brand-short-name }.
 webrtc-sharing-screen = Jaat koko näytön.
@@ -57,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Kamera ja mikrofoni on jaettu. Napsauta muokataksesi jakoasetuksia.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Kamera on jaettu. Napsauta muokataksesi jakoasetuksia.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Mikrofoni on jaettu. Napsauta muokataksesi jakoasetuksia.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Ohjelma on jaettu. Napsauta muokataksesi jakoasetuksia.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Näyttö on jaettu. Napsauta muokataksesi jakoasetuksia.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Ikkuna on jaettu. Napsauta muokataksesi jakoasetuksia.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Välilehti on jaettu. Napsauta muokataksesi jakoasetuksia.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +90,48 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Muokkaa jakoasetuksia
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Muokkaa välilehden "{ $streamTitle }" jakoasetuksia
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Kamera on jaettu { $tabCount } välilehdellä
+           *[other] Kamera on jaettu { $tabCount } välilehdellä
+        }
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Mikrofoni on jaettu { $tabCount } välilehdellä
+           *[other] Mikrofoni on jaettu { $tabCount } välilehdellä
+        }
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ohjelma on jaettu { $tabCount } välilehdellä
+           *[other] Ohjelma on jaettu { $tabCount } välilehdellä
+        }
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Näyttö on jaettu { $tabCount } välilehdellä
+           *[other] Näyttö on jaettu { $tabCount } välilehdellä
+        }
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ikkuna on jaettu { $tabCount } välilehdellä
+           *[other] Ikkuna on jaettu { $tabCount } välilehdellä
+        }
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Välilehti on jaettu { $tabCount } välilehdellä
+           *[other] Välilehti on jaettu { $tabCount } välilehdellä
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +144,18 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Koko näyttö
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Näyttö { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } ikkuna)
+       *[other] { $appName } ({ $windowCount } ikkunaa)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
