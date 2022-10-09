@@ -91,6 +91,7 @@ webrtc-indicator-menuitem-sharing-window-with =
 
 ##
 
+webrtc-share-screen-learn-more = Сазнајте више
 webrtc-share-entire-screen = Цео екран
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -107,6 +108,10 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Дозволи
+    .accesskey = Д
 
 ##
 
+webrtc-remember-allow-checkbox = Запамти ову одлуку
