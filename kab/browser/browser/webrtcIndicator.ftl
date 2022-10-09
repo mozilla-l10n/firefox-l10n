@@ -139,6 +139,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = Issin ugar
+webrtc-pick-window-or-screen = Fren asfaylu neɣ agdil
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Agdil { $monitorIndex }
