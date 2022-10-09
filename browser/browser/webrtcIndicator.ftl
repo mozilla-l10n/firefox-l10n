@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — 分享指示器
 webrtc-indicator-window =
     .title = { -brand-short-name } — 分享指示器
@@ -36,7 +34,7 @@ webrtc-sharing-menuitem-unknown-host = 未知來源
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
-    .label = { $origin } ({ $itemList })
+    .label = { $origin }（{ $itemList }）
 webrtc-sharing-menu =
     .label = 正在分享裝置的分頁
     .accesskey = d
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = 正在分享您的攝影機。點擊此處來調整要分享的項目。
 webrtc-microphone-system-menu =
