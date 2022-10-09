@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ເຂົ້າສູ່ລະບົບ & ລະຫັດຜ່ານ
-
 login-filter =
     .placeholder = ຄົ້ນຫາການລັອກອິນ
-
 create-login-button = ສ້າງການລັອກອິນໃຫມ່
-
 fxaccounts-sign-in-text = ເອົາລະຫັດຜ່ານຂອງທ່ານໃນອຸປະກອນອື່ນຂອງທ່ານ
 fxaccounts-sign-in-sync-button = ເຂົ້າສູ່ລະບົບເພື່ອ Sync
 fxaccounts-avatar-button =
@@ -114,19 +111,16 @@ about-logins-edit-login-os-auth-dialog-message-win = ເພື່ອແກ້ໄ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ແກ້ໄຂການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ເພື່ອເບິ່ງລະຫັດຜ່ານຂອງທ່ານ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ເປີດເຜີຍລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = ເພື່ອສຳເນົາລະຫັດຜ່ານຂອງທ່ານ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ສຳເນົາລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = ເພື່ອສົ່ງອອກການເຂົ້າສູ່ລະບົບຂອງທ່ານ, ປ້ອນຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to export a password in about:logins
@@ -145,39 +139,31 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ຍົກເລີກ
 confirmation-dialog-dismiss-button =
     .title = ຍົກເລີກ
-
 about-logins-confirm-remove-dialog-title = ລົບການເຂົ້າສູ່ລະບົບນີ້?
 confirm-delete-dialog-message = ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.
 about-logins-confirm-remove-dialog-confirm-button = ລຶບ
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ລົບອອກ
        *[other] ລົບອອກທັງໝົດ
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] ແມ່ນແລ້ວ, ລຶບການເຂົ້າສູ່ລະບົບ
        *[other] ແມ່ນແລ້ວ, ລຶບການເຂົ້າສູ່ລະບົບເຫຼົ່ານີ້ອອກ
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກບໍ?
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກຈາກທຸກອຸປະກອນບໍ?
     }
-
 about-logins-confirm-export-dialog-title = ສົ່ງອອກເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
-
 about-logins-alert-import-title = ນໍາເຂົ້າສໍາເລັດ
 about-logins-alert-import-message = ເບິ່ງລາຍລະອຽດການນໍາເຂົ້າ
-
 confirm-discard-changes-dialog-title = ຍົກເລີກການປ່ຽນແປງທີ່ບໍ່ໄດ້ບັນທຶກໄວ້ບໍ?
 confirm-discard-changes-dialog-message = ການປ່ຽນແປງທີ່ບໍ່ໄດ້ບັນທຶກໄວ້ທັງໝົດຈະສູນເສຍໄປ.
 confirm-discard-changes-dialog-confirm-button = ຖິ້ມ
@@ -206,7 +192,6 @@ about-logins-vulnerable-alert-learn-more-link = ຮຽນຮູ້ເພີ່�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = ການປ້ອນຂໍ້ມູນສໍາລັບ { $loginTitle } ທີ່ມີຊື່ຜູ້ໃຊ້ນັ້ນມີຢູ່ແລ້ວ. <a data-l10n-name="duplicate-link">ໄປທີ່ລາຍການທີ່ມີຢູ່ແລ້ວບໍ?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = ເກີດຄວາມຜິດພາດຂຶ້ນໃນຂະນະທີ່ພະຍາຍາມບັນທຶກລະຫັດຜ່ານນີ້.
 
@@ -255,7 +240,6 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>ພົບການເຂົ້າສູ່ລະບົບຊໍ້າກັນ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນຳເຂົ້າ)</span >
@@ -265,9 +249,9 @@ about-logins-import-dialog-items-error =
        *[other] <span>ຂໍ້ຜິດພາດ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນໍາເຂົ້າ)</span>
     }
 about-logins-import-dialog-done = ສຳເລັດ
-
 about-logins-import-dialog-error-title = ມີຂໍ້ຜິດພາດໃນການນຳເຂົ້າ
 about-logins-import-dialog-error-conflicting-values-title = ມີຄ່າຂັດແຍ້ງຫຼາຍຄ່າສໍາລັບການເຂົ້າສູ່ລະບົບດຽວ
+about-logins-import-dialog-error-conflicting-values-description = ຕົວຢ່າງ: ຫຼາຍຊື່ຜູ້ໃຊ້, ລະຫັດຜ່ານ, URLs, ແລະອື່ນໆສໍາລັບການເຂົ້າສູ່ລະບົບດຽວ.
 about-logins-import-dialog-error-file-format-title = ບັນຫາຮູບແບບໄຟລ໌
 about-logins-import-dialog-error-file-format-description = ສ່ວນຄໍລໍາບໍ່ຖືກຕ້ອງ ຫຼືຂາດຫາຍໄປ. ໃຫ້ແນ່ໃຈວ່າໄຟລ໌ປະກອບມີຄໍລໍາສໍາລັບຊື່ຜູ້ໃຊ້, ລະຫັດຜ່ານແລະ URL.
 about-logins-import-dialog-error-file-permission-title = ບໍ່ສາມາດອ່ານໄຟລ໌ໄດ້
@@ -277,10 +261,8 @@ about-logins-import-dialog-error-no-logins-imported = ບໍ່ມີການ�
 about-logins-import-dialog-error-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 about-logins-import-dialog-error-try-import-again = ລອງນຳເຂົ້າອີກຄັ້ງ...
 about-logins-import-dialog-error-cancel = ຍົກເລີກ
-
 about-logins-import-report-title = ສະຫຼຸບການນໍາເຂົ້າ
 about-logins-import-report-description = ນໍາ​ເຂົ້າການເຂົ້າ​ສູ່​ລະ​ບົບ​ແລະ​ລະ​ຫັດ​ຜ່ານ​​ໄປຍັງ { -brand-short-name } ແລ້ວ.
-
 #
 # Variables:
 #  $number (number) - The number of the row
