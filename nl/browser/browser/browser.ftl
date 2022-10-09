@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privénavigatie)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privénavigatie)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privénavigatie)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privénavigatie)
-
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -54,7 +52,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name }-privénavigatie
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name }-privénavigatie
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -74,15 +71,12 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } – Privénavigatie
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – Privénavigatie
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 private-browsing-shortcut-text = { -brand-short-name }-privénavigatie
-
 private-browsing-shortcut-text-2 = { -brand-shortcut-name }-privénavigatie
 
 ##
@@ -154,7 +148,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Minder typen, meer vinden: direct zoeken bij { $engineName } vanaf uw adresbalk.
 urlbar-search-tips-redirect-2 = Begin in de adresbalk met zoeken om suggesties van { $engineName } en uit uw browsergeschiedenis te zien.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selecteer deze snelkoppeling om sneller te vinden wat u nodig hebt.
@@ -164,7 +157,6 @@ urlbar-tabtosearch-onboard = Selecteer deze snelkoppeling om sneller te vinden w
 urlbar-search-mode-bookmarks = Bladwijzers
 urlbar-search-mode-tabs = Tabbladen
 urlbar-search-mode-history = Geschiedenis
-
 urlbar-search-mode-actions = Acties
 
 ##
@@ -193,12 +185,10 @@ urlbar-midi-blocked =
     .tooltiptext = U hebt MIDI-toegang voor deze website geblokkeerd.
 urlbar-install-blocked =
     .tooltiptext = U hebt installatie van add-ons voor deze website geblokkeerd.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Deze bladwijzer bewerken ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,7 +200,6 @@ page-action-manage-extension =
     .label = Extensie beheren…
 page-action-remove-extension =
     .label = Extensie verwijderen
-
 page-action-manage-extension2 =
     .label = Extensie beheren…
     .accesskey = E
@@ -232,10 +221,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Deze keer zoeken met:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Zoekinstellingen wijzigen
-
 search-one-offs-context-open-new-tab =
     .label = Zoeken in Nieuw tabblad
     .accesskey = t
@@ -245,14 +232,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Als standaardzoekmachine voor privévensters instellen
     .accesskey = p
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -279,7 +264,6 @@ search-one-offs-tabs =
     .tooltiptext = Tabbladen ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Geschiedenis ({ $restrict })
-
 search-one-offs-actions =
     .tooltiptext = Acties ({ $restrict })
 
@@ -290,73 +274,55 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Add-ons bekijken
 quickactions-cmd-addons = add-ons, extensies, thema’s
-
 quickactions-cmd-addons2 = add-ons
-
 # Opens the bookmarks library window
 quickactions-bookmarks = Bladwijzers bekijken
 quickactions-cmd-bookmarks = bladwijzers
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Geschiedenis wissen
 quickactions-cmd-clearhistory = geschiedenis wissen
-
 # Opens about:downloads page
 quickactions-downloads = Downloads openen
 quickactions-cmd-downloads = downloads
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Extensies beheren
 quickactions-cmd-extensions = extensies
-
 # Opens the devtools web inspector
 quickactions-inspector = Inspector openen
 quickactions-cmd-inspector = inspector, devtools
-
 # Opens about:logins
 quickactions-logins = Aanmeldingen weergeven
 quickactions-cmd-logins = aanmeldingen, wachtwoorden
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = Plug-ins beheren
 quickactions-cmd-plugins = plug-ins
-
 # Opens the print dialog
 quickactions-print = Afdrukken
 quickactions-cmd-print = afdrukken
-
 # Opens a new private browsing window
 quickactions-private = Privénavigatievenster openen
 quickactions-cmd-private = privénavigatie
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } opfrissen
 quickactions-cmd-refresh = vernieuwen
-
 # Restarts the browser
 quickactions-restart = { -brand-short-name } herstarten
 quickactions-cmd-restart = herstarten
-
 # Opens the screenshot tool
 quickactions-screenshot2 = Een schermafbeelding maken
 quickactions-cmd-screenshot = schermafbeelding
-
 # Opens about:preferences
 quickactions-settings = Instellingen openen
 quickactions-cmd-settings = instellingen, voorkeuren, opties
-
 # Opens about:addons page in the themes section
 quickactions-themes = Thema’s beheren
 quickactions-cmd-themes = thema’s
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } bijwerken
 quickactions-cmd-update = bijwerken
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Bron bekijken
 quickactions-cmd-viewsource = bron bekijken, bron
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Meer info over Snelle acties
@@ -382,7 +348,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = E
 bookmark-panel-save-button =
     .label = Opslaan
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -410,7 +375,6 @@ identity-passive-loaded = Onderdelen van deze pagina zijn niet beveiligd (zoals 
 identity-active-loaded = U hebt bescherming op deze pagina uitgeschakeld.
 identity-weak-encryption = Deze pagina gebruikt zwakke versleuteling.
 identity-insecure-login-forms = Ingevoerde aanmeldingen op deze pagina zouden kunnen worden onderschept.
-
 identity-https-only-connection-upgraded = (geüpgraded naar HTTPS)
 identity-https-only-label = Alleen-HTTPS-modus
 identity-https-only-dropdown-on =
@@ -422,11 +386,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Schakel Alleen-HTTPS voor deze website in als u wilt dat { -brand-short-name } indien mogelijk de verbinding upgradet.
 identity-https-only-info-turn-off2 = Als de website niet lijkt te werken, dan kunt u proberen de Alleen-HTTPS-modus voor deze website uit te schakelen en de pagina te vernieuwen met het onveilige HTTP.
 identity-https-only-info-no-upgrade = Kan HTTP-verbinding niet upgraden.
-
 identity-permissions-storage-access-header = Cross-sitecookies
 identity-permissions-storage-access-hint = Deze partijen kunnen tijdens uw bezoek aan deze website cross-sitecookies en websitegegevens gebruiken.
 identity-permissions-storage-access-learn-more = Meer info
-
 identity-permissions-reload-hint = Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.
 identity-clear-site-data =
     .label = Cookies en websitegegevens wissen…
@@ -490,14 +452,12 @@ browser-tab-mute =
         [one] TABBLAD DEMPEN
        *[other] { $count } TABBLADEN DEMPEN
     }
-
 browser-tab-unmute =
     { $count ->
         [1] TABBLAD DEMPEN OPHEFFEN
         [one] TABBLAD DEMPEN OPHEFFEN
        *[other] { $count } TABBLADEN DEMPEN OPHEFFEN
     }
-
 browser-tab-unblock =
     { $count ->
         [1] TABBLAD AFSPELEN
@@ -510,7 +470,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Bladwijzers importeren…
     .tooltiptext = Bladwijzers uit een andere browser naar { -brand-short-name } importeren.
-
 bookmarks-toolbar-empty-message = Plaats voor snelle toegang uw bladwijzers hier op de bladwijzerwerkbalk. <a data-l10n-name="manage-bookmarks">Bladwijzers beheren…</a>
 
 ## WebRTC Pop-up notifications
@@ -527,16 +486,16 @@ popup-select-microphone-icon =
     .tooltiptext = Microfoon
 popup-select-speaker-icon =
     .tooltiptext = Luidsprekers
+popup-select-window-or-screen =
+    .label = Venster of scherm:
+    .accesskey = V
 popup-all-windows-shared = Alle zichtbare vensters op uw scherm worden gedeeld.
-
 popup-screen-sharing-block =
     .label = Blokkeren
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Altijd blokkeren
     .accesskey = t
-
 popup-mute-notifications-checkbox = Websitemeldingen dempen tijdens delen
 
 ## WebRTC window or screen share tab switch warning
@@ -551,7 +510,6 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Open eerst DevTools in het menu Webontwikkelaar om de sneltoets F12 te gebruiken.
-
 enable-devtools-popup-description2 = Open eerst DevTools in het menu Extra van de browser om de sneltoets F12 te gebruiken.
 
 ## URL Bar
@@ -560,7 +518,6 @@ enable-devtools-popup-description2 = Open eerst DevTools in het menu Extra van d
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Voer zoekterm of adres in
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -569,7 +526,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Zoeken op het web
     .aria-label = Zoeken met { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -578,32 +534,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken op { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken in bladwijzers
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken in geschiedenis
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken in tabbladen
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Voer zoektermen in
     .aria-label = Zoekacties
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Voer zoekterm voor { $name } of adres in
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -613,11 +563,9 @@ urlbar-permissions-granted =
     .tooltiptext = U hebt deze website aanvullende toestemmingen gegeven.
 urlbar-switch-to-tab =
     .value = Wisselen naar tabblad:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
-
 urlbar-go-button =
     .tooltiptext = Naar het adres in de locatiebalk gaan
 urlbar-page-action-button =
@@ -677,7 +625,6 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Bladwijzers doorzoeken
 urlbar-result-action-search-history = Geschiedenis doorzoeken
 urlbar-result-action-search-tabs = Tabbladen doorzoeken
-
 urlbar-result-action-search-actions = Zoekacties
 
 ## Labels shown above groups of urlbar results
@@ -686,14 +633,12 @@ urlbar-result-action-search-actions = Zoekacties
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine }-suggesties
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Snelle acties
@@ -705,12 +650,9 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> gebruikt nu het volledige scherm
 fullscreen-warning-no-domain = Dit document gebruikt nu het volledige scherm
-
-
 fullscreen-exit-button = Volledig scherm verlaten (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Volledig scherm verlaten (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -720,7 +662,6 @@ pointerlock-warning-no-domain = Dit document heeft de controle over uw aanwijzer
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Een deel van deze pagina is gecrasht.</strong> Dien een rapport in om { -brand-product-name } te informeren over dit probleem en het sneller opgelost te krijgen.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -776,10 +717,8 @@ bookmarks-tools =
     .label = Bladwijzerhulpmiddelen
 bookmarks-bookmark-edit-panel =
     .label = Deze bladwijzer bewerken
-
 bookmarks-subview-edit-bookmark =
     .label = Deze bladwijzer bewerken…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -793,11 +732,9 @@ bookmarks-toolbar-placeholder =
     .title = Bladwijzerwerkbalkitems
 bookmarks-toolbar-placeholder-button =
     .label = Bladwijzerwerkbalkitems
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bladwijzer voor huidige tabblad maken
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Bladwijzer voor huidige tabblad maken…
@@ -828,7 +765,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Add-ons en thema’s
     .tooltiptext = Uw add-ons en thema’s beheren ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -838,31 +774,25 @@ toolbar-settings-button =
             [macos] Instellingen openen ({ $shortcut })
            *[other] Instellingen openen
         }
-
 toolbar-overflow-customize-button =
     .label = Werkbalk aanpassen…
     .accesskey = a
-
 toolbar-button-email-link =
     .label = Koppeling e-mailen
     .tooltiptext = Een koppeling naar deze pagina e-mailen
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Pagina opslaan
     .tooltiptext = Deze pagina opslaan ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Bestand openen
     .tooltiptext = Een bestand openen ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Gesynchroniseerde tabbladen
     .tooltiptext = Tabbladen van andere apparaten tonen
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -903,7 +833,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Pop-ups van { $uriHost } toestaan
     .accesskey = P
-
 popups-infobar-block =
     .label = Pop-ups van { $uriHost } blokkeren
     .accesskey = P
@@ -913,11 +842,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Dit bericht niet tonen wanneer pop-ups worden geblokkeerd
     .accesskey = n
-
 edit-popup-settings =
     .label = Pop-upinstellingen beheren…
     .accesskey = b
-
 picture-in-picture-hide-toggle =
     .label = Picture-in-picture-knop verbergen
     .accesskey = v
@@ -928,7 +855,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Picture-in-picture-schakelaar naar de rechterzijde verplaatsen
     .accesskey = z
-
 picture-in-picture-move-toggle-left =
     .label = Picture-in-picture-schakelaar naar de linkerzijde verplaatsen
     .accesskey = j
@@ -943,42 +869,32 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigatie
-
 navbar-downloads =
     .label = Downloads
-
 navbar-overflow =
     .tooltiptext = Meer hulpmiddelen…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Afdrukken
     .tooltiptext = Deze pagina afdrukken… ({ $shortcut })
-
 navbar-home =
     .label = Startpagina
     .tooltiptext = { -brand-short-name }-startpagina
-
 navbar-library =
     .label = Bibliotheek
     .tooltiptext = Geschiedenis, opgeslagen bladwijzers en meer bekijken
-
 navbar-search =
     .title = Zoeken
-
 navbar-accessibility-indicator =
     .tooltiptext = Toegankelijkheidsfuncties ingeschakeld
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Browsertabbladen
-
 tabs-toolbar-new-tab =
     .label = Nieuw tabblad
-
 tabs-toolbar-list-all-tabs =
     .label = Alle tabbladtitels tonen
     .tooltiptext = Alle tabbladtitels tonen
@@ -995,7 +911,6 @@ data-reporting-notification-message = { -brand-short-name } verzendt automatisch
 data-reporting-notification-button =
     .label = Kiezen wat ik deel
     .accesskey = K
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privénavigatie
 
