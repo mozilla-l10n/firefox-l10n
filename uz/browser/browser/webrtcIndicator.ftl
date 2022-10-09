@@ -17,9 +17,11 @@
 
 webrtc-item-camera = kamera
 webrtc-item-microphone = mikrofon
+webrtc-item-audio-capture = varaq audiosi
 webrtc-item-application = ilova dastur
 webrtc-item-screen = ekran
 webrtc-item-window = oyna
+webrtc-item-browser = varaq
 
 ##
 
@@ -30,6 +32,9 @@ webrtc-sharing-menuitem-unknown-host = Manbasi noma’lum
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Qurilmalarni boʻlishuvchi varaqlar
+    .accesskey = Q
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -50,6 +55,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Ekraningiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
 webrtc-indicator-sharing-window =
     .tooltiptext = Oynangiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Varaq boʻlishiladi. Boʻlishishni boshqarish uchun bosing.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -63,6 +70,12 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }"dagi bo‘lishishni boshqarish
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamerani "{ $streamTitle }" bilan bo‘lishish
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Kamerani { $tabCount } ta varaq bilan boʻlishish
+           *[other] Kamerani { $tabCount } ta varaq bilan boʻlishish
+        }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofonni "{ $streamTitle }" bilan bo‘lishish
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -95,6 +108,8 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Oynani { $tabCount } ta ichki oyna bilan bo‘lishish
            *[other] Oynani { $tabCount } ta ichki oyna bilan bo‘lishish
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Varaqni "{ $streamTitle }" bilan boʻlishish
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
