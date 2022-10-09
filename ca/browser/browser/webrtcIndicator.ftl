@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicador de compartició
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indicador de compartició
 
 ## Used as list items in sharing menu
 
@@ -148,16 +150,23 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Voleu permetre que { $origin } utilitzi altres altaveus?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir a altres altaveus?
 
 ##
 
 webrtc-share-screen-learn-more = Més informació
 webrtc-share-entire-screen = Pantalla sencera
+webrtc-share-pipe-wire-portal = Utilitza els paràmetres del sistema operatiu
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Pantalla { $monitorIndex }
