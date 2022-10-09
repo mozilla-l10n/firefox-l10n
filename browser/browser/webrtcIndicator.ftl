@@ -18,6 +18,9 @@ webrtc-indicator-title = { -brand-short-name } - බෙදාගැනීමේ 
 
 ## Used as list items in sharing menu
 
+webrtc-item-application = යෙදුම
+webrtc-item-screen = තිරය
+webrtc-item-window = කවුළුව
 
 ##
 
