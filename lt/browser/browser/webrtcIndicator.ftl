@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = „{ -brand-short-name }“ – dalinimosi indikatorius
+webrtc-indicator-window =
+    .title = „{ -brand-short-name }“ – dalinimosi indikatorius
 
 ## Used as list items in sharing menu
 
@@ -154,16 +156,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Leisti „{ $origin }“ klausytis šios kortelės garso?
+webrtc-allow-share-camera = Leisti { $origin } naudoti jūsų kamerą?
+webrtc-allow-share-microphone = Leisti { $origin } naudoti jūsų mikrofoną?
+webrtc-allow-share-screen = Leisti { $origin } matyti jūsų ekrano vaizdą?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Leisti { $origin } naudoti kitus garsiakalbius?
+webrtc-allow-share-camera-and-microphone = Leisti { $origin } naudoti jūsų kamerą ir mikrofoną?
+webrtc-allow-share-camera-and-audio-capture = Leisti „{ $origin }“ naudoti jūsų kamerą ir klausytis šios kortelės garso?
+webrtc-allow-share-screen-and-microphone = Leisti „{ $origin }“ naudoti jūsų mikrofoną ir matyti jūsų ekrano vaizdą?
+webrtc-allow-share-screen-and-audio-capture = Leisti „{ $origin }“ klausytis šios kortelės garso ir matyti jūsų ekrano vaizdą?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti jūsų kamerą?
+webrtc-allow-share-microphone-unsafe-delegations = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti jūsų mikrofoną?
+webrtc-allow-share-screen-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ matyti jūsų ekrano vaizdą?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti kitus garsiakalbius?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti jūsų kamerą ir mikrofoną?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti jūsų kamerą ir klausyti šios kortelės garsą?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti jūsų mikrofoną ir matyti jūsų ekrano vaizdą?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ klausytis šios kortelės garso ir matyti jūsų ekrano vaizdą?
 
 ##
 
+webrtc-share-screen-warning = Prieigą prie ekrano suteikite tik patikimoms svetainėmis. Apgaulingoms svetainėms tai gali leisti naršyti jūsų vardu ir pavogti jūsų asmeninius duomenis.
+webrtc-share-browser-warning = Prieigą prie „{ -brand-short-name }“ suteikite tik patikimoms svetainėms. Apgaulingoms svetainėms tai gali leisti naršyti jūsų vardu ir pavogti jūsų asmeninius duomenis.
 webrtc-share-screen-learn-more = Sužinoti daugiau
+webrtc-pick-window-or-screen = Pasirinkite langą arba ekraną
 webrtc-share-entire-screen = Visas ekranas
+webrtc-share-pipe-wire-portal = Naudoti operacinės sistemos nuostatas
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = { $monitorIndex }-asis ekranas
@@ -182,10 +209,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Leisti
     .accesskey = L
+webrtc-action-block =
+    .label = Neleisti
+    .accesskey = N
+webrtc-action-always-block =
+    .label = Visada neleisti
+    .accesskey = V
 
 ##
 
 webrtc-remember-allow-checkbox = Įsiminti šį pasirinkimą
+webrtc-mute-notifications-checkbox = Nutildyti svetainės pranešimus dalinantis
 webrtc-reason-for-no-permanent-allow-screen = „{ -brand-short-name }“ negali suteikti leidimo visam laikui naudoti jūsų ekraną.
 webrtc-reason-for-no-permanent-allow-audio = „{ -brand-short-name }“ negali suteikti pastovaus leidimo klausytis jūsų kortelės garso nepaklausus, kuria kortele dalintis.
 webrtc-reason-for-no-permanent-allow-insecure = Jūsų ryšys su šia svetaine yra nesaugus. Kad jus apsaugotų, „{ -brand-short-name }“ suteiks leidimą tik šio seanso metu.
