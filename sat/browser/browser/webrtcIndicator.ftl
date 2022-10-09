@@ -15,7 +15,7 @@
 
 ## Used as list items in sharing menu
 
-webrtc-item-camera = ᱠᱮᱢᱮᱨᱟ{ " " }
+webrtc-item-camera = ᱠᱮᱢᱮᱨᱟ
 webrtc-item-microphone = ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ
 webrtc-item-audio-capture = ᱴᱮᱵᱽ ᱥᱟᱰᱮ
 webrtc-item-application = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ
@@ -74,7 +74,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱠᱚᱢᱨᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
-           *[other] { " " }{ $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱠᱮᱢᱨᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱠᱮᱢᱨᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
@@ -82,7 +82,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ᱢᱟᱭᱠᱨᱚᱯᱷᱚ ᱥᱟᱶ ᱠᱚᱢᱨᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
-           *[other] { " " }{ $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
@@ -90,7 +90,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
-           *[other] { " " }{ $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
@@ -98,7 +98,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
-           *[other] { " " }{ $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱡᱷᱚᱨᱠᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
@@ -106,7 +106,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱡᱷᱚᱨᱠᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
-           *[other] { " " }{ $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱡᱷᱚᱨᱠᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱡᱷᱚᱨᱠᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱴᱮᱵᱽ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
@@ -116,7 +116,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱴᱮᱵᱽ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
-           *[other] { " " }{ $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
 
 ## Variables:
