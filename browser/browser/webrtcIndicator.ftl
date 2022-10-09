@@ -105,6 +105,7 @@ webrtc-indicator-menuitem-sharing-window-with =
 
 ##
 
+webrtc-share-screen-learn-more = Tìm hiểu thêm
 webrtc-share-entire-screen = Toàn bộ màn hình
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -112,6 +113,11 @@ webrtc-share-monitor = Màn hình { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Cho phép
+    .accesskey = A
 
 ##
 
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } có thể vĩnh viễn không cho phép quyền truy cập vào màn hình của bạn.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } không thể cho phép vĩnh viễn quyền truy cập vào phần âm thanh của thẻ mà không cần yêu cầu thẻ đó chia sẻ.
