@@ -105,6 +105,7 @@ webrtc-indicator-menuitem-sharing-browser-with =
 ##
 
 webrtc-share-screen-learn-more = 더 알아보기
+webrtc-pick-window-or-screen = 창이나 화면 선택
 webrtc-share-entire-screen = 전체 화면
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -118,4 +119,5 @@ webrtc-action-allow =
 
 ##
 
+webrtc-remember-allow-checkbox = 이 선택 기억하기
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }가 더 이상 당신의 화면에 접근할 수 없습니다.
