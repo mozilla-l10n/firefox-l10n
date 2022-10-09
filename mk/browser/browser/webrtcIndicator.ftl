@@ -59,6 +59,13 @@ webrtc-sharing-menuitem =
 webrtc-action-allow =
     .label = Дозволи
     .accesskey = Д
+webrtc-action-block =
+    .label = Блокирај
+    .accesskey = Б
+webrtc-action-always-block =
+    .label = Секогаш блокирај
+    .accesskey = Њ
 
 ##
 
+webrtc-mute-notifications-checkbox = Исклучете го звукот на известувањата на веб-локациите додека споделувате
