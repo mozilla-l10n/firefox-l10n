@@ -96,16 +96,30 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = Kendali Berbagi pada "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Berbagi Kamera dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label = Berbagi Kamera dengan { $tabCount } tab
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Berbagi Mikrofon dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label = Berbagi Mikrofon dengan { $tabCount } tab
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Berbagi Sebuah Aplikasi dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label = Berbagi Sebuah Aplikasi dengan { $tabCount } tab
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Berbagi Layar dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label = Berbagi Layar dengan { $tabCount } tab
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Berbagi Sebuah Jendela dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label = Berbagi Sebuah Jendela dengan { $tabCount } tab
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Berbagi Tab dengan "{ $streamTitle }"
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label = Berbagi Tab dengan { $tabCount } tab
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -129,11 +143,20 @@ webrtc-share-entire-screen = Seluruh layar
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Layar { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application = { $appName } ({ $windowCount } jendela)
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Izinkan
+    .accesskey = I
 
 ##
 
+webrtc-remember-allow-checkbox = Ingat pilihan ini
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } tidak bisa mengizinkan akses permanen ke layar Anda.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } tidak dapat mengizinkan akses audio tab secara permanen tanpa menanyakan tab mana yang dibagi.
 webrtc-reason-for-no-permanent-allow-insecure = Sambungan ke situs ini tidak aman. Untuk melindungi Anda, { -brand-short-name } hanya akan mengizinkan akses untuk sesi ini saja.
