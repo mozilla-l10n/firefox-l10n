@@ -130,6 +130,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Pe saveine de ciù
 webrtc-share-entire-screen = A tutto schermo
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -145,6 +146,12 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Permetti
+    .accesskey = P
 
 ##
 
+webrtc-remember-allow-checkbox = Aregòrda decixon
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } o no peu permette l'acesso permanente a l'òudio do feuggio sensa domandate quæ feuggio condividde.
+webrtc-reason-for-no-permanent-allow-insecure = A conoscion a sto scito a no l'é segua. Pe protezite, { -brand-short-name } o te faiâ acede solo sta vòtta chi.
