@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — 共有インジケーター
+webrtc-indicator-window =
+    .title = { -brand-short-name } — 共有インジケーター
 
 ## Used as list items in sharing menu
 
@@ -124,15 +126,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = { $origin } にこのタブの音声の再生を許可しますか？
+webrtc-allow-share-camera = { $origin } にカメラの使用を許可しますか？
+webrtc-allow-share-microphone = { $origin } にマイクの使用を許可しますか？
+webrtc-allow-share-screen = { $origin } にあなたの画面の表示を許可しますか？
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } に他のスピーカーの使用を許可しますか？
+webrtc-allow-share-camera-and-microphone = { $origin } にカメラとマイクの使用を許可しますか？
+webrtc-allow-share-camera-and-audio-capture = { $origin } にカメラの使用と、このタブの音声の再生を許可しますか？
+webrtc-allow-share-screen-and-microphone = { $origin } にマイクの使用とあなたの画面の表示を許可しますか？
+webrtc-allow-share-screen-and-audio-capture = { $origin } にこのタブの音声の再生と、あなたの画面の表示を許可しますか？
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = { $origin } から { $thirdParty } にもカメラの使用を許可しますか？
+webrtc-allow-share-microphone-unsafe-delegations = { $origin } から { $thirdParty } にもマイクの使用を許可しますか？
+webrtc-allow-share-screen-unsafe-delegation = { $origin } から { $thirdParty } にもあなたの画面の表示を許可しますか？
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = { $origin } から { $thirdParty } にも他のスピーカーの使用を許可しますか？
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $origin } から { $thirdParty } にもカメラとマイクの使用を許可しますか？
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $origin } から { $thirdParty } にもカメラの使用と、このタブの音声の再生を許可しますか？
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin } から { $thirdParty } にもマイクの使用とあなたの画面の表示を許可しますか？
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } から { $thirdParty } にもこのタブの音声の再生と、あなたの画面の表示を許可しますか？
 
 ##
 
+webrtc-share-screen-warning = 画面の共有は、信頼できるサイトのみと行うようにしてください。不審なサイトと共有すると、あなたの個人情報を盗まれる危険があります。
+webrtc-share-browser-warning = { -brand-short-name } の共有は、信頼できるサイトのみと行うようにしてください。不審なサイトと共有すると、あなたの個人情報を盗まれる危険があります。
+webrtc-share-screen-learn-more = 詳細
+webrtc-pick-window-or-screen = ウインドウまたは画面を選択してください
 webrtc-share-entire-screen = 全画面
+webrtc-share-pipe-wire-portal = オペレーティングシステムの設定を使用する
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = 画面 { $monitorIndex }
@@ -152,10 +180,14 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = 常にブロック
     .accesskey = w
+webrtc-action-not-now =
+    .label = 後で
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = 今後も同様に処理する
+webrtc-mute-notifications-checkbox = 共有中はウェブサイトからの通知を無効にする
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } はあなたの画面への永続的なアクセスを許可できません。
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } は共有を明示的に許可されない限り、あなたのタブの音声への永続的なアクセスを許可できません。
 webrtc-reason-for-no-permanent-allow-insecure = このサイトへの接続は安全ではありません。ユーザー保護のため、{ -brand-short-name } は現在のセッションのみアクセスを許可します。
