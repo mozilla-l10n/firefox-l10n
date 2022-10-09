@@ -37,6 +37,9 @@ webrtc-sharing-menuitem-unknown-host = Origen desconocido
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Pestañas compartiendo dispositivos
+    .accesskey = D
 webrtc-sharing-window = Está compartiendo otra ventana de aplicación.
 webrtc-sharing-browser-window = Está compartiendo { -brand-short-name }.
 webrtc-sharing-screen = Está compartiendo toda su pantalla.
