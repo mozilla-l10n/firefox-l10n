@@ -150,14 +150,31 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Allow { $origin } to listen to this tab’s audio?
+webrtc-allow-share-camera = Allow { $origin } to use your camera?
+webrtc-allow-share-microphone = Allow { $origin } to use your microphone?
+webrtc-allow-share-screen = Allow { $origin } to see your screen?
+webrtc-allow-share-camera-and-microphone = Allow { $origin } to use your camera and microphone?
+webrtc-allow-share-camera-and-audio-capture = Allow { $origin } to use your camera and listen to this tab’s audio?
+webrtc-allow-share-screen-and-microphone = Allow { $origin } to use your microphone and see your screen?
+webrtc-allow-share-screen-and-audio-capture = Allow { $origin } to listen to this tab’s audio and see your screen?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to your camera?
+webrtc-allow-share-microphone-unsafe-delegations = Allow { $origin } to give { $thirdParty } access to your microphone?
+webrtc-allow-share-screen-unsafe-delegation = Allow { $origin } to give { $thirdParty } permission to see your screen?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to your camera and microphone?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to your camera and listen to this tab’s audio?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Allow { $origin } to give { $thirdParty } access to your microphone and see your screen?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Allow { $origin } to give { $thirdParty } permission to listen to this tab’s audio and see your screen?
 
 ##
 
+webrtc-share-screen-warning = Only share screens with sites you trust. Sharing can allow deceptive sites to browse as you and steal your private data.
+webrtc-share-browser-warning = Only share { -brand-short-name } with sites you trust. Sharing can allow deceptive sites to browse as you and steal your private data.
 webrtc-share-screen-learn-more = Learn more
 webrtc-pick-window-or-screen = Select window or screen
 webrtc-share-entire-screen = Entire screen
@@ -179,10 +196,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Allow
     .accesskey = A
+webrtc-action-block =
+    .label = Block
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Always block
+    .accesskey = w
 
 ##
 
 webrtc-remember-allow-checkbox = Remember this decision
+webrtc-mute-notifications-checkbox = Mute website notifications while sharing
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } can not allow permanent access to your screen.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } can not allow permanent access to your tab’s audio without asking which tab to share.
 webrtc-reason-for-no-permanent-allow-insecure = Your connection to this site is not secure. To protect you, { -brand-short-name } will only allow access for this session.
