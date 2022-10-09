@@ -156,9 +156,17 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Дазволіць { $origin } слухаць аўдыё з гэтай карткі?
+webrtc-allow-share-camera = Дазволіць { $origin } выкарыстоўваць вашу камеру?
+webrtc-allow-share-microphone = Дазволіць { $origin } выкарыстоўваць ваш мікрафон?
+webrtc-allow-share-screen = Дазволіць { $origin } бачыць ваш экран?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = Дазволіць { $origin } выкарыстоўваць іншыя дынамікі?
+webrtc-allow-share-camera-and-microphone = Дазволіць { $origin } выкарыстоўваць вашыя камеру і мікрафон?
+webrtc-allow-share-camera-and-audio-capture = Дазволіць { $origin } выкарыстоўваць вашу камеру і слухаць аўдыё з гэтай карткі?
+webrtc-allow-share-screen-and-microphone = Дазволіць { $origin } выкарыстоўваць ваш мікрафон і бачыць ваш экран?
+webrtc-allow-share-screen-and-audio-capture = Дазволіць { $origin } слухаць аўдыё з гэтай карткі і бачыць ваш экран?
 
 ## Variables:
 ##   $origin (String): the first party origin.
