@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Taisbeanair co-roinnidh
+webrtc-indicator-window =
+    .title = { -brand-short-name } – Taisbeanair co-roinnidh
 
 ## Used as list items in sharing menu
 
@@ -71,6 +73,10 @@ webrtc-screen-system-menu =
 
 webrtc-indicator-sharing-camera-and-microphone =
     .tooltiptext = Tha an camara 's am micreofon agad 'gan co-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Tha an camara agad ’ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Tha am micreofon agad 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
 webrtc-indicator-sharing-application =
     .tooltiptext = Tha aplacaid 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
 webrtc-indicator-sharing-screen =
@@ -156,17 +162,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = An doir thu cead dha { $origin } èisteachd ri fuaim an taba seo?
+webrtc-allow-share-camera = An doir thu cead dha { $origin } an camara agad a chleachdadh?
+webrtc-allow-share-microphone = An doir thu cead dha { $origin } am micreofon agad a chleachdadh?
+webrtc-allow-share-screen = An doir thu cead dha { $origin } an sgrìn agad fhaicinn?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = An doir thu cead dha { $origin } glaodhairean eile a chleachdadh?
+webrtc-allow-share-camera-and-microphone = An doir thu cead dha { $origin } an camara ’s am micreofon agad a chleachdadh?
+webrtc-allow-share-camera-and-audio-capture = An doir thu cead dha { $origin } an camara agad a chleachdadh is èisteachd ri fuaim an taba seo?
+webrtc-allow-share-screen-and-microphone = An doir thu cead dha { $origin } am micreofon agad a chleachdadh is an sgrìn agad fhaicinn?
+webrtc-allow-share-screen-and-audio-capture = An doir thu cead dha { $origin } èisteachd ri fuaim an taba seo agus an sgrìn agad fhaicinn?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan chamara dha { $thirdParty }?
+webrtc-allow-share-microphone-unsafe-delegations = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan mhicreofon dha { $thirdParty }?
+webrtc-allow-share-screen-unsafe-delegation = An doir thu cead dha { $origin } gun leig e le { $thirdParty } an sgrìn agad fhaicinn?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh do ghlaodhairean eile dha { $thirdParty }?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan chamara is dhan mhicreofon dha { $thirdParty }?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan chamara agad dha { $thirdParty } ’s airson èisteachd ri fuaim an taba seo?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan mhicreofon dha { $thirdParty } ’s airson an sgrìn agad fhaicinn?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = An doir thu cead dha { $origin } gun doir e cead dha { $thirdParty } airson èisteachd ri fuaim an taba seo agus an sgrìn agad fhaicinn?
 
 ##
 
+webrtc-share-screen-warning = Na co-roinn sgrìnichean ach le làraichean sa bheil earbsa agad. Ma nì thu co-roinneadh air làrach a tha ri foill, dh’fhaoidte gun goid iad dàta prìobhaideach ort is tu ri brabhsadh orra.
+webrtc-share-browser-warning = Na co-roinn { -brand-short-name } ach le làraichean sa bheil earbsa agad. Ma nì thu co-roinneadh air làrach a tha ri foill, dh’fhaoidte gun goid iad dàta prìobhaideach ort is tu ri brabhsadh orra.
 webrtc-share-screen-learn-more = Barrachd fiosrachaidh
 webrtc-pick-window-or-screen = Tagh uinneag no sgrìn
 webrtc-share-entire-screen = An sgrìn air fad
+webrtc-share-pipe-wire-portal = Cleachd roghainnean an t-siostaim obrachaidh
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Sgrìn { $monitorIndex }
@@ -186,10 +216,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Ceadaich
     .accesskey = a
+webrtc-action-block =
+    .label = Bac
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Bac an-còmhnaidh
+    .accesskey = m
 
 ##
 
 webrtc-remember-allow-checkbox = Cuimhnich an co-dhùnadh seo
+webrtc-mute-notifications-checkbox = Mùch brathan làraichean fhad ’s a bhios tu ri co-roinneadh
 webrtc-reason-for-no-permanent-allow-screen = Chan urrainn dha { -brand-short-name } inntrigeadh buan dhan sgrìn agad a cheadachadh.
 webrtc-reason-for-no-permanent-allow-audio = Chan urrainn dha { -brand-short-name } inntrigeadh buan a cheadachadh dha fuaime an taba agad gun a bhith a’ faighneachd dè an taba a tha ri cho-roinneadh.
 webrtc-reason-for-no-permanent-allow-insecure = Chan eil an ceangal agad ris an làrach seo tèarainte. Cha cheadaich { -brand-short-name } inntrigeadh ach rè an t-seisein seo gus do dhìon.
