@@ -18,14 +18,23 @@ webrtc-indicator-title = { -brand-short-name } - ইণ্ডিকেটৰ স
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = কেমেৰা
+webrtc-item-microphone = মাইক্ৰফোন
+webrtc-item-application = এপ্লিকেচন
+webrtc-item-screen = পৰ্দা
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = অজ্ঞাত উৎস
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = টেবসমূহ অংশীদাৰী কৰা ডিভাইচসমূহ
+    .accesskey = d
 webrtc-sharing-window = আপুনি আন এটা এপ্লিকেশ্যন উইণ্ড' সহভাগ কৰি আছে।
 webrtc-sharing-browser-window = আপুনি { -brand-short-name } সহভাগ কৰি আছে।
 webrtc-sharing-screen = আপুনি আপোনাৰ গোটেই স্ক্ৰীণ সহভাগ কৰি আছে।
@@ -40,6 +49,16 @@ webrtc-minimize =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = আপোনাৰ কেমেৰা আৰু মাইক্ৰফোন অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
+webrtc-indicator-sharing-camera =
+    .tooltiptext = আপোনাৰ কেমেৰা অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = আপোনাৰ মাইক্ৰফোন অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
+webrtc-indicator-sharing-application =
+    .tooltiptext = এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
+webrtc-indicator-sharing-screen =
+    .tooltiptext = আপোনাৰ পৰ্দা অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -47,6 +66,44 @@ webrtc-minimize =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = নিয়ন্ত্ৰণ অংশীদাৰী
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = "{ $streamTitle }" ত নিয়ন্ত্ৰণৰ অংশীদাৰী
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = কেমেৰাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] কেমেৰাক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
+           *[other] কেমেৰাক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = মাইক্ৰফোনক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] মাইক্ৰফোনক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
+           *[other] মাইক্ৰফোনক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = "{ $streamTitle }" ৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } টেবৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
+           *[other] { $tabCount } টেবসমূহৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = পৰ্দাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] পৰ্দাক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
+           *[other] পৰ্দাক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = কেমেৰাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -59,6 +116,7 @@ webrtc-minimize =
 
 ##
 
+webrtc-share-entire-screen = সম্পূৰ্ণ পৰ্দা
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
