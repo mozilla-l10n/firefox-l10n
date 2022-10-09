@@ -113,6 +113,17 @@ webrtc-indicator-menuitem-sharing-browser-with =
 ##
 
 webrtc-share-entire-screen = આખી સ્ક્રીન
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = સ્ક્રીન { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName }({ $windowCount } વિન્ડો)
+       *[other] { $appName }({ $windowCount } વિન્ડો)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
