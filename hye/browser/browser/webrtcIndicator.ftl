@@ -18,9 +18,16 @@ webrtc-indicator-title = { -brand-short-name } Կիսուած
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = տեսախցիկ
+webrtc-item-microphone = խաւսափող
+webrtc-item-audio-capture = ձայնանիւթի ներդիր
+webrtc-item-window = պատուհան
+webrtc-item-browser = ներդիր
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Անյայտ ծագում
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -120,6 +127,15 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-pick-window-or-screen = Ընտրէք պատուհան կամ ցուցադրիչ
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } պատուհան)
+       *[other] { $appName } ({ $windowCount } պատուհաններ)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
