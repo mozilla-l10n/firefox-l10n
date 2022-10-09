@@ -180,6 +180,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = 一律阻止
     .accesskey = w
+webrtc-action-not-now =
+    .label = 暂时不要
+    .accesskey = N
 
 ##
 
