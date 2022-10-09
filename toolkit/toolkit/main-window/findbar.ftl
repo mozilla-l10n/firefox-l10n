@@ -52,8 +52,8 @@ findbar-entire-word-status =
 findbar-found-matches =
     .value =
         { $total ->
-            [one] { $current } av { $total } matchningar
-           *[other] { $current } av { $total } matchande
+            [one] { $current } matchning av { $total }
+           *[other] { $current } matchning av { $total }
         }
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
