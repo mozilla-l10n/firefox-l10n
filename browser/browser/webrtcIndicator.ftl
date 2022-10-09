@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — شاخص اشتراک‌گذاری
+webrtc-indicator-window =
+    .title = { -brand-short-name } — شاخص اشتراک‌گذاری
 
 ## Used as list items in sharing menu
 
@@ -96,30 +98,93 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = مدیریت به اشتراک‌گذاری بر روی "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = به اشتراک گذاری دوربین با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] اشتراک‌گذاری دوربین با { $tabCount } زبانه
+           *[other] اشتراک‌گذاری دوربین با { $tabCount } زبانه
+        }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = به اشتراک گذاری میکروفن با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] اشتراک‌گذاری میکروفن با { $tabCount } زبانه
+           *[other] اشتراک‌گذاری میکروفن با { $tabCount } زبانه
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = به اشتراک گذاری برنامه با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] اشتراک‌گذاری برنامه با { $tabCount } زبانه
+           *[other] اشتراک‌گذاری برنامه‌ها با { $tabCount } زبانه
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = به اشتراک گذاری صفحه نمایشگر با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] اشتراک‌گذاری صفحه نمایش با { $tabCount } زبانه
+           *[other] اشتراک‌گذاری صفحه نمایش با { $tabCount } زبانه
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = به اشتراک گذاری پنجره با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] اشتراک‌گذاری پنجره با { $tabCount } زبانه
+           *[other] اشتراک‌گذاری پنجره‌ها با { $tabCount } زبانه
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = به اشتراک گذاری زبانه با " { $streamTitle } "
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] اشتراک‌گذاری زبانه با { $tabCount } زبانه
+           *[other] اشتراک‌گذاری زبانه‌ها با { $tabCount } زبانه
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = آیا { $origin } اجازه شنیدن صداهای این زبانه را دارد؟
+webrtc-allow-share-camera = آیا { $origin } اجازه استفاده از دوربین شما را دارد؟
+webrtc-allow-share-microphone = آیا { $origin } اجازه استفاده از میکروفن شما را دارد؟
+webrtc-allow-share-screen = آیا { $origin } اجازه دیدن صفحه‌نمایش شما را دارد؟
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = آیا { $origin } اجازه استفاده از سایر بلندگوهای شما را دارد؟
+webrtc-allow-share-camera-and-microphone = آیا { $origin } اجازه استفاده از دوربین و میکروفن شما را دارد؟
+webrtc-allow-share-camera-and-audio-capture = آیا { $origin } اجازه استفاده از دوربین و شنیدن صداهای این زبانه را دارد؟
+webrtc-allow-share-screen-and-microphone = آیا { $origin } اجازه استفاده از میکروفن و دیدن صفحه‌نمایش شما را دارد؟
+webrtc-allow-share-screen-and-audio-capture = آیا { $origin } اجازه شنیدن صداهای این زبانه و دیدن صفحه‌نمایش شما را دارد؟
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = آیا به { $origin } اجازه می دهید تا به { $thirdParty } اجازه دسترسی به دوربین شما را بدهد؟
+webrtc-allow-share-microphone-unsafe-delegations = آیا به { $origin } اجازه می دهید تا به { $thirdParty } اجازه دسترسی به میکروفن شما را بدهد؟
+webrtc-allow-share-screen-unsafe-delegation = آیا به { $origin } اجازه می دهید تا به { $thirdParty } اجازه دسترسی به صفحه‌نمایش شما را بدهد؟
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = آیا به { $origin } اجازه می دهید تا به { $thirdParty } اجازه دسترسی به سایر بلندگوهای شما را بدهد؟
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = آیا به { $origin } اجازه می دهید تا به { $thirdParty } اجازه دسترسی به دوربین و میکروفن شما را بدهد؟
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = آیا به { $origin } اجازه می دهید تا به { $thirdParty } اجازه دسترسی به دوربین و گوش دادن به صداهای این زبانه را بدهد؟
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = آیا به { $origin } اجازه می دهید تا به { $thirdParty } اجازه دسترسی به میکروفن و دیدن صفحه‌نمایش شما را بدهد؟
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = آیا به { $origin } اجازه می دهید تا به { $thirdParty } اجازه شنیدن صداهای این زبانه و دیدن صفحه‌نمایش شما را بدهد؟
 
 ##
 
+webrtc-share-screen-warning = صفحه‌نمایش را تنها با سایت‌هایی که به آنها اعتماد دارید به اشتراک بگذارید. اشتراک‌گذاری صفحه می‌تواند به سایت‌های گمراه‌کننده اجازه دهد تا بجای شما در وب مرور کرده و داده‌های خصوصی شما را سرقت کنند.
+webrtc-share-browser-warning = { -brand-short-name } را تنها با سایت‌هایی که به آنها اعتماد دارید به اشتراک بگذارید. اشتراک‌گذاری صفحه می‌تواند به سایت‌های گمراه‌کننده اجازه دهد تا بجای شما در وب مرور کرده و داده‌های خصوصی شما را سرقت کنند.
 webrtc-share-screen-learn-more = اطلاعات بیشتر
+webrtc-pick-window-or-screen = پنجره یا صفحه را انتخاب کنید
 webrtc-share-entire-screen = تمام صفحه
+webrtc-share-pipe-wire-portal = استفاده از تنظیمات سیستم‌عامل
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = صفحه‌نمایش { $monitorIndex }
@@ -137,10 +202,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = اجازه دادن
     .accesskey = ا
+webrtc-action-block =
+    .label = مسدود کردن
+    .accesskey = B
+webrtc-action-always-block =
+    .label = همیشه مسدود شود
+    .accesskey = w
 
 ##
 
 webrtc-remember-allow-checkbox = این تصمیم را به خاطر بسپار
+webrtc-mute-notifications-checkbox = هنگام به اشتراک‌گذاری، اعلان‌های وب‌سایت‌ها بی‌صدا باشند
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } به صورت موقت اجازه دسترسی به صفحه شما را ندارد.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } نمی تواند به طور دائمی به گوش دادن صدای زبانه های شما بدون پرسیدن سوال در مورد به اشتراک گذاشتن‌ آن زبانه دسترسی داشته باشد.
 webrtc-reason-for-no-permanent-allow-insecure = ارتباط شما امن نیست. برای محافظت از خود، { -brand-short-name }  تنها مجوز دسترسی برای همین جلسه را دارد.
