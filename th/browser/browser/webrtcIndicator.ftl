@@ -18,9 +18,18 @@ webrtc-indicator-title = { -brand-short-name } - ตัวบ่งชี้ก�
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = กล้อง
+webrtc-item-microphone = ไมโครโฟน
+webrtc-item-audio-capture = เสียงของแท็บ
+webrtc-item-application = แอปพลิเคชัน
+webrtc-item-screen = หน้าจอ
+webrtc-item-window = หน้าต่าง
+webrtc-item-browser = แท็บ
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = ไม่ทราบที่มา
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -57,6 +66,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = กล้องและไมโครโฟนของคุณกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
+webrtc-indicator-sharing-camera =
+    .tooltiptext = กล้องของคุณกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = ไมโครโฟนของคุณกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
+webrtc-indicator-sharing-application =
+    .tooltiptext = แอปพลิเคชันกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
+webrtc-indicator-sharing-screen =
+    .tooltiptext = หน้าจอของคุณกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
+webrtc-indicator-sharing-window =
+    .tooltiptext = หน้าต่างกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
+webrtc-indicator-sharing-browser =
+    .tooltiptext = แท็บกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +87,22 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = ควบคุมการแบ่งปัน
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = ควบคุมการแบ่งปันบน “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = กำลังแบ่งปันกล้องกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = กำลังแบ่งปันไมโครโฟนกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = กำลังแบ่งปันแอปพลิเคชันกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = กำลังแบ่งปันหน้าจอกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = กำลังแบ่งปันหน้าต่างกับ “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = กำลังแบ่งปันแท็บกับ “{ $streamTitle }”
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +115,10 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = ทั้งหน้าจอ
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = หน้าจอ { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
