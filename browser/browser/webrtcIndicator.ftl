@@ -179,6 +179,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дозволит
 webrtc-share-screen-warning = Діліться екраном лише з сайтами, яким ви довіряєте. Спільний доступ може дозволити несправжнім сайтам перегляд від вашого імені та викрадення особистих даних.
 webrtc-share-browser-warning = Діліться { -brand-short-name } лише з сайтами, яким ви довіряєте. Спільний доступ може дозволити несправжнім сайтам перегляд від вашого імені та викрадення особистих даних.
 webrtc-share-screen-learn-more = Докладніше
+webrtc-pick-window-or-screen = Оберіть вікно чи екран
 webrtc-share-entire-screen = Увесь екран
 webrtc-share-pipe-wire-portal = Використовувати налаштування операційної системи
 # Variables:
