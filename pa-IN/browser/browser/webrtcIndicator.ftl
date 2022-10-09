@@ -18,14 +18,26 @@ webrtc-indicator-title = { -brand-short-name } - ਸਾਂਝਾ ਕਰਨਾ �
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = ਕੈਮਰਾ
+webrtc-item-microphone = ਮਾਈਕਰੋਫ਼ੋਨ
+webrtc-item-audio-capture = ਟੈਬ ਆਡੀਓ
+webrtc-item-application = ਐਪਲੀਕੇਸ਼ਨ
+webrtc-item-screen = ਸਕਰੀਨ
+webrtc-item-window = ਵਿੰਡੋ
+webrtc-item-browser = ਟੈਬ
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = ਅਣਪਛਾਤਾ ਹੋਸਟ
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = ਟੈਬਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਵਾਲੇ ਡਿਵਾਈਸ
+    .accesskey = d
 webrtc-sharing-window = ਤੁਸੀਂ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ ਵਿੰਡੋ ਨਾਲ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ।
 webrtc-sharing-browser-window = ਤੁਸੀਂ { -brand-short-name } ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ।
 webrtc-sharing-screen = ਤੁਸੀਂ ਆਪਣੀ ਸਾਰੀ ਸਕਰੀਨ ਸਾਂਝੀ ਕਰ ਰਹੇ ਹੋ।
@@ -57,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = ਤੁਹਾਡੇ ਕੈਮਰੇ ਅਤੇ ਮਾਈਕਰੋਫੋਨ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
+webrtc-indicator-sharing-camera =
+    .tooltiptext = ਤੁਹਾਡੇ ਕੈਮਰੇ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = ਤੁਹਾਡੇ ਮਾਈਕਰੋਫੋਨ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
+webrtc-indicator-sharing-application =
+    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
+webrtc-indicator-sharing-screen =
+    .tooltiptext = ਤੁਹਾਡੀ ਸਕਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
+webrtc-indicator-sharing-window =
+    .tooltiptext = ਇੱਕ ਵਿੰਡੋ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
+webrtc-indicator-sharing-browser =
+    .tooltiptext = ਟੈਬ ਸਾਂਝੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਸਾਂਝਾ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +90,58 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = ਸਾਂਝਾ ਕਰਨ ਕੰਟਰੋਲ
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = ਕੈਮਰਾ "{ $streamTitle }" ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] ਕੈਮਰਾ { $tabCount } ਟੈਬ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+           *[other] ਕੈਮਰਾ { $tabCount } ਟੈਬਾਂ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = ਮਾਈਕਰੋਫੋਨ "{ $streamTitle }" ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] ਮਾਈਕਰੋਫੋਨ{ $tabCount } ਟੈਬ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+           *[other] ਮਾਈਕਰੋਫੋਨ{ $tabCount } ਟੈਬਾਂ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = ਐਪਲੀਕੇਸ਼ਨ "{ $streamTitle }" ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] ਐਪਲੀਕੇਸ਼ਨ { $tabCount } ਟੈਬ ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+           *[other] ਐਪਲੀਕੇਸ਼ਨ { $tabCount } ਟੈਬਾਂ ਨਾਲ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = ਸਕਰੀਨ"{ $streamTitle }" ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] ਸਕਰੀਨ { $tabCount } ਟੈਬ ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+           *[other] ਸਕਰੀਨ { $tabCount } ਟੈਬਾਂ ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = ਵਿੰਡੋ "{ $streamTitle }" ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] ਵਿੰਡੋ { $tabCount } ਟੈਬ ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+           *[other] ਵਿੰਡੋਜ਼ { $tabCount } ਟੈਬਾਂ ਨਾਲ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = "{ $streamTitle }" ਨਾਲ ਟੈਬ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ਟੈਬ ਨਾਲ ਟੈਬ ਸਾਂਝੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+           *[other] { $tabCount } ਟੈਬ ਨਾਲ ਟੈਬਾਂ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,9 +154,23 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = ਹੋਰ ਜਾਣੋ
+webrtc-share-entire-screen = ਪੂਰੀ ਸਕਰੀਨ
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } ਵਿੰਡੋ)
+       *[other] { $appName } ({ $windowCount } ਵਿੰਡੋ)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = ਇਜਾਜ਼ਤ ਦਿਓ
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = ਇਹ ਫ਼ੈਸਲਾ ਯਾਦ ਰੱਖੋ
