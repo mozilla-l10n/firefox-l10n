@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - 공유 표시기
 webrtc-indicator-window =
     .title = { -brand-short-name } - 공유 표시기
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = 카메라를 공유하고 있습니다. 공유를 제어하려면 누르세요.
 webrtc-microphone-system-menu =
@@ -142,16 +137,17 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } 사이트가 이 탭�
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
-webrtc-allow-share-camera-unsafe-delegation = { $origin }이(가) { $thirdParty }에 카메라에 접근할 수 있도록 허용하시겠습니까?
-webrtc-allow-share-microphone-unsafe-delegations = { $origin }이(가) { $thirdParty }에 마이크에 접근할 수 있도록 허용하시겠습니까?
-webrtc-allow-share-screen-unsafe-delegation = { $origin }이(가) { $thirdParty }에 화면을 볼 수 있도록 권한을 부여하는 것을 허용하시겠습니까?
+webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 이 탭의 소리를 들을 수 있도록 권한을 부여하는 것을 허용하시겠습니까?
+webrtc-allow-share-camera-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 카메라에 접근할 수 있도록 허용하시겠습니까?
+webrtc-allow-share-microphone-unsafe-delegations = { $origin } 사이트가 { $thirdParty }에 마이크에 접근할 수 있도록 허용하시겠습니까?
+webrtc-allow-share-screen-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 화면을 볼 수 있도록 권한을 부여하는 것을 허용하시겠습니까?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-unsafe-delegation = { $origin }이(가) { $thirdParty }에 다른 스피커에 접근할 수 있도록 허용하시겠습니까?
-webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $origin }이(가) { $thirdParty }에 카메라와 마이크에 접근할 수 있도록 허용하시겠습니까?
-webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $origin }이(가) { $thirdParty }에 카메라에 접근하고 이 탭의 소리를 들을 수 있도록 허용하시겠습니까?
-webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin }이(가) { $thirdParty }에 마이크에 접근하고 화면을 볼 수 있도록 허용하시겠습니까?
-webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin }이(가) { $thirdParty }에 이 탭의 소리를 듣고 화면을 볼 수 있도록 권한을 부여하는 것을 허용하시겠습니까?
+webrtc-allow-share-speaker-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 다른 스피커에 접근할 수 있도록 허용하시겠습니까?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 카메라와 마이크에 접근할 수 있도록 허용하시겠습니까?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 카메라에 접근하고 이 탭의 소리를 들을 수 있도록 허용하시겠습니까?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 마이크에 접근하고 화면을 볼 수 있도록 허용하시겠습니까?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 이 탭의 소리를 듣고 화면을 볼 수 있도록 권한을 부여하는 것을 허용하시겠습니까?
 
 ##
 
