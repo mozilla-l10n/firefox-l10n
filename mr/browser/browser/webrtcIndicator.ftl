@@ -90,7 +90,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } टॅब सोबत एक ॲप्लिकेशन शेअर केले जात आहे
-           *[other] { " " }{ $tabCount } टॅब्ज सोबत ॲप्लिकेशन्स शेअर करत आहे
+           *[other] { $tabCount } टॅब्ज सोबत ॲप्लिकेशन्स शेअर करत आहे
         }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" सह पडदा शेअर करणे
@@ -116,7 +116,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } टॅबसह टॅब शेअर करत आहे
-           *[other] { " " }{ $tabCount } टॅब्जसह टॅब्स शेअर करत आहे
+           *[other] { $tabCount } टॅब्जसह टॅब्स शेअर करत आहे
         }
 
 ## Variables:
