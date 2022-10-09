@@ -80,16 +80,54 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = کنٹرول حصہ داری کر رہا ہے "{ $streamTitle }" سے
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = کیمرہ مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] کیمرہ حصہ داری { $tabCount } ٹیب کے ساتھ
+           *[other] کیمرہ حصہ داری { $tabCount } ٹیب کے ساتھ
+        }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = مائیکروفون مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] مائیکروفون حصہ داری { $tabCount } ٹیب کے ساتھ
+           *[other] مائیکروفون حصہ داری { $tabCount } ٹیب کے ساتھ
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = ایپلی کیشن مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] ایپلی کیشن میں حصہ داری { $tabCount } ٹیب کے ساتھ
+           *[other] ایپلی کیشن میں حصہ داری { $tabCount } ٹیب کے ساتھ
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = سکرین مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ٹیب کے ساتھ سکرین میں حصہ داری کر رہا ہے
+           *[other] { $tabCount } ٹیب کے ساتھ سکرین میں حصہ داری کر رہا ہے
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = ونڈوں مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] ونڈوں حصہ داری { $tabCount } ٹیب کے ساتھ
+           *[other] ونڈوں حصہ داری { $tabCount } ٹیب کے ساتھ
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = ٹیب مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] ٹیب حصہ داری کر رہا { $tabCount } کے ساتھ
+           *[other] ٹیب حصہ داری کر رہا { $tabCount } کے ساتھ
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -107,6 +145,14 @@ webrtc-share-entire-screen = پوری سکرین
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = سکرین { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } ونڈوں)
+       *[other] { $appName } ({ $windowCount } ونڈوں)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
