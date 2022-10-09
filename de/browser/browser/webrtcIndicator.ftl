@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Teilen-Hinweis
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Teilen-Hinweis
 
 ## Used as list items in sharing menu
 
@@ -148,11 +150,31 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = { $origin } erlauben, auf die Audio-Wiedergabe des Tabs zuzugreifen?
+webrtc-allow-share-camera = { $origin } erlauben, Ihre Kamera zu verwenden?
+webrtc-allow-share-microphone = { $origin } erlauben, Ihr Mikrofon zu verwenden?
+webrtc-allow-share-screen = { $origin } erlauben, Ihren Bildschirminhalt zu sehen?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } erlauben, andere Audiowiedergabegeräte zu verwenden?
+webrtc-allow-share-camera-and-microphone = { $origin } erlauben, Kamera und Mikrofon zu verwenden?
+webrtc-allow-share-camera-and-audio-capture = { $origin } erlauben, Ihre Kamera zu verwenden und auf die Audio-Wiedergabe des Tabs zuzugreifen?
+webrtc-allow-share-screen-and-microphone = { $origin } erlauben, Ihr Mikrofon zu verwenden und Ihren Bildschirminhalt zu sehen?
+webrtc-allow-share-screen-and-audio-capture = { $origin } erlauben, auf die Audio-Wiedergabe des Tabs und den Bildschirminhalt zuzugreifen?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihre Kamera mit { $thirdParty } zu teilen?
+webrtc-allow-share-microphone-unsafe-delegations = { $origin } erlauben, den Zugriff auf Ihr Mikrofon mit { $thirdParty } zu teilen?
+webrtc-allow-share-screen-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihren Bildschirminhalt mit { $thirdParty } zu teilen?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = { $origin } erlauben, den Zugriff auf andere Audiowiedergabegeräte mit { $thirdParty } zu teilen?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $origin } erlauben, den Zugriff auf Kamera und Mikrofon mit { $thirdParty } zu teilen?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihre Kamera und die Audio-Wiedergabe des Tabs mit { $thirdParty } zu teilen?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihr Mikrofon und den Bildschirminhalt mit { $thirdParty } zu teilen?
 
 ##
 
@@ -180,6 +202,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Entscheidung merken
+webrtc-mute-notifications-checkbox = Website-Benachrichtigungen stummschalten, während ein Bildschirm oder ein Fenster geteilt wird
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kann keinen dauerhaften Zugriff auf Ihren Bildschirm erlauben.
 webrtc-reason-for-no-permanent-allow-audio = Sie müssen festlegen, auf das Audio welchen Tabs dauerhaft zugegriffen werden darf, damit { -brand-short-name } den Zugriff gewähren kann.
 webrtc-reason-for-no-permanent-allow-insecure = Die Verbindung zu dieser Website erfolgt nicht verschlüsselt. Zu Ihrem Schutz gewährt { -brand-short-name } nur Zugriff für diese Sitzung.
