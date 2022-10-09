@@ -19,6 +19,7 @@ webrtc-indicator-title = { -brand-short-name } - Chỉ số chia sẻ
 ## Used as list items in sharing menu
 
 webrtc-item-camera = camera
+webrtc-item-audio-capture = âm thanh trên thẻ
 webrtc-item-application = ứng dụng
 webrtc-item-screen = màn hình
 webrtc-item-window = cửa sổ
@@ -33,6 +34,9 @@ webrtc-sharing-menuitem-unknown-host = Không rõ nguồn gốc
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Thiết bị chia sẻ thẻ
+    .accesskey = d
 webrtc-sharing-window = Bạn đang chia sẻ một cửa sổ ứng dụng khác.
 webrtc-sharing-browser-window = Bạn đang chia sẻ { -brand-short-name }.
 webrtc-sharing-screen = Bạn đang chia sẻ toàn bộ màn hình của bạn.
@@ -110,6 +114,10 @@ webrtc-share-entire-screen = Toàn bộ màn hình
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Màn hình { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application = { $appName } ({ $windowCount } cửa sổ)
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
