@@ -121,3 +121,4 @@ webrtc-action-allow =
 
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } có thể vĩnh viễn không cho phép quyền truy cập vào màn hình của bạn.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } không thể cho phép vĩnh viễn quyền truy cập vào phần âm thanh của thẻ mà không cần yêu cầu thẻ đó chia sẻ.
+webrtc-reason-for-no-permanent-allow-insecure = Kết nối của bạn đến website này không an toàn. Để bảo vệ bạn, { -brand-short-name } sẽ chỉ cho phép truy cập vào trang này trong phiên hiện tại.
