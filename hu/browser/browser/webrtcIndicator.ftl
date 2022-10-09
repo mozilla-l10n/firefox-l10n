@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Megosztásjelző
+webrtc-indicator-window =
+    .title = { -brand-short-name } – Megosztásjelző
 
 ## Used as list items in sharing menu
 
@@ -148,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Engedélyezi, hogy a(z) { $origin } hallja a lap hangját?
+webrtc-allow-share-camera = Engedélyezi, hogy a(z) { $origin } használja a kameráját?
+webrtc-allow-share-microphone = Engedélyezi, hogy a(z) { $origin } használja a mikrofonját?
+webrtc-allow-share-screen = Engedélyezi, hogy a(z) { $origin } lássa a képernyőjét?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Engedélyezi, hogy a(z) { $origin } más hangeszközöket használjon?
+webrtc-allow-share-camera-and-microphone = Engedélyezi, hogy a(z) { $origin } használja a kameráját és mikrofonját?
+webrtc-allow-share-camera-and-audio-capture = Engedélyezi, hogy a(z) { $origin } használja a kameráját, és hallgassa a lap hangját?
+webrtc-allow-share-screen-and-microphone = Engedélyezi, hogy a(z) { $origin } használja a mikrofonját, és lássa a képernyőjét?
+webrtc-allow-share-screen-and-audio-capture = Engedélyezi, hogy a(z) { $origin } hallja a lap hangját, és lássa a képernyőjét?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen a kamerájához?
+webrtc-allow-share-microphone-unsafe-delegations = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen a mikrofonjához?
+webrtc-allow-share-screen-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy lássa a képernyőjét?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen más hangeszközökhöz?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen a kamerájához és mikrofonjához?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen a kamerájához és a lap hangjához?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen a kamerájához és lássa a képernyőjét?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hallgassa a lap hangját és lássa a képernyőjét?
 
 ##
 
+webrtc-share-screen-warning = Csak azokkal az oldalakkal ossza meg a képernyőit, melyekben megbízik. A megosztás lehetővé teszi a megtévesztő oldalaknak, hogy az ön nevében böngésszenek, és ellopják a személyes adatait.
+webrtc-share-browser-warning = Csak azokkal az oldalakkal ossza meg a { -brand-short-name }ot, melyekben megbízik. A megosztás lehetővé teszi a megtévesztő oldalaknak, hogy az ön nevében böngésszenek, és ellopják a személyes adatait.
 webrtc-share-screen-learn-more = További tudnivalók
 webrtc-pick-window-or-screen = Válasszon ablakot vagy képernyőt
 webrtc-share-entire-screen = Teljes képernyő
+webrtc-share-pipe-wire-portal = Az operációs rendszer beállításainak használata
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = { $monitorIndex }. képernyő
@@ -176,10 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Engedélyezés
     .accesskey = E
+webrtc-action-block =
+    .label = Tiltás
+    .accesskey = T
+webrtc-action-always-block =
+    .label = Tiltás mindig
+    .accesskey = i
+webrtc-action-not-now =
+    .label = Most nem
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = A döntés megjegyzése
+webrtc-mute-notifications-checkbox = Webhely értesítéseinek elnémítása megosztás közben
 webrtc-reason-for-no-permanent-allow-screen = A { -brand-short-name } nem teszi lehetővé a képernyőhöz történő állandó hozzáférést.
 webrtc-reason-for-no-permanent-allow-audio = A { -brand-short-name } nem teszi lehetővé a lap hangjához történő állandó hozzáférést, a megosztandó lap megkérdezése nélkül.
 webrtc-reason-for-no-permanent-allow-insecure = A kapcsolat az oldal felé nem biztonságos. A biztonsága érdekében, a { -brand-short-name } csak ebben a munkamenetben engedi elérni az oldalt.
