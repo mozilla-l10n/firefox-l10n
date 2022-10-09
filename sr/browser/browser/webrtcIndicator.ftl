@@ -115,3 +115,4 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Запамти ову одлуку
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не може трајно да приступи вашем екрану.
