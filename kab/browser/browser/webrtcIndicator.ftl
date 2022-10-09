@@ -159,3 +159,4 @@ webrtc-action-allow =
 
 ##
 
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ur izmir ara ad isireg anekcum izgan ɣer ugdil-inek.
