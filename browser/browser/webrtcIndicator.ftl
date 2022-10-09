@@ -20,6 +20,7 @@ webrtc-indicator-title = { -brand-short-name } - Indicatur da cundivisiun
 
 webrtc-item-camera = camera
 webrtc-item-microphone = microfon
+webrtc-item-audio-capture = tun dal tab
 webrtc-item-application = applicaziun
 webrtc-item-screen = visur
 webrtc-item-window = fanestra
