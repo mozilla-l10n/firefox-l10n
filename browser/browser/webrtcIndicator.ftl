@@ -157,6 +157,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = További tudnivalók
+webrtc-pick-window-or-screen = Válasszon ablakot vagy képernyőt
 webrtc-share-entire-screen = Teljes képernyő
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -179,3 +180,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = A döntés megjegyzése
+webrtc-reason-for-no-permanent-allow-screen = A { -brand-short-name } nem teszi lehetővé a képernyőhöz történő állandó hozzáférést.
+webrtc-reason-for-no-permanent-allow-audio = A { -brand-short-name } nem teszi lehetővé a lap hangjához történő állandó hozzáférést, a megosztandó lap megkérdezése nélkül.
+webrtc-reason-for-no-permanent-allow-insecure = A kapcsolat az oldal felé nem biztonságos. A biztonsága érdekében, a { -brand-short-name } csak ebben a munkamenetben engedi elérni az oldalt.
