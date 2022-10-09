@@ -208,6 +208,7 @@ webrtc-share-browser-warning = Aplikaci { -brand-short-name } sdílejte pouze se
 webrtc-share-screen-learn-more = Zjistit více
 webrtc-pick-window-or-screen = Vyberte okno nebo obrazovku
 webrtc-share-entire-screen = Celou obrazovku
+webrtc-share-pipe-wire-portal = Použít nastavení operačního systému
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Obrazovka { $monitorIndex }
