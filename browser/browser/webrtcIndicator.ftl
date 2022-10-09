@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicador de que se está compartiendo
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indicador de que se está compartiendo
 
 ## Used as list items in sharing menu
 
@@ -148,22 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = ¿Permitir que { $origin } escuche el audio de esta pestaña?
+webrtc-allow-share-camera = ¿Permitir que { $origin } use la cámara?
+webrtc-allow-share-microphone = ¿Permitir que { $origin } use el micrófono?
+webrtc-allow-share-screen = ¿Permitir que { $origin } vea la pantalla?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = ¿Permitir que { $origin } use otros parlantes?
+webrtc-allow-share-camera-and-microphone = ¿Permitir que { $origin } use la cámara y el micrófono?
+webrtc-allow-share-camera-and-audio-capture = ¿Permitir que { $origin } use la cámara y escuche el audio de esta pestaña?
+webrtc-allow-share-screen-and-microphone = ¿Permitir que { $origin } use el micrófono y vea la pantalla?
+webrtc-allow-share-screen-and-audio-capture = ¿Permitir que { $origin } escuche el audio de esta pestaña y vea la pantalla?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = ¿Permitir que { $origin } dé acceso a { $thirdParty } a la cámara?
+webrtc-allow-share-microphone-unsafe-delegations = ¿Permitir que { $origin } dé acceso a { $thirdParty } al micrófono?
+webrtc-allow-share-screen-unsafe-delegation = ¿Permitir que { $origin } dé permiso a { $thirdParty } para ver la pantalla?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = ¿Permitir que { $origin } dé acceso a { $thirdParty } a otros parlantes?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ¿Permitir que { $origin } dé acceso a { $thirdParty } a la cámara y el micrófono?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ¿Permitir que { $origin } dé acceso a { $thirdParty } a la cámara y escuche el audio de esta pestaña?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ¿Permitir que { $origin } dé acceso a { $thirdParty } al micrófono y a ver la pantalla?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Permitir que { $origin } le dé permiso a { $thirdParty } para escuchar el audio de esta pestaña y ver la pantalla?
 
 ##
 
+webrtc-share-screen-warning = Solo comparta pantallas con sitios en los que confíe. Compartir puede permitir que los sitios engañosos naveguen como si fueran usted y le roben sus datos privados.
+webrtc-share-browser-warning = Solo comparta { -brand-short-name } con sitios en los que confíe. Compartir puede permitir que sitios fraudulentos naveguen como si fueran usted y le roban sus datos privados.
 webrtc-share-screen-learn-more = Conocer más
+webrtc-pick-window-or-screen = Seleccionar Ventana o Pantalla
 webrtc-share-entire-screen = Pantalla completa
+webrtc-share-pipe-wire-portal = Usar la configuración del sistema operativo
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Pantalla { $monitorIndex }
@@ -181,6 +202,12 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permitir
     .accesskey = P
+webrtc-action-block =
+    .label = Bloquear
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Bloquear siempre
+    .accesskey = B
 webrtc-action-not-now =
     .label = No ahora
     .accesskey = N
@@ -188,6 +215,7 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Recordar esta decisión
+webrtc-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparten
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no puede permitir el acceso permanente a la pantalla.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no puede permitir acceso permanente al audio de la pestaña sin preguntar cual compartir.
 webrtc-reason-for-no-permanent-allow-insecure = La conexión a este sitio no es segura. Como protección, { -brand-short-name } solamente permitirá acceso para esta sesión.
