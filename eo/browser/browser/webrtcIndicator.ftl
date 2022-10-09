@@ -157,6 +157,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = Pli da informo
+webrtc-pick-window-or-screen = Elektu fenestron aŭ ekranon
 webrtc-share-entire-screen = Tuta ekrano
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
