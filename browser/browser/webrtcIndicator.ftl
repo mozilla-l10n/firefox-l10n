@@ -23,6 +23,7 @@ webrtc-item-microphone = microfone
 webrtc-item-application = aplicativo
 webrtc-item-screen = tela
 webrtc-item-window = janela
+webrtc-item-browser = aba
 
 ##
 
@@ -76,6 +77,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Sua tela está sendo compartilhada. Clique para controlar o compartilhamento.
 webrtc-indicator-sharing-window =
     .tooltiptext = Uma janela está sendo compartilhada. Clique para controlar o compartilhamento.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Uma aba está sendo compartilhada. Clique para controlar o compartilhamento.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -127,6 +130,16 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Compartilhando uma janela com { $tabCount } aba
            *[other] Compartilhando janelas com { $tabCount } abas
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Compartilhando uma aba com "{ $streamTitle }"
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Compartilhando uma aba com { $tabCount } aba
+           *[other] Compartilhando abas com { $tabCount } abas
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -140,6 +153,9 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
 ##
 
 webrtc-share-entire-screen = Tela inteira
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Tela { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
