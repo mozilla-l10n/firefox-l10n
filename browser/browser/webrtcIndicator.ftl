@@ -178,6 +178,7 @@ webrtc-share-browser-warning = Partagez uniquement { -brand-short-name } avec le
 webrtc-share-screen-learn-more = En savoir plus
 webrtc-pick-window-or-screen = Sélectionnez une fenêtre ou un écran
 webrtc-share-entire-screen = Écran entier
+webrtc-share-pipe-wire-portal = Utiliser les paramètres du système d’exploitation
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Écran { $monitorIndex }
@@ -201,6 +202,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Toujours bloquer
     .accesskey = T
+webrtc-action-not-now =
+    .label = Plus tard
+    .accesskey = P
 
 ##
 
