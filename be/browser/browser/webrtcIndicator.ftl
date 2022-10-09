@@ -90,6 +90,22 @@ webrtc-indicator-sharing-browser =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Кіраваць сумесным доступам
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Кіраваць сумесным доступам на “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Абагуленне камеры з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Абагуленне мікрафона з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Абагуленне праграмы з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Абагуленне экрану з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Абагуленне акна з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Абагуленне карткі з “{ $streamTitle }”
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -118,3 +134,4 @@ webrtc-action-allow =
 
 webrtc-remember-allow-checkbox = Памятаць гэтае рашэнне
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не можа даць сталы доступ да аўдыё з карткі, не запытваючы, якой з картак дзяліцца.
+webrtc-reason-for-no-permanent-allow-insecure = Вашае злучэнне з гэтым сайтам небяспечнае. Каб вас абараніць, { -brand-short-name } дасць доступ толькі на гэты сеанс.
