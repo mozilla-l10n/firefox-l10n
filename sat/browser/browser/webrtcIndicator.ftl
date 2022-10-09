@@ -152,6 +152,9 @@ webrtc-action-allow =
 webrtc-action-block =
     .label = ᱟᱠᱚᱴ
     .accesskey = B
+webrtc-action-always-block =
+    .label = ᱡᱟᱣᱜᱮ ᱵᱞᱚᱠ ᱢᱮ
+    .accesskey = w
 
 ##
 
