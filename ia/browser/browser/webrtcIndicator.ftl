@@ -37,6 +37,9 @@ webrtc-sharing-menuitem-unknown-host = Origine incognite
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Schedas que usa apparatos
+    .accesskey = d
 webrtc-sharing-window = Tu comparti un altere fenestra de application.
 webrtc-sharing-browser-window = Tu comparti { -brand-short-name }.
 webrtc-sharing-screen = Tu comparti tu integre schermo.
@@ -147,14 +150,36 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Permitter que { $origin } ascolta le audio de iste scheda?
+webrtc-allow-share-camera = Permitter que { $origin } usa tu camera?
+webrtc-allow-share-microphone = Permitter que { $origin } usa tu microphono?
+webrtc-allow-share-screen = Permitter que { $origin } vide tu schermo?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Permitter que { $origin } usa altere altoparlatores?
+webrtc-allow-share-camera-and-microphone = Permitter que { $origin } usa tu camera e microphono?
+webrtc-allow-share-camera-and-audio-capture = Permitter que { $origin } usa tu camera e ascolta le audio de iste scheda?
+webrtc-allow-share-screen-and-microphone = Permitter que { $origin } usa tu microphono e vide tu schermo?
+webrtc-allow-share-screen-and-audio-capture = Permitter que { $origin } ascolta le audio de iste scheda e vide tu schermo?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le accesso a tu camera?
+webrtc-allow-share-microphone-unsafe-delegations = Permitter que { $origin } concede a { $thirdParty } le accesso a tu microphono?
+webrtc-allow-share-screen-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le permission de vider tu schermo?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le accesso a altere altoparlatores?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le accesso a tu camera e microphono?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le accesso a tu camera e le permission de ascoltar le audio de iste scheda?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le accesso a tu microphono e le permission de vider tu schermo?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le permission de ascoltar le audio de iste scheda e de vider tu schermo?
 
 ##
 
+webrtc-share-screen-warning = Comparti schermos solo con sitos a que tu confide. Le compartimento pote permitter que sitos fraudulente naviga in tu nomine e roba tu datos private.
 webrtc-share-browser-warning = Comparti { -brand-short-name } solo con sitos a que tu confide. Le compartimento pote permitter que sitos fraudulente naviga in tu nomine e roba tu datos private.
 webrtc-share-screen-learn-more = Saper plus
 webrtc-pick-window-or-screen = Seliger fenestra o schermo
@@ -190,6 +215,7 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Recordar iste decision
+webrtc-mute-notifications-checkbox = Silentiar notificationes del sito web durante le compartimento
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } non pote permitter un accesso permanente a tu schermo.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } non pote permitter un accesso permanente al audio de tu scheda sin demandar que scheda compartir.
 webrtc-reason-for-no-permanent-allow-insecure = Tu connexion a iste sito non es secur. Pro proteger te, { -brand-short-name } permittera solmente accesso pro iste session.
