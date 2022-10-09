@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Teilen-Hinweis
 webrtc-indicator-window =
     .title = { -brand-short-name } - Teilen-Hinweis
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Sie teilen Ihre Kamera. Klicken, um Zugriffe zu verwalten.
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } erlauben, auf die Audi
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } erlauben, den Zugriff auf die Audio-Wiedergabe des Tabs mit { $thirdParty } zu teilen?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihre Kamera mit { $thirdParty } zu teilen?
 webrtc-allow-share-microphone-unsafe-delegations = { $origin } erlauben, den Zugriff auf Ihr Mikrofon mit { $thirdParty } zu teilen?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihren Bildschirminhalt mit { $thirdParty } zu teilen?
