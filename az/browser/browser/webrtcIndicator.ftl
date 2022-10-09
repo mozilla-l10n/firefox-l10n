@@ -154,3 +154,5 @@ webrtc-action-allow =
 
 webrtc-remember-allow-checkbox = Bu seçimi yadda saxla
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ekranınıza qalıcı giriş icazəsi verə bilməz.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } hansı vərəqin paylaşılacağını soruşmadan sizin vərəqinizin səsinə daimi müraciət üçün icazə verə bilməz.
+webrtc-reason-for-no-permanent-allow-insecure = Sizin bu saytla əlaqəniz təhlükəsiz deyil. Sizi qorumaq üçün { -brand-short-name } qoşulmaya yalnız bu seans üçün icazə verəcək.
