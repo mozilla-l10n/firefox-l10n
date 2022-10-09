@@ -15,11 +15,14 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicador de compartilhamento
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indicador de compartilhamento
 
 ## Used as list items in sharing menu
 
 webrtc-item-camera = câmera
 webrtc-item-microphone = microfone
+webrtc-item-audio-capture = áudio da aba
 webrtc-item-application = aplicativo
 webrtc-item-screen = tela
 webrtc-item-window = janela
@@ -34,6 +37,9 @@ webrtc-sharing-menuitem-unknown-host = Origem desconhecida
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Abas compartilhadas em dispositivos
+    .accesskey = A
 webrtc-sharing-window = Você está compartilhando outra janela do aplicativo.
 webrtc-sharing-browser-window = Você está compartilhando o { -brand-short-name }.
 webrtc-sharing-screen = Você está compartilhando sua tela inteira.
@@ -144,15 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Permitir que { $origin } ouça o áudio desta aba?
+webrtc-allow-share-camera = Permitir que { $origin } use sua câmera?
+webrtc-allow-share-microphone = Permitir que { $origin } use seu microfone?
+webrtc-allow-share-screen = Permitir que { $origin } veja sua tela?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Permitir que { $origin } use outras saídas de áudio?
+webrtc-allow-share-camera-and-microphone = Permitir que { $origin } use sua câmera e seu microfone?
+webrtc-allow-share-camera-and-audio-capture = Permitir que { $origin } use sua câmera e ouça o áudio desta aba?
+webrtc-allow-share-screen-and-microphone = Permitir que { $origin } use seu microfone e veja sua tela?
+webrtc-allow-share-screen-and-audio-capture = Permitir que { $origin } ouça o áudio desta aba e veja sua tela?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Permitir que { $origin } dê acesso para { $thirdParty } usar sua câmera?
+webrtc-allow-share-microphone-unsafe-delegations = Permitir que { $origin } dê acesso para { $thirdParty } usar seu microfone?
+webrtc-allow-share-screen-unsafe-delegation = Permitir que { $origin } dê permissão para { $thirdParty } ver sua tela?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Permitir que { $origin } dê acesso para { $thirdParty } usar outras saídas de áudio?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Permitir que { $origin } dê acesso para { $thirdParty } usar sua câmera e seu microfone?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Permitir que { $origin } dê acesso para { $thirdParty } usar sua câmera e ouvir áudio desta aba?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Permitir que { $origin } dê acesso para { $thirdParty } usar seu microfone e ver sua tela?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permitir que { $origin } dê permissão para { $thirdParty } ouvir áudio desta aba e ver sua tela?
 
 ##
 
+webrtc-share-screen-warning = Só compartilhe telas com sites que você confia. Compartilhar pode permitir que sites enganosos naveguem como se fossem você e roubem seus dados privativos.
+webrtc-share-browser-warning = Só compartilhe o { -brand-short-name } com sites que você confia. Compartilhar pode permitir que sites enganosos naveguem como se fossem você e roubem seus dados privativos.
+webrtc-share-screen-learn-more = Saiba mais
+webrtc-pick-window-or-screen = Selecionar janela ou tela
 webrtc-share-entire-screen = Tela inteira
+webrtc-share-pipe-wire-portal = Usar configurações do sistema operacional
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Tela { $monitorIndex }
@@ -170,9 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permitir
     .accesskey = P
+webrtc-action-block =
+    .label = Bloquear
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Sempre bloquear
+    .accesskey = m
+webrtc-action-not-now =
+    .label = Agora não
+    .accesskey = n
 
 ##
 
 webrtc-remember-allow-checkbox = Memorizar esta decisão
+webrtc-mute-notifications-checkbox = Silenciar notificações de sites durante o compartilhamento
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } não pode permitir o acesso permanente a sua tela.
+webrtc-reason-for-no-permanent-allow-audio = O { -brand-short-name } não pode permitir o acesso permanente ao áudio da sua aba sem perguntar qual aba compartilhar.
 webrtc-reason-for-no-permanent-allow-insecure = Sua conexão com este site não é segura. Para te proteger, o { -brand-short-name } só permitirá o acesso nesta sessão.
