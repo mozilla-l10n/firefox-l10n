@@ -130,6 +130,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Ətraflı öyrən
 webrtc-share-entire-screen = Bütün ekran
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -145,6 +146,11 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = İcazə ver
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = Bu seçimi yadda saxla
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ekranınıza qalıcı giriş icazəsi verə bilməz.
