@@ -20,6 +20,7 @@ webrtc-indicator-title = { -brand-short-name } - 공유 표시기
 
 webrtc-item-camera = 카메라
 webrtc-item-microphone = 마이크
+webrtc-item-audio-capture = 탭 소리
 webrtc-item-application = 애플리케이션
 webrtc-item-screen = 화면
 webrtc-item-window = 창
@@ -105,9 +106,15 @@ webrtc-indicator-menuitem-sharing-browser-with =
 
 webrtc-share-screen-learn-more = 더 알아보기
 webrtc-share-entire-screen = 전체 화면
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = 화면 { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = 허용
+    .accesskey = A
 
 ##
 
