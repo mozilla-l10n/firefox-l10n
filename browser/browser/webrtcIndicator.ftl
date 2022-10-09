@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Споделяне
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Споделяне
 
 ## Used as list items in sharing menu
 
@@ -101,6 +103,8 @@ webrtc-indicator-menuitem-sharing-browser-with =
 
 ##
 
+webrtc-share-screen-learn-more = Научете повече
+webrtc-pick-window-or-screen = Избиране на прозорец или екран
 webrtc-share-entire-screen = Целият екран
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -116,6 +120,20 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Разрешаване
+    .accesskey = Р
+webrtc-action-block =
+    .label = Забраняване
+    .accesskey = З
+webrtc-action-always-block =
+    .label = Винаги да е забранено
+    .accesskey = в
 
 ##
 
+webrtc-remember-allow-checkbox = Запомняне на решението
+webrtc-mute-notifications-checkbox = Спиране на известия докато споделяте
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не може да позволи постоянен достъп до екрана ви.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не може да позволи постоянен достъп до звука на раздела без да ви попита кой раздел да сподели.
+webrtc-reason-for-no-permanent-allow-insecure = Връзката към сайта е незащитена. За да ви предпази { -brand-short-name } ще позволи достъпа само за тази сесия.
