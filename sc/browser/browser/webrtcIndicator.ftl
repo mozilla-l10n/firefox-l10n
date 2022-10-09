@@ -190,7 +190,14 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permite
     .accesskey = P
+webrtc-action-block =
+    .label = Bloca
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Bloca semper
+    .accesskey = s
 
 ##
 
 webrtc-remember-allow-checkbox = Regorda custa detzisione
+webrtc-mute-notifications-checkbox = Disativa is notìficas de is sitos web cando ses cumpartzende
