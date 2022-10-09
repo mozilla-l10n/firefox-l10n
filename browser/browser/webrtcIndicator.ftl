@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Yndikator foar dielen
+webrtc-indicator-window =
+    .title = { -brand-short-name } – Yndikator foar dielen
 
 ## Used as list items in sharing menu
 
@@ -35,6 +37,9 @@ webrtc-sharing-menuitem-unknown-host = Unbekende orizjine
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Apparaten dy’t ljepblêden diele
+    .accesskey = d
 webrtc-sharing-window = Jo diele in oar tapassingsfinster.
 webrtc-sharing-browser-window = Jo diele { -brand-short-name }.
 webrtc-sharing-screen = Jo diele jo folsleine skerm.
@@ -145,15 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = { $origin } tastean it lûd fan dit ljepblêd te belústerjen?
+webrtc-allow-share-camera = { $origin } tastean om jo kamera te brûken?
+webrtc-allow-share-microphone = { $origin } tastean om jo mikrofoan te brûken?
+webrtc-allow-share-screen = { $origin } tastean om jo skerm te sjen?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } tastean om oare lûdsprekkers te brûken?
+webrtc-allow-share-camera-and-microphone = { $origin } tastean om jo kamera en mikrofoan te brûken?
+webrtc-allow-share-camera-and-audio-capture = { $origin } tastean om jo kamera te brûken en it lûd fan dit ljepblêd te belústerjen?
+webrtc-allow-share-screen-and-microphone = { $origin } tastean jo mikrofoan te brûken en jo skerm te sjen?
+webrtc-allow-share-screen-and-audio-capture = { $origin } tastean om it lûd fan dit ljepblêd te belústerjen en jo skerm te sjen?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = { $origin } tastean om { $thirdParty } tagong ta jo kamera te jaan?
+webrtc-allow-share-microphone-unsafe-delegations = { $origin } tastean om { $thirdParty } tagong ta jo mikrofoan te jaan?
+webrtc-allow-share-screen-unsafe-delegation = { $origin } tastean om { $thirdParty } jo skerm sjen te litten?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = { $origin } tastean om { $thirdParty } tagong ta oare lûdsprekkers te jaan?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $origin } tastean om { $thirdParty } tagong ta jo kamera en mikrofoan te jaan?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $origin } tastean om { $thirdParty } tagong ta jo kamera te jaan en lûd fan dit ljepblêd te belústerjen?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin } tastean { $thirdParty } tagong ta jo mikrofoan te jaan en jo skerm sjen te litten?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } tastean om { $thirdParty } it lûd fan dit ljepblêd belústerje te litten en jo skerm te sjen?
 
 ##
 
+webrtc-share-screen-warning = Diel allinnich skermen mei websites dy’t jo fertrouwe. Diele kin misliedende websites tastean om as jo te surfen en jo priveegegevens te stellen.
+webrtc-share-browser-warning = Diel { -brand-short-name } allinnich mei websites dy’t jo fertrouwe. Dielen kin misliedende websites tastean út jo namme te browsen en jo priveegegevens te stellen.
+webrtc-share-screen-learn-more = Mear ynfo
+webrtc-pick-window-or-screen = Finster of skerm selektearje
 webrtc-share-entire-screen = Folslein skerm
+webrtc-share-pipe-wire-portal = Ynstellingen fan it bestjoeringssysteem brûke
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Skerm { $monitorIndex }
@@ -168,6 +199,23 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Tastean
+    .accesskey = T
+webrtc-action-block =
+    .label = Blokkearje
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Altyd blokkearje
+    .accesskey = t
+webrtc-action-not-now =
+    .label = No net
+    .accesskey = N
 
 ##
 
+webrtc-remember-allow-checkbox = Dizze beslissing ûnthâlde
+webrtc-mute-notifications-checkbox = Websitemeldingen dôvje wylst dielen
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kin gjin permaninte tagong ta jo skerm tastean.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kin gjin permaninte tagong ta it lûd fan jo ljepblêd tastean sûnder te freegjen hokker ljepblêd dield wurde moat.
+webrtc-reason-for-no-permanent-allow-insecure = Jo ferbining mei dizze website is net befeilige. Om jo te beskermjen, sil { -brand-short-name } allinnich tagong foar dizze sesje tastean.
