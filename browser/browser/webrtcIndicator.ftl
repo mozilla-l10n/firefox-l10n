@@ -154,6 +154,9 @@ webrtc-allow-share-audio-capture = Autoriser { $origin } à écouter le son de c
 webrtc-allow-share-camera = Autoriser { $origin } à utiliser votre caméra ?
 webrtc-allow-share-microphone = Autoriser { $origin } à utiliser votre microphone ?
 webrtc-allow-share-screen = Autoriser { $origin } à voir votre écran ?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Autoriser { $origin } à utiliser d’autres haut-parleurs ?
 webrtc-allow-share-camera-and-microphone = Autoriser { $origin } à utiliser votre caméra et votre microphone ?
 webrtc-allow-share-camera-and-audio-capture = Autoriser { $origin } à utiliser votre caméra et à écouter le son de cet onglet ?
 webrtc-allow-share-screen-and-microphone = Autoriser { $origin } à utiliser votre microphone et à voir votre écran ?
@@ -166,6 +169,9 @@ webrtc-allow-share-screen-and-audio-capture = Autoriser { $origin } à écouter 
 webrtc-allow-share-camera-unsafe-delegation = Autoriser { $origin } à donner à { $thirdParty } l’accès à votre caméra ?
 webrtc-allow-share-microphone-unsafe-delegations = Autoriser { $origin } à donner à { $thirdParty } l’accès à votre microphone ?
 webrtc-allow-share-screen-unsafe-delegation = Autoriser { $origin } à donner à { $thirdParty } la permission de voir votre écran ?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Autoriser { $origin } à donner à { $thirdParty } l’accès à d’autres haut-parleurs ?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Autoriser { $origin } à donner à { $thirdParty } l’accès à votre caméra et votre microphone ?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Autoriser { $origin } à donner à { $thirdParty } l’accès à votre caméra et à écouter le son de cet onglet ?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Autoriser { $origin } à donner à { $thirdParty } l’accès à votre microphone et à voir votre écran ?
