@@ -58,8 +58,18 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Camera și microfonul îți sunt partajate. Clic pentru a controla partajarea.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Camera îți este partajată. Clic pentru a controla partajarea.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Microfonul îți este partajat. Clic pentru a controla partajarea.
 webrtc-indicator-sharing-application =
     .tooltiptext = O aplicație este partajată. Clic pentru a controla partajarea.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Ecranul îți este partajat. Clic pentru a controla partajarea.
+webrtc-indicator-sharing-window =
+    .tooltiptext = O fereastră este partajată. Clic pentru a controla partajarea.
 webrtc-indicator-sharing-browser =
     .tooltiptext = O filă este partajată. Clic pentru a controla partajarea.
 
@@ -69,6 +79,43 @@ webrtc-indicator-sharing-browser =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Controlează partajarea
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Controlează partajarea pe „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Camera este partajată cu „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Camera este partajată cu { $tabCount } filă
+            [few] Camera este partajată cu { $tabCount } file
+           *[other] Camera este partajată cu { $tabCount } de file
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Microfonul este partajat cu „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Microfonul este partajat cu { $tabCount } filă
+            [few] Microfonul este partajat cu { $tabCount } file
+           *[other] Microfonul este partajat cu { $tabCount } de file
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = O aplicație este partajată cu „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Ecranul este partajat cu „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ecranul este partajat cu { $tabCount } filă
+            [few] Ecranul este partajat cu { $tabCount } file
+           *[other] Ecranul este partajat cu { $tabCount } de file
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = O fereastră este partajată cu „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = O filă este partajată cu „{ $streamTitle }”
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -85,6 +132,15 @@ webrtc-share-screen-learn-more = Află mai multe
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ecranul { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } fereastră)
+        [few] { $appName } ({ $windowCount } ferestre)
+       *[other] { $appName } ({ $windowCount } de ferestre)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
