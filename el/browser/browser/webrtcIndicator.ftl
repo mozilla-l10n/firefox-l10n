@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Δείκτης κοινής χρήσης
 webrtc-indicator-window =
     .title = { -brand-short-name } - Δείκτης κοινής χρήσης
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Κάνετε κοινή χρήση της κάμεράς σας. Κάντε κλικ για έλεγχο κοινής χρήσης.
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = Να επιτρέπεται στο
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } άδεια για ακρόαση του ήχου αυτής της καρτέλας;
 webrtc-allow-share-camera-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } πρόσβαση στην κάμερά σας;
 webrtc-allow-share-microphone-unsafe-delegations = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } πρόσβαση στο μικρόφωνό σας;
 webrtc-allow-share-screen-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } άδεια για θέαση της οθόνης σας;
