@@ -15,14 +15,26 @@
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = کیمرہ
+webrtc-item-microphone = مائیکروفون
+webrtc-item-audio-capture = آڈیو
+webrtc-item-application = ایپلی کیشن
+webrtc-item-screen = سکرین
+webrtc-item-window = ونڈوں
+webrtc-item-browser = ٹیب
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = نامعلوم نقطہ آغاز
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = ٹیبیں حصہ داری کر رہا ہے ڈیوائس
+    .accesskey = ڈ
 webrtc-sharing-window = آپ ایک اور ایپلیکیشن ونڈو کو شیر کر رہے ہیں۔
 webrtc-sharing-browser-window = اپ { -brand-short-name } کا اشتراک کر رہے ہیں
 webrtc-sharing-screen = آپ اپنی پوری اسکرین شیئر کر رہے ہیں۔
@@ -41,6 +53,20 @@ webrtc-camera-muted =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = آپکا کیمرہ اور مائیکروفون شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
+webrtc-indicator-sharing-camera =
+    .tooltiptext = آپکا کیمرہ شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = آپکا مائیکروفون شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
+webrtc-indicator-sharing-application =
+    .tooltiptext = ایک ایپلی کیشن شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
+webrtc-indicator-sharing-screen =
+    .tooltiptext = آپکی سکرین شیئر کی جا رہی ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
+webrtc-indicator-sharing-window =
+    .tooltiptext = ایک ونڈوں شیئر کی جا رہی ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
+webrtc-indicator-sharing-browser =
+    .tooltiptext = ایک ٹیب شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -48,6 +74,22 @@ webrtc-camera-muted =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = کنٹرول حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = کنٹرول حصہ داری کر رہا ہے "{ $streamTitle }" سے
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = کیمرہ مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = مائیکروفون مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = ایپلی کیشن مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = سکرین مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = ونڈوں مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = ٹیب مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -60,9 +102,17 @@ webrtc-camera-muted =
 
 ##
 
+webrtc-share-screen-learn-more = مزید سیکھیں
+webrtc-share-entire-screen = پوری سکرین
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = سکرین { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
 
 ##
 
+webrtc-remember-allow-checkbox = یہ فیصلہ یاد رکھیں
+webrtc-reason-for-no-permanent-allow-audio = بغیر پچھیں کس ٹیب کی اپکو شیئر کرنی ہے { -brand-short-name } آپ کو ٹیب کے آڈیو کی مستقل رسائی کی اجازت نہیں دے سکتا۔
+webrtc-reason-for-no-permanent-allow-insecure = اس سائٹ کے ساتھ آپکا کنکشن محفوظ نہیں ہے۔ آپ کی حفاظت کے لیئے، { -brand-short-name } صرف اس سیشن کے لیئے رسائی فراہم کرے گا۔
