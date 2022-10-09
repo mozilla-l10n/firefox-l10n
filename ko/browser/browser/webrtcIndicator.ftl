@@ -118,3 +118,4 @@ webrtc-action-allow =
 
 ##
 
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }가 더 이상 당신의 화면에 접근할 수 없습니다.
