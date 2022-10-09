@@ -35,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = Ukjent opphav
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Faner som deler einingar
+    .accesskey = e
 webrtc-sharing-window = Du deler eit annea programvindauge.
 webrtc-sharing-browser-window = Du deler { -brand-short-name }.
 webrtc-sharing-screen = Du deler heile skjermen.
@@ -85,6 +88,12 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Deler mikrofon med { $tabCount } fane
            *[other] Deler mikrofon med { $tabCount } faner
         }
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler eit program med { $tabCount } fane
+           *[other] Deler program med { $tabCount } faner
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Deler skjerm med "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -113,6 +122,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Les meir
 webrtc-share-entire-screen = Heile skjermen
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -128,6 +138,10 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Tillat
+    .accesskey = T
 
 ##
 
+webrtc-remember-allow-checkbox = Hugs dette valet
