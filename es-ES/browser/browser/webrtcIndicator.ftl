@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicador de compartición
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indicador de compartición
 
 ## Used as list items in sharing menu
 
@@ -145,16 +147,40 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = ¿Permitir a { $origin } escuchar el audio de esta pestaña?
+webrtc-allow-share-microphone = ¿Permitir a { $origin } usar su micrófono?
+webrtc-allow-share-screen = ¿Permitir a { $origin } ver su pantalla?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = ¿Permitir a { $origin } usar otros altavoces?
+webrtc-allow-share-camera-and-microphone = ¿Permitir a { $origin } usar su cámara y micrófono?
+webrtc-allow-share-camera-and-audio-capture = ¿Permitir a { $origin } usar su cámara y escuchar el audio de esta pestaña?
+webrtc-allow-share-screen-and-microphone = ¿Permitir a { $origin } usar su micrófono y ver su pantalla?
+webrtc-allow-share-screen-and-audio-capture = ¿Permitir a { $origin } escuchar el audio de esta pestaña y ver su pantalla?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = ¿Permitir que { $origin } le dé a { $thirdParty } acceso a su cámara?
+webrtc-allow-share-microphone-unsafe-delegations = ¿Permitir que { $origin } le dé a { $thirdParty } acceso a su micrófono?
+webrtc-allow-share-screen-unsafe-delegation = ¿Permitir que { $origin } le dé a { $thirdParty } permiso para ver su pantalla?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = ¿Permitir que { $origin } le dé a { $thirdParty } acceso a otros altavoces?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ¿Permitir que { $origin } le dé a { $thirdParty } acceso a su cámara y micrófono?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ¿Permitir que { $origin } le dé a { $thirdParty } acceso a su cámara y escuche el audio de esta pestaña?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ¿Permitir que { $origin } le dé a { $thirdParty } acceso a su micrófono y vea su pantalla?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Permitir que { $origin } le dé a { $thirdParty } permiso para escuchar el audio de esta pestaña y ver su pantalla?
 
 ##
 
+webrtc-share-screen-warning = Comparta pantallas solo con sitios en los que confíe. Compartir puede permitir a sitios engañosos navegar como si fueran usted y robar sus datos privados.
+webrtc-share-browser-warning = Comparta { -brand-short-name } solo con sitios en los que confíe. Compartir puede permitir a sitios engañosos navegar como si fueran usted y robar sus datos privados.
 webrtc-share-screen-learn-more = Saber más
+webrtc-pick-window-or-screen = Seleccionar ventana o pantalla
 webrtc-share-entire-screen = Pantalla completa
+webrtc-share-pipe-wire-portal = Utilizar la configuración del sistema operativo
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Pantalla { $monitorIndex }
@@ -172,6 +198,9 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permitir
     .accesskey = P
+webrtc-action-not-now =
+    .label = Ahora no
+    .accesskey = n
 
 ##
 
