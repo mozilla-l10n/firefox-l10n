@@ -50,9 +50,11 @@ webrtc-sharing-menuitem =
 
 ##
 
+webrtc-share-screen-learn-more = Fir méi ze wëssen
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
 
 ##
 
+webrtc-remember-allow-checkbox = Dës Decisioun verhalen
