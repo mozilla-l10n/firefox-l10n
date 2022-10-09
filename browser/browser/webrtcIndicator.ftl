@@ -22,6 +22,7 @@ webrtc-indicator-window =
 
 webrtc-item-camera = камера
 webrtc-item-microphone = микрофон
+webrtc-item-audio-capture = звук вкладки
 webrtc-item-application = приложение
 webrtc-item-screen = экран
 webrtc-item-window = окно
@@ -36,6 +37,9 @@ webrtc-sharing-menuitem-unknown-host = Неизвестный источник
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Устройства с доступом ко вкладкам
+    .accesskey = у
 webrtc-sharing-window = Вы предоставляете доступ к другому окну приложения.
 webrtc-sharing-browser-window = Вы предоставляете доступ к { -brand-short-name }.
 webrtc-sharing-screen = Вы предоставляете доступ ко всему своему экрану.
@@ -152,13 +156,17 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Разрешить { $origin } прослушивать звук этой вкладки?
 webrtc-allow-share-camera = Разрешить { $origin } использовать вашу камеру?
 webrtc-allow-share-microphone = Разрешить { $origin } использовать ваш микрофон?
 webrtc-allow-share-screen = Разрешить { $origin } видеть ваш экран?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = Разрешить { $origin } использовать другие динамики?
+webrtc-allow-share-camera-and-microphone = Разрешить { $origin } использовать ваши камеру и микрофон?
+webrtc-allow-share-camera-and-audio-capture = Разрешить { $origin } использовать вашу камеру и прослушивать звук этой вкладки?
 webrtc-allow-share-screen-and-microphone = Разрешить { $origin } использовать ваш микрофон и видеть ваш экран?
+webrtc-allow-share-screen-and-audio-capture = Разрешить { $origin } прослушивать звук этой вкладки и видеть ваш экран?
 
 ## Variables:
 ##   $origin (String): the first party origin.
@@ -170,12 +178,18 @@ webrtc-allow-share-screen-unsafe-delegation = Разрешить { $origin } п�
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ к другим динамикам?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ к вашим камере и микрофону?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ к вашей камере и прослушиванию звука этой вкладки?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ к вашему микрофону и просмотру вашего экрана?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ к прослушиванию звука этой вкладки и просмотру вашего экрана?
 
 ##
 
+webrtc-share-screen-warning = Предоставляйте доступ к экрану только тем сайтам, которым доверяете. Предоставление доступа может позволить поддельным сайтам использовать Интернет от вашего имени и украсть ваши личные данные.
+webrtc-share-browser-warning = Предоставляйте доступ к { -brand-short-name } только тем сайтам, которым доверяете. Предоставление доступа может позволить поддельным сайтам использовать Интернет от вашего имени и украсть ваши личные данные.
 webrtc-share-screen-learn-more = Подробнее
 webrtc-pick-window-or-screen = Выберите окно или экран
+webrtc-share-entire-screen = Во весь экран
 webrtc-share-pipe-wire-portal = Использовать настройки операционной системы
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -192,6 +206,9 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Разрешить
+    .accesskey = Р
 webrtc-action-block =
     .label = Блокировать
     .accesskey = л
@@ -207,3 +224,5 @@ webrtc-action-not-now =
 webrtc-remember-allow-checkbox = Запомнить это решение
 webrtc-mute-notifications-checkbox = Отключить уведомления веб-сайтов при предоставлении доступа
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не может предоставить постоянный доступ к вашему экрану.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не может предоставить постоянный доступ к звуку вашей вкладки без конкретного запроса.
+webrtc-reason-for-no-permanent-allow-insecure = Ваше соединение с этим сайтом не защищено. Чтобы защитить вас, { -brand-short-name } разрешит доступ только до конца текущей сессии.
