@@ -155,8 +155,12 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Αποδοχή
+    .accesskey = Α
 
 ##
 
+webrtc-remember-allow-checkbox = Απομνημόνευση επιλογής
 webrtc-reason-for-no-permanent-allow-screen = Το { -brand-short-name } δεν μπορεί να επιτρέψει μόνιμη πρόσβαση στην οθόνη σας.
 webrtc-reason-for-no-permanent-allow-audio = Το { -brand-short-name } δεν μπορεί να επιτρέψει μόνιμη πρόσβαση στον ήχο της καρτέλας σας χωρίς να ρωτήσει ποια καρτέλα θα διαμοιραστεί.
