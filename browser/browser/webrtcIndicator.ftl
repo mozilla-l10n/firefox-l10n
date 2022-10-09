@@ -15,10 +15,14 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indikator for deling
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indikator for deling
 
 ## Used as list items in sharing menu
 
+webrtc-item-audio-capture = lyd fra faneblad
 webrtc-item-application = program
+webrtc-item-browser = faneblad
 
 ##
 
@@ -27,6 +31,9 @@ webrtc-item-application = program
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Faneblade der deler enheder
+    .accesskey = n
 webrtc-sharing-window = Du deler et andet applikations-vindue.
 webrtc-sharing-browser-window = Du deler { -brand-short-name }.
 webrtc-sharing-screen = Du deler hele din skærm.
@@ -58,8 +65,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Dit kamera og din mikrofon bliver delt. Klik for at kontrollere deling.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Dit kamera bliver delt. Klik for at kontrollere deling.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Din mikrofon bliver delt. Klik for at kontrollere deling.
 webrtc-indicator-sharing-application =
     .tooltiptext = En applikation bliver delt. Klik for at kontrollere deling.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Din skærm bliver delt. Klik for at kontrollere deling.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Et vindue bliver delt. Klik for at kontrollere deling.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Et faneblad bliver delt. Klik for at kontrollere deling.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -67,13 +86,59 @@ webrtc-indicator-sharing-application =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Kontroller deling
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Kontroller deling med "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Deler kamera med "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler kamera med { $tabCount } faneblad
+           *[other] Deler kamera med { $tabCount } faneblade
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Deler mikrofon med "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler mikrofon med { $tabCount } faneblad
+           *[other] Deler mikrofon med { $tabCount } faneblade
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Deler en applikation med "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler en applikation med { $tabCount } faneblad
+           *[other] Deler applikationer med { $tabCount } faneblade
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Deler skærm med "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Deler skærm med { $tabCount } faneblad
            *[other] Deler skærm med { $tabCount } faneblade
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Deler et vindue med "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler et vindue med { $tabCount } faneblad
+           *[other] Deler vinduer med { $tabCount } faneblade
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Deler et faneblad med "{ $streamTitle }"
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler et faneblad med { $tabCount } faneblad
+           *[other] Deler faneblade med { $tabCount } faneblade
         }
 
 ## Variables:
@@ -87,6 +152,12 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Læs mere
+webrtc-pick-window-or-screen = Vælg vindue eller skærm
+webrtc-share-entire-screen = Hele skærmen
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Skærm { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
@@ -98,6 +169,12 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Tillad
+    .accesskey = T
 
 ##
 
+webrtc-remember-allow-checkbox = Husk dette valg
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikke tillade permanent adgang til dit faneblads lyd uden først at spørge, hvilket faneblad der skal deles.
+webrtc-reason-for-no-permanent-allow-insecure = Din forbindelse til dette websted er ikke sikker. For at beskytte dig vil { -brand-short-name } kun tillade adgang for denne session.
