@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } （隐私浏览）
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } （隐私浏览）
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } —（隐私浏览）
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } —（隐私浏览）
-
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -54,7 +52,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } 隐私浏览
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } 隐私浏览
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -74,15 +71,12 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — 隐私浏览
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — 隐私浏览
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 private-browsing-shortcut-text = { -brand-short-name } 隐私浏览
-
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } 隐私浏览
 
 ##
@@ -154,7 +148,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = 输入寥寥，搜遍万千：在地址栏就能用 { $engineName } 搜索。
 urlbar-search-tips-redirect-2 = 在地址栏搜索，可以看到 { $engineName } 提供的建议，还有您的相关浏览历史。
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = 一键直达，高效搜索。
@@ -164,7 +157,6 @@ urlbar-tabtosearch-onboard = 一键直达，高效搜索。
 urlbar-search-mode-bookmarks = 书签
 urlbar-search-mode-tabs = 标签页
 urlbar-search-mode-history = 历史记录
-
 urlbar-search-mode-actions = 操作
 
 ##
@@ -193,12 +185,10 @@ urlbar-midi-blocked =
     .tooltiptext = 您已阻止此网站访问 MIDI。
 urlbar-install-blocked =
     .tooltiptext = 您已阻止此网站安装附加组件。
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = 编辑此书签 ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,7 +200,6 @@ page-action-manage-extension =
     .label = 管理扩展…
 page-action-remove-extension =
     .label = 移除扩展
-
 page-action-manage-extension2 =
     .label = 管理扩展…
     .accesskey = E
@@ -232,10 +221,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 本次搜索使用：
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = 更改搜索设置
-
 search-one-offs-context-open-new-tab =
     .label = 在新标签页中搜索
     .accesskey = T
@@ -245,14 +232,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = 设为隐私窗口的默认搜索引擎
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName }（{ $alias }）
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -279,7 +264,6 @@ search-one-offs-tabs =
     .tooltiptext = 标签页（{ $restrict }）
 search-one-offs-history =
     .tooltiptext = 历史记录（{ $restrict }）
-
 search-one-offs-actions =
     .tooltiptext = 操作（{ $restrict }）
 
@@ -290,73 +274,55 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = 查看附加组件
 quickactions-cmd-addons = 附加组件, 扩展, 主题, add-ons, extensions, themes
-
 quickactions-cmd-addons2 = 附加组件
-
 # Opens the bookmarks library window
 quickactions-bookmarks = 查看书签
 quickactions-cmd-bookmarks = 书签, bookmarks
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 清除历史
 quickactions-cmd-clearhistory = 清除历史, clear history
-
 # Opens about:downloads page
 quickactions-downloads = 打开下载
 quickactions-cmd-downloads = 下载, downloads
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = 管理扩展
 quickactions-cmd-extensions = 扩展
-
 # Opens the devtools web inspector
 quickactions-inspector = 查看源代码
 quickactions-cmd-inspector = 查看器, 开发工具, inspector, devtools
-
 # Opens about:logins
 quickactions-logins = 查看登录信息
 quickactions-cmd-logins = 登录信息, 密码, logins, passwords
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = 管理插件
 quickactions-cmd-plugins = 插件
-
 # Opens the print dialog
 quickactions-print = 打印
 quickactions-cmd-print = 打印, print
-
 # Opens a new private browsing window
 quickactions-private = 打开隐私浏览窗口
 quickactions-cmd-private = 隐私浏览, private browsing
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = 翻新 { -brand-short-name }
 quickactions-cmd-refresh = 刷新, refresh
-
 # Restarts the browser
 quickactions-restart = 重启 { -brand-short-name }
 quickactions-cmd-restart = 重新启动, 重启, restart
-
 # Opens the screenshot tool
 quickactions-screenshot2 = 截图
 quickactions-cmd-screenshot = 截图, screenshot
-
 # Opens about:preferences
 quickactions-settings = 打开设置
 quickactions-cmd-settings = 设置, 偏好设置, 选项, settings, preferences, options
-
 # Opens about:addons page in the themes section
 quickactions-themes = 管理主题
 quickactions-cmd-themes = 主题
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource = 查看源代码
 quickactions-cmd-viewsource = 查看源代码, 源代码, view source, source
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = 详细了解“快捷操作”
@@ -378,7 +344,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = 保存
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -406,7 +371,6 @@ identity-passive-loaded = 此页面上部分内容不安全（例如图像）。
 identity-active-loaded = 您在此页面上已禁用保护。
 identity-weak-encryption = 此页面使用较弱加密。
 identity-insecure-login-forms = 在此网页上输入的登录信息可能会泄露。
-
 identity-https-only-connection-upgraded = （升级为 HTTPS）
 identity-https-only-label = HTTPS-Only 模式
 identity-https-only-dropdown-on =
@@ -418,11 +382,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = 若想要 { -brand-short-name } 尽可能升级为安全连接，请为此网站开启 HTTPS-Only 模式。
 identity-https-only-info-turn-off2 = 若页面看起来不正常，则可能需要为此网站关闭 HTTPS-Only 模式，使用不安全的 HTTP 重新载入。
 identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
-
 identity-permissions-storage-access-header = 跨站 Cookie
 identity-permissions-storage-access-hint = 当您在此网站上时，以下各方可以使用跨站 Cookie 和网站数据。
 identity-permissions-storage-access-learn-more = 详细了解
-
 identity-permissions-reload-hint = 您可能需要重新载入此页面以应用更改。
 identity-clear-site-data =
     .label = 清除 Cookie 和网站数据…
@@ -485,13 +447,11 @@ browser-tab-mute =
         [1] 静音标签页
        *[other] 静音 { $count } 个标签页
     }
-
 browser-tab-unmute =
     { $count ->
         [1] 取消静音标签页
        *[other] 取消静音 { $count } 个标签页
     }
-
 browser-tab-unblock =
     { $count ->
         [1] 播放标签页
@@ -503,7 +463,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = 导入书签…
     .tooltiptext = 将其他浏览器的书签导入到 { -brand-short-name }。
-
 bookmarks-toolbar-empty-message = 可将书签放在书签工具栏上，方便快速访问。<a data-l10n-name="manage-bookmarks">管理书签…</a>
 
 ## WebRTC Pop-up notifications
@@ -520,16 +479,16 @@ popup-select-microphone-icon =
     .tooltiptext = 麦克风
 popup-select-speaker-icon =
     .tooltiptext = 音频输出设备
+popup-select-window-or-screen =
+    .label = 窗口或屏幕：
+    .accesskey = W
 popup-all-windows-shared = 您的屏幕上的所有可见窗口都将被共享。
-
 popup-screen-sharing-block =
     .label = 阻止
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = 一律阻止
     .accesskey = w
-
 popup-mute-notifications-checkbox = 共享期间不显示网站通知
 
 ## WebRTC window or screen share tab switch warning
@@ -544,7 +503,6 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = 请通过“Web 开发者”菜单打开开发者工具，才能使用 F12 快捷键。
-
 enable-devtools-popup-description2 = 要使用 F12 快捷键，请先由“浏览器工具”菜单打开开发者工具。
 
 ## URL Bar
@@ -553,7 +511,6 @@ enable-devtools-popup-description2 = 要使用 F12 快捷键，请先由“浏�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = 搜索或输入网址
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -562,7 +519,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = 网上搜索
     .aria-label = 使用 { $name } 搜索
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -571,32 +527,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = 输入搜索词
     .aria-label = 搜索 { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = 输入搜索词
     .aria-label = 搜索书签
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = 输入搜索词
     .aria-label = 搜索历史记录
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = 输入搜索词
     .aria-label = 搜索标签页
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = 输入搜索词
     .aria-label = 搜索操作
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = 使用 { $name } 搜索，或者输入网址
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -606,11 +556,9 @@ urlbar-permissions-granted =
     .tooltiptext = 您已授予此站点更多权限。
 urlbar-switch-to-tab =
     .value = 切换到标签页：
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 扩展：
-
 urlbar-go-button =
     .tooltiptext = 转到地址栏中指向的网址
 urlbar-page-action-button =
@@ -670,7 +618,6 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = 搜索书签
 urlbar-result-action-search-history = 搜索历史记录
 urlbar-result-action-search-tabs = 搜索标签页
-
 urlbar-result-action-search-actions = 搜索操作
 
 ## Labels shown above groups of urlbar results
@@ -679,14 +626,12 @@ urlbar-result-action-search-actions = 搜索操作
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } 建议
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = 快捷操作
@@ -698,12 +643,9 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 已进入全屏模式
 fullscreen-warning-no-domain = 此文档已进入全屏模式
-
-
 fullscreen-exit-button = 退出全屏模式(Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = 退出全屏模式 (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -713,7 +655,6 @@ pointerlock-warning-no-domain = 此文档已控制您的鼠标指针。按 Esc �
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>此页面中的部分内容出现崩溃。</strong>您可以向 { -brand-product-name } 报告此问题，以尽快修复。
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -769,10 +710,8 @@ bookmarks-tools =
     .label = 书签工具
 bookmarks-bookmark-edit-panel =
     .label = 编辑此书签
-
 bookmarks-subview-edit-bookmark =
     .label = 编辑此书签…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -786,11 +725,9 @@ bookmarks-toolbar-placeholder =
     .title = 书签工具栏项目
 bookmarks-toolbar-placeholder-button =
     .label = 书签工具栏项目
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = 将当前标签页加入书签
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = 将当前标签页加入书签…
@@ -821,7 +758,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = 扩展和主题
     .tooltiptext = 管理您的扩展和主题（{ $shortcut }）
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -831,31 +767,25 @@ toolbar-settings-button =
             [macos] 打开设置（{ $shortcut }）
            *[other] 打开设置
         }
-
 toolbar-overflow-customize-button =
     .label = 定制工具栏…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = 用邮件发送链接
     .tooltiptext = 用邮件发送此页链接
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = 保存页面
     .tooltiptext = 保存此页 ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = 打开文件
     .tooltiptext = 打开文件 ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = 受同步标签页
     .tooltiptext = 显示来自其他设备的标签页
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -896,7 +826,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = 允许 { $uriHost } 弹出窗口
     .accesskey = p
-
 popups-infobar-block =
     .label = 阻止 { $uriHost } 弹出窗口
     .accesskey = p
@@ -906,11 +835,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = 当弹出式窗口被拦截时不显示此消息
     .accesskey = D
-
 edit-popup-settings =
     .label = 管理弹出式窗口设置…
     .accesskey = M
-
 picture-in-picture-hide-toggle =
     .label = 隐藏画中画切换按钮
     .accesskey = H
@@ -921,7 +848,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = 右移画中画切换按钮
     .accesskey = R
-
 picture-in-picture-move-toggle-left =
     .label = 左移画中画切换按钮
     .accesskey = L
@@ -936,42 +862,32 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = 导航
-
 navbar-downloads =
     .label = 下载
-
 navbar-overflow =
     .tooltiptext = 更多工具…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = 打印
     .tooltiptext = 打印此页… ({ $shortcut })
-
 navbar-home =
     .label = 主页
     .tooltiptext = { -brand-short-name } 主页
-
 navbar-library =
     .label = 我的足迹
     .tooltiptext = 查看浏览历史、已保存的书签等
-
 navbar-search =
     .title = 搜索
-
 navbar-accessibility-indicator =
     .tooltiptext = 无障碍功能已启用
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = 浏览器标签页
-
 tabs-toolbar-new-tab =
     .label = 新建标签页
-
 tabs-toolbar-list-all-tabs =
     .label = 列出全部标签页
     .tooltiptext = 列出全部标签页
@@ -988,7 +904,6 @@ data-reporting-notification-message = { -brand-short-name } 会自动向 { -vend
 data-reporting-notification-button =
     .label = 我要选择提供哪些信息
     .accesskey = C
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = 隐私浏览
 

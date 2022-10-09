@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — 共享指示器
+webrtc-indicator-window =
+    .title = { -brand-short-name } — 共享指示器
 
 ## Used as list items in sharing menu
 
@@ -124,17 +126,35 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = 要允许 { $origin } 听到此标签页的音频吗？
+webrtc-allow-share-camera = 要允许 { $origin } 使用您的摄像头吗？
+webrtc-allow-share-microphone = 要允许 { $origin } 使用您的麦克风吗？
+webrtc-allow-share-screen = 要允许 { $origin } 看到您的屏幕吗？
+webrtc-allow-share-camera-and-microphone = 要允许 { $origin } 使用您的摄像头和麦克风吗？
+webrtc-allow-share-camera-and-audio-capture = 要允许 { $origin } 使用您的摄像头，并听到此标签页的音频吗？
+webrtc-allow-share-screen-and-microphone = 要允许 { $origin } 使用您的麦克风，并看到您的屏幕吗？
+webrtc-allow-share-screen-and-audio-capture = 要允许 { $origin } 听到此标签页的音频，并看到您的屏幕吗？
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的摄像头吗？
+webrtc-allow-share-microphone-unsafe-delegations = 要允许 { $origin } 授权 { $thirdParty } 使用您的麦克风吗？
+webrtc-allow-share-screen-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 看到您的屏幕吗？
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的摄像头和麦克风吗？
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的摄像头，并听到此标签页的音频吗？
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用您的麦克风，并看到您的屏幕吗？
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = 要允许 { $origin } 授权 { $thirdParty } 使用听到此标签页的音频，并看到您的屏幕吗？
 
 ##
 
+webrtc-share-screen-warning = 请只与您信任的网站共享屏幕。否则诈骗网站将随您一同浏览，并因而能窃取您的隐私数据。
+webrtc-share-browser-warning = 请只与您信任的网站共享 { -brand-short-name }。否则诈骗网站将随您一同浏览，并因而能窃取您的隐私数据。
 webrtc-share-screen-learn-more = 详细了解
 webrtc-pick-window-or-screen = 选择窗口或屏幕
 webrtc-share-entire-screen = 整个屏幕
+webrtc-share-pipe-wire-portal = 遵循操作系统设置
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = 屏幕 { $monitorIndex }
@@ -148,10 +168,17 @@ webrtc-share-application = { $appName }（{ $windowCount } 个窗口）
 webrtc-action-allow =
     .label = 允许
     .accesskey = A
+webrtc-action-block =
+    .label = 阻止
+    .accesskey = B
+webrtc-action-always-block =
+    .label = 一律阻止
+    .accesskey = w
 
 ##
 
 webrtc-remember-allow-checkbox = 记住此决定
+webrtc-mute-notifications-checkbox = 共享期间不显示网站通知
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } 不能长效允许访问您的屏幕。
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } 无法永久不让您先指定特定标签页，就允许存取任意标签页的音频内容。
 webrtc-reason-for-no-permanent-allow-insecure = 您与此网站间的连接并不安全。为了保护您，{ -brand-short-name } 将只允许此次浏览期间的访问。
