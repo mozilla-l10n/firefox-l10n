@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } – Pokazatelj skupne rabe
+webrtc-indicator-window =
+    .title = { -brand-short-name } – Pokazatelj skupne rabe
 
 ## Used as list items in sharing menu
 
@@ -189,9 +191,12 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dovolite { $orig
 
 ##
 
+webrtc-share-screen-warning = Delite zaslon samo s stranmi, ki jim zaupate. Deljenje lahko zavajajočim stranem omogoči, da brskajo v vašem imenu in ukradejo vaše zasebne podatke.
+webrtc-share-browser-warning = Delite { -brand-short-name } samo s stranmi, ki jim zaupate. Deljenje lahko zavajajočim stranem omogoči, da brskajo v vašem imenu in ukradejo vaše zasebne podatke.
 webrtc-share-screen-learn-more = Več o tem
 webrtc-pick-window-or-screen = Izberi okno ali zaslon
 webrtc-share-entire-screen = Celoten zaslon
+webrtc-share-pipe-wire-portal = Uporabi nastavitve operacijskega sistema
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Zaslon { $monitorIndex }
