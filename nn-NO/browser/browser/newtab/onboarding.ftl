@@ -260,6 +260,11 @@ mr2022-onboarding-secondary-skip-button-label = Hopp over dette steget
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Opne opp for eit fantastisk internett
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -271,9 +276,13 @@ mr2022-onboarding-pin-primary-button-label =
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Takk for at du likar { -brand-product-name }
+mr2022-onboarding-existing-pin-checkbox-label = Legg også til { -brand-short-name } privat nettlesing
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Gjere { -brand-short-name } til standardnettlesaren din?
+mr2022-onboarding-set-default-primary-button-label = Gjer { -brand-short-name } til standardnettleser
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -326,9 +335,13 @@ mr2022-onboarding-colorway-tooltip-activist2 =
 mr2022-onboarding-colorway-label-dreamer = Drøymar
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Drøymar
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Drøymar (lilla)
 mr2022-onboarding-colorway-label-innovator = Nyskapar
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Nyskapar
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Innovatør (oransje)
 
 ## MR2022 Multistage Mobile Download screen strings
 
