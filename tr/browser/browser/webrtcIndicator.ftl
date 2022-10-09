@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Paylaşım Göstergesi
+webrtc-indicator-window =
+    .title = { -brand-short-name } — Paylaşım Göstergesi
 
 ## Used as list items in sharing menu
 
@@ -96,36 +98,97 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = “{ $streamTitle }” üzerinde paylaşımı yönet
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamera “{ $streamTitle }” ile paylaşılıyor
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Kamera { $tabCount } sekme ile paylaşıyor
+           *[other] Kamera { $tabCount } sekme ile paylaşıyor
+        }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofon “{ $streamTitle }” ile paylaşılıyor
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Mikrofon { $tabCount } sekme ile paylaşıyor
+           *[other] Mikrofon { $tabCount } sekme ile paylaşıyor
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = “{ $streamTitle }” ile bir uygulama paylaşılıyor
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } sekmeyle bir uygulama paylaşılıyor
+           *[other] { $tabCount } sekmeyle uygulamalar paylaşılıyor
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ekran “{ $streamTitle }” ile paylaşılıyor
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Ekran { $tabCount } sekme ile paylaşıyor
+           *[other] Ekran { $tabCount } sekme ile paylaşıyor
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = “{ $streamTitle }” ile bir pencere paylaşılıyor
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Bir pencere { $tabCount } sekme ile paylaşıyor
+           *[other] Pencereler { $tabCount } sekme ile paylaşıyor
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = “{ $streamTitle }” ile bir sekme paylaşılıyor
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } sekmeyle bir sekme paylaşılıyor
+           *[other] { $tabCount } sekmeyle sekmeler paylaşılıyor
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } diğer ses aygıtlarınızı kullanabilsin mi?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = { $origin } { $thirdParty } sitesinin diğer ses aygıtlarınıza erişmesine izin versin mi?
 
 ##
 
 webrtc-share-screen-learn-more = Daha fazla bilgi alın
+webrtc-pick-window-or-screen = Pencere veya ekranı seçin
 webrtc-share-entire-screen = Tüm ekran
+webrtc-share-pipe-wire-portal = İşletim sistemi ayarlarını kullan
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ekran { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } pencere)
+       *[other] { $appName } ({ $windowCount } pencere)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = İzin ver
+    .accesskey = z
 
 ##
 
+webrtc-remember-allow-checkbox = Bu kararı hatırla
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ekranınıza kalıcı erişim izni veremiyor.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } hangi sekmeyi paylacağınızı sormadan sekme sesine kalıcı erişim izni vermez.
+webrtc-reason-for-no-permanent-allow-insecure = Bu siteye bağlantınız güvenli değil. { -brand-short-name } sizi korumak için yalnızca bu oturum boyunca erişime izin verecek.
