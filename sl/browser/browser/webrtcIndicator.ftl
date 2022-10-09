@@ -160,6 +160,15 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Dovolite strani { $origin } poslušanje zvoka tega zavihka?
+webrtc-allow-share-camera = Dovolite { $origin } uporabo kamere?
+webrtc-allow-share-microphone = Dovolite { $origin } uporabo mikrofona?
+webrtc-allow-share-screen = Dovolite { $origin } ogled vašega zaslona?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Dovolite { $origin } uporabo drugih naprav za predvajanje zvoka?
+webrtc-allow-share-camera-and-microphone = Dovolite { $origin } uporabo kamere in mikrofona?
+webrtc-allow-share-camera-and-audio-capture = Dovolite { $origin } uporabo kamere in poslušanje zvoka tega zavihka?
 webrtc-allow-share-screen-and-microphone = Dovolite strani { $origin } uporabo mikrofona in ogled vašega zaslona?
 webrtc-allow-share-screen-and-audio-capture = Dovolite strani { $origin } poslušanje zvoka tega zavihka in ogled vašega zaslona?
 
@@ -167,6 +176,13 @@ webrtc-allow-share-screen-and-audio-capture = Dovolite strani { $origin } poslu�
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Dovolite { $origin }, da strani { $thirdParty } omogoči dostop do vaše kamere?
+webrtc-allow-share-microphone-unsafe-delegations = Dovolite { $origin }, da strani { $thirdParty } omogoči dostop do vašega mikrofona?
+webrtc-allow-share-screen-unsafe-delegation = Dovolite { $origin }, da strani { $thirdParty } dovoli ogled vašega zaslona?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Dovolite { $origin }, da strani { $thirdParty } omogoči dostop do drugih naprav za predvajanje zvoka?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Dovolite { $origin }, da strani { $thirdParty } omogoči dostop do vaše kamere in mikrofona?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Dovolite { $origin }, da { $thirdParty } omogoči dostop do vaše kamere in poslušanje zvoka zavihka?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Dovolite { $origin }, da { $thirdParty } omogoči dostop do vašega mikrofona in ogled vašega zaslona?
 webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dovolite { $origin }, da { $thirdParty } omogoči poslušanje zvoka zavihka in ogled vašega zaslona?
@@ -194,9 +210,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Dovoli
     .accesskey = D
+webrtc-action-block =
+    .label = Zavrni
+    .accesskey = Z
+webrtc-action-always-block =
+    .label = Vedno zavrni
+    .accesskey = V
+webrtc-action-not-now =
+    .label = Ne zdaj
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Zapomni si to odločitev
+webrtc-mute-notifications-checkbox = Med skupno rabo izklopi obvestila spletnega mesta
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne more dovoliti trajnega dostopa do vašega zaslona.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne more dovoliti trajnega dostopa do zvoka tega zavihka, ne da bi vprašal, kateri zavihek želite deliti.
 webrtc-reason-for-no-permanent-allow-insecure = Vaša povezava na to stran ni varna. Da vas zaščiti, bo { -brand-short-name } dovolil dostop samo za to sejo.
