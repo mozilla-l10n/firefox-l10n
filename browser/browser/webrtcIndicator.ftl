@@ -130,6 +130,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = കൂടുതല്‍ അറിയുക
 webrtc-share-entire-screen = പൂര്‍ണ്ണ സ്ക്രീന്‍
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -145,6 +146,13 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = അനുവദിക്കുക
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = ഈ തീരുമാനം ഓര്‍ത്തു്വയ്ക്കുക
+webrtc-reason-for-no-permanent-allow-screen = നിങ്ങളുടെ സ്ക്രീനിലേക്ക് ശാശ്വതമായ ആക്സസ്സ് { -brand-short-name } നു അനുവദിക്കാനാവില്ല.
+webrtc-reason-for-no-permanent-allow-audio = ഏതാണ് ടാബാണ് പങ്കിടുന്നത് എന്ന് ചോദിക്കാതെ { -brand-short-name } നു നിങ്ങളുടെ ടാബിന്റെ ഓഡിയോയിലേക്ക് ശാശ്വതമായ ആക്സസ്സ് അനുവദിക്കാനാവില്ല.
+webrtc-reason-for-no-permanent-allow-insecure = ഈ സൈറ്റിലേക്കുള്ള നിങ്ങളുടെ കണക്ഷൻ സുരക്ഷിതമല്ല. നിങ്ങളെ സംരക്ഷിക്കുന്നതിനായി, { -brand-short-name } ഈ സെഷനിലേക്കുള്ള പ്രവേശനം മാത്രമേ അനുവദിക്കുകയുള്ളൂ.
