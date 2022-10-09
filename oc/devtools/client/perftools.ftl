@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Talha del tap :
-
 perftools-custom-threads-label = Apondre de fils d’execucion personalizats per nom :
-
 perftools-devtools-interval-label = Interval :
 perftools-devtools-threads-label = Fils d’execucion :
 perftools-devtools-settings-label = Paramètres
@@ -84,6 +82,8 @@ perftools-thread-render-backend =
     .title = Lo fila d’execucion RenderBackend de WebRender
 perftools-thread-paint-worker =
     .title = Quand la pintura es fòra fil d’execucion principal es activada, lo fil ont se realiza la pintura
+perftools-thread-timer =
+    .title = Minutadors gerits pel fil d’execucion (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Lo calcul de l’estil es partejat entre mantun fial
 pref-thread-stream-trans =
@@ -112,7 +112,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Ignorar las seleccion al dessús e enregistrar totes los fils
-
 perftools-tools-threads-input-label =
     .title = Aquestes noms de fil d’execucion son una lista separada per de virgulas utilizada per activar lo perfilatge dels fils dins lo perfilador. Lo nom fa sonque mestièr d’una correspondéncia parciala del nom del fil d’inclure. Es sensible als espacis.
 
@@ -120,7 +119,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novetat</b> { -profiler-brand-name } es ara integ{ -profiler-brand-name }rat a las aisinas de desvolopaire. <a>Ne saber mai</a> a prepaus d’aquesta aisina novèla.
-
 perftools-onboarding-close-button =
     .aria-label = Tampar lo messatge d’acuèlh
 
@@ -133,22 +131,17 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Desvolopaire web
 perftools-presets-web-developer-description = Reglatge recomandat pel desbugatge de la màger part de las aplicacions amb pauca subrecarga.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Reglatge recomandat pel perfilatge de { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Acceleracion grafica
 perftools-presets-graphics-description = Preconfiguracion per analisar los bugs grafics dins { -brand-shorter-name }.
-
 perftools-presets-media-label = Multimèdia
 perftools-presets-media-description2 = Preconfiguracion per analisar los bugs àudio e vidèo dins { -brand-shorter-name }.
-
 perftools-presets-networking-label = Ret
 perftools-presets-networking-description = Preconfiguracion per analisar los bugs de ret { -brand-shorter-name }.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
-
+perftools-presets-power-description = Preconfiguracion per analisar las avarias ligada a la consomacion energetica dins { -brand-shorter-name }, amb una subrecarga febla.
 perftools-presets-custom-label = Personalizat
 
 ##
