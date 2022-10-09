@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Delingsvisar
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Delingsvisar
 
 ## Used as list items in sharing menu
 
@@ -148,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Tillate { $origin } å høyre på lyden i denne fana?
 webrtc-allow-share-camera = Tillate { $origin } å bruke kameraet ditt?
+webrtc-allow-share-microphone = Tillate { $origin } å bruke mikrofonen din?
+webrtc-allow-share-screen = Tillate { $origin } tå sjå skjermen din?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Tillate { $origin } å bruke andre høgtalarar?
+webrtc-allow-share-camera-and-microphone = Tillate { $origin } å bruke kameraet og mikrofonen din?
+webrtc-allow-share-camera-and-audio-capture = Tilate { $origin } å bruke kameraet ditt og lytte på lyden i denne fana?
+webrtc-allow-share-screen-and-microphone = Tillate { $origin } å bruke mikrofonen din og sjå skjermen din?
+webrtc-allow-share-screen-and-audio-capture = Tillate { $origin } å lytte på lyden i denne fana og sjå skjermen din?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til kameraet ditt?
+webrtc-allow-share-microphone-unsafe-delegations = Tillate { $origin } å gi { $thirdParty } tilgang til mikrofonen din?
+webrtc-allow-share-screen-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } løyve til å sjå skjermen din?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å andre høgtalarar?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til kameraet og mikrofonen din?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til kameraet ditt og høyre på lyden i denne fana?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til mikrofon en din og sjå skjermen din?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } løyve til å høyre på lyden i denne fana og sjå skjermen din?
 
 ##
 
+webrtc-share-screen-warning = Del skjermen din berre med nettstadar du stolar på. Deling kan tillate villeiande nettstadar å surfe som deg og stele dei private dataa dine.
+webrtc-share-browser-warning = Del berre { -brand-short-name } med nettstadar du stolar på. Deling kan tillate villeiande nettstadar å surfe som deg og stele dei privata dataa dine.
 webrtc-share-screen-learn-more = Les meir
+webrtc-pick-window-or-screen = Vel vindauge eller skjerm
 webrtc-share-entire-screen = Heile skjermen
+webrtc-share-pipe-wire-portal = Bruk innstillingane til operativsystemet
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Skjerm { $monitorIndex }
@@ -176,9 +202,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Tillat
     .accesskey = T
+webrtc-action-block =
+    .label = Blokker
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Blokker alltid
+    .accesskey = k
 
 ##
 
 webrtc-remember-allow-checkbox = Hugs dette valet
+webrtc-mute-notifications-checkbox = Slå av nettstadvarsel mesn du deler
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikkje tillate permanent tilgang til skjermen din.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikkje tillate permanent tilgang til lyden på fana di utan å spørje kva for fane som skal delast.
+webrtc-reason-for-no-permanent-allow-insecure = Tilkoplinga di til denne nettstaden er ikkje trygg. For å beskytte deg, vil { -brand-short-name } berre tillate tilgang for denne økta.
