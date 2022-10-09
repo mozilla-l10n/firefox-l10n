@@ -126,23 +126,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Izinkan { $origin } untuk mendengarkan suara tab ini?
+webrtc-allow-share-camera = Izinkan { $origin } untuk menggunakan kamera Anda?
+webrtc-allow-share-microphone = Izinkan { $origin } untuk menggunakan mikrofon Anda?
+webrtc-allow-share-screen = Izinkan { $origin } untuk melihat layar Anda?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = Izinkan { $origin } untuk menggunakan pengeras suara lainnya?
+webrtc-allow-share-camera-and-microphone = Izinkan { $origin } untuk menggunakan kamera dan mikrofon Anda?
+webrtc-allow-share-camera-and-audio-capture = Izinkan { $origin } untuk menggunakan kamera dan mendengarkan suara tab ini?
+webrtc-allow-share-screen-and-microphone = Izinkan { $origin } untuk menggunakan mikrofon dan melihat layar Anda?
+webrtc-allow-share-screen-and-audio-capture = Izinkan { $origin } untuk mendengarkan suara tab ini dan melihat layar Anda?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke kamera Anda?
+webrtc-allow-share-microphone-unsafe-delegations = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke mikrofon Anda?
+webrtc-allow-share-screen-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } untuk melihat layar Anda?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke pengeras suara lain?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke kamera dan mikrofon Anda?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke kamera Anda dan mendengarkan audio dari tab ini?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke mikrofon Anda dan melihat layar Anda?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } untuk mendengarkan audio dari tab ini dan melihat layar Anda?
 
 ##
 
+webrtc-share-screen-warning = Hanya bagikan layar dengan situs yang Anda percaya. Berbagi layar memungkinkan situs penipuan untuk menjelajah sebagai Anda dan mencuri data pribadi Anda.
+webrtc-share-browser-warning = Hanya bagikan { -brand-short-name } dengan situs yang Anda percaya. Berbagi memungkinkan situs penipuan untuk menjelajah sebagai Anda dan mencuri data pribadi Anda.
 webrtc-share-screen-learn-more = Pelajari Lebih Lanjut
 webrtc-pick-window-or-screen = Pilih Jendela atau Layar
 webrtc-share-entire-screen = Seluruh layar
+webrtc-share-pipe-wire-portal = Gunakan pengaturan sistem operasi
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Layar { $monitorIndex }
@@ -156,6 +174,12 @@ webrtc-share-application = { $appName } ({ $windowCount } jendela)
 webrtc-action-allow =
     .label = Izinkan
     .accesskey = I
+webrtc-action-block =
+    .label = Blokir
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Selalu blokir
+    .accesskey = S
 webrtc-action-not-now =
     .label = Jangan sekarang
     .accesskey = J
@@ -163,6 +187,7 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Ingat pilihan ini
+webrtc-mute-notifications-checkbox = Bisukan notifikasi situs web ketika sedang berbagi
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } tidak bisa mengizinkan akses permanen ke layar Anda.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } tidak dapat mengizinkan akses audio tab secara permanen tanpa menanyakan tab mana yang dibagi.
 webrtc-reason-for-no-permanent-allow-insecure = Sambungan ke situs ini tidak aman. Untuk melindungi Anda, { -brand-short-name } hanya akan mengizinkan akses untuk sesi ini saja.
