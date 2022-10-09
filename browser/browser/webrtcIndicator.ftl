@@ -18,15 +18,26 @@ webrtc-indicator-title = { -brand-short-name } - Індыкатар суполь
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = камера
+webrtc-item-microphone = мікрафон
+webrtc-item-audio-capture = аўдыё карткі
+webrtc-item-application = прыкладанне
+webrtc-item-screen = экран
+webrtc-item-window = акно
 webrtc-item-browser = картка
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Невядомая крыніца
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Прылады з доступам да картак
+    .accesskey = п
 webrtc-sharing-window = Вы даяце супольны доступ да іншага акна праграмы.
 webrtc-sharing-browser-window = Вы адкрываеце доступ да { -brand-short-name }.
 webrtc-sharing-screen = Вы даяце супольны доступ да ўсяго экрана.
@@ -58,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Існуе сумесны доступ да вашай камеры і мікрафона. Пстрыкніце для кантролю сумеснага доступу.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Існуе сумесны доступ да вашай камеры. Пстрыкніце для кантролю сумеснага доступу.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Існуе сумесны доступ да вашага мікрафона. Пстрыкніце для кантролю сумеснага доступу.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Існуе сумесны доступ да прыкладання. Пстрыкніце для кантролю сумеснага доступу.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Існуе сумесны доступ да вашага экрана. Пстрыкніце для кантролю сумеснага доступу.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Існуе сумесны доступ да вакна. Пстрыкніце для кантролю сумеснага доступу.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Існуе сумесны доступ да карткі. Пстрыкніце для кантролю сумеснага доступу.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -77,10 +102,19 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = Падрабязней
+webrtc-share-entire-screen = Увесь экран
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Экран { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Дазволіць
+    .accesskey = Д
 
 ##
 
+webrtc-remember-allow-checkbox = Памятаць гэтае рашэнне
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не можа даць сталы доступ да аўдыё з карткі, не запытваючы, якой з картак дзяліцца.
