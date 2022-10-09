@@ -69,6 +69,10 @@ webrtc-screen-system-menu =
 
 webrtc-indicator-sharing-camera-and-microphone =
     .tooltiptext = К вашей камере и микрофону имеется доступ. Щёлкните для контроля доступа.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = К вашей камере имеется доступ. Щёлкните для контроля доступа.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = К вашему микрофону имеется доступ. Щёлкните для контроля доступа.
 webrtc-indicator-sharing-application =
     .tooltiptext = К приложению имеется доступ. Щёлкните для контроля доступа.
 webrtc-indicator-sharing-screen =
@@ -175,6 +179,15 @@ webrtc-share-pipe-wire-portal = Использовать настройки оп
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Экран { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } окно)
+        [few] { $appName } ({ $windowCount } окна)
+       *[many] { $appName } ({ $windowCount } окон)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
@@ -190,4 +203,6 @@ webrtc-action-not-now =
 
 ##
 
+webrtc-remember-allow-checkbox = Запомнить это решение
 webrtc-mute-notifications-checkbox = Отключить уведомления веб-сайтов при предоставлении доступа
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не может предоставить постоянный доступ к вашему экрану.
