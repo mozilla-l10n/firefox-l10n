@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicatur da cundivisiun
 webrtc-indicator-window =
     .title = { -brand-short-name } - Indicatur da cundivisiun
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Ti cundividas tia camera. Clicca per controllar la cundivisiun.
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = Permetter a { $origin } da tadlar 
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } il dretg da tadlar il tun da quest tab?
 webrtc-allow-share-camera-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } l'access a tia camera?
 webrtc-allow-share-microphone-unsafe-delegations = Permetter a { $origin } da dar a { $thirdParty } l'access a tes microfon?
 webrtc-allow-share-screen-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } il dretg da vesair tes visur?
