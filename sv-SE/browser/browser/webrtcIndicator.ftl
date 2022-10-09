@@ -18,14 +18,26 @@ webrtc-indicator-title = { -brand-short-name } - Delningsindikator
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofon
+webrtc-item-audio-capture = flik ljud
+webrtc-item-application = program
+webrtc-item-screen = skärm
+webrtc-item-window = fönster
+webrtc-item-browser = flik
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Okänt ursprung
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Flikar som delar enheter
+    .accesskey = e
 webrtc-sharing-window = Du delar ett annat programfönster.
 webrtc-sharing-browser-window = Du delar { -brand-short-name }.
 webrtc-sharing-screen = Du delar din hela skärm.
@@ -57,6 +69,16 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Din kamera och mikrofon delas. Klicka för att kontrollera delning.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Din kamera delas. Klicka för att kontrollera delning
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Din mikrofon delas. Klicka för att kontrollera delning.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Ett program delas. Klicka för att kontrollera delning.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = En flik delas. Klicka för att kontrollera delning.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +86,46 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Kontrollera delning
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Kontrollera delning på “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Delar kamera med “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Delar mikrofon med “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Delar mikrofon med { $tabCount } flik
+           *[other] { " " }Delar mikrofon med { $tabCount } flikar
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Delar ett program med “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Dela ett program med { $tabCount } flik
+           *[other] Dela program med { $tabCount } flikar
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Delar skärm med “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Delar skärm med { $tabCount } flik
+           *[other] { " " }Delar skärm med { $tabCount } flikar
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Delar ett fönster med “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Delar fönster med { $tabCount } flik
+           *[other] { " " }Delar fönstret med { $tabCount } flikar
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Delar en flik med “{ $streamTitle }”
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +138,19 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = Läs mer
+webrtc-share-entire-screen = Hela skärmen
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Skärm { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } fönster)
+       *[other] { $appName } ({ $windowCount } fönster)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
