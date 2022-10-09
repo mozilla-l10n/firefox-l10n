@@ -162,5 +162,6 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = ఈ నిర్ణయాన్ని గుర్తుంచుకో
 webrtc-mute-notifications-checkbox = పంచుకుంటున్నప్పుడు వెబ్‌సైటు గమనింపులను మౌనించు
+webrtc-reason-for-no-permanent-allow-screen = మీ తెరకు శాశ్వత ప్రాప్యతను { -brand-short-name } అనుమతించదు.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ఏ ట్యాబు పంచుకోవాలో అడగకుండా మీ ట్యాబు యొక్క ఆడియోను శాశ్వతంగా ప్రాప్యత చేసుటకు అనుమతించదు.
 webrtc-reason-for-no-permanent-allow-insecure = ఈ సైటుకు మీ అనుసంధానము సురక్షితమైనది కాదు. మిమ్మల్ని రక్షించుటకు, { -brand-short-name } కేవలం ఈ సెషన్ కు మాత్రమే ప్రాప్యతను అనుమతిస్తుంది.
