@@ -20,9 +20,11 @@ webrtc-indicator-title = { -brand-short-name } - Споделяне
 
 webrtc-item-camera = камера
 webrtc-item-microphone = микрофон
+webrtc-item-audio-capture = звук от раздел
 webrtc-item-application = приложение
 webrtc-item-screen = екран
 webrtc-item-window = прозорец
+webrtc-item-browser = раздел
 
 ##
 
@@ -33,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = Неизвестен произход
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Устройства споделящи раздели
+    .accesskey = У
 webrtc-sharing-window = Споделяте друг прозорец на приложението.
 webrtc-sharing-browser-window = Споделяте { -brand-short-name }.
 webrtc-sharing-screen = Споделяте целия си екран
@@ -59,6 +64,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Споделяте своя екран. Натиснете за настройка на споделянето.
 webrtc-indicator-sharing-window =
     .tooltiptext = Споделяте прозорец. Натиснете за настройка на споделянето.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Споделяте раздел. Натиснете за настройка на споделянето.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -80,6 +87,8 @@ webrtc-indicator-menuitem-sharing-screen-with =
     .label = Споделяте екран с „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Споделяте прозорец с „{ $streamTitle }“
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Споделяте раздел с „{ $streamTitle }“
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
