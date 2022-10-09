@@ -35,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = Origen desconocido
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Dispositivos que comparten pestañas
+    .accesskey = d
 webrtc-sharing-window = Estás compartiendo otra ventana de aplicación.
 webrtc-sharing-browser-window = Estás compartiendo { -brand-short-name }.
 webrtc-sharing-screen = Estás compartiendo toda tu pantalla.
@@ -205,3 +208,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Recordar esta decisión
 webrtc-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparte
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no permite que se acceda de manera permanente a tu monitor.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no permite acceso permanente al audio de tu pestaña sin preguntar cuál audio se va a compartir.
+webrtc-reason-for-no-permanent-allow-insecure = La conexión a este sitio no es segura. Por tu seguridad, { -brand-short-name } solo permitirá el acceso por esta razón.
