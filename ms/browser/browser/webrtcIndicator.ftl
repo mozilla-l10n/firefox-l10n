@@ -32,6 +32,9 @@ webrtc-sharing-menuitem-unknown-host = Origin tidak diketahui
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Peranti perkongsian tab
+    .accesskey = a
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
