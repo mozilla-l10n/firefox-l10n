@@ -121,6 +121,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = 详细了解
+webrtc-pick-window-or-screen = 选择窗口或屏幕
 webrtc-share-entire-screen = 整个屏幕
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
