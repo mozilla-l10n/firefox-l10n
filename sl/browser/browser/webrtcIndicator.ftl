@@ -175,6 +175,9 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dovolite { $orig
 
 webrtc-share-entire-screen = Celoten zaslon
 # Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Zaslon { $monitorIndex }
+# Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
 webrtc-share-application =
