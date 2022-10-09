@@ -19,6 +19,7 @@ webrtc-indicator-title = { -brand-short-name } - Merker ar rannañ
 ## Used as list items in sharing menu
 
 webrtc-item-camera = kamera
+webrtc-item-microphone = klevell
 webrtc-item-audio-capture = aodio an ivinell
 webrtc-item-application = arload
 webrtc-item-screen = skramm
@@ -68,8 +69,12 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Emaoc'h o rannañ ho kamera hag ho klevell. Klikit evit reoliñ ar rannañ.
 webrtc-indicator-sharing-camera =
     .tooltiptext = Emaoc'h o rannañ ho kamera. Klikit evit reoliñ ar rannañ.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Emaoc'h o rannañ ho klevell. Klikit evit reoliñ ar rannañ.
 webrtc-indicator-sharing-application =
     .tooltiptext = Emaoc'h o rannañ un arload. Klikit evit reoliñ ar rannañ.
 webrtc-indicator-sharing-screen =
@@ -91,14 +96,72 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = Reoliñ ar rannañ gant “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = O rannañ ho kamera gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O rannañ ho kamera gant { $tabCount } ivinell
+            [two] O rannañ ho kamera gant { $tabCount } ivinell
+            [few] O rannañ ho kamera gant { $tabCount } ivinell
+            [many] O rannañ ho kamera gant { $tabCount } a ivinelloù
+           *[other] O rannañ ho kamera gant { $tabCount } ivinell
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = O rannañ ho klevell gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O rannañ ho klevell gant { $tabCount } ivinell
+            [two] O rannañ ho klevell gant { $tabCount } ivinell
+            [few] O rannañ ho klevell gant { $tabCount } ivinell
+            [many] O rannañ ho klevell gant { $tabCount } a ivinelloù
+           *[other] O rannañ ho klevell gant { $tabCount } ivinell
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = O rannañ un arload gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O rannañ un arload gant { $tabCount } ivinell
+            [two] O rannañ un arload gant { $tabCount } ivinell
+            [few] O rannañ un arload gant { $tabCount } ivinell
+            [many] O rannañ un arload gant { $tabCount } a ivinelloù
+           *[other] O rannañ un arload gant { $tabCount } ivinell
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = O rannañ ho skramm gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O rannañ ho skramm gant { $tabCount } ivinell
+            [two] O rannañ ho skramm gant { $tabCount } ivinell
+            [few] O rannañ ho skramm gant { $tabCount } ivinell
+            [many] O rannañ ho skramm gant { $tabCount } a ivinelloù
+           *[other] O rannañ ho skramm gant { $tabCount } ivinell
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = O rannañ ur prenestr gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O rannañ ur prenestr gant { $tabCount } ivinell
+            [two] O rannañ ur prenestr gant { $tabCount } ivinell
+            [few] O rannañ ur prenestr gant { $tabCount } ivinell
+            [many] O rannañ ur prenestr gant { $tabCount } a ivinelloù
+           *[other] O rannañ ur prenestr gant { $tabCount } ivinell
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = O rannañ un ivinell gant “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O rannañ un Ivinell gant { $tabCount } ivinell
+            [two] O rannañ un Ivinell gant { $tabCount } ivinell
+            [few] O rannañ un Ivinell gant { $tabCount } ivinell
+            [many] O rannañ un Ivinell gant { $tabCount } a ivinelloù
+           *[other] O rannañ un Ivinell gant { $tabCount } ivinell
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -112,20 +175,39 @@ webrtc-indicator-menuitem-sharing-browser-with =
 ##
 
 webrtc-share-screen-learn-more = Gouzout hiroc'h
+webrtc-pick-window-or-screen = Diuzit ar prenestr pe ar skramm
 webrtc-share-entire-screen = Skramm a-bezh
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Skramm { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } prenestr)
+        [two] { $appName } ({ $windowCount } brenestr)
+        [few] { $appName } ({ $windowCount } frenestr)
+        [many] { $appName } ({ $windowCount } a brenestroù)
+       *[other] { $appName } ({ $windowCount } prenestr)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
 webrtc-action-allow =
     .label = Aotren
     .accesskey = A
+webrtc-action-block =
+    .label = Stankañ
+    .accesskey = S
+webrtc-action-always-block =
+    .label = Stankañ bepred
+    .accesskey = b
 
 ##
 
 webrtc-remember-allow-checkbox = Derc'hel soñj en diviz-mañ
+webrtc-mute-notifications-checkbox = Mudañ ar rebuzadurioù lec’hienn pa vezit ho rannañ
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } n'hall ket aotren un haeziñ diastal d'ho skramm.
 webrtc-reason-for-no-permanent-allow-audio = N'hall ket { -brand-short-name } aotren haeziñ aodio hoc'h ivinell en un doare peurzalc'hus hep goulenn pehini rannañ.
 webrtc-reason-for-no-permanent-allow-insecure = Arvarus eo ho kennask d'al lec'hienn. Evit ho tiogelaat e vo aotreet an haeziñ gant { -brand-short-name } en estez-mañ nemetken.
