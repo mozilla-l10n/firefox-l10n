@@ -146,6 +146,13 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = অনুমতি
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = এই সিদ্ধান্তটি মনে রাখবেন
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } আপনার স্ক্রিন ব্যবহারের জন্য স্থায়ীভাবে অনুমতি দেয় না।
+webrtc-reason-for-no-permanent-allow-audio = কোন ট্যাব শেয়ার করা হবে সেটা না জেনে { -brand-short-name } আপনার ট্যাবের অডিওকে স্থায়ীভাবে ব্যবহারের অনুমতি দিতে পারে না।
+webrtc-reason-for-no-permanent-allow-insecure = এই সাইটে আপনার সংযোগটি নিরাপদ নয়। আপনার সুরক্ষার জন্য, { -brand-short-name } শুধুমাত্র এই সেশনের জন্য প্রবেশাধিকার অনুমোদন করবে।
