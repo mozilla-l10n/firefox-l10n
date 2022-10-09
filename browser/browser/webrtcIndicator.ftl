@@ -16,6 +16,7 @@
 ## Used as list items in sharing menu
 
 webrtc-item-camera = కేమెరా
+webrtc-item-audio-capture = ట్యాబ్ ఆడియో
 webrtc-item-application = అనువర్తనం
 webrtc-item-screen = తెర
 webrtc-item-window = విండో
@@ -30,6 +31,9 @@ webrtc-sharing-menuitem-unknown-host = తెలియని మూలం
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = పరికరాలను పంచుకుంటున్న ట్యాబ్ లు
+    .accesskey = d
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -57,6 +61,7 @@ webrtc-sharing-menuitem =
 
 ##
 
+webrtc-share-screen-learn-more = ఇంకా తెలుసుకోండి
 webrtc-share-entire-screen = మొత్తం తెర
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -75,3 +80,5 @@ webrtc-share-application =
 
 ##
 
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ఏ ట్యాబు పంచుకోవాలో అడగకుండా మీ ట్యాబు యొక్క ఆడియోను శాశ్వతంగా ప్రాప్యత చేసుటకు అనుమతించదు.
+webrtc-reason-for-no-permanent-allow-insecure = ఈ సైటుకు మీ అనుసంధానము సురక్షితమైనది కాదు. మిమ్మల్ని రక్షించుటకు, { -brand-short-name } కేవలం ఈ సెషన్ కు మాత్రమే ప్రాప్యతను అనుమతిస్తుంది.
