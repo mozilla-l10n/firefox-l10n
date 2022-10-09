@@ -148,6 +148,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-camera = Tillate { $origin } å bruke kameraet ditt?
 
 ## Variables:
 ##   $origin (String): the first party origin.
