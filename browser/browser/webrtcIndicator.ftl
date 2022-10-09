@@ -131,6 +131,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = Funda Okungakumbi
+webrtc-share-entire-screen = Sonke iskrini
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Iskrini { $monitorIndex }
