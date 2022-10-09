@@ -110,11 +110,17 @@ webrtc-indicator-menuitem-sharing-browser-with =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Izinkan { $origin } untuk menggunakan pengeras suara lainnya?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke pengeras suara lain?
 
 ##
 
