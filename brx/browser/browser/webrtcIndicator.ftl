@@ -118,6 +118,7 @@ webrtc-indicator-menuitem-sharing-browser-with =
 
 ##
 
+webrtc-share-screen-learn-more = गोबां सोलों
 webrtc-share-entire-screen = गासै स्क्रिन
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
