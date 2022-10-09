@@ -18,9 +18,16 @@ webrtc-indicator-title = { -brand-short-name } - Chỉ số chia sẻ
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = camera
+webrtc-item-application = ứng dụng
+webrtc-item-screen = màn hình
+webrtc-item-window = cửa sổ
+webrtc-item-browser = thẻ
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Không rõ nguồn gốc
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -57,6 +64,16 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Bạn đang chia sẻ micro. Nhấn vào đây để kiểm soát những gì được chia sẻ.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Bạn đang chia sẻ một ứng dụng. Nhấn vào đây để kiểm soát những gì được chia sẻ.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Bạn đang chia sẻ màn hình. Nhấn vào đây để kiểm soát những gì bạn chia sẻ.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Bạn đang chia sẻ một cửa sổ. Nhấn vào đây để kiểm soát những gì bạn chia sẻ.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Bạn đang chia sẻ một thẻ. Nhấn vào đây để kiểm soát những gì bạn chia sẻ.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +81,18 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Kiểm soát chia sẻ
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Kiểm soát chia sẻ với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Chia sẻ micrô với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Chia sẻ một ứng dụng với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Chia sẻ màn hình với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Chia sẻ một cửa sổ với "{ $streamTitle }"
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +105,10 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Toàn bộ màn hình
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Màn hình { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
