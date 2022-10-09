@@ -139,6 +139,7 @@ webrtc-allow-share-speaker-unsafe-delegation = Izinkan { $origin } untuk memberi
 ##
 
 webrtc-share-screen-learn-more = Pelajari Lebih Lanjut
+webrtc-pick-window-or-screen = Pilih Jendela atau Layar
 webrtc-share-entire-screen = Seluruh layar
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
