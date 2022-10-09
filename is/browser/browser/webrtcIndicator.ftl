@@ -18,14 +18,26 @@ webrtc-indicator-title = { -brand-short-name } — Deilingarvísir
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = myndavél
+webrtc-item-microphone = hljóðnemi
+webrtc-item-audio-capture = flipahljóð
+webrtc-item-application = forrit
+webrtc-item-screen = skjár
+webrtc-item-window = gluggi
+webrtc-item-browser = flipi
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Óþekktur uppruni
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Deildir flipar og tæki
+    .accesskey = D
 webrtc-sharing-window = Þú ert að deila öðrum forritsglugga.
 webrtc-sharing-browser-window = Þú ert að deila { -brand-short-name }.
 webrtc-sharing-screen = Þú ert að deila öllum skjánum þínum.
@@ -57,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Þú ert að deila myndavél og hljóðnema. Smelltu til að stjórna deilingu.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Þú ert að deila myndavél. Smelltu til að stjórna deilingu.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Þú ert að hljóðnema. Smelltu til að stjórna deilingu.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Þú ert að deila forriti. Smelltu til að stjórna deilingu.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Þú ert að deila skjá. Smelltu til að stjórna deilingu.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Þú ert að deila glugga. Smelltu til að stjórna deilingu.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Þú ert að deila flipa. Smelltu til að stjórna deilingu.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +90,60 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Stjórna deilingu
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Stjórna deilingu á “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Deila myndavél með “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deili myndavél með { $tabCount } flipa
+           *[other] Deili myndavél með { $tabCount } flipum
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Deila hljóðnema með “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deili hljóðnema með { $tabCount } flipa
+           *[other] Deili hljóðnema með { $tabCount } flipum
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Deila forriti með “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deili forriti með { $tabCount } flipa
+           *[other] Deili forriti með { $tabCount } flipum
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Deila skjá með “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deili skjá með { $tabCount } flipa
+           *[other] Deili skjá með { $tabCount } flipum
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Deila glugga með “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deili glugga með { $tabCount } flipa
+           *[other] Deili glugga með { $tabCount } flipum
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Deila flipa með “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deili flipa með { $tabCount } flipa
+           *[other] Deili flipum með { $tabCount } flipum
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,9 +156,28 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = Lesa meira
+webrtc-share-entire-screen = Allur skjárinn
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Skjár { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } gluggi)
+       *[other] { $appName } ({ $windowCount } gluggar)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Leyfa
+    .accesskey = a
 
 ##
 
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } leyfir ekki fastan aðgang að skjánum þínum.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } leyfir ekki fastan aðgang að flipum nema að spyrja hvaða flipa á að deila.
+webrtc-reason-for-no-permanent-allow-insecure = Tenging við vefsvæðið er ekki örugg. Þér til verndar, mun { -brand-short-name } aðeins leyfa aðgang fyrir þessa lotu.
