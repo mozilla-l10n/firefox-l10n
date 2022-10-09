@@ -176,6 +176,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permitir que { $
 webrtc-share-screen-warning = Apenas partilhe ecrãs com sites em que confia. Partilhar pode permitir que sites enganadores naveguem por si e que roubem os seus dados privados.
 webrtc-share-browser-warning = Apenas partilhe o { -brand-short-name } com sites em que confia. Partilhar pode permitir que sites enganadores naveguem por si e que roubem os seus dados privados.
 webrtc-share-screen-learn-more = Saber mais
+webrtc-pick-window-or-screen = Selecionar janela ou ecrã
 webrtc-share-entire-screen = Ecrã completo
 webrtc-share-pipe-wire-portal = Utilizar definições do sistema operativo
 # Variables:
@@ -207,4 +208,5 @@ webrtc-action-always-block =
 webrtc-remember-allow-checkbox = Memorizar esta decisão
 webrtc-mute-notifications-checkbox = Silenciar notificações de sites durante a partilha
 webrtc-reason-for-no-permanent-allow-screen = O { -brand-short-name } não pode permitir acesso permanente ao seu ecrã.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } não pode permitir acesso permanente ao áudio do separador sem lhe perguntar qual separador partilhar.
 webrtc-reason-for-no-permanent-allow-insecure = A sua ligação a este site não é segura. Para lhe proteger, o { -brand-short-name } irá apenas permitir acesso para esta sessão.
