@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (პირადი ფანჯარა)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (პირადი ფანჯარა)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (პირადი ფანჯარა)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (პირადი ფანჯარა)
-
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -54,7 +52,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } – პირადი ფანჯარა
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } პირადი ფანჯარა
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -74,15 +71,12 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } – პირადი ფანჯარა
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – პირადი ფანჯარა
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 private-browsing-shortcut-text = { -brand-short-name } – პირადი ფანჯარა
-
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } – პირადი რეჟიმი
 
 ##
@@ -154,7 +148,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = აკრიფეთ ნაკლები, მონახეთ მეტი: გამოიყენეთ { $engineName } საძიებოდ პირდაპირ მისამართების ველიდან.
 urlbar-search-tips-redirect-2 = დაიწყეთ ძიება და შემოთავაზებებს მოგაწვდით { $engineName } ან იხილავთ დათვალიერების ისტორიიდან.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = აირჩიეთ ეს მალსახმობი, რომ უფრო სწრაფად იპოვოთ ის, რაც გჭირდებათ.
@@ -164,7 +157,6 @@ urlbar-tabtosearch-onboard = აირჩიეთ ეს მალსახმ�
 urlbar-search-mode-bookmarks = სანიშნები
 urlbar-search-mode-tabs = ჩანართები
 urlbar-search-mode-history = ისტორია
-
 urlbar-search-mode-actions = მოქმედებები
 
 ##
@@ -193,12 +185,10 @@ urlbar-midi-blocked =
     .tooltiptext = ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.
 urlbar-install-blocked =
     .tooltiptext = ამ საიტისთვის დამატების ჩადგმის უფლება შეზღუდული გაქვთ.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = სანიშნის ჩასწორება ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,7 +200,6 @@ page-action-manage-extension =
     .label = გაფართოების მართვა…
 page-action-remove-extension =
     .label = გაფართოების მოცილება
-
 page-action-manage-extension2 =
     .label = გაფართოების მართვა…
     .accesskey = ფ
@@ -232,10 +221,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = მოსაძიებლად, შეგიძლიათ გამოიყენოთ:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ძიების პარამეტრების შეცვლა
-
 search-one-offs-context-open-new-tab =
     .label = ძიება ახალ ჩანართში
     .accesskey = ნ
@@ -245,14 +232,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ნაგულისხმევ საძიებოდ დაყენება პირად ფანჯრებში
     .accesskey = პ
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -279,7 +264,6 @@ search-one-offs-tabs =
     .tooltiptext = ჩანართები ({ $restrict })
 search-one-offs-history =
     .tooltiptext = ისტორია ({ $restrict })
-
 search-one-offs-actions =
     .tooltiptext = მოქმედებები ({ $restrict })
 
@@ -290,73 +274,55 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = დამატებების ნახვა
 quickactions-cmd-addons = დამატებები, გაფართოებები, თემები
-
 quickactions-cmd-addons2 = დამატებები
-
 # Opens the bookmarks library window
 quickactions-bookmarks = სანიშნების ნახვა
 quickactions-cmd-bookmarks = სანიშნები
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ისტორიის გასუფთავება
 quickactions-cmd-clearhistory = ისტორიის გასუფთავება
-
 # Opens about:downloads page
 quickactions-downloads = ჩამოტვირთვების გახსნა
 quickactions-cmd-downloads = ჩამოტვირთვები
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = გაფართოებების მართვა
 quickactions-cmd-extensions = გაფართოებები
-
 # Opens the devtools web inspector
 quickactions-inspector = გვერდის გამოკვლევა
 quickactions-cmd-inspector = გამოკვლევა, შემუშავება
-
 # Opens about:logins
 quickactions-logins = ანგარიშების ნახვა
 quickactions-cmd-logins = ანგარიშები და პაროლები
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = მოდულების მართვა
 quickactions-cmd-plugins = მოდულები
-
 # Opens the print dialog
 quickactions-print = ამობეჭდვა
 quickactions-cmd-print = ამობეჭდვა
-
 # Opens a new private browsing window
 quickactions-private = პირადი ფანჯრის გახსნა
 quickactions-cmd-private = პირადი თვალიერება
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = შეკეთდეს { -brand-short-name }
 quickactions-cmd-refresh = გაახლება
-
 # Restarts the browser
 quickactions-restart = ხელახლა გაეშვას { -brand-short-name }
 quickactions-cmd-restart = ხელახლა გაშვება
-
 # Opens the screenshot tool
 quickactions-screenshot2 = ეკრანის სურათის გადაღება
 quickactions-cmd-screenshot = ეკრანის ანაბეჭდი
-
 # Opens about:preferences
 quickactions-settings = პარამეტრების გახსნა
 quickactions-cmd-settings = პარამეტრები, მახასიათებლები, გამართვა
-
 # Opens about:addons page in the themes section
 quickactions-themes = თემების მართვა
 quickactions-cmd-themes = თემები
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = განახლდეს { -brand-short-name }
 quickactions-cmd-update = განახლება
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource = წყაროს ჩვენება
 quickactions-cmd-viewsource = წყაროს ნახვა, პირველწყარო
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ვრცლად სწრაფი მოქმედებების შესახებ
@@ -382,7 +348,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = ჩ
 bookmark-panel-save-button =
     .label = შენახვა
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -410,7 +375,6 @@ identity-passive-loaded = ამ გვერდის გარკვეულ�
 identity-active-loaded = ამ გვერდზე დაცვა გამორთული გაქვთ.
 identity-weak-encryption = ეს გვერდი სუსტ დაშიფვრას იყენებს.
 identity-insecure-login-forms = ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.
-
 identity-https-only-connection-upgraded = (განახლებული HTTPS-ზე)
 identity-https-only-label = მხოლოდ-HTTPS-რეჟიმი
 identity-https-only-dropdown-on =
@@ -422,11 +386,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = ჩართეთ მხოლოდ-HTTPS-რეჟიმი და { -brand-short-name } შეეცდება უსაფრთხო კავშირზე გადაყვანას, შესაძლო შემთხვევებში.
 identity-https-only-info-turn-off2 = თუ გვერდს ხარვეზები ექნება, დაგჭირდებათ მხოლოდ-HTTPS-რეჟიმის გამორთვა ამ საიტისთვის და გვერდის არასაიმედო HTTP-ით ჩატვირთვა.
 identity-https-only-info-no-upgrade = ვერ ხერხდება გადასვლა HTTP-დან.
-
 identity-permissions-storage-access-header = საიტთაშორისი ფუნთუშები
 identity-permissions-storage-access-hint = ამ მხარეებს შეუძლია გამოიყენოს საიტთაშორისი ფუნთუშები და მონაცემები, სანამ ამ საიტზე ხართ.
 identity-permissions-storage-access-learn-more = ვრცლად
-
 identity-permissions-reload-hint = ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.
 identity-clear-site-data =
     .label = საიტის ფაილებისა და მონაცემების წაშლა…
@@ -489,13 +451,11 @@ browser-tab-mute =
         [1] ᲩᲐᲜᲐᲠᲗᲘᲡ ᲓᲐᲓᲣᲛᲔᲑᲐ
        *[other] { $count } ᲩᲐᲜᲐᲠᲗᲘᲡ ᲓᲐᲓᲣᲛᲔᲑᲐ
     }
-
 browser-tab-unmute =
     { $count ->
         [1] ᲩᲐᲜᲐᲠᲗᲘᲡ ᲐᲮᲛᲝᲕᲐᲜᲔᲑᲐ
        *[other] { $count } ᲩᲐᲜᲐᲠᲗᲘᲡ ᲐᲮᲛᲝᲕᲐᲜᲔᲑᲐ
     }
-
 browser-tab-unblock =
     { $count ->
         [1] ᲒᲐᲨᲕᲔᲑᲐ ᲩᲐᲜᲐᲠᲗᲨᲘ
@@ -507,7 +467,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = სანიშნების გადმოტანა…
     .tooltiptext = სხვა ბრაუზერიდან გადმოტანილ სანიშნებს გამოიყენებს { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = სწრაფი წვდომისთვის, განათავსეთ თქვენი სანიშნები აქ, სანიშნების ზოლზე. <a data-l10n-name="manage-bookmarks">სანიშნების მართვა…</a>
 
 ## WebRTC Pop-up notifications
@@ -524,16 +483,16 @@ popup-select-microphone-icon =
     .tooltiptext = მიკროფონი
 popup-select-speaker-icon =
     .tooltiptext = დინამიკები
+popup-select-window-or-screen =
+    .label = ფანჯარა ან ეკრანი:
+    .accesskey = ფ
 popup-all-windows-shared = ეკრანზე ნაჩვენები ყველა ფანჯარა გაზიარდება.
-
 popup-screen-sharing-block =
     .label = აკრძალვა
     .accesskey = ა
-
 popup-screen-sharing-always-block =
     .label = ყოველთვის აიკრძალოს
     .accesskey = ლ
-
 popup-mute-notifications-checkbox = საიტის შეტყობინებების დადუმება გაზიარებისას
 
 ## WebRTC window or screen share tab switch warning
@@ -548,7 +507,6 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 მალსახმობის გამოსაყენებლად, ჯერ გახსენით DevTools, ვებშემუშავების მენიუდან.
-
 enable-devtools-popup-description2 = F12 მალსახმობის გამოსაყენებლად ჯერ გახსენით DevTools ბრაუზერის ხელსაწყობის მენიუდან.
 
 ## URL Bar
@@ -557,7 +515,6 @@ enable-devtools-popup-description2 = F12 მალსახმობის გ�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = მოძებნეთ ან შეიყვანეთ მისამართი
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -566,7 +523,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ინტერნეტში ძიება
     .aria-label = { $name } ძიება
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -575,32 +531,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიება { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიება სანიშნებში
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიება ისტორიაში
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიება ჩანართებში
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = მიუთითეთ საძიებო ფრაზა
     .aria-label = ძიების მოქმედებები
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = მოძებნეთ { $name } საძიებოთი ან შეიყვანეთ მისამართი
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -610,11 +560,9 @@ urlbar-permissions-granted =
     .tooltiptext = ამ საიტისთვის გარკვეული ნებართვები გაქვთ მითითებული.
 urlbar-switch-to-tab =
     .value = გადასვლა ჩანართზე:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = გაფართოება:
-
 urlbar-go-button =
     .tooltiptext = მისამართზე გადასვლა
 urlbar-page-action-button =
@@ -674,7 +622,6 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = სანიშნების ძიება
 urlbar-result-action-search-history = ისტორიის ძიება
 urlbar-result-action-search-tabs = ჩანართების ძიება
-
 urlbar-result-action-search-actions = ძიების მოქმედებები
 
 ## Labels shown above groups of urlbar results
@@ -683,14 +630,12 @@ urlbar-result-action-search-actions = ძიების მოქმედე�
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } შემოთავაზებები
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = სწრაფი მოქმედებები
@@ -702,12 +647,9 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> სრულ ეკრანზეა
 fullscreen-warning-no-domain = დოკუმენტი სრულ ეკრანზეა
-
-
 fullscreen-exit-button = სრული ეკრანიდან გამოსვლა (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = სრული ეკრანიდან გამოსვლა (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -717,7 +659,6 @@ pointerlock-warning-no-domain = ეს დოკუმენტი მართ�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>გვერდის ნაწილი უეცრად გაითიშა.</strong> თუ გსურთ, { -brand-product-name } გაეცნოს ამ ხარვეზს მალე გამოსასწორებლად, გთხოვთ გაგზავნოთ მოხსენება.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -773,10 +714,8 @@ bookmarks-tools =
     .label = სანიშნების ხელსაწყოები
 bookmarks-bookmark-edit-panel =
     .label = სანიშნის ჩასწორება
-
 bookmarks-subview-edit-bookmark =
     .label = ამ სანიშნის ჩასწორება…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -790,11 +729,9 @@ bookmarks-toolbar-placeholder =
     .title = სანიშნების ზოლის ხელსაწყოები
 bookmarks-toolbar-placeholder-button =
     .label = სანიშნების ზოლის ხელსაწყოები
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = მიმდინარე ჩანართის ჩანიშვნა
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = მიმდინარე ჩანართის ჩანიშვნა…
@@ -825,7 +762,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = დამატებები და თემები
     .tooltiptext = მართეთ თქვენი დამატებები და თემები ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -835,31 +771,25 @@ toolbar-settings-button =
             [macos] პარამეტრების გახსნა ({ $shortcut })
            *[other] პარამეტრების გახსნა
         }
-
 toolbar-overflow-customize-button =
     .label = ხელსაწყოთა ზოლის მორგება…
     .accesskey = ზ
-
 toolbar-button-email-link =
     .label = ბმულის ელფოსტით გაგზავნა
     .tooltiptext = გვერდის ბმულის ელფოსტით გაგზავნა
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = გვერდის შენახვა
     .tooltiptext = გვერდის შენახვა ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ფაილის გახსნა
     .tooltiptext = ფაილის გახსნა ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = დასინქ. ჩანართები
     .tooltiptext = ჩანართები სხვა მოწყობილობებიდან
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -900,7 +830,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = ამომხტომი ფანჯრების დაშვება – { $uriHost }
     .accesskey = დ
-
 popups-infobar-block =
     .label = ამომხტომი ფანჯრების აკრძალვა – { $uriHost }
     .accesskey = დ
@@ -910,11 +839,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = შეტყობინების დამალვა ამომხტარი ფანჯრის შეზღუდვისას
     .accesskey = დ
-
 edit-popup-settings =
     .label = ამომხტომების პარამეტრების მართვა…
     .accesskey = ხ
-
 picture-in-picture-hide-toggle =
     .label = ეკრანი-ეკრანში გადამრთველის დამალვა
     .accesskey = ე
@@ -925,7 +852,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = ეკრანი-ეკრანში გადამრთველის მარჯვნივ გადატანა
     .accesskey = ჯ
-
 picture-in-picture-move-toggle-left =
     .label = ეკრანი-ეკრანში გადამრთველის მარცხნივ გადატანა
     .accesskey = ც
@@ -940,42 +866,32 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = გადაადგილება
-
 navbar-downloads =
     .label = ჩამოტვირთვები
-
 navbar-overflow =
     .tooltiptext = დამატებითი ხელსაწყოები...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = ამობეჭდვა
     .tooltiptext = გვერდის ამობეჭდვა… ({ $shortcut })
-
 navbar-home =
     .label = საწყისი გვერდი
     .tooltiptext = { -brand-short-name } საწყისი გვერდი
-
 navbar-library =
     .label = ბიბლიოთეკა
     .tooltiptext = იხილეთ ისტორია, შენახული სანიშნები და ა. შ.
-
 navbar-search =
     .title = ძიება
-
 navbar-accessibility-indicator =
     .tooltiptext = დამხმარე საშუალებები ჩართულია
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ბრაუზერის ჩანართები
-
 tabs-toolbar-new-tab =
     .label = ახალი ჩანართი
-
 tabs-toolbar-list-all-tabs =
     .label = ყველა ჩანართის სია
     .tooltiptext = ყველა ჩანართის სია
@@ -992,7 +908,6 @@ data-reporting-notification-message = { -brand-short-name } ავტომა�
 data-reporting-notification-button =
     .label = გასაზიარებელ მონაცემთა შერჩევა
     .accesskey = ზ
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = პირადი ფანჯარა
 

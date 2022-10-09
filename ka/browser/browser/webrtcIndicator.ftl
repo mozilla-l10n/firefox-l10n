@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — გაზიარების მაჩვენებელი
+webrtc-indicator-window =
+    .title = { -brand-short-name } — გაზიარების მაჩვენებელი
 
 ## Used as list items in sharing menu
 
@@ -148,16 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = ნებას რთავთ { $origin }-ს მოუსმინოს ამ ჩანართს?
+webrtc-allow-share-camera = ნებას რთავთ { $origin }-ს გამოიყენოს კამერა?
+webrtc-allow-share-microphone = ნებას რთავთ { $origin }-ს გამოიყენოს მიკროფონი?
+webrtc-allow-share-screen = ნებას რთავთ { $origin }-ს იხილოს თქვენი ეკრანი?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = ნებას რთავთ { $origin }-ს გამოიყენოს სხვა დინამიკები?
+webrtc-allow-share-camera-and-microphone = ნებას რთავთ { $origin }-ს გამოიყენოს კამერა და მიკროფონი?
+webrtc-allow-share-camera-and-audio-capture = ნებას რთავთ { $origin }-ს გამოიყენოს კამერა და მოუსმინოს ამ ჩანართს?
+webrtc-allow-share-screen-and-microphone = ნებას რთავთ { $origin }-ს გამოიყენოს მიკროფონი და იხილოს თქვენი ეკრანი?
+webrtc-allow-share-screen-and-audio-capture = ნებას რთავთ { $origin }-ს მოუსმინოს ამ ჩანართს და იხილოს თქვენი ეკრანი?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს კამერასთან?
+webrtc-allow-share-microphone-unsafe-delegations = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს მიკროფონთან?
+webrtc-allow-share-screen-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენი ეკრანის გამოსახულებასთან?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } სხვა დინამიკებთან?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს კამერასა და მიკროფონთან?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს კამერასა და ამ ჩანართის ხმასთან?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს მიკროფონსა და ეკრანთან?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } ამ ჩანართის ხმასა და თქვენი ეკრანის გამოსახულებასთან?
 
 ##
 
+webrtc-share-screen-warning = ეკრანი გაუზიარეთ მხოლოდ სანდო საიტებს. ეკრანის გაზიარება თაღლითურ საიტებს აძლევს საშუალებას, თქვენს მსგავსად დაათვალიეროს გვერდები და მოგპაროთ პირადი მონაცემები.
+webrtc-share-browser-warning = { -brand-short-name } გაუზიარეთ მხოლოდ სანდო საიტებს. გაზიარება თაღლითურ საიტებს აძლევს საშუალებას, თქვენს მსგავსად დაათვალიეროს გვერდები და მოგპაროთ პირადი მონაცემები.
 webrtc-share-screen-learn-more = ვრცლად
+webrtc-pick-window-or-screen = ფანჯრის ან ეკრანის არჩევა
 webrtc-share-entire-screen = მთლიანი ეკრანი
+webrtc-share-pipe-wire-portal = საოპერაციო სისტემის პარამეტრების გამოყენება
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = ეკრანი { $monitorIndex }
@@ -175,8 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = დაშვება
     .accesskey = დ
+webrtc-action-block =
+    .label = აკრძალვა
+    .accesskey = ა
+webrtc-action-always-block =
+    .label = ყოველთვის აიკრძალოს
+    .accesskey = ლ
+webrtc-action-not-now =
+    .label = ახლა არა
+    .accesskey = რ
 
 ##
 
 webrtc-remember-allow-checkbox = გადაწყვეტილების დამახსოვრება
+webrtc-mute-notifications-checkbox = საიტის შეტყობინებების დადუმება გაზიარებისას
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ვერ გასცემს მუდმივი წვდომის ნებართვას, თქვენს ეკრანთან.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ვერ გასცემს მუდმივი წვდომის ნებართვას თქვენი ჩანართის ხმასთან, იმის უკითხავად, თუ რომელ ჩანართს აზიარებთ.
 webrtc-reason-for-no-permanent-allow-insecure = კავშირი ამ საიტთან დაუცველია. უსაფრთხოების მიზნით, { -brand-short-name } მხოლოდ ამ სეანსზე დაუშვებს წვდომას.
