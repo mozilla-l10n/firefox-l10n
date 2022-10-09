@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = Indicador de compartición de { -brand-short-name }
+webrtc-indicator-window =
+    .title = Indicador de compartición de { -brand-short-name }
 
 ## Used as list items in sharing menu
 
@@ -157,6 +159,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = Saber-ne mas
+webrtc-pick-window-or-screen = Triar finestra u pantalla
 webrtc-share-entire-screen = Pantalla completa
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
