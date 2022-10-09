@@ -190,6 +190,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dovolite { $orig
 ##
 
 webrtc-share-screen-learn-more = Več o tem
+webrtc-pick-window-or-screen = Izberi okno ali zaslon
 webrtc-share-entire-screen = Celoten zaslon
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
