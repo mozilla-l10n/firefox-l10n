@@ -35,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = ไม่ทราบที่มา
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = อุปกรณ์ที่แบ่งปันแท็บ
+    .accesskey = อ
 webrtc-sharing-window = คุณกำลังแบ่งปันหน้าต่างแอปพลิเคชันอื่น
 webrtc-sharing-browser-window = คุณกำลังแบ่งปัน { -brand-short-name }
 webrtc-sharing-screen = คุณกำลังแบ่งปันทั้งหน้าจอของคุณ
@@ -115,6 +118,8 @@ webrtc-indicator-menuitem-sharing-browser-with =
 
 ##
 
+webrtc-share-screen-learn-more = เรียนรู้เพิ่มเติม
+webrtc-pick-window-or-screen = เลือกหน้าต่างหรือหน้าจอ
 webrtc-share-entire-screen = ทั้งหน้าจอ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -122,6 +127,11 @@ webrtc-share-monitor = หน้าจอ { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = อนุญาต
+    .accesskey = อ
 
 ##
 
+webrtc-remember-allow-checkbox = จดจำการตัดสินใจนี้
+webrtc-reason-for-no-permanent-allow-insecure = การเชื่อมต่อของคุณไปยังไซต์นี้ไม่ปลอดภัย เพื่อปกป้องคุณ { -brand-short-name } จะอนุญาตให้เข้าถึงเฉพาะในวาระนี้เท่านั้น
