@@ -145,14 +145,32 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = ¿Permitir a { $origin } escuchar el audio de esta pestaña?
+webrtc-allow-share-camera = ¿Permitir que { $origin } use tu cámara?
+webrtc-allow-share-microphone = ¿Permitir que { $origin } use tu micrófono?
+webrtc-allow-share-screen = ¿Permitir que { $origin } vea tu pantalla?
+webrtc-allow-share-camera-and-microphone = ¿Permitir a { $origin } usar tu cámara y micrófono?
+webrtc-allow-share-camera-and-audio-capture = ¿Permitir a { $origin } usar tu cámara y escuchar el audio de esta pestaña?
+webrtc-allow-share-screen-and-microphone = ¿Permitir a { $origin } usar tu micrófono y ver tu pantalla?
+webrtc-allow-share-screen-and-audio-capture = ¿Permitir a { $origin } escuchar el audio de esta pestaña y ver tu pantalla?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = ¿Permitir a { $origin } dar a { $thirdParty } permiso para acceder a tu cámara?
+webrtc-allow-share-microphone-unsafe-delegations = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu micrófono?
+webrtc-allow-share-screen-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu pantalla?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu cámara y micrófono?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu cámara y escuchar al audio de esta pestaña?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para acceder a tu micrófono y ver tu pantalla?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Permitir a { $origin } dar permiso a { $thirdParty } para escuchar al audio de esta pestaña y ver tu pantalla?
 
 ##
 
+webrtc-share-screen-warning = Comparte la pantalla solo con sitios en los que confíes. Compartirla puede permitir a sitios fraudulentos a navegar en tu nombre y robar tus datos privados.
+webrtc-share-browser-warning = Comparte { -brand-short-name } solo con sitios con los que confíes. Compartirla puede permitir a sitios fraudulentos navegar en tu nombre y robar tus datos privados.
+webrtc-share-screen-learn-more = Saber Más
 webrtc-pick-window-or-screen = Seleccionar ventana o pantalla
 webrtc-share-entire-screen = Pantalla completa
 webrtc-share-pipe-wire-portal = Usar los ajustes del sistema operativo
@@ -173,6 +191,12 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permitir
     .accesskey = A
+webrtc-action-block =
+    .label = Bloquear
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Bloquear siempre
+    .accesskey = B
 webrtc-action-not-now =
     .label = Ahora no
     .accesskey = N
@@ -180,3 +204,4 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Recordar esta decisión
+webrtc-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparte
