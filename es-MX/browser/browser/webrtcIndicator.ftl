@@ -125,6 +125,12 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Compartiendo ventana con "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Compartiendo ventana con { $tabCount } pestaña
+           *[other] Compartiendo ventanas con { $tabCount } pestañas
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Compartiendo una pestaña con "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
