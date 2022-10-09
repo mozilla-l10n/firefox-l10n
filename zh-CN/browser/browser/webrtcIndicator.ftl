@@ -84,16 +84,30 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = 控制在“{ $streamTitle }”的共享
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = 正在与“{ $streamTitle }”共享摄像头
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label = 正在允许 { $tabCount } 个标签页访问摄像头
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = 正在与“{ $streamTitle }”共享麦克风
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label = 正在允许 { $tabCount } 个标签页访问麦克风
 webrtc-indicator-menuitem-sharing-application-with =
     .label = 正在与“{ $streamTitle }”共享一个应用程序
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label = 正在允许 { $tabCount } 个标签页访问某个应用程序
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = 正在与“{ $streamTitle }”共享屏幕
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label = 正在允许 { $tabCount } 个标签页查看屏幕画面
 webrtc-indicator-menuitem-sharing-window-with =
     .label = 正在与“{ $streamTitle }”共享窗口
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label = 正在允许 { $tabCount } 个标签页访问窗口
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = 正在与“{ $streamTitle }”共享标签页
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label = 正在允许 { $tabCount } 个标签页访问标签页
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -116,3 +130,5 @@ webrtc-share-monitor = 屏幕 { $monitorIndex }
 
 ##
 
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } 无法永久不让您先指定特定标签页，就允许存取任意标签页的音频内容。
+webrtc-reason-for-no-permanent-allow-insecure = 您与此网站间的连接并不安全。为了保护您，{ -brand-short-name } 将只允许此次浏览期间的访问。
