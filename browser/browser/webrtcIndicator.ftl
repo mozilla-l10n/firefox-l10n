@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - indikator dijeljenja
+webrtc-indicator-window =
+    .title = { -brand-short-name } - indikator dijeljenja
 
 ## Used as list items in sharing menu
 
@@ -154,11 +156,25 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Dopustiti stranici { $origin } slušanje zvuka ove kartice?
+webrtc-allow-share-camera = Dopustiti stranici { $origin } korištenje tvoje kamere?
+webrtc-allow-share-microphone = Dopustiti stranici { $origin } korištenje tvojeg mikrofona?
+webrtc-allow-share-screen = Dopustiti stranici { $origin } da vidi tvoj zaslon?
+webrtc-allow-share-camera-and-microphone = Dopustiti stranici { $origin } korištenje kamere i mikrofona?
+webrtc-allow-share-camera-and-audio-capture = Dopustiti stranici { $origin } korištenje kamere i slušanje zvuka ove kartice?
+webrtc-allow-share-screen-and-microphone = Dopustiti stranici { $origin } korištenje mikrofona i pregledavanje tvog zaslona?
+webrtc-allow-share-screen-and-audio-capture = Dopustiti stranici { $origin } slušanje zvuka ove kartice i pregledavanje tvog zaslona?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojoj kameri?
+webrtc-allow-share-microphone-unsafe-delegations = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojem mikrofonu?
+webrtc-allow-share-screen-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } dozvoli da vidi tvoj zaslon?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup ostalim zvučnicima?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Dopustiti { $origin } da { $thirdParty } omogući pristup tvojoj kameri i mikrofonu?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Dopustiti { $origin } da { $thirdParty } omogući pristup tvojoj kameri i slušanje zvuka ove kartice?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Dopustiti { $origin } da { $thirdParty } omogući pristup tvom mikrofonu i da vidi tvoj ekran?
@@ -171,6 +187,7 @@ webrtc-share-browser-warning = Dijeli { -brand-short-name } samo s web lokacijam
 webrtc-share-screen-learn-more = Saznaj više
 webrtc-pick-window-or-screen = Odaberi prozor ili ekran
 webrtc-share-entire-screen = Cijeli ekran
+webrtc-share-pipe-wire-portal = Koristi postavke operacijskog sustava
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ekran { $monitorIndex }
@@ -189,10 +206,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Dozvoli
     .accesskey = D
+webrtc-action-block =
+    .label = Blokiraj
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Uvijek blokiraj
+    .accesskey = v
 
 ##
 
 webrtc-remember-allow-checkbox = Zapamti moju odluku
+webrtc-mute-notifications-checkbox = Utišaj obavijesti web-stranice tijekom dijeljenja
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne može dozvoliti trajni pristup tvom ekranu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne može trajno dozvoliti pristup zvuku kartice, jer mora pitati koju karticu želiš dijeliti.
 webrtc-reason-for-no-permanent-allow-insecure = Veza s ovom stranicom nije sigurna. Kako bismo te zaštitili, { -brand-short-name } će dozvoliti pristup samo za trajanja ove sesije.
