@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Delningsindikator
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Delningsindikator
 
 ## Used as list items in sharing menu
 
@@ -152,6 +154,9 @@ webrtc-allow-share-audio-capture = Tillåt { $origin } att lyssna på flikens lj
 webrtc-allow-share-camera = Tillåt { $origin } att använda din kamera?
 webrtc-allow-share-microphone = Tillåt { $origin } att använda din mikrofon?
 webrtc-allow-share-screen = Tillåt { $origin } att se din skärm?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Tillåt { $origin } att använda andra ljudenheter?
 webrtc-allow-share-camera-and-microphone = Tillåt att { $origin } använder din kamera och mikrofon?
 webrtc-allow-share-camera-and-audio-capture = Tillåt { $origin } att använda din kamera och lyssna på flikens ljud?
 webrtc-allow-share-screen-and-microphone = Tillåt { $origin } att använda din mikrofon och se din skärm?
@@ -164,6 +169,9 @@ webrtc-allow-share-screen-and-audio-capture = Tillåt { $origin } att lyssna på
 webrtc-allow-share-camera-unsafe-delegation = Tillåt { $origin } att ge { $thirdParty } åtkomst till din kamera?
 webrtc-allow-share-microphone-unsafe-delegations = Tillåt { $origin } att ge { $thirdParty } åtkomst till din mikrofon?
 webrtc-allow-share-screen-unsafe-delegation = Tillåt { $origin } att ge { $thirdParty } tillstånd att se din skärm?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Tillåt { $origin } att ge { $thirdParty } tillgång till andra ljudenheter?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Tillåt { $origin } att ge { $thirdParty } åtkomst till din kamera och mikrofon?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Tillåt { $origin } att ge { $thirdParty } åtkomst till din kamera och lyssna på flikens ljud?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Tillåt { $origin } att ge { $thirdParty } åtkomst till din mikrofon och se din skärm?
@@ -200,6 +208,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Blockera alltid
     .accesskey = a
+webrtc-action-not-now =
+    .label = Inte nu
+    .accesskey = n
 
 ##
 
