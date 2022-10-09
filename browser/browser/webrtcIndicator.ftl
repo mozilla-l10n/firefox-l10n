@@ -18,14 +18,25 @@ webrtc-indicator-title = { -brand-short-name } - 공유 표시기
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = 카메라
+webrtc-item-microphone = 마이크
+webrtc-item-application = 애플리케이션
+webrtc-item-screen = 화면
+webrtc-item-window = 창
+webrtc-item-browser = 탭
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = 알 수 없는 곳에서 옴
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = 기기를 공유하는 탭
+    .accesskey = d
 webrtc-sharing-window = 다른 애플리케이션 창을 공유하고 있습니다.
 webrtc-sharing-browser-window = { -brand-short-name }를 공유하고 있습니다.
 webrtc-sharing-screen = 전체 화면을 공유하고 있습니다.
@@ -64,6 +75,10 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = "{ $streamTitle }"로 애플리케이션 공유 중
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = "{ $streamTitle }"로 탭 공유 중
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +91,7 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = 더 알아보기
 webrtc-share-entire-screen = 전체 화면
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
