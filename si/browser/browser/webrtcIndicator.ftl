@@ -15,12 +15,17 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - බෙදාගැනීමේ දර්ශකය
+webrtc-indicator-window =
+    .title = { -brand-short-name } - බෙදාගැනීමේ දර්ශකය
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = රූගතය
+webrtc-item-microphone = ශබ්දවාහිනිය
 webrtc-item-application = යෙදුම
 webrtc-item-screen = තිරය
 webrtc-item-window = කවුළුව
+webrtc-item-browser = (පටිත්ත %1$S
 
 ##
 
@@ -29,6 +34,9 @@ webrtc-item-window = කවුළුව
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = පටිති බෙදාගන්නා උපාංග
+    .accesskey = d
 webrtc-sharing-window = ඔබ වෙනත් යෙදුමක කවුළුවක් බෙදා ගනිමින්.
 webrtc-sharing-browser-window = ඔබ { -brand-short-name } බෙදා ගනිමින් සිටියි.
 webrtc-sharing-screen = ඔබගේ සමස්ත තිරයම බෙදා ගනිමින් සිටියි.
@@ -60,6 +68,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = ඔබගේ රූගතය හා ශබ්දවාහිනිය බෙදා ගැනෙමින් තිබේ. එය පාලනයට ඔබන්න.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = ඔබගේ රූගතය බෙදා ගැනෙමින් තිබේ. එය පාලනයට ඔබන්න.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = ශබ්දවාහිනිය බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
+webrtc-indicator-sharing-application =
+    .tooltiptext = යෙදුමක් බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = තිරය බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
+webrtc-indicator-sharing-window =
+    .tooltiptext = කවුළුව බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = පටිත්ත බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -67,24 +89,57 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = බෙදාගැනීම පාලනය
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-camera = { $origin } සඳහා රූගතය භාවිතයට ඉඩ දෙන්නද?
+webrtc-allow-share-microphone = { $origin } සඳහා ශබ්දවාහිනිය භාවිතයට ඉඩ දෙන්නද?
+webrtc-allow-share-screen = { $origin } සඳහා තිරය බැලීමට ඉඩ දෙන්නද?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } සඳහා අන් විකාශක භාවිතයට ඉඩ දෙන්නද?
+webrtc-allow-share-camera-and-microphone = { $origin } සඳහා රූගතය හා ශබ්දවාහිනිය භාවිතයට ඉඩ දෙන්නද?
+webrtc-allow-share-camera-and-audio-capture = { $origin } සඳහා රූගතය භාවිතයට හා මෙම පටිත්තෙහි හඬට සවන් දීමට ඉඩ දෙන්නද?
+webrtc-allow-share-screen-and-microphone = { $origin } සඳහා ශබ්දවාහිනිය භාවිතයට හා තිරය බැලීමට ඉඩ දෙන්නද?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = { $thirdParty } වෙත රූගතයෙහි ප්‍රවේශය දීමට { $origin } සඳහා ඉඩ දෙන්නද?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $thirdParty } වෙත රූගතයෙහි හා ශබ්දවාහිනියෙහි ප්‍රවේශය දීමට { $origin } සඳහා ඉඩ දෙන්නද?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $thirdParty } වෙත රූගතයට හා මෙම පටිත්තෙහි හඬට සවන් දීමට අදාළ ප්‍රවේශය ප්‍රදානයට { $origin } සඳහා ඉඩ දෙන්නද?
 
 ##
 
+webrtc-share-screen-learn-more = තව දැනගන්න
+webrtc-pick-window-or-screen = කවුළුව හෝ තිරය තෝරන්න
+webrtc-share-entire-screen = සමස්ත තිරය
+webrtc-share-pipe-wire-portal = මෙ. පද්. සැකසුම් භාවිතා කරන්න
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = { $monitorIndex } තිරය
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = ඉඩ දෙන්න
+    .accesskey = A
+webrtc-action-block =
+    .label = අවහිර
+    .accesskey = B
+webrtc-action-always-block =
+    .label = සෑමවිටම අවහිර
+    .accesskey = w
+webrtc-action-not-now =
+    .label = දැන් නොවේ
+    .accesskey = N
 
 ##
 
+webrtc-remember-allow-checkbox = තීරණය මතක තබාගන්න
+webrtc-mute-notifications-checkbox = බෙදාගැනීමේදී අඩවිවල දැනුම්දීම් නිහඬ කරන්න
+webrtc-reason-for-no-permanent-allow-insecure = මෙම අඩවිය වෙත ඔබගේ සම්බන්ධතාවය අනාරක්‍ෂිතයි. ඔබව රක්‍ෂා කිරීමට, { -brand-short-name } මෙම වාරය සඳහා පමණක් ප්‍රවේශයට ඉඩ දෙයි.
