@@ -5,12 +5,11 @@
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Часть этой страницы потерпела сбой.</strong> Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, отправьте отчёт.
-
+crashed-subframe-message = <strong>В части этой страницы произошёл сбой.</strong> Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, отправьте сообщение.
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
-    .title = Часть этой страницы потерпела сбой. Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, отправьте отчёт.
+    .title = В части этой страницы произошёл сбой. Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, отправьте сообщение.
 crashed-subframe-learnmore-link =
     .value = Узнать больше
 crashed-subframe-submit =
