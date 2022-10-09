@@ -92,6 +92,8 @@ webrtc-indicator-sharing-browser =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = ਸਾਂਝਾ ਕਰਨ ਕੰਟਰੋਲ
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = "{ $streamTitle }" ਉੱਤੇ ਸਾਂਝਾ ਕਰਨ ਲਈ ਕੰਟਰੋਲ
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = ਕੈਮਰਾ "{ $streamTitle }" ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -157,6 +159,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 webrtc-share-screen-learn-more = ਹੋਰ ਜਾਣੋ
 webrtc-share-entire-screen = ਪੂਰੀ ਸਕਰੀਨ
 # Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = ਸਕਰੀਨ { $monitorIndex }
+# Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
 webrtc-share-application =
@@ -174,3 +179,5 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = ਇਹ ਫ਼ੈਸਲਾ ਯਾਦ ਰੱਖੋ
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੀ ਸਕਰੀਨ ਲਈ ਪੱਕੀ ਪਹੁੰਚ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+webrtc-reason-for-no-permanent-allow-insecure = ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ। ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ, { -brand-short-name } ਕੇਵਲ ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਹੀ ਇਜਾਜ਼ਤ ਦੇਵੇਗਾ।
