@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indikator Berbagi
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indikator Berbagi
 
 ## Used as list items in sharing menu
 
