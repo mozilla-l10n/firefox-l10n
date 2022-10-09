@@ -31,6 +31,8 @@ inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> a 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> a cap d’efècte suls elements de tablèu intèrns levat per las cellulas de tablèu.
 inactive-css-not-table = <strong>{ $property }</strong>a pas cap d’efèit sus aqueste element per çò qu’es pas un tablèu.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong>a pas cap d’efèit sus aqueste element per çò que desfila pas.
+inactive-css-border-image = </strong>{ $property }<strong> a pas cap d’efièch sus aqueste element coma aquesta proprietat se pòt pas aplicar a d ’elements intèrns d’un tablèu quand <strong>border-collapse</strong> es definit a <strong>collapse</strong> sus l’element parent dins lo tablèu.
+inactive-css-ruby-element = <strong>{ $property }</strong> a pas cap efièch sus aqueste element pr’amor que s’agís d’un element ruby. Sa talha es determinada per aquela de la polissa utilizada pel tèxte ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,6 +55,7 @@ inactive-css-not-for-internal-table-elements-fix = Ensajatz d’atribuir a la pr
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ensajatz d’atribuir a la proprietat <strong>display</strong> una valor diferenta de <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Ensajatz d’apondre <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Ensajatz d’apondre <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-border-image-fix = Sus l’element parent dins lo tablèu, suprimissètz la proprietat <strong>border-collapse</strong> o modificatz sa valor per quicòm mai que <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Ensajatz de modificar la <strong>talha de polissa</strong> del tèxte ruby. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
