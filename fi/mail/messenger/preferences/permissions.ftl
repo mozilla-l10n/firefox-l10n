@@ -5,52 +5,41 @@
 permissions-reminder-window =
     .title = Poikkeukset
     .style = width: 36em;
-
+permissions-reminder-window2 =
+    .title = Poikkeukset
 permission-preferences-close-window =
     .key = w
-
 website-address-label =
     .value = Palvelimen osoite:
     .accesskey = a
-
 block-button =
     .label = Estä
     .accesskey = E
-
 allow-session-button =
     .label = Salli istunnon ajaksi
     .accesskey = S
-
 allow-button =
     .label = Salli
     .accesskey = l
-
 treehead-sitename-label =
     .label = Palvelin
-
 treehead-status-label =
     .label = Tila
-
 remove-site-button =
     .label = Poista palvelin
     .accesskey = P
-
 remove-all-site-button =
     .label = Poista kaikki palvelimet
     .accesskey = e
-
 cancel-button =
     .label = Peruuta
     .accesskey = r
-
 save-button =
     .label = Tallenna muutokset
     .accesskey = T
-
 permission-can-label = Salli
 permission-can-access-first-party-label = Salli vain ensimmäinen osapuoli
 permission-can-session-label = Salli istunnon ajaksi
 permission-cannot-label = Estä
-
 invalid-uri-message = Kirjoita oikea osoite
 invalid-uri-title = Virheellinen osoite
