@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - մեկնարկային ցուցիչ
+webrtc-indicator-window =
+    .title = { -brand-short-name } - մեկնարկային ցուցիչ
 
 ## Used as list items in sharing menu
 
@@ -159,6 +161,12 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Թույլատրել
     .accesskey = A
+webrtc-action-block =
+    .label = Արգելել
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Միշտ արգելափակել
+    .accesskey = w
 
 ##
 
