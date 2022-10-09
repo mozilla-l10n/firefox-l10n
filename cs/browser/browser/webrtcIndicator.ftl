@@ -21,10 +21,19 @@ webrtc-indicator-title =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
+webrtc-indicator-window =
+    .title =
+        Ukazatel sdílení { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace { -brand-short-name }
+        }
 
 ## Used as list items in sharing menu
 
 webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofon
 webrtc-item-audio-capture = audio panel
 webrtc-item-application = aplikace
 webrtc-item-screen = obrazovka
@@ -80,8 +89,12 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Vaše kamera a mikrofon jsou sdíleny. Pro úpravu sdílení klepněte.
 webrtc-indicator-sharing-camera =
     .tooltiptext = Vaše kamera je sdílena. Pro úpravu sdílení klepněte.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Váš mikrofon je sdílen. Pro úpravu sdílení klepněte.
 webrtc-indicator-sharing-application =
     .tooltiptext = Vaše aplikace je sdílena. Pro úpravu sdílení klepněte.
 webrtc-indicator-sharing-screen =
@@ -99,6 +112,10 @@ webrtc-indicator-sharing-browser =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = Ovládání sdílení
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Ovládání sdílení na „{ $streamTitle }“
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Sdílet kameru s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
@@ -106,6 +123,17 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Sdílení kamery s { $tabCount } panely
            *[other] Sdílení kamery s { $tabCount } panely
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Sdílet mikrofon s „{ $streamTitle }“
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Sdílení mikrofonu s { $tabCount } panelem
+            [few] Sdílení mikrofonu s { $tabCount } panely
+           *[other] Sdílení mikrofonu s { $tabCount } panely
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Sdílet aplikaci s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
@@ -113,6 +141,8 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Sdílet aplikaci s { $tabCount } panely
            *[other] Sdílet aplikaci s { $tabCount } panely
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Sdílet obrazovku s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
@@ -120,6 +150,8 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Sdílení obrazovky s { $tabCount } panely
            *[other] Sdílení obrazovky s { $tabCount } panely
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Sdílet okno s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
@@ -127,6 +159,8 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Sdílení okna s { $tabCount } panely
            *[other] Sdílení okna s { $tabCount } panely
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Sdílet panel s „{ $streamTitle }“
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
@@ -140,14 +174,38 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Chcete serveru { $origin } povolit poslouchat zvuky z tohoto panelu?
+webrtc-allow-share-camera = Chcete serveru { $origin } povolit používat vaši kameru?
+webrtc-allow-share-microphone = Chcete serveru { $origin } povolit používat váš mikrofon?
+webrtc-allow-share-screen = Chcete serveru { $origin } povolit vidět vaši obrazovku?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Chcete serveru { $origin } povolit používat další zařízení pro výstup zvuku?
+webrtc-allow-share-camera-and-microphone = Chcete serveru { $origin } povolit používat vaší webkameru a mikrofon?
+webrtc-allow-share-camera-and-audio-capture = Chcete serveru { $origin } povolit používat vaší webkameru a poslouchat zvuky z tohoto panelu?
+webrtc-allow-share-screen-and-microphone = Chcete serveru { $origin } povolit používat váš mikrofon a vidět vaši obrazovku?
+webrtc-allow-share-screen-and-audio-capture = Chcete serveru { $origin } povolit poslouchat zvuky z tohoto panelu a vidět vaši obrazovku?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat vaši webkameru?
+webrtc-allow-share-microphone-unsafe-delegations = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat váš mikrofon?
+webrtc-allow-share-screen-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } vidět vaši obrazovku?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat další zařízení pro výstup zvuku?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat vaší webkameru a mikrofon?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat vaší webkameru a poslouchat zvuky z tohoto panelu?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat váš mikrofon a vidět vaši obrazovku?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } poslouchat zvuky z tohoto panelu a vidět vaši obrazovku?
 
 ##
 
+webrtc-share-screen-warning = Obrazovku sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+webrtc-share-browser-warning = Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+webrtc-pick-window-or-screen = Vyberte okno nebo obrazovku
 webrtc-share-entire-screen = Celou obrazovku
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -164,6 +222,20 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Povolit
+    .accesskey = P
+webrtc-action-block =
+    .label = Blokovat
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Vždy blokovat
+    .accesskey = V
 
 ##
 
+webrtc-remember-allow-checkbox = Zapamatovat si toto rozhodnutí
+webrtc-mute-notifications-checkbox = Ztlumit oznámení ze serverů během sdílení
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nemůže povolit trvalý přístup k vaší obrazovce.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nemůže povolit trvalý přístup ke zvuku z vašich panelů bez dotazu, který panel sdílet.
+webrtc-reason-for-no-permanent-allow-insecure = Vaše připojení k tomuto serveru není zabezpečené. Abychom vás ochránili, { -brand-short-name } povolí přístup pouze pro tuto relaci.
