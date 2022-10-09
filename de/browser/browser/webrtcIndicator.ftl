@@ -24,6 +24,7 @@ webrtc-item-audio-capture = Tab-Audio
 webrtc-item-application = Anwendung
 webrtc-item-screen = Bildschirm
 webrtc-item-window = Fenster
+webrtc-item-browser = Tab
 
 ##
 
@@ -80,6 +81,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Zugriff auf den Bildschirm für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
 webrtc-indicator-sharing-window =
     .tooltiptext = Zugriff auf ein Fenster für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Zugriff auf einen Tab für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -130,6 +133,16 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
         { $tabCount ->
             [one] { $tabCount } Tab Zugriff auf Fenster erlaubt
            *[other] { $tabCount } Tabs Zugriff auf Fenster erlaubt
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = "{ $streamTitle }" Zugriff auf Tab erlaubt
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } Tab Zugriff auf Tab erlaubt
+           *[other] { $tabCount } Tabs Zugriff auf Tabs erlaubt
         }
 
 ## Variables:
