@@ -15,6 +15,10 @@
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamèra
+webrtc-item-application = aplikasi
+webrtc-item-window = tingkap
+webrtc-item-browser = tab
 
 ##
 
@@ -50,6 +54,7 @@ webrtc-sharing-menuitem =
 
 ##
 
+webrtc-share-screen-learn-more = Meurunoë Lom
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
