@@ -208,6 +208,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Her zaman engelle
     .accesskey = H
+webrtc-action-not-now =
+    .label = Daha sonra
+    .accesskey = D
 
 ##
 
