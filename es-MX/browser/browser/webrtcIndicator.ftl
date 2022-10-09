@@ -153,6 +153,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-pick-window-or-screen = Seleccionar ventana o pantalla
 webrtc-share-entire-screen = Pantalla completa
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -168,6 +169,10 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Permitir
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = Recordar esta decisión
