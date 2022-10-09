@@ -24,6 +24,7 @@ webrtc-item-audio-capture = tabbladaudio
 webrtc-item-application = toepassing
 webrtc-item-screen = scherm
 webrtc-item-window = venster
+webrtc-item-browser = tabblad
 
 ##
 
@@ -80,6 +81,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Uw scherm wordt gedeeld. Klik om delen te beheren.
 webrtc-indicator-sharing-window =
     .tooltiptext = Een venster wordt gedeeld. Klik om delen te beheren.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Een tabblad wordt gedeeld. Klik om delen te beheren.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -133,6 +136,14 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Een tabblad gedeeld met ‘{ $streamTitle }’
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Een tabblad gedeeld met { $tabCount } tabblad
+           *[other] Tabbladen gedeeld met { $tabCount } tabbladen
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
