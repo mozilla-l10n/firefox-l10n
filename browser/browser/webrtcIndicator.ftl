@@ -19,6 +19,7 @@ webrtc-indicator-title = { -brand-short-name } - Chỉ số chia sẻ
 ## Used as list items in sharing menu
 
 webrtc-item-camera = camera
+webrtc-item-microphone = micro
 webrtc-item-audio-capture = âm thanh trên thẻ
 webrtc-item-application = ứng dụng
 webrtc-item-screen = màn hình
@@ -91,12 +92,26 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = Kiểm soát chia sẻ với "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Chia sẻ micrô với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label = Đang chia sẻ micro với { $tabCount } thẻ
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Chia sẻ một ứng dụng với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label = Đang chia sẻ ứng dụng với { $tabCount } thẻ
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Chia sẻ màn hình với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label = Đang chia sẻ màn hình với { $tabCount } thẻ
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Chia sẻ một cửa sổ với "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label = Đang chia sẻ cửa sổ với { $tabCount } thẻ
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Chia sẻ một thẻ với “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label = Đang chia sẻ các thẻ với { $tabCount } thẻ
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
