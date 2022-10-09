@@ -18,6 +18,12 @@ webrtc-indicator-title = { -brand-short-name } - Delingsvisar
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofon
+webrtc-item-audio-capture = fanelyd
+webrtc-item-application = program
+webrtc-item-screen = skjerm
+webrtc-item-window = vindauge
 
 ##
 
@@ -64,6 +70,34 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler kamera med { $tabCount } fane
+           *[other] Deler kamera med { $tabCount }faner
+        }
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler mikrofon med { $tabCount } fane
+           *[other] Deler mikrofon med { $tabCount } faner
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Deler skjerm med "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler skjerm med { $tabCount } fane
+           *[other] Deler skjerm med { $tabCount } faner
+        }
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler fane med { $tabCount } fane
+           *[other] Deler faner med { $tabCount } faner
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +110,18 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Heile skjermen
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Skjerm { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } vindauge)
+       *[other] { $appName } ({ $windowCount } vindauge)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
