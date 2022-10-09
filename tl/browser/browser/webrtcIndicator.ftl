@@ -78,9 +78,11 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Buong screen
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
 
 ##
 
+webrtc-remember-allow-checkbox = Tandaan itong desisyon
