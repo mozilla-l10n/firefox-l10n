@@ -153,5 +153,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Aregòrda decixon
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } o peu proibî l'acesso permanente a-o teu schermo.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } o no peu permette l'acesso permanente a l'òudio do feuggio sensa domandate quæ feuggio condividde.
 webrtc-reason-for-no-permanent-allow-insecure = A conoscion a sto scito a no l'é segua. Pe protezite, { -brand-short-name } o te faiâ acede solo sta vòtta chi.
