@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Deilingarvísir
+webrtc-indicator-window =
+    .title = { -brand-short-name } — Deilingarvísir
 
 ## Used as list items in sharing menu
 
@@ -148,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Leyfa { $origin } að hlusta á hljóð flipans?
+webrtc-allow-share-camera = Leyfa { $origin } að nota myndavélina þína?
+webrtc-allow-share-microphone = Leyfa { $origin } að nota hljóðnemann þinn?
+webrtc-allow-share-screen = Leyfa { $origin } að sjá skjáinn þinn?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Leyfa { $origin } að nota aðra hátalara?
+webrtc-allow-share-camera-and-microphone = Leyfa { $origin } að nota myndvélina þína og hljóðnema?
+webrtc-allow-share-camera-and-audio-capture = Leyfa { $origin } að nota myndavél og hlusta á hljóð flipans?
+webrtc-allow-share-screen-and-microphone = Leyfa { $origin } að nota hljóðnema og sjá skjáinn hjá þér?
+webrtc-allow-share-screen-and-audio-capture = Leyfa { $origin } að nota hlusta á hljóð flipans og sjá skjáinn hjá þér?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Leyfa { $origin } að veita { $thirdParty } aðgang að myndavélinni þinni?
+webrtc-allow-share-microphone-unsafe-delegations = Leyfa { $origin } að veita { $thirdParty } aðgang að hljóðnemanum þínum?
+webrtc-allow-share-screen-unsafe-delegation = Leyfa { $origin } að gefa { $thirdParty } heimild til að sjá skjáinn þinn?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Leyfa { $origin } að veita { $thirdParty } aðgang að öðrum hátölurum?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Leyfa { $origin } að veita { $thirdParty } aðgang að myndavélinni og hljóðnemanum?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Leyfa { $origin } að veita { $thirdParty } aðgang að myndavélinni þinni og hlusta á hljóð þessa flipa?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Leyfa { $origin } að veita { $thirdParty } aðgang að hljóðnemanum þínum og sjá skjáinn þinn?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Leyfa { $origin } að gefa { $thirdParty } leyfi til að hlusta á hljóð þessa flipa og sjá skjáinn þinn?
 
 ##
 
+webrtc-share-screen-warning = Passaðu að deila aðeins skjá með vefsvæðum sem þú treystir. Deiling á skjá getur gert svindl-vefsvæðum kleift að þykjast vera þú og stela einkagögnum.
+webrtc-share-browser-warning = Deildu { -brand-short-name } aðeins með vefsvæðum sem þú treystir. Samnýting getur gert svildlsvæðum kleift að vafra sem þú og stela einkagögnum þínum.
 webrtc-share-screen-learn-more = Lesa meira
 webrtc-pick-window-or-screen = Velja glugga eða skjá
 webrtc-share-entire-screen = Allur skjárinn
+webrtc-share-pipe-wire-portal = Nota stillingar stýrikerfis
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Skjár { $monitorIndex }
@@ -176,9 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Leyfa
     .accesskey = a
+webrtc-action-block =
+    .label = Loka á
+    .accesskey = k
+webrtc-action-always-block =
+    .label = Alltaf loka á
+    .accesskey = A
+webrtc-action-not-now =
+    .label = Ekki núna
+    .accesskey = N
 
 ##
 
+webrtc-remember-allow-checkbox = Muna þessa ákvörðun
+webrtc-mute-notifications-checkbox = Þagga niður í tilkynningum vefsvæðis meðan þú deilir
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } leyfir ekki fastan aðgang að skjánum þínum.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } leyfir ekki fastan aðgang að flipum nema að spyrja hvaða flipa á að deila.
 webrtc-reason-for-no-permanent-allow-insecure = Tenging við vefsvæðið er ekki örugg. Þér til verndar, mun { -brand-short-name } aðeins leyfa aðgang fyrir þessa lotu.
