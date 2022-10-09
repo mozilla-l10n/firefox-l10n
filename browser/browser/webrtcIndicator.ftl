@@ -75,8 +75,20 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = 공유 설정
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = "{ $streamTitle }" 공유 설정
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = "{ $streamTitle }"로 카메라 공유 중
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = "{ $streamTitle }"로 마이크 공유 중
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }"로 애플리케이션 공유 중
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = "{ $streamTitle }"로 화면 공유 중
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = "{ $streamTitle }"로 창 공유 중
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }"로 탭 공유 중
 
