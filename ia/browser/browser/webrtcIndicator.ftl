@@ -161,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = Permitter que { $origin } ascolta 
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } permisso de ascoltar le audio de iste scheda?
 webrtc-allow-share-camera-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le accesso a tu camera?
 webrtc-allow-share-microphone-unsafe-delegations = Permitter que { $origin } concede a { $thirdParty } le accesso a tu microphono?
 webrtc-allow-share-screen-unsafe-delegation = Permitter que { $origin } concede a { $thirdParty } le permission de vider tu schermo?
