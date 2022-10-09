@@ -41,6 +41,8 @@ webrtc-sharing-menuitem =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = Control Sharing
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Control Sharing on “{ $streamTitle }”
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
