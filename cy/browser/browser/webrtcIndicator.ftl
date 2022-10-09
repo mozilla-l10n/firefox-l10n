@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Dangosydd rhannu
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Dangosydd rhannu
 
 ## Used as list items in sharing menu
 
@@ -172,16 +174,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Caniatáu i { $origin } wrando ar sain y tab hwn?
+webrtc-allow-share-camera = Caniatáu i { $origin } ddefnyddio’ch camera?
+webrtc-allow-share-microphone = Caniatáu i { $origin } ddefnyddio’ch meicroffon?
+webrtc-allow-share-screen = Caniatáu i { $origin } weld eich sgrin?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Caniatáu i { $origin } ddefnyddio seinyddion eraill?
+webrtc-allow-share-camera-and-microphone = Caniatáu i { $origin } ddefnyddio'ch camera a'ch meicroffon?
+webrtc-allow-share-camera-and-audio-capture = Caniatáu i { $origin } ddefnyddio'ch camera a gwrando ar sain y tab hwn?
+webrtc-allow-share-screen-and-microphone = Caniatáu i { $origin } ddefnyddio'ch meicroffon a gweld eich sgrin?
+webrtc-allow-share-screen-and-audio-capture = Caniatáu i { $origin } wrando ar sain y tab hwn a gweld eich sgrin?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } at eich camera?
+webrtc-allow-share-microphone-unsafe-delegations = Caniatáu i { $origin } roi mynediad i { $thirdParty } i'ch meicroffon?
+webrtc-allow-share-screen-unsafe-delegation = Caniatáu i { $origin } roi caniatâd i { $thirdParty } weld eich sgrin?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Caniatáu i { $origin } roi mynediad  i { $thirdParty } i seinyddion eraill?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } i'ch camera a'ch meicroffon?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } at eich camera a gwrando ar sain y tab hwn?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } i'ch meicroffon a gweld eich sgrin?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Caniatáu i { $origin } roi caniatâd i { $thirdParty } wrando ar sain y tab hwn a gweld eich sgrin?
 
 ##
 
+webrtc-share-screen-warning = Rhannwch dim ond sgriniau â gwefannau rydych chi'n ymddiried ynddyn nhw. Gall rhannu ganiatáu i wefannau twyllodrus bori fel taw chi sydd wrthi a dwyn eich data preifat.
+webrtc-share-browser-warning = Rhannwch { -brand-short-name } dim ond gyda gwefannau rydych yn ymddiried ynddyn nhw. Gall rhannu ganiatáu i wefannau twyllodrus bori fel taw chi sydd wrthi a dwyn eich data preifat.
 webrtc-share-screen-learn-more = Dysgu Rhagor
+webrtc-pick-window-or-screen = Dewiswch Ffenestr neu Sgrin
 webrtc-share-entire-screen = Sgrin gyfan
+webrtc-share-pipe-wire-portal = Defnyddio gosodiadau'r system weithredu
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Sgrin { $monitorIndex }
@@ -203,10 +230,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Caniatáu
     .accesskey = C
+webrtc-action-block =
+    .label = Rhwystro
+    .accesskey = R
+webrtc-action-always-block =
+    .label = Rhwystro bob tro
+    .accesskey = b
+webrtc-action-not-now =
+    .label = Nid nawr
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Cofio'r penderfyniad yma
+webrtc-mute-notifications-checkbox = Tewi hysbysiadau gwefan tra'n rhannu
 webrtc-reason-for-no-permanent-allow-screen = Nid yw { -brand-short-name } yn caniatáu mynediad parhaus i'ch sgrin.
 webrtc-reason-for-no-permanent-allow-audio = Nid yw { -brand-short-name } yn gallu caniatáu mynediad parhaol i sain eich tab heb ofyn pa dab i'w rannu.
 webrtc-reason-for-no-permanent-allow-insecure = Nid yw eich cysylltiad a'r wefan hon y ddiogel. Er mwyn eich diogelu, dim ond ar gyfer y sesiwn yma y bydd { -brand-short-name } yn caniatáu mynediad.

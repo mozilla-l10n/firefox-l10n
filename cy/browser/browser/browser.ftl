@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Pori Preifat)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Pori Preifat)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Pori Preifat)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Pori Preifat)
-
 # These are the default window titles everywhere except macOS. The first two
 # attributes are used when the web content opened has no title:
 #
@@ -54,7 +52,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } Pori Preifat
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Pori Preifat
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -74,15 +71,12 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Pori Preifat
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Pori Preifat
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 private-browsing-shortcut-text = Pori Preifat { -brand-short-name }
-
 private-browsing-shortcut-text-2 = Pori Preifat { -brand-shortcut-name }
 
 ##
@@ -154,7 +148,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Teipio llai, canfod mwy: Chwiliwch gyda { $engineName } yn syth o'ch bar cyfeiriad.
 urlbar-search-tips-redirect-2 = Cychwynnwch eich chwilio yma i weld awgrymiadau gan { $engineName } a'ch hanes pori.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Dewiswch y llwybr byr hwn i ddod o hyd i'r hyn sydd ei angen arnoch yn gynt.
@@ -164,7 +157,6 @@ urlbar-tabtosearch-onboard = Dewiswch y llwybr byr hwn i ddod o hyd i'r hyn sydd
 urlbar-search-mode-bookmarks = Nodau tudalen
 urlbar-search-mode-tabs = Tabiau
 urlbar-search-mode-history = Hanes
-
 urlbar-search-mode-actions = Gweithredoedd
 
 ##
@@ -193,12 +185,10 @@ urlbar-midi-blocked =
     .tooltiptext = Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.
 urlbar-install-blocked =
     .tooltiptext = Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Golygu'r nod tudalen ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,7 +200,6 @@ page-action-manage-extension =
     .label = Rheoli Estyniad…
 page-action-remove-extension =
     .label = Tynnu Estyniad
-
 page-action-manage-extension2 =
     .label = Rheoli Estyniad…
     .accesskey = E
@@ -232,10 +221,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Y tro hwn, chwilio gyda:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Newid y gosodiadau chwilio
-
 search-one-offs-context-open-new-tab =
     .label = Chwilio mewn Tab Newydd
     .accesskey = T
@@ -245,14 +232,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Gosod fel y Peiriant Chwilio Rhagosodedig ar gyfer Windows Preifat
     .accesskey = G
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -279,7 +264,6 @@ search-one-offs-tabs =
     .tooltiptext = Tabiau ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Hanes ({ $restrict })
-
 search-one-offs-actions =
     .tooltiptext = Gweithredoedd ( { $restrict } )
 
@@ -290,73 +274,55 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Gweld Ychwanegion
 quickactions-cmd-addons = ychwanegion, estyniadau, themâu
-
 quickactions-cmd-addons2 = ychwanegion
-
 # Opens the bookmarks library window
 quickactions-bookmarks = Gweld Nodau Tudalen
 quickactions-cmd-bookmarks = nodau tudalen
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Clirio Hanes
 quickactions-cmd-clearhistory = clirio hanes
-
 # Opens about:downloads page
 quickactions-downloads = Agor y Llwythi
 quickactions-cmd-downloads = llwythi
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rheoli estyniadau
 quickactions-cmd-extensions = estyniadau
-
 # Opens the devtools web inspector
 quickactions-inspector = Agor yr Archwilydd
 quickactions-cmd-inspector = arolygydd, devtools
-
 # Opens about:logins
 quickactions-logins = Gweld Mewngofnodion
 quickactions-cmd-logins = mewngofnodion, cyfrineiriau
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = Rheoli ategion
 quickactions-cmd-plugins = ategion
-
 # Opens the print dialog
 quickactions-print = Argraffu
 quickactions-cmd-print = argraffu
-
 # Opens a new private browsing window
 quickactions-private = Agor Ffenestr Pori Preifat
 quickactions-cmd-private = pori preifat
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Adnewyddu { -brand-short-name }
 quickactions-cmd-refresh = adnewyddu
-
 # Restarts the browser
 quickactions-restart = Ailgychwyn { -brand-short-name }
 quickactions-cmd-restart = ailgychwyn
-
 # Opens the screenshot tool
 quickactions-screenshot2 = Cymryd Llun Sgrin
 quickactions-cmd-screenshot = llun sgrin
-
 # Opens about:preferences
 quickactions-settings = Agor y Gosodiadau
 quickactions-cmd-settings = gosodiadau, dewisiadau, opsiynau
-
 # Opens about:addons page in the themes section
 quickactions-themes = Rheoli themâu
 quickactions-cmd-themes = themâu
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Diweddaru { -brand-short-name }
 quickactions-cmd-update = diweddaru
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Gweld y Ffynhonell
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Dysgu rhagor am weithredoedd Cyflym
@@ -386,7 +352,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = D
 bookmark-panel-save-button =
     .label = Cadw
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -414,7 +379,6 @@ identity-passive-loaded = Nid yw rhannau o'r dudalen hon yn ddiogel (megis delwe
 identity-active-loaded = Rydych wedi analluogi diogelwch ar y dudalen hon.
 identity-weak-encryption = Mae'r dudalen hon yn defnyddio amgryptiad gwan.
 identity-insecure-login-forms = Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.
-
 identity-https-only-connection-upgraded = (wedi'i uwchraddio i HTTPS)
 identity-https-only-label = Modd HTTPS-yn-Unig
 identity-https-only-dropdown-on =
@@ -426,11 +390,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Trowch y Modd HTTPS-yn-Unig ymlaen os ydych chi am i { -brand-short-name } uwchraddio'r cysylltiad lle'n bosibl.
 identity-https-only-info-turn-off2 = Os yw'r wefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd Modd HTTPS-yn-Unig i'w ail-lwytho gan ddefnyddio HTTP anniogel.
 identity-https-only-info-no-upgrade = Methu uwchraddio'r cysylltiad o HTTP.
-
 identity-permissions-storage-access-header = Cwcis traws-gwefan
 identity-permissions-storage-access-hint = Gall y partïon hyn ddefnyddio cwcis traws-gwefan a data gwefan tra'ch bod chi ar y wefan hon.
 identity-permissions-storage-access-learn-more = Dysgu rhagor
-
 identity-permissions-reload-hint = Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.
 identity-clear-site-data =
     .label = Clirio Data Cwcis a Gwefan…
@@ -498,7 +460,6 @@ browser-tab-mute =
         [many] MUDO { $count } THAB
        *[other] MUDO { $count } TAB
     }
-
 browser-tab-unmute =
     { $count ->
         [1] DAD-FUDO TAB
@@ -509,7 +470,6 @@ browser-tab-unmute =
         [many] DAD-FUDO { $count } THAB
        *[other] DAD-FUDO { $count } TAB
     }
-
 browser-tab-unblock =
     { $count ->
         [1] CHWARAE TAB
@@ -526,7 +486,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Mewnforio nodau tudalen…
     .tooltiptext = Mewnforio nodau tudalen o borwr arall i { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = I gael mynediad cyflym, rhowch eich nodau tudalen yma ar y bar offer nodau tudalen. <a data-l10n-name="manage-bookmarks"> Rheoli nodau tudalen…</a>
 
 ## WebRTC Pop-up notifications
@@ -543,16 +502,16 @@ popup-select-microphone-icon =
     .tooltiptext = Meicroffon
 popup-select-speaker-icon =
     .tooltiptext = Seinyddion
+popup-select-window-or-screen =
+    .label = Ffenestr neu sgrin:
+    .accesskey = F
 popup-all-windows-shared = Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.
-
 popup-screen-sharing-block =
     .label = Rhwystro
     .accesskey = R
-
 popup-screen-sharing-always-block =
     .label = Rhwystro bob tro
     .accesskey = b
-
 popup-mute-notifications-checkbox = Tewi hysbysiadau gwefan tra'n rhannu
 
 ## WebRTC window or screen share tab switch warning
@@ -567,7 +526,6 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = I ddefnyddio llwybr byr F12 agorwch DevTools yn gyntaf trwy'r ddewislen Datblygwr Gwe.
-
 enable-devtools-popup-description2 = I ddefnyddio'r llwybr byr F12, agorwch DevTools yn gyntaf trwy'r ddewislen Offer Porwr.
 
 ## URL Bar
@@ -576,7 +534,6 @@ enable-devtools-popup-description2 = I ddefnyddio'r llwybr byr F12, agorwch DevT
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Chwilio neu gyfeiriad gwe
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -585,7 +542,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Chwilio'r We
     .aria-label = Chwilio gyda { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -594,32 +550,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio'r nodau tudalen
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio'ch hanes
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio'r tabiau
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Rhowch dermau chwilio
     .aria-label = Gweithredoedd chwilio
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Chwilio gyda { $name } neu rhoi'r cyfeiriad
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -629,11 +579,9 @@ urlbar-permissions-granted =
     .tooltiptext = Rydych wedi rhoi caniatâd ychwanegol i'r wefan hon.
 urlbar-switch-to-tab =
     .value = Newid i dab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estyniad:
-
 urlbar-go-button =
     .tooltiptext = Mynd i'r cyfeiriad yn y Bar Lleoliad
 urlbar-page-action-button =
@@ -693,7 +641,6 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Chwilio'r Nodau Tudalen
 urlbar-result-action-search-history = Chwilio'r Hanes
 urlbar-result-action-search-tabs = Chwilio'r Tabiau
-
 urlbar-result-action-search-actions = Gweithredoedd Chwilio
 
 ## Labels shown above groups of urlbar results
@@ -702,14 +649,12 @@ urlbar-result-action-search-actions = Gweithredoedd Chwilio
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Awgrymiadau { $engine }
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Gweithredoedd Cyflym
@@ -721,12 +666,9 @@ urlbar-group-quickactions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> nawr yn sgrin lawn
 fullscreen-warning-no-domain = Mae'r ddogfen nawr yn sgrin lawn
-
-
 fullscreen-exit-button = Gadael y Sgrin Lawn (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Gadael y Sgrin Lawn (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -736,7 +678,6 @@ pointerlock-warning-no-domain = Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pw
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Mae rhan o'r dudalen hon wedi chwalu.</strong> Er mwyn rhoi gwybod i { -brand-product-name } am y mater hwn a'i drwsio'n gynt, cyflwynwch adroddiad.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -792,10 +733,8 @@ bookmarks-tools =
     .label = Offer Nodau Tudalen
 bookmarks-bookmark-edit-panel =
     .label = Golygu'r Nod Tudalen
-
 bookmarks-subview-edit-bookmark =
     .label = Golygu'r nod tudalen…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -809,11 +748,9 @@ bookmarks-toolbar-placeholder =
     .title = Eitemau Bar Offer Nodau Tudalen
 bookmarks-toolbar-placeholder-button =
     .label = Eitemau Bar Offer Nodau Tudalen
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Gosod Nod Tudalen i'r Tab Cyfredol
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Gosod nod tudalen i'r tab cyfredol…
@@ -844,7 +781,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Ychwanegion a Themâu
     .tooltiptext = Rheolwch eich ychwanegion a'ch thenâu ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -854,31 +790,25 @@ toolbar-settings-button =
             [macos] Agor y gosodiadau ({ $shortcut })
            *[other] Agor y gosodiadau
         }
-
 toolbar-overflow-customize-button =
     .label = Cyfaddasu'r Bar Offer…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = E-bostio'r Ddolen
     .tooltiptext = E-bostio dolen i'r dudalen hon
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Cadw Tudalen
     .tooltiptext = Cadw'r dudalen hon ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Agor Ffeil
     .tooltiptext = Agor ffeil ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Tabiau wedi'u Cydweddu
     .tooltiptext = Dangos tabiau o ddyfeisiau eraill
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -919,7 +849,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Caniatáu llamlenni ar gyfer { $uriHost }
     .accesskey = l
-
 popups-infobar-block =
     .label = Rhwystro llamlenni ar gyfer { $uriHost }
     .accesskey = l
@@ -929,11 +858,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Peidio dangos y neges pan mae llamlenni wedi eu rhwystro
     .accesskey = P
-
 edit-popup-settings =
     .label = Rheoli gosodiadau llamlenni…
     .accesskey = l
-
 picture-in-picture-hide-toggle =
     .label = Cuddio'r Togl Llun mewn Llun
     .accesskey = L
@@ -944,7 +871,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Symud Toglo Llun-mewn-Llun i'r Ochr Dde
     .accesskey = D
-
 picture-in-picture-move-toggle-left =
     .label = Symud Toglo Llun-mewn-Llun i'r Ochr Chwith
     .accesskey = C
@@ -959,42 +885,32 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Llywio
-
 navbar-downloads =
     .label = Llwytho i Lawr
-
 navbar-overflow =
     .tooltiptext = Rhagor o offer…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Argraffu
     .tooltiptext = Argraffu'r dudalen… ({ $shortcut })
-
 navbar-home =
     .label = Cartref
     .tooltiptext = Cartref { -brand-short-name }
-
 navbar-library =
     .label = Llyfrgell
     .tooltiptext = Gweld hanes, nodau tudalen wedi eu cadw, a rhagor
-
 navbar-search =
     .title = Chwilio
-
 navbar-accessibility-indicator =
     .tooltiptext = Nodweddion Hygyrchedd wedi eu Galluogi
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tabiau porwyr
-
 tabs-toolbar-new-tab =
     .label = Tab Newydd
-
 tabs-toolbar-list-all-tabs =
     .label = Rhestru pob tab
     .tooltiptext = Rhestru pob tab
@@ -1011,7 +927,6 @@ data-reporting-notification-message = Mae { -brand-short-name } yn anfon peth da
 data-reporting-notification-button =
     .label = Dewis Beth Rwy'n Rhannu
     .accesskey = D
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Pori preifat
 
