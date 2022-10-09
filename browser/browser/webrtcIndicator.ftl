@@ -15,14 +15,26 @@
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = કેમેરા
+webrtc-item-microphone = માઇક્રોફોન
+webrtc-item-audio-capture = ટેબ ઓડિયો
+webrtc-item-application = એપ્લિકેશન
+webrtc-item-screen = સ્ક્રીન
+webrtc-item-window = વિન્ડો
+webrtc-item-browser = ટેબ
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = અજ્ઞાત ઉદ્ગમ
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = ટૅબ્સ શેરિંગ ઉપકરણો
+    .accesskey = d
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
@@ -68,6 +80,8 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } ટૅબ સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = “{ $streamTitle }” સાથે એપ્લિકેશન વહેંચી રહ્યાં છીઅે
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" સાથે સ્ક્રીનને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -102,6 +116,13 @@ webrtc-share-entire-screen = આખી સ્ક્રીન
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = પરવાનગી આપો
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = આ નિર્ણય યાદ રાખો
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } તમારી સ્ક્રીન ને કાયમી ઍક્સેસ માટે પરવાનગી આપશે નહી.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } કયુ ટેબ શેર કરવાનુ છે તે પૂછ્યા વિના તમારા ટેબ ઓડીયો કાયમી હક માટે પરવાનગી આપશે નહી.
+webrtc-reason-for-no-permanent-allow-insecure = આ સાઇટ પરનું તમારું કનેક્શન સુરક્ષિત નથી. તેને સુરક્ષિત કરવા માટે, { -brand-short-name } ફક્ત આ સત્ર માટે હક પરવાનગી આપશે.
