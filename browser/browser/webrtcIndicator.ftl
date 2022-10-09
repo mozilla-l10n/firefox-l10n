@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = Ukazovateľ zdieľania aplikácie { -brand-short-name }
 webrtc-indicator-window =
     .title = Ukazovateľ zdieľania aplikácie { -brand-short-name }
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Zdieľate svoju kameru. Pre úpravu zdieľania kliknite sem.
 webrtc-microphone-system-menu =
@@ -172,6 +167,7 @@ webrtc-allow-share-screen-and-audio-capture = Chcete stránke { $origin } povoli
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Chcete povoliť serveru { $origin }, aby umožnil prístup k počúvaniu zvuku z tejto karty pre { $thirdParty }?
 webrtc-allow-share-camera-unsafe-delegation = Chcete povoliť serveru { $origin }, aby umožnil prístup k vašej kamere pre { $thirdParty }?
 webrtc-allow-share-microphone-unsafe-delegations = Chcete povoliť serveru { $origin }, aby umožnil prístup k vášmu mikrofónu pre { $thirdParty }?
 webrtc-allow-share-screen-unsafe-delegation = Chcete povoliť serveru { $origin }, aby umožnil prístup k zdieľaniu obrazovky pre { $thirdParty }?
