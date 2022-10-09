@@ -20,6 +20,7 @@ webrtc-indicator-title = { -brand-short-name } – Pokazatelj skupne rabe
 
 webrtc-item-camera = kamera
 webrtc-item-microphone = mikrofon
+webrtc-item-audio-capture = zvok zavihka
 webrtc-item-application = aplikacija
 webrtc-item-screen = zaslon
 webrtc-item-window = okno
@@ -159,11 +160,16 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-screen-and-microphone = Dovolite strani { $origin } uporabo mikrofona in ogled vašega zaslona?
+webrtc-allow-share-screen-and-audio-capture = Dovolite strani { $origin } poslušanje zvoka tega zavihka in ogled vašega zaslona?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Dovolite { $origin }, da { $thirdParty } omogoči dostop do vaše kamere in poslušanje zvoka zavihka?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Dovolite { $origin }, da { $thirdParty } omogoči dostop do vašega mikrofona in ogled vašega zaslona?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dovolite { $origin }, da { $thirdParty } omogoči poslušanje zvoka zavihka in ogled vašega zaslona?
 
 ##
 
