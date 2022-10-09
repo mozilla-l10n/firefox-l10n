@@ -141,6 +141,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = مزید سیکھیں
+webrtc-pick-window-or-screen = ونڈو یا اسکرین منتخب کریں
 webrtc-share-entire-screen = پوری سکرین
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -156,9 +157,16 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-block =
+    .label = بلاک کریں
+    .accesskey = B
+webrtc-action-always-block =
+    .label = ہمیشہ بلاک کریں
+    .accesskey = w
 
 ##
 
 webrtc-remember-allow-checkbox = یہ فیصلہ یاد رکھیں
+webrtc-mute-notifications-checkbox = شیئر کرتے وقت ویب سائٹ کی اطلاعات کو خاموش کریں
 webrtc-reason-for-no-permanent-allow-audio = بغیر پچھیں کس ٹیب کی اپکو شیئر کرنی ہے { -brand-short-name } آپ کو ٹیب کے آڈیو کی مستقل رسائی کی اجازت نہیں دے سکتا۔
 webrtc-reason-for-no-permanent-allow-insecure = اس سائٹ کے ساتھ آپکا کنکشن محفوظ نہیں ہے۔ آپ کی حفاظت کے لیئے، { -brand-short-name } صرف اس سیشن کے لیئے رسائی فراہم کرے گا۔
