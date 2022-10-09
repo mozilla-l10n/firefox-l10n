@@ -18,9 +18,18 @@ webrtc-indicator-title = { -brand-short-name } - Δείκτης κοινής χ�
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = κάμερα
+webrtc-item-microphone = μικρόφωνο
+webrtc-item-audio-capture = ήχος καρτέλας
+webrtc-item-application = εφαρμογή
+webrtc-item-screen = οθόνη
+webrtc-item-window = παράθυρο
+webrtc-item-browser = καρτέλα
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Άγνωστη προέλευση
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -57,6 +66,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Η κάμερα και το μικρόφωνό σας είναι κοινόχρηστα. Κάντε κλικ για έλεγχο κοινής χρήσης.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Η κάμερά σας είναι κοινόχρηστη. Κάντε κλικ για έλεγχο κοινής χρήσης.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Το μικρόφωνό σας είναι κοινόχρηστο. Κάντε κλικ για έλεγχο κοινής χρήσης.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Μια εφαρμογή είναι κοινόχρηστη. Κάντε κλικ για έλεγχο κοινής χρήσης.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Η οθόνη σας είναι κοινόχρηστη. Κάντε κλικ για έλεγχο κοινής χρήσης.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Ένα παράθυρο είναι κοινόχρηστο. Κάντε κλικ για έλεγχο κοινής χρήσης.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Μια καρτέλα είναι κοινόχρηστη. Κάντε κλικ για έλεγχο κοινής χρήσης.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +87,46 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Έλεγχος κοινής χρήσης
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Κοινή χρήση κάμερας με { $tabCount } καρτέλα
+           *[other] Κοινή χρήση κάμερας με { $tabCount } καρτέλες
+        }
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Κοινή χρήση μικροφώνου με { $tabCount } καρτέλα
+           *[other] Κοινή χρήση μικροφώνου με { $tabCount } καρτέλες
+        }
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Κοινή χρήση εφαρμογής με { $tabCount } καρτέλα
+           *[other] Κοινή χρήση εφαρμογών με { $tabCount } καρτέλες
+        }
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Κοινή χρήση οθόνης με { $tabCount } καρτέλα
+           *[other] Κοινή χρήση οθόνης με { $tabCount } καρτέλες
+        }
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Κοινή χρήση παραθύρου με { $tabCount } καρτέλα
+           *[other] Κοινή χρήση παραθύρων με { $tabCount } καρτέλες
+        }
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Κοινή χρήση καρτέλας με { $tabCount } καρτέλα
+           *[other] Κοινή χρήση καρτελών με { $tabCount } καρτέλες
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,12 +139,24 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = Μάθετε περισσότερα
+webrtc-share-entire-screen = Ολόκληρη η οθόνη
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Οθόνη { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } παράθυρο)
+       *[other] { $appName } ({ $windowCount } παράθυρα)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
 
 ##
 
+webrtc-reason-for-no-permanent-allow-screen = Το { -brand-short-name } δεν μπορεί να επιτρέψει μόνιμη πρόσβαση στην οθόνη σας.
+webrtc-reason-for-no-permanent-allow-audio = Το { -brand-short-name } δεν μπορεί να επιτρέψει μόνιμη πρόσβαση στον ήχο της καρτέλας σας χωρίς να ρωτήσει ποια καρτέλα θα διαμοιραστεί.
