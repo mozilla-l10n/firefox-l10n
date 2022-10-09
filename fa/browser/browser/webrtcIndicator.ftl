@@ -18,14 +18,26 @@ webrtc-indicator-title = { -brand-short-name } — شاخص اشتراک‌گذ�
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = دوربین
+webrtc-item-microphone = میکروفن
+webrtc-item-audio-capture = صدای زبانه
+webrtc-item-application = برنامه
+webrtc-item-screen = صفحه‌نمایش
+webrtc-item-window = پنجره
+webrtc-item-browser = زبانه
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = مبدا نا‌شناخته
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = زبانه‌های دستگاه‌های به‌اشتراک‌گذاری شده
+    .accesskey = د
 webrtc-sharing-window = شما پنجرهٔ یک برنامه دیگر را اشتراک گذاشته‌اید.
 webrtc-sharing-browser-window = شما { -brand-short-name } را به اشتراک گذاشته‌اید.
 webrtc-sharing-screen = شما تمامِ صفحهٔ خود را به اشتراک گذاشته‌اید.
@@ -57,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = دوربین و میکروفن شما به اشتراک گذاشته شدند. کلیک برای مدیریت به اشتراک گذاری.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = دوربین شما به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = میکروفن شما به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
+webrtc-indicator-sharing-application =
+    .tooltiptext = برنامه به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = صفحه نمایشگر شما به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
+webrtc-indicator-sharing-window =
+    .tooltiptext = پنجره به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = زبانه به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +90,22 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = مدیریت به اشتراک گذاری
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = مدیریت به اشتراک‌گذاری بر روی "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = به اشتراک گذاری دوربین با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = به اشتراک گذاری میکروفن با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = به اشتراک گذاری برنامه با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = به اشتراک گذاری صفحه نمایشگر با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = به اشتراک گذاری پنجره با " { $streamTitle } "
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = به اشتراک گذاری زبانه با " { $streamTitle } "
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,9 +118,29 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-screen-learn-more = اطلاعات بیشتر
+webrtc-share-entire-screen = تمام صفحه
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = صفحه‌نمایش { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName }({ $windowCount } پنجره)
+       *[other] { $appName } ({ $windowCount } پنجره)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = اجازه دادن
+    .accesskey = ا
 
 ##
 
+webrtc-remember-allow-checkbox = این تصمیم را به خاطر بسپار
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } به صورت موقت اجازه دسترسی به صفحه شما را ندارد.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } نمی تواند به طور دائمی به گوش دادن صدای زبانه های شما بدون پرسیدن سوال در مورد به اشتراک گذاشتن‌ آن زبانه دسترسی داشته باشد.
+webrtc-reason-for-no-permanent-allow-insecure = ارتباط شما امن نیست. برای محافظت از خود، { -brand-short-name }  تنها مجوز دسترسی برای همین جلسه را دارد.
