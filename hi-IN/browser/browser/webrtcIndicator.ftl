@@ -17,7 +17,7 @@
 
 webrtc-item-camera = कैमरा
 webrtc-item-microphone = माइक्रोफ़ोन
-webrtc-item-audio-capture = %1$S(टैब ऑडियो
+webrtc-item-audio-capture = टैब ऑडियो
 webrtc-item-application = अनुप्रयोग
 webrtc-item-screen = स्क्रीन
 webrtc-item-window = विंडो
