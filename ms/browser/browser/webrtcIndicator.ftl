@@ -15,6 +15,12 @@
 
 ## Used as list items in sharing menu
 
+webrtc-item-microphone = mikrofon
+webrtc-item-audio-capture = audio tab
+webrtc-item-application = aplikasi
+webrtc-item-screen = skrin
+webrtc-item-window = tetingkap
+webrtc-item-browser = tab
 
 ##
 
@@ -31,6 +37,20 @@ webrtc-sharing-menuitem =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Kamera dan mikrofon anda sedang dikongsi. Klik untuk kawalan perkongsian.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Kamera anda sedang dikongsi. Klik untuk kawalan perkongsian.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Mikrofon anda sedang dikongsi. Klik untuk kawalan perkongsian.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Aplikasi sedang dikongsi. Klik untuk kawalan perkongsian.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Skrin anda sedang dikongsi. Klik untuk kawalan perkongsian.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Tetingkap anda sedang dikongsi. Klik untuk kawalan perkongsian.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Tab sedang dikongsi. Klik untuk kawalan perkongsian.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -38,6 +58,20 @@ webrtc-sharing-menuitem =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Kawalan Perkongsian
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Kawalan Perkongsian dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Berkongsi Kamera dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Berkongsi Mikrofon dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Berkongsi Skrin dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Berkongsi Tetingkap dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Berkongsi Kamera dengan "{ $streamTitle }"
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -50,6 +84,10 @@ webrtc-sharing-menuitem =
 
 ##
 
+webrtc-share-entire-screen = Keseluruhan skrin
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Skrin { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
