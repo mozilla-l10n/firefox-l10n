@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicator de partajare
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indicator de partajare
 
 ## Used as list items in sharing menu
 
@@ -103,6 +105,13 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = O aplicație este partajată cu „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O aplicație partajată cu { $tabCount } filă
+            [few] Aplicații partajate cu { $tabCount } file
+           *[other] Aplicații partajate cu { $tabCount } de file
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ecranul este partajat cu „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -114,8 +123,24 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = O fereastră este partajată cu „{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O fereastră partajată cu { $tabCount } filă
+            [few] Ferestre partajate cu { $tabCount } file
+           *[other] Ferestre partajate cu { $tabCount } de file
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = O filă este partajată cu „{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] O filă partajată cu { $tabCount } filă
+            [few] File partajate cu { $tabCount } file
+           *[other] File partajate cu { $tabCount } de file
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -129,6 +154,8 @@ webrtc-indicator-menuitem-sharing-browser-with =
 ##
 
 webrtc-share-screen-learn-more = Află mai multe
+webrtc-pick-window-or-screen = Selectează fereastra sau ecranul
+webrtc-share-entire-screen = Tot ecranul
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ecranul { $monitorIndex }
@@ -150,4 +177,7 @@ webrtc-action-allow =
 
 ##
 
+webrtc-remember-allow-checkbox = Ține minte decizia
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nu poate permite accesul permanent la ecran.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nu poate permite accesul permanent la sunetele din filă fără să te întrebe ce filă să partajeze.
+webrtc-reason-for-no-permanent-allow-insecure = Conexiunea la acest site nu este sigură. Pentru a te proteja, { -brand-short-name } va permite accesul numai pentru această sesiune.
