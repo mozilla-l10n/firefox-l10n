@@ -18,6 +18,11 @@ webrtc-indicator-title = { -brand-short-name } – Indicator voor delen
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = camera
+webrtc-item-microphone = microfoon
+webrtc-item-application = toepassing
+webrtc-item-screen = scherm
+webrtc-item-window = venster
 
 ##
 
@@ -57,6 +62,18 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Uw camera en microfoon worden gedeeld. Klik om delen te beheren.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Uw camera wordt gedeeld. Klik om delen te beheren.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Uw microfoon wordt gedeeld. Klik om delen te beheren.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Een toepassing wordt gedeeld. Klik om delen te beheren.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Uw scherm wordt gedeeld. Klik om delen te beheren.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Een venster wordt gedeeld. Klik om delen te beheren.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +81,8 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Delen beheren
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +95,15 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Gehele scherm
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } venster)
+       *[other] { $appName } ({ $windowCount } vensters)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
