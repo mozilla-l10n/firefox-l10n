@@ -73,6 +73,8 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = გაზიარება მართვა
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
