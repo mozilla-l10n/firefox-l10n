@@ -157,6 +157,9 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = اجازت دیں
+    .accesskey = A
 webrtc-action-block =
     .label = بلاک کریں
     .accesskey = B
