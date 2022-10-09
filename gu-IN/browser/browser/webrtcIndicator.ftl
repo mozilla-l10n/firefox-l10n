@@ -49,10 +49,14 @@ webrtc-indicator-sharing-camera =
     .tooltiptext = તમારાં કૅમેરાને વહેંચવામાં આવ્યો છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
 webrtc-indicator-sharing-microphone =
     .tooltiptext = તમારાં માઇક્રોફોનને વહેંચવામાં આવ્યો છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
+webrtc-indicator-sharing-application =
+    .tooltiptext = એક એપ્લિકેશન શેર કરવામાં આવી રહી છે. શેરિંગને નિયંત્રિત કરવા માટે ક્લિક કરો.
 webrtc-indicator-sharing-screen =
     .tooltiptext = તમારી સ્ક્રીનને વહેંચવામાં આવી છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
 webrtc-indicator-sharing-window =
     .tooltiptext = વિન્ડોને વહેંચવામાં આવી હતી. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = ટૅબ શેર કરવામાં આવી રહ્યો છે. શેરિંગને નિયંત્રિત કરવા માટે ક્લિક કરો.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -82,6 +86,12 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = “{ $streamTitle }” સાથે એપ્લિકેશન વહેંચી રહ્યાં છીઅે
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ટેબ સાથે એપ્લિકેશન શેર કરી
+           *[other] { " " }{ $tabCount } ટૅબ્સ સાથે શેરિંગ એપ્લિકેશન
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" સાથે સ્ક્રીનને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -100,6 +110,14 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }" સાથે કૅમેરાને વહેંચી રહ્યા છે
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ટૅબ સાથે ટેબને શેર કરી રહ્યું છે
+           *[other] { " " }{ $tabCount } ટૅબ્સ સાથે ટૅબ્સ શેર કરી રહ્યું છે
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
