@@ -196,6 +196,9 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Дозволити
+    .accesskey = з
 webrtc-action-block =
     .label = Блокувати
     .accesskey = Б
@@ -208,6 +211,7 @@ webrtc-action-not-now =
 
 ##
 
+webrtc-remember-allow-checkbox = Запам’ятати це рішення
 webrtc-mute-notifications-checkbox = Вимкнути сповіщення вебсайту під час спільного доступу
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не може дозволити постійний доступ до аудіо вашої вкладки без запиту.
 webrtc-reason-for-no-permanent-allow-insecure = Ваше з'єднання з цим сайтом незахищене. Для вашого захисту { -brand-short-name } дозволить доступ лише для цього сеансу.
