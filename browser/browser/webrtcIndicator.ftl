@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Індыкатар супольнага доступу
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Індыкатар супольнага доступу
 
 ## Used as list items in sharing menu
 
@@ -96,43 +98,123 @@ webrtc-indicator-menuitem-control-sharing-on =
     .label = Кіраваць сумесным доступам на “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Абагуленне камеры з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Абагуленне камеры з { $tabCount } карткай
+            [few] Абагуленне камеры з { $tabCount } карткамі
+           *[many] Абагуленне камеры з { $tabCount } карткамі
+        }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Абагуленне мікрафона з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Абагуленне мікрафона з { $tabCount } карткай
+            [few] Абагуленне мікрафона з { $tabCount } карткамі
+           *[many] Абагуленне мікрафона з { $tabCount } карткамі
+        }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Абагуленне праграмы з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Абагуленне праграмы з { $tabCount } карткай
+            [few] Абагуленне праграмы з { $tabCount } карткамі
+           *[many] Абагуленне праграмы з { $tabCount } карткамі
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Абагуленне экрану з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Абагуленне экрана з { $tabCount } карткай
+            [few] Абагуленне экрана з { $tabCount } карткамі
+           *[many] Абагуленне экрана з { $tabCount } карткамі
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Абагуленне акна з “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Абагуленне акна з { $tabCount } карткай
+            [few] Абагуленне акна з { $tabCount } карткамі
+           *[many] Абагуленне акна з { $tabCount } карткамі
+        }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Абагуленне карткі з “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Абагуленне карткі з { $tabCount } карткай
+            [few] Абагуленне карткі з { $tabCount } карткамі
+           *[many] Абагуленне карткі з { $tabCount } карткамі
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Дазволіць { $origin } выкарыстоўваць іншыя дынамікі?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ да вашай камеры?
+webrtc-allow-share-microphone-unsafe-delegations = Дазволіць { $origin } даць { $thirdParty } доступ да вашага мікрафона?
+webrtc-allow-share-screen-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ, каб бачыць ваш экран?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ да іншых дынамікаў?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ да вашай камеры і мікрафона?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ да вашай камеры і слухаць аўдыё з гэтай карткі?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ да вашага мікрафона і бачыць ваш экран?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дазволіць { $origin } даць { $thirdParty } доступ, каб слухаць аўдыё з гэтай карткі і бачыць ваш экран?
 
 ##
 
+webrtc-share-screen-warning = Паказвайце экран толькі сайтам, якім давяраеце. Такі паказ дапамагае падманлівым сайтам праглядаць старонкі, быццам гэта вы, выкрадаючы вашу прыватную інфармацыю.
+webrtc-share-browser-warning = Паказвайце { -brand-short-name } толькі сайтам, якім давяраеце. Такі паказ дапамагае падманлівым сайтам праглядаць старонкі, быццам гэта вы, выкрадаючы вашу прыватную інфармацыю.
 webrtc-share-screen-learn-more = Падрабязней
+webrtc-pick-window-or-screen = Выберыце акно ці экран
 webrtc-share-entire-screen = Увесь экран
+webrtc-share-pipe-wire-portal = Ужываць налады аперацыйнай сістэмы
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Экран { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } акно)
+        [few] { $appName } ({ $windowCount } акна)
+       *[many] { $appName } ({ $windowCount } акон)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
 webrtc-action-allow =
     .label = Дазволіць
     .accesskey = Д
+webrtc-action-block =
+    .label = Блакаваць
+    .accesskey = Б
+webrtc-action-always-block =
+    .label = Заўсёды блакаваць
+    .accesskey = З
+webrtc-action-not-now =
+    .label = Не зараз
+    .accesskey = Н
 
 ##
 
 webrtc-remember-allow-checkbox = Памятаць гэтае рашэнне
+webrtc-mute-notifications-checkbox = Адключыць абвесткі сайтаў у час абагульвання
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не можа дазволіць пастаянны доступ да вашага экрана.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не можа даць сталы доступ да аўдыё з карткі, не запытваючы, якой з картак дзяліцца.
 webrtc-reason-for-no-permanent-allow-insecure = Вашае злучэнне з гэтым сайтам небяспечнае. Каб вас абараніць, { -brand-short-name } дасць доступ толькі на гэты сеанс.
