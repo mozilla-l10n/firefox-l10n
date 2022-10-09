@@ -20,9 +20,11 @@ webrtc-indicator-title = { -brand-short-name } - Indicador de compartició
 
 webrtc-item-camera = càmera
 webrtc-item-microphone = micròfon
+webrtc-item-audio-capture = àudio de la pestanya
 webrtc-item-application = aplicació
 webrtc-item-screen = pantalla
 webrtc-item-window = finestra
+webrtc-item-browser = pestanya
 
 ##
 
@@ -79,6 +81,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Esteu compartint la pantalla. Feu clic aquí per controlar què voleu compartir.
 webrtc-indicator-sharing-window =
     .tooltiptext = Esteu compartint una finestra. Feu clic aquí per controlar què voleu compartir.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Esteu compartint una pestanya. Feu clic aquí per controlar què voleu compartir.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -88,35 +92,57 @@ webrtc-indicator-sharing-window =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = Control de compartició
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Controla la compartició en «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = S'està compartint la càmera amb «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] S'està compartint la càmera amb { $tabCount } pestanya
            *[other] S'està compartint la càmera amb { $tabCount } pestanyes
         }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = S'està compartint el micròfon amb «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] S'està compartint el micròfon amb { $tabCount } pestanya
            *[other] S'està compartint el micròfon amb { $tabCount } pestanyes
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = S'està compartint una aplicació amb «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] S'està compartint una aplicació amb { $tabCount } pestanya
            *[other] S'està compartint una aplicació amb { $tabCount } pestanyes
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = S'està compartint la pantalla amb «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] S'està compartint la pantalla amb { $tabCount } pestanya
            *[other] S'està compartint la pantalla amb { $tabCount } pestanyes
         }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = S'està compartint una finestra amb «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] S'està compartint una finestra amb { $tabCount } pestanya
            *[other] S'està compartint una finestra amb { $tabCount } pestanyes
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = S'està compartint una pestanya amb «{ $streamTitle }»
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] S'està compartint una pestanya amb { $tabCount } pestanya
+           *[other] S'està compartint una pestanya amb { $tabCount } pestanyes
         }
 
 ## Variables:
@@ -130,7 +156,11 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = Més informació
 webrtc-share-entire-screen = Pantalla sencera
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Pantalla { $monitorIndex }
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
@@ -142,6 +172,13 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Permet
+    .accesskey = P
 
 ##
 
+webrtc-remember-allow-checkbox = Recorda aquesta decisió
+webrtc-reason-for-no-permanent-allow-screen = El { -brand-short-name } no pot permetre l'accés permanent a la vostra pantalla.
+webrtc-reason-for-no-permanent-allow-audio = El { -brand-short-name } no pot permetre l'accés permanent a l'àudio de cap pestanya sense demanar abans quina pestanya voleu compartir.
+webrtc-reason-for-no-permanent-allow-insecure = La vostra connexió no és segura. Per protegir-vos, { -brand-short-name } només podrà accedir durant aquesta sessió.
