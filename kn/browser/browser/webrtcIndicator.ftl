@@ -130,6 +130,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
+webrtc-share-screen-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 webrtc-share-entire-screen = ಸಂಪೂರ್ಣ ತೆರೆ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -145,6 +146,9 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = ಅನುಮತಿಸು
+    .accesskey = A
 
 ##
 
