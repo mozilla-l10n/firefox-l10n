@@ -150,20 +150,37 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = { $origin } bu sekmenin sesini dinleyebilsin mi?
+webrtc-allow-share-camera = { $origin } kameranızı kullanabilsin mi?
+webrtc-allow-share-microphone = { $origin } mikrofonunuzu kullanabilsin mi?
+webrtc-allow-share-screen = { $origin } ekranınızı görebilsin mi?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = { $origin } diğer ses aygıtlarınızı kullanabilsin mi?
+webrtc-allow-share-camera-and-microphone = { $origin } kameranızı ve mikrofonunuzu kullanabilsin mi?
+webrtc-allow-share-camera-and-audio-capture = { $origin } kameranızı kullanabilsin ve bu sekmenin sesini dinleyebilsin mi?
+webrtc-allow-share-screen-and-microphone = { $origin } mikrofonunuzu kullanabilsin ve ekranınızı görebilsin mi?
+webrtc-allow-share-screen-and-audio-capture = { $origin } bu sekmenin sesini dinleyebilsin ve ekranınızı görebilsin mi?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = { $origin } { $thirdParty } sitesinin kameranıza erişmesine izin versin mi?
+webrtc-allow-share-microphone-unsafe-delegations = { $origin } { $thirdParty } sitesinin mikrofonunuza erişmesine izin versin mi?
+webrtc-allow-share-screen-unsafe-delegation = { $origin } { $thirdParty } sitesinin ekranınızı görmesine izin versin mi?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = { $origin } { $thirdParty } sitesinin diğer ses aygıtlarınıza erişmesine izin versin mi?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = { $origin } { $thirdParty } sitesinin kameranıza ve mikrofonunuza erişmesine izin versin mi?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $origin } { $thirdParty } sitesinin kameranıza erişmesine ve bu sekmenin sesini dinlemesine izin versin mi?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = { $origin } { $thirdParty } sitesinin mikrofonunuza erişmesine ve ekranınızı görmesine izin versin mi?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } { $thirdParty } sitesinin bu sekmenin sesini dinlemesine ve ekranınızı görmesine izin versin mi?
 
 ##
 
+webrtc-share-screen-warning = Yalnızca güvendiğiniz sitelerle ekranınızı paylaşın. Paylaşım, aldatıcı sitelerin sizin adınıza web’de dolaşmasına ve özel verilerinizi çalmasına olanak tanıyabilir.
+webrtc-share-browser-warning = Yalnızca güvendiğiniz sitelerle { -brand-short-name } paylaşımı yapın. Paylaşım, aldatıcı sitelerin sizin adınıza web’de dolaşmasına ve özel verilerinizi çalmasına olanak tanıyabilir.
 webrtc-share-screen-learn-more = Daha fazla bilgi alın
 webrtc-pick-window-or-screen = Pencere veya ekranı seçin
 webrtc-share-entire-screen = Tüm ekran
@@ -185,10 +202,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = İzin ver
     .accesskey = z
+webrtc-action-block =
+    .label = Engelle
+    .accesskey = E
+webrtc-action-always-block =
+    .label = Her zaman engelle
+    .accesskey = H
 
 ##
 
 webrtc-remember-allow-checkbox = Bu kararı hatırla
+webrtc-mute-notifications-checkbox = Paylaşırken web sitesi bildirimlerini sessize al
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ekranınıza kalıcı erişim izni veremiyor.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } hangi sekmeyi paylacağınızı sormadan sekme sesine kalıcı erişim izni vermez.
 webrtc-reason-for-no-permanent-allow-insecure = Bu siteye bağlantınız güvenli değil. { -brand-short-name } sizi korumak için yalnızca bu oturum boyunca erişime izin verecek.
