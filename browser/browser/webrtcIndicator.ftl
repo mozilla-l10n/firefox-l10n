@@ -148,14 +148,21 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = ¿Permitir que { $origin } use otros parlantes?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = ¿Permitir que { $origin } dé acceso a { $thirdParty } a otros parlantes?
 
 ##
 
+webrtc-share-screen-learn-more = Conocer más
 webrtc-share-entire-screen = Pantalla completa
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
@@ -171,6 +178,16 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Permitir
+    .accesskey = P
+webrtc-action-not-now =
+    .label = No ahora
+    .accesskey = N
 
 ##
 
+webrtc-remember-allow-checkbox = Recordar esta decisión
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no puede permitir el acceso permanente a la pantalla.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no puede permitir acceso permanente al audio de la pestaña sin preguntar cual compartir.
+webrtc-reason-for-no-permanent-allow-insecure = La conexión a este sitio no es segura. Como protección, { -brand-short-name } solamente permitirá acceso para esta sesión.
