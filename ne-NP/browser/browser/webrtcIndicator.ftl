@@ -84,6 +84,8 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] माइक्रोफोन साझेदारी { $tabCount } ट्याब
            *[other] माइक्रोफोन साझेदारी { $tabCount } ट्याब
         }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = “{ $streamTitle }” प्रयोग गर्दै अनुप्रयोग साझा गर्दै
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
@@ -151,3 +153,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = यो निर्णय सम्झनुहोस्
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ले तपाईँको स्क्रिनको स्थायी पहुँच दिन सक्दैन।
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ले कुन ट्याबलाई साझेदारी गर्ने हो नसोधी तपाईँको ट्याबको अडियो पहुँचको लागि स्थायी अनुमति दिन सक्दैन।
+webrtc-reason-for-no-permanent-allow-insecure = यो साइटमा तपाईँको जडान सुरक्षित छैन। तपाईँको रक्षा गर्न, { -brand-short-name } ले यस सत्रको लागि मात्र पहुँच अनुमति दिनेछ।
