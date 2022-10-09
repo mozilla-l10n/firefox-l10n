@@ -165,6 +165,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = Barrachd fiosrachaidh
+webrtc-pick-window-or-screen = Tagh uinneag no sgrìn
 webrtc-share-entire-screen = An sgrìn air fad
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
