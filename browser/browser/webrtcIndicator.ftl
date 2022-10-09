@@ -123,6 +123,15 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Спільне використання програми з { $tabCount } вкладками
            *[many] Спільне використання програми з { $tabCount } вкладками
         }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Спільне використання екрана з "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Спільне використання екрана з { $tabCount } вкладкою
+            [few] Спільне використання екрана з { $tabCount } вкладками
+           *[many] Спільне використання екрана з { $tabCount } вкладками
+        }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Спільне використання вікна з "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -214,5 +223,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Запам’ятати це рішення
 webrtc-mute-notifications-checkbox = Вимкнути сповіщення вебсайту під час спільного доступу
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не може дозволити постійний доступ до вашого екрана.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не може дозволити постійний доступ до аудіо вашої вкладки без запиту.
 webrtc-reason-for-no-permanent-allow-insecure = Ваше з'єднання з цим сайтом незахищене. Для вашого захисту { -brand-short-name } дозволить доступ лише для цього сеансу.
