@@ -157,6 +157,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = Көбірек білу
+webrtc-share-entire-screen = Толық экран
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Экран { $monitorIndex }
