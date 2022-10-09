@@ -205,6 +205,9 @@ webrtc-action-allow =
 webrtc-action-block =
     .label = Արգելափակել
     .accesskey = Ա
+webrtc-action-always-block =
+    .label = Միշտ արգելափակել
+    .accesskey = շ
 
 ##
 
