@@ -165,6 +165,7 @@ webrtc-allow-share-speaker-unsafe-delegation = Voleu permetre que { $origin } do
 ##
 
 webrtc-share-screen-learn-more = Més informació
+webrtc-pick-window-or-screen = Trieu una finestra o pantalla
 webrtc-share-entire-screen = Pantalla sencera
 webrtc-share-pipe-wire-portal = Utilitza els paràmetres del sistema operatiu
 # Variables:
