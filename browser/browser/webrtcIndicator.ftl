@@ -35,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = Font desconeguda
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Onglets que partejan de periferics
+    .accesskey = p
 webrtc-sharing-window = Partejatz una autra fenèstra d’aplicacion.
 webrtc-sharing-browser-window = Partejatz { -brand-short-name }.
 webrtc-sharing-screen = Partejatz l’ecran complet.
@@ -169,6 +172,13 @@ webrtc-share-application =
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Autorizar
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = Memorizar aquesta decision
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } pòt pas autorizar un accès permanent al vòstre ecran.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } pòt pas autorizar un accès permanent a l'àudio de cap onglet sens demandar quin onglet partejar.
+webrtc-reason-for-no-permanent-allow-insecure = Vòstra connexion a aquel site es pas segura. Per vos protegir, { -brand-short-name } autorizarà l'accès pas que per aquesta session.
