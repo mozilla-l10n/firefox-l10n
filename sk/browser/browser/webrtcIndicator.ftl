@@ -215,6 +215,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Vždy zakázať
     .accesskey = V
+webrtc-action-not-now =
+    .label = Teraz nie
+    .accesskey = T
 
 ##
 
