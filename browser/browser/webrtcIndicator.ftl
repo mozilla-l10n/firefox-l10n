@@ -20,9 +20,11 @@ webrtc-indicator-title = { -brand-short-name } - Indikator Berbagi
 
 webrtc-item-camera = kamera
 webrtc-item-microphone = mikrofone
+webrtc-item-audio-capture = tab audio
 webrtc-item-application = aplikasi
 webrtc-item-screen = layar
 webrtc-item-window = jendela
+webrtc-item-browser = tab
 
 ##
 
@@ -33,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = Sumber tidak dikenal
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Berbagi tab & perangkat
+    .accesskey = p
 webrtc-sharing-window = Anda membagikan jendela aplikasi lain.
 webrtc-sharing-browser-window = Anda membagikan { -brand-short-name }.
 webrtc-sharing-screen = Anda membagikan seluruh layar Anda.
@@ -64,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Kamera dan mikrofon Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Kamera Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Mikrofon Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Sebuah aplikasi sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Layar Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Sebuah jendela sedang dibagikan. Klik untuk mengendalikan berbagi.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Sebuah tab sedang dibagikan. Klik untuk mengendalikan berbagi.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -71,6 +90,22 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Kendalikan Berbagi
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Kendali Berbagi pada "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Berbagi Kamera dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Berbagi Mikrofon dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Berbagi Sebuah Aplikasi dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Berbagi Layar dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Berbagi Sebuah Jendela dengan "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Berbagi Tab dengan "{ $streamTitle }"
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -85,6 +120,9 @@ webrtc-screen-system-menu =
 
 webrtc-share-screen-learn-more = Pelajari Lebih Lanjut
 webrtc-share-entire-screen = Seluruh layar
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Layar { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
