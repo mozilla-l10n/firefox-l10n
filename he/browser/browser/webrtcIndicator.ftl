@@ -122,6 +122,8 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] שיתוף מסך עם לשונית אחת
            *[other] שיתוף חלון עם { $tabCount } לשוניות
         }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = הלשונית משותפת עם "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
