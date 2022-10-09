@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicatur da cundivisiun
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Indicatur da cundivisiun
 
 ## Used as list items in sharing menu
 
@@ -148,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Permetter a { $origin } da tadlar il tun da quest tab?
+webrtc-allow-share-camera = Permetter a { $origin } da duvrar tia camera?
+webrtc-allow-share-microphone = Permetter a { $origin } da duvrar tes microfon?
+webrtc-allow-share-screen = Permetter a { $origin } da vesair tes visur?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Permetter a { $origin } da duvrar autras boxas?
+webrtc-allow-share-camera-and-microphone = Permetter a { $origin } da duvrar tia camera e tes microfon?
+webrtc-allow-share-camera-and-audio-capture = Permetter a { $origin } da duvrar la camera e da tadlar il tun da quest tab?
+webrtc-allow-share-screen-and-microphone = Permetter a { $origin } da duvrar tes microfon e da vesair tes visur?
+webrtc-allow-share-screen-and-audio-capture = Permetter a { $origin } da tadlar il tun da quest tab e da vesair tes visur?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } l'access a tia camera?
+webrtc-allow-share-microphone-unsafe-delegations = Permetter a { $origin } da dar a { $thirdParty } l'access a tes microfon?
+webrtc-allow-share-screen-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } il dretg da vesair tes visur?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } l'access ad autras boxas?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } l'access a tia camera e tes microfon?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Lubir a { $origin } da permetter a { $thirdParty } l'access a tia camera e da tadlar il tun da quest tab?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Lubir a { $origin } da permetter a { $thirdParty } l'access a tes microfon e da vesair tes visur?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Lubir a { $origin } da permetter a { $thirdParty } da tadlar il tun da quest tab e vesair tes visur?
 
 ##
 
+webrtc-share-screen-warning = Cundivida tes visur mo cun paginas da las qualas ti ta fidas. La cundivisiun po permetter a paginas nuschaivlas da navigar en tes num e dad engular tias datas privatas.
+webrtc-share-browser-warning = Cundivida { -brand-short-name } mo cun paginas da las qualas ti ta fidas. La cundivisiun po permetter a paginas nuschaivlas da navigar en tes num e dad engular tias datas privatas.
 webrtc-share-screen-learn-more = Ulteriuras infurmaziuns
 webrtc-pick-window-or-screen = Tscherna la fanestra u il visur
 webrtc-share-entire-screen = Entir visur
+webrtc-share-pipe-wire-portal = Utilisar ils parameters dal sistem operativ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Visur { $monitorIndex }
@@ -176,10 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permetter
     .accesskey = P
+webrtc-action-block =
+    .label = Bloccar
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Adina bloccar
+    .accesskey = d
+webrtc-action-not-now =
+    .label = Betg ussa
+    .accesskey = B
 
 ##
 
 webrtc-remember-allow-checkbox = Memorisar questa decisiun
+webrtc-mute-notifications-checkbox = Deactivar las notificaziuns da websites durant la cundivisiun
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } na po betg permetter l'access permanent a tes visur.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } na po betg permetter l'access permanent al tun da tes tab senza dumandar tge tab che duai vegnir cundividÌ.
 webrtc-reason-for-no-permanent-allow-insecure = Tia connexiun a questa pagina n'è betg segira. Per ta proteger permetta { -brand-short-name } l'access mo per questa sesida.
