@@ -18,6 +18,7 @@ webrtc-indicator-title = { -brand-short-name } - Bḍu anamal
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = takamirat
 webrtc-item-microphone = asawaḍ
 webrtc-item-audio-capture = ameslaw n yiccer
 webrtc-item-application = isnasen
@@ -34,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = Aɣbalu arussin
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Beṭṭu n waccaren n yibenkan
+    .accesskey = b
 webrtc-sharing-window = Aql-ak/am tbeṭṭuḍ asnas-nniḍen n Window.
 webrtc-sharing-browser-window = Tbeṭṭuḍ { -brand-short-name }.
 webrtc-sharing-screen = Aql-ak tbeṭṭuḍ akk agdil-inek.
@@ -154,6 +158,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 webrtc-share-screen-learn-more = Issin ugar
 webrtc-pick-window-or-screen = Fren asfaylu neɣ agdil
+webrtc-share-entire-screen = Akk agdil
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Agdil { $monitorIndex }
@@ -174,4 +179,7 @@ webrtc-action-allow =
 
 ##
 
+webrtc-remember-allow-checkbox = Cfu ɣef leqsed-a
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ur izmir ara ad isireg anekcum izgan ɣer ugdil-inek.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ur yizmir ara ad isireg anekcum izgan ɣer yiccer-inek amesalw war ma isuter anwa iccer ara yebḍu.
+webrtc-reason-for-no-permanent-allow-insecure = Tuqqna-inek ɣer usmel-a mačči d taɣelsant. Akken ad tḥerzeḍ iman-ik, { -brand-short-name } ad isireg anekcum deg tɣimit-a kan.
