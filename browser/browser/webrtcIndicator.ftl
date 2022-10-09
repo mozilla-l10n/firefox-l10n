@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Chỉ số chia sẻ
 webrtc-indicator-window =
     .title = { -brand-short-name } - Chỉ số chia sẻ
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Bạn đang chia sẻ máy ảnh của mình. Nhấp để kiểm soát việc chia sẻ.
 webrtc-microphone-system-menu =
@@ -142,6 +137,7 @@ webrtc-allow-share-screen-and-audio-capture = Cho phép { $origin } nghe âm tha
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Cho phép { $origin } cấp quyền cho { $thirdParty } nghe âm thanh của thẻ này?
 webrtc-allow-share-camera-unsafe-delegation = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào máy ảnh của bạn?
 webrtc-allow-share-microphone-unsafe-delegations = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào micrô của bạn?
 webrtc-allow-share-screen-unsafe-delegation = Cho phép { $origin } cấp quyền cho { $thirdParty } xem màn hình của bạn?
