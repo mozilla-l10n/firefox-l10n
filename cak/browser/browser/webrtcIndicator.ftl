@@ -20,6 +20,7 @@ webrtc-indicator-title = { -brand-short-name } - Retal Komonïk
 
 webrtc-item-camera = elesäy wachib'äl
 webrtc-item-microphone = talüy k'oxom
+webrtc-item-audio-capture = ruwi' q'ojom
 webrtc-item-application = chokoy
 webrtc-item-screen = ruwäch
 webrtc-item-window = tzuwäch
@@ -68,6 +69,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Tajin yekomonïx ri elesäy wachib'äl chuqa' q'asäy tzij. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Ri awelesawachib'äl tajin nokisäx pa q'uch. Tapitz'a' richin nik'oje' pa aq'a'.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Tajin nikomonïx ri q'asäy tzij. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Tajin nikomonïx jun chokoy. Tapitz'a' richin nachajij ri komonïk.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Tajin nikomonïx ri ruwäch. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Tajin nikomonïx jun tzuwäch. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Tajin nikomonïx jun tzuwäch. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -75,6 +90,60 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Tichajïx ri jalwachinïk
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Tajin nikomonïx ri ruchajixik “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Tajin nikomonïx elesäy wachib'äl rik'in “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Tajin nikomonïx elesäy wachib'äl rik'in { $tabCount } taq ruwi'
+           *[other] Tajin nikomonïx ri elesäy wachib'äl kik'in { $tabCount } taq ruwi'
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Tajin nikomonïx q'axäy tzij rik'in “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Tajin nokisäx pa q'uch ri q'axach'ab'äl rik'in { $tabCount } tzuwäch
+           *[other] Tajin nokisäx pa q'uch ri q'axach'ab'äl rik'in { $tabCount } taq tzuwäch
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Tajin nikomonïx jun chokoy rik'in “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Tajin nikomonïx jun chokoy rik'in { $tabCount } ruwi'
+           *[other] Tajin yekomonïx taq chokoy kik'in { $tabCount } taq ruwi'
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Tajin nikomonïx ruwäch rik'in “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Tajin nikomonïx ruwäch rik'in { $tabCount } ruwi'
+           *[other] Tajin nikomonïx ruwäch rik'in { $tabCount } taq ruwi'
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Tajin nikomonïx jun tzuwäch rik'in “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Tajin nikomonïx tzuwäch rik'in { $tabCount } ruwi'
+           *[other] Tajin yekomonïx taq tzuwäch kik'in { $tabCount } taq ruwi'
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Tajin nikomonïx jun ruwi' rik'in “{ $streamTitle }”
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Tajin nikomonïx jun ruwi' rik'in { $tabCount } ruwi'
+           *[other] { " " }Tajin yekomonïx taq ruwi' rik'in { $tabCount } taq ruwi'
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -88,9 +157,27 @@ webrtc-screen-system-menu =
 ##
 
 webrtc-share-entire-screen = Chijun ruwäch
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Ruwäch { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } tzuwäch)
+       *[other] { $appName } ({ $windowCount } taq tzuwäch)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Tuya' q'ij
+    .accesskey = T
 
 ##
 
+webrtc-remember-allow-checkbox = Tinatäx re na'oj re'
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } man tikirel ta naya' q'ij jutaqil ye'ok pa ri ruwa kematz'ib'.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } man nuya' ta q'ij chi jantape' nok pa ruwi' q'ojom akuchi' k'o chi nuk'utuj achike nrajo' nukomonij.
+webrtc-reason-for-no-permanent-allow-insecure = Man ütz ta ri awokem pa re ruxaq k'amaya'l re'. Richin nachajij awi', { -brand-short-name } xa xe xtuya' q'ij xtok pa re molojri'ïl re'.
