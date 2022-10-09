@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicator de compartimento
 webrtc-indicator-window =
     .title = { -brand-short-name } - Indicator de compartimento
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Tu comparti ora tu camera. Clicca pro controlar le compartimento.
 webrtc-microphone-system-menu =
@@ -102,7 +97,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } scheda de compartimento del camera
-           *[other] { " " }{ $tabCount } schedas de compartimento del camera
+           *[other] { $tabCount } schedas de compartimento del camera
         }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Microphono compartite con “{ $streamTitle }”
@@ -110,7 +105,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } scheda de compartimento del microphono
-           *[other] { " " }{ $tabCount } schedas de compartimento del microphono
+           *[other] { $tabCount } schedas de compartimento del microphono
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Application compartite con “{ $streamTitle }”
@@ -118,7 +113,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } scheda de compartimento del application
-           *[other] { " " }{ $tabCount } schedas de compartimento del application
+           *[other] { $tabCount } schedas de compartimento del application
         }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Schermo compartite con “{ $streamTitle }”
@@ -126,7 +121,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } scheda de compartimento del schermo
-           *[other] { " " }{ $tabCount } schedas de compartimento del schermo
+           *[other] { $tabCount } schedas de compartimento del schermo
         }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Fenestra compartite con “{ $streamTitle }”
@@ -134,7 +129,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } scheda de compartimento del fenestra
-           *[other] { " " }{ $tabCount } schedas de compartimento del fenestra
+           *[other] { $tabCount } schedas de compartimento del fenestra
         }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Scheda compartite con “{ $streamTitle }”
@@ -144,7 +139,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } scheda de compartimento del scheda
-           *[other] { " " }{ $tabCount } schedas de compartimento del scheda
+           *[other] { $tabCount } schedas de compartimento del scheda
         }
 
 ## Variables:
