@@ -18,9 +18,18 @@ webrtc-indicator-title = { -brand-short-name } - Delingsviser
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofon
+webrtc-item-audio-capture = fanelyd
+webrtc-item-application = program
+webrtc-item-screen = skjerm
+webrtc-item-window = vindu
+webrtc-item-browser = fane
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Ukjent opprinnelse
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -64,6 +73,60 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Velg deling
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Velg deling på «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Deler kamera med «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler kamera med { $tabCount } fane
+           *[other] Deler kamera med { $tabCount } faner
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Deler mikrofon med «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler mikrofon med { $tabCount } fane
+           *[other] Deler mikrofon med { $tabCount } faner
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Deler et program med «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler et program med { $tabCount } fane
+           *[other] Deler programmer med { $tabCount } faner
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Deler skjerm med «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler skjerm med { $tabCount } fane
+           *[other] Deler skjerm med { $tabCount } faner
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Deler et vindu med «{ $streamTitle }»
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler et vindu med { $tabCount } fane
+           *[other] Deler vinduer med { $tabCount } faner
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Deler en fane med «{ $streamTitle }»
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Deler en fane med { $tabCount } fane
+           *[other] Deler faner med { $tabCount } faner
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,6 +139,18 @@ webrtc-screen-system-menu =
 
 ##
 
+webrtc-share-entire-screen = Hele skjermen
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Skjerm { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } vindu)
+       *[other] { $appName } ({ $windowCount } vinduer)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
