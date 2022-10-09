@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Retal Komonïk
+webrtc-indicator-window =
+    .title = { -brand-short-name } - Retal Komonïk
 
 ## Used as list items in sharing menu
 
@@ -148,15 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = ¿La niya' q'ij chi re { $origin } richin nrak'axaj kiq'ojom taq ruwi'?
+webrtc-allow-share-camera = ¿La niya' q'ij chi re ri { $origin } richin nrokisaj ri elesäy wachib'äl?
+webrtc-allow-share-microphone = ¿La niya' q'ij chi re ri { $origin } richin nrokisaj ri qasäy ch'ab'äl?
+webrtc-allow-share-screen = ¿La niya' q'ij chi re ri { $origin } richin nutz'ët ri ruwäch?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = ¿La niya' q'ij chi re ri { $origin } richin yerokisaj juley q'asäy ch'ab'äl?
+webrtc-allow-share-camera-and-microphone = ¿La niya' q'ij chi re ri { $origin } richin nrokisaj ri elesäy wachib'äl chuqa' q'asäy ch'ab'äl?
+webrtc-allow-share-camera-and-audio-capture = ¿La niya' q'ij chi re { $origin } nawokisaj ri elesäy wachib'äl chuqa' nawak'axaj ruq'ojom re ruwi' re'?
+webrtc-allow-share-screen-and-microphone = ¿La niya' q'ij chi re { $origin } richin norokisaj ri q'asäy atzij chuqa' nutz'ët ri ruwa akematz'ib'?
+webrtc-allow-share-screen-and-audio-capture = ¿La niya' q'ij chi re { $origin } richin nrak'axaj kiq'ojom taq ruwi' chuqa' nutz'ët ri ruwa akematz'ib'?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = ¿La niya' q'ij chi re ri { $origin } chi nuya' q'ij chi re { $thirdParty } nok pa ri elesäy awachib'al?
+webrtc-allow-share-microphone-unsafe-delegations = ¿La niya' q'ij chi re ri { $origin } chi nuya' q'ij chi re { $thirdParty } nok pa ri q'asäy ch'ab'äl?
+webrtc-allow-share-screen-unsafe-delegation = ¿La niya' q'ij chi ri { $origin } nuya' q'ij chi re ri { $thirdParty } richin nutz'ët ri ruwa akematz'ib'?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = ¿La niya' q'ij chi re ri { $origin } chi nuya' q'ij chi re { $thirdParty } nok pa juley elesäy ch'ab'äl?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = ¿La niya' q'ij chi re ri { $origin } chi nuya' q'ij chi re { $thirdParty } nok pa ri elesäy awachib'al chuqa' ri q'asäy ch'ab'äl?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = ¿La niya' q'ij chi re ri { $origin } nuya' q'ij chi re ri { $thirdParty } nok pa ri elesäy wachib'äl chuqa' nrak'axaj ruk'oxom re ruwi' re'?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = ¿La niya' q'ij chi re ri { $origin } chi nuya' q'ij chi re { $thirdParty } nok pa ri q'asäy ach'ab'äl chuqa' nutz'ët ri ruwa akematz'ib'?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿La niya' q'ij chi re { $origin } nuya' q'ij chi re ri { $thirdParty } richin nrak'axaj ruk'oxom re ruwi' re' chuqa' nutz'ët ri ruwa akematz'ib'?
 
 ##
 
+webrtc-share-screen-warning = Xa xe yerukomonij taq ruwa' kematz'ib' kik'in taq ruxaq k'amaya'l nakuqub'a' ak'u'x chi kij. Ri komonïk nitikïr nuya' q'ij chi ri itzel taq ruxaq k'amaya'l kekanon achi'el rat akuchi' nikeleq'aj ri ichinan taq atzij.
+webrtc-share-browser-warning = Xa xe yerukomonij { -brand-short-name } kik'in taq ruxaq k'amaya'l nakuqub'a' ak'u'x chi kij. Ri komonïk nitikïr nuya' q'ij chi ri itzel taq ruxaq k'amaya'l kekanon achi'el rat akuchi' nikeleq'aj ri ichinan taq atzij.
+webrtc-share-screen-learn-more = Tetamäx Ch'aqa' Chik
+webrtc-pick-window-or-screen = Ticha' Tzuwäch o Chijun Ruwa
 webrtc-share-entire-screen = Chijun ruwäch
+webrtc-share-pipe-wire-portal = Tokisäx ri runuk'ulem samajel q'inoj
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ruwäch { $monitorIndex }
@@ -174,10 +202,17 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Tuya' q'ij
     .accesskey = T
+webrtc-action-block =
+    .label = Tiq'at
+    .accesskey = T
+webrtc-action-always-block =
+    .label = Junelïk tiq'at
+    .accesskey = J
 
 ##
 
 webrtc-remember-allow-checkbox = Tinatäx re na'oj re'
+webrtc-mute-notifications-checkbox = Kememüx rutzijol ajk'amaya'l ruxaq toq nikomonïx
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } man tikirel ta naya' q'ij jutaqil ye'ok pa ri ruwa kematz'ib'.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } man nuya' ta q'ij chi jantape' nok pa ruwi' q'ojom akuchi' k'o chi nuk'utuj achike nrajo' nukomonij.
 webrtc-reason-for-no-permanent-allow-insecure = Man ütz ta ri awokem pa re ruxaq k'amaya'l re'. Richin nachajij awi', { -brand-short-name } xa xe xtuya' q'ij xtok pa re molojri'ïl re'.
