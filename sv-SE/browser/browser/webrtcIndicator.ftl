@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Delningsindikator
 webrtc-indicator-window =
     .title = { -brand-short-name } - Delningsindikator
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Du delar din kamera. Klicka för att kontrollera delning.
 webrtc-microphone-system-menu =
@@ -110,7 +105,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Delar mikrofon med { $tabCount } flik
-           *[other] { " " }Delar mikrofon med { $tabCount } flikar
+           *[other] Delar mikrofon med { $tabCount } flikar
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Delar ett program med “{ $streamTitle }”
@@ -126,7 +121,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Delar skärm med { $tabCount } flik
-           *[other] { " " }Delar skärm med { $tabCount } flikar
+           *[other] Delar skärm med { $tabCount } flikar
         }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Delar ett fönster med “{ $streamTitle }”
@@ -134,7 +129,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] Delar fönster med { $tabCount } flik
-           *[other] { " " }Delar fönstret med { $tabCount } flikar
+           *[other] Delar fönstret med { $tabCount } flikar
         }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Delar en flik med “{ $streamTitle }”
