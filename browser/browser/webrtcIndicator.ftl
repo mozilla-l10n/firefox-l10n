@@ -31,6 +31,16 @@ webrtc-sharing-menuitem =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = તમારો કૅમેરા અને માઇક્રોફોનને વહેંચવામાં આવ્યો છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = તમારાં કૅમેરાને વહેંચવામાં આવ્યો છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = તમારાં માઇક્રોફોનને વહેંચવામાં આવ્યો છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = તમારી સ્ક્રીનને વહેંચવામાં આવી છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
+webrtc-indicator-sharing-window =
+    .tooltiptext = વિન્ડોને વહેંચવામાં આવી હતી. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -38,6 +48,32 @@ webrtc-sharing-menuitem =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = વહેંચવાનુ નિયંત્રણ કરો
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ટૅબ સાથે કૅમેરાને વહેંચી રહ્યા છે
+           *[other] { $tabCount } ટૅબ (ઓ) સાથે કૅમેરાને વહેંચી રહ્યા છે
+        }
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ટૅબ સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
+           *[other] { $tabCount } ટૅબ (ઓ) સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
+        }
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ટૅબ સાથે સ્ક્રીનને વહેંચી રહ્યા છે
+           *[other] { $tabCount } ટૅબ (ઓ) સાથે સ્ક્રીનને વહેંચી રહ્યા છે
+        }
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] { $tabCount } ટૅબ સાથે વિન્ડોને વહેંચી રહ્યા છે
+           *[other] { $tabCount } ટૅબ (ઓ) સાથે વિન્ડોને વહેંચી રહ્યા છે
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
