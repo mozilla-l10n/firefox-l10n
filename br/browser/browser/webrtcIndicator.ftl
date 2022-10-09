@@ -19,9 +19,11 @@ webrtc-indicator-title = { -brand-short-name } - Merker ar rannañ
 ## Used as list items in sharing menu
 
 webrtc-item-camera = kamera
+webrtc-item-audio-capture = aodio an ivinell
 webrtc-item-application = arload
 webrtc-item-screen = skramm
 webrtc-item-window = prenestr
+webrtc-item-browser = ivinell
 
 ##
 
@@ -32,6 +34,9 @@ webrtc-sharing-menuitem-unknown-host = Orin dianav
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Ivinelloù o rannañ trevnadoù
+    .accesskey = o
 webrtc-sharing-window = Rannañ a rit prenestr un arload all.
 webrtc-sharing-browser-window = O rannañ { -brand-short-name } emaoc'h.
 webrtc-sharing-screen = O rannañ ho skramm a-bezh emaoc'h.
@@ -71,6 +76,8 @@ webrtc-indicator-sharing-screen =
     .tooltiptext = Emaoc'h o rannañ ho skramm. Klikit evit reoliñ ar rannañ.
 webrtc-indicator-sharing-window =
     .tooltiptext = Emaoc'h o rannañ ur prenestr. Klikit evit reoliñ ar rannañ.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Emaoc'h o rannañ un ivinell. Klikit evit reoliñ ar rannañ.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -80,6 +87,18 @@ webrtc-indicator-sharing-window =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = Reoliñ ar rannañ
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Reoliñ ar rannañ gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = O rannañ ho kamera gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = O rannañ un arload gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = O rannañ ho skramm gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = O rannañ ur prenestr gant “{ $streamTitle }”
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = O rannañ un ivinell gant “{ $streamTitle }”
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -92,10 +111,21 @@ webrtc-indicator-menuitem-control-sharing =
 
 ##
 
+webrtc-share-screen-learn-more = Gouzout hiroc'h
 webrtc-share-entire-screen = Skramm a-bezh
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Skramm { $monitorIndex }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Aotren
+    .accesskey = A
 
 ##
 
+webrtc-remember-allow-checkbox = Derc'hel soñj en diviz-mañ
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } n'hall ket aotren un haeziñ diastal d'ho skramm.
+webrtc-reason-for-no-permanent-allow-audio = N'hall ket { -brand-short-name } aotren haeziñ aodio hoc'h ivinell en un doare peurzalc'hus hep goulenn pehini rannañ.
+webrtc-reason-for-no-permanent-allow-insecure = Arvarus eo ho kennask d'al lec'hienn. Evit ho tiogelaat e vo aotreet an haeziñ gant { -brand-short-name } en estez-mañ nemetken.
