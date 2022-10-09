@@ -57,6 +57,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Estanse a compartir a súa cámara e o micrófono. Prema para controlar o uso compartido.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Estase a compartir a súa cámara. Prema para controlar o uso compartido.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Estase a compartir o seu micrófono. Prema para controlar o uso compartido.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Estase a compartir un aplicativo. Prema para controlar o seu uso compartido.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Estase a compartir a súa pantalla. Prema para controlar o uso compartido.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Estase a compartir unha xanela. Prema para controlar o uso compartido.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Estase a compartir unha lapela. Prema para controlar o uso compartido.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -64,6 +78,60 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Controlar uso compartido
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Controlar o uso compartido en "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Compartindo a cámara con "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Compartindo a cámara con { $tabCount } lapela
+           *[other] Compartindo a cámara con { $tabCount } lapelas
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Compartindo o micrófono con "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Compartindo o micrófono con { $tabCount } lapela
+           *[other] Compartindo o micrófono con { $tabCount } lapelas
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Compartindo un aplicativo con "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Compartindo un aplicativo con { $tabCount } lapela
+           *[other] Compartindo aplicativos con { $tabCount } lapelas
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Compartindo a pantalla con "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Compartindo a pantalla con { $tabCount } lapela
+           *[other] Compartindo a pantalla con { $tabCount } lapelas
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Compartindo unha xanela con "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Compartindo unha xanela con { $tabCount } lapela
+           *[other] Compartindo xanelas con { $tabCount } lapelas
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Compartindo unha lapela con "{ $streamTitle }"
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Compartindo unha lapela con { $tabCount } lapela
+           *[other] Compartindo lapelas con { $tabCount } lapelas
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -76,9 +144,21 @@ webrtc-screen-system-menu =
 
 ##
 
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } xanela)
+       *[other] { $appName } ({ $windowCount } xanelas)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
 
 ##
 
+webrtc-remember-allow-checkbox = Lembrar esta decisión
+webrtc-reason-for-no-permanent-allow-screen = Non é posíbel que { -brand-short-name } permita o acceso permanente a súa pantalla.
+webrtc-reason-for-no-permanent-allow-audio = Non é posíbel que { -brand-short-name } permita o acceso permanente ao son da súa lapela sen preguntar que lapela compartir.
+webrtc-reason-for-no-permanent-allow-insecure = A conexión con este sitio non é segura. Para protéxelo, { -brand-short-name } só permitirá o acceso para esta sesión.
