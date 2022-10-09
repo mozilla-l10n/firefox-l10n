@@ -20,12 +20,18 @@ webrtc-indicator-window =
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = kamera
+webrtc-item-microphone = mikrofon
 webrtc-item-audio-capture = lyd fra faneblad
 webrtc-item-application = program
+webrtc-item-screen = skærm
+webrtc-item-window = vindue
 webrtc-item-browser = faneblad
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Ukendt oprindelse
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -144,11 +150,17 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Tillad { $origin } at bruge andre højttalere?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til andre højttalere?
 
 ##
 
@@ -172,9 +184,13 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Tillad
     .accesskey = T
+webrtc-action-not-now =
+    .label = Ikke nu
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Husk dette valg
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikke tillade permanent adgang til din skærm.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikke tillade permanent adgang til dit faneblads lyd uden først at spørge, hvilket faneblad der skal deles.
 webrtc-reason-for-no-permanent-allow-insecure = Din forbindelse til dette websted er ikke sikker. For at beskytte dig vil { -brand-short-name } kun tillade adgang for denne session.
