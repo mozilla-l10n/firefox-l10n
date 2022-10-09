@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = ‏{ -brand-short-name } - מחוון שיתוף
+webrtc-indicator-window =
+    .title = ‏{ -brand-short-name } - מחוון שיתוף
 
 ## Used as list items in sharing menu
 
@@ -69,8 +71,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = המצלמה והמיקרופון שלך משותפים כעת. יש ללחוץ כדי לשלוט על השיתוף.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = המצלמה שלך משותפת כעת. יש ללחוץ כדי לשלוט על השיתוף.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = המיקרופון שלך משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
+webrtc-indicator-sharing-application =
+    .tooltiptext = יישום כלשהו משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
 webrtc-indicator-sharing-screen =
     .tooltiptext = המסך שלך משותף כעת. לחץ כדי לשלוט על השיתוף.
+webrtc-indicator-sharing-window =
+    .tooltiptext = חלון כלשהו משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = לשונית כלשהי משותפת כעת. יש ללחוץ כדי לשלוט על השיתוף.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -136,17 +150,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = לאפשר ל־{ $origin } להאזין לשמע של לשונית זו?
+webrtc-allow-share-camera = לאפשר ל־{ $origin } להשתמש במצלמה שלך?
+webrtc-allow-share-microphone = לאפשר ל־{ $origin } להשתמש במיקרופון שלך?
+webrtc-allow-share-screen = האם לאפשר ל־{ $origin } לצפות במסך שלך?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = לאפשר ל־{ $origin } להשתמש ברמקולים אחרים?
+webrtc-allow-share-camera-and-microphone = לאפשר ל־{ $origin } להשתמש במצלמה ובמיקרופון שלך?
+webrtc-allow-share-camera-and-audio-capture = לאפשר ל־{ $origin } להשתמש במצלמה שלך ולהאזין לשמע של לשונית זו?
+webrtc-allow-share-screen-and-microphone = לאפשר ל־{ $origin } להשתמש במיקרופון שלך ולצפות במסך שלך?
+webrtc-allow-share-screen-and-audio-capture = לאפשר ל־{ $origin } להאזין לשמע של לשונית זו ולצפות במסך שלך?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } גישה למצלמה שלך?
+webrtc-allow-share-microphone-unsafe-delegations = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } גישה למיקרופון שלך?
+webrtc-allow-share-screen-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } הרשאה לצפות במסך שלך?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } גישה לרמקולים אחרים?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } גישה למצלמה ולמיקרופון שלך?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } גישה למצלמה שלך ולהאזין לשמע של לשונית זו?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } גישה למיקרופון שלך ולצפות במסך שלך?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } הרשאה להאזין לשמע של לשונית זו ולצפות במסך שלך?
 
 ##
 
+webrtc-share-screen-warning = מומלץ לשתף מסכים רק עם אתרים מהימנים. השיתוף יכול לאפשר לאתרים זדוניים לגלוש ברשת בשמך ולגנוב את הנתונים הפרטיים שלך.
+webrtc-share-browser-warning = מומלץ לשתף את { -brand-short-name } רק עם אתרים מהימנים. השיתוף יכול לאפשר לאתרים זדוניים לגלוש ברשת בשמך ולגנוב את הנתונים הפרטיים שלך.
 webrtc-share-screen-learn-more = מידע נוסף
 webrtc-pick-window-or-screen = בחירת חלון או מסך
 webrtc-share-entire-screen = כל המסך
+webrtc-share-pipe-wire-portal = שימוש בהגדרות מערכת ההפעלה
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = מסך { $monitorIndex }
@@ -164,10 +202,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = לאפשר
     .accesskey = א
+webrtc-action-block =
+    .label = לחסום
+    .accesskey = ח
+webrtc-action-always-block =
+    .label = תמיד לחסום
+    .accesskey = ת
+webrtc-action-not-now =
+    .label = לא כעת
+    .accesskey = ל
 
 ##
 
 webrtc-remember-allow-checkbox = שמירת הבחירה הזו
+webrtc-mute-notifications-checkbox = השתקת התרעות מאתרים בזמן שיתוף.
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } אינו יכול לאפשר גישה קבועה למסך שלך.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } אינו יכול לאפשר גישה קבועה לאודיו של לשונית מבלי לשאול איזו לשונית לשתף.
 webrtc-reason-for-no-permanent-allow-insecure = החיבור שלך לאתר זה אינו מאובטח. כדי להגן עליך, { -brand-short-name } יאפשר גישה רק להפעלה זו.
