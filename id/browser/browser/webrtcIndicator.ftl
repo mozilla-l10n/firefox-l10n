@@ -156,6 +156,9 @@ webrtc-share-application = { $appName } ({ $windowCount } jendela)
 webrtc-action-allow =
     .label = Izinkan
     .accesskey = I
+webrtc-action-not-now =
+    .label = Jangan sekarang
+    .accesskey = J
 
 ##
 
