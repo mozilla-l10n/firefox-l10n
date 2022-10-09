@@ -20,14 +20,26 @@ webrtc-indicator-window =
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = caméra
+webrtc-item-microphone = microphone
+webrtc-item-audio-capture = audio de l’onglet
+webrtc-item-application = application
+webrtc-item-screen = écran
+webrtc-item-window = fenêtre
+webrtc-item-browser = onglet
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = Source inconnue
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Onglets partageant des périphériques
+    .accesskey = d
 webrtc-sharing-window = Vous partagez une autre fenêtre d’application.
 webrtc-sharing-browser-window = Vous partagez { -brand-short-name }.
 webrtc-sharing-screen = Vous partagez tout votre écran.
@@ -59,6 +71,20 @@ webrtc-screen-system-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
+webrtc-indicator-sharing-camera-and-microphone =
+    .tooltiptext = Votre caméra et votre microphone sont partagés. Cliquer pour contrôler le partage.
+webrtc-indicator-sharing-camera =
+    .tooltiptext = Votre caméra est partagée. Cliquer pour contrôler le partage.
+webrtc-indicator-sharing-microphone =
+    .tooltiptext = Votre microphone est partagé. Cliquer pour contrôler le partage.
+webrtc-indicator-sharing-application =
+    .tooltiptext = Une application est partagée. Cliquer pour contrôler le partage.
+webrtc-indicator-sharing-screen =
+    .tooltiptext = Votre écran est partagé. Cliquer pour contrôler le partage.
+webrtc-indicator-sharing-window =
+    .tooltiptext = Une fenêtre est partagée. Cliquer pour contrôler le partage.
+webrtc-indicator-sharing-browser =
+    .tooltiptext = Un onglet est partagé. Cliquer pour contrôler le partage.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -66,6 +92,60 @@ webrtc-screen-system-menu =
 ##   $streamTitle (String): the title of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
+webrtc-indicator-menuitem-control-sharing =
+    .label = Contrôler le partage
+webrtc-indicator-menuitem-control-sharing-on =
+    .label = Contrôler le partage avec « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-camera-with =
+    .label = Caméra partagée avec « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Caméra partagée avec { $tabCount } onglet
+           *[other] Caméra partagée avec { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-microphone-with =
+    .label = Microphone partagé avec « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Microphone partagé avec { $tabCount } onglet
+           *[other] Microphone partagé avec { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-application-with =
+    .label = Application partagée avec « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Application partagée avec { $tabCount } onglet
+           *[other] Applications partagées avec { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-screen-with =
+    .label = Écran partagé avec « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Écran partagé avec { $tabCount } onglet
+           *[other] Écran partagé avec { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-window-with =
+    .label = Fenêtre partagée avec « { $streamTitle } »
+webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Fenêtre partagée avec { $tabCount } onglet
+           *[other] Fenêtres partagées avec { $tabCount } onglets
+        }
+webrtc-indicator-menuitem-sharing-browser-with =
+    .label = Onglet partagé avec « { $streamTitle } »
+# This message is shown when the contents of a tab is shared during a WebRTC
+# session, which currently is only possible with Loop/Hello.
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Onglet partagé avec { $tabCount } onglet
+           *[other] Onglets partagés avec { $tabCount } onglets
+        }
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
@@ -95,9 +175,25 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Autoriser { $ori
 
 webrtc-share-screen-warning = Partagez uniquement vos écrans avec les sites auxquels vous faites confiance. Le partage peut permettre à des sites trompeurs de naviguer en votre nom et de dérober des informations.
 webrtc-share-browser-warning = Partagez uniquement { -brand-short-name } avec les sites auxquels vous faites confiance. Le partage peut permettre à des sites trompeurs de naviguer en votre nom et de dérober des informations.
+webrtc-share-screen-learn-more = En savoir plus
+webrtc-share-entire-screen = Écran entier
+# Variables:
+#   $monitorIndex (String): screen number (digits 1, 2, etc).
+webrtc-share-monitor = Écran { $monitorIndex }
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } ({ $windowCount } fenêtre)
+       *[other] { $appName } ({ $windowCount } fenêtres)
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
+webrtc-action-allow =
+    .label = Autoriser
+    .accesskey = A
 webrtc-action-block =
     .label = Bloquer
     .accesskey = B
@@ -107,4 +203,8 @@ webrtc-action-always-block =
 
 ##
 
+webrtc-remember-allow-checkbox = Se souvenir de cette décision
 webrtc-mute-notifications-checkbox = Désactiver les notifications du site web lors du partage
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne peut pas accorder un accès permanent à votre écran.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne peut pas accorder un accès permanent à l’audio d’un onglet sans demander quel onglet partager.
+webrtc-reason-for-no-permanent-allow-insecure = La connexion à ce site n’est pas sécurisée. Pour des raisons de sécurité, { -brand-short-name } n’accordera l’accès que pour cette session.
