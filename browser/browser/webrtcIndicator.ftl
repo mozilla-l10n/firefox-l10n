@@ -20,7 +20,7 @@ webrtc-item-microphone = माइक्रोफोन
 webrtc-item-audio-capture = ट्याब अडियो
 webrtc-item-application = अनुप्रयोग
 webrtc-item-screen = स्क्रिन
-webrtc-item-window = (सञ्झ्याल %1$S
+webrtc-item-window = सञ्झ्याल
 webrtc-item-browser = ट्याब
 
 ##
@@ -90,7 +90,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ट्याबसँग अनुप्रयोग साझेदारी गरिँदै
-           *[other] { " " }{ $tabCount } ट्याबहरूसँग अनुप्रयोग साझेदारी गरिँदै
+           *[other] { $tabCount } ट्याबहरूसँग अनुप्रयोग साझेदारी गरिँदै
         }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = { $streamTitle } सँग पर्दा साझा गरिँदै ।
