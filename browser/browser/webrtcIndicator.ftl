@@ -88,6 +88,13 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Koplieto lietotni ar "{ $streamTitle }"
+webrtc-indicator-menuitem-sharing-application-with-n-tabs =
+    .label =
+        { $tabCount ->
+            [zero] Koplieto lietotni ar { $tabCount } cilnēm
+            [one] Koplieto lietotni ar { $tabCount } cilni
+           *[other] Koplieto lietotni ar { $tabCount } cilnēm
+        }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Koplieto ekrānu ar "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
