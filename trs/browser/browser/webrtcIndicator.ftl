@@ -131,6 +131,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = Gahuin chrūn doj
+webrtc-pick-window-or-screen = Naguī Bentâna asi Pantâya
 webrtc-share-entire-screen = Da'ua ge pantayâ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
