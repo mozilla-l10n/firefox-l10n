@@ -15,6 +15,8 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - dźělenski pokazowak
+webrtc-indicator-window =
+    .title = { -brand-short-name } - dźělenski pokazowak
 
 ## Used as list items in sharing menu
 
@@ -160,16 +162,41 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Chceće { $origin } dowolić, na awdio tutoho rajtarka poskać?
+webrtc-allow-share-camera = { $origin } dowolić, wašu kameru wužiwać?
+webrtc-allow-share-microphone = { $origin } dowolić, waš mikrofon wužiwać?
+webrtc-allow-share-screen = { $origin } dowolić, sej wašu wobazowku wobhladać?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = { $origin } dowolić, druhe awdiowudawanske nastroje wužiwać?
+webrtc-allow-share-camera-and-microphone = { $origin } dowolić, wašu kameru a waš mikrofon wužiwać?
+webrtc-allow-share-camera-and-audio-capture = Chceće { $origin } dowolić, swoju kameru wužiwać a na awdio tutoho rajtarka poskać?
+webrtc-allow-share-screen-and-microphone = Chceće { $origin } dowolić, swój mikrofon wužiwać a swoju wobrazowku widźeć?
+webrtc-allow-share-screen-and-audio-capture = Chceće { $origin } dowolić, na awdio tutoho rajtarka poskać a swoju wobrazowku widźeć?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-camera-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje dawa?
+webrtc-allow-share-microphone-unsafe-delegations = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašemu mikrofonej dawa?
+webrtc-allow-share-screen-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, swoju wobrazowku widźeć?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k druhim awdiowudawanskim nastrojam dawa?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje a wašemu mikrofonej dawa?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje dawa a jemu dowola, na awdio tutoho rajtarka poskać?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašemu mikrofonej dawa a jemu dowola, wašu wobrazowku widźeć?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, na awdio tutoho rajtarka poskać a wašu wobrazowku widźeć?
 
 ##
 
+webrtc-share-screen-warning = Dźělće jenož wobrazowki ze sydłami, kotrymž dowěriće. Dźělenje móže wobšudnym sydłam zmóžnić, jako wy přehladować a waše priwatne daty kradnyć.
+webrtc-share-browser-warning = Dźělće { -brand-short-name } jenož ze sydłami, kotrymž dowěriće. Dźělenje móže wobšudnym sydłam zmóžnić, jako wy přehladować a waše priwatne daty kradnyć.
 webrtc-share-screen-learn-more = Dalše informacije
+webrtc-pick-window-or-screen = Wubjerće wokno abo wobrazowku
 webrtc-share-entire-screen = Cyła wobrazowka
+webrtc-share-pipe-wire-portal = Nastajenja dźěłoweho systema wužiwać
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Wobrazowka { $monitorIndex }
@@ -189,8 +216,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Dowolić
     .accesskey = D
+webrtc-action-block =
+    .label = Blokować
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Přeco blokować
+    .accesskey = P
+webrtc-action-not-now =
+    .label = Nic nětko
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Tutón rozsud sej spomjatkować
+webrtc-mute-notifications-checkbox = Zdźělenki websydła při dźělenju zněmić
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } njemóže trajny přistup k wašej wobrazowce dopušćić.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } njemóže trajny přistup k awdiu wašeho rajtarka dowolić bjez toho, zo by so prašał, kotry ma so dźělić.
 webrtc-reason-for-no-permanent-allow-insecure = Waš zwisk z tutym sydłom wěsty njeje. Zo by was škitał, { -brand-short-name } jenož přistup za tute posedźenje dowoli.
