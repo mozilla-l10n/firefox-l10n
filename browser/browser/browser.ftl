@@ -53,7 +53,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } – Navigazione anonima
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } – Navigazione anonima
 
 ##
@@ -246,7 +245,6 @@ search-one-offs-actions =
 ## the action.
 
 quickactions-addons = Visualizza componenti aggiuntivi
-quickactions-cmd-addons = componenti aggiuntivi, estensioni, temi
 quickactions-cmd-addons2 = componenti aggiuntivi
 quickactions-bookmarks = Visualizza segnalibri
 quickactions-cmd-bookmarks = segnalibri
