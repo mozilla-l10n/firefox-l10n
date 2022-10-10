@@ -23,8 +23,6 @@ firefoxview-just-now-timestamp = adesso
 firefoxview-tabpickup-header = Riprendi schede
 firefoxview-tabpickup-description = Apri pagine da altri dispositivi.
 
-firefoxview-tabpickup-recenttabs-description = Le schede recenti verranno visualizzate qui
-
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% completato
@@ -68,8 +66,6 @@ firefoxview-mobile-confirmation-header = 🎉 Tutto pronto!
 firefoxview-mobile-confirmation-description = Ora puoi recuperare le schede di { -brand-product-name } aperte sul tuo telefono o tablet.
 
 firefoxview-closed-tabs-title = Chiuse di recente
-
-firefoxview-closed-tabs-description = Riapri pagine che hai chiuso su questo dispositivo.
 
 firefoxview-closed-tabs-description2 = Riapri pagine che hai chiuso in questa finestra.
 firefoxview-closed-tabs-placeholder = <strong>Nessuna pagina chiusa di recente</strong><br/>Non avrai più paura di perdere una scheda chiusa per errore, potrai sempre riaprirla qui.
