@@ -9,6 +9,8 @@ colors-dialog-window =
             [macos] width: 41em !important
            *[other] width: 38em !important
         }
+colors-dialog-window2 =
+    .title = 配色
 colors-dialog-legend = テキストと背景の色
 text-color-label =
     .value = テキスト:
