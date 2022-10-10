@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ເພີ່ມແທັກ
-
 pocket-panel-saved-error-generic = ເກີດຂໍ້ຜິດພາດເມື່ອພະຍາຍາມຈະບັນທຶກລົງໃນ { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = ແທັກຕ້ອງບໍ່ເກີນ 25 ຕົວອັກສອນ
 pocket-panel-saved-error-only-links = ມີພຽງແຕ່ລີ້ງເທົ່ານັ້ນທີ່ສາມາດບັນທຶກໄດ້
@@ -29,7 +28,6 @@ pocket-panel-saved-saving-tags = ກຳລັງບັນທຶກ...
 pocket-panel-saved-suggested-tags = ແທັກທີ່ໄດ້ຮັບການແນະນຳ
 pocket-panel-saved-tags-saved = ໄດ້ເພີ່ມແທັກແລ້ວ
 pocket-panel-signup-view-list = ເບີ່ງລາຍການ
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = ເພີ່ມແທັກ:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = ລົງທະບຽນດ້ວຍ { -bra
 pocket-panel-signup-tagline = ບັນທືກບົດຄວາມ ແລະ ວີດີໂອຈາກ { -brand-product-name } ເພື່ອເບີ່ງໃນ { -pocket-brand-name } ເທີງອຼປະກອນຕ່າງໆ ທຼກເວລາ
 pocket-panel-signup-tagline-story-one = ຄິກປຸ່ມ { -pocket-brand-name } ເພື່ອບັນທຶກກະທູ້, ວີດີໂອ ຫຼຶ ໜ້າອື່ນໆຈາກ { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = ເບີ່ງໃນ { -pocket-brand-name } ເທີງອຸປະກອນຕ່າງໆ ທຸກເວລາ
-
 pocket-panel-signup-cta-a-fix = ປຸ່ມບັນທຶກຂອງທ່ານສໍາລັບອິນເຕີເນັດ
 pocket-panel-signup-cta-c = ເບິ່ງລາຍຊື່ຂອງທ່ານໃນອຸປະກອນໃດກໍໄດ້, ທຸກເວລາ.
 
@@ -55,9 +52,9 @@ pocket-panel-home-welcome-back = ຍິນ​ດີ​ຕ້ອນ​ຮັບ�
 pocket-panel-home-explore-popular-topics = ສຳຫຼວດຫົວຂໍ້ຍອດນິຍົມ
 pocket-panel-home-discover-more = ຄົ້ນຫາເພີ່ມເຕີມ
 pocket-panel-home-explore-more = ສຳຫຼວດ
-
 pocket-panel-home-most-recent-saves = ນີ້ແມ່ນບັນທຶກຫຼ້າສຸດຂອງເຈົ້າ:
 pocket-panel-home-most-recent-saves-loading = ກຳລັງໂຫຼດຫຼາຍການບັນທືກຫຼ້າສຸດ…
+pocket-panel-home-new-user-cta = ຄລິກປຸ່ມ { -pocket-brand-name } ເພື່ອບັນທຶກບົດຄວາມ, ວິດີໂອ ແລະລິ້ງຕ່າງໆ.
 pocket-panel-home-new-user-message = ເບິ່ງບັນທຶກຫຼ້າສຸດຂອງທ່ານທີ່ນີ້.
 
 ## Pocket panel header component

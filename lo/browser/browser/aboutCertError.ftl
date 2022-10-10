@@ -5,66 +5,48 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ໃຊ້ໃບຢັ້ງຢືນຄວາມປອດໄພທີ່ບໍ່ຖືກຕ້ອງ.
-
 cert-error-mitm-intro = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງເຂົາເຈົ້າໂດຍຜ່ານໃບຢັ້ງຢືນ, ເຊິ່ງອອກໃຫ້ໂດຍເຈົ້າຫນ້າທີ່ໃບຢັ້ງຢືນ.
-
 cert-error-mitm-mozilla = { -brand-short-name } ໄດ້ຮັບການສະໜັບສະໜູນໂດຍ Mozilla ທີ່ບໍ່ຫວັງຜົນກຳໄລ, ເຊິ່ງຄຸ້ມຄອງຮ້ານຂາຍໃບຮັບຮອງທີ່ເປີດຢ່າງຄົບຖ້ວນ (CA). ຮ້ານ CA ຊ່ວຍຮັບປະກັນວ່າເຈົ້າຫນ້າທີ່ໃບຢັ້ງຢືນກໍາລັງປະຕິບັດຕາມການປະຕິບັດທີ່ດີທີ່ສຸດສໍາລັບຄວາມປອດໄພຂອງຜູ້ໃຊ້.
-
 cert-error-trust-unknown-issuer-intro = ບາງຄົນອາດຈະພະຍາຍາມປອມຕົວເປັນເວັບໄຊທ໌ແລະທ່ານບໍ່ຄວນສືບຕໍ່.
-
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງພວກເຂົາຜ່ານໃບຢັ້ງຢືນ. { -brand-short-name } ບໍ່ເຊື່ອຖື { $hostname } ເພາະວ່າຜູ້ອອກໃບຢັ້ງຢືນຂອງມັນບໍ່ຮູ້ຈັກ, ໃບຢັ້ງຢືນແມ່ນເຊັນດ້ວຍຕົນເອງ, ຫຼືເຊີບເວີບໍ່ໄດ້ສົ່ງໃບຢັ້ງຢືນລະດັບປານກາງທີ່ຖືກຕ້ອງ.
-
 cert-error-trust-cert-invalid = ໃບຢັ້ງຢືນບໍ່ເຊື່ອຖືໄດ້ ເພາະວ່າມັນຖືກອອກໃຫ້ໂດຍໃບຢັ້ງຢືນ CA ທີ່ບໍ່ຖືກຕ້ອງ.
-
 cert-error-trust-untrusted-issuer = ໃບຢັ້ງຢືນບໍ່ນ່າເຊື່ອຖືເພາະວ່າໃບຢັ້ງຢືນຜູ້ອອກບໍ່ສາມາດເຊື່ອຖືໄດ້.
-
 cert-error-trust-signature-algorithm-disabled = ໃບຢັ້ງຢືນບໍ່ເຊື່ອຖືໄດ້ເນື່ອງຈາກມັນຖືກລົງນາມໂດຍໃຊ້ສູດການຄິດໄລ່ລາຍເຊັນທີ່ຖືກປິດໃຊ້ງານເນື່ອງຈາກສູດການຄິດໄລ່ນັ້ນບໍ່ປອດໄພ.
-
 cert-error-trust-expired-issuer = ໃບຢັ້ງຢືນບໍ່ເຊື່ອຖືໄດ້ ເພາະວ່າໃບຮັບຮອງຜູ້ອອກໄດ້ໝົດອາຍຸແລ້ວ.
-
 cert-error-trust-self-signed = ໃບຢັ້ງຢືນບໍ່ເຊື່ອຖືໄດ້ເພາະມັນລົງນາມເອງ.
-
 cert-error-trust-symantec = ໃບຢັ້ງຢືນທີ່ອອກໃຫ້ໂດຍ GeoTrust, RapidSSL, Symantec, Thawte, ແລະ VeriSign ບໍ່ໄດ້ຖືກພິຈາລະນາວ່າປອດໄພອີກຕໍ່ໄປເພາະວ່າເຈົ້າຫນ້າທີ່ໃບຢັ້ງຢືນເຫຼົ່ານີ້ບໍ່ປະຕິບັດຕາມການປະຕິບັດດ້ານຄວາມປອດໄພໃນອະດີດ.
-
 cert-error-untrusted-default = ໃບຢັ້ງຢືນບໍ່ໄດ້ມາຈາກແຫຼ່ງທີ່ເຊື່ອຖືໄດ້.
-
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງຕົນເອງຜ່ານໃບຢັ້ງຢືນ. { -brand-short-name } ບໍ່ນ່າເຊື່ອຖືເວັບໄຊນີ້ ເພາະວ່າມັນໃຊ້ໃບຮັບຮອງທີ່ບໍ່ຖືກຕ້ອງສຳລັບ { $hostname }.
-
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງພວກເຂົາຜ່ານໃບຢັ້ງຢືນ. { -brand-short-name } ບໍ່ເຊື່ອຖືເວັບໄຊນີ້ ເພາະວ່າມັນໃຊ້ໃບຮັບຮອງທີ່ບໍ່ຖືກຕ້ອງສຳລັບ { $hostname }. ໃບຢັ້ງຢືນແມ່ນໃຊ້ໄດ້ກັບຊື່ຕໍ່ໄປນີ້ເທົ່ານັ້ນ: { $subject-alt-names }
-
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງເຂົາເຈົ້າໂດຍຜ່ານໃບຢັ້ງຢືນ, ທີ່ຖືກຕ້ອງສໍາລັບໄລຍະເວລາທີ່ກໍານົດໄວ້. ໃບຢັ້ງຢືນສຳລັບ { $hostname } ໝົດອາຍຸເມື່ອ { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງເຂົາເຈົ້າໂດຍຜ່ານໃບຢັ້ງຢືນ, ທີ່ຖືກຕ້ອງສໍາລັບໄລຍະເວລາທີ່ກໍານົດໄວ້. ໃບຢັ້ງຢືນສໍາລັບ { $hostname } ຈະບໍ່ສາມາດໃຊ້ໄດ້ຈົນກ່ວາ { $not-before-local-time }.
-
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ລະຫັດຂໍ້ຜິດພາດ: <a data-l10n-name="error-code-link">{ $error }</a>
-
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງເຂົາເຈົ້າໂດຍຜ່ານໃບຢັ້ງຢືນ, ເຊິ່ງອອກໃຫ້ໂດຍເຈົ້າຫນ້າທີ່ໃບຢັ້ງຢືນ. ຕົວທ່ອງເວັບສ່ວນໃຫຍ່ບໍ່ໄວ້ວາງໃຈໃບຢັ້ງຢືນທີ່ອອກໃຫ້ໂດຍ GeoTrust, RapidSSL, Symantec, Thawte, ແລະ VeriSign. { $hostname } ໃຊ້ໃບຮັບຮອງຈາກໜຶ່ງໃນໜ່ວຍງານເຫຼົ່ານີ້ ແລະດັ່ງນັ້ນຕົວຕົນຂອງເວັບໄຊທ໌ບໍ່ສາມາດພິສູດໄດ້.
-
 cert-error-symantec-distrust-admin = ທ່ານອາດຈະແຈ້ງໃຫ້ຜູ້ເບິ່ງແຍງຂອງເວັບໄຊທ໌ກ່ຽວກັບບັນຫານີ້.
-
 cert-error-old-tls-version = ເວັບໄຊທ໌ນີ້ອາດຈະບໍ່ສະຫນັບສະຫນູນ TLS 1.2 protocol, ເຊິ່ງເປັນເວີຊັ່ນຕໍາ່ສຸດທີ່ສະຫນັບສະຫນູນໂດຍ { -brand-short-name }.
-
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP ຄວາມປອດໄພການຂົນສົ່ງທີ່ເຂັ້ມງວດ: { $hasHSTS }
-
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
-
 cert-error-details-cert-chain-label = ສາຍໃບຮັບຮອງ:
-
 open-in-new-window-for-csp-or-xfo-error = ເປີດໄຊທ໌ໃນວິນໂດໃຫມ່
 
 ## Messages used for certificate error titles
