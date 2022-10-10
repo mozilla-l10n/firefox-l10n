@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indikator Berbagi
 webrtc-indicator-window =
     .title = { -brand-short-name } - Indikator Berbagi
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Anda sedang membagikan kamera Anda. Klik untuk mengendalikan berbagi.
 webrtc-microphone-system-menu =
@@ -142,6 +137,7 @@ webrtc-allow-share-screen-and-audio-capture = Izinkan { $origin } untuk mendenga
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Izinkan { $origin } untuk mengizinkan { $thirdParty } mendengarkan suara tab ini?
 webrtc-allow-share-camera-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke kamera Anda?
 webrtc-allow-share-microphone-unsafe-delegations = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke mikrofon Anda?
 webrtc-allow-share-screen-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } untuk melihat layar Anda?
