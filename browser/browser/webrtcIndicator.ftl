@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = ‏{ -brand-short-name } - מחוון שיתוף
 webrtc-indicator-window =
     .title = ‏{ -brand-short-name } - מחוון שיתוף
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = המצלמה שלך משותפת כעת. יש ללחוץ כדי לשלוט על השיתוף.
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = לאפשר ל־{ $origin } להא�
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } הרשאה להאזין לשמע של לשונית זו?
 webrtc-allow-share-camera-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } גישה למצלמה שלך?
 webrtc-allow-share-microphone-unsafe-delegations = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } גישה למיקרופון שלך?
 webrtc-allow-share-screen-unsafe-delegation = לאפשר ל־{ $origin } לתת ל־{ $thirdParty } הרשאה לצפות במסך שלך?
