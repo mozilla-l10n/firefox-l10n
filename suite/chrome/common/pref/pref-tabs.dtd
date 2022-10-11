@@ -9,13 +9,16 @@
 <!ENTITY autoHide.accesskey2 "N">
 <!ENTITY background.label "Passa alle nuove schede aperte dai collegamenti">
 <!ENTITY background.accesskey "P">
+<!ENTITY diverted.label "Passa alle nuove schede aperte da collegamenti deviati">
+<!ENTITY diverted.accesskey "P">
+<!ENTITY browserFocus.label "Attiva la finestra del browser per i collegamenti aperti nelle schede da altre applicazioni">
+<!ENTITY browserFocus.accesskey "w">
 <!ENTITY warnOnClose.label "Avvisa alla chiusura di una finestra con più schede">
 <!ENTITY warnOnClose.accesskey "s">
 <!ENTITY relatedAfterCurrent.label "Apri le schede simili dopo quella corrente">
 <!ENTITY relatedAfterCurrent.accesskey "d">
 
 <!ENTITY openTabs.label "Apri una scheda al posto di una finestra con">
-
 <!ENTITY middleClick.label "Clic col tasto centrale, Ctrl+clic o Ctrl+Invio sui collegamenti nella pagina web">
 <!ENTITY middleClick.accesskey "w">
 <!ENTITY middleClickMac.label "Clic col tasto centrale, ⌘+clic o ⌘+Invio sui collegamenti nella pagina web">

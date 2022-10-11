@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
 <!ENTITY toField.label "A: ">
 <!ENTITY fromField.label "Da: ">
 <!ENTITY senderField.label "Mittente:">
@@ -10,6 +9,7 @@
 <!ENTITY replyToField.label "Rispondi-a: ">
 
 <!ENTITY subjectField.label "Oggetto: ">
+<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "Ccn:">
 <!ENTITY newsgroupsField.label "Gruppi discussione: ">
@@ -23,21 +23,26 @@
 <!ENTITY inReplyToField.label "In-Risposta-A:">
 <!ENTITY originalWebsite.label "Sito web:">
 
-<!ENTITY attachmentsTree.label "Allegati:">
-<!ENTITY attachmentsTree.accesskey "t">
-<!ENTITY openAttachmentCmd.label "Apri">
-<!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY viewAttachmentCmd.label "Visualizza sorgente">
-<!ENTITY viewAttachmentCmd.accesskey "V">
-<!ENTITY saveAsAttachmentCmd.label "Salva con nome…">
-<!ENTITY saveAsAttachmentCmd.accesskey "c">
-<!ENTITY detachAttachmentCmd.label "Separa…">
-<!ENTITY detachAttachmentCmd.accesskey "S">
-<!ENTITY deleteAttachmentCmd.label "Elimina">
-<!ENTITY deleteAttachmentCmd.accesskey "E">
-<!ENTITY saveAllAttachmentsCmd.label "Salva tutti…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "t">
-<!ENTITY detachAllAttachmentsCmd.label "Separa tutti…">
+<!ENTITY editDraft.label                   "Modifica bozza…">
+<!ENTITY editDraft.accesskey               "z">
+<!ENTITY editTemplate.label                "Modifica modello…">
+<!ENTITY editTemplate.accesskey            "M">
+
+<!ENTITY attachmentsTree.label             "Allegati:">
+<!ENTITY attachmentsTree.accesskey         "t">
+<!ENTITY openAttachmentCmd.label           "Apri">
+<!ENTITY openAttachmentCmd.accesskey       "A">
+<!ENTITY viewAttachmentCmd.label           "Visualizza sorgente">
+<!ENTITY viewAttachmentCmd.accesskey       "V">
+<!ENTITY saveAsAttachmentCmd.label         "Salva con nome…">
+<!ENTITY saveAsAttachmentCmd.accesskey     "c">
+<!ENTITY detachAttachmentCmd.label         "Separa…">
+<!ENTITY detachAttachmentCmd.accesskey     "S">
+<!ENTITY deleteAttachmentCmd.label         "Elimina">
+<!ENTITY deleteAttachmentCmd.accesskey     "E">
+<!ENTITY saveAllAttachmentsCmd.label       "Salva tutti…">
+<!ENTITY saveAllAttachmentsCmd.accesskey   "t">
+<!ENTITY detachAllAttachmentsCmd.label     "Separa tutti…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "r">
-<!ENTITY deleteAllAttachmentsCmd.label "Elimina tutti…">
+<!ENTITY deleteAllAttachmentsCmd.label     "Elimina tutti…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "m">

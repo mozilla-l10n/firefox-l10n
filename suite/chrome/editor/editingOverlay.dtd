@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Memorizza i file presso un indirizzo remoto">
 <!ENTITY printToolbarCmd.label "Stampa">
 <!ENTITY printToolbarCmd.tooltip "Stampa la pagina">
+<!ENTITY formToolbarCmd.label "Modulo">
+<!ENTITY formToolbarCmd.tooltip "Modifica modulo selezionato o inseriscine una nuovo">
