@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Ripristina le schede solo quando necessarie">
 <!ENTITY restoreDeferred.accesskey      "c">
 
+<!ENTITY siteIcons.label                "Icone sito web">
+<!ENTITY useSiteIcons.label             "Mostra icone sito web">
+<!ENTITY useSiteIcons.accesskey         "w">
+<!ENTITY useFavIcons.label              "Prova a utilizzare l’icona (favicon) del server quando la pagina non definisce un’icona">
+<!ENTITY useFavIcons.accesskey          "P">
+
 <!ENTITY homePageIntro.label            "La pressione del pulsante Pagina iniziale fa caricare questo gruppo di pagine:">
 <!ENTITY useCurrent.label               "Utilizza pagina corrente">
 <!ENTITY useCurrent.accesskey           "z">
@@ -40,4 +46,3 @@
 <!ENTITY browseFile.accesskey           "S">
 <!ENTITY useDefault.label               "Ripristina valori predefiniti">
 <!ENTITY useDefault.accesskey           "f">
-

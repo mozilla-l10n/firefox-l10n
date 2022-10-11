@@ -25,3 +25,6 @@
 dalla sezione <a id="dictURL" href="">dizionari</a> su
 <a href="https://addons.thunderbird.net/seamonkey/">Componenti aggiuntivi per SeaMonkey e Thunderbird</a>.'>
 <!ENTITY info.title "Ulteriori informazioni">
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">Gli sviluppatori</a> gradiscono segnalazioni di errori e richieste per nuove funzionalità. Leggere le <a id="releaseNotesURL" href="">note di versione</a> e controllare su <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> prima di aprire una nuova segnalazione.'>

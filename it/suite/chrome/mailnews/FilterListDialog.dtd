@@ -7,14 +7,22 @@
 <!ENTITY activeColumn.label "Attivato">
 <!ENTITY newButton.label "Nuovo…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY copyButton.label "Copia…">
+<!ENTITY copyButton.accesskey "C">
 <!ENTITY editButton.label "Modifica">
 <!ENTITY editButton.accesskey "M">
 <!ENTITY deleteButton.label "Elimina">
 <!ENTITY deleteButton.accesskey "E">
+<!ENTITY reorderTopButton "Sposta in cima">
+<!ENTITY reorderTopButton.accessKey "c">
+<!ENTITY reorderTopButton.toolTip "Impostare questo filtro in modo che venga eseguito prima degli altri">
 <!ENTITY reorderUpButton.label "Muovi su">
 <!ENTITY reorderUpButton.accesskey "s">
 <!ENTITY reorderDownButton.label "Muovi giù">
 <!ENTITY reorderDownButton.accesskey "u">
+<!ENTITY reorderBottomButton "Sposta in basso">
+<!ENTITY reorderBottomButton.accessKey "b">
+<!ENTITY reorderBottomButton.toolTip "Impostare questo filtro in modo che venga eseguito dopo gli altri">
 <!ENTITY filterHeader.label "I filtri attivati verranno applicati automaticamente nell'ordine seguente.">
 <!ENTITY filtersForPrefix.label "Filtri per:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -26,3 +34,4 @@
 <!ENTITY stopFilters.accesskey "I">
 <!ENTITY folderPickerPrefix.label "Avvia i filtri selezionati sulla cartella:">
 <!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY searchBox.emptyText "Cerca filtri per nome…">

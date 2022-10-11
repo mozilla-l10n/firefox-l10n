@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "Guida">
 <!ENTITY helpMenu.accesskey               "G">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Guida">
@@ -154,6 +153,9 @@
 <!ENTITY aboutCmd.accesskey                 "I">
 <!ENTITY aboutCommPluginsCmd.label          "Informazioni sui plugin">
 <!ENTITY aboutCommPluginsCmd.accesskey      "u">
+
+<!ENTITY aboutBuildConfigCmd.label          "Mostra configurazione build">
+<!ENTITY aboutBuildConfigCmd.accesskey      "b">
 
 <!ENTITY direct.label                             "In linea (proxy: nessuno)">
 <!ENTITY direct.accesskey                         "n">

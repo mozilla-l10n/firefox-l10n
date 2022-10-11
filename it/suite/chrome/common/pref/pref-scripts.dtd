@@ -4,6 +4,9 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "Script">
+
 <!ENTITY navigator.label                 "Browser">
 <!ENTITY navigator.accesskey             "B">
 
@@ -24,4 +27,3 @@
 <!ENTITY debugStrictJavascript.accesskey  "M">
 <!ENTITY debugConsoleJavascript.label     "Mostra errori e avvisi di JavaScript relativi al chrome">
 <!ENTITY debugConsoleJavascript.accesskey "c">
-

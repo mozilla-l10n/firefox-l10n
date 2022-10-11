@@ -8,8 +8,17 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Mantieni la divisione per argomenti durante l'ordinamento dei messaggi">
 <!ENTITY preserveThreading.accesskey      "M">
+<!ENTITY mailAutoHide.label               "Nascondi la barra delle schede della posta quando è aperta una sola scheda">
+<!ENTITY mailAutoHide.accesskey           "b">
 <!ENTITY loadInBackground.label           "Passa alla nuova scheda aperta">
 <!ENTITY loadInBackground.accesskey       "P">
+<!ENTITY mailOpenTabsFor.label            "Apri una scheda al posto di una finestra con">
+<!ENTITY mailMiddleClick.label            "Clic col tasto centrale, Ctrl+clic o Ctrl+Invio su un messaggio o una cartella">
+<!ENTITY mailMiddleClick.accesskey        "t">
+<!ENTITY mailMiddleClickMac.label         "Clic col tasto centrale, ⌘+clic o ⌘+Invio su un messaggio o una cartella">
+<!ENTITY mailMiddleClickMac.accesskey     "t">
+<!ENTITY mailDoubleClick.label            "Doppio clic su un messaggio">
+<!ENTITY mailDoubleClick.accesskey        "s">
 <!ENTITY mailBiffOnNewWindow.label        "Controlla i nuovi messaggi solo dopo l'apertura di Posta e gruppi di discussione">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
