@@ -7,7 +7,7 @@
 <!ENTITY  changepassword.button                  "Modifica password…">
 <!ENTITY  changepassword.accesskey               "M">
 
-<!ENTITY  resetpassword.caption                  "Cancellazione password principale">
+<!ENTITY  resetpassword.caption                  "Rimozione password principale">
 <!ENTITY  resetpassword.text                     "Se si cancella la password principale, andranno perse tutte le password di posta e dei siti web, i dati dei moduli, i certificati personali, e le chiavi private memorizzate.">
 <!ENTITY  resetpassword2.button                  "Reimposta password">
 <!ENTITY  resetpassword2.accesskey               "R">

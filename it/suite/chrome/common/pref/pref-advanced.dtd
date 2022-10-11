@@ -34,9 +34,9 @@
 <!ENTITY submitCrashes.accesskey          "n">
 
 <!ENTITY devTools.caption                 "Strumenti di sviluppo">
-<!ENTITY allowDebugger.label              "Permetti a un debugger di connettersi a &brandShortName;">
+<!ENTITY allowDebugger.label              "Consenti a un debugger di connettersi a &brandShortName;">
 <!ENTITY allowDebugger.accesskey          "P">
-<!ENTITY allowRemoteConnections.label     "Permetti connessioni da altri computer">
+<!ENTITY allowRemoteConnections.label     "Consenti connessioni da altri computer">
 <!ENTITY allowRemoteConnections.accesskey "e">
 <!ENTITY connectionPrompt.label           "Chiedi conferma per connessioni in entrata">
 <!ENTITY connectionPrompt.accesskey       "C">

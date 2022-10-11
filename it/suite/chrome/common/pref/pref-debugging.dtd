@@ -11,7 +11,7 @@
 <!ENTITY debugXULBox.label                "Debug delle XUL box">
 <!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "Disattiva la cache XUL">
-<!ENTITY debugDisableXULCache.accesskey   "D">
+<!ENTITY debugDisableXULCache.accesskey   "L">
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Eventi">

@@ -12,18 +12,18 @@
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Attiva JavaScript per">
-<!ENTITY allowScripts.label              "Consenti alle pagine web di:">
+<!ENTITY allowScripts.label              "Consenti agli script di:">
 <!ENTITY allowScripts.accesskey          "C">
-<!ENTITY allowWindowMoveResize.label     "Muovere o ridimensionare finestre esistenti">
+<!ENTITY allowWindowMoveResize.label     "Spostare o ridimensionare finestre esistenti">
 <!ENTITY allowWindowFlip.label           "Portare in primo piano o sullo sfondo le finestre">
 <!ENTITY allowWindowStatusChange.label   "Modificare il testo della barra di stato">
 <!ENTITY allowContextmenuDisable.label   "Disattivare o sostituire i menu contestuali">
 <!ENTITY allowHideStatusBar.label        "Nascondere la barra di stato">
 
 <!ENTITY debugging.label                  "Debugging JavaScript">
-<!ENTITY debugEnableDump.label            "Abilita l'output di JavaScript dump()">
+<!ENTITY debugEnableDump.label            "Attiva l’output di JavaScript dump()">
 <!ENTITY debugEnableDump.accesskey        "A">
-<!ENTITY debugStrictJavascript.label      'Mostra avvisi "strict" di JavaScript'>
+<!ENTITY debugStrictJavascript.label      "Mostra avvisi “strict” di JavaScript">
 <!ENTITY debugStrictJavascript.accesskey  "M">
 <!ENTITY debugConsoleJavascript.label     "Mostra errori e avvisi di JavaScript relativi al chrome">
 <!ENTITY debugConsoleJavascript.accesskey "c">

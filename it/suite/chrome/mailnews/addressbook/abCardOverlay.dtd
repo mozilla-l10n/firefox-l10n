@@ -39,7 +39,7 @@
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "m">
 <!ENTITY SecondEmail.label              "Email aggiuntiva:">
-<!ENTITY SecondEmail.accesskey          "v">
+<!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Formato preferito per i messaggi di posta:">
 <!ENTITY PreferMailFormat.accesskey     "d">
 <!ENTITY PlainText.label                "Testo semplice">
@@ -48,15 +48,15 @@
 <!ENTITY chatName.label                 "Nome chat:">
 
 <!ENTITY WorkPhone.label                "Lavoro:">
-<!ENTITY WorkPhone.accesskey            "L">
+<!ENTITY WorkPhone.accesskey            "v">
 <!ENTITY HomePhone.label                "Casa:">
 <!ENTITY HomePhone.accesskey            "s">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Cercapersone:">
 <!ENTITY PagerNumber.accesskey          "p">
 <!ENTITY CellularNumber.label           "Cellulare:">
-<!ENTITY CellularNumber.accesskey       "e">
+<!ENTITY CellularNumber.accesskey       "u">
 
 <!ENTITY Home.tab                       "Privato">
 <!ENTITY Home.accesskey                 "r">
@@ -83,7 +83,7 @@
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Lavoro">
-<!ENTITY Work.accesskey                 "a">
+<!ENTITY Work.accesskey                 "L">
 <!ENTITY JobTitle.label                 "Qualifica:">
 <!ENTITY JobTitle.accesskey             "Q">
 <!ENTITY Department.label               "Dipartimento:">
