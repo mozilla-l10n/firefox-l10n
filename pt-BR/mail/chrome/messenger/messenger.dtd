@@ -328,7 +328,7 @@
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Mensagem">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "Nova">
+<!ENTITY newMsgCmd.label "Nova mensagem">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Mensagem">
 <!ENTITY newNewMsgCmd.accesskey "M">
