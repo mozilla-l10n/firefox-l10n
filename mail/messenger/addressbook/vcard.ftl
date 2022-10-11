@@ -121,8 +121,18 @@ vcard-org-role-input =
     .title = Function or part played in a particular situation
     .placeholder = Role in a project
 vcard-org-org = Organization
+vcard-org-org-input =
+    .title = Organizational name
+    .placeholder = Company name
+vcard-org-org-unit = Department
+vcard-org-org-unit-input =
+    .title = Organizational unit name
+    .placeholder = Department
 
 # Custom properties
 
 vcard-custom-header = Custom Properties
 vcard-custom-add = Add custom properties
+vcard-remove-button-title =
+    .title = Remove
+vcard-remove-button = Remove
