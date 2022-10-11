@@ -5,12 +5,12 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "Contenuto">
-<!ENTITY pref.content.description               "Queste impostazioni influenzano il modo in cui appare il contenuto dei siti web e dei messaggi in &brandShortName;. ">
+<!ENTITY pref.content.description               "Queste impostazioni influenzano il modo in cui appare il contenuto dei siti web e dei messaggi in &brandShortName;.">
 
 <!ENTITY scrolling.label                        "Scorrimento">
 <!ENTITY useAutoScroll.label                    "Usa lo scorrimento automatico">
 <!ENTITY useAutoScroll.accesskey                "s">
-<!ENTITY useSmoothScroll.label                  "Utilizza lo scorrimento continuo">
+<!ENTITY useSmoothScroll.label                  "Utilizza lo scorrimento fluido">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
 <!ENTITY zoomPrefs.label                        "Opzioni zoom">
@@ -26,14 +26,14 @@
 <!ENTITY defaultZoom.label                      "Zoom predefinito">
 <!ENTITY defaultZoom.accesskey                  "Z">
 
-<!ENTITY textZoomOnly.label                     "Fai lo zoom del solo testo invece di intere pagine">
+<!ENTITY textZoomOnly.label                     "Fai lo zoom solo del testo invece delle pagine intere">
 <!ENTITY textZoomOnly.accesskey                 "F">
 <!ENTITY siteSpecific.label                     "Ricorda livello di zoom per ogni sito">
 <!ENTITY siteSpecific.accesskey                 "R">
-<!ENTITY showZoomStatusPanel.label              "Mostra controlli zoom nella barra di stato">
+<!ENTITY showZoomStatusPanel.label              "Mostra controlli di zoom nella barra di stato">
 <!ENTITY showZoomStatusPanel.accesskey          "M">
-<!ENTITY enableAutomaticImageResizing.label     "Ridimensiona immagini grandi per mostrarle nella finestra del browser">
+<!ENTITY enableAutomaticImageResizing.label     "Ridimensiona immagini grandi per adattarsi alla finestra del browser">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 
-<!ENTITY allowHWAccel.label                     "Utilizza accelerazione hardware se disponibile">
+<!ENTITY allowHWAccel.label                     "Utilizza accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey                 "t">

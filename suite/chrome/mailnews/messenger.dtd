@@ -313,6 +313,17 @@
 <!ENTITY forwardAsInline.accesskey "P">
 <!ENTITY forwardAsAttachmentCmd.label "Allegato">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY editAsNewMsgCmd.label "Modifica come nuovo messaggio">
+<!ENTITY editAsNewMsgCmd.accesskey "n">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Modifica bozza messaggio">
+<!ENTITY editDraftMsgCmd.accesskey "z">
+<!ENTITY editTemplateMsgCmd.label "Modifica modello">
+<!ENTITY editTemplateMsgCmd.accesskey "m">
+<!ENTITY newMsgFromTemplateCmd.label "Nuovo messaggio da modello">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Crea filtro dal messaggio…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY archiveMsgCmd.label "Archivia">
@@ -465,6 +476,12 @@
 <!ENTITY contextOpenNewWindow.accesskey "f">
 <!ENTITY contextOpenNewTab.label "Apri il messaggio in una nuova scheda">
 <!ENTITY contextOpenNewTab.accesskey "h">
+<!ENTITY contextEditMsgAsNew.label "Modifica come nuovo messaggio">
+<!ENTITY contextEditMsgAsNew.accesskey "n">
+<!ENTITY contextEditDraftMsg.label "Modifica bozza messaggio">
+<!ENTITY contextEditTemplate.label "Modifica modello">
+<!ENTITY contextEditTemplate.accesskey "m">
+<!ENTITY contextNewMsgFromTemplate.label "Nuovo messaggio da modello">
 <!ENTITY contextReplySender.label "Rispondi solo al mittente">
 <!ENTITY contextReplySender.accesskey "o">
 <!ENTITY contextReplyList.label "Rispondi alla lista">
