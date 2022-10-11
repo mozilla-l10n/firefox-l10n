@@ -33,6 +33,10 @@ calendar-invitation-datetime-date = { $dayOfWeek }, { $date }
 # $time (String) - The time part of a datetime using the "short" timeStyle.
 # $timezone (String) - The timezone info for the datetime.
 calendar-invitation-datetime-time = { $time } ({ $timezone })
+# Example: Friday, September 16, 2022
+# Variables:
+# $startDate (String) - The date (without time) the event starts on.
+calendar-invitation-interval-all-day = { $startDate }
 calendar-invitation-panel-prop-title-attendees = Deltakere:
 calendar-invitation-panel-prop-title-description = Beskrivelse:
 # Variables:
