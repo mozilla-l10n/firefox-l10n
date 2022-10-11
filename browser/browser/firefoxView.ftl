@@ -57,6 +57,9 @@ firefoxview-pickup-tabs-badge = Last active
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Open { $targetURI } in a new tab
+firefoxview-try-colorways-button = Try colourways
+firefoxview-no-current-colorway-collection = New colourways are on the way
+firefoxview-change-colorway-button = Change colourway
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
