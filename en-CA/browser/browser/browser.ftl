@@ -76,7 +76,7 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } Private Browsing
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } Private Browsing
 
 ##
 
@@ -272,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = View Add-ons
-quickactions-cmd-addons = add-ons, extensions, themes
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks = View Bookmarks
@@ -322,6 +321,9 @@ quickactions-cmd-update = update
 # Opens the view-source UI with current pages source
 quickactions-viewsource = View Source
 quickactions-cmd-viewsource = view source, source
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Learn more about Quick actions
 
 ## Bookmark Panel
 
@@ -503,6 +505,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = To use the F12 shortcut, first open DevTools via the Web Developer menu.
+enable-devtools-popup-description2 = To use the F12 shortcut, first open DevTools via the Browser Tools menu.
 
 ## URL Bar
 
