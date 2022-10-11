@@ -15,6 +15,26 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Eventi">
+<!ENTITY debugPaintFlashing.label "Evidenzia aree disegnate (attiva/disattiva con blocco maiuscole)">
+<!ENTITY debugPaintFlashing.accesskey "E">
+<!ENTITY debugPaintFlashingChrome.label "Evidenzia aree disegnate in chrome">
+<!ENTITY debugPaintFlashingChrome.accesskey "h">
+<!ENTITY debugPaintDumping.label "Crea dump per la fase di disegno">
+<!ENTITY debugPaintDumping.accesskey "a">
+<!ENTITY debugInvalidateDumping.label "Invalida dump">
+<!ENTITY debugInvalidateDumping.accesskey "m">
+<!ENTITY debugEventDumping.label "Dump degli eventi">
+<!ENTITY debugEventDumping.accesskey "v">
+<!ENTITY debugMotionEventDumping.label "Dump degli eventi “motion”">
+<!ENTITY debugMotionEventDumping.accesskey "o">
+<!ENTITY debugCrossingEventDumping.label "Dump degli eventi “crossing”">
+<!ENTITY debugCrossingEventDumping.accesskey "c">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "Eventi di reflow">
 <!ENTITY debugReflowShowFrameCounts.label        "Mostra il numero di frame">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "r">
+<!ENTITY debugReflowDumpFrameCounts.label        "Dump del numero di frame">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Dump del numero di “frame by frame”">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
