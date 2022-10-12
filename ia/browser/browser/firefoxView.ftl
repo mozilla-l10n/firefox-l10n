@@ -17,7 +17,6 @@ firefoxview-just-now-timestamp = Justo ora
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Election de scheda
 firefoxview-tabpickup-description = Aperi paginas ab altere apparatos.
-firefoxview-tabpickup-recenttabs-description = Le listas de schedas recente vaderea ci
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% complete
@@ -26,7 +25,7 @@ firefoxview-tabpickup-step-signin-description = Pro transferer le schedas de tu 
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
-firefoxview-tabpickup-adddevice-learn-how = Apprender como
+firefoxview-tabpickup-adddevice-learn-how = Apprende como
 firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
 firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
@@ -50,7 +49,6 @@ firefoxview-mobile-promo-primarybutton = Installa { -brand-product-name } pro mo
 firefoxview-mobile-confirmation-header = 🎉 Bon a ir!
 firefoxview-mobile-confirmation-description = Ora tu pote acceder tu schedas de { -brand-product-name } ab tu tabletta o telephono.
 firefoxview-closed-tabs-title = Recentemente claudite
-firefoxview-closed-tabs-description = Reaperi paginas que tu ha claudite sur iste apparato.
 firefoxview-closed-tabs-description2 = Reaperir paginas que tu ha claudite in iste fenestra.
 firefoxview-closed-tabs-placeholder = <strong>Nulle pagina recentemente claudite</strong><br/>Jammais time ancora de perder un scheda claudite. Tu pote sempre recuperar lo ci.
 # refers to the last tab that was used
