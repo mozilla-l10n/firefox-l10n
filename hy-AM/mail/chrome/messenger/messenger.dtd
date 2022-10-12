@@ -486,6 +486,7 @@
 <!ENTITY importCmd.label "Ներմուծել…">
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY exportCmd.label "Արտահանել...">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Ջնջել Վերջին Պատմությունը...">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Փոստարկղի կարգավորումներ">
