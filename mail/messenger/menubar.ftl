@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Ayarlar
     .accesskey = A
-
 menu-addons-and-themes =
     .label = Eklentiler ve temalar
     .accesskey = E
@@ -21,51 +20,39 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Yardım
     .accesskey = Y
-
 menu-help-get-help =
     .label = Yardım al
     .accesskey = Y
-
 menu-help-explore-features =
     .label = Özellikleri keşfet
     .accesskey = Ö
-
 menu-help-shortcuts =
     .label = Klavye kısayolları
     .accesskey = K
-
 menu-help-get-involved =
     .label = Katkıda bulunun
     .accesskey = K
-
 menu-help-donation =
     .label = Bağış yapın
     .accesskey = B
-
 menu-help-share-feedback =
     .label = Fikir ve görüş paylaş
     .accesskey = F
-
 menu-help-enter-troubleshoot-mode =
     .label = Sorun giderme modu…
     .accesskey = o
-
 menu-help-exit-troubleshoot-mode =
     .label = Sorun giderme modunu kapat
     .accesskey = o
-
 menu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
-
 menu-help-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = o
-
 menu-help-about-product =
     .label = { -brand-short-name } hakkında
     .accesskey = a
-
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -78,10 +65,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } uygulamasından çık
+quit-app-shortcut =
+    .key = k
 
 ## Mail Toolbar
 
@@ -109,43 +97,33 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Yazı tipi boyutu
     .accesskey = o
-
 menuitem-font-size-enlarge =
     .label = Yazı tipi boyutunu büyüt
     .accesskey = b
-
 menuitem-font-size-reduce =
     .label = Yazı tipi boyutunu küçült
     .accesskey = k
-
 menuitem-font-size-reset =
     .label = Yazı tipi boyutunu sıfırla
     .accesskey = o
-
 mail-uidensity-label =
     .label = Yoğunluk
     .accesskey = Y
-
 mail-uidensity-compact =
     .label = Kompakt
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Dokunmatik
     .accesskey = D
-
 mail-uidensity-default =
     .label = Varsayılan
     .accesskey = V
-
 mail-uidensity-relaxed =
     .label = Rahat
     .accesskey = R
-
 menu-spaces-toolbar-button =
     .label = Sekme araç çubuğu
     .accesskey = S
