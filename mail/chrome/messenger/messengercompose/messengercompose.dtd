@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Նոր">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Նամակ">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Հասցեագրքի Կոնտակտ...">
 <!ENTITY newContact.accesskey "Կ">
