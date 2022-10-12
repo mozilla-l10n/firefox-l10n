@@ -240,6 +240,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>ພົບການເຂົ້າສູ່ລະບົບຊໍ້າກັນ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນຳເຂົ້າ)</span >
@@ -255,6 +259,7 @@ about-logins-import-dialog-error-conflicting-values-description = ຕົວຢ�
 about-logins-import-dialog-error-file-format-title = ບັນຫາຮູບແບບໄຟລ໌
 about-logins-import-dialog-error-file-format-description = ສ່ວນຄໍລໍາບໍ່ຖືກຕ້ອງ ຫຼືຂາດຫາຍໄປ. ໃຫ້ແນ່ໃຈວ່າໄຟລ໌ປະກອບມີຄໍລໍາສໍາລັບຊື່ຜູ້ໃຊ້, ລະຫັດຜ່ານແລະ URL.
 about-logins-import-dialog-error-file-permission-title = ບໍ່ສາມາດອ່ານໄຟລ໌ໄດ້
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } ບໍ່ມີການອະນຸຍາດໃຫ້ອ່ານໄຟລ໌. ລອງປ່ຽນການອະນຸຍາດໄຟລ໌.
 about-logins-import-dialog-error-unable-to-read-title = ບໍ່ສາມາດວິເຄາະໄຟລ໌ໄດ້
 about-logins-import-dialog-error-unable-to-read-description = ໃຫ້ແນ່ໃຈວ່າທ່ານເລືອກໄຟລ໌ CSV ຫຼື TSV.
 about-logins-import-dialog-error-no-logins-imported = ບໍ່ມີການນໍາເຂົ້າການເຂົ້າສູ່ລະບົບ

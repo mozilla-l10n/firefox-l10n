@@ -17,6 +17,8 @@ appmenuitem-downloads =
     .label = ດາວໂຫລດ
 appmenuitem-passwords =
     .label = ລະຫັດຜ່ານ
+appmenuitem-addons-and-themes =
+    .label = ສ່ວນເສີມ ແລະຮູບແບບສີສັນ
 appmenuitem-print =
     .label = ພິມ...
 appmenuitem-find-in-page =
@@ -33,7 +35,6 @@ appmenuitem-exit2 =
             [linux] ອອກ
            *[other] ອອກ
         }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -52,30 +53,23 @@ appmenuitem-fullscreen =
 
 appmenu-remote-tabs-turn-on-sync =
     .label = ເປີດ Sync…
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ບໍ່ມີແທັບທີ່ເປີດຢູ່
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ເປີດການຊິງຄ໌ແທັບເພື່ອເບິ່ງລາຍການແທັບທີ່ເປີດຢູ່ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.
-
 appmenu-remote-tabs-opensettings =
     .label = ການຕັ້ງຄ່າ
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ຕ້ອງການໃຫ້ເຫັນແທັບທີ່ນີ້ຂອງທ່ານໄດ້ຈາກອຸປະກອນອື່ນໆບໍ່?
-
 appmenu-remote-tabs-connectdevice =
     .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 appmenu-remote-tabs-unverified = ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sync ຕອນນີ້
 appmenuitem-fxa-manage-account = ຈັດການບັນຊີ
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-sync-and-save-data2 = ຊິງຄ໌ແລະບັນທຶກຂໍ້ມູນ
 appmenu-fxa-signed-in-label = ເຂົ້າ​ສູ່​ລະ​ບົບ
-
 appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 
@@ -89,34 +83,25 @@ whatsnew-panel-header = ມີ​ຫຍັງ​ໃຫມ່
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-learn-more-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມ
-
 profiler-popup-settings =
     .value = ການຕັ້ງຄ່າ
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = ແກ້ໄຂການຕັ້ງຄ່າ...
-
 profiler-popup-recording-screen = ກຳລັງບັນທຶກ...
-
 profiler-popup-start-recording-button =
     .label = ເລີ່ມການບັນທຶກ
-
 profiler-popup-discard-button =
     .label = ຖິ້ມ
-
 profiler-popup-capture-button =
     .label = ບັນທຶກຮູບ
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -133,23 +118,17 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = ນັກພັດທະນາເວັບ
-
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-label =
     .label = ກຣາບຟິກ
-
 profiler-popup-presets-media-label =
     .label = ສື່
-
 profiler-popup-presets-networking-label =
     .label = ເຄືອຂ່າຍ
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ພະລັງງານ
-
 profiler-popup-presets-custom-label =
     .label = ປັບແຕ່ງ
 
