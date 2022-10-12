@@ -38,11 +38,9 @@ menu-quit =
             [windows] ա
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Փակել { -brand-shorter-name }-ը
-
 menu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = մ
@@ -91,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Հղումը ուղարկել էլ. փոստով...
     .accesskey = Հ
+menu-file-share-url =
+    .label = Համօգտագործել
+    .accesskey = h
 menu-file-print-setup =
     .label = Էջի կարգավորումներ…
     .accesskey = գ
@@ -202,14 +203,24 @@ menu-history-undo-menu =
     .label = Վերջին փակված ներդիրները
 menu-history-undo-window-menu =
     .label = Վերջին փակված պատուհանները
+menu-history-reopen-all-tabs = Վերաբացեք բոլոր ներդիրները
+menu-history-reopen-all-windows = Վերաբացեք բոլոր պատուհանները
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Էջանիշեր
     .accesskey = Է
+menu-bookmarks-manage =
+    .label = Կառավարեք էջանիշները
+menu-bookmark-current-tab =
+    .label = Էջանշել ընթացիկ ներդիրը
 menu-bookmark-edit =
     .label = Խմբագրել այս էջանիշը
+menu-bookmark-tab =
+    .label = Էջանշել ընթացիկ ներդիրը…
+menu-edit-bookmark =
+    .label = Խմբագրել այս էջանիշը…
 menu-bookmarks-all-tabs =
     .label = Էջանշել Բոլոր Ներդիրները…
 menu-bookmarks-toolbar =
@@ -233,6 +244,9 @@ menu-tools-addons-and-themes =
 menu-tools-fxa-sign-in2 =
     .label = Մուտք գործել
     .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = Միացնել համաժամեցումը…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Համաժամեցնել
     .accesskey = o
