@@ -6,7 +6,7 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = Lleisiau Annibynnol
-colorway-collection-independent-voices-description = Gall lliw newid diwylliant. Mae'r llwybrau lliw diweddaraf yn dathlu lleisiau sy'n gwneud y byd yn lle gwell.
+colorway-collection-independent-voices-description = Gall lliw newid diwylliant. Mae'r cyfuniadau lliw diweddaraf yn dathlu lleisiau sy'n gwneud y byd yn lle gwell.
 # Used as a subheading for the colorway collection card in about:addons
 colorway-collection-independent-voices-short-description = Lliwiau sy'n newid diwylliant.
 
@@ -14,18 +14,13 @@ colorway-collection-independent-voices-short-description = Lliwiau sy'n newid di
 
 playmaker-colorway-name = Chwaraewr
 playmaker-colorway-description = Rydych chi'n creu cyfleoedd i ennill ac yn helpu pawb o'ch cwmpas i godi eu gêm.
-
 expressionist-colorway-name = Mynegiadwr
 expressionist-colorway-description = Rydych chi'n gweld y byd yn wahanol ac mae eich creadigaethau'n cyffroi emosiynau pobl eraill.
-
 visionary-colorway-name = Gweledydd
 visionary-colorway-description = Rydych chi'n cwestiynu'r status quo ac yn annog eraill i ddychmygu dyfodol gwell.
-
 activist-colorway-name = Ymgyrchydd
 activist-colorway-description = Rydych chi'n gadael y byd yn lle gwell nag nag oedd ac yn arwain eraill i gredu.
-
 dreamer-colorway-name = Breuddwydiwr
 dreamer-colorway-description = Rydych chi'n credu bod hap yn ffafrio'r beiddgar ac yn ysbrydoli eraill i fod yn ddewr.
-
 innovator-colorway-name = Arloesydd
 innovator-colorway-description = Rydych chi'n gweld cyfleoedd ym mhobman ac yn cael effaith ar fywydau pawb o'ch cwmpas.
