@@ -5,28 +5,22 @@
 cookies-window-dialog =
     .title = Cwcis
     .style = width: 36em;
-
+cookies-window-dialog2 =
+    .title = Cwcis
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Chwilio:
     .accesskey = h
-
 cookies-on-system-label = Mae'r cwcis canlynol wedi'u cadw ar eich cyfrifiadur:
-
 treecol-site-header =
     .label = Gwefan
-
 treecol-name-header =
     .label = Enw'r Cwci
-
 props-name-label =
     .value = Enw:
 props-value-label =
@@ -41,15 +35,12 @@ props-expires-label =
     .value = Daw i ben:
 props-container-label =
     .value = Cynhwysydd:
-
 remove-cookie-button =
     .label = Tynnu Cwci
     .accesskey = T
-
 remove-all-cookies-button =
     .label = Tynnu Pob Cwci
     .accesskey = P
-
 cookie-close-button =
     .label = Cau
     .accesskey = u
