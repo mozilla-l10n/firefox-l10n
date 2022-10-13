@@ -183,7 +183,7 @@ mr2-onboarding-theme-tooltip =
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
-    .aria-description = Defnyddio'r cyfuniad lliw hwn.
+    .aria-description = Defnyddio'r cyfuniad lliw yma.
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
@@ -353,7 +353,7 @@ mr2022-onboarding-colorway-label-activist = Ymgyrchydd
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Ymgyrchydd
 mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Gweithredydd (glas)
+    .title = Ymgyrchydd (glas)
 mr2022-onboarding-colorway-description-activist = <b>Rydych chi'n Ymgyrchydd.</b> Rydych yn gadael y byd yn lle gwell nag y daethoch iddo ac yn arwain eraill i gredu.
 mr2022-onboarding-colorway-label-dreamer = Breuddwydiwr
 mr2022-onboarding-colorway-tooltip-dreamer =
