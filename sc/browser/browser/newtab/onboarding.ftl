@@ -39,6 +39,8 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = Progressu: passu { $current } de { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -272,20 +274,38 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Mantene { -brand-short-name } in Dock
        *[other] Apica { -brand-short-name } a sa barra de is tareas
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Cumintza cun unu navigadore realizadu dae un'organizatzione chene profetu. Amparamus sa riservadesa tua mentras arròllias in su web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Gràtzias pro istimare { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Imbuca in un'internet prus sanu cun unu clic isceti, dae in ue boles. S'ùrtima atualizatzione nostra includet funtziones noas chi as a adorare.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Imprea unu navigadore chi difendet sa riservadesa tua mentras arròllias in su web. S'ùrtima atualizatzione nostra includet funtziones noas chi as a adorare.
+mr2022-onboarding-existing-pin-checkbox-label = Agiunghe sa navigatzione privada de { -brand-short-name } puru
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Faghe de { -brand-short-name } su navigadore tuo preferidu
+mr2022-onboarding-set-default-primary-button-label = Cunfigura { -brand-short-name } comente navigadore predefinidu
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Cunfigura in pagu segundos
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Cunfiguratzione ultra-lestra
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
