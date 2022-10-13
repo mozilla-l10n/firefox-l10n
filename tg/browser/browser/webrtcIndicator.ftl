@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Нишондиҳандаи дастрасӣ
 webrtc-indicator-window =
     .title = { -brand-short-name } — Нишондиҳандаи дастрасӣ
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Шумо ба камераи худ дастрасии умумӣ медиҳед. Барои идоракунии дастрасӣ зер кунед.
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = Ба { $origin } барои гӯш
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Ба { $origin } иҷозат медиҳед, ки барои шунидани аудиои ин варақ ба { $thirdParty } дастрасиро таъмин намояд?
 webrtc-allow-share-camera-unsafe-delegation = Ба { $origin } иҷозат медиҳед, ки ба камераи шумо ба { $thirdParty } дастрасиро таъмин намояд?
 webrtc-allow-share-microphone-unsafe-delegations = Ба { $origin } иҷозат медиҳед, ки ба микрофони шумо ба { $thirdParty } дастрасиро таъмин намояд?
 webrtc-allow-share-screen-unsafe-delegation = Ба { $origin } иҷозат медиҳед, ки барои дидани экрани шумо ба { $thirdParty } дастрасиро таъмин намояд?
