@@ -27,6 +27,7 @@ firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
+firefoxview-mobile-confirmation-header = 🎉 Լավ է գնալ:
 firefoxview-closed-tabs-title = Վերջին փակվածը
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Վերջին ակտիվը
