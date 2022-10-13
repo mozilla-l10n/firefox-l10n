@@ -13,6 +13,7 @@ crashed-multiple-offer-help-message = ເລືອກ { crashed-restore-tab-butt
 crashed-request-help = ທ່ານຈະຊ່ວຍພວກເຮົາໄດ້ຫຼືບໍ່?
 crashed-request-help-message = ລາຍງານຂໍ້ຂັດຂ້ອງຊ່ວຍພວກເຮົາວິນິດໄສບັນຫາແລະສ້າງ { -brand-short-name } ໃຫ້ດີຂຶ້ນ.
 crashed-request-report-title = ລາຍງານແທັບນີ້
+crashed-send-report-2 = ສົ່ງລາຍງານການຂັດຂ້ອງແບບອັດຕະໂນມັດເພື່ອໃຫ້ພວກເຮົາສາມາດແກ້ໄຂບັນຫາແບບນີ້ໄດ້
 crashed-comment =
     .placeholder = ປະກອບຄຳເຫັນ (ຄຳເຫັນນີ້ແມ່ນທຸກໆຄົນສາມາດເຫັນໄດ້)
 crashed-report-sent = ສົ່ງລາຍງານຂໍ້ຂັດຂ້ອງແລ້ວ; ຂອບໃຈທີ່ຊ່ວຍເຮັດ { -brand-short-name } ໃຫ້ດີຂຶ້ນ

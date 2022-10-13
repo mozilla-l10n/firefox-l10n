@@ -4,5 +4,5 @@
 
 restart-required-title = ຕ້ອງເລີ່ມເຮັດວຽກໃຫມ່
 restart-required-heading = ເລີ່ມເຮັດວຽກໃຫມ່ເພື່ອສືບຕໍ່ນຳໃຊ້ { -brand-short-name }
-
+window-restoration-info = ໜ້າຕ່າງ​ແລະ​ແຖບ​ຂອງ​ທ່ານ​ຈະ​ຖືກເອີ້ນກັບ​ຢ່າງ​ວ່ອງ​ໄວ​, ແຕ່​ສ່ວນ​ບຸກ​ຄົນ​ຈະ​ບໍ່​ໄດ້​.
 restart-button-label = ເລີ່ມການເຮັດວຽກ { -brand-short-name } ໃໝ່

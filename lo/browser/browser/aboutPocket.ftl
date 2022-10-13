@@ -43,6 +43,8 @@ pocket-panel-signup-tagline = ບັນທືກບົດຄວາມ ແລະ 
 pocket-panel-signup-tagline-story-one = ຄິກປຸ່ມ { -pocket-brand-name } ເພື່ອບັນທຶກກະທູ້, ວີດີໂອ ຫຼຶ ໜ້າອື່ນໆຈາກ { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = ເບີ່ງໃນ { -pocket-brand-name } ເທີງອຸປະກອນຕ່າງໆ ທຸກເວລາ
 pocket-panel-signup-cta-a-fix = ປຸ່ມບັນທຶກຂອງທ່ານສໍາລັບອິນເຕີເນັດ
+pocket-panel-signup-cta-b = ຄລິກທີ່ປຸ່ມ { -pocket-brand-name } ເພື່ອບັນທຶກບົດຄວາມ, ວິດີໂອ ແລະລິ້ງຕ່າງໆ. ເບິ່ງລາຍຊື່ຂອງທ່ານໃນອຸປະກອນໃດກໍໄດ້, ທຸກເວລາ.
+pocket-panel-signup-cta-b-short = ຄລິກທີ່ປຸ່ມ { -pocket-brand-name } ເພື່ອບັນທຶກບົດຄວາມ, ວິດີໂອ ແລະລິ້ງຕ່າງໆ.
 pocket-panel-signup-cta-c = ເບິ່ງລາຍຊື່ຂອງທ່ານໃນອຸປະກອນໃດກໍໄດ້, ທຸກເວລາ.
 
 ## about:pocket-home panel
