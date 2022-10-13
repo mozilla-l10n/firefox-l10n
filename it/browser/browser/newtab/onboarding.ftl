@@ -459,3 +459,9 @@ mr2022-onboarding-gratitude-title = Ci stai aiutando a realizzare un Web miglior
 mr2022-onboarding-gratitude-subtitle = Grazie per aver scelto di utilizzare { -brand-short-name }, il browser supportato da Mozilla Foundation. Con il tuo supporto, lavoriamo per rendere Internet più aperto, più accessibile e migliore per tutti.
 mr2022-onboarding-gratitude-primary-button-label = Scopri le novità
 mr2022-onboarding-gratitude-secondary-button-label = Inizia a navigare
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Mettiti a tuo agio
+onboarding-infrequent-import-subtitle = Non importa se hai intenzione di restare qui per un po’ oppure sei solo di passaggio, ricorda che puoi importare segnalibri, password e altro ancora.
+onboarding-infrequent-import-primary-button = Importa da { -brand-short-name }
