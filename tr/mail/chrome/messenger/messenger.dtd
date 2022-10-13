@@ -194,7 +194,7 @@
 <!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByCorrespondentCmd.label "Yazanlar">
 <!ENTITY sortByCorrespondentCmd.accesskey "n">
-<!ENTITY sortByUnreadCmd.label "Okunmuş">
+<!ENTITY sortByUnreadCmd.label "Okundu">
 <!ENTITY sortByUnreadCmd.accesskey "ş">
 <!ENTITY sortByOrderReceivedCmd.label "Alma sırası">
 <!ENTITY sortByOrderReceivedCmd.accesskey "ı">
@@ -378,8 +378,8 @@
 <!ENTITY copyMessageLocation.accesskey "i">
 <!ENTITY copyMsgToMenu.label "Buraya kopyala">
 <!ENTITY copyMsgToMenu.accesskey "k">
-<!ENTITY moveToFolderAgain.label "Tekrar taşı">
-<!ENTITY moveToFolderAgain.accesskey "k">
+<!ENTITY moveToFolderAgain.label "Yeniden taşı">
+<!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Diziyi göz ardı et">
 <!ENTITY killThreadMenu.accesskey "D">
@@ -412,7 +412,7 @@
 <!ENTITY markThreadAsReadCmd.label "Diziyi okundu olarak">
 <!ENTITY markThreadAsReadCmd.accesskey "k">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Tarihe göre okunmuş olarak…">
+<!ENTITY markReadByDateCmd.label "Tarihe göre okundu olarak…">
 <!ENTITY markReadByDateCmd.accesskey "T">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Tümünü okundu olarak">
@@ -640,7 +640,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "G">
 <!ENTITY folderContextUnsubscribe.label "Abonelikten çık">
 <!ENTITY folderContextUnsubscribe.accesskey "b">
-<!ENTITY folderContextMarkNewsgroupRead.label "Haber grubunu okunmuş olarak işaretle">
+<!ENTITY folderContextMarkNewsgroupRead.label "Haber grubunu okundu olarak işaretle">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "o">
 <!ENTITY folderContextMarkMailFolderRead.label "Dizini okundu olarak işaretle">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "D">
