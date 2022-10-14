@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Փակել { -brand-shorter-name }-ը
-
 menu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = A
@@ -182,6 +180,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Բացել լիեկրան
     .accesskey = F
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Մուտքագրէք ընթերցողի տեսակէտը
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Փակել ընթերցողի դիտակէտը
+    .accesskey = R
 
 ##
 
