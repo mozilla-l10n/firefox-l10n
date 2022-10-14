@@ -11,6 +11,7 @@ about-reader-load-error = Falha ao carregar o artigo da página
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = Com serifa
+about-reader-font-type-sans-serif = Sem serifa
 
 ## Reader View toolbar buttons
 
