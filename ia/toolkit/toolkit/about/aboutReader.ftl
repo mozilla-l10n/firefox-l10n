@@ -4,6 +4,12 @@
 
 about-reader-loading = Cargante…
 about-reader-load-error = Falta a cargar le articulo ex le pagina
+about-reader-color-scheme-light = Clar
+    .title = Schema de colores clar
+about-reader-color-scheme-dark = Obscur
+    .title = Schema de colores obscur
+about-reader-color-scheme-sepia = Sepia
+    .title = Schema de colores sepia
 about-reader-color-scheme-auto = Auto
     .title = Schema de color Auto
 # An estimate for how long it takes to read an article,
@@ -19,6 +25,14 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Reducer le dimension del litteras
+about-reader-toolbar-plus =
+    .title = Augmentar le dimension del litteras
+about-reader-toolbar-contentwidthminus =
+    .title = Reducer le latitude del contento
+about-reader-toolbar-contentwidthplus =
+    .title = Augmentar le latitude del contento
 about-reader-toolbar-lineheightminus =
     .title = Reducer le altor del linea
 about-reader-toolbar-lineheightplus =
@@ -33,3 +47,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Clauder le vista de lectura
 about-reader-toolbar-type-controls = Controlos de typo
+about-reader-toolbar-savetopocket = Salvar in { -pocket-brand-name }
