@@ -392,4 +392,6 @@ mr2022-onboarding-gratitude-secondary-button-label = 開始瀏覽
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = 別客氣，當自己家
+onboarding-infrequent-import-subtitle = 不論您只是要暫時試用，還是已經決定好要使用，都可以匯入其他瀏覽器的書籤、密碼與其他資料。
 onboarding-infrequent-import-primary-button = 匯入 { -brand-short-name }
