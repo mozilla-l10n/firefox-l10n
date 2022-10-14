@@ -44,5 +44,6 @@ about-reader-font-type-sans-serif = Fără serife
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = Închide modul de lectură
 about-reader-toolbar-type-controls = Controale de caractere
 about-reader-toolbar-savetopocket = Salvează în { -pocket-brand-name }
