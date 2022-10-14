@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Gelap
     .title = Skema Warna Gelap
 about-reader-color-scheme-sepia = Sepia
     .title = Skema Warna Sepia
+about-reader-color-scheme-auto = Otomatis
+    .title = Skema Warna Otomatis
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
