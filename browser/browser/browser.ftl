@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } 隐私浏览
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } 隐私浏览
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = 查看附加组件
-quickactions-cmd-addons = 附加组件, 扩展, 主题, add-ons, extensions, themes
 quickactions-cmd-addons2 = 附加组件
 # Opens the bookmarks library window
 quickactions-bookmarks = 查看书签
@@ -635,6 +633,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = 快捷操作
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = 进入阅读模式
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = 关闭阅读模式
 
 ## Full Screen and Pointer Lock UI
 
