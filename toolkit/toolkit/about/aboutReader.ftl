@@ -4,6 +4,12 @@
 
 about-reader-loading = ’Ga luchdadh…
 about-reader-load-error = Dh'fhàillig luchdadh an artaigil on duilleag
+about-reader-color-scheme-light = Soilleir
+    .title = Sgeama dhathan soilleir
+about-reader-color-scheme-dark = Dorcha
+    .title = Sgeama dhathan dorcha
+about-reader-color-scheme-sepia = Sepia
+    .title = Sgeama dhathan sepia
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -19,6 +25,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Lùghdaich meud a’ chrutha-chlò
+about-reader-toolbar-plus =
+    .title = Meudaich an cruth-clò
+about-reader-toolbar-contentwidthminus =
+    .title = Lùghdaich leud na susbaint
+about-reader-toolbar-contentwidthplus =
+    .title = Meudaich leud na susbaint
+about-reader-toolbar-lineheightminus =
+    .title = Lùghdaich àirde na loidhne
+about-reader-toolbar-lineheightplus =
+    .title = Meudaich àirde na loidhne
 
 ## These are the styles of typeface that are options in the reader view controls.
 
