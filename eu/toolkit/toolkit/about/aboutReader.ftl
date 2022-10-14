@@ -4,6 +4,12 @@
 
 about-reader-loading = Kargatzen...
 about-reader-load-error = Huts egin du artikulua orritik kargatzean
+about-reader-color-scheme-light = Argia
+    .title = Kolore-eskema argia
+about-reader-color-scheme-dark = Iluna
+    .title = Kolore-eskema iluna
+about-reader-color-scheme-sepia = Sepia
+    .title = Kolore-eskema sepia
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Txikiagotu letra-tipoaren tamaina
+about-reader-toolbar-plus =
+    .title = Handiagotu letra-tipoaren tamaina
+about-reader-toolbar-contentwidthminus =
+    .title = Txikiagotu edukiaren zabalera
+about-reader-toolbar-contentwidthplus =
+    .title = Handiagotu edukiaren zabalera
+about-reader-toolbar-lineheightminus =
+    .title = Txikiagotu lerroaren altuera
+about-reader-toolbar-lineheightplus =
+    .title = Handiagotu lerroaren altuera
 
 ## These are the styles of typeface that are options in the reader view controls.
 
