@@ -24,6 +24,13 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Wšě adresniki
 all-address-books = Wšě adresniki
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Cyłkowne kontakty w { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Cyłkowne kontakty we wšěch adresnikach: { $count }
 about-addressbook-books-context-properties =
     .label = Kajkosće
 about-addressbook-books-context-edit-list =
