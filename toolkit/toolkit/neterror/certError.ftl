@@ -48,6 +48,10 @@ cert-error-code-prefix = 오류 코드: { $error }
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = 오류 코드: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+cert-error-ssl-connection-error = { $hostname }에 연결하는 동안 오류가 발생했습니다. { $errorMessage }
+# Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = 웹 사이트는 인증 기관에서 발급한 인증서를 통해 신원을 증명합니다. 대부분의 브라우저는 더 이상 GeoTrust나 RapidSSL, Symantec, Thawte, VeriSign에서 발급 한 인증서를 신뢰하지 않습니다. { $hostname }은 이러한 인증 중 하나를 사용하므로 웹 사이트 자신을 증명할 수 없습니다.
 cert-error-symantec-distrust-admin = 웹 사이트의 관리자에게 이 문제에 대해 알려주실 수 있습니다.
