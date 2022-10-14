@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ieși din { -brand-shorter-name }
-
 menu-about =
     .label = Despre { -brand-shorter-name }
     .accesskey = A
@@ -169,6 +167,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Ecran complet
     .accesskey = F
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Intră în modul de lectură
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Închide modul de lectură
+    .accesskey = R
 
 ##
 
