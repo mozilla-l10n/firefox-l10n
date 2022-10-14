@@ -4,6 +4,12 @@
 
 about-reader-loading = در حال بارکردن...
 about-reader-load-error = بارگذاری مقاله از این صفحه ناموفق بود
+about-reader-color-scheme-light = نور
+    .title = طرح رنگ روشن
+about-reader-color-scheme-dark = تیره
+    .title = طرح رنگ تیره
+about-reader-color-scheme-sepia = سیاه و سفید با تون قهوه‌ای
+    .title = طرح رنگ قرمز قهوه‌ای
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = کاهش اندازه قلم
+about-reader-toolbar-plus =
+    .title = افزایش اندازه قلم
+about-reader-toolbar-contentwidthminus =
+    .title = کاهش عرض محتوا
+about-reader-toolbar-contentwidthplus =
+    .title = افزایش عرض محتوا
+about-reader-toolbar-lineheightminus =
+    .title = کاهش ارتفاع خط
+about-reader-toolbar-lineheightplus =
+    .title = افزایش ارتفاع خط
 
 ## These are the styles of typeface that are options in the reader view controls.
 
