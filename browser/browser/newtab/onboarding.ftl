@@ -333,5 +333,4 @@ mr2022-onboarding-gratitude-secondary-button-label = התחלת גלישה
 
 ## Onboarding spotlight for infrequent users
 
-onboarding-infrequent-import-title = תרגישו בבית
 onboarding-infrequent-import-primary-button = ייבוא אל { -brand-short-name }
