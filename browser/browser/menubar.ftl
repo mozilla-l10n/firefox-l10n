@@ -186,6 +186,10 @@ menu-view-full-screen =
 menu-view-enter-readerview =
     .label = ਪੜ੍ਹਨ ਝਲਕ ਖੋਲ੍ਹੋ
     .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = ਪੜ੍ਹਨ ਝਲਕ ਬੰਦ ਕਰੋ
+    .accesskey = R
 
 ##
 
