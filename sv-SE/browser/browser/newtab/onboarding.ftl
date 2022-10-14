@@ -403,4 +403,5 @@ mr2022-onboarding-gratitude-secondary-button-label = Börja surfa
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Känn dig själv som hemma
+onboarding-infrequent-import-subtitle = Det spelar ingen roll om du tänker stanna här ett tag eller bara är på genomresa, kom ihåg att du kan importera bokmärken, lösenord med mera.
 onboarding-infrequent-import-primary-button = Importera till { -brand-short-name }
