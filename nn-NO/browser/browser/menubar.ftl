@@ -182,6 +182,10 @@ menu-view-full-screen =
 
 ## These menu items may use the same accesskey.
 
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Gå i lesevising
+    .accesskey = l
 # This should match reader-view-close-button in browser.ftl
 menu-view-close-readerview =
     .label = Lat att lesevising
