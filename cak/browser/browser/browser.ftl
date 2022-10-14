@@ -530,6 +530,9 @@ urlbar-group-firefox-suggest =
 # This should match menu-view-enter-readerview in menubar.ftl
 reader-view-enter-button =
     .aria-label = Titikirisäx pa rutz'etik sik'inïk
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Titz'apïx rutz'etik sik'inïk
 
 ## Full Screen and Pointer Lock UI
 

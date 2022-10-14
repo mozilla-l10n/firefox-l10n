@@ -177,6 +177,10 @@ menu-view-full-screen =
 menu-view-enter-readerview =
     .label = Titikirisäx pa rutz'etik sik'inïk
     .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Titz'apïx rutz'etik sik'inïk
+    .accesskey = R
 
 ##
 
