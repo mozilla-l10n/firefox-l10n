@@ -17,6 +17,8 @@ about-reader-estimated-read-time = { $range } 分钟
 
 about-reader-toolbar-minus =
     .title = 缩小文字
+about-reader-toolbar-plus =
+    .title = 增大文字
 about-reader-toolbar-contentwidthminus =
     .title = 缩小内容宽度
 about-reader-toolbar-contentwidthplus =
