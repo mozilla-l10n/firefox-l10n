@@ -198,6 +198,10 @@ menu-view-full-screen =
 menu-view-enter-readerview =
     .label = Zapnout zobrazení čtečky
     .accesskey = Z
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Zavřít zobrazení čtečky
+    .accesskey = Z
 
 ##
 
