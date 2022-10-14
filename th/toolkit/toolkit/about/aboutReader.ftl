@@ -16,3 +16,4 @@ about-reader-font-type-sans-serif = ไม่มีเชิง
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = ปิดมุมมองผู้อ่าน
+about-reader-toolbar-type-controls = ปุ่มควบคุมชนิด
