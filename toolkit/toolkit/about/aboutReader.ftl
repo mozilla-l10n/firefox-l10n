@@ -4,6 +4,14 @@
 
 about-reader-loading = Ladataan…
 about-reader-load-error = Artikkelin lataaminen sivulta epäonnistui
+about-reader-color-scheme-light = Vaalea
+    .title = Vaalea väriteema
+about-reader-color-scheme-dark = Tumma
+    .title = Tumma väriteema
+about-reader-color-scheme-sepia = Seepia
+    .title = Seepiamainen väriteema
+about-reader-color-scheme-auto = Automaattinen
+    .title = Automaattinen väriteema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +25,14 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-contentwidthminus =
+    .title = Pienennä sisällön leveyttä
+about-reader-toolbar-contentwidthplus =
+    .title = Suurenna sisällön leveyttä
+about-reader-toolbar-lineheightminus =
+    .title = Pienennä rivikorkeutta
+about-reader-toolbar-lineheightplus =
+    .title = Suurenna rivikorkeutta
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,3 +43,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Sulje lukunäkymä
 about-reader-toolbar-type-controls = Kirjasinasetukset
+about-reader-toolbar-savetopocket = Tallenna { -pocket-brand-name }iin
