@@ -48,6 +48,10 @@ cert-error-code-prefix = Còdighe de faddina: { $error }
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Còdighe de faddina: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+cert-error-ssl-connection-error = Ddoe est istada una faddina durante una connessione a { $hostname }. { $errorMessage }
+# Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Is sitos dimostrant s'identidade issoro cun tzertificados, chi sunt emìtidos dae autoridades de tzertificatzione. Medas navigadores non si fidant prus de is tzertificados emìtidos dae GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign. { $hostname } impreat unu tzertificadu de una de custas autoridades, duncas s'identidade de su situ non si podet cumproare.
 cert-error-symantec-distrust-admin = Podes sinnalare custu problema a s'amministratzione de su situ.
