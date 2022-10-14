@@ -47,6 +47,10 @@ cert-error-code-prefix = त्रुटी कोड: { $error }
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = त्रुटी कोड: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+cert-error-ssl-connection-error = { $hostname } सोबत जुळवणी स्थापीत करताना त्रुटी आढळली. { $errorMessage }
 cert-error-symantec-distrust-admin = आपण या समस्येबद्दल वेबसाइट प्रशासनास सूचित करू शकता.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
