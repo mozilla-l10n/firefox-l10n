@@ -4,6 +4,8 @@
 
 about-reader-loading = Cargando…
 about-reader-load-error = Falló la carga del artículo desde la página
+about-reader-color-scheme-light = Claro
+    .title = Esquema de color claro
 about-reader-color-scheme-dark = Oscuro
     .title = Esquema de color oscuro
 about-reader-color-scheme-sepia = Sepia
