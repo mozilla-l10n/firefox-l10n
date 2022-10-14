@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउज़िंग)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजी ब्राउज़िंग)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -85,7 +83,6 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ई पुस्तकचिह्न संपादित करू ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -111,7 +108,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = तयशुदा सर्च इंजिन रूपेँ सेट करू
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -129,6 +125,7 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -140,7 +137,6 @@ identity-active-blocked = { -brand-short-name } ,एहि पृष्ठ क �
 identity-passive-loaded = एहि पेज क भाग (एहि तरह क छवि रूप मे) सुरक्षित नहि अछि.
 identity-active-loaded = अहाँ ई पेज पर सुरक्षा निष्क्रिय कए देने छी.
 identity-weak-encryption = इ पृष्ठ कमजोर एन्क्रिप्शन क उपयोग करैत अछि.
-
 identity-description-insecure = एहि साइट पर अहॉंक कनेक्शन निजी नहि‍ अछि. सुचना जे अहॉं जमा करब दोसर लोग देखि‍ सकैत अछि(जेना कूट शब्द,संदेश, क्रेडिट कार्ड, इत्यादि.).
 identity-description-insecure-login-forms = ई पृष्ठ पर जे लॉगिन जानकारी अहाँ दर्ज कएने छी ओ सुरक्षित नहि अछि आओर संपीडित कएल जाए सकैछ.
 identity-description-weak-cipher-intro = एहि वेबसाइट स अहॉंक कनेक्शन कमज़ोर एन्क्रिप्शन क उपयोग करैत अछि आओर निजी नहि‍ अछि।
@@ -194,10 +190,8 @@ popup-all-windows-shared = अहाँक स्क्रीन पर सभ �
 
 urlbar-placeholder =
     .placeholder = खोजू अथवा पता दर्ज करू
-
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
-
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पतामे जाउ
 
@@ -219,6 +213,15 @@ urlbar-result-action-switch-tab = 'टैब मे स्विच करू
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = रीडर व्यू मे दाखिल होउ
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = पाठक व्यू बन्न करू
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -226,12 +229,9 @@ urlbar-result-action-switch-tab = 'टैब मे स्विच करू
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> आब पूर्ण पटल अछि
 fullscreen-warning-no-domain = इ दस्तावेज आब पूर्ण पटल अछि
-
-
 fullscreen-exit-button = पूर्ण पटल स बाहर आउ
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पूर्ण पटल स बाहर आउ (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -248,7 +248,6 @@ bookmarks-sidebar-content =
     .aria-label = पुस्तकचिह्न
 bookmarks-bookmark-edit-panel =
     .label = ई पुस्तकचिह्न संपादित करू
-
 bookmarks-toolbar-menu =
     .label = पुस्तकचिह्नित अओजारपट्टी
 bookmarks-toolbar-placeholder =
@@ -267,29 +266,22 @@ bookmarks-toolbar-placeholder-button =
 
 ## Customize Toolbar Buttons
 
-
-## More items
-
 toolbar-button-email-link =
     .label = कड़ी ईमेल करू
     .tooltiptext = एहि पृष्ट केँ कड़ी ईमेल करू
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = पृष्ठ सहेजू
     .tooltiptext = पृष्ठ ({ $shortcut }) मे सहेजू
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = फाइल खोलू
     .tooltiptext = एकटा फाइल खोलू ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = सिंक टैब
     .tooltiptext = आन उपकरण सँ टैब देखाबू
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -306,9 +298,6 @@ eme-notifications-drm-content-playing = एहि साइट पर किछ�
 ## Add-on removal warning
 
 
-## Remote / Synced tabs
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -320,7 +309,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -342,25 +330,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = डाउनलोड
-
 navbar-overflow =
     .tooltiptext = बेसी अओजार…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = छापू
     .tooltiptext = ई पृष्ठ छापू… ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ब्राउजर टैब
-
 tabs-toolbar-new-tab =
     .label = नव टैब
-
 tabs-toolbar-list-all-tabs =
     .label = सभटा टैब सूचीबद्ध करू
     .tooltiptext = सभटा टैब सूचीबद्ध करू
