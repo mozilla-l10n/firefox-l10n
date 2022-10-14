@@ -343,6 +343,15 @@ urlbar-result-action-visit = ຢ້ຽມຢາມ
 urlbar-group-quickactions =
     .label = ຄຳສັ່ງດ່ວນ
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = ເຂົ້າໄປ Reader View
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = ປິດ Reader View
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
