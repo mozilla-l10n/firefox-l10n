@@ -8,6 +8,8 @@ about-reader-color-scheme-light = Clair
     .title = Jeu de couleurs claires
 about-reader-color-scheme-dark = Sombre
     .title = Jeu de couleurs sombres
+about-reader-color-scheme-sepia = Sépia
+    .title = Jeu de couleurs sépia
 about-reader-color-scheme-auto = Auto
     .title = Jeu de couleurs automatique
 # An estimate for how long it takes to read an article,
@@ -29,8 +31,12 @@ about-reader-toolbar-plus =
     .title = Augmenter la taille de la police
 about-reader-toolbar-contentwidthminus =
     .title = Réduire la largeur du contenu
+about-reader-toolbar-contentwidthplus =
+    .title = Augmenter la largeur du contenu
 about-reader-toolbar-lineheightminus =
     .title = Réduire la hauteur de ligne
+about-reader-toolbar-lineheightplus =
+    .title = Augmenter la hauteur de ligne
 
 ## These are the styles of typeface that are options in the reader view controls.
 
