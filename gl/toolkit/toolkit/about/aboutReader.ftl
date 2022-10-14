@@ -4,6 +4,12 @@
 
 about-reader-loading = Cargando…
 about-reader-load-error = Produciuse un fallo ao cargar o artigo dende a páxina
+about-reader-color-scheme-light = Claro
+    .title = Esquema de cores Claro
+about-reader-color-scheme-dark = Escuro
+    .title = Esquema de cores Escuro
+about-reader-color-scheme-sepia = Sepia
+    .title = Esquema de cores Sepia
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Reducir o tamaño do tipo de letra
+about-reader-toolbar-plus =
+    .title = Aumentar o tamaño do tipo de letra
+about-reader-toolbar-contentwidthminus =
+    .title = Reducir o ancho do contido
+about-reader-toolbar-contentwidthplus =
+    .title = Aumentar o ancho do contido
+about-reader-toolbar-lineheightminus =
+    .title = Diminuír a altura da liña
+about-reader-toolbar-lineheightplus =
+    .title = Aumentar a altura da liña
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,3 +45,4 @@ about-reader-font-type-sans-serif = Sans-serif:
 
 about-reader-toolbar-close = Pechar vista de lectura
 about-reader-toolbar-type-controls = Controis de tipografía
+about-reader-toolbar-savetopocket = Gardar en { -pocket-brand-name }
