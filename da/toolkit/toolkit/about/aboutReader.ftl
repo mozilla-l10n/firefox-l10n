@@ -4,6 +4,12 @@
 
 about-reader-loading = Indlæser…
 about-reader-load-error = Indlæsning af artikel fra side mislykkedes
+about-reader-color-scheme-light = Lys
+    .title = Lyst farveskema
+about-reader-color-scheme-dark = Mørk
+    .title = Mørkt farveskema
+about-reader-color-scheme-sepia = Sepia
+    .title = Sepia farveskema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Formindsk skriftstørrelsen
+about-reader-toolbar-plus =
+    .title = Forøg skriftstørrelsen
+about-reader-toolbar-contentwidthminus =
+    .title = Formindsk indholdets bredde
+about-reader-toolbar-contentwidthplus =
+    .title = Forøg indholdets bredde
+about-reader-toolbar-lineheightminus =
+    .title = Formindsk linjeafstanden
+about-reader-toolbar-lineheightplus =
+    .title = Forøg linjeafstanden
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,3 +45,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Luk læsevisning
 about-reader-toolbar-type-controls = Indstillinger
+about-reader-toolbar-savetopocket = Gem til { -pocket-brand-name }
