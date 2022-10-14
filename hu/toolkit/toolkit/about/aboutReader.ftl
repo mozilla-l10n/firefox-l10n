@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Sötét
     .title = Sötét színséma
 about-reader-color-scheme-sepia = Szépia
     .title = Szépia színséma
+about-reader-color-scheme-auto = Automatikus
+    .title = Automatikus színséma
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -45,3 +47,4 @@ about-reader-font-type-sans-serif = Talpatlan
 
 about-reader-toolbar-close = Olvasó nézet bezárása
 about-reader-toolbar-type-controls = Szövegbeállítások
+about-reader-toolbar-savetopocket = Mentés a { -pocket-brand-name }be
