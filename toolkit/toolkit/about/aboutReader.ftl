@@ -19,8 +19,8 @@ about-reader-color-scheme-auto = Automaattinen
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 about-reader-estimated-read-time =
     { $rangePlural ->
-        [one] #1–#2 minuutti
-       *[other] #1–#2 minuuttia
+        [one] { $range } minuutti
+       *[other] { $range } minuuttia
     }
 
 ## These are used as tooltips in Type Control
