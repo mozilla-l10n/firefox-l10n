@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Oscuro
     .title = Esquema de color oscuro
 about-reader-color-scheme-sepia = Sepia
     .title = Esquema de color sepia
+about-reader-color-scheme-auto = Auto
+    .title = Esquema de color automático
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -27,6 +29,10 @@ about-reader-toolbar-minus =
     .title = Disminuir tamaño de fuente
 about-reader-toolbar-plus =
     .title = Aumentar tamaño de fuente
+about-reader-toolbar-contentwidthminus =
+    .title = Disminuir anchura del contenido
+about-reader-toolbar-contentwidthplus =
+    .title = Aumentar anchura del contenido
 about-reader-toolbar-lineheightminus =
     .title = Disminuir longitud de línea
 about-reader-toolbar-lineheightplus =
@@ -41,3 +47,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Cerrar vista de lectura
 about-reader-toolbar-type-controls = Controles de tipografía
+about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
