@@ -25,4 +25,5 @@ about-reader-font-type-sans-serif = Sans-serif
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = Luk læsevisning
 about-reader-toolbar-type-controls = Indstillinger
