@@ -638,6 +638,9 @@ urlbar-group-quickactions =
 
 ## Reader View toolbar buttons
 
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = כניסה לתצוגת קריאה
 
 ## Full Screen and Pointer Lock UI
 

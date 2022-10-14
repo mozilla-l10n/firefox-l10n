@@ -38,11 +38,9 @@ menu-quit =
             [windows] צ
            *[other] צ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = יציאה מ־{ -brand-shorter-name }
-
 menu-about =
     .label = על אודות { -brand-shorter-name }
     .accesskey = א
@@ -181,6 +179,13 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = מסך מלא
     .accesskey = ס
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = כניסה לתצוגת קריאה
+    .accesskey = ק
 
 ##
 
