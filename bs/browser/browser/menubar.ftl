@@ -38,11 +38,9 @@ menu-quit =
             [windows] z
            *[other] U
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zatvori { -brand-shorter-name }
-
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -166,6 +164,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Prikaz preko cijelog ekrana
     .accesskey = c
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Uđi u prikaz za čitanje
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Zatvori prikaz za čitanje
+    .accesskey = R
 
 ##
 
