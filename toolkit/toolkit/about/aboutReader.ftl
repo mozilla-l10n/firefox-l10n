@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Malhela
     .title = Malhela koloraro
 about-reader-color-scheme-sepia = Sepia
     .title = Sepia koloraro
+about-reader-color-scheme-auto = Aŭtomata
+    .title = Aŭtomata koloraro
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -45,3 +47,4 @@ about-reader-font-type-sans-serif = Senserifa
 
 about-reader-toolbar-close = Fermi legilan vidon
 about-reader-toolbar-type-controls = Agordi tiparon
+about-reader-toolbar-savetopocket = Konservi en { -pocket-brand-name }
