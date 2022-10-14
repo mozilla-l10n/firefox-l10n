@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Тамошокунии хусусӣ бо { -brand-short-name }
 private-browsing-shortcut-text-2 = Тамошокунии хусусӣ бо «{ -brand-shortcut-name }»
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Намоиши ҷузъҳои иловагӣ
-quickactions-cmd-addons = ҷузъҳои иловагӣ, васеъшавиҳо, мавзуъҳо
 quickactions-cmd-addons2 = ҷузъҳои иловагӣ
 # Opens the bookmarks library window
 quickactions-bookmarks = Намоиши хатбаракҳо
@@ -639,6 +637,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Амалҳои зуд
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Гузариш ба намоиши хониш
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Пӯшидани намоиши хониш
 
 ## Full Screen and Pointer Lock UI
 

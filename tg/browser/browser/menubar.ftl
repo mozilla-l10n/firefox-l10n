@@ -38,11 +38,9 @@ menu-quit =
             [windows] Б
            *[other] Х
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Хомӯш кардани { -brand-shorter-name }
-
 menu-about =
     .label = Дар бораи { -brand-shorter-name }
     .accesskey = Д
@@ -181,6 +179,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Экрани пурра
     .accesskey = Э
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Гузариш ба намоиши хониш
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Пӯшидани намоиши хониш
+    .accesskey = R
 
 ##
 
