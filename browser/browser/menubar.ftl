@@ -38,11 +38,9 @@ menu-quit =
             [windows] k
            *[other] k
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zakończ program { -brand-shorter-name }
-
 menu-about =
     .label = O programie { -brand-shorter-name }
     .accesskey = O
@@ -183,6 +181,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Tryb pełnoekranowy
     .accesskey = T
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Popraw czytelność
+    .accesskey = P
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Wygląd oryginalny
+    .accesskey = W
 
 ##
 
