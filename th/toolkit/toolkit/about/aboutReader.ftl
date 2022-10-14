@@ -4,6 +4,12 @@
 
 about-reader-loading = กำลังโหลด…
 about-reader-load-error = ไม่สามารถโหลดบทความจากหน้า
+about-reader-color-scheme-light = สว่าง
+    .title = แบบแผนชุดสีสว่าง
+about-reader-color-scheme-dark = มืด
+    .title = แบบแผนชุดสีมืด
+about-reader-color-scheme-sepia = ซีเปีย
+    .title = แบบแผนชุดสีซีเปีย
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -13,6 +19,18 @@ about-reader-estimated-read-time = { $range } นาที
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = ลดขนาดแบบอักษร
+about-reader-toolbar-plus =
+    .title = เพิ่มขนาดแบบอักษร
+about-reader-toolbar-contentwidthminus =
+    .title = ลดความกว้างของเนื้อหา
+about-reader-toolbar-contentwidthplus =
+    .title = เพิ่มความกว้างของเนื้อหา
+about-reader-toolbar-lineheightminus =
+    .title = ลดความสูงของบรรทัด
+about-reader-toolbar-lineheightplus =
+    .title = เพิ่มความสูงของบรรทัด
 
 ## These are the styles of typeface that are options in the reader view controls.
 
