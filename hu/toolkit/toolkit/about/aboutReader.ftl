@@ -4,6 +4,12 @@
 
 about-reader-loading = Betöltés…
 about-reader-load-error = A cikk betöltése sikertelen az oldalról
+about-reader-color-scheme-light = Világos
+    .title = Világos színséma
+about-reader-color-scheme-dark = Sötét
+    .title = Sötét színséma
+about-reader-color-scheme-sepia = Szépia
+    .title = Szépia színséma
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Betűméret csökkentése
+about-reader-toolbar-plus =
+    .title = Betűméret növelése
+about-reader-toolbar-contentwidthminus =
+    .title = Tartalomszélesség csökkentése
+about-reader-toolbar-contentwidthplus =
+    .title = Tartalomszélesség növelése
+about-reader-toolbar-lineheightminus =
+    .title = Sormagasság csökkentése
+about-reader-toolbar-lineheightplus =
+    .title = Sormagasság növelése
 
 ## These are the styles of typeface that are options in the reader view controls.
 
