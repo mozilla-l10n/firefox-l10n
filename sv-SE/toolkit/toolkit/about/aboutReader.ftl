@@ -17,3 +17,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Stäng läsarvy
 about-reader-toolbar-type-controls = Typkontroller
+about-reader-toolbar-savetopocket = Spara till { -pocket-brand-name }
