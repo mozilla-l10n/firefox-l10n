@@ -38,11 +38,9 @@ menu-quit =
             [windows] e
            *[other] T
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Tel pa { -brand-shorter-name }
-
 menu-about =
     .label = Chi rij ri { -brand-shorter-name }
     .accesskey = C
@@ -172,6 +170,13 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Chijun ruwa kematz'ib'
     .accesskey = C
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Titikirisäx pa rutz'etik sik'inïk
+    .accesskey = R
 
 ##
 

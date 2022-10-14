@@ -525,6 +525,12 @@ urlbar-result-action-search-tabs = Kekanöx taq Ruwi'
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Titikirisäx pa rutz'etik sik'inïk
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
