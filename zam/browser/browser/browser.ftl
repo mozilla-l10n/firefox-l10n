@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Luu ta tak güi Internet )
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Luu ta tak güi Internet )
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Luu ta tak güi Internet )
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Luu ta tak güi Internet )
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -71,7 +69,6 @@ urlbar-translate-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tùs kùe ndó~làz=ná ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -103,6 +100,7 @@ full-screen-exit =
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
+
 
 ## Bookmark Panel
 
@@ -143,10 +141,8 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Kuan dee kuan luu
-
 urlbar-switch-to-tab =
     .value = Xhe loo gibb:
-
 urlbar-go-button =
     .tooltiptext = Cuan taa diff loo
 
@@ -167,11 +163,18 @@ urlbar-result-action-search-w-engine = KwàɁn loo { $engine }
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Gù~tè mbwíʔ
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = TòɁw mbwíʔ
+
 ## Full Screen and Pointer Lock UI
 
 fullscreen-warning-no-domain = Yêtz ré de loo lo narú
-
-
 fullscreen-exit-button = Mb-ròɁ lô (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
@@ -193,7 +196,6 @@ bookmarks-search =
     .label = KwàɁn ndó~làz=ná
 bookmarks-bookmark-edit-panel =
     .label = Tùs kùe Ndó~làz=ná
-
 bookmarks-toolbar-menu =
     .label = Té tak güin ko ndó~làz=ná
 bookmarks-toolbar-placeholder =
@@ -212,9 +214,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## Customize Toolbar Buttons
 
-
-## More items
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
@@ -228,9 +227,6 @@ toolbar-button-open-file =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -256,22 +252,17 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Koo blaal
-
 navbar-overflow =
     .tooltiptext = Loo ree yibb...
-
 navbar-search =
     .title = KwàɁn
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Gua let lo loo
-
 tabs-toolbar-new-tab =
     .label = Xhal loo kub
-
 tabs-toolbar-list-all-tabs =
     .label = Loo ree taa loo
     .tooltiptext = Loo ree taa loo
@@ -280,6 +271,7 @@ tabs-toolbar-list-all-tabs =
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
 
 ## Unified extensions (toolbar) button
 
