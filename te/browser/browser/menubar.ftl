@@ -36,11 +36,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } నిష్క్రమించు
-
 menu-about =
     .label = { -brand-shorter-name } గురించి
     .accesskey = A
@@ -171,6 +169,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = నిండు తెర
     .accesskey = F
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = చదివేందుకు ప్రవేశించు
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = చదువరి వీక్షణం మూయి
+    .accesskey = R
 
 ##
 
