@@ -47,3 +47,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Leseansicht schließen
 about-reader-toolbar-type-controls = Schrifteinstellungen
+about-reader-toolbar-savetopocket = In { -pocket-brand-name } speichern
