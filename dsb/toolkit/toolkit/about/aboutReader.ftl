@@ -4,6 +4,14 @@
 
 about-reader-loading = Zacytujo se…
 about-reader-load-error = Nastawk njedajo se z boka zacytaś
+about-reader-color-scheme-light = Swětły
+    .title = Swětła barwowa šema
+about-reader-color-scheme-dark = Śamny
+    .title = Śamnowa barwowa šema
+about-reader-color-scheme-sepia = Sepija
+    .title = Barwowa šema Sepia
+about-reader-color-scheme-auto = Awtomatiski
+    .title = Awtomatiska barwowa šema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -19,6 +27,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Pismowu wjelikosć pómjeńšyś
+about-reader-toolbar-plus =
+    .title = Pismowu wjelikosć pówětšyś
+about-reader-toolbar-contentwidthminus =
+    .title = Šyrokosć wopśimjeśa pómjeńšyś
+about-reader-toolbar-contentwidthplus =
+    .title = Šyrokosć wopśimjeśa pówětšyś
+about-reader-toolbar-lineheightminus =
+    .title = Smužkowu wusokosć pómjeńšyś
+about-reader-toolbar-lineheightplus =
+    .title = Smužkowu wusokosć pówětšyś
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -29,3 +49,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Cytański naglěd zacyniś
 about-reader-toolbar-type-controls = Pismowe elementy
+about-reader-toolbar-savetopocket = Do { -pocket-brand-name } składowaś
