@@ -48,3 +48,4 @@ about-reader-font-type-sans-serif = Hep-serif
 
 about-reader-toolbar-close = Serriñ ar mod lenn
 about-reader-toolbar-type-controls = Reoliñ ar skritur
+about-reader-toolbar-savetopocket = Enrollañ e { -pocket-brand-name }
