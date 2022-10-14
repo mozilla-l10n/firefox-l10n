@@ -41,7 +41,6 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = 진행률: { $current } / { $total } 단계
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -50,13 +49,11 @@ onboarding-welcome-steps-indicator2 =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = 시작
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — 가구 디자이너, Firefox 팬
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 애니메이션 끄기
 
@@ -82,11 +79,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = 시작하기
-
 mr1-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
     .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
@@ -104,16 +99,13 @@ mr1-onboarding-default-primary-button-label = 기본 브라우저로 설정
 
 mr1-onboarding-import-header = 모든 것을 가지고 오세요
 mr1-onboarding-import-subtitle = 비밀번호, 북마크 등을 <br/>가져옵니다.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous }에서 가져오기
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
 mr1-onboarding-import-secondary-button-label = 나중에
-
 mr2-onboarding-colorway-header = 색상 라이프
 mr2-onboarding-colorway-subtitle = 생동감 넘치는 새로운 컬러웨이입니다. 제한된 시간 동안 사용할 수 있습니다.
 mr2-onboarding-colorway-primary-button-label = 컬러웨이 저장
@@ -123,26 +115,20 @@ mr2-onboarding-colorway-label-balanced = 중간
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = 진하게
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = 자동
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = 기본
-
 mr1-onboarding-theme-header = 나만의 것으로 만드세요
 mr1-onboarding-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 mr1-onboarding-theme-primary-button-label = 테마 저장
 mr1-onboarding-theme-secondary-button-label = 나중에
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = 시스템 테마
-
 mr1-onboarding-theme-label-light = 밝게
 mr1-onboarding-theme-label-dark = 어둡게
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
-
 onboarding-theme-primary-button-label = 완료
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -155,74 +141,61 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         버튼, 메뉴 및 창에 
         운영 체제의 테마를 따릅니다.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         버튼, 메뉴 및 창에 
         운영 체제의 테마를 따릅니다.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         버튼, 메뉴 및 창에 
         밝은 테마를 사용합니다.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         버튼, 메뉴 및 창에 
         밝은 테마를 사용합니다.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         버튼, 메뉴 및 창에 
         어두운 테마를 사용합니다.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         버튼, 메뉴 및 창에 
         어두운 테마를 사용합니다.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         버튼, 메뉴 및 창에 
         역동적이고 다양한 색상의 테마를 사용합니다.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         버튼, 메뉴 및 창에 
         역동적이고 다양한 색상의 테마를 사용합니다.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = 이 컬러웨이를 사용합니다.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = 이 컬러웨이를 사용합니다.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = { $colorwayName } 컬러웨이를 탐색합니다.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = { $colorwayName } 컬러웨이를 탐색합니다.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = 기본 테마를 탐색합니다.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = 기본 테마를 탐색합니다.
 
@@ -250,18 +223,13 @@ mr2-onboarding-start-browsing-button-label = 탐색 시작
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = 언어를 선택하세요
-
 mr2022-onboarding-live-language-text = { -brand-short-name }는 사용자의 언어로 표시합니다
-
 mr2022-language-mismatch-subtitle = 커뮤니티 덕분에 { -brand-short-name }는 90개 이상의 언어로 번역되었습니다. 사용자의 시스템은 { $systemLanguage } 언어를 사용 중이고 { -brand-short-name }는 { $appLanguage } 언어를 사용하고 있는 것 같습니다.
-
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage }용 언어 팩 다운로드 중…
 onboarding-live-language-waiting-button = 사용 가능한 언어를 가져오는 중…
 onboarding-live-language-installing = { $negotiatedLanguage }용 언어 팩 설치 중…
-
 mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } 언어로 전환
 mr2022-onboarding-live-language-continue-in = { $appLanguage } 언어로 계속 사용
-
 onboarding-live-language-secondary-cancel-download = 취소
 onboarding-live-language-skip-button-label = 건너뛰기
 
@@ -283,14 +251,12 @@ fx100-thank-you-pin-primary-button-label =
         [macos] { -brand-short-name }를 Dock에 넣기
        *[other] { -brand-short-name }를 작업 표시줄에 고정
     }
-
 fx100-upgrade-thanks-header = 100 감사합니다
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = 100번째 { -brand-short-name } 출시입니다. 더 나은 건강한 인터넷을 구축할 수 있도록 도와주셔서 <em>감사합니다</em>.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 100번째 출시입니다! 커뮤니티의 일원이 되어주셔서 감사합니다. 다음 100번을 위해 클릭 한 번으로 { -brand-short-name }를 유지하세요.
-
 mr2022-onboarding-secondary-skip-button-label = 이 단계 건너뛰기
 
 ## MR2022 New User Pin Firefox screen strings
@@ -356,52 +322,44 @@ mr2022-onboarding-import-primary-button-label-no-attribution = 이전 브라우�
 
 mr2022-onboarding-colorway-title = 영감을 주는 색상을 선택하세요
 mr2022-onboarding-colorway-subtitle = 독립적인 목소리가 문화를 바꿀 수 있습니다.
-mr2022-onboarding-colorway-primary-button-label = 컬러웨이 설정
 mr2022-onboarding-colorway-primary-button-label-continue = 설정하고 계속
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name }을 다채로운 홈페이지로 만드세요
-
 mr2022-onboarding-colorway-label-default = 기본
 mr2022-onboarding-colorway-tooltip-default =
     .title = 기본
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = 현재 { -brand-short-name } 색상
 mr2022-onboarding-colorway-description-default = <b>현재의 { -brand-short-name } 색상을 사용합니다.</b>
-
 mr2022-onboarding-colorway-label-playmaker = 플레이메이커
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = 플레이메이커
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = 플레이메이커 (빨간색)
 mr2022-onboarding-colorway-description-playmaker = <b>플레이메이커입니다.</b> 여러분은 승리할 수 있는 기회를 만들고 주변의 모든 사람들이 게임을 향상시킬 수 있도록 돕습니다.
-
 mr2022-onboarding-colorway-label-expressionist = 표현주의자
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = 표현주의자
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = 표현주의자 (노란색)
 mr2022-onboarding-colorway-description-expressionist = <b>표현주의자입니다.</b> 여러분은 세상을 다르게 보고 여러분의 창조물이 다른 사람들의 감정을 자극합니다.
-
 mr2022-onboarding-colorway-label-visionary = 공상가
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = 공상가
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = 공상가 (녹색)
 mr2022-onboarding-colorway-description-visionary = <b>공상가입니다.</b> 여러분은 현상 유지에 의문을 제기하고 더 나은 미래를 상상하도록 다른 사람들을 움직입니다.
-
 mr2022-onboarding-colorway-label-activist = 활동가
 mr2022-onboarding-colorway-tooltip-activist =
     .title = 활동가
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = 활동가 (파란색)
 mr2022-onboarding-colorway-description-activist = <b>활동가입니다.</b> 여러분은 세상을 당신이 찾은 것보다 더 나은 곳으로 만들고 다른 사람들이 믿도록 이끕니다.
-
 mr2022-onboarding-colorway-label-dreamer = 몽상가
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = 몽상가
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = 몽상가 (보라색)
 mr2022-onboarding-colorway-description-dreamer = <b>몽상가입니다.</b> 여러분은 행운이 대담한 사람을 선호하고 다른 사람들에게 용기를 북돋아준다고 믿습니다.
-
 mr2022-onboarding-colorway-label-innovator = 혁신가
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = 혁신가
@@ -441,3 +399,7 @@ mr2022-onboarding-gratitude-title = 저희가 더 나은 웹을 만드는 것을
 mr2022-onboarding-gratitude-subtitle = Mozilla 재단이 지원하는 { -brand-short-name }를 사용해 주셔서 감사합니다. 여러분의 지원으로 우리는 인터넷을 보다 개방적이고 접근 가능하며 모두에게 더 좋게 만들기 위해 노력하고 있습니다.
 mr2022-onboarding-gratitude-primary-button-label = 새 기능 보기
 mr2022-onboarding-gratitude-secondary-button-label = 탐색 시작
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-primary-button = { -brand-short-name }로 가져오기
