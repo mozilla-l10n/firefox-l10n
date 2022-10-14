@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-reader-load-error = താളില്‍ നിന്നും ലേഖനം ലഭ്യമാക്കുാന്‍ പറ്റുന്നില്ല
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+about-reader-estimated-read-time =
+    { $rangePlural ->
+        [one] { $range } മിനുറ്റ്
+       *[other] { $range } മിനുറ്റുകൾ
+    }
 
 ## These are used as tooltips in Type Control
 
