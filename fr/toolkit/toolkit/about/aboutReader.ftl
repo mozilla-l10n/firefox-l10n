@@ -23,6 +23,10 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Diminuer la taille de la police
+about-reader-toolbar-plus =
+    .title = Augmenter la taille de la police
 about-reader-toolbar-contentwidthminus =
     .title = Réduire la largeur du contenu
 about-reader-toolbar-lineheightminus =
