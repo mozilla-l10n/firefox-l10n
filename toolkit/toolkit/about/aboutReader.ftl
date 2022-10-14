@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-reader-loading = লোড করা হচ্ছে…
+about-reader-load-error = পাতা থেকে নিবন্ধ লোড ব্যর্থ
+about-reader-color-scheme-light = আলো
+    .title = হালকা কালার স্কিম
+about-reader-color-scheme-dark = অন্ধকার
+    .title = গাঢ় কালার স্কিম
+about-reader-color-scheme-sepia = সেপিয়া
+    .title = সেপিয়া কালার স্কিম
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
