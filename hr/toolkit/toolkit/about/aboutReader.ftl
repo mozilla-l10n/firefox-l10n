@@ -4,6 +4,8 @@
 
 about-reader-loading = Učitavanje…
 about-reader-load-error = Učitavnje članka sa stranice nije uspjelo
+about-reader-color-scheme-light = Svijetlo
+    .title = Svijetla shema boja
 about-reader-color-scheme-dark = Tamno
     .title = Tamna shema boja
 about-reader-color-scheme-sepia = Sepia
@@ -30,9 +32,15 @@ about-reader-toolbar-contentwidthminus =
     .title = Smanji širinu sadržaja
 about-reader-toolbar-contentwidthplus =
     .title = Povećaj širinu sadržaja
+about-reader-toolbar-lineheightminus =
+    .title = Smanji visinu retka
+about-reader-toolbar-lineheightplus =
+    .title = Povećaj visinu retka
 
 ## These are the styles of typeface that are options in the reader view controls.
 
+about-reader-font-type-serif = Serifni
+about-reader-font-type-sans-serif = Bezserifni
 
 ## Reader View toolbar buttons
 
