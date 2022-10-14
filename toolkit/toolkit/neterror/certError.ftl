@@ -42,6 +42,9 @@ cert-error-expired-now = Vefsvæði auðkenna sig með skilríkjum sem hafa takm
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Vefsvæði auðkenna sig með skilríkjum sem hafa takmarkaðan gildistíma. Skilríkið fyrir { $hostname } verður ekki gilt fyrr en { $not-before-local-time }.
 # Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Villunúmer: { $error }
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Villunúmer: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
