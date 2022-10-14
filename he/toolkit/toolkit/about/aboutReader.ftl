@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = כהה
     .title = ערכת צבעים כהה
 about-reader-color-scheme-sepia = חום כהה
     .title = ערכת צבעים חמה
+about-reader-color-scheme-auto = אוטומטי
+    .title = ערכת צבעים אוטומטית
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -45,3 +47,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = סגירת תצוגת הקריאה
 about-reader-toolbar-type-controls = שליטה על המראה
+about-reader-toolbar-savetopocket = שמירה אל { -pocket-brand-name }
