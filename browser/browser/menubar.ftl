@@ -36,7 +36,6 @@ menu-application-touch-bar =
 menu-quit =
     .label = Изађи
     .accesskey = И
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -46,7 +45,6 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
-
 menu-about =
     .label =
         О { -brand-shorter-name.gender ->
@@ -193,6 +191,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Преко целог екрана
     .accesskey = П
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Уђи у приказ читача
+    .accesskey = ч
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Затвори приказ читача
+    .accesskey = ч
 
 ##
 
