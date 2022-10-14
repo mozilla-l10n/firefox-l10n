@@ -4,6 +4,12 @@
 
 about-reader-loading = Բեռնում …
 about-reader-load-error = Չը հաջողուեց յոդուածը ներբեռնել էջից
+about-reader-color-scheme-light = Լոյս
+    .title = Լոյսի գունային սխեման
+about-reader-color-scheme-dark = Մուգ
+    .title = Գունաւոր, մուգ դիապազոն
+about-reader-color-scheme-sepia = Հունաստան
+    .title = դարչնագոյն գունային համակարգ
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Կրճատել տառաչափը
+about-reader-toolbar-plus =
+    .title = Մեծացնել տառատեսակի չափը
+about-reader-toolbar-contentwidthminus =
+    .title = Նուազեցնել բովանդակութեան լայնութիւնը
+about-reader-toolbar-contentwidthplus =
+    .title = Մեծացնել բովանդակութեան լայնութիւնը
+about-reader-toolbar-lineheightminus =
+    .title = Նուազեցնել գծի բարձրութիւնը
+about-reader-toolbar-lineheightplus =
+    .title = Մեծացնել գծի բարձրութիւնը
 
 ## These are the styles of typeface that are options in the reader view controls.
 
