@@ -34,11 +34,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-ല്‍ നിന്നും പുറത്ത് കടക്കുക
-
 menu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
@@ -154,6 +152,17 @@ menu-view-full-screen =
     .label = സ്കീന്‍ പൂര്‍ണ്ണ വലിപ്പത്തില്‍
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = വായനാ കാഴ്ച നല്‍കുക
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = വായനാ കാഴ്ച അടയ്ക്കുക
+    .accesskey = R
+
 ##
 
 menu-view-show-all-tabs =
@@ -225,15 +234,6 @@ menu-window-bring-all-to-front =
     .label = എല്ലം മുമ്പോട്ട് കൊണ്ടുവരിക
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
