@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Մուգ
     .title = Գունաւոր, մուգ դիապազոն
 about-reader-color-scheme-sepia = Հունաստան
     .title = դարչնագոյն գունային համակարգ
+about-reader-color-scheme-auto = Ինքնաշխատ
+    .title = Գունապնակ «Auto»
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -44,4 +46,5 @@ about-reader-font-type-sans-serif = Առանց փակոցների
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Ընթերցողի դիտակէտը Փակ է
+about-reader-toolbar-type-controls = Տեսակի կառավարներ
 about-reader-toolbar-savetopocket = Պահել { -pocket-brand-name }
