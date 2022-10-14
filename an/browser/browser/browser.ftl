@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navegación privada)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navegación privada)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navegación privada)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navegación privada)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = Tiens blocau l'acceso MIDI en esta web.
 urlbar-install-blocked =
     .tooltiptext = Has blocau la instalación de complementos dende este puesto web.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editar iste marcapachinas ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,10 +172,8 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Esta vegada, mira con:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambiar los achustes de busca
-
 search-one-offs-context-open-new-tab =
     .label = Busca en una pestanya nueva
     .accesskey = t
@@ -189,14 +183,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Definir como motor de busqueda per defecto en finestras privadas
     .accesskey = D
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -220,6 +212,7 @@ search-one-offs-history =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =
@@ -237,7 +230,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Amostrar l'editor mientres se grava
     .accesskey = A
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -264,7 +256,6 @@ identity-passive-loaded = Bella parte d'ista pachina no ye segura (p. eix. imach
 identity-active-loaded = Ha desactivau a protección en ista pachina.
 identity-weak-encryption = Ista pachina fa servir zifrau feble.
 identity-insecure-login-forms = Los datos de dentrada escritos en ista pachina pueden estar compromesos.
-
 identity-permissions-reload-hint = Talment haiga de recargar la pachina pa que s'apliquen los cambios.
 identity-clear-site-data =
     .label = Borrar cookies y datos d'o puesto…
@@ -341,7 +332,6 @@ enable-devtools-popup-description = Pa emplegar l'alcorce F12, ubre en primeras 
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Termen a mirar u adreza
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -350,7 +340,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Mirar en o Web
     .aria-label = Mirar con { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -359,36 +348,29 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Escribe los termens de busqueda
     .aria-label = Mirar { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Escribe los termens de busqueda
     .aria-label = Buscar marcapachinas
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Escribe los termens de busqueda
     .aria-label = Historial de busqueda
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Escribe los termens de busqueda
     .aria-label = Pestanyas de busqueda
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Mirar con { $name } u escribir una adreza
-
 urlbar-permissions-granted =
     .tooltiptext = Has dau permisos adicionals a este web.
 urlbar-switch-to-tab =
     .value = Ir ta la pestanya:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensión:
-
 urlbar-go-button =
     .tooltiptext = Ir ta la URL d'a barra d'adrezas
 urlbar-page-action-button =
@@ -421,6 +403,15 @@ urlbar-result-action-visit = Vesitar
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Dentrar en a vista d'o lector
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Zarrar a Vista de Lectura
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -428,12 +419,9 @@ urlbar-result-action-visit = Vesitar
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ye a pantalla completa
 fullscreen-warning-no-domain = Iste documento ye a pantalla completa
-
-
 fullscreen-exit-button = Salir d'a pantalla completa (esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Salir d'a pantalla completa (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -479,7 +467,6 @@ bookmarks-tools =
     .label = Ferramientas d'os marcapachinas
 bookmarks-bookmark-edit-panel =
     .label = Editar iste marcapachinas
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -510,33 +497,25 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
-
-## More items
-
 toolbar-overflow-customize-button =
     .label = Personalizar la barra de ferramientas…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = Ninviar un vinclo
     .tooltiptext = Ninvia por correu un vinclo ta ista pachina
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Alzar a pachina
     .tooltiptext = Alza ista pachina ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Ubrir un fichero
     .tooltiptext = Ubre un fichero ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Pestanyas sincronizadas
     .tooltiptext = Amostrar las pestanyas d'atros dispositivos
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -553,9 +532,6 @@ eme-notifications-drm-content-playing = Bell audio u video d'iste puesto fan ser
 ## Add-on removal warning
 
 
-## Remote / Synced tabs
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -567,7 +543,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Permitir as finestras emerchents ta { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Blocar as finestras emerchents ta { $uriHost }
     .accesskey = p
@@ -577,7 +552,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No amostrar iste mensache quan se bloquen las finestras emerchents
     .accesskey = N
-
 picture-in-picture-hide-toggle =
     .label = Amaga lo commutador d'imachen incrustada
     .accesskey = A
@@ -596,42 +570,32 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navegación
-
 navbar-downloads =
     .label = Descargas
-
 navbar-overflow =
     .tooltiptext = Mas ferramientas...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Imprentar
     .tooltiptext = Imprente ista pachina... ({ $shortcut })
-
 navbar-home =
     .label = Inicio
     .tooltiptext = Pachina d'inicio de { -brand-short-name }
-
 navbar-library =
     .label = Reposte
     .tooltiptext = Veyer lo historial, los marcapachinas alzaus, y mas
-
 navbar-search =
     .title = Mirar
-
 navbar-accessibility-indicator =
     .tooltiptext = Caracteristicas d'accesibilidat activadas
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Pestanyas d'o navegador
-
 tabs-toolbar-new-tab =
     .label = Nueva pestanya
-
 tabs-toolbar-list-all-tabs =
     .label = Amostrar todas as pestanyas
     .tooltiptext = Amostrar todas as pestanyas
