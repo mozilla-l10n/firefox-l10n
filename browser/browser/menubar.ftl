@@ -38,11 +38,9 @@ menu-quit =
             [windows] u
            *[other] u
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Surt del { -brand-shorter-name }
-
 menu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
@@ -182,6 +180,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Entra a la vista de lectura
+    .accesskey = l
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Tanca la vista de lectura
+    .accesskey = l
 
 ##
 
