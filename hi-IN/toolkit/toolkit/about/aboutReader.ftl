@@ -17,6 +17,14 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = फ़ॉन्ट आकार घटाएं
+about-reader-toolbar-plus =
+    .title = फ़ॉन्ट आकार बढ़ाएं
+about-reader-toolbar-lineheightminus =
+    .title = लाइन की ऊँचाई घटाएं
+about-reader-toolbar-lineheightplus =
+    .title = लाइन की ऊँचाई बढ़ाएं
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,3 +35,4 @@ about-reader-font-type-sans-serif = सैंस-सेरिफ़
 
 about-reader-toolbar-close = रीडर दृश्य बंद करे|
 about-reader-toolbar-type-controls = प्रकार नियंत्रण
+about-reader-toolbar-savetopocket = { -pocket-brand-name } में सहेजें
