@@ -539,6 +539,15 @@ urlbar-group-firefox-suggest =
 urlbar-group-search-suggestions =
     .label = „{ $engine }“ siūlymai
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Pereiti į skaitymo rodinį
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Išjungti skaitymo rodinį
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.

@@ -38,11 +38,9 @@ menu-quit =
             [windows] B
            *[other] B
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Baigti „{ -brand-shorter-name }“ darbą
-
 menu-about =
     .label = Apie „{ -brand-shorter-name }“
     .accesskey = A
@@ -183,6 +181,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Visas ekranas
     .accesskey = V
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Pereiti į skaitymo rodinį
+    .accesskey = s
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Išjungti skaitymo rodinį
+    .accesskey = s
 
 ##
 
