@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Dunkel
     .title = Dunkles Farbschema
 about-reader-color-scheme-sepia = Sepia
     .title = Sepia-Farbschema
+about-reader-color-scheme-auto = Automatisch
+    .title = Automatisches Farbschema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
