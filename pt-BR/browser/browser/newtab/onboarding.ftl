@@ -369,7 +369,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Inovador.</b> Você vê op
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Alterne entre o notebook e o celular
+mr2022-onboarding-mobile-download-title = Alterne entre computador e celular
 mr2022-onboarding-mobile-download-subtitle = Pegue abas de um dispositivo e continue de onde parou em outro. Além disso, sincronize seus favoritos e senhas em qualquer lugar que use o { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Capture o código QR para instalar o { -brand-product-name } para celular ou <a data-l10n-name="download-label">envie um link de download para si mesmo</a>.
 mr2022-onboarding-no-mobile-download-cta-text = Capture o código QR para instalar o { -brand-product-name } para dispositivos móveis.
@@ -396,7 +396,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar informa�
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Você está nos ajudando a construir uma web melhor
-mr2022-onboarding-gratitude-subtitle = Obrigado por usar o { -brand-short-name }, respaldado pela Fundação Mozilla. Com o seu apoio, estamos trabalhando para tornar a internet mais aberta, acessível e melhor para todos.
+mr2022-onboarding-gratitude-subtitle = Obrigado por usar o { -brand-short-name }, respaldado pela Fundação Mozilla. Com seu apoio, estamos trabalhando para tornar a internet mais aberta, acessível e melhor para todos.
 mr2022-onboarding-gratitude-primary-button-label = Veja as novidades
 mr2022-onboarding-gratitude-secondary-button-label = Iniciar navegação
 
