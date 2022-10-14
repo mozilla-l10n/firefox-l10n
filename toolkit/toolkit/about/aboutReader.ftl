@@ -23,6 +23,14 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = ফন্ট সাইজ কমান
+about-reader-toolbar-plus =
+    .title = ফন্ট সাইজ বাড়ান
+about-reader-toolbar-contentwidthminus =
+    .title = কন্টেন্ট প্রস্থ কমান
+about-reader-toolbar-contentwidthplus =
+    .title = কন্টেন্ট প্রস্থ বাড়ান
 
 ## These are the styles of typeface that are options in the reader view controls.
 
