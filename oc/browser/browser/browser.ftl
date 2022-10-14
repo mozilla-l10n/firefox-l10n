@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Navegacion privada de { -brand-short-name }
 private-browsing-shortcut-text-2 = Navegacion privada de { -brand-shortcut-name }
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Veire los moduls
-quickactions-cmd-addons = moduls, extensions, tèmas
 quickactions-cmd-addons2 = Moduls complementaris
 # Opens the bookmarks library window
 quickactions-bookmarks = Veire los marcapaginas
@@ -642,6 +640,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Accions rapidas
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Entrar dins la vista de lectura
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Tampar la vista de lectura
 
 ## Full Screen and Pointer Lock UI
 
