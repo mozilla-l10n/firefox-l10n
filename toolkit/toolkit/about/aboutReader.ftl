@@ -25,3 +25,4 @@ about-reader-font-type-sans-serif = Без засечак
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-type-controls = Налады шрыфтоў
