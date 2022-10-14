@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Tmavé
     .title = Zobrazení v tmavých barvách
 about-reader-color-scheme-sepia = Sépiové
     .title = Zobrazení v sépiových barvách
+about-reader-color-scheme-auto = Automaticky
+    .title = Automatický barevný vzhled
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
