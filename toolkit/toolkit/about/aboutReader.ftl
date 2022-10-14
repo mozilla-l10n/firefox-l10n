@@ -4,8 +4,14 @@
 
 about-reader-loading = 正在载入…
 about-reader-load-error = 从页面载入文章失败
+about-reader-color-scheme-light = 浅色
+    .title = 浅色模式
+about-reader-color-scheme-dark = 深色
+    .title = 深色模式
 about-reader-color-scheme-sepia = 纸墨
     .title = 纸墨模式
+about-reader-color-scheme-auto = 自动
+    .title = 自动颜色模式
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -36,4 +42,5 @@ about-reader-font-type-sans-serif = 无衬线
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = 关闭阅读模式
+about-reader-toolbar-type-controls = 字体调整
 about-reader-toolbar-savetopocket = 保存到 { -pocket-brand-name }
