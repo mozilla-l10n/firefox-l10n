@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } පෞද්. පිරික්සුම
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } පෞද්. පිරික්සුම
 
 ##
@@ -269,7 +268,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = එක්කහු බලන්න
-quickactions-cmd-addons = එක්කහු, දිගු, තේමා
 quickactions-cmd-addons2 = එක්කහු
 # Opens the bookmarks library window
 quickactions-bookmarks = පොත්යොමු බලන්න
@@ -632,6 +630,9 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = ඉක්මන් ක්‍රියාමාර්ග
+
+## Reader View toolbar buttons
+
 
 ## Full Screen and Pointer Lock UI
 
