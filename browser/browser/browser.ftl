@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } – Zasebno brskanje
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } – Zasebno brskanje
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Prikaži dodatke
-quickactions-cmd-addons = dodatki, razširitve, teme
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks = Prikaži zaznamke
@@ -650,6 +648,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Hitra dejanja
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Odpri bralni pogled
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Zapri bralni pogled
 
 ## Full Screen and Pointer Lock UI
 
