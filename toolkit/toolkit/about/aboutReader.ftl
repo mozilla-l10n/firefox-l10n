@@ -41,3 +41,4 @@ about-reader-font-type-sans-serif = Tanpa-serif
 
 about-reader-toolbar-close = Tutup Tampilan Pembaca
 about-reader-toolbar-type-controls = Kontrol Jenis
+about-reader-toolbar-savetopocket = Simpan ke { -pocket-brand-name }
