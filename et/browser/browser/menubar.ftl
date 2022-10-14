@@ -38,11 +38,9 @@ menu-quit =
             [windows] j
            *[other] j
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Välju { -brand-shorter-name }ist
-
 menu-about =
     .label = { -brand-shorter-name }i teave
     .accesskey = e
@@ -182,6 +180,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Täisekraani režiim
     .accesskey = r
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Lülitu lugemisvaatesse
+    .accesskey = L
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Sulge lugemisvaade
+    .accesskey = S
 
 ##
 
