@@ -48,6 +48,10 @@ cert-error-code-prefix = קוד שגיאה: { $error }
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = קוד שגיאה: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+cert-error-ssl-connection-error = אירעה שגיאה בהתחברות אל { $hostname }.‏ { $errorMessage }
+# Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה, המונפקים על־ידי רשויות אישורים. מרבית הדפדפנים כבר לא סומכים על אישורים שהונפקו על־ידי GeoTrust, ‏RapidSSL, ‏Symantec, ‏Thawte וֿVeriSign. האתר { $hostname } עושה שימוש באישור של אחת מהרשויות הללו ולכן לא ניתן להוכיח את זהות האתר.
 cert-error-symantec-distrust-admin = באפשרותך להודיע למנהל האתר על אודות בעיה זו.
