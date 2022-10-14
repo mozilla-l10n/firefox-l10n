@@ -34,11 +34,9 @@ menu-quit =
             [windows] h
            *[other] Y
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Yeka i-{ -brand-shorter-name }
-
 menu-about =
     .label = Malunga ne-{ -brand-shorter-name }
     .accesskey = M
@@ -151,6 +149,17 @@ menu-view-full-screen =
     .label = Isikrini esiZeleyo
     .accesskey = I
 
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Faka Imo Yokufunda
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Imo Yokufunda Esondeleyo
+    .accesskey = R
+
 ##
 
 menu-view-show-all-tabs =
@@ -221,14 +230,6 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
