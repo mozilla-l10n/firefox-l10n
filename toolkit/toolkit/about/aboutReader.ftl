@@ -4,6 +4,12 @@
 
 about-reader-loading = Завантаження…
 about-reader-load-error = Не вдалося завантажити статтю зі сторінки
+about-reader-color-scheme-light = Світла
+    .title = Світла схема кольорів
+about-reader-color-scheme-dark = Темна
+    .title = Темна схема кольорів
+about-reader-color-scheme-sepia = Сепія
+    .title = Схема кольорів сепія
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -18,6 +24,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Зменшити розмір шрифту
+about-reader-toolbar-plus =
+    .title = Збільшити розмір шрифту
+about-reader-toolbar-contentwidthminus =
+    .title = Зменшити ширину вмісту
+about-reader-toolbar-contentwidthplus =
+    .title = Збільшити ширину вмісту
+about-reader-toolbar-lineheightminus =
+    .title = Зменшити висоту рядка
+about-reader-toolbar-lineheightplus =
+    .title = Збільшити висоту рядка
 
 ## These are the styles of typeface that are options in the reader view controls.
 
