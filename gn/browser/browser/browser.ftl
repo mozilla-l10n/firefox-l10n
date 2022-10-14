@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Kundahára ñemigua { -brand-short-name } ndive
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Ñeikundaha ñemi
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ehecha Moĩmbaha
-quickactions-cmd-addons = moĩmbaha, jepysokue, téma
 quickactions-cmd-addons2 = moĩmbaha
 # Opens the bookmarks library window
 quickactions-bookmarks = Ehecha Techaukaha
@@ -638,6 +636,9 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Jeku’e Pya’e
+
+## Reader View toolbar buttons
+
 
 ## Full Screen and Pointer Lock UI
 
