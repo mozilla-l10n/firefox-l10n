@@ -403,4 +403,5 @@ mr2022-onboarding-gratitude-secondary-button-label = Iniciar navegação
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Sinta-se em casa
+onboarding-infrequent-import-subtitle = Seja se instalando ou apenas de passagem, lembre que pode importar seus favoritos, senhas e mais.
 onboarding-infrequent-import-primary-button = Importar para o { -brand-short-name }
