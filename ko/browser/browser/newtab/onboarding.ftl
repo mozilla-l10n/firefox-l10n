@@ -402,4 +402,6 @@ mr2022-onboarding-gratitude-secondary-button-label = 탐색 시작
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = 편하게 생각하세요
+onboarding-infrequent-import-subtitle = 늘 사용하든 가끔씩 사용하든, 북마크, 비밀번호 등을 가져올 수 있다는 점을 기억하세요.
 onboarding-infrequent-import-primary-button = { -brand-short-name }로 가져오기
