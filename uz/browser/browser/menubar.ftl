@@ -34,11 +34,9 @@ menu-quit =
             [windows] h
            *[other] C
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }dan chiqish
-
 menu-about =
     .label = { -brand-shorter-name } haqida
     .accesskey = h
@@ -165,6 +163,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Butun ekran
     .accesskey = B
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = O‘qish ko‘rinishiga o‘tish
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = O‘qish ko‘rinishini yopish
+    .accesskey = R
 
 ##
 
