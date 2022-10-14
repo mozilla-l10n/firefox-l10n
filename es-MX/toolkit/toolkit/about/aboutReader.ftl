@@ -17,6 +17,10 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Disminuir tamaño de fuente
+about-reader-toolbar-plus =
+    .title = Aumentar tamaño de fuente
 
 ## These are the styles of typeface that are options in the reader view controls.
 
