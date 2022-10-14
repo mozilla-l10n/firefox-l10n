@@ -13,3 +13,5 @@ about-reader-font-type-sans-serif = Sans-serif
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = Dún an tAmharc Léitheoireachta
+about-reader-toolbar-type-controls = Rialtáin chló
