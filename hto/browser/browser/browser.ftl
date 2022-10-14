@@ -61,13 +61,13 @@ search-one-offs-context-open-new-tab =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
 ## Identity Panel
 
 identity-passive-loaded = Bíe rábe afenedo ñúe íñede (jána izoi).
-
 identity-learn-more =
     .value = Aiyo onóde
 identity-enable-mixed-content-blocking =
@@ -105,7 +105,6 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
-
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
 
@@ -125,6 +124,15 @@ urlbar-result-action-search-w-engine = Biedo jéno { $engine }
 
 ## Labels shown above groups of urlbar results
 
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Fákara éroiya taɨne
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Fákara éroiya ɨ́bai
 
 ## Full Screen and Pointer Lock UI
 
@@ -149,9 +157,6 @@ bookmarks-sidebar-content =
 ## Customize Toolbar Buttons
 
 
-## More items
-
-
 ## EME notification panel
 
 
@@ -159,9 +164,6 @@ bookmarks-sidebar-content =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -187,7 +189,6 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Yúnua
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -198,6 +199,7 @@ tabs-toolbar =
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
 
 ## Unified extensions (toolbar) button
 
