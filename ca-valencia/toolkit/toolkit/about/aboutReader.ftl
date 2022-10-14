@@ -45,3 +45,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Tanca la vista de lectura
 about-reader-toolbar-type-controls = Controls de la lletra
+about-reader-toolbar-savetopocket = Guarda al { -pocket-brand-name }
