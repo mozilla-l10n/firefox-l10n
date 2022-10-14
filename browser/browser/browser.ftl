@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (സ്വകാര്യ ബ്രൌസിങ്)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (സ്വകാര്യ ബ്രൌസിങ്)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (സ്വകാര്യ ബ്രൌസിങ്)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (സ്വകാര്യ ബ്രൌസിങ്)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -117,12 +115,10 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്
 urlbar-popup-blocked =
     .tooltiptext = നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ഈ അടയാളം ചിട്ടപ്പെടുത്തുക ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -147,17 +143,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ഈ സമയം, ഇതുപയോഗിച്ച് തിരയുക:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = തിരച്ചിൽ സെറ്റിങ്സ് ‌മാറ്റുക
-
 search-one-offs-context-open-new-tab =
     .label = പുതിയ ടാബില്‍ തിരയുക
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രമാക്കി മാറ്റുക
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -175,6 +168,7 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -188,7 +182,6 @@ identity-passive-loaded = ഈ താളിന്റെ ചില ഭാഗങ്
 identity-active-loaded = താങ്കള്‍ ഈ താളില്‍ സംരക്ഷണം നിര്‍വീര്യമാക്കിയിരിക്കുന്നു.
 identity-weak-encryption = ഈ താള്‍ ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നു.
 identity-insecure-login-forms = ഈ പേജില്‍ എന്റര്‍ചെയ്യുന്ന ലോഗിനുകള്‍ വീഴ്ചകള്‍ക്കുവിധേയമായേക്കാം.
-
 identity-permissions-reload-hint = മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.
 identity-remove-cert-exception =
     .label = എക്സപ്ഷൻ നീക്കം ചെയ്യുക
@@ -246,14 +239,11 @@ popup-all-windows-shared = സ്ക്രീനില്‍ ദൃശ്യമ�
 
 urlbar-placeholder =
     .placeholder = വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക
-
 urlbar-switch-to-tab =
     .value = ഏതു് റ്റാബ്:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ‌‌എക്സ്ടെൻഷൻ:
-
 urlbar-go-button =
     .tooltiptext = അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക
 urlbar-page-action-button =
@@ -278,6 +268,15 @@ urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = വായനാ കാഴ്ച നല്‍കുക
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = വായനാ കാഴ്ച അടയ്ക്കുക
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -285,12 +284,9 @@ urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ഇപ്പോള്‍ പൂര്‍ണ്ണ വലിപ്പത്തിലാണു്
 fullscreen-warning-no-domain = രേഖ ഇപ്പോള്‍ പൂര്‍ണ്ണ വലിപ്പത്തിലാണു്
-
-
 fullscreen-exit-button = പൂര്‍ണ്ണവലിപ്പത്തില്‍ നിന്നും പുറത്തു് കടക്കുക (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = സ്ക്രീന്‍ നിറഞ്ഞിരിക്കുന്നതില്‍ നിന്നും തിരിച്ചു് പോവുക (എസ്കേപ്)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -336,7 +332,6 @@ bookmarks-tools =
     .label = ബുക്ക്‌മാർക്കിങ് ഉപകരണങ്ങൾ
 bookmarks-bookmark-edit-panel =
     .label = ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക
-
 bookmarks-toolbar-menu =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍
 bookmarks-toolbar-placeholder =
@@ -357,33 +352,25 @@ library-bookmarks-menu =
 
 ## Customize Toolbar Buttons
 
-
-## More items
-
 toolbar-overflow-customize-button =
     .label = ടൂൾബാർ ഇഷ്ടമുള്ള രീതിയിൽ ആക്കുക…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = കണ്ണി ഈമെയില്‍ അയയ്ക്കുക
     .tooltiptext = ഈ താളിലേക്ക് ഒരു കണ്ണി ഈമെയില്‍ അയയ്ക്കുക
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = താള്‍ സൂക്ഷിക്കുക
     .tooltiptext = ഈ താള്‍ സൂക്ഷിയ്ക്കുക ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ഫയല്‍ തുറക്കുക
     .tooltiptext = ഒരു ഫയല്‍ തുറക്കുക ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = സിന്‍ക് ചെയ്ത ടാബുകള്‍
     .tooltiptext = മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണിക്കുക
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -400,9 +387,6 @@ eme-notifications-drm-content-playing = ഈ സൈറ്റിലുള്ള �
 ## Add-on removal warning
 
 
-## Remote / Synced tabs
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -414,7 +398,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } ന്‌ പോപ്പപ്പുകള്‍ അനുവദിക്കുക
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } ന്‌ പോപ്പപ്പുകള്‍ തടയുക
     .accesskey = p
@@ -436,35 +419,27 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍
-
 navbar-overflow =
     .tooltiptext = കൂടുതല്‍ പ്രയോഗങ്ങള്‍...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = പ്രിന്റ് ചെയ്യുക
     .tooltiptext = ഈ താള്‍ പ്രിന്റ് ചെയ്യുക… ({ $shortcut })
-
 navbar-library =
     .label = സംഭരണി
     .tooltiptext = ഹിസ്റ്ററിയും സേവുചെയ്ത ബുക്‍മാര്‍ക്കുളും മറ്റും കാണിക്കുക
-
 navbar-search =
     .title = തെരയുക
-
 navbar-accessibility-indicator =
     .tooltiptext = അക്സസ്സിബിലിറ്റി ഫീച്ചേര്‍സ് സജ്ജമാണ്
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ബ്രൌസര്‍ റ്റാബുകള്‍
-
 tabs-toolbar-new-tab =
     .label = പുതിയ റ്റാബ്‌
-
 tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
