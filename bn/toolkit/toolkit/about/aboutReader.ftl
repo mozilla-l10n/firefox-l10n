@@ -31,6 +31,10 @@ about-reader-toolbar-contentwidthminus =
     .title = কন্টেন্ট প্রস্থ কমান
 about-reader-toolbar-contentwidthplus =
     .title = কন্টেন্ট প্রস্থ বাড়ান
+about-reader-toolbar-lineheightminus =
+    .title = রেখার উচ্চতা হ্রাস করুন
+about-reader-toolbar-lineheightplus =
+    .title = রেখার উচ্চতা বৃদ্ধি করুন
 
 ## These are the styles of typeface that are options in the reader view controls.
 
