@@ -16,6 +16,14 @@ about-reader-estimated-read-time = { $range } 分钟
 
 about-reader-toolbar-minus =
     .title = 缩小文字
+about-reader-toolbar-contentwidthminus =
+    .title = 缩小内容宽度
+about-reader-toolbar-contentwidthplus =
+    .title = 放大内容宽度
+about-reader-toolbar-lineheightminus =
+    .title = 缩小行距
+about-reader-toolbar-lineheightplus =
+    .title = 放大行距
 
 ## These are the styles of typeface that are options in the reader view controls.
 
