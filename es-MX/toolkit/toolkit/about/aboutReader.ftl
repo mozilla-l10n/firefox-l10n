@@ -21,6 +21,14 @@ about-reader-toolbar-minus =
     .title = Disminuir tamaño de fuente
 about-reader-toolbar-plus =
     .title = Aumentar tamaño de fuente
+about-reader-toolbar-contentwidthminus =
+    .title = Reducir anchura del contenido
+about-reader-toolbar-contentwidthplus =
+    .title = Aumentar anchura del contenido
+about-reader-toolbar-lineheightminus =
+    .title = Reducir interlineado
+about-reader-toolbar-lineheightplus =
+    .title = Aumentar interlineado
 
 ## These are the styles of typeface that are options in the reader view controls.
 
