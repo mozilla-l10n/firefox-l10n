@@ -38,11 +38,9 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sulje { -brand-shorter-name }
-
 menu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
@@ -181,6 +179,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Koko näytön tila
     .accesskey = K
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Avaa lukunäkymä
+    .accesskey = A
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Sulje lukunäkymä
+    .accesskey = S
 
 ##
 

@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } Yksityinen selaus
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } - Yksityinen selaus
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Näytä lisäosat
-quickactions-cmd-addons = lisäosat, laajennukset, teemat
 quickactions-cmd-addons2 = lisäosat
 # Opens the bookmarks library window
 quickactions-bookmarks = Näytä kirjanmerkit
@@ -638,6 +636,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Pikatoiminnot
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Avaa lukunäkymä
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Sulje lukunäkymä
 
 ## Full Screen and Pointer Lock UI
 
