@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Dark
     .title = Colour Scheme Dark
 about-reader-color-scheme-sepia = Sepia
     .title = Colour Scheme Sepia
+about-reader-color-scheme-auto = Auto
+    .title = Color Scheme Auto
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
