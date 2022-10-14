@@ -47,3 +47,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Dùin sealladh an leughadair
 about-reader-toolbar-type-controls = Uidheaman-smachd sgrìobhaidh
+about-reader-toolbar-savetopocket = Sàbhail gu { -pocket-brand-name }
