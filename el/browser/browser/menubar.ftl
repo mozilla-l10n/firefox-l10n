@@ -38,11 +38,9 @@ menu-quit =
             [windows] ξ
            *[other] ξ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Έξοδος από το { -brand-shorter-name }
-
 menu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = τ
@@ -181,6 +179,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Πλήρης οθόνη
     .accesskey = Π
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Άνοιγμα προβολής ανάγνωσης
+    .accesskey = Α
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Κλείσιμο προβολής ανάγνωσης
+    .accesskey = Α
 
 ##
 
