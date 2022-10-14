@@ -36,11 +36,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = وازهێنانی { -brand-shorter-name }
-
 menu-about =
     .label = دەربارەی { -brand-shorter-name }
     .accesskey = A
@@ -159,6 +157,17 @@ menu-view-full-screen =
     .label = پڕاوپڕ
     .accesskey = ڕ
 
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = پیشاندەری خوێندنەوە بکەرەوە
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = پیشاندەری خوێندنەوە دابخە
+    .accesskey = R
+
 ##
 
 menu-view-show-all-tabs =
@@ -236,15 +245,6 @@ menu-window-bring-all-to-front =
     .label = هەمووی بهێنە پێشەوە
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
