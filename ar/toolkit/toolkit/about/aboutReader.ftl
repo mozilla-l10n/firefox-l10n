@@ -24,6 +24,7 @@ about-reader-estimated-read-time =
 
 ## These are the styles of typeface that are options in the reader view controls.
 
+about-reader-font-type-serif = مذيّل
 about-reader-font-type-sans-serif = غير مذيّل
 
 ## Reader View toolbar buttons
