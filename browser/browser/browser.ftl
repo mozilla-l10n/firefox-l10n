@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Ιδιωτική περιήγηση { -brand-short-name }
 private-browsing-shortcut-text-2 = Ιδιωτική περιήγηση { -brand-shortcut-name }
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Προβολή προσθέτων
-quickactions-cmd-addons = πρόσθετα, επεκτάσεις, θέματα
 quickactions-cmd-addons2 = πρόσθετα
 # Opens the bookmarks library window
 quickactions-bookmarks = Προβολή σελιδοδεικτών
@@ -639,6 +637,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Γρήγορες ενέργειες
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Άνοιγμα προβολής ανάγνωσης
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Κλείσιμο προβολής ανάγνωσης
 
 ## Full Screen and Pointer Lock UI
 
