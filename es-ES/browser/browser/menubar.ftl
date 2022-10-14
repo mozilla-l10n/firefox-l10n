@@ -187,6 +187,10 @@ menu-view-full-screen =
 menu-view-enter-readerview =
     .label = Abrir vista de lectura
     .accesskey = v
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Cerrar vista de lectura
+    .accesskey = R
 
 ##
 
