@@ -4,6 +4,12 @@
 
 about-reader-loading = Cargando…
 about-reader-load-error = Falló la carga del artículo desde la página
+about-reader-color-scheme-dark = Oscuro
+    .title = Esquema de color oscuro
+about-reader-color-scheme-sepia = Sepia
+    .title = Esquema de color sepia
+about-reader-color-scheme-auto = Auto
+    .title = Esquema de color automático
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -39,3 +45,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Cerrar vista de lectura
 about-reader-toolbar-type-controls = Controles de letra
+about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
