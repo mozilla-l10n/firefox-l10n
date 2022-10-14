@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Donker
     .title = Kleurenschema Donker
 about-reader-color-scheme-sepia = Sepia
     .title = Kleurenschema Sepia
+about-reader-color-scheme-auto = Auto
+    .title = Kleurenschema Automatisch
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -45,3 +47,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Lezerweergave sluiten
 about-reader-toolbar-type-controls = Lettertype-instellingen
+about-reader-toolbar-savetopocket = Opslaan in { -pocket-brand-name }
