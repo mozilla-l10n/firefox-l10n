@@ -308,6 +308,9 @@ urlbar-result-action-visit = Apmeklēt
 # This should match menu-view-enter-readerview in menubar.ftl
 reader-view-enter-button =
     .aria-label = Enter Reader View
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Aiztaiseit skaiteituoja skotu
 
 ## Full Screen and Pointer Lock UI
 
