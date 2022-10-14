@@ -4,8 +4,14 @@
 
 about-reader-loading = Загрузка…
 about-reader-load-error = Не удалось загрузить статью со страницы
+about-reader-color-scheme-light = Светлая
+    .title = Цветовая схема «Светлая»
+about-reader-color-scheme-dark = Тёмная
+    .title = Цветовая схема «Тёмная»
 about-reader-color-scheme-sepia = Сепия
     .title = Цветовая схема «Сепия»
+about-reader-color-scheme-auto = Авто
+    .title = Цветовая схема «Авто»
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -40,5 +46,6 @@ about-reader-font-type-sans-serif = Без засечек
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = Закрыть режим чтения
 about-reader-toolbar-type-controls = Настройка шрифтов
 about-reader-toolbar-savetopocket = Сохранить в { -pocket-brand-name }
