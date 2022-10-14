@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Njoowug sutura)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Njoowug sutura)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Njoowug sutura)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Njoowug sutura)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -91,6 +89,7 @@ full-screen-exit =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -126,7 +125,6 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Dem ci koñ bi:
-
 urlbar-go-button =
     .tooltiptext = Dem ci xët wi ñu joxoñ ci banqaasu makkaan
 
@@ -142,6 +140,15 @@ urlbar-go-button =
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Ubbi ci gisiinu jàng
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Téj gisiinu jàng bi
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -156,7 +163,6 @@ bookmarks-sidebar-content =
     .aria-label = Mandarga xët yi
 bookmarks-bookmark-edit-panel =
     .label = Soppali mandarga xët wile
-
 bookmarks-toolbar-menu =
     .label = Sa banqaasu bopp
 bookmarks-toolbar-placeholder =
@@ -176,8 +182,6 @@ bookmarks-toolbar-placeholder-button =
 ## Customize Toolbar Buttons
 
 
-## More items
-
 ## EME notification panel
 
 
@@ -185,9 +189,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -199,7 +200,6 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Jox ndigal popup yi ngir { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Boloke popup yi ngir { $uriHost }
     .accesskey = p
@@ -221,22 +221,17 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Yeb yi
-
 navbar-overflow =
     .tooltiptext = Yeneeni jumtukaay...
-
 navbar-search =
     .title = Wut
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Koñi jowwkat bi
-
 tabs-toolbar-new-tab =
     .label = Làcc wu wees
-
 tabs-toolbar-list-all-tabs =
     .label = Lim Làcc yépp
     .tooltiptext = Lim Làcc yépp
@@ -245,6 +240,7 @@ tabs-toolbar-list-all-tabs =
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
 
 ## Unified extensions (toolbar) button
 
