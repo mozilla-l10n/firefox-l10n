@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Iscuru
     .title = Ischema de colores iscuros
 about-reader-color-scheme-sepia = Sèpia
     .title = Ischema de colores sèpia
+about-reader-color-scheme-auto = Automàticu
+    .title = Ischema de colores automàticu
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
