@@ -46,3 +46,4 @@ about-reader-font-type-sans-serif = Bezserifni
 
 about-reader-toolbar-close = Zatvori pregled čitača
 about-reader-toolbar-type-controls = Kontrole tipova
+about-reader-toolbar-savetopocket = Spremi u { -pocket-brand-name }
