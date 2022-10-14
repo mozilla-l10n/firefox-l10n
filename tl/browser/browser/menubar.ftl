@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Isara ang { -brand-shorter-name }
-
 menu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
@@ -172,6 +170,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Buong Screen
     .accesskey = B
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Ipasok ang Reader View
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Isara ang Reader View
+    .accesskey = R
 
 ##
 
