@@ -4,6 +4,14 @@
 
 about-reader-loading = Įkeliama…
 about-reader-load-error = Iš tinklalapio įkelti straipsnio nepavyko
+about-reader-color-scheme-light = Šviesi
+    .title = Šviesi spalvų schema
+about-reader-color-scheme-dark = Tamsi
+    .title = Tamsi spalvų schema
+about-reader-color-scheme-sepia = Sepija
+    .title = Sepijos spalvų schema
+about-reader-color-scheme-auto = Automatinė
+    .title = Automatinė spalvų schema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -18,6 +26,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Sumažinti šriftą
+about-reader-toolbar-plus =
+    .title = Padidinti šriftą
+about-reader-toolbar-contentwidthminus =
+    .title = Sumažinti turinio plotį
+about-reader-toolbar-contentwidthplus =
+    .title = Padidinti turinio plotį
+about-reader-toolbar-lineheightminus =
+    .title = Sumažinti eilutės aukštį
+about-reader-toolbar-lineheightplus =
+    .title = Padidinti eilutės aukštį
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -28,3 +48,4 @@ about-reader-font-type-sans-serif = Be užraitų
 
 about-reader-toolbar-close = Išjungti skaitymo rodinį
 about-reader-toolbar-type-controls = Tipų valdymas
+about-reader-toolbar-savetopocket = Įrašyti į „{ -pocket-brand-name }“
