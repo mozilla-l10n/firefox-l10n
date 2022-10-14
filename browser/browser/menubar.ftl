@@ -30,11 +30,9 @@ menu-application-touch-bar =
 menu-quit =
     .label = Esci
     .accesskey = E
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Esci da { -brand-shorter-name }
-
 menu-about =
     .label = Informazioni su { -brand-shorter-name }
     .accesskey = I
@@ -157,7 +155,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stile pagina di base
     .accesskey = S
-
 menu-view-repair-text-encoding =
     .label = Correggi codifica testo
     .accesskey = C
@@ -174,6 +171,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Schermo intero
     .accesskey = S
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Attiva Modalità lettura
+    .accesskey = A
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Chiudi Modalità lettura
+    .accesskey = C
 
 ##
 
@@ -203,7 +211,6 @@ menu-history-undo-menu =
     .label = Schede chiuse di recente
 menu-history-undo-window-menu =
     .label = Finestre chiuse di recente
-
 menu-history-reopen-all-tabs = Riapri tutte le schede
 menu-history-reopen-all-windows = Riapri tutte le finestre
 
@@ -285,15 +292,6 @@ menu-window-bring-all-to-front =
     .label = Porta tutto in primo piano
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
