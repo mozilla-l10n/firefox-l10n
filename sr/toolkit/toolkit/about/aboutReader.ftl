@@ -18,6 +18,14 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Смањи величину фонта
+about-reader-toolbar-plus =
+    .title = Повећај величину фонта
+about-reader-toolbar-contentwidthminus =
+    .title = Смањи ширину садржаја
+about-reader-toolbar-contentwidthplus =
+    .title = Повећај величину садржаја
 
 ## These are the styles of typeface that are options in the reader view controls.
 
