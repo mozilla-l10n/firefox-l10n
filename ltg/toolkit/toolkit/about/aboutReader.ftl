@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-reader-loading = Īluodej…
+about-reader-load-error = Naizadeve īluodeit rokstu nu lopys
 
 ## These are used as tooltips in Type Control
 
@@ -13,3 +15,5 @@ about-reader-font-type-sans-serif = Sans-serif
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = Aiztaiseit skaiteituoja skotu
+about-reader-toolbar-type-controls = Tipa kontroles
