@@ -17,6 +17,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = فونٹ کا ماپ گھٹائیں
+about-reader-toolbar-plus =
+    .title = فونٹ کا سائز بڑھائیں
+about-reader-toolbar-contentwidthminus =
+    .title = مواد کی چوڑائی کو کم کریں
+about-reader-toolbar-contentwidthplus =
+    .title = مواد کی چوڑائی میں اضافہ کریں
+about-reader-toolbar-lineheightminus =
+    .title = سطر کی اونچائی کو کم کریں
+about-reader-toolbar-lineheightplus =
+    .title = سطر کی اونچائی میں اضافہ کریں
 
 ## These are the styles of typeface that are options in the reader view controls.
 
