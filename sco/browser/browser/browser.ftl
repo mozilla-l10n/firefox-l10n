@@ -532,6 +532,15 @@ urlbar-group-firefox-suggest =
 urlbar-group-search-suggestions =
     .label = { $engine } Suggestions
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Ingang Tae Reader View
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Sneck Reader View
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
