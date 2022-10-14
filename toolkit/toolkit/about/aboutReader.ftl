@@ -26,6 +26,10 @@ about-reader-toolbar-contentwidthminus =
     .title = Смањи ширину садржаја
 about-reader-toolbar-contentwidthplus =
     .title = Повећај величину садржаја
+about-reader-toolbar-lineheightminus =
+    .title = Смањите висину редова
+about-reader-toolbar-lineheightplus =
+    .title = Повећајте висину редова
 
 ## These are the styles of typeface that are options in the reader view controls.
 
