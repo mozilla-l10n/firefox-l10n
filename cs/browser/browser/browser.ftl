@@ -257,7 +257,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = Zobrazit doplňky
-quickactions-cmd-addons = doplňky, rozšíření, vzhledy
 # Opens the bookmarks library window
 quickactions-bookmarks = Zobrazit záložky
 quickactions-cmd-bookmarks = záložky
@@ -664,6 +663,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Rychlé akce
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Zapnout zobrazení čtečky
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Zavřít zobrazení čtečky
 
 ## Full Screen and Pointer Lock UI
 
