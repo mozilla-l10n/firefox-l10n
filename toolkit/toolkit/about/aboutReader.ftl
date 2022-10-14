@@ -4,6 +4,20 @@
 
 about-reader-loading = Llwytho…
 about-reader-load-error = Methwyd llwytho erthygl o dudalen
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+about-reader-estimated-read-time =
+    { $rangePlural ->
+        [zero] Dim munudau
+        [one] { $range } munud
+        [two] { $range } munud
+        [few] { $range } munud
+        [many] { $range } munud
+       *[other] { $range } munud
+    }
 
 ## These are used as tooltips in Type Control
 
