@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } privát böngészés
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } privát böngészés
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Kiegészítők megjelenítése
-quickactions-cmd-addons = kiegészítők, bővítmények, témák
 quickactions-cmd-addons2 = kiegészítők
 # Opens the bookmarks library window
 quickactions-bookmarks = Könyvjelzők megtekintése
@@ -642,6 +640,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Gyors műveletek
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Belépés olvasó nézetbe
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Olvasó nézet bezárása
 
 ## Full Screen and Pointer Lock UI
 
