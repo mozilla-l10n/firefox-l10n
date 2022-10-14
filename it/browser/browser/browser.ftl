@@ -593,6 +593,15 @@ urlbar-group-search-suggestions =
 urlbar-group-quickactions =
     .label = Azioni rapide
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Attiva Modalità lettura
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Chiudi Modalità lettura
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
