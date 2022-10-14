@@ -4,6 +4,10 @@
 
 about-reader-loading = Učitavanje…
 about-reader-load-error = Učitavnje članka sa stranice nije uspjelo
+about-reader-color-scheme-dark = Tamno
+    .title = Tamna shema boja
+about-reader-color-scheme-sepia = Sepia
+    .title = Sepia shema boja
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -18,6 +22,14 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Smanji veličinu fonta
+about-reader-toolbar-plus =
+    .title = Povećaj veličinu fonta
+about-reader-toolbar-contentwidthminus =
+    .title = Smanji širinu sadržaja
+about-reader-toolbar-contentwidthplus =
+    .title = Povećaj širinu sadržaja
 
 ## These are the styles of typeface that are options in the reader view controls.
 
