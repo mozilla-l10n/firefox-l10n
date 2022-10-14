@@ -45,3 +45,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Itxi irakurtzeko ikuspegia
 about-reader-toolbar-type-controls = Tipografia-kontrolak
+about-reader-toolbar-savetopocket = Gorde hemen: { -pocket-brand-name }
