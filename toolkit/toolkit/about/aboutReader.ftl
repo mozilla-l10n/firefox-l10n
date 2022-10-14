@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Iluna
     .title = Kolore-eskema iluna
 about-reader-color-scheme-sepia = Sepia
     .title = Kolore-eskema sepia
+about-reader-color-scheme-auto = Automatikoa
+    .title = Kolore-eskema automatikoa
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
