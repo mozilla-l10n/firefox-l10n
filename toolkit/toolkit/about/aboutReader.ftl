@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = มืด
     .title = แบบแผนชุดสีมืด
 about-reader-color-scheme-sepia = ซีเปีย
     .title = แบบแผนชุดสีซีเปีย
+about-reader-color-scheme-auto = อัตโนมัติ
+    .title = แบบแผนชุดสีอัตโนมัติ
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -41,3 +43,4 @@ about-reader-font-type-sans-serif = ไม่มีเชิง
 
 about-reader-toolbar-close = ปิดมุมมองผู้อ่าน
 about-reader-toolbar-type-controls = ปุ่มควบคุมชนิด
+about-reader-toolbar-savetopocket = บันทึกไปยัง { -pocket-brand-name }
