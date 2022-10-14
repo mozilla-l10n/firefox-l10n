@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } duyệt web riêng tư
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } duyệt web riêng tư
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Xem tiện tích
-quickactions-cmd-addons = tiện ích, tiện ích mở rộng, chủ đề, tien ich, tien ich mo rong, chu de
 quickactions-cmd-addons2 = tiện ích
 # Opens the bookmarks library window
 quickactions-bookmarks = Xem dấu trang
@@ -635,6 +633,12 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Hành động nhanh
+
+## Reader View toolbar buttons
+
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Đóng chế độ đọc sách
 
 ## Full Screen and Pointer Lock UI
 
