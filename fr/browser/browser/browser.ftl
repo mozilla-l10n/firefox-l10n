@@ -643,6 +643,12 @@ urlbar-group-quickactions =
 
 ## Reader View toolbar buttons
 
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Passer en mode lecture
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Quitter le mode lecture
 
 ## Full Screen and Pointer Lock UI
 
