@@ -4,6 +4,12 @@
 
 about-reader-loading = בטעינה…
 about-reader-load-error = כשלון בטעינת המאמר מהדף
+about-reader-color-scheme-light = בהיר
+    .title = ערכת צבעים בהירה
+about-reader-color-scheme-dark = כהה
+    .title = ערכת צבעים כהה
+about-reader-color-scheme-sepia = חום כהה
+    .title = ערכת צבעים חמה
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = הקטנת גודל גופן
+about-reader-toolbar-plus =
+    .title = הגדלת גודל גופן
+about-reader-toolbar-contentwidthminus =
+    .title = הקטנת רוחב התוכן
+about-reader-toolbar-contentwidthplus =
+    .title = הגדלת רוחב התוכן
+about-reader-toolbar-lineheightminus =
+    .title = הקטנת גובה שורה
+about-reader-toolbar-lineheightplus =
+    .title = הגדלת גובה שורה
 
 ## These are the styles of typeface that are options in the reader view controls.
 
