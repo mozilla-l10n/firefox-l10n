@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-reader-loading = 正在载入…
 about-reader-load-error = 从页面载入文章失败
 about-reader-color-scheme-sepia = 纸墨
     .title = 纸墨模式
@@ -33,3 +34,4 @@ about-reader-font-type-sans-serif = 无衬线
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = 关闭阅读模式
+about-reader-toolbar-savetopocket = 保存到 { -pocket-brand-name }
