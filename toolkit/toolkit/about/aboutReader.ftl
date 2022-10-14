@@ -47,3 +47,4 @@ about-reader-font-type-sans-serif = Sans sérif
 
 about-reader-toolbar-close = Quitter le mode lecture
 about-reader-toolbar-type-controls = Modifier la police
+about-reader-toolbar-savetopocket = Enregistrer dans { -pocket-brand-name }
