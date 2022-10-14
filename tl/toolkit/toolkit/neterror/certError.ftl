@@ -42,6 +42,9 @@ cert-error-expired-now = Pinapatunayan ng mga website ang kanilang identity gami
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Pinapatunayan ng mga website ang kanilang identity gamit ang mga certificate, na uubra lamang sa nakatakdang panahon. Ang certificate para sa { $hostname } ay hindi maaaring gamitin hanggang { $not-before-local-time }.
 # Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Error code: { $error }
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Error code: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
