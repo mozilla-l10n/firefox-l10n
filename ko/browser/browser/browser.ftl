@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } 사생활 보호 모드
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } 사생활 보호 모드
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = 부가 기능
-quickactions-cmd-addons = 부가 기능, 확장 기능, 테마, add-ons, extensions, themes
 quickactions-cmd-addons2 = 부가 기능, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks = 북마크
@@ -635,6 +633,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = 빠른 작업
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = 리더뷰 보기
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = 리더뷰 닫기
 
 ## Full Screen and Pointer Lock UI
 
