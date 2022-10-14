@@ -25,6 +25,10 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Pienennä kirjasinkokoa
+about-reader-toolbar-plus =
+    .title = Suurenna kirjasinkokoa
 about-reader-toolbar-contentwidthminus =
     .title = Pienennä sisällön leveyttä
 about-reader-toolbar-contentwidthplus =
