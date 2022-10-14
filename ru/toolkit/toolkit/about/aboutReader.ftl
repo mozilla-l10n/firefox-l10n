@@ -4,6 +4,8 @@
 
 about-reader-loading = Загрузка…
 about-reader-load-error = Не удалось загрузить статью со страницы
+about-reader-color-scheme-sepia = Сепия
+    .title = Цветовая схема «Сепия»
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -18,6 +20,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Уменьшить размер шрифта
+about-reader-toolbar-plus =
+    .title = Увеличить размер шрифта
+about-reader-toolbar-contentwidthminus =
+    .title = Уменьшить ширину содержимого
+about-reader-toolbar-contentwidthplus =
+    .title = Увеличить ширину содержимого
+about-reader-toolbar-lineheightminus =
+    .title = Уменьшить междустрочный интервал
+about-reader-toolbar-lineheightplus =
+    .title = Увеличить междустрочный интервал
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,3 +41,4 @@ about-reader-font-type-sans-serif = Без засечек
 ## Reader View toolbar buttons
 
 about-reader-toolbar-type-controls = Настройка шрифтов
+about-reader-toolbar-savetopocket = Сохранить в { -pocket-brand-name }
