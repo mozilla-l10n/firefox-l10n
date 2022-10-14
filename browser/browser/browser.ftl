@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private Browsing)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private Browsing)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private Browsing)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private Browsing)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -83,7 +81,6 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this bookmark ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,7 +106,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Set As Default Search Engine
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -127,6 +123,7 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -139,7 +136,6 @@ identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
 identity-insecure-login-forms = Logins entered on this page could be compromised.
-
 identity-remove-cert-exception =
     .label = Remove Exception
     .accesskey = R
@@ -196,10 +192,8 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 urlbar-placeholder =
     .placeholder = Search or enter address
-
 urlbar-switch-to-tab =
     .value = Switch to tab:
-
 urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar
 
@@ -222,6 +216,15 @@ urlbar-result-action-visit = Visit
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Enter Reader View
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Close Reader View
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -229,8 +232,6 @@ urlbar-result-action-visit = Visit
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> is now full screen
 fullscreen-warning-no-domain = This document is now full screen
-
-
 fullscreen-exit-button = Exit Full Screen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Exit Full Screen (esc)
@@ -248,7 +249,6 @@ bookmarks-other-bookmarks-menu =
     .label = Other Bookmarks
 bookmarks-bookmark-edit-panel =
     .label = Edit This Bookmark
-
 bookmarks-toolbar-menu =
     .label = Bookmarks Toolbar
 bookmarks-toolbar-placeholder =
@@ -267,29 +267,22 @@ bookmarks-toolbar-placeholder-button =
 
 ## Customize Toolbar Buttons
 
-
-## More items
-
 toolbar-button-email-link =
     .label = Email Link
     .tooltiptext = Email a link to this page
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Save Page
     .tooltiptext = Save this page ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Open File
     .tooltiptext = Open a file ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Synced Tabs
     .tooltiptext = Show tabs from other devices
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -306,9 +299,6 @@ eme-notifications-drm-content-playing = Some audio or video on this site uses DR
 ## Add-on removal warning
 
 
-## Remote / Synced tabs
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -320,7 +310,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -342,25 +331,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Downloads
-
 navbar-overflow =
     .tooltiptext = More tools…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Print
     .tooltiptext = Print this page… ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Browser tabs
-
 tabs-toolbar-new-tab =
     .label = New Tab
-
 tabs-toolbar-list-all-tabs =
     .label = List all tabs
     .tooltiptext = List all tabs
