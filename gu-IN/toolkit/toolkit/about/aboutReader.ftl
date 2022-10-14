@@ -25,3 +25,5 @@ about-reader-font-type-sans-serif = સાન્સ-શેરીફ
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = રીડર દૃશ્ય બંધ કરો
+about-reader-toolbar-type-controls = પ્રકાર નિયંત્રણો
