@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } tunigin tusligt
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } tunigin tusligt
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Sken izegrar
-quickactions-cmd-addons = izegrar, isiɣqzaf, isental
 quickactions-cmd-addons2 = Izegrar
 # Opens the bookmarks library window
 quickactions-bookmarks = Sken ticraḍ n usebter
@@ -641,6 +639,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Tigawin tiruradin
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Uɣal ɣeṛ tmeẓri n tɣuṛi
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Mdel timeẓri n tɣuṛi
 
 ## Full Screen and Pointer Lock UI
 
