@@ -320,7 +320,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar do naveg
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
-mr2022-onboarding-colorway-title = Escolha a cor que te inspira
+mr2022-onboarding-colorway-title = Escolha uma cor que te inspira
 mr2022-onboarding-colorway-subtitle = Vozes independentes podem mudar a cultura.
 mr2022-onboarding-colorway-primary-button-label-continue = Definir e continuar
 mr2022-onboarding-existing-colorway-checkbox-label = Torne a { -firefox-home-brand-name } sua tela inicial colorida
