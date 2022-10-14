@@ -38,11 +38,9 @@ menu-quit =
             [windows] D
            *[other] l
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Dilni prej { -brand-shorter-name }-it
-
 menu-about =
     .label = Mbi { -brand-shorter-name }-in
     .accesskey = R
@@ -181,6 +179,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Sa Krejt Ekrani
     .accesskey = E
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Kalo në Pamjen Lexues
+    .accesskey = L
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Mbylle Pamjen Lexues
+    .accesskey = L
 
 ##
 

@@ -229,7 +229,6 @@ search-one-offs-history =
 
 # Opens the about:addons page
 quickactions-addons = Shihini Shtesa
-quickactions-cmd-addons = shtesa, zgjerime, tema
 # Opens the bookmarks library window
 quickactions-bookmarks = Shihni Faqerojtës
 quickactions-cmd-bookmarks = faqerojtës
@@ -539,6 +538,15 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Sugjerime nga { $engine }
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Kalo në Pamjen Lexues
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Mbylle Pamjen Lexues
 
 ## Full Screen and Pointer Lock UI
 
