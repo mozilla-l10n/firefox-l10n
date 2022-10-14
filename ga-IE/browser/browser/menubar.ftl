@@ -36,11 +36,9 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Scoir { -brand-shorter-name }
-
 menu-about =
     .label = Maidir le { -brand-shorter-name }
     .accesskey = M
@@ -155,6 +153,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Lánscáileán
     .accesskey = i
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Oscail an tAmharc Léitheoireachta
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Dún an tAmharc Léitheoireachta
+    .accesskey = R
 
 ##
 
