@@ -38,11 +38,9 @@ menu-quit =
             [windows] I
            *[other] I
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Irten { -brand-shorter-name }(e)tik
-
 menu-about =
     .label = { -brand-shorter-name }(r)i buruz
     .accesskey = b
@@ -181,6 +179,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Pantaila osoa
     .accesskey = P
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Sartu irakurtzeko ikuspegian
+    .accesskey = i
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Irten irakurtzeko ikuspegitik
+    .accesskey = I
 
 ##
 
