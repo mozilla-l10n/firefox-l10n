@@ -636,6 +636,9 @@ urlbar-group-quickactions =
 
 ## Reader View toolbar buttons
 
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Vào chế độ đọc sách
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Đóng chế độ đọc sách
