@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Тамно
     .title = Тамна тема
 about-reader-color-scheme-sepia = Сепија
     .title = Тема „Сепија”
+about-reader-color-scheme-auto = Аутоматски
+    .title = Аутоматска шема боја
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
