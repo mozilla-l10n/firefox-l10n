@@ -4,6 +4,14 @@
 
 about-reader-loading = Loading…
 about-reader-load-error = Failed to load article from page
+about-reader-color-scheme-light = Light
+    .title = Colour Scheme Light
+about-reader-color-scheme-dark = Dark
+    .title = Colour Scheme Dark
+about-reader-color-scheme-sepia = Sepia
+    .title = Colour Scheme Sepia
+about-reader-color-scheme-auto = Auto
+    .title = Colour Scheme Auto
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +25,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Decrease Font Size
+about-reader-toolbar-plus =
+    .title = Increase Font Size
+about-reader-toolbar-contentwidthminus =
+    .title = Decrease Content Width
+about-reader-toolbar-contentwidthplus =
+    .title = Increase Content Width
+about-reader-toolbar-lineheightminus =
+    .title = Decrease Line Height
+about-reader-toolbar-lineheightplus =
+    .title = Increase Line Height
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,3 +47,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Close Reader View
 about-reader-toolbar-type-controls = Type controls
+about-reader-toolbar-savetopocket = Save To { -pocket-brand-name }
