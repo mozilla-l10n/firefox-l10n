@@ -23,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Liitan ang Font
+about-reader-toolbar-plus =
+    .title = Lakihan ang Font
+about-reader-toolbar-contentwidthminus =
+    .title = Bawasan ang Lapad ng Content
+about-reader-toolbar-contentwidthplus =
+    .title = Dagdagan ang Lapad ng Content
+about-reader-toolbar-lineheightminus =
+    .title = Bawasan ang Line Height
+about-reader-toolbar-lineheightplus =
+    .title = Dagdagan ang Line Height
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -33,3 +45,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Isara ang Reader View
 about-reader-toolbar-type-controls = Uri ng mga control
+about-reader-toolbar-savetopocket = I-save sa { -pocket-brand-name }
