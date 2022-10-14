@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } Prywatne przeglōndanie
 
 ##
 
@@ -272,7 +271,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Pokoż rozszyrzynia
-quickactions-cmd-addons = rozszyrzynia, motywy
 quickactions-cmd-addons2 = rozszyrzynia
 # Opens the bookmarks library window
 quickactions-bookmarks = Pokoż zokłodki
@@ -641,6 +639,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Gibke akcyje
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Wlyź do podglōndu czytanio
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Zawrzij podglōnd czytanio
 
 ## Full Screen and Pointer Lock UI
 
