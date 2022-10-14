@@ -38,11 +38,9 @@ menu-quit =
             [windows] O
            *[other] O
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ôfslute
-
 menu-about =
     .label = Oer { -brand-shorter-name }
     .accesskey = O
@@ -182,6 +180,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Folslein skerm
     .accesskey = F
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Lêzerwerjefte iepenje
+    .accesskey = L
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Lêzerwerjefte slute
+    .accesskey = L
 
 ##
 
