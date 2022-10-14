@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Pori Preifat { -brand-short-name }
 private-browsing-shortcut-text-2 = Pori Preifat { -brand-shortcut-name }
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Gweld Ychwanegion
-quickactions-cmd-addons = ychwanegion, estyniadau, themâu
 quickactions-cmd-addons2 = ychwanegion
 # Opens the bookmarks library window
 quickactions-bookmarks = Gweld Nodau Tudalen
@@ -658,6 +656,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Gweithredoedd Cyflym
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Mynd i'r Golwg Darllen
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Cau'r Golwg Darllen
 
 ## Full Screen and Pointer Lock UI
 

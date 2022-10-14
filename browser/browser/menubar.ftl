@@ -38,11 +38,9 @@ menu-quit =
             [windows] G
            *[other] G
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Gadael { -brand-shorter-name }
-
 menu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
@@ -186,6 +184,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Sgrin Lawn
     .accesskey = S
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Mynd i'r Golwg Darllen
+    .accesskey = D
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Cau'r Golwg Darllen
+    .accesskey = D
 
 ##
 
