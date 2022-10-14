@@ -4,6 +4,14 @@
 
 about-reader-loading = Llwytho…
 about-reader-load-error = Methwyd llwytho erthygl o dudalen
+about-reader-color-scheme-light = Golau
+    .title = Cynllun Lliw Golau
+about-reader-color-scheme-dark = Tywyll
+    .title = Cynllun Lliw Tywyll
+about-reader-color-scheme-sepia = Sepia
+    .title = Cynllun Lliw Sepia
+about-reader-color-scheme-auto = Awtomatig
+    .title = Cynllun Lliw Awtomatig
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -21,6 +29,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Lleihau Maint Testun
+about-reader-toolbar-plus =
+    .title = Cynyddu Maint Testun
+about-reader-toolbar-contentwidthminus =
+    .title = Lleihau Lled Cynnwys
+about-reader-toolbar-contentwidthplus =
+    .title = Cynyddu Lled Cynnwys
+about-reader-toolbar-lineheightminus =
+    .title = Lleihau Uchder Llinell
+about-reader-toolbar-lineheightplus =
+    .title = Cynyddu Uchder Llinell
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -31,3 +51,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Cau'r Golwg Darllen
 about-reader-toolbar-type-controls = Rheoli'r math
+about-reader-toolbar-savetopocket = Cadw i { -pocket-brand-name }
