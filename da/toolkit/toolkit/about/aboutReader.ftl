@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Mørk
     .title = Mørkt farveskema
 about-reader-color-scheme-sepia = Sepia
     .title = Sepia farveskema
+about-reader-color-scheme-auto = Auto
+    .title = Automatisk farveskema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
