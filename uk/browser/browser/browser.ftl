@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Приватний перегляд { -brand-short-name }
 private-browsing-shortcut-text-2 = Приватний перегляд { -brand-shortcut-name }
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Переглянути додатки
-quickactions-cmd-addons = додатки, розширення, теми
 quickactions-cmd-addons2 = додатки
 # Opens the bookmarks library window
 quickactions-bookmarks = Переглянути закладки
@@ -643,6 +641,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Швидкі дії
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Перейти в режим читача
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Закрити режим читача
 
 ## Full Screen and Pointer Lock UI
 
