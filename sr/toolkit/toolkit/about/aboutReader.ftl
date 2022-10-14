@@ -4,6 +4,12 @@
 
 about-reader-loading = Учитавање…
 about-reader-load-error = Неуспешно учитавање чланка са странице
+about-reader-color-scheme-light = Светло
+    .title = Светла тема
+about-reader-color-scheme-dark = Тамно
+    .title = Тамна тема
+about-reader-color-scheme-sepia = Сепија
+    .title = Тема „Сепија”
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -40,3 +46,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Затвори приказ читача
 about-reader-toolbar-type-controls = Контроле типова
+about-reader-toolbar-savetopocket = Сачувај у { -pocket-brand-name }-у
