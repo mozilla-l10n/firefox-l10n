@@ -4,6 +4,12 @@
 
 about-reader-loading = Nalaganje …
 about-reader-load-error = Nalaganje članka ni uspelo
+about-reader-color-scheme-light = Svetlo
+    .title = Svetla barvna shema
+about-reader-color-scheme-dark = Temno
+    .title = Temna barvna shema
+about-reader-color-scheme-sepia = Sepia
+    .title = Barvna shema Sepia
 about-reader-color-scheme-auto = Samodejno
     .title = Samodejna barvna shema
 # An estimate for how long it takes to read an article,
@@ -21,6 +27,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Zmanjšaj velikost pisave
+about-reader-toolbar-plus =
+    .title = Povečaj velikost pisave
+about-reader-toolbar-contentwidthminus =
+    .title = Zmanjšaj širino vsebine
+about-reader-toolbar-contentwidthplus =
+    .title = Povečaj širino vsebine
+about-reader-toolbar-lineheightminus =
+    .title = Zmanjšaj višino vrstice
+about-reader-toolbar-lineheightplus =
+    .title = Povečaj višino vrstice
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -31,3 +49,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Zapri bralni pogled
 about-reader-toolbar-type-controls = Nastavitve pisave
+about-reader-toolbar-savetopocket = Shrani v { -pocket-brand-name }
