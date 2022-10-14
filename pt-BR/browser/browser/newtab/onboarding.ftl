@@ -283,7 +283,7 @@ mr2022-onboarding-set-default-only-subtitle = Comece com um navegador respaldado
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-header = Obrigado por adorar o { -brand-product-name }
+mr2022-onboarding-existing-pin-header = Obrigado por gostar do { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-subtitle = Inicie uma internet mais saudável de qualquer lugar com um único clique. Nossa versão mais recente está repleta de novidades que achamos que você vai adorar.
 # Subtitle will be used on the welcome screen for existing users
@@ -335,37 +335,37 @@ mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Jogador em equipe
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Jogador em equipe (vermelho)
-mr2022-onboarding-colorway-description-playmaker = <b>Você é um jogador em equipe.</b> Você cria oportunidades para vencer e ajuda todos ao seu redor a elevar seus jogos.
+mr2022-onboarding-colorway-description-playmaker = <b>Jogador em equipe.</b> Você cria oportunidades para vencer e ajuda todos ao seu redor a elevar seus jogos.
 mr2022-onboarding-colorway-label-expressionist = Expressionista
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Expressionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionista (amarelo)
-mr2022-onboarding-colorway-description-expressionist = <b>Você é um expressionista.</b> Você vê o mundo de forma diferente e suas criações despertam emoções nos outros.
+mr2022-onboarding-colorway-description-expressionist = <b>Expressionista.</b> Você vê o mundo de forma diferente e suas criações despertam emoções nos outros.
 mr2022-onboarding-colorway-label-visionary = Visionário
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionário
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionário (verde)
-mr2022-onboarding-colorway-description-visionary = <b>Você é um visionário.</b> Você questiona o status quo e leva os outros a imaginar um futuro melhor.
+mr2022-onboarding-colorway-description-visionary = <b>Visionário.</b> Você questiona a situação atual e leva os outros a imaginar um futuro melhor.
 mr2022-onboarding-colorway-label-activist = Ativista
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Ativista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Ativista (azul)
-mr2022-onboarding-colorway-description-activist = <b>Você é um ativista.</b> Você torna o mundo um lugar melhor do que encontrou e leva os outros a acreditar.
+mr2022-onboarding-colorway-description-activist = <b>Ativista.</b> Você torna o mundo um lugar melhor do que encontrou e leva os outros a acreditar.
 mr2022-onboarding-colorway-label-dreamer = Sonhador
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Sonhador
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sonhador (roxo)
-mr2022-onboarding-colorway-description-dreamer = <b>Você é um sonhador.</b> Você acredita que a sorte favorece os ousados e inspira os outros a ser corajosos.
+mr2022-onboarding-colorway-description-dreamer = <b>Sonhador.</b> Você acredita que a sorte favorece os ousados e inspira os outros a ser corajosos.
 mr2022-onboarding-colorway-label-innovator = Inovador
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Inovador
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Inovador (laranja)
-mr2022-onboarding-colorway-description-innovator = <b>Você é um inovador.</b> Você vê oportunidades em todo lugar e causa impacto na vida de todos ao seu redor.
+mr2022-onboarding-colorway-description-innovator = <b>Inovador.</b> Você vê oportunidades em todo lugar e causa impacto na vida de todos ao seu redor.
 
 ## MR2022 Multistage Mobile Download screen strings
 
