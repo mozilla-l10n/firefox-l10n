@@ -4,6 +4,12 @@
 
 about-reader-loading = Asali…
 about-reader-load-error = D awezɣi asali n umagrad seg usebter
+about-reader-color-scheme-light = Aceɛlal
+    .title = Tagrumma n yiniten iceɛlalen
+about-reader-color-scheme-dark = Aberkan
+    .title = Tagrumma n yiniten ubriken
+about-reader-color-scheme-sepia = Sipya
+    .title = Tagrumma n yiniten Sepia
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Senɣes teɣzi n tsefsit
+about-reader-toolbar-plus =
+    .title = Semɣer teɣzi n tsefsit
+about-reader-toolbar-contentwidthminus =
+    .title = Senɣes tehri n ugbur
+about-reader-toolbar-contentwidthplus =
+    .title = Semɣer tehri n ugbur
+about-reader-toolbar-lineheightminus =
+    .title = Senɣes awrir n yizirig
+about-reader-toolbar-lineheightplus =
+    .title = Semɣer awrir n yizirig
 
 ## These are the styles of typeface that are options in the reader view controls.
 
