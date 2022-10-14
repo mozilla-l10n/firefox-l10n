@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privātā pārlūkošana)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privātā pārlūkošana)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privātā pārlūkošana)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privātā pārlūkošana)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -124,12 +122,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Šīs lapas canvas datu ieguve ir bloķēta.
 urlbar-midi-blocked =
     .tooltiptext = MIDI izmantošana šajā lapā ir bloķēta.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Rediģēt šo grāmatzīmi ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -153,14 +149,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Mainīt meklēšanas iestatījumus
-
 search-one-offs-context-open-new-tab =
     .label = Meklēt jaunā cilnē
     .accesskey = c
 search-one-offs-context-set-as-default =
     .label = Iestatīt par noklusēto meklētāju
     .accesskey = n
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -177,6 +171,7 @@ search-one-offs-add-engine-menu =
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
+
 
 ## Bookmark Panel
 
@@ -196,7 +191,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Rādīt redaktoru, saglabājot
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -213,7 +207,6 @@ identity-passive-loaded = Šīs lapas daļas (piemēram attēli) nav drošas.
 identity-active-loaded = Nedrošu elementu aizsardzība ir deaktivēta.
 identity-weak-encryption = Šī lapa izmanto vāju šifrēšanu.
 identity-insecure-login-forms = Dati, ko ievadīsiet šajā lapā nav aizsargāti un var tikt pārtverti.
-
 identity-permissions-reload-hint = Lai redzētu izmaiņas iespējams būs nepieciešama lapas pārlāde.
 identity-clear-site-data =
     .label = Notīrīt sīkdatnes un lapu datus…
@@ -275,19 +268,15 @@ popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Meklēt ar { $name } vai ievadiet mājas lapas adresi
-
 urlbar-switch-to-tab =
     .value = Pārslēgties uz cilni:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplašinājums:
-
 urlbar-go-button =
     .tooltiptext = Pāriet uz adresi, kas redzama vietas joslā
 urlbar-page-action-button =
@@ -312,6 +301,15 @@ urlbar-result-action-visit = Apmeklēt
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Ieiet lasītāja skatā
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Aizvērt lasītāja skatu
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -319,12 +317,9 @@ urlbar-result-action-visit = Apmeklēt
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa visu ekrānu
 fullscreen-warning-no-domain = Šis dokuments ir pa visu ekrānu
-
-
 fullscreen-exit-button = Iziet no pilnā ekrāna (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Iziet no pilnā ekrāna (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -370,7 +365,6 @@ bookmarks-tools =
     .label = Grāmatzīmju rīki
 bookmarks-bookmark-edit-panel =
     .label = Rediģēt šo grāmatzīmi
-
 bookmarks-toolbar-menu =
     .label = Grāmatzīmju rīkjosla
 bookmarks-toolbar-placeholder =
@@ -391,33 +385,25 @@ library-bookmarks-menu =
 
 ## Customize Toolbar Buttons
 
-
-## More items
-
 toolbar-overflow-customize-button =
     .label = Pielāgot rīkjoslu…
     .accesskey = P
-
 toolbar-button-email-link =
     .label = Nosūtīt saiti
     .tooltiptext = Nosūtīt saiti epastā
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Saglabāt lapu
     .tooltiptext = Saglabā šo lapu ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Atvērt failu
     .tooltiptext = Atvērt failu ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Sinhronizētās cilnes
     .tooltiptext = Parādīt cilnes no citām ierīcēm
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -434,9 +420,6 @@ eme-notifications-drm-content-playing = Daži audio un video šajā lapā izmant
 ## Add-on removal warning
 
 
-## Remote / Synced tabs
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -448,7 +431,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Pieņemt jaunos logus no { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Bloķēt jaunos logus no { $uriHost }
     .accesskey = p
@@ -470,39 +452,30 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Lejupielādes
-
 navbar-overflow =
     .tooltiptext = Citi rīki…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Drukāt
     .tooltiptext = Drukāt šo lapu… ({ $shortcut })
-
 navbar-home =
     .label = Sākumlapa
     .tooltiptext = { -brand-short-name } sākumlapa
-
 navbar-library =
     .label = Bibliotēka
     .tooltiptext = Skatīt vēsturi, saglabātās grāmatzīmes un daudz ko citu
-
 navbar-search =
     .title = Meklēt
-
 navbar-accessibility-indicator =
     .tooltiptext = Aktivēti pieejamības rīki
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Pārlūka cilnes
-
 tabs-toolbar-new-tab =
     .label = Jauna cilne
-
 tabs-toolbar-list-all-tabs =
     .label = Visu ciļņu saraksts
     .tooltiptext = Visu ciļņu saraksts
