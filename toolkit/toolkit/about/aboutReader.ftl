@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-reader-loading = Se ye cargando…
+about-reader-load-error = No s'ha puesto cargar l'articlo dende a pachina
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -24,3 +25,5 @@ about-reader-font-type-sans-serif = Sans-serif
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = Zarrar a vista de lector
+about-reader-toolbar-type-controls = Controls d'escritura
