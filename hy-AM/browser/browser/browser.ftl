@@ -524,6 +524,15 @@ urlbar-result-action-search-tabs = Որոնել ներդիրներ
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Մուտք Ընթերցելու եղանակ
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Փակել Ընթերցելու եղանակը
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
