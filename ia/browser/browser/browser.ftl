@@ -640,6 +640,9 @@ urlbar-group-quickactions =
 
 ## Reader View toolbar buttons
 
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Entrar in vista de lectura
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Clauder le vista de lectura

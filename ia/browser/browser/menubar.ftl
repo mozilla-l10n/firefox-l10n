@@ -182,6 +182,10 @@ menu-view-full-screen =
 
 ## These menu items may use the same accesskey.
 
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Entrar in vista de lectura
+    .accesskey = R
 # This should match reader-view-close-button in browser.ftl
 menu-view-close-readerview =
     .label = Clauder le vista de lectura
