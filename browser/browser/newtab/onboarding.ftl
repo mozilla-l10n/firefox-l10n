@@ -322,7 +322,6 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importer fra tidl
 
 mr2022-onboarding-colorway-title = Velg fargen som inspirerer deg
 mr2022-onboarding-colorway-subtitle = Uavhengige stemmer kan endre kultur.
-mr2022-onboarding-colorway-primary-button-label = Velg fargesammensetting
 mr2022-onboarding-colorway-primary-button-label-continue = Still inn og fortsett
 mr2022-onboarding-existing-colorway-checkbox-label = Gjør { -firefox-home-brand-name } til din fargerike startside
 mr2022-onboarding-colorway-label-default = Standard
@@ -400,3 +399,9 @@ mr2022-onboarding-gratitude-title = Du hjelper oss med å bygge et bedre interne
 mr2022-onboarding-gratitude-subtitle = Takk for at du bruker { -brand-short-name }, støttet av Mozilla Foundation. Med din støtte jobber vi for å gjøre internett mer åpent, tilgjengelig og bedre for alle.
 mr2022-onboarding-gratitude-primary-button-label = Se hva som er nytt
 mr2022-onboarding-gratitude-secondary-button-label = Begynn å surfe
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Føl deg hjemme
+onboarding-infrequent-import-subtitle = Enten du slår deg til rette eller bare er innom, husk at du kan importere bokmerker, passord og mer.
+onboarding-infrequent-import-primary-button = Importer til { -brand-short-name }
