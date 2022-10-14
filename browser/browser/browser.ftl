@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } – პირადი ფანჯარა
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } – პირადი რეჟიმი
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = დამატებების ნახვა
-quickactions-cmd-addons = დამატებები, გაფართოებები, თემები
 quickactions-cmd-addons2 = დამატებები
 # Opens the bookmarks library window
 quickactions-bookmarks = სანიშნების ნახვა
@@ -639,6 +637,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = სწრაფი მოქმედებები
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = კითხვის რეჟიმზე გადასვლა
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = კითხვის რეჟიმის დახურვა
 
 ## Full Screen and Pointer Lock UI
 

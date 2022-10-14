@@ -38,11 +38,9 @@ menu-quit =
             [windows] ლ
            *[other] გ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = დაიხუროს { -brand-shorter-name }
-
 menu-about =
     .label = { -brand-shorter-name } შესახებ
     .accesskey = შ
@@ -181,6 +179,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = სრული ეკრანი
     .accesskey = ს
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = კითხვის რეჟიმზე გადასვლა
+    .accesskey = კ
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = კითხვის რეჟიმის დახურვა
+    .accesskey = კ
 
 ##
 
