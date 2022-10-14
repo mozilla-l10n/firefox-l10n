@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - dźělenski pokazowak
 webrtc-indicator-window =
     .title = { -brand-short-name } - dźělenski pokazowak
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Dźěliće swoju kameru. Klikńće, zo byšće dźělenje wodźił.
 webrtc-microphone-system-menu =
@@ -178,6 +173,7 @@ webrtc-allow-share-screen-and-audio-capture = Chceće { $origin } dowolić, na a
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, na awdio tutoho rajtarka poskać?
 webrtc-allow-share-camera-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje dawa?
 webrtc-allow-share-microphone-unsafe-delegations = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašemu mikrofonej dawa?
 webrtc-allow-share-screen-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, swoju wobrazowku widźeć?
