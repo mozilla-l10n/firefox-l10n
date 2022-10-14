@@ -188,6 +188,10 @@ menu-view-full-screen =
 menu-view-enter-readerview =
     .label = Увайсці ў Рэжым чытання
     .accesskey = Ч
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Закрыць Рэжым чытання
+    .accesskey = Ч
 
 ##
 

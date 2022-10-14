@@ -650,6 +650,9 @@ urlbar-group-quickactions =
 # This should match menu-view-enter-readerview in menubar.ftl
 reader-view-enter-button =
     .aria-label = Увайсці ў Рэжым чытання
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Закрыць Рэжым чытання
 
 ## Full Screen and Pointer Lock UI
 
