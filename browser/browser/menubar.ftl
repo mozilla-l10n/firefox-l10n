@@ -186,6 +186,10 @@ menu-view-full-screen =
 menu-view-enter-readerview =
     .label = כניסה לתצוגת קריאה
     .accesskey = ק
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = סגירת תצוגת הקריאה
+    .accesskey = ק
 
 ##
 
