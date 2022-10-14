@@ -38,11 +38,9 @@ menu-quit =
             [windows] E
            *[other] E
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Essi de { -brand-shorter-name }
-
 menu-about =
     .label = Informatziones de { -brand-shorter-name }
     .accesskey = I
@@ -182,6 +180,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Mannària prena
     .accesskey = M
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Aberi sa visualizatzione de letura
+    .accesskey = l
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Serra sa visualizatzione de letura
+    .accesskey = S
 
 ##
 
