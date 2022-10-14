@@ -4,6 +4,14 @@
 
 about-reader-loading = Жүктеу…
 about-reader-load-error = Парақтан мақаланы жүктеу сәтсіз
+about-reader-color-scheme-light = Ашық түсті
+    .title = Ашық түстер схемасы
+about-reader-color-scheme-dark = Күңгірт
+    .title = Қараңғы түстер схемасы
+about-reader-color-scheme-sepia = Сепия
+    .title = Сепия түстер схемасы
+about-reader-color-scheme-auto = Автоматты түрде
+    .title = Түс схемасы "Авто"
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +25,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Қаріп өлшемін кішірейту
+about-reader-toolbar-plus =
+    .title = Қаріп өлшемін үлкейту
+about-reader-toolbar-contentwidthminus =
+    .title = Мазмұн енін кішірейту
+about-reader-toolbar-contentwidthplus =
+    .title = Мазмұн енін үлкейту
+about-reader-toolbar-lineheightminus =
+    .title = Жол биіктігін кішірейту
+about-reader-toolbar-lineheightplus =
+    .title = Жол биіктігін үлкейту
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,3 +47,4 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Оқу режимін жабу
 about-reader-toolbar-type-controls = Қаріптерді баптау
+about-reader-toolbar-savetopocket = { -pocket-brand-name } ішіне сақтау
