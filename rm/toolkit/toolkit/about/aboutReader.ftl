@@ -4,6 +4,14 @@
 
 about-reader-loading = Chargiar…
 about-reader-load-error = Impussibel da chargiar l'artitgel da la pagina
+about-reader-color-scheme-light = Cler
+    .title = Schema da colurs cleras
+about-reader-color-scheme-dark = Stgir
+    .title = Schema da colurs stgiras
+about-reader-color-scheme-sepia = Sepia
+    .title = Schema da colurs sepia
+about-reader-color-scheme-auto = Automatic
+    .title = Schema da colurs automatic
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +25,18 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Diminuir la grondezza da la scrittira
+about-reader-toolbar-plus =
+    .title = Engrondir la grondezza da la scrittira
+about-reader-toolbar-contentwidthminus =
+    .title = Diminuir la ladezza dal cuntegn
+about-reader-toolbar-contentwidthplus =
+    .title = Engrondir la ladezza dal cuntegn
+about-reader-toolbar-lineheightminus =
+    .title = Diminuir l'autezza da la lingia
+about-reader-toolbar-lineheightplus =
+    .title = Engrondir l'autezza da la lingia
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,3 +47,4 @@ about-reader-font-type-sans-serif = Senza serifas
 
 about-reader-toolbar-close = Serrar la vista da lectura
 about-reader-toolbar-type-controls = Controllas da la scrittira
+about-reader-toolbar-savetopocket = Memorisar en { -pocket-brand-name }
