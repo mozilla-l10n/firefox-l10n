@@ -38,11 +38,9 @@ menu-quit =
             [windows] k
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } skóńcyś
-
 menu-about =
     .label = Wó { -brand-shorter-name }
     .accesskey = W
@@ -184,6 +182,17 @@ menu-view-exit-full-screen =
 menu-view-full-screen =
     .label = Połna wobrazowka
     .accesskey = P
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Do cytańskego naglěda stupiś
+    .accesskey = c
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Cytański naglěd zacyniś
+    .accesskey = z
 
 ##
 

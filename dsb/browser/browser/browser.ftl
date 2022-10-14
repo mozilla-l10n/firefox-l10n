@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Priwatny modus { -brand-short-name }
 private-browsing-shortcut-text-2 = Priwatny modus { -brand-shortcut-name }
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Dodanki pokazaś
-quickactions-cmd-addons = dodanki, rozšyrjenja, drastwy
 quickactions-cmd-addons2 = dodanki
 # Opens the bookmarks library window
 quickactions-bookmarks = Cytańske znamjenja pokazaś
@@ -649,6 +647,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Malsne akcije
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Do cytańskego naglěda stupiś
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Cytański naglěd zacyniś
 
 ## Full Screen and Pointer Lock UI
 
