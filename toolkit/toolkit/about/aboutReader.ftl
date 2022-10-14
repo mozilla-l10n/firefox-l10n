@@ -4,6 +4,12 @@
 
 about-reader-loading = Memuat…
 about-reader-load-error = Gagal memuat artikel dari laman
+about-reader-color-scheme-light = Terang
+    .title = Skema Warna Terang
+about-reader-color-scheme-dark = Gelap
+    .title = Skema Warna Gelap
+about-reader-color-scheme-sepia = Sepia
+    .title = Skema Warna Sepia
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -13,6 +19,18 @@ about-reader-estimated-read-time = { $range } menit
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Kecilkan Ukuran Teks
+about-reader-toolbar-plus =
+    .title = Besarkan Ukuran Teks
+about-reader-toolbar-contentwidthminus =
+    .title = Kurangi Lebar Konten
+about-reader-toolbar-contentwidthplus =
+    .title = Tingkatkan Lebar Konten
+about-reader-toolbar-lineheightminus =
+    .title = Kurangi Tinggi Garis
+about-reader-toolbar-lineheightplus =
+    .title = Tingkatkan Tinggi Garis
 
 ## These are the styles of typeface that are options in the reader view controls.
 
