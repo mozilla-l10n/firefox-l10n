@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-reader-loading = Cargante…
 about-reader-load-error = Falta a cargar le articulo ex le pagina
 about-reader-color-scheme-auto = Auto
     .title = Schema de color Auto
@@ -25,6 +26,10 @@ about-reader-toolbar-lineheightplus =
 
 ## These are the styles of typeface that are options in the reader view controls.
 
+about-reader-font-type-serif = Serif
+about-reader-font-type-sans-serif = Sans-serif
 
 ## Reader View toolbar buttons
 
+about-reader-toolbar-close = Clauder le vista de lectura
+about-reader-toolbar-type-controls = Controlos de typo
