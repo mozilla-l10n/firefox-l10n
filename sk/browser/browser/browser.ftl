@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Súkromné prehliadanie { -brand-short-name(case: "gen") }
 private-browsing-shortcut-text-2 = Súkromné prehliadanie { -brand-shortcut-name(case: "gen") }
 
 ##
@@ -273,7 +272,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Zobraziť doplnky
-quickactions-cmd-addons = doplnky, rozšírenia, témy vzhľadu
 quickactions-cmd-addons2 = doplnky
 # Opens the bookmarks library window
 quickactions-bookmarks = Zobraziť záložky
@@ -646,6 +644,9 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Rýchle akcie
+
+## Reader View toolbar buttons
+
 
 ## Full Screen and Pointer Lock UI
 
