@@ -4,6 +4,12 @@
 
 about-reader-loading = Cargando…
 about-reader-load-error = Fallo al cargar el artículo de la página
+about-reader-color-scheme-light = Claro
+    .title = Esquema de color claro
+about-reader-color-scheme-dark = Oscuro
+    .title = Esquema de color oscuro
+about-reader-color-scheme-sepia = Sepia
+    .title = Esquema de color sepia
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -17,6 +23,14 @@ about-reader-estimated-read-time =
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = Disminuir tamaño de fuente
+about-reader-toolbar-plus =
+    .title = Aumentar tamaño de fuente
+about-reader-toolbar-lineheightminus =
+    .title = Disminuir longitud de línea
+about-reader-toolbar-lineheightplus =
+    .title = Aumentar longitud de línea
 
 ## These are the styles of typeface that are options in the reader view controls.
 
