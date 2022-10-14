@@ -48,6 +48,10 @@ cert-error-code-prefix = Mishanter code: { $error }
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Mishanter code: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+cert-error-ssl-connection-error = A mishanter tuik place durin a connection tae { $hostname }. { $errorMessage }
+# Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Wabsites pruive their identity through certificates, that are issued by certificate authorities. Maist wab-stravaigers nae langer trust certificates issued by GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } yaises a certificate fae ane o these authorities and sae the wabsite's identity cannae be pruiven.
 cert-error-symantec-distrust-admin = Ye can let the wabsite's admeenistrator ken aboot this problem.
