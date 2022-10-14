@@ -76,7 +76,6 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = Brabhsadh prìobhaideach { -brand-short-name }
 
 ##
 
@@ -272,7 +271,6 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = Seall na tuilleadain
-quickactions-cmd-addons = tuilleadain, leudachain, ùrlaran
 # Opens the bookmarks library window
 quickactions-bookmarks = Seall na comharran-lìn
 quickactions-cmd-bookmarks = comharran-lìn
@@ -635,6 +633,15 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Grad-ghnìomhan
+
+## Reader View toolbar buttons
+
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Fosgail am modh leughaidh
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Dùin sealladh an leughadair
 
 ## Full Screen and Pointer Lock UI
 
