@@ -156,11 +156,17 @@ about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກບໍ?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] ນີ້ຈະເປັນການລຶບການເຂົ້າສູ່ລະບົບທີ່ທ່ານບັນທຶກໄວ້ໃນ { -brand-short-name } ແລະການແຈ້ງເຕືອນການລະເມີດໃດໆກໍຕາມທີ່ປາກົດຢູ່ບ່ອນນີ້. ທ່ານຈະບໍ່ສາມາດຍົກເລີກຄຳສັ່ງນີ້ໄດ້.
+       *[other] ນີ້ຈະເປັນການລຶບການເຂົ້າສູ່ລະບົບທີ່ທ່ານບັນທຶກໄວ້ໃນ { -brand-short-name } ແລະການແຈ້ງເຕືອນການລະເມີດໃດໆກໍຕາມທີ່ປາກົດຢູ່ບ່ອນນີ້. ທ່ານຈະບໍ່ສາມາດຍົກເລີກຄຳສັ່ງນີ້ໄດ້.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກຈາກທຸກອຸປະກອນບໍ?
     }
 about-logins-confirm-export-dialog-title = ສົ່ງອອກເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
+about-logins-confirm-export-dialog-message = ລະຫັດຜ່ານຂອງທ່ານຈະຖືກບັນທຶກໄວ້ເປັນຂໍ້ຄວາມທີ່ສາມາດອ່ານໄດ້ (ເຊັ່ນ: BadP@ssw0rd) ດັ່ງນັ້ນທຸກຄົນທີ່ສາມາດເປີດໄຟລ໌ທີ່ສົ່ງອອກສາມາດເບິ່ງໄດ້.
 about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
 about-logins-alert-import-title = ນໍາເຂົ້າສໍາເລັດ
 about-logins-alert-import-message = ເບິ່ງລາຍລະອຽດການນໍາເຂົ້າ
