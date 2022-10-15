@@ -403,4 +403,6 @@ mr2022-onboarding-gratitude-secondary-button-label = Gezinmeye başla
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Kendinizi evinizde gibi hissedin
+onboarding-infrequent-import-subtitle = Yer imlerinizi, parolalarınızı ve daha fazlasını kolayca içe aktarabilirsiniz.
 onboarding-infrequent-import-primary-button = { -brand-short-name } tarayıcısına aktar
