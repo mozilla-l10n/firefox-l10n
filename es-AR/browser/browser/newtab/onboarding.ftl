@@ -41,7 +41,6 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Progreso: paso { $current } de { $total }
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -50,13 +49,11 @@ onboarding-welcome-steps-indicator2 =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Todo empieza acá
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio - Diseñadora de muebles, fan de Firefox
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desactivar animaciones
 
@@ -82,11 +79,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Comenzar
-
 mr1-onboarding-welcome-header = Bienvenido a { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Hacer que { -brand-short-name } sea el navegador principal
     .title = Configurar { -brand-short-name } cómo el navegador predeterminado y pegarlo a la barra de tareas
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Hacer que { -brand-short-name } sea el navegador predeterminado
@@ -104,16 +99,13 @@ mr1-onboarding-default-primary-button-label = Establecer el navegador predetermi
 
 mr1-onboarding-import-header = Llevalo todo con vos
 mr1-onboarding-import-subtitle = Importar contraseñas,<br/>marcadores y más.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importar desde { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar desde el navegador anterior
 mr1-onboarding-import-secondary-button-label = No ahora
-
 mr2-onboarding-colorway-header = La vida en colores
 mr2-onboarding-colorway-subtitle = Nuevas combinaciones de colores brillantes. Disponible por tiempo limitado.
 mr2-onboarding-colorway-primary-button-label = Guardar combinación de colores
@@ -123,26 +115,20 @@ mr2-onboarding-colorway-label-balanced = Balanceado
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Fuerte
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Auto
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Predeterminado
-
 mr1-onboarding-theme-header = Hágalo suyo
 mr1-onboarding-theme-subtitle = Personalizar { -brand-short-name } con un tema
 mr1-onboarding-theme-primary-button-label = Guardar tema
 mr1-onboarding-theme-secondary-button-label = No ahora
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema del sistema
-
 mr1-onboarding-theme-label-light = Claro
 mr1-onboarding-theme-label-dark = Oscuro
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
-
 onboarding-theme-primary-button-label = Terminado
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -155,74 +141,61 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Seguir el tema del sistema operativo
         para botones, menús y ventanas.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Seguir el tema del sistema operativo
         para botones, menús y ventanas.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Usar un tema claro para botones,
         menús y ventanas.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Usar un tema claro para botones,
         menús y ventanas.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Usar un tema oscuro para botones,
         menús y ventanas.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Usar un tema oscuro para botones,
         menús y ventanas.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Usar un tema dinámico y colorido para botones,
         menús y ventanas.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Usar un tema dinámico y colorido para botones,
         menús y ventanas.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Usar esta combinación de colores.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Usar esta combinación de colores.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Explorar combinaciones de colores de { $colorwayName }.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Explorar combinaciones de colores de { $colorwayName }.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Explorar temas predeterminados.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Explorar temas predeterminados.
 
@@ -250,18 +223,13 @@ mr2-onboarding-start-browsing-button-label = Empezar a navegar
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Seleccionar un idioma
-
 mr2022-onboarding-live-language-text = { -brand-short-name } habla tu idioma
-
 mr2022-language-mismatch-subtitle = Gracias a nuestra comunidad, { -brand-short-name } está traducido a 90 idiomas. Parece que su sistema está usando { $systemLanguage } y { -brand-short-name } está usando { $appLanguage }.
-
 onboarding-live-language-button-label-downloading = Descargando el pack de idioma para { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Obteniendo idiomas disponibles…
 onboarding-live-language-installing = Instalando el pack de idioma para { $negotiatedLanguage }…
-
 mr2022-onboarding-live-language-switch-to = Cambiar a { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Continuar en { $appLanguage }
-
 onboarding-live-language-secondary-cancel-download = Cancelar
 onboarding-live-language-skip-button-label = Omitir
 
@@ -284,14 +252,12 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Mantener { -brand-short-name } en la barra de tareas
        *[other] Fijar { -brand-short-name } en la barra de tareas
     }
-
 fx100-upgrade-thanks-header = 100 Gracias
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Es nuestro lanzamiento número 100 de { -brand-short-name }. <em>Gracias</em> por ayudarnos a construir una internet mejor y más saludable.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = ¡Es nuestro lanzamiento número 100! Gracias por ser parte de nuestra comunidad. Mantenga { -brand-short-name } a un clic de distancia de los próximos 100.
-
 mr2022-onboarding-secondary-skip-button-label = Saltear este paso
 
 ## MR2022 New User Pin Firefox screen strings
@@ -357,52 +323,44 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde el
 
 mr2022-onboarding-colorway-title = Elige el color que te inspira
 mr2022-onboarding-colorway-subtitle = Las voces independientes pueden cambiar la cultura.
-mr2022-onboarding-colorway-primary-button-label = Establecer combinación de colores
 mr2022-onboarding-colorway-primary-button-label-continue = Establecer y continuar
 mr2022-onboarding-existing-colorway-checkbox-label = Hacer de { -firefox-home-brand-name } una entrada colorida
-
 mr2022-onboarding-colorway-label-default = Predeterminado
 mr2022-onboarding-colorway-tooltip-default =
     .title = Predeterminado
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Colores actuales de { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Usar mis colores de { -brand-short-name } actuales.</b>
-
 mr2022-onboarding-colorway-label-playmaker = Creador de jugadas
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Creador de jugadas
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Creador de jugadas (rojo)
 mr2022-onboarding-colorway-description-playmaker = <b>Es un creador de jugadas.</b> Crea oportunidades para ganar y ayuda a todos los que lo rodean a mejorar su juego.
-
 mr2022-onboarding-colorway-label-expressionist = Expresionista
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Expresionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expresionista (amarillo)
 mr2022-onboarding-colorway-description-expressionist = <b>Es un expresionista.</b> Ve al mundo de manera diferente y sus creaciones despiertan las emociones de los demás.
-
 mr2022-onboarding-colorway-label-visionary = Visionario
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionario
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionario (verde)
 mr2022-onboarding-colorway-description-visionary = <b>Es un visionario.</b> Cuestiona el status quo y mueve a otros a imaginar un futuro mejor.
-
 mr2022-onboarding-colorway-label-activist = Activista
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Activista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activista (azul)
 mr2022-onboarding-colorway-description-activist = <b>Es un activista.</b> Deja el mundo como un lugar mejor de lo que lo encontró y lleva a otros a creer.
-
 mr2022-onboarding-colorway-label-dreamer = Soñador
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Soñador
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Soñador (púrpura)
 mr2022-onboarding-colorway-description-dreamer = <b>Es un soñador.</b> Cree que la suerte favorece a los audaces e inspira a otros a ser valientes.
-
 mr2022-onboarding-colorway-label-innovator = Innovador
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Innovador
@@ -442,3 +400,9 @@ mr2022-onboarding-gratitude-title = Nos está ayudando a construir una web mejor
 mr2022-onboarding-gratitude-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más abierta, accesible y mejor para todos.
 mr2022-onboarding-gratitude-primary-button-label = Veamos que hay de nuevo
 mr2022-onboarding-gratitude-secondary-button-label = Empezar a navegar
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Siéntase como en su casa
+onboarding-infrequent-import-subtitle = Ya sea que se esté instalando o simplemente pase por aquí, recuerde que puede importar sus marcadores, contraseñas y más.
+onboarding-infrequent-import-primary-button = Importar a { -brand-short-name }
