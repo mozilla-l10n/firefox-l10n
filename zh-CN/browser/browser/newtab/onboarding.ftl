@@ -386,4 +386,6 @@ mr2022-onboarding-gratitude-secondary-button-label = 开始浏览
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = 请随意 🍵
+onboarding-infrequent-import-subtitle = 无论您是临时还是要长期使用，都可以选择导入书签、密码等数据。
 onboarding-infrequent-import-primary-button = 导入 { -brand-short-name }
