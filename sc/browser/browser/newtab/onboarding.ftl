@@ -337,37 +337,31 @@ mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Regista
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Regista (rùbiu)
-mr2022-onboarding-colorway-description-playmaker = Creas oportunidades pro bìnchere e agiudare a chie tenes acanta a megiorare su giogu.
 mr2022-onboarding-colorway-label-expressionist = Espressionista
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Espressionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Espressionista (grogu)
-mr2022-onboarding-colorway-description-expressionist = Bides su mundu in una manera diversa e is creatziones tuas iscidant is emotziones de àtere.
 mr2022-onboarding-colorway-label-visionary = Bisadora
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Bisadora
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Bisadora (birde)
-mr2022-onboarding-colorway-description-visionary = Pones in duda su status quo e cumbinches is àteras persones a immaginare unu mundu mègius.
 mr2022-onboarding-colorway-label-activist = Ativista
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Ativista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Ativista (biaitu)
-mr2022-onboarding-colorway-description-activist = Lassas su mundu che a mègius de su chi as agatadu e ghias is àteras persones a crèere in su cambiamentu.
 mr2022-onboarding-colorway-label-dreamer = Sonniadora
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Sonniadora
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sonniadora (muradu)
-mr2022-onboarding-colorway-description-dreamer = Crees chi sa fortuna agiudet is fortes e ispiret is àteras persones a èssere coragiosas.
 mr2022-onboarding-colorway-label-innovator = Annoadora
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Annoadora
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Annoadora (aràngiu)
-mr2022-onboarding-colorway-description-innovator = Bides oportunidades totue e tenes un'impatu in is vidas de ònnia persone inghìriu a tue.
 
 ## MR2022 Multistage Mobile Download screen strings
 
