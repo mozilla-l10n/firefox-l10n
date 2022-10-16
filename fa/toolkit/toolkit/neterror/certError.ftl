@@ -55,6 +55,7 @@ cert-error-ssl-connection-error = خطایی در هنگام اتصال { $hostn
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = وبسایت‌ها هویت خود را از طریق گواهی‌‌نامه‌هایی اثبات می‌کنند که توسط CAها صادر می‌شوند. اکثر مرورگرها گواهی‌نامه‌های صادر شده توسط GeoTrust، RapidSSL، Symantec، Thawte و VeriSign را دیگر معتبر نمی‌دانند. { $hostname } از گواهی‌نامه‌های صادر شده توسط یکی از این شرکت‌ها استفاده می‌کند بنابراین هویت وبسایت قابل تأیید نیست.
 cert-error-symantec-distrust-admin = بهتر است این مشکل را به اطلاع مدیر وبسایت برسانید.
+cert-error-old-tls-version = ممکن است این وبگاه از شیوه‌نامهٔ TLS 1.2 که پایین‌ترین نگارش پشتیبانی شدهٔ { -brand-short-name } است، پشتیبانی نکند.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
