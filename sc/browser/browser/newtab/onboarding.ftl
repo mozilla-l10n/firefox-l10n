@@ -359,16 +359,38 @@ mr2022-onboarding-colorway-description-activist = Lassas su mundu che a mègius 
 mr2022-onboarding-colorway-label-dreamer = Sonniadora
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Sonniadora
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Sonniadora (muradu)
+mr2022-onboarding-colorway-description-dreamer = Crees chi sa fortuna agiudet is fortes e ispiret is àteras persones a èssere coragiosas.
+mr2022-onboarding-colorway-label-innovator = Annoadora
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Annoadora
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Annoadora (aràngiu)
+mr2022-onboarding-colorway-description-innovator = Bides oportunidades totue e tenes un'impatu in is vidas de ònnia persone inghìriu a tue.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Cola dae s'elaboradore a su telèfonu e a s'elaboradore torra
+mr2022-onboarding-mobile-download-subtitle = Recùpera ischedas de unu dispositivu e sighi dae un'àteru. E sincroniza is sinnalibros e is craes in ònnia logu cun { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Iscansiona su còdighe QR pro otènnere { -brand-product-name } pro mòbiles o <a data-l10n-name="download-label">imbia·ti unu ligòngiu de iscarrigamentu.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Iscansiona su còdighe QR pro otènnere { -brand-product-name } pro mòbiles.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Otene sa libertade de sa navigatzione privada in un'incarcada
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Nissunu testimòngiu nen cronologia, deretu dae s'iscrivania tua. Nàviga comente si nemos ti càstiet.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Mantene sa navigatzione privada de { -brand-short-name } in su Dock
+       *[other] Apica sa navigatzione privada de { -brand-short-name } a sa barra de is fainas
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Rispetamus semper sa riservadesa tua
+mr2022-onboarding-privacy-segmentation-subtitle = Dae cussìgios inteligentes a una chirca prus efitziente, semus semper a traballu pro creare unu { -brand-product-name } mègius e prus personale.
 
 ## MR2022 Multistage Gratitude screen strings
 
