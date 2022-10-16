@@ -41,7 +41,6 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Progres: langkah { $current } dari { $total }
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -52,13 +51,11 @@ onboarding-welcome-steps-indicator2 =
 mr1-welcome-screen-hero-text =
     Semangat dimulai
     dari sini
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Desainer Furnitur, penggemar Firefox
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Nonaktifkan animasi
 
@@ -84,11 +81,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Memulai
-
 mr1-onboarding-welcome-header = Selamat datang di { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Jadikan { -brand-short-name } peramban utama saya
     .title = Jadikan { -brand-short-name } sebagai peramban baku dan sematkan ke bilah tugas
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Jadikan { -brand-short-name } peramban baku saya
@@ -106,16 +101,13 @@ mr1-onboarding-default-primary-button-label = Jadikan sebagai peramban baku
 
 mr1-onboarding-import-header = Bawa semua bersama Anda
 mr1-onboarding-import-subtitle = Impor sandi Anda, <br/>markah, dan lainnya.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Impor dari { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Impor dari peramban sebelumnya
 mr1-onboarding-import-secondary-button-label = Jangan sekarang
-
 mr2-onboarding-colorway-header = Hidup bersama warna
 mr2-onboarding-colorway-subtitle = Warna baru. Tersedia untuk waktu terbatas.
 mr2-onboarding-colorway-primary-button-label = Simpan warna
@@ -125,26 +117,20 @@ mr2-onboarding-colorway-label-balanced = Seimbang
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Mencolok
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Otomatis
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Baku
-
 mr1-onboarding-theme-header = Jadikan milik Anda
 mr1-onboarding-theme-subtitle = Personalisasikan { -brand-short-name } dengan tema.
 mr1-onboarding-theme-primary-button-label = Simpan tema
 mr1-onboarding-theme-secondary-button-label = Jangan sekarang
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sistem
-
 mr1-onboarding-theme-label-light = Terang
 mr1-onboarding-theme-label-dark = Gelap
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
-
 onboarding-theme-primary-button-label = Selesai
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -157,74 +143,61 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Ikuti tema sistem operasi
         untuk tombol, menu, dan jendela.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Ikuti tema sistem operasi
         untuk tombol, menu, dan jendela.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Gunakan tampilan terang untuk
         tombol, menu, dan jendela.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Gunakan tampilan terang untuk
         tombol, menu, dan jendela.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Gunakan tampilan gelap untuk
         tombol, menu, dan jendela.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Gunakan tampilan gelap untuk
         tombol, menu, dan jendela.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Gunakan tampilan dinamis berwarna untuk
         tombol, menu, dan jendela.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Gunakan tampilan dinamis berwarna untuk
         tombol, menu, dan jendela.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Gunakan warna ini.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Gunakan warna ini.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Telusuri warna { $colorwayName }.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Telusuri warna { $colorwayName }.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Jelajahi tema baku.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Jelajahi tema baku.
 
@@ -252,18 +225,13 @@ mr2-onboarding-start-browsing-button-label = Mulai menjelajah
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Pilih Bahasa
-
 mr2022-onboarding-live-language-text = { -brand-short-name } berbicara bahasa Anda
-
 mr2022-language-mismatch-subtitle = Berkat komunitas kami, { -brand-short-name } diterjemahkan ke lebih dari 90 bahasa. Sepertinya sistem Anda menggunakan { $systemLanguage }, dan { -brand-short-name } menggunakan { $appLanguage }.
-
 onboarding-live-language-button-label-downloading = Mengunduh paket bahasa untuk { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Mendapatkan bahasa yang tersedia…
 onboarding-live-language-installing = Mengunduh paket bahasa untuk { $negotiatedLanguage }…
-
 mr2022-onboarding-live-language-switch-to = Beralih ke { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Lanjutkan dalam { $appLanguage }
-
 onboarding-live-language-secondary-cancel-download = Batalkan
 onboarding-live-language-skip-button-label = Lewati
 
@@ -285,14 +253,12 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Simpan { -brand-short-name } di Dock
        *[other] Sematkan { -brand-short-name } di bilah tugas
     }
-
 fx100-upgrade-thanks-header = 100x Terima Kasih
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Ini adalah rilis { -brand-short-name } ke-100. Terima kasih untuk <em>Anda</em> karena telah membantu kami membangun Internet yang lebih baik dan lebih sehat.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ini adalah rilis ke-100 kami! Terima kasih telah menjadi bagian dari komunitas kami. Hanya sekali klik untuk terus 100x bersama { -brand-short-name } berikutnya.
-
 mr2022-onboarding-secondary-skip-button-label = Lewati langkah ini
 
 ## MR2022 New User Pin Firefox screen strings
@@ -358,52 +324,44 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Impor dari peramb
 
 mr2022-onboarding-colorway-title = Pilih warna yang menginspirasi Anda
 mr2022-onboarding-colorway-subtitle = Suara independen dapat mengubah budaya.
-mr2022-onboarding-colorway-primary-button-label = Atur ragam warna
 mr2022-onboarding-colorway-primary-button-label-continue = Setel dan lanjutkan
 mr2022-onboarding-existing-colorway-checkbox-label = Jadikan { -firefox-home-brand-name } beranda penuh warna
-
 mr2022-onboarding-colorway-label-default = Bawaan
 mr2022-onboarding-colorway-tooltip-default =
     .title = Baku
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Warna { -brand-short-name } saat ini
 mr2022-onboarding-colorway-description-default = <b>Gunakan warna { -brand-short-name } saya saat ini.</b>
-
 mr2022-onboarding-colorway-label-playmaker = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Playmaker (merah)
 mr2022-onboarding-colorway-description-playmaker = <b>Anda adalah seorang Playmaker.</b> Anda menciptakan peluang untuk menang dan membantu semua orang di sekitar Anda meningkatkan permainan mereka.
-
 mr2022-onboarding-colorway-label-expressionist = Ekspresionis
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Ekspresionis
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresionis (kuning)
 mr2022-onboarding-colorway-description-expressionist = <b>Anda adalah seorang Ekspresionis.</b> Anda melihat dunia secara berbeda dan kreasi Anda membangkitkan emosi orang lain.
-
 mr2022-onboarding-colorway-label-visionary = Visioner
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visioner
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visioner (hijau)
 mr2022-onboarding-colorway-description-visionary = <b>Anda adalah seorang Visioner.</b> Anda mempertanyakan status quo dan menggerakkan orang lain untuk membayangkan masa depan yang lebih baik.
-
 mr2022-onboarding-colorway-label-activist = Aktivis
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivis
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivis (biru)
 mr2022-onboarding-colorway-description-activist = <b>Anda adalah seorang Aktivis.</b> Anda meninggalkan dunia sebagai tempat yang lebih baik daripada yang Anda temukan dan membuat orang lain percaya.
-
 mr2022-onboarding-colorway-label-dreamer = Pemimpi
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Pemimpi
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Pemimpi (ungu)
 mr2022-onboarding-colorway-description-dreamer = <b>Anda adalah Pemimpi.</b> Anda percaya bahwa keberuntungan berpihak pada yang berani dan menginspirasi orang lain untuk menjadi berani.
-
 mr2022-onboarding-colorway-label-innovator = Inovator
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Inovator
@@ -443,3 +401,9 @@ mr2022-onboarding-gratitude-title = Anda membantu kami membangun web yang lebih 
 mr2022-onboarding-gratitude-subtitle = Terima kasih telah menggunakan { -brand-short-name }, yang didukung oleh Mozilla Foundation. Dengan dukungan Anda, kami berupaya menjadikan internet lebih terbuka, mudah diakses, dan lebih baik bagi semua orang.
 mr2022-onboarding-gratitude-primary-button-label = Lihat apa yang baru
 mr2022-onboarding-gratitude-secondary-button-label = Mulai menjelajah
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Anggap saja rumah sendiri
+onboarding-infrequent-import-subtitle = Baik Anda sedang menetap atau hanya mampir, ingatlah bahwa Anda dapat mengimpor markah, kata sandi, dan lainnya.
+onboarding-infrequent-import-primary-button = Impor ke { -brand-short-name }
