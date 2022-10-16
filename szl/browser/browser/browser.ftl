@@ -51,7 +51,7 @@ browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = Prywatne Przeglōndanie { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Przywatne przeglōndanie { -brand-full-name }
+    .data-content-title-private = { $content-title } — Prywatne przeglōndanie { -brand-full-name }
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
