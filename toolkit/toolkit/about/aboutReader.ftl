@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = تیره
     .title = طرح رنگ تیره
 about-reader-color-scheme-sepia = سیاه و سفید با تون قهوه‌ای
     .title = طرح رنگ قرمز قهوه‌ای
+about-reader-color-scheme-auto = خودکار
+    .title = شمای رنگی خودکار
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
