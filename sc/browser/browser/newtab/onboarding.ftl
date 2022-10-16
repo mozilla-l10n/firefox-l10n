@@ -391,9 +391,19 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Rispetamus semper sa riservadesa tua
 mr2022-onboarding-privacy-segmentation-subtitle = Dae cussìgios inteligentes a una chirca prus efitziente, semus semper a traballu pro creare unu { -brand-product-name } mègius e prus personale.
+mr2022-onboarding-privacy-segmentation-text-cta = Ite boles bìdere cando oferimus funtzionalidades noas chi impreant is datos tuos pro megiorare sa navigatzione?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Imprea is cussìgios de { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Ammustra informatziones detalliadas
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Nos ses agiudende a istantargiare una rete mègius
+mr2022-onboarding-gratitude-subtitle = Gràtzias de impreare { -brand-short-name }, realizadu cun s'agiudu de sa fundatzione Mozilla. Cun s'agiudu tuo, semus semper a traballu pro istantargiare un'internet prus aberta, atzessìbile e mègius pro totus.
+mr2022-onboarding-gratitude-primary-button-label = Bide is novidades
+mr2022-onboarding-gratitude-secondary-button-label = Cumintza a navigare
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Faghe comente in domo tua
+onboarding-infrequent-import-subtitle = Non faghet nudda si boles abarrare o si ses de passàgiu. Regorda chi podes importare sinnalibros, craes e meda de prus.
+onboarding-infrequent-import-primary-button = Importa dae { -brand-short-name }
