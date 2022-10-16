@@ -225,6 +225,8 @@ mr2-onboarding-start-browsing-button-label = Cumintza a navigare
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Sèbera sa lìngua tua
+mr2022-onboarding-live-language-text = { -brand-short-name } chistionat sa lìngua tua
+mr2022-language-mismatch-subtitle = Gràtzias a sa comunidade nostra, { -brand-short-name } est tradùidu a prus de 90 lìnguas. Paret chi su sistema tuo est impreende su { $systemLanguage }, e chi { -brand-short-name } est impreende su { $appLanguage }.
 onboarding-live-language-button-label-downloading = Iscarrighende su pachete de lìngua pro su { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Otenende is lìnguas a disponimentu…
 onboarding-live-language-installing = Installende su pachete de lìngua in { $negotiatedLanguage }…
@@ -296,6 +298,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Agiunghe sa navigatzione privada
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Faghe de { -brand-short-name } su navigadore tuo preferidu
 mr2022-onboarding-set-default-primary-button-label = Cunfigura { -brand-short-name } comente navigadore predefinidu
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Imprea unu navigadore realizadu dae un'organizatzione chene profetu. Amparamus sa riservadesa tua mentras arròllias in su web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -324,4 +329,7 @@ mr2022-onboarding-import-header = Cunfiguratzione ultra-lestra
 
 
 ## MR2022 Multistage Gratitude screen strings
+
+
+## Onboarding spotlight for infrequent users
 
