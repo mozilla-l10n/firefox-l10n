@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = 검색
     .aria-label = 검색
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } 검색 또는 주소 입력
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = 검색어 또는 주소 입력
     .title = 검색어 또는 주소 입력
     .aria-label = 검색어 또는 주소 입력
-
 newtab-search-box-text = 웹 검색
 newtab-search-box-input =
     .placeholder = 웹 검색
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = 바로 가기 편집
 newtab-topsites-title-label = 제목
 newtab-topsites-title-input =
     .placeholder = 제목 입력
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL 입력 또는 붙여넣기
 newtab-topsites-url-validation = 유효한 URL이 필요합니다
-
 newtab-topsites-image-url-label = 사용자 지정 이미지 URL
 newtab-topsites-use-image-link = 사용자 지정 이미지 사용…
 newtab-topsites-image-validation = 이미지를 읽어오지 못했습니다. 다른 URL을 시도하세요.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = 스폰서
 newtab-menu-section-tooltip =
     .title = 메뉴 열기
     .aria-label = 메뉴 열기
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = 삭제
     .aria-label = 삭제
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = 북마크 삭제됨
 newtab-label-recommended = 트랜드
 newtab-label-saved = { -pocket-brand-name }에 저장됨
 newtab-label-download = 다운로드됨
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · 후원
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = { $sponsor } 후원
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = { $provider } 추천
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = 탐색을 시작하면 최근 방문하거나 북마크한 좋은 글이나 영상, 페이지를 여기에 보여줍니다.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -236,11 +226,9 @@ newtab-pocket-learn-more = 더 알아보기
 newtab-pocket-cta-button = { -pocket-brand-name } 받기
 newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저장하고 재미있게 읽어 보세요.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name }은 { -brand-product-name } 제품군의 일부입니다.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name }에 저장
 newtab-pocket-saved-to-pocket = { -pocket-brand-name }에 저장
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = 더 많은 이야기 불러오기
 
@@ -251,7 +239,6 @@ newtab-pocket-last-card-title = 모두 따라 잡았습니다!
 newtab-pocket-last-card-desc = 더 많은 이야기는 나중에 다시 확인해 보세요.
 newtab-pocket-last-card-image =
     .alt = 모두 따라 잡았습니다
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = 저장
 newtab-pocket-saved = 저장됨
@@ -259,7 +246,7 @@ newtab-pocket-saved = 저장됨
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = 이런! 이 콘텐츠를 불러오는데 오류가 발생하였습니다.
+newtab-error-fallback-info = 이런! 이 콘텐츠를 불러오는데 오류가 발생했습니다.
 newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시도하세요.
 
 ## Customization Menu
