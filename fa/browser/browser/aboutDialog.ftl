@@ -23,6 +23,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } در بخش دیگر
 update-manual = به‌روزرسانی‌ها در این‌جا قابل دسترسی هستند:<label data-l10n-name="manual-link"/>
 update-unsupported = شما نمی‌توانید به‌روزرسانی‌های بیشتری را بر روی این سیستم انجام بدهید.<label data-l10n-name="unsupported-link">بیشتر بدانید</label>
 update-restarting = در حال راه‌اندازی مجدد...
+update-internal-error = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
 channel-description = در حال حاضر در کانل بروزرسانی <label data-l10n-name="current-channel"></label> هستید.
 warningDesc-version = { -brand-short-name } آزمایشی است و ممکن است ناپایدار باشد.
 aboutdialog-help-user = راهنمای { -brand-product-name }
