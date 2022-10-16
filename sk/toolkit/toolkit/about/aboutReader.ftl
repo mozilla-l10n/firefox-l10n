@@ -19,7 +19,7 @@ about-reader-color-scheme-auto = Automatická
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 about-reader-estimated-read-time =
     { $rangePlural ->
-        [one] { $range } minúty
+        [one] { $range } minúta
         [few] { $range } minúty
        *[other] { $range } minút
     }
