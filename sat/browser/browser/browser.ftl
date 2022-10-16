@@ -286,6 +286,10 @@ quickactions-downloads = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱠᱷᱩᱞᱟᱹ�
 quickactions-cmd-downloads = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱠᱚ ᱢᱮᱱᱟᱡᱽ ᱢᱮ
+quickactions-cmd-extensions = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
+# Opens the devtools web inspector
+quickactions-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+quickactions-cmd-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ, ᱰᱮᱣᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
 
 ## Bookmark Panel
 
