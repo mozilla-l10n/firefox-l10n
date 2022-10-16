@@ -306,17 +306,59 @@ mr2022-onboarding-set-default-subtitle = Imprea unu navigadore realizadu dae un'
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = S'ùrtima versione nostra est istantargiada a s'inghìriu de tue, e faghet s'arròlliu in su web fàtzile comente mai. Tenimus un'isciacu mannu de novidades chi as a adorare.
 mr2022-onboarding-get-started-primary-button-label = Cunfigura in pagu segundos
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Cunfiguratzione ultra-lestra
+mr2022-onboarding-import-subtitle = Cunfigura { -brand-short-name } comente ti pàrgiat. Agiunghe is sinnalibros, is craes e àteru dae su navigadore betzu tuo.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importa dae su navigadore anteriore tuo
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Sèbera su colore chi t'ispirat
+mr2022-onboarding-colorway-subtitle = Is boghes indipendentes podent cambiare sa cultura.
+mr2022-onboarding-colorway-primary-button-label-continue = Cunfigura e sighi
+mr2022-onboarding-existing-colorway-checkbox-label = Faghe de { -firefox-home-brand-name } una pàgina printzipale prena de colores
+mr2022-onboarding-colorway-label-default = Predefinidu
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Predefinidu
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Colores de { -brand-short-name } atuales
+mr2022-onboarding-colorway-description-default = <b>Imprea is colores de { -brand-short-name } atuales.</b>
+mr2022-onboarding-colorway-label-playmaker = Regista
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Regista
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Regista (rùbiu)
+mr2022-onboarding-colorway-description-playmaker = Creas oportunidades pro bìnchere e agiudare a chie tenes acanta a megiorare su giogu.
+mr2022-onboarding-colorway-label-expressionist = Espressionista
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Espressionista
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Espressionista (grogu)
+mr2022-onboarding-colorway-description-expressionist = Bides su mundu in una manera diversa e is creatziones tuas iscidant is emotziones de àtere.
+mr2022-onboarding-colorway-label-visionary = Bisadora
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Bisadora
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Bisadora (birde)
+mr2022-onboarding-colorway-description-visionary = Pones in duda su status quo e cumbinches is àteras persones a immaginare unu mundu mègius.
+mr2022-onboarding-colorway-label-activist = Ativista
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Ativista
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Ativista (biaitu)
+mr2022-onboarding-colorway-description-activist = Lassas su mundu che a mègius de su chi as agatadu e ghias is àteras persones a crèere in su cambiamentu.
+mr2022-onboarding-colorway-label-dreamer = Sonniadora
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Sonniadora
 
 ## MR2022 Multistage Mobile Download screen strings
 
