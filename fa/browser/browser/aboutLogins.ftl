@@ -6,21 +6,21 @@
 about-logins-page-title = ورودها و گذرواژه‌ها
 login-filter =
     .placeholder = جست‌وجو در ورودها
-create-login-button = ایجاد کردن ورود جدید
+create-login-button = ایجاد ورود جدید
 fxaccounts-sign-in-text = گذرواژه‌هایتان را دستگاه‌های دیگر خود همراه داشته باشید
-fxaccounts-sign-in-sync-button = برای همگام‌سازی وارد شوید
+fxaccounts-sign-in-sync-button = ورود برای همگام‌سازی
 fxaccounts-avatar-button =
     .title = مدیریت حساب
 
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
-    .title = باز کردن منو
+    .title = گشودن فهرست
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = وارد کردن از یک مرورگر دیگر…
-about-logins-menu-menuitem-import-from-a-file = افزودن از طریق یک پرونده…
+about-logins-menu-menuitem-import-from-another-browser = درون‌ریزی از مرورگری دیگر…
+about-logins-menu-menuitem-import-from-a-file = درون‌ریزی از یک پرونده…
 about-logins-menu-menuitem-export-logins = برون‌ریزی ورودها…
-about-logins-menu-menuitem-remove-all-logins = حذف تمامی ورودها…
+about-logins-menu-menuitem-remove-all-logins = برداشتن تمامی ورودها…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] گزینه‌ها
@@ -37,11 +37,11 @@ login-list-count =
         [one] { $count } ورود
        *[other] { $count } ورود
     }
-login-list-sort-label-text = مرتب کردن بر اساس:
-login-list-name-option = نام (A-Z)
-login-list-name-reverse-option = نام (A-Z)
-login-list-username-option = نام کاربری (A-Z)
-login-list-username-reverse-option = نام کاربری (Z-A)
+login-list-sort-label-text = چیدن بر اساس:
+login-list-name-option = نام (آ-ی)
+login-list-name-reverse-option = نام (ی-آ)
+login-list-username-option = نام کاربری (آ-ی)
+login-list-username-reverse-option = نام کاربری (ی-آ)
 about-logins-login-list-alerts-option = هشدارها
 login-list-last-changed-option = آخرین تغییر
 login-list-last-used-option = آخرین استفاده
@@ -53,11 +53,11 @@ login-list-item-title-new-login = ورود جدید
 login-list-item-subtitle-new-login = اطلاعات ورود خود را وارد کنید
 login-list-item-subtitle-missing-username = (بدون نام‌کاربری)
 about-logins-list-item-breach-icon =
-    .title = وب‌سایت هک شده
+    .title = پایگاه لو رفته
 about-logins-list-item-vulnerable-password-icon =
-    .title = رمز عبور آسیب پذیر
-about-logins-list-section-breach = وب‌سایت‌های هک شده
-about-logins-list-section-vulnerable = گذرواژه‌های ناامن
+    .title = گذرواژهٔ آسیب‌پذیر
+about-logins-list-section-breach = پایگاه‌های لو رفته
+about-logins-list-section-vulnerable = گذرواژه‌های آسیب‌پذیر
 about-logins-list-section-nothing = هیچ هشداری وجود ندارد
 about-logins-list-section-today = امروز
 about-logins-list-section-yesterday = دیروز
@@ -79,7 +79,7 @@ about-logins-intro-import2 = اگر ورودهای شما خارج از { -brand
 login-item-new-login-title = ایجاد اطلاعات ورود جدید
 login-item-edit-button = ویرایش
 about-logins-login-item-remove-button = حذف
-login-item-origin-label = آدرس پایگاه
+login-item-origin-label = نشانی پایگاه
 login-item-tooltip-message = مطمئن شوید که این آدرس با آدرس دقیق وب سایتی که در آن وارد شده‌اید مطابقت دارد.
 login-item-origin =
     .placeholder = https://www.example.com

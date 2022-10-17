@@ -94,29 +94,29 @@ main-context-menu-bookmark-add =
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
-    .label = نشانک‌گذاری صفحه
-    .accesskey = ن
+    .label = نشانه‌گذاری صفحه
+    .accesskey = ش
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
     .label = ویرایش نشانک
-    .accesskey = و
+    .accesskey = ن
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = نشانک‌گذاری این صفحه
-    .accesskey = m
-    .tooltiptext = نشانک‌گذاری این صفحه({ $shortcut })
+    .aria-label = نشانه‌گذاری این صفحه
+    .accesskey = ش
+    .tooltiptext = نشانه‌گذاری این صفحه ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = ویرایش این نشانک
-    .accesskey = m
+    .accesskey = ن
     .tooltiptext = ویرایش این نشانک
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
     .aria-label = ویرایش این نشانک
-    .accesskey = m
+    .accesskey = ن
     .tooltiptext = ویرایش این نشانک ({ $shortcut })
 main-context-menu-open-link =
     .label = باز کردن پیوند
