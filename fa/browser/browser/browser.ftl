@@ -257,6 +257,13 @@ quickactions-settings = گشودن تنظیمات
 quickactions-cmd-settings = تنظیمات، ترجیحات، گزینه‌ها
 # Opens about:addons page in the themes section
 quickactions-themes = مدیریت زمینه‌ها
+quickactions-cmd-themes = زمینه‌ها
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = به‌روز رسانی { -brand-short-name }
+quickactions-cmd-update = به‌روز رسانی
+# Opens the view-source UI with current pages source
+quickactions-viewsource = مشاهده منبع
+quickactions-cmd-viewsource = مشاهده منبع، منبع
 
 ## Bookmark Panel
 
@@ -473,6 +480,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = عبارت جست‌وجو را وارد کنید
     .aria-label = جست‌وجو زبانه‌ها
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = عبارات جست‌وجو را وارد کنید
+    .aria-label = اقدامات جست‌وجو
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -548,6 +559,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = جست‌وجو نشانک‌ها
 urlbar-result-action-search-history = جست‌وجو تاریخچه
 urlbar-result-action-search-tabs = جست‌وجو زبانه‌ها
+urlbar-result-action-search-actions = اقدامات جست‌وجو
 
 ## Labels shown above groups of urlbar results
 
@@ -837,3 +849,6 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = افزونه‌ها
+    .tooltiptext = افزونه‌ها
