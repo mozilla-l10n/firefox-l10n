@@ -75,8 +75,8 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "sentence") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
 
 ## Save Page
 
@@ -172,8 +172,8 @@ main-context-menu-bookmark-link-2 =
     .label = نشانه‌گذاری پیوند…
     .accesskey = ن
 main-context-menu-save-link =
-    .label = ذخیرهٔ پیوند به نام…
-    .accesskey = پ
+    .label = ذخیرهٔ پیوند به عنوان…
+    .accesskey = ع
 main-context-menu-save-link-to-pocket =
     .label = ذخیره پیوند در { -pocket-brand-name }
     .accesskey = o
