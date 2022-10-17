@@ -19,8 +19,8 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = جست‌وجو با { $engine } یا یک آدرس وارد کنید
 about-private-browsing-handoff-text-no-engine = متنی برای جست‌وجو یا یک آدرس وارد کنید
 about-private-browsing-not-private = شما در حال حاضر در یک پنجرهٔ ناشناس نیستید.
-about-private-browsing-info-description-private-window = پنجره ناشناس: { -brand-short-name } تاریخچهٔ جستجو و مرور شما را بعد از بستن تمام پنجره‌های ناشناس حذف می‌کند. این کار شما را غیرقابل شناسایی نخواهد کرد.
-about-private-browsing-info-description-simplified = وقتی تمام پنجره‌های ناشناس را می‌بندید، { -brand-short-name } تاریخچهٔ جستجو و مرور شما را پاک می‌کند، اما این‌ها به تنهایی شما را ناشناس نمی‌کند.
+about-private-browsing-info-description-private-window = پنجره ناشناس: { -brand-short-name } تاریخچهٔ جست‌وجو و مرور شما را بعد از بستن تمام پنجره‌های ناشناس پاک می‌کند. این کار شما را ناشناس نمی‌کند.
+about-private-browsing-info-description-simplified = وقتی تمام پنجره‌های ناشناس را می‌بندید، { -brand-short-name } تاریخچهٔ جست‌وجو و مرور شما را پاک می‌کند، اما این کار شما را ناشناس نمی‌کند.
 about-private-browsing-learn-more-link = بیشتر بدانید
 about-private-browsing-hide-activity = فعالیت‌ها و مکان خود را در هر جایی که مرور می‌کنید پنهان کنید
 about-private-browsing-get-privacy = در هر جایی که اینترنت را مرور می‌کنید، از حریم خصوصی خود محافظت کنید
@@ -30,6 +30,7 @@ about-private-browsing-focus-promo-cta = بارگیری { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-text-b = از { -focus-brand-name } برای جست‌وجوهای ناشناسی که نمی‌خواهید مرورگر اصلی تلفن همراهتان ببیند، استفاده کنید.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

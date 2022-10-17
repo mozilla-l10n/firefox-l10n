@@ -180,7 +180,7 @@ full-screen-exit =
 # the Urlbar and searchbar.
 search-one-offs-with-title = جست‌وجو با:
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = تغییر تنظیمات جستجو
+    .tooltiptext = تغییر تنظیمات جست‌وجو
 search-one-offs-context-open-new-tab =
     .label = جست‌وجو در زبانه جدید
     .accesskey = ز
