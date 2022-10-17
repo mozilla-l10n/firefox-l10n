@@ -87,14 +87,14 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = نشانه‌گذاری این صفحه
+    .aria-label = نشانک‌گذاری این صفحه
     .accesskey = ش
-    .tooltiptext = نشانه‌گذاری این صفحه
+    .tooltiptext = نشانک‌گذاری این صفحه
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
-    .label = نشانه‌گذاری صفحه
+    .label = نشانک‌گذاری صفحه
     .accesskey = ش
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
@@ -105,9 +105,9 @@ main-context-menu-bookmark-edit-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = نشانه‌گذاری این صفحه
+    .aria-label = نشانک‌گذاری این صفحه
     .accesskey = ش
-    .tooltiptext = نشانه‌گذاری این صفحه ({ $shortcut })
+    .tooltiptext = نشانک‌گذاری این صفحه ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = ویرایش این نشانک
     .accesskey = ن
@@ -119,14 +119,14 @@ main-context-menu-bookmark-change-with-shortcut =
     .accesskey = ن
     .tooltiptext = ویرایش این نشانک ({ $shortcut })
 main-context-menu-bookmark-page =
-    .aria-label = نشانه‌گذاری صفحه…
+    .aria-label = نشانک‌گذاری صفحه…
     .accesskey = ن
-    .tooltiptext = نشانه‌گذاری صفحه
+    .tooltiptext = نشانک‌گذاری صفحه
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-page-mac =
-    .label = نشانه‌گذاری صفحه…
+    .label = نشانک‌گذاری صفحه…
     .accesskey = ن
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
@@ -137,9 +137,9 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
-    .aria-label = نشانه‌گذاری صفحه…
+    .aria-label = نشانک‌گذاری صفحه…
     .accesskey = ن
-    .tooltiptext = نشانه‌گذاری صفحه ({ $shortcut })
+    .tooltiptext = نشانک‌گذاری صفحه ({ $shortcut })
 main-context-menu-edit-bookmark =
     .aria-label = ویرایش نشانک…
     .accesskey = ن
@@ -166,10 +166,10 @@ main-context-menu-open-link-new-private-window =
     .label = گشودن پیوند در پنجرهٔ ناشناس جدید
     .accesskey = ن
 main-context-menu-bookmark-link =
-    .label = نشانه‌گذاری پیوند
+    .label = نشانک‌گذاری پیوند
     .accesskey = ن
 main-context-menu-bookmark-link-2 =
-    .label = نشانه‌گذاری پیوند…
+    .label = نشانک‌گذاری پیوند…
     .accesskey = ن
 main-context-menu-save-link =
     .label = ذخیرهٔ پیوند به عنوان…
@@ -183,10 +183,10 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = رونوشت برداشتن از نشانی پست الکترونیکی
-    .accesskey = پ
+    .label = رونوشت از نشانی رایانامه
+    .accesskey = ر
 main-context-menu-copy-phone =
-    .label = رونوشت شماره تلفن
+    .label = رونوشت از شمارهٔ تلفن
     .accesskey = ف
 main-context-menu-copy-link-simple =
     .label = رونوشت از پیوند

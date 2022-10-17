@@ -34,6 +34,15 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = نشانک‌گذاری این زبانه…
     .accesskey = ن
+synced-tabs-context-open-in-tab =
+    .label = گشودن در زبانهٔ جدید
+    .accesskey = گ
+synced-tabs-context-open-in-container-tab =
+    .label = گشودن در محفظهٔ جدید
+    .accesskey = ش
+synced-tabs-context-open-in-window =
+    .label = گشودن در پنجرهٔ جدید
+    .accesskey = و
 
 ##
 
