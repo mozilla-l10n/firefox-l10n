@@ -76,9 +76,9 @@ about-logins-intro-import2 = اگر ورودهای شما خارج از { -brand
 
 ## Login
 
-login-item-new-login-title = ایجاد اطلاعات ورود جدید
+login-item-new-login-title = ایجاد ورود جدید
 login-item-edit-button = ویرایش
-about-logins-login-item-remove-button = حذف
+about-logins-login-item-remove-button = برداشتن
 login-item-origin-label = نشانی پایگاه
 login-item-tooltip-message = مطمئن شوید که این آدرس با آدرس دقیق وب سایتی که در آن وارد شده‌اید مطابقت دارد.
 login-item-origin =
@@ -95,7 +95,7 @@ login-item-copy-password-button-text = رونوشت
 login-item-copied-password-button-text = رونوشت شد!
 login-item-save-changes-button = ذخیره تغییرات
 login-item-save-new-button = ذخیره
-login-item-cancel-button = انصراف
+login-item-cancel-button = لغو
 login-item-time-changed = آخرین تغییر: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = تاریخ ایجاد: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = آخرین استفاده: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
@@ -122,7 +122,7 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = نمایش گذرو
 about-logins-copy-password-os-auth-dialog-message-win = برای رونوشت از گذرواژه خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-copy-password-os-auth-dialog-message-macosx = کپی رمز عبور ذخیره شده
+about-logins-copy-password-os-auth-dialog-message-macosx = رونوشت از گذرواژهٔ ذخیره شده
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = برای برون‌ریزی گذرواژه‌های خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to export a password in about:logins
@@ -143,17 +143,17 @@ confirmation-dialog-dismiss-button =
     .title = انصراف
 about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
-about-logins-confirm-remove-dialog-confirm-button = حذف
+about-logins-confirm-remove-dialog-confirm-button = برداشتن
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
-        [1] حذف
-        [one] حذف همه
-       *[other] حذف همه
+        [1] برداشتن
+        [one] برداشتن
+       *[other] برداشتن همه
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
-        [1] بله، این ورودها را حذف کن
-       *[other] بله، این ورودها را حذف کن
+        [1] بله، این ورود را بردار
+       *[other] بله، این ورودها را بردار
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
