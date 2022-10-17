@@ -27,10 +27,15 @@ about-private-browsing-get-privacy = در هر جایی که اینترنت را
 about-private-browsing-hide-activity-1 = فعالیت مرور و مکان خود را با { -mozilla-vpn-brand-name } مخفی کنید. با یک کلیک، حتی در وای‌فای‌های عمومی، یک اتصال ایمن داشته باشید.
 about-private-browsing-prominent-cta = با { -mozilla-vpn-brand-name } ناشناس بمانید
 about-private-browsing-focus-promo-cta = بارگیری { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: مرور محرمانه در مسیر
+about-private-browsing-focus-promo-text = کارهٔ همراه مرور محرمانهٔ ویژه‌مان هر بار پیشینه و کوکی‌هایتان را پاک می کند.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = مرور محرمانه را به تلفنتان ببرید
 about-private-browsing-focus-promo-text-b = از { -focus-brand-name } برای جست‌وجوهای ناشناسی که نمی‌خواهید مرورگر اصلی تلفن همراهتان ببیند، استفاده کنید.
+about-private-browsing-focus-promo-header-c = گام بعدی محرمانگی در تلفن همراه
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } در عین مسدود کردن تبلیغات و ردیاب‌ها، هر بار سابقه‌تان را را پاک می‌کند.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,3 +53,10 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = آزادی مرور محرمانه با یک کلیک
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] نگه داشتن در داک
+       *[other] سنجاق به نوار وظیفه
+    }
+about-private-browsing-pin-promo-title = بدون ذخیرهٔ کوکی یا پیشینه، درست از میزکارتان. آن گونه مرور کنید که گویا هیچ‌کس نمی‌بیند.

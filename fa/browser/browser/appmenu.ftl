@@ -6,13 +6,13 @@
 ## App Menu
 
 appmenuitem-banner-update-downloading =
-    .label = در حال بارگیری به‌روز رسانی { -brand-shorter-name }
+    .label = بار گرفتن به‌روز رسانی { -brand-shorter-name }
 appmenuitem-banner-update-available =
-    .label = به‌روز رسانی موجود است — هم‌اکنون بارگیری شود
+    .label = به‌روز رسانی موجود است — اکنون بارگیری شود
 appmenuitem-banner-update-manual =
     .label = به‌روز رسانی موجود است — هم‌اکنون بارگیری شود
 appmenuitem-banner-update-unsupported =
-    .label = به‌روز رسانی امکان پذیر نیست — سیستم ناسازگار است
+    .label = تانوان در به‌روز رسانی — سامانه ناسازگار است
 appmenuitem-banner-update-restart =
     .label = به‌روز رسانی موجود است — شروع دوباره
 appmenuitem-new-tab =
@@ -68,7 +68,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = برای همگام‌سازی وارد شوید…
+    .label = ورود برای همگام‌سازی…
 appmenu-remote-tabs-turn-on-sync =
     .label = روشن کردن همگام‌سازی…
 # This is shown after the tabs list if we can display more tabs by clicking on the button
@@ -83,12 +83,12 @@ appmenu-remote-tabs-opensettings =
     .label = تنظیمات
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = می‌خواهید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟
+appmenu-remote-tabs-noclients = می‌خواهید این‌جا زبانه‌های دیگر افزاره‌هایتان را ببینید؟
 appmenu-remote-tabs-connectdevice =
-    .label = اتّصال به دستگاهی دیگر
-appmenu-remote-tabs-welcome = نمایش فهرست زبانه‌های شما در سایر دستگاه‌ها.
-appmenu-remote-tabs-unverified = حساب شما باید تأیید شود.
-appmenuitem-fxa-toolbar-sync-now2 = همین حالا همگام‌سازی کن
+    .label = وصل کردن افزاره‌ای دیگر
+appmenu-remote-tabs-welcome = نمایش سیاهه‌ای از زبانه‌های دیگر افزاره‌هایتان.
+appmenu-remote-tabs-unverified = حسابتان باید تأیید شود.
+appmenuitem-fxa-toolbar-sync-now2 = اکنون همگام شود
 appmenuitem-fxa-sign-in = ورود به { -brand-product-name }
 appmenuitem-fxa-manage-account = مدیریت حساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
