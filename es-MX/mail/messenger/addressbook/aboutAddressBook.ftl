@@ -24,6 +24,13 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Todas las libretas de direcciones
 all-address-books = Todas las libretas de direcciones
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Total de contactos en { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Total de contactos en todas las libretas de direcciones: { $count }
 about-addressbook-books-context-properties =
     .label = Propiedades
 about-addressbook-books-context-edit-list =
@@ -89,6 +96,7 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = Direcciones de correo
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Nombre de usuario
 about-addressbook-column-label-nickname =
     .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Números de teléfono
@@ -173,6 +181,15 @@ about-addressbook-placeholder-no-search-results = No se encontraron contactos
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } contactos seleccionados y listas
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } contactos seleccionados
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } listas seleccionadas
 about-addressbook-details-edit-photo =
     .title = Editar foto de contacto
 about-addressbook-new-contact-header = Nuevo contacto
@@ -206,6 +223,10 @@ about-addressbook-entry-name-role = Rol
 about-addressbook-entry-name-organization = Organización
 about-addressbook-entry-name-website = Sitio web
 about-addressbook-entry-name-time-zone = Zona horaria
+about-addressbook-entry-name-custom1 = Personalizar 1
+about-addressbook-entry-name-custom2 = Personalizar 2
+about-addressbook-entry-name-custom3 = Personalizar 3
+about-addressbook-entry-name-custom4 = Personalizar 4
 about-addressbook-unsaved-changes-prompt-title = Cambios sin guardar
 about-addressbook-unsaved-changes-prompt = ¿Deseas guardar tus cambios antes de salir de la vista de edición?
 
