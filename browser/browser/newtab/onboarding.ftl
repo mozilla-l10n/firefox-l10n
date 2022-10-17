@@ -329,10 +329,14 @@ mr2022-onboarding-existing-colorway-checkbox-label = Haz de { -firefox-home-bran
 mr2022-onboarding-colorway-label-default = Predeterminado
 mr2022-onboarding-colorway-tooltip-default =
     .title = Predeterminado
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Colores actuales de { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Usar mis colores actuales de { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Creador de jugadas
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Creador de jugadas
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Creador de jugadas (rojo)
 mr2022-onboarding-colorway-description-playmaker = <b>Eres un Creador de Jugadas.</b> Creas oportunidades para ganar y ayudas a todos los que te rodean a mejorar su juego.
 mr2022-onboarding-colorway-label-expressionist = Expresionista
 mr2022-onboarding-colorway-tooltip-expressionist =
@@ -401,4 +405,5 @@ mr2022-onboarding-gratitude-secondary-button-label = Empieza a navegar
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Siéntete como en casa
+onboarding-infrequent-import-subtitle = Ya sea que te estés instalando o simplemente pases por aquí, recuerda que puedes importar tus marcadores, contraseñas y más.
 onboarding-infrequent-import-primary-button = Importar a { -brand-short-name }
