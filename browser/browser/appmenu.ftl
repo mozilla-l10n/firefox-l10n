@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = در حال دریافت بروزرسانیِ { -brand-shorter-name }
-
 appmenuitem-banner-update-available =
     .label = بروزرسانی موجود است — هم‌اکنون دریافت کنید
-
 appmenuitem-banner-update-manual =
     .label = بروزرسانی موجود است — هم‌اکنون دریافت کنید
-
 appmenuitem-banner-update-unsupported =
     .label = بروزرسانی ممکن نبود — سیستم ناسازگار است
-
 appmenuitem-banner-update-restart =
     .label = بروزرسانی موجود است — راه‌اندازی مجدد
-
 appmenuitem-new-tab =
     .label = زبانه جدید
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = بستن منو برنامه
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = برای همگام‌سازی وارد شوید…
 appmenu-remote-tabs-turn-on-sync =
     .label = روشن کردن همگام‌سازی…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = نمایش زبانه‌های بیشتر
     .tooltiptext = نمایش زبانه‌های بیشتر از این دستگاه
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = بدون زبانهٔ باز
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = همگام‌سازی زبانه‌ها را برای نمایش فهرست زبانه‌ها در دستگاه‌های دیگر خود روشن کنید.
-
 appmenu-remote-tabs-opensettings =
     .label = تنظیمات
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = می‌خواهید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟
-
 appmenu-remote-tabs-connectdevice =
     .label = اتصال به دستگاه دیگر
 appmenu-remote-tabs-welcome = نمایش فهرست زبانه‌های شما در سایر دستگاه‌ها.
 appmenu-remote-tabs-unverified = حساب‌کاربری شما باید تایید شود.
-
 appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
 appmenuitem-fxa-sign-in = ورود به { -brand-product-name }
 appmenuitem-fxa-manage-account = مدیریت حساب
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = همگام‌سازی و ذخیرهٔ داده
 appmenu-fxa-signed-in-label = ورود
 appmenu-fxa-setup-sync =
     .label = روشن کردن همگام‌سازی…
-
 appmenuitem-save-page =
     .label = ذخیرهٔ صفحه به نام…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = تازه‌ها
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,53 +120,38 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = پروفایلر
     .tooltiptext = ضبط نمایهٔ عملکرد
-
 profiler-popup-button-recording =
     .label = پروفایلر
     .tooltiptext = پ
-
 profiler-popup-button-capturing =
     .label = پروفایلر
     .tooltiptext = پروفایلر در حال ضبط یک نمایه است
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = نمایش اطلاعات بیشتر
-
 profiler-popup-description-title =
     .value = ضبط، تجزیه و تحلیل، اشتراک گذاری
-
 profiler-popup-description = با انتشار پروفایل‌ها، در مورد مشکلات مربوط به بهینه‌سازی همکاری کنید.
-
 profiler-popup-learn-more-button =
     .label = بیشتر بدانید
-
 profiler-popup-settings =
     .value = تنظیمات
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = ویرایش تنظیمات…
-
 profiler-popup-recording-screen = ضبط…
-
 profiler-popup-start-recording-button =
     .label = شروع ضبط
-
 profiler-popup-discard-button =
     .label = دور انداختن
-
 profiler-popup-capture-button =
     .label = گرفتن
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -199,23 +169,18 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = تنظیمات پیشنهادی برای بیشتر اپ‌های وب، با سربار پایین.
 profiler-popup-presets-web-developer-label =
     .label = توسعه‌دهنده وب
-
 profiler-popup-presets-firefox-description = تنظیمات پیشنهادی برای نمایه‌سازی { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = تنظیمات مربوط به بررسی اشکالات گرافیکی در { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = گرافیک
-
 profiler-popup-presets-media-description2 = تنظیمات مربوط به بررسی اشکالات صوتی و تصویری در { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = رسانه
-
 profiler-popup-presets-networking-description = تنظیمات مربوط به بررسی اشکالات شبکه در { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = شبکه
-
 profiler-popup-presets-custom-label =
     .label = سفارشی
 
@@ -249,7 +214,10 @@ appmenu-help-more-troubleshooting-info =
     .label = اطلاعات بیشتر
     .accesskey = T
 appmenu-help-report-site-issue =
-    .label = مشکل سایت را گزارش کنید…
+    .label = گزارش مشکلات پایگاه…
+appmenu-help-share-ideas =
+    .label = هم‌رسانی ایده‌ها و بازخوردها…
+    .accesskey = س
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -259,7 +227,7 @@ appmenu-help-enter-troubleshoot-mode2 =
     .accesskey = ح
 appmenu-help-exit-troubleshoot-mode =
     .label = خاموش کردن حالت عیب‌یابی
-    .accesskey = M
+    .accesskey = ح
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -269,13 +237,12 @@ appmenu-help-report-deceptive-site =
     .accesskey = گ
 appmenu-help-not-deceptive =
     .label = این یک سایت گمراه‌کننده نیست…
-    .accesskey = d
+    .accesskey = گ
 
 ## More Tools
 
 appmenu-customizetoolbar =
     .label = سفارشی‌سازی نوار ابزار…
-
 appmenu-developer-tools-subheader = ابزارهای مرورگر
 appmenu-developer-tools-extensions =
-    .label = افزودنی‌ها برای توسعه‌دهندگان
+    .label = افزونه‌ها برای توسعه‌دهندگان
