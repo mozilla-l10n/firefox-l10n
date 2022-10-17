@@ -6,21 +6,21 @@ aboutDialog-title =
     .title = دربارهٔ { -brand-full-name }
 releaseNotes-link = امکانات جدید
 update-checkForUpdatesButton =
-    .label = بررسی برای بروزرسانی‌ها
+    .label = بررسی برای به‌روز رسانی‌ها
     .accesskey = ب
 update-updateButton =
-    .label = برای بروزرسانی { -brand-shorter-name } را مجددا راه‌اندازی کنید
-    .accesskey = R
-update-checkingForUpdates = بررسی برای بروزرسانی‌ها…
-update-downloading = <img data-l10n-name="icon"/>در حال دریافت به‌روزرسانی — <label data-l10n-name="download-status"/>
-update-downloading-message = در حال دریافت بروزرسانی — <label data-l10n-name="download-status"/>
-update-applying = اعمال به‌‌روزرسانی…
-update-failed = به‌روزرسانی ناموفق بود. <label data-l10n-name="failed-link">آخرین نسخه را دانلود کنید</label>
-update-failed-main = به‌روزرسانی ناموفق بود. <a data-l10n-name="failed-link-main">آخرین نسخه را دانلود کنید</a>
-update-adminDisabled = مدیر سیستم‌ شما به‌روزرسانی‌ها را غیرفعال کرده است.
+    .label = برای به‌روز رسانی { -brand-shorter-name }، دوباره اجرایش کنید
+    .accesskey = ج
+update-checkingForUpdates = بررسی برای به‌روز رسانی‌ها…
+update-downloading = <img data-l10n-name="icon"/>بار گرفتن به‌روز رسانی — <label data-l10n-name="download-status"/>
+update-downloading-message = بار گرفتن به‌روز رسانی — <label data-l10n-name="download-status"/>
+update-applying = اعمال کردن به‌‌روز رسانی…
+update-failed = به‌روزرسانی شکست خورد. <label data-l10n-name="failed-link">جدیدترین نگارش را بارگیری کنید</label>
+update-failed-main = به‌روزرسانی شکست خورد. <a data-l10n-name="failed-link-main">جدیدترین نگارش را بارگیری کنید</a>
+update-adminDisabled = مدیر سامانه‌تان به‌روز رسانی‌ها را از کار انداخته
 update-noUpdatesFound = { -brand-short-name } به‌روز است
-update-otherInstanceHandlingUpdates = { -brand-short-name } در بخش دیگری از برنامه در حال به‌روزرسانی است.
-update-manual = به‌روزرسانی‌ها در این‌جا قابل دسترسی هستند:<label data-l10n-name="manual-link"/>
+update-otherInstanceHandlingUpdates = { -brand-short-name } دارد از نمونهٔ دیگری به‌روز می‌شود
+update-manual = به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
 update-unsupported = شما نمی‌توانید به‌روزرسانی‌های بیشتری را بر روی این سیستم انجام بدهید.<label data-l10n-name="unsupported-link">بیشتر بدانید</label>
 update-restarting = در حال راه‌اندازی مجدد...
 update-internal-error = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <label data-l10n-name="manual-link"/> موجودند
