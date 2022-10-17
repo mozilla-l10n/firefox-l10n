@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — شاخص اشتراک‌گذاری
 webrtc-indicator-window =
     .title = { -brand-short-name } — شاخص اشتراک‌گذاری
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = شما دوربین خود را به اشتراک گذاشته‌اید. برای کنترل اشتراک‌گذاری کلیک کنید.
 webrtc-microphone-system-menu =
@@ -208,6 +203,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = همیشه مسدود شود
     .accesskey = w
+webrtc-action-not-now =
+    .label = اکنون نه
+    .accesskey = ا
 
 ##
 
