@@ -15,23 +15,28 @@ toolbox-meatball-menu-dock-bottom-label = Астына бекіту
 toolbox-meatball-menu-dock-left-label = Солға бекіту
 toolbox-meatball-menu-dock-right-label = Оңға бекіту
 toolbox-meatball-menu-dock-separate-window-label = Бөлек терезе
-
 toolbox-meatball-menu-splitconsole-label = Бөлінген консольді көрсету
 toolbox-meatball-menu-hideconsole-label = Бөлінген консольді жасыру
-
 toolbox-meatball-menu-settings-label = Баптаулар
 toolbox-meatball-menu-documentation-label = Құжаттама…
 toolbox-meatball-menu-community-label = Қоғамдастық…
-
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = "Атып шығатын" терезелерді автожасыруды сөндіру
-
 toolbox-meatball-menu-pseudo-locale-accented = "accented" локалін іске қосу
 toolbox-meatball-menu-pseudo-locale-bidi = "bidi" локалін іске қосу
 
 ##
 
+
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Браузер құралдарының режимі
+toolbox-mode-browser-console-label = Браузер консолінің режимі
+toolbox-mode-everything-label = Көппроцессті
+toolbox-mode-everything-sub-label = (Баяулау)
+toolbox-mode-everything-container =
+    .title = Барлық процестерде барлығын жөндеу
+toolbox-mode-parent-process-label = Тек аталық процесс
+toolbox-mode-parent-process-sub-label = (Жылдам)
