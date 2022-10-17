@@ -31,9 +31,9 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = جلو رفتن به یک صفحه بعد ({ $shortcut })
-    .aria-label = جلو
-    .accesskey = F
+    .tooltiptext = جلو رفتن به صفحهٔ بعد ({ $shortcut })
+    .aria-label = جلو رفتن
+    .accesskey = ج
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = جلو
