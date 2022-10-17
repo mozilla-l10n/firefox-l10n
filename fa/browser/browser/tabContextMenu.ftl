@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = نشانک‌گذاری زبانه
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = نشانک‌گذاری زبانه…
+    .accesskey = ن
 tab-context-open-in-new-container-tab =
     .label = باز کردن در محفظهٔ جدید
     .accesskey = ک
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] جابجایی زبانه‌ها
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
