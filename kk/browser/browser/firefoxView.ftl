@@ -57,6 +57,7 @@ firefoxview-pickup-tabs-badge = Соңғы белсенді
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } жаңа бетте ашу
 firefoxview-try-colorways-button = Түстер схемаларын қолданып көріңіз
+firefoxview-change-colorway-button = Түстер схемасын өзгерту
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
