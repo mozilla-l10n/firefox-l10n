@@ -376,6 +376,9 @@ import-from-clip = Panodan bazı anahtarları içe aktarmak istiyor musunuz?
 import-from-url = Ortak anahtarı bu adresten indir:
 copy-to-clipbrd-failed = Seçilen anahtar(lar) panoya kopyalanamadı.
 copy-to-clipbrd-ok = Anahtar(lar) panoya kopyalandı
+delete-pub-key =
+    ‘{ $userId }’
+    ortak anahtarını silmek istiyor musunuz?
 delete-selected-pub-key = Ortak anahtarları silmek istiyor musunuz?
 refresh-all-question = Herhangi bir anahtar seçmediniz. TÜM anahtarları yenilemek ister misiniz?
 key-man-button-export-sec-key = &Gizli anahtarları dışa aktar
@@ -426,6 +429,11 @@ delete-key-title = OpenPGP anahtarını sil
 delete-external-key-title = Harici GnuPG anahtarını çıkar
 delete-external-key-description = Bu harici GnuPG anahtar kimliğini kaldırmak istiyor musunuz?
 key-in-use-title = Şu anda kullanılan OpenPGP anahtarı
+delete-key-in-use-description = Devam edilemiyor! Silmek için seçtiğiniz anahtar şu anda bu kimlik tarafından kullanılıyor. Farklı bir anahtar seçip ya da hiçbirini seçip tekrar deneyin.
+revoke-key-in-use-description = Devam edilemiyor! İptal için seçtiğiniz anahtar şu anda bu kimlik tarafından kullanılıyor. Farklı bir anahtar seçip ya da hiçbirini seçip tekrar deneyin.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = ‘{ $keySpec }’ e-posta adresi, anahtarlığınızdaki bir anahtarla eşleştirilemez.
+key-error-key-id-not-found = Yapılandırılan anahtar kimliği ‘{ $keySpec }’ anahtarlığınızda bulunamadı.
 key-error-not-accepted-as-personal = '{ $keySpec }' kimliğine sahip anahtarın kişisel anahtarınız olduğunu doğrulamadınız.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Seçtiğiniz işlev çevrimdışı modda kullanılamaz. Lütfen çevrimiçi olun ve tekrar deneyin.
