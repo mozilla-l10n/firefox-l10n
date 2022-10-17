@@ -150,9 +150,12 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = رونوشت برداشتن از نشانی پست الکترونیکی
     .accesskey = پ
+main-context-menu-copy-phone =
+    .label = رونوشت شماره تلفن
+    .accesskey = ف
 main-context-menu-copy-link-simple =
     .label = رونوشت از پیوند
-    .accesskey = L
+    .accesskey = پ
 
 ## Media (video/audio) controls
 ##
@@ -165,7 +168,7 @@ main-context-menu-media-play =
     .accesskey = پ
 main-context-menu-media-pause =
     .label = مکث
-    .accesskey = P
+    .accesskey = ک
 
 ##
 
@@ -177,7 +180,7 @@ main-context-menu-media-unmute =
     .accesskey = و
 main-context-menu-media-play-speed-2 =
     .label = سرعت
-    .accesskey = d
+    .accesskey = س
 main-context-menu-media-play-speed-slow-2 =
     .label = 0.5×
 main-context-menu-media-play-speed-normal-2 =
@@ -190,17 +193,17 @@ main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
 main-context-menu-media-loop =
     .label = حلقه‌
-    .accesskey = ح
+    .accesskey = ل
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
     .label = نمایش کنترل‌ها
-    .accesskey = ن
+    .accesskey = ک
 main-context-menu-media-hide-controls =
     .label = پنهان‌سازی کنترل‌ها
-    .accesskey = پ
+    .accesskey = ک
 
 ##
 
@@ -208,31 +211,31 @@ main-context-menu-media-video-fullscreen =
     .label = تمام‌صفحه
     .accesskey = ت
 main-context-menu-media-video-leave-fullscreen =
-    .label = خروج از حالت تمام‌صفحه
+    .label = خروج از تمام‌صفحه
     .accesskey = ت
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = تماشا در حالت تصویر در تصویر
-    .accesskey = u
+    .accesskey = ص
 main-context-menu-image-reload =
-    .label = بازآوری تصویر
-    .accesskey = ب
+    .label = بارگزاری مجدد تصویر
+    .accesskey = گ
 main-context-menu-image-view-new-tab =
-    .label = باز کردن تصویر در زبانهٔ جدید
-    .accesskey = I
+    .label = گشودن تصویر در زبانهٔ جدید
+    .accesskey = ز
 main-context-menu-video-view-new-tab =
-    .label = باز کردن ویدئو در زبانهٔ جدید
-    .accesskey = i
+    .label = گشودن ویدیو در زبانهٔ جدید
+    .accesskey = و
 main-context-menu-image-copy =
     .label = رونوشت برداشتن از تصویر
     .accesskey = ت
 main-context-menu-image-copy-link =
     .label = رونوشت از پیوند تصویر
-    .accesskey = o
+    .accesskey = ر
 main-context-menu-video-copy-link =
-    .label = رونوشت از پیوند ویدئو
-    .accesskey = o
+    .label = رونوشت از پیوند ویدیو
+    .accesskey = ر
 main-context-menu-audio-copy-link =
     .label = رونوشت از پیوند صوت
     .accesskey = o
