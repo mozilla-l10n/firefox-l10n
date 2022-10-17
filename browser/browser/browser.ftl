@@ -236,6 +236,27 @@ quickactions-logins = مشاهده وروده ها
 quickactions-cmd-logins = ورودها، گذرواژه‌ها
 # Opens about:addons page in the plugins section
 quickactions-plugins = مدیریت افزایه‌ها
+quickactions-cmd-plugins = افزایه‌ها
+# Opens the print dialog
+quickactions-print = چاپ
+quickactions-cmd-print = چاپ
+# Opens a new private browsing window
+quickactions-private = گشودن پنجرهٔ مرور ناشناس
+quickactions-cmd-private = مرور ناشناس
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = نوسازی { -brand-short-name }
+quickactions-cmd-refresh = نوسازی
+# Restarts the browser
+quickactions-restart = راه‌اندازی دوبارهٔ { -brand-short-name }
+quickactions-cmd-restart = راه اندازی دوباره
+# Opens the screenshot tool
+quickactions-screenshot2 = گرفتن نماگرفت
+quickactions-cmd-screenshot = نماگرفت
+# Opens about:preferences
+quickactions-settings = گشودن تنظیمات
+quickactions-cmd-settings = تنظیمات، ترجیحات، گزینه‌ها
+# Opens about:addons page in the themes section
+quickactions-themes = مدیریت زمینه‌ها
 
 ## Bookmark Panel
 
