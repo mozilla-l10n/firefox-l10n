@@ -118,11 +118,43 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = ویرایش این نشانک
     .accesskey = ن
     .tooltiptext = ویرایش این نشانک ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = نشانه‌گذاری صفحه…
+    .accesskey = ن
+    .tooltiptext = نشانه‌گذاری صفحه
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = نشانه‌گذاری صفحه…
+    .accesskey = ن
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = ویرایش نشانک…
+    .accesskey = ن
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = نشانه‌گذاری صفحه…
+    .accesskey = ن
+    .tooltiptext = نشانه‌گذاری صفحه ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = ویرایش نشانک…
+    .accesskey = ن
+    .tooltiptext = ویرایش نشانک
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = ویرایش نشانک…
+    .accesskey = ن
+    .tooltiptext = ویرایش نشانک ({ $shortcut })
 main-context-menu-open-link =
-    .label = باز کردن پیوند
-    .accesskey = ب
+    .label = گشودن پیوند
+    .accesskey = گ
 main-context-menu-open-link-new-tab =
-    .label = باز کردن پیوند در زبانه جدید
+    .label = گشودن پیوند در زبانهٔ جدید
     .accesskey = ز
 main-context-menu-open-link-container-tab =
     .label = باز کردن پیوند در زبانه حامل جدید
