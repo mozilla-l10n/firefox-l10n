@@ -29,7 +29,7 @@ category-general =
 pane-home-title = خانه
 category-home =
     .tooltiptext = { pane-home-title }
-pane-search-title = جستجو
+pane-search-title = جست‌وجو
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = حریم‌خصوصی و امنیت
@@ -82,7 +82,7 @@ extension-controlled-enable = برای فعال کردن این افزایه ب�
 
 ## Preferences UI Search Results
 
-search-results-header = نتایج جستجو
+search-results-header = نتایج جست‌وجو
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = متاسفیم! هیچ نتیجه‌ای در تنظیمات برای «<span data-l10n-name="query"></span>» وجود ندارد.
 search-results-help-link = نیاز به راهنمایی دارید؟ از <a data-l10n-name="url">پشتیبانی { -brand-short-name }</a> دیدن کنید
