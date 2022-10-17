@@ -208,11 +208,11 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = قطع صدا
-    .accesskey = ق
+    .label = خموش
+    .accesskey = خ
 main-context-menu-media-unmute =
-    .label = وصل صدا
-    .accesskey = و
+    .label = ناخموش
+    .accesskey = خ
 main-context-menu-media-play-speed-2 =
     .label = سرعت
     .accesskey = س
