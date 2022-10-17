@@ -141,12 +141,15 @@ newtab-empty-section-topstories = ທ່ານໄດ້ອ່ານເລື່�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = ລອງໃຫມ່ອີກຄັ້ງ
+newtab-discovery-empty-section-topstories-loading = ກຳລັງໂຫລດ…
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ຫົວຂໍ້ຍອດນິຍົມ:
 newtab-pocket-more-recommendations = ຂໍ້ແນະນໍາເພີ່ມເຕີມ
+newtab-pocket-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 newtab-pocket-cta-button = ຮັບ { -pocket-brand-name }
 newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ່ທ່ານຮັກໃນ { -pocket-brand-name }, ແລະນ້ໍາໃຈຂອງທ່ານກັບອ່ານທີ່ຫນ້າສົນໃຈ.
 
@@ -162,3 +165,4 @@ newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອ�
 
 ## Customization Menu
 
+newtab-custom-close-button = ປິດ
