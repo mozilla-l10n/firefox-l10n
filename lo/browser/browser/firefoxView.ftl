@@ -9,3 +9,4 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = ມື້ກີ້ນີ້
 firefoxview-tabpickup-network-offline-primarybutton = ລອງໃໝ່ອີກຄັ້ງ
 firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກຄັ້ງ
+firefoxview-mobile-confirmation-header = 🎉 ດີຫຼາຍ!
