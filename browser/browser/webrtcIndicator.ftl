@@ -185,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture = Caniatáu i { $origin } wrando ar 
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Caniatáu i { $origin } roi caniatâd i { $thirdParty } wrando ar sain y tab hwn?
 webrtc-allow-share-camera-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } at eich camera?
 webrtc-allow-share-microphone-unsafe-delegations = Caniatáu i { $origin } roi mynediad i { $thirdParty } i'ch meicroffon?
 webrtc-allow-share-screen-unsafe-delegation = Caniatáu i { $origin } roi caniatâd i { $thirdParty } weld eich sgrin?

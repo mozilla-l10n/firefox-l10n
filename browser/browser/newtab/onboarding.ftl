@@ -400,3 +400,9 @@ mr2022-onboarding-gratitude-title = Rydych chi'n ein helpu ni i adeiladu gwe wel
 mr2022-onboarding-gratitude-subtitle = Diolch am ddefnyddio { -brand-short-name }, gyda chefnogaeth y Mozilla Foundation. Gyda'ch cefnogaeth chi, rydyn ni'n gweithio i wneud y rhyngrwyd yn fwy agored, hygyrch, ac yn well i bawb.
 mr2022-onboarding-gratitude-primary-button-label = Gweld beth sy'n newydd
 mr2022-onboarding-gratitude-secondary-button-label = Cychwyn pori
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Gwnewch eich hun yn gartrefol
+onboarding-infrequent-import-subtitle = P'un ai rydych yn ymgartrefu neu'n galw heibio, cofiwch y gallwch chi fewnforio eich nodau tudalen, cyfrineiriau a mwy.
+onboarding-infrequent-import-primary-button = Mewnforio i { -brand-short-name }
