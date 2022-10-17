@@ -6,21 +6,21 @@
 ## App Menu
 
 appmenuitem-banner-update-downloading =
-    .label = در حال دریافت بروزرسانیِ { -brand-shorter-name }
+    .label = در حال بارگیری به‌روز رسانی { -brand-shorter-name }
 appmenuitem-banner-update-available =
-    .label = بروزرسانی موجود است — هم‌اکنون دریافت کنید
+    .label = به‌روز رسانی موجود است — هم‌اکنون بارگیری شود
 appmenuitem-banner-update-manual =
-    .label = بروزرسانی موجود است — هم‌اکنون دریافت کنید
+    .label = به‌روز رسانی موجود است — هم‌اکنون بارگیری شود
 appmenuitem-banner-update-unsupported =
-    .label = بروزرسانی ممکن نبود — سیستم ناسازگار است
+    .label = به‌روز رسانی امکان پذیر نیست — سیستم ناسازگار است
 appmenuitem-banner-update-restart =
-    .label = بروزرسانی موجود است — راه‌اندازی مجدد
+    .label = به‌روز رسانی موجود است — شروع دوباره
 appmenuitem-new-tab =
-    .label = زبانه جدید
+    .label = زبانهٔ جدید
 appmenuitem-new-window =
-    .label = پنجره جدید‌
+    .label = پنجرهٔ جدید
 appmenuitem-new-private-window =
-    .label = پنجره ناشناس جدید
+    .label = پنجرهٔ ناشناس جدید
 appmenuitem-history =
     .label = تاریخچه
 appmenuitem-downloads =
@@ -28,13 +28,13 @@ appmenuitem-downloads =
 appmenuitem-passwords =
     .label = گذرواژه‌ها
 appmenuitem-addons-and-themes =
-    .label = افزونه‌ها و تم‌ها
+    .label = افزایه‌ها و زمینه‌ها
 appmenuitem-print =
     .label = چاپ...
 appmenuitem-find-in-page =
-    .label = پیداکردن در صفحه…
+    .label = یافتن در صفحه…
 appmenuitem-zoom =
-    .value = زوم
+    .value = بزرگ‌نمایی
 appmenuitem-more-tools =
     .label = ابزارهای بیشتر
 appmenuitem-help =
@@ -46,7 +46,7 @@ appmenuitem-exit2 =
            *[other] خروج
         }
 appmenu-menu-button-closed2 =
-    .tooltiptext = باز کردن منو برنامه
+    .tooltiptext = گشودن منو برنامه
     .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
     .tooltiptext = بستن منو برنامه
@@ -85,7 +85,7 @@ appmenu-remote-tabs-opensettings =
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = می‌خواهید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟
 appmenu-remote-tabs-connectdevice =
-    .label = اتصال به دستگاه دیگر
+    .label = اتّصال به دستگاهی دیگر
 appmenu-remote-tabs-welcome = نمایش فهرست زبانه‌های شما در سایر دستگاه‌ها.
 appmenu-remote-tabs-unverified = حساب‌کاربری شما باید تایید شود.
 appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
