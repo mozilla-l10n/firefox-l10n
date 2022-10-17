@@ -36,8 +36,8 @@ main-context-menu-forward-2 =
     .accesskey = ج
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
-    .label = جلو
-    .accesskey = F
+    .label = جلو رفتن
+    .accesskey = ج
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -46,12 +46,12 @@ toolbar-button-forward-2 =
 ## Reload
 
 main-context-menu-reload =
-    .aria-label = بارگیری مجدد
-    .accesskey = R
+    .aria-label = بارگزاری مجدد
+    .accesskey = م
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
-    .label = بارگیری مجدد
-    .accesskey = R
+    .label = بارگزاری مجدد
+    .accesskey = م
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -59,11 +59,11 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = توقف
-    .accesskey = S
+    .accesskey = ق
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = توقف
-    .accesskey = S
+    .accesskey = ق
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -75,8 +75,8 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
 
 ## Save Page
 
