@@ -176,7 +176,7 @@ main-context-menu-save-link =
     .accesskey = ع
 main-context-menu-save-link-to-pocket =
     .label = ذخیره پیوند در { -pocket-brand-name }
-    .accesskey = o
+    .accesskey = د
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
