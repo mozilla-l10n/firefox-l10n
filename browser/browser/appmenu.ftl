@@ -87,8 +87,8 @@ appmenu-remote-tabs-noclients = می‌خواهید زبانه‌های خود �
 appmenu-remote-tabs-connectdevice =
     .label = اتّصال به دستگاهی دیگر
 appmenu-remote-tabs-welcome = نمایش فهرست زبانه‌های شما در سایر دستگاه‌ها.
-appmenu-remote-tabs-unverified = حساب‌کاربری شما باید تایید شود.
-appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
+appmenu-remote-tabs-unverified = حساب شما باید تأیید شود.
+appmenuitem-fxa-toolbar-sync-now2 = همین حالا همگام‌سازی کن
 appmenuitem-fxa-sign-in = ورود به { -brand-product-name }
 appmenuitem-fxa-manage-account = مدیریت حساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -102,37 +102,37 @@ appmenu-fxa-signed-in-label = ورود
 appmenu-fxa-setup-sync =
     .label = روشن کردن همگام‌سازی…
 appmenuitem-save-page =
-    .label = ذخیرهٔ صفحه به نام…
+    .label = ذخیرهٔ صفحه به عنوان…
 
 ## What's New panel in App menu.
 
-whatsnew-panel-header = تازه‌ها
+whatsnew-panel-header = چه چیزی جدید است
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
-    .label = آگاهی دربارهٔ ویژگی‌های جدید (f)
-    .accesskey = f
+    .label = آگاهی دربارهٔ قابلیت‌های جدید
+    .accesskey = ق
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle =
-    .label = پروفایلر
-    .tooltiptext = ضبط نمایهٔ عملکرد
+    .label = نمایه‌ساز
+    .tooltiptext = ضبط یک نمایهٔ بهینه‌سازی
 profiler-popup-button-recording =
-    .label = پروفایلر
-    .tooltiptext = پ
+    .label = نمایه‌ساز
+    .tooltiptext = نمایه‌ساز در حال ضبط یک نمایه است
 profiler-popup-button-capturing =
-    .label = پروفایلر
-    .tooltiptext = پروفایلر در حال ضبط یک نمایه است
+    .label = نمایه‌ساز
+    .tooltiptext = نمایه‌ساز در حال گرفتن یک نمایه است
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = نمایش اطلاعات بیشتر
 profiler-popup-description-title =
-    .value = ضبط، تجزیه و تحلیل، اشتراک گذاری
-profiler-popup-description = با انتشار پروفایل‌ها، در مورد مشکلات مربوط به بهینه‌سازی همکاری کنید.
+    .value = ضبط، تجزیه و تحلیل، هم‌رسانی
+profiler-popup-description = با انتشار نمایه‌ها، در مورد مشکلات مربوط به بهینه‌سازی با گروه‌تان همکاری کنید.
 profiler-popup-learn-more-button =
     .label = بیشتر بدانید
 profiler-popup-settings =
@@ -140,7 +140,7 @@ profiler-popup-settings =
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = ویرایش تنظیمات…
-profiler-popup-recording-screen = ضبط…
+profiler-popup-recording-screen = در حال ضبط…
 profiler-popup-start-recording-button =
     .label = شروع ضبط
 profiler-popup-discard-button =
@@ -150,12 +150,12 @@ profiler-popup-capture-button =
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
-       *[other] Ctrl+Shift+1
+       *[other] مهار+تبدیل+1
     }
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
-       *[other] Ctrl+Shift+2
+       *[other] مهار+تبدیل+2
     }
 
 ## Profiler presets
@@ -166,7 +166,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = تنظیمات پیشنهادی برای بیشتر اپ‌های وب، با سربار پایین.
+profiler-popup-presets-web-developer-description = تنظیمات پیشنهادی برای اشکال‌زدایی بیشتر کاره‌های وب، با سربار پایین.
 profiler-popup-presets-web-developer-label =
     .label = توسعه‌دهنده وب
 profiler-popup-presets-firefox-description = تنظیمات پیشنهادی برای نمایه‌سازی { -brand-shorter-name }.
@@ -181,6 +181,10 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = تنظیمات مربوط به بررسی اشکالات شبکه در { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = شبکه
+profiler-popup-presets-power-description = تنظیمات مربوط به بررسی اشکالات مصرف نیرو در { -brand-shorter-name }، با سربار پایین.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = نیرو
 profiler-popup-presets-custom-label =
     .label = سفارشی
 
@@ -188,22 +192,22 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = مدیریت تاریخچه
-appmenu-reopen-all-tabs = بازگردانی همه زبانه‌ها
+appmenu-reopen-all-tabs = بازگردانی همهٔ زبانه‌ها
 appmenu-reopen-all-windows = بازگردانی همهٔ پنجره‌ها
 appmenu-restore-session =
-    .label = بازآوری نشست قبلی
+    .label = بازگردانی نشست قبلی
 appmenu-clear-history =
-    .label = پاک کردن تاریخچه اخیر…
+    .label = پاک کردن تاریخچهٔ اخیر…
 appmenu-recent-history-subheader = تاریخچهٔ اخیر
 appmenu-recently-closed-tabs =
-    .label = زبانه‌های تازه بسته شده
+    .label = زبانه‌های به تازگی بسته شده
 appmenu-recently-closed-windows =
     .label = پنجره‌های تازه بسته شده
 
 ## Help panel
 
 appmenu-help-header =
-    .title = راهنما { -brand-shorter-name }
+    .title = راهنمای { -brand-shorter-name }
 appmenu-about =
     .label = دربارهٔ { -brand-shorter-name }
     .accesskey = د
@@ -211,8 +215,8 @@ appmenu-get-help =
     .label = دریافت راهنمایی
     .accesskey = ر
 appmenu-help-more-troubleshooting-info =
-    .label = اطلاعات بیشتر
-    .accesskey = T
+    .label = اطلاعات عیب‌یابی بیشتر
+    .accesskey = ع
 appmenu-help-report-site-issue =
     .label = گزارش مشکلات پایگاه…
 appmenu-help-share-ideas =

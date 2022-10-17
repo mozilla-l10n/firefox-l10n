@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-privatebrowsingpage-open-private-window-label = یک پنجره‌ی ناشناس باز کن
+privatebrowsingpage-open-private-window-label = گشودن یک پنجرهٔ ناشناس
     .accesskey = ن
 about-private-browsing-search-placeholder = وب را جست‌وجو کنید
 about-private-browsing-info-title = شما در یک پنجرهٔ ناشناس هستید
@@ -22,11 +22,11 @@ about-private-browsing-not-private = شما در حال حاضر در یک پن�
 about-private-browsing-info-description-private-window = پنجره ناشناس: { -brand-short-name } تاریخچهٔ جستجو و مرور شما را بعد از بستن تمام پنجره‌های ناشناس حذف می‌کند. این کار شما را غیرقابل شناسایی نخواهد کرد.
 about-private-browsing-info-description-simplified = وقتی تمام پنجره‌های ناشناس را می‌بندید، { -brand-short-name } تاریخچهٔ جستجو و مرور شما را پاک می‌کند، اما این‌ها به تنهایی شما را ناشناس نمی‌کند.
 about-private-browsing-learn-more-link = بیشتر بدانید
-
 about-private-browsing-hide-activity = فعالیت‌ها و مکان خود را در هر جایی که مرور می‌کنید پنهان کنید
 about-private-browsing-get-privacy = در هر جایی که اینترنت را مرور می‌کنید، از حریم خصوصی خود محافظت کنید
 about-private-browsing-hide-activity-1 = فعالیت مرور و مکان خود را با { -mozilla-vpn-brand-name } مخفی کنید. با یک کلیک، حتی در وای‌فای‌های عمومی، یک اتصال ایمن داشته باشید.
 about-private-browsing-prominent-cta = با { -mozilla-vpn-brand-name } ناشناس بمانید
+about-private-browsing-focus-promo-cta = بارگیری { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -42,6 +42,8 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = بستن
+about-private-browsing-promo-close-button =
+    .title = بستن
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
