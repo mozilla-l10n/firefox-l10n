@@ -404,4 +404,5 @@ mr2022-onboarding-gratitude-secondary-button-label = Començar de navegar
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Siatz tan ben coma a l’ostal
+onboarding-infrequent-import-subtitle = Que siatz per demorar aicí o sonque de passatge, remembratz que podètz importatz vòstres marcapaginas, senhals e encara mai.
 onboarding-infrequent-import-primary-button = Importar dins { -brand-short-name }
