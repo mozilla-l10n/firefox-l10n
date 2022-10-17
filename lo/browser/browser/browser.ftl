@@ -266,11 +266,15 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ຫຍໍ້ໃຫ້ນ້ອຍລົງ
+browser-window-maximize-button =
+    .tooltiptext = ຂະຫຍາຍໃຫຍ່
 browser-window-close-button =
     .tooltiptext = ປິດ
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ກຳລັງຫຼິ້ນ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -297,6 +301,8 @@ popup-select-speaker-icon =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = ໄປທີ່ແຖບຕໍ່
 
 ## DevTools F12 popup
 
@@ -331,6 +337,13 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = ຄົ້ນຫາດ້ວຍ { $engine }
 urlbar-result-action-switch-tab = ປ່ຽນໄປຫາແທັບ
 urlbar-result-action-visit = ຢ້ຽມຢາມ
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = ສໍາເນົາ
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

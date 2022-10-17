@@ -35,6 +35,9 @@ appmenuitem-exit2 =
             [linux] ອອກ
            *[other] ອອກ
         }
+appmenu-menu-button-opened2 =
+    .tooltiptext = ປິດເມນູແອັບພລິເຄຊັນ
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
