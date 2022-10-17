@@ -227,6 +227,15 @@ search-one-offs-history =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-extensions = افزونه‌ها
+# Opens the devtools web inspector
+quickactions-inspector = گشودن بازرسی
+quickactions-cmd-inspector = بازرسی، ابزارهای توسعه
+# Opens about:logins
+quickactions-logins = مشاهده وروده ها
+quickactions-cmd-logins = ورودها، گذرواژه‌ها
+# Opens about:addons page in the plugins section
+quickactions-plugins = مدیریت افزایه‌ها
 
 ## Bookmark Panel
 
@@ -526,7 +535,7 @@ urlbar-result-action-search-tabs = جست‌وجو زبانه‌ها
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
