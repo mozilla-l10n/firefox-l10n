@@ -81,8 +81,8 @@ toolbar-button-fxaccount =
 ## Save Page
 
 main-context-menu-page-save =
-    .label = ذخیرهٔ صفحه به نام…
-    .accesskey = P
+    .label = ذخیرهٔ صفحه به عنوان…
+    .accesskey = ص
 
 ## Simple menu items
 
@@ -341,11 +341,11 @@ main-context-menu-view-selection-source =
     .label = نمایش کدمنبع قسمت انتخابی
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = گرفتن عکس از صفحه
-    .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = گرفتن عکس از صفحه
+    .label = گرفتن نماگرفت
     .accesskey = گ
+main-context-menu-take-frame-screenshot =
+    .label = گرفتن نماگرفت
+    .accesskey = ن
 main-context-menu-view-page-source =
     .label = نمایش کدمنبع صفحه
     .accesskey = ن
@@ -357,7 +357,7 @@ main-context-menu-bidi-switch-page =
     .accesskey = ع
 main-context-menu-inspect =
     .label = بازرسی
-    .accesskey = س
+    .accesskey = ز
 main-context-menu-inspect-a11y-properties =
     .label = بررسی ترجیحات دسترسی‌پذیری
 main-context-menu-eme-learn-more =
