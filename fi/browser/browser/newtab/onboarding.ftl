@@ -329,7 +329,6 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä 
 
 mr2022-onboarding-colorway-title = Valitse väri, joka inspiroi sinua
 mr2022-onboarding-colorway-subtitle = Itsenäiset äänet voivat muuttaa kulttuuria.
-mr2022-onboarding-colorway-primary-button-label = Aseta väriteema
 mr2022-onboarding-colorway-primary-button-label-continue = Aseta ja jatka
 mr2022-onboarding-existing-colorway-checkbox-label = Tee { -firefox-home-brand-name }ista värikäs kotisivusi
 mr2022-onboarding-colorway-label-default = Oletus
@@ -407,3 +406,9 @@ mr2022-onboarding-gratitude-title = Autat meitä rakentamaan parempaa verkkoa
 mr2022-onboarding-gratitude-subtitle = Kiitos, että käytit { -brand-short-name }ia, jota Mozilla Foundation tukee. Tukesi avulla pyrimme tekemään internetistä entistä avoimemman, saavutettavamman ja paremman kaikille.
 mr2022-onboarding-gratitude-primary-button-label = Katso, mikä on uutta
 mr2022-onboarding-gratitude-secondary-button-label = Aloita selaaminen
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Tee olosi kotoisaksi
+onboarding-infrequent-import-subtitle = Oletpa sitten asettumassa tai vain poikkeamassa, muista, että voit tuoda kirjanmerkkisi, salasanasi ja paljon muuta.
+onboarding-infrequent-import-primary-button = Tuo { -brand-short-name }iin
