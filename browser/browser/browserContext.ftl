@@ -326,16 +326,16 @@ main-context-menu-send-to-device =
 
 main-context-menu-use-saved-login =
     .label = استفاده از ورود ذخیره شده
-    .accesskey = o
+    .accesskey = ر
 main-context-menu-use-saved-password =
     .label = استفاده از گذرواژهٔ ذخیره شده
-    .accesskey = o
+    .accesskey = ر
 
 ##
 
 main-context-menu-suggest-strong-password =
-    .label = پیشنهادِ یک گذرواژ‌هٔ قوی…
-    .accesskey = S
+    .label = پیشنهاد یک گذرواژهٔ قوی…
+    .accesskey = پ
 main-context-menu-manage-logins2 =
     .label = مدیریت ورودها
     .accesskey = م
