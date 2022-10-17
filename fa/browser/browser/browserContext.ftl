@@ -5,7 +5,7 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] برای نمایش تاریخجه، به طرف پایین بکشید
+            [macos] برای نمایش تاریخچه، به طرف پایین بکشید
            *[other] برای نمایش تاریخچه، کلیک راست کنید یا به طرف پایین بکشید
         }
 
@@ -14,13 +14,13 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = برگشتن به یک صفحه قبل ({ $shortcut })
-    .aria-label = برگشت
-    .accesskey = B
+    .tooltiptext = بازگشت به صفحهٔ قبلی ({ $shortcut })
+    .aria-label = بازگشت
+    .accesskey = ب
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
-    .label = برگشت
-    .accesskey = B
+    .label = بازگشت
+    .accesskey = ب
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
