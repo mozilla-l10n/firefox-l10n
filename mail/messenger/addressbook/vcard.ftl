@@ -38,6 +38,7 @@ vcard-n-add-suffix =
 
 # Nickname
 
+vcard-nickname = Nombre de usuario
 
 # Email vCard field
 
@@ -60,6 +61,7 @@ vcard-tel-label = Número de teléfono
 # Or "Mobile"
 vcard-entry-type-cell = Celda
 vcard-entry-type-fax = Fax
+vcard-entry-type-pager = Localizador
 
 # TZ vCard field
 
