@@ -39,17 +39,65 @@ appmenu-newab-panel =
 appmenu-new-addressbook =
     .label = Helbide-liburu lokaletan
     .accesskey = l
+appmenu-new-carddav =
+    .label = CardDAV helbide-liburua
+    .accesskey = C
+appmenu-new-ldap =
+    .label = LDAP helbide-liburua
+    .accesskey = L
 
 ## Create
 
+appmenu-create-panel-title =
+    .title = Sortu
+appmenu-create-panel =
+    .label = Sortu
+    .accesskey = S
+appmenu-create-message =
+    .label = Mezua
+    .accesskey = M
+appmenu-create-event =
+    .label = Gertaera
+    .accesskey = G
+appmenu-create-task =
+    .label = Zeregina
+    .accesskey = Z
+appmenu-create-contact =
+    .label = Kontaktua
+    .accesskey = K
 
 ## Open
 
+appmenu-open-panel =
+    .label = Ireki
+    .accesskey = I
+appmenu-open-panel-title =
+    .title = Ireki
+appmenu-open-file-panel =
+    .label = Ireki fitxategitik
+    .accesskey = f
+appmenu-open-file-panel-title =
+    .title = Ireki fitxategitik
+appmenu-open-message =
+    .label = Mezua…
+    .accesskey = M
+appmenu-open-calendar =
+    .label = Egutegia…
+    .accesskey = E
 
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Ikusi
+appmenu-view-panel =
+    .label = Ikusi
+    .accesskey = k
 appmenu-font-size-value = Letra-tamaina
 appmenu-mail-uidensity-value = Dentsitatea
+appmenu-uidensity-compact =
+    .tooltiptext = Trinkoa
+appmenu-uidensity-default =
+    .tooltiptext = Lehenetsia
 appmenuitem-font-size-enlarge =
     .tooltiptext = Handiagotu letra-tipoaren tamaina
 appmenuitem-font-size-reduce =
@@ -108,6 +156,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Egin dohaintza
     .accesskey = d
+appmenu-help-share-feedback =
+    .label = Partekatu ideiak eta iritzia
+    .accesskey = P
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Arazoak konpontzeko modua…
     .accesskey = A
