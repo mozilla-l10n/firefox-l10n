@@ -58,11 +58,16 @@ printui-backgrounds-checkbox = ᱛᱟᱭᱚᱢᱮᱫᱟᱜ ᱠᱚ ᱪᱷᱟᱯ�
 
 # The section title.
 printui-source-label = ᱛᱮᱭᱟᱨ
+# Option for printing the original page.
+printui-source-radio = ᱢᱩᱞ
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = ᱦᱟᱛᱟᱣ
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = ᱥᱤᱵᱤᱞᱠᱟᱱᱟ
 
 ##
 
+printui-color-mode-label = ᱨᱚᱝ ᱢᱳᱰ
 printui-color-mode-color = ᱨᱚᱝ
 printui-color-mode-bw = ᱦᱮᱸᱫᱮ ᱟᱨ ᱯᱩᱸᱰ
 printui-margins = ᱢᱟᱨᱡᱤᱱ
@@ -78,12 +83,26 @@ printui-margins-custom-bottom = ᱞᱟᱛᱟᱨ
 printui-margins-custom-bottom-inches = ᱞᱟᱛᱟᱨ (inches)
 printui-margins-custom-bottom-mm = ᱞᱟᱛᱟᱨ (mm)
 printui-margins-custom-left = ᱞᱮᱝᱜᱟ
+printui-margins-custom-left-inches = ᱞᱮᱝᱜᱟ (ᱤᱧᱪ)
+printui-margins-custom-left-mm = ᱞᱮᱝᱜᱟ (mm)
+printui-margins-custom-right = ᱡᱚᱡᱚᱢ ᱥᱮᱫ
+printui-margins-custom-right-inches = ᱡᱚᱡᱚᱢ (ᱤᱧᱪ)
+printui-margins-custom-right-mm = ᱡᱚᱡᱚᱢ (mm)
+printui-system-dialog-link = ᱱᱚᱶᱟ ᱥᱤᱥᱴᱚᱢ ᱰᱟᱭᱞᱚᱜᱽ ᱛᱮ ᱪᱷᱟᱯᱟᱭ ᱢᱮ …
 printui-primary-button = ᱪᱷᱟᱯᱟ
 printui-primary-button-save = ᱥᱟᱺᱪᱟᱣ
+printui-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 printui-close-button = ᱵᱚᱸᱫᱽ
+printui-loading = ᱢᱟᱲᱟᱝ ᱛᱚᱭᱟᱜ ᱧᱮᱞ ᱥᱚᱡᱽ
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = ᱢᱟᱲᱟᱝ ᱛᱚᱭᱟᱜ ᱧᱮᱞ ᱪᱷᱟᱯᱟ
+printui-pages-per-sheet = ᱢᱤᱫ ᱥᱤᱴ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱥᱟᱦᱴᱟ ᱠᱚ
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = ᱪᱷᱟᱯᱟᱜ ᱠᱟᱱᱟ…
+printui-print-progress-indicator-saving = ᱥᱟᱺᱪᱟᱣᱜ ᱠᱟᱱᱟ…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -103,3 +122,10 @@ printui-paper-tabloid = ᱴᱮᱵᱞᱚᱭᱮᱰ
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = ᱢᱟᱯ ᱫᱚ 10 ᱟᱨ 200 ᱮᱞᱮᱠᱷ ᱛᱟᱞᱟ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱟᱸ ᱾
+printui-error-invalid-margin = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱥᱟᱦᱴᱟ ᱢᱟᱯ ᱨᱮᱭᱟᱜ ᱴᱷᱤᱠ ᱢᱟᱨᱡᱤᱱ ᱟᱫᱮᱨ ᱯᱮ ᱾
+printui-error-invalid-copies = ᱱᱚᱠᱚᱞ ᱫᱚ 1 ᱟᱨ 10000 ᱮᱞᱠᱷᱟ ᱛᱟᱞᱟ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱟ ᱾
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = ᱨᱮᱧᱡᱽ ᱫᱚ 1 ᱟᱨ { $numPages } ᱛᱟᱞᱟ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱟᱸ ᱾
+printui-error-invalid-start-overflow = “ᱠᱷᱚᱱ” ᱥᱟᱦᱴᱟ ᱫᱚ “ᱛᱮ” ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱮᱞᱠᱷᱟ ᱠᱷᱚᱱ ᱦᱩᱰᱤᱧ ᱛᱟᱦᱮᱱ ᱢᱟᱸ ᱾
