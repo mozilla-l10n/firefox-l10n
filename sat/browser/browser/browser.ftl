@@ -290,6 +290,42 @@ quickactions-cmd-extensions = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
 # Opens the devtools web inspector
 quickactions-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 quickactions-cmd-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ, ᱰᱮᱣᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
+# Opens about:logins
+quickactions-logins = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ
+quickactions-cmd-logins = ᱵᱚᱞᱚᱱ ᱠᱚ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
+# Opens about:addons page in the plugins section
+quickactions-plugins = ᱯᱞᱚᱜᱤᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+quickactions-cmd-plugins = ᱯᱞᱚᱜᱤᱱ ᱠᱚ
+# Opens the print dialog
+quickactions-print = ᱪᱷᱟᱯᱟ
+quickactions-cmd-print = ᱪᱷᱟᱯᱟ
+# Opens a new private browsing window
+quickactions-private = ᱱᱤᱡᱚᱨᱟᱠᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+quickactions-cmd-private = ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = { -brand-short-name } ᱛᱟᱡᱟᱭ ᱢᱮ
+quickactions-cmd-refresh = ᱛᱟᱡᱟ
+# Restarts the browser
+quickactions-restart = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
+quickactions-cmd-restart = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
+# Opens the screenshot tool
+quickactions-screenshot2 = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
+quickactions-cmd-screenshot = ᱥᱠᱨᱤᱱᱥᱚᱴ
+# Opens about:preferences
+quickactions-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱡᱷᱤᱜ ᱢᱮ
+quickactions-cmd-settings = ᱥᱟᱡᱟᱣ ᱠᱚ, ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ, ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ
+# Opens about:addons page in the themes section
+quickactions-themes = ᱛᱷᱤᱢ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+quickactions-cmd-themes = ᱛᱷᱤᱢ ᱠᱚ
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱠ ᱢᱮ
+quickactions-cmd-update = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
+# Opens the view-source UI with current pages source
+quickactions-viewsource = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ
+quickactions-cmd-viewsource = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ, ᱥᱨᱚᱛ
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = ᱞᱚᱜᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱠᱚ ᱵᱟᱵᱚᱫ ᱵᱟᱲᱛᱤ ᱪᱮᱫ ᱢᱮ
 
 ## Bookmark Panel
 
@@ -455,6 +491,9 @@ popup-select-microphone-icon =
     .tooltiptext = ᱢᱟᱭᱠᱨᱚᱯᱷᱳᱱ
 popup-select-speaker-icon =
     .tooltiptext = ᱨᱚᱲᱠᱩᱜ
+popup-select-window-or-screen =
+    .label = ᱥᱠᱨᱤᱱ ᱟᱨᱵᱟᱝ ᱡᱷᱚᱨᱠᱟ:
+    .accesskey = W
 popup-all-windows-shared = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱡᱷᱚᱛᱚ ᱧᱮᱞᱚᱜᱟᱜ ᱣᱤᱱᱰᱚ ᱦᱟᱹᱴᱤᱧᱟᱜᱼᱟ ᱾
 popup-screen-sharing-block =
     .label = ᱟᱠᱚᱴ
@@ -476,6 +515,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 ᱠᱷᱟᱴᱚᱢᱟᱪᱟ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ, ᱯᱩᱭᱞᱩ ᱨᱮ ᱣᱮᱵᱽ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱢᱮᱱᱩ ᱛᱮ DevTools ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
+enable-devtools-popup-description2 = F12 ᱥᱚᱴᱠᱚᱴ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ, ᱯᱩᱭᱞᱩ ᱨᱮ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ DevTools ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
 
 ## URL Bar
 
@@ -511,6 +551,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
     .aria-label = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
+    .aria-label = ᱥᱮᱸᱫᱽᱨᱟ ᱠᱟᱹᱢᱤ ᱠᱚ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -586,6 +630,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 urlbar-result-action-search-history = ᱥᱮᱸᱫᱽᱨᱟ ᱱᱟᱜᱟᱢ ᱠᱚ
 urlbar-result-action-search-tabs = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+urlbar-result-action-search-actions = ᱥᱮᱸᱫᱽᱨᱟ ᱠᱟᱹᱢᱤ ᱠᱚ :
 
 ## Labels shown above groups of urlbar results
 
@@ -599,9 +644,18 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } ᱵᱟᱛᱣ ᱠᱚ
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = ᱞᱚᱜᱚᱱ ᱛᱮᱭᱟ ᱠᱚᱢᱤ
 
 ## Reader View toolbar buttons
 
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = ᱯᱟᱲᱦᱟᱣ ᱧᱮᱞ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = ᱨᱤᱰᱚᱨ ᱵᱷᱭᱩ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## Full Screen and Pointer Lock UI
 
@@ -677,6 +731,8 @@ bookmarks-tools =
     .label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱠᱚ ᱵᱩᱠᱢᱟᱨᱠᱤᱝᱚᱜ ᱠᱟᱱᱟ
 bookmarks-bookmark-edit-panel =
     .label = ᱱᱚᱶᱟ ᱯᱩᱛᱷᱤ ᱪᱩᱤᱱᱟᱹ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱢᱮ
+bookmarks-subview-edit-bookmark =
+    .label = ᱱᱚᱶᱟ ᱯᱩᱛᱷᱤ ᱪᱩᱤᱱᱟᱹ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱢᱮ…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -693,6 +749,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = ᱱᱤᱛᱚᱜᱟᱜ ᱴᱮᱵᱽ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱜ ᱢᱮ
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = ᱱᱤᱛᱚᱜᱟᱜ ᱴᱮᱵᱽ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱜ ᱢᱮ…
 
 ## Library Panel items
 
@@ -866,6 +925,11 @@ data-reporting-notification-message = { -brand-short-name } ᱟᱡᱼᱟᱡ ᱛ�
 data-reporting-notification-button =
     .label = ᱪᱮᱫ ᱤᱧᱤᱧ ᱦᱟᱹᱴᱤᱧ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
+    .tooltiptext = ᱯᱟᱥᱱᱟᱣ ᱠᱚ

@@ -16,5 +16,7 @@ colorway-intensity-bold = ᱢᱚᱴᱟ
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = ᱠᱚᱞᱚᱨᱣᱮ ᱥᱮᱴ ᱢᱮ
 colorway-closet-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+colorway-homepage-reset-prompt = { -firefox-home-brand-name } ᱫᱚ ᱟᱢᱟᱜ ᱨᱚᱝᱜᱤᱱ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
+colorway-homepage-reset-success-message = { -firefox-home-brand-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱢᱟᱜ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱠᱟᱱᱟ
 colorway-homepage-reset-apply-button = ᱮᱢ ᱪᱷᱚ
 colorway-homepage-reset-undo-button = ᱨᱩᱣᱟᱹᱲ ᱟᱹᱜᱩ
