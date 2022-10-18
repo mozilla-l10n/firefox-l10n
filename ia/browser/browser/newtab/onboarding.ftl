@@ -402,4 +402,5 @@ mr2022-onboarding-gratitude-secondary-button-label = Comenciar a navigar
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Senti te a casa
 onboarding-infrequent-import-primary-button = Importar ab { -brand-short-name }
