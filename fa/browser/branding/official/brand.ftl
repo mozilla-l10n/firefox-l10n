@@ -17,12 +17,11 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-shorter-name = فایرفاکس
--brand-short-name = فایرفاکس
--brand-shortcut-name = فایرفاکس
--brand-full-name = فایرفاکس موزیلا
+-brand-shorter-name = Firefox
+-brand-short-name = Firefox
+-brand-shortcut-name = Firefox
+-brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = فایرفاکس
--vendor-short-name = موزیلا
-trademarkInfo = فایرفاکس و نشان‌های فایرفاکس، علامت‌های تجاری بنیاد موزیلا هستند.
+-brand-product-name = Firefox
+-vendor-short-name = Mozilla
