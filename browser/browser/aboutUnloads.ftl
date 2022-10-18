@@ -32,3 +32,7 @@ about-unloads-column-memory = حافظه
     .title = تخمین میزان مصرف حافظه در زبانه
 about-unloads-column-processes = شناسهٔ پردازش
     .title = شناسهٔ پردازش‌های محتوای زبانهٔ میزبان
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } مگابایت
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } مگابایت
