@@ -5,9 +5,12 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-selected-element-header = Elementu seletzionadu
+compatibility-all-elements-header = Totu is problemas
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-experimental = (isperimentale)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -23,4 +26,3 @@ compatibility-settings-header = Cunfiguratzione
 
 compatibility-close-settings-button =
     .title = Serra sa cunfiguratzione
-
