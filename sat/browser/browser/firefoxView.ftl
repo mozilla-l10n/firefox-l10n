@@ -30,3 +30,32 @@ firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } ᱫᱚ �
 firefoxview-tabpickup-synctabs-header = ᱴᱮᱵᱽ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 firefoxview-tabpickup-synctabs-description = ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭᱮᱢ ᱾
 firefoxview-tabpickup-synctabs-learn-how = ᱪᱮᱫᱢᱮ
+firefoxview-tabpickup-synctabs-primarybutton = ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
+firefoxview-tabpickup-fxa-admin-disabled-header = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱱᱫ ᱠᱟᱫᱟᱭ
+firefoxview-tabpickup-network-offline-header = ᱟᱢᱟᱜ ᱤᱱᱴᱟᱹᱨᱱᱮᱴ ᱡᱚᱱᱚᱲᱟᱣ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱢᱮ
+firefoxview-tabpickup-network-offline-primarybutton = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
+firefoxview-tabpickup-sync-error-header = ᱟᱹᱭᱩᱨᱢᱤᱫ ᱡᱷᱚᱜ ᱟᱞᱮ ᱢᱩᱥᱠᱤᱞᱚᱜ ᱠᱟᱱᱟ ᱞᱮ
+firefoxview-tabpickup-sync-error-primarybutton = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
+firefoxview-tabpickup-sync-disconnected-header = ᱞᱮᱛᱟᱲ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱭᱩᱨᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+firefoxview-tabpickup-sync-disconnected-primarybutton = ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱟᱹᱭᱩᱨᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+firefoxview-mobile-promo-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
+firefoxview-mobile-confirmation-header = 🎉 ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱜᱮᱭᱟ!
+firefoxview-closed-tabs-title = ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = ᱢᱟᱲᱟᱝ ᱪᱚᱴᱠᱟᱨᱟᱜ
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ { $targetURI } ᱡᱷᱤᱡᱽ ᱢᱮ
+firefoxview-try-colorways-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱤᱰᱟᱹᱣ ᱧᱚᱜᱽ ᱢᱮ
+firefoxview-no-current-colorway-collection = ᱱᱟᱶᱟ ᱠᱚᱞᱚᱨᱣᱮ ᱦᱚᱨ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ
+firefoxview-change-colorway-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>ᱱᱤᱛᱚᱜ ᱧᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ</strong><br/>ᱞᱟᱦᱟ ᱚᱠᱛᱚ ᱡᱷᱚᱜ ᱟᱢ ᱛᱤᱧ ᱡᱷᱚᱜ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱦᱴᱟ { -brand-product-name } ᱨᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱠᱷᱟᱱ, ᱵᱷᱤᱞᱠᱤ ᱞᱮᱠᱷᱟ ᱦᱟᱛᱟᱣ ᱟᱢ ᱾
+firefoxview-collapse-button-show =
+    .title = ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+firefoxview-collapse-button-hide =
+    .title = ᱞᱤᱥᱪᱤ ᱩᱠᱩᱭ ᱢᱮ

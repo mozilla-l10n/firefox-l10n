@@ -4,6 +4,8 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
+# Callout dialog primary button to complete the feature tour
+callout-primary-complete-button-label = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟᱹᱧ!
 
 ## Firefox View feature tour strings
 
