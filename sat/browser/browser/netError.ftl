@@ -9,3 +9,4 @@ dns-not-found-with-suggestion = ᱟᱢ ᱦᱤᱥᱟᱹᱵ ᱛᱮ <a data-l10n-na
 dns-not-found-hint-header = <strong>ᱡᱩᱫᱤ ᱟᱢ ᱴᱷᱤᱠ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱠᱟᱫᱟᱢ, ᱟᱢ ᱫᱚ:</strong>
 dns-not-found-hint-try-again = ᱛᱟᱭᱚᱢ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
 dns-not-found-hint-check-network = ᱟᱢᱟᱜ ᱱᱮᱴᱣᱟᱤᱠ ᱡᱚᱱᱚᱲᱟᱣ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱢᱮ
+dns-not-found-hint-firewall = ᱧᱮᱞ ᱢᱮ ᱡᱮ { -brand-short-name } ᱴᱷᱮᱱ ᱣᱮᱵᱽ (ᱟᱢ ᱡᱩᱲᱟᱹᱣ ᱠᱚᱜᱼᱟᱢ ᱢᱮᱱᱠᱷᱟᱱ ᱯᱷᱟᱭᱟᱨᱣᱟᱞ ᱛᱟᱭᱚᱢ ᱨᱮ) ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱫᱚᱨᱠᱟᱨ ᱦᱚᱠ ᱢᱮᱱᱟᱜᱼᱟ ᱥᱮ ᱵᱟᱝᱟ
