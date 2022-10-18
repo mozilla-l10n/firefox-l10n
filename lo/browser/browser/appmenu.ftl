@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-banner-update-available =
+    .label = ມີການອັບເດດ — ດາວໂຫຼດດຽວນີ້
+appmenuitem-banner-update-manual =
+    .label = ມີການອັບເດດ — ດາວໂຫຼດດຽວນີ້
+appmenuitem-banner-update-unsupported =
+    .label = ບໍ່ສາມາດອັບເດດໄດ້ — ລະບົບບໍ່ເຂົ້າກັນ
 appmenuitem-new-tab =
     .label = ແທັບໃຫມ່
 appmenuitem-new-window =

@@ -177,6 +177,7 @@ confirm-discard-changes-dialog-confirm-button = ຖິ້ມ
 ## Breach Alert notification
 
 about-logins-breach-alert-title = ການຮົ່ວໄຫລຂອງເວັບໄຊທ
+breach-alert-text = ລະ​ຫັດ​ຜ່ານ​ໄດ້​ຖືກ​ຮົ່ວ​ໄຫລ​ຫຼື​ຖືກ​ລັກ​ຈາກ​ເວັບ​ໄຊ​ທ​໌​ນີ້​ນັບ​ຕັ້ງ​ແຕ່​ທ່ານ​ໄດ້​ອັບເດດ​ຄັ້ງ​ສຸດ​ທ້າຍ​ລາຍ​ລະ​ອຽດ​ການ​ເຂົ້າ​ສູ່​ລະ​ບົບ​ຂອງ​ທ່ານ​. ປ່ຽນລະຫັດຜ່ານຂອງທ່ານເພື່ອປົກປ້ອງບັນຊີຂອງທ່ານ.
 about-logins-breach-alert-date = ການຮົ່ວໄຫຼນີ້ເກີດຂຶ້ນເມື່ອ { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
