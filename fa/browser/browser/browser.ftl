@@ -269,6 +269,20 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = نمایش افزونه‌ها
+quickactions-cmd-addons2 = افزونه‌ها
+# Opens the bookmarks library window
+quickactions-bookmarks = نمایش نشانک‌ها
+quickactions-cmd-bookmarks = نشانک‌ها
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = پاک کردن تاریخچه
+quickactions-cmd-clearhistory = پاک کردن تاریخچه
+# Opens about:downloads page
+quickactions-downloads = بازکردن بارگیری‌ها
+quickactions-cmd-downloads = بارگیری‌ها
+# Opens about:addons page in the extensions section
+quickactions-extensions = مدیریت افزونه‌ها
 quickactions-cmd-extensions = افزونه‌ها
 # Opens the devtools web inspector
 quickactions-inspector = گشودن بازرسی
@@ -615,6 +629,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = پیشنهادهای { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = کنش‌های سریع
 
 ## Reader View toolbar buttons
 
@@ -699,6 +716,8 @@ bookmarks-tools =
     .label = ابزار نشانک‌گذاری
 bookmarks-bookmark-edit-panel =
     .label = ویرایش این نشانک
+bookmarks-subview-edit-bookmark =
+    .label = ویرایش این نشانک…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -715,6 +734,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = نشانک‌گذاری زبانه فعلی
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = نشانک‌گذاری زبانهٔ کنونی…
 
 ## Library Panel items
 
@@ -888,6 +910,8 @@ data-reporting-notification-message = { -brand-short-name } به صورت خود
 data-reporting-notification-button =
     .label = انتخاب چیزهایی که میخواهم به‌اشتراک‌ بگذارم
     .accesskey = ا
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = مرور ناشناس
 
 ## Unified extensions (toolbar) button
 
