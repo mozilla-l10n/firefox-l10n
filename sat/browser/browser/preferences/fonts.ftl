@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = ᱪᱤᱠᱤ ᱠᱚ
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = ᱞᱟᱹᱜᱤᱫ ᱪᱤᱠᱤ ᱠᱚ
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = ᱚᱨᱵᱤ
 fonts-langgroup-armenian =
@@ -54,6 +52,8 @@ fonts-langgroup-latin =
     .label = ᱞᱮᱴᱤᱱ
 fonts-langgroup-malayalam =
     .label = ᱢᱟᱞᱟᱭᱟᱞᱟᱢ
+fonts-langgroup-math =
+    .label = ᱮᱞᱠᱷᱟ ᱠᱚ
 fonts-langgroup-odia =
     .label = ᱳᱰᱤᱭᱟ
 fonts-langgroup-sinhala =
@@ -77,25 +77,18 @@ fonts-default-serif =
     .label = ᱥᱮᱨᱤᱯᱷ
 fonts-default-sans-serif =
     .label = ᱥᱮᱱᱥ ᱥᱮᱨᱤᱯᱷ
-
 fonts-proportional-size = ᱢᱟᱯ
     .accesskey = z
-
 fonts-serif = ᱥᱮᱨᱤᱯᱷ
     .accesskey = S
-
 fonts-sans-serif = ᱥᱮᱱᱥ ᱥᱮᱨᱤᱯᱷ
     .accesskey = n
-
 fonts-monospace = ᱢᱚᱱᱚᱥᱯᱮᱥ
     .accesskey = M
-
 fonts-monospace-size = ᱢᱟᱯ
     .accesskey = e
-
 fonts-minsize-none =
     .label = ᱡᱟᱦᱱᱟᱜ ᱵᱟᱝ
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
