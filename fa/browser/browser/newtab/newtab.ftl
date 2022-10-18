@@ -247,7 +247,7 @@ newtab-pocket-saved = ذخیره شد
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = اوه، هنگام بارگیری این محتوا مشکلی پیش آمد.
-newtab-error-fallback-refresh-link = برای تلاش مجدد صفحه را بازآوری کنید.
+newtab-error-fallback-refresh-link = برای تلاش مجدد صفحه را نوسازی کنید.
 
 ## Customization Menu
 
