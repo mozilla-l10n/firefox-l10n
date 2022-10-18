@@ -6,7 +6,6 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong> ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱵᱷᱟᱜᱽ ᱫᱚ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ </strong> { -brand-product-name } ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱨ ᱞᱚᱜᱚᱱ ᱴᱷᱤᱠ ᱫᱟᱲᱮ ᱞᱟᱹᱜᱤᱫ, ᱫᱟᱭᱟᱠᱟᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱭ ᱯᱮ ᱾
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -19,6 +18,14 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] ᱟᱢ ᱴᱷᱮᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝ ᱵᱷᱮᱡᱟ ᱠᱟᱱ ᱰᱤᱜᱟᱹᱣ ᱠᱷᱚᱵᱚᱨ ᱢᱮᱱᱟᱜᱼᱟ
+        [two] ᱟᱢ ᱴᱷᱮᱱ ᱵᱟᱝ ᱵᱷᱮᱡᱟ ᱠᱟᱱ ᱰᱤᱜᱟᱹᱣ ᱠᱷᱚᱵᱚᱨ ᱠᱤᱱ ᱢᱮᱱᱟᱜᱼᱟ
+       *[other] ᱟᱢ ᱴᱷᱮᱱ { $reportCount } ᱜᱟᱱ ᱵᱟᱝ ᱵᱷᱮᱡᱟ ᱠᱟᱱ ᱰᱤᱜᱟᱹᱣ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ
+    }
 pending-crash-reports-view-all =
     .label = ᱧᱮᱞ ᱢᱮ
 pending-crash-reports-send =
