@@ -76,6 +76,9 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } مرور ناشناس
 
 ##
 
@@ -320,6 +323,9 @@ quickactions-cmd-update = به‌روز رسانی
 # Opens the view-source UI with current pages source
 quickactions-viewsource = مشاهده منبع
 quickactions-cmd-viewsource = مشاهده منبع، منبع
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = دربارهٔ کنش‌های سریع بیشتر بدانید
 
 ## Bookmark Panel
 
