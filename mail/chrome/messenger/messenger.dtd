@@ -288,7 +288,7 @@
 <!ENTITY goMenu.label "Dźi">
 <!ENTITY goMenu.accesskey "i">
 <!ENTITY nextMenu.label "Dale">
-<!ENTITY nextMenu.accesskey "c">
+<!ENTITY nextMenu.accesskey "l">
 <!ENTITY nextMsgCmd.label "Powěsć">
 <!ENTITY nextMsgCmd.accesskey "P">
 <!ENTITY nextMsgCmd.key "f">
