@@ -8,7 +8,7 @@ troubleshoot-mode-window =
 start-troubleshoot-mode =
     .label = باز کردن
 refresh-profile =
-    .label = راه‌اندازی مجدد { -brand-short-name }
+    .label = نوسازی { -brand-short-name }
 troubleshoot-mode-description = از این حالت ویژهٔ { -brand-short-name } برای تشخیص مشکلات استفاده کنید. افزونه‌ها و سفارشی‌سازی‌های شما موقتاً غیرفعال می‌شوند.
 skip-troubleshoot-refresh-profile = همچنین می‌توانید عیب‌یابی را رد کرده و به جای آن { -brand-short-name } را نوسازی کنید.
 # Shown on the safe mode dialog after multiple startup crashes.
