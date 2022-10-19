@@ -288,6 +288,9 @@ mr2022-onboarding-set-default-primary-button-label = Gjer { -brand-short-name } 
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Den nyaste versjonen vår er laga for å møte dine behov og gjere det enklare å navigere på nettet. Han er fullpakka med funksjonar vi trur du kjem til like.
 mr2022-onboarding-get-started-primary-button-label = Snøgg konfigurering
 
 ## MR2022 Import Settings screen strings
@@ -303,7 +306,6 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importer frå tid
 
 mr2022-onboarding-colorway-title = Vel fargen som inspirerer deg
 mr2022-onboarding-colorway-subtitle = Uavhengige røyster kan endre kultur.
-mr2022-onboarding-colorway-primary-button-label = Vel fargesamansetjing
 mr2022-onboarding-colorway-primary-button-label-continue = Still inn og hald fram
 mr2022-onboarding-existing-colorway-checkbox-label = Gjer { -firefox-home-brand-name } til di fargerike startside
 mr2022-onboarding-colorway-label-default = Standard
@@ -349,6 +351,8 @@ mr2022-onboarding-colorway-tooltip-innovator2 =
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Få privat nettlesingsfriheit med eitt klikk
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Ingen lagra infokapslar eller historikk, rett frå skrivebordet. Surf som om ingen ser på.
 
 ## MR2022 Privacy Segmentation screen strings
 
@@ -356,5 +360,10 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Vis detaljert in
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Du hjelper oss med å byggje eit betre internett
 mr2022-onboarding-gratitude-primary-button-label = Sjå kva som er nytt
 mr2022-onboarding-gratitude-secondary-button-label = Byrje å surfe
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-primary-button = Importer til { -brand-short-name }
