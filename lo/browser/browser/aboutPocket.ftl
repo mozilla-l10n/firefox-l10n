@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = ເກີດຂໍ້ຜິດພາດເມ
 pocket-panel-saved-error-tag-length = ແທັກຕ້ອງບໍ່ເກີນ 25 ຕົວອັກສອນ
 pocket-panel-saved-error-only-links = ມີພຽງແຕ່ລີ້ງເທົ່ານັ້ນທີ່ສາມາດບັນທຶກໄດ້
 pocket-panel-saved-error-not-saved = ໜ້ານີ້ບໍ່ໄດ້ຮັບການບັນທຶກໄວ້
+pocket-panel-saved-error-no-internet = ທ່ານຈຳເປັນຕ້ອງເຊື່ອມຕໍ່ເຄືອຂ່າຍເພື່ອສັ່ງໃຫ້ຈັດເກັບໄປທີ່ { -pocket-brand-name }. ກະລຸນາກວດສອບການເຊື່ອມຕໍ່ ແລະ ລອງໃໝ່ອີກຄັ້ງ.
 pocket-panel-saved-error-remove = ມີຂໍ້ຜິດພາດໃນຂະນະທີ່ພະຍາຍາມລຶບໜ້ານີ້ອອກ.
 pocket-panel-saved-page-removed = ລຶບຫນ້ານີ້
 pocket-panel-saved-page-saved = ໄດ້ບັນທຶກລົງໄວ້ຢູ່ໃນ { -pocket-brand-name } ແລ້ວ

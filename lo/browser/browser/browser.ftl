@@ -152,11 +152,15 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-addons2 = ສ່ວນເສີມ
 quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການໃຊ້ງານ
 # Opens about:downloads page
 quickactions-downloads = ເປີດການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
 quickactions-cmd-extensions = ສ່ວນເສີມ
+# Opens about:logins
+quickactions-logins = ເບິ່ງການເຂົ້າສູ່ລະບົບ
+quickactions-cmd-logins = ເຂົ້າສູ່ລະບົບ, ລະຫັດຜ່ານ
 quickactions-cmd-plugins = ປລັກອິນ
 # Opens the print dialog
 quickactions-print = ພິມ
@@ -388,6 +392,9 @@ crashed-subframe-learnmore-link =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = ຈັດການບຸກມາກ
+bookmarks-recent-bookmarks-panel-subheader = ບຸກມາກຫລ້າສຸດ
 bookmarks-toolbar-chevron =
     .tooltiptext = ສະແດງບຸກມາກເພີ່ມເຕີມ
 bookmarks-sidebar-content =
@@ -470,12 +477,20 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ສຽງ ຫລື ວີດີໂອບາງສ່ວນໃນເວັບໄຊທ໌ນີ້ໃຊ້ຊອບແວ DRM, ເຊິ່ງອາດຈະຈຳກັດສິ່ງທີ່ { -brand-short-name } ສາມາດໃຫ້ທ່ານເຮັດໄດ້.
+eme-notifications-drm-content-playing-manage-accesskey = ມ
+eme-notifications-drm-content-playing-dismiss = ປິດ
+eme-notifications-drm-content-playing-dismiss-accesskey = ວ
 
 ## Password save/update panel
 
+panel-save-update-username = ຊື່ຜູ້ໃຊ້
+panel-save-update-password = ລະຫັດຜ່ານ
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = ລຶບ { $name } ອອກບໍ?
 
 ##
 
@@ -531,6 +546,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = ບອກວິທີເຮັດໃຫ້ຂ້ອຍຮູ້
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
