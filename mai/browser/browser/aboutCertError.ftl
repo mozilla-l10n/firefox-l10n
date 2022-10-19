@@ -15,6 +15,10 @@ cert-error-trust-self-signed = प्रमाणपत्र भरोसेम
 cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte, आओऱ  VeriSign द्वारा निर्गत कएल गेल प्रमाणपत्र केँ सुकक्षित नहि मानल जाएत किएकि पछिला बेर एकर प्रमाणपत्र ऑथेरेटी सुरक्षा संबंधित अभ्यास पर सही नहि पाएल गेल.
 cert-error-untrusted-default = प्रमाणपत्र कोनो भरोसेमद स्रोत सँ नहि आएल अछि.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = वेबसाइट अपन पहिचान केँ सर्टिफिकेट द्वारा साबित करैत अछि, जे कि किछु निर्धारित समय कलेल वैध हाएत अछि.  { $hostname } केर सर्टिफिकेट { $not-before-local-time } धरि वैध नहि हाएत.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = त्रुटि कोड: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = अहाँ वेबसाइट प्रशासक केँ ई समस्या क जानकारी दिए सकैत छी
@@ -61,6 +65,7 @@ nssFailure2-title = सुरक्षित कनेक्शन विफल
 csp-xfo-error-title = { -brand-short-name } ई पृष्ठ नहि खोलि सकल
 corruptedContentError-title = खराब सामग्री त्रुटि
 sslv3Used-title = सुरक्षित रूप सँ कनेक्ट करए मे असमर्थ
+inadequateSecurityError-title = अहाँक कनेक्शन सुरक्षित नहि अछि.
 blockedByPolicy-title = रोकल पृष्ठ
 clockSkewError-title = अहाँक कम्प्यूटर घड़ी ग़लत अछि
 networkProtocolError-title = कनेक्शन प्रोटोकॉल त्रुटि
