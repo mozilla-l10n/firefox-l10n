@@ -1,3 +1,34 @@
+Versión 2.7:
+
+- Añadidos sustantivos como aluminosis, búnker, colocón, constructo, convivio, coronavirus, COVID, dermatólogo, dermatología, garrafón, grafitero, inventariable, laísmo, leísmo, loísmo, narcolepsia, negacionismo, negacionista, nutricionista, perrillo, portaviones, preestreno y transbordo.
+- Añadidos numerosos lemas recogidos en el reporte 183.
+- Añadida abreviatura kg.
+- Corregidos clíticos de objeto directo en verbos enganchar, desenganchar, paralizar, reenganchar y succionar.
+- Corregidos clíticos de objeto indirecto en 3ª persona en verbo pasar.
+- Añadidos los sustantivos catrín, chapulín, chunche, fregón, lonche, multicancha y soya en diversas variantes regionales.
+- Añadido el adjetivo aduanal en diversas variantes regionales.
+- Añadida la interjección guácala en diversas variantes regionales.
+- Añadido el sustantivo calaca en es_HN y es_MX.
+- Añadida la interjección fuchi en es_HN y es_MX.
+
+Versión 2.6:
+
+- Se ha renombrado la variante internacional "es_ANY" al valor estándar "es".
+- Se han añadido las variantes es_GQ (Guinea Ecuatorial), es_PH (Filipinas) y es_US (Estados Unidos de América).
+- Añadidos múltiples lemas sobre arquitectura, ciencias físicas, ciencias sociales, ciencias de la tierra, ciencias de la salud, botánica, zoología, química, biología, lingüística y lenguajes.
+- Añadidos múltiples lemas sobre estudios, disciplinas, técnicas o conocimientos, monosílabos, comunidades, adjetivos y sustantivos que se aplican a personas.
+- Añadidos múltiples adjetivos como altitudinal, antidopaje, bentónico, jemer, monocasco, perimetral, peronista, rococó, superventas, etc.
+- Añadidos múltiples adverbios como artesanalmente, genuinamente, etc.
+- Añadidos múltiples sustantivos como acetilcolina, adeudo, antidopaje, apertura, arcoiris, arreglista, autogobierno, bergantín, bioma, biosíntesis, cigüeñal, cimborrio, coenzima, endemismo, historietista, irrigación, jemer, interfase, linfoma, lípido, metanol, monitorización, motosierra, musicalización, nanotecnología, oxímoron, paleontología, palmarés, partisano, plusmarca, polideportivo, polluelo, psicodelia, psicofisiología, romanización, secuenciación, subcontinente, superventas, telerrealidad, teleserie, topología, ukelele, etc.
+- Añadidos múltiples sustantivos de acción como armonización, climatización, convección, degustación, derogación, etc.
+- Añadido plural de taxón (taxones).
+- Añadidos verbos como parasitar, refundar.
+- Añadidos diversos nombres propios.
+- Añadidos verbos no reconocidos oficialmente por la RAE como desamontonar, desequipar, desestructurar, etc.
+- Añadidos diversos sustantivos en variantes regionales como disquero, fifi, tortuguismo, etc.
+- Añadidos diversos verbos en variantes regionales como empanizar.
+- Añadidos topónimos de Cuba, Guinea Ecuatorial y Filipinas.
+
 Versión 2.5:
 - Mejorada la generación de diminutivos acabados en -illo.
 - Añadidos diversos términos (cebarte, fálico, gomaespuma, pegándole, desamontonar, desequipar, desestructurar).
