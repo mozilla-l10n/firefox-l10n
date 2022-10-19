@@ -189,11 +189,37 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = लॉगइन भेल फ़ाइल आयात करू
+about-logins-import-file-picker-import-button = आयात
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV दस्तावेज
+       *[other] CSV फाइल
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] { "" }
+       *[other] TSV फाइल
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = आयात भ' गेल
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>नवीन लॉगइन जोड़ल गेल:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>वर्तमान लॉगइन अपडेट करल गेल:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 
 ##
 ## Variables:
