@@ -136,13 +136,13 @@ confirm-on-close-multiple-tabs =
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
-    .label = გასვლის დასატურება ღილაკებით { $quitKey }
+    .label = გასვლის დადასტურება ღილაკებით { $quitKey }
     .accesskey = ტ
 warn-on-open-many-tabs =
     .label = გაფრთხილება, როცა ბევრი ჩანართის გახსნამ შესაძლოა შეანელოს { -brand-short-name }
     .accesskey = ე
 switch-to-new-tabs =
-    .label = ბმულის, სურათის ან ფაილის ახალ ჩანართში გახსნისას, მაშინვე მასზე გადასვლა
+    .label = ბმულის, სურათის ან ფაილის ახალ ჩანართში გახსნისას მაშინვე მასზე გადასვლა
     .accesskey = ზ
 show-tabs-in-taskbar =
     .label = ჩანართების შეთვალიერება Windows-ის ამოცანათა ზოლში
@@ -259,7 +259,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = გამოიყენოს საოპერაციო სისტემის პარამეტრები „{ $localeName }“ ფორმატის თარიღის, დროის, ციფრებისა და საზომი ერთეულებისთვის.
+    .label = თარიღის, დროის, ციფრებისა და საზომი ერთეულების წარმოსადგენად გამოიყენებს საოპერაციო სისტემის პარამეტრებს ენისთვის „{ $localeName }“.
 check-user-spelling =
     .label = მართლწერის შემოწმება ტექსტის აკრეფისას
     .accesskey = მ
@@ -282,7 +282,7 @@ download-choose-folder =
            *[other] რ
         }
 download-always-ask-where =
-    .label = ფაილების შენახვისას, ადგილმდებარეობის ყოველ ჯერზე მითითება
+    .label = ფაილების შენახვისას ადგილმდებარეობის ყოველ ჯერზე მითითება
     .accesskey = ყ
 applications-header = პროგრამები
 applications-description = აირჩიეთ, როგორ მოეპყრას { -brand-short-name } ინტერნეტიდან ჩამოტვირთულ ფაილებს ან იმ პროგრამებს, რომელთაც გვერდების მონახულებისას იყენებთ.
