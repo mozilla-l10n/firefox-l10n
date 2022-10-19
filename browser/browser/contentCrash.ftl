@@ -6,7 +6,6 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>මෙම පිටුවේ කොටසක් බිඳ වැටුණි.</strong> මෙම ගැටළුව පිළිබඳව { -brand-product-name } වෙත වාර්තාවක් යොමු කිරීමෙන් ඉක්මනින් විසඳා ගැනීමට හැකිවනු ඇත.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -19,6 +18,13 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message =
+    { $reportCount ->
+        [one] ඔබ සතුව නොයැවූ බිඳ වැටීම් වාර්තාවක් ඇත
+       *[other] ඔබ සතුව නොයැවූ බිඳ වැටීම් වාර්තා { $reportCount } ක් ඇත
+    }
 pending-crash-reports-view-all =
     .label = දකින්න
 pending-crash-reports-send =
