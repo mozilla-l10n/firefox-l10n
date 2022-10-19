@@ -5,46 +5,35 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } एकटा अवैध सुरक्षा प्रमाणपत्रक प्रयोग करैत  अछि .
-
 cert-error-mitm-intro = वेबसाइट सर्टिफिकेट द्वारा हुनकर पहिचान बुझैत अछि, जे कि सर्टिफिकेट ऑथरेटी द्वारा जारी करल जाएत अछि.
-
 cert-error-trust-unknown-issuer-intro = भ सकैत अछि जे केओ अहाँक इमपर्सोनेट कए रहल हुए, अहाँक साइट नहि खोलनाय चाही.
-
 cert-error-trust-cert-invalid = ई प्रमाणपत्र भरोसेमंद नहि अछि किएक ई कोनो अवैध CA प्रमाणपत्र क द्वारा निर्गत कएल गेल छला.
-
 cert-error-trust-untrusted-issuer = प्रमाणपत्र भरोसेमंद नहि अछि किएक एकर निर्गतकर्ताक प्रमाणपत्र भरोसेमंद नहि अछि.
-
 cert-error-trust-signature-algorithm-disabled = ई प्रमाणपत्र भरोसामंद नहि अछि किएकि ई हस्ताक्षर अलगोरिथमक उपयोग सँ हस्ताक्षरित कएल गेल अछि जे निष्क्रिय कएल गेल किएकि अलगोरिथम सुरक्षित नहि अछि.
-
 cert-error-trust-expired-issuer = प्रमाणपत्र भरोसेमंद नहि  अछि  किएकटाटा निर्गतकर्ता प्रमाणपत्र खत्म हो गेल  अछि .
-
 cert-error-trust-self-signed = प्रमाणपत्र भरोसेमंद नहि  अछि  किएकटाटा ई स्वहस्ताक्षरित  अछि .
-
 cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte, आओऱ  VeriSign द्वारा निर्गत कएल गेल प्रमाणपत्र केँ सुकक्षित नहि मानल जाएत किएकि पछिला बेर एकर प्रमाणपत्र ऑथेरेटी सुरक्षा संबंधित अभ्यास पर सही नहि पाएल गेल.
-
 cert-error-untrusted-default = प्रमाणपत्र कोनो भरोसेमद स्रोत सँ नहि आएल अछि.
-
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = त्रुटि कोड: <a data-l10n-name="error-code-link">{ $error }</a>
-
 cert-error-symantec-distrust-admin = अहाँ वेबसाइट प्रशासक केँ ई समस्या क जानकारी दिए सकैत छी
-
+cert-error-old-tls-version = भ' सकैत अछि जे ई वेबसाइट TLS 1.2 प्रोटोकॉल, केँ समर्थित नहि हुए जे कि  { -brand-short-name } द्वारा न्यूनतम समर्थित संस्करण हुए.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP सख़्त ट्रांसपोर्ट सुरक्षा: { $hasHSTS }
-
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP सार्वजनिक गुड़किल्ली पिनिंग: { $hasHPKP }
-
 cert-error-details-cert-chain-label = प्रमाणपत्र श्रृंखला:
-
 open-in-new-window-for-csp-or-xfo-error = नवीन विंडो में साइट खोलू
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = अहाँक सुरक्षा कलेल, { $hostname } { -brand-short-name } केँ ई पृष्ठ केँ  देखबाक लेल अनुमति नहि देत, जँ कोनो दोसर साइट एकरा सँग एम्बेडेड अछि. ई पृष्ट केँ देखबाक लेल अहाँक दोसर विंडो खोलए हाएत.
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = कनेक्ट करबामे असमर्थ
+connectionFailure-title = कनेक्ट करएमे असमर्थ
 deniedPortAccess-title = ई पता प्रतिबंधित अछि
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
