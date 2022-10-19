@@ -8,20 +8,16 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = გაასაჩივრეთ { $addon-name }
-
 abuse-report-title-extension = საჩივარს ამ გაფართოების შესახებ გაეცნობა { -vendor-short-name }
 abuse-report-title-sitepermission = საჩივარს საიტის ნებართვების ამ დამატების შესახებ გაეცნოს { -vendor-short-name }
 abuse-report-title-theme = საჩივარს, ამ თემის შესახებ გაეცნობა { -vendor-short-name }
 abuse-report-subtitle = რას ეხება საქმე?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = შემქმნელი <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     ზუსტად არ იცით რა უნდა მიუთითოთ?
     <a data-l10n-name="learnmore-link">იხილეთ ვრცლად გაფართოებებისა და თემების შესახებ საჩივრის გაგზავნაზე</a>
-
 abuse-report-submit-description = აღწერეთ საკითხი (არასავალდებულო)
 abuse-report-textarea =
     .placeholder = დაწვრილებითი ინფორმაცია გვეხმარება ხარვეზის გამორკვევაში. გთხოვთ, აღწეროთ რა დაბრკოლებას გადააწყდით. გმადლობთ, რომ გვეხმარებით ვებსივრცის სიჯანსაღის შენარჩუნებაში.
@@ -65,19 +61,15 @@ abuse-report-messagebar-action-cancel = გაუქმება
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason-v2 = დააზიანა ჩემი კომპიუტერი და მოიპარა ჩემი მონაცემები
-abuse-report-damage-example = მაგალითად: დააყენა მავნე პროგრამა ან მოიპარა მონაცემები
-
+abuse-report-damage-example = მაგალითად: დააყენა მავნე პროგრამა ან მოიპარა ინფორმაცია
 abuse-report-spam-reason-v2 = შეიცავს ჯართს ან ამატებს არასასურველ რეკლამებს
 abuse-report-spam-example = მაგალითად: ათავსებს რეკლამებს ვებგვერდებზე
-
 abuse-report-settings-reason-v2 = შეცვალა ჩემი საძიებო სისტემა, საწყისი გვერდი ან ახალი ჩანართი უნებართვოდ
 abuse-report-settings-suggestions = მოხსენების გამოგზავნამდე, შეგიძლიათ სცადოთ პარამეტრების შეცვლა:
 abuse-report-settings-suggestions-search = ცვლის თქვენს ნაგულისხმევ საძიებო სისტემას
 abuse-report-settings-suggestions-homepage = ცვლის თქვენს საწყის გვერდს და ახალ ჩანართს
-
 abuse-report-deceptive-reason-v2 = თავს სხვა რამედ ასაღებს
-abuse-report-deceptive-example = მაგალითად: შემაცდენელი აღწერა ან სურათები
-
+abuse-report-deceptive-example = მაგალითად: შემაცდენელი აღწერა ან სურათები ახლავს
 abuse-report-broken-reason-extension-v2 = არ იმუშავა, დააზიანა ვებსაიტები ან შეანელა { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = არ იმუშავა, დააზიანა ვებსაიტები ან შეანელა { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = არ მუშაობს ან აზიანებს ბრაუზერის გამოსახულებას
@@ -92,14 +84,11 @@ abuse-report-broken-suggestions-theme =
     როგორც ჩანს, თქვენ აღმოაჩინეთ ხარვეზი. აქ გამოგზავნილი მოხსენების გარდა, კარგი იქნება, თუ მუშაობასთან
     დაკავშირებული საკითხების მოსაგვარებლად, თავად თემის შემმუშავებელს დაუკავშირდებით.
     <a data-l10n-name="support-link">ეწვიეთ თემის ვებსაიტს</a> შემმუშავებელთან დასაკავშირებლად.
-
 abuse-report-policy-reason-v2 = სიძულვილის, ძალადობის ან უკანონობის შემცველია
 abuse-report-policy-suggestions =
     შენიშვნა: საავტორო უფლებებისა და სავაჭრო ნიშნების დარღვევების შესახებ, მოხსენებები ცალკე უნდა გამოიგზავნოს.
     <a data-l10n-name="report-infringement-link">ისარგებლეთ ამ მითითებებით</a>
     ხარვეზის მოხსენებისთვის.
-
 abuse-report-unwanted-reason-v2 = არასოდეს მდომებია და არ ვიცი როგორ მოვიცილო
 abuse-report-unwanted-example = მაგალითად: პროგრამა თავისით ჩაიდგა უნებართვოდ
-
 abuse-report-other-reason = სხვა
