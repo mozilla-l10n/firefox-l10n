@@ -4,7 +4,7 @@
 
 create-profile-window =
     .title = Asistent za založenje profilow
-    .style = min-width: 45em; min-height: 32em;
+    .style = width: 45em; height: 32em;
 create-profile-window2 =
     .title = Asistent za založenje profilow
     .style = min-width: 45em; min-height: 32em;
