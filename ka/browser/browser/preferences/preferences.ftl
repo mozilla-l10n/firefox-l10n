@@ -43,7 +43,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } ცდები
 pane-experimental-subtitle = გამოიყენეთ სიფრთხილით
 pane-experimental-search-results-header = { -brand-short-name } ცდები: გამოიყენეთ სიფრთხილით
-pane-experimental-description2 = გაფართოებული პარამეტრების შეცვლით შესაძლოა დაზიანდეს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
+pane-experimental-description2 = გაფართოებული პარამეტრების შეცვლის შედეგად შესაძლოა დაზიანდეს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
 pane-experimental-reset =
     .label = ნაგულისხმევის აღდგენა
     .accesskey = უ
@@ -556,7 +556,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ში შენახული გვერდები
 home-prefs-recent-activity-header =
     .label = ბოლო მოქმედებები
-home-prefs-recent-activity-description = შერჩეული ბოლოს ნანახი საიტებისა და მასალებიდან
+home-prefs-recent-activity-description = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
