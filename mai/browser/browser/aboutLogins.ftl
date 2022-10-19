@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लॉगिन & गुड़किल्ली
-
 login-filter =
     .placeholder = लॉगिन खोज
-
 create-login-button = नवीन लॉगिन बनाबू
-
 fxaccounts-sign-in-text = अपन गुड़किल्ली दोसर डिवाइस पर पाबू
 fxaccounts-sign-in-sync-button = सिंक करए कलेल साइन-इन करू
 fxaccounts-avatar-button =
@@ -106,15 +103,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = सहेजल लॉगिन क' संपादित करू
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली जानू
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली कॉपी करू
-
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = सहेजल लॉगिन आओर गुड़किल्ली निर्यात करू
@@ -130,46 +124,68 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = रद्द करू
 confirmation-dialog-dismiss-button =
     .title = रद्द करू
-
 about-logins-confirm-remove-dialog-title = ई लॉगिन केँ हटाबू?
 confirm-delete-dialog-message = ई क्रिया घुराबल नहि जाए सकैत अछि.
 about-logins-confirm-remove-dialog-confirm-button = हटाउ
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] हटाउ
        *[other] सभ हटाउ
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] हँ, ई लॉगिन हटाउ
        *[other] हँ, सभ लॉगिन हटाउ
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ल़गिन { $count } हटाउ?
        *[other] सभ लॉगिन { $count } हटाउ?
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] सभ डिवाइस सँ लॉगिन { $count } हटाउ?
        *[other] सभ डिवाइस सँ सभ लॉगिन { $count } हटाउ?
     }
+about-logins-confirm-export-dialog-title = लॉगिन आओर गुड़किल्ली निर्यात करू
+about-logins-confirm-export-dialog-confirm-button = निर्यात…
+about-logins-alert-import-title = आयात भ' गेल
+confirm-discard-changes-dialog-confirm-button = छोड़ि दिअ
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = वेबसाइट उल्लंघन
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } पर जाउ
+about-logins-breach-alert-learn-more-link = बेसी जानू
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = कमजोर गुड़किल्ली
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } पर जाउ
+about-logins-vulnerable-alert-learn-more-link = बेसी जानू
 
 ## Error Messages
 
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = लॉगइन फ़ाइल निर्यात करू
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = निर्यात करू
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV दस्तावेज
+       *[other] CSV फाइल
+    }
 
 ## Login Import Dialog
 
