@@ -1,12 +1,34 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Help Menu -->
 
+<!-- Help Menu -->
 <!ENTITY helpMenu.label "Cabhair">
 <!ENTITY helpMenu.accesskey "h">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Cabhair">
 <!ENTITY helpMenuWin.accesskey "h">
+<!ENTITY aboutProduct2.label "Maidir le &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "M">
+<!ENTITY productHelp.label "Cabhair &brandShortName;">
+<!ENTITY productHelp.accesskey "h">
 
+<!-- Help Menu -->
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+
+<!ENTITY helpKeyboardShortcuts.label "Aicearraí Méarchláir">
+<!ENTITY helpKeyboardShortcuts.accesskey "A">
+
+<!ENTITY helpFeedbackPage.label "Seol Aiseolas Chugainn…">
+<!ENTITY helpFeedbackPage.accesskey "S">
+
+<!ENTITY helpShowTour2.label "Turas ar &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "u">
+
+<!ENTITY helpGetInvolvedPage.label "Glac Páirt">
+<!ENTITY helpGetInvolvedPage.accesskey "G">
+
+<!ENTITY helpDonationsPage.label "Tabhair Deontas">
+<!ENTITY helpDonationsPage.accesskey "D">
