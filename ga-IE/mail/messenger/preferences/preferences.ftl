@@ -8,6 +8,8 @@ preferences-doc-title2 = Socruithe
 category-list =
     .aria-label = Catagóirí
 pane-general-title = Ginearálta
+category-general =
+    .tooltiptext = { pane-general-title }
 pane-compose-title = Cumadh
 category-compose =
     .tooltiptext = Cumadh
@@ -21,24 +23,51 @@ pane-calendar-title = Féilire
 category-calendar =
     .tooltiptext = Féilire
 general-language-and-appearance-header = Teanga & Cuma
+general-files-and-attachment-header = Comhaid & Ceangaltáin
+general-tags-header = Clibeanna
+general-reading-and-display-header = Léitheoireacht & Taispeáint
+general-updates-header = Nuashonruithe
+general-network-and-diskspace-header = Líonra & Spás Diosca
+general-indexing-label = Innéacsú
+composition-category-header = Cumadh
+composition-attachments-header = Ceangaltáin
+composition-spelling-title = Litriú
+compose-html-style-title = Stíl HTML
+composition-addressing-header = Seoladh
+privacy-main-header = Príobháideachas
 privacy-passwords-header = Focail Fhaire
+privacy-junk-header = Dramhphost
 collection-header = Bailiú agus Úsáid Sonraí { -brand-short-name }
 collection-description = Déanaimid ár ndícheall roghanna a thabhairt duit agus an méid is lú sonraí a bhailiú chun feabhas a chur ar { -brand-short-name } ar son an phobail. Iarraimid cead ort i gcónaí sula mbailímid sonraí pearsanta uait.
 collection-privacy-notice = Fógra Príobháideachais
 collection-health-report-telemetry-disabled-link = Tuilleadh eolais
 collection-health-report-link = Tuilleadh eolais
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
 collection-backlogged-crash-reports =
     .label = Lig do { -brand-short-name } seantuairiscí tuairteála a sheoladh ar do shon
     .accesskey = c
 collection-backlogged-crash-reports-link = Tuilleadh eolais
+privacy-security-header = Slándáil
+privacy-scam-detection-title = Aimsiú Camscéimeanna
 privacy-anti-virus-title = Frithvíreas
 privacy-certificates-title = Teastais
 chat-pane-header = Comhrá
 chat-status-title = Stádas
 chat-notifications-title = Fógraí
+confirm-messenger-language-change-button = Cuir i bhFeidhm agus Atosaigh
+update-in-progress-title = Nuashonrú ar Siúl
+update-in-progress-ok-button = &Cuileáil
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Ar Aghaidh
+account-button = Socruithe Cuntais
 
 ## OS Authentication dialog
 
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -92,6 +121,7 @@ enable-gloda-search-label =
     .label = Cumasaigh Cuardach Cuimsitheach agus an tInneacsóir
     .accesskey = e
 datetime-formatting-legend = Formáidiú Dáta agus Ama
+language-selector-legend = Teanga
 allow-hw-accel =
     .label = Bain úsáid as luasghéarú crua-earraí más féidir
     .accesskey = l
@@ -226,6 +256,7 @@ smaller-size-item =
 quoted-text-color =
     .label = Dath:
     .accesskey = t
+action-column-header = Gníomh
 save-to-label =
     .label = Sábháil comhaid i
     .accesskey = S
@@ -284,6 +315,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Dún fuinneog/cluaisín na teachtaireachta tar éis a bhogtha nó scriosta
     .accesskey = c
+display-name-label =
+    .value = Ainm taispeána:
 condensed-addresses-label =
     .label = Ná taispeáin ach an t-ainm taispeána le haghaidh daoine atá i mo leabhar seoltaí
     .accesskey = s
@@ -516,6 +549,15 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Brabhsáil…
     .accesskey = B
+theme-label =
+    .value = Téama:
+    .accesskey = T
+style-dark =
+    .label = Dorcha
+style-simple =
+    .label = Simplí
+preview-label = Réamhamharc:
 
 ## Settings UI Search Results
 
+search-results-header = Torthaí an Chuardaigh
