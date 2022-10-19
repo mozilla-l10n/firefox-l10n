@@ -33,6 +33,7 @@ calendar-invitation-datetime-date = { $dayOfWeek }, { $date }
 # $time (String) - The time part of a datetime using the "short" timeStyle.
 # $timezone (String) - The timezone info for the datetime.
 calendar-invitation-datetime-time = { $time } ({ $timezone })
+calendar-invitation-panel-prop-title-recurrence = Toistuu:
 calendar-invitation-panel-prop-title-attendees = Osallistujat:
 calendar-invitation-panel-prop-title-description = Kuvaus:
 # Variables:
