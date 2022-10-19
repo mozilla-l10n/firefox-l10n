@@ -16,6 +16,17 @@ cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte, आओऱ  Ver
 cert-error-untrusted-default = प्रमाणपत्र कोनो भरोसेमद स्रोत सँ नहि आएल अछि.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Websites prove their identity via certificates. { -brand-short-name } does not trust this site because it uses a certificate that is not valid for { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = वेबसाइट अपन पहिचान केँ सर्टिफिकेट द्वारा साबित करैत अछि, { -brand-short-name } ई साईट पर भरोसा नहि करैत अछि, किएक ई एहन सर्टिफिकेट उपयोग करैत अछि जे कि { $hostname } कलेल वैध नहि अछि. सर्टिफिकेट केवल <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> कलेल वैध अछि.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = वेबसाइट सर्टिफिकेट द्वारा अपन पहिचान साबित करैत अछि, दे कि किछु निर्धारित समय धरि लेल वैध रक्त अछि. { $hostname } कलेल सर्टिफिकेट { $not-after-local-time } केँ समाप्त हाएत अछि.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = वेबसाइट अपन पहिचान केँ सर्टिफिकेट द्वारा साबित करैत अछि, जे कि किछु निर्धारित समय कलेल वैध हाएत अछि.  { $hostname } केर सर्टिफिकेट { $not-before-local-time } धरि वैध नहि हाएत.
 # Variables:
