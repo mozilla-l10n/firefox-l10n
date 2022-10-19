@@ -6,6 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } एकटा अवैध सुरक्षा प्रमाणपत्रक प्रयोग करैत  अछि .
 cert-error-mitm-intro = वेबसाइट सर्टिफिकेट द्वारा हुनकर पहिचान बुझैत अछि, जे कि सर्टिफिकेट ऑथरेटी द्वारा जारी करल जाएत अछि.
+cert-error-mitm-connection = { -brand-short-name } प्रयोक्ता'क ओपरेटिंग सिस्टम द्वारा देल गेल सर्टिफिकेट के बजाय कनेक्शन केर सुरक्षा जाँचए कलेल  Mozilla CA स्टोरक उपयोग करैत अछि. एहिलेल, जँ कोनो एंटीवायरस प्रोग्राम अथवा कोनो नेटवर्क सुरक्षा सर्टिफिकेट CA द्वारा जारी कएल गेल सर्टिफिकेट द्वारा कनेक्शन बाधित कए रहल अछि, ओ कनेक्शन सुरक्षित नहि बुझल जाएत.
 cert-error-trust-unknown-issuer-intro = भ सकैत अछि जे केओ अहाँक इमपर्सोनेट कए रहल हुए, अहाँक साइट नहि खोलनाय चाही.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
