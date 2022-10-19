@@ -23,6 +23,13 @@ cert-error-domain-mismatch = Websites prove their identity via certificates. { -
 cert-error-domain-mismatch-single = वेबसाइट अपन पहिचान केँ सर्टिफिकेट द्वारा साबित करैत अछि, { -brand-short-name } ई साईट पर भरोसा नहि करैत अछि, किएक ई एहन सर्टिफिकेट उपयोग करैत अछि जे कि { $hostname } कलेल वैध नहि अछि. सर्टिफिकेट केवल <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> कलेल वैध अछि.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = वेबसाइट अपन पहिचान केँ सर्टिफिकेट द्वारा साबित करैत अछि, { -brand-short-name } ई साईट पर भरोसा नहि करैत अछि, किएक ई एहन सर्टिफिकेट उपयोग करैत अछि जे कि { $hostname } कलेल वैध नहि अछि. ई सर्टिफिकेट केवल { $alt-name } कलेल वैध अछि.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = वेबसाइट अपन पहिचान केँ सर्टिफिकेट द्वारा साबित करैत अछि, { -brand-short-name } ई साईट पर भरोसा नहि करैत अछि, किएक ई एहन सर्टिफिकेट उपयोग करैत अछि जे कि { $hostname } कलेल वैध नहि अछि. ई सर्टिफिकेट केवल { $subject-alt-names } कलेल वैध अछि.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = वेबसाइट सर्टिफिकेट द्वारा अपन पहिचान साबित करैत अछि, दे कि किछु निर्धारित समय धरि लेल वैध रक्त अछि. { $hostname } कलेल सर्टिफिकेट { $not-after-local-time } केँ समाप्त हाएत अछि.
 # Variables:
