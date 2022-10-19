@@ -369,7 +369,7 @@ urlbar-result-action-search-tabs = Cuardaigh sna Cluaisíní
 ## Labels shown above groups of urlbar results
 
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -405,6 +405,8 @@ pointerlock-warning-no-domain = Tá an cháipéis seo i gceannas ar do chúrsói
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Bainistigh leabharmharcanna
 bookmarks-toolbar-chevron =
     .tooltiptext = Tuilleadh leabharmharcanna
 bookmarks-sidebar-content =
@@ -426,10 +428,10 @@ bookmarks-bookmark-edit-panel =
 # This avoids double-speaking.
 bookmarks-toolbar =
     .toolbarname = Barra Leabharmharc
-    .accesskey = B
+    .accesskey = L
     .aria-label = Leabharmharcanna
 bookmarks-toolbar-menu =
-    .label = Barra Leabharmharc
+    .label = Barra leabharmharc
 bookmarks-toolbar-placeholder =
     .title = Rudaí ar an Bharra Leabharmharc
 bookmarks-toolbar-placeholder-button =
