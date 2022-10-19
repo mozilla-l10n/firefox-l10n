@@ -220,6 +220,23 @@ about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>वर्तमान लॉगइन अपडेट करल गेल:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>डुप्लीकेट लॉगइन भेटल:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात नहि भेल)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>त्रुटि:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात नहि भेल)</span>
+    }
+about-logins-import-dialog-done = संपन्न
+about-logins-import-dialog-error-title = त्रुटि आयात करू
+about-logins-import-dialog-error-file-format-title = फाइल फ़ॉर्मेट बाधा
+about-logins-import-dialog-error-file-permission-title = फ़ाइल पढ़ए मे असमर्थ
+about-logins-import-dialog-error-no-logins-imported = कोनो लॉगिन आयात नहि काल गेल
+about-logins-import-dialog-error-learn-more = बेसी जानू
+about-logins-import-dialog-error-try-import-again = फिनु आयात कलेल प्रयत्न करू…
+about-logins-import-dialog-error-cancel = रद्द करू
+about-logins-import-report-title = सारांश आयात करू
 
 ##
 ## Variables:
