@@ -19,7 +19,7 @@ cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte, आओऱ  Ver
 cert-error-untrusted-default = प्रमाणपत्र कोनो भरोसेमद स्रोत सँ नहि आएल अछि.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Websites prove their identity via certificates. { -brand-short-name } does not trust this site because it uses a certificate that is not valid for { $hostname }.
+cert-error-domain-mismatch = वेबसाइट अपन पहिचान केँ सर्टिफिकेट द्वारा साबित करैत अछि, { -brand-short-name } ई साईट पर भरोसा नहि करैत अछि, किएक ई एहन सर्टिफिकेट उपयोग करैत अछि जे कि { $hostname } कलेल वैध नहि अछि.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
