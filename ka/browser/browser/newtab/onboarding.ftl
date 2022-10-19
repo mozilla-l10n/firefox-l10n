@@ -405,6 +405,6 @@ mr2022-onboarding-gratitude-secondary-button-label = დაიწყეთ მ�
 
 ## Onboarding spotlight for infrequent users
 
-onboarding-infrequent-import-title = იგრძენით თავი საკუთარ სახლში
-onboarding-infrequent-import-subtitle = გადმოსვლას აპირებთ თუ დროებით გამოყენებას, გახსოვდეთ, რომ მარტივად შეგიძლიათ გადმოიტანოთ თქვენი სანიშნები, პაროლები და სხვ.
+onboarding-infrequent-import-title = თავი იგრძენით საკუთარ სახლში
+onboarding-infrequent-import-subtitle = გადმობარგებას აპირებთ თუ დროებით დარჩენას, გახსოვდეთ, რომ მარტივად შეგიძლიათ გადმოიტანოთ თქვენი სანიშნები, პაროლები და სხვ.
 onboarding-infrequent-import-primary-button = გადმოტანა – { -brand-short-name }
