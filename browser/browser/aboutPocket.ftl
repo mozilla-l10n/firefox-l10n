@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Dodaj oznake
-
 pocket-panel-saved-error-generic = Došlo je do greške pri spremanju u { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Oznake su ograničene na 25 znakova
 pocket-panel-saved-error-only-links = Mogu se spremiti samo poveznice
@@ -19,7 +18,9 @@ pocket-panel-saved-error-not-saved = Stranica nije spremljena
 pocket-panel-saved-error-no-internet = Za spremanje u { -pocket-brand-name } potrebna je internetska veza. Spoji se na internet i pokušaj ponovno.
 pocket-panel-saved-page-removed = Stranica uklonjena
 pocket-panel-saved-page-saved = Spremljeno u { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Spremljeno u { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Uklanjanje stranice…
+pocket-panel-saved-removed = Stranica uklonjena s mog popisa
 pocket-panel-saved-processing-tags = Dodavanje oznaka…
 pocket-panel-saved-remove-page = Ukloni stranicu
 pocket-panel-saved-save-tags = Spremi
@@ -27,6 +28,8 @@ pocket-panel-saved-saving-tags = Spremanje…
 pocket-panel-saved-suggested-tags = Predložene oznake
 pocket-panel-saved-tags-saved = Oznake dodane
 pocket-panel-signup-view-list = Prikaži popis
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Dodaj oznake:
 
 ## about:pocket-signup panel
 
@@ -50,6 +53,7 @@ pocket-panel-home-discover-more = Otkrij više
 pocket-panel-home-explore-more = Istraži
 
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
