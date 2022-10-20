@@ -18,7 +18,6 @@ callout-firefox-view-recently-closed-subtitle = Ձեր բոլոր փակ ներ�
 callout-firefox-view-colorways-title = Ավելացրեք գույնի շիթ
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Ընտրեք այն երանգը, որը խոսում է ձեզ հետ գունային երանգներով: Միայն { -brand-product-name }-ում:
-callout-firefox-view-colorways-reminder-title = { "" }
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Գունավորեք ձեր զննիչն այս խորհրդանշական երանգներով, որոնք ոգեշնչված են անկախ ձայներից: Միայն { -brand-product-name }-ում:
 
