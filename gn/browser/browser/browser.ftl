@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Ñeikundaha ñemi
 
 ##
@@ -321,6 +323,9 @@ quickactions-cmd-update = mbohekopyahu
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ehecha ayvu reñoiha
 quickactions-cmd-viewsource = ehecha teñoiha, teñoiha
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Eikuaave mbopya’eha rehegua
 
 ## Bookmark Panel
 

@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Tembiapoite ñe’ẽporãpyre
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mba’ére ahechahína kóva
-
 cfr-doorhanger-extension-cancel-button = Ko’ág̃a nahániri
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Embojuaju ko’ág̃a
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Eñangareko je’eporã ñemboheko rehe
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Ani ehechauka ko je’eporã
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Kuaave
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Hese { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Je’ete
 cfr-doorhanger-extension-notification2 = Je’eporã
     .tooltiptext = Jepysokue je’eporã
     .a11y-announcement = Jepysokue je’eporã eipurukuaáva
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Je’eporã
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Eikuaave
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Peteĩchagua pyahu:
-
 cfr-whatsnew-button =
     .label = Oĩpa mba’e pyahu
     .tooltiptext = Oĩpa mba’e pyahu
-
 cfr-whatsnew-release-notes-link-text = Emoñe’ẽ jehaipy rehegua
 
 ## Enhanced Tracking Protection Milestones
@@ -165,7 +155,6 @@ spotlight-total-cookie-protection-body = Ñemo’ãmbaite kookie rovake omboyke 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } omopu’ã tápia kookie jerére ha ojoko tenda oĩhápe ani hag̃ua tapykuehoha oipuru nde rapykueho hag̃ua. Pe jeike voi ndive, oipytyvõta oiko porãve hag̃ua tembiapoite rojapo hag̃ua ñanduti iporãva opavavépe g̃uarã.
 spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
-
 cfr-total-cookie-protection-header = Nde rupive, { -brand-short-name } ipya’eve ha hekoñemivéntema
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -198,6 +187,11 @@ spotlight-pin-secondary-button = Ani ko’ág̃a
 ## Windows and therefore must be as narrow as possible.
 
 # This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Embojuruja { -brand-shorter-name } ko’ág̃a
+# This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
@@ -209,6 +203,7 @@ firefoxview-cfr-primarybutton = Eha’ãjey
     .accesskey = T
 firefoxview-cfr-secondarybutton = Ani ko’ág̃a
     .accesskey = N
+firefoxview-cfr-header = Erujey tendayke embotyramóva { -firefoxview-brand-name } ndive
 
 ## Firefox View Spotlight
 
