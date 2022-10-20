@@ -171,7 +171,13 @@ firefoxview-cfr-primarybutton = Փորձիր
     .accesskey = T
 firefoxview-cfr-secondarybutton = Ոչ հիմա
     .accesskey = N
+firefoxview-cfr-header = Վերադարձեք վերջերս փակված ներդիրները { -firefoxview-brand-name }-ով
+firefoxview-cfr-body = Գումարած, անխափան կերպով ցատկեք սարքերի միջև և ձեր դիտարկիչին ավելացրեք գույնի շիթ:
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Ասեք բարև { -firefoxview-brand-name }-ին
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Ցանկանո՞ւմ եք բացել ներդիրը ձեր հեռախոսում: Արեք դա: Պետք է բացել այն կայքը, որը նոր էիք այցելել: Պահ, այն { -firefoxview-brand-name }-ում է:
+firefoxview-spotlight-promo-primarybutton = Տեսեք, թե ինչպես է այն աշխատում
 firefoxview-spotlight-promo-secondarybutton = Բաց թողնել

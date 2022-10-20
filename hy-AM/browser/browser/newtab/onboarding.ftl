@@ -284,9 +284,20 @@ mr2022-onboarding-set-default-only-subtitle = Սկսեք զննարկիչով, �
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Շնորհակալություն { -brand-product-name } սիրելու համար
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Գործարկեք ավելի առողջ ինտերնետ ցանկացած վայրից մեկ սեղմումով: Մեր վերջին թարմացումը հագեցած է նոր բաներով, որոնք մենք կարծում ենք, որ դուք կպաշտեք:
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Օգտագործեք զննիչ, որը պաշտպանում է ձեր գաղտնիությունը համացանցում սեղմելով: Մեր վերջին թարմացումը լի է այն բաներով, որոնք դուք պաշտում եք:
+mr2022-onboarding-existing-pin-checkbox-label = Նաև ավելացրեք { -brand-short-name } մասնավոր զննում
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Դարձրեք { -brand-short-name }-ը ձեր հիմնական զննիչը
+mr2022-onboarding-set-default-primary-button-label = Կայեք { -brand-short-name }-ը որպես սկզբնադիր զննիչ
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -301,20 +312,38 @@ mr2022-onboarding-set-default-only-subtitle = Սկսեք զննարկիչով, �
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-subtitle = Անկախ ձայները կարող են փոխել մշակույթը:
 mr2022-onboarding-colorway-primary-button-label-continue = Սահմանել և շարունակել
+mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Փլեյմեյքեր
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Փլեյմեյքեր (կարմիր)
+mr2022-onboarding-colorway-description-playmaker = <b>Դուք փլեյմեյքեր եք:</b> Դուք հնարավորություններ եք ստեղծում հաղթելու և օգնում եք ձեր շրջապատի բոլորին բարձրացնել իրենց խաղը:
+mr2022-onboarding-colorway-description-innovator = <b>Դուք նորարար եք:</b> Դուք տեսնում եք հնարավորություններ ամենուր և ազդեցություն եք թողնում ձեր շրջապատի բոլոր մարդկանց կյանքի վրա:
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Անցեք լափթոփից հեռախոս և ետ եկեք
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Ստացեք մասնավոր զննման ազատություն մեկ քլիքով
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Ոչ մի պահված թխուկ կամ պատմություն: Աշխատեք այնպես, կարծես ոչ ոք չի հետևում Ձեզ:
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Պահեք { -brand-short-name }-ի մասնավոր զննումը ամրակցված
+       *[other] Ամրացրեք { -brand-short-name }-ի մասնավոր զննումը Խնդրագոտուն
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Դուք օգնում եք մեզ կառուցել ավելի լավ համացանց
+mr2022-onboarding-gratitude-subtitle = Շնորհակալություն { -brand-short-name }-ը օգտագործելու համար, Mozilla Foundation-ի կողմից: Ձեր աջակցությամբ մենք աշխատում ենք համացանցը դարձնել ավելի բաց, մատչելի և լավ բոլորի համար:
 
 ## Onboarding spotlight for infrequent users
 
