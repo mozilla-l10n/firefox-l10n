@@ -5,7 +5,8 @@
 app-manager-window-dialog =
     .title = Ohjelman tiedot
     .style = width: 30em; min-height: 20em;
-
+app-manager-window-dialog2 =
+    .title = Ohjelman tiedot
 remove-app-button =
     .label = Poista
     .accesskey = P
