@@ -22,12 +22,21 @@ firefoxview-tabpickup-description = Բացեք էջերը այլ սարքերի�
 firefoxview-tabpickup-progress-label = { $percentValue }% ավարտված է
 firefoxview-tabpickup-step-signin-primarybutton = Շարունակել
 firefoxview-tabpickup-adddevice-learn-how = Իմանալ ինչպես
+firefoxview-tabpickup-adddevice-primarybutton = Ստացեք { -brand-product-name } բջջայինի համար
 firefoxview-tabpickup-synctabs-header = Միացնել ներդիրների համաժամացումը
 firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
+firefoxview-mobile-promo-header = Բերեք ներդիրները ձեր հեռախոսից կամ թաբլեթից
 firefoxview-mobile-confirmation-header = 🎉 Լավ է գնալ:
+firefoxview-mobile-confirmation-description = Այժմ կարող եք բերել { -brand-product-name }-ի ձեր ներդիրները թաբլեթից կամ հեռախոսից:
 firefoxview-closed-tabs-title = Վերջին փակվածը
+firefoxview-closed-tabs-description2 = Վերաբացեք ձեր փակած էջերը այս պատուհանում:
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Վերջին ակտիվը
+firefoxview-change-colorway-button = Փոխել գույնը
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
