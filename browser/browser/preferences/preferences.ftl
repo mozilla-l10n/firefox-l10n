@@ -214,7 +214,7 @@ preferences-web-appearance-override-warning = Värivalintasi ohittavat verkkosiv
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Hallinnoi { -brand-short-name }in teemoja <a data-l10n-name="themes-link">Laajennukset ja teemat -osiossa</a>
 preferences-colors-header = Värit
-preferences-colors-description = Ohita { -brand-short-name }n oletusvärit tekstille, verkkosivustojen taustoille ja linkeille.
+preferences-colors-description = Ohita { -brand-short-name }in oletusvärit tekstille, verkkosivustojen taustoille ja linkeille.
 preferences-colors-manage-button =
     .label = Hallitse värejä…
     .accesskey = ä
@@ -523,7 +523,7 @@ choose-bookmark =
 home-prefs-content-header = Firefox-aloitussivun sisältö
 home-prefs-content-description = Valitse Firefox-aloitussivulle haluamasi sisältö.
 home-prefs-content-header2 = { -firefox-home-brand-name }n sisältö
-home-prefs-content-description2 = Valitse mitä sisältöä haluat { -firefox-home-brand-name }in näytölle.
+home-prefs-content-description2 = Valitse mitä sisältöä haluat { -firefox-home-brand-name }lle.
 home-prefs-search-header =
     .label = Verkkohaku
 home-prefs-shortcuts-header =
