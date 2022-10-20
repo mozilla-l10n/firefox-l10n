@@ -16,31 +16,84 @@ onboarding-not-now-button-label = Ոչ հիմա
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Հիանալի է, դուք ստացել եք { -brand-short-name }-ը
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Այժմ ստացեք ձեր <img data-l10n-name="icon"/>{ $addon-name }:
 return-to-amo-add-extension-label = Ավելացնել ընդլայնում
 return-to-amo-add-theme-label = Ավելացնել ոճ
 
 ## Multistage onboarding strings (about:welcome pages)
 
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Սկսում ենք. էկրան { $current }-ը { $total }-ից
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = Ընթացքը. քայլ { $current }՝ { $total }-ից
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Կրակը սկսվում է
+    այստեղից
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Կահույքի դիզայներ, Firefox-ի երկրպագու
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Անջատեք անիմացիաները
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Հեշտ մատչելու համար պահեք { -brand-short-name }-ը հարակցված
+       *[other] Հեշտ մատչելու համար ամրացրեք { -brand-short-name }-ը ձեր Խնդրագոտուն
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Պահել հարակցված
+       *[other] Ամրացրեք Խնդրագոտուն
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Սկսել
+mr1-onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
+    .title = { -brand-short-name }-ը կկայվի որպես սկզբնադիր զննիչ և կամրացվի Խնդրագոտուն
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
 mr1-onboarding-set-default-secondary-button-label = Ոչ հիմա
 mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -135,4 +188,7 @@ mr2022-onboarding-colorway-primary-button-label-continue = Սահմանել և �
 
 
 ## MR2022 Multistage Gratitude screen strings
+
+
+## Onboarding spotlight for infrequent users
 
