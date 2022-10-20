@@ -95,6 +95,7 @@ mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 mr1-onboarding-default-header = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
 mr1-onboarding-default-subtitle = Դրեք արագությունը, անվտանգությունը և գաղտնիությունը ավտոպիլոտի
+mr1-onboarding-default-primary-button-label = Դարձնել հիմնական դիտարկիչ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -107,6 +108,19 @@ mr1-onboarding-import-primary-button-label-attribution = Ներմուծել { $p
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Ներմուծել նախորդ զննիչից
 mr1-onboarding-import-secondary-button-label = Ոչ հիմա
+mr2-onboarding-colorway-header = Կյանքը գունավոր
+mr2-onboarding-colorway-subtitle = Վառ նոր գունային երանգներ: Հասանելի է սահմանափակ ժամանակով:
+mr2-onboarding-colorway-primary-button-label = Պահել գույնը
+mr2-onboarding-colorway-secondary-button-label = Ոչ հիմա
+mr2-onboarding-colorway-label-soft = Փափուկ
+mr2-onboarding-colorway-label-balanced = Հավասարակշռված
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Թավ
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Ինքնա
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Սկզբնադիր
 mr1-onboarding-theme-header = Դարձրեք այն ձերը
 mr1-onboarding-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
 mr1-onboarding-theme-primary-button-label = Պահել ոճը
@@ -124,11 +138,74 @@ onboarding-theme-primary-button-label = Պատրաստ է
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Հետևեք օպերացիոն համակարգի ոճին
+        կոճակների, ցանկերի և պատուհանների համար:
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Հետևեք օպերացիոն համակարգի ոճին
+        կոճակների, ցանկերի և պատուհանների համար:
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Օգտագործեք թեթև ոճ կոճակների,
+        ցանկերի և պատուհանների համար։
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Օգտագործեք թեթև ոճ կոճակների,
+        ցանկերի և պատուհանների համար։
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Օգտագործեք մուգ ոճ կոճակների,
+        ցանկերի և պատուհանների համար։
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Օգտագործեք մուգ ոճ կոճակների,
+        ցանկերի և պատուհանների համար։
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Օգտագործեք փոփոխական, գույնային ոճ կոճակների,
+        ցանկերի և պատուհանների համար:
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Օգտագործեք փոփոխական, գույնային ոճ կոճակների,
+        ցանկերի և պատուհանների համար:
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Օգտագործեք այս գույնը:
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Օգտագործեք այս գույնը:
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Ուսումնասիրեք { $colorwayName } գույները:
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Ուսումնասիրեք { $colorwayName } գույները:
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Ուսումնասիրեք սկզբնադիր ոճերը:
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Ուսումնասիրեք սկզբնադիր ոճերը:
 
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Շնորհակալություն մեզ ընտրելու համար
 mr2-onboarding-thank-you-text = { -brand-short-name }-ը անկախ դիտարկիչ է, որն ապահովված է շահույթ չհետապնդող կազմակերպության կողմից: Միասին մենք վեբն ավելի անվտանգ, առողջ և անձնական ենք դարձնում:
+mr2-onboarding-start-browsing-button-label = Սկսել զննումը
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -147,15 +224,63 @@ mr2-onboarding-thank-you-text = { -brand-short-name }-ը անկախ դիտարկ
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-header = Ընտրեք ձեր լեզուն
+mr2022-onboarding-live-language-text = { -brand-short-name }-ը խոսում է ձեր լեզվով
+mr2022-language-mismatch-subtitle = Մեր համայնքի շնորհիվ { -brand-short-name }-ը թարգմանվում է ավելի քան 90 լեզուներով: Կարծես թե ձեր համակարգն օգտագործում է { $systemLanguage }, իսկ { -brand-short-name }-ը ՝ { $appLanguage }:
+onboarding-live-language-button-label-downloading = Լեզվի փաթեթի ներբեռնում { $negotiatedLanguage }-ի համար…
+onboarding-live-language-waiting-button = Հասանելի լեզուների ստացում…
+onboarding-live-language-installing = Լեզվի փաթեթի տեղադրում { $negotiatedLanguage }-ի համար…
+mr2022-onboarding-live-language-switch-to = Անցնել { $negotiatedLanguage }-ի
+mr2022-onboarding-live-language-continue-in = Շարունակել { $appLanguage }-ով
 onboarding-live-language-secondary-cancel-download = Չեղարկել
 onboarding-live-language-skip-button-label = Բաց թողնել
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    <span data-l10n-name="zap">շնորհակալություն</span>
+fx100-thank-you-subtitle = Սա մեր 100-րդ թողարկումն է: Շնորհակալություն, որ օգնում ենք մեզ կառուցել ավելի լավ և առողջ համացանց:
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Պահեք { -brand-short-name }-ը հարակցված
+       *[other] Ամրացրեք { -brand-short-name }-ը Խնդրագոտուն
+    }
+fx100-upgrade-thanks-header = 100 շնորհակալություն
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Սա { -brand-short-name }-ի 100-րդ թողարկումն է: <em>Շնորհակալություն</em>, որ օգնում եք մեզ կառուցել ավելի լավ և առողջ համացանց:
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Սա մեր 100-րդ թողարկումն է: Շնորհակալություն, որ մեզ հետ եք: Պահեք { -brand-short-name }-ը մոտակայքում՝ հաջորդ 100-ի համար)
 mr2022-onboarding-secondary-skip-button-label = Բաց թողնել այս քայլը
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Բացեք զարմանալի համացանց
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Թողարկեք { -brand-short-name }-ը ցանկացած տեղից՝ մեկ քլիքով: Ամեն անգամ անելիս դուք ընտրում եք ավելի բաց և անկախ համացանց:
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Պահեք { -brand-short-name }-ը ամրակցված
+       *[other] Ամրացրեք { -brand-short-name }-ը Խնդրագոտուն
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Սկսեք զննարկիչով, որն ապահովված է շահույթ չհետապնդող կազմակերպության կողմից: Մենք պաշտպանում ենք ձեր գաղտնիությունը, մինչ դուք զիփում եք համացանցում:
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
