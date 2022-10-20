@@ -81,7 +81,7 @@ extension-controlling-password-saving = Le <img data-l10n-name="icon"/> <strong>
 extension-controlling-web-notifications = Le <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla iste parametros.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = Le <img data-l10n-name="icon"/> <strong>{ $name }</strong> require le Schedas recipente.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> require schedas contentor.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = Le <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla iste parametros.
