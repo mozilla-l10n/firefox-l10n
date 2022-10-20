@@ -207,3 +207,6 @@ firefoxview-cfr-header = Erujey tendayke embotyramóva { -firefoxview-brand-name
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Emomaitei { -firefoxview-brand-name }-pe
+firefoxview-spotlight-promo-primarybutton = Ehecha mba’éichapa omba’apo
+firefoxview-spotlight-promo-secondarybutton = Jepo
