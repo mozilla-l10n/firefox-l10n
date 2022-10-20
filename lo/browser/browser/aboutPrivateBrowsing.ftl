@@ -31,7 +31,14 @@ about-private-browsing-focus-promo-text = ແອັບມືຖືສຳລັ�
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = ທ່ອງເວັບແບບສ່ວນຕົວເທິງໂທລະສັບຂອງທ່ານ
+about-private-browsing-focus-promo-text-b = ໃຊ້ { -focus-brand-name } ສໍາລັບການຄົ້ນຫາສ່ວນຕົວທີ່ເຈົ້າບໍ່ຕ້ອງການໃຫ້ຕົວທ່ອງເວັບມືຖືຕົ້ນຕໍຂອງເຈົ້າເຫັນ.
 about-private-browsing-focus-promo-header-c = ຄວາມເປັນສ່ວນຕົວລະດັບຕໍ່ໄປໃນມືຖື
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } ລ້າງປະຫວັດຂອງທ່ານທຸກຄັ້ງໃນຂະນະທີ່ບລັອກໂຄສະນາ ແລະຕົວຕິດຕາມ.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } ແມ່ນເຄື່ອງມືຄົ້ນຫາເລີ່ມຕົ້ນຂອງທ່ານໃນ Private Windows
 about-private-browsing-search-banner-close-button =
     .aria-label = ປິດ
 about-private-browsing-promo-close-button =

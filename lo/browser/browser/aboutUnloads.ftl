@@ -13,6 +13,8 @@ about-unloads-learn-more =
     ເບິ່ງ <a data-l10n-name="doc-link">ການຍົກເລີກການໂຫຼດແຖບ</a> ເພື່ອສຶກສາເພີ່ມເຕີມກ່ຽວກັບ
     ຄຸນນະສົມບັດແລະຫນ້ານີ້.
 about-unloads-last-updated = ອັບເດດຫຼ້າສຸດ: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-button-unload = ບໍ່ໂຫຼດ
+    .title = ບໍ່ໂຫຼດແຖບໂດຍລຳດັບສຳຄັນສຸດ
 about-unloads-no-unloadable-tab = ບໍ່ມີແຖບທີ່ບໍ່ສາມາດໂຫຼດໄດ້.
 about-unloads-column-priority = ຄວາມສຳຄັນ
 about-unloads-column-host = Host
