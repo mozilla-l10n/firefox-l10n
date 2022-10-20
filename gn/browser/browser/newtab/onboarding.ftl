@@ -351,6 +351,8 @@ mr2022-onboarding-colorway-description-dreamer = <b>Ikerayvoty heta.</b> Eroviá
 mr2022-onboarding-colorway-label-innovator = Mbopyahuhára
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Mbopyahuhára
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Mbopyahuhára (narã)
 mr2022-onboarding-colorway-description-innovator = <b>Ombopyahu tapiáva.</b> Ohecha pa’ũ opaite hendápe ha heko omombarete opavave tekove ijereguápe.
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -383,3 +385,5 @@ mr2022-onboarding-gratitude-secondary-button-label = Eñepyrũ eikundaha
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Nderogapeguáicha
+onboarding-infrequent-import-primary-button = Emba’egueru { -brand-short-name }-pe
