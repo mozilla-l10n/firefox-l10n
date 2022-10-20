@@ -94,6 +94,7 @@ mr1-onboarding-sign-in-button-label = Մուտք գործել
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Դարձնել { -brand-short-name }-ը սկզբնադիր զննիչ
+mr1-onboarding-default-subtitle = Դրեք արագությունը, անվտանգությունը և գաղտնիությունը ավտոպիլոտի
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
