@@ -236,6 +236,9 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = ໃຊ້ການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
+    .accesskey = o
 
 ##
 

@@ -53,8 +53,12 @@ urlbar-identity-button =
 
 urlbar-services-notification-anchor =
     .tooltiptext = ເປີດແຜງຂໍ້ຄວາມການຕິດຕັ້ງ
+urlbar-midi-notification-anchor =
+    .tooltiptext = ເປີດແຜງ MIDI
 urlbar-eme-notification-anchor =
     .tooltiptext = ຈັດການການໃຊ້ຊັອບແວ DRM
+urlbar-canvas-notification-anchor =
+    .tooltiptext = ຈັດການການອະນຸຍາດການສົ່ງອອກຜືນຜ້າໃບ
 urlbar-default-notification-anchor =
     .tooltiptext = ເປີດແຜງຂໍ້ຄວາມ
 urlbar-geolocation-notification-anchor =
