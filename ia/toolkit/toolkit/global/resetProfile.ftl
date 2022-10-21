@@ -6,10 +6,9 @@ refresh-profile-dialog-title = Restabilir { -brand-short-name } a su parametros 
 refresh-profile-dialog-button =
     .label = Restabilir { -brand-short-name }
 refresh-profile-dialog-description = Comencia de novo pro resolver problemas de rendimento. Isto removera tu extensiones e personalisationes. Tu non perdera informationes essential como marcapaginas e contrasignos.
-refresh-profile = Da a { -brand-short-name } un affinamento
+refresh-profile = Revitalisa { -brand-short-name }
 refresh-profile-button = Refrescar { -brand-short-name }…
 refresh-profile-learn-more = Saper plus
-
 refresh-profile-progress =
     .title = Refrescar { -brand-short-name }
 refresh-profile-progress-description = Quasi facite…
