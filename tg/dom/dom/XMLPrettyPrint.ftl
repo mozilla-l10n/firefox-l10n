@@ -2,3 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+xml-nostylesheet = Ин файли XML ба ягон маълумоти услубӣ тааллуқ надорад. Дарахти ҳуҷҷат дар зер нишон дода шудааст.
