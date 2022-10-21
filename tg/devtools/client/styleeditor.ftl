@@ -7,6 +7,7 @@ styleeditor-save-button = Нигоҳ доштан
     .accesskey = Н
 styleeditor-options-button =
     .tooltiptext = Имконоти муҳаррири услубҳо
+styleeditor-media-rules = Дархостҳои расона
 styleeditor-editor-textbox =
     .data-placeholder = Рамзи CSS-ро дар ин ҷо ворид кунед.
 styleeditor-open-link-new-tab =
