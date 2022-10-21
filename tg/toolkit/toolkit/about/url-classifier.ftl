@@ -4,6 +4,8 @@
 
 url-classifier-search-title = Ҷустуҷӯ
 url-classifier-search-result-title = Натиҷаҳо
+url-classifier-search-input = Нишонии URL
+url-classifier-search-error-invalid-url = Нишонии URL беэътибор аст
 url-classifier-search-btn = Оғози ҷустуҷӯ
 url-classifier-search-features = Хусусиятҳо
 url-classifier-search-listType = Намуди рӯйхат
@@ -18,7 +20,6 @@ url-classifier-cache-title = Зерҳофиза
 url-classifier-cache-refresh-btn = Нав кардан
 url-classifier-cache-clear-btn = Пок кардан
 url-classifier-cache-table-name = Номи ҷадвал
-
 url-classifier-not-available = Дастнорас
 url-classifier-enabled = Фаъол аст
 url-classifier-disabled = Ғайрифаъол аст
