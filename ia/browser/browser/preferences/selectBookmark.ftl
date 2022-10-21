@@ -5,9 +5,7 @@
 select-bookmark-window =
     .title = Definir como pagina initial
     .style = width: 32em;
-
 select-bookmark-window2 =
     .title = Definir como pagina initial
     .style = min-width: 32em;
-
-select-bookmark-desc = Elige un marcapaginas pro esser tu pagina initial. Si tu elige un dossier, le marcapaginas in illo essera aperite in schedas.
+select-bookmark-desc = Elige un marcapagina como tu pagina initial. Si tu elige un dossier, le marcapaginas in illo se aperira in schedas.
