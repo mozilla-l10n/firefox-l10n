@@ -510,6 +510,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Eipurútarõ mbopya’eha F12 embojurujaraẽ DevTools ñanduti Mboguatahára poravorãme.
+enable-devtools-popup-description2 = Eipurútarõ mbopya’eha F12, embojurujaraẽ DevTools kundahára rembipuru poravorã rupive.
 
 ## URL Bar
 

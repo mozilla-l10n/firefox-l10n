@@ -4,7 +4,6 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Upeigua
-
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = ¡Arekóma!
 
@@ -13,18 +12,12 @@ callout-primary-complete-button-label = ¡Arekóma!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Epo mba’e’oka pa’ũme embyatykuévo ficha
-
 callout-firefox-view-tab-pickup-subtitle = Egueru pya’e tendayke ijurujáva pumbyrýgui ha embojuruja ojepurutahápe tuichaháicha.
-
 callout-firefox-view-recently-closed-title = Erujey tendayke mbotypyre sapy’aitépe
-
 callout-firefox-view-recently-closed-subtitle = Opaite tendayke mbotypyre osẽta mba’eve’ỹre ko’ápe. Anive ejepy’apy embotýramo peichahágui.
-
 callout-firefox-view-colorways-title = Embojuaju sa’y sa’imi
-
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Eiporavo mba’etépa ohechauka sa’ykuéra ojueheguáva. { -brand-product-name }-pe añoite.
-
 callout-firefox-view-colorways-reminder-title = Eheka ore sa’y ojuehegua ipyahúva
 
 ## Continuous Onboarding - Firefox View: Tab pick up
@@ -33,5 +26,5 @@ callout-firefox-view-colorways-reminder-title = Eheka ore sa’y ojuehegua ipyah
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Emyatyrõve ne ñeikundaha tendayke poravopyrã ndive
-
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Eike tendayke ijurujávape oimeraẽva mba’e’oka guive. Avei, embojuehe techaukaha, ñe’ẽñemi ha hetave.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Eñepyrũ
