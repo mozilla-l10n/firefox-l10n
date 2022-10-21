@@ -187,6 +187,7 @@ spotlight-pin-secondary-button = Ani ko’ág̃a
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = { -brand-short-name } pyahu. Hekoñemive. Ojehapykueho’ive. Jejokua’ỹre.
+mr2022-background-update-toast-text = Eipuru { -brand-short-name } ipyahuve, hekopyahúva romo’ãva tapykuehoha rovake imbaretevéva ag̃aite peve.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -205,6 +206,7 @@ firefoxview-cfr-primarybutton = Eha’ãjey
 firefoxview-cfr-secondarybutton = Ani ko’ág̃a
     .accesskey = N
 firefoxview-cfr-header = Erujey tendayke embotyramóva { -firefoxview-brand-name } ndive
+firefoxview-cfr-body = Avei, ehasa apañuãi’ỹre mba’e’okágui ambuépe ha embojuaju sa’y ne kundahárape.
 
 ## Firefox View Spotlight
 

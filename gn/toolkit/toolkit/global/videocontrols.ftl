@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Mbopuha
 videocontrols-closed-caption-button =
     .aria-label = Teratee’i
-
 videocontrols-play-button =
     .aria-label = Mboheta
 videocontrols-pause-button =
@@ -29,29 +28,27 @@ videocontrols-casting-button-label =
     .aria-label = Mba’erechaha ojuehéva
 videocontrols-closed-caption-off =
     .offlabel = Mboguepyre
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-picture
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Ehecha Picture-in-Picture-pe
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Emboheta ta’ãngamýi tenondete ejapokuévo ambue mba’e { -brand-short-name }-pe;
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Enohẽ ko ta’ãngamýi
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Hetavéramo mba’erechaha, ojevy’aiteve. Ehecha ko ta’ãngamýi Picture-in-Picture-pe eikundahakuévo.
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Hetavévo mba’erechaha iporãve. Embopu ta’ãngamýi ejapo aja ambue mba’e.
 videocontrols-error-aborted = Ojejoko ta’ãngamýi ñemyenyhẽ.
 videocontrols-error-network = Ta’ãndamýi ñemboheta ojejokóma ñanduti jejavy rupi.
 videocontrols-error-decode = Ndaikatúi emboheta ta’ãngamýi pe marandurenda imarã rupi.
@@ -59,7 +56,6 @@ videocontrols-error-src-not-supported = Ysaja térã MIME ta’ãngamýi rehegua
 videocontrols-error-no-source = Ndojejuhúi mba’eveichagua ta’ãngamýi oguerekóva ysaja térã peteĩva MIME ojokupytýva.
 videocontrols-error-generic = Pe ta’ãngamýi ñemboheta ndoikomo’ãi peteĩ jejavy jeikuaa’ỹva rupi.
 videocontrols-status-picture-in-picture = Ko ta’angamýi oñembohetahína Picture-in-Picture rekópe.
-
 # This message shows the current position and total video duration
 #
 # Variables:
