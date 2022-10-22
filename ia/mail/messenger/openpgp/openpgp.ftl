@@ -487,9 +487,9 @@ key-man-button-revoke-key = &Revocar clave
 openpgp-key-revoke-success = Clave revocate con successo.
 after-revoke-info =
     Le clave ha essite revocate.
-    Comparti iste clave public de novo, per inviar lo per email o per cargar lo a servitores-de-claves, pro facer saper al alteres que tu ha revocate tu clave.
-    A pena le software usate per altere personas apprende re le revocation, illo cessara usar tu vetere clave.
-    Si tu usa un nove clave pro le mesme adresse email, e tu attacca le nove clave public a emails que tu invia, le informationes re tu vetere clave revocate sera automaticamente includite.
+    Comparti iste clave public de novo, inviante lo per email o incargante lo a servitores de claves, pro facer saper al alteres que tu ha revocate tu clave.
+    Quando le software usate per altere personas apprende sur le revocation, illo cessara de usar tu clave ancian.
+    Si tu usa un nove clave pro le mesme adresse de e-mail, e tu attacha le nove clave public al messages de e-mail que tu invia, alora le information sur tu clave ancian revocate essera automaticamente includite.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Deler clave OpenPGP
