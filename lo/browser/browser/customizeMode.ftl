@@ -23,3 +23,6 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = ປົກກະຕິ
 customize-mode-undo-cmd =
     .label = ກັບຄືນ
+customize-mode-lwthemes-link = ຈັດການຊຸດຕົກແຕ່ງ
+customize-mode-touchbar-cmd =
+    .label = ປັບແຕ່ງແຖບສໍາຜັດ…
