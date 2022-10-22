@@ -49,13 +49,13 @@ perftools-status-restart-required = 必须重启浏览器才能启用此功能�
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
 perftools-request-to-stop-profiler = 正在停止记录
-perftools-request-to-get-profile-and-stop-profiler = 正在捕捉性能
+perftools-request-to-get-profile-and-stop-profiler = 正在抓取性能分析
 
 ##
 
 perftools-button-start-recording = 开始记录
-perftools-button-capture-recording = 正在捕捉记录
-perftools-button-cancel-recording = 取消记录
+perftools-button-capture-recording = 抓取中
+perftools-button-cancel-recording = 取消抓取
 perftools-button-save-settings = 保存设置并返回
 perftools-button-restart = 重新启动
 perftools-button-add-directory = 添加路径
