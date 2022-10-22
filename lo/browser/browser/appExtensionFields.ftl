@@ -8,6 +8,7 @@
 extension-firefox-compact-light-name = ແຈ້ງ
 extension-firefox-compact-light-description = ຮູບແບບສີສັນທີ່ມີສີສັນອ່ອນໆ.
 extension-firefox-compact-dark-name = ມືດ
+extension-firefox-compact-dark-description = ຮູບແບບສີສັນທີ່ມີຮູບແບບສີເຂັ້ມ.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 
 ## Colorway Themes

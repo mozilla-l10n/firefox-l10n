@@ -73,10 +73,20 @@ urlbar-translated-notification-anchor =
     .tooltiptext = ຈັດການການແປຫນ້ານີ້
 urlbar-plugins-notification-anchor =
     .tooltiptext = ຈັດການການໃຊ້ປັກອິນ
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = ເປີດແຜງຫຼິ້ນອັດຕະໂນມັດ
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ຈັດເກັບຂໍ້ມູນໃນບ່ອນເກັບຂໍ້ມູນຖາວອນ
 urlbar-addons-notification-anchor =
     .tooltiptext = ເປີດແຜງຂໍ້ຄວາມການຕິດຕັ້ງສ່ວນເສີມ
+urlbar-tip-help-icon =
+    .title = ຂໍຄວາມຊ່ວຍເຫລືອ
+urlbar-search-tips-confirm = ໂອເຄ, ເຂົ້າໃຈແລ້ວ
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = ເຄັດລັບ:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -113,6 +123,9 @@ page-action-remove-extension =
 page-action-manage-extension2 =
     .label = ຈັດການສ່ວນຂະຫຍາຍ...
     .accesskey = E
+page-action-remove-extension2 =
+    .label = ລຶບສ່ວນຂະຫຍາຍ
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -157,18 +170,27 @@ search-one-offs-add-engine-menu =
 ## the action.
 
 quickactions-cmd-addons2 = ສ່ວນເສີມ
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = ລຶບລ້າງປະຫວັດ
 quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການໃຊ້ງານ
 # Opens about:downloads page
 quickactions-downloads = ເປີດການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
 quickactions-cmd-extensions = ສ່ວນເສີມ
+# Opens the devtools web inspector
+quickactions-inspector = ເປີດ Inspector
+quickactions-cmd-inspector = ຜູ້ກວດກາ, devtools
 # Opens about:logins
 quickactions-logins = ເບິ່ງການເຂົ້າສູ່ລະບົບ
 quickactions-cmd-logins = ເຂົ້າສູ່ລະບົບ, ລະຫັດຜ່ານ
+# Opens about:addons page in the plugins section
+quickactions-plugins = ຈັດການປລັກອິນ
 quickactions-cmd-plugins = ປລັກອິນ
 # Opens the print dialog
 quickactions-print = ພິມ
 quickactions-cmd-print = ພິມ
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = ຟື້ນຟູ { -brand-short-name }
 quickactions-cmd-refresh = ໂຫຼດຄືນໃໝ່
 # Restarts the browser
 quickactions-restart = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່

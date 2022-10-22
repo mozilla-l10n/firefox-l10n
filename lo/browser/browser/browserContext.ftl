@@ -121,6 +121,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = ເປີດລິ້ງໃນວິນໂດສ່ວນຕົວໃໝ່
     .accesskey = ສ
+main-context-menu-bookmark-link =
+    .label = ບຸກມາກລີ້ງ
+    .accesskey = B
 main-context-menu-save-link =
     .label = ບັນທຶກລີ້ງນີ້ໄວ້ທີ່...
     .accesskey = k
@@ -242,6 +245,9 @@ main-context-menu-use-saved-login =
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = ແນະນຳລະຫັດຜ່ານທີ່ເຂັ້ມແຂງ...
+    .accesskey = S
 main-context-menu-keyword =
     .label = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາໃສ່...
     .accesskey = K

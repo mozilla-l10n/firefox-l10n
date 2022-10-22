@@ -167,6 +167,9 @@ appmenu-about =
 appmenu-get-help =
     .label = ຂໍຄວາມຊ່ວຍເຫລືອ
     .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = ຂໍ້ມູນການແກ້ໄຂບັນຫາເພີ່ມເຕີມ
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
 
