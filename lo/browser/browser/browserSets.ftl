@@ -115,6 +115,8 @@ bookmark-show-sidebar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+full-zoom-reduce-shortcut-alt-b =
+    .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt =

@@ -169,7 +169,12 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = ເບິ່ງ Add-ons
 quickactions-cmd-addons2 = ສ່ວນເສີມ
+# Opens the bookmarks library window
+quickactions-bookmarks = ເບິ່ງບຸກມາກ
+quickactions-cmd-bookmarks = ບຸກມາກ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ລຶບລ້າງປະຫວັດ
 quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການໃຊ້ງານ
@@ -305,6 +310,12 @@ browser-window-close-button =
 
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ກຳລັງຫຼິ້ນ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ປິດສຽງ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ການ​ຫຼິ້ນ​ອັດ​ຕະ​ໂນ​ມັດ​ຖືກ​ບລັອກ​
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ຮູບໃນຮູບ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -379,6 +390,7 @@ urlbar-result-action-calculator-result = = { $result }
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-history = ຊອກຫາປະຫວັດການໃຊ້ງານ
 
 ## Labels shown above groups of urlbar results
 
@@ -542,6 +554,11 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = ການນໍາທາງ
 navbar-downloads =
     .label = ດາວໂຫລດ
 navbar-overflow =
