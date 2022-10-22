@@ -49,5 +49,6 @@ accessibility-text-label-issue-toolbar = Вақте ки зиёда аз як н
 ## issue.
 
 accessibility-keyboard-issue-semantics = Унсурҳои марказонидашаванда бояд мафҳумҳои дусӯягиро дар бар гиранд. <a>Маълумоти бештар</a>
+accessibility-keyboard-issue-tabindex = Аз истифодаи сифати <code>tabindex</code>, ки зиёда аз сифр мебошад, худдорӣ намоед. <a>Маълумоти бештар</a>
 accessibility-keyboard-issue-action = Унсурҳои дусӯягӣ бояд дорои қобилияти фаъолсозӣ тавассути клавиатура бошанд. <a>Маълумоти бештар</a>
 accessibility-keyboard-issue-focusable = Унсурҳои дусӯягӣ бояд марказонида шаванд. <a>Маълумоти бештар</a>
