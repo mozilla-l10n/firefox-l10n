@@ -4,9 +4,12 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = ຕໍ່ໄປ
+# Callout dialog primary button to complete the feature tour
+callout-primary-complete-button-label = ເຂົ້າໃຈແລ້ວ!
 
 ## Firefox View feature tour strings
 
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ເລີ່ມຕົ້ນໃຊ້ງານ
