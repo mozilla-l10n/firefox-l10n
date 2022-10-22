@@ -303,6 +303,10 @@ mr2022-onboarding-set-default-primary-button-label = Կայեք { -brand-short-n
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Մեր վերջին տարբերակը ստեղծվել է ձեր շուրջը՝ դարձնելով ավելի հեշտ, քան երբևէ՝ համացանցում համախմբվելու համար: Այն հագեցած է առանձնահատկություններով, որոնք մենք կարծում ենք, որ դուք կպաշտեք:
+mr2022-onboarding-get-started-primary-button-label = Տեղակայեք վայրկյանների ընթացքում
 
 ## MR2022 Import Settings screen strings
 
@@ -312,6 +316,7 @@ mr2022-onboarding-set-default-primary-button-label = Կայեք { -brand-short-n
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Ընտրեք այն գույնը, որը ձեզ ոգեշնչում է
 mr2022-onboarding-colorway-subtitle = Անկախ ձայները կարող են փոխել մշակույթը:
 mr2022-onboarding-colorway-primary-button-label-continue = Սահմանել և շարունակել
 mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
@@ -320,6 +325,7 @@ mr2022-onboarding-colorway-tooltip-playmaker =
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Փլեյմեյքեր (կարմիր)
 mr2022-onboarding-colorway-description-playmaker = <b>Դուք փլեյմեյքեր եք:</b> Դուք հնարավորություններ եք ստեղծում հաղթելու և օգնում եք ձեր շրջապատի բոլորին բարձրացնել իրենց խաղը:
+mr2022-onboarding-colorway-description-visionary = <b>Դուք տեսաբան եք:</b> Դուք կասկածի տակ եք դնում ստատուս քվոն և դրդում ուրիշներին պատկերացնել ավելի լավ ապագա:
 mr2022-onboarding-colorway-description-innovator = <b>Դուք նորարար եք:</b> Դուք տեսնում եք հնարավորություններ ամենուր և ազդեցություն եք թողնում ձեր շրջապատի բոլոր մարդկանց կյանքի վրա:
 
 ## MR2022 Multistage Mobile Download screen strings
