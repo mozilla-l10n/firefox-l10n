@@ -53,3 +53,4 @@ accessibility-keyboard-issue-tabindex = Аз истифодаи сифати <co
 accessibility-keyboard-issue-action = Унсурҳои дусӯягӣ бояд дорои қобилияти фаъолсозӣ тавассути клавиатура бошанд. <a>Маълумоти бештар</a>
 accessibility-keyboard-issue-focusable = Унсурҳои дусӯягӣ бояд марказонида шаванд. <a>Маълумоти бештар</a>
 accessibility-keyboard-issue-focus-visible = Эҳтимол аст, ки унсури марказонидашаванда дорои услубсозии марказонӣ намебошад. <a>Маълумоти бештар</a>
+accessibility-keyboard-issue-mouse-only = Унсурҳои зершаванда бояд марказонидашаванд бошанд ва бояд мафҳумҳои дусӯягиро дар бар гиранд. <a>Маълумоти бештар</a>
