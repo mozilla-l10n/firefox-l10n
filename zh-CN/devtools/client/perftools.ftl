@@ -8,7 +8,7 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = 分析器设置
-perftools-intro-description = 记录过程将在新标签页中打开 profiler.firefox.com。所有数据都存储在本地，您可以手动选择上传以进行共享。
+perftools-intro-description = 记录器将新建标签页打开 profiler.firefox.com。所有数据存储在本地，您到时也可以选择上传以便分享。
 
 ## All of the headings for the various sections.
 
@@ -24,7 +24,7 @@ perftools-heading-local-build = 本地构建版本
 
 ##
 
-perftools-description-intro = 记录过程将在新标签页中打开 <a>profiler.firefox.com</a>。所有数据都存储在本地，您可以手动选择上传以进行共享。
+perftools-description-intro = 记录器将新建标签页打开 <a>profiler.firefox.com</a>。所有数据存储在本地，您到时也可以选择上传以便分享。
 perftools-description-local-build = 若您要对本机自行编译的构建版本进行测量，请将其 objdir 路径添加至下方列表，以便查询调试符号信息。
 
 ## The controls for the interval at which the profiler samples the code.
@@ -36,9 +36,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = 缓冲区大小：
-
 perftools-custom-threads-label = 按名称添加自定义线程：
-
 perftools-devtools-interval-label = 间隔：
 perftools-devtools-threads-label = 线程：
 perftools-devtools-settings-label = 设置
@@ -108,15 +106,13 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = 忽略上面选择的项目，记录所有注册的线程
-
 perftools-tools-threads-input-label =
     .title = 下方列表是要在分析器中测量性能的线程名称（以逗号分隔）。名称须与要测量的线程的名称部分匹配，且对空格敏感。
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
-perftools-onboarding-message = <b>新变化</b>：{ -profiler-brand-name }现已集成于开发者工具。<a>详细了解</a>这个功能强大的新工具。
-
+perftools-onboarding-message = <b>新变化</b>：{ -profiler-brand-name } 现已集成于开发者工具。<a>详细了解</a>这个功能强大的新工具。
 perftools-onboarding-close-button =
     .aria-label = 关闭导览消息
 
@@ -128,24 +124,18 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web 开发者
-perftools-presets-web-developer-description = 推荐在调试大部分 Web 应用程序时使用，开销较少。
-
+perftools-presets-web-developer-description = 适合调试大部分 Web 应用程序，开销较低。
 perftools-presets-firefox-label = { -brand-shorter-name }
-perftools-presets-firefox-description = 推荐在分析 { -brand-shorter-name } 性能时使用。
-
+perftools-presets-firefox-description = 适合用来分析 { -brand-shorter-name } 的性能。
 perftools-presets-graphics-label = 图形
-perftools-presets-graphics-description = 推荐在排查 { -brand-shorter-name } 图形 Bug 时使用。
-
+perftools-presets-graphics-description = 排查 { -brand-shorter-name } 图形（显卡、显示）Bug 时使用。
 perftools-presets-media-label = 媒体
-perftools-presets-media-description2 = 推荐在排查 { -brand-shorter-name } 音视频 Bug 时使用。
-
-perftools-presets-networking-label = 联网
-perftools-presets-networking-description = 推荐在排查 { -brand-shorter-name } 联网 Bug 时使用。
-
+perftools-presets-media-description2 = 排查 { -brand-shorter-name } 音视频 Bug 时使用。
+perftools-presets-networking-label = 网络
+perftools-presets-networking-description = 排查 { -brand-shorter-name } 网络 Bug 时使用。
 # "Power" is used in the sense of energy (electricity used by the computer).
-perftools-presets-power-label = 功率
-perftools-presets-power-description = 推荐在排查 { -brand-shorter-name } 耗电 Bug 时使用，开销较少。
-
+perftools-presets-power-label = 功耗
+perftools-presets-power-description = 排查 { -brand-shorter-name } 功耗 Bug 时使用，开销较低。
 perftools-presets-custom-label = 自定义
 
 ##
