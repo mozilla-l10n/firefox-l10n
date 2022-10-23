@@ -12,9 +12,7 @@ view-fingerprint-button =
     .label = Gerir identificadores digitais de contactos
     .accesskey = f
 otr-settings-title = Definições OTR
-
 otr-require-encryption-info =
     Ao exigir encriptação ponto a ponto, as mensagens em conversas de um para um
     não serão enviadas, a menos que possam ser encriptadas. As mensagens não encriptadas recebidas
-    não serão mostradas como parte da conversa normal e também não serão registradas.
-
+    não serão mostradas como parte da conversa normal e também não serão registadas.
