@@ -14,6 +14,9 @@ compatibility-issue-deprecated = (кӯҳнашуда)
 compatibility-issue-experimental = (озмоишӣ)
 compatibility-issue-prefixneeded = (пешоянд лозим аст)
 compatibility-issue-deprecated-experimental = (кӯҳнашуда, озмоишӣ)
+compatibility-issue-deprecated-prefixneeded = (куҳна шудааст, пешванд лозим аст)
+compatibility-issue-experimental-prefixneeded = (озмоишӣ, пешванд лозим аст)
+compatibility-issue-deprecated-experimental-prefixneeded = (куҳна шудааст, озмоишӣ, пешванд лозим аст)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -36,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } масъала
        *[other] { $number } масъала
     }
-
 compatibility-no-issues-found = Ягон мушкилии мувофиқат ёфт нашуд.
 compatibility-close-settings-button =
     .title = Пӯшидани танзимот
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:
