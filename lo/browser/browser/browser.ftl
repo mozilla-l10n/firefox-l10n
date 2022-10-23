@@ -537,6 +537,9 @@ addon-removal-title = ລຶບ { $name } ອອກບໍ?
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = ເພີ່ມເຕີມ…
 ui-tour-info-panel-close =
     .tooltiptext = ປິດ
 

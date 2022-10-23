@@ -10,4 +10,5 @@
 
 playmaker-colorway-name = ຜູ້ຫຼິ້ນ
 visionary-colorway-name = ຜູ້ມີວິໄສທັດ
+dreamer-colorway-name = ຄົນຊ່າງຝັນ
 innovator-colorway-name = ຜູ້ປະດິດສ້າງ

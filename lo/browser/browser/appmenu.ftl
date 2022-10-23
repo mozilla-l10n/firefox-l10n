@@ -172,10 +172,19 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = t
 appmenu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
+appmenu-help-share-ideas =
+    .label = ແບ່ງ​ປັນ​ຄວາມ​ຄິດ​ເຫັນ​ແລະ​ຄໍາ​ຕິຊົມ…
+    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = ໂໝດແກ້ໄຂບັນຫາ...
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = ປິດໂໝດແກ້ໄຂບັນຫາ
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

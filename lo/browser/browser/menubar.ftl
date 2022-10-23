@@ -257,6 +257,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ວິທີໃຊ້
     .accesskey = H
+menu-get-help =
+    .label = ຂໍຄວາມຊ່ວຍເຫຼືອ
+    .accesskey = H
 menu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
 # Label of the Help menu item. Either this or
