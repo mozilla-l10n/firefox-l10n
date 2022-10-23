@@ -12,3 +12,8 @@ colorway-collection-independent-voices-short-description = Kultura aldatzen dute
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Sortzailea
+playmaker-colorway-description = Aukerak sortzen dituzu zure ingurukoei beraien maila igotzen laguntzeko.
+expressionist-colorway-name = Espresionista
+expressionist-colorway-description = Mundua beste era batera ikusten duzu eta zure sormenek emozioak eragiten dituzte besteengan.
+visionary-colorway-name = Ameslaria

@@ -76,6 +76,9 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } nabigatze pribatua
 
 ##
 
@@ -320,6 +323,9 @@ quickactions-cmd-update = eguneratu
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ikusi iturburua
 quickactions-cmd-viewsource = ikusi iturburua, iturburua
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Ekintza bizkorrei buruzko argibide gehiago
 
 ## Bookmark Panel
 
@@ -501,6 +507,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik garatzaile-tresnak 'Web garapena' menutik.
+enable-devtools-popup-description2 = F12 lasterbidea erabiltzeko, ireki lehenik garatzaile-tresnak 'Nabigatzailearen tresnak' menutik.
 
 ## URL Bar
 
