@@ -211,3 +211,7 @@ firefoxview-cfr-body = Gainera egin salto gailuen artean eta gehitu kolore ukitu
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Esan kaixo { -firefoxview-brand-name }ri.
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Telefonoan irekita daukazun fitxa hori nahi duzu? Har ezazu. Oraintxe bisitatu duzun gune hori behar duzu? Lasai, bueltan da { -firefoxview-brand-name }rekin.
+firefoxview-spotlight-promo-primarybutton = Ikusi nola dabilen
+firefoxview-spotlight-promo-secondarybutton = Saltatu
