@@ -36,7 +36,10 @@ firefoxview-tabpickup-fxa-admin-disabled-description = ‏{ -brand-short-name } 
 firefoxview-tabpickup-network-offline-header = اتصال خود به اینترنت را بررسی کنید
 firefoxview-tabpickup-network-offline-description = اگر از دیوار آتش یا پروکسی استفاده می‌کنید، مطمين شوید { -brand-short-name } اجازهٔ دسترسی به وب را داشته باشد.
 firefoxview-tabpickup-network-offline-primarybutton = تلاش دوباره
+firefoxview-tabpickup-sync-error-header = در همگام‌سازی مشکل داریم
+firefoxview-tabpickup-generic-sync-error-description = ‏{ -brand-short-name } اکنون نمی‌تواند به خدمت همگام‌سازی دسترسی یابد. چند لحظه بعد، دوباره تلاش کنید.
 firefoxview-tabpickup-sync-error-primarybutton = تلاش دوباره
+firefoxview-tabpickup-sync-disconnected-header = برای ادامه، همگام‌سازی را روشن کنید
 firefoxview-mobile-confirmation-header = 🎉 آماده است!
 firefoxview-closed-tabs-title = اخیراً بسته شده
 # Variables:
@@ -46,6 +49,10 @@ firefoxview-tabs-list-tab-button =
 firefoxview-try-colorways-button = رنگ‌بندی‌ها را بیازمایید
 firefoxview-no-current-colorway-collection = رنگ‌بندی‌های جدید در راهند
 firefoxview-change-colorway-button = تغییر رنگ‌بندی
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-collapse-button-show =
     .title = نمایش فهرست
 firefoxview-collapse-button-hide =
