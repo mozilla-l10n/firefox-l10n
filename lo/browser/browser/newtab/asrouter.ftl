@@ -55,6 +55,9 @@ cfr-protections-panel-link-text = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = ຄຸນ​ນະ​ສົມ​ບັດ​ໃຫມ່​:
 
 ## Enhanced Tracking Protection Milestones
 

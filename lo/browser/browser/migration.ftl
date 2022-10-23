@@ -77,6 +77,10 @@ imported-edge-reading-list = ລາຍການອ່ານ (ຈາກ Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = ຄຸກກີ້
+browser-data-cookies-label =
+    .value = ຄຸກກີ້
 browser-data-session-checkbox =
     .label = ວີນໂດ ແລະ ແທັບ
 browser-data-session-label =

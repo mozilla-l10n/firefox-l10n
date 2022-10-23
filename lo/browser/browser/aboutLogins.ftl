@@ -187,6 +187,7 @@ about-logins-breach-alert-learn-more-link = ຮຽນຮູ້ເພີ່ມເ
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = ລະຫັດຜ່ານທີ່ມີຄວາມສ່ຽງ
+about-logins-vulnerable-alert-text2 = ລະ​ຫັດ​ຜ່ານ​ນີ້​ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ໃນ​ບັນ​ຊີ​ອື່ນ​ທີ່​ມີ​ຄວາມ​ເປັນ​ໄປ​ໄດ້​ໃນ​ການ​ລະ​ເມີດ​ຂໍ້​ມູນ​. ການໃຊ້ຂໍ້ມູນປະຈຳຕົວຄືນໃໝ່ເຮັດໃຫ້ບັນຊີຂອງທ່ານມີຄວາມສ່ຽງ. ປ່ຽນລະຫັດຜ່ານນີ້.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = ໄປທີ່ { $hostname }
