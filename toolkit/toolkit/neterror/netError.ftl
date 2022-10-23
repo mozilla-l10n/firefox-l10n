@@ -29,6 +29,7 @@ neterror-view-certificate-link = Ogled digitalnega potrdila
 ##
 
 neterror-pref-reset = Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?
+neterror-error-reporting-automatic = S prijavo podobnih napak pomagajte { -vendor-short-name(sklon: "dajalnik") } prepoznati in zavračati zlonamerne strani
 
 ## Specific error messages
 
