@@ -64,6 +64,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ລ້າງການດາວໂຫລດ
     .accesskey = D​
+downloads-cmd-delete-file =
+    .label = ລຶບ
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = ອະນຸຍາດການດາວໂຫລດ
