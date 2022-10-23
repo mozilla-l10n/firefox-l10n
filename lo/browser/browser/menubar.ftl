@@ -75,6 +75,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = ລີ້ງຈົດຫມາຍ...
     .accesskey = E
+menu-file-share-url =
+    .label = ​ແບ່ງ​ປັນ
+    .accesskey = h
 menu-file-print-setup =
     .label = ການຕັ້ງຄ່າຫນ້າເຈ້ຍ…
     .accesskey = u
@@ -222,6 +225,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = ຂໍ້ມູນຂອງຫນ້ານີ້
     .accesskey = I
+menu-settings =
+    .label = ການຕັ້ງຄ່າ
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = ໂຕດີບັກເຄົ້າໂຄງ
     .accesskey = L
@@ -250,8 +260,7 @@ menu-help =
 menu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = ລາຍງາຍເວັບໄຊທ໌ປອມແປງ…
     .accesskey = D

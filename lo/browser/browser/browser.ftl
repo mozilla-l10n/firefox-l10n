@@ -303,6 +303,8 @@ browser-window-minimize-button =
     .tooltiptext = ຫຍໍ້ໃຫ້ນ້ອຍລົງ
 browser-window-maximize-button =
     .tooltiptext = ຂະຫຍາຍໃຫຍ່
+browser-window-restore-down-button =
+    .tooltiptext = ຄືນຄ່າລົງລຸ່ມ
 browser-window-close-button =
     .tooltiptext = ປິດ
 
@@ -339,6 +341,9 @@ popup-select-microphone-icon =
     .tooltiptext = ໄມໂຄຣໂຟນ
 popup-select-speaker-icon =
     .tooltiptext = ລໍາໂພງ
+popup-screen-sharing-block =
+    .label = ບັອກ
+    .accesskey = B
 
 ## WebRTC window or screen share tab switch warning
 

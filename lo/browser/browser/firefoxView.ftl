@@ -28,5 +28,7 @@ firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກ�
 firefoxview-mobile-confirmation-header = 🎉 ດີຫຼາຍ!
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ການເຄື່ອນໄຫວຫຼ້າສຸດ
+firefoxview-collapse-button-show =
+    .title = ສະແດງລາຍການ
 firefoxview-collapse-button-hide =
     .title = ເຊື່ອງລາຍຊື່

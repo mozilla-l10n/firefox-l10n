@@ -189,4 +189,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = ປັບແຕ່ງແຖບເຄື່ອງມື…
 appmenu-developer-tools-subheader = ເຄື່ອງມືຂອງຕົວທ່ອງເວັບ
+appmenu-developer-tools-extensions =
+    .label = ສ່ວນຂະຫຍາຍສໍາລັບນັກພັດທະນາ
