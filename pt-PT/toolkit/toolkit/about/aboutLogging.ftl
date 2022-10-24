@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Ficheiro de registo atual:
+about-logging-current-log-modules = Módulos de registo atual:
 about-logging-set-log-file = Definir ficheiro de registo
 about-logging-set-log-modules = Definir módulos de registo
 about-logging-start-logging = Começar a registar
