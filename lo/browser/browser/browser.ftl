@@ -93,6 +93,9 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = ເລືອກທາງລັດນີ້ເພື່ອຊອກຫາສິ່ງທີ່ທ່ານຕ້ອງການໄວຂຶ້ນ.
 
 ## Local search mode indicator labels in the urlbar
 
