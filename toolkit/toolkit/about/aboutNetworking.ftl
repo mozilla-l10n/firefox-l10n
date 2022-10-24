@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Лік маруднага кэша
 about-networking-rcwn-cache-not-slow = Лік не-маруднага кэша
 about-networking-networkid = Сеткавы ID
 about-networking-networkid-id = Сеткавы ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Гэта старонка была перанесена ў <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
