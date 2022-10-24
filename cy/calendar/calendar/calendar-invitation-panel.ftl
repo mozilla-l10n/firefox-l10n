@@ -93,3 +93,4 @@ calendar-invitation-panel-partstat-needs-action = { $count } yn aros penderfynia
 # Variables:
 # $count (Number) - The total number of attendees.
 calendar-invitation-panel-partstat-total = { $count } mynychwr
+calendar-invitation-panel-prop-title-attachments = Atodiadau:
