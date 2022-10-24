@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is the title of the page
+about-logging-title = Log de tráfego de rede
 about-logging-current-log-file = Arquivo de registro atual:
 about-logging-current-log-modules = Módulos de registro atuais:
 about-logging-log-tutorial = Ver o <a data-l10n-name="logging">Registro HTTP </a> para instruções sobre como usar essa ferramenta.

@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-rights-title = Sobre os seus direitos
-rights-intro = O { -brand-full-name } é um software livre e de código aberto, construído por uma comunidade de milhares de pessoas do mundo todo. Há algumas coisas que você deve saber:
+rights-title = Seus direitos
+rights-intro =
+    O { -brand-full-name } é um software livre e de código aberto, construído por uma comunidade de milhares de pessoas do mundo todo.
+    Algumas coisas importantes:
 rights-intro-point-1 = O { -brand-short-name } é disponibilizado de acordo com os termos da <a data-l10n-name="mozilla-public-license-link">Licença Pública Mozilla</a>. Significa que você pode usar, copiar e distribuir o { -brand-short-name } para outras pessoas.  Também pode ficar à vontade para modificar o código-fonte do { -brand-short-name } como quiser para atender a suas necessidades. A Licença Pública Mozilla também lhe dá o direito de distribuir suas versões modificadas.
 rights-intro-point-2 = Não lhe são concedidos quaisquer direitos sobre marcas comerciais ou licenças sobre as marcas comerciais da Fundação Mozilla ou de terceiros, incluindo, entre outras, ao nome ou logotipo do Firefox. Informações adicionais sobre as marcas comerciais podem ser encontradas <a data-l10n-name="mozilla-trademarks-link">aqui</a>.
 rights-intro-point-3 = Algumas funcionalidades do { -brand-short-name }, como o relator de travamentos, dão a você a opção de enviar comentários à { -vendor-short-name }. Ao escolher enviar sua opinião, você dá à { -vendor-short-name } permissão de usar para aperfeiçoar seus produtos, publicar em seus sites e distribuir.
