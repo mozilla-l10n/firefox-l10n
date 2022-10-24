@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-logging-current-log-file = Jelenlegi naplófájl:
+about-logging-current-log-modules = Jelenlegi naplómodulok:
 about-logging-log-tutorial =
     Az eszköz használatáról lásd a
     <a data-l10n-name="logging">HTTP Logging</a> leírást.
+about-logging-set-log-file = Naplófájl beállítása
+about-logging-set-log-modules = Naplómodulok beállítása
+about-logging-start-logging = Naplózás elkezdése
+about-logging-stop-logging = Naplózás leállítása
