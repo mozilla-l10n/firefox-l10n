@@ -93,3 +93,4 @@ calendar-invitation-panel-partstat-needs-action = { $count } 位未回覆
 # Variables:
 # $count (Number) - The total number of attendees.
 calendar-invitation-panel-partstat-total = { $count } 位參與者
+calendar-invitation-panel-prop-title-attachments = 附件:
