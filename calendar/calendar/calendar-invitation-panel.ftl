@@ -93,3 +93,4 @@ calendar-invitation-panel-partstat-needs-action = { $count } bekleniyor
 # Variables:
 # $count (Number) - The total number of attendees.
 calendar-invitation-panel-partstat-total = { $count } katılımcı
+calendar-invitation-panel-prop-title-attachments = Dosyalar:
