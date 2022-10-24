@@ -1,0 +1,11 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+about-logging-current-log-file = Uneko erregistro-fitxategia:
+about-logging-current-log-modules = Uneko erregistro-moduluak:
+about-logging-log-tutorial = Ikusi <a data-l10n-name="logging">HTTP erregistora</a> orria tresna hau erabiltzeko argibideetarako.
+about-logging-set-log-file = Ezarri erregistro-fitxategia
+about-logging-set-log-modules = Ezarri erregistro-moduluak:
+about-logging-start-logging = Hasi erregistratzen
+about-logging-stop-logging = Gelditu erregistratzen
