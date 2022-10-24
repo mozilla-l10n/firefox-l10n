@@ -4,6 +4,7 @@
 
 about-logging-current-log-file = ไฟล์รายการบันทึกปัจจุบัน:
 about-logging-current-log-modules = โมดูลรายการบันทึกปัจจุบัน:
+about-logging-log-tutorial = ดู<a data-l10n-name="logging">การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้
 about-logging-set-log-file = ตั้งไฟล์รายการบันทึก
 about-logging-set-log-modules = ตั้งโมดูลรายการบันทึก
 about-logging-stop-logging = หยุดการบันทึก
