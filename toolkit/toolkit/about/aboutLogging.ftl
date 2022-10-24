@@ -4,6 +4,7 @@
 
 about-logging-current-log-file = Ficheiro de registo atual:
 about-logging-current-log-modules = Módulos de registo atual:
+about-logging-log-tutorial = Consulte <a data-l10n-name="logging">HTTP Logging</a> para instruções sobre como utilizar esta ferramenta.
 about-logging-set-log-file = Definir ficheiro de registo
 about-logging-set-log-modules = Definir módulos de registo
 about-logging-start-logging = Começar a registar
