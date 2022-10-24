@@ -871,11 +871,11 @@
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Захаваць спасылку як…">
 <!ENTITY saveLinkAsCmd.accesskey "с">
-<!ENTITY saveImageAsCmd.label "Захаваць відарыс як…">
+<!ENTITY saveImageAsCmd.label "Захаваць выяву як…">
 <!ENTITY saveImageAsCmd.accesskey "я">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "с">
-<!ENTITY copyImageAllCmd.label "Капіяваць відарыс">
+<!ENTITY copyImageAllCmd.label "Капіяваць выяву">
 <!ENTITY copyImageAllCmd.accesskey "я">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
 <!ENTITY copyEmailCmd.accesskey "э">
