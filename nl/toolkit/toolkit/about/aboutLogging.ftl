@@ -1,0 +1,13 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+about-logging-current-log-file = Huidige logbestand:
+about-logging-current-log-modules = Huidige logmodules:
+about-logging-log-tutorial =
+    Zie <a data-l10n-name="logging">HTTP logging</a>
+    voor instructies over het gebruik van dit hulpmiddel.
+about-logging-set-log-file = Logbestand instellen
+about-logging-set-log-modules = Logmodules instellen
+about-logging-start-logging = Registratie starten
+about-logging-stop-logging = Registratie stoppen
