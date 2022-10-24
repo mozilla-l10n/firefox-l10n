@@ -759,8 +759,6 @@
 <!ENTITY contextPrintPreview.label "Перадпрагляд друку">
 <!ENTITY contextPrintPreview.accesskey "п">
 
-<!-- Thread Pane Column Picker -->
-
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -800,7 +798,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Гэтая папка">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Граць">
@@ -874,11 +871,11 @@
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Захаваць спасылку як…">
 <!ENTITY saveLinkAsCmd.accesskey "с">
-<!ENTITY saveImageAsCmd.label "Захаваць выяву як…">
+<!ENTITY saveImageAsCmd.label "Захаваць відарыс як…">
 <!ENTITY saveImageAsCmd.accesskey "я">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "с">
-<!ENTITY copyImageAllCmd.label "Капіяваць выяву">
+<!ENTITY copyImageAllCmd.label "Капіяваць відарыс">
 <!ENTITY copyImageAllCmd.accesskey "я">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
 <!ENTITY copyEmailCmd.accesskey "э">
@@ -918,3 +915,4 @@
 <!ENTITY writeNewMessageDock.label      "Напісаць новы ліст">
 <!ENTITY openAddressBookDock.label      "Адкрыць адрасную кнігу">
 
+<!-- Content tab Navigation buttons -->
