@@ -19,7 +19,6 @@ open-location = සොයන්න හෝ ලිපිනය යොදන්න
 share = බෙදාගන්න
 close-window = කවුළුව වසන්න
 open-sidebar = පැති තීරු
-
 # This string describes shortcuts for search.
 search-popover = කෙටිමං සොයන්න
 
@@ -27,7 +26,7 @@ search-popover = කෙටිමං සොයන්න
 
 search-bookmarks = පොත්යොමු
 search-history = ඉතිහාසය
-search-opentabs = පටිති අරින්න
+search-opentabs = විවෘත පටිති
 search-tags = අනන්‍යන
 search-titles = සිරැසිය
 
