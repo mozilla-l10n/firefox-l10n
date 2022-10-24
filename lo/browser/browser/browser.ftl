@@ -201,6 +201,7 @@ quickactions-cmd-plugins = ປລັກອິນ
 # Opens the print dialog
 quickactions-print = ພິມ
 quickactions-cmd-print = ພິມ
+quickactions-cmd-private = ການທ່ອງເວັບແບບສ່ວນຕົວ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = ຟື້ນຟູ { -brand-short-name }
 quickactions-cmd-refresh = ໂຫຼດຄືນໃໝ່
@@ -388,6 +389,7 @@ urlbar-page-action-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = ຄົ້ນຫາດ້ວຍ { $engine }
+urlbar-result-action-sponsored = ໄດ້ຮັບການສະຫນັບສະຫນູນ
 urlbar-result-action-switch-tab = ປ່ຽນໄປຫາແທັບ
 urlbar-result-action-visit = ຢ້ຽມຢາມ
 # Action text for copying to clipboard.
@@ -591,6 +593,8 @@ navbar-library =
     .tooltiptext = ເບິ່ງປະຫວັດການໃຊ້ງານ, ບຸກມາກທີ່ບັນທຶກໄວ້, ແລະອື່ນໆ
 navbar-search =
     .title = ຊອກຫາ
+navbar-accessibility-indicator =
+    .tooltiptext = ເປີດການນຳໃຊ້ຄຸນສົມບັດການຊ່ວຍເຂົ້າເຖິງ
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
