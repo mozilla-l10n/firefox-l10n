@@ -7,3 +7,5 @@ about-logging-current-log-modules = Módulos de registro atuais:
 about-logging-log-tutorial = Ver o <a data-l10n-name="logging">Registro HTTP </a> para instruções sobre como usar essa ferramenta.
 about-logging-set-log-file = Configurar arquivo de registro
 about-logging-set-log-modules = Configurar módulo de registro
+about-logging-start-logging = Iniciar registro
+about-logging-stop-logging = Parar registro
