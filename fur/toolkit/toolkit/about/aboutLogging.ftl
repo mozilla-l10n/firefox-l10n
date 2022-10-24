@@ -4,6 +4,7 @@
 
 about-logging-current-log-file = File di regjistri atuâl:
 about-logging-current-log-modules = Modui di regjistri atuai:
+about-logging-log-tutorial = Viôt <a data-l10n-name="logging">HTTP Logging</a> par otignî istruzions su cemût doprâ chest strument.
 about-logging-set-log-file = Imposte file di regjistri
 about-logging-set-log-modules = Imposte modui di regjistri
 about-logging-start-logging = Comence regjistri
