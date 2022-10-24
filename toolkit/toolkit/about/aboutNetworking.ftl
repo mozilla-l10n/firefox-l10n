@@ -65,6 +65,8 @@ about-networking-rcwn-cache-slow = A gyorsítótár hányszor volt lassú
 about-networking-rcwn-cache-not-slow = A gyorsítótár hányszor nem volt lassú
 about-networking-networkid = Hálózati azonosító
 about-networking-networkid-id = Hálózati azonosító
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Ez az oldal átkerült az <a data-l10n-name="about-logging-url">about:logging</a> oldalra.
 
 ## Link is intended as "network link"
 
