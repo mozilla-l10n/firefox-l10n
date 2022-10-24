@@ -1,0 +1,11 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+about-logging-current-log-file = Kartela Regjistër e Tanishme:
+about-logging-current-log-modules = Module të Tanishëm Regjistrimi:
+about-logging-log-tutorial = Për udhëzime se si të përdoret ky mjet, shihni <a data-l10n-name="logging">HTTP Logging</a>.
+about-logging-set-log-file = Caktoni Kartelë Regjistër
+about-logging-set-log-modules = Caktoni Module Regjistrimi
+about-logging-start-logging = Filloje Regjistrimin
+about-logging-stop-logging = Ndal Regjistrimin
