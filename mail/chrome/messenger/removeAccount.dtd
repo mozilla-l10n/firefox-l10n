@@ -8,8 +8,8 @@
 <!ENTITY removeAccount.label          "Hesap bilgilerini sil">
 <!ENTITY removeAccount.accesskey      "b">
 <!ENTITY removeAccount.desc           "Yalnızca &brandShortName; yazılımındaki bu hesaba dair bilgileri siler. Sunucudaki asıl hesap bilgileriniz etkilenmez.">
-<!ENTITY removeData.label             "Mesaj verilerini sil">
-<!ENTITY removeData.accesskey         "M">
+<!ENTITY removeData.label             "İleti verilerini sil">
+<!ENTITY removeData.accesskey         "v">
 <!ENTITY removeDataChat.label         "Yazışma verilerini sil">
 <!ENTITY removeDataChat.accesskey     "a">
 <!ENTITY removeDataLocalAccount.desc  "Bu hesapla ilişkili tüm iletileri, klasörleri ve filtreleri yerel diskinizden kaldırır. Hâlâ sunucuda duran iletileriniz varsa bu işlem onları etkilemez. Yerel verileri arşivlemek veya ileride &brandShortName; yazılımında yeniden kullanmak istiyorsanız bu seçeneği seçmeyin.">
