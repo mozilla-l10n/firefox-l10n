@@ -4,3 +4,4 @@
 
 about-logging-current-log-file = Ընթացիկ մատեանի նիշքը․
 about-logging-current-log-modules = Ընթացիկ մատեանի բաղադրիչներ․
+about-logging-set-log-file = Կայել մատեանի նիշքը
