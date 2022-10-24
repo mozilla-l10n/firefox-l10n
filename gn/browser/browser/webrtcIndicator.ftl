@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Purujovái jehechaukaha
 webrtc-indicator-window =
     .title = { -brand-short-name } - Purujovái jehechaukaha
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Emoherakuãhína ta’ãngamýi. Eikutu ha ehecha ijepuru ambue ndive.
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = ¿Emoneĩ { $origin } ohendúvo mb
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = ¿Emoneĩ { $origin } ome’ẽvo { $thirdParty }-pe ohecha hag̃ua ko tendayke mba’epu?
 webrtc-allow-share-camera-unsafe-delegation = ¿Emoneĩ { $origin } oikévo { $thirdParty } ta’ãngamýipe?
 webrtc-allow-share-microphone-unsafe-delegations = ¿Emoneĩ { $origin } oikévo { $thirdParty } mba’epúpe?
 webrtc-allow-share-screen-unsafe-delegation = ¿Emoneĩ { $origin } ome’ẽvo { $thirdParty } ohecha hag̃ua mba’erechaha?
