@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is the title of the page
+about-logging-title = Om loggning
 about-logging-current-log-file = Aktuell loggfil:
 about-logging-current-log-modules = Aktuella loggmoduler:
 about-logging-log-tutorial = Se <a data-l10n-name="logging">HTTP-loggning</a> för instruktioner om hur du använder detta verktyg.
