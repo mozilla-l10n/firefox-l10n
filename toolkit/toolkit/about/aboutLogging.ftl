@@ -4,6 +4,7 @@
 
 about-logging-current-log-file = Berkas Log Terkini:
 about-logging-current-log-modules = Modul Log Terkini:
+about-logging-log-tutorial = Lihat <a data-l10n-name="logging">Pencatatan HTTP</a> untuk instruksi menggunakan alat ini.
 about-logging-set-log-file = Atur Berkas Log
 about-logging-set-log-modules = Atur Modul Log
 about-logging-start-logging = Mulai Pencatatan
