@@ -4,6 +4,9 @@
 
 about-logging-current-log-file = Aktuel logfil:
 about-logging-current-log-modules = Aktuelle logmoduler:
+about-logging-log-tutorial =
+    Læs <a data-l10n-name="logging">HTTP Logging</a> 
+    for vejledning til at bruge dette værktøj.
 about-logging-set-log-file = Angiv logfil
 about-logging-set-log-modules = Angiv logmoduler
 about-logging-start-logging = Start logning
