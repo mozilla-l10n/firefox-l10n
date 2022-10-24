@@ -21,10 +21,20 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Svi adresari
 all-address-books = Svi adresari
-
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Ukupno kontakta u { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Ukupno kontakta u svim adresarima: { $count }
 about-addressbook-books-context-properties =
     .label = Postavke
+about-addressbook-books-context-edit-list =
+    .label = Uredi popis
 about-addressbook-books-context-synchronize =
     .label = Sinkroniziraj
 about-addressbook-books-context-edit =
@@ -39,7 +49,6 @@ about-addressbook-books-context-remove =
     .label = Ukloni
 about-addressbook-books-context-startup-default =
     .label = Zadana početna mapa
-
 about-addressbook-confirm-delete-book-title = Obriši adresar
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -57,17 +66,14 @@ about-addressbook-search =
     .placeholder = Pretraži { $name }
 about-addressbook-search-all =
     .placeholder = Pretraži sve adresare
-
 about-addressbook-sort-button2 =
     .title = Prikaži mogućnosti prikaza
-
 about-addressbook-name-format-display =
     .label = Ime za prikaz
 about-addressbook-name-format-firstlast =
     .label = Ime Prezime
 about-addressbook-name-format-lastfirst =
     .label = Prezime, Ime
-
 about-addressbook-sort-name-ascending =
     .label = Poredaj po nazivu (A > Z)
 about-addressbook-sort-name-descending =
@@ -76,7 +82,6 @@ about-addressbook-sort-email-ascending =
     .label = Poredaj po adresi e-pošte (A > Z)
 about-addressbook-sort-email-descending =
     .label = Poredaj po adresi e-pošte (Z > A)
-
 about-addressbook-horizontal-layout =
     .label = Prebacite se na vodoravni raspored
 about-addressbook-vertical-layout =
@@ -91,6 +96,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = Adrese e-pošte
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Nadimak
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Brojevi telefona
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -109,10 +117,8 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Adresar
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
-
 about-addressbook-cards-context-write =
     .label = Piši
-
 about-addressbook-confirm-delete-mixed-title = Obriši kontakte i popise
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -181,32 +187,41 @@ about-addressbook-placeholder-no-search-results = Nema pronađenih kontakata
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } odabranih kontakata i popisa
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } odabranih kontakata
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } odabranih popisa
+about-addressbook-details-edit-photo =
+    .title = Uredi sliku kontakta
+about-addressbook-new-contact-header = Novi kontakt
 about-addressbook-prefer-display-name = Preferiraj prikazano ime ispred zaglavlja poruke
-
 about-addressbook-write-action-button = Piši
 about-addressbook-event-action-button = Događaj
 about-addressbook-search-action-button = Traži
-
+about-addressbook-new-list-action-button = Novi popis
 about-addressbook-begin-edit-contact-button = Uredi
 about-addressbook-delete-edit-contact-button = Obriši
 about-addressbook-cancel-edit-contact-button = Odustani
 about-addressbook-save-edit-contact-button = Spremi
-
 about-addressbook-add-contact-to = Dodaj u:
-
 about-addressbook-details-email-addresses-header = Adrese e-pošte
 about-addressbook-details-phone-numbers-header = Brojevi telefona
 about-addressbook-details-addresses-header = Adrese
 about-addressbook-details-notes-header = Bilješke
+about-addressbook-details-impp-header = Instant poruke
+about-addressbook-details-websites-header = Web stranice
 about-addressbook-details-other-info-header = Druge informacije
-
 about-addressbook-entry-type-work = Posao
 about-addressbook-entry-type-home = Kuća
 about-addressbook-entry-type-fax = Faks
 # Or "Mobile"
 about-addressbook-entry-type-cell = Mobitel
 about-addressbook-entry-type-pager = Pager
-
 about-addressbook-entry-name-birthday = Rođendan
 about-addressbook-entry-name-anniversary = Godišnjica
 about-addressbook-entry-name-title = Naslov
@@ -214,7 +229,10 @@ about-addressbook-entry-name-role = Uloga
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Web stranica
 about-addressbook-entry-name-time-zone = Vremenska zona
-
+about-addressbook-entry-name-custom1 = Korisničko polje 1
+about-addressbook-entry-name-custom2 = Korisničko polje 2
+about-addressbook-entry-name-custom3 = Korisničko polje 3
+about-addressbook-entry-name-custom4 = Korisničko polje 4
 about-addressbook-unsaved-changes-prompt-title = Nespremljene promjene
 about-addressbook-unsaved-changes-prompt = Želite li spremiti svoje izmjene prije nego napustite prikaz za uređivanje?
 
@@ -224,10 +242,10 @@ about-addressbook-photo-drop-target = Ispustite ili zalijepite sliku ovdje ili k
 about-addressbook-photo-drop-loading = Učitavanje fotografije…
 about-addressbook-photo-drop-error = Učitavanje fotografije nije uspjelo.
 about-addressbook-photo-filepicker-title = Odaberite slikovnu datoteku
-
 about-addressbook-photo-discard = Odbaci postojeću fotografiju
 about-addressbook-photo-cancel = Odustani
 about-addressbook-photo-save = Spremi
 
 # Keyboard shortcuts
 
+about-addressbook-new-contact-key = N
