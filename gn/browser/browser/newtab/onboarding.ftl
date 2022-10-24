@@ -360,6 +360,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ombopyahu tapiáva.</b> Oh
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Emoambue mohendahágui pumbyrýpe ha jevýpe
+mr2022-onboarding-mobile-download-cta-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-product-name } pumbyrýpe g̃uarã térã <a data-l10n-name="download-label">erahauka mboguejyrã juajuha.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-product-name } ne pumbyrýpe.
 
 ## MR2022 Upgrade Dialog screens
@@ -376,6 +377,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Opa ára romomba’e nde rekoñemi
+mr2022-onboarding-privacy-segmentation-text-cta = ¿Mba’e ehechase rome’ẽta vove tembiapoite pyahu oipurúva mba’ekuaarã oiko porãve hag̃ua ñeikundaha?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Eipuru he’iháicha { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Ehechauka marandu oĩháicha
 
