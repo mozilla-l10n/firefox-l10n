@@ -34,7 +34,7 @@ about-private-browsing-focus-promo-text = Nosso aplicativo móvel de navegação
 
 about-private-browsing-focus-promo-header-b = Leve a navegação privativa para seu celular
 about-private-browsing-focus-promo-text-b = Use o { -focus-brand-name } naquelas pesquisas privativas que você não quer que seu navegador principal para celular veja.
-about-private-browsing-focus-promo-header-c = Privacidade de nível superior em dispositivos móveis
+about-private-browsing-focus-promo-header-c = Privacidade de superior em dispositivos móveis
 about-private-browsing-focus-promo-text-c = O { -focus-brand-name } sempre limpa o histórico, além de bloquear anúncios e rastreadores.
 # This string is the title for the banner for search engine selection
 # in a private window.
