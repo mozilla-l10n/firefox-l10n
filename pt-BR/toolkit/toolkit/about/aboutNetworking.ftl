@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Contagem lenta de cache
 about-networking-rcwn-cache-not-slow = Contagem não lenta de cache
 about-networking-networkid = ID da rede
 about-networking-networkid-id = ID da rede
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Esta página foi movida para <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
