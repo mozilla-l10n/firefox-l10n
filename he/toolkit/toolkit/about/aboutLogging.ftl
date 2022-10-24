@@ -5,5 +5,7 @@
 about-logging-current-log-file = קובץ רישום נוכחי:
 about-logging-current-log-modules = מודולי רישום נוכחיים:
 about-logging-log-tutorial = לקבלת הוראות לגבי השימוש בכלי זה, נא לפנות אל המאמר <a data-l10n-name="logging">רישום HTTP</a>.
+about-logging-set-log-file = הגדרת קובץ רישום
+about-logging-set-log-modules = הגדרת מודולי רישום
 about-logging-start-logging = התחלת רישום
 about-logging-stop-logging = הפסקת רישום
