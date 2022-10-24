@@ -5,52 +5,41 @@
 permissions-reminder-window =
     .title = Izuzeci
     .style = width: 45em;
-
+permissions-reminder-window2 =
+    .title = Iznimke
 permission-preferences-close-window =
     .key = w
-
 website-address-label =
     .value = Adresa web stranice:
     .accesskey = d
-
 block-button =
     .label = Blokiraj
     .accesskey = B
-
 allow-session-button =
     .label = Dopusti u ovoj sesiji
     .accesskey = u
-
 allow-button =
     .label = Dopusti
     .accesskey = o
-
 treehead-sitename-label =
     .label = Stranica
-
 treehead-status-label =
     .label = Status
-
 remove-site-button =
     .label = Ukloni stranicu
     .accesskey = r
-
 remove-all-site-button =
     .label = Ukloni sve stranice
     .accesskey = e
-
 cancel-button =
     .label = Odustani
     .accesskey = O
-
 save-button =
     .label = Spremi promjene
     .accesskey = S
-
 permission-can-label = Dopusti
 permission-can-access-first-party-label = Dopusti samo od prve strane
 permission-can-session-label = Dopusti za sesiju
 permission-cannot-label = Blokiraj
-
 invalid-uri-message = Unesite ispravnu domenu
 invalid-uri-title = Unesena pogrešna domena
