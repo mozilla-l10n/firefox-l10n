@@ -93,3 +93,4 @@ calendar-invitation-panel-partstat-needs-action = { $count } í bið
 # Variables:
 # $count (Number) - The total number of attendees.
 calendar-invitation-panel-partstat-total = { $count } þátttakendur
+calendar-invitation-panel-prop-title-attachments = Viðhengi:
