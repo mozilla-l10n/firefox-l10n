@@ -5,6 +5,7 @@
 about-logging-current-log-file = Geçerli log dosyası:
 about-logging-current-log-modules = Geçerli log modülleri:
 about-logging-log-tutorial = Bu aracı nasıl kullanabileceğinizi öğrenmek için <a data-l10n-name="logging">HTTP Logging</a> sayfasına bakın.
+about-logging-set-log-file = Log dosyasını ayarla
 about-logging-set-log-modules = Log modüllerini ayarla
 about-logging-start-logging = Log tutmayı başlat
 about-logging-stop-logging = Log tutmayı durdur
