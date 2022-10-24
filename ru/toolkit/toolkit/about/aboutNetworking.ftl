@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Счётчик медленного кэша
 about-networking-rcwn-cache-not-slow = Счётчик не медленного кэша
 about-networking-networkid = Сетевой ID
 about-networking-networkid-id = Сетевой ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Эта страница была перемещена в <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
