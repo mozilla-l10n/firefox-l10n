@@ -1,0 +1,11 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+about-logging-current-log-file = 当前日志文件：
+about-logging-current-log-modules = 当前日志模块：
+about-logging-log-tutorial = 参见 <a data-l10n-name="logging">HTTP 日志</a> 了解如何使用此工具。
+about-logging-set-log-file = 设置日志文件
+about-logging-set-log-modules = 设置日志模块
+about-logging-start-logging = 开始记录日志
+about-logging-stop-logging = 停止记录日志
