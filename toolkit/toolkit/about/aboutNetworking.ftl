@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Лічильник повільного ке�
 about-networking-rcwn-cache-not-slow = Лічильник не повільного кешу
 about-networking-networkid = ID мережі
 about-networking-networkid-id = ID мережі
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Цю сторінку було переміщено до <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
