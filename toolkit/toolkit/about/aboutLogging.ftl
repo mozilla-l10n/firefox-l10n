@@ -2,10 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logging-current-log-file = Current Log File:
-about-logging-current-log-modules = Current Log Modules:
-about-logging-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
-about-logging-set-log-file = Set Log File
-about-logging-set-log-modules = Set Log Modules
-about-logging-start-logging = Start Logging
-about-logging-stop-logging = Stop Logging
+# This is the title of the page
+about-logging-title = Tietoja lokituksesta
+about-logging-current-log-file = Nykyinen lokitiedosto:
+about-logging-current-log-modules = Nykyiset lokitusmoduulit:
+about-logging-log-tutorial =
+    Katso <a data-l10n-name="logging">HTTP Logging</a>
+    saadaksesi ohjeita tämän työkalun käyttöön.
+about-logging-set-log-file = Aseta lokitiedosto
+about-logging-set-log-modules = Aseta lokitusmoduulit
+about-logging-start-logging = Aloita lokitus
+about-logging-stop-logging = Pysäytä lokitus
