@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Bộ đếm bộ nhớ đệm chậm
 about-networking-rcwn-cache-not-slow = Bộ đếm bộ nhớ đệm không chậm
 about-networking-networkid = ID mạng
 about-networking-networkid-id = ID mạng
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Trang này đã được chuyển đến <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 

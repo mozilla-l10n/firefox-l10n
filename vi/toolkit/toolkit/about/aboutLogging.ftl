@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is the title of the page
+about-logging-title = Giới thiệu về ghi nhật ký
 about-logging-current-log-file = Tập tin nhật ký hiện tại:
 about-logging-current-log-modules = Mô-đun nhật ký hiện tại:
 about-logging-log-tutorial = Xem <a data-l10n-name="logging">nhật ký HTTP</a> để biết hướng dẫn về cách sử dụng công cụ này.
