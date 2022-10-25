@@ -12,9 +12,9 @@
 <!ENTITY optionInline.accesskey "N">
 <!ENTITY optionDisplay.label "Foarbyldmodus">
 <!ENTITY optionDisplay.accesskey "F">
-<!ENTITY optionLTR.label "Rjochting lofts-nei-rjochts">
+<!ENTITY optionLTR.label "Fan links nei rjochts">
 <!ENTITY optionLTR.accesskey "l">
-<!ENTITY optionRTL.label "Rjochting rjochts-nei-lofts">
+<!ENTITY optionRTL.label "Fan rjochts nei links">
 <!ENTITY optionRTL.accesskey "r">
 
 <!ENTITY insertButton.label "Ynfoegje">

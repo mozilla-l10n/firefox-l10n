@@ -31,7 +31,7 @@
 <!ENTITY tableCaption.accessKey           "i">
 <!ENTITY tableCaptionAbove.label          "Boppe de tabel">
 <!ENTITY tableCaptionBelow.label          "Under de tabel">
-<!ENTITY tableCaptionLeft.label           "Lofts fan de tabel">
+<!ENTITY tableCaptionLeft.label           "Links fan tabel">
 <!ENTITY tableCaptionRight.label          "Rochts fan de tabel">
 <!ENTITY tableCaptionNone.label           "Gjin">
 <!ENTITY tableInheritColor.label           "(Sidekleur trochskine litte)">
@@ -70,6 +70,6 @@
 <!ENTITY pixels.label                     "piksels">
 <!ENTITY backgroundColor.label            "Eftergrûnkleur:">
 <!ENTITY backgroundColor.accessKey        "E">
-<!ENTITY AlignLeft.label                  "Lofts">
+<!ENTITY AlignLeft.label                  "Links">
 <!ENTITY AlignCenter.label                "Sintrearre">
 <!ENTITY AlignRight.label                 "Rjochts">
