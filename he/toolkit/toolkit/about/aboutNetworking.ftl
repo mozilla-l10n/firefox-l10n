@@ -61,6 +61,8 @@ about-networking-rcwn-cache-slow = ספירת אטיות במטמון
 about-networking-rcwn-cache-not-slow = ספירת חוסר אטיות במטמון
 about-networking-networkid = מזהה רשת
 about-networking-networkid-id = מזהה רשת
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = דף זה עבר אל <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
