@@ -110,6 +110,10 @@ places-delete-bookmark =
         }
     .accesskey = E
 
+places-untag-bookmark =
+    .label = Elimina etichetta
+    .accesskey = m
+
 places-manage-bookmarks =
     .label = Gestisci segnalibri
     .accesskey = G
