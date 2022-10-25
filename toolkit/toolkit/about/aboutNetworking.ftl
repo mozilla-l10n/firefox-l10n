@@ -65,6 +65,8 @@ about-networking-rcwn-cache-slow = Aantal trage buffers
 about-networking-rcwn-cache-not-slow = Aantal niet-trage buffers
 about-networking-networkid = Netwerk-ID
 about-networking-networkid-id = Netwerk-ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Deze pagina is verplaatst naar <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
