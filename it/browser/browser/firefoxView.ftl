@@ -56,6 +56,11 @@ firefoxview-tabpickup-sync-disconnected-header = Attiva la sincronizzazione per 
 firefoxview-tabpickup-sync-disconnected-description = Per recuperare le tue schede è necessario attivare la sincronizzazione in { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Attiva la sincronizzazione nelle impostazioni
 
+firefoxview-tabpickup-password-locked-header = Inserisci la password principale per visualizzare le schede
+firefoxview-tabpickup-password-locked-description = Per recuperare le tue schede devi inserire la tua password principale per { -brand-short-name }.
+firefoxview-tabpickup-password-locked-link = Ulteriori informazioni
+firefoxview-tabpickup-password-locked-primarybutton = Inserisci la password principale
+
 firefoxview-tabpickup-syncing = Stiamo sincronizzando le tue schede, ci vorrà solo un attimo.
 
 firefoxview-mobile-promo-header = Recupera le schede aperte sul tuo telefono o tablet
