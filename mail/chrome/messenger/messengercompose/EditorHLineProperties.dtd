@@ -13,7 +13,7 @@
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY pixelsPopup.value "piksels">
 <!ENTITY alignmentBox.label "Utlining">
-<!ENTITY leftRadio.label "Lofts">
+<!ENTITY leftRadio.label "Links">
 <!ENTITY leftRadio.accessKey "L">
 <!ENTITY centerRadio.label "Sintrearre">
 <!ENTITY centerRadio.accessKey "S">

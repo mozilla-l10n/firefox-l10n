@@ -53,11 +53,11 @@
 <!ENTITY topPopup.value "Boppe-oan">
 <!ENTITY centerPopup.value "Yn it midden">
 <!ENTITY wrapRightPopup.value "Rjochts rjochtsje">
-<!ENTITY wrapLeftPopup.value "Lofts rjochtsje">
+<!ENTITY wrapLeftPopup.value "Links rjochtsje">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Marzjes">
-<!ENTITY leftRightEditField.label "Lofts en rjochts">
+<!ENTITY leftRightEditField.label "Links en rjochts:">
 <!ENTITY leftRightEditField.accessKey "s">
 <!ENTITY topBottomEditField.label "Boppe en ûnder:">
 <!ENTITY topBottomEditField.accessKey "o">

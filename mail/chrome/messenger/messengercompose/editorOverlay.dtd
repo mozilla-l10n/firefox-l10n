@@ -175,9 +175,9 @@
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Utlynje">
 <!ENTITY alignMenu.accesskey "U">
-<!ENTITY alignLeft.label "Lofts">
+<!ENTITY alignLeft.label "Links">
 <!ENTITY alignLeft.accesskey "L">
-<!ENTITY alignLeft.tooltip "Lofts rjochtsje">
+<!ENTITY alignLeft.tooltip "Links rjochtsje">
 <!ENTITY alignCenter.label "Sintrearre">
 <!ENTITY alignCenter.accesskey "S">
 <!ENTITY alignCenter.tooltip "Sintrearje">
@@ -261,6 +261,7 @@
 <!ENTITY tableProperties.label "Tabeleigenskippen">
 <!ENTITY tableProperties.accesskey "e">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Ofbylding">
 <!ENTITY imageToolbarCmd.tooltip "Nije ôfbylding ynfoegje of eigenskippen fan selektearre ôfbylding oanpasse">
 <!ENTITY hruleToolbarCmd.label "H.line">
