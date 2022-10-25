@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = 缓存较慢次数
 about-networking-rcwn-cache-not-slow = 缓存非慢次数
 about-networking-networkid = 网络 ID
 about-networking-networkid-id = 网络 ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = 此页面已移动至 <a data-l10n-name="about-logging-url">about:logging</a>。
 
 ## Link is intended as "network link"
 
