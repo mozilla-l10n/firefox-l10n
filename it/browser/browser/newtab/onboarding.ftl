@@ -465,3 +465,23 @@ mr2022-onboarding-gratitude-secondary-button-label = Inizia a navigare
 onboarding-infrequent-import-title = Mettiti a tuo agio
 onboarding-infrequent-import-subtitle = Non importa se hai intenzione di restare qui per un po’ oppure sei solo di passaggio, ricorda che puoi importare segnalibri, password e altro ancora.
 onboarding-infrequent-import-primary-button = Importa da { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+  .aria-label = Persona che lavora con un computer portatile, circondata da stelle e fiori
+mr2022-onboarding-default-image-alt =
+  .aria-label = Persona che abbraccia il logo di { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+  .aria-label = Persona su uno skateboard con una scatola di icone di software
+mr2022-onboarding-mobile-download-image-alt =
+  .aria-label = Rane che saltano tra ninfee, con un codice QR visualizzato al centro per scaricare { -brand-product-name } per dispositivi mobili
+mr2022-onboarding-pin-private-image-alt =
+  .aria-label = Una bacchetta magica fa apparire da un cappello il logo della navigazione anonima di { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-image-alt =
+  .aria-label = Due mani con pelle di colore chiara e scura si danno il cinque
+mr2022-onboarding-gratitude-image-alt =
+  .aria-label = Vista di un tramonto attraverso una finestra, con una volpe e una pianta sul davanzale
+mr2022-onboarding-colorways-image-alt =
+  .aria-label = Una mano disegna un graffito con un collage colorato che include un occhio verde, una scarpa arancio, un pallone rosso da basket, cuffie viola, un cuore blu e una corona gialla
