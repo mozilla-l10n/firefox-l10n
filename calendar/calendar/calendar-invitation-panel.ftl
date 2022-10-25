@@ -93,3 +93,4 @@ calendar-invitation-panel-partstat-needs-action = { $count } yn behanneling
 # Variables:
 # $count (Number) - The total number of attendees.
 calendar-invitation-panel-partstat-total = { $count } dielnimmers
+calendar-invitation-panel-prop-title-attachments = Bylagen:
