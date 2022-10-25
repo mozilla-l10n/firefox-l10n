@@ -48,10 +48,10 @@ margin-bottom =
 margin-bottom-invisible =
     .value = Under:
 margin-left =
-    .value = Lofts:
+    .value = Links:
     .accesskey = L
 margin-left-invisible =
-    .value = Lofts:
+    .value = Links:
 margin-right =
     .value = Rjochts:
     .accesskey = R
@@ -60,7 +60,7 @@ margin-right-invisible =
 header-footer-label =
     .value = Kop- & fuotteksten
 hf-left-label =
-    .value = Lofts:
+    .value = Links:
 hf-center-label =
     .value = Midden:
 hf-right-label =
@@ -103,7 +103,6 @@ print-window =
     .title = Ofdrukke
 print-complete =
     .value = Ofdrukken is klear.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
