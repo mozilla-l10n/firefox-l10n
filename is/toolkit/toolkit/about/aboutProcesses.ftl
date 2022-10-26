@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Ferlastýring
-
 # The Actions column
 about-processes-column-action =
     .title = Aðgerðir
@@ -26,11 +25,10 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Skrár ({ $pid })
-about-processes-extension-process = Viðbætur ({ $pid })
+about-processes-extension-process = Forritsaukar ({ $pid })
 about-processes-plugin-process = Tengiforrit ({ $pid })
 about-processes-gmp-plugin-process = Gecko Media tengiforrit ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.

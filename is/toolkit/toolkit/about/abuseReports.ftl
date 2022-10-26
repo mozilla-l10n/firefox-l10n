@@ -8,20 +8,16 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Skýrsla fyrir { $addon-name }
-
 abuse-report-title-extension = Tilkynna þessa viðbót til { -vendor-short-name }
 abuse-report-title-sitepermission = Tilkynna heimildir fyrir vefsvæði þessarar viðbótar til { -vendor-short-name }
 abuse-report-title-theme = Tilkynna þetta þema til { -vendor-short-name }
 abuse-report-subtitle = Hvert er vandamálið?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = eftir <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Óviss um hvað ætti að velja?
-    <a data-l10n-name="learnmore-link">Lærðu meira um það að tilkynna viðbót eða þema</a>
-
+    <a data-l10n-name="learnmore-link">Lærðu meira um hvernig á að tilkynna forritsauka eða þemu</a>
 abuse-report-submit-description = Lýstu vandamálinu (valfrjálst)
 abuse-report-textarea =
     .placeholder = Það auðveldar okkur að tækla vandamálið ef við vitum meira um þetta. Lýstu því sem þú upplifir. Þakka þér fyrir að hjálpa okkur að halda vefnum heilbrigðums.
@@ -64,18 +60,14 @@ abuse-report-messagebar-action-cancel = Hætta við
 
 abuse-report-damage-reason-v2 = Það skemmdi tölvuna mína eða berskjaldaði gögnin mín
 abuse-report-damage-example = Dæmi: Setti inn spilliforrit eða stal gögnum
-
 abuse-report-spam-reason-v2 = Það inniheldur ruslpóst eða setur inn óæskilegar auglýsingar
 abuse-report-spam-example = Dæmi: Bætir auglýsingum inn á vefsíður
-
 abuse-report-settings-reason-v2 = Það breytti leitarvélinni minni, upphafssíðunni eða nýju flipasíðunni án þess biðja um leyfi eða láta vita
 abuse-report-settings-suggestions = Áður en þú tilkynnir viðbótina gætirðu prófað að breyta stillingunum þínum:
 abuse-report-settings-suggestions-search = Breyta sjálfgefnu leitarvélinni
 abuse-report-settings-suggestions-homepage = Breyta upphafssíðu og nýjum flipum
-
 abuse-report-deceptive-reason-v2 = Það segist vera eitthvað sem það er ekki
 abuse-report-deceptive-example = Dæmi: Villandi lýsing eða myndir
-
 abuse-report-broken-reason-extension-v2 = Virkar ekki, lætur vefsvæði hætta að virka eða hægir á { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Virkar ekki, lætur vefsvæði hætta að virka eða hægir á { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Það virkar ekki eða skemmir virkni vafragluggans
@@ -86,11 +78,8 @@ abuse-report-broken-suggestions-sitepermission =
     til að leysa virknivandamál að hafa samband við hönnuði vefsvæðisins.
     <a data-l10n-name="support-link">Farðu á vefsvæðið</a> til að fá upplýsingar um þróunaraðila.
 abuse-report-broken-suggestions-theme = Það hljómar eins og þú hafir rekist á hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó þemað til. <a data-l10n-name="support-link">Farðu á vefsíðu viðbótarinnar</a> til að finna upplýsingar um þemusmiðinn.
-
 abuse-report-policy-reason-v2 = Það inniheldur hatursfullt, ofbeldisfullt eða ólöglegt efni
 abuse-report-policy-suggestions = Athugið: Mál er varða höfundarrétt og vörumerki þarf að tilkynna annars staðar. <a data-l10n-name="report-infringement-link">Fylgið leiðbeiningunum hér</a> til að tilkynna slík mál.
-
 abuse-report-unwanted-reason-v2 = Ég vildi það aldrei og veit ekki hvernig ég á að losna við það
 abuse-report-unwanted-example = Dæmi: Forrit setti hana inn án þess að biðja um leyfi
-
 abuse-report-other-reason = Eitthvað annað
