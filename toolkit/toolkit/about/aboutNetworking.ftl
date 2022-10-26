@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Comptador d'escondedor lent
 about-networking-rcwn-cache-not-slow = Comptador d'escondedor non lent
 about-networking-networkid = ID de la ret
 about-networking-networkid-id = ID de la ret
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Aquesta pagina fogut desplaçada dins <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 

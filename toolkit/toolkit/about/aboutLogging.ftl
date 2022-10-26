@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is the title of the page
+about-logging-title = A prepaus de la jornalizacion
 about-logging-current-log-file = Fichièr de jornalizacion actual :
 about-logging-current-log-modules = Moduls de jornalizacion actuals :
 about-logging-log-tutorial = Veire <a data-l10n-name="logging">HTTP Logging</a> per saber cossí utilizar aquesta aisina.
