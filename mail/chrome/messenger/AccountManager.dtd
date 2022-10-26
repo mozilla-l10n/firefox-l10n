@@ -20,6 +20,4 @@
 <!ENTITY removeButton.label "Fjarlægja reikning">
 <!ENTITY removeButton.accesskey "r">
 
-<!ENTITY addonsButton.label "Viðbætur og þemu">
-
-<!-- AccountManager.xhtml -->
+<!ENTITY addonsButton.label "Forritsaukar og þemu">
