@@ -24,6 +24,7 @@ perftools-heading-local-build = Сохти маҳаллӣ
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } мс
 
 ##
 

@@ -11,8 +11,11 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-bottom-label = Мустақар дар поён
+toolbox-meatball-menu-dock-left-label = Мустақар аз тарафи чап
+toolbox-meatball-menu-dock-right-label = Мустақар аз тарафи рост
+toolbox-meatball-menu-dock-separate-window-label = Равзанаи алоҳида
 toolbox-meatball-menu-splitconsole-label = Намоиш додани консоли тақсимшуда
-
 toolbox-meatball-menu-settings-label = Танзимот
 toolbox-meatball-menu-documentation-label = Ҳуҷҷатҳо…
 toolbox-meatball-menu-community-label = Ҷомеа…
@@ -22,7 +25,6 @@ toolbox-meatball-menu-community-label = Ҷомеа…
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-everything-label = Серраванд
 toolbox-mode-everything-sub-label = (Оҳистатар)
-
 toolbox-mode-parent-process-sub-label = (Зуд)
-
