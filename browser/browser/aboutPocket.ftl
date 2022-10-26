@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ಟ್ಯಾಗ್‌ಗಳನ್ನು ಸೇರಿಸು
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } ನಲ್ಲಿ ಉಳಿಸಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ದೋಷ ಉಂಟಾಗಿದೆ.
 pocket-panel-saved-error-tag-length = ಟ್ಯಾಗ್‌ಗಳು 25 ಅಕ್ಷರಗಳಿಗೆ ಸೀಮಿತವಾಗಿವೆ
 pocket-panel-saved-error-only-links = ಕೇವಲ ಕೊಂಡಿಗಳನ್ನು ಮಾತ್ರ ಉಳಿಸಬಹುದು
@@ -35,13 +34,15 @@ pocket-panel-signup-login = ಪ್ರವೇಶಿಸು
 pocket-panel-signup-signup-email = ಇಮೇಲ್‌ನಿಂದ ಸೈನ್ ಅಪ್ ಮಾಡಿ
 pocket-panel-signup-signup-cta = { -pocket-brand-name } ಗೆ ಸೈನ್ ಅಪ್ ಮಾಡಿ. ಇದು ಉಚಿತ.
 pocket-panel-signup-signup-firefox = { -brand-product-name } ಜೊತೆ ಸೈನ್ ಅಪ್ ಆಗಿ
-pocket-panel-signup-tagline = { -brand-product-name } ನಿಂದ ಲೇಖನಗಳು ಮತ್ತು ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಿರಿ ಮತ್ತು ಅವನ್ನು ಯಾವುದೇ ಸಾಧನದಲ್ಲಿ, ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಪಾಕೆಟ್‌ನಿಂದ ನೋಡಿರಿ.
-pocket-panel-signup-tagline-story-one = ಯಾವುದೇ ಲೇಖನ, ವೀಡಿಯೋ ಅಥವಾ ಪುಟವನ್ನು { -brand-product-name } ನಿಂದ ಉಳಿಸಲು ಪಾಕೆಟ್ ಬಟನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
-pocket-panel-signup-tagline-story-two = ಯಾವದೇ ಸಾಧನದಿಂದ, ಯಾವುದೇ ಸಮಯದಲಿ ಪಾಕೆಟ್‌ನಲ್ಲಿ ನೋಡಿರಿ.
+pocket-panel-signup-tagline = ಯಾವುದೇ ಸಾಧನದಲ್ಲಿ, ಯಾವುದೇ ಸಮಯದಲ್ಲಿ { -pocket-brand-name } ನಲ್ಲಿ ವೀಕ್ಷಿಸಲು { -brand-product-name } ನಿಂದ ಲೇಖನಗಳು ಮತ್ತು ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಿ.
+pocket-panel-signup-tagline-story-one = { -brand-product-name } ನಿಂದ ಯಾವುದೇ ಲೇಖನ, ವೀಡಿಯೊ ಅಥವಾ ಪುಟವನ್ನು ಉಳಿಸಲು { -pocket-brand-name } ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.
+pocket-panel-signup-tagline-story-two = ಯಾವುದೇ ಸಾಧನದಲ್ಲಿ, ಯಾವುದೇ ಸಮಯದಲ್ಲಿ { -pocket-brand-name } ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ.
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
