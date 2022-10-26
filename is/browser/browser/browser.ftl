@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Huliðsvafur { -brand-shortcut-name }
 
 ##
@@ -284,7 +286,7 @@ quickactions-downloads = Opna sóttar skrár
 quickactions-cmd-downloads = sóttar skrár
 # Opens about:addons page in the extensions section
 quickactions-extensions = Sýsla með forritsauka
-quickactions-cmd-extensions = forritsviðaukar
+quickactions-cmd-extensions = forritsaukar
 # Opens the devtools web inspector
 quickactions-inspector = Opna Inspector
 quickactions-cmd-inspector = inspector, devtools
