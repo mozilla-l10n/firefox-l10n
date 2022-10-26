@@ -5,26 +5,21 @@
 dock-options-window-dialog =
     .title = Nastajenja nałožeńskego symbola
     .style = width: 37em;
-
+dock-options-window-dialog2 =
+    .title = Nastajenja nałožeńskego symbola
 dock-options-show-badge =
     .label = Pśitykack pokazaś
     .accesskey = P
-
 bounce-system-dock-icon =
     .label = Nałožeński symbol animěrowaś, gaž nowa powěsć pśiźo
     .accesskey = a
-
 dock-icon-legend = Marka nałožeńskego symbola
-
 dock-icon-show-label =
     .value = Nałožeński symbol wóznamjeniś z:
-
 count-unread-messages-radio =
     .label = Licba njepśecytanych powěsćow
     .accesskey = n
-
 count-new-messages-radio =
     .label = Licba nowych powěsćow
     .accesskey = L
-
 notification-settings-info2 = Móžośo myto na zdźěleńskem wótrězku systemowych nastajenjow znjemóžniś.

@@ -5,28 +5,22 @@
 cookies-window-dialog =
     .title = Cookieje
     .style = width: 36em;
-
+cookies-window-dialog2 =
+    .title = Cookieje
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Pytaś:
     .accesskey = P
-
 cookies-on-system-label = Slědujuce cookieje su na wašom licadle składowane:
-
 treecol-site-header =
     .label = Sedło
-
 treecol-name-header =
     .label = Mě cookieja
-
 props-name-label =
     .value = Mě:
 props-value-label =
@@ -41,15 +35,12 @@ props-expires-label =
     .value = Płaśiwy až do:
 props-container-label =
     .value = Kontejner:
-
 remove-cookie-button =
     .label = Cookie wótpóraś
     .accesskey = p
-
 remove-all-cookies-button =
     .label = Wšykne cookieje wótpóraś
     .accesskey = W
-
 cookie-close-button =
     .label = Zacyniś
     .accesskey = Z
