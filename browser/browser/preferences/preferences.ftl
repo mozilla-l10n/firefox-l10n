@@ -48,7 +48,7 @@ pane-experimental-reset =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
 help-button-label = { -brand-short-name }-aðstoð
-addons-button-label = Viðbætur & þemu
+addons-button-label = Forritsaukar & þemu
 focus-search =
     .key = f
 close-button =
@@ -212,7 +212,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = Litaval þitt yfirtekur útlit vefsvæðisins. <a data-l10n-name="colors-link">Sýsla með liti</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Sýslaðu með { -brand-short-name } þemu í <a data-l10n-name="themes-link">Viðbætur og þemu</a>
+preferences-web-appearance-footer = Sýslaðu með { -brand-short-name } þemu í <a data-l10n-name="themes-link">Forritsaukar og þemu</a>
 preferences-colors-header = Litir
 preferences-colors-description = Taka yfir sjálfgefna liti { -brand-short-name } fyrir texta, bakgrunn vefsíðna og tengla.
 preferences-colors-manage-button =
@@ -463,8 +463,8 @@ browsing-media-control =
     .accesskey = v
 browsing-media-control-learn-more = Fræðast meira
 browsing-cfr-recommendations =
-    .label = Viðbætur sem mælt er með til að vafra
-    .accesskey = R
+    .label = Mæltu með forritsaukum um leið og þú vafrar
+    .accesskey = r
 browsing-cfr-features =
     .label = Stinga uppá virkni er þú vafrar
     .accesskey = S
@@ -750,8 +750,8 @@ sync-engine-creditcards =
     .accesskey = G
 sync-engine-addons =
     .label = Viðbætur
-    .tooltiptext = Viðbætur og þema fyrir Firefox á borðtölvu
-    .accesskey = æ
+    .tooltiptext = Forritsaukar og þemu fyrir Firefox á borðtölvu
+    .accesskey = b
 sync-engine-settings =
     .label = Stillingar
     .tooltiptext = Almennar, Friðhelgi og Öryggisstillingar sem þú hefur breytt
