@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is the title of the page
+about-logging-title = Wo protokolowanju
 about-logging-current-log-file = Aktualna protokolowa dataja:
 about-logging-current-log-modules = Aktualne protokolowe module:
 about-logging-log-tutorial = Hlejće <a data-l10n-name="logging">HTTP-protokolowanje</a> za instrukcije wo tym, kak so tutón nastroj wužiwa.
