@@ -261,11 +261,18 @@ about-logins-import-dialog-error-try-import-again = আবার আমদান
 about-logins-import-dialog-error-cancel = বাতিল করুন
 about-logins-import-report-title = আমদানির সারাংশ
 about-logins-import-report-description = লগইন এবং পাসওয়ার্ড { -brand-short-name } এ আমদানি করা হয়েছে।
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = সারি { $number }
+about-logins-import-report-row-description-no-change = সদৃশ: বিদ্যমান লগইনের সঠিক মিল
+about-logins-import-report-row-description-added = নতুন লগইন যোগ করা হয়েছে
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-missing-field = ত্রুটি: { $field } অনুপস্থিত
 
 ##
 ## Variables:
