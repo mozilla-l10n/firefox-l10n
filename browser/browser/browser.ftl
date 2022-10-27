@@ -885,7 +885,7 @@ navbar-accessible =
 navbar-downloads =
     .label = Сцягванні
 navbar-overflow =
-    .tooltiptext = Іншыя прылады…
+    .tooltiptext = Іншыя інструменты…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
