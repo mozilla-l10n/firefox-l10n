@@ -56,8 +56,16 @@ perftools-button-edit-settings = Таҳрир кардани танзимот…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Равандҳои асосӣ ҳам барои раванди аслӣ ва ҳам барои равандҳои муҳтавоӣ
+perftools-thread-dom-worker =
+    .title = Ин раванд ҳам коргузорони сомонавӣ ва ҳам коргузорони хизматрасониро коркард мекунад
 perftools-thread-renderer =
     .title = Вақте ки «WebRender» фаъол аст, ин ҷараён дархостҳои «OpenGL»-ро иҷро мекунад
+perftools-thread-render-backend =
+    .title = Ҷараёни «WebRender RenderBackend»
+pref-thread-stream-trans =
+    .title = Интиқоли ҷараёни шабака
 
 ##
 
