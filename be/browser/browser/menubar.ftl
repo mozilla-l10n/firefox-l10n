@@ -251,8 +251,8 @@ menu-bookmarks-mobile =
 ## Tools Menu
 
 menu-tools =
-    .label = Прылады
-    .accesskey = л
+    .label = Інструменты
+    .accesskey = с
 menu-tools-downloads =
     .label = Сцягванні
     .accesskey = С
