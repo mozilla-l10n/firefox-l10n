@@ -130,7 +130,7 @@ menu-view-toolbars-menu =
     .label = Паліцы інструментаў
     .accesskey = л
 menu-view-customize-toolbar2 =
-    .label = Наладзіць паліцу інструментаў…
+    .label = Уладкаваць паліцу інструментаў…
     .accesskey = у
 menu-view-sidebar =
     .label = Бакавая панэль
@@ -252,7 +252,7 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = Інструменты
-    .accesskey = с
+    .accesskey = е
 menu-tools-downloads =
     .label = Сцягванні
     .accesskey = С

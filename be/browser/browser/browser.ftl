@@ -788,7 +788,7 @@ toolbar-settings-button =
            *[other] Адкрыць налады
         }
 toolbar-overflow-customize-button =
-    .label = Наладзіць паліцу інструментаў…
+    .label = Уладкаваць паліцу інструментаў…
     .accesskey = у
 toolbar-button-email-link =
     .label = Даслаць спасылку эл.поштай
