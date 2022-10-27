@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Navigation private de { -brand-shortcut-name }
 
 ##
@@ -187,11 +189,11 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = Modificar iste marcapaginas ({ $shortcut })
+    .tooltiptext = Modificar iste marcapagina ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Adder un marcapaginas sur iste pagina ({ $shortcut })
+    .tooltiptext = Adder iste pagina al marcapaginas ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -327,8 +329,8 @@ quickactions-learn-more =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = Adder marcapaginas
-bookmarks-edit-bookmark = Modificar marcapaginas
+bookmarks-add-bookmark = Adder marcapagina
+bookmarks-edit-bookmark = Modificar marcapagina
 bookmark-panel-cancel =
     .label = Cancellar
     .accesskey = C
@@ -722,7 +724,7 @@ bookmarks-tools =
 bookmarks-bookmark-edit-panel =
     .label = Modificar iste marcapaginas
 bookmarks-subview-edit-bookmark =
-    .label = Rediger iste marcapagina…
+    .label = Modificar iste marcapagina…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.

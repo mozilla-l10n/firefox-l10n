@@ -94,13 +94,13 @@ main-context-menu-bookmark-add =
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
-    .label = Marcar le pagina
-    .accesskey = c
+    .label = Adder le pagina al marcapaginas
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
-    .label = Rediger marcapaginas
+    .label = Modificar marcapagina
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
@@ -361,7 +361,7 @@ main-context-menu-frame-reload =
     .label = Recargar le quadro
     .accesskey = R
 main-context-menu-frame-bookmark =
-    .label = Adder un marcapaginas sur iste quadro
+    .label = Adder iste quadro al marcapaginas
     .accesskey = m
 main-context-menu-frame-add-bookmark =
     .label = Adder quadro al marcapaginas…
