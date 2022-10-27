@@ -13,6 +13,7 @@
 perftools-heading-settings = Танзимоти пурра
 perftools-heading-buffer = Танзимоти буфер
 perftools-heading-features = Хусусиятҳо
+perftools-heading-features-default = Хусусиятҳо (Барои танзими пешфарз тавсия карда мешавад)
 perftools-heading-features-disabled = Хусусиятҳои ғайрифаъол
 perftools-heading-features-experimental = Таҷрибавӣ
 perftools-heading-threads = Ҷараёнҳо
