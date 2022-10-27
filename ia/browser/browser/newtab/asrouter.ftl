@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Function recommendate
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Proque vide io isto?
-
 cfr-doorhanger-extension-cancel-button = Non ora
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Adder ora
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gerer le configurationes de recommendation
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = Non monstrar me iste recommendation
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Saper plus
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommendation
 cfr-doorhanger-extension-notification2 = Recommendation
     .tooltiptext = Extension recommendate
     .a11y-announcement = Un recommendation pro un extension es disponibile
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recommendation
@@ -68,7 +60,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisa tu marcapaginas ubique.
-cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non restar sin iste marcapaginas sur tu apparatos mobile. Comencia con un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non resta sin iste marcapagina sur tu apparatos mobile. Comencia con un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronisar marcapaginas ora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Saper plus
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nove function:
-
 cfr-whatsnew-button =
     .label = Novas
     .tooltiptext = Novas
-
 cfr-whatsnew-release-notes-link-text = Leger le notas de version
 
 ## Enhanced Tracking Protection Milestones
@@ -166,7 +156,6 @@ spotlight-total-cookie-protection-body = Le protection total del cookies bloca l
 spotlight-total-cookie-protection-expanded = { -brand-short-name } crea un barriera circa le cookies, limitante los al sito que tu visita de maniera que le traciatores non pote usar los pro sequer te. Como usator del prime hora, tu nos adjuta a optimisar iste function de sorta que nos pote continuar a construer un web melior pro totes.
 spotlight-total-cookie-protection-primary-button = Activar Protection total del cookies
 spotlight-total-cookie-protection-secondary-button = Non ora
-
 cfr-total-cookie-protection-header = Gratias a te, { -brand-short-name } es plus private e secur que mais
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -200,13 +189,11 @@ spotlight-pin-secondary-button = Non ora
 
 mr2022-background-update-toast-title = Nove { -brand-short-name }. Plus private. Minus traciatores. Sin compromissos.
 mr2022-background-update-toast-text = Prova ora le nove { -brand-short-name }, actualisate con nostre plus forte protection anti-traciamento jammais realisate.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Aperir { -brand-shorter-name } ora
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -225,7 +212,6 @@ firefoxview-cfr-body = In ultra, salta sin problemas inter apparatos e adde un t
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Nos te presenta { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Vole tu transferer ille scheda aperte a tu telephono? Prende lo. Ha tu besonio de ille sito que tu ha justo ora visitate? Puf, es de retorno con { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Vider como functiona

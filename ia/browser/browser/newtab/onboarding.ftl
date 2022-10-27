@@ -312,7 +312,7 @@ mr2022-onboarding-get-started-primary-button-label = Configura lo in secundas
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Installation fulminee
-mr2022-onboarding-import-subtitle = Configura { -brand-short-name } como illo te place. Adde tu marcapaginas, contrasignos e altero ancora ex tu vetere navigator.
+mr2022-onboarding-import-subtitle = Configura { -brand-short-name } como te place. Adde le marcapaginas, contrasignos e multo plus de tu navigator ancian.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar ab previe navigator
 
 ## If your language uses grammatical genders, in the description for the
@@ -370,7 +370,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Tu es un Innovator.</b> Tu
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Passa de portabile a telephono e retro ancora
-mr2022-onboarding-mobile-download-subtitle = Collige schedas de un apparato e reprende de ubi tu los habeva lassate in un altere. Synchronisa tu marcapaginas e contrasignos ubique tu usa { -brand-product-name }.
+mr2022-onboarding-mobile-download-subtitle = Prende le schedas de un apparato e continua ubi tu lassava sur un altere. Synchronisa tu marcapaginas e contrasignos ubicunque tu usa { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scande le codice QR pro haber { -brand-product-name } sur tu apparato mobile o <a data-l10n-name="download-label">invia a te mesme un ligamine de discargamento.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scande le codice QR pro haber { -brand-product-name } sur tu apparato mobile.
 
