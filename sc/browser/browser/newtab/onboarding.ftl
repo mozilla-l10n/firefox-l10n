@@ -352,6 +352,7 @@ mr2022-onboarding-colorway-tooltip-activist =
     .title = Ativista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Ativista (biaitu)
+mr2022-onboarding-colorway-description-activist = <b>Ses un'ativista.</b> Lassas su mundu che a mègius de su chi as agatadu e ghias is àteras persones a crèere in su cambiamentu.
 mr2022-onboarding-colorway-label-dreamer = Sonniadora
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Sonniadora
