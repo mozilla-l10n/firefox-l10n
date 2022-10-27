@@ -87,14 +87,14 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = Adder un marcapaginas
+    .aria-label = Adder iste pagina al marcapaginas
     .accesskey = m
-    .tooltiptext = Adder un marcapaginas sur iste pagina
+    .tooltiptext = Adder un marcapagina pro iste pagina
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
-    .label = Adder le pagina al marcapaginas
+    .label = Adder pagina al marcapaginas
     .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
