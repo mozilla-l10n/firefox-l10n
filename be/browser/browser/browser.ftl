@@ -289,7 +289,7 @@ quickactions-extensions = Кіраваць пашырэннямі
 quickactions-cmd-extensions = пашырэнні
 # Opens the devtools web inspector
 quickactions-inspector = Адкрыць інспектар
-quickactions-cmd-inspector = інспектар, прылады распрацоўшчыка
+quickactions-cmd-inspector = інспектар, інструменты распрацоўкі
 # Opens about:logins
 quickactions-logins = Прагляд лагінаў
 quickactions-cmd-logins = лагіны, паролі
