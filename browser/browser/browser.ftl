@@ -211,7 +211,7 @@ page-action-remove-extension2 =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Схаваць паліцы прылад
+    .label = Схаваць паліцы інструментаў
     .accesskey = х
 full-screen-exit =
     .label = Выйсці з поўнаэкраннага рэжыму
@@ -721,8 +721,8 @@ bookmarks-tools-toolbar-visibility-panel =
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Прыбраць меню закладак з паліцы прылад
-           *[other] Дадаць меню закладак на паліцу прылад
+            [true] Прыбраць меню закладак з паліцы інструментаў
+           *[other] Дадаць меню закладак на паліцу інструментаў
         }
 bookmarks-search =
     .label = Шукаць у закладках
@@ -788,8 +788,8 @@ toolbar-settings-button =
            *[other] Адкрыць налады
         }
 toolbar-overflow-customize-button =
-    .label = Уладкаванне паліцы прылад…
-    .accesskey = У
+    .label = Наладзіць паліцу інструментаў…
+    .accesskey = у
 toolbar-button-email-link =
     .label = Даслаць спасылку эл.поштай
     .tooltiptext = Даслаць спасылку на гэту старонку эл.поштай
