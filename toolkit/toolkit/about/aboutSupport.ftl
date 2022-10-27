@@ -315,6 +315,7 @@ can-sandbox-media = Sandbox plugin multimediali
 content-sandbox-level = Livello sandbox content process
 effective-content-sandbox-level = Livello effettivo sandbox del processo per i contenuti
 content-win32k-lockdown-state = Stato Win32k Lockdown del processo per i contenuti
+support-sandbox-gpu-level = Livello sandbox processo GPU
 sandbox-proc-type-content = contenuti
 sandbox-proc-type-file = contenuto file
 sandbox-proc-type-media-plugin = plugin multimediale
