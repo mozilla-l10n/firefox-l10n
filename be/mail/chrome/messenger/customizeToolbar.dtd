@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title             "Уладкаванне паліцы прылад">
+<!ENTITY dialog.title             "Наладка паліцы інструментаў">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
-<!ENTITY instructions.description "Вы можаце дадаваць або выдаляць адзінкі, перацягваючы іх на і з паліцаў прылад.">
+<!ENTITY instructions.description "Вы можаце дадаваць або выдаляць адзінкі, перацягваючы іх на і з паліц інструментаў.">
 <!ENTITY show.label               "Паказаць:">
 <!ENTITY iconsAndText.label       "Значкі і тэкст">
 <!ENTITY icons.label              "Значкі">

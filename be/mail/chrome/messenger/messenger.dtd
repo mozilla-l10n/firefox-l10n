@@ -124,7 +124,7 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Паліца меню">
 <!ENTITY menubarCmd.accesskey "м">
-<!ENTITY showMessengerToolbarCmd.label "Паліца прыладаў пошты">
+<!ENTITY showMessengerToolbarCmd.label "Паліца інструментаў пошты">
 <!ENTITY showMessengerToolbarCmd.accesskey "л">
 <!ENTITY customizeToolbar.label "Наладзіць…">
 <!ENTITY customizeToolbar.accesskey "Н">
@@ -581,7 +581,7 @@
 <!ENTITY appmenuNewMsgCmd.label "Новы ліст">
 <!ENTITY appmenuNewContactCmd.label "Сувязь з адраснай кнігі…">
 <!ENTITY appmenuEditMenu.label "Праўка">
-<!ENTITY appmenuToolbarLayout.label "Раскладка прыладапаліцы…">
+<!ENTITY appmenuToolbarLayout.label "Раскладка паліц…">
 <!ENTITY appmenuSelectThread.label "Вылучыць нізку">
 <!ENTITY appmenuSelectFlagged.label "Вылучыць пазначаныя зоркамі лісты">
 

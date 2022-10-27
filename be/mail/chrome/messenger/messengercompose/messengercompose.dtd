@@ -104,13 +104,13 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "г">
-<!ENTITY viewToolbarsMenuNew.label "Паліцы прыладаў">
+<!ENTITY viewToolbarsMenuNew.label "Паліцы інструментаў">
 <!ENTITY viewToolbarsMenuNew.accesskey "п">
 <!ENTITY menubarCmd.label "Паліца меню">
 <!ENTITY menubarCmd.accesskey "м">
-<!ENTITY showCompositionToolbarCmd.label "Прыладапаліца ўкладання">
+<!ENTITY showCompositionToolbarCmd.label "Паліца кампаноўкі">
 <!ENTITY showCompositionToolbarCmd.accesskey "ў">
-<!ENTITY showFormattingBarCmd.label "Прыладапаліца фарматавання">
+<!ENTITY showFormattingBarCmd.label "Паліца фарматавання">
 <!ENTITY showFormattingBarCmd.accesskey "ф">
 <!ENTITY showTaskbarCmd.label "Паліца статуса">
 <!ENTITY showTaskbarCmd.accesskey "с">
@@ -204,11 +204,12 @@
 <!ENTITY printButton.tooltip "Надрукаваць гэты ліст">
 
 <!-- Headers -->
-<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr.accesskey "А">
 <!ENTITY subject.accesskey "Т">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Уставіць тварык-усмешку">
 <!ENTITY smiley1Cmd.label "Усмешка">
 <!ENTITY smiley2Cmd.label "Пахмурны">
@@ -244,6 +245,7 @@
 <!ENTITY pasteQuote.label "Уставіць як вытрымку">
 <!ENTITY pasteQuote.accesskey "В">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Адчыніць">
 <!ENTITY openAttachment.accesskey "А">
 <!ENTITY delete.label "Выдаліць">
@@ -268,6 +270,9 @@
 <!ENTITY attachPage.accesskey "с">
 
 <!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">
@@ -279,6 +284,8 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Наладзіць адрас адпраўніка…">
 <!ENTITY customizeFromAddress.accesskey "Н">
+
+<!-- Accessibility name for the document -->
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Мова праверкі правапісу">
