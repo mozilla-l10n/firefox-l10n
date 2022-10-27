@@ -32,8 +32,8 @@ synced-tabs-context-open-in-new-private-window =
     .label = Aperir in un nove fenestra private
     .accesskey = P
 synced-tabs-context-bookmark-single-tab =
-    .label = Adder un marcapaginas sur iste scheda…
-    .accesskey = m
+    .label = Adder iste scheda al marcapaginas…
+    .accesskey = A
 synced-tabs-context-open-in-tab =
     .label = Aperir in un nove scheda
     .accesskey = v
@@ -55,7 +55,7 @@ synced-tabs-context-open-in-private-window =
 # string is located in tabContextMenu.ftl. So, this string should be translated
 # consistently with the "Bookmark Tab…" string there.
 synced-tabs-context-bookmark =
-    .label = Adder scheda al marcapaginas
+    .label = Adder scheda al marcapaginas…
     .accesskey = A
 synced-tabs-context-copy =
     .label = Copiar

@@ -52,13 +52,13 @@ unpin-selected-tabs =
     .label = Liberar le schedas
     .accesskey = L
 bookmark-selected-tabs =
-    .label = Marcar schedas…
-    .accesskey = s
+    .label = Adder schedas al marcapaginas…
+    .accesskey = A
 bookmark-tab =
-    .label = Marcar le scheda
-    .accesskey = M
+    .label = Adder le scheda al marcapaginas
+    .accesskey = A
 tab-context-bookmark-tab =
-    .label = Adder scheda al marcapaginas
+    .label = Adder le scheda al marcapaginas
     .accesskey = A
 tab-context-open-in-new-container-tab =
     .label = Aperir in un nove scheda contentor
@@ -105,7 +105,6 @@ tab-context-move-tabs =
            *[other] Displaciar schedas
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

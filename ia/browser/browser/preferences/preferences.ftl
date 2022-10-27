@@ -515,7 +515,7 @@ use-current-pages =
         }
     .accesskey = C
 choose-bookmark =
-    .label = Usar un marcapaginas…
+    .label = Usar marcapagina…
     .accesskey = m
 
 ## Home Section - Firefox Home Content Customization
@@ -625,7 +625,7 @@ search-keyword-warning-title = Parola clave duplicate
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Tu ha eligite un parola clave que es actualmente usate per “{ $name }”. Per favor selige un altere.
-search-keyword-warning-bookmark = Tu ha eligite un parola clave que es actualmente in uso per un marcapaginas. Per favor selige un altere.
+search-keyword-warning-bookmark = Tu ha eligite un parola clave que es actualmente usate per un marcapagina. Per favor selige un altere.
 
 ## Containers Section
 
