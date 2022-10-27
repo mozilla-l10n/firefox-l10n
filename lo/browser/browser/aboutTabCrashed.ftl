@@ -18,3 +18,4 @@ crashed-comment =
     .placeholder = ປະກອບຄຳເຫັນ (ຄຳເຫັນນີ້ແມ່ນທຸກໆຄົນສາມາດເຫັນໄດ້)
 crashed-report-sent = ສົ່ງລາຍງານຂໍ້ຂັດຂ້ອງແລ້ວ; ຂອບໃຈທີ່ຊ່ວຍເຮັດ { -brand-short-name } ໃຫ້ດີຂຶ້ນ
 crashed-request-auto-submit-title = ລາຍງານແຖບເບື່ອງຫຼັງ
+crashed-auto-submit-checkbox-2 = ອັບເດດການຕັ້ງຄ່າເພື່ອສົ່ງລາຍງານອັດຕະໂນມັດເມື່ອ { -brand-short-name } ຂັດຂ້ອງ
