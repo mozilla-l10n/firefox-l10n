@@ -168,7 +168,7 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-description = Рэкамендаваны прадусталяваны варыянт для адладкі большасці вэб-прыкладанняў, з невялікімі выдаткамі.
 profiler-popup-presets-web-developer-label =
-    .label = Распрацоўшчык Сеціва
+    .label = Вэб-распрацоўка
 profiler-popup-presets-firefox-description = Рэкамендаваныя налады для прафілявання { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
