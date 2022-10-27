@@ -483,7 +483,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Прылады распрацоўшчыка">
+<!ENTITY devtoolsMenu.label "Інструменты распрацоўшчыка">
 <!ENTITY devtoolsMenu.accesskey "а">
 <!ENTITY devToolboxCmd.label "Панэль распрацоўшчыка">
 <!ENTITY devToolboxCmd.accesskey "П">
