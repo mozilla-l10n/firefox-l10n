@@ -115,6 +115,9 @@ graphics-window-protocol = Аконны пратакол
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Працоўнае асяроддзе
 place-database-title = База звестак месцаў
+place-database-stats = Статыстыка
+place-database-stats-show = Паказаць статыстыку
+place-database-stats-hide = Схаваць статыстыку
 place-database-integrity = Цэльнасць
 place-database-verify-integrity = Праверыць цэльнасць
 a11y-title = Даступнасць
