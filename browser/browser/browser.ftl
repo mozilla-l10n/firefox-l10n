@@ -110,7 +110,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Apri il pannello con il messaggio di installazione componente aggiuntivo
 urlbar-tip-help-icon =
     .title = Ottieni assistenza
-urlbar-search-tips-confirm = OK, tutto chiaro
+urlbar-search-tips-confirm = OK
 urlbar-tip-icon-description =
     .alt = Suggerimento:
 

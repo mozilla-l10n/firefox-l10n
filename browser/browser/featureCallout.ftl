@@ -6,7 +6,7 @@
 callout-primary-advance-button-label = Successivo
 
 # Callout dialog primary button to complete the feature tour
-callout-primary-complete-button-label = Tutto chiaro
+callout-primary-complete-button-label = OK
 
 ## Firefox View feature tour strings
 
