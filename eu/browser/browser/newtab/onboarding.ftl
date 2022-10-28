@@ -406,3 +406,13 @@ mr2022-onboarding-gratitude-secondary-button-label = Hasi nabigatzen
 onboarding-infrequent-import-title = Jar zaitez eroso, etxean bezala
 onboarding-infrequent-import-subtitle = Gelditzeko bazatoz edo besterik gabe bisitan bazaude, gogoratu zure laster-markak, pasahitzak eta gehiago inporta ditzakezula.
 onboarding-infrequent-import-primary-button = Inportatu { -brand-short-name }(e)ra
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Ordenagailu eramangarrian lanean dabilen pertsona, izar eta loreez inguratua
+mr2022-onboarding-default-image-alt =
+    .aria-label = Pertsona bat { -brand-product-name }(e)n logoa besarkatzen
+mr2022-onboarding-import-image-alt =
+    .aria-label = Pertsona bat patinetean software-ikonodun kaxa batekin
