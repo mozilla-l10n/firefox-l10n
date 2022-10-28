@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Activa la sincronización para 
 firefoxview-tabpickup-sync-disconnected-description = Para llevar tus pestañas contigo, necesitarás permitir la sincronización { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Activar la sincronización en los ajustes
 firefoxview-tabpickup-password-locked-link = Saber más
+firefoxview-tabpickup-password-locked-primarybutton = Ingresar contraseña principal
 firefoxview-tabpickup-syncing = Siéntate tranquilo mientras tus pestañas se sincronizan. Será solo un momento.
 firefoxview-mobile-promo-header = Agarra pestañas desde tu teléfono o tableta
 firefoxview-mobile-promo-description = Para ver tus últimas pestañas móviles, inicia sesión en { -brand-product-name } en iOS o Android.
