@@ -35,6 +35,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = 開始使�
 
 callout-pdfjs-edit-title = 使用我們全新文字工具編輯 PDF
 callout-pdfjs-edit-body-a = 直接在 { -brand-short-name } 當中填寫表單、加入註解或寫筆記。
+callout-pdfjs-edit-body-b = 不用再搜尋免費版 PDF 編輯器了！可以直接在 { -brand-short-name } 當中填寫表單、加入註解或寫筆記。
 callout-pdfjs-edit-button = 下一個
 callout-pdfjs-draw-title = 使用我們全新繪圖工具對文件簽名
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
