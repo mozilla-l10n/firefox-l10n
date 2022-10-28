@@ -147,7 +147,7 @@ cfr-doorhanger-doh-secondary-button = Disattiva
 
 cfr-doorhanger-fission-body-approved = La tua privacy è importante. Ora { -brand-short-name } isola i siti web l’uno dall’altro, rendendo più difficile il furto di password, numeri di carte di credito e altre informazioni sensibili da parte di hacker.
 cfr-doorhanger-fission-header = Isolamento dei siti
-cfr-doorhanger-fission-primary-button = OK, ricevuto
+cfr-doorhanger-fission-primary-button = OK
   .accesskey = O
 cfr-doorhanger-fission-secondary-button = Ulteriori informazioni
   .accesskey = U
