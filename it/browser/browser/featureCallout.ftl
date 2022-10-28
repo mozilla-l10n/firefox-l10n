@@ -40,3 +40,17 @@ continuous-onboarding-firefox-view-tab-pickup-title = Migliora la tua navigazion
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Accedi alle tue schede aperte da qualsiasi dispositivo. Sincronizza segnalibri, password e molto altro.
 
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Inizia
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-title = Modifica i PDF con il nuovo strumento Testo
+callout-pdfjs-edit-body-a = Compila moduli, aggiungi commenti e note direttamente in { -brand-short-name }.
+callout-pdfjs-edit-body-b = Non serve più cercare software gratuiti online. Compila moduli, aggiungi commenti e note direttamente in { -brand-short-name }.
+callout-pdfjs-edit-button = Successivo
+
+callout-pdfjs-draw-title = Firma i documenti con il nuovo strumento Disegno
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Aggiungi note direttamente al PDF e salva le tue modifiche.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Non c’è più bisogno di stampare e fare scansioni. Aggiungi note direttamente al PDF e salva le tue modifiche.
+callout-pdfjs-draw-button = OK
