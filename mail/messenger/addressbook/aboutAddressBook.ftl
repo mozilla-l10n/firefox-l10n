@@ -24,7 +24,6 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Alle adresboeken
 all-address-books = Alle adresboeken
-
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -32,7 +31,6 @@ about-addressbook-card-count = Totaal aantal contacten in { $name }: { $count }
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = Totaal aantal contacten in alle adresboeken: { $count }
-
 about-addressbook-books-context-properties =
     .label = Eigenschappen
 about-addressbook-books-context-edit-list =
@@ -51,7 +49,6 @@ about-addressbook-books-context-remove =
     .label = Verwijderen
 about-addressbook-books-context-startup-default =
     .label = Standaard opstartmap
-
 about-addressbook-confirm-delete-book-title = Adresboek verwijderen
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -69,17 +66,14 @@ about-addressbook-search =
     .placeholder = { $name } doorzoeken
 about-addressbook-search-all =
     .placeholder = Alle adresboeken doorzoeken
-
 about-addressbook-sort-button2 =
     .title = Weergaveopties vermelden
-
 about-addressbook-name-format-display =
     .label = Weergavenaam
 about-addressbook-name-format-firstlast =
     .label = Voornaam Achternaam
 about-addressbook-name-format-lastfirst =
     .label = Achternaam, Voornaam
-
 about-addressbook-sort-name-ascending =
     .label = Sorteren op naam (A > Z)
 about-addressbook-sort-name-descending =
@@ -88,11 +82,12 @@ about-addressbook-sort-email-ascending =
     .label = Sorteren op e-mailadres (A > Z)
 about-addressbook-sort-email-descending =
     .label = Sorteren op e-mailadres (Z > A)
-
 about-addressbook-horizontal-layout =
     .label = Overschakelen naar horizontale opmaak
 about-addressbook-vertical-layout =
     .label = Overschakelen naar verticale opmaak
+about-addressbook-table-layout =
+    .label = Tabelopmaak
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
@@ -124,10 +119,8 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Adresboek
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
-
 about-addressbook-cards-context-write =
     .label = Opstellen
-
 about-addressbook-confirm-delete-mixed-title = Contacten en lijsten verwijderen
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -199,27 +192,19 @@ about-addressbook-selection-contacts-header = { $count } geselecteerde contacten
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = { $count } geselecteerde lijsten
-
 about-addressbook-details-edit-photo =
     .title = Contactfoto bewerken
-
 about-addressbook-new-contact-header = Nieuw contact
-
 about-addressbook-prefer-display-name = Weergavenaam boven berichtkop verkiezen
-
 about-addressbook-write-action-button = Opstellen
 about-addressbook-event-action-button = Gebeurtenis
 about-addressbook-search-action-button = Zoeken
-
 about-addressbook-new-list-action-button = Nieuwe lijst
-
 about-addressbook-begin-edit-contact-button = Bewerken
 about-addressbook-delete-edit-contact-button = Verwijderen
 about-addressbook-cancel-edit-contact-button = Annuleren
 about-addressbook-save-edit-contact-button = Opslaan
-
 about-addressbook-add-contact-to = Toevoegen aan:
-
 about-addressbook-details-email-addresses-header = E-mailadressen
 about-addressbook-details-phone-numbers-header = Telefoonnummers
 about-addressbook-details-addresses-header = Adressen
@@ -227,14 +212,12 @@ about-addressbook-details-notes-header = Opmerkingen
 about-addressbook-details-impp-header = Instant-berichten
 about-addressbook-details-websites-header = Websites
 about-addressbook-details-other-info-header = Andere informatie
-
 about-addressbook-entry-type-work = Werk
 about-addressbook-entry-type-home = Thuis
 about-addressbook-entry-type-fax = Fax
 # Or "Mobile"
 about-addressbook-entry-type-cell = Mobiel
 about-addressbook-entry-type-pager = Pieper
-
 about-addressbook-entry-name-birthday = Verjaardag
 about-addressbook-entry-name-anniversary = Jubileum
 about-addressbook-entry-name-title = Titel
@@ -242,12 +225,10 @@ about-addressbook-entry-name-role = Rol
 about-addressbook-entry-name-organization = Organisatie
 about-addressbook-entry-name-website = Website
 about-addressbook-entry-name-time-zone = Tijdzone
-
 about-addressbook-entry-name-custom1 = Overig 1
 about-addressbook-entry-name-custom2 = Overig 2
 about-addressbook-entry-name-custom3 = Overig 3
 about-addressbook-entry-name-custom4 = Overig 4
-
 about-addressbook-unsaved-changes-prompt-title = Niet-opgeslagen wijzigingen
 about-addressbook-unsaved-changes-prompt = Wilt u uw wijzigingen opslaan voordat u de bewerkingsweergave verlaat?
 
@@ -257,7 +238,6 @@ about-addressbook-photo-drop-target = Versleep een foto hierheen of plak er een,
 about-addressbook-photo-drop-loading = Foto laden…
 about-addressbook-photo-drop-error = Kan foto niet laden.
 about-addressbook-photo-filepicker-title = Selecteer een afbeeldingsbestand
-
 about-addressbook-photo-discard = Bestaande foto verwijderen
 about-addressbook-photo-cancel = Annuleren
 about-addressbook-photo-save = Opslaan
