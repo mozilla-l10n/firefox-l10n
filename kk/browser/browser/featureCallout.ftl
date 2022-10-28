@@ -28,3 +28,7 @@ callout-firefox-view-colorways-reminder-title = Біздің соңғы түст
 continuous-onboarding-firefox-view-tab-pickup-title = Беттерді таңдау арқылы веб-шолуды жылдамдатыңыз
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Кез келген құрылғыдан ашық беттеріңізге қол жеткізіңіз. Оған қоса бетбелгілер, парольдер және т.б. синхрондаңыз.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Бастау
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-button = Келесі
