@@ -33,4 +33,5 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Пачац�
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-button = Далей
 callout-pdfjs-draw-button = Зразумела!
