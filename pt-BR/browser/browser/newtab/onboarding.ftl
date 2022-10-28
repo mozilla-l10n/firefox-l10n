@@ -405,3 +405,19 @@ mr2022-onboarding-gratitude-secondary-button-label = Iniciar navegação
 onboarding-infrequent-import-title = Sinta-se em casa
 onboarding-infrequent-import-subtitle = Seja se instalando ou apenas de passagem, lembre que pode importar seus favoritos, senhas e mais.
 onboarding-infrequent-import-primary-button = Importar para o { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Pessoa trabalhando em um notebook, cercada por estrelas e flores
+mr2022-onboarding-default-image-alt =
+    .aria-label = Pessoa abraçando o logotipo do { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Pessoa andando de skate com uma caixa de ícones de software
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Sapos pulando em lírios com um código QR no centro para baixar o { -brand-product-name } para celular
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Uma varinha mágica faz o logotipo de navegação privativa do { -brand-product-name } sair de dentro de um chapéu
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Duas mãos de peles clara e escura se cumprimentando
