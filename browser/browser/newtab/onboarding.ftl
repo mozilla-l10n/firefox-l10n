@@ -421,3 +421,7 @@ mr2022-onboarding-pin-private-image-alt =
     .aria-label = Uma varinha mágica faz o logotipo de navegação privativa do { -brand-product-name } sair de dentro de um chapéu
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Duas mãos de peles clara e escura se cumprimentando
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vista de um pôr do sol através de uma janela, com uma raposa e um vaso de planta no parapeito da janela
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Um spray manual pinta uma colagem colorida de um olho verde, um sapato laranja, uma bola de basquete vermelha, fones de ouvido roxos, um coração azul e uma coroa amarela
