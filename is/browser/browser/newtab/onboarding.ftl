@@ -408,3 +408,23 @@ mr2022-onboarding-gratitude-secondary-button-label = Byrjaðu að vafra
 onboarding-infrequent-import-title = Láttu eins og heima hjá þér
 onboarding-infrequent-import-subtitle = Hvort sem þú ert að koma þér fyrir eða bara staldra við, skaltu muna að þú getur flutt inn bókamerkin þín, lykilorð og fleira.
 onboarding-infrequent-import-primary-button = Flytja inn í { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Einstaklingur sem vinnur á fartölvu umkringdur stjörnum og blómum
+mr2022-onboarding-default-image-alt =
+    .aria-label = Aðili sem knúsar { -brand-product-name } táknmerkið
+mr2022-onboarding-import-image-alt =
+    .aria-label = Einstaklingur á hjólabretti með kassa fullan af hugbúnaðartáknum
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Froskar hoppa yfir liljublöð með QR kóða í miðjunni til að sækja { -brand-product-name } fyrir farsíma
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Töfrasproti lætur merki { -brand-product-name } einkavafurs birtast upp úr hatti
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Ljósar og dökkar hendur gefa fimmu
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Útsýni á sólarlag í gegnum glugga með rebba og plöntu í gluggakistu
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Hönd spreyjar litríka mynd með grænu auga, appelsínugulum skó, rauðum körfubolta, fjólubláum heyrnartólum, bláu hjarta og gulri kórónu.
