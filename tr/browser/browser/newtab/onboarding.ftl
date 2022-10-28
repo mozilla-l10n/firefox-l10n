@@ -406,3 +406,13 @@ mr2022-onboarding-gratitude-secondary-button-label = Gezinmeye başla
 onboarding-infrequent-import-title = Kendinizi evinizde gibi hissedin
 onboarding-infrequent-import-subtitle = Yer imlerinizi, parolalarınızı ve daha fazlasını kolayca içe aktarabilirsiniz.
 onboarding-infrequent-import-primary-button = { -brand-short-name } tarayıcısına aktar
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-default-image-alt =
+    .aria-label = { -brand-product-name } logosuna sarılan bir kişi
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Beşlik çakan açık ve koyu tenli eller
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Pencere kenarında bir tilki ve bir ev bitkisi olan bir pencereden gün batımı manzarası
