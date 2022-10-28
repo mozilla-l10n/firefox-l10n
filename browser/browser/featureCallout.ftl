@@ -38,4 +38,8 @@ callout-pdfjs-edit-body-a = { -brand-short-name }에서 직접 양식을 채우�
 callout-pdfjs-edit-body-b = 무료 온라인 편집기 검색은 건너뛰세요. { -brand-short-name }에서 직접 양식을 채우거나, 주석을 추가하거나, 메모하세요.
 callout-pdfjs-edit-button = 다음
 callout-pdfjs-draw-title = 새 그리기 도구로 문서에 서명
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = PDF에 표시한 다음 변경 사항을 저장하세요.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = 더 이상 인쇄와 스캔이 필요 없습니다. PDF에 표시한 다음 변경 사항을 저장하세요.
 callout-pdfjs-draw-button = 확인

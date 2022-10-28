@@ -405,3 +405,15 @@ mr2022-onboarding-gratitude-secondary-button-label = 탐색 시작
 onboarding-infrequent-import-title = 편하게 생각하세요
 onboarding-infrequent-import-subtitle = 늘 사용하든 가끔씩 사용하든, 북마크, 비밀번호 등을 가져올 수 있다는 점을 기억하세요.
 onboarding-infrequent-import-primary-button = { -brand-short-name }로 가져오기
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = 별과 꽃으로 둘러싸인 노트북에서 작업하는 사람
+mr2022-onboarding-default-image-alt =
+    .aria-label = { -brand-product-name } 로고를 껴안고 있는 사람
+mr2022-onboarding-import-image-alt =
+    .aria-label = 소프트웨어 아이콘 상자가 있는 스케이트보드를 타는 사람
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = 중앙에서 모바일용 { -brand-product-name }를 다운로드하기 위해 QR 코드가 있는 백합 패드를 뛰어다니는 개구리
