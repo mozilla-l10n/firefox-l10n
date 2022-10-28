@@ -52,6 +52,9 @@ cert-error-details-hsts-label = HTTP ຄວາມປອດໄພການຂົ�
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = ສາຍໃບຮັບຮອງ:
 open-in-new-window-for-csp-or-xfo-error = ເປີດໄຊທ໌ໃນວິນໂດໃຫມ່
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = ເພື່ອປົກປ້ອງຄວາມປອດໄພຂອງທ່ານ, { $hostname } ຈະບໍ່ອະນຸຍາດໃຫ້ { -brand-short-name } ສະແດງຫນ້າຖ້າເວັບໄຊທ໌ອື່ນໄດ້ຝັງມັນ. ເພື່ອເບິ່ງຫນ້ານີ້, ທ່ານຈໍາເປັນຕ້ອງເປີດມັນຢູ່ໃນປ່ອງຢ້ຽມໃຫມ່.
 
 ## Messages used for certificate error titles
 

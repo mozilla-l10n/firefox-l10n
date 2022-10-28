@@ -108,10 +108,14 @@ urlbar-search-mode-actions = ການກະທຳ
 
 urlbar-camera-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກກ້ອງຖ່າຍຮູບຂອງທ່ານສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = ທ່ານໄດ້ບລັອກບ່ອນເກັບຂໍ້ມູນຄົງທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-popup-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກປັອບອັບສຳລັບເວັບໄຊທ໌ນີ້.
 urlbar-autoplay-media-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກການຫຼິ້ນອັດຕະໂນມັດທີ່ມີສຽງສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-canvas-blocked =
+    .tooltiptext = ທ່ານໄດ້ສະກັດການສະກັດເອົາຂໍ້ມູນ canvas ສໍາລັບເວັບໄຊທ໌ນີ້.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
