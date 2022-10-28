@@ -410,9 +410,19 @@ onboarding-infrequent-import-primary-button = { -brand-short-name } tarayıcıs�
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Yıldızlar ve çiçeklerle çevrili, dizüstü bilgisayarda çalışan bir kişi
 mr2022-onboarding-default-image-alt =
     .aria-label = { -brand-product-name } logosuna sarılan bir kişi
+mr2022-onboarding-import-image-alt =
+    .aria-label = Yazılım simgeleriyle dolu bir kutuyla kaykay süren bir kişi
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Nilüfer yaprakları arasında zıplayan kurbağalar ve ortada mobil { -brand-product-name } tarayıcısını indirmeye yaran QR kodu
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Şapkadan { -brand-product-name } gizli gezinti logosunun çıkmasını sağlayan sihirli değnek
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Beşlik çakan açık ve koyu tenli eller
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pencere kenarında bir tilki ve bir ev bitkisi olan bir pencereden gün batımı manzarası
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Yeşil göz, turuncu ayakkabı, kırmızı basketbol topu, mor kulaklık, mavi kalp ve sarı taçtan oluşan renkli bir kolajı boyayan el spreyi

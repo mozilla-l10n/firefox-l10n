@@ -38,4 +38,8 @@ callout-pdfjs-edit-body-a = Doğrudan { -brand-short-name } tarayıcısında for
 callout-pdfjs-edit-body-b = Ücretsiz çevrimiçi editör aramaya son. Doğrudan { -brand-short-name } tarayıcısında formları doldurun, yorum ekleyin ve not alın.
 callout-pdfjs-edit-button = İleri
 callout-pdfjs-draw-title = Yeni çizim aracımızla belgeleri imzalayın
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = PDF’lerinizi işaretleyin, değişikliklerinizi kaydedin.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Yazdırma ve taramaya son. PDF’leri işaretleyin, ardından değişikliklerinizi kaydedin.
 callout-pdfjs-draw-button = Anladım
