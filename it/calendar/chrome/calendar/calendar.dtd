@@ -13,7 +13,6 @@
 
 <!ENTITY calendar.today.button.label          "Oggi">
 <!ENTITY calendar.tomorrow.button.label       "Domani">
-<!ENTITY calendar.upcoming.button.label       "Presto">
 
 <!ENTITY calendar.events.filter.all.label "Tutti gli eventi">
 <!ENTITY calendar.events.filter.today.label "Eventi di oggi">
@@ -86,8 +85,6 @@
 
 <!ENTITY calendar.newevent.button.label         "Nuovo evento" >
 <!ENTITY calendar.newtask.button.label          "Nuova attività" >
-<!ENTITY calendar.print.button.label            "Stampa" >
-<!ENTITY calendar.print.button.accesskey        "S">
 
 <!ENTITY calendar.day.button.label              "Giorno" >
 <!ENTITY calendar.week.button.label             "Settimana" >
@@ -324,8 +321,8 @@
 <!ENTITY calendar.alarm.location.label              "Indirizzo:" >
 <!ENTITY calendar.alarm.details.label               "Dettagli…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Snooze per" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Snooze a tutti per" >
+<!ENTITY calendar.alarm.snoozefor.label             "Posponi per" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Posponi tutti per" >
 <!ENTITY calendar.alarm.title.label                 "Allarmi calendario" >
 <!ENTITY calendar.alarm.dismiss.label               "Elimina" >
 <!ENTITY calendar.alarm.dismissall.label            "Elimina tutti" >
@@ -343,7 +340,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "Elimina snooze">
+<!ENTITY calendar.alarm.snooze.cancel               "Elimina posposizione">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Modifica calendario">
@@ -372,27 +369,8 @@
 <!ENTITY calendar.publish.publish.button      "Pubblica">
 <!ENTITY calendar.publish.close.button      "Chiudi">
 
-<!ENTITY calendar.publish.example.url.description   "Ad esempio http://www.myserver.com/webdav/test.ics">
-
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Seleziona calendario">
-
-<!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "Stampa calendario">
-<!ENTITY calendar.print.title.label "Titolo:">
-<!ENTITY calendar.print.layout.label "Modello">
-<!ENTITY calendar.print.range.label "Intervallo da stampare">
-<!ENTITY calendar.print.currentView2.label "Vista corrente">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Eventi/attività selezionati">
-<!ENTITY calendar.print.tasks.label "Attività">
-<!ENTITY calendar.print.events.label "Eventi">
-<!ENTITY calendar.print.custom.label "Elenca eventi tra:">
-<!ENTITY calendar.print.from.label "Da:">
-<!ENTITY calendar.print.to.label "A:">
-<!ENTITY calendar.print.settingsGroup.label "Impostazioni di stampa">
-<!ENTITY calendar.print.optionsGroup.label "Opzioni">
-<!ENTITY calendar.print.taskswithnoduedate.label "Attività senza data di scadenza">
-<!ENTITY calendar.print.completedtasks.label "Attività completate">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Dettagli…">
