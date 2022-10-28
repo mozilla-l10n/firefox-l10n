@@ -7,7 +7,6 @@ page-subtitle =
     本页面包含的技术信息在您寻求解决方法时或许能帮上忙。
     如果您正在寻找 { -brand-short-name } 常见问题的答案，
     可以查阅我们的<a data-l10n-name="support-link">帮助网站</a>。
-
 crashes-title = 崩溃报告
 crashes-id = 报告 ID
 crashes-send-date = 提交日期
@@ -78,12 +77,10 @@ app-basics-key-mozilla = Mozilla 位置服务密钥
 app-basics-safe-mode = 安全模式
 app-basics-memory-size = 内存大小（RAM）
 app-basics-disk-available = 磁盘可用空间
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] 在 Finder 中显示
@@ -118,6 +115,11 @@ graphics-window-protocol = 窗口协议
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = 桌面环境
 place-database-title = Places 数据库
+place-database-stats = 统计信息
+place-database-stats-show = 显示统计信息
+place-database-stats-hide = 隐藏统计信息
+place-database-stats-entity = 实体
+place-database-stats-count = 数量
 place-database-integrity = 完整性
 place-database-verify-integrity = 验证完整性
 a11y-title = 无障碍环境
@@ -198,23 +200,18 @@ remote-debugging-url = URL
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 近 { $days } 天的崩溃报告
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } 分钟前
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } 小时前
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } 天前
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = 全部崩溃报告（包括 { $reports } 个待上传的指定时间范围内的崩溃）
-
 raw-data-copied = 原始数据已复制到剪贴板
 text-copied = 文本已复制到剪贴板
 
@@ -227,11 +224,9 @@ blocked-mismatched-version = 因您的注册表与 DLL 中的显卡驱动程序�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = 因您的显卡驱动版本而无法启用。请尝试更新您的显卡驱动程序至版本 { $driverVersion } 或更新的版本。
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType 参数
-
 compositing = 合成
 hardware-h264 = H264 硬件解码
 main-thread-no-omtc = 主线程，无 OMTC
@@ -246,7 +241,6 @@ virtual-monitor-disp = 虚拟显示器
 
 found = 存在
 missing = 缺失
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = 描述
@@ -269,19 +263,15 @@ webgl2-renderer = WebGL2 渲染器
 webgl2-version = WebGL 2 驱动程序版本
 webgl2-driver-extensions = WebGL 2 驱动程序扩展
 webgl2-extensions = WebGL 2 扩展
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = 由于已知问题，被列入屏蔽列表：<a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = 已列入黑名单；故障代码 { $failureCode }
-
 d3d11layers-crash-guard = D3D11 合成器
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX 视频解码器
-
 reset-on-next-restart = 下次开启时重置
 gpu-process-kill-button = 终止 GPU 进程
 gpu-device-reset = 设备重置
@@ -291,10 +281,8 @@ content-uses-tiling = 使用 Tiling（内容）
 off-main-thread-paint-enabled = 非主线程绘制已启用
 off-main-thread-paint-worker-count = 非主线程绘制工作器数量
 target-frame-rate = 目标帧率
-
 min-lib-versions = 预期最低版本
 loaded-lib-versions = 目前使用版本
-
 has-seccomp-bpf = Seccomp-BPF（系统调用过滤）
 has-seccomp-tsync = Seccomp 线程同步
 has-user-namespaces = 用户命名空间
@@ -304,22 +292,20 @@ can-sandbox-media = 媒体插件沙盒化
 content-sandbox-level = 内容进程沙盒级别
 effective-content-sandbox-level = 生效的内容进程沙盒级别
 content-win32k-lockdown-state = 内容进程的 Win32k 锁定状态
+support-sandbox-gpu-level = GPU 进程沙盒级别
 sandbox-proc-type-content = 内容
 sandbox-proc-type-file = 文件内容
 sandbox-proc-type-media-plugin = 媒体插件
 sandbox-proc-type-data-decoder = 数据解码器
-
 startup-cache-title = 启动缓存
 startup-cache-disk-cache-path = 磁盘缓存路径
 startup-cache-ignore-disk-cache = 忽略磁盘缓存
 startup-cache-found-disk-cache-on-init = 在初始化时发现磁盘缓存
 startup-cache-wrote-to-disk-cache = 已写入磁盘缓存
-
 launcher-process-status-0 = 启用
 launcher-process-status-1 = 因故障而禁用
 launcher-process-status-2 = 强制禁用
 launcher-process-status-unknown = 未知状态
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -339,7 +325,6 @@ fission-status-enabled-by-user-pref = 由用户启用
 fission-status-disabled-by-user-pref = 被用户禁用
 fission-status-disabled-by-e10s-other = 已禁用 E10s
 fission-status-enabled-by-rollout = 通过分阶段推出启用
-
 async-pan-zoom = 异步平移/缩放
 apz-none = 无
 wheel-enabled = 滚轮输入已启用
@@ -376,7 +361,6 @@ support-remote-experiments-title = 远程实验
 support-remote-experiments-name = 名称
 support-remote-experiments-branch = 实验分支
 support-remote-experiments-see-about-studies = 欲详细了解，请参见 <a data-l10n-name="support-about-studies-link">about:studies</a>，包括如何禁用单个实验或禁止 { -brand-short-name } 以后运行此类实验。
-
 support-remote-features-title = 远程功能
 support-remote-features-name = 名称
 support-remote-features-status = 状态
