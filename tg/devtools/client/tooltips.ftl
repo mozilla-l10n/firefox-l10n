@@ -23,6 +23,13 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ба ин унсур
 inactive-css-not-flex-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи чандир намебошад.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он унсури «inline» ё «table-cell» намебошад.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дорои намоиши <strong>{ $display }</strong> мебошад.
+inactive-css-not-display-block-on-floated = Қимати хусусияти <strong>display</strong> аз тарафи низом ба <strong>block</strong> иваз карда шуд, зеро ки унсур дорои қимати <strong>floated</strong> мебошад.
+inactive-css-property-is-impossible-to-override-in-visited = Хусусияти <strong>{ $property }</strong> ба сабаби маҳдудияти <strong>:visited</strong> иваз карда намешавад.
+inactive-css-position-property-on-unpositioned-box = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури ҷойгиршавӣ мебошад.
+inactive-text-overflow-when-no-overflow = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки <strong>overflow:hidden</strong> танзим нашудааст.
+inactive-css-not-for-internal-table-elements = Хусусияти <strong>{ $property }</strong> нисбат ба унсурҳои дохилии ҷадвал таъсир намерасонад.
+inactive-css-not-for-internal-table-elements-except-table-cells = Хусусияти <strong>{ $property }</strong> нисбат ба унсурҳои дохилии ҷадвал, ба ғайр катакҳои ҷадвал, таъсир намерасонад.
+inactive-css-not-table = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷадвал намебошад.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
