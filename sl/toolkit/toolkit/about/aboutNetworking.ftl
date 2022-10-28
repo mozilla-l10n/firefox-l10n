@@ -27,6 +27,7 @@ about-networking-family = Družina
 about-networking-trr = TRR
 about-networking-addresses = Naslovi
 about-networking-expires = Poteče (sekunde)
+about-networking-originAttributesSuffix = Izolacijski ključ
 about-networking-flags = Dodatne zastavice
 about-networking-messages-sent = Poslano sporočil
 about-networking-messages-received = Prejeto sporočil
@@ -44,6 +45,7 @@ about-networking-dns-lookup = Iskanje DNS
 about-networking-dns-lookup-button = Razreši
 about-networking-dns-domain = Domena:
 about-networking-dns-lookup-table-column = IP-ji
+about-networking-dns-https-rr-lookup-table-column = RR HTTP
 about-networking-rcwn = Statistika RCWN
 about-networking-rcwn-status = Stanje RCWN
 about-networking-rcwn-cache-won-count = Število zmag predpomnilnika
@@ -61,6 +63,8 @@ about-networking-rcwn-cache-slow = Število počasnih delovanj diska
 about-networking-rcwn-cache-not-slow = Število hitrih delovanj diska
 about-networking-networkid = ID omrežja
 about-networking-networkid-id = ID omrežja
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Ta stran se je preselila na <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
