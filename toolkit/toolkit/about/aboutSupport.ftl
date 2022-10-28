@@ -112,6 +112,9 @@ graphics-window-protocol = Protocolo de ventanas
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Entorno de escritorio
 place-database-title = Base de datos de lugares
+place-database-stats = Estadísticas
+place-database-stats-show = Mostrar estadísticas
+place-database-stats-hide = Ocultar estadísticas
 place-database-stats-size-perc = Tamaño (%)
 place-database-integrity = Integridad
 place-database-verify-integrity = Verificar integridad
