@@ -38,3 +38,8 @@ callout-pdfjs-edit-body-a = Bete inprimakiak, gehitu iruzkinak edo hartu oharrak
 callout-pdfjs-edit-body-b = Ez ibili lineako editoreen bila. Bete inprimakiak, gehitu iruzkinak edo hartu oharrak zuzenean { -brand-short-name }(e)n.
 callout-pdfjs-edit-button = Hurrengoa
 callout-pdfjs-draw-title = Sinatu dokumentuak gure marrazketa-tresna berriarekin
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Markatu PDFak eta gorde zure aldaketak.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Inprimatze eta eskaneatze gehiagorik ez. Markatu PDFak eta gorde zure aldaketak.
+callout-pdfjs-draw-button = Ulertuta!
