@@ -33,8 +33,13 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Introduçã
 
 ## PDF.js Feature Tour Strings
 
-callout-pdfjs-edit-title = Edite PDFs com nossa nova ferramenta de texto
+callout-pdfjs-edit-title = Edite documentos PDF com nossa nova ferramenta de texto
 callout-pdfjs-edit-body-a = Preencha formulários, adicione comentários e faça anotações diretamente no { -brand-short-name }.
 callout-pdfjs-edit-body-b = Não precisa mais procurar editores online gratuitos. Preencha formulários, adicione comentários e faça anotações diretamente no { -brand-short-name }.
 callout-pdfjs-edit-button = Avançar
 callout-pdfjs-draw-title = Assine documentos com nossa nova ferramenta de desenho
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Adicione anotações diretamente em documentos PDF e salve com suas alterações.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Chega de imprimir, preencher e digitalizar. Adicione anotações diretamente em documentos PDF e salve com suas alterações.
+callout-pdfjs-draw-button = Entendi
