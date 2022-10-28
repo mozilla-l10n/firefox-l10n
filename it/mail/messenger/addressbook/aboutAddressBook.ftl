@@ -86,6 +86,8 @@ about-addressbook-horizontal-layout =
     .label = Passa alla disposizione orizzontale
 about-addressbook-vertical-layout =
     .label = Passa alla disposizione verticale
+about-addressbook-table-layout =
+    .label = Disposizione a tabella
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
