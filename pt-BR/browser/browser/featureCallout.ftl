@@ -30,3 +30,11 @@ callout-firefox-view-colorways-reminder-subtitle = Colore seu navegador com este
 continuous-onboarding-firefox-view-tab-pickup-title = Incremente sua navegação com coleta de abas
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Acesse suas abas abertas de qualquer dispositivo. Além disso, sincronize seus favoritos, senhas e mais.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Introdução
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-title = Edite PDFs com nossa nova ferramenta de texto
+callout-pdfjs-edit-body-a = Preencha formulários, adicione comentários e faça anotações diretamente no { -brand-short-name }.
+callout-pdfjs-edit-body-b = Não precisa mais procurar editores online gratuitos. Preencha formulários, adicione comentários e faça anotações diretamente no { -brand-short-name }.
+callout-pdfjs-edit-button = Avançar
+callout-pdfjs-draw-title = Assine documentos com nossa nova ferramenta de desenho
