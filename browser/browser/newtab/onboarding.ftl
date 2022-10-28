@@ -406,3 +406,21 @@ mr2022-onboarding-gratitude-secondary-button-label = Почати перегля
 onboarding-infrequent-import-title = Почувайтеся як вдома
 onboarding-infrequent-import-subtitle = Пам’ятайте, що ви можете імпортувати свої закладки, паролі та інші дані, незалежно від того, увійшли ви до синхронізації чи ні.
 onboarding-infrequent-import-primary-button = Імпорт до { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-default-image-alt =
+    .aria-label = Людина обіймає логотип { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Людина катається на скейтборді з коробкою піктограм програмного забезпечення
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Жаби стрибають по листках лілій, в центрі яких зображено QR-код для завантаження { -brand-product-name } для мобільного
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = За допомогою чарівної палички з капелюха з'являється логотип приватного перегляду { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Світлошкіра і темношкіра долоні роблять жест "Дай п'ять"
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Вид заходу сонця через вікно з лисицею та кімнатною рослиною на підвіконні
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Балончик із фарбою створює барвистий колаж із зображенням зеленого ока, помаранчевого черевика, червоного баскетбольного м'яча, фіолетових навушників, блакитного серця та жовтої корони
