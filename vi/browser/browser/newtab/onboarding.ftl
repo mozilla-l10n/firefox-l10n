@@ -405,3 +405,21 @@ mr2022-onboarding-gratitude-secondary-button-label = Bắt đầu duyệt web
 onboarding-infrequent-import-title = Tự nhiên như ở nhà
 onboarding-infrequent-import-subtitle = Cho dù bạn đang giải quyết hay chỉ ghé qua, hãy nhớ rằng bạn có thể nhập dấu trang, mật khẩu của mình và hơn thế nữa.
 onboarding-infrequent-import-primary-button = Nhập vào { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Người đang làm việc trên máy tính xách tay được bao quanh bởi các ngôi sao và hoa
+mr2022-onboarding-default-image-alt =
+    .aria-label = Người ôm logo { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Người cưỡi ván trượt với một hộp biểu tượng phần mềm
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Ếch nhảy qua tấm lót lily với mã QR để tải xuống { -brand-product-name } cho thiết bị di động ở giữa
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Cây đũa thần làm cho biểu trưng duyệt web riêng tư của { -brand-product-name } xuất hiện trên một chiếc mũ
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Cảnh hoàng hôn qua cửa sổ với một con cáo và cây nhà trên bệ cửa sổ
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Bình xịt tay vẽ một bức tranh cắt dán đầy màu sắc của mắt xanh lá cây, giày màu cam, quả bóng rổ màu đỏ, tai nghe màu tím, trái tim màu xanh lam và vương miện màu vàng

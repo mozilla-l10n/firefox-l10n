@@ -4,7 +4,6 @@
 
 page-title = Thông tin xử lý sự cố
 page-subtitle = Trang này chứa thông tin kĩ thuật có thể có ích khi bạn đang cố giải quyết một vấn đề. Nếu bạn đang tìm câu trả lời cho các câu hỏi thông thường về { -brand-short-name }, hãy xem <a data-l10n-name="support-link">trang web hỗ trợ</a> của chúng tôi.
-
 crashes-title = Trình báo cáo lỗi
 crashes-id = ID báo cáo
 crashes-send-date = Đã gửi
@@ -75,12 +74,10 @@ app-basics-key-mozilla = Khóa dịch vụ định vị Mozilla
 app-basics-safe-mode = Chế độ an toàn
 app-basics-memory-size = Dung lượng bộ nhớ (RAM)
 app-basics-disk-available = Không gian đĩa có sẵn
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Hiển thị trong Finder
@@ -115,6 +112,13 @@ graphics-window-protocol = Giao thức cửa sổ
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Môi trường máy tính để bàn
 place-database-title = Cơ sở dữ liệu địa điểm
+place-database-stats = Thống kê
+place-database-stats-show = Hiển thị thống kê
+place-database-stats-hide = Ẩn thống kê
+place-database-stats-count = Tổng số
+place-database-stats-size-kib = Kích thước (KiB)
+place-database-stats-size-perc = Kích thước (%)
+place-database-stats-efficiency-perc = Hiệu quả (%)
 place-database-integrity = Tính toàn vẹn
 place-database-verify-integrity = Xác nhận tính toàn vẹn
 a11y-title = Trợ năng
@@ -195,23 +199,18 @@ remote-debugging-url = URL
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Báo cáo lỗi trong { $days } ngày gần đây
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } phút trước
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } giờ trước
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } ngày trước
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = Tất cả các báo cáo lỗi (bao gồm cả { $reports } báo cáo chưa gửi trong khoảng thời gian đã cho)
-
 raw-data-copied = Đã sao chép dữ liệu thô vào bộ nhớ tạm
 text-copied = Đã sao chép văn bản vào bộ nhớ tạm
 
@@ -224,11 +223,9 @@ blocked-mismatched-version = Bị chặn đối với phiên bản trình điề
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bị chặn đối với phiên bản trình điều khiển đồ họa của bạn. Hãy thử cập nhật trình điều khiển đồ họa lên phiên bản { $driverVersion } hoặc mới hơn.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Tham số ClearType
-
 compositing = Cách tổng hợp
 hardware-h264 = Giải mã phần cứng H264
 main-thread-no-omtc = chủ đề chính, không có OMTC
@@ -243,7 +240,6 @@ virtual-monitor-disp = Màn hình ảo
 
 found = Đã tìm thấy
 missing = Còn thiếu
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Mô tả
@@ -266,19 +262,15 @@ webgl2-renderer = Trình kết xuất trình điều khiển WebGL 2
 webgl2-version = Phiên bản trình điều khiển WebGL 2
 webgl2-driver-extensions = Tiện ích mở rộng trình điều khiển WebGL 2
 webgl2-extensions = Tiện ích mở rộng WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Bị chặn trong danh sách do các sự cố đã biết: <a data-l10n-name="bug-link">mã lỗi { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Danh sách chặn; mã lỗi { $failureCode }
-
 d3d11layers-crash-guard = Bộ soạn nhạc D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Bộ giải mã video WMF VPX
-
 reset-on-next-restart = Đặt lại vào lần khởi động lại tiếp theo
 gpu-process-kill-button = Buộc dừng quá trình GPU
 gpu-device-reset = Đặt lại thiết bị
@@ -288,10 +280,8 @@ content-uses-tiling = Sử dụng ốp lát (Nội dung)
 off-main-thread-paint-enabled = Off Main Thread Painting được kích hoạt
 off-main-thread-paint-worker-count = Bộ đếm Off Main Thread Painting Worker
 target-frame-rate = Tỷ lệ khung mục tiêu
-
 min-lib-versions = Phiên bản tối thiểu dự kiến
 loaded-lib-versions = Phiên bản đang dùng
-
 has-seccomp-bpf = Seccomp-BPF (Lọc cuộc gọi hệ thống)
 has-seccomp-tsync = Đồng bộ hóa chủ đề Seccomp
 has-user-namespaces = User Namespaces
@@ -301,22 +291,20 @@ can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Cấp độ quy trình nội dung hộp cát
 effective-content-sandbox-level = Cấp độ hiệu quả nội dung hộp cát
 content-win32k-lockdown-state = Trạng thái Win32k Lockdown cho tiến trình nội dung
+support-sandbox-gpu-level = Mức độ tiến trình GPU hộp cát
 sandbox-proc-type-content = nội dung
 sandbox-proc-type-file = nội dung tập tin
 sandbox-proc-type-media-plugin = phần bổ trợ phương tiện
 sandbox-proc-type-data-decoder = bộ giải mã dữ liệu
-
 startup-cache-title = Bộ nhớ đệm khởi động
 startup-cache-disk-cache-path = Đường dẫn bộ nhớ đệm trên đĩa
 startup-cache-ignore-disk-cache = Bỏ qua bộ nhớ đệm trên đĩa
 startup-cache-found-disk-cache-on-init = Tìm thấy bộ nhớ đệm trên đĩa khi khởi tạo
 startup-cache-wrote-to-disk-cache = Ghi vào bộ nhớ đệm trên đĩa
-
 launcher-process-status-0 = Đã bật
 launcher-process-status-1 = Vô hiệu hóa do thất bại
 launcher-process-status-2 = Bắt buộc vô hiệu hóa
 launcher-process-status-unknown = Tình trạng không xác định
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -336,7 +324,6 @@ fission-status-enabled-by-user-pref = Đã bật bởi người dùng
 fission-status-disabled-by-user-pref = Đã tắt bởi người dùng
 fission-status-disabled-by-e10s-other = E10s bị vô hiệu hóa
 fission-status-enabled-by-rollout = Được kích hoạt bằng cách phát hành theo từng giai đoạn
-
 async-pan-zoom = Pan/Zoom không đồng bộ
 apz-none = không có
 wheel-enabled = con lăn đã bật
@@ -373,7 +360,6 @@ support-remote-experiments-title = Thử nghiệm từ xa
 support-remote-experiments-name = Tên
 support-remote-experiments-branch = Nhánh thử nghiệm
 support-remote-experiments-see-about-studies = Xem trang <a data-l10n-name="support-about-studies-link">about:studies</a> để biết thêm thông tin, bao gồm cách tắt các thử nghiệm riêng lẻ hoặc tắt { -brand-short-name } từ việc chạy loại thử nghiệm này trong tương lai.
-
 support-remote-features-title = Tính năng từ xa
 support-remote-features-name = Tên
 support-remote-features-status = Trạng thái
