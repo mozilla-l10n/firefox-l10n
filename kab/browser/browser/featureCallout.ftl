@@ -4,7 +4,6 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Uḍfir
-
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Gziɣ!
 
@@ -13,20 +12,18 @@ callout-primary-complete-button-label = Gziɣ!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Ɛeddi seg yibenk ɣer wayeḍ s ulqaḍ n waccaren
-
 callout-firefox-view-tab-pickup-subtitle = Kkes-d s zzerb accaren yeldin seg tiliɣri-inek·inem, teldiḍ-ten dagi i uktum uffay.
-
 callout-firefox-view-recently-closed-title = Err-d accaren-ik·im yettwamedlen s zzerb
-
 callout-firefox-view-recently-closed-subtitle = Akk accaren-ik·im i imedlen ad d-banen dagi war ma tfaqqeḍ. Ɣas ur ttagad ma yella yettwamdel kra n usmel weḥd-s.
-
 callout-firefox-view-colorways-title = Rnu ṛucc s yini
-
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Fren tiɣmi ara ak·am-d-yettmeslayen s ufran n yiniten. Yella kan deg { -brand-product-name }.
-
 callout-firefox-view-colorways-reminder-title = Snirem afran-nneɣ n yiniten aneggaru
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Bdu
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-button = Uḍfir
