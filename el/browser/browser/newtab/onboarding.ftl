@@ -407,3 +407,9 @@ mr2022-onboarding-gratitude-secondary-button-label = Έναρξη περιήγη
 onboarding-infrequent-import-title = Νιώστε σαν στο σπίτι σας
 onboarding-infrequent-import-subtitle = Δεν έχει σημασία αν σκοπεύετε να μείνετε εδώ ή αν απλώς κάνετε μια στάση· μπορείτε να εισαγάγετε σελιδοδείκτες, κωδικούς πρόσβασης και πολλά άλλα.
 onboarding-infrequent-import-primary-button = Εισαγωγή στο { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-default-image-alt =
+    .aria-label = Άτομο που αγκαλιάζει το λογότυπο του { -brand-product-name }

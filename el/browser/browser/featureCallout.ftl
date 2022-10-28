@@ -33,5 +33,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Έναρξ�
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Επεξεργαστείτε αρχεία PDF με το νέο μας εργαλείο κειμένου
 callout-pdfjs-edit-button = Επόμενο
+callout-pdfjs-draw-title = Υπογράψτε έγγραφα με το νέο μας εργαλείο σχεδίασης
 callout-pdfjs-draw-button = Το 'πιασα!
