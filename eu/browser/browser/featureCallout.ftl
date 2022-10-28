@@ -30,3 +30,11 @@ callout-firefox-view-colorways-reminder-subtitle = Eman kolorea nabigatzaileari 
 continuous-onboarding-firefox-view-tab-pickup-title = Eman bultzada zure nabigazioari fitxa-bilketarekin
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Izan irekitako zure fitxen sarbidea edozein gailutatik. Gainera sinkronizatu zure laster-markak, pasahitzak eta gehiago.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Hasi erabiltzen
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-title = Editatu PDFak gure testu-tresna berriarekin
+callout-pdfjs-edit-body-a = Bete inprimakiak, gehitu iruzkinak edo hartu oharrak zuzenean { -brand-short-name }(e)n.
+callout-pdfjs-edit-body-b = Ez ibili lineako editoreen bila. Bete inprimakiak, gehitu iruzkinak edo hartu oharrak zuzenean { -brand-short-name }(e)n.
+callout-pdfjs-edit-button = Hurrengoa
+callout-pdfjs-draw-title = Sinatu dokumentuak gure marrazketa-tresna berriarekin
