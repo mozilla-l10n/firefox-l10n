@@ -29,7 +29,8 @@ inactive-css-position-property-on-unpositioned-box = Хусусияти <strong>
 inactive-text-overflow-when-no-overflow = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки <strong>overflow:hidden</strong> танзим нашудааст.
 inactive-css-not-for-internal-table-elements = Хусусияти <strong>{ $property }</strong> нисбат ба унсурҳои дохилии ҷадвал таъсир намерасонад.
 inactive-css-not-for-internal-table-elements-except-table-cells = Хусусияти <strong>{ $property }</strong> нисбат ба унсурҳои дохилии ҷадвал, ба ғайр катакҳои ҷадвал, таъсир намерасонад.
-inactive-css-not-table = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷадвал намебошад.
+inactive-css-not-table = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҷадвал намебошад.
+inactive-scroll-padding-when-not-scroll-container = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҳаракат карда намешавад.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
