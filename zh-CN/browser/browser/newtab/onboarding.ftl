@@ -389,3 +389,9 @@ mr2022-onboarding-gratitude-secondary-button-label = 开始浏览
 onboarding-infrequent-import-title = 请随意 🍵
 onboarding-infrequent-import-subtitle = 无论您是临时还是要长期使用，都可以选择导入书签、密码等数据。
 onboarding-infrequent-import-primary-button = 导入 { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-default-image-alt =
+    .aria-label = 一人拥抱着 { -brand-product-name } 徽标

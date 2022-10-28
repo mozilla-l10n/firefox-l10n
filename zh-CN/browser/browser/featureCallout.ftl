@@ -34,4 +34,6 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = 开始使�
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = 使用我们全新的文本工具编辑 PDF
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = 标注 PDF，并保存您的更改。
 callout-pdfjs-draw-button = 知道了！
