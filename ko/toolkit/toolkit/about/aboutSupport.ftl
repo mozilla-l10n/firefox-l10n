@@ -112,6 +112,12 @@ graphics-window-protocol = 윈도우 프로토콜
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = 데스크톱 환경
 place-database-title = 위치 데이터베이스
+place-database-stats = 통계
+place-database-stats-show = 통계 표시
+place-database-stats-hide = 통계 숨기기
+place-database-stats-size-kib = 크기 (KiB)
+place-database-stats-size-perc = 크기 (%)
+place-database-stats-efficiency-perc = 효율성 (%)
 place-database-integrity = 무결성
 place-database-verify-integrity = 무결성 확인
 a11y-title = 접근성
