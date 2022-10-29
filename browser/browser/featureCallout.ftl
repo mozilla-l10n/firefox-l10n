@@ -20,4 +20,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = תחילת 
 
 callout-pdfjs-edit-title = עריכת קובצי PDF עם כלי הטקסט החדש שלנו
 callout-pdfjs-edit-body-a = מילוי טפסים והוספת הערות היישר ב־{ -brand-short-name }.
+callout-pdfjs-edit-body-b = אפשר לדלג על החיפוש אחר עורכים מקוונים חינמיים. מילוי טפסים והוספת הערות היישר ב־{ -brand-short-name }.
 callout-pdfjs-edit-button = הבא
+callout-pdfjs-draw-title = חתימה על מסמכים עם כלי הציור החדש שלנו
+callout-pdfjs-draw-button = הבנתי!
