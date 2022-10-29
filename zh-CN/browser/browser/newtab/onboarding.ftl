@@ -395,3 +395,13 @@ onboarding-infrequent-import-primary-button = 导入 { -brand-short-name }
 
 mr2022-onboarding-default-image-alt =
     .aria-label = 一人拥抱着 { -brand-product-name } 徽标
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = 青蛙在睡莲间跳来跳去，中间展示着一个下载移动版 { -brand-product-name } 的二维码
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = 魔杖让 { -brand-product-name } 隐私浏览标志从帽子里冒出来
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = 浅肤色和深肤色的两只手击掌
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = 透过窗户看日落，窗台上有一只狐狸和一株室内植物
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = 一个人使用喷漆，画出一幅包含绿色眼睛、橙色鼻子、红色篮球、紫色耳机、蓝色心脏和黄色皇冠的多彩涂鸦画作
