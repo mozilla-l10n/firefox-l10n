@@ -4,7 +4,6 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = הבא
-
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = הבנתי!
 
@@ -15,5 +14,10 @@ callout-firefox-view-recently-closed-subtitle = כל הלשוניות שסגרת
 ## Continuous Onboarding - Firefox View: Tab pick up
 
 continuous-onboarding-firefox-view-tab-pickup-subtitle = קבלת גישה ללשוניות הפתוחות שלך מכל מכשיר. בנוסף, סנכרון הסימניות, הססמאות שלך ועוד.
-
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = תחילת עבודה
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-title = עריכת קובצי PDF עם כלי הטקסט החדש שלנו
+callout-pdfjs-edit-body-a = מילוי טפסים והוספת הערות היישר ב־{ -brand-short-name }.
+callout-pdfjs-edit-button = הבא
