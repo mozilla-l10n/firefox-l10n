@@ -34,5 +34,12 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Començatz
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Modificatz los PDF amb nòstre novèl esplech de tèxte
+callout-pdfjs-edit-body-a = Garnir los formularis, ajustar de comentaris o anotar dirèctament dins { -brand-short-name }.
+callout-pdfjs-edit-body-b = Evitatz de cercar un editor en linha gratuit. Garnissètz los formularis, ajustatz de comentaris o anotatz dirèctament dins { -brand-short-name }.
 callout-pdfjs-edit-button = Seguent
+callout-pdfjs-draw-title = Signatz los documents amb nòstre novèl esplech de dessenh
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Repassatz los PDF puèi enregistratz vòstras modificacion.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Pas pus d’impression e numerizacion. Anotatz los PDF puèi enregistratz vòstras modificacions.
 callout-pdfjs-draw-button = Comprés !

@@ -406,3 +406,15 @@ mr2022-onboarding-gratitude-secondary-button-label = Començar de navegar
 onboarding-infrequent-import-title = Siatz tan ben coma a l’ostal
 onboarding-infrequent-import-subtitle = Que siatz per demorar aicí o sonque de passatge, remembratz que podètz importatz vòstres marcapaginas, senhals e encara mai.
 onboarding-infrequent-import-primary-button = Importar dins { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persona que trabalha amb un ordenador portable enrodada d’estelas e flors
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persona que calinha lo logotipe { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persona que condutz una planca a rodetas amb una bóstia d’icòns de logicials
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = La bagueta magica fa sortir lo logotipe de navegacion privada de { -brand-product-name } d’un capèl
