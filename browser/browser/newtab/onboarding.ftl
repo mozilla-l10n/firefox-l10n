@@ -410,6 +410,8 @@ onboarding-infrequent-import-primary-button = Імпорт до { -brand-short-n
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Людина працює за ноутбуком серед зірок і квіток
 mr2022-onboarding-default-image-alt =
     .aria-label = Людина обіймає логотип { -brand-product-name }
 mr2022-onboarding-import-image-alt =

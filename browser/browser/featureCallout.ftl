@@ -34,6 +34,8 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Почне�
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Редагуйте документи PDF за допомогою нового текстового інструменту
+callout-pdfjs-edit-body-a = Заповнюйте форми, додавайте коментарі або примітки безпосередньо у { -brand-short-name }.
+callout-pdfjs-edit-body-b = Забудьте про пошук безплатних онлайн-редакторів. Заповнюйте форми, додавайте коментарі або примітки безпосередньо у { -brand-short-name }.
 callout-pdfjs-edit-button = Далі
 callout-pdfjs-draw-title = Підписуйте документи за допомогою нового графічного інструменту
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.

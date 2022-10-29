@@ -120,6 +120,7 @@ place-database-stats-show = Показати статистику
 place-database-stats-hide = Приховати статистику
 place-database-stats-entity = Об'єкт
 place-database-stats-count = Кількість
+place-database-stats-size-kib = Розмір (КіБ)
 place-database-stats-size-perc = Розмір (%)
 place-database-stats-efficiency-perc = Ефективність (%)
 place-database-stats-sequentiality-perc = Послідовність (%)
