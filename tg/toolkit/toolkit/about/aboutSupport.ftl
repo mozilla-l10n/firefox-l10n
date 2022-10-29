@@ -8,7 +8,6 @@ page-subtitle =
     ислоҳкунии мушкилӣ метавонад кумак расонад. Агар шумо ба саволҳои
     умумӣ дар бораи { -brand-short-name } ҷавобҳоро ҷустуҷӯ кунед, ба
     <a data-l10n-name="support-link">сомонаи дастгирии мо</a> ворид шавед.
-
 crashes-title = Гузоришҳо дар бораи вайронӣ
 crashes-id = Рақами мушаххаси гузориш
 crashes-send-date = Санаи пешниҳод
@@ -79,12 +78,10 @@ app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozi
 app-basics-safe-mode = Реҷаи бехатар
 app-basics-memory-size = Андозаи ҳофиза (RAM)
 app-basics-disk-available = Фазои дастрас дар диск
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Кушодан дар ҷӯянда
@@ -119,6 +116,15 @@ graphics-window-protocol = Протоколи идоракунии равзан�
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Муҳити мизи корӣ
 place-database-title = Пойгоҳи иттилоотии ҷойҳо
+place-database-stats = Омор
+place-database-stats-show = Намоиш додани омор
+place-database-stats-hide = Пинҳон кардани омор
+place-database-stats-entity = Объект
+place-database-stats-count = Шумора
+place-database-stats-size-kib = Андоза (КБ)
+place-database-stats-size-perc = Андоза (%)
+place-database-stats-efficiency-perc = Қобилиятнокӣ (%)
+place-database-stats-sequentiality-perc = Пайдарпайӣ (%)
 place-database-integrity = Яклухтӣ
 place-database-verify-integrity = Санҷиши яклухтӣ
 a11y-title = Қобилияти дастрасӣ
@@ -203,7 +209,6 @@ report-crash-for-days =
         [one] Гузоришҳо дар бораи вайронӣ аз { $days } рӯзи охир
        *[other] Гузоришҳо дар бораи вайронӣ аз { $days } рӯзи охир
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -211,7 +216,6 @@ crashes-time-minutes =
         [one] { $minutes } дақиқа пеш
        *[other] { $minutes } дақиқа пеш
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -219,7 +223,6 @@ crashes-time-hours =
         [one] { $hours } соат пеш
        *[other] { $hours } соат пеш
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -227,7 +230,6 @@ crashes-time-days =
         [one] { $days } рӯз пеш
        *[other] { $days } рӯз пеш
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -235,7 +237,6 @@ pending-reports =
         [one] Ҳамаи гузоришҳо дар бораи вайронӣ (аз он ҷумла { $reports } вайронии мунтазир дар доираи вақти додашуда)
        *[other] Ҳамаи гузоришҳо дар бораи вайронӣ (аз он ҷумла { $reports } вайронии мунтазир дар доираи вақти додашуда)
     }
-
 raw-data-copied = Маълумоти коркарднашуда ба ҳофизаи муваққатӣ нусха бардошта шуд
 text-copied = Матн ба ҳофизаи муваққатӣ нусха бардошта шуд
 
@@ -248,11 +249,9 @@ blocked-mismatched-version = Барои номувофиқатии версия�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Барои версияи драйвери корти графикии шумо баста шудааст. Кӯшиш кунед, ки драйвери корти графикии худро ба версияи { $driverVersion } ё навтар навсозӣ кунед.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Танзимоти «ClearType»
-
 compositing = Созандагӣ
 hardware-h264 = Рамзёбии сахтафзории H264
 main-thread-no-omtc = ҷараёни асосӣ, бе «OMTC»
@@ -267,7 +266,6 @@ virtual-monitor-disp = Экрани монитори маҷозӣ
 
 found = Ёфт шуд
 missing = Вуфуд надорад
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Тавсиф
@@ -290,19 +288,15 @@ webgl2-renderer = Намоишгари драйвери WebGL 2
 webgl2-version = Версияи драйвери WebGL 2
 webgl2-driver-extensions = Васеъшавиҳои драйвери WebGL 2
 webgl2-extensions = Васеъшавиҳои WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Ба сабаби мушкилиҳои маълум ба рӯйхати сиёҳ ворид карда шудааст: <a data-l10n-name="bug-link">мушкилии { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ба рӯйхати сиёҳ ворид карда шудааст; рамзи мушкилӣ { $failureCode }
-
 d3d11layers-crash-guard = Созандаи D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Рамзёбии видеои WMF VPX
-
 reset-on-next-restart = Бозсозӣ дар оғози кори навбатӣ
 gpu-process-kill-button = Қатъ кардани раванди GPU
 gpu-device-reset = Бозсозии дастгоҳ
@@ -312,10 +306,8 @@ content-uses-tiling = «Tiling»-ро истифода мебарад (Муҳт�
 off-main-thread-paint-enabled = Расмкашӣ берун аз ҷараёни асосӣ фаъол аст
 off-main-thread-paint-worker-count = Шумораи коргузорони расмкашӣ берун аз ҷараёни асосӣ
 target-frame-rate = Суръати аксҳои мақсаднок
-
 min-lib-versions = Версияи ҳадди ақали мунтазир
 loaded-lib-versions = Версияи ҷорӣ
-
 has-seccomp-bpf = Seccomp-BPF (Полоиши дархостҳои низом)
 has-seccomp-tsync = Ҳамоҳангсозии ҷараёни «Seccomp»
 has-user-namespaces = Фазоҳои номҳои корбарӣ
@@ -325,22 +317,20 @@ can-sandbox-media = Минтақаи санҷишӣ барои плагини р
 content-sandbox-level = Дараҷаи минтақаи санҷишӣ барои раванди муҳтаво
 effective-content-sandbox-level = Дараҷаи самарбахши минтақаи санҷишӣ барои раванди муҳтаво
 content-win32k-lockdown-state = Вазъияти бастани Win32k барои раванди муҳтаво
+support-sandbox-gpu-level = Дараҷаи минтақаи санҷишӣ барои раванди GPU
 sandbox-proc-type-content = муҳтаво
 sandbox-proc-type-file = муҳтавои файл
 sandbox-proc-type-media-plugin = плагини расона
 sandbox-proc-type-data-decoder = рамзёбии иттилоот
-
 startup-cache-title = Зерҳофизаи оғози кор
 startup-cache-disk-cache-path = Масири зерҳофизаи диск
 startup-cache-ignore-disk-cache = Рад кардани зерҳофизаи диск
 startup-cache-found-disk-cache-on-init = Ҳангоми омодасозӣ зерҳофизаи диск пайдо шуд
 startup-cache-wrote-to-disk-cache = Ба зерҳофизаи диск сабт карда шуд
-
 launcher-process-status-0 = Фаъол аст
 launcher-process-status-1 = Ба сабаби нокомӣ ғайрифаъол шуд
 launcher-process-status-2 = Маҷбуран ғайрифаъол карда шуд
 launcher-process-status-unknown = Вазъияти номаълум
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -360,7 +350,6 @@ fission-status-enabled-by-user-pref = Аз тарафи корбар фаъол 
 fission-status-disabled-by-user-pref = Аз тарафи корбар ғайрифаъол карда шуд
 fission-status-disabled-by-e10s-other = E10s ғайрифаъол аст
 fission-status-enabled-by-rollout = Аз тарафи паҳнкунии марҳилавӣ фаъол карда шуд
-
 async-pan-zoom = Густарасозӣ/миқёсбандии ноҳамгоми тасвир
 apz-none = ҳеҷ
 wheel-enabled = вурудии чархак фаъол аст
@@ -397,7 +386,6 @@ support-remote-experiments-title = Озмоишҳои дурдаст
 support-remote-experiments-name = Ном
 support-remote-experiments-branch = Соҳаи озмоиш
 support-remote-experiments-see-about-studies = Барои маълумоти бештар, аз он ҷумла, барои гирифтани маълумот оид ба ғайрифаъолсозии озмоишҳои шахсӣ ё ғайрифаъолсозии { -brand-short-name } аз иҷрокунии ин навъи озмоиш дар оянда, ба қисми <a data-l10n-name="support-about-studies-link">about:studies</a> нигаред.
-
 support-remote-features-title = Хусусиятҳои дурдаст
 support-remote-features-name = Ном
 support-remote-features-status = Вазъият
