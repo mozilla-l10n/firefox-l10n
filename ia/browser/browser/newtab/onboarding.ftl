@@ -405,3 +405,23 @@ mr2022-onboarding-gratitude-secondary-button-label = Comenciar a navigar
 onboarding-infrequent-import-title = Senti te a casa
 onboarding-infrequent-import-subtitle = Sia que tu permanera o solmente passa per hic, non oblida que tu pote importar tu marcapaginas, contrasignos e multo plus.
 onboarding-infrequent-import-primary-button = Importar ab { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persona laborante sur un portabile cingite per stellas e flores
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persona imbraciante le logo de { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persona cavalcante un skateboard con un cassa de icones software
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Ranas saltante inter nympheas con un codice QR in le centro, pro discargar { -brand-product-name } pro apparato mobile
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Le virga magic face apparer le logo del navigation private de { -brand-product-name } foras de un cappello
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Manos de pelle clar e de pelle obscur que se da le cinque
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vision de un sol ponente per un fenestra con un vulpe e un planta de interno sur un appoio del fenestra
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Un mano pinge con pulverisator un collage multicolor de un oculo verde, un scarpa orange, un ballon corbe rubie, bonettos auricular purpuree,corde blau e corona jalne

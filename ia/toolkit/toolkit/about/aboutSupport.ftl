@@ -316,6 +316,7 @@ can-sandbox-media = Sandbox pro le plugin de media
 content-sandbox-level = Nivello de sandbox del processo de contento
 effective-content-sandbox-level = Nivello de sandbox del contento effective
 content-win32k-lockdown-state = Stato de blocamento de Win32k pro le processo de contento
+support-sandbox-gpu-level = Nivello del alveo a sablo pro le processo del GPU
 sandbox-proc-type-content = contento
 sandbox-proc-type-file = contento del file
 sandbox-proc-type-media-plugin = plugin de media
