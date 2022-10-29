@@ -23,6 +23,7 @@ pocket-panel-saved-page-saved = Salvata in { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Salvata in { -pocket-brand-name }.
 pocket-panel-saved-processing-remove = Rimozione pagina…
 pocket-panel-saved-removed = Pagina rimossa da Il mio elenco
+pocket-panel-saved-removed-updated = Pagina rimossa dagli elementi salvati
 pocket-panel-saved-processing-tags = Salvataggio etichette…
 pocket-panel-saved-remove-page = Rimuovi pagina
 pocket-panel-saved-save-tags = Salva
@@ -48,8 +49,10 @@ pocket-panel-signup-tagline-story-two = Visualizza in { -pocket-brand-name } da 
 
 pocket-panel-signup-cta-a-fix = Il tuo pulsante “salva” per Internet
 pocket-panel-signup-cta-b = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link. Visualizza il tuo elenco su qualsiasi dispositivo, in qualsiasi momento.
+pocket-panel-signup-cta-b-updated = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link. Visualizza gli elementi salvati su qualsiasi dispositivo, in qualsiasi momento.
 pocket-panel-signup-cta-b-short = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link.
 pocket-panel-signup-cta-c = Visualizza il tuo elenco su qualsiasi dispositivo, in qualsiasi momento.
+pocket-panel-signup-cta-c-updated = Visualizza gli elementi salvati su qualsiasi dispositivo, in qualsiasi momento.
 
 ## about:pocket-home panel
 
@@ -68,6 +71,7 @@ pocket-panel-home-new-user-message = Controlla qui gli elementi salvati di recen
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Visualizza Il mio elenco
+pocket-panel-header-my-saves = Visualizza i miei salvataggi
 pocket-panel-header-sign-in = Accedi
 
 ## Pocket panel buttons
