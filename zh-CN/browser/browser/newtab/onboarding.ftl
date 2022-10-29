@@ -393,8 +393,12 @@ onboarding-infrequent-import-primary-button = 导入 { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = 一个人在笔记本电脑上工作，周围有星星和鲜花围绕
 mr2022-onboarding-default-image-alt =
     .aria-label = 一人拥抱着 { -brand-product-name } 徽标
+mr2022-onboarding-import-image-alt =
+    .aria-label = 一个人踏着滑板，手捧装满软件图标的纸箱
 mr2022-onboarding-mobile-download-image-alt =
     .aria-label = 青蛙在睡莲间跳来跳去，中间展示着一个下载移动版 { -brand-product-name } 的二维码
 mr2022-onboarding-pin-private-image-alt =
