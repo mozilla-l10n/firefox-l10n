@@ -334,3 +334,11 @@ mr2022-onboarding-gratitude-secondary-button-label = התחלת גלישה
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-primary-button = ייבוא אל { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = בן אדם שעובד על מחשב נייד מוקף בכוכבים ופרחים
+mr2022-onboarding-default-image-alt =
+    .aria-label = בן אדם שמחבק את הלוגו של { -brand-product-name }
