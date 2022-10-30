@@ -334,6 +334,8 @@ mr2022-onboarding-colorway-description-default = <b>Seqdec initen-inu imiranen n
 mr2022-onboarding-colorway-label-playmaker = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Playmaker
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Playmaker (azewwaɣ)
 mr2022-onboarding-colorway-description-playmaker = <b>Kečč.Kemm d Playmaker.</b> Trennuḍ-d tugnatin i rrbaḥ, akken daɣen i tettɛawaneḍ yal win i ak·am-d-yezzin ad issali urar-is.
 mr2022-onboarding-colorway-label-expressionist = Anfalan
 mr2022-onboarding-colorway-tooltip-expressionist =
@@ -393,6 +395,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Bdu tunigin
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-primary-button = Kter ɣer { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
