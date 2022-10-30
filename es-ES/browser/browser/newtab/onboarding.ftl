@@ -423,3 +423,5 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Manos de piel clara y de piel oscura chocan los cinco
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista de una puesta de sol a través de una ventana con un zorro y una planta de casa en un alféizar
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Un spray pinta un colorido collage de un ojo verde, un zapato naranja, una pelota de baloncesto roja, unos auriculares morados, un corazón azul y una corona amarilla
