@@ -405,3 +405,21 @@ mr2022-onboarding-gratitude-secondary-button-label = Empezar a navegar
 onboarding-infrequent-import-title = Siéntase como en casa
 onboarding-infrequent-import-subtitle = No importa si está de paso o si va a quedarse por aquí, recuerde que puede importar sus marcadores, contraseñas y demás.
 onboarding-infrequent-import-primary-button = Importar a { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persona que trabaja en un portátil rodeada de estrellas y flores.
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persona abrazando el logo de { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persona montando en skate con una caja de iconos de software
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Ranas saltando sobre nenúfares con un código QR para descargar { -brand-product-name } para dispositivos móviles en el centro
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Una varita mágica hace que el logo de navegación privada de { -brand-product-name } aparezca de un sombrero
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Manos de piel clara y de piel oscura chocan los cinco
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vista de una puesta de sol a través de una ventana con un zorro y una planta de casa en un alféizar
