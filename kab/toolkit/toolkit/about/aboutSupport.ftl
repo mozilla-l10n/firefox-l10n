@@ -112,7 +112,12 @@ graphics-window-protocol = Aneggaf n usfaylu
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Tawennaḍt n tnarit
 place-database-title = Taffa n isefka n idigen
+place-database-stats = Tidaddanin
+place-database-stats-show = Sken tiddadanin
+place-database-stats-hide = Ffer tidaddanin
 place-database-stats-count = Amḍan
+place-database-stats-size-kib = Teɣzi (KiB)
+place-database-stats-size-perc = Teɣzi (%)
 place-database-integrity = Timmad
 place-database-verify-integrity = Senqed timmad
 a11y-title = Tuffart
