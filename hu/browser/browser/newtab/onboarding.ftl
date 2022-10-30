@@ -405,3 +405,13 @@ mr2022-onboarding-gratitude-secondary-button-label = Böngészés megkezdése
 onboarding-infrequent-import-title = Érezze magát otthon
 onboarding-infrequent-import-subtitle = Akár beköltözik, akár csak betér, ne feledje, hogy importálhatja a könyvjelzőket, jelszavakat és egyebeket.
 onboarding-infrequent-import-primary-button = Importálás a { -brand-short-name }ba
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Világos bőrű és sötét bőrű kezek pacsiznak
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Kilátás a naplementére egy ablakon keresztül, ahol egy róka és egy szobanövény van az ablakpárkányon
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Egy kézi festékszóró egy zöld szemből, narancssárga cipőből, piros kosárlabdából, lila fejhallgatóból, kék szívből és sárga koronából álló színes kollázst fest.

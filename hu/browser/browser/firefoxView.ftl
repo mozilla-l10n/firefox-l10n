@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = A folytatáshoz kapcsolja be a 
 firefoxview-tabpickup-sync-disconnected-description = A lapok átvételéhez engedélyeznie kell a szinkronizálást a { -brand-short-name }ban.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Kapcsolja be a szinkronizálást a beállításokban
 firefoxview-tabpickup-password-locked-header = A lapok megtekintéséhez adja meg az elsődleges jelszavát
+firefoxview-tabpickup-password-locked-description = A lapok átvételéhez meg kell adnia az elsődleges jelszót a { -brand-short-name }ban.
 firefoxview-tabpickup-password-locked-link = További tudnivalók
 firefoxview-tabpickup-password-locked-primarybutton = Írja be az elsődleges jelszót
 firefoxview-tabpickup-syncing = Várjon amíg a lapjai szinkronizálódnak. Csak egy pillanat lesz.
