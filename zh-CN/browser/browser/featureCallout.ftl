@@ -37,6 +37,7 @@ callout-pdfjs-edit-title = 使用我们全新的文本工具编辑 PDF
 callout-pdfjs-edit-body-a = 一步到位，在 { -brand-short-name } 中填表格、加注释、做笔记。
 callout-pdfjs-edit-body-b = 无需再费心寻找免费在线编辑器了。一步到位，在 { -brand-short-name } 中填表格、加注释、做笔记。
 callout-pdfjs-edit-button = 下一个
+callout-pdfjs-draw-title = 使用我们全新的绘图工具签署文档
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = 在 PDF 上标注，然后保存更改。
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
