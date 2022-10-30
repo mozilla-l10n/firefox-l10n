@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Каб працягнуць, у
 firefoxview-tabpickup-sync-disconnected-description = Каб забраць свае карткі, вам трэба дазволіць сінхранізацыю ў { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Уключыць сінхранізацыю ў наладах
 firefoxview-tabpickup-password-locked-header = Увядзіце свой галоўны пароль для прагляду картак
+firefoxview-tabpickup-password-locked-link = Падрабязней
 firefoxview-tabpickup-password-locked-primarybutton = Увядзіце галоўны пароль
 firefoxview-tabpickup-syncing = Пачакайце, пакуль вашы карткі сінхранізуюцца. Гэта толькі на імгненне.
 firefoxview-mobile-promo-header = Атрымайце карткі з тэлефона або планшэта
