@@ -4,7 +4,6 @@
 
 page-title = Información para solucionar problemas
 page-subtitle = Esta página contiene información técnica que puede ser útil cuando intente solucionar un problema. Si está buscando respuestas a preguntas frecuentes sobre { -brand-short-name }, visite nuestro <a data-l10n-name="support-link">sitio de asistencia</a>.
-
 crashes-title = Informes de fallos
 crashes-id = ID del informe
 crashes-send-date = Enviado
@@ -75,12 +74,10 @@ app-basics-key-mozilla = Clave del servicio de ubicación de Mozilla
 app-basics-safe-mode = Modo seguro
 app-basics-memory-size = Tamaño de memoria (RAM)
 app-basics-disk-available = Espacio disponible en disco
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Mostrar en Finder
@@ -115,6 +112,15 @@ graphics-window-protocol = Protocolo de ventana
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Entorno de escritorio
 place-database-title = Base de datos de sitios
+place-database-stats = Estadísticas
+place-database-stats-show = Mostrar estadísticas
+place-database-stats-hide = Ocultar estadísticas
+place-database-stats-entity = Entidad
+place-database-stats-count = Número
+place-database-stats-size-kib = Tamaño (KB)
+place-database-stats-size-perc = Tamaño (%)
+place-database-stats-efficiency-perc = Eficiencia (%)
+place-database-stats-sequentiality-perc = Secuencialidad (%)
 place-database-integrity = Integridad
 place-database-verify-integrity = Verificar integridad
 a11y-title = Accesibilidad
@@ -199,7 +205,6 @@ report-crash-for-days =
         [one] Informes de fallos del último día
        *[other] Informes de fallos de los últimos { $days } días
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -207,7 +212,6 @@ crashes-time-minutes =
         [one] hace { $minutes } minuto
        *[other] hace { $minutes } minutos
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -215,7 +219,6 @@ crashes-time-hours =
         [one] hace { $hours } hora
        *[other] hace { $hours } horas
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -223,7 +226,6 @@ crashes-time-days =
         [one] hace { $days } día
        *[other] hace { $days } días
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -231,7 +233,6 @@ pending-reports =
         [one] Todos los informes de fallos (incluyendo { $reports } fallo pendiente en el intervalo de tiempo indicado)
        *[other] Todos los informes de fallos (incluyendo { $reports } fallos pendientes en el intervalo de tiempo indicado)
     }
-
 raw-data-copied = Datos sin procesar copiados al portapapeles
 text-copied = Texto copiado al portapapeles
 
@@ -244,11 +245,9 @@ blocked-mismatched-version = Bloqueado por la diferencia e versión de su contro
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueado para la versión de su controlador gráfico. Pruebe a actualizar su controlador gráfico a la versión { $driverVersion } o más moderna.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
-
 compositing = Composición
 hardware-h264 = Decodificación H264 por hardware
 main-thread-no-omtc = hilo principal, sin OMTC
@@ -263,7 +262,6 @@ virtual-monitor-disp = Pantalla de monitor virtual
 
 found = Encontrado
 missing = Ausente
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripción
@@ -286,19 +284,15 @@ webgl2-renderer = Renderizador del controlador WebGL 2
 webgl2-version = Versión del controlador WebGL 2
 webgl2-driver-extensions = Extensiones del controlador WebGL 2
 webgl2-extensions = Extensiones WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Lista bloqueada debido a problemas conocidos: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Incluido en lista de bloqueo; código de error { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Decodificador de vídeo WMF VPX
-
 reset-on-next-restart = Restablecer en el próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
 gpu-device-reset = Reiniciar dispositivo
@@ -308,10 +302,8 @@ content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Dibujado fuera del hilo principal de ejecución activado
 off-main-thread-paint-worker-count = Contador de workers de dibujado ajenos al hilo principal de ejecución
 target-frame-rate = Frecuencia de imágenes objetivo
-
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión en uso
-
 has-seccomp-bpf = Seccomp-BPF (filtrado de llamadas de sistema)
 has-seccomp-tsync = Sincronización de hilos seccomp
 has-user-namespaces = Espacios de nombres de usuario
@@ -321,22 +313,20 @@ can-sandbox-media = Aislamiento de plugins de medios
 content-sandbox-level = Nivel de aislamiento del proceso de contenido
 effective-content-sandbox-level = Nivel efectivo de aislamiento (sandboxing) para los procesos de contenido
 content-win32k-lockdown-state = Estado de bloqueo Win32k del proceso para los contenidos
+support-sandbox-gpu-level = Nivel de aislamiento de procesos de GPU
 sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = plugin de medios
 sandbox-proc-type-data-decoder = decodificador de datos
-
 startup-cache-title = Caché de inicio
 startup-cache-disk-cache-path = Ruta de caché de disco
 startup-cache-ignore-disk-cache = Ignorar caché de disco
 startup-cache-found-disk-cache-on-init = Caché de disco encontrada durante la inicialización
 startup-cache-wrote-to-disk-cache = Se escribió a la caché de disco
-
 launcher-process-status-0 = Activado
 launcher-process-status-1 = Desactivado por fallo
 launcher-process-status-2 = Desactivado forzosamente
 launcher-process-status-unknown = Estado desconocido
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -356,7 +346,6 @@ fission-status-enabled-by-user-pref = Activado por el usuario
 fission-status-disabled-by-user-pref = Desactivado por el usuario
 fission-status-disabled-by-e10s-other = E10s desactivado
 fission-status-enabled-by-rollout = Habilitado por el lanzamiento por fases
-
 async-pan-zoom = Encuadre/zoom asíncrono
 apz-none = ninguno
 wheel-enabled = entrada de rueda de ratón activada
@@ -393,7 +382,6 @@ support-remote-experiments-title = Experimentos remotos
 support-remote-experiments-name = Nombre
 support-remote-experiments-branch = Rama de experimentos
 support-remote-experiments-see-about-studies = Ver <a data-l10n-name="support-about-studies-link">about:studies</a> para más información, incluyendo como desactivar experimentos individuales o desactivar que { -brand-short-name } ejecute este tipo de experimentos en el futuro.
-
 support-remote-features-title = Funciones remotas
 support-remote-features-name = Nombre
 support-remote-features-status = Estado
