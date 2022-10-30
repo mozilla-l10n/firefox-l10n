@@ -406,3 +406,15 @@ mr2022-onboarding-gratitude-secondary-button-label = Оғоз кардани т�
 onboarding-infrequent-import-title = Худро ҳамчун дар хона ҳис кунед
 onboarding-infrequent-import-subtitle = Новобаста аз он, ки шумо дар ин ҷо бимонед ё муваққатан меистед, дар хотир доред, ки шумо метавонед хатбаракҳо, ниҳонвожаҳо ва чизҳои дигарро ба ин браузер ворид кунед.
 onboarding-infrequent-import-primary-button = Ворид кардан ба «{ -brand-short-name }»
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Шахсе, ки дар фаровонии ситораҳо ва гулҳо бо ноутбук кор карда истодааст
+mr2022-onboarding-default-image-alt =
+    .aria-label = Шахсе, ки тамғаи { -brand-product-name }-ро ба оғӯш мегирад
+mr2022-onboarding-import-image-alt =
+    .aria-label = Шахсе, ки дар скейтборд бо қуттии пури нишонаҳои нармафзор ғеҷида рафта истодааст
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Қурбоққаҳо бо рамзи QR дар марказ барои боргирӣ кардани версияи мобилии { -brand-product-name } аз болои баргҳои савсан меҷастанд
