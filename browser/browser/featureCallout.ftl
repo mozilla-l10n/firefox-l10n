@@ -35,6 +35,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kezdő lép
 
 callout-pdfjs-edit-title = PDF-fájlok szerkesztése az új szövegeszközünkkel
 callout-pdfjs-edit-body-a = Töltsön ki űrlapokat, írjon megjegyzéseket, vagy készítsen jegyzeteket közvetlenül a { -brand-short-name }ban.
+callout-pdfjs-edit-body-b = Hagyja ki az ingyenes online szerkesztők keresését. Töltsön ki űrlapokat, írjon megjegyzéseket, vagy készítsen jegyzeteket közvetlenül a { -brand-short-name }ban.
 callout-pdfjs-edit-button = Következő
 callout-pdfjs-draw-title = Írja alá a dokumentumokat az új rajzeszközünkkel
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
