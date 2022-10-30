@@ -408,3 +408,13 @@ mr2022-onboarding-gratitude-secondary-button-label = დაიწყეთ მ�
 onboarding-infrequent-import-title = თავი იგრძენით საკუთარ სახლში
 onboarding-infrequent-import-subtitle = გადმობარგებას აპირებთ თუ დროებით დარჩენას, გახსოვდეთ, რომ მარტივად შეგიძლიათ გადმოიტანოთ თქვენი სანიშნები, პაროლები და სხვ.
 onboarding-infrequent-import-primary-button = გადმოტანა – { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = ლეპტოპით მომუშავე პიროვნება ყვავილებითა და ვარსკვლავებით გარშემორტყმული
+mr2022-onboarding-default-image-alt =
+    .aria-label = პიროვნება ეხუტება { -brand-product-name }-ლოგოს
+mr2022-onboarding-import-image-alt =
+    .aria-label = პიროვნება გორგოლაჭიანი დაფით მისრიალებს პროგრამული ხატულებით სავსე ყუთით ხელში

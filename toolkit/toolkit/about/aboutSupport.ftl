@@ -111,7 +111,7 @@ graphics-workarounds-title = შემოვლითი გზები
 graphics-window-protocol = ფანჯრის ოქმი
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = სამუშაო მაგიდის გარსი
-place-database-title = Places მონაცემთა ბაზა
+place-database-title = Places – მონაცემთა ბაზა
 place-database-stats = სტატისტიკა
 place-database-stats-show = სტატისტიკის ჩვენება
 place-database-stats-hide = სტატისტიკის დამალვა
