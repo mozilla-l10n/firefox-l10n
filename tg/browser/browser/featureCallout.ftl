@@ -34,6 +34,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Оғози 
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Файлҳои PDF-ро бо абзори матнии нави мо таҳрир кунед
+callout-pdfjs-edit-body-a = Шаклҳоро пур намоед, шарҳ диҳед ва ёддоштҳоро бевосита дар { -brand-short-name } гузоред.
 callout-pdfjs-edit-button = Навбатӣ
 callout-pdfjs-draw-title = Ҳуҷҷатҳоро бо абзори нақшакашии нави мо ба имзо расонед
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
