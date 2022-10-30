@@ -418,3 +418,5 @@ mr2022-onboarding-import-image-alt =
     .aria-label = Шахсе, ки дар скейтборд бо қуттии пури нишонаҳои нармафзор ғеҷида рафта истодааст
 mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Қурбоққаҳо бо рамзи QR дар марказ барои боргирӣ кардани версияи мобилии { -brand-product-name } аз болои баргҳои савсан меҷастанд
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Чӯбчаи сеҳрнок тамғаи тамошокунии хусусии { -brand-product-name }-ро аз кулоҳ падид мекунад
