@@ -39,5 +39,7 @@ callout-pdfjs-edit-body-b = Забудзьце пра пошук бясплат�
 callout-pdfjs-edit-button = Далей
 callout-pdfjs-draw-title = Падпісвайце дакументы з дапамогай нашага новага інструмента для малявання
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-a = Рэдагуйце PDF-файлы і захоўвайце свае змены.
+callout-pdfjs-draw-body-a = Рабіце нататкі ў PDF-файлах і захоўвайце свае змены.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Больш ніякага друку і сканавання. Рабіце нататкі ў PDF-файлах і захоўвайце свае змены.
 callout-pdfjs-draw-button = Зразумела!

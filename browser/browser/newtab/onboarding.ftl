@@ -405,3 +405,11 @@ mr2022-onboarding-gratitude-secondary-button-label = Пачаць аглядан
 onboarding-infrequent-import-title = Адчувайце сябе як дома
 onboarding-infrequent-import-subtitle = Няважна, ці збіраецеся вы застацца тут на пэўны час ці проста праездам, помніце, што вы можаце імпартаваць закладкі, паролі і многае іншае.
 onboarding-infrequent-import-primary-button = Імпарт у { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-default-image-alt =
+    .aria-label = Чалавек, які абдымае лагатып { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Чалавек, які катаецца на скейтбордзе са скрынкай значкоў праграм
