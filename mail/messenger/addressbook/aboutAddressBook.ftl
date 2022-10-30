@@ -86,6 +86,8 @@ about-addressbook-horizontal-layout =
     .label = Переключиться на горизонтальную раскладку
 about-addressbook-vertical-layout =
     .label = Переключиться на вертикальную компоновку
+about-addressbook-table-layout =
+    .label = Макет таблицы
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
