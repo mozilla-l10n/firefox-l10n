@@ -333,6 +333,7 @@ mr2022-onboarding-gratitude-secondary-button-label = התחלת גלישה
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = תרגישו בבית
 onboarding-infrequent-import-primary-button = ייבוא אל { -brand-short-name }
 
 ## MR2022 Illustration alt tags
@@ -342,3 +343,15 @@ mr2022-onboarding-pin-image-alt =
     .aria-label = בן אדם שעובד על מחשב נייד מוקף בכוכבים ופרחים
 mr2022-onboarding-default-image-alt =
     .aria-label = בן אדם שמחבק את הלוגו של { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = בן אדם שרוכב על סקייטבורד עם קופסא שבתוכה סמלים של תוכנות
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = צפרדעים מדלגות על שושנות מים עם קוד QR להורדת { -brand-product-name } לנייד במרכז
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = שרביט קסמים הגורם לסמל הגלישה הפרטית של { -brand-product-name } להופיע מתוך כובע
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = ידיים בהירות וכהות עור נותנות כיף
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = מבט על שקיעה דרך חלון עם שועל וצמח בית על אדן החלון
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = תרסיס יד שצובע קולאז' צבעוני של עין ירוקה, נעל כתומה, כדורסל אדום, אוזניות סגולות, לב כחול וכתר צהוב
