@@ -409,6 +409,12 @@ onboarding-infrequent-import-primary-button = Importálás a { -brand-short-name
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Egy laptopon dolgozó személy csillagokkal és virágokkal körülvéve
+mr2022-onboarding-default-image-alt =
+    .aria-label = A { -brand-product-name } logót ölelő személy
+mr2022-onboarding-import-image-alt =
+    .aria-label = Egy gördeszkás egy doboznyi szoftverikonnal
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Világos bőrű és sötét bőrű kezek pacsiznak
 mr2022-onboarding-gratitude-image-alt =
