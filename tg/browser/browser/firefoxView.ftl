@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Барои идома дода�
 firefoxview-tabpickup-sync-disconnected-description = Барои ба даст овардани варақаҳои худ, шумо бояд дар { -brand-short-name } ба имкони ҳамоҳангсозӣ иҷозат диҳед.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Ҳамоҳангсозиро дар танзимот фаъол созед
 firefoxview-tabpickup-password-locked-header = Барои намоиш додани варақаҳо, ниҳонвожаи асосии худро ворид кунед
+firefoxview-tabpickup-password-locked-description = Барои ба даст овардани варақаҳои худ, шумо бояд ниҳонвожаи асосии худро барои { -brand-short-name } ворид намоед.
 firefoxview-tabpickup-password-locked-link = Маълумоти бештар
 firefoxview-tabpickup-password-locked-primarybutton = Ниҳонвожаи асосии худро ворид кунед
 firefoxview-tabpickup-syncing = Интизор шавед, варақаҳои шумо ҳамоҳанг шуда истодаанд. Онҳо пас аз чанд лаҳза дастрас мешаванд.
