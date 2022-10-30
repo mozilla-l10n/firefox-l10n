@@ -411,5 +411,9 @@ onboarding-infrequent-import-primary-button = Εισαγωγή στο { -brand-s
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Άτομο που εργάζεται σε φορητό υπολογιστή και περιβάλλεται από αστέρια και λουλούδια
 mr2022-onboarding-default-image-alt =
     .aria-label = Άτομο που αγκαλιάζει το λογότυπο του { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Άτομο που κάνει σκέιτμπορντ με ένα κουτί εικονιδίων λογισμικού

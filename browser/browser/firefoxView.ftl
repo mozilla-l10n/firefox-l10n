@@ -42,6 +42,7 @@ firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
 firefoxview-tabpickup-sync-disconnected-header = Ενεργοποιήστε τον συγχρονισμό για να συνεχίσετε
 firefoxview-tabpickup-sync-disconnected-description = Για να λάβετε τις καρτέλες σας, θα πρέπει να επιτρέψετε τον συγχρονισμό στο { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Ενεργοποιήστε τον συγχρονισμό στις ρυθμίσεις
+firefoxview-tabpickup-password-locked-description = Για να λάβετε τις καρτέλες σας, θα πρέπει να εισαγάγετε τον κύριο κωδικό πρόσβασης του { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Μάθετε περισσότερα
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
