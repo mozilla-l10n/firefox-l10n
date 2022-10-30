@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = მარაგის დაყოვნე�
 about-networking-rcwn-cache-not-slow = მარაგის დაუყოვნებლობის რაოდენობა
 about-networking-networkid = ქსელის ID
 about-networking-networkid-id = ქსელის ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = გვერდის ახალი მისამართია <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
