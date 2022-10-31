@@ -419,3 +419,7 @@ mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Жабы скачуць па лілеях з QR-кодам для сцягвання { -brand-product-name } для мабільных прылад у цэнтры
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Чароўная палачка прымушае лагатып прыватнага аглядання { -brand-product-name } з'явіцца з капелюша
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Светласкурая і смуглявая далоні робяць "дай пяць"
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Від на заход сонца праз акно з лісой і пакаёвай раслінай на падаконніку
