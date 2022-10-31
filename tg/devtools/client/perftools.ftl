@@ -78,6 +78,8 @@ perftools-thread-dns-resolver =
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+perftools-onboarding-close-button =
+    .aria-label = Пӯшидани паёми интиқол
 
 ## Profiler presets
 
@@ -87,6 +89,7 @@ perftools-thread-dns-resolver =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Барномарезии сомонаҳо
+perftools-presets-web-developer-description = Танзимоти тавсияшуда барои ислоҳи нуқсонҳои аксари барномаҳои веб бо хароҷоти иловагии паст.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Танзимоти тавсияшуда барои профилсозии { -brand-shorter-name }.
 perftools-presets-graphics-label = Графика
