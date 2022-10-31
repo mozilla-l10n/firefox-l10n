@@ -15,7 +15,7 @@ firefoxview-close-button =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = هم‌اکنون
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = برداشتن زبانه
+firefoxview-tabpickup-header = انتخاب زبانه
 firefoxview-tabpickup-description = گشودن زبانه‌ها از دستگاه‌های دیگر.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
@@ -40,8 +40,23 @@ firefoxview-tabpickup-sync-error-header = در همگام‌سازی مشکل د
 firefoxview-tabpickup-generic-sync-error-description = ‏{ -brand-short-name } اکنون نمی‌تواند به خدمت همگام‌سازی دسترسی یابد. چند لحظه بعد، دوباره تلاش کنید.
 firefoxview-tabpickup-sync-error-primarybutton = تلاش دوباره
 firefoxview-tabpickup-sync-disconnected-header = برای ادامه، همگام‌سازی را روشن کنید
+firefoxview-tabpickup-sync-disconnected-description = برای گرفتن زبانه‌های خود، باید در { -brand-short-name } اجازهٔ همگام‌سازی دهید.
+firefoxview-tabpickup-sync-disconnected-primarybutton = روشن کردن همگام‌سازی در تنظیمات
+firefoxview-tabpickup-password-locked-header = برای مشاهدهٔ زبانه‌ها، گذرواژهٔ اصلی‌تان را وارد کنید
+firefoxview-tabpickup-password-locked-description = برای گرفتن زبانه‌هایتان، باید گذرواژهٔ اصلی را برای { -brand-short-name } وارد کنید.
+firefoxview-tabpickup-password-locked-link = بیشتر بدانید
+firefoxview-tabpickup-password-locked-primarybutton = گذرواژهٔ اصلی را وارد کنید
+firefoxview-tabpickup-syncing = لطفاً تا اتمام همگام‌سازی زبانه‌هایتان منتظر بمانید. فقط اندکی طول می‌کشد.
+firefoxview-mobile-promo-header = زبانه‌ها را از تلفن همراه یا تبلت خود دریافت کنید
+firefoxview-mobile-promo-description = برای مشاهدهٔ جدیدترین زبانه‌های تلفن همراه خود، در iOS یا اندروید، به { -brand-product-name } وارد شوید.
+firefoxview-mobile-promo-primarybutton = دریافت { -brand-product-name } برای تلفن همراه
 firefoxview-mobile-confirmation-header = 🎉 آماده است!
+firefoxview-mobile-confirmation-description = اکنون می توانید زبانه‌های { -brand-product-name } خود را از تبلت یا تلفن همراه خود بگیرید.
 firefoxview-closed-tabs-title = اخیراً بسته شده
+firefoxview-closed-tabs-description2 = گشودن دوبارهٔ صفحاتی که در این پنجره بسته‌اید.
+firefoxview-closed-tabs-placeholder = <strong>هیچ صفحهٔ اخیراً بسته شده‌ای وجود ندارد</strong><br/> دیگر هرگز نگران از دست دادن دوبارهٔ یک زبانهٔ بسته شده نباشید. همیشه می‌توانید آن را در این‌جا بازیابی کنید.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = آخرین فعال
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
@@ -53,6 +68,7 @@ firefoxview-change-colorway-button = تغییر رنگ‌بندی
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>هنوز چیزی برای دیدن وجود ندارد</strong><br/>دفعهٔ بعد که صفحه‌ای را در { -brand-product-name } در دستگاه دیگری گشودید، آن را با جادویی سحرآمیز در این‌جا بگیرید.
 firefoxview-collapse-button-show =
     .title = نمایش فهرست
 firefoxview-collapse-button-hide =
