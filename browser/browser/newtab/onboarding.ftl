@@ -406,3 +406,23 @@ mr2022-onboarding-gratitude-secondary-button-label = Cychwyn pori
 onboarding-infrequent-import-title = Gwnewch eich hun yn gartrefol
 onboarding-infrequent-import-subtitle = P'un ai rydych yn ymgartrefu neu'n galw heibio, cofiwch y gallwch chi fewnforio eich nodau tudalen, cyfrineiriau a mwy.
 onboarding-infrequent-import-primary-button = Mewnforio i { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Person yn gweithio ar liniadur wedi'i amgylchynu gan sêr a blodau
+mr2022-onboarding-default-image-alt =
+    .aria-label = Person yn cofleidio logo { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Person yn reidio bwrdd sgrialu gyda blwch o eiconau meddalwedd
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Brogaod yn hercian ar draws padiau lili gyda chod QR er mwyn llwytho { -brand-product-name } ar gyfer ffôn symudol yn y canol
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Mae hudlath yn gwneud i logo pori preifat { -brand-product-name } ymddangos allan o het
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Pawen lawen dwylo â chroen golau a chroen tywyll
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Golygfa o fachlud trwy ffenestr gyda llwynog a phlanhigyn tŷ ar silff ffenestr
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Mae llaw gyda chwistrell yn paentio collage lliwgar o lygad gwyrdd, esgid oren, pêl-fasged goch, clustffonau porffor, calon las a choron felen

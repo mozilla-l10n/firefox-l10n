@@ -41,5 +41,5 @@ callout-pdfjs-draw-title = Llofnodwch ddogfennau gyda'n teclyn lluniadu newydd
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Marciwch PDFs, yna cadwch eich newidiadau.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-b = Dim mwy o argraffu a sganio. Marciwch PDFs, yna cadwch eich newidiadau.
+callout-pdfjs-draw-body-b = Dim mwy o argraffu a sganio. Marciwch PDFau ac yna cadw'ch newidiadau.
 callout-pdfjs-draw-button = Iawn!
