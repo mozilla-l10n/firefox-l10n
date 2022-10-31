@@ -30,3 +30,16 @@ callout-firefox-view-colorways-reminder-subtitle = Lliwiwch eich porwr gyda'r ar
 continuous-onboarding-firefox-view-tab-pickup-title = Rhowch hwb i'ch pori trwy ailagor tab
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Cyrchwch eich tabiau agored o unrhyw ddyfais. Hefyd cydweddwch eich nodau tudalen, cyfrineiriau, a rhagor.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Cychwyn arni
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-title = Golygwch PDFs gyda'n teclyn testun newydd
+callout-pdfjs-edit-body-a = Llenwch ffurflenni, ychwanegu sylwadau, neu gymryd nodiadau yn uniongyrchol o fewn { -brand-short-name }.
+callout-pdfjs-edit-body-b = Gallwch hepgor y chwilio am olygyddion ar-lein am ddim. Llenwch ffurflenni, ychwanegu sylwadau, neu gymryd nodiadau yn syth o fewn { -brand-short-name }.
+callout-pdfjs-edit-button = Nesaf
+callout-pdfjs-draw-title = Llofnodwch ddogfennau gyda'n teclyn lluniadu newydd
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Marciwch PDFs, yna cadwch eich newidiadau.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Dim mwy o argraffu a sganio. Marciwch PDFs, yna cadwch eich newidiadau.
+callout-pdfjs-draw-button = Iawn!
