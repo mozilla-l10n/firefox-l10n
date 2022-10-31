@@ -321,6 +321,7 @@ can-sandbox-media = Пясочніца медыя-плагінаў
 content-sandbox-level = Узровень пясочніцы змястоўных працэсаў
 effective-content-sandbox-level = Дзейны ўзровень ізаляцыі працэсу апрацоўкі змесціва
 content-win32k-lockdown-state = Стан блакавання Win32k для працэсу змесціва
+support-sandbox-gpu-level = Узровень пясочніцы працэсу GPU
 sandbox-proc-type-content = змесціва
 sandbox-proc-type-file = змесціва файла
 sandbox-proc-type-media-plugin = медыяплагін
