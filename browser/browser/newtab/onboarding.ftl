@@ -325,7 +325,6 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Br
 
 mr2022-onboarding-colorway-title = Wähle die Farbe, die dich inspiriert
 mr2022-onboarding-colorway-subtitle = Unabhängige Stimmen können die Kultur verändern.
-mr2022-onboarding-colorway-primary-button-label = Farbwelt festlegen
 mr2022-onboarding-colorway-primary-button-label-continue = Einstellen und weiter
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } zu deiner farbenfrohen Startseite machen
 mr2022-onboarding-colorway-label-default = Standard
@@ -403,3 +402,21 @@ mr2022-onboarding-gratitude-title = Du hilfst uns, ein besseres Web aufzubauen
 mr2022-onboarding-gratitude-subtitle = Vielen Dank, dass du { -brand-short-name } verwendest, unterstützt von der Mozilla Foundation. Mit deiner Unterstützung arbeiten wir daran, das Internet für alle offener, zugänglicher und besser zu machen.
 mr2022-onboarding-gratitude-primary-button-label = Neue Funktionen und Änderungen anschauen
 mr2022-onboarding-gratitude-secondary-button-label = Lossurfen
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Fühl dich wie zu Hause
+onboarding-infrequent-import-subtitle = Egal, ob du hierbleibst oder nur vorbeischaust, denk daran, dass du deine Lesezeichen, Passwörter und mehr importieren kannst.
+onboarding-infrequent-import-primary-button = In { -brand-short-name } importieren
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Person arbeitet an einem Laptop umgeben von Sternen und Blumen
+mr2022-onboarding-default-image-alt =
+    .aria-label = Person umarmt das { -brand-product-name }-Logo
+mr2022-onboarding-import-image-alt =
+    .aria-label = Person, die ein Skateboard mit einer Kiste mit Softwaresymbolen fährt
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Frösche hüpfen über Seerosenblätter mit einem QR-Code zum Herunterladen von { -brand-product-name } für Mobilgeräte in der Mitte
