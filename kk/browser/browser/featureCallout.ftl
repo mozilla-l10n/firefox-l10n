@@ -31,4 +31,6 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Баста�
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Жаңа мәтіндік құралымызбен PDF файлдарын өңдеңіз
 callout-pdfjs-edit-button = Келесі
+callout-pdfjs-draw-button = Түсіндім!
