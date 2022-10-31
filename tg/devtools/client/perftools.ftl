@@ -67,6 +67,10 @@ perftools-thread-render-backend =
     .title = Ҷараёни «WebRender RenderBackend»
 pref-thread-stream-trans =
     .title = Интиқоли ҷараёни шабака
+perftools-thread-img-decoder =
+    .title = Ҷараёнҳои рамзгузории тасвир
+perftools-thread-dns-resolver =
+    .title = Ҳалкунии DNS дар ин ҷараён иҷро мешавад
 
 ##
 
