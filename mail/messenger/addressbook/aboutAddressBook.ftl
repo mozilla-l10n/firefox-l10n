@@ -86,6 +86,8 @@ about-addressbook-horizontal-layout =
     .label = Do horicontalneho wuhotowanja přepinać
 about-addressbook-vertical-layout =
     .label = Do wertikalneho wuhotowanja přepinać
+about-addressbook-table-layout =
+    .label = Tabelowe wuhotowanje
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
