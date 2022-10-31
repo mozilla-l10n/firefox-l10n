@@ -33,5 +33,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Prěnje kro
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Wobdźěłajće PDF z našim nowym nastrojom
 callout-pdfjs-edit-button = Dale
+callout-pdfjs-draw-title = Signujće dokumenty z našim nowym rysowanskim nastrojom
 callout-pdfjs-draw-button = Sym to zrozumił!
