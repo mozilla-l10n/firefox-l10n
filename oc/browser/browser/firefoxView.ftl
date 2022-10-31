@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Activatz la sincronizacion per 
 firefoxview-tabpickup-sync-disconnected-description = Per recuperar vòstres onglets, vos cal d’autorizar la sincronizacion de { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Activar la sincronizacion als paramètres
 firefoxview-tabpickup-password-locked-header = Picatz lo senhal màger per veire los onglets
+firefoxview-tabpickup-password-locked-description = Per recuperar vòstres onglets, vos cal lo senhal màger de { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Ne saber mai
 firefoxview-tabpickup-password-locked-primarybutton = Picatz lo senhal màger
 firefoxview-tabpickup-syncing = Esperatz mentre que se sincronizan los onglets. Durarà pas qu’un moment.
