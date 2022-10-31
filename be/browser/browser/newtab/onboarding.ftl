@@ -409,7 +409,13 @@ onboarding-infrequent-import-primary-button = Імпарт у { -brand-short-nam
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Чалавек, які працуе на ноўтбуку, сярод зорак і кветак
 mr2022-onboarding-default-image-alt =
     .aria-label = Чалавек, які абдымае лагатып { -brand-product-name }
 mr2022-onboarding-import-image-alt =
     .aria-label = Чалавек, які катаецца на скейтбордзе са скрынкай значкоў праграм
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Жабы скачуць па лілеях з QR-кодам для сцягвання { -brand-product-name } для мабільных прылад у цэнтры
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Чароўная палачка прымушае лагатып прыватнага аглядання { -brand-product-name } з'явіцца з капелюша
