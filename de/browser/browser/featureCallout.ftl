@@ -38,3 +38,8 @@ callout-pdfjs-edit-body-a = Füllen Sie Formulare aus, fügen Sie Kommentare hin
 callout-pdfjs-edit-body-b = Überspringen Sie die Suche nach kostenlosen Online-Editoren. Füllen Sie Formulare aus, fügen Sie Kommentare hinzu oder machen Sie sich Notizen direkt in { -brand-short-name }.
 callout-pdfjs-edit-button = Weiter
 callout-pdfjs-draw-title = Unterschreiben Sie Dokumente mit unserem neuen Zeichenwerkzeug
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Annotieren Sie PDFs und speichern Sie Ihre Änderungen.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Nie mehr drucken und scannen. Annotieren Sie PDFs und speichern Sie Ihre Änderungen.
+callout-pdfjs-draw-button = Verstanden!
