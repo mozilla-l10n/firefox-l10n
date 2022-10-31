@@ -410,3 +410,7 @@ onboarding-infrequent-import-primary-button = Uvozi v { -brand-short-name(sklon:
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-default-image-alt =
+    .aria-label = Oseba, ki objema logotip { -brand-product-name(sklon: "rodilnik") }
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Žabe, ki skačejo z lokvanja na lokvanj, s kodo QR za prenos mobilnega { -brand-product-name(sklon: "rodilnik") } v sredini
