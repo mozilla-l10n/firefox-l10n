@@ -86,6 +86,8 @@ about-addressbook-horizontal-layout =
     .label = Newid i gynllun llorweddol
 about-addressbook-vertical-layout =
     .label = Newid i gynllun llorweddol
+about-addressbook-table-layout =
+    .label = Cynllun tabl
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
