@@ -321,6 +321,7 @@ can-sandbox-media = Sandboxing zásuvných modulov médií
 content-sandbox-level = Úroveň sandboxu procesu s obsahom
 effective-content-sandbox-level = Účinná úroveň sandboxu procesu s obsahom
 content-win32k-lockdown-state = Stav zákazu používania Win32k pre procesy s obsahom
+support-sandbox-gpu-level = Úroveň sandboxu procesu GPU
 sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah súboru
 sandbox-proc-type-media-plugin = zásuvný modul médií

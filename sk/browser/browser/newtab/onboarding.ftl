@@ -405,3 +405,19 @@ mr2022-onboarding-gratitude-secondary-button-label = Poďme prehliadať
 onboarding-infrequent-import-title = Cíťte sa ako doma
 onboarding-infrequent-import-subtitle = Či už sa chcete tu zabývať alebo sa len zastavíte, nezabudnite, že môžete importovať svoje záložky, heslá a ďalšie položky.
 onboarding-infrequent-import-primary-button = Importovať do { -brand-short-name(case: "gen") }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Osoba pracujúca na notebooku obklopená hviezdami a kvetmi
+mr2022-onboarding-default-image-alt =
+    .aria-label = Osoba objímajúca logo { -brand-product-name(case: "gen") }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Osoba jazdiaca na skateboarde s krabicou softvérových ikon
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Žaby skákajúce po ľaliových vankúšikoch s QR kódom na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia v strede
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Kúzelná palička spôsobí, že sa z klobúka objaví logo Súkromného prehliadania { -brand-product-name(case: "gen") }
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Ruky svetlej a tmavej pleti si dávajú high five
