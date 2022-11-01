@@ -4,7 +4,6 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Volgende
-
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Begrepen!
 
@@ -13,20 +12,13 @@ callout-primary-complete-button-label = Begrepen!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Spring tussen apparaten met ophalen van tabbladen
-
 callout-firefox-view-tab-pickup-subtitle = Pak snel open tabbladen van uw telefoon en open ze hier voor maximale flow.
-
 callout-firefox-view-recently-closed-title = Ontvang uw gesloten tabbladen in een handomdraai terug
-
 callout-firefox-view-recently-closed-subtitle = Al uw gesloten tabbladen worden hier op magische wijze weergegeven. Maak u nooit meer zorgen over het per ongeluk sluiten van een website.
-
 callout-firefox-view-colorways-title = Voeg een vleugje kleur toe
-
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Kies de tint die u aanspreekt met kleurstellingen. Alleen in { -brand-product-name }.
-
 callout-firefox-view-colorways-reminder-title = Ontdek onze nieuwste kleurstellingen
-
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Kleur uw browser met deze iconische tinten, geïnspireerd door onafhankelijke stemmen. Alleen in { -brand-product-name }.
 
@@ -36,7 +28,9 @@ callout-firefox-view-colorways-reminder-subtitle = Kleur uw browser met deze ico
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Geef uw navigatie een boost met het ophalen van tabbladen
-
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Toegang tot uw geopende tabbladen vanaf elk apparaat. En synchroniseer uw bladwijzers, wachtwoorden en meer.
-
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Beginnen
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-title = Bewerk PDF’s met ons nieuwe teksthulpmiddel
