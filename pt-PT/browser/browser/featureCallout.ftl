@@ -38,4 +38,8 @@ callout-pdfjs-edit-body-a = Preencha formulários, adicione comentários, ou ano
 callout-pdfjs-edit-body-b = Deixe de procurar por editores online gratuitos. Preencha formulários, adicione comentários, faça anotações diretamente no { -brand-short-name }.
 callout-pdfjs-edit-button = Seguinte
 callout-pdfjs-draw-title = Assine documentos com a nossa nova ferramenta de desenho
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Anote ficheiros PDF e guarde as suas alterações.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Deixe de imprimir e de digitalizar. Anote ficheiros PDF e guarde as suas alterações.
 callout-pdfjs-draw-button = Percebi!
