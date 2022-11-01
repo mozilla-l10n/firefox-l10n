@@ -22,7 +22,6 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Alle adressebøkene
-
 about-addressbook-books-context-properties =
     .label = Eigenskapar
 about-addressbook-books-context-synchronize =
@@ -39,7 +38,6 @@ about-addressbook-books-context-remove =
     .label = Fjern
 about-addressbook-books-context-startup-default =
     .label = Standard startmappe
-
 about-addressbook-confirm-delete-book-title = Slett adressebok
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -57,17 +55,14 @@ about-addressbook-search =
     .placeholder = Søk i { $name }
 about-addressbook-search-all =
     .placeholder = Søk i alle adressebøkene
-
 about-addressbook-sort-button2 =
     .title = Vis liste over visingsvala
-
 about-addressbook-name-format-display =
     .label = Visingsnamn
 about-addressbook-name-format-firstlast =
     .label = Fornamn Etternamn
 about-addressbook-name-format-lastfirst =
     .label = Etternamn, Fornamn
-
 about-addressbook-sort-name-ascending =
     .label = Sorter etter namn (A > Å)
 about-addressbook-sort-name-descending =
@@ -76,7 +71,6 @@ about-addressbook-sort-email-ascending =
     .label = Sorter etter e-postadresse (A > Å)
 about-addressbook-sort-email-descending =
     .label = Sorter etter e-postadresse (Å > A)
-
 about-addressbook-horizontal-layout =
     .label = Byt til horisontal utsjånad
 about-addressbook-vertical-layout =
@@ -109,10 +103,8 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Adressebok
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
-
 about-addressbook-cards-context-write =
     .label = Skriv til
-
 about-addressbook-confirm-delete-mixed-title = Slett kontaktar og lister
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -175,32 +167,29 @@ about-addressbook-placeholder-no-search-results = Ingen kontaktar funne
 
 ## Details
 
+about-addressbook-new-contact-header = Ny kontakt
 about-addressbook-prefer-display-name = Føretrekk visingsnamn i staden for namnet i meldingshovudet
-
 about-addressbook-write-action-button = Skriv til
 about-addressbook-event-action-button = Hending
 about-addressbook-search-action-button = Søk
-
+about-addressbook-new-list-action-button = Ny liste
 about-addressbook-begin-edit-contact-button = Rediger
 about-addressbook-delete-edit-contact-button = Slett
 about-addressbook-cancel-edit-contact-button = Avbryt
 about-addressbook-save-edit-contact-button = Lagre
-
 about-addressbook-add-contact-to = Legg til i:
-
 about-addressbook-details-email-addresses-header = E-postadresser
 about-addressbook-details-phone-numbers-header = Telefonnummer
 about-addressbook-details-addresses-header = Adresser
 about-addressbook-details-notes-header = Notat
+about-addressbook-details-websites-header = Nettstadar
 about-addressbook-details-other-info-header = Annan informasjon
-
 about-addressbook-entry-type-work = Arbeid
 about-addressbook-entry-type-home = Heim
 about-addressbook-entry-type-fax = Faks
 # Or "Mobile"
 about-addressbook-entry-type-cell = Mobil
 about-addressbook-entry-type-pager = Personsøkjar
-
 about-addressbook-entry-name-birthday = Fødselsdag
 about-addressbook-entry-name-anniversary = Merkedag
 about-addressbook-entry-name-title = Tittel
@@ -208,7 +197,10 @@ about-addressbook-entry-name-role = Rolle
 about-addressbook-entry-name-organization = Organisasjon
 about-addressbook-entry-name-website = Nettstad
 about-addressbook-entry-name-time-zone = Tidssone
-
+about-addressbook-entry-name-custom1 = Eigendefinert 1
+about-addressbook-entry-name-custom2 = Eigendefinert 2
+about-addressbook-entry-name-custom3 = Eigendefinert 3
+about-addressbook-entry-name-custom4 = Eigendefinert 4
 about-addressbook-unsaved-changes-prompt-title = Ulagra endringar
 about-addressbook-unsaved-changes-prompt = Vil du lagre endringane før du forlét redigeringsvisinga?
 
@@ -218,7 +210,6 @@ about-addressbook-photo-drop-target = Slepp eller lim inn eit bilde her, eller t
 about-addressbook-photo-drop-loading = Lastar inn bilde …
 about-addressbook-photo-drop-error = Klarte ikkje å laste inn foto.
 about-addressbook-photo-filepicker-title = Vel ei bildefil
-
 about-addressbook-photo-discard = Avvis eksisterande foto
 about-addressbook-photo-cancel = Avbryt
 about-addressbook-photo-save = Lagre
