@@ -403,6 +403,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Byrje å surfe
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Føl deg heime
+onboarding-infrequent-import-subtitle = Anten du slår deg til rette eller berre er innom, hugs at du kan importere bokmerke, passord og meir.
 onboarding-infrequent-import-primary-button = Importer til { -brand-short-name }
 
 ## MR2022 Illustration alt tags
