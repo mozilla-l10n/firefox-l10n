@@ -412,5 +412,15 @@ onboarding-infrequent-import-primary-button = Importer til { -brand-short-name }
 
 mr2022-onboarding-pin-image-alt =
     .aria-label = Person, der arbejder på en bærbar computer, omgivet af stjerner og blomster
+mr2022-onboarding-default-image-alt =
+    .aria-label = Person, der omfavner { -brand-product-name }-logoet
 mr2022-onboarding-import-image-alt =
     .aria-label = Person, der kører på skateboard med en kasse software-ikoner
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Frøer, der hopper på åkandeblade med QR-koden til at hente { -brand-product-name } til mobil i midten
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = En tryllestav får logoet for { -brand-product-name } privat browsing til at komme ud af en hat
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Lyshudede og mørkhudede hænder giver hinanden en high-five
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Udsigt til en solnedgang gennem et vindue med en ræv og en stueplante i en vindueskarm
