@@ -266,12 +266,19 @@ mr2022-onboarding-secondary-skip-button-label = Hopp over dette steget
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Opne opp for eit fantastisk internett
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Start { -brand-short-name } kvar som helst med eitt enkelt klikk. Kvarr gong du gjer det, vel du eit meir ope og uavhengig internett.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Behald { -brand-short-name } i Dock
        *[other] Fest { -brand-short-name } til oppgåvelinja
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Start med ein nettlesar støtta av ein ideell organisasjon. Vi forsvarar personvernet ditt medan du surfar rundt på nettet.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -369,3 +376,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Byrje å surfe
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-primary-button = Importer til { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
