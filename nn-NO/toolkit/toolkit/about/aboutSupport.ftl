@@ -4,7 +4,6 @@
 
 page-title = Feilsøking
 page-subtitle = Denne sida inneheld teknisk informasjon som kan vere nyttig når du prøver å løyse eit problem. Gå til <a data-l10n-name="support-link">brukarstøttenettsida</a> for å få svar på ofte stilte spørsmål om { -brand-short-name }.
-
 crashes-title = Krasjrapportar
 crashes-id = Rapport-ID
 crashes-send-date = Sendt
@@ -75,12 +74,10 @@ app-basics-key-mozilla = Mozilla Location Service-nykel
 app-basics-safe-mode = Trygg modus
 app-basics-memory-size = Minnestorleik (RAM)
 app-basics-disk-available = Tilgjengeleg diskplass
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Vis i Finder
@@ -115,6 +112,14 @@ graphics-window-protocol = Protokoll for vindaugshandsamar
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Skrivebordsmiljø
 place-database-title = Plasser database
+place-database-stats = Statistikk
+place-database-stats-show = Vis statistikk
+place-database-stats-hide = Gøym statistikk
+place-database-stats-count = Antal
+place-database-stats-size-kib = Storleik (KiB)
+place-database-stats-size-perc = Storleik (%)
+place-database-stats-efficiency-perc = Effektivitet (%)
+place-database-stats-sequentiality-perc = Sekvensitet (%)
 place-database-integrity = Integritet
 place-database-verify-integrity = Stadfest integritet
 a11y-title = Tilgjenge
@@ -199,7 +204,6 @@ report-crash-for-days =
         [one] Krasjrapportar den siste { $days } dag
        *[other] Krasjrapportar dei siste { $days } dagane
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -207,7 +211,6 @@ crashes-time-minutes =
         [one] { $minutes } minutt sidan
        *[other] { $minutes } minutt sidan
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -215,7 +218,6 @@ crashes-time-hours =
         [one] { $hours } time sidan
        *[other] { $hours } timar sidan
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -223,7 +225,6 @@ crashes-time-days =
         [one] { $days } dag sidan
        *[other] { $days } dagar sidan
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -231,7 +232,6 @@ pending-reports =
         [one] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handsaming i tidsrommet)
        *[other] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handsaming i tidsrommet)
     }
-
 raw-data-copied = Rådata kopiert til utklippstavla
 text-copied = Tekst kopiert til utklippstavla
 
@@ -244,11 +244,9 @@ blocked-mismatched-version = Blokkert for din versjon av grafikkdrivar, ubalanse
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokkert av grafikkdrivaren. Prøv å oppdatera grafikkdrivaren til versjon { $driverVersion } eller nyare.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parameter
-
 compositing = Kompositt
 hardware-h264 = H264 hardvaredekodning
 main-thread-no-omtc = hovudtråd, ingen OMTC
@@ -263,7 +261,6 @@ virtual-monitor-disp = Virtuell bildeskjermvising
 
 found = Funne
 missing = Manglar
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Skildring
@@ -286,19 +283,15 @@ webgl2-renderer = WebGL2-renderar
 webgl2-version = WebGL 2 drivarversjon
 webgl2-driver-extensions = WebGL 2 drivarutviding
 webgl2-extensions = WebGL 2 utviding
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blokkert på grunn av kjende problem: <a data-l10n-name="bug-link">feilrapport { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Svartlista; feilkode { $failureCode }
-
 d3d11layers-crash-guard = D3D11-kompositoren
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video-dekodar
-
 reset-on-next-restart = Tilbakestill ved neste omstart
 gpu-process-kill-button = Avslutt GPU-prosess
 gpu-device-reset = Einingstilbakestilling
@@ -308,10 +301,8 @@ content-uses-tiling = Brukar Tiling (innhald)
 off-main-thread-paint-enabled = Oppteikning utanfor hovudtråd aktivert
 off-main-thread-paint-worker-count = Opptegning utanfor hovudtråd worker-mengde
 target-frame-rate = Målrammefart
-
 min-lib-versions = Forventa minimumsversjon
 loaded-lib-versions = Versjon i bruk
-
 has-seccomp-bpf = Seccomp-BPF (Systemkall-filtrering)
 has-seccomp-tsync = Seccomp-trådsynkronisering
 has-user-namespaces = Brukarnamnområde
@@ -325,18 +316,15 @@ sandbox-proc-type-content = innhald
 sandbox-proc-type-file = filinnhald
 sandbox-proc-type-media-plugin = programtillegg for media
 sandbox-proc-type-data-decoder = datadekodar
-
 startup-cache-title = Oppstart-snøgglager
 startup-cache-disk-cache-path = Sti for disk-snøgglager
 startup-cache-ignore-disk-cache = Ignorer disk-snøgglager
 startup-cache-found-disk-cache-on-init = Fann disk-snøgglager på Init
 startup-cache-wrote-to-disk-cache = Skreiv til disk-snøgglager
-
 launcher-process-status-0 = Påslått
 launcher-process-status-1 = Deaktivert på grunn av feil
 launcher-process-status-2 = Tvungen deaktivering
 launcher-process-status-unknown = Ukjend status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -356,7 +344,6 @@ fission-status-enabled-by-user-pref = Slått på av brukar
 fission-status-disabled-by-user-pref = Slått av av brukar
 fission-status-disabled-by-e10s-other = E10s slått av
 fission-status-enabled-by-rollout = Aktivert av stegvis utrulling
-
 async-pan-zoom = Asynkron pan/zoom
 apz-none = ingen
 wheel-enabled = Hjulinnmating slått på
@@ -393,7 +380,6 @@ support-remote-experiments-title = Eksterne eksperiment
 support-remote-experiments-name = Namn
 support-remote-experiments-branch = EksperimentgreIn
 support-remote-experiments-see-about-studies = Sjå <a data-l10n-name="support-about-studies-link">about:studies</a> for meIr informasjon, inkludert korleis du slår av individuelle eksperiment eller korleis du hindrar { -brand-short-name } frå å køyre denne typen eksperiment i framtida.
-
 support-remote-features-title = Eksterne funksjonar
 support-remote-features-name = Namn
 support-remote-features-status = Status
