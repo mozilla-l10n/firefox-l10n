@@ -284,6 +284,11 @@ mr2022-onboarding-set-default-only-subtitle = Start med ein nettlesar støtta av
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Takk for at du likar { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Start eit sunnare internett frå kvarr som helst med eit enkelt klikk. Den siste oppdateringa vår er fullpakka med nye ting vi trur du vil like.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Bruk ein nettlesar som beskyttar personvernet ditt medandu bevegar deg rundt på nettet. Den siste oppdateringa vår er fullpakket med ting du likar.
 mr2022-onboarding-existing-pin-checkbox-label = Legg også til { -brand-short-name } privat nettlesing
 
 ## MR2022 New User Set Default screen strings
@@ -291,6 +296,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Legg også til { -brand-short-na
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Gjere { -brand-short-name } til standardnettlesaren din?
 mr2022-onboarding-set-default-primary-button-label = Gjer { -brand-short-name } til standardnettleser
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Bruk ein nettlesar støtta av ein ideell organisasjon. Vi forsvarar personvernet ditt medan du surfar rundt på nettet.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -327,40 +335,55 @@ mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Spelar
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Spelar (raud)
+mr2022-onboarding-colorway-description-playmaker = <b>Du er ein spelar.</b> Du skaper moglegheiter til å vinne, og hjelper alle rundt deg med å heve spelet sitt.
 mr2022-onboarding-colorway-label-expressionist = Ekspresjonistisk
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Ekspresjonistisk
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresjonistisk (gul)
+mr2022-onboarding-colorway-description-expressionist = <b>Du er ein ekspresjonist.</b> Du ser verda annleisog kreasjonane dine vekkjer kjenslene i andre.
 mr2022-onboarding-colorway-label-visionary = Visjonær
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visjonær
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visjonær (grøn)
+mr2022-onboarding-colorway-description-visionary = <b>Du er ein visjonær.</b> Du stiller spørsmål ved status quo og får andre til å forestille seg ei betre framtid.
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (blå)
+mr2022-onboarding-colorway-description-activist = <b>Du er ein aktivist.</b> Du engasjerer deg for å gjere verda betre, og du får andre med deg.
 mr2022-onboarding-colorway-label-dreamer = Drøymar
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Drøymar
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Drøymar (lilla)
+mr2022-onboarding-colorway-description-dreamer = <b>Du er en drøymar.</b> Du trur at formue favoriserer dei dristige og inspirerer andre til å vere modige.
 mr2022-onboarding-colorway-label-innovator = Nyskapar
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Nyskapar
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovatør (oransje)
+mr2022-onboarding-colorway-description-innovator = <b>Du er ein innovatør.</b> Du ser moglegheiter overalt og påverkar liva til alle rundt deg.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Byt frå berbar PC til telefon og tilbake igjen
+mr2022-onboarding-mobile-download-subtitle = Hent faner fra éi eining og hald fram der du slapp på ei anna. Synkroniser også bokmerka og passorda dine overalt der du brukar { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil eller <a data-l10n-name="download-label">send deg sjølv ei nedlastingslenke.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = Få privat nettlesingsfriheit med eitt klikk
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Ingen lagra infokapslar eller historikk, rett frå skrivebordet. Surf som om ingen ser på.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Behald { -brand-short-name } privat nettlesing i Dock
+       *[other] Fest { -brand-short-name } privat nettlesing til oppgåvelinja
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
