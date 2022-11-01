@@ -403,3 +403,23 @@ mr2022-onboarding-gratitude-secondary-button-label = Começar a navegar
 onboarding-infrequent-import-title = Sinta-se em casa
 onboarding-infrequent-import-subtitle = Quer esteja a instalar-se ou apenas de passagem, lembre-se de que pode importar os seus marcadores, palavras-passe, e muito mais.
 onboarding-infrequent-import-primary-button = Importar para { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Pessoa a trabalhar num portátil rodeado por estrelas e flores
+mr2022-onboarding-default-image-alt =
+    .aria-label = Pessoa a abraçar o logótipo do { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Pessoa a andar de skate com uma caixa de ícones de programas
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Sapos a saltar nos lírios com um código QR para transferir o { -brand-product-name } para o telemóvel no centro
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Varinha mágica faz com que o logótipo de navegação privada do { -brand-product-name } apareça de um chapéu
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Uma mão de pele clara e outra de pele escura cumprimentam-se
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vista de um pôr do sol através de uma janela com uma raposa e uma planta doméstica no peitoril da janela
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Um spray de mão pinta uma montagem colorida de um olho verde, sapato laranja, bola de basquetebol vermelha, auscultadores roxos, coração azul e coroa amarela
