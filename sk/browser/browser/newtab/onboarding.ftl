@@ -421,3 +421,7 @@ mr2022-onboarding-pin-private-image-alt =
     .aria-label = Kúzelná palička spôsobí, že sa z klobúka objaví logo Súkromného prehliadania { -brand-product-name(case: "gen") }
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Ruky svetlej a tmavej pleti si dávajú high five
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Pohľad na západ slnka cez okno s líškou a izbovou rastlinou na parapete
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Ručný sprej maľuje farebnú koláž zeleného oka, oranžovej topánky, červenej basketbalovej lopty, fialových slúchadiel, modrého srdca a žltej koruny
