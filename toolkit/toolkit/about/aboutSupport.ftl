@@ -122,6 +122,7 @@ place-database-stats-entity = Entitet
 place-database-stats-count = Antal
 place-database-stats-size-kib = Størrelse (KiB)
 place-database-stats-size-perc = Størrelse (%)
+place-database-stats-sequentiality-perc = Sekventialitet (%)
 place-database-integrity = Integritet
 place-database-verify-integrity = Bekræft integritet
 a11y-title = Tilgængelighed
