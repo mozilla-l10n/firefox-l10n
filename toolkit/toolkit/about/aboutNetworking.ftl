@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Tal på langsam cache
 about-networking-rcwn-cache-not-slow = Tal på ikkje-langsam cache
 about-networking-networkid = Nettverks-ID
 about-networking-networkid-id = Nettverks-ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Denne sida er flytta til <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
