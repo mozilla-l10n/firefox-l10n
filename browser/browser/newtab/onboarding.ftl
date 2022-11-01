@@ -406,3 +406,11 @@ mr2022-onboarding-gratitude-secondary-button-label = Afslut rundvisningen
 onboarding-infrequent-import-title = Føl dig hjemme
 onboarding-infrequent-import-subtitle = Uanset om du er ved at flytte ind eller bare kigger forbi: Husk at du kan importere dine bogmærker, adgangskoder og mere.
 onboarding-infrequent-import-primary-button = Importer til { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Person, der arbejder på en bærbar computer, omgivet af stjerner og blomster
+mr2022-onboarding-import-image-alt =
+    .aria-label = Person, der kører på skateboard med en kasse software-ikoner
