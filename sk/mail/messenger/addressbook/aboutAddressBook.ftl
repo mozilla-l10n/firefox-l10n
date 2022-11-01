@@ -24,7 +24,6 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Všetky adresáre kontaktov
 all-address-books = Všetky adresáre
-
 # Variables:
 # $name (String) - The name of the selected book/list.
 # $count (Number) - The number of contacts in the selected book/list.
@@ -32,7 +31,6 @@ about-addressbook-card-count = Celkový počet kontaktov v adresári { $name }: 
 # Variables:
 # $count (Number) - The number of contacts in all address books.
 about-addressbook-card-count-all = Celkový počet kontaktov vo všetkých adresároch: { $count }
-
 about-addressbook-books-context-properties =
     .label = Vlastnosti
 about-addressbook-books-context-edit-list =
@@ -51,7 +49,6 @@ about-addressbook-books-context-remove =
     .label = Odstrániť
 about-addressbook-books-context-startup-default =
     .label = Predvolený priečinok pri spustení
-
 about-addressbook-confirm-delete-book-title = Odstránenie adresára
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -69,17 +66,14 @@ about-addressbook-search =
     .placeholder = Hľadať v adresári { $name }
 about-addressbook-search-all =
     .placeholder = Hľadať vo všetkých adresároch
-
 about-addressbook-sort-button2 =
     .title = Možnosti zobrazenia zoznamu
-
 about-addressbook-name-format-display =
     .label = Zobrazované meno
 about-addressbook-name-format-firstlast =
     .label = Meno Priezvisko
 about-addressbook-name-format-lastfirst =
     .label = Priezvisko, Meno
-
 about-addressbook-sort-name-ascending =
     .label = Usporiadať podľa mena (A > Z)
 about-addressbook-sort-name-descending =
@@ -88,11 +82,12 @@ about-addressbook-sort-email-ascending =
     .label = Usporiadať podľa e-mailovej adresy (A > Z)
 about-addressbook-sort-email-descending =
     .label = Usporiadať podľa e-mailovej adresy (Z > A)
-
 about-addressbook-horizontal-layout =
     .label = Prepnúť na horizontálne rozloženie
 about-addressbook-vertical-layout =
     .label = Prepnúť na vertikálne rozloženie
+about-addressbook-table-layout =
+    .label = Tabuľkové rozloženie
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
@@ -124,10 +119,8 @@ about-addressbook-column-label-organization =
 about-addressbook-column-header-addrbook = Adresár
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
-
 about-addressbook-cards-context-write =
     .label = Napísať správu
-
 about-addressbook-confirm-delete-mixed-title = Odstránenie kontaktov a zoznamov
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -205,27 +198,19 @@ about-addressbook-selection-contacts-header = Vybraté kontakty: { $count }
 # Variables:
 # $count (Number) - The number of selected lists
 about-addressbook-selection-lists-header = Vybraté zoznamy: { $count }
-
 about-addressbook-details-edit-photo =
     .title = Upraviť fotografiu kontaktu
-
 about-addressbook-new-contact-header = Nový kontakt
-
 about-addressbook-prefer-display-name = Uprednostniť Zobrazované meno namiesto mena z hlavičky správy
-
 about-addressbook-write-action-button = Napísať správu
 about-addressbook-event-action-button = Udalosť
 about-addressbook-search-action-button = Hľadať
-
 about-addressbook-new-list-action-button = Nový zoznam
-
 about-addressbook-begin-edit-contact-button = Upraviť
 about-addressbook-delete-edit-contact-button = Odstrániť
 about-addressbook-cancel-edit-contact-button = Zrušiť
 about-addressbook-save-edit-contact-button = Uložiť
-
 about-addressbook-add-contact-to = Pridať do:
-
 about-addressbook-details-email-addresses-header = E-mailové adresy
 about-addressbook-details-phone-numbers-header = Telefónne čísla
 about-addressbook-details-addresses-header = Adresy
@@ -233,14 +218,12 @@ about-addressbook-details-notes-header = Poznámky
 about-addressbook-details-impp-header = Okamžité správy
 about-addressbook-details-websites-header = Webové stránky
 about-addressbook-details-other-info-header = Ďalšie informácie
-
 about-addressbook-entry-type-work = Práca
 about-addressbook-entry-type-home = Domov
 about-addressbook-entry-type-fax = Fax
 # Or "Mobile"
 about-addressbook-entry-type-cell = Telefón
 about-addressbook-entry-type-pager = Pager
-
 about-addressbook-entry-name-birthday = Narodeniny
 about-addressbook-entry-name-anniversary = Výročie
 about-addressbook-entry-name-title = Titul
@@ -248,12 +231,10 @@ about-addressbook-entry-name-role = Funkcia
 about-addressbook-entry-name-organization = Organizácia
 about-addressbook-entry-name-website = Webová stránka
 about-addressbook-entry-name-time-zone = Časové pásmo
-
 about-addressbook-entry-name-custom1 = Ostatné 1
 about-addressbook-entry-name-custom2 = Ostatné 2
 about-addressbook-entry-name-custom3 = Ostatné 3
 about-addressbook-entry-name-custom4 = Ostatné 4
-
 about-addressbook-unsaved-changes-prompt-title = Neuložené zmeny
 about-addressbook-unsaved-changes-prompt = Chcete pred ukončením uložiť vykonané zmeny?
 
@@ -263,7 +244,6 @@ about-addressbook-photo-drop-target = Sem presuňte alebo prilepte fotografiu al
 about-addressbook-photo-drop-loading = Načítava sa fotografia…
 about-addressbook-photo-drop-error = Fotografiu sa nepodarilo načítať.
 about-addressbook-photo-filepicker-title = Vyberte súbor obrázka
-
 about-addressbook-photo-discard = Zahodiť existujúcu fotografiu
 about-addressbook-photo-cancel = Zrušiť
 about-addressbook-photo-save = Uložiť
