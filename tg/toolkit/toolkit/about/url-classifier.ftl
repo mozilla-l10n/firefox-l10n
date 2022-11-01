@@ -4,8 +4,11 @@
 
 url-classifier-search-title = Ҷустуҷӯ
 url-classifier-search-result-title = Натиҷаҳо
+url-classifier-search-result-uri = Нишонии URI: { $uri }
+url-classifier-search-result-list = Рӯйхати ҷадвалҳо: { $list }
 url-classifier-search-input = Нишонии URL
 url-classifier-search-error-invalid-url = Нишонии URL беэътибор аст
+url-classifier-search-error-no-features = Ягон хусусият интихоб карда нашуд
 url-classifier-search-btn = Оғози ҷустуҷӯ
 url-classifier-search-features = Хусусиятҳо
 url-classifier-search-listType = Намуди рӯйхат
@@ -23,4 +26,5 @@ url-classifier-cache-table-name = Номи ҷадвал
 url-classifier-not-available = Дастнорас
 url-classifier-enabled = Фаъол аст
 url-classifier-disabled = Ғайрифаъол аст
+url-classifier-update-error = хатои навсозӣ ({ $error })
 url-classifier-download-error = хатои боргирӣ ({ $error })
