@@ -34,4 +34,6 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kom i gang
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Rediger PDF-ar med det nye tekstverktøyet vårt
+callout-pdfjs-edit-body-a = Fyll ut skjema, legg til kommentarar eller ta notat direkte i { -brand-short-name }.
 callout-pdfjs-edit-button = Neste
+callout-pdfjs-draw-button = Eg forstår!

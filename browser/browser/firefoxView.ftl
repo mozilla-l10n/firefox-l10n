@@ -17,7 +17,6 @@ firefoxview-just-now-timestamp = Akkurat no
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Synkroniserte faner
 firefoxview-tabpickup-description = Opne sider frå andre einingar.
-firefoxview-tabpickup-recenttabs-description = Lista over siste faner vil visast her
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue } % fullført
@@ -43,6 +42,7 @@ firefoxview-tabpickup-sync-error-primarybutton = Prøv igjen
 firefoxview-tabpickup-sync-disconnected-header = Slå på synkronisering for å halde fram
 firefoxview-tabpickup-sync-disconnected-description = For å få tilgang til fanene dine må du aktivere synkronisering i { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Slå på synkronisering i innstillingane
+firefoxview-tabpickup-password-locked-link = Les meir
 firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tek berre ein augneblink.
 firefoxview-mobile-promo-header = Opne faner frå telefonen eller nettbrettet
 firefoxview-mobile-promo-description = For å sjå dei siste mobilfanene dine, logg på { -brand-product-name } på iOS eller Android.
@@ -50,7 +50,6 @@ firefoxview-mobile-promo-primarybutton = Få { -brand-product-name } for mobil
 firefoxview-mobile-confirmation-header = 🎉 Alt klart!
 firefoxview-mobile-confirmation-description = No kan du hente { -brand-product-name }-fanene frå nettbrettet eller telefonen.
 firefoxview-closed-tabs-title = Nyleg attlatne
-firefoxview-closed-tabs-description = Opne sider du har late att, på denne eininga, på nytt.
 firefoxview-closed-tabs-description2 = Opne på nytt sider du har late att i dette vindauget.
 firefoxview-closed-tabs-placeholder = <strong>Ingen nylege attlatne sider</strong><br/>Frykt ikkje å miste ei attlaten fane igjen. Du kan alltids hente henne her.
 # refers to the last tab that was used
