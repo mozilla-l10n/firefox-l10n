@@ -34,8 +34,8 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Začnite
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Urejajte datoteke PDF z našim novim orodjem za besedilo
-callout-pdfjs-edit-body-a = Izpolnite obrazce, dodajte komentarje ali tipkajte zapiske neposredno v { -brand-short-name(sklon: "mestnik") }
-callout-pdfjs-edit-body-b = Prihranite si iskanje brezplačnih spletnih urejevalnikov. Izpolnite obrazce, dodajte komentarje ali tipkajte zapiske neposredno v { -brand-short-name(sklon: "mestnik") }
+callout-pdfjs-edit-body-a = Izpolnite obrazce, dodajte komentarje ali tipkajte zapiske neposredno v { -brand-short-name(sklon: "mestnik") }.
+callout-pdfjs-edit-body-b = Prihranite si iskanje brezplačnih spletnih urejevalnikov. Izpolnite obrazce, dodajte komentarje ali tipkajte zapiske neposredno v { -brand-short-name(sklon: "mestnik") }.
 callout-pdfjs-edit-button = Naprej
 callout-pdfjs-draw-title = Podpisujte dokumente z našim novim orodjem za risanje
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
