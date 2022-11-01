@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Dumber da giadas ch'il cache è plaun
 about-networking-rcwn-cache-not-slow = Dumber da giadas ch'il cache è svelt
 about-networking-networkid = ID da la rait
 about-networking-networkid-id = ID da la rait
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Questa pagina è vegnida spustada en <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 

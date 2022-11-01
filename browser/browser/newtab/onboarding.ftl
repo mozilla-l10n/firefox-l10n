@@ -323,7 +323,6 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar dad in a
 
 mr2022-onboarding-colorway-title = Tscherna la colur che inspirescha tai
 mr2022-onboarding-colorway-subtitle = Vuschs independentas pon midar la societad.
-mr2022-onboarding-colorway-primary-button-label = Definir la cumbinaziun da colurs
 mr2022-onboarding-colorway-primary-button-label-continue = Configurar e cuntinuar
 mr2022-onboarding-existing-colorway-checkbox-label = Utilisescha { -firefox-home-brand-name } per ina pagina da partenza plain colurs
 mr2022-onboarding-colorway-label-default = Standard
@@ -401,3 +400,29 @@ mr2022-onboarding-gratitude-title = Ti ans gidas da crear in meglier web.
 mr2022-onboarding-gratitude-subtitle = Grazia per utilisar { -brand-short-name } da la Mozilla Foundation. Cun tes agid lavurain nus per crear in internet pli avert, accessibel e meglier per mintgin.
 mr2022-onboarding-gratitude-primary-button-label = Scuvrir las novaziuns
 mr2022-onboarding-gratitude-secondary-button-label = Cumenzar a navigar
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Ta senta da chasa
+onboarding-infrequent-import-subtitle = Tuttina sche ti es qua per restar u be da passagi, ta regorda che ti pos importar tes segnapaginas, pleds-clav e dapli.
+onboarding-infrequent-import-primary-button = Importar en { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Ina persuna che lavura cun in laptop, circumdada da stailas e flurs
+mr2022-onboarding-default-image-alt =
+    .aria-label = Ina persuna che embratscha il logo da { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Ina persuna sin in skateboard cun ina stgatla dad iconas da software
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Raunas siglian sur rosas da l'aua cun in code QR en il center che serva a telechargiar { -brand-product-name } per apparats mobils
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Ina batgetta magica fa cumparair il logo dal modus privat da { -brand-product-name } ord in chapè
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = High five dad in maun cun pel stgira ed in cun pel clera
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vista dad in tramunt tras ina fanestra cun ina vulp ed ina planta da chasa sin il curnisch
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = In maun dissegna in collascha colurada da graffitis cun in egl verd, in chalzer oransch, ina balla-basket cotschna, uregliers violets, in cor blau ed ina curuna melna

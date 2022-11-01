@@ -17,7 +17,6 @@ firefoxview-just-now-timestamp = Gist ussa
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Tabs sincronisads
 firefoxview-tabpickup-description = Avra paginas dad auters apparats.
-firefoxview-tabpickup-recenttabs-description = La glista tals tabs utilisads dacurt vegniss mussada qua
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = Cumplettà per { $percentValue }%
@@ -43,6 +42,10 @@ firefoxview-tabpickup-sync-error-primarybutton = Empruvar anc ina giada
 firefoxview-tabpickup-sync-disconnected-header = Activescha la sincronisaziun per cuntinuar
 firefoxview-tabpickup-sync-disconnected-description = Per ir per tes tabs stos ti permetter a { -brand-short-name } da sincronisar.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Activar la sincronisaziun en ils parameters
+firefoxview-tabpickup-password-locked-header = Endatescha tes pled-clav universal per vesair ils tabs
+firefoxview-tabpickup-password-locked-description = Per ir per tes tabs stos ti endatar il pled-clav universal per { -brand-short-name }.
+firefoxview-tabpickup-password-locked-link = Ulteriuras infurmaziuns
+firefoxview-tabpickup-password-locked-primarybutton = Endatar il pled-clav universal
 firefoxview-tabpickup-syncing = Spetga per plaschair durant che tes tabs vegnan sincronisads. I cuzza be in amen.
 firefoxview-mobile-promo-header = Va per tabs da tes telefonin u tablet
 firefoxview-mobile-promo-description = Per laschar mussar ils ultims tabs da l'apparat mobil, t'annunzia en { -brand-product-name } sin iOS u Android.
@@ -50,7 +53,6 @@ firefoxview-mobile-promo-primarybutton = Va per { -brand-product-name } per appa
 firefoxview-mobile-confirmation-header = 🎉 Tut pront!
 firefoxview-mobile-confirmation-description = Ussa pos ti ir per tes tabs da { -brand-product-name } da tes tablet u telefonin.
 firefoxview-closed-tabs-title = Serrà dacurt
-firefoxview-closed-tabs-description = Avra danovamain paginas che ti has serrà sin quest apparat.
 firefoxview-closed-tabs-description2 = Avra danovamain paginas che ti has serrà en questa fanestra.
 firefoxview-closed-tabs-placeholder = <strong>Naginas paginas serradas dacurt</strong><br/>Ti na stos mai pli temair da perder in tab serrà. Ti al chattas adina qua.
 # refers to the last tab that was used
