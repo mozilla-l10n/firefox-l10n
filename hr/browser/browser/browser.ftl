@@ -285,6 +285,28 @@ quickactions-extensions = Upravljaj proširenjima
 quickactions-cmd-extensions = proširenja
 # Opens the devtools web inspector
 quickactions-inspector = Otvori inspektora
+quickactions-cmd-inspector = inspektor, programerski alati
+# Opens about:logins
+quickactions-logins = Pogledaj prijave
+quickactions-cmd-logins = prijave, lozinke
+# Opens about:addons page in the plugins section
+quickactions-plugins = Upravljaj priključcima
+quickactions-cmd-plugins = priključci
+# Opens the print dialog
+quickactions-print = Ispis
+quickactions-cmd-print = ispis
+# Restarts the browser
+quickactions-restart = Ponovo pokreni { -brand-short-name }
+quickactions-cmd-restart = ponovo pokreni
+# Opens the screenshot tool
+quickactions-screenshot2 = Snimi ekran
+quickactions-cmd-screenshot = snimka ekrana
+# Opens about:preferences
+quickactions-settings = Otvori postavke
+quickactions-cmd-settings = postavke, osobne postavke, opcije
+# Opens about:addons page in the themes section
+quickactions-themes = Upravljaj temama
+quickactions-cmd-themes = teme
 
 ## Bookmark Panel
 
