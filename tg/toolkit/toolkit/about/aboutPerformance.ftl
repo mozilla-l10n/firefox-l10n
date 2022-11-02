@@ -9,11 +9,15 @@ about-performance-title = Мудири вазифаҳо
 
 column-name = Ном
 column-type = Навъ
+column-energy-impact = Масрафи қувва
 column-memory = Ҳофиза
 
 ## Special values for the Name column
 
 ghost-windows = Варақаҳои ба наздикӣ пӯшидашуда
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Пешакӣ бор карда шуд: { $title }
 
 ## Values for the Type column
 
@@ -49,4 +53,3 @@ close-tab =
     .title = Пӯшидани варақа
 show-addon =
     .title = Намоиш додан дар мудири ҷузъҳои иловагӣ
-

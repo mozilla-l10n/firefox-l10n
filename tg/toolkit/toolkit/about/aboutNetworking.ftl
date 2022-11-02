@@ -12,6 +12,7 @@ about-networking-dns-trr-mode = Реҷаи DoH
 about-networking-dns-suffix = Пасванди DNS
 about-networking-websockets = Бастагоҳҳои интернетӣ (WebSockets)
 about-networking-refresh = Нав кардан
+about-networking-auto-refresh = Навкунии худкор ҳар 3 сония
 about-networking-hostname = Номи мизбон
 about-networking-port = Порт
 about-networking-http-version = Силсилаи HTTP
@@ -25,6 +26,8 @@ about-networking-received = Қабул шуд
 about-networking-family = Оила
 about-networking-trr = TRR
 about-networking-addresses = Нишониҳо
+about-networking-expires = Ба анҷом мерасад (Сонияҳо)
+about-networking-originAttributesSuffix = Калиди ҷудогузорӣ
 about-networking-flags = Байрақчаҳои иловагӣ
 about-networking-messages-sent = Паёмҳои ирсолшуда
 about-networking-messages-received = Паёмҳои қабулшуда
@@ -47,12 +50,28 @@ about-networking-dns-lookup-table-column = Нишониҳои IP
 about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = Омори RCWN
 about-networking-rcwn-status = Вазъияти RCWN
+about-networking-rcwn-cache-won-count = Шумораи нафъҳои зерҳофиза
+about-networking-rcwn-net-won-count = Шумораи нафъҳои шабака
+about-networking-total-network-requests = Шумораи умумии дархостҳои шабака
+about-networking-rcwn-operation = Амалиёти зерҳофиза
 about-networking-rcwn-perf-open = Кушода
 about-networking-rcwn-perf-read = Хондашуда
 about-networking-rcwn-perf-write = Сабтшуда
+about-networking-rcwn-perf-entry-open = Вурудҳои кушода
+about-networking-rcwn-avg-short = Ҳисоби миёнаи кутоҳ
+about-networking-rcwn-avg-long = Ҳисоби миёнаи дароз
+about-networking-rcwn-std-dev-long = Инҳирофи стандартии дароз
+about-networking-rcwn-cache-slow = Ҳисобкунаки зерҳофизаи суст
+about-networking-rcwn-cache-not-slow = Ҳисобкунаки зерҳофизаи ғайри суст
+about-networking-networkid = Рақами мушаххаси шабака
+about-networking-networkid-id = Рақами мушаххаси шабака
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Ин саҳифа ба <a data-l10n-name="about-logging-url">about:logging</a> интиқол дода шуд.
 
 ## Link is intended as "network link"
 
+about-networking-networkid-is-up = Пайванд фаъол аст
+about-networking-networkid-status-known = Вазъияти пайванд маълум аст
 
 ##
 

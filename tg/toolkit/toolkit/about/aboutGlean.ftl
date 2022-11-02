@@ -10,4 +10,6 @@ about-glean-description = <a data-l10n-name="glean-sdk-doc-link">«Glean SDK»</
 about-glean-warning = Истифодаи нодурусти ин интерфейс метавонад кори «{ -brand-short-name }»-ро вайрон кунад.
 tag-pings-label = Барчаспзании ҳамаи пингҳои ирсолшуда бо ин барчасп
 log-pings-label = Сарбории пингро пеш аз ирсол сабт мекунед?
+send-pings-label = Фиристодани пинги муайяншуда
 controls-button-label = Татбиқ кардани танзимот
+controls-button-label-verbose = Татбиқ кардани танзимот ва фиристодани пинг
