@@ -38,11 +38,47 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privatno pregledavanje)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privatno pregledavanje)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } privatno pregledavanje
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name } privatno pregledavanje
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – privatno pregledavanje
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } – privatno pregledavanje
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } privatno pregledavanje
 
 ##
 
@@ -118,6 +154,7 @@ urlbar-tabtosearch-onboard = Odaberi ovaj prečac za brže pronalaženje onoga �
 urlbar-search-mode-bookmarks = Zabilješke
 urlbar-search-mode-tabs = Kartice
 urlbar-search-mode-history = Povijest
+urlbar-search-mode-actions = Radnje
 
 ##
 
@@ -160,6 +197,9 @@ page-action-manage-extension =
     .label = Upravljaj proširenjem …
 page-action-remove-extension =
     .label = Ukloni porširenje
+page-action-manage-extension2 =
+    .label = Upravljaj proširenjem …
+    .accesskey = e
 
 ## Auto-hide Context Menu
 
