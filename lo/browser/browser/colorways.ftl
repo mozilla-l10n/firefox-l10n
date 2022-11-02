@@ -9,6 +9,8 @@
 ## Colorway names and descriptions
 
 playmaker-colorway-name = ຜູ້ຫຼິ້ນ
+expressionist-colorway-name = ນັກສະແດງ
 visionary-colorway-name = ຜູ້ມີວິໄສທັດ
+activist-colorway-name = ນັກເຄື່ອນໄຫວ
 dreamer-colorway-name = ຄົນຊ່າງຝັນ
 innovator-colorway-name = ຜູ້ປະດິດສ້າງ

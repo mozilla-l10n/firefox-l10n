@@ -13,3 +13,8 @@ callout-primary-complete-button-label = ເຂົ້າໃຈແລ້ວ!
 ## Continuous Onboarding - Firefox View: Tab pick up
 
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ເລີ່ມຕົ້ນໃຊ້ງານ
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-button = ຕໍ່ໄປ
+callout-pdfjs-draw-button = ເຂົ້າໃຈແລ້ວ!

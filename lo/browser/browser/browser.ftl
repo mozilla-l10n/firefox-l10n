@@ -149,6 +149,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
 search-one-offs-context-open-new-tab =
@@ -409,6 +412,7 @@ urlbar-result-action-calculator-result = = { $result }
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-history = ຊອກຫາປະຫວັດການໃຊ້ງານ
+urlbar-result-action-search-actions = ຄຳສັ່ງການຄົ້ນຫາ
 
 ## Labels shown above groups of urlbar results
 
@@ -445,6 +449,9 @@ pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບ
 
 crashed-subframe-learnmore-link =
     .value = ຮຽນຮູ້ເພີ່ມເຕີມ
+crashed-subframe-submit =
+    .label = ສົ່ງບົດລາຍງານ
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
