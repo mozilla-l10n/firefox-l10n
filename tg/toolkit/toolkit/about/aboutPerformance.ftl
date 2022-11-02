@@ -22,6 +22,7 @@ preloaded-tab = Пешакӣ бор карда шуд: { $title }
 ## Values for the Type column
 
 type-tab = Варақа
+type-subframe = Зерчорчӯба
 type-tracker = Воситаи пайгирӣ
 type-addon = Ҷузъи иловагӣ
 type-browser = Браузер
