@@ -45,13 +45,21 @@ about-telemetry-results-for-search = Натиҷаҳо барои «{ $searchTerm
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
-about-telemetry-no-search-results = Бубахшед! Ягон натиҷа дар { $sectionName } барои «{ $currentSearchText }» нест
+about-telemetry-no-search-results = Бубахшед! Ягон натиҷа дар { $sectionName } барои «{ $currentSearchText }» ёфт нашуд
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Бубахшед! Ягон натиҷа дар ягон қисмат барои «{ $searchTerms }» ёфт нашуд
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Бубахшед! Айни ҳол ягон маълумот дар «{ $sectionName }» дастрас нест
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = маълумоти ҷорӣ
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ҳама
 # button label to copy the histogram
 about-telemetry-histogram-copy = Нусха бардоштан
+about-telemetry-slow-sql-average = Вақти миёна (мс)
 about-telemetry-slow-sql-statement = Дастур
 about-telemetry-addon-table-details = Тафсилот
 # Variables:
