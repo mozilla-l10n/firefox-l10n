@@ -25,6 +25,11 @@ toolbox-meatball-menu-community-label = Ҷомеа…
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Реҷаи қуттии абзорҳои браузер
+toolbox-mode-browser-console-label = Реҷаи консоли браузер
 toolbox-mode-everything-label = Серраванд
 toolbox-mode-everything-sub-label = (Оҳистатар)
+toolbox-mode-everything-container =
+    .title = Ислоҳ кардани ҳамаи хатоҳо дар ҳамаи равандҳо
+toolbox-mode-parent-process-label = Танҳо раванди асосӣ
 toolbox-mode-parent-process-sub-label = (Зуд)

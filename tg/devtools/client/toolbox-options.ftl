@@ -41,6 +41,14 @@ options-stylesheet-autocompletion-label = Анҷомдиҳии худкор ба
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Рафтори гирифтани акси экран
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Акси экран танҳо дар ҳофизаи муваққатӣ
+options-screenshot-clipboard-tooltip2 =
+    .title = Нигоҳ доштани акси экран мустақиман ба ҳофизаи муваққатӣ
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Пахш кардани садои даричаи камера
 
 ## Editor section
 

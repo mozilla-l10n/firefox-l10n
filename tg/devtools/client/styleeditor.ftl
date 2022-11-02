@@ -32,3 +32,5 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Гузариш ба сатр…
     .accesskey = J
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Ягон варақаи услубҳои мувофиқ ёфт нашуд.
