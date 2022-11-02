@@ -200,6 +200,9 @@ page-action-remove-extension =
 page-action-manage-extension2 =
     .label = Upravljaj proširenjem …
     .accesskey = e
+page-action-remove-extension2 =
+    .label = Ukloni proširenje
+    .accesskey = l
 
 ## Auto-hide Context Menu
 
@@ -258,11 +261,30 @@ search-one-offs-tabs =
     .tooltiptext = Kartice ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Povijest ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Radnje ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Pregledaj dodatke
+quickactions-cmd-addons2 = dodaci
+# Opens the bookmarks library window
+quickactions-bookmarks = Pogledaj zabilješke
+quickactions-cmd-bookmarks = zabilješke
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Obriši povijest
+quickactions-cmd-clearhistory = obriši povijest
+# Opens about:downloads page
+quickactions-downloads = Otvori preuzimanja
+quickactions-cmd-downloads = preuzimanja
+# Opens about:addons page in the extensions section
+quickactions-extensions = Upravljaj proširenjima
+quickactions-cmd-extensions = proširenja
+# Opens the devtools web inspector
+quickactions-inspector = Otvori inspektora
 
 ## Bookmark Panel
 
