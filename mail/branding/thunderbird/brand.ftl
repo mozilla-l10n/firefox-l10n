@@ -55,3 +55,4 @@
         [ins] Mozillou
     }
     .gender = feminine
+trademarkInfo = Mozilla Thunderbird a logá Thunderbird sú ochranné známky patriace Mozilla Foundation.
