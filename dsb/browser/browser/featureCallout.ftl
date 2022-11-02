@@ -4,7 +4,6 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Dalej
-
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Som zrozměł!
 
@@ -13,20 +12,13 @@ callout-primary-complete-button-label = Som zrozměł!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Ze synchronizěrowanymi rejtarikami mjazy rědami skokaś
-
 callout-firefox-view-tab-pickup-subtitle = Wobstarajśo se wócynjone rejtariki ze swójogo telefona a wócyńśo je how za maksimalny źěłowy běg.
-
 callout-firefox-view-recently-closed-title = Wobstarajśo se zasej zacynjone rejtariki we zaskoku
-
 callout-firefox-view-recently-closed-subtitle = Wšykne waše zacynjone rejtariki se how ako wót njewidobneje ruki pokazuju. Njestarajśo se, až sedło hyšći raz zmólnje zacynjaśo.
-
 callout-firefox-view-colorways-title = Pśidajśo chrapku barwy
-
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Wubjeŕśo barwowy ton, kótaryž se wam z barwowymi kombinacijami spódoba. Jano w { -brand-product-name }.
-
 callout-firefox-view-colorways-reminder-title = Wuslěźćo naše nejnowše barwowe kombinacije
-
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Zabarwśo swój wobglědowak z toś tymi symbolowymi barwowymi tonami, inspirěrowany pśez njewótwisne głose. Jano w { -brand-product-name }.
 
@@ -36,7 +28,12 @@ callout-firefox-view-colorways-reminder-subtitle = Zabarwśo swój wobglědowak 
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Póspěšćo swóje pśeglědowanje z lisćinu rejtarikow
-
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Mějśo pśistup k swójim wócynjonym rejtarikam z někakegožkuli rěda. A synchronizěrujśo swóje cytańske znamjenja, gronidła a wěcej.
-
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Prědne kšace
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-title = Wobźěłajśo PDF z našym nowym rědom
+callout-pdfjs-edit-button = Dalej
+callout-pdfjs-draw-title = Signěrujśo dokumenty z našym nowym kresleńskim rědom
+callout-pdfjs-draw-button = Som to zrozměł!
