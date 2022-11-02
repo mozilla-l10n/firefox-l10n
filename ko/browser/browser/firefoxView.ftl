@@ -16,7 +16,7 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = 방금 전
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = 탭 받기
-firefoxview-tabpickup-description = 다른 기기로부터 페이지를 엽니다.
+firefoxview-tabpickup-description = 다른 기기의 페이지를 엽니다.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% 완료
