@@ -395,3 +395,17 @@ mr2022-onboarding-gratitude-secondary-button-label = 開始瀏覽
 onboarding-infrequent-import-title = 別客氣，當自己家
 onboarding-infrequent-import-subtitle = 不論您只是要暫時試用，還是已經決定好要使用，都可以匯入其他瀏覽器的書籤、密碼與其他資料。
 onboarding-infrequent-import-primary-button = 匯入 { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = 有人的周圍圍繞著星星與花朵，並且正在使用筆記型電腦
+mr2022-onboarding-default-image-alt =
+    .aria-label = 有人擁抱著 { -brand-product-name } 圖示
+mr2022-onboarding-import-image-alt =
+    .aria-label = 有人踩著滑板，還有一盒軟體圖示
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = 有隻青蛙跳過水蓮，正中間有一組能夠下載 { -brand-product-name } 行動版的 QR Code
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = 一支讓 { -brand-product-name } 隱私瀏覽圖示從帽子中冒出來的魔術棒
