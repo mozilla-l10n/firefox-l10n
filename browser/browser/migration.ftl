@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Importálás varázsló
-
 import-from =
     { PLATFORM() ->
         [windows] Beállítások, könyvjelzők, előzmények, jelszavak és egyéb adatok importálása a következő termékből:
        *[other] Beállítások, könyvjelzők, előzmények, jelszavak és egyéb adatok importálása a következő termékből:
     }
-
 import-from-bookmarks = Könyvjelzők importálása
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-opera =
+    .label = Opera
+    .accesskey = O
 import-from-brave =
     .label = Brave
     .accesskey = r
@@ -54,37 +55,23 @@ import-from-firefox =
 import-from-360se =
     .label = 360 biztonságos böngésző
     .accesskey = 3
-
 no-migration-sources = Nem található olyan program, amely könyvjelzőket, előzményeket vagy jelszóadatokat tartalmaz.
-
 import-source-page-title = Beállítások és adatok importálása
 import-items-page-title = Importálandó elemek
-
 import-items-description = Válassza ki az importálni kívánt elemeket:
-
 import-permissions-page-title = Kérjük adjon engedélyt a { -brand-short-name }nak
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = A macOS megköveteli, hogy kifejezetten engedélyezze, hogy a { -brand-short-name } elérje a Safari könyvjelzőit. Kattintson a „Folytatás” gombra és a megjelenő Fájl megnyitása panelen válassza ki a „Bookmarks.plist” fájlt.
-
 import-migrating-page-title = Importálás…
-
 import-migrating-description = A következő elemek importálása folyik…
-
 import-select-profile-page-title = Profil kiválasztása
-
 import-select-profile-description = A következő profilokból lehet importálni:
-
 import-done-page-title = Importálás befejeződött
-
 import-done-description = A következő elemek sikeresen importálva lettek:
-
 import-close-source-browser = Ne feledje el bezárni a kiválasztott böngészőt a folytatás előtt.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Olvasási lista (a Safariból)
 imported-edge-reading-list = Olvasási lista (az Edge-ből)
 
@@ -106,7 +93,6 @@ browser-data-cookies-checkbox =
     .label = Sütik
 browser-data-cookies-label =
     .value = Sütik
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +105,10 @@ browser-data-history-label =
             [firefox] Böngészési előzmények és könyvjelzők
            *[other] Böngészési előzmények
         }
-
 browser-data-formdata-checkbox =
     .label = Mentett űrlapadatok
 browser-data-formdata-label =
     .value = Mentett űrlapadatok
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +117,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Mentett bejelentkezések és jelszavak
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +131,10 @@ browser-data-bookmarks-label =
             [edge] Kedvencek
            *[other] Könyvjelzők
         }
-
 browser-data-otherdata-checkbox =
     .label = További adatok
 browser-data-otherdata-label =
     .label = További adatok
-
 browser-data-session-checkbox =
     .label = Ablakok és lapok
 browser-data-session-label =
