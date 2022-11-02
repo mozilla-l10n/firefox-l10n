@@ -19,3 +19,4 @@
 # remain unchanged across different versions (Daily, Beta, etc.).
 -brand-product-name = Thunderbird
 -vendor-short-name = Mozilla
+trademarkInfo = A Mozilla Thunderbird és a Thunderbird logó a Mozilla Foundation védjegye.
