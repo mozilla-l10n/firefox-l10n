@@ -44,6 +44,7 @@ firefoxview-tabpickup-sync-disconnected-description = For at synkronisere dine f
 firefoxview-tabpickup-sync-disconnected-primarybutton = Slå synkronisering til i indstillingerne
 firefoxview-tabpickup-password-locked-header = Indtast din hovedadgangskode for at se faneblade
 firefoxview-tabpickup-password-locked-description = For at hente dine faneblade skal du indtaste din hovedadgangskode for { -brand-short-name }.
+firefoxview-tabpickup-password-locked-link = Læs mere
 firefoxview-tabpickup-password-locked-primarybutton = Indtast hovedadgangskode
 firefoxview-tabpickup-syncing = Vent, mens vi synkroniserer dine faneblade. Det tager kun et øjeblik.
 firefoxview-mobile-promo-header = Hent faneblade fra din telefon eller tablet
