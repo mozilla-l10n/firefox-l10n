@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-show-current-data = Маълумоти ҷорӣ
+about-telemetry-choose-ping = Интихоби пинг:
+about-telemetry-archive-ping-type = Навъи пинг
+about-telemetry-archive-ping-header = Пинг
 about-telemetry-option-group-today = Имрӯз
 about-telemetry-option-group-yesterday = Дирӯз
 about-telemetry-option-group-older = Пештар
@@ -35,6 +38,14 @@ about-telemetry-filter-placeholder =
     .placeholder = Ҷустуҷӯ дар { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Ҷустуҷӯ дар ҳамаи қисматҳо
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = Натиҷаҳо барои «{ $searchTerms }»
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Бубахшед! Ягон натиҷа дар { $sectionName } барои «{ $currentSearchText }» нест
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = маълумоти ҷорӣ
 # used in the “Ping Type” select

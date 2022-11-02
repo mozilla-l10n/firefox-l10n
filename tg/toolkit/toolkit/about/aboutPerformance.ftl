@@ -54,3 +54,13 @@ close-tab =
     .title = Пӯшидани варақа
 show-addon =
     .title = Намоиш додан дар мудири ҷузъҳои иловагӣ
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Суръати интиқол аз лаҳзаи боркунӣ: { $totalDispatches } ({ $totalDuration } мс)
+        Суръати интиқол дар сонияҳои охирин: { $dispatchesSincePrevious } ({ $durationSincePrevious } мс)

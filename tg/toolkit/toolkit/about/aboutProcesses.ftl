@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Мудири равандҳо
-
 # The Actions column
 about-processes-column-action =
     .title = Амалҳо
@@ -15,6 +14,16 @@ about-processes-shutdown-process =
     .title = Холӣ кардани варақаҳо ва қатъ кардани равандҳо
 about-processes-shutdown-tab =
     .title = Пӯшидани варақа
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Профилсозии ҳамаи ҷараёнҳои ин раванд ба муддати { $duration } сония
+           *[other] Профилсозии ҳамаи ҷараёнҳои ин раванд ба муддати { $duration } сония
+        }
 
 ## Column headers
 
@@ -27,6 +36,7 @@ about-processes-column-cpu-total = CPU
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Раванди муштараки сомона ({ $pid })
 about-processes-file-process = Файлҳо ({ $pid })
 about-processes-extension-process = Васеъшавиҳо ({ $pid })
 about-processes-privilegedabout-process = Саҳифаҳои «About» ({ $pid })
@@ -37,7 +47,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Рамзёбии маълумот ({ $pid })
 about-processes-socket-process = Шабака ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -65,17 +74,24 @@ about-processes-inactive-threads =
         [one] { $number } ҷараёни ғайрифаъол
        *[other] { $number } ҷараёни ғайрифаъол
     }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Варақа: { $name }
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Зерчорчӯба: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Зерчорчӯбаҳо ({ $number }): { $shortUrl }
 
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = Иштирокдори номаълум
 about-processes-utility-actor-audio-decoder = Рамзкушоии аудио
-
 about-processes-utility-actor-audio-decoder-generic = Рамзкушоии умумии аудио
 about-processes-utility-actor-audio-decoder-applemedia = Рамзкушоии аудиоии «Apple Media»
 about-processes-utility-actor-audio-decoder-wmf = Рамзкушоии аудиоии «Windows Media Framework»
@@ -93,15 +109,12 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media E
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Вақти умумии CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (андозагирӣ)
-
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = Вақти умумии CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = ғайрифаъол
     .title = Вақти умумии CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -120,7 +133,6 @@ about-processes-cpu-fully-idle = ғайрифаъол
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Вусъатдиҳӣ: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
