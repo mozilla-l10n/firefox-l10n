@@ -67,6 +67,7 @@ pocket-panel-home-new-user-message = Vide hic tu recente salvamentos.
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Vider mi lista
+pocket-panel-header-my-saves = Vider mi salvamentos
 pocket-panel-header-sign-in = Aperir session
 
 ## Pocket panel buttons
