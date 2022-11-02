@@ -199,6 +199,7 @@ newtab-section-header-pocket = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟ�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ᱡᱷᱚᱛᱚ ᱧᱮᱞ ᱦᱩᱭ ᱠᱮᱜᱼᱟᱢ !
 newtab-discovery-empty-section-topstories-try-again-button = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ
 newtab-discovery-empty-section-topstories-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ …
 

@@ -188,6 +188,8 @@ mr2022-background-update-toast-primary-button-label = ᱱᱤᱛᱚᱜ { -brand-s
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+    .accesskey = T
 firefoxview-cfr-secondarybutton = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = N
 

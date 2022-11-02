@@ -13,3 +13,8 @@ callout-primary-complete-button-label = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟᱹᱧ
 ## Continuous Onboarding - Firefox View: Tab pick up
 
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ᱫᱮᱞᱟ ᱮᱛᱦᱚᱵ ᱞᱮᱜᱮ ᱵᱚᱱ
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-button = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
+callout-pdfjs-draw-button = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟᱹᱧ!

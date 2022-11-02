@@ -12,6 +12,10 @@ panic-button-forget-button =
 ## Please ensure that this remains the case in the translation.
 
 panic-main-timeframe-desc = ᱢᱟᱲᱟᱝᱟᱜ ᱦᱤᱲᱤᱧ ᱢᱮ :
+panic-button-2hr =
+    .label = ᱵᱟᱨᱭᱟ ᱴᱟᱲᱟᱝ
+panic-button-day =
+    .label = 24 ᱴᱟᱲᱟᱝ
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-button-action-desc. For example: "Proceeding will: Delete Recent Cookies".
