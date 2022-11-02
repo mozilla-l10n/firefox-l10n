@@ -665,6 +665,10 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad pokazivačem. Pri
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dio ove stranice se srušio.</strong> Da bi { -brand-product-name } znao za ovu grešku i ispravio je, pošalji izvješće.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Dio ove stranice se ne može prikazati. Obavijesti { -brand-product-name } o ovom problemu i pošalji izvještaj kako bi se problem što brže ispravio.
 crashed-subframe-learnmore-link =
     .value = Saznaj više
 crashed-subframe-submit =
@@ -716,6 +720,8 @@ bookmarks-tools =
     .label = Alatna traka zabilješki
 bookmarks-bookmark-edit-panel =
     .label = Uredi ovu zabilješku
+bookmarks-subview-edit-bookmark =
+    .label = Uredi ovu zabilješku …
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -732,6 +738,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Zabilježi trenutnu karticu
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Zabilježi trenutačnu karticu …
 
 ## Library Panel items
 
@@ -836,6 +845,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne prikazuj ovu poruku kod blokiranja skočnih prozora
     .accesskey = v
+edit-popup-settings =
+    .label = Upravljaj postavkama skočnih prozora …
+    .accesskey = U
 picture-in-picture-hide-toggle =
     .label = Sakrij prekidač za slika-u-sliku
     .accesskey = S
@@ -843,6 +855,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Premjesti preklopnik za slika-u-slici na desnu stranu
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Premjesti preklopnik za slika-u-slici na lijevu stranu
+    .accesskey = l
 
 ##
 
