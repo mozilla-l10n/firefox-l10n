@@ -410,7 +410,19 @@ onboarding-infrequent-import-primary-button = Uvozi v { -brand-short-name(sklon:
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Oseba s prenosnim računalnikom, ki jo obdajajo zvezde in cvetje
 mr2022-onboarding-default-image-alt =
     .aria-label = Oseba, ki objema logotip { -brand-product-name(sklon: "rodilnik") }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Oseba, ki se vozi na rolki s polno škatlo programskih ikon
 mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Žabe, ki skačejo z lokvanja na lokvanj, s kodo QR za prenos mobilnega { -brand-product-name(sklon: "rodilnik") } v sredini
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Čarobna paličica pričara logotip { -brand-product-name }ovega zasebnega brskanja iz klobuka
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Svetlopolta in temnopolta roka si čestitata
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Pogled na sončni zahod skozi okno, na katerem počivata lisica in lončnica
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Roka z razpršilcem slika barvit kolaž z zelenim očesom, oranžnim čevljem, rdečo košarkarsko žogo, vijoličnimi slušalkami, modrim srcem in rumeno krono
