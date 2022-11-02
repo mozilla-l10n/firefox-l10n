@@ -424,3 +424,5 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Lyshudede og mørkhudede hænder giver hinanden en high-five
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Udsigt til en solnedgang gennem et vindue med en ræv og en stueplante i en vindueskarm
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = En hånd spraymaler en farverig kollage bestående af et grønt øje, en orange sko, en rød basketball, lilla hovedtelefoner, et blåt hjerte og en gul krone
