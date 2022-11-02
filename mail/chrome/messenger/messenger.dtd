@@ -682,7 +682,7 @@
 <!ENTITY fromColumn2.tooltip "Размеркаваць па адпраўнікам">
 <!ENTITY recipientColumn2.tooltip "Размеркаваць па атрымальнікам">
 <!ENTITY correspondentColumn2.tooltip "Сартаваць па карэспандэнтам">
-<!ENTITY subjectColumn2.tooltip "Размеркаваць па тэмам">
+<!ENTITY subjectColumn2.tooltip "Размеркаваць па тэмах">
 <!ENTITY dateColumn2.tooltip "Размеркаваць па датам">
 <!ENTITY priorityColumn2.tooltip "Размеркаваць па прыярытэтам">
 <!ENTITY tagsColumn2.tooltip "Размеркаваць па мецінам">
