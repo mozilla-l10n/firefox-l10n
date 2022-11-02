@@ -307,6 +307,15 @@ quickactions-cmd-settings = postavke, osobne postavke, opcije
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljaj temama
 quickactions-cmd-themes = teme
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Aktualiziraj { -brand-short-name }
+quickactions-cmd-update = aktualiziraj
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Pogledaj izvorni kod
+quickactions-cmd-viewsource = pogledaj izvorni kod, izvorni kod
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Saznaj više o brzim radnjama
 
 ## Bookmark Panel
 
@@ -495,6 +504,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Kako biste koristili F12 prečicu, prvo otvorite DevTools putem izbornika Web Developer.
+enable-devtools-popup-description2 = Za korištenje prečaca F12 najprije otvori programerske alate putem izbornika „Alati”.
 
 ## URL Bar
 
@@ -530,6 +540,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Upiši tražene pojmove
     .aria-label = Pretraži kartice
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Upiši tražene pojmove
+    .aria-label = Traži radnje
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -605,6 +619,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Pretraži zabilješke
 urlbar-result-action-search-history = Pretraži povijest
 urlbar-result-action-search-tabs = Pretraži kartice
+urlbar-result-action-search-actions = Traži radnje
 
 ## Labels shown above groups of urlbar results
 
@@ -618,6 +633,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } prijedlozi
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Brze radnje
 
 ## Reader View toolbar buttons
 
