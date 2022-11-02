@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Importguiden
-
 import-from =
     { PLATFORM() ->
         [windows] Importera inställningar, bokmärken, historik, lösenord och annan data från:
        *[other] Importera inställningar, bokmärken, historik, lösenord och annan data från:
     }
-
 import-from-bookmarks = Importera bokmärken från:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-opera =
+    .label = Opera
+    .accesskey = O
 import-from-brave =
     .label = Brave
     .accesskey = r
@@ -54,37 +55,23 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Hittade inget program som innehåller bokmärken, historik eller lösenord.
-
 import-source-page-title = Importera inställningar och data
 import-items-page-title = Objekt som ska importeras
-
 import-items-description = Välj poster att importera:
-
 import-permissions-page-title = Ge { -brand-short-name } behörigheter
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS kräver att du uttryckligen tillåter { -brand-short-name } att komma åt Safaris bokmärken. Klicka på "Fortsätt" och välj filen "Bookmarks.plist" i panelen öppna fil som visas.
-
 import-migrating-page-title = Importerar…
-
 import-migrating-description = Följande poster importeras för närvarande…
-
 import-select-profile-page-title = Välj profil
-
 import-select-profile-description = Följande profiler är tillgängliga att importera från:
-
 import-done-page-title = Import slutförd
-
 import-done-description = Följande poster har importerats:
-
 import-close-source-browser = Kontrollera att den valda webbläsaren är stängd innan du fortsätter.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Läslista (från Safari)
 imported-edge-reading-list = Läslista (från Edge)
 
@@ -106,7 +93,6 @@ browser-data-cookies-checkbox =
     .label = Kakor
 browser-data-cookies-label =
     .value = Kakor
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +105,10 @@ browser-data-history-label =
             [firefox] Webbhistorik och bokmärken
            *[other] Webbhistorik
         }
-
 browser-data-formdata-checkbox =
     .label = Sparad formulärdata
 browser-data-formdata-label =
     .value = Sparad formulärdata
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +117,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Sparade inloggningar och lösenord
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +131,10 @@ browser-data-bookmarks-label =
             [edge] Favoriter
            *[other] Bokmärken
         }
-
 browser-data-otherdata-checkbox =
     .label = Annan data
 browser-data-otherdata-label =
     .label = Annan data
-
 browser-data-session-checkbox =
     .label = Fönster och flikar
 browser-data-session-label =
