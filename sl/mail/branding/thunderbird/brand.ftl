@@ -51,3 +51,4 @@
         [mestnik] Mozilli
         [orodnik] Mozillo
     }
+trademarkInfo = Mozilla Thunderbird in logotip Thunderbirda sta blagovni znamki Mozilla Foundation.
