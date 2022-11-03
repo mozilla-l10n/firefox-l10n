@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Sync
+
+appmenu-sync-panel-title =
+    .title = Eşitle
+appmenu-sync-account =
+    .value = kullanici@example.com
+
 ## New Account
 
 appmenu-new-account-panel-title =
@@ -68,11 +75,6 @@ appmenu-create-contact =
 
 ## Open
 
-appmenu-open-panel =
-    .label = Aç
-    .accesskey = A
-appmenu-open-panel-title =
-    .title = Aç
 appmenu-open-file-panel =
     .label = Dosyadan aç
     .accesskey = D
