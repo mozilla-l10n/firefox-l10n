@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = 新增標籤
-
 pocket-panel-saved-error-generic = 嘗試儲存至 { -pocket-brand-name } 時發生錯誤。
 pocket-panel-saved-error-tag-length = 標籤僅能有 25 字元
 pocket-panel-saved-error-only-links = 僅能儲存鏈結
@@ -23,6 +22,7 @@ pocket-panel-saved-page-saved = 已儲存至 { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = 已儲存至 { -pocket-brand-name }！
 pocket-panel-saved-processing-remove = 正在移除頁面…
 pocket-panel-saved-removed = 已從「我的清單」中移除頁面
+pocket-panel-saved-removed-updated = 已從「儲存項目」移除頁面
 pocket-panel-saved-processing-tags = 正在新增標籤…
 pocket-panel-saved-remove-page = 移除頁面
 pocket-panel-saved-save-tags = 儲存
@@ -30,7 +30,6 @@ pocket-panel-saved-saving-tags = 儲存中…
 pocket-panel-saved-suggested-tags = 建議的標籤
 pocket-panel-saved-tags-saved = 已新增標籤
 pocket-panel-signup-view-list = 檢視清單
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = 新增標籤:
 
@@ -45,11 +44,12 @@ pocket-panel-signup-signup-firefox = 使用 { -brand-product-name } 註冊
 pocket-panel-signup-tagline = 隨時隨地在任何裝置上的 { -brand-product-name } 來儲存文章與影片，稍後再用 { -pocket-brand-name } 開啟。
 pocket-panel-signup-tagline-story-one = 在 { -brand-product-name } 中點擊 { -pocket-brand-name } 按鈕來儲存任何文章、影片或網頁。
 pocket-panel-signup-tagline-story-two = 隨時隨地在任何裝置上用 { -pocket-brand-name } 檢視。
-
 pocket-panel-signup-cta-a-fix = 您在網路上的存檔按鈕
 pocket-panel-signup-cta-b = 點擊 { -pocket-brand-name } 按鈕即可將文章、影片、連結儲存下來，之後再隨時隨地在任何裝置檢視儲存清單。
+pocket-panel-signup-cta-b-updated = 點擊 { -pocket-brand-name } 按鈕即可將文章、影片、鏈結儲存下來，之後再隨時隨地在任何裝置檢視儲存項目。
 pocket-panel-signup-cta-b-short = 點擊 { -pocket-brand-name } 按鈕即可將文章、影片、連結儲存下來。
 pocket-panel-signup-cta-c = 隨時隨地在任何裝置檢視儲存清單。
+pocket-panel-signup-cta-c-updated = 隨時在任何裝置檢視您儲存的項目。
 
 ## about:pocket-home panel
 
@@ -59,7 +59,6 @@ pocket-panel-home-paragraph = 您可以使用 { -pocket-brand-name } 來探索�
 pocket-panel-home-explore-popular-topics = 探索熱門主題
 pocket-panel-home-discover-more = 探索更多
 pocket-panel-home-explore-more = 探索
-
 pocket-panel-home-most-recent-saves = 以下是您最近儲存的項目:
 pocket-panel-home-most-recent-saves-loading = 正在載入近期儲存項目…
 pocket-panel-home-new-user-cta = 點擊 { -pocket-brand-name } 按鈕即可將文章、影片、連結儲存下來。
@@ -68,6 +67,7 @@ pocket-panel-home-new-user-message = 在此查看您最近儲存的內容。
 ## Pocket panel header component
 
 pocket-panel-header-my-list = 檢視我的清單
+pocket-panel-header-my-saves = 檢視我儲存的項目
 pocket-panel-header-sign-in = 登入
 
 ## Pocket panel buttons
