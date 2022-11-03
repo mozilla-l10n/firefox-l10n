@@ -406,3 +406,23 @@ mr2022-onboarding-gratitude-secondary-button-label = Beginnen met browsen
 onboarding-infrequent-import-title = Doe alsof u thuis bent
 onboarding-infrequent-import-subtitle = Of u zich nu aan het settelen bent of gewoon langskomt, onthoud dat u uw bladwijzers, wachtwoorden en meer kunt importeren.
 onboarding-infrequent-import-primary-button = Importeren in { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persoon die op een laptop werkt, omringd door sterren en bloemen
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persoon die het { -brand-product-name }-logo omhelst
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persoon die op een skateboard rijdt met een doos met softwarepictogrammen
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Kikkers springen over waterlelies met een QR-code om { -brand-product-name } voor mobiel te downloaden in het midden
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Toverstaf laat het { -brand-product-name }-privénavigatielogo uit een hoed verschijnen
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Lichte en donkere handen geven een high five
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Uitzicht op een zonsondergang door een raam met een vos en een kamerplant op een vensterbank
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Een hand spuit een kleurrijke collage van een groen oog, oranje schoen, rode basketbal, paarse koptelefoon, blauw hart en gele kroon
