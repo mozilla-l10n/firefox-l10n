@@ -406,3 +406,19 @@ mr2022-onboarding-gratitude-secondary-button-label = Start mei browsen
 onboarding-infrequent-import-title = Doch as oft jo thús binne
 onboarding-infrequent-import-subtitle = Oft jo no bliuwe of gewoan delkomme, ûnthâld dat jo jo blêdwizers, wachtwurden en mear ymportearje kinne.
 onboarding-infrequent-import-primary-button = Ymportearje yn { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persoan dy't wurket op in laptop omjûn troch stjerren en blommen
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persoan dy’t it { -brand-product-name }-logo oankrûpt
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persoan dy’t op in skateboard rydt mei in doaze mei softwarepiktogrammen
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Kikkerts dy’t oer pompeblêden springe mei in QR-koade om { -brand-product-name } te downloaden foar mobyl yn it midden
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Toverstêf lit it { -brand-product-name }-priveenavigaasjelogo út in ferskine
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Lichte en donkere hannen dogge in high five
