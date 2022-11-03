@@ -53,6 +53,23 @@ menu-help-troubleshooting-info =
 menu-help-about-product =
     .label = Davart { -brand-short-name }
     .accesskey = a
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Terminar
+           *[other] Terminar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] T
+           *[other] T
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Terminar { -brand-shorter-name }
+quit-app-shortcut =
+    .key = T
 
 ## Mail Toolbar
 

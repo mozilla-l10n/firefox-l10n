@@ -3,6 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Sync
+
+appmenu-sync-panel-title =
+    .title = Sincronisar
+appmenu-signin-panel =
+    .label = S'annunziar tar Sync
+    .accesskey = i
+appmenu-sync-sync =
+    .value = Conto da Sync
+    .accesskey = S
+appmenu-sync-manage =
+    .value = Administrar il conto
+    .accesskey = A
+appmenu-sync-account =
+    .value = example@example.com
+
 ## New Account
 
 appmenu-new-account-panel-title =
@@ -68,11 +84,11 @@ appmenu-create-contact =
 
 ## Open
 
-appmenu-open-panel =
-    .label = Avrir
-    .accesskey = A
-appmenu-open-panel-title =
-    .title = Avrir
+appmenu-open-file-panel =
+    .label = Avrir ord datoteca
+    .accesskey = v
+appmenu-open-file-panel-title =
+    .title = Avrir ord datoteca
 appmenu-open-message =
     .label = Messadi…
     .accesskey = M
