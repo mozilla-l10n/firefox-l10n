@@ -8,6 +8,7 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Танзимоти профилсоз
+perftools-intro-description = Сабткунӣ сомонаи «profiler.firefox.com»-ро дар варақаи нав оғоз мекунад. Тамоми маълумот ба таври маҳаллӣ нигоҳ дошта мешавад, аммо шумо метавонед онро интихоб карда, барои мубодила бор кунед.
 
 ## All of the headings for the various sections.
 
@@ -23,6 +24,9 @@ perftools-heading-local-build = Сохти маҳаллӣ
 
 ##
 
+perftools-description-intro =
+    Сабткунӣ сомонаи «<a>profiler.firefox.com</a>»-ро дар варақаи нав оғоз мекунад. Тамоми маълумот ба таври
+    маҳаллӣ нигоҳ дошта мешавад, аммо шумо метавонед онро интихоб карда, барои мубодила бор кунед.
 
 ## The controls for the interval at which the profiler samples the code.
 
