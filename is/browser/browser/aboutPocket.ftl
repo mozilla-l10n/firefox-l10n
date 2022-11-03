@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Bæta við merkjum
-
 pocket-panel-saved-error-generic = Upp kom villa við að vista á { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Merki eru takmörkuð við 25 stafi
 pocket-panel-saved-error-only-links = Aðeins er hægt að vista tengla
@@ -23,6 +22,7 @@ pocket-panel-saved-page-saved = Vistað í { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Vistað í { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Fjarlægi síðu…
 pocket-panel-saved-removed = Síða fjarlægð af listanum mínum
+pocket-panel-saved-removed-updated = Síða fjarlægð úr vistuðu
 pocket-panel-saved-processing-tags = Bæti við merkjum...
 pocket-panel-saved-remove-page = Fjarlægja síðu
 pocket-panel-saved-save-tags = Vista
@@ -30,7 +30,6 @@ pocket-panel-saved-saving-tags = Vista…
 pocket-panel-saved-suggested-tags = Tillögur að merkjum
 pocket-panel-saved-tags-saved = Merkjum bætt við
 pocket-panel-signup-view-list = Skoða lista
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Bæta við merkjum:
 
@@ -45,11 +44,12 @@ pocket-panel-signup-signup-firefox = Skrá sig með { -brand-product-name }
 pocket-panel-signup-tagline = Vista síður og myndbönd frá { -brand-product-name } til að skoða í { -pocket-brand-name } á hvaða tæki sem er, hvenær sem er.
 pocket-panel-signup-tagline-story-one = Smelltu á { -pocket-brand-name } hnappinn til að vista grein, myndband eða síðu frá { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Skoðaðu í { -pocket-brand-name } á hvaða tæki sem er, hvenær sem er.
-
 pocket-panel-signup-cta-a-fix = Vista-hnappurinn þinn fyrir internetið
 pocket-panel-signup-cta-b = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla. Skoðaðu listann þinn á hvaða tæki sem er, hvenær sem er.
+pocket-panel-signup-cta-b-updated = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla. Skoðaðu listann yfir það sem þú hefur vistað á hvaða tæki sem er, hvenær sem er.
 pocket-panel-signup-cta-b-short = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla.
 pocket-panel-signup-cta-c = Skoðaðu listann þinn á hvaða tæki sem er, hvenær sem er.
+pocket-panel-signup-cta-c-updated = Skoðaðu það sem þú hefur vistað í hvaða tæki sem er, hvenær sem er.
 
 ## about:pocket-home panel
 
@@ -59,7 +59,6 @@ pocket-panel-home-paragraph = Þú getur notað { -pocket-brand-name } til að k
 pocket-panel-home-explore-popular-topics = Skoða vinsæl efni
 pocket-panel-home-discover-more = Uppgötva meira
 pocket-panel-home-explore-more = Kanna
-
 pocket-panel-home-most-recent-saves = Hér er það nýjasta sem þú hefur vistað:
 pocket-panel-home-most-recent-saves-loading = Hleð inn nýlega vistuðu…
 pocket-panel-home-new-user-cta = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla.
@@ -68,6 +67,7 @@ pocket-panel-home-new-user-message = Sjáðu það nýjasta sem þú hefur vista
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Skoða listann minn
+pocket-panel-header-my-saves = Skoða það sem ég hef vistað
 pocket-panel-header-sign-in = Skrá inn
 
 ## Pocket panel buttons
