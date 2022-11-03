@@ -71,6 +71,8 @@ perftools-button-edit-settings = Таҳрир кардани танзимот…
 
 perftools-thread-gecko-main =
     .title = Равандҳои асосӣ ҳам барои раванди аслӣ ва ҳам барои равандҳои муҳтавоӣ
+perftools-thread-compositor =
+    .title = Унсурҳои рангкардашудаи гуногунро дар саҳифа муттаҳид мекунад
 perftools-thread-dom-worker =
     .title = Ин раванд ҳам коргузорони сомонавӣ ва ҳам коргузорони хизматрасониро коркард мекунад
 perftools-thread-renderer =

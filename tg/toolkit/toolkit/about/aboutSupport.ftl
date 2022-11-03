@@ -56,7 +56,7 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = Плагинҳои фаъолшуда
 app-basics-build-config = Танзимоти сохт
-app-basics-user-agent = Восити корбарӣ
+app-basics-user-agent = Омили корбарӣ
 app-basics-os = OS
 app-basics-os-theme = Мавзуи OS
 # Rosetta is Apple's translation process to run apps containing x86_64
