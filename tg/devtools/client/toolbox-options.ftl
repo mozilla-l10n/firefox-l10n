@@ -25,6 +25,14 @@ options-select-dev-tools-theme-label = Мавзуъҳо
 options-context-inspector = Тафтишкунанда
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Намоиш додани услубҳои браузер
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Кутоҳ кардани сифатҳои DOM
+options-collapse-attrs-tooltip =
+    .title = Кутоҳ кардани сифатҳои дароз дар тафтишкунанда
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Зер карда, кашед, то ки қиматҳои андоза иваз карда шаванд
+options-inspector-draggable-properties-tooltip =
+    .title = Зер карда, кашед, то ки қиматҳои андоза дар намоиши қоидаҳои тафтишкунанда иваз карда шаванд.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -58,6 +66,7 @@ options-screenshot-audio-label = Пахш кардани садои дарича
 # The heading
 options-sourceeditor-label = Хусусиятҳои муҳаррир
 options-sourceeditor-tabsize-label = Андозаи варақа
+options-sourceeditor-keybinding-label = Тугмабандӣ
 options-sourceeditor-keybinding-default-label = Пешфарз
 
 ## Advanced section
@@ -68,5 +77,7 @@ options-context-advanced-settings = Танзимоти иловагӣ
 options-disable-http-cache-label = Ғайрифаъол кардани зерҳофизаи HTTP (вақте ки қуттии абзорҳо кушода аст)
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Ғайрифаъол кардани JavaScript *
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Фаъол кардани ислоҳи хатоҳо ба таври дурдаст
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Фаъол кардани харитаҳои манбаъ
