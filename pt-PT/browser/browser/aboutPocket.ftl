@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Adicionar etiquetas
-
 pocket-panel-saved-error-generic = Ocorreu um erro ao tentar guardar no { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = As etiquetas estão limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Só podem ser guardadas ligações
@@ -23,6 +22,7 @@ pocket-panel-saved-page-saved = Guardada no { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Guardado no { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = A remover página…
 pocket-panel-saved-removed = Página removida da minha lista
+pocket-panel-saved-removed-updated = Página removida da lista de Guardadas
 pocket-panel-saved-processing-tags = A adicionar etiquetas…
 pocket-panel-saved-remove-page = Remover página
 pocket-panel-saved-save-tags = Guardar
@@ -30,7 +30,6 @@ pocket-panel-saved-saving-tags = A guardar…
 pocket-panel-saved-suggested-tags = Etiquetas sugeridas
 pocket-panel-saved-tags-saved = Etiquetas adicionadas
 pocket-panel-signup-view-list = Ver lista
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Adicionar etiquetas:
 
@@ -45,11 +44,12 @@ pocket-panel-signup-signup-firefox = Registar com o { -brand-product-name }
 pocket-panel-signup-tagline = Guardar artigos e vídeos do { -brand-product-name } para os ver no { -pocket-brand-name } em qualquer dispositivo, em qualquer altura.
 pocket-panel-signup-tagline-story-one = Clique no botão { -pocket-brand-name } para guardar qualquer artigo, vídeo ou página a partir { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Ver no { -pocket-brand-name } em qualquer dispositivo, a qualquer altura.
-
 pocket-panel-signup-cta-a-fix = O seu botão de guardar para a Internet.
 pocket-panel-signup-cta-b = Clique no botão do { -pocket-brand-name } para guardar artigos, vídeos e ligações. Veja a sua lista em qualquer dispositivo, em qualquer momento.
+pocket-panel-signup-cta-b-updated = Clique no botão do { -pocket-brand-name } para guardar artigos, vídeos e ligações. Consulte a sua lista de Guardadas em qualquer dispositivo, a qualquer momento.
 pocket-panel-signup-cta-b-short = Clique no botão do { -pocket-brand-name } para guardar artigos, vídeos e ligações.
 pocket-panel-signup-cta-c = Veja a sua lista em qualquer dispositivo, em qualquer momento.
+pocket-panel-signup-cta-c-updated = Consulte a sua lista de Guardadas em qualquer dispositivo, a qualquer momento.
 
 ## about:pocket-home panel
 
@@ -59,7 +59,6 @@ pocket-panel-home-paragraph = Pode utilizar o { -pocket-brand-name } para explor
 pocket-panel-home-explore-popular-topics = Explorar tópicos populares
 pocket-panel-home-discover-more = Descobrir mais
 pocket-panel-home-explore-more = Explorar
-
 pocket-panel-home-most-recent-saves = Aqui está o que mais recentemente guardou:
 pocket-panel-home-most-recent-saves-loading = A carregar as coisas que guardou recentemente…
 pocket-panel-home-new-user-cta = Clique no botão do { -pocket-brand-name } para guardar artigos, vídeos e ligações.
@@ -68,6 +67,7 @@ pocket-panel-home-new-user-message = Veja o que mais recentemente guardou aqui.
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Ver a minha lista
+pocket-panel-header-my-saves = Ver a minha lista de Guardadas
 pocket-panel-header-sign-in = Iniciar sessão
 
 ## Pocket panel buttons
