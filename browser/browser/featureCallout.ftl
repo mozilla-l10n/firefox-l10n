@@ -35,3 +35,11 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Begjinne
 
 callout-pdfjs-edit-title = Bewurkje PDF’s mei ús nije teksthelpmiddel
 callout-pdfjs-edit-body-a = Folje formulieren yn, foegje opmerkingen ta of meitsje oantekeningen streekrjocht yn { -brand-short-name }.
+callout-pdfjs-edit-body-b = Sykje net mear nei fergese online tekstbewurkers. Folje formulieren yn, foegje opmerkingen ta of meitsje streekrjocht oantekeningen yn { -brand-short-name }.
+callout-pdfjs-edit-button = Folgjende
+callout-pdfjs-draw-title = Undertekenje dokuminten mei ús nije tekenhelpmiddel
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Annotearje PDF’s en bewarje jo wizigingen.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Nea mear printe en scanne. Annotearje PDF’s en bewarje jo wizigingen.
+callout-pdfjs-draw-button = Begrepen!
