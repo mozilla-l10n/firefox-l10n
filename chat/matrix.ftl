@@ -9,3 +9,12 @@
 ## Conversation names when a room has no user readable name.
 
 room-name-empty = Conversación vacía
+# Variables:
+#  $participant (String) - The name of one participant that isn't the user.
+#  $otherParticipantsCount (Number) - The count of other participants apart from
+#    the user and $participant.
+room-name-others =
+    { $otherParticipantsCount ->
+        [one] { $participant } y { $otherParticipantCount } otro
+       *[other] { $participant } y { $otherParticipantCount } otros
+    }
