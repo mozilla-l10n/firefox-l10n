@@ -45,6 +45,7 @@ firefoxview-tabpickup-sync-disconnected-primarybutton = Habilitar sincronizació
 firefoxview-tabpickup-password-locked-header = Ingrese su contraseña principal para ver las pestañas
 firefoxview-tabpickup-password-locked-description = Para obtener sus pestañas, deberá ingresar la contraseña principal para { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Conocer más
+firefoxview-tabpickup-password-locked-primarybutton = Ingresar la contraseña maestra
 firefoxview-tabpickup-syncing = Esperá tranquilo mientras tus pestañas se sincronizan. Será solo un momento.
 firefoxview-mobile-promo-header = Mirá las pestañas desde tu teléfono o tableta
 firefoxview-mobile-promo-description = Para ver tus últimas pestañas móviles, iniciá la sesión en { -brand-product-name } en iOS o Android.
