@@ -35,6 +35,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Empezar
 
 callout-pdfjs-edit-title = Edita archivos PDF con nuestra nueva herramienta de texto
 callout-pdfjs-edit-body-a = Completa formularios, agrega comentarios, o toma notas directamente en { -brand-short-name }.
+callout-pdfjs-edit-body-b = Omite la búsqueda de editores en línea gratuitos. Completa formularios, agrega comentarios o toma notas directamente en { -brand-short-name }.
 callout-pdfjs-edit-button = Siguiente
 callout-pdfjs-draw-title = Firma documentos con nuestra nueva herramienta de dibujo
 callout-pdfjs-draw-button = ¡Entendido!
