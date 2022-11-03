@@ -407,3 +407,13 @@ mr2022-onboarding-gratitude-secondary-button-label = Empieza a navegar
 onboarding-infrequent-import-title = Siéntete como en casa
 onboarding-infrequent-import-subtitle = Ya sea que te estés instalando o simplemente pases por aquí, recuerda que puedes importar tus marcadores, contraseñas y más.
 onboarding-infrequent-import-primary-button = Importar a { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persona que trabaja en una computadora portátil rodeada de estrellas y flores.
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persona montando una patineta con una caja de iconos de software
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Un spray de mano pinta un colorido collage de un ojo verde, un zapato naranja, una pelota de baloncesto roja, unos auriculares morados, un corazón azul y una corona amarilla
