@@ -25,3 +25,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
+trademarkInfo = ‏Firefox و نشان‌های Firefox، علائم تجاری بنیاد Mozilla محسوب می‌شوند.
