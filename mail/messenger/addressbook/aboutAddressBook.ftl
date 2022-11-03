@@ -21,9 +21,20 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Tut ils cudeschets d'adressas
 all-address-books = Tut ils cudeschets d'adressas
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Dumber total da contacts en { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Dumber total da contacts en tut ils cudeschets d'adressas: { $count }
 about-addressbook-books-context-properties =
     .label = Caracteristicas
+about-addressbook-books-context-edit-list =
+    .label = Modifitgar la glista
 about-addressbook-books-context-synchronize =
     .label = Sincronisar
 about-addressbook-books-context-edit =
@@ -75,6 +86,8 @@ about-addressbook-horizontal-layout =
     .label = Midar al layout orizontal
 about-addressbook-vertical-layout =
     .label = Midar al layout vertical
+about-addressbook-table-layout =
+    .label = Layout da la tabella
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
@@ -85,6 +98,9 @@ about-addressbook-column-label-generatedname =
 about-addressbook-column-header-emailaddresses = Adressas dad e-mail
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Surnum
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Numers da telefon
 about-addressbook-column-label-phonenumbers =
     .label = { about-addressbook-column-header-phonenumbers }
@@ -167,10 +183,23 @@ about-addressbook-placeholder-no-search-results = Na chattà nagins contacts
 
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } contacts (e glistas) tschernids
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } contacts tschernids
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } glistas tschernidas
+about-addressbook-details-edit-photo =
+    .title = Modifitgar la fotografia dal contact
+about-addressbook-new-contact-header = Nov contact
 about-addressbook-prefer-display-name = Da preferenza mussar il 'num per mussar' empè dal chau dal messadi
 about-addressbook-write-action-button = Scriver
 about-addressbook-event-action-button = Eveniment
 about-addressbook-search-action-button = Tschertgar
+about-addressbook-new-list-action-button = Nova glista
 about-addressbook-begin-edit-contact-button = Modifitgar
 about-addressbook-delete-edit-contact-button = Stizzar
 about-addressbook-cancel-edit-contact-button = Interrumper
@@ -181,6 +210,7 @@ about-addressbook-details-phone-numbers-header = Numers da telefon
 about-addressbook-details-addresses-header = Adressas
 about-addressbook-details-notes-header = Notizias
 about-addressbook-details-impp-header = Messadis immediats
+about-addressbook-details-websites-header = Websites
 about-addressbook-details-other-info-header = Autras infurmaziuns
 about-addressbook-entry-type-work = Lavur
 about-addressbook-entry-type-home = Privat
@@ -195,6 +225,10 @@ about-addressbook-entry-name-role = Rolla
 about-addressbook-entry-name-organization = Organisaziun
 about-addressbook-entry-name-website = Website
 about-addressbook-entry-name-time-zone = Zona d'urari
+about-addressbook-entry-name-custom1 = Persunalisà 1
+about-addressbook-entry-name-custom2 = Persunalisà 2
+about-addressbook-entry-name-custom3 = Persunalisà 3
+about-addressbook-entry-name-custom4 = Persunalisà 4
 about-addressbook-unsaved-changes-prompt-title = Midadas betg memorisadas
 about-addressbook-unsaved-changes-prompt = Vuls ti memorisar tias modificaziuns avant che bandunar la vista da redacziun?
 
@@ -210,3 +244,4 @@ about-addressbook-photo-save = Memorisar
 
 # Keyboard shortcuts
 
+about-addressbook-new-contact-key = N
