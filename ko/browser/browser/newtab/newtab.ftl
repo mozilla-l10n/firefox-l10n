@@ -246,7 +246,7 @@ newtab-pocket-saved = 저장됨
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = 이런! 이 콘텐츠를 불러오는데 오류가 발생했습니다.
+newtab-error-fallback-info = 이런! 이 콘텐츠를 로드하는 중에 문제가 발생했습니다.
 newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시도하세요.
 
 ## Customization Menu
