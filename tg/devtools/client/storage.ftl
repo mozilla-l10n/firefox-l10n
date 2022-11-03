@@ -99,6 +99,10 @@ storage-expires-session = Ҷаласа
 storage-data = Иттилоот
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Қимати таҷзияшуда
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = Пас аз баста шудани ҳамаи пайвастҳо, пойгоҳи иттилоотии «{ $dbName }» нест карда мешавад.
 # Error notification when IndexedDB database could not be deleted.
 # Variables:
 #   $dbName (String) - Name of the database
