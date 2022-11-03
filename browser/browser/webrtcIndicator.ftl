@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - ਸਾਂਝਾ ਕਰਨਾ ਸੰਕੇਤਕ
 webrtc-indicator-window =
     .title = { -brand-short-name } - ਸਾਂਝਾ ਕਰਨਾ ਸੰਕੇਤਕ
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = ਤੁਸੀਂ ਆਪਣਾ ਕੈਮਰਾ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = ਕੀ { $origin } ਨੂੰ ਇ�
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = ਇਸ ਟੈਬ ਦੀ ਆਡੀਓ ਸੁਣਨ ਵਾਸਤੇ { $origin } ਨੂੰ { $thirdParty } ਇਜ਼ਾਜਤ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
 webrtc-allow-share-camera-unsafe-delegation = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੇ ਕੈਮਰੇ ਲਈ { $thirdParty } ਪਹੁੰਚ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
 webrtc-allow-share-microphone-unsafe-delegations = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੇ ਮਾਈਕਰੋਫ਼ੋਨ ਲਈ { $thirdParty } ਪਹੁੰਚ ਦੀ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?
 webrtc-allow-share-screen-unsafe-delegation = ਕੀ { $origin } ਨੂੰ ਤੁਹਾਡੀ ਸਕਰੀਨ ਵੇਖਣ ਲਈ { $thirdParty } ਇਜਾਜ਼ਤ ਲਈ ਸਹਿਮਤੀ ਦੇਣੀ ਹੈ?

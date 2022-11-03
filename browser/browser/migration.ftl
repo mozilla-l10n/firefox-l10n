@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = ਦਰਾਮਦ ਸਹਾਇਕ
-
 import-from =
     { PLATFORM() ->
         [windows] ਚੋਣਾਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਦਰਾਮਦ ਕਰੋ:
        *[other] ਚੋਣਾਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਦਰਾਮਦ ਕਰੋ:
     }
-
 import-from-bookmarks = ਬੁੱਕਮਾਰਕ ਇੱਥੋਂ ਇੰਪੋਰਟ:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-opera =
+    .label = Opera
+    .accesskey = O
 import-from-brave =
     .label = Brave
     .accesskey = r
@@ -54,39 +55,25 @@ import-from-firefox =
 import-from-360se =
     .label = 360 ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਰ
     .accesskey = 3
-
 no-migration-sources = ਕੋਈ ਵੀ ਪ੍ਰੋਗਰਾਮ ਨਹੀਂ ਲੱਭਿਆ, ਜਿਸ ਵਿੱਚ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਜਾਂ ਪਾਸਵਰਡ ਡਾਟਾ ਹੋਵੇ।
-
 import-source-page-title = ਸੈਟਿੰਗਾਂ ਅਤੇ ਡਾਟਾ ਦਰਾਮਦ ਕਰੋ
 import-items-page-title = ਦਰਾਮਦ ਕਰਨ ਲਈ ਚੀਜ਼ਾਂ
-
 import-items-description = ਦਰਾਮਦ ਕਰਨ ਲਈ ਚੀਜ਼ਾਂ ਚੁਣੋ:
-
 import-permissions-page-title = { -brand-short-name } ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਦਿਓ
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description =
     macOS ਨੇ ਸਫ਼ਾਰੀ ਦੇ ਬੁੱਕਮਾਰਕ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਖਾਸ ਤੌਰ ਉੱਤੇ
     { -brand-short-name } ਨੂੰ ਇਜਾਜ਼ਤ ਦੇਣਾ ਜ਼ਰੂਰੀ ਕੀਤਾ ਹੈ। “ਜਾਰੀ ਰੱਖੋ“ ਨੂੰ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਫ਼ਾਇਲ ਖੋਲ੍ਹੋ ਪੈਨਲ ਵਿੱਚ “Bookmarks.plist” ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ।
-
 import-migrating-page-title = …ਦਰਾਮਦ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ
-
 import-migrating-description = ਹੇਠ ਦਿੱਤੀਆਂ ਚੀਜ਼ਾਂ ਦਰਾਮਦ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ...
-
 import-select-profile-page-title = ਪਰੋਫਾਇਲ ਚੁਣੋ
-
 import-select-profile-description = ਇਹ ਪਰੋਫਾਇਲ ਦਰਾਮਦ ਕਰਨ ਲਈ ਉਪਲੱਬਧ ਹਨ:
-
 import-done-page-title = ਦਰਾਮਦ ਮੁਕੰਮਲ ਹੋਇਆ
-
 import-done-description = ਇਹ ਚੀਜ਼ਾਂ ਕਾਮਯਾਬੀ ਨਾਲ ਦਰਾਮਦ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ:
-
 import-close-source-browser = ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਚੁਣੇ ਗਏ ਬਰਾਊਜ਼ਰ ਦੇ ਬੰਦ ਕਰਨ ਨੂੰ ਯਕੀਨੀ ਬਣਾਓ।
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Safari ਤੋਂ)
 imported-edge-reading-list = ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ (Edge ਵਿੱਚੋਂ)
 
@@ -108,7 +95,6 @@ browser-data-cookies-checkbox =
     .label = ਕੂਕੀਜ਼
 browser-data-cookies-label =
     .value = ਕੂਕੀਜ਼
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -121,12 +107,10 @@ browser-data-history-label =
             [firefox] ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ
            *[other] ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
         }
-
 browser-data-formdata-checkbox =
     .label = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
 browser-data-formdata-label =
     .value = ਸੰਭਾਲਿਆ ਫਾਰਮ ਅਤੀਤ
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -135,7 +119,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗ-ਇਨ ਅਤੇ ਪਾਸਵਰਡ
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -150,12 +133,10 @@ browser-data-bookmarks-label =
             [edge] ਮਨਪਸੰਦ
            *[other] ਬੁੱਕਮਾਰਕ
         }
-
 browser-data-otherdata-checkbox =
     .label = ਹੋਰ ਡਾਟਾ
 browser-data-otherdata-label =
     .label = ਹੋਰ ਡਾਟਾ
-
 browser-data-session-checkbox =
     .label = ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ
 browser-data-session-label =
