@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Labels toevoegen
-
 pocket-panel-saved-error-generic = Er is een fout opgetreden bij het opslaan naar { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Labels zijn beperkt tot 25 tekens
 pocket-panel-saved-error-only-links = Alleen koppelingen kunnen worden opgeslagen
@@ -23,6 +22,7 @@ pocket-panel-saved-page-saved = Opgeslagen naar { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Opgeslagen naar { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Pagina verwijderen…
 pocket-panel-saved-removed = Pagina uit Mijn lijst verwijderd
+pocket-panel-saved-removed-updated = Pagina verwijderd uit Opgeslagen items
 pocket-panel-saved-processing-tags = Labels toevoegen…
 pocket-panel-saved-remove-page = Pagina verwijderen
 pocket-panel-saved-save-tags = Opslaan
@@ -30,7 +30,6 @@ pocket-panel-saved-saving-tags = Opslaan…
 pocket-panel-saved-suggested-tags = Voorgestelde labels
 pocket-panel-saved-tags-saved = Labels toegevoegd
 pocket-panel-signup-view-list = Lijst weergeven
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Labels toevoegen:
 
@@ -45,11 +44,12 @@ pocket-panel-signup-signup-firefox = Registreren met { -brand-product-name }
 pocket-panel-signup-tagline = Sla artikelen en video’s vanuit { -brand-product-name } op voor weergeven in { -pocket-brand-name } op diverse apparaten, wanneer dan ook.
 pocket-panel-signup-tagline-story-one = Klik op de { -pocket-brand-name }-knop om artikelen, video’s of pagina’s vanuit { -brand-product-name } op te slaan.
 pocket-panel-signup-tagline-story-two = Bekijk ze in { -pocket-brand-name } op diverse apparaten, wanneer dan ook.
-
 pocket-panel-signup-cta-a-fix = Uw bewaarknop voor het internet
 pocket-panel-signup-cta-b = Klik op de knop { -pocket-brand-name } om artikelen, video’s en koppelingen op te slaan. Bekijk uw lijst op elk apparaat, wanneer dan ook.
+pocket-panel-signup-cta-b-updated = Klik op de knop { -pocket-brand-name } om artikelen, video’s en koppelingen op te slaan. Bekijk uw opgeslagen items op elk gewenst moment op elk gewenst apparaat.
 pocket-panel-signup-cta-b-short = Klik op de knop { -pocket-brand-name } om artikelen, video’s en koppelingen op te slaan.
 pocket-panel-signup-cta-c = Bekijk uw lijst op elk apparaat, wanneer dan ook.
+pocket-panel-signup-cta-c-updated = Bekijk uw opgeslagen items op elk gewenst moment op elk gewenst apparaat.
 
 ## about:pocket-home panel
 
@@ -59,7 +59,6 @@ pocket-panel-home-paragraph = U kunt { -pocket-brand-name } gebruiken om webpagi
 pocket-panel-home-explore-popular-topics = Populaire onderwerpen verkennen
 pocket-panel-home-discover-more = Meer ontdekken
 pocket-panel-home-explore-more = Verkennen
-
 pocket-panel-home-most-recent-saves = Dit zijn uw meest recent opgeslagen items:
 pocket-panel-home-most-recent-saves-loading = Recent opgeslagen items worden geladen…
 pocket-panel-home-new-user-cta = Klik op de knop { -pocket-brand-name } om artikelen, video’s en koppelingen op te slaan.
@@ -68,6 +67,7 @@ pocket-panel-home-new-user-message = Bekijk hier uw recent opgeslagen items.
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Mijn lijst bekijken
+pocket-panel-header-my-saves = Mijn Opgeslagen items bekijken
 pocket-panel-header-sign-in = Aanmelden
 
 ## Pocket panel buttons
