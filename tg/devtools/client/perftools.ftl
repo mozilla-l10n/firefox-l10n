@@ -27,9 +27,14 @@ perftools-heading-local-build = Сохти маҳаллӣ
 perftools-description-intro =
     Сабткунӣ сомонаи «<a>profiler.firefox.com</a>»-ро дар варақаи нав оғоз мекунад. Тамоми маълумот ба таври
     маҳаллӣ нигоҳ дошта мешавад, аммо шумо метавонед онро интихоб карда, барои мубодила бор кунед.
+perftools-description-local-build =
+    Агар шумо сохтеро, ки худатон дар ин компютер эҷод кардаед, дар профил созед,
+    лутфан, «objdir»-и сохти худро ба рӯйхати зерин илова кунед, то ки он тавонад
+    барои ҷустуҷӯи маълумоти рамзӣ истифода бурда шавад.
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Фосилаи намунагирӣ:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } мс
 
 ##
@@ -48,10 +53,13 @@ perftools-status-restart-required = Барои фаъол кардани ин х
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Манъкунии сабт
+perftools-request-to-get-profile-and-stop-profiler = Забткунии профил
 
 ##
 
 perftools-button-start-recording = Оғози сабт
+perftools-button-capture-recording = Забти сабткунӣ
 perftools-button-cancel-recording = Бекор кардани сабт
 perftools-button-save-settings = Нигоҳ доштани танзимот ва бозгашт
 perftools-button-restart = Аз нав оғоз кардан
