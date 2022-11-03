@@ -17,7 +17,6 @@
 <!ENTITY redoCmd.accesskey          "G">
 <!ENTITY deleteCmd.label          "Ta bort">
 <!ENTITY deleteCmd.accesskey        "T">
-
 <!ENTITY customizeCmd.label "Anpassa">
 <!ENTITY customizeCmd.accesskey "n">
 
@@ -40,4 +39,4 @@
 <!ENTITY quitApplicationCmdUnix.accesskey  "A">
 
 <!ENTITY quitApplicationCmdMac.label  "Avsluta &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "A">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">
