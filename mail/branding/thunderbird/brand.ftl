@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Thunderbird Brand
 ##
 ## Thunderbird must be treated as a brand, and kept in English.
@@ -18,3 +19,4 @@
 # remain unchanged across different versions (Daily, Beta, etc.).
 -brand-product-name = Thunderbird
 -vendor-short-name = Mozilla
+trademarkInfo = Mozilla Thunderbird en de Thunderbird-logo’s zijn handelsmerken van de Mozilla Foundation.
