@@ -7,6 +7,15 @@
 
 appmenu-sync-panel-title =
     .title = Synkronisera
+appmenu-signin-panel =
+    .label = Logga in för att synkronisera
+    .accesskey = g
+appmenu-sync-sync =
+    .value = Kontosynkronisering
+    .accesskey = n
+appmenu-sync-manage =
+    .value = Hantera konto
+    .accesskey = H
 appmenu-sync-account =
     .value = example@example.com
 
