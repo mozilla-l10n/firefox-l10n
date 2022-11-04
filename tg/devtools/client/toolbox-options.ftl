@@ -79,5 +79,11 @@ options-disable-http-cache-label = Ғайрифаъол кардани зерҳ�
 options-disable-javascript-label = Ғайрифаъол кардани JavaScript *
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Фаъол кардани ислоҳи хатоҳо ба таври дурдаст
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Фаъол кардани воситаҳои шаклсозии фармоишӣ
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Фаъол кардани Коргузорони хизматрасонӣ тавассути HTTP (вақте ки қуттии абзорҳо кушода аст)
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Фаъол кардани харитаҳои манбаъ
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Танҳо ҷаласаи ҷорӣ, саҳифаро аз нав бор мекунад
