@@ -41,3 +41,18 @@ whypaused-interrupted = Ҳангоми иҷро таваққуф карда шу
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Ҳангоми даромад/баромад таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a dom event
+whypaused-pause-on-dom-events = Дар шунавандаи коркарди рӯйдодҳо таваққуф карда шуд
+# The text that is displayed in an info block when evaluating a conditional
+# breakpoint throws an error
+whypaused-breakpoint-condition-thrown = Хато дар нуқтаи қатъи шартӣ
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Дар «XMLHttpRequest» таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = Дар ваъдаи раддия таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = Ислоҳкунанда таваққуф карда шуд
