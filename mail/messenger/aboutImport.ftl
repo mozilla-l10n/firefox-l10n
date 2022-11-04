@@ -118,13 +118,19 @@ csv-target-field = Campo do livro de endereços
 
 ## Export tab
 
+export-profile-title = Exporte contas, mensagens, catálogos de endereços, e definições para um ficheiro ZIP.
+export-open-profile-folder = Abrir pasta de perfil
+export-file-picker2 = Exportar para um ficheiro ZIP
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Dados a serem importados
+summary-pane-start = Iniciar importação
 
 ## Footer area
 
+footer-help = Precisa de ajuda?
 
 ## Step navigation on top of the wizard pages
 
