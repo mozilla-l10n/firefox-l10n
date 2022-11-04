@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Lisää tunnisteita
-
 pocket-panel-saved-error-generic = Tapahtui virhe tallennettaessa { -pocket-brand-name }-palveluun.
 pocket-panel-saved-error-tag-length = Tunnisteet voivat olla enintään 25 merkkiä pitkiä
 pocket-panel-saved-error-only-links = Vain linkkejä voidaan tallentaa
@@ -23,6 +22,7 @@ pocket-panel-saved-page-saved = Tallennettiin { -pocket-brand-name }-palveluun
 pocket-panel-saved-page-saved-b = Tallennettu { -pocket-brand-name }iin!
 pocket-panel-saved-processing-remove = Poistetaan sivu…
 pocket-panel-saved-removed = Sivu poistettu omasta listasta
+pocket-panel-saved-removed-updated = Sivu poistettu tallennuksista
 pocket-panel-saved-processing-tags = Lisätään tunnisteet…
 pocket-panel-saved-remove-page = Poista sivu
 pocket-panel-saved-save-tags = Tallenna
@@ -30,7 +30,6 @@ pocket-panel-saved-saving-tags = Tallennetaan…
 pocket-panel-saved-suggested-tags = Ehdotetut tunnisteet
 pocket-panel-saved-tags-saved = Tunnisteet lisättiin
 pocket-panel-signup-view-list = Näytä lista
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Lisää tunnisteet:
 
@@ -45,11 +44,12 @@ pocket-panel-signup-signup-firefox = Rekisteröidy { -brand-product-name }-tilil
 pocket-panel-signup-tagline = Tallenna artikkelit ja videot { -brand-product-name }ista { -pocket-brand-name }-palveluun katseltaviksi millä tahansa laitteella, koska tahansa.
 pocket-panel-signup-tagline-story-one = Napsauta { -pocket-brand-name }-painiketta tallentaaksesi artikkelin, videon tai sivun { -brand-product-name }issa.
 pocket-panel-signup-tagline-story-two = Katsele { -pocket-brand-name }-palvelussa millä tahansa laitteella, koska tahansa.
-
 pocket-panel-signup-cta-a-fix = Tallennuspainikkeesi Internetiin.
 pocket-panel-signup-cta-b = Napsauta { -pocket-brand-name }-painiketta tallentaaksesi artikkeleita, videoita ja linkkejä. Tarkastele luetteloasi millä tahansa laitteella milloin tahansa.
+pocket-panel-signup-cta-b-updated = Napsauta { -pocket-brand-name }-painiketta tallentaaksesi artikkeleita, videoita ja linkkejä. Tarkastele tallennukset millä tahansa laitteella milloin tahansa.
 pocket-panel-signup-cta-b-short = Napsauta { -pocket-brand-name }-painiketta tallentaaksesi artikkeleita, videoita ja linkkejä.
 pocket-panel-signup-cta-c = Tarkastele listaasi miltä tahansa laitteelta milloin tahansa.
+pocket-panel-signup-cta-c-updated = Tarkastele tallenteitasi millä tahansa laitteella, milloin tahansa.
 
 ## about:pocket-home panel
 
@@ -59,7 +59,6 @@ pocket-panel-home-paragraph = Voit käyttää { -pocket-brand-name }ia selatakse
 pocket-panel-home-explore-popular-topics = Selaa suosittuja aiheita
 pocket-panel-home-discover-more = Löydä lisää
 pocket-panel-home-explore-more = Selaa
-
 pocket-panel-home-most-recent-saves = Tässä viimeisimmät tallennuksesi:
 pocket-panel-home-most-recent-saves-loading = Viimeisimpiä tallennuksia ladataan…
 pocket-panel-home-new-user-cta = Napsauta { -pocket-brand-name }-painiketta tallentaaksesi artikkeleita, videoita ja linkkejä.
@@ -68,6 +67,7 @@ pocket-panel-home-new-user-message = Katso viimeisimmät tallennuksesi tästä.
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Näytä oma lista
+pocket-panel-header-my-saves = Näytä omat tallennukset
 pocket-panel-header-sign-in = Kirjaudu sisään
 
 ## Pocket panel buttons
