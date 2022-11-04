@@ -46,6 +46,10 @@ inactive-css-not-flex-container-fix = Кӯшиш кунед, ки <strong>displa
 inactive-css-not-inline-or-tablecell-fix = Кӯшиш кунед, ки <strong>display:inline</strong> ё <strong>display:table-cell</strong>-ро илова намоед. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Кӯшиш кунед, ки <strong>display:inline-block</strong> ё <strong>display:block</strong>-ро илова намоед. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Кӯшиш кунед, ки <strong>display:inline-block</strong>-ро илова намоед. { learn-more }
+inactive-css-not-display-block-on-floated-fix = Кӯшиш кунед, ки <strong>float</strong>-ро тоза кунед ё <strong>display:block</strong>-ро илова намоед. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Кӯшиш кунед, ки <strong>overflow:hidden</strong>-ро илова намоед. { learn-more }
+inactive-css-not-table-fix = Кӯшиш кунед, ки <strong>display:table</strong> ё <strong>display:inline-table</strong>-ро илова намоед. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Кӯшиш кунед, ки <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ё <strong>overflow:hidden</strong>-ро илова намоед. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
