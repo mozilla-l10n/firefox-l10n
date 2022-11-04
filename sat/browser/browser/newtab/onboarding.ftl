@@ -169,6 +169,17 @@ onboarding-live-language-skip-button-label = ᱟᱲᱟᱜ
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-label-default = ᱢᱩᱞ
+mr2022-onboarding-colorway-tooltip-default =
+    .title = ᱢᱩᱞ
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = ᱱᱤᱛᱚᱜᱟᱜ { -brand-short-name } ᱨᱚᱝᱠᱚ
+mr2022-onboarding-colorway-description-default = <b> ᱱᱤᱛᱚᱜᱟᱜ { -brand-short-name } ᱨᱚᱝᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾</b>
+mr2022-onboarding-colorway-label-playmaker = ᱯᱞᱮᱢᱮᱠᱚᱨ
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = ᱯᱞᱮᱢᱮᱠᱚᱨ
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = ᱯᱞᱮᱢᱮᱠᱚᱨ (ᱟᱨᱟᱜ)
 
 ## MR2022 Multistage Mobile Download screen strings
 
