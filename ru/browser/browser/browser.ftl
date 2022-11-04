@@ -562,7 +562,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = Браузер находится под удалённым управлением (причина: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Вы предоставили этому сайту дополнительные разрешения.
+    .tooltiptext = Вы предоставили этому веб-сайту дополнительные разрешения.
 urlbar-switch-to-tab =
     .value = Перейти на вкладку:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
