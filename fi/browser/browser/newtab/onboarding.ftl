@@ -412,3 +412,9 @@ mr2022-onboarding-gratitude-secondary-button-label = Aloita selaaminen
 onboarding-infrequent-import-title = Tee olosi kotoisaksi
 onboarding-infrequent-import-subtitle = Oletpa sitten asettumassa tai vain poikkeamassa, muista, että voit tuoda kirjanmerkkisi, salasanasi ja paljon muuta.
 onboarding-infrequent-import-primary-button = Tuo { -brand-short-name }iin
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-default-image-alt =
+    .aria-label = Henkilö halaamassa { -brand-product-name }-logoa
