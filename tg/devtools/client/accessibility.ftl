@@ -42,7 +42,7 @@ accessibility-text-label-issue-iframe = Аз сифати <code>title</code> б�
 accessibility-text-label-issue-image = Муҳтаво бо аксҳо бояд номгузорӣ карда шавад. <a>Маълумоти бештар</a>
 accessibility-text-label-issue-interactive = Унсурҳои дусӯягӣ бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
 accessibility-text-label-issue-optgroup-label2 = Аз сифати <code>label</code> барои барчаспзании <span>optgroup</span> истифода баред. <a>Маълумоти бештар</a>
-accessibility-text-label-issue-toolbar = Вақте ки зиёда аз як навори абзорҳо мавҷуданд, Наворҳои абзорҳо бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-toolbar = Вақте ки зиёда аз як навори абзорҳо мавҷуданд, наворҳои абзорҳо бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
