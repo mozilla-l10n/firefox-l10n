@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Приватный просмотр { -brand-shortcut-name }
 
 ##
@@ -560,7 +562,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = Браузер находится под удалённым управлением (причина: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Вы предоставили этому веб-сайту дополнительные разрешения.
+    .tooltiptext = Вы предоставили этому сайту дополнительные разрешения.
 urlbar-switch-to-tab =
     .value = Перейти на вкладку:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
