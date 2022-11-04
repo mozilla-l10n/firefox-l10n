@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Trình nhập dữ liệu
-
 import-from =
     { PLATFORM() ->
         [windows] Nhập các tùy chọn, dấu trang, lịch sử, mật khẩu và các dữ liệu khác từ:
        *[other] Nhập các tùy chỉnh, dấu trang, lịch sử, mật khẩu và các dữ liệu khác từ:
     }
-
 import-from-bookmarks = Nhập các dấu trang từ:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-opera =
+    .label = Opera
+    .accesskey = O
 import-from-brave =
     .label = Brave
     .accesskey = r
@@ -54,37 +55,23 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Không tìm thấy chương trình nào chứa dấu trang, lịch sử, hoặc dữ liệu mật khẩu.
-
 import-source-page-title = Nhập cài đặt và dữ liệu
 import-items-page-title = Các mục cần nhập
-
 import-items-description = Chọn các mục để nhập:
-
 import-permissions-page-title = Vui lòng cấp quyền cho { -brand-short-name }
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS yêu cầu bạn cho phép { -brand-short-name } truy cập vào các trang đánh dấu của Safari. Nhấp vào “Tiếp tục” và chọn tệp “Bookmarks.plist” trong bảng Mở tệp.
-
 import-migrating-page-title = Đang nhập…
-
 import-migrating-description = Các mục sau đang được nhập…
-
 import-select-profile-page-title = Chọn hồ sơ
-
 import-select-profile-description = Các hồ sơ có thể nhập được từ:
-
 import-done-page-title = Nhập Xong
-
 import-done-description = Các mục sau đã được nhập thành công:
-
 import-close-source-browser = Vui lòng chắc chắn trình duyệt được chọn đã đóng truớc khi tiếp tục.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Đang đọc danh sách (Từ Safari)
 imported-edge-reading-list = Đang đọc danh sách (từ Edge)
 
@@ -106,7 +93,6 @@ browser-data-cookies-checkbox =
     .label = Cookie
 browser-data-cookies-label =
     .value = Cookie
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +105,10 @@ browser-data-history-label =
             [firefox] Lịch sử duyệt web và trang đánh dấu
            *[other] Lịch sử duyệt web
         }
-
 browser-data-formdata-checkbox =
     .label = Lịch sử biểu mẫu đã lưu
 browser-data-formdata-label =
     .value = Lịch sử biểu mẫu đã lưu
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +117,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Thông tin đăng nhập và mật khẩu đã lưu
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +131,10 @@ browser-data-bookmarks-label =
             [edge] Yêu thích
            *[other] Dấu trang
         }
-
 browser-data-otherdata-checkbox =
     .label = Dữ liệu khác
 browser-data-otherdata-label =
     .label = Dữ liệu khác
-
 browser-data-session-checkbox =
     .label = Cửa Sổ và Thẻ
 browser-data-session-label =
