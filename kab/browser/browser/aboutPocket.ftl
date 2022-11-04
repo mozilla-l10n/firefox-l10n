@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Rnu tibzimin
-
 pocket-panel-saved-error-generic = Teḍra-d tuccḍa deg aɛraḍ n usekles ɣer { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tibzimin ɣur-sent talast n 25 n isekkilen
 pocket-panel-saved-error-only-links = Al iseɣwan i yezmren ad ttwakelsen
@@ -30,7 +29,6 @@ pocket-panel-saved-saving-tags = Asekles…
 pocket-panel-saved-suggested-tags = Tibzimin yettwasumren
 pocket-panel-saved-tags-saved = Tibzimin yettwarnan
 pocket-panel-signup-view-list = Sken tabdart
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Rnu tibzimin:
 
@@ -45,7 +43,6 @@ pocket-panel-signup-signup-firefox = Jerred s { -brand-product-name }
 pocket-panel-signup-tagline = Sekles imagraden akked tvidyutin si { -brand-product-name } akken ad twaliḍ di { -pocket-brand-name } ɣef yal ibenk, melmi tebɣiḍ.
 pocket-panel-signup-tagline-story-one = Sit ɣef tqeffalt { -pocket-brand-name } akken ad teskelseḍ yal amagrad, tavidyut neɣ asebter si { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Sken di { -pocket-brand-name } ɣef yal ibenk yellan, melmi tebɣiḍ.
-
 pocket-panel-signup-cta-a-fix = Taqeffalt-ik n usekles i internet
 pocket-panel-signup-cta-b = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan. Wali tabdart-ik ɣef yal ibenk, melmi i tebɣiḍ.
 pocket-panel-signup-cta-b-short = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan.
@@ -59,7 +56,6 @@ pocket-panel-home-paragraph = Tzemreḍ ad tesqedceḍ { -pocket-brand-name } i 
 pocket-panel-home-explore-popular-topics = Snirem isental yettwassnen
 pocket-panel-home-discover-more = Issin ugar
 pocket-panel-home-explore-more = Snirem
-
 pocket-panel-home-most-recent-saves = Ha-ten-a iseklas n melmi kan:
 pocket-panel-home-most-recent-saves-loading = Asali n yiseklas n melmi kan…
 pocket-panel-home-new-user-cta = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan.
@@ -68,6 +64,7 @@ pocket-panel-home-new-user-message = Wali iseklas-inek n melmi kan da.
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Sken tabdart-iw
+pocket-panel-header-my-saves = Wali iseklasen-inu
 pocket-panel-header-sign-in = Kcem
 
 ## Pocket panel buttons
