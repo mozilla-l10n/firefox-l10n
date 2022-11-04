@@ -413,7 +413,17 @@ onboarding-infrequent-import-primary-button = Importar a { -brand-short-name }
 
 mr2022-onboarding-pin-image-alt =
     .aria-label = Persona que trabaja en una computadora portátil rodeada de estrellas y flores.
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persona abrazando el logo de { -brand-product-name }
 mr2022-onboarding-import-image-alt =
     .aria-label = Persona montando una patineta con una caja de iconos de software
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Ranas saltando sobre nenúfares con un código QR para descargar { -brand-product-name } para dispositivos móviles en el centro
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = La varita mágica hace que el logotipo de navegación privada de { -brand-product-name } aparezca de un sombrero
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Manos de piel clara y de piel oscura chocan los cinco
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vista de una puesta de sol a través de una ventana con un zorro y una planta de casa en un alféizar
 mr2022-onboarding-colorways-image-alt =
     .aria-label = Un spray de mano pinta un colorido collage de un ojo verde, un zapato naranja, una pelota de baloncesto roja, unos auriculares morados, un corazón azul y una corona amarilla
