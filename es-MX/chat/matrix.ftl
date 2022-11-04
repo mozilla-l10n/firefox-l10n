@@ -10,6 +10,10 @@
 
 room-name-empty = Conversación vacía
 # Variables:
+#  $oldName (String) - The previous name the conversation had before it was
+#    removed.
+room-name-empty-had-name = Conversación vacía (era { $oldName })
+# Variables:
 #  $participant (String) - The name of one participant that isn't the user.
 #  $otherParticipantsCount (Number) - The count of other participants apart from
 #    the user and $participant.
