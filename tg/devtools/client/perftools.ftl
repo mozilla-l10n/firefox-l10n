@@ -79,14 +79,28 @@ perftools-thread-renderer =
     .title = Вақте ки «WebRender» фаъол аст, ин ҷараён дархостҳои «OpenGL»-ро иҷро мекунад
 perftools-thread-render-backend =
     .title = Ҷараёни «WebRender RenderBackend»
+perftools-thread-paint-worker =
+    .title = Ҷараёнест, ки дар он расмкашӣ иҷро мешавад, вақте ки расмкашӣ берун аз ҷараёни асосӣ фаъол аст
+perftools-thread-timer =
+    .title = Вақтсанҷҳои коркарди ҷараёнҳо (setTimeout, setInterval, nsITimer)
+perftools-thread-style-thread =
+    .title = Ҳисобкунии услуб ба бисёр ҷараёнҳо тақсим карда мешавад
 pref-thread-stream-trans =
     .title = Интиқоли ҷараёни шабака
+perftools-thread-socket-thread =
+    .title = Ҷараёнест, ки дар он рамзи шабакавӣ ҳар гуна дархостҳои манъкунии бастагоҳро иҷро мекунад
 perftools-thread-img-decoder =
     .title = Ҷараёнҳои рамзгузории тасвир
 perftools-thread-dns-resolver =
     .title = Ҳалкунии DNS дар ин ҷараён иҷро мешавад
+perftools-thread-task-controller =
+    .title = Ҷараёнҳои ҳавзи ҷараёни «TaskController»
 perftools-thread-jvm-gecko =
     .title = Ҷараёни асосии Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Ҷараёнҳои асосӣ барои озмоишҳои Nimbus SDK
+perftools-thread-jvm-default-dispatcher =
+    .title = Ирсолкунандаи пешфарз барои китобхонаи барномаҳои ҳамроҳии «Kotlin»
 
 ##
 
