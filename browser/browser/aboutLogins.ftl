@@ -351,4 +351,4 @@ about-logins-import-report-error =
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Сводный отчет об импорте
+about-logins-import-report-page-title = Сводный отчёт об импорте
