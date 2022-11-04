@@ -15,8 +15,8 @@ firefoxview-close-button =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = há pouco
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Escolha de aba
-firefoxview-tabpickup-description = Abrir páginas de outros dispositivos.
+firefoxview-tabpickup-header = Escolha de abas
+firefoxview-tabpickup-description = Abra páginas de outros dispositivos.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% concluído
@@ -53,7 +53,7 @@ firefoxview-mobile-promo-primarybutton = Instale o { -brand-product-name } para 
 firefoxview-mobile-confirmation-header = 🎉 Pronto!
 firefoxview-mobile-confirmation-description = Agora você pode abrir suas abas do { -brand-product-name } do seu tablet ou celular.
 firefoxview-closed-tabs-title = Fechado recentemente
-firefoxview-closed-tabs-description2 = Reabrir páginas que você fechou nesta janela.
+firefoxview-closed-tabs-description2 = Reabra páginas que você fechou neste computador.
 firefoxview-closed-tabs-placeholder = <strong>Nenhuma página fechada recentemente</strong><br/>Nunca mais tenha medo de perder uma aba fechada. Você sempre pode recuperar aqui.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Última ativa
