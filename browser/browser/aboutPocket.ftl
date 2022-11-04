@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Legg til etiketter
-
 pocket-panel-saved-error-generic = Et problem oppstod ved lagring til { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etiketter er begrenset til 25 tegn
 pocket-panel-saved-error-only-links = Bare lenker kan lagres
@@ -23,6 +22,7 @@ pocket-panel-saved-page-saved = Lagret til { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Lagret til { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Fjerner side …
 pocket-panel-saved-removed = Side fjernet fra Min liste
+pocket-panel-saved-removed-updated = Side fjernet fra lagrede
 pocket-panel-saved-processing-tags = Legger til side …
 pocket-panel-saved-remove-page = Fjern side
 pocket-panel-saved-save-tags = Lagre
@@ -30,7 +30,6 @@ pocket-panel-saved-saving-tags = Lagrer …
 pocket-panel-saved-suggested-tags = Foreslåtte etiketter
 pocket-panel-saved-tags-saved = Etiketter lagt til
 pocket-panel-signup-view-list = Vis liste
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Legg til etiketter:
 
@@ -45,7 +44,6 @@ pocket-panel-signup-signup-firefox = Registrer deg med { -brand-product-name }
 pocket-panel-signup-tagline = Lagre artikler og videoer fra { -brand-product-name } for å vise dem i { -pocket-brand-name } på hvilken som helst enhet, når som helst.
 pocket-panel-signup-tagline-story-one = Trykk på { -pocket-brand-name }-knappen for å lagre hvilken som helst artikkel, video eller side fra { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vis i { -pocket-brand-name } på hvilken som helst enhet, når som helst.
-
 pocket-panel-signup-cta-a-fix = Din lagre-knapp for internett
 pocket-panel-signup-cta-b = Klikk på { -pocket-brand-name }-knappen for å lagre artikler, videoer og lenker. Se listen din på hvilken som helst enhet, når som helst.
 pocket-panel-signup-cta-b-short = Klikk på { -pocket-brand-name }-knappen for å lagre artikler, videoer og lenker.
@@ -59,7 +57,6 @@ pocket-panel-home-paragraph = Du kan bruke { -pocket-brand-name } til å oppdage
 pocket-panel-home-explore-popular-topics = Utforsk populære emner
 pocket-panel-home-discover-more = Oppdag mer
 pocket-panel-home-explore-more = Utforsk
-
 pocket-panel-home-most-recent-saves = Her er de siste lagringene dine:
 pocket-panel-home-most-recent-saves-loading = Laster inn nylig lagret…
 pocket-panel-home-new-user-cta = Klikk på { -pocket-brand-name }-knappen for å lagre artikler, videoer og lenker.
