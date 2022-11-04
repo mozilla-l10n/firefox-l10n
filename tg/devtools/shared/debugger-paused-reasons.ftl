@@ -14,15 +14,30 @@
 ### A good criteria is the language in which you'd find the best
 ### documentation on web development on the web.
 
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = Дар баёнияи ислоҳкунанда таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = Дар нуқтаи қатъ таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Дар нуқтаи қатъи коркарди рӯйдодҳо таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an exception
+whypaused-exception = Дар истисно таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Дар тағйирдиҳии DOM таваққуф карда шуд
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Илова шуд:
-
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = Тоза шуд:
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a JS execution
 whypaused-interrupted = Ҳангоми иҷро таваққуф карда шуд
-
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused while stepping in or out of the stack
+whypaused-resume-limit = Ҳангоми даромад/баромад таваққуф карда шуд
