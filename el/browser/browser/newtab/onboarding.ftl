@@ -417,3 +417,5 @@ mr2022-onboarding-default-image-alt =
     .aria-label = Άτομο που αγκαλιάζει το λογότυπο του { -brand-product-name }
 mr2022-onboarding-import-image-alt =
     .aria-label = Άτομο που κάνει σκέιτμπορντ με ένα κουτί εικονιδίων λογισμικού
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Ένα μαγικό ραβδί που εμφανίζει μέσα από ένα καπέλο το λογότυπο της ιδιωτικής περιήγησης του { -brand-product-name }
