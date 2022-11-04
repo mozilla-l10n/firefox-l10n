@@ -17,4 +17,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ᱫᱮᱞ�
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-button = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
+callout-pdfjs-draw-title = ᱟᱞᱮᱭᱟᱜ ᱱᱟᱶᱟ ᱛᱮᱭᱟᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱥᱟᱶᱛᱮ ᱫᱚᱞᱤᱞᱠᱚ ᱥᱩᱦᱤ ᱮᱢᱟᱜ ᱢᱮ
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = PDFs ᱪᱤᱱᱦᱟ ᱦᱟᱜ ᱢᱮ, ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱵᱚᱱᱚᱞ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱢᱮ ᱾
 callout-pdfjs-draw-button = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟᱹᱧ!
