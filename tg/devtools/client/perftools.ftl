@@ -101,9 +101,16 @@ perftools-thread-jvm-nimbus =
     .title = Ҷараёнҳои асосӣ барои озмоишҳои Nimbus SDK
 perftools-thread-jvm-default-dispatcher =
     .title = Ирсолкунандаи пешфарз барои китобхонаи барномаҳои ҳамроҳии «Kotlin»
+perftools-thread-jvm-glean =
+    .title = Ҷараёнҳои асосӣ барои SDK-и санҷиши дурдасти Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Ирсолкунандаи IO барои китобхонаи барномаҳои ҳамроҳии «Kotlin»
+perftools-thread-jvm-pool =
+    .title = Ҷараёнҳое, ки дар ҳавзаи ҷараёнҳои беном эҷод шудаанд
 
 ##
 
+perftools-record-all-registered-threads = Рад кардани интихоби болозикр ва сабт кардани ҳамаи ҷараёнҳои бақайдгирифташуда
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
