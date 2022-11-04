@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Ladataan { -brand-shorter-name }-päivitystä
-
 appmenuitem-banner-update-available =
     .label = Päivitys saatavilla – lataa nyt
-
 appmenuitem-banner-update-manual =
     .label = Päivitys saatavilla – lataa nyt
-
 appmenuitem-banner-update-unsupported =
     .label = Päivitys ei onnistu – järjestelmä ei yhteensopiva
-
 appmenuitem-banner-update-restart =
     .label = Päivitys saatavilla – käynnistä uudelleen
-
 appmenuitem-new-tab =
     .label = Uusi välilehti
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Sulje sovellusvalikko
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Kirjaudu synkronoidaksesi…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ota synkronointi käyttöön…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Näytä lisää välilehtiä
     .tooltiptext = Näytä lisää välilehtiä tältä laitteelta
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ei avoimia välilehtiä
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.
-
 appmenu-remote-tabs-opensettings =
     .label = Asetukset
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Haluatko nähdä muiden laitteiden välilehdet tässä?
-
 appmenu-remote-tabs-connectdevice =
     .label = Yhdistä toinen laite
 appmenu-remote-tabs-welcome = Näytä lista välilehdistä muilta laitteiltasi.
 appmenu-remote-tabs-unverified = Tilisi tarvitsee vahvistaa.
-
 appmenuitem-fxa-toolbar-sync-now2 = Synkronoi nyt
 appmenuitem-fxa-sign-in = Kirjaudu { -brand-product-name }iin
 appmenuitem-fxa-manage-account = Hallinnoi tiliä
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = Synkronoi ja tallenna tiedot
 appmenu-fxa-signed-in-label = Kirjaudu
 appmenu-fxa-setup-sync =
     .label = Ota synkronointi käyttöön…
-
 appmenuitem-save-page =
     .label = Tallenna sivu nimellä…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Mitä uutta
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,53 +120,38 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Record a performance profile
-
 profiler-popup-button-recording =
     .label = Profiloija
     .tooltiptext = Profiloija nauhoittaa profiilia
-
 profiler-popup-button-capturing =
     .label = Profiloija
     .tooltiptext = Profiloija kaappaa profiilia
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Näytä lisätietoja
-
 profiler-popup-description-title =
     .value = Tallenna, analysoi, jaa
-
-profiler-popup-description = Työskentele suoprituskykyongelmien parissa yhdessä julkaisemalla profiileita ja jakamalla niitä tiimin kanssa.
-
+profiler-popup-description = Työskentele suorituskykyongelmien parissa yhdessä julkaisemalla profiileita ja jakamalla niitä tiimin kanssa.
 profiler-popup-learn-more-button =
     .label = Lue lisää
-
 profiler-popup-settings =
     .value = Asetukset
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Muokkaa asetuksia…
-
 profiler-popup-recording-screen = Tallennetaan…
-
 profiler-popup-start-recording-button =
     .label = Aloita tallennus
-
 profiler-popup-discard-button =
     .label = Hylkää
-
 profiler-popup-capture-button =
     .label = Kaappaa
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -199,23 +169,22 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Suositeltu esiasetus suurimpaan osaan verkkosovellusten vianjäljityksessä.
 profiler-popup-presets-web-developer-label =
     .label = Web-kehittäjä
-
 profiler-popup-presets-firefox-description = Suositeltu esiasetus { -brand-shorter-name }in profilointiin.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Esiasetus grafiikkavirheiden tutkimiseen { -brand-shorter-name }issa.
 profiler-popup-presets-graphics-label =
     .label = Grafiikka
-
 profiler-popup-presets-media-description2 = Esiasetus ääni- ja videovirheiden tutkimiseen { -brand-shorter-name }issa.
 profiler-popup-presets-media-label =
     .label = Media
-
 profiler-popup-presets-networking-description = Esiasetus verkkovirheiden tutkimiseen { -brand-shorter-name }issa.
 profiler-popup-presets-networking-label =
     .label = Verkko
-
+profiler-popup-presets-power-description = Esiasetus virrankäyttöongelmien tutkimiseen { -brand-shorter-name }issa, vain pienellä sivuvaikutuksella.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Virta
 profiler-popup-presets-custom-label =
     .label = Mukautettu
 
@@ -278,7 +247,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Muokkaa työkalupalkkia…
-
 appmenu-developer-tools-subheader = Browser Tools
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers
