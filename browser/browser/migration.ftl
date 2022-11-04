@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Мастер импорта
-
 import-from =
     { PLATFORM() ->
         [windows] Импортировать настройки, закладки, журнал, пароли и другие данные из:
        *[other] Импортировать настройки, закладки, журнал, пароли и другие данные из:
     }
-
 import-from-bookmarks = Импортировать закладки из:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-opera =
+    .label = Opera
+    .accesskey = O
 import-from-brave =
     .label = Brave
     .accesskey = r
@@ -54,37 +55,23 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Ни одной программы, содержащей закладки, журнал или пароли, не найдено.
-
 import-source-page-title = Импорт настроек и данных
 import-items-page-title = Объекты для импорта
-
 import-items-description = Выберите объекты для импортирования:
-
 import-permissions-page-title = Предоставьте разрешения для { -brand-short-name }
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS требует, чтобы вы явно разрешили { -brand-short-name } доступ к закладкам Safari. Щёлкните «Продолжить» и выберите файл «Bookmarks.plist» на открывшейся панели «Открыть файл».
-
 import-migrating-page-title = Идёт импорт…
-
 import-migrating-description = Сейчас импортируются следующие объекты…
-
 import-select-profile-page-title = Выбор профиля
-
 import-select-profile-description = Импорт может быть произведен из следующих профилей:
-
 import-done-page-title = Импорт успешно завершён
-
 import-done-description = Следующие объекты были успешно импортированы:
-
 import-close-source-browser = Прежде чем продолжить, убедитесь, что выбранный вами браузер закрыт.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Список для чтения (из Safari)
 imported-edge-reading-list = Список для чтения (из Edge)
 
@@ -106,7 +93,6 @@ browser-data-cookies-checkbox =
     .label = Куки
 browser-data-cookies-label =
     .value = Куки
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +105,10 @@ browser-data-history-label =
             [firefox] Журнал посещений и закладки
            *[other] Журнал посещений
         }
-
 browser-data-formdata-checkbox =
     .label = Журнал сохранённых форм
 browser-data-formdata-label =
     .value = Журнал сохранённых форм
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +117,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Сохранённые логины и пароли
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +131,10 @@ browser-data-bookmarks-label =
             [edge] Избранное
            *[other] Закладки
         }
-
 browser-data-otherdata-checkbox =
     .label = Другие данные
 browser-data-otherdata-label =
     .label = Другие данные
-
 browser-data-session-checkbox =
     .label = Окна и вкладки
 browser-data-session-label =
