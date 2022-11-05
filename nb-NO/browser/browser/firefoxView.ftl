@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Slå på synkronisering for å 
 firefoxview-tabpickup-sync-disconnected-description = For å få tilgang til fanene dine må du aktivere synkronisering i { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Slå på synkronisering i innstillingene
 firefoxview-tabpickup-password-locked-header = Skriv inn hovedpassordet ditt for å vise faner
+firefoxview-tabpickup-password-locked-description = For å få tilgang til fanene dine må du skrive inn hovedpassordet for { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Les mer
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovedpassordet
 firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tar bare et øyeblikk.
