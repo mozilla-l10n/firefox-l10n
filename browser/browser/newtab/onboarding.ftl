@@ -405,6 +405,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Začnite z brskanjem
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Počutite se kot doma
+onboarding-infrequent-import-subtitle = Ne glede na to, ali se nameščate ali zgolj opazujete, ne pozabite, da lahko uvozite svoje zaznamke, gesla in drugo.
 onboarding-infrequent-import-primary-button = Uvozi v { -brand-short-name(sklon: "tozilnik") }
 
 ## MR2022 Illustration alt tags
