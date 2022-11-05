@@ -54,6 +54,15 @@ whypaused-xhr = Дар «XMLHttpRequest» таваққуф карда шуд
 # currently paused on a promise rejection
 whypaused-promise-rejection = Дар ваъдаи раддия таваққуф карда шуд
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Дар хусусияти «get» таваққуф карда шуд
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Дар хусусияти «set» таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an assert
+whypaused-assert = Дар таъкид таваққуф карда шуд
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Дар вазифаи ислоҳи хатоҳо таваққуф карда шуд
 # The text that is displayed in a info block explaining how the debugger is
