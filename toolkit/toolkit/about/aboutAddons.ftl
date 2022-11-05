@@ -187,6 +187,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Permessi siti
 addon-category-sitepermission-title =
     .title = Permessi siti
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Permessi siti per { $host }
 
 ## These are global warnings
 
