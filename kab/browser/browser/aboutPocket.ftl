@@ -45,8 +45,10 @@ pocket-panel-signup-tagline-story-one = Sit ɣef tqeffalt { -pocket-brand-name }
 pocket-panel-signup-tagline-story-two = Sken di { -pocket-brand-name } ɣef yal ibenk yellan, melmi tebɣiḍ.
 pocket-panel-signup-cta-a-fix = Taqeffalt-ik n usekles i internet
 pocket-panel-signup-cta-b = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan. Wali tabdart-ik ɣef yal ibenk, melmi i tebɣiḍ.
+pocket-panel-signup-cta-b-updated = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan. Wali iseklasen-inek·inem ɣef yal ibenk, melmi i tebɣiḍ.
 pocket-panel-signup-cta-b-short = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan.
 pocket-panel-signup-cta-c = Wali tabdart-ik ɣef yal ibenk, melmi tebɣiḍ.
+pocket-panel-signup-cta-c-updated = Wali iseklasen-inek·inem ɣef yal ibenk, melmi tebɣiḍ.
 
 ## about:pocket-home panel
 
