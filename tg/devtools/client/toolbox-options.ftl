@@ -95,7 +95,7 @@ options-context-advanced-settings = Танзимоти иловагӣ
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Ғайрифаъол кардани зерҳофизаи HTTP (вақте ки қуттии абзорҳо кушода аст)
 options-disable-http-cache-tooltip =
-    .title = Фаъолсозии ин имкон зерҳофизаи «HTTP»-ро барои ҳамаи варақаҳо ғайрифаъол мекунад ва қуттии абзорҳоро мекушояд. Ин имкон ба коргузори хизматрасонӣ таъсир намерасонад.
+    .title = Фаъолсозии ин имкон зерҳофизаи «HTTP»-ро барои ҳамаи варақаҳое, ки дорои қуттии абзорҳои кушода мебошанд, ғайрифаъол мекунад. Ин имкон ба коргузори хизматрасонӣ таъсир намерасонад.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Ғайрифаъол кардани JavaScript *
 options-disable-javascript-tooltip =
@@ -106,10 +106,16 @@ options-enable-chrome-tooltip =
     .title = Фаъолсозии ин имкон ба шумо имкон медиҳад, ки тавонед дар қаринаи браузер аз абзорҳои барномасозии гуногун (ба воситаи Абзорҳо > Барномарезии сомонаҳо > Қуттии абзорҳои браузер) истифода баред ва хатоҳои ҷузъҳои иловагиро аз Мудири ҷузъи иловагӣ ислоҳ кунед
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Фаъол кардани ислоҳи хатоҳо ба таври дурдаст
+options-enable-remote-tooltip2 =
+    .title = Фаъолсозии ин имкон ба шумо имкон медиҳад, ки тавонед хатоҳои намунаи ин браузерро ба таври дурдаст ислоҳ кунед
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Фаъол кардани воситаҳои шаклсозии фармоишӣ
+options-enable-custom-formatters-tooltip =
+    .title = Фаъолсозии ин имкон ба шумо имкон медиҳад, ки тавонед воситаҳои шаклсозии фармоиширо барои объектҳои DOM муайян кунед
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Фаъол кардани Коргузорони хизматрасонӣ тавассути HTTP (вақте ки қуттии абзорҳо кушода аст)
+options-enable-service-workers-http-tooltip =
+    .title = Фаъолсозии ин имкон коргузорони хизматрасониро барои ҳамаи варақаҳое, ки дорои қуттии абзорҳои кушода мебошанд, тавассути «HTTP» фаъол мекунад.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Фаъол кардани харитаҳои манбаъ
 # The message shown for settings that trigger page reload
