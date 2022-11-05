@@ -94,6 +94,8 @@ options-sourceeditor-keybinding-default-label = Пешфарз
 options-context-advanced-settings = Танзимоти иловагӣ
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Ғайрифаъол кардани зерҳофизаи HTTP (вақте ки қуттии абзорҳо кушода аст)
+options-disable-http-cache-tooltip =
+    .title = Фаъолсозии ин имкон зерҳофизаи «HTTP»-ро барои ҳамаи варақаҳо ғайрифаъол мекунад ва қуттии абзорҳоро мекушояд. Ин имкон ба коргузори хизматрасонӣ таъсир намерасонад.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Ғайрифаъол кардани JavaScript *
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
