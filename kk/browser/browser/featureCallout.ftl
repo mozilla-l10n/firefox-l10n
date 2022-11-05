@@ -19,6 +19,8 @@ callout-firefox-view-colorways-title = Түстер шашырауын қосы�
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Өзіңізге сай келетін түсті түстер схемасы көмегімен таңдаңыз. Тек { -brand-product-name } ішінде.
 callout-firefox-view-colorways-reminder-title = Біздің соңғы түстер схемаларын зерттеңіз
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Браузеріңізді тәуелсіз дауыстармен шабыттандырылған осы айтулы реңктермен бояу. Тек { -brand-product-name } ішінде.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
@@ -32,5 +34,12 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Баста�
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Жаңа мәтіндік құралымызбен PDF файлдарын өңдеңіз
+callout-pdfjs-edit-body-a = Тура { -brand-short-name } ішінде формаларды толтырыңыз, пікірлер немесе жазбаларды қосыңыз.
+callout-pdfjs-edit-body-b = Тегін онлайн түзеткіштерді енді іздемей-ақ қойыңыз. Тура { -brand-short-name } ішінде формаларды толтырыңыз, пікірлер немесе жазбаларды қосыңыз.
 callout-pdfjs-edit-button = Келесі
+callout-pdfjs-draw-title = Құжаттарға біздің жаңа сурет салу құралымен қол қойыңыз
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = PDF файлдарын белгілеп, өзгерістерді сақтаңыз.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Енді баспаға шығару мен сканерлеу керек емес. PDF файлдарын белгілеп, өзгерістерді сақтаңыз.
 callout-pdfjs-draw-button = Түсіндім!
