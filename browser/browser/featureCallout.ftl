@@ -39,4 +39,6 @@ callout-pdfjs-edit-button = Neste
 callout-pdfjs-draw-title = Signer dokumenter med vårt nye tegneverktøy
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Lag markeringer i PDF-filer og lagre endringene dine.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Ikke mer utskrift og skanning. Lag markeringer i PDF-filer, og lagre deretter endringene.
 callout-pdfjs-draw-button = Jeg forstår!

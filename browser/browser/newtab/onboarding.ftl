@@ -405,3 +405,15 @@ mr2022-onboarding-gratitude-secondary-button-label = Begynn å surfe
 onboarding-infrequent-import-title = Føl deg hjemme
 onboarding-infrequent-import-subtitle = Enten du slår deg til rette eller bare er innom, husk at du kan importere bokmerker, passord og mer.
 onboarding-infrequent-import-primary-button = Importer til { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Person som jobber på en bærbar PC omgitt av stjerner og blomster
+mr2022-onboarding-default-image-alt =
+    .aria-label = Person som klemmer { -brand-product-name }-logoen
+mr2022-onboarding-import-image-alt =
+    .aria-label = Person som kjører på et skateboard med en boks med programvareikoner
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Frosker som hopper over liljeblokker med en QR-kode i midten for å laste ned { -brand-product-name } for mobil
