@@ -425,3 +425,5 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Jasnoskóre i ciemnoskóre ręce przybijają piątkę
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Widok na zachód słońca przez okno z lisem i rośliną doniczkową na parapecie
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Farba w sprayu maluje kolorowy kolaż zielonego oka, pomarańczowego buta, czerwonej piłki do koszykówki, fioletowych słuchawek, niebieskiego serca i żółtej korony
