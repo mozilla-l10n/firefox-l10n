@@ -395,6 +395,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Bdu tunigin
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Ḥalfu am wakken deg uxxam i telliḍ
 onboarding-infrequent-import-primary-button = Kter ɣer { -brand-short-name }
 
 ## MR2022 Illustration alt tags

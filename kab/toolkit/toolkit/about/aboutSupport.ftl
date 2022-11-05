@@ -310,6 +310,7 @@ can-sandbox-media = Amsersu i yizegrar aget-allalen n telɣut
 content-sandbox-level = Aswir n usersu n ukala n ugbur
 effective-content-sandbox-level = Aswir n usersu n ukala n ugbur
 content-win32k-lockdown-state = Addad n usekkeṛ Win32k i ukala n ugbur
+support-sandbox-gpu-level = Aswir n usersu n ukala n GPU
 sandbox-proc-type-content = agbur
 sandbox-proc-type-file = agbur n ufaylu
 sandbox-proc-type-media-plugin = asiɣzef n wallen n teywalt

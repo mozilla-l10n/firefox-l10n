@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Rmed amtawi i wakken ad tkemmle
 firefoxview-tabpickup-sync-disconnected-description = I ulqaḍ n waccaren-ik·im, tesriḍ ad tsirgeḍ amtawi deg { -brand-short-name }
 firefoxview-tabpickup-sync-disconnected-primarybutton = Rmed amtawi deg yiɣewwaren
 firefoxview-tabpickup-password-locked-link = Issin ugar
+firefoxview-tabpickup-password-locked-primarybutton = Sekcem awal uffir agejdan
 firefoxview-tabpickup-syncing = Seqɛed tiɣimit mi ara tessemtawayeḍ accaren-ik·im. Ur yettɛeṭṭil ara.
 firefoxview-mobile-promo-header = Awi-d accaren seg tiliɣri-inek·inem neɣ seg tfelwit n uselken
 firefoxview-mobile-promo-description = I wakken ad d-tessekneḍ accaren ineggura izirazen, qqen ɣer { -brand-product-name } ɣef iOS neɣ Android.
