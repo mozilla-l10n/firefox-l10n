@@ -75,6 +75,15 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = Хусусиятҳои муҳаррир
+options-sourceeditor-detectindentation-tooltip =
+    .title = Пай бурдани фосилагузорӣ дар асоси муҳтавои манбаъ
+options-sourceeditor-detectindentation-label = Муайян кардани фосилагузорӣ
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Ба таври худкор ворид кардани қавсҳои анҷомдиҳӣ
+options-sourceeditor-autoclosebrackets-label = Анҷомдиҳии худкори қавсҳо
+options-sourceeditor-expandtab-tooltip =
+    .title = Истифода кардани фосилаҳо ба ивази аломати ҷадвалбандӣ
+options-sourceeditor-expandtab-label = Фосилагузори бо истифодаи фазоҳо
 options-sourceeditor-tabsize-label = Андозаи варақа
 options-sourceeditor-keybinding-label = Тугмабандӣ
 options-sourceeditor-keybinding-default-label = Пешфарз
