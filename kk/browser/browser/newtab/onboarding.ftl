@@ -339,6 +339,8 @@ mr2022-onboarding-gratitude-secondary-button-label = Шолуды бастау
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Өз үйіңіздегідей сезініңіз
+onboarding-infrequent-import-primary-button = { -brand-short-name } ішіне импорттау
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech

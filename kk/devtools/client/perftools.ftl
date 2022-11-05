@@ -43,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Буфер өлшемі:
-
 perftools-custom-threads-label = Таңдауыңызша ағындарды атаулары бойынша қосу:
-
 perftools-devtools-interval-label = Аралық:
 perftools-devtools-threads-label = Ағындар:
 perftools-devtools-settings-label = Баптаулар
@@ -103,20 +101,13 @@ perftools-thread-jvm-gecko =
 ##
 
 perftools-record-all-registered-threads = Жоғарыдағы таңдауды елемей, барлық тіркелген ағындарды жазу
-
 perftools-tools-threads-input-label =
     .title = Бұл ағын атаулары - профильдеушіде ағындар профильдеуін іске қосу үшін қолданылатын үтірлермен ажыратылған тізім. Бұл атау қосылатын ағын атауымен жартылай сәйкестік де бола алады. Ол бос аралықтарға сезімтал.
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Жаңа</b>: { -profiler-brand-name } енді әзірлеуші құралдарына ендірілген. Бұл мүмкіндігі көп жаңа құрал туралы <a>көбірек біліңіз</a>.
-
 perftools-onboarding-close-button =
     .aria-label = Қарсы алу хабарламасын жабу
 
@@ -129,19 +120,16 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Веб-әзірлеуші
 perftools-presets-web-developer-description = Веб-қолданбалардың көбін жөндеуге арналған, қосымша шығындары аз баптаулар жиынтығы.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = { -brand-shorter-name } профильдеу үшін ұсынылатын баптаулар жиынтығы.
-
 perftools-presets-graphics-label = Графика
 perftools-presets-graphics-description = { -brand-shorter-name } ішінде графика ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
-
 perftools-presets-media-label = Медиа
 perftools-presets-media-description2 = { -brand-shorter-name } ішінде аудио және видео ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
-
 perftools-presets-networking-label = Желі
 perftools-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
-
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Эл. қорегі
 perftools-presets-custom-label = Таңдауыңызша
 
 ##
