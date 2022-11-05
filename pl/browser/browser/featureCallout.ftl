@@ -30,3 +30,11 @@ callout-firefox-view-colorways-reminder-subtitle = Pokoloruj swoją przeglądark
 continuous-onboarding-firefox-view-tab-pickup-title = Przyspiesz przeglądanie za pomocą odbierania kart
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Korzystaj z otwartych kart na każdym urządzeniu, a także synchronizuj zakładki, hasła i nie tylko.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Zacznij teraz
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-title = Edytuj pliki PDF za pomocą naszego nowego narzędzia tekstowego
+callout-pdfjs-edit-body-a = Wypełniaj formularze, dodawaj komentarze lub rób notatki od razu w przeglądarce { -brand-short-name }.
+callout-pdfjs-edit-body-b = Nie szukaj darmowych edytorów w sieci. Wypełniaj formularze, dodawaj komentarze lub rób notatki od razu w przeglądarce { -brand-short-name }.
+callout-pdfjs-edit-button = Dalej
+callout-pdfjs-draw-title = Podpisuj dokumenty za pomocą naszego nowego narzędzia do rysowania
