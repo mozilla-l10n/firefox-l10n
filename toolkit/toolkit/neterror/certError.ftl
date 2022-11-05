@@ -45,12 +45,12 @@ cert-error-not-yet-valid-now = ウェブサイトは一定期間有効な証明�
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = エラーコード: { $error }
 # Variables:
-# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix-link = エラーコード: <a data-l10n-name="error-code-link">{ $error }</a>
-# Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } への接続中にエラーが発生しました。{ $errorMessage }
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = エラーコード: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = ウェブサイトは認証局から発行された証明書で同一性を証明します。多くのブラウザーはもはや GeoTrust および RapidSSL、Symantec、Thawte、VeriSign により発行された証明書を信頼しません。{ $hostname } はこれらのうちいずれかの認証局からの証明書を使用しているため、ウェブサイトの同一性を証明できません。
@@ -104,4 +104,4 @@ clockSkewError-title = コンピューターの時刻が間違っています
 networkProtocolError-title = ネットワークプロトコルエラー
 nssBadCert-title = 警告: 潜在的なセキュリティリスクあり
 nssBadCert-sts-title = 接続中止: 潜在的なセキュリティ問題
-certerror-mitm-title = このサイトへの安全な接続を妨げるソフトウェア
+certerror-mitm-title = ソフトウェアが { -brand-short-name } のこのサイトへの安全な接続を妨げています
