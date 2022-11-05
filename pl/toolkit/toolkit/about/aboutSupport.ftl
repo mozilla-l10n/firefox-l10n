@@ -148,7 +148,7 @@ troubleshoot-mode-title = Diagnozuj problemy
 restart-in-troubleshoot-mode-label = Tryb rozwiązywania problemów…
 clear-startup-cache-title = Spróbuj wyczyścić pamięć podręczną uruchamiania
 clear-startup-cache-label = Wyczyść pamięć podręczną uruchamiania…
-startup-cache-dialog-title2 = Uruchomić ponownie, aby wyczyścić pamięć podręczną uruchamiania?
+startup-cache-dialog-title2 = Uruchomić { -brand-short-name(case: "acc") } ponownie, aby wyczyścić pamięć podręczną uruchamiania?
 startup-cache-dialog-body2 = Nie spowoduje to zmiany ustawień ani usunięcia rozszerzeń.
 restart-button-label = Uruchom ponownie
 
