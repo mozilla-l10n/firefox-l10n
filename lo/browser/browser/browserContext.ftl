@@ -106,6 +106,12 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = ແກ້ໄຂບຸກມາກນີ້
     .accesskey = m
     .tooltiptext = ແກ້ໄຂບຸກມາກນີ້ ({ $shortcut })
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = ແກ້ໄຂບຸກມາກ
+    .accesskey = m
 main-context-menu-open-link =
     .label = ເປີດລີ້ງ
     .accesskey = O

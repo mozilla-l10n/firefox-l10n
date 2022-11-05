@@ -416,6 +416,12 @@ urlbar-result-action-search-actions = ຄຳສັ່ງການຄົ້ນຫ
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } ແນະນຳ
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = ຄຳສັ່ງດ່ວນ
