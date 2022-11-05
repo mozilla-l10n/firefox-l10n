@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Жалғастыру үшін �
 firefoxview-tabpickup-sync-disconnected-description = Беттерді алу үшін { -brand-short-name } ішінде синхрондауға рұқсат беруіңіз керек.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Баптауларда синхрондауды іске қосу
 firefoxview-tabpickup-password-locked-header = Беттерді көру үшін басты парольді енгізіңіз
+firefoxview-tabpickup-password-locked-description = Беттерді алу үшін { -brand-short-name } үшін басты пароліңізді енгізуіңіз керек.
 firefoxview-tabpickup-password-locked-link = Көбірек білу
 firefoxview-tabpickup-password-locked-primarybutton = Басты парольді енгізіңіз
 firefoxview-tabpickup-syncing = Беттер синхрондалғанын күте тұрыңыз. Бұл жылдам болады.
