@@ -8,24 +8,13 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = An error occurred during a connection to { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Error code: { $error }
-
 psmerr-ssl-disabled = Can’t connect securely because the SSL protocol has been disabled.
 psmerr-ssl2-disabled = Can’t connect securely because the site uses an older, insecure version of the SSL protocol.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
-
 ssl-error-export-only-server = Unable to communicate securely. Peer does not support high-grade encryption.
 ssl-error-us-only-server = Unable to communicate securely. Peer requires high-grade encryption which is not supported.
 ssl-error-no-cypher-overlap = Cannot communicate securely with peer: no common encryption algorithm(s).
@@ -212,14 +201,6 @@ sec-error-pkcs7-keyalg-mismatch = Cannot decrypt: key encryption algorithm does 
 sec-error-pkcs7-bad-signature = Signature verification failed: no signer found, too many signers found, or improper or corrupted data.
 sec-error-unsupported-keyalg = Unsupported or unknown key algorithm.
 sec-error-decryption-disallowed = Cannot decrypt: encrypted using a disallowed algorithm or key size.
-xp-sec-fortezza-bad-card = Fortezza card has not been properly initialised. Please remove it and return it to your issuer.
-xp-sec-fortezza-no-card = No Fortezza cards Found
-xp-sec-fortezza-none-selected = No Fortezza card selected
-xp-sec-fortezza-more-info = Please select a personality to get more info on
-xp-sec-fortezza-person-not-found = Personality not found
-xp-sec-fortezza-no-more-info = No more information on that Personality
-xp-sec-fortezza-bad-pin = Invalid Pin
-xp-sec-fortezza-person-error = Couldn’t initialise Fortezza personalities.
 sec-error-no-krl = No KRL for this site’s certificate has been found.
 sec-error-krl-expired = The KRL for this site’s certificate has expired.
 sec-error-krl-bad-signature = The KRL for this site’s certificate has an invalid signature.
@@ -234,9 +215,6 @@ sec-error-cert-nickname-collision = A certificate with the same nickname already
 sec-error-key-nickname-collision = A key with the same nickname already exists.
 sec-error-safe-not-created = error while creating safe object
 sec-error-baggage-not-created = error while creating baggage object
-xp-java-remove-principal-error = Couldn’t remove the principal
-xp-java-delete-privilege-error = Couldn’t delete the privilege
-xp-java-cert-not-exists-error = This principal doesn’t have a certificate
 sec-error-bad-export-algorithm = Required algorithm is not allowed.
 sec-error-exporting-certificates = Error attempting to export certificates.
 sec-error-importing-certificates = Error attempting to import certificates.
@@ -353,3 +331,14 @@ mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate
 mozilla-pkix-error-empty-issuer-name = The server presented a certificate with an empty issuer distinguished name.
 mozilla-pkix-error-additional-policy-constraint-failed = An additional policy constraint failed when validating this certificate.
 mozilla-pkix-error-self-signed-cert = The certificate is not trusted because it is self-signed.
+xp-java-remove-principal-error = Couldn’t remove the principal
+xp-java-delete-privilege-error = Couldn’t delete the privilege
+xp-java-cert-not-exists-error = This principal doesn’t have a certificate
+xp-sec-fortezza-bad-card = Fortezza card has not been properly initialised. Please remove it and return it to your issuer.
+xp-sec-fortezza-no-card = No Fortezza cards Found
+xp-sec-fortezza-none-selected = No Fortezza card selected
+xp-sec-fortezza-more-info = Please select a personality to get more info on
+xp-sec-fortezza-person-not-found = Personality not found
+xp-sec-fortezza-no-more-info = No more information on that personality
+xp-sec-fortezza-bad-pin = Invalid Pin
+xp-sec-fortezza-person-error = Couldn’t initialise Fortezza personalities.
