@@ -319,6 +319,7 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Ноутбуктен телефонға және кері өтіңіз
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -345,3 +346,9 @@ onboarding-infrequent-import-primary-button = { -brand-short-name } ішіне �
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Жұлдыздар мен гүлдермен қоршалған ноутбукта жұмыс істейтін адам
+mr2022-onboarding-default-image-alt =
+    .aria-label = { -brand-product-name } логотипін құшақтап тұрған адам
+mr2022-onboarding-import-image-alt =
+    .aria-label = Бағдарламалар таңбашалары қорабы бар скейтборд мінген адам
