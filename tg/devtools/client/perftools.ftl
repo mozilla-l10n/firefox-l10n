@@ -111,10 +111,13 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Рад кардани интихоби болозикр ва сабт кардани ҳамаи ҷараёнҳои бақайдгирифташуда
+perftools-tools-threads-input-label =
+    .title = Ин номҳои ҷараёнҳо дар рӯйхате бо вергул ҷудошуда, барои фаъол кардани профилсозии ҷараёнҳо дар профилсоз истифода мешаванд. Ном метавонад ба номи ҷараёне, ки илова мешавад, танҳо қисман мувофиқат кунад. Фосилаҳо байни номҳо бояд бо диққат истифода шаванд.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+perftools-onboarding-message = <b>Нав</b>: Акнун { -profiler-brand-name } ба Абзорҳои барномасозӣ илова карда шудааст. <a>Маълумоти бештар</a> дар бораи ин абзори нави пурқувват.
 perftools-onboarding-close-button =
     .aria-label = Пӯшидани паёми интиқол
 
