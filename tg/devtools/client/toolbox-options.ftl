@@ -10,6 +10,9 @@
 
 # The heading
 options-select-default-tools-label = Абзорҳои барномарезии пешфарз
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Барои мақсади ҷории қуттии абзорҳо дастгирӣ намешавад
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Абзорҳои барномасозии насбшуда тавассути ҷузъҳои иловагӣ
@@ -25,6 +28,8 @@ options-select-dev-tools-theme-label = Мавзуъҳо
 options-context-inspector = Тафтишкунанда
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Намоиш додани услубҳои браузер
+options-show-user-agent-styles-tooltip =
+    .title = Фаъолсозии ин имкон услубҳои пешфарзеро, ки аз тарафи браузер бор мешаванд, нишон медиҳад.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Кутоҳ кардани сифатҳои DOM
 options-collapse-attrs-tooltip =
@@ -37,6 +42,7 @@ options-inspector-draggable-properties-tooltip =
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Воҳиди танзими ранг ба сурати пешфарз
+options-default-color-unit-authored = Аз рӯи нусхаи аслӣ
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -49,6 +55,8 @@ options-default-color-unit-name = Номҳои ранг
 options-styleeditor-label = Муҳаррири услубҳо
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Анҷомдиҳии худкор барои рамзи CSS
+options-stylesheet-autocompletion-tooltip =
+    .title = Анҷомдиҳии худкори рамз барои хусусиятҳо, қиматҳо ва интихобкунандаҳои CSS ҳангоми воридкунии онҳо дар Муҳаррири услубҳо
 
 ## Screenshot section
 
@@ -60,6 +68,8 @@ options-screenshot-clipboard-tooltip2 =
     .title = Нигоҳ доштани акси экран мустақиман ба ҳофизаи муваққатӣ
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Пахш кардани садои даричаи камера
+options-screenshot-audio-tooltip =
+    .title = Фаъол кардани садои аудиои камера ҳангоми гирифтани акси экран
 
 ## Editor section
 
