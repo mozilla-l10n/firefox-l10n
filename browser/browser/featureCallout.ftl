@@ -35,4 +35,8 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kom i gang
 
 callout-pdfjs-edit-title = Rediger PDF-er med vårt nye tekstverktøy
 callout-pdfjs-edit-body-a = Fyll ut skjemaer, legg til kommentarer eller ta notater direkte i { -brand-short-name }.
+callout-pdfjs-edit-button = Neste
+callout-pdfjs-draw-title = Signer dokumenter med vårt nye tegneverktøy
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Lag markeringer i PDF-filer og lagre endringene dine.
 callout-pdfjs-draw-button = Jeg forstår!
