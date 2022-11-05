@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = Хусусия
 inactive-css-not-table = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҷадвал намебошад.
 inactive-scroll-padding-when-not-scroll-container = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ҳаракат карда намешавад.
 inactive-css-border-image = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ба унсурҳои дохили ҷадвале, ки дар он хусусияти <strong>border-collapse</strong> ба <strong>collapse</strong> дар унсури ҷадвали аслӣ танзим шудааст, татбиқ карда намешавад.
+inactive-css-ruby-element = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «ruby» мебошад. Андозаи он аз тарафи андозаи шрифти матни «ruby» муайян карда мешавад.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -48,9 +49,14 @@ inactive-css-not-inline-or-tablecell-fix = Кӯшиш кунед, ки <strong>d
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Кӯшиш кунед, ки <strong>display:inline-block</strong> ё <strong>display:block</strong>-ро илова намоед. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Кӯшиш кунед, ки <strong>display:inline-block</strong>-ро илова намоед. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Кӯшиш кунед, ки <strong>float</strong>-ро тоза кунед ё <strong>display:block</strong>-ро илова намоед. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Кӯшиш кунед, ки хусусияти <strong>position</strong>-и онро ба хусусияте танзим кунед, ки аз <strong>static</strong> фарқ мекунад. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Кӯшиш кунед, ки <strong>overflow:hidden</strong>-ро илова намоед. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Кӯшиш кунед, ки хусусияти <strong>display</strong>-и онро ба хусусияте танзим кунед, ки аз <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ё <strong>table-footer-group</strong> фарқ мекунад. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Кӯшиш кунед, ки хусусияти <strong>display</strong>-и онро ба хусусияте танзим кунед, ки аз <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ё <strong>table-footer-group</strong> фарқ мекунад. { learn-more }
 inactive-css-not-table-fix = Кӯшиш кунед, ки <strong>display:table</strong> ё <strong>display:inline-table</strong>-ро илова намоед. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Кӯшиш кунед, ки <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ё <strong>overflow:hidden</strong>-ро илова намоед. { learn-more }
+inactive-css-border-image-fix = Дар унсури ҷадвали аслӣ, хусусиятро тоза кунед ё қимати <strong>border-collapse</strong>-ро ба қимате иваз кунед, ки аз <strong>collapse</strong> фарқ мекунад. { learn-more }
+inactive-css-ruby-element-fix = Кӯшиш кунед, ки <strong>font-size</strong>-ро дар матни «ruby» иваз намоед. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
