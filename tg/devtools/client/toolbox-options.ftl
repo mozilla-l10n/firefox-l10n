@@ -118,5 +118,7 @@ options-enable-service-workers-http-tooltip =
     .title = Фаъолсозии ин имкон коргузорони хизматрасониро барои ҳамаи варақаҳое, ки дорои қуттии абзорҳои кушода мебошанд, тавассути «HTTP» фаъол мекунад.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Фаъол кардани харитаҳои манбаъ
+options-source-maps-tooltip =
+    .title = Агар шумо ин имконро фаъол созед, манбаъҳо дар абзорҳо ба харита дароварда мешаванд.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Танҳо ҷаласаи ҷорӣ, саҳифаро аз нав бор мекунад
