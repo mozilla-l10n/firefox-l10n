@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Nombro de malrapida staplaj aliroj
 about-networking-rcwn-cache-not-slow = Nombro de ne malrapidaj staplaj aliroj
 about-networking-networkid = Identigilo reta
 about-networking-networkid-id = Identigilo reta
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Tiu ĉi paĝo estis movita al <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
