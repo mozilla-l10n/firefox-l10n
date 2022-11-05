@@ -8,12 +8,9 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — 共有インジケーター
 webrtc-indicator-window =
     .title = { -brand-short-name } — 共有インジケーター
@@ -41,7 +38,7 @@ webrtc-sharing-menu =
     .label = 共有デバイスタブ
     .accesskey = d
 webrtc-sharing-window = 他のアプリケーションのウインドウを共有しています。
-webrtc-sharing-browser-window = { -brand-short-name } を共有してます。
+webrtc-sharing-browser-window = { -brand-short-name } を共有しています。
 webrtc-sharing-screen = 全画面を共有しています。
 webrtc-stop-sharing-button = 共有を停止
 webrtc-microphone-unmuted =
@@ -58,10 +55,6 @@ webrtc-minimize =
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
-
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = カメラを共有しています。クリックすると共有を制御します。
 webrtc-microphone-system-menu =
@@ -142,6 +135,7 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } にこのタブの音�
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } から { $thirdParty } にもこのタブの音声の再生を許可しますか？
 webrtc-allow-share-camera-unsafe-delegation = { $origin } から { $thirdParty } にもカメラの使用を許可しますか？
 webrtc-allow-share-microphone-unsafe-delegations = { $origin } から { $thirdParty } にもマイクの使用を許可しますか？
 webrtc-allow-share-screen-unsafe-delegation = { $origin } から { $thirdParty } にもあなたの画面の表示を許可しますか？
