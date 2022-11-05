@@ -98,6 +98,10 @@ options-disable-http-cache-tooltip =
     .title = Фаъолсозии ин имкон зерҳофизаи «HTTP»-ро барои ҳамаи варақаҳо ғайрифаъол мекунад ва қуттии абзорҳоро мекушояд. Ин имкон ба коргузори хизматрасонӣ таъсир намерасонад.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Ғайрифаъол кардани JavaScript *
+options-disable-javascript-tooltip =
+    .title = Фаъолсозии ин имкон «JavaScript»-ро барои варақаи ҷорӣ ғайрифаъол мекунад. Агар варақа ё қуттии абзорҳо пӯшида шавад, пас ин танзим бекор карда мешавад.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Фаъол кардани қуттиҳои абзорҳои браузери «chrome» ва ислоҳи хатоҳои ҷузъҳои иловагӣ
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Фаъол кардани ислоҳи хатоҳо ба таври дурдаст
 # The label for checkbox that toggles custom formatters for objects
