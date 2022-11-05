@@ -102,6 +102,8 @@ options-disable-javascript-tooltip =
     .title = Фаъолсозии ин имкон «JavaScript»-ро барои варақаи ҷорӣ ғайрифаъол мекунад. Агар варақа ё қуттии абзорҳо пӯшида шавад, пас ин танзим бекор карда мешавад.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Фаъол кардани қуттиҳои абзорҳои браузери «chrome» ва ислоҳи хатоҳои ҷузъҳои иловагӣ
+options-enable-chrome-tooltip =
+    .title = Фаъолсозии ин имкон ба шумо имкон медиҳад, ки тавонед дар қаринаи браузер аз абзорҳои барномасозии гуногун (ба воситаи Абзорҳо > Барномарезии сомонаҳо > Қуттии абзорҳои браузер) истифода баред ва хатоҳои ҷузъҳои иловагиро аз Мудири ҷузъи иловагӣ ислоҳ кунед
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Фаъол кардани ислоҳи хатоҳо ба таври дурдаст
 # The label for checkbox that toggles custom formatters for objects
