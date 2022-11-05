@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } — tryb prywatny
 
 ##
@@ -409,7 +411,7 @@ identity-description-passive-loaded-mixed = { -brand-short-name } zablokował ni
 identity-description-active-loaded = Witryna zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.
 identity-description-active-loaded-insecure = Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.
 identity-learn-more =
-    .value = Więcej informacji
+    .value = Więcej na ten temat
 identity-disable-mixed-content-blocking =
     .label = Tymczasowo wyłącz ochronę
     .accesskey = T
@@ -417,7 +419,7 @@ identity-enable-mixed-content-blocking =
     .label = Włącz ochronę
     .accesskey = W
 identity-more-info-link-text =
-    .label = Więcej informacji…
+    .label = Więcej informacji
 
 ## Window controls
 
