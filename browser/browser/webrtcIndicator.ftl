@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — wskaźnik udostępniania
 webrtc-indicator-window =
     .title = { -brand-short-name } — wskaźnik udostępniania
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Obraz z kamery jest udostępniany. Kliknij, aby zarządzać udostępnianiem.
 webrtc-microphone-system-menu =
@@ -172,6 +167,7 @@ webrtc-allow-share-screen-and-audio-capture = Czy udostępnić dźwięk tej kart
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Czy zezwolić witrynie „{ $origin }” na udostępnienie dźwięku tej karty witrynie „{ $thirdParty }”?
 webrtc-allow-share-camera-unsafe-delegation = Czy zezwolić witrynie „{ $origin }” na udostępnienie obrazu z kamery witrynie „{ $thirdParty }”?
 webrtc-allow-share-microphone-unsafe-delegations = Czy zezwolić witrynie „{ $origin }” na udostępnienie dźwięku z mikrofonu witrynie „{ $thirdParty }”?
 webrtc-allow-share-screen-unsafe-delegation = Czy zezwolić witrynie „{ $origin }” na udostępnienie obrazu ekranu witrynie „{ $thirdParty }”?
