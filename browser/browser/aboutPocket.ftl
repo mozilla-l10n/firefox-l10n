@@ -46,8 +46,10 @@ pocket-panel-signup-tagline-story-one = Clicatz lo boton { -pocket-brand-name } 
 pocket-panel-signup-tagline-story-two = Vejatz lo contengut de { -pocket-brand-name } de quin periferic que siá quand volatz.
 pocket-panel-signup-cta-a-fix = Vòstre boton per enregistrar los internets
 pocket-panel-signup-cta-b = Clicatz lo boton { -pocket-brand-name } per salvar d’articles, de vidèos e de ligams. Vejatz vòstra lista de quin aparelh que siá, quand volgatz.
+pocket-panel-signup-cta-b-updated = Clicatz lo boton { -pocket-brand-name } per salvar d’articles, de vidèos e de ligams. Vejatz vòstre enregistraments de quin aparelh que siá, quand volgatz.
 pocket-panel-signup-cta-b-short = Clicatz lo boton { -pocket-brand-name } per enregistrar d’articles, de vidèos e de ligams.
-pocket-panel-signup-cta-c = Vejatz vòstra lista de quin aparelh que siá, que volètz.
+pocket-panel-signup-cta-c = Vejatz vòstra lista de quin aparelh que siá, quand volètz.
+pocket-panel-signup-cta-c-updated = Vejatz vòstres enregistraments de quin aparelh que siá, quand volètz.
 
 ## about:pocket-home panel
 
@@ -65,6 +67,7 @@ pocket-panel-home-new-user-message = Consultatz vòstres enregistraments recents
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Afichar ma lista
+pocket-panel-header-my-saves = Veire mos Enregistraments
 pocket-panel-header-sign-in = Connexion
 
 ## Pocket panel buttons

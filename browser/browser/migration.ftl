@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Assistent d'importacion
-
 import-from =
     { PLATFORM() ->
         [windows] Importar las opcions, los marcapaginas, l'istoric, los mots de pas e las autras donadas de :
        *[other] Importar las preferéncias, los marcapaginas, l'istoric, los senhals e las autras donadas de :
     }
-
 import-from-bookmarks = Importar los marcapaginas de :
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-opera =
+    .label = Opera
+    .accesskey = O
 import-from-brave =
     .label = Brave
     .accesskey = r
@@ -54,37 +55,23 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Impossible de trobar un logicial que contenga de marcapaginas, un istoric o de senhals.
-
 import-source-page-title = Importar los paramètres e las donadas
 import-items-page-title = Elements d'importar
-
 import-items-description = Seleccionatz los elements d'importar :
-
 import-permissions-page-title = Mercés de donar las autorizacions a { -brand-short-name }
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS requerís qu’autorizetz explicitament { -brand-short-name } a accedir als marcapaginas de Sagari. Clicatz sus « Contunhar » e causissètz lo fichièr « Bookmarks.plist » dins la panèl de dobertura de fichièr qu’apareisserà.
-
 import-migrating-page-title = Importacion…
-
 import-migrating-description = Los elements seguents son a s'importar…
-
 import-select-profile-page-title = Causissètz un perfil
-
 import-select-profile-description = Los perfils seguents son disponibles per èsser importats :
-
 import-done-page-title = Importacion acabada
-
 import-done-description = Los elements seguents son estats importats amb succès :
-
 import-close-source-browser = Abans de contunhar, asseguratz-vos que lo navegador seleccionat siá tampat
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Lista de lectura (de Safari)
 imported-edge-reading-list = Lista de lectura (de Edge)
 
@@ -106,7 +93,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +105,10 @@ browser-data-history-label =
             [firefox] Istoric de navegacion e marcapaginas
            *[other] Istoric de navegacion
         }
-
 browser-data-formdata-checkbox =
     .label = Donadas de formularis enregistradas
 browser-data-formdata-label =
     .value = Donadas de formularis enregistradas
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +117,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Identificants salvats e senhals
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +131,10 @@ browser-data-bookmarks-label =
             [edge] Favorits
            *[other] Marcapaginas
         }
-
 browser-data-otherdata-checkbox =
     .label = Autras donadas
 browser-data-otherdata-label =
     .label = Autras donadas
-
 browser-data-session-checkbox =
     .label = Fenèstras e onglets
 browser-data-session-label =
