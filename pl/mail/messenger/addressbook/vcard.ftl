@@ -117,9 +117,22 @@ vcard-org-title-input =
     .title = Stanowisko
     .placeholder = Stanowisko
 vcard-org-role = Rola
+vcard-org-role-input =
+    .title = Funkcja lub rola odgrywana w konkretnej sytuacji
+    .placeholder = Rola w projekcie
 vcard-org-org = Firma/Organizacja
+vcard-org-org-input =
+    .title = Nazwa organizacyjna
+    .placeholder = Nazwa firmy
+vcard-org-org-unit = Dział
+vcard-org-org-unit-input =
+    .title = Nazwa jednostki organizacyjnej
+    .placeholder = Dział
 
 # Custom properties
 
 vcard-custom-header = Inne właściwości
 vcard-custom-add = Dodaj inne właściwości
+vcard-remove-button-title =
+    .title = Usuń
+vcard-remove-button = Usuń
