@@ -5,28 +5,22 @@
 cookies-window-dialog =
     .title = Ciasteczka
     .style = width: 36em;
-
+cookies-window-dialog2 =
+    .title = Ciasteczka
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Szukaj:
     .accesskey = S
-
 cookies-on-system-label = Na tym komputerze przechowywane są następujące ciasteczka:
-
 treecol-site-header =
     .label = Witryna
-
 treecol-name-header =
     .label = Nazwa ciasteczka
-
 props-name-label =
     .value = Nazwa:
 props-value-label =
@@ -41,15 +35,12 @@ props-expires-label =
     .value = Wygasa:
 props-container-label =
     .value = Kontener:
-
 remove-cookie-button =
     .label = Usuń ciasteczko
     .accesskey = U
-
 remove-all-cookies-button =
     .label = Usuń wszystkie ciasteczka
     .accesskey = w
-
 cookie-close-button =
     .label = Zamknij
     .accesskey = Z
