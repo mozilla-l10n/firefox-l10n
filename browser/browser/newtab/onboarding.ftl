@@ -422,3 +422,7 @@ mr2022-onboarding-pin-private-image-alt =
     .aria-label = Toverstêf lit it { -brand-product-name }-priveenavigaasjelogo út in ferskine
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Lichte en donkere hannen dogge in high five
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Utsicht op in sinneûndergong troch in finster mei in foks en in keamerplant op in finsterbank
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = In hân spuitet in kleurige kollaazje fan in grien each, oranje skuon, reade basketbal, pearze koptelefoan, blau hert en giele kroan
