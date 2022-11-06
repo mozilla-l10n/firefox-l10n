@@ -7,6 +7,15 @@
 
 appmenu-sync-panel-title =
     .title = Sync
+appmenu-signin-panel =
+    .label = Iniciar sesión en Sync
+    .accesskey = I
+appmenu-sync-sync =
+    .value = Sincronización de cuenta
+    .accesskey = a
+appmenu-sync-manage =
+    .value = Administrar cuenta
+    .accesskey = m
 
 ## New Account
 
