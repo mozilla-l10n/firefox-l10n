@@ -291,9 +291,13 @@ mr2022-onboarding-existing-pin-subtitle = Бір шерту арқылы кез 
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Интернетте шолу жасағанда жекелігіңізді қорғайтын браузерді пайдаланыңыз. Біздің соңғы жаңартуымыз сізге ұнайтын нәрселерге толы.
+mr2022-onboarding-existing-pin-checkbox-label = Сонымен қатар, { -brand-short-name } жекелік шолуын қосу
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name } өнімін негізгі браузер қылыңыз
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } өнімін негізгі браузер етіңіз
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Коммерциялық емес ұйым қолдайтын браузерді қолданыңыз. Сіз интернетті шолған кезде біз сіздің жекелігіңізді қорғаймыз.
@@ -302,11 +306,15 @@ mr2022-onboarding-set-default-subtitle = Коммерциялық емес ұй�
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Біздің соңғы нұсқамыз сіз үшін жасалған, бұл интернетті шолуды бұрынғыдан да жеңілдетеді. Ол жаңа мүмкіндіктерге толы, олар сізге ұнайды деп ойлаймыз.
 mr2022-onboarding-get-started-primary-button-label = Бірнеше секундта баптау
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Найзағайдай жылдам баптау
+mr2022-onboarding-import-subtitle = { -brand-short-name } өнімін өзіңізге ұнайтындай етіп баптаңыз . Ескі браузерден бетбелгілер, парольдер және т.б. қосыңыз.
 mr2022-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
 
 ## If your language uses grammatical genders, in the description for the
@@ -317,6 +325,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Бұрынғы б
 mr2022-onboarding-colorway-title = Сізге шабыт беретін түсті таңдаңыз
 mr2022-onboarding-colorway-subtitle = Тәуелсіз дауыстар мәдениетті өзгерте алады.
 mr2022-onboarding-colorway-primary-button-label-continue = Орнатып, жалғастыру
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } өнімін түрлі-түсті басты бетіңіз етіп жасаңыз
 mr2022-onboarding-colorway-label-default = Бастапқы
 mr2022-onboarding-colorway-tooltip-default =
     .title = Бастапқы
