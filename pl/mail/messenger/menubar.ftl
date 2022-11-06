@@ -69,7 +69,7 @@ menu-quit =
 menu-quit-mac =
     .label = Zakończ program { -brand-shorter-name }
 quit-app-shortcut =
-    .key = k
+    .key = Q
 
 ## Mail Toolbar
 
