@@ -22,6 +22,10 @@ about-webrtc-auto-refresh-label = Навсозии худкор
 
 ##
 
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = Муайянкунандаи «PeerConnection»:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -66,6 +70,9 @@ about-webrtc-type-remote = Дурдаст
 
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = Пешниҳодшуда
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Интихоб шуд
 about-webrtc-save-page-label = Нигоҳ доштани саҳифа
@@ -76,6 +83,10 @@ about-webrtc-stats-heading = Омори ҷаласа
 about-webrtc-stats-clear = Пок кардани таърих
 about-webrtc-log-heading = Сабти рӯйдодҳои пайваст
 about-webrtc-log-clear = Пок кардани сабти рӯйдодҳо
+about-webrtc-log-show-msg = намоиш додани сабти рӯйдодҳо
+    .title = барои баркушодани ин қисмат, зер кунед
+about-webrtc-log-hide-msg = пинҳон кардани сабти рӯйдодҳо
+    .title = барои пинҳон кардани ин қисмат, зер кунед
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -94,16 +105,33 @@ about-webrtc-remote-candidate = Номзади дурдаст
 about-webrtc-raw-candidates-heading = Ҳамаи номзадҳои коркарднашуда
 about-webrtc-raw-local-candidate = Номзади коркарднашудаи маҳаллӣ
 about-webrtc-raw-remote-candidate = Номзади коркарднашудаи дурдаст
+about-webrtc-raw-cand-show-msg = намоиш додани номзадҳои коркарднашуда
+    .title = барои баркушодани ин қисмат, зер кунед
+about-webrtc-raw-cand-hide-msg = пинҳон кардани номзадҳои коркарднашуда
+    .title = барои пинҳон кардани ин қисмат, зер кунед
 about-webrtc-priority = Афзалият
+about-webrtc-fold-show-msg = намоиш додани тафсилот
+    .title = барои баркушодани ин қисмат, зер кунед
+about-webrtc-fold-hide-msg = пинҳон кардани тафсилот
+    .title = барои пинҳон кардани ин қисмат, зер кунед
+about-webrtc-decoder-label = Рамзёбӣ
+about-webrtc-encoder-label = Рамзгузор
 about-webrtc-show-tab-label = Намоиш додани варақа
 about-webrtc-width-px = Васеӣ (px)
 about-webrtc-height-px = Баландӣ (px)
+about-webrtc-rotation-degrees = Даврзанӣ (дараҷаҳо)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Таъмин шудааст
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Таъмин нашудааст
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
