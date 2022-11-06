@@ -219,6 +219,10 @@ newtab-pocket-load-more-stories-button = ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱠᱚ 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = ᱟᱢ ᱫᱚ ᱡᱷᱚᱛᱚ ᱧᱮᱞ ᱦᱩᱭ ᱠᱮᱜᱼᱟᱢ !
+newtab-pocket-last-card-desc = ᱰᱷᱮᱨ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾
+newtab-pocket-last-card-image =
+    .alt = ᱟᱢ ᱫᱚ ᱡᱷᱚᱛᱚ ᱧᱮᱞ ᱦᱩᱭ ᱠᱮᱜᱼᱟᱢ
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 newtab-pocket-saved = ᱥᱟᱺᱪᱟᱣᱮᱱᱟ
@@ -226,6 +230,7 @@ newtab-pocket-saved = ᱥᱟᱺᱪᱟᱣᱮᱱᱟ
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = ᱮᱦᱮ, ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱞᱟᱫᱮ ᱡᱷᱚᱜ ᱪᱮᱫ ᱪᱷᱚᱸ ᱵᱷᱩᱞ ᱦᱩᱭ ᱮᱱᱟ ᱾
 newtab-error-fallback-refresh-link = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱦᱴᱟ ᱯᱷᱟᱨᱱᱟᱭ ᱢᱮ ᱾
 
 ## Customization Menu

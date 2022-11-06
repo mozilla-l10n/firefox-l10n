@@ -185,6 +185,11 @@ spotlight-pin-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = ᱱᱤᱛᱚᱜ { -brand-shorter-name } ᱡᱷᱤᱡᱽ ᱢᱮ
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = ᱛᱟᱭᱚᱢ ᱛᱮ ᱩᱭᱦᱟᱹᱨ ᱤᱧ ᱢᱮ
 
 ## Firefox View CFR
 
@@ -192,8 +197,10 @@ firefoxview-cfr-primarybutton = ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
     .accesskey = T
 firefoxview-cfr-secondarybutton = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = N
+firefoxview-cfr-header = { -firefoxview-brand-name } ᱥᱟᱶᱛᱮ ᱱᱮᱱᱮ ᱵᱚᱱᱫ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱧᱟᱢ ᱢᱮ
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = { -firefoxview-brand-name } ᱡᱚᱦᱟᱨᱟᱭ ᱢᱮ
 firefoxview-spotlight-promo-primarybutton = ᱧᱮᱞ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱠᱟᱹᱢᱤᱭᱟ
 firefoxview-spotlight-promo-secondarybutton = ᱟᱲᱟᱜ
