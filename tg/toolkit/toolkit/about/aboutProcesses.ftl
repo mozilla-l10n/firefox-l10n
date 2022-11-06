@@ -47,6 +47,10 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Рамзёбии маълумот ({ $pid })
 about-processes-socket-process = Шабака ({ $pid })
+about-processes-remote-sandbox-broker-process = Миёнрави дурдасти минтақаи санҷишӣ ({ $pid })
+about-processes-fork-server-process = Сервери «Форк» ({ $pid })
+about-processes-preallocated-process = Пешакӣ ҷойгиршуда ({ $pid })
+about-processes-utility-process = Барномаи пуштибонӣ ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -59,10 +63,28 @@ about-processes-unknown-process = Дигар: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, «serviceworker»)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, муҳити ҷудошудаи манбаъҳо)
 about-processes-web-isolated-process-private = { $origin } — Хусусӣ ({ $pid })
+about-processes-with-coop-coep-process-private = { $origin } — Хусусӣ ({ $pid }, муҳити ҷудошудаи манбаъҳо)
 
 ## Details within processes
 
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } аз { $number } ҷараёни фаъол: { $list }
+       *[other] { $active } аз { $number } ҷараёни фаъол: { $list }
+    }
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -74,10 +96,17 @@ about-processes-inactive-threads =
         [one] { $number } ҷараёни ғайрифаъол
        *[other] { $number } ҷараёни ғайрифаъол
     }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Муайянкунандаи ҷараён: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Варақа: { $name }
+about-processes-preloaded-tab = Варақаи нави пешакӣ боркардашуда
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
