@@ -173,12 +173,26 @@ fx100-thank-you-hero-text =
     100
     ᱥᱟᱨᱦᱟᱣ 
     <span data-l10n-name="zap">ᱠᱚ</span>
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] ᱰᱚᱠ ᱨᱮ { -brand-short-name } ᱫᱚᱦᱚᱭ ᱢᱮ
+       *[other] ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    }
+fx100-upgrade-thanks-header = 100 ᱥᱟᱨᱦᱟᱣ ᱠᱚ
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] ᱰᱚᱠ ᱨᱮ { -brand-short-name } ᱫᱚᱦᱚᱭ ᱢᱮ
+       *[other] ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = { -brand-product-name } ᱫᱩᱞᱟᱹᱲᱟᱜ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱜᱮ
 
 ## MR2022 New User Set Default screen strings
 
@@ -207,6 +221,16 @@ mr2022-onboarding-colorway-tooltip-playmaker =
     .title = ᱯᱞᱮᱢᱮᱠᱚᱨ
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = ᱯᱞᱮᱢᱮᱠᱚᱨ (ᱟᱨᱟᱜ)
+mr2022-onboarding-colorway-label-dreamer = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ (ᱵᱮᱝᱜᱩᱱᱤ)
+mr2022-onboarding-colorway-label-innovator = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ (ᱥᱟᱱᱛᱨᱟ)
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -217,12 +241,19 @@ mr2022-onboarding-colorway-tooltip-playmaker2 =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+mr2022-onboarding-privacy-segmentation-button-secondary-label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = ᱟᱯᱮ ᱫᱚ ᱵᱮᱥ ᱣᱮᱵ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱞᱮ ᱮᱢᱚᱜ ᱠᱟᱱᱟ
+mr2022-onboarding-gratitude-primary-button-label = ᱧᱮᱞ ᱢᱮ ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
+mr2022-onboarding-gratitude-secondary-button-label = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = ᱚᱲᱟᱜ ᱨᱮ ᱟᱢ ᱛᱮ ᱛᱮᱭᱟᱨ ᱢᱮ
+onboarding-infrequent-import-primary-button = { -brand-short-name } ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
