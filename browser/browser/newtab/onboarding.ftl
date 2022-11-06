@@ -409,3 +409,13 @@ onboarding-infrequent-import-primary-button = Importer til { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Person som jobbar på ein berbar PC omgitt av stjerner og blomster
+mr2022-onboarding-default-image-alt =
+    .aria-label = Person som klemmer { -brand-product-name }-logoen
+mr2022-onboarding-import-image-alt =
+    .aria-label = Person som køyrer på eit skateboard med ein boks med programvareikon
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Froskar som hoppar over liljeblokker med ein QR-kode i midten for å laste ned { -brand-product-name } for mobil
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Lyshuda og mørkhuda hender gir kvarandre ein high five
