@@ -42,6 +42,6 @@ url-classifier-enabled = Фаъол аст
 url-classifier-disabled = Ғайрифаъол аст
 url-classifier-updating = навсозӣ
 url-classifier-cannot-update = навсозӣ карда нашуд
-url-classifier-success = муваффакият
+url-classifier-success = муваффақият
 url-classifier-update-error = хатои навсозӣ ({ $error })
 url-classifier-download-error = хатои боргирӣ ({ $error })
