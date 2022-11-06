@@ -6,12 +6,17 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+# The text "WebRTC" is a proper noun and should not be translated.
+about-webrtc-document-title = Хусусиятҳои WebRTC
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = нигоҳ доштани «about:webrtc» ҳамчун
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-msg-label = Сабти рӯйдодҳои AEC
+about-webrtc-aec-logging-off-state-label = Оғози сабти рӯйдодҳои AEC
+about-webrtc-aec-logging-on-state-label = Манъи сабти рӯйдодҳои AEC
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Навсозии худкор
 

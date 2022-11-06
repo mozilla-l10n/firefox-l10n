@@ -33,6 +33,16 @@ about-telemetry-addon-details-section = Тафсилоти ҷузъи илова
 about-telemetry-late-writes-section = Сабтҳои дер
 about-telemetry-raw-payload-section = Сарбории фоиданоки коркарднашуда
 about-telemetry-raw = JSON-и коркарднашуда
+about-telemetry-fetch-stack-symbols = Бозёбии номҳои вазифаҳо барои дастаҳо
+about-telemetry-hide-stack-symbols = Намоиш додани маълумоти коркарднашудаи даста
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] санаи барориш
+       *[prerelease] санаи барориши пешакӣ
+    }
 # Selects the correct upload string
 # Variables:
 #   $uploadcase (String): represents a corresponding upload string
@@ -71,8 +81,13 @@ about-telemetry-current-data-sidebar = маълумоти ҷорӣ
 about-telemetry-telemetry-ping-type-all = ҳама
 # button label to copy the histogram
 about-telemetry-histogram-copy = Нусха бардоштан
+# these strings are used in the “Slow SQL Statements” section
+about-telemetry-slow-sql-main = Баёнияҳои SQL-и суст дар ҷараёни асосӣ
+about-telemetry-slow-sql-other = Баёнияҳои SQL-и суст дар ҷараёнҳои ёрирасон
 about-telemetry-slow-sql-average = Вақти миёна (мс)
 about-telemetry-slow-sql-statement = Дастур
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = Муайянкунандаи ҷузъи иловагӣ
 about-telemetry-addon-table-details = Тафсилот
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
@@ -83,7 +98,15 @@ about-telemetry-values-header = Қимат
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Сабти дер #{ $lateWriteCount }
+about-telemetry-stack-title = Даста:
 about-telemetry-memory-map-title = Харитаи ҳофиза:
+about-telemetry-time-stamp-header = тамғаи вақт
+about-telemetry-category-header = категория
+about-telemetry-method-header = усул
+about-telemetry-object-header = объект
+about-telemetry-extra-header = иловагӣ
+about-telemetry-origin-section = Санҷиши дурдасти манбаъ
+about-telemetry-origin-origin = манбаъ
 about-telemetry-origin-count = шумора
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
