@@ -68,6 +68,7 @@ firefoxview-change-colorway-button = Түстер схемасын өзгерт�
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Әлі көретін ешнәрсе жоқ</strong><br/>Сіз келесі рет басқа құрылғыда { -brand-product-name } ішінде бетті ашқан кезде, ол сиқырлы түрде осында пайда болады.
 firefoxview-collapse-button-show =
     .title = Тізімді көрсету
 firefoxview-collapse-button-hide =
