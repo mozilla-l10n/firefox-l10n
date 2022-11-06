@@ -407,3 +407,21 @@ mr2022-onboarding-gratitude-secondary-button-label = Mulai menjelajah
 onboarding-infrequent-import-title = Anggap saja rumah sendiri
 onboarding-infrequent-import-subtitle = Baik Anda sedang menetap atau hanya mampir, ingatlah bahwa Anda dapat mengimpor markah, kata sandi, dan lainnya.
 onboarding-infrequent-import-primary-button = Impor ke { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Orang bekerja di laptop dikelilingi bintang-bintang dan bunga-bunga
+mr2022-onboarding-default-image-alt =
+    .aria-label = Orang yang memeluk logo { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Orang mengendarai skateboard dengan sekotak ikon perangkat lunak
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Katak melompat melintasi bunga bakung dengan kode QR untuk mengunduh { -brand-product-name } untuk seluler di tengah
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Tongkat sihir membuat logo penjelajahan pribadi { -brand-product-name } muncul dari topi
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Pemandangan matahari terbenam melalui jendela dengan rubah dan tanaman rumah di ambang jendela
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Semprotan tangan melukis kolase warna-warni dari mata hijau, sepatu oranye, bola basket merah, headphone ungu, hati biru, dan mahkota kuning

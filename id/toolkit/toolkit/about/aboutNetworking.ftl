@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Tembolok hitung lambat
 about-networking-rcwn-cache-not-slow = Tembolok hitung tidak lambat
 about-networking-networkid = ID jaringan
 about-networking-networkid-id = ID jaringan
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Laman ini telah dipindahkan ke <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
