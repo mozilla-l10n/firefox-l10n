@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Бөлісу индикаторы
 webrtc-indicator-window =
     .title = { -brand-short-name } - Бөлісу индикаторы
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Сіз камерамен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } үшін бұл бет
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } өніміне { $thirdParty } үшін бұл беттін аудиосын тыңдау рұқсатын беруді рұқсат ету керек пе?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } { $thirdParty } үшін камераңызға қатынау рұқсатын беруді рұқсат ету керек пе?
 webrtc-allow-share-microphone-unsafe-delegations = { $origin } { $thirdParty } үшін микрофоныңызға қатынау рұқсатын беруді рұқсат ету керек пе?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } өніміне { $thirdParty } үшін экраныңызды көру рұқсатын беруді рұқсат ету керек пе?
