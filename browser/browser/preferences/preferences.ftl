@@ -1105,6 +1105,10 @@ addon-recommendations-link = Көбірек білу
 collection-health-report-disabled = Деректер есептемесін беру бұл жинақта сөндірілген
 collection-backlogged-crash-reports-with-link = { -brand-short-name } үшін сіздің атыңыздан жиналған құлаулар хабарламаларын жіберуді рұқсат ету <a data-l10n-name="crash-reports-link">Көбірек білу</a>
     .accesskey = с
+privacy-segmentation-section-header = Шолуыңызды жақсартатын жаңа мүмкіндіктер
+privacy-segmentation-section-description = Сізге жеке тәжірибе беру үшін деректеріңізді пайдаланатын мүмкіндіктерді ұсынғанда:
+privacy-segmentation-radio-off =
+    .label = { -brand-product-name } ұсыныстарын қолдану
 privacy-segmentation-radio-on =
     .label = Толық ақпаратты көрсету
 
