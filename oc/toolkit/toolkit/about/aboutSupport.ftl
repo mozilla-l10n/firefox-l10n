@@ -312,6 +312,7 @@ can-sandbox-media = Nauc de sabla pels plugins multimèdia
 content-sandbox-level = Nivèl del nauc de sabla pels procediments de contengut
 effective-content-sandbox-level = Nivèl del nauc de sabla efectiu pels procediments de contengut
 content-win32k-lockdown-state = Estat Win32k Lockdown pel tractament del contengut
+support-sandbox-gpu-level = Nivèl del nauc de sabla pels processús GPU
 sandbox-proc-type-content = contengut
 sandbox-proc-type-file = contengut del fichièr
 sandbox-proc-type-media-plugin = plugin mèdia
