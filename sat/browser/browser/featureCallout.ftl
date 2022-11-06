@@ -9,6 +9,12 @@ callout-primary-complete-button-label = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟᱹᱧ
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = ᱴᱮᱵᱽ ᱵᱟᱪᱷᱟᱣ ᱥᱟᱶᱛᱮ ᱵᱟᱨᱭᱟ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
+callout-firefox-view-tab-pickup-subtitle = ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱠᱚ ᱫᱚ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱠᱷᱚᱱ ᱞᱚᱜᱚᱱ ᱦᱟᱛᱟᱣ ᱢᱮ ᱟᱨ ᱰᱷᱮᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱩᱞᱟᱹ ᱠᱚᱢ ᱾
+callout-firefox-view-recently-closed-title = ᱢᱤᱫ ᱡᱷᱚᱴᱚᱠ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱱᱫ ᱠᱟᱱ ᱴᱮᱵᱽ ᱛᱮ ᱨᱩᱣᱟᱹᱲ ᱢᱮ
+callout-firefox-view-recently-closed-subtitle = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱵᱚᱱᱫ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱫᱚ ᱡᱟᱹᱫᱩ ᱞᱮᱠᱷᱟᱛᱮ ᱱᱚᱰᱮ ᱫᱮᱠᱷᱟᱣᱜᱼᱟ ᱾ ᱛᱮᱥ ᱦᱚ ᱵᱷᱩᱞ ᱛᱮ ᱥᱟᱭᱤᱴ ᱵᱚᱱᱫ ᱨᱮᱭᱟᱜ ᱪᱤᱱᱛᱟᱹ ᱟᱞᱚᱢ ᱠᱚᱨᱟᱣᱟ ᱾
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
