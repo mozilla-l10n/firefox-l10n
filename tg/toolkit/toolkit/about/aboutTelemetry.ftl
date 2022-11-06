@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Манбаи маълумоти пинг:
 about-telemetry-show-current-data = Маълумоти ҷорӣ
+about-telemetry-show-archived-ping-data = Маълумоти пинги бойгонишуда
+about-telemetry-show-subsession-data = Намоиш додани маълумоти зерҷаласа
 about-telemetry-choose-ping = Интихоби пинг:
 about-telemetry-archive-ping-type = Навъи пинг
 about-telemetry-archive-ping-header = Пинг
@@ -14,13 +17,22 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Маълумоти санҷиши дурдаст
 about-telemetry-current-store = Захирагоҳи ҷорӣ:
 about-telemetry-more-information = Маълумоти бештар лозим аст?
+about-telemetry-show-in-Firefox-json-viewer = Кушодан дар намоишгари JSON
 about-telemetry-home-section = Асосӣ
 about-telemetry-general-data-section = Маълумоти умумӣ
 about-telemetry-environment-data-section = Маълумоти муҳит
 about-telemetry-session-info-section = Маълумот дар бораи ҷаласа
+about-telemetry-scalar-section = Ададҳо
+about-telemetry-keyed-scalar-section = Ададҳои калидӣ
+about-telemetry-histograms-section = Гистограммаҳо
+about-telemetry-keyed-histogram-section = Гистограммаҳои калидӣ
 about-telemetry-events-section = Рӯйдодҳо
+about-telemetry-simple-measurements-section = Андозаҳои муқаррар
+about-telemetry-slow-sql-section = Баёнияҳои SQL-и суст
 about-telemetry-addon-details-section = Тафсилоти ҷузъи иловагӣ
 about-telemetry-late-writes-section = Сабтҳои дер
+about-telemetry-raw-payload-section = Сарбории фоиданоки коркарднашуда
+about-telemetry-raw = JSON-и коркарднашуда
 # Selects the correct upload string
 # Variables:
 #   $uploadcase (String): represents a corresponding upload string
