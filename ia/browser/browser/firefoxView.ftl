@@ -15,8 +15,8 @@ firefoxview-close-button =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Justo ora
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Election de scheda
-firefoxview-tabpickup-description = Aperi paginas ab altere apparatos.
+firefoxview-tabpickup-header = Reprender schedas
+firefoxview-tabpickup-description = Aperi paginas de altere apparatos.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% complete
@@ -53,10 +53,10 @@ firefoxview-mobile-promo-primarybutton = Installa { -brand-product-name } pro mo
 firefoxview-mobile-confirmation-header = 🎉 Bon a ir!
 firefoxview-mobile-confirmation-description = Ora tu pote acceder tu schedas de { -brand-product-name } ab tu tabletta o telephono.
 firefoxview-closed-tabs-title = Recentemente claudite
-firefoxview-closed-tabs-description2 = Reaperir paginas que tu ha claudite in iste fenestra.
+firefoxview-closed-tabs-description2 = Reaperi paginas que tu ha claudite in iste fenestra.
 firefoxview-closed-tabs-placeholder = <strong>Nulle pagina recentemente claudite</strong><br/>Jammais time ancora de perder un scheda claudite. Tu pote sempre recuperar lo ci.
 # refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Ultimo active
+firefoxview-pickup-tabs-badge = Ultime active
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
