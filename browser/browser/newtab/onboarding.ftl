@@ -354,16 +354,25 @@ mr2022-onboarding-colorway-tooltip-innovator =
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Ноутбуктен телефонға және кері өтіңіз
+mr2022-onboarding-mobile-download-subtitle = Беттерді бір құрылғыдан алып, тоқтаған жерінен басқа құрылғыда жалғастырыңыз. Оған қоса { -brand-product-name } пайдаланатын кез келген жерде бетбелгілер мен парольдерді синхрондаңыз.
+mr2022-onboarding-mobile-download-cta-text = Мобильді { -brand-product-name } алу үшін QR кодын сканерлеңіз немесе <a data-l10n-name="download-label">өзіңізге жүктеп алу сілтемесін жіберіңіз</a>.
+mr2022-onboarding-no-mobile-download-cta-text = Мобильді { -brand-product-name } жүктеп алу үшін, QR кодын сканерлеңіз
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = Бір рет басу арқылы жеке шолу еркіндігін алыңыз
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Сақталған cookie файлдары немесе тарихы жоқ, тікелей жұмыс үстеліңізден. Ешкім көрмейтіндей шолыңыз.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } жекелік шолуын Dock-та ұстау
+       *[other] { -brand-short-name } жекелік шолуын тапсырмалар панеліне бекіту
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Біз әрқашан сіздің жекелігіңізді құрметтейміз
+mr2022-onboarding-privacy-segmentation-subtitle = Зияткерлік ұсыныстардан ақылдырақ іздеуге дейін біз үнемі жақсырақ, жекелігі көбірек { -brand-product-name } жасау үшін жұмыс жасаймыз.
 mr2022-onboarding-privacy-segmentation-text-cta = Шолуды жақсарту үшін деректеріңізді пайдаланатын жаңа мүмкіндіктерді ұсынғанда не көргіңіз келеді?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } ұсыныстарын қолдану
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Көбірек ақпаратты көрсету
@@ -378,6 +387,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Шолуды бастау
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Өз үйіңіздегідей сезініңіз
+onboarding-infrequent-import-subtitle = Осында көпке дейін тұрақтап, немесе тек таныс болсаңыз да, бетбелгілер, парольдер және т.б. импорттай алатыныңызды есте сақтаңыз.
 onboarding-infrequent-import-primary-button = { -brand-short-name } ішіне импорттау
 
 ## MR2022 Illustration alt tags
@@ -389,3 +399,7 @@ mr2022-onboarding-default-image-alt =
     .aria-label = { -brand-product-name } логотипін құшақтап тұрған адам
 mr2022-onboarding-import-image-alt =
     .aria-label = Бағдарламалар таңбашалары қорабы бар скейтборд мінген адам
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Орталықта мобильді { -brand-product-name } жүктеп алу үшін QR коды бар лала гүлінің үстінен секірген бақалар
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Сиқырлы таяқша { -brand-product-name } жеке шолу логотипін қалпақтан шығарады
