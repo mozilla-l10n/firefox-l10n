@@ -135,5 +135,8 @@ about-telemetry-origin-section = Санҷиши дурдасти манбаъ
 about-telemetry-origin-origin = манбаъ
 about-telemetry-origin-count = шумора
 # Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Санҷиши дурдасти манбаъҳои «Firefox»</a> пеш аз фиристодани маълумот, онро рамзгузорӣ мекунад, ҳамин тавр «{ $telemetryServerOwner }» метавонад чизҳоро ҳисоб кунад, аммо намедонад, ки кадом «{ -brand-product-name }» ба ин шумора саҳми худ гузоштааст (<a data-l10n-name="prio-blog-link">Маълумоти бештар</a>).
+# Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Раванди { $process }
