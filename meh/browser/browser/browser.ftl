@@ -245,6 +245,8 @@ search-one-offs-history =
 ## the action.
 
 quickactions-cmd-addons2 = Ka̱a̱ chunta´an
+# Opens the bookmarks library window
+quickactions-bookmarks = Kune'ya Marcadores
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Sna da historial
 quickactions-cmd-clearhistory = Sna da historial
@@ -257,6 +259,8 @@ quickactions-cmd-extensions = Extensiones
 # Opens the devtools web inspector
 quickactions-inspector = Sine inspector
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
+# Opens about:logins
+quickactions-logins = Kune'ya nu kaji'e sesión
 quickactions-cmd-logins = Nuu kajie´e sesión, contraseñas
 # Opens about:addons page in the plugins section
 quickactions-plugins = Tetiñu da plugins
@@ -265,6 +269,10 @@ quickactions-cmd-plugins = plugins
 quickactions-print = Nátava
 quickactions-cmd-print = Nátava
 quickactions-cmd-restart = Nákajie´e
+quickactions-cmd-themes = temas
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Kune'ya fuente
+quickactions-cmd-viewsource = Kune'ya fuente, fuente
 
 ## Bookmark Panel
 
@@ -382,6 +390,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Micrófono
+popup-select-speaker-icon =
+    .tooltiptext = Altavoces
 popup-all-windows-shared = Kuaiyo da ventanas tuvi nu pantalla noo'o kuvi kua'a.
 popup-screen-sharing-block =
     .label = Kasɨ
