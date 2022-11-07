@@ -28,6 +28,16 @@ experimental-features-cookie-samesite-lax-by-default2 =
 experimental-features-abouthome-startup-cache =
     .label = Зерҳофизаи оғози кори «about:home»
 experimental-features-abouthome-startup-cache-description = Зерҳофиза барои ҳуҷҷати ибтидоии «about:home» дар оғози кори браузер ба сурати пешфарз бор карда мешавад. Мақсади зерҳофиза дар беҳтаркунии самаранокии оғози кори браузер асос меёбад.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Кукиҳо: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Абзорҳои барномасозӣ: Ислоҳи хатоҳои коргузори хизматрасонӣ
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
 # Search during IME
 experimental-features-ime-search =
     .label = Навори нишонӣ: ҳангоми иҷрокунии IME натиҷаҳоро нишон медишад

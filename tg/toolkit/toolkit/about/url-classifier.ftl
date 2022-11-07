@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Маълумот дар бораи таснифгари URL
 url-classifier-search-title = Ҷустуҷӯ
 url-classifier-search-result-title = Натиҷаҳо
 url-classifier-search-result-uri = Нишонии URI: { $uri }
@@ -23,9 +24,14 @@ url-classifier-cache-title = Зерҳофиза
 url-classifier-cache-refresh-btn = Нав кардан
 url-classifier-cache-clear-btn = Пок кардан
 url-classifier-cache-table-name = Номи ҷадвал
+url-classifier-cache-ncache-entries = Шумораи вурудҳои манфии зерҳофиза
+url-classifier-cache-pcache-entries = Шумораи вурудҳои мусбати зерҳофиза
 url-classifier-cache-show-entries = Намоиш додани сабтҳо
 url-classifier-cache-entries = Сабтҳои зерҳофиза
 url-classifier-cache-prefix = Пешванд
+url-classifier-cache-ncache-expiry = Анҷоми муҳлати зерҳофизаи манфӣ
+url-classifier-cache-fullhash = Додаҳои тасодуфии пурра
+url-classifier-cache-pcache-expiry = Анҷоми муҳлати зерҳофизаи мусбат
 url-classifier-debug-title = Ислоҳ кардани хатоҳо
 url-classifier-debug-module-btn = Танзими модули сабти рӯйдодҳо
 url-classifier-debug-file-btn = Танзими файли сабти рӯйдодҳо
