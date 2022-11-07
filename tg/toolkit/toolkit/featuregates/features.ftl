@@ -23,6 +23,10 @@ experimental-features-devtools-compatibility-panel =
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Кукиҳо: SameSite=Lax ба сурати пешфарз
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Кукиҳо: SameSite=None сифати бехатарро талаб мекунад
+experimental-features-cookie-samesite-none-requires-secure2-description = Кукиҳо бо сифати «SameSite=None» сифати бехатарро талаб мекунад. Ин хусусият фаъолсозии «Кукиҳо: SameSite=Lax ба сурати пешфарз»-ро талаб мекунад.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
@@ -35,9 +39,13 @@ experimental-features-cookie-samesite-schemeful =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Абзорҳои барномасозӣ: Ислоҳи хатоҳои коргузори хизматрасонӣ
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Калиди хомӯшсозии садои саросарии WebRTC
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Лоиҳаи «Warp»-ро фаъол мекунад, ки самаранокии JavaScript ва истифодабарии ҳофизаро беҳтар мекунад.
 # Search during IME
 experimental-features-ime-search =
     .label = Навори нишонӣ: ҳангоми иҷрокунии IME натиҷаҳоро нишон медишад
