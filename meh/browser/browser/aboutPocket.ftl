@@ -11,18 +11,23 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Tee etiquetas
-
 pocket-panel-saved-error-generic = Nkene iin tixi sa kuvi chuva'a nu { -pocket-brand-name }
 pocket-panel-saved-error-tag-length = Ntu xini 25 tu'un
 pocket-panel-saved-error-not-saved = Página ntu nchuva'a
 pocket-panel-saved-page-removed = Nxita página
 pocket-panel-saved-page-saved = Nchuva´a nuu { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = ¡Chuva'a nuu { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Xita página...
+pocket-panel-saved-removed = Nxita página lista nuu'u
 pocket-panel-saved-processing-tags = Tee da etiquetas...
 pocket-panel-saved-remove-page = Xita página
 pocket-panel-saved-save-tags = Chuva´a
 pocket-panel-saved-saving-tags = Chuva'a...
+pocket-panel-saved-suggested-tags = Etiquetas sugeridas
+pocket-panel-saved-tags-saved = Etiquetas agregadas
 pocket-panel-signup-view-list = Kune'ya lista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Tee etiquetas:
 
 ## about:pocket-signup panel
 
@@ -46,3 +51,6 @@ pocket-panel-header-sign-in = Kajie´e sesión
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Xine'e kuaiyo
+pocket-panel-button-activate = Tee { -pocket-brand-name } ji { -brand-product-name }
+pocket-panel-button-remove = Xita
