@@ -55,6 +55,7 @@ about-logins-list-item-breach-icon =
     .title = Nuu Web ntu vatu
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
+about-logins-list-section-breach = Nuu Web ntu tuvi vatu
 about-logins-list-section-vulnerable = Contraseñas iyo tixi
 about-logins-list-section-nothing = Na iyo alerta
 about-logins-list-section-today = Ki̱vɨ̱ vitá
@@ -258,6 +259,7 @@ about-logins-import-dialog-error-unable-to-read-title = Ntu kuvi ka'vi archivo
 about-logins-import-dialog-error-unable-to-read-description = Kune'ya de nkajinu iin archivo CSV a xíín TSV.
 about-logins-import-dialog-error-learn-more = Ka´vi kue´eka
 about-logins-import-dialog-error-cancel = Nkuvi
+about-logins-import-report-title = Resumen de importación
 #
 # Variables:
 #  $number (number) - The number of the row

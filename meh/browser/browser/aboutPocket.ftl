@@ -13,6 +13,7 @@ pocket-panel-saved-add-tags =
     .placeholder = Tee etiquetas
 pocket-panel-saved-error-generic = Nkene iin tixi sa kuvi chuva'a nu { -pocket-brand-name }
 pocket-panel-saved-error-tag-length = Ntu xini 25 tu'un
+pocket-panel-saved-error-only-links = Ntuxini enlaces kuvi chuva'a
 pocket-panel-saved-error-not-saved = Página ntu nchuva'a
 pocket-panel-saved-page-removed = Nxita página
 pocket-panel-saved-page-saved = Nchuva´a nuu { -pocket-brand-name }
@@ -42,7 +43,9 @@ pocket-panel-signup-signup-firefox = Chu'un sivɨnu { -brand-product-name }
 
 pocket-panel-home-my-list = Lista nuu'u
 pocket-panel-home-welcome-back = Kusɨɨ inidáni nkantanu tuku
+pocket-panel-home-explore-popular-topics = Explorar temas populares
 pocket-panel-home-discover-more = Nani'i ku'eka
+pocket-panel-home-explore-more = Explorar
 
 ## Pocket panel header component
 

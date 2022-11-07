@@ -36,6 +36,8 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasɨ
+about-private-browsing-promo-close-button =
+    .title = Nakasɨ
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
