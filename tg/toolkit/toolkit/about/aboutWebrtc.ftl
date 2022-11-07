@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = нигоҳ доштани «about:webrtc»
 about-webrtc-aec-logging-msg-label = Сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-off-state-label = Оғози сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-on-state-label = Манъи сабти рӯйдодҳои AEC
+about-webrtc-aec-logging-on-state-msg = Сабти рӯйдодҳои AEC фаъол аст (бо муштарӣ якчанд дақиқа суҳбат кунед ва пас забтро манъ кунед)
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Навсозии худкор
 
@@ -114,11 +115,16 @@ about-webrtc-fold-show-msg = намоиш додани тафсилот
     .title = барои баркушодани ин қисмат, зер кунед
 about-webrtc-fold-hide-msg = пинҳон кардани тафсилот
     .title = барои пинҳон кардани ин қисмат, зер кунед
+about-webrtc-dropped-frames-label = Кадрҳои гузаронидашуда:
+about-webrtc-discarded-packets-label = Бастаҳои халосшуда:
 about-webrtc-decoder-label = Рамзёбӣ
 about-webrtc-encoder-label = Рамзгузор
 about-webrtc-show-tab-label = Намоиш додани варақа
+about-webrtc-current-framerate-label = Суръати кадрҳо
 about-webrtc-width-px = Васеӣ (px)
 about-webrtc-height-px = Баландӣ (px)
+about-webrtc-consecutive-frames = Кадрҳои муттасил
+about-webrtc-time-elapsed = Вақти масрафшуда (с)
 about-webrtc-rotation-degrees = Даврзанӣ (дараҷаҳо)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
