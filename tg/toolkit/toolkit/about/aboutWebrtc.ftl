@@ -175,9 +175,56 @@ about-webrtc-frame-stats-heading = Омори кадрҳои видеоӣ - Му
 
 about-webrtc-save-page-msg = саҳифа ба масири зерин нигоҳ дошта шуд: { $path }
 about-webrtc-debug-mode-off-state-msg = сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }
+about-webrtc-debug-mode-on-state-msg = реҷаи ислоҳи хатоҳо фаъол аст, сабти рӯйдодҳо дар: { $path }
+about-webrtc-aec-logging-off-state-msg = файлҳои сабти рӯйдодҳои забт дар ин ҷо дастрасанд: { $path }
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } кадр
+       *[other] { $frames } кадр
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } шабака
+       *[other] { $channels } шабака
+    }
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] { $packets } баста қабул шуд
+       *[other] { $packets } баста қабул шуданд
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] { $packets } баста гум шуд
+       *[other] { $packets } баста гум шуданд
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] { $packets } баста ирсол шуд
+       *[other] { $packets } баста ирсол шуданд
+    }
+# Jitter is the variance in the arrival time of packets.
+# See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
+# Variables:
+#   $jitter (Number) - The jitter.
+about-webrtc-jitter-label = Ҷиттери { $jitter }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
