@@ -125,10 +125,17 @@ about-webrtc-width-px = Васеӣ (px)
 about-webrtc-height-px = Баландӣ (px)
 about-webrtc-consecutive-frames = Кадрҳои муттасил
 about-webrtc-time-elapsed = Вақти масрафшуда (с)
+about-webrtc-estimated-framerate = Ҳисоббарории суръати кадрҳо
 about-webrtc-rotation-degrees = Даврзанӣ (дараҷаҳо)
+about-webrtc-first-frame-timestamp = Тамғаи вақти қабули кадри аввалин
+about-webrtc-last-frame-timestamp = Тамғаи вақти қабули кадри охирин
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = SSRC-и қабулкунии маҳаллӣ
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = SSRC-и ирсолкунии дурдаст
 
 ##
 
@@ -138,6 +145,28 @@ about-webrtc-configuration-element-provided = Таъмин шудааст
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Таъмин нашудааст
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Хусусиятҳои WebRTC-и танзими корбарӣ
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Ҳисоббарории паҳноии навор
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Муайянкунандаи пайгирӣ
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Паҳноии навори ирсол (байтҳо/сония)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Паҳноии навори қабул (байтҳо/сония)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Фазогирии ҳадди аксар (байтҳо/сония)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Таъхири байни бастаҳо (мс)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT (мс)
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Омори кадрҳои видеоӣ - Муайянкунандаи «MediaStreamTrack»: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
