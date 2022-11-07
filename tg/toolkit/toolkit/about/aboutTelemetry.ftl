@@ -37,6 +37,7 @@ about-telemetry-addon-details-section = Тафсилоти ҷузъи илова
 about-telemetry-late-writes-section = Сабтҳои дер
 about-telemetry-raw-payload-section = Сарбории фоиданоки коркарднашуда
 about-telemetry-raw = JSON-и коркарднашуда
+about-telemetry-full-sql-warning = ТАВЗЕҲ: Реҷаи ислоҳи сусти хатоҳои SQL фаъол аст. Сатрҳои пурраи SQL метавонанд дар зер нишон дода шаванд, аммо онҳо ба Санҷиши дурдаст фиристода намешаванд.
 about-telemetry-fetch-stack-symbols = Бозёбии номҳои вазифаҳо барои дастаҳо
 about-telemetry-hide-stack-symbols = Намоиш додани маълумоти коркарднашудаи даста
 # Selects the correct release version
@@ -54,6 +55,16 @@ about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] фаъол
        *[disabled] ғайрифаъол
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } намуна, миёна = { $prettyAverage }, ҷамъбаст = { $sum }
+       *[other] { $sampleCount } намуна, миёна = { $prettyAverage }, ҷамъбаст = { $sum }
     }
 # string used as a placeholder for the search field
 # More info about it can be found here:
