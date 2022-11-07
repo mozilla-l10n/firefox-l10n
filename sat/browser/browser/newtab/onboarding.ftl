@@ -219,6 +219,9 @@ mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } ᱦᱚ ᱱ
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱥᱮᱴ ᱢᱮ
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -233,6 +236,8 @@ mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } ᱦᱚ ᱱ
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label-continue = ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱞᱟᱦᱟᱜ ᱢᱮ
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ᱫᱚ ᱟᱢᱟᱜ ᱨᱚᱝᱜᱤᱱ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 mr2022-onboarding-colorway-label-default = ᱢᱩᱞ
 mr2022-onboarding-colorway-tooltip-default =
     .title = ᱢᱩᱞ
@@ -244,6 +249,12 @@ mr2022-onboarding-colorway-tooltip-playmaker =
     .title = ᱯᱞᱮᱢᱮᱠᱚᱨ
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = ᱯᱞᱮᱢᱮᱠᱚᱨ (ᱟᱨᱟᱜ)
+mr2022-onboarding-colorway-description-playmaker = <b>ᱟᱢ ᱫᱚ ᱪᱟᱹᱞᱩᱭᱟ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱛᱟᱹᱣ ᱫᱟᱣ ᱮᱢ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱠᱷᱮᱞ ᱨᱮᱭᱟᱜ ᱩᱱᱚᱛ ᱟᱢ ᱥᱩᱨ ᱨᱤᱱ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱜᱚᱲᱚ ᱮᱢ ᱟᱭ  ᱾
+mr2022-onboarding-colorway-label-expressionist = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ (ᱥᱟᱥᱟᱝ)
 mr2022-onboarding-colorway-label-dreamer = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
