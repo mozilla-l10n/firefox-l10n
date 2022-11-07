@@ -19,6 +19,8 @@ about-telemetry-current-store = Захирагоҳи ҷорӣ:
 about-telemetry-more-information = Маълумоти бештар лозим аст?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Санадҳои иттилоотии «Firefox»</a> дорои роҳнамоӣ барои тарзи кору фаъолият бо абзорҳои иттилоотии мо мебошанд.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Санадҳои муштарии санҷиши дурдасти «Firefox»</a> дорои тафсирҳо барои консепсияҳо, санадҳои API ва маълумоти иттилоотӣ мебошад.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Лавҳаи иттилоотии санҷиши дурдаст</a> ба шумо имкон медиҳад, ки тавонед маълумотеро, ки «Mozilla» тавассути Санҷиши дурдаст (Телеметрия) қабул мекунад, намоиш диҳед.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Фарҳанги муоина</a> тафсилот ва тавсифотро дар бораи муоинаи ҷамъшуда аз тарафи Санҷиши дурдаст (Телеметрия) таъмин менамояд.
 about-telemetry-show-in-Firefox-json-viewer = Кушодан дар намоишгари JSON
 about-telemetry-home-section = Асосӣ
 about-telemetry-general-data-section = Маълумоти умумӣ
