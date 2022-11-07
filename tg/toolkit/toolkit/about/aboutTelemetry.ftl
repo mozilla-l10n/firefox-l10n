@@ -17,6 +17,7 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Маълумоти санҷиши дурдаст
 about-telemetry-current-store = Захирагоҳи ҷорӣ:
 about-telemetry-more-information = Маълумоти бештар лозим аст?
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Санадҳои иттилоотии «Firefox»</a> дорои роҳнамоӣ барои тарзи кору фаъолият бо абзорҳои иттилоотии мо мебошанд.
 about-telemetry-show-in-Firefox-json-viewer = Кушодан дар намоишгари JSON
 about-telemetry-home-section = Асосӣ
 about-telemetry-general-data-section = Маълумоти умумӣ
