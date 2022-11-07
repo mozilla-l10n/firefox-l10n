@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Тарҳбандии «Masonry»
+experimental-features-css-masonry-description = Барои хусусияти озмоишии тарҳбандии «Masonry» дар CSS дастгириро фаъол мекунад. Барои ба даст овардани тавсифоти дараҷаи баланд оид ба хусусият, ба <a data-l10n-name="explainer">тавсифнома</a> нигаред. Барои пешниҳод кардани изҳори назари худ, лутфан, <a data-l10n-name="w3c-issue">дар ин масъалаи GitHub</a> ё <a data-l10n-name="bug">ин хато</a> шарҳ диҳед.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
