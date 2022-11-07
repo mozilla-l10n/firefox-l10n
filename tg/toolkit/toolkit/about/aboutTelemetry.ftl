@@ -74,6 +74,7 @@ about-telemetry-settings-explanation = Санҷиши дурдаст барои 
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Ҳар як қисми иттилооти ҷамъшуда ба воситаи “<a data-l10n-name="ping-link">пингҳо</a>” фиристода мешавад. Шумо ба пинг бо номи «{ $name }» аз санаи { $timestamp } дида истодаед.
+about-telemetry-data-details-current = Ҳар як қисми иттилооти ҷамъшуда ба воситаи “<a data-l10n-name="ping-link">пингҳо</a>“ фиристода мешавад. Шумо ба пинги ҷорӣ дида истодаед.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -107,6 +108,7 @@ about-telemetry-histogram-copy = Нусха бардоштан
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Баёнияҳои SQL-и суст дар ҷараёни асосӣ
 about-telemetry-slow-sql-other = Баёнияҳои SQL-и суст дар ҷараёнҳои ёрирасон
+about-telemetry-slow-sql-hits = Комёбиҳо
 about-telemetry-slow-sql-average = Вақти миёна (мс)
 about-telemetry-slow-sql-statement = Дастур
 # these strings are used in the “Add-on Details” section
@@ -123,6 +125,7 @@ about-telemetry-values-header = Қимат
 about-telemetry-late-writes-title = Сабти дер #{ $lateWriteCount }
 about-telemetry-stack-title = Даста:
 about-telemetry-memory-map-title = Харитаи ҳофиза:
+about-telemetry-error-fetching-symbols = Ҳангоми бозёбии аломатҳо хато ба миён омад. Пайваст будани интернетро санҷед ё аз нав кӯшиш кунед.
 about-telemetry-time-stamp-header = тамғаи вақт
 about-telemetry-category-header = категория
 about-telemetry-method-header = усул
