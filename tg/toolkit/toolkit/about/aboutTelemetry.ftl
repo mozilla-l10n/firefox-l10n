@@ -66,6 +66,14 @@ about-telemetry-histogram-stats =
         [one] { $sampleCount } намуна, миёна = { $prettyAverage }, ҷамъбаст = { $sum }
        *[other] { $sampleCount } намуна, миёна = { $prettyAverage }, ҷамъбаст = { $sum }
     }
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Ин саҳифа маълумотро дар бораи самаранокии кор, сахтафзор, истифодабарӣ ва танзимоте, ки аз тарафи Санҷиши дурдаст ҷамъ шудааст, нишон медиҳад. Ин маълумот ба «{ $telemetryServerOwner }» барои такмил додани «{ -brand-full-name }» фиристода мешавад.
+about-telemetry-settings-explanation = Санҷиши дурдаст барои ҷамъкунии { about-telemetry-data-type } ва боркунии <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> танзим шудааст.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Ҳар як қисми иттилооти ҷамъшуда ба воситаи “<a data-l10n-name="ping-link">пингҳо</a>” фиристода мешавад. Шумо ба пинг бо номи «{ $name }» аз санаи { $timestamp } дида истодаед.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
