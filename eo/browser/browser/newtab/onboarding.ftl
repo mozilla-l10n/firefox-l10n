@@ -413,3 +413,7 @@ mr2022-onboarding-pin-image-alt =
     .aria-label = Persono kiu laboras en portebla komputilo, ĉirkaŭita de steloj kaj floroj
 mr2022-onboarding-default-image-alt =
     .aria-label = Persono kiu brakumas la emblemon de { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persono kiu rajdas rultabulon kun programaj emblemoj en skatolo
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Ranoj kiuj saltas inter lilioj kaj centre kodo QR por elŝuti poŝaparatan version de { -brand-product-name }
