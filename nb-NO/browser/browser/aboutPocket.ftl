@@ -46,8 +46,10 @@ pocket-panel-signup-tagline-story-one = Trykk på { -pocket-brand-name }-knappen
 pocket-panel-signup-tagline-story-two = Vis i { -pocket-brand-name } på hvilken som helst enhet, når som helst.
 pocket-panel-signup-cta-a-fix = Din lagre-knapp for internett
 pocket-panel-signup-cta-b = Klikk på { -pocket-brand-name }-knappen for å lagre artikler, videoer og lenker. Se listen din på hvilken som helst enhet, når som helst.
+pocket-panel-signup-cta-b-updated = Klikk på { -pocket-brand-name }-knappen for å lagre artikler, videoer og lenker. Vis lagrede objekt på hvilken som helst enhet, når som helst.
 pocket-panel-signup-cta-b-short = Klikk på { -pocket-brand-name }-knappen for å lagre artikler, videoer og lenker.
 pocket-panel-signup-cta-c = Se listen din på hvilken som helst enhet, når som helst.
+pocket-panel-signup-cta-c-updated = Vis lagrede objekt på hvilken som helst enhet, når som helst.
 
 ## about:pocket-home panel
 
@@ -65,6 +67,7 @@ pocket-panel-home-new-user-message = Se dine siste lagringer her.
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Vis min liste
+pocket-panel-header-my-saves = Vis lagrede objekt
 pocket-panel-header-sign-in = Logg inn
 
 ## Pocket panel buttons
