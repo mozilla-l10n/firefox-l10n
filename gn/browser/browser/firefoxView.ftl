@@ -42,6 +42,7 @@ firefoxview-tabpickup-sync-error-primarybutton = Eha’ãjey
 firefoxview-tabpickup-sync-disconnected-header = Emyandy ñembojuehe eku’ejey hag̃ua
 firefoxview-tabpickup-sync-disconnected-description = Eru hag̃ua tendayke, oñemoneĩva’erã ñembojuehe { -brand-short-name }-pe.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Emyandy ñembojuehe mbohekohápe
+firefoxview-tabpickup-password-locked-link = Kuaave
 firefoxview-tabpickup-syncing = Eha’arõ tendayke toñembojuehe. Ndahi’aremo’ãi.
 firefoxview-mobile-promo-header = Ehecha tendayke ne pumbyry térã tabléta rupive
 firefoxview-mobile-promo-description = Ehecha hag̃ua tendayke eipuramovéva, emoñepyrũ tembiapo { -brand-product-name } iOS térã Android rupive.

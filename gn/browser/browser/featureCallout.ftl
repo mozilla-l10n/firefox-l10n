@@ -30,3 +30,8 @@ callout-firefox-view-colorways-reminder-subtitle = Embosa’y ne kundahára ipor
 continuous-onboarding-firefox-view-tab-pickup-title = Emyatyrõve ne ñeikundaha tendayke poravopyrã ndive
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Eike tendayke ijurujávape oimeraẽva mba’e’oka guive. Avei, embojuehe techaukaha, ñe’ẽñemi ha hetave.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Eñepyrũ
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-button = Upeigua
+callout-pdfjs-draw-button = ¡Aikumby!
