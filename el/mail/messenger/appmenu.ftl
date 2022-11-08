@@ -7,12 +7,17 @@
 
 appmenu-sync-panel-title =
     .title = Συγχρονισμός
+appmenu-signin-panel =
+    .label = Σύνδεση στον συγχρονισμό
+    .accesskey = δ
 appmenu-sync-sync =
     .value = Συγχρονισμός λογαριασμού
     .accesskey = Σ
 appmenu-sync-manage =
     .value = Διαχείριση λογαριασμού
     .accesskey = Δ
+appmenu-sync-account =
+    .value = example@example.com
 
 ## New Account
 
