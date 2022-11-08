@@ -23,7 +23,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = P
-
 places-add-bookmark =
     .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱮᱞᱮᱫ ᱢᱮ …
     .accesskey = B
@@ -36,7 +35,6 @@ places-add-folder =
 places-add-separator =
     .label = ᱱᱟᱶᱟ ᱵᱷᱮᱜᱟᱨᱟᱜ
     .accesskey = S
-
 places-view =
     .label = ᱧᱮᱞ ᱢᱮ
     .accesskey = w
@@ -55,14 +53,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ᱢᱟᱹᱦᱤᱛ ᱟᱨ ᱥᱟᱭᱤᱴ ᱫᱟᱨᱟᱭ ᱛᱮ
     .accesskey = t
-
 places-history-search =
     .placeholder = ᱱᱟᱜᱟᱢ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 places-history =
     .aria-label = ᱱᱟᱜᱟᱢ
 places-bookmarks-search =
     .placeholder = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
-
 places-delete-domain-data =
     .label = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱵᱟᱵᱚᱛ ᱛᱮ ᱦᱤᱲᱤᱧ ᱢᱮ
     .accesskey = F
@@ -88,144 +84,120 @@ places-delete-folder =
            *[other] ᱯᱚᱴᱚᱢ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
         }
     .accesskey = D
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱚᱢᱵᱷᱵᱲᱟᱣ ᱢᱮ
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = ᱵᱷᱤᱛᱨᱤ ᱯᱚᱴᱚᱢ
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = ᱮᱴᱟᱜᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
-
 places-show-in-folder =
     .label = ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accesskey = F
-
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱴᱟᱣ ᱢᱮ
+            [one] ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱴᱟᱣ ᱢᱮ
+            [two] ᱵᱩᱠᱢᱟᱨᱠ ᱠᱤᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
+           *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
+        }
+    .accesskey = D
+places-untag-bookmark =
+    .label = ᱴᱮᱜᱽ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = R
 places-manage-bookmarks =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
     .accesskey = M
-
 places-forget-about-this-site-confirmation-title = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱟᱵᱚᱛ ᱛᱮ ᱦᱤᱲᱤᱧ ᱢᱮ
-
 places-forget-about-this-site-forget = ᱦᱤᱲᱤᱧ
-
 places-library =
     .title = ᱯᱩᱛᱷᱤ ᱚᱲᱟᱜ
     .style = width:700px; height:500px;
-
 places-library2 =
     .title = ᱯᱩᱛᱷᱤ ᱚᱲᱟᱜ
     .style = min-width:700px; min-height:500px;
-
 places-organize-button =
     .label = ᱥᱟᱡᱟᱣ
     .tooltiptext = ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱟᱡᱟᱣ
     .accesskey = O
-
 places-organize-button-mac =
     .label = ᱥᱟᱡᱟᱣ
     .tooltiptext = ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱟᱡᱟᱣ
-
 places-file-close =
     .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .accesskey = C
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = ᱧᱮᱞ ᱠᱚ
     .tooltiptext = ᱟᱢᱟᱜ ᱧᱮᱞ ᱵᱚᱫᱚᱞ ᱢᱮ
     .accesskey = V
-
 places-view-button-mac =
     .label = ᱧᱮᱞ ᱠᱚ
     .tooltiptext = ᱟᱢᱟᱜ ᱧᱮᱞ ᱵᱚᱫᱚᱞ ᱢᱮ
-
 places-view-menu-columns =
     .label = ᱠᱟᱛᱷᱟ ᱠᱚ ᱩᱫᱩᱜ
     .accesskey = C
-
 places-view-menu-sort =
     .label = ᱥᱟᱞᱟ
     .accesskey = S
-
 places-view-sort-unsorted =
     .label = ᱵᱟᱝ ᱥᱟᱞᱟ
     .accesskey = U
-
 places-view-sort-ascending =
     .label = A > Z ᱛᱷᱟᱨ ᱛᱮ ᱥᱟᱞᱟ
     .accesskey = A
-
 places-view-sort-descending =
     .label = Z > A ᱛᱷᱟᱨ ᱛᱮ ᱥᱟᱞᱟ
     .accesskey = Z
-
 places-maintenance-button =
     .label = ᱟᱹᱜᱩ ᱵᱮᱠᱚᱯᱷ ᱛᱮᱭᱟᱨ
     .tooltiptext = ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱹᱜᱩ ᱟᱨ ᱵᱮᱠᱟᱹᱯ
     .accesskey = I
-
 places-maintenance-button-mac =
     .label = ᱟᱹᱜᱩ ᱵᱮᱠᱚᱯᱷ ᱛᱮᱭᱟᱨ
     .tooltiptext = ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱟᱹᱜᱩ ᱵᱮᱠᱚᱯᱷ ᱛᱮᱭᱟᱨ
-
 places-cmd-backup =
     .label = ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ…
     .accesskey = B
-
 places-cmd-restore =
     .label = ᱫᱩᱦᱲᱟᱹ ᱡᱚᱜᱟᱣ
     .accesskey = R
-
 places-cmd-restore-from-file =
     .label = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
     .accesskey = C
-
 places-import-bookmarks-from-html =
     .label = HTML ᱠᱷᱚᱱ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱹᱜᱩ…
     .accesskey = I
-
 places-export-bookmarks-to-html =
     .label = HTML ᱛᱮ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱵᱷᱮᱡᱟ…
     .accesskey = E
-
 places-import-other-browser =
     .label = ᱮᱴᱟᱜᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱽᱚᱮ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱭ ᱢᱮ …
     .accesskey = A
-
 places-view-sort-col-name =
     .label = ᱧᱩᱛᱩᱢ
-
 places-view-sort-col-tags =
     .label = ᱛᱚᱞ ᱠᱚ:
-
 places-view-sort-col-url =
     .label = ᱡᱟᱭᱜᱟ
-
 places-view-sort-col-most-recent-visit =
     .label = ᱱᱮᱱᱮ ᱧᱮᱞᱟᱜ
-
 places-view-sort-col-visit-count =
     .label = ᱞᱮᱠᱷᱟ ᱧᱮᱞ ᱢᱮ
-
 places-view-sort-col-date-added =
     .label = ᱥᱮᱞᱮᱫ ᱮᱱᱟ
-
 places-view-sort-col-last-modified =
     .label = ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱮᱱ
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱣ
-
 places-forward-button =
     .tooltiptext = ᱢᱟᱲᱟᱝ ᱥᱮᱫ ᱪᱟᱞᱟᱣ
-
 places-details-pane-select-an-item-description = ᱢᱤᱫ ᱡᱤᱱᱤᱥ ᱟᱨ ᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱜᱩᱱ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾

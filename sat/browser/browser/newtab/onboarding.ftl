@@ -289,9 +289,15 @@ mr2022-onboarding-no-mobile-download-cta-text = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹ�
 
 mr2022-upgrade-onboarding-pin-private-window-header = ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱤᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱥᱟᱹᱫᱷᱤᱱ ᱧᱟᱢ ᱢᱮ
 mr2022-upgrade-onboarding-pin-private-window-subtitle = ᱰᱮᱥᱠᱴᱚᱯ ᱠᱷᱚᱱ ᱪᱮᱫ ᱠᱩᱠᱤᱡᱽ ᱟᱨᱵᱟᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱵᱮᱝ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ ᱾ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱢᱮ ᱡᱮᱞᱠᱟ ᱚᱠᱚᱭ ᱦᱚᱸ ᱵᱟᱠᱚ ᱧᱮᱞᱮᱫ ᱢᱮᱭᱟ ᱾
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] ᱰᱚᱠ ᱨᱮ { -brand-short-name } ᱦᱟᱜ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱫᱚᱦᱚᱭ ᱢᱮ
+       *[other] ᱴᱟᱥᱠᱵᱚᱨ ᱛᱮ { -brand-short-name } ᱦᱟᱜ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = ᱟᱞᱮ ᱫᱤᱱᱜᱮ ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱮ ᱥᱚᱢᱟᱱᱟᱜᱼᱟ
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 mr2022-onboarding-privacy-segmentation-button-secondary-label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 

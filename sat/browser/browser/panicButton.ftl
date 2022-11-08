@@ -12,6 +12,8 @@ panic-button-forget-button =
 ## Please ensure that this remains the case in the translation.
 
 panic-main-timeframe-desc = ᱢᱟᱲᱟᱝᱟᱜ ᱦᱤᱲᱤᱧ ᱢᱮ :
+panic-button-5min =
+    .label = ᱢᱚᱬᱮ ᱴᱤᱯᱤᱡ
 panic-button-2hr =
     .label = ᱵᱟᱨᱭᱟ ᱴᱟᱲᱟᱝ
 panic-button-day =
@@ -23,4 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = ᱞᱟᱦᱟ ᱞᱮᱠᱷᱟᱱ :
+panic-button-delete-cookies = ᱱᱤᱛᱚᱜᱼᱟᱜ <strong>ᱠᱩᱠᱤᱡᱽ ᱠᱚ</strong> ᱢᱮᱴᱟᱣ ᱢᱮ
 panic-button-delete-history = ᱱᱤᱛᱚᱜᱼᱟᱜ <strong>ᱱᱟᱜᱟᱢ</strong> ᱢᱮᱴᱟᱣ ᱢᱮ
+panic-button-delete-tabs-and-windows = ᱡᱷᱚᱛᱚ <strong>ᱴᱮᱵᱽᱠᱚ</strong> ᱟᱨ <strong>ᱡᱷᱚᱨᱠᱟ</strong> ᱵᱚᱱᱫ ᱢᱮ
