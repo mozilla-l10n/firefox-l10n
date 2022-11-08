@@ -143,6 +143,7 @@ account-setup-hostname-label = Nome do servidor:
 account-setup-port-label = Porta:
     .title = Defina o número da porta para 0 para deteção automática
 account-setup-ssl-label = Segurança da ligação:
+account-setup-outgoing-server-legend = Servidor de envio
 
 ## Incoming/Outgoing SSL Authentication options
 
@@ -156,24 +157,60 @@ ssl-encrypted-password-option = Palavra-passe encriptada
 ssl-noencryption-option = Nenhuma
 account-setup-auth-label = Método de autenticação
 account-setup-username-label = Nome de utilizador:
+account-setup-advanced-setup-button = Configuração avançada
+    .accesskey = a
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Aviso!
+account-setup-insecure-incoming-title = Definições de receção:
+account-setup-insecure-outgoing-title = Definições de envio:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> não utiliza encriptação.
+account-setup-insecure-server-checkbox = Eu compreendo os riscos
+    .accesskey = u
+insecure-dialog-cancel-button = Alterar definições
+    .accesskey = d
+insecure-dialog-confirm-button = Confirmar
+    .accesskey = C
 
 ## Warning Exchange confirmation dialog
 
+exchange-dialog-confirm-button = Iniciar sessão
+exchange-dialog-cancel-button = Cancelar
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = Nenhuma conta de correio eletrónico configurada
+account-setup-no-account-checkbox = Utilizar o { -brand-short-name } sem uma conta de correio eletrónico
+    .accesskey = { "" }
+exit-dialog-cancel-button = Continuar configuração
+    .accesskey = C
+exit-dialog-confirm-button = Sair da configuração
+    .accesskey = f
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Erro ao criar a conta
+account-setup-error-server-exists = O servidor de receção já existe.
+account-setup-confirm-advanced-title = Confirmar configuração avançada
+account-setup-confirm-advanced-description = Esta janela será fechada e será criada uma conta com as definições atuais, mesmo que a configuração esteja incorreta. Pretende continuar?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instalar
+account-setup-addon-install-intro = Um extra de terceiros pode permitir-lhe aceder à sua conta de correio eletrónico neste servidor:
+account-setup-addon-no-protocol = Este servidor de correio eletrónico infelizmente não suporta os protocolos abertos. { account-setup-addon-install-intro }
 
 ## Success view
 
+account-setup-settings-button = Definições da conta
+account-setup-encryption-button = Encriptação ponto a ponto
+account-setup-signature-button = Adicionar uma assinatura
+account-setup-dictionaries-button = Transferir dicionários
+account-setup-button-finish = Terminar
+    .accesskey = T
 
 ## Calendar synchronization dialog
 
