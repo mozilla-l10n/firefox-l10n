@@ -33,5 +33,13 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Lancez-vous
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Modifiez des fichiers PDF avec notre nouvel outil texte
+callout-pdfjs-edit-body-a = Remplissez des formulaires, annotez, ajoutez des commentaires directement dans { -brand-short-name }.
+callout-pdfjs-edit-body-b = Plus besoin de chercher en ligne des éditeurs gratuits. Remplissez des formulaires, annotez, ajoutez des commentaires directement dans { -brand-short-name }.
 callout-pdfjs-edit-button = Suivant
+callout-pdfjs-draw-title = Signez des documents avec notre nouvel outil de dessin
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Annotez des fichiers PDF, puis enregistrez vos modifications.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Plus besoin d’imprimer puis de scanner. Annotez des fichiers PDF, puis enregistrez vos modifications.
 callout-pdfjs-draw-button = J’ai compris

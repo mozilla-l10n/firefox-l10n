@@ -406,3 +406,23 @@ mr2022-onboarding-gratitude-secondary-button-label = Commencer la navigation
 onboarding-infrequent-import-title = Installez-vous confortablement
 onboarding-infrequent-import-subtitle = Que vous vous installiez ou que vous ne soyez que de passage, souvenez-vous que vous pouvez importer marque-pages, mots de passe et bien plus.
 onboarding-infrequent-import-primary-button = Importer dans { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Une personne travaillant sur un ordinateur portable au milieu d’étoiles et de fleurs
+mr2022-onboarding-default-image-alt =
+    .aria-label = Une personne enlaçant le logo de { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Une personne en skateboard portant une boîte d’icônes de logiciels
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Des grenouilles sautant sur des nénuphars avec un code QR pour télécharger { -brand-product-name } pour mobiles au centre.
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Une baguette magique fait jaillir hors d’un chapeau le logo de la navigation privée de { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = High five par une main à la peau claire et une à la peau foncée
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vue d’un coucher de soleil à travers une fenêtre avec un renard et un pot de fleurs sur le rebord d’une fenêtre
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Une bombe de peinture colorie le collage d’un œil vert, d’une chaussure orange, d’une balle de basket rouge, d’un casque audio violet, d’un cœur bleu et d’une couronne jaune
