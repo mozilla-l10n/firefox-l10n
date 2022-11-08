@@ -52,3 +52,7 @@ toolbox-always-on-top-enabled =
   .title = Disattiva Sempre in primo piano (gli strumenti di sviluppo verranno riavviati)
 toolbox-always-on-top-disabled =
   .title = Attiva Sempre in primo piano (gli strumenti di sviluppo verranno riavviati)
+toolbox-always-on-top-enabled2 = Disattiva Sempre in primo piano
+  .title = Gli strumenti di sviluppo verranno riavviati
+toolbox-always-on-top-disabled2 = Attiva Sempre in primo piano
+  .title = Gli strumenti di sviluppo verranno riavviati
