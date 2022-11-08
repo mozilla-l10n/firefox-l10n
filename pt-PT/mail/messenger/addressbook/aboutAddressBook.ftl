@@ -21,10 +21,20 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Todos os livros de endereços
 all-address-books = Todos os livros de endereços
-
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Total de contactos em { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Total de contactos em todos os livros de endereços: { $count }
 about-addressbook-books-context-properties =
     .label = Propriedades
+about-addressbook-books-context-edit-list =
+    .label = Editar lista
 about-addressbook-books-context-synchronize =
     .label = Sincronizar
 about-addressbook-books-context-edit =
@@ -39,7 +49,6 @@ about-addressbook-books-context-remove =
     .label = Remover
 about-addressbook-books-context-startup-default =
     .label = Diretório de arranque predefinido
-
 about-addressbook-confirm-delete-book-title = Apagar livro de endereços
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -57,17 +66,14 @@ about-addressbook-search =
     .placeholder = Pesquisar { $name }
 about-addressbook-search-all =
     .placeholder = Pesquisar todos os livros de endereços
-
 about-addressbook-sort-button2 =
     .title = Listar opções de apresentação
-
 about-addressbook-name-format-display =
     .label = Nome de apresentação
 about-addressbook-name-format-firstlast =
     .label = Primeiro Último
 about-addressbook-name-format-lastfirst =
     .label = Último, Primeiro
-
 about-addressbook-sort-name-ascending =
     .label = Ordenar por nome (A > Z)
 about-addressbook-sort-name-descending =
@@ -76,27 +82,29 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por endereço de e-mail (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por endereço de e-mail (Z > A)
-
 about-addressbook-horizontal-layout =
     .label = Mudar para vista horizontal
 about-addressbook-vertical-layout =
     .label = Mudar para vista vertical
+about-addressbook-table-layout =
+    .label = Disposição da tabela
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
 
 about-addressbook-column-header-generatedname = Nome
 about-addressbook-column-header-emailaddresses = Endereços de e-mail
+about-addressbook-column-header-nickname = Pseudónimo
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
 about-addressbook-column-header-phonenumbers = Números de Telefone
 about-addressbook-column-header-addresses = Endereços
 about-addressbook-column-header-title = Título
 about-addressbook-column-header-department = Departamento
 about-addressbook-column-header-organization = Organização
 about-addressbook-column-header-addrbook = Livro de endereços
-
 about-addressbook-cards-context-write =
     .label = Escrever
-
 about-addressbook-confirm-delete-mixed-title = Apagar contactos e listas
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -132,6 +140,7 @@ about-addressbook-confirm-remove-contacts-title =
 
 
 # Photo dialog
+
 
 # Keyboard shortcuts
 
