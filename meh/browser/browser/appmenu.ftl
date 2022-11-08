@@ -108,10 +108,16 @@ profiler-popup-learn-more-button =
     .label = Ka´vi kue´eka
 profiler-popup-settings =
     .value = Ke´i
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Tee da ke'i…
+profiler-popup-recording-screen = Grabando…
 profiler-popup-start-recording-button =
     .label = Kajie'e grabación
 profiler-popup-discard-button =
     .label = Xita
+profiler-popup-capture-button =
+    .label = Capturar
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -147,6 +153,8 @@ profiler-popup-presets-custom-label =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Tetiñu historial
 appmenu-reopen-all-tabs = Nate kuaiyo da sukua
 appmenu-reopen-all-windows = Na síne kuaíyo da ventana
 appmenu-restore-session =
