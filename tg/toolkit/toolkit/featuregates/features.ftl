@@ -21,8 +21,10 @@ experimental-features-media-jxl-description = Ҳангоми фаъол буда
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Иловакунии созанда ба интерфейси <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> якҷоя бо як қатор тағйироти алоқадор имкон медиҳад, ки варақаҳои услубҳои нав бе иловакунии варақ ба HTML мустақиман эҷод карда шаванд. Ин имкон эҷодкунии варақаҳои услубҳои такрориро барои истифода бо <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> осон мегардонад. Барои маълумоти муфассал, ба <a data-l10n-name="bugzilla">хатои 1520690</a> нигаред.
 experimental-features-devtools-compatibility-panel =
     .label = Абзорҳои барномасозӣ: Лавҳаи мутобиқсозӣ
+experimental-features-devtools-compatibility-panel-description = Лавҳаи ҷонибӣ барои Тафтишкунандаи саҳифае, ки маълумоти муфассалро оид ба вазъияти мувофиқати барномаи шумо байни браузерҳои гуногун нишон медиҳад. Барои маълумоти муфассал, ба <a data-l10n-name="bugzilla">хатои 1584464</a> нигаред.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Кукиҳо: SameSite=Lax ба сурати пешфарз
