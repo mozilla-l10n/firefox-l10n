@@ -258,6 +258,17 @@ mr2022-onboarding-colorway-tooltip-expressionist =
     .title = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ (ᱥᱟᱥᱟᱝ)
+mr2022-onboarding-colorway-description-expressionist = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱪᱤᱛᱟᱹᱨᱤᱭᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱮᱜᱮ ᱮᱴᱟᱜ ᱞᱮᱠᱷᱟᱢ ᱧᱮᱞ ᱮᱫᱟ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱵᱷᱟᱵᱱᱟ ᱜᱷᱟᱱᱴᱟᱭᱟᱭ ᱾
+mr2022-onboarding-colorway-label-visionary = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ (ᱦᱟᱹᱨᱤᱭᱟᱹᱲ)
+mr2022-onboarding-colorway-label-activist = ᱠᱟᱹᱢᱤᱭᱟᱹ
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = ᱠᱟᱹᱢᱤᱭᱟᱹ
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = ᱠᱟᱹᱢᱤᱭᱟᱹ (ᱞᱤᱞ)
 mr2022-onboarding-colorway-label-dreamer = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
@@ -271,10 +282,13 @@ mr2022-onboarding-colorway-tooltip-innovator2 =
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ { -brand-product-name } ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱾
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱤᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱥᱟᱹᱫᱷᱤᱱ ᱧᱟᱢ ᱢᱮ
+mr2022-upgrade-onboarding-pin-private-window-subtitle = ᱰᱮᱥᱠᱴᱚᱯ ᱠᱷᱚᱱ ᱪᱮᱫ ᱠᱩᱠᱤᱡᱽ ᱟᱨᱵᱟᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱵᱮᱝ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ ᱾ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱢᱮ ᱡᱮᱞᱠᱟ ᱚᱠᱚᱭ ᱦᱚᱸ ᱵᱟᱠᱚ ᱧᱮᱞᱮᱫ ᱢᱮᱭᱟ ᱾
 
 ## MR2022 Privacy Segmentation screen strings
 
