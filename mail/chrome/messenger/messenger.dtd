@@ -154,7 +154,7 @@
 <!ENTITY folderView.accesskey "M">
 <!ENTITY unifiedFolders.label "Sameinaðar möppur">
 <!ENTITY unifiedFolders.accesskey "S">
-<!ENTITY allFolders.label "Allar">
+<!ENTITY allFolders.label "Allt">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Ólesið">
 <!ENTITY unreadFolders.accesskey "l">
@@ -212,7 +212,7 @@
 <!ENTITY msgsMenu.accesskey "P">
 <!ENTITY threads.label "Umræður">
 <!ENTITY threads.accesskey "U">
-<!ENTITY allMsgsCmd.label "Allar">
+<!ENTITY allMsgsCmd.label "Allt">
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Opna allar umræður">
 <!ENTITY expandAllThreadsCmd.accesskey "O">
