@@ -11,10 +11,12 @@ experimental-features-css-masonry-description = Барои хусусияти о
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Ин API-и нав дастгирии дараҷаи пастро барои иҷрои ҳисоббарорӣ ва намоиши графика бо истифодаи <a data-l10n-name="wikipedia">Воҳиди коркарди графикӣ (GPU)</a> аз дастгоҳ ё компютери корбар таъмин менамояд. <a data-l10n-name="spec">Таснифот</a> ҳанӯз дар ҳоли баррасӣ аст. Барои маълумоти муфассал, ба <a data-l10n-name="bugzilla">хатои 1602129</a> нигаред.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Расона: JPEG XL
+experimental-features-media-jxl-description = Ҳангоми фаъол будани ин хусусият, «{ -brand-short-name }» формати JPEG XL (JXL)-ро дастгирӣ мекунад. Ин формати файли тасвирии такмилёфта мебошад, ки гузариши беталафро аз файлҳои JPEG-и анъанавӣ дастгирӣ мекунад. Барои маълумоти муфассал, ба <a data-l10n-name="bugzilla">хатои 1539075</a> нигаред.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
