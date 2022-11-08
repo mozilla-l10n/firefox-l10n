@@ -211,9 +211,39 @@ account-setup-signature-button = Adicionar uma assinatura
 account-setup-dictionaries-button = Transferir dicionários
 account-setup-button-finish = Terminar
     .accesskey = T
+account-setup-looking-up-address-books = A procurar livros de endereços…
+account-setup-looking-up-calendars = A procurar calendários…
+account-setup-address-books-button = Livros de endereços
+account-setup-calendars-button = Calendários
+account-setup-connect-link = Ligar
+account-setup-existing-address-book = Ligado
+    .title = O livro de endereços já está ligado
+account-setup-existing-calendar = Ligado
+    .title = O calendário já está ligado
+account-setup-connect-all-calendars = Ligar todos os calendários
+account-setup-connect-all-address-books = Ligar todos os livros de endereços
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Ligar calendário
 calendar-dialog-cancel-button = Cancelar
     .accesskey = C
+calendar-dialog-confirm-button = Ligar
+    .accesskey = L
 account-setup-calendar-name-label = Nome
+account-setup-calendar-name-input =
+    .placeholder = O meu calendário
+account-setup-calendar-color-label = Cor
+account-setup-calendar-refresh-label = Atualizar
+account-setup-calendar-refresh-manual = Manualmente
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Todos os minutos
+       *[other] A cada { $count } minutos
+    }
+account-setup-calendar-read-only = Apenas de leitura
+    .accesskey = r
+account-setup-calendar-show-reminders = Mostrar lembretes
+    .accesskey = s
+account-setup-calendar-offline-support = Suporte offline
+    .accesskey = o
