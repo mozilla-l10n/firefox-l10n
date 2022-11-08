@@ -40,6 +40,7 @@ firefoxview-tabpickup-sync-disconnected-header = ᱞᱮᱛᱟᱲ ᱞᱟᱹᱜᱤ
 firefoxview-tabpickup-sync-disconnected-primarybutton = ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱟᱹᱭᱩᱨᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 firefoxview-tabpickup-password-locked-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 firefoxview-tabpickup-password-locked-primarybutton = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱫᱮᱨ ᱢᱮ
+firefoxview-mobile-promo-header = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱵᱟᱝᱠᱷᱟᱱ ᱴᱮᱵᱽᱞᱮᱴ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱦᱚᱛᱟᱣ ᱢᱮ
 firefoxview-mobile-promo-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 firefoxview-mobile-confirmation-header = 🎉 ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱜᱮᱭᱟ!
 firefoxview-closed-tabs-title = ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ
