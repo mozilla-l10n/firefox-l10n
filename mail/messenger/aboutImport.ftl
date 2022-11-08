@@ -127,10 +127,21 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = Dados a serem importados
 summary-pane-start = Iniciar importação
+summary-pane-warning = { -brand-product-name } terá de ser reiniciado quando a importação for concluída.
+summary-pane-start-over = Reiniciar ferramenta de importação
 
 ## Footer area
 
 footer-help = Precisa de ajuda?
+footer-import-documentation = Importar documentação
+footer-export-documentation = Exportar documentação
+footer-support-forum = Fórum de apoio
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Passos de importação
+step-confirm = Confirmar
+# Variables:
+# $number (number) - step number
+step-count = { $number }
