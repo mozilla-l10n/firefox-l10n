@@ -155,6 +155,7 @@ spotlight-total-cookie-protection-header =
     ᱱᱤᱥᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱮᱵᱷᱟᱮ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
 spotlight-total-cookie-protection-primary-button = ᱢᱩᱴ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 spotlight-total-cookie-protection-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+cfr-total-cookie-protection-header = ᱟᱢ ᱥᱟᱨᱦᱟᱣ ᱞᱮ ᱪᱟᱞ ᱟᱢ ᱠᱟᱱᱟ, { -brand-short-name } ᱫᱚ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱯᱨᱟᱭᱣᱮᱴ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱧᱚᱜ ᱜᱮᱭᱟ
 
 ## Emotive Continuous Onboarding
 
