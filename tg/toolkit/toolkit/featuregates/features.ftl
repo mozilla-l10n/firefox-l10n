@@ -51,6 +51,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Да
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Калиди хомӯшсозии садои саросарии WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Унсурҳои идоракуниро ба нишондиҳандаи дастрасии умумии WebRTC илова мекунад, ки ба корбарон имкон медиҳад. то онҳо тавонанд ба микрофон ва камераи худ дастрасиро ҳаматарафа манъ кунанд.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
