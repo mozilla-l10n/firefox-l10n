@@ -46,6 +46,8 @@ experimental-features-cookie-samesite-schemeful-description = Кукиҳоро �
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Абзорҳои барномасозӣ: Ислоҳи хатоҳои коргузори хизматрасонӣ
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Дастгирии озмоиширо барои Кургузорони хизматрасонӣ дар лавҳаи ислоҳкунанда фаъол месозад. Ин хусусият метавонад кори Абзорҳои барномасозиро суст кунад ва истеъмоли ҳофизаро зиёд намояд.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Калиди хомӯшсозии садои саросарии WebRTC
