@@ -13,7 +13,6 @@
 
 <!ENTITY calendar.today.button.label          "Í dag">
 <!ENTITY calendar.tomorrow.button.label       "Á morgun">
-<!ENTITY calendar.upcoming.button.label       "Á næstunni">
 
 <!ENTITY calendar.events.filter.all.label "Allir atburðir">
 <!ENTITY calendar.events.filter.today.label "Atburðir dagsins">
@@ -40,7 +39,7 @@
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Raða eftir upphafsdagsetningu">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Endar">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Raða eftir lokadagsetningu">
-<!ENTITY calendar.unifinder.tree.duedate.label             "Útistandandi">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Lokadagur">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Raða eftir framkvæmist fyrir">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Lokið">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Raða eftir lokadagsetningu">
@@ -369,8 +368,6 @@
 <!ENTITY calendar.publish.url.label                 "Útgáfuslóð">
 <!ENTITY calendar.publish.publish.button      "Gefa út">
 <!ENTITY calendar.publish.close.button      "Loka">
-
-<!ENTITY calendar.publish.example.url.description   "Í líkingu við http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Veldu dagatal">
