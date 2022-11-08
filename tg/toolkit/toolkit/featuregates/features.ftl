@@ -28,6 +28,7 @@ experimental-features-devtools-compatibility-panel-description = Лавҳаи ҷ
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Кукиҳо: SameSite=Lax ба сурати пешфарз
+experimental-features-cookie-samesite-lax-by-default2-description = Кукиҳоро ҳамчун «SameSite=Lax» ба сурати пешфарз истифода баред, агар ягон сифати «SameSite» муайян нашуда бошад. Барномасозон бояд ба вазъи кунунии истифодаи номаҳдуди ҷорӣ тавассути муайянкунии сифати «SameSite=None» ба таври возеҳ ҳамроҳ шаванд.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Кукиҳо: SameSite=None сифати бехатарро талаб мекунад
@@ -41,6 +42,7 @@ experimental-features-abouthome-startup-cache-description = Зерҳофиза �
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Кукиҳо: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Кукиҳоро аз домени ягона, аммо бо нақшаҳои гуногунтаркиб (масалан, http://example.com ва https://example.com) ҳамчун кукиҳои байнисомонавӣ ба ивази кукиҳои сомонаи ягона истифода баред. Ҳамин тавр амният такмил дода мешавад, аммо дар оянда ин метавонад вайроншавиро ба вуҷуд орад.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Абзорҳои барномасозӣ: Ислоҳи хатоҳои коргузори хизматрасонӣ
