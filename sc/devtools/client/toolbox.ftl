@@ -12,8 +12,12 @@
 ## the label.
 
 toolbox-meatball-menu-settings-label = Cunfiguratzione
+toolbox-meatball-menu-documentation-label = Documentatzione…
+toolbox-meatball-menu-community-label = Comunidade…
 
 ##
 
+
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Modalidade de càscia de is ainas de su navigadore
