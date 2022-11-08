@@ -17,3 +17,8 @@ policy-DisablePrivateBrowsing = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ �
 
 ##
 
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS #11 ᱢᱚᱰᱭᱩᱞ ᱠᱚ ᱦᱚᱦᱟᱞ ᱢᱮ ᱾
+policy-ShowHomeButton = ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱟᱨ ᱨᱮ ᱚᱲᱟᱜ ᱵᱩᱛᱟᱹᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾
+policy-SSLVersionMax = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱰᱷᱮᱨ SSL ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱮᱴ ᱢᱮ ᱾
+policy-SSLVersionMin = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱠᱚᱢ SSL ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱮᱴ ᱢᱮ ᱾
