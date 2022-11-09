@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Rekommenderad funktion
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Varför ser jag detta
-
 cfr-doorhanger-extension-cancel-button = Inte nu
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Lägg till nu
     .accesskey = L
-
 cfr-doorhanger-extension-manage-settings-button = Hantera rekommendationsinställningar
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Visa mig inte denna rekommendation
     .accesskey = V
-
 cfr-doorhanger-extension-learn-more-link = Läs mer
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = av { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekommendation
 cfr-doorhanger-extension-notification2 = Rekommendation
     .tooltiptext = Rekommendation av tillägg
     .a11y-announcement = Rekommendation av tillägg tillgänglig
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekommendation
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Läs mer
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funktion:
-
 cfr-whatsnew-button =
     .label = Vad är nytt
     .tooltiptext = Vad är nytt
-
 cfr-whatsnew-release-notes-link-text = Läs versionsfakta
 
 ## Enhanced Tracking Protection Milestones
@@ -166,7 +156,6 @@ spotlight-total-cookie-protection-body = Totalt skydd mot kakor stoppar spårare
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bygger ett staket runt kakor och begränsar dem till webbplatsen du är på så att spårare inte kan använda dem för att följa dig. Med tidig åtkomst hjälper du till att optimera den här funktionen så att vi kan fortsätta bygga en bättre webb för alla.
 spotlight-total-cookie-protection-primary-button = Aktivera totalt skydd mot kakor
 spotlight-total-cookie-protection-secondary-button = Inte nu
-
 cfr-total-cookie-protection-header = Tack vare dig är { -brand-short-name } mer privat och säkrare än någonsin
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -200,13 +189,11 @@ spotlight-pin-secondary-button = Inte nu
 
 mr2022-background-update-toast-title = Nya { -brand-short-name }. Mer privat. Färre spårare. Inga kompromisser.
 mr2022-background-update-toast-text = Prova den senaste { -brand-short-name } nu, uppgraderad med vårt starkaste antispårningsskydd hittills.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Öppna { -brand-shorter-name } nu
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -225,8 +212,15 @@ firefoxview-cfr-body = Byt dessutom snabbt mellan enheter och lägg till en fär
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Säg hej till { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Vill du ha den öppna fliken på din telefon? Hämta den i farten. Behöver du en sida du just har besökt? Hitta den i { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Se hur det fungerar
 firefoxview-spotlight-promo-secondarybutton = Hoppa över
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Välj colorway
+    .accesskey = V
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Färglägg din webbläsare med { -brand-short-name } exklusiva nyanser inspirerade av röster som förändrade kulturen.
+colorways-cfr-header-28days = Independent Voices colorways upphör den 16 januari
