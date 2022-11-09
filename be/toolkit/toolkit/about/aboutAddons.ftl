@@ -142,6 +142,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Дазволы для сайтаў
 addon-category-sitepermission-title =
     .title = Дазволы для сайтаў
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Дазволы сайта для { $host }
 
 ## These are global warnings
 

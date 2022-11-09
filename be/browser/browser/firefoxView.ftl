@@ -55,6 +55,7 @@ firefoxview-mobile-confirmation-description = Цяпер вы можаце ат�
 firefoxview-closed-tabs-title = Нядаўна закрытыя
 firefoxview-closed-tabs-description2 = Паўторна адкрыць старонкі, якія вы закрылі ў гэтым акне.
 firefoxview-closed-tabs-placeholder = <strong>Няма нядаўна закрытых старонак</strong><br/>Больш ніколі не бойцеся згубіць закрытую картку. Вы заўсёды можаце ўзнавіць яе тут.
+firefoxview-closed-tabs-placeholder-header = Няма нядаўна закрытых картак
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Апошняя актыўная
 # Variables:
