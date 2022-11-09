@@ -9,6 +9,15 @@ appmenu-sync-panel-title =
     .title = Sinhronizacija
 appmenu-sync-account =
     .value = e-posta@example.com
+appmenu-sync-now =
+    .label = Sinhroniziraj zdaj
+    .accesskey = z
+appmenu-sync-settings =
+    .label = Nastavitve sinhronizacije
+    .accesskey = t
+appmenu-sync-sign-out =
+    .label = Odjava …
+    .accesskey = O
 
 ## New Account
 
