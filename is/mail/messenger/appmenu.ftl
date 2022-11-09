@@ -18,6 +18,15 @@ appmenu-sync-manage =
     .accesskey = m
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-now =
+    .label = Samstilla núna
+    .accesskey = n
+appmenu-sync-settings =
+    .label = Stillingar samstillingar
+    .accesskey = S
+appmenu-sync-sign-out =
+    .label = Útskráning…
+    .accesskey = k
 
 ## New Account
 
@@ -184,3 +193,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = Um { -brand-short-name }
     .accesskey = m
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = Sæki { -brand-shorter-name } uppfærslu
+appmenuitem-banner-update-available =
+    .label = Uppfærsla í boði — sækja núna
+appmenuitem-banner-update-manual =
+    .label = Uppfærsla í boði — sækja núna
+appmenuitem-banner-update-unsupported =
+    .label = Ekki hægt að uppfæra — kerfi ósamhæft
+appmenuitem-banner-update-restart =
+    .label = Uppfærsla í boði — endurræstu núna
