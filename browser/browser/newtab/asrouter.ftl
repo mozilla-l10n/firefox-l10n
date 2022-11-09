@@ -218,4 +218,9 @@ firefoxview-spotlight-promo-secondarybutton = 건너뛰기
 
 colorways-cfr-primarybutton = 컬러웨이 선택
     .accesskey = C
-colorways-cfr-header-28days = 독립적인 목소리 컬러웨이 1월 16일 만료
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = 문화를 바꾼 목소리에서 영감을 받은 { -brand-short-name } 독점 색상으로 브라우저를 색칠하세요.
+colorways-cfr-header-28days = 독립적인 목소리 컬러웨이 1월 16일 만료됨
+colorways-cfr-header-14days = 독립적인 목소리 컬러웨이 2주 후 만료됨
+colorways-cfr-header-7days = 독립적인 목소리 컬러웨이 이번 주 만료됨
+colorways-cfr-header-today = 독립적인 목소리 컬러웨이 오늘 만료됨
