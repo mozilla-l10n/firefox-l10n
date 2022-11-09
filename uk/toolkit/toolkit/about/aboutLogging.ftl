@@ -7,6 +7,8 @@ about-logging-title = Про журналювання
 about-logging-current-log-file = Поточний файл журналу:
 about-logging-current-log-modules = Поточні модулі журналу:
 about-logging-log-tutorial = Перегляньте <a data-l10n-name="logging">HTTP журналювання</a> для інструкцій з використання цього засобу.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Відкрити каталог
 about-logging-set-log-file = Встановити файл журналу
 about-logging-set-log-modules = Встановити модулі журналу
 about-logging-start-logging = Почати журналювання
