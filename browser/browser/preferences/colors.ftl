@@ -10,10 +10,6 @@ colors-window =
            *[other] width: 40em
         }
 
-colors-dialog =
-    .title = Colori
-    .style = width: 42em
-
 colors-dialog2 =
     .title = Colori
     .style = min-width: 42em
