@@ -45,8 +45,6 @@ videocontrols-picture-in-picture-explainer = Riproduci i video in primo piano me
 
 videocontrols-picture-in-picture-toggle-label2 = Sgancia questo video
 
-videocontrols-picture-in-picture-explainer2 = Più sono gli schermi, maggiore è il divertimento. Riproduci questo video in Picture-in-Picture mentre navighi.
-
 videocontrols-picture-in-picture-explainer3 = Più sono gli schermi, maggiore è il divertimento. Riproduci questo video mentre fai altro.
 
 videocontrols-error-aborted = Il caricamento del video è stato interrotto.
