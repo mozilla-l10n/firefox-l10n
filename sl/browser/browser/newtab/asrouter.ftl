@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Priporočena možnost
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zakaj vidim to
-
 cfr-doorhanger-extension-cancel-button = Ne zdaj
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Dodaj zdaj
     .accesskey = D
-
 cfr-doorhanger-extension-manage-settings-button = Upravljaj nastavitve priporočil
     .accesskey = U
-
 cfr-doorhanger-extension-never-show-recommendation = Ne prikazuj tega priporočila
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Več o tem
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = — { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Priporočilo
 cfr-doorhanger-extension-notification2 = Priporočilo
     .tooltiptext = Priporočilo razširitve
     .a11y-announcement = Na voljo je priporočilo razširitve
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Priporočilo
@@ -89,11 +81,9 @@ cfr-protections-panel-link-text = Več o tem
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Novost:
-
 cfr-whatsnew-button =
     .label = Novosti
     .tooltiptext = Novosti
-
 cfr-whatsnew-release-notes-link-text = Preberite opombe ob izdaji
 
 ## Enhanced Tracking Protection Milestones
@@ -172,7 +162,6 @@ spotlight-total-cookie-protection-body = Popolna zaščita pred piškotki prepre
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ograjuje piškotke znotraj spletnega mesta, na katerem se nahajate, tako da jih sledilci ne morejo uporabiti, da bi vam sledili. Z zgodnjim dostopom boste pomagali izboljšati to zmogljivost, da bomo lahko še naprej gradili boljši splet za vse.
 spotlight-total-cookie-protection-primary-button = Vključi popolno zaščito pred piškotki
 spotlight-total-cookie-protection-secondary-button = Ne zdaj
-
 cfr-total-cookie-protection-header = Zahvaljujoč vam je { -brand-short-name } bolj zaseben in varen kot kdajkoli prej
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -206,13 +195,11 @@ spotlight-pin-secondary-button = Ne zdaj
 
 mr2022-background-update-toast-title = Novi { -brand-short-name }. Več zasebnosti. Manj sledenja. Brez kompromisov.
 mr2022-background-update-toast-text = Preizkusite najnovejši { -brand-short-name }, nadgrajen z našo najmočnejšo zaščito pred sledenjem doslej.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Odpri { -brand-shorter-name } zdaj
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -231,8 +218,16 @@ firefoxview-cfr-body = Poleg tega brez težav preklapljajte med napravami in dod
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Spoznajte { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Želite zavihek, ki ga imate odprtega na telefonu? Na dosegu roke. Potrebujete zavihek, ki ste ga pravkar zaprli? Čaka vas v { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Oglejte si, kako deluje
 firefoxview-spotlight-promo-secondarybutton = Preskoči
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Izberi barvno kombinacijo
+    .accesskey = I
+colorways-cfr-header-28days = Barvne kombinacije Neodvisni glasovi potečejo 16. januarja
+colorways-cfr-header-14days = Barvne kombinacije Neodvisni glasovi potečejo čez dva tedna
+colorways-cfr-header-7days = Barvne kombinacije Neodvisni glasovi potečejo ta teden
+colorways-cfr-header-today = Barvne kombinacije Neodvisni glasovi potečejo danes
