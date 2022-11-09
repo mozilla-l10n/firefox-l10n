@@ -52,6 +52,8 @@ firefoxview-mobile-confirmation-description = כעת באפשרותך לקבל �
 firefoxview-closed-tabs-title = לשוניות שנסגרו לאחרונה
 firefoxview-closed-tabs-description2 = פתיחה מחדש דפים שנסגרו בחלון זה.
 firefoxview-closed-tabs-placeholder = <strong>אין דפים שנסגרו לאחרונה</strong><br/>לא צריך יותר לפחד לאבד לשונית שנסגרה. תמיד יהיה ניתן לקבל אותה כאן.
+firefoxview-closed-tabs-placeholder-header = אין לשוניות שנסגרו לאחרונה
+firefoxview-closed-tabs-placeholder-body = כשסוגרים לשונית בחלון זה, ניתן לקבל אותה בחזרה כאן.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = הלשונית הפעילה האחרונה
 # Variables:
@@ -66,6 +68,8 @@ firefoxview-change-colorway-button = שינוי ערכת צבעים
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>אין עדיין מה לראות</strong><br/>בפעם הבאה שדף ייפתח ב־{ -brand-product-name } במכשיר אחר, ניתן יהיה לקבל אותו כאן כמו קסם.
+firefoxview-synced-tabs-placeholder-header = אין מה לראות עדיין
+firefoxview-synced-tabs-placeholder-body = בפעם הבאה שייפתח דף ב־{ -brand-product-name } במכשיר אחר, הוא יופיע כאן כמו קסם.
 firefoxview-collapse-button-show =
     .title = הצגת רשימה
 firefoxview-collapse-button-hide =
