@@ -253,3 +253,15 @@ firefoxview-spotlight-promo-title = Ti presentiamo { -firefoxview-brand-name }
 firefoxview-spotlight-promo-subtitle = Ti serve proprio quella scheda aperta sul tuo telefono? Recuperala al volo. Hai bisogno di un sito che hai appena visitato? Lo trovi in { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Scopri come funziona
 firefoxview-spotlight-promo-secondarybutton = Salta
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Scegli una tonalità
+  .accesskey = S
+
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Personalizza il tuo browser con le iconiche combinazioni di colori di { -brand-short-name } ispirate alle voci che cambiano la società.
+colorways-cfr-header-28days = Le tonalità Voci indipendenti scadranno il 16 gennaio
+colorways-cfr-header-14days = Le tonalità Voci indipendenti scadranno in due settimane
+colorways-cfr-header-7days =  Le tonalità Voci indipendenti scadranno questa settimana
+colorways-cfr-header-today = Le tonalità Voci indipendenti scadono oggi
