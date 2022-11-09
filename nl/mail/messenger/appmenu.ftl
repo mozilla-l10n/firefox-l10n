@@ -18,6 +18,15 @@ appmenu-sync-manage =
     .accesskey = b
 appmenu-sync-account =
     .value = voorbeeld@example.com
+appmenu-sync-now =
+    .label = Nu synchroniseren
+    .accesskey = N
+appmenu-sync-settings =
+    .label = Synchronisatie-instellingen
+    .accesskey = S
+appmenu-sync-sign-out =
+    .label = Afmelden…
+    .accesskey = A
 
 ## New Account
 
@@ -184,3 +193,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = Over { -brand-short-name }
     .accesskey = O
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = { -brand-shorter-name }-update wordt gedownload
+appmenuitem-banner-update-available =
+    .label = Update beschikbaar – nu downloaden
+appmenuitem-banner-update-manual =
+    .label = Update beschikbaar – nu downloaden
+appmenuitem-banner-update-unsupported =
+    .label = Kan niet bijwerken – systeem niet compatibel
+appmenuitem-banner-update-restart =
+    .label = Update beschikbaar – nu herstarten
