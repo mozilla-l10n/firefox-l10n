@@ -213,3 +213,10 @@ firefoxview-spotlight-promo-title = { -firefoxview-brand-name } өнімін қ�
 firefoxview-spotlight-promo-subtitle = Телефоныңыздағы ашық бетті қалайсыз ба? Оны алыңыз. Сізге жаңа ғана кірген сайт керек пе? Ол { -firefoxview-brand-name } арқылы қайта оралды.
 firefoxview-spotlight-promo-primarybutton = Бұл қалай жұмыс жасайтынын қарау
 firefoxview-spotlight-promo-secondarybutton = Аттап кету
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Түстер схемасын таңдау
+    .accesskey = т
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Браузеріңізді мәдениетті өзгерткен дауыстардан шабыттандырылған { -brand-short-name } эксклюзивті реңктермен бояңыз.
