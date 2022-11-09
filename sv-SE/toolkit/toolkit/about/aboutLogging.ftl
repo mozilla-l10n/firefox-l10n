@@ -7,6 +7,8 @@ about-logging-title = Om loggning
 about-logging-current-log-file = Aktuell loggfil:
 about-logging-current-log-modules = Aktuella loggmoduler:
 about-logging-log-tutorial = Se <a data-l10n-name="logging">HTTP-loggning</a> för instruktioner om hur du använder detta verktyg.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Öppna katalog
 about-logging-set-log-file = Ange loggfil
 about-logging-set-log-modules = Ange loggmoduler
 about-logging-start-logging = Starta loggning
