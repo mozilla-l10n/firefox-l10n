@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = 您現在可以直接開啟平板�
 firefoxview-closed-tabs-title = 最近關閉的分頁
 firefoxview-closed-tabs-description2 = 重新開啟您最近在此視窗關閉的分頁。
 firefoxview-closed-tabs-placeholder = <strong>沒有最近關閉的頁面</strong><br/>免擔心遺失關閉的分頁，可隨時在此重新取回。
+firefoxview-closed-tabs-placeholder-header = 沒有最近關閉的分頁
+firefoxview-closed-tabs-placeholder-body = 當您關閉此視窗中的分頁時，可以在此取回。
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = 最後開啟
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = 更改配色
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>尚無資料</strong><br/>下次您在其他裝置上的 { -brand-product-name } 開啟頁面時，也可以在此同步開啟。
+firefoxview-synced-tabs-placeholder-header = 還沒有任何東西
+firefoxview-synced-tabs-placeholder-body = 下次您在另一台裝置上的 { -brand-product-name } 開啟頁面時，也可以在此處開啟。
 firefoxview-collapse-button-show =
     .title = 顯示清單
 firefoxview-collapse-button-hide =
