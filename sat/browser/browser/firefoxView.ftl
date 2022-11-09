@@ -58,6 +58,7 @@ firefoxview-change-colorway-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱚᱫᱚᱞ ᱢ�
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>ᱱᱤᱛᱚᱜ ᱧᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ</strong><br/>ᱞᱟᱦᱟ ᱚᱠᱛᱚ ᱡᱷᱚᱜ ᱟᱢ ᱛᱤᱧ ᱡᱷᱚᱜ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱦᱴᱟ { -brand-product-name } ᱨᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱠᱷᱟᱱ, ᱵᱷᱤᱞᱠᱤ ᱞᱮᱠᱷᱟ ᱦᱟᱛᱟᱣ ᱟᱢ ᱾
+firefoxview-synced-tabs-placeholder-header = ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ
 firefoxview-collapse-button-show =
     .title = ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-collapse-button-hide =
