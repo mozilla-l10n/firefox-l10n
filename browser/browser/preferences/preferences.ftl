@@ -600,6 +600,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikaži predloge iskanja v rezultatih naslovne vrstice
     .accesskey = P
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Na strani z zadetki privzetega iskalnika prikaži iskalno poizvedbo namesto spletnega naslova
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
