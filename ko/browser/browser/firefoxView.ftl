@@ -71,6 +71,8 @@ firefoxview-change-colorway-button = 컬러웨이 변경
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>아직 볼 것이 없음</strong><br/>다음에 다른 기기의 { -brand-product-name }에서 페이지를 열 때 마법처럼 여기로 가져옵니다.
+firefoxview-synced-tabs-placeholder-header = 아직 볼 것이 없음
+firefoxview-synced-tabs-placeholder-body = 다음에 다른 기기의 { -brand-product-name }에서 페이지를 열 때 마법처럼 여기로 가져옵니다.
 firefoxview-collapse-button-show =
     .title = 목록 표시
 firefoxview-collapse-button-hide =
