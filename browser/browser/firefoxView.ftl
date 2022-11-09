@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = Nyt voit käyttää tablet-laittee
 firefoxview-closed-tabs-title = Viimeksi suljetut
 firefoxview-closed-tabs-description2 = Avaa uudelleen tässä ikkunassa sulkemasi sivut.
 firefoxview-closed-tabs-placeholder = <strong>Ei äskettäin suljettuja sivuja</strong><br/>Älä pelkää suljetun välilehden menettämistä. Voit palauttaa sen täältä.
+firefoxview-closed-tabs-placeholder-header = Ei viimeksi suljettuja välilehtiä
+firefoxview-closed-tabs-placeholder-body = Kun suljet välilehden tässä ikkunassa, voit hakea sen täältä.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Viimeksi aktiivinen
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = Vaihda väriteemaa
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Ei vielä mitään nähtävää</strong><br/>Kun seuraavan kerran avaat sivun { -brand-product-name }issa toisella laitteella, löydä se täältä.
+firefoxview-synced-tabs-placeholder-header = Ei vielä mitään nähtävää
+firefoxview-synced-tabs-placeholder-body = Kun seuraavan kerran avaat sivun { -brand-product-name }issa toisella laitteella, pääset palaamaan siihen tästä.
 firefoxview-collapse-button-show =
     .title = Näytä lista
 firefoxview-collapse-button-hide =

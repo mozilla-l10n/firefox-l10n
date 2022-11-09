@@ -9,6 +9,8 @@ about-logging-current-log-modules = Nykyiset lokitusmoduulit:
 about-logging-log-tutorial =
     Katso <a data-l10n-name="logging">HTTP Logging</a>
     saadaksesi ohjeita tämän työkalun käyttöön.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Avaa kansio
 about-logging-set-log-file = Aseta lokitiedosto
 about-logging-set-log-modules = Aseta lokitusmoduulit
 about-logging-start-logging = Aloita lokitus
