@@ -175,3 +175,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = O { -brand-short-name(sklon: "mestnik") }
     .accesskey = O
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = Prenašanje posodobitve za { -brand-shorter-name(sklon: "tozilnik") }
+appmenuitem-banner-update-available =
+    .label = Na voljo je posodobitev – prenesi zdaj
+appmenuitem-banner-update-manual =
+    .label = Na voljo je posodobitev – prenesi zdaj
+appmenuitem-banner-update-unsupported =
+    .label = Posodobitev ni mogoča – nezdružljiv sistem
+appmenuitem-banner-update-restart =
+    .label = Na voljo je posodobitev – zaženi znova
