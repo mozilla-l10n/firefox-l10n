@@ -18,6 +18,15 @@ appmenu-sync-manage =
     .accesskey = H
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-now =
+    .label = Synkronisera nu
+    .accesskey = S
+appmenu-sync-settings =
+    .label = Synkroniseringsinställningar
+    .accesskey = S
+appmenu-sync-sign-out =
+    .label = Logga ut…
+    .accesskey = L
 
 ## New Account
 
@@ -184,3 +193,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = Om { -brand-short-name }
     .accesskey = m
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = Hämtar { -brand-shorter-name }-uppdatering
+appmenuitem-banner-update-available =
+    .label = Uppdatering tillgänglig — hämta nu
+appmenuitem-banner-update-manual =
+    .label = Uppdatering tillgänglig — hämta nu
+appmenuitem-banner-update-unsupported =
+    .label = Uppdatering misslyckades — systemet är inte kompatibelt
+appmenuitem-banner-update-restart =
+    .label = Uppdatering tillgänglig — starta om nu
