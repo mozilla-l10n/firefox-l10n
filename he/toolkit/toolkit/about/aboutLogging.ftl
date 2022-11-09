@@ -7,6 +7,8 @@ about-logging-title = על אודות רישום
 about-logging-current-log-file = קובץ רישום נוכחי:
 about-logging-current-log-modules = מודולי רישום נוכחיים:
 about-logging-log-tutorial = לקבלת הוראות לגבי השימוש בכלי זה, נא לפנות אל המאמר <a data-l10n-name="logging">רישום HTTP</a>.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = פתיחת תיקייה
 about-logging-set-log-file = הגדרת קובץ רישום
 about-logging-set-log-modules = הגדרת מודולי רישום
 about-logging-start-logging = התחלת רישום
