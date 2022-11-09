@@ -72,6 +72,7 @@ firefoxview-change-colorway-button = Mudar esquema de cores
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Nada ainda</strong><br/>Na próxima vez que você abrir uma página no { -brand-product-name } em outro dispositivo, aparece aqui como mágica.
 firefoxview-synced-tabs-placeholder-header = Nada para mostrar ainda
+firefoxview-synced-tabs-placeholder-body = A próxima vez que você abrir uma página no { -brand-product-name } em outro dispositivo, ela aparece aqui como mágica.
 firefoxview-collapse-button-show =
     .title = Exibir lista
 firefoxview-collapse-button-hide =
