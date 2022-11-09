@@ -7,6 +7,8 @@ about-logging-title = About Logging
 about-logging-current-log-file = Current Log File:
 about-logging-current-log-modules = Current Log Modules:
 about-logging-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Open directory
 about-logging-set-log-file = Set Log File
 about-logging-set-log-modules = Set Log Modules
 about-logging-start-logging = Start Logging
