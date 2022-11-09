@@ -55,6 +55,7 @@ firefoxview-mobile-confirmation-description = Акнун шумо метавон
 firefoxview-closed-tabs-title = Пӯшидашудаи охирин
 firefoxview-closed-tabs-description2 = Аз нав кушодани ҳамаи варақаҳое, ки шумо дар ин равзана маҳкам кардед.
 firefoxview-closed-tabs-placeholder = <strong>Ягон саҳифаи ба наздикӣ пӯшидашуда нест</strong><br/>Хавотир нашавед, ки шумо варақаи пӯшидашударро боз гум мекунед. Шумо ҳамеша метавонед онро дар ин ҷо барқарор кунед.
+firefoxview-closed-tabs-placeholder-header = Ягон варақаи ба наздикӣ пӯшидашуда нест
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Фаъолонаи охирин
 # Variables:

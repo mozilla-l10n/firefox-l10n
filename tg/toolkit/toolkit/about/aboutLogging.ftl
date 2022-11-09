@@ -9,6 +9,8 @@ about-logging-current-log-modules = Модулҳои сабти рӯйдодҳо
 about-logging-log-tutorial =
     Барои гирифтани дастурҳо оид ба истифодаи ин абзор
     ба <a data-l10n-name="logging">Сабти рӯйдодҳои HTTP</a> нигаред.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Кушодани феҳрист
 about-logging-set-log-file = Танзими файли сабти рӯйдодҳо
 about-logging-set-log-modules = Танзими модули сабти рӯйдодҳо
 about-logging-start-logging = Оғоз кардани сабти рӯйдодҳо
