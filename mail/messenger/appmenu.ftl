@@ -18,6 +18,9 @@ appmenu-sync-manage =
     .accesskey = M
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-sign-out =
+    .label = Sign Out…
+    .accesskey = O
 
 ## New Account
 
@@ -187,3 +190,7 @@ appmenu-help-about-product =
 
 ## Application Update
 
+appmenuitem-banner-update-available =
+    .label = Update available — download now
+appmenuitem-banner-update-manual =
+    .label = Update available — download now
