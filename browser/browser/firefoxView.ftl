@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = Енді сіз { -brand-product-n
 firefoxview-closed-tabs-title = Жақында жабылған
 firefoxview-closed-tabs-description2 = Осы терезеде жабылған беттерді қайта ашыңыз.
 firefoxview-closed-tabs-placeholder = <strong>Жақында жабылған беттер жоқ</strong><br/>Жабылған бетті жоғалтудан енді қорықпаңыз. Оны әрқашан да осы жерден ала аласыз.
+firefoxview-closed-tabs-placeholder-header = Жақында жабылған беттер жоқ
+firefoxview-closed-tabs-placeholder-body = Осы терезеде бетті жапқанда, оны осы жерден алуға болады.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Соңғы белсенді
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = Түстер схемасын өзгерт�
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Әлі көретін ешнәрсе жоқ</strong><br/>Сіз келесі рет басқа құрылғыда { -brand-product-name } ішінде бетті ашқан кезде, ол сиқырлы түрде осында пайда болады.
+firefoxview-synced-tabs-placeholder-header = Әлі көретін ештеңе жоқ
+firefoxview-synced-tabs-placeholder-body = Басқа құрылғыда { -brand-product-name } ішінде бетті келесі рет ашқанда, оны сиқырлы түрде осы жерден алыңыз.
 firefoxview-collapse-button-show =
     .title = Тізімді көрсету
 firefoxview-collapse-button-hide =
