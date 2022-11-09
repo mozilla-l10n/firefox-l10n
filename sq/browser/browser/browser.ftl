@@ -122,6 +122,7 @@ urlbar-tabtosearch-onboard = Përzgjidhni këtë shkurtore, që të gjeni më sh
 urlbar-search-mode-bookmarks = Faqerojtës
 urlbar-search-mode-tabs = Skeda
 urlbar-search-mode-history = Historik
+urlbar-search-mode-actions = Veprime
 
 ##
 
@@ -164,6 +165,12 @@ page-action-manage-extension =
     .label = Administroni Zgjerime…
 page-action-remove-extension =
     .label = Hiqe Zgjerimin
+page-action-manage-extension2 =
+    .label = Administroni Zgjerime…
+    .accesskey = A
+page-action-remove-extension2 =
+    .label = Hiqe Zgjerimin
+    .accesskey = H
 
 ## Auto-hide Context Menu
 
@@ -222,18 +229,47 @@ search-one-offs-tabs =
     .tooltiptext = Skeda ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historik ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Veprime ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Shihini Shtesa
+quickactions-cmd-addons2 = shtesa
 # Opens the bookmarks library window
 quickactions-bookmarks = Shihni Faqerojtës
 quickactions-cmd-bookmarks = faqerojtës
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Spastro Historikun
+quickactions-cmd-clearhistory = spastroni historikun
+quickactions-cmd-downloads = shkarkime
+# Opens about:addons page in the extensions section
+quickactions-extensions = Administroni zgjerime
+quickactions-cmd-extensions = zgjerime
+# Opens the devtools web inspector
+quickactions-inspector = Hap Mbikëqyrës
+quickactions-cmd-inspector = mbikëqyrës, mjete zhvilluesish
+# Opens about:logins
+quickactions-logins = Shihni Hyrjet
+quickactions-cmd-logins = kredenciale hyrjesh, fjalëkalime
+# Opens about:addons page in the plugins section
+quickactions-plugins = Administroni shtojca
+quickactions-cmd-plugins = shtojca
+# Opens the print dialog
+quickactions-print = Shtype
+quickactions-cmd-print = shtype
+# Opens a new private browsing window
+quickactions-private = Hap Dritare Shfletimi Privat
+quickactions-cmd-private = shfletim privat
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Rifreskoni { -brand-short-name }-in
+quickactions-cmd-refresh = rifreskoje
+# Restarts the browser
+quickactions-restart = Riniseni { -brand-short-name }-in
+quickactions-cmd-restart = rinise
 
 ## Bookmark Panel
 
