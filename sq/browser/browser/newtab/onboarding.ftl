@@ -268,9 +268,24 @@ mr2022-onboarding-secondary-skip-button-label = Anashkalojeni këtë hap
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Zbuloni një internet mahnitës
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Niseni { -brand-short-name }-in prej ngado, me një klikim të vetëm. Sa herë që e bëni, zgjidhni një web më të hapët dhe më të pavarur.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Mbaje { -brand-short-name }-in në Panel
+       *[other] Fiksoje { -brand-short-name } te paneli
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Fillojani me një shfletues që ka nga pas një ent jofitimprurësS. Mbrojmë privatësinë tuaj, teksa ju bridhni nëpër web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Faleminderit për dashurinë ndaj { -brand-product-name }-it
 
 ## MR2022 New User Set Default screen strings
 
@@ -279,15 +294,30 @@ mr2022-onboarding-welcome-pin-header = Zbuloni një internet mahnitës
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Ujdiseni brenda pak sekondash
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Ujdisje e shpejtë si rrufe
+mr2022-onboarding-import-subtitle = Ujdiseni { -brand-short-name }-in si e doni. Shtoni faqerojtësit tuaj, fjalëkalimet, etj prej shfletuesit tuaj të mëparshëm.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importoni prej shfletuesi të mëparshëm
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Zgjidhni ngjyrën që ju frymëzon
+mr2022-onboarding-colorway-subtitle = Zërat e pavarur mund të ndryshojnë kulturë.
+mr2022-onboarding-colorway-primary-button-label-continue = Ujdise dhe vazhdo
+mr2022-onboarding-existing-colorway-checkbox-label = Bëjeni { -firefox-home-brand-name }-in faqen tuaj plot ngjyra
+mr2022-onboarding-colorway-label-default = Parazgjedhje
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Ngjyra të tanishme { -brand-short-name }
+mr2022-onboarding-colorway-description-default = <b>Përdor ngjyrat e mia { -brand-short-name } të tanishme.</b>
+mr2022-onboarding-colorway-label-playmaker = Playmaker
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Playmaker (e kuqe)
 
 ## MR2022 Multistage Mobile Download screen strings
 
