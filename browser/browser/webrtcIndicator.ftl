@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Tregues Ndarjeje
 webrtc-indicator-window =
     .title = { -brand-short-name } - Tregues Ndarjeje
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Po e ndani kamerën tuaj me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
 webrtc-microphone-system-menu =
@@ -208,6 +203,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Bllokoje përherë
     .accesskey = B
+webrtc-action-not-now =
+    .label = Jo tani
+    .accesskey = J
 
 ##
 

@@ -184,6 +184,7 @@ preferences-web-appearance-header = Dukje sajti
 preferences-web-appearance-description = Disa sajte e përshtatin skemën e ngjyrave të tyre bazuar në parapëlqimet tuaja. Zgjidhni cilën skemë ngjyre do të donit të përdoret për këto sajte.
 preferences-web-appearance-choice-browser = Temë { -brand-short-name }-i
 preferences-web-appearance-choice-system = Temë sistemi
+preferences-web-appearance-choice-auto = Vetvetiu
 preferences-web-appearance-choice-light = E çelët
 preferences-web-appearance-choice-dark = E errët
 preferences-web-appearance-choice-tooltip-browser =
@@ -198,6 +199,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -354,6 +357,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Ç'duhet të bëjë { -brand-short-name }-i me kartelat e tjera?
+applications-save-for-new-types =
+    .label = Ruaji kartelat
+    .accesskey = R
+applications-ask-before-handling =
+    .label = Pyet në të hapen apo të ruhen kartelat
+    .accesskey = P
 drm-content-header = Lëndë nën Digital Rights Management (DRM)
 play-drm-content =
     .label = Luaj lëndë të kontrolluar nga DRM
@@ -483,6 +493,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Kreu i Firefox-it (Parazgjedhje)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Parazgjedhje)
 home-mode-choice-custom =
     .label = URL Vetjake…
 home-mode-choice-blank =
@@ -508,6 +520,8 @@ choose-bookmark =
 
 home-prefs-content-header = Lëndë Firefox Home
 home-prefs-content-description = Zgjidhni ç’lëndë doni në skenën tuaj Firefox.
+home-prefs-content-header2 = Lëndë { -firefox-home-brand-name }
+home-prefs-content-description2 = Zgjidhni ç’lëndë doni në skenën tuaj { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Kërkim Web
 home-prefs-shortcuts-header =
@@ -528,6 +542,8 @@ home-prefs-recommended-by-description-new = Lëndë e jashtëzakonshme, në kujd
 home-prefs-recommended-by-learn-more = Si funksionon
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Histori të Sponsorizuara
+home-prefs-recommended-by-option-recent-saves =
+    .label = Shfaq të Ruajturat Së Fundi
 home-prefs-highlights-option-visited-pages =
     .label = Faqe të Vizituara
 home-prefs-highlights-options-bookmarks =
@@ -925,7 +941,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motorë kërkimesh
     .accesskey = k
+addressbar-locbar-quickactions-option =
+    .label = Veprime të shpejta
+    .accesskey = V
 addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga motorë kërkimi
+addressbar-quickactions-learn-more = Mësoni më tepër
 
 ## Privacy Section - Content Blocking
 
@@ -1081,6 +1101,11 @@ addon-recommendations-link = Mësoni më tepër
 collection-health-report-disabled = Raportimi i të dhënave është i çaktivizuar për këtë formësim montimi
 collection-backlogged-crash-reports-with-link = Lejojeni { -brand-short-name }-in të dërgojë raporte vithisjesh të mëparshme në emrin tuaj <a data-l10n-name="crash-reports-link">Mësoni më tepër</a>
     .accesskey = c
+privacy-segmentation-section-header = Veçori të reja që thellojnë shfletimin tuaj
+privacy-segmentation-radio-off =
+    .label = Përdorni rekomandime { -brand-product-name }-i
+privacy-segmentation-radio-on =
+    .label = Shfaq të dhëna të hollësishme
 
 ## Privacy Section - Security
 ##

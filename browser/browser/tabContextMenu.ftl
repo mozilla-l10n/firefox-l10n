@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Faqeruaje Skedën
     .accesskey = q
+tab-context-bookmark-tab =
+    .label = Faqeruaje Skedën…
+    .accesskey = q
 tab-context-open-in-new-container-tab =
     .label = Hape në Skedë të Re Kontejneri
     .accesskey = a
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
