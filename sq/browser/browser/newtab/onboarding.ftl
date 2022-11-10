@@ -318,6 +318,27 @@ mr2022-onboarding-colorway-description-default = <b>Përdor ngjyrat e mia { -bra
 mr2022-onboarding-colorway-label-playmaker = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Playmaker (e kuqe)
+mr2022-onboarding-colorway-description-playmaker = <b>Jeni një mesfushor.</b> Krijoni mundësi që të fitohet dhe ndihmoni këdo përreth jush të ngrenë cilësinë e lojës.
+mr2022-onboarding-colorway-label-expressionist = Ekspresionist
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Ekspresionist (e verdhë)
+mr2022-onboarding-colorway-description-expressionist = <b>Jeni një Ekspresionis.t</b> E shihni ndryshe botën dhe krijimet tuaja trazojnë emocionet e të tjerëve.
+mr2022-onboarding-colorway-label-visionary = Largpamës
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Largpamës (e gjelbër)
+mr2022-onboarding-colorway-description-visionary = <b>Jeni një Largpamës.</b> Vini në dyshim status quo-në dhe i shtyni të tjerët të përfytyrojnë një të ardhme më të mirë.
+mr2022-onboarding-colorway-label-activist = Veprimtar
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Veprimtar (blu)
+mr2022-onboarding-colorway-description-activist = <b>Jeni një Veprimtar.</b> E lini botën një vend më të mirë se sa e gjetët dhe i shtyni të tjerët të besojnë.
+mr2022-onboarding-colorway-label-dreamer = Ëndërrimtar
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Ëndërrimtar (e purpur)
+mr2022-onboarding-colorway-description-dreamer = <b>Jeni një Ëndërrimtar.</b> Besoni se e ardhmja është në krah të guximtarëve dhe i frymëzoni të tjetër të jenë trima.
+mr2022-onboarding-colorway-label-innovator = Novator
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Novator (portokalli)
+mr2022-onboarding-colorway-description-innovator = <b>Jeni një Novator.</b> Shihni kudo mundësi dhe lini ndikim në jetët e kujtdo përreth jush.
 
 ## MR2022 Multistage Mobile Download screen strings
 
