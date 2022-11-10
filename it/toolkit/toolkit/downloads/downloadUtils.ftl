@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 download-utils-bytes = byte
+download-utils-kilobyte = kB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
 # Special case of done-scheme for file:
