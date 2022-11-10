@@ -411,11 +411,17 @@ urlbar-result-action-calculator-result = = { $result }
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = ຊອກຫາບຸກມາກ
 urlbar-result-action-search-history = ຊອກຫາປະຫວັດການໃຊ້ງານ
+urlbar-result-action-search-tabs = ຄົ້ນຫາແທັບ
 urlbar-result-action-search-actions = ຄຳສັ່ງການຄົ້ນຫາ
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
@@ -509,6 +515,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = ບຸກມາກ
+library-recent-activity-title =
+    .value = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 
 ## Pocket toolbar button
 
