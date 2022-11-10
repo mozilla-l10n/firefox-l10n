@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Veçori e Këshilluar
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pse më del kjo?
-
 cfr-doorhanger-extension-cancel-button = Jo Tani
     .accesskey = J
-
 cfr-doorhanger-extension-ok-button = Shtoje Tani
     .accesskey = S
-
 cfr-doorhanger-extension-manage-settings-button = Administroni Rregullimet Mbi Rekomandimet
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Mos Ma Shfaq Këtë Rekomandim
     .accesskey = o
-
 cfr-doorhanger-extension-learn-more-link = Mësoni më tepër
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = nga { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomandim
 cfr-doorhanger-extension-notification2 = Rekomandim
     .tooltiptext = Rekomandim zgjerimi
     .a11y-announcement = Ka gati një rekomandim zgjerimi
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomandim
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Mësoni më tepër
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Veçori e re:
-
 cfr-whatsnew-button =
     .label = Ç’ka të Re
     .tooltiptext = Ç’ka të Re
-
 cfr-whatsnew-release-notes-link-text = Lexoni shënimet mbi hedhjen në qarkullim
 
 ## Enhanced Tracking Protection Milestones
@@ -165,6 +155,10 @@ spotlight-total-cookie-protection-body = Mbrojtja Tërësore Nga Cookie-t i ndal
 spotlight-total-cookie-protection-expanded = { -brand-short-name }-i thur një gardh përreth cookie-ve, duke i kufizuar te sajti ku gjendeni, që kështu gjurmuesit s’mund t’i përdorin për t’ju ndjekur. Duke e provuar që herët, do të ndihmoni të optimizohet kjo veçori, që kështu të mund të vazhdojmë të ndërtojmë një internet më të mirë për këdo.
 spotlight-total-cookie-protection-primary-button = Aktivizo Mbrojtje Tërësore Nga Cookie-t
 spotlight-total-cookie-protection-secondary-button = Jo tani
+cfr-total-cookie-protection-header = Falë jush, { -brand-short-name }-i është më privat dhe më i sigurt se kurrë
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Mbrojtje Tërësore nga Cookie-t është mbrojtja jonë më e fuqishme ndonjëherë e privatësisë – dhe tanimë është një rregullim parazgjedhje për përdorues të { -brand-short-name }-i kudo. S’do ta kishim arritur pa pjesëmarrës të hershëm si ju në testim. Ndaj ju falënderojmë që na ndihmoni të krijojmë një internet më të mirë, më privat.
 
 ## Emotive Continuous Onboarding
 
@@ -192,7 +186,13 @@ spotlight-pin-secondary-button = Jo tani
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = { -brand-short-name } i ri. Më privat. Më pak gjurmues. Pa kompromise.
+
 ## Firefox View CFR
 
+
 ## Firefox View Spotlight
+
+
+## Colorways expiry reminder CFR
 
