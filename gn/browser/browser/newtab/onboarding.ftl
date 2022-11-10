@@ -383,3 +383,7 @@ onboarding-infrequent-import-primary-button = Emba’egueru { -brand-short-name 
 
 mr2022-onboarding-import-image-alt =
     .aria-label = Tapicha skate ári software ra’ãnga’i ryru ndive
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Peteĩ varita mágica rupi { -brand-product-name } kundahára ñemi ra’ãnga’i ojehecha akãópe
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Po morotĩ ha po hũ oñembota ojuehe
