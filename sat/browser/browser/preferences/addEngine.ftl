@@ -11,6 +11,7 @@ add-engine-window2 =
 add-engine-button = ᱱᱤᱡᱚᱨᱟᱜ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
 add-engine-name = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱧᱩᱛᱩᱢ
 add-engine-alias = ᱮᱴᱟᱜ ᱧᱩᱛᱩᱢ
+add-engine-url = ᱤᱧᱡᱤᱱ URL, ᱥᱮᱱᱫᱽᱨᱟ ᱟᱹᱲᱟᱹ ᱡᱟᱭᱜᱟ ᱨᱮ %s ᱵᱟᱵᱷᱟᱨ ᱢᱮ
 add-engine-dialog =
     .buttonlabelaccept = ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
     .buttonaccesskeyaccept = A
