@@ -115,6 +115,7 @@ policy-SSLVersionMax = Caktoni version maksimum SSL-je.
 policy-SSLVersionMin = Caktoni version minimum SSL-je.
 policy-SupportMenu = Shtoni te menuja e ndihmës një element vetjak menuje asistence.
 policy-UserMessaging = Mos i shfaq përdoruesit disa mesazhe të caktuara
+policy-UseSystemPrintDialog = Shtype duke përdorur dialogun e sistemit për shtypje.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bllokoni vizita në sajte. Për më tepër hollësi mbi këtë format, shihni dokumentimin.
 policy-Windows10SSO = Lejo hyrje njëshe Windows për llogari Microsoft, pune, apo shkolle.

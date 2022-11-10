@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Anuloje
 screenshots-overlay-instructions = Tërhiqni kursorin ose klikoni te faqja që të përzgjidhni një zonë. Shtypni ESC që të anulohet.
+screenshots-overlay-download-button = Shkarkoje
+screenshots-overlay-copy-button = Kopjoje
