@@ -42,7 +42,10 @@ firefoxview-tabpickup-sync-error-primarybutton = Eha’ãjey
 firefoxview-tabpickup-sync-disconnected-header = Emyandy ñembojuehe eku’ejey hag̃ua
 firefoxview-tabpickup-sync-disconnected-description = Eru hag̃ua tendayke, oñemoneĩva’erã ñembojuehe { -brand-short-name }-pe.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Emyandy ñembojuehe mbohekohápe
+firefoxview-tabpickup-password-locked-header = Ehai ne ñe’ẽñemi ha’etéva ehecha hag̃ua tendayke
+firefoxview-tabpickup-password-locked-description = Eguerujey hag̃ua tendayke, ehaiva’erã ñe’ẽñemi ha’etéva { -brand-short-name }-pe.
 firefoxview-tabpickup-password-locked-link = Kuaave
+firefoxview-tabpickup-password-locked-primarybutton = Ehai Ñe’ẽñemi Ha’etéva
 firefoxview-tabpickup-syncing = Eha’arõ tendayke toñembojuehe. Ndahi’aremo’ãi.
 firefoxview-mobile-promo-header = Ehecha tendayke ne pumbyry térã tabléta rupive
 firefoxview-mobile-promo-description = Ehecha hag̃ua tendayke eipuramovéva, emoñepyrũ tembiapo { -brand-product-name } iOS térã Android rupive.
@@ -52,6 +55,7 @@ firefoxview-mobile-confirmation-description = Ko’ág̃a ikatu ehecha { -brand-
 firefoxview-closed-tabs-title = Oñembotyramovéva
 firefoxview-closed-tabs-description2 = Embojurujajey kuatiarogue embotýva ko ovetãme.
 firefoxview-closed-tabs-placeholder = <strong>Ndaipóri kuatiarogue oñembotyramóva</strong><br/>Ani ekyhyje tendayke oñembotyjeývagui. Eguerukuaajey ko’ápe.
+firefoxview-closed-tabs-placeholder-header = Ndaipóri tendayke oñembotyramóva
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hendyramovéva
 # Variables:
