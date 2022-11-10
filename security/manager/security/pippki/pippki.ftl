@@ -8,22 +8,18 @@ password-quality-meter = Вымяральнік якасці пароля
 
 change-device-password-window =
     .title = Змяніць пароль
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Прылада бяспекі: { $tokenName }
 change-password-old = Цяперашні пароль:
 change-password-new = Новы пароль:
 change-password-reenter = Новы пароль (ізноў):
-
 pippki-failed-pw-change = Не ўдалося змяніць пароль.
 pippki-incorrect-pw = Вы няправільна ўвялі галоўны пароль. Паспрабуйце, калі ласка, ізноў.
 pippki-pw-change-ok = Пароль паспяхова зменены.
-
 pippki-pw-empty-warning = Вашы захаваныя паролі і прыватныя ключы не будуць абаронены.
 pippki-pw-erased-ok = Вы выдалілі свой пароль. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Увага! Вы вырашылі не выкарыстоўваць пароль. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца непусты пароль.
 
 ## Reset Primary Password dialog
@@ -31,14 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Зараз вы ў рэжыме FIPS. Дл
 reset-primary-password-window =
     .title = Скінуць галоўны пароль
     .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Скінуць галоўны пароль
     .style = min-width: 40em
 reset-password-button-label =
     .label = Скінуць
 reset-primary-password-text = Калі вы скінеце свой галоўны пароль, згубяцца ўсе захаваныя паролі для сайтаў і электроннай пошты, асабістыя сертыфікаты і прыватныя ключы. Ці сапраўды хочаце скінуць свой галоўны пароль?
-
 pippki-reset-password-confirmation-title = Скінуць галоўны пароль
 pippki-reset-password-confirmation-message = Ваш галоўны пароль скінуты.
 
@@ -47,7 +41,6 @@ pippki-reset-password-confirmation-message = Ваш галоўны пароль 
 download-cert-window =
     .title = Сцягванне сертыфіката
     .style = width: 46em
-
 download-cert-window2 =
     .title = Сцягванне сертыфіката
     .style = min-width: 46em
@@ -84,5 +77,5 @@ set-password-reminder = Увага: Калі вы забудзеце ваш па
 
 protected-auth-window =
     .title = Аўтарызацыя з абароненай лексемай
-protected-auth-msg = Аўтарызуйцеся, калі ласка, да лексемы. Метад аўтарызацыі залежыць ад тыпу вашай сістэмы.
+protected-auth-msg = Выканайце аўтэнтыфікацыю з выкарыстаннем токена. Метад аўтэнтыфікацыі залежыць ад тыпу вашага токена.
 protected-auth-token = Лексема:
