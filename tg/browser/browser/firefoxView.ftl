@@ -72,6 +72,7 @@ firefoxview-change-colorway-button = Иваз кардани нақшу ниго
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>То ҳол ягон чиз нест</strong><br/>Дар оянда, вақте ки шумо саҳифаеро дар «{ -brand-product-name }» тавассути дастгоҳи дигар мекушоед, он саҳифа дар ин ҷо ҷодугарона пайдо мешавад.
 firefoxview-synced-tabs-placeholder-header = То ҳол барои дадан ягон чиз нест
+firefoxview-synced-tabs-placeholder-body = Вақте ки шумо бори дигар саҳифаеро дар «{ -brand-product-name }» аз дастгоҳи дигар мекушоед, онро дар ин ҷо соҳирона ба даст оред.
 firefoxview-collapse-button-show =
     .title = Намоиш додани рӯйхат
 firefoxview-collapse-button-hide =

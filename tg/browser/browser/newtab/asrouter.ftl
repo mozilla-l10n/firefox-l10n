@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Хусусияти тавсияшуда
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаро ман инро дида истодаам?
-
 cfr-doorhanger-extension-cancel-button = Ҳоло не
     .accesskey = н
-
 cfr-doorhanger-extension-ok-button = Ҳозир илова карда шавад
     .accesskey = Ҳ
-
 cfr-doorhanger-extension-manage-settings-button = Идоракунии танзимоти тавсияшуда
     .accesskey = И
-
 cfr-doorhanger-extension-never-show-recommendation = Ин тавсия дигар нишон дода нашавад
     .accesskey = И
-
 cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = аз { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Тавсия
 cfr-doorhanger-extension-notification2 = Тавсия
     .tooltiptext = Тавсияи васеъшавӣ
     .a11y-announcement = Тавсияи васеъшавӣ дастрас аст
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Тавсия
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Маълумоти бештар
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Хусусияти нав:
-
 cfr-whatsnew-button =
     .label = Чӣ нав аст
     .tooltiptext = Чӣ нав аст
-
 cfr-whatsnew-release-notes-link-text = Қайдҳои бароришро хонед
 
 ## Enhanced Tracking Protection Milestones
@@ -165,7 +155,6 @@ spotlight-total-cookie-protection-body = «Муҳофизати пурра аз 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } дар атрофи кукиҳо девор месозад ва кукиҳоро бо сомонае, ки шумо дар он ҳастед, маҳдуд мекунад, то васоити пайгирӣ натавонанд онҳоро барои пайгирӣ кардани шумо истифода баранд. Бо дастрасии барвақт, шумо ба раванди беҳтаркунии ин хусусият кумак хоҳед кард, то мо тавонем сохтани Интернети беҳтарро барои ҳамаи корбарон идома диҳем.
 spotlight-total-cookie-protection-primary-button = Фаъол кардани «Муҳофизати пурра аз кукиҳо»
 spotlight-total-cookie-protection-secondary-button = Ҳоло не
-
 cfr-total-cookie-protection-header = Ба шарофати шумо, акнун { -brand-short-name } бештар хусусӣ ва бехатар аст.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -199,13 +188,11 @@ spotlight-pin-secondary-button = Ҳоло не
 
 mr2022-background-update-toast-title = «{ -brand-short-name }»-и нав. Маъфияти иловагӣ. Камтар васоити пайгирӣ. Бе хатарҳо.
 mr2022-background-update-toast-text = «{ -brand-short-name }»-и навтаринро ҳоли ҳозир озмоед ва аз муҳофизати боқувваттарини бар зидди пайгирӣ истифода баред.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = «{ -brand-shorter-name }»-ро ҳозир боз кунед
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -224,8 +211,12 @@ firefoxview-cfr-body = Илова бар ин, байни дастгоҳҳои �
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ба «{ -firefoxview-brand-name }» салом гӯед
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Шумо мехоҳед, ки варақаҳоро дар телефони худ кушоед? Онҳоро ба даст оред. Он сомонае, ки шумо як лаҳза пеш боздид кардед, лозим аст? Бемалол, онро тавассути «{ -firefoxview-brand-name }» барқарор кунед.
 firefoxview-spotlight-promo-primarybutton = Бинед, ки он чӣ тавр кор мекунад
 firefoxview-spotlight-promo-secondarybutton = Нодида гузарондан
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Нақшу нигореро интихоб намоед
+    .accesskey = Н
