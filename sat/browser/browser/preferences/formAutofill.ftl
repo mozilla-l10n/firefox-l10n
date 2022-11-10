@@ -29,6 +29,8 @@ autofill-address-street = ᱥᱚᱰᱚᱠ ᱴᱷᱤᱠᱬᱟᱹ
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = ᱥᱩᱨᱥᱩᱨᱦᱚᱲ
 
 ## address-level-2 names
 

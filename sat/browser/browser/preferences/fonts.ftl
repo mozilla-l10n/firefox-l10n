@@ -73,6 +73,8 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = ᱚᱯᱚᱨ ᱥᱚᱢᱟᱱ ᱥᱚᱢᱟᱱ
+    .accesskey = P
 fonts-default-serif =
     .label = ᱥᱮᱨᱤᱯᱷ
 fonts-default-sans-serif =
@@ -87,8 +89,13 @@ fonts-monospace = ᱢᱚᱱᱚᱥᱯᱮᱥ
     .accesskey = M
 fonts-monospace-size = ᱢᱟᱯ
     .accesskey = e
+fonts-minsize = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱦᱩᱰᱤᱧ ᱪᱤᱠᱤ ᱢᱟᱯ
+    .accesskey = o
 fonts-minsize-none =
     .label = ᱡᱟᱦᱱᱟᱜ ᱵᱟᱝ
+fonts-allow-own =
+    .label = ᱟᱢᱟᱜ ᱪᱮᱛᱟᱱ ᱵᱟᱪᱷᱟ ᱟᱲᱟᱜ ᱠᱟᱛᱮ ᱥᱟᱦᱴᱟ ᱠᱚ ᱟᱠᱚᱣᱟᱜ ᱯᱷᱚᱱᱴ ᱵᱟᱪᱷᱟᱣ ᱪᱷᱚ ᱠᱚᱢ
+    .accesskey = A
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
