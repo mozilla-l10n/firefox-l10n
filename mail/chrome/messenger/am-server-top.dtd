@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Сховішча лістоў">
 <!ENTITY securitySettings.label "Наладжванні бяспекі">
 <!ENTITY serverSettings.label "Наладжванні паслугача">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "П">
 <!ENTITY serverPortDefault.label "Змоўчны:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,13 +58,13 @@
 <!ENTITY loginAtStartup.accesskey "у">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Пытацца мяне перад загрузкай больш чым">
 <!ENTITY maxMessagesStart.accesskey "а">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "лістоў">
-<!ENTITY alwaysAuthenticate.label "Заўсёды патрабаваць апазнаванне ў час злучэння з гэтым паслугачом">
+<!ENTITY alwaysAuthenticate.label "Заўсёды праводзіць аўтэнтыфікацыю пры злучэнні з гэтым серверам">
 <!ENTITY alwaysAuthenticate.accesskey "ў">
 <!ENTITY abbreviate.label "Паказваць назвы навінакупаў у шыбе паштовай папкі як:">
 <!ENTITY abbreviateOn.label "Цэлыя назвы (Напрыклад, 'netscape.public.mozilla.mail-news')">
