@@ -342,20 +342,49 @@ mr2022-onboarding-colorway-description-innovator = <b>Jeni një Novator.</b> Shi
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Kërceni nga portativi te telefoni, ose anasjelltas
+mr2022-onboarding-mobile-download-subtitle = Merrni skedat nga një pajisje dhe rifilloni atje ku e latë, në një tjetër. Plus njëkohësoni faqerojtësit dhe fjalëkalimet tuaja kudo ku përdorni { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Skanoni kodin QR që të merrni { -brand-product-name } për celular, ose <a data-l10n-name="download-label">dërgojini vetes një lidhje shkarkimi.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Skanoni kodin QR që të merrni { -brand-product-name } për celular.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Fitoni liri shfletimi privat me një klikim
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Pa ruajtje cookie-sh apo historiku, drejt e nga desktopi juaj. Shfletoni si të mos mbikëqyrë njeri.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Mbaje shfletimin privat me { -brand-short-name } në Dock
+       *[other] Fiksoje shfletimin privat { -brand-short-name } te paneli
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Respektojmë përherë privatësinë tuaj
+mr2022-onboarding-privacy-segmentation-button-primary-label = Përdorni rekomandim { -brand-product-name }-i
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Shfaq të dhëna të hollësishme
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Po na ndihmoni të ndërtojmë një internet më të mirë
+mr2022-onboarding-gratitude-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka nga pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur, të përdorshëm dhe më të mirë për këdo.
+mr2022-onboarding-gratitude-primary-button-label = Shihni ç’ka të re
+mr2022-onboarding-gratitude-secondary-button-label = Nisni shfletimin
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Si në shtëpinë tuaj
+onboarding-infrequent-import-subtitle = Qoftë nëse po zini vend, apo thjesht u ndalët pak, mos harroni se mund të importoni faqerojtësit tuaj, fjalëkalimet, etj.
+onboarding-infrequent-import-primary-button = Importoji te { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Person që po punon në portativ, i rrethuar nga yje dhe lule
+mr2022-onboarding-default-image-alt =
+    .aria-label = Person që përqafon stemën e { -brand-product-name }-it
+mr2022-onboarding-import-image-alt =
+    .aria-label = Person majë një skateboard-i me një kuti me ikona software-i
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Bretkosa që hidhen në fletë zambaku me një kod QR për të shkarkuar { -brand-product-name }-in për celular në qendër
