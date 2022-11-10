@@ -220,3 +220,5 @@ firefoxview-spotlight-promo-secondarybutton = Нодида гузарондан
 
 colorways-cfr-primarybutton = Нақшу нигореро интихоб намоед
     .accesskey = Н
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Браузери худро бо ин сояҳои истисноии «{ -brand-short-name }» ранг кунед, аз садоҳое, ки фарҳанги тамошокуниро дигаргун карданд, илҳом гирифтанд.
