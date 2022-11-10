@@ -187,12 +187,42 @@ spotlight-pin-secondary-button = Jo tani
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = { -brand-short-name } i ri. Më privat. Më pak gjurmues. Pa kompromise.
+mr2022-background-update-toast-text = Provojeni { -brand-short-name }-in më të ri që tani, të përditësuar me mbrojtjen tonë më të fuqishme se ndonjëherë kundër gjurmimit.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Hapeni { -brand-shorter-name }-in Që Tani
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Kujtoma Më Vonë
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Provojeni
+    .accesskey = P
+firefoxview-cfr-secondarybutton = Jo tani
+    .accesskey = J
+firefoxview-cfr-header = Rimerrni skeda të mbyllura së fundi, me { -firefoxview-brand-name }
+firefoxview-cfr-body = Plus kaloni si pa u kuptuar nga një pajisje në tjetrën, si dhe shtojini shfletuesit tuaj një stërkalë ngjyrimi.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = I thoni tungjatjeta { -firefoxview-brand-name }-it
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = E doni atë skedë të hapur në telefonin tuaj? Përlajeni. Ju duhet ai sajt që sapo vizituat? Paf, ja ku erdhi me { -firefoxview-brand-name }-in.
+firefoxview-spotlight-promo-primarybutton = Shihni se si funksionon
+firefoxview-spotlight-promo-secondarybutton = Anashkaloje
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Zgjidhnii ngjyrim
+    .accesskey = Z
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Ngjyroseni shfletuesin tuaj me nuancat ekskluzive të { -brand-short-name }-it të frymëzuara nga zëra që ndryshuan kulturë.
+colorways-cfr-header-28days = Ngjyrimi “Zëra të Pavarur”  skadon më 16 janar
+colorways-cfr-header-14days = Ngjyrimi “Zëra të Pavarur”  skadon pas dy javësh
+colorways-cfr-header-7days = Ngjyrimi “Zëra të Pavarur”  skadon pas këtë javë
+colorways-cfr-header-today = Ngjyrimi “Zëra të Pavarur”  skadon sot
