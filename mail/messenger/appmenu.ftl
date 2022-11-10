@@ -175,3 +175,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = { -brand-short-name } hakkında
     .accesskey = a
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = { -brand-shorter-name } güncellemesi indiriliyor
+appmenuitem-banner-update-available =
+    .label = Güncelleme var: Şimdi indir
+appmenuitem-banner-update-manual =
+    .label = Güncelleme var: Şimdi indir
+appmenuitem-banner-update-unsupported =
+    .label = Güncelleme yapılamadı: Sistem uyumsuz
+appmenuitem-banner-update-restart =
+    .label = Güncelleme var: Yeniden başlat
