@@ -205,3 +205,8 @@ firefoxview-cfr-header = { -firefoxview-brand-name } ᱥᱟᱶᱛᱮ ᱱᱮᱱ�
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name } ᱡᱚᱦᱟᱨᱟᱭ ᱢᱮ
 firefoxview-spotlight-promo-primarybutton = ᱧᱮᱞ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱠᱟᱹᱢᱤᱭᱟ
 firefoxview-spotlight-promo-secondarybutton = ᱟᱲᱟᱜ
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .accesskey = C
