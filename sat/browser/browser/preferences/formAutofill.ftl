@@ -31,6 +31,8 @@ autofill-address-street = ᱥᱚᱰᱚᱠ ᱴᱷᱤᱠᱬᱟᱹ
 
 # Used in IR, MX
 autofill-address-neighborhood = ᱥᱩᱨᱥᱩᱨᱦᱚᱲ
+# Used in MY
+autofill-address-village-township = ᱟᱹᱛᱩ ᱟᱨᱵᱟᱝ ᱴᱚᱞᱟ
 
 ## address-level-2 names
 
@@ -40,10 +42,13 @@ autofill-address-district = ᱡᱤᱞᱟ
 
 ## address-level-1 names
 
+autofill-address-province = ᱯᱚᱱᱚᱛ
 autofill-address-state = ᱯᱚᱱᱚᱛ
 autofill-address-county = ᱫᱤᱥᱚᱢ
 # Used in HK
 autofill-address-area = ᱡᱟᱭᱜᱟ
+# Used in KR
+autofill-address-do-si = Do/Si
 
 ## Postal code name types
 
