@@ -48,3 +48,32 @@ firefoxview-tabpickup-password-locked-link = Mësoni më tepër
 firefoxview-tabpickup-password-locked-primarybutton = Jepni Fjalëkalim Parësor
 firefoxview-tabpickup-syncing = Mëshojini vendit teksa njëkohësohen skedat tuaja. Bëhet fjalë vetëm për një çast.
 firefoxview-mobile-promo-header = Merrni skeda nga telefoni apo tableti juaj
+firefoxview-mobile-promo-description = Që të shihni skedat tuaja më të reja nga celulari, bëni hyrjen në llogarinë tuaj { -brand-product-name } në iOS ose Android.
+firefoxview-mobile-promo-primarybutton = Merrni { -brand-product-name } për celular
+firefoxview-mobile-confirmation-header = 🎉 Gati për më tej!
+firefoxview-mobile-confirmation-description = Tani mund të merrni skedat tuaja { -brand-product-name } që nga tableti apo telefoni juaj.
+firefoxview-closed-tabs-title = Mbyllur së fundi
+firefoxview-closed-tabs-description2 = Rihapni faqe që keni mbyllur në këtë dritare.
+firefoxview-closed-tabs-placeholder = <strong>Pa faqe të mbyllura së fundi</strong><br/>Mos kini kurrë më frikë se humbni një skedë të mbyllur. Mundeni përherë ta rimerrni nga këtu.
+firefoxview-closed-tabs-placeholder-header = Pa skeda të mbyllura së fundi
+firefoxview-closed-tabs-placeholder-body = Kur mbyllni një skedë në këtë dritare, mund ta merrni nga këtu.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = E fundit aktive
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Hapeni { $targetURI } në një skedë të re
+firefoxview-try-colorways-button = Provoni ngjyrime
+firefoxview-no-current-colorway-collection = Po vijnë ngjyrime të reja
+firefoxview-change-colorway-button = Ndryshoni ngjyrim
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Ende pa gjë për të parë</strong><br/>Herës tjetër që hapni një faqe në { -brand-product-name } te një pajisje tjetër, merreni dhe këtu, si me magji.
+firefoxview-synced-tabs-placeholder-header = Ende pa gjë për të parë
+firefoxview-synced-tabs-placeholder-body = Herës tjetër që hapni një faqe në { -brand-product-name } te një pajisje tjetër, merreni dhe këtu, si me magji.
+firefoxview-collapse-button-show =
+    .title = Shfaq listën
+firefoxview-collapse-button-hide =
+    .title = Fshihe listën
