@@ -7,6 +7,8 @@ about-logging-title = Acerca del registro
 about-logging-current-log-file = Archivo de registro actual:
 about-logging-current-log-modules = Módulos de registro actuales:
 about-logging-log-tutorial = Vea <a data-l10n-name="logging">HTTP Logging</a> para más instrucciones sobre como usar esta herramienta.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Abrir el directorio
 about-logging-set-log-file = Establecer archivo de registro
 about-logging-set-log-modules = Establecer módulos de registro
 about-logging-start-logging = Iniciar registro
