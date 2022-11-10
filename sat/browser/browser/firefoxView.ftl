@@ -38,6 +38,7 @@ firefoxview-tabpickup-sync-error-header = ᱟᱹᱭᱩᱨᱢᱤᱫ ᱡᱷᱚᱜ 
 firefoxview-tabpickup-sync-error-primarybutton = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
 firefoxview-tabpickup-sync-disconnected-header = ᱞᱮᱛᱟᱲ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱭᱩᱨᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 firefoxview-tabpickup-sync-disconnected-primarybutton = ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱟᱹᱭᱩᱨᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+firefoxview-tabpickup-password-locked-header = ᱴᱮᱵᱽ ᱨᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ ᱢᱮ
 firefoxview-tabpickup-password-locked-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 firefoxview-tabpickup-password-locked-primarybutton = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱫᱮᱨ ᱢᱮ
 firefoxview-mobile-promo-header = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱵᱟᱝᱠᱷᱟᱱ ᱴᱮᱵᱽᱞᱮᱴ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱦᱚᱛᱟᱣ ᱢᱮ
