@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = U kunt nu uw { -brand-product-name
 firefoxview-closed-tabs-title = Onlangs gesloten
 firefoxview-closed-tabs-description2 = Open pagina’s die u in dit venster hebt gesloten opnieuw.
 firefoxview-closed-tabs-placeholder = <strong>Geen onlangs gesloten pagina’s</strong><br/>Wees nooit meer bang een gesloten tabblad te verliezen. U kunt dit hier altijd ophalen.
+firefoxview-closed-tabs-placeholder-header = Geen onlangs gesloten tabbladen
+firefoxview-closed-tabs-placeholder-body = Wanneer u een tabblad in dit venster sluit, kunt u het hier ophalen.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Laatst actief
 # Variables:
@@ -69,6 +71,7 @@ firefoxview-change-colorway-button = Kleurstelling wijzigen
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Nog niets te zien</strong><br/>De volgende keer dat u op een ander apparaat een pagina opent in { -brand-product-name }, kunt u deze hier als bij toverslag ophalen.
+firefoxview-synced-tabs-placeholder-header = Nog niets te zien
 firefoxview-collapse-button-show =
     .title = Lijst tonen
 firefoxview-collapse-button-hide =
