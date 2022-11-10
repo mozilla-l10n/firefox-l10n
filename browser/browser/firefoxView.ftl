@@ -55,6 +55,7 @@ firefoxview-mobile-confirmation-description = Artık { -brand-product-name } sek
 firefoxview-closed-tabs-title = Son kapatılanlar
 firefoxview-closed-tabs-description2 = Kapattığınız sayfaları bu pencereden geri açabilirsiniz.
 firefoxview-closed-tabs-placeholder = <strong>Yakın zamanda kapatılan sayfa yok</strong><br/>Kapattığınız sekmeleri kaybetmekten korkmayın. Kapattığınız sekmeleri istediğiniz zaman buradan tekrar açabilirsiniz.
+firefoxview-closed-tabs-placeholder-header = Yakın zamanda kapatılmış sekme yok
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Son bakılan
 # Variables:
@@ -69,6 +70,7 @@ firefoxview-change-colorway-button = Renk kuşağını değiştir
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Henüz burada bir şey yok</strong><br/>Başka bir cihazdaki { -brand-product-name } tarayıcınızda bir sayfa açtığınızda burada görünecek.
+firefoxview-synced-tabs-placeholder-header = Henüz görülecek bir şey yok
 firefoxview-collapse-button-show =
     .title = Listeyi göster
 firefoxview-collapse-button-hide =
