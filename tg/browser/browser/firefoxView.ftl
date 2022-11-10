@@ -56,6 +56,7 @@ firefoxview-closed-tabs-title = Пӯшидашудаи охирин
 firefoxview-closed-tabs-description2 = Аз нав кушодани ҳамаи варақаҳое, ки шумо дар ин равзана маҳкам кардед.
 firefoxview-closed-tabs-placeholder = <strong>Ягон саҳифаи ба наздикӣ пӯшидашуда нест</strong><br/>Хавотир нашавед, ки шумо варақаи пӯшидашударро боз гум мекунед. Шумо ҳамеша метавонед онро дар ин ҷо барқарор кунед.
 firefoxview-closed-tabs-placeholder-header = Ягон варақаи ба наздикӣ пӯшидашуда нест
+firefoxview-closed-tabs-placeholder-body = Вақте ки шумо варақаеро дар ин равзана мепӯшед, шумо метавонед онро аз ин ҷо барқарор кунед.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Фаъолонаи охирин
 # Variables:
@@ -70,6 +71,7 @@ firefoxview-change-colorway-button = Иваз кардани нақшу ниго
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>То ҳол ягон чиз нест</strong><br/>Дар оянда, вақте ки шумо саҳифаеро дар «{ -brand-product-name }» тавассути дастгоҳи дигар мекушоед, он саҳифа дар ин ҷо ҷодугарона пайдо мешавад.
+firefoxview-synced-tabs-placeholder-header = То ҳол барои дадан ягон чиз нест
 firefoxview-collapse-button-show =
     .title = Намоиш додани рӯйхат
 firefoxview-collapse-button-hide =
