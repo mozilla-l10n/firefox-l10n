@@ -224,3 +224,9 @@ firefoxview-spotlight-promo-secondarybutton = Прапусціць
 
 colorways-cfr-primarybutton = Выберыце расфарбоўку
     .accesskey = В
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Расфарбуйце свой браўзер эксклюзіўнымі адценнямі { -brand-short-name }, натхнёнымі галасамі, якія змянілі культуру.
+colorways-cfr-header-28days = Расфарбоўкі незалежных галасоў даступныя да 16 студзеня
+colorways-cfr-header-14days = Расфарбоўкі незалежных галасоў даступныя яшчэ два тыдні
+colorways-cfr-header-7days = Расфарбоўкі незалежных галасоў даступныя да канца тыдня
+colorways-cfr-header-today = Расфарбоўкі незалежных галасоў даступныя да канца дня
