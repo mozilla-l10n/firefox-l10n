@@ -224,3 +224,6 @@ colorways-cfr-primarybutton = Välj colorway
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Färglägg din webbläsare med { -brand-short-name } exklusiva nyanser inspirerade av röster som förändrade kulturen.
 colorways-cfr-header-28days = Independent Voices colorways upphör den 16 januari
+colorways-cfr-header-14days = Independent Voices colorways upphör om två veckor
+colorways-cfr-header-7days = Independent Voices colorways upphör den här veckan
+colorways-cfr-header-today = Independent Voices colorways upphör idag
