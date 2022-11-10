@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = Sekarang Anda dapat mengambil tab 
 firefoxview-closed-tabs-title = Baru saja ditutup
 firefoxview-closed-tabs-description2 = Buka kembali laman yang Anda tutup pada jendela ini.
 firefoxview-closed-tabs-placeholder = <strong>Tidak ada laman yang tutup baru-baru ini</strong><br/>Jangan takut kehilangan tab yang tertutup lagi. Anda selalu bisa mengambilnya di sini.
+firefoxview-closed-tabs-placeholder-header = Tidak ada tab yang baru saja ditutup
+firefoxview-closed-tabs-placeholder-body = Ketika Anda menutup tab di jendela ini, Anda dapat mengambilnya dari sini.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Terakhir aktif
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = Ubah ragam warna
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Belum ada yang bisa dilihat</strong><br/>Lain kali Anda membuka halaman di { -brand-product-name } di perangkat lain, ambil di sini seperti sulap.
+firefoxview-synced-tabs-placeholder-header = Belum ada yang bisa dilihat
+firefoxview-synced-tabs-placeholder-body = Lain kali jika Anda membuka laman di { -brand-product-name } pada perangkat lain, ambil di sini seperti sulap.
 firefoxview-collapse-button-show =
     .title = Tampilkan daftar
 firefoxview-collapse-button-hide =
