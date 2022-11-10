@@ -213,3 +213,8 @@ firefoxview-cfr-body = Avei, ehasa apañuãi’ỹre mba’e’okágui ambuépe 
 firefoxview-spotlight-promo-title = Emomaitei { -firefoxview-brand-name }-pe
 firefoxview-spotlight-promo-primarybutton = Ehecha mba’éichapa omba’apo
 firefoxview-spotlight-promo-secondarybutton = Jepo
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Eiporaro sa’y ojueheguáva
+    .accesskey = C
