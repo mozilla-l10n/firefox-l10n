@@ -227,6 +227,7 @@ mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ᱫ�
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = ᱢᱤᱫᱴᱟᱹᱝ ᱴᱤᱡ ᱨᱮ ᱥᱮᱛ ᱢᱮ
 
 ## MR2022 Import Settings screen strings
 
@@ -242,41 +243,27 @@ mr2022-onboarding-colorway-subtitle = ᱥᱟᱫᱷᱤᱱ ᱨᱚᱲ ᱫᱚ ᱟᱹ
 mr2022-onboarding-colorway-primary-button-label-continue = ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱞᱟᱦᱟᱜ ᱢᱮ
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ᱫᱚ ᱟᱢᱟᱜ ᱨᱚᱝᱜᱤᱱ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 mr2022-onboarding-colorway-label-default = ᱢᱩᱞ
-mr2022-onboarding-colorway-tooltip-default =
-    .title = ᱢᱩᱞ
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = ᱱᱤᱛᱚᱜᱟᱜ { -brand-short-name } ᱨᱚᱝᱠᱚ
 mr2022-onboarding-colorway-description-default = <b> ᱱᱤᱛᱚᱜᱟᱜ { -brand-short-name } ᱨᱚᱝᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾</b>
 mr2022-onboarding-colorway-label-playmaker = ᱯᱞᱮᱢᱮᱠᱚᱨ
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = ᱯᱞᱮᱢᱮᱠᱚᱨ
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = ᱯᱞᱮᱢᱮᱠᱚᱨ (ᱟᱨᱟᱜ)
 mr2022-onboarding-colorway-description-playmaker = <b>ᱟᱢ ᱫᱚ ᱪᱟᱹᱞᱩᱭᱟ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱛᱟᱹᱣ ᱫᱟᱣ ᱮᱢ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱠᱷᱮᱞ ᱨᱮᱭᱟᱜ ᱩᱱᱚᱛ ᱟᱢ ᱥᱩᱨ ᱨᱤᱱ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱜᱚᱲᱚ ᱮᱢ ᱟᱭ  ᱾
 mr2022-onboarding-colorway-label-expressionist = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ (ᱥᱟᱥᱟᱝ)
 mr2022-onboarding-colorway-description-expressionist = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱪᱤᱛᱟᱹᱨᱤᱭᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱮᱜᱮ ᱮᱴᱟᱜ ᱞᱮᱠᱷᱟᱢ ᱧᱮᱞ ᱮᱫᱟ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱵᱷᱟᱵᱱᱟ ᱜᱷᱟᱱᱴᱟᱭᱟᱭ ᱾
 mr2022-onboarding-colorway-label-visionary = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ (ᱦᱟᱹᱨᱤᱭᱟᱹᱲ)
 mr2022-onboarding-colorway-label-activist = ᱠᱟᱹᱢᱤᱭᱟᱹ
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = ᱠᱟᱹᱢᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = ᱠᱟᱹᱢᱤᱭᱟᱹ (ᱞᱤᱞ)
 mr2022-onboarding-colorway-label-dreamer = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ (ᱵᱮᱝᱜᱩᱱᱤ)
 mr2022-onboarding-colorway-label-innovator = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ (ᱥᱟᱱᱛᱨᱟ)
 
