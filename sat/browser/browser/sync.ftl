@@ -5,7 +5,7 @@
 fxa-toolbar-sync-syncing2 = ᱥᱤᱝᱠ ᱦᱩᱭᱩ ᱠᱟᱱᱟ...
 sync-disconnect-dialog-title2 = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜᱟᱢ ?
 sync-disconnect-dialog-button = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜ
-fxa-signout-dialog2-title = { -fxaccount-brand-name(capitalization: "sentence") } ᱠᱷᱚᱱ ᱚᱰᱚᱠᱚᱜ ᱟᱢ ᱥᱮ ?
+fxa-signout-dialog2-title = { -fxaccount-brand-name } ᱠᱷᱚᱱ ᱚᱰᱚᱠᱚᱜ ᱟᱢ ᱥᱮ ?
 fxa-signout-dialog2-button = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
 fxa-menu-sync-settings =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱥᱟᱡᱟᱣ ᱠᱚ
