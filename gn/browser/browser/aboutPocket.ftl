@@ -67,6 +67,7 @@ pocket-panel-home-new-user-message = Ehecha mba’epuru eñongatu ramovéva ápe
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Ehecha tysýi
+pocket-panel-header-my-saves = Ahecha mba’epuru ñongatupyre
 pocket-panel-header-sign-in = Eñepyrũ tembiapo
 
 ## Pocket panel buttons

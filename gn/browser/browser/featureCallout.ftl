@@ -33,5 +33,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Eñepyrũ
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Embosako’i PDFs ore moñe’ẽrã rembipuru ndive
 callout-pdfjs-edit-button = Upeigua
+callout-pdfjs-draw-title = Emboheraguapy kuatiaite ore ra’ãngaapoha rembipuru ndive
 callout-pdfjs-draw-button = ¡Aikumby!
