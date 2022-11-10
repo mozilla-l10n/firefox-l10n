@@ -315,44 +315,30 @@ mr2022-onboarding-colorway-subtitle = Ayvu okaygua omoambuekuaáva arandupy.
 mr2022-onboarding-colorway-primary-button-label-continue = Emopyenda ha eku’ejey
 mr2022-onboarding-existing-colorway-checkbox-label = Ejapo { -firefox-home-brand-name }-gui jeike isa’yetáva
 mr2022-onboarding-colorway-label-default = Ijypykue
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Ijypykue
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Sa’y ag̃agua { -brand-short-name } mba’e
 mr2022-onboarding-colorway-description-default = <b>Eipuru sa’y ag̃agua { -brand-short-name } mba’éva.</b>
 mr2022-onboarding-colorway-label-playmaker = Ñembosarái moheñoiha
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Ñembosarái moheñoiha
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Ñembosarái moheñoiha (pytã)
 mr2022-onboarding-colorway-description-playmaker = <b>Ha’e ñembosarái moheñóiha.</b> Omoheñói pa’ũ egana ha eipytyvõ hag̃ua opavave nde jereguápe ñembosarái porãve rekávo.
 mr2022-onboarding-colorway-label-expressionist = Temiandugua
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Temiandugua
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Sa’ychaukaha (sa’yju)
 mr2022-onboarding-colorway-description-expressionist = <b>Nde ha’e peteĩ expresionista.</b> Ehecha ko arapy ambueháicha ha ne moheñoimbyre omombáyta vy’aita.
 mr2022-onboarding-colorway-label-visionary = Ohecha mombyrýva
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Ohecha mombyrýva
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Techapuku (hovyũ)
 mr2022-onboarding-colorway-description-visionary = <b>Ha’e ohechapukúva.</b> Emomýi pe mba’e rekotee ha emongu’e ambuépe tenonderã porãve rekávo.
 mr2022-onboarding-colorway-label-activist = Hekoku’éva
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Hekoku’éva
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Oku’évta (hovy)
 mr2022-onboarding-colorway-description-activist = <b>Ha’e hekoku’ememe.</b> Eheja arapy iporãve ejuhuhaguégui ha kóva egueroviauka peichaha ambuekuépe.
 mr2022-onboarding-colorway-label-dreamer = Kerayvotyhára
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Kerayvotyhára
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Ikerayvotýva (pytãũ)
 mr2022-onboarding-colorway-description-dreamer = <b>Ikerayvoty heta.</b> Eroviápa po’a ouporãha ipy’aguasúvape ha nemoakãraku nde py’aguasu hag̃ua.
 mr2022-onboarding-colorway-label-innovator = Mbopyahuhára
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Mbopyahuhára
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Mbopyahuhára (narã)
 mr2022-onboarding-colorway-description-innovator = <b>Ombopyahu tapiáva.</b> Ohecha pa’ũ opaite hendápe ha heko omombarete opavave tekove ijereguápe.
@@ -391,3 +377,9 @@ mr2022-onboarding-gratitude-secondary-button-label = Eñepyrũ eikundaha
 
 onboarding-infrequent-import-title = Nderogapeguáicha
 onboarding-infrequent-import-primary-button = Emba’egueru { -brand-short-name }-pe
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-import-image-alt =
+    .aria-label = Tapicha skate ári software ra’ãnga’i ryru ndive
