@@ -38,11 +38,47 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Shfletim Privat)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Shfletim Privat)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Shfletim Privat { -brand-full-name }
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — Shfletim Privat { -brand-full-name }
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Shfletim Privat
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Shfletim Privat
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = Shfletim Privat { -brand-shortcut-name }
 
 ##
 
@@ -245,6 +281,8 @@ quickactions-cmd-bookmarks = faqerojtës
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Spastro Historikun
 quickactions-cmd-clearhistory = spastroni historikun
+# Opens about:downloads page
+quickactions-downloads = Hap Shkarkimet
 quickactions-cmd-downloads = shkarkime
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administroni zgjerime
@@ -270,6 +308,24 @@ quickactions-cmd-refresh = rifreskoje
 # Restarts the browser
 quickactions-restart = Riniseni { -brand-short-name }-in
 quickactions-cmd-restart = rinise
+# Opens the screenshot tool
+quickactions-screenshot2 = Bëni një Foto Ekrani
+quickactions-cmd-screenshot = foto ekrani
+# Opens about:preferences
+quickactions-settings = Hap Rregullimet
+quickactions-cmd-settings = rregullime, parapëlqime, mundësi
+# Opens about:addons page in the themes section
+quickactions-themes = Administroni tema
+quickactions-cmd-themes = tema
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Përditësoni { -brand-short-name }
+quickactions-cmd-update = përditësoje
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Të shihet Burimi?
+quickactions-cmd-viewsource = shihni burimin, burim
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Mësoni më tepër rreth Veprimesh të shpejta
 
 ## Bookmark Panel
 
@@ -451,6 +507,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Zhvillues Web.
+enable-devtools-popup-description2 = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Mjete Shfletuesi.
 
 ## URL Bar
 
@@ -486,6 +543,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Jepni terma kërkimi
     .aria-label = Kërko në skeda
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Jepni terma kërkimi
+    .aria-label = Veprime kërkimi
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -561,6 +622,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Kërkoni Te Faqerojtësit
 urlbar-result-action-search-history = Kërkoni te Historiku
 urlbar-result-action-search-tabs = Kërkoni Në Skeda
+urlbar-result-action-search-actions = Veprime Kërkimi
 
 ## Labels shown above groups of urlbar results
 
@@ -574,6 +636,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Sugjerime nga { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Veprime të Shpejta
 
 ## Reader View toolbar buttons
 
@@ -658,6 +723,8 @@ bookmarks-tools =
     .label = Mjete Faqeruajtjeje
 bookmarks-bookmark-edit-panel =
     .label = Përpunojeni Këtë Faqerojtës
+bookmarks-subview-edit-bookmark =
+    .label = Përpunojeni këtë faqerojtës…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -674,6 +741,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Faqeruaj Skedën e Tanishme
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Faqeruani skedën e tanishme…
 
 ## Library Panel items
 
@@ -847,6 +917,11 @@ data-reporting-notification-message = { -brand-short-name } dërgon vetvetiu dis
 data-reporting-notification-button =
     .label = Zgjidhni Ç’Të Ndahet Me Të Tjerët
     .accesskey = Z
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Shfletim privat
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Zgjerime
+    .tooltiptext = Zgjerime
