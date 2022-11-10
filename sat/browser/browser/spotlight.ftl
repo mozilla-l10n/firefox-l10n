@@ -16,3 +16,7 @@ spotlight-ios-marketplace-button =
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = { -focus-brand-name } ᱧᱟᱢ ᱢᱮ
+spotlight-focus-promo-subtitle = ᱰᱟᱩᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ
+spotlight-focus-promo-qr-code =
+    .alt = { -focus-brand-name } ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ
