@@ -56,6 +56,7 @@ firefoxview-closed-tabs-title = Нядаўна закрытыя
 firefoxview-closed-tabs-description2 = Паўторна адкрыць старонкі, якія вы закрылі ў гэтым акне.
 firefoxview-closed-tabs-placeholder = <strong>Няма нядаўна закрытых старонак</strong><br/>Больш ніколі не бойцеся згубіць закрытую картку. Вы заўсёды можаце ўзнавіць яе тут.
 firefoxview-closed-tabs-placeholder-header = Няма нядаўна закрытых картак
+firefoxview-closed-tabs-placeholder-body = Калі вы закрыеце картку ў гэтым акне, яе можна атрымаць тут.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Апошняя актыўная
 # Variables:
@@ -70,6 +71,8 @@ firefoxview-change-colorway-button = Змяніць расфарбоўку
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Пакуль няма нічога</strong><br/>Калі ў наступны раз вы адкрыеце старонку ў { -brand-product-name } на іншай прыладзе, яна з'явіцца тут.
+firefoxview-synced-tabs-placeholder-header = Пакуль тут нічога няма
+firefoxview-synced-tabs-placeholder-body = У наступны раз, калі вы адкрыеце старонку ў { -brand-product-name } на іншай прыладзе, яна з'явіцца тут.
 firefoxview-collapse-button-show =
     .title = Паказаць спіс
 firefoxview-collapse-button-hide =
