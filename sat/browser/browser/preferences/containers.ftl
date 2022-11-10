@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = ᱱᱚᱶᱟ ᱫᱚᱦᱚᱣᱟᱜ ᱥᱚᱞᱮᱫ ᱢᱮ
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings =
+    .title = { $name } ᱫᱚᱦᱚᱣᱟᱜ ᱥᱟᱡᱟᱣᱠᱚ
+    .style = width: 45em
+containers-window-new2 =
+    .title = ᱱᱚᱶᱟ ᱫᱚᱦᱚᱣᱟᱜ ᱥᱚᱞᱮᱫ ᱢᱮ
+    .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = { $name } ᱫᱚᱦᱚᱣᱟᱜ ᱥᱟᱡᱟᱣᱠᱚ
+    .style = min-width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -17,6 +33,8 @@ containers-window-close =
 containers-name-label = ᱧᱩᱛᱩᱢ
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = ᱡᱟᱸᱦᱟᱸ ᱫᱚᱦᱚᱣᱟᱜ ᱧᱩᱛᱩᱢ ᱢᱤᱫᱴᱟᱹᱝ ᱟᱫᱮᱨ ᱢᱮ
 containers-icon-label = ᱪᱤᱱᱦᱟᱹ
     .accesskey = I
     .style = { -containers-labels-style }
@@ -40,9 +58,31 @@ containers-color-pink =
     .label = ᱜᱩᱞᱟᱹᱯ
 containers-color-purple =
     .label = ᱱᱟᱥᱮ ᱵᱮᱝᱜᱩᱱ
+containers-color-toolbar =
+    .label = ᱢᱮᱲᱟᱣ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱨ
+containers-icon-fence =
+    .label = ᱡᱷᱟᱹᱱᱴᱤ
+containers-icon-fingerprint =
+    .label = ᱠᱟᱹᱴᱩᱵᱪᱷᱟᱯᱟ ᱟᱜ
+containers-icon-briefcase =
+    .label = ᱮᱴᱟᱪᱤ
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = ᱰᱚᱞᱟᱨ ᱪᱤᱱᱦᱟᱹ
+containers-icon-cart =
+    .label = ᱠᱤᱨᱤᱧ ᱵᱚᱥᱛᱟ
 containers-icon-circle =
     .label = ᱴᱩᱰᱟᱹᱜ
+containers-icon-vacation =
+    .label = ᱪᱷᱩᱴᱤ
+containers-icon-gift =
+    .label = ᱮᱱᱮᱢ
 containers-icon-food =
     .label = ᱡᱚᱢᱟᱜ
 containers-icon-fruit =
     .label = ᱡᱚ
+containers-icon-pet =
+    .label = ᱟᱹᱥᱩᱞ
+containers-icon-tree =
+    .label = ᱫᱟᱨᱮ

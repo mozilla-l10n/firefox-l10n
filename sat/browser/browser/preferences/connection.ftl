@@ -69,4 +69,21 @@ connection-proxy-autologin =
     .label = ᱯᱚᱨᱢᱟᱱ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱚᱢ ᱞᱚᱜᱚᱱᱚᱜᱼᱟ ᱡᱩᱫᱤ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱᱟ ᱾
     .accesskey = i
     .tooltip = ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱛᱷᱤᱨᱼᱛᱷᱤᱨ ᱛᱮ ᱯᱚᱨᱢᱟᱱ ᱮᱢᱟᱠᱟᱱᱟ  ᱟᱢᱟᱜ ᱮᱲᱮ ᱞᱟᱹᱜᱤᱫ ᱛᱤᱱ ᱨᱮ ᱟᱢ ᱩᱫᱠᱩ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱨᱮ ᱥᱮᱞᱮᱫᱟᱜ ᱥᱟᱧᱪᱟᱣ ᱾ ᱟᱢ ᱩᱥᱠᱟᱹᱣ ᱢᱮᱭᱟ ᱠᱚ ᱡᱩᱫᱤ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱰᱤᱜᱟᱹᱣᱜᱼᱟ ᱾
+connection-proxy-socks-remote-dns =
+    .label = SOCKS v5 ᱡᱷᱚᱜ ᱯᱨᱚᱠᱥᱤ DNS
+    .accesskey = D
+connection-dns-over-https =
+    .label = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+    .accesskey = b
+connection-dns-over-https-url-resolver = ᱯᱨᱚᱣᱟᱭᱰᱟᱹᱨᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (ᱢᱩᱞ)
+    .tooltiptext = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS ᱥᱩᱞᱡᱷᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱞ URL ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+connection-dns-over-https-url-custom =
+    .label = ᱠᱩᱥᱤᱭᱟᱜ
+    .accesskey = C
+    .tooltiptext = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS ᱥᱩᱞᱡᱷᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱥᱤᱭᱟᱜ URL ᱟᱫᱮᱨ ᱢᱮ
 connection-dns-over-https-custom-label = ᱠᱩᱥᱤᱭᱟᱜ
