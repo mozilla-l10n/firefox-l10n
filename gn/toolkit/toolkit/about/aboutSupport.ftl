@@ -313,6 +313,7 @@ can-sandbox-media = Sandboxing marandu me’ẽha mba’ejoajurã
 content-sandbox-level = Sandbox Level rembiapo retepy
 effective-content-sandbox-level = Sandbox Level rembiapo retepy
 content-win32k-lockdown-state = Win32k jejoko reko mba’eapo tetepýpe g̃uarã
+support-sandbox-gpu-level = Sandbox Level GPU raperekogua
 sandbox-proc-type-content = tetepy
 sandbox-proc-type-file = Marandurenda rechapyrã
 sandbox-proc-type-media-plugin = plugin maranduguáva
