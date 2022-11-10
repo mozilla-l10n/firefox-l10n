@@ -33,22 +33,39 @@ autofill-address-street = ᱥᱚᱰᱚᱠ ᱴᱷᱤᱠᱬᱟᱹ
 autofill-address-neighborhood = ᱥᱩᱨᱥᱩᱨᱦᱚᱲ
 # Used in MY
 autofill-address-village-township = ᱟᱹᱛᱩ ᱟᱨᱵᱟᱝ ᱴᱚᱞᱟ
+autofill-address-island = ᱟᱭᱞᱮᱱᱰ
+# Used in IE
+autofill-address-townland = ᱴᱟᱣᱱᱞᱮᱱᱰ
 
 ## address-level-2 names
 
 autofill-address-city = ᱥᱚᱦᱚᱨ
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = ᱡᱤᱞᱟ
+# Used in GB, NO, SE
+autofill-address-post-town = ᱯᱚᱥᱴ ᱴᱚᱣᱩᱱ
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = ᱥᱟᱹᱵᱟᱹᱨᱵ
 
 ## address-level-1 names
 
 autofill-address-province = ᱯᱚᱱᱚᱛ
 autofill-address-state = ᱯᱚᱱᱚᱛ
 autofill-address-county = ᱫᱤᱥᱚᱢ
+# Used in BB, JM
+autofill-address-parish = ᱯᱮᱨᱤᱥ
+# Used in JP
+autofill-address-prefecture = ᱯᱨᱤᱯᱷᱮᱠᱪᱚᱨ
 # Used in HK
 autofill-address-area = ᱡᱟᱭᱜᱟ
 # Used in KR
 autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = ᱛᱟᱞᱢᱟ
+# Used in AE
+autofill-address-emirate = ᱮᱢᱤᱨᱮᱴ
+# Used in RU and UA
+autofill-address-oblast = ᱚᱵᱞᱟᱥᱴ
 
 ## Postal code name types
 
@@ -56,6 +73,8 @@ autofill-address-do-si = Do/Si
 autofill-address-pin = ᱞᱟᱴᱷᱟ
 autofill-address-postal-code = ᱯᱚᱥᱴ ᱠᱳᱰ
 autofill-address-zip = ZIP ᱠᱳᱰ
+# Used in IE
+autofill-address-eircode = ᱤᱭᱮᱨᱠᱳᱰ
 
 ##
 
@@ -64,13 +83,26 @@ autofill-address-tel = ᱯᱷᱚᱱ
 autofill-address-email = ᱤᱢᱮᱞ
 autofill-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 autofill-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+autofill-country-warning-message = ᱯᱷᱚᱨᱢ ᱟᱡᱛᱮᱯᱮᱨᱮᱡ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱫᱤᱥᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ᱱᱟᱶᱟ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] ᱠᱨᱮᱰᱤᱪ ᱠᱟᱰ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+        [windows] { -brand-short-name } ᱫᱚ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱡᱤᱱᱤᱥ ᱫᱮᱠᱷᱟᱣ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱞᱟᱛᱟᱨ ᱯᱟᱦᱴᱟ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱟᱛᱟ ᱟᱫᱮᱨ ᱴᱷᱟᱹᱣᱠᱟᱹᱭ ᱢᱮ ᱾
+       *[other] { -brand-short-name } ᱫᱚ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱡᱤᱱᱤᱥ ᱫᱮᱠᱷᱟᱣ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ ᱾
+    }
 autofill-card-number = ᱠᱟᱰ ᱮᱞ
 autofill-card-invalid-number = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱷᱤᱠ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱟᱫᱮᱨ ᱢᱮ
 autofill-card-name-on-card = ᱠᱟᱰ ᱨᱮ ᱧᱩᱛᱩᱢ
+autofill-card-expires-month = ᱪᱟᱵᱟ ᱪᱟᱸᱫᱚ
+autofill-card-expires-year = ᱪᱟᱵᱟ ᱥᱮᱨᱢᱟᱸ
+autofill-card-billing-address = ᱵᱤᱞᱤᱝ ᱴᱷᱤᱠᱬᱟᱹ
+autofill-card-network = ᱠᱟᱰ ᱯᱨᱚᱠᱟᱨ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
