@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Si sortiu ara, es cancel·larà 1 baixada. Esteu segur que voleu sortir?
        *[other] Si sortiu ara, es cancel·laran { $downloadsCount } baixades. Esteu segur que voleu sortir?
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Si us poseu fora de línia, es cancel·larà 1 baixada. Esteu segur que voleu posar-vos fora de línia?
+       *[other] Si us poseu fora de línia, es cancel·laran { $downloadsCount } baixades. Esteu segur que voleu posar-vos fora de línia?
+    }
 download-ui-dont-go-offline-button = Roman en línia
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
