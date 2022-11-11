@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Nuvamo ubu, igikururwa 1 kirahagarikwa. Urashaka koko kuvamo?
        *[other] Nuvamo ubu, ibikururwa { $downloadsCount } birahagarikwa. Urashaka koko kuvamo?
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Nuva kuri Interineti ubu, igikururwa 1 kirahagarikwa. Urashaka koko kuvaho?
+       *[other] Nuva kuri Interineti ubu, ibikururwa { $downloadsCount } birahagarikwa. Urashaka koko kuvaho?
+    }
 download-ui-dont-go-offline-button = Kuguma kuri Interineti
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
