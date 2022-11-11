@@ -2,6 +2,30 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds =
+    { $timeValue ->
+        [one] s
+       *[other] s
+    }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] m
+       *[other] m
+    }
+# Short form for hours
+download-utils-short-hours =
+    { $timeValue ->
+        [one] h
+       *[other] h
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] d
+       *[other] d
+    }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -10,6 +34,13 @@
 #   $rate (String): rate number.
 #   $unit (String): rate unit.
 download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/sec)
+# If download speed is a JavaScript Infinity value, this phrase is used
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB (Really fast)
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (అతి వేగంగా)
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB
 # Variables:
@@ -37,6 +68,7 @@ download-utils-transfer-diff-units = మొత్తం { $total } { $totalUnits
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+download-utils-time-unknown = మిగిలి ఉన్న సమయము తెలియదు
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } వనరు
