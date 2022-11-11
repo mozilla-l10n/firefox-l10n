@@ -35,3 +35,5 @@ download-utils-transfer-no-total = { $progress } { $progressUnits }
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = risorsa { $scheme }
+# Displayed time for files finished yesterday
+download-utils-yesterday = Vei
