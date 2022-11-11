@@ -16,13 +16,22 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Nếu bạn thoát ngay lúc này, 1 phiên tải xuống sẽ bị hủy. Bạn có chắc muốn thoát ngay không?
        *[other] Nếu bạn thoát ngay lúc này, { $downloadsCount } phiên tải xuống sẽ bị hủy. Bạn có chắc muốn thoát ngay không?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Đừng Thoát
+       *[other] Đừng Thoát
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Nếu bạn ngắt kết nối ngay lúc này, 1 phiên tải xuống sẽ bị hủy. Bạn có chắc muốn ngắt kết nối không?
        *[other] Nếu bạn ngắt kết nối ngay lúc này, { $downloadsCount } phiên tải xuống sẽ bị hủy. Bạn có chắc muốn ngắt kết nối không?
     }
 download-ui-dont-go-offline-button = Vẫn Kết Nối
+download-ui-dont-leave-private-browsing-button = Vẫn ở lại chế độ duyệt web riêng tư
 
 ##
 
 download-ui-file-executable-security-warning-title = Mở Tập Tin Thực Thi?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" là một tập tin thực thi. Các tập tin thực thi có khả năng chứa virus hoặc mã độc và có thể làm tổn hại máy tính của bạn. Hãy thận trọng khi mở tập tin này. Bạn có chắc là mình muốn chạy "{ $executable }" không?
