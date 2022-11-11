@@ -213,6 +213,7 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = خطأ في التنزيل
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     لا يمكن حفظ هذا التنزيل لحدوث خطأ مجهول.
