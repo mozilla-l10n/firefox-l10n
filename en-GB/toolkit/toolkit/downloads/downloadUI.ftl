@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] If you quit now, 1 download will be cancelled. Are you sure you want to quit?
        *[other] If you quit now, { $downloadsCount } downloads will be cancelled. Are you sure you want to quit?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Don’t Quit
+       *[other] Don’t Exit
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] If you go offline now, 1 download will be cancelled. Are you sure you want to go offline?
@@ -38,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Open Executable File?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = “{ $executable }” is an executable file. Executable files may contain viruses or other malicious code that could harm your computer. Use caution when opening this file. Are you sure you want to launch “{ $executable }”?
