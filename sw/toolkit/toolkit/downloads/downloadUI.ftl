@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Ukitoka sasa, kipakuzi 1 kitakatizwa. Una uhakika unataka kutoka?
        *[other] Ukitoka sasa, vipakuzi { $downloadsCount } vitakatizwa. Una uhakika unataka kutoka?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Usiondoke
+       *[other] Usitoke
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ukienda nje ya mtandao sasa, kipakuzi 1 kitakatizwa. Una uhakika unataka kwenda nje ya mtandao?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Fungua Faili ya Kutekelezwa?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" ni faili ya kutekelezwa. Faili za kutekelezwa zaweza kuwa na virusi au msimbo hasid nyingei ambayo yaweza kudhuru kompyuta yako. Kuwa mwangalifu wakati wa kufungua faili hii. Una uhakika unataka kuzindua "{ $executable }"?
