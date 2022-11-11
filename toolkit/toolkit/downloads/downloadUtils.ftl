@@ -9,6 +9,14 @@ download-utils-short-minutes = 분
 # Short form for days
 download-utils-short-days = 일
 # — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+#   $rate (String): rate number.
+#   $unit (String): rate unit.
+download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/초)
+# — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB
 # Variables:
 #   $timeLeft (String): time left.
@@ -58,3 +66,5 @@ download-utils-done-scheme = { $scheme } 리소스
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = 로컬 파일
+# Displayed time for files finished yesterday
+download-utils-yesterday = 어제
