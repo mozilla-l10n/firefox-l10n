@@ -43,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Deschizi fișierul executabil?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = „{ $executable }” este un fișier executabil. Fișierele executabile pot conține viruși sau alte coduri rău intenționate care ar putea afecta buna funcționare a calculatorului. Fii prudent la deschiderea acestui fișier. Sigur vrei să lansezi „{ $executable }”?
