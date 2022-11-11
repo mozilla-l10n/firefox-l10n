@@ -364,6 +364,8 @@ popup-screen-sharing-block =
 
 sharing-warning-proceed-to-tab =
     .label = ໄປທີ່ແຖບຕໍ່
+sharing-warning-disable-for-session =
+    .label = ປິດການນຳໃຊ້ການປົກປ້ອງການແບ່ງປັນສຳລັບເຊດຊັນນີ້
 
 ## DevTools F12 popup
 

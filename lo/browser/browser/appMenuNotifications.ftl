@@ -5,7 +5,7 @@
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ຕົກລົງ
     .buttonaccesskey = O
-
+appmenu-addon-post-install-message3 = ຈັດການສ່ວນເສີມ ແລະຮູບແບບສີສັນຂອງທ່ານຜ່ານເມນູແອັບພລິເຄຊັນ.
 appmenu-tab-hide-controlled =
     .label = ເຂົ້າເຖິງແທັບທີ່ເຊື່ອງຢູ່ຂອງທ່ານ
     .buttonlabel = ເຊື່ອງແທັບຕໍ່ໄປ
