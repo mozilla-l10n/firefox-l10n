@@ -218,6 +218,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Atsiuntimo klaida
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Atsiuntimo nepavyko įrašyti, nes jį blokuoja „{ $extension }“.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Atsiuntimo nepavyko įrašyti, nes jį blokuoja priedas.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Siuntinio nepavyko įrašyti dėl nežinomos klaidos.
