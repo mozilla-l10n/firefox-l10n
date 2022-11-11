@@ -216,3 +216,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Nedlastingsfeil
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Nedlastinga kan ikkje lagrast fordi det oppstod ein ukjend feil.
+    
+    Prøv på nytt.
