@@ -33,6 +33,7 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
         [1] Jika anda tutup semua tetingkap Pelayaran Peribadi sekarang, 1 muat turun akan dibatalkan. Anda pasti untuk meninggalkan Pelayaran Peribadi?
        *[other] Jika anda tutup semua tetingkap Pelayaran Peribadi sekarang, { $downloadsCount } muat turun akan dibatalkan. Anda pasti untuk meninggalkan Pelayaran Peribadi?
     }
+download-ui-dont-leave-private-browsing-button = Teruskan guna Pelayaran Peribadi
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Batal 1 Muaturun
