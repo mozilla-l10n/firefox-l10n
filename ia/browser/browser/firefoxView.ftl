@@ -56,6 +56,7 @@ firefoxview-closed-tabs-title = Recentemente claudite
 firefoxview-closed-tabs-description2 = Reaperi paginas que tu ha claudite in iste fenestra.
 firefoxview-closed-tabs-placeholder = <strong>Nulle pagina recentemente claudite</strong><br/>Jammais time ancora de perder un scheda claudite. Tu pote sempre recuperar lo ci.
 firefoxview-closed-tabs-placeholder-header = Nulle schedas recentemente claudite
+firefoxview-closed-tabs-placeholder-body = Quando tu claude un scheda in iste fenestra, tu pote cercar lo de ci.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ultime active
 # Variables:
@@ -70,6 +71,8 @@ firefoxview-change-colorway-button = Cambiar combination de colores
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Nihil a vider ancora</strong><br/>Le le proxime vice que tu aperi un pagina in { -brand-product-name } sur un altere apparato, sasi lo ci magicamente.
+firefoxview-synced-tabs-placeholder-header = Nihil a vider ancora
+firefoxview-synced-tabs-placeholder-body = Le le proxime vice que tu aperi un pagina in { -brand-product-name } sur un altere apparato, sasi lo ci magicamente.
 firefoxview-collapse-button-show =
     .title = Monstrar lista
 firefoxview-collapse-button-hide =

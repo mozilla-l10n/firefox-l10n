@@ -216,3 +216,10 @@ firefoxview-spotlight-promo-title = Nos te presenta { -firefoxview-brand-name }
 firefoxview-spotlight-promo-subtitle = Vole tu transferer ille scheda aperte a tu telephono? Prende lo. Ha tu besonio de ille sito que tu ha justo ora visitate? Puf, es de retorno con { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Vider como functiona
 firefoxview-spotlight-promo-secondarybutton = Saltar
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Elige combination de colores
+    .accesskey = E
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Colora tu navigator con exclusive tonalitates de { -brand-short-name } inspirate per voces que cambiava le cultura.
