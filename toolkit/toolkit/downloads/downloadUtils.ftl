@@ -5,3 +5,8 @@
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
+# example: 111 KB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): unit.
+download-utils-transfer-no-total = { $progress } { $progressUnits }
