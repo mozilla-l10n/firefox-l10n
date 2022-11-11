@@ -42,3 +42,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = Buka Fail Boleh Laku?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = “{ $executable }” adalah fail boleh laku. Fail boleh laku mungkin mengandungi virus atau kod berbahaya lain yang boleh membahayakan komputer anda. Berhati-hati apabila membuka fail ini. Adakah anda pasti mahu melancarkan “{ $executable }”?
