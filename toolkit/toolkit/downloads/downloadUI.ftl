@@ -11,3 +11,4 @@ download-ui-dont-leave-private-browsing-button = 사생활 보호 모드 계속�
 
 ##
 
+download-ui-file-executable-security-warning-title = 실행 파일을 여시겠습니까?
