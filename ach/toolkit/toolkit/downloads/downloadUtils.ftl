@@ -57,6 +57,13 @@ download-utils-gigabyte = GB
 #   $total (String): total number.
 #   $totalUnits (String): total unit.
 download-utils-transfer-same-units = { $progress } { $total } { $totalUnits }
+# example: 11.1 MB of 3.3 GB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): progress unit.
+#   $total (String): total number.
+#   $totalUnits (String): total unit.
+download-utils-transfer-diff-units = { $progress } { $progressUnits } of { $total } { $totalUnits }
 # example: 111 KB
 # Variables:
 #   $progress (String): progress number.
