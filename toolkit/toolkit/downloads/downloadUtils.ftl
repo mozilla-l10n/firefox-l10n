@@ -2,6 +2,30 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds =
+    { $timeValue ->
+        [one] ਸ
+       *[other] ਸ
+    }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] ਮਿੰ
+       *[other] ਮਿੰ
+    }
+# Short form for hours
+download-utils-short-hours =
+    { $timeValue ->
+        [one] ਘੰ
+       *[other] ਘੰ
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] ਦਿ
+       *[other] ਦਿ
+    }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -45,8 +69,26 @@ download-utils-transfer-diff-units = { $total } { $totalUnits } ਵਿੱਚੋ�
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# examples: 1m; 11h
+# Variables:
+#   $time (String): time number.
+#   $unit (String): time unit.
+download-utils-time-pair = { $time }{ $unit }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = { $time } ਬਾਕੀ
+# examples: 11h 2m left; 1d 22h left
+# Variables:
+#   $time1 (String): time left, including a unit
+#   $time2 (String): smaller measure of time left, including a unit
+download-utils-time-left-double = { $time1 } { $time2 } ਬਾਕੀ
+download-utils-time-few-seconds = ਕੁਝ ਕੁ ਸਕਿੰਟ ਬਾਕੀ
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } ਸਰੋਤ
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+download-utils-done-file-scheme = ਲੋਕਲ ਫਾਈਲ
 # Displayed time for files finished yesterday
 download-utils-yesterday = ਕੱਲ੍ਹ
