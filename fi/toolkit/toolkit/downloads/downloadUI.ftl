@@ -43,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Suoritetaanko ohjelmatiedosto?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = ”{ $executable }” on suoritettava ohjelmatiedosto. Ohjelmatiedostot voivat sisältää viruksia tai muita haittaohjelmia, jotka voivat vahingoittaa tietokonettasi. Vain luotettuja tiedostoja tulisi suorittaa. Suoritetaanko tiedosto ”{ $executable }”?
