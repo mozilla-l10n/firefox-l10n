@@ -16,3 +16,6 @@ download-ui-dont-go-offline-button = Zůstat online
 ##
 
 download-ui-file-executable-security-warning-title = Otevřít spustitelný soubor?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = „{ $executable }“ je spustitelný soubor. Ten může obsahovat viry nebo jiný škodlivý kód, který může poškodit váš počítač. Při spuštění buďte opatrní. Chcete opravdu spustit soubor „{ $executable }“?
