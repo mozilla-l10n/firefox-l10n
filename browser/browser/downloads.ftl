@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = ჩამოტვირთვის შეცდომა
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = ჩამოტვირთვა ვერ შეინახა, ვინაიდან ზღუდავს { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = ჩამოტვირთვა ვერ შეინახა, ვინაიდან ზღუდავს გაფართოება.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     ჩამოტვირთვა ვერ შეინახება უცნობი შეცდომის გამო.
