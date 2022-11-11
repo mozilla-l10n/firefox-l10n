@@ -221,3 +221,8 @@ downloads-error-alert-title = Բեռնման սխալ
 downloads-error-blocked-by = Ներբեռնումը հնարաւոր չէ պահպանել, քանի որ այն արգելափակուած է { $extension }-ի կողմից:
 # Used when the name of the blocking extension is unavailable.
 downloads-error-extension = Ներբեռնումը հնարաւոր չէ պահպանել, քանի որ այն արգելափակուած է ընդլայնման կողմից։
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Բեռնումը չի կարող պահպանուել անյայտ սխալի պատճառով:
+    
+    Կրկին փորձէք:
