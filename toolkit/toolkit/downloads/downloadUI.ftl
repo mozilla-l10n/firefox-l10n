@@ -17,12 +17,23 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Ha most kilép, 1 letöltés megszakad. Biztosan kilép?
        *[other] Ha most kilép, { $downloadsCount } letöltés megszakad. Biztosan kilép?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Ne lépjen ki
+       *[other] Ne lépjen ki
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ha most kapcsolat nélküli üzemmódba lép, 1 letöltés megszakad. Biztosan meg szeretné szakítani a hálózati kapcsolatot?
        *[other] Ha most kapcsolat nélküli üzemmódba lép, { $downloadsCount } letöltés megszakad. Biztosan meg szeretné szakítani a hálózati kapcsolatot?
     }
 download-ui-dont-go-offline-button = Maradjon online
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ha most bezárja az összes privát böngészési ablakot, 1 letöltés megszakad. Biztos, hogy ki akar lépni a privát böngészésből?
+       *[other] Ha most bezárja az összes privát böngészési ablakot, { $downloadsCount } letöltés megszakad. Biztos, hogy ki akar lépni a privát böngészésből?
+    }
+download-ui-dont-leave-private-browsing-button = Maradok privát böngészésben
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 letöltés megszakítása
@@ -32,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Megnyitja a végrehajtható fájlt?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = „{ $executable }” fájl végrehajtható. A végrehajtható fájlok vírusokat vagy más, rosszindulatú kódokat tartalmazhatnak, amelyek kárt okozhatnak a számítógépen. Legyen óvatos a fájl megnyitásakor. Biztosan elindítja: „{ $executable }”?
