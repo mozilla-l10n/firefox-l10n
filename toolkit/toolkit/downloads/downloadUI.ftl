@@ -20,3 +20,4 @@ download-ui-dont-go-offline-button = Online qal
 
 ##
 
+download-ui-file-executable-security-warning-title = İcra Olunan Fayl Açılsın?
