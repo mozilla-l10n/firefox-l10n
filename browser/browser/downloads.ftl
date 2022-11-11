@@ -165,3 +165,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Չկան ներբեռնումներ այս աշխատաշրջանում:
+
+## Download errors
+
+downloads-error-alert-title = Բեռնման Սխալ
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Բեռնումը չի կարող պահպանվել անհայտ վթարի պատճառով:
+    
+    Կրկին փորձեք:
