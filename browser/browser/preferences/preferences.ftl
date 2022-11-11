@@ -191,6 +191,8 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Përputhini rregullimet tuaja të temës së { -brand-short-name }-it për sfonde dhe lëndë sajtesh.
 preferences-web-appearance-choice-tooltip-system =
     .title = Përputhini rregullimet tuaja të sistemit për sfonde dhe lëndë sajtesh.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Bëni të ndryshojnë vetvetiu sfonde dhe lëndë sajti, bazuar në rregullimet e sistemit tuaj dhe temën e { -brand-short-name }-it.
 preferences-web-appearance-choice-tooltip-light =
     .title = Përdorni një pamje të çelët për sfonde dhe lëndë sajtesh.
 preferences-web-appearance-choice-tooltip-dark =
@@ -590,6 +592,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Shfaq sugjerime kërkimi te përfundimet në shtyllë adresash
     .accesskey = q
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Shfaq terma kërkimi, në vend se URL, te faqe përfundimesh nga motori parazgjedhje i kërkimeve
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -994,6 +1001,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Mbrojtja Tërësore Nga Cookie-t i mban “cookies” te sajti ku gjendeni, që gjurmuesit të mos i përdorin dot për t’ju ndjekur nga një saj te tjetri.
 content-blocking-etp-standard-tcp-rollout-learn-more = Mësoni më tepër
+content-blocking-etp-standard-tcp-title = Përfshin Mbrojtje Tërësore Nga Cookie-t, veçoria jonë më e fuqishme ndonjëherë për mbrojtje
 content-blocking-warning-title = Kini mendjen!
 content-blocking-and-isolating-etp-warning-description-2 = Ky rregullim mund të sjellë mosshfaqje të lëndës ose funksionim jo të saktë në disa sajte. Nëse një sajt duket i dëmtuar, mund të doni të çaktivizoni mbrojtjen nga gjurmimet për atë saj, që të ngarkohet krejt lënda.
 content-blocking-warning-learn-how = Mësoni se si
@@ -1102,6 +1110,7 @@ collection-health-report-disabled = Raportimi i të dhënave është i çaktiviz
 collection-backlogged-crash-reports-with-link = Lejojeni { -brand-short-name }-in të dërgojë raporte vithisjesh të mëparshme në emrin tuaj <a data-l10n-name="crash-reports-link">Mësoni më tepër</a>
     .accesskey = c
 privacy-segmentation-section-header = Veçori të reja që thellojnë shfletimin tuaj
+privacy-segmentation-section-description = Kur ofrojmë veçori që përdorin të dhënat tuaja për t’ju dhënë ju një punim më personal:
 privacy-segmentation-radio-off =
     .label = Përdorni rekomandime { -brand-product-name }-i
 privacy-segmentation-radio-on =
