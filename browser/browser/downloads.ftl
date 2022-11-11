@@ -203,3 +203,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Eroare de descărcare
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Descărcarea nu poate fi salvată deoarece s-a produs o eroare necunoscută.
+    
+    Te rugăm să încerci din nou.
