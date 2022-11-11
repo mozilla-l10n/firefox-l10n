@@ -12,6 +12,7 @@ colorway-collection-independent-voices-short-description = Ngjyra që ndryshojn�
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Mesfushor
 playmaker-colorway-description = Ju krijoni mundësi për të fituar dhe ndihmoni këdo rreth jush për të rritur cilësinë e lojës.
 expressionist-colorway-name = Ekspresionist
 expressionist-colorway-description = E shihni ndryshe botën dhe krijimet tuaja trazojnë emocionet e të tjerëve.

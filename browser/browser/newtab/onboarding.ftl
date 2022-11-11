@@ -286,14 +286,29 @@ mr2022-onboarding-set-default-only-subtitle = Fillojani me një shfletues që ka
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Faleminderit për dashurinë ndaj { -brand-product-name }-it
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Hapni një internet më të shëndetshëm prej ngado, me një klikim të vetëm. Përditësimi ynë më i ri është plot me gjëra të reja që mendojmë se do t’i adhuroni.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Përdorni një shfletues që mbron privatësinë tuaj, teksa endeni nëpër web. Përditësimi ynë më i ri është plot me gjëra që mendojmë se do t’i adhuroni.
+mr2022-onboarding-existing-pin-checkbox-label = Shtoni gjithashtu shfletim privat { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Bëjeni { -brand-short-name }-in shfletuesin tuaj për rrugës
+mr2022-onboarding-set-default-primary-button-label = Vëreni { -brand-short-name }-in si shfletuesin parazgjedhje
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Përdorni një shfletues që ka nga pas një ent jofitimprurësS. Mbrojmë privatësinë tuaj, teksa ju bridhni nëpër web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Versioni ynë më i ri është ndërtuar me ju në mendje, duke e bërë më të lehtë se kurrë të bridhni nëpër web. Është plot me veçori që mendojmë se do t’i adhuroni.
 mr2022-onboarding-get-started-primary-button-label = Ujdiseni brenda pak sekondash
 
 ## MR2022 Import Settings screen strings
@@ -361,6 +376,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Respektojmë përherë privatësinë tuaj
+mr2022-onboarding-privacy-segmentation-subtitle = Nga sugjerime të zgjuara e deri te kërkimi i mençur, po punojmë vazhdimisht për të krijuar një { -brand-product-name } më të mirë, më personal.
+mr2022-onboarding-privacy-segmentation-text-cta = Ç’dëshironi të shihni, kur ju ofrojmë veçori të reja që përdorin të dhënat tuaja për të thelluar shfletimin?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Përdorni rekomandim { -brand-product-name }-i
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Shfaq të dhëna të hollësishme
 
