@@ -150,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = 입력은 더 적게하고 더 많이 찾기: 주소 표시줄에서 바로 { $engineName } 검색해 보세요.
 urlbar-search-tips-redirect-2 = 주소 표시줄에서 검색을 시작하여 { $engineName }의 제안 및 방문 기록을 확인하세요.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = 검색이 더욱 간편해졌습니다. 여기 주소 표시줄에서 더 구체적으로 검색해 보세요. URL을 대신 표시하려면 설정의 검색으로 이동하세요.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = 더 빨리 찾으려면 여기에서 하세요.
