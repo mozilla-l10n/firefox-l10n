@@ -56,6 +56,7 @@ firefoxview-closed-tabs-title = Oñembotyramovéva
 firefoxview-closed-tabs-description2 = Embojurujajey kuatiarogue embotýva ko ovetãme.
 firefoxview-closed-tabs-placeholder = <strong>Ndaipóri kuatiarogue oñembotyramóva</strong><br/>Ani ekyhyje tendayke oñembotyjeývagui. Eguerukuaajey ko’ápe.
 firefoxview-closed-tabs-placeholder-header = Ndaipóri tendayke oñembotyramóva
+firefoxview-closed-tabs-placeholder-body = Embotývo peteĩ tendayke ko ovetãme, ehekakuaa ko’a guive.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hendyramovéva
 # Variables:

@@ -218,3 +218,7 @@ firefoxview-spotlight-promo-secondarybutton = Jepo
 
 colorways-cfr-primarybutton = Eiporaro sa’y ojueheguáva
     .accesskey = C
+colorways-cfr-header-28days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama 16 jasyteĩ guive
+colorways-cfr-header-14days = Sa’y ojuehegua Independent Voices ndojepurukuaavéitama mokõi arapokõindýpe
+colorways-cfr-header-7days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko arapokõindýpe
+colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko árape
