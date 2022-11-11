@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } privát böngészés
 
 ##
@@ -134,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Segítség kérése
 urlbar-search-tips-confirm = Rendben, értettem
+urlbar-search-tips-confirm-short = Megértettem!
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -147,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Gépeljen kevesebbet, találjon többet: { $engineName } keresés közvetlenül a címsorból.
 urlbar-search-tips-redirect-2 = Kezdjen keresni a címsorban, és lássa a { $engineName } javaslatait, valamint a böngészési előzményeit.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Egyszerűbb lett a keresés. Próbálja meg pontosítani a keresést itt, a címsávban. Ha inkább a webcímet szeretné megjeleníteni, nyissa meg a Keresést a beállításokban.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Válassza ezt a rövidítést, hogy gyorsabban megtalálja, amire szüksége van.
