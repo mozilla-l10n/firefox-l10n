@@ -2,10 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+download-ui-confirm-title = Sazaamu Ebiwanudwa Byonna?
 
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] Bwovamu kati, 1 okuwanula kuja kuba kusalidwamu. Okakasa oyagala kuvamu?
+       *[other] Bwovamu kati, { $downloadsCount } ebiwanulwa kuja kuba kusalidwamu. Okakasa oyagala kuvamu?
+    }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Bwonddukamu kati, 1 okuwanula kuja kuba kusalidwamu. Okakasa oyagala kunddukamu?
+       *[other] Bwokunddukamu kati, { $downloadsCount } ebiwanulwa bijja kuba bisalidwamu. Okakasa oyagala kunddukamu?
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Bwoba olibweru wolutimbe kati, 1 kuwanula kuja kuba kusazidwamu. Okakasa oyagala kugenda obweru wolutimbe?
@@ -20,3 +31,4 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = Ggalawo Fayiro Enkola?
