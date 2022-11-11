@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+download-ui-confirm-title = அனைத்து பதிவிறக்கங்களையும் ரத்து செய்ய வேண்டுமா?
 
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
@@ -25,3 +26,4 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = இயங்கக்கூடிய கோப்பினை திறக்க வேண்டுமா?
