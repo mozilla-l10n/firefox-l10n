@@ -218,11 +218,11 @@ downloads-more-downloading =
 downloads-error-alert-title = Gabim Shkarkimi
 # Variables:
 #   $extension (String): the name of the blocking extension.
-downloads-error-blocked-by = Shkarkimi s’mund të ruhet, ngaqë është bllokuar nga { $extension }.
+downloads-error-blocked-by = Shkarkimi s’mund të ruhet, ngaqë është bllokuar nga një { $extension }.
 # Used when the name of the blocking extension is unavailable.
 downloads-error-extension = Shkarkimi s’mund të ruhet, ngaqë është bllokuar nga një zgjerim.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Shkarkimi nuk ruhet dot, ngaqë ndodhi një gabim i panjohur.
     
-    Ju lutemi, riprovoni.
+     Ju lutemi, riprovoni.

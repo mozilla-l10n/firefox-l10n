@@ -149,6 +149,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Shtypni më pak, gjeni më shumë: Kërkoni me { $engineName } drejt e nga shtylla juaj e adresave.
 urlbar-search-tips-redirect-2 = Filloni kërkimin tuaj te shtylla e adresave që të shihni sugjerime nga { $engineName } dhe nga historiku juaj i shfletimit.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Kërkimi sapo u bë më i thjeshtë. Provoni ta bëni kërkimin tuaj më specifik, këtu te shtylla e adresave. Që të shfaqet URL, vizitoni Kërkim, te rregullimet.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Përzgjidhni këtë shkurtore, që të gjeni më shpejt ç’ju duhet.

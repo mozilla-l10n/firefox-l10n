@@ -161,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = Të lejohet { $origin } të dëgjo
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Të lejohet { $origin } t’i japë leje { $thirdParty } të dëgjojë audion e kësaj skede?
 webrtc-allow-share-camera-unsafe-delegation = Të lejohet { $origin } t’i japë { $thirdParty } hyrje te kamera juaj?
 webrtc-allow-share-microphone-unsafe-delegations = Të lejohet { $origin } t’i japë { $thirdParty } hyrje te mikrofoni juaj?
 webrtc-allow-share-screen-unsafe-delegation = Të lejohet { $origin } t’i japë { $thirdParty } leje për të parë ekranin tuaj?
