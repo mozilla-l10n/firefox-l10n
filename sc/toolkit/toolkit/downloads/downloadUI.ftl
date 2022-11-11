@@ -42,6 +42,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = Boles abèrrere s'archìviu esecutàbile?
 # Variables:
 #   $executable (String): The executable file to be opened.
 download-ui-file-executable-security-warning = “{ $executable }” est un'archìviu esecutàbile. Is archìvios esecutàbiles podent cuntènnere virus o àteru còdighe malu chi podet fàghere dannu a s'ordinadore tuo. Pone atentzione cando aberis custu archìviu. Seguru chi boles aviare “{ $executable }”?
