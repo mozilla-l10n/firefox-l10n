@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Dersom du kobler fra nå vil { $downloadsCount } nedlastinger bli avbrutt. Er du sikker på at du vil koble fra?
     }
 download-ui-dont-go-offline-button = Forbli tilkoblet
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Hvis du lukker alle Privat Nettlesing-vinduene nå, vil 1 nedlasting bli avbrutt. Er du sikker på at du vil forlate Privat Nettlesing?
+       *[other] Dersom du lukker alle Privat nettlesing-vinduene nå, vil { $downloadsCount } nedlastinger bli avbrutt. Er du sikker på at du vil forlate Privat nettlesing?
+    }
+download-ui-dont-leave-private-browsing-button = Fortsett med privat nettlesing
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Avbryt 1 nedlasting
