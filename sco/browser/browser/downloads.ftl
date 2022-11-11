@@ -157,3 +157,13 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Doonload Mishanter
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = The doonload cannae be saved acause it's blockit by { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = The doonload cannae be saved acause it's blockit by an extension.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    The doonload cannae be saved acause an unkent error tuik place.
+    
+    Gie it anither shot.
