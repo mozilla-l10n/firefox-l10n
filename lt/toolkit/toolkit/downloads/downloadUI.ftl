@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Jei baigsite darbą dabar, tai tuo pačiu atsisakysite vieno failo atsiuntimo. Ar tikrai baigti darbą?
        *[other] Jei baigsite darbą dabar, tai tuo pačiu atsisakysite { $downloadsCount } failų atsiuntimo. Ar tikrai baigti darbą?
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Jei atsijungsite nuo tinklo dabar, tai tuo pačiu atsisakysite vieno failo atsiuntimo. Ar tikrai atsijungti nuo tinklo?
+       *[other] Jei atsijungsite nuo tinklo dabar, tai tuo pačiu atsisakysite { $downloadsCount } failų atsiuntimo. Ar tikrai atsijungti nuo tinklo?
+    }
 download-ui-dont-go-offline-button = Neatsijungti nuo tinklo
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
