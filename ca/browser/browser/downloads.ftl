@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Error en la baixada
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = La baixada no es pot desar perquè { $extension } l'ha blocat.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = La baixada no es pot desar perquè una extensió l'ha blocat.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     No pot desar-se la baixada perquè s'ha produït un error desconegut.
