@@ -22,6 +22,11 @@ download-ui-dont-quit-button =
         [mac] U nga suki
        *[other] U nga humi
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Loko u huma ofolayini sweswi, mpango wa 1 wu ta khanseriwa. U na ntiyiso leswaku u lava ku huma ofolayini?
+       *[other] Loko u huma ofolayini sweswi, mpango wa { $downloadsCount } wu ta khanseriwa. U na ntiyiso leswaku u lava ku huma ofolayini?
+    }
 download-ui-dont-go-offline-button = Tshama onolayini
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
