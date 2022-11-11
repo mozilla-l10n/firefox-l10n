@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Приватний перегляд { -brand-shortcut-name }
 
 ##
@@ -134,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Отримати допомогу
 urlbar-search-tips-confirm = Гаразд, зрозуміло
+urlbar-search-tips-confirm-short = Зрозуміло
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -147,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Вводьте менше, знаходьте більше: Шукайте за допомогою { $engineName } прямо з панелі адреси.
 urlbar-search-tips-redirect-2 = Розпочніть пошук з адресного рядка, щоб побачити пропозиції від { $engineName } та історії перегляду.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Пошук в інтернеті став простішим. Спробуйте вказати більш конкретний пошуковий запит у панелі пошуку. Щоб натомість показати URL-адресу, перейдіть до розділу Пошук у налаштуваннях.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Оберіть цей ярлик, щоб швидше знайти те, що вам потрібно.
