@@ -7,11 +7,23 @@
 
 appmenu-sync-panel-title =
     .title = Sync
+appmenu-signin-panel =
+    .label = Aperir session in Sync
+    .accesskey = A
 appmenu-sync-manage =
     .value = Gerer le conto
     .accesskey = G
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-now =
+    .label = Synchronisar ora
+    .accesskey = o
+appmenu-sync-settings =
+    .label = Parametros de Sync
+    .accesskey = S
+appmenu-sync-sign-out =
+    .label = Clauder session…
+    .accesskey = C
 
 ## New Account
 
@@ -178,3 +190,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = A proposito de { -brand-short-name }
     .accesskey = A
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = Discargante actualisationes de { -brand-shorter-name }
+appmenuitem-banner-update-available =
+    .label = Actualisation disponibile — discargar ora
+appmenuitem-banner-update-manual =
+    .label = Actualisation disponibile — discargar ora
+appmenuitem-banner-update-unsupported =
+    .label = Actualisation fallite — systema non compatibile
+appmenuitem-banner-update-restart =
+    .label = Actualisation disponibile — reinitiar ora
