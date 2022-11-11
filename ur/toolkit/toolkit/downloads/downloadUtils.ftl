@@ -10,6 +10,12 @@
 #   $rate (String): rate number.
 #   $unit (String): rate unit.
 download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/sec)
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+download-utils-status-no-rate = { $transfer } — { $timeLeft }
 download-utils-bytes = بائٹس
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
@@ -32,6 +38,9 @@ download-utils-transfer-diff-units = { $total } { $totalUnits } کے { $progress
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# Variables:
+#   $scheme (String): URI scheme like data: jar: about:
+download-utils-done-scheme = { $scheme } ریسورس
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = مقامی مسل
