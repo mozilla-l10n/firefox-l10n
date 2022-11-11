@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = خطای بارگیری
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = ذخیره بارگیری به دلیل مسدود بودن توسط { $extension } امکان‌پذیر نیست.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = بارگیری ذخیره نمی‌شود زیرا توسط یک برنامهٔ افزودنی مسدود شده است.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     ذخیرهٔ بارگیری به دلیل خطای نامعلومی شکست خورد.
