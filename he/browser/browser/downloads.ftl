@@ -249,3 +249,13 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = שגיאת הורדה
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = לא ניתן לשמור את ההורדה מכיוון שנחסמה על־ידי { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = לא ניתן לשמור את ההורדה מכיוון שנחסמה על־ידי הרחבה.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    לא ניתן לשמור את ההורדה מכיוון שאירעה שגיאה לא ידועה.
+    
+    נא לנסות שוב.
