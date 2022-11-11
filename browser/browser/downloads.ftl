@@ -214,6 +214,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = خطأ في التنزيل
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = تعذّر حفظ هذا التنزيل إذ حجبه أحد الامتدادات.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     لا يمكن حفظ هذا التنزيل لحدوث خطأ مجهول.
