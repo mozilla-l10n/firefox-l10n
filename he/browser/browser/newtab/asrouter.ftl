@@ -210,3 +210,10 @@ firefoxview-spotlight-promo-title = תגידו שלום ל־{ -firefoxview-brand
 firefoxview-spotlight-promo-subtitle = רוצה את הלשונית הפתוחה הזאת שבטלפון שלך? קיבלת. יש לך צורך באתר שבדיוק עכשיו ביקרת? פוף, הנה הוא כאן ב־{ -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = כיצד זה עובד
 firefoxview-spotlight-promo-secondarybutton = דילוג
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = בחירת ערכת צבעים
+    .accesskey = ב
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעדיים של { -brand-short-name } בהשראת קולות שמשנים תרבות.

@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = ‏{ -brand-shortcut-name } במצב גלישה פרטית
 
 ##
@@ -134,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = קבלת עזרה
 urlbar-search-tips-confirm = בסדר, הבנתי
+urlbar-search-tips-confirm-short = הבנתי
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -147,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = מהיום מקלידים פחות ומוצאים יותר: אפשר לחפש עם { $engineName } ישירות משורת הכתובת שלך.
 urlbar-search-tips-redirect-2 = ניתן להתחיל לחפש בשורת הכתובת כדי לצפות בהצעות מ־{ $engineName } ובהיסטוריית הגלישה שלך.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = החיפוש נעשה פשוט יותר. נסו להפוך את החיפוש שלכם לספציפי יותר כאן בשורת הכתובת. כדי להציג את כתובת האתר במקום, ניתן להיכנס בהגדרות לקטגוריה ״חיפוש״.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ניתן לבחור בקיצור הדרך הזה כדי למצוא את מה שמחפשים מהר יותר.
