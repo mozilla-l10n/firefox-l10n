@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Error a discargar
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Le discargamento non pote esser salvate perque illo es blocate per { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Le discargamento non pote esser salvate perque illo es blocate per un extension.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Le discarga non pote esser salvate perque un error incognite ha occurrite.
