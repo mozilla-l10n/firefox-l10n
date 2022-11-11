@@ -18,7 +18,6 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 45em
-
 downloads-cmd-pause =
     .label = Аялдату
     .accesskey = А
@@ -29,7 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Бас тарту
 downloads-cmd-cancel-panel =
     .aria-label = Бас тарту
-
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -50,7 +48,6 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = { $handler } көмегімен ашу
     .accesskey = н
-
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -70,14 +67,12 @@ downloads-cmd-always-use-system-default-named =
 downloads-cmd-always-open-similar-files =
     .label = Осындай файлдарды әрқашан ашу
     .accesskey = ш
-
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Бумада көрсету
            *[other] Бумада көрсету
         }
-
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -90,7 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Бумада көрсету
            *[other] Бумада көрсету
         }
-
 downloads-cmd-show-downloads =
     .label = Жүктемелер бумасын көрсету
 downloads-cmd-retry =
@@ -115,42 +109,33 @@ downloads-cmd-clear-downloads =
 downloads-cmd-delete-file =
     .label = Өшіру
     .accesskey = ш
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Жүктемені рұқсат ету
     .accesskey = а
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Файлды өшіру
-
 downloads-cmd-remove-file-panel =
     .aria-label = Файлды өшіру
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Файлды өшіру немесе жүктемені рұқсат ету
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Файлды өшіру немесе жүктемені рұқсат ету
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Файлды ашу немесе өшіру
-
 downloads-cmd-choose-open-panel =
     .aria-label = Файлды ашу немесе өшіру
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Көбірек ақпаратты көрсету
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -178,19 +163,16 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Жүктеп алуды қайталау
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Жүктемеден бас тарту
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Барлық жүктемелерді көрсету
     .accesskey = к
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -213,16 +195,13 @@ downloads-blocked-download-detailed-info = { $url } бірнеше файлды 
 downloads-clear-downloads-button =
     .label = Жүктемелерді тазарту
     .tooltiptext = Аяқталған, бас тартылған және сәтсіз жүктемелерді тазартады
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Жүктемелер жоқ.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Бұл сессия үшін жүктемелер жоқ.
-
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the
@@ -231,3 +210,12 @@ downloads-more-downloading =
     { $count ->
        *[other] Тағы { $count } файл жүктеп алынуда
     }
+
+## Download errors
+
+downloads-error-alert-title = Жүктелу қатесі
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Жүктелу сақталмайды, өйткені белгісіз қате орын алды.
+    
+    Қайталап көріңіз.
