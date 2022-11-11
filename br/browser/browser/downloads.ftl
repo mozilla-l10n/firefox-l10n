@@ -222,6 +222,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Fazi pellgargañ
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Ne c'hall bet bezañ enrollet ar pellgargañ-mañ peogwir emañ stanket gant { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Ne c'hall ket bezañ enrollet ar pellgargañ-mañ peogwir emañ stanket gant un askouezh.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Ar pellgargadur n'hall ket bezañ enrollet rak degouezhet ez eus bet ur fazi dianav.
