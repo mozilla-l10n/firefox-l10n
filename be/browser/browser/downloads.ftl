@@ -217,6 +217,7 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = Памылка сцягвання
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Немагчыма захаваць загружаны файл, бо здарылася невядомая памылка.
