@@ -74,6 +74,17 @@ download-utils-transfer-no-total = { $progress } { $progressUnits }
 #   $time (String): time number.
 #   $unit (String): time unit.
 download-utils-time-pair = { $time }{ $unit }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = { $time } ಉಳಿದಿದೆ
+# examples: 11h 2m left; 1d 22h left
+# Variables:
+#   $time1 (String): time left, including a unit
+#   $time2 (String): smaller measure of time left, including a unit
+download-utils-time-left-double = { $time1 } { $time2 } ಉಳಿದಿದೆ
+download-utils-time-few-seconds = ಕೆಲವು ಸೆಕೆಂಡುಗಳು ಉಳಿದಿವೆ
+download-utils-time-unknown = ಗೊತ್ತಿಲ್ಲದಷ್ಟು ಸಮಯ ಉಳಿದಿದೆ
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } ಆಕರ
