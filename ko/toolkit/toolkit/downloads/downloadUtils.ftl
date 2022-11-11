@@ -6,6 +6,8 @@
 download-utils-short-seconds = 초
 # Short form for minutes
 download-utils-short-minutes = 분
+# Short form for hours
+download-utils-short-hours = 시간
 # Short form for days
 download-utils-short-days = 일
 # — is the "em dash" (long dash)
