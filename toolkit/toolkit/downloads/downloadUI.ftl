@@ -7,12 +7,32 @@ download-ui-confirm-title = Anulezi toate descărcările?
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] Dacă ieși acum, 1 descărcare va fi anulată. Sigur vrei să ieși?
+       *[other] Dacă ieși acum, { $downloadsCount } descărcări vor fi anulate. Sigur vrei să ieși?
+    }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Dacă ieși acum, 1 descărcare va fi anulată. Sigur vrei să ieși?
+       *[other] Dacă ieși acum, { $downloadsCount } descărcări vor fi anulate. Sigur vrei să ieși?
+    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] Nu ieși
        *[other] Nu ieși
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Dacă te deconectezi acum, 1 descărcare va fi anulată. Sigur vrei să te deconectezi?
+       *[other] Dacă te deconectezi acum, { $downloadsCount } descărcări vor fi anulate. Sigur vrei să te deconectezi?
+    }
 download-ui-dont-go-offline-button = Rămâi online
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Dacă închizi toate ferestrele de navigare privată acum, 1 descărcare va fi anulată. Sigur vrei să părăsești navigarea privată?
+       *[other] Dacă închizi toate ferestrele de navigare privată acum, { $downloadsCount } descărcări vor fi anulate. Sigur vrei să părăsești navigarea privată?
+    }
 download-ui-dont-leave-private-browsing-button = Rămâi în navigarea privată
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
