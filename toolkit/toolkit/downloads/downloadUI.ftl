@@ -37,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Отваряне на изпълним файл?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = Файлът „{ $executable }“ е изпълним. Възможно е такъв файл да съдържа вируси или друг зловреден код. Бъдете внимателни при отваряне на файлове от такъв вид. Сигурни ли сте, че искате „{ $executable }“ да бъде изпълнен?
