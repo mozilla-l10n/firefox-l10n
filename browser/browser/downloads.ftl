@@ -218,6 +218,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Помилка завантаження
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Завантаження не можна зберегти, оскільки воно заблоковане { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Завантаження не можна зберегти, оскільки воно заблоковане розширенням.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Завантаження не може бути збережено через невідому помилку.
