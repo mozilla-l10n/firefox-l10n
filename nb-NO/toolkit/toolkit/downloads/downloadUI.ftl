@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Dersom du avslutter nå vil 1 nedlasting bli avbrutt. Er du sikker på at du vil avslutte?
        *[other] Dersom du avslutter nå vil { $downloadsCount } nedlastinger bli avbrutt. Er du sikker på at du vil avslutte?
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Dersom du kobler fra nå vil 1 nedlasting bli avbrutt. Er du sikker på at du vil koble fra?
+       *[other] Dersom du kobler fra nå vil { $downloadsCount } nedlastinger bli avbrutt. Er du sikker på at du vil koble fra?
+    }
 download-ui-dont-go-offline-button = Forbli tilkoblet
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
