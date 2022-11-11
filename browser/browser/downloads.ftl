@@ -200,3 +200,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Greška pri preuzimanju
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Ovo preuzimanje se ne može spremiti zbog nepoznate greške.
+    
+    Pokušaj ponovo.
