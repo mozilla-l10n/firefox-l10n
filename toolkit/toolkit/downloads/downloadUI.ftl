@@ -27,6 +27,7 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] אם תעבור כעת למצב לא מקוון, { $downloadsCount } הורדות יבוטלו. האם אתה בטוח שאתה רוצה לעבור כעת למצב לא מקוון?
     }
 download-ui-dont-go-offline-button = הישאר מקוון
+download-ui-dont-leave-private-browsing-button = להישאר במצב גלישה פרטית
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] בטל הורדה אחת
@@ -35,3 +36,6 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" הוא קובץ בר הרצה. קבצים ברי הרצה עלולים להכיל וירוסים או קוד מסוכן אחר שיכול לגרום נזק למחשב שלך. עליך לנהוג בזהירות בעת פתיחת קובץ זה. האם להפעיל את "{ $executable }"?
