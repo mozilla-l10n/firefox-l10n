@@ -218,6 +218,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Błąd pobierania pliku
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Nie można zapisać pobieranego pliku, ponieważ jest zablokowany przez rozszerzenie { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Nie można zapisać pobieranego pliku, ponieważ jest zablokowany przez rozszerzenie.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Nie można zapisać pobieranego pliku z powodu nieznanego błędu.
