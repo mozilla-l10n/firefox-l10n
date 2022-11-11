@@ -603,7 +603,7 @@ search-show-search-term-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Sýna leitartillögur á undan vafraferli í niðurstöðum veffangastikunnar
+    .label = Sýna leitartillögur á undan vafurferli í niðurstöðum veffangastikunnar
 search-show-suggestions-private-windows =
     .label = Sýna leitartillögur í huliðsgluggum
 suggestions-addressbar-settings-generic2 = Breyta stillingum fyrir aðrar tillögur í veffangastiku
@@ -932,7 +932,7 @@ sitedata-cookies-exceptions =
 addressbar-header = Veffangastika
 addressbar-suggest = Þegar veffangastikuna er notuð skal stinga upp á
 addressbar-locbar-history-option =
-    .label = Vafraferill
+    .label = Vafurferill
     .accesskey = f
 addressbar-locbar-bookmarks-option =
     .label = Bókamerki
