@@ -18,6 +18,15 @@ appmenu-sync-manage =
     .accesskey = Δ
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-now =
+    .label = Συγχρονισμός τώρα
+    .accesskey = χ
+appmenu-sync-settings =
+    .label = Ρυθμίσεις συγχρονισμού
+    .accesskey = Ρ
+appmenu-sync-sign-out =
+    .label = Αποσύνδεση…
+    .accesskey = ν
 
 ## New Account
 
@@ -184,3 +193,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = Σχετικά με το { -brand-short-name }
     .accesskey = χ
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = Λήψη ενημέρωσης του { -brand-shorter-name }
+appmenuitem-banner-update-available =
+    .label = Διαθέσιμη ενημέρωση — λήψη τώρα
+appmenuitem-banner-update-manual =
+    .label = Διαθέσιμη ενημέρωση — λήψη τώρα
+appmenuitem-banner-update-unsupported =
+    .label = Αδυναμία ενημέρωσης — μη συμβατό σύστημα
+appmenuitem-banner-update-restart =
+    .label = Διαθέσιμη ενημέρωση — επανεκκίνηση τώρα
