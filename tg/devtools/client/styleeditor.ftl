@@ -21,6 +21,7 @@ styleeditor-save-button = Нигоҳ доштан
 styleeditor-options-button =
     .tooltiptext = Имконоти муҳаррири услубҳо
 styleeditor-media-rules = Дархостҳои расона
+styleeditor-at-rules = Баёнияҳои «At-rules»
 styleeditor-editor-textbox =
     .data-placeholder = Рамзи CSS-ро дар ин ҷо ворид кунед.
 styleeditor-no-stylesheet = Ин саҳифа ягон варақаи услубҳо надорад.
