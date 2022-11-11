@@ -14,7 +14,16 @@ origin-controls-option-all-domains =
     .label = Opaite Tendápe
 origin-controls-option-when-clicked =
     .label = Eikutúvo añónte
+# This string denotes an option that grants the extension access to
+# the current site whenever they visit it.
+# Variables:
+#   $domain (String) - The domain for which the access is granted.
+origin-controls-option-always-on =
+    .label = Emoneĩ meme { $domain } rupi
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = Namoñe’ẽi ha namoambuekuaái mba’ekuaarã ko tendápe
+origin-controls-state-always-on = Amoñe’ẽ ha amoambuekuaa mba’ekuaarã ko tendápe
+origin-controls-state-when-clicked = Ñemoneĩ emoñe’ẽ ha emoambue hag̃ua mba’ekuaarã
