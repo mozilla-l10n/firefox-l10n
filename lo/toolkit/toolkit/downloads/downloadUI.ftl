@@ -42,3 +42,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = ຕ້ອງການເປີດໄຟລ໌ Executable ບໍ່?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = “{ $executable }” ເປັນໄຟລ໌ Executable. ໄຟລ໌ Executable ອາດຈະປະກອບດ້ວຍໂຄດທີ່ເປັນໄວລັສ ຫລື ອື່ນໆທີ່ອາດເປັນອັນຕະລາຍຕໍ່ຄອມພິວເຕີຂອງທ່ານ. ໃຫ້ມີຄວາມລະມັດລະວັງໃນການເປີດໄຟລ໌ນີ້. ທ່ານແນ່ໃຈແລ້ວບໍ່ວ່າທ່ານຕ້ອງການທີ່ຈະເປີດ “{ $executable }”?
