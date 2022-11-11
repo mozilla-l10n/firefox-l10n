@@ -6,6 +6,16 @@
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ma tefɣeḍ tura, azdam-agi amiran ad ittwafsex. Tebɣiḍ ad tefɣeḍ?
+       *[other] Ma tefɣeḍ tura, izedaman  { $downloadsCount } ad ttwafesxen. Tebɣiḍ ad tefɣeḍ?
+    }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Ma tefɣeḍ tura, 1 n uzdam ad ittwafsex. Tebɣiḍ ad tefɣeḍ?
+       *[other] Ma tefɣeḍ tura, { $downloadsCount } n izdman ad ttwafesxen. Tebɣiḍ ad ţefɣeḍ?
+    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] Ur teffeɣ ara
