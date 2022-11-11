@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Errur cun telechargiar
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Impussibel da memorisar la telechargiada perquai ch'ella vegn bloccada da { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Impussibel da memorisar la telechargiada perquai ch'ella vegn bloccada dad ina extensiun.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     La telechargiada na po betg vegnir memorisada pervi d'ina errur nunenconuschenta.
