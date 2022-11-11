@@ -15,5 +15,8 @@ download-utils-transfer-same-units = { $progress } από { $total } { $totalUni
 #   $total (String): total number.
 #   $totalUnits (String): total unit.
 download-utils-transfer-diff-units = { $progress } { $progressUnits } από { $total } { $totalUnits }
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+download-utils-done-file-scheme = τοπικό αρχείο
 # Displayed time for files finished yesterday
 download-utils-yesterday = Χθες
