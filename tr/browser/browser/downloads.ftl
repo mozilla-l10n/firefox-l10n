@@ -216,6 +216,9 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = İndirme hatası
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = İndirme { $extension } tarafından engellendiği için kaydedilemiyor.
 # Used when the name of the blocking extension is unavailable.
 downloads-error-extension = İndirme bir uzantı tarafından engellendiği için kaydedilemiyor.
 # Line breaks in this message are meaningful, and should be maintained.
