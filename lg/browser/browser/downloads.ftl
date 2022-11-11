@@ -15,11 +15,12 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Biddemu ate
     .accesskey = B
-  
+
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 
 ##
 
@@ -42,6 +43,7 @@ downloads-cmd-copy-download-link =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+
 ##
 
 # This string is shown at the bottom of the Downloads Panel when all the
@@ -56,5 +58,15 @@ downloads-history =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+
 ##
 
+
+## Download errors
+
+downloads-error-alert-title = Ensobi mu Kuwanula
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Tekijjakusoboka kutereka kiwanulwa kubanga waliwo ensobi ekoleddwa.
+    
+    Ddamu ogeze nate.
