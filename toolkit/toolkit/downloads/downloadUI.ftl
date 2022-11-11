@@ -12,6 +12,7 @@ download-ui-dont-quit-button =
        *[other] Neskončit
     }
 download-ui-dont-go-offline-button = Zůstat online
+download-ui-dont-leave-private-browsing-button = Zůstat v anonymním prohlížení
 
 ##
 
