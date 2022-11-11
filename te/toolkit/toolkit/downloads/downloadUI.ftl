@@ -34,6 +34,11 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
        *[other] ఇప్పుడు అంతరంగిక విహరణ కిటికీలన్నింటినీ మూసివేస్తే, { $downloadsCount } దింపుకోళ్ళు రద్దవుతాయి. మీరు నిజంగానే అంతరంగిత విహరణిని వదిలి వెళ్ళాలనుకుంటున్నారా?
     }
 download-ui-dont-leave-private-browsing-button = అంతరంగిక విహారణలోనే ఉండు
+download-ui-cancel-downloads-ok =
+    { $downloadsCount ->
+        [1] 1 దింపుకోలును రద్దుచేయండి
+       *[other] { $downloadsCount } దింపుకోళ్ళను రద్దుచేయండి
+    }
 
 ##
 
