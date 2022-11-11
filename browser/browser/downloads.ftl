@@ -216,3 +216,13 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Viga allalaadimisel
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Allalaadimist ei saa salvestada, sest seda blokib laiendus { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Allalaadimist ei saa salvestada, sest seda blokib laiendus.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Allalaaditud faili pole võimalik salvestada, sest esines tundmatu viga.
+    
+    Palun proovi uuesti.
