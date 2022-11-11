@@ -32,3 +32,6 @@ download-ui-dont-leave-private-browsing-button = Qqim di tunigin tusligt
 ##
 
 download-ui-file-executable-security-warning-title = Ldi afaylu aselkam?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = “{ $executable }” d afaylu yettwaselkamen. Ifuyla yettwaselkamen zemren ad gebren ivirusen neɣ yir iseɣẓanen i yezemren ad ḍuṛṛen aselkim-ik. Ɣur-k ticki ad d-teldiḍ afaylu-a. Tebɣiḍ ad tsenkreḍ “{ $executable }”?
