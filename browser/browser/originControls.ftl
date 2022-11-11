@@ -28,5 +28,5 @@ origin-controls-option-always-on =
 
 origin-controls-state-no-access = 이 사이트에서 데이터를 읽고 변경할 수 없음
 origin-controls-state-always-on = 이 사이트에서 항상 데이터를 읽고 변경할 수 있음
-origin-controls-state-when-clicked = 데이터 읽기 및 변경에 필요한 권한
+origin-controls-state-when-clicked = 데이터 읽기 및 변경에 권한 필요
 origin-controls-state-hover-run-visit-only = 이번 방문에만 실행
