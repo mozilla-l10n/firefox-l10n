@@ -12,6 +12,11 @@ download-ui-confirm-quit-cancel-downloads =
         [1] Si vous quittez maintenant, un téléchargement en cours sera annulé. Voulez-vous vraiment quitter ?
        *[other] Si vous quittez maintenant, { $downloadsCount } téléchargements seront annulés. Voulez-vous vraiment quitter ?
     }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Si vous quittez maintenant, un téléchargement en cours sera annulé. Voulez-vous vraiment quitter ?
+       *[other] Si vous quittez maintenant, { $downloadsCount } téléchargements seront annulés. Voulez-vous vraiment quitter ?
+    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] Ne pas quitter
@@ -23,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Si vous passez hors connexion maintenant, { $downloadsCount } téléchargements seront annulés. Voulez-vous vraiment passer hors connexion ?
     }
 download-ui-dont-go-offline-button = Rester en ligne
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Si vous fermez toutes les fenêtres de navigation privée maintenant, 1 téléchargement sera annulé. Voulez-vous vraiment quitter la navigation privée ?
+       *[other] Si vous fermez toutes les fenêtres de navigation privée maintenant, { $downloadsCount } téléchargements seront annulés. Voulez-vous vraiment quitter la navigation privée ?
+    }
+download-ui-dont-leave-private-browsing-button = Rester en mode de navigation privée
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Annuler le téléchargement
