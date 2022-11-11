@@ -215,6 +215,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = 下载错误
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = 下载项已被 { $extension } 拦截，无法保存。
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = 下载项已被某扩展拦截，无法保存。
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     发生未知错误，无法保存下载项。
