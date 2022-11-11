@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Ако сега отидете се исклучите од Интернет, { $downloadsCount } преземања ќе биде откажани. Сигурно сакате да работите локално?
     }
 download-ui-dont-go-offline-button = Остани на Интернет
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ако ги затворите сите приватни прозорци сега, 1 преземање ќе биде откажано. Дали сте сигурни дека сакате да престанете со Приватно прелистување?
+       *[other] Ако ги затворите сите приватни прозорци сега, { $downloadsCount } преземања ќе бидат откажани. Дали сте сигурни дека сакате да престанете со Приватно прелистување?
+    }
+download-ui-dont-leave-private-browsing-button = Продолжи со Приватно прелистување
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Откажи 1 преземање
@@ -37,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Отворање на извршна датотека?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = „{ $executable }“ е извршна датотека. Извршните датотеки можат да содржат вируси или друг зол код кој може да му наштети на вашиот компјутер. Бидете внимателни при отворањето на оваа датотека. Сигурно сакате да ја стартувате „{ $executable }“?
