@@ -23,11 +23,12 @@ downloads-cmd-cancel =
     .tooltiptext = ರದ್ದು ಮಾಡು
 downloads-cmd-cancel-panel =
     .aria-label = ರದ್ದು ಮಾಡು
-  
+
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 
 ##
 
@@ -49,42 +50,33 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು
     .accesskey = D
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = ಡೌನ್‌ಲೋಡ್ ಅನುಮತಿಸು
     .accesskey = o
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = ಕಡತ ತೆಗೆದುಹಾಕು
-
 downloads-cmd-remove-file-panel =
     .aria-label = ಕಡತ ತೆಗೆದುಹಾಕು
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = ಕಡತ ತೆಗೆ ಅಥವಾ ಡೌನ್‌ಲೋಡ್ ಅನುಮತಿಸು
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = ಕಡತ ತೆಗೆ ಅಥವಾ ಡೌನ್‌ಲೋಡ್ ಅನುಮತಿಸು
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = ತೆರೆ ಅಥವಾ ಕಡತ ತೆಗೆ
-
 downloads-cmd-choose-open-panel =
     .aria-label = ತೆರೆ ಅಥವಾ ಕಡತ ತೆಗೆ
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -98,25 +90,23 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = ಡೌನ್‌ಲೋಡ್ ಮರುಪ್ರಯತ್ನಿಸು
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = ಡೌನ್‌ಲೋಡ್‌ ರದ್ದುಗೊಳಿಸು
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = ಎಲ್ಲಾ ಇಳಿಕೆಗಳನ್ನು ತೋರಿಸು
     .accesskey = S
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -127,18 +117,25 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+
 ##
 
 downloads-clear-downloads-button =
     .label = ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು
     .tooltiptext = ಪೂರ್ಣಗೊಂಡ, ರದ್ದುಗೊಳಿಸಲಾದ ಹಾಗು ವಿಫಲಗೊಂಡ ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ಯಾವುದೆ ಇಳಿಕೆಗಳಿಲ್ಲ.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ಈ ಅಧಿವೇಶನಕ್ಕಾಗಿ ಯಾವುದೆ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಲ್ಲ.
 
+## Download errors
+
+downloads-error-alert-title = ಡೌನ್‌ಲೋಡ್‌ ದೋಷ
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    ಡೌನ್‌ಲೋಡ್‌  ಅನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಒಂದು ಅಜ್ಞಾತ ದೋಷ ಸಂಭವಿಸಿದೆ.
+    
+    ದಯವಿಟ್ಟು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.
