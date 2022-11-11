@@ -147,3 +147,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ບໍ່ມີການດາວໂຫລດໃນເຊສຊັນນີ້.
+
+## Download errors
+
+downloads-error-alert-title = ມີຂໍ້ຜິດພາດໃນການດາວໂຫລດ
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    ບໍ່ສາມາດບັນທຶກການດາວໂຫລດນີ້ໄດ້ເພາະວ່າເກີດມີຂໍ້ພິດຜາດທີ່ບໍ່ຮູ້ຈັກຂື້ນ.
+    
+    ກະລຸນາລອງໃຫມ່ອີກຄັ້ງ.
