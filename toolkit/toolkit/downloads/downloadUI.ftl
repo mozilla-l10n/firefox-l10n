@@ -42,6 +42,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = Отворити извршну датотеку?
 # Variables:
 #   $executable (String): The executable file to be opened.
 download-ui-file-executable-security-warning = „{ $executable }‟ је извршива датотека. Извршиве датотеке могу садржати вирусе или други злонамеран код, који може да оштети рачунар. Будите пажљиви при отварању ове датотеке. Да ли заиста желите да покренете датотеку „{ $executable }‟?
