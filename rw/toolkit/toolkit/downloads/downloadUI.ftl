@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Nuvamo ubu, igikururwa 1 kirahagarikwa. Urashaka koko kuvamo?
        *[other] Nuvamo ubu, ibikururwa { $downloadsCount } birahagarikwa. Urashaka koko kuvamo?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Nta Kuvamo
+       *[other] Nta Kuvamo
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Nuva kuri Interineti ubu, igikururwa 1 kirahagarikwa. Urashaka koko kuvaho?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Gufungura Dosiye Ikoreshwa?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" ni dosiye ikoreshwa. Dosiye zikoreshwa zishobora zirimo virusi cyangwa izindi porogaramu zishobora kwangiza mudasobwa yawe. Gushishoza igihe ufungura iyi dosiye. Urashaka koko gutangiza "{ $executable }"?
