@@ -216,7 +216,7 @@ firefoxview-spotlight-promo-secondarybutton = 跳过
 
 colorways-cfr-primarybutton = 选择配色
     .accesskey = C
-colorways-cfr-header-28days = “凡人之声”配色有效期至 1 月 16 日
+colorways-cfr-header-28days = “凡人之声”配色有效期至1月16日
 colorways-cfr-header-14days = “凡人之声”配色两周后到期
-colorways-cfr-header-7days = 凡人之声配色本周到期
-colorways-cfr-header-today = 凡人之声配色今日到期
+colorways-cfr-header-7days = “凡人之声”配色本周到期
+colorways-cfr-header-today = “凡人之声”配色今日到期
