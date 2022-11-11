@@ -26,6 +26,11 @@ download-utils-transfer-same-units = { $progress } من أصل { $total } { $tot
 #   $total (String): total number.
 #   $totalUnits (String): total unit.
 download-utils-transfer-diff-units = { $progress } { $progressUnits } من أصل { $total } { $totalUnits }
+# example: 111 KB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): unit.
+download-utils-transfer-no-total = ‏{ $progress } ‏{ $progressUnits }
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = مورد { $scheme }
