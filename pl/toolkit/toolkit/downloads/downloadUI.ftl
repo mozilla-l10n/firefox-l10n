@@ -11,7 +11,22 @@ download-ui-dont-quit-button =
         [mac] Nie zamykaj
        *[other] Nie kończ
     }
+download-ui-dont-go-offline-button = Pozostań w trybie online
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Zamknięcie wszystkich okien trybu prywatnego teraz spowoduje przerwanie pobierania 1 pliku. Czy na pewno opuścić tryb prywatny?
+       *[other] Zamknięcie wszystkich okien trybu prywatnego teraz spowoduje przerwanie pobierania { $downloadsCount } plików. Czy na pewno opuścić tryb prywatny?
+    }
+download-ui-dont-leave-private-browsing-button = Pozostań w trybie prywatnym
+download-ui-cancel-downloads-ok =
+    { $downloadsCount ->
+        [1] Anuluj pobieranie 1 pliku
+       *[other] Anuluj pobieranie { $downloadsCount } plików
+    }
 
 ##
 
 download-ui-file-executable-security-warning-title = Uruchamianie pliku wykonywalnego!
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = „{ $executable }” jest plikiem wykonywalnym. Pliki wykonywalne mogą zawierać wirusy lub inny niebezpieczny kod, który mógłby uszkodzić komputer. Zaleca się zachowanie ostrożności przy otwieraniu plików tego typu. Czy na pewno uruchomić „{ $executable }”?
