@@ -34,6 +34,13 @@ download-utils-short-days =
 #   $rate (String): rate number.
 #   $unit (String): rate unit.
 download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/sec)
+# If download speed is a JavaScript Infinity value, this phrase is used
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB (Really fast)
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (Pya’e, pya’eterei)
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB
 # Variables:
@@ -50,6 +57,13 @@ download-utils-gigabyte = GB
 #   $total (String): total number.
 #   $totalUnits (String): total unit.
 download-utils-transfer-same-units = { $progress } of { $total } { $totalUnits }
+# example: 11.1 MB of 3.3 GB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): progress unit.
+#   $total (String): total number.
+#   $totalUnits (String): total unit.
+download-utils-transfer-diff-units = { $progress } { $progressUnits }-gui { $total } { $totalUnits }
 # example: 111 KB
 # Variables:
 #   $progress (String): progress number.
@@ -69,6 +83,11 @@ download-utils-time-left-single = { $time } left
 #   $time1 (String): time left, including a unit
 #   $time2 (String): smaller measure of time left, including a unit
 download-utils-time-left-double = { $time1 } { $time2 } left
+download-utils-time-few-seconds = Og̃uahẽ’íntema
+download-utils-time-unknown = Ára jekuaa’ỹva
+# Variables:
+#   $scheme (String): URI scheme like data: jar: about:
+download-utils-done-scheme = { $scheme } mba’e
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = marandurenda pypeguáva
