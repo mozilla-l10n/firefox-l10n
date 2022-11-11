@@ -219,6 +219,8 @@ firefoxview-spotlight-promo-secondarybutton = Geç
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Renk kuşağını seç
+    .accesskey = R
 colorways-cfr-header-28days = Bağımsız Sesler renk kuşakları 16 Ocak’ta kullanımdan kalkıyor
 colorways-cfr-header-14days = Bağımsız Sesler renk kuşakları iki hafta sonra kullanımdan kalkıyor
 colorways-cfr-header-7days = Bağımsız Sesler renk kuşakları bu hafta kullanımdan kalkıyor
