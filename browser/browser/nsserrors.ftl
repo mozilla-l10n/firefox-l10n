@@ -12,20 +12,18 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } වෙත සම්බන්ධතාවයක් අතරතුර දෝෂයක් සිදු විය. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = දෝෂ කේතය: { $error }
-
 psmerr-ssl-disabled = SSL කෙටුම්පත අබල නිසා ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය.
 psmerr-ssl2-disabled = අඩවිය මගින් SSL කෙටුම්පතෙහි පරණ, අනාරක්‍ෂිත අනුවාදයක් භාවිතා කරන නිසා ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     ඔබට වලංගු නොවන සහතිකයක් ලැබී ඇත. සේවාදායක පරිපාලක හෝ ලියුම්කරු අමතා ඔවුන්ට පහත තොරතුරු සපයන්න:
     
     සහතික අධිකාරිය විසින් නිකුත් කරන ලද තවත් සහතිකයකට සමාන අනුක්‍රමික අංකයක් ඔබගේ සහතිකයේ අඩංගු වේ. අනන්‍ය අනුක්‍රමික අංකයක් අඩංගු නව සහතිකයක් ගන්න.
-
+ssl-error-export-only-server = ආරක්‍ෂිතව සන්නිවේදනය කිරීමට නොහැකිය. ඉහළ ශ්‍රේණියේ සංකේතනයට සාමානය සහාය නොදක්වයි.
+ssl-error-us-only-server = ආරක්‍ෂිතව සන්නිවේදනය කිරීමට නොහැකිය. දැනට සහාය නොදක්වන ඉහළ ශ්‍රේණියක සංකේතනයක් සාමානයට වුවමනා වේ.
 ssl-error-no-certificate = සත්‍යාපනය සඳහා අවශ්‍ය සහතිකය හෝ යතුර සොයා ගැනීමට නොහැකි විය.
 ssl-error-bad-client = අනුග්‍රාහකයේ නරක දත්ත සේවාදායකයට සමාසදය වී ඇත.
 ssl-error-bad-server = අනුග්‍රාහකයේ නරක දත්ත සේවාදායකයට සමාසදය වී ඇත.
