@@ -26,6 +26,27 @@ download-utils-short-days =
         [one] d
        *[other] d
     }
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+#   $rate (String): rate number.
+#   $unit (String): rate unit.
+download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/sec)
+# If download speed is a JavaScript Infinity value, this phrase is used
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB (Really fast)
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (Napakabilis)
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+download-utils-status-no-rate = { $timeLeft } — { $transfer }
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
