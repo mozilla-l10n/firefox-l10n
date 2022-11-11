@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Eraro dum elŝuto
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Ne eblas konservi la elŝuton ĉar ĝi estas blokita de { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Ne eblas konservi la elŝuton ĉar ĝi estas blokita de etendaĵo.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     La elŝuto ne povis esti konservita ĉar nekonata eraro okazis.
