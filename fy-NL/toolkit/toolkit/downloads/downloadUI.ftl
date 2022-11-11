@@ -12,6 +12,7 @@ download-ui-dont-quit-button =
        *[other] Net ôfslute
     }
 download-ui-dont-go-offline-button = Ferbining beëinige
+download-ui-dont-leave-private-browsing-button = Yn priveenavigaasje bliuwe
 
 ##
 
