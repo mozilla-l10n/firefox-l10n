@@ -88,5 +88,8 @@ download-utils-time-unknown = Óþekktur tími eftir
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } tilfang
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+download-utils-done-file-scheme = staðbundin skrá
 # Displayed time for files finished yesterday
 download-utils-yesterday = Í gær
