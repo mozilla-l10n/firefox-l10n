@@ -176,6 +176,11 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Xsach toq tajin nuqasaj
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Man nitikïr ta niyak ri qasanïk, q'aton ruma { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Man nitikïr ta niyak ri qasanïk, q'aton ruma jun k'amal.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Man tikirel ta niyak ri qasanïk ruma xk'ulwachitäj jun sachoj ri ma etaman ta ruwäch.
