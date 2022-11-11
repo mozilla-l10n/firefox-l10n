@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Nedlastingsfeil
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Nedlastingen kan ikke lagres fordi den er blokkert av { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Nedlastingen kan ikke lagres fordi den er blokkert av en utvidelse.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Nedlastingen kan ikke lagres fordi en ukjent feil oppstod.
