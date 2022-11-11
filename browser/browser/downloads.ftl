@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Letöltési hiba
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = A letöltést nem lehet menteni, mert a(z) { $extension } blokkolja.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = A letöltést nem lehet menteni, mert egy kiegészítő blokkolja.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     A letöltés nem menthető, mert ismeretlen hiba történt.
