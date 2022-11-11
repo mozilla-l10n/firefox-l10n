@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Uma uyeka manje, ukulayisha ungenise okungu-1 kuzokhanselwa. Unesiqinisekiso sokuba ufuna ukuyeka?
        *[other] Uma uyeka manje, ukulayisha ungenise okungu-{ $downloadsCount } kuzokhanselwa. Unesiqinisekiso sokuba ufuna ukuyeka?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Ungayeki
+       *[other] Ungaphumi
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Uma uphuma ku-inthanethi manje, ukulayisha ungenise okungu-1 kuzokhanselwa. Unesiqinisekiso sokuba ufuna ukuphuma ku-inthanethi?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Vula ifayela okuzosetshenzelwa kulo?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = I-"{ $executable }" ifayela okusetshenzelwa kulo. Amafayela okusetshenzelwa kuwo angase abe nezifo noma enye ikhodi eyingozi engase ilimaze ikhompyutha yakho. Qapha lapho uvula le fayela. Unesiqinisekiso sokuba ufuna ukuqalisa i-"{ $executable }"?
