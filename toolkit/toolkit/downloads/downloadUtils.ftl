@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds =
+    { $timeValue ->
+        [one] с
+        [few] с
+       *[many] с
+    }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] хв
+        [few] хв
+       *[many] хв
+    }
+# Short form for hours
+download-utils-short-hours =
+    { $timeValue ->
+        [one] г
+        [few] г
+       *[many] г
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] д
+        [few] д
+       *[many] д
+    }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -23,14 +51,44 @@ download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (Дуже 
 #   $timeLeft (String): time left.
 #   $transfer (String): transfer progress.
 download-utils-status-no-rate = { $timeLeft } — { $transfer }
+download-utils-bytes = байт
 download-utils-kilobyte = Кб
 download-utils-megabyte = Мб
 download-utils-gigabyte = Гб
+# example: 1.1 of 333 MB
+# Variables:
+#   $progress (String): progress number.
+#   $total (String): total number.
+#   $totalUnits (String): total unit.
+download-utils-transfer-same-units = { $progress } із { $total } { $totalUnits }
+# example: 11.1 MB of 3.3 GB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): progress unit.
+#   $total (String): total number.
+#   $totalUnits (String): total unit.
+download-utils-transfer-diff-units = { $progress } { $progressUnits } із { $total } { $totalUnits }
 # example: 111 KB
 # Variables:
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# examples: 1m; 11h
+# Variables:
+#   $time (String): time number.
+#   $unit (String): time unit.
+download-utils-time-pair = { $time }{ $unit }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = Залишилось { $time }
+# examples: 11h 2m left; 1d 22h left
+# Variables:
+#   $time1 (String): time left, including a unit
+#   $time2 (String): smaller measure of time left, including a unit
+download-utils-time-left-double = Залишилось { $time1 } { $time2 }
+download-utils-time-few-seconds = Залишилось кілька секунд
+download-utils-time-unknown = Час невідомий
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } ресурс
