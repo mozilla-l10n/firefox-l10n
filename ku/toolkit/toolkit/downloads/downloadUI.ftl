@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Heke vêga derkevî dê daxistin betal bibe. Ji dil dixwazî derkevî?
        *[other] Heke vêga derkevî dê daxistina { $downloadsCount } pelan betal bibe. Ji dil dixwazî derkevî?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Dernekeve
+       *[other] Dernekeve
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Heke vêga bibî negirêdayî dê 1 daxistina pelî bê betalkirin. Ji dil dixwazî derkevî?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Bila pela tê xebitandin vebe?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" peleke xebatê ye. Pelên wisa dibe ku bi virûs bin û xesarê bidin komputera te. Di vekirina pelên wisa de hişyar be. Ji dil dixwazî vêga pela { $executable } 'ê vekî?
