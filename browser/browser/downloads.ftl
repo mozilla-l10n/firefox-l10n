@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Downloadfout
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = De download kan niet worden opgeslagen, omdat deze door { $extension } wordt geblokkeerd.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = De download kan niet worden opgeslagen, omdat deze door een extensie wordt geblokkeerd.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     De download kan niet worden opgeslagen, omdat een onbekende fout is opgetreden.
