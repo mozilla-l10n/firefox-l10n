@@ -216,3 +216,13 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Error de telecargament
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = { $extension } bloca l’enregistrament del telecargament.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Enregistrament impossible del telecargat pr’amor qu’una extension lo bloca.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Lo telecargament pòt pas èsser enregistrat perque una error desconeguda s'es producha.
+    
+    Ensajatz tornarmai.
