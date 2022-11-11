@@ -36,6 +36,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = לפתוח את הקובץ בר ההרצה?
 # Variables:
 #   $executable (String): The executable file to be opened.
 download-ui-file-executable-security-warning = "{ $executable }" הוא קובץ בר הרצה. קבצים ברי הרצה עלולים להכיל וירוסים או קוד מסוכן אחר שיכול לגרום נזק למחשב שלך. עליך לנהוג בזהירות בעת פתיחת קובץ זה. האם להפעיל את "{ $executable }"?
