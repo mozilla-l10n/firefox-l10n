@@ -220,6 +220,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Ześěgnjeńska zmólka
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Ześěgnjenje njedajo se składowaś, dokulaž se pśez { $extension } blokěrujo.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Ześěgnjenje njedajo se składowaś, dokulaž se pśez rozšyrjenje blokěrujo.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Ześěgnjenje njedajo se składowaś, dokulaž njeznata zmólka jo nastała.
