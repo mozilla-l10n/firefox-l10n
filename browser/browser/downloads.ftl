@@ -216,3 +216,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = ਡਾਊਨਲੋਡ ਗਲਤੀ
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    ਡਾਊਨਲੋਡ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਇੱਕ ਅਣਜਾਣ ਗਲਤੀ ਆਈ ਹੈ।
+    
+    ਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।
