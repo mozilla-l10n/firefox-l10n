@@ -131,3 +131,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Aflaaifout
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Die afgelaaide lêer kan nie gestoor word nie, aangesien 'n onbekende fout plaasgevind het.
+    
+    Probeer gerus weer.
