@@ -83,6 +83,8 @@ download-utils-time-left-single = { $time } बचा है
 #   $time1 (String): time left, including a unit
 #   $time2 (String): smaller measure of time left, including a unit
 download-utils-time-left-double = { $time1 } { $time2 } बचा है
+download-utils-time-few-seconds = कुछ क्षण शेष
+download-utils-time-unknown = अज्ञात समय शेष
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } संसाधन
