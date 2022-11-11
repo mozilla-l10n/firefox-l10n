@@ -214,6 +214,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Жүктелу қатесі
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Жүктемені сақтау мүмкін емес, себебі оны { $extension } бұғаттады.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Жүктемені сақтау мүмкін емес, себебі оны кеңейту бұғаттады.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Жүктелу сақталмайды, өйткені белгісіз қате орын алды.
