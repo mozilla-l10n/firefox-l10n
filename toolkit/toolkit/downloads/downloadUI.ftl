@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] ਜੇ ਤੁਸੀਂ ਹੁਣੇ ਆਫਲਾਈਨ ਹੋਏ ਤਾਂ { $downloadsCount } ਡਾਊਨਲੋਡ ਰੱਦ ਕੀਤੇ ਜਾਣਗੇ। ਕੀ ਤੁਸੀਂ ਆਫਲਾਈਨ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ?
     }
 download-ui-dont-go-offline-button = ਆਨਲਾਈਨ ਰਹੋ
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] ਜੇ ਤੁਸੀਂ ਹੁਣੇ ਸਭ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਬੰਦ ਕੀਤੀਆਂ ਤਾਂ 1 ਡਾਊਨਲੋਡ ਨੂੰ ਰੱਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਨੂੰ ਛੱਡਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+       *[other] ਜੇ ਤੁਸੀਂ ਹੁਣੇ ਸਭ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਬੰਦ ਕੀਤੀਆਂ ਤਾਂ { $downloadsCount } ਡਾਊਨਲੋਡ ਨੂੰ ਰੱਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਨੂੰ ਛੱਡਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+    }
+download-ui-dont-leave-private-browsing-button = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੱਚ ਰਹੋ
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ਡਾਊਨਲੋਡ ਰੱਦ ਕਰੋ
@@ -36,3 +42,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = ਚੱਲਣਯੋਗ ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" ਇੱਕ ਚੱਲਣਯੋਗ ਫਾਈਲ ਹੈ। ਚੱਲਣਯੋਗ ਫਾਈਲਾਂ ਵਿੱਚ ਵਾਇਰਸ ਹੋ ਸਕਦੇ ਹਨ ਜਾਂ ਹੋਰ ਖਰਾਬ ਕੋਡ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਨੁਕਸਾਨ ਪੁਚਾ ਸਕਦੇ ਹਨ। ਇਸ ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਧਿਆਨ ਰੱਖੋ। ਕੀ ਤੁਸੀਂ "{ $executable }" ਨੂੰ ਚਲਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
