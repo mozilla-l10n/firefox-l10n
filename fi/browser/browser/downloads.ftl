@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Latausvirhe
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Tätä latausta ei voi tallentaa, koska laajennus { $extension } estää sen.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Tätä latausta ei voi tallentaa, koska laajennus estää sen.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Latauksen tallennus ei onnistunut tuntemattomasta syystä.
