@@ -45,6 +45,10 @@ download-utils-transfer-diff-units = { $progress } { $progressUnits } dari { $to
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = { $time } tersisa
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = sumber daya { $scheme }
