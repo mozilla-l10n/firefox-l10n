@@ -23,6 +23,12 @@ download-ui-dont-quit-button =
        *[other] დარჩენა
     }
 download-ui-dont-go-offline-button = ხაზზე დარჩენა
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] თუ პირადი დათვალიერების ყველა ფანჯარას დახურავთ, 1 ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ პირადი დათვალიერების დატოვება?
+       *[other] თუ პირადი დათვალიერების ყველა ფანჯარას დახურავთ, { $downloadsCount } ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ პირადი დათვალიერების დატოვება?
+    }
+download-ui-dont-leave-private-browsing-button = პირად დათვალიერებაში დარჩენა
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ჩამოტვირთვის გაუქმება
