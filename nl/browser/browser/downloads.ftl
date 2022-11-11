@@ -216,3 +216,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Downloadfout
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    De download kan niet worden opgeslagen, omdat een onbekende fout is opgetreden.
+    
+    Probeer het opnieuw.
