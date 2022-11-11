@@ -29,6 +29,7 @@ about-processes-extension-process = Forritsaukar ({ $pid })
 about-processes-plugin-process = Tengiforrit ({ $pid })
 about-processes-gmp-plugin-process = Gecko Media tengiforrit ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
+about-processes-socket-process = Netkerfi ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
