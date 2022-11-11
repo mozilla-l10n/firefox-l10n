@@ -222,6 +222,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Chyba stahování
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Stahovaný soubor nelze uložit, protože byl zablokován rozšířením { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Stahovaný soubor nelze uložit, protože byl zablokován rozšířením.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Nastala neznámá chyba a stahovaný soubor se nepodařilo uložit.
