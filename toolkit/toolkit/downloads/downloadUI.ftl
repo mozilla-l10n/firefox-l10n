@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Ef þú vinnur án nettengingar, verður { $downloadsCount } niðurhölum eytt. Ertu viss um að þú viljir hætta?
     }
 download-ui-dont-go-offline-button = Vera nettengdur
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ef þú lokar öllum huliðsgluggum, þá verður hætt við 1 niðurhal. Ertu viss um að þú viljir hætta í huliðsstillingu?
+       *[other] Ef þú lokar öllum huliðsgluggum, þá verður hætt við { $downloadsCount } niðurhöl. Ertu viss um að þú viljir hætta í huliðsstillingu?
+    }
+download-ui-dont-leave-private-browsing-button = Vera áfram í huliðsstillingu
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Hætta við 1 niðurhal
@@ -37,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Opna keyranlega skrá?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = “{ $executable }” er keyranleg skrá. Keyranlegar skrár geta innihaldið vírusa eða annan skaðlegan kóða sem gæti skemmt tölvuna. Farðu varlega þegar þú opnar þessa skrá. Ertu viss um að þú viljir keyra “{ $executable }”?
