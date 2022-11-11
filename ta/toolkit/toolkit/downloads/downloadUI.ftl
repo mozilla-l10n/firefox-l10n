@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] இப்போது வெளியேறினால், 1 பதிவிறக்கம் ரத்து செய்யப்படும். வெளியேறவிருப்பமா?
        *[other] இப்போது வெளியேறினால், { $downloadsCount } பதிவிறக்கங்கள் ரத்து செய்யப்படும். வெளியேற விருப்பமா?
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] இணைய இணைப்பிலிருந்து வெளியேறினால், 1 பதிவிறக்கம் ரத்து செய்யப்படும். இணையத்திலிருந்து வெளியேற விருப்பமா?
+       *[other] இணைய இணைப்பிலிருந்து வெளியேறினால், { $downloadsCount } பதிவிறக்கங்கள் ரத்து செய்யப்படும். இணையத்திலிருந்து வெளியேற விருப்பமா?
+    }
 download-ui-dont-go-offline-button = இணையத்தில் இருக்கவும்
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
