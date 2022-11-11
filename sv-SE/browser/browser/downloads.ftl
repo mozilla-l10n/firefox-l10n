@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Filhämtningsfel
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Nedladdningen kan inte sparas eftersom den blockeras av { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Nedladdningen kan inte sparas eftersom den blockeras av ett tillägg.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Filhämtningen kan inte sparas eftersom ett okänt fel har uppstått.
