@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = ਡਾਊਨਲੋਡ ਗਲਤੀ
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = { $extension } ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਏ ਜਾਣ ਕਰਕੇ ਡਾਊਨਲੋਡ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = ਇਕਸਟੈਨਸ਼ਨ ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਏ ਜਾਣ ਕਰਕੇ ਡਾਊਨਲੋਡ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     ਡਾਊਨਲੋਡ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਇੱਕ ਅਣਜਾਣ ਗਲਤੀ ਆਈ ਹੈ।
