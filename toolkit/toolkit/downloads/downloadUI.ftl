@@ -6,6 +6,7 @@
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-dont-leave-private-browsing-button = Permanecer na navegação privativa
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Cancelar download
