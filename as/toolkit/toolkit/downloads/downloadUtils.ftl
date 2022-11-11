@@ -45,6 +45,16 @@ download-utils-transfer-diff-units = { $total } { $totalUnits } ৰ { $progress 
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = { $time } বাকী
+# examples: 11h 2m left; 1d 22h left
+# Variables:
+#   $time1 (String): time left, including a unit
+#   $time2 (String): smaller measure of time left, including a unit
+download-utils-time-left-double = { $time1 } { $time2 } বাকী
+download-utils-time-few-seconds = কিছু ছেকেণ্ড বাকী
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } সম্পদ
