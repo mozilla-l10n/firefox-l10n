@@ -220,6 +220,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Sćehnjenski zmylk
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Sćehnjenje njeda so składować, dokelž so přez { $extension } blokuje.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Sćehnjenje njeda so składować, dokelž so přez rozšěrjenje blokuje.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Sćehnjenje njeda so składować, dokelž njeznaty zmylk je wustupił.
