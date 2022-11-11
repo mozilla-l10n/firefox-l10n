@@ -16,10 +16,21 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] אם תצא עכשיו, ההורדה תבוטל. האם אתה בטוח שברצונך לצאת?
        *[other] אם תצא עכשיו, { $downloadsCount } הורדות יבוטלו. האם אתה בטוח שברצונך לצאת?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] אל תצא
+       *[other] אל תצא
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] אם תעבור כעת למצב לא מקוון, הורדה אחת תבוטל. האם אתה בטוח שאתה רוצה לעבור כעת למצב לא מקוון?
        *[other] אם תעבור כעת למצב לא מקוון, { $downloadsCount } הורדות יבוטלו. האם אתה בטוח שאתה רוצה לעבור כעת למצב לא מקוון?
+    }
+download-ui-dont-go-offline-button = הישאר מקוון
+download-ui-cancel-downloads-ok =
+    { $downloadsCount ->
+        [1] בטל הורדה אחת
+       *[other] בטל { $downloadsCount } הורדות
     }
 
 ##
