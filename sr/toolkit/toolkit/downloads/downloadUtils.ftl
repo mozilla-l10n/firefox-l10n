@@ -45,6 +45,12 @@ download-utils-transfer-diff-units = { $progress } { $progressUnits } од { $to
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# examples: 1m; 11h
+# Variables:
+#   $time (String): time number.
+#   $unit (String): time unit.
+download-utils-time-pair = { $time }{ $unit }
+download-utils-time-few-seconds = Неколико секунди
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } ресурс
