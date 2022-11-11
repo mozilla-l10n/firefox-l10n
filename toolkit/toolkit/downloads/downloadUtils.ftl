@@ -10,6 +10,13 @@
 #   $rate (String): rate number.
 #   $unit (String): rate unit.
 download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/sec)
+# If download speed is a JavaScript Infinity value, this phrase is used
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB (Really fast)
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (সঁচাকৈ দ্ৰুত)
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB
 # Variables:
@@ -20,6 +27,19 @@ download-utils-bytes = বাইটসমূহ
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
+# example: 1.1 of 333 MB
+# Variables:
+#   $progress (String): progress number.
+#   $total (String): total number.
+#   $totalUnits (String): total unit.
+download-utils-transfer-same-units = { $total } { $totalUnits } ৰ { $progress }
+# example: 11.1 MB of 3.3 GB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): progress unit.
+#   $total (String): total number.
+#   $totalUnits (String): total unit.
+download-utils-transfer-diff-units = { $total } { $totalUnits } ৰ { $progress } { $progressUnits }
 # example: 111 KB
 # Variables:
 #   $progress (String): progress number.
