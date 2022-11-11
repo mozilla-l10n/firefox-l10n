@@ -12,6 +12,11 @@ download-ui-confirm-quit-cancel-downloads =
         [1] As jo no ôfslute, sil 1 download annulearre wurde. Binne jo der wis fan dat jo ôfslute wolle?
        *[other] As jo no ôfslute, sil { $downloadsCount } download annulearre wurde. Binne jo der wis fan dat jo ôfslute wolle?
     }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] As jo no stopje, wurdt it downloaden annulearre. Binne jo der wis fan dat jo stopje wolle?
+       *[other] As jo no stopje , wurde { $downloadsCount } downloadsesjes annulearre. Binne jo wis dat jo stopje wolle?
+    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] Net ôfslute
@@ -38,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Utfierber bestân iepenje?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = ‘{ $executable }’ is in útfierber bestân. Utfierbere bestannen kinne firussen of oare koade befetsje dy’t skealik wêze kinne foar jo kompjûter. Wês foarsichtich mei it iepenjen fan dit bestân. Binne jo wis dat jo ‘{ $executable }’ starte wolle?
