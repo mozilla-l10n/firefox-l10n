@@ -200,6 +200,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Greška pri preuzimanju
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Preuzimanje se ne može spremiti jer ga blokira { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Preuzimanje se ne može spremiti jer ga blokira proširenje.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Ovo preuzimanje se ne može spremiti zbog nepoznate greške.
