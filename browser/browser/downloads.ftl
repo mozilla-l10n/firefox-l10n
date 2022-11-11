@@ -199,3 +199,7 @@ downloads-more-downloading =
         [few] Încă { $count } fișiere în descărcare
        *[other] Încă { $count } de fișiere  în descărcare
     }
+
+## Download errors
+
+downloads-error-alert-title = Eroare de descărcare
