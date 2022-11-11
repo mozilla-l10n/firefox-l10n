@@ -216,3 +216,13 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Erro no download
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = O download não pode ser salvo porque está bloqueado por { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = O download não pode ser salvo porque está bloqueado por uma extensão.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    O arquivo não pôde ser salvo porque ocorreu um erro desconhecido.
+    
+    Tente novamente.
