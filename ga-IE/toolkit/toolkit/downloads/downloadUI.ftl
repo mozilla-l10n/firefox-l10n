@@ -10,3 +10,4 @@ download-ui-dont-go-offline-button = Fan ar líne
 
 ##
 
+download-ui-file-executable-security-warning-title = An bhfuil comhad inrite a oscailt?
