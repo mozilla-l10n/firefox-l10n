@@ -137,3 +137,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Endirmə Səhvi
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Naməlum bir xəta yarandığı üçün endirilən fayl saxlana bilmir.
+    
+    Lütfən təkrar yoxlayın.
