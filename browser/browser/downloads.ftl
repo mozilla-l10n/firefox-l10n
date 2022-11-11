@@ -136,6 +136,7 @@ downloads-panel-empty =
 
 ## Download errors
 
+downloads-error-alert-title = ડાઉનલોડ ભૂલ
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     ડાઉનલોડ સંગ્રહી શકાશે નહિં કારણ કે અજ્ઞાત ભૂલ ઉદ્ભવી.
