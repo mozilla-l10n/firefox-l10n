@@ -6,6 +6,9 @@ download-utils-bytes = بایت
 download-utils-kilobyte = کیلوبایت
 download-utils-megabyte = مگابایت
 download-utils-gigabyte = گیگابایت
+# Variables:
+#   $scheme (String): URI scheme like data: jar: about:
+download-utils-done-scheme = { $scheme } منبع
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = پروندهٔ محلی
