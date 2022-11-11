@@ -43,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Орындалатын файлды ашу керек пе?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" орындалатын файл болып табылады. Орындалатын файлдардың ішінде вирустар немесе басқа арамдық мақсаттарымен жасалған зиянды код болуы мүмкін. Осы файлды ашқанда мұқият болыңыз. "{ $executable }" файлын орындау керек пе?
