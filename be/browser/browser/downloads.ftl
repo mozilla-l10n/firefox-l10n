@@ -218,6 +218,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Памылка сцягвання
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Сцягванне нельга захаваць, бо яно блакуецца { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Сцягванне нельга захаваць, бо яно блакуецца пашырэннем.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Немагчыма захаваць загружаны файл, бо здарылася невядомая памылка.
