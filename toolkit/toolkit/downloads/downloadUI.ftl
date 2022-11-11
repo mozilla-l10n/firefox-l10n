@@ -2,16 +2,43 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+download-ui-confirm-title = Zrušiť sťahovanie všetkých súborov?
 
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ak teraz skončíte, zruší sa sťahovanie 1 súboru. Naozaj chcete skončiť?
+       *[other] Ak teraz skončíte, zruší sa niekoľko sťahovaní súborov (celkom { $downloadsCount }). Naozaj chcete skončiť?
+    }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Ak teraz skončíte, zruší sa sťahovanie 1 súboru. Naozaj chcete skončiť?
+       *[other] Ak teraz skončíte, zruší sa niekoľko sťahovaní súborov (celkom { $downloadsCount }). Naozaj chcete skončiť?
+    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] Nie, pokračovať
        *[other] Nie, pokračovať
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ak sa teraz prepnete do režimu offline, zruší sa sťahovanie 1 súboru. Naozaj chcete prepnúť do režimu offline?
+       *[other] Ak sa teraz prepnete do režimu offline, zruší sa niekoľko sťahovaní súborov (celkom { $downloadsCount }). Naozaj chcete prepnúť do režimu offline?
+    }
 download-ui-dont-go-offline-button = Nie, zostať v režime online
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ak teraz zavriete všetky súkromné okná, zruší sa sťahovanie 1 súboru. Naozaj chcete opustiť režim súkromného prehliadania?
+       *[other] Ak teraz zavriete všetky súkromné okná, zruší sa niekoľko sťahovaní súborov (celkom { $downloadsCount }). Naozaj chcete opustiť režim súkromného prehliadania?
+    }
+download-ui-dont-leave-private-browsing-button = Zostať v súkromnom prehliadaní
+download-ui-cancel-downloads-ok =
+    { $downloadsCount ->
+        [1] Áno, zrušiť sťahovanie súboru
+       *[other] Áno, zrušiť sťahovanie súborov (celkom { $downloadsCount })
+    }
 
 ##
 
