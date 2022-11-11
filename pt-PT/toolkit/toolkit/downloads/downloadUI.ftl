@@ -11,6 +11,8 @@ download-ui-dont-quit-button =
         [mac] Não sair
        *[other] Não sair
     }
+download-ui-dont-go-offline-button = Ficar online
+download-ui-dont-leave-private-browsing-button = Ficar na navegação privada
 
 ##
 
