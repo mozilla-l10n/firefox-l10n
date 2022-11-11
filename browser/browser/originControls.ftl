@@ -29,3 +29,4 @@ origin-controls-option-always-on =
 origin-controls-state-no-access = לא יכולה לקרוא ולשנות נתונים באתר זה
 origin-controls-state-always-on = תמיד יכולה לקרוא ולשנות נתונים באתר זה
 origin-controls-state-when-clicked = נדרשת הרשאה כדי לקרוא ולשנות נתונים
+origin-controls-state-hover-run-visit-only = להריץ לביקור זה בלבד
