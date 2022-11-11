@@ -28,6 +28,7 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] আপুনি এতিয়া অফলাইন হ'লে, { $downloadsCount } ডাউনল'ড বাতিল হ'ব। আপুনি অফলাইন হ'বলৈ নিশ্চিত নে?
     }
 download-ui-dont-go-offline-button = অনলাইন থাকক
+download-ui-dont-leave-private-browsing-button = ব্যক্তিগত ব্ৰাউজিঙত থাকক
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] ১ টা ডাউনল'ড বাতিল কৰক
