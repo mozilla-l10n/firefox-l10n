@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Sɛ wo gyae seiseiara a, ntwe baako so betwa. Wo gye di sɛ wo pɛ sɛ wo gyae?
        *[other] Sɛ wo gyae seiseiara a, ntwe { $downloadsCount } so betwa. Wo gye di sɛ wo pɛ sɛ wo gyae?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Mma Nngyae
+       *[other] Mma Mmpue
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Sɛ wo kɔ ɔflaen seiseiara a, wɔbetwa ntwe baako. Wo gye di sɛ wo pɛ sɛ wo kɔ ɔflaen?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Bue Fael Ɛksɛkutabel?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" yɛ fael eksɛkutabel. Mfael eksɛkutabel tumi wɔ vaerɔs ne sɔftwɛɛ a wɔhaw adwen na wotumi haw wo kɔmputa. Hwɛ fael a worebue no yie. Wo gyi di sɛ wo pɛ sɛ wo hyɛ "{ $executable }" ase?
