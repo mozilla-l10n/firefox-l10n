@@ -28,3 +28,5 @@ unified-extensions-context-menu-manage-extension =
     .label = Eñangareko jepysokuére
 unified-extensions-context-menu-remove-extension =
     .label = Emboguete jepysokue
+unified-extensions-context-menu-report-extension =
+    .label = Morandu’i jepysokue
