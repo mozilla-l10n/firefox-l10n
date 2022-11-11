@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Erro de transferência
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = A transferência não pôde ser guardada porque está a ser bloqueada por { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = A transferência não pôde ser guardada porque está a ser bloqueada por uma extensão.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Não foi possível guardar a transferência devido a um erro desconhecido.
