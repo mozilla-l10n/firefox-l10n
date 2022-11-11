@@ -137,3 +137,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Huulre Aawtagol
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Gaawtol ngol waawaa danndeede sabu juumre nde anndaaka waɗii.
+    
+    Tiiɗno fuɗɗito.
