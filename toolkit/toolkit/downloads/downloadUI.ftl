@@ -17,12 +17,23 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Шығатын болсаңыз, бір жүктелу аяқталмайды. Шынымен шығу керек пе?
        *[other] Шығатын болсаңыз, бірнеше ({ $downloadsCount }) жүктелу аяқталмайды. Шынымен шығу керек пе?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Шықпау
+       *[other] Шықпау
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Дербес жұмыс істеу режиміне өту кезінде бір жүктелу аяқталмай қалады. Шынымен осыны қалайсыз ба?
        *[other] Дербес жұмыс істеу режиміне өту кезінде бірнеше ({ $downloadsCount }) жүктелу аяқталмай қалады. Шынымен осыны қалайсыз ба?
     }
 download-ui-dont-go-offline-button = Байланысты үзбеу
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Егер қазір барлық жекелік шолу терезелерін жапсаңыз, 1 жүктемеден бас тартылады. Жекелік шолу режимінен шығуды шынымен қалайсыз ба?
+       *[other] Егер қазір барлық жекелік шолу терезелерін жапсаңыз, { $downloadsCount } жүктемеден бас тартылады. Жекелік шолу режимінен шығуды шынымен қалайсыз ба?
+    }
+download-ui-dont-leave-private-browsing-button = Жекелік шолу режимінде қалу
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Бір жүктелуді болдырмау
