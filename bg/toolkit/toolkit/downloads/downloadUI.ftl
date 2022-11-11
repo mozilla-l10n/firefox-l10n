@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Ако излезете извън мрежата, { $downloadsCount } изтегляния ще бъдат отменени. Искате ли да го направите?
     }
 download-ui-dont-go-offline-button = Оставане в Мрежата
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ако затворите всички поверителни прозорци, 1 изтегляне ще бъде отказано. Сигурни ли сте, че искате да напуснете поверителното разглеждане?
+       *[other] Ако затворите всички поверителни прозорци, { $downloadsCount } изтегляния ще бъдат отказани. Сигурни ли сте, че искате да напуснете поверителното разглеждане?
+    }
+download-ui-dont-leave-private-browsing-button = Оставане в поверително разглеждане
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Отмяна на 1 изтегляне
