@@ -47,6 +47,7 @@ download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (అతి
 #   $timeLeft (String): time left.
 #   $transfer (String): transfer progress.
 download-utils-status-no-rate = { $timeLeft } — { $transfer }
+download-utils-bytes = బైట్లు
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
@@ -68,6 +69,21 @@ download-utils-transfer-diff-units = మొత్తం { $total } { $totalUnits
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# examples: 1m; 11h
+# Variables:
+#   $time (String): time number.
+#   $unit (String): time unit.
+download-utils-time-pair = { $time }{ $unit }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = { $time } మిగిలివుంది
+# examples: 11h 2m left; 1d 22h left
+# Variables:
+#   $time1 (String): time left, including a unit
+#   $time2 (String): smaller measure of time left, including a unit
+download-utils-time-left-double = { $time1 } { $time2 } మిగిలివుంది
+download-utils-time-few-seconds = కొన్ని క్షణాలు మిగిలివుంది
 download-utils-time-unknown = మిగిలి ఉన్న సమయము తెలియదు
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
