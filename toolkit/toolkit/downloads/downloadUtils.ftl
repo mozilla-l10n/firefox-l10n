@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds =
+    { $timeValue ->
+        [one] с
+        [few] с
+       *[many] с
+    }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] хв
+        [few] хв
+       *[many] хв
+    }
+# Short form for hours
+download-utils-short-hours =
+    { $timeValue ->
+        [one] г
+        [few] г
+       *[many] г
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] д
+        [few] д
+       *[many] д
+    }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
