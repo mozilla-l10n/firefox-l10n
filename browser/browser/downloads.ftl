@@ -213,6 +213,7 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = Lỗi Tải Xuống
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Không thể lưu tập tin tải xuống vì có lỗi xảy ra.
