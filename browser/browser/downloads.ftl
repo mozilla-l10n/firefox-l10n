@@ -212,3 +212,7 @@ downloads-more-downloading =
         [one] { $count } پروندهٔ بیشتر در حال دریافت هستند
        *[other] { $count } پروندهٔ بیشتر در حال دریافت هستند
     }
+
+## Download errors
+
+downloads-error-alert-title = خطای بارگیری
