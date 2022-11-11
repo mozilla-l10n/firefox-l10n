@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Hentningsfejl
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Filhentningen kan ikke gemmes, fordi den er blokeret af { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Filhentningen kan ikke gemmes, fordi den er blokeret af en udvidelse.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Denne filhentning kan ikke gemmes på grund af en ukendt fejl.
