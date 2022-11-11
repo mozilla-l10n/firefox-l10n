@@ -81,6 +81,7 @@ downloads-list-empty =
 
 ## Download errors
 
+downloads-error-alert-title = Iphutha lokulayisha ungenise
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Ukulayisha ungenise akukwazi ukugcinwa ngaba kuvele iphutha elingaziwa.
