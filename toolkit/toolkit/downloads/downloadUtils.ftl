@@ -2,6 +2,30 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds =
+    { $timeValue ->
+        [one] ثانیه
+       *[other] ثانیه
+    }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] دقیقه
+       *[other] دقیقه
+    }
+# Short form for hours
+download-utils-short-hours =
+    { $timeValue ->
+        [one] ساعت
+       *[other] ساعت
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] روز
+       *[other] روز
+    }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -59,6 +83,8 @@ download-utils-time-left-single = { $time } باقی‌مانده
 #   $time1 (String): time left, including a unit
 #   $time2 (String): smaller measure of time left, including a unit
 download-utils-time-left-double = { $time1 } { $time2 } باقی‌مانده
+download-utils-time-few-seconds = چند ثانیه باقی‌مانده
+download-utils-time-unknown = زمان باقی‌مانده نامعلوم است
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } منبع
