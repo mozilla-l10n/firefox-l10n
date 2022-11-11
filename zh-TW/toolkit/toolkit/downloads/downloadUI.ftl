@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] 如果您現在進入離線模式，將會取消 { $downloadsCount } 項下載工作，您確定要繼續嗎？
     }
 download-ui-dont-go-offline-button = 保持連線
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] 如果您現在關閉所有隱私瀏覽視窗，將會取消 1 項下載工作，您確定要離開隱私瀏覽模式嗎？
+       *[other] 如果您現在關閉所有隱私瀏覽視窗，將會取消 { $downloadsCount } 項下載工作，您確定要離開隱私瀏覽模式嗎？
+    }
+download-ui-dont-leave-private-browsing-button = 留在隱私瀏覽模式
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 取消 1 項下載
