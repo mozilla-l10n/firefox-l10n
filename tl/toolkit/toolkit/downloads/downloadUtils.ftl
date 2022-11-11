@@ -47,6 +47,7 @@ download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (Napakabil
 #   $timeLeft (String): time left.
 #   $transfer (String): transfer progress.
 download-utils-status-no-rate = { $timeLeft } — { $transfer }
+download-utils-bytes = bytes
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
@@ -82,6 +83,7 @@ download-utils-time-left-single = { $time } ang natitira
 #   $time1 (String): time left, including a unit
 #   $time2 (String): smaller measure of time left, including a unit
 download-utils-time-left-double = { $time1 } { $time2 } ang natitira
+download-utils-time-few-seconds = Ilang segundo na lang ang natitira
 download-utils-time-unknown = Hindi alam na oras ang natitira
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
