@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Villa í niðurhali
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Ekki er hægt að vista niðurhalið vegna þess að { $extension } hindrar það.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Ekki er hægt að vista niðurhalið vegna þess að viðbót hindrar það.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Ekki hægt að vista niðurhalið því óþekkt villa kom upp.
