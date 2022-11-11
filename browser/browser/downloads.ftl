@@ -218,3 +218,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Błąd pobierania pliku
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Nie można zapisać pobieranego pliku z powodu nieznanego błędu.
+    
+    Należy spróbować ponownie.
