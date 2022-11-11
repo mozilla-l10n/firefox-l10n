@@ -215,6 +215,9 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = İndirme hatası
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = İndirme bir uzantı tarafından engellendiği için kaydedilemiyor.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Bilinmeyen bir hata oluştuğu için indirilen dosya kaydedilemiyor.
