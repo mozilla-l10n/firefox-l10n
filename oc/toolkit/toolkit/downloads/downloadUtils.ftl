@@ -2,6 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds =
+    { $timeValue ->
+        [one] s
+       *[other] s
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] j
+       *[other] j
+    }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -45,6 +57,17 @@ download-utils-transfer-diff-units = { $progress } { $progressUnits } sus { $tot
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# examples: 1m; 11h
+# Variables:
+#   $time (String): time number.
+#   $unit (String): time unit.
+download-utils-time-pair = { $time } { $unit }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = Manca { $time }
+download-utils-time-few-seconds = Lèu acabat
+download-utils-time-unknown = Lo temps que demòra es desconegut
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = Ressorsa { $scheme }
