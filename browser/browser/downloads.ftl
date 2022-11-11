@@ -215,6 +215,7 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = Error en la baixada
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     No pot desar-se la baixada perquè s'ha produït un error desconegut.
