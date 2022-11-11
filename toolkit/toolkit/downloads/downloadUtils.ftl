@@ -24,6 +24,9 @@ download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (ನಿಜ
 #   $transfer (String): transfer progress.
 download-utils-status-no-rate = { $timeLeft } — { $transfer }
 download-utils-bytes = ಬೈಟ್‌ಗಳು
+download-utils-kilobyte = KB
+download-utils-megabyte = MB
+download-utils-gigabyte = GB
 # example: 1.1 of 333 MB
 # Variables:
 #   $progress (String): progress number.
