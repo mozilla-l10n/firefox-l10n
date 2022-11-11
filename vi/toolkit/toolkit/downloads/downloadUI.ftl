@@ -25,3 +25,4 @@ download-ui-dont-go-offline-button = Vẫn Kết Nối
 
 ##
 
+download-ui-file-executable-security-warning-title = Mở Tập Tin Thực Thi?
