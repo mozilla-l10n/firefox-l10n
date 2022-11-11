@@ -79,6 +79,12 @@ perftools-thread-img-decoder =
     .title = Rrjedha shkodimi figurash
 perftools-thread-dns-resolver =
     .title = Ftillimi DNS ndodh në këtë rrjedhë
+perftools-thread-jvm-gecko =
+    .title = Rrjedha kryesore Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Rrjedha kryesore për SDK eksperimentesh Nimbus
+perftools-thread-jvm-glean =
+    .title = Rrjedha kryesore për SDK telemetrie Glean
 
 ##
 
