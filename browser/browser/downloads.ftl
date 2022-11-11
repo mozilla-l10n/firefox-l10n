@@ -142,6 +142,11 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Грешка во преземањето
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Преземањето не може да се зачува бидејќи е блокирано од { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Преземањето не може да се зачува бидејќи е блокирано од додаток.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Преземањето не може да се сними бидејќи настана непозната грешка.
