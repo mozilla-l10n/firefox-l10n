@@ -216,3 +216,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Villa í niðurhali
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Ekki hægt að vista niðurhalið því óþekkt villa kom upp.
+    
+    Reyndu aftur.
