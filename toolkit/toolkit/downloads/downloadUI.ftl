@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] এতিয়া প্ৰস্থান কৰিলে , ১ টা ডাউনল'ড বাতিল হ'ব। আপুনি প্ৰস্থান কৰিবলৈ নিশ্চিত নে?
        *[other] এতিয়া প্ৰস্থান কৰিলে, { $downloadsCount } ডাউনল'ড বাতিল হ'ব। আপুনি প্ৰস্থান কৰিবলৈ নিশ্চিত নে?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] প্ৰস্থান নকৰিব
+       *[other] প্ৰস্থান নকৰিব
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] আপুনি এতিয়া অফলাইন হ'লে, ১ টা ডাউনল'ড বাতিল হ'ব। আপুনি অফলাইন হ'বলৈ নিশ্চিত নে?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = এক্সিকিউটেবুল ফাইল খোলিব নে?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" এটা এক্সিকিউটেবুল ফাইল। এনে ফাইলত ভাইৰাছ বা অন্য সন্দেহযুক্ত কোড থাকিব পাৰে যি আপোনাৰ কমপিউটাৰৰ বিজুতি ঘটাব। এই ফাইল খোলোঁতে সাৱধান হ'ব। আপুনি "{ $executable }" আৰম্ভ কৰিবলৈ নিশ্চিত নে?
