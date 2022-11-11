@@ -176,3 +176,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Xsach toq tajin nuqasaj
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Man tikirel ta niyak ri qasanïk ruma xk'ulwachitäj jun sachoj ri ma etaman ta ruwäch.
+    
+    Tatojtob'ej chik.
