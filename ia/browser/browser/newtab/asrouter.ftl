@@ -223,3 +223,7 @@ colorways-cfr-primarybutton = Elige combination de colores
     .accesskey = E
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Colora tu navigator con exclusive tonalitates de { -brand-short-name } inspirate per voces que cambiava le cultura.
+colorways-cfr-header-28days = Le combinationes de colores Independent Voices expira le 16 de januario
+colorways-cfr-header-14days = Le combinationes de colores Independent Voices expira in duo septimanas
+colorways-cfr-header-7days = Le combinationes de colores Independent Voices expira iste septimana
+colorways-cfr-header-today = Le combinationes de colores Independent Voices expira hodie
