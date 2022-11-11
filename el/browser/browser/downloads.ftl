@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Σφάλμα λήψης
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Δεν είναι δυνατή η αποθήκευση της λήψης, επειδή αποκλείστηκε από το { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Δεν είναι δυνατή η αποθήκευση της λήψης, επειδή αποκλείστηκε από μια επέκταση.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Δεν είναι δυνατή η αποθήκευση του ληφθέντος αρχείου λόγω ενός άγνωστου σφάλματος.
