@@ -7,6 +7,11 @@ download-ui-confirm-title = Avbryte alle nedlastingane?
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Ikkje avslutt
+       *[other] Ikkje avslutt
+    }
 download-ui-dont-go-offline-button = Bli verande tilkopla
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
