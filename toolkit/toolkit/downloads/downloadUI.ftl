@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Si cambias al modo sin conexión ahora, se cancelarán { $downloadsCount } descargas. ¿Realmente quieres hacerlo?
     }
 download-ui-dont-go-offline-button = Permanecer conectado
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Si cierras todas las ventanas de navegación privada ahora, se cancelará 1 descarga. ¿Estás seguro de que quieres salir de la navegación privada?
+       *[other] Si cierras todas las ventanas de navegación privada ahora, se cancelarán { $downloadsCount } descargas. ¿Estás seguro de que quieres salir de la navegación privada?
+    }
+download-ui-dont-leave-private-browsing-button = Permanecer en el modo de Navegación Privada
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Cancelar una descarga
