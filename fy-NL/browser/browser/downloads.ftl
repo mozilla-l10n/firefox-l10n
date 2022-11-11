@@ -18,7 +18,6 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
-
 downloads-cmd-pause =
     .label = Pauzearje
     .accesskey = P
@@ -29,7 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Annulearje
 downloads-cmd-cancel-panel =
     .aria-label = Annulearje
-
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -50,7 +48,6 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = Iepenje yn { $handler }
     .accesskey = y
-
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -70,14 +67,12 @@ downloads-cmd-always-use-system-default-named =
 downloads-cmd-always-open-similar-files =
     .label = Altyd fergelykbere bestannen iepenje
     .accesskey = t
-
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Toane yn Finder
            *[other] Yn map toane
         }
-
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -90,7 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Toane yn Finder
            *[other] Yn map toane
         }
-
 downloads-cmd-show-downloads =
     .label = Downloadsmap toane
 downloads-cmd-retry =
@@ -115,42 +109,33 @@ downloads-cmd-clear-downloads =
 downloads-cmd-delete-file =
     .label = Fuortsmite
     .accesskey = F
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Downloaden tastean
     .accesskey = o
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Bestân fuortsmite
-
 downloads-cmd-remove-file-panel =
     .aria-label = Bestân fuortsmite
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Bestân fuortsmite of downloaden tastean
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Bestân fuortsmite of downloaden tastean
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Bestân iepenje of fuortsmite
-
 downloads-cmd-choose-open-panel =
     .aria-label = Bestân iepenje of fuortsmite
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Mear ynformaasje toane
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -178,19 +163,16 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Downloaden opnij probearje
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Download annulearje
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Alle downloads toane
     .accesskey = d
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -214,16 +196,13 @@ downloads-blocked-download-detailed-info = { $url } hat probearre automatysk mea
 downloads-clear-downloads-button =
     .label = Downloads wiskje
     .tooltiptext = Wisket foltôge, annulearre en mislearre downloads
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Der binne gjin downloads.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Gjin downloads foar dizze sesje.
-
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the
@@ -233,3 +212,17 @@ downloads-more-downloading =
         [one] Der wurdt noch { $count } bestân download
        *[other] Der wurde noch { $count } bestannen download
     }
+
+## Download errors
+
+downloads-error-alert-title = Downloadflater
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = De download kin net bewarre wurde, omdat dizze troch { $extension } blokkearre wurdt.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = De download kin net bewarre wurde, omdat dizze troch in útwreiding blokkearre wurdt.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    It downloaden bestân kin net bewarre wurde, omdat der in ûnbekende flater bard is.
+    
+    Probearje it asjebleaft opnij.
