@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] اگر آپ نے ابھی کنارہ کیا تو 1 ڈاؤن لوڈ منسوخ ہو جائے گا۔ کیا آپ کو یقین ہے کہ آپ کنارہ کرنا چاہتے ہیں؟
        *[other] اگر آپ نے ابھی کنارہ کیا تو { $downloadsCount } ڈاؤن لوڈ منسوخ ہو جائیں گے۔ کیا آپ کو یقین ہے کہ آپ کنارہ کرنا چاہتے ہیں؟
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] کنارہ مت کریں
+       *[other] باہر نہ نکلیں
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] اگر آپ ابھی آف لائن گئے تو 1 ڈاؤن لوڈ منسوخ ہو جائے گا۔ کیا آپ کو یقین ہے کہ آپ آف لائن جانا چاہتے ہیں؟
