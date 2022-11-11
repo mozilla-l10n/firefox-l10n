@@ -187,6 +187,7 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = దింపుకోలు దోషం
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     డౌన్‌లోడు భద్రపరచలేము ఎందుకంటే తెలియని దోషము సంభవించింది.
