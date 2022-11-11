@@ -5,5 +5,8 @@
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+download-utils-done-file-scheme = tập tin trên máy
 # Displayed time for files finished yesterday
 download-utils-yesterday = Hôm qua
