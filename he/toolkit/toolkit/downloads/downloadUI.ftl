@@ -28,6 +28,11 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] אם תעבור כעת למצב לא מקוון, { $downloadsCount } הורדות יבוטלו. האם אתה בטוח שאתה רוצה לעבור כעת למצב לא מקוון?
     }
 download-ui-dont-go-offline-button = הישאר מקוון
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] אם כל חלונות הגלישה הפרטית יסגרו כעת, הורדה אחת תבוטל. האם ברצונך לצאת ממצב גלישה פרטית?
+       *[other] אם כל חלונות הגלישה הפרטית ייסגרו כעת, { $downloadsCount } הורדות יבוטלו. האם ברצונך לצאת ממצב גלישה פרטית?
+    }
 download-ui-dont-leave-private-browsing-button = להישאר במצב גלישה פרטית
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
