@@ -1,0 +1,24 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+#   $rate (String): rate number.
+#   $unit (String): rate unit.
+download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/sec)
+# example: 11.1 MB of 3.3 GB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): progress unit.
+#   $total (String): total number.
+#   $totalUnits (String): total unit.
+download-utils-transfer-diff-units = { $progress } { $progressUnits }, { $total } { $totalUnits } पैकी
+# example: 111 KB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): unit.
+download-utils-transfer-no-total = { $progress } { $progressUnits }
