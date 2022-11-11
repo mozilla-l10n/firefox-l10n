@@ -158,6 +158,7 @@ downloads-panel-empty =
 
 ## Download errors
 
+downloads-error-alert-title = Грешка при преузимању
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Не могу да сачувам преузимање јер је дошло до непознате грешке.
