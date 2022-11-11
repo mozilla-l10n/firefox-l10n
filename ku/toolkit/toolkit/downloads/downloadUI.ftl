@@ -23,6 +23,11 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Heke vêga bibî negirêdayî dê daxistina pela { $downloadsCount } bê betalkirin. Ji dil dixwazî derkevî?
     }
 download-ui-dont-go-offline-button = Girêdayî bimîne
+download-ui-cancel-downloads-ok =
+    { $downloadsCount ->
+        [1] Jêbarkirinê betal bike
+       *[other] { $downloadsCount } daxistinan betal bike
+    }
 
 ##
 
