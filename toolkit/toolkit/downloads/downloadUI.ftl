@@ -22,6 +22,11 @@ download-ui-dont-quit-button =
         [mac] Çıxma
        *[other] Çıxma
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Əgər indi oflayn rejimə keçsəniz endirilən 1 fayl ləğv ediləcək. Oflayn rejimə keçmək istədiyinizə əminsiniz?
+       *[other] Əgər indi oflayn rejimə keçsəniz endirilən { $downloadsCount } fayl ləğv ediləcək. Oflayn rejimə keçmək istədiyinizə əminsiniz?
+    }
 download-ui-dont-go-offline-button = Online qal
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
