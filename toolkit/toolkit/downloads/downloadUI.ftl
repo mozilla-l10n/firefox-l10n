@@ -2,17 +2,43 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+download-ui-confirm-title = Zrušit všechna stahování?
 
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] Pokud teď skončíte, bude zrušeno stahování jednoho souboru. Opravdu chcete skončit?
+       *[other] Pokud teď skončíte, bude zrušeno stahování { $downloadsCount } souborů. Opravdu chcete skončit?
+    }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Pokud teď skončíte, bude zrušeno stahování jednoho souboru. Opravdu chcete skončit?
+       *[other] Pokud teď skončíte, bude zrušeno stahování { $downloadsCount } souborů. Opravdu chcete skončit?
+    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] Neskončit
        *[other] Neskončit
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Pokud přejdete do režimu offline, bude zrušeno stahování souboru. Opravdu chcete přejít do režimu offline?
+       *[other] Pokud přejdete do režimu offline, bude zrušeno stahování { $downloadsCount } souborů. Opravdu chcete přejít do režimu offline?
+    }
 download-ui-dont-go-offline-button = Zůstat online
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Pokud zavřete všechna anonymní okna, zruší se jedno aktuální stahování. Opravdu chcete opustit anonymní prohlížení?
+       *[other] Pokud zavřete všechna anonymní okna, zruší se některá ({ $downloadsCount }) aktuální stahování. Opravdu chcete opustit anonymní prohlížení?
+    }
 download-ui-dont-leave-private-browsing-button = Zůstat v anonymním prohlížení
+download-ui-cancel-downloads-ok =
+    { $downloadsCount ->
+        [1] Zrušit stahování
+       *[other] Zrušit { $downloadsCount } stahování
+    }
 
 ##
 
