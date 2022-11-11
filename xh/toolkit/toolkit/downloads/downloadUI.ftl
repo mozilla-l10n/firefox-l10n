@@ -17,12 +17,23 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Ukuba uphuma ngoku, okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukuphuma?
        *[other] Ukuba uphuma ngoku, kuya kurhoxiswa okukhutshelwayo oku-{ $downloadsCount }. Uqinisekile ufuna ukuphuma?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Musa ukuyeka
+       *[other] Musa ukuphuma
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ukuba uyaphuma kwinethiwekhi ngoku, okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukuphuma kwinethiwekhi?
        *[other] Ukuba uyaphuma kwinethiwekhi ngoku, { $downloadsCount } okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukuphuma kwinethiwekhi?
     }
 download-ui-dont-go-offline-button = Hlala kwinethiwekhi
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ukuba uvala zonke iifestile zokuBhrawuza zaNgasese ngoku, okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukushiya imo yokubhrawuza kwangasese?
+       *[other] Ukuba uvala zonke iifestile zokuBhrawuza zaNgasese ngoku, { $downloadsCount } okukhutshelwayo kuya kurhoxiswa. Uqinisekile ufuna ukushiya imo yokubhrawuza kwangasese?
+    }
+download-ui-dont-leave-private-browsing-button = Hlala kwimo yokuBhrawuza yaNgasese
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Rhoxisa okukhutshelwayo oku-1
@@ -32,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Uvula ifayile enokusetyenziswa?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" yifayile enokusetyenziswa. Iifayile ezinokusetyenziswa zisenokuba nevayirasi okanye ikhowudi enobungozi enokonakalisa ikhompyutha yakho. Lumka xa uvula le fayile. Uqinisekile ufuna ukumisela "{ $executable }"?
