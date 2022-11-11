@@ -215,6 +215,7 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = Error de descarga
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     La descarga no pudo guardarse porque ocurrió un error desconocido.
