@@ -23,6 +23,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] If you go offline now, { $downloadsCount } downloads will be cancelled. Are you sure you want to go offline?
     }
 download-ui-dont-go-offline-button = Stay Online
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] If you close all Private Browsing windows now, 1 download will be cancelled. Are you sure you want to leave Private Browsing?
+       *[other] If you close all Private Browsing windows now, { $downloadsCount } downloads will be cancelled. Are you sure you want to leave Private Browsing?
+    }
+download-ui-dont-leave-private-browsing-button = Stay in Private Browsing
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Cancel 1 Download
