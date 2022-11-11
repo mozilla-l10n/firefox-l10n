@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Fa o tloga jaanong, go tla khanselwa kopololo e le 1. A o totobetse gore o batla go tloga?
        *[other] Fa o tloga jaanong, go tla khanselwa dikopololo di le { $downloadsCount }. A o totobetse gore o batla go tloga?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Se Tloge
+       *[other] Se Tswe
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Fa o kgaoga nakwana jaanong, go tla khanselwa kopololo e le 1. A o totobetse gore o batla go kgaoga nakwana?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Bula Faele e e Diragatsegang?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" ke faele e e diragatsegang. Difaele tse di diragatsegang di ka nna le megare gongwe dikhoutu tse dingwe tse dikotsi tse di ka senyang khomphiutara ya gago. Nna kelotlhoko fa o bula faele eno. A o totobetse gore o batla go tlhoma "{ $executable }"?
