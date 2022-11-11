@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Jika anda keluar sekarang, 1 muaturun akan dibatalkan. Adakah anda pasti yang anda ingin keluar?
        *[other] Jika anda keluar sekarang, { $downloadsCount } muaturun akan dibatalkan. Adakah anda ingin keluar?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Jangan Keluar
+       *[other] Jangan Keluar
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Jika anda keluar talian sekarang, 1 muaturunakan dibatalkan. Adakah anda ingin keluar talian sekarang?
