@@ -31,3 +31,4 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = Fitxategi exekutagarria ireki?
