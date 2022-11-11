@@ -41,3 +41,5 @@ download-utils-transfer-no-total = { $progress } { $progressUnits }
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } qaynağı
+# Displayed time for files finished yesterday
+download-utils-yesterday = Dünən
