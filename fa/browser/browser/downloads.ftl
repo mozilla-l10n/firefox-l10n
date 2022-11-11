@@ -216,3 +216,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = خطای بارگیری
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    ذخیرهٔ بارگیری به دلیل خطای نامعلومی شکست خورد.
+    
+    لطفاً دوباره تلاش کنید.
