@@ -7,6 +7,21 @@ download-ui-confirm-title = Zumandey kul kayandi?
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] Nda war ga fatta sohõ, zumandi foo ga dere. Alhakiika war ga baa ka fatta?
+       *[other] Nda war ga fatta sohõ, { $downloadsCount } zumandey ga dere. Alhakiika war ga baa ka fatta?
+    }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Nda war ga fatta sohõ, zumandi 1 ga dere. Alhakiika war ga baa ka fatta?
+       *[other] Nda war ga fatta sohõ, { $downloadsCount } zumandey ga dere. Alhakiika war ga baa ka fatta?
+    }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Nda war ga goy bila nda ciyari alhaali ra, zumandi foo ga dere. War ga baa ka goy bila nda ciyari?
+       *[other] Nda ga goy bila nda ciyari alhaali ra, { $downloadsCount } zumandey ga naŋandi. War ga baa ka goy bila nda ciyari?
+    }
 download-ui-dont-go-offline-button = Wa cindi ciyari ra
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
@@ -16,3 +31,4 @@ download-ui-cancel-downloads-ok =
 
 ##
 
+download-ui-file-executable-security-warning-title = Goy-še tuku feeri?
