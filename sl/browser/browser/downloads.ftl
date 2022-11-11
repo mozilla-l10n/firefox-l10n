@@ -220,6 +220,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Napaka pri prenosu
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Shranjevanje tega prenosa je preprečila razširitev { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Ena od razširitev je preprečila shranjevanje tega prenosa.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Prenosa ni mogoče shraniti, ker je prišlo do neznane napake.
