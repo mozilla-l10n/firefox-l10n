@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] જો તમે અત્યારે ઓફલાઇન થશો, { $downloadsCount } ડાઉનલોડ રદ થઇ જશે. શું તમે ચોક્કસ ઓફલાઇન થવા માંગો છો?
     }
 download-ui-dont-go-offline-button = ઓફલાઇન રહો
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] જો તમે હવે બધી ખાનગી બ્રાઉઝિંગ વિંડો બંધ કરો છો, તો 1 ડાઉનલોડ રદ કરવામાં આવશે. શું તમે ખરેખર ખાનગી બ્રાઉઝિંગ છોડવા માંગો છો?
+       *[other] જો તમે હમણાં બધી ખાનગી બ્રાઉઝિંગ વિંડો બંધ કરો છો, તો { $downloadsCount } ડાઉનલોડ્સ રદ કરવામાં આવશે. શું તમે ખરેખર ખાનગી બ્રાઉઝિંગ છોડવા માંગો છો?
+    }
+download-ui-dont-leave-private-browsing-button = ખાનગી બ્રાઉઝિંગમાં રહો
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] ૧ ડાઉનલોડ રદ કરો
