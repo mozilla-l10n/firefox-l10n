@@ -214,3 +214,13 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = 다운로드 오류
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = 다운로드가 { $extension } 확장 기능에 의해 차단되었기 때문에 저장할 수 없습니다.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = 다운로드가 확장 기능에 의해 차단되었기 때문에 저장할 수 없습니다.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    알 수 없는 오류가 발생하여 다운로드를 저장할 수 없습니다.
+    
+    다시 시도하세요.
