@@ -149,6 +149,7 @@ downloads-panel-empty =
 
 ## Download errors
 
+downloads-error-alert-title = Error sa Pag-download
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Hindi ma-save ang download dahil may unknown error.
