@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Deskarga-errorea
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Ezin da deskarga gorde { $extension } gehigarriak blokeatzen duelako.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Ezin da deskarga gorde gehigarri batek blokeatzen duelako.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Deskarga ezin da gorde errore ezezagun bat gertatu delako.
