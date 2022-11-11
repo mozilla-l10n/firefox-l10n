@@ -43,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = 実行可能なファイルを開きますか？
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = “{ $executable }” は実行可能なファイルです。実行可能なファイルにはあなたのコンピューターを破壊するウイルス、その他の悪意あるコードが含まれていることがあります。この形式のファイルを開く場合には注意してください。“{ $executable }” を実行してもよろしいですか？
