@@ -7,6 +7,11 @@ download-ui-confirm-title = Бүх татаж авалтыг цуцлах уу?
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Бүү гар
+       *[other] Бүү гар
+    }
 download-ui-dont-go-offline-button = Холбоотой үлд
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
@@ -17,3 +22,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Ачаалагддаг файлыг ажиллуулах уу?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" нь ачаалагддаг файл байна. Ачаалагддаг файлууд нь вирус эсвэл бусад таны компьютерийг эвдэх код агуулсан байж болзошгүй. Нээх үедээ тун болгоомжтой хэрэглэнэ үү. Та "{ $executable }"-г ачаалахдаа итгэлтэй байна уу?
