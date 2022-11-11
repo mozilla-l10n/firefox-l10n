@@ -22,6 +22,11 @@ download-ui-dont-quit-button =
         [mac] Ni Songo Ṱuwa
        *[other] Ni Songo Bva
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Arali na bva ḽainini zwino, u dzhenisa hoṱhe ha 1 hu ḓo fheliswa. Ni na vhuṱanzi ho fhelelaho ha uri ni khou ṱoḓa u bva ḽainini?
+       *[other] Arali na bva ḽainini zwino, u dzhenisa hoṱhe ha { $downloadsCount } hu ḓo fheliswa. Ni na vhuṱanzi ho fhelelaho ha uri ni khou ṱoḓa u bva ḽainini?
+    }
 download-ui-dont-go-offline-button = Dzulani Ḽainini
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
