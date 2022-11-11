@@ -7,6 +7,11 @@ download-ui-confirm-title = Prekinuti sva preuzimanja?
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Nemoj odustati
+       *[other] Nemoj izaći
+    }
 download-ui-dont-go-offline-button = Ostani u mrežnom načinu
 
 ##
