@@ -8,11 +8,23 @@ download-utils-short-seconds =
         [one] s
        *[other] s
     }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] min
+       *[other] min
+    }
 # Short form for hours
 download-utils-short-hours =
     { $timeValue ->
         [one] h
        *[other] h
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] dia
+       *[other] dias
     }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
@@ -62,7 +74,20 @@ download-utils-transfer-no-total = { $progress } { $progressUnits }
 #   $time (String): time number.
 #   $unit (String): time unit.
 download-utils-time-pair = { $time }{ $unit }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = Falta { $time }
+# examples: 11h 2m left; 1d 22h left
+# Variables:
+#   $time1 (String): time left, including a unit
+#   $time2 (String): smaller measure of time left, including a unit
+download-utils-time-left-double = Falta { $time1 } { $time2 }
+download-utils-time-few-seconds = Falta pouco
 download-utils-time-unknown = Tempo restante desconhecido
+# Variables:
+#   $scheme (String): URI scheme like data: jar: about:
+download-utils-done-scheme = Recurso { $scheme }
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = arquivo local
