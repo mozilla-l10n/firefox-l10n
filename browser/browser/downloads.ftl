@@ -215,6 +215,7 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = Deskarga-errorea
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Deskarga ezin da gorde errore ezezagun bat gertatu delako.
