@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] اگر حالا برنامه را ترک کنید ۱ بارگیری لغو خواهد شد. آیا مطمئنید که می‌خواهید برنامه را ترک کنید؟
        *[other] اگر حالا برنامه را ترک کنید { $downloadsCount } بارگیری لغو خواهد شد. آیا مطمئنید که می‌خواهید برنامه را ترک کنید؟
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] اگر حالا برون‌خط شوید، ۱ بارگیری لغو خواهد شد. آیا مطمئنید که می‌خواهید برون‌خط شوید؟
+       *[other] اگر حالا برون‌خط شوید، { $downloadsCount } بارگیری لغو خواهد شد. آیا مطمئنید که می‌خواهید برون‌خط شوید؟
+    }
 download-ui-dont-go-offline-button = برخط بماند
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
