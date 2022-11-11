@@ -18,7 +18,6 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 40em
-
 downloads-cmd-pause =
     .label = Pausa
     .accesskey = P
@@ -29,7 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Cancel·la
 downloads-cmd-cancel-panel =
     .aria-label = Cancel·la
-
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -46,7 +44,6 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = Obri amb el visualitzador del sistema
     .accesskey = v
-
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -60,14 +57,12 @@ downloads-cmd-always-use-system-default =
 downloads-cmd-always-open-similar-files =
     .label = Obri sempre els fitxers similars
     .accesskey = s
-
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Mostra-ho en el Finder
            *[other] Obre la carpeta on es troba
         }
-
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -80,7 +75,6 @@ downloads-cmd-show-description-2 =
             [macos] Mostra-ho en el Finder
            *[other] Obre la carpeta on es troba
         }
-
 downloads-cmd-show-downloads =
     .label = Mostra la carpeta de baixades
 downloads-cmd-retry =
@@ -102,42 +96,33 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Buida la llista de baixades
     .accesskey = B
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Permet la baixada
     .accesskey = P
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Elimina el fitxer
-
 downloads-cmd-remove-file-panel =
     .aria-label = Elimina el fitxer
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Elimina el fitxer o permet la baixada
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Elimina el fitxer o permet la baixada
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Obri o elimina el fitxer
-
 downloads-cmd-choose-open-panel =
     .aria-label = Obri o elimina el fitxer
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Mostra més informació
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -163,19 +148,16 @@ downloading-file-opens-in-some-time = S'obrirà quan acabi…
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Reintenta la baixada
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Cancel·la la baixada
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Mostra totes les baixades
     .accesskey = s
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -186,21 +168,19 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+
 ##
 
 downloads-clear-downloads-button =
     .label = Buida la llista de baixades
     .tooltiptext = Elimina de la llista les baixades acabades, cancel·lades o que han fallat
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = No hi ha cap baixada.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = No heu baixat res durant esta sessió.
-
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the
@@ -210,3 +190,12 @@ downloads-more-downloading =
         [one] S'està baixant { $count } altre fitxer
        *[other] S'estan baixant { $count } fitxers més
     }
+
+## Download errors
+
+downloads-error-alert-title = Error en la baixada
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    No pot guardar-se la baixada perquè s'ha produït un error desconegut.
+    
+    Torneu-ho a provar.
