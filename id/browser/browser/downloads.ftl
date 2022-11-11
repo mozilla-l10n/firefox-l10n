@@ -214,6 +214,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Kesalahan Unduhan
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Unduhan tidak dapat disimpan karena diblokir oleh { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Unduhan tidak dapat disimpan karena diblokir oleh sebuah ekstensi.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Unduhan tidak dapat disimpan karena kesalahan yang tidak diketahui sebabnya terjadi.
