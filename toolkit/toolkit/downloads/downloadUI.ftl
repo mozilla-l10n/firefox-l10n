@@ -7,6 +7,7 @@
 ##   $downloadsCount (Number): The current downloads count.
 
 download-ui-dont-go-offline-button = 온라인 상태 유지
+download-ui-dont-leave-private-browsing-button = 사생활 보호 모드 계속하기
 
 ##
 
