@@ -88,5 +88,8 @@ download-utils-time-unknown = დარჩენილი დრო დაუდ
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } რესურსი
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+download-utils-done-file-scheme = ადგილობრივი ფაილი
 # Displayed time for files finished yesterday
 download-utils-yesterday = გუშინ
