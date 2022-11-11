@@ -95,6 +95,7 @@ policy-OfferToSaveLoginsDefault = Caktoni vlerën parazgjedhje për lejim të { 
 policy-OverrideFirstRunPage = Anashkaloni faqen e xhirimit për herë të parë. Lëreni të zbrazët, nëse doni të çaktivizohet faqja e xhirimit për herë të parë.
 policy-OverridePostUpdatePage = Anashkaloni faqen “Ç’ka të Re” që shfaqet pas përditësimesh. Lëreni të zbrazët, nëse doni të çaktivizohet faqja pas-përditësim.
 policy-PasswordManagerEnabled = Aktivizoni ruajtjen e fjalëkalimeve te përgjegjësi i fjalëkalimeve.
+policy-PasswordManagerExceptions = Pengojani { -brand-short-name }-it ruajtjen e fjalëkalimeve për sajte të caktuar.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Çaktivizoni pse formësoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
 policy-Permissions2 = Formësoni lejet për kamerën, mikrofonin, vendndodhjen, njoftimet dhe vetëluajtjen.
@@ -113,6 +114,7 @@ policy-SecurityDevices = Instaloni module PKCS #11.
 policy-ShowHomeButton = Shfaqe butonin Shtëpi te paneli.
 policy-SSLVersionMax = Caktoni version maksimum SSL-je.
 policy-SSLVersionMin = Caktoni version minimum SSL-je.
+policy-StartDownloadsInTempDirectory = Detyroji shkarkimet të nisin në një vendndodhje lokale të përkohshme, në vend se në drejtorinë parazgjedhje të shkarkimeve.
 policy-SupportMenu = Shtoni te menuja e ndihmës një element vetjak menuje asistence.
 policy-UserMessaging = Mos i shfaq përdoruesit disa mesazhe të caktuara
 policy-UseSystemPrintDialog = Shtype duke përdorur dialogun e sistemit për shtypje.
