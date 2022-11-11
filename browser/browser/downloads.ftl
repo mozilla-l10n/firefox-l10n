@@ -85,3 +85,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = डाउनलोड त्रुटि
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    डाउनलोड सहेजल नहि जाए सकैत अछि  किएक एकटा अनजान त्रुटि भेल.
+    
+    कृपया फेर कोशिश करू.
