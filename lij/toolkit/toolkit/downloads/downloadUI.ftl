@@ -18,6 +18,7 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Se ti væ feua linia, { $downloadsCount } descaregamenti saian anulæ. T'é seguo?
     }
 download-ui-dont-go-offline-button = Stanni feua linia
+download-ui-dont-leave-private-browsing-button = Stanni inta Navegaçion Privâ
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Anulla un descaregamento
