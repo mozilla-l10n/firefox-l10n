@@ -10,6 +10,12 @@
 #   $rate (String): rate number.
 #   $unit (String): rate unit.
 download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/seg)
+# — is the "em dash" (long dash)
+# example: 4 minutes left — 1.1 of 11.1 GB
+# Variables:
+#   $timeLeft (String): time left.
+#   $transfer (String): transfer progress.
+download-utils-status-no-rate = { $transfer } — { $timeLeft }
 download-utils-bytes = octets
 download-utils-kilobyte = Ko
 download-utils-megabyte = Mo
