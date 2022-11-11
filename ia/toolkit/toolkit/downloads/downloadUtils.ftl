@@ -84,6 +84,7 @@ download-utils-time-left-single = { $time } restante
 #   $time2 (String): smaller measure of time left, including a unit
 download-utils-time-left-double = { $time1 } { $time2 } restante
 download-utils-time-few-seconds = Alcun secundas restante
+download-utils-time-unknown = Tempore restante incognite
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = ressource { $scheme }
