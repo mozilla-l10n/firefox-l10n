@@ -17,6 +17,16 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Таҕыстаххына хачайдааһын тохтуо. Кырдьык тахсаҕын дуо?
        *[other] Таҕыстаххына хас да хачайдааһын ({ $downloadsCount }) тохтотуллуо. Кырдьык тахсаҕын дуо?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Бүтэримэ
+       *[other] Тахсыма
+    }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Холбоммокко үлэлиир буоллаххына биир хачайдааһын тохтотуллуо. Кырдьык инньэ гынаҕын дуо?
+       *[other] Холбоммокко үлэлиир буоллаххына { $downloadsCount } хачайдааһын тохтотуллуо. Кырдьык инньэ гынаҕын дуо?
+    }
 download-ui-dont-go-offline-button = Холбонууну хааллар
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
@@ -27,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Толоруллар билэни арыйаҕын дуо?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = «{ $executable }» толоруллар билэ эбит. Толоруллар билэлэр вирустаах эбэтэр атын хоромньуну аҕалар куодтаах буолуохтарын сөп. Бу билэни арыйарга сэрэхтээх буол. Кырдьык «{ $executable }» билэни арыйаары гынаҕын дуо?
