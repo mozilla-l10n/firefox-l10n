@@ -18,7 +18,6 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
-
 downloads-cmd-pause =
     .label = Pause
     .accesskey = P
@@ -29,7 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Abbrechen
 downloads-cmd-cancel-panel =
     .aria-label = Abbrechen
-
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -50,7 +48,6 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = In { $handler } öffnen
     .accesskey = n
-
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -70,14 +67,12 @@ downloads-cmd-always-use-system-default-named =
 downloads-cmd-always-open-similar-files =
     .label = Ähnliche Dateien immer öffnen
     .accesskey = i
-
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Im Finder anzeigen
            *[other] In Ordner anzeigen
         }
-
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -90,7 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Im Finder anzeigen
            *[other] In Ordner anzeigen
         }
-
 downloads-cmd-show-downloads =
     .label = Ordner "Downloads" öffnen
 downloads-cmd-retry =
@@ -115,42 +109,33 @@ downloads-cmd-clear-downloads =
 downloads-cmd-delete-file =
     .label = Löschen
     .accesskey = L
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Zugriff erlauben
     .accesskey = a
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Datei löschen
-
 downloads-cmd-remove-file-panel =
     .aria-label = Datei löschen
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Datei löschen oder Download erlauben
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Datei löschen oder Download erlauben
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Datei öffnen oder löschen
-
 downloads-cmd-choose-open-panel =
     .aria-label = Datei öffnen oder löschen
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Weitere Informationen anzeigen
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -178,19 +163,16 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Download erneut versuchen
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Download abbrechen
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Alle Downloads anzeigen
     .accesskey = w
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -214,16 +196,13 @@ downloads-blocked-download-detailed-info = { $url } hat versucht, mehrere Dateie
 downloads-clear-downloads-button =
     .label = Liste leeren
     .tooltiptext = Entfernt abgeschlossene, abgebrochene und fehlgeschlagene Downloads aus der Liste
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Keine Downloads vorhanden
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Keine Downloads in dieser Sitzung
-
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the
@@ -233,3 +212,12 @@ downloads-more-downloading =
         [one] { $count } weitere Datei wird heruntergeladen
        *[other] { $count } weitere Dateien werden heruntergeladen
     }
+
+## Download errors
+
+downloads-error-alert-title = Download-Fehler
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Der Download kann nicht gespeichert werden, weil ein unbekannter Fehler aufgetreten ist.
+    
+    Bitte versuchen Sie es nochmals.
