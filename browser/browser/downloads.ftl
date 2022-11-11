@@ -199,3 +199,13 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Грешка при изтегляне
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Изтегленият файл не може да бъде запазен, защото е спрян от { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Изтегленият файл не може да бъде запазен, защото е спрян от разширение.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Изтеглянето не може да бъде запазено поради грешка.
+    
+    Моля, опитайте отново.
