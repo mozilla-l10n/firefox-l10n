@@ -55,6 +55,7 @@ firefoxview-mobile-confirmation-description = Ora tu pote acceder tu schedas de 
 firefoxview-closed-tabs-title = Recentemente claudite
 firefoxview-closed-tabs-description2 = Reaperi paginas que tu ha claudite in iste fenestra.
 firefoxview-closed-tabs-placeholder = <strong>Nulle pagina recentemente claudite</strong><br/>Jammais time ancora de perder un scheda claudite. Tu pote sempre recuperar lo ci.
+firefoxview-closed-tabs-placeholder-header = Nulle schedas recentemente claudite
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ultime active
 # Variables:
