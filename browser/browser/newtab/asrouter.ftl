@@ -211,3 +211,8 @@ firefoxview-spotlight-promo-title = 邂逅 { -firefoxview-brand-name }
 firefoxview-spotlight-promo-subtitle = 想要把标签页传到手机上？嘿，接稳了！还想重新打开刚浏览过的那个网页？瞧，回来了！这就是 { -firefoxview-brand-name } 带来的精彩功能。
 firefoxview-spotlight-promo-primarybutton = 看看怎么用
 firefoxview-spotlight-promo-secondarybutton = 跳过
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = 选择配色
+    .accesskey = C
