@@ -137,3 +137,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = डाउनलोड त्रूटी
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    अपरिचीत त्रुटी आढळल्यामुळे डाऊनलोड संचयीत केले जाऊ शकत नाही.
+    
+    कृपया पुन्हा प्रयत्न करा.
