@@ -17,6 +17,11 @@ download-ui-dont-quit-button =
         [mac] Ne pas quitter
        *[other] Ne pas quitter
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Si vous passez hors connexion maintenant, un téléchargement en cours sera annulé. Voulez-vous vraiment passer hors connexion ?
+       *[other] Si vous passez hors connexion maintenant, { $downloadsCount } téléchargements seront annulés. Voulez-vous vraiment passer hors connexion ?
+    }
 download-ui-dont-go-offline-button = Rester en ligne
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
