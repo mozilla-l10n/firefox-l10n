@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] Jos nyt siirryt yhteydettömään tilaan, { $downloadsCount } tiedoston lataus peruutetaan. Siirrytäänkö yhteydettömään tilaan?
     }
 download-ui-dont-go-offline-button = Pysy yhteystilassa
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Jos suljet kaikki yksityisen selaustilan ikkunat, 1 lataus peruutetaan. Suljetaanko yksityisen selaustilan ikkunat?
+       *[other] Jos suljet kaikki yksityisen selaustilan ikkunat, { $downloadsCount } latausta peruutetaan. Suljetaanko yksityisen selaustilan ikkunat?
+    }
+download-ui-dont-leave-private-browsing-button = Pysy yksityisessä selaustilassa
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Peruuta lataus
