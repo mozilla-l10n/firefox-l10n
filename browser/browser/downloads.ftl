@@ -217,6 +217,12 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = Chyba pri sťahovaní
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Súbor nemohol byť uložený, pretože je blokovaný rozšírením { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Súbor nemohol byť uložený, pretože je blokovaný rozšírením.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Súbor nemohol byť uložený, pretože sa objavila neznáma chyba.
