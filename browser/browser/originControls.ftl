@@ -16,4 +16,4 @@ origin-controls-options =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
-origin-controls-state-no-access = 不可读取和更改此网站的数据
+origin-controls-state-no-access = 无法读取和更改此网站的数据
