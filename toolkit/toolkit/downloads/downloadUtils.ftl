@@ -25,6 +25,13 @@ download-utils-gigabyte = GB
 #   $total (String): total number.
 #   $totalUnits (String): total unit.
 download-utils-transfer-same-units = మొత్తం { $total } { $totalUnits } లో { $progress }
+# example: 11.1 MB of 3.3 GB
+# Variables:
+#   $progress (String): progress number.
+#   $progressUnits (String): progress unit.
+#   $total (String): total number.
+#   $totalUnits (String): total unit.
+download-utils-transfer-diff-units = మొత్తం { $total } { $totalUnits } లో { $progress } { $progressUnits }
 # example: 111 KB
 # Variables:
 #   $progress (String): progress number.
