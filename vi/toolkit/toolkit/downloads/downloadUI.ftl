@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+download-ui-confirm-title = Hủy tất cả các phiên tải xuống?
 
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
@@ -33,6 +34,11 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
        *[other] Nếu bây giờ bạn đóng tất cả các cửa sổ riêng tư thì { $downloadsCount } tập tin đang tải xuống sẽ bị hủy. Bạn có chắc bạn muốn rời chế độ duyệt web riêng tư không?
     }
 download-ui-dont-leave-private-browsing-button = Vẫn ở lại chế độ duyệt web riêng tư
+download-ui-cancel-downloads-ok =
+    { $downloadsCount ->
+        [1] Hủy 1 phiên tải xuống
+       *[other] Hủy { $downloadsCount } phiên tải xuống
+    }
 
 ##
 
