@@ -203,3 +203,8 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Erro na descarga
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Non é posíbel gardar a descarga por causa dun erro descoñecido.
+    
+    Tente de novo.
