@@ -2,6 +2,38 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds =
+    { $timeValue ->
+        [one] s
+        [two] s
+        [few] s
+       *[other] s
+    }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] m
+        [two] m
+        [few] m
+       *[other] m
+    }
+# Short form for hours
+download-utils-short-hours =
+    { $timeValue ->
+        [one] h
+        [two] h
+        [few] h
+       *[other] h
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] d
+        [two] d
+        [few] d
+       *[other] d
+    }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -45,6 +77,22 @@ download-utils-transfer-diff-units = { $progress } { $progressUnits } od { $tota
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+# examples: 1m; 11h
+# Variables:
+#   $time (String): time number.
+#   $unit (String): time unit.
+download-utils-time-pair = { $time } { $unit }
+# examples: 1m left; 11h left
+# Variables:
+#   $time (String): time left, including a unit
+download-utils-time-left-single = Še { $time }
+# examples: 11h 2m left; 1d 22h left
+# Variables:
+#   $time1 (String): time left, including a unit
+#   $time2 (String): smaller measure of time left, including a unit
+download-utils-time-left-double = Še { $time1 } { $time2 }
+download-utils-time-few-seconds = Še nekaj sekund
+download-utils-time-unknown = Preostali čas ni znan
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } vir
