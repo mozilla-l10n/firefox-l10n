@@ -162,6 +162,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = डाउनलोड त्रुटि
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = डाउनलोड सहेजा नहीं जा सकता क्योंकि यह एक एक्सटेंशन द्वारा अवरुद्ध है।
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     डाउनलोड सहेजा नहीं जा सकता है क्योंकि एक अनजान त्रुटि आई.
