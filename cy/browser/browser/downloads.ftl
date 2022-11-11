@@ -224,6 +224,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Gwall llwytho i lawr
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Nid oes modd cadw'r llwyth am ei fod wedi'i rwystro gan { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Nid oes modd cadw'r llwyth am ei fod wedi'i rwystro gan estyniad.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Nid oes modd cadw'r llwyth yma gan fod gwall anhysbys wedi digwydd.
