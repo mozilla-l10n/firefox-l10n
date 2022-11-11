@@ -7,6 +7,11 @@ download-ui-confirm-title = Anullar totes los telecargaments ?
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Quitar pas
+       *[other] Quitar pas
+    }
 download-ui-dont-go-offline-button = Demorar en linha
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
