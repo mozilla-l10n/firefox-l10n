@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds = ວິນາທີ
+# Short form for minutes
+download-utils-short-minutes = ນາທີ
+# Short form for hours
+download-utils-short-hours = ຊົ່ວໂມງ
+# Short form for days
+download-utils-short-days = ວັນ
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
