@@ -215,6 +215,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = ข้อผิดพลาดการดาวน์โหลด
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = ไม่สามารถบันทึกการดาวน์โหลดได้เนื่องจากถูกปิดกั้นโดย { $extension }
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = ไม่สามารถบันทึกการดาวน์โหลดได้เนื่องจากถูกปิดกั้นโดยส่วนขยาย
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     ไม่สามารถบันทึกการดาวน์โหลดเนื่องจากเกิดข้อผิดพลาดที่ไม่รู้จัก
