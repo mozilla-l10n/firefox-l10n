@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Short form for seconds
+download-utils-short-seconds =
+    { $timeValue ->
+        [one] s
+        [few] s
+       *[other] s
+    }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] m
+        [few] m
+       *[other] m
+    }
+# Short form for hours
+download-utils-short-hours =
+    { $timeValue ->
+        [one] h
+        [few] h
+       *[other] h
+    }
+# Short form for days
+download-utils-short-days =
+    { $timeValue ->
+        [one] d
+        [few] d
+       *[other] d
+    }
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -61,6 +89,9 @@ download-utils-time-left-single = { $time } rămas
 download-utils-time-left-double = { $time1 } { $time2 } rămas
 download-utils-time-few-seconds = Au mai rămas câteva secunde
 download-utils-time-unknown = Timp rămas necunoscut
+# Variables:
+#   $scheme (String): URI scheme like data: jar: about:
+download-utils-done-scheme = Resursă { $scheme }
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = fișier local
