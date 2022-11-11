@@ -29,7 +29,7 @@ webrtc-item-browser = 탭
 ##
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
-webrtc-sharing-menuitem-unknown-host = 알 수 없는 곳에서 옴
+webrtc-sharing-menuitem-unknown-host = 알 수 없는 출처
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
