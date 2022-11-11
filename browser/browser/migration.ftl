@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = ආයාත සංනයනය
-
 import-from =
     { PLATFORM() ->
         [windows] වෙතින් විකල්ප, පොත්යොමු, ඉතිහාසය, මුරපද හා අන් දත්ත ආයාත කරන්න:
        *[other] වෙතින් අභිප්‍රේත, පොත්යොමු, ඉතිහාසය, මුරපද හා අන් දත්ත ආයාත කරන්න:
     }
-
 import-from-bookmarks = වෙතින් පොත්යොමු ආයාත කරන්න:
 import-from-ie =
     .label = ඉන්ටර්නෙට් එක්ස්ප්ලෝරර්
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = සෆාරි
     .accesskey = S
+import-from-opera =
+    .label = ඔපෙරා
+    .accesskey = O
 import-from-brave =
     .label = බ්‍රේව්
     .accesskey = r
@@ -54,37 +55,23 @@ import-from-firefox =
 import-from-360se =
     .label = 360 ආරක්‍ෂිත අතිරික්සුව
     .accesskey = 3
-
 no-migration-sources = පොත්යොමු, ඉතිහාසය හෝ මුරපද දත්ත අඩංගු කිසිදු වැඩසටහනක් හමු නොවිණි.
-
 import-source-page-title = සැකසුම් හා දත්ත ආයාත කිරීම
 import-items-page-title = ආයාත කරන අංග
-
 import-items-description = ආයාත කරන දෑ තෝරන්න:
-
 import-permissions-page-title = { -brand-short-name } වෙත අවසර ලබා දෙන්න
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = සෆාරි හි පොත්යොමු වෙත ප්‍රවේශ වීමට { -brand-short-name } වෙත ඉපැහැදිලිව ඉඩ දීම මැක්ඕඑස් සඳහා අවශ්‍ය කෙරේ. “ඉදිරියට” එබීමෙන් පසු දිස්වන ගොනු මඬලෙහි “Bookmarks.plist” ගොනුව තෝරන්න.
-
 import-migrating-page-title = ආයාත වෙමින්...
-
 import-migrating-description = පහත අංග ආයාත වෙමින් තිබේ...
-
 import-select-profile-page-title = පැතිකඩ තෝරන්න
-
 import-select-profile-description = පහත සඳහන් පැතිකඩ ආයාත කිරීම සඳහා තිබේ:
-
 import-done-page-title = ආයාත කිරීම සම්පූර්ණයි
-
 import-done-description = පහත අංග සාර්ථකව ආයාත කරන ලදි:
-
 import-close-source-browser = ඉදිරියට යාමට පෙර තේරූ අතිරික්සුව වසා තිබෙන බව තහවුරු කර ගන්න.
-
 source-name-ie = ඉන්ටර්නෙට් එක්ස්ප්ලෝරර්
 source-name-edge = මයික්‍රොසොෆ්ට් එඩ්ගේ
 source-name-chrome = ගූගල් ක්‍රෝම්
-
 imported-safari-reading-list = කියවීමේ ලේඛනය (සෆාරි වෙතින්)
 imported-edge-reading-list = කියවීමේ ලේඛනය (එඩ්ගේ වෙතින්)
 
@@ -106,7 +93,6 @@ browser-data-cookies-checkbox =
     .label = දත්තකඩ
 browser-data-cookies-label =
     .value = දත්තකඩ
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +105,10 @@ browser-data-history-label =
             [firefox] පිරික්සුම් ඉතිහාසය හා පොත්යොමු
            *[other] පිරික්සුම් ඉතිහාසය
         }
-
 browser-data-formdata-checkbox =
     .label = සුරැකි ආකෘති ඉතිහාසය
 browser-data-formdata-label =
     .value = සුරැකි ආකෘති ඉතිහාසය
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +117,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = සුරකින ලද පිවිසුම් සහ මුරපද
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +131,10 @@ browser-data-bookmarks-label =
             [edge] ප්‍රියතමයන්
            *[other] පොත්යොමු
         }
-
 browser-data-otherdata-checkbox =
     .label = වෙනත් දත්ත
 browser-data-otherdata-label =
     .label = වෙනත් දත්ත
-
 browser-data-session-checkbox =
     .label = කවුළු හා පටිති
 browser-data-session-label =
