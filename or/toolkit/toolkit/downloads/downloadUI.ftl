@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] ଯଦି ଆପଣ ବର୍ତ୍ତମାନ ବିଦାୟ ନେବେ, 1 ଆହରଣ ବାତିଲ ହୋଇଯିବ. ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?
        *[other] ଯଦି ଆପଣ ବର୍ତ୍ତମାନ ବିଦାୟ ନେବେ, { $downloadsCount } ଆହରଣ ବାତିଲ ହୋଇଯିବ. ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] ବିଦାୟ ନିଅନ୍ତୁ ନାହିଁ
+       *[other] ପ୍ରସ୍ଥାନ କରନ୍ତୁ ନାହିଁ
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] ଯଦି ଆପଣ ବର୍ତ୍ତମାନ ଅଫ ଲାଇନ ହେଇଯାଉଛନ୍ତି, 1  ଆହରଣ ବାତିଲ ହୋଇଯିବ. ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଅଫ ଲାଇନ ହେବାକୁ ଚାହୁଁଛନ୍ତି?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = ନିଷ୍ପାଦ୍ୟ ଫାଇଲକୁ ଖୋଲନ୍ତୁ?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" ଟି ଗୋଟିଏ ନିଷ୍ପାଦ୍ୟ ଫାଇଲ. ନିଷ୍ପାଦ୍ୟ ଫାଇଲ ଭାଇରସ କିମ୍ବା ଅନ୍ୟ ତ୍ରୁଟିଯୁକ୍ତ ସଂକେତ ଧାରଣ କରିଥାଇପାରେ ଯାହାକି ଆପଣଙ୍କ କମ୍ପୁଟରକୁ କ୍ଷତି କରିପାରେ. ଏହି ଫାଇଲକୁ ଖୋଲିବା ସମୟରେ ସତର୍କତା ଅବଲମ୍ବନ କରନ୍ତୁ. ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ "{ $executable }"କୁ ଆରମ୍ଭ କରିବାକୁ ଯାଉଛନ୍ତି?
