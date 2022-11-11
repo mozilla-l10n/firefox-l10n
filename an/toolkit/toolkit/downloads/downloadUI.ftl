@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Si sale agora, se cancelará una descarga. Ye seguro que quiere salir?
        *[other] Si sale agora, se cancelarán { $downloadsCount } descargas. Ye seguro que quiere salir?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] No salir
+       *[other] No salir
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Si pasa agora ta o modo sin connexión, se cancelará una descarga. Ye seguro que quiere pasar ta o modo sin connexión?
@@ -38,3 +43,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Quiere ubrir o fichero executable?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" ye un fichero executable. Os fichers executables pueden contener virus u atros codigos maliciosos que podrían fer mal a o suyo equipo. Sía cauteloso en ubrir iste fichero. Ye seguro que quiere executar "{ $executable }"?
