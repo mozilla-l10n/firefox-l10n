@@ -20,6 +20,7 @@ webrtc-indicator-window =
 
 webrtc-item-camera = රූගතය
 webrtc-item-microphone = ශබ්දවාහිනිය
+webrtc-item-audio-capture = පටිත්තෙහි හඬ
 webrtc-item-application = යෙදුම
 webrtc-item-screen = තිරය
 webrtc-item-window = කවුළුව
@@ -27,6 +28,8 @@ webrtc-item-browser = පටිත්ත
 
 ##
 
+# This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
+webrtc-sharing-menuitem-unknown-host = නොදන්නා මූලයකි
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -117,6 +120,14 @@ webrtc-share-pipe-wire-portal = මෙ. පද්. සැකසුම් භා�
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = { $monitorIndex } තිරය
+# Variables:
+#   $windowCount (Number): the number of windows currently displayed by the application.
+#   $appName (String): the name of the application.
+webrtc-share-application =
+    { $windowCount ->
+        [one] { $appName } (කවුළු { $windowCount })
+       *[other] { $appName } (කවුළු { $windowCount })
+    }
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 
