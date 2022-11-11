@@ -8,6 +8,18 @@ download-utils-short-seconds =
         [one] s
        *[other] s
     }
+# Short form for minutes
+download-utils-short-minutes =
+    { $timeValue ->
+        [one] min
+       *[other] min
+    }
+# Short form for hours
+download-utils-short-hours =
+    { $timeValue ->
+        [one] h
+       *[other] h
+    }
 # Short form for days
 download-utils-short-days =
     { $timeValue ->
@@ -66,6 +78,11 @@ download-utils-time-pair = { $time } { $unit }
 # Variables:
 #   $time (String): time left, including a unit
 download-utils-time-left-single = Manca { $time }
+# examples: 11h 2m left; 1d 22h left
+# Variables:
+#   $time1 (String): time left, including a unit
+#   $time2 (String): smaller measure of time left, including a unit
+download-utils-time-left-double = Restant : { $time1 } { $time2 }
 download-utils-time-few-seconds = Lèu acabat
 download-utils-time-unknown = Lo temps que demòra es desconegut
 # Variables:
