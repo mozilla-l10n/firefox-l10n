@@ -23,11 +23,12 @@ downloads-cmd-cancel =
     .tooltiptext = &Haaytu
 downloads-cmd-cancel-panel =
     .aria-label = &Haaytu
-  
+
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 
 ##
 
@@ -52,42 +53,33 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Momtu Gaawte
     .accesskey = G
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Yamir Aawtagol
     .accesskey = o
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Momtu Fiilde
-
 downloads-cmd-remove-file-panel =
     .aria-label = Momtu Fiilde
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Momtu Fiilde walla Yamir Aawtagol
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Momtu Fiilde walla Yamir Aawtagol
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Uddit walla Momtu Fiilde
-
 downloads-cmd-choose-open-panel =
     .aria-label = Uddit walla Momtu Fiilde
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Hollit kabaruuji goɗɗi
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -101,25 +93,23 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Fuɗɗito Gawtagol
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Haaytu Gawtagol
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Hollu Gaawte Fof
     .accesskey = H
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -130,18 +120,20 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+
 ##
 
 downloads-clear-downloads-button =
     .label = Momtu Gaawte
     .tooltiptext = Momtugol timmii, gaawte kaaytaaɗe e goorɗe
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Alaa gaawte.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Gaawte ngalaa wonannde ngal naatal.
 
+## Download errors
+
+downloads-error-alert-title = Huulre Aawtagol
