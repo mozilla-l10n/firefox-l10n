@@ -136,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = 도움 받기
 urlbar-search-tips-confirm = 확인
+urlbar-search-tips-confirm-short = 확인
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
