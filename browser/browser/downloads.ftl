@@ -215,6 +215,7 @@ downloads-more-downloading =
 
 ## Download errors
 
+downloads-error-alert-title = Σφάλμα λήψης
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Δεν είναι δυνατή η αποθήκευση του ληφθέντος αρχείου λόγω ενός άγνωστου σφάλματος.
