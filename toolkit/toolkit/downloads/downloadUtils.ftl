@@ -68,6 +68,7 @@ download-utils-time-left-single = Còn { $time }
 #   $time2 (String): smaller measure of time left, including a unit
 download-utils-time-left-double = Còn { $time1 } { $time2 }
 download-utils-time-few-seconds = Còn vài giây
+download-utils-time-unknown = Không rõ thời gian còn lại
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } tài nguyên
