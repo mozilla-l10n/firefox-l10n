@@ -216,3 +216,13 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Ñemboguejy jejavy
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Pe ñemboguejy ndaikatúi eñongatu { $extension } ojokóma rupi.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Pe ñemboguejy ndaikatúi eñongatu ojoko rupi chupe peteĩ jepysokue.
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Ñemboguejy ndaikatúi eñongatu oiko rupi peteĩ jejavy jekuaa’ỹva.
+    
+    Eha’ã jey.
