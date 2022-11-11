@@ -38,3 +38,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Адчыніць выканальны файл?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = “{ $executable }” выканальны файл. Выканальныя файлы могуць змяшчаць вірусы ці іншы зламысны код, які можа пашкодзіць ваш камп'ютар. З абачлівасцю адчыняйце гэты файл. Вы сапраўды жадаеце запусціць “{ $executable }”?
