@@ -137,3 +137,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Lejupielādes kļūda
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    Šo lejupielādi nevar saglabāt, jo gadījās nezināma kļūda.
+    
+    Lūdzu, mēģiniet vēlreiz.
