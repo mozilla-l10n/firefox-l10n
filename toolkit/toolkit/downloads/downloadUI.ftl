@@ -7,6 +7,16 @@ download-ui-confirm-title = Czy anulować pobieranie wszystkich plików?
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] Jeśli skończysz teraz pracę programu, pobieranie bieżącego pliku zostanie anulowane. Czy na pewno zakończyć pracę programu?
+       *[other] Jeśli skończysz teraz pracę programu, pobieranie wszystkich { $downloadsCount } plików zostanie anulowane. Czy na pewno zakończyć pracę programu?
+    }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Jeśli skończysz teraz pracę programu, pobieranie bieżącego pliku zostanie anulowane. Czy na pewno zakończyć pracę programu?
+       *[other] Jeśli skończysz teraz pracę programu, pobieranie wszystkich { $downloadsCount } plików zostanie anulowane. Czy na pewno zakończyć pracę programu?
+    }
 download-ui-dont-quit-button =
     { PLATFORM() ->
         [mac] Nie zamykaj
