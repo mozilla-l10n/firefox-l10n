@@ -7,6 +7,16 @@ download-ui-confirm-title = Kurhoxiswe konke okukhutshelwayo?
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
+download-ui-confirm-quit-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ukuba uyaphuma ngoku, kuya kurhoxiswa okukhutshelwayo oku-1. Uqinisekile ukuba ufuna ukuphuma?
+       *[other] Ukuba uphuma ngoku, kuya kurhoxiswa okukhutshelwayo oku-{ $downloadsCount }. Uqinisekile ufuna ukuphuma?
+    }
+download-ui-confirm-quit-cancel-downloads-mac =
+    { $downloadsCount ->
+        [1] Ukuba uphuma ngoku, okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukuphuma?
+       *[other] Ukuba uphuma ngoku, kuya kurhoxiswa okukhutshelwayo oku-{ $downloadsCount }. Uqinisekile ufuna ukuphuma?
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ukuba uyaphuma kwinethiwekhi ngoku, okukhutshelwayo oku-1 kuya kurhoxiswa. Uqinisekile ufuna ukuphuma kwinethiwekhi?
