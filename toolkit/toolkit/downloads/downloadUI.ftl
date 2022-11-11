@@ -13,6 +13,7 @@ download-ui-dont-quit-button =
        *[other] Quitar pas
     }
 download-ui-dont-go-offline-button = Demorar en linha
+download-ui-dont-leave-private-browsing-button = Demorar dins lo mòde de navegacion privada
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Anullar lo telecargament
