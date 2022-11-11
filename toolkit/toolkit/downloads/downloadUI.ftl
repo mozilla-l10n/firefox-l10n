@@ -22,6 +22,11 @@ download-ui-dont-quit-button =
         [mac] Ekki hætta
        *[other] Ekki hætta
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ef vinnur án nettengingar, verður 1 niðurhali eytt. Ertu viss um að þú viljir hætta?
+       *[other] Ef þú vinnur án nettengingar, verður { $downloadsCount } niðurhölum eytt. Ertu viss um að þú viljir hætta?
+    }
 download-ui-dont-go-offline-button = Vera nettengdur
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
