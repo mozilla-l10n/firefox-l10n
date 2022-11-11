@@ -8,6 +8,8 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = Jepysokue nomoñe’ẽi ha nomoambuekuaái mba’ekuaarã
 origin-controls-options =
     .label = Jepysokue omoñe’ẽ ha omoambuekuaa mba’ekuaarã:
 origin-controls-option-all-domains =
@@ -27,3 +29,4 @@ origin-controls-option-always-on =
 origin-controls-state-no-access = Namoñe’ẽi ha namoambuekuaái mba’ekuaarã ko tendápe
 origin-controls-state-always-on = Amoñe’ẽ ha amoambuekuaa mba’ekuaarã ko tendápe
 origin-controls-state-when-clicked = Ñemoneĩ emoñe’ẽ ha emoambue hag̃ua mba’ekuaarã
+origin-controls-state-hover-run-visit-only = Neañoite ko jeiképe g̃uarã
