@@ -22,6 +22,11 @@ download-ui-dont-quit-button =
         [mac] Se Kgaotse
        *[other] Se Tswe
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Ha o hokolla hona jwale, tjarollo e 1 e tla khanselwa. Na o tiile o batla ho hakolla?
+       *[other] Ha o hokolla hona jwale, ditjarollo tse { $downloadsCount } di tla khanselwa. Na o tiile o batla ho hakolla?
+    }
 download-ui-dont-go-offline-button = Dula o Hoketse
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
