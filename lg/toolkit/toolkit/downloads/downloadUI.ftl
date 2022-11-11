@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Bwonddukamu kati, 1 okuwanula kuja kuba kusalidwamu. Okakasa oyagala kunddukamu?
        *[other] Bwokunddukamu kati, { $downloadsCount } ebiwanulwa bijja kuba bisalidwamu. Okakasa oyagala kunddukamu?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Toggalawo
+       *[other] Tofuluma
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Bwoba olibweru wolutimbe kati, 1 kuwanula kuja kuba kusazidwamu. Okakasa oyagala kugenda obweru wolutimbe?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Ggalawo Fayiro Enkola?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" eno fayiro ekolebwa. Fayiro ezikolebwa ziyinza okuba ne biwuka oba enamba embi ezisobola okukosa kompyuuta yo. Kozesa obwegendereza bwo ba ogulawo fayiro eno. Omaliridde okutandika "{ $executable }"?
