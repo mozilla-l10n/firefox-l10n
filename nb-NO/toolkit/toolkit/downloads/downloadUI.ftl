@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Dersom du avslutter nå vil 1 nedlasting bli avbrutt. Er du sikker på at du vil avslutte?
        *[other] Dersom du avslutter nå vil { $downloadsCount } nedlastinger bli avbrutt. Er du sikker på at du vil avslutte?
     }
+download-ui-dont-quit-button =
+    { PLATFORM() ->
+        [mac] Ikke avslutt
+       *[other] Ikke avslutt
+    }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Dersom du kobler fra nå vil 1 nedlasting bli avbrutt. Er du sikker på at du vil koble fra?
@@ -32,3 +37,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = Åpne programfil?
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = «{ $executable }» er en programfil. Programfiler kan inneholde virus eller annen kode som kan skade datamaskinen. Vær forsiktig med å åpne slike filer. Er du sikker på at du vil åpne «{ $executable }»?
