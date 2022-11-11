@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] При переходе в автономный режим работы будет отменено несколько ({ $downloadsCount }) загрузок. Вы действительно этого хотите?
     }
 download-ui-dont-go-offline-button = Сохранить подключение
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] Если вы сейчас закроете все приватные окна, будет отменена 1 загрузка. Вы уверены, что хотите выйти из приватного режима?
+       *[other] Если вы сейчас закроете все приватные окна, будет отменено { $downloadsCount } загрузок. Вы уверены, что хотите выйти из приватного режима?
+    }
+download-ui-dont-leave-private-browsing-button = Остаться в приватном режиме
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Отменить загрузку
