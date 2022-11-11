@@ -214,6 +214,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Lỗi Tải Xuống
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Không thể lưu tải xuống vì bị chặn bởi { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Không thể lưu tải xuống do bị chặn bởi tiện ích mở rộng.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Không thể lưu tập tin tải xuống vì có lỗi xảy ra.
