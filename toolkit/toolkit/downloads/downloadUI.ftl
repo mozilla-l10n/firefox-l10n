@@ -7,6 +7,7 @@
 ##   $downloadsCount (Number): The current downloads count.
 
 download-ui-dont-go-offline-button = Fan ar líne
+download-ui-dont-leave-private-browsing-button = Leat ort le Brabhsáil Phríobháideach
 
 ##
 
