@@ -17,6 +17,11 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Fa o tloga jaanong, go tla khanselwa kopololo e le 1. A o totobetse gore o batla go tloga?
        *[other] Fa o tloga jaanong, go tla khanselwa dikopololo di le { $downloadsCount }. A o totobetse gore o batla go tloga?
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] Fa o kgaoga nakwana jaanong, go tla khanselwa kopololo e le 1. A o totobetse gore o batla go kgaoga nakwana?
+       *[other] Fa o kgaoga nakwana jaanong, go tla khanselwa dikopololo di le { $downloadsCount }. A o totobetse gore o batla go kgaoga nakwana?
+    }
 download-ui-dont-go-offline-button = Nna mo Kgokaganong ya Inthanete
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
