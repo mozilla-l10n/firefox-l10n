@@ -31,10 +31,17 @@ source-file2 = Файлдан импорттау
 
 ## Import from file selections
 
+file-calendar = Күнтізбелерді импорттау
+file-calendar-description = Экспортталған күнтізбелер немесе оқиғалары (.ics) бар файлды таңдаңыз.
+file-addressbook = Адрестік кітапшаларын импорттау
 
 ## Import from app profile steps
 
 from-app-thunderbird = { app-name-thunderbird } профилінен импорттау
+from-app-seamonkey = { app-name-seamonkey } профилінен импорттау
+from-app-outlook = { app-name-outlook } ішінен импорттау
+from-app-becky = { app-name-becky } ішінен импорттау
+from-app-apple-mail = { app-name-apple-mail } ішінен импорттау
 profile-source = Профильден импорттау
 items-pane-directory = Бума:
 items-pane-profile-name = Профиль аты:
