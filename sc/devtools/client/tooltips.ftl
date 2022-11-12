@@ -28,7 +28,7 @@ inactive-css-not-table = <strong>{ $property }</strong> non tenet nissunu efetu 
 
 inactive-css-not-grid-or-flex-container-fix = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>. { learn-more }
-inactive-css-not-grid-or-flex-item-fix-3 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a s'elementu "parent".
+inactive-css-not-grid-or-flex-item-fix-3 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a s'elementu "parent". { learn-more }
 inactive-css-not-grid-container-fix = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
