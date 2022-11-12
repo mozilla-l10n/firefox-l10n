@@ -18,11 +18,17 @@ callout-firefox-view-recently-closed-subtitle = แท็บทั้งหม�
 callout-firefox-view-colorways-title = เลือกสีสันที่คุณชอบ
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = เลือกเฉดสีที่บ่งบอกความเป็นตัวคุณ มีให้ใช้เฉพาะใน { -brand-product-name } เท่านั้น
+callout-firefox-view-colorways-reminder-title = สำรวจชุดรูปแบบสีล่าสุดของเรา
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = ท่องเว็บได้ดีขึ้นด้วยการรับแท็บ
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = เริ่มต้นใช้งาน
 
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-button = ถัดไป
+callout-pdfjs-draw-button = เข้าใจแล้ว!

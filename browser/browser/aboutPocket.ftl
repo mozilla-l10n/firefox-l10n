@@ -22,6 +22,7 @@ pocket-panel-saved-page-saved = บันทึกไปยัง { -pocket-bran
 pocket-panel-saved-page-saved-b = บันทึกไปยัง { -pocket-brand-name } แล้ว!
 pocket-panel-saved-processing-remove = กำลังลบหน้า…
 pocket-panel-saved-removed = ลบหน้าออกจาก “รายการของฉัน” แล้ว
+pocket-panel-saved-removed-updated = ลบหน้าออกจากรายการที่บันทึกไว้แล้ว
 pocket-panel-saved-processing-tags = กำลังเพิ่มป้ายกำกับ…
 pocket-panel-saved-remove-page = ลบหน้า
 pocket-panel-saved-save-tags = บันทึก
@@ -45,8 +46,10 @@ pocket-panel-signup-tagline-story-one = คลิกปุ่ม { -pocket-brand
 pocket-panel-signup-tagline-story-two = ดูใน { -pocket-brand-name } บนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
 pocket-panel-signup-cta-a-fix = ปุ่มบันทึกของคุณสำหรับอินเทอร์เน็ต
 pocket-panel-signup-cta-b = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์ ดูรายการของคุณบนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
+pocket-panel-signup-cta-b-updated = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์ ดูรายการที่บันทึกไว้ของคุณบนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
 pocket-panel-signup-cta-b-short = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์
 pocket-panel-signup-cta-c = ดูรายการของคุณบนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
+pocket-panel-signup-cta-c-updated = ดูรายการที่บันทึกไว้ของคุณบนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
 
 ## about:pocket-home panel
 
