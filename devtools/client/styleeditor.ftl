@@ -21,6 +21,7 @@ styleeditor-save-button = Kaydet
 styleeditor-options-button =
     .tooltiptext = Stil editörü seçenekleri
 styleeditor-media-rules = @media kuralları
+styleeditor-at-rules = “At” kuralları
 styleeditor-editor-textbox =
     .data-placeholder = CSS’i buraya yazın.
 styleeditor-no-stylesheet = Bu sayfanın stil sayfası yok.
