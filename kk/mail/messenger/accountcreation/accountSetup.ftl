@@ -102,18 +102,55 @@ account-setup-step5-image =
 
 ## Manual configuration area
 
+account-setup-manual-config-title = Қолдан баптау
+account-setup-incoming-server-legend = Кіріс пошта сервері
+account-setup-protocol-label = Хаттама:
+account-setup-hostname-label = Хост аты:
+account-setup-port-label = Порт:
+    .title = Автоанықтау үшін порт нөмірін 0 етіп қойыңыз
+account-setup-auto-description = { -brand-short-name } бос қалдырылған өрістерді автоматты түрде анықтауға әрекет жасайды.
+account-setup-ssl-label = Байланыс қауіпсіздігі:
+account-setup-outgoing-server-legend = Шығыс пошта сервері
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Автоанықтау
+ssl-no-authentication-option = Аутентификациясы жоқ
+ssl-cleartext-password-option = Қалыпты пароль
+ssl-encrypted-password-option = Шифрленген пароль
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = Ешнәрсе
+account-setup-auth-label = Аутентификация тәсілі:
+account-setup-username-label = Пайдаланушы аты:
+account-setup-advanced-setup-button = Кеңейтілген баптаулар
+    .accesskey = а
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Ескерту!
+account-setup-insecure-incoming-title = Кіріс пошта баптаулары:
+account-setup-insecure-outgoing-title = Шығыс пошта баптаулары:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> шифрлеуді қолданбайды.
+account-setup-warning-cleartext-details = Қауіпсіз емес пошта серверлері пароліңіз және жеке ақпаратыңызды қорғайтын шифрленген байланыстарды қолданбайды. Бұл серверге байланысу нәтижесінде сіздің пароліңіз және жеке ақпаратыңыз ұрлануы мүмкін.
+account-setup-insecure-server-checkbox = Мен қауіпті түсініп тұрмын.
+    .accesskey = п
+account-setup-insecure-description = { -brand-short-name } сізге поштаны алу үшін көрсетілген баптауларды қолдануға рұқсат етуі мүмкін. Бірақ, сіз осы дәлсіз баптаулар жөнінде әкімшіңізбен немесе эл. пошта қызметтерін ұсынушыңызбен хабарласуыңыз керек. Көбірек білу үшін <a data-l10n-name="thunderbird-faq-link">Thunderbird ЖҚС</a> қараңыз.
+insecure-dialog-cancel-button = Баптауларды өзгерту
+    .accesskey = п
+insecure-dialog-confirm-button = Растау
+    .accesskey = с
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } { $domain } жерінде сіздің тіркелгіңіздің баптау ақпаратын тапты. Жалғастырып, тіркеу мәліметтерін жіберуді қалайсыз ба?
+exchange-dialog-confirm-button = Кіру
+exchange-dialog-cancel-button = Бас тарту
 
 ## Dismiss account creation dialog
 

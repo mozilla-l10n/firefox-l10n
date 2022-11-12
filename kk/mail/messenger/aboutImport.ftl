@@ -34,6 +34,7 @@ source-file2 = Файлдан импорттау
 file-calendar = Күнтізбелерді импорттау
 file-calendar-description = Экспортталған күнтізбелер немесе оқиғалары (.ics) бар файлды таңдаңыз.
 file-addressbook = Адрестік кітапшаларын импорттау
+file-addressbook-description = Экспортталған адрестік кітапшалары мен контактілері бар файлды таңдаңыз
 
 ## Import from app profile steps
 
@@ -52,6 +53,11 @@ items-pane-checkbox-mail-messages = Пошта хабарламалары
 
 ## Import from address book file steps
 
+addr-book-ldif-file = LDIF файлы (.ldif)
+addr-book-vcard-file = vCard файлы (.vcf, .vcard)
+addr-book-sqlite-file = SQLite дерекқор файлы (.sqlite)
+addr-book-mab-file = Mork дерекқор файлы (.mab)
+addr-book-file-picker = Адрестік кітапша файлын таңдаңыз
 
 ## Import from calendar file steps
 
@@ -59,18 +65,35 @@ items-pane-checkbox-mail-messages = Пошта хабарламалары
 ## Import dialog
 
 error-pane-title = Қате
+error-message-no-profile = Профиль табылмады.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Бірінші жолда - өріс атаулары
 
 ## Export tab
 
+export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Импортталатын деректер
+summary-pane-start = Импорттауды бастау
+summary-pane-warning = Импорттау аяқталған кезде { -brand-product-name } қайта іске қосылуы керек.
+summary-pane-start-over = Импорттау құралын қайта іске қосу
 
 ## Footer area
 
+footer-help = Көмек керек пе?
+footer-import-documentation = Импорттау құжаттамасы
+footer-export-documentation = Экспорттау құжаттамасы
+footer-support-forum = Қолдау форумы
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Импорттау қадамдары
+step-confirm = Растау
+# Variables:
+# $number (number) - step number
+step-count = { $number }
