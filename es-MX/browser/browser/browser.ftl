@@ -136,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Obtener ayuda
 urlbar-search-tips-confirm = De acuerdo, lo entiendo
+urlbar-search-tips-confirm-short = Entendido
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
