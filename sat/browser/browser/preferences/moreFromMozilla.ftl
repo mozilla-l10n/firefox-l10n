@@ -5,6 +5,9 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+more-from-moz-title = { -vendor-short-name } ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮ
+more-from-moz-category =
+    .tooltiptext = { -vendor-short-name } ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮ
 more-from-moz-firefox-mobile-title = { -brand-product-name } ᱢᱳᱵᱟᱭᱤᱞ
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
