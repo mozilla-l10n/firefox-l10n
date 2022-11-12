@@ -10,15 +10,22 @@
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Cunfiguratziones cumpletas
+perftools-heading-features = Caraterìsticas
+perftools-heading-features-default = Caraterìsticas (cussigiadas in manera predefinida)
+perftools-heading-features-disabled = Caraterìsticas disativadas
+perftools-heading-features-experimental = Isperimentales
 
 ##
 
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+perftools-devtools-interval-label = Intervallu:
 perftools-devtools-settings-label = Cunfiguratzione
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -26,10 +33,19 @@ perftools-devtools-settings-label = Cunfiguratzione
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Firmende sa registratzione
+perftools-request-to-get-profile-and-stop-profiler = Caturende su profilu
 
 ##
 
+perftools-button-start-recording = Cumintza a registrare
+perftools-button-capture-recording = Catura sa registratzione
+perftools-button-cancel-recording = Annulla sa registratzione
+perftools-button-save-settings = Sarva is cunfiguratziones e torra a coa
 perftools-button-restart = Torra a aviare
+perftools-button-add-directory = Agiunghe una cartella
+perftools-button-remove-directory = Cantzella sa seletzione
+perftools-button-edit-settings = Modìfica sa cunfiguratzione...
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
