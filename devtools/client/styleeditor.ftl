@@ -21,6 +21,7 @@ styleeditor-save-button = Сақтау
 styleeditor-options-button =
     .tooltiptext = Стильдер түзетуші баптаулары
 styleeditor-media-rules = @media ережелері
+styleeditor-at-rules = At-ережелері
 styleeditor-editor-textbox =
     .data-placeholder = CSS осында теріңіз.
 styleeditor-no-stylesheet = Бұл парақта стильдер тізімі жоқ.
