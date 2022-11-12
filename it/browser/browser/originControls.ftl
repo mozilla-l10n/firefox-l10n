@@ -14,10 +14,10 @@ origin-controls-options =
     .label = L’estensione può leggere e modificare dati:
 
 origin-controls-option-all-domains =
-    .label = in qualsiasi sito
+    .label = In qualsiasi sito
 
 origin-controls-option-when-clicked =
-    .label = solo quando si fa clic
+    .label = Solo quando si fa clic
 
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
