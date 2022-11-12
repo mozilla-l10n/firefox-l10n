@@ -7,6 +7,12 @@
 
 appmenu-sync-panel-title =
     .title = Sinhronizacija
+appmenu-signin-panel =
+    .label = Prijava v sinhronizacijo
+    .accesskey = i
+appmenu-sync-manage =
+    .value = Upravljanje računa
+    .accesskey = U
 appmenu-sync-account =
     .value = e-posta@example.com
 appmenu-sync-now =
