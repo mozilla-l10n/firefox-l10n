@@ -64,6 +64,18 @@ perftools-button-edit-settings = Modìfica sa cunfiguratzione...
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Profilu cussigiadu pro descrìere { -brand-shorter-name }
+perftools-presets-graphics-label = Gràficas
+perftools-presets-graphics-description = Profilu pro compidare faddinas de gràfica in { -brand-shorter-name }.
+perftools-presets-media-label = Cuntenutos multimediales
+perftools-presets-media-description2 = Profilu pro compidare faddinas de àudio e vìdeu in { -brand-shorter-name }.
+perftools-presets-networking-label = Rete
+perftools-presets-networking-description = Profilu pro compidare faddinas de rete in { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Energia
+perftools-presets-power-description = Profilu pro compidare faddinas de impreu de energia in { -brand-shorter-name }, cun subra-càrriga (overhead) bàscia.
+perftools-presets-custom-label = Personalizadu
 
 ##
 
