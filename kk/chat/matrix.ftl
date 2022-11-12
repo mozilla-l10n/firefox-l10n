@@ -9,3 +9,12 @@
 ## Conversation names when a room has no user readable name.
 
 room-name-empty = Бос сөйлесу
+# Variables:
+#  $participant (String) - The name of one participant that isn't the user.
+#  $otherParticipantsCount (Number) - The count of other participants apart from
+#    the user and $participant.
+room-name-others =
+    { $otherParticipantsCount ->
+        [one] { $participant } және { $otherParticipantCount } басқа
+       *[other] { $participant } және { $otherParticipantCount } басқа
+    }
