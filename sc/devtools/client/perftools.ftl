@@ -29,6 +29,7 @@ perftools-devtools-settings-label = Cunfiguratzione
 
 ##
 
+perftools-button-restart = Torra a aviare
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
@@ -37,12 +38,8 @@ perftools-devtools-settings-label = Cunfiguratzione
 
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
+
 
 ## Profiler presets
 
