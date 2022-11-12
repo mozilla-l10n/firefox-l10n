@@ -157,15 +157,38 @@ exchange-dialog-cancel-button = Бас тарту
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Тіркелгіні жасау қатесі
+account-setup-error-server-exists = Кіріс пошта сервері бар болып тұр.
+account-setup-confirm-advanced-title = Кеңейтілген баптауларды растау
+account-setup-confirm-advanced-description = Бұл сұхбат терезесі жабылады және конфигурация дұрыс болмаса да, ағымдағы параметрлермен тіркелгі жасалады. Жалғастырғыңыз келе ме?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Орнату
+account-setup-addon-install-intro = Үшінші жақты қосымша арқылы бұл сервердегі эл. пошта тіркелгіңізге қатынай аласыз:
 
 ## Success view
 
+account-setup-settings-button = Тіркелгі баптаулары
+account-setup-encryption-button = Өтпелі шифрлеу
+account-setup-signature-button = Қолтаңба қосу
+account-setup-dictionaries-button = Сөздіктерді жүктеп алу
+account-setup-address-book-carddav-button = CardDAV адрестік кітапшасына байланысу
+account-setup-address-book-ldap-button = LDAP адрестік кітапшасына байланысу
+account-setup-calendar-button = Қашықтағы күнтізбеге байланысу
+account-setup-linked-services-title = Байланыстырылған қызметтерді қосу
+account-setup-button-finish = Аяқтау
+    .accesskey = я
 account-setup-address-books-button = Адрестік кітапшалар
 account-setup-calendars-button = Күнтізбелер
 account-setup-connect-link = Байланысу
 
 ## Calendar synchronization dialog
 
+account-setup-calendar-color-label = Түс
+account-setup-calendar-refresh-label = Жаңарту
+account-setup-calendar-refresh-manual = Қолмен
+account-setup-calendar-refresh-interval =
+    { $count ->
+       *[other] Әр { $count } минут сайын
+    }
