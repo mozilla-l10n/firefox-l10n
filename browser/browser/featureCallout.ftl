@@ -31,4 +31,5 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = เริ�
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-button = ถัดไป
+callout-pdfjs-draw-title = เซ็นชื่อในเอกสารด้วยเครื่องมือวาดใหม่ของเรา
 callout-pdfjs-draw-button = เข้าใจแล้ว!

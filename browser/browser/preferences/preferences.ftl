@@ -179,6 +179,8 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = จับคู่การตั้งค่าชุดตกแต่ง { -brand-short-name } ของคุณสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-tooltip-system =
     .title = จับคู่การตั้งค่าระบบของคุณสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+preferences-web-appearance-choice-tooltip-auto =
+    .title = เปลี่ยนพื้นหลังและเนื้อหาของเว็บไซต์โดยอัตโนมัติตามการตั้งค่าระบบและชุดตกแต่ง { -brand-short-name }
 preferences-web-appearance-choice-tooltip-light =
     .title = ใช้ลักษณะที่ปรากฏแบบสว่างสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-tooltip-dark =
@@ -187,6 +189,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -572,6 +576,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = แสดงข้อเสนอแนะการค้นหาในผลลัพธ์ของแถบที่อยู่
     .accesskey = ส
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = แสดงคำค้นหาแทน URL บนหน้าผลลัพธ์ของเครื่องมือค้นหาเริ่มต้น
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
