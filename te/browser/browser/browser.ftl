@@ -57,6 +57,9 @@ browser-main-window-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } అంతరంగిక విహారణ
 
 ##
 
@@ -110,6 +113,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = సహాయం పొందండి
 urlbar-search-tips-confirm = సరే, అర్థమైంది
+urlbar-search-tips-confirm-short = అర్థమైంది
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -229,6 +233,8 @@ search-one-offs-tabs =
     .tooltiptext = ట్యాబులు ({ $restrict })
 search-one-offs-history =
     .tooltiptext = చరిత్ర ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = చర్యలు ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
