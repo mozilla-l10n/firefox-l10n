@@ -21,6 +21,7 @@ styleeditor-save-button = Spara
 styleeditor-options-button =
     .tooltiptext = Alternativ för stilredigerare
 styleeditor-media-rules = Media-förfrågningar
+styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Skriv in CSS här.
 styleeditor-no-stylesheet = Den här sidan har ingen stilmall.

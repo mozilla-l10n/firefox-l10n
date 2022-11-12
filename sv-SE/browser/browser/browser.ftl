@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Privat surfning
 
 ##
@@ -134,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Få hjälp
 urlbar-search-tips-confirm = Ok, jag förstår
+urlbar-search-tips-confirm-short = Jag förstår
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -147,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Skriv mindre, hitta mer: Sök med { $engineName } direkt från ditt adressfält.
 urlbar-search-tips-redirect-2 = Starta din sökning i adressfältet för att se förslag från { $engineName } och din surfhistorik.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Det har blivit enklare att söka. Försök att göra din sökning mer specifik här i adressfältet. För att visa webbadressen istället, besök Sök i inställningarna.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Välj den här genvägen för att hitta det du behöver snabbare.
