@@ -81,7 +81,7 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능이 이 설정을 제어합니다.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능에는 컨테이너 탭이 필요합니다.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong>에 컨테이너 탭 필요.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능이 이 설정을 제어합니다.
@@ -142,7 +142,7 @@ warn-on-open-many-tabs =
     .label = 여러개의 탭을 열어서 { -brand-short-name }가 느려질 수 있으면 알려주기
     .accesskey = d
 switch-to-new-tabs =
-    .label = 링크, 이미지 또는 미디어를 새 탭에 열면 해당 탭으로 즉시 전환
+    .label = 링크, 이미지 또는 미디어를 새 탭에서 열면 해당 탭으로 즉시 전환
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Windows 작업 표시줄에 탭 미리 보기 표시
