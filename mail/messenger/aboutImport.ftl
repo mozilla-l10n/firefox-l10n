@@ -37,9 +37,17 @@ source-file2 = Importoni prej një kartele
 ## Import from file selections
 
 file-calendar = Importoni Kalendarë
+file-calendar-description = Përzgjidhni një kartelë që përmban Kalendarë ose Veprimtari (.ics)
+file-addressbook = Importo Libra Adresash
 
 ## Import from app profile steps
 
+from-app-becky = Importoni nga { app-name-becky }
+from-app-apple-mail = Importoni nga { app-name-apple-mail }
+profile-file-picker-directory = Zgjidhni dosje profili
+profile-file-picker-archive = Zgjidhni një kartelë <strong>ZIP</strong>
+items-pane-directory = Drejtori:
+items-pane-profile-name = Emër profili:
 items-pane-checkbox-accounts = Llogari dhe Rregullime
 items-pane-checkbox-address-books = Libra Adresash
 items-pane-checkbox-calendars = Kalendarë
@@ -84,13 +92,28 @@ csv-target-field = Fushë libri adresash
 ## Export tab
 
 export-open-profile-folder = Hapni dosje profili
+export-file-picker2 = Eksportoje si një kartelë ZIP
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Të dhëna për t’u importuar
+summary-pane-start = Filloni Importimin
+summary-pane-warning = { -brand-product-name }-i do të duhet të riniset, kur të jetë plotësuar importimi.
+summary-pane-start-over = Rinis Mjetin e Importimeve
 
 ## Footer area
 
+footer-help = Ju duhet ndihmë?
+footer-import-documentation = Importoni dokumentim
+footer-export-documentation = Eksportoni dokumentim
+footer-support-forum = Forum asistence
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Hapa importimi
+step-confirm = Ripohojeni
+# Variables:
+# $number (number) - step number
+step-count = { $number }
