@@ -26,6 +26,12 @@ about-rights-notification-text = { -brand-short-name } - бұл еркін жә�
 
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Қосымшалар және темалар
+    .tooltiptext = Қосымшаларыңызды басқару
+quick-filter-toolbarbutton =
+    .label = Жедел сүзгі
+    .tooltiptext = Хабарламаларды сүзгілеу
 
 ## Folder Pane
 
@@ -87,12 +93,35 @@ message-header-button-style-icons =
 
 ## no-reply handling
 
+no-reply-reply-anyway-button = Сонда да жауап беру
 
 ## error messages
 
 
 ## Spaces toolbar
 
+spaces-toolbar-button-mail2 =
+    .title = Эл. пошта
+spaces-toolbar-button-address-book2 =
+    .title = Адрестік кітапша
+spaces-toolbar-button-calendar2 =
+    .title = Күнтізбе
+spaces-toolbar-button-tasks2 =
+    .title = Тапсырмалар
+spaces-toolbar-button-chat2 =
+    .title = Чат
+spaces-toolbar-button-settings2 =
+    .title = Баптаулар
+spaces-context-new-tab-item =
+    .label = Жаңа бетте ашу
+spaces-context-new-window-item =
+    .label = Жаңа терезеде ашу
+settings-context-open-settings-item2 =
+    .label = Баптаулар
+settings-context-open-account-settings-item2 =
+    .label = Тіркелгі баптаулары
+settings-context-open-addons-item2 =
+    .label = Қосымшалар және темалар
 
 ## Spaces toolbar pinned tab menupopup
 

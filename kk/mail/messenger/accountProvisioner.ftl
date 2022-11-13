@@ -6,6 +6,10 @@ account-provisioner-mail-account-title = Жаңа эл. пошта адресі�
 
 ## Forms
 
+account-provisioner-search-button = Іздеу
+account-provisioner-button-cancel = Бас тарту
+account-provisioner-button-existing = Бар болып тұрған эл. пошта тіркелгісін қолдану
+account-provisioner-button-back = Артқа
 
 ## Notifications
 

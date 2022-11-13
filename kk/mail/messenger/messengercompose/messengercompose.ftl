@@ -113,6 +113,9 @@ encryption-menu =
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Кімнен адресіне сай келетін бірегей жеке мәліметтер табылмады. Хабарлама ағымдағы Кімнен өрісі және { $identity } жеке мәліметтерінің баптауларын қолданып жіберіледі.
 
 ## Editing
 

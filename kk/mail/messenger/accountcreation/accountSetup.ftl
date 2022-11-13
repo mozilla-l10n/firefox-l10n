@@ -96,9 +96,17 @@ account-setup-step5-image =
 
 ## Results area
 
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Бар болып тұрған шығыс SMTP серверін қолдану
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Аутентификация сәтсіз аяқталды. Енгізілген тіркеу мәліметтері қате, немесе кіру үшін бөлек пайдаланушы аты керек болып тұр. Бұл пайдаланушы аты әдетте сіздің Windows доменінің логині (домен бөлігіwith or without the domain (for example, janedoe or AD\\janedoe).
+account-setup-credentials-wrong = Аутентификация сәтсіз аяқталды. Пайдаланушы атын мен парольді тексеріңіз
+account-setup-find-settings-failed = { -brand-short-name } сіздің эл. пошта тіркелгісі үшін баптауларды таба алмады.
+account-setup-exchange-config-unverifiable = Баптауларды растау мүмкін емес. Пайдаланушы аты мен пароліңіз дұрыс болса, бұл сервер әкімшісі сіздің тіркелгіңіз үшін таңдалған баптауды сөндіргенін білдіруі мүмкін. Басқа хаттаманы таңдап көріңіз.
 
 ## Manual configuration area
 
