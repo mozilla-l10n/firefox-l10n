@@ -46,6 +46,7 @@ pocket-panel-signup-tagline-story-one = Κάντε κλικ στο κουμπί 
 pocket-panel-signup-tagline-story-two = Προβολή στο { -pocket-brand-name } σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
 pocket-panel-signup-cta-a-fix = Το κουμπί αποθήκευσής σας για το διαδίκτυο
 pocket-panel-signup-cta-b = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε άρθρα, βίντεο και συνδέσμους. Δείτε τη λίστα σας σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
+pocket-panel-signup-cta-b-updated = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε άρθρα, βίντεο και συνδέσμους. Δείτε τα αποθηκευμένα στοιχεία σας σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
 pocket-panel-signup-cta-b-short = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε άρθρα, βίντεο και συνδέσμους.
 pocket-panel-signup-cta-c = Δείτε τη λίστα σας σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
 pocket-panel-signup-cta-c-updated = Δείτε τα αποθηκευμένα σας σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
