@@ -16,9 +16,32 @@ appmenu-sync-sync =
 
 ## New Account
 
+appmenu-create-new-mail-account =
+    .label = Жаңа эл. пошта адресін алу
+    .accesskey = л
+appmenu-new-mail-account =
+    .label = Бар болып тұрған эл. пошта адресі
+    .accesskey = е
+appmenu-new-calendar =
+    .label = Күнтізбе
+    .accesskey = К
+appmenu-new-chat-account =
+    .label = Чат
+    .accesskey = Ч
+appmenu-new-feed =
+    .label = Жаңалықтар таспасы
+    .accesskey = т
+appmenu-new-newsgroup =
+    .label = Жаңалықтар тобы
+    .accesskey = т
 
 ## New Account / Address Book
 
+appmenu-newab-panel-title =
+    .title = Жаңа адрестік кітапша
+appmenu-newab-panel =
+    .label = Жаңа адрестік кітапша
+    .accesskey = а
 
 ## Create
 

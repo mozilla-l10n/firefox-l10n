@@ -142,3 +142,5 @@ spaces-pinned-button-menuitem-show =
 
 ## Spaces toolbar customize panel
 
+customize-panel-button-save = Дайын
+    .accesskey = Д

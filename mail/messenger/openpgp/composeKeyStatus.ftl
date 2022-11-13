@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Таңдалған алушы үшін
 openpgp-recip-good = ок
 openpgp-recip-missing = кілт қолжетімді емес
 openpgp-recip-none-accepted = қабылданған кілт жоқ
+openpgp-compose-general-info-alias-learn-more = Көбірек білу
