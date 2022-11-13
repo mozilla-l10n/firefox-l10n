@@ -106,6 +106,10 @@ newtab-label-bookmarked = ບຸກມາກໄວ້ແລ້ວ
 newtab-label-recommended = ກຳລັງນິຍົມ
 newtab-label-saved = ບັນທຶກລົງໃນ { -pocket-brand-name } ແລ້ວ
 newtab-label-download = ດາວໂຫຼດແລ້ວ
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · ສະປອນເຊີ
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
