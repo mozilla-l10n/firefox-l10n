@@ -7,7 +7,6 @@ page-subtitle =
     Kjo faqe përmban të dhëna teknike që mund të jenë të dobishme kur përpiqeni
     të zgjidhni një problem. Nëse po shihni për përgjigje për pyetje të rëndomta
     rreth { -brand-short-name }-it, shihni te <a data-l10n-name="support-link">sajti ynë i asistencës</a>.
-
 crashes-title = Njoftime Vithisjesh
 crashes-id = ID Njoftimi
 crashes-send-date = Parashtruar më
@@ -76,7 +75,12 @@ app-basics-location-service-key-google = Kyç Shërbimi Vendndodhjesh Google
 app-basics-safebrowsing-key-google = Kyç Google Safebrowsing
 app-basics-key-mozilla = Kyç Mozilla Location Service
 app-basics-safe-mode = Mënyrë e Sigurt
-
+app-basics-memory-size = Madhësi Kujtese (RAM)
+app-basics-disk-available = Hapësirë Disku e Lirë
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Shfaqe në Finder
@@ -111,6 +115,14 @@ graphics-window-protocol = Protokoll Window
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Mjedis Desktop
 place-database-title = Bazë të Dhënash Vendesh
+place-database-stats = Statistika
+place-database-stats-show = Shfaqi Statistikat
+place-database-stats-hide = Fshihi Statistikat
+place-database-stats-entity = Njësi
+place-database-stats-count = Numër
+place-database-stats-size-kib = Madhësi (KiB)
+place-database-stats-size-perc = Madhësi (%)
+place-database-stats-efficiency-perc = Efikasitet (%)
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifikoni Integritetin
 a11y-title = Përdorshmëri
@@ -192,7 +204,6 @@ report-crash-for-days =
         [one] Njoftime Vithisjesh për Ditën e Fundit
        *[other] Njoftime Vithisjesh për { $days } Ditët e Fundit
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -200,7 +211,6 @@ crashes-time-minutes =
         [one] { $minutes } minutë më parë
        *[other] { $minutes } minuta më parë
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -208,7 +218,6 @@ crashes-time-hours =
         [one] { $hours } orë më parë
        *[other] { $hours } orë më parë
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -216,7 +225,6 @@ crashes-time-days =
         [one] { $days } ditë më parë
        *[other] { $days } ditë më parë
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -224,7 +232,6 @@ pending-reports =
         [one] Krejt Njoftimet e Vithisjeve (përfshi { $reports } vithisje të panjoftuar që ndodhi brenda intervalit kohor të dhënë)
        *[other] Krejt Njoftimet e Vithisjeve përfshi { $reports } vithisje të panjoftuara që ndodhën brenda intervalit kohor të dhënë)
     }
-
 raw-data-copied = Të dhënat e papërpunuara u kopjuan te e papastra
 text-copied = Teksti u kopjua në të papastër
 
@@ -237,11 +244,9 @@ blocked-mismatched-version = E bllokuar për shkak mospërputhjeje versionesh me
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = E bllokuar për versionin tuaj të përudhësit grafik. Provoni të përditësoni përudhësin tuaj grafik me versionin { $driverVersion } ose më të ri.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametra ClearType
-
 compositing = Hartim
 hardware-h264 = Shkodim Hardware H264
 main-thread-no-omtc = rrjedhë kryesore, jo OMTC
@@ -256,7 +261,6 @@ virtual-monitor-disp = Shfaqje Nën Monitor Virtual
 
 found = U gjet
 missing = Mungon
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Përshkrim
@@ -279,29 +283,23 @@ webgl2-renderer = Vizatues WebGL2
 webgl2-version = Version Përudhësi WebGL 2
 webgl2-driver-extensions = Zgjerime Përudhësi WebGL 2
 webgl2-extensions = Zgjerime WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Shtuar në listë bllokimesh për shkak çështjesh të njohura: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Vënë në listë të zezë, kod dështimi { $failureCode }
-
 d3d11layers-crash-guard = Hartues D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Shkodues Videosh WMF VPX
-
 reset-on-next-restart = Gjatë Rinisjes Tjetër Ktheje te Parazgjedhjet
 gpu-process-kill-button = Përfundoje Procesin GPU
 gpu-device-reset = Rikthim i Pajisjes Në Fillimet
 gpu-device-reset-button = Shkakto Rikthim të Pajisjes Në Fillimet
 uses-tiling = Përdor Tjegullzim
 content-uses-tiling = Përdor Tjegullzim (Lëndë)
-
 min-lib-versions = Version minimum i pritshëm
 loaded-lib-versions = Version në përdorim
-
 has-seccomp-bpf = Seccomp-BPF (Filtrim Thirrjesh Sistemi)
 has-seccomp-tsync = Njëkohësim Seccomp Rrjedhe
 has-user-namespaces = Emërhapësira Përdoruesi
@@ -315,18 +313,15 @@ sandbox-proc-type-content = lëndë
 sandbox-proc-type-file = lëndë kartele
 sandbox-proc-type-media-plugin = shtojcë mediash
 sandbox-proc-type-data-decoder = shkodues të dhënash
-
 startup-cache-title = Fshehtinë Nisjeje
 startup-cache-disk-cache-path = Shteg Fshehtine Disku
 startup-cache-ignore-disk-cache = Shpërfill Fshehtinë Disku
 startup-cache-found-disk-cache-on-init = U gjet Fshehtinë Disku në Init
 startup-cache-wrote-to-disk-cache = U shkrua në Fshehtinë Disku
-
 launcher-process-status-0 = E aktivizuar
 launcher-process-status-1 = Çaktivizuar për shkak dështimesh
 launcher-process-status-2 = Çaktivizuar forcërisht
 launcher-process-status-unknown = Gjendje e panjohur
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -339,12 +334,12 @@ fission-status-experiment-control = Çaktivizuar nga eksperiment
 fission-status-experiment-treatment = Aktivizuar nga eksperiment
 fission-status-disabled-by-e10s-env = Çaktivizuar nga mjedisi
 fission-status-enabled-by-env = Aktivizuar nga mjedisi
+fission-status-disabled-by-env = Çaktivizuar nga mjedisi
 fission-status-enabled-by-default = Aktivizuar si parazgjedhje
 fission-status-disabled-by-default = Çaktivizuar si parazgjedhje
 fission-status-enabled-by-user-pref = Aktivizuar nga përdoruesi
 fission-status-disabled-by-user-pref = Çaktivizuar nga përdoruesi
 fission-status-disabled-by-e10s-other = E10s i çaktivizuar
-
 async-pan-zoom = Pan/Zoom Asinkron
 apz-none = asnjë
 wheel-enabled = me input nga rrotëz miu
@@ -380,7 +375,6 @@ support-remote-experiments-title = Eksperimente Së Largëti
 support-remote-experiments-name = Emër
 support-remote-experiments-branch = Degë Eksperimenti
 support-remote-experiments-see-about-studies = Për më tepër të dhëna, shihni <a data-l10n-name="support-about-studies-link">about:studies</a>, përfshi si të çaktivizohen eksperimente individuale ose të çaktivizohet xhirimi nga { -brand-short-name }-i në të ardhmen i këtij lloji eksperimentesh.
-
 support-remote-features-title = Veçori Së Largëti
 support-remote-features-name = Emër
 support-remote-features-status = Gjendje
