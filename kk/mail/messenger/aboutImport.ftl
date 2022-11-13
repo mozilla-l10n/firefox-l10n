@@ -84,6 +84,8 @@ csv-first-row-contains-headers = Бірінші жолда - өріс атаул
 
 ## Export tab
 
+export-open-profile-folder = Профиль бумасын ашу
+export-file-picker2 = ZIP файлына экспорттау
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
