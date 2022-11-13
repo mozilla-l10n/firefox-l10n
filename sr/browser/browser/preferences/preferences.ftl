@@ -231,6 +231,18 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Ваш избор боја мења изглед веб странице. <a data-l10n-name="colors-link">Управљајте бојама</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Управљајте { -brand-short-name } темама у <a data-l10n-name="themes-link">Проширењима и темама</a>
+preferences-colors-header = Боје
+preferences-colors-description = Замените подразумеване { -brand-short-name } боје за текст, позадину веб сајта и везе.
+preferences-colors-manage-button =
+    .label = Управљајте бојама…
+    .accesskey = У
+preferences-fonts-header = Фонтови
 default-font = Фонт:
     .accesskey = ф
 default-font-size = Величина:
@@ -370,6 +382,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Шта { -brand-short-name } треба да ради са другим датотекама?
+applications-save-for-new-types =
+    .label = Сачувај датотеке
+    .accesskey = С
+applications-ask-before-handling =
+    .label = Питај да отворите или сачувате датотеке
+    .accesskey = П
 drm-content-header = Садржај са заштитом ауторских права (DRM)
 play-drm-content =
     .label = Пуштај садржај заштићен DRM-ом
@@ -422,6 +441,9 @@ update-application-warning-cross-user-setting = Ово подешавање се
 update-application-use-service =
     .label = При инсталацији ажурирања користи позадинску услугу
     .accesskey = н
+update-application-suppress-prompts =
+    .label = Прикажи мање обавештења о ажурирању
+    .accesskey = П
 update-setting-write-failure-title2 = Грешка при чувању подешавања ажурирања
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -467,6 +489,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Глатко померање
     .accesskey = Г
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Увек прикажи траке за померање
+    .accesskey = а
 browsing-use-onscreen-keyboard =
     .label = Прикажи тастатуру на екрану када је потребно
     .accesskey = т
@@ -517,6 +542,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = почетна страница Firefox-а (подразумевано)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Подразумевано)
 home-mode-choice-custom =
     .label = прилагођена адреса…
 home-mode-choice-blank =
@@ -542,6 +569,8 @@ choose-bookmark =
 
 home-prefs-content-header = Почетна страница Firefox-а
 home-prefs-content-description = Одаберите садржај који желите на почетној страници Firefox-а.
+home-prefs-content-header2 = { -firefox-home-brand-name } садржај
+home-prefs-content-description2 = Изаберите какав садржај желите да видите на { -firefox-home-brand-name } екрану.
 home-prefs-search-header =
     .label = Веб-претрага
 home-prefs-shortcuts-header =
@@ -562,6 +591,8 @@ home-prefs-recommended-by-description-new = Изузетан садржај ко
 home-prefs-recommended-by-learn-more = Како ово ради
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Спонзорисане приче
+home-prefs-recommended-by-option-recent-saves =
+    .label = Прикажи недавно сачувано
 home-prefs-highlights-option-visited-pages =
     .label = Посећене странице
 home-prefs-highlights-options-bookmarks =
@@ -615,6 +646,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = У траци за адресу
     .accesskey = ц
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = На страници резултата претраге подразумеваног претраживача, уместо веб адресе прикажи појмове за претрагу
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -983,6 +1019,7 @@ addressbar-locbar-engines-option =
     .label = Претраживачи
     .accesskey = ж
 addressbar-suggestions-settings = Промени подешавања за предлоге претраживача
+addressbar-quickactions-learn-more = Сазнајте више
 
 ## Privacy Section - Content Blocking
 
@@ -1023,6 +1060,7 @@ content-blocking-all-windows-tracking-content = Садржај који прат
 content-blocking-all-third-party-cookies = Све колачиће треће стране
 content-blocking-cryptominers = Крипторудари
 content-blocking-fingerprinters = Сакупљачи дигиталних отисака
+content-blocking-etp-standard-tcp-rollout-learn-more = Сазнајте више
 content-blocking-warning-title = Напомена!
 content-blocking-and-isolating-etp-warning-description-2 = Ово подешавање може довести до тога да неки сајтови не приказују садржај или не раде исправно. Ако се чини да неки сајт не ради исправно, покушајте да онемогућите заштиту од праћења да би онда учитао сав садржај.
 content-blocking-warning-learn-how = Научите како
@@ -1136,6 +1174,10 @@ addon-recommendations-link = Сазнајте више
 collection-health-report-disabled = У овој верзији је слање података онемогућено.
 collection-backlogged-crash-reports-with-link = Дозволи да { -brand-short-name } шаље заостале извештаје о отказивању у моје име <a data-l10n-name="crash-reports-link">Сазнајте више</a>
     .accesskey = љ
+privacy-segmentation-radio-off =
+    .label = Користите { -brand-product-name } препоруке
+privacy-segmentation-radio-on =
+    .label = Прикажи детаљне информације
 
 ## Privacy Section - Security
 ##
