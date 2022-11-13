@@ -224,3 +224,5 @@ colorways-cfr-primarybutton = Elegir combinación de colores
 colorways-cfr-body = Coloree su navegador con los tonos exclusivos de { -brand-short-name } inspirados en voces que cambiaron la cultura.
 colorways-cfr-header-28days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles el 16 de enero
 colorways-cfr-header-14days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles en dos semanas
+colorways-cfr-header-7days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles esta semana
+colorways-cfr-header-today = Las combinaciones de colores de Independent Voices dejarán de estar disponibles hoy
