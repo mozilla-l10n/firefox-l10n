@@ -18,6 +18,15 @@ appmenu-sync-manage =
     .accesskey = п
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-now =
+    .label = Синхронизировать
+    .accesskey = х
+appmenu-sync-settings =
+    .label = Настройки синхронизации
+    .accesskey = о
+appmenu-sync-sign-out =
+    .label = Выйти…
+    .accesskey = й
 
 ## New Account
 
@@ -184,3 +193,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = О { -brand-short-name }
     .accesskey = О
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = Загрузка обновления { -brand-shorter-name }
+appmenuitem-banner-update-available =
+    .label = Доступно обновление — загрузить сейчас
+appmenuitem-banner-update-manual =
+    .label = Доступно обновление — загрузить сейчас
+appmenuitem-banner-update-unsupported =
+    .label = Не удалось выполнить обновление — несовместимая система
+appmenuitem-banner-update-restart =
+    .label = Доступно обновление — перезапустить сейчас
