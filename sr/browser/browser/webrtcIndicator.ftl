@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - индикатор дељења
 webrtc-indicator-window =
     .title = { -brand-short-name } - индикатор дељења
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Делите камеру. Кликните да бисте променили подешавања.
 webrtc-microphone-system-menu =
@@ -172,6 +167,7 @@ webrtc-allow-share-screen-and-audio-capture = Дозволити да { $origin 
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Дозволити { $origin } да омогући { $thirdParty } да слуша звук са овог језичка?
 webrtc-allow-share-camera-unsafe-delegation = Дозволити { $origin } да одобри { $thirdParty } приступ камери?
 webrtc-allow-share-microphone-unsafe-delegations = Дозволити { $origin } да одобри { $thirdParty } приступ микрофону?
 webrtc-allow-share-screen-unsafe-delegation = Дозволити { $origin } да омогући { $thirdParty } да види ваш екран?
@@ -215,6 +211,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Увек блокирај
     .accesskey = У
+webrtc-action-not-now =
+    .label = Не сада
+    .accesskey = Н
 
 ##
 

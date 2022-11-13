@@ -76,6 +76,9 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } приватно прегледање
 
 ##
 
@@ -133,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Потражи помоћ
 urlbar-search-tips-confirm = Разумем
+urlbar-search-tips-confirm-short = Важи
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -146,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Куцајте мање, нађите више: користите претраживач { $engineName } директно из траке за адресу.
 urlbar-search-tips-redirect-2 = Почните да куцате у траци за адресу и приказаће вам се предлози које обезбеђује { $engineName } и историја прегледања.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Претраживање је постало лакше. Покушајте да своју претрагу учините конкретнијом у адресној траци. Да прикажете веб адресу, отворите Претрага у подешавањима.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Изаберите ову пречицу за бржу претраживање.
