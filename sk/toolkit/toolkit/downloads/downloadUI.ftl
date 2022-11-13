@@ -9,13 +9,17 @@ download-ui-confirm-title = Zrušiť sťahovanie všetkých súborov?
 
 download-ui-confirm-quit-cancel-downloads =
     { $downloadsCount ->
-        [1] Ak teraz skončíte, zruší sa sťahovanie 1 súboru. Naozaj chcete skončiť?
-       *[other] Ak teraz skončíte, zruší sa niekoľko sťahovaní súborov (celkom { $downloadsCount }). Naozaj chcete skončiť?
+        [1] Ak teraz skončíte, zruší sa sťahovanie jedného súboru. Naozaj chcete skončiť?
+        [one] Ak teraz skončíte, zruší sa sťahovanie jedného súboru. Naozaj chcete skončiť?
+        [few] Ak teraz skončíte, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete skončiť?
+       *[other] Ak teraz skončíte, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete skončiť?
     }
 download-ui-confirm-quit-cancel-downloads-mac =
     { $downloadsCount ->
-        [1] Ak teraz skončíte, zruší sa sťahovanie 1 súboru. Naozaj chcete skončiť?
-       *[other] Ak teraz skončíte, zruší sa niekoľko sťahovaní súborov (celkom { $downloadsCount }). Naozaj chcete skončiť?
+        [1] Ak teraz skončíte, zruší sa sťahovanie jedného súboru. Naozaj chcete skončiť?
+        [one] Ak teraz skončíte, zruší sa sťahovanie jedného súboru. Naozaj chcete skončiť?
+        [few] Ak teraz skončíte, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete skončiť?
+       *[other] Ak teraz skončíte, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete skončiť?
     }
 download-ui-dont-quit-button =
     { PLATFORM() ->
@@ -24,20 +28,26 @@ download-ui-dont-quit-button =
     }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
-        [1] Ak sa teraz prepnete do režimu offline, zruší sa sťahovanie 1 súboru. Naozaj chcete prepnúť do režimu offline?
-       *[other] Ak sa teraz prepnete do režimu offline, zruší sa niekoľko sťahovaní súborov (celkom { $downloadsCount }). Naozaj chcete prepnúť do režimu offline?
+        [1] Ak sa teraz prepnete do režimu offline, zruší sa sťahovanie jedného súboru. Naozaj chcete prepnúť do režimu offline?
+        [one] Ak sa teraz prepnete do režimu offline, zruší sa sťahovanie jedného súboru. Naozaj chcete prepnúť do režimu offline?
+        [few] Ak sa teraz prepnete do režimu offline, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete prepnúť do režimu offline?
+       *[other] Ak sa teraz prepnete do režimu offline, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete prepnúť do režimu offline?
     }
 download-ui-dont-go-offline-button = Nie, zostať v režime online
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
-        [1] Ak teraz zavriete všetky súkromné okná, zruší sa sťahovanie 1 súboru. Naozaj chcete opustiť režim súkromného prehliadania?
-       *[other] Ak teraz zavriete všetky súkromné okná, zruší sa niekoľko sťahovaní súborov (celkom { $downloadsCount }). Naozaj chcete opustiť režim súkromného prehliadania?
+        [1] Ak teraz zavriete všetky súkromné okná, zruší sa sťahovanie jedného súboru. Naozaj chcete opustiť režim súkromného prehliadania?
+        [one] Ak teraz zavriete všetky súkromné okná, zruší sa sťahovanie jedného súboru. Naozaj chcete opustiť režim súkromného prehliadania?
+        [few] Ak teraz zavriete všetky súkromné okná, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete opustiť režim súkromného prehliadania?
+       *[other] Ak teraz zavriete všetky súkromné okná, zruší sa sťahovanie { $downloadsCount } súborov. Naozaj chcete opustiť režim súkromného prehliadania?
     }
 download-ui-dont-leave-private-browsing-button = Zostať v súkromnom prehliadaní
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Áno, zrušiť sťahovanie súboru
-       *[other] Áno, zrušiť sťahovanie súborov (celkom { $downloadsCount })
+        [one] Áno, zrušiť sťahovanie súboru
+        [few] Áno, zrušiť sťahovanie { $downloadsCount } súborov
+       *[other] Áno, zrušiť sťahovanie { $downloadsCount } súborov
     }
 
 ##
