@@ -56,6 +56,8 @@ about-networking-rcwn-avg-short = Mesatare e Shkurtër
 about-networking-rcwn-avg-long = Mesatare e Gjerë
 about-networking-networkid = ID Rrjeti
 about-networking-networkid-id = ID Rrjeti
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Kjo faqe është kaluar te <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 
