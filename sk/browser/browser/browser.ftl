@@ -150,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Menej písania, viac výsledkov. Používajte { $engineName } priamo z vášho panela s adresou.
 urlbar-search-tips-redirect-2 = Zadajte sem výraz vyhľadávania a uvidíte návrhy z vyhľadávacieho modulu { $engineName } a z vašej histórie prehliadania.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Vyhľadávanie je teraz jednoduchšie. Vyhľadávanie môžete spresniť priamo tu v paneli s adresou. Ak chcete namiesto toho zobraziť webovú stránku, zmeníte to v časti Vyhľadávanie v nastaveniach.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Vyberte túto skratku a nájdite rýchlejšie to, čo hľadáte

@@ -224,3 +224,9 @@ firefoxview-spotlight-promo-secondarybutton = Preskočiť
 
 colorways-cfr-primarybutton = Zvoľte si farebnú tému
     .accesskey = Z
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Vyfarbite svoj prehliadač { -brand-short-name } exkluzívne odtieňmi inšpirovanými hlasmi, ktoré zmenili kultúru.
+colorways-cfr-header-28days = Farebná téma Nezávislé hlasy je dostupná už len do 16. januára
+colorways-cfr-header-14days = Farebná téma Nezávislé hlasy je dostupná už len dva týždne
+colorways-cfr-header-7days = Farebná téma Nezávislé hlasy je dostupná už len týždeň
+colorways-cfr-header-today = Farebná téma Nezávislé hlasy je dostupná už len dnes

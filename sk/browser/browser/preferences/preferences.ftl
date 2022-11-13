@@ -596,6 +596,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Zobrazovať návrhy vyhľadávania vo výsledkoch panela s adresou
     .accesskey = a
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Zobraziť hľadané výrazy namiesto adresy URL na stránke s výsledkami predvoleného vyhľadávacieho nástroja
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
