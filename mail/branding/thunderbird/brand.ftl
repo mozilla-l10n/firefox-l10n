@@ -19,3 +19,4 @@
 # remain unchanged across different versions (Daily, Beta, etc.).
 -brand-product-name = Thunderbird
 -vendor-short-name = Mozilla
+trademarkInfo = Stemat Mozilla Thunderbird dhe Thunderbird janë shenja tregtare të Mozilla Foundation-it.
