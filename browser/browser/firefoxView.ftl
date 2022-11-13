@@ -72,6 +72,7 @@ firefoxview-change-colorway-button = Zmeniť farebnú tému
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Zatiaľ tu nie je nič</strong><br/>Keď však nabudúce otvoríte stránku vo { -brand-product-name(case: "loc") } na inom zariadení, akoby zázrakom ju nájdete aj tu.
 firefoxview-synced-tabs-placeholder-header = Zatiaľ tu nič nie je
+firefoxview-synced-tabs-placeholder-body = Keď nabudúce otvoríte stránku vo { -brand-product-name(case: "loc") } na inom zariadení, ako zázrakom ju nájdete aj tu.
 firefoxview-collapse-button-show =
     .title = Zobraziť zoznam
 firefoxview-collapse-button-hide =
