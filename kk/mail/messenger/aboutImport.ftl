@@ -34,10 +34,21 @@ app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
 source-thunderbird = Басқа { app-name-thunderbird } орнатуынан импорттау
 source-thunderbird-description = { app-name-thunderbird } профилінен баптаулар, сүзгілер, хабарламалар және басқа деректерді импорттау.
+source-seamonkey = { app-name-seamonkey } орнатуынан импорттау
+source-seamonkey-description = { app-name-seamonkey } профилінен баптаулар, сүзгілер, хабарламалар және басқа деректерді импорттау.
+source-outlook = { app-name-outlook } ішінен импорттау
+source-outlook-description = { app-name-outlook } ішінен тіркелгілер, адрестік кітапшалар және хабарламаларды импорттау.
+source-becky = { app-name-becky } ішінен импорттау
+source-becky-description = { app-name-becky } ішінен адрестік кітапшалар және хабарламаларды импорттау.
+source-apple-mail = { app-name-apple-mail } ішінен импорттау
+source-apple-mail-description = { app-name-apple-mail } ішінен хабарламаларды импорттау.
 source-file2 = Файлдан импорттау
+source-file-description = Адрестік кітапшалар, күнтізбелер немесе профильдің қор көшірмесін (ZIP файлын) импорттау үшін файлды таңдау.
 
 ## Import from file selections
 
+file-profile2 = Қор көшірмесінен профильді импорттау
+file-profile-description = Алдында қор көшірмесі жасалған Thunderbird профилін (.zip) таңдау
 file-calendar = Күнтізбелерді импорттау
 file-calendar-description = Экспортталған күнтізбелер немесе оқиғалары (.ics) бар файлды таңдаңыз.
 file-addressbook = Адрестік кітапшаларын импорттау
@@ -50,6 +61,7 @@ from-app-seamonkey = { app-name-seamonkey } профилінен импортт�
 from-app-outlook = { app-name-outlook } ішінен импорттау
 from-app-becky = { app-name-becky } ішінен импорттау
 from-app-apple-mail = { app-name-apple-mail } ішінен импорттау
+profiles-pane-title-thunderbird = { app-name-thunderbird } профилінен баптаулар мен деректерді импорттау.
 profile-source = Профильден импорттау
 profile-file-picker-directory = Профиль бумасын таңдау
 profile-file-picker-archive = <strong>ZIP</strong> файлын таңдау
