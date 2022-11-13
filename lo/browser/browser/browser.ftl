@@ -178,6 +178,8 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-tabs =
+    .tooltiptext = ແຖບ ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -195,6 +197,8 @@ quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການ
 # Opens about:downloads page
 quickactions-downloads = ເປີດການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
+# Opens about:addons page in the extensions section
+quickactions-extensions = ຈັດການສ່ວນເສີມ
 quickactions-cmd-extensions = ສ່ວນເສີມ
 # Opens the devtools web inspector
 quickactions-inspector = ເປີດ Inspector
@@ -208,6 +212,8 @@ quickactions-cmd-plugins = ປລັກອິນ
 # Opens the print dialog
 quickactions-print = ພິມ
 quickactions-cmd-print = ພິມ
+# Opens a new private browsing window
+quickactions-private = ເປີດໜ້າຕ່າງການຊອກຫາສ່ວນຕົວ
 quickactions-cmd-private = ການທ່ອງເວັບແບບສ່ວນຕົວ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = ຟື້ນຟູ { -brand-short-name }
@@ -512,6 +518,9 @@ bookmarks-toolbar-placeholder =
     .title = ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder-button =
     .label = ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = ບຸກມາກແຖບປະຈຸບັນ...
 
 ## Library Panel items
 

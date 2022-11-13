@@ -89,6 +89,7 @@ cfr-doorhanger-video-support-primary-button = ອັບເດດດຽວນີ�
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-primary-button = ເປີດການປົກປ້ອງຄຸກກີທັງໝົດ
 spotlight-total-cookie-protection-secondary-button = ຍັງເທື່ອ
 
 ## Emotive Continuous Onboarding
@@ -120,4 +121,7 @@ firefoxview-cfr-secondarybutton = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 
 ## Firefox View Spotlight
+
+
+## Colorways expiry reminder CFR
 

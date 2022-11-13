@@ -24,6 +24,7 @@ firefoxview-tabpickup-step-signin-primarybutton = ສືບຕໍ່
 firefoxview-tabpickup-adddevice-learn-how = ຮຽນຮູ້ວິທີການ
 firefoxview-tabpickup-synctabs-learn-how = ຮຽນຮູ້ວິທີການ
 firefoxview-tabpickup-network-offline-primarybutton = ລອງໃໝ່ອີກຄັ້ງ
+firefoxview-tabpickup-sync-error-header = ພວກເຮົາມີບັນຫາໃນການຊິ້ງຂໍ້ມູນ
 firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກຄັ້ງ
 firefoxview-mobile-confirmation-header = 🎉 ດີຫຼາຍ!
 # refers to the last tab that was used
