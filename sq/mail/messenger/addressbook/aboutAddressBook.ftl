@@ -21,12 +21,15 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books-row =
+    .title = Krejt Librat e Adresave
 all-address-books = Krejt Librat e Adresave
-
 about-addressbook-books-context-properties =
     .label = Veti
 about-addressbook-books-context-synchronize =
     .label = Njëkohësoje
+about-addressbook-books-context-edit =
+    .label = Përpunoni
 about-addressbook-books-context-print =
     .label = Shtypni…
 about-addressbook-books-context-export =
@@ -37,7 +40,6 @@ about-addressbook-books-context-remove =
     .label = Hiqe
 about-addressbook-books-context-startup-default =
     .label = Drejtori parazgjedhje në nisje
-
 about-addressbook-confirm-delete-book-title = Fshini Libër Adresash
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,14 +57,12 @@ about-addressbook-search =
     .placeholder = Kërko për { $name }
 about-addressbook-search-all =
     .placeholder = Kërko në krejt librat e adresave
-
 about-addressbook-name-format-display =
     .label = Emër i Shfaqur
 about-addressbook-name-format-firstlast =
     .label = Emër Mbiemër
 about-addressbook-name-format-lastfirst =
     .label = Mbiemër, Emër
-
 about-addressbook-sort-name-ascending =
     .label = Renditi sipas emrash (A > Z)
 about-addressbook-sort-name-descending =
@@ -75,9 +75,35 @@ about-addressbook-sort-email-descending =
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
 
+about-addressbook-column-header-generatedname = Emër
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = Adresa Email
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-nickname = Nofkë
+about-addressbook-column-label-nickname =
+    .label = { about-addressbook-column-header-nickname }
+about-addressbook-column-header-phonenumbers = Numra Telefonash
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Adresa
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Titull
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Degë
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Ent
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Libër Adresash
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Shkruani
-
 about-addressbook-confirm-delete-mixed-title = Fshini Kontakte dhe Lista
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -132,16 +158,56 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-new-contact = Kontakt i Ri
+about-addressbook-placeholder-search-only = Ky libër adresash shfaq kontakte vetëm pas një kërkimi
+about-addressbook-placeholder-searching = Po kërkohet…
+about-addressbook-placeholder-no-search-results = S’u gjetën kontakte
+
 ## Details
 
+# Variables:
+# $count (Number) - The number of selected items (will never be fewer than two)
+about-addressbook-selection-mixed-header = { $count } kontakte dhe lista të përzgjedhura
+# Variables:
+# $count (Number) - The number of selected contacts
+about-addressbook-selection-contacts-header = { $count } kontakte të përzgjedhura
+# Variables:
+# $count (Number) - The number of selected lists
+about-addressbook-selection-lists-header = { $count } lista të përzgjedhura
+about-addressbook-details-edit-photo =
+    .title = Përpunoni foto kontakti
+about-addressbook-new-contact-header = Kontakt i Ri
+about-addressbook-event-action-button = Veprimtari
+about-addressbook-search-action-button = Kërko
+about-addressbook-new-list-action-button = Listë e Re
 about-addressbook-begin-edit-contact-button = Përpunoni
+about-addressbook-delete-edit-contact-button = Fshije
 about-addressbook-cancel-edit-contact-button = Anuloje
 about-addressbook-save-edit-contact-button = Ruaje
-
+about-addressbook-add-contact-to = Shtoje te:
 about-addressbook-details-email-addresses-header = Adresa Email
 about-addressbook-details-phone-numbers-header = Numra Telefonash
+about-addressbook-details-addresses-header = Adresa
+about-addressbook-details-notes-header = Shënime
+about-addressbook-details-websites-header = Sajte
 about-addressbook-details-other-info-header = Hollësi të Tjera
-
+about-addressbook-entry-type-work = Pune
+about-addressbook-entry-type-home = Shtëpie
+about-addressbook-entry-type-fax = Faks
+# Or "Mobile"
+about-addressbook-entry-type-cell = Celular
+about-addressbook-entry-type-pager = Faques
+about-addressbook-entry-name-birthday = Datëlindje
+about-addressbook-entry-name-anniversary = Përvjetor
+about-addressbook-entry-name-title = Titull
+about-addressbook-entry-name-role = Rol
+about-addressbook-entry-name-organization = Ent
+about-addressbook-entry-name-website = Sajt
+about-addressbook-entry-name-time-zone = Zonë Kohore
+about-addressbook-entry-name-custom1 = Vetjake 1
+about-addressbook-entry-name-custom2 = Vetjake 2
+about-addressbook-entry-name-custom3 = Vetjake 3
+about-addressbook-entry-name-custom4 = Vetjake 4
 about-addressbook-unsaved-changes-prompt-title = Ndryshime të Paruajtura
 about-addressbook-unsaved-changes-prompt = Doni të ruhen ndryshimet tuaja, para se të braktiset skena e përpunimeve?
 
@@ -151,7 +217,6 @@ about-addressbook-photo-drop-target = Hidhni ose ngjitni këtu një foto, ose kl
 about-addressbook-photo-drop-loading = Po ngarkohet foto…
 about-addressbook-photo-drop-error = S’u arrit të ngarkohet foto.
 about-addressbook-photo-filepicker-title = Përzgjidhni kartelë figure
-
 about-addressbook-photo-discard = Hidh tej foton ekzistuese
 about-addressbook-photo-cancel = Anuloje
 about-addressbook-photo-save = Ruaje
