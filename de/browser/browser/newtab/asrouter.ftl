@@ -223,3 +223,7 @@ colorways-cfr-primarybutton = Farbwelt wählen
     .accesskey = w
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Färben Sie Ihren Browser mit exklusiven Farbtönen von { -brand-short-name }, die von Stimmen inspiriert sind, die die Kultur verändert haben.
+colorways-cfr-header-28days = Farbwelten "Unabhängige Stimmen" laufen am 16. Januar ab
+colorways-cfr-header-14days = Farbwelten "Unabhängige Stimmen" laufen in zwei Wochen ab
+colorways-cfr-header-7days = Farbwelten "Unabhängige Stimmen" laufen diese Woche ab
+colorways-cfr-header-today = Farbwelten "Unabhängige Stimmen" laufen heute ab
