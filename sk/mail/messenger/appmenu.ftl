@@ -18,6 +18,15 @@ appmenu-sync-manage =
     .accesskey = r
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-now =
+    .label = Synchronizovať
+    .accesskey = S
+appmenu-sync-settings =
+    .label = Nastavenia synchronizácie
+    .accesskey = N
+appmenu-sync-sign-out =
+    .label = Odhlásiť sa…
+    .accesskey = O
 
 ## New Account
 
@@ -184,3 +193,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = O aplikácii { -brand-short-name }
     .accesskey = O
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = Sťahuje sa aktualizácia { -brand-shorter-name(case: "gen") }
+appmenuitem-banner-update-available =
+    .label = Je dostupná aktualizácia — stiahnuť
+appmenuitem-banner-update-manual =
+    .label = Je dostupná aktualizácia — stiahnuť
+appmenuitem-banner-update-unsupported =
+    .label = Nebolo možné aktualizovať — nekompatibilný systém
+appmenuitem-banner-update-restart =
+    .label = Je dostupná aktualizácia — reštartovať
