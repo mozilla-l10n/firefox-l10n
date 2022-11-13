@@ -327,29 +327,21 @@ mr2022-onboarding-colorway-subtitle = Тәуелсіз дауыстар мәде
 mr2022-onboarding-colorway-primary-button-label-continue = Орнатып, жалғастыру
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } өнімін түрлі-түсті басты бетіңіз етіп жасаңыз
 mr2022-onboarding-colorway-label-default = Бастапқы
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Бастапқы
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Ағымдағы { -brand-short-name } түстері
 mr2022-onboarding-colorway-description-default = <b>Менің ағымдағы { -brand-short-name } түстерін қолдану.</b>
 mr2022-onboarding-colorway-label-playmaker = Плеймейкер
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Плеймейкер
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Ойын жасаушысы (қызыл)
+mr2022-onboarding-colorway-description-playmaker = <b>Сіз ойын жасаушысыз.</b> Сіз жеңу мүмкіндігін жасайсыз және айналаңыздағы барлық адамдарға өз ойынын көтеруге көмектесесіз.
 mr2022-onboarding-colorway-label-expressionist = Экспрессионист
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Экспрессионист
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Экспрессионист (сары)
+mr2022-onboarding-colorway-description-expressionist = <b>Сіз экспрессионистсіз.</b> Сіз әлемді басқаша көресіз және сіздің туындыларыңыз басқалардың эмоцияларын қорғайды.
 mr2022-onboarding-colorway-label-visionary = Визионер
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Визионер
 mr2022-onboarding-colorway-label-activist = Активист
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Активист
 mr2022-onboarding-colorway-label-dreamer = Армандаушы
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Армандаушы
 mr2022-onboarding-colorway-label-innovator = Жаңашыл
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Жаңашыл
 
 ## MR2022 Multistage Mobile Download screen strings
 
