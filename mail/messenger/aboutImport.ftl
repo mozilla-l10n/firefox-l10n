@@ -32,6 +32,8 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-thunderbird = Басқа { app-name-thunderbird } орнатуынан импорттау
+source-thunderbird-description = { app-name-thunderbird } профилінен баптаулар, сүзгілер, хабарламалар және басқа деректерді импорттау.
 source-file2 = Файлдан импорттау
 
 ## Import from file selections
@@ -49,6 +51,8 @@ from-app-outlook = { app-name-outlook } ішінен импорттау
 from-app-becky = { app-name-becky } ішінен импорттау
 from-app-apple-mail = { app-name-apple-mail } ішінен импорттау
 profile-source = Профильден импорттау
+profile-file-picker-directory = Профиль бумасын таңдау
+profile-file-picker-archive = <strong>ZIP</strong> файлын таңдау
 items-pane-directory = Бума:
 items-pane-profile-name = Профиль аты:
 items-pane-checkbox-accounts = Тіркелгілер мен параметрлер
