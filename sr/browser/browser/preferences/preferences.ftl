@@ -97,6 +97,18 @@ restart-later = Рестартуј касније
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> контролише ово подешавање.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> контролише ово подешавање.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> контролише ово подешавање.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> контролише како се { -brand-short-name } повезује на интернет.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -192,6 +204,33 @@ containers-remove-cancel-button = Не уклањај
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Језик и изглед
+preferences-web-appearance-header = Изглед веб странице
+preferences-web-appearance-description = Неке веб странице прилагођавају своју шему боја према вашим жељама. Изаберите шему боја коју желите да користите за те сајтове.
+preferences-web-appearance-choice-browser = { -brand-short-name } тема
+preferences-web-appearance-choice-system = Системска тема
+preferences-web-appearance-choice-auto = Аутоматски
+preferences-web-appearance-choice-light = Светла
+preferences-web-appearance-choice-dark = Тамна
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Ускладите позадину и садржај веб сајта са подешавањима { -brand-short-name } теме.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Ускладите позадину и садржај веб сајта са подешавањима система.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Аутоматски промените позадину и садржај веб сајта на основу подешавања система и { -brand-short-name } теме.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Користите светлу тему за позадину и садржај веб странице.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Користите тамну тему за позадину и садржај веб странице.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 default-font = Фонт:
     .accesskey = ф
 default-font-size = Величина:
