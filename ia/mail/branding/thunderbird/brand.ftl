@@ -19,3 +19,4 @@
 # remain unchanged across different versions (Daily, Beta, etc.).
 -brand-product-name = Thunderbird
 -vendor-short-name = Mozilla
+trademarkInfo = Mozilla Thunderbird e le logos de Thunderbird es marcas registrate de Mozilla Foundation.
