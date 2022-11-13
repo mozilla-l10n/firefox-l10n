@@ -18,6 +18,15 @@ appmenu-sync-manage =
     .accesskey = m
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-now =
+    .label = Sincronizar ahora
+    .accesskey = S
+appmenu-sync-settings =
+    .label = Ajustes de sincronización
+    .accesskey = A
+appmenu-sync-sign-out =
+    .label = Cerrar sesión…
+    .accesskey = C
 
 ## New Account
 
@@ -184,3 +193,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = Acerca de { -brand-short-name }
     .accesskey = A
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = Descargando actualización de { -brand-shorter-name }
+appmenuitem-banner-update-available =
+    .label = Actualización disponible — descargar ahora
+appmenuitem-banner-update-manual =
+    .label = Actualización disponible — descargar ahora
+appmenuitem-banner-update-unsupported =
+    .label = No se puede actualizar — sistema incompatible
+appmenuitem-banner-update-restart =
+    .label = Actualización disponible — reiniciar ahora
