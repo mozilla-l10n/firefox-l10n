@@ -136,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Merrni ndihmë
 urlbar-search-tips-confirm = OK, E mora vesh
+urlbar-search-tips-confirm-short = E mora vesh
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.

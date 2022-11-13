@@ -157,6 +157,7 @@ language-name-ru = Rusisht
 language-name-rw = Kinjaruandisht
 language-name-sa = Sanskritisht
 language-name-sc = Sardinisht
+language-name-sco = Skocishte
 language-name-sd = Sindi
 language-name-se = Sami Veriore
 language-name-sg = Sango
