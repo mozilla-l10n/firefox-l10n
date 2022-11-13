@@ -21,6 +21,7 @@ styleeditor-save-button = Uložiť
 styleeditor-options-button =
     .tooltiptext = Nastavenia Editora štýlov
 styleeditor-media-rules = Pravidlá @media
+styleeditor-at-rules = @-pravidlá
 styleeditor-editor-textbox =
     .data-placeholder = Sem zadajte CSS
 styleeditor-no-stylesheet = Táto stránka nemá priradený súbor štýlov.
