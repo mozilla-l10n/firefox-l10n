@@ -39,6 +39,7 @@ source-seamonkey-description = Importoni rregullime, filtra, mesazhe dhe të dh�
 source-outlook = Importoni prej { app-name-outlook }
 source-outlook-description = Importoni llogari, libra adresash dhe mesazhe nga { app-name-outlook }.
 source-becky = Importoni nga { app-name-becky }
+source-becky-description = Importoni libra adresash dhe mesazhe nga { app-name-becky }.
 source-apple-mail = Importoni nga { app-name-apple-mail }
 source-apple-mail-description = Importoni mesazhe nga { app-name-apple-mail }.
 source-file2 = Importoni prej një kartele
