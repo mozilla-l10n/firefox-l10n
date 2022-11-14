@@ -28,7 +28,7 @@ pocket-panel-saved-remove-page = ਸਫ਼ੇ ਨੂੰ ਹਟਾਓ
 pocket-panel-saved-save-tags = ਸੰਭਾਲੋ
 pocket-panel-saved-saving-tags = …ਸੰਭਾਲਿਆ ਜਾ ਰਿਹਾ ਹੈ
 pocket-panel-saved-suggested-tags = ਸੁਝਾਏ ਗਏ ਟੈਗ
-pocket-panel-saved-tags-saved = ਟੈਗ ਨੂੰ ਜੋੜਿਆ
+pocket-panel-saved-tags-saved = ਟੈਗਾਂ ਨੂੰ ਜੋੜਿਆ
 pocket-panel-signup-view-list = ਸੂਚੀ ਨੂੰ ਵੇਖੋ
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = ਟੈਗ ਜੋੜੋ:
