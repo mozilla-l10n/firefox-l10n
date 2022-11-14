@@ -131,12 +131,31 @@ message-header-recipient-avatar =
 ## Message header cutomize panel
 
 message-header-customize-panel-title = Rregullime Kryeje të Mesazheve
+message-header-customize-button-style =
+    .value = Stil butoni
+    .accesskey = S
 message-header-button-style-default =
     .label = Ikona dhe tekst
 message-header-button-style-text =
     .label = Tekst
 message-header-button-style-icons =
     .label = Ikona
+message-header-show-sender-full-address =
+    .label = Shfaq përherë adresën e plotë të dërguesit
+    .accesskey = f
+message-header-show-sender-full-address-description = Adresa email do të shfaqet nën emrin në ekran.
+message-header-show-recipient-avatar =
+    .label = Shfaq foto profili të dërguesit
+    .accesskey = p
+message-header-hide-label-column =
+    .label = Fshihe shtyllën e etiketave
+    .accesskey = e
+message-header-large-subject =
+    .label = Subjekt i madh
+    .accesskey = S
+message-header-all-headers =
+    .label = Shfaqi krejt kryet
+    .accesskey = k
 
 ## Action Button Context Menu
 
