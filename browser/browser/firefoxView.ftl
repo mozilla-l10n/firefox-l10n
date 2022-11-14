@@ -55,6 +55,7 @@ firefoxview-mobile-confirmation-description = No kan du hente { -brand-product-n
 firefoxview-closed-tabs-title = Nyleg attlatne
 firefoxview-closed-tabs-description2 = Opne på nytt sider du har late att i dette vindauget.
 firefoxview-closed-tabs-placeholder = <strong>Ingen nylege attlatne sider</strong><br/>Frykt ikkje å miste ei attlaten fane igjen. Du kan alltids hente henne her.
+firefoxview-closed-tabs-placeholder-header = Ingen nyleg attlatne faner
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Sist aktiv
 # Variables:

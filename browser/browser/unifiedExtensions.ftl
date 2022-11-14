@@ -22,3 +22,5 @@ unified-extensions-context-menu-manage-extension =
     .label = Handsam utviding
 unified-extensions-context-menu-remove-extension =
     .label = Fjern utviding
+unified-extensions-context-menu-report-extension =
+    .label = Rapporter utviding
