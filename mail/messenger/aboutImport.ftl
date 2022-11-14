@@ -10,6 +10,8 @@ export-page-title = Eksporter
 import-from-app = Importer frå applikasjon
 import-file = Importer frå ei fil
 import-file-title = Vel ei fil for[ importere innhaldet.
+import-address-book-title = Importer adressebokfil
+import-calendar-title = Importer kalenderfil
 export-profile = Eksporter
 
 ## Buttons
@@ -26,6 +28,10 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-thunderbird = Importer frå ein annan { app-name-thunderbird }-installasjon
+source-seamonkey = Importer frå ein { app-name-seamonkey }-installasjon
+source-outlook = Importer frå { app-name-outlook }
+source-becky = Importer frå { app-name-becky }
 
 ## Import from file selections
 
