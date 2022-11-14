@@ -3,6 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Sync
+
+appmenu-sync-manage =
+    .value = Kudeatu kontua
+    .accesskey = K
+appmenu-sync-account =
+    .value = izena@adibidea.eus
+appmenu-sync-now =
+    .label = Sinkronizatu orain
+    .accesskey = o
+appmenu-sync-settings =
+    .label = Sinkronizazio-ezarpenak
+    .accesskey = S
+appmenu-sync-sign-out =
+    .label = Amaitu saioa…
+    .accesskey = A
+
 ## New Account
 
 appmenu-new-account-panel-title =
@@ -68,11 +85,6 @@ appmenu-create-contact =
 
 ## Open
 
-appmenu-open-panel =
-    .label = Ireki
-    .accesskey = I
-appmenu-open-panel-title =
-    .title = Ireki
 appmenu-open-file-panel =
     .label = Ireki fitxategitik
     .accesskey = f
@@ -171,3 +183,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-about-product =
     .label = { -brand-short-name }(r)i buruz
     .accesskey = b
+
+## Application Update
+
+appmenuitem-banner-update-downloading =
+    .label = { -brand-shorter-name } eguneraketa deskargatzen
+appmenuitem-banner-update-available =
+    .label = Eguneraketa erabilgarri — deskargatu orain
+appmenuitem-banner-update-manual =
+    .label = Eguneraketa erabilgarri — deskargatu orain
+appmenuitem-banner-update-unsupported =
+    .label = Ezin da eguneratu — sistema bateragaitza
+appmenuitem-banner-update-restart =
+    .label = Eguneraketa erabilgarri — berrabiarazi orain
