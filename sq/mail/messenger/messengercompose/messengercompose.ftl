@@ -332,3 +332,6 @@ link-preview-yes-replace = Po
 
 ## Dictionary selection popup
 
+spell-add-dictionaries =
+    .label = Shtoni Fjalorë…
+    .accesskey = F
