@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = Nawr gallwch chi gydio ar eich tab
 firefoxview-closed-tabs-title = Caewyd yn ddiweddar
 firefoxview-closed-tabs-description2 = Ail-agorwch dudalennau rydych wedi'u cau yn y ffenestr hon.
 firefoxview-closed-tabs-placeholder = <strong>Dim tudalennau sydd wedi cau yn ddiweddar</strong><br/>Peidiwch byth ag ofni colli tab wedi ei gau eto. Gallwch chi bob amser ei adfer yma.
+firefoxview-closed-tabs-placeholder-header = Dim tabiau sydd wedi'u cau yn ddiweddar
+firefoxview-closed-tabs-placeholder-body = Pan fyddwch yn cau tab yn y ffenestr hon, gallwch chi ei nôl o'r fan hon.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Gweithgaredd diwethaf
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = Newid y llwybr lliw
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Dim byd yma eto</strong><br/>Y tro nesaf y byddwch yn agor tudalen yn { -brand-product-name } ar ddyfais arall, cydiwch arno'n hudol.
+firefoxview-synced-tabs-placeholder-header = Dim byd i'w weld eto
+firefoxview-synced-tabs-placeholder-body = Y tro nesaf y byddwch yn agor tudalen yn { -brand-product-name } ar ddyfais arall, cydiwch ynddo yma.
 firefoxview-collapse-button-show =
     .title = Dangos rhestr
 firefoxview-collapse-button-hide =
