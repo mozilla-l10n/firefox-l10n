@@ -248,6 +248,11 @@ openpgp-key-details-key-part-label =
     .label = Pjesë Kyçi
 openpgp-key-details-attr-ignored = Kujdes: Ky kyç mund të mos funksionojë siç pritet, ngaqë disa nga vetitë e tij janë jo të parrezik dhe mund të shpërfillet.
 openpgp-key-details-attr-upgrade-sec = Duhet të përmirësoni vetitë jo të parrezik.
+openpgp-key-details-attr-upgrade-pub = Duhet t’i kërkoni të zotit të këtij kyçi të përmirësojë vetitë jo të parrezik.
+openpgp-key-details-upgrade-unsafe =
+    .label = Përmirësoni Vetitë Jo të Parrezik
+    .accesskey = P
+openpgp-key-details-upgrade-ok = Kyçi u përmirësua me sukses. Duhet t’ua jepni kyçin e përmirësuar publik korrespondentëve tuaj.
 openpgp-key-details-algorithm-label =
     .label = Algoritëm
 openpgp-key-details-size-label =
@@ -289,6 +294,15 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name }-i s’ka ndonjë kyç personal OpenPGP për <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name }-i gjeti { $count } kyç personal OpenPGP përshoqëruar me këtë <b>{ $identity }</b>
+       *[other] { -brand-short-name }-i gjeti { $count } kyçe personalë OpenPGP përshoqëruar me këtë <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Formësimi juaj i tanishëm përdor ID kyçi <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -345,6 +359,7 @@ key-expired-date = Kyçi skadoi më { $keyExpiry }
 key-expired-simple = Kyçi ka skaduar
 key-revoked-simple = Kyçi u shfuqizua
 key-do-you-accept = E pranoni këtë kyç për verifikim nënshkrimesh dixhitale dhe për fshehtëzim mesazhesh?
+key-verification = Verifikoni shenjat e gishtave të kyçit duke përdorur një kanal të sigurt komunikimesh, tjetër nga email-i, për t’u siguruar se është vërtet kyçi i { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = S’arrihet të dërgohet mesazhi, ngaqë ka një problem me kyçin tuaj personal. { $problem }
 cannot-encrypt-because-missing = S’arrihet të dërgohet ky mesazh me fshehtëzim skaj-më-skaj, ngaqë ka probleme me kyçet e marrësve vijues: { $problem }
@@ -488,6 +503,9 @@ key-error-key-id-not-found = ID-ja e kyçit të formësuar '{ $keySpec }' s’mu
 key-error-not-accepted-as-personal = S’keni ripohuar se kyçi me ID-në '{ $keySpec }' është kyç i juaji personal.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Funksioni që keni përzgjedhur s’mund të përdoret nën mënyrën jo i lidhur. Ju lutemi, lidhuni në internet dhe riprovoni.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = S’gjetëm dot ndonjë kyç të përdorshëm me përputhje me kriterin e dhënë të kërkimit.
+no-update-found = Keni tashmë kyçet që u zbuluan në internet.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Gabim - urdhri për përftim kyçi dështoi
 # Strings used in keyRing.jsm

@@ -353,6 +353,9 @@ auto-mark-as-read =
 mark-read-no-delay =
     .label = Sapo të shfaqen
     .accesskey = S
+view-attachments-inline =
+    .label = Shihni bashkëngjitjet brendazi
+    .accesskey = S
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -410,6 +413,9 @@ auto-save-end = minuta
 warn-on-send-accel-key =
     .label = Ripohoni përdorimin e shkurtoreve për dërgim mesazhi
     .accesskey = R
+add-link-previews =
+    .label = Shto paraparje lidhjesh, kur ngjiten URL-ra
+    .accesskey = S
 spellcheck-label =
     .label = Kontrolloji drejtshkrimin para se ta dërgosh
     .accesskey = K
@@ -442,6 +448,12 @@ default-format-label =
     .label = Si parazgjedhje, përdor formatin Paragraf, në vend se të Lëndë Mesazhi
     .accesskey = P
 compose-send-format-title = Format Dërgimi
+compose-send-automatic-option =
+    .label = Vetvetiu
+compose-send-automatic-description = Nëse te mesazhi s’është përdorur stilizim, dërgojeni si Tekst të Thjeshtë. Ndryshe, dërgojeni si HTML, me mundësi për t’u parë si Tekst i Thjeshtë.
+compose-send-both-option =
+    .label = Të dy, HTML dhe Tekst i Thjeshtë
+compose-send-both-description = Aplikacioni i marrësit për email do të vendosë cilin version të shfaqë.
 compose-send-html-option =
     .label = Vetëm HTML
 compose-send-plain-option =
