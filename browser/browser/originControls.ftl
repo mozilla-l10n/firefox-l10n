@@ -21,7 +21,7 @@ origin-controls-option-when-clicked =
 # Variables:
 #   $domain (String) - The domain for which the access is granted.
 origin-controls-option-always-on =
-    .label = Caniatáu bob tro ar { $domain }
+    .label = Caniatáu Bob Tro ar { $domain }
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.

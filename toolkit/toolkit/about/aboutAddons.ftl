@@ -139,6 +139,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Caniatâd Gwefan
 addon-category-sitepermission-title =
     .title = Caniatâd Gwefan
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Caniatâd Gwefan { $host }
 
 ## These are global warnings
 
