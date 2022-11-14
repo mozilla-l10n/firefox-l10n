@@ -28,6 +28,7 @@ about-networking-trr = TRR
 about-networking-addresses = Adresa
 about-networking-expires = Skadon (Sekonda)
 about-networking-originAttributesSuffix = Kyç Izolimi
+about-networking-flags = Shenja ekstra
 about-networking-messages-sent = Mesazhe të Dërguar
 about-networking-messages-received = Mesazhe të Marrë
 about-networking-bytes-sent = Bajte të Dërguar
