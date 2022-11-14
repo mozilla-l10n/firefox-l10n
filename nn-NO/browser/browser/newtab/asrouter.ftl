@@ -215,3 +215,8 @@ firefoxview-spotlight-promo-title = Sei hei til { -firefoxview-brand-name }
 firefoxview-spotlight-promo-subtitle = Vil du ha den opne fana på telefonen din? Hent henne. Treng du sida du nettopp har besøkt? Hent henne tilbake med { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Sjå korleis dette fungerer
 firefoxview-spotlight-promo-secondarybutton = Hopp over
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Vel fargesamansetjing
+    .accesskey = V
