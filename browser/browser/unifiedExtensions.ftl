@@ -20,6 +20,7 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = A(z) { $extensionName } menüjének megnyitása
+unified-extensions-item-message-manage = Kiegészítő kezelése
 
 ## Extension's context menu
 
