@@ -69,6 +69,7 @@ firefoxview-change-colorway-button = Endre fargesamansetjing
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Ingenting å sjå enno</strong><br/>Neste gong du opnar ei side i { -brand-product-name } på ei anna eining, får du på magisk vis tilgang til henne her.
+firefoxview-synced-tabs-placeholder-header = Ingenting å sjå enno
 firefoxview-collapse-button-show =
     .title = Vis liste
 firefoxview-collapse-button-hide =
