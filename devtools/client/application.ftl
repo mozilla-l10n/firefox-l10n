@@ -72,10 +72,16 @@ manifest-loaded-error = ਮੈਨੀਫੈਸਟ ਲੋਡ ਕਰਦੇ ਸਮ�
 manifest-loaded-devtools-error = ਫਾਇਰਫਾਕਸ DevTools ਗਲਤੀ
 # Text displayed when the page has no manifest available
 manifest-non-existing = ਜਾਂਚ ਕਰਨ ਲਈ ਕੋਈ ਮੈਨੀਫੈਸਟ ਨਹੀਂ ਮਿਲਿਆ।
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = ਮਕਸਦ: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = ਆਈਕਨ
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = ਨਾ-ਦਿੱਤਾ ਆਈਕਾਨ ਅਕਾਰ
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = ਮੈਨੀਫੈਸਟ
     .alt = ਮੈਨੀਫੈਸਟ ਆਈਕਨ
