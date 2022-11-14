@@ -81,6 +81,8 @@ nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-show-all-shortcut-mac =
+    .key = Y
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
@@ -89,6 +91,8 @@ reader-mode-toggle-shortcut-windows =
     .keycode = VK_F9
 reader-mode-toggle-shortcut-other =
     .key = R
+picture-in-picture-toggle-shortcut-mac =
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut-mac` key.
@@ -103,6 +107,11 @@ picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
 bookmark-this-page-shortcut =
     .key = d
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-library-shortcut =
+    .key = O
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.

@@ -178,8 +178,14 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = ບຸກມາກ ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = ແຖບ ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = ປະຫວັດ ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = ຄຳສັ່ງ ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -362,6 +368,9 @@ popup-select-microphone-icon =
     .tooltiptext = ໄມໂຄຣໂຟນ
 popup-select-speaker-icon =
     .tooltiptext = ລໍາໂພງ
+popup-select-window-or-screen =
+    .label = ໜ້າຕ່າງ ຫຼື ໜ້າຈໍ
+    .accesskey = W
 popup-screen-sharing-block =
     .label = ບັອກ
     .accesskey = B
