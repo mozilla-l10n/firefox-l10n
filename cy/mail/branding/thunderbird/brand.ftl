@@ -19,3 +19,4 @@
 # remain unchanged across different versions (Daily, Beta, etc.).
 -brand-product-name = Thunderbird
 -vendor-short-name = Mozilla
+trademarkInfo = Nodau masnachu'r Mozilla Foundation yw Thunderbird a logos Thunderbird.
