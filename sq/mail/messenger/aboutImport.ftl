@@ -120,9 +120,16 @@ calendar-summary-title =
         [one] Importo te kalendari “{ $targetCalendar }” një objekt
        *[other] Importo te kalendari “{ $targetCalendar }” { $itemCount } objekte
     }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Do të krijohet një kalendar i ri i quajtur “{ $targetCalendar }”.
 
 ## Import dialog
 
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Po importohet… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Po eksportohet… { $progressPercent }
+progress-pane-finished-desc2 = I plotësuar.
 error-pane-title = Gabim
 error-message-failed = Importimi dështoi papritmas, më tepër hollësi mund të ketë te Konsola e Gabimeve.
 error-failed-to-parse-ics-file = Te kartela s’u gjetën zëra të importueshëm.
