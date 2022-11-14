@@ -69,6 +69,7 @@ policy-ExtensionUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetish
 policy-FirefoxHome = Formësoni Kreun e Firefox-it
 policy-FirefoxHome2 = Formësoni { -firefox-home-brand-name }.
 policy-FlashPlugin = Lejoni ose jo përdorimin e shtojcës Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Detyro lëvizje të drejtpërdrejtë në sajt intraneti, në vend të kërkimit, kur te shtylla e adresave shtypen zëra kërkimi të përbërë nga një fjalë e vetme.
 policy-Handlers = Formësoni trajtues parazgjedhje aplikacionesh.
 policy-HardwareAcceleration = Në u caktoftë "false", çaktivizohet përshpejtimi përmes hardware-it.
 # “lock” means that the user won’t be able to change this setting

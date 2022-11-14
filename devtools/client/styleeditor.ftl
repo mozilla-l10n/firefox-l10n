@@ -21,6 +21,7 @@ styleeditor-save-button = Ruaje
 styleeditor-options-button =
     .tooltiptext = Mundësi Përpunuesi Stilesh
 styleeditor-media-rules = @media rules
+styleeditor-at-rules = Rregulla me @
 styleeditor-editor-textbox =
     .data-placeholder = Jepeni CSS-në këtu.
 styleeditor-no-stylesheet = Kjo faqe nuk fletë stili.

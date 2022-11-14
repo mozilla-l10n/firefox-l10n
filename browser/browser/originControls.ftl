@@ -8,6 +8,10 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = Zgjerimi S’mund të Lexojë dhe Ndryshojë të Dhëna
+origin-controls-options =
+    .label = Zgjerimi Mund të Lexojë dhe Ndryshojë të Dhëna:
 origin-controls-option-all-domains =
     .label = Në Krejt Sajtet
 origin-controls-option-when-clicked =
@@ -25,3 +29,4 @@ origin-controls-option-always-on =
 origin-controls-state-no-access = S’mund të lexohen dhe ndryshohen të dhëna në këtë sajt
 origin-controls-state-always-on = Mund të lexohen dhe ndryshohen përherë të dhëna në këtë sajt
 origin-controls-state-when-clicked = Lypset leje për lexim dhe ndryshim të dhënash
+origin-controls-state-hover-run-visit-only = Kryeje vetëm për këtë vizitë
