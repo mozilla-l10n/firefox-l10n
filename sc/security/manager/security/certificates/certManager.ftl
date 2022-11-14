@@ -4,13 +4,10 @@
 
 certmgr-title =
     .title = Gestore de tzertificados
-
 certmgr-tab-people =
     .label = Pessones
-
 certmgr-cert-server =
     .label = Server
-
 exception-mgr-cert-location-download =
     .label = Otene su tzertificadu
     .accesskey = O
@@ -35,3 +32,4 @@ exception-mgr-cert-location-download =
 
 ## Certificate export "Save as" and error dialogs
 
+write-file-failure = Faddina in s'archìviu

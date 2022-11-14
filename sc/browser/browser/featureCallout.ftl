@@ -35,4 +35,5 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Cumintza
 
 callout-pdfjs-edit-title = Modìfica is PDFs cun s'aina noa de testu
 callout-pdfjs-edit-body-a = Cumpleta formulàrios, cummenta e annota deretu in { -brand-short-name }.
+callout-pdfjs-edit-button = Imbeniente
 callout-pdfjs-draw-button = Apo cumprèndidu!
