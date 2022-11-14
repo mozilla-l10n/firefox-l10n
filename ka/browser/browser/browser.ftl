@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } – პირადი რეჟიმი
 
 ##
@@ -219,7 +221,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = მოსაძიებლად, შეგიძლიათ გამოიყენოთ:
+search-one-offs-with-title = საძიებოდ გამოიყენეთ:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ძიების პარამეტრების შეცვლა
 search-one-offs-context-open-new-tab =
