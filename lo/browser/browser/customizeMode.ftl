@@ -26,3 +26,5 @@ customize-mode-undo-cmd =
 customize-mode-lwthemes-link = ຈັດການຊຸດຕົກແຕ່ງ
 customize-mode-touchbar-cmd =
     .label = ປັບແຕ່ງແຖບສໍາຜັດ…
+customize-mode-downloads-button-autohide =
+    .label = ເຊື່ອງປຸ່ມເມື່ອຫວ່າງເປົ່າ

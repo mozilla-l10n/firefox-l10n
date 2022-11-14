@@ -106,8 +106,16 @@ urlbar-search-mode-actions = ການກະທຳ
 
 ##
 
+urlbar-xr-blocked =
+    .tooltiptext = ທ່ານໄດ້ບລັອກບ່ອນເກັບຂໍ້ມູນຄົງທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-web-notifications-blocked =
+    .tooltiptext = ທ່ານໄດ້ບລັອກການແຈ້ງເຕືອນສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-camera-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກກ້ອງຖ່າຍຮູບຂອງທ່ານສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-microphone-blocked =
+    .tooltiptext = ທ່ານໄດ້ບລັອກໄມໂຄຣໂຟນຂອງທ່ານສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-screen-blocked =
+    .tooltiptext = ທ່ານໄດ້ສະກັດເວັບໄຊທ໌ນີ້ຈາກການແບ່ງປັນຫນ້າຈໍຂອງທ່ານ.
 urlbar-persistent-storage-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກບ່ອນເກັບຂໍ້ມູນຄົງທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-popup-blocked =
@@ -116,6 +124,10 @@ urlbar-autoplay-media-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກການຫຼິ້ນອັດຕະໂນມັດທີ່ມີສຽງສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-canvas-blocked =
     .tooltiptext = ທ່ານໄດ້ສະກັດການສະກັດເອົາຂໍ້ມູນ canvas ສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-midi-blocked =
+    .tooltiptext = ທ່ານໄດ້ບລັອກການເຂົ້າເຖິງ MIDI ສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-install-blocked =
+    .tooltiptext = ທ່ານໄດ້ສະກັດການຕິດຕັ້ງ add-on ສໍາລັບເວັບໄຊທ໌ນີ້.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -160,6 +172,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ຕັ້ງເປັນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = ຕັ້ງເປັນ Default Search Engine ສໍາລັບ Windows ສ່ວນຕົວ
+    .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.

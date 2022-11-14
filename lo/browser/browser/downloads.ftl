@@ -37,11 +37,23 @@ downloads-cmd-cancel-panel =
 
 ##
 
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ສະແດງໃນໂຟນເດີ
+           *[other] ສະແດງໃນໂຟນເດີ
+        }
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
             [macos] ສະແດງຢູ່ໃນໂຟນເດີ
            *[other] ສະແດງຢູ່ໃນໂຟນເດີ
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] ສະແດງໃນ Finder
+           *[other] ສະແດງໃນ Finder
         }
 downloads-cmd-show-downloads =
     .label = ສະແດງໂຟນເດີດາວໂຫລດ
