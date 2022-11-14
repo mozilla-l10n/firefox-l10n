@@ -131,9 +131,12 @@ progress-pane-importing2 = Po importohet… { $progressPercent }
 progress-pane-exporting2 = Po eksportohet… { $progressPercent }
 progress-pane-finished-desc2 = I plotësuar.
 error-pane-title = Gabim
+error-message-zip-file-too-big2 = Kartela ZIP e përzgjedhur është më e madhe se 2GB. Ju lutemi, së pari çngjesheni, mandej bëni importim prej dosjes së përftuar.
+error-message-extract-zip-file-failed2 = S’u arrit të përftohet kartela ZIP. Ju lutemi, përftojeni dorazi, mandej importojeni që nga dosja e përftuar.
 error-message-failed = Importimi dështoi papritmas, më tepër hollësi mund të ketë te Konsola e Gabimeve.
 error-failed-to-parse-ics-file = Te kartela s’u gjetën zëra të importueshëm.
 error-export-failed = Eksportimi dështoi papritmas, më tepër hollësi mund të ketë te Konsola e Gabimeve.
+error-message-no-profile = S’u gjet profil.
 
 ## <csv-field-map> element
 
@@ -145,6 +148,8 @@ csv-target-field = Fushë libri adresash
 
 ## Export tab
 
+export-profile-title = Eksportoni si një kartelë ZIP llogari, mesazhe, libra adresash dhe rregullime.
+export-profile-description = Nëse profili juaj i tanishëm është më i madh se 2GB, këshillojmë ta kopjeruani vetë.
 export-open-profile-folder = Hapni dosje profili
 export-file-picker2 = Eksportoje si një kartelë ZIP
 export-brand-name = { -brand-product-name }

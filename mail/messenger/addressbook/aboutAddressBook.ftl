@@ -24,8 +24,17 @@ about-addressbook-toolbar-import =
 all-address-books-row =
     .title = Krejt Librat e Adresave
 all-address-books = Krejt Librat e Adresave
+# Variables:
+# $name (String) - The name of the selected book/list.
+# $count (Number) - The number of contacts in the selected book/list.
+about-addressbook-card-count = Kontakte gjithsej në { $name }: { $count }
+# Variables:
+# $count (Number) - The number of contacts in all address books.
+about-addressbook-card-count-all = Kontakte gjithsej në krejt librat e adresave: { $count }
 about-addressbook-books-context-properties =
     .label = Veti
+about-addressbook-books-context-edit-list =
+    .label = Përpunoni listë
 about-addressbook-books-context-synchronize =
     .label = Njëkohësoje
 about-addressbook-books-context-edit =
@@ -57,6 +66,8 @@ about-addressbook-search =
     .placeholder = Kërko për { $name }
 about-addressbook-search-all =
     .placeholder = Kërko në krejt librat e adresave
+about-addressbook-sort-button2 =
+    .title = Mundësi shfaqjeje liste
 about-addressbook-name-format-display =
     .label = Emër i Shfaqur
 about-addressbook-name-format-firstlast =
@@ -71,6 +82,12 @@ about-addressbook-sort-email-ascending =
     .label = Renditi sipas adresash email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Renditi sipas adresash email (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Kalo në skemë horizontale
+about-addressbook-vertical-layout =
+    .label = Kalo në skemë vertikale
+about-addressbook-table-layout =
+    .label = Skemë tabele
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
@@ -158,6 +175,7 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-empty-book = S’ka kontakte
 about-addressbook-placeholder-new-contact = Kontakt i Ri
 about-addressbook-placeholder-search-only = Ky libër adresash shfaq kontakte vetëm pas një kërkimi
 about-addressbook-placeholder-searching = Po kërkohet…
@@ -177,6 +195,8 @@ about-addressbook-selection-lists-header = { $count } lista të përzgjedhura
 about-addressbook-details-edit-photo =
     .title = Përpunoni foto kontakti
 about-addressbook-new-contact-header = Kontakt i Ri
+about-addressbook-prefer-display-name = Parapëlqe emër në ekran në vend se krye mesazhi
+about-addressbook-write-action-button = Shkruani
 about-addressbook-event-action-button = Veprimtari
 about-addressbook-search-action-button = Kërko
 about-addressbook-new-list-action-button = Listë e Re
@@ -189,6 +209,7 @@ about-addressbook-details-email-addresses-header = Adresa Email
 about-addressbook-details-phone-numbers-header = Numra Telefonash
 about-addressbook-details-addresses-header = Adresa
 about-addressbook-details-notes-header = Shënime
+about-addressbook-details-impp-header = Shkëmbim Mesazhesh të Atypëratyshëm
 about-addressbook-details-websites-header = Sajte
 about-addressbook-details-other-info-header = Hollësi të Tjera
 about-addressbook-entry-type-work = Pune
@@ -223,3 +244,4 @@ about-addressbook-photo-save = Ruaje
 
 # Keyboard shortcuts
 
+about-addressbook-new-contact-key = R
