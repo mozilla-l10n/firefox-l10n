@@ -105,13 +105,29 @@ vcard-note-add = Shtoni shënim
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
-vcard-org-header = Veti Organizative
-vcard-org-add = Shtoni veti organizative
+vcard-org-header = Veti Në Organikë
+vcard-org-add = Shtoni veti organike
 vcard-org-title = Titull
 vcard-org-title-input =
     .title = Post ose vend pune
     .placeholder = Emër vendi pune
 vcard-org-role = Rol
+vcard-org-role-input =
+    .title = Funksion ose pjesë që luan në një situatë të dhënë
+    .placeholder = Roli në një projekt
+vcard-org-org = Ent
+vcard-org-org-input =
+    .title = Emër në organikë
+    .placeholder = Emër shoqërie
+vcard-org-org-unit = Degë
+vcard-org-org-unit-input =
+    .title = Emër i njësisë në organikë
+    .placeholder = { "" }
 
 # Custom properties
 
+vcard-custom-header = Veti Vetjake
+vcard-custom-add = Shtoni veti vetjake
+vcard-remove-button-title =
+    .title = Hiqe
+vcard-remove-button = Hiqe
