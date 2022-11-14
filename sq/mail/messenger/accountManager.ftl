@@ -7,6 +7,7 @@ open-addons-sidebar-button = Shtesa dhe Tema
 account-action-add-newsgroup-account =
     .label = Shtoni Llogari Grupi Lajmesh…
     .accesskey = L
+server-change-restart-required = Që të aplikohet ndryshimi i emrit të shërbyesit apo përdoruesit, lypset rinisje.
 edit-vcard-dialog-accept-button = Ruaje
     .accesskey = R
 edit-vcard-dialog-cancel-button = Anuloje

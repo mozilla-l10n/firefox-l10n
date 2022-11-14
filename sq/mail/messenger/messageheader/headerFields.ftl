@@ -20,6 +20,7 @@ message-header-tags-list-name = Etiketa
 message-header-author-field = Autor<span data-l10n-name="field-separator">:</span>
 message-header-organization-field = Ent<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = Subjekt<span data-l10n-name="field-separator">:</span>
+message-header-followup-to-field = Vazhdojeni te<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Datë<span data-l10n-name="field-separator">:</span>
 message-header-user-agent-field = Agjent përdoruesi<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Referenca<span data-l10n-name="field-separator">:</span>

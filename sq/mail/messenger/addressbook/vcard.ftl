@@ -70,9 +70,13 @@ vcard-tz-add = Shtoni zonë kohore
 
 # IMPP vCard field
 
+vcard-impp2-header = Shkëmbim Mesazhesh të Atypëratyshëm
+vcard-impp-add = Shtoni llogari fjalosjeje
+vcard-impp-label = Llogari fjalosjeje
 vcard-impp-select = Protokoll
 vcard-impp-option-other = Tjetër
 vcard-impp-input-label = URI
+vcard-impp-input-title = URI për shkëmbim mesazhesh të atypëratyshëm
 
 # BDAY and ANNIVERSARY vCard field
 

@@ -8,6 +8,12 @@
 compose-send-format-menu =
     .label = Format Dërgimi
     .accesskey = { "" }
+compose-send-auto-menu-item =
+    .label = Vetvetiu
+    .accesskey = V
+compose-send-both-menu-item =
+    .label = Të dy, HTML dhe Tekst i Thjeshtë
+    .accesskey = d
 compose-send-html-menu-item =
     .label = Vetëm HTML
     .accesskey = H
@@ -90,6 +96,13 @@ context-menuitem-attach-files =
     .label = Bashkëngjitni Kartelë(a)…
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = vCard-i im
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Kyçi im Publik OpenPGP
+    .accesskey = K
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -137,6 +150,12 @@ encryption-toggle =
 encryption-options-openpgp =
     .label = OpenPGP
     .tooltiptext = Shihni ose ndryshoni rregullime fshehtëzimi OpenPGP encryption settings
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Shihni, ose ndryshoni rregullime fshehtëzimi S/MIME
+signing-toggle =
+    .label = Nënshkruaje
+    .tooltiptext = Përdorni nënshkrim dixhital për këtë mesazh
 menu-openpgp =
     .label = OpenPGP
     .accesskey = G
