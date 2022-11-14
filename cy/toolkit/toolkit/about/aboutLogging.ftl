@@ -7,6 +7,8 @@ about-logging-title = Ynghylch Cofnodi
 about-logging-current-log-file = Ffeil Cofnodi Cyfredol:
 about-logging-current-log-modules = Modiwlau Cofnodi Cyfredol:
 about-logging-log-tutorial = Gw <a data-l10n-name="logging">HTTP Logging</a> am wybodaeth ar sut i ddefnyddio'r teclyn hwn.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Agor y cyfeiriadur
 about-logging-set-log-file = Gosod Ffeil Cofnodi
 about-logging-set-log-modules = Gosod Modiwlau Cofnodi
 about-logging-start-logging = Cychwyn Cofnodi

@@ -46,10 +46,10 @@ pocket-panel-signup-tagline-story-one = Cliciwch Fotwm { -pocket-brand-name } i 
 pocket-panel-signup-tagline-story-two = Gweld yn { -pocket-brand-name } ar unrhyw ddyfais, ar unrhyw adeg.
 pocket-panel-signup-cta-a-fix = Eich botwm cadw ar gyfer y rhyngrwyd.
 pocket-panel-signup-cta-b = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni. Edrychwch ar eich rhestr ar unrhyw ddyfais, unrhyw bryd.
-pocket-panel-signup-cta-b-updated = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni. Gallwch weld eich tudalennau ar unrhyw ddyfais, unrhyw bryd.
+pocket-panel-signup-cta-b-updated = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni. Gallwch weld eich cadw ar unrhyw ddyfais, unrhyw bryd.
 pocket-panel-signup-cta-b-short = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni.
 pocket-panel-signup-cta-c = Edrychwch ar eich rhestr ar unrhyw ddyfais, ar unrhyw bryd.
-pocket-panel-signup-cta-c-updated = Gweld eich tudalennau ar unrhyw ddyfais, unrhyw bryd.
+pocket-panel-signup-cta-c-updated = Gweld eich cadw ar unrhyw ddyfais, unrhyw bryd.
 
 ## about:pocket-home panel
 
@@ -67,7 +67,7 @@ pocket-panel-home-new-user-message = Gweld beth rydych wedi eu cadw'n ddiweddar:
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Gweld Fy Rhestr
-pocket-panel-header-my-saves = Gweld Fy Nhudalennau
+pocket-panel-header-my-saves = Gweld Fy Nghadw
 pocket-panel-header-sign-in = Mewngofnodi
 
 ## Pocket panel buttons
