@@ -5,7 +5,7 @@
 privatebrowsingpage-open-private-window-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = P
 about-private-browsing-search-placeholder = ਵੈੱਬ ‘ਤੇ ਲੱਭੋ
-about-private-browsing-info-title = ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ‘ਚ ਹੋ
+about-private-browsing-info-title = ਤੁਸੀਂ ਨਿੱਜੀ ਵਿੰਡੋ ’ਚ ਹੋ
 about-private-browsing-search-btn =
     .title = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
 # Variables
