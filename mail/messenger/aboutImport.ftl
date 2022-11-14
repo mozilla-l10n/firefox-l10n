@@ -8,9 +8,14 @@ export-page-title = Eksporto
 ## Header
 
 import-start = Mjet Importimesh
+import-start-title = Importoni rregullime ose të dhëna nga një aplikacion ose një kartelë.
+import-start-description = Përzgjidhni burimin prej të cilit doni të importohet. Më vonë do të pyeteni se cilat të dhëna lypset të importohen.
 import-from-app = Importo prej Aplikacioni
 import-file = Importoni prej një kartele
 import-file-title = Përzgjidhni një kartelë që të importohet lënda e saj.
+import-file-description = Zgjidhni importimin e një profili të kopjeruajtur më parë, libri adresash, ose kalendar.
+import-address-book-title = Importo kartelë Libri Adresash
+import-calendar-title = Importo kartelë Kalendari
 export-profile = Eksportim
 
 ## Buttons
@@ -27,12 +32,17 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-thunderbird = Importoni prej një tjetër instalimi të { app-name-thunderbird }-it
+source-thunderbird-description = Importoni rregullime, filtra, mesazhe dhe të dhëna të tjera prej një profili { app-name-thunderbird }.
+source-seamonkey = Importoni prej një instalimi { app-name-seamonkey }
+source-seamonkey-description = Importoni rregullime, filtra, mesazhe dhe të dhëna të tjera prej një profili { app-name-seamonkey }.
 source-outlook = Importoni prej { app-name-outlook }
 source-outlook-description = Importoni llogari, libra adresash dhe mesazhe nga { app-name-outlook }.
 source-becky = Importoni nga { app-name-becky }
 source-apple-mail = Importoni nga { app-name-apple-mail }
 source-apple-mail-description = Importoni mesazhe nga { app-name-apple-mail }.
 source-file2 = Importoni prej një kartele
+source-file-description = Përzgjidhni një kartelë për të importuar libra adresash, kalendarë ose një (kartelë ZIP) kopjeruajtje profili.
 
 ## Import from file selections
 
