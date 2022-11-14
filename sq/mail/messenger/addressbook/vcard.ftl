@@ -101,9 +101,17 @@ vcard-adr-country = Vend
 # NOTE vCard field
 
 vcard-note-header = Shënime
+vcard-note-add = Shtoni shënim
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Veti Organizative
+vcard-org-add = Shtoni veti organizative
+vcard-org-title = Titull
+vcard-org-title-input =
+    .title = Post ose vend pune
+    .placeholder = Emër vendi pune
+vcard-org-role = Rol
 
 # Custom properties
 
