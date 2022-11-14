@@ -11,24 +11,65 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Rregullime
     .accesskey = e
-
 menu-addons-and-themes =
     .label = Shtesa dhe Tema
     .accesskey = S
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Ndihmë
+    .accesskey = N
+menu-help-get-help =
+    .label = Merrni ndihmë
+    .accesskey = N
+menu-help-explore-features =
+    .label = Eksploroni Veçori
+    .accesskey = E
+menu-help-shortcuts =
+    .label = Shkurtore Tastiere
+    .accesskey = S
+menu-help-get-involved =
+    .label = Përfshihuni
+    .accesskey = P
+menu-help-donation =
+    .label = Bëni një Dhurim
+    .accesskey = D
+menu-help-share-feedback =
+    .label = Ndani me të tjerët Ide dhe Përshtypje
+    .accesskey = N
 menu-help-enter-troubleshoot-mode =
     .label = Mënyra Diagnostikim…
     .accesskey = D
-
 menu-help-exit-troubleshoot-mode =
     .label = Çaktivizo Mënyrën Diagnostikim
     .accesskey = Ç
-
 menu-help-more-troubleshooting-info =
     .label = Më Tepër të Dhëna Diagnostikimi
     .accesskey = M
+menu-help-troubleshooting-info =
+    .label = Të dhëna Diagnostikimi
+    .accesskey = D
+menu-help-about-product =
+    .label = Mbi { -brand-short-name }-in
+    .accesskey = M
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Dalje
+           *[other] Mbylle
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] D
+           *[other] M
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Dilni prej { -brand-shorter-name }-it
+quit-app-shortcut =
+    .key = D
 
 ## Mail Toolbar
 
@@ -53,22 +94,33 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Madhësi Shkronjash
+    .accesskey = M
+menuitem-font-size-enlarge =
+    .label = Zmadho Madhësinë e Shkronjave
+    .accesskey = m
+menuitem-font-size-reduce =
+    .label = Zvogëlo Madhësi Shkronjash
+    .accesskey = v
+menuitem-font-size-reset =
+    .label = Ktheje Madhësinë e Shkronjave Te Parazgjedhjet
+    .accesskey = K
 mail-uidensity-label =
     .label = Dendësi
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Kompakte
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normale
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Touch
     .accesskey = T
-
+mail-uidensity-default =
+    .label = Parazgjedhje
+    .accesskey = P
 menu-spaces-toolbar-button =
     .label = Panel Hapësirash
     .accesskey = H
