@@ -87,6 +87,12 @@ openpgp-import-key-title = Importoni një Kyç personal ekzistues OpenPGP
 openpgp-import-key-legend = Përzgjidhni një kartelë të kopjeruajtur më parë.
 openpgp-import-key-description = Mund të importoni kyçe personale që qenë krijuar me tjetër program OpenPGP.
 openpgp-import-key-info = Tjetër program mund të përshkruajë një kyç personal duke përdorur terma alternativë, bie fjala, kyçi juaj, kyç i fshehtë, kyç privat ose çift kyçesh.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount-2 =
+    { $count ->
+        [one] { -brand-short-name }-i gjeti një kyç që mund të importohet.
+       *[other] { -brand-short-name }-i gjeti { $count } kyçe që mund të importohen.
+    }
 openpgp-import-key-list-description = Ripohoni cilët kyçe mund të trajtohen si kyçet tuaj personalë. Si kyçe personalë duhen përdorur vetëm kyçe që krijuat ju vetë dhe që shfaqin identitetin tuaj. Këtë mundësi mund ta ndryshoni më vonë që nga dialogu Veti Kyçi.
 openpgp-import-key-list-caption = Kyçet e shënuar për t’u trajtuar si Kyçe Personalë do të radhiten te ndarja Fshehtëzim Skaj-Më-Skaj. Të tjerët do të jenë të passhëm brenda Përgjegjësit të Kyçeve.
 openpgp-passphrase-prompt-title = Lypset frazëkalim
