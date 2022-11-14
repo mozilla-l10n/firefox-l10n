@@ -598,7 +598,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = ძიების შემოთავაზებების, მონახულებული გვერდების ისტორიაზე წინ გამოჩენა, მისამართების ველის შედეგებში
+    .label = ძიების შემოთავაზებების მონახულებული გვერდების ისტორიაზე წინ გამოჩენა მისამართების ველის შედეგებში
 search-show-suggestions-private-windows =
     .label = ძიების შემოთავაზებების ჩვენება პირად ფანჯრებში
 suggestions-addressbar-settings-generic2 = პარამეტრები, მისამართების ველის სხვა შემოთავაზებებისთვის
