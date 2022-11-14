@@ -72,6 +72,7 @@ firefoxview-change-colorway-button = Emoambue sa’y ojueheguáva
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Ndaipóri gueteri jehecharã</strong><br/>Embojurujajeývo kuatiarogue { -brand-product-name } ndive ambue mba’e’okápe, ehecháta ko’ápe mba’eve’ỹre.
 firefoxview-synced-tabs-placeholder-header = Ndaipóri jehecharã
+firefoxview-synced-tabs-placeholder-body = Embojurujajeývo kuatiarogue { -brand-product-name }-pe ambue mba’e’okápe, osẽta ko’ápe ha’eñoreínte.
 firefoxview-collapse-button-show =
     .title = Ehechauka tysýi
 firefoxview-collapse-button-hide =

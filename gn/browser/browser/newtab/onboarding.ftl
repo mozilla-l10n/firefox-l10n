@@ -381,6 +381,8 @@ onboarding-infrequent-import-primary-button = Emba’egueru { -brand-short-name 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Tapicha omba’apóva mohendaha’ípe mbyja ha yvoty pa’ũme.
 mr2022-onboarding-default-image-alt =
     .aria-label = Tapicha oñañuãvo { -brand-product-name } ra’ãnga’i
 mr2022-onboarding-import-image-alt =

@@ -39,4 +39,6 @@ callout-pdfjs-edit-button = Upeigua
 callout-pdfjs-draw-title = Emboheraguapy kuatiaite ore ra’ãngaapoha rembipuru ndive
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Ehai PDFs marandurendápe ha eñongatu moambuepyre.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Anive embokuatia ha emoha’ãnga. Ehai PDFs marandurendápe ha eñongatu moambuepyre.
 callout-pdfjs-draw-button = ¡Aikumby!
