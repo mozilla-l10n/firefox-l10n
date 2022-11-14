@@ -21,6 +21,7 @@ styleeditor-save-button = Cadw
 styleeditor-options-button =
     .tooltiptext = Dewisiadau'r Golygydd Arddull
 styleeditor-media-rules = Rheolau @media
+styleeditor-at-rules = At-reolau
 styleeditor-editor-textbox =
     .data-placeholder = Teipio'r CSS yma.
 styleeditor-no-stylesheet = Nid oes gan y dudalen ddalen arddull.
