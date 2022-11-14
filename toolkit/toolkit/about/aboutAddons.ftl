@@ -3,116 +3,82 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Handsam tillegg
-
 search-header =
     .placeholder = Søk på addons.mozilla.org
     .searchbuttonlabel = Søk
-
 search-header-shortcut =
     .key = f
-
 list-empty-get-extensions-message = Last ned utvidingar og tema på <<a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-dictionaries-message = Last ned ordbøker på <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-language-packs-message = Last ned språkpakkar på <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = Du har ingen tillegg av denne typen installerte
-
 list-empty-available-updates =
     .value = Ingen oppdateringar funne
-
 list-empty-recent-updates =
     .value = Du har ikkje nyleg oppdatert tillegga
-
 list-empty-find-updates =
     .label = Sjå etter oppdateringar
-
 list-empty-button =
     .label = Les meir om tillegg
-
 help-button = Brukarstøtte for tillegg
 sidebar-help-button-title =
     .title = Brukarstøtte for tillegg
-
 addons-settings-button = { -brand-short-name }-innstillingar
 sidebar-settings-button-title =
     .title = { -brand-short-name }-innstillingar
-
 show-unsigned-extensions-button =
     .label = Nokre utvidingar kunne ikkje stadfestast
-
 show-all-extensions-button =
     .label = Vis alle utvidingar
-
 detail-version =
     .label = Version
-
 detail-last-updated =
     .label = Sist oppdatert
-
 addon-detail-description-expand = Vis meir
 addon-detail-description-collapse = Vis mindre
-
 detail-contributions-description = Utviklaren av dette tillegget ber om at du hjelper til med å støtte vidare utvikling ved å gje eit lite bidrag.
-
 detail-contributions-button = Bidra
     .title = Bidra til utviklinga av dette tillegget
     .accesskey = B
-
 detail-update-type =
     .value = Automatiske oppdateringar
-
 detail-update-default =
     .label = Standard
     .tooltiptext = Installer oppdateringar automatisk berre om det er standard
-
 detail-update-automatic =
     .label = på
     .tooltiptext = Installer oppdateringar automatisk
-
 detail-update-manual =
     .label = Av
     .tooltiptext = Ikkje installer oppdateringar automatisk
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Køyr i privat vindauge
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ikkje tillate i private vindauge
 detail-private-disallowed-description2 = Denne utvidinga køyrer ikkje medan du brukar privat nettlesing. <a data-l10n-name="learn-more">Les meir</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Krev tilgang til private vindauge
 detail-private-required-description2 = Denne utvidinga har tilgang til aktivitetane dine på nettet medan du brukar privat nettlesing. <a data-l10n-name="learn-more">Les meir</a>
-
 detail-private-browsing-on =
     .label = Tillat
     .tooltiptext = Tillat i privat nettlesing
-
 detail-private-browsing-off =
     .label = Ikkje tillat
     .tooltiptext = Ikkje tillat i privat nettlesing
-
 detail-home =
     .label = Heimeside
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Tilleggsprofil
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Sjå etter oppdateringar
     .accesskey = S
     .tooltiptext = Ser etter oppdateringar for dette tillegget
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -129,38 +95,26 @@ detail-show-preferences =
             [windows] Endre innstillingane for dette tillegget
            *[other] Endre innstillingane for dette tillegget
         }
-
 detail-rating =
     .value = Vurdering
-
 addon-restart-now =
     .label = Start på nytt no
-
 disabled-unsigned-heading =
     .value = Nokre tillegg er slått av
-
 disabled-unsigned-description = Desse utvidingane har ikkje blitt kontrollert for bruk i { -brand-short-name }. Du kan <label data-l10n-name="find-addons">finne erstatningar</label> eller spørje utviklaren om å få dei stadfesta.
-
 disabled-unsigned-learn-more = Les meir om tiltaka våre for å halde deg trygg på nettet.
-
 disabled-unsigned-devinfo = Utviklarar som er interesserte i å få utvidingane sine stadfesta kan fortsetje ved å lese <label data-l10n-name="learn-more">manualen vår</label>.
-
 plugin-deprecation-description = Saknar du noko? Nokre programtillegg er ikkje lenger støtta av { -brand-short-name }. <label data-l10n-name="learn-more">Les meir.</label>
-
 legacy-warning-show-legacy = Vis forelda utvidingar
-
 legacy-extensions =
     .value = Forelda utvidingar
-
 legacy-extensions-description = Desse utvidingane oppfyller ikkje gjeldande standardar i { -brand-short-name } og er difor slått av. <label data-l10n-name="legacy-learn-more">Les meir om endringar av tillegg</label>
-
 private-browsing-description2 =
     { -brand-short-name } endrar korleis utvidingar fungerer i privat nettlesingsmodus. Eventuelle nye utvidingar du legg til i
     { -brand-short-name } vert ikkje køyrt som standard i private vindauge, med mindre du tillèt det i innstillingane.
     Utvidinga vil ikkje fungere under privat nettlesing, og vil ikkje ha tilgang til aktivitetane dine på nettet.
     Vi har gjort denne endringa for å halde privat nettlesing privat.
     <label data-l10n-name="private-browsing-learn-more">Les om korleis du administrerer utvidingsinnstillingar.</label>
-
 addon-category-discover = Tilrådingar
 addon-category-discover-title =
     .title = Tilrådingar
@@ -188,6 +142,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Nettstadløyve
 addon-category-sitepermission-title =
     .title = Nettstadløyve
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Nettstadløyve for { $host }
 
 ## These are global warnings
 
@@ -244,42 +202,33 @@ addon-open-about-debugging = Feilsøk tillegg
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Handsam snarvegar for tillegg
     .accesskey = H
-
 shortcuts-no-addons = Du har ingen utvidinga aktiverte.
 shortcuts-no-commands = Følgjande utvidingar har ikkje snarvegar:
 shortcuts-input =
     .placeholder = Skriv inn ein snarveg
-
 shortcuts-browserAction2 = Aktiver verktøylinjeknapp
 shortcuts-pageAction = Aktiver sidehandling
 shortcuts-sidebarAction = Vis/gøym sidepanelet
-
 shortcuts-modifier-mac = Inkluder Ctrl, Alt eller ⌘
 shortcuts-modifier-other = Inkluder Ctrl eller Alt
 shortcuts-invalid = Ugyldig kombinasjon
 shortcuts-letter = Skriv ein bokstav
 shortcuts-system = Kan ikkje overskrive ein { -brand-short-name }-snarveg
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplisert hurtigtast
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } blir brukt som ein hurtigtast i meir enn eitt tilfelle. Dublerte hurtigtastar kan vere årsak til uventa oppførsel.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Allereie i bruk av { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Vis { $numberToShow } fleire
     }
-
 shortcuts-card-collapse-button = Vis mindre
-
 header-back-button =
     .title = Gå tilbake
 
@@ -294,15 +243,12 @@ discopane-intro =
     ofte utvikla av ein tredjepart. Her er eit utval { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">tilrår</a> for eksepsjonell
     sikkerheit, yting og funksjonalitet.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Nokre av desse tilrådingane er målretta deg. Dei er baserte på andre
     utvidingar du har installert, profilinnstillingar og statistikk for bruk.
 discopane-notice-learn-more = Les meir
-
 privacy-policy = Personvernpraksis
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -318,7 +264,6 @@ install-theme-button = Installer tema
 manage-addon-button = Handsam
 find-more-addons = Finn fleire tillegg
 find-more-themes = Finn fleire tema
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -344,16 +289,13 @@ preferences-addon-button =
 details-addon-button = Detaljar
 release-notes-addon-button = Versjonsnotat
 permissions-addon-button = Løyve
-
 extension-enabled-heading = Slått på
 extension-disabled-heading = Slått av
-
 theme-enabled-heading = Slått på
 theme-disabled-heading = Slått av
 theme-disabled-heading2 = Lagra tema
 theme-monochromatic-heading = Fargesamansetjingar
 theme-monochromatic-subheading = Levande nye fargesamansetjingar frå { -brand-product-name }. Tilgjengeleg for ein avgrensa periode.
-
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Prøv Colorways
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
@@ -361,43 +303,33 @@ theme-colorways-button-colorway-enabled = Endre fargesamansetjing
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Går ut { DATETIME($expiryDate, month: "long", day: "numeric") }
-
 plugin-enabled-heading = Slått på
 plugin-disabled-heading = Slått av
-
 dictionary-enabled-heading = Slått på
 dictionary-disabled-heading = Slått av
-
 locale-enabled-heading = Slått på
 locale-disabled-heading = Slått av
-
 sitepermission-enabled-heading = Aktivert
 sitepermission-disabled-heading = Deaktivert
-
 always-activate-button = Alttid aktiver
 never-activate-button = Aldri aktiver
-
 addon-detail-author-label = Utviklar
 addon-detail-version-label = Versjon
 addon-detail-last-updated-label = Sist oppdatert
 addon-detail-homepage-label = Heimeside
 addon-detail-rating-label = Vurdering
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = Denne utvidinga vert oppdatert når { -brand-short-name } startar på nytt.
 install-postponed-button = Oppdater no
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Vurdert til { NUMBER($rating, maximumFractionDigits: 1) } av 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (avslått)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -413,14 +345,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> er fjerna.
 pending-uninstall-undo-button = Angre
-
 addon-detail-updates-label = Tillat automatiske oppdateringar
 addon-detail-updates-radio-default = Standard
 addon-detail-updates-radio-on = På
 addon-detail-updates-radio-off = Av
 addon-detail-update-check-label = Sjå etter oppdateringar
 install-update-button = Oppdater
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -449,20 +379,15 @@ addon-badge-verified2 =
 
 available-updates-heading = Tilgjengelege oppdateringar
 recent-updates-heading = Nylege oppdateringar
-
 release-notes-loading = Lastar…
 release-notes-error = Beklagar, men ein feil oppstod under lasting av versjonsnotatet.
-
 addon-permissions-empty = Denne utvidinga krev inkje løyve
 addon-permissions-required = Påkravde løyve for kjernefunksjonalitet:
 addon-permissions-optional = Valfrie løyve for ekstra funksjonalitet:
 addon-permissions-learnmore = Les meir om løyve
-
 recommended-extensions-heading = Tilrådde utvidingar
 recommended-themes-heading = Tilrådde tema
-
 addon-sitepermissions-required = Gir følgjande funksjonar til <span data-l10n-name="hostname">{ $hostname }</span>:
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Er du i det kreative hjørnet? <a data-l10n-name="link">Bygg ditt eige tema med Firefox Color.</a>
@@ -478,11 +403,9 @@ updates-heading = Handsam oppdateringar
 sitepermission-heading = Handsam nettstadløyva dine
 discover-heading = Tilpass { -brand-short-name }
 shortcuts-heading = Handsam snarvegar for utvidingar
-
 default-heading-search-label = Finn fleire tillegg
 addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org
-
 addon-page-options-button =
     .title = Verktøy for alle tillegg
 
@@ -493,19 +416,13 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } er ikkje kompatibel med { -brand-short-name } { $version }.
-
 details-notification-incompatible-link = Meir informasjon
-
 details-notification-unsigned-and-disabled = { $name } har ikkje blitt stadfesta for bruk i { -brand-short-name } og er slått av.
 details-notification-unsigned-and-disabled-link = Meir informasjon
-
 details-notification-unsigned = { $name } kunne ikkje stadfestast for bruk i { -brand-short-name }. Fortset med varsemd.
 details-notification-unsigned-link = Meir informasjon
-
 details-notification-blocked = { $name } er slått av grunna tryggings- eller stabilitetsomsyn.
 details-notification-blocked-link = Meir informasjon
-
 details-notification-softblocked = { $name } har kjende tryggings- eller stabilitetsproblem.
 details-notification-softblocked-link = Meir informasjon
-
 details-notification-gmp-pending = { $name } vert installert snart.
