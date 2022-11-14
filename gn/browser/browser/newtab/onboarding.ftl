@@ -393,3 +393,5 @@ mr2022-onboarding-pin-private-image-alt =
     .aria-label = Peteĩ varita mágica rupi { -brand-product-name } kundahára ñemi ra’ãnga’i ojehecha akãópe
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Po morotĩ ha po hũ oñembota ojuehe
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Ehechahápe kuarahy reike ovetã guive aguara ha ka’avokuéra ndive
