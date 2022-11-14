@@ -30,6 +30,7 @@ app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
 source-thunderbird = Importer frå ein annan { app-name-thunderbird }-installasjon
 source-seamonkey = Importer frå ein { app-name-seamonkey }-installasjon
+source-seamonkey-description = Importer innstillingar, filter, meldingar og andre data frå ein { app-name-seamonkey }-profil.
 source-outlook = Importer frå { app-name-outlook }
 source-becky = Importer frå { app-name-becky }
 
