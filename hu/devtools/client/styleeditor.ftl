@@ -21,6 +21,7 @@ styleeditor-save-button = Mentés
 styleeditor-options-button =
     .tooltiptext = Stílusszerkesztő beállításai
 styleeditor-media-rules = @media szabályok
+styleeditor-at-rules = @-os szabályok
 styleeditor-editor-textbox =
     .data-placeholder = Írja ide a CSS-t.
 styleeditor-no-stylesheet = Ez az oldal nem rendelkezik stíluslappal.
