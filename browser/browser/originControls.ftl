@@ -21,12 +21,12 @@ origin-controls-option-when-clicked =
 # Variables:
 #   $domain (String) - The domain for which the access is granted.
 origin-controls-option-always-on =
-    .label = { $domain }에서 항상 허용
+    .label = 항상 { $domain }에서 허용
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = 이 사이트에서 데이터를 읽고 변경할 수 없음
-origin-controls-state-always-on = 이 사이트에서 항상 데이터를 읽고 변경할 수 있음
+origin-controls-state-always-on = 항상 이 사이트에서 데이터를 읽고 변경할 수 있음
 origin-controls-state-when-clicked = 데이터 읽기 및 변경에 권한 필요
 origin-controls-state-hover-run-visit-only = 이번 방문에만 실행
