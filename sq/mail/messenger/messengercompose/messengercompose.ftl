@@ -180,10 +180,20 @@ menu-view-certificates =
 menu-open-key-manager =
     .label = Përgjegjës Kyçesh
     .accesskey = P
+openpgp-key-issue-notification-one = Fshehtëzimi skaj-mëskaj lyp zgjidhje problemesh me kyçet për { $addr }
+openpgp-key-issue-notification-many = Fshehtëzimi skaj-mëskaj lyp zgjidhje problemesh me kyçet për { $count } marrës.
+smime-cert-issue-notification-one = Fshehtëzimi skaj-mëskaj lyp zgjidhje problemesh me dëshmitë për { $addr }
+smime-cert-issue-notification-many = Fshehtëzimi skaj-mëskaj lyp zgjidhje problemesh me dëshmitë për { $count } marrës.
 key-notification-disable-encryption =
     .label = Mos e Fshehtëzo
     .accesskey = s
     .tooltiptext = Çaktivizo fshehtëzim skaj-më-skaj
+key-notification-resolve =
+    .label = Zgjidhini…
+    .accesskey = Z
+    .tooltiptext = Hapni Asistentin e Kyçeve OpenPGP
+can-encrypt-smime-notification = Është i mundur fshehtëzim S/MIME skaj-më-skaj.
+can-encrypt-openpgp-notification = Është i mundur fshehtëzim OpenPGP skaj-më-skaj.
 can-e2e-encrypt-button =
     .label = Fshehtëzoje
     .accesskey = F
@@ -356,6 +366,9 @@ cloud-file-account-error = S’u arrit të përditësohej bashkëngjitja Filelin
 ## Link Preview
 
 link-preview-title = Paraparje Lidhjeje
+link-preview-description = { -brand-short-name } mund të shtojë një paraparje të trupëzuar, kur ngjiten lidhje.
+link-preview-autoadd = Shtoni vetvetiu paraparje lidhjesh, kur mundet
+link-preview-replace-now = Të shtohet një Paraparje Lidhje për këtë lidhje?
 link-preview-yes-replace = Po
 
 ## Dictionary selection popup
