@@ -18,16 +18,14 @@ about-private-browsing-handoff-no-engine =
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = { $engine } ਨਾਲ ਖੋਜ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 about-private-browsing-handoff-text-no-engine = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
-about-private-browsing-not-private = ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
+about-private-browsing-not-private = ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਨਿੱਜੀ ਵਿੰਡੋ ਨੂੰ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
 about-private-browsing-info-description-private-window = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ: ਜਦੋਂ ਤੁਸੀਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੀ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ, ਪਰ ਇਹ ਤੁਹਾਨੂੰ ਅਣਪਛਾਤਾ ਨਹੀਂ ਬਣਾਉਂਦਾ ਹੈ।
 about-private-browsing-info-description-simplified = ਜਦੋਂ ਤੁਸੀਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੀ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ, ਪਰ ਇਹ ਤੁਹਾਨੂੰ ਅਣਪਛਾਤਾ ਨਹੀਂ ਬਣਾਉਂਦਾ ਹੈ।
 about-private-browsing-learn-more-link = ਹੋਰ ਜਾਣੋ
-
 about-private-browsing-hide-activity = ਆਪਣੀ ਸਰਗਰਮੀ ਤੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ, ਜਿੱਥੇ ਵੀ ਤੁਸੀੰ ਬਰਾਊਜ਼ ਕਰੋ
 about-private-browsing-get-privacy = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਹਾਸਲ ਕਰੋ
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸਰਗਰਮੀ ਅਤੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ। ਇੱਕ ਕਲਿੱਕ ਰਕੇ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਬਣਾਓ, ਪਬਲਿਕ ਵਾਈ-ਫਾਈ ਵਰਤਣ ਦੌਰਾਨ ਵੀ।
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ਨਾਲ ਪ੍ਰਾਈਵੇਟ ਕਰੋ
-
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ਡਾਊਨਲੋਡ ਕਰੋ
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੁਹਾਡੇ ਨਾਲ ਨਾਲ
 about-private-browsing-focus-promo-text = ਸਾਡੀ ਸਮਰਪਿਤ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਬਾਈਲ ਐਪ ਹਰ ਵਾਰ ਤੁਹਾਡੇ ਅਤੀਤ ਅਟੇ ਕੂਕੀਜ਼ ਨੂੰ ਮਿਟਾ ਦਿੰਦੀ ਹੈ।
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = ਪ੍ਰਾਈਵੇਟ ਬਰਾ
 about-private-browsing-focus-promo-text-b = ਉਹ ਪ੍ਰਾਈਵੇਟ ਖੋਜਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੁੱਖ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਨੂੰ ਪਤਾ ਨਾ ਲੱਗਣ, ਲਈ { -focus-brand-name } ਵਰਤੋਂ।
 about-private-browsing-focus-promo-header-c = ਮੋਬਾਈਲ ਉੱਤੇ ਅਗਲੇ ਪੜਾਅ ਦੀ ਪਰਦੇਦਾਰੀ
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਹਰ ਵਾਰ ਮਿਟਾਉਣ ਦੇ ਨਾਲ ਨਾਲ ਇਸ਼ਤਿਹਾਰਾਂ ਤੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ।
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = ਬੰਦ ਕਰੋ
-
 about-private-browsing-promo-close-button =
     .title = ਬੰਦ ਕਰੋ
 
