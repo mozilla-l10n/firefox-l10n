@@ -6,6 +6,9 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = Sarva about:webrtc comente
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -22,9 +25,6 @@
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
-
-
-## "Avg." is an abbreviation for Average. These are used as data labels.
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
