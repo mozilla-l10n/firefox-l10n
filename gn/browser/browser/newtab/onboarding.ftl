@@ -224,6 +224,7 @@ mr2-onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 
 onboarding-live-language-header = Eiporavo ne ñe’ẽte
 mr2022-onboarding-live-language-text = { -brand-short-name } omboayvu ne ñe’ẽ
+mr2022-language-mismatch-subtitle = Ore rekoha rupive, { -brand-short-name } oñemoñe’ẽasa hetave 90 ñe’ẽmegui. Hi’ã chéve nde apopyvusu oipuru { $systemLanguage } ha { -brand-short-name } oipuruhína { $appLanguage }.
 onboarding-live-language-button-label-downloading = Amohendahína ñe’ẽ rysýi { $negotiatedLanguage } peg̃uarã…
 onboarding-live-language-waiting-button = Egueru ñe’ẽ eipurukuaáva…
 onboarding-live-language-installing = Amohendahína ñe’ẽ rysýi { $negotiatedLanguage } peg̃uarã…
@@ -266,6 +267,8 @@ mr2022-onboarding-secondary-skip-button-label = Ehejánte kóva
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Embojuruja ñanduti oikoitéva
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Eipuru { -brand-short-name } eimehaite guive peteĩ jekutúpe. Ejapo vove péicha, eiporavohína peteĩ ñanduti ijuruja ha hekosãsóva.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -282,6 +285,8 @@ mr2022-onboarding-set-default-only-subtitle = Eipuru peteĩ kundahára atyguasu 
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Aguyje ehayhúre { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Eipuru ñanduti hesãivéva eimehaite guive peteĩ jekutúpe. Ore ñembohekopyahu henyhẽ mba’e pyahúgui roikuaáva katuete rehayhutaha.
 mr2022-onboarding-existing-pin-checkbox-label = Embojuaju kundaha ñemigua { -brand-short-name } mba’éva
 
 ## MR2022 New User Set Default screen strings
