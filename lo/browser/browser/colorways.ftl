@@ -5,6 +5,10 @@
 
 ## Colorway collections
 
+colorway-collection-independent-voices = ສຽງແຫ່ງອິດສະຫຼະ
+colorway-collection-independent-voices-description = ສີສາມາດປ່ຽນວັດທະນະທໍາ. Colorways ຫຼ້າສຸດສະເຫຼີມສະຫຼອງສຽງເຮັດໃຫ້ໂລກເປັນສະຖານທີ່ທີ່ດີກວ່າ.
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = ສີທີ່ປ່ຽນວັດທະນະທໍາ.
 
 ## Colorway names and descriptions
 

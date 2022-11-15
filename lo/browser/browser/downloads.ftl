@@ -28,6 +28,13 @@ downloads-cmd-cancel =
     .tooltiptext = ຍົກເລີກ
 downloads-cmd-cancel-panel =
     .aria-label = ຍົກເລີກ
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] ສະແດງໃນ Finder
+           *[other] ສະແດງໃນ Finder
+        }
+    .accesskey = F
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:

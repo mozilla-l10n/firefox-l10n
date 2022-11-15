@@ -57,14 +57,24 @@ urlbar-midi-notification-anchor =
     .tooltiptext = ເປີດແຜງ MIDI
 urlbar-eme-notification-anchor =
     .tooltiptext = ຈັດການການໃຊ້ຊັອບແວ DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = ເປີດແຜງ Web Authentication
 urlbar-canvas-notification-anchor =
     .tooltiptext = ຈັດການການອະນຸຍາດການສົ່ງອອກຜືນຜ້າໃບ
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = ຈັດການການແບ່ງປັນໄມໂຄຣໂຟນຂອງທ່ານກັບໄຊທ໌
 urlbar-default-notification-anchor =
     .tooltiptext = ເປີດແຜງຂໍ້ຄວາມ
 urlbar-geolocation-notification-anchor =
     .tooltiptext = ເປີດແຜງການຮ້ອງຂໍຕຳແຫນ່ງທີ່ຕັ້ງ
+urlbar-xr-notification-anchor =
+    .tooltiptext = ເປີດແຜງການອະນຸຍາດຄວາມຈິງສະເໝືອນ
+urlbar-storage-access-anchor =
+    .tooltiptext = ເປີດແຜງການອະນຸຍາດກິດຈະກຳການເອີ້ນເບິ່ງ
 urlbar-translate-notification-anchor =
     .tooltiptext = ແປຫນ້ານີ້
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = ຈັດການການແບ່ງປັນວິນໂດ ຫຼືໜ້າຈໍຂອງທ່ານກັບໄຊທ໌
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = ເປີດແຜງຂໍ້ຄວາມ0ທີ່ທີ່ເກັບຂໍ້ມູນແບບອັອບລາຍ
 urlbar-password-notification-anchor =
@@ -73,6 +83,12 @@ urlbar-translated-notification-anchor =
     .tooltiptext = ຈັດການການແປຫນ້ານີ້
 urlbar-plugins-notification-anchor =
     .tooltiptext = ຈັດການການໃຊ້ປັກອິນ
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = ຈັດການການແບ່ງປັນກ້ອງຖ່າຍຮູບ ແລະ/ຫຼືໄມໂຄຣໂຟນຂອງທ່ານກັບໄຊທ໌
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = ຈັດການການແບ່ງປັນລໍາໂພງອື່ນໆກັບໄຊທ໌
 urlbar-autoplay-notification-anchor =
     .tooltiptext = ເປີດແຜງຫຼິ້ນອັດຕະໂນມັດ
 urlbar-persistent-storage-notification-anchor =
@@ -82,6 +98,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = ຂໍຄວາມຊ່ວຍເຫລືອ
 urlbar-search-tips-confirm = ໂອເຄ, ເຂົ້າໃຈແລ້ວ
+urlbar-search-tips-confirm-short = ເຂົ້າໃຈແລ້ວ!
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -389,6 +406,9 @@ popup-select-window-or-screen =
 popup-screen-sharing-block =
     .label = ບັອກ
     .accesskey = B
+popup-screen-sharing-always-block =
+    .label = ຕ້ອງລະງັບຕະຫຼອດ
+    .accesskey = w
 
 ## WebRTC window or screen share tab switch warning
 
