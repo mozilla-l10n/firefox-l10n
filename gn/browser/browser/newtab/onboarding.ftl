@@ -287,6 +287,9 @@ mr2022-onboarding-set-default-only-subtitle = Eipuru peteĩ kundahára atyguasu 
 mr2022-onboarding-existing-pin-header = Aguyje ehayhúre { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-subtitle = Eipuru ñanduti hesãivéva eimehaite guive peteĩ jekutúpe. Ore ñembohekopyahu henyhẽ mba’e pyahúgui roikuaáva katuete rehayhutaha.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Eipuru kundahára omomba’éva nde rekoñemi eikundaha aja ñandutípe. Ore ñembohekopyahu henyhẽ mba’e pyahúgui roikuaáva rehayhutaha.
 mr2022-onboarding-existing-pin-checkbox-label = Embojuaju kundaha ñemigua { -brand-short-name } mba’éva
 
 ## MR2022 New User Set Default screen strings
