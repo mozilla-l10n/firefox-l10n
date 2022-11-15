@@ -220,6 +220,8 @@ firefoxview-spotlight-promo-secondarybutton = Jepo
 
 colorways-cfr-primarybutton = Eiporaro sa’y ojueheguáva
     .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Embosa’y kundahára eipotavévape { -brand-short-name } ndive ohechakuaáva umi ñe’ẽ omoambuéva mba’ekuaa.
 colorways-cfr-header-28days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama 16 jasyteĩ guive
 colorways-cfr-header-14days = Sa’y ojuehegua Independent Voices ndojepurukuaavéitama mokõi arapokõindýpe
 colorways-cfr-header-7days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko arapokõindýpe
