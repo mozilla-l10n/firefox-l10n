@@ -55,6 +55,7 @@ firefoxview-mobile-confirmation-description = Agora pode obter os seus separador
 firefoxview-closed-tabs-title = Fechados recentemente
 firefoxview-closed-tabs-description2 = Reabrir as páginas que fechou nesta janela.
 firefoxview-closed-tabs-placeholder = <strong>Nenhuma página fechada recentemente</strong><br/>Nunca mais tenha receio de perder um separador fechado. Pode sempre recuperar o mesmo aqui.
+firefoxview-closed-tabs-placeholder-header = Nenhum separador fechado recentemente
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ativo pela última vez
 # Variables:
