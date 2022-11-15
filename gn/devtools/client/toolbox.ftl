@@ -46,3 +46,7 @@ toolbox-always-on-top-enabled =
     .title = Embogue Primer plano-pe (kóva omoñepyrũjeýta mboguatahára rembipuru)
 toolbox-always-on-top-disabled =
     .title = Emyandy Primer plano-pe (kóva omoñepyrũjeýta mboguatahára rembipuru)
+toolbox-always-on-top-enabled2 = Embogue jehechamemépe
+    .title = Kóva omoñepyrũjeýta Tembipuru mboguatahárape g̃uarã
+toolbox-always-on-top-disabled2 = Emyandy jehechamemépe
+    .title = Kóva omoñepyrũjeýta Tembipuru mboguatahárape g̃uarã
