@@ -211,6 +211,8 @@ firefoxview-cfr-body = Avei, ehasa apañuãi’ỹre mba’e’okágui ambuépe 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Emomaitei { -firefoxview-brand-name }-pe
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = ¿Eipota tendayke ijurujáva ne pumbyrúpe? Eguerujey pya’e. ¿Eikotevẽ tenda eikeramoha rehe? Oĩ { -firefoxview-brand-name }-pe.
 firefoxview-spotlight-promo-primarybutton = Ehecha mba’éichapa omba’apo
 firefoxview-spotlight-promo-secondarybutton = Jepo
 

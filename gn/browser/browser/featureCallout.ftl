@@ -35,6 +35,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Eñepyrũ
 
 callout-pdfjs-edit-title = Embosako’i PDFs ore moñe’ẽrã rembipuru ndive
 callout-pdfjs-edit-body-a = Ahai myanyhẽhápe, embojuaju jehaipy térã eike { -brand-short-name }-pe.
+callout-pdfjs-edit-body-b = Anive eheka ñanduti reigua mbosako’ihápe. Ehai myanyhẽhápe, embojuaju ne remaiandu térã eñe’ẽ { -brand-short-name } ndivete.
 callout-pdfjs-edit-button = Upeigua
 callout-pdfjs-draw-title = Emboheraguapy kuatiaite ore ra’ãngaapoha rembipuru ndive
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
