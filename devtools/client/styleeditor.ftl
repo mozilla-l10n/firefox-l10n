@@ -21,6 +21,7 @@ styleeditor-save-button = Składować
 styleeditor-options-button =
     .tooltiptext = Nastajenja stiloweho editora
 styleeditor-media-rules = prawidła @media
+styleeditor-at-rules = @-prawidła
 styleeditor-editor-textbox =
     .data-placeholder = Zapisajće tu CSS.
 styleeditor-no-stylesheet = Tuta strona nima stilowu předłohu.
