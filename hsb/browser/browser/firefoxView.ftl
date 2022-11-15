@@ -53,6 +53,7 @@ firefoxview-mobile-confirmation-description = Nětko móžeće swoje rajtarki { 
 firefoxview-closed-tabs-title = Njedawno začinjene
 firefoxview-closed-tabs-description2 = Wočińće strony znowa, kotrež sće w tutym woknje začinił.
 firefoxview-closed-tabs-placeholder = <strong>Žane njedawno začinjene strony</strong><br/>Njebojće so ženje začinjeny rajtark zaso zhubić. Móžeće jón přeco tu zaso dóstać.
+firefoxview-closed-tabs-placeholder-header = Žane runje začinjene rajtarki
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Posledni raz aktiwny
 # Variables:
