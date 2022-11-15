@@ -21,6 +21,7 @@ styleeditor-save-button = Gem
 styleeditor-options-button =
     .tooltiptext = Indstillinger for CSS-editor
 styleeditor-media-rules = @media-regler
+styleeditor-at-rules = @-regler
 styleeditor-editor-textbox =
     .data-placeholder = Skriv CSS her.
 styleeditor-no-stylesheet = Denne side har intet stylesheet.
