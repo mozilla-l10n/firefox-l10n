@@ -90,6 +90,18 @@ main-context-menu-bookmark-add =
     .aria-label = ບຸກມາກຫນ້ານີ້
     .accesskey = m
     .tooltiptext = ບຸກມາກຫນ້ານີ້
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = ໜ້າບຸກມາກ
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = ແກ້ໄຂບຸກມາກ
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -141,6 +153,9 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ສຳເນົາທີ່ຢູ່ຈົດຫມາຍ
     .accesskey = E
+main-context-menu-copy-phone =
+    .label = ສຳເນົາເບີໂທລະສັບ
+    .accesskey = o
 main-context-menu-copy-link-simple =
     .label = ສຳເນົາລິ້ງ
     .accesskey = L
@@ -201,12 +216,26 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = ເບິ່ງໃນພາບມີຫຼິ້ນຊ້ອນກັນ
+    .accesskey = u
 main-context-menu-image-reload =
     .label = ໂຫລດຮູບພາບໃຫມ່
     .accesskey = R
+main-context-menu-image-view-new-tab =
+    .label = ເປີດຮູບໃນແຖບໃໝ່
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = ເປີດວິດີໂອໃນແຖບໃໝ່
+    .accesskey = i
 main-context-menu-image-copy =
     .label = ສຳເນົາຮູບພາບ
     .accesskey = y
+main-context-menu-image-copy-link =
+    .label = ສຳເນົາລິ້ງຮູບພາບ
+    .accesskey = o
 main-context-menu-video-copy-link =
     .label = ສຳເນົາລິ້ງວິດີໂອ
     .accesskey = o
