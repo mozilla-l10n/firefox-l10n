@@ -9,9 +9,9 @@
 ## data for the current website, and allow them to control it.
 
 origin-controls-no-access =
-    .label = 확장 기능이 데이터를 읽고 변경할 수 없음
+    .label = 확장 기능이 데이터 읽기 및 변경 못함
 origin-controls-options =
-    .label = 확장 기능이 데이터를 읽고 변경할 수 있음:
+    .label = 확장 기능이 데이터 읽기 및 변경할 수 있음:
 origin-controls-option-all-domains =
     .label = 모든 사이트에서
 origin-controls-option-when-clicked =
@@ -26,7 +26,7 @@ origin-controls-option-always-on =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
-origin-controls-state-no-access = 이 사이트에서 데이터를 읽고 변경할 수 없음
-origin-controls-state-always-on = 항상 이 사이트에서 데이터를 읽고 변경할 수 있음
+origin-controls-state-no-access = 이 사이트에서 데이터 읽기 및 변경 못함
+origin-controls-state-always-on = 항상 이 사이트에서 데이터 읽기 및 변경할 수 있음
 origin-controls-state-when-clicked = 데이터 읽기 및 변경에 권한 필요
 origin-controls-state-hover-run-visit-only = 이번 방문에만 실행
