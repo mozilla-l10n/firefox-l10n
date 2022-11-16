@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = 확장 기능 관리
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = 도구 모음에 고정
 unified-extensions-context-menu-manage-extension =
     .label = 확장 기능 관리
 unified-extensions-context-menu-remove-extension =
