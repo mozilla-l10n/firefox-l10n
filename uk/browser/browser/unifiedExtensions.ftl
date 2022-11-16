@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Керувати розширенням
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Закріпити на панелі інструментів
 unified-extensions-context-menu-manage-extension =
     .label = Керувати розширенням
 unified-extensions-context-menu-remove-extension =
