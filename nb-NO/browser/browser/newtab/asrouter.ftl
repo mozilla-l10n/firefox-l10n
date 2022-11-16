@@ -220,3 +220,9 @@ firefoxview-spotlight-promo-secondarybutton = Hopp over
 
 colorways-cfr-primarybutton = Velg fargesammensetting
     .accesskey = V
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Farg nettleseren din med eksklusive { -brand-short-name }-fargenyanser inspirert av stemmer som endret kulturen.
+colorways-cfr-header-28days = Fargesammensettingen «Uavhengige stemmer» utløper den 16. januar
+colorways-cfr-header-14days = Fargesammensettingen «Uavhengige stemmer» utløper om to uker
+colorways-cfr-header-7days = Fargesammensettingen «Uavhengige stemmer» utløper denne uken
+colorways-cfr-header-today = Fargesammensettingen «Uavhengige stemmer» utløper i dag
