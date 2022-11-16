@@ -384,6 +384,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Eñepyrũ eikundaha
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Nderogapeguáicha
+onboarding-infrequent-import-subtitle = Ndoroikuaaséi ehasakuévo térã epytáta ko’ápe, nemandu’áke eguerukuaaha nde rechaukaha, ñe’ẽñemi ha hetave.
 onboarding-infrequent-import-primary-button = Emba’egueru { -brand-short-name }-pe
 
 ## MR2022 Illustration alt tags
