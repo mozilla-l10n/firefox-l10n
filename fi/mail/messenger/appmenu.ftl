@@ -5,6 +5,12 @@
 
 ## Sync
 
+appmenu-signin-panel =
+    .label = Kirjaudu Sync-palveluun
+    .accesskey = i
+appmenu-sync-sync =
+    .value = Tilin synkronointi
+    .accesskey = s
 appmenu-sync-manage =
     .value = Hallitse tiliä
     .accesskey = H
@@ -163,5 +169,13 @@ appmenu-help-about-product =
 
 ## Application Update
 
+appmenuitem-banner-update-downloading =
+    .label = Ladataan { -brand-shorter-name }-päivitystä
 appmenuitem-banner-update-available =
     .label = Päivitys saatavilla — lataa nyt
+appmenuitem-banner-update-manual =
+    .label = Päivitys saatavilla — lataa nyt
+appmenuitem-banner-update-unsupported =
+    .label = Päivitys ei onnistu — järjestelmä ei ole yhteensopiva
+appmenuitem-banner-update-restart =
+    .label = Päivitys saatavilla — käynnistä uudelleen nyt
