@@ -9,6 +9,8 @@ about-logging-current-log-modules = Huidige logmodules:
 about-logging-log-tutorial =
     Zie <a data-l10n-name="logging">HTTP logging</a>
     voor instructies over het gebruik van dit hulpmiddel.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Map openen
 about-logging-set-log-file = Logbestand instellen
 about-logging-set-log-modules = Logmodules instellen
 about-logging-start-logging = Registratie starten
