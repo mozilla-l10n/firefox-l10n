@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = Nå kan du hente { -brand-product-
 firefoxview-closed-tabs-title = Nylig lukket
 firefoxview-closed-tabs-description2 = Åpne på nytt sider du har lukket i dette vinduet.
 firefoxview-closed-tabs-placeholder = <strong>Ingen nylig lukkede sider</strong><br/>Frykt ikke å miste en lukket fane igjen. Du kan alltid hente den her.
+firefoxview-closed-tabs-placeholder-header = Ingen nylig lukkede faner
+firefoxview-closed-tabs-placeholder-body = Når du lukker en fane i dette vinduet, kan du hente den herfra.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Sist aktiv
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = Endre fargesammensetting
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Ingenting å se ennå</strong><br/>Neste gang du åpner en side i { -brand-product-name } på en annen enhet, får du på magisk vis tilgang til den her.
+firefoxview-synced-tabs-placeholder-header = Ingenting å se ennå
+firefoxview-synced-tabs-placeholder-body = Neste gang du åpner en side i { -brand-product-name } på en annen enhet, kan du hente den her.
 firefoxview-collapse-button-show =
     .title = Vis liste
 firefoxview-collapse-button-hide =
