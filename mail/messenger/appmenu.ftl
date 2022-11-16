@@ -10,6 +10,15 @@ appmenu-sync-manage =
     .accesskey = H
 appmenu-sync-account =
     .value = example@example.com
+appmenu-sync-now =
+    .label = Synkronoi nyt
+    .accesskey = n
+appmenu-sync-settings =
+    .label = Synkronointiasetukset
+    .accesskey = S
+appmenu-sync-sign-out =
+    .label = Kirjaudu ulos…
+    .accesskey = o
 
 ## New Account
 
@@ -151,3 +160,8 @@ appmenu-help-share-feedback =
 appmenu-help-about-product =
     .label = Tietoja: { -brand-short-name }
     .accesskey = A
+
+## Application Update
+
+appmenuitem-banner-update-available =
+    .label = Päivitys saatavilla — lataa nyt
