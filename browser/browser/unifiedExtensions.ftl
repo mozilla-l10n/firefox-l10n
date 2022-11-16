@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Rozšěrjenje rjadować
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = K symbolowej lajsće připjeć
 unified-extensions-context-menu-manage-extension =
     .label = Rozšěrjenje rjadować
 unified-extensions-context-menu-remove-extension =
