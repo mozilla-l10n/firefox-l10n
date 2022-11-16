@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = No kinne jo jo { -brand-product-na
 firefoxview-closed-tabs-title = Koartlyn sluten
 firefoxview-closed-tabs-description2 = Iepenje siden opnij dy’t jo yn dit finster sluten hawwe.
 firefoxview-closed-tabs-placeholder = <strong>Gjin koartlyn sletten siden</strong><br/>Wês nea bang wer in sletten ljepblêd te ferliezen. Jo kinne it hjir altyd ophelje.
+firefoxview-closed-tabs-placeholder-header = Gjin koartlyn sluten ljepblêden
+firefoxview-closed-tabs-placeholder-body = Wannear’t jo in ljepblêd yn dit finster slute, kinne jo it hjir ophelje.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Lêst aktyf
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = Kleurstelling wizigje
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Noch neat te sjen</strong><br/>De folgjende kear as jo in side iepenje yn { -brand-product-name } op in oar apparaat, iepenje it hjir as yn magy.
+firefoxview-synced-tabs-placeholder-header = Noch neat te sjen
+firefoxview-synced-tabs-placeholder-body = De folgjende kear dat jo op in oar apparaat in side iepenje yn { -brand-product-name }, pak dy dan hjir as is it magy.
 firefoxview-collapse-button-show =
     .title = List toane
 firefoxview-collapse-button-hide =

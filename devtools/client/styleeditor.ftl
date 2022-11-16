@@ -21,6 +21,7 @@ styleeditor-save-button = Bewarje
 styleeditor-options-button =
     .tooltiptext = Stylbewurkeropsjes
 styleeditor-media-rules = @media-rigels
+styleeditor-at-rules = At-rigels
 styleeditor-editor-textbox =
     .data-placeholder = Typ hjir CSS.
 styleeditor-no-stylesheet = Dizze side hat gjin stylblêd.
