@@ -150,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Skriv mindre, finn mer: Søk med { $engineName } direkte fra adresselinjen din.
 urlbar-search-tips-redirect-2 = Start ditt søk i adressefeltet for å se forslag fra { $engineName } og din nettleserhistorikk.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Det ble enklere å søke. Prøv å gjøre søket mer spesifikt her i adressefeltet. For å vise nettadressen i stedet, gå til Søk i innstillingene.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Velg denne snarveien for å finne det du trenger raskere.
