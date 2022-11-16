@@ -21,6 +21,7 @@ styleeditor-save-button = Opslaan
 styleeditor-options-button =
     .tooltiptext = Stijleditoropties
 styleeditor-media-rules = @media-regels
+styleeditor-at-rules = At-regels
 styleeditor-editor-textbox =
     .data-placeholder = Voer hier CSS in.
 styleeditor-no-stylesheet = Deze pagina heeft geen stijlblad.

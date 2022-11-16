@@ -72,6 +72,7 @@ firefoxview-change-colorway-button = Kleurstelling wijzigen
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Nog niets te zien</strong><br/>De volgende keer dat u op een ander apparaat een pagina opent in { -brand-product-name }, kunt u deze hier als bij toverslag ophalen.
 firefoxview-synced-tabs-placeholder-header = Nog niets te zien
+firefoxview-synced-tabs-placeholder-body = De volgende keer dat u op een ander apparaat een pagina opent in { -brand-product-name }, kunt u deze hier als bij toverslag pakken.
 firefoxview-collapse-button-show =
     .title = Lijst tonen
 firefoxview-collapse-button-hide =
