@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Kache nemba’etéva imbeguéva
 about-networking-rcwn-cache-not-slow = Kache nemba’etéva imbegue’ỹva
 about-networking-networkid = Ñanduti ID
 about-networking-networkid-id = Ñanduti ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Ko kuatiarogue oñemongu’e <a data-l10n-name="about-logging-url">about:logging</a>-pe.
 
 ## Link is intended as "network link"
 
