@@ -5,6 +5,14 @@
 bookmark-overlay-name-2 =
     .value = ຊື່
     .accesskey = N
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = ຕຳແຫນ່ງທີ່ຕັ້ງ
+    .accesskey = L
 bookmark-overlay-choose =
     .label = ເລືອກ…
 bookmark-overlay-folders-expander =
@@ -23,3 +31,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = ສະແດງແທັກທັງຫມົດ
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = ເຊື່ອງ
+bookmark-overlay-keyword-2 =
+    .value = ຄໍາທີ່ຕ້ອງການຊອກຫາ
+    .accesskey = K

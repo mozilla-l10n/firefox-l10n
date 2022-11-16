@@ -7,6 +7,9 @@
 
 crashed-subframe-learnmore-link =
     .value = ຮຽນຮູ້ເພີ່ມເຕີມ
+crashed-subframe-submit =
+    .label = ສົ່ງບົດລາຍງານ
+    .accesskey = S
 
 ## Pending crash reports
 

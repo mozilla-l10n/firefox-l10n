@@ -609,6 +609,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ສຽງ ຫລື ວີດີໂອບາງສ່ວນໃນເວັບໄຊທ໌ນີ້ໃຊ້ຊອບແວ DRM, ເຊິ່ງອາດຈະຈຳກັດສິ່ງທີ່ { -brand-short-name } ສາມາດໃຫ້ທ່ານເຮັດໄດ້.
+eme-notifications-drm-content-playing-manage = ຈັດການການຕັ້ງຄ່າ
 eme-notifications-drm-content-playing-manage-accesskey = ມ
 eme-notifications-drm-content-playing-dismiss = ປິດ
 eme-notifications-drm-content-playing-dismiss-accesskey = ວ
@@ -623,6 +624,7 @@ panel-save-update-password = ລະຫັດຜ່ານ
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = ລຶບ { $name } ອອກບໍ?
+addon-removal-abuse-report-checkbox = ລາຍງານສ່ວນຂະຫຍາຍນີ້ໃຫ້ { -vendor-short-name }
 
 ##
 
@@ -635,6 +637,9 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = ອະນຸຍາດໃຫ້ປັອບອັບສຳລັບ { $uriHost }
+    .accesskey = p
 
 ##
 
