@@ -27,21 +27,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] 닫은 탭 다시 열기
         }
     .accesskey = o
-
 toolbar-context-menu-manage-extension =
     .label = 확장 기능 관리
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = 확장 기능 제거
     .accesskey = v
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = 확장 기능 신고
     .accesskey = o
-
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -63,7 +60,11 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = 도구 모음 사용자 지정…
     .accesskey = C
-
+# This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
+# is hidden, so they can share access keys.
+toolbar-context-menu-pin-to-toolbar =
+    .label = 도구 모음에 고정
+    .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = 항상 표시
     .accesskey = A
@@ -73,11 +74,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = 새 탭에서만 표시
     .accesskey = O
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = 기타 북마크 표시
     .accesskey = h
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = 메뉴 모음
     .accesskey = M
