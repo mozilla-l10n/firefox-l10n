@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Quản lý tiện ích
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Ghim vào thanh công cụ
 unified-extensions-context-menu-manage-extension =
     .label = Quản lí tiện ích
 unified-extensions-context-menu-remove-extension =
