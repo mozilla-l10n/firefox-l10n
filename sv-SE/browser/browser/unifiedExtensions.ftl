@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Hantera tillägg
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Fäst i verktygsfält
 unified-extensions-context-menu-manage-extension =
     .label = Hantera tillägg
 unified-extensions-context-menu-remove-extension =
