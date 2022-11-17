@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Идоракунии васеъшавӣ
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Васл кардан ба навори абзорҳо
 unified-extensions-context-menu-manage-extension =
     .label = Идоракунии васеъшавӣ
 unified-extensions-context-menu-remove-extension =
