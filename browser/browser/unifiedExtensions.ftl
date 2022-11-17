@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Kiegészítő kezelése
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Rögzítés az eszköztárra
 unified-extensions-context-menu-manage-extension =
     .label = Kiegészítő kezelése
 unified-extensions-context-menu-remove-extension =
