@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Uzantıyı yönet
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Araç çubuğuna sabitle
 unified-extensions-context-menu-manage-extension =
     .label = Uzantıyı yönet
 unified-extensions-context-menu-remove-extension =
