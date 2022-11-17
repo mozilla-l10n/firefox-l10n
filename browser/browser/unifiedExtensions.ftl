@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = 管理擴充套件
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = 釘選至工具列
 unified-extensions-context-menu-manage-extension =
     .label = 管理擴充套件
 unified-extensions-context-menu-remove-extension =
