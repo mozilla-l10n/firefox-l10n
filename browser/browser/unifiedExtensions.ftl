@@ -9,6 +9,8 @@
 ## Panel
 
 unified-extensions-header-title = Extensiones
+unified-extensions-manage-extensions =
+    .label = Administrar extensiones
 
 ## An extension in the main list
 
@@ -18,9 +20,14 @@ unified-extensions-header-title = Extensiones
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Abrir menú para { $extensionName }
+unified-extensions-item-message-manage = Administrar extensión
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Anclar a la barra de herramientas
+unified-extensions-context-menu-manage-extension =
+    .label = Gestionar extensión
 unified-extensions-context-menu-remove-extension =
     .label = Eliminar extensión
 unified-extensions-context-menu-report-extension =
