@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Extensie beheren
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Aan werkbalk vastzetten
 unified-extensions-context-menu-manage-extension =
     .label = Extensie beheren
 unified-extensions-context-menu-remove-extension =
