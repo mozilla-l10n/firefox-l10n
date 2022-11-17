@@ -18,6 +18,8 @@ unified-extensions-item-message-manage = Διαχείριση επέκτασης
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Καρφίτσωμα στη γραμμή εργαλείων
 unified-extensions-context-menu-manage-extension =
     .label = Διαχείριση επέκτασης
 unified-extensions-context-menu-remove-extension =
