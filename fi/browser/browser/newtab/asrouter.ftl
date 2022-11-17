@@ -215,3 +215,14 @@ firefoxview-spotlight-promo-title = Tervehdi { -firefoxview-brand-name }ä
 firefoxview-spotlight-promo-subtitle = Haluatko avoimen välilehden puhelimeltasi? Nappaa se. Tarvitsetko sivuston, jolla juuri vierailit? Hokkuspokkus, se on palannut { -firefoxview-brand-name }llä.
 firefoxview-spotlight-promo-primarybutton = Katso miten se toimii
 firefoxview-spotlight-promo-secondarybutton = Ohita
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Valitse väriteema
+    .accesskey = ä
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Väritä selaimesi { -brand-short-name }in erityisillä sävyillä, jotka ovat saaneet vaikutteita kulttuuria muuttaneista äänistä.
+colorways-cfr-header-28days = Itsenäiset äänet -väriteemat vanhenevat 16. tammikuuta
+colorways-cfr-header-14days = Itsenäiset äänet -väriteemat vanhenevat kahden viikon kuluttua
+colorways-cfr-header-7days = Itsenäiset äänet -väriteemat vanhenevat tällä viikolla
+colorways-cfr-header-today = Itsenäiset äänet -väriteemat vanhenevat tänään
