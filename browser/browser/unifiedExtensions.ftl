@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = ניהול הרחבה
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = הצמדה לסרגל הכלים
 unified-extensions-context-menu-manage-extension =
     .label = ניהול הרחבה
 unified-extensions-context-menu-remove-extension =
