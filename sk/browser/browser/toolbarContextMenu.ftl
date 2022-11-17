@@ -29,21 +29,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Obnoviť zatvorené karty
         }
     .accesskey = b
-
 toolbar-context-menu-manage-extension =
     .label = Spravovať rozšírenie
     .accesskey = S
 toolbar-context-menu-remove-extension =
     .label = Odstrániť rozšírenie
     .accesskey = r
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Nahlásiť rozšírenie
     .accesskey = r
-
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -65,7 +62,11 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Upraviť panel nástrojov…
     .accesskey = U
-
+# This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
+# is hidden, so they can share access keys.
+toolbar-context-menu-pin-to-toolbar =
+    .label = Pripnúť na panel nástrojov
+    .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Vždy zobrazovať
     .accesskey = V
@@ -75,11 +76,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Zobrazovať iba na novej karte
     .accesskey = Z
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Zobraziť ostatné záložky
     .accesskey = r
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Hlavná ponuka
     .accesskey = H
