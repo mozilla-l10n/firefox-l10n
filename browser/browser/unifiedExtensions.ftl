@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Hallitse laajennusta
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Kiinnitä työkalupalkkiin
 unified-extensions-context-menu-manage-extension =
     .label = Hallitse laajennusta
 unified-extensions-context-menu-remove-extension =
