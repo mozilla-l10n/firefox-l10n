@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Gérer l’extension
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Épingler à la barre d’outils
 unified-extensions-context-menu-manage-extension =
     .label = Gérer l’extension
 unified-extensions-context-menu-remove-extension =
