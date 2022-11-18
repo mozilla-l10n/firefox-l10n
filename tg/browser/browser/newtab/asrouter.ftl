@@ -69,7 +69,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Тамошокунӣ бе пайгирӣ
-cfr-protections-panel-body = Маълумоти худро бо худ нигоҳ доред. { -brand-short-name } шуморо аз бисёр васоити пайгирие, ки фаъолияти шуморо дар онлайн пайгирӣ мекунанд, муҳофизат менамояд.
+cfr-protections-panel-body = Маълумоти худро бо худ нигоҳ доред. «{ -brand-short-name }» шуморо аз бисёр васоити пайгирие, ки фаъолияти шуморо дар онлайн пайгирӣ мекунанд, муҳофизат менамояд.
 cfr-protections-panel-link-text = Маълумоти бештар
 
 ## What's New toolbar button and panel
@@ -98,7 +98,7 @@ cfr-doorhanger-milestone-close-button = Пӯшидан
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = Махфияти шумо муҳим аст. Акнун браузери «{ -brand-short-name }» дархостҳои DNS-и шуморо ба хидмати шарик ба таври бехатар интиқол медиҳад, то ки шуморо ҳангоми тамошокунӣ муҳофизат кунад.
+cfr-doorhanger-doh-body = Махфияти шумо муҳим аст. Акнун браузери «{ -brand-short-name }» дархостҳои «DNS»-и шуморо ба хидмати шарик ба таври бехатар интиқол медиҳад, то ки шуморо ҳангоми тамошокунӣ муҳофизат кунад.
 cfr-doorhanger-doh-header = Ҷустуҷӯҳои DNS-и рамзгузоришуда ва бехатартар
 cfr-doorhanger-doh-primary-button-2 = Хуб
     .accesskey = Х
@@ -107,7 +107,7 @@ cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Махфияти шумо муҳим аст. Акнун { -brand-short-name } сомонаҳоро аз ҳар як сомонаи дигар ҷудо карда, ба «қуттиҳо» мегузорад ва ба хакерон имкони дуздидани ниҳонвожаҳо, рақамҳои кортҳои кредитӣ ва маълумоти муҳими дигар душвор мекунад.
+cfr-doorhanger-fission-body-approved = Махфияти шумо муҳим аст. Акнун «{ -brand-short-name }» сомонаҳоро аз ҳар як сомонаи дигар ҷудо карда, ба «қуттиҳо» мегузорад ва ба хакерон имкони дуздидани ниҳонвожаҳо, рақамҳои кортҳои кредитӣ ва маълумоти муҳими дигар душвор мекунад.
 cfr-doorhanger-fission-header = Маҳдудкунии сомона
 cfr-doorhanger-fission-primary-button = Хуб, фаҳмидам
     .accesskey = Х
@@ -116,8 +116,8 @@ cfr-doorhanger-fission-secondary-button = Маълумоти бештар
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Видеоҳои ин сомона метаводанд дар ин версияи { -brand-short-name } дуруст кор накунанд. Барои дастгирии пурраи видео, { -brand-short-name }-ро ҳозир навсозӣ кунед.
-cfr-doorhanger-video-support-header = Барои пахш кардани видео { -brand-short-name }-ро навсозӣ кунед
+cfr-doorhanger-video-support-body = Видеоҳои ин сомона метаводанд дар ин версияи «{ -brand-short-name }» дуруст кор накунанд. Барои дастгирии пурраи видео, «{ -brand-short-name }»-ро ҳозир навсозӣ кунед.
+cfr-doorhanger-video-support-header = Барои пахш кардани видео «{ -brand-short-name }»-ро навсозӣ кунед
 cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ кунед
     .accesskey = Ҳ
 
@@ -152,20 +152,20 @@ spotlight-total-cookie-protection-header =
 spotlight-total-cookie-protection-body = «Муҳофизати пурра аз кукиҳо» васоити пайгириро аз истифодаи кукиҳо қатъ мекунад, то ки онҳо шуморо дар шабака пайгирӣ накунанд.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } дар атрофи кукиҳо девор месозад ва кукиҳоро бо сомонае, ки шумо дар он ҳастед, маҳдуд мекунад, то васоити пайгирӣ натавонанд онҳоро барои пайгирӣ кардани шумо истифода баранд. Бо дастрасии барвақт, шумо ба раванди беҳтаркунии ин хусусият кумак хоҳед кард, то мо тавонем сохтани Интернети беҳтарро барои ҳамаи корбарон идома диҳем.
+spotlight-total-cookie-protection-expanded = «{ -brand-short-name }» дар атрофи кукиҳо девор месозад ва кукиҳоро бо сомонае, ки шумо дар он ҳастед, маҳдуд мекунад, то васоити пайгирӣ натавонанд онҳоро барои пайгирӣ кардани шумо истифода баранд. Бо дастрасии барвақт, шумо ба раванди беҳтаркунии ин хусусият кумак хоҳед кард, то мо тавонем сохтани Интернети беҳтарро барои ҳамаи корбарон идома диҳем.
 spotlight-total-cookie-protection-primary-button = Фаъол кардани «Муҳофизати пурра аз кукиҳо»
 spotlight-total-cookie-protection-secondary-button = Ҳоло не
-cfr-total-cookie-protection-header = Ба шарофати шумо, акнун { -brand-short-name } бештар хусусӣ ва бехатар аст.
+cfr-total-cookie-protection-header = Ба шарофати шумо, акнун «{ -brand-short-name }» хусуситар ва бехатартар аст.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = «Муҳофизати пурра аз кукиҳо» муҳофизати пурқувваттарини доимии мо барои махфияти шумо мебошад – ва акнун ин хусусият ҳамчун танзимоти пешфарз барои ҳамаи корбарони { -brand-short-name } истифода мешавад. Мо бе иштирокдорон дорои дастрасии барвақт, ба монанди шумо, ин хусусиятро эҷод карда наметавонистем. Ташаккур барои кумаки шумо дар сохтани Интернети беҳтар бо махфияти бештар.
+cfr-total-cookie-protection-body = «Муҳофизати пурра аз кукиҳо» муҳофизати пурқувваттарини доимии мо барои махфияти шумо мебошад – ва акнун ин хусусият ҳамчун танзимоти пешфарз барои ҳамаи корбарони «{ -brand-short-name }« истифода мешавад. Мо бе иштирокдорон дорои дастрасии барвақт, ба монанди шумо, ин хусусиятро эҷод карда наметавонистем. Ташаккур барои кумаки шумо дар сохтани Интернети беҳтар бо махфияти бештар.
 
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Интернети беҳтар аз шумо оғоз мешавад
 spotlight-better-internet-body = Вақте ки шумо аз «{ -brand-short-name }» истифода мебаред, шумо барои интернети кушод ва дастрас овоз медиҳед, ки барои ҳамаи корбарон беҳтар аст.
 spotlight-peace-mind-header = Мо шуморо бо ғамхорӣ фаро гирифтем
-spotlight-peace-mind-body = Ҳар моҳ, { -brand-short-name } ба ҳисоби миёна зиёда аз 3000 воситаи пайгириро барои як корбар манъ мекунад. Ҳеҷ чиз, алалхусус мушкилиҳои монанди васоити пайгирӣ, набояд байни шумо ва Интернети нек монеъ шавад.
+spotlight-peace-mind-body = Ҳар моҳ, «{ -brand-short-name }» ба ҳисоби миёна зиёда аз 3000 воситаи пайгириро барои як корбар манъ мекунад. Ҳеҷ чиз, алалхусус мушкилиҳои монанди васоити пайгирӣ, набояд байни шумо ва Интернети нек монеъ шавад.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Нигоҳ доштан дар мустақар
