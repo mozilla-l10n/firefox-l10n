@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Ҷустуҷӯ
     .aria-label = Ҷустуҷӯ
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
     .title = Нишониеро ҷустуҷӯ кунед ё ворид намоед
     .aria-label = Нишониеро ҷустуҷӯ кунед ё ворид намоед
-
 newtab-search-box-text = Ҷустуҷӯ дар Интернет
 newtab-search-box-input =
     .placeholder = Ҷустуҷӯ дар Интернет
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Таҳрир кардани миёнбу�
 newtab-topsites-title-label = Сарлавҳа
 newtab-topsites-title-input =
     .placeholder = Сарлавҳаро ворид намоед
-
 newtab-topsites-url-label = Нишонии URL
 newtab-topsites-url-input =
     .placeholder = Нишонии URL-ро ворид кунед ё гузоред
 newtab-topsites-url-validation = Нишонии URL-и эътибор лозим аст
-
 newtab-topsites-image-url-label = Нишонии URL-и тасвири шахсӣ
 newtab-topsites-use-image-link = Истифодаи тасвири шахсӣ…
 newtab-topsites-image-validation = Тасвир бор карда нашуд. Нишонии URL-и дигареро кӯшиш кунед.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Сарпарастӣ
 newtab-menu-section-tooltip =
     .title = Кушодани меню
     .aria-label = Кушодани меню
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Тоза кардан
     .aria-label = Тоза кардан
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -121,7 +115,7 @@ newtab-privacy-modal-button-done = Тайёр
 newtab-privacy-modal-button-manage = Идоракунии танзимоти муҳтавои сарпарастӣ
 newtab-privacy-modal-header = Махфияти шумо муҳим аст.
 newtab-privacy-modal-paragraph-2 =
-    Илова ба нигоҳдории ҳикояҳои ҷолиб, мо, инчунин, ба шумо муҳтавои мувофиқ ва тафтишшударо аз сарпарастони мунтахаб нишон медиҳем. Боварӣ ҳосил кунед, ки <strong>маълумоти тамошокунӣ ҳеҷ вақт нусхаи шухсии { -brand-product-name }-и шуморо бесоҳиб намемонад</strong> — ҳатто мо ба маълумоти шахсии шумо дастрасӣ надорем, сарпарастони мо ҳам дастрасӣ надоранд.
+    Илова ба нигоҳдории ҳикояҳои ҷолиб, мо, инчунин, ба шумо муҳтавои мувофиқ ва тафтишшударо аз сарпарастони мунтахаб нишон медиҳем. Боварӣ ҳосил кунед, ки <strong>маълумоти тамошокунӣ ҳеҷ вақт нусхаи шахсии «{ -brand-product-name }»-и шуморо бесоҳиб намемонад</strong> — ҳатто мо ба маълумоти шахсии шумо дастрасӣ надорем, сарпарастони мо ҳам дастрасӣ надоранд.
     сарпарастон низ надоранд.
 newtab-privacy-modal-link = Маълумот гиред, ки чӣ тавр махфият дар варақаи нав риоя карда мешавад
 
@@ -160,17 +154,14 @@ newtab-label-removed-bookmark = Хатбарак тоза карда шуд
 newtab-label-recommended = Маъмул
 newtab-label-saved = Ба { -pocket-brand-name } нигоҳ дошта шуд
 newtab-label-download = Боргиришуда
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · дорои реклама мебошад
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Аз тарафи сарпарасти { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -209,7 +200,6 @@ newtab-section-header-pocket = Аз тарафи { $provider } тавсия до
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Тамошокунии сомонаҳоро оғоз намоед ва мо баъзеи мақолаҳои шавқовар, видеоҳо ва саҳифаҳои дигареро, ки шумо тамошо кардед ё ба хатбаракҳо гузоштед, дар ин ҷо намоиш медиҳем.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -234,11 +224,9 @@ newtab-pocket-learn-more = Маълумоти бештар
 newtab-pocket-cta-button = { -pocket-brand-name }-ро бор кунед
 newtab-pocket-cta-text = Ҳикояҳоеро, ки дӯст медоред, дар { -pocket-brand-name } нигоҳ доред ва ба зеҳни худ аз хониши дилрабо қувват диҳед.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } қисми оилаи { -brand-product-name } мебошад
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Нигоҳ доштан ба «{ -pocket-brand-name }»
 newtab-pocket-saved-to-pocket = Ба «{ -pocket-brand-name }» нигоҳ дошта шуд
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Нишон додани ҳикоятҳои бештар
 
@@ -249,7 +237,6 @@ newtab-pocket-last-card-title = Шумо ҳамаро хондед!
 newtab-pocket-last-card-desc = Барои маълумоти бештар дертар баргардед.
 newtab-pocket-last-card-image =
     .alt = Шумо ҳамаро хондед
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Нигоҳ доштан
 newtab-pocket-saved = Нигоҳ дошта шуд
