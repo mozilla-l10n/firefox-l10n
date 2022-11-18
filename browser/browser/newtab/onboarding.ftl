@@ -303,9 +303,24 @@ mr2022-onboarding-secondary-skip-button-label = Прескочи овај кор
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Откријте невероватан интернет
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Једним кликом покрените { -brand-short-name } било где. Сваки пут када то урадите, бирате отворенији и независнији интернет.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Држи { -brand-short-name } у Dock-у
+       *[other] Закачи { -brand-short-name } на траку задатака
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Крените са прегледачем који подржава непрофитна организација. Док сте ви на интернету, ми бранимо вашу приватност.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Хвала вам што волите { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
