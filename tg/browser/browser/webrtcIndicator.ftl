@@ -12,9 +12,9 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-webrtc-indicator-title = { -brand-short-name } — Нишондиҳандаи дастрасӣ
+webrtc-indicator-title = «{ -brand-short-name }» — Нишондиҳандаи дастрасӣ
 webrtc-indicator-window =
-    .title = { -brand-short-name } — Нишондиҳандаи дастрасӣ
+    .title = «{ -brand-short-name }» — Нишондиҳандаи дастрасӣ
 
 ## Used as list items in sharing menu
 
@@ -39,7 +39,7 @@ webrtc-sharing-menu =
     .label = Дастгоҳҳо бо иҷозати дастрасӣ ба варақаҳо
     .accesskey = d
 webrtc-sharing-window = Шумо ба равзанаи барномаи дигар дастрасии умумӣ медиҳед.
-webrtc-sharing-browser-window = Шумо ба { -brand-short-name } дастрасии умумӣ медиҳед.
+webrtc-sharing-browser-window = Шумо ба «{ -brand-short-name }» дастрасии умумӣ медиҳед.
 webrtc-sharing-screen = Шумо ба тамоми экрани худ дастрасии умумӣ медиҳед.
 webrtc-stop-sharing-button = Қатъ кардани дастрасӣ
 webrtc-microphone-unmuted =
@@ -176,7 +176,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Ба { $origin }
 ##
 
 webrtc-share-screen-warning = Экранҳоро танҳо дар он сомонаҳое, ки шумо эътимод доред, мубодила кунед. Мубодилаи экран метавонад ба сомонаҳои қалбакӣ имкон диҳад, то онҳо тавонанд браузерро аз номи шумо истифода баранд ва маълумоти шахсии шуморо дуздӣ кунанд.
-webrtc-share-browser-warning = { -brand-short-name }-ро танҳо дар он сомонаҳое, ки шумо эътимод доред, мубодила кунед. Мубодилаи экран метавонад ба сомонаҳои қалбакӣ имкон диҳад, то онҳо тавонанд браузерро аз номи шумо истифода баранд ва маълумоти шахсии шуморо дуздӣ кунанд.
+webrtc-share-browser-warning = «{ -brand-short-name }»-ро танҳо дар он сомонаҳое, ки шумо эътимод доред, мубодила кунед. Мубодилаи экран метавонад ба сомонаҳои қалбакӣ имкон диҳад, то онҳо тавонанд браузерро аз номи шумо истифода баранд ва маълумоти шахсии шуморо дуздӣ кунанд.
 webrtc-share-screen-learn-more = Маълумоти бештар
 webrtc-pick-window-or-screen = Равзана ё экранро интихоб намоед
 webrtc-share-entire-screen = Тамоми экран
@@ -212,6 +212,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Ин қарорро дар хотир доред
 webrtc-mute-notifications-checkbox = Бесадо кардани огоҳиҳои сомона ҳангоми мубодила
-webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } наметавонад, ки дастрасии доимиро ба экрани шумо иҷозат диҳад.
-webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } наметавонад бе дархости он, ки кадом варақа мубодила карда мешавад, дастрасии доимиро ба аудиои варақаи шумо иҷозат диҳад.
-webrtc-reason-for-no-permanent-allow-insecure = Пайвастшавии шумо ба ин сомона бехатар нест. Барои муҳофизат кардани шумо, { -brand-short-name } танҳо дастрасӣ то анҷоми ин ҷаласа иҷозат медиҳад.
+webrtc-reason-for-no-permanent-allow-screen = «{ -brand-short-name }» наметавонад, ки дастрасии доимиро ба экрани шумо иҷозат диҳад.
+webrtc-reason-for-no-permanent-allow-audio = «{ -brand-short-name }» наметавонад бе дархости он, ки кадом варақа мубодила карда мешавад, дастрасии доимиро ба аудиои варақаи шумо иҷозат диҳад.
+webrtc-reason-for-no-permanent-allow-insecure = Пайвастшавии шумо ба ин сомона бехатар нест. Барои муҳофизат кардани шумо, «{ -brand-short-name }» танҳо дастрасӣ то анҷоми ин ҷаласа иҷозат медиҳад.

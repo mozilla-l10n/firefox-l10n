@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-audio-output-device-label = Дастгоҳи пешфарзи барориши аудио
-mediastatus-fallback-title = { -brand-short-name } медиаро пахш мекунад
+mediastatus-fallback-title = «{ -brand-short-name }» медиаро пахш мекунад

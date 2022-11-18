@@ -4,139 +4,100 @@
 
 certmgr-title =
     .title = Мудири гувоҳиномаҳо
-
 certmgr-tab-mine =
     .label = Гувоҳиномаҳои шумо
-
 certmgr-tab-remembered =
     .label = Қарорҳои санҷиши ҳаққоният
-
 certmgr-tab-people =
     .label = Одамон
-
 certmgr-tab-servers =
     .label = Серверҳо
-
 certmgr-tab-ca =
     .label = Марказҳои гувоҳиномадиҳӣ
-
 certmgr-mine = Шумо аз ташкилотҳои зерин гувоҳиномаҳоеро дар бар мегиред, ки шуморо муайян мекунанд
 certmgr-remembered = Ин гувоҳиномаҳо барои муайянкунии шумо дар сомонаҳо истифода мешаванд
 certmgr-people = Шумо гувоҳиномаҳоеро нигоҳ медоред, ки шахсони зеринро муайян мекунанд
 certmgr-server = Сабтҳои ҷорӣ барои хатоҳои гувоҳиномаҳои сервер истисноҳоро муайян мекунанд
 certmgr-ca = Шумо гувоҳиномаҳоеро нигоҳ медоред, ки макомотҳои гувоҳиномадиҳии зеринро муайян мекунанд
-
 certmgr-edit-ca-cert =
     .title = Таҳрир кардани танзимоти эътимоди гувоҳиномаи МИ
     .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Таҳрир кардани танзимоти эътимоди гувоҳиномаи МИ
     .style = min-width: 48em;
-
 certmgr-edit-cert-edit-trust = Иваз кардани танзимоти эътимодяит:
-
 certmgr-edit-cert-trust-ssl =
     .label = Ин гувоҳинома метавонад сомонаҳоро муайян кунад.
-
 certmgr-edit-cert-trust-email =
     .label = Ин гувоҳинома метавонад корбарони почтаи электрониро муайян кунад.
-
 certmgr-delete-cert =
     .title = Нест кардани гувоҳинома
     .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Нест кардани гувоҳинома
     .style = min-width: 48em; min-height: 24em;
-
 certmgr-cert-host =
     .label = Мизбон
-
 certmgr-cert-name =
     .label = Номи гувоҳинома
-
 certmgr-cert-server =
     .label = Сервер
-
 certmgr-override-lifetime =
     .label = Муҳлати эътибор
-
 certmgr-token-name =
     .label = Дастгоҳи амният
-
 certmgr-begins-label =
     .label = Санаи оғоз
-
 certmgr-expires-label =
     .label = Санаи анҷом
-
 certmgr-email =
     .label = Нишонии почтаи электронӣ
-
 certmgr-serial =
     .label = Рақами силсилавӣ
-
 certmgr-view =
     .label = Намоиш…
     .accesskey = Н
-
 certmgr-edit =
     .label = Иваз кардани эътимодият…
     .accesskey = И
-
 certmgr-export =
     .label = Содир кардан…
     .accesskey = С
-
 certmgr-delete =
     .label = Нест кардан…
     .accesskey = Н
-
 certmgr-delete-builtin =
     .label = Нест кардан ё нобоварӣ сохтан…
     .accesskey = Н
-
 certmgr-backup =
     .label = Нусхаи эҳтиётӣ…
     .accesskey = Н
-
 certmgr-backup-all =
     .label = Ҳамаро ба нусхаи эҳтиётӣ илова кардан…
     .accesskey = Ҳ
-
 certmgr-restore =
     .label = Ворид кардан…
     .accesskey = В
-
 certmgr-add-exception =
     .label = Илова кардани истисно…
     .accesskey = И
-
 exception-mgr =
     .title = Илова кардани истиснои амниятӣ
-
 exception-mgr-extra-button =
     .label = Тасдиқ кардани истиснои амниятӣ
     .accesskey = Т
-
 exception-mgr-supplemental-warning = Бонкҳои қонунӣ, мағозаҳои онлайни расмӣ ва дигар сомонаҳои ҷамъиятии расмӣ аз шумо чунин амалҳоро дархост намекунанд.
-
 exception-mgr-cert-location-url =
     .value = Ҷойгиршавӣ:
-
 exception-mgr-cert-location-download =
     .label = Гирифтани гувоҳинома
     .accesskey = Г
-
 exception-mgr-cert-status-view-cert =
     .label = Намоиш…
     .accesskey = Н
-
 exception-mgr-permanent =
     .label = Ин истисно ба таври доимӣ нгоҳ дошта шавад
     .accesskey = И
-
 pk11-bad-password = Ниҳонвожаии воридшуда нодуруст аст.
 pkcs12-decode-err = Амали рамзёбии файл иҷро нашуд. Эҳтимол аст, ки файл дар формати PKCS #12 намебошад, вайрон шудааст ё ин ки ниҳонвожае, ки шумо ворид кардед, нодуруст аст.
 pkcs12-unknown-err-restore = Бо сабабҳои номаълум файли PKCS #12 барқарор карда нашуд.
@@ -169,37 +130,28 @@ delete-user-cert-title =
     .title = Нест кардани гувоҳиномаҳои худ
 delete-user-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед ин гувоҳиномаҳоро нест намоед?
 delete-user-cert-impact = Агар шумо яке аз гувоҳиномаҳои шахсии худро нест кунед, шумо дигар онро барои муайянкунии худ истифода бурда наметавонед.
-
-
 delete-ssl-override-title =
     .title = Тоза кардани истисно барои гувоҳиномаи сервер
 delete-ssl-override-confirm = Шумо мутмаин ҳастед, ки мехоҳед ин истиснои серверро нест намоед?
 delete-ssl-override-impact = Агар шумо истиснои серверро нест кунед, шумо санҷишҳои бехатарии муқаррарро барои он сервер барқарор месозед ва талаб мекунед, ки он аз гувоҳиномаи боэътибор истифода барад.
-
 delete-ca-cert-title =
     .title = Несткунӣ ё нобоварӣ нисбат ба гувоҳиномаҳои МИ
 delete-ca-cert-confirm = Шумо дархост кардед, ки гувоҳиномаҳои мақомоти иҷозатномадиҳандаи зерин нест карда шаванд. Гувоҳиномаҳои дарунсохт комилан аз эътибор сокит дониста мешаванд, ки дар ин маврид таъсири ягона дорад. Шумо мутмаин ҳастед, ки мехоҳед гувоҳиномаҳоро нест кунед ё ба онҳо дигар бовар накунед?
 delete-ca-cert-impact = Агар шумо гувоҳиномаи мақомоти иҷозатномадиҳанда (МИ)-ро нест кунед ё ба он бовар накунед, ин барнома дигар ба ягон гувоҳиномаи баровардашуда аз тарафи ин МИ бовар намекунад.
-
-
 delete-email-cert-title =
     .title = Нест кардани гувоҳиномаҳои почтаи электронӣ
 delete-email-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед гувоҳиномаҳои почтаи электронии одамони зеринро нест намоед?
 delete-email-cert-impact = Агар шумо гувоҳиномаи почтаи электронии корбари ҷориро нест кунед, шумо дигар ба он корбар паёми электронии рамзгузоришударо ирсол карда наметавонед.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Гувоҳинома бо рақами силсилавӣ: { $serialNumber }
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Гувоҳиномаи муштарӣ ирсол карда нашавад
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Нигоҳ дошта нашуд)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Дастнорас)
 
@@ -210,7 +162,7 @@ temporary-override = Муваққатӣ
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = Шумо дар ҳоли иваз кардани рафтори { -brand-short-name } барои муайянкунии ин сомона қарор доред.
+add-exception-branded-warning = Шумо дар ҳоли иваз кардани рафтори «{ -brand-short-name }» барои муайянкунии ин сомона қарор доред.
 add-exception-invalid-header = Ин сомона дар ҳоли муайянкунии худ ба воситаи маълумоти нодуруст қарор дорад.
 add-exception-domain-mismatch-short = Сомонаи нодуруст
 add-exception-domain-mismatch-long = Ин гувоҳинома ба сомонаи дигар тааллуқ дорад ва ин маънои онро дорад, ки касе мехоҳад ин сомонаро сохтакорӣ кунад.
