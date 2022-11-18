@@ -16,7 +16,7 @@ onboarding-not-now-button-label = Ҳоло не
 
 ## Custom Return To AMO onboarding strings
 
-return-to-amo-subtitle = Аҷоиб, шумо { -brand-short-name } доред
+return-to-amo-subtitle = Аҷоиб, шумо «{ -brand-short-name }» доред
 # <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
 #
 # Variables:
@@ -64,8 +64,8 @@ mr1-onboarding-reduce-motion-button-label = Хомӯш кардани анима
 # Title used on welcome page when Firefox is not pinned
 mr1-onboarding-pin-header =
     { PLATFORM() ->
-        [macos] Барои дастрасии осон { -brand-short-name }-ро дар мустақари худ нигоҳ доред
-       *[other] Барои дастрасии осон { -brand-short-name }-ро ба навори вазифа васл кунед
+        [macos] Барои дастрасии осон «{ -brand-short-name }»-ро дар мустақари худ нигоҳ доред
+       *[other] Барои дастрасии осон «{ -brand-short-name }»-ро ба навори вазифа васл кунед
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
@@ -84,7 +84,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Таъин кардани 
     .title = «{ -brand-short-name }»-ро ҳамчун браузери асосӣ таъин мекунад ва ба навори вазифа мегузорад
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери пешфарзи ман
+mr1-onboarding-set-default-only-primary-button-label = Таъин кардани «{ -brand-short-name }» ҳамчун браузери пешфарзи ман
 mr1-onboarding-set-default-secondary-button-label = Ҳоло не
 mr1-onboarding-sign-in-button-label = Ворид шудан
 
@@ -120,7 +120,7 @@ mr2-onboarding-theme-label-auto = Худкор
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Пешфарз
 mr1-onboarding-theme-header = Соҳиби он шавед
-mr1-onboarding-theme-subtitle = Намуди зоҳирии { -brand-short-name }-ро бо мавзуи дилхоҳ иваз намоед.
+mr1-onboarding-theme-subtitle = Намуди зоҳирии «{ -brand-short-name }»-ро бо мавзуи дилхоҳ иваз намоед.
 mr1-onboarding-theme-primary-button-label = Нигоҳ доштани мавзуъ
 mr1-onboarding-theme-secondary-button-label = Ҳоло не
 # System theme uses operating system color settings
@@ -223,7 +223,7 @@ mr2-onboarding-start-browsing-button-label = Оғоз кардани тамош�
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Забони худро интихоб намоед
-mr2022-onboarding-live-language-text = { -brand-short-name } бо забони шумо ҳарф мезанад
+mr2022-onboarding-live-language-text = «{ -brand-short-name }» бо забони шумо ҳарф мезанад
 mr2022-language-mismatch-subtitle = Ба шарофати ҷамъияти умумиҷаҳонии мо, браузери интернетии «{ -brand-short-name }» ба зиёда аз 90 забон тарҷума карда шудааст. Чунин менамояд, ки низоми шумо аз забони «{ $systemLanguage }» истифода мебарад, он вақте ки «{ -brand-short-name }» аз забони «{ $appLanguage }» истифода мебарад.
 onboarding-live-language-button-label-downloading = Боргирии бастаи забон барои «{ $negotiatedLanguage }»…
 onboarding-live-language-waiting-button = Гирифтани забонҳои дастрас…
@@ -249,15 +249,15 @@ fx100-thank-you-hero-text =
 fx100-thank-you-subtitle = Ин 100-умин нашри мост! Ташаккур барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Нигоҳ доштани { -brand-short-name } дар мустақар
-       *[other] Васл кардани { -brand-short-name } ба навори вазифа
+        [macos] Нигоҳ доштани «{ -brand-short-name }» дар мустақар
+       *[other] Васл кардани «{ -brand-short-name }» ба навори вазифа
     }
 fx100-upgrade-thanks-header = 100 бор ташаккур ба Шумо
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
-fx100-upgrade-thank-you-body = Ин 100-умин нашри { -brand-short-name }-и мост! Ташаккур ба <em>Шумо</em> барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
+fx100-upgrade-thank-you-body = Ин 100-умин нашри «{ -brand-short-name }»-и мост! Ташаккур ба <em>Шумо</em> барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = Ин 100-умин нашри мост! Сипосгузорем, ки Шумо қисми ҷамъияти мо мебошед. { -brand-short-name }-ро дар масофаи на дур аз як клик барои 100 нашри дигар нигоҳ доред.
+fx100-upgrade-thanks-keep-body = Ин 100-умин нашри мост! Сипосгузорем, ки Шумо қисми ҷамъияти мо мебошед. «{ -brand-short-name }»-ро дар масофаи на дур аз як клик барои 100 нашри дигар нигоҳ доред.
 mr2022-onboarding-secondary-skip-button-label = Нодида гузарондани ин қадам
 
 ## MR2022 New User Pin Firefox screen strings
@@ -272,8 +272,8 @@ mr2022-onboarding-welcome-pin-subtitle = «{ -brand-short-name }»-ро аз ҷ�
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Нигоҳ доштани { -brand-short-name } дар мустақар
-       *[other] Васл кардани { -brand-short-name } ба навори вазифа
+        [macos] Нигоҳ доштани «{ -brand-short-name }» дар мустақар
+       *[other] Васл кардани «{ -brand-short-name }» ба навори вазифа
     }
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
@@ -327,7 +327,7 @@ mr2022-onboarding-colorway-primary-button-label-continue = Танзим куне
 mr2022-onboarding-existing-colorway-checkbox-label = Бигузор { -firefox-home-brand-name } саҳифаи асосии рангини шумо шавад
 mr2022-onboarding-colorway-label-default = Пешфарз
 mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Рангҳои ҷории { -brand-short-name }
+    .title = Рангҳои ҷории «{ -brand-short-name }»
 mr2022-onboarding-colorway-description-default = <b>Истифода бурдани рангҳои ҷории ман дар «{ -brand-short-name }».</b>
 mr2022-onboarding-colorway-label-playmaker = Бозингар
 mr2022-onboarding-colorway-tooltip-playmaker2 =
@@ -368,8 +368,8 @@ mr2022-upgrade-onboarding-pin-private-window-header = Тамошокунии х�
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Рост аз мизи кории шумо меояд ва ягон куки ё таърих нигоҳ дошта намешавад. Аз Интернет истифода баред ба мисли ҳеҷ кас ба шумо нигоҳ намедорад.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
-        [macos] Нигоҳ доштани тамошокунии хусусии { -brand-short-name } дар мустақар
-       *[other] Васл кардани тамошокунии хусусии { -brand-short-name } ба навори вазифа
+        [macos] Нигоҳ доштани тамошокунии хусусии «{ -brand-short-name }» дар мустақар
+       *[other] Васл кардани тамошокунии хусусии «{ -brand-short-name }» ба навори вазифа
     }
 
 ## MR2022 Privacy Segmentation screen strings
