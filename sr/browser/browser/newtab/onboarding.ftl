@@ -308,7 +308,7 @@ mr2022-onboarding-welcome-pin-subtitle = Једним кликом покрен�
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Држи { -brand-short-name } у Dock-у
+        [macos] Остави { -brand-short-name } у доку
        *[other] Закачи { -brand-short-name } на траку задатака
     }
 # Subtitle will be used when user already has Firefox pinned, but
@@ -395,13 +395,22 @@ mr2022-onboarding-colorway-description-innovator = <b>Проналазачки.<
 mr2022-onboarding-mobile-download-title = Пребаците се са лаптопа на телефон и обратно
 mr2022-onboarding-mobile-download-subtitle = Превуците језичке на други уређај и наставите тамо где сте стали. Синхронизујте обележиваче и лозинке где год да користите { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Скенирајте QR код да преузмете { -brand-product-name } за мобилне или <a data-l10n-name="download-label">пошаљите себи везу за преузимање.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Скенирајте QR код да преузмете { -brand-product-name } за мобилне.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Једним кликом до слободног приватног прегледања
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Нема сачуваних колачића или историје, директно са радне површине. Прегледајте као да нико не гледа.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Остави { -brand-short-name } приватно прегледање у док
+       *[other] Закачи { -brand-short-name } приватно прегледање на траку задатака
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Увек поштујемо вашу приватност
 
 ## MR2022 Multistage Gratitude screen strings
 
