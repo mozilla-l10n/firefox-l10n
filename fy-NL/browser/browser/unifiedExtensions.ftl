@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Utwreiding beheare
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Oan arkbalke fêstsette
 unified-extensions-context-menu-manage-extension =
     .label = Utwreiding beheare
 unified-extensions-context-menu-remove-extension =
