@@ -9,11 +9,18 @@
 ## data for the current website, and allow them to control it.
 
 origin-controls-no-access =
-    .label = 扩展无法读取和更改数据
+    .label = 扩展不可读取和更改数据
 origin-controls-options =
     .label = 扩展可以读取和更改数据：
+origin-controls-option-all-domains =
+    .label = 在所有网站
+origin-controls-option-when-clicked =
+    .label = 仅在点击允许后
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
-origin-controls-state-no-access = 无法读取和更改此网站的数据
+origin-controls-state-no-access = 不可读取和更改此网站的数据
+origin-controls-state-always-on = 总可读取和更改此网站的数据
+origin-controls-state-when-clicked = 需赋予权限以读取和更改数据
+origin-controls-state-hover-run-visit-only = 仅在此次访问运行
