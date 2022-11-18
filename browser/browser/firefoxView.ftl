@@ -72,6 +72,7 @@ firefoxview-change-colorway-button = 更改配色
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>空空如也</strong><br/>下次您在其他设备上的 { -brand-product-name } 打开页面时，将可在此看到同步内容。
 firefoxview-synced-tabs-placeholder-header = 空空如也
+firefoxview-synced-tabs-placeholder-body = 下次您在其他设备上的 { -brand-product-name } 打开页面后，可在此处再次打开，接续浏览。
 firefoxview-collapse-button-show =
     .title = 显示列表
 firefoxview-collapse-button-hide =
