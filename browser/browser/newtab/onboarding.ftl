@@ -368,18 +368,31 @@ mr2022-onboarding-colorway-description-default = <b>Користи моје тр
 mr2022-onboarding-colorway-label-playmaker = Плејмејкер
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Плејмејкер (црвено)
-mr2022-onboarding-colorway-description-playmaker = <b>Ви сте плејмејкер.</b> Стварате прилике за победе и помажете свима око себе да подигну ниво своје игре.
-mr2022-onboarding-colorway-label-expressionist = Екпресиониста
+mr2022-onboarding-colorway-description-playmaker = <b>Плејмејкер.</b> Стварате прилике за победе и помажете свима око себе да подигну ниво своје игре.
+mr2022-onboarding-colorway-label-expressionist = Екпресионизам
 mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Екпресиониста (жута)
-mr2022-onboarding-colorway-description-expressionist = <b>Ви сте експресиониста.</b> На свет гледате другачије и ваш рад изазива снажна осећања код других.
-mr2022-onboarding-colorway-label-visionary = Визионар
+    .title = Екпресионизам (жуто)
+mr2022-onboarding-colorway-description-expressionist = <b>Експресионизам.</b> На свет гледате другачије и ваш рад изазива снажна осећања код других.
+mr2022-onboarding-colorway-label-visionary = Визионарски
 mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Визионар (зелено)
-mr2022-onboarding-colorway-description-visionary = <b>Ви сте визионар.</b> Доводите у питање стање ствари око себе и побуђујете друге да размишљају о бољој будућности.
+    .title = Визионарски (зелено)
+mr2022-onboarding-colorway-description-visionary = <b>Визионарски.</b> Доводите у питање стање ствари око себе и побуђујете друге да размишљају о бољој будућности.
+mr2022-onboarding-colorway-label-activist = Активизам
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Активизам (плаво)
+mr2022-onboarding-colorway-description-activist = <b>Активизам.</b> Чините свет бољим него што је био претходног дана и изазивате друге да верују у промене.
+mr2022-onboarding-colorway-label-dreamer = Сањарски
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Сањарски (љубичасто)
+mr2022-onboarding-colorway-description-dreamer = <b>Сањарски.</b> Верујете да срећа прати храбре и инспиришете друге да буду храбрији.
+mr2022-onboarding-colorway-label-innovator = Проналазачки
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Проналазачки (наранџасто)
+mr2022-onboarding-colorway-description-innovator = <b>Проналазачки.</b> Видите прилике свуда и позитивно утичете на животе свију око себе.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Пребаците се са лаптопа на телефон и обратно
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
