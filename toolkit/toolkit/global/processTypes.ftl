@@ -8,24 +8,21 @@
 ##
 
 process-type-web = Веб садржај
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = О привилегијама
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Привилеговани Mozilla садржај
-
 process-type-extension = Додатак
-
 # process used to open file:// URLs
 process-type-file = Локална датотека
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Изоловани веб садржај
-
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Изоловани Service Worker
 # process preallocated; may change to other types
 process-type-prealloc = Унапред додељено
 
@@ -35,16 +32,15 @@ process-type-prealloc = Унапред додељено
 
 process-type-default = Главни
 process-type-tab = Картица
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Сокет
-
 # process used to decode media
 process-type-rdd = RDD
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Sandboxed IPC Actor
 
 ##
 ## Other
