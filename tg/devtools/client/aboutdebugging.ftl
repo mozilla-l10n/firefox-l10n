@@ -173,7 +173,7 @@ about-debugging-runtime-service-workers-not-compatible = Танзимоти бр
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = Браузери пайвастшуда дорои версияи кӯҳна мебошад ({ $runtimeVersion }). Версияи ҳадди ақалли дастгиришаванда ({ $minVersion }) мебошад. Ин танзим дастгирӣ карда намешавад ва метавонад боиси вайроншавии абзорҳои барномарезии «DevTools» шавад. Лутфан, браузери пайвастшударо навсозӣ кунед. <a>Ислоҳи нуқсонҳо</a>
+about-debugging-browser-version-too-old = Браузери пайвастшуда дорои версияи куҳна мебошад ({ $runtimeVersion }). Версияи ҳадди ақалли дастгиришаванда ({ $minVersion }) мебошад. Ин танзим дастгирӣ карда намешавад ва метавонад боиси вайроншавии абзорҳои барномарезии «DevTools» шавад. Лутфан, браузери пайвастшударо навсозӣ кунед. <a>Ислоҳи нуқсонҳо</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Ин версияи «Firefox» наметавонад, ки хатоҳои браузери «Firefox барои Android (68)»-ро ислоҳ кунад. Мо тавсия медиҳем, ки шумо браузери «Firefox барои Android Nightly»-ро дар телефони худ барои санҷишҳо насб намоед. <a>Маълумоти муфассал</a>

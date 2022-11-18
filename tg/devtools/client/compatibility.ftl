@@ -10,10 +10,10 @@ compatibility-all-elements-header = Ҳамаи масъалаҳо
 
 ## Message used as labels for the type of issue
 
-compatibility-issue-deprecated = (кӯҳнашуда)
+compatibility-issue-deprecated = (куҳнашуда)
 compatibility-issue-experimental = (озмоишӣ)
 compatibility-issue-prefixneeded = (пешоянд лозим аст)
-compatibility-issue-deprecated-experimental = (кӯҳнашуда, озмоишӣ)
+compatibility-issue-deprecated-experimental = (куҳнашуда, озмоишӣ)
 compatibility-issue-deprecated-prefixneeded = (куҳна шудааст, пешванд лозим аст)
 compatibility-issue-experimental-prefixneeded = (озмоишӣ, пешванд лозим аст)
 compatibility-issue-deprecated-experimental-prefixneeded = (куҳна шудааст, озмоишӣ, пешванд лозим аст)

@@ -66,10 +66,10 @@ inactive-css-ruby-element-fix = Кӯшиш кунед, ки <strong>font-size</s
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> дар браузерҳои зерин дастгирӣ намешавад:
-css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> хусусияти озмоишӣ буд, ки акнун аз рӯи стандартҳои «W3C» кӯҳна шудааст. Он дар браузерҳои зерин дастгирӣ намешавад:
-css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> хусусияти озмоиши буд, ки акнун аз рӯи стандартҳои «W3C» кӯҳна шудааст.
-css-compatibility-deprecated-message = <strong>{ $property }</strong> аз рӯи стандартҳои «W3C» кӯҳна шудааст. Он дар браузерҳои зерин дастгирӣ намешавад:
-css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> аз рӯи стандартҳои «W3C» кӯҳна шудааст.
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> хусусияти озмоишӣ буд, ки акнун аз рӯи стандартҳои «W3C» куҳна шудааст. Он дар браузерҳои зерин дастгирӣ намешавад:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> хусусияти озмоиши буд, ки акнун аз рӯи стандартҳои «W3C» куҳна шудааст.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> аз рӯи стандартҳои «W3C» куҳна шудааст. Он дар браузерҳои зерин дастгирӣ намешавад:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> аз рӯи стандартҳои «W3C» куҳна шудааст.
 css-compatibility-experimental-message = <strong>{ $property }</strong> хусусияти озмоишӣ мебошад. Он дар браузерҳои зерин дастгирӣ намешавад:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> хусусияти озмоишӣ мебошад.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Маълумоти бештар</span> дар бораи <strong>{ $rootProperty }</strong>
