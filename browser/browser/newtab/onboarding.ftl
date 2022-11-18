@@ -411,13 +411,28 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Увек поштујемо вашу приватност
+mr2022-onboarding-privacy-segmentation-subtitle = Било да се ради о предлозима за претрагу или паметнијим претрагама, наставићемо да чинимо { -brand-product-name } бољим и личнијим.
+mr2022-onboarding-privacy-segmentation-text-cta = Шта желите да видите када објавимо нове функције које користе ваше податке за побољшање прегледања?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Користите { -brand-product-name } препоруке
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Прикажи детаљне информације
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Помажете нам у изградњи бољег веба
+mr2022-onboarding-gratitude-subtitle = Хвала вам што користите { -brand-short-name }, којег подржава Mozilla фондација. Уз вашу подршку, настојимо да учинимо интернет бољим, отворенијим и приступачнијим местом за све.
+mr2022-onboarding-gratitude-primary-button-label = Погледајте шта је ново
+mr2022-onboarding-gratitude-secondary-button-label = Започните прегледање
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Осећајте се као код куће
+onboarding-infrequent-import-subtitle = Било да само испробавате или сте се одлучили да користите, можете да увезете обележиваче, лозинке и друго.
+onboarding-infrequent-import-primary-button = Увези у { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Особа која ради на лаптопу и окружена је звездама и цвећем
+mr2022-onboarding-default-image-alt =
+    .aria-label = Особа која грли { -brand-product-name } лого
