@@ -35,7 +35,7 @@ about-processes-column-cpu-total = CPU
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
-about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-browser-process = «{ -brand-short-name }» ({ $pid })
 about-processes-web-process = Раванди муштараки сомона ({ $pid })
 about-processes-file-process = Файлҳо ({ $pid })
 about-processes-extension-process = Васеъшавиҳо ({ $pid })
