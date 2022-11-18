@@ -393,6 +393,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Проналазачки.<
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Пребаците се са лаптопа на телефон и обратно
+mr2022-onboarding-mobile-download-subtitle = Превуците језичке на други уређај и наставите тамо где сте стали. Синхронизујте обележиваче и лозинке где год да користите { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Скенирајте QR код да преузмете { -brand-product-name } за мобилне или <a data-l10n-name="download-label">пошаљите себи везу за преузимање.</a>
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
