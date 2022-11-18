@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-page-title = Маълумот дар бораи модулҳои тарафҳои сеюм
-third-party-section-title = Рӯйхати модулҳои тарафҳои сеюм дар { -brand-short-name }
+third-party-section-title = Рӯйхати модулҳои тарафҳои сеюм дар «{ -brand-short-name }»
 third-party-intro =
     Ин саҳифа модулҳои тарафҳои сеюмеро, ки ба «{ -brand-short-name }»-и шумо
     дарҷ карда шудаанд, нишон медиҳад. Ҳар модуле, ки аз тарафи «Microsoft» ё

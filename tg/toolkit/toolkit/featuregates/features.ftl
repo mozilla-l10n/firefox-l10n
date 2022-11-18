@@ -16,7 +16,7 @@ experimental-features-web-gpu-description2 = Ин API-и нав дастгири
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Расона: JPEG XL
-experimental-features-media-jxl-description = Ҳангоми фаъол будани ин хусусият, «{ -brand-short-name }» формати JPEG XL (JXL)-ро дастгирӣ мекунад. Ин формати файли тасвирии такмилёфта мебошад, ки гузариши беталафро аз файлҳои JPEG-и анъанавӣ дастгирӣ мекунад. Барои маълумоти муфассал, ба <a data-l10n-name="bugzilla">хатои 1539075</a> нигаред.
+experimental-features-media-jxl-description = Ҳангоми фаъол будани ин хусусият, «{ -brand-short-name }» формати «JPEG XL (JXL)»-ро дастгирӣ мекунад. Ин формати файли тасвирии такмилёфта мебошад, ки гузариши беталафро аз файлҳои «JPEG»-и анъанавӣ дастгирӣ мекунад. Барои маълумоти муфассал, ба <a data-l10n-name="bugzilla">хатои 1539075</a> нигаред.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -62,4 +62,4 @@ experimental-features-ime-search =
 experimental-features-ime-search-description = IME (Input Method Editor) абзорест, ки ба шумо барои ворид кардани аломатҳои мураккаб, ба монанди аломатҳои хаттӣ аз забонҳои осиёии шаркӣ ва ҳиндӣ, тавассути клавиатураи стандартӣ имкон медиҳад. Фаъолсозии ин озмоиш лавҳаи навори нишониро ба таври кушод нигоҳ медорад ва ҳангоми истифодаи IME барои вориди матн натиҷаҳои ҷустуҷӯ ва пешниҳодҳоро нишон медиҳад. Ба назар гиред, ки IME метавонад лавҳаеро намоиш диҳад, ки натиҷаҳои навори нишониро маҳкам мекунад, ба ҳамин сабаб, ин хусусият танҳо барои истифода бо IME бе истифодаи ин навъи лавҳа пешниҳод карда мешавад.
 experimental-features-accessibility-cache =
     .label = Зерҳофизаи қобилияти дастрасӣ
-experimental-features-accessibility-cache-description = Тамоми маълумоти қобилияти дастрасиро аз ҳамаи ҳуҷҷатҳои раванди асосии «{ -brand-short-name }» ба зерҳофиза мегузорад. Ин раванд кори самараноки хонандаи экран ва барномаҳои дигареро, ки аз API-и қобилияти дастрасӣ истифода мебаранд, беҳтар мекунад.
+experimental-features-accessibility-cache-description = Тамоми маълумоти қобилияти дастрасиро аз ҳамаи ҳуҷҷатҳои раванди асосии «{ -brand-short-name }» ба зерҳофиза мегузорад. Ин раванд кори самараноки хонандаи экран ва барномаҳои дигареро, ки аз «API»-и қобилияти дастрасӣ истифода мебаранд, беҳтар мекунад.

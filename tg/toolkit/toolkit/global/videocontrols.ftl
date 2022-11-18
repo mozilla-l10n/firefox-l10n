@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Баландии садо
 videocontrols-closed-caption-button =
     .aria-label = Зернависҳо
-
 videocontrols-play-button =
     .aria-label = Пахш кардан
 videocontrols-pause-button =
@@ -29,31 +28,23 @@ videocontrols-casting-button-label =
     .aria-label = Ба экран фиристодан
 videocontrols-closed-caption-off =
     .offlabel = Ғайрифаъол
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Расм-дар-расм
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Тамошо дар реҷаи «Расм-дар-расм»
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer = Пахш кардани видеоҳо дар ҷойи намоён ҳангоми машғул будан бо чизҳои дигар дар { -brand-short-name }
-
+videocontrols-picture-in-picture-explainer = Пахш кардани видеоҳо дар ҷойи намоён ҳангоми машғул будан бо чизҳои дигар дар «{ -brand-short-name }»
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Ҷудо кардани ин видео
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer2 = Кор бо экранҳои бештар шавқовартар аст. Ҳангоми тамошокунӣ дар Интернет, ин видеоро дар реҷаи «Расм-дар-расм» пахш кунед.
-
 videocontrols-picture-in-picture-explainer3 = Экранҳои сершумор шавқовартаранд. Ҳангоми иҷрои корҳои дигар, ин видеоро пахш кунед.
-
 videocontrols-error-aborted = Боркунии видео қатъ карда шуд.
 videocontrols-error-network = Пахши видео ба сабаби хатои шабака қатъ карда шуд.
 videocontrols-error-decode = Видео пахш карда намешавад, зеро ки файл вайрон аст.
@@ -61,7 +52,6 @@ videocontrols-error-src-not-supported = Формати видео ё навъи 
 videocontrols-error-no-source = Ягон видео бо формати дастгиришаванда ва навъи MIME ёфт нашуд.
 videocontrols-error-generic = Пахши видео ба сабаби хатои номаълум қатъ карда шуд.
 videocontrols-status-picture-in-picture = Ин видео дар реҷаи «Расм-дар-расм» пахш шуда истодааст.
-
 # This message shows the current position and total video duration
 #
 # Variables:

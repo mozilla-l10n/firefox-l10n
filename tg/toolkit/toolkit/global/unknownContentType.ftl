@@ -3,21 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-handleinternally =
-    .label = Кушодан бо { -brand-short-name }
+    .label = Кушодан бо «{ -brand-short-name }»
     .accesskey = К
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
-            [windows] Танзимот метавонад дар имконоти { -brand-short-name } тағйир ёбад.
-           *[other] Танзимот метавонад дар хусусиятҳои { -brand-short-name } тағйир ёбад.
+            [windows] Танзимот метавонад дар имконоти «{ -brand-short-name }» тағйир ёбад.
+           *[other] Танзимот метавонад дар хусусиятҳои «{ -brand-short-name }» тағйир ёбад.
         }
-
 unknowncontenttype-intro = Шумо барои кушодани файли зерин тасмим гирифтед:
 unknowncontenttype-which-is = дар навъи файл:
 unknowncontenttype-from = аз:
 unknowncontenttype-prompt = Шумо мехоҳед, ки ин файлро нигоҳ доред?
-unknowncontenttype-action-question = Аз тарафи { -brand-short-name } бо ин файл чӣ бояд кард?
+unknowncontenttype-action-question = Аз тарафи «{ -brand-short-name }» бо ин файл чӣ бояд кард?
 unknowncontenttype-open-with =
     .label = Кушодан бо
     .accesskey = o
