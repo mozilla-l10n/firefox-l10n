@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Administroni zgjerim
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Fiksoje te Paneli
 unified-extensions-context-menu-manage-extension =
     .label = Administroni Zgjerimin
 unified-extensions-context-menu-remove-extension =
