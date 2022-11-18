@@ -21,6 +21,7 @@ styleeditor-save-button = 保存
 styleeditor-options-button =
     .tooltiptext = 样式编辑器选项
 styleeditor-media-rules = @media 规则
+styleeditor-at-rules = @ 规则
 styleeditor-editor-textbox =
     .data-placeholder = 在这输入 CSS。
 styleeditor-no-stylesheet = 此页面没有样式表。
