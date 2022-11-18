@@ -9,3 +9,5 @@ more-from-moz-title = Више од { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Више од { -vendor-short-name }
 more-from-moz-subtitle = Погледајте остале { -vendor-short-name } производе који раде на очувању здравог интернета.
+more-from-moz-firefox-mobile-title = { -brand-product-name } за мобилни
+more-from-moz-firefox-mobile-description = Прегледач за мобилне који даје предност вашој приватности.
