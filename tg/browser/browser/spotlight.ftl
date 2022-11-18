@@ -16,7 +16,7 @@ spotlight-ios-marketplace-button =
 
 ## Firefox Focus promo message strings
 
-spotlight-focus-promo-title = { -focus-brand-name }-ро гиред
-spotlight-focus-promo-subtitle = Барои боргирӣ кардани барнома рамзи QR-ро скан кунед.
+spotlight-focus-promo-title = «{ -focus-brand-name }»-ро гиред
+spotlight-focus-promo-subtitle = Барои боргирӣ кардани барнома рамзи «QR»-ро скан кунед.
 spotlight-focus-promo-qr-code =
-    .alt = Барои гирифтани { -focus-brand-name }, рамзи QR-ро скан кунед
+    .alt = Барои гирифтани «{ -focus-brand-name }», рамзи «QR»-ро скан кунед
