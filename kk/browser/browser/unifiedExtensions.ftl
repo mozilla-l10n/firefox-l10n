@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Кеңейтуді басқару
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Құралдар панеліне бекіту
 unified-extensions-context-menu-manage-extension =
     .label = Кеңейтуді басқару
 unified-extensions-context-menu-remove-extension =
