@@ -8,6 +8,10 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = La extensión no puede leer ni cambiar datos
+origin-controls-options =
+    .label = La extensión puede leer y cambiar datos:
 origin-controls-option-all-domains =
     .label = En todos los sitios
 origin-controls-option-when-clicked =
@@ -22,4 +26,7 @@ origin-controls-option-always-on =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = No puede leer ni cambiar datos en este sitio
+origin-controls-state-always-on = Siempre puede leer y cambiar datos en este sitio
+origin-controls-state-when-clicked = Permiso necesario para leer y cambiar datos
 origin-controls-state-hover-run-visit-only = Solo ejecutar en este sitio
