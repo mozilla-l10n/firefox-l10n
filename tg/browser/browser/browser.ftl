@@ -186,7 +186,7 @@ urlbar-autoplay-media-blocked =
 urlbar-canvas-blocked =
     .tooltiptext = Шумо барои ин сомона гирифтани маълумотро аз canvas манъ кардед.
 urlbar-midi-blocked =
-    .tooltiptext = Шумо барои ин сомона дастрасии MIDI-ро манъ кардед.
+    .tooltiptext = Шумо барои ин сомона дастрасии «MIDI»-ро манъ кардед.
 urlbar-install-blocked =
     .tooltiptext = Шумо барои ин сомона насбкунии ҷузъи иловагиро манъ кардед.
 # Variables
@@ -387,7 +387,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Муваққатан ғайрифаъол
 identity-https-only-info-turn-on2 = Агар шумо хоҳед, ки «{ -brand-short-name }» пайвастшавиро ба қадри имкон такмил диҳад, реҷаи «Танҳо HTTPS»-ро барои ин сомона фаъол кунед.
-identity-https-only-info-turn-off2 = Агар саҳифа вайроншуда ба назар расад, шумо метавонед барои аз нав бор кардани ин сомона бо истифодаи HTTP-и беэътимод реҷаи «Танҳо HTTPS»-ро хомӯш кунед.
+identity-https-only-info-turn-off2 = Агар саҳифа вайроншуда ба назар расад, шумо метавонед барои аз нав бор кардани ин сомона бо истифодаи «HTTP»-и беэътимод реҷаи «Танҳо HTTPS»-ро хомӯш кунед.
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
 identity-permissions-storage-access-hint = Тарафҳои зерин метавонанд кукиҳои байнисомонавӣ ва маълумоти сомонаро ҳангоми тамошокунии сомонаи ҷорӣ истифода баранд.
@@ -509,8 +509,8 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Барои истифода кардани миёнбури F12, аввал DevTools-ро тавассути менюи барномарезии сомона кушоед.
-enable-devtools-popup-description2 = Барои истифода кардани миёнбури F12, аввал «Абзорҳои барномарезӣ (DevTools)»-ро тавассути менюи «Абзорҳои браузер» кушоед.
+enable-devtools-popup-description = Барои истифода кардани миёнбури «F12», аввал «DevTools»-ро тавассути менюи барномарезии сомона кушоед.
+enable-devtools-popup-description2 = Барои истифода кардани миёнбури «F12», аввал «Абзорҳои барномарезӣ (DevTools)»-ро тавассути менюи «Абзорҳои браузер» кушоед.
 
 ## URL Bar
 
@@ -595,13 +595,13 @@ urlbar-result-action-visit = Боздид
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-before-tabtosearch-web = Барои ҷустуҷӯ бо { $engine } тугмаи Tab-ро пахш кунед
+urlbar-result-action-before-tabtosearch-web = Барои ҷустуҷӯ бо «{ $engine }» тугмаи «Tab»-ро пахш кунед
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-before-tabtosearch-other = Барои ҷустуҷӯ дар { $engine } тугмаи Tab-ро пахш кунед
+urlbar-result-action-before-tabtosearch-other = Барои ҷустуҷӯ дар «{ $engine }» тугмаи «Tab»-ро пахш кунед
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -665,8 +665,8 @@ fullscreen-exit-mac-button = Баромад аз экрани пурра (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
-pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> курсори муши шуморо идора мекунад. Барои ба даст овардани идоракунии курсори муш, тугмаи Esc-ро пахш намоед.
-pointerlock-warning-no-domain = Ин ҳуҷҷат курсори муши шуморо идора мекунад. Барои ба даст овардани идоракунии курсори муш, тугмаи Esc-ро пахш намоед.
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> курсори муши шуморо идора мекунад. Барои ба даст овардани идоракунии курсори муш, тугмаи «Esc»-ро пахш намоед.
+pointerlock-warning-no-domain = Ин ҳуҷҷат курсори муши шуморо идора мекунад. Барои ба даст овардани идоракунии курсори муш, тугмаи «Esc»-ро пахш намоед.
 
 ## Subframe crash notification
 
@@ -825,7 +825,7 @@ panel-save-update-password = Ниҳонвожа
 
 # Variables:
 #  $name (String): The name of the addon that will be removed.
-addon-removal-title = { $name }-ро тоза мекунед?
+addon-removal-title = «{ $name }»-ро тоза мекунед?
 addon-removal-abuse-report-checkbox = Фиристодани гузориш дар бораи ин васеъшавӣ ба { -vendor-short-name }
 
 ##

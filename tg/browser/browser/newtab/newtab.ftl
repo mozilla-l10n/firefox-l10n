@@ -221,7 +221,7 @@ newtab-pocket-read-more = Мавзуъҳои маъмул:
 newtab-pocket-new-topics-title = Ҳикоятҳои боз ҳам бештар лозиманд? Ба ҳамин мавзуъҳои оммавӣ аз { -pocket-brand-name } нигаред
 newtab-pocket-more-recommendations = Тавсияҳои бештар
 newtab-pocket-learn-more = Маълумоти бештар
-newtab-pocket-cta-button = { -pocket-brand-name }-ро бор кунед
+newtab-pocket-cta-button = «{ -pocket-brand-name }»-ро бор кунед
 newtab-pocket-cta-text = Ҳикояҳоеро, ки дӯст медоред, дар { -pocket-brand-name } нигоҳ доред ва ба зеҳни худ аз хониши дилрабо қувват диҳед.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } қисми оилаи { -brand-product-name } мебошад
 # A save to Pocket button that shows over the card thumbnail on hover.

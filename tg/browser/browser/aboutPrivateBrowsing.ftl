@@ -26,7 +26,7 @@ about-private-browsing-hide-activity = Фаъолият ва макони худ
 about-private-browsing-get-privacy = Дар ҳама ҷое, ки шумо тамошо мекунед, муҳофизати амниятро ба даст оред.
 about-private-browsing-hide-activity-1 = Бо { -mozilla-vpn-brand-name } фаъолияти тамошокунӣ ва ҷойгиршавии худро пинҳон намоед. Як зеркунӣ пайвасти бехатарро эҷод мекунад, ҳатто дар шабакаи ҷамъиятии Wi-Fi.
 about-private-browsing-prominent-cta = Бо { -mozilla-vpn-brand-name } хусусияти худро нигоҳ доред
-about-private-browsing-focus-promo-cta = { -focus-brand-name }-ро боргирӣ намоед
+about-private-browsing-focus-promo-cta = «{ -focus-brand-name }»-ро боргирӣ намоед
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Тамошокунии хусусӣ дар роҳ
 about-private-browsing-focus-promo-text = Барномаи мобилии махсуси мо барои тамошокунии хусусӣ ҳар вақт таърих ва кукиҳои шуморо тоза мекунад.
 

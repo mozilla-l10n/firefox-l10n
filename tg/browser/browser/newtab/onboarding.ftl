@@ -188,11 +188,11 @@ mr2-onboarding-theme-description =
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = Нақшу нигори { $colorwayName }-ро озмоед.
+    .title = Нақшу нигори «{ $colorwayName }»-ро озмоед.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Нақшу нигори { $colorwayName }-ро озмоед.
+mr2-onboarding-colorway-label = Нақшу нигори «{ $colorwayName }»-ро озмоед.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Мавзуъҳои пешфарзро озмоед.
