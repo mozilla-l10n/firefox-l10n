@@ -51,6 +51,11 @@ downloads-cmd-use-system-default-named =
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = ເປີດໄຟລ໌ທີ່ຄ້າຍຄືກັນສະເໝີ
+    .accesskey = w
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->

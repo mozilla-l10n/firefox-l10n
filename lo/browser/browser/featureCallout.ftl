@@ -9,6 +9,8 @@ callout-primary-complete-button-label = ເຂົ້າໃຈແລ້ວ!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-colorways-title = ເລືອກສີທີ່ທ່ານມັກ
+callout-firefox-view-colorways-reminder-title = ສຳຫຼວດສີສັນຫຼ້າສຸດຂອງພວກເຮົາ
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
