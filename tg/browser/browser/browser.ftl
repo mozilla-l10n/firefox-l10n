@@ -306,10 +306,10 @@ quickactions-cmd-print = чоп кардан
 quickactions-private = Кушодани равзанаи тамошокунии хусусӣ
 quickactions-cmd-private = тамошокунии хусусӣ
 # Opens a SUMO article explaining how to refresh
-quickactions-refresh = Аз нав сохтани { -brand-short-name }
+quickactions-refresh = Аз нав сохтани «{ -brand-short-name }»
 quickactions-cmd-refresh = нав кардан
 # Restarts the browser
-quickactions-restart = Аз нав оғоз кардани { -brand-short-name }
+quickactions-restart = Аз нав оғоз кардани «{ -brand-short-name }»
 quickactions-cmd-restart = аз нав оғоз кардан
 # Opens the screenshot tool
 quickactions-screenshot2 = Гирифтани акси экран
@@ -321,7 +321,7 @@ quickactions-cmd-settings = танзимот, хусусиятҳо, имконо
 quickactions-themes = Идоракунии мавзуъҳо
 quickactions-cmd-themes = мавзуъҳо
 # Opens a SUMO article explaining how to update the browser
-quickactions-update = Навсозӣ кардани { -brand-short-name }
+quickactions-update = Навсозӣ кардани «{ -brand-short-name }»
 quickactions-cmd-update = навсозӣ кардан
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Дидани манбаъ
@@ -369,10 +369,10 @@ identity-header-security-with-host =
 identity-connection-not-secure = Пайвастшавӣ бехатар нест
 identity-connection-secure = Пайвастшавӣ бехатар аст
 identity-connection-failure = Пайвастшавӣ қатъ шуд
-identity-connection-internal = Ин саҳифаи бехатари { -brand-short-name } мебошад.
+identity-connection-internal = Ин саҳифаи бехатари «{ -brand-short-name }» мебошад.
 identity-connection-file = Ин саҳифа дар компютери шумо нигоҳ дошта мешавад.
 identity-extension-page = Ин саҳифа аз васеъшавӣ бор карда шудааст.
-identity-active-blocked = { -brand-short-name } қисмҳои ин саҳифаро манъ кард, зеро ки онҳо бехатар нестанд.
+identity-active-blocked = «{ -brand-short-name }» қисмҳои ин саҳифаро манъ кард, зеро ки онҳо бехатар нестанд.
 identity-custom-root = Пайвастшавӣ аз тарафи барорандаи гувоҳиномае тасдиқ карда шудааст, ки Mozilla онро эътироф намекунад.
 identity-passive-loaded = Қисмҳои ин саҳифа бехатар нестанд (масалан, тасвирҳо).
 identity-active-loaded = Шумо барои ин саҳифа муҳофизатро ғайрифаъол кардед.
@@ -386,7 +386,7 @@ identity-https-only-dropdown-off =
     .label = Ғайрифаъол
 identity-https-only-dropdown-off-temporarily =
     .label = Муваққатан ғайрифаъол
-identity-https-only-info-turn-on2 = Агар шумо хоҳед, ки { -brand-short-name } пайвастшавиро ба қадри имкон такмил диҳад, реҷаи «Танҳо HTTPS»-ро барои ин сомона фаъол кунед.
+identity-https-only-info-turn-on2 = Агар шумо хоҳед, ки «{ -brand-short-name }» пайвастшавиро ба қадри имкон такмил диҳад, реҷаи «Танҳо HTTPS»-ро барои ин сомона фаъол кунед.
 identity-https-only-info-turn-off2 = Агар саҳифа вайроншуда ба назар расад, шумо метавонед барои аз нав бор кардани ин сомона бо истифодаи HTTP-и беэътимод реҷаи «Танҳо HTTPS»-ро хомӯш кунед.
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
@@ -406,10 +406,10 @@ identity-description-insecure = Пайвасти шумо бо ин сомона
 identity-description-insecure-login-forms = Маълумоти воридшавие, ки шумо дар ин саҳифа ворид мекунед, ба таври бехатар нигоҳ дошта намешавад ва метавонад ошкор карда шавад.
 identity-description-weak-cipher-intro = Пайвасти шумо бо ин сомона рамзгузории камқувватро истифода мебарад ва хусусӣ намебошад.
 identity-description-weak-cipher-risk = Одамони дигар метавонанд маълумоти шуморо бинанд ё рафтори сомонаро тағйир диҳанд.
-identity-description-active-blocked = { -brand-short-name } қисмҳои ҳифзнашудаи саҳифаи ҷориро манъ кард. <label data-l10n-name="link">Маълумоти бештар</label>
+identity-description-active-blocked = «{ -brand-short-name }» қисмҳои ҳифзнашудаи саҳифаи ҷориро манъ кард. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-description-passive-loaded = Пайвасти шумо хусусӣ нест ва иттилооте, ки шумо бо ин сомона мубодила мекунед, метавонад аз ҷониби одамони дигар дида шавад.
 identity-description-passive-loaded-insecure = Ин сомона дорои муҳтавои хатарнок мебошад (масалан, тасвирҳо). <label data-l10n-name="link">Маълумоти бештар</label>
-identity-description-passive-loaded-mixed = Гарчанде { -brand-short-name } баъзеи муҳтаворо манъ кард, дар ин саҳифа то ҳол муҳтавое (монанди тасвирҳо) вуҷуд дорад, ки бехатар намебошад. <label data-l10n-name="link">Маълумоти бештар</label>
+identity-description-passive-loaded-mixed = Гарчанде «{ -brand-short-name }» баъзеи муҳтаворо манъ кард, дар ин саҳифа то ҳол муҳтавое (монанди тасвирҳо) вуҷуд дорад, ки бехатар намебошад. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-description-active-loaded = Ин сомона дорои муҳтавои хатарнок мебошад (масалан, скриптҳо) ва пайвасти шумо ба он хусусӣ нест.
 identity-description-active-loaded-insecure = Маълумоте, ки шумо бо ин сомона мубодила мекунед, метавонад аз тарафи дигарон дида шавад (монанди ниҳонвожаҳо, паёмҳо, кортҳои кредитӣ ва ғайра).
 identity-learn-more =
@@ -469,7 +469,7 @@ browser-tab-unblock =
 
 browser-import-button2 =
     .label = Ворид кардани хатбаракҳо…
-    .tooltiptext = Ворид кардани хатбаракҳо аз браузери дигар ба { -brand-short-name }.
+    .tooltiptext = Ворид кардани хатбаракҳо аз браузери дигар ба «{ -brand-short-name }».
 bookmarks-toolbar-empty-message = Барои дастрасии зуд, хатбаракҳои худро дар ин ҷо дар навори абзорҳои хатбаракҳо гузоред. <a data-l10n-name="manage-bookmarks">Идоракунии хатбаракҳо…</a>
 
 ## WebRTC Pop-up notifications
@@ -500,7 +500,7 @@ popup-mute-notifications-checkbox = Бесадо кардани огоҳиҳои
 
 ## WebRTC window or screen share tab switch warning
 
-sharing-warning-window = Шумо { -brand-short-name }-ро мубодила карда истодаед. Одамони дигар дида метавонанд, вақте ки шумо ба варақаи нав мегузаред.
+sharing-warning-window = Шумо «{ -brand-short-name }»-ро мубодила карда истодаед. Одамони дигар дида метавонанд, вақте ки шумо ба варақаи нав мегузаред.
 sharing-warning-screen = Шумо экрани пурраро мубодила карда истодаед. Одамони дигар дида метавонанд, вақте ки шумо ба варақаи нав мегузаред.
 sharing-warning-proceed-to-tab =
     .label = Гузаронидан ба варақа
@@ -810,7 +810,7 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Баъзе аудио ё видео дар ин сомона нармафзори DRM-ро истифода мебаранд, ки метавонад маҳдудияти он чизеро, ки { -brand-short-name } метавонад ба шумо иҷозат диҳад, маҳдуд кунад.
+eme-notifications-drm-content-playing = Баъзе аудио ё видео дар ин сомона нармафзори «DRM»-ро истифода мебаранд, ки метавонад маҳдудияти он чизеро, ки «{ -brand-short-name }» метавонад ба шумо иҷозат диҳад, маҳдуд кунад.
 eme-notifications-drm-content-playing-manage = Идоракунии танзимот
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Нодида гузарондан
@@ -889,7 +889,7 @@ navbar-print =
     .tooltiptext = Чоп кардани саҳифаи ҷорӣ… ({ $shortcut })
 navbar-home =
     .label = Саҳифаи асосӣ
-    .tooltiptext = Саҳифаи асосии { -brand-short-name }
+    .tooltiptext = Саҳифаи асосии «{ -brand-short-name }»
 navbar-library =
     .label = Китобхона
     .tooltiptext = Намоиш додани таърих, хатбаракҳои нигоҳдошташуда ва ғайра
@@ -911,12 +911,12 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Варақаҳои қаблиро мекушоед?</strong> Шумо метавонед ҷаласаи қаблии худро тавассути менюи барномаи { -brand-short-name } <img data-l10n-name="icon"/>, дар зери «Таърих», кушоед.
+restore-session-startup-suggestion-message = <strong>Варақаҳои қаблиро мекушоед?</strong> Шумо метавонед ҷаласаи қаблии худро тавассути менюи барномаи «{ -brand-short-name }» <img data-l10n-name="icon"/>, дар зери «Таърих», кушоед.
 restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ тавр
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
-data-reporting-notification-message = { -brand-short-name } баъзе маълумотро ба { -vendor-short-name } ба таври худкор ирсол мекунад, то ки мо тавонем таҷрибаи шуморо такмил диҳем.
+data-reporting-notification-message = «{ -brand-short-name }» баъзе маълумотро ба «{ -vendor-short-name }» ба таври худкор ирсол мекунад, то ки мо тавонем таҷрибаи шуморо такмил диҳем.
 data-reporting-notification-button =
     .label = Интихоб кунед, ки чӣ дастрас мешавад
     .accesskey = И
