@@ -41,6 +41,13 @@ downloads-cmd-show-menuitem-2 =
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
+downloads-cmd-use-system-default =
+    .label = ເປີດໃນ System Viewer
+    .accesskey = I
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = ເປີດໃນ { $handler }
+    .accesskey = I
 
 ##
 
