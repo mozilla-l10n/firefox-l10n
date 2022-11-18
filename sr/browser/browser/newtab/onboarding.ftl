@@ -321,23 +321,53 @@ mr2022-onboarding-set-default-only-subtitle = Крените са преглед
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Хвала вам што волите { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Само једним кликом покрените здравије веб окружење блио где. Најновије издање има пуно нових ствари за које мислимо да ће вам се свидети.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Користите прегледач који штити вашу приватност док сурфујете интернетом. Наше најновије ажурирање је препуно стварима које ћете обожавати.
+mr2022-onboarding-existing-pin-checkbox-label = Такође додајте { -brand-short-name } приватно прегледање
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Нека { -brand-short-name } буде ваш подразумевани прегледач
+mr2022-onboarding-set-default-primary-button-label = Поставите { -brand-short-name } подразумеваним прегледачем
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Користите прегледач који подржава непрофитна организација. Док сурфујете интернетом, ми бранимо вашу приватност.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Наша најновија верзија одговара вашим потребама и омогућава вам да лако прегледате интернет. Препуна је садржаја за који мислимо да ће вам се свидети.
+mr2022-onboarding-get-started-primary-button-label = Подесите у пар секунди
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Муњевито брзо подешавање
+mr2022-onboarding-import-subtitle = Подесите { -brand-short-name } како ви то желите. Додајте ваше обележиваче, лозинке и друго из вашег старог прегледача.
+mr2022-onboarding-import-primary-button-label-no-attribution = Увези из претходног прегледача
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Изаберите боју која вас инспирише
+mr2022-onboarding-colorway-subtitle = Независни гласови могу да промене културу.
+mr2022-onboarding-colorway-primary-button-label-continue = Подеси и настави
+mr2022-onboarding-existing-colorway-checkbox-label = Подесите { -firefox-home-brand-name } боје по свом укусу
+mr2022-onboarding-colorway-label-default = Подразумевано
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Тренутне { -brand-short-name } боје
+mr2022-onboarding-colorway-description-default = <b>Користи моје тренутне { -brand-short-name } боје.</b>
+mr2022-onboarding-colorway-label-playmaker = Плејмејкер
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Плејмејкер (црвено)
 
 ## MR2022 Multistage Mobile Download screen strings
 
