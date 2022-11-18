@@ -368,6 +368,15 @@ mr2022-onboarding-colorway-description-default = <b>Користи моје тр
 mr2022-onboarding-colorway-label-playmaker = Плејмејкер
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Плејмејкер (црвено)
+mr2022-onboarding-colorway-description-playmaker = <b>Ви сте плејмејкер.</b> Стварате прилике за победе и помажете свима око себе да подигну ниво своје игре.
+mr2022-onboarding-colorway-label-expressionist = Екпресиониста
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Екпресиониста (жута)
+mr2022-onboarding-colorway-description-expressionist = <b>Ви сте експресиониста.</b> На свет гледате другачије и ваш рад изазива снажна осећања код других.
+mr2022-onboarding-colorway-label-visionary = Визионар
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Визионар (зелено)
+mr2022-onboarding-colorway-description-visionary = <b>Ви сте визионар.</b> Доводите у питање стање ствари око себе и побуђујете друге да размишљају о бољој будућности.
 
 ## MR2022 Multistage Mobile Download screen strings
 
