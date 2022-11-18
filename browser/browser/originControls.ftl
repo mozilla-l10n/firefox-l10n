@@ -28,5 +28,5 @@ origin-controls-option-always-on =
 
 origin-controls-state-no-access = 无法读取和更改此网站的数据
 origin-controls-state-always-on = 总是可以读取和更改此网站的数据
-origin-controls-state-when-clicked = 需赋予权限以读取和更改数据
+origin-controls-state-when-clicked = 需点击授权以读取和更改数据
 origin-controls-state-hover-run-visit-only = 仅在此次访问运行
