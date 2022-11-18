@@ -260,6 +260,14 @@ mr2-onboarding-start-browsing-button-label = Започни прегледање
 
 onboarding-live-language-header = Изаберите ваш језик
 mr2022-onboarding-live-language-text = { -brand-short-name } говори вашим језиком
+mr2022-language-mismatch-subtitle = Захваљујући нашој заједници, { -brand-short-name } је преведен на преко 90 језика. Изгледа да ваш систем користи { $systemLanguage }, а { -brand-short-name } користи { $appLanguage } језик.
+onboarding-live-language-button-label-downloading = Преузимање језичког пакета за { $negotiatedLanguage }…
+onboarding-live-language-waiting-button = Добављање доступних језика…
+onboarding-live-language-installing = Инсталирање језичког пакета за { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = Пребаците на { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Наставите са { $appLanguage }
+onboarding-live-language-secondary-cancel-download = Откажи
+onboarding-live-language-skip-button-label = Прескочи
 
 ## Firefox 100 Thank You screens
 
@@ -286,9 +294,15 @@ fx100-upgrade-thanks-header = 100 захвалница
 fx100-upgrade-thank-you-body = Ово је стото издање програма { -brand-short-name }. <em>Хвала вам</em> што нам помажете у изградњи бољег и здравијег интернета.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ово је наше стото издање! Хвала вам што сте део наше заједнице. Нека { -brand-short-name } буде близу вас и у наредних 100 издања.
+mr2022-onboarding-secondary-skip-button-label = Прескочи овај корак
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Откријте невероватан интернет
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
