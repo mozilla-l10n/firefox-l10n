@@ -93,7 +93,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Барои фаърл кардани васеъшавӣ ба қисмати <img data-l10n-name="addons-icon"/> Ҷузъҳои иловагӣ дар <img data-l10n-name="menu-icon"/> меню гузаред.
+extension-controlled-enable = Барои фаъол кардани васеъшавӣ ба қисмати <img data-l10n-name="addons-icon"/> Ҷузъҳои иловагӣ дар <img data-l10n-name="menu-icon"/> меню гузаред.
 
 ## Preferences UI Search Results
 
