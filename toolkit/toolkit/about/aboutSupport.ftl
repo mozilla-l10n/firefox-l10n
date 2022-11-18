@@ -312,6 +312,7 @@ can-sandbox-media = Entorno de pruebas para extensiones de multimedia
 content-sandbox-level = Entorno de prueba para procesar contenidos
 effective-content-sandbox-level = Nivel efectivo del contenedor de proceso de contenido
 content-win32k-lockdown-state = Estado de bloqueo de Win32k para el proceso de contenido
+support-sandbox-gpu-level = Nivel de aislamiento de procesos de GPU
 sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = plugin de medios
