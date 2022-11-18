@@ -216,6 +216,8 @@ firefoxview-spotlight-promo-secondarybutton = 跳过
 
 colorways-cfr-primarybutton = 选择配色
     .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = 换上灵感来自“凡人之声，文化之味”的 { -brand-short-name } 独家配色，焕新您的浏览器外观。
 colorways-cfr-header-28days = “凡人之声”配色有效期至1月16日
 colorways-cfr-header-14days = “凡人之声”配色两周后到期
 colorways-cfr-header-7days = “凡人之声”配色本周到期
