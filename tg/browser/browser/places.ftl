@@ -73,13 +73,13 @@ places-edit-generic =
     .label = Таҳрир кардан…
     .accesskey = Т
 places-edit-folder2 =
-    .label = Таҳрир кардани ҷузвадон…
+    .label = Таҳрир кардани ҷузвдон…
     .accesskey = Т
 places-delete-folder =
     .label =
         { $count ->
-            [1] Нест кардани ҷузвадон
-           *[other] Нест кардани ҷузвадонҳо
+            [1] Нест кардани ҷузвдон
+           *[other] Нест кардани ҷузвдонҳо
         }
     .accesskey = Н
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
