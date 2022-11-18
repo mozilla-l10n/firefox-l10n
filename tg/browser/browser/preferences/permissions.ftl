@@ -99,7 +99,7 @@ permissions-exceptions-https-only-window =
 permissions-exceptions-https-only-window2 =
     .title = Истисноҳо - Реҷаи «Танҳо HTTPS»
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. «{ -brand-short-name }» кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба HTTPS-и бехатар такмил диҳад. Чунин истисноҳо ба равзанаҳои хусусӣ татбиқ намешаванд.
+permissions-exceptions-https-only-desc = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. «{ -brand-short-name }» кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба «HTTPS»-и бехатар такмил диҳад. Чунин истисноҳо ба равзанаҳои хусусӣ татбиқ намешаванд.
 
 ## Exceptions - Pop-ups
 
