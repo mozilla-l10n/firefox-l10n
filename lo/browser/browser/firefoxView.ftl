@@ -26,7 +26,9 @@ firefoxview-tabpickup-synctabs-learn-how = ຮຽນຮູ້ວິທີກາ�
 firefoxview-tabpickup-network-offline-primarybutton = ລອງໃໝ່ອີກຄັ້ງ
 firefoxview-tabpickup-sync-error-header = ພວກເຮົາມີບັນຫາໃນການຊິ້ງຂໍ້ມູນ
 firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກຄັ້ງ
+firefoxview-tabpickup-sync-disconnected-header = ເປີດການຊິງຄ໌ເພື່ອດຳເນີນການຕໍ່
 firefoxview-mobile-confirmation-header = 🎉 ດີຫຼາຍ!
+firefoxview-closed-tabs-placeholder-header = ບໍ່ມີແຖບທີ່ປິດເມື່ອບໍ່ດົນມານີ້
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ການເຄື່ອນໄຫວຫຼ້າສຸດ
 firefoxview-collapse-button-show =

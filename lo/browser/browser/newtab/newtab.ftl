@@ -169,4 +169,5 @@ newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອ�
 
 ## Customization Menu
 
+newtab-custom-recent-title = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 newtab-custom-close-button = ປິດ

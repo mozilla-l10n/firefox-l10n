@@ -426,6 +426,10 @@ sharing-warning-disable-for-session =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາ
+    .aria-label = ຄົ້ນຫາປະຫວັດ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =

@@ -18,5 +18,6 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ເລີ�
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = ແກ້ໄຂ PDFs ດ້ວຍເຄື່ອງມືຂໍ້ຄວາມໃຫມ່ຂອງພວກເຮົາ
 callout-pdfjs-edit-button = ຕໍ່ໄປ
 callout-pdfjs-draw-button = ເຂົ້າໃຈແລ້ວ!

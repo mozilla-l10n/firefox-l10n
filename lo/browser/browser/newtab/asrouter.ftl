@@ -94,6 +94,7 @@ spotlight-total-cookie-protection-secondary-button = ຍັງເທື່ອ
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = ອິນເຕີເນັດທີ່ດີກວ່າເລີ່ມຕົ້ນຈາກທ່ານ
 spotlight-pin-secondary-button = ບໍ່ແມ່ນຕອນນີ້
 
 ## MR2022 Background Update Windows native toast notification strings.
@@ -122,6 +123,7 @@ firefoxview-cfr-secondarybutton = ບໍ່ແມ່ນຕອນນີ້
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-secondarybutton = ຂ້າມ
 
 ## Colorways expiry reminder CFR
 
