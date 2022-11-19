@@ -196,7 +196,7 @@ intl-regional-prefs = Танзимоти минтақавӣ
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
-remote-debugging-title = Ислоҳи нуқсонҳо ба таври дурдаст (Протоколи Chromium)
+remote-debugging-title = Ислоҳи нуқсонҳо ба таври дурдаст (Протоколи «Chromium»)
 remote-debugging-accepting-connections = Пайвастҳои қабулшаванда
 remote-debugging-url = Нишонии URL
 
