@@ -7,6 +7,8 @@ about-logging-title = Davart la protocollaziun
 about-logging-current-log-file = Datoteca da protocol actuala:
 about-logging-current-log-modules = Moduls da protocol actuals:
 about-logging-log-tutorial = Legia l'artitgel <a data-l10n-name="logging">HTTP Logging</a> per instrucziuns davart l'utilisaziun da quest utensil.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Avrir l'ordinatur
 about-logging-set-log-file = Definir la datoteca da protocol
 about-logging-set-log-modules = Definir ils moduls da protocol
 about-logging-start-logging = Cumenzar a protocollar
