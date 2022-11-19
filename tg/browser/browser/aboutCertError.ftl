@@ -17,7 +17,7 @@ cert-error-trust-untrusted-issuer = Гувоҳинома эътибор надо
 cert-error-trust-signature-algorithm-disabled = Гувоҳинома эътибор надорад, зеро ки он ба воситаи алгоритме имзо карда шуд, ки ба сабаби хатарнокӣ ғайрифаъол карда шуд.
 cert-error-trust-expired-issuer = Гувоҳинома эътибор надорад, зеро ки муҳлати эътибори гувоҳинома ба анҷом расид.
 cert-error-trust-self-signed = Гувоҳинома эътибор надорад, зеро ки он ба таври худ имзо кардааст.
-cert-error-trust-symantec = Гувоҳиномаҳое, ки аз тарафи GeoTrust, RapidSSL, Symantec, Thawte ва VeriSign бароварда шудаанд, дигар бехатар нестанд, зеро ки ин мақомотҳои гувоҳиномадиҳӣ риояи таҷрибаи бехатариро иҷро карда натавонистанд.
+cert-error-trust-symantec = Гувоҳиномаҳое, ки аз тарафи «GeoTrust», «RapidSSL», «Symantec», «Thawte» ва «VeriSign» бароварда шудаанд, дигар бехатар нестанд, зеро ки ин мақомотҳои гувоҳиномадиҳӣ риояи таҷрибаи бехатариро иҷро карда натавонистанд.
 cert-error-untrusted-default = Гувоҳинома аз манбаи беэътимод бароварда шудааст.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
