@@ -114,6 +114,8 @@ urlbar-search-tips-confirm = OK
 urlbar-search-tips-confirm-short = OK
 urlbar-tip-icon-description =
     .alt = Suggerimento:
+urlbar-result-menu-button =
+    .title = Apri menu
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
