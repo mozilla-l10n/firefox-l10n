@@ -36,3 +36,7 @@ origin-controls-state-always-on = Può sempre leggere e modificare dati in quest
 origin-controls-state-when-clicked = Autorizzazione necessaria per leggere e modificare dati
 
 origin-controls-state-hover-run-visit-only = Esegui solo per questa visita
+
+origin-controls-state-runnable-hover-open = Apri estensione
+
+origin-controls-state-runnable-hover-run = Esegui estensione
