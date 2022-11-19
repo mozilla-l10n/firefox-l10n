@@ -57,11 +57,11 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Плагинҳои фаъолшуда
 app-basics-build-config = Танзимоти сохт
 app-basics-user-agent = Омили корбарӣ
-app-basics-os = OS
-app-basics-os-theme = Мавзуи OS
+app-basics-os = Низоми амалкунанда (OS)
+app-basics-os-theme = Мавзуи низоми амалкунанда (OS)
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
-app-basics-rosetta = Раванди тарҷумаи Rosetta
+app-basics-rosetta = Раванди тарҷумаи «Rosetta»
 app-basics-memory-use = Истифодаи ҳофиза
 app-basics-performance = Самаранокӣ
 app-basics-service-workers = Коргузорони хизматрасонии бақайдгирифташуда
@@ -72,9 +72,9 @@ app-basics-multi-process-support = Равзанаҳои серраванд
 app-basics-fission-support = Равзанаҳои «Fission»
 app-basics-remote-processes-count = Равандҳои дурдаст
 app-basics-enterprise-policies = Сиёсати корхона
-app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
+app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии «Google»
 app-basics-safebrowsing-key-google = Калиди «Google Safebrowsing»
-app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
+app-basics-key-mozilla = Калиди хидмати ҷойгиршавии «Mozilla»
 app-basics-safe-mode = Реҷаи бехатар
 app-basics-memory-size = Андозаи ҳофиза (RAM)
 app-basics-disk-available = Фазои дастрас дар диск
