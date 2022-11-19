@@ -205,11 +205,11 @@ page-action-manage-extension =
 page-action-remove-extension =
     .label = Уклони додатак
 page-action-manage-extension2 =
-    .label = Управљај проширењем…
-    .accesskey = E
+    .label = Управљај додатком…
+    .accesskey = д
 page-action-remove-extension2 =
-    .label = Уклони проширење
-    .accesskey = v
+    .label = Уклони додатак
+    .accesskey = н
 
 ## Auto-hide Context Menu
 
@@ -218,7 +218,7 @@ full-screen-autohide =
     .accesskey = т
 full-screen-exit =
     .label = Обустави приказ преко целог екрана
-    .accesskey = F
+    .accesskey = ц
 
 ## Search Engine selection buttons (one-offs)
 
@@ -397,7 +397,7 @@ identity-https-only-info-turn-on2 = Укључите режим „Само HTTP
 identity-https-only-info-turn-off2 = Ако страница делује неисправно, можете искључити режим „Само HTTPS” и поново је учитати преко небезбедног HTTP-а.
 identity-https-only-info-no-upgrade = Није могуће надоградити HTTP везу.
 identity-permissions-storage-access-header = Колачићи трећих страна
-identity-permissions-storage-access-hint = Ове стране могу користити вишестраничне колачиће и страничне податке током ваше посете страници.
+identity-permissions-storage-access-hint = Ове стране могу користити колачиће трећих страна и страничне податке током ваше посете страници.
 identity-permissions-storage-access-learn-more = Сазнајте више
 identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
 identity-clear-site-data =
