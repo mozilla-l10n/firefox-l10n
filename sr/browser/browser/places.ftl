@@ -93,9 +93,31 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Остали обележивачи
+places-show-in-folder =
+    .label = Прикажи у фасцикли
+    .accesskey = П
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Обриши обележивач
+            [one] Обриши обележивач
+            [few] Обриши обележивача
+           *[other] Обриши обележивача
+        }
+    .accesskey = О
+places-untag-bookmark =
+    .label = Уклони ознаку
+    .accesskey = У
 places-manage-bookmarks =
     .label = Управљај обележивачима
     .accesskey = У
+places-forget-about-this-site-confirmation-title = Заборави на овај сајт
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Ова радња ће обрисати све податке повезане са { $hostOrBaseDomain }, укључујући историју, лозинке, колачиће, кеш меморију и подешавања. Да ли сте сигурни да желите да наставите?
+places-forget-about-this-site-forget = Заборави
 places-library =
     .title = Библиотека
     .style = width:700px; height:500px;
@@ -103,11 +125,11 @@ places-library2 =
     .title = Библиотека
     .style = min-width:700px; min-height:500px;
 places-organize-button =
-    .label = Управљање
+    .label = Организујте
     .tooltiptext = Организујте обележиваче
-    .accesskey = У
+    .accesskey = О
 places-organize-button-mac =
-    .label = Управљање
+    .label = Организујте
     .tooltiptext = Организујте обележиваче
 places-file-close =
     .label = Затвори
@@ -135,7 +157,7 @@ places-view-sort-ascending =
     .accesskey = а
 places-view-sort-descending =
     .label = По обрнутом редоследу
-    .accesskey = О
+    .accesskey = р
 places-maintenance-button =
     .label = Увоз и израда резервне копије
     .tooltiptext = Увезите и направите резервну копију обележивача
@@ -151,7 +173,7 @@ places-cmd-restore =
     .accesskey = В
 places-cmd-restore-from-file =
     .label = Одабери датотеку…
-    .accesskey = И
+    .accesskey = О
 places-import-bookmarks-from-html =
     .label = Увези обележиваче из HTML-а…
     .accesskey = У
