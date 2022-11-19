@@ -30,6 +30,12 @@ return-to-amo-addon-title = Perché adesso non provi <img data-l10n-name="icon"/
 return-to-amo-add-extension-label = Aggiungi l’estensione
 return-to-amo-add-theme-label = Aggiungi il tema
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Ti presentiamo { -brand-short-name }
+mr1-return-to-amo-addon-title = Hai già un browser veloce e rispettoso della privacy a tua disposizione. Ora puoi aggiungere <b>{ $addon-name }</b> e fare ancora di più con { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Aggiungi { $addon-name }
+
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 ## Multistage onboarding strings (about:welcome pages)
