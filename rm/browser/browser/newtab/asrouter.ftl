@@ -216,3 +216,14 @@ firefoxview-spotlight-promo-title = Nus ta mussain { -firefoxview-brand-name }
 firefoxview-spotlight-promo-subtitle = Vuls ti avair quel tab avert sin tes telefonin? Va per el. Dovras ti la website che ti has gist visità? Zac ed ella è puspè qua cun { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Mussar co che quai funcziuna
 firefoxview-spotlight-promo-secondarybutton = Sursiglir
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Tscherner ina cumbinaziun da colurs
+    .accesskey = T
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Colurescha tes navigatur cun las nianzas da colurs exclusivas da { -brand-short-name } inspiradas da las vuschs independentas che han midà la societad.
+colorways-cfr-header-28days = La cumbinaziun da colurs «vuschs independentas» scada ils 16 da schaner
+colorways-cfr-header-14days = La cumbinaziun da colurs «vuschs independentas» scada en duas emnas
+colorways-cfr-header-7days = La cumbinaziun da colurs «vuschs independentas» scada quest'emna
+colorways-cfr-header-today = La cumbinaziun da colurs «vuschs independentas» scada oz

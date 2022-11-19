@@ -3,116 +3,82 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Administraziun dals supplements
-
 search-header =
     .placeholder = Tschertgar sin addons.mozilla.org
     .searchbuttonlabel = Tschertgar
-
 search-header-shortcut =
     .key = f
-
 list-empty-get-extensions-message = Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installar extensiuns e designs
-
 list-empty-get-dictionaries-message = Va per dicziunaris sin <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-language-packs-message = Va per pachets da lingua sin <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = Ti n'has anc installà nagins supplements da quest tip
-
 list-empty-available-updates =
     .value = Na chattà naginas actualisaziuns
-
 list-empty-recent-updates =
     .value = Ti n'has actualisà nagins supplements l'ultim temp
-
 list-empty-find-updates =
     .label = Tschertgar actualisaziuns
-
 list-empty-button =
     .label = Emprenda dapli davart supplements
-
 help-button = Agid cun supplements
 sidebar-help-button-title =
     .title = Agid cun supplements
-
 addons-settings-button = Parameters da { -brand-short-name }
 sidebar-settings-button-title =
     .title = Parameters da { -brand-short-name }
-
 show-unsigned-extensions-button =
     .label = Impussibel da verifitgar tschertas extensiuns
-
 show-all-extensions-button =
     .label = Mussar tut las extensiuns
-
 detail-version =
     .label = Versiun
-
 detail-last-updated =
     .label = Ultima actualisaziun
-
 addon-detail-description-expand = Mussar dapli
 addon-detail-description-collapse = Mussar damain
-
 detail-contributions-description = Il sviluppader da quest supplement ta dumonda da sustegnair il svilup dal supplement cun ina pitschna contribuziun finanziala.
-
 detail-contributions-button = Contribuir
     .title = Contribuir al svilup da quest supplement
     .accesskey = C
-
 detail-update-type =
     .value = Actualisaziuns automaticas
-
 detail-update-default =
     .label = Standard
     .tooltiptext = Mo installar automaticamain las actualisaziun sche quai è definì tenor standard
-
 detail-update-automatic =
     .label = Activà
     .tooltiptext = Installar automaticamain las actualisaziuns
-
 detail-update-manual =
     .label = Deactivà
     .tooltiptext = Betg installar automaticamain las actualisaziuns
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Exequir en fanestras privatas
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Betg permess en fanestras privatas
 detail-private-disallowed-description2 = Questa extensiun na vegn betg exequida en il modus privat. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Basegna access a fanestras privatas
 detail-private-required-description2 = Questa extensiun ha access a tias activitads online en il modus privat. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
-
 detail-private-browsing-on =
     .label = Permetter
     .tooltiptext = Activar en il modus privat
-
 detail-private-browsing-off =
     .label = Betg permetter
     .tooltiptext = Deactivar en il modus privat
-
 detail-home =
     .label = Website
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profil dal supplement
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Tschertgar actualisaziuns
     .accesskey = T
     .tooltiptext = Tschertgar actualisaziuns da quest supplement
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -129,38 +95,26 @@ detail-show-preferences =
             [windows] Midar las preferenzas da quest supplement
            *[other] Midar las preferenzas da quest supplement
         }
-
 detail-rating =
     .value = Valitaziun
-
 addon-restart-now =
     .label = Reaviar ussa
-
 disabled-unsigned-heading =
     .value = Tscherts supplements èn vegnids deactivads
-
 disabled-unsigned-description = Ils suandants supplements n'èn betg verifitgads per l'utilisaziun en { -brand-short-name }. Ti pos <label data-l10n-name="find-addons">tschertgar supplements equivalents</label> u dumandar il sviluppader d'als laschar verifitgar.
-
 disabled-unsigned-learn-more = Ve a savair tut davart nossas stentas per ta porscher la segirezza online necessaria.
-
 disabled-unsigned-devinfo = Sviluppaders che vulan laschar verifitgar lur supplements pon cuntinuar cun leger noss <label data-l10n-name="learn-more">manual</label>.
-
 plugin-deprecation-description = Manca insatge? Tscherts plug-ins na vegnan betg pli sustegnids da { -brand-short-name }. <label data-l10n-name="learn-more">Ulteriuras infurmaziuns.</label>
-
 legacy-warning-show-legacy = Mussar las extensiuns obsoletas
-
 legacy-extensions =
     .value = Extensiuns obsoletas
-
 legacy-extensions-description = Questas extensiuns na correspundan betg als standards actuals da { -brand-short-name } ed èn perquai deactivadas. <label data-l10n-name="legacy-learn-more">Vegnir a savair dapli davart las midadas per supplements</label>
-
 private-browsing-description2 =
     { -brand-short-name } mida il cumportament dad extensiuns en il modus privat. Tut las novas extensiuns che ti agiunteschas a
     { -brand-short-name } na vegnan tenor la configuraziun predefinida betg exequidas en fanestras privatas. Sche ti na las permettas betg en ils parameters
     na vegnan las extensiuns betg a funcziunar en il modus privat e na vegnan er betg ad avair access a tias activitads online en lez modus. 
     Questa midada succeda per che la navigaziun en il modus privat restia privata.
     <label data-l10n-name="private-browsing-learn-more">Vegnir a savair co administrar ils parameters da las extensiuns.</label>
-
 addon-category-discover = Recumandaziuns
 addon-category-discover-title =
     .title = Recumandaziuns
@@ -188,6 +142,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Autorisaziuns per la website
 addon-category-sitepermission-title =
     .title = Autorisaziuns per la website
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Autorisaziuns per la website { $host }
 
 ## These are global warnings
 
@@ -244,43 +202,34 @@ addon-open-about-debugging = Debugar supplements
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Administrar scursanidas dad extensiuns
     .accesskey = s
-
 shortcuts-no-addons = Naginas extensiuns activadas.
 shortcuts-no-commands = Las suandantas extensiuns n'han naginas cumbinaziuns da tastas:
 shortcuts-input =
     .placeholder = Tippa ina scursanida
-
 shortcuts-browserAction2 = Activar il buttun da la trav d'utensils
 shortcuts-pageAction = Activar l'acziun da pagina
 shortcuts-sidebarAction = Activar/deactivar la trav laterala
-
 shortcuts-modifier-mac = Includer Ctrl, Alt, u ⌘
 shortcuts-modifier-other = Includer Ctrl u Alt
 shortcuts-invalid = Cumbinaziun nunvalida
 shortcuts-letter = Tippa ina letra
 shortcuts-system = Impussibel da surscriver ina scursanida da { -brand-short-name }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Cumbinaziun da tastas occupada dublamain
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } vegn utilisà sco cumbinaziun da tastas per plirs cumonds. Cumbinaziuns da tastas duplitgadas pon chaschunar cumportaments nunprevis.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Gia utilisada da { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Mussar anc { $numberToShow }
        *[other] Mussar anc { $numberToShow }
     }
-
 shortcuts-card-collapse-button = Mussar damain
-
 header-back-button =
     .title = Turnar
 
@@ -295,13 +244,10 @@ discopane-intro =
     programs vegnan savens sviluppads da terzas partidas. Qua ina selecziun da
     <a data-l10n-name="learn-more-trigger">recumandaziuns</a> da { -brand-product-name } per segirezza,
     prestaziun e funcziunalitad maximala.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Tschertas da questas recumandaziuns èn persunalisadas. Ellas sa basan sin autras extensiuns installadas, preferenzas dal profil e statisticas davart l'utilisaziun.
 discopane-notice-learn-more = Ulteriuras infurmaziuns
-
 privacy-policy = Directivas per la protecziun da datas
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -317,7 +263,6 @@ install-theme-button = Installar il design
 manage-addon-button = Administrar
 find-more-addons = Chattar ulteriurs supplements
 find-more-themes = Chattar ulteriurs designs
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -343,16 +288,13 @@ preferences-addon-button =
 details-addon-button = Detagls
 release-notes-addon-button = Remartgas davart la versiun
 permissions-addon-button = Autorisaziuns
-
 extension-enabled-heading = Activà
 extension-disabled-heading = Deactivà
-
 theme-enabled-heading = Activà
 theme-disabled-heading = Deactivà
 theme-disabled-heading2 = Designs memorisads
 theme-monochromatic-heading = Cumbinaziun da colurs
 theme-monochromatic-subheading = Novas cumbinaziuns da colurs vivas da { -brand-product-name }. Disponiblas durant in temp limità.
-
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Empruvar las cumbinaziuns da colurs
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
@@ -360,43 +302,33 @@ theme-colorways-button-colorway-enabled = Midar la cumbinaziun da colurs
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Scroda ils { DATETIME($expiryDate, month: "long", day: "numeric") }
-
 plugin-enabled-heading = Activà
 plugin-disabled-heading = Deactivà
-
 dictionary-enabled-heading = Activà
 dictionary-disabled-heading = Deactivà
-
 locale-enabled-heading = Activà
 locale-disabled-heading = Deactivà
-
 sitepermission-enabled-heading = Activà
 sitepermission-disabled-heading = Deactivà
-
 always-activate-button = Adina activar
 never-activate-button = Mai activar
-
 addon-detail-author-label = Autur(a)
 addon-detail-version-label = Versiun
 addon-detail-last-updated-label = Ultima actualisaziun
 addon-detail-homepage-label = Pagina d'internet
 addon-detail-rating-label = Valitaziun
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = Questa extensiun vegn actualisada cura che { -brand-short-name } vegn reavià.
 install-postponed-button = Actualisar ussa
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Valità cun { NUMBER($rating, maximumFractionDigits: 1) } da 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (deactivà)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -412,14 +344,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> è vegnì allontanà.
 pending-uninstall-undo-button = Revocar
-
 addon-detail-updates-label = Permetter actualisaziuns automaticas
 addon-detail-updates-radio-default = Standard
 addon-detail-updates-radio-on = Activà
 addon-detail-updates-radio-off = Deactivà
 addon-detail-update-check-label = Tschertgar actualisaziuns
 install-update-button = Actualisar
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -448,20 +378,15 @@ addon-badge-verified2 =
 
 available-updates-heading = Actualisaziuns disponiblas
 recent-updates-heading = Ultimas actualisaziuns
-
 release-notes-loading = Chargiar…
 release-notes-error = Perstgisa, ma cun chargiar las remartgas davart la versiun è succedida ina errur.
-
 addon-permissions-empty = Questa extensiun na pretenda naginas autorisaziuns
 addon-permissions-required = Permissiuns necessarias per las funcziunalitads centralas:
 addon-permissions-optional = Permissiuns facultativas per funcziunalitads supplementaras:
 addon-permissions-learnmore = Vegnir a savair dapli davart permissiuns
-
 recommended-extensions-heading = Extensiuns recumandadas
 recommended-themes-heading = Designs recumandads
-
 addon-sitepermissions-required = Permetta a <span data-l10n-name="hostname">{ $hostname }</span> dad utilisar las suandantas funcziuns:
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Inspirà? <a data-l10n-name="link">Creescha tes agen design cun Firefox Color.</a>
@@ -477,11 +402,9 @@ updates-heading = Administrar las actualisaziuns
 sitepermission-heading = Administrar tias autorisaziuns da website
 discover-heading = Persunalisescha tes { -brand-short-name }
 shortcuts-heading = Administrar scursanidas dad extensiuns
-
 default-heading-search-label = Chattar ulteriurs supplements
 addons-heading-search-input =
     .placeholder = Tschertgar sin addons.mozilla.org
-
 addon-page-options-button =
     .title = Utensils per tut ils supplements
 
@@ -492,19 +415,13 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } n'è betg cumpatibel cun { -brand-short-name } { $version }.
-
 details-notification-incompatible-link = Ulteriuras infurmaziuns
-
 details-notification-unsigned-and-disabled = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Il suplement è vegnì deactivà.
 details-notification-unsigned-and-disabled-link = Ulteriuras infurmaziuns
-
 details-notification-unsigned = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Cuntinuar cun precauziun.
 details-notification-unsigned-link = Ulteriuras infurmaziuns
-
 details-notification-blocked = { $name } è vegnì deactivà pervia da problems da segirezza u da stabilitad.
 details-notification-blocked-link = Dapli infurmaziuns
-
 details-notification-softblocked = { $name } po chaschunar problems da segirezza u da stabilitad.
 details-notification-softblocked-link = Ulteriuras infurmaziuns
-
 details-notification-gmp-pending = { $name } vegn installà en curt mument.
