@@ -112,7 +112,7 @@ whatsnew-panel-header = Шта је ново
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
-    .label = Обавести ме о новим функцијама
+    .label = Обавести о новим функцијама
     .accesskey = О
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
