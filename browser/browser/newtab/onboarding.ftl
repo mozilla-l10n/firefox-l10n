@@ -339,9 +339,21 @@ mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Экспрессионист (сары)
 mr2022-onboarding-colorway-description-expressionist = <b>Сіз экспрессионистсіз.</b> Сіз әлемді басқаша көресіз және сіздің туындыларыңыз басқалардың эмоцияларын қорғайды.
 mr2022-onboarding-colorway-label-visionary = Визионер
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Көреген (жасыл)
+mr2022-onboarding-colorway-description-visionary = <b>Сіз көрегенсіз.</b> Сіз статус-квоға күмән келтіресіз және басқаларды жақсы болашақты елестетуге итермелейсіз.
 mr2022-onboarding-colorway-label-activist = Активист
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Белсенді (көк)
+mr2022-onboarding-colorway-description-activist = <b>Сіз белсендісіз.</b> Сіз әлемді өзіңіз тапқаннан да жақсы күйде қалдырып, басқаларды сенуге жетелейсіз.
 mr2022-onboarding-colorway-label-dreamer = Армандаушы
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Армандаушы (күлгін)
+mr2022-onboarding-colorway-description-dreamer = <b>Сіз армандаушысыз.</b> Сіз сәттілікке батылдар ұнайтынына сенесіз және басқаларды батыл болуға шабыттандырасыз.
 mr2022-onboarding-colorway-label-innovator = Жаңашыл
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Жаңашыл (қызғылт сары)
+mr2022-onboarding-colorway-description-innovator = <b>Сіз жаңашылсыз.</b> Сіз барлық жерде мүмкіндіктерді көресіз және айналаңыздағы адамдардың өміріне әсер етесіз.
 
 ## MR2022 Multistage Mobile Download screen strings
 
