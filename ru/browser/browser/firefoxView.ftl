@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = Теперь вы можете п�
 firefoxview-closed-tabs-title = Недавно закрытые
 firefoxview-closed-tabs-description2 = Заново открыть страницы, которые вы закрыли в этом окне.
 firefoxview-closed-tabs-placeholder = <strong>Нет недавно закрытых страниц</strong><br/>Не бойтесь снова потерять закрытую вкладку. Вы всегда сможете восстановить её здесь.
+firefoxview-closed-tabs-placeholder-header = Нет недавно закрытых вкладок
+firefoxview-closed-tabs-placeholder-body = Когда вы закрываете вкладку в этом окне, вы можете извлечь её отсюда.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Последняя активная
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = Сменить расцветку
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Пока ничего нет</strong><br/>В следующий раз, когда вы откроете страницу в { -brand-product-name } на другом устройстве, она волшебным образом появится здесь.
+firefoxview-synced-tabs-placeholder-header = Здесь пока ничего нет
+firefoxview-synced-tabs-placeholder-body = В следующий раз, когда вы откроете страницу в { -brand-product-name } на другом устройстве, она появится здесь, как по волшебству.
 firefoxview-collapse-button-show =
     .title = Показать список
 firefoxview-collapse-button-hide =
