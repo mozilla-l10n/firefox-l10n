@@ -107,8 +107,8 @@ mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous
 mr1-onboarding-import-primary-button-label-no-attribution = Importar do navegador anterior
 mr1-onboarding-import-secondary-button-label = Agora não
 mr2-onboarding-colorway-header = Vida a cores
-mr2-onboarding-colorway-subtitle = Esquemas de cor vibrantes. Disponíveis por tempo limitado.
-mr2-onboarding-colorway-primary-button-label = Guardar esquema de cor
+mr2-onboarding-colorway-subtitle = Estilos de cor vibrantes. Disponíveis por tempo limitado.
+mr2-onboarding-colorway-primary-button-label = Guardar estilo de cor
 mr2-onboarding-colorway-secondary-button-label = Agora não
 mr2-onboarding-colorway-label-soft = Suave
 mr2-onboarding-colorway-label-balanced = Equilibrado
@@ -179,20 +179,20 @@ mr1-onboarding-theme-description-alpenglow =
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
-    .title = Utilizar este esquema de cor.
+    .title = Utilizar este estilo de cor.
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
-    .aria-description = Utilizar este esquema de cor.
+    .aria-description = Utilizar este estilo de cor.
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = Explorar os esquema de cor { $colorwayName }.
+    .title = Explorar os estilos de cor { $colorwayName }.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Explorar os esquema de cor { $colorwayName }.
+mr2-onboarding-colorway-label = Explorar os estilos de cor { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Explorar os temas predefinidos.
@@ -323,44 +323,30 @@ mr2022-onboarding-colorway-subtitle = Vozes independentes podem mudar a cultura.
 mr2022-onboarding-colorway-primary-button-label-continue = Definir e continuar
 mr2022-onboarding-existing-colorway-checkbox-label = Faça do { -firefox-home-brand-name } a sua página inicial colorida
 mr2022-onboarding-colorway-label-default = Predefinido
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Predefinido
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Cores atuais do { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Utilizar as minhas cores atuais do { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Impulsionador(a)
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Impulsionador(a)
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Jogador (red)
 mr2022-onboarding-colorway-description-playmaker = <b>É um(a) impulsionador(a).</b> Você cria oportunidades para vencer e ajudar a todos à sua volta a melhorar as suas capacidades.
 mr2022-onboarding-colorway-label-expressionist = Expressionista
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Expressionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionista (amarelo)
 mr2022-onboarding-colorway-description-expressionist = <b>É um(a) expressionista.</b> Você vê o mundo de maneira diferente e as suas criações despertam as emoções dos outros.
 mr2022-onboarding-colorway-label-visionary = Visionário(a)
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visionário(a)
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionário(a) (verde)
 mr2022-onboarding-colorway-description-visionary = <b>É um visionário(a).</b> Você questiona o status-quo e leva os outros a imaginar um futuro melhor.
 mr2022-onboarding-colorway-label-activist = Ativista
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Ativista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Ativista (azul)
 mr2022-onboarding-colorway-description-activist = <b>É um ativista.</b> Você deixa o mundo um lugar melhor do que aquele que encontrou e leva os outros a acreditar.
 mr2022-onboarding-colorway-label-dreamer = Sonhador(a)
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Sonhador(a)
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sonhador(a) (roxo)
 mr2022-onboarding-colorway-description-dreamer = <b>Você é um(a) sonhador(a).</b> Você acredita que a sorte favorece os ousados e inspira os outros a serem corajosos.
 mr2022-onboarding-colorway-label-innovator = Inovador(a)
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Inovador(a)
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Inovador(a) (laranja)
 mr2022-onboarding-colorway-description-innovator = <b>Você é um(a) inovador(a).</b> Você vê oportunidades em todo o lado e causa impacto na vida de todos à sua volta.
