@@ -419,6 +419,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = ເພື່ອໃຊ້ທາງລັດ F12, ກ່ອນອື່ນໃຫ້ເປີດ DevTools ຜ່ານເມນູ Browser Tools.
 
 ## URL Bar
 
@@ -705,6 +706,8 @@ data-reporting-notification-message = { -brand-short-name } ສົ່ງຂໍ�
 data-reporting-notification-button =
     .label = ເລືອກສິ່ງທີ່ຂ້ອຍຈະແບ່ງປັນ
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = ການທ່ອງເວັບແບບສ່ວນຕົວ
 
 ## Unified extensions (toolbar) button
 
