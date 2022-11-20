@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Рекомендуемая функция
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Почему я это вижу
-
 cfr-doorhanger-extension-cancel-button = Не сейчас
     .accesskey = е
-
 cfr-doorhanger-extension-ok-button = Добавить
     .accesskey = а
-
 cfr-doorhanger-extension-manage-settings-button = Управление настройками рекомендаций
     .accesskey = п
-
 cfr-doorhanger-extension-never-show-recommendation = Не показывать мне эту рекомендацию
     .accesskey = е
-
 cfr-doorhanger-extension-learn-more-link = Подробнее
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = от { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рекомендация
 cfr-doorhanger-extension-notification2 = Рекомендация
     .tooltiptext = Рекомендация расширения
     .a11y-announcement = Доступна рекомендация расширения
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Рекомендация
@@ -87,11 +79,9 @@ cfr-protections-panel-link-text = Подробнее
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Новая функция:
-
 cfr-whatsnew-button =
     .label = Что нового
     .tooltiptext = Что нового
-
 cfr-whatsnew-release-notes-link-text = Прочитать примечания к выпуску
 
 ## Enhanced Tracking Protection Milestones
@@ -169,7 +159,6 @@ spotlight-total-cookie-protection-body = Полная защита от кук �
 spotlight-total-cookie-protection-expanded = { -brand-short-name } огораживает куки, ограничивая их только сайтом, на котором вы находитесь, чтобы трекеры не могли использовать их для слежки за вами. Благодаря раннему доступу вы помогаете оптимизировать эту функцию, чтобы мы продолжали создавать лучший Интернет для всех и каждого.
 spotlight-total-cookie-protection-primary-button = Включить Полную защиту от кук
 spotlight-total-cookie-protection-secondary-button = Не сейчас
-
 cfr-total-cookie-protection-header = Благодаря вам, { -brand-short-name } стал более приватным и безопасным, чем когда-либо.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -203,13 +192,11 @@ spotlight-pin-secondary-button = Не сейчас
 
 mr2022-background-update-toast-title = Новый { -brand-short-name }. Более приватный. Меньше трекеров. Никаких компромиссов.
 mr2022-background-update-toast-text = Попробуйте новейшую версию { -brand-short-name } прямо сейчас с нашей самой надежной защитой от отслеживания.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Открыть { -brand-shorter-name } сейчас
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -228,8 +215,18 @@ firefoxview-cfr-body = Кроме того, вы можете легко пер�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Поздоровайтесь с { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Хотите вкладку открытую на своем телефоне? Возьмите её. Нужен сайт, который вы только что посетили? Пуф, и он вернулся через { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Посмотреть, как это работает
 firefoxview-spotlight-promo-secondarybutton = Пропустить
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Выберите расцветку
+    .accesskey = ы
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Раскрасьте свой браузер исключительными оттенками { -brand-short-name }, вдохновлёнными голосами, изменившими культуру.
+colorways-cfr-header-28days = Срок действия расцветок независимых голосов истекает 16 января
+colorways-cfr-header-14days = Срок действия расцветок независимых голосов истекает через две недели
+colorways-cfr-header-7days = Срок действия расцветок независимых голосов истекает на этой неделе
+colorways-cfr-header-today = Сегодня истекает срок действия расцветок независимых голосов
