@@ -219,5 +219,11 @@ firefoxview-spotlight-promo-secondarybutton = Ignorar
 
 ## Colorways expiry reminder CFR
 
-colorways-cfr-primarybutton = Escolher uma cor
+colorways-cfr-primarybutton = Escolher estilo de cor
     .accesskey = E
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Dê cor ao seu navegador com tons exclusivos do { -brand-short-name } inspirados nas vozes que mudaram a cultura.
+colorways-cfr-header-28days = Os estilos de cor de Vozes Independentes expiram a 16 de janeiro
+colorways-cfr-header-14days = Os estilos de cor de Vozes Independentes expiram em duas semanas
+colorways-cfr-header-7days = Os estilos de cor de Vozes Independentes expiram esta semana
+colorways-cfr-header-today = Os estilos de cor de Independent Voices expiram hoje

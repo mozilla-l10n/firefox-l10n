@@ -8,6 +8,10 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = A extensão não pode ler e alterar os dados
+origin-controls-options =
+    .label = A extensão pode ler e alterar os dados:
 origin-controls-option-all-domains =
     .label = Em Todos os Sites
 origin-controls-option-when-clicked =
