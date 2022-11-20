@@ -136,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Получить помощь
 urlbar-search-tips-confirm = Хорошо, понятно
+urlbar-search-tips-confirm-short = Понятно
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -149,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Печатайте меньше, находите больше: Ищите в { $engineName } прямо из адресной строки.
 urlbar-search-tips-redirect-2 = Начните поиск в адресной строке, чтобы увидеть предложения из { $engineName } и истории посещений.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Поиск стал ещё проще. Попробуйте сделать его более точным в адресной строке. Чтобы вместо этого отобразить сетевой адрес, перейдите в раздел «Поиск» в настройках.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Выберите этот ярлык, чтобы быстрее найти то, что вам нужно.
