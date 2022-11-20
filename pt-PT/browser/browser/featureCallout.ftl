@@ -17,8 +17,8 @@ callout-firefox-view-recently-closed-title = Obter os seus separadores de volta 
 callout-firefox-view-recently-closed-subtitle = Todos os seus separadores fechados irão aparecer magicamente aqui. Nunca se preocupe em fechar acidentalmente um site novamente.
 callout-firefox-view-colorways-title = Adicione um toque de cor
 # "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Escolha o tom que lhe agrada nos esquemas de cores. Apenas no { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Explore os nossos esquemas de cores mais recentes
+callout-firefox-view-colorways-subtitle = Escolha o tom que prefere nos estilos de cor. Apenas no { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Explore os nossos estilos de cor mais recentes
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Dê cor ao seu navegador com esses tons icónicos, inspirados em vozes independentes. Apenas no { -brand-product-name }.
 
