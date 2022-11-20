@@ -16,7 +16,17 @@ origin-controls-option-all-domains =
     .label = Em Todos os Sites
 origin-controls-option-when-clicked =
     .label = Somente Quando Clicado
+# This string denotes an option that grants the extension access to
+# the current site whenever they visit it.
+# Variables:
+#   $domain (String) - The domain for which the access is granted.
+origin-controls-option-always-on =
+    .label = Permitir sempre em { $domain }
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = Não é possível ler e alterar os dados neste site
+origin-controls-state-always-on = Pode ler e alterar sempre os dados neste site
+origin-controls-state-when-clicked = Permissão necessária para ler e alterar os dados
+origin-controls-state-hover-run-visit-only = Executar apenas para esta visita
