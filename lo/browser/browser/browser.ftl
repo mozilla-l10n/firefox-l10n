@@ -435,6 +435,8 @@ urlbar-placeholder-search-mode-other-history =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ຊອກຫາດ້ວຍ { $name } ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+urlbar-permissions-granted =
+    .tooltiptext = ທ່ານໄດ້ໃຫ້ການອະນຸຍາດເພີ່ມເຕີມແກ່ເວັບໄຊທ໌ນີ້.
 urlbar-switch-to-tab =
     .value = ຍ້າຍໄປແທັບ:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
