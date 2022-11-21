@@ -226,9 +226,11 @@ mr2-onboarding-start-browsing-button-label = Kregiñ da verdeiñ
 
 onboarding-live-language-header = Dibabit ho yezh
 mr2022-onboarding-live-language-text = { -brand-short-name } a gomz ho yezh
+mr2022-language-mismatch-subtitle = A-drugarez d'hor c'humuniezh eo bet troet { -brand-short-name } en ouzhpenn 90 yezh. Ho reizhiad a implij { $systemLanguage } war a seblant, ha { -brand-short-name } a implij { $appLanguage }.
 onboarding-live-language-button-label-downloading = O pellgargañ ar pakad yezh evit { $negotiatedLanguage }...
 onboarding-live-language-waiting-button = O tapout ar yezhoù hegerz...
 onboarding-live-language-installing = O staliañ ar pakad yezh { $negotiatedLanguage }...
+mr2022-onboarding-live-language-continue-in = Kenderc'hel en { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Nullañ
 onboarding-live-language-skip-button-label = Tremen
 
@@ -257,9 +259,15 @@ fx100-upgrade-thanks-header = 100 a drugarekadennoù
 fx100-upgrade-thank-you-body = Hon 100vet ermaeziadenn eus { -brand-short-name } an hini eo. Trugarez <em>deoc’h</em> evit hon skoazellañ da sevel un internet gwelloc'h ha yac’hoc’h.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Hon 100vet ermaeziadenn an hini eo! Trugarez deoc’h evit bezañ ul lodenn eus hor c’humuniezh. Dalc’hit { -brand-short-name } tost ouzhoc’h evit 100 re all.
+mr2022-onboarding-secondary-skip-button-label = Tremen ar bazenn-mañ
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Dizoloit un internet digredus
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
