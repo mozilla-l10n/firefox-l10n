@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,9 +23,6 @@ return-to-amo-subtitle = Dispar, { -brand-short-name } a zo ganeoc’h
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Staliomp <img data-l10n-name="icon"/> <b>{ $addon-name }</b> bremañ.
 return-to-amo-add-extension-label = Ouzhpennañ an askouezh
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
 return-to-amo-add-theme-label = Ouzhpennañ an neuz
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -47,6 +39,8 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = Araokadur: tennad { $current } war { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -57,13 +51,11 @@ onboarding-welcome-steps-indicator =
 mr1-welcome-screen-hero-text =
     Kregiñ a ra
     amañ
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Krouerez arrebeuri, sot gant Firefox
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Diweredekaat ar fiñvskeudennoù
 
@@ -89,11 +81,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Kregiñ ganti
-
 mr1-onboarding-welcome-header = Degemer mat war { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Lakaat { -brand-short-name } da verdeer kentañ
     .title = Lakaat { -brand-short-name } da verdeer dre ziouer ha spilhennañ er varenn drevelloù
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Lakaat { -brand-short-name } da verdeer dre-ziouer
@@ -111,16 +101,13 @@ mr1-onboarding-default-primary-button-label = Lakaat da verdeer dre ziouer
 
 mr1-onboarding-import-header = Degasit an holl ganeoc’h
 mr1-onboarding-import-subtitle = Emporzhit ho kerioù-tremen, <br/>sinedoù ha muioc'h.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Emporzhiañ diouzh { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Emporzhiañ diouzh ar merdeer diwezhañ
 mr1-onboarding-import-secondary-button-label = Ket bremañ
-
 mr2-onboarding-colorway-header = Ar vuhez e liv
 mr2-onboarding-colorway-subtitle = Livioù nevez brav-eston. Hegerz evit ur padelezh bevennet.
 mr2-onboarding-colorway-primary-button-label = Enrollañ al livioù
@@ -130,112 +117,87 @@ mr2-onboarding-colorway-label-balanced = Kempouezet
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Tev
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Emgefreek
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Dre ziouer
-
 mr1-onboarding-theme-header = Personelait ho neuz
 mr1-onboarding-theme-subtitle = Personelait { -brand-short-name } gant un neuz.
 mr1-onboarding-theme-primary-button-label = Enrollañ an tem
 mr1-onboarding-theme-secondary-button-label = Ket bremañ
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tem ar reizhiad
-
 mr1-onboarding-theme-label-light = Sklaer
 mr1-onboarding-theme-label-dark = Teñval
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Graet
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
-
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
         Implijout neuz ar reizhiad korvoiñ
         evit ar boutonoù, lañserioù ha prenestroù.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Implijout neuz ar reizhiad korvoiñ
         evit ar boutonoù, lañserioù ha prenestroù.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Implijout un neuz sklaer evit ar
         boutonoù, lañserioù ha prenestroù.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Implijout un neuz sklaer evit ar
         boutonoù, lañserioù ha prenestroù.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Implijout un neuz teñval evit ar
         boutonoù, lañserioù ha prenestroù.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Implijout un neuz teñval evit ar
         boutonoù, lañserioù ha prenestroù.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Implijout un neuz buhezek, livet evit ar
         boutonoù, lañserioù ha prenestroù.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Implijout un neuz buhezek, livet evit ar
         boutonoù, lañserioù ha prenestroù.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Implij al livioù-se.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Implij al livioù-se.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Sellet al livioù { $colorwayName }.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Sellet al livioù { $colorwayName }.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Sellet an neuzioù dre ziouer.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Sellet an neuzioù dre ziouer.
 
@@ -250,17 +212,8 @@ mr2-onboarding-start-browsing-button-label = Kregiñ da verdeiñ
 ## The following language names are generated by the browser's Intl.DisplayNames API.
 ##
 ## Variables:
-##   $appLanguage (String) - The name of Firefox's language, e.g. "American English"
-##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
-##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
-
-
-## Multistage live language reloading onboarding strings (about:welcome pages)
-##
-## The following language names are generated by the browser's Intl.DisplayNames API.
-##
-## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
+
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -272,11 +225,10 @@ mr2-onboarding-start-browsing-button-label = Kregiñ da verdeiñ
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Dibabit ho yezh
-
+mr2022-onboarding-live-language-text = { -brand-short-name } a gomz ho yezh
 onboarding-live-language-button-label-downloading = O pellgargañ ar pakad yezh evit { $negotiatedLanguage }...
 onboarding-live-language-waiting-button = O tapout ar yezhoù hegerz...
 onboarding-live-language-installing = O staliañ ar pakad yezh { $negotiatedLanguage }...
-
 onboarding-live-language-secondary-cancel-download = Nullañ
 onboarding-live-language-skip-button-label = Tremen
 
@@ -299,7 +251,6 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Mirout { -brand-short-name } en Dock
        *[other] Spilhennañ { -brand-short-name } da varrenn an trevelloù
     }
-
 fx100-upgrade-thanks-header = 100 a drugarekadennoù
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
@@ -309,27 +260,43 @@ fx100-upgrade-thanks-keep-body = Hon 100vet ermaeziadenn an hini eo! Trugarez de
 
 ## MR2022 New User Pin Firefox screen strings
 
+
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+
 ## MR2022 New User Set Default screen strings
+
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+
 ## MR2022 Import Settings screen strings
+
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+
 ## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+
 ## MR2022 Privacy Segmentation screen strings
 
+
 ## MR2022 Multistage Gratitude screen strings
+
+
+## Onboarding spotlight for infrequent users
+
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
 

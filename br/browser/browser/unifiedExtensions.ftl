@@ -24,3 +24,11 @@ unified-extensions-item-message-manage = Merañ an askouezh
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Spilhennañ er varrenn ostilhoù
+unified-extensions-context-menu-manage-extension =
+    .label = Merañ an askouezh
+unified-extensions-context-menu-remove-extension =
+    .label = Dilemel an askouezh
+unified-extensions-context-menu-report-extension =
+    .label = Danevelliñ an askouezh
