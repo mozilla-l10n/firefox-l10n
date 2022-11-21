@@ -150,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escrivètz mens, trobatz mai : cercatz amb { $engineName } dirèctament de la barra d’adreça.
 urlbar-search-tips-redirect-2 = Començatz vòstra recèrca dins la barra d’adreça per mostrar las suggestions de { $engineName } e de vòstre istoric de navegacion.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Cercar ven mai simple. Ensajatz de far venir vòstra recèrca mai precisa, aicí dins la barra d’adreça. Per mostrar puslèu l’adreça web, anatz a la seccion « Recèrca » als paramètres.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Causir aqueste acorchi per trobar mai rapidament çò que vos fa besonh.
