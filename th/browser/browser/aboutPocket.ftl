@@ -10,10 +10,10 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = เพิ่มป้ายกำกับ
-pocket-panel-saved-error-generic = เกิดข้อผิดพลาดระหว่างการบันทึกไปยัง { -pocket-brand-name }
-pocket-panel-saved-error-tag-length = ป้ายกำกับถูกจำกัดไว้ที่ 25 ตัวอักษร
-pocket-panel-saved-error-only-links = ลิงก์เท่านั้นที่สามารถถูกบันทึกได้
+    .placeholder = เพิ่มแท็ก
+pocket-panel-saved-error-generic = เกิดข้อผิดพลาดขณะบันทึกไปยัง { -pocket-brand-name }
+pocket-panel-saved-error-tag-length = แท็กถูกจำกัดไว้ที่ 25 ตัวอักษร
+pocket-panel-saved-error-only-links = สามารถบันทึกได้เฉพาะลิงก์เท่านั้น
 pocket-panel-saved-error-not-saved = หน้าไม่ถูกบันทึก
 pocket-panel-saved-error-no-internet = คุณต้องเชื่อต่อกับอินเทอร์เน็ตเพื่อบันทึกไปยัง { -pocket-brand-name } กรุณาเชื่อมต่ออินเทอร์เน็ตและลองใหม่อีกครั้ง
 pocket-panel-saved-error-remove = เกิดข้อผิดพลาดขณะพยายามลบหน้านี้
@@ -23,15 +23,15 @@ pocket-panel-saved-page-saved-b = บันทึกไปยัง { -pocket-br
 pocket-panel-saved-processing-remove = กำลังลบหน้า…
 pocket-panel-saved-removed = ลบหน้าออกจาก “รายการของฉัน” แล้ว
 pocket-panel-saved-removed-updated = ลบหน้าออกจากรายการที่บันทึกไว้แล้ว
-pocket-panel-saved-processing-tags = กำลังเพิ่มป้ายกำกับ…
+pocket-panel-saved-processing-tags = กำลังเพิ่มแท็ก…
 pocket-panel-saved-remove-page = ลบหน้า
 pocket-panel-saved-save-tags = บันทึก
 pocket-panel-saved-saving-tags = กำลังบันทึก…
-pocket-panel-saved-suggested-tags = ป้ายกำกับที่ถูกแนะนำ
-pocket-panel-saved-tags-saved = ป้ายกำกับถูกเพิ่มแล้ว
+pocket-panel-saved-suggested-tags = แท็กที่แนะนำ
+pocket-panel-saved-tags-saved = เพิ่มแท็กแล้ว
 pocket-panel-signup-view-list = ดูรายการ
 # This is displayed above a field where the user can add tags
-pocket-panel-signup-add-tags = เพิ่มป้ายกำกับ:
+pocket-panel-signup-add-tags = เพิ่มแท็ก:
 
 ## about:pocket-signup panel
 
