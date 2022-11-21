@@ -23,8 +23,8 @@ styleeditor-options-button =
 styleeditor-media-rules = กฎ @media
 styleeditor-editor-textbox =
     .data-placeholder = พิมพ์ CSS ที่นี่
-styleeditor-no-stylesheet = หน้านี้ไม่มีแผ่นลักษณะ
-styleeditor-no-stylesheet-tip = บางทีคุณอาจต้องการ <a data-l10n-name="append-new-stylesheet">ผนวกแผ่นลักษณะใหม่</a>?
+styleeditor-no-stylesheet = หน้านี้ไม่มีสไตล์ชีต
+styleeditor-no-stylesheet-tip = บางทีคุณอาจต้องการ <a data-l10n-name="append-new-stylesheet">ผนวกสไตล์ชีตใหม่</a>หรือไม่
 styleeditor-open-link-new-tab =
     .label = เปิดลิงก์ในแท็บใหม่
 styleeditor-copy-url =
@@ -39,4 +39,4 @@ styleeditor-go-to-line =
     .label = กระโดดไปบรรทัดที่…
     .accesskey = ป
 # Label displayed when searching a term that is not found in any stylesheet path
-styleeditor-stylesheet-all-filtered = ไม่พบแผ่นลักษณะที่ตรงกัน
+styleeditor-stylesheet-all-filtered = ไม่พบสไตล์ชีตที่ตรงกัน
