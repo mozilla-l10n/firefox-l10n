@@ -3,16 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = สร้างและผนวกแผ่นลักษณะใหม่ไปยังเอกสาร
+    .tooltiptext = สร้างและผนวกสไตล์ชีตใหม่ไปยังเอกสาร
     .accesskey = ห
 styleeditor-import-button =
-    .tooltiptext = นำเข้าและผนวกแผ่นลักษณะที่มีอยู่ไปยังเอกสาร
+    .tooltiptext = นำเข้าและผนวกสไตล์ชีตที่มีอยู่ไปยังเอกสาร
     .accesskey = น
 styleeditor-filter-input =
-    .placeholder = กรองแผ่นลักษณะ
+    .placeholder = กรองสไตล์ชีต
 styleeditor-visibility-toggle =
-    .tooltiptext = เปิด/ปิดการมองเห็นแผ่นลักษณะ
+    .tooltiptext = เปิด/ปิดการมองเห็นสไตล์ชีต
     .accesskey = บ
+styleeditor-visibility-toggle-system =
+    .tooltiptext = ไม่สามารถปิดใช้งานสไตล์ชีตระบบได้
 styleeditor-save-button = บันทึก
     .tooltiptext = บันทึกแผ่นลักษณะนี้เป็นไฟล์
     .accesskey = บ
