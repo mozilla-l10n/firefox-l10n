@@ -24,3 +24,9 @@ unified-extensions-item-message-manage = Upravljanje razširitve
 
 ## Extension's context menu
 
+unified-extensions-context-menu-manage-extension =
+    .label = Upravljaj razširitev
+unified-extensions-context-menu-remove-extension =
+    .label = Odstrani razširitev
+unified-extensions-context-menu-report-extension =
+    .label = Prijavi razširitev
