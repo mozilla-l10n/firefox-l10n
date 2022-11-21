@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Rheoli estyniadau
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Pinio i'r Bar Offer
 unified-extensions-context-menu-manage-extension =
     .label = Rheoli Estyniad
 unified-extensions-context-menu-remove-extension =
