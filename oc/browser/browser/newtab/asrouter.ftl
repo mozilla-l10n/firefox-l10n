@@ -221,3 +221,9 @@ firefoxview-spotlight-promo-secondarybutton = Passar
 
 colorways-cfr-primarybutton = Causir un colorit
     .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Botatz de color a vòstre navegador amb las tintas exclusivas de { -brand-short-name } inspiradas de voses qu’influencièron nòstra cultura.
+colorways-cfr-header-28days = Los colorits « Voses independentas » expiran lo 16 de de genièr
+colorways-cfr-header-14days = Los colorits « Voses independentas » expiran d’aquí doas setmanas
+colorways-cfr-header-7days = Los colorits « Voses independentas » expiran aquesta setmana
+colorways-cfr-header-today = Los colorits « Voses independentas » expiran uèi

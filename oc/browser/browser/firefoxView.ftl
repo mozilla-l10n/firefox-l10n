@@ -72,6 +72,7 @@ firefoxview-change-colorway-button = Cambiar de colorits
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>I a pas res pel moment</strong><br/>Lo còp que ven que dobrissètz una pagina dins { -brand-product-name } sus un autre aparelh, lo poiretz trapar aicí coma per magia.
 firefoxview-synced-tabs-placeholder-header = Pas res a veire pel moment
+firefoxview-synced-tabs-placeholder-body = Lo còp que ven que dobrissètz una pagina dins { -brand-product-name } sus un autre aparelh, trapatz-la aquí.
 firefoxview-collapse-button-show =
     .title = Afichar la lista
 firefoxview-collapse-button-hide =
