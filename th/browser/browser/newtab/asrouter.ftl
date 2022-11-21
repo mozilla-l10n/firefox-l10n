@@ -153,6 +153,10 @@ spotlight-total-cookie-protection-body = การป้องกันคุก
 spotlight-total-cookie-protection-expanded = { -brand-short-name } จะสร้างรั้วกั้นคุกกี้ต่าง ๆ โดยจำกัดเฉพาะไซต์ที่คุณใช้ เพื่อไม่ให้ตัวติดตามใช้คุกกี้ติดตามคุณได้ คุณสามารถเข้าถึงคุณลักษณะนี้ล่วงหน้าเพื่อช่วยปรับปรุงให้เราสร้างเว็บที่ดีขึ้นสำหรับทุกคนได้
 spotlight-total-cookie-protection-primary-button = เปิดการป้องกันคุกกี้ทั้งหมด
 spotlight-total-cookie-protection-secondary-button = ไม่ใช่ตอนนี้
+cfr-total-cookie-protection-header = ขอขอบคุณที่เป็นส่วนหนึ่งที่ทำให้ { -brand-short-name } เป็นส่วนตัวและปลอดภัยขึ้นกว่าเดิม
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = การป้องกันคุกกี้ทั้งหมดคือการปกป้องความเป็นส่วนตัวที่แข็งแกร่งที่สุดของเรา และได้ถูกกำหนดเป็นการตั้งค่าเริ่มต้นสำหรับผู้ใช้ { -brand-short-name } ทุกที่ในขณะนี้ เราไม่อาจทำสิ่งนี้ได้หากไม่มีผู้เข้าร่วมที่ได้สิทธิ์เข้าถึงก่อนเปิดตัวเช่นคุณ จึงขอขอบคุณที่ช่วยเราสร้างอินเทอร์เน็ตที่ดีและเป็นส่วนตัวมากขึ้น
 
 ## Emotive Continuous Onboarding
 
@@ -202,3 +206,6 @@ firefoxview-cfr-secondarybutton = ไม่ใช่ตอนนี้
 
 firefoxview-spotlight-promo-primarybutton = ดูวิธีการทำงาน
 firefoxview-spotlight-promo-secondarybutton = ข้าม
+
+## Colorways expiry reminder CFR
+
