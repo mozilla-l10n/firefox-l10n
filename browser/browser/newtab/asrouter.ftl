@@ -227,6 +227,8 @@ firefoxview-spotlight-promo-secondarybutton = Preskoči
 
 colorways-cfr-primarybutton = Izberi barvno kombinacijo
     .accesskey = I
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Obarvajte svoj brskalnik v ekskluzivne { -brand-short-name }ove odtenke, navdihnjene z glasovi, ki so spreminjali kulturo.
 colorways-cfr-header-28days = Barvne kombinacije Neodvisni glasovi potečejo 16. januarja
 colorways-cfr-header-14days = Barvne kombinacije Neodvisni glasovi potečejo čez dva tedna
 colorways-cfr-header-7days = Barvne kombinacije Neodvisni glasovi potečejo ta teden
