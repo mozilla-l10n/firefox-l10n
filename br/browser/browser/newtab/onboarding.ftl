@@ -268,6 +268,12 @@ mr2022-onboarding-secondary-skip-button-label = Tremen ar bazenn-mañ
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Dizoloit un internet digredus
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Mirout { -brand-short-name } en dok
+       *[other] Spilhennañ { -brand-short-name } er varrenn ostilhoù
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
