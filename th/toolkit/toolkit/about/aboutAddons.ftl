@@ -3,116 +3,82 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ตัวจัดการส่วนเสริม
-
 search-header =
     .placeholder = ค้นหา addons.mozilla.org
     .searchbuttonlabel = ค้นหา
-
 search-header-shortcut =
     .key = f
-
-list-empty-get-extensions-message = รับส่วนขยายและชุดตกแต่งบน <a data-l10n-name="get-extensions">{ $domain }</a>
-
+list-empty-get-extensions-message = รับส่วนขยายและธีมบน <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = รับพจนานุกรมบน <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-language-packs-message = รับชุดภาษาบน <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = คุณไม่ได้ติดตั้งส่วนเสริมประเภทนี้ไว้
-
 list-empty-available-updates =
     .value = ไม่พบการอัปเดต
-
 list-empty-recent-updates =
     .value = คุณไม่ได้อัปเดตส่วนเสริมใด ๆ เมื่อเร็ว ๆ นี้
-
 list-empty-find-updates =
     .label = ตรวจสอบการอัปเดต
-
 list-empty-button =
     .label = เรียนรู้เพิ่มเติมเกี่ยวกับส่วนเสริม
-
 help-button = การสนับสนุนของส่วนเสริม
 sidebar-help-button-title =
     .title = การสนับสนุนของส่วนเสริม
-
 addons-settings-button = การตั้งค่า { -brand-short-name }
 sidebar-settings-button-title =
     .title = การตั้งค่า { -brand-short-name }
-
 show-unsigned-extensions-button =
     .label = ไม่สามารถยืนยันส่วนขยายบางตัว
-
 show-all-extensions-button =
     .label = แสดงส่วนขยายทั้งหมด
-
 detail-version =
     .label = รุ่น
-
 detail-last-updated =
     .label = อัปเดตล่าสุด
-
 addon-detail-description-expand = แสดงเพิ่มเติม
 addon-detail-description-collapse = แสดงน้อยลง
-
 detail-contributions-description = นักพัฒนาส่วนเสริมนี้ใคร่ขอให้คุณช่วยสนับสนุนการพัฒนาอย่างต่อเนื่องโดยการสมทบทุนสักเล็กน้อย
-
 detail-contributions-button = มีส่วนร่วม
     .title = มีส่วนร่วมกับการพัฒนาส่วนเสริมนี้
     .accesskey = ม
-
 detail-update-type =
     .value = การอัปเดตอัตโนมัติ
-
 detail-update-default =
     .label = ค่าเริ่มต้น
     .tooltiptext = ติดตั้งการอัปเดตโดยอัตโนมัติเฉพาะเมื่อเป็นค่าเริ่มต้น
-
 detail-update-automatic =
     .label = เปิด
     .tooltiptext = ติดตั้งการอัปเดตโดยอัตโนมัติ
-
 detail-update-manual =
     .label = ปิด
     .tooltiptext = ไม่ติดตั้งการอัปเดตโดยอัตโนมัติ
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = เรียกใช้ในหน้าต่างส่วนตัว
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ไม่อนุญาตในหน้าต่างส่วนตัว
 detail-private-disallowed-description2 = ส่วนขยายนี้จะไม่ทำงานในขณะที่เรียกดูแบบส่วนตัว<a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = จำเป็นต้องเข้าถึงหน้าต่างแบบส่วนตัว
 detail-private-required-description2 = ส่วนขยายนี้สามารถเข้าถึงกิจกรรมออนไลน์ของคุณในขณะที่เรียกดูแบบส่วนตัว<a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
-
 detail-private-browsing-on =
     .label = อนุญาต
     .tooltiptext = เปิดใช้งานในการเรียกดูแบบส่วนตัว
-
 detail-private-browsing-off =
     .label = ไม่อนุญาต
     .tooltiptext = ปิดใช้งานในการเรียกดูแบบส่วนตัว
-
 detail-home =
     .label = หน้าแรก
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = โปรไฟล์ส่วนเสริม
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = ตรวจสอบการอัปเดต
     .accesskey = ต
     .tooltiptext = ตรวจสอบการอัปเดตสำหรับส่วนเสริมนี้
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -129,47 +95,35 @@ detail-show-preferences =
             [windows] เปลี่ยนตัวเลือกของส่วนเสริมนี้
            *[other] เปลี่ยนการกำหนดลักษณะของส่วนเสริมนี้
         }
-
 detail-rating =
     .value = การจัดอันดับ
-
 addon-restart-now =
     .label = เริ่มการทำงานใหม่ตอนนี้
-
 disabled-unsigned-heading =
     .value = ส่วนเสริมบางตัวถูกปิดใช้งาน
-
 disabled-unsigned-description = ส่วนเสริมดังต่อไปนี้ไม่ได้รับการยืนยันสำหรับใช้ใน { -brand-short-name } คุณสามารถ <label data-l10n-name="find-addons">ค้นหาตัวทดแทน</label> หรือขอนักพัฒนาให้นำส่วนเสริมไปรับการยืนยัน
-
 disabled-unsigned-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับความพยายามของเราที่ช่วยให้คุณปลอดภัยขณะออนไลน์
-
 disabled-unsigned-devinfo = นักพัฒนาที่สนใจนำส่วนเสริมของเขาไปรับการยืนยันสามารถดำเนินการต่อโดยอ่าน <label data-l10n-name="learn-more">ด้วยตนเอง</label>
-
 plugin-deprecation-description = มีบางอย่างขาดหายไป? ปลั๊กอินบางตัวไม่ได้รับการสนับสนุนโดย { -brand-short-name } อีกต่อไป <label data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</label>
-
 legacy-warning-show-legacy = แสดงส่วนขยายแบบเก่า
-
 legacy-extensions =
     .value = ส่วนขยายแบบเก่า
-
 legacy-extensions-description = ส่วนขยายเหล่านี้ไม่ตรงตามมาตรฐานปัจจุบันของ { -brand-short-name } จึงถูกปิดใช้งาน <label data-l10n-name="legacy-learn-more">เรียนรู้เกี่ยวกับการเปลี่ยนแปลงกับส่วนเสริม</label>
-
 private-browsing-description2 =
     { -brand-short-name } กำลังเปลี่ยนวิธีที่ส่วนขยายทำงานในขณะที่เรียกดูแบบส่วนตัว ส่วนขยายใด ๆ ที่คุณเพิ่มไปยัง { -brand-short-name }
     จะไม่ทำงานตามค่าเริ่มต้นในหน้าต่างแบบส่วนตัว นอกจากคุณจะอนุญาตในการตั้งค่า ส่วนขยายจะไม่ทำงาน
     ในขณะที่เรียกดูแบบส่วนตัว และจะไม่สามารถเข้าถึงกิจกรรมออนไลน์ของคุณที่นั่นได้ เราได้ทำการเปลี่ยนแปลง
     นี้เพื่อรักษาความเป็นส่วนตัวให้กับการเรียกดูแบบส่วนตัวของคุณ
     <label data-l10n-name="private-browsing-learn-more">เรียนรู้วิธีจัดการการตั้งค่าส่วนขยาย</label>
-
 addon-category-discover = คำแนะนำ
 addon-category-discover-title =
     .title = คำแนะนำ
 addon-category-extension = ส่วนขยาย
 addon-category-extension-title =
     .title = ส่วนขยาย
-addon-category-theme = ชุดตกแต่ง
+addon-category-theme = ธีม
 addon-category-theme-title =
-    .title = ชุดตกแต่ง
+    .title = ธีม
 addon-category-plugin = ปลั๊กอิน
 addon-category-plugin-title =
     .title = ปลั๊กอิน
@@ -244,42 +198,33 @@ addon-open-about-debugging = ดีบั๊กส่วนเสริม
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = จัดการทางลัดส่วนขยาย
     .accesskey = จ
-
 shortcuts-no-addons = คุณไม่ได้เปิดใช้งานส่วนขยายใด ๆ
 shortcuts-no-commands = ส่วนขยายดังต่อไปนี้ไม่มีทางลัด:
 shortcuts-input =
     .placeholder = พิมพ์ทางลัด
-
 shortcuts-browserAction2 = เปิดใช้งานปุ่มแถบเครื่องมือ
 shortcuts-pageAction = เปิดใช้งานการกระทำหน้า
 shortcuts-sidebarAction = เปิด/ปิดแถบข้าง
-
 shortcuts-modifier-mac = รวม Ctrl, Alt หรือ ⌘
 shortcuts-modifier-other = รวม Ctrl หรือ Alt
 shortcuts-invalid = ลำดับแป้นพิมพ์ไม่ถูกต้อง
 shortcuts-letter = พิมพ์ตัวอักษร
 shortcuts-system = ไม่สามารถเขียนทับทางลัด { -brand-short-name }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = ทางลัดซ้ำกัน
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } กำลังถูกใช้เป็นทางลัดในกรณีมากกว่าหนึ่งกรณี ทางลัดที่ซ้ำกันอาจทำให้เกิดลักษณะการทำงานที่ไม่คาดคิด
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = มีการใช้งานอยู่แล้วโดย { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] แสดงเพิ่มเติมอีก { $numberToShow }
     }
-
 shortcuts-card-collapse-button = แสดงน้อยลง
-
 header-back-button =
     .title = ย้อนกลับ
 
@@ -288,20 +233,17 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    ส่วนขยายและชุดตกแต่งเป็นเหมือนแอปสำหรับเบราว์เซอร์ของคุณ ซึ่งให้คุณป้องกัน
+    ส่วนขยายและธีมเป็นเหมือนแอปสำหรับเบราว์เซอร์ของคุณ ซึ่งให้คุณป้องกัน
     รหัสผ่าน, ดาวน์โหลดวิดีโอ, ค้นหาดีล, ปิดกั้นโฆษณาที่น่ารำคาญ, เปลี่ยนรูปลักษณ์ของ
     เบราว์เซอร์ของคุณ, และอื่น ๆ อีกมากมาย โปรแกรมซอฟต์แวร์ขนาดเล็กเหล่านั้นมักถูก
     พัฒนาโดยบุคคลที่สาม นี่คือตัวเลือกที่ { -brand-product-name } <a data-l10n-name="learn-more-trigger">แนะนำ</a>เพื่อ
     ความปลอดภัย, ประสิทธิภาพ, และการทำงานที่ดีกว่า
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     บางคำแนะนำเหล่านี้ถูกปรับเปลี่ยนตามแบบส่วนบุคคล ซึ่งขึ้นอยู่กับส่วนขยายอื่นที่คุณติดตั้ง,
     ค่ากำหนดโปรไฟล์, และสถิติการใช้งาน
 discopane-notice-learn-more = เรียนรู้เพิ่มเติม
-
 privacy-policy = นโยบายความเป็นส่วนตัว
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -311,13 +253,12 @@ created-by-author = โดย <a data-l10n-name="author">{ $author }</a>
 #   $dailyUsers (number) - The number of daily users.
 user-count = ผู้ใช้: { $dailyUsers }
 install-extension-button = เพิ่มลงใน { -brand-product-name }
-install-theme-button = ติดตั้งชุดตกแต่ง
+install-theme-button = ติดตั้งธีม
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = จัดการ
 find-more-addons = ค้นหาส่วนเสริมเพิ่มเติม
-find-more-themes = ค้นหาชุดตกแต่งเพิ่มเติม
-
+find-more-themes = ค้นหาธีมเพิ่มเติม
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -343,16 +284,13 @@ preferences-addon-button =
 details-addon-button = รายละเอียด
 release-notes-addon-button = บันทึกประจำรุ่น
 permissions-addon-button = การอนุญาต
-
 extension-enabled-heading = ถูกเปิดใช้งาน
 extension-disabled-heading = ถูกปิดใช้งาน
-
-theme-enabled-heading = ถูกเปิดใช้งาน
-theme-disabled-heading = ถูกปิดใช้งาน
-theme-disabled-heading2 = ชุดตกแต่งที่บันทึกไว้
+theme-enabled-heading = เปิดใช้งาน
+theme-disabled-heading = ปิดใช้งาน
+theme-disabled-heading2 = ธีมที่บันทึกไว้
 theme-monochromatic-heading = ชุดรูปแบบสี
 theme-monochromatic-subheading = ชุดรูปแบบใหม่ที่สดใสจาก { -brand-product-name } มีให้ใช้ในช่วงเวลาจำกัด
-
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = ลอง Colorways
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
@@ -360,43 +298,33 @@ theme-colorways-button-colorway-enabled = เปลี่ยนชุดรู�
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = หมดอายุ { DATETIME($expiryDate, month: "long", day: "numeric") }
-
 plugin-enabled-heading = ถูกเปิดใช้งาน
 plugin-disabled-heading = ถูกปิดใช้งาน
-
 dictionary-enabled-heading = ถูกเปิดใช้งาน
 dictionary-disabled-heading = ถูกปิดใช้งาน
-
 locale-enabled-heading = ถูกเปิดใช้งาน
 locale-disabled-heading = ถูกปิดใช้งาน
-
 sitepermission-enabled-heading = เปิดใช้งานอยู่
 sitepermission-disabled-heading = ปิดใช้งานอยู่
-
 always-activate-button = เปิดใช้งานเสมอ
 never-activate-button = ไม่เปิดใช้งานเสมอ
-
 addon-detail-author-label = ผู้สร้าง
 addon-detail-version-label = รุ่น
 addon-detail-last-updated-label = อัปเดตล่าสุด
 addon-detail-homepage-label = หน้าแรก
 addon-detail-rating-label = การจัดอันดับ
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = ส่วนขยายนี้จะถูกอัปเดตเมื่อ { -brand-short-name } เริ่มการทำงานใหม่
 install-postponed-button = อัปเดตตอนนี้
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = ได้รับการจัดอันดับ { NUMBER($rating, maximumFractionDigits: 1) } จาก 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (ปิดใช้งานอยู่)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -411,14 +339,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = เอา <span data-l10n-name="addon-name">{ $addon }</span> ออกแล้ว
 pending-uninstall-undo-button = เลิกทำ
-
 addon-detail-updates-label = อนุญาตให้อัปเดตโดยอัตโนมัติ
 addon-detail-updates-radio-default = ค่าเริ่มต้น
 addon-detail-updates-radio-on = เปิด
 addon-detail-updates-radio-off = ปิด
 addon-detail-update-check-label = ตรวจสอบการอัปเดต
 install-update-button = อัปเดต
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -447,28 +373,23 @@ addon-badge-verified2 =
 
 available-updates-heading = การอัปเดตที่มี
 recent-updates-heading = การอัปเดตล่าสุด
-
 release-notes-loading = กำลังโหลด…
 release-notes-error = ขออภัย แต่เกิดข้อผิดพลาดในการโหลดบันทึกประจำรุ่น
-
 addon-permissions-empty = ส่วนขยายนี้ไม่ต้องการการอนุญาตใด ๆ
 addon-permissions-required = สิทธิอนุญาตที่ต้องการสำหรับฟังก์ชันการทำงานหลัก:
 addon-permissions-optional = สิทธิอนุญาตที่เลือกได้สำหรับฟังก์ชันการทำงานที่เพิ่ม:
 addon-permissions-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับสิทธิอนุญาต
-
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
-recommended-themes-heading = ชุดตกแต่งที่แนะนำ
-
+recommended-themes-heading = ธีมที่แนะนำ
 addon-sitepermissions-required = มอบความสามารถต่อไปนี้ให้ <span data-l10n-name="hostname">{ $hostname }</span>:
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = รู้สึกสร้างสรรค์ใช่ไหม? <a data-l10n-name="link">สร้างชุดตกแต่งในรูปแบบของคุณเองด้วย Firefox Color</a>
+recommended-theme-1 = รู้สึกสร้างสรรค์ใช่ไหม? <a data-l10n-name="link">สร้างธีมในรูปแบบของคุณเองด้วย Firefox Color</a>
 
 ## Page headings
 
 extension-heading = จัดการส่วนขยายของคุณ
-theme-heading = จัดการชุดตกแต่งของคุณ
+theme-heading = จัดการธีมของคุณ
 plugin-heading = จัดการปลั๊กอินของคุณ
 dictionary-heading = จัดการพจนานุกรมของคุณ
 locale-heading = จัดการภาษาของคุณ
@@ -476,11 +397,9 @@ updates-heading = จัดการการอัปเดตของคุ�
 sitepermission-heading = จัดการสิทธิอนุญาตไซต์ของคุณ
 discover-heading = ปรับแต่ง { -brand-short-name } ของคุณ
 shortcuts-heading = จัดการทางลัดส่วนขยาย
-
 default-heading-search-label = ค้นหาส่วนเสริมเพิ่มเติม
 addons-heading-search-input =
     .placeholder = ค้นหา addons.mozilla.org
-
 addon-page-options-button =
     .title = เครื่องมือสำหรับส่วนเสริมทั้งหมด
 
@@ -491,19 +410,13 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } เข้ากันไม่ได้กับ { -brand-short-name } { $version }
-
 details-notification-incompatible-link = ข้อมูลเพิ่มเติม
-
 details-notification-unsigned-and-disabled = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } และถูกปิดใช้งาน
 details-notification-unsigned-and-disabled-link = ข้อมูลเพิ่มเติม
-
 details-notification-unsigned = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } ดำเนินการต่อด้วยความระมัดระวัง
 details-notification-unsigned-link = ข้อมูลเพิ่มเติม
-
 details-notification-blocked = { $name } ถูกปิดใช้งานเนื่องจากปัญหาด้านความปลอดภัยหรือเสถียรภาพ
 details-notification-blocked-link = ข้อมูลเพิ่มเติม
-
 details-notification-softblocked = { $name } เป็นที่ทราบว่าก่อให้เกิดปัญหาด้านความปลอดภัยหรือเสถียรภาพ
 details-notification-softblocked-link = ข้อมูลเพิ่มเติม
-
 details-notification-gmp-pending = { $name } จะถูกติดตั้งในไม่ช้า
