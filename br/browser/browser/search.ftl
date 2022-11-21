@@ -30,4 +30,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+removed-search-engine-message = <strong>Cheñchet eo bet ho lusker enklask dre ziouer.</strong>{ $oldEngine } n'eo ket hegerz ken evel lusker enklask dre ziouer gant { -brand-short-name }. Diwar-vremañ eo { $newEngine } ho lusker enklask dre-ziouer. Evit cheñch ho lusker enklask dre ziouer, mont d'an arventennoù. <label data-l10n-name="remove-search-engine-article">Gouzout hiroc'h</label>
 remove-search-engine-button = Mat eo
