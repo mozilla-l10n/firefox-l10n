@@ -316,8 +316,8 @@ quickactions-cmd-screenshot = ภาพหน้าจอ
 quickactions-settings = เปิดการตั้งค่า
 quickactions-cmd-settings = การตั้งค่า ค่ากำหนด ตัวเลือก
 # Opens about:addons page in the themes section
-quickactions-themes = จัดการชุดตกแต่ง
-quickactions-cmd-themes = ชุดตกแต่ง
+quickactions-themes = จัดการธีม
+quickactions-cmd-themes = ธีม
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ปรับปรุง { -brand-short-name }
 quickactions-cmd-update = อัปเดต
@@ -766,8 +766,8 @@ repair-text-encoding-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open the add-ons manager
 toolbar-addons-themes-button =
-    .label = ส่วนเสริมและชุดตกแต่ง
-    .tooltiptext = จัดการส่วนเสริมและชุดตกแต่งของคุณ ({ $shortcut })
+    .label = ส่วนเสริมและธีม
+    .tooltiptext = จัดการส่วนเสริมและธีมของคุณ ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

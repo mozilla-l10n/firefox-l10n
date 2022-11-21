@@ -54,7 +54,7 @@ app-basics-enabled-plugins = ปลั๊กอินที่เปิดใช
 app-basics-build-config = การกำหนดค่าการสร้าง
 app-basics-user-agent = ตัวแทนผู้ใช้
 app-basics-os = ระบบปฏิบัติการ
-app-basics-os-theme = ชุดตกแต่งของระบบปฏิบัติการ
+app-basics-os-theme = ธีมของระบบปฏิบัติการ
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = แปลด้วย Rosetta

@@ -40,4 +40,6 @@ callout-pdfjs-edit-button = ถัดไป
 callout-pdfjs-draw-title = เซ็นชื่อในเอกสารด้วยเครื่องมือวาดใหม่ของเรา
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = มาร์กอัป PDF แล้วบันทึกการเปลี่ยนแปลงของคุณ
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = ไม่ต้องพิมพ์และสแกนอีกต่อไป มาร์กอัป PDF แล้วบันทึกการเปลี่ยนแปลงของคุณ
 callout-pdfjs-draw-button = เข้าใจแล้ว!

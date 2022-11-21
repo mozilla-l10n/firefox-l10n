@@ -48,7 +48,7 @@ pane-experimental-reset =
     .label = เรียกคืนค่าเริ่มต้น
     .accesskey = R
 help-button-label = การสนับสนุนของ { -brand-short-name }
-addons-button-label = ส่วนขยายและชุดตกแต่ง
+addons-button-label = ส่วนขยายและธีม
 focus-search =
     .key = f
 close-button =
@@ -170,17 +170,17 @@ containers-remove-cancel-button = ไม่เอาการแยกข้อ�
 language-and-appearance-header = ภาษาและลักษณะที่ปรากฏ
 preferences-web-appearance-header = ลักษณะที่ปรากฏของเว็บไซต์
 preferences-web-appearance-description = บางเว็บไซต์ปรับโทนสีตามการกำหนดลักษณะของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
-preferences-web-appearance-choice-browser = ชุดตกแต่ง { -brand-short-name }
-preferences-web-appearance-choice-system = ชุดตกแต่งระบบ
+preferences-web-appearance-choice-browser = ธีมของ { -brand-short-name }
+preferences-web-appearance-choice-system = ธีมของระบบ
 preferences-web-appearance-choice-auto = อัตโนมัติ
 preferences-web-appearance-choice-light = สว่าง
 preferences-web-appearance-choice-dark = มืด
 preferences-web-appearance-choice-tooltip-browser =
-    .title = จับคู่การตั้งค่าชุดตกแต่ง { -brand-short-name } ของคุณสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+    .title = จับคู่การตั้งค่าธีม { -brand-short-name } ของคุณสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-tooltip-system =
     .title = จับคู่การตั้งค่าระบบของคุณสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-tooltip-auto =
-    .title = เปลี่ยนพื้นหลังและเนื้อหาของเว็บไซต์โดยอัตโนมัติตามการตั้งค่าระบบและชุดตกแต่ง { -brand-short-name }
+    .title = เปลี่ยนพื้นหลังและเนื้อหาของเว็บไซต์โดยอัตโนมัติตามการตั้งค่าระบบและธีมของ { -brand-short-name }
 preferences-web-appearance-choice-tooltip-light =
     .title = ใช้ลักษณะที่ปรากฏแบบสว่างสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-tooltip-dark =
@@ -200,7 +200,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = การเลือกสีของคุณมีผลเหนือลักษณะที่ปรากฏของเว็บไซต์ <a data-l10n-name="colors-link">จัดการสี</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = จัดการ { -brand-short-name } ชุดตกแต่ง ใน <a data-l10n-name="themes-link"> ส่วนขยายและชุดตกแต่ง </a>
+preferences-web-appearance-footer = จัดการธีมของ { -brand-short-name } ใน <a data-l10n-name="themes-link">ส่วนขยายและธีม</a>
 preferences-colors-header = สี
 preferences-colors-description = แทนที่สีเริ่มต้นของ { -brand-short-name } สำหรับข้อความ พื้นหลังของเว็บไซต์ และลิงก์
 preferences-colors-manage-button =

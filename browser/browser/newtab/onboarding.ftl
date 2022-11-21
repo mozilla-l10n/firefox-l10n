@@ -23,7 +23,7 @@ return-to-amo-subtitle = เยี่ยม คุณได้ติดตั้
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = ตอนนี้มาติดตั้ง <img data-l10n-name="icon"/> <b>{ $addon-name }</b> กันเลย
 return-to-amo-add-extension-label = เพิ่มส่วนขยาย
-return-to-amo-add-theme-label = เพิ่มชุดตกแต่ง
+return-to-amo-add-theme-label = เพิ่มธีม
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -122,11 +122,11 @@ mr2-onboarding-theme-label-auto = อัตโนมัติ
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ค่าเริ่มต้น
 mr1-onboarding-theme-header = ทำให้เป็นของคุณเอง
-mr1-onboarding-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยชุดตกแต่ง
-mr1-onboarding-theme-primary-button-label = บันทึกชุดตกแต่ง
+mr1-onboarding-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยธีม
+mr1-onboarding-theme-primary-button-label = บันทึกธีม
 mr1-onboarding-theme-secondary-button-label = ไม่ใช่ตอนนี้
 # System theme uses operating system color settings
-mr1-onboarding-theme-label-system = ชุดตกแต่งระบบ
+mr1-onboarding-theme-label-system = ธีมของระบบ
 mr1-onboarding-theme-label-light = สว่าง
 mr1-onboarding-theme-label-dark = มืด
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -141,42 +141,42 @@ onboarding-theme-primary-button-label = เสร็จสิ้น
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
-        ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่าง
+        ใช้ธีมสำหรับปุ่ม เมนู และหน้าต่าง
         ตามระบบปฏิบัติการ
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
-        ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่าง
+        ใช้ธีมสำหรับปุ่ม เมนู และหน้าต่าง
         ตามระบบปฏิบัติการ
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
-        ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม
+        ใช้ธีมแบบสว่างสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
-        ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม
+        ใช้ธีมแบบสว่างสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
-        ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม
+        ใช้ธีมแบบมืดสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
-        ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม
+        ใช้ธีมแบบมืดสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
-        ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม
+        ใช้ธีมแบบไดนามิกที่มีสีสันสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
-        ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม
+        ใช้ธีมแบบไดนามิกที่มีสีสันสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
@@ -197,9 +197,9 @@ mr2-onboarding-colorway-tooltip =
 mr2-onboarding-colorway-label = สำรวจชุดรูปแบบสี { $colorwayName }
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
-    .title = สำรวจชุดตกแต่งเริ่มต้น
+    .title = สำรวจธีมเริ่มต้น
 # Selector description for default themes
-mr2-onboarding-default-theme-label = สำรวจชุดตกแต่งเริ่มต้น
+mr2-onboarding-default-theme-label = สำรวจธีมเริ่มต้น
 
 ## Strings for Thank You page
 
@@ -328,44 +328,30 @@ mr2022-onboarding-colorway-subtitle = เสียงที่เป็นอิ
 mr2022-onboarding-colorway-primary-button-label-continue = ตั้งค่าและดำเนินการต่อ
 mr2022-onboarding-existing-colorway-checkbox-label = ทำให้ { -firefox-home-brand-name } เป็นหน้าแรกที่เต็มไปด้วยสีสันของคุณ
 mr2022-onboarding-colorway-label-default = ค่าเริ่มต้น
-mr2022-onboarding-colorway-tooltip-default =
-    .title = ค่าเริ่มต้น
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = สี { -brand-short-name } ปัจจุบัน
 mr2022-onboarding-colorway-description-default = <b>ใช้สี { -brand-short-name } ปัจจุบันของฉัน</b>
 mr2022-onboarding-colorway-label-playmaker = เพลย์เมคเกอร์
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = เพลย์เมคเกอร์
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = เพลย์เมคเกอร์ (แดง)
 mr2022-onboarding-colorway-description-playmaker = <b>คุณคือเพลย์เมคเกอร์</b> คุณสร้างโอกาสในการชนะและช่วยทุกคนรอบตัวคุณยกระดับความสามารถในการเล่นเกมของพวกเขา
 mr2022-onboarding-colorway-label-expressionist = นักแสดงออก
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = นักแสดงออก
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = นักแสดงออก (เหลือง)
 mr2022-onboarding-colorway-description-expressionist = <b>คุณคือนักแสดงออก</b> คุณมองโลกแตกต่างออกไปและการสร้างสรรค์ของคุณก็กระตุ้นอารมณ์ของผู้อื่น
 mr2022-onboarding-colorway-label-visionary = ผู้มีวิสัยทัศน์
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = ผู้มีวิสัยทัศน์
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = ผู้มีวิสัยทัศน์ (เขียว)
 mr2022-onboarding-colorway-description-visionary = <b>คุณคือผู้มีวิสัยทัศน์</b> คุณตั้งคำถามกับสภาพที่เป็นอยู่และกระตุ้นให้ผู้อื่นจินตนาการถึงอนาคตที่ดีกว่า
 mr2022-onboarding-colorway-label-activist = นักกิจกรรม
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = นักกิจกรรม
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = นักกิจกรรม (น้ำเงิน)
 mr2022-onboarding-colorway-description-activist = <b>คุณคือนักกิจกรรม</b> คุณทำให้โลกนี้เป็นสถานที่ที่ดียิ่งขึ้นและชักนำให้ผู้อื่นเชื่อคุณ
 mr2022-onboarding-colorway-label-dreamer = คนช่างฝัน
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = คนช่างฝัน
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = คนช่างฝัน (ม่วง)
 mr2022-onboarding-colorway-description-dreamer = <b>คุณคือคนช่างฝัน</b> คุณเชื่อว่าโชคเข้าข้างผู้กล้าเสมอและเป็นแรงบันดาลใจให้ผู้อื่นกล้า
 mr2022-onboarding-colorway-label-innovator = นักนวัตกรรม
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = นักนวัตกรรม
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = นักนวัตกรรม (ส้ม)
 mr2022-onboarding-colorway-description-innovator = <b>คุณคือนักนวัตกรรม</b> คุณมองเห็นโอกาสทุกที่และสร้างอิทธิพลต่อชีวิตของทุกคนรอบตัวคุณ

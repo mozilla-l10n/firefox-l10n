@@ -37,15 +37,13 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = ไม่ใช่ตอนนี้
     .secondarybuttonaccesskey = ม
 appmenu-update-other-instance-message = มีการอัปเดต { -brand-shorter-name } ใหม่ แต่ไม่สามารถติดตั้งได้เนื่องจาก { -brand-shorter-name } โปรแกรมอื่นกำลังทำงานอยู่ ให้ปิดโปรแกรมเพื่ออัปเดตต่อ หรือเลือกอัปเดตต่อโดยไม่ปิดโปรแกรมก็ได้ (โปรแกรมอื่นอาจไม่ทำงานอย่างถูกต้องจนกว่าคุณจะเริ่มการทำงานใหม่)
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ตกลง
     .buttonaccesskey = O
-appmenu-addon-post-install-message3 = จัดการส่วนเสริมและชุดตกแต่งของคุณได้ผ่านเมนูแอปพลิเคชัน
+appmenu-addon-post-install-message3 = จัดการส่วนเสริมและธีมของคุณได้ผ่านเมนูแอปพลิเคชัน
 appmenu-addon-post-install-incognito-checkbox =
     .label = อนุญาตให้ส่วนขยายนี้ทำงานในหน้าต่างส่วนตัว
     .accesskey = อ
-    
 appmenu-new-tab-controlled-changes =
     .label = แท็บใหม่ของคุณมีการเปลี่ยนแปลง
     .buttonlabel = เก็บการเปลี่ยนแปลง
