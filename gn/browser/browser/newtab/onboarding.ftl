@@ -305,6 +305,9 @@ mr2022-onboarding-set-default-subtitle = Eipuru peteĩ kundahára atyguasu viru�
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Ore rembiapo ipyahuvéva rojapo ndéve g̃uarã, eikundaha hag̃ua apañuãi’ỹre. Oreko heta tembiapoite ro’éva ehayhutaha.
 mr2022-onboarding-get-started-primary-button-label = Emboheko sapy’aitépe
 
 ## MR2022 Import Settings screen strings
@@ -378,6 +381,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Ehechauka marand
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Nereipytyvõi oiko hag̃ua ñanduti iporãvéva.
+mr2022-onboarding-gratitude-subtitle = Aguyje eipuru haguére { -brand-short-name }, oykekóva Fundación Mozilla. Nepytyvõ rupive, romba’apo ñanduti ijuruja hag̃ua, ojepurukuaáva ha iporãvéva opavavépe g̃uarã.
 mr2022-onboarding-gratitude-primary-button-label = Ehecha mba’epyahu
 mr2022-onboarding-gratitude-secondary-button-label = Eñepyrũ eikundaha
 
