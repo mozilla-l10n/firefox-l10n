@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Navigatzione privada de { -brand-shortcut-name }
 
 ##
@@ -118,7 +120,7 @@ urlbar-password-notification-anchor =
 urlbar-translated-notification-anchor =
     .tooltiptext = Manìgia sa tradutzione de sa pàgina
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Gesti s'impreu de estensiones
+    .tooltiptext = Gesti s'impreu de plugins
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gesti sa cumpartzidura de sa fotocàmera e de su micròfonu cun su situ
 # "Speakers" is used in a general sense that might include headphones or
@@ -289,8 +291,8 @@ quickactions-cmd-extensions = estensiones
 quickactions-logins = Ammustra is credentziales
 quickactions-cmd-logins = credentziales, craes
 # Opens about:addons page in the plugins section
-quickactions-plugins = Gesti is cumplementos
-quickactions-cmd-plugins = cumplementos
+quickactions-plugins = Gesti is plugins
+quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprenta
 quickactions-cmd-print = imprenta

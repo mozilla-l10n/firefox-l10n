@@ -3,112 +3,79 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Gestore de cumplementos
-
 search-header =
     .placeholder = Chirca in addons.mozilla.org
     .searchbuttonlabel = Chirca
-
 search-header-shortcut =
     .key = f
-
 list-empty-get-extensions-message = Otene estensiones e temas dae <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-dictionaries-message = Otene ditzionàrios dae <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-language-packs-message = Otene pachetes de limba dae <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = Non tenes installadu nissunu cumplementu de custa genia
-
 list-empty-available-updates =
     .value = Nissuna atualizatzione agatada
-
 list-empty-recent-updates =
     .value = No as atualizadu de reghente nissunu cumplementu
-
 list-empty-find-updates =
     .label = Controlla atualizatziones
-
 list-empty-button =
     .label = Leghe àteru subra is cumplementos
-
 help-button = Agiudu cun is cumplementos
 sidebar-help-button-title =
     .title = Agiudu cun is cumplementos
-
 addons-settings-button = Cunfiguratzione de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Cunfiguratzione de { -brand-short-name }
-
 show-unsigned-extensions-button =
     .label = Unas cantas estensiones no sunt istadas averiguadas
-
 show-all-extensions-button =
     .label = Ammustra totu is estensiones
-
 detail-version =
     .label = Versione
-
 detail-last-updated =
     .label = Ùrtima atualizatzione
-
 addon-detail-description-expand = Ammustra·nde de prus
 addon-detail-description-collapse = Ammustra·nde prus pagu
-
 detail-contributions-button = Contribui
     .title = Contribui a s'isvilupu de custu cumplementu
     .accesskey = C
-
 detail-update-type =
     .value = Atualizatziones in automàticu
-
 detail-update-default =
     .label = Predefinidas
     .tooltiptext = Installa atualizatziones in automàticu isceti si est sa cunfiguratzione predefinida
-
 detail-update-automatic =
     .label = Ativadas
     .tooltiptext = Installa atualizatziones in automàticu
-
 detail-update-manual =
     .label = Disativadas
     .tooltiptext = No installes is atualizatziones in automàticu
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Imprea in is ventanas privadas
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Disativada in is ventanas privadas
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Rechedet atzessu a is ventanas privadas
-
 detail-private-browsing-on =
     .label = Permite
     .tooltiptext = Ativa in sa navigatzione privada
-
 detail-private-browsing-off =
     .label = Non permitas
     .tooltiptext = Disativada in sa navigatzione privada
-
 detail-home =
     .label = Prima pàgina
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profilu de su cumplementu
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Controlla atualizatziones
     .accesskey = C
     .tooltiptext = Controlla is atualizatziones pro custu cumplementu
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -125,18 +92,13 @@ detail-show-preferences =
             [windows] Modìfica is optziones de custu cumplementu
            *[other] Modìfica is preferèntzias de custu cumplementu
         }
-
 detail-rating =
     .value = Valutatzione
-
 addon-restart-now =
     .label = Torra a aviare immoe
-
 disabled-unsigned-heading =
     .value = Unos cantos cumplementos sunt istados disativados
-
 disabled-unsigned-learn-more = Àteras informatziones subra de s'impìnniu nostru pro amparare sa seguresa tua in lìnia.
-
 addon-category-discover = Cussìgios
 addon-category-discover-title =
     .title = Cussìgios
@@ -146,9 +108,9 @@ addon-category-extension-title =
 addon-category-theme = Temas
 addon-category-theme-title =
     .title = Temas
-addon-category-plugin = Cumplementos
+addon-category-plugin = Plugins
 addon-category-plugin-title =
-    .title = Cumplementos
+    .title = Plugins
 addon-category-dictionary = Ditzionàrios
 addon-category-dictionary-title =
     .title = Ditzionàrios
@@ -214,51 +176,40 @@ addon-install-from-file-filter-name = Cumplementos
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Gesti is curtzadòrgios de is estensiones
     .accesskey = G
-
 shortcuts-no-addons = Nissuna estensione ativada.
 shortcuts-no-commands = Is estensiones imbenientes non tenent nissunu curtzadòrgiu:
 shortcuts-input =
     .placeholder = Iscrie unu curtzadòrgiu
-
 shortcuts-browserAction2 = Ativa su butone de sa barra de ainas
 shortcuts-pageAction = Ativa s'atzione de sa pàgina
 shortcuts-sidebarAction = Ammustra/cua sa barra laterale
-
 shortcuts-modifier-mac = Include Ctrl, Alt o ⌘
 shortcuts-modifier-other = Include Ctrl o Alt
 shortcuts-letter = Iscrie una lìtera
 shortcuts-system = Is curtzadòrgios de { -brand-short-name } non podent èssere sostituidos
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Curtzadòrgiu repìtidu
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } est giai impreadu comente curtzadòrgiu in prus de un'ocasione. Is curtzadòrgios repìtidos podent causare unu cumportamentu inabetadu.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Giai impreadu dae { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Ammustra·nde un'àteru
        *[other] Ammustra·nde àteros { $numberToShow }
     }
-
 shortcuts-card-collapse-button = Ammustra·nde prus pagu
-
 header-back-button =
     .title = A coa
 
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Àteras informatziones
-
 privacy-policy = Polìtica de sa riservadesa
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -274,7 +225,6 @@ install-theme-button = Installa su tema
 manage-addon-button = Gesti
 find-more-addons = Agata àteros cumplementos
 find-more-themes = Agata àteros temas
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -300,42 +250,32 @@ preferences-addon-button =
 details-addon-button = Detàllios
 release-notes-addon-button = Notas de sa versione
 permissions-addon-button = Permissos
-
 extension-enabled-heading = Ativadas
 extension-disabled-heading = Disativadas
-
 theme-enabled-heading = Ativadu
 theme-disabled-heading = Disativados
 theme-disabled-heading2 = Temas sarvados
-
 plugin-enabled-heading = Ativados
 plugin-disabled-heading = Disativados
-
 dictionary-enabled-heading = Ativados
 dictionary-disabled-heading = Disativados
-
 locale-enabled-heading = Ativadu
 locale-disabled-heading = Disativados
-
 always-activate-button = Ativa semper
 never-activate-button = No atives mai
-
 addon-detail-author-label = Autoria
 addon-detail-version-label = Versione
 addon-detail-last-updated-label = Ùrtima atualizatzione
 addon-detail-homepage-label = Pàgina printzipale
 addon-detail-rating-label = Valutatzione
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = Custa estensione at a èssere atualizada comente torras a aviare { -brand-short-name }.
 install-postponed-button = Agiorna immoe
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Valutadu cun { NUMBER($rating, maximumFractionDigits: 1) }/5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -344,14 +284,12 @@ addon-name-disabled = { $name } (disativadu)
 ## Pending uninstall message bar
 
 pending-uninstall-undo-button = Iscontza
-
 addon-detail-updates-label = Permite is atualizatziones in automàticu
 addon-detail-updates-radio-default = Predefinidu
 addon-detail-updates-radio-on = Eja
 addon-detail-updates-radio-off = Nono
 addon-detail-update-check-label = Controlla atualizatziones
 install-update-button = Agiorna
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -368,15 +306,13 @@ addon-detail-private-browsing-disallow = Non permitas
 
 available-updates-heading = Atualizatziones a disponimentu
 recent-updates-heading = Atualizatziones reghentes
-
 release-notes-loading = Carrighende…
-
 addon-permissions-learnmore = Àteras informatziones subra de is permissos
 
 ## Page headings
 
 theme-heading = Gesti is temas tuos
-plugin-heading = Gesti is cumplementos tuos
+plugin-heading = Gesti is plugins tuos
 dictionary-heading = Gesti is ditzionàrios tuos
 locale-heading = Gesti is lìnguas
 updates-heading = Gesti is atualizatziones tuas
@@ -388,16 +324,11 @@ updates-heading = Gesti is atualizatziones tuas
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } no est cumpatìbile cun { -brand-short-name } { $version }.
-
 details-notification-unsigned-and-disabled-link = Àteras informatziones
-
 details-notification-unsigned = { $name } no est averiguadu pro s'impreu in { -brand-short-name }. Sighi cun atentzione.
 details-notification-unsigned-link = Àteras informatziones
-
 details-notification-blocked = { $name } est istadu disativadu pro more de problemas de seguresa o de istabilidade.
 details-notification-blocked-link = Àteras informatziones
-
 details-notification-softblocked = { $name } podet generare problemas de seguresa e de istabilidade.
 details-notification-softblocked-link = Àteras informatziones
-
 details-notification-gmp-pending = { $name } at a èssere installadu de immoe a pagu.
