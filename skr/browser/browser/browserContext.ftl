@@ -58,6 +58,10 @@ toolbar-button-fxaccount =
 
 ##
 
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
 main-context-menu-media-play-speed-fast-2 =
     .label = 1.25×
 main-context-menu-media-play-speed-faster-2 =

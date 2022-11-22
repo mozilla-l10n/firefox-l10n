@@ -5,12 +5,25 @@
 
 ## The main browser window's title
 
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
 
 ##
 
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-tip-help-icon =
+    .title = مدد گھنو
+urlbar-search-tips-confirm-short = سمجھ گھدے
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = ٹوٹکا:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -36,6 +49,12 @@ urlbar-search-mode-actions = عمل
 
 ## Search Engine selection buttons (one-offs)
 
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
