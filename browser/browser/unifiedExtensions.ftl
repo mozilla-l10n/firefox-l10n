@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Upravljanje razširitve
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Pripni v orodno vrstico
 unified-extensions-context-menu-manage-extension =
     .label = Upravljaj razširitev
 unified-extensions-context-menu-remove-extension =
