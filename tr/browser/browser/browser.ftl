@@ -150,6 +150,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Daha az yazın, daha çok bulun: Adres çubuğunuzdan { $engineName } ile arama yapın.
 urlbar-search-tips-redirect-2 = { $engineName } ve gezinti geçmişinizden gelen önerileri görmek için adres çubuğunda arama yapmaya başlayın.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Arama yapmak artık daha basit. Aramanızı doğrudan adres çubuğunda düzenlemeyi deneyin. Bunun yerine adresi görmek isterseniz ayarlardaki Arama kısmına bakın.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Aradığınızı daha hızlı bulmak için bu kısayolu seçin.

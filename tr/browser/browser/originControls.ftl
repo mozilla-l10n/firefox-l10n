@@ -16,6 +16,12 @@ origin-controls-option-all-domains =
     .label = Tüm sitelerde
 origin-controls-option-when-clicked =
     .label = Yalnızca tıklandığında
+# This string denotes an option that grants the extension access to
+# the current site whenever they visit it.
+# Variables:
+#   $domain (String) - The domain for which the access is granted.
+origin-controls-option-always-on =
+    .label = { $domain } sitesinde her zaman izin ver
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
