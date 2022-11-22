@@ -221,6 +221,8 @@ firefoxview-spotlight-promo-secondarybutton = Geç
 
 colorways-cfr-primarybutton = Renk kuşağını seç
     .accesskey = R
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Kültürü değiştiren seslerden ilham alan { -brand-short-name } renkleriyle tarayıcınızı renklendirin.
 colorways-cfr-header-28days = Bağımsız Sesler renk kuşakları 16 Ocak’ta kullanımdan kalkıyor
 colorways-cfr-header-14days = Bağımsız Sesler renk kuşakları iki hafta sonra kullanımdan kalkıyor
 colorways-cfr-header-7days = Bağımsız Sesler renk kuşakları bu hafta kullanımdan kalkıyor
