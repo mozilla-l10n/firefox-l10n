@@ -391,6 +391,8 @@ mr2022-onboarding-gratitude-secondary-button-label = เริ่มเรีย
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = ทำตัวตามสบาย
+onboarding-infrequent-import-primary-button = นำเข้าไปยัง { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
