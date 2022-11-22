@@ -20,14 +20,18 @@ firefoxview-tabpickup-description = ເປີດໜ້າຈາກອຸປະ�
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% ສຳເລັດ
+firefoxview-tabpickup-step-signin-header = ສະຫຼັບລະຫວ່າງອຸປະກອນຢ່າງບໍ່ຕິດຂັດ
 firefoxview-tabpickup-step-signin-primarybutton = ສືບຕໍ່
 firefoxview-tabpickup-adddevice-learn-how = ຮຽນຮູ້ວິທີການ
+firefoxview-tabpickup-synctabs-header = ເປີດການຊິງຄ໌ແຖບ
 firefoxview-tabpickup-synctabs-learn-how = ຮຽນຮູ້ວິທີການ
+firefoxview-tabpickup-network-offline-header = ກວດເບິ່ງການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານ
 firefoxview-tabpickup-network-offline-primarybutton = ລອງໃໝ່ອີກຄັ້ງ
 firefoxview-tabpickup-sync-error-header = ພວກເຮົາມີບັນຫາໃນການຊິ້ງຂໍ້ມູນ
 firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກຄັ້ງ
 firefoxview-tabpickup-sync-disconnected-header = ເປີດການຊິງຄ໌ເພື່ອດຳເນີນການຕໍ່
 firefoxview-mobile-confirmation-header = 🎉 ດີຫຼາຍ!
+firefoxview-closed-tabs-title = ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 firefoxview-closed-tabs-placeholder-header = ບໍ່ມີແຖບທີ່ປິດເມື່ອບໍ່ດົນມານີ້
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ການເຄື່ອນໄຫວຫຼ້າສຸດ
