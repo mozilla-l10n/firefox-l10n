@@ -23,3 +23,7 @@ unified-extensions-item-open-menu =
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Apica a sa barra de ainas
+unified-extensions-context-menu-report-extension =
+    .label = Sinnala s'estensione
