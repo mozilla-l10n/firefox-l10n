@@ -56,6 +56,7 @@ firefoxview-closed-tabs-title = Son kapatılanlar
 firefoxview-closed-tabs-description2 = Kapattığınız sayfaları bu pencereden geri açabilirsiniz.
 firefoxview-closed-tabs-placeholder = <strong>Yakın zamanda kapatılan sayfa yok</strong><br/>Kapattığınız sekmeleri kaybetmekten korkmayın. Kapattığınız sekmeleri istediğiniz zaman buradan tekrar açabilirsiniz.
 firefoxview-closed-tabs-placeholder-header = Yakın zamanda kapatılmış sekme yok
+firefoxview-closed-tabs-placeholder-body = Bu pencerede bir sekmeyi kapattıktan sonra buradan getirebilirsiniz.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Son bakılan
 # Variables:
