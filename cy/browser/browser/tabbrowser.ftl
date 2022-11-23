@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Tab Newydd
+tabbrowser-empty-private-tab-title = Tab Preifat Newydd
 tabbrowser-menuitem-close-tab =
     .label = Cau Tab
 tabbrowser-menuitem-close =
@@ -16,23 +17,100 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [zero] Cau tab
+            [one] Cau { $tabCount } tab
+            [two] Cau { $tabCount } dab
+            [few] Cau { $tabCount } tab
+            [many] Cau { $tabCount } tab
+           *[other] Cau { $tabCount } tab
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [zero] Tewi tab ({ $shortcut })
+            [one] Tewi { $tabCount } tab ({ $shortcut })
+            [two] Tewi { $tabCount } tab ({ $shortcut })
+            [few] Tewi { $tabCount } tab ({ $shortcut })
+            [many] Tewi { $tabCount } tab ({ $shortcut })
+           *[other] Tewi { $tabCount } tab ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [zero] Dad-dewi tab ({ $shortcut })
+            [one] Dad-dewi { $tabCount } tab ({ $shortcut })
+            [two] Dad-dewi { $tabCount } tab ({ $shortcut })
+            [few] Dad-dewi { $tabCount } tab ({ $shortcut })
+            [many] Dad-dewi { $tabCount } tab ({ $shortcut })
+           *[other] Dad-dewi { $tabCount } tab ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [zero] Tewi tab
+            [one] Tewi { $tabCount } tab
+            [two] Tewi { $tabCount } tab
+            [few] Tewi { $tabCount } tab
+            [many] Tewi { $tabCount } tab
+           *[other] Tewi { $tabCount } tab
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [zero] Dad-dewi tab
+            [one] Dad-dewi { $tabCount } tab
+            [two] Dad-dewi { $tabCount } tab
+            [few] Dad-dewi { $tabCount } tab
+            [many] Dad-dewi { $tabCount } tab
+           *[other] Dad-dewi { $tabCount } tab
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [zero] Chwarae tab
+            [one] Chwarae { $tabCount } tab
+            [two] Chwarae { $tabCount } tab
+            [few] Chwarae { $tabCount } tab
+            [many] Chwarae { $tabCount } tab
+           *[other] Chwarae { $tabCount } tab
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Cau tabiau
+tabbrowser-confirm-close-tabs-checkbox = Cadarnhau cyn cau tabiau lluosog
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Cau a gadael
+       *[other] Cau a gadael
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Cau ffenestr a gadael { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Gadael { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Cadarnhau cyn gadael gyda { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -48,6 +126,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Rhybuddio y gall agor tabiau ni
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Pori Caret
+tabbrowser-confirm-caretbrowsing-message = Mae pwyso F7 yn cychwyn a diffodd Pori Caret. Mae'r nodwedd hon yn gosod cyrchwr symudol ar dudalennau gwe, gan ganiatáu i chi ddewis testun gyda'r bysellfwrdd. Hoffech chi gychwyn Pori Caret?
+tabbrowser-confirm-caretbrowsing-checkbox = Peidio dangos y blwch deialog yma eto.
 
 ##
 
@@ -65,3 +146,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Tab Dad-dewi
     .accesskey = D
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Tewi Tabiau
+    .accesskey = T
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Dad-dewi Tabiau
+    .accesskey = t
