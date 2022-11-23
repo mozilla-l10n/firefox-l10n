@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = לשונית חדשה
+tabbrowser-empty-private-tab-title = לשונית פרטית חדשה
 tabbrowser-menuitem-close-tab =
     .label = סגירת לשונית
 tabbrowser-menuitem-close =
@@ -67,14 +68,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = לסגור { $tabCount } לשוניות?
 tabbrowser-confirm-close-tabs-button = סגירת לשוניות
+tabbrowser-confirm-close-tabs-checkbox = הצגת אזהרה בעת סגירת מספר לשוניות
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = לסגור { $windowCount } חלונות?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] סגירה ויציאה
+       *[other] סגירה ויציאה
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = לסגור את החלון ולצאת מ־{ -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = יציאה מ־{ -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = הצגת אזהרה בעת יציאה באמצעות { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -90,6 +111,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = להזהיר אותי כשפת�
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = דפדוף בעזרת סמן
+tabbrowser-confirm-caretbrowsing-message = לחיצה על F7 מפעילה או מכבה את הדפדוף בעזרת הסמן. תכונה זו ממקמת את הסמן בתוך דפים, ומאפשרת לך לסמן טקסט באמצעות המקלדת. האם ברצונך להפעיל את הדפדוף בעזרת הסמן?
+tabbrowser-confirm-caretbrowsing-checkbox = לא להציג תיבת דו־שיח זו שוב.
 
 ##
 
