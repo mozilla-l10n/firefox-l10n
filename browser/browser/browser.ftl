@@ -928,3 +928,10 @@ private-browsing-indicator-label = Privat nettlesing
 unified-extensions-button =
     .label = Utvidelser
     .tooltiptext = Utvidelser
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } forhindret denne nettsiden fra å automatisk laste inn på nytt.
+refresh-blocked-allow =
+    .label = Tillat
+    .accesskey = T
