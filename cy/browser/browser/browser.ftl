@@ -952,3 +952,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = Rhwystrodd { -brand-short-name } y dudalen hon rhag ailagor yn awtomatig.
 refresh-blocked-redirect-label = Rhwystrodd { -brand-short-name } y dudalen hon rhag ailgyfeirio i dudalen arall.
+refresh-blocked-allow =
+    .label = Caniatáu
+    .accesskey = C
