@@ -44,6 +44,20 @@ profiler-popup-learn-more-button =
     .label = ٻیا سِکھو
 profiler-popup-settings =
     .value = ترتیباں
+profiler-popup-discard-button =
+    .label = کڈھ سٹو
+profiler-popup-capture-button =
+    .label = قاٻو کرو
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -65,6 +79,14 @@ profiler-popup-presets-networking-label =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } مدد
+appmenu-about =
+    .label = { -brand-shorter-name } دا تعارف
+    .accesskey = A
+appmenu-get-help =
+    .label = مدد گھنو
+    .accesskey = h
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
