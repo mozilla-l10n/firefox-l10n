@@ -63,6 +63,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = Close tabs
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
