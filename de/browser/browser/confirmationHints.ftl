@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Bericht gesendet. Danke!
 confirmation-hint-login-removed = Zugangsdaten entfernt
+confirmation-hint-page-bookmarked = In Lesezeichen gespeichert
 confirmation-hint-password-saved = Passwort gespeichert
 confirmation-hint-pin-tab = Angeheftet
 confirmation-hint-pin-tab-description = Tab mit der rechten Maustaste anklicken, um ihn abzulösen.
