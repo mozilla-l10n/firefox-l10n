@@ -919,3 +919,11 @@ private-browsing-indicator-label = Penjelajahan pribadi
 unified-extensions-button =
     .label = Ekstensi
     .tooltiptext = Ekstensi
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } telah mencegah laman ini untuk otomatis dimuat ulang.
+refresh-blocked-redirect-label = { -brand-short-name } telah mencegah laman ini untuk otomatis mengalihkan ke laman lain.
+refresh-blocked-allow =
+    .label = Izinkan
+    .accesskey = I
