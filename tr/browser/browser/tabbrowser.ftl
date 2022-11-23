@@ -40,6 +40,13 @@ tabbrowser-confirm-close-tabs-button = Sekmeleri kapat
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = { $domain } sitesinden gelen bildirimlerin beni kendi sekmesine götürmesine izin ver
+tabbrowser-customizemode-tab-title = { -brand-short-name } tarayıcısını özelleştir
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Sekmenin sesini kapat
+    .accesskey = m
+tabbrowser-context-unmute-tab =
+    .label = Sekmenin sesini aç
+    .accesskey = m

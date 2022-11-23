@@ -935,3 +935,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } bu sayfanın kendiliğinden yenilenmesini önledi.
 refresh-blocked-redirect-label = { -brand-short-name } bu sayfanın başka sayfaya yönlenmesini önledi.
+refresh-blocked-allow =
+    .label = İzin ver
+    .accesskey = z
