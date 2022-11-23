@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Yeni Vərəq
+tabbrowser-menuitem-close-tab =
+    .label = Vərəqi Qapat
 tabbrowser-menuitem-close =
     .label = Qapat
 # Variables:
@@ -35,6 +37,10 @@ tabbrowser-confirm-close-tabs-button = Vərəqləri qapat
 
 ##
 
+tabbrowser-customizemode-tab-title = { -brand-short-name } səyyahını fərdiləşdir
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-unmute-tab =
+    .label = Vərəqin Səsini aç
+    .accesskey = a
