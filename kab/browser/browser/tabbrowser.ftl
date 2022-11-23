@@ -36,6 +36,14 @@ tabbrowser-confirm-close-tabs-button = Mdel iccaren
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Sentem alday
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Tessutreḍ-d tulya n { $tabCount } n yiccaren. Aya yezmer ad yerr { -brand-short-name } ẓẓay ticki ttalin-d isebtar. Tebɣiḍ ad tkemmleḍ?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Ldi iccaren
 
 ## Confirmation dialog for enabling caret browsing
 
