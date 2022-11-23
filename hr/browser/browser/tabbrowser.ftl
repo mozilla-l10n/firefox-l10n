@@ -68,6 +68,7 @@ tabbrowser-confirm-close-tabs-button = Zatvori kartice
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-button = Otvori kartice
 tabbrowser-confirm-open-multiple-tabs-checkbox = Upozori me kod otvaranja više kartica koje bi moglo usporiti { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
