@@ -522,3 +522,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ने या पृष्ठास स्वयंरीत्या उघडण्यापासून रोखले.
+refresh-blocked-redirect-label = { -brand-short-name } ने या पृष्ठास अन्य पृष्ठास जाण्यापासून रोखले.
+refresh-blocked-allow =
+    .label = सहमती द्या
+    .accesskey = A
