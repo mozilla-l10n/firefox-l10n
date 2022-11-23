@@ -36,6 +36,15 @@ tabbrowser-confirm-close-tabs-button = Særa feuggi
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Conferma avertua
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] T'ê apreuvo a arvî { $tabCount } feuggi. Questo peu fâ ralentâ { -brand-short-name } quande se caregan e pagine. T'ê seguo de continoâ?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Arvi feuggi
+tabbrowser-confirm-open-multiple-tabs-checkbox = Avertime quande l'avertua de ciù feuggi o peu ralentâ { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
