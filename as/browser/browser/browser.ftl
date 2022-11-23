@@ -803,3 +803,4 @@ data-reporting-notification-button =
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } এ এই পৃষ্টাক স্বচালিতভাৱে পুনৰ ল'ড হোৱাৰ পৰা প্ৰতিৰোধ কৰিছে।
+refresh-blocked-redirect-label = { -brand-short-name } এ এই পৃষ্টাক স্বচালিতভাৱে অন্য পৃষ্টালে যোৱাৰ পৰা প্ৰতিৰোধ কৰিছে।
