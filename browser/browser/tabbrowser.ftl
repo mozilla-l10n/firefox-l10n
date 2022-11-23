@@ -37,6 +37,13 @@ tabbrowser-confirm-close-tabs-button = Close tabs
 
 ##
 
+tabbrowser-customizemode-tab-title = Customise { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Mute Tab
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Unmute Tab
+    .accesskey = m
