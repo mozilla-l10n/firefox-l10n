@@ -793,3 +793,7 @@ data-reporting-notification-button =
 unified-extensions-button =
     .label = Ընդլայնումներ
     .tooltiptext = Ընդլայնումներ
+
+## Autorefresh blocker
+
+refresh-blocked-redirect-label = { -brand-short-name } -ը կասեցրեց այս էջի ինքնակամ վերահասցեավորումը մեկ ուրիշ էջ:
