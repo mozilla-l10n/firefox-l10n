@@ -20,14 +20,42 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title =
+    { $tabCount ->
+        [few] Zavrieť { $tabCount } karty?
+       *[other] Zavrieť { $tabCount } kariet?
+    }
 tabbrowser-confirm-close-tabs-button = Zavrieť karty
+tabbrowser-confirm-close-tabs-checkbox = Vyžadovať potvrdenie pred zatvorením viacerých kariet naraz
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [few] Zavrieť { $windowCount } okná?
+       *[other] Zavrieť { $windowCount } okien?
+    }
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Zavrieť a ukončiť
+       *[other] Zavrieť a ukončiť
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Zavrieť okno a ukončiť { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Ukončiť { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Vyžadovať potvrdenie pred ukončením pomocou { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -44,3 +72,9 @@ tabbrowser-allow-dialogs-to-get-focus =
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Stlmiť zvuk na karte
+    .accesskey = u
+tabbrowser-context-unmute-tab =
+    .label = Zapnúť zvuk na karte
+    .accesskey = u
