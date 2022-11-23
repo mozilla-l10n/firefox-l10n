@@ -34,6 +34,15 @@ tabbrowser-confirm-close-tabs-button = Uddu tabbe
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Teeŋtin uddit-gol
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Ngonɗaa ko e udditde { $tabCount } tabbe. Ɗum ina waawi leeltinde { -brand-short-name } saanga nde kelle ɗee ngoni e loowde. Aɗa yananaa yiɗde jokkude?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Uddit tabbe
+tabbrowser-confirm-open-multiple-tabs-checkbox = Tintin am nde uddit-gol tabbe keewɗe waawi leeltinde { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
