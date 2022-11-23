@@ -100,3 +100,9 @@ tabbrowser-customizemode-tab-title = Sagen { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Ssusem iccer
+    .accesskey = S
+tabbrowser-context-unmute-tab =
+    .label = Kkes tasusmi n yiccer
+    .accesskey = s

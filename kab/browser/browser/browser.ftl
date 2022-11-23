@@ -931,6 +931,8 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } issewḥel asebter-a seg usmiren awurman.
+refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman ɣer usebter-nniḍen.
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
