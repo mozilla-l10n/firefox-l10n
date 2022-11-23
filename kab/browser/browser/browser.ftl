@@ -928,3 +928,9 @@ private-browsing-indicator-label = Tunigin tusligt
 unified-extensions-button =
     .label = Isiɣzaf
     .tooltiptext = Isiɣzaf
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = Sireg
+    .accesskey = A
