@@ -36,6 +36,13 @@ tabbrowser-confirm-close-tabs-button = கீற்றுகளை மூடு
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] நீங்கள் { $tabCount } கீற்றுகளை திறக்கப்போகிறீர்கள். இது பக்கங்களை ஏற்றும் போது { -brand-short-name } உலாவியை மெதுவாக்கும். தொடர வேண்டுமா?
+    }
+tabbrowser-confirm-open-multiple-tabs-checkbox = பல கீற்றுகளைத் திறக்கையில் { -brand-short-name } மெதுவாகையில் என்னை எச்சரி
 
 ## Confirmation dialog for enabling caret browsing
 
