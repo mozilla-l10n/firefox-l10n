@@ -926,3 +926,9 @@ private-browsing-indicator-label = Privat nettlesing
 unified-extensions-button =
     .label = Utvidingar
     .tooltiptext = Utvidingar
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = Tillat
+    .accesskey = T
