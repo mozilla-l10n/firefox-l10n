@@ -6,3 +6,4 @@
 ## Confirmation hints
 
 confirmation-hint-password-saved = Awal uffir yettwakles!
+confirmation-hint-send-to-device = Ittwazen!
