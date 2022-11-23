@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Tab Barô
+tabbrowser-menuitem-close-tab =
+    .label = Tôp Tab
+tabbrowser-menuitem-close =
+    .label = Tôp
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -25,6 +29,7 @@ tabbrowser-close-tabs-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = Tôp tab
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -35,6 +40,7 @@ tabbrowser-close-tabs-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-button = Peuhah tabs
 
 ## Confirmation dialog for enabling caret browsing
 
