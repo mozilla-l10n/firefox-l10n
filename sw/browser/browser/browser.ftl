@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Kuvinjari kwa Binafsi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Kuvinjari kwa Binafsi)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Kuvinjari kwa Binafsi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Kuvinjari kwa Binafsi)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -91,6 +89,7 @@ full-screen-exit =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -126,10 +125,8 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = Tafuta au uandike anwani
-
 urlbar-switch-to-tab =
     .value = Badili kwa kichupo:
-
 urlbar-go-button =
     .tooltiptext = Nenda kwa anwani katika Upau wa Mahali
 
@@ -143,6 +140,9 @@ urlbar-go-button =
 
 
 ## Labels shown above groups of urlbar results
+
+
+## Reader View toolbar buttons
 
 
 ## Full Screen and Pointer Lock UI
@@ -159,7 +159,6 @@ bookmarks-sidebar-content =
     .aria-label = Vialamisho
 bookmarks-bookmark-edit-panel =
     .label = Hariri Alamisho Hili
-
 bookmarks-toolbar-menu =
     .label = Mwamba zana wa Alamisho
 bookmarks-toolbar-placeholder =
@@ -181,8 +180,6 @@ library-bookmarks-menu =
 ## Customize Toolbar Buttons
 
 
-## More items
-
 ## EME notification panel
 
 
@@ -190,9 +187,6 @@ library-bookmarks-menu =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -204,7 +198,6 @@ library-bookmarks-menu =
 popups-infobar-allow =
     .label = Ruhusu uibukizi kwa { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Zuia uibukizi kwa { $uriHost }
     .accesskey = p
@@ -226,19 +219,15 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Upakuzi
-
 navbar-search =
     .title = Tafuta
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Kivinjari vichupo
-
 tabs-toolbar-new-tab =
     .label = Kichupo Kipya
-
 tabs-toolbar-list-all-tabs =
     .label = Orodhesha vichupo vyote
     .tooltiptext = Orodhesha vichupo vyote
@@ -252,3 +241,8 @@ data-reporting-notification-message = { -brand-short-name } hutuma kiotomatiki b
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } imezuia ukurasa huu kupakia kiotomatiki.
+refresh-blocked-redirect-label = { -brand-short-name } imezuia ukurasa huu kuelekezwa tena kiotomatiki kwa ukurasa mwingine.
