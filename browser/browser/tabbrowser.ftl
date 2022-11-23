@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Zarrar a pestanya
 tabbrowser-menuitem-close =
     .label = Zarrar
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -41,6 +46,7 @@ tabbrowser-confirm-close-tabs-button = Zarrar as pestanyas
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permite que las notificacions como esta de { $domain } te leven ta la suya pestanya
+tabbrowser-customizemode-tab-title = Personalizar lo { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
