@@ -29,12 +29,12 @@ callout-firefox-view-colorways-reminder-subtitle = Warnai peramban Anda dengan n
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Tingkatkan penjelajahan Anda dengan fitur pengambilan tab
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Akses tab terbuka Anda dari perangkat mana pun. Dan juga, sinkronkan markah, sandi, dan lainnya.
-continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Memulai
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Mulai
 
 ## PDF.js Feature Tour Strings
 
-callout-pdfjs-edit-title = Ubah PDF dengan alat teks terbaru kami
-callout-pdfjs-edit-body-a = Isi form, tambahkan komentar, atau buat catatan langsung di { -brand-short-name }.
+callout-pdfjs-edit-title = Edit PDF dengan alat teks terbaru kami
+callout-pdfjs-edit-body-a = Isi formulir, tambahkan komentar, atau buat catatan langsung di { -brand-short-name }.
 callout-pdfjs-edit-body-b = Tak perlu mencari editor daring gratisan. Isi formulir, tambah komentar, atau buat catatan langsung di { -brand-short-name }.
 callout-pdfjs-edit-button = Lanjut
 callout-pdfjs-draw-title = Tandatangani dokumen dengan alat gambar terbaru kami
