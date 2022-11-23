@@ -5,6 +5,7 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Ngà gahui nuguan’ ga'nïnt. Guruhuât!
 confirmation-hint-password-saved = Ngà nanun sà' da'nga' huìi!
 confirmation-hint-pin-tab = Pinned!
 confirmation-hint-pin-tab-description = Guru'man ra'a ne' huà't riña rakïj ñanj da' guxūnt man.
