@@ -107,3 +107,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Lap visszahangosítása
     .accesskey = v
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Lapok némítása
+    .accesskey = n
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Lapok visszahangosítása
+    .accesskey = v
