@@ -30,3 +30,5 @@ origin-controls-state-no-access = 無法對此網站讀取或變更資料
 origin-controls-state-always-on = 總是可以對此網站讀取或變更資料
 origin-controls-state-when-clicked = 需要點擊授權才可讀取或變更資料
 origin-controls-state-hover-run-visit-only = 只對此次造訪執行
+origin-controls-state-runnable-hover-open = 開啟擴充套件
+origin-controls-state-runnable-hover-run = 執行擴充套件
