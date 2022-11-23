@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = הבנתי
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = עצה:
+urlbar-result-menu-button =
+    .title = פתיחת תפריט
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -390,6 +392,7 @@ identity-https-only-info-turn-on2 = יש להפעיל את מצב HTTPS בלבד
 identity-https-only-info-turn-off2 = אם נראה שהדף שבור, באפשרותך לכבות את מצב ה־HTTPS בלבד עבור אתר זה כדי לטעון מחדש באמצעות HTTP לא מאובטח.
 identity-https-only-info-no-upgrade = לא ניתן לשדרג את החיבור מ־HTTP.
 identity-permissions-storage-access-header = עוגיות חוצות אתרים
+identity-permissions-storage-access-hint = צדדים אלה יכולים להשתמש בעוגיות חוצות אתרים ובנתוני אתרים בזמן שנמצאים באתר זה.
 identity-permissions-storage-access-learn-more = מידע נוסף
 identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
 identity-clear-site-data =
@@ -929,8 +932,8 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
-refresh-blocked-refresh-label = { -brand-short-name } חסם טעינה חוזרת אוטומטית בדף הנוכחי.
-refresh-blocked-redirect-label = { -brand-short-name } חסם את הדף הנוכחי מהעברה אוטומטית לדף אחר.
+refresh-blocked-refresh-label = ‏{ -brand-short-name } מנע מעמוד זה לטעון את עצמו מחדש באופן אוטומטי.
+refresh-blocked-redirect-label = ‏{ -brand-short-name } מנע מעמוד זה להפנות לעמוד אחר באופן אוטומטי.
 refresh-blocked-allow =
-    .label = אפשר
+    .label = לאפשר
     .accesskey = א
