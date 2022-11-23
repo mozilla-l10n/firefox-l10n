@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Adicionar o tema
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Conheça o { -brand-short-name }
+mr1-return-to-amo-addon-title = Você tem em suas mãos um navegador rápido que respeita sua privacidade. Agora você pode adicionar <b>{ $addon-name }</b> e fazer ainda mais com o { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Adicionar { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
