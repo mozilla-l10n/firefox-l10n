@@ -5,6 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Chaidh an aithris a chur. Mòran taing!
+confirmation-hint-login-removed = Chaidh an clàradh a-steach a thoirt air falbh!
+confirmation-hint-page-bookmarked = Chaidh a shàbhaladh sna comharran-lìn
+confirmation-hint-password-saved = Chaidh am facal-faire a shàbhaladh!
 confirmation-hint-pin-tab = Prìnichte!
 confirmation-hint-pin-tab-description = Dèan briogadh deas air an taba gus a dhì-phrìneachadh.
 confirmation-hint-send-to-device = Air a chur!
