@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Novo separador
+tabbrowser-empty-private-tab-title = Novo separador privado
 tabbrowser-menuitem-close-tab =
     .label = Fechar separador
 tabbrowser-menuitem-close =
@@ -20,20 +21,49 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Fechar { $tabCount } separadores?
 tabbrowser-confirm-close-tabs-button = Fechar separadores
+tabbrowser-confirm-close-tabs-checkbox = Confirmar antes de fechar múltiplos separadores
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Fechar { $windowCount } janelas?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Fechar e sair
+       *[other] Fechar e sair
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Fechar janela e sair do { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Sair de { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de sair com { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Vai abrir { $tabCount } separadores. Isto pode tornar o { -brand-short-name } lento enquanto as páginas carregam. Tem a certeza que pretende continuar?
+    }
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Navegação por cursor
+tabbrowser-confirm-caretbrowsing-message = A tecla F7 ativa ou desativa a navegação por cursor. Esta característica coloca um cursor móvel nas páginas da Internet, permitindo-lhe selecionar texto com o teclado. Quer ativar a navegação por cursor?
+tabbrowser-confirm-caretbrowsing-checkbox = Não voltar a mostrar esta janela.
 
 ##
 
