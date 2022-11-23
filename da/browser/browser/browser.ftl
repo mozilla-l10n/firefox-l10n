@@ -931,3 +931,9 @@ private-browsing-indicator-label = Privat browsing
 unified-extensions-button =
     .label = Udvidelser
     .tooltiptext = Udvidelser
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = Tillad
+    .accesskey = T
