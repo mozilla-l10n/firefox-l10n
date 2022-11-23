@@ -520,3 +520,6 @@ data-reporting-notification-button =
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ဤစာမျက်နှာအား အလိုအလျှောက်ပြန်လည်ဖွင့်ခြင်းမှ { -brand-short-name } က တားမြစ်ထားသည်။
+refresh-blocked-allow =
+    .label = ခွင့်ပြုပါ
+    .accesskey = A

@@ -33,6 +33,10 @@ tabbrowser-tab-tooltip =
 
 ##
 
+tabbrowser-customizemode-tab-title = { -brand-short-name } ကို စိတ်ကြိုက်ပြုပြင်ရန်
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-unmute-tab =
+    .label = အသံ ပြန်ဖွင့်ပါ
+    .accesskey = m
