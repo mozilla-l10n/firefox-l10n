@@ -924,3 +924,8 @@ private-browsing-indicator-label = Duyệt web riêng tư
 unified-extensions-button =
     .label = Tiện ích mở rộng
     .tooltiptext = Tiện ích mở rộng
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } đã ngăn trang web này tự động tải lại.
+refresh-blocked-redirect-label = { -brand-short-name } đã ngăn trang web này tự động chuyển đến trang khác.
