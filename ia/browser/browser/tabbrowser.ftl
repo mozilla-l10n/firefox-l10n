@@ -30,6 +30,34 @@ tabbrowser-close-tabs-tooltip =
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Silentiar le scheda ({ $shortcut })
+           *[other] Silentiar { $tabCount } schedas ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Non plus silentiar le scheda ({ $shortcut })
+           *[other] Non plus silentiar { $tabCount } schedas ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Silentiar le scheda
+           *[other] Silentiar { $tabCount } schedas
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Non plus silentiar le scheda
+           *[other] Non plus silentiar { $tabCount } schedas
+        }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
         { $tabCount ->
@@ -72,12 +100,19 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar ante quitar con { $q
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Confirmar aperir
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Tu es sur le puncto de aperir { $tabCount } schedas. Isto pote relentar { -brand-short-name } durante le cargamento del paginas. Vole tu vermente continuar?
+    }
 tabbrowser-confirm-open-multiple-tabs-button = Aperir le schedas
 tabbrowser-confirm-open-multiple-tabs-checkbox = Advertir me quando le apertura de plure schedas pote relentar { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = Navigation in le texto
+tabbrowser-confirm-caretbrowsing-message = Premer sur F7 activa o disactiva le navigation a cursor. Iste functionalitate placia un cursor movibile in le paginas web, permittente que tu selige texto con le claviero. Desira tu activar le navigation a cursor?
 tabbrowser-confirm-caretbrowsing-checkbox = Non monstrar me plus iste fenestra de dialogo.
 
 ##
