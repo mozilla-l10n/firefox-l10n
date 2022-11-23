@@ -5,4 +5,5 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = ส่งรายงานแล้ว ขอบคุณ!
 confirmation-hint-send-to-device = ส่งแล้ว!
