@@ -5,6 +5,7 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = ਰਿਪੋਰਟ ਭੇਜੀ ਗਈ। ਤੁਹਾਡਾ ਧੰਨਵਾਦ!
 confirmation-hint-login-removed = ਲਾਗਇਨ ਹਟਾਇਆ!
 confirmation-hint-page-bookmarked = ਬੁੱਕਮਾਰਕਾਂ ਵਿੱਚ ਸੰਭਾਲਿਆ
 confirmation-hint-password-saved = ਪਾਸਵਰਡ ਸੰਭਾਲਿਆ!
