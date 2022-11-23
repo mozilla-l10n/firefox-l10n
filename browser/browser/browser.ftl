@@ -505,3 +505,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } એ આ પાનાંને આપોઆપ પુનઃલાવવાથી અટકાવેલ છે.
+refresh-blocked-redirect-label = { -brand-short-name } એ આ પાનાંને અન્ય પાનાં પર આપોઆપ પુનઃદિશામાન થવાથી અટકાવેલ છે.
+refresh-blocked-allow =
+    .label = પરવાનગી આપો
+    .accesskey = A
