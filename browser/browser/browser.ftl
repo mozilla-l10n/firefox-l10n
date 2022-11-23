@@ -923,3 +923,8 @@ private-browsing-indicator-label = Privata retumo
 unified-extensions-button =
     .label = Etendaĵoj
     .tooltiptext = Etendaĵoj
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } evitis ke tiu ĉi paĝo aŭtomate reŝargiĝu.
+refresh-blocked-redirect-label = { -brand-short-name } evitis ke tiu ĉi paĝo aŭtomate redirektiĝis al alia paĝo.
