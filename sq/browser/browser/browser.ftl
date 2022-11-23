@@ -933,3 +933,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name }-i i pengoi kësaj faqeje ringarkimin e vetvetishëm.
 refresh-blocked-redirect-label = { -brand-short-name }-i i pengoi kësaj faqeje ridrejtimin e vetvetishëm te një faqe tjetër.
+refresh-blocked-allow =
+    .label = Lejoje
+    .accesskey = L
