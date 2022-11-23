@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Нов раздел
+tabbrowser-menuitem-close-tab =
+    .label = Затваряне на раздела
 tabbrowser-menuitem-close =
     .label = Затваряне
 # Variables:
@@ -17,6 +20,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = Затваряне на разделите
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -36,3 +40,6 @@ tabbrowser-tab-tooltip =
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Заглушаване на раздела
+    .accesskey = ш
