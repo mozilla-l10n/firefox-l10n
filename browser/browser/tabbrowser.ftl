@@ -133,6 +133,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Opozori me, ko lahko odpiranje 
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Brskanje s kazalko
+tabbrowser-confirm-caretbrowsing-message = Tipka F7 vključi ali izključi brskanje s kazalko. Ta možnost na spletne strani postavi premični kazalec, ki vam omogoča izbiro besedila s tipkovnico. Ali želite vključiti brskanje s kazalko?
+tabbrowser-confirm-caretbrowsing-checkbox = Tega pogovornega okna ne prikazuj več.
 
 ##
 
