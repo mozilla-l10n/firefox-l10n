@@ -44,3 +44,6 @@ tabbrowser-allow-dialogs-to-get-focus =
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Rendre l'onglet mut
+    .accesskey = m

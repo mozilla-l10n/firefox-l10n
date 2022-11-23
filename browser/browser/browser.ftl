@@ -936,3 +936,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } a empachat lo recargament automatic d'aquesta pagina.
 refresh-blocked-redirect-label = { -brand-short-name } a empachat la redireccion automatica cap a una autra pagina.
+refresh-blocked-allow =
+    .label = Autorizar
+    .accesskey = A
