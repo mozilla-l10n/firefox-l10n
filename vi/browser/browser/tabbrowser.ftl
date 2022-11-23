@@ -53,3 +53,6 @@ tabbrowser-customizemode-tab-title = Tùy biến { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Tắt tiếng thẻ
     .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Bật tiếng thẻ
+    .accesskey = m
