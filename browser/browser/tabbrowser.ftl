@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nýr flipi
+tabbrowser-empty-private-tab-title = Nýr huliðsflipi
 tabbrowser-menuitem-close-tab =
     .label = Loka flipa
 tabbrowser-menuitem-close =
@@ -67,14 +68,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Loka { $tabCount } flipum?
 tabbrowser-confirm-close-tabs-button = Loka flipum
+tabbrowser-confirm-close-tabs-checkbox = Staðfesta áður en mörgum flipum er lokað
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Loka { $windowCount } gluggum?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Loka og hætta
+       *[other] Loka og hætta
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Loka glugga og hætta í { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Hætta í { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Staðfesta áður en þú hættir með { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -90,6 +111,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Vara við ef ég reyni að opna
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Vafra með bendli
+tabbrowser-confirm-caretbrowsing-message = Takkinn F7 virkjar að vafra með bendli. Þessi aðgerð bætir við hreyfanlegum bendli á vefsíður, sem leyfir þér að velja með lyklaborðinu. Viltu virkja vafrað með bendli?
+tabbrowser-confirm-caretbrowsing-checkbox = Ekki sýna þennan glugga aftur.
 
 ##
 
