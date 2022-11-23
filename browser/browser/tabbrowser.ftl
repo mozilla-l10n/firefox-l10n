@@ -7,15 +7,62 @@ tabbrowser-menuitem-close-tab =
     .label = Sulje välilehti
 tabbrowser-menuitem-close =
     .label = Sulje
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } — { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Sulje välilehti
+           *[other] Sulje { $tabCount } välilehteä
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Vaimenna välilehti ({ $shortcut })
+           *[other] Vaimenna { $tabCount } välilehteä ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Palauta ääni välilehteen ({ $shortcut })
+           *[other] Palauta ääni { $tabCount } välilehteen ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Vaimenna välilehti
+           *[other] Vaimenna { $tabCount } välilehteä
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Palauta ääni välilehteen
+           *[other] Palauta ääni { $tabCount } välilehteen
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Toista välilehden äänet
+           *[other] Toista { $tabCount } välilehden äänet
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -28,6 +75,9 @@ tabbrowser-confirm-close-tabs-button = Sulje välilehdet
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Vahvista ennen pikanäppäimellä { $quitKey } lopettamista
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -43,6 +93,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Varoita, kun usean välilehden 
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Selaus kohdistimella
+tabbrowser-confirm-caretbrowsing-message = F7-näppäimellä voit ottaa käyttöön tai poistaa käytöstä selauksen kohdistimella. Tämän toiminnon ollessa päällä verkkosivulla on liikuteltava kohdistin, jonka avulla voit näppäimistöllä valita tekstiä sivulta. Selataanko kohdistimella?
+tabbrowser-confirm-caretbrowsing-checkbox = Älä näytä tätä ikkunaa uudestaan.
 
 ##
 
@@ -56,3 +109,14 @@ tabbrowser-allow-dialogs-to-get-focus =
 tabbrowser-context-mute-tab =
     .label = Vaimenna välilehti
     .accesskey = V
+tabbrowser-context-unmute-tab =
+    .label = Palauta ääni
+    .accesskey = ä
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Vaimenna välilehdet
+    .accesskey = V
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Palauta ääni välilehtiin
+    .accesskey = ä
