@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -134,12 +132,10 @@ urlbar-popup-blocked =
     .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ପପ୍-ଅପ୍ ଗୁଡିକୁ ଅବରୋଧ କରିଛନ୍ତି
 urlbar-autoplay-media-blocked =
     .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ଧ୍ୱନି ସହିତ ଅଟୋପ୍ଲେ ମିଡିଆକୁ ଅବରୋଧ କରିଛନ୍ତି
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ  ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -164,10 +160,8 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ଏବେ, ଖୋଜନ୍ତୁ ସହିତ:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ସନ୍ଧାନ ସେଟିଙ୍ଗ ବଦଳାନ୍ତୁ
-
 search-one-offs-context-open-new-tab =
     .label = ନୂତନ ଟ୍ୟାବରେ ଖୋଜନ୍ତୁ
     .accesskey = ଟି
@@ -189,6 +183,7 @@ search-one-offs-context-set-as-default-private =
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
+
 
 ## Bookmark Panel
 
@@ -231,10 +226,8 @@ popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟ
 
 urlbar-placeholder =
     .placeholder = ଠିକଣା ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ଭରଣ କରନ୍ତୁ
-
 urlbar-switch-to-tab =
     .value = ଟ୍ୟାବକୁ ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ:
-
 urlbar-go-button =
     .tooltiptext = ଅବସ୍ଥିତି ପଟିରେ ଥିବା ଠିକଣାକୁ ଯାଆନ୍ତୁ
 
@@ -255,6 +248,9 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -269,7 +265,6 @@ bookmarks-sidebar-content =
     .aria-label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
 bookmarks-bookmark-edit-panel =
     .label = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
-
 bookmarks-toolbar-menu =
     .label = ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
 bookmarks-toolbar-placeholder =
@@ -288,25 +283,19 @@ bookmarks-toolbar-placeholder-button =
 
 ## Customize Toolbar Buttons
 
-
-## More items
-
 toolbar-button-email-link =
     .label = ଇମେଲ ଲିଙ୍କ
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ଗୋଟିଏ ଲିଙ୍କ ମେଲ କରନ୍ତୁ
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = ପୃଷ୍ଠା ସଂରକ୍ଷଣ କରନ୍ତୁ
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ  ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ଫାଇଲ ଖୋଲନ୍ତୁ
     .tooltiptext = ଫାଇଲ ଖୋଲନ୍ତୁ  ({ $shortcut })
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -322,9 +311,6 @@ toolbar-button-new-private-window =
 ## Add-on removal warning
 
 
-## Remote / Synced tabs
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -336,7 +322,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } ପାଇଁ ପପ୍-ଅପ୍ କୁ ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } ପାଇଁ ପପ୍-ଅପ୍ କୁ ଅଟକାନ୍ତୁ
     .accesskey = p
@@ -358,25 +343,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ
-
 navbar-overflow =
     .tooltiptext = ଅଧିକ ସାଧନଗୁଡ଼ିକ…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = ମୁଦ୍ରଣ କରନ୍ତୁ
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ମୁଦ୍ରଣ କରନ୍ତୁ… ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ବ୍ରାଉଜର ଟ୍ୟାବଗୁଡ଼ିକ
-
 tabs-toolbar-new-tab =
     .label = ନୂତନ ଟ୍ୟାବ
-
 tabs-toolbar-list-all-tabs =
     .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
     .tooltiptext = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
@@ -393,3 +373,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପୁନର୍ଧାରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
+refresh-blocked-redirect-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅନ୍ୟ ଏକ ପୃଷ୍ଠାକୁ ପୁନଃ ପ୍ରେରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
