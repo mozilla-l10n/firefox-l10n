@@ -106,3 +106,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Kkes tasusmi n yiccer
     .accesskey = s
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Susem iccaren
+    .accesskey = G
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Kkes tasusmi n waccaren
+    .accesskey = g
