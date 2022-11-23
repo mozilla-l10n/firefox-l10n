@@ -41,6 +41,13 @@ tabbrowser-confirm-close-tabs-button = Stäng flikar
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Tillåt liknande meddelanden från { $domain } leder dig till deras flik
+tabbrowser-customizemode-tab-title = Anpassa { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Ljud av för flik
+    .accesskey = L
+tabbrowser-context-unmute-tab =
+    .label = Ljud på för flik
+    .accesskey = j
