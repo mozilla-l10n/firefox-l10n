@@ -16,11 +16,59 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Закрити вкладку
+            [few] Закрити { $tabCount } вкладки
+           *[many] Закрити { $tabCount } вкладок
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Вимкнути звук вкладки ({ $shortcut })
+            [few] Вимкнути звук { $tabCount } вкладок ({ $shortcut })
+           *[many] Вимкнути звук { $tabCount } вкладок ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Увімкнути звук вкладки ({ $shortcut })
+            [few] Увімкнути звук { $tabCount } вкладок ({ $shortcut })
+           *[many] Увімкнути звук { $tabCount } вкладок ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Вимкнути звук вкладки
+            [few] Вимкнути звук { $tabCount } вкладок
+           *[many] Вимкнути звук { $tabCount } вкладок
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Увімкнути звук вкладки
+            [few] Увімкнути звук { $tabCount } вкладок
+           *[many] Увімкнути звук { $tabCount } вкладок
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Відтворити звук вкладки
+            [few] Відтворити звук { $tabCount } вкладок
+           *[many] Відтворити звук { $tabCount } вкладок
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -58,6 +106,15 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Підтверджувати �
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Підтвердьте відкриття
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Ви збираєтесь відкрити { $tabCount } вкладок. Це може сповільнити { -brand-short-name } доки сторінки будуть завантажуватись. Ви справді хочете продовжити?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Відкрити вкладки
+tabbrowser-confirm-open-multiple-tabs-checkbox = Попереджати, коли відкриття декількох вкладок може сповільнити { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -78,3 +135,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Увімкнути звук вкладки
     .accesskey = У
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Вимкнути звук вкладок
+    .accesskey = м
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Увімкнути звук вкладок
+    .accesskey = в
