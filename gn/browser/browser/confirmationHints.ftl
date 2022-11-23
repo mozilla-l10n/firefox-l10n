@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Marandu’i ñemigua. ¡Aguyje!
+confirmation-hint-login-removed = ¡Tembiapo ñepyrũ mboguepyre!
+confirmation-hint-page-bookmarked = Techaukahápe ñongatupyre
+confirmation-hint-password-saved = ¡Ñe’ẽñemi ñongatupyre!
+confirmation-hint-pin-tab = ¡Mbojapyre!
+confirmation-hint-pin-tab-description = Eikutu votõ akatuagua tendayke ári oso hag̃ua.
 confirmation-hint-send-to-device = ¡Mondopyre!
