@@ -595,3 +595,9 @@ tabs-toolbar-list-all-tabs =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = ڕێگەبدە
+    .accesskey = A
