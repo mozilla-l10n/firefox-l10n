@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nový panel
+tabbrowser-menuitem-close-tab =
+    .label = Zavřít panel
 tabbrowser-menuitem-close =
     .label = Zavřít
 # Variables:
