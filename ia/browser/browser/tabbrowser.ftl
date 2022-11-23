@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nove scheda
+tabbrowser-empty-private-tab-title = Nove scheda private
 tabbrowser-menuitem-close-tab =
     .label = Clauder le scheda
 tabbrowser-menuitem-close =
@@ -16,29 +17,68 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Clauder scheda
+           *[other] Clauder { $tabCount } schedas
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Reproducer scheda
+           *[other] Reproducer { $tabCount } schedas
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Clauder { $tabCount } schedas?
 tabbrowser-confirm-close-tabs-button = Clauder le schedas
+tabbrowser-confirm-close-tabs-checkbox = Confirmar ante clauder plure schedas
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Clauder { $windowCount } fenestras?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Clauder e exir
+       *[other] Clauder e quitar
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Clauder le fenestra e quitar { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Quitar { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar ante quitar con { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Confirmar aperir
+tabbrowser-confirm-open-multiple-tabs-button = Aperir le schedas
+tabbrowser-confirm-open-multiple-tabs-checkbox = Advertir me quando le apertura de plure schedas pote relentar { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Navigation in le texto
+tabbrowser-confirm-caretbrowsing-checkbox = Non monstrar me plus iste fenestra de dialogo.
 
 ##
 
@@ -55,4 +95,12 @@ tabbrowser-context-mute-tab =
     .accesskey = S
 tabbrowser-context-unmute-tab =
     .label = Non plus silentiar le scheda
+    .accesskey = s
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Silentiar le schedas
+    .accesskey = S
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Non plus silentiar le schedas
     .accesskey = s
