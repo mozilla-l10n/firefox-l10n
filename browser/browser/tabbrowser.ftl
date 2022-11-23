@@ -35,6 +35,7 @@ tabbrowser-confirm-close-tabs-button = Затвори ги јазичињата
 
 ##
 
+tabbrowser-customizemode-tab-title = Прилагодување на { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
