@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nová karta
+tabbrowser-empty-private-tab-title = Nová súkromná karta
 tabbrowser-menuitem-close-tab =
     .label = Zavrieť kartu
 tabbrowser-menuitem-close =
