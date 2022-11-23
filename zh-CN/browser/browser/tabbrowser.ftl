@@ -61,6 +61,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = 打开多个标签页可能致�
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = 光标浏览
+tabbrowser-confirm-caretbrowsing-message = 按 F7 来启用或禁用光标浏览。此功能将在网页中放置一个可移动的光标，以便您能使用键盘选择文本。您想要启用光标浏览吗？
+tabbrowser-confirm-caretbrowsing-checkbox = 不再显示此对话框。
 
 ##
 
