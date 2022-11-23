@@ -947,3 +947,8 @@ private-browsing-indicator-label = Pori preifat
 unified-extensions-button =
     .label = Estyniadau
     .tooltiptext = Estyniadau
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = Rhwystrodd { -brand-short-name } y dudalen hon rhag ailagor yn awtomatig.
+refresh-blocked-redirect-label = Rhwystrodd { -brand-short-name } y dudalen hon rhag ailgyfeirio i dudalen arall.
