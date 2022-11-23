@@ -30,3 +30,5 @@ origin-controls-state-no-access = Бұл сайттағы деректерді �
 origin-controls-state-always-on = Бұл сайттағы деректерді оқи және өзгерте алады
 origin-controls-state-when-clicked = Деректерді оқу және өзгерту үшін рұқсат керек
 origin-controls-state-hover-run-visit-only = Тек осы реттік шолу үшін орындау
+origin-controls-state-runnable-hover-open = Кеңейтуді ашу
+origin-controls-state-runnable-hover-run = Кеңейтуді орындау

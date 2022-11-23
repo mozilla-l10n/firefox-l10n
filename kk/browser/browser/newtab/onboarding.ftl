@@ -25,6 +25,12 @@ return-to-amo-addon-title = Енді сізге <img data-l10n-name="icon"/> <b>
 return-to-amo-add-extension-label = Кеңейтуді қосу
 return-to-amo-add-theme-label = Теманы қосу
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = { -brand-short-name } өніміне сәлем айтыңыз
+mr1-return-to-amo-addon-title = Сіздің қолыңызда жылдам, жеке браузер. Енді сіз <b>{ $addon-name }</b> қосып, { -brand-short-name } көмегімен одан да көп нәрсені жасай аласыз.
+mr1-return-to-amo-add-extension-label = { $addon-name } қосу
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
