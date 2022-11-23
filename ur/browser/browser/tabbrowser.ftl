@@ -23,9 +23,15 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = ٹیب بند کریں
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] بند کریں اور باہر نکلیں۔
+       *[other] بند کریں اور باہر نکلیں۔
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
@@ -35,6 +41,7 @@ tabbrowser-tab-tooltip =
 
 tabbrowser-confirm-open-multiple-tabs-title = کھولنے کی تصدیق کریں
 tabbrowser-confirm-open-multiple-tabs-button = ٹیب کھولیں
+tabbrowser-confirm-open-multiple-tabs-checkbox = اگر زیادہ ٹیب کھولنے سے { -brand-short-name } آہستہ ہوتا ہو تو مجھے آگاہ کیجیے
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -55,3 +62,7 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = ٹیب کی خاموشی ختم کریں
     .accesskey = خ
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = ٹیب کی خاموشی ختم کریں
+    .accesskey = m
