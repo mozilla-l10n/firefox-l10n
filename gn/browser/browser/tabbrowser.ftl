@@ -16,11 +16,47 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Emboty tendayke
+           *[other] Emboty { $tabCount } tendayke
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Emokirirĩ tendayke ({ $shortcut })
+           *[other] Emokirirĩ { $tabCount } tendayke ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Emokirirĩ’o tendayke ({ $shortcut })
+           *[other] Emokirirĩ’o { $tabCount } tendayke ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Emokirirĩ tendayke
+           *[other] Emokirirĩ { $tabCount } tendayke
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Emboheta tendayke (%S)
+           *[other] Emboheta { $tabCount } tendayke
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -36,6 +72,15 @@ tabbrowser-confirm-close-tabs-button = Tendayke mboty
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Emoneĩ mbojuruja
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Embojuruja pota { $tabCount } tendayke. Kóva ikatu { -brand-short-name } rembiapoite imbegueve henyhẽnguévo kuatiaroguekuéra. ¿ejaposétépa hína?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Embojuruja tendayke
+tabbrowser-confirm-open-multiple-tabs-checkbox = Chemomarandu heta tendayke ijurujárõ { -brand-short-name } imbeguevetaha
 
 ## Confirmation dialog for enabling caret browsing
 
