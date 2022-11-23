@@ -71,6 +71,11 @@ tabbrowser-confirm-close-tabs-button = Затваряне на разделит�
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Затваряне и излизане
+       *[other] Затваряне и излизане
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
