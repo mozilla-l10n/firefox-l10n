@@ -27,7 +27,6 @@ appmenuitem-more-tools =
     .label = ئامرازی تر
 appmenuitem-help =
     .label = یارمەتی
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -48,39 +47,31 @@ appmenu-remote-tabs-sign-into-sync =
     .label = بۆ هاوکاتکردن بچۆژوورەوە...
 appmenu-remote-tabs-turn-on-sync =
     .label = هاوکاتگەری پێبکە...
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = بازدەری کراوە نیە
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = هاوکاتگەری بازدەر چالاک بکە بۆ ئەوەی لیستی هەموو بازدەرەکان ببینیت لە ئامێرەکەی ترەوە.
-
 appmenu-remote-tabs-opensettings =
     .label = ڕێکخستنەکان
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = دەتەوێت بازدەرەکانت لە ئامێرەکانی ترەوە ببینی؟
-
 appmenu-remote-tabs-connectdevice =
     .label = پەیوەندی بکە بە ئامێرێکی تر
 appmenu-remote-tabs-welcome = لیستەی بازدەرەکان پیشان بدە لە ئامێرەکانی ترەوە.
 appmenu-remote-tabs-unverified = پێویستە هەژمارەکەت بسەلمێندرێت.
-
 appmenuitem-fxa-toolbar-sync-now2 = هاوکاتگەری پێکردن
 appmenuitem-fxa-sign-in = بچۆژوورەوە لە { -brand-product-name }
 appmenuitem-fxa-manage-account = ڕێکخستنی هەژمار
 appmenu-fxa-signed-in-label = بچۆژوورەوە
 appmenu-fxa-setup-sync =
     .label = هاوکاتگەری پێبکە...
-
 appmenuitem-save-page =
     .label = پەرە پاشەکەوت بکە وەک...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = چی نوێ هەیە
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -94,24 +85,18 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = پرۆفایل
     .tooltiptext = تۆمارکردنی پرۆفایلی کارایی
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = زانیاری زیاتر دەربخە
-
 profiler-popup-learn-more-button =
     .label = زیاتر بزانە
-
 profiler-popup-settings =
     .value = ڕێکخستنەکان
-
 profiler-popup-recording-screen = تۆمارکردن...
-
 profiler-popup-start-recording-button =
     .label = دەست پێ کردنی تۆمارکردن
-
 profiler-popup-discard-button =
     .label = هەڵیبوەشێنەوە
 
@@ -125,16 +110,12 @@ profiler-popup-discard-button =
 
 profiler-popup-presets-web-developer-label =
     .label = گەشەپێدەری وێب
-
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-label =
     .label = گرافیک
-
 profiler-popup-presets-networking-label =
     .label = ڕایەڵە
-
 profiler-popup-presets-custom-label =
     .label = خوازراو
 
