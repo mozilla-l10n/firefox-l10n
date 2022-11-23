@@ -16,6 +16,14 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Lor dirica matidi
+           *[other] Lor dirica matino { $tabCount }
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -36,6 +44,15 @@ tabbrowser-confirm-close-tabs-button = Lor dirica matino
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Mok yabo
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] I cok ki yabo dirica matino { $tabCount }. Man romo weko { -brand-short-name } woto mot kun nongo pot buk tye ka canne. I moko ada ni i mito mede anyim?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Yab dirica matino
+tabbrowser-confirm-open-multiple-tabs-checkbox = Niang an ka ce yabo dirica matino mapol romo weko { -brand-short-name } woto mot
 
 ## Confirmation dialog for enabling caret browsing
 
