@@ -41,6 +41,10 @@ tabbrowser-confirm-close-tabs-button = ปิดแท็บ
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = อนุญาตให้การแจ้งเตือนเช่นนี้จาก { $domain } นำคุณไปที่แท็บของไซต์
+tabbrowser-customizemode-tab-title = ปรับแต่ง { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-unmute-tab =
+    .label = เปิดเสียงแท็บ
+    .accesskey = ส
