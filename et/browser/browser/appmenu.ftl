@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name }i uuenduse allalaadimine
-
 appmenuitem-banner-update-available =
     .label = Uuendus on saadaval — laadi kohe alla
-
 appmenuitem-banner-update-manual =
     .label = Uuendus on saadaval — laadi kohe alla
-
 appmenuitem-banner-update-unsupported =
     .label = Uuendamine pole võimalik — süsteem pole ühilduv
-
 appmenuitem-banner-update-restart =
     .label = Uuendus on saadaval — taaskäivita kohe
-
 appmenuitem-new-tab =
     .label = Uus kaart
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Sulge rakenduse menüü
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Sünkroniseerimiseks logi sisse…
 appmenu-remote-tabs-turn-on-sync =
     .label = Lülita sünkroniseerimine sisse…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Kuva rohkem kaarte
     .tooltiptext = Kuva rohkem kaarte sellest seadmest
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Avatud kaarte pole
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Teistes seadmetes avatud kaartide nägemiseks lülita sisse kaartide sünkroniseerimine.
-
 appmenu-remote-tabs-opensettings =
     .label = Sätted
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Soovid näha teistes seadmetes avatud kaarte?
-
 appmenu-remote-tabs-connectdevice =
     .label = Ühenda teine seade
 appmenu-remote-tabs-welcome = Vaata teistes seadmetes avatud kaartide nimekirja.
 appmenu-remote-tabs-unverified = Sinu konto vajab kinnitamist.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sünkroniseeri kohe
 appmenuitem-fxa-sign-in = Logi { -brand-product-name }i sisse
 appmenuitem-fxa-manage-account = Halda kontot
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = Sünkroniseeri ja salvesta andmed
 appmenu-fxa-signed-in-label = Logi sisse
 appmenu-fxa-setup-sync =
     .label = Lülita sünkroniseerimine sisse…
-
 appmenuitem-save-page =
     .label = Salvesta veebileht kui…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Mis on uut?
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,53 +120,39 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiiler
     .tooltiptext = Salvesta jõudluse profiil
-
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = The profiler is recording a profile
-
 profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = The profiler is capturing a profile
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Reveal more information
-
 profiler-popup-description-title =
     .value = Record, analyze, share
-
 profiler-popup-description = Collaborate on performance issues by publishing profiles to share with your team.
-
 profiler-popup-learn-more-button =
     .label = Learn more
-
 profiler-popup-settings =
     .value = Settings
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Edit Settings…
-
 profiler-popup-recording-screen = Recording…
-
 profiler-popup-start-recording-button =
     .label = Start Recording
-
 profiler-popup-discard-button =
     .label = Discard
-
 profiler-popup-capture-button =
     .label = Capture
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -199,23 +170,18 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Recommended preset for most web app debugging, with low overhead.
 profiler-popup-presets-web-developer-label =
     .label = Web Developer
-
 profiler-popup-presets-firefox-description = Recommended preset for profiling { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Graphics
-
 profiler-popup-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
-
 profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Network
-
 profiler-popup-presets-custom-label =
     .label = Custom
 
@@ -278,7 +244,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Kohanda tööriistariba…
-
 appmenu-developer-tools-subheader = Browser tools
 appmenu-developer-tools-extensions =
     .label = Extensions for developers
