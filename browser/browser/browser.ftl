@@ -925,3 +925,8 @@ private-browsing-indicator-label = مرور ناشناس
 unified-extensions-button =
     .label = افزونه‌ها
     .tooltiptext = افزونه‌ها
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } از بار شدن مجدد این صفحه به صورت خودکار جلوگیری کرد.
+refresh-blocked-redirect-label = { -brand-short-name } این صفحه را از تغییر مسیر خودکار به صفحه‌ای دیگر بازداشت.
