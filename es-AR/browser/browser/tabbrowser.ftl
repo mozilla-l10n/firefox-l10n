@@ -35,6 +35,13 @@ tabbrowser-tab-tooltip =
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitir que notificaciones como esta de { $domain } lleven a esa pestaña
+tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Enmudecer pestaña
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Desenmudecer pestaña
+    .accesskey = M
