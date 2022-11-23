@@ -2,10 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = కొత్త ట్యాబు
+tabbrowser-menuitem-close-tab =
+    .label = ట్యాబును మూసివేయి
+tabbrowser-menuitem-close =
+    .label = మూసివేయి
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ట్యాబును మూసివేయి
+           *[other] { $tabCount } ట్యాబులను మూసివేయి
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -15,6 +33,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = ట్యాబులను మూసివేయి
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -25,6 +44,8 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = తెరవడాన్ని నిర్ధారించండి
+tabbrowser-confirm-open-multiple-tabs-button = ట్యాబులను తెరువు
 
 ## Confirmation dialog for enabling caret browsing
 
