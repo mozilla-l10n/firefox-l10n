@@ -36,7 +36,15 @@ tabbrowser-confirm-close-tabs-button = Cerrar pestañas
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Confirmación de apertura
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Está a punto de abrir { $tabCount } pestañas. Esto podría ralentizar { -brand-short-name } mientras se cargan las páginas. ¿Seguro que quiere continuar?
+    }
 tabbrowser-confirm-open-multiple-tabs-button = Abrir pestañas
+tabbrowser-confirm-open-multiple-tabs-checkbox = Advertirme cuando abrir múltiples pestañas pueda ralentizar { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
