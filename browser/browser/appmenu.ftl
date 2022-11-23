@@ -128,6 +128,7 @@ profiler-popup-button-capturing =
     .tooltiptext = Nástroj na profilovanie zaznamenáva profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Zobraziť ďalšie informácie
 profiler-popup-description-title =
