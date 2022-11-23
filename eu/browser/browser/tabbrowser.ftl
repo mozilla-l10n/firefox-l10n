@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Itxi fitxa
 tabbrowser-menuitem-close =
     .label = Itxi
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -41,6 +46,13 @@ tabbrowser-confirm-close-tabs-button = Itxi fitxak
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Baimendu { $domain } helbideko gisa honetako jakinarazpenek bere fitxara aldaraztea
+tabbrowser-customizemode-tab-title = Pertsonalizatu { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Mututu fitxa
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Ez mututu fitxa
+    .accesskey = m
