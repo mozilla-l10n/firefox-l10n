@@ -119,6 +119,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Kemenn din mar befe gorrekaet {
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Merdeiñ dre ar reti
 
 ##
 
