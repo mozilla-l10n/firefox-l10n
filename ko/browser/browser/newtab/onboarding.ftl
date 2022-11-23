@@ -27,6 +27,8 @@ return-to-amo-add-theme-label = 테마 추가
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = { -brand-short-name }를 만나보세요
+mr1-return-to-amo-addon-title = 빠르고 사생활을 보호하는 브라우저를 손쉽게 사용할 수 있습니다. 이제 <b>{ $addon-name }</b> 부가 기능을 추가하고 { -brand-short-name }로 더 많은 작업을 수행할 수 있습니다.
 mr1-return-to-amo-add-extension-label = { $addon-name } 추가
 
 ## Multistage onboarding strings (about:welcome pages)
