@@ -5,5 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Rapport skickad. Tack!
+confirmation-hint-login-removed = Inloggning borttagen!
 confirmation-hint-page-bookmarked = Sparad till bokmärken
+confirmation-hint-password-saved = Lösenord sparat!
+confirmation-hint-pin-tab = Fäst!
 confirmation-hint-pin-tab-description = Högerklicka på fliken för att ta bort den.
+confirmation-hint-send-to-device = Skickat!
