@@ -928,3 +928,11 @@ private-browsing-indicator-label = Privat surfning
 unified-extensions-button =
     .label = Tillägg
     .tooltiptext = Tillägg
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } har förhindrat att den här sidan uppdateras automatiskt.
+refresh-blocked-redirect-label = { -brand-short-name } har förhindrat att den här sidan automatiskt styr om till en annan sida.
+refresh-blocked-allow =
+    .label = Tillåt
+    .accesskey = T
