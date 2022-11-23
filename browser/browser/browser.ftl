@@ -461,3 +461,6 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = ഈ താള്‍ സ്വയമായി ലഭ്യമാകുന്നതു് { -brand-short-name } തടഞ്ഞിരിക്കുന്നു.
 refresh-blocked-redirect-label = മറ്റൊരു താളിലേക്കു് ഈ താള്‍ തിരിച്ചു വിടുന്നതു് { -brand-short-name } തടഞ്ഞിരിക്കുന്നു.
+refresh-blocked-allow =
+    .label = അനുവദിക്കുക
+    .accesskey = A

@@ -37,6 +37,13 @@ tabbrowser-confirm-close-tabs-button = റ്റാബുകള്‍ അടയ�
 
 ##
 
+tabbrowser-customizemode-tab-title = { -brand-short-name } ഇഷ്ടാനുസൃതമാക്കുക
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = ടാബ് നിശബ്ദമാക്കുക
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = ടാബ് നിശ്ശബ്ദമാക്കുക
+    .accesskey = m
