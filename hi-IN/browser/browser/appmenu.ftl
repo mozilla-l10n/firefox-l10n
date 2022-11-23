@@ -7,13 +7,10 @@
 
 appmenuitem-banner-update-available =
     .label = अपडेट उपलब्ध है — अभी डाउनलोड करें
-
 appmenuitem-banner-update-manual =
     .label = अपडेट उपलब्ध है — अभी डाउनलोड करें
-
 appmenuitem-banner-update-restart =
     .label = अपडेट उपलब्ध है — अभी फिर से चालु करें
-
 appmenuitem-new-tab =
     .label = नया टैब
 appmenuitem-new-window =
@@ -50,7 +47,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = एप्लिकेशन मेन्यू बंद करें
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -71,25 +67,19 @@ appmenu-remote-tabs-sign-into-sync =
     .label = सिंक करने के लिए साइन इन करें...
 appmenu-remote-tabs-turn-on-sync =
     .label = सिंक चालू करें…
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = कोई टैब खुला नहीं
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से टैब संकलन खोले.
-
 appmenu-remote-tabs-opensettings =
     .label = सेटिंग
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?
-
 appmenu-remote-tabs-connectdevice =
     .label = अन्य उपकरण जोड़ें
 appmenu-remote-tabs-welcome = अपने अन्य उपकरणों से टैब की एक सूची दिखाएं।
 appmenu-remote-tabs-unverified = आपके खाते की पृष्टि करने की आवश्यकता है.
-
 appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
 appmenuitem-fxa-sign-in = { -brand-product-name } में साइन इन करें
 appmenuitem-fxa-manage-account = खाता प्रबंधित करें
@@ -98,14 +88,12 @@ appmenu-fxa-sync-and-save-data2 = सिंक करें और डेटा 
 appmenu-fxa-signed-in-label = साइन इन
 appmenu-fxa-setup-sync =
     .label = सिंक चालू करें…
-
 appmenuitem-save-page =
     .label = पृष्ठ ऐसे सहेजें…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = क्या नया है
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -119,37 +107,28 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = प्रोफाइलर
     .tooltiptext = एक प्रदर्शन प्रोफ़ाइल रिकॉर्ड करें
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-learn-more-button =
     .label = अधिक जानें
-
 profiler-popup-settings =
     .value = सेटिंग
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = सेटिंग संपादित करें…
-
 profiler-popup-recording-screen = रिकॉर्डिंग…
-
 profiler-popup-start-recording-button =
     .label = रिकॉर्डिंग शुरू करें
-
 profiler-popup-discard-button =
     .label = छोड़ें
-
 profiler-popup-capture-button =
     .label = कैप्चर
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -166,13 +145,10 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = वेब डेवलेपर
-
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-media-label =
     .label = मीडिया
-
 profiler-popup-presets-custom-label =
     .label = मनपसंद
 
