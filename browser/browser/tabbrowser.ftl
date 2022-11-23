@@ -79,6 +79,13 @@ tabbrowser-confirm-close-tabs-button = Pechar as lapelas
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Confirmar a apertura
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Van abrirse { $tabCount } lapelas, o que pode facer que { -brand-short-name } diminúa a velocidade durante a carga das páxinas. Confirma que quere continuar?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Abrir lapelas
 tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar cando por abrir varias lapelas diminúa a velocidade de { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
