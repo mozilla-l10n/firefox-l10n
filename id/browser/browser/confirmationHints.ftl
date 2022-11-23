@@ -6,3 +6,4 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = Laporan terkirim. Terima kasih!
+confirmation-hint-send-to-device = Terkirim!
