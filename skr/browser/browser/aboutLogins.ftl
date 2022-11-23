@@ -69,6 +69,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] ہٹاؤ
        *[other] سارے ہٹاؤ
     }
+confirm-discard-changes-dialog-confirm-button = کڈھ سٹو
 
 ## Breach Alert notification
 
@@ -80,6 +81,9 @@ about-logins-breach-alert-learn-more-link = ٻیا سِکھو
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = کمزور پاسورڈ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } تے ون٘ڄو
 about-logins-vulnerable-alert-learn-more-link = ٻیا سِکھو
 
 ## Error Messages
