@@ -7,3 +7,4 @@
 
 confirmation-hint-breakage-report-sent = Naipadala na ang report. Maraming salamat!
 confirmation-hint-page-bookmarked = Nadagdag sa mga bookmark
+confirmation-hint-send-to-device = Naipadala na!
