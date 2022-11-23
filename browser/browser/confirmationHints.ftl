@@ -8,6 +8,7 @@
 confirmation-hint-breakage-report-sent = Reporte enviado. ¡Gracias!
 confirmation-hint-login-removed = ¡Inicio de sesión eliminado!
 confirmation-hint-page-bookmarked = Guardado en marcadores
+confirmation-hint-password-saved = ¡Contraseña guardada!
 confirmation-hint-pin-tab = ¡Fijada!
 confirmation-hint-pin-tab-description = Haz clic derecho en la pestaña para desfijarla.
 confirmation-hint-send-to-device = ¡Enviado!
