@@ -224,3 +224,6 @@ tabs-toolbar-list-all-tabs =
 
 refresh-blocked-refresh-label = { -brand-short-name } нь энэ хуудсыг автоматаар дахин дуудагдахаас сэргийлсэн
 refresh-blocked-redirect-label = { -brand-short-name } нь энэ хуудсыг өөр хуудас уруу автоматаар дамжуулагдахаас сэргийлсэн
+refresh-blocked-allow =
+    .label = Зөвшөөр
+    .accesskey = ш
