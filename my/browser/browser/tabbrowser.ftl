@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = တပ်ဗ်အသစ်
+tabbrowser-menuitem-close-tab =
+    .label = တပ်ဗ်ကို ပိတ်ပါ
 tabbrowser-menuitem-close =
     .label = ပိတ်ပါ
 # Variables:
@@ -17,6 +20,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = တပ်ဗ်များကို ပိတ်ပါ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -27,6 +31,7 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = ဖွင့်ရန် အတည်ပြုခြင်း
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -37,6 +42,9 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } ကို စိတ�
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = တပ်ဗ်၏ အသံပိုင်းကို ပိတ်ရန်
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = အသံ ပြန်ဖွင့်ပါ
     .accesskey = m
