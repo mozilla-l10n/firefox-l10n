@@ -3,8 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Bagong Tab
+tabbrowser-menuitem-close-tab =
+    .label = Isara ang Tab
 tabbrowser-menuitem-close =
     .label = Isara
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -60,3 +67,6 @@ tabbrowser-allow-dialogs-to-get-focus =
 tabbrowser-context-mute-tab =
     .label = i-Mute ang Tab
     .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = I-unmute ang Tab
+    .accesskey = m
