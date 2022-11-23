@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nyt faneblad
+tabbrowser-empty-private-tab-title = Nyt privat faneblad
 tabbrowser-menuitem-close-tab =
     .label = Luk faneblad
 tabbrowser-menuitem-close =
@@ -67,14 +68,30 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Luk { $tabCount } faneblade?
 tabbrowser-confirm-close-tabs-button = Luk faneblade
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Luk { $windowCount } vinduer?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Luk og afslut
+       *[other] Luk og afslut
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Luk vindue og afslut { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Afslut { -brand-short-name }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
