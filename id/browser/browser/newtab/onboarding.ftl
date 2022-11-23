@@ -25,6 +25,10 @@ return-to-amo-addon-title = Sekarang dapatkan <img data-l10n-name="icon"/><b>{ $
 return-to-amo-add-extension-label = Tambahkan Ekstensi
 return-to-amo-add-theme-label = Tambahkan Tema
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-add-extension-label = Tambahkan { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -327,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = Suara independen dapat mengubah budaya.
 mr2022-onboarding-colorway-primary-button-label-continue = Setel dan lanjutkan
 mr2022-onboarding-existing-colorway-checkbox-label = Jadikan { -firefox-home-brand-name } beranda penuh warna
 mr2022-onboarding-colorway-label-default = Bawaan
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Baku
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Warna { -brand-short-name } saat ini
 mr2022-onboarding-colorway-description-default = <b>Gunakan warna { -brand-short-name } saya saat ini.</b>
 mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Playmaker (merah)
 mr2022-onboarding-colorway-description-playmaker = <b>Anda adalah seorang Playmaker.</b> Anda menciptakan peluang untuk menang dan membantu semua orang di sekitar Anda meningkatkan permainan mereka.
 mr2022-onboarding-colorway-label-expressionist = Ekspresionis
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Ekspresionis
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresionis (kuning)
 mr2022-onboarding-colorway-description-expressionist = <b>Anda adalah seorang Ekspresionis.</b> Anda melihat dunia secara berbeda dan kreasi Anda membangkitkan emosi orang lain.
 mr2022-onboarding-colorway-label-visionary = Visioner
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visioner
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visioner (hijau)
 mr2022-onboarding-colorway-description-visionary = <b>Anda adalah seorang Visioner.</b> Anda mempertanyakan status quo dan menggerakkan orang lain untuk membayangkan masa depan yang lebih baik.
 mr2022-onboarding-colorway-label-activist = Aktivis
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktivis
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivis (biru)
 mr2022-onboarding-colorway-description-activist = <b>Anda adalah seorang Aktivis.</b> Anda meninggalkan dunia sebagai tempat yang lebih baik daripada yang Anda temukan dan membuat orang lain percaya.
 mr2022-onboarding-colorway-label-dreamer = Pemimpi
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Pemimpi
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Pemimpi (ungu)
 mr2022-onboarding-colorway-description-dreamer = <b>Anda adalah Pemimpi.</b> Anda percaya bahwa keberuntungan berpihak pada yang berani dan menginspirasi orang lain untuk menjadi berani.
 mr2022-onboarding-colorway-label-innovator = Inovator
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Inovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Inovator (oranye)
 mr2022-onboarding-colorway-description-innovator = <b>Anda adalah seorang Inovator.</b> Anda melihat peluang di mana-mana dan memberi dampak pada kehidupan semua orang di sekitar Anda.
