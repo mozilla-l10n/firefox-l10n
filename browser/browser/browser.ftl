@@ -935,6 +935,8 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } uniemożliwił tej stronie automatycznie odświeżyć stronę.
+refresh-blocked-redirect-label = { -brand-short-name } uniemożliwił tej stronie automatycznie przekierować do innej strony.
 refresh-blocked-allow =
     .label = Zezwól
     .accesskey = Z
