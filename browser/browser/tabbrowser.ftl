@@ -22,6 +22,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-checkbox = Тражи потврду пре затварања више картица
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -29,6 +30,9 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Тражи потврду пре затварања са пречицом { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
