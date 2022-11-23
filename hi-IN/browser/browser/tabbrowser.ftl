@@ -16,6 +16,14 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] टैब बंद करें
+           *[other] { $tabCount } टैब बंद करें
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
