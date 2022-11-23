@@ -9,3 +9,4 @@ confirmation-hint-login-removed = Prijava odstranjena!
 confirmation-hint-page-bookmarked = Shranjeno med zaznamke
 confirmation-hint-pin-tab = Pripeto!
 confirmation-hint-pin-tab-description = Desno-kliknite zavihek, da ga odpnete.
+confirmation-hint-send-to-device = Poslano!
