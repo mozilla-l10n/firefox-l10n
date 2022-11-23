@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = زبانهٔ جدید
+tabbrowser-empty-private-tab-title = زبانهٔ خصوصی جدید
 tabbrowser-menuitem-close-tab =
     .label = بستن زبانه
 tabbrowser-menuitem-close =
