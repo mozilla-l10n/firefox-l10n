@@ -5,4 +5,8 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = رپورٹ بھیجی گئی۔ آپ کا شکریہ!
+confirmation-hint-page-bookmarked = بُک مارکس میں محفوظ شدہ
+confirmation-hint-password-saved = پاس ورڈ محفوظ ہوگیا!
+confirmation-hint-pin-tab = پن شدہ!
 confirmation-hint-send-to-device = ارسال کر دیا گیا!
