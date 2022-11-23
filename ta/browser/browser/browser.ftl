@@ -489,3 +489,6 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } தானாக மீளேற்றப்படுவதிலிருந்து இந்தப் பக்கத்தில் தடுக்கிறது.
 refresh-blocked-redirect-label = { -brand-short-name } தானாக வேறு பக்கத்திற்குச் செல்வதிலிருந்து தடுக்கிறது.
+refresh-blocked-allow =
+    .label = அனுமதி
+    .accesskey = A
