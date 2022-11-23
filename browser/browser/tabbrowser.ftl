@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nouvel onglet
+tabbrowser-empty-private-tab-title = Nouvel onglet privé
 tabbrowser-menuitem-close-tab =
     .label = Fermer l’onglet
 tabbrowser-menuitem-close =
@@ -90,6 +91,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Prévenir lors de l’ouverture
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Navigation au curseur
+tabbrowser-confirm-caretbrowsing-message = L’appui sur F7 active ou désactive la navigation au curseur. Cette fonction place un curseur déplaçable dans les pages web, permettant de sélectionner du texte au clavier. Désirez-vous activer la navigation au curseur ?
+tabbrowser-confirm-caretbrowsing-checkbox = Ne plus afficher ce dialogue à l’avenir
 
 ##
 
@@ -106,4 +110,12 @@ tabbrowser-context-mute-tab =
     .accesskey = R
 tabbrowser-context-unmute-tab =
     .label = Réactiver le son de l’onglet
+    .accesskey = R
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Couper le son des onglets
+    .accesskey = R
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Réactiver le son des onglets
     .accesskey = R
