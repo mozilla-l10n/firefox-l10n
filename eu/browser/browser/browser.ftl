@@ -930,3 +930,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name }(e)k orri hau blokeatu du automatikoki ez berritzeko.
 refresh-blocked-redirect-label = { -brand-short-name }(e)k orri hau blokeatu du automatikoki beste orri batetara ez joateko.
+refresh-blocked-allow =
+    .label = Baimendu
+    .accesskey = B
