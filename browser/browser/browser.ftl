@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (பிரத்தியேக உலாவல்)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (பிரத்தியேக உலாவல்)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (பிரத்தியேக உலாவல்)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (பிரத்தியேக உலாவல்)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -91,6 +89,7 @@ full-screen-exit =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -126,10 +125,8 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = முகவரியைத் தேடவும் அல்லது உள்ளிடவும்
-
 urlbar-switch-to-tab =
     .value = தத்தலுக்கு மாற்றுக:
-
 urlbar-go-button =
     .tooltiptext = இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்
 
@@ -143,6 +140,9 @@ urlbar-go-button =
 
 
 ## Labels shown above groups of urlbar results
+
+
+## Reader View toolbar buttons
 
 
 ## Full Screen and Pointer Lock UI
@@ -159,7 +159,6 @@ bookmarks-sidebar-content =
     .aria-label = புத்தகக்குறிகள்
 bookmarks-bookmark-edit-panel =
     .label = இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக
-
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறிகளின் கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
@@ -179,8 +178,6 @@ bookmarks-toolbar-placeholder-button =
 ## Customize Toolbar Buttons
 
 
-## More items
-
 ## EME notification panel
 
 
@@ -188,9 +185,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -202,7 +196,6 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = { $uriHost } இற்கான முன்னெழும் சாளரங்களை அனுமதிக்க
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } இற்கான முன்னெழும் சாளரங்களைத் தடைசெய்க
     .accesskey = p
@@ -227,10 +220,8 @@ popups-infobar-dont-show-message =
 # in the string
 tabs-toolbar =
     .aria-label = உலாவித் தத்தல்கள்
-
 tabs-toolbar-new-tab =
     .label = புதிய தத்தல்
-
 tabs-toolbar-list-all-tabs =
     .label = அனைத்து தத்தல்களையும் பட்டியலிடுக
     .tooltiptext = அனைத்து தத்தல்களையும் பட்டியலிடுக
@@ -240,5 +231,11 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ஆனது இந்தப் பக்கம் தன்னிச்சையாக மேலேற்றப்படுவதனைத் தடுக்கிறது.
+refresh-blocked-redirect-label = { -brand-short-name } ஆனது இந்தப் பக்கம் தன்னிச்சையாக இன்னொரு பக்கத்திற்குத் திருப்பப்படுவதனைத் தடுக்கிறது.
