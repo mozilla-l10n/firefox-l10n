@@ -6,4 +6,7 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = ส่งรายงานแล้ว ขอบคุณ!
+confirmation-hint-password-saved = บันทึกรหัสผ่านแล้ว!
+confirmation-hint-pin-tab = ปักหมุดแล้ว!
+confirmation-hint-pin-tab-description = คลิกขวาที่แท็บเพื่อถอนหมุด
 confirmation-hint-send-to-device = ส่งแล้ว!
