@@ -5,4 +5,5 @@
 
 ## Confirmation hints
 
+confirmation-hint-pin-tab-description = Napsauta välilehteä oikealla painikkeella poistaaksesi kiinnityksen.
 confirmation-hint-send-to-device = Lähetetty!
