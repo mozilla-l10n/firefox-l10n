@@ -677,3 +677,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } نے اس صفحہ کو خودکار لوڈ ہونے سے روکا۔
+refresh-blocked-redirect-label = { -brand-short-name } نے اس پیج کو خودکار طور پر دوسرے پیج پر جانے سے روکا۔
