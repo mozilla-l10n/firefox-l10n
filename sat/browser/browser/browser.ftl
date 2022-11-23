@@ -934,3 +934,11 @@ private-browsing-indicator-label = ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤ�
 unified-extensions-button =
     .label = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
     .tooltiptext = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ᱟᱪ ᱛᱮ ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ ᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱾
+refresh-blocked-redirect-label = { -brand-short-name } ᱟᱪ ᱛᱮ ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮ ᱨᱩᱣᱟᱲ ᱫᱚᱦᱲᱟ ᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱾
+refresh-blocked-allow =
+    .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
+    .accesskey = A
