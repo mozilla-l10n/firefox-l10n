@@ -5,6 +5,7 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Reporto inviate. Gratias!
 confirmation-hint-login-removed = Accesso removite!
 confirmation-hint-page-bookmarked = Salvate in marcapaginas
 confirmation-hint-password-saved = Contrasigno salvate!
