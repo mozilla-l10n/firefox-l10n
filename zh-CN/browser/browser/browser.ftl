@@ -924,3 +924,11 @@ private-browsing-indicator-label = 隐私浏览
 unified-extensions-button =
     .label = 扩展
     .tooltiptext = 扩展
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } 阻止了此页面自动重新载入。
+refresh-blocked-redirect-label = { -brand-short-name } 阻止了此页面自动重定向至其他页面。
+refresh-blocked-allow =
+    .label = 允许
+    .accesskey = A
