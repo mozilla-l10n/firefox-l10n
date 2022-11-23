@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Rapport sendt. Takk skal du ha!
+confirmation-hint-login-removed = Innlogging fjerna!
+confirmation-hint-page-bookmarked = Lagra til bokmerke
+confirmation-hint-password-saved = Passord lagra!
+confirmation-hint-pin-tab = Festa!
+confirmation-hint-pin-tab-description = Høgreklikk på fana for å løyse henne frå.
 confirmation-hint-send-to-device = Sendt!
