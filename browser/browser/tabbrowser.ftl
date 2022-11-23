@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Đóng thẻ
 tabbrowser-menuitem-close =
     .label = Đóng
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
