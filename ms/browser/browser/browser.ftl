@@ -485,3 +485,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } menghalang halaman ini daripada dimuatkan secara automatik.
+refresh-blocked-redirect-label = { -brand-short-name } menghalang halaman ini daripada dialihkan ke halaman lain secara automatik.
+refresh-blocked-allow =
+    .label = Izinkan
+    .accesskey = I
