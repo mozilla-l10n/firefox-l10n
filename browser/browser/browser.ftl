@@ -705,3 +705,4 @@ data-reporting-notification-button =
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } a împiedicat această pagină să se reîncarce automat.
+refresh-blocked-redirect-label = { -brand-short-name } a împiedicat această pagină să redirecționeze automat la altă pagină.
