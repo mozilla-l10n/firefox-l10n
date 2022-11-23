@@ -752,3 +752,8 @@ private-browsing-indicator-label = అంతరంగిక విహారణ
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = ఈ పేజీ స్వయంచాలకంగా తిరిగిలోడవ్వుటను { -brand-short-name } నిరోధిస్తోంది.
+refresh-blocked-redirect-label = ఈ పేజీ స్వయంచాలకంగా వేరొక పేజీకు మళ్ళుట నుండి { -brand-short-name } నిరోధిస్తోంది.
