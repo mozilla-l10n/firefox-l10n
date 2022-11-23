@@ -576,6 +576,7 @@ data-reporting-notification-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = Níor lig { -brand-short-name } don leathanach seo athlódáil go huathoibríoch.
 refresh-blocked-redirect-label = Níor lig { -brand-short-name } don leathanach seo athstiúradh go leathanach eile go huathoibríoch.
 refresh-blocked-allow =
     .label = Ceadaigh
