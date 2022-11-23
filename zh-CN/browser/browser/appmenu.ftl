@@ -128,6 +128,7 @@ profiler-popup-button-capturing =
     .tooltiptext = 分析器正在捕捉性能分析记录
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = 展示更多信息
 profiler-popup-description-title =
