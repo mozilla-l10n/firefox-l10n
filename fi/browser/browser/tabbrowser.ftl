@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Uusi välilehti
+tabbrowser-empty-private-tab-title = Uusi yksityinen välilehti
 tabbrowser-menuitem-close-tab =
     .label = Sulje välilehti
 tabbrowser-menuitem-close =
@@ -67,14 +68,31 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Suljetaanko { $tabCount } välilehteä?
 tabbrowser-confirm-close-tabs-button = Sulje välilehdet
+tabbrowser-confirm-close-tabs-checkbox = Vahvista ennen kuin useat välilehdet suljetaan
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Suljetaanko { $windowCount } ikkunaa?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Sulje ja poistu
+       *[other] Sulje ja lopeta
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Suljetaanko ikkuna ja lopetetaanko { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Lopeta { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vahvista ennen pikanäppäimellä { $quitKey } lopettamista
@@ -103,6 +121,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Älä näytä tätä ikkunaa uudesta
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Salli, että tällaiset ilmoitukset sivustolta { $domain } vievät sinut heidän välilehteen
+tabbrowser-customizemode-tab-title = Muokkaa { -brand-short-name }-selainta
 
 ## Context menu buttons, of which only one will be visible at a time
 
