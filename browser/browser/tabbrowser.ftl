@@ -11,11 +11,29 @@ tabbrowser-menuitem-close =
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label = 关闭 { $tabCount } 个标签页
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label = 静音 { $tabCount } 个标签页 ({ $shortcut })
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label = 取消静音 { $tabCount } 个标签页 ({ $shortcut })
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label = 静音 { $tabCount } 个标签页
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label = 取消静音 { $tabCount } 个标签页
+tabbrowser-unblock-tab-audio-tooltip =
+    .label = 播放 { $tabCount } 个标签页
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -31,6 +49,15 @@ tabbrowser-confirm-close-tabs-button = 关闭标签页
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = 确认打开
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] 您将要打开 { $tabCount } 个标签页。一并载入太多页面可能会减慢 { -brand-short-name } 的运行。您确定要一并打开吗？
+    }
+tabbrowser-confirm-open-multiple-tabs-button = 打开标签页
+tabbrowser-confirm-open-multiple-tabs-checkbox = 打开多个标签页可能致使 { -brand-short-name } 缓慢前提醒我
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -41,6 +68,7 @@ tabbrowser-confirm-close-tabs-button = 关闭标签页
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = 允许来自 { $domain } 的此类通知，将您带往该网站标签页
+tabbrowser-customizemode-tab-title = 定制 { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
