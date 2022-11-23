@@ -67,6 +67,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Close { $tabCount } tabs?
+tabbrowser-confirm-close-tabs-button = Close tabs
 tabbrowser-confirm-close-tabs-checkbox = Confirm before closing multiple tabs
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
