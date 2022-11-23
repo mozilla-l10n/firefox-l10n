@@ -925,3 +925,11 @@ private-browsing-indicator-label = Prywatne przeglōndanie
 unified-extensions-button =
     .label = Rozszyrzynia
     .tooltiptext = Rozszyrzynia
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } niy doł tyj strōnie sie autōmatycznie przeladować.
+refresh-blocked-redirect-label = { -brand-short-name } niy doł tyj strōnie autōmatycznie przekerować ku inkszyj strōnie.
+refresh-blocked-allow =
+    .label = Przizwōl
+    .accesskey = P
