@@ -86,6 +86,7 @@ tabbrowser-confirm-open-multiple-tabs-message =
        *[other] Tessutreḍ-d tulya n { $tabCount } n yiccaren. Aya yezmer ad yerr { -brand-short-name } ẓẓay ticki ttalin-d isebtar. Tebɣiḍ ad tkemmleḍ?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Ldi iccaren
+tabbrowser-confirm-open-multiple-tabs-checkbox = Lɣu-yid ticki ẓẓay { -brand-short-name } ma ldin waṭas n yiccaren
 
 ## Confirmation dialog for enabling caret browsing
 
