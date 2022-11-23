@@ -111,6 +111,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar que o carregamento de v�
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Navegação com cursor do teclado
+tabbrowser-confirm-caretbrowsing-message = A tecla F7 ativa ou desativa a navegação com cursor do teclado. Este recurso coloca um cursor móvel em página web, permitindo selecionar texto usando o teclado. Quer ativar a navegação com cursor do teclado?
+tabbrowser-confirm-caretbrowsing-checkbox = Não mostrar mais este aviso.
 
 ##
 
