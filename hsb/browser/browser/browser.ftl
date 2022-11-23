@@ -937,3 +937,11 @@ private-browsing-indicator-label = Priwatny modus
 unified-extensions-button =
     .label = Rozšěrjenja
     .tooltiptext = Rozšěrjenja
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } je tutu stronu při awtomatiskim znowačitanju haćił.
+refresh-blocked-redirect-label = { -brand-short-name } je tutu stronu při awtomatiskim dalesposrědkowanju k druhej stronje haćił.
+refresh-blocked-allow =
+    .label = Dowolić
+    .accesskey = l
