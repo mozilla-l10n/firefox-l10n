@@ -929,6 +929,7 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } evitó que esta página se recargue automáticamente.
 refresh-blocked-allow =
     .label = Permitir
     .accesskey = P
