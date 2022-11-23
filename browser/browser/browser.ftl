@@ -940,3 +940,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } neumožnil tejto stránke automatické obnovenie obsahu.
 refresh-blocked-redirect-label = { -brand-short-name } neumožnil tejto stránke automatické presmerovanie na inú stránku.
+refresh-blocked-allow =
+    .label = Povoliť
+    .accesskey = v
