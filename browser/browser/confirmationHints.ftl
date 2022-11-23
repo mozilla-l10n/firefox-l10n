@@ -9,3 +9,4 @@ confirmation-hint-breakage-report-sent = Raporto sendita. Dankon!
 confirmation-hint-password-saved = Pasvorto konservita!
 confirmation-hint-pin-tab = Alpinglita!
 confirmation-hint-pin-tab-description = Alklaku la langeton per la dekstra butono por depingli ĝin.
+confirmation-hint-send-to-device = Sendita!
