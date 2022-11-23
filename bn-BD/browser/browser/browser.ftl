@@ -494,3 +494,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } এই পাতাকে স্বয়ংক্রিয়ভাবে রিলোড করতে বাধা দিয়েছে।
+refresh-blocked-redirect-label = { -brand-short-name } এই পাতাটিকে স্বয়ংক্রিয়ভাবে অন্য একটি পাতায় রিডিরেক্ট করতে বাধা দিয়েছে।
+refresh-blocked-allow =
+    .label = অনুমোদন
+    .accesskey = A
