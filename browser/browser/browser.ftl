@@ -933,3 +933,8 @@ private-browsing-indicator-label = Priwatny modus
 unified-extensions-button =
     .label = Rozšyrjenja
     .tooltiptext = Rozšyrjenja
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } jo toś ten bok pśi awtomatiskem znowegocytanju zajźował.
+refresh-blocked-redirect-label = { -brand-short-name } jo toś ten bok pśi awtomatiskem dalejpósrědnjanju k drugemu bokoju zajźował.
