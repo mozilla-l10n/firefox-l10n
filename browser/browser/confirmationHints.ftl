@@ -6,6 +6,7 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = Справаздача адпраўлена. Дзякуй!
+confirmation-hint-login-removed = Лагін выдалены!
 confirmation-hint-page-bookmarked = Захавана ў закладках
 confirmation-hint-password-saved = Пароль захаваны!
 confirmation-hint-pin-tab = Прышпілена!
