@@ -5,5 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Звіт надіслано. Дякуємо!
 confirmation-hint-login-removed = Запис вилучено!
 confirmation-hint-page-bookmarked = Збережено до закладок
+confirmation-hint-password-saved = Пароль збережено!
+confirmation-hint-pin-tab = Прикріплено!
+confirmation-hint-pin-tab-description = Натисніть правою кнопкою на вкладці, щоб відкріпити її.
+confirmation-hint-send-to-device = Надіслано!
