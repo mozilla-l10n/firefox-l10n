@@ -925,3 +925,7 @@ private-browsing-indicator-label = Nabigatze pribatua
 unified-extensions-button =
     .label = Hedapenak
     .tooltiptext = Hedapenak
+
+## Autorefresh blocker
+
+refresh-blocked-redirect-label = { -brand-short-name }(e)k orri hau blokeatu du automatikoki beste orri batetara ez joateko.
