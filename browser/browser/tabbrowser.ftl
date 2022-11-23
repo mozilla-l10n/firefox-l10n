@@ -78,6 +78,15 @@ tabbrowser-confirm-close-tabs-button = Fermi langetojn
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Konfirmi malfermon
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Vi pretas malfermi { $tabCount } langetojn. Tio povas malrapidigi { -brand-short-name } dum la paĝoj estas ŝargataj. Ĉu vi certas ke vi volas daŭrigi?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Malfermi langetojn
+tabbrowser-confirm-open-multiple-tabs-checkbox = Averti min se malfermado de pluraj langetoj povus malrapidigi { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
