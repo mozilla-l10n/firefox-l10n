@@ -5,4 +5,5 @@
 
 ## Confirmation hints
 
+confirmation-hint-pin-tab = Закачен!
 confirmation-hint-send-to-device = Послато!
