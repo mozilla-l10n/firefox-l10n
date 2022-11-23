@@ -818,3 +818,4 @@ data-reporting-notification-button =
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = „{ -brand-short-name }“ neleido šiam tinklalapiui automatiškai būti automatiškai atsiųstam iš naujo.
+refresh-blocked-redirect-label = „{ -brand-short-name }“ neleido šiam tinklalapiui automatiškai jus nukreipti į kitą tinklalapį.
