@@ -16,11 +16,53 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Loka flipa
+           *[other] Loka { $tabCount } flipum
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Slökkva á hljóði í flipa ({ $shortcut })
+           *[other] Slökkva á hljóði í { $tabCount } flipum ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Kveikja á hljóði í flipa ({ $shortcut })
+           *[other] Kveikja á hljóði í { $tabCount } flipum ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Slökkva á hljóði í flipa
+           *[other] Slökkva á hljóði í { $tabCount } flipum
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Kveikja á hljóði í flipa
+           *[other] Kveikja á hljóði í { $tabCount } flipum
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Spila flipa
+           *[other] Spila { $tabCount } flipa
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -65,3 +107,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Virkja hljóð í flipa
     .accesskey = V
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Slökkva á hljóði úr flipum
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Kveikja á hljóði úr flipum
+    .accesskey = m
