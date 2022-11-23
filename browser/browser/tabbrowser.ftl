@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Cau Tab
 tabbrowser-menuitem-close =
     .label = Cau
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -41,6 +46,10 @@ tabbrowser-confirm-close-tabs-button = Cau tabiau
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Caniatáu i hysbysiadau fel hyn o { $domain } fynd â chi i'w tab
+tabbrowser-customizemode-tab-title = Cyfaddasu { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-unmute-tab =
+    .label = Tab Dad-dewi
+    .accesskey = D
