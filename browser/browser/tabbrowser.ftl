@@ -102,6 +102,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Thoir rabhadh dhomh ma tha mi g
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Brabhsadh carait
+tabbrowser-confirm-caretbrowsing-message = Cuiridh tu brabhsadh carait air is dheth le F7. Cuiridh an gleus seo carait ghluasadach ann an duilleag-lìn agus ’s urrainn dhut teacsa a thaghadh leis a’ mheur-chlàr leis. A bheil thu airson brabhsadh carait a chur air a-nis?
+tabbrowser-confirm-caretbrowsing-checkbox = Na seall am bogsa-còmhraidh seo dhomh a-rithist.
 
 ##
 
