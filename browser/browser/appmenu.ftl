@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name } යාවත්කාලය බාගැනෙමින්
-
 appmenuitem-banner-update-available =
     .label = යාවත්කාලයක් තිබේ — දැන් බාගන්න
-
 appmenuitem-banner-update-manual =
     .label = යාවත්කාලයක් තිබේ — දැන් බාගන්න
-
 appmenuitem-banner-update-unsupported =
     .label = යාවත්කාල කළ නොහැකිය — පද්ධතියට නොගැළපේ
-
 appmenuitem-banner-update-restart =
     .label = යාවත්කාලයක් තිබේ — දැන් යළි අරඹන්න
-
 appmenuitem-new-tab =
     .label = නව පටිත්ත
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = යෙදුමේ වට්ටෝරුව වසන්න
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = සමමුහූර්තයට පිවිසෙන්න…
 appmenu-remote-tabs-turn-on-sync =
     .label = සමමුහූර්තය සක්‍රිය කරන්න...
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = තවත් පටිති පෙන්වන්න
     .tooltiptext = මෙම උපාංගයෙන් බොහෝ පටිති පෙන්වන්න
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = විවෘත පටිති නැත.
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ඔබගේ අන් උපාංගවල පටිති ලේඛනයක් දැකීමට සමමුහූර්තය සක්‍රිය කරන්න.
-
 appmenu-remote-tabs-opensettings =
     .label = සැකසුම්
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = වෙනත් උපාංගයකින් ඔබගේ පටිති බැලීමට අවශ්‍යද?
-
 appmenu-remote-tabs-connectdevice =
     .label = අන් උපාංගයක් සබඳින්න
 appmenu-remote-tabs-welcome = ඔබගේ අනෙකුත් උපාංග වලින් පටිති ලේඛනයක් බලන්න.
 appmenu-remote-tabs-unverified = ඔබගේ ගිණුම තහවුරු කළ යුතුයි.
-
 appmenuitem-fxa-toolbar-sync-now2 = සමමුහූර්ත කරන්න
 appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙන්න
 appmenuitem-fxa-manage-account = ගිණුම කළමනාකරණය
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = සමමුහූර්ත කර සුර�
 appmenu-fxa-signed-in-label = පිවිසෙන්න
 appmenu-fxa-setup-sync =
     .label = සමමුහූර්තය සක්‍රිය කරන්න...
-
 appmenuitem-save-page =
     .label = මෙලෙස පිටුව සුරකින්න
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = අළුත් දෑ
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -134,40 +119,30 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = තව තොරතුරු පෙන්වන්න
-
 profiler-popup-description-title =
     .value = පටිගතය, විශ්ලේෂණය, බෙදාගැනීම
-
 profiler-popup-learn-more-button =
     .label = තව දැනගන්න
-
 profiler-popup-settings =
     .value = සැකසුම්
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = සැකසුම් සංස්කරණය…
-
 profiler-popup-recording-screen = පටිගත වෙමින්...
-
 profiler-popup-start-recording-button =
     .label = පටිගතය අරඹන්න
-
 profiler-popup-discard-button =
     .label = ඉවත දමන්න
-
 profiler-popup-capture-button =
     .label = ග්‍රහණය
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -184,23 +159,17 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = වියමන සංවර්ධක
-
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-label =
     .label = මාධ්‍යරූප
-
 profiler-popup-presets-media-label =
     .label = මාධ්‍ය
-
 profiler-popup-presets-networking-label =
     .label = ජාලකරණය
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = බලය
-
 profiler-popup-presets-custom-label =
     .label = අභිරුචි
 
@@ -263,7 +232,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = මෙවලම් තීරුව රිසිකරණය…
-
 appmenu-developer-tools-subheader = පිරික්සුම් මෙවලම්
 appmenu-developer-tools-extensions =
     .label = සංවර්ධකයින් සඳහා දිගු
