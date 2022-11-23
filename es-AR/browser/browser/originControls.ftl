@@ -29,3 +29,4 @@ origin-controls-option-always-on =
 origin-controls-state-no-access = No puede leer ni cambiar datos en este sitio
 origin-controls-state-always-on = Siempre puede leer y cambiar datos en este sitio
 origin-controls-state-when-clicked = Se necesitan permisos para leer y cambiar datos
+origin-controls-state-hover-run-visit-only = Ejecutar solo para esta visita
