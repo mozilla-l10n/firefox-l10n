@@ -928,3 +928,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } evitis ke tiu ĉi paĝo aŭtomate reŝargiĝu.
 refresh-blocked-redirect-label = { -brand-short-name } evitis ke tiu ĉi paĝo aŭtomate redirektiĝis al alia paĝo.
+refresh-blocked-allow =
+    .label = Permesi
+    .accesskey = P
