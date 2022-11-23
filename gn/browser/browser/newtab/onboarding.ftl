@@ -25,6 +25,11 @@ return-to-amo-addon-title = Ko’ág̃a roguerekóta <img data-l10n-name="icon"/
 return-to-amo-add-extension-label = Embojuaju jepysokue
 return-to-amo-add-theme-label = Embojuaju Téma
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Emomaitei { -brand-short-name }-pe
+mr1-return-to-amo-add-extension-label = Embojuaju { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.

@@ -30,3 +30,5 @@ origin-controls-state-no-access = Namoñe’ẽi ha namoambuekuaái mba’ekuaar
 origin-controls-state-always-on = Amoñe’ẽ ha amoambuekuaa mba’ekuaarã ko tendápe
 origin-controls-state-when-clicked = Ñemoneĩ emoñe’ẽ ha emoambue hag̃ua mba’ekuaarã
 origin-controls-state-hover-run-visit-only = Neañoite ko jeiképe g̃uarã
+origin-controls-state-runnable-hover-open = Jepysokue ijurujáva
+origin-controls-state-runnable-hover-run = Jepysokue jepuru

@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Aikumby
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Ñemoñe’ẽ:
+urlbar-result-menu-button =
+    .title = Poravorã ijurujáva
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
