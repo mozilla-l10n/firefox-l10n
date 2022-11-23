@@ -814,3 +814,7 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = „{ -brand-short-name }“ neleido šiam tinklalapiui automatiškai būti automatiškai atsiųstam iš naujo.
