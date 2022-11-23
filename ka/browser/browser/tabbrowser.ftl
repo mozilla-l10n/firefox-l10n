@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = ახალი ჩანართი
 tabbrowser-menuitem-close =
     .label = დახურვა
 # Variables:
@@ -17,6 +18,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = ჩანართების დახურვა
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -37,6 +39,10 @@ tabbrowser-tab-tooltip =
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = ნებას რთავთ ამგვარ შეტყობინებებს, როგორსაც გთავაზობთ { $domain }, გადაგიყვანოთ თავის ჩანართზე?
+tabbrowser-customizemode-tab-title = { -brand-short-name } მორგება
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = ჩანართის დადუმება
+    .accesskey = დ
