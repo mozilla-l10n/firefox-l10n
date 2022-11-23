@@ -30,3 +30,5 @@ origin-controls-state-no-access = 이 사이트에서 데이터 읽기 및 변�
 origin-controls-state-always-on = 항상 이 사이트에서 데이터 읽기 및 변경 가능
 origin-controls-state-when-clicked = 데이터 읽기 및 변경에 권한 필요
 origin-controls-state-hover-run-visit-only = 이번 방문에만 실행
+origin-controls-state-runnable-hover-open = 확장 기능 열기
+origin-controls-state-runnable-hover-run = 확장 기능 실행
