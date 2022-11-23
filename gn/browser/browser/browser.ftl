@@ -931,3 +931,9 @@ private-browsing-indicator-label = Kundaha ñemigua
 unified-extensions-button =
     .label = Jepysokue
     .tooltiptext = Jepysokuekuéra
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = Ñemoneĩ
+    .accesskey = A
