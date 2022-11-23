@@ -928,3 +928,11 @@ private-browsing-indicator-label = Тамошокунии махфӣ
 unified-extensions-button =
     .label = Васеъшавиҳо
     .tooltiptext = Васеъшавиҳо
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ин саҳифаро аз боркунии дубораи худкор манъ кард.
+refresh-blocked-redirect-label = { -brand-short-name } ин саҳифаро аз интиқоли дубораи худкор ба саҳифаи дигар манъ кард.
+refresh-blocked-allow =
+    .label = Иҷозат додан
+    .accesskey = A
