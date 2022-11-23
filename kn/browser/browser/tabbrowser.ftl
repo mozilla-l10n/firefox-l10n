@@ -37,6 +37,13 @@ tabbrowser-confirm-close-tabs-button = ಹಾಳೆಗಳನ್ನು ಮುಚ�
 
 ##
 
+tabbrowser-customizemode-tab-title = { -brand-short-name } ಅನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = ಮ್ಯೂಟ್ ಟ್ಯಾಬ್
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Unmute ಹಾಳೆ
+    .accesskey = m
