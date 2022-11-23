@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = ટૅબ બંધ કરો
 tabbrowser-menuitem-close =
     .label = બંધ કરો
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -20,6 +25,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = ટૅબ્સ બંધ કરો
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -30,12 +36,28 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = ખોલવામાં ખાતરી
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] તમે { $tabCount } ટૅબ્સ ખોલવા જઈ રહ્યા છો. આ પાનાંઓ લાવતી વખતે { -brand-short-name } ને ધીમું કરી નાંખશે. શું તમે ખરેખર ચાલુ રાખવા માંગો છો?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = ટૅબ્સ ખોલો
+tabbrowser-confirm-open-multiple-tabs-checkbox = ઘણીબધી ટૅબ કદાચ { -brand-short-name } ને ધીમું કરી નાંખશે એમ મને ચેતવો
 
 ## Confirmation dialog for enabling caret browsing
 
 
 ##
 
+tabbrowser-customizemode-tab-title = { -brand-short-name } ને અનુકૂલિત કરો
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = ટૅબ ચૂપ કરો
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = ટૅબને અનમ્યૂટ કરો
+    .accesskey = m
