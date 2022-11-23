@@ -7,3 +7,4 @@
 
 confirmation-hint-pin-tab = Spilhennet!
 confirmation-hint-pin-tab-description = Klikit dehou war an ivinell evit e zispilhennañ.
+confirmation-hint-send-to-device = Kaset!
