@@ -614,6 +614,7 @@ data-reporting-notification-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } এই পাতাকে স্বয়ংক্রিয়ভাবে পুনঃলোড করতে বাধা দিয়েছে।
 refresh-blocked-redirect-label = { -brand-short-name } এই পাতাটিকে স্বয়ংক্রিয়ভাবে অন্য একটি পাতায় রিডিরেক্ট করতে বাধা দিয়েছে।
 refresh-blocked-allow =
     .label = অনুমোদন
