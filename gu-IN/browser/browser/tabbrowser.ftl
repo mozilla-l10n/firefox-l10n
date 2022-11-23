@@ -103,3 +103,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = ટૅબને અનમ્યૂટ કરો
     .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = ટૅબ્સનો અવાજ બંધ કરો
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = ટૅબ્સનો અવાજ શરુ કરો
+    .accesskey = m
