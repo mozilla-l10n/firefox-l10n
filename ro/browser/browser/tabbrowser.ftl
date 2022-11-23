@@ -74,6 +74,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Închide filele
+tabbrowser-confirm-close-tabs-checkbox = Confirmă înainte de a închide mai multe file
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
