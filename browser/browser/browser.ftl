@@ -399,3 +399,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } het hierdie bladsy verhoed om outomaties te herlaai.
+refresh-blocked-redirect-label = { -brand-short-name } het hierdie bladsy verhoed om outomaties na 'n ander bladsy te herlei.
