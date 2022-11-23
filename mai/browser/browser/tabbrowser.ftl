@@ -40,3 +40,9 @@ tabbrowser-confirm-close-tabs-button = टैब बन्न करू
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = मौन करू
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = मौन समाप्त करू
+    .accesskey = m
