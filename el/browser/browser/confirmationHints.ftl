@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Απεστάλη αναφορά. Ευχαριστούμε!
+confirmation-hint-login-removed = Η σύνδεση αφαιρέθηκε!
+confirmation-hint-page-bookmarked = Αποθηκεύτηκε στους σελιδοδείκτες
+confirmation-hint-password-saved = Ο κωδικός πρόσβασης αποθηκεύτηκε!
+confirmation-hint-pin-tab = Καρφιτσώθηκε!
+confirmation-hint-pin-tab-description = Κάντε δεξί κλικ στην καρτέλα για ξεκαρφίτσωμα.
 confirmation-hint-send-to-device = Απεστάλη!
