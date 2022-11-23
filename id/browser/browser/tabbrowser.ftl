@@ -60,6 +60,7 @@ tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
        *[other] Anda akan membuka { $tabCount } tab. Ini mungkin akan melambatkan { -brand-short-name } saat laman dimuat. Yakin ingin dilanjutkan?
     }
+tabbrowser-confirm-open-multiple-tabs-button = Buka tab
 tabbrowser-confirm-open-multiple-tabs-checkbox = Ingatkan jika membuka banyak tab sekaligus akan melambatkan { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
