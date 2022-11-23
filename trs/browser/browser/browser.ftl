@@ -556,3 +556,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } nū nachrā ma'an pajinâ na.
+refresh-blocked-redirect-label = { -brand-short-name } nū ga'ue ga'anj ma'an pajiña riña a'ngo pajinâ.
+refresh-blocked-allow =
+    .label = Ga'nïn
+    .accesskey = A
