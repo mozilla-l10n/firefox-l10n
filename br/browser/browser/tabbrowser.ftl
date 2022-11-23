@@ -120,6 +120,8 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Kemenn din mar befe gorrekaet {
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = Merdeiñ dre ar reti
+tabbrowser-confirm-caretbrowsing-message = Pouezañ war F7 a weredeka pe ziweredeka ar Merdeiñ dre ar Reti. Ganti e vez lakaet ur biz war ar bajenn, o reiñ tu deoc'h da ziuzañ testenn gant ar c'hlavier. Ha fellout a ra deoc'h gweredekaat ar Merdeiñ dre ar Reti?
+tabbrowser-confirm-caretbrowsing-checkbox = Na ziskouez ar voestad-emziviz-mañ en-dro.
 
 ##
 
