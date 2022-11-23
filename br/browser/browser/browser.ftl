@@ -868,3 +868,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = Harzet eo bet gant { -brand-short-name } adkargadur emgefreek ar bajennad-mañ.
+refresh-blocked-redirect-label = { -brand-short-name } en deus miret ouzh ar bajenn-mañ adheñchañ ent emgefreek etrezek ur bajenn all.
