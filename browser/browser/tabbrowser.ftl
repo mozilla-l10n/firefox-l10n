@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = بستن زبانه
 tabbrowser-menuitem-close =
     .label = بستن
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -41,6 +46,13 @@ tabbrowser-confirm-close-tabs-button = بستن زبانه‌ها
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = به اعلان‌هایی از این دست از { $domain } اجازه دهید تا شما را به زبانهٔ آنها هدایت کنند
+tabbrowser-customizemode-tab-title = سفارشی‌سازی { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = قطع صدای زبانه
+    .accesskey = ق
+tabbrowser-context-unmute-tab =
+    .label = وصل کردن صدا زبانه
+    .accesskey = و
