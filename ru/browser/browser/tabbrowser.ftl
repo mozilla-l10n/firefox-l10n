@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Новая вкладка
 tabbrowser-empty-private-tab-title = Новая приватная вкладка
+tabbrowser-menuitem-close-tab =
+    .label = Закрыть вкладку
+tabbrowser-menuitem-close =
+    .label = Закрыть
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -39,6 +44,7 @@ tabbrowser-confirm-close-tabs-title =
         [few] Закрыть { $tabCount } вкладки?
        *[many] Закрыть { $tabCount } вкладок?
     }
+tabbrowser-confirm-close-tabs-button = Закрыть вкладки
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
