@@ -25,6 +25,10 @@ return-to-amo-addon-title = 이제 <img data-l10n-name="icon"/> <b>{ $addon-name
 return-to-amo-add-extension-label = 확장 기능 추가
 return-to-amo-add-theme-label = 테마 추가
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-add-extension-label = { $addon-name } 추가
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -325,44 +329,30 @@ mr2022-onboarding-colorway-subtitle = 독립적인 목소리가 문화를 바꿀
 mr2022-onboarding-colorway-primary-button-label-continue = 설정하고 계속
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name }을 다채로운 홈페이지로 만드세요
 mr2022-onboarding-colorway-label-default = 기본
-mr2022-onboarding-colorway-tooltip-default =
-    .title = 기본
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = 현재 { -brand-short-name } 색상
 mr2022-onboarding-colorway-description-default = <b>현재의 { -brand-short-name } 색상을 사용합니다.</b>
 mr2022-onboarding-colorway-label-playmaker = 플레이메이커
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = 플레이메이커
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = 플레이메이커 (빨간색)
 mr2022-onboarding-colorway-description-playmaker = <b>플레이메이커입니다.</b> 여러분은 승리할 수 있는 기회를 만들고 주변의 모든 사람들이 게임을 향상시킬 수 있도록 돕습니다.
 mr2022-onboarding-colorway-label-expressionist = 표현주의자
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = 표현주의자
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = 표현주의자 (노란색)
 mr2022-onboarding-colorway-description-expressionist = <b>표현주의자입니다.</b> 여러분은 세상을 다르게 보고 여러분의 창조물이 다른 사람들의 감정을 자극합니다.
 mr2022-onboarding-colorway-label-visionary = 공상가
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = 공상가
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = 공상가 (녹색)
 mr2022-onboarding-colorway-description-visionary = <b>공상가입니다.</b> 여러분은 현상 유지에 의문을 제기하고 더 나은 미래를 상상하도록 다른 사람들을 움직입니다.
 mr2022-onboarding-colorway-label-activist = 활동가
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = 활동가
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = 활동가 (파란색)
 mr2022-onboarding-colorway-description-activist = <b>활동가입니다.</b> 여러분은 세상을 당신이 찾은 것보다 더 나은 곳으로 만들고 다른 사람들이 믿도록 이끕니다.
 mr2022-onboarding-colorway-label-dreamer = 몽상가
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = 몽상가
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = 몽상가 (보라색)
 mr2022-onboarding-colorway-description-dreamer = <b>몽상가입니다.</b> 여러분은 행운이 대담한 사람을 선호하고 다른 사람들에게 용기를 북돋아준다고 믿습니다.
 mr2022-onboarding-colorway-label-innovator = 혁신가
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = 혁신가
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = 혁신가 (주황색)
 mr2022-onboarding-colorway-description-innovator = <b>혁신가입니다.</b> 여러분은 어디에서나 기회를 보고 여러분 주변의 모든 사람들의 삶에 영향을 미칩니다.
