@@ -929,3 +929,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } đã ngăn trang web này tự động tải lại.
 refresh-blocked-redirect-label = { -brand-short-name } đã ngăn trang web này tự động chuyển đến trang khác.
+refresh-blocked-allow =
+    .label = Cho phép
+    .accesskey = A
