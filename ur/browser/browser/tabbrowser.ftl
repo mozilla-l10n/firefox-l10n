@@ -47,6 +47,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = اگر زیادہ ٹیب کھو
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = کیریٹ براؤزنگ
 
 ##
 
