@@ -7,3 +7,4 @@
 
 confirmation-hint-password-saved = Lozinka je spremljena!
 confirmation-hint-pin-tab = Zakačeno!
+confirmation-hint-send-to-device = Poslano!
