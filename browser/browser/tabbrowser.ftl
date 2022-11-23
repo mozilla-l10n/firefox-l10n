@@ -67,14 +67,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Pechar { $tabCount } lapelas?
 tabbrowser-confirm-close-tabs-button = Pechar as lapelas
+tabbrowser-confirm-close-tabs-checkbox = Confirmar antes de pechar varias lapelas
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Pechar { $windowCount } xanelas?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Pechar e saír
+       *[other] Pechar e saír
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Pechar a xanela e saír do { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Saír do { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de saír con { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
