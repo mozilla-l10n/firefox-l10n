@@ -30,3 +30,5 @@ origin-controls-state-no-access = Methu darllen na newid data ar y wefan hon
 origin-controls-state-always-on = Yn gallu darllen a newid data ar y wefan hon bob tro
 origin-controls-state-when-clicked = Mae angen caniatâd i ddarllen a newid data
 origin-controls-state-hover-run-visit-only = Rhedeg ar gyfer yr ymweliad hwn yn unig
+origin-controls-state-runnable-hover-open = Agor estyniad
+origin-controls-state-runnable-hover-run = Rhedeg estyniad
