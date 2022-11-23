@@ -25,6 +25,12 @@ return-to-amo-addon-title = Цяпер давайце пяройдзем да <i
 return-to-amo-add-extension-label = Дадаць пашырэнне
 return-to-amo-add-theme-label = Дадаць тэму
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Павітайцеся з { -brand-short-name }
+mr1-return-to-amo-addon-title = У вас ёсць пад рукой хуткі, прыватны браўзер. Цяпер вы можаце дадаць <b>{ $addon-name }</b> і зрабіць нават больш з { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Дадаць { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -325,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = Незалежныя галасы могу
 mr2022-onboarding-colorway-primary-button-label-continue = Усталяваць і працягваць
 mr2022-onboarding-existing-colorway-checkbox-label = Зрабіце { -firefox-home-brand-name } сваёй маляўнічай хатняй старонкай
 mr2022-onboarding-colorway-label-default = Прадвызначана
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Прадвызначана
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Цяперашнія колеры { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Выкарыстоўваць мае цяперашнія колеры { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Стваральнік гульняў
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Стваральнік гульняў
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Стваральнік гульняў (чырвоны)
 mr2022-onboarding-colorway-description-playmaker = <b>Вы — стваральнік гульняў.</b> Вы ствараеце магчымасці для перамогі і дапамагаеце ўсім вакол вас гуляць на вышэйшым узроўні.
 mr2022-onboarding-colorway-label-expressionist = Экспрэсіяніст
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Экспрэсіяніст
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Экспрэсіяніст (жоўты)
 mr2022-onboarding-colorway-description-expressionist = <b>Вы — экспрэсіяніст.</b> Вы бачыце свет па-іншаму, а вашы творы выклікаюць эмоцыі ў іншых.
 mr2022-onboarding-colorway-label-visionary = Візіянер
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Візіянер
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Візіянер (зялёны)
 mr2022-onboarding-colorway-description-visionary = <b>Вы — візіянер.</b> Вы ставіце пад сумнеў статус-кво і прымушаеце іншых уявіць сабе лепшую будучыню.
 mr2022-onboarding-colorway-label-activist = Актывіст
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Актывіст
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Актывіст (сіні)
 mr2022-onboarding-colorway-description-activist = <b>Вы — актывіст.</b> Вы пакідаеце свет лепшым месцам, чым яго знайшлі, і ўзмацняеце перакананне іншых.
 mr2022-onboarding-colorway-label-dreamer = Летуценнік
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Летуценнік
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Летуценнік (фіялетавы)
 mr2022-onboarding-colorway-description-dreamer = <b>Вы — летуценнік.</b> Вы лічыце, што фартуна спрыяе смелым, і натхняеце іншых на адвагу.
 mr2022-onboarding-colorway-label-innovator = Наватар
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Наватар
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Наватар (аранжавы)
 mr2022-onboarding-colorway-description-innovator = <b>Вы — наватар.</b> Вы паўсюль бачыце магчымасці і ўплываеце на жыццё ўсіх вакол вас.

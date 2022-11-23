@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Зразумела
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Парада:
+urlbar-result-menu-button =
+    .title = Адкрыць меню
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
