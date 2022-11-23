@@ -44,3 +44,9 @@ tabbrowser-allow-dialogs-to-get-focus =
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Vypnout zvuk panelu
+    .accesskey = u
+tabbrowser-context-unmute-tab =
+    .label = Zapnout zvuk panelu
+    .accesskey = u
