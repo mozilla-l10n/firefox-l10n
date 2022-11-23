@@ -16,11 +16,27 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] بستن زبانه
+           *[other] بستن { $tabCount } زبانه
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] بی‌صدا کردن زبانه ({ $shortcut })
+           *[other] بی‌صدا کردن { $tabCount } زبانه ({ $shortcut })
+        }
 # Variables:
 #   $shortcut (String): The keyboard shortcut for "Unmute tab".
 tabbrowser-unmute-tab-audio-tooltip =
@@ -40,6 +56,12 @@ tabbrowser-unmute-tab-audio-background-tooltip =
         { $tabCount ->
             [one] وصل صدای زبانه
            *[other] وصل صدای { $tabCount } زبانه
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] پخش زبانه
+           *[other] پخش { $tabCount } زبانه
         }
 
 ## Confirmation dialog when closing a window with more than one tab open,
