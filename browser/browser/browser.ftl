@@ -991,3 +991,10 @@ private-browsing-indicator-label = Anonymní prohlížení
 unified-extensions-button =
     .label = Rozšíření
     .tooltiptext = Rozšíření
+
+## Autorefresh blocker
+
+refresh-blocked-redirect-label = Aplikace { -brand-short-name } zabránila této stránce v automatickém přesměrování na jinou stránku.
+refresh-blocked-allow =
+    .label = Povolit
+    .accesskey = P
