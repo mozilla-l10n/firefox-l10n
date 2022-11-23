@@ -68,14 +68,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Close { $tabCount } tabs?
 tabbrowser-confirm-close-tabs-button = Close tabs
+tabbrowser-confirm-close-tabs-checkbox = Confirm before closing multiple tabs
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Close { $windowCount } windows?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Close and exit
+       *[other] Close and quit
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Close window and quit { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Quit { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Confirm before quitting with { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
