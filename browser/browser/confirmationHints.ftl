@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Informe enviado. Grazas!
+confirmation-hint-login-removed = Inicio de sesión eliminado!
+confirmation-hint-page-bookmarked = Gardado nos marcadores
+confirmation-hint-password-saved = Contrasinal gardado!
+confirmation-hint-pin-tab = Ancorado!
+confirmation-hint-pin-tab-description = Prema co botón dereito do rato na lapela para desancorala.
 confirmation-hint-send-to-device = Enviouse!
