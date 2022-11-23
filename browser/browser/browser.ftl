@@ -934,3 +934,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } no le permitió recargarse automáticamente a esta página.
 refresh-blocked-redirect-label = { -brand-short-name } no le permitió a esta página redireccionarse automáticamente hacia otra.
+refresh-blocked-allow =
+    .label = Permitir
+    .accesskey = A
