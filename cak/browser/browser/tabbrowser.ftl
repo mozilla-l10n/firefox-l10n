@@ -34,6 +34,14 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Tijikib'äx jaqoj
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Ye'ajäq yan qa { $tabCount } taq ruwi'. Rik'in jub'a' eqal b'a xtub'än qa { -brand-short-name } toq xtusamajib'ej ri taq ruxaq k'amaya'l. ¿La k'a nawajo' nasamajij el?
+    }
+tabbrowser-confirm-open-multiple-tabs-checkbox = Titzijöx pe chwe toq ninjäq jalajöj taq ruwi' eqal nub'än { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
