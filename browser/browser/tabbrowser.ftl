@@ -36,6 +36,8 @@ tabbrowser-confirm-close-tabs-button = បិទ​ផ្ទាំង
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = អះអាង​ការ​បើក
+tabbrowser-confirm-open-multiple-tabs-button = បើក​ផ្ទាំង
 
 ## Confirmation dialog for enabling caret browsing
 
