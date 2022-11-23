@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Ny fane
 tabbrowser-menuitem-close-tab =
     .label = Lukk fane
 tabbrowser-menuitem-close =
@@ -40,6 +41,7 @@ tabbrowser-confirm-close-tabs-button = Lukk faner
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Tillat lignende varsler fra { $domain } å ta deg til fanen deres
+tabbrowser-customizemode-tab-title = Tilpass { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
