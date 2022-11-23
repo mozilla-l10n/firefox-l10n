@@ -69,3 +69,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = टॅब सशब्द करा
     .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = टॅब मूक करा
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = टॅब सशब्द करा
+    .accesskey = m
