@@ -43,3 +43,9 @@ tabbrowser-allow-dialogs-to-get-focus =
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Mute Tab
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Unmute Tab
+    .accesskey = m
