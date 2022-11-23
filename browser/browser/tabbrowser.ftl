@@ -16,11 +16,53 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ট্যাব বন্ধ করুন
+           *[other] বন্ধ করুন { $tabCount } ট্যাবগুলি
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ট্যাব মৌন করুন ({ $shortcut })
+           *[other] { $tabCount } টি ট্যাব ({ $shortcut }) মৌন করুন
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] সরব ট্যাব ({ $shortcut })
+           *[other] { $tabCount } টি ট্যাব ({ $shortcut }) সরব করুন
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] মৌন করুন
+           *[other] মৌন করুন { $tabCount } টি ট্যাব
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] সরব করুন
+           *[other] সরব করুন { $tabCount } ট্যাব
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ট্যাব চালান
+           *[other] { $tabCount } টি ট্যাব চালান
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -36,6 +78,15 @@ tabbrowser-confirm-close-tabs-button = ট্যাব বন্ধ করুন
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = খোলা নিশ্চিত করুন
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] আপনি { $tabCount } টি ট্যাব খুলতে যাচ্ছেন। পাতাগুলো লোড করার সময় { -brand-short-name } ধীর হয়ে যেতে পারে। আপনি কি নিশ্চিত?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = ট্যাবগুলি খুলুন
+tabbrowser-confirm-open-multiple-tabs-checkbox = একাধিক ট্যাব খোলার ফলে { -brand-short-name } ধীর হওয়ার সম্ভাবনা থাকলে সতর্ক করুন
 
 ## Confirmation dialog for enabling caret browsing
 
