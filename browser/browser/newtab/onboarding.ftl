@@ -25,6 +25,12 @@ return-to-amo-addon-title = 現在來安裝 <img data-l10n-name="icon"/><b>{ $ad
 return-to-amo-add-extension-label = 安裝擴充套件
 return-to-amo-add-theme-label = 安裝佈景主題
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = 跟 { -brand-short-name } 說聲嗨！
+mr1-return-to-amo-addon-title = 您有了一套觸手可及，又快又有隱私斯的瀏覽器。現在您還可以新增 <b>{ $addon-name }</b>，讓 { -brand-short-name } 能做更多事。
+mr1-return-to-amo-add-extension-label = 新增 { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -315,44 +321,30 @@ mr2022-onboarding-colorway-subtitle = 獨立的聲音將改變文化。
 mr2022-onboarding-colorway-primary-button-label-continue = 設定並繼續
 mr2022-onboarding-existing-colorway-checkbox-label = 將 { -firefox-home-brand-name }設定為色彩繽紛的首頁
 mr2022-onboarding-colorway-label-default = 預設
-mr2022-onboarding-colorway-tooltip-default =
-    .title = 預設
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = { -brand-short-name } 目前的配色
 mr2022-onboarding-colorway-description-default = <b>使用我目前的 { -brand-short-name } 色彩。</b>
 mr2022-onboarding-colorway-label-playmaker = 控球後衛
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = 控球後衛
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = 控球後衛（紅色）
 mr2022-onboarding-colorway-description-playmaker = <b>您是控球後衛。</b>您創造了勝利的機會，並且幫助您周圍的所有人，一同贏得競賽。
 mr2022-onboarding-colorway-label-expressionist = 表現主義者
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = 表現主義者
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = 表現主義者（黃色）
 mr2022-onboarding-colorway-description-expressionist = <b>您是表現主義者。</b>您用不同的方式看待世界，您的作品激發出他人的情感。
 mr2022-onboarding-colorway-label-visionary = 遠見家
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = 遠見家
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = 遠見家（綠色）
 mr2022-onboarding-colorway-description-visionary = <b>您是遠見家。</b>您不滿意於現狀，讓所有人能夠一同想像出更好的未來。
 mr2022-onboarding-colorway-label-activist = 社會運動家
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = 社會運動家
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = 社會運動家（藍色）
 mr2022-onboarding-colorway-description-activist = <b>您是社會運動家。</b>您讓世界變得更好，並讓他人也如此相信。
 mr2022-onboarding-colorway-label-dreamer = 夢想家
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = 夢想家
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = 夢想家（紫色）
 mr2022-onboarding-colorway-description-dreamer = <b>您是夢想家。</b>您相信命運之神眷顧大膽的人，並且鼓勵大家勇敢表現。
 mr2022-onboarding-colorway-label-innovator = 創造者
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = 創造者
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = 創造者（橘色）
 mr2022-onboarding-colorway-description-innovator = <b>您是創造者。</b>您看到各處的機會，並且對周遭的所有人產生正面影響。
