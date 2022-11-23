@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Report sent. Cheers!
+confirmation-hint-login-removed = Login remuived!
+confirmation-hint-page-bookmarked = Saved tae buikmerks
+confirmation-hint-password-saved = Passwird saved!
+confirmation-hint-pin-tab = Pinned!
 confirmation-hint-pin-tab-description = Richt-click the tab fur tae unpeen it.
+confirmation-hint-send-to-device = Sent!
