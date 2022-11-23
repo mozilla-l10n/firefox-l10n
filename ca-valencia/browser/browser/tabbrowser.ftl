@@ -67,14 +67,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Voleu tancar { $tabCount } pestanyes?
 tabbrowser-confirm-close-tabs-button = Tanca les pestanyes
+tabbrowser-confirm-close-tabs-checkbox = Confirma abans de tancar diverses pestanyes de colp
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Voleu tancar { $windowCount } finestres?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Tanca i ix
+       *[other] Tanca i ix
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Voleu tancar la finestra i eixir del { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Ix del { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Confirma abans d'eixir amb { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -90,6 +110,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avisa'm quan el fet d'obrir mol
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Navegació amb cursor
+tabbrowser-confirm-caretbrowsing-message = En prémer F7 s'activa o es desactiva la navegació amb cursor. Esta característica col·loca un cursor mòbil a les pàgines web que vos permet seleccionar text amb el teclat. Voleu activar-la?
+tabbrowser-confirm-caretbrowsing-checkbox = No em tornes a mostrar este diàleg.
 
 ##
 
