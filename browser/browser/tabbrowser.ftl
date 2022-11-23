@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Új lap
+tabbrowser-empty-private-tab-title = Új privát lap
 tabbrowser-menuitem-close-tab =
     .label = Lap bezárása
 tabbrowser-menuitem-close =
@@ -67,14 +68,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Bezár { $tabCount } lapot?
 tabbrowser-confirm-close-tabs-button = Lapok bezárása
+tabbrowser-confirm-close-tabs-checkbox = Megerősítés több lap bezárása előtt
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Bezár { $windowCount } ablakot?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Bezárás és kilépés
+       *[other] Bezárás és kilépés
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Bezárja az ablakot és kilép a { -brand-short-name }-ból?
+tabbrowser-confirm-close-tabs-with-key-button = Kilépés a { -brand-short-name }ból
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Megerősítés a { $quitKey }ból történő kilépés előtt
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -90,6 +111,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Figyelmeztetés, hogy több lap
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Kurzoros böngészés
+tabbrowser-confirm-caretbrowsing-message = Az F7 gomb kapcsolja be, illetve ki a kurzoros böngészést. Ebben az üzemmódban egy mozgatható kurzor jelenik meg a weboldalakon, lehetővé téve a szöveg kijelölését a billentyűzettel. Szeretné bekapcsolni a kurzoros böngészést?
+tabbrowser-confirm-caretbrowsing-checkbox = Ne jelenjen meg többet ez a párbeszédpanel.
 
 ##
 
