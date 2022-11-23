@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Særa feuggio
 tabbrowser-menuitem-close =
     .label = Særa
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -37,6 +42,7 @@ tabbrowser-confirm-close-tabs-button = Særa feuggi
 
 ##
 
+tabbrowser-customizemode-tab-title = Personalizza { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
