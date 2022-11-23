@@ -37,6 +37,14 @@ tabbrowser-confirm-close-tabs-button = टैब बंद करें
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = खोलने की पुष्टि करें
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] आप { $tabCount } टैब को खोलने के नजदीक हैं| यह { -brand-short-name } को धीमा कर सकता है जब पृष्ठ लोड हो रहा है| क्या आप जारी रखने के लिए निश्चित हैं?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = टैब्स खोले
+tabbrowser-confirm-open-multiple-tabs-checkbox = हमें चेतावनी दें जब कई टैब { -brand-short-name } को धीमा कर सकता हैं
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -53,3 +61,7 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Unmute टैब
     .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = टैबों को म्यूट करें
+    .accesskey = M
