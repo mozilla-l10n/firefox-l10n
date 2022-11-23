@@ -69,6 +69,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Vyžadovať potvrdenie pred uk
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Povoliť podobné oznámenia z domény { $domain }, aby vás presmerovali na ich kartu
+tabbrowser-customizemode-tab-title = Prispôsobiť { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
