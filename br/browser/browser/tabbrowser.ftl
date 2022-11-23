@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Serriñ an ivinell
 tabbrowser-menuitem-close =
     .label = Serriñ
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -41,6 +46,13 @@ tabbrowser-confirm-close-tabs-button = Serriñ an ivinelloù
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Aotren ar rebuzadurioù giz-se o tont deus { $domain } d'ho kas betek o ivinell
+tabbrowser-customizemode-tab-title = Personelaat { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Diweredekaat son an ivinell
+    .accesskey = D
+tabbrowser-context-unmute-tab =
+    .label = Gweredekaat son an ivinell
+    .accesskey = s
