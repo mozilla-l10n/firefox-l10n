@@ -25,6 +25,12 @@ return-to-amo-addon-title = כעת הבה נשיג לך את <img data-l10n-name
 return-to-amo-add-extension-label = הוספת ההרחבה
 return-to-amo-add-theme-label = הוספת ערכת הנושא
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = תגידו שלום ל־{ -brand-short-name }
+mr1-return-to-amo-addon-title = יש לך דפדפן מהיר ופרטי בקצות האצבעות שלך. עכשיו באפשרותך להוסיף את <b>{ $addon-name }</b> כדי לעשות אפילו יותר עם { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = הוספת { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -290,6 +296,7 @@ mr2022-onboarding-set-default-primary-button-label = הגדרת { -brand-short-n
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-subtitle = ניתן להגדיר את { -brand-short-name } איך שמתחשק לך. אפשר להוסיף את הסימניות, הססמאות ועוד מהדפדפן הישן שלך.ת
 mr2022-onboarding-import-primary-button-label-no-attribution = ייבוא מהדפדפן הקודם
 
 ## If your language uses grammatical genders, in the description for the
@@ -299,8 +306,6 @@ mr2022-onboarding-import-primary-button-label-no-attribution = ייבוא מהד
 
 mr2022-onboarding-existing-colorway-checkbox-label = להפוך את { -firefox-home-brand-name } לדף הבית הצבעוני שלך
 mr2022-onboarding-colorway-label-default = ברירת מחדל
-mr2022-onboarding-colorway-tooltip-default =
-    .title = ברירת מחדל
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = הצבעים הנוכחיים של { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>שימוש בצבעי { -brand-short-name } הנוכחיים שלי.</b>

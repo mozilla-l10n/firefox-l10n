@@ -12,7 +12,7 @@ tabbrowser-menuitem-close =
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
+tabbrowser-container-tab-title = { $title } — ‏{ $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
