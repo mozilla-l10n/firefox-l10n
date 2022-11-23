@@ -796,4 +796,8 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name }-ը կասեցրեց այս էջի ինքնաբար վերբեռնումը:
 refresh-blocked-redirect-label = { -brand-short-name } -ը կասեցրեց այս էջի ինքնակամ վերահասցեավորումը մեկ ուրիշ էջ:
+refresh-blocked-allow =
+    .label = Թույլատրել
+    .accesskey = A
