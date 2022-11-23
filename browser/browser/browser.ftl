@@ -826,3 +826,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = منع { -brand-short-name } هذه الصفحة من إعادة التحميل تلقائيًا.
+refresh-blocked-redirect-label = منع { -brand-short-name } هذه الصفحة من إعادة التوجيه تلقائيًا إلى صفحة أخرى.
