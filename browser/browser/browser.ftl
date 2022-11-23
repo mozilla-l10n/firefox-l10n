@@ -935,3 +935,10 @@ private-browsing-indicator-label = Прыватнае агляданне
 unified-extensions-button =
     .label = Пашырэнні
     .tooltiptext = Пашырэнні
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } прадухіліў самастойнае абнаўленне старонкі.
+refresh-blocked-allow =
+    .label = Дазволіць
+    .accesskey = Д
