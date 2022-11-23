@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (priwatné przezéranié)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (priwatné przezéranié)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (priwatné przezéranié)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (priwatné przezéranié)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -91,6 +89,7 @@ full-screen-exit =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -128,10 +127,8 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Szëkôj za, abò wpiszë adres
-
 urlbar-switch-to-tab =
     .value = Przełączë na kôrtã:
-
 urlbar-go-button =
     .tooltiptext = Biéj do stronë z pòdónym adresã
 
@@ -147,6 +144,9 @@ urlbar-go-button =
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -159,7 +159,6 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Wëskrzëni wicy załóżków
 bookmarks-sidebar-content =
     .aria-label = Załóżczi
-
 bookmarks-toolbar-menu =
     .label = Lëstew załóżków
 bookmarks-toolbar-placeholder =
@@ -179,8 +178,6 @@ bookmarks-toolbar-placeholder-button =
 ## Customize Toolbar Buttons
 
 
-## More items
-
 ## EME notification panel
 
 
@@ -188,9 +185,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -202,7 +196,6 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Zezwòlë na wëskakùjącé òkna ze stronë { $uriHost }
     .accesskey = w
-
 popups-infobar-block =
     .label = Blokùjë wëskakùjącé òkna ze stronë { $uriHost }
     .accesskey = w
@@ -224,19 +217,15 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Zladënczi
-
 navbar-search =
     .title = Szëkba
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Kôrtë przezérnika
-
 tabs-toolbar-new-tab =
     .label = Nowô kôrta
-
 tabs-toolbar-list-all-tabs =
     .label = Lësta wszëtczich kôrtów
     .tooltiptext = Lësta wszëtczich kôrtów
@@ -253,3 +242,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = Program { -brand-short-name } nie zezwôlô ti stronie na ji aùtomatny zladënk znowa.
+refresh-blocked-redirect-label = Program { -brand-short-name } nie dôł ti stronie prawa na aùtomatné przeczérowanié na jinszą stronã.
+refresh-blocked-allow =
+    .label = Zezwòlë
+    .accesskey = Z
