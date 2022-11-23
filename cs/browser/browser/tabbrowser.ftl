@@ -115,6 +115,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Vždy se zeptat při ukončov�
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Potvrdit otevření
 # Variables:
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
