@@ -938,3 +938,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } jo toś ten bok pśi awtomatiskem znowegocytanju zajźował.
 refresh-blocked-redirect-label = { -brand-short-name } jo toś ten bok pśi awtomatiskem dalejpósrědnjanju k drugemu bokoju zajźował.
+refresh-blocked-allow =
+    .label = Dowóliś
+    .accesskey = l

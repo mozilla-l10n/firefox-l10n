@@ -4,6 +4,11 @@
 
 tabbrowser-menuitem-close =
     .label = Zacyniś
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -37,6 +42,7 @@ tabbrowser-tab-tooltip =
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Powěźeńki dowóliś ako tós tu wót { $domain }, aby k wótpowědnemu rejtarkoju dójšeł
+tabbrowser-customizemode-tab-title = { -brand-short-name } pśiměriś
 
 ## Context menu buttons, of which only one will be visible at a time
 
