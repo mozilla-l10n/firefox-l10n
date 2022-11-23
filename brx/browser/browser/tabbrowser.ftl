@@ -16,6 +16,14 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] टेब बन्द खालाम
+           *[other] { $tabCount } टेबफोर बन्द खालाम
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -36,12 +44,14 @@ tabbrowser-confirm-close-tabs-button = टेबफोरखौ बन्द ख
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-button = टेबफोर खेव
 
 ## Confirmation dialog for enabling caret browsing
 
 
 ##
 
+tabbrowser-customizemode-tab-title = { -brand-short-name }खौ गावनि गोसोबादि खालाम...
 
 ## Context menu buttons, of which only one will be visible at a time
 
