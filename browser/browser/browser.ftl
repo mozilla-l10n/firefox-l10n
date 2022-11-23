@@ -928,3 +928,11 @@ private-browsing-indicator-label = 隱私瀏覽
 unified-extensions-button =
     .label = 擴充套件
     .tooltiptext = 擴充套件
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } 已阻止本頁面自動重新載入。
+refresh-blocked-redirect-label = { -brand-short-name } 已阻止本頁面自動重新導向到其他網頁。
+refresh-blocked-allow =
+    .label = 允許
+    .accesskey = A
