@@ -7,11 +7,29 @@ tabbrowser-empty-tab-title = ເປີດໜ້າຕ່າງໃໝ່
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label = ປິດ { $tabCount } ແທັບ
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label = ປິດສຽງ { $tabCount } ແທັບ ({ $shortcut })
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label = ເປີດສຽງ { $tabCount } ແທັບ ({ $shortcut })
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label = ປິດສຽງ { $tabCount } ແທັບ
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label = ເປີດສຽງ { $tabCount } ແທັບ
+tabbrowser-unblock-tab-audio-tooltip =
+    .label = ຫຼິ້ນ { $tabCount } ແທັບ
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -26,6 +44,14 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = ຢືນຢັນການເປີດ
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] ທ່ານກຳລັງຈະເປີດ { $tabCount } ແທັບ.  ຊື່ງອາດຈະເຮັດໃຫ້ { -brand-short-name } ຊ້າລົງຂະນະທີ່ໜ້າກຳລັງໂຫຼດ. ທ່ານແນ່ໃຈ ຫຼື ບໍ່ວ່າຕ້ອງການດຳເນີນການຕໍ່?
+    }
+tabbrowser-confirm-open-multiple-tabs-checkbox = ເຕືອນຂ້ອຍເມືອການເປີດຫຼາຍແທັບອ້າດເຮັດໃຫ້ຊ້າລົງ { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
