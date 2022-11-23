@@ -37,6 +37,13 @@ tabbrowser-confirm-close-tabs-button = បិទ​ផ្ទាំង
 
 ##
 
+tabbrowser-customizemode-tab-title = ប្ដូរ​តាម​បំណង { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = ផ្ទាំង​បិទ​សំឡេង
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = ផ្ទាំង​បើក​សំឡេង
+    .accesskey = m

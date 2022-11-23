@@ -488,6 +488,8 @@ data-reporting-notification-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ទំព័រ​នេះ​ផ្ទុក​ឡើង​វិញ​ដោយ​ស្វ័យប្រវត្តិ។
+refresh-blocked-redirect-label = { -brand-short-name } បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ប្ដូរ​ទិស​ទៅ​ទំព័រ​មួយ​ទៀត​ដោយ​ស្វ័យ​ប្រវត្តិ។
 refresh-blocked-allow =
     .label = អនុញ្ញាត
     .accesskey = A
