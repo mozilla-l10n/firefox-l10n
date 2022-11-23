@@ -360,3 +360,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ने एहि पृष्ठ केँ स्वतः लोड हए सँ रोकने अछि.
+refresh-blocked-redirect-label = { -brand-short-name } ने एहि पृष्ठ केँ दोसर पृष्ठ मे स्वतः पुनर्निर्देशित हए सँ रोकने अछि.
