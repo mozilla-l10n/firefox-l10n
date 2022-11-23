@@ -667,3 +667,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ushbu sahifani avtomatik qayta yuklanishiga to‘sqinlik qildi.
+refresh-blocked-redirect-label = { -brand-short-name } ushbu sahifani avtomatik tarzda boshqa sahifaga yo‘naltirishiga to‘sqinlik qildi.
+refresh-blocked-allow =
+    .label = Ruxsat berish
+    .accesskey = A

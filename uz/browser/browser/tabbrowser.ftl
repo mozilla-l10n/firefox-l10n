@@ -33,6 +33,7 @@ tabbrowser-tab-tooltip =
 
 ##
 
+tabbrowser-customizemode-tab-title = { -brand-short-name }ni moslash
 
 ## Context menu buttons, of which only one will be visible at a time
 
