@@ -119,7 +119,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Birden çok sekme açarken { -b
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Klavye ile Gezinti
 tabbrowser-confirm-caretbrowsing-message = F7 tuşu Klavye ile Gezinti özelliğini açar ve kapatır. Bu özellik, web sayfalarına, hareket edebilen bir işaretçi ekleyerek metinleri klavyeyle seçebilmenizi sağlar. Klavye ile Gezinti’yi açmak istiyor musunuz?
+tabbrowser-confirm-caretbrowsing-checkbox = Bu iletişim kutusunu bir daha gösterme.
 
 ##
 
