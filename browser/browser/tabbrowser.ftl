@@ -36,6 +36,7 @@ tabbrowser-confirm-close-tabs-button = टैब बंद करें
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = खोलने की पुष्टि करें
 
 ## Confirmation dialog for enabling caret browsing
 
