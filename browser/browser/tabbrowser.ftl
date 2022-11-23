@@ -74,13 +74,20 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Zatvori kartice
+tabbrowser-confirm-close-tabs-checkbox = Potvrdi prije zatvaranja više kartica
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Zatvori i izađi
+       *[other] Zatvori i izađi
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-button = Izađi iz { -brand-short-name }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -96,7 +103,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Upozori me kod otvaranja više 
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Pregledavanje kursorom
 tabbrowser-confirm-caretbrowsing-message = Pritiskom na F7 uključuje se ili isključuje pregledavanje kursorom. Ova funkcija postavlja pomični kursor na web-stranice, što omogućuje biranje teksta tipkovnicom. Želiš li uključiti pregledavanje pomoću kursora?
+tabbrowser-confirm-caretbrowsing-checkbox = Ne prikazuj više ovaj dijaloški okvir.
 
 ##
 
