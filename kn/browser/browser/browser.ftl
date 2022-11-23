@@ -444,3 +444,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = ಈ ಪುಟವು ತಾನಾಗಿಯೆ ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‌ ಆಗುವುದನ್ನು { -brand-short-name } ನಿರ್ಬಂಧಿಸಿದೆ.
+refresh-blocked-redirect-label = ಈ ಪುಟವು ತಾನಾಗಿಯೆ ಇನ್ನೊಂದು ಪುಟಕ್ಕೆ  ಮರಳಿ ನಿರ್ದೇಶಿತಗೊಳ್ಳುವುದನ್ನು { -brand-short-name } ನಿರ್ಬಂಧಿಸಿದೆ.
