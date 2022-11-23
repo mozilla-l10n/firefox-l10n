@@ -494,3 +494,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } bu saifege öz-özünden kene yüklenmege izin bermedi.
+refresh-blocked-redirect-label = { -brand-short-name } bu saifeniñ öz-özünden başqa bir saifege kene yönetmesine izin bermedi.
+refresh-blocked-allow =
+    .label = İzin Ber
+    .accesskey = z
