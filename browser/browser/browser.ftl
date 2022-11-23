@@ -923,3 +923,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = El { -brand-short-name } ha evitat que la pàgina s'actualitzi automàticament.
 refresh-blocked-redirect-label = El { -brand-short-name } ha evitat que la pàgina redirigeixi automàticament a una altra.
+refresh-blocked-allow =
+    .label = Permet
+    .accesskey = P

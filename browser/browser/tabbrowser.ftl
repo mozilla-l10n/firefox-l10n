@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Tanca la pestanya
 tabbrowser-menuitem-close =
     .label = Tanca
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -41,6 +46,13 @@ tabbrowser-confirm-close-tabs-button = Tanca les pestanyes
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permet que les notificacions com aquesta de { $domain } us portin a la seva pestanya
+tabbrowser-customizemode-tab-title = Personalitzeu el { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Silencia la pestanya
+    .accesskey = S
+tabbrowser-context-unmute-tab =
+    .label = No silenciïs la pestanya
+    .accesskey = s
