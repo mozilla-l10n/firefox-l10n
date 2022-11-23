@@ -7,15 +7,68 @@ tabbrowser-menuitem-close-tab =
     .label = Zavrieť kartu
 tabbrowser-menuitem-close =
     .label = Zavrieť
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Zavrieť kartu
+            [few] Zavrieť { $tabCount } karty
+           *[other] Zavrieť { $tabCount } kariet
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Stlmiť kartu ({ $shortcut })
+            [few] Stlmiť { $tabCount } karty ({ $shortcut })
+           *[other] Stlmiť { $tabCount } kariet ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Zapnúť zvuk na karte ({ $shortcut })
+            [few] Zapnúť zvuk na { $tabCount } kartách ({ $shortcut })
+           *[other] Zapnúť zvuk na { $tabCount } kartách ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Stlmiť kartu
+            [few] Stlmiť { $tabCount } karty
+           *[other] Stlmiť { $tabCount } kariet
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Zapnúť zvuk na karte
+            [few] Zapnúť zvuk na { $tabCount } kartách
+           *[other] Zapnúť zvuk na { $tabCount } kartách
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Prehrať kartu
+            [few] Prehrať { $tabCount } karty
+           *[other] Prehrať { $tabCount } kariet
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -59,9 +112,21 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Vyžadovať potvrdenie pred uk
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Potvrdenie otvorenia
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Chystáte sa otvoriť niekoľko kariet naraz (celkom { $tabCount }). Toto môže spomaliť { -brand-short-name } počas ich načítavania. Naozaj chcete pokračovať?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Otvoriť karty
+tabbrowser-confirm-open-multiple-tabs-checkbox = Upozorniť ma v prípade, že otvorenie viacerých kariet by mohlo spomaliť { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Prehliadanie pomocou klávesnice
+tabbrowser-confirm-caretbrowsing-message = Stlačením klávesu F7 zapnete alebo vypnete prehliadanie pomocou klávesnice. Táto funkcia umiestni do webovej stránky posúvateľný kurzor, ktorý umožňuje označovať text pomocou klávesnice. Chcete zapnúť prehliadanie pomocou klávesnice?
+tabbrowser-confirm-caretbrowsing-checkbox = Nabudúce toto okno nezobrazovať
 
 ##
 
@@ -78,4 +143,12 @@ tabbrowser-context-mute-tab =
     .accesskey = u
 tabbrowser-context-unmute-tab =
     .label = Zapnúť zvuk na karte
+    .accesskey = u
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Stlmiť zvuk na kartách
+    .accesskey = u
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Zapnúť zvuk na kartách
     .accesskey = u
