@@ -935,3 +935,8 @@ private-browsing-indicator-label = Súkromné prehliadanie
 unified-extensions-button =
     .label = Rozšírenia
     .tooltiptext = Rozšírenia
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } neumožnil tejto stránke automatické obnovenie obsahu.
+refresh-blocked-redirect-label = { -brand-short-name } neumožnil tejto stránke automatické presmerovanie na inú stránku.
