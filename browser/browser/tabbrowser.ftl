@@ -76,3 +76,6 @@ tabbrowser-customizemode-tab-title = Penyesuaian { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Tab Senyap
     .accesskey = S
+tabbrowser-context-unmute-tab =
+    .label = Nyah-senyap Tab
+    .accesskey = a
