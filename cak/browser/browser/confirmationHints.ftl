@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Xtaq rutzijol. ¡Matyox chawe!
+confirmation-hint-login-removed = ¡Xyuj rutikirisaxik molojri'ïl!
+confirmation-hint-page-bookmarked = Xyak pa taq yaketal
+confirmation-hint-password-saved = ¡Ewan tzij yakon!
+confirmation-hint-pin-tab = ¡Jikïl!
+confirmation-hint-pin-tab-description = Tapitz'a' ri rajkiq'a' pitz'b'äl pa ruwi' ri ruwi' richin nosq'opïx.
 confirmation-hint-send-to-device = ¡Titaq!
