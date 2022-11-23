@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Ny fane
+tabbrowser-empty-private-tab-title = Ny Privat fane
 tabbrowser-menuitem-close-tab =
     .label = Lat att fane
 tabbrowser-menuitem-close =
