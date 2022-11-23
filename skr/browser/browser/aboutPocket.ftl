@@ -14,6 +14,7 @@ pocket-panel-saved-save-tags = محفوظ
 
 pocket-panel-signup-learn-more = ٻیا سِکھو
 pocket-panel-signup-login = لاگ ان
+pocket-panel-signup-signup-firefox = { -brand-product-name } نال سائن اپ تھیوو
 
 ## about:pocket-home panel
 

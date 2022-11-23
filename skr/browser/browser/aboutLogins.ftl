@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
+about-logins-page-title = لاگ ان تے پاس ورڈ
+login-filter =
+    .placeholder = لاگ ان ڳولو
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -60,6 +63,12 @@ confirmation-dialog-cancel-button = منسوخ
 confirmation-dialog-dismiss-button =
     .title = منسوخ
 about-logins-confirm-remove-dialog-confirm-button = ہٹاؤ
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] ہٹاؤ
+        [one] ہٹاؤ
+       *[other] سارے ہٹاؤ
+    }
 
 ## Breach Alert notification
 

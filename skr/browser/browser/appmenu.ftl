@@ -7,6 +7,10 @@
 
 appmenuitem-new-tab =
     .label = نواں ٹیب
+appmenuitem-new-window =
+    .label = نویں ونڈو
+appmenuitem-new-private-window =
+    .label = نویں نجی ونڈو
 appmenuitem-history =
     .label = تاریخ
 appmenuitem-downloads =

@@ -4,3 +4,6 @@
 
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = فعال
+policy-name = پالیسی ناں
+policy-value = پالیسی دی مالیت
+policy-errors = پالیسی وچ غلطیاں
