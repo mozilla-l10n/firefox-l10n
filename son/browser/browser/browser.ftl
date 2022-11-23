@@ -408,3 +408,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } na moɲoo woo ganji a ma zunbu taaga nga boŋ se.
+refresh-blocked-redirect-label = { -brand-short-name } na moɲoo woo ganji a ma bisandi taaga ka koy moo foo do nga boŋ se.
+refresh-blocked-allow =
+    .label = Noo fondo
+    .accesskey = A
