@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nieuw tabblad
+tabbrowser-empty-private-tab-title = Nieuw privétabblad
 tabbrowser-menuitem-close-tab =
     .label = Tabblad sluiten
 tabbrowser-menuitem-close =
@@ -67,14 +68,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = { $tabCount } tabbladen sluiten?
 tabbrowser-confirm-close-tabs-button = Tabbladen sluiten
+tabbrowser-confirm-close-tabs-checkbox = Bevestigen voor het sluiten van meerdere tabbladen
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = { $windowCount } vensters sluiten?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Sluiten en afsluiten
+       *[other] Sluiten en afsluiten
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Venster sluiten en { -brand-short-name } afsluiten?
+tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } afsluiten
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Bevestigen voor afsluiten met { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -90,6 +111,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Mij waarschuwen als het openen 
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Cursornavigatie
+tabbrowser-confirm-caretbrowsing-message = Door op F7 te drukken, wordt Cursornavigatie in- of uitgeschakeld. Deze functie plaatst een beweegbare cursor in webpagina’s, waarmee u tekst kunt selecteren met het toetsenbord. Wilt u Cursornavigatie inschakelen?
+tabbrowser-confirm-caretbrowsing-checkbox = Dit dialoogvenster niet meer tonen.
 
 ##
 
