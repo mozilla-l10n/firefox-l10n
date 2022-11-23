@@ -244,3 +244,8 @@ tabs-toolbar-list-all-tabs =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } tere na yab boppamu xët wi.
+refresh-blocked-redirect-label = { -brand-short-name } tere na jubalaat boppam ci beneen xët.
