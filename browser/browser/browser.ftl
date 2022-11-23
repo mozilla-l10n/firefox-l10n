@@ -914,3 +914,8 @@ private-browsing-indicator-label = Brabhsadh prìobhaideach
 unified-extensions-button =
     .label = Leudachain
     .tooltiptext = Leudachain
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = Cha do leig { -brand-short-name } leis an duilleag seo ath-luchdadh gu fèin-obrachail.
+refresh-blocked-redirect-label = Cha do leig { -brand-short-name } leis an duilleag seo do stiùireadh gu duilleag eile gu fèin-obrachail.
