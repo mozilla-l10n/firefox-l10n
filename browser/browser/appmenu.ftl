@@ -128,6 +128,7 @@ profiler-popup-button-capturing =
     .tooltiptext = ตัวสร้างโปรไฟล์กำลังจับโปรไฟล์
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = แสดงข้อมูลเพิ่มเติม
 profiler-popup-description-title =
