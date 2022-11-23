@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Dún Cluaisín
 tabbrowser-menuitem-close =
     .label = Dún
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -37,6 +42,13 @@ tabbrowser-confirm-close-tabs-button = Dún cluaisíní
 
 ##
 
+tabbrowser-customizemode-tab-title = Saincheap { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Balbhaigh an Cluaisín
+    .accesskey = B
+tabbrowser-context-unmute-tab =
+    .label = Díbhalbhaigh an Cluaisín
+    .accesskey = b
