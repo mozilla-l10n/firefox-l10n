@@ -931,6 +931,7 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } hat diese Webseite daran gehindert automatisch neu zu laden.
 refresh-blocked-redirect-label = { -brand-short-name } hat diese Webseite daran gehindert automatisch auf eine andere Webseite umzuleiten.
 refresh-blocked-allow =
     .label = Erlauben
