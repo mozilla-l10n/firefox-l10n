@@ -932,3 +932,9 @@ private-browsing-indicator-label = Tryb prywatny
 unified-extensions-button =
     .label = Rozszerzenia
     .tooltiptext = Rozszerzenia
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = Zezwól
+    .accesskey = Z
