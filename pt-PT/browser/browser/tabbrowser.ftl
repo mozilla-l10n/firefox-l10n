@@ -8,6 +8,11 @@ tabbrowser-menuitem-close-tab =
     .label = Fechar separador
 tabbrowser-menuitem-close =
     .label = Fechar
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -71,6 +76,10 @@ tabbrowser-confirm-caretbrowsing-checkbox = Não voltar a mostrar esta janela.
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitir que notificações como esta de { $domain } o encaminhei para o respetivo separador
+tabbrowser-customizemode-tab-title = Personalizar o { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Silenciar som do separador
+    .accesskey = m
