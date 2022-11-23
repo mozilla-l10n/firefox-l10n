@@ -798,3 +798,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } stappit this page fae automatically reloadin.
+refresh-blocked-redirect-label = { -brand-short-name } stappit this page fae automatically redirectin tae anither page.
+refresh-blocked-allow =
+    .label = Alloo
+    .accesskey = A
