@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Închide fila
 tabbrowser-menuitem-close =
     .label = Închide
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -37,6 +42,13 @@ tabbrowser-confirm-close-tabs-button = Închide filele
 
 ##
 
+tabbrowser-customizemode-tab-title = Personalizează { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Dezactivează sunetul filei
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Activează sunetul filei
+    .accesskey = m
