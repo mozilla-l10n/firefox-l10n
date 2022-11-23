@@ -928,3 +928,9 @@ private-browsing-indicator-label = Navigation private
 unified-extensions-button =
     .label = Extensiones
     .tooltiptext = Extensiones
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = Permitter
+    .accesskey = P
