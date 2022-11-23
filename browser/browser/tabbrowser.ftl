@@ -45,3 +45,9 @@ tabbrowser-customizemode-tab-title = Προσαρμογή του { -brand-short-
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Σίγαση καρτέλας
+    .accesskey = σ
+tabbrowser-context-unmute-tab =
+    .label = Άρση σίγασης καρτέλας
+    .accesskey = σ
