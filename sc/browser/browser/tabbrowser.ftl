@@ -106,6 +106,7 @@ tabbrowser-confirm-open-multiple-tabs-message =
        *[other] Ses acanta de abèrrere { $tabCount } ischedas. Custu podet rallentare { -brand-short-name } in sa càrriga de is pàginas. Seguru chi boles sighire?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Aberi is ischedas
+tabbrowser-confirm-open-multiple-tabs-checkbox = Avisa cando su de abèrrere meda prus ischedas diat pòdere allentare { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
