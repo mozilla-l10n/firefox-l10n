@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = नया टैब
+tabbrowser-menuitem-close-tab =
+    .label = टैब बंद करें
+tabbrowser-menuitem-close =
+    .label = बंद करें
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -15,6 +20,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = टैब बंद करें
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -31,6 +37,13 @@ tabbrowser-tab-tooltip =
 
 ##
 
+tabbrowser-customizemode-tab-title = मनपसंद { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Mute टैब
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Unmute टैब
+    .accesskey = m
