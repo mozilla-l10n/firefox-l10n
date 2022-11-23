@@ -5,5 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Raportti lähetetty. Kiitos!
+confirmation-hint-login-removed = Kirjautumistieto poistettu!
+confirmation-hint-page-bookmarked = Tallennettu kirjanmerkkeihin
+confirmation-hint-password-saved = Salasana tallennettu!
+confirmation-hint-pin-tab = Kiinnitetty!
 confirmation-hint-pin-tab-description = Napsauta välilehteä oikealla painikkeella poistaaksesi kiinnityksen.
 confirmation-hint-send-to-device = Lähetetty!
