@@ -6,10 +6,13 @@
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = مینیو کھولو
 about-logins-menu-menuitem-help = مدد
 
 ## Login List
 
+login-list-item-title-new-login = نواں لاگ ان
 about-logins-list-section-today = اڄ
 about-logins-list-section-yesterday = کل
 about-logins-list-section-week = چھیکڑی ٧ ݙین٘ہ
@@ -25,11 +28,20 @@ login-item-origin-label = ویب سائٹ پتہ
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ورتݨ ناں
+login-item-copy-username-button-text = نقل کرو
+login-item-copied-username-button-text = نقل تھی ڳیا!
+login-item-password-label = پاس ورڈ
+login-item-password-reveal-checkbox =
+    .aria-label = پاس ورڈ ݙکھاؤ
+login-item-copy-password-button-text = نقل کرو
+login-item-copied-password-button-text = نقل تھی ڳیا!
+login-item-save-changes-button = تبدیلیاں محفوظ کرو
 login-item-save-new-button = محفوظ
 login-item-cancel-button = منسوخ
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -51,10 +63,15 @@ about-logins-confirm-remove-dialog-confirm-button = ہٹاؤ
 
 ## Breach Alert notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } تے ون٘ڄو
 about-logins-breach-alert-learn-more-link = ٻیا سِکھو
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = کمزور پاسورڈ
+about-logins-vulnerable-alert-learn-more-link = ٻیا سِکھو
 
 ## Error Messages
 

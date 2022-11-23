@@ -21,6 +21,8 @@ appmenuitem-help =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-opensettings =
+    .label = ترتیباں
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = سائن ان
 
@@ -33,6 +35,11 @@ appmenu-fxa-signed-in-label = سائن ان
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-header-text = { -profiler-brand-name }
+profiler-popup-learn-more-button =
+    .label = ٻیا سِکھو
+profiler-popup-settings =
+    .value = ترتیباں
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -42,6 +49,8 @@ profiler-popup-title =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 profiler-popup-presets-media-label =
     .label = میڈیا
 profiler-popup-presets-networking-label =

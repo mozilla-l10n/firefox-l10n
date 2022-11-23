@@ -17,6 +17,7 @@ pocket-panel-signup-login = لاگ ان
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = میݙی تندیر
 
 ## Pocket panel header component
 
@@ -25,3 +26,4 @@ pocket-panel-header-sign-in = سائن ان
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = سارے ݙکھاؤ
+pocket-panel-button-remove = ہٹاؤ
