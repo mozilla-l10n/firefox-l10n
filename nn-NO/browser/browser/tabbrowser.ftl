@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Ny fane
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -35,6 +36,7 @@ tabbrowser-tab-tooltip =
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Tillat at liknande varsel som dette, frå { $domain }, tar deg til fana deira
+tabbrowser-customizemode-tab-title = Tilpass { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
