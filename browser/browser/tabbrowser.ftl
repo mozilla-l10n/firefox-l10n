@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nova langeto
+tabbrowser-empty-private-tab-title = Nova privata langeto
 tabbrowser-menuitem-close-tab =
     .label = Fermi langeton
 tabbrowser-menuitem-close =
@@ -67,14 +68,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Ĉu fermi { $tabCount } langetojn?
 tabbrowser-confirm-close-tabs-button = Fermi langetojn
+tabbrowser-confirm-close-tabs-checkbox = Konfirmi antaŭ fermi plurajn langetojn
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Ĉu fermi { $windowCount } fenestrojn?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Fermi kaj fini
+       *[other] Fermi kaj fini
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Ĉu fermi fenestron kaj fini { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Fini { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Konfirmi antaŭ ol fini per { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -90,6 +111,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Averti min se malfermado de plu
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Esplorado per montrilo
+tabbrowser-confirm-caretbrowsing-message = Premo de F7 ŝaltas aŭ malŝaltas la esploradon per montrilo. Tiu trajto metas moveblan montrilon en retpaĝojn, kiu permesas al vi elekti tekston per la klavaro. Ĉu vi volas ŝalti la esploradon per montrilo?
+tabbrowser-confirm-caretbrowsing-checkbox = Ne montri ĉi tiun dialogon denove.
 
 ##
 
