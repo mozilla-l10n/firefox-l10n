@@ -517,3 +517,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } o l'inpedisce o caregamento aotomatico da pagina.
+refresh-blocked-redirect-label = { -brand-short-name } o l'inpedisce l'indirisamento aotomatico a-a atre pagine.
+refresh-blocked-allow =
+    .label = Permetti
+    .accesskey = P

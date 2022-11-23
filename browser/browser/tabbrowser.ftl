@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Neuvo feuggio
+tabbrowser-menuitem-close-tab =
+    .label = Særa feuggio
 tabbrowser-menuitem-close =
     .label = Særa
 # Variables:
@@ -17,6 +20,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = Særa feuggi
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -36,3 +40,9 @@ tabbrowser-tab-tooltip =
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Dizativa aodio in sto feuggio
+    .accesskey = v
+tabbrowser-context-unmute-tab =
+    .label = Ativa aodio in sto feuggio
+    .accesskey = v
