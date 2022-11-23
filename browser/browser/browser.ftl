@@ -404,3 +404,6 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } het hierdie bladsy verhoed om outomaties te herlaai.
 refresh-blocked-redirect-label = { -brand-short-name } het hierdie bladsy verhoed om outomaties na 'n ander bladsy te herlei.
+refresh-blocked-allow =
+    .label = Laat toe
+    .accesskey = L

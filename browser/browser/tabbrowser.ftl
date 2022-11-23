@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Sluit oortjie
 tabbrowser-menuitem-close =
     .label = Sluit
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -37,6 +42,13 @@ tabbrowser-confirm-close-tabs-button = Sluit oortjies
 
 ##
 
+tabbrowser-customizemode-tab-title = Pas { -brand-short-name } aan
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Doof oortjie
+    .accesskey = D
+tabbrowser-context-unmute-tab =
+    .label = Ontdoof oortjie
+    .accesskey = n
