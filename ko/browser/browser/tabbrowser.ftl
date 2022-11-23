@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = 탭 닫기
 tabbrowser-menuitem-close =
     .label = 닫기
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -30,6 +35,8 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = 열기 확인
+tabbrowser-confirm-open-multiple-tabs-button = 탭 열기
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -40,6 +47,21 @@ tabbrowser-tab-tooltip =
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = { $domain }의 이와 같은 알림이 해당 사이트의 탭으로 전환하도록 허용
+tabbrowser-customizemode-tab-title = { -brand-short-name } 사용자 지정
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = 탭 음소거
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = 탭 음소거 해제
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = 탭 음소거
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = 탭 음소거 해제
+    .accesskey = m
