@@ -6,6 +6,8 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = הדיווח נשלח. תודה!
+confirmation-hint-login-removed = הכניסה הוסרה!
+confirmation-hint-page-bookmarked = נשמר לסימניות
 confirmation-hint-password-saved = הססמה נשמרה!
 confirmation-hint-pin-tab = נעוץ!
 confirmation-hint-pin-tab-description = יש ללחוץ על הלשונית עם הכפתור הימני כדי לשחרר את הנעיצה.
