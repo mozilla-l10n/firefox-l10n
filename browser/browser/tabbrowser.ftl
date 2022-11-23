@@ -17,6 +17,14 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Stäng flik
+           *[other] Stäng { $tabCount } flikar
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -60,14 +68,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Stäng { $tabCount } flikar?
 tabbrowser-confirm-close-tabs-button = Stäng flikar
+tabbrowser-confirm-close-tabs-checkbox = Bekräfta innan du stänger flera flikar
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Stäng { $windowCount } fönster?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Stäng och avsluta
+       *[other] Stäng och avsluta
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Stäng fönster och avsluta { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Avsluta { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Bekräfta innan du avslutar med { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -85,6 +113,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Varna när öppnande av många 
 
 tabbrowser-confirm-caretbrowsing-title = Textmarkörläge
 tabbrowser-confirm-caretbrowsing-message = Genom att trycka på F7 aktiveras textmarkörläge eller stängs av. Denna funktion placerar en rörlig markör på webbsidor, så att du kan välja text med tangentbordet. Vill du aktivera textmarkörläge?
+tabbrowser-confirm-caretbrowsing-checkbox = Visa inte denna dialogruta igen.
 
 ##
 
