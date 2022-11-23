@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = แท็บใหม่
+tabbrowser-empty-private-tab-title = แท็บส่วนตัวใหม่
 tabbrowser-menuitem-close-tab =
     .label = ปิดแท็บ
 tabbrowser-menuitem-close =
@@ -43,14 +44,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = ต้องการปิด { $tabCount } แท็บหรือไม่?
 tabbrowser-confirm-close-tabs-button = ปิดแท็บ
+tabbrowser-confirm-close-tabs-checkbox = ยืนยันก่อนปิดหลายแท็บ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = ต้องการปิด { $windowCount } หน้าต่างหรือไม่?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] ปิดแล้วออก
+       *[other] ปิดแล้วออก
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = ต้องการปิดหน้าต่างแล้วออกจาก { -brand-short-name } หรือไม่?
+tabbrowser-confirm-close-tabs-with-key-button = ออกจาก { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = ยืนยันก่อนออกด้วย { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -66,6 +87,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = เตือนฉันเม�
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = การเลื่อนดูด้วยแป้นพิมพ์
+tabbrowser-confirm-caretbrowsing-message = กด F7 เพื่อเปิดปิดการเลื่อนดูโดยแป้นพิมพ์ ในการเลื่อนดูแบบนี้ จะมีเคอร์เซอร์ที่เคลื่อนที่ได้อยู่บนหน้าเว็บทำให้คุณเลือกข้อความด้วยแป้นพิมพ์ได้ คุณต้องการเปิดการเลื่อนดูโดยแป้นพิมพ์หรือไม่?
+tabbrowser-confirm-caretbrowsing-checkbox = ไม่ต้องแสดงกล่องโต้ตอบนี้ให้ฉันเห็นอีก
 
 ##
 
