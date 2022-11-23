@@ -923,3 +923,9 @@ private-browsing-indicator-label = Ιδιωτική περιήγηση
 unified-extensions-button =
     .label = Επεκτάσεις
     .tooltiptext = Επεκτάσεις
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = Αποδοχή
+    .accesskey = Α

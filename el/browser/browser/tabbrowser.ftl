@@ -11,11 +11,39 @@ tabbrowser-menuitem-close =
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Κλείσιμο καρτέλας
+           *[other] Κλείσιμο { $tabCount } καρτελών
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Σίγαση καρτέλας ({ $shortcut })
+           *[other] Σίγαση { $tabCount } καρτελών ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Σίγαση καρτέλας
+           *[other] Σίγαση { $tabCount } καρτελών
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Αναπαραγωγή καρτέλας
+           *[other] Αναπαραγωγή { $tabCount } καρτελών
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -31,6 +59,15 @@ tabbrowser-confirm-close-tabs-button = Κλείσιμο καρτελών
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Επιβεβαίωση ανοίγματος
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Πρόκειται να ανοίξετε { $tabCount } καρτέλες. Αυτό πιθανόν να επιβραδύνει το { -brand-short-name } κατά τη φόρτωση των σελίδων. Θέλετε σίγουρα να συνεχίσετε;
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Άνοιγμα καρτελών
+tabbrowser-confirm-open-multiple-tabs-checkbox = Προειδοποίηση όταν το άνοιγμα πολλαπλών καρτελών ενδέχεται να επιβραδύνει το { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
