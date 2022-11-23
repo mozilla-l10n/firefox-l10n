@@ -5,6 +5,9 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Raport trimis. Îți mulțumim!
+confirmation-hint-login-removed = Date de autentificare eliminate!
 confirmation-hint-password-saved = Parolă salvată!
 confirmation-hint-pin-tab = Fixat!
+confirmation-hint-pin-tab-description = Dă clic dreapta pe filă ca să o elimini din filele fixate.
 confirmation-hint-send-to-device = Trimis!
