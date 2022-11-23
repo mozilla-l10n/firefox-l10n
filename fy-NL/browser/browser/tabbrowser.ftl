@@ -41,6 +41,13 @@ tabbrowser-confirm-close-tabs-button = Ljepblêden slute
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Fergelykbere meldingen fan { $domain } om jo nei harren ljepblêd te lieden tastean
+tabbrowser-customizemode-tab-title = { -brand-short-name } oanpasse
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Ljepblêd dempe
+    .accesskey = d
+tabbrowser-context-unmute-tab =
+    .label = Ljepblêd dempe opheffe
+    .accesskey = d

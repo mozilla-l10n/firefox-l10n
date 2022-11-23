@@ -934,6 +934,7 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } hat opkeard dat dizze side automatysk opnij laden waard.
 refresh-blocked-redirect-label = { -brand-short-name } hat opkeard dat dizze side automatysk trochstjoerd waard nei in oare side.
 refresh-blocked-allow =
     .label = Tastean
