@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
-
 appmenuitem-banner-update-available =
     .label = עדכון זמין — הורדה כעת
-
 appmenuitem-banner-update-manual =
     .label = עדכון זמין — הורדה כעת
-
 appmenuitem-banner-update-unsupported =
     .label = לא ניתן לעדכן — מערכת לא נתמכת
-
 appmenuitem-banner-update-restart =
     .label = עדכון זמין — הפעלה מחדש כעת
-
 appmenuitem-new-tab =
     .label = לשונית חדשה
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = סגירת תפריט היישום
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = כניסה כדי לסנכרן…
 appmenu-remote-tabs-turn-on-sync =
     .label = הפעלת סנכרון…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = הצגת לשוניות נוספות
     .tooltiptext = הצגת לשוניות נוספות ממכשיר זה
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = אין לשוניות פתוחות
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = יש להפעיל סנכרון לשוניות כדי לצפות ברשימת לשוניות מהמכשירים האחרים שלך.
-
 appmenu-remote-tabs-opensettings =
     .label = הגדרות
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = להציג כאן את הלשוניות שלך משאר המכשירים?
-
 appmenu-remote-tabs-connectdevice =
     .label = חיבור מכשיר נוסף
 appmenu-remote-tabs-welcome = הצגת רשימת לשוניות משאר המכשירים שלך.
 appmenu-remote-tabs-unverified = יש לאמת את החשבון שלך.
-
 appmenuitem-fxa-toolbar-sync-now2 = סנכרון כעת
 appmenuitem-fxa-sign-in = התחברות אל { -brand-product-name }
 appmenuitem-fxa-manage-account = ניהול חשבון
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = סנכרון ושמירת נתונים
 appmenu-fxa-signed-in-label = כניסה
 appmenu-fxa-setup-sync =
     .label = הפעלת סנכרון…
-
 appmenuitem-save-page =
     .label = שמירת דף בשם…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = מה חדש
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,51 +120,38 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = יוצר הפרופילים
     .tooltiptext = הקלטת פרופיל ביצועים
-
 profiler-popup-button-recording =
     .label = יוצר הפרופילים
     .tooltiptext = יוצר הפרופילים מקליט כעת פרופיל
-
 profiler-popup-button-capturing =
     .label = יוצר הפרופילים
     .tooltiptext = יוצר הפרופילים לוכד כעת פרופיל
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = הצגת מידע נוסף
-
 profiler-popup-description-title =
     .value = הקלטה, ניתוח, שיתוף
-
 profiler-popup-learn-more-button =
     .label = מידע נוסף
-
 profiler-popup-settings =
     .value = הגדרות
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = עריכת הגדרות…
-
 profiler-popup-recording-screen = בהקלטה…
-
 profiler-popup-start-recording-button =
     .label = התחלת ההקלטה
-
 profiler-popup-discard-button =
     .label = השלכה
-
 profiler-popup-capture-button =
     .label = לכידה
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -197,28 +169,22 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = ערכה מומלצת עבור רוב ניפויי השגיאות של יישומוני רשת, עם תקורה נמוכה.
 profiler-popup-presets-web-developer-label =
     .label = Web Developer
-
 profiler-popup-presets-firefox-description = ערכת מומלצת ליצירת פרופיל ביצועים של { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = ערכה לחקירת באגים גרפיים ב־{ -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Graphics
-
 profiler-popup-presets-media-description2 = ערכה לחקירת באגים בשמע ווידאו ב־{ -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
-
 profiler-popup-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Networking
-
 profiler-popup-presets-power-description = ערכה לחקירת באגים של צריכת חשמל ב־{ -brand-shorter-name }, עם תקורה נמוכה.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = צריכת חשמל
-
 profiler-popup-presets-custom-label =
     .label = התאמה אישית
 
@@ -281,7 +247,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = התאמה אישית של סרגל הכלים…
-
 appmenu-developer-tools-subheader = כלי דפדפן
 appmenu-developer-tools-extensions =
     .label = הרחבות עבור מפתחים
