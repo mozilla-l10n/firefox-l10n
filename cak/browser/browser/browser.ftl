@@ -793,3 +793,6 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } man xuya' ta q'ij richin xsamäj ta el pa ruyonil.
 refresh-blocked-redirect-label = { -brand-short-name } man xuya' ta q'ij chi re re jun ruxaq re' richin pa ruyonil xb'e'ok ta apo pa jun chik.
+refresh-blocked-allow =
+    .label = Tiya' q'ij
+    .accesskey = y

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = K'ak'a' Ruwi'
 tabbrowser-menuitem-close-tab =
     .label = Titz'apïx ruwi'
 tabbrowser-menuitem-close =
@@ -15,15 +16,58 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Titz'apïx ruwi'
+           *[other] Ketz'apïx { $tabCount } ruwi'
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Timemür ruwi' ({ $shortcut })
+           *[other] Kememür { $tabCount } ruwi' ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Man timemür ruwi' ({ $shortcut })
+           *[other] Man kememür { $tabCount } ruwi' ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Timemür ruwi'
+           *[other] Kememür { $tabCount } ruwi'
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Man timemür ruwi'
+           *[other] Man kememür { $tabCount } ruwi'
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Titzij ruwi'
+           *[other] Ketzij { $tabCount } ruwi'
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = Ketz'apïx Ruwi'
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -31,6 +75,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-button = Titz'apïx { -brand-short-name }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -41,10 +86,14 @@ tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
        *[other] Ye'ajäq yan qa { $tabCount } taq ruwi'. Rik'in jub'a' eqal b'a xtub'än qa { -brand-short-name } toq xtusamajib'ej ri taq ruxaq k'amaya'l. ¿La k'a nawajo' nasamajij el?
     }
+tabbrowser-confirm-open-multiple-tabs-button = Kejaq ruwi'
 tabbrowser-confirm-open-multiple-tabs-checkbox = Titzijöx pe chwe toq ninjäq jalajöj taq ruwi' eqal nub'än { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Okem pa K'amaya'l Rik'in Retal Ch'oy
+tabbrowser-confirm-caretbrowsing-message = Toq nipitz' ri pitz'b'äl F7 nitzij/nichup ri okem pa Caret. Re rub'anikil re' nuya' pe jun retal silonel ch'oy pa ri ruxaq k'amaya'l, ri nuya' q'ij richin nicha' rucholajem tzij rik'in ri pitz'b'äl. ¿La nawajo' natz'ïj re rub'anikil re'?
+tabbrowser-confirm-caretbrowsing-checkbox = Man tik'ut chik pe re rutzuwach tzijonem jub'ey chik.
 
 ##
 
@@ -62,3 +111,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Tak'axäx ri ruwi'
     .accesskey = a
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Kememür Ruwi'
+    .accesskey = K
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Ke'ak'axäx Ruwi'
+    .accesskey = k
