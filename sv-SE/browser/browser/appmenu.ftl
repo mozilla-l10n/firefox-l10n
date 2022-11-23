@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Hämtar uppdatering av { -brand-shorter-name }
-
 appmenuitem-banner-update-available =
     .label = Uppdatering tillgänglig — hämta nu
-
 appmenuitem-banner-update-manual =
     .label = Uppdatering tillgänglig — hämta nu
-
 appmenuitem-banner-update-unsupported =
     .label = Uppdatering misslyckades — systemet är inte kompatibelt
-
 appmenuitem-banner-update-restart =
     .label = Uppdatering tillgänglig — starta om nu
-
 appmenuitem-new-tab =
     .label = Ny flik
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Stäng applikationsmeny
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Logga in för att synkronisera…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktivera synkronisering…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Visa fler flikar
     .tooltiptext = Visa flikar från denna enhet
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Inga öppna flikar
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.
-
 appmenu-remote-tabs-opensettings =
     .label = Inställningar
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vill du se dina flikar från andra enheter här?
-
 appmenu-remote-tabs-connectdevice =
     .label = Anslut en annan enhet
 appmenu-remote-tabs-welcome = Visa en lista med flikar från dina andra enheter.
 appmenu-remote-tabs-unverified = Ditt konto behöver verifieras.
-
 appmenuitem-fxa-toolbar-sync-now2 = Synkronisera nu
 appmenuitem-fxa-sign-in = Logga in på { -brand-product-name }
 appmenuitem-fxa-manage-account = Hantera konto
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = Synkronisera och spara data
 appmenu-fxa-signed-in-label = Logga in
 appmenu-fxa-setup-sync =
     .label = Aktivera synkronisering…
-
 appmenuitem-save-page =
     .label = Spara sida som…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Vad är nytt
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,53 +120,39 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Spela in en prestationsprofil
-
 profiler-popup-button-recording =
     .label = Profilerare
     .tooltiptext = Profileraren spelar in en profil
-
 profiler-popup-button-capturing =
     .label = Profilerare
     .tooltiptext = Profileraren fångar en profil
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Avslöja mer information
-
 profiler-popup-description-title =
     .value = Spela in, analysera, dela
-
 profiler-popup-description = Samarbeta om prestandafrågor genom att publicera profiler för att dela med ditt team.
-
 profiler-popup-learn-more-button =
     .label = Läs mer
-
 profiler-popup-settings =
     .value = Inställningar
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Redigera inställningar…
-
 profiler-popup-recording-screen = Spelar in…
-
 profiler-popup-start-recording-button =
     .label = Starta inspelning
-
 profiler-popup-discard-button =
     .label = Släng
-
 profiler-popup-capture-button =
     .label = Fånga
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -199,28 +170,22 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Rekommenderad förinställning för de flesta webbappfelsökningar, med lite pålägg.
 profiler-popup-presets-web-developer-label =
     .label = Webbutvecklare
-
 profiler-popup-presets-firefox-description = Rekommenderad förinställning för profilering av { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Förinställd för att undersöka grafikbuggar i { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafik
-
 profiler-popup-presets-media-description2 = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
-
 profiler-popup-presets-networking-description = Förinställd för att undersöka nätverksbuggar i { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Nätverk
-
 profiler-popup-presets-power-description = Förinställd för att undersöka buggar för energianvändning i { -brand-shorter-name }, med låg omkostnad.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energi
-
 profiler-popup-presets-custom-label =
     .label = Anpassad
 
@@ -283,7 +248,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Anpassa verktygsfält…
-
 appmenu-developer-tools-subheader = Webbläsarverktyg
 appmenu-developer-tools-extensions =
     .label = Tillägg för utvecklare
