@@ -67,14 +67,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Sneck { $tabCount } tabs?
 tabbrowser-confirm-close-tabs-button = Sneck tabs
+tabbrowser-confirm-close-tabs-checkbox = Confirm afore sneckin multiple tabs
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = Sneck { $windowCount } windaes?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Sneck and ootgang
+       *[other] Sneck and quit
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Sneck windae and quit { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Quit { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Confirm afore quittin wi { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -85,10 +105,14 @@ tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
        *[other] Yer aboot tae open { $tabCount } tabs. This micht gar { -brand-short-name } slow doon while the pages are loadin. Are ye siccar yer wantin tae gang on?
     }
+tabbrowser-confirm-open-multiple-tabs-button = Open tabs
 tabbrowser-confirm-open-multiple-tabs-checkbox = Lat me ken whan openin multiple tabs micht gar { -brand-short-name } slow doon
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Caret Stravaigin
+tabbrowser-confirm-caretbrowsing-message = Pressin F7 turns Caret Stravaigin on or aff. This featur pits a flittable cursor in wab pages, allooin ye tae select text wi the keybuird. Are ye wantin tae turn Caret Stravaigin on?
+tabbrowser-confirm-caretbrowsing-checkbox = Dinnae kythe this dialog box oniemair.
 
 ##
 
@@ -100,3 +124,17 @@ tabbrowser-customizemode-tab-title = Mak { -brand-short-name } Yer Ain
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Wheesht Tab
+    .accesskey = W
+tabbrowser-context-unmute-tab =
+    .label = Unwheesht Tab
+    .accesskey = w
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Wheesht Tabs
+    .accesskey = H
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Unwheesht Tabs
+    .accesskey = h
