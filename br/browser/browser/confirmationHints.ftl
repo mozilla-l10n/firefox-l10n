@@ -5,6 +5,8 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Danevell kaset. Trugarez!
+confirmation-hint-password-saved = Ger-tremen enrollet!
 confirmation-hint-pin-tab = Spilhennet!
 confirmation-hint-pin-tab-description = Klikit dehou war an ivinell evit e zispilhennañ.
 confirmation-hint-send-to-device = Kaset!
