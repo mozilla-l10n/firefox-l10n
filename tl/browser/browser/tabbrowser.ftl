@@ -42,6 +42,7 @@ tabbrowser-mute-tab-audio-background-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-button = Buksan ang mga tab
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -56,3 +57,6 @@ tabbrowser-allow-dialogs-to-get-focus =
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = i-Mute ang Tab
+    .accesskey = M
