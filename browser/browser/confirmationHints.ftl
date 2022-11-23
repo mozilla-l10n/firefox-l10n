@@ -7,3 +7,4 @@
 
 confirmation-hint-password-saved = Parolă salvată!
 confirmation-hint-pin-tab = Fixat!
+confirmation-hint-send-to-device = Trimis!
