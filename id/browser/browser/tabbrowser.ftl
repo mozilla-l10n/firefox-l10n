@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Tab Baru
 tabbrowser-menuitem-close-tab =
     .label = Tutup Tab
 tabbrowser-menuitem-close =
@@ -58,6 +59,13 @@ tabbrowser-confirm-open-multiple-tabs-title = Konfirmasi pembukaan
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Izinkan notifikasi seperti ini dari { $domain } untuk membawa Anda membuka tab mereka
+tabbrowser-customizemode-tab-title = Ubahsuai { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Bisukan Tab
+    .accesskey = B
+tabbrowser-context-unmute-tab =
+    .label = Suarakan Tab
+    .accesskey = S
