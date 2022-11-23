@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = أغلق اللّسان
 tabbrowser-menuitem-close =
     .label = أغلق
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = ‏{ $title } ‏- ‏{ $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -37,6 +42,10 @@ tabbrowser-confirm-close-tabs-button = أغلق الألسنة
 
 ##
 
+tabbrowser-customizemode-tab-title = خصّص { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-unmute-tab =
+    .label = أطلِق صوت اللسان
+    .accesskey = ط
