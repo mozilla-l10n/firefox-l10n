@@ -499,3 +499,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ले यस पेज स्वचालित रूपमा पुनःलोड हुनबाट रोक्यो।
+refresh-blocked-redirect-label = { -brand-short-name } ले यस पेज स्वचालित रूपमा अर्को पृष्ठमा पुनः निर्देशित हुनबाट रोक्यो।
+refresh-blocked-allow =
+    .label = अनुमति दिनुहोस्
+    .accesskey = A
