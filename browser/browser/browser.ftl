@@ -863,3 +863,11 @@ private-browsing-indicator-label = Privaatne veebilehitsemine
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } keelas sellel lehel automaatse uuestilaadimise.
+refresh-blocked-redirect-label = { -brand-short-name } keelas sellel lehel automaatse edasisuunamise muule lehele.
+refresh-blocked-allow =
+    .label = Luba
+    .accesskey = L
