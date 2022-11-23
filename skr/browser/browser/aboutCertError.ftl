@@ -5,5 +5,7 @@
 
 ## Messages used for certificate error titles
 
+fileNotFound-title = فائل کائنی لبھی
+fileAccessDenied-title = فائل تائیں رسائی مسترد کر ݙتی ڳئی ہائی
 generic-title = اوہو
 captivePortal-title = نیٹ ورک وچ لاگ ان تھیوو
