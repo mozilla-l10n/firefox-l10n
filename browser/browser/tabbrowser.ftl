@@ -5,6 +5,8 @@
 tabbrowser-empty-tab-title = Tabbere Hesere
 tabbrowser-menuitem-close-tab =
     .label = Uddu Tabbere
+tabbrowser-menuitem-close =
+    .label = Uddu
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
