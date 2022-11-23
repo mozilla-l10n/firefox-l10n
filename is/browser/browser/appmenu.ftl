@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Sæki { -brand-shorter-name } uppfærslu
-
 appmenuitem-banner-update-available =
     .label = Uppfærsla í boði — sækja núna
-
 appmenuitem-banner-update-manual =
     .label = Uppfærsla í boði — sækja núna
-
 appmenuitem-banner-update-unsupported =
     .label = Ekki hægt að uppfæra — kerfi ósamhæft
-
 appmenuitem-banner-update-restart =
     .label = Uppfærsla í boði — endurræstu núna
-
 appmenuitem-new-tab =
     .label = Nýr flipi
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Loka forritavalmynd
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Skráðu inn til að samstilla…
 appmenu-remote-tabs-turn-on-sync =
     .label = Kveikja á samstillingu…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Birta fleiri flipa
     .tooltiptext = Birta fleiri flipa af þessu tæki
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Engir opnir flipar
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.
-
 appmenu-remote-tabs-opensettings =
     .label = Stillingar
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Viltu sjá hérna þína flipa frá öðrum tækjum?
-
 appmenu-remote-tabs-connectdevice =
     .label = Tengja annað tæki
 appmenu-remote-tabs-welcome = Skoða lista yfir flipa frá öðrum tækjum.
 appmenu-remote-tabs-unverified = Nauðsynlegt er að staðfesta reikning.
-
 appmenuitem-fxa-toolbar-sync-now2 = Samstilla núna
 appmenuitem-fxa-sign-in = Skrá inn í { -brand-product-name }
 appmenuitem-fxa-manage-account = Sýsla með reikning
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = Samstilltu og vistaðu gögn
 appmenu-fxa-signed-in-label = Innskráning
 appmenu-fxa-setup-sync =
     .label = Kveikja á samstillingu…
-
 appmenuitem-save-page =
     .label = Vista síðu sem…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Hvað er nýtt
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,53 +120,39 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Afkastavakt
     .tooltiptext = Skrá afkastasnið
-
 profiler-popup-button-recording =
     .label = Afkastavakt
     .tooltiptext = Afkastavaktin er að skrá afkastasnið
-
 profiler-popup-button-capturing =
     .label = Afkastavakt
     .tooltiptext = Afkastavaktin er að lesa afkastasnið
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Birta meiri upplýsingar
-
 profiler-popup-description-title =
     .value = Skrá, greina, deila
-
 profiler-popup-description = Vertu í samstarfi um afkastavandamál með því að birta afkastasnið til að deila með teyminu þínu.
-
 profiler-popup-learn-more-button =
     .label = Fræðast meira
-
 profiler-popup-settings =
     .value = Stillingar
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Breyta stillingum…
-
 profiler-popup-recording-screen = Skrái…
-
 profiler-popup-start-recording-button =
     .label = Hefja skráningu
-
 profiler-popup-discard-button =
     .label = Henda
-
 profiler-popup-capture-button =
     .label = Grípa
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -199,28 +170,22 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Sú forstilling sem mælt er með fyrir villuleit flestra vefforrita, með litlum fórnarkostnaði í afköstum.
 profiler-popup-presets-web-developer-label =
     .label = Vefhönnuður
-
 profiler-popup-presets-firefox-description = Sú forstilling sem mælt er með fyrir prófílgreiningu { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Sú forstilling sem mælt er með til að rannsaka myndrænar villur í { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Myndefni
-
 profiler-popup-presets-media-description2 = Sú forstilling sem mælt er með til að rannsaka hljóð- og myndvandamál í { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Margmiðlunargögn
-
 profiler-popup-presets-networking-description = Sú forstilling sem mælt er með til að rannsaka netkerfisvillur í { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Netvinnsla
-
 profiler-popup-presets-power-description = Forstilling til að rannsaka orkunotkunarvillur í { -brand-shorter-name }, með lágum afkastakostnaði.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Afl
-
 profiler-popup-presets-custom-label =
     .label = Sérsniðið
 
@@ -283,7 +248,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Sérsníða verkfæraslá…
-
 appmenu-developer-tools-subheader = Vafraverkfæri
 appmenu-developer-tools-extensions =
     .label = Viðbætur fyrir forritara
