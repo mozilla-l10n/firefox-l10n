@@ -31,6 +31,15 @@ tabbrowser-close-tabs-tooltip =
 ##   $tabCount (Number): The number of tabs that will be affected.
 
 # Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Isključi zvuk kartice ({ $shortcut })
+            [few] Isključi zvuk { $tabCount } kartica ({ $shortcut })
+           *[other] Isključi zvuk { $tabCount } kartica ({ $shortcut })
+        }
+# Variables:
 #   $shortcut (String): The keyboard shortcut for "Unmute tab".
 tabbrowser-unmute-tab-audio-tooltip =
     .label =
@@ -38,6 +47,13 @@ tabbrowser-unmute-tab-audio-tooltip =
             [one] Uključi zvuk { $tabCount } kartice ({ $shortcut })
             [few] Uključi zvuk { $tabCount } kartice ({ $shortcut })
            *[other] Uključi zvuk { $tabCount } kartica ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Isključi zvuk kartice
+            [few] Isključi zvuk { $tabCount } kartica
+           *[other] Isključi zvuk { $tabCount } kartica
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
@@ -68,11 +84,19 @@ tabbrowser-confirm-close-tabs-button = Zatvori kartice
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Potvrdi otvaranje
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Otvorit ćeš { $tabCount } kartice(a). Ovo bi moglo usporiti { -brand-short-name } dok se stranice učitavaju. Stvarno želiš nastaviti?
+    }
 tabbrowser-confirm-open-multiple-tabs-button = Otvori kartice
 tabbrowser-confirm-open-multiple-tabs-checkbox = Upozori me kod otvaranja više kartica koje bi moglo usporiti { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-message = Pritiskom na F7 uključuje se ili isključuje pregledavanje kursorom. Ova funkcija postavlja pomični kursor na web-stranice, što omogućuje biranje teksta tipkovnicom. Želiš li uključiti pregledavanje pomoću kursora?
 
 ##
 
@@ -84,9 +108,16 @@ tabbrowser-customizemode-tab-title = Prilagodi { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Isključi zvuk kartice
+    .accesskey = š
 tabbrowser-context-unmute-tab =
     .label = Uključi zvuk kartice
     .accesskey = k
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Isključi zvuk kartice
+    .accesskey = t
 # The accesskey should match the accesskey for tabbrowser-context-unmute-tab
 tabbrowser-context-unmute-selected-tabs =
     .label = Uključi zvuk kartica
