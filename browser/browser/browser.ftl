@@ -485,3 +485,9 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = អនុញ្ញាត
+    .accesskey = A
