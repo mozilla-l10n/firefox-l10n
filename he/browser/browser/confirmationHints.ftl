@@ -9,3 +9,4 @@ confirmation-hint-breakage-report-sent = הדיווח נשלח. תודה!
 confirmation-hint-password-saved = הססמה נשמרה!
 confirmation-hint-pin-tab = נעוץ!
 confirmation-hint-pin-tab-description = יש ללחוץ על הלשונית עם הכפתור הימני כדי לשחרר את הנעיצה.
+confirmation-hint-send-to-device = נשלח!
