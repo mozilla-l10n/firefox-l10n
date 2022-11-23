@@ -65,3 +65,7 @@ tabbrowser-context-unmute-tab =
 tabbrowser-context-mute-selected-tabs =
     .label = टैबों को म्यूट करें
     .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = टैब को मौन से हटायें
+    .accesskey = m
