@@ -528,3 +528,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } je spriječio ovu stranicu da se automatski osvježi.
+refresh-blocked-redirect-label = { -brand-short-name } je spriječio ovu stranicu da automatski preusmjeri na drugu stranicu.
+refresh-blocked-allow =
+    .label = Dozvoli
+    .accesskey = D
