@@ -936,3 +936,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = A { -brand-short-name } megakadályozta, hogy az oldal automatikusan újratöltődjön.
 refresh-blocked-redirect-label = A { -brand-short-name } megakadályozta, hogy az oldal automatikusan átirányítson egy másik oldalra.
+refresh-blocked-allow =
+    .label = Engedélyezés
+    .accesskey = E

@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Lap bezárása
 tabbrowser-menuitem-close =
     .label = Bezárás
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } – { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -41,6 +46,13 @@ tabbrowser-confirm-close-tabs-button = Lapok bezárása
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Engedélyezés, hogy a(z) { $domain } oldalról érkező ilyen értesítések a saját lapjukra vigyenek
+tabbrowser-customizemode-tab-title = { -brand-short-name } testreszabása
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Lap némítása
+    .accesskey = n
+tabbrowser-context-unmute-tab =
+    .label = Lap visszahangosítása
+    .accesskey = v
