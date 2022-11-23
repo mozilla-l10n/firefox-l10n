@@ -928,3 +928,10 @@ private-browsing-indicator-label = Privater Modus
 unified-extensions-button =
     .label = Erweiterungen
     .tooltiptext = Erweiterungen
+
+## Autorefresh blocker
+
+refresh-blocked-redirect-label = { -brand-short-name } hat diese Webseite daran gehindert automatisch auf eine andere Webseite umzuleiten.
+refresh-blocked-allow =
+    .label = Erlauben
+    .accesskey = E
