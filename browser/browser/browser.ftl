@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = 확인
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = 팁:
+urlbar-result-menu-button =
+    .title = 메뉴 열기
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
