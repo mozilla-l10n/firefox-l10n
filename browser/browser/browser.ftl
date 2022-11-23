@@ -926,6 +926,8 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = Το { -brand-short-name } εμπόδισε την αυτόματη ανανέωση της σελίδας.
+refresh-blocked-redirect-label = Το { -brand-short-name } εμπόδισε την αυτόματη ανακατεύθυνση της σελίδας σε μια άλλη σελίδα.
 refresh-blocked-allow =
     .label = Αποδοχή
     .accesskey = Α
