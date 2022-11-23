@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Զեկոյցը ուղարկուեց։ Շնորհակալութիւն
 confirmation-hint-login-removed = Գրանցումն հեռացուած է։
+confirmation-hint-page-bookmarked = Պահել էջանիշներում
 confirmation-hint-password-saved = Գաղտնաբառը պահպանուել է
 confirmation-hint-pin-tab = Ամրացուած
 confirmation-hint-pin-tab-description = ներդիրը բացելու համար աջ-կտտացրէք։
