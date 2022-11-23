@@ -110,6 +110,8 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Զգուշացնել բազմա
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Գործուն նշորդ
+tabbrowser-confirm-caretbrowsing-message = F7 սեղմելով միանում կամ անջատում են Գործուն Նշորդը։ Այս յատկութիւնը վեբ էջում տեղադրում է շարժական նշորդ՝ հնարաւորութիւն տալով ստեղնաշարի աւգնութեամբ ընտրել որեւէ գրոյթ։ Ցանկանո՞ւմ էք միացնել։
 tabbrowser-confirm-caretbrowsing-checkbox = Այլեւս չցուցադրել այս երկխաւսութեան պատուհանը
 
 ##
