@@ -587,3 +587,7 @@ data-reporting-notification-message = { -brand-short-name } unvia automáticamen
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } evitó qu'esta páxina se volviere cargar automáticamente.
