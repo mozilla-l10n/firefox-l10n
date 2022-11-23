@@ -922,3 +922,11 @@ private-browsing-indicator-label = การเรียกดูแบบส่
 unified-extensions-button =
     .label = ส่วนขยาย
     .tooltiptext = ส่วนขยาย
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ได้ป้องกันไม่ให้หน้านี้โหลดใหม่โดยอัตโนมัติ
+refresh-blocked-redirect-label = { -brand-short-name } ได้ป้องกันไม่ให้หน้านี้เปลี่ยนเส้นทางไปยังหน้าอื่นโดยอัตโนมัติ
+refresh-blocked-allow =
+    .label = อนุญาต
+    .accesskey = อ
