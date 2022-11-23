@@ -6,3 +6,5 @@
 ## Confirmation hints
 
 confirmation-hint-login-removed = Identifiant supprimé !
+confirmation-hint-page-bookmarked = Enregistré dans les marque-pages
+confirmation-hint-send-to-device = Envoyé
