@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Napakni a Panagsursur)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Napakni a Panagsursur)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Napakni a Panagsursur)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Napakni a Panagsursur)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -88,6 +86,7 @@ full-screen-autohide =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -123,7 +122,6 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Etiketa a Pagisukatan:
-
 urlbar-go-button =
     .tooltiptext = Tarusan ti pagtaengan iti Barras ti Disso
 
@@ -137,6 +135,9 @@ urlbar-go-button =
 
 
 ## Labels shown above groups of urlbar results
+
+
+## Reader View toolbar buttons
 
 
 ## Full Screen and Pointer Lock UI
@@ -153,7 +154,6 @@ bookmarks-sidebar-content =
     .aria-label = Pannanda
 bookmarks-bookmark-edit-panel =
     .label = Baliwan Daytoy a Pannanda
-
 bookmarks-toolbar-menu =
     .label = Barras ti Pannanda
 bookmarks-toolbar-placeholder =
@@ -173,8 +173,6 @@ bookmarks-toolbar-placeholder-button =
 ## Customize Toolbar Buttons
 
 
-## More items
-
 ## EME notification panel
 
 
@@ -182,9 +180,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -217,10 +212,8 @@ popups-infobar-dont-show-message =
 # in the string
 tabs-toolbar =
     .aria-label = Browser tabs
-
 tabs-toolbar-new-tab =
     .label = Baro nga Etiketa
-
 tabs-toolbar-list-all-tabs =
     .label = List all tabs
     .tooltiptext = List all tabs
@@ -230,5 +223,11 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } prevented this page from automatically reloading.
+refresh-blocked-redirect-label = { -brand-short-name } prevented this page from automatically redirecting to another page.
