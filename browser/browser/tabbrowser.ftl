@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Нова вкладка
+tabbrowser-empty-private-tab-title = Приватна вкладка
 tabbrowser-menuitem-close-tab =
     .label = Закрити вкладку
 tabbrowser-menuitem-close =
@@ -83,6 +84,7 @@ tabbrowser-confirm-close-tabs-title =
        *[many] Закрити { $tabCount } вкладок?
     }
 tabbrowser-confirm-close-tabs-button = Закрити вкладки
+tabbrowser-confirm-close-tabs-checkbox = Підтверджувати перед закриттям кількох вкладок
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -96,10 +98,17 @@ tabbrowser-confirm-close-windows-title =
         [few] Закрити { $windowCount } вікна?
        *[many] Закрити { $windowCount } вікон?
     }
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Закрити й вийти
+       *[other] Закрити й вийти
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Закрити вікно та вийти з { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Закрити { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Підтверджувати перед виходом за допомогою { $quitKey }
@@ -118,6 +127,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Попереджати, кол�
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Перегляд з курсором
+tabbrowser-confirm-caretbrowsing-message = Натискання F7 вмикає та вимикає Перегляд з курсором. Це дає можливість помістити рухомий курсор на вебсторінку, дозволяючи вам вибирати блоки тексту клавіатурою. Хочете увімкнути Перегляд з курсором?
+tabbrowser-confirm-caretbrowsing-checkbox = Більше не показувати це вікно.
 
 ##
 
