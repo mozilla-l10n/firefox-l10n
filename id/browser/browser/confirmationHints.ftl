@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Laporan terkirim. Terima kasih!
 confirmation-hint-login-removed = Info masuk dihapus!
+confirmation-hint-page-bookmarked = Ditambahkan ke markah
 confirmation-hint-password-saved = Sandi disimpan!
 confirmation-hint-pin-tab = Disematkan!
 confirmation-hint-pin-tab-description = Klik kanan tab untuk melepaskan sematan.
