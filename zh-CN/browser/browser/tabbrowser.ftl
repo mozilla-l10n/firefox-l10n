@@ -20,6 +20,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = 关闭标签页
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
