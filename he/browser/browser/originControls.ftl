@@ -31,3 +31,4 @@ origin-controls-state-always-on = תמיד יכולה לקרוא ולשנות נ
 origin-controls-state-when-clicked = נדרשת הרשאה כדי לקרוא ולשנות נתונים
 origin-controls-state-hover-run-visit-only = להריץ לביקור זה בלבד
 origin-controls-state-runnable-hover-open = פתיחת ההרחבה
+origin-controls-state-runnable-hover-run = פתיחת ההרחבה
