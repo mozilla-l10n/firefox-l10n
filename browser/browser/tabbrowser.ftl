@@ -90,6 +90,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar cando por abrir varias l
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Navegación co cursor do teclado
+tabbrowser-confirm-caretbrowsing-message = Premendo F7 activa ou desactiva a navegación con cursor de teclado. Esta funcionalidade coloca un cursor movíbel nas páxinas web, permitíndolle seleccionar texto co teclado. Quere activar a navegación co cursor do teclado?
+tabbrowser-confirm-caretbrowsing-checkbox = Non amosar esta caixa de diálogo de novo.
 
 ##
 
@@ -97,6 +100,21 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar cando por abrir varias l
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitir que notificacións como esta de { $domain } leven para a súa lapela
+tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Enmudecer lapela
+    .accesskey = m
+tabbrowser-context-unmute-tab =
+    .label = Desenmudecer lapela
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Enmudecer lapelas
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Desenmudecer lapelas
+    .accesskey = m
