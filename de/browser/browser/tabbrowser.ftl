@@ -79,6 +79,12 @@ tabbrowser-confirm-close-tabs-button = Tabs schließen
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Öffnen bestätigen
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Es werden { $tabCount } Tabs gleichzeitig geöffnet; das könnte { -brand-short-name } verlangsamen, während die Seiten geladen werden. Sind Sie sicher, dass Sie fortfahren möchten?
+    }
 tabbrowser-confirm-open-multiple-tabs-button = Tabs öffnen
 tabbrowser-confirm-open-multiple-tabs-checkbox = Warnen, wenn das gleichzeitige Öffnen mehrerer Tabs { -brand-short-name } verlangsamen könnte
 
@@ -100,4 +106,12 @@ tabbrowser-context-mute-tab =
     .accesskey = m
 tabbrowser-context-unmute-tab =
     .label = Stummschaltung für Tab aufheben
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Tabs stummschalten
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Stummschaltung für Tabs aufheben
     .accesskey = m
