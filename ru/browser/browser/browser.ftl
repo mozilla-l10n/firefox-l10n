@@ -938,3 +938,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } заблокировал автоматическую перезагрузку этой страницы.
 refresh-blocked-redirect-label = { -brand-short-name } заблокировал автоматическое перенаправление на другую страницу.
+refresh-blocked-allow =
+    .label = Разрешить
+    .accesskey = Р
