@@ -74,6 +74,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Zawrzij karty
+tabbrowser-confirm-close-tabs-checkbox = Pytej przi zawiyraniu wielu kart
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
