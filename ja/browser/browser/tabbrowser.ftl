@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = 新しいタブ
+tabbrowser-menuitem-close-tab =
+    .label = タブを閉じる
+tabbrowser-menuitem-close =
+    .label = 閉じる
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -39,3 +44,9 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } をカスタマイズ
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = タブをミュート
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = タブのミュートを解除
+    .accesskey = m
