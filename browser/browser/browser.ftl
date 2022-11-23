@@ -414,3 +414,6 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } ithintele eli phepha ekukhupheleni ngokuzenzekela.
 refresh-blocked-redirect-label = { -brand-short-name } ithintele eli phepha ekuyeni kwelinye iphepha ngokuzenzekelayo.
+refresh-blocked-allow =
+    .label = Vumela
+    .accesskey = A
