@@ -53,3 +53,7 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = အသံ ပြန်ဖွင့်ပါ
     .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = အသံပိတ်တက်ဗ်များ
+    .accesskey = m
