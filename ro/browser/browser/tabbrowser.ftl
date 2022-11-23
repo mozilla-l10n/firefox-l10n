@@ -16,6 +16,15 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Închide fila
+            [few] Închide { $tabCount } file
+           *[other] Închide { $tabCount } de file
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -53,6 +62,13 @@ tabbrowser-unmute-tab-audio-background-tooltip =
             [few] Activează sunetul celor { $tabCount } file
            *[other] Activează sunetul celor { $tabCount } de file
         }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Redă fila
+            [few] Redă { $tabCount } file
+           *[other] Redă { $tabCount } de file
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -69,11 +85,20 @@ tabbrowser-confirm-close-tabs-button = Închide filele
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Confirmă deschiderea
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Ești pe cale să deschizi { $tabCount } file. Ar putea încetini { -brand-short-name } la încărcarea paginilor. Sigur vrei să continui?
+    }
 tabbrowser-confirm-open-multiple-tabs-button = Deschide filele
 tabbrowser-confirm-open-multiple-tabs-checkbox = Avertizează-mă când deschiderea mai multor file ar putea încetini { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Navigare la cursor
+tabbrowser-confirm-caretbrowsing-message = Apăsarea pe F7 activează sau dezactivează navigarea la cursor. Acestă funcție plasează un cursor mobil în paginile web, permițându-ți să selectezi textul cu tastatura. Vrei să activezi navigarea la cursor?
+tabbrowser-confirm-caretbrowsing-checkbox = Nu mai afișa această casetă de dialog.
 
 ##
 
@@ -86,4 +111,12 @@ tabbrowser-context-mute-tab =
     .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Activează sunetul filei
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Dezactivează sunetul filelor
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Activează sunetul filelor
     .accesskey = m
