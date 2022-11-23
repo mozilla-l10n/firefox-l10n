@@ -62,6 +62,10 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = ٹیب کی خاموشی ختم کریں
     .accesskey = خ
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = ٹیب کو خاموش کریں
+    .accesskey = M
 # The accesskey should match the accesskey for tabbrowser-context-unmute-tab
 tabbrowser-context-unmute-selected-tabs =
     .label = ٹیب کی خاموشی ختم کریں
