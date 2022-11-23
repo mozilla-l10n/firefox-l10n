@@ -612,3 +612,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ha privau que ista pachina se recargase automaticament.
+refresh-blocked-redirect-label = { -brand-short-name } privó que ista pachina se reendrezase automaticament enta unatra.
+refresh-blocked-allow =
+    .label = Permitir
+    .accesskey = P
