@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = ਨਵੀਂ ਟੈਬ
+tabbrowser-empty-private-tab-title = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ
 tabbrowser-menuitem-close-tab =
     .label = ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
 tabbrowser-menuitem-close =
@@ -16,23 +17,85 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ਟੈਬ ਬੰਦ ਕਰੋ
+           *[other] { $tabCount }ਟੈਬਾਂ ਬੰਦ ਕਰੋ
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ਟੈਬ ਦੀ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ ({ $shortcut })
+           *[other] { $tabCount } ਟੈਬਾਂ ਦੀ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ਟੈਬ ਦੀ ਆਵਾਜ਼ ਚਲਾਓ ({ $shortcut })
+           *[other] { $tabCount } ਟੈਬਾਂ ਦੀ ਆਵਾਜ਼ ਚਲਾਓ ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ਟੈਬ ਦੀ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ
+           *[other] { $tabCount } ਟੈਬਾਂ ਦੀਆਂ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ਟੈਬ ਦੀ ਆਵਾਜ਼ ਚਲਾਓ
+           *[other] { $tabCount } ਟੈਬਾਂ ਦੀ ਆਵਾਜ਼ ਚਲਾਓ
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ਟੈਬ ਚਲਾਓ
+           *[other] { $tabCount } ਟੈਬਾਂ ਚਲਾਓ
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = { $tabCount } ਟੈਬਾਂ ਬੰਦ ਕਰਨੀਆਂ ਹਨ?
 tabbrowser-confirm-close-tabs-button = ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
+tabbrowser-confirm-close-tabs-checkbox = ਕਈ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤਸਦੀਕ ਕਰੋ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = { $windowCount } ਵਿੰਡੋ ਬੰਦ ਕਰਨੀਆਂ ਹਨ?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] ਬੰਦ ਕਰੋ ਅਤੇ ਬਾਹਰ ਜਾਓ
+       *[other] ਬੰਦ ਕਰੋ ਅਤੇ ਛੱਡੋ
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = ਵਿੰਡੋ ਬੰਦ ਕਰਕੇ { -brand-short-name } ਤੋਂ ਬਾਹਰ ਜਾਣਾ ਹੈ?
+tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } ਵਿੱਚੋਂ ਬਾਹਰ ਜਾਓ
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } ਨਾਲ ਬਾਹਰ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਤਸਦੀਕ ਕਰੋ
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -48,6 +111,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = ਜਦੋਂ ਕਈ ਟੈਬ�
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = ਕਰੈੱਟ ਬਰਾਊਜ਼ਿੰਗ
+tabbrowser-confirm-caretbrowsing-message = F7 ਦਬਾਉਣ ਨਾਲ ਕਰੈੱਟ ਬਰਾਊਜ਼ਿੰਗ ਚਾਲੂ ਜਾਂ ਬੰਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਫੀਚਰ ਵੈੱਬ-ਸਫ਼ਿਆਂ ਵਿੱਚ ਹਿਲਣਯੋਗ ਕਰਸਰ ਰੱਖਦੀ ਹੈ, ਜਿਸ ਨਾਲ ਕੀ-ਬੋਰਡ ਰਾਹੀਂ ਤੁਸੀਂ ਲਿਖਤ ਚੁਣ ਸਕਦੇ ਹੋ। ਕੀ ਤੁਸੀਂ ਕਰੈੱਟ ਬਰਾਊਜ਼ਿੰਗ ਚਾਲੂ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ?
+tabbrowser-confirm-caretbrowsing-checkbox = ਇਹ ਡਾਈਲਾਗ ਬਾਕਸ ਮੈਨੂੰ ਮੁੜ ਨਾ ਵੇਖਾਓ।
 
 ##
 
@@ -65,3 +131,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = ਟੈਬ ਨੂੰ ਅਣ-ਮੌਨ ਕਰੋ
     .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = ਟੈਬਾਂ ਦੀ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = ਟੈਬਾਂ ਦੀ ਆਵਾਜ਼ ਚਲਾਓ
+    .accesskey = m
