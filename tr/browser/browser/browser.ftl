@@ -930,3 +930,8 @@ private-browsing-indicator-label = Gizli gezinti
 unified-extensions-button =
     .label = Uzantılar
     .tooltiptext = Uzantılar
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } bu sayfanın kendiliğinden yenilenmesini önledi.
+refresh-blocked-redirect-label = { -brand-short-name } bu sayfanın başka sayfaya yönlenmesini önledi.
