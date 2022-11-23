@@ -799,3 +799,7 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } এ এই পৃষ্টাক স্বচালিতভাৱে পুনৰ ল'ড হোৱাৰ পৰা প্ৰতিৰোধ কৰিছে।
