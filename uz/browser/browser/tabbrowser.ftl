@@ -68,6 +68,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Varaqlarni yopish
+tabbrowser-confirm-close-tabs-checkbox = Bir nechta varaqlarni yopishdan oldin tasdiqlash
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
