@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = 新分頁
 tabbrowser-menuitem-close-tab =
     .label = 關閉分頁
 tabbrowser-menuitem-close =
@@ -40,6 +41,13 @@ tabbrowser-confirm-close-tabs-button = 關閉分頁
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = 允許來自 { $domain } 的這一類通知，將您帶到該網站分頁
+tabbrowser-customizemode-tab-title = 自訂 { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = 分頁靜音
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = 取消分頁靜音
+    .accesskey = M
