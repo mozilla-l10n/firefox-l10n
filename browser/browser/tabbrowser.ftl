@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Uusi välilehti
 tabbrowser-menuitem-close-tab =
     .label = Sulje välilehti
 tabbrowser-menuitem-close =
@@ -43,3 +44,6 @@ tabbrowser-allow-dialogs-to-get-focus =
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Vaimenna välilehti
+    .accesskey = V
