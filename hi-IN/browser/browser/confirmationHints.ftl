@@ -5,4 +5,7 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = सूचना भेजी गई। धन्यवाद!
+confirmation-hint-pin-tab = पिन की गई!
+confirmation-hint-pin-tab-description = इसे अनपिन करने के लिए टैब पर दाहिना स्पर्श करें।
 confirmation-hint-send-to-device = भेज दिया!
