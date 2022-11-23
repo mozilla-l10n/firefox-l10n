@@ -5,6 +5,9 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Prijavljeno. Hvala!
+confirmation-hint-login-removed = Prijava je uklonjena!
 confirmation-hint-password-saved = Lozinka je spremljena!
 confirmation-hint-pin-tab = Zakačeno!
+confirmation-hint-pin-tab-description = Desni klik na karticu za otkačivanje.
 confirmation-hint-send-to-device = Poslano!
