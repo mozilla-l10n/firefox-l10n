@@ -14,6 +14,20 @@ tabbrowser-tab-tooltip =
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] i-Mute ang tab ({ $shortcut })
+           *[other] I-mute ang mga { $tabCount } tab ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] i-Mute ang tab
+           *[other] I-mute ang { $tabCount } na mga tab
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -31,6 +45,7 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Caret Browsing
 
 ##
 
