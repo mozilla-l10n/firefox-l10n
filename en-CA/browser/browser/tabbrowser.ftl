@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = New Tab
+tabbrowser-menuitem-close-tab =
+    .label = Close Tab
+tabbrowser-menuitem-close =
+    .label = Close
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
