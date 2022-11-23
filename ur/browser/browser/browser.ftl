@@ -682,3 +682,6 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } نے اس صفحہ کو خودکار لوڈ ہونے سے روکا۔
 refresh-blocked-redirect-label = { -brand-short-name } نے اس پیج کو خودکار طور پر دوسرے پیج پر جانے سے روکا۔
+refresh-blocked-allow =
+    .label = اجازت دیں
+    .accesskey = A

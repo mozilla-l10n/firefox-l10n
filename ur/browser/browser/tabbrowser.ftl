@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = نیا ٹیب
+tabbrowser-menuitem-close-tab =
+    .label = ٹیب بند کریں
 tabbrowser-menuitem-close =
     .label = بند کریں
 # Displayed as a tooltip on container tabs
