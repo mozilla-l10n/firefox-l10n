@@ -904,3 +904,11 @@ private-browsing-indicator-label = පෞද්. පිරික්සුම
 unified-extensions-button =
     .label = දිගු
     .tooltiptext = දිගු
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } මෙම පිටුව ස්වයංක්‍රීයව යළි පූරණය වීම වළක්වා ඇත.
+refresh-blocked-redirect-label = { -brand-short-name } මෙම පිටුව වෙනත් පිටුවකට ස්වයංක්‍රීයව හරවා යැවීමෙන් වළක්වා ඇත.
+refresh-blocked-allow =
+    .label = ඉඩ දෙන්න
+    .accesskey = A
