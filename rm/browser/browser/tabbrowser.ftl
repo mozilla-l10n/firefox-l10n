@@ -6,6 +6,8 @@ tabbrowser-empty-tab-title = Nov tab
 tabbrowser-empty-private-tab-title = Nov tab privat
 tabbrowser-menuitem-close-tab =
     .label = Serrar il tab
+tabbrowser-menuitem-close =
+    .label = Serrar
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
