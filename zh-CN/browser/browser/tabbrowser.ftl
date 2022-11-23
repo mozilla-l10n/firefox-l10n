@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = 新标签页
+tabbrowser-empty-private-tab-title = 新建隐私标签页
 tabbrowser-menuitem-close-tab =
     .label = 关闭标签页
 tabbrowser-menuitem-close =
@@ -43,14 +44,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = 要关闭 { $tabCount } 个标签页吗？
 tabbrowser-confirm-close-tabs-button = 关闭标签页
+tabbrowser-confirm-close-tabs-checkbox = 关闭多个标签页时向您确认
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = 要关闭 { $windowCount } 个窗口吗？
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] 关闭并退出
+       *[other] 关闭并退出
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = 要关闭窗口并退出 { -brand-short-name } 吗？
+tabbrowser-confirm-close-tabs-with-key-button = 退出 { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = 按 { $quitKey } 退出时向您确认
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
