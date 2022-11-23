@@ -6,6 +6,7 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = রিপোর্ট সম্পন্ন। ধন্যবাদ!
+confirmation-hint-password-saved = পাসওয়ার্ড সংরক্ষিত!
 confirmation-hint-pin-tab = পিন করা আছে!
 confirmation-hint-pin-tab-description = ট্যাবটি আনপিন করতে ডানে-ক্লিক করুন।
 confirmation-hint-send-to-device = পাঠানো হয়েছে!
