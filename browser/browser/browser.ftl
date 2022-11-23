@@ -930,3 +930,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } ამ გვერდის თვითგანახლებას კრძალავს.
 refresh-blocked-redirect-label = { -brand-short-name } ამ გვერდის სხვა გვერდზე თვითგადამისამართებას კრძალავს.
+refresh-blocked-allow =
+    .label = ნებართვა
+    .accesskey = ნ

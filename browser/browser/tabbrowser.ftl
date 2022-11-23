@@ -3,17 +3,45 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = ახალი ჩანართი
+tabbrowser-menuitem-close-tab =
+    .label = ჩანართის დახურვა
 tabbrowser-menuitem-close =
     .label = დახურვა
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ჩანართის დახურვა
+           *[other] { $tabCount } ჩანართის დახურვა
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ჩანართის დადუმება
+           *[other] { $tabCount } ჩანართის დადუმება
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ჩანართის ხმის ჩართვა
+           *[other] { $tabCount } ჩანართის ხმის ჩართვა
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ჩანართში ხმის გაშვება
+           *[other] { $tabCount } ჩანართში ხმის გაშვება
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -29,6 +57,15 @@ tabbrowser-confirm-close-tabs-button = ჩანართების დახ�
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = გახსნის დასტური
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] თქვენ აპირებთ { $tabCount } ჩანართის გახსნას. გვერდების ჩატვირთვამ შესაძლოა შეანელოს { -brand-short-name }. ნამდვილად გსურთ, განაგრძოთ?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = ჩანართების გახსნა
+tabbrowser-confirm-open-multiple-tabs-checkbox = გაფრთხილება, როცა ბევრი ჩანართის გახსნამ, შესაძლოა შეანელოს { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -46,3 +83,6 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } მორგება
 tabbrowser-context-mute-tab =
     .label = ჩანართის დადუმება
     .accesskey = დ
+tabbrowser-context-unmute-tab =
+    .label = ჩანართის ხმის ჩართვა
+    .accesskey = ხ
