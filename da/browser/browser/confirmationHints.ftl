@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Rapporten er sendt. Tak!
 confirmation-hint-login-removed = Login fjernet!
+confirmation-hint-page-bookmarked = Føjet til bogmærker
 confirmation-hint-password-saved = Adgangskode gemt!
 confirmation-hint-pin-tab = Fastgjort!
 confirmation-hint-pin-tab-description = Højreklik på fanebladet for at frigøre det.
