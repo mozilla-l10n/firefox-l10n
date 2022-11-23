@@ -17,11 +17,53 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Fechar separador
+           *[other] Fechar { $tabCount } separadores
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Silenciar som do separador ({ $shortcut })
+           *[other] Silenciar som dos { $tabCount } separadores ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Repor som do separador ({ $shortcut })
+           *[other] Repor som dos { $tabCount } separadores ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Silenciar som do separador
+           *[other] Silenciar som dos { $tabCount } separadores
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Repor som do separador
+           *[other] Repor som dos { $tabCount } separadores
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Reproduzir separador
+           *[other] Reproduzir { $tabCount } separadores
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -57,12 +99,15 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de sair com { 
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Confirmar abertura
 # Variables:
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
        *[other] Vai abrir { $tabCount } separadores. Isto pode tornar o { -brand-short-name } lento enquanto as páginas carregam. Tem a certeza que pretende continuar?
     }
+tabbrowser-confirm-open-multiple-tabs-button = Abrir separadores
+tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar-me quando abrir múltiplos separadores poderá tornar o { -brand-short-name } lento
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -82,4 +127,12 @@ tabbrowser-customizemode-tab-title = Personalizar o { -brand-short-name }
 
 tabbrowser-context-mute-tab =
     .label = Silenciar som do separador
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Silenciar som dos separadores
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Repor som dos separadores
     .accesskey = m
