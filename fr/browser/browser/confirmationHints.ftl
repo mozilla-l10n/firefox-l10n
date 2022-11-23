@@ -8,5 +8,7 @@
 confirmation-hint-breakage-report-sent = Rapport transmis. Merci !
 confirmation-hint-login-removed = Identifiant supprimé !
 confirmation-hint-page-bookmarked = Enregistré dans les marque-pages
+confirmation-hint-password-saved = Mot de passe enregistré !
+confirmation-hint-pin-tab = Épinglé !
 confirmation-hint-pin-tab-description = Effectuez un clic droit sur l’onglet pour le désépingler.
 confirmation-hint-send-to-device = Envoyé
