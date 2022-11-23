@@ -36,6 +36,8 @@ tabbrowser-confirm-close-tabs-button = ಹಾಳೆಗಳನ್ನು ಮುಚ�
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = ತೆರೆಯಲ್ಪಟ್ಟಿದ್ದನ್ನು ಖಚಿತಪಡಿಸು
+tabbrowser-confirm-open-multiple-tabs-button = ತೆರೆದ ಹಾಳೆಗಳು
 
 ## Confirmation dialog for enabling caret browsing
 
