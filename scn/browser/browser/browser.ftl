@@ -459,3 +459,10 @@ tabs-toolbar-list-all-tabs =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-redirect-label = { -brand-short-name } mpidì a sta pàggina di purtàriti autumaticamenti a n'autra pàggina.
+refresh-blocked-allow =
+    .label = Pirmetti
+    .accesskey = P
