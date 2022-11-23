@@ -36,6 +36,15 @@ tabbrowser-confirm-close-tabs-button = Cau tabiau
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Cadarnhau ar agor
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Rydych ar fin agor { $tabCount } tab. Gall hyn arafu { -brand-short-name } tra fo'r tudalennau'n llwytho. Ydych chi'n siŵr eich bod am barhau?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Agor tabiau
+tabbrowser-confirm-open-multiple-tabs-checkbox = Rhybuddio y gall agor tabiau niferus arafu { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -50,6 +59,9 @@ tabbrowser-customizemode-tab-title = Cyfaddasu { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Tewi Tab
+    .accesskey = T
 tabbrowser-context-unmute-tab =
     .label = Tab Dad-dewi
     .accesskey = D
