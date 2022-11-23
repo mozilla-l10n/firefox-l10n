@@ -5,6 +5,7 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Jelentés beküldve. Köszönjük!
 confirmation-hint-password-saved = Jelszó elmentve.
 confirmation-hint-pin-tab = Rögzítve!
 confirmation-hint-pin-tab-description = A feloldáshoz kattintson a fülre jobb egérgombbal.
