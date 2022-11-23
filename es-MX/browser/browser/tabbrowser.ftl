@@ -97,6 +97,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Advertirme cuando abrir múltip
 
 tabbrowser-confirm-caretbrowsing-title = Navegación con cursor
 tabbrowser-confirm-caretbrowsing-message = Presionando F7 se habilita o deshabilita la navegación con cursor. Esta característica coloca un cursor móvil en las páginas web, permitiendo seleccionar texto con el teclado. ¿Deseas habilitar la navegación con cursor?
+tabbrowser-confirm-caretbrowsing-checkbox = No mostrar esta ventana de diálogo otra vez.
 
 ##
 
