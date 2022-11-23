@@ -494,3 +494,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } prevented this page from automatically reloading.
+refresh-blocked-redirect-label = { -brand-short-name } prevented this page from automatically redirecting to another page.
+refresh-blocked-allow =
+    .label = Allow
+    .accesskey = A

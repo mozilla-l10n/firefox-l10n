@@ -6,6 +6,11 @@ tabbrowser-menuitem-close-tab =
     .label = Aiztaiseit cilni
 tabbrowser-menuitem-close =
     .label = Aiztaiseit
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -36,6 +41,13 @@ tabbrowser-confirm-close-tabs-button = Aiztaiseit cilnes
 
 ##
 
+tabbrowser-customizemode-tab-title = Customize { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Mute Tab
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Unmute Tab
+    .accesskey = m
