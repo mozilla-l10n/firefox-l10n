@@ -25,6 +25,12 @@ return-to-amo-addon-title = Laten we nu <img data-l10n-name="icon"/> <b>{ $addon
 return-to-amo-add-extension-label = De extensie toevoegen
 return-to-amo-add-theme-label = Het thema toevoegen
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Hartelijk welkom bij { -brand-short-name }
+mr1-return-to-amo-addon-title = U hebt een snelle privébrowser binnen handbereik. U kunt nu <b>{ $addon-name }</b> toevoegen en nog meer doen met { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = { $addon-name } toevoegen
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -326,44 +332,30 @@ mr2022-onboarding-colorway-subtitle = Onafhankelijke stemmen kunnen cultuur vera
 mr2022-onboarding-colorway-primary-button-label-continue = Instellen en doorgaan
 mr2022-onboarding-existing-colorway-checkbox-label = Maak van { -firefox-home-brand-name } uw kleurrijke startpagina
 mr2022-onboarding-colorway-label-default = Standaard
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Standaard
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Huidige { -brand-short-name }-kleuren
 mr2022-onboarding-colorway-description-default = <b>Mijn huidige { -brand-short-name }-kleuren gebruiken.</b>
 mr2022-onboarding-colorway-label-playmaker = Spelmaker
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Spelmaker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Spelmaker (rood)
 mr2022-onboarding-colorway-description-playmaker = <b>U bent een spelmaker.</b> U creëert kansen om te winnen en helpt iedereen om u heen hun spel te verbeteren.
 mr2022-onboarding-colorway-label-expressionist = Expressionist
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Expressionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionist (geel)
 mr2022-onboarding-colorway-description-expressionist = <b>U bent een expressionist.</b> U ziet de wereld anders en uw creaties roeren de emoties van anderen.
 mr2022-onboarding-colorway-label-visionary = Visionair
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visionair
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionair (groen)
 mr2022-onboarding-colorway-description-visionary = <b>U bent een visionair.</b> U trekt de status-quo in twijfel en stimuleert anderen om zich een betere toekomst voor te stellen.
 mr2022-onboarding-colorway-label-activist = Activist
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Activist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activist (blauw)
 mr2022-onboarding-colorway-description-activist = <b>U bent een activist.</b> U laat de wereld mooier achter dan u hem aantrof en laat anderen geloven.
 mr2022-onboarding-colorway-label-dreamer = Dromer
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Dromer
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Dromer (paars)
 mr2022-onboarding-colorway-description-dreamer = <b>U bent een dromer.</b> U gelooft dat geluk met de stoutmoedigen is en inspireert anderen om dapper te zijn.
 mr2022-onboarding-colorway-label-innovator = Innovator
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Innovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovator (oranje)
 mr2022-onboarding-colorway-description-innovator = <b>U bent een innovator.</b> U ziet overal kansen en hebt invloed op het leven van iedereen om u heen.
