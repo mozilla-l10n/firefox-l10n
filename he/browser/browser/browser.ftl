@@ -926,3 +926,11 @@ private-browsing-indicator-label = גלישה פרטית
 unified-extensions-button =
     .label = הרחבות
     .tooltiptext = הרחבות
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } חסם טעינה חוזרת אוטומטית בדף הנוכחי.
+refresh-blocked-redirect-label = { -brand-short-name } חסם את הדף הנוכחי מהעברה אוטומטית לדף אחר.
+refresh-blocked-allow =
+    .label = אפשר
+    .accesskey = א
