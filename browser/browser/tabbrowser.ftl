@@ -30,6 +30,9 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Confirm open
+tabbrowser-confirm-open-multiple-tabs-button = Open tabs
+tabbrowser-confirm-open-multiple-tabs-checkbox = Warn me when opening multiple tabs might slow down { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
