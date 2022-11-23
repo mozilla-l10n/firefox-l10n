@@ -934,3 +934,11 @@ private-browsing-indicator-label = Приватно прегледање
 unified-extensions-button =
     .label = Проширења
     .tooltiptext = Проширења
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } је спречио ову страницу да се аутоматски освежи.
+refresh-blocked-redirect-label = { -brand-short-name } је спречио ову страницу да аутоматски проследи на другу страницу.
+refresh-blocked-allow =
+    .label = Дозволи
+    .accesskey = Д
