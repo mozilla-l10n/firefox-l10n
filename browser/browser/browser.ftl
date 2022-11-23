@@ -931,3 +931,8 @@ private-browsing-indicator-label = Privát böngészés
 unified-extensions-button =
     .label = Kiegészítők
     .tooltiptext = Kiegészítők
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = A { -brand-short-name } megakadályozta, hogy az oldal automatikusan újratöltődjön.
+refresh-blocked-redirect-label = A { -brand-short-name } megakadályozta, hogy az oldal automatikusan átirányítson egy másik oldalra.
