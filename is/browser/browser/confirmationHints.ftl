@@ -5,4 +5,5 @@
 
 ## Confirmation hints
 
+confirmation-hint-pin-tab-description = Hægri smelltu á flipann til að fjarlæga hann.
 confirmation-hint-send-to-device = Sent!
