@@ -34,6 +34,15 @@ tabbrowser-confirm-close-tabs-button = Serrar ils tabs
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Confermar l'avrir
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] { $tabCount } tabs duain vegnir averts a medem temp. Quai po retardar { -brand-short-name }, durant che las paginas vegnan chargiadas. Vuls ti propi cuntinuar?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Avrir ils tabs
+tabbrowser-confirm-open-multiple-tabs-checkbox = M'avertir sche l'avertura simultana da plirs tabs retardescha eventualmain { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
