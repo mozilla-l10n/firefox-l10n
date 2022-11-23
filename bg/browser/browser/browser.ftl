@@ -900,3 +900,11 @@ private-browsing-indicator-label = Поверително разглеждане
 unified-extensions-button =
     .label = Разширения
     .tooltiptext = Разширения
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } попречи на автоматичното презареждане на страницата.
+refresh-blocked-redirect-label = { -brand-short-name } попречи на автоматичното пренасочване на страницата.
+refresh-blocked-allow =
+    .label = Разрешаване
+    .accesskey = ш
