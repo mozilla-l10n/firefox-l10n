@@ -782,3 +782,6 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = Pinigilan ng { -brand-short-name } ang agarang pagbukas ng pahinang ito.
 refresh-blocked-redirect-label = Pingilan ng { -brand-short-name } ang kusang pagdirekta ng pahinang ito tungo sa ibang pahina.
+refresh-blocked-allow =
+    .label = Payagan
+    .accesskey = A

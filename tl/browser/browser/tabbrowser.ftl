@@ -51,6 +51,12 @@ tabbrowser-mute-tab-audio-background-tooltip =
             [one] i-Mute ang tab
            *[other] I-mute ang { $tabCount } na mga tab
         }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] I-unmute ang tab
+           *[other] I-unmute ang { $tabCount } na mga tab
+        }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
         { $tabCount ->
@@ -61,6 +67,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = Isara ang mga Tab
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -72,12 +79,20 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Kumpirmahin ang pagbukas
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Magbubukas ka ng { $tabCount } tab. Maaaring bumagal ang { -brand-short-name } habang naglo-load ang mga pahina. Gusto mo bang magpatuloy?
+    }
 tabbrowser-confirm-open-multiple-tabs-button = Buksan ang mga tab
 tabbrowser-confirm-open-multiple-tabs-checkbox = Sabihan mo ko tuwing magbubukas nang maraming tab na puwedeng pabagalin ang { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = Caret Browsing
+tabbrowser-confirm-caretbrowsing-message = Ang pagpindot sa F7 ay nagbubukas o nagsasara ng Caret Browsing. Naglalagay ang feature na ito ng isang nagagalaw na cursor sa mga web page, para pwede kang makapili ng text gamit ang keyboard. Gusto mo bang buksan ang Caret Browsing?
+tabbrowser-confirm-caretbrowsing-checkbox = Huwag kailanman ipakita ang dialog box na ito.
 
 ##
 
@@ -85,6 +100,7 @@ tabbrowser-confirm-caretbrowsing-title = Caret Browsing
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Payagan ang mga katulad nitong notification mula sa { $domain } na dalhin ka sa kanilang tab
+tabbrowser-customizemode-tab-title = I-customize ang { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
