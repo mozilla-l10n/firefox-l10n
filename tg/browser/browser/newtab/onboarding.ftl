@@ -25,6 +25,12 @@ return-to-amo-addon-title = Акнун биёед <img data-l10n-name="icon"/> <
 return-to-amo-add-extension-label = Илова кардани васеъшавӣ
 return-to-amo-add-theme-label = Илова кардани мавзуъ
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Ба «{ -brand-short-name }» салом гӯед
+mr1-return-to-amo-addon-title = Шумо браузери тезро бо тамошокунии хусусӣ ба даст овардед. Акнун шумо метавонед «<b>{ $addon-name }</b>»-ро илова кунед ва бо браузери «{ -brand-short-name }» боз ҳам бештар кор кунед.
+mr1-return-to-amo-add-extension-label = Илова кардани «{ $addon-name }»
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.

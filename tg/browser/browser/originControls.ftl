@@ -30,3 +30,5 @@ origin-controls-state-no-access = Дар ин сомона маълумотро 
 origin-controls-state-always-on = Дар ин сомона маълумотро ҳамеша хонда ва тағйир дода метавонад
 origin-controls-state-when-clicked = Барои хондан ва тағйир додани маълумот иҷозат лозим аст
 origin-controls-state-hover-run-visit-only = Танҳо барои ин боздид иҷро карда шавад
+origin-controls-state-runnable-hover-open = Кушодани васеъшавӣ
+origin-controls-state-runnable-hover-run = Иҷро кардани васеъшавӣ
