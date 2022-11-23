@@ -931,3 +931,10 @@ private-browsing-indicator-label = Priveenavigaasje
 unified-extensions-button =
     .label = Utwreidingen
     .tooltiptext = Utwreidingen
+
+## Autorefresh blocker
+
+refresh-blocked-redirect-label = { -brand-short-name } hat opkeard dat dizze side automatysk trochstjoerd waard nei in oare side.
+refresh-blocked-allow =
+    .label = Tastean
+    .accesskey = T
