@@ -40,6 +40,13 @@ tabbrowser-tab-tooltip =
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Allow notifications like this from { $domain } to take you to their tab
+tabbrowser-customizemode-tab-title = Customise { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Mute Tab
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = Unmute Tab
+    .accesskey = m
