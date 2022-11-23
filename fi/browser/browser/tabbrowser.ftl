@@ -31,6 +31,15 @@ tabbrowser-confirm-close-tabs-button = Sulje välilehdet
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Vahvista avaaminen
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Yrität avata { $tabCount } välilehteä samanaikaisesti. { -brand-short-name }in toiminta voi hidastua välilehtien latautumisen ajaksi. Avataanko välilehdet?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Avaa välilehdet
+tabbrowser-confirm-open-multiple-tabs-checkbox = Varoita, kun usean välilehden avaaminen voi hidastaa { -brand-short-name }in toimintaa
 
 ## Confirmation dialog for enabling caret browsing
 
