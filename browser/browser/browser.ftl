@@ -928,3 +928,8 @@ private-browsing-indicator-label = Жекелік шолу
 unified-extensions-button =
     .label = Кеңейтулер
     .tooltiptext = Кеңейтулер
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } осы парақтың өзіндік жаңартуын тоқтатты.
+refresh-blocked-redirect-label = { -brand-short-name } басқа параққа автоматты бағдарлауын тоқтатты.
