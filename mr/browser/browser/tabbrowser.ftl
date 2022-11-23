@@ -16,6 +16,14 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] टॅब बंद करा
+           *[other] { $tabCount }टॅब बंद करा
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -36,6 +44,15 @@ tabbrowser-confirm-close-tabs-button = एकापेक्षा जास्�
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = उघडणे निश्चित करा
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] आपण { $tabCount } टॅब उघडण्याचा प्रयत्न करीत आहात.  पृष्ठा दाखल होतेवेळी त्यामुळे { -brand-short-name } हळु होऊ शकते. आपणास नक्की पुढे जायचे?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = टॅब्स उघडा
+tabbrowser-confirm-open-multiple-tabs-checkbox = एकापेक्षा जास्त टॅब उघडल्यास { -brand-short-name } हळु होईल त्याकरीता सावध करा
 
 ## Confirmation dialog for enabling caret browsing
 
