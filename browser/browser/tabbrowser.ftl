@@ -3,10 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = ახალი ჩანართი
+tabbrowser-empty-private-tab-title = ახალი პირადი ჩანართი
 tabbrowser-menuitem-close-tab =
     .label = ჩანართის დახურვა
 tabbrowser-menuitem-close =
     .label = დახურვა
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } — { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -24,6 +30,22 @@ tabbrowser-close-tabs-tooltip =
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ჩანართის დადუმება ({ $shortcut })
+           *[other] { $tabCount } ჩანართის დადუმება ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ჩანართის ხმის ჩართვა ({ $shortcut })
+           *[other] { $tabCount } ჩანართის ხმის ჩართვა ({ $shortcut })
+        }
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
@@ -46,14 +68,34 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = დაიხუროს { $tabCount } ჩანართი?
 tabbrowser-confirm-close-tabs-button = ჩანართების დახურვა
+tabbrowser-confirm-close-tabs-checkbox = გაფრთხილება, რამდენიმე ჩანართის დახურვისას
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title = დაიხუროს { $windowCount } ფანჯარა?
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] დახურვა და გასვლა
+       *[other] დახურვა და გამოსვლა
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = დაიხუროს ფანჯარა და გამოირთოს { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = გამოირთოს { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = გაფრთხილება, სანამ დაიხურება { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -69,6 +111,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = გაფრთხილებ�
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = მაჩვენებლით გადაადგილება
+tabbrowser-confirm-caretbrowsing-message = F7 ღილაკით ჩაირთვება ტექსტში მაჩვენებლის გამოყენების შესაძლებლობა. შედეგად, ვებგვერდზე არსებულ ნებისმიერ ტექსტში გამოჩნდება მოციმციმე მაჩვენებელი, რომ შეიძლებოდეს კლავიატურით მონიშვნა. გსურთ, ტექსტებში მაჩვენებლის გამოყენება?
+tabbrowser-confirm-caretbrowsing-checkbox = აღარ გამოჩნდეს მომავალში.
 
 ##
 
@@ -86,3 +131,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = ჩანართის ხმის ჩართვა
     .accesskey = ხ
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = ჩანართების დადუმება
+    .accesskey = დ
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = ჩანართებზე ხმის ჩართვა
+    .accesskey = მ
