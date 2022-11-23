@@ -72,3 +72,7 @@ tabbrowser-customizemode-tab-title = 定制 { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = 静音标签页
+    .accesskey = M
