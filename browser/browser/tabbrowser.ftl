@@ -16,11 +16,53 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Itxi fitxa
+           *[other] Itxi { $tabCount } fitxa
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Mututu fitxa ({ $shortcut })
+           *[other] Mututu { $tabCount } fitxa ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Ez mututu fitxa ({ $shortcut })
+           *[other] Ez mututu { $tabCount } fitxa ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Mututu fitxa
+           *[other] Mututu { $tabCount } fitxa
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Ez mututu fitxa
+           *[other] Ez mututu { $tabCount } fitxa
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Erreproduzitu fitxa
+           *[other] Erreproduzitu { $tabCount } fitxa
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -36,6 +78,15 @@ tabbrowser-confirm-close-tabs-button = Itxi fitxak
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Berretsi irekitzea
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] { $tabCount } fitxa irekitzera zoaz. Honek { -brand-short-name } motel dezake orriak kargatzen diren bitartean. Ziur zaude jarraitu egin nahi duzula?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Ireki fitxak
+tabbrowser-confirm-open-multiple-tabs-checkbox = Abisatu hainbat fitxa aldi berean irekitzeak { -brand-short-name } motel balezake
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -56,3 +107,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Ez mututu fitxa
     .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Mututu fitxak
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Ez mututu fitxak
+    .accesskey = z
