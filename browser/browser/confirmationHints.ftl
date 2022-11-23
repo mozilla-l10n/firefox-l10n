@@ -9,5 +9,6 @@ confirmation-hint-breakage-report-sent = Сообщение отправлено
 confirmation-hint-login-removed = Логин удалён!
 confirmation-hint-page-bookmarked = Сохранено в закладках
 confirmation-hint-password-saved = Пароль сохранён!
+confirmation-hint-pin-tab = Закреплено!
 confirmation-hint-pin-tab-description = Щёлкните правой кнопкой мыши по вкладке, чтобы открепить её.
 confirmation-hint-send-to-device = Отправлено!
