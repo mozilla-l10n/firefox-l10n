@@ -6,6 +6,8 @@ tabbrowser-empty-tab-title = Nueva pestaña
 tabbrowser-empty-private-tab-title = Nueva pestaña privada
 tabbrowser-menuitem-close-tab =
     .label = Cerrar pestaña
+tabbrowser-menuitem-close =
+    .label = Cerrar
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
