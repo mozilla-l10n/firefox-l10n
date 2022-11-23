@@ -43,6 +43,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = Tutup Tab
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -65,6 +66,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Ingatkan jika membuka banyak ta
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-message = Tekan F7 untuk mengaktifkan/menonaktifkan Penjelajahan Caret. Fitur ini menempatkan kursor dalam laman web sehingga Anda bisa memilih teks dengan papan ketik. Ingin mengaktifkan Penjelajahan Caret?
 
 ##
 
