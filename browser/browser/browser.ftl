@@ -124,9 +124,7 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = Scrivi di meno e trova più risultati: cerca con { $engineName } direttamente dalla barra degli indirizzi.
 urlbar-search-tips-redirect-2 = Inizia le tue ricerche dalla barra degli indirizzi per visualizzare suggerimenti da { $engineName } e dalla cronologia di navigazione.
-
 urlbar-search-tips-persist = Cercare è diventato ancora più semplice. Prova a rendere la tua ricerca più specifica qui nella barra degli indirizzi. Se invece preferisci visualizzare l’indirizzo, visita il pannello Ricerca nelle impostazioni.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seleziona questa scorciatoia per trovare ciò che ti serve più rapidamente.
@@ -882,3 +880,7 @@ private-browsing-indicator-label = Navigazione anonima
 unified-extensions-button =
     .label = Estensioni
     .tooltiptext = Estensioni
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ha impedito a questa pagina di ricaricarsi automaticamente.
