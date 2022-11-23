@@ -25,6 +25,12 @@ return-to-amo-addon-title = Bây giờ, bạn có thể cài đặt <img data-l1
 return-to-amo-add-extension-label = Thêm tiện ích mở rộng
 return-to-amo-add-theme-label = Thêm chủ đề
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Gặp gỡ với { -brand-short-name }
+mr1-return-to-amo-addon-title = Bạn đã có một trình duyệt nhanh, riêng tư trong tầm tay. Giờ đây, bạn có thể thêm <b>{ $addon-name }</b> và thậm chí còn làm được nhiều hơn thế với { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Thêm { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -325,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = Tiếng nói độc lập có thể thay �
 mr2022-onboarding-colorway-primary-button-label-continue = Đặt và tiếp tục
 mr2022-onboarding-existing-colorway-checkbox-label = Đặt { -firefox-home-brand-name } làm trang chủ đầy màu sắc của bạn
 mr2022-onboarding-colorway-label-default = Mặc định
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Mặc định
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Màu hiện tại của { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Sử dụng màu { -brand-short-name } hiện tại của tôi.</b>
 mr2022-onboarding-colorway-label-playmaker = Người kiến tạo lối chơi
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Người kiến tạo lối chơi
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Người kiến tạo lối chơi (đỏ)
 mr2022-onboarding-colorway-description-playmaker = <b>Bạn là người kiến tạo lối chơi.</b> Bạn tạo cơ hội để giành chiến thắng và giúp mọi người xung quanh nâng tầm trò chơi của họ.
 mr2022-onboarding-colorway-label-expressionist = Trường phái biểu hiện
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Trường phái biểu hiện
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Trường phái biểu hiện (vàng)
 mr2022-onboarding-colorway-description-expressionist = <b>Bạn là người theo chủ nghĩa biểu hiện.</b> Bạn nhìn thế giới một cách khác biệt và những sáng tạo của bạn khuấy động cảm xúc của người khác.
 mr2022-onboarding-colorway-label-visionary = Nhìn xa trông rộng
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Nhìn xa trông rộng
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Nhìn xa trông rộng (xanh lá)
 mr2022-onboarding-colorway-description-visionary = <b>Bạn là một người có tầm nhìn xa.</b> Bạn đặt câu hỏi về hiện trạng và khiến người khác phải tưởng tượng về một tương lai tốt đẹp hơn.
 mr2022-onboarding-colorway-label-activist = Nhà hoạt động
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Nhà hoạt động
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Nhà hoạt động (xanh nước biển)
 mr2022-onboarding-colorway-description-activist = <b>Bạn là một nhà hoạt động.</b> Bạn để lại cho thế giới một nơi tốt đẹp hơn những gì bạn đã tìm thấy và khiến người khác tin tưởng.
 mr2022-onboarding-colorway-label-dreamer = Người mơ mộng
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Người mơ mộng
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Người mơ mộng (tím)
 mr2022-onboarding-colorway-description-dreamer = <b>Bạn là một người mơ mộng.</b> Bạn tin rằng vận may ủng hộ những người mạnh dạn và truyền cảm hứng cho những người khác dũng cảm.
 mr2022-onboarding-colorway-label-innovator = Người đổi mới
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Người đổi mới
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Người đổi mới (cam)
 mr2022-onboarding-colorway-description-innovator = <b>Bạn là một người đổi mới.</b> Bạn nhìn thấy cơ hội ở khắp mọi nơi và tạo ra ảnh hưởng đến cuộc sống của mọi người xung quanh bạn.

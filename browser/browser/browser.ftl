@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Đã hiểu
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Mẹo:
+urlbar-result-menu-button =
+    .title = Mở menu
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
