@@ -548,3 +548,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ogengo pot buk man me cane odoco pire kene.
+refresh-blocked-redirect-label = { -brand-short-name } ogengo pot buk man me wire pire kene i pot buk mukene.
+refresh-blocked-allow =
+    .label = Ye
+    .accesskey = A
