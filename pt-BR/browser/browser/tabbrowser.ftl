@@ -36,6 +36,9 @@ tabbrowser-confirm-close-tabs-button = Fechar abas
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Confirmar abertura
+tabbrowser-confirm-open-multiple-tabs-button = Abrir abas
+tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar que o carregamento de várias abas pode deixar o { -brand-short-name } lento
 
 ## Confirmation dialog for enabling caret browsing
 
