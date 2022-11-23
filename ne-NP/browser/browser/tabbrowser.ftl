@@ -21,6 +21,14 @@ tabbrowser-tab-tooltip =
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ट्याब म्यूट गर्नुहोस् ({ $shortcut })
+           *[other] { $tabCount }ट्याब म्यूट गर्नुहोस् ({ $shortcut })
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -36,6 +44,8 @@ tabbrowser-confirm-close-tabs-button = ट्याबहरू बन्द ग
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = खोल्नलाई पुष्टि गर्नुहोस्
+tabbrowser-confirm-open-multiple-tabs-button = ट्याबहरु खोल्नुहोस्
 
 ## Confirmation dialog for enabling caret browsing
 
