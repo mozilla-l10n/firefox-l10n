@@ -530,3 +530,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } haɗii ngoo hello hesɗitinde hoore mum.
+refresh-blocked-redirect-label = { -brand-short-name } haɗii ngoo hello ɓennitaade e jaajol to hello woɗngo.
+refresh-blocked-allow =
+    .label = Yamir
+    .accesskey = A
