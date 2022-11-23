@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Ново јазиче
+tabbrowser-menuitem-close-tab =
+    .label = Затвори јазиче
 tabbrowser-menuitem-close =
     .label = Затвори
 # Variables:
