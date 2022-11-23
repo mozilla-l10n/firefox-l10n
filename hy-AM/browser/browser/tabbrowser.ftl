@@ -36,6 +36,8 @@ tabbrowser-confirm-close-tabs-button = Փակել ներդիրները
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-button = Բացել ներդիրները
+tabbrowser-confirm-open-multiple-tabs-checkbox = Զգուշացնել բազմակի ներդիրների բացման պարագայում, որոնք կարող են դանդաղեցնել { -brand-short-name }-ը
 
 ## Confirmation dialog for enabling caret browsing
 
