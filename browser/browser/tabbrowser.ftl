@@ -78,6 +78,7 @@ tabbrowser-confirm-close-tabs-button = סגירת לשוניות
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = אישור פתיחה
 # Variables:
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
