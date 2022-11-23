@@ -30,12 +30,26 @@ tabbrowser-close-tabs-tooltip =
 ##   $tabCount (Number): The number of tabs that will be affected.
 
 # Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Couper le son de l’onglet ({ $shortcut })
+           *[other] Couper le son de { $tabCount } onglets ({ $shortcut })
+        }
+# Variables:
 #   $shortcut (String): The keyboard shortcut for "Unmute tab".
 tabbrowser-unmute-tab-audio-tooltip =
     .label =
         { $tabCount ->
             [one] Réactiver le son de l’onglet ({ $shortcut })
            *[other] Réactiver le son de { $tabCount } onglets ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Couper le son de l’onglet
+           *[other] Couper le son de { $tabCount } onglets
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
@@ -64,6 +78,15 @@ tabbrowser-confirm-close-tabs-button = Fermer les onglets
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Confirmation de l’ouverture
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Vous avez demandé l’ouverture de { $tabCount } onglets. Ceci pourrait ralentir { -brand-short-name } lors du chargement des pages. Voulez-vous vraiment continuer ?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Ouvrir les onglets
+tabbrowser-confirm-open-multiple-tabs-checkbox = Prévenir lors de l’ouverture de multiples onglets d’un ralentissement possible de { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -78,6 +101,9 @@ tabbrowser-customizemode-tab-title = Personnaliser { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Couper le son de l’onglet
+    .accesskey = R
 tabbrowser-context-unmute-tab =
     .label = Réactiver le son de l’onglet
     .accesskey = R
