@@ -932,3 +932,11 @@ private-browsing-indicator-label = Приватний перегляд
 unified-extensions-button =
     .label = Розширення
     .tooltiptext = Розширення
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } втримав цю сторінку від автоматичного перезавантаження.
+refresh-blocked-redirect-label = { -brand-short-name } втримав цю сторінку від автоматичної переадресації на іншу.
+refresh-blocked-allow =
+    .label = Дозволити
+    .accesskey = Д
