@@ -5,4 +5,6 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Reporte enviado. ¡Gracias!
+confirmation-hint-login-removed = ¡Inicio de sesión eliminado!
 confirmation-hint-pin-tab-description = Haz clic derecho en la pestaña para desfijarla.
