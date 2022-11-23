@@ -128,6 +128,9 @@ tabbrowser-customizemode-tab-title = Personalizar o { -brand-short-name }
 tabbrowser-context-mute-tab =
     .label = Silenciar som do separador
     .accesskey = m
+tabbrowser-context-unmute-tab =
+    .label = Repor som do separador
+    .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Silenciar som dos separadores
