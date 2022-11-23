@@ -65,3 +65,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Restaurar sonido en pestaña
     .accesskey = R
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Silenciar pestañas
+    .accesskey = S
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Restaurar sonido en pestañas
+    .accesskey = R
