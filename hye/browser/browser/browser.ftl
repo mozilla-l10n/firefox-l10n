@@ -810,3 +810,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name }-ը կասեցրեց այս էջը ինքնաբերաբար վերբեռնումից։
+refresh-blocked-redirect-label = { -brand-short-name }-ը կասեցրեց այս էջի ինքնաբերաբար վերահասցէաւորումը մեկ ուրիշ էջ։
+refresh-blocked-allow =
+    .label = Թոյլատրել
+    .accesskey = A
