@@ -927,3 +927,11 @@ private-browsing-indicator-label = Yksityinen selaus
 unified-extensions-button =
     .label = Laajennukset
     .tooltiptext = Laajennukset
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } esti sivua päivittymästä.
+refresh-blocked-redirect-label = { -brand-short-name } esti sivua ohjautumasta automaattisesti toiselle sivulle.
+refresh-blocked-allow =
+    .label = Salli
+    .accesskey = S
