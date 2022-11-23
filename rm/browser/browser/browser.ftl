@@ -928,3 +928,11 @@ private-browsing-indicator-label = Modus privat
 unified-extensions-button =
     .label = Extensiuns
     .tooltiptext = Extensiuns
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ha impedì che questa pagina d'internet vegnia chargiada danovamain.
+refresh-blocked-redirect-label = { -brand-short-name } ha impedì che questa pagina d'internet renvieschia automaticamain ad in'autra pagina d'internet.
+refresh-blocked-allow =
+    .label = Permetter
+    .accesskey = e
