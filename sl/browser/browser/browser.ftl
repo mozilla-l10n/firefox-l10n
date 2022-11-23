@@ -937,3 +937,11 @@ private-browsing-indicator-label = Zasebno brskanje
 unified-extensions-button =
     .label = Razširitve
     .tooltiptext = Razširitve
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } je preprečil samodejno ponovno nalaganje te strani.
+refresh-blocked-redirect-label = { -brand-short-name } je preprečil samodejno preusmerjanje te strani na drugo stran.
+refresh-blocked-allow =
+    .label = Dovoli
+    .accesskey = O
