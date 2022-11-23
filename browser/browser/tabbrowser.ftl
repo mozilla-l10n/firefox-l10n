@@ -36,6 +36,15 @@ tabbrowser-confirm-close-tabs-button = ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕ�
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = ਖੋਲ੍ਹਣ ਦੀ ਪੁਸ਼ਟੀ
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] ਤੁਸੀਂ { $tabCount } ਟੈਬਾਂ ਖੋਲ੍ਹਣ ਜਾ ਰਹੇ ਹੋ। ਸਫ਼ਿਆਂ ਨੂੰ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ { -brand-short-name } ਹੌਲੀ ਵੀ ਹੋ ਸਕਦਾ ਹੈ। ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+tabbrowser-confirm-open-multiple-tabs-checkbox = ਜਦੋਂ ਕਈ ਟੈਬਾਂ ਖੋਲ੍ਹਣ ਨਾਲ { -brand-short-name } ਹੌਲੀ ਹੋ ਸਕਦਾ ਹੋਵੇ ਤਾਂ ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ
 
 ## Confirmation dialog for enabling caret browsing
 
