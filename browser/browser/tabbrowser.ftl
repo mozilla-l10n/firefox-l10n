@@ -82,3 +82,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Suarakan Tab
     .accesskey = S
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Senyapkan Tab
+    .accesskey = S
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Bunyikan Tab
+    .accesskey = S
