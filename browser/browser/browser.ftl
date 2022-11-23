@@ -934,4 +934,8 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਨੂੰ ਆਟੋਮੈਟਿਕ ਹੀ ਮੁੜ-ਲੋਡ ਕਰਨ ਤੋਂ ਰੋਕ ਦਿੱਤਾ ਹੈ।
 refresh-blocked-redirect-label = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਨੂੰ ਹੋਰ ਸਫ਼ੇ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਮੁੜ-ਡਿਰੈਕਟ ਕਰਨ ਤੋਂ ਰੋਕ ਦਿੱਤਾ ਹੈ।
+refresh-blocked-allow =
+    .label = ਮਨਜ਼ੂਰ
+    .accesskey = A
