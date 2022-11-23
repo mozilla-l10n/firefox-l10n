@@ -914,3 +914,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } je spriječio automatsko ponovno učitavanje ove stranice.
+refresh-blocked-redirect-label = { -brand-short-name } je spriječio automatsko preusmjeravanje na drugu stranicu.
