@@ -483,3 +483,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name }་ཡིས་དྲ་ཚིགས་འདིས་རང་འགུལ་གྱིས་བསྐྱར་འཇུག་བྱེད་པར་བཀག་འགོག་བྱས་ཟིན།
+refresh-blocked-redirect-label = { -brand-short-name }་ཡིས་དྲ་ཚིགས་འདིས་རང་འགུལ་གྱིས་དྲ་ངོས་བཞན་ལ་ཁ་བསྒྱུར་བར་བཀག་འགོག་བྱས་ཟིན།
+refresh-blocked-allow =
+    .label = Allow
+    .accesskey = A
