@@ -933,3 +933,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } осы парақтың өзіндік жаңартуын тоқтатты.
 refresh-blocked-redirect-label = { -brand-short-name } басқа параққа автоматты бағдарлауын тоқтатты.
+refresh-blocked-allow =
+    .label = Рұқсат ету
+    .accesskey = а
