@@ -804,3 +804,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } evitou que esta páxina se recargue automaticamente.
+refresh-blocked-redirect-label = { -brand-short-name } evitou o redireccionamento automático desta a outra páxina.
+refresh-blocked-allow =
+    .label = Permitir
+    .accesskey = P
