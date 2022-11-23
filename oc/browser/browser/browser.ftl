@@ -931,3 +931,8 @@ private-browsing-indicator-label = Navegacion privada
 unified-extensions-button =
     .label = Extensions
     .tooltiptext = Extensions
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } a empachat lo recargament automatic d'aquesta pagina.
+refresh-blocked-redirect-label = { -brand-short-name } a empachat la redireccion automatica cap a una autra pagina.
