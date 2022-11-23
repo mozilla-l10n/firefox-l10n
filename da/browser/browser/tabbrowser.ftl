@@ -73,6 +73,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Luk { $tabCount } faneblade?
 tabbrowser-confirm-close-tabs-button = Luk faneblade
+tabbrowser-confirm-close-tabs-checkbox = Bekræft, når jeg lukker flere faneblade
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -92,6 +93,9 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = Luk vindue og afslut { -brand-short-name }?
 tabbrowser-confirm-close-tabs-with-key-button = Afslut { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Bekræft, inden jeg afslutter med { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
