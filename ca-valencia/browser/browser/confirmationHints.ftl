@@ -6,6 +6,8 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = S'ha enviat l'informe. Gràcies!
+confirmation-hint-login-removed = S'ha eliminat l'inici de sessió
+confirmation-hint-page-bookmarked = S'ha guardat a les adreces d'interés
 confirmation-hint-password-saved = S'ha guardat la contrasenya
 confirmation-hint-pin-tab = S'ha fixat
 confirmation-hint-pin-tab-description = Feu clic amb el botó dret del ratolí per deixar de fixar.
