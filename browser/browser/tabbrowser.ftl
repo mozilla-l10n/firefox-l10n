@@ -35,6 +35,7 @@ tabbrowser-tab-tooltip =
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = { $domain } వారి ఇలాంటి గమనింపులు నన్ను వారి ట్యాబుకు తీసుకువెళ్ళడం అనుమతించు
+tabbrowser-customizemode-tab-title = అనుకూలపరచు { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 

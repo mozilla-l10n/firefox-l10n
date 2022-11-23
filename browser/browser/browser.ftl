@@ -757,3 +757,6 @@ private-browsing-indicator-label = అంతరంగిక విహారణ
 
 refresh-blocked-refresh-label = ఈ పేజీ స్వయంచాలకంగా తిరిగిలోడవ్వుటను { -brand-short-name } నిరోధిస్తోంది.
 refresh-blocked-redirect-label = ఈ పేజీ స్వయంచాలకంగా వేరొక పేజీకు మళ్ళుట నుండి { -brand-short-name } నిరోధిస్తోంది.
+refresh-blocked-allow =
+    .label = అనుమతించు
+    .accesskey = A
