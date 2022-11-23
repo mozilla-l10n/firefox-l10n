@@ -16,11 +16,71 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Serriñ an ivinell
+            [two] Serriñ { $tabCount } ivinell
+            [few] Serriñ { $tabCount } ivinell
+            [many] Serriñ { $tabCount } a ivinelloù
+           *[other] Serriñ { $tabCount } ivinell
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Mod mud war an ivinell ({ $shortcut })
+            [two] Mod mud war { $tabCount } ivinell ({ $shortcut })
+            [few] Mod mud war { $tabCount } ivinell ({ $shortcut })
+            [many] Mod mud war { $tabCount } a ivinelloù ({ $shortcut })
+           *[other] Mod mud war { $tabCount } ivinell ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Mod heglev war an ivinell ({ $shortcut })
+            [two] Mod heglev war { $tabCount } ivinell ({ $shortcut })
+            [few] Mod heglev war { $tabCount } ivinell ({ $shortcut })
+            [many] Mod heglev war { $tabCount } a ivinelloù ({ $shortcut })
+           *[other] Mod heglev war { $tabCount } ivinell ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Mod mud war an ivinell
+            [two] Mod mud war { $tabCount } ivinell
+            [few] Mod mud war { $tabCount } ivinell
+            [many] Mod mud war { $tabCount } a ivinelloù
+           *[other] Mod mud war { $tabCount } ivinell
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Mod heglev war an ivinell
+            [two] Mod heglev war { $tabCount } ivinell
+            [few] Mod heglev war { $tabCount } ivinell
+            [many] Mod heglev war { $tabCount } a ivinelloù
+           *[other] Mod heglev war { $tabCount } ivinell
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Lenn an ivinell
+            [two] Lenn { $tabCount } ivinell
+            [few] Lenn { $tabCount } ivinell
+            [many] Lenn { $tabCount } a ivinelloù
+           *[other] Lenn { $tabCount } ivinell
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -36,6 +96,15 @@ tabbrowser-confirm-close-tabs-button = Serriñ an ivinelloù
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Kadarnaat an digoradur
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Digoret e vo { $tabCount } ivinell ganeoc'h. Gorrekaet e vo { -brand-short-name } marteze e-pad ma vo karget ar pajennadoù. Fellout a ra deoc'h kenderc'hel?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Digeriñ an ivinelloù
+tabbrowser-confirm-open-multiple-tabs-checkbox = Kemenn din mar befe gorrekaet { -brand-short-name } gant digoradur lies a ivinelloù
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -56,3 +125,11 @@ tabbrowser-context-mute-tab =
 tabbrowser-context-unmute-tab =
     .label = Gweredekaat son an ivinell
     .accesskey = s
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Diweredekaat son an ivinelloù
+    .accesskey = D
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Heglevat an ivinelloù
+    .accesskey = H
