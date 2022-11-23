@@ -48,3 +48,9 @@ tabbrowser-customizemode-tab-title = Persunalisar { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Deactivar il tun dal tab
+    .accesskey = D
+tabbrowser-context-unmute-tab =
+    .label = Activar il tun dal tab
+    .accesskey = A
