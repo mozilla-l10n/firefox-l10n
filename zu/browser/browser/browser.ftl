@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Ukuphequlula okuyimfihlo)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Ukuphequlula okuyimfihlo)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Ukuphequlula okuyimfihlo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Ukuphequlula okuyimfihlo)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -91,6 +89,7 @@ full-screen-exit =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
@@ -126,10 +125,8 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = Sesha noma faka ikheli
-
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
-
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo
 
@@ -143,6 +140,9 @@ urlbar-go-button =
 
 
 ## Labels shown above groups of urlbar results
+
+
+## Reader View toolbar buttons
 
 
 ## Full Screen and Pointer Lock UI
@@ -159,7 +159,6 @@ bookmarks-sidebar-content =
     .aria-label = Izimpawu zokubekisa
 bookmarks-bookmark-edit-panel =
     .label = Hlela lolu phawu lokubekisa
-
 bookmarks-toolbar-menu =
     .label = Ibha yamathuluzi ezimpawu zokubekisa
 bookmarks-toolbar-placeholder =
@@ -179,8 +178,6 @@ bookmarks-toolbar-placeholder-button =
 ## Customize Toolbar Buttons
 
 
-## More items
-
 ## EME notification panel
 
 
@@ -188,9 +185,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -202,7 +196,6 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Vumela okuzivelelayo ku-{ $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Vimbela okuqhamuka esikhaleni { $uriHost }
     .accesskey = p
@@ -224,16 +217,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ukwaziswa okuthathwe kwafakwa
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Omoki bokuphequlula
-
 tabs-toolbar-new-tab =
     .label = Ithebhu entsha
-
 tabs-toolbar-list-all-tabs =
     .label = Faka ohlwini bonke omaki
     .tooltiptext = Faka ohlwini bonke omaki
@@ -247,3 +237,11 @@ data-reporting-notification-message = I-{ -brand-short-name } ithumela ngokuzenz
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = I-{ -brand-short-name } ivimbele le khasi ekulayisheni kabusha ngokuzenzakalela.
+refresh-blocked-redirect-label = I-{ -brand-short-name } ivimbele le khasi ekuthumeleni kabusha ngokuzenzakalela kwelinye ikhasi.
+refresh-blocked-allow =
+    .label = Vumela
+    .accesskey = A
