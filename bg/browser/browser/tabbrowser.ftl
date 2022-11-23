@@ -98,6 +98,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Предупреждаване,
 
 ##
 
+tabbrowser-customizemode-tab-title = Приспособяване на { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
