@@ -928,3 +928,8 @@ private-browsing-indicator-label = Shfletim privat
 unified-extensions-button =
     .label = Zgjerime
     .tooltiptext = Zgjerime
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name }-i i pengoi kësaj faqeje ringarkimin e vetvetishëm.
+refresh-blocked-redirect-label = { -brand-short-name }-i i pengoi kësaj faqeje ridrejtimin e vetvetishëm te një faqe tjetër.
