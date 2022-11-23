@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = নতুন ট্যাব
+tabbrowser-menuitem-close-tab =
+    .label = ট্যাব বন্ধ করুন
 tabbrowser-menuitem-close =
     .label = বন্ধ করুন
 # Variables:
@@ -18,6 +20,7 @@ tabbrowser-tab-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = ট্যাব বন্ধ করুন
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -34,6 +37,13 @@ tabbrowser-tab-tooltip =
 
 ##
 
+tabbrowser-customizemode-tab-title = কাস্টমাইজ করুন { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = ট্যাবকে নীরব করুন
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = ট্যাবকে নীরব থেকে সক্রিয় করুন
+    .accesskey = m
