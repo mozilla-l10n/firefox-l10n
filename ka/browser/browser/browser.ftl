@@ -925,3 +925,8 @@ private-browsing-indicator-label = პირადი ფანჯარა
 unified-extensions-button =
     .label = გაფართოებები
     .tooltiptext = გაფართოებები
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } ამ გვერდის თვითგანახლებას კრძალავს.
+refresh-blocked-redirect-label = { -brand-short-name } ამ გვერდის სხვა გვერდზე თვითგადამისამართებას კრძალავს.
