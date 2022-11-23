@@ -12,11 +12,53 @@ tabbrowser-menuitem-close =
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Close tab
+           *[other] Close { $tabCount } tabs
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Mute tab ({ $shortcut })
+           *[other] Mute { $tabCount } tabs ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Unmute tab ({ $shortcut })
+           *[other] Unmute { $tabCount } tabs ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Mute tab
+           *[other] Mute { $tabCount } tabs
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Unmute tab
+           *[other] Unmute { $tabCount } tabs
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Play tab
+           *[other] Play { $tabCount } tabs
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -37,6 +79,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Warn me when opening multiple t
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Caret Browsing
+tabbrowser-confirm-caretbrowsing-message = Pressing F7 turns Caret Browsing on or off. This feature places a movable cursor in web pages, allowing you to select text with the keyboard. Do you want to turn Caret Browsing on?
+tabbrowser-confirm-caretbrowsing-checkbox = Do not show me this dialog box again.
 
 ##
 
@@ -53,4 +98,12 @@ tabbrowser-context-mute-tab =
     .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = Unmute Tab
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Mute Tabs
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Unmute Tabs
     .accesskey = m
