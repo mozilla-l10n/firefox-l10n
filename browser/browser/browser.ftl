@@ -931,6 +931,8 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = O { -brand-short-name } impediu que esta página fosse recarregada automaticamente.
+refresh-blocked-redirect-label = O { -brand-short-name } impediu que esta página redirecionasse automaticamente para outra página.
 refresh-blocked-allow =
     .label = Permitir
     .accesskey = P
