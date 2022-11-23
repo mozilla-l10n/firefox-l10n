@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Lukk fane
 tabbrowser-menuitem-close =
     .label = Lukk
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -45,3 +50,6 @@ tabbrowser-customizemode-tab-title = Tilpass { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-unmute-tab =
+    .label = Lyd på i fane
+    .accesskey = d
