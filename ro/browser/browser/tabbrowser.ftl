@@ -21,6 +21,38 @@ tabbrowser-tab-tooltip =
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Dezactivează sunetul filei ({ $shortcut })
+            [few] Dezactivează sunetul celor { $tabCount } file ({ $shortcut })
+           *[other] Dezactivează sunetul celor { $tabCount } de file ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Activează sunetul filei ({ $shortcut })
+            [few] Activează sunetul celor { $tabCount } file ({ $shortcut })
+           *[other] Activează sunetul celor { $tabCount } de file ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Dezactivează sunetul filei
+            [few] Dezactivează sunetul celor { $tabCount } file
+           *[other] Dezactivează sunetul celor { $tabCount } de file
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Activează sunetul filei
+            [few] Activează sunetul celor { $tabCount } file
+           *[other] Activează sunetul celor { $tabCount } de file
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -36,6 +68,9 @@ tabbrowser-confirm-close-tabs-button = Închide filele
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Confirmă deschiderea
+tabbrowser-confirm-open-multiple-tabs-button = Deschide filele
+tabbrowser-confirm-open-multiple-tabs-checkbox = Avertizează-mă când deschiderea mai multor file ar putea încetini { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
