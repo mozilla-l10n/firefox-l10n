@@ -924,3 +924,11 @@ private-browsing-indicator-label = 사생활 보호 모드
 unified-extensions-button =
     .label = 확장 기능
     .tooltiptext = 확장 기능
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name }가 이 페이지를 자동으로 다시 로드하지 못하도록 차단했습니다.
+refresh-blocked-redirect-label = { -brand-short-name }가 이 페이지에서 다른 페이지로 자동으로 바뀌는 것을 차단했습니다.
+refresh-blocked-allow =
+    .label = 허용
+    .accesskey = A
