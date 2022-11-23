@@ -807,3 +807,11 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = El { -brand-short-name } ha evitat que la pàgina s'actualitze automàticament.
+refresh-blocked-redirect-label = El { -brand-short-name } ha evitat que la pàgina redirigisca automàticament a una altra.
+refresh-blocked-allow =
+    .label = Permet
+    .accesskey = P

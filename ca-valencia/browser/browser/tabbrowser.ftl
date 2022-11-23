@@ -2,7 +2,116 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Pestanya nova
+tabbrowser-menuitem-close-tab =
+    .label = Tanca la pestanya
+tabbrowser-menuitem-close =
+    .label = Tanca
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
+# Variables:
+#   $title (String): the title of the current tab.
+tabbrowser-tab-tooltip =
+    .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Tanca la pestanya
+           *[other] Tanca { $tabCount } pestanyes
+        }
+
+## Tooltips for tab audio control
+## Variables:
+##   $tabCount (Number): The number of tabs that will be affected.
+
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Silencia la pestanya ({ $shortcut })
+           *[other] Silencia { $tabCount } pestanyes ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] No silencies la pestanya ({ $shortcut })
+           *[other] No silencies { $tabCount } pestanyes ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Silencia la pestanya
+           *[other] Silencia { $tabCount } pestanyes
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] No silencies la pestanya
+           *[other] No silencies { $tabCount } pestanyes
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Reprodueix la pestanya
+           *[other] Reprodueix { $tabCount } pestanyes
+        }
+
+## Confirmation dialog when closing a window with more than one tab open,
+## or when quitting when only one window is open.
+
+tabbrowser-confirm-close-tabs-button = Tanca les pestanyes
+
+## Confirmation dialog when quitting using the menu and multiple windows are open.
+
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## Windows does not show a prompt on quit when using the keyboard shortcut by default.
+
+
+## Confirmation dialog when opening multiple tabs simultaneously
+
+tabbrowser-confirm-open-multiple-tabs-title = Confirmació d'obertura
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Esteu a punt d'obrir { $tabCount } pestanyes. Això pot fer que el { -brand-short-name } vagi més lent mentre es carreguen les pàgines. Esteu segur que voleu continuar?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Obri les pestanyes
+tabbrowser-confirm-open-multiple-tabs-checkbox = Avisa'm quan el fet d'obrir moltes pestanyes puga alentir el { -brand-short-name }
+
+## Confirmation dialog for enabling caret browsing
+
+
+##
+
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permet que les notificacions com esta de { $domain } vos portin a la seua pestanya
+tabbrowser-customizemode-tab-title = Personalitzeu el { -brand-short-name }
+
+## Context menu buttons, of which only one will be visible at a time
+
+tabbrowser-context-mute-tab =
+    .label = Silencia la pestanya
+    .accesskey = S
+tabbrowser-context-unmute-tab =
+    .label = No silencies la pestanya
+    .accesskey = s
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Silencia les pestanyes
+    .accesskey = S
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = No silencies les pestanyes
+    .accesskey = s
