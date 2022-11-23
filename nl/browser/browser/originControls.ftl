@@ -30,3 +30,5 @@ origin-controls-state-no-access = Kan gegevens op deze website niet lezen en wij
 origin-controls-state-always-on = Kan altijd gegevens op deze website lezen en wijzigen
 origin-controls-state-when-clicked = Toestemming nodig om gegevens te lezen en te wijzigen
 origin-controls-state-hover-run-visit-only = Alleen voor dit bezoek uitvoeren
+origin-controls-state-runnable-hover-open = Extensie openen
+origin-controls-state-runnable-hover-run = Extensie uitvoeren
