@@ -128,6 +128,7 @@ profiler-popup-button-capturing =
     .tooltiptext = O analisador de desempenho está capturando um profile
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Revelar mais informações
 profiler-popup-description-title =
