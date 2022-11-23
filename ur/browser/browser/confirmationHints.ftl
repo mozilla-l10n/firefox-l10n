@@ -6,6 +6,7 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = رپورٹ بھیجی گئی۔ آپ کا شکریہ!
+confirmation-hint-login-removed = لاگ ان کو ہٹا دیا گیا!
 confirmation-hint-page-bookmarked = بُک مارکس میں محفوظ شدہ
 confirmation-hint-password-saved = پاس ورڈ محفوظ ہوگیا!
 confirmation-hint-pin-tab = پن شدہ!
