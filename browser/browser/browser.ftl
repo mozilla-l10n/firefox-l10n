@@ -831,3 +831,6 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = منع { -brand-short-name } هذه الصفحة من إعادة التحميل تلقائيًا.
 refresh-blocked-redirect-label = منع { -brand-short-name } هذه الصفحة من إعادة التوجيه تلقائيًا إلى صفحة أخرى.
+refresh-blocked-allow =
+    .label = اسمح
+    .accesskey = س
