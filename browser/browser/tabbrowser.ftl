@@ -7,15 +7,62 @@ tabbrowser-menuitem-close-tab =
     .label = Tabblad sluiten
 tabbrowser-menuitem-close =
     .label = Sluiten
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Tabblad sluiten
+           *[other] { $tabCount } tabbladen sluiten
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Tabblad dempen ({ $shortcut })
+           *[other] { $tabCount } tabbladen dempen ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Tabblad dempen opheffen ({ $shortcut })
+           *[other] { $tabCount } tabbladen dempen opheffen ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Tabblad dempen
+           *[other] { $tabCount } tabbladen dempen
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Tabblad dempen opheffen
+           *[other] { $tabCount } tabbladen dempen opheffen
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Tabblad afspelen
+           *[other] { $tabCount } tabbladen afspelen
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -31,6 +78,15 @@ tabbrowser-confirm-close-tabs-button = Tabbladen sluiten
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Openen bevestigen
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] U staat op het punt om { $tabCount } tabbladen te openen. Dit kan { -brand-short-name } vertragen tijdens het laden van de pagina’s. Weet u zeker dat u wilt doorgaan?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Tabbladen openen
+tabbrowser-confirm-open-multiple-tabs-checkbox = Mij waarschuwen als het openen van meerdere tabbladen { -brand-short-name } zou kunnen vertragen
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -41,6 +97,21 @@ tabbrowser-confirm-close-tabs-button = Tabbladen sluiten
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Vergelijkbare meldingen van { $domain } om u naar hun tabblad te leiden toestaan
+tabbrowser-customizemode-tab-title = { -brand-short-name } aanpassen
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Tabblad dempen
+    .accesskey = d
+tabbrowser-context-unmute-tab =
+    .label = Tabblad dempen opheffen
+    .accesskey = d
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Tabbladen dempen
+    .accesskey = d
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Tabbladen dempen opheffen
+    .accesskey = d
