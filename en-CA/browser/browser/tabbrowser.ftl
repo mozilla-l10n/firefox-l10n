@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = New Tab
+tabbrowser-empty-private-tab-title = New Private Tab
 tabbrowser-menuitem-close-tab =
     .label = Close Tab
 tabbrowser-menuitem-close =
@@ -43,6 +44,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Warn me when opening multiple t
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Allow notifications like this from { $domain } to take you to their tab
+tabbrowser-customizemode-tab-title = Customize { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
