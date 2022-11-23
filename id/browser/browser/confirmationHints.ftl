@@ -6,4 +6,7 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = Laporan terkirim. Terima kasih!
+confirmation-hint-password-saved = Sandi disimpan!
+confirmation-hint-pin-tab = Disematkan!
+confirmation-hint-pin-tab-description = Klik kanan tab untuk melepaskan sematan.
 confirmation-hint-send-to-device = Terkirim!
