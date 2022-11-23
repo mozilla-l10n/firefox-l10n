@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = নতুন ট্যাব
+tabbrowser-menuitem-close-tab =
+    .label = ট্যাব বন্ধ করুন
 tabbrowser-menuitem-close =
     .label = বন্ধ
 # Displayed as a tooltip on container tabs
@@ -14,6 +16,14 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] ট্যাব বন্ধ করুন
+           *[other] { $tabCount } ট্যাব বন্ধ করুন
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -57,6 +67,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = সব ট্যাব বন্ধ করুন
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
