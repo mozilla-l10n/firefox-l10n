@@ -33,6 +33,8 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = کھولنے کی تصدیق کریں
+tabbrowser-confirm-open-multiple-tabs-button = ٹیب کھولیں
 
 ## Confirmation dialog for enabling caret browsing
 
