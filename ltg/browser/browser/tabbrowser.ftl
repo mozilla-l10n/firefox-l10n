@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Jauna cilne
 tabbrowser-menuitem-close-tab =
     .label = Aiztaiseit cilni
 tabbrowser-menuitem-close =
@@ -35,6 +36,15 @@ tabbrowser-confirm-close-tabs-button = Aiztaiseit cilnes
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Apstyprynoj attaiseišonu
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Tu tiuļeit attaisiesi { $tabCount } cilnes. Tys var stypri ībremzēt { -brand-short-name }, cikam itōs lopys īzalōdejās. Voi gribi itū dareit?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Attaiseit cilnes
+tabbrowser-confirm-open-multiple-tabs-checkbox = Pabreidynōt mani, kod vairōku cilņu attaiseišona var stypri īebremzēt { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
