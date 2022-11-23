@@ -935,6 +935,7 @@ unified-extensions-button =
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } forhindrede denne side i automatisk at foretage genindlæsning.
+refresh-blocked-redirect-label = { -brand-short-name } forhindrede denne side i automatisk at viderestille til en anden side.
 refresh-blocked-allow =
     .label = Tillad
     .accesskey = T
