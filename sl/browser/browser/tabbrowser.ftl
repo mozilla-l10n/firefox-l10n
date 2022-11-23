@@ -121,6 +121,13 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Vprašaj za potrditev pred zap
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = Potrdi odpiranje
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Odprli boste { $tabCount } zavihkov. To lahko upočasni { -brand-short-name } med nalaganjem strani. Ali ste prepričani, da želite nadaljevati?
+    }
 tabbrowser-confirm-open-multiple-tabs-button = Odpri zavihke
 tabbrowser-confirm-open-multiple-tabs-checkbox = Opozori me, ko lahko odpiranje veliko zavihkov naenkrat upočasni { -brand-short-name }
 
@@ -142,4 +149,12 @@ tabbrowser-context-mute-tab =
     .accesskey = U
 tabbrowser-context-unmute-tab =
     .label = Povrni glasnost zavihka
+    .accesskey = r
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Utišaj zavihke
+    .accesskey = U
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Povrni glasnost zavihkov
     .accesskey = r
