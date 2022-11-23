@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = მოხსენება გაგზავნილია. გმადლობთ!
+confirmation-hint-login-removed = მონაცემები მოცილებულია!
+confirmation-hint-page-bookmarked = ჩანიშნულია
+confirmation-hint-password-saved = პაროლი შენახულია!
+confirmation-hint-pin-tab = მიმაგრებულია!
+confirmation-hint-pin-tab-description = მარჯვენა-წკაპი ჩანართზე, მიმაგრების მოსახსნელად.
 confirmation-hint-send-to-device = გაგზავნილია!
