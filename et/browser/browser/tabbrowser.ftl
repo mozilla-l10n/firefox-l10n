@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Uus kaart
+tabbrowser-empty-private-tab-title = Uus privaatne kaart
 tabbrowser-menuitem-close-tab =
     .label = Sulge kaart
 tabbrowser-menuitem-close =
