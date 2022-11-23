@@ -92,11 +92,36 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title =
+    { $tabCount ->
+        [zero] Cau { $tabCount } tabiau?
+        [one] Cau { $tabCount } tab?
+        [two] Cau { $tabCount } tab?
+        [few] Cau { $tabCount } tab?
+        [many] Cau { $tabCount } tab?
+       *[other] Cau { $tabCount } tab?
+    }
 tabbrowser-confirm-close-tabs-button = Cau tabiau
 tabbrowser-confirm-close-tabs-checkbox = Cadarnhau cyn cau tabiau lluosog
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [zero] Cau { $windowCount } ffenestri?
+        [one] Cau { $windowCount } ffenestr?
+        [two] Cau { $windowCount } ffenestr?
+        [few] Cau { $windowCount } ffenestr?
+        [many] Cau { $windowCount } ffenestr?
+       *[other] Cau { $windowCount } ffenestr?
+    }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
         [windows] Cau a gadael
