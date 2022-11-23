@@ -919,3 +919,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = Cha do leig { -brand-short-name } leis an duilleag seo ath-luchdadh gu fèin-obrachail.
 refresh-blocked-redirect-label = Cha do leig { -brand-short-name } leis an duilleag seo do stiùireadh gu duilleag eile gu fèin-obrachail.
+refresh-blocked-allow =
+    .label = Ceadaich
+    .accesskey = A
