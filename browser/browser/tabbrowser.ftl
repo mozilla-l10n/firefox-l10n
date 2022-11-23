@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Нова картица
 tabbrowser-empty-private-tab-title = Нова приватна картица
+tabbrowser-menuitem-close-tab =
+    .label = Затвори картицу
 tabbrowser-menuitem-close =
     .label = Затвори
 # Displayed as a tooltip on container tabs
@@ -14,11 +17,59 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
     .label = { $title }
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-close-tabs-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Затвори { $tabCount } картицу
+            [few] Затвори { $tabCount } картице
+           *[other] Затвори { $tabCount } картица
+        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Искључи звук { $tabCount } картице ({ $shortcut })
+            [few] Искључи звук { $tabCount } картице ({ $shortcut })
+           *[other] Искључи звук { $tabCount } картица ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Укључи звук { $tabCount } картице ({ $shortcut })
+            [few] Укључи звук { $tabCount } картице ({ $shortcut })
+           *[other] Укључи звук { $tabCount } картица ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Искључи звук { $tabCount } картице
+            [few] Искључи звук { $tabCount } картице
+           *[other] Искључи звук { $tabCount } картица
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Укључи звук { $tabCount } картице
+            [few] Укључи звук { $tabCount } картице
+           *[other] Укључи звук { $tabCount } картица
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Пусти { $tabCount } картицу
+            [few] Пусти { $tabCount } картице
+           *[other] Пусти { $tabCount } картица
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -31,6 +82,7 @@ tabbrowser-confirm-close-tabs-title =
         [few] Затвори { $tabCount } картице?
        *[other] Затвори { $tabCount } картица?
     }
+tabbrowser-confirm-close-tabs-button = Затвори картице
 tabbrowser-confirm-close-tabs-checkbox = Тражи потврду пре затварања више картица
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -62,6 +114,14 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Тражи потврду пр
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Потврди отварање
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] Отворићете неколико ({ $tabCount }) картица. Ово може да успори { -brand-short-name } док се странице учитавају. Желите ли заиста да наставите?
+    }
+tabbrowser-confirm-open-multiple-tabs-button = Отвори картице
+tabbrowser-confirm-open-multiple-tabs-checkbox = Упозори ме када би отварање више картица могло да успори { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -75,6 +135,21 @@ tabbrowser-confirm-caretbrowsing-checkbox = Не показуј поново о�
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Дозволи да ме оваква обавештења од { $domain } одведу на њихову картицу
+tabbrowser-customizemode-tab-title = Прилагођавање програма { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Искључи звук картице
+    .accesskey = г
+tabbrowser-context-unmute-tab =
+    .label = Укључи звук картице
+    .accesskey = с
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Искључи звук картица
+    .accesskey = У
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = Укључи звук картица
+    .accesskey = о
