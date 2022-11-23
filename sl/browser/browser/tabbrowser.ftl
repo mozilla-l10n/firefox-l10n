@@ -41,6 +41,7 @@ tabbrowser-confirm-close-tabs-button = Zapri zavihke
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Dovoli takšnim obvestilom z { $domain }, da preklopijo na svoj zavihek
+tabbrowser-customizemode-tab-title = Prilagodi { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
