@@ -5,5 +5,6 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Извештај је послан. Хвала!
 confirmation-hint-pin-tab = Закачен!
 confirmation-hint-send-to-device = Послато!
