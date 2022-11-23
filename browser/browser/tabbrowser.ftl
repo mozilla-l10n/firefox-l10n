@@ -67,14 +67,25 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title = Փակե՞լ { $tabCount } ներդիրները:
 tabbrowser-confirm-close-tabs-button = Փակել ներդիրները
+tabbrowser-confirm-close-tabs-checkbox = Զգուշացնել բազմակի ներդիրները փակելիս
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Փակեք և դուրս եկեք
+       *[other] Փակեք և դուրս եկեք
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-button = Փակել { -brand-short-name }-ը
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -90,6 +101,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Զգուշացնել բազմա
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Ակտիվ կուրսոր
+tabbrowser-confirm-caretbrowsing-message = F7 կոճակի սեղմումը անջատում կամ միացնում է ակտիվ կուրսորը: Այսյուրահատկությունը դնում է շարժական կուրսոր վեբ էջերում՝ հնարավորություն տալով ընտրել տեքստը ստեղնաշարով: Դուք ցանկանո՞ւմ եք ակտիվացնել այն:
+tabbrowser-confirm-caretbrowsing-checkbox = Այլևս չույց չտալ այս պատուհանը
 
 ##
 
