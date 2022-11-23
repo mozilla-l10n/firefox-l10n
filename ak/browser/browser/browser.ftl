@@ -255,3 +255,6 @@ data-reporting-notification-message = { -brand-short-name } soma data bi otomati
 
 refresh-blocked-refresh-label = { -brand-short-name } siiw krataafa yi sɛ noara bebue ne ho bio.
 refresh-blocked-redirect-label = { -brand-short-name } siiw krataafa yi sɛ ɔde ne ho bɛkɔ krataafa foforo so.
+refresh-blocked-allow =
+    .label = Ma ho kwan
+    .accesskey = A
