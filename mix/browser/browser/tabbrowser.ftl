@@ -25,6 +25,7 @@ tabbrowser-tab-tooltip =
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-button = Kuna xikua
 
 ## Confirmation dialog for enabling caret browsing
 
