@@ -936,3 +936,6 @@ unified-extensions-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } kom í veg fyrir að síðan myndi endurnýjast sjálfkrafa.
 refresh-blocked-redirect-label = { -brand-short-name } kom í veg fyrir að síðan sendi þig áfram á aðra síðu.
+refresh-blocked-allow =
+    .label = Leyfa
+    .accesskey = a

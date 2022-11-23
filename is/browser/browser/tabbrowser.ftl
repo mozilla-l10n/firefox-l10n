@@ -7,6 +7,11 @@ tabbrowser-menuitem-close-tab =
     .label = Loka flipa
 tabbrowser-menuitem-close =
     .label = Loka
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -41,6 +46,13 @@ tabbrowser-confirm-close-tabs-button = Loka flipum
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Leyfðu tilkynningum sem þessum frá { $domain } að fara með þig á flipann þeirra
+tabbrowser-customizemode-tab-title = Sérsníða { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Slökkva á hljóði
+    .accesskey = S
+tabbrowser-context-unmute-tab =
+    .label = Virkja hljóð í flipa
+    .accesskey = V
