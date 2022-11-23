@@ -6,6 +6,8 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = Զեկույցը ուղարկվեց։ Շնորհակալություն։
+confirmation-hint-login-removed = Մուտքագրումը հեռացվեց:
 confirmation-hint-password-saved = Գաղտնաբառը պահպանվել է։
 confirmation-hint-pin-tab = Ամրացված։
 confirmation-hint-pin-tab-description = Այն բացելու համար ներդիրին աջ-կտտացրեք։
+confirmation-hint-send-to-device = Ուղարկվեց
