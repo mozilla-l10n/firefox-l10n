@@ -994,6 +994,7 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = Aplikace { -brand-short-name } zabránila této stránce v automatickém opětovném načtení.
 refresh-blocked-redirect-label = Aplikace { -brand-short-name } zabránila této stránce v automatickém přesměrování na jinou stránku.
 refresh-blocked-allow =
     .label = Povolit
