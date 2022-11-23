@@ -3,8 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Nouvel onglet
+tabbrowser-menuitem-close-tab =
+    .label = Fermer l’onglet
 tabbrowser-menuitem-close =
     .label = Fermer
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -67,6 +74,10 @@ tabbrowser-confirm-close-tabs-button = Fermer les onglets
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Autoriser les notifications de ce type depuis { $domain } à basculer vers leur onglet
+tabbrowser-customizemode-tab-title = Personnaliser { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-unmute-tab =
+    .label = Réactiver le son de l’onglet
+    .accesskey = R
