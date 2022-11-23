@@ -931,3 +931,8 @@ private-browsing-indicator-label = Huliðsvafur
 unified-extensions-button =
     .label = Forritsaukar
     .tooltiptext = Forritsaukar
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } kom í veg fyrir að síðan myndi endurnýjast sjálfkrafa.
+refresh-blocked-redirect-label = { -brand-short-name } kom í veg fyrir að síðan sendi þig áfram á aðra síðu.
