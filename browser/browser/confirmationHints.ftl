@@ -10,3 +10,4 @@ confirmation-hint-page-bookmarked = Yer imlerine kaydedildi
 confirmation-hint-password-saved = Parola kaydedildi!
 confirmation-hint-pin-tab = Sabitlendi!
 confirmation-hint-pin-tab-description = Sabitlemeyi kaldırmak için sekmeye sağ tıklayın.
+confirmation-hint-send-to-device = Gönderildi!
