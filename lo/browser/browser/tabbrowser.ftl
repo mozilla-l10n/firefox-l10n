@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = ເປີດໜ້າຕ່າງໃໝ່
+tabbrowser-menuitem-close-tab =
+    .label = ປິດແທັບ
+tabbrowser-menuitem-close =
+    .label = ປິດ
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 # Variables:
 #   $title (String): the title of the current tab.
 tabbrowser-tab-tooltip =
@@ -34,6 +43,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+tabbrowser-confirm-close-tabs-button = ປິດແທັບ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -51,6 +61,7 @@ tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
        *[other] ທ່ານກຳລັງຈະເປີດ { $tabCount } ແທັບ.  ຊື່ງອາດຈະເຮັດໃຫ້ { -brand-short-name } ຊ້າລົງຂະນະທີ່ໜ້າກຳລັງໂຫຼດ. ທ່ານແນ່ໃຈ ຫຼື ບໍ່ວ່າຕ້ອງການດຳເນີນການຕໍ່?
     }
+tabbrowser-confirm-open-multiple-tabs-button = ເປີດແທັບ
 tabbrowser-confirm-open-multiple-tabs-checkbox = ເຕືອນຂ້ອຍເມືອການເປີດຫຼາຍແທັບອ້າດເຮັດໃຫ້ຊ້າລົງ { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
@@ -58,6 +69,13 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = ເຕືອນຂ້ອຍເ�
 
 ##
 
+tabbrowser-customizemode-tab-title = ປັບແຕ່ງ { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = ປິດສຽງແທັບ
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = ເຊົາປິດສຽງແທັບ
+    .accesskey = m

@@ -715,3 +715,9 @@ private-browsing-indicator-label = ການທ່ອງເວັບແບບສ
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = ອະນຸຍາດ
+    .accesskey = A
