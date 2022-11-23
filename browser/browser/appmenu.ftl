@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Ներբեռնվում է { -brand-shorter-name }-ի արդիացումը
-
 appmenuitem-banner-update-available =
     .label = Արդիացում է մատչելի՝ ներբեռնեք հիմա
-
 appmenuitem-banner-update-manual =
     .label = Արդիացում է մատչելի՝ ներբեռնեք հիմա
-
 appmenuitem-banner-update-unsupported =
     .label = Անհնար է արդիացնել՝ համակարգը անհամատեղելի է
-
 appmenuitem-banner-update-restart =
     .label = Մատչելի է արդիացում՝ վերագործարկեք
-
 appmenuitem-new-tab =
     .label = Նոր Ներդիր
 appmenuitem-new-window =
@@ -50,7 +45,6 @@ appmenuitem-exit2 =
             [linux] Դուրս գալ
            *[other] Փակել
         }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -71,39 +65,31 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Մուտք գործեք՝ համաժամեցնելու համար…
 appmenu-remote-tabs-turn-on-sync =
     .label = Միացնել համաժամեցումը…
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Միացրեք ներդիրների համաժամեցումը՝ տեսնելու այլ սարքերից ձեր ներդիրների ցանկը։
-
 appmenu-remote-tabs-opensettings =
     .label = Կարգավորումներ
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:
-
 appmenu-remote-tabs-connectdevice =
     .label = Կապակցվել այլ սարքի
 appmenu-remote-tabs-welcome = Դիտել ձեր մյուս սարքերի ներդիրների ցուցակը:
 appmenu-remote-tabs-unverified = Ձեր հաշիվը պետք է ստուգվի:
-
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել
 appmenuitem-fxa-sign-in = Մուտք գործել { -brand-product-name }
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-sync-and-save-data2 = Համաժամեցնել և պահել տվյալները
 appmenu-fxa-signed-in-label = Մուտք գործել
-
 appmenuitem-save-page =
     .label = Պահպանել Էջը որպես…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ինչն է նոր
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -117,37 +103,28 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Հատկագրող
     .tooltiptext = Գրառել իրականացման հատկագիրը
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
+profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-learn-more-button =
     .label = Իմանալ ավելին
-
 profiler-popup-settings =
     .value = Կարգավորումներ
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Խմբագրել կարգավորումները…
-
 profiler-popup-recording-screen = Գրանցում...
-
 profiler-popup-start-recording-button =
     .label = Սկսել
-
 profiler-popup-discard-button =
     .label = Մերժել
-
 profiler-popup-capture-button =
     .label = Կորզել
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -164,13 +141,10 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-label =
     .label = Գրաֆիկա
-
 profiler-popup-presets-media-label =
     .label = Մեդիա
-
 profiler-popup-presets-custom-label =
     .label = Ընտրված
 
@@ -221,7 +195,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Հարմարեցնել Գործիքագոտին...
-
 appmenu-developer-tools-subheader = Զննիչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
