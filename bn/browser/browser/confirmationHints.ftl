@@ -6,3 +6,4 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = রিপোর্ট সম্পন্ন। ধন্যবাদ!
+confirmation-hint-send-to-device = পাঠানো হয়েছে!
