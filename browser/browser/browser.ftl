@@ -884,3 +884,7 @@ unified-extensions-button =
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha impedito a questa pagina di ricaricarsi automaticamente.
+refresh-blocked-redirect-label = { -brand-short-name } ha impedito a questa pagina il reindirizzamento automatico verso un’altra pagina.
+refresh-blocked-allow =
+    .label = Consenti
+    .accesskey = C
