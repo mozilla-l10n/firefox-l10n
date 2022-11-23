@@ -9,4 +9,6 @@ confirmation-hint-breakage-report-sent = 已回報，感謝您！
 confirmation-hint-login-removed = 已刪除登入資訊！
 confirmation-hint-page-bookmarked = 已加入書籤
 confirmation-hint-password-saved = 已儲存密碼！
+confirmation-hint-pin-tab = 已釘選！
+confirmation-hint-pin-tab-description = 在分頁上按右鍵以解除釘選
 confirmation-hint-send-to-device = 已送出！
