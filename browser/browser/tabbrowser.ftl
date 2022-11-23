@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tabbrowser-empty-tab-title = Jauna cilne
 tabbrowser-menuitem-close-tab =
     .label = Aizvērt cilni
 tabbrowser-menuitem-close =
@@ -36,6 +37,13 @@ tabbrowser-confirm-close-tabs-button = Aizvērt cilnes
 
 ##
 
+tabbrowser-customizemode-tab-title = Pielāgot { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Apklusināt cilni
+    .accesskey = A
+tabbrowser-context-unmute-tab =
+    .label = Atjaunot
+    .accesskey = a
