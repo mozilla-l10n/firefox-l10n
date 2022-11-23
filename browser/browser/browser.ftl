@@ -518,3 +518,8 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+
+## Autorefresh blocker
+
+refresh-blocked-refresh-label = { -brand-short-name } bu səhifənin avtomatik yenilənməsinin qarşısını aldı.
+refresh-blocked-redirect-label = { -brand-short-name } bu səhifənin başqa bir səhifəyə yönləndirilməsinin qarşısını aldı.
