@@ -5,5 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Skýrsla send. Þakka þér fyrir!
+confirmation-hint-login-removed = Innskráning fjarlægð!
+confirmation-hint-page-bookmarked = Vistað í bókamerki
+confirmation-hint-password-saved = Lykilorð vistað!
+confirmation-hint-pin-tab = Fest!
 confirmation-hint-pin-tab-description = Hægri smelltu á flipann til að fjarlæga hann.
 confirmation-hint-send-to-device = Sent!
