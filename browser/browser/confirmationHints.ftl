@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = Relatório enviado. Obrigado!
+confirmation-hint-login-removed = Conta removida!
+confirmation-hint-page-bookmarked = Adicionado aos favoritos
+confirmation-hint-password-saved = Senha salva!
+confirmation-hint-pin-tab = Fixada!
+confirmation-hint-pin-tab-description = Clique com o botão direito na aba para desafixar.
 confirmation-hint-send-to-device = Enviado!
