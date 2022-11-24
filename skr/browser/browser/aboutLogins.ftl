@@ -102,11 +102,26 @@ about-logins-vulnerable-alert-learn-more-link = ٻیا سِکھو
 
 ## Login Import Dialog
 
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV دستاویز
+       *[other] CSV فائل
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV دستاویز
+       *[other] TSV فائل
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = درآمد مکمل تھئی
 about-logins-import-dialog-done = تھی ڳیا
 about-logins-import-dialog-error-learn-more = ٻیا سِکھو
 about-logins-import-dialog-error-cancel = منسوخ
