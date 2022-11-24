@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Anladım
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = İpucu:
+urlbar-result-menu-button =
+    .title = Menüyü aç
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
