@@ -6,6 +6,7 @@
 about-logins-page-title = لاگ ان تے پاس ورڈ
 login-filter =
     .placeholder = لاگ ان ڳولو
+create-login-button = نواں لاگ ان بݨاؤ
 fxaccounts-sign-in-sync-button = ہم وقت کرݨ کیتے سائن ان تھیوو
 fxaccounts-avatar-button =
     .title = کھاتہ منیج کرو

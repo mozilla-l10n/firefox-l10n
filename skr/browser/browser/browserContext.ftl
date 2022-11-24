@@ -19,6 +19,13 @@ toolbar-button-forward-2 =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = ولدا لوڈ کرو
+    .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = ولدا لوڈ کرو
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
 
