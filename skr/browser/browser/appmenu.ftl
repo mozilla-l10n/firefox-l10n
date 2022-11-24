@@ -19,14 +19,26 @@ appmenuitem-passwords =
     .label = پاس ورڈز
 appmenuitem-help =
     .label = مدد
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = ترتیباں
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-zoom-enlarge =
+    .label = اندر زوم کرو
+appmenuitem-zoom-reduce =
+    .label = ٻاہر زوم کرو
 appmenuitem-fullscreen =
     .label = پوری سکرین
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = ہم وقت کرݨ کیتے سائن ان تھیوو۔۔۔
+appmenu-remote-tabs-turn-on-sync =
+    .label = ہم وقت کرݨ چالو کرو۔۔۔
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = کوئی کھلے ٹیب  کائنی
 appmenu-remote-tabs-opensettings =

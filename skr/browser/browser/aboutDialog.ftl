@@ -5,7 +5,11 @@
 aboutDialog-title =
     .title = { -brand-full-name } دا تعارف
 releaseNotes-link = نواں کیا ہے؟
+update-checkForUpdatesButton =
+    .label = اپڈیٹاں کیتے ݙیکھو
+    .accesskey = C
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
+aboutdialog-help-user = { -brand-product-name } مدد
 aboutdialog-submit-feedback = آپݨی رائے جمع کرواؤ
 bottomLinks-privacy = رازداری پالیسی
 # Example of resulting string: 66.0.1 (64-bit)
