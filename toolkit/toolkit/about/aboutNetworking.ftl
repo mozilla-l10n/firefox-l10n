@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Pomałe ličenje pufrować
 about-networking-rcwn-cache-not-slow = Pomałe ličenje njepufrować
 about-networking-networkid = Syćowy ID
 about-networking-networkid-id = Syćowy ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Tuta strona je so do <a data-l10n-name="about-logging-url">about:logging</a> přesunyła.
 
 ## Link is intended as "network link"
 
