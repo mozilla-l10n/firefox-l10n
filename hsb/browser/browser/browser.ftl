@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Sym zrozumił
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Pokiw:
+urlbar-result-menu-button =
+    .title = Meni wočinić
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
