@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Náði því
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Ábending:
+urlbar-result-menu-button =
+    .title = Opna valmynd
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
