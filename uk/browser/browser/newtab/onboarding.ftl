@@ -25,6 +25,12 @@ return-to-amo-addon-title = Тепер перейдімо до <img data-l10n-na
 return-to-amo-add-extension-label = Додати розширення
 return-to-amo-add-theme-label = Додайте тему
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Вітайте { -brand-short-name }
+mr1-return-to-amo-addon-title = У вас під рукою швидкий приватний браузер. Тепер ви можете додати <b>{ $addon-name }</b> і робити ще більше з { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Додати { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -326,44 +332,30 @@ mr2022-onboarding-colorway-subtitle = Незалежні голоси можут
 mr2022-onboarding-colorway-primary-button-label-continue = Налаштувати та продовжити
 mr2022-onboarding-existing-colorway-checkbox-label = Зробіть { -firefox-home-brand-name(case: "acc", capitalization: "lower") } своєю яскравою домашньою сторінкою
 mr2022-onboarding-colorway-label-default = Типово
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Типово
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Поточні кольори { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Використовувати поточні кольори { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Тактичність
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Тактичність
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Тактичність (червоний)
 mr2022-onboarding-colorway-description-playmaker = <b>Ви тактичні.</b> Ви створюєте можливості для перемоги та допомагаєте всім навколо покращити їхню гру.
 mr2022-onboarding-colorway-label-expressionist = Експресіонізм
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Експресіонізм
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Експресіонізм (жовтий)
 mr2022-onboarding-colorway-description-expressionist = <b>Ви експресивні.</b> Ви бачите світ інакше, а ваші витвори викликають в інших емоції.
 mr2022-onboarding-colorway-label-visionary = Мрійливість
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Мрійливість
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Мрійливість (зелений)
 mr2022-onboarding-colorway-description-visionary = <b>Ви мрійливі.</b> Ви ставите під сумнів стан речей та спонукаєте інших уявити краще майбутнє.
 mr2022-onboarding-colorway-label-activist = Активізм
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Активізм
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Активізм (синій)
 mr2022-onboarding-colorway-description-activist = <b>Ви активні.</b> Ви покращуєте світ і зміцнюєте переконання інших.
 mr2022-onboarding-colorway-label-dreamer = Натхненність
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Натхненність
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Натхненність (пурпуровий)
 mr2022-onboarding-colorway-description-dreamer = <b>Ви надихаєте інших.</b> Ви вірите, що доля любить завзятих і надихаєте людей бути сміливими.
 mr2022-onboarding-colorway-label-innovator = Винахідливість
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Винахідливість
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Винахідливість (жовтогарячий)
 mr2022-onboarding-colorway-description-innovator = <b>Ви винахідливі.</b> Ви всюди бачите можливості та впливаєте на життя всіх навколо.
