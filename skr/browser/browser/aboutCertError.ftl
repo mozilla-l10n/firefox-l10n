@@ -17,3 +17,6 @@ contentEncodingError-title = مواد اینکوڈ کرݨ وچ خرابی
 unsafeContentType-title = غیر محفوظ فائل قسم
 netReset-title = کنکشن ریسٹ تھی ڳیا
 netTimeout-title = کنکشن ٹائم آوٹ تھی ڳیا ہے
+blockedByPolicy-title = بلاک تھیا ورقہ
+clockSkewError-title = تہاݙے کمپیوٹر دی گھڑی غلط ہے
+networkProtocolError-title = نیٹ ورک پروٹوکول غلطی
