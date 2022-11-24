@@ -5,7 +5,13 @@
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = جڑݨ وچ ناکام ریہا
 fileNotFound-title = فائل کائنی لبھی
 fileAccessDenied-title = فائل تائیں رسائی مسترد کر ݙتی ڳئی ہائی
 generic-title = اوہو
 captivePortal-title = نیٹ ورک وچ لاگ ان تھیوو
+netOffline-title = آف لائن موڈ
+contentEncodingError-title = مواد اینکوڈ کرݨ وچ خرابی
+unsafeContentType-title = غیر محفوظ فائل قسم
+netReset-title = کنکشن ریسٹ تھی ڳیا
+netTimeout-title = کنکشن ٹائم آوٹ تھی ڳیا ہے

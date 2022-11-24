@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+aboutDialog-title =
+    .title = { -brand-full-name } دا تعارف
 releaseNotes-link = نواں کیا ہے؟
+update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
 aboutdialog-submit-feedback = آپݨی رائے جمع کرواؤ
 bottomLinks-privacy = رازداری پالیسی
 # Example of resulting string: 66.0.1 (64-bit)

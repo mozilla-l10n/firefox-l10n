@@ -8,6 +8,9 @@
 
 ## about:pocket-saved panel
 
+pocket-panel-saved-page-saved = { -pocket-brand-name } وچ محفوظ تھیا
+pocket-panel-saved-page-saved-b = { -pocket-brand-name } وچ محفوظ تھیا!
+pocket-panel-saved-remove-page = ورقہ ہٹاؤ
 pocket-panel-saved-save-tags = محفوظ
 
 ## about:pocket-signup panel
@@ -19,9 +22,11 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } نال سائن ا�
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = میݙی تندیر
+pocket-panel-home-explore-more = پھلورو
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = میݙی تندیر ݙیکھو
 pocket-panel-header-sign-in = سائن ان
 
 ## Pocket panel buttons

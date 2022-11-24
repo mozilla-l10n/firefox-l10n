@@ -6,6 +6,9 @@
 about-logins-page-title = لاگ ان تے پاس ورڈ
 login-filter =
     .placeholder = لاگ ان ڳولو
+fxaccounts-sign-in-sync-button = ہم وقت کرݨ کیتے سائن ان تھیوو
+fxaccounts-avatar-button =
+    .title = کھاتہ منیج کرو
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -25,6 +28,7 @@ about-logins-list-section-week = چھیکڑی ٧ ݙین٘ہ
 
 ## Login
 
+login-item-new-login-title = نواں لاگ ان بݨاؤ
 login-item-edit-button = تبدیلی کرو
 about-logins-login-item-remove-button = ہٹاؤ
 login-item-origin-label = ویب سائٹ پتہ
@@ -62,6 +66,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = منسوخ
 confirmation-dialog-dismiss-button =
     .title = منسوخ
+about-logins-confirm-remove-dialog-title = ایہ لاگ ان ہٹاؤں؟
 about-logins-confirm-remove-dialog-confirm-button = ہٹاؤ
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
