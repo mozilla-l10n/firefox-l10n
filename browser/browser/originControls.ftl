@@ -30,3 +30,5 @@ origin-controls-state-no-access = Bu sitedeki verileri okuyamaz ve değiştireme
 origin-controls-state-always-on = Bu sitedeki verileri her zaman okuyabilir ve değiştirebilir
 origin-controls-state-when-clicked = Verileri okumak ve değiştirmek için izin gerekli
 origin-controls-state-hover-run-visit-only = Yalnızca bu ziyaret boyunca çalıştır
+origin-controls-state-runnable-hover-open = Uzantıyı aç
+origin-controls-state-runnable-hover-run = Uzantıyı çalıştır
