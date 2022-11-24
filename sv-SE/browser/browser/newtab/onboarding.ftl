@@ -25,6 +25,12 @@ return-to-amo-addon-title = Låt oss nu hämta <img data-l10n-name="icon"/> <b>{
 return-to-amo-add-extension-label = Lägg till tillägget
 return-to-amo-add-theme-label = Lägg till temat
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Säg hej till { -brand-short-name }
+mr1-return-to-amo-addon-title = Du har en snabb, privat webbläsare till hands. Nu kan du lägga till <b>{ $addon-name }</b> och göra ännu mer med { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Lägg till { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -325,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = Oberoende röster kan förändra samhälle
 mr2022-onboarding-colorway-primary-button-label-continue = Ställ in och fortsätt
 mr2022-onboarding-existing-colorway-checkbox-label = Gör { -firefox-home-brand-name } till din färgglada startsida
 mr2022-onboarding-colorway-label-default = Standard
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Standard
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Aktuella { -brand-short-name }-färger
 mr2022-onboarding-colorway-description-default = <b>Använd mina nuvarande { -brand-short-name } färger.</b>
 mr2022-onboarding-colorway-label-playmaker = Spelare
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Spelare
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Spelare (röd)
 mr2022-onboarding-colorway-description-playmaker = <b>Du är en spelare.</b> Du skapar möjligheter att vinna och hjälper alla runt omkring dig att lyfta sitt spel.
 mr2022-onboarding-colorway-label-expressionist = Expressionist
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Expressionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionist (gul)
 mr2022-onboarding-colorway-description-expressionist = <b>Du är en expressionist.</b> Du ser världen annorlunda och dina skapelser rör upp andras känslor.
 mr2022-onboarding-colorway-label-visionary = Visionär
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visionär
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionär (grön)
 mr2022-onboarding-colorway-description-visionary = <b>Du är en visionär.</b> Du ifrågasätter status quo och får andra att föreställa sig en bättre framtid.
 mr2022-onboarding-colorway-label-activist = Aktivist
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (blå)
 mr2022-onboarding-colorway-description-activist = <b>Du är en aktivist.</b> Du lämnar världen till en bättre plats än du hittade den och får andra att tro.
 mr2022-onboarding-colorway-label-dreamer = Drömmare
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Drömmare
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Drömmare (lila)
 mr2022-onboarding-colorway-description-dreamer = <b>Du är en drömmare.</b> Du tror att förmögenhet gynnar de djärva och inspirerar andra att vara modiga.
 mr2022-onboarding-colorway-label-innovator = Innovatör
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Innovatör
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovatör (orange)
 mr2022-onboarding-colorway-description-innovator = <b>Du är en innovatör.</b> Du ser möjligheter överallt och påverkar livet för alla runt omkring dig.
