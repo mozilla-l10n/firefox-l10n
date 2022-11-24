@@ -20,6 +20,8 @@ about-logins-menu-menuitem-help = مدد
 ## Login List
 
 login-list-item-title-new-login = نواں لاگ ان
+about-logins-list-item-vulnerable-password-icon =
+    .title = کمزور پاسورڈ
 about-logins-list-section-today = اڄ
 about-logins-list-section-yesterday = کل
 about-logins-list-section-week = چھیکڑی ٧ ݙین٘ہ
