@@ -47,6 +47,7 @@ newtab-confirm-delete-history-p2 = ການກະທຳນີ້ບໍ່ສາ
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = ໄດ້ຮັບການສະຫນັບສະຫນູນ
 
 ## Context Menu - Action Tooltips.
 
@@ -103,6 +104,7 @@ newtab-menu-open-file = ເປີດໄຟລ໌
 
 newtab-label-visited = ເຂົ້າໄປເບິ່ງມາແລ້ວ
 newtab-label-bookmarked = ບຸກມາກໄວ້ແລ້ວ
+newtab-label-removed-bookmark = ລຶບບຸກມາກອອກແລ້ວ
 newtab-label-recommended = ກຳລັງນິຍົມ
 newtab-label-saved = ບັນທຶກລົງໃນ { -pocket-brand-name } ແລ້ວ
 newtab-label-download = ດາວໂຫຼດແລ້ວ
@@ -110,6 +112,10 @@ newtab-label-download = ດາວໂຫຼດແລ້ວ
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ສະປອນເຊີ
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = ສະໜັບສະໜູນໂດຍ { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -160,6 +166,9 @@ newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ�
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = ບັນທຶກ
+newtab-pocket-saved = ບັນທຶກແລ້ວ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -169,5 +178,12 @@ newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອ�
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = ທາງລັດ
+newtab-custom-shortcuts-subtitle = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
+newtab-custom-pocket-subtitle = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { -pocket-brand-name }, ສ່ວນຫນຶ່ງຂອງຄອບຄົວ { -brand-product-name }
+newtab-custom-pocket-sponsored = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
+newtab-custom-pocket-show-recent-saves = ສະແດງບັນທຶກຫຼ້າສຸດ
 newtab-custom-recent-title = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
+newtab-custom-recent-subtitle = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
 newtab-custom-close-button = ປິດ
+newtab-custom-settings = ຈັດການການຕັ້ງຄ່າເພີ່ມເຕີມ

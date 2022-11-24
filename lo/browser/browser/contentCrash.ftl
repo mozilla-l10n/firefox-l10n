@@ -5,6 +5,7 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>ບາງສ່ວນຂອງໜ້ານີ້ຂັດຂ້ອງ.</strong> ເພື່ອໃຫ້ { -brand-product-name } ຮູ້ກ່ຽວກັບບັນຫານີ້ ແລະແກ້ໄຂໄດ້ໄວຂຶ້ນ, ກະລຸນາສົ່ງລາຍງານ.
 crashed-subframe-learnmore-link =
     .value = ຮຽນຮູ້ເພີ່ມເຕີມ
 crashed-subframe-submit =

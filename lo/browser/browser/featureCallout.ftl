@@ -9,11 +9,19 @@ callout-primary-complete-button-label = ເຂົ້າໃຈແລ້ວ!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = ໂດດໄປມາລະຫວ່າງອຸປະກອນທີ່ມີການຮັບແຖບ
+callout-firefox-view-recently-closed-title = ເອົາແຖບປິດຂອງເຈົ້າຄືນມາໃນທັນທີ
 callout-firefox-view-colorways-title = ເລືອກສີທີ່ທ່ານມັກ
 callout-firefox-view-colorways-reminder-title = ສຳຫຼວດສີສັນຫຼ້າສຸດຂອງພວກເຮົາ
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = ເພີ່ມການທ່ອງເວັບຂອງທ່ານດ້ວຍການຮັບແຖບ
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ເລີ່ມຕົ້ນໃຊ້ງານ
 
 ## PDF.js Feature Tour Strings
@@ -22,4 +30,8 @@ callout-pdfjs-edit-title = ແກ້ໄຂ PDFs ດ້ວຍເຄື່ອງ�
 callout-pdfjs-edit-body-b = ຂ້າມການຄົ້ນຫາສໍາລັບບັນນາທິການອອນໄລນ໌ຟຣີ. ຕື່ມແບບຟອມ, ເພີ່ມຄຳເຫັນ, ຫຼືບັນທຶກໂດຍກົງໃນ { -brand-short-name }.
 callout-pdfjs-edit-button = ຕໍ່ໄປ
 callout-pdfjs-draw-title = ເຊັນເອກະສານດ້ວຍເຄື່ອງມືແຕ້ມຮູບໃໝ່ຂອງພວກເຮົາ
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = ມາກອັບ PDFs, ຈາກນັ້ນບັນທຶກການປ່ຽນແປງຂອງທ່ານ.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = ບໍ່ມີການພິມ ແລະສະແກນອີກຕໍ່ໄປ. ໝາຍເຖິງ PDFs, ຈາກນັ້ນບັນທຶກການປ່ຽນແປງຂອງທ່ານ.
 callout-pdfjs-draw-button = ເຂົ້າໃຈແລ້ວ!

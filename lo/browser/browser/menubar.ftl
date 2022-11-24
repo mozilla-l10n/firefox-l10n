@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = ການກຳນົດລັກສະນະ
 menu-application-services =
     .label = ບໍລິການ
 menu-application-hide-this =
@@ -19,6 +21,8 @@ menu-application-hide-other =
     .label = ເຊື່ອງອັນອື່ນໆ
 menu-application-show-all =
     .label = ສະແດງທັງໝົດ
+menu-application-touch-bar =
+    .label = ປັບແຕ່ງແຖບສໍາຜັດ…
 
 ##
 
@@ -200,8 +204,16 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = ບຸກມາກ
     .accesskey = B
+menu-bookmarks-manage =
+    .label = ຈັດການບຸກມາກ
+menu-bookmark-current-tab =
+    .label = ບຸກມາກແທັບປະຈຸບັນ
 menu-bookmark-edit =
     .label = ແກ້ໄຂບຸກມາກນີ້
+menu-bookmark-tab =
+    .label = ບຸກມາກແຖບປັດຈຸບັນ...
+menu-edit-bookmark =
+    .label = ແກ້ໄຂບຸກມາກນີ້...
 menu-bookmarks-all-tabs =
     .label = ບຸກມາກແທັບທັງຫມົດ…
 menu-bookmarks-toolbar =

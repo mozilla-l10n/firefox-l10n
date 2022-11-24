@@ -16,6 +16,12 @@ onboarding-not-now-button-label = ບໍ່ແມ່ນຕອນນີ້
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-add-extension-label = ເພີ່ມສ່ວນເສີມ
+return-to-amo-add-theme-label = ເພີມຕີມ
+
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = ເວົ້າສະບາຍດີກັບ { -brand-short-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -110,4 +116,8 @@ mr2-onboarding-colorway-secondary-button-label = ບໍ່ແມ່ນຕອນ�
 
 
 ## Onboarding spotlight for infrequent users
+
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
 

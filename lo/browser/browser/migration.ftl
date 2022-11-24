@@ -81,6 +81,18 @@ browser-data-cookies-checkbox =
     .label = ຄຸກກີ້
 browser-data-cookies-label =
     .value = ຄຸກກີ້
+browser-data-formdata-checkbox =
+    .label = ບັນທຶກປະຫວັດແບບຟອມ
+browser-data-formdata-label =
+    .value = ບັນທຶກປະຫວັດແບບຟອມ
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 browser-data-session-checkbox =
     .label = ວີນໂດ ແລະ ແທັບ
 browser-data-session-label =

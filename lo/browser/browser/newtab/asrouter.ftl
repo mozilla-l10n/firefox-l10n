@@ -71,6 +71,7 @@ cfr-doorhanger-milestone-close-button = ປິດ
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = ການແຍກໄຊ້
 
 ## Full Video Support CFR message
 

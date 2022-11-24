@@ -465,6 +465,20 @@ urlbar-result-action-search-w-engine = ຄົ້ນຫາດ້ວຍ { $engine 
 urlbar-result-action-sponsored = ໄດ້ຮັບການສະຫນັບສະຫນູນ
 urlbar-result-action-switch-tab = ປ່ຽນໄປຫາແທັບ
 urlbar-result-action-visit = ຢ້ຽມຢາມ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = ກົດ Tab ເພື່ອຊອກຫາ { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = ຊອກຫາດ້ວຍ { $engine } ໂດຍກົງຈາກແຖບທີ່ຢູ່
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = ຊອກຫາ { $engine } ໂດຍກົງຈາກແຖບທີ່ຢູ່
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = ສໍາເນົາ
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -525,6 +539,7 @@ pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບ
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>ບາງສ່ວນຂອງໜ້ານີ້ຂັດຂ້ອງ.</strong> ເພື່ອໃຫ້ { -brand-product-name } ຮູ້ກ່ຽວກັບບັນຫານີ້ ແລະແກ້ໄຂໄດ້ໄວຂຶ້ນ, ກະລຸນາສົ່ງລາຍງານ.
 crashed-subframe-learnmore-link =
     .value = ຮຽນຮູ້ເພີ່ມເຕີມ
 crashed-subframe-submit =

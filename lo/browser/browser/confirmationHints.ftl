@@ -5,4 +5,10 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = ສົ່ງລາຍງານແລ້ວ. ຂອບ​ໃຈ!
+confirmation-hint-login-removed = ລຶບການເຂົ້າສູ່ລະບົບອອກແລ້ວ!
+confirmation-hint-page-bookmarked = ບັນທຶກໃສ່ບຸກມາກແລ້ວ
+confirmation-hint-password-saved = ບັນທຶກລະຫັດຜ່ານແລ້ວ!
+confirmation-hint-pin-tab = ປັກໝຸດແລ້ວ!
+confirmation-hint-pin-tab-description = ຄລິກຂວາໃສ່ແຖບເພື່ອຖອນປັກໝຸດມັນ.
 confirmation-hint-send-to-device = ສົ່ງແລ້ວ!
