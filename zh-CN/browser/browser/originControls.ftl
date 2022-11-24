@@ -30,3 +30,5 @@ origin-controls-state-no-access = 无法读取和更改此网站的数据
 origin-controls-state-always-on = 总能读取和更改此网站的数据
 origin-controls-state-when-clicked = 需点击授权以读取和更改数据
 origin-controls-state-hover-run-visit-only = 仅在此次访问运行
+origin-controls-state-runnable-hover-open = 打开扩展
+origin-controls-state-runnable-hover-run = 运行扩展

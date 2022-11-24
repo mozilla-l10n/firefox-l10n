@@ -25,6 +25,10 @@ return-to-amo-addon-title = 现在来安装 <img data-l10n-name="icon"/><b>{ $ad
 return-to-amo-add-extension-label = 添加扩展
 return-to-amo-add-theme-label = 安装主题
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-add-extension-label = 添加 { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -309,44 +313,30 @@ mr2022-onboarding-colorway-subtitle = 凡人之声，文化之根
 mr2022-onboarding-colorway-primary-button-label-continue = 设置并继续
 mr2022-onboarding-existing-colorway-checkbox-label = 将“{ -firefox-home-brand-name }”设为您的多彩主页
 mr2022-onboarding-colorway-label-default = 默认
-mr2022-onboarding-colorway-tooltip-default =
-    .title = 默认
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = 当前 { -brand-short-name } 配色
 mr2022-onboarding-colorway-description-default = <b>使用我当前的 { -brand-short-name } 颜色。</b>
 mr2022-onboarding-colorway-label-playmaker = 实力派
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = 实力派
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = 实力派（赤）
 mr2022-onboarding-colorway-description-playmaker = <b>您是实力派。</b>您是做事成功的关键，并乐于帮助周围的人一同提升。
 mr2022-onboarding-colorway-label-expressionist = 表现派
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = 表现派
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = 表现派（黄）
 mr2022-onboarding-colorway-description-expressionist = <b>您是表现派。</b>您以不同的方式看待世界，并善用创作引起他人的情感共鸣。
 mr2022-onboarding-colorway-label-visionary = 远见派
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = 远见派
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = 远见派（绿）
 mr2022-onboarding-colorway-description-visionary = <b>您是远见派。</b>您不满足于现状，并带领大家畅想更美好的未来。
 mr2022-onboarding-colorway-label-activist = 行动派
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = 行动派
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = 行动派（蓝）
 mr2022-onboarding-colorway-description-activist = <b>您是行动派。</b>您让世界变得更美好，并引导他人相信亦应如此。
 mr2022-onboarding-colorway-label-dreamer = 理想派
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = 理想派
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = 理想派（紫）
 mr2022-onboarding-colorway-description-dreamer = <b>您是理想派。</b>您相信命运偏爱大胆的人，并激励他人勇敢做自己。
 mr2022-onboarding-colorway-label-innovator = 创新派
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = 创新派
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = 创新派（橙）
 mr2022-onboarding-colorway-description-innovator = <b>您是创新派。</b>您善于捕捉各处机会，并正向影响身边所有人。
