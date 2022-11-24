@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = 安装主题
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = 欢迎使用 { -brand-short-name }
+mr1-return-to-amo-addon-title = 这款快速又隐私的浏览器，已跃然于您的桌面。选择为 { -brand-short-name } 添加“<b>{ $addon-name }</b>”，解锁更多功能。
 mr1-return-to-amo-add-extension-label = 添加 { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
