@@ -30,3 +30,5 @@ origin-controls-state-no-access = Não é possível ler e alterar os dados neste
 origin-controls-state-always-on = Pode ler e alterar sempre os dados neste site
 origin-controls-state-when-clicked = Permissão necessária para ler e alterar os dados
 origin-controls-state-hover-run-visit-only = Executar apenas para esta visita
+origin-controls-state-runnable-hover-open = Abrir extensão
+origin-controls-state-runnable-hover-run = Executar extensão
