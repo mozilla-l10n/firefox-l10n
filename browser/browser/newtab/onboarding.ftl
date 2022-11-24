@@ -25,6 +25,11 @@ return-to-amo-addon-title = Wobstarajće sej nětko <img data-l10n-name="icon"/>
 return-to-amo-add-extension-label = Rozšěrjenje přidać
 return-to-amo-add-theme-label = Drastu přidać
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Witajće k { -brand-short-name }
+mr1-return-to-amo-add-extension-label = { $addon-name } přidać
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -323,44 +328,30 @@ mr2022-onboarding-colorway-subtitle = Njewotwisne hłosy móža kulturu změnić
 mr2022-onboarding-colorway-primary-button-label-continue = Nastajić a pokročować
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } k wašej barbnej startowej stronje činić
 mr2022-onboarding-colorway-label-default = Standard
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Standard
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Aktualne barby { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Moje aktualne barby { -brand-short-name } wužiwać.</b>
 mr2022-onboarding-colorway-label-playmaker = Wodźacy hrajer
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Wodźacy hrajer
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Wodźacy hrajer (čerwjeny)
 mr2022-onboarding-colorway-description-playmaker = <b>Sće wodźacy hrajer.</b> Wutworiće składnosće, zo byšće dobył a kóždemu wokoło was pomhał, jich hru polěpšić.
 mr2022-onboarding-colorway-label-expressionist = Ekspresionist
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Ekspresionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresionist (žołty)
 mr2022-onboarding-colorway-description-expressionist = <b>Sće ekspresionist.</b> Widźiće swět hinak a waše dźěła začuća druhich wodźa.
 mr2022-onboarding-colorway-label-visionary = Wizionar
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Wizionar
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Wizionar (zeleny)
 mr2022-onboarding-colorway-description-visionary = <b>Sće wizionar.</b> Stajeće status quo do prašenja a pohnuwaće druhich, sej lěpši přichod předstajić.
 mr2022-onboarding-colorway-label-activist = Aktiwist
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktiwist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktiwist (módry)
 mr2022-onboarding-colorway-description-activist = <b>Sće aktiwist.</b> Zawostajeće swět jako lěpše městno, hač sće jón namakał a wjedźeće druhich k wěrje.
 mr2022-onboarding-colorway-label-dreamer = Sonjer
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Sonjer
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sonjer (violetny)
 mr2022-onboarding-colorway-description-dreamer = <b>Sće sonjer.</b> Wěriće, zo zbožo zmužiteho preferuje a inspirujeće druhich, zo bychu zmužići byli.
 mr2022-onboarding-colorway-label-innovator = Inowator
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Inowator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Inowator (oranžowy)
 mr2022-onboarding-colorway-description-innovator = <b>Sće inowator.</b> Widźiće wšudźe šansy a wuskutkujeće so na žiwjenja wšěch wokoło was.
@@ -399,3 +390,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Přehladowanje započeć
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-primary-button = Do { -brand-short-name } importować
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
