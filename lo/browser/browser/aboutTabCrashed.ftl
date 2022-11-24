@@ -16,6 +16,7 @@ crashed-request-report-title = ລາຍງານແທັບນີ້
 crashed-send-report-2 = ສົ່ງລາຍງານການຂັດຂ້ອງແບບອັດຕະໂນມັດເພື່ອໃຫ້ພວກເຮົາສາມາດແກ້ໄຂບັນຫາແບບນີ້ໄດ້
 crashed-comment =
     .placeholder = ປະກອບຄຳເຫັນ (ຄຳເຫັນນີ້ແມ່ນທຸກໆຄົນສາມາດເຫັນໄດ້)
+crashed-include-URL-2 = ຮວມເອົາ URL ຂອງເວັບໄຊທີ່ເຈົ້າຢູ່ໃນເມື່ອ { -brand-short-name } ຂັດຂ້ອງ
 crashed-report-sent = ສົ່ງລາຍງານຂໍ້ຂັດຂ້ອງແລ້ວ; ຂອບໃຈທີ່ຊ່ວຍເຮັດ { -brand-short-name } ໃຫ້ດີຂຶ້ນ
 crashed-request-auto-submit-title = ລາຍງານແຖບເບື່ອງຫຼັງ
 crashed-auto-submit-checkbox-2 = ອັບເດດການຕັ້ງຄ່າເພື່ອສົ່ງລາຍງານອັດຕະໂນມັດເມື່ອ { -brand-short-name } ຂັດຂ້ອງ
