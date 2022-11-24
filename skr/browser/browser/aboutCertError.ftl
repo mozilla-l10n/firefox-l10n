@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
+open-in-new-window-for-csp-or-xfo-error = سائٹ نویں ونڈو وچ کھولو
 
 ## Messages used for certificate error titles
 
