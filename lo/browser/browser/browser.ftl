@@ -104,6 +104,8 @@ urlbar-search-tips-confirm-short = ເຂົ້າໃຈແລ້ວ!
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = ເຄັດລັບ:
+urlbar-result-menu-button =
+    .title = ເປີດເມນູ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -123,6 +125,8 @@ urlbar-search-mode-actions = ການກະທຳ
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = ທ່ານໄດ້ບລັອກຂໍ້ມູນສະຖານທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-xr-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກບ່ອນເກັບຂໍ້ມູນຄົງທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-web-notifications-blocked =
@@ -409,6 +413,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = ຕ້ອງລະງັບຕະຫຼອດ
     .accesskey = w
+popup-mute-notifications-checkbox = ປິດການແຈ້ງເຕືອນເວັບໄຊທ໌ໃນຂະນະທີ່ແບ່ງປັນ
 
 ## WebRTC window or screen share tab switch warning
 
