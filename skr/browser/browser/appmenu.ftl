@@ -22,11 +22,17 @@ appmenuitem-help =
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-fullscreen =
+    .label = پوری سکرین
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = کوئی کھلے ٹیب  کائنی
 appmenu-remote-tabs-opensettings =
     .label = ترتیباں
+appmenuitem-fxa-toolbar-sync-now2 = ہݨ ہم وقت کرو
+appmenuitem-fxa-manage-account = کھاتہ منیج کرو
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = سائن ان
 
@@ -69,13 +75,20 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = گرافکس
 profiler-popup-presets-media-label =
     .label = میڈیا
 profiler-popup-presets-networking-label =
     .label = نیٹ ورکنگ
+profiler-popup-presets-custom-label =
+    .label = مخصوص
 
 ## History panel
 
+appmenu-manage-history =
+    .label = تاریخ منیج کرو
+appmenu-reopen-all-tabs = ساریاں ٹیباں کھولو
 
 ## Help panel
 

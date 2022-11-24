@@ -5,6 +5,7 @@
 about-private-browsing-search-btn =
     .title = ویب ڳولو
 about-private-browsing-learn-more-link = ٻیا سِکھو
+about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ کرو
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
