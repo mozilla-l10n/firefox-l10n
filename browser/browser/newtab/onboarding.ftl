@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Bæta við þemanu
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Heilsaðu upp á { -brand-short-name }
+mr1-return-to-amo-addon-title = Þú ert með hraðvirkan persónulegan vafra innan seilingar. Nú geturðu bætt <b>{ $addon-name }</b> við og gert enn meira með { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Bæta við { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
