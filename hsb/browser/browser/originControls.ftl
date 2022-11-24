@@ -28,3 +28,7 @@ origin-controls-option-always-on =
 
 origin-controls-state-no-access = Daty njedadźa so na tutym sydle čitać a změnić
 origin-controls-state-always-on = Daty dadźa so přeco na tutym sydle čitać a změnić
+origin-controls-state-when-clicked = Prawo trěbne, zo byšće móhł daty čitać a změnić
+origin-controls-state-hover-run-visit-only = Jenož za tutón wopyt wuwjesć
+origin-controls-state-runnable-hover-open = Rozšěrjenje wočinić
+origin-controls-state-runnable-hover-run = Rozšěrjenje wuwjesć
