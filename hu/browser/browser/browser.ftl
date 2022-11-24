@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Megértettem!
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tipp:
+urlbar-result-menu-button =
+    .title = Menü megnyitása
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

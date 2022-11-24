@@ -30,3 +30,5 @@ origin-controls-state-no-access = Ezen az oldalon nem tud adatokat olvasni és m
 origin-controls-state-always-on = Ezen az oldalon mindig tud adatokat olvasni és módosítani
 origin-controls-state-when-clicked = Az adatok olvasásához és módosításához engedély szükséges
 origin-controls-state-hover-run-visit-only = Futtatás csak a mostani felkereséskor
+origin-controls-state-runnable-hover-open = Kiegészítő megnyitása
+origin-controls-state-runnable-hover-run = Kiegészítő futtatása
