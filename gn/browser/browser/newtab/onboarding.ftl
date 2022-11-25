@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Embojuaju Téma
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Emomaitei { -brand-short-name }-pe
+mr1-return-to-amo-addon-title = Ereko kundahára ipya’e ha hekoñemíva nde poitépe. Ikatukuaa embojuaju <b>{ $addon-name }</b> ha ejapove { -brand-short-name } ndive.
 mr1-return-to-amo-add-extension-label = Embojuaju { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
