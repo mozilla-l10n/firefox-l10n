@@ -44,7 +44,7 @@ tabbrowser-unmute-tab-audio-tooltip =
     .label =
         { $tabCount ->
             [one] Tabblad dempen opheffen ({ $shortcut })
-           *[other] { $tabCount } tabbladen dempen opheffen ({ $shortcut })
+           *[other] Dempen { $tabCount } tabbladen opheffen ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
@@ -56,7 +56,7 @@ tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
             [one] Tabblad dempen opheffen
-           *[other] { $tabCount } tabbladen dempen opheffen
+           *[other] Dempen { $tabCount } tabbladen opheffen
         }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
