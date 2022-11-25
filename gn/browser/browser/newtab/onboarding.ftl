@@ -363,6 +363,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ombopyahu tapiáva.</b> Oh
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Emoambue mohendahágui pumbyrýpe ha jevýpe
+mr2022-onboarding-mobile-download-subtitle = Erujey umi tendayke mba’e’okágui ha eku’ejey ehejahaguégui. Avei, embojuehe ne ñe’ẽñemi ha techaukaha tenda eipurusehápe { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-product-name } pumbyrýpe g̃uarã térã <a data-l10n-name="download-label">erahauka mboguejyrã juajuha.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-product-name } ne pumbyrýpe.
 
@@ -414,3 +415,5 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Po morotĩ ha po hũ oñembota ojuehe
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Ehechahápe kuarahy reike ovetã guive aguara ha ka’avokuéra ndive
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Mbochiviviha ombosa’y ta’ãnga’aty tesa rovyũ, sapatu narã, pelóta pytã baloncesto-gua, ñehendu’atãha pytãũ, korasõ hovy ha koróna sa’yjúva
