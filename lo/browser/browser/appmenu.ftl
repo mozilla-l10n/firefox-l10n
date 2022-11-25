@@ -134,6 +134,7 @@ profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = ກຣາບຟິກ
+profiler-popup-presets-media-description2 = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການກວດສອບຂໍ້ບົກຜ່ອງທາງສຽງ ແລະວິດີໂອໃນ { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = ສື່
 profiler-popup-presets-networking-label =

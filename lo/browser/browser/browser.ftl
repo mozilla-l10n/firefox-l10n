@@ -349,6 +349,7 @@ identity-ev-owner-label = ໃບຢັ້ງຢືນອອກໃຫ້:
 identity-remove-cert-exception =
     .label = ລຶບຂໍ້ຍົກເວັ້ນ
     .accesskey = R
+identity-description-passive-loaded-insecure = ເວັບໄຊທ໌ນີ້ມີເນື້ອຫາທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ຮູບພາບ). <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
 identity-learn-more =
     .value = ຮຽນຮູ້ເພີ່ມເຕີມ
 identity-disable-mixed-content-blocking =
@@ -722,6 +723,8 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>ເປີດແຖບກ່ອນໜ້າບໍ?</strong> ທ່ານສາມາດຟື້ນຟູເຊສຊັນກ່ອນໜ້າຂອງທ່ານໄດ້ຈາກເມນູແອັບພລິເຄຊັນ { -brand-short-name } <img data-l10n-name="icon"/>, ພາຍໃຕ້ປະຫວັດ.
 restore-session-startup-suggestion-button = ບອກວິທີເຮັດໃຫ້ຂ້ອຍຮູ້
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)

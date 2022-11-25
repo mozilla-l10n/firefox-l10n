@@ -22,6 +22,7 @@ callout-firefox-view-colorways-reminder-title = ສຳຫຼວດສີສັ�
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = ເພີ່ມການທ່ອງເວັບຂອງທ່ານດ້ວຍການຮັບແຖບ
+continuous-onboarding-firefox-view-tab-pickup-subtitle = ເຂົ້າເຖິງແຖບເປີດຂອງທ່ານຈາກອຸປະກອນໃດກໍໄດ້. ນອກຈາກນັ້ນ, ຊິງຄ໌ບຸກມາກ, ລະຫັດຜ່ານ, ແລະອື່ນໆອີກ.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ເລີ່ມຕົ້ນໃຊ້ງານ
 
 ## PDF.js Feature Tour Strings
