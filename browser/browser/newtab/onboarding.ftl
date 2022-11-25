@@ -25,6 +25,12 @@ return-to-amo-addon-title = Litte wy no<img data-l10n-name="icon"/><b>{ $addon-n
 return-to-amo-add-extension-label = De útwreiding tafoegje
 return-to-amo-add-theme-label = It tema tafoegje
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Hertlik wolkom by { -brand-short-name }
+mr1-return-to-amo-addon-title = Jo hawwe in rappe, priveebrowser binnen hânberik. Jo kinne no <b>{ $addon-name }</b> tafoegje en noch mear dwaan mei { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = { $addon-name } tafoegje
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -326,44 +332,30 @@ mr2022-onboarding-colorway-subtitle = Unôfhinklike stimmen kinne kultuer feroar
 mr2022-onboarding-colorway-primary-button-label-continue = Ynstelle en trochgean
 mr2022-onboarding-existing-colorway-checkbox-label = Meitsje fan { -firefox-home-brand-name } jo kleurrike startside
 mr2022-onboarding-colorway-label-default = Standert
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Standert
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Aktuele { -brand-short-name }-kleuren
 mr2022-onboarding-colorway-description-default = <b>Myn aktuele { -brand-short-name }-kleuren brûke.</b>
 mr2022-onboarding-colorway-label-playmaker = Spulmakker
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Spulmakker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Spulmakker (read)
 mr2022-onboarding-colorway-description-playmaker = <b>Jo binne in spulmakker.</b> Jo meitsje kânsen om te winnen en helpe elkenien om jo hinne har spultsje te ferbetterjen.
 mr2022-onboarding-colorway-label-expressionist = Ekspresjonist
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Ekspresjonist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresjonist (giel)
 mr2022-onboarding-colorway-description-expressionist = <b>Jo binne in ekspresjonist.</b> Jo sjogge de wrâld oars en jo kreaasjes reitsje de emoasjes fan oaren.
 mr2022-onboarding-colorway-label-visionary = Fisjonêr
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Fisjonêr
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Fisjonêr (grien)
 mr2022-onboarding-colorway-description-visionary = <b>Jo binne in fisjonêr.</b> Jo twivelje oan de status-quo en stimulearje oaren om harren in bettere takomst foar te stellen.
 mr2022-onboarding-colorway-label-activist = Aktivist
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (blau)
 mr2022-onboarding-colorway-description-activist = <b>Jo binne in aktivist.</b> Jo litte de wrâld moaier efter dan jo it fûn ha en lit oaren leauwe.
 mr2022-onboarding-colorway-label-dreamer = Dreamer
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Dreamer
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Dreamer (pears)
 mr2022-onboarding-colorway-description-dreamer = <b>Jo binne in dreamer.</b> Jo leauwe dat gelok de dappere favoryt is en oaren ynspirearret om dapper te wêzen.
 mr2022-onboarding-colorway-label-innovator = Ynnovator
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Ynnovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Ynnovator (oranje)
 mr2022-onboarding-colorway-description-innovator = <b>Jo binne in ynnovator.</b> Jo sjogge oeral kânsen en hawwe ynfloed op it libben fan elkenien om jo hinne.
