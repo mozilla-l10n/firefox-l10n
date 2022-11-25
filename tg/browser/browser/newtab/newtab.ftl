@@ -195,7 +195,7 @@ newtab-section-header-topsites = Сомонаҳои беҳтарин
 newtab-section-header-recent-activity = Фаъолияти охирин
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = Аз тарафи { $provider } тавсия дода мешавад
+newtab-section-header-pocket = Аз тарафи «{ $provider }» тавсия дода мешавад
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -203,7 +203,7 @@ newtab-empty-section-highlights = Тамошокунии сомонаҳоро о
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Шумо ҳамаро хондед. Барои хондани ҳикояҳои ҷолиби дигар аз { $provider } дертар биёед. Интизор шуда наметавонед? Барои пайдо кардани ҳикояҳои бузург аз саросари Интернет, мавзуи маълумеро интихоб намоед.
+newtab-empty-section-topstories = Шумо ҳамаро хондед. Барои хондани ҳикояҳои ҷолиби дигар аз «{ $provider }» дертар биёед. Интизор шуда наметавонед? Барои пайдо кардани ҳикояҳои бузург аз саросари Интернет, мавзуи маълумеро интихоб намоед.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
