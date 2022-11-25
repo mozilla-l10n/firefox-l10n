@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Håndter udvidelse
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Fastgør til værktøjslinje
 unified-extensions-context-menu-manage-extension =
     .label = Håndter udvidelse
 unified-extensions-context-menu-remove-extension =
