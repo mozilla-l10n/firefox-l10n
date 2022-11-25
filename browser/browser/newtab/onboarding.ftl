@@ -25,6 +25,10 @@ return-to-amo-addon-title = Pertge n'emprovas ti ussa betg <img data-l10n-name="
 return-to-amo-add-extension-label = Agiuntar l'extensiun
 return-to-amo-add-theme-label = Agiuntar il design
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Qua vegn { -brand-short-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -326,44 +330,30 @@ mr2022-onboarding-colorway-subtitle = Vuschs independentas pon midar la societad
 mr2022-onboarding-colorway-primary-button-label-continue = Configurar e cuntinuar
 mr2022-onboarding-existing-colorway-checkbox-label = Utilisescha { -firefox-home-brand-name } per ina pagina da partenza plain colurs
 mr2022-onboarding-colorway-label-default = Standard
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Standard
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Colurs actualas da { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Utilisar mias colurs da { -brand-short-name } actualas.</b>
 mr2022-onboarding-colorway-label-playmaker = Capo
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Capo
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Capo (cotschen)
 mr2022-onboarding-colorway-description-playmaker = <b>Ti es in capo.</b> Ti creeschas occasiuns per gudagnar e gidas mintgin enturn tai da giugar anc meglier.
 mr2022-onboarding-colorway-label-expressionist = Expressiunist
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Expressiunist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressiunist (mellen)
 mr2022-onboarding-colorway-description-expressionist = <b>Ti es in expressiunist.</b> Ti vesas il mund cun auters egls e tias creaziuns sveglian emoziuns.
 mr2022-onboarding-colorway-label-visionary = Visiunari
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visiunari
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visiunari (verd)
 mr2022-onboarding-colorway-description-visionary = <b>Ti es in visiunari.</b> Ti mettas en dumonda il status quo ed animeschas auters da s'imaginar in meglier mund.
 mr2022-onboarding-colorway-label-activist = Activist
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Activist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activist (blau)
 mr2022-onboarding-colorway-description-activist = <b>Ti es in activist.</b> Ti laschas enavos in meglier mund e mussas ad auters da crair en il futur.
 mr2022-onboarding-colorway-label-dreamer = Siemiader
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Siemiader
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Siemiader (violet)
 mr2022-onboarding-colorway-description-dreamer = <b>Ti es ina siemiader.</b> Ti crais ch'il cletg gidia ils giagliards ed inspireschas auters dad esser curaschus.
 mr2022-onboarding-colorway-label-innovator = Innovatur
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Innovatur
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovatura (oransch)
 mr2022-onboarding-colorway-description-innovator = <b>Ti es in innovatur.</b> Ti vesas dapertut ina pussaivladad ed influenzeschas las vitas da las persunas enturn tai.
