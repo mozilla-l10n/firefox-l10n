@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Jau hai chapì
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tip:
+urlbar-result-menu-button =
+    .title = Avrir il menu
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
