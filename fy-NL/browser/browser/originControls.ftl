@@ -30,3 +30,5 @@ origin-controls-state-no-access = Kin gegevens op dizze side net lêze en wizigj
 origin-controls-state-always-on = Kin altyd gegevens op dizze website lêze en wizigje
 origin-controls-state-when-clicked = Tastimming nedich om gegevens te lêzen en te wizigjen
 origin-controls-state-hover-run-visit-only = Allinnich foar dit besyk útfiere
+origin-controls-state-runnable-hover-open = Utwreiding iepenje
+origin-controls-state-runnable-hover-run = Utwreiding útfiere
