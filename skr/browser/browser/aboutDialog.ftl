@@ -11,6 +11,7 @@ update-checkForUpdatesButton =
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
 aboutdialog-help-user = { -brand-product-name } مدد
 aboutdialog-submit-feedback = آپݨی رائے جمع کرواؤ
+bottomLinks-license = لائسنس ڄاݨکاری
 bottomLinks-privacy = رازداری پالیسی
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
