@@ -46,3 +46,7 @@ toolbox-always-on-top-enabled =
     .title = Desactivar l’opcion lo primièr plan auto (aquesta accion reaviarà la bóstia d’aisinas de desvolopament)
 toolbox-always-on-top-disabled =
     .title = Activar l’opcion lo primièr plan auto (aquesta accion reaviarà la bóstia d’aisinas de desvolopament)
+toolbox-always-on-top-enabled2 = Desactivar l’opcion d’afichatge totjorn al primièr plan
+    .title = Reaviarà las aisinas de desvelopament
+toolbox-always-on-top-disabled2 = Activar l’opcion d’afichatge totjorn al primièr plan
+    .title = Reaviarà las aisinas de desvelopament
