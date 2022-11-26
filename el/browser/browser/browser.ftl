@@ -152,6 +152,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = Πληκτρολογήστε λιγότερα, βρείτε περισσότερα: Αναζητήστε μέσω { $engineName } κατευθείαν από τη γραμμή διευθύνσεων.
 urlbar-search-tips-redirect-2 = Ξεκινήστε την αναζήτησή σας στη γραμμή διευθύνσεων για να δείτε προτάσεις από το { $engineName } και το ιστορικό περιήγησής σας.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Η αναζήτηση μόλις έγινε πιο απλή. Δοκιμάστε να κάνετε την αναζήτησή σας πιο συγκεκριμένη εδώ, στη γραμμή διευθύνσεων. Για να εμφανίσετε τη διεύθυνση URL, μεταβείτε στην καρτέλα «Αναζήτηση» στις ρυθμίσεις.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Επιλέξτε αυτήν τη συντόμευση για να βρείτε αυτό που χρειάζεστε, πιο γρήγορα.

@@ -53,6 +53,7 @@ firefoxview-mobile-confirmation-description = Μπορείτε πλέον να �
 firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
 firefoxview-closed-tabs-description2 = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτό το παράθυρο.
 firefoxview-closed-tabs-placeholder = <strong>Δεν έκλεισε καμία σελίδα πρόσφατα</strong><br/>Μην φοβάστε το ενδεχόμενο απώλειας καρτελών. Μπορείτε πάντα να τις ανακτήσετε εδώ.
+firefoxview-closed-tabs-placeholder-body = Όταν κλείσετε μια καρτέλα σε αυτό το παράθυρο, μπορείτε να τη βρείτε εδώ.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
 # Variables:
