@@ -121,9 +121,9 @@ addon-category-discover-title =
 addon-category-extension = Forritsaukar
 addon-category-extension-title =
     .title = Forritsaukar
-addon-category-theme = Þema
+addon-category-theme = Þemu
 addon-category-theme-title =
-    .title = Þema
+    .title = Þemu
 addon-category-plugin = Tengiforrit
 addon-category-plugin-title =
     .title = Tengiforrit
@@ -396,9 +396,9 @@ recommended-theme-1 = Finnst þér þú vera skapandi? <a data-l10n-name="link">
 ## Page headings
 
 extension-heading = Sýsla með forritsaukana þína
-theme-heading = Stjórnborð þema
+theme-heading = Stjórnborð fyrir þemu
 plugin-heading = Stjórnborð tengiforrita
-dictionary-heading = Stjórnborð orðabóka
+dictionary-heading = Stjórnborð orðasafna
 locale-heading = Stjórnborð tungumála
 updates-heading = Sýsla með uppfærslurnar þínar
 sitepermission-heading = Sýsla með heimildir þínar fyrir vefsvæði
