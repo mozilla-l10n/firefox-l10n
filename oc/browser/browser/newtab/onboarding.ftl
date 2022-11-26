@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Apondre lo tèma
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Saludatz { -brand-short-name }
+mr1-return-to-amo-addon-title = Avètz un navegador rapid, privat, a man. Podètz ara apondre <b>{ $addon-name }</b> e encara mai amb { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Apondre { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -407,5 +408,7 @@ mr2022-onboarding-default-image-alt =
     .aria-label = Persona que calinha lo logotipe { -brand-product-name }
 mr2022-onboarding-import-image-alt =
     .aria-label = Persona que condutz una planca a rodetas amb una bóstia d’icòns de logicials
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Granhòtas sautan pels nenufars amb un còdi QR per telecargar { -brand-product-name } per mobil al centre.
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = La bagueta magica fa sortir lo logotipe de navegacion privada de { -brand-product-name } d’un capèl
