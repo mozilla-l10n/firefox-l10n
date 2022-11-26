@@ -20,8 +20,14 @@ about-logins-menu-menuitem-help = مدد
 ## Login List
 
 login-list-item-title-new-login = نواں لاگ ان
+login-list-item-subtitle-new-login = آپݨی لاگ ان سنداں درج کرو
+login-list-item-subtitle-missing-username = (ورتݨ ناں کوئی کائنی)
+about-logins-list-item-breach-icon =
+    .title = بریچ تھئی ویب سائٹ
 about-logins-list-item-vulnerable-password-icon =
     .title = کمزور پاسورڈ
+about-logins-list-section-breach = خلاف ورزی کرݨ آلیاں ویب سائٹاں
+about-logins-list-section-vulnerable = کمزور پاسورڈ
 about-logins-list-section-today = اڄ
 about-logins-list-section-yesterday = کل
 about-logins-list-section-week = چھیکڑی ٧ ݙین٘ہ
@@ -38,6 +44,8 @@ login-item-origin-label = ویب سائٹ پتہ
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ورتݨ ناں
+about-logins-login-item-username =
+    .placeholder = (ورتݨ ناں کوئی کائنی)
 login-item-copy-username-button-text = نقل کرو
 login-item-copied-username-button-text = نقل تھی ڳیا!
 login-item-password-label = پاس ورڈ
@@ -81,6 +89,7 @@ confirm-discard-changes-dialog-confirm-button = کڈھ سٹو
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ویب سائٹ بریچ
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } تے ون٘ڄو

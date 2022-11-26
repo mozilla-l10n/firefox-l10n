@@ -8,20 +8,25 @@
 
 ## about:pocket-saved panel
 
+pocket-panel-saved-page-removed = ورقہ ہٹا ݙتا ڳیا
 pocket-panel-saved-page-saved = { -pocket-brand-name } وچ محفوظ تھیا
 pocket-panel-saved-page-saved-b = { -pocket-brand-name } وچ محفوظ تھیا!
 pocket-panel-saved-remove-page = ورقہ ہٹاؤ
 pocket-panel-saved-save-tags = محفوظ
+pocket-panel-saved-saving-tags = محفوظ کریندا پئے۔۔۔
+pocket-panel-signup-view-list = تندیر ݙیکھو
 
 ## about:pocket-signup panel
 
 pocket-panel-signup-learn-more = ٻیا سِکھو
 pocket-panel-signup-login = لاگ ان
+pocket-panel-signup-signup-email = ای میل نال سائن اپ کرو
 pocket-panel-signup-signup-firefox = { -brand-product-name } نال سائن اپ تھیوو
 
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = میݙی تندیر
+pocket-panel-home-discover-more = ٻیاں لبھو
 pocket-panel-home-explore-more = پھلورو
 
 ## Pocket panel header component

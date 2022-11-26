@@ -17,6 +17,8 @@ appmenuitem-downloads =
     .label = ڈاؤن لوڈاں
 appmenuitem-passwords =
     .label = پاس ورڈز
+appmenuitem-zoom =
+    .value = زوم
 appmenuitem-help =
     .label = مدد
 # Settings is now used to access the browser settings across all platforms,
@@ -101,6 +103,9 @@ profiler-popup-presets-custom-label =
 appmenu-manage-history =
     .label = تاریخ منیج کرو
 appmenu-reopen-all-tabs = ساریاں ٹیباں کھولو
+appmenu-recent-history-subheader = حالیہ تاریخ
+appmenu-recently-closed-tabs =
+    .label = حالیہ بند تھیاں ٹیباں
 
 ## Help panel
 
