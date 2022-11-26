@@ -27,6 +27,7 @@ return-to-amo-add-theme-label = Προσθήκη θέματος
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Πείτε «γεια» στο { -brand-short-name }
 mr1-return-to-amo-addon-title = Έχετε ένα γρήγορο, ιδιωτικό πρόγραμμα περιήγησης στα χέρια σας. Μπορείτε να προσθέσετε το <b>{ $addon-name }</b> και να κάνετε ακόμα περισσότερα με το { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Προσθήκη του { $addon-name }
 
@@ -416,3 +417,5 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Ανοιχτόχρωμα και σκουρόχρωμα χέρια που κάνουν χειρονομία «κόλλα πέντε»
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Άποψη ενός ηλιοβασιλέματος μέσα από ένα παράθυρο με μια αλεπού και ένα φυτό σε περβάζι
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Ένα χέρι ζωγραφίζει με σπρέι ένα πολύχρωμο κολάζ με ένα πράσινο μάτι, ένα πορτοκαλί παπούτσι, μια κόκκινη μπάλα μπάσκετ, μωβ ακουστικά, μια μπλε καρδιά και ένα κίτρινο στέμμα
