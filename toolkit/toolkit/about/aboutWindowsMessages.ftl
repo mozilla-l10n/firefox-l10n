@@ -9,4 +9,12 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+# Windows refers to the operating system
+windows-messages-page-title = Πληροφορίες μηνυμάτων των Windows
+windows-messages-intro =
+    Αυτή η σελίδα εμφανίζει τα πιο πρόσφατα μηνύματα που στέλνουν τα Windows
+    στα παράθυρα του { -brand-short-name }. Η καταχώρηση με έντονη γραφή
+    αντιπροσωπεύει αυτό το παράθυρο. Σημειώστε ότι αυτή η σελίδα εμφανίζει
+    τα πιο πρόσφατα μηνύματα τη στιγμή που φορτώθηκε η σελίδα· για να
+    δείτε τα τρέχοντα, θα χρειαστεί να ανανεώσετε τη σελίδα.
 windows-messages-copy-to-clipboard = Αντιγραφή στο πρόχειρο
