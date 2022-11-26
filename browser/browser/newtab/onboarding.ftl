@@ -412,3 +412,5 @@ mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Granhòtas sautan pels nenufars amb un còdi QR per telecargar { -brand-product-name } per mobil al centre.
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = La bagueta magica fa sortir lo logotipe de navegacion privada de { -brand-product-name } d’un capèl
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Mans picants una a la pèl clara e una moreta
