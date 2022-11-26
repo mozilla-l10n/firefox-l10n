@@ -220,3 +220,7 @@ firefoxview-spotlight-promo-secondarybutton = Παράλειψη
 
 colorways-cfr-primarybutton = Επιλογή χρωματικού συνδυασμού
     .accesskey = Ε
+colorways-cfr-header-28days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν στις 16 Ιανουαρίου
+colorways-cfr-header-14days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν σε δύο εβδομάδες
+colorways-cfr-header-7days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν αυτήν την εβδομάδα
+colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν σήμερα

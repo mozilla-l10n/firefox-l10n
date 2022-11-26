@@ -21,6 +21,7 @@ styleeditor-save-button = Αποθήκευση
 styleeditor-options-button =
     .tooltiptext = Επιλογές επεξεργασίας στυλ
 styleeditor-media-rules = Κανόνες @media
+styleeditor-at-rules = Κανόνες «At»
 styleeditor-editor-textbox =
     .data-placeholder = Πληκτρολογήστε CSS εδώ.
 styleeditor-no-stylesheet = Αυτή η σελίδα δεν έχει φύλλο στυλ.
