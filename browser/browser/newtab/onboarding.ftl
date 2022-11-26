@@ -414,3 +414,7 @@ mr2022-onboarding-pin-private-image-alt =
     .aria-label = La bagueta magica fa sortir lo logotipe de navegacion privada de { -brand-product-name } d’un capèl
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Mans picants una a la pèl clara e una moreta
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vista d’un solelh que cabussa per una fenèstra amb un rainal e un pòt de flors sul rebòrd d’una fenèstra
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Bomba de pintura colora un empegatge d’un uèlh verd, d’una cauçadura iranja, d’una palma de basquet roge, d’un casc de musica violet, d’un còr blau e d’una corona jauna
