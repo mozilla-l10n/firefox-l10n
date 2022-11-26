@@ -152,6 +152,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = Tipee menos, encuentre más: Busque { $engineName } desde la misma barra de direcciones.
 urlbar-search-tips-redirect-2 = Inicie su búsqueda en la barra de direcciones para ver sugerencias de { $engineName } y su historial de navegación.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = La búsqueda ahora es más simple. Intente hacer su búsqueda más específica en la barra de direcciones. Para mostrar la URL en su lugar, vaya a Buscar en la configuración.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seleccione este atajo de tecaldo para encontrar más rápido lo que necesita.
