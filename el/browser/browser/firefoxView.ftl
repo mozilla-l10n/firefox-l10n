@@ -42,8 +42,10 @@ firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
 firefoxview-tabpickup-sync-disconnected-header = Ενεργοποιήστε τον συγχρονισμό για να συνεχίσετε
 firefoxview-tabpickup-sync-disconnected-description = Για να λάβετε τις καρτέλες σας, θα πρέπει να επιτρέψετε τον συγχρονισμό στο { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Ενεργοποιήστε τον συγχρονισμό στις ρυθμίσεις
+firefoxview-tabpickup-password-locked-header = Εισαγάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις καρτέλες
 firefoxview-tabpickup-password-locked-description = Για να λάβετε τις καρτέλες σας, θα πρέπει να εισαγάγετε τον κύριο κωδικό πρόσβασης του { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Μάθετε περισσότερα
+firefoxview-tabpickup-password-locked-primarybutton = Εισαγωγή κύριου κωδικού πρόσβασης
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
 firefoxview-mobile-promo-description = Για να δείτε τις πρόσφατες καρτέλες από την κινητή σας συσκευή, συνδεθείτε στο { -brand-product-name } για iOS ή Android.
@@ -53,6 +55,7 @@ firefoxview-mobile-confirmation-description = Μπορείτε πλέον να �
 firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
 firefoxview-closed-tabs-description2 = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτό το παράθυρο.
 firefoxview-closed-tabs-placeholder = <strong>Δεν έκλεισε καμία σελίδα πρόσφατα</strong><br/>Μην φοβάστε το ενδεχόμενο απώλειας καρτελών. Μπορείτε πάντα να τις ανακτήσετε εδώ.
+firefoxview-closed-tabs-placeholder-header = Καμία πρόσφατα κλεισμένη καρτέλα
 firefoxview-closed-tabs-placeholder-body = Όταν κλείσετε μια καρτέλα σε αυτό το παράθυρο, μπορείτε να τη βρείτε εδώ.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
@@ -68,6 +71,8 @@ firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδ�
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Δεν υπάρχει τίποτα ακόμα</strong><br/>Την επόμενη φορά που θα ανοίξετε μια σελίδα στο { -brand-product-name } μιας άλλης συσκευής, αυτή θα εμφανιστεί μαγικά εδώ.
+firefoxview-synced-tabs-placeholder-header = Δεν υπάρχει τίποτα ακόμα
+firefoxview-synced-tabs-placeholder-body = Την επόμενη φορά που θα ανοίξετε μια σελίδα στο { -brand-product-name } σε άλλη συσκευή, θα τη λάβετε εδώ ως δια μαγείας.
 firefoxview-collapse-button-show =
     .title = Εμφάνιση λίστας
 firefoxview-collapse-button-hide =

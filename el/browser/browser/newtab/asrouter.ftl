@@ -220,6 +220,8 @@ firefoxview-spotlight-promo-secondarybutton = Παράλειψη
 
 colorways-cfr-primarybutton = Επιλογή χρωματικού συνδυασμού
     .accesskey = Ε
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Δώστε χρώμα στο πρόγραμμα περιήγησής σας με τις αποκλειστικές αποχρώσεις του { -brand-short-name }, εμπνευσμένες από φωνές που άλλαξαν τον πολιτισμό.
 colorways-cfr-header-28days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν στις 16 Ιανουαρίου
 colorways-cfr-header-14days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν σε δύο εβδομάδες
 colorways-cfr-header-7days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν αυτήν την εβδομάδα
