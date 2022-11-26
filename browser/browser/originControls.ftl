@@ -14,7 +14,21 @@ origin-controls-options =
     .label = Η επέκταση μπορεί να διαβάσει και να αλλάξει δεδομένα:
 origin-controls-option-all-domains =
     .label = Σε όλους τους ιστοτόπους
+origin-controls-option-when-clicked =
+    .label = Μόνο όταν γίνεται κλικ
+# This string denotes an option that grants the extension access to
+# the current site whenever they visit it.
+# Variables:
+#   $domain (String) - The domain for which the access is granted.
+origin-controls-option-always-on =
+    .label = Να επιτρέπεται πάντα στο { $domain }
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = Δεν μπορεί να διαβάζει και να αλλάζει δεδομένα σε αυτόν τον ιστότοπο
+origin-controls-state-always-on = Μπορεί πάντα να διαβάζει και να αλλάζει δεδομένα σε αυτόν τον ιστότοπο
+origin-controls-state-when-clicked = Απαιτείται άδεια για ανάγνωση και αλλαγή δεδομένων
+origin-controls-state-hover-run-visit-only = Εκτέλεση μόνο για αυτήν την επίσκεψη
+origin-controls-state-runnable-hover-open = Άνοιγμα επέκτασης
+origin-controls-state-runnable-hover-run = Εκτέλεση επέκτασης
