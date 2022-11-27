@@ -15,7 +15,7 @@ origin-controls-options =
 origin-controls-option-all-domains =
     .label = На всех страницах
 origin-controls-option-when-clicked =
-    .label = Только при нажатии
+    .label = Только при щелчке
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:

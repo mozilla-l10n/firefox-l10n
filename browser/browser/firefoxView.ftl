@@ -56,7 +56,7 @@ firefoxview-closed-tabs-title = Недавно закрытые
 firefoxview-closed-tabs-description2 = Заново открыть страницы, которые вы закрыли в этом окне.
 firefoxview-closed-tabs-placeholder = <strong>Нет недавно закрытых страниц</strong><br/>Не бойтесь снова потерять закрытую вкладку. Вы всегда сможете восстановить её здесь.
 firefoxview-closed-tabs-placeholder-header = Нет недавно закрытых вкладок
-firefoxview-closed-tabs-placeholder-body = Когда вы закрываете вкладку в этом окне, вы можете извлечь её отсюда.
+firefoxview-closed-tabs-placeholder-body = Когда вы закрываете вкладку в этом окне, вы можете восстановить её здесь.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Последняя активная
 # Variables:
