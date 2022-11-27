@@ -28,6 +28,7 @@ callout-firefox-view-colorways-reminder-subtitle = Colore il to navigadôr cun c
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Miore la tô navigazion cun Ripie schede
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Scomence
 
 ## PDF.js Feature Tour Strings
 
