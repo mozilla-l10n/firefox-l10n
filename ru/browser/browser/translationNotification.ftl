@@ -55,7 +55,7 @@ translation-notification-error-translating =
 translation-notification-try-again-button =
     .label = Попробовать снова
 translation-notification-service-unavailable =
-    .value = В данный момент перевод не доступен. Пожалуйста, повторите попытку позже.
+    .value = В данное время перевод не доступен. Пожалуйста, повторите попытку позже.
 translation-notification-options-menu =
     .label = Настройки
 
