@@ -309,6 +309,9 @@ quickactions-cmd-screenshot = snímek obrazovky, stránky
 # Opens about:preferences
 quickactions-settings = Otevřít nastavení
 quickactions-cmd-settings = nastavení, předvolby, možnosti
+# Opens about:addons page in the themes section
+quickactions-themes = Nastavení vzhledu
+quickactions-cmd-themes = motivy vzhledu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update =
     { -brand-short-name.gender ->
@@ -321,6 +324,9 @@ quickactions-cmd-update = aktualizace, aktualizovat
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Zobrazit zdrojový kód
 quickactions-cmd-viewsource = zdrojový kód
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Zjistit více o rychlých akcích
 
 ## Bookmark Panel
 
