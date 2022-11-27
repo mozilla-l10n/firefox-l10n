@@ -185,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture = Chcete serveru { $origin } povolit
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } poslouchat zvuky z tohoto panelu?
 webrtc-allow-share-camera-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat vaši webkameru?
 webrtc-allow-share-microphone-unsafe-delegations = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat váš mikrofon?
 webrtc-allow-share-screen-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } vidět vaši obrazovku?
@@ -234,6 +235,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Vždy blokovat
     .accesskey = V
+webrtc-action-not-now =
+    .label = Teď ne
+    .accesskey = n
 
 ##
 
