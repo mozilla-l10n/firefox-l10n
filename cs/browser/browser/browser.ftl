@@ -38,6 +38,20 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Anonymní prohlížení)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Anonymní prohlížení)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — anonymní prohlížení
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } — anonymní prohlížení
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -62,6 +76,9 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } — anonymní prohlížení
 
 ##
 

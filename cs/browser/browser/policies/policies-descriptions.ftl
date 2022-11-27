@@ -156,6 +156,7 @@ policy-SSLVersionMax = Nastavení maximální verze SSL.
 policy-SSLVersionMin = Nastavení minimální verze SSL.
 policy-SupportMenu = Přidání vlastní položky nabídky s nápovědou.
 policy-UserMessaging = Nezobrazovat uživateli určité zprávy.
+policy-UseSystemPrintDialog = Vytisknout pomocí systémového dialogu.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informací o formátu najdete v dokumentaci.
 policy-Windows10SSO = Povolení jednotného přihlašování Windows pro pracovní a školní účty a účty Microsoft.
