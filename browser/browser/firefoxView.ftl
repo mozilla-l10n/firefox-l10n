@@ -72,6 +72,7 @@ firefoxview-change-colorway-button = Renk kuşağını değiştir
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Henüz burada bir şey yok</strong><br/>Başka bir cihazdaki { -brand-product-name } tarayıcınızda bir sayfa açtığınızda burada görünecek.
 firefoxview-synced-tabs-placeholder-header = Henüz görülecek bir şey yok
+firefoxview-synced-tabs-placeholder-body = Başka bir cihazdaki { -brand-product-name } tarayıcınızda bir sayfa açtığınızda o sayfayı burada görebilirsiniz.
 firefoxview-collapse-button-show =
     .title = Listeyi göster
 firefoxview-collapse-button-hide =
