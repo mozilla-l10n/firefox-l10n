@@ -21,6 +21,7 @@ experimental-features-media-jxl-description = Бұл мүмкіндік іске
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: құрастырылатын стильдер кестелері
+experimental-features-css-constructable-stylesheets-description = <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> интерфейсіне құрастырғышты қосу, сондай-ақ оған қатысты әртүрлі өзгертулер HTML ішіне парақты қоспай-ақ жаңа стиль кестелерін тікелей жасауға мүмкіндік береді. Бұл <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> құралымен пайдалану үшін қайта пайдалануға болатын стильдер кестелерін жасауды әлдеқайда жеңілдетеді. Қосымша мәліметтер алу үшін <a data-l10n-name="bugzilla">1520690 ақаулығы</a> бөлімін қараңыз.
 experimental-features-devtools-compatibility-panel =
     .label = Әзірлеуші құралдары: үйлесімділік панелі
 experimental-features-devtools-compatibility-panel-description = Қолданбаңыздың браузераралық үйлесімділік күйін көрсететін Бет бақылаушысының бүйір панелі. Қосымша мәліметтер алу үшін <a data-l10n-name="bugzilla">1584464 ақаулығы</a> бөлімін қараңыз.
