@@ -513,6 +513,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Par doprâ lis scurtis F12, vierç prime i struments di disvilup cul menù “Svilupadôr Web”.
+enable-devtools-popup-description2 = Par doprâ la scurte F12, prime vierç DevTools midiant il menù Struments dal navigadôr.
 
 ## URL Bar
 
@@ -647,6 +648,12 @@ urlbar-group-quickactions =
 
 ## Reader View toolbar buttons
 
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = Jentre te Viodude di leture
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = Siere la Viodude di leture
 
 ## Full Screen and Pointer Lock UI
 
@@ -722,6 +729,8 @@ bookmarks-tools =
     .label = Struments par meti tai segnelibris
 bookmarks-bookmark-edit-panel =
     .label = Modifiche chest segnelibri
+bookmarks-subview-edit-bookmark =
+    .label = Modifiche chest segnelibri…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -738,6 +747,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Met tai segnelibris cheste schede
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Met tai segnelibris cheste schede…
 
 ## Library Panel items
 
