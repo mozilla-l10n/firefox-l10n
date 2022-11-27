@@ -25,6 +25,12 @@ return-to-amo-addon-title = Ahora obtenga <img data-l10n-name="icon"/> <b>{ $add
 return-to-amo-add-extension-label = Añadir la extensión
 return-to-amo-add-theme-label = Añadir el tema
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Salude a { -brand-short-name }
+mr1-return-to-amo-addon-title = Tiene un navegador rápido y privado al alcance de su mano. Ahora puede añadir <b>{ $addon-name }</b> y hacer aún más con { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Añadir { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -325,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = Las voces independientes pueden cambiar la
 mr2022-onboarding-colorway-primary-button-label-continue = Establecer y continuar
 mr2022-onboarding-existing-colorway-checkbox-label = Hacer de { -firefox-home-brand-name } su colorida página de inicio
 mr2022-onboarding-colorway-label-default = Predeterminado
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Predeterminado
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Colores actuales de { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Seguir usando mis colores actuales de { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Creador de juego
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Creador de juego
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Creador de juego (rojo)
 mr2022-onboarding-colorway-description-playmaker = <b>Usted es un creador de juego.</b> Usted crea oportunidades para ganar y ayudar a los que le rodean a mejorar su juego.
 mr2022-onboarding-colorway-label-expressionist = Expresionista
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Expresionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expresionista (amarillo)
 mr2022-onboarding-colorway-description-expressionist = <b>Usted es un expresionista.</b> Ve el mundo de manera diferente y sus creaciones despiertan emociones en los demás.
 mr2022-onboarding-colorway-label-visionary = Visionario
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visionario
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionario (verde)
 mr2022-onboarding-colorway-description-visionary = <b>Usted es un visionario</b> Cuestiona el status quo y mueve a otros a imaginar un futuro mejor.
 mr2022-onboarding-colorway-label-activist = Activista
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Activista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activista (azul)
 mr2022-onboarding-colorway-description-activist = <b>Usted es un activista</b> Deja el mundo como un lugar mejor de lo que lo encontró y convence a otros a creer en el cambio.
 mr2022-onboarding-colorway-label-dreamer = Soñador
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Soñador
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Soñador (púrpura)
 mr2022-onboarding-colorway-description-dreamer = <b>Usted es un soñador.</b> Cree que la suerte favorece a los audaces e inspira a otros a ser valientes.
 mr2022-onboarding-colorway-label-innovator = Innovador
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Innovador
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovador (naranja)
 mr2022-onboarding-colorway-description-innovator = <b>Usted es un innovador.</b> Ve oportunidades en todas partes y tiene un impacto en la vida de los que le rodean.
