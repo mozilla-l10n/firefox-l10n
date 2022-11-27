@@ -29,7 +29,13 @@ neterror-view-certificate-link = Zobrazit certifikát
 ##
 
 neterror-pref-reset = Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?
-neterror-error-reporting-automatic = Hlásit chyby jako je tato a pomoci tak organizaci { -vendor-short-name } identifikovat a blokovat škodlivé stránky
+neterror-error-reporting-automatic =
+    { -vendor-short-name.gender ->
+        [masculine] Hlásit chyby jako je tato a pomoci tak { -vendor-short-name(case: "dat") } identifikovat a blokovat škodlivé stránky
+        [feminine] Hlásit chyby jako je tato a pomoci tak { -vendor-short-name(case: "dat") } identifikovat a blokovat škodlivé stránky
+        [neuter] Hlásit chyby jako je tato a pomoci tak { -vendor-short-name(case: "dat") } identifikovat a blokovat škodlivé stránky
+       *[other] Hlásit chyby jako je tato a pomoci tak organizaci { -vendor-short-name } identifikovat a blokovat škodlivé stránky
+    }
 
 ## Specific error messages
 
@@ -45,7 +51,13 @@ neterror-unknown-protocol = Pro otevření této adresy budete patrně potřebov
 neterror-redirect-loop = Tento problém může být způsoben zakázáním nebo odmítnutím cookies.
 neterror-unknown-socket-type-psm-installed = Zkontrolujte, že je ve vašem systému nainstalován Personal Security Manager.
 neterror-unknown-socket-type-server-config = Tato chyba může být také způsobena nestandardní konfigurací serveru.
-neterror-not-cached-intro = Požadovaný dokument už není dostupný v mezipaměti aplikace { -brand-short-name }.
+neterror-not-cached-intro =
+    { -brand-short-name.gender ->
+        [masculine] Požadovaný dokument už není dostupný v mezipaměti { -brand-short-name(case: "gen") }.
+        [feminine] Požadovaný dokument už není dostupný v mezipaměti { -brand-short-name(case: "gen") }.
+        [neuter] Požadovaný dokument už není dostupný v mezipaměti { -brand-short-name(case: "gen") }.
+       *[other] Požadovaný dokument už není dostupný v mezipaměti aplikace { -brand-short-name }.
+    }
 neterror-not-cached-sensitive = Z bezpečnostních důvodů { -brand-short-name } automaticky nestahuje důvěrné dokumenty.
 neterror-not-cached-try-again = Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.
 neterror-net-offline = Pro přechod do režimu online a opětovné načtení stránky klepněte na tlačítko „Zkusit znovu“.
@@ -60,10 +72,22 @@ neterror-nss-failure-not-verified = Požadovanou stránku nelze zobrazit, proto�
 neterror-nss-failure-contact-website = Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = Aplikace { -brand-short-name } zjistila možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetla. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit zcizit vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+certerror-intro =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zjistil možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetl. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit zcizit vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+        [feminine] { -brand-short-name } zjistila možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetla. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit zcizit vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+        [neuter] { -brand-short-name } zjistilo možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetlo. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit zcizit vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+       *[other] Aplikace { -brand-short-name } zjistila možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetla. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit zcizit vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+    }
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-sts-intro = Aplikace { -brand-short-name } zjistila možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetla, protože tato stránka vyžaduje zabezpečené spojení.
+certerror-sts-intro =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zjistil možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetl, protože tato stránka vyžaduje zabezpečené spojení.
+        [feminine] { -brand-short-name } zjistila možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetla, protože tato stránka vyžaduje zabezpečené spojení.
+        [neuter] { -brand-short-name } zjistilo možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetlo, protože tato stránka vyžaduje zabezpečené spojení.
+       *[other] Aplikace { -brand-short-name } zjistila možné ohrožení bezpečnosti a stránku na serveru <b>{ $hostname }</b> nenačetla, protože tato stránka vyžaduje zabezpečené spojení.
+    }
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro = Aplikace { -brand-short-name } zjistila problém a stránku na serveru <b>{ $hostname }</b> nenačetla. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
@@ -83,7 +107,13 @@ neterror-inadequate-security-code = Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
+neterror-clock-skew-error =
+    { -brand-short-name.gender ->
+        [masculine] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
+        [feminine] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
+        [neuter] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
+       *[other] Datum ve vašem počítači je nesprávně nastaveno na { DATETIME($now, dateStyle: "medium") }, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <b>{ $hostname }</b> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a znovu načtěte tuto stránku.
+    }
 neterror-network-protocol-error-intro = Požadovanou stránku nelze zobrazit, protože došlo k chybě v síťovém protokolu.
 neterror-network-protocol-error-contact-website = Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.
 certerror-expired-cert-second-para = Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
