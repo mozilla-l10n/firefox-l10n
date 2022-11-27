@@ -99,6 +99,16 @@ perftools-thread-task-controller =
     .title = TaskController ағындар пулының ағындары
 perftools-thread-jvm-gecko =
     .title = Негізгі Gecko JVM ағыны
+perftools-thread-jvm-nimbus =
+    .title = Nimbus SDK тәжірибелері үшін негізгі ағындар
+perftools-thread-jvm-default-dispatcher =
+    .title = Kotlin қосалқы программалар кітапханасы үшін үнсіз келісім бойынша диспетчері
+perftools-thread-jvm-glean =
+    .title = Glean SDK телеметриясы үшін негізгі ағындар
+perftools-thread-jvm-arch-disk-io =
+    .title = Kotlin қосалқы программалар кітапханасы үшін енгізу-шығару диспетчері
+perftools-thread-jvm-pool =
+    .title = Аты жоқ ағын пулында жасалған ағындар
 
 ##
 
@@ -132,6 +142,7 @@ perftools-presets-networking-label = Желі
 perftools-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Эл. қорегі
+perftools-presets-power-description = { -brand-shorter-name } ішінде эл. қорегін қолдану ақаулықтарын зерттеуге арналған баптаулар жиынтығы, қосымша жүктемесі аз.
 perftools-presets-custom-label = Таңдауыңызша
 
 ##
