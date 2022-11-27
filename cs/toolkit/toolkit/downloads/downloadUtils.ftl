@@ -3,33 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Short form for seconds
-download-utils-short-seconds =
-    { $timeValue ->
-        [one] s
-        [few] s
-       *[other] s
-    }
+download-utils-short-seconds = s
 # Short form for minutes
-download-utils-short-minutes =
-    { $timeValue ->
-        [one] m
-        [few] m
-       *[other] m
-    }
+download-utils-short-minutes = m
 # Short form for hours
-download-utils-short-hours =
-    { $timeValue ->
-        [one] h
-        [few] h
-       *[other] h
-    }
+download-utils-short-hours = h
 # Short form for days
-download-utils-short-days =
-    { $timeValue ->
-        [one] d
-        [few] d
-       *[other] d
-    }
+download-utils-short-days = d
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:

@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title =
     Ukazatel sdílení { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -77,9 +75,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Sdílíte svou kameru. Pro úpravu sdílení klepněte zde.
 webrtc-microphone-system-menu =
@@ -204,7 +199,13 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chcete serveru {
 ##
 
 webrtc-share-screen-warning = Obrazovku sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
-webrtc-share-browser-warning = Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+webrtc-share-browser-warning =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+        [feminine] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+        [neuter] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+       *[other] Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+    }
 webrtc-share-screen-learn-more = Zjistit více
 webrtc-pick-window-or-screen = Vyberte okno nebo obrazovku
 webrtc-share-entire-screen = Celou obrazovku

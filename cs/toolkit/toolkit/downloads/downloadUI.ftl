@@ -17,11 +17,7 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Pokud teď skončíte, bude zrušeno stahování jednoho souboru. Opravdu chcete skončit?
        *[other] Pokud teď skončíte, bude zrušeno stahování { $downloadsCount } souborů. Opravdu chcete skončit?
     }
-download-ui-dont-quit-button =
-    { PLATFORM() ->
-        [mac] Neskončit
-       *[other] Neskončit
-    }
+download-ui-dont-quit-button = Neskončit
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Pokud přejdete do režimu offline, bude zrušeno stahování souboru. Opravdu chcete přejít do režimu offline?

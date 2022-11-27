@@ -48,4 +48,4 @@ about-reader-font-type-sans-serif = Bezpatkové
 
 about-reader-toolbar-close = Zavřít zobrazení čtečky
 about-reader-toolbar-type-controls = Nastavení vzhledu
-about-reader-toolbar-savetopocket = Uložit do služby { -pocket-brand-name }
+about-reader-toolbar-savetopocket = Uložit do { -pocket-brand-name(case: "gen") }
