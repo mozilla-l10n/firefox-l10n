@@ -22,14 +22,12 @@ about-private-browsing-not-private = Сейчас вы не в приватно�
 about-private-browsing-info-description-private-window = Приватное окно: { -brand-short-name } удаляет историю поиска и просмотра при закрытии всех приватных окон. Это не делает вас анонимными.
 about-private-browsing-info-description-simplified = { -brand-short-name } удаляет историю поиска и просмотра при закрытии всех приватных окон, но это не делает вас анонимными.
 about-private-browsing-learn-more-link = Подробнее
-
 about-private-browsing-hide-activity = Скрывайте свою активность и местоположение в любой части Интернета
 about-private-browsing-get-privacy = Получите защиту приватности в любой части Интернета
 about-private-browsing-hide-activity-1 = Скрывайте активность и местоположение в любой части Интернета с помощью { -mozilla-vpn-brand-name }. Одним щелчком мыши создавайте безопасное соединение даже при использовании общедоступной сети Wi-Fi.
 about-private-browsing-prominent-cta = Сохраняйте приватность с { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Загрузить { -focus-brand-name }
-about-private-browsing-focus-promo-header = { -focus-brand-name }: Приватный веб-сёрфинг на лету
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Приватный просмотр сети на лету
 about-private-browsing-focus-promo-text = Наше специальное мобильное приложение для приватного просмотра каждый раз удаляет вашу историю и куки.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Приватный просмот�
 about-private-browsing-focus-promo-text-b = Используйте { -focus-brand-name }, когда не хотите сохранять свой поиск в основном мобильном браузере.
 about-private-browsing-focus-promo-header-c = Новый уровень приватности на мобильных устройствах
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } каждый раз стирает вашу историю, блокируя при этом рекламу и трекеры.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Закрыть
-
 about-private-browsing-promo-close-button =
     .title = Закрыть
 
@@ -63,4 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Добавить в Dock
        *[other] Закрепить на панели задач
     }
-about-private-browsing-pin-promo-title = Никаких сохранённых кук или истории, прямо с вашего рабочего стола. Сёрфите так, как будто никто не смотрит.
+about-private-browsing-pin-promo-title = Никаких сохранённых кук или истории, прямо с вашего рабочего стола. Просматривайте сеть так, как будто никто не смотрит.

@@ -11,7 +11,7 @@
 ## Welcome page strings
 
 onboarding-welcome-header = Добро пожаловать в { -brand-short-name }
-onboarding-start-browsing-button-label = Начать веб-сёрфинг
+onboarding-start-browsing-button-label = Начать просмотр сети
 onboarding-not-now-button-label = Не сейчас
 
 ## Custom Return To AMO onboarding strings
@@ -24,6 +24,12 @@ return-to-amo-subtitle = Отлично, вы установили { -brand-shor
 return-to-amo-addon-title = Теперь давайте установим <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Добавить расширение
 return-to-amo-add-theme-label = Добавить тему
+
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Познакомьтесь с { -brand-short-name }
+mr1-return-to-amo-addon-title = Вы получили быстрый приватный браузер. Теперь вы можете добавить <b>{ $addon-name }</b> и сделать ещё больше с помощью { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Добавить { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -203,7 +209,7 @@ mr2-onboarding-default-theme-label = Посмотреть темы по умол
 
 mr2-onboarding-thank-you-header = Спасибо, что выбрали нас
 mr2-onboarding-thank-you-text = { -brand-short-name } 一 независимый браузер, поддерживаемый некоммерческой организацией. Вместе мы делаем Интернет более безопасным, здоровым и приватным.
-mr2-onboarding-start-browsing-button-label = Начать веб-сёрфинг
+mr2-onboarding-start-browsing-button-label = Начать просмотр сети
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -325,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = Независимые голоса мог
 mr2022-onboarding-colorway-primary-button-label-continue = Установить и продолжить
 mr2022-onboarding-existing-colorway-checkbox-label = Сделайте { -firefox-home-brand-name(case: "accusative") } красочной домашней страницей
 mr2022-onboarding-colorway-label-default = По умолчанию
-mr2022-onboarding-colorway-tooltip-default =
-    .title = По умолчанию
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Текущие цвета { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Использовать мои текущие цвета { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Создатель игр
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Создатель игр
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Создатель игр (красный)
 mr2022-onboarding-colorway-description-playmaker = <b>Вы — Создатель игр.</b> Вы создаёте возможности победить и помогаете всем вокруг поднять их игру на новый уровень.
 mr2022-onboarding-colorway-label-expressionist = Экспрессионист
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Экспрессионист
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Экспрессионист (желтый)
 mr2022-onboarding-colorway-description-expressionist = <b>Вы — Экспрессионист.</b> Вы видите мир иначе, а ваши творения поражают остальных.
 mr2022-onboarding-colorway-label-visionary = Провидец
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Провидец
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Провидец (зеленый)
 mr2022-onboarding-colorway-description-visionary = <b>Вы — Провидец.</b> Вы ставите под сомнение статус-кво и побуждаете остальных представлять лучшее будущее.
 mr2022-onboarding-colorway-label-activist = Активист
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Активист
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Активист (синий)
 mr2022-onboarding-colorway-description-activist = <b>Вы — Активист.</b> Вы делаете мир лучше и ведёте за собой остальных.
 mr2022-onboarding-colorway-label-dreamer = Мечтатель
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Мечтатель
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Мечтатель (фиолетовый)
 mr2022-onboarding-colorway-description-dreamer = <b>Вы — Мечтатель.</b> Вы верите, что удача любит смелых, и вдохновляете других быть отважнее.
 mr2022-onboarding-colorway-label-innovator = Новатор
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Новатор
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Новатор (оранжевый)
 mr2022-onboarding-colorway-description-innovator = <b>Вы — Новатор.</b> Вы везде видите возможности и влияете на жизнь всех вокруг.
@@ -377,7 +369,7 @@ mr2022-onboarding-no-mobile-download-cta-text = Отсканируйте QR-ко
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-upgrade-onboarding-pin-private-window-header = Получите свободу приватного просмотра одним щелчком
+mr2022-upgrade-onboarding-pin-private-window-header = Получите свободу приватного просмотра сети одним щелчком
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Никаких сохранённых кук или истории, прямо с вашего рабочего стола. Сёрфите так, как будто никто не смотрит.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
@@ -398,7 +390,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Показать
 mr2022-onboarding-gratitude-title = Вы помогаете нам сделать Интернет лучше
 mr2022-onboarding-gratitude-subtitle = Благодарим вас за использование { -brand-short-name }, поддерживаемого Mozilla Foundation. С вашей поддержкой мы работаем над тем, чтобы сделать Интернет более открытым, доступным и лучшим для всех и каждого.
 mr2022-onboarding-gratitude-primary-button-label = Ознакомьтесь с новинками
-mr2022-onboarding-gratitude-secondary-button-label = Начать веб-сёрфинг
+mr2022-onboarding-gratitude-secondary-button-label = Начать просмотр сети
 
 ## Onboarding spotlight for infrequent users
 

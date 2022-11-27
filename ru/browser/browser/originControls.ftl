@@ -30,3 +30,5 @@ origin-controls-state-no-access = Не может читать и изменят
 origin-controls-state-always-on = Всегда может читать и изменять данные на этой странице
 origin-controls-state-when-clicked = Требуется разрешение на чтение и изменение данных
 origin-controls-state-hover-run-visit-only = Выполнить только для этого посещения
+origin-controls-state-runnable-hover-open = Открыть расширение
+origin-controls-state-runnable-hover-run = Запустить расширение
