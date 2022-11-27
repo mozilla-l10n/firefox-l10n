@@ -25,6 +25,12 @@ return-to-amo-addon-title = Şimdi <img data-l10n-name="icon"/> <b>{ $addon-name
 return-to-amo-add-extension-label = Uzantıyı ekle
 return-to-amo-add-theme-label = Temayı ekle
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = { -brand-short-name } ile tanışın
+mr1-return-to-amo-addon-title = Hızlı ve gizlilik yanlısı tarayıcınız artık parmaklarınızın ucunda. Şimdi <b>{ $addon-name }</b> uzantısını ekleyerek { -brand-short-name } tarayıcınızı daha da geliştirebilirsiniz.
+mr1-return-to-amo-add-extension-label = { $addon-name } uzantısını ekle
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -326,44 +332,30 @@ mr2022-onboarding-colorway-subtitle = Bağımsız sesler kültürü değiştireb
 mr2022-onboarding-colorway-primary-button-label-continue = Ayarla ve devam et
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } renkli giriş sayfanız olsun
 mr2022-onboarding-colorway-label-default = Varsayılan
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Varsayılan
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Mevcut { -brand-short-name } renkleri
 mr2022-onboarding-colorway-description-default = <b>Mevcut { -brand-short-name } renklerimi kullan.</b>
 mr2022-onboarding-colorway-label-playmaker = Oyun Kurucu
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Oyun Kurucu
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Oyun kurucu (kırmızı)
 mr2022-onboarding-colorway-description-playmaker = <b>Siz bir oyun kurucusunuz.</b> Hem kazanmanızı sağlayacak hem de çevrenizdeki herkese fayda sağlayacak fırsatlar yaratıyorsunuz.
 mr2022-onboarding-colorway-label-expressionist = Dışavurumcu
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Dışavurumcu
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Dışavurumcu (sarı)
 mr2022-onboarding-colorway-description-expressionist = <b>Siz bir dışavurumcusunuz.</b> Dünyayı farklı görüyorsunuz ve eserleriniz başkalarının duygularını harekete geçiriyor.
 mr2022-onboarding-colorway-label-visionary = Vizyoner
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Vizyoner
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Vizyoner (yeşil)
 mr2022-onboarding-colorway-description-visionary = <b>Siz bir vizyonersiniz.</b> Statükoyu sorguluyor ve insanları daha iyi bir gelecek hayal etmeye yönlendiriyorsunuz.
 mr2022-onboarding-colorway-label-activist = Aktivist
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (mavi)
 mr2022-onboarding-colorway-description-activist = <b>Siz bir aktivistsiniz.</b> Dünyayı bulduğunuzdan daha iyi bir yer olarak bırakmak için insanlara önderlik ediyorsunuz.
 mr2022-onboarding-colorway-label-dreamer = Hayalperest
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Hayalperest
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Hayalperest (mor)
 mr2022-onboarding-colorway-description-dreamer = <b>Siz bir hayalperestsiniz.</b> Şansın cesurdan yana olduğuna inanıyor ve cesur olmaları için insanlara ilham veriyorsunuz.
 mr2022-onboarding-colorway-label-innovator = Yenilikçi
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Yenilikçi
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Yenilikçi (turuncu)
 mr2022-onboarding-colorway-description-innovator = <b>Siz bir yenilikçisiniz.</b> Her yerde fırsatları görüyor ve çevrenizdeki herkesin hayatında bir etki yaratıyorsunuz.
