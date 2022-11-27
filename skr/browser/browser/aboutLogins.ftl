@@ -15,10 +15,12 @@ fxaccounts-avatar-button =
 
 menu =
     .title = مینیو کھولو
+about-logins-menu-menuitem-remove-all-logins = سارے لاگ ان ہٹاؤ۔۔۔
 about-logins-menu-menuitem-help = مدد
 
 ## Login List
 
+about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
 login-list-item-title-new-login = نواں لاگ ان
 login-list-item-subtitle-new-login = آپݨی لاگ ان سنداں درج کرو
 login-list-item-subtitle-missing-username = (ورتݨ ناں کوئی کائنی)
