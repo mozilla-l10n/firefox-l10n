@@ -257,6 +257,7 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Zobrazit doplňky
+quickactions-cmd-addons2 = doplňky
 # Opens the bookmarks library window
 quickactions-bookmarks = Zobrazit záložky
 quickactions-cmd-bookmarks = záložky
@@ -266,12 +267,18 @@ quickactions-cmd-clearhistory = vymazat historii
 # Opens about:downloads page
 quickactions-downloads = Otevřít seznam stahování
 quickactions-cmd-downloads = stahování
+# Opens about:addons page in the extensions section
+quickactions-extensions = Správa rozšíření
+quickactions-cmd-extensions = rozšíření
 # Opens the devtools web inspector
 quickactions-inspector = Otevřít průzkumník
 quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
 # Opens about:logins
 quickactions-logins = Zobrazit přihlašovací údaje
 quickactions-cmd-logins = přihlašovací údaje, hesla
+# Opens about:addons page in the plugins section
+quickactions-plugins = Správa zásuvných modulů
+quickactions-cmd-plugins = zásuvné moduly
 # Opens the print dialog
 quickactions-print = Tisk
 quickactions-cmd-print = tisk
