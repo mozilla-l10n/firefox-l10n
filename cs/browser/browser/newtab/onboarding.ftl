@@ -342,9 +342,15 @@ fx100-upgrade-thanks-keep-body =
         [neuter] Toto je 100. vydání! Mějte { -brand-short-name(case: "acc") } na dosah ještě dalších 100 vydání.
        *[other] Toto je 100. vydání! Mějte aplikaci { -brand-short-name } na dosah ještě dalších 100 vydání.
     }
+mr2022-onboarding-secondary-skip-button-label = Přeskočit tento krok
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Objevte úžasný internet
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -356,18 +362,53 @@ fx100-upgrade-thanks-keep-body =
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Naše nejnovější verze je postavená podle vás, díky čemuž je procházení webu snazší než kdykoli předtím. Je nabitá funkcemi, které si podle nás zamilujete.
+mr2022-onboarding-get-started-primary-button-label = Nastavení během okamžiku
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Bleskové nastaveni
+mr2022-onboarding-import-primary-button-label-no-attribution = Importovat z dříve používaného prohlížeče
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Vyberte si barvu, která vás inspiruje
+mr2022-onboarding-colorway-subtitle = Hlasy nezávislosti mohou změnit kulturu.
+mr2022-onboarding-colorway-primary-button-label-continue = Nastavit a pokračovat
+mr2022-onboarding-colorway-label-default = Výchozí
+mr2022-onboarding-colorway-label-playmaker = Tvůrce hry
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Tvůrce hry (červená)
+mr2022-onboarding-colorway-description-playmaker = <b>Tvůrce hry:</b> Vytváříte příležitosti pro vítězství a pomáháte každému okolo vás pozvednout jejich hru.
+mr2022-onboarding-colorway-label-expressionist = Expresionista
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Expresionista (žlutá)
+mr2022-onboarding-colorway-description-expressionist = <b>Expresionista:</b> Vidíte svět jinak a vaše výtvory vzbuzují v ostatních emoce.
+mr2022-onboarding-colorway-label-visionary = Vizionář
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Vizionář (zelená)
+mr2022-onboarding-colorway-description-visionary = <b>Vizionář:</b> Zpochybňujete status quo a nutíte ostatní, aby mysleli na lepší budoucnost.
+mr2022-onboarding-colorway-label-activist = Aktivista
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Aktivista (modrá)
+mr2022-onboarding-colorway-description-activist = <b>Aktivista:</b> Přetváříte svět v lepší místo, než jste ho našli, a vedete ostatní k tomu, aby v něj věřili.
+mr2022-onboarding-colorway-label-dreamer = Snílek
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Snílek (fialová)
+mr2022-onboarding-colorway-description-dreamer = <b>Snílek:</b> Věříte, že štěstí přeje odvážným, a inspirujete ostatní, aby odvážní byli.
+mr2022-onboarding-colorway-label-innovator = Inovátor
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Inovátor (oranžová)
+mr2022-onboarding-colorway-description-innovator = <b>Inovátor:</b> Všude vidíte příležitosti a ovlivňujete životy všech kolem sebe.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Přecházejte mezi notebookem a telefonem
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -379,6 +420,9 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Žádné uložené cooki
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Pomáháte nám vytvářet lepší web
+mr2022-onboarding-gratitude-primary-button-label = Co je nového
+mr2022-onboarding-gratitude-secondary-button-label = Začít prohlížet
 
 ## Onboarding spotlight for infrequent users
 
