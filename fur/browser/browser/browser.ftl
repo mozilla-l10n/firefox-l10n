@@ -152,6 +152,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = Scrîf di mancul, cjate di plui: cîr daurman su { $engineName } doprant la sbare de direzion.
 urlbar-search-tips-redirect-2 = Scomence la tô ricercje inte sbare sbare de direzion par viodi sugjeriments di { $engineName } e de tô cronologjie di navigazion.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Cirî al è deventât plui sempliç. Prove a rindi la tô ricercje plui specifiche achì, te sbare de direzion. Se invezit tu desideris visualizâ l'URL, visite la sezion Ricercje tes impostazions.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selezione cheste scurte par cjatâ subite ce che ti covente.
@@ -204,6 +206,12 @@ page-action-manage-extension =
     .label = Gjestìs estension…
 page-action-remove-extension =
     .label = Gjave estension
+page-action-manage-extension2 =
+    .label = Gjestìs estension…
+    .accesskey = e
+page-action-remove-extension2 =
+    .label = Gjave estension
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -271,6 +279,7 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Visualize zontis
+quickactions-cmd-addons2 = components adizionâi
 # Opens the bookmarks library window
 quickactions-bookmarks = Visualize segnelibris
 quickactions-cmd-bookmarks = segnelibris
@@ -280,12 +289,18 @@ quickactions-cmd-clearhistory = nete la cronologjie
 # Opens about:downloads page
 quickactions-downloads = Vierç Discjamâts
 quickactions-cmd-downloads = discjamâts
+# Opens about:addons page in the extensions section
+quickactions-extensions = Gjestìs estensions
+quickactions-cmd-extensions = estensions
 # Opens the devtools web inspector
 quickactions-inspector = Vierç Ispetôr
 quickactions-cmd-inspector = ispetôr, struments dai disvilupadôrs
 # Opens about:logins
 quickactions-logins = Visualize credenziâls
 quickactions-cmd-logins = credenziâls, passwords
+# Opens about:addons page in the plugins section
+quickactions-plugins = Gjestìs plugins
+quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Stampe
 quickactions-cmd-print = stampe
@@ -304,12 +319,18 @@ quickactions-cmd-screenshot = videade
 # Opens about:preferences
 quickactions-settings = Vierç Impostazions
 quickactions-cmd-settings = impostazions, preferencis, opzions
+# Opens about:addons page in the themes section
+quickactions-themes = Gjestìs temis
+quickactions-cmd-themes = temis
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Inzorne { -brand-short-name }
 quickactions-cmd-update = inzorne
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Visualize sorzint
 quickactions-cmd-viewsource = visualize sorzint, sorzint
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Plui informazions su lis azions rapidis
 
 ## Bookmark Panel
 
