@@ -370,6 +370,13 @@ mr2022-onboarding-get-started-primary-button-label = Nastavení během okamžiku
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Bleskové nastaveni
+mr2022-onboarding-import-subtitle =
+    { -brand-short-name.gender ->
+        [masculine] Nastavte si { -brand-short-name(case: "acc") } podle svých představ. Přidejte si do něj své záložky, hesla a další položky ze svého starého prohlížeče.
+        [feminine] Nastavte si { -brand-short-name(case: "acc") } podle svých představ. Přidejte si do ní své záložky, hesla a další položky ze svého starého prohlížeče.
+        [neuter] Nastavte si { -brand-short-name(case: "acc") } podle svých představ. Přidejte si do něj své záložky, hesla a další položky ze svého starého prohlížeče.
+       *[other] Nastavte si aplikaci { -brand-short-name } podle svých představ. Přidejte si do ní své záložky, hesla a další položky ze svého starého prohlížeče.
+    }
 mr2022-onboarding-import-primary-button-label-no-attribution = Importovat z dříve používaného prohlížeče
 
 ## If your language uses grammatical genders, in the description for the
@@ -380,7 +387,23 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importovat z dř�
 mr2022-onboarding-colorway-title = Vyberte si barvu, která vás inspiruje
 mr2022-onboarding-colorway-subtitle = Hlasy nezávislosti mohou změnit kulturu.
 mr2022-onboarding-colorway-primary-button-label-continue = Nastavit a pokračovat
+mr2022-onboarding-existing-colorway-checkbox-label = Nastavte si barvy { -firefox-home-brand-name(case: "gen", capitalization: "lower") } podle svého
 mr2022-onboarding-colorway-label-default = Výchozí
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title =
+        { -brand-short-name.gender ->
+            [masculine] Aktuální barvy { -brand-short-name(case: "gen") }
+            [feminine] Aktuální barvy { -brand-short-name(case: "gen") }
+            [neuter] Aktuální barvy { -brand-short-name(case: "gen") }
+           *[other] Aktuální barvy aplikace { -brand-short-name }
+        }
+mr2022-onboarding-colorway-description-default =
+    { -brand-short-name.gender ->
+        [masculine] <b>Použít mé současné barvy { -brand-short-name(case: "gen") }.</b>
+        [feminine] <b>Použít mé současné barvy { -brand-short-name(case: "gen") }.</b>
+        [neuter] <b>Použít mé současné barvy { -brand-short-name(case: "gen") }.</b>
+       *[other] <b>Použít mé současné barvy aplikace { -brand-short-name }.</b>
+    }
 mr2022-onboarding-colorway-label-playmaker = Tvůrce hry
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Tvůrce hry (červená)
@@ -409,6 +432,27 @@ mr2022-onboarding-colorway-description-innovator = <b>Inovátor:</b> Všude vid�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Přecházejte mezi notebookem a telefonem
+mr2022-onboarding-mobile-download-subtitle =
+    { -brand-short-name.gender ->
+        [masculine] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte { -brand-product-name(case: "acc") }.
+        [feminine] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte { -brand-product-name(case: "acc") }.
+        [neuter] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte { -brand-product-name(case: "acc") }.
+       *[other] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte aplikaci { -brand-product-name }.
+    }
+mr2022-onboarding-mobile-download-cta-text =
+    { -brand-short-name.gender ->
+        [masculine] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
+        [feminine] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
+        [neuter] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
+       *[other] Naskenujte QR kód a získejte aplikaci { -brand-product-name } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
+    }
+mr2022-onboarding-no-mobile-download-cta-text =
+    { -brand-short-name.gender ->
+        [masculine] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily.
+        [feminine] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily.
+        [neuter] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily.
+       *[other] Naskenujte QR kód a získejte aplikaci { -brand-product-name } pro mobily.
+    }
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -421,6 +465,13 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Žádné uložené cooki
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Pomáháte nám vytvářet lepší web
+mr2022-onboarding-gratitude-subtitle =
+    { -brand-short-name.gender ->
+        [masculine] Děkujeme, že používáte { -brand-short-name(case: "acc") }, za kterým stojí Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet otevřenější, přístupnější a lepší pro všechny.
+        [feminine] Děkujeme, že používáte { -brand-short-name(case: "acc") }, za kterou stojí Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet otevřenější, přístupnější a lepší pro všechny.
+        [neuter] Děkujeme, že používáte { -brand-short-name(case: "acc") }, za kterým stojí Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet otevřenější, přístupnější a lepší pro všechny.
+       *[other] Děkujeme, že používáte aplikaci { -brand-short-name }, za kterou stojí Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet otevřenější, přístupnější a lepší pro všechny.
+    }
 mr2022-onboarding-gratitude-primary-button-label = Co je nového
 mr2022-onboarding-gratitude-secondary-button-label = Začít prohlížet
 
