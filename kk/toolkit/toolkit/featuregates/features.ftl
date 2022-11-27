@@ -11,10 +11,12 @@ experimental-features-css-masonry-description = Эксперименталды C
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Бұл жаңа API пайдаланушы құрылғысы немесе компьютерінің <a data-l10n-name="wikipedia">Графикалық өңдеу блогын (GPU)</a> пайдалану арқылы есептеу мен графиканы көрсетуді орындау үшін төмен деңгейлі қолдауды қамтамасыз етеді. Оның <a data-l10n-name="spec">спецификациясы</a> әлі аяқталмаған. Қосымша мәліметтер алу үшін <a data-l10n-name="bugzilla">1602129 ақаулығы</a> бөлімін қараңыз.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Медиа: JPEG XL
+experimental-features-media-jxl-description = Бұл мүмкіндік іске қосылғанда, { -brand-short-name } JPEG XL (JXL) пішімін қолдайды. Бұл дәстүрлі JPEG файлдарынан жоғалтпай өтуді қолдайтын жақсартылған сурет файлының пішімі. Қосымша мәліметтер алу үшін <a data-l10n-name="bugzilla">1539075 ақаулығы</a> бөлімін қараңыз.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
