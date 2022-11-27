@@ -65,7 +65,7 @@ containers-color-toolbar =
 containers-icon-fence =
     .label = Агароджа
 containers-icon-fingerprint =
-    .label = Адбітак пальца
+    .label = Адбітак
 containers-icon-briefcase =
     .label = Партфель
 # String represents a money sign but currently uses a dollar sign
