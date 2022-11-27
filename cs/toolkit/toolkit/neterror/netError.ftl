@@ -44,6 +44,12 @@ neterror-load-error-try-again = Server je dočasně nedostupný. Zkuste to pros�
 neterror-load-error-connection = Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého počítače.
 neterror-load-error-firewall = Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, že má { -brand-short-name } přístup na internet.
 neterror-captive-portal = Pro přístup k internetu se musíte nejdříve přihlásit k této síti.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Chtěli jste navštívit <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Pokud jste adresu zadali správně:</strong>
+neterror-dns-not-found-hint-try-again = Zkuste to znovu
+neterror-dns-not-found-hint-check-network = Zkontrolujte připojení k síti
 neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name } povolený přístup na web (může být omezen firewallem).
 neterror-file-not-found-filename = Zkontrolujte, že je název souboru napsán správně, a to včetně velikosti písmen.
 neterror-file-not-found-moved = Zkontrolujte, že soubor nebyl přesunut, přejmenován nebo smazán.

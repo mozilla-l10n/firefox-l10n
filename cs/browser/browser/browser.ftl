@@ -119,11 +119,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Získat pomoc
 urlbar-search-tips-confirm = Ok, rozumím
+urlbar-search-tips-confirm-short = Rozumím
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tip:
+urlbar-result-menu-button =
+    .title = Otevře nabídku
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -545,6 +548,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Pokud chcete používat zkratku F12, otevřete nejprve DevTools z nabídky Nástroje pro vývojáře.
+enable-devtools-popup-description2 = Pokud chcete používat zkratku F12, otevřete nejprve DevTools z nabídky Nástroje prohlížeče.
 
 ## URL Bar
 
