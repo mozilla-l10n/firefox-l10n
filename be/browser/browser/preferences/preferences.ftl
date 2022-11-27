@@ -999,7 +999,7 @@ content-blocking-unvisited-cookies = Кукі з ненаведаных сайт
 content-blocking-all-windows-tracking-content = Элементы сачэння ва ўсіх вокнах
 content-blocking-all-third-party-cookies = Усе кукі трэцяга боку
 content-blocking-cryptominers = Майнеры крыптавалют
-content-blocking-fingerprinters = Збіральнікі адбіткаў пальцаў
+content-blocking-fingerprinters = Збіральнікі лічбавых адбіткаў
 # "Test pilot" is used as a verb. Possible alternatives:
 # "Be the first to try", "Join an early experiment".
 content-blocking-etp-standard-tcp-rollout-checkbox =
@@ -1038,7 +1038,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Збіральнікі адбіткаў пальцаў
+    .label = Збіральнікі лічбавых адбіткаў
     .accesskey = а
 
 ## Privacy Section - Tracking
