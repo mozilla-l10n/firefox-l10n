@@ -11,3 +11,10 @@
 
 # Windows refers to the operating system
 windows-messages-page-title = Windows хабарламалары туралы ақпарат
+windows-messages-intro =
+    Бұл бетте { -brand-short-name } браузер терезелеріне Windows
+    жіберген ең соңғы хабарламаларды көрсетеді. Жуан қаріппен
+    осы терезе көрсетілген. Назар аударыңыз, осында бұл терезе
+    жүктелген кездегі ең соңғы хабарамалар көрсетіледі,
+    ағымдағыларды қарау үшін бұл бетті жаңартыңыз.
+windows-messages-copy-to-clipboard = Алмасу буферіне көшіріп алу
