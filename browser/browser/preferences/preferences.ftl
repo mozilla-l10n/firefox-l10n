@@ -247,6 +247,7 @@ preferences-web-appearance-choice-browser =
        *[other] Vzhled aplikace { -brand-short-name }
     }
 preferences-web-appearance-choice-system = Podle systému
+preferences-web-appearance-choice-auto = Automatický
 preferences-web-appearance-choice-light = Světlý
 preferences-web-appearance-choice-dark = Tmavý
 preferences-web-appearance-choice-tooltip-browser =
@@ -259,6 +260,14 @@ preferences-web-appearance-choice-tooltip-browser =
         }
 preferences-web-appearance-choice-tooltip-system =
     .title = Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vašeho systému.
+preferences-web-appearance-choice-tooltip-auto =
+    .title =
+        { -brand-short-name.gender ->
+            [masculine] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
+            [feminine] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
+            [neuter] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
+           *[other] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a aplikace { -brand-short-name }.
+        }
 preferences-web-appearance-choice-tooltip-light =
     .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným tématem.
 preferences-web-appearance-choice-tooltip-dark =
@@ -267,6 +276,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -1321,6 +1332,10 @@ collection-backlogged-crash-reports-with-link =
        *[other] aplikace
     } za vás <a data-l10n-name="crash-reports-link">Zjistit více</a>
     .accesskey = c
+privacy-segmentation-section-header = Nové funkce, které zlepšují vaše prohlížení
+privacy-segmentation-section-description = Když nabízíme funkce, které využívají vaše data, abychom vám poskytli osobnější prožitek:
+privacy-segmentation-radio-on =
+    .label = Zobrazit podrobnosti
 
 ## Privacy Section - Security
 ##

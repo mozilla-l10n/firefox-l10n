@@ -12,7 +12,6 @@ page-subtitle =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     } naleznete na <a data-l10n-name="support-link">webových stránkách podpory</a>.
-
 crashes-title = Hlášení pádů
 crashes-id = ID hlášení
 crashes-send-date = Odeslaná
@@ -81,12 +80,10 @@ app-basics-key-mozilla = Klíč Mozilla Location Service
 app-basics-safe-mode = Nouzový režim
 app-basics-memory-size = Velikost paměti (RAM)
 app-basics-disk-available = Dostupné místo na disku
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Zobrazit ve Finderu
@@ -126,6 +123,15 @@ graphics-window-protocol = Protokol zobrazování oken
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Desktopové prostředí
 place-database-title = Databáze Places
+place-database-stats = Statistiky
+place-database-stats-show = Zobrazit statistiku
+place-database-stats-hide = Skrýt statistiku
+place-database-stats-entity = Entita
+place-database-stats-count = Počet
+place-database-stats-size-kib = Velikost (KiB)
+place-database-stats-size-perc = Velikost (%)
+place-database-stats-efficiency-perc = Efektivita (%)
+place-database-stats-sequentiality-perc = Sekvence (%)
 place-database-integrity = Integrita
 place-database-verify-integrity = Zkontrolovat integritu
 a11y-title = Přístupnost
@@ -217,7 +223,6 @@ report-crash-for-days =
         [few] Hlášení o pádech za poslední { $days } dny
        *[other] Hlášení o pádech za posledních { $days } dní
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -226,7 +231,6 @@ crashes-time-minutes =
         [few] Před { $minutes } minutami
        *[other] Před { $minutes } minutami
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -235,7 +239,6 @@ crashes-time-hours =
         [few] Před { $hours } hodinami
        *[other] Před { $hours } hodinami
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -244,7 +247,6 @@ crashes-time-days =
         [few] Před { $days } dny
        *[other] Před { $days } dny
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -253,7 +255,6 @@ pending-reports =
         [few] Všechna hlášení o pádech (zahrnující { $reports } čekající za dané časové období)
        *[other] Všechna hlášení o pádech (zahrnující { $reports } čekajících za dané časové období)
     }
-
 raw-data-copied = Data byla zkopírována
 text-copied = Text zkopírován do schránky
 
@@ -266,11 +267,9 @@ blocked-mismatched-version = Zakázáno kvůli nesouhlasící verzi ovladačů v
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Zakázáno kvůli verzi ovladače grafické karty. Zkuste aktualizovat ovladač grafické karty na verzi { $driverVersion } nebo novější.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Technologie ClearType
-
 compositing = Compositing
 hardware-h264 = Hardwarové dekódování H264
 main-thread-no-omtc = hlavní vlákno, ne OMTC
@@ -285,7 +284,6 @@ virtual-monitor-disp = Zobrazení virtuálního monitoru
 
 found = Nalezeno
 missing = Chybí
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Popis
@@ -308,19 +306,15 @@ webgl2-renderer = Zobrazování WebGL2
 webgl2-version = Verze ovladače WebGL 2
 webgl2-driver-extensions = Rozšíření ovladače WebGL 2
 webgl2-extensions = Rozšíření WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Zablokováno kvůli známým problémům: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zablokováno; chybový kód { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video dekodér
-
 reset-on-next-restart = Obnovit po při příštím restartu
 gpu-process-kill-button = Ukončit GPU proces
 gpu-device-reset = Obnova zařízení
@@ -330,10 +324,8 @@ content-uses-tiling = Používá skládání (obsah)
 off-main-thread-paint-enabled = Vykreslování mimo hlavní vlákno povoleno
 off-main-thread-paint-worker-count = Počet vláken pro vykreslování mimo hlavní vlákno
 target-frame-rate = Cílová frekvence snímků
-
 min-lib-versions = Očekávaná minimální verze
 loaded-lib-versions = Používaná verze
-
 has-seccomp-bpf = Seccomp-BPF (filtrování systémových volání)
 has-seccomp-tsync = Synchronizace vláken Seccomp
 has-user-namespaces = Uživatelské jmenné prostory
@@ -343,22 +335,20 @@ can-sandbox-media = Sandbox zásuvných modulů médií
 content-sandbox-level = Úroveň sandboxu procesů pro obsah
 effective-content-sandbox-level = Účinná úroveň sandboxu procesů pro obsah
 content-win32k-lockdown-state = Stav uzamčení Win32k procesů pro obsah
+support-sandbox-gpu-level = Úroveň sandboxu procesů GPU
 sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah souboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
 sandbox-proc-type-data-decoder = dekodér dat
-
 startup-cache-title = Mezipaměť spouštění
 startup-cache-disk-cache-path = Cesta k mezipaměti na disku
 startup-cache-ignore-disk-cache = Ignorovat mezipaměť na disku
 startup-cache-found-disk-cache-on-init = Mezipaměť na disku během inicializace nalezena
 startup-cache-wrote-to-disk-cache = Zapsáno do mezipaměti na disku
-
 launcher-process-status-0 = Povoleno
 launcher-process-status-1 = Zakázáno kvůli chybě
 launcher-process-status-2 = Násilně zakázáno
 launcher-process-status-unknown = Neznámý stav
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -378,7 +368,6 @@ fission-status-enabled-by-user-pref = Povoleno uživatelem
 fission-status-disabled-by-user-pref = Zakázáno uživatelem
 fission-status-disabled-by-e10s-other = Zakázáno kvůli E10S
 fission-status-enabled-by-rollout = Povoleno postupným zaváděním
-
 async-pan-zoom = Asynchronní lupa/panning
 apz-none = nic
 wheel-enabled = vstup kolečka povolen
@@ -415,7 +404,6 @@ support-remote-experiments-title = Vzdálené experimenty
 support-remote-experiments-name = Název
 support-remote-experiments-branch = Větev experimentu
 support-remote-experiments-see-about-studies = Podrobnosti o experimentech { -brand-short-name(case: "gen") } a možnost je zakázat jednotlivě nebo celkově i do budoucna najdete na stránce <a data-l10n-name="support-about-studies-link">about:studies</a>.
-
 support-remote-features-title = Vzdálené funkce
 support-remote-features-name = Název
 support-remote-features-status = Stav
