@@ -30,3 +30,5 @@ origin-controls-state-no-access = S’mund të lexohen dhe ndryshohen të dhëna
 origin-controls-state-always-on = Mund të lexohen dhe ndryshohen përherë të dhëna në këtë sajt
 origin-controls-state-when-clicked = Lypset leje për lexim dhe ndryshim të dhënash
 origin-controls-state-hover-run-visit-only = Kryeje vetëm për këtë vizitë
+origin-controls-state-runnable-hover-open = Hape zgjerimin
+origin-controls-state-runnable-hover-run = Vëre zgjerimin në punë
