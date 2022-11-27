@@ -30,3 +30,5 @@ origin-controls-state-no-access = Nemôže čítať a meniť údaje na tejto str
 origin-controls-state-always-on = Vždy môže čítať a meniť údaje na tejto stránke
 origin-controls-state-when-clicked = Na čítanie a zmenu údajov je potrebné povolenie
 origin-controls-state-hover-run-visit-only = Povoliť len pre túto návštevu
+origin-controls-state-runnable-hover-open = Otvoriť rozšírenie
+origin-controls-state-runnable-hover-run = Spustiť rozšírenie
