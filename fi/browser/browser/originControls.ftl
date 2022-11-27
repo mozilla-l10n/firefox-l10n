@@ -30,3 +30,5 @@ origin-controls-state-no-access = Ei voi lukea ja muuttaa tietoja tällä sivust
 origin-controls-state-always-on = Voi aina lukea ja muuttaa tietoja tällä sivustolla
 origin-controls-state-when-clicked = Lupa vaaditaan tietojen lukemiseen ja muuttamiseen
 origin-controls-state-hover-run-visit-only = Suorita vain tällä käyntikerralla
+origin-controls-state-runnable-hover-open = Avaa laajennus
+origin-controls-state-runnable-hover-run = Suorita laajennus

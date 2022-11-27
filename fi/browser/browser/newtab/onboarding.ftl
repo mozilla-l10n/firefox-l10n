@@ -25,6 +25,11 @@ return-to-amo-addon-title = Hankitaanpa sinulle nyt <img data-l10n-name="icon"/>
 return-to-amo-add-extension-label = Lisää laajennus
 return-to-amo-add-theme-label = Lisää teema
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Tervehdi { -brand-short-name }ia
+mr1-return-to-amo-add-extension-label = Lisää { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -332,44 +337,30 @@ mr2022-onboarding-colorway-subtitle = Itsenäiset äänet voivat muuttaa kulttuu
 mr2022-onboarding-colorway-primary-button-label-continue = Aseta ja jatka
 mr2022-onboarding-existing-colorway-checkbox-label = Tee { -firefox-home-brand-name }ista värikäs kotisivusi
 mr2022-onboarding-colorway-label-default = Oletus
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Oletus
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Nykyiset { -brand-short-name }-värit
 mr2022-onboarding-colorway-description-default = <b>Käytä nykyisiä { -brand-short-name }-värejä.</b>
 mr2022-onboarding-colorway-label-playmaker = Pelinrakentaja
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Pelinrakentaja
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Pelinrakentaja (punainen)
 mr2022-onboarding-colorway-description-playmaker = <b>Olet pelinrakentaja.</b> Luot mahdollisuuksia voittaa ja autat kaikkia ympärilläsi olevia nostamaan panostaan.
 mr2022-onboarding-colorway-label-expressionist = Ekspressionisti
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Ekspressionisti
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspressionisti (keltainen)
 mr2022-onboarding-colorway-description-expressionist = <b>Olet ekspressionisti.</b> Näet maailman eri tavalla ja luomuksesi herättävät muissa tunteita.
 mr2022-onboarding-colorway-label-visionary = Visionääri
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visionääri
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionääri (vihreä)
 mr2022-onboarding-colorway-description-visionary = <b>Olet visionääri.</b> Kyseenalaistat nykytilan ja kannustat muita kuvittelemaan parempaa tulevaisuutta.
 mr2022-onboarding-colorway-label-activist = Aktivisti
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktivisti
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivisti (sininen)
 mr2022-onboarding-colorway-description-activist = <b>Olet aktivisti.</b> Jätät maailman aiempaa paremmaksi paikaksi ja saat muut uskomaan parempaan.
 mr2022-onboarding-colorway-label-dreamer = Unelmoija
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Unelmoija
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Unelmoija (violetti)
 mr2022-onboarding-colorway-description-dreamer = <b>Olet unelmoija.</b> Uskot, että onni suosii rohkeita ja innostat muita olemaan rohkeita.
 mr2022-onboarding-colorway-label-innovator = Uudistaja
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Uudistaja
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Uudistaja (oranssi)
 mr2022-onboarding-colorway-description-innovator = <b>Olet uudistaja.</b> Näet mahdollisuuksia kaikkialla ja vaikutat muiden ympärilläsi olevien elämään.
