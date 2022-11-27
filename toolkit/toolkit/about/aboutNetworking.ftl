@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Počet pomalých přístupů do mezipaměti
 about-networking-rcwn-cache-not-slow = Počet rychlých přístupů do mezipaměti
 about-networking-networkid = ID sítě
 about-networking-networkid-id = ID sítě
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Tato stránka byla přesunuta do <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 

@@ -90,7 +90,13 @@ certerror-sts-intro =
     }
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = Aplikace { -brand-short-name } zjistila problém a stránku na serveru <b>{ $hostname }</b> nenačetla. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
+certerror-expired-cert-intro =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zjistil problém a stránku na serveru <b>{ $hostname }</b> nenačetl. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
+        [feminine] { -brand-short-name } zjistila problém a stránku na serveru <b>{ $hostname }</b> nenačetla. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
+        [neuter] { -brand-short-name } zjistilo problém a stránku na serveru <b>{ $hostname }</b> nenačetlo. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
+       *[other] Aplikace { -brand-short-name } zjistila problém a stránku na serveru <b>{ $hostname }</b> nenačetla. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
+    }
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
@@ -116,8 +122,20 @@ neterror-clock-skew-error =
     }
 neterror-network-protocol-error-intro = Požadovanou stránku nelze zobrazit, protože došlo k chybě v síťovém protokolu.
 neterror-network-protocol-error-contact-website = Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.
-certerror-expired-cert-second-para = Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
-certerror-expired-cert-sts-second-para = Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení.
+certerror-expired-cert-second-para =
+    { -brand-short-name.gender ->
+        [masculine] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+        [feminine] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+        [neuter] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+       *[other] Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit získat vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.
+    }
+certerror-expired-cert-sts-second-para =
+    { -brand-short-name.gender ->
+        [masculine] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení.
+        [feminine] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení.
+        [neuter] Pravděpodobně stránce vypršela platnost certifikátu, což brání { -brand-short-name(case: "dat") } v navázání zabezpečeného spojení.
+       *[other] Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení.
+    }
 certerror-what-can-you-do-about-it-title = Co s tím můžete dělat?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Příčina tohoto problému je pravděpodobně na straně serveru a vy ji bohužel nemůžete odstranit.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Pokud jste připojení do firemní sítě nebo používáte antivirový program, můžete se obrátit na oddělení technické podpory. Také můžete o problému informovat správce webu.
