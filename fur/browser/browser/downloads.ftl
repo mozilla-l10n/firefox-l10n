@@ -216,6 +216,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Erôr inte discjamade
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Nol è stât pussibil salvâ il discjariament parcè che al è stât blocât di { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Nol è stât pussibil salvâ il discjariament parcè che al è stât blocât di une estension.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     No si à podût salvâ la discjamade par vie di un erôr no cognossût.
