@@ -132,7 +132,7 @@ main-context-menu-bookmark-page-mac =
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
 # so should probably have the same access key if possible.
 main-context-menu-edit-bookmark-mac =
-    .label = Modifiche segnelibri…
+    .label = Modifiche il segnelibri…
     .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
@@ -140,6 +140,16 @@ main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Zonte pagjine tai segnelibris…
     .accesskey = Z
     .tooltiptext = Zonte la pagjine ({ $shortcut }) tai segnelibris
+main-context-menu-edit-bookmark =
+    .aria-label = Modifiche segnelibri…
+    .accesskey = M
+    .tooltiptext = Modifiche il segnelibri
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Modifiche segnelibri…
+    .accesskey = M
+    .tooltiptext = Modifiche il segnelibri ({ $shortcut })
 main-context-menu-open-link =
     .label = Vierç colegament
     .accesskey = V
@@ -158,6 +168,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-link =
     .label = Zonte colegament ai segnelibris
     .accesskey = b
+main-context-menu-bookmark-link-2 =
+    .label = Met il colegament tai segnelibris…
+    .accesskey = c
 main-context-menu-save-link =
     .label = Salve destinazion cul non…
     .accesskey = S
@@ -270,6 +283,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-image-as-background =
     .label = Met imagjin come fondâl di scritori…
     .accesskey = s
+main-context-menu-image-copy-text =
+    .label = Copie test de imagjin
+    .accesskey = t
 main-context-menu-image-info =
     .label = Viôt informazions imagjin
     .accesskey = f
@@ -347,6 +363,9 @@ main-context-menu-frame-reload =
 main-context-menu-frame-bookmark =
     .label = Zonte chest ricuadri tai segnelibris
     .accesskey = s
+main-context-menu-frame-add-bookmark =
+    .label = Zonte ricuadri tai segnelibris…
+    .accesskey = r
 main-context-menu-frame-save-as =
     .label = Salve il ricuadri come…
     .accesskey = c
@@ -362,6 +381,9 @@ main-context-menu-frame-view-info =
 main-context-menu-print-selection =
     .label = Stampe selezion
     .accesskey = m
+main-context-menu-print-selection-2 =
+    .label = Stampe la selezion…
+    .accesskey = S
 main-context-menu-view-selection-source =
     .label = Visualize sorzint de selezion
     .accesskey = e
