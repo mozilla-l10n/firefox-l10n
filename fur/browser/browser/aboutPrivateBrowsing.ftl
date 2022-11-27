@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Ten tal Dock
        *[other] Fisse te sbare des aplicazions
     }
+about-private-browsing-pin-promo-title = Nissun cookie o cronologjie salvâts, dret dal to scritori. Navighe come se nissun ti stes cjalant.
