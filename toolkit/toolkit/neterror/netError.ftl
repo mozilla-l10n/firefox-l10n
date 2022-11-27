@@ -44,6 +44,7 @@ neterror-load-error-try-again = Server je dočasně nedostupný. Zkuste to pros�
 neterror-load-error-connection = Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého počítače.
 neterror-load-error-firewall = Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, že má { -brand-short-name } přístup na internet.
 neterror-captive-portal = Pro přístup k internetu se musíte nejdříve přihlásit k této síti.
+neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name } povolený přístup na web (může být omezen firewallem).
 neterror-file-not-found-filename = Zkontrolujte, že je název souboru napsán správně, a to včetně velikosti písmen.
 neterror-file-not-found-moved = Zkontrolujte, že soubor nebyl přesunut, přejmenován nebo smazán.
 neterror-access-denied = Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.

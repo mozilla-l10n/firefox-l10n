@@ -16,7 +16,23 @@ callout-firefox-view-tab-pickup-subtitle = Rychle si převezměte otevřené pan
 callout-firefox-view-recently-closed-title = Získejte zpět zavřené panely během okamžiku
 callout-firefox-view-recently-closed-subtitle = Zde se zázračně zobrazí všechny zavřené panely. Už nikdy se nemusíte bát, že nějakou stránku omylem zavřete.
 callout-firefox-view-colorways-title = Přidejte si barevný nádech
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle =
+    { -brand-product-name.gender ->
+        [masculine] Vyberte si paletu barev s odstínem, který vás osloví. Jenom ve { -brand-product-name(case: "loc") }.
+        [feminine] Vyberte si paletu barev s odstínem, který vás osloví. Jenom v { -brand-product-name(case: "loc") }.
+        [neuter] Vyberte si paletu barev s odstínem, který vás osloví. Jenom v { -brand-product-name(case: "loc") }.
+       *[other] Vyberte si paletu barev s odstínem, který vás osloví. Jenom v aplikaci { -brand-product-name }.
+    }
 callout-firefox-view-colorways-reminder-title = Prozkoumejte naše nejnovější palety barev
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle =
+    { -brand-product-name.gender ->
+        [masculine] Obarvěte svůj prohlížeč těmito ikonickými odstíny inspirovanými hlasy nezávislosti. Jenom ve { -brand-product-name(case: "loc") }.
+        [feminine] Obarvěte svůj prohlížeč těmito ikonickými odstíny inspirovanými hlasy nezávislosti. Jenom v { -brand-product-name(case: "loc") }.
+        [neuter] Obarvěte svůj prohlížeč těmito ikonickými odstíny inspirovanými hlasy nezávislosti. Jenom v { -brand-product-name(case: "loc") }.
+       *[other] Obarvěte svůj prohlížeč těmito ikonickými odstíny inspirovanými hlasy nezávislosti. Jenom v aplikaci { -brand-product-name }.
+    }
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

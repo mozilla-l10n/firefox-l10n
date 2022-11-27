@@ -192,6 +192,16 @@ spotlight-total-cookie-protection-body = Úplná ochrana před cookies brání s
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ochrání vaše cookies tak, že omezí jejich dostupnost pro konkrétní stránku, kterou prohlížíte, takže je sledovací prvky nemohou používat pro vaše sledování napříč stránkami. Vykoušením této funkce nám je pomůžete dále optimalizovat pro vás i všechny ostatní uživatele.
 spotlight-total-cookie-protection-primary-button = Zapnout úplnou ochranu před cookies
 spotlight-total-cookie-protection-secondary-button = Teď ne
+cfr-total-cookie-protection-header = Díky vám nabízí { -brand-short-name } více soukromí a bezpečí než kdy dříve
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body =
+    { -brand-short-name.gender ->
+        [masculine] Úplná ochrana před cookies je naší dosud nejsilnější ochranou soukromí – a je nyní výchozím nastavením pro všechny uživatele { -brand-short-name(case: "gen") }. Nezvládli bychom to bez účastníků našeho testovacího programu, jako jste vy. Děkujeme, že jste nám pomohli ve tvorbě lepšího a soukromějšího internetu.
+        [feminine] Úplná ochrana před cookies je naší dosud nejsilnější ochranou soukromí – a je nyní výchozím nastavením pro všechny uživatele { -brand-short-name(case: "gen") }. Nezvládli bychom to bez účastníků našeho testovacího programu, jako jste vy. Děkujeme, že jste nám pomohli ve tvorbě lepšího a soukromějšího internetu.
+        [neuter] Úplná ochrana před cookies je naší dosud nejsilnější ochranou soukromí – a je nyní výchozím nastavením pro všechny uživatele { -brand-short-name(case: "gen") }. Nezvládli bychom to bez účastníků našeho testovacího programu, jako jste vy. Děkujeme, že jste nám pomohli ve tvorbě lepšího a soukromějšího internetu.
+       *[other] Úplná ochrana před cookies je naší dosud nejsilnější ochranou soukromí – a je nyní výchozím nastavením pro všechny uživatele aplikace { -brand-short-name }. Nezvládli bychom to bez účastníků našeho testovacího programu, jako jste vy. Děkujeme, že jste nám pomohli ve tvorbě lepšího a soukromějšího internetu.
+    }
 
 ## Emotive Continuous Onboarding
 
@@ -235,10 +245,14 @@ mr2022-background-update-toast-secondary-button-label = Upozornit mě později
 
 firefoxview-cfr-secondarybutton = Teď ne
     .accesskey = n
+firefoxview-cfr-header = Získejte zpět nedávno zavřené panely díky { -firefoxview-brand-name(case: "gen") }
 firefoxview-cfr-body = Navíc plynule přecházejte mezi zařízeními a přidejte si do prohlížeče nový barevný nádech.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Přivítejte { -firefoxview-brand-name(case: "acc") }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Chcete zrovna ten panel otevřený v telefonu? Vezměte si ho. Potřebujete znovu tu stránku, co jste před chvílí navštívili? Hups, díky { -firefoxview-brand-name(case: "dat") } ji máte zpátky.
 firefoxview-spotlight-promo-primarybutton = Jak to funguje
 firefoxview-spotlight-promo-secondarybutton = Přeskočit
 
