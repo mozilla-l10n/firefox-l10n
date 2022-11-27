@@ -110,6 +110,13 @@ about-logins-vulnerable-alert-learn-more-link = ٻیا سِکھو
 
 ## Login Export Dialog
 
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV دستاویز
+       *[other] CSV فائل
+    }
 
 ## Login Import Dialog
 
