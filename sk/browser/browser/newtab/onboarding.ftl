@@ -25,6 +25,12 @@ return-to-amo-addon-title = Teraz naspäť k doplnku <img data-l10n-name="icon"/
 return-to-amo-add-extension-label = Pridať rozšírenie
 return-to-amo-add-theme-label = Pridať tému vzhľadu
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Privítajte { -brand-short-name }
+mr1-return-to-amo-addon-title = V rukách máte rýchly prehliadač zameraný na ochranu súkromia. A keď si pridáte doplnok <b>{ $addon-name }</b>, dostanete zo svojho { -brand-short-name(case: "gen") } ešte viac.
+mr1-return-to-amo-add-extension-label = Pridať { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -325,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = Nezávislé hlasy môžu zmeniť kultúru.
 mr2022-onboarding-colorway-primary-button-label-continue = Nastaviť a pokračovať
 mr2022-onboarding-existing-colorway-checkbox-label = Urobte z { -firefox-home-brand-name(case: "gen") } svoju farebnú domovskú stránku
 mr2022-onboarding-colorway-label-default = Predvolená
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Predvolená
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Aktuálne farby { -brand-short-name(case: "gen") }
 mr2022-onboarding-colorway-description-default = <b>Použijú sa moje aktuálne farby { -brand-short-name(case: "gen") }.</b>
 mr2022-onboarding-colorway-label-playmaker = Tvorca hry
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Tvorca hry
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Tvorca hry (červená)
 mr2022-onboarding-colorway-description-playmaker = <b>Ste tvorca hry.</b> Vytvárate príležitosti na výhru a pomáhate všetkým okolo vás pozdvihnúť ich hru.
 mr2022-onboarding-colorway-label-expressionist = Expresionista
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Expresionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expresionista (žltá)
 mr2022-onboarding-colorway-description-expressionist = <b>Ste expresionista.</b> Vidíte svet inak a vaše výtvory vzbudzujú u ostatných emócie.
 mr2022-onboarding-colorway-label-visionary = Vizionár
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Vizionár
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Vizionár (zelená)
 mr2022-onboarding-colorway-description-visionary = <b>Ste vizionár.</b> Spochybňujete status quo a podnecujete ostatných, aby si predstavovali lepšiu budúcnosť.
 mr2022-onboarding-colorway-label-activist = Aktivista
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktivista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivista (modrá)
 mr2022-onboarding-colorway-description-activist = <b>Ste aktivista.</b> Zanecháte svet lepším miestom, ako ste ho našli, a vediete ostatných, aby verili.
 mr2022-onboarding-colorway-label-dreamer = Zasnívaný
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Zasnívaný
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Zasnívaný (fialová)
 mr2022-onboarding-colorway-description-dreamer = <b>Snívate.</b> Veríte, že šťastie praje odvážnym a inšpirujete ostatných, aby boli odvážni.
 mr2022-onboarding-colorway-label-innovator = Inovátor
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Inovátor
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Inovátor (oranžová)
 mr2022-onboarding-colorway-description-innovator = <b>Ste inovátor.</b> Všade vidíte príležitosti a ovplyvňujete životy všetkých okolo vás.

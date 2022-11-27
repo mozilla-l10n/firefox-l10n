@@ -118,7 +118,9 @@ tabbrowser-confirm-open-multiple-tabs-title = Potvrdenie otvorenia
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
-       *[other] Chystáte sa otvoriť niekoľko kariet naraz (celkom { $tabCount }). Toto môže spomaliť { -brand-short-name } počas ich načítavania. Naozaj chcete pokračovať?
+        [one] Chystáte sa naraz otvoriť { $tabCount } kartu. Toto môže spomaliť { -brand-short-name } počas ich načítavania. Naozaj chcete pokračovať?
+        [few] Chystáte sa naraz otvoriť { $tabCount } karty. Toto môže spomaliť { -brand-short-name } počas ich načítavania. Naozaj chcete pokračovať?
+       *[other] Chystáte sa naraz otvoriť { $tabCount } kariet. Toto môže spomaliť { -brand-short-name } počas ich načítavania. Naozaj chcete pokračovať?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Otvoriť karty
 tabbrowser-confirm-open-multiple-tabs-checkbox = Upozorniť ma v prípade, že otvorenie viacerých kariet by mohlo spomaliť { -brand-short-name }
@@ -135,7 +137,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Nabudúce toto okno nezobrazovať
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Povoliť podobné oznámenia z domény { $domain }, aby vás presmerovali na ich kartu
-tabbrowser-customizemode-tab-title = Prispôsobiť { -brand-short-name }
+tabbrowser-customizemode-tab-title = Prispôsobenie { -brand-short-name(case: "gen") }
 
 ## Context menu buttons, of which only one will be visible at a time
 

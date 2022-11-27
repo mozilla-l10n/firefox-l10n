@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Rozumiem
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tip:
+urlbar-result-menu-button =
+    .title = Otvoriť ponuku
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
