@@ -25,6 +25,12 @@ return-to-amo-addon-title = Tani le të marrin për ju <img data-l10n-name="icon
 return-to-amo-add-extension-label = Shtoje Zgjerimin
 return-to-amo-add-theme-label = Shtoni Temën
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = I thoni njatjeta { -brand-short-name }-it
+mr1-return-to-amo-addon-title = Morët në dorë një shfletues të shpejtë, privat. Tani mund të shtoni <b>{ $addon-name }</b> dhe të bëni edhe më shumë gjëra me { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Shtoni { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
