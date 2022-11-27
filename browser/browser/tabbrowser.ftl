@@ -107,8 +107,20 @@ tabbrowser-confirm-close-windows-button =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
-tabbrowser-confirm-close-tabs-with-key-title = Chcete zavřít okno a ukončit aplikaci { -brand-short-name }?
-tabbrowser-confirm-close-tabs-with-key-button = Ukončit aplikaci { -brand-short-name }
+tabbrowser-confirm-close-tabs-with-key-title =
+    { -brand-short-name.gender ->
+        [masculine] Chcete zavřít okno a ukončit { -brand-short-name(case: "acc") }?
+        [feminine] Chcete zavřít okno a ukončit { -brand-short-name(case: "acc") }?
+        [neuter] Chcete zavřít okno a ukončit { -brand-short-name(case: "acc") }?
+       *[other] Chcete zavřít okno a ukončit aplikaci { -brand-short-name }?
+    }
+tabbrowser-confirm-close-tabs-with-key-button =
+    { -brand-short-name.gender ->
+        [masculine] Ukončit { -brand-short-name(case: "acc") }
+        [feminine] Ukončit { -brand-short-name(case: "acc") }
+        [neuter] Ukončit { -brand-short-name(case: "acc") }
+       *[other] Ukončit aplikaci { -brand-short-name }
+    }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vždy se zeptat při ukončování aplikace zkratkou { $quitKey }
@@ -119,11 +131,20 @@ tabbrowser-confirm-open-multiple-tabs-title = Potvrdit otevření
 # Variables:
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
-    { $tabCount ->
+    { -brand-short-name.gender ->
+        [masculine] Chystáte se najednou otevřít více panelů ({ $tabCount }), a to může { -brand-short-name(case: "acc") } zpomalit. Opravdu chcete pokračovat?
+        [feminine] Chystáte se najednou otevřít více panelů ({ $tabCount }), a to může { -brand-short-name(case: "acc") } zpomalit. Opravdu chcete pokračovat?
+        [neuter] Chystáte se najednou otevřít více panelů ({ $tabCount }), a to může { -brand-short-name(case: "acc") } zpomalit. Opravdu chcete pokračovat?
        *[other] Chystáte se najednou otevřít více panelů ({ $tabCount }), a to může aplikaci { -brand-short-name } zpomalit. Opravdu chcete pokračovat?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Otevřít panely
-tabbrowser-confirm-open-multiple-tabs-checkbox = Varovat, pokud by mohlo otevírání více panelů aplikaci { -brand-short-name } zpomalit
+tabbrowser-confirm-open-multiple-tabs-checkbox =
+    { -brand-short-name.gender ->
+        [masculine] Varovat, pokud by mohlo otevírání více panelů { -brand-short-name(case: "acc") } zpomalit
+        [feminine] Varovat, pokud by mohlo otevírání více panelů { -brand-short-name(case: "acc") } zpomalit
+        [neuter] Varovat, pokud by mohlo otevírání více panelů { -brand-short-name(case: "acc") } zpomalit
+       *[other] Varovat, pokud by mohlo otevírání více panelů aplikaci { -brand-short-name } zpomalit
+    }
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -137,7 +158,13 @@ tabbrowser-confirm-caretbrowsing-checkbox = Tento dialog příště nezobrazovat
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Povolit podobným oznámením ze serveru { $domain } přepínat na svůj panel
-tabbrowser-customizemode-tab-title = Přizpůsobit { -brand-short-name }
+tabbrowser-customizemode-tab-title =
+    { -brand-short-name.gender ->
+        [masculine] Přizpůsobit { -brand-short-name(case: "acc") }
+        [feminine] Přizpůsobit { -brand-short-name(case: "acc") }
+        [neuter] Přizpůsobit { -brand-short-name(case: "acc") }
+       *[other] Přizpůsobit aplikaci { -brand-short-name }
+    }
 
 ## Context menu buttons, of which only one will be visible at a time
 

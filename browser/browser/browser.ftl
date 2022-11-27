@@ -255,7 +255,7 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Zobrazit doplňky
 # Opens the bookmarks library window
 quickactions-bookmarks = Zobrazit záložky
@@ -994,8 +994,20 @@ unified-extensions-button =
 
 ## Autorefresh blocker
 
-refresh-blocked-refresh-label = Aplikace { -brand-short-name } zabránila této stránce v automatickém opětovném načtení.
-refresh-blocked-redirect-label = Aplikace { -brand-short-name } zabránila této stránce v automatickém přesměrování na jinou stránku.
+refresh-blocked-refresh-label =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zabránil této stránce v automatickém opětovném načtení.
+        [feminine] { -brand-short-name } zabránila této stránce v automatickém opětovném načtení.
+        [neuter] { -brand-short-name } zabránilo této stránce v automatickém opětovném načtení.
+       *[other] Aplikace { -brand-short-name } zabránila této stránce v automatickém opětovném načtení.
+    }
+refresh-blocked-redirect-label =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zabránil této stránce v automatickém přesměrování na jinou stránku.
+        [feminine] { -brand-short-name } zabránila této stránce v automatickém přesměrování na jinou stránku.
+        [neuter] { -brand-short-name } zabránilo této stránce v automatickém přesměrování na jinou stránku.
+       *[other] Aplikace { -brand-short-name } zabránila této stránce v automatickém přesměrování na jinou stránku.
+    }
 refresh-blocked-allow =
     .label = Povolit
     .accesskey = P
