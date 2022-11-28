@@ -8,13 +8,20 @@
 
 ## about:pocket-saved panel
 
+# Placeholder text for tag input
+pocket-panel-saved-add-tags =
+    .placeholder = ٹیگ شامل کرو
+pocket-panel-saved-error-not-saved = ورقہ محفوظ کائنی تھیا
 pocket-panel-saved-page-removed = ورقہ ہٹا ݙتا ڳیا
 pocket-panel-saved-page-saved = { -pocket-brand-name } وچ محفوظ تھیا
 pocket-panel-saved-page-saved-b = { -pocket-brand-name } وچ محفوظ تھیا!
 pocket-panel-saved-remove-page = ورقہ ہٹاؤ
 pocket-panel-saved-save-tags = محفوظ
 pocket-panel-saved-saving-tags = محفوظ کریندا پئے۔۔۔
+pocket-panel-saved-tags-saved = ٹیگ شامل تھئے
 pocket-panel-signup-view-list = تندیر ݙیکھو
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = ٹیگ شامل کرو:
 
 ## about:pocket-signup panel
 
