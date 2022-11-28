@@ -28,7 +28,7 @@ return-to-amo-add-theme-label = Lisää teema
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Tervehdi { -brand-short-name }ia
-mr1-return-to-amo-addon-title = Sinulla on nopea, yksityinen selain sormiesi ulottuvilla. Nyt voit lisätä laajennuksen <b>{ $addon-name }</b> ja tehdä entistä enemmän käyttämällä { -brand-short-name }ia.
+mr1-return-to-amo-addon-title = Sinulla on nopea, yksityinen selain sormiesi ulottuvilla. Nyt voit lisätä laajennuksen <b>{ $addon-name }</b> ja tehdä entistä enemmän { -brand-short-name }illa.
 mr1-return-to-amo-add-extension-label = Lisää { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
