@@ -43,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = ขนาดบัฟเฟอร์:
-
 perftools-custom-threads-label = เพิ่มหัวข้อที่กำหนดเองตามชื่อ:
-
 perftools-devtools-interval-label = ช่วงเวลา:
 perftools-devtools-threads-label = เธรด:
 perftools-devtools-settings-label = การตั้งค่า
@@ -101,7 +99,6 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = ข้ามการเลือกด้านบนและบันทึกเธรดที่ลงทะเบียนทั้งหมด
-
 perftools-tools-threads-input-label =
     .title = ชื่อเธรดเหล่านี้เป็นรายการที่คั่นด้วยจุลภาคที่ใช้ในการเปิดใช้งานการสร้างโปรไฟล์ของเธรดในตัวสร้างโปรไฟล์ ชื่อจะต้องตรงกับชื่อเธรดที่จะรวมเพียงบางส่วนเท่านั้น โดยจะมีการเทียบช่องว่างด้วย
 
@@ -109,7 +106,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>ใหม่</b>: { -profiler-brand-name } ถูกรวมเข้ากับเครื่องมือสำหรับนักพัฒนาแล้ว <a>เรียนรู้เพิ่มเติม</a>เกี่ยวกับเครื่องมือใหม่อันทรงพลังนี้
-
 perftools-onboarding-close-button =
     .aria-label = ปิดข้อความออนบอร์ด
 
@@ -122,19 +118,16 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = นักพัฒนาเว็บ
 perftools-presets-web-developer-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กเว็บแอปส่วนใหญ่ โดยมีโอเวอร์เฮดต่ำ
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการรวบรวมประวัติ { -brand-shorter-name }
-
 perftools-presets-graphics-label = กราฟิก
 perftools-presets-graphics-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับกราฟิกใน { -brand-shorter-name }
-
 perftools-presets-media-label = สื่อ
 perftools-presets-media-description2 = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับเสียงและวิดีโอใน { -brand-shorter-name }
-
 perftools-presets-networking-label = ระบบเครือข่าย
 perftools-presets-networking-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับระบบเครือข่ายใน { -brand-shorter-name }
-
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = พลังงาน
 perftools-presets-custom-label = กำหนดเอง
 
 ##

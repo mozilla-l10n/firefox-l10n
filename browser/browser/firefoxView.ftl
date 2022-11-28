@@ -69,6 +69,7 @@ firefoxview-change-colorway-button = เปลี่ยนชุดรูปแ�
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>ยังไม่มีอะไรให้ดู</strong><br/>เมื่อคุณเปิดหน้าใน { -brand-product-name } บนอุปกรณ์อื่นครั้งถัดไป ให้นำหน้านั้นเข้ามาไว้ในนี้ได้เลย
+firefoxview-synced-tabs-placeholder-header = ยังไม่มีอะไรให้ดู
 firefoxview-collapse-button-show =
     .title = แสดงรายการ
 firefoxview-collapse-button-hide =

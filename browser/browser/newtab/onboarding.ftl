@@ -25,6 +25,10 @@ return-to-amo-addon-title = ตอนนี้มาติดตั้ง <img d
 return-to-amo-add-extension-label = เพิ่มส่วนขยาย
 return-to-amo-add-theme-label = เพิ่มธีม
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-add-extension-label = เพิ่ม { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
