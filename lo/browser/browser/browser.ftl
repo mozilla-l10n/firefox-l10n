@@ -350,6 +350,7 @@ identity-remove-cert-exception =
     .label = ລຶບຂໍ້ຍົກເວັ້ນ
     .accesskey = R
 identity-description-passive-loaded-insecure = ເວັບໄຊທ໌ນີ້ມີເນື້ອຫາທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ຮູບພາບ). <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
+identity-description-active-loaded = ເວັບໄຊທ໌ນີ້ມີເນື້ອຫາທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ສະຄຣິບ) ແລະການເຊື່ອມຕໍ່ຂອງເຈົ້າກັບມັນບໍ່ແມ່ນສ່ວນຕົວ.
 identity-learn-more =
     .value = ຮຽນຮູ້ເພີ່ມເຕີມ
 identity-disable-mixed-content-blocking =
