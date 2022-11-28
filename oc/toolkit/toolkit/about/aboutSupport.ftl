@@ -120,6 +120,7 @@ place-database-stats-count = Nombre
 place-database-stats-size-kib = Talha (Ko)
 place-database-stats-size-perc = Talha (%)
 place-database-stats-efficiency-perc = Eficacitat (%)
+place-database-stats-sequentiality-perc = Sequencialitat (%)
 place-database-integrity = Integritat
 place-database-verify-integrity = Verificar l'integritat
 a11y-title = Accessibilitat
