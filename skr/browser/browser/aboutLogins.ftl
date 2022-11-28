@@ -16,10 +16,16 @@ fxaccounts-avatar-button =
 menu =
     .title = مینیو کھولو
 about-logins-menu-menuitem-remove-all-logins = سارے لاگ ان ہٹاؤ۔۔۔
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] اختیارات
+       *[other] ترجیحاں
+    }
 about-logins-menu-menuitem-help = مدد
 
 ## Login List
 
+login-list-intro-title = کوئی لاگ ان کائنی لبھے
 about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
 login-list-item-title-new-login = نواں لاگ ان
 login-list-item-subtitle-new-login = آپݨی لاگ ان سنداں درج کرو
@@ -140,9 +146,15 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = درآمد مکمل تھئی
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>نویں لاگ ان شامل تھئے:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-done = تھی ڳیا
+about-logins-import-dialog-error-file-permission-title = فائل پڑھݨ کنوں قاصر
 about-logins-import-dialog-error-learn-more = ٻیا سِکھو
 about-logins-import-dialog-error-cancel = منسوخ
+about-logins-import-report-row-description-added = نواں لاگ ان شامل تھیا
 
 ##
 ## Variables:

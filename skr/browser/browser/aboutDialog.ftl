@@ -9,6 +9,7 @@ update-checkForUpdatesButton =
     .label = اپڈیٹاں کیتے ݙیکھو
     .accesskey = C
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
+update-restarting = ولدا شروع تھیندا پئے۔۔۔
 aboutdialog-help-user = { -brand-product-name } مدد
 aboutdialog-submit-feedback = آپݨی رائے جمع کرواؤ
 bottomLinks-license = لائسنس ڄاݨکاری
