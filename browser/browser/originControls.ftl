@@ -31,3 +31,4 @@ origin-controls-state-always-on = Kann immer Daten auf dieser Website lesen und 
 origin-controls-state-when-clicked = Berechtigung zum Lesen und Ändern von Daten erforderlich
 origin-controls-state-hover-run-visit-only = Nur für diesen Besuch ausführen
 origin-controls-state-runnable-hover-open = Erweiterung öffnen
+origin-controls-state-runnable-hover-run = Erweiterung ausführen
