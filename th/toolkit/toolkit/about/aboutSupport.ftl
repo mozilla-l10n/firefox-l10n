@@ -115,6 +115,7 @@ place-database-title = ฐานข้อมูลสถานที่
 place-database-stats = สถิติ
 place-database-stats-show = แสดงสถิติ
 place-database-stats-hide = ซ่อนสถิติ
+place-database-stats-count = จำนวน
 place-database-stats-size-kib = ขนาด (KiB)
 place-database-stats-size-perc = ขนาด (%)
 place-database-stats-efficiency-perc = ประสิทธิภาพ (%)
