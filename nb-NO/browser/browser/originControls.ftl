@@ -30,3 +30,5 @@ origin-controls-state-no-access = Kan ikke lese og endre data på dette nettsted
 origin-controls-state-always-on = Kan alltid lese og endre data på dette nettstedet
 origin-controls-state-when-clicked = Tillatelse kreves for å lese og endre data
 origin-controls-state-hover-run-visit-only = Kjør kun for dette besøket
+origin-controls-state-runnable-hover-open = Åpne utvidelse
+origin-controls-state-runnable-hover-run = Kjør utvidelse
