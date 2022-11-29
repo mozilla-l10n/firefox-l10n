@@ -245,6 +245,9 @@ firefoxview-cfr-secondarybutton = Non adesso
 firefoxview-cfr-header = Riprendi le schede chiuse di recente con { -firefoxview-brand-name }
 firefoxview-cfr-body = In più, passa velocemente da un dispositivo all’altro e aggiungi un tocco di colore al tuo browser.
 
+firefoxview-cfr-header-v2 = Riprendi da dove eri rimasto
+firefoxview-cfr-body-v2 = Recupera le schede chiuse di recente e passa velocemente da un dispositivo all’altro con { -firefoxview-brand-name }.
+
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ti presentiamo { -firefoxview-brand-name }
