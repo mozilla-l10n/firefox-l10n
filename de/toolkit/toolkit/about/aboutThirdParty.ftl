@@ -4,15 +4,12 @@
 
 third-party-page-title = Informationen zu Modulen von Drittanbietern
 third-party-section-title = Liste der Module von Drittanbietern in { -brand-short-name }
-
 third-party-intro =
     Diese Seite zeigt die Module von Drittanbietern, die in { -brand-short-name }
     installiert wurden. Jedes Modul, das nicht von Microsoft oder
     { -vendor-short-name } signiert wurde, gilt als Modul von Drittanbietern.
-
 third-party-message-empty = Es wurden keine Module von Drittanbietern erkannt.
 third-party-message-no-duration = Nicht aufgezeichnet
-
 third-party-detail-version = Dateiversion
 third-party-detail-vendor = Herstellerinformationen
 third-party-detail-occurrences = Vorkommen
@@ -21,11 +18,9 @@ third-party-detail-duration = Durchschn. blockierte Zeit (ms)
     .title = Wie lange dieses Module die Anwendung blockiert hat.
 third-party-detail-app = Anwendung
 third-party-detail-publisher = Herausgeber
-
 third-party-th-process = Prozess
 third-party-th-duration = Ladedauer (ms)
 third-party-th-status = Status
-
 third-party-tag-ime = IME
     .title = Diese Art von Modul wird geladen, wenn Sie einen IME von Drittanbietern verwenden.
 third-party-tag-shellex = Shell-Erweiterung
@@ -36,11 +31,9 @@ third-party-unsigned-icon =
     .title = Dieses Modul wurde nicht signiert.
 third-party-warning-icon =
     .title = { -brand-short-name } ist in Code von diesem Modul abgestürzt.
-
 third-party-status-loaded = Geladen
 third-party-status-blocked = Blockiert
 third-party-status-redirected = Weitergeleitet
-
 third-party-button-copy-to-clipboard = Rohdaten in die Zwischenablage kopieren
 third-party-button-reload = Mit System-Informationen neu laden
     .title = Mit System-Informationen neu laden
