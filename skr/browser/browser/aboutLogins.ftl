@@ -25,6 +25,11 @@ about-logins-menu-menuitem-help = مدد
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } لاگ ان
+       *[other] { $count } لاگ اناں
+    }
 login-list-intro-title = کوئی لاگ ان کائنی لبھے
 about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
 login-list-item-title-new-login = نواں لاگ ان
