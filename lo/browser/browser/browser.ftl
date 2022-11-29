@@ -351,6 +351,7 @@ identity-remove-cert-exception =
     .accesskey = R
 identity-description-passive-loaded-insecure = ເວັບໄຊທ໌ນີ້ມີເນື້ອຫາທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ຮູບພາບ). <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
 identity-description-active-loaded = ເວັບໄຊທ໌ນີ້ມີເນື້ອຫາທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ສະຄຣິບ) ແລະການເຊື່ອມຕໍ່ຂອງເຈົ້າກັບມັນບໍ່ແມ່ນສ່ວນຕົວ.
+identity-description-active-loaded-insecure = ຂໍ້ມູນທີ່ທ່ານແບ່ງປັນກັບເວັບໄຊນີ້ສາມາດຖືກເບິ່ງໂດຍຜູ້ອື່ນ (ເຊັ່ນ: ລະຫັດຜ່ານ, ຂໍ້ຄວາມ, ບັດເຄຣດິດ, ແລະອື່ນໆ).
 identity-learn-more =
     .value = ຮຽນຮູ້ເພີ່ມເຕີມ
 identity-disable-mixed-content-blocking =
@@ -442,6 +443,11 @@ urlbar-placeholder-search-mode-other-history =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ຊອກຫາດ້ວຍ { $name } ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = ໂປຣແກຣມທ່ອງເວັບຢູ່ພາຍໃຕ້ການຄວບຄຸມທາງໄກ (ເຫດຜົນ: { $component })
 urlbar-permissions-granted =
     .tooltiptext = ທ່ານໄດ້ໃຫ້ການອະນຸຍາດເພີ່ມເຕີມແກ່ເວັບໄຊທ໌ນີ້.
 urlbar-switch-to-tab =
