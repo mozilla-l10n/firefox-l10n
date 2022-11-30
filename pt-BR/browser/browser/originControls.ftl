@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Permissão necessária para ler e alterar d
 origin-controls-state-hover-run-visit-only = Executar apenas nesta visita
 origin-controls-state-runnable-hover-open = Abrir extensão
 origin-controls-state-runnable-hover-run = Executar extensão
+origin-controls-state-temporary-access = Pode ler e alterar dados desta visita
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Permissão necessária
