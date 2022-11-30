@@ -207,6 +207,8 @@ firefoxview-cfr-secondarybutton = Ҳоло не
     .accesskey = Ҳ
 firefoxview-cfr-header = Ҳамаи варақаҳои ба наздикӣ пушидашударо тавассути «{ -firefoxview-brand-name }» барқарор кунед
 firefoxview-cfr-body = Илова бар ин, байни дастгоҳҳои худ бе халал гузаред ва ба браузери худ як ҷилои рангинро илова кунед.
+firefoxview-cfr-header-v2 = Ба он ҷое, ки шумо ба қарибӣ тамошо кардаед, тез баргардонед
+firefoxview-cfr-body-v2 = Варақаҳои ба наздикӣ пӯшидашударо барқарор кунед, аз он ҷумла бо { -firefoxview-brand-name } аз як дастгоҳ ба дастгоҳии дигар бефосила гузаред.
 
 ## Firefox View Spotlight
 
