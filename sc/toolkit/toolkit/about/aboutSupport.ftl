@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informatzione de curretzione de faddinas
-
 crashes-title = Informes de faddinas
 crashes-id = Identificadore de s'informe
 crashes-send-date = Data de imbiu
 crashes-all-reports = Totu is informes de faddina
+support-addons-title = Cumplementos
 support-addons-name = Nòmine
 support-addons-type = Genia
 support-addons-enabled = Ativadu
@@ -58,7 +58,12 @@ app-basics-location-service-key-google = Crae de su servìtziu de positzione de 
 app-basics-safebrowsing-key-google = Crae de su servìtziu de navigatzione segura Google Safebrowsing
 app-basics-key-mozilla = Crae de su servìtziu de positzione de Mozilla
 app-basics-safe-mode = Modalidade segura
-
+app-basics-memory-size = Mannària de sa memòria (RAM)
+app-basics-disk-available = Ispàtziu de discu a disponimentu
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Ammustra in Finder
@@ -82,6 +87,20 @@ graphics-features-title = Caraterìsticas
 graphics-diagnostics-title = Diagnòsticos
 graphics-failure-log-title = Registru de faddinas
 graphics-gpu1-title = GPU nùm. 1
+graphics-gpu2-title = GPU nùm. 2
+graphics-decision-log-title = Registru de detzisiones
+graphics-workarounds-title = Solutziones alternativas
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocollu de ventanas
+place-database-stats = Istatìsticas
+place-database-stats-show = Ammustra is istatìsticas
+place-database-stats-hide = Cua is istatìsticas
+place-database-stats-entity = Entidade
+place-database-stats-count = Contègiu
+place-database-stats-size-kib = Mannària (KiB)
+place-database-stats-size-perc = Mannària (%)
+a11y-title = Atzessibilidade
+a11y-activated = Ativadu
 
 ## Media titles
 
@@ -113,7 +132,6 @@ no = Nono
 ## not found.
 
 gpu-description = Descritzione
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

@@ -7,6 +7,10 @@ about-performance-title = Gestore de tareas
 
 ## Column headers
 
+column-name = Nòmine
+column-type = Genia
+column-energy-impact = Consumu de energia
+column-memory = Memòria
 
 ## Special values for the Name column
 
@@ -34,4 +38,3 @@ close-tab =
     .title = Serra s'ischeda
 show-addon =
     .title = Ammustra su gestore de cumplementos
-
