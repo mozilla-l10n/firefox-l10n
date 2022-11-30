@@ -111,6 +111,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Сабти рӯйдодҳои қарор
 graphics-crash-guards-title = Хусусиятҳои ғайрифаъолшуда бо муҳофизи зидди вайроншавӣ
 graphics-workarounds-title = Усулҳои бартарафсозӣ
+graphics-device-pixel-ratios = Таносуби пикселҳои дастгоҳи равзана
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Протоколи идоракунии равзанаҳо
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
