@@ -25,6 +25,11 @@ return-to-amo-addon-title = Immoe amus a installare <img data-l10n-name="icon"/>
 return-to-amo-add-extension-label = Agiunghe s'estensione
 return-to-amo-add-theme-label = Agiunghe su tema
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Dona su benebènnidu a { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Agiunghe { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -327,40 +332,30 @@ mr2022-onboarding-colorway-subtitle = Is boghes indipendentes podent cambiare sa
 mr2022-onboarding-colorway-primary-button-label-continue = Cunfigura e sighi
 mr2022-onboarding-existing-colorway-checkbox-label = Faghe de { -firefox-home-brand-name } una pàgina printzipale prena de colores
 mr2022-onboarding-colorway-label-default = Predefinidu
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Predefinidu
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Colores de { -brand-short-name } atuales
 mr2022-onboarding-colorway-description-default = <b>Imprea is colores de { -brand-short-name } atuales.</b>
 mr2022-onboarding-colorway-label-playmaker = Regista
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Regista
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Regista (rùbiu)
+mr2022-onboarding-colorway-description-playmaker = <b>Ses regista.</b> Creas oportunidades pro bìnchere e agiudare a chie tenes acanta a megiorare su giogu.
 mr2022-onboarding-colorway-label-expressionist = Espressionista
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Espressionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Espressionista (grogu)
+mr2022-onboarding-colorway-description-expressionist = <b>Ses un'espressionista.</b> Bides su mundu in una manera diversa e is creatziones tuas iscidant is emotziones de àtere.
 mr2022-onboarding-colorway-label-visionary = Bisadora
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Bisadora
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Bisadora (birde)
+mr2022-onboarding-colorway-description-visionary = <b>Tenes una visione.</b> Pones in duda su status quo e cumbinches is àteras persones a immaginare unu mundu mègius.
 mr2022-onboarding-colorway-label-activist = Ativista
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Ativista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Ativista (biaitu)
 mr2022-onboarding-colorway-description-activist = <b>Ses un'ativista.</b> Lassas su mundu che a mègius de su chi as agatadu e ghias is àteras persones a crèere in su cambiamentu.
 mr2022-onboarding-colorway-label-dreamer = Sonniadora
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Sonniadora
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sonniadora (muradu)
+mr2022-onboarding-colorway-description-dreamer = <b>Tenes unu bisu.</b> Crees chi sa fortuna agiudet is fortes e ispiret is àteras persones a èssere coragiosas.
 mr2022-onboarding-colorway-label-innovator = Annoadora
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Annoadora
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Annoadora (aràngiu)
 
@@ -402,3 +397,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Cumintza a navigare
 onboarding-infrequent-import-title = Faghe comente in domo tua
 onboarding-infrequent-import-subtitle = Non faghet nudda si boles abarrare o si ses de passàgiu. Regorda chi podes importare sinnalibros, craes e meda de prus.
 onboarding-infrequent-import-primary-button = Importa dae { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
