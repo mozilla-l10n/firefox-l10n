@@ -99,6 +99,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Registro decisioni
 graphics-crash-guards-title = Funzioni disattivate da Crash Guard
 graphics-workarounds-title = Soluzioni alternative
+graphics-device-pixel-ratios = Proporzioni pixel dispositivo delle finestre
 graphics-window-protocol = Protocollo finestra
 graphics-desktop-environment = Ambiente desktop
 place-database-title = Database Places
