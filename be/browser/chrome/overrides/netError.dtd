@@ -46,7 +46,7 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.longDesc "<p>Запатрабаваны дакумент не даступны ў кэшы &brandShortName;.</p><ul><li>Дзеля бяспекі &brandShortName; не перазапытвае значныя дакументы самастойна.</li><li>Пстрыкніце &quot;Паспрабаваць зноў&quot;, каб запытаць дакумент з вэб-сайта ізноў.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Запатрабаваны дакумент не даступны ў кэшы &brandShortName;.</p><ul><li>Дзеля бяспекі &brandShortName; не перазапытвае значныя дакументы самастойна.</li><li>Націсніце &quot;Паспрабаваць зноў&quot;, каб запытаць дакумент з вэб-сайта ізноў.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Націсніце &quot;Паспрабаваць зноў&quot;, каб перключыцца ў сеткавы рэжым і абнавіць старонку.</li> </ul>">
 
