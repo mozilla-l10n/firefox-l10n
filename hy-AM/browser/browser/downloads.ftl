@@ -123,6 +123,8 @@ downloads-open-file =
 ##   $minutes (number) - Amount of minutes till the file opens.
 
 downloading-file-opens-in-some-time = Կբացի ավարտելուց հետո…
+downloading-file-opens-in-some-time-2 =
+    .value = Կբացի ավարտելուց հետո…
 downloading-file-click-to-open =
     .value = Բացել ավարտելուց հետո
 
