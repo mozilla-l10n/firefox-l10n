@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Heimild þarf til að lesa og breyta gögnu
 origin-controls-state-hover-run-visit-only = Keyra aðeins fyrir þessa heimsókn
 origin-controls-state-runnable-hover-open = Opna forritsauka
 origin-controls-state-runnable-hover-run = Keyra forritsauka
+origin-controls-state-temporary-access = Getur lesið og breytt gögnum fyrir þessa heimsókn
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Heimild nauðsynleg

@@ -934,6 +934,15 @@ unified-extensions-button =
     .label = Forritsaukar
     .tooltiptext = Forritsaukar
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Forritsaukar
+    .tooltiptext =
+        Forritsaukar
+        Heimildir nauðsynlegar
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } kom í veg fyrir að síðan myndi endurnýjast sjálfkrafa.
