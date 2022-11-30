@@ -40,9 +40,27 @@ pictureinpicture-close-cmd =
 pictureinpicture-subtitles-cmd =
     .aria-label = 字幕
     .title = 字幕
+pictureinpicture-pause-btn =
+    .aria-label = 暂停
+    .tooltip = 暂停（空格键）
+pictureinpicture-play-btn =
+    .aria-label = 播放
+    .tooltip = 播放（空格键）
+pictureinpicture-mute-btn =
+    .aria-label = 静音
+    .tooltip = 静音（{ $shortcut }）
+pictureinpicture-unmute-btn =
+    .aria-label = 取消静音
+    .tooltip = 取消静音（{ $shortcut }）
 pictureinpicture-unpip-btn =
     .aria-label = 切回标签页
     .tooltip = 切回标签页
+pictureinpicture-close-btn =
+    .aria-label = 关闭
+    .tooltip = 关闭（{ $shortcut }）
+pictureinpicture-subtitles-btn =
+    .aria-label = 字幕
+    .tooltip = 字幕
 
 ##
 
