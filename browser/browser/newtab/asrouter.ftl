@@ -207,6 +207,7 @@ firefoxview-cfr-secondarybutton = Όχι τώρα
     .accesskey = χ
 firefoxview-cfr-header = Λάβετε πρόσφατα κλεισμένες καρτέλες με την { -firefoxview-brand-name }
 firefoxview-cfr-body = Επιπλέον, κάντε απρόσκοπτη εναλλαγή μεταξύ συσκευών και προσθέστε μια πινελιά χρώματος στο πρόγραμμα περιήγησής σας.
+firefoxview-cfr-header-v2 = Συνεχίστε γρήγορα από εκεί που σταματήσατε
 
 ## Firefox View Spotlight
 

@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Αρχείο καταγραφής αποφάσεων
 graphics-crash-guards-title = Ανενεργές λειτουργίες φύλαξης καταρρεύσεων
 graphics-workarounds-title = Λύσεις
+graphics-device-pixel-ratios = Αναλογίες εικονοστοιχείων συσκευής παραθύρου
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Πρωτόκολλο παραθύρου
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
