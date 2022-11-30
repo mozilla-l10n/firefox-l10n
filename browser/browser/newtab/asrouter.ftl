@@ -206,6 +206,8 @@ firefoxview-cfr-secondarybutton = Agora não
     .accesskey = A
 firefoxview-cfr-header = Recupere abas fechadas recentemente com o { -firefoxview-brand-name }
 firefoxview-cfr-body = Passe facilmente de um dispositivo para outro e adicione a um colorido ao seu navegador.
+firefoxview-cfr-header-v2 = Continue rapidamente de onde parou
+firefoxview-cfr-body-v2 = Recupere abas fechadas recentemente, além de alternar facilmente entre dispositivos com o { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
