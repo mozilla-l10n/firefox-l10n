@@ -67,19 +67,19 @@ webrtc-screen-system-menu =
 ## Tooltips used by the legacy global sharing indicator
 
 webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Існуе сумесны доступ да вашай камеры і мікрафона. Пстрыкніце для кантролю сумеснага доступу.
+    .tooltiptext = Існуе сумесны доступ да вашай камеры і мікрафона. Націсніце для кантролю сумеснага доступу.
 webrtc-indicator-sharing-camera =
-    .tooltiptext = Існуе сумесны доступ да вашай камеры. Пстрыкніце для кантролю сумеснага доступу.
+    .tooltiptext = Існуе сумесны доступ да вашай камеры. Націсніце для кантролю сумеснага доступу.
 webrtc-indicator-sharing-microphone =
-    .tooltiptext = Існуе сумесны доступ да вашага мікрафона. Пстрыкніце для кантролю сумеснага доступу.
+    .tooltiptext = Існуе сумесны доступ да вашага мікрафона. Націсніце для кантролю сумеснага доступу.
 webrtc-indicator-sharing-application =
-    .tooltiptext = Існуе сумесны доступ да прыкладання. Пстрыкніце для кантролю сумеснага доступу.
+    .tooltiptext = Існуе сумесны доступ да прыкладання. Націсніце для кантролю сумеснага доступу.
 webrtc-indicator-sharing-screen =
-    .tooltiptext = Існуе сумесны доступ да вашага экрана. Пстрыкніце для кантролю сумеснага доступу.
+    .tooltiptext = Існуе сумесны доступ да вашага экрана. Націсніце для кантролю сумеснага доступу.
 webrtc-indicator-sharing-window =
-    .tooltiptext = Існуе сумесны доступ да вакна. Пстрыкніце для кантролю сумеснага доступу.
+    .tooltiptext = Існуе сумесны доступ да акна. Націсніце для кантролю сумеснага доступу.
 webrtc-indicator-sharing-browser =
-    .tooltiptext = Існуе сумесны доступ да карткі. Пстрыкніце для кантролю сумеснага доступу.
+    .tooltiptext = Існуе сумесны доступ да карткі. Націсніце для кантролю сумеснага доступу.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
