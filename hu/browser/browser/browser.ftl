@@ -934,6 +934,15 @@ unified-extensions-button =
     .label = Kiegészítők
     .tooltiptext = Kiegészítők
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Kiegészítők
+    .tooltiptext =
+        Kiegészítők
+        Jogosultságok szükségesek
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = A { -brand-short-name } megakadályozta, hogy az oldal automatikusan újratöltődjön.

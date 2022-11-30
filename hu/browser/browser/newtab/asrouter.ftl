@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Most nem
     .accesskey = n
 firefoxview-cfr-header = A nemrég bezárt lapok visszaállítása a { -firefoxview-brand-name } segítségével
 firefoxview-cfr-body = Ezenkívül zökkenőmentesen válthat az eszközök között, és színesítheti böngészőjét.
+firefoxview-cfr-header-v2 = Folytassa gyorsan ott, ahol abbahagyta
+firefoxview-cfr-body-v2 = Szerezze vissza a nemrég bezárt lapokat, és zökkenőmentesen váltson az eszközök között a { -firefoxview-brand-name } segítségével.
 
 ## Firefox View Spotlight
 
