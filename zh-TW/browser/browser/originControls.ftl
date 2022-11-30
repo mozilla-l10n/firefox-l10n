@@ -32,6 +32,7 @@ origin-controls-state-when-clicked = 需要點擊授權才可讀取或變更資�
 origin-controls-state-hover-run-visit-only = 只對此次造訪執行
 origin-controls-state-runnable-hover-open = 開啟擴充套件
 origin-controls-state-runnable-hover-run = 執行擴充套件
+origin-controls-state-temporary-access = 可在此次造訪讀取或變更資料
 
 ## Extension's toolbar button.
 ## Variables:
@@ -40,3 +41,8 @@ origin-controls-state-runnable-hover-run = 執行擴充套件
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle } 需要權限

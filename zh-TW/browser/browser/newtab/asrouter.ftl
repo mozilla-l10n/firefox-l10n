@@ -203,6 +203,8 @@ firefoxview-cfr-secondarybutton = 現在不要
     .accesskey = N
 firefoxview-cfr-header = 使用 { -firefoxview-brand-name } 開回最近關閉的分頁
 firefoxview-cfr-body = 此外還可以於不同裝置間無縫跳轉，再為瀏覽器妝點一抹色彩。
+firefoxview-cfr-header-v2 = 快速從結束的地方繼續
+firefoxview-cfr-body-v2 = 透過 { -firefoxview-brand-name } 快速取回最近關閉的分頁，另外還可以在裝置間無縫切換。
 
 ## Firefox View Spotlight
 
