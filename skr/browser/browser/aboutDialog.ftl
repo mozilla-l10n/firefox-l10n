@@ -10,6 +10,7 @@ update-checkForUpdatesButton =
     .accesskey = C
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
 update-restarting = ولدا شروع تھیندا پئے۔۔۔
+warningDesc-version = { -brand-short-name } تجرباتی ہے تے ٹھیک کم کائناں کر سڳسی۔
 aboutdialog-help-user = { -brand-product-name } مدد
 aboutdialog-submit-feedback = آپݨی رائے جمع کرواؤ
 bottomLinks-license = لائسنس ڄاݨکاری

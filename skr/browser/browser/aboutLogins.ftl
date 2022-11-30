@@ -30,6 +30,10 @@ login-list-count =
         [one] { $count } لاگ ان
        *[other] { $count } لاگ اناں
     }
+login-list-name-option = ناں(A-Z)
+login-list-name-reverse-option = ناں (Z-A)
+login-list-username-option = ورتݨ ناں (A-Z)
+login-list-username-reverse-option = ورتݨ ناں (Z-A)
 login-list-intro-title = کوئی لاگ ان کائنی لبھے
 about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
 login-list-item-title-new-login = نواں لاگ ان
