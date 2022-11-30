@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = נדרשת הרשאה כדי לקרוא ו�
 origin-controls-state-hover-run-visit-only = להריץ לביקור זה בלבד
 origin-controls-state-runnable-hover-open = פתיחת ההרחבה
 origin-controls-state-runnable-hover-run = פתיחת ההרחבה
+origin-controls-state-temporary-access = יכולה לקרוא ולשנות נתונים עבור ביקור זה
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        נדרשות הרשאות
