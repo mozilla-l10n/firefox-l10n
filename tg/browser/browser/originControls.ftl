@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Барои хондан ва тағйир �
 origin-controls-state-hover-run-visit-only = Танҳо барои ин боздид иҷро карда шавад
 origin-controls-state-runnable-hover-open = Кушодани васеъшавӣ
 origin-controls-state-runnable-hover-run = Иҷро кардани васеъшавӣ
+origin-controls-state-temporary-access = Дар ин боздид маълумотро хонда ва тағйир дода метавонад
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Иҷозат лозим аст
