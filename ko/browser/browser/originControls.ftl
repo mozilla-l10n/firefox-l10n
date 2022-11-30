@@ -32,3 +32,18 @@ origin-controls-state-when-clicked = 데이터 읽기 및 변경에 권한 필�
 origin-controls-state-hover-run-visit-only = 이번 방문에만 실행
 origin-controls-state-runnable-hover-open = 확장 기능 열기
 origin-controls-state-runnable-hover-run = 확장 기능 실행
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        권한 필요
