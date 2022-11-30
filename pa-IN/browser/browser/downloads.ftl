@@ -154,6 +154,16 @@ downloading-file-opens-in-minutes = { $minutes } ਮਿੰਟ ਵਿੱਚ ਖ�
 downloading-file-opens-in-minutes-and-seconds = { $minutes }ਮਿੰਟ { $seconds }ਸਕਿੰਟ ਵਿੱਚ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…
 downloading-file-opens-in-seconds = { $seconds } ਸਕਿੰਟ ਵਿੱਚ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…
 downloading-file-opens-in-some-time = ਜਦੋੰ ਪੂਰਾ ਹੋਇਆ ਤਾਂ ਖੋਲ੍ਹੋ…
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = { $hours } ਘੰ { $minutes } ਮਿੰਟ ਵਿੱਚ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…
+downloading-file-opens-in-minutes-2 =
+    .value = { $minutes } ਮਿੰਟ ਵਿੱਚ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = { $minutes }ਮਿੰਟ { $seconds }ਸਕਿੰਟ ਵਿੱਚ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…
+downloading-file-opens-in-seconds-2 =
+    .value = { $seconds } ਸਕਿੰਟ ਵਿੱਚ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…
+downloading-file-opens-in-some-time-2 =
+    .value = ਜਦੋੰ ਪੂਰਾ ਹੋਇਆ ਤਾਂ ਖੋਲ੍ਹੋ…
 downloading-file-click-to-open =
     .value = ਜਦੋਂ ਪੂਰਾ ਹੋਵੇ ਤਾਂ ਖੋਲ੍ਹੋ
 
