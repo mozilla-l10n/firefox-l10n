@@ -53,14 +53,26 @@ about-webrtc-rtp-stats-heading = Istatìsticas RTP
 about-webrtc-ice-state = Istadu de ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Istatìsticas de ICE
+about-webrtc-ice-pair-bytes-sent = Bytes imbiados:
+about-webrtc-ice-pair-bytes-received = Bytes retzidos:
+about-webrtc-ice-component-id = ID de su cumponente
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Locale
+about-webrtc-type-remote = Remotu
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Seletzionadu
+about-webrtc-save-page-label = Sarva sa pàgina
+about-webrtc-debug-mode-msg-label = Modalidade de curretzione de faddinas
+about-webrtc-debug-mode-off-state-label = Avia sa modalidade de curretzione de faddinas
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
