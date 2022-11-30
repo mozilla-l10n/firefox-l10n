@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Niet nu
     .accesskey = N
 firefoxview-cfr-header = Haal onlangs gesloten tabbladen terug met { -firefoxview-brand-name }
 firefoxview-cfr-body = Plus: spring naadloos tussen apparaten en voeg een vleugje kleur toe aan uw browser.
+firefoxview-cfr-header-v2 = Ga snel verder waar u was gebleven
+firefoxview-cfr-body-v2 = Ontvang onlangs gesloten tabbladen terug en schakel naadloos tussen apparaten met { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
