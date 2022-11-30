@@ -931,6 +931,15 @@ unified-extensions-button =
     .label = Επεκτάσεις
     .tooltiptext = Επεκτάσεις
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Επεκτάσεις
+    .tooltiptext =
+        Επεκτάσεις
+        Απαιτούνται άδειες
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Το { -brand-short-name } εμπόδισε την αυτόματη ανανέωση της σελίδας.
