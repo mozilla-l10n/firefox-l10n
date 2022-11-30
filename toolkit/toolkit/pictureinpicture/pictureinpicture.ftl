@@ -40,6 +40,27 @@ pictureinpicture-close-cmd =
 pictureinpicture-subtitles-cmd =
     .aria-label = Legendas
     .title = Legendas
+pictureinpicture-pause-btn =
+    .aria-label = Pausa
+    .tooltip = Pausa (Barra de Espaço)
+pictureinpicture-play-btn =
+    .aria-label = Reproduzir
+    .tooltip = Reproduzir (Barra de Espaço)
+pictureinpicture-mute-btn =
+    .aria-label = Silenciar
+    .tooltip = Silenciar ({ $shortcut })
+pictureinpicture-unmute-btn =
+    .aria-label = Repor som
+    .tooltip = Repor som ({ $shortcut })
+pictureinpicture-unpip-btn =
+    .aria-label = Enviar para o separador
+    .tooltip = Para o separador
+pictureinpicture-close-btn =
+    .aria-label = Fechar
+    .tooltip = Fechar ({ $shortcut })
+pictureinpicture-subtitles-btn =
+    .aria-label = Legendas
+    .tooltip = Legendas
 
 ##
 
