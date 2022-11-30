@@ -931,6 +931,15 @@ unified-extensions-button =
     .label = Extensões
     .tooltiptext = Extensões
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Extensões
+    .tooltiptext =
+        Extensões
+        Permissões necessárias
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = O { -brand-short-name } impediu que esta página fosse recarregada automaticamente.
