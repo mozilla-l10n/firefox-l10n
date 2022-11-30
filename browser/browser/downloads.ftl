@@ -147,6 +147,16 @@ downloading-file-opens-in-minutes = Отваряне след { $minutes } м�
 downloading-file-opens-in-minutes-and-seconds = Отваряне след { $minutes } минути и { $seconds } секунди
 downloading-file-opens-in-seconds = Отваряне след { $seconds } секунди
 downloading-file-opens-in-some-time = Отваряне, когато приключи…
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = Отваряне след { $hours } часа и { $minutes } минути
+downloading-file-opens-in-minutes-2 =
+    .value = Отваряне след { $minutes } минути
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = Отваряне след { $minutes } минути и { $seconds } секунди
+downloading-file-opens-in-seconds-2 =
+    .value = Отваряне след { $seconds } секунди
+downloading-file-opens-in-some-time-2 =
+    .value = Отваряне, когато приключи…
 downloading-file-click-to-open =
     .value = Отваряне, когато приключи
 
