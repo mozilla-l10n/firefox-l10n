@@ -358,6 +358,7 @@ mr2022-onboarding-colorway-description-dreamer = <b>Tenes unu bisu.</b> Crees ch
 mr2022-onboarding-colorway-label-innovator = Annoadora
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Annoadora (aràngiu)
+mr2022-onboarding-colorway-description-innovator = <b>Ses un'annoadora.</b> Bides oportunidades totue e tenes un'impatu in is vidas de ònnia persone inghìriu a tue.
 
 ## MR2022 Multistage Mobile Download screen strings
 
