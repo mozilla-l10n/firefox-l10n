@@ -129,7 +129,7 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-window2 =
     .title = Дазволеныя вэб-сайты - Усталяванне дадаткаў
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена ўсталёўваць дадаткі. Набярыце дакладны адрас сайта, якому вы хочаце гэта дазволіць, і пстрыкніце Дазволіць.
+permissions-exceptions-addons-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена ўсталёўваць дадаткі. Набярыце дакладны адрас сайта, якому вы хочаце гэта дазволіць, і націсніце Дазволіць.
 
 ## Site Permissions - Autoplay
 
