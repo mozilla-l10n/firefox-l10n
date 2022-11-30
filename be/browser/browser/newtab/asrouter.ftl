@@ -211,6 +211,7 @@ firefoxview-cfr-secondarybutton = Не зараз
     .accesskey = Н
 firefoxview-cfr-header = Вяртайце нядаўна закрытыя карткі з дапамогай { -firefoxview-brand-name }
 firefoxview-cfr-body = Акрамя таго, лёгка пераключайцеся паміж прыладамі і дадайце ўсплёск колеру свайму браўзеру.
+firefoxview-cfr-header-v2 = Хутка працягвайце з таго месца, дзе спыніліся
 
 ## Firefox View Spotlight
 
