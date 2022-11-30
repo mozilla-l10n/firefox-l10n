@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = 決策紀錄
 graphics-crash-guards-title = 因 Crash Guard 停用的功能
 graphics-workarounds-title = Workarounds
+graphics-device-pixel-ratios = Window 的裝置畫素比例
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = 視窗通訊協定
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
