@@ -154,6 +154,8 @@ downloading-file-opens-in-minutes = Откроется через { $minutes } �
 downloading-file-opens-in-minutes-and-seconds = Откроется через { $minutes } мин { $seconds } с…
 downloading-file-opens-in-seconds = Откроется через { $seconds } с…
 downloading-file-opens-in-some-time = Откроется после завершения…
+downloading-file-opens-in-some-time-2 =
+    .value = Откроется после завершения…
 downloading-file-click-to-open =
     .value = Открыть по завершении
 
