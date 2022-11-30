@@ -62,7 +62,7 @@ firefoxview-pickup-tabs-badge = ใช้งานล่าสุด
 firefoxview-tabs-list-tab-button =
     .title = เปิด { $targetURI } ในแท็บใหม่
 firefoxview-try-colorways-button = ลองใช้ชุดรูปแบบสี
-firefoxview-no-current-colorway-collection = ชุดรูปแบบสีใหม่พร้อมให้ใช้แล้ว
+firefoxview-no-current-colorway-collection = ชุดรูปแบบสีใหม่กำลังจะมีให้ใช้ในเร็ว ๆ นี้
 firefoxview-change-colorway-button = เปลี่ยนชุดรูปแบบสี
 # Variables:
 #  $intensity (String): Colorway intensity
