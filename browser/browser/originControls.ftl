@@ -32,6 +32,7 @@ origin-controls-state-when-clicked = 데이터 읽기 및 변경에 권한 필�
 origin-controls-state-hover-run-visit-only = 이번 방문에만 실행
 origin-controls-state-runnable-hover-open = 확장 기능 열기
 origin-controls-state-runnable-hover-run = 확장 기능 실행
+origin-controls-state-temporary-access = 이번 방문에서 데이터 읽기 및 변경 가능
 
 ## Extension's toolbar button.
 ## Variables:

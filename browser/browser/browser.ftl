@@ -927,6 +927,15 @@ unified-extensions-button =
     .label = 확장 기능
     .tooltiptext = 확장 기능
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = 확장 기능
+    .tooltiptext =
+        확장 기능
+        권한 필요
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }가 이 페이지를 자동으로 다시 로드하지 못하도록 차단했습니다.

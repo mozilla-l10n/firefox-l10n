@@ -205,6 +205,7 @@ firefoxview-cfr-secondarybutton = 나중에
     .accesskey = N
 firefoxview-cfr-header = { -firefoxview-brand-name }를 사용하여 최근에 닫은 탭을 다시 가져옵니다
 firefoxview-cfr-body = 또한 기기 간에 원활하게 전환하고 브라우저에 다채로운 색상 넣을 수 있습니다.
+firefoxview-cfr-header-v2 = 중단한 부분부터 빠르게 다시 시작하세요
 
 ## Firefox View Spotlight
 
