@@ -600,6 +600,9 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Bookmark ແຖບປະຈຸບັນ
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = ບຸກມາກແຖບປະຈຸບັນ...
 
@@ -745,6 +748,9 @@ private-browsing-indicator-label = ການທ່ອງເວັບແບບສ
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = ສ່ວນ​ຂະ​ຫຍາຍ
+    .tooltiptext = ສ່ວນ​ຂະ​ຫຍາຍ
 
 ## Autorefresh blocker
 

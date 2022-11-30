@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = ຫົວຂໍ້ລະບົບ — ອັດຕະໂນມັດ
 extension-default-theme-description = ປະຕິບັດຕາມການຕັ້ງຄ່າລະບົບປະຕິບັດການສໍາລັບປຸ່ມ, ເມນູ, ແລະປ່ອງຢ້ຽມ.
 extension-firefox-compact-light-name = ແຈ້ງ
 extension-firefox-compact-light-description = ຮູບແບບສີສັນທີ່ມີສີສັນອ່ອນໆ.
