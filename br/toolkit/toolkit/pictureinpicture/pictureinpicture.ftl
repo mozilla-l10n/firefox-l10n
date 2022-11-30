@@ -3,20 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Skeudenn-ouzh-skeudenn
-
 pictureinpicture-pause =
     .aria-label = Ehan
 pictureinpicture-play =
     .aria-label = Lenn
-
 pictureinpicture-mute =
     .aria-label = Mud
 pictureinpicture-unmute =
     .aria-label = Heglev
-
 pictureinpicture-unpip =
     .aria-label = Kas en-dro e-barzh an ivinell
-
 pictureinpicture-close =
     .aria-label = Serriñ
 
@@ -29,41 +25,58 @@ pictureinpicture-pause-cmd =
 pictureinpicture-play-cmd =
     .aria-label = Lenn
     .title = Lenn (Barrenn esaouiñ)
-
 pictureinpicture-unpip-cmd =
     .aria-label = Kas en-dro e-barzh an ivinell
     .title = Kas en-dro e-barzh an ivinell
-
 pictureinpicture-close-cmd =
     .aria-label = Serriñ
     .title = Serriñ ({ $shortcut })
-
 pictureinpicture-subtitles-cmd =
     .aria-label = Istitloù
     .title = Istitloù
+pictureinpicture-pause-btn =
+    .aria-label = Ehan
+    .tooltip = Ehan (Barrenn esaouiñ)
+pictureinpicture-play-btn =
+    .aria-label = Lenn
+    .tooltip = Lenn (Barrenn esaouiñ)
+pictureinpicture-unpip-btn =
+    .aria-label = Kas en-dro e-barzh an ivinell
+    .tooltip = Kas en-dro e-barzh an ivinell
+pictureinpicture-close-btn =
+    .aria-label = Serriñ
+    .tooltip = Serriñ ({ $shortcut })
+pictureinpicture-subtitles-btn =
+    .aria-label = Istitloù
+    .tooltip = Istitloù
 
 ##
 
 pictureinpicture-fullscreen-cmd =
     .aria-label = Skramm a-bezh
     .title = Skramm a-bezh (daou glik)
-
 pictureinpicture-exit-fullscreen-cmd =
     .aria-label = Kuitaat ar mod skramm a-bezh
     .title = Kuitaat ar mod skramm a-bezh (daou glik)
-
 pictureinpicture-seekbackward-cmd =
     .aria-label = Distreiñ
     .title = Distreiñ (←)
-
 pictureinpicture-seekforward-cmd =
     .aria-label = War-lerc'h
     .title = War-lerc'h (→)
-
+pictureinpicture-fullscreen-btn =
+    .aria-label = Skramm a-bezh
+    .tooltip = Skramm a-bezh (daou glik)
+pictureinpicture-exit-fullscreen-btn =
+    .aria-label = Kuitaat ar mod skramm a-bezh
+    .tooltip = Kuitaat ar mod skramm a-bezh (daou glik)
+pictureinpicture-seekbackward-btn =
+    .aria-label = Distreiñ
+    .tooltip = Distreiñ (←)
+pictureinpicture-seekforward-btn =
+    .aria-label = War-lerc'h
+    .tooltip = War-lerc'h (→)
 pictureinpicture-subtitles-label = Istitloù
-
 pictureinpicture-font-size-small = Bihan
-
 pictureinpicture-font-size-medium = Krenn
-
 pictureinpicture-font-size-large = Braz
