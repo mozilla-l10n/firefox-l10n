@@ -211,6 +211,8 @@ firefoxview-cfr-secondarybutton = Не зараз
     .accesskey = Н
 firefoxview-cfr-header = Поверніть нещодавно закриті вкладки за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
 firefoxview-cfr-body = Крім того, легко перемикайтеся між пристроями та додавайте барвистості своєму браузеру.
+firefoxview-cfr-header-v2 = Швидко продовжуйте з місця, де ви зупинилися
+firefoxview-cfr-body-v2 = Легко повертайтеся до нещодавно закритих на різних пристроях за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
 
 ## Firefox View Spotlight
 

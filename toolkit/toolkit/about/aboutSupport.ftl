@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Журнал рішень
 graphics-crash-guards-title = Можливості, вимкнені захистом від збоїв
 graphics-workarounds-title = Способи обходу
+graphics-device-pixel-ratios = Піксельне співвідношення вікна пристрою
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Віконний протокол
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
