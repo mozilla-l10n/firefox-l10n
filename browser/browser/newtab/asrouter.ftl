@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Ekki núna
     .accesskey = n
 firefoxview-cfr-header = Fáðu nýlega lokaða flipa aftur með { -firefoxview-brand-name }
 firefoxview-cfr-body = Auk þess geturðu hoppað hnökralaust á milli tækja og bætt litaskvettu í vafrann þinn.
+firefoxview-cfr-header-v2 = Haltu strax áfram þar sem frá var horfið
+firefoxview-cfr-body-v2 = Fáðu nýokaða flipa til baka, auk þess að skipta óaðfinnanlega á milli tækja með { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
