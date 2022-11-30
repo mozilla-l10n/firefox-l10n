@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = No net
     .accesskey = N
 firefoxview-cfr-header = Helje koartlyn sluten ljepblêden werom mei { -firefoxview-brand-name }
 firefoxview-cfr-body = Plus: ljep ienfâldich tusken apparaten en foegje in bytsje kleur ta oan jo browser.
+firefoxview-cfr-header-v2 = Gean fluch troch wêr’t jo bleaun wiene
+firefoxview-cfr-body-v2 = Untfang koartlyn sluten ljepblêden werom en skeakelje maklik tusken apparaten mei { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 

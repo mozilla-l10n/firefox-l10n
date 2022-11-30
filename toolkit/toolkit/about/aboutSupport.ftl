@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Beslútloch
 graphics-crash-guards-title = Utskeakele funksjes fan ûngelokbeskerming
 graphics-workarounds-title = Workarounds
+graphics-device-pixel-ratios = Pikselferhâldingen fan finsterapparaat
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Finsterprotokol
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
