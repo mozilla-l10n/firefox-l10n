@@ -139,6 +139,8 @@ downloads-open-file =
 ##   $minutes (number) - Amount of minutes till the file opens.
 
 downloading-file-opens-in-some-time = ກຳລັງເປີດເມື່ອສຳເລັດ...
+downloading-file-opens-in-some-time-2 =
+    .value = ກຳລັງເປີດເມື່ອສຳເລັດ...
 downloading-file-click-to-open =
     .value = ເປີດເມື່ອສໍາເລັດ
 
