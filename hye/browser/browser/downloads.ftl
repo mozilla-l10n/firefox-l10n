@@ -154,6 +154,16 @@ downloading-file-opens-in-minutes = Բացուելու է { $minutes } րոպէ�
 downloading-file-opens-in-minutes-and-seconds = Բացուելու է { $minutes } րոպէից, { $seconds } վայրկեանից…
 downloading-file-opens-in-seconds = Բացուելու է { $seconds } վայրկեանից…
 downloading-file-opens-in-some-time = Բացուելու է, աւարտումից հետոյ…
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = Բացուելու է { $hours } ժամ, { $minutes } րոպէից…
+downloading-file-opens-in-minutes-2 =
+    .value = Բացուելու է { $minutes } րոպէից…
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = Բացուելու է { $minutes } րոպէից, { $seconds } վայրկեանից…
+downloading-file-opens-in-seconds-2 =
+    .value = Բացուելու է { $seconds } վայրկեանից…
+downloading-file-opens-in-some-time-2 =
+    .value = Բացուելու է, աւարտումից հետոյ…
 downloading-file-click-to-open =
     .value = Բացել, երբ կատարուած է։
 
