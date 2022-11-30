@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Az adatok olvasásához és módosításáh
 origin-controls-state-hover-run-visit-only = Futtatás csak a mostani felkereséskor
 origin-controls-state-runnable-hover-open = Kiegészítő megnyitása
 origin-controls-state-runnable-hover-run = Kiegészítő futtatása
+origin-controls-state-temporary-access = Olvashatja és módosíthatja a látogatás adatait
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Jogosultság szükséges
