@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = 판단 로그
 graphics-crash-guards-title = 크래시 보호 비활성화 기능
 graphics-workarounds-title = 임시방편
+graphics-device-pixel-ratios = 창 기기 픽셀 비율
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = 윈도우 프로토콜
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
