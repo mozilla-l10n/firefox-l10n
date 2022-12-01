@@ -933,6 +933,15 @@ unified-extensions-button =
     .label = Uzantılar
     .tooltiptext = Uzantılar
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Uzantılar
+    .tooltiptext =
+        Uzantılar
+        İzin gerekli
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu sayfanın kendiliğinden yenilenmesini önledi.
