@@ -112,8 +112,10 @@ policy-SecurityDevices = Installa mòdulos de PKCS #11.
 policy-ShowHomeButton = Ammustra su butone pro sa pàgina initziale in sa barra de ainas.
 policy-SSLVersionMax = Sèbera sa versione màssima de SSL.
 policy-SSLVersionMin = Sèbera sa versione mìnima de SSL.
+policy-StartDownloadsInTempDirectory = Fortza s'aviu de is iscarrigamentos in una cartella temporànea locale, imbetzes chi in sa predefinida.
 policy-SupportMenu = Agiunghe un'elementu de menù de assistèntzia personalizadu a su menù de agiudu.
 policy-UserMessaging = No ammustres tzertos messàgios a s'utente.
+policy-UseSystemPrintDialog = Imprenta pro mèdiu de su diàlogu de sistema.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloca sa bìsita a sitos ispetzìficos. Bide sa documentatzione pro connòschere prus minudas de su formadu.
 policy-Windows10SSO = Permite s'autenticatzione ùnica de Windows pro is contos de traballu o de istrutzione de Microsoft.

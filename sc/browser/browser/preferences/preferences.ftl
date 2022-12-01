@@ -184,12 +184,15 @@ preferences-web-appearance-header = Aspetu de is sitos web
 preferences-web-appearance-description = Unos cantos sitos web adatant s'ischema de colore suo de acordu cun is preferèntzias tuas. Sèbera cale ischema de colore dias bòlere impreare pro cussos sitos.
 preferences-web-appearance-choice-browser = Tema de { -brand-short-name }
 preferences-web-appearance-choice-system = Tema de su sistema
+preferences-web-appearance-choice-auto = Automàticu
 preferences-web-appearance-choice-light = Craru
 preferences-web-appearance-choice-dark = Iscuru
 preferences-web-appearance-choice-tooltip-browser =
     .title = Imprea is cunfiguratziones de is temas de { -brand-short-name } pro is isfundos e is cuntenutos de is sitos web.
 preferences-web-appearance-choice-tooltip-system =
     .title = Imprea is cunfiguratziones de su sistema tuo pro is isfundos e is cuntenutos de is sitos web.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Càmbia in automàticu isfundos e cuntenutos de su situ subra sa base de is cunfiguratziones tuas de sistema e de su tema de { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Imprea un'aspetu craru pro is isfundos e is cuntenutos de is sitos web.
 preferences-web-appearance-choice-tooltip-dark =
@@ -198,6 +201,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -393,6 +398,14 @@ update-application-suppress-prompts =
     .label = Ammustra prus pagu notìficas de atualizatzione
     .accesskey = n
 update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de atualizatzione
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } at agatadu una faddina e no at sarvadu custa modìfica. Tene contu chi pro cambiare custa cunfiguratzione de atualizatzione serbit su permissu de iscrìere in s'archìviu in fatu. Tue o un'amministradore de sistema diais pòdere risòlvere s'errore, donende a su grupu Utentes su controllu totale de custu archìviu.
+    
+    Impossìbile iscrìere in s'archìviu: { $path }
 update-in-progress-title = Atualizatzione in cursu
 update-in-progress-message = Boles chi { -brand-short-name } andet a in antis cun custa atualizatzione?
 update-in-progress-ok-button = &Iscarta
@@ -414,6 +427,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Lìmite de protzessos de cuntenutu
     .accesskey = l
 performance-limit-content-process-enabled-desc = Impreare prus protzessos de cuntenutu podet megiorare su rendimentu cando impreas prus ischedas, ma tenet fintzas bisòngiu de prus memòria.
+performance-limit-content-process-blocked-desc = Su nùmeru de protzessos de cuntenutu si podet modificare isceti cun su { -brand-short-name } multiprotzessu. <a data-l10n-name="learn-more">Impara comente controllare si su multiprotzessu est ativu</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -509,6 +523,8 @@ choose-bookmark =
 
 home-prefs-content-header = Cuntenutu de sa pàgina printzipale de Firefox
 home-prefs-content-description = Sèbera su cuntenutu chi boles in sa pàgina printzipale de Firefox.
+home-prefs-content-header2 = Cuntenutos de { -firefox-home-brand-name }
+home-prefs-content-description2 = Sèbera su cuntenutu chi boles visualizare in { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Chirca web
 home-prefs-shortcuts-header =
@@ -529,6 +545,8 @@ home-prefs-recommended-by-description-new = Cuntenutu de primore curadu dae { $p
 home-prefs-recommended-by-learn-more = Comente funtzionat
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Istòrias patrotzinadas
+home-prefs-recommended-by-option-recent-saves =
+    .label = Ammustra is elementos sarvados de reghente
 home-prefs-highlights-option-visited-pages =
     .label = Pàginas bisitadas
 home-prefs-highlights-options-bookmarks =
@@ -540,6 +558,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Atividade reghente
 home-prefs-recent-activity-description = Una seletzione de sitos e cuntenutos reghentes
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Retàllios
 home-prefs-snippets-description-new = Cussìgios e noas dae { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
@@ -569,6 +593,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ammustra cussìgios de chirca in is resurtados de sa barra de indiritzos
     .accesskey = i
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Ammustra is tèrmines de chirca imbetzes de s'URL in sa pàgina de is resurtados de su motore de chirca predefinidu
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -922,12 +951,18 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = motores de chirca
     .accesskey = m
+addressbar-locbar-quickactions-option =
+    .label = Atziones lestras
+    .accesskey = A
 addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motores de chirca
+addressbar-quickactions-learn-more = Àteras informatziones
 
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Amparu megioradu contra sa sighidura
+content-blocking-section-top-level-description = Is sighidores ti ponent in fatu mentras ses navighende pro regòllere informatziones de is abitùdines de navigatzione e is interessos tuos. { -brand-short-name } blocat medas de custos sighidores e àteros script malos.
 content-blocking-learn-more = Àteras informatziones
+content-blocking-fpi-incompatibility-warning = Ses impreende FPI (First Party Isolation), chi sostituit unas cantas cunfiguratziones de testimòngios de { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -969,8 +1004,12 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         Proa in anteprima sa funtzionalidade de riservadesa
         prus poderosa de semper
     .accesskey = P
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Sa protetzione totale de testimòngios cuntenet is testimòngios de su situ in ue t'agatas, aici is sighidores no ddos podent impreare pro ti sighire intre unu situ e s'àteru.
 content-blocking-etp-standard-tcp-rollout-learn-more = Àteras informatziones
+content-blocking-etp-standard-tcp-title = Includet sa protetzione totale de testimòngios, sa funtzionalidade nostra de riservadesa prus potente de semper
 content-blocking-warning-title = Atentzione!
+content-blocking-and-isolating-etp-warning-description-2 = Custa cunfiguratzione diat pòdere fàghere chi unos cantos sitos no ammustrent cuntenutos o non funtzionent bene. Si paret chi unu situ non siat funtzionende, podes proare a istudare sa protetzione dae sa sighidura pro chi cussu situ càrrighet totu su cuntenutu.
 content-blocking-warning-learn-how = Impara comente ddu fàghere
 content-blocking-reload-description = As a dèpere torrare a carrigare is ischedas tuas pro carrigare custas modìficas.
 content-blocking-reload-tabs-button =
@@ -1057,7 +1096,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Impreu e còllida de datos dae { -brand-short-name }
+collection-description = Chircamus de ti garantire sèberos e de regòllere isceti su chi nos serbit pro sa frunidura e su megioru de { -brand-short-name } pro chie chi siat. Pedimus semper su permissu in antis de retzire informatziones personales.
 collection-privacy-notice = Avisu de riservadesa
+collection-health-report-telemetry-disabled = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
 collection-health-report-telemetry-disabled-link = Àteras informatziones
 collection-health-report =
     .label = Permite chi { -brand-short-name } imbiet datos tècnicos e de interatzione a { -vendor-short-name }
@@ -1072,6 +1113,14 @@ addon-recommendations-link = Àteras informatziones
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = S'informe de datos est disativadu in sa cunfiguratzione de custa versione
+collection-backlogged-crash-reports-with-link = Permite a { -brand-short-name } de t'imbiare informes de faddina in suspesu <a data-l10n-name="crash-reports-link">Àteras informatziones
+    .accesskey = i
+privacy-segmentation-section-header = Caraterìsticas noas pro megiorare sa navigatzione
+privacy-segmentation-section-description = Cando oferimus caraterìsticas chi impreant is datos tuos pro ti donare un'esperièntzia prus personale:
+privacy-segmentation-radio-off =
+    .label = Imprea is cussìgios de { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Ammustra informatziones detalliadas
 
 ## Privacy Section - Security
 ##
@@ -1094,6 +1143,9 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Tzertificados
+certs-enable-ocsp =
+    .label = Consulta is serbidores de risposta OCSP pro cunfirmare sa valididade atuale de is tzertificados
+    .accesskey = C
 certs-view =
     .label = Ammustra is tzertificados…
     .accesskey = A
