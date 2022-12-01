@@ -208,6 +208,7 @@ firefoxview-cfr-secondarybutton = Non ora
     .accesskey = N
 firefoxview-cfr-header = Re-obtene le schedas claudite recentemente con { -firefoxview-brand-name }
 firefoxview-cfr-body = In ultra, salta sin problemas inter apparatos e adde un tocco de color a tu navigator.
+firefoxview-cfr-header-v2 = Rapidemente reprende de ubi tu lassava
 
 ## Firefox View Spotlight
 
