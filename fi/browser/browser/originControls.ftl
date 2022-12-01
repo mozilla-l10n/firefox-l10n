@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Lupa vaaditaan tietojen lukemiseen ja muutt
 origin-controls-state-hover-run-visit-only = Suorita vain tällä käyntikerralla
 origin-controls-state-runnable-hover-open = Avaa laajennus
 origin-controls-state-runnable-hover-run = Suorita laajennus
+origin-controls-state-temporary-access = Voi lukea ja muuttaa tietoja tällä käyntikerralla
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Lupa vaaditaan
