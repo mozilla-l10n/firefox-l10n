@@ -14,6 +14,7 @@ colorway-collection-independent-voices-short-description = ສີທີ່ປ່
 
 playmaker-colorway-name = ຜູ້ຫຼິ້ນ
 expressionist-colorway-name = ນັກສະແດງ
+expressionist-colorway-description = ເຈົ້າເຫັນໂລກແຕກຕ່າງກັນ ແລະການສ້າງຂອງເຈົ້າກະຕຸ້ນອາລົມຂອງຄົນອື່ນ.
 visionary-colorway-name = ຜູ້ມີວິໄສທັດ
 activist-colorway-name = ນັກເຄື່ອນໄຫວ
 activist-colorway-description = ເຈົ້າ​ປ່ອຍ​ໃຫ້​ໂລກ​ນີ້​ຢູ່​ບ່ອນ​ທີ່​ດີ​ກວ່າ​ທີ່​ເຈົ້າ​ໄດ້​ພົບ​ແລະ​ນຳ​ຄົນ​ອື່ນ​ໃຫ້​ເຊື່ອ.
