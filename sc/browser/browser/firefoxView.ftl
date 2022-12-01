@@ -42,6 +42,8 @@ firefoxview-tabpickup-sync-error-primarybutton = Torra·bi a proare
 firefoxview-tabpickup-sync-disconnected-header = Ativa sa sincronizatzione pro sighire
 firefoxview-tabpickup-sync-disconnected-description = Pro recuperare is ischedas tuas, depes permìtere sa sincronizatzione in { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Ativa sa sincronizatzione dae sa cunfiguratzione
+firefoxview-tabpickup-password-locked-header = Inserta sa crae printzipale tua pro visualizare is ischedas
+firefoxview-tabpickup-password-locked-description = Pro recuperare is ischedas tuas, depes insertare sa crae printzipale pro { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Àteras informatziones
 firefoxview-tabpickup-password-locked-primarybutton = Inserta sa crae printzipale
 firefoxview-tabpickup-syncing = Abeta in su mentras chi is ischedas sunt sincronizadas. At a èssere unu momentu isceti.
@@ -53,6 +55,8 @@ firefoxview-mobile-confirmation-description = Immoe podes recuperare is ischedas
 firefoxview-closed-tabs-title = Serradas de reghente
 firefoxview-closed-tabs-description2 = Torra a abèrrere ischedas chi as serradu in custa ventana.
 firefoxview-closed-tabs-placeholder = <strong>Nissuna pàgina serrada de reghente</strong><br/>Non timas prus de pèrdere un'ischeda serrada. Dd'as a pòdere recuperare inoghe.
+firefoxview-closed-tabs-placeholder-header = Peruna ischeda serrada de reghente
+firefoxview-closed-tabs-placeholder-body = Cando serras un'ischeda in custa ventana, dda podes recuperare dae inoghe.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ùrtima ativa
 # Variables:
@@ -67,6 +71,8 @@ firefoxview-change-colorway-button = Càmbia sa cumbinatzione de colores
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Ancora nudda de bìdere</strong><br/>Cando as a abèrrere torra una pàgina in { -brand-product-name } in un'àteru dispositivu, dd'as a pòdere recuperare inoghe.
+firefoxview-synced-tabs-placeholder-header = Ancora nudda de ammustrare
+firefoxview-synced-tabs-placeholder-body = Sa borta imbeniente chi aberis una pàgina in { -brand-product-name } in un'àteru dispositivu, dd'as a agatare inoghe, pro maghia.
 firefoxview-collapse-button-show =
     .title = Ammustra sa lista
 firefoxview-collapse-button-hide =

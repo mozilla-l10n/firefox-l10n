@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Immoe nono
     .accesskey = n
 firefoxview-cfr-header = Recùpera is ischedas serradas de reghente cun { -firefoxview-brand-name }
 firefoxview-cfr-body = Càmbia intre dispositivos sena problemas e agiunghe unu tonu de colore a su navigadore tuo.
+firefoxview-cfr-header-v2 = Recùpera a lestru dae ue dd'aias lassadu
+firefoxview-cfr-body-v2 = Recùpera is ischedas serradas dae pagu, e passa chene interrutziones dae unu dispositivu a s'àteru cun { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
@@ -216,3 +218,14 @@ firefoxview-spotlight-promo-title = Saluda a { -firefoxview-brand-name }
 firefoxview-spotlight-promo-subtitle = Boles abèrrere cussa ischeda in su telèfonu tuo? Piga·dda. Ti serbit cussu situ chi as bidu immoe immoe? Dd'agatas in { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Càstia comente funtzionat
 firefoxview-spotlight-promo-secondarybutton = Brinca
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Sèbera sa cumbinatzione de colores
+    .accesskey = S
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Colora su navigadore tuo cun { -brand-short-name } cumbinatziones esclusivas ispiradas a is boghes chi ant cambiadu sa cultura.
+colorways-cfr-header-28days = Is cumbinatziones de colores Boghes indipendentes iscadint su 16 de ghennàrgiu
+colorways-cfr-header-14days = Is cumbinatziones de colores Boghes indipendentes iscadint de oe a duas chidas
+colorways-cfr-header-7days = Is cumbinatziones de colores Boghes indipendentes iscadint custa chida
+colorways-cfr-header-today = Is cumbinatziones de colores Boghes indipendentes iscadint oe

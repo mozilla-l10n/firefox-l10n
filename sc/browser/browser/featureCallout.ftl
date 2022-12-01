@@ -35,5 +35,11 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Cumintza
 
 callout-pdfjs-edit-title = Modìfica is PDFs cun s'aina noa de testu
 callout-pdfjs-edit-body-a = Cumpleta formulàrios, cummenta e annota deretu in { -brand-short-name }.
+callout-pdfjs-edit-body-b = Brinca sa chirca de editores gratùitos in lìnia. Cumpleta mòdulos, agiunghe cummentos, o piga apuntos a deretu in { -brand-short-name }.
 callout-pdfjs-edit-button = Imbeniente
+callout-pdfjs-draw-title = Firma documentos cun s'aina noa nostra de disegnu
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Piga notas in is PDF e sarva is modìficas.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Non depes prus imprentare e iscansionare. Piga notas in is PDF e sarva is modìficas.
 callout-pdfjs-draw-button = Apo cumprèndidu!

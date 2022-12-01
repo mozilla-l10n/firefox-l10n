@@ -136,11 +136,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Otene agiudu
 urlbar-search-tips-confirm = AB, cumprèndidu
+urlbar-search-tips-confirm-short = Apo cumprèndidu
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Cussìgiu:
+urlbar-result-menu-button =
+    .title = Aberi su menù
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -149,6 +152,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Iscrie prus pagu, agata de prus: chirca deretu { $engineName } in sa barra de is indiritzos.
 urlbar-search-tips-redirect-2 = Cumintza sa chirca tua in sa barra de indirizos pro bìdere cussìgios dae { $engineName } e sa cronologia de su navigadore.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Chircare est divènnidu prus fàtzile. Proa a fàghere chi sa chirca tua siat prus ispetzìfica inoghe in sa barra de indiritzos. Si imbetzes boles ammustrare s'URL, bae a Chirca, in cunfiguratziones.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seletziona custu curtzadòrgiu pro agatare prus a lestru su chi ti serbit.
@@ -287,6 +292,9 @@ quickactions-cmd-downloads = iscarrigamentos
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gesti is estensiones
 quickactions-cmd-extensions = estensiones
+# Opens the devtools web inspector
+quickactions-inspector = Aberi s'analizadore
+quickactions-cmd-inspector = analizadore, devtools
 # Opens about:logins
 quickactions-logins = Ammustra is credentziales
 quickactions-cmd-logins = credentziales, craes
@@ -504,6 +512,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Pro impreare su curtzadòrgiu F12, pro primu aberi DevTools in su menù de Isvilupu web.
+enable-devtools-popup-description2 = Pro impreare su curtzadòrgiu F12, pro primu aberi DevTools in su menù de ainas de su navigadore.
 
 ## URL Bar
 
@@ -922,8 +931,19 @@ unified-extensions-button =
     .label = Estensiones
     .tooltiptext = Estensiones
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Estensiones
+    .tooltiptext =
+        Estensiones
+        Serbint is permissos
+
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } at impedidu a custa pàgina de si torrare a carrigare in automàticu.
+refresh-blocked-redirect-label = { -brand-short-name } at impedidu a custa pàgina de si torrare a deretare a un'àtera pàgina.
 refresh-blocked-allow =
     .label = Permite
     .accesskey = C
