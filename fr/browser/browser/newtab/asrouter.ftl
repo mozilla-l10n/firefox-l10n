@@ -205,6 +205,7 @@ firefoxview-cfr-secondarybutton = Plus tard
     .accesskey = P
 firefoxview-cfr-header = Récupérez les onglets récemment fermés grâce à { -firefoxview-brand-name }
 firefoxview-cfr-body = Mais aussi, passez facilement d’un appareil à l’autre et ajoutez une touche de couleur à votre navigateur.
+firefoxview-cfr-header-v2 = Reprenez rapidement là où vous en étiez
 
 ## Firefox View Spotlight
 
