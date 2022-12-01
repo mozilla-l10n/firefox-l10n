@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Шешімдер журналы
 graphics-crash-guards-title = Қулаудан қорғаныс сөндірген мүмкіндіктері
 graphics-workarounds-title = Арнайы қолдау
+graphics-device-pixel-ratios = Терезе құрылғысының пиксельдік арақатынасы
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Терезелерді басқару хаттамасы
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).

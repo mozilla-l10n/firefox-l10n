@@ -931,6 +931,15 @@ unified-extensions-button =
     .label = Кеңейтулер
     .tooltiptext = Кеңейтулер
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Кеңейтулер
+    .tooltiptext =
+        Кеңейтулер
+        Керек рұқсаттар
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } осы парақтың өзіндік жаңартуын тоқтатты.
