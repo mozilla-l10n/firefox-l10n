@@ -931,6 +931,15 @@ unified-extensions-button =
     .label = Tillägg
     .tooltiptext = Tillägg
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Tillägg
+    .tooltiptext =
+        Tillägg
+        Behörigheter behövs
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } har förhindrat att den här sidan uppdateras automatiskt.

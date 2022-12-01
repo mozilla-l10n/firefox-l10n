@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Inte nu
     .accesskey = n
 firefoxview-cfr-header = Få tillbaka nyligen stängda flikar men { -firefoxview-brand-name }
 firefoxview-cfr-body = Byt dessutom snabbt mellan enheter och lägg till en färgklick i din webbläsare.
+firefoxview-cfr-header-v2 = Fortsätt snabbt där du slutade
+firefoxview-cfr-body-v2 = Få tillbaka nyligen stängda flikar och hoppa smidigt mellan enheter med { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
