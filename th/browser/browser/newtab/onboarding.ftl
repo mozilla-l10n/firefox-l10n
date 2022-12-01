@@ -27,6 +27,7 @@ return-to-amo-add-theme-label = เพิ่มธีม
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = พบกับ { -brand-short-name }
 mr1-return-to-amo-add-extension-label = เพิ่ม { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
