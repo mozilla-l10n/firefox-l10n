@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Karar günlüğü
 graphics-crash-guards-title = Çökme koruyucusu tarafından kapatılan özellikler
 graphics-workarounds-title = Çözümler
+graphics-device-pixel-ratios = Pencere cihaz piksel oranları
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Pencere protokolü
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
