@@ -23,6 +23,12 @@ return-to-amo-addon-title = <img data-l10n-name="icon"/> <b>{ $addon-name }</b> 
 return-to-amo-add-extension-label = 拡張機能を追加
 return-to-amo-add-theme-label = テーマを追加
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = { -brand-short-name } をどうぞよろしく
+mr1-return-to-amo-addon-title = 高速でプライベートなブラウザーをあなたの手元に。<b>{ $addon-name }</b> を追加して、{ -brand-short-name } でより多くのことができるようになります。
+mr1-return-to-amo-add-extension-label = { $addon-name } を追加
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -310,44 +316,30 @@ mr2022-onboarding-colorway-subtitle = 揺るぎない声はカルチャーを変
 mr2022-onboarding-colorway-primary-button-label-continue = 設定して次へ
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } をホームページにしてカラーを合わせる
 mr2022-onboarding-colorway-label-default = デフォルト
-mr2022-onboarding-colorway-tooltip-default =
-    .title = デフォルト
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = 現在の { -brand-short-name } のカラー
 mr2022-onboarding-colorway-description-default = <b>現在の { -brand-short-name } カラーを使用する。</b>
 mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
-  .title = Playmaker (赤)
+    .title = Playmaker (赤)
 mr2022-onboarding-colorway-description-playmaker = <b>Playmaker</b>: 勝利への道を切り開け。あなたのプレーは周囲を巻き込みゲームを盛り上げる。
 mr2022-onboarding-colorway-label-expressionist = Expressionist
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Expressionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionist (黄)
 mr2022-onboarding-colorway-description-expressionist = <b>Expressionist</b>: 内なる感情を世界に刻め。あなたの表現に映る歪みが人の心をかき乱す。
 mr2022-onboarding-colorway-label-visionary = Visionary
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visionary
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionary (緑)
 mr2022-onboarding-colorway-description-visionary = <b>Visionary</b>: 現状に疑問を投げかけろ。より良い未来に人を動かすのはあなたのビジョンだ。
 mr2022-onboarding-colorway-label-activist = Activist
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Activist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activist (青)
 mr2022-onboarding-colorway-description-activist = <b>Activist</b>: 今いる世界をより良い場所に変えていけ。あなたの活動が人を導き同志へ変える。
 mr2022-onboarding-colorway-label-dreamer = Dreamer
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Dreamer
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Dreamer (紫)
 mr2022-onboarding-colorway-description-dreamer = <b>Dreamer</b>: 大胆に幸運を引き寄せろ。夢を掲げるあなたの姿は人の勇気を呼び覚ます。
 mr2022-onboarding-colorway-label-innovator = Innovator
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Innovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovator (橙)
 mr2022-onboarding-colorway-description-innovator = <b>Innovator</b>: あらゆる場所で機会を掴め。あなたがもたらす革新は周囲の人生を震わせる。
@@ -395,18 +387,18 @@ onboarding-infrequent-import-primary-button = { -brand-short-name } に読み込
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
 mr2022-onboarding-pin-image-alt =
-  .aria-label = 満点の星空の下でノート PC で仕事する人
+    .aria-label = 満点の星空の下でノート PC で仕事する人
 mr2022-onboarding-default-image-alt =
-  .aria-label = { -brand-product-name } ロゴを抱きしめる人
+    .aria-label = { -brand-product-name } ロゴを抱きしめる人
 mr2022-onboarding-import-image-alt =
-  .aria-label = ソフトウェアのアイコンが入った箱を持ってスケートボードに乗る人
+    .aria-label = ソフトウェアのアイコンが入った箱を持ってスケートボードに乗る人
 mr2022-onboarding-mobile-download-image-alt =
-  .aria-label = 真ん中にモバイル版 { -brand-product-name } のダウンロード QR コードが入ったスイレンの葉を跳ね回るカエル
+    .aria-label = 真ん中にモバイル版 { -brand-product-name } のダウンロード QR コードが入ったスイレンの葉を跳ね回るカエル
 mr2022-onboarding-pin-private-image-alt =
-  .aria-label = 帽子から { -brand-product-name } プライベートブラウジングのロゴを取り出せる魔法の杖
+    .aria-label = 帽子から { -brand-product-name } プライベートブラウジングのロゴを取り出せる魔法の杖
 mr2022-onboarding-privacy-segmentation-image-alt =
-  .aria-label = ハイタッチしている色白の手と色黒の手
+    .aria-label = ハイタッチしている色白の手と色黒の手
 mr2022-onboarding-gratitude-image-alt =
-  .aria-label = キツネのいる窓から眺める夕日と窓台に置かれた鉢植え
+    .aria-label = キツネのいる窓から眺める夕日と窓台に置かれた鉢植え
 mr2022-onboarding-colorways-image-alt =
-  .aria-label = 緑色の目、オレンジ色の靴、赤色のバスケットボール、紫色のヘッドフォン、青色のハート、黄色の王冠のカラフルなコラージュを描くハンドスプレー
+    .aria-label = 緑色の目、オレンジ色の靴、赤色のバスケットボール、紫色のヘッドフォン、青色のハート、黄色の王冠のカラフルなコラージュを描くハンドスプレー
