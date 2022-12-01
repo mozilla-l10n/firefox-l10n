@@ -60,7 +60,11 @@ app-basics-rosetta = Tradùidu dae Rosetta
 app-basics-memory-use = Impreu de sa memòria
 app-basics-performance = Rendimentu
 app-basics-service-workers = Protzessos de traballu de servìtziu registrados
+app-basics-third-party = Modulos de tertzas partes
 app-basics-profiles = Profilos
+app-basics-launcher-process-status = Protzessu de aviu
+app-basics-multi-process-support = Ventanas multi-protzessu
+app-basics-fission-support = Ventanas Fission
 app-basics-remote-processes-count = Protzessos remotos
 app-basics-enterprise-policies = Polìticas aziendales
 app-basics-location-service-key-google = Crae de su servìtziu de positzione de Google
@@ -79,6 +83,7 @@ show-dir-label =
         [windows] Aberi sa cartella
        *[other] Aberi sa cartella
     }
+environment-variables-title = Variàbiles de ambiente
 environment-variables-name = Nòmine
 environment-variables-value = Valore
 experimental-features-title = Caraterìsticas isperimentales
@@ -88,6 +93,7 @@ modified-key-prefs-title = Preferèntzias importantes modificadas
 modified-prefs-name = Nòmine
 modified-prefs-value = Valore
 user-js-title = Preferèntzias de user.js
+user-js-description = Su profilu tuo cuntenet un'archìviu <a data-l10n-name="user-js-link">user.js</a>, chi includet preferèntzias non creadas dae { -brand-short-name }.
 locked-key-prefs-title = Preferèntzias importantes blocadas
 locked-prefs-name = Nòmine
 locked-prefs-value = Valore
@@ -101,6 +107,9 @@ graphics-decision-log-title = Registru de detzisiones
 graphics-workarounds-title = Solutziones alternativas
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocollu de ventanas
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Ambiente de iscrivania
+place-database-title = Base de datos de logos
 place-database-stats = Istatìsticas
 place-database-stats-show = Ammustra is istatìsticas
 place-database-stats-hide = Cua is istatìsticas
@@ -108,11 +117,43 @@ place-database-stats-entity = Entidade
 place-database-stats-count = Contègiu
 place-database-stats-size-kib = Mannària (KiB)
 place-database-stats-size-perc = Mannària (%)
+place-database-stats-efficiency-perc = Efitzèntzia (%S)
+place-database-stats-sequentiality-perc = Secuentzialidade (%S)
+place-database-integrity = Integridade
+place-database-verify-integrity = Avèrgua s'integridade
 a11y-title = Atzessibilidade
 a11y-activated = Ativadu
+a11y-force-disabled = Impedi s'atzessibilidade
+a11y-handler-used = Gestore de atzessibilidade impreadu
+a11y-instantiator = Generadore de atzessibilidade
+library-version-title = Versiones de sa biblioteca
+copy-text-to-clipboard-label = Còpia su testu in punta de billete
+copy-raw-data-to-clipboard-label = Còpia is datos chena protzessare in punta de billete
+sandbox-title = Ambiente de proas
+sandbox-sys-call-log-title = Mutidas de su sistema refudadas
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Segundos a immoe
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Genia de protzessu
+sandbox-sys-call-number = Mutida de sistema
+sandbox-sys-call-args = Argumentos
+troubleshoot-mode-title = Diagnòstica problemas
+restart-in-troubleshoot-mode-label = Modalidade de curretzione de faddinas...
+clear-startup-cache-title = Proa a limpiare sa memòria temporànea de s'aviu
+clear-startup-cache-label = Lìmpia sa memòria temporànea de s'aviu…
+startup-cache-dialog-title2 = Boles torrare a aviare { -brand-short-name } pro limpiare sa memòria temporànea de s'aviu?
+startup-cache-dialog-body2 = Custu no at a modificare sa cunfiguratzione tua e no at a bogare nissuna estensione.
+restart-button-label = Torra a aviare
 
 ## Media titles
 
+max-audio-channels = Nùmeru màssimu de canales
+media-title = Cuntenutos multimediales
+media-output-devices-title = Dispositivos de essida
+media-input-devices-title = Dispositivos de intrada
+media-device-name = Nòmine
+media-device-group = Grupu
 
 ##
 
