@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Pas ara
     .accesskey = P
 firefoxview-cfr-header = Recuperatz los onglets recentament tampatz gràcia a { -firefoxview-brand-name }
 firefoxview-cfr-body = Passatz d’un aparelh a l’autre sens relambi e apondètz una tòca de color a vòstre navegador.
+firefoxview-cfr-header-v2 = Tornatz ont èretz
+firefoxview-cfr-body-v2 = Tornatz trapar los onglets onglets tampats fa pas res, e basculatz d’un aparelh a l’autre amb { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
