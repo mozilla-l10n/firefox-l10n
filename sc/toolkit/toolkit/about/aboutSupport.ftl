@@ -154,9 +154,27 @@ media-output-devices-title = Dispositivos de essida
 media-input-devices-title = Dispositivos de intrada
 media-device-name = Nòmine
 media-device-group = Grupu
+media-device-vendor = Frunidore
+media-device-state = Istadu
+media-device-preferred = Preferidu
+media-device-format = Formadu
+media-device-channels = Canales
+media-device-rate = Frecuèntzia
+media-device-latency = Latèntzia
+media-capabilities-title = Capatzidades multimediales
+media-codec-support-info = Informatzione de suportu pro is codec
 
 ##
 
+intl-title = Internatzionalizatzione e localizatzione
+intl-app-title = Cunfiguratzione de s'aplicatzione
+intl-locales-requested = Locales preguntados
+intl-locales-available = Locales a disponimentu
+intl-locales-supported = Locales de s’aplicatzione
+intl-locales-default = Locale predefinidu
+intl-os-title = Sistema operativu
+intl-os-prefs-system-locales = Locales de su sistema
+intl-regional-prefs = Preferèntzias regionales
 
 ## Remote Debugging
 ##
@@ -167,9 +185,40 @@ media-device-group = Grupu
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Curretzione de faddinas in remotu (protocollu Chromium)
+remote-debugging-accepting-connections = Connessiones atzetadas
+remote-debugging-url = URL
 
 ##
 
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Informes de faddinas de s’ùrtima die
+       *[other] Informes de faddinas de is ùrtimas { $days } dies
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } minutu a immoe
+       *[other] { $minutes } minutos a immoe
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } ora a immoe
+       *[other] { $hours } oras a immoe
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } die a oe
+       *[other] { $days } dies a oe
+    }
 text-copied = Testu copiadu in punta de billete
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
