@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-intro = { $hostname } غلط سلامتی سرٹیفیکیٹ ورتیندے۔
 cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
 open-in-new-window-for-csp-or-xfo-error = سائٹ نویں ونڈو وچ کھولو
 
@@ -12,6 +15,7 @@ fileNotFound-title = فائل کائنی لبھی
 fileAccessDenied-title = فائل تائیں رسائی مسترد کر ݙتی ڳئی ہائی
 generic-title = اوہو
 captivePortal-title = نیٹ ورک وچ لاگ ان تھیوو
+netInterrupt-title = کنکشن خراب تھی ڳیا ہائی
 notCached-title = دستاویز زائدالمدت
 netOffline-title = آف لائن موڈ
 contentEncodingError-title = مواد اینکوڈ کرݨ وچ خرابی
