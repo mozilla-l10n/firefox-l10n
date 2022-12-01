@@ -34,9 +34,29 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Agiunghe custa ischeda a is sinnalibros…
     .accesskey = s
+synced-tabs-context-open-in-tab =
+    .label = Aberi in un'ischeda noa
+    .accesskey = A
+synced-tabs-context-open-in-container-tab =
+    .label = Aberi in un'ischeda de cuntenutu noa
+    .accesskey = c
+synced-tabs-context-open-in-window =
+    .label = Aberi in una ventana noa
+    .accesskey = v
+synced-tabs-context-open-in-private-window =
+    .label = Aberi in una ventana privada noa
+    .accesskey = p
 
 ##
 
+# Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+# and/or devices in the list. This string is for a menuitem equivalent to one in
+# the tab context menu (activated by right-clicking a tab in the tabstrip). That
+# string is located in tabContextMenu.ftl. So, this string should be translated
+# consistently with the "Bookmark Tab…" string there.
+synced-tabs-context-bookmark =
+    .label = Agiunghe s'ischeda a sinnalibros…
+    .accesskey = s
 synced-tabs-context-copy =
     .label = Còpia
     .accesskey = C

@@ -7,6 +7,7 @@ crashes-title = Informes de faddinas
 crashes-id = Identificadore de s'informe
 crashes-send-date = Data de imbiu
 crashes-all-reports = Totu is informes de faddina
+crashes-no-config = Custa aplicatzione no est istada cunfigurada pro ammustrare informes de faddinas.
 support-addons-title = Cumplementos
 support-addons-name = Nòmine
 support-addons-type = Genia
@@ -17,6 +18,8 @@ security-software-title = Programmas de seguresa
 security-software-type = Genia
 security-software-name = Nòmine
 security-software-antivirus = Antivirus
+security-software-antispyware = Anti-ispia
+security-software-firewall = Firewall
 features-title = Caraterìsticas de { -brand-short-name }
 features-name = Nòmine
 features-version = Versione
@@ -27,7 +30,8 @@ processes-count = Contègiu
 app-basics-title = Cunfiguratzione bàsica de s'aplicatzione
 app-basics-name = Nòmine
 app-basics-version = Versione
-app-basics-distribution-id = ID de distributzione
+app-basics-build-id = ID de sa compilatzione
+app-basics-distribution-id = ID de sa distributzione
 app-basics-update-channel = Canale de atualizatziones
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -38,11 +42,16 @@ app-basics-update-dir =
     }
 app-basics-update-history = Cronologia de atualizatziones
 app-basics-show-update-history = Ammustra sa cronologia de atualizatziones
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binàriu de s'aplicatzione
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Cartella de su profilu
        *[other] Cartella de su profilu
     }
+app-basics-enabled-plugins = Plugins ativados
+app-basics-build-config = Cunfiguratzione de sa compilatzione
+app-basics-user-agent = Agente de utente
 app-basics-os = Sistema operativu
 app-basics-os-theme = Tema de su sistema operativu
 # Rosetta is Apple's translation process to run apps containing x86_64
