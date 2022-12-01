@@ -13,6 +13,7 @@
 policy-3rdparty = Imposta polìticas a is chi WebExtensions potzant atzèdere pro mèdiu de chrome.storage.managed.
 policy-AllowedDomainsForApps = Defini is domìnios chi tenent su permissu de atzèdere a Google Workspace.
 policy-AppAutoUpdate = Ativa o disativa is atualizatziones in automàticu de s'aplicatzione.
+policy-AppUpdatePin = Impedi a { -brand-short-name } de s'atualizare prus a in antis de sa versione inditada.
 policy-AppUpdateURL = Cunfigura un'URL personalizadu de atualizatzione pro s'aplicatzione.
 policy-Authentication = Cunfigura s'autenticatzione integrada pro is sitos chi dda suportant.
 policy-AutoLaunchProtocolsFromOrigins = Defini una lista de protocollos esternos chi si podent impreare dae is orìgines aprovadas chene pedire a s'utente.
@@ -58,6 +59,7 @@ policy-DownloadDirectory = Cunfigura e bloca sa cartella de iscarrigamentu.
 policy-EnableTrackingProtection = Ativa o disativa su blocu de cuntenutos e, si boles, bloca·ddu.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Ativa o disativa is estensiones pro is mèdios tzifrados e, si boles, bloca s'optzione.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Disativa is avisos assotziados a s'estensione de is archìvios pro tipos de archìviu e domìnios determinados.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -66,6 +68,7 @@ policy-ExtensionSettings = Gesti totu is aspetos de s'installatzione de estensio
 policy-ExtensionUpdate = Ativa o disativa s'atualizatzione automàtica de is estensiones.
 policy-FirefoxHome = Cunfigura Firefox Home.
 policy-FlashPlugin = Permite o proibi s'impreu de su plugin de Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Fortza sa navigatzione direta de su situ de intranet imbetzes de aviare una chirca cando s'iscriet unu faeddu isceti in sa barra de is indiritzos.
 policy-HardwareAcceleration = Si su valore est "false", s'atzellerada hardware est istudada.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Cunfigura e, si boles, bloca sa pàgina initziale.
@@ -95,6 +98,7 @@ policy-PasswordManagerEnabled = Ativa su sarvamentu de is craes is su gestore de
 policy-PDFjs = Disativa o cunfigura PDF.js, su visualizadore de PDF inclùdidu in { -brand-short-name }
 policy-Permissions2 = Cunfigura is permissos pro càmera, micròfonu, positzione, notìficas e riprodutzione in automàticu.
 policy-PictureInPicture = Ativa o disativa Immàgine-subra-immàgine
+policy-PopupBlocking = Permite a tzertos sitos de ammustrare ventanas a cumparsa in manera predefinida.
 policy-Preferences = Cunfigura e bloca is valores pro una parte de is preferèntzias.
 policy-PromptForDownloadLocation = Pregunta in ue sarvare is archìvios de iscarrigare.
 policy-Proxy = Cunfiguratzione de serbidore intermediàriu.
