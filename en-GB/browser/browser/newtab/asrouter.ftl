@@ -207,6 +207,8 @@ firefoxview-cfr-secondarybutton = Not now
     .accesskey = N
 firefoxview-cfr-header = Get recently closed tabs back with { -firefoxview-brand-name }
 firefoxview-cfr-body = Plus seamlessly hop between devices and add a splash of colour to your browser.
+firefoxview-cfr-header-v2 = Quickly pick up where you left off
+firefoxview-cfr-body-v2 = Get recently closed tabs back, plus seamlessly hop between devices with { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
