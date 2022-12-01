@@ -9,9 +9,6 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
-colors-dialog =
-    .title = 配色
-    .style = width: 41em;
 colors-dialog2 =
     .title = 配色
     .style = min-width: 41em;
