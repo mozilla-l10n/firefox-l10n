@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Деректерді оқу және өзг
 origin-controls-state-hover-run-visit-only = Тек осы реттік шолу үшін орындау
 origin-controls-state-runnable-hover-open = Кеңейтуді ашу
 origin-controls-state-runnable-hover-run = Кеңейтуді орындау
+origin-controls-state-temporary-access = Бұл шолу үшін деректерді оқи және өзгерте алады
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Керек рұқсаттар

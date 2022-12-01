@@ -205,6 +205,8 @@ firefoxview-cfr-secondarybutton = Қазір емес
     .accesskey = е
 firefoxview-cfr-header = Жақында жабылған беттерді { -firefoxview-brand-name } арқылы қайтарыңыз
 firefoxview-cfr-body = Сонымен қатар, құрылғылар арасында кедергісіз ауысып, браузеріңізге түрлі-түсті бояу қосыңыз.
+firefoxview-cfr-header-v2 = Тоқтаған жерден жылдам жалғастырыңыз
+firefoxview-cfr-body-v2 = Жақында жабылған беттерді қайтарып алыңыз, сонымен қатар { -firefoxview-brand-name } көмегімен құрылғылар арасында кедергісіз өтіңіз.
 
 ## Firefox View Spotlight
 
