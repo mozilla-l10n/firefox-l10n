@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Registo de decisões
 graphics-crash-guards-title = Funcionalidades desativadas do Crash Guard
 graphics-workarounds-title = Alternativas
+graphics-device-pixel-ratios = Proporções de Píxeis da Janela do Dispositivo
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocolo de janela
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
