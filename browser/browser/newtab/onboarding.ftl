@@ -28,6 +28,8 @@ return-to-amo-add-theme-label = Agiuntar il design
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Qua vegn { -brand-short-name }
+mr1-return-to-amo-addon-title = Ti has in navigatur svelt e discret ch'è adina per mauns. Ussa pos ti agiuntar <b>{ $addon-name }</b> e far anc dapli cun { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Agiuntar { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
