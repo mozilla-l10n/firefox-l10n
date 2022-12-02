@@ -211,6 +211,8 @@ firefoxview-cfr-secondarybutton = Teraz nie
     .accesskey = T
 firefoxview-cfr-header = Získajte späť nedávno zatvorené karty vďaka { -firefoxview-brand-name(case: "dat") }
 firefoxview-cfr-body = Navyše plynulo preskakujte medzi zariadeniami a pridajte do svojho prehliadača nový farebný nádych.
+firefoxview-cfr-header-v2 = Rýchlo pokračujte tam, kde ste skončili
+firefoxview-cfr-body-v2 = Získajte späť nedávno zatvorené karty a navyše plynulo preskakujte medzi zariadeniami vďaka { -firefoxview-brand-name(case: "gen") }.
 
 ## Firefox View Spotlight
 

@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Protokol rozhodovania
 graphics-crash-guards-title = Zakázať funkcie Crash Guard
 graphics-workarounds-title = Možné riešenia
+graphics-device-pixel-ratios = Pomery Window Device Pixel Ratios
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokol zobrazovania okien
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
