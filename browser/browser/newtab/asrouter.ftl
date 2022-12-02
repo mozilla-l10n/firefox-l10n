@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Agora não
     .accesskey = n
 firefoxview-cfr-header = Recupere os separadores fechados recentemente com o { -firefoxview-brand-name }
 firefoxview-cfr-body = Além disso, alterne facilmente entre dispositivos e adicione um toque de cor ao seu navegador.
+firefoxview-cfr-header-v2 = Retome rapidamente onde ficou
+firefoxview-cfr-body-v2 = Recupere os separadores fechados recentemente, além de alternar facilmente entre os dispositivos com { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
