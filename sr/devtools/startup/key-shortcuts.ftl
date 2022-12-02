@@ -17,7 +17,7 @@ devtools-commandkey-inspector = C
 # Key pressed to open a toolbox with the web console panel selected
 devtools-commandkey-webconsole = K
 # Key pressed to open a toolbox with the debugger panel selected
-devtools-commandkey-jsdebugger = З
+devtools-commandkey-jsdebugger = Z
 # Key pressed to open a toolbox with the network monitor panel selected
 devtools-commandkey-netmonitor = E
 # Key pressed to open a toolbox with the style editor panel selected
