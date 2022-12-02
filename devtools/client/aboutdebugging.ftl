@@ -91,7 +91,7 @@ about-debugging-setup-usb-disabled = Enabling this will download and add the req
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Enable USB Devices
 # Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
-about-debugging-setup-usb-disable-button = Онемогућите USB уређаје
+about-debugging-setup-usb-disable-button = Disable USB Devices
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Updating…

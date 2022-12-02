@@ -41,7 +41,7 @@ accessibility-text-label-issue-heading-content = Headings should have visible te
 accessibility-text-label-issue-iframe = Use <code>title</code> attribute to describe <span>iframe</span> content. <a>Learn more</a>
 accessibility-text-label-issue-image = Content with images must be labeled. <a>Learn more</a>
 accessibility-text-label-issue-interactive = Interactive elements must be labeled. <a>Learn more</a>
-accessibility-text-label-issue-optgroup-label2 = Означите елемент <span>optgroup</span> помоћу атрибута <code>label</code>. <a>Сазнајте више</a>
+accessibility-text-label-issue-optgroup-label2 = Use a <code>label</code> attribute to label an <span>optgroup</span>. <a>Learn more</a>
 accessibility-text-label-issue-toolbar = Toolbars must be labeled when there is more than one toolbar. <a>Learn more</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
