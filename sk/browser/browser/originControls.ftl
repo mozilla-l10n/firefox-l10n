@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Na čítanie a zmenu údajov je potrebné p
 origin-controls-state-hover-run-visit-only = Povoliť len pre túto návštevu
 origin-controls-state-runnable-hover-open = Otvoriť rozšírenie
 origin-controls-state-runnable-hover-run = Spustiť rozšírenie
+origin-controls-state-temporary-access = Môže čítať a meniť údaje pre túto návštevu
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Vyžadujú sa oprávnenia
