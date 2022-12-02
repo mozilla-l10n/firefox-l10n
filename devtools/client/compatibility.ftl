@@ -5,29 +5,29 @@
 
 ## Messages used as headers in the main pane
 
-compatibility-selected-element-header = Изабрани елемент
-compatibility-all-elements-header = Сви проблеми
+compatibility-selected-element-header = Selected Element
+compatibility-all-elements-header = All Issues
 
 ## Message used as labels for the type of issue
 
-compatibility-issue-deprecated = (застарело)
-compatibility-issue-experimental = (експериментално)
-compatibility-issue-prefixneeded = (потребан је префикс)
-compatibility-issue-deprecated-experimental = (застарело, експериментално)
-compatibility-issue-deprecated-prefixneeded = (застарело, потребан је префикс)
-compatibility-issue-experimental-prefixneeded = (експериментално, потребан је префикс)
-compatibility-issue-deprecated-experimental-prefixneeded = (застарело, експериментално, потребан је префикс)
+compatibility-issue-deprecated = (deprecated)
+compatibility-issue-experimental = (experimental)
+compatibility-issue-prefixneeded = (prefix needed)
+compatibility-issue-deprecated-experimental = (deprecated, experimental)
+compatibility-issue-deprecated-prefixneeded = (deprecated, prefix needed)
+compatibility-issue-experimental-prefixneeded = (experimental, prefix needed)
+compatibility-issue-deprecated-experimental-prefixneeded = (deprecated, experimental, prefix needed)
 
 ## Messages used as labels and titles for buttons in the footer
 
-compatibility-settings-button-label = Подешавања
+compatibility-settings-button-label = Settings
 compatibility-settings-button-title =
-    .title = Подешавања
+    .title = Settings
 
 ## Messages used as headers in settings pane
 
-compatibility-settings-header = Подешавања
-compatibility-target-browsers-header = Циљни прегледачи
+compatibility-settings-header = Settings
+compatibility-target-browsers-header = Target Browsers
 
 ##
 
@@ -36,18 +36,18 @@ compatibility-target-browsers-header = Циљни прегледачи
 #   $number (Number) - The number of nodes where the issue occurred
 compatibility-issue-occurrences =
     { $number ->
-        [one] { $number } појављивање
-        [few] { $number } појављивања
-       *[other] { $number } појављивања
+        [one] { $number } occurrence
+        [few] { $number } occurrences
+       *[other] { $number } occurrences
     }
-compatibility-no-issues-found = Проблем са компатибилношћу није пронађен.
+compatibility-no-issues-found = No compatibility issues found.
 compatibility-close-settings-button =
-    .title = Затвори подешавања
+    .title = Close settings
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:
 #   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
 compatibility-issue-browsers-list =
     .title =
-        Проблема са компатибилношћу у:
+        Compatibility issues in:
         { $browsers }

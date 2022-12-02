@@ -14,28 +14,22 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Service Workers
-
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
 serviceworker-list-aboutdebugging = Open <a>about:debugging</a> for Service Workers from other domains
-
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
-serviceworker-worker-unregister = Опозови регистрацију
-
+serviceworker-worker-unregister = Unregister
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Debug
     .title = Only running service workers can be debugged
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
-    .alt = Прегледај
-
+    .alt = Inspect
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start3 = Покрени
-
+serviceworker-worker-start3 = Start
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Updated <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -46,101 +40,75 @@ serviceworker-worker-updated = Updated <time>{ DATETIME($date, month: "long", ye
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = Running
-
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Stopped
-
 # Text displayed when no service workers are visible for the current page.
-serviceworker-empty-intro2 = Service worker-и нису пронађени
-
+serviceworker-empty-intro2 = No service workers found
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro-link = Сазнајте више
-
+serviceworker-empty-intro-link = Learn more
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = Ако тренутна страница треба да има веб воркера, можете да потражите грешке у <a>конзоли</a> или да прођете кроз регистрацију ваших веб воркера у <span>програму за отклањање грешака</span>.
-
+serviceworker-empty-suggestions2 = If the current page should have a service worker, you could look for errors in the <a>Console</a> or step through your service worker registration in the <span>Debugger</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging2 = Прикажи service worker-е са других домена
-
+serviceworker-empty-suggestions-aboutdebugging2 = View service workers from other domains
 # Header for the Manifest page when we have an actual manifest
-manifest-view-header = Манифест апликације
-
+manifest-view-header = App Manifest
 # Header for the Manifest page when there's no manifest to inspect
-manifest-empty-intro2 = Манифест веб-апликације није пронађен
-
+manifest-empty-intro2 = No web app manifest detected
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro-link = Сазнајте како да додате манифест
-
+manifest-empty-intro-link = Learn how to add a manifest
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
-manifest-item-warnings = Грешке и упозорења
-
+manifest-item-warnings = Errors and Warnings
 # Header for the Identity section of Manifest inspection displayed in the application panel.
-manifest-item-identity = Идентитет
-
+manifest-item-identity = Identity
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
-manifest-item-presentation = Презентација
-
+manifest-item-presentation = Presentation
 # Header for the Icon section of Manifest inspection displayed in the application panel.
-manifest-item-icons = Иконе
-
+manifest-item-icons = Icons
 # Text displayed while we are loading the manifest file
-manifest-loading = Учитавање манифеста…
-
+manifest-loading = Loading manifest…
 # Text displayed when the manifest has been successfully loaded
-manifest-loaded-ok = Манифест је учитан.
-
+manifest-loaded-ok = Manifest loaded.
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
-manifest-loaded-error = Дошло је до грешке при учитавању манифеста:
-
+manifest-loaded-error = There was an error while loading the manifest:
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
-manifest-loaded-devtools-error = Грешка у Firefox-овим алаткама за програмере
-
+manifest-loaded-devtools-error = Firefox DevTools error
 # Text displayed when the page has no manifest available
-manifest-non-existing = Манифест за преглед није пронађен.
-
+manifest-non-existing = No manifest found to inspect.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
-manifest-json-link-data-url = Манифест је уграђен у data URL.
-
+manifest-json-link-data-url = The manifest is embedded in a Data URL.
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
-manifest-icon-purpose = Намена: <code>{ $purpose }</code>
-
+manifest-icon-purpose = Purpose: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
-    .alt = Икона
-
+    .alt = Icon
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest. `$sizes` is a user-dependent string that has been parsed as a
 # space-separated list of `<width>x<height>` sizes or the keyword `any`.
-manifest-icon-img-title = Икона са величинама: { $sizes }
-
+manifest-icon-img-title = Icon with sizes: { $sizes }
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
-manifest-icon-img-title-no-sizes = Икона ненаведене величине
-
+manifest-icon-img-title-no-sizes = Unspecified size icon
 # Sidebar navigation item for Manifest sidebar item section
-sidebar-item-manifest = Манифест
-    .alt = Икона манифеста
-    .title = Манифест
-
+sidebar-item-manifest = Manifest
+    .alt = Manifest Icon
+    .title = Manifest
 # Sidebar navigation item for Service Workers sidebar item section
-sidebar-item-service-workers = Сервис воркери
-    .alt = Икона сервис воркера
-    .title = Сервис воркери
-
+sidebar-item-service-workers = Service Workers
+    .alt = Service Workers Icon
+    .title = Service Workers
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
-    .alt = Икона упозорења
-    .title = Упозорење
-
+    .alt = Warning icon
+    .title = Warning
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
-    .alt = Икона грешке
-    .title = Грешка
+    .alt = Error icon
+    .title = Error
