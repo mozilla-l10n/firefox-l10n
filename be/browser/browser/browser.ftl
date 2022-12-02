@@ -620,7 +620,7 @@ urlbar-result-action-tabtosearch-web = Шукайце з дапамогай { $e
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Шукайце ў { $engine } наўпрост з адраснага радка
 # Action text for copying to clipboard.
-urlbar-result-action-copy-to-clipboard = Капіраваць
+urlbar-result-action-copy-to-clipboard = Капіяваць
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
