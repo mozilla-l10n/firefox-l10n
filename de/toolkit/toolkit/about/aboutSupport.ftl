@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU 2
 graphics-decision-log-title = Entscheidungsprotokoll
 graphics-crash-guards-title = Absturzverhinderer hat Funktionen deaktiviert
 graphics-workarounds-title = Lösungen
+graphics-device-pixel-ratios = Gerät-Pixel-Verhältnisse (Device Pixel Ratios) des Fensters
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Window-Protokoll
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).

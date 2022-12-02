@@ -46,3 +46,7 @@ toolbox-always-on-top-enabled =
     .title = Immer im Vordergrund deaktivieren (dadurch werden die Entwicklerwerkzeuge neu gestartet)
 toolbox-always-on-top-disabled =
     .title = Immer im Vordergrund aktivieren (dadurch werden die Entwicklerwerkzeuge neu gestartet)
+toolbox-always-on-top-enabled2 = Immer im Vordergrund deaktivieren
+    .title = Dadurch werden die Entwicklerwerkzeuge neu gestartet
+toolbox-always-on-top-disabled2 = Immer im Vordergrund aktivieren
+    .title = Dadurch werden die Entwicklerwerkzeuge neu gestartet
