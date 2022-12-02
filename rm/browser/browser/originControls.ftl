@@ -30,3 +30,10 @@ origin-controls-state-no-access = Na po ni leger ni modifitgar las datas da ques
 origin-controls-state-always-on = Po adina leger e modifitgar las datas da questa website
 origin-controls-state-when-clicked = La permissiun per leger e modifitgar datas è necessaria
 origin-controls-state-hover-run-visit-only = Exequir mo per questa visita
+origin-controls-state-runnable-hover-open = Avrir l'extensiun
+origin-controls-state-runnable-hover-run = Exequir l'extensiun
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
