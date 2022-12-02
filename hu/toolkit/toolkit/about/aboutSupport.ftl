@@ -107,6 +107,7 @@ graphics-gpu2-title = 2. GPU
 graphics-decision-log-title = Döntésnapló
 graphics-crash-guards-title = Összeomlásvédelem által letiltott funkciók
 graphics-workarounds-title = Kerülő eljárások
+graphics-device-pixel-ratios = Ablakeszköz képpontarányai
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Ablakprotokoll
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
