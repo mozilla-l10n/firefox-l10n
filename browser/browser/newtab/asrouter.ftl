@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Nicht jetzt
     .accesskey = N
 firefoxview-cfr-header = Holen Sie kürzlich geschlossene Tabs mit { -firefoxview-brand-name } zurück
 firefoxview-cfr-body = Wechseln Sie außerdem nahtlos zwischen Geräten und fügen Sie Ihrem Browser einen Farbtupfer hinzu.
+firefoxview-cfr-header-v2 = Machen Sie schnell da weiter, wo Sie aufgehört haben
+firefoxview-cfr-body-v2 = Holen Sie sich kürzlich geschlossene Tabs zurück und wechseln Sie nahtlos zwischen Geräten mit { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 

@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Erweiterung verwalten
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = An Symbolleiste anheften
 unified-extensions-context-menu-manage-extension =
     .label = Erweiterung verwalten
 unified-extensions-context-menu-remove-extension =
