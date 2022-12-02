@@ -189,7 +189,7 @@ main-context-menu-copy-phone =
     .label = Капіяваць нумар тэлефона
     .accesskey = о
 main-context-menu-copy-link-simple =
-    .label = Капіраваць спасылку
+    .label = Капіяваць спасылку
     .accesskey = с
 
 ## Media (video/audio) controls
@@ -269,10 +269,10 @@ main-context-menu-image-copy-link =
     .label = Капіяваць спасылку на відарыс
     .accesskey = в
 main-context-menu-video-copy-link =
-    .label = Капіраваць спасылку на відэа
+    .label = Капіяваць спасылку на відэа
     .accesskey = в
 main-context-menu-audio-copy-link =
-    .label = Капіраваць спасылку на гук
+    .label = Капіяваць спасылку на гук
     .accesskey = в
 main-context-menu-image-save-as =
     .label = Захаваць відарыс як…
