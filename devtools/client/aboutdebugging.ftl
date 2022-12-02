@@ -26,7 +26,7 @@ about-debugging-sidebar-this-firefox =
 about-debugging-sidebar-setup =
     .name = Setup
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
-about-debugging-sidebar-usb-enabled = USB омогућен
+about-debugging-sidebar-usb-enabled = USB enabled
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
 about-debugging-sidebar-usb-disabled = USB disabled
@@ -51,7 +51,7 @@ about-debugging-sidebar-item-connect-button-connection-timeout = Connection time
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-browser = Чекам прегледача...
+about-debugging-sidebar-runtime-item-waiting-for-browser = Waiting for browser…
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
 about-debugging-sidebar-runtime-item-unplugged = Unplugged
@@ -96,8 +96,8 @@ about-debugging-setup-usb-disable-button = Онемогућите USB уређа
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Updating…
 # USB section of the Setup page (USB status)
-about-debugging-setup-usb-status-enabled = Омогућено
-about-debugging-setup-usb-status-disabled = Онемогућено
+about-debugging-setup-usb-status-enabled = Enabled
+about-debugging-setup-usb-status-disabled = Disabled
 about-debugging-setup-usb-status-updating = Updating…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Enable Developer menu on your Android device.
@@ -149,10 +149,10 @@ about-debugging-runtime-extensions =
     .name = Extensions
 # Title of the tabs category.
 about-debugging-runtime-tabs =
-    .name = Картице
+    .name = Tabs
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Сервис воркери
+    .name = Service Workers
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
     .name = Shared Workers
@@ -173,10 +173,10 @@ about-debugging-runtime-service-workers-not-compatible = Your browser configurat
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = Повезани прегледач има стару верзију ({ $runtimeVersion }). Минимална подржана верзија је ({ $minVersion }). Ово је неподржана конфигурација која може изазвати проблеме у раду DevTools-а. Ажурирајте повезани прегледач. <a>Отклањање проблема</a>
+about-debugging-browser-version-too-old = The connected browser has an old version ({ $runtimeVersion }). The minimum supported version is ({ $minVersion }). This is an unsupported setup and may cause DevTools to fail. Please update the connected browser. <a>Troubleshooting</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
-about-debugging-browser-version-too-old-fennec = Ова Firefox верзија не може да уклања грешке за Firefox за Android (68). Препоручујемо вам да на телефон инсталирате Firefox за Android Nightly за тестирање. <a>Више детаља</a>
+about-debugging-browser-version-too-old-fennec = This version of Firefox cannot debug Firefox for Android (68). We recommend installing Firefox for Android Nightly on your phone for testing. <a>More details</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
@@ -228,7 +228,7 @@ about-debugging-tmp-extension-remove-button = Remove
 # Clicking on the button will forcefully terminate the extension background script (button
 # only visible in extensions that includes a non-persistent background script, either an
 # event page or a background service worker).
-about-debugging-tmp-extension-terminate-bgscript-button = Зауставите позадинску скрипту
+about-debugging-tmp-extension-terminate-bgscript-button = Terminate background script
 # Message displayed in the file picker that opens to select a temporary extension to load
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
@@ -255,7 +255,7 @@ about-debugging-extension-id =
 # Text displayed for extensions in "runtime" pages, before displaying the status of the
 # extension background script.
 about-debugging-extension-backgroundscript =
-    .label = Позадинска скрипта
+    .label = Background script
 # Displayed for extension using a non-persistent background page (either an event page or
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = Running
@@ -271,7 +271,7 @@ about-debugging-worker-action-push2 = Push
 about-debugging-worker-action-start2 = Start
     .disabledTitle = Service Worker start is currently disabled for multiprocess { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
-about-debugging-worker-action-unregister = Опозови регистрацију
+about-debugging-worker-action-unregister = Unregister
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Fetch
@@ -299,7 +299,7 @@ about-debugging-worker-inspect-action-disabled =
     .title = Service Worker inspection is currently disabled for multiprocess { -brand-shorter-name }
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
-    .title = Картица није у потпуности учитана и не може се прегледати
+    .title = Tab is not fully loaded and cannot be inspected
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Main Process
@@ -308,9 +308,9 @@ about-debugging-main-process-name = Main Process
 about-debugging-main-process-description2 = Main Process for the target browser
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
-about-debugging-multiprocess-toolbox-name = Вишепроцесне алатке
+about-debugging-multiprocess-toolbox-name = Multiprocess Toolbox
 # Description for the Multiprocess Toolbox target.
-about-debugging-multiprocess-toolbox-description = Главни процес и процеси садржаја за циљани прегледач
+about-debugging-multiprocess-toolbox-description = Main Process and Content Processes for the target browser
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Close message
@@ -319,4 +319,4 @@ about-debugging-message-details-label-error = Error details
 # Label text used for the warning details of message component.
 about-debugging-message-details-label-warning = Warning details
 # Label text used for default state of details of message component.
-about-debugging-message-details-label = Детаљи
+about-debugging-message-details-label = Details
