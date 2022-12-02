@@ -32,6 +32,7 @@ origin-controls-state-when-clicked = Tillatelse kreves for å lese og endre data
 origin-controls-state-hover-run-visit-only = Kjør kun for dette besøket
 origin-controls-state-runnable-hover-open = Åpne utvidelse
 origin-controls-state-runnable-hover-run = Kjør utvidelse
+origin-controls-state-temporary-access = Kan lese og endre data for dette besøket
 
 ## Extension's toolbar button.
 ## Variables:

@@ -208,6 +208,7 @@ firefoxview-cfr-secondarybutton = Ikke nå
 firefoxview-cfr-header = Få tilbake nylig lukkede faner med { -firefoxview-brand-name }
 firefoxview-cfr-body = sømløst bytting mellom enheter og legg til en fargeklatt i nettleseren din.
 firefoxview-cfr-header-v2 = Fortsett raskt der du sluttet
+firefoxview-cfr-body-v2 = Få tilbake nylig lukkede faner, pluss sømløst bytting mellom enheter med { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
