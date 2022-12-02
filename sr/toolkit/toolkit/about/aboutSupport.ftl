@@ -47,7 +47,7 @@ app-basics-update-channel = Канал за ажурирање
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir = Фасцикла за ажурирања
 app-basics-update-history = Историја ажурирања
-app-basics-show-update-history = Прикажи историјат ажурирања
+app-basics-show-update-history = Прикажи историју ажурирања
 # Represents the path to the binary used to start the application.
 app-basics-binary = Бинарна датотека програма
 app-basics-profile-dir = Фасцикла профила
