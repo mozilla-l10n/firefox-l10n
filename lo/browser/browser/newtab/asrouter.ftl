@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = ສ່ວນເສີມທີ່ແນະນຳ
+cfr-doorhanger-feature-heading = ຄຸນສົມບັດທີ່ແນະນຳ
 
 ##
 

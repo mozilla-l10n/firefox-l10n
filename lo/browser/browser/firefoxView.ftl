@@ -47,6 +47,10 @@ firefoxview-closed-tabs-title = ຫາກໍ່ປິດໄປມື້ກີ້
 firefoxview-closed-tabs-placeholder-header = ບໍ່ມີແຖບທີ່ປິດເມື່ອບໍ່ດົນມານີ້
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ການເຄື່ອນໄຫວຫຼ້າສຸດ
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = ເປີດ { $targetURI } ໃນແຖບໃໝ່
 firefoxview-try-colorways-button = ລອງສີ
 firefoxview-no-current-colorway-collection = ສີສັນໃໝ່ກຳລັງມາ
 firefoxview-change-colorway-button = ປ່ຽນສີ
