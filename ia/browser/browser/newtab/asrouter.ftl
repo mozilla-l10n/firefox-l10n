@@ -209,6 +209,7 @@ firefoxview-cfr-secondarybutton = Non ora
 firefoxview-cfr-header = Re-obtene le schedas claudite recentemente con { -firefoxview-brand-name }
 firefoxview-cfr-body = In ultra, salta sin problemas inter apparatos e adde un tocco de color a tu navigator.
 firefoxview-cfr-header-v2 = Rapidemente reprende de ubi tu lassava
+firefoxview-cfr-body-v2 = Reobtene le schedas claudite recentemente, plus salta sin problemas inter apparatos con { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
