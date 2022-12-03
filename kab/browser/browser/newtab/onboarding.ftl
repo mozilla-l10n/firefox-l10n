@@ -25,6 +25,11 @@ return-to-amo-addon-title = Tura ad ak·am-id-nmudd <img data-l10n-name="icon"/>
 return-to-amo-add-extension-label = Rnu asiɣzef
 return-to-amo-add-theme-label = Rnu asentel
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Ini azul i { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Rnu { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -326,38 +331,24 @@ mr2022-onboarding-colorway-subtitle = Tuɣac tilelliyen zemrent ad beddlent idle
 mr2022-onboarding-colorway-primary-button-label-continue = Sbadu syen kemmel
 mr2022-onboarding-existing-colorway-checkbox-label = Err { -firefox-home-brand-name } d asebter-ik·im agejdan s yiniten
 mr2022-onboarding-colorway-label-default = Amezwer
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Amezwer
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Initen n imiranen { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Seqdec initen-inu imiranen n { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Playmaker (azewwaɣ)
 mr2022-onboarding-colorway-description-playmaker = <b>Kečč.Kemm d Playmaker.</b> Trennuḍ-d tugnatin i rrbaḥ, akken daɣen i tettɛawaneḍ yal win i ak·am-d-yezzin ad issali urar-is.
 mr2022-onboarding-colorway-label-expressionist = Anfalan
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Anfalan
 mr2022-onboarding-colorway-description-expressionist = <b>Kečč·Kemm d Experssionist.</b> Tettwaliḍ amaḍal s tmuɣli-nniḍen, isnulfuyen-ik·im senkarayen-d iḥulfan n wiyaḍ.
 mr2022-onboarding-colorway-label-visionary = Visionary
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Visionary
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionary (azegzaw)
 mr2022-onboarding-colorway-description-visionary = <b>Kečč·Kemm d Visionary.</b> Tettcukkuteḍ aṭas deg tegnit-agi n tura, tettdeggireḍ wiyaḍ ad sugnen imal igerrzen ugar.
 mr2022-onboarding-colorway-label-activist = Ameɣnas
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Ameɣnas
 mr2022-onboarding-colorway-description-activist = <b>Kečč·Kemm d Ameqnas.</b> Tettaǧǧaḍ-d amaḍal igerrez ugar n wamek i t-id-tufiḍ, trennuḍ tgelluḍ s wiyaḍ ad amnen s waya.
 mr2022-onboarding-colorway-label-dreamer = Win·Tin yettargun
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Win·Tin yettargun
 mr2022-onboarding-colorway-description-dreamer = <b>Kečč·kemm d b·mmtirga.</b> Tumneḍ ssɛaya tetteg tissas, tettarra wiyaḍ sɛan tabɣest.
 mr2022-onboarding-colorway-label-innovator = Amesnulfu
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Amesnulfu
 mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulfuṭ.</b> Tettwaliḍ tignatin deg yal adeg, tettḥazeḍ ula d tudert n wid i ak·am-d-yezzin.
 
 ## MR2022 Multistage Mobile Download screen strings
