@@ -223,3 +223,7 @@ firefoxview-spotlight-promo-secondarybutton = გამოტოვება
 
 colorways-cfr-primarybutton = აირჩიეთ შეფერილობა
     .accesskey = ფ
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = გააფერადეთ { -brand-short-name } გამორჩეული შეფერილობებით, შთაგონებული ხალხის ხმებით, რომელთაც შეცვალეს ღირებულებები.
+colorways-cfr-header-28days = დამოუკიდებელი ხმების შეფერილობათა ბოლო ვადაა 16 იანვარი
+colorways-cfr-header-14days = დამოუკიდებელი ხმების შეფერილობებს ვადა გასდის ორ კვირაში

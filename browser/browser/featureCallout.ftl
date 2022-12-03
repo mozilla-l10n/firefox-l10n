@@ -20,7 +20,7 @@ callout-firefox-view-colorways-title = შეაფერადეთ
 callout-firefox-view-colorways-subtitle = შეარჩიეთ ახალი შეფერილობა. გთავაზობთ მხოლოდ { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = გაეცანით ჩვენს ახალ შეფერილობებს
 # “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = შეალამაზეთ თქვენი ბრაუზერი ამ გამორჩეული ფერებით, რომლებიც შთაგონებულია დამოუკიდებელი ხმებით. გთავაზობთ მხოლოდ { -brand-product-name }.
+callout-firefox-view-colorways-reminder-subtitle = შეაფერადეთ თქვენი ბრაუზერი ამ გამორჩეული შეფერილობებით, რომლებიც შთაგონებულია დამოუკიდებელი ხმებით. გთავაზობთ მხოლოდ { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
