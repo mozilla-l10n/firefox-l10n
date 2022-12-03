@@ -106,11 +106,12 @@ graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = გადაწყვეტილებების ჩანაწერები
 graphics-crash-guards-title = უეცარი გათიშვებისგან დაცვის მიერ გამორთული შესაძლებლობები
-graphics-workarounds-title = შემოვლითი გზები
+graphics-workarounds-title = გამოსავალი
+graphics-device-pixel-ratios = მოწყობილობის ფანჯრის პიქსელთა ფარდობა
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = ფანჯრის ოქმი
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
-graphics-desktop-environment = სამუშაო მაგიდის გარსი
+graphics-desktop-environment = სამუშაო ეკრანის გარსი
 place-database-title = Places – მონაცემთა ბაზა
 place-database-stats = სტატისტიკა
 place-database-stats-show = სტატისტიკის ჩვენება

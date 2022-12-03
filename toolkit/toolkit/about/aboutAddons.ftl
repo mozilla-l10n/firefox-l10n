@@ -142,6 +142,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = საიტის ნებართვები
 addon-category-sitepermission-title =
     .title = საიტის ნებართვები
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = ნებართვები საიტისთვის { $host }
 
 ## These are global warnings
 
