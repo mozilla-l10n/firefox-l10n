@@ -209,6 +209,7 @@ firefoxview-cfr-secondarybutton = ახლა არა
 firefoxview-cfr-header = დააბრუნეთ ბოლოს დახურული ჩანართები { -firefoxview-brand-name(case: "ins") }
 firefoxview-cfr-body = ამასთანავე, შეუფერხებლად გადაერთეთ მოწყობილობებს შორის და შეაფერადეთ თქვენი ბრაუზერი.
 firefoxview-cfr-header-v2 = სწრაფადვე განაგრძეთ იქიდან, სადაც გაჩერდით
+firefoxview-cfr-body-v2 = დაიბრუნეთ ახლახან დახურული ჩანართები და ამასთანავე, შეუფერხებლად გადაერთეთ მოწყობილობებს შორის { -firefoxview-brand-name(case: "ins") }.
 
 ## Firefox View Spotlight
 
@@ -220,3 +221,5 @@ firefoxview-spotlight-promo-secondarybutton = გამოტოვება
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = აირჩიეთ შეფერილობა
+    .accesskey = ფ
