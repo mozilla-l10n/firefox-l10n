@@ -76,7 +76,11 @@ firefoxview-closed-tabs-description2 = Riapri pagine che hai chiuso in questa fi
 firefoxview-closed-tabs-placeholder = <strong>Nessuna pagina chiusa di recente</strong><br/>Non avrai più paura di perdere una scheda chiusa per errore, potrai sempre riaprirla qui.
 firefoxview-closed-tabs-placeholder-header = Nessuna scheda chiusa di recente
 firefoxview-closed-tabs-placeholder-body = Quando chiudi una scheda in questa finestra potrai sempre recuperarla da qui.
-firefoxview-closed-tabs-dismiss = Chiudi
+
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+  .title = Rimuovi { $tabTitle }
 
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ultima attiva
