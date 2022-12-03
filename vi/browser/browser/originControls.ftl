@@ -47,4 +47,4 @@ origin-controls-toolbar-button-permission-needed =
     .label = { $extensionTitle }
     .tooltiptext =
         { $extensionTitle }
-        Quyền hạn cần yêu cầu
+        Cần yêu cầu quyền hạn
