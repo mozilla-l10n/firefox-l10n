@@ -34,6 +34,7 @@ login-list-name-option = ناں(A-Z)
 login-list-name-reverse-option = ناں (Z-A)
 login-list-username-option = ورتݨ ناں (A-Z)
 login-list-username-reverse-option = ورتݨ ناں (Z-A)
+login-list-last-changed-option = چھیکڑی واری تبدیل تھیا
 login-list-last-used-option = چھیکڑی ورتاوا
 login-list-intro-title = کوئی لاگ ان کائنی لبھے
 about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
@@ -83,6 +84,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = محفوظ تھئے لاگ ان وچ تبدیلی کرو
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ تھئے پاس ورڈ نقل کرو
@@ -105,6 +109,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] ہٹاؤ
         [one] ہٹاؤ
        *[other] سارے ہٹاؤ
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] جیا، ایہ لاگ ان ہٹاؤ
+        [one] جیا، ایہ لاگ ان ہٹاؤ
+       *[other] جیا، ایہ لاگ اناں ہٹاؤ
     }
 confirm-discard-changes-dialog-confirm-button = کڈھ سٹو
 
