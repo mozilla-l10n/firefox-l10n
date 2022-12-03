@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = ახლა კი შეგი�
 firefoxview-closed-tabs-title = ბოლოს დახურული
 firefoxview-closed-tabs-description2 = კვლავ გახსენით დახურული გვერდები ამ ფანჯრიდანვე.
 firefoxview-closed-tabs-placeholder = <strong>ბოლოს დახურული ჩანართები არაა</strong><br/>ნუ შეგეშინდებათ დახურული ჩანართების დაკარგვის. ყოველთვის შეძლებთ აღადგინოთ აქედან.
+firefoxview-closed-tabs-placeholder-header = ბოლოს დახურული ჩანართები არაა
+firefoxview-closed-tabs-placeholder-body = როდესაც დახურავთ ჩანართს ამ ფანჯარაში, შეგიძლიათ დააბრუნოთ აქედან.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ბოლოს მოქმედი
 # Variables:
