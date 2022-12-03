@@ -136,11 +136,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Lortu laguntza
 urlbar-search-tips-confirm = Ados, ulertuta
+urlbar-search-tips-confirm-short = Ulertuta
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Aholkua:
+urlbar-result-menu-button =
+    .title = Ireki menua
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -925,6 +928,15 @@ private-browsing-indicator-label = Nabigatze pribatua
 unified-extensions-button =
     .label = Hedapenak
     .tooltiptext = Hedapenak
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Hedapenak
+    .tooltiptext =
+        Hedapenak
+        Baimenak behar dira
 
 ## Autorefresh blocker
 
