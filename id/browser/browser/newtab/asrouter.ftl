@@ -205,6 +205,8 @@ firefoxview-cfr-secondarybutton = Jangan sekarang
     .accesskey = J
 firefoxview-cfr-header = Dapatkan kembali tab yang baru saja ditutup dengan { -firefoxview-brand-name }
 firefoxview-cfr-body = Plus, berpindah perangkat dengan mulus dan tambahkan percikan warna ke peramban Anda.
+firefoxview-cfr-header-v2 = Cepat lanjutkan dari bagian terakhir yang Anda tinggalkan
+firefoxview-cfr-body-v2 = Dapatkan kembali tab yang baru saja ditutup, plus mulus melompat antar perangkat dengan { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
