@@ -136,11 +136,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = დახმარების მიღება
 urlbar-search-tips-confirm = კარგი, გასაგებია
+urlbar-search-tips-confirm-short = გასაგებია
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = რჩევა:
+urlbar-result-menu-button =
+    .title = მენიუს გახსნა
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -931,6 +934,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = გაფართოებები
+    .tooltiptext =
+        გაფართოებები
+        საჭიროა ნებართვები
 
 ## Autorefresh blocker
 
