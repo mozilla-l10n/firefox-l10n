@@ -934,7 +934,7 @@ unified-extensions-button-permissions-needed =
     .label = Tiện ích mở rộng
     .tooltiptext =
         Tiện ích mở rộng
-        Quyền hạn cần yêu cầu
+        Cần yêu cầu quyền hạn
 
 ## Autorefresh blocker
 
