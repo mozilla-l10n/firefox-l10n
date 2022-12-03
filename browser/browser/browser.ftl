@@ -152,6 +152,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = Ketik lebih sedikit, temukan lebih banyak: Pencarian { $engineName } langsung dari bilah alamat Anda.
 urlbar-search-tips-redirect-2 = Mulai pencarian Anda di bilah alat untuk melihat saran dari { $engineName } dan riwayat penjelajahan Anda.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Pencarian menjadi lebih sederhana. Coba buat pencarian Anda lebih spesifik di bilah alamat. Untuk menampilkan URL saja, kunjungi Pencarian, di pengaturan.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Pilih pintasan ini untuk menemukan lebih cepat apa yang dibutuhkan.
@@ -924,6 +926,15 @@ private-browsing-indicator-label = Penjelajahan pribadi
 unified-extensions-button =
     .label = Ekstensi
     .tooltiptext = Ekstensi
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Ekstensi
+    .tooltiptext =
+        Ekstensi
+        Izin dibutuhkan
 
 ## Autorefresh blocker
 
