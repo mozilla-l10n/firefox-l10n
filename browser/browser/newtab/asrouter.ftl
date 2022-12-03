@@ -211,6 +211,8 @@ firefoxview-cfr-secondarybutton = Не сейчас
     .accesskey = е
 firefoxview-cfr-header = Верните недавно закрытые вкладки с помощью { -firefoxview-brand-name }
 firefoxview-cfr-body = Кроме того, вы можете легко переключаться между устройствами и добавить ярких красок в свой браузер.
+firefoxview-cfr-header-v2 = Быстро вернитесь к месту, где остановились
+firefoxview-cfr-body-v2 = Верните недавно закрытые вкладки, а также легко переключайтесь между устройствами с помощью { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
