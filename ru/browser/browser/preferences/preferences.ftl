@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Отправлять веб-сайтам сигнал «Не отслеживать», означающий, что вы не хотите, чтобы вас отслеживали
+do-not-track-description = Отправлять сайтам сигнал «Не отслеживать», означающий, что вы не хотите, чтобы вас отслеживали
 do-not-track-learn-more = Подробнее
 do-not-track-option-default-content-blocking-known =
     .label = Только когда { -brand-short-name } настроен на блокировку известных трекеров
@@ -184,22 +184,22 @@ containers-remove-cancel-button = Не удалять этот контейне�
 
 language-and-appearance-header = Язык и внешний вид
 preferences-web-appearance-header = Внешний вид сайтов
-preferences-web-appearance-description = Некоторые веб-сайты адаптируют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
+preferences-web-appearance-description = Некоторые сайты изменяют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
 preferences-web-appearance-choice-browser = Тема { -brand-short-name }
 preferences-web-appearance-choice-system = Системная тема
 preferences-web-appearance-choice-auto = Автоматически
 preferences-web-appearance-choice-light = Светлая
 preferences-web-appearance-choice-dark = Тёмная
 preferences-web-appearance-choice-tooltip-browser =
-    .title = Применять настройки темы { -brand-short-name } к фону и содержимому веб-сайтов.
+    .title = Применять настройки темы { -brand-short-name } к фону и содержимому сайтов.
 preferences-web-appearance-choice-tooltip-system =
-    .title = Применять системные настройки к фону и содержимому веб-сайтов.
+    .title = Применять системные настройки к фону и содержимому сайтов.
 preferences-web-appearance-choice-tooltip-auto =
-    .title = Автоматически менять фон и содержимое веб-сайтов в зависимости от ваших системных настроек и темы { -brand-short-name }.
+    .title = Автоматически менять фон и содержимое сайтов в зависимости от ваших системных настроек и темы { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
-    .title = Использовать светлый вид для фона и содержимого веб-сайтов.
+    .title = Использовать светлый вид для фона и содержимого сайтов.
 preferences-web-appearance-choice-tooltip-dark =
-    .title = Использовать тёмный вид для фона и содержимого веб-сайтов.
+    .title = Использовать тёмный вид для фона и содержимого сайтов.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -212,12 +212,12 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
-preferences-web-appearance-override-warning = Выбранные вами цвета изменяют внешний вид веб-сайтов. <a data-l10n-name="colors-link">Управлять цветами</a>
+preferences-web-appearance-override-warning = Выбранные вами цвета изменяют внешний вид сайтов. <a data-l10n-name="colors-link">Управлять цветами</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Управляйте темами { -brand-short-name } в разделе <a data-l10n-name="themes-link">«Расширения и темы»</a>
 preferences-colors-header = Цвета
-preferences-colors-description = Переопределяйте цвета { -brand-short-name } по умолчанию для текста, фона веб-сайтов и ссылок.
+preferences-colors-description = Переопределяйте цвета { -brand-short-name } по умолчанию для текста, фона сайтов и ссылок.
 preferences-colors-manage-button =
     .label = Управление цветами…
     .accesskey = м
@@ -239,7 +239,7 @@ preferences-zoom-text-only =
     .label = Только текст
     .accesskey = о
 language-header = Язык
-choose-language-description = Выберите язык, предпочитаемый вами для отображения веб-страниц
+choose-language-description = Выберите язык, предпочитаемый вами для отображения страниц
 choose-button =
     .label = Выбрать…
     .accesskey = ы
@@ -250,7 +250,7 @@ manage-browser-languages-button =
 confirm-browser-language-change-description = Перезапустите { -brand-short-name } для применения этих изменений
 confirm-browser-language-change-button = Применить и перезапустить
 translate-web-pages =
-    .label = Перевод веб-страниц
+    .label = Перевод страниц
     .accesskey = и
 fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
@@ -369,7 +369,7 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Спрашивать, открывать или сохранять файлы
     .accesskey = ш
-drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
+drm-content-header = Содержимое использующее средства защиты авторских прав (DRM)
 play-drm-content =
     .label = Воспроизводить защищённое DRM содержимое
     .accesskey = п
@@ -382,13 +382,13 @@ update-history =
     .accesskey = ж
 update-application-allow-description = Разрешить { -brand-short-name }
 update-application-auto =
-    .label = Автоматически устанавливать обновления (рекомендуется)
+    .label = Автоматически устанавливать обновления (желательно)
     .accesskey = ч
 update-application-check-choose =
     .label = Проверять наличие обновлений, но позволять вам решать, устанавливать ли их
     .accesskey = в
 update-application-manual =
-    .label = Никогда не проверять наличие обновлений (не рекомендуется)
+    .label = Никогда не проверять наличие обновлений (не желательно)
     .accesskey = и
 update-application-background-enabled =
     .label = Когда { -brand-short-name } не запущен
