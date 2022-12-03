@@ -927,6 +927,15 @@ unified-extensions-button =
     .label = Tiện ích mở rộng
     .tooltiptext = Tiện ích mở rộng
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Tiện ích mở rộng
+    .tooltiptext =
+        Tiện ích mở rộng
+        Quyền hạn cần yêu cầu
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } đã ngăn trang web này tự động tải lại.
