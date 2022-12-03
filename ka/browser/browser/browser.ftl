@@ -149,6 +149,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = აკრიფეთ ნაკლები, მონახეთ მეტი: გამოიყენეთ { $engineName } საძიებოდ პირდაპირ მისამართების ველიდან.
 urlbar-search-tips-redirect-2 = დაიწყეთ ძიება და შემოთავაზებებს მოგაწვდით { $engineName } ან იხილავთ დათვალიერების ისტორიიდან.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = ძიება მეტად გაადვილებულია. მეტი სიზუსტით მოიძიეთ მისამართების ველიდანვე. თუ გსურთ სანაცვლოდ URL გამოჩნდეს, პარამეტრებში მონახეთ „ძიება“.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = აირჩიეთ ეს მალსახმობი, რომ უფრო სწრაფად იპოვოთ ის, რაც გჭირდებათ.
@@ -925,6 +927,10 @@ private-browsing-indicator-label = პირადი ფანჯარა
 unified-extensions-button =
     .label = გაფართოებები
     .tooltiptext = გაფართოებები
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Autorefresh blocker
 
