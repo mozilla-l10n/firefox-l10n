@@ -25,6 +25,11 @@ return-to-amo-addon-title = Orain eskura dezagun zuretzat <img data-l10n-name="i
 return-to-amo-add-extension-label = Gehitu hedapena
 return-to-amo-add-theme-label = Gehitu itxura
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Esan kaixo { -brand-short-name }(r)i
+mr1-return-to-amo-add-extension-label = Gehitu { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -326,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = Ahots independenteek kultura alda dezakete
 mr2022-onboarding-colorway-primary-button-label-continue = Ezarri eta jarraitu
 mr2022-onboarding-existing-colorway-checkbox-label = Egizu { -firefox-home-brand-name } zure hasiera-orri koloretsua
 mr2022-onboarding-colorway-label-default = Lehenetsia
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Lehenetsia
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Uneko { -brand-short-name } koloreak
 mr2022-onboarding-colorway-description-default = <b>Erabili uneko nire { -brand-short-name } koloreak.</b>
 mr2022-onboarding-colorway-label-playmaker = Sortzailea
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Sortzailea
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Sortzailea (gorria)
 mr2022-onboarding-colorway-description-playmaker = <b>Sortzailea zara.</b> Aukerak sortzen dituzu zure ingurukoei beraien maila igotzen laguntzeko.
 mr2022-onboarding-colorway-label-expressionist = Espresionista
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Espresionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Espresionista (horia)
 mr2022-onboarding-colorway-description-expressionist = <b>Espresionista zara.</b> Mundua beste era batera ikusten duzu eta zure sormenek emozioak eragiten dituzte besteengan.
 mr2022-onboarding-colorway-label-visionary = Etorkizun senekoa
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Etorkizun senekoa
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Etorkizun senekoa (berdea)
 mr2022-onboarding-colorway-description-visionary = <b>Etorkizun senekoa zara.</b> Zalantzan jartzen duzu gauzak dauden moduan egotea eta etorkizun hobeagoa imajinatzera bultzatzen dituzu besteak.
 mr2022-onboarding-colorway-label-activist = Aktibista
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktibista
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktibista (urdina)
 mr2022-onboarding-colorway-description-activist = <b>Aktibista zara.</b> Aurkitutakoa baino toki hobe gisa uzten duzu mundua eta besteak sinistera bultzatzen dituzu.
 mr2022-onboarding-colorway-label-dreamer = Ameslaria
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Ameslaria
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Ameslaria (morea)
 mr2022-onboarding-colorway-description-dreamer = <b>Ameslaria zara.</b> Sinisten duzu aberastasunak ausarten alde egiten duela eta besteei adoretsu izatera bultzatzen diela.
 mr2022-onboarding-colorway-label-innovator = Berritzailea
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Berritzailea
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Berritzailea (laranja)
 mr2022-onboarding-colorway-description-innovator = <b>Berritzailea zara.</b> Aukerak ikusten dituzu edonon eta zure ingurukoen bizitzengan eragiten duzu.
