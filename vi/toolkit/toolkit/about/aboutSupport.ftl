@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Nhật ký quyết định
 graphics-crash-guards-title = Vô hiệu hóa tính năng bảo vệ sự cố
 graphics-workarounds-title = Cách giải quyết
+graphics-device-pixel-ratios = Tỉ lệ Pixel của cửa sổ thiết bị
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Giao thức cửa sổ
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).

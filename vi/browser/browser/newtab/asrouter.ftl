@@ -205,6 +205,8 @@ firefoxview-cfr-secondarybutton = Để sau
     .accesskey = N
 firefoxview-cfr-header = Lấy lại các thẻ đã đóng gần đây bằng { -firefoxview-brand-name }
 firefoxview-cfr-body = Thêm vào đó, chuyển đổi liền mạch giữa các thiết bị và thêm một chút màu sắc vào trình duyệt của bạn.
+firefoxview-cfr-header-v2 = Nhanh chóng bắt đầu từ nơi bạn đã dừng lại
+firefoxview-cfr-body-v2 = Lấy lại các thẻ đã đóng gần đây, cộng với chuyển đổi liền mạch giữa các thiết bị với { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 

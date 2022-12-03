@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Cần quyền để đọc và thay đổi 
 origin-controls-state-hover-run-visit-only = Chỉ chạy cho lần truy cập này
 origin-controls-state-runnable-hover-open = Mở tiện ích
 origin-controls-state-runnable-hover-run = Chạy tiện ích
+origin-controls-state-temporary-access = Có thể đọc và thay đổi dữ liệu trên trang này
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Quyền hạn cần yêu cầu
