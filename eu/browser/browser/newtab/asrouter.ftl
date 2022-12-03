@@ -207,6 +207,7 @@ firefoxview-cfr-secondarybutton = Une honetan ez
     .accesskey = z
 firefoxview-cfr-header = Berreskuratu itxitako azken fitxak { -firefoxview-brand-name } erabiliz
 firefoxview-cfr-body = Gainera egin salto gailuen artean eta gehitu kolore ukitu bat zure nabigatzaileari.
+firefoxview-cfr-header-v2 = Jarraitu utzi zenuen tokitik
 
 ## Firefox View Spotlight
 
@@ -215,3 +216,8 @@ firefoxview-spotlight-promo-title = Esan kaixo { -firefoxview-brand-name }ri.
 firefoxview-spotlight-promo-subtitle = Telefonoan irekita daukazun fitxa hori nahi duzu? Har ezazu. Oraintxe bisitatu duzun gune hori behar duzu? Lasai, bueltan da { -firefoxview-brand-name }rekin.
 firefoxview-spotlight-promo-primarybutton = Ikusi nola dabilen
 firefoxview-spotlight-promo-secondarybutton = Saltatu
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Aukeratu kolore-konbinazioa
+    .accesskey = k
