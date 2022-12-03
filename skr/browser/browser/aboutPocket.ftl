@@ -33,6 +33,7 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } نال سائن ا�
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = میݙی تندیر
+pocket-panel-home-welcome-back = واپسی تے ست بسم اللہ
 pocket-panel-home-discover-more = ٻیاں لبھو
 pocket-panel-home-explore-more = پھلورو
 

@@ -23,6 +23,8 @@ appmenuitem-find-in-page =
     .label = ورقے وچ لبھو۔۔۔
 appmenuitem-zoom =
     .value = زوم
+appmenuitem-more-tools =
+    .label = ٻئے ٹولز
 appmenuitem-help =
     .label = مدد
 # Settings is now used to access the browser settings across all platforms,
@@ -132,3 +134,4 @@ appmenu-get-help =
 
 ## More Tools
 
+appmenu-developer-tools-subheader = ٹولز براؤز کرو

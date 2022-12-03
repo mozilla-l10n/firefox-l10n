@@ -34,6 +34,7 @@ login-list-name-option = ناں(A-Z)
 login-list-name-reverse-option = ناں (Z-A)
 login-list-username-option = ورتݨ ناں (A-Z)
 login-list-username-reverse-option = ورتݨ ناں (Z-A)
+login-list-last-used-option = چھیکڑی ورتاوا
 login-list-intro-title = کوئی لاگ ان کائنی لبھے
 about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
 login-list-item-title-new-login = نواں لاگ ان
@@ -82,6 +83,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ تھئے پاس ورڈ نقل کرو
 
 ## Primary Password notification
 
@@ -163,6 +167,10 @@ about-logins-import-dialog-done = تھی ڳیا
 about-logins-import-dialog-error-file-permission-title = فائل پڑھݨ کنوں قاصر
 about-logins-import-dialog-error-learn-more = ٻیا سِکھو
 about-logins-import-dialog-error-cancel = منسوخ
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = قطار{ $number }
 about-logins-import-report-row-description-added = نواں لاگ ان شامل تھیا
 
 ##
