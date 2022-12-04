@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Mae angen caniatâd i ddarllen a newid data
 origin-controls-state-hover-run-visit-only = Rhedeg ar gyfer yr ymweliad hwn yn unig
 origin-controls-state-runnable-hover-open = Agor estyniad
 origin-controls-state-runnable-hover-run = Rhedeg estyniad
+origin-controls-state-temporary-access = Yn gallu darllen a newid data ar gyfer yr ymweliad hwn
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Angen cainatâd

@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Cofnod Penderfynnu
 graphics-crash-guards-title = Nodweddion Crash Guard wedi ei Analluogi
 graphics-workarounds-title = Dulliau Datrys
+graphics-device-pixel-ratios = Cymarebau Picsel Dyfais Ffenestr
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocol Ffenestr
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
