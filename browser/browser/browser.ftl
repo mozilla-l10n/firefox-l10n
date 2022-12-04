@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Важи
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Савет:
+urlbar-result-menu-button =
+    .title = Отвори мени
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -290,6 +292,9 @@ quickactions-cmd-downloads = преузимања
 # Opens about:addons page in the extensions section
 quickactions-extensions = Управљај проширењима
 quickactions-cmd-extensions = проширења
+# Opens the devtools web inspector
+quickactions-inspector = Отвори инспектор
+quickactions-cmd-inspector = инспектор, алати за програмере
 # Opens about:logins
 quickactions-logins = Прикажи пријаве
 quickactions-cmd-logins = пријаве, лозинке
@@ -323,6 +328,9 @@ quickactions-cmd-update = ажурирај
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Прикажи изворни код
 quickactions-cmd-viewsource = изворни код
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Сазнајте више о брзим радњама
 
 ## Bookmark Panel
 
@@ -523,6 +531,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Да бисте користили пречицу F12, из менија „За веб-програмере” отворите алатке за програмере.
+enable-devtools-popup-description2 = Да бисте користили пречицу F12, из менија „За веб-програмере” отворите алатке за програмере.
 
 ## URL Bar
 
@@ -873,6 +882,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Помери „Слика у слици” прекидач удесно
+    .accesskey = д
+picture-in-picture-move-toggle-left =
+    .label = Помери „Слика у слици” прекидач улево
+    .accesskey = л
 
 ##
 
@@ -934,6 +949,15 @@ private-browsing-indicator-label = Приватно прегледање
 unified-extensions-button =
     .label = Проширења
     .tooltiptext = Проширења
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Додаци
+    .tooltiptext =
+        Додаци
+        Потребне су дозволе
 
 ## Autorefresh blocker
 
