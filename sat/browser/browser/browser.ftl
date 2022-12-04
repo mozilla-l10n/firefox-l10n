@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = ᱥᱚᱞᱦᱟ:
+urlbar-result-menu-button =
+    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -934,6 +936,10 @@ private-browsing-indicator-label = ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤ�
 unified-extensions-button =
     .label = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
     .tooltiptext = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Autorefresh blocker
 
