@@ -206,6 +206,7 @@ firefoxview-cfr-secondarybutton = Ne nun
 firefoxview-cfr-header = Rehavu ĵuse fermitajn langetojn per { -firefoxview-brand-name }
 firefoxview-cfr-body = Cetere, facile iru tien kaj reen inter aparatoj kaj aldoni koloran tuŝeton al via retumilo.
 firefoxview-cfr-header-v2 = Rapide rekomencu kie vi haltis
+firefoxview-cfr-body-v2 = Per { -firefoxview-brand-name } reprenu ĵuse fermitajn langetojn kaj senĝene iru tien kaj reen inter aparatoj.
 
 ## Firefox View Spotlight
 
