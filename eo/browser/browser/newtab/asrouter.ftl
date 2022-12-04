@@ -220,3 +220,9 @@ firefoxview-spotlight-promo-secondarybutton = Ignori
 
 colorways-cfr-primarybutton = Elekti koloraron
     .accesskey = E
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Kolorigu vian retumilon per ekskluzivaj tonoj de { -brand-short-name }, inspiritaj de voĉoj kiuj ŝanĝis kulturojn.
+colorways-cfr-header-28days = La koloraroj de sendependaj voĉoj senvalidiĝos la 16-an de januaro
+colorways-cfr-header-14days = La koloraroj de sendependaj voĉoj senvalidiĝos post du semajnoj
+colorways-cfr-header-7days = La koloraroj de sendependaj voĉoj senvalidiĝos ĉi semajne
+colorways-cfr-header-today = La koloraroj de sendependaj voĉoj senvalidiĝos hodiaŭ
