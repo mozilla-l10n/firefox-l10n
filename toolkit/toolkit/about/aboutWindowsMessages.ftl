@@ -11,3 +11,10 @@
 
 # Windows refers to the operating system
 windows-messages-page-title = Информације о Windows порукама
+windows-messages-intro =
+    Ова страница приказује најновије поруке које је Windows
+    послао прозорима { -brand-short-name } прегледача.
+    Истакнути унос представља овај прозор. Имајте на уму да ова страница
+    приказује најновије поруке у време учитавања странице;
+    да видите тренутне, мораћете да освежите страницу.
+windows-messages-copy-to-clipboard = Копирај у оставу
