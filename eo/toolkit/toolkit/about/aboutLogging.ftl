@@ -7,6 +7,8 @@ about-logging-title = Pri registrado
 about-logging-current-log-file = Nuna registra dosiero:
 about-logging-current-log-modules = Nunaj registraj moduloj:
 about-logging-log-tutorial = Instrukcioj pri la uzo de tiu ĉi ilo troveblas en <a data-l10n-name="logging">Registrado de HTTP</a>.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Malfermi dosierujon
 about-logging-set-log-file = Elekti registran dosieron
 about-logging-set-log-modules = Elekti registrajn modulojn
 about-logging-start-logging = Komenci registri
