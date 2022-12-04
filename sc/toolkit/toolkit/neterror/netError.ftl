@@ -65,10 +65,40 @@ neterror-content-encoding-error = Informa s'amministratzione de su situ web de c
 neterror-unsafe-content-type = Informa s'amministratzione de su situ web de custu problema.
 neterror-nss-failure-not-verified = Sa pàgina chi ses intentende de abèrrere non podet èssere ammustrada ca non podet èssere verificada s’autentitzidade de is datos retzidos.
 neterror-nss-failure-contact-website = Informa s'amministratzione de su situ web de custu problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } at rilevadu unu possìbile problema de seguresa e at firmadu sa connessione cun <b>{ $hostname }</b>. Si bìsitas custu situ, ti diant pòdere furare informatzione comente craes, indiritzos de posta eletrònica o informatzione de cartas de crèditu.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } at rilevadu unu possìbile problema de seguresa e at firmadu sa connessione cun <b>{ $hostname }</b> ca custu situ rechedet una connessione segura.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } at rilevadu unu possìbile problema de seguresa e at firmadu sa connessione cun <b>{ $hostname }</b>. Su situ podet èssere cunfiguradu male o su rellògiu de s’elaboradore tuo tenet s'oràriu isballiadu.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> est in manera probàbile unu situ seguru, però est istadu impossìbile a istabilire una connessione segura. Sa càusa de su problema est <b>{ $mitm }</b>, chi est unu programma de s’elaboradore tuo o de sa rete tua.
 neterror-corrupted-content-intro = Sa pàgina chi ses proende a abèrrere non podet èssere ammustrada, ca est istada agatada una faddina in sa trasmissione de is datos.
 neterror-corrupted-content-contact-website = Cuntata is meres de su situ pro informare de custu problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Informatzione avantzada: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> impreat tecnologia betza e vulneràbile a is atacos. Un’atacadore diat pòdere rilevare informatziones chi ti parent seguras. S’amministratzione de su situ depet acontzare su serbidore prima chi potzas bisitare su situ.
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = Còdighe de sa faddina: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = S’elaboradore tuo pensat chi siat { DATETIME($now, dateStyle: "medium") }, e custu impedit a { -brand-short-name } de si connètere cun seguresa. Pro bisitare <b>{ $hostname }</b>, atualiza su rellògiu in s’elaboradore tuo dae is cunfiguratziones de sistema, in manera chi ammustret sa data, s'oràriu e sa zona orària atuales. Pustis, atualiza <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Sa pàgina chi ses intentende de abèrrere non podet èssere ammustrada, ca est istada agatada una faddina in su protocollu de rete.
 neterror-network-protocol-error-contact-website = Pro praghere, cuntata is meres de su situ pro ddos informare de custu problema.
+certerror-expired-cert-second-para = Est probàbile chi su tzertificadu de su situ siat iscadidu, e custu impedit a { -brand-short-name } de si connètere cun seguresa. Si bìsitas su situ, is atacadores ti diant pòdere furare informatzione comente craes, messàgios de posta eletrònica o informatziones de cartas de crèditu.
+certerror-expired-cert-sts-second-para = Est probàbile chi su tzertificadu de su situ web siat iscadidu, e custu impedit a { -brand-short-name } de si connètere cun seguresa.
 certerror-what-can-you-do-about-it-title = Ite bi podes fàghere?
+certerror-unknown-issuer-what-can-you-do-about-it-website = Est probàbile meda chi sa faddina siat de su situ, e chi non potzas fàghere nudda pro dd'acontzare.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si ses in una rete corporativa o ses impreende programmas de antivirus, podes cuntatare is iscuadras de suportu pro chi t’agiudent. Podes fintzas notificare su problema a s’amministratzione de su situ.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = De acordu cun su rellògiu de s’elaboradore tuo, sa data e s'ora atuales sunt: { DATETIME($now, dateStyle: "medium") }. Assegura·ti chi s’elaboradore tuo tèngiat sa data, s’ora e sa zona orària curretas in is cunfiguratziones de su sistema. Pustis atualiza <b>{ $hostname }</b>.
