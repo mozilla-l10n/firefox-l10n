@@ -203,6 +203,8 @@ firefoxview-cfr-secondarybutton = 暂时不要
     .accesskey = N
 firefoxview-cfr-header = 通过 { -firefoxview-brand-name } 找回最近关闭的标签页
 firefoxview-cfr-body = 享受设备间无缝切换，还能为浏览器添一分色彩。
+firefoxview-cfr-header-v2 = 快速从上次看到的地方继续浏览
+firefoxview-cfr-body-v2 = 通过 { -firefoxview-brand-name } 重新打开最近关闭的标签页，还能在设备间无缝切换。
 
 ## Firefox View Spotlight
 
