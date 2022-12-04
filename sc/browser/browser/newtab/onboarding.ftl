@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Agiunghe su tema
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Dona su benebènnidu a { -brand-short-name }
+mr1-return-to-amo-addon-title = Immoe tenes unu navigadore lestru e rispetosu de sa riservadesa. Agiunghe <b>{ $addon-name }</b> e faghe ancora de prus cun { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Agiunghe { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -402,3 +403,9 @@ onboarding-infrequent-import-primary-button = Importa dae { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persone chi traballat cun unu elaboradore portàtile, inghiriada dae isteddos e frores
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persone imprassende su logo de { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persone a pitzu de unu skateboard cun unu pachete de iconas de programmas
