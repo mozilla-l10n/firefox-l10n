@@ -176,6 +176,12 @@ spotlight-better-internet-header = Бољи интернет почиње са �
 spotlight-better-internet-body = Када користите { -brand-short-name }, подржавате отворен, приступачан и бољи интернет за све.
 spotlight-peace-mind-header = Ту смо за вас
 spotlight-peace-mind-body = Сваког месеца, { -brand-short-name } блокира у просеку 3,000 елемената за праћење по кориснику. Јер ништа, а поготово не овакви уништавачи приватности, не треба да стоји између вас и доброг интернета.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Остави у доку
+       *[other] Закачи на траку
+    }
+spotlight-pin-secondary-button = Не сада
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -190,12 +196,39 @@ spotlight-peace-mind-body = Сваког месеца, { -brand-short-name } б�
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Нови { -brand-short-name }. Приватнији. Са мање праћења. Без компромиса.
+mr2022-background-update-toast-text = Испробајте нови { -brand-short-name }, надограђен нашом најјачом заштитом од праћења до сада.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Отвори { -brand-shorter-name }
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Подсети ме касније
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Испробај
+    .accesskey = И
+firefoxview-cfr-secondarybutton = Не сада
+    .accesskey = Н
+firefoxview-cfr-header = Вратите недавно затворене картице уз { -firefoxview-brand-name }
+firefoxview-cfr-body = Такође, лако прелазите са једног уређаја на други и додајте мало боје свом прегледачу.
+firefoxview-cfr-header-v2 = Брзо наставите тамо где сте стали
+firefoxview-cfr-body-v2 = Вратите недавно затворене картице и лако прелазите између уређаја уз { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Упознајте { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Желите ту отворену картицу на свом телефону? Треба вам сајт који сте управо посетили? Уз { -firefoxview-brand-name } све може!
+firefoxview-spotlight-promo-primarybutton = Сазнајте како ради
+firefoxview-spotlight-promo-secondarybutton = Прескочи
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Одаберите комбинацију боја
+    .accesskey = О
