@@ -63,7 +63,7 @@ rights-webservices-term-1 =
 rights-webservices-term-2 = { -vendor-short-name } podet modificare o firmare is servìtzios a sa discretzione sua.
 rights-webservices-term-3 =
     Podes impreare chena problema custos servìtzios cun sa versione de
-    { -brand-short-name }, e cun su permissu de { -vendor-short-name } tenes totu
+    { -brand-short-name }, e cun su permissu de { -vendor-short-name } tenes totu is deretos de ddu fàghere. { -vendor-short-name } e is lissentziadores suos si riservant totu is àteros deretos acapiados a su servìtziu. Custas cunditziones de impreu non bolent in nissuna manera limitare is deretos chi derivant de is lissèntzias de còdighe abertu aplicàbiles { -brand-short-name } e a is versiones currispondentes de su còdighe de orìgine de { -brand-short-name }.
 rights-webservices-term-6 =
     { -vendor-short-name } podet atualizare custas cunditziones cando siat pretzisu.
     Custas cunditziones non podent èssere modificadas nen annulladas chena s'acordu iscritu de { -vendor-short-name }.
