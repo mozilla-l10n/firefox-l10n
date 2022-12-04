@@ -6,9 +6,9 @@ refresh-profile-dialog-title = Boles torrare { -brand-short-name } a sa cunfigur
 refresh-profile-dialog-button =
     .label = Torra { -brand-short-name } a sa cunfiguratzione predefinida
 refresh-profile-dialog-description = Torra a cumintzare dae zero pro acontzare problemas de rendimentu. Custu at a bogare is estensiones e is personalizatziones tuas. No as a pèrdere informatziones essentziales comente sinnalibros e craes.
+refresh-profile = Otimiza { -brand-short-name }
 refresh-profile-button = Torra { -brand-short-name } a sa cunfiguratzione predefinida…
 refresh-profile-learn-more = Àteras informatziones
-
 refresh-profile-progress =
     .title = Riprìstina { -brand-short-name }
 refresh-profile-progress-description = Casi acabbadu…
