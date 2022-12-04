@@ -27,6 +27,8 @@ return-to-amo-add-theme-label = Aldoni la etoson
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Bonvenon al { -brand-short-name }
+mr1-return-to-amo-addon-title = Vi havas ĉemane rapidan, privatan retumilon. Vi nun povas aldoni <b>{ $addon-name }</b> kaj plenumi pli da aferoj per { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Aldoni { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
