@@ -37,6 +37,7 @@ detail-last-updated =
     .label = Ùrtima atualizatzione
 addon-detail-description-expand = Ammustra·nde de prus
 addon-detail-description-collapse = Ammustra·nde prus pagu
+detail-contributions-description = S’iscuadra de isvilupu de custu cumplementu ti preguntat de dd’agiudare a mantènnere s’isvilupu cun unu cuntributu piticu.
 detail-contributions-button = Contribui
     .title = Contribui a s'isvilupu de custu cumplementu
     .accesskey = C
@@ -56,8 +57,10 @@ detail-private-browsing-label = Imprea in is ventanas privadas
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Disativada in is ventanas privadas
+detail-private-disallowed-description2 = Custa estensione non funtzionat in sa navigatzione privada. <a data-l10n-name="learn-more">Leghe àteru</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Rechedet atzessu a is ventanas privadas
+detail-private-required-description2 = Custa estensione tenet atzessu a is atividades tuas in lìnia comente nàvigas in privadu. <a data-l10n-name="learn-more">Leghe àteru</a>
 detail-private-browsing-on =
     .label = Permite
     .tooltiptext = Ativa in sa navigatzione privada
@@ -99,6 +102,10 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Unos cantos cumplementos sunt istados disativados
 disabled-unsigned-learn-more = Àteras informatziones subra de s'impìnniu nostru pro amparare sa seguresa tua in lìnia.
+legacy-warning-show-legacy = Ammustra estensiones betzas
+legacy-extensions =
+    .value = Estensiones betzas
+legacy-extensions-description = Custas estensiones non respondent a is istandards atuales de { -brand-short-name }, e sunt istadas disativadas. <label data-l10n-name="legacy-learn-more">Leghe àteru in pitzus de is modìficas a is cumplementos</label>
 addon-category-discover = Cussìgios
 addon-category-discover-title =
     .title = Cussìgios
@@ -126,6 +133,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Permissos de is sitos
 addon-category-sitepermission-title =
     .title = Permissos de is sitos
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Permissos de situ pro { $host }
 
 ## These are global warnings
 
@@ -156,6 +167,10 @@ addon-updates-update-addons-automatically = Agiorna is cumplementos in automàti
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+addon-updates-reset-updates-to-automatic = Riprìstina totu is cumplementos pro chi s'atualizent in automàticu
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Riprìstina totu is cumplementos pro chi s'atualizent in manera manuale
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -170,6 +185,8 @@ addon-install-from-file = Installa unu cumplementu dae un'archìviu…
     .accesskey = I
 addon-install-from-file-dialog-title = Seletziona unu cumplementu de installare
 addon-install-from-file-filter-name = Cumplementos
+addon-open-about-debugging = Curretzione de faddinas de cumplementos
+    .accesskey = C
 
 ## Extension shortcut management
 
@@ -185,6 +202,7 @@ shortcuts-pageAction = Ativa s'atzione de sa pàgina
 shortcuts-sidebarAction = Ammustra/cua sa barra laterale
 shortcuts-modifier-mac = Include Ctrl, Alt o ⌘
 shortcuts-modifier-other = Include Ctrl o Alt
+shortcuts-invalid = Sa cumbinatzione no est vàlida
 shortcuts-letter = Iscrie una lìtera
 shortcuts-system = Is curtzadòrgios de { -brand-short-name } non podent èssere sostituidos
 # String displayed in warning label when there is a duplicate shortcut
@@ -255,12 +273,22 @@ extension-disabled-heading = Disativadas
 theme-enabled-heading = Ativadu
 theme-disabled-heading = Disativados
 theme-disabled-heading2 = Temas sarvados
+theme-monochromatic-heading = Cumbinatzione de colores
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
+theme-colorways-button = Proa is cumbinatziones de colores
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Modìfica is cumbinatziones de colores
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Iscadit su { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Ativados
 plugin-disabled-heading = Disativados
 dictionary-enabled-heading = Ativados
 dictionary-disabled-heading = Disativados
 locale-enabled-heading = Ativadu
 locale-disabled-heading = Disativados
+sitepermission-enabled-heading = Ativados
+sitepermission-disabled-heading = Disativados
 always-activate-button = Ativa semper
 never-activate-button = No atives mai
 addon-detail-author-label = Autoria
@@ -280,9 +308,20 @@ five-star-rating =
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (disativadu)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } rassigna
+       *[other] { $numberOfReviews } rassignas
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> est istadu cantzelladu.
 pending-uninstall-undo-button = Iscontza
 addon-detail-updates-label = Permite is atualizatziones in automàticu
 addon-detail-updates-radio-default = Predefinidu
@@ -307,15 +346,28 @@ addon-detail-private-browsing-disallow = Non permitas
 available-updates-heading = Atualizatziones a disponimentu
 recent-updates-heading = Atualizatziones reghentes
 release-notes-loading = Carrighende…
+release-notes-error = Faddina in sa càrriga de is notas de sa versione.
+addon-permissions-empty = Custa estensione non rechedet permissos
 addon-permissions-learnmore = Àteras informatziones subra de is permissos
+recommended-extensions-heading = Estensiones cussigiadas
+recommended-themes-heading = Temas cussigiados
 
 ## Page headings
 
+extension-heading = Gesti is estensiones tuas
 theme-heading = Gesti is temas tuos
 plugin-heading = Gesti is plugins tuos
 dictionary-heading = Gesti is ditzionàrios tuos
 locale-heading = Gesti is lìnguas
 updates-heading = Gesti is atualizatziones tuas
+sitepermission-heading = Gesti is permissos de is sitos tuos
+discover-heading = Personaliza su { -brand-short-name } tuo
+shortcuts-heading = Gesti is curtzadòrgios de is estensiones
+default-heading-search-label = Agata àteros cumplementos
+addons-heading-search-input =
+    .placeholder = Chirca in addons.mozilla.org
+addon-page-options-button =
+    .title = Ainas pro totu is cumplementos
 
 ## Detail notifications
 ## Variables:
@@ -324,6 +376,7 @@ updates-heading = Gesti is atualizatziones tuas
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } no est cumpatìbile cun { -brand-short-name } { $version }.
+details-notification-incompatible-link = Àteras informatziones
 details-notification-unsigned-and-disabled-link = Àteras informatziones
 details-notification-unsigned = { $name } no est averiguadu pro s'impreu in { -brand-short-name }. Sighi cun atentzione.
 details-notification-unsigned-link = Àteras informatziones
