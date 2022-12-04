@@ -213,6 +213,8 @@ firefoxview-cfr-secondarybutton = Nie teraz
     .accesskey = N
 firefoxview-cfr-header = Odzyskaj ostatnio zamknięte karty za pomocą { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
 firefoxview-cfr-body = Płynnie przechodź z urządzenia na urządzenie i dodaj odrobinę koloru do swojej przeglądarki.
+firefoxview-cfr-header-v2 = Szybko kontynuuj od tego samego miejsca
+firefoxview-cfr-body-v2 = Odzyskaj ostatnio zamknięte karty i płynnie przechodź z urządzenia na urządzenie za pomocą { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
 
 ## Firefox View Spotlight
 
@@ -221,3 +223,10 @@ firefoxview-spotlight-promo-title = Poznaj { -firefoxview-brand-name(case: "acc"
 firefoxview-spotlight-promo-subtitle = Potrzebujesz karty otwartej na telefonie? Otwórz ją tutaj. Chcesz wrócić do zamkniętej przed chwilą strony? { -firefoxview-brand-name } już ją ma.
 firefoxview-spotlight-promo-primarybutton = Zobacz, jak to działa
 firefoxview-spotlight-promo-secondarybutton = Pomiń
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Wybierz kolorystykę
+    .accesskey = W
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Pokoloruj swoją przeglądarkę odcieniami zainspirowanymi głosami, które zmieniły kulturę. Wyłącznie w { -brand-short-name(case: "loc") }.
