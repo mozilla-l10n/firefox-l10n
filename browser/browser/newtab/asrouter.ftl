@@ -220,6 +220,8 @@ firefoxview-cfr-secondarybutton = Nid nawr
     .accesskey = N
 firefoxview-cfr-header = Cael tabiau a gaewyd yn ddiweddar nôl gyda { -firefoxview-brand-name }
 firefoxview-cfr-body = Hefyd symud yn ddi-dor rhwng dyfeisiau ac ychwanegu bach o liw i'ch porwr.
+firefoxview-cfr-header-v2 = Ail gychwyn yn syth o'r lle roeddech chi
+firefoxview-cfr-body-v2 = Cael tabiau sydd wedi'u cau'n ddiweddar nôl, a symud yn rhwydd rhwng dyfeisiau gyda { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
