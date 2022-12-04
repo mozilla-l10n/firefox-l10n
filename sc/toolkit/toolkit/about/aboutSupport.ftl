@@ -342,6 +342,7 @@ policies-error = Faddina
 
 support-printing-title = Imprentende
 support-printing-troubleshoot = Curretzione de faddinas
+support-printing-clear-settings-button = Boga is cunfiguratziones de imprenta sarvadas
 support-printing-modified-settings = Cunfiguratzione de imprenta modificada
 support-printing-prefs-name = Nòmine
 support-printing-prefs-value = Valore
