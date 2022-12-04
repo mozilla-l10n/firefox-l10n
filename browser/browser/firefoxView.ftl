@@ -55,6 +55,7 @@ firefoxview-mobile-confirmation-description = Vi nun povas malfermi viajn langet
 firefoxview-closed-tabs-title = Ĵuse fermitaj
 firefoxview-closed-tabs-description2 = Malfermi paĝojn, kiujn vi estis ferminta en tiu ĉi fenestro.
 firefoxview-closed-tabs-placeholder = <strong>Neniu ĵusa fermita paĝo</strong><br/>Neniam timu denove perdi fermitan langeton, vi povos ĝin ĉiam rehavi ĉi tie.
+firefoxview-closed-tabs-placeholder-header = Neniu antaŭ nelonge fermita langeto
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Laste aktiva
 # Variables:

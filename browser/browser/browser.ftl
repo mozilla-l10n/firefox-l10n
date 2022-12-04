@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Privata retumo de { -brand-shortcut-name }
 
 ##
@@ -134,11 +136,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Helpo
 urlbar-search-tips-confirm = En ordo, mi komprenis
+urlbar-search-tips-confirm-short = Mi komprenis
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Konsileto:
+urlbar-result-menu-button =
+    .title = Malfermi menuon
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -923,6 +928,15 @@ private-browsing-indicator-label = Privata retumo
 unified-extensions-button =
     .label = Etendaĵoj
     .tooltiptext = Etendaĵoj
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Etendaĵoj
+    .tooltiptext =
+        Etendaĵoj
+        Bezonataj permesoj
 
 ## Autorefresh blocker
 
