@@ -193,6 +193,12 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Датотека није преузета.
+        [few] { $num } датотеке нису преузете.
+       *[other] { $num } датотека није преузето.
+    }
 downloads-blocked-from-url = Преузимања са { $url } су блокирана.
 downloads-blocked-download-detailed-info = Страница { $url } покушала је да аутоматски преузме неколико датотека. Ово може бити грешка на страници, а можда жели да складишти нежељене датотеке на вашем уређају.
 
@@ -208,6 +214,16 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Нема преузимања у овој сесији.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Још { $count } датотека се преузима
+        [few] Још { $count } датотеке се преузимају
+       *[other] Још { $count } датотека се преузима
+    }
 
 ## Download errors
 

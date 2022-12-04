@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Препоручена функција
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово?
-
 cfr-doorhanger-extension-cancel-button = Не сада
     .accesskey = Н
-
 cfr-doorhanger-extension-ok-button = Додај
     .accesskey = Д
-
 cfr-doorhanger-extension-manage-settings-button = Управљај препорукама
     .accesskey = У
-
 cfr-doorhanger-extension-never-show-recommendation = Не приказуј ми ову препоруку
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Сазнајте више
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Аутор: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препорука
 cfr-doorhanger-extension-notification2 = Препорука
     .tooltiptext = Препорука додатка
     .a11y-announcement = Доступна је препорука додатка
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препорука
@@ -87,11 +79,9 @@ cfr-protections-panel-link-text = Сазнајте више
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова функција:
-
 cfr-whatsnew-button =
     .label = Шта је ново
     .tooltiptext = Шта је ново
-
 cfr-whatsnew-release-notes-link-text = Прочитајте напомене о верзији
 
 ## Enhanced Tracking Protection Milestones
@@ -169,9 +159,16 @@ spotlight-public-wifi-vpn-link = Не сада
 spotlight-total-cookie-protection-header =
     Први испробајте наше најмоћније
     искуство приватности до сада
-spotlight-total-cookie-protection-body = Свеобухватна заштита од колачића спречава механизме за праћење да вас прате широм мреже.
+spotlight-total-cookie-protection-body = Свеобухватна заштита од колачића спречава елементе за праћење да вас прате широм мреже.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ограђује колачиће, ограничавајући их тако да елементи за праћење не могу да их користе како би вас пратили. Рани приступ нам помаже да оптимизујемо ову функцију како би наставили да правимо бољи веб за све.
+spotlight-total-cookie-protection-primary-button = Укључите свеобухватну заштиту од колачића
+spotlight-total-cookie-protection-secondary-button = Не сада
+cfr-total-cookie-protection-header = Захваљујући вама, { -brand-short-name } је приватнији и безбеднији него икад
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -186,7 +183,12 @@ spotlight-total-cookie-protection-body = Свеобухватна заштита
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
 
+
 ## Firefox View Spotlight
+
+
+## Colorways expiry reminder CFR
 
