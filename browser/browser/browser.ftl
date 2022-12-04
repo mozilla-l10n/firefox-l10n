@@ -950,6 +950,15 @@ unified-extensions-button =
     .label = Estyniadau
     .tooltiptext = Estyniadau
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Estyniadau
+    .tooltiptext =
+        Estyniadau
+        Angen caniatâd
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Rhwystrodd { -brand-short-name } y dudalen hon rhag ailagor yn awtomatig.
