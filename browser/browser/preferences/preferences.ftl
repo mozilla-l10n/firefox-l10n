@@ -592,6 +592,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Montri sugestojn de serĉiloj en la rezultoj de la adresa strio
     .accesskey = M
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Dum serĉo per la norma serĉilo, montri serĉan tekston anstataŭ retadreson en la paĝo de resultoj
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
