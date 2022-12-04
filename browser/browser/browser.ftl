@@ -152,6 +152,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = Rašykite mažiau, raskite daugiau: ieškokite per „{ $engineName }“ tiesiai iš savo adreso lauko.
 urlbar-search-tips-redirect-2 = Pradėkite savo paiešką adreso lauke, norėdami matyti žodžių siūlymus iš „{ $engineName }“ bei jūsų naršymo istorijos.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Paieška dabar paprastesnė. Pabandykite konkretizuoti paiešką čia, adreso juostoje. Norėdami vietoj to matyti URL, eikite į paieškos nuostatas.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Pasirinkite šį leistuką, norėdami greičiau rasti tai, ko ieškote.
@@ -161,6 +163,7 @@ urlbar-tabtosearch-onboard = Pasirinkite šį leistuką, norėdami greičiau ras
 urlbar-search-mode-bookmarks = Adresynas
 urlbar-search-mode-tabs = Kortelės
 urlbar-search-mode-history = Žurnalas
+urlbar-search-mode-actions = Veiksmai
 
 ##
 
@@ -203,6 +206,12 @@ page-action-manage-extension =
     .label = Tvarkyti priedą…
 page-action-remove-extension =
     .label = Pašalinti priedą
+page-action-manage-extension2 =
+    .label = Tvarkyti priedą…
+    .accesskey = e
+page-action-remove-extension2 =
+    .label = Pašalinti priedą
+    .accesskey = n
 
 ## Auto-hide Context Menu
 
@@ -261,11 +270,64 @@ search-one-offs-tabs =
     .tooltiptext = Kortelės ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Žurnalas ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Veiksmai ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Peržiūrėti priedus
+quickactions-cmd-addons2 = priedai
+# Opens the bookmarks library window
+quickactions-bookmarks = Peržiūrėti adresyną
+quickactions-cmd-bookmarks = adresynas
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Išvalyti žurnalą
+quickactions-cmd-clearhistory = išvalyti žurnalą
+# Opens about:downloads page
+quickactions-downloads = Atverti atsiuntimus
+quickactions-cmd-downloads = atsiuntimai
+# Opens about:addons page in the extensions section
+quickactions-extensions = Tvarkyti priedus
+quickactions-cmd-extensions = priedai
+# Opens the devtools web inspector
+quickactions-inspector = Atverti tyriklį
+quickactions-cmd-inspector = tyriklis, devtools
+# Opens about:logins
+quickactions-logins = Peržiūrėti prisijungimus
+quickactions-cmd-logins = prisijungimai, slaptažodžiai
+# Opens about:addons page in the plugins section
+quickactions-plugins = Tvarkyti papildinius
+quickactions-cmd-plugins = papildiniai
+# Opens the print dialog
+quickactions-print = Spausdinti
+quickactions-cmd-print = spausdinti
+# Opens a new private browsing window
+quickactions-private = Atverti privataus naršymo langą
+quickactions-cmd-private = privatusis naršymas
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Atšviežinti „{ -brand-short-name }“
+quickactions-cmd-refresh = atšviežinti
+# Restarts the browser
+quickactions-restart = Paleisti „{ -brand-short-name }“ iš naujo
+quickactions-cmd-restart = paleisti iš naujo
+# Opens the screenshot tool
+quickactions-screenshot2 = Padaryti ekrano nuotrauką
+quickactions-cmd-screenshot = ekrano nuotrauka
+# Opens about:preferences
+quickactions-settings = Atverti nuostatas
+quickactions-cmd-settings = nustatymai, nuostatos, parinktys
+# Opens about:addons page in the themes section
+quickactions-themes = Tvarkyti apvalkalus
+quickactions-cmd-themes = grafiniai apvalkalai
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Atnaujinti „{ -brand-short-name }“
+quickactions-cmd-update = naujinti
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Pirminis tekstas
+quickactions-cmd-viewsource = pirminis tekstas
 
 ## Bookmark Panel
 
