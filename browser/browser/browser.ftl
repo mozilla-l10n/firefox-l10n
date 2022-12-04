@@ -328,6 +328,9 @@ quickactions-cmd-update = naujinti
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Pirminis tekstas
 quickactions-cmd-viewsource = pirminis tekstas
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Sužinokite apie sparčiuosius veiksmus daugiau
 
 ## Bookmark Panel
 
@@ -516,6 +519,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Norėdami naudoti spartųjį klavišą „F12“, pirma atverkite saityno kūrėjų priemones iš meniu „Saityno kūrėjams“.
+enable-devtools-popup-description2 = Norėdami naudoti spartųjį klavišą „F12“, pirma atverkite saityno kūrėjų priemones iš meniu „Saityno kūrėjams“.
 
 ## URL Bar
 
@@ -551,6 +555,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškote kortelėse
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Įveskite ieškomą tekstą
+    .aria-label = Paieškos veiksmai
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -626,6 +634,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Ieškoti adresyne
 urlbar-result-action-search-history = Ieškoti žurnale
 urlbar-result-action-search-tabs = Ieškoti kortelėse
+urlbar-result-action-search-actions = Paieškos veiksmai
 
 ## Labels shown above groups of urlbar results
 
@@ -639,6 +648,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = „{ $engine }“ siūlymai
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Spartieji veiksmai
 
 ## Reader View toolbar buttons
 
@@ -723,6 +735,8 @@ bookmarks-tools =
     .label = Adresyno priemonės
 bookmarks-bookmark-edit-panel =
     .label = Taisyti adresyno įrašą
+bookmarks-subview-edit-bookmark =
+    .label = Redaguoti šį adresyno įrašą…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -739,6 +753,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Įrašyti šią kortelę į adresyną
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Įtraukti kortelę į adresyną…
 
 ## Library Panel items
 
@@ -912,13 +929,23 @@ data-reporting-notification-message = „{ -brand-short-name }“ automatiškai 
 data-reporting-notification-button =
     .label = Pasirinkti, kas bus siunčiama
     .accesskey = s
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privatusis naršymas
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Priedai
+    .tooltiptext = Priedai
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Priedai
+    .tooltiptext =
+        Priedai
+        Reikia leidimų
 
 ## Autorefresh blocker
 
