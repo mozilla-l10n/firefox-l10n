@@ -8,10 +8,26 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = La etendaĵo povas nek legi nek ŝanĝi datumojn
+origin-controls-options =
+    .label = La etendaĵo povas kaj legi kaj ŝanĝi datumojn:
+origin-controls-option-all-domains =
+    .label = En ĉiuj retejoj
+origin-controls-option-when-clicked =
+    .label = Nur post alklako
+# This string denotes an option that grants the extension access to
+# the current site whenever they visit it.
+# Variables:
+#   $domain (String) - The domain for which the access is granted.
+origin-controls-option-always-on =
+    .label = Ĉiam permesi por { $domain }
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = Ĝi povas nek legi nek ŝanĝi datumojn en tiu ĉi retejo
+origin-controls-state-always-on = Ĝi ĉiam povas kaj legi kaj ŝanĝi datumojn en tiuj ĉi retejo
 
 ## Extension's toolbar button.
 ## Variables:
