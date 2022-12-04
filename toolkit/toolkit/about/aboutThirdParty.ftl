@@ -4,15 +4,12 @@
 
 third-party-page-title = Informacje o modułach zewnętrznych
 third-party-section-title = Lista modułów zewnętrznych w programie { -brand-short-name }
-
 third-party-intro =
-    Ta strona wyświetla moduły zewnętrzne, które zostały umieszczone w tej kopii
+    Na tej stronie wyświetlane są moduły zewnętrzne, które zostały umieszczone w tej kopii
     programu { -brand-short-name }. Każdy moduł niepodpisany przez firmę Microsoft lub
     organizację { -vendor-short-name } jest uważany za moduł zewnętrzny.
-
 third-party-message-empty = Nie wykryto żadnych modułów zewnętrznych.
 third-party-message-no-duration = Nie nagrano
-
 third-party-detail-version = Wersja pliku
 third-party-detail-vendor = Informacje o dostawcy
 third-party-detail-occurrences = Wystąpienia
@@ -21,11 +18,9 @@ third-party-detail-duration = Średni czas blokowania (ms)
     .title = Jak długo ten moduł blokował aplikację.
 third-party-detail-app = Aplikacja
 third-party-detail-publisher = Wydawca
-
 third-party-th-process = Proces
 third-party-th-duration = Czas wczytywania (ms)
 third-party-th-status = Stan
-
 third-party-tag-ime = IME
     .title = Ten typ modułu jest wczytywany podczas korzystania z zewnętrznego edytora metody wprowadzania (IME).
 third-party-tag-shellex = Rozszerzenie powłoki
@@ -36,11 +31,9 @@ third-party-unsigned-icon =
     .title = Ten moduł nie jest podpisany
 third-party-warning-icon =
     .title = { -brand-short-name } uległ awarii w kodzie z tego modułu
-
 third-party-status-loaded = Wczytany
 third-party-status-blocked = Zablokowany
 third-party-status-redirected = Przekierowany
-
 third-party-button-copy-to-clipboard = Skopiuj nieprzetworzone dane do schowka
 third-party-button-reload = Wczytaj ponownie z informacjami o systemie
     .title = Wczytaj ponownie z informacjami o systemie
