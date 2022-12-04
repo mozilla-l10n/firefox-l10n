@@ -230,3 +230,7 @@ colorways-cfr-primarybutton = Wybierz kolorystykę
     .accesskey = W
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Pokoloruj swoją przeglądarkę odcieniami zainspirowanymi głosami, które zmieniły kulturę. Wyłącznie w { -brand-short-name(case: "loc") }.
+colorways-cfr-header-28days = Kolorystyki „Niezależne głosy” wygasają 16 stycznia
+colorways-cfr-header-14days = Kolorystyki „Niezależne głosy” wygasają za dwa tygodnie
+colorways-cfr-header-7days = Kolorystyki „Niezależne głosy” wygasają w tym tygodniu
+colorways-cfr-header-today = Kolorystyki „Niezależne głosy” wygasają dzisiaj
