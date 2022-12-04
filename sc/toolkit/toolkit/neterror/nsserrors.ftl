@@ -110,6 +110,7 @@ ssl-error-access-denied-alert = S'àtera parte at retzidu unu tzertificadu bàli
 ssl-error-decode-error-alert = S'àtera parte no at pòdidu detzifrare su messàgiu SSL de istabilimentu de connessione (handshake).
 ssl-error-decrypt-error-alert = S'àtera parte sinnalat una faddina in s'averìgu de sa firma o in s'iscàmbiu de craes.
 ssl-error-export-restriction-alert = S'àtera parte at sinnaladu una cuntratatzione non cunforma a is règulas de esportatzione.
+ssl-error-protocol-version-alert = S’àtera parte informa de una versione non cumpatìbile o no implementada de su protocollu.
 ssl-error-user-canceled-alert = S'utente de s'àtera parte at annulladu s'istabilimentu de connessione (handshake).
 ssl-error-no-renegotiation-alert = S'àtera parte non permitit una cuntratatzione noa de is paràmetros de seguridade de SSL.
 ssl-error-server-cache-not-configured = Sa memòria temporànea de su serbidore SSL no est cunfigurada o est istudada pro custu socket.

@@ -409,3 +409,5 @@ mr2022-onboarding-default-image-alt =
     .aria-label = Persone imprassende su logo de { -brand-product-name }
 mr2022-onboarding-import-image-alt =
     .aria-label = Persone a pitzu de unu skateboard cun unu pachete de iconas de programmas
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Ranas chi brincant intre ninfeas, cun unu còdighe QR visualizadu in mesu pro iscarrigare { -brand-product-name } pro dispositivos mòbiles
