@@ -28,6 +28,11 @@ origin-controls-option-always-on =
 
 origin-controls-state-no-access = Ĝi povas nek legi nek ŝanĝi datumojn en tiu ĉi retejo
 origin-controls-state-always-on = Ĝi ĉiam povas kaj legi kaj ŝanĝi datumojn en tiuj ĉi retejo
+origin-controls-state-when-clicked = Bezonatas permeso por legi kaj ŝanĝi datumojn
+origin-controls-state-hover-run-visit-only = Ruli nur por tiu ĉi vizito
+origin-controls-state-runnable-hover-open = Malfermi etendaĵon
+origin-controls-state-runnable-hover-run = Ruli etendaĵon
+origin-controls-state-temporary-access = Eblas kaj legi kaj ŝanĝi datumojn por tiu ĉi vizito
 
 ## Extension's toolbar button.
 ## Variables:
