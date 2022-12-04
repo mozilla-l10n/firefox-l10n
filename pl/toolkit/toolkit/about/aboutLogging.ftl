@@ -7,6 +7,8 @@ about-logging-title = about:logging
 about-logging-current-log-file = Plik dziennika:
 about-logging-current-log-modules = Moduły:
 about-logging-log-tutorial = Instrukcje dla tego narzędzia można znaleźć w artykule <a data-l10n-name="logging">HTTP Logging</a>.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Otwórz katalog
 about-logging-set-log-file = Ustaw jako plik dziennika
 about-logging-set-log-modules = Wybierz moduły
 about-logging-start-logging = Rozpocznij zapisywanie
