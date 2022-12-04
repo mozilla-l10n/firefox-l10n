@@ -103,6 +103,9 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> контролише ово подешавање.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> захтева картице у контејнеру.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> контролише ово подешавање.
@@ -1018,6 +1021,9 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Претраживачи
     .accesskey = ж
+addressbar-locbar-quickactions-option =
+    .label = Брзе радње
+    .accesskey = Б
 addressbar-suggestions-settings = Промени подешавања за предлоге претраживача
 addressbar-quickactions-learn-more = Сазнајте више
 
@@ -1060,7 +1066,15 @@ content-blocking-all-windows-tracking-content = Садржај који прат
 content-blocking-all-third-party-cookies = Све колачиће треће стране
 content-blocking-cryptominers = Крипторудари
 content-blocking-fingerprinters = Сакупљачи дигиталних отисака
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Испробајте нашу најјачу функцију приватности до сада
+    .accesskey = И
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Свеобухватна заштита од колачића везује колачиће за сајт на ком се тренутно налазите, тако да елементи за праћење не могу да их користе за даље праћење.
 content-blocking-etp-standard-tcp-rollout-learn-more = Сазнајте више
+content-blocking-etp-standard-tcp-title = Укључује свеобухватну заштиту од колачића, нашу најјачу функцију заштите приватности
 content-blocking-warning-title = Напомена!
 content-blocking-and-isolating-etp-warning-description-2 = Ово подешавање може довести до тога да неки сајтови не приказују садржај или не раде исправно. Ако се чини да неки сајт не ради исправно, покушајте да онемогућите заштиту од праћења да би онда учитао сав садржај.
 content-blocking-warning-learn-how = Научите како
@@ -1174,6 +1188,8 @@ addon-recommendations-link = Сазнајте више
 collection-health-report-disabled = У овој верзији је слање података онемогућено.
 collection-backlogged-crash-reports-with-link = Дозволи да { -brand-short-name } шаље заостале извештаје о отказивању у моје име <a data-l10n-name="crash-reports-link">Сазнајте више</a>
     .accesskey = љ
+privacy-segmentation-section-header = Нове функције које побољшавају ваше прегледање
+privacy-segmentation-section-description = Када нудимо функције које користе ваше податке да би вам пружиле личније искуство:
 privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
