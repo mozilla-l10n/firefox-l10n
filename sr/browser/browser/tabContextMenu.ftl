@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Обележи картицу
     .accesskey = б
+tab-context-bookmark-tab =
+    .label = Обележи картицу…
+    .accesskey = О
 tab-context-open-in-new-container-tab =
     .label = Отвори на новој картици у контејнеру
     .accesskey = т
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Премести картице
         }
     .accesskey = П
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
