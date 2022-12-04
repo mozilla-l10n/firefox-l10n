@@ -55,6 +55,8 @@ firefoxview-mobile-confirmation-description = Możesz teraz otwierać karty z p
 firefoxview-closed-tabs-title = Ostatnio zamknięte
 firefoxview-closed-tabs-description2 = Ponownie otwieraj strony zamknięte w tym oknie.
 firefoxview-closed-tabs-placeholder = <strong>Nie ma ostatnio zamkniętych stron</strong><br/>Nigdy więcej nie obawiaj się utraty zamkniętej karty. Zawsze możesz odzyskać ją tutaj.
+firefoxview-closed-tabs-placeholder-header = Nie ma ostatnio zamkniętych kart
+firefoxview-closed-tabs-placeholder-body = Tutaj będzie można odzyskać karty zamknięte w tym oknie.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ostatnio aktywna
 # Variables:
@@ -69,6 +71,8 @@ firefoxview-change-colorway-button = Zmień kolorystykę
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Nic tu jeszcze nie ma</strong><br/>Gdy następnym razem otworzysz kartę w przeglądarce { -brand-product-name } na innym urządzeniu, magicznie pojawi się ona tutaj.
+firefoxview-synced-tabs-placeholder-header = Nic tu jeszcze nie ma
+firefoxview-synced-tabs-placeholder-body = Gdy następnym razem otworzysz kartę w przeglądarce { -brand-product-name } na innym urządzeniu, magicznie pojawi się ona tutaj.
 firefoxview-collapse-button-show =
     .title = Wyświetl listę
 firefoxview-collapse-button-hide =
