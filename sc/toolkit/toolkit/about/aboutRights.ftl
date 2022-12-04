@@ -44,12 +44,26 @@ rights-safebrowsing-term-2 = Seletziona sa setzione de seguresa
 rights-safebrowsing-term-3 = Disativa s'optzione “{ enableSafeBrowsing-label }”
 enableSafeBrowsing-label = Bloca is cuntenutos perigulosos e ingannosos
 rights-safebrowsing-term-4 = Sa navigatzione segura at a èssere disativada
+rights-locationawarebrowsing = <strong>Navigatzione cun localizatzione geografica: </strong> Est semper optzionale. Is informatziones de sa positzione tua no ant a èssere mai imbiados chena su permissu tuo. Si dda boles disativare de su totu, sighi custos passos:
 rights-locationawarebrowsing-term-1 = In sa barra de indiritzos, iscrie <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Iscrie geo.enabled
 rights-locationawarebrowsing-term-3 = Clic dòpiu a sa preferèntzia geo.enabled
 rights-locationawarebrowsing-term-4 = Sa localizatzione geogràfica at a èssere dae tando disativada
+rights-webservices-unbranded =
+    Unu resumu de is servìtzios de su situ web chi includet su produtu, in paris cun
+    is istrutziones pro ddos disativare (si est aplicàbile), depet èssere inclùdidu inoghe.
 rights-webservices-term-unbranded = Is cunditziones de su servìtziu aplicàbiles a custu produtu depent èssere mentovadas inoghe.
+rights-webservices-term-1 =
+    { -vendor-short-name } e is collaboradores, lissentziadores e sòtzios traballant pro
+    frunire is servìtzios prus atualizados e pretzisos. Podet èssere, però, chi
+    s'informatzione non siat cumpleta e chena faddinas. Pro esempru, podet
+    èssere chi su servìtziu de navigatzione privada non potzat identificare sitos
+    perigulosos e imbetzes identificare sitos seguros comente perigulosos. Aici etotu, is positziones frunidas cun sa navigatzione cun localizatzione geogràfica
+    sunt aprossimativas e, ne nois nen is frunidores nostros garantimus sa pretzisione de custos datos.
 rights-webservices-term-2 = { -vendor-short-name } podet modificare o firmare is servìtzios a sa discretzione sua.
+rights-webservices-term-3 =
+    Podes impreare chena problema custos servìtzios cun sa versione de
+    { -brand-short-name }, e cun su permissu de { -vendor-short-name } tenes totu
 rights-webservices-term-6 =
     { -vendor-short-name } podet atualizare custas cunditziones cando siat pretzisu.
     Custas cunditziones non podent èssere modificadas nen annulladas chena s'acordu iscritu de { -vendor-short-name }.
