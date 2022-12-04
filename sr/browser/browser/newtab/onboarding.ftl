@@ -25,6 +25,12 @@ return-to-amo-addon-title = Сада ће се инсталирати додат
 return-to-amo-add-extension-label = Додај додатак
 return-to-amo-add-theme-label = Додајте тему
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Упознајте { -brand-short-name }
+mr1-return-to-amo-addon-title = Имате брз, приватни прегледач на дохват руке. Сада можете да додате <b>{ $addon-name }</b> и урадите више са { -brand-short-name }-ом.
+mr1-return-to-amo-add-extension-label = Додај { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
