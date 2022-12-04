@@ -207,6 +207,8 @@ firefoxview-cfr-secondarybutton = Ahora no
     .accesskey = n
 firefoxview-cfr-header = Recupere las pestañas cerradas recientemente con { -firefoxview-brand-name }
 firefoxview-cfr-body = Además, pase sin problemas de un dispositivo a otro y agregue un toque de color a tu navegador.
+firefoxview-cfr-header-v2 = Continúe rápidamente desde donde lo dejó.
+firefoxview-cfr-body-v2 = Recupere las pestañas cerradas recientemente y pase rápidamente entre dispositivos con { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
