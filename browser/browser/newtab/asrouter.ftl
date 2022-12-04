@@ -166,9 +166,16 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } ограђу�
 spotlight-total-cookie-protection-primary-button = Укључите свеобухватну заштиту од колачића
 spotlight-total-cookie-protection-secondary-button = Не сада
 cfr-total-cookie-protection-header = Захваљујући вама, { -brand-short-name } је приватнији и безбеднији него икад
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Свеобухватна заштита од колачића је наше најјачи ниво заштите приватности до сада – и сада је подразумевана поставка за { -brand-short-name } кориснике свуда. Не бисмо то могли да урадимо без учесника у раном приступу попут вас. Зато вам хвала што сте нам помогли да направимо бољи, приватнији интернет.
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Бољи интернет почиње са вама
+spotlight-better-internet-body = Када користите { -brand-short-name }, подржавате отворен, приступачан и бољи интернет за све.
+spotlight-peace-mind-header = Ту смо за вас
+spotlight-peace-mind-body = Сваког месеца, { -brand-short-name } блокира у просеку 3,000 елемената за праћење по кориснику. Јер ништа, а поготово не овакви уништавачи приватности, не треба да стоји између вас и доброг интернета.
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
