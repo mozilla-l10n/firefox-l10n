@@ -31,8 +31,20 @@ origin-controls-state-always-on = Читање и мењање података 
 origin-controls-state-when-clicked = Потребне су дозволе за читање и мењање података
 origin-controls-state-hover-run-visit-only = Покрени само за ову посету
 origin-controls-state-runnable-hover-open = Отвори додатак
+origin-controls-state-runnable-hover-run = Покрени додатак
+origin-controls-state-temporary-access = Читање и мењање података је могуће за ову посету
 
 ## Extension's toolbar button.
 ## Variables:
 ##   $extensionTitle (String) - Extension name or title message.
 
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Потребне су дозволе
