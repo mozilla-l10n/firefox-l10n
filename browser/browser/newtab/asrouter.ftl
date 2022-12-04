@@ -232,3 +232,9 @@ firefoxview-spotlight-promo-secondarybutton = Прескочи
 
 colorways-cfr-primarybutton = Одаберите комбинацију боја
     .accesskey = О
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Обојите свој прегледач ексклузивним { -brand-short-name } нијансама инспирисаним гласовима који су утицали на културу.
+colorways-cfr-header-28days = Комбинације боја „Независни гласови” истичу 16. јануара
+colorways-cfr-header-14days = Комбинације боја „Независни гласови” истичу за две седмице
+colorways-cfr-header-7days = Комбинације боја „Независни гласови” истичу ове седмице
+colorways-cfr-header-today = Комбинације боја „Независни гласови” истичу данас
