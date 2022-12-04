@@ -208,6 +208,7 @@ firefoxview-cfr-secondarybutton = Une honetan ez
 firefoxview-cfr-header = Berreskuratu itxitako azken fitxak { -firefoxview-brand-name } erabiliz
 firefoxview-cfr-body = Gainera egin salto gailuen artean eta gehitu kolore ukitu bat zure nabigatzaileari.
 firefoxview-cfr-header-v2 = Jarraitu utzi zenuen tokitik
+firefoxview-cfr-body-v2 = Berreskuratu itxitako azken fitxak eta aldatu di-da batean gailuen artean { -firefoxview-brand-name } erabiliz.
 
 ## Firefox View Spotlight
 
@@ -221,3 +222,9 @@ firefoxview-spotlight-promo-secondarybutton = Saltatu
 
 colorways-cfr-primarybutton = Aukeratu kolore-konbinazioa
     .accesskey = k
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Eman kolorea zure nabigatzaileari { -brand-short-name } kultura aldatu zuten ahotsek inspiratutako itzaldura esklusiboekin.
+colorways-cfr-header-28days = Ahots independenteen kolore-konbinazioak urtarrilaren 16an iraungiko dira
+colorways-cfr-header-14days = Ahots independenteen kolore-konbinazioak bi aste barru iraungiko dira
+colorways-cfr-header-7days = Ahots independenteen kolore-konbinazioak aste honetan iraungiko dira
+colorways-cfr-header-today = Ahots independenteen kolore-konbinazioak gaur iraungiko dira

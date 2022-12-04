@@ -152,6 +152,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = Gutxiago idatzi, gehiago aurkitu: bilatu { $engineName } erabiliz helbide-barratik zuzenean.
 urlbar-search-tips-redirect-2 = Hasi zure bilaketa helbide-barran { $engineName } bilatzailearen eta zure nabigazio-historialeko proposamenak ikusteko
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Bilaketak egitea sinpleagoa da orain. Saiatu zure bilaketa zehatzagoa egiten helbide-barran. Honen ordez URLa erakusteko, zoaz ezarpenetako 'Bilaketa' atalera.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Hautatu lasterbide hau behar duzuna azkarrago bilatzeko.

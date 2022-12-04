@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Gehitu itxura
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Esan kaixo { -brand-short-name }(r)i
+mr1-return-to-amo-addon-title = Nabigatzaile azkar eta pribatua duzu zure eskumenean. Orain <b>{ $addon-name }</b> gehi dezakezu eta { -brand-short-name }(r)ekin oraindik eta gehiago egin.
 mr1-return-to-amo-add-extension-label = Gehitu { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
