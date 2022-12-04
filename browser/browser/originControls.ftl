@@ -8,6 +8,10 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = Ekstensi Tidak Dapat Membaca dan Mengubah Data
+origin-controls-options =
+    .label = Ekstensi Dapat Membaca dan Mengubah Data:
 origin-controls-option-all-domains =
     .label = Di Semua Situs
 origin-controls-option-when-clicked =
@@ -28,3 +32,19 @@ origin-controls-state-when-clicked = Diperlukan izin untuk membaca dan mengubah 
 origin-controls-state-hover-run-visit-only = Jalankan hanya untuk kunjungan ini
 origin-controls-state-runnable-hover-open = Buka ekstensi
 origin-controls-state-runnable-hover-run = Jalankan ekstensi
+origin-controls-state-temporary-access = Dapat membaca dan mengubah data untuk kunjungan ini
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Izin diperlukan
