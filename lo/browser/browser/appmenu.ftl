@@ -132,6 +132,7 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = ນັກພັດທະນາເວັບ
+profiler-popup-presets-firefox-description = ແນະນຳລ່ວງໜ້າສຳລັບການສ້າງໂປຣໄຟລ໌ { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
