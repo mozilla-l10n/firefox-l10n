@@ -27,6 +27,8 @@ return-to-amo-add-theme-label = Tambahkan Tema
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Sambutlah { -brand-short-name }
+mr1-return-to-amo-addon-title = Anda memiliki peramban pribadi yang cepat di ujung jari Anda. Sekarang Anda dapat menambahkan <b>{ $addon-name }</b> dan melakukan lebih banyak lagi dengan { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Tambahkan { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)

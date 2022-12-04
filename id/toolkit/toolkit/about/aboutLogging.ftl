@@ -7,6 +7,8 @@ about-logging-title = Tentang Pencatatan
 about-logging-current-log-file = Berkas Log Terkini:
 about-logging-current-log-modules = Modul Log Terkini:
 about-logging-log-tutorial = Lihat <a data-l10n-name="logging">Pencatatan HTTP</a> untuk instruksi menggunakan alat ini.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Buka direktori
 about-logging-set-log-file = Atur Berkas Log
 about-logging-set-log-modules = Atur Modul Log
 about-logging-start-logging = Mulai Pencatatan
