@@ -136,11 +136,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Pomoc
 urlbar-search-tips-confirm = OK
+urlbar-search-tips-confirm-short = OK
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Wskazówka:
+urlbar-result-menu-button =
+    .title = Otwórz menu
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -932,6 +935,10 @@ private-browsing-indicator-label = Tryb prywatny
 unified-extensions-button =
     .label = Rozszerzenia
     .tooltiptext = Rozszerzenia
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Autorefresh blocker
 
