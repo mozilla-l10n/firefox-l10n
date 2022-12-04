@@ -8,24 +8,13 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Ddoe est istada una faddina durante una connessione a { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Còdighe de faddina: { $error }
-
 psmerr-ssl-disabled = Impossìbile connètere in manera segura ca su protocollu SSL est istadu disativadu.
 psmerr-ssl2-disabled = Impossìbile connètere in manera segura ca su situ impreat una versione betza e insegura de su protocollu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     As retzidu unu tzertificadu non vàlidu. Cuntata s'amministratzione de su serbidore o s'indiritzu de posta eletrònica chi ddi currispondet e fruni·ddi is informatziones chi sighint:
     
     Su tzertificadu tuo cuntenet su pròpiu nùmeru de sèrie de un'àteru tzertificadu emìtidu dae s'autoridade de tzertificatzione. Procura·ti unu tzertificadu nou cun unu nùmeru de sèrie ùnicu.
-
 ssl-error-export-only-server = Impossìbile comunicare in manera segura. S'àtera parte no ammitet tzifradu de gradu artu.
 ssl-error-us-only-server = Impossìbile comunicare in manera segura. S'àtera parte rechedet unu tzifradu de gradu artu chi no est a disponimentu.
 ssl-error-no-cypher-overlap = Impossìbile comunicare in manera segura cun s'àtera parte: no ddoe at algoritmos comunos de tzifradu.
@@ -140,6 +129,7 @@ ssl-error-next-protocol-data-invalid = SSL at retzidu datos non bàlidos de este
 ssl-error-feature-not-supported-for-ssl2 = Piessìnniu SSL non suportadu pro connessiones SSL 2.0.
 ssl-error-feature-not-supported-for-servers = Piessìnniu SSL non suportadu pro serbidores.
 ssl-error-feature-not-supported-for-clients = Funtzionalidade SSL non cumpatìbile pro clientes.
+ssl-error-invalid-version-range = S'intervallu de versiones de SSL no est vàlidu.
 ssl-error-feature-not-supported-for-version = Funtzionalidade SSL non cumpatìbile pro sa versione de su protocollu.
 ssl-error-digest-failure = Faddina in sa funtzione digest.
 ssl-error-next-protocol-no-callback = S'estensione "next protocol negotiation" est ativa, ma sa tzerriada de retroatzione est incumentzada in antis de serbire.
@@ -187,22 +177,11 @@ sec-error-pkcs7-keyalg-mismatch = Impossìbile detzifrare: s'algoritmu de tzifra
 sec-error-pkcs7-bad-signature = Faddina in sa verìfica de firmas: nissunu firmadore agatadu, tropu firmadores o datos corrùmpidos o non vàlidos.
 sec-error-unsupported-keyalg = Algoritmu de crae non cumpatìbile o disconnotu.
 sec-error-decryption-disallowed = Impossìbile detzifrare: tzifradu cun un'algoritmu o una mannària de crae non permìtidos.
-xp-sec-fortezza-bad-card = Sa carta Fortezza no est istada aviada in manera curreta. Boga·dda e torra·dda a s'autoridade de emissione.
-xp-sec-fortezza-no-card = Nissuna carta Fortezza agatada
-xp-sec-fortezza-none-selected = Nissuna carta Fortezza seberada
-xp-sec-fortezza-more-info = Sèbera una personalidade pro nd'otènnere àteras informatziones
-xp-sec-fortezza-person-not-found = Personalidade no agatada
-xp-sec-fortezza-no-more-info = Nissuna àtera informatzione in pitzus de custa personalidade
-xp-sec-fortezza-bad-pin = PIN non vàlidu
-xp-sec-fortezza-person-error = Impossìbile aviare is personalidades Fortzezza.
 sec-error-no-krl = Impossìbile agatare nissunu elencu de craes revocadas (KRL).
 sec-error-krl-expired = S'elencu de craes revocadas (KRL) pro su tzertificadu de custu situ est iscadidu.
 sec-error-krl-bad-signature = S'elencu de craes revocadas (KRL) dae su tzertificadu de custu situ non tenet una firma vàlida.
 sec-error-revoked-key = Sa crae pro su tzertificadu de custu situ est istada revocada.
 sec-error-safe-not-created = Faddina in sa creatzione de un'ogetu seguru
-xp-java-remove-principal-error = Impossìbile cantzellare su printzipale
-xp-java-delete-privilege-error = Impossìbile cantzellare su privilègiu
-xp-java-cert-not-exists-error = Custu printzipale non tenet tzertificadu
 sec-error-bad-export-algorithm = S'algoritmu rechestu no est permìtidu.
 sec-error-exporting-certificates = Faddina in s'intentu de esportatzione de tzertificados.
 sec-error-importing-certificates = Faddina in s'intentu de importatzione de tzertificados.
@@ -242,6 +221,25 @@ sec-error-unknown-signer = Impossìbile agatare su tzertificadu de su firmatàri
 sec-error-cert-bad-access-location = Sa positzione de su serbidore de istadu de su tzertificadu non tenet unu formadu vàlidu.
 sec-error-module-stuck = Impossìbile bogare su mòdulu PKCS #11 ca est ancora impreadu.
 sec-error-revoked-certificate-crl = Su tzertificadu est istadu revocadu in s'elencu de tzertificados revocados dae s'autoridade.
+sec-error-crl-already-exists = CRL esistet giai.
+sec-error-not-initialized = NSS no est istadu aviadu.
+sec-error-token-not-logged-in = Faddina in s’operatzione ca su PKCS#11 no s'est identificadu.
 sec-error-expired-password = Sa crae est iscadida.
 sec-error-locked-password = Sa crae est blocada.
 sec-error-unknown-pkcs11-error = Faddina PKCS #11 disconnota.
+mozilla-pkix-error-not-yet-valid-certificate = Su serbidore at presentadu unu tzertificadu chi no est ancora vàlidu.
+mozilla-pkix-error-not-yet-valid-issuer-certificate = Unu tzertificadu chi no est ancora vàlidu est istadu impreadu pro emìtere su tzertificadu de su serbidore.
+mozilla-pkix-error-validity-too-long = Su serbidore at presentadu unu tzertificadu chi est vàlidu pro tropu tempus.
+mozilla-pkix-error-required-tls-feature-missing = Ammancat una funtzionalidade TLS rechesta.
+mozilla-pkix-error-self-signed-cert = Su tzertificadu no est atendìbile ca est firmadu dae isse etotu.
+xp-java-remove-principal-error = Impossìbile cantzellare su printzipale
+xp-java-delete-privilege-error = Impossìbile cantzellare su privilègiu
+xp-java-cert-not-exists-error = Custu printzipale non tenet tzertificadu
+xp-sec-fortezza-bad-card = Sa carta Fortezza no est istada aviada in manera curreta. Boga·dda e torra·dda a s'autoridade de emissione.
+xp-sec-fortezza-no-card = Nissuna carta Fortezza agatada
+xp-sec-fortezza-none-selected = Nissuna carta Fortezza seberada
+xp-sec-fortezza-more-info = Sèbera una personalidade pro nd'otènnere àteras informatziones
+xp-sec-fortezza-person-not-found = Personalidade no agatada
+xp-sec-fortezza-no-more-info = Nissuna àtera informatzione in pitzus de custa personalidade
+xp-sec-fortezza-bad-pin = PIN non vàlidu
+xp-sec-fortezza-person-error = Impossìbile aviare is personalidades Fortzezza.
