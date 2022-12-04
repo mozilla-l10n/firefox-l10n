@@ -28,6 +28,13 @@ downloads-cmd-cancel =
     .tooltiptext = Откажи
 downloads-cmd-cancel-panel =
     .aria-label = Откажи
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Прикажи у фасцикли
+           *[other] Прикажи у фасцикли
+        }
+    .accesskey = ф
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -37,14 +44,47 @@ downloads-cmd-cancel-panel =
 downloads-cmd-use-system-default =
     .label = Отвори у системском прегледачу
     .accesskey = О
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Отвори у { $handler }
+    .accesskey = у
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Увек отварај у системском прегледачу
     .accesskey = У
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Увек отвори у { $handler }
+    .accesskey = в
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Увек отвори сличне датотеке
+    .accesskey = в
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Прикажи у фасцикли
+           *[other] Прикажи у фасцикли
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Прикажи у фасцикли
+           *[other] Прикажи у фасцикли
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Прикажи у фасцикли
+           *[other] Прикажи у фасцикли
+        }
 downloads-cmd-show-downloads =
     .label = Отвори фасциклу са преузимањима
 downloads-cmd-retry =
@@ -65,6 +105,9 @@ downloads-cmd-clear-list =
     .accesskey = б
 downloads-cmd-clear-downloads =
     .label = Обриши листу
+    .accesskey = О
+downloads-cmd-delete-file =
+    .label = Обриши
     .accesskey = О
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
