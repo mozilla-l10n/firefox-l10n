@@ -182,6 +182,10 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Nustatymas „{ -brand-shorter-name }“ tinklo problemų diagnozavimui.
 profiler-popup-presets-networking-label =
     .label = Tinklas
+profiler-popup-presets-power-description = Nustatymas „{ -brand-shorter-name }“ energijos suvartojimo problemų diagnozavimui, su nedidelėmis sąnaudomis.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Energija
 profiler-popup-presets-custom-label =
     .label = Kitas
 
