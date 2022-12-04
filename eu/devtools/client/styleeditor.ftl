@@ -21,6 +21,7 @@ styleeditor-save-button = Gorde
 styleeditor-options-button =
     .tooltiptext = Estilo-editorearen aukerak
 styleeditor-media-rules = @media erregelak
+styleeditor-at-rules = At-erregelak
 styleeditor-editor-textbox =
     .data-placeholder = Idatzi CSSa hemen.
 styleeditor-no-stylesheet = Orri honek ez dauka estilo-orririk.

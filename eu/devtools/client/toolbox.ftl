@@ -46,3 +46,7 @@ toolbox-always-on-top-enabled =
     .title = Desgaitu beti gainean egoteko modua (garatzaile-tresnak berrabiaraziko ditu)
 toolbox-always-on-top-disabled =
     .title = Gaitu beti gainean egoteko modua (garatzaile-tresnak berrabiaraziko ditu)
+toolbox-always-on-top-enabled2 = Desgaitu beti gainean egoteko modua
+    .title = Garatzaile-tresnak berrabiaraziko ditu
+toolbox-always-on-top-disabled2 = Gaitu beti gainean egoteko modua
+    .title = Garatzaile-tresnak berrabiaraziko ditu
