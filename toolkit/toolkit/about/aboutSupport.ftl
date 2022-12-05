@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Protocol da decisiuns
 graphics-crash-guards-title = Funcziunalitads deactivadas da la protecziun cunter collaps
 graphics-workarounds-title = Soluziuns
+graphics-device-pixel-ratios = Proporziuns da pixels tenor apparat da la fanestra
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocol da fanestras
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
