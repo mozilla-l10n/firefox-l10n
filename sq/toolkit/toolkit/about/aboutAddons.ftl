@@ -148,9 +148,9 @@ addon-sitepermission-host = Leje Sajti për { $host }
 ## These are global warnings
 
 extensions-warning-safe-mode = Mënyra e Parrezik ka çaktivizuar krejt shtesat.
-extensions-warning-check-compatibility = Kontrolli i përputhshmërisë së shtesave është i çaktivizuar. Keni shtesa të papërputhshme.
+extensions-warning-check-compatibility = Kontrolli i përputhjes së shtesave është i çaktivizuar. Keni shtesa të papërputhshme.
 extensions-warning-check-compatibility-button = Aktivizoje
-    .title = Aktivizoni kontrollin e përputhshmërisë së shtesave
+    .title = Aktivizoni kontrollin e përputhjesë së shtesave
 extensions-warning-update-security = Kontrolli i përditësimit të shtesave është i çaktivizuar. Përditësimet mund t'ju hapin punë.
 extensions-warning-update-security-button = Aktivizoje
     .title = Aktivizoni kontrollin e përditësimit të shtesave
