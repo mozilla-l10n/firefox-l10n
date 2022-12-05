@@ -207,6 +207,8 @@ firefoxview-cfr-secondarybutton = Ikke nu
     .accesskey = n
 firefoxview-cfr-header = Få nyligt lukkede faneblade tilbage med { -firefoxview-brand-name }
 firefoxview-cfr-body = Hop også nemt mellem enheder og frisk din browser op med nye farver.
+firefoxview-cfr-header-v2 = Fortsæt hurtigt hvor du slap
+firefoxview-cfr-body-v2 = Få nyligt lukkede faneblade tilbage og skift hurtigt mellem enheder med { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
