@@ -5,31 +5,119 @@
 
 ## The main browser window's title
 
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } (نجی براؤزنگ)
+    .data-content-title-default = { -brand-full-name } (نجی براؤزنگ)
+    .data-content-title-private = { -brand-full-name }
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — نجی براؤزنگ
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — نجی براؤزنگ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } نجی براؤزنگ
 
 ##
 
+urlbar-identity-button =
+    .aria-label = سائٹ دیاں معلومات ݙیکھو
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = پیغام دے پینل کوں کھولو تے تنصیب کرو
+urlbar-web-notification-anchor =
+    .tooltiptext = تبدیل کرو جو تساں ایں سائٹ کنوں اطلاع وصول کرݨ چاہندے او یا کائنا
+urlbar-midi-notification-anchor =
+    .tooltiptext = MIDI پینل کھولو
+urlbar-eme-notification-anchor =
+    .tooltiptext = DRM سافٹ ویئر جو استعمال کوں منظم کرو
+urlbar-web-authn-anchor =
+    .tooltiptext = ویب توثیق پینل کھولو
+urlbar-canvas-notification-anchor =
+    .tooltiptext = کینوس کڈھݨ دی اجازت دا انتظام کرو
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = مائیکروفون دی سائٹ دے نال حصہ داری دا بندوبست کرو
+urlbar-default-notification-anchor =
+    .tooltiptext = پیغام پینل کھولو
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = محل وقوع درخواست پینل کھولو
+urlbar-xr-notification-anchor =
+    .tooltiptext = مجازی حقیقت دا اجازتی پینل کھولو
+urlbar-storage-access-anchor =
+    .tooltiptext = براؤزنگ سرگرمی دی اجازت والا پینل کھولو
+urlbar-translate-notification-anchor =
+    .tooltiptext = ایں ورقے دا ترجمہ کرو
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = اپݨی ونڈو یا اسکرین کوں ایں سائٹ دے نال حصہ داری کیتے بندوبست کرو
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = آف لائن ذخیرہ پیغام پینل کھولو
+urlbar-password-notification-anchor =
+    .tooltiptext = محفوظ شدہ پیغام پینل کھولو
+urlbar-translated-notification-anchor =
+    .tooltiptext = ورقے دے ترجمہ دا بندوبست کرو
+urlbar-plugins-notification-anchor =
+    .tooltiptext = پلگ ان ورتاوے دا بندوبست کرو
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = کیمرہ تے مائیکروفون دی سائٹ دے نال حصہ داری دا بندوبست کرو
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = سائٹ نال ٻئے سپیکر دی حصہ داری دا بندوبست کرو
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = خودکار چلݨ والا پینل کھولا
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = مسلسل اسٹوریج وچ کوائف اسٹور کرو
+urlbar-addons-notification-anchor =
+    .tooltiptext = ایڈ آن دا تنصیب شدہ پیغام دا پینل کھولو
 urlbar-tip-help-icon =
     .title = مدد گھنو
+urlbar-search-tips-confirm = ٹھیک ہے، سمجھ آڳئی ہے
 urlbar-search-tips-confirm-short = سمجھ گھدے
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = ٹوٹکا:
+urlbar-result-menu-button =
+    .title = مینیو کھولو
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = گھٹ ٹائپ کرو ، زیادہ ڳولو: اپݨے ایڈریس بار  دے { $engineName } نال تلاش کرو۔
 
 ## Local search mode indicator labels in the urlbar
 
@@ -193,4 +281,11 @@ ui-tour-info-panel-close =
 
 
 ## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Autorefresh blocker
 
