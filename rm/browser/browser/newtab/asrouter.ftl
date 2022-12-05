@@ -208,6 +208,8 @@ firefoxview-cfr-secondarybutton = Betg ussa
     .accesskey = B
 firefoxview-cfr-header = Va danovamain per tabs serrads dacurt cun { -firefoxview-brand-name }
 firefoxview-cfr-body = Mida ultra da quai quasi senza interrupziun tranter apparats e dà in zic colur a tes navigatur.
+firefoxview-cfr-header-v2 = Cuntinuescha immediatamain là nua che ti has chalà
+firefoxview-cfr-body-v2 = Va per tabs serrads dacurt e siglia ultra da quai a moda simpla dad in apparat a l'auter cun agid da { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
