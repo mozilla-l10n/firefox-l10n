@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Villa kom upp við að senda skýrsluna. Reyndu aftur síðar.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Vefsvæðið lagfært? Sendu skýrslu
 
@@ -21,14 +20,11 @@ protections-popup-footer-protection-label-standard = Staðlað
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = Nánari upplýsingar um aukna rakningarvernd
-
-protections-panel-etp-on-header = Kveikt er á aukinni rekjaravernd fyrir þetta vefsvæði
-protections-panel-etp-off-header = Slökkt er á aukinni rekjaravernd fyrir þetta vefsvæði
-
+    .aria-label = Nánari upplýsingar um aukna rakningarvörn
+protections-panel-etp-on-header = Kveikt er á aukinni rakningarvörn fyrir þetta vefsvæði
+protections-panel-etp-off-header = Slökkt er á aukinni rakningarvörn fyrir þetta vefsvæði
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Vefsvæði virkar ekki?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Vefsvæði virkar ekki?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Öllum rekjurum á þessu v
 ##
 
 protections-panel-no-trackers-found = Engir rekjarar sem { -brand-short-name } þekkir til fundust á þessari síðu.
-
 protections-panel-content-blocking-tracking-protection = Rakning efnis
-
 protections-panel-content-blocking-socialblock = Samfélagsmiðlarekjarar
 protections-panel-content-blocking-cryptominers-label = Rafmyntagröftur
 protections-panel-content-blocking-fingerprinters-label = Fingrafarasöfnun
@@ -70,14 +64,12 @@ protections-panel-protectionsdashboard-label = Stjórnborð verndar
 
 # The header of the list
 protections-panel-site-not-working-view-header = Slökktu á vörnum ef þú átt í vandræðum með:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Innskráningarreiti
 protections-panel-site-not-working-view-issue-list-forms = Innfyllingarform
 protections-panel-site-not-working-view-issue-list-payments = Greiðslur
 protections-panel-site-not-working-view-issue-list-comments = Athugasemdir
 protections-panel-site-not-working-view-issue-list-videos = Myndskeið
-
 protections-panel-site-not-working-view-send-report = Senda skýrslu
 
 ##
@@ -87,16 +79,13 @@ protections-panel-cryptominers = Rafmyntagrafarar nota afkastagetu kerfisins þ�
 protections-panel-fingerprinters = Fingrafarasafnarar safna stillingum úr vafranum þínum og tölvunni til að búa til persónusnið af þér. Með því að nota þetta stafræna fingrafar geta þeir fylgst með þér á mismunandi vefsíðum.
 protections-panel-tracking-content = Vefsvæði kunna að hlaða inn utanaðkomandi auglýsingum, myndskeiðum og öðru efni með rakningarkóða. Að loka fyrir rakningarefni getur hjálpað vefsvæðum til að hlaðast hraðar inn, en sumir hnappar, innfyllingarreitir og innskráningarreitir virka kannski ekki.
 protections-panel-social-media-trackers = Samfélagsmiðlar setja rekjara á aðrar vefsíður til að fylgjast með því sem þú gerir, sérð og skoðar á netinu. Þetta gerir samfélagsmiðlafyrirtækjum kleift að læra meira um þig umfram það sem þú deilir á samfélagsmiðlaaðgöngunum þínum.
-
 protections-panel-description-shim-allowed = Sumir rekjarar merktir hér að neðan hafa verið leyfðir að hluta til á þessari síðu vegna þess að þú áttir í samskiptum við þá.
 protections-panel-description-shim-allowed-learn-more = Frekari upplýsingar
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Opnað á rekjara að hluta til
-
 protections-panel-content-blocking-manage-settings =
     .label = Sýsla með verndunarstillingar
     .accesskey = m
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Tilkynna bilað vefsvæði
 protections-panel-content-blocking-breakage-report-view-description = Að loka á ákveðna rekjara getur valdið vandamálum með sum vefsvæði. Að tilkynna þessi vandamál hjálpar til við að gera { -brand-short-name } betra fyrir alla. Ef þú sendir þessa skýrslu verða vefslóð og upplýsingar um vafrastillingar þínar sendar til Mozilla. <label data-l10n-name="learn-more">Frekari upplýsingar</label>
