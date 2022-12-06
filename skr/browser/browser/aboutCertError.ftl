@@ -5,6 +5,16 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } غلط سلامتی سرٹیفیکیٹ ورتیندے۔
+cert-error-trust-unknown-issuer-intro = کوئی شخص سائٹ دی نقالی کرݨ دی کوشش کر سڳدا ہے تے تے تہاکوں جاری نئیں رکھݨا چاہیدا
+cert-error-trust-cert-invalid = سرٹیفکیٹ تے بھروسہ کائنی کیوں جو اے ہک غلط CA سرٹیفکیٹ دے ذریعے جاری کیتا ڳیا ہا
+cert-error-trust-untrusted-issuer = سرٹیفکیٹ تے بھروسہ کائنی کیوں جو جاری کنندہ دا سرٹیفکیٹ تے بھروسہ کائنی
+cert-error-trust-signature-algorithm-disabled = تصدیق نامہ ناقابل بروسہ ہے کیوں جو اینکوں االگورزم دے دستخط استعمال کریندیں ہوئیں دستخط کیتا ڳیا ہا جینکوں نااہل بݨایا ڳیا ہا کیوں جو وہ الگورزم قابل بھروسا کائنا ہا
+cert-error-trust-expired-issuer = ایہ تصدیق نامہ قابل اعتماد کائنی کیوں جو جاری کرݨ والے دا تصدیق نامہ زائد المیعاد ہے۔
+cert-error-trust-self-signed = ایہ تصدیق نان٘واں قابل اعتماد کائنی کوں جو اے آپوں ڄاݨ دستخط شدہ ہے۔
+cert-error-untrusted-default = اے تصدیق نان٘واں قابل اعتماد ماخذ کنوں کائنی۔
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = ویب سائٹس تصدیق نان٘ویں دے ذریعے اپݨی سن٘ڄاݨ ثابت کرین٘دیاں ہن۔{ -brand-short-name } کوں ایں سائٹ تے اعتماد کائنی کیوں جو او این٘جھے تصدیق نان٘ویں دا استعمال کرین٘دی پئی ہے جیڑھی { $hostname } کیتے درست کائنی۔
 cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
 open-in-new-window-for-csp-or-xfo-error = سائٹ نویں ونڈو وچ کھولو
 

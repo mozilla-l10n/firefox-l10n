@@ -25,3 +25,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
+trademarkInfo = فائر فاکس تے فائر فاکس لوگوز موزیلا فائر فاکس دے ٹریڈمارکس ہن
