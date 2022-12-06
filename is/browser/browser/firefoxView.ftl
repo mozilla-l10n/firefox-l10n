@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Allt tilbúið!
 firefoxview-mobile-confirmation-description = Nú geturðu náð í { -brand-product-name }-flipana þína úr spjaldtölvunni eða símanum.
 firefoxview-closed-tabs-title = Nýlega lokað
 firefoxview-closed-tabs-description2 = Opnaðu aftur síður sem þú hefur lokað í þessum glugga.
-firefoxview-closed-tabs-placeholder = <strong>Engar nýlega lokaðar síður</strong><br/>Ekki hræðast að tapa lokuðum flipum. Þú getur alltaf sótt þá hér.
 firefoxview-closed-tabs-placeholder-header = Engir nýlega lokaðir flipar
 firefoxview-closed-tabs-placeholder-body = Þegar þú lokar flipa í þessum glugga geturðu sótt hann hingað.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Afgreiða { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Síðasta virkni
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Breyta litasetti
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ekkert að sjá hér ennþá</strong><br/>Næst þegar þú opnar síðu í { -brand-product-name } í öðru tæki skaltu grípa hana hér eins og fyrir töfra.
 firefoxview-synced-tabs-placeholder-header = Ekkert að sjá ennþá
 firefoxview-synced-tabs-placeholder-body = Næst þegar þú opnar síðu í { -brand-product-name } í öðru tæki skaltu ná í hana hér.
 firefoxview-collapse-button-show =
