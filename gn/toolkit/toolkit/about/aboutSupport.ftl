@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Jehaipy ñemboaje
 graphics-crash-guards-title = Hesegua ojokóva Apopyvusu je’a Ñangarekoha
 graphics-workarounds-title = Ñemyatyrõ sapy’agua
+graphics-device-pixel-ratios = Píxeles tuichakue mba’e’oka rovetãme
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Ovetã raperekoite
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).

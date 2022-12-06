@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Ñemoneĩ emoñe’ẽ ha emoambue hag̃ua 
 origin-controls-state-hover-run-visit-only = Neañoite ko jeiképe g̃uarã
 origin-controls-state-runnable-hover-open = Jepysokue ijurujáva
 origin-controls-state-runnable-hover-run = Jepysokue jepuru
+origin-controls-state-temporary-access = Amoñe’ẽ ha amoambuekuaa mba’ekuaarã ko tendápe
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Ñemoneĩ tekotevẽva
