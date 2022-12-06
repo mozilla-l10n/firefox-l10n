@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Klar att användas!
 firefoxview-mobile-confirmation-description = Nu kan du hämta flikarna från { -brand-product-name } till din surfplatta eller telefon.
 firefoxview-closed-tabs-title = Nyligen stängda
 firefoxview-closed-tabs-description2 = Öppna åter sidor du har stängt i det här fönstret.
-firefoxview-closed-tabs-placeholder = <strong>Inga nyligen stängda sidor</strong><br/>Var aldrig rädd att förlora en stängd flik igen. Du kan alltid hämta den här.
 firefoxview-closed-tabs-placeholder-header = Inga nyligen stängda flikar
 firefoxview-closed-tabs-placeholder-body = När du stänger en flik i det här fönstret kan du hämta den härifrån.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Ignorera { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Senast aktiv
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Ändra colorway
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Inget att se ännu</strong><br/>Nästa gång du öppnar en sida i { -brand-product-name } på en annan enhet, kommer du magiskt åt den här.
 firefoxview-synced-tabs-placeholder-header = Inget att se ännu
 firefoxview-synced-tabs-placeholder-body = Nästa gång du öppnar en sida i { -brand-product-name } på en annan enhet, hittar du den här.
 firefoxview-collapse-button-show =

@@ -5,81 +5,65 @@
 permissions-window =
     .title = Undantag
     .style = width: 45em
-
 permissions-window2 =
     .title = Undantag
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Webbplatsens adress
     .accesskey = d
-
 permissions-block =
     .label = Blockera
     .accesskey = B
-
+permissions-disable-etp =
+    .label = Lägg till undantag
+    .accesskey = u
 permissions-session =
     .label = Tillåt för sessionen
     .accesskey = s
-
 permissions-allow =
     .label = Tillåt
     .accesskey = å
-
 permissions-button-off =
     .label = Stäng av
     .accesskey = a
-
 permissions-button-off-temporarily =
     .label = Stäng av tillfälligt
     .accesskey = t
-
 permissions-site-name =
     .label = Webbplats
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Ta bort webbplats
     .accesskey = T
-
 permissions-remove-all =
     .label = Ta bort alla webbplatser
     .accesskey = a
-
 permission-dialog =
     .buttonlabelaccept = Spara ändringar
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Standard för alla webbplatser:
-
 permissions-searchbox =
     .placeholder = Sök webbplats
-
 permissions-capabilities-autoplay-allow =
     .label = Tillåt ljud och video
 permissions-capabilities-autoplay-block =
     .label = Blockera ljud
 permissions-capabilities-autoplay-blockall =
     .label = Blockera ljud och video
-
 permissions-capabilities-allow =
     .label = Tillåt
 permissions-capabilities-block =
     .label = Blockera
 permissions-capabilities-prompt =
     .label = Fråga alltid
-
 permissions-capabilities-listitem-allow =
     .value = Tillåt
 permissions-capabilities-listitem-block =
     .value = Blockera
 permissions-capabilities-listitem-allow-session =
     .value = Tillåten för session
-
 permissions-capabilities-listitem-off =
     .value = Av
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +79,17 @@ permissions-invalid-uri-label = Skriv in ett giltigt värdnamn
 permissions-exceptions-etp-window =
     .title = Undantag för förbättrat spårningsskydd
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Undantag för förbättrat spårningsskydd
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Du har inaktiverat skydd på dessa webbplatser.
+permissions-exceptions-manage-etp-desc = Du kan ange vilka webbplatser som har Förbättrat spårningsskydd avstängt. Skriv in den exakta adressen till webbplatsen du vill hantera och klicka sedan på Lägg till undantag.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Undantag - Kakor och webbplatsdata
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Undantag - Kakor och webbplatsdata
     .style = { permissions-window2.style }
@@ -117,7 +100,6 @@ permissions-exceptions-cookie-desc = Du kan ange vilka webbplatser som alltid el
 permissions-exceptions-https-only-window =
     .title = Undantag - Endast HTTPS-läge
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Undantag - Endast HTTPS-läge
     .style = { permissions-window2.style }
@@ -128,7 +110,6 @@ permissions-exceptions-https-only-desc = Du kan inaktivera Endast HTTPS-läge f�
 permissions-exceptions-popup-window =
     .title = Tillåtna webbplatser - popup-fönster
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Tillåtna webbplatser - Popup-fönster
     .style = { permissions-window2.style }
@@ -139,7 +120,6 @@ permissions-exceptions-popup-desc = Du kan ange vilka webbplatser som får öppn
 permissions-exceptions-saved-logins-window =
     .title = Undantag - Sparade inloggningar
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Undantag - Sparade inloggningar
     .style = { permissions-window2.style }
@@ -150,7 +130,6 @@ permissions-exceptions-saved-logins-desc = Inloggningar för följande webbplats
 permissions-exceptions-addons-window =
     .title = Tillåtna webbplatser - Installation av tillägg
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Tillåtna webbplatser - Installation av tillägg
     .style = { permissions-window2.style }
@@ -161,7 +140,6 @@ permissions-exceptions-addons-desc = Du kan ange vilka webbplatser som får inst
 permissions-site-autoplay-window =
     .title = Inställningar - Automatisk uppspelning
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Inställningar - Automatisk uppspelning
     .style = { permissions-window2.style }
@@ -172,7 +150,6 @@ permissions-site-autoplay-desc = Du kan hantera de webbplatser som inte följer 
 permissions-site-notification-window =
     .title = Inställningar - Behörigheter för aviseringar
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Inställningar - Behörigheter för aviseringar
     .style = { permissions-window2.style }
@@ -186,7 +163,6 @@ permissions-site-notification-disable-desc = Detta kommer att förhindra att web
 permissions-site-location-window =
     .title = Inställningar - Behörigheter för plats
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Inställningar - Behörigheter för plats
     .style = { permissions-window2.style }
@@ -200,7 +176,6 @@ permissions-site-location-disable-desc = Detta kommer att förhindra att webbpla
 permissions-site-xr-window =
     .title = Inställningar - Rättigheter för virtuell verklighet
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = Inställningar - Rättigheter för virtuell verklighet
     .style = { permissions-window2.style }
@@ -214,7 +189,6 @@ permissions-site-xr-disable-desc = Detta förhindrar alla webbplatser som inte l
 permissions-site-camera-window =
     .title = Inställningar - Behörigheter för kamera
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Inställningar - Behörigheter för kamera
     .style = { permissions-window2.style }
@@ -228,7 +202,6 @@ permissions-site-camera-disable-desc = Detta kommer att förhindra att webbplats
 permissions-site-microphone-window =
     .title = Inställningar - Behörigheter för mikrofon
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Inställningar - Behörigheter för mikrofon
     .style = { permissions-window2.style }
