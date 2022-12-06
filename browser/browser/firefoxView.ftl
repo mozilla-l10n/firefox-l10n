@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Όλα έτοιμα!
 firefoxview-mobile-confirmation-description = Μπορείτε πλέον να λάβετε τις καρτέλες σας από το { -brand-product-name } του tablet ή του τηλεφώνου σας.
 firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
 firefoxview-closed-tabs-description2 = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτό το παράθυρο.
-firefoxview-closed-tabs-placeholder = <strong>Δεν έκλεισε καμία σελίδα πρόσφατα</strong><br/>Μην φοβάστε το ενδεχόμενο απώλειας καρτελών. Μπορείτε πάντα να τις ανακτήσετε εδώ.
 firefoxview-closed-tabs-placeholder-header = Καμία πρόσφατα κλεισμένη καρτέλα
 firefoxview-closed-tabs-placeholder-body = Όταν κλείσετε μια καρτέλα σε αυτό το παράθυρο, μπορείτε να τη βρείτε εδώ.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Απόρριψη «{ $tabTitle }»
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδ�
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Δεν υπάρχει τίποτα ακόμα</strong><br/>Την επόμενη φορά που θα ανοίξετε μια σελίδα στο { -brand-product-name } μιας άλλης συσκευής, αυτή θα εμφανιστεί μαγικά εδώ.
 firefoxview-synced-tabs-placeholder-header = Δεν υπάρχει τίποτα ακόμα
 firefoxview-synced-tabs-placeholder-body = Την επόμενη φορά που θα ανοίξετε μια σελίδα στο { -brand-product-name } σε άλλη συσκευή, θα τη λάβετε εδώ ως δια μαγείας.
 firefoxview-collapse-button-show =
