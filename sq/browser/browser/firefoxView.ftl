@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Gati për më tej!
 firefoxview-mobile-confirmation-description = Tani mund të merrni skedat tuaja { -brand-product-name } që nga tableti apo telefoni juaj.
 firefoxview-closed-tabs-title = Mbyllur së fundi
 firefoxview-closed-tabs-description2 = Rihapni faqe që keni mbyllur në këtë dritare.
-firefoxview-closed-tabs-placeholder = <strong>Pa faqe të mbyllura së fundi</strong><br/>Mos kini kurrë më frikë se humbni një skedë të mbyllur. Mundeni përherë ta rimerrni nga këtu.
 firefoxview-closed-tabs-placeholder-header = Pa skeda të mbyllura së fundi
 firefoxview-closed-tabs-placeholder-body = Kur mbyllni një skedë në këtë dritare, mund ta merrni nga këtu.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Hidhe tejs { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = E fundit aktive
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Ndryshoni ngjyrim
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ende pa gjë për të parë</strong><br/>Herës tjetër që hapni një faqe në { -brand-product-name } te një pajisje tjetër, merreni dhe këtu, si me magji.
 firefoxview-synced-tabs-placeholder-header = Ende pa gjë për të parë
 firefoxview-synced-tabs-placeholder-body = Herës tjetër që hapni një faqe në { -brand-product-name } te një pajisje tjetër, merreni dhe këtu, si me magji.
 firefoxview-collapse-button-show =
