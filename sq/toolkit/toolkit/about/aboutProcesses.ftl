@@ -114,6 +114,7 @@ about-processes-frame-name-many = Nënkorniza ({ $number }): { $shortUrl }
 
 ## Utility process actor names
 
+about-processes-utility-actor-unknown = Aktor i panjohur
 about-processes-utility-actor-audio-decoder = Shkodues Audio
 about-processes-utility-actor-audio-decoder-generic = Shkodues Audio Elementar
 about-processes-utility-actor-audio-decoder-applemedia = Shkodues Audio Apple Media
