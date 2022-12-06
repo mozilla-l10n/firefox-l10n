@@ -5,81 +5,65 @@
 permissions-window =
     .title = 例外
     .style = width: 45em
-
 permissions-window2 =
     .title = 例外
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = 网站地址
     .accesskey = d
-
 permissions-block =
     .label = 阻止
     .accesskey = B
-
+permissions-disable-etp =
+    .label = 添加例外
+    .accesskey = E
 permissions-session =
     .label = 在这次浏览期间允许
     .accesskey = S
-
 permissions-allow =
     .label = 允许
     .accesskey = A
-
 permissions-button-off =
     .label = 关闭
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = 暂时关闭
     .accesskey = T
-
 permissions-site-name =
     .label = 网站
-
 permissions-status =
     .label = 状态
-
 permissions-remove =
     .label = 移除网站
     .accesskey = R
-
 permissions-remove-all =
     .label = 移除全部网站
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = 保存更改
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = 所有网站的默认值：
-
 permissions-searchbox =
     .placeholder = 搜索网站
-
 permissions-capabilities-autoplay-allow =
     .label = 允许音频和视频
 permissions-capabilities-autoplay-block =
     .label = 阻止音频
 permissions-capabilities-autoplay-blockall =
     .label = 阻止音频和视频
-
 permissions-capabilities-allow =
     .label = 允许
 permissions-capabilities-block =
     .label = 阻止
 permissions-capabilities-prompt =
     .label = 每次都问我
-
 permissions-capabilities-listitem-allow =
     .value = 允许
 permissions-capabilities-listitem-block =
     .value = 阻止
 permissions-capabilities-listitem-allow-session =
     .value = 在这次浏览期间允许
-
 permissions-capabilities-listitem-off =
     .value = 关闭
 permissions-capabilities-listitem-off-temporarily =
@@ -95,7 +79,6 @@ permissions-invalid-uri-label = 请输入合法的主机名
 permissions-exceptions-etp-window =
     .title = 例外 - 增强型跟踪保护
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = 例外 - 增强型跟踪保护
     .style = { permissions-window2.style }
@@ -106,7 +89,6 @@ permissions-exceptions-etp-desc = 你已关闭对下列网站的保护。
 permissions-exceptions-cookie-window =
     .title = 例外 - Cookie 和网站数据
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = 例外 - Cookie 和网站数据
     .style = { permissions-window2.style }
@@ -117,7 +99,6 @@ permissions-exceptions-cookie-desc = 您可以指定一律允许或不允许哪�
 permissions-exceptions-https-only-window =
     .title = 例外 - HTTPS-Only 模式
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = 例外 - HTTPS-Only 模式
     .style = { permissions-window2.style }
@@ -128,7 +109,6 @@ permissions-exceptions-https-only-desc = 您可以关闭特定网站的 HTTPS-On
 permissions-exceptions-popup-window =
     .title = 有特殊权限的网站 - 弹出式窗口
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = 有特殊权限的网站 - 弹出式窗口
     .style = { permissions-window2.style }
@@ -139,7 +119,6 @@ permissions-exceptions-popup-desc = 您可以指定哪些网站可以打开弹�
 permissions-exceptions-saved-logins-window =
     .title = 例外 - 已保存的登录信息
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = 例外 - 已保存的登录信息
     .style = { permissions-window2.style }
@@ -150,7 +129,6 @@ permissions-exceptions-saved-logins-desc = 下列网站的登录信息将不被�
 permissions-exceptions-addons-window =
     .title = 有特殊权限的网站 - 附加组件安装
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = 有特殊权限的网站 - 附加组件安装
     .style = { permissions-window2.style }
@@ -161,7 +139,6 @@ permissions-exceptions-addons-desc = 您可以指定哪些网站可以安装附�
 permissions-site-autoplay-window =
     .title = 设置 - 自动播放
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = 设置 - 自动播放
     .style = { permissions-window2.style }
@@ -172,7 +149,6 @@ permissions-site-autoplay-desc = 您可以在此处管理不遵从默认自动�
 permissions-site-notification-window =
     .title = 设置 - 通知权限
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = 设置 - 通知权限
     .style = { permissions-window2.style }
@@ -186,7 +162,6 @@ permissions-site-notification-disable-desc = 所有列表外的网站将无法�
 permissions-site-location-window =
     .title = 设置 - 位置权限
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = 设置 - 位置权限
     .style = { permissions-window2.style }
@@ -200,7 +175,6 @@ permissions-site-location-disable-desc = 所有列表外的网站将无法请求
 permissions-site-xr-window =
     .title = 设置 - 虚拟现实权限
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = 设置 - 虚拟现实权限
     .style = { permissions-window2.style }
@@ -214,7 +188,6 @@ permissions-site-xr-disable-desc = 将阻止上述之外的网站请求使用您
 permissions-site-camera-window =
     .title = 设置 - 摄像头权限
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = 设置 - 摄像头权限
     .style = { permissions-window2.style }
@@ -228,7 +201,6 @@ permissions-site-camera-disable-desc = 所有列表外的网站将无法请求�
 permissions-site-microphone-window =
     .title = 设置 - 麦克风权限
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = 设置 - 麦克风权限
     .style = { permissions-window2.style }
