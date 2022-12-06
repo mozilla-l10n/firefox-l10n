@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = ביטלת את ההגנות באתרים אלו.
+permissions-exceptions-manage-etp-desc = באפשרותך לציין לאלו אתרים הגנת המעקב המתקדמת תהיה כבויה. יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ואז ללחוץ על הוספת חריגה.
 
 ## Exceptions - Cookies
 
