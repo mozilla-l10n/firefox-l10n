@@ -182,6 +182,9 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Rakarventennoù evit enklask ar beugoù rouedad e { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rouedad
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Energiezh
 profiler-popup-presets-custom-label =
     .label = Personelaet
 
