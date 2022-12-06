@@ -5,81 +5,65 @@
 permissions-window =
     .title = Εξαιρέσεις
     .style = width: 47em
-
 permissions-window2 =
     .title = Εξαιρέσεις
     .style = min-width: 47em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Διεύθυνση ιστοτόπου
     .accesskey = ι
-
 permissions-block =
     .label = Φραγή
     .accesskey = Φ
-
+permissions-disable-etp =
+    .label = Προσθήκη εξαίρεσης
+    .accesskey = ε
 permissions-session =
     .label = Αποδοχή για τη συνεδρία
     .accesskey = σ
-
 permissions-allow =
     .label = Αποδοχή
     .accesskey = Α
-
 permissions-button-off =
     .label = Απενεργοποίηση
     .accesskey = ν
-
 permissions-button-off-temporarily =
     .label = Προσωρινή απενεργοποίηση
     .accesskey = α
-
 permissions-site-name =
     .label = Ιστότοπος
-
 permissions-status =
     .label = Κατάσταση
-
 permissions-remove =
     .label = Αφαίρεση ιστοτόπου
     .accesskey = φ
-
 permissions-remove-all =
     .label = Αφαίρεση όλων των ιστοτόπων
     .accesskey = λ
-
 permission-dialog =
     .buttonlabelaccept = Αποθήκευση αλλαγών
     .buttonaccesskeyaccept = Π
-
 permissions-autoplay-menu = Προεπιλογή για κάθε ιστότοπο:
-
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοτόπου
-
 permissions-capabilities-autoplay-allow =
     .label = Αποδοχή ήχου και βίντεο
 permissions-capabilities-autoplay-block =
     .label = Φραγή ήχου
 permissions-capabilities-autoplay-blockall =
     .label = Φραγή ήχου και βίντεο
-
 permissions-capabilities-allow =
     .label = Αποδοχή
 permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
     .label = Ερώτηση πάντα
-
 permissions-capabilities-listitem-allow =
     .value = Αποδοχή
 permissions-capabilities-listitem-block =
     .value = Φραγή
 permissions-capabilities-listitem-allow-session =
     .value = Αποδοχή για τη συνεδρία
-
 permissions-capabilities-listitem-off =
     .value = Ανενεργό
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +79,17 @@ permissions-invalid-uri-label = Παρακαλώ εισαγάγετε ένα έ�
 permissions-exceptions-etp-window =
     .title = Εξαιρέσεις για την Ενισχυμένη προστασία από καταγραφή
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Εξαιρέσεις για την Ενισχυμένη προστασία από καταγραφή
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία σε αυτούς τους ιστοτόπους.
+permissions-exceptions-manage-etp-desc = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους απενεργοποιείται η Ενισχυμένη προστασία από καταγραφή. Πληκτρολογήστε την ακριβή διεύθυνση του ιστοτόπου που θέλετε να διαχειριστείτε και έπειτα, κάντε κλικ στο «Προσθήκη εξαίρεσης».
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Εξαιρέσεις - Cookies και δεδομένα ιστοτόπων
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Εξαιρέσεις - Cookies και δεδομένα ιστοτόπων
     .style = { permissions-window2.style }
@@ -117,7 +100,6 @@ permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε 
 permissions-exceptions-https-only-window =
     .title = Εξαιρέσεις - Λειτουργία «Μόνο HTTPS»
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Εξαιρέσεις - Λειτουργία «Μόνο HTTPS»
     .style = { permissions-window2.style }
@@ -128,7 +110,6 @@ permissions-exceptions-https-only-desc = Μπορείτε να απενεργο�
 permissions-exceptions-popup-window =
     .title = Επιτρεπόμενοι ιστότοποι - Αναδυόμενα παράθυρα
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Επιτρεπόμενοι ιστότοποι - Αναδυόμενα παράθυρα
     .style = { permissions-window2.style }
@@ -139,7 +120,6 @@ permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε �
 permissions-exceptions-saved-logins-window =
     .title = Εξαιρέσεις - Αποθηκευμένες συνδέσεις
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Εξαιρέσεις - Αποθηκευμένες συνδέσεις
     .style = { permissions-window2.style }
@@ -150,7 +130,6 @@ permissions-exceptions-saved-logins-desc = Οι συνδέσεις για του
 permissions-exceptions-addons-window =
     .title = Επιτρεπόμενοι ιστότοποι - Εγκατάσταση προσθέτων
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Επιτρεπόμενοι ιστότοποι - Εγκατάσταση προσθέτων
     .style = { permissions-window2.style }
@@ -161,7 +140,6 @@ permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε 
 permissions-site-autoplay-window =
     .title = Ρυθμίσεις - Αυτόματη αναπαραγωγή
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Ρυθμίσεις - Αυτόματη αναπαραγωγή
     .style = { permissions-window2.style }
@@ -172,7 +150,6 @@ permissions-site-autoplay-desc = Εδώ μπορείτε να διαχειρισ
 permissions-site-notification-window =
     .title = Ρυθμίσεις - Δικαιώματα ειδοποιήσεων
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Ρυθμίσεις - Δικαιώματα ειδοποιήσεων
     .style = { permissions-window2.style }
@@ -186,7 +163,6 @@ permissions-site-notification-disable-desc = Αυτό θα εμποδίσει τ
 permissions-site-location-window =
     .title = Ρυθμίσεις - Δικαιώματα τοποθεσίας
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Ρυθμίσεις - Δικαιώματα τοποθεσίας
     .style = { permissions-window2.style }
@@ -200,7 +176,6 @@ permissions-site-location-disable-desc = Αυτό θα εμποδίσει τα �
 permissions-site-xr-window =
     .title = Ρυθμίσεις - Δικαιώματα εικονικής πραγματικότητας
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = Ρυθμίσεις - Δικαιώματα εικονικής πραγματικότητας
     .style = { permissions-window2.style }
@@ -214,7 +189,6 @@ permissions-site-xr-disable-desc = Αυτό θα εμποδίσει τα αιτ�
 permissions-site-camera-window =
     .title = Ρυθμίσεις - Δικαιώματα κάμερας
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Ρυθμίσεις - Δικαιώματα κάμερας
     .style = { permissions-window2.style }
@@ -228,7 +202,6 @@ permissions-site-camera-disable-desc = Αυτό θα εμποδίσει τα α�
 permissions-site-microphone-window =
     .title = Ρυθμίσεις - Δικαιώματα μικροφώνου
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Ρυθμίσεις - Δικαιώματα μικροφώνου
     .style = { permissions-window2.style }
