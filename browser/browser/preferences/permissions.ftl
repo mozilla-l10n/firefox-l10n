@@ -104,7 +104,7 @@ permissions-exceptions-etp-window2 =
     .title = Eccezioni per protezione antitracciamento avanzata
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = La protezione è stata disattivata per i seguenti siti web.
-permissions-exceptions-manage-etp-desc = È possibile indicare per quali siti web la protezione antitracciamento avanzata sarà disattivata. Inserire l’indirizzo esatto del sito web da gestire e fare clic su Aggiungi eccezione.
+permissions-exceptions-manage-etp-desc = È possibile specificare per quali siti web la protezione antitracciamento avanzata sarà disattivata. Inserire l’indirizzo esatto del sito web da gestire e fare clic su Aggiungi eccezione.
 
 ## Exceptions - Cookies
 
@@ -115,7 +115,7 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-window2 =
     .title = Eccezioni - Cookie e dati dei siti web
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = È possibile indicare quali siti web potranno o meno salvare cookie e dati. Inserire l’indirizzo esatto del sito web da gestire e fare clic su Blocca, Consenti per la sessione o Consenti.
+permissions-exceptions-cookie-desc = È possibile specificare quali siti web potranno o meno salvare cookie e dati. Inserire l’indirizzo esatto del sito web da gestire e fare clic su Blocca, Consenti per la sessione o Consenti.
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -137,7 +137,7 @@ permissions-exceptions-popup-window =
 permissions-exceptions-popup-window2 =
     .title = Siti web con permesso - Finestre pop-up
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = È possibile indicare quali siti web potranno aprire finestre pop-up. Inserire l’indirizzo esatto del sito web a cui dare il permesso e fare clic su Consenti.
+permissions-exceptions-popup-desc = È possibile specificare quali siti web potranno aprire finestre pop-up. Inserire l’indirizzo esatto del sito web a cui dare il permesso e fare clic su Consenti.
 
 ## Exceptions - Saved Logins
 
@@ -181,7 +181,7 @@ permissions-site-notification-window =
 permissions-site-notification-window2 =
     .title = Impostazioni - Permessi notifiche
     .style = { permissions-window2.style }
-permissions-site-notification-desc = I seguenti siti web hanno richiesto il permesso di inviare notifiche. È possibile indicare quali siti web potranno inviarle o bloccare direttamente le nuove richieste.
+permissions-site-notification-desc = I seguenti siti web hanno richiesto il permesso di inviare notifiche. È possibile specificare quali siti web potranno inviarle o bloccare direttamente le nuove richieste.
 permissions-site-notification-disable-label =
     .label = Blocca nuove richieste di inviare notifiche
 permissions-site-notification-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di inviare notifiche. Il blocco delle notifiche potrebbe comportare il malfunzionamento di alcuni siti web.
@@ -195,7 +195,7 @@ permissions-site-location-window =
 permissions-site-location-window2 =
     .title = Impostazioni - Permessi posizione
     .style = { permissions-window2.style }
-permissions-site-location-desc = I seguenti siti web hanno richiesto il permesso di accedere alla posizione corrente. È possibile indicare quali siti web potranno accedere a questa informazione o bloccare direttamente le nuove richieste.
+permissions-site-location-desc = I seguenti siti web hanno richiesto il permesso di accedere alla posizione corrente. È possibile specificare quali siti web potranno accedere a questa informazione o bloccare direttamente le nuove richieste.
 permissions-site-location-disable-label =
     .label = Blocca nuove richieste di accesso alla posizione corrente
 permissions-site-location-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere alla posizione corrente. L’impossibilità di accedere alla posizione potrebbe comportare il malfunzionamento di alcuni siti web.
@@ -209,7 +209,7 @@ permissions-site-xr-window =
 permissions-site-xr-window2 =
     .title = Impostazioni - Permessi per la realtà virtuale
     .style = { permissions-window2.style }
-permissions-site-xr-desc = I seguenti siti web hanno richiesto il permesso di accedere ai dispositivi per realtà virtuale. È possibile indicare quali siti web potranno accedere a questi dispositivi o bloccare direttamente le nuove richieste.
+permissions-site-xr-desc = I seguenti siti web hanno richiesto il permesso di accedere ai dispositivi per realtà virtuale. È possibile specificare quali siti web potranno accedere a questi dispositivi o bloccare direttamente le nuove richieste.
 permissions-site-xr-disable-label =
     .label = Blocca nuove richieste di accesso ai dispositivi per realtà virtuale
 permissions-site-xr-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere ai dispositivi per realtà virtuale. L’impossibilità di accedere ai dispositivi potrebbe comportare il malfunzionamento di alcuni siti web.
@@ -223,7 +223,7 @@ permissions-site-camera-window =
 permissions-site-camera-window2 =
     .title = Impostazioni - Permessi fotocamera
     .style = { permissions-window2.style }
-permissions-site-camera-desc = I seguenti siti web hanno richiesto il permesso di utilizzare la fotocamera. È possibile indicare quali siti web potranno accedere al dispositivo o bloccare direttamente le nuove richieste.
+permissions-site-camera-desc = I seguenti siti web hanno richiesto il permesso di utilizzare la fotocamera. È possibile specificare quali siti web potranno accedere al dispositivo o bloccare direttamente le nuove richieste.
 permissions-site-camera-disable-label =
     .label = Blocca nuove richieste di accesso alla fotocamera
 permissions-site-camera-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere alla fotocamera. L’impossibilità di accedere al dispositivo potrebbe comportare il malfunzionamento di alcuni siti web.
@@ -237,7 +237,7 @@ permissions-site-microphone-window =
 permissions-site-microphone-window2 =
     .title = Impostazioni - Permessi microfono
     .style = { permissions-window2.style }
-permissions-site-microphone-desc = I seguenti siti web hanno richiesto il permesso di utilizzare il microfono. È possibile indicare quali siti web potranno accedere al dispositivo o bloccare direttamente le nuove richieste.
+permissions-site-microphone-desc = I seguenti siti web hanno richiesto il permesso di utilizzare il microfono. È possibile specificare quali siti web potranno accedere al dispositivo o bloccare direttamente le nuove richieste.
 permissions-site-microphone-disable-label =
     .label = Blocca nuove richieste di accesso al microfono
 permissions-site-microphone-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere al microfono. L’impossibilità di accedere al dispositivo potrebbe comportare il malfunzionamento di alcuni siti web.
