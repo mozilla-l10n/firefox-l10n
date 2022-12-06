@@ -7,3 +7,6 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = mozillaitalia.org - Francesco Lodolo
+# To credit multiple contributors, use a comma-delimited list.
+# Example: Joe Solon, Suzy Solon
+langpack-contributors = Associazione Italiana Supporto e Traduzione Mozilla, Francesco Lodolo, Iacopo Benesperi, Michele Dal Corso, Sandro Della Giustina, Simone Lando, Giacomo Magnini, Giuliano Masseroni
