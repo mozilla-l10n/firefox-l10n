@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Tudo pronto!
 firefoxview-mobile-confirmation-description = Agora pode obter os seus separadores do { -brand-product-name } a partir do seu tablet ou telemóvel.
 firefoxview-closed-tabs-title = Fechados recentemente
 firefoxview-closed-tabs-description2 = Reabrir as páginas que fechou nesta janela.
-firefoxview-closed-tabs-placeholder = <strong>Nenhuma página fechada recentemente</strong><br/>Nunca mais tenha receio de perder um separador fechado. Pode sempre recuperar o mesmo aqui.
 firefoxview-closed-tabs-placeholder-header = Nenhum separador fechado recentemente
 firefoxview-closed-tabs-placeholder-body = Quando fecha um separador nesta janela, pode obtê-lo a partir daqui.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Desativar { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ativo pela última vez
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Alterar estilo de cor
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ainda não há nada para ver</strong><br/>Da próxima vez que abrir uma página no { -brand-product-name } noutro dispositivo, obtenha-a aqui como por magia.
 firefoxview-synced-tabs-placeholder-header = Nada para ver ainda
 firefoxview-synced-tabs-placeholder-body = Da próxima vez que abrir uma página no { -brand-product-name } noutro dispositivo, obtenha-a aqui, como magia.
 firefoxview-collapse-button-show =
