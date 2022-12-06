@@ -6,6 +6,9 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = ٹیب ان لوڈنگ
+about-unloads-button-unload = ان لوڈ
+    .title = ترجیحاً ٹیب ان لوڈ کرو
 about-unloads-column-priority = ترجیح
 about-unloads-column-host = ہوسٹ
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }

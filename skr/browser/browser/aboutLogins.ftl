@@ -192,6 +192,8 @@ about-logins-error-message-default = ایں پاس ورڈ کوں سوگھا کر
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = لاگ ان فائل برآمد کرو
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -263,16 +265,30 @@ about-logins-import-report-row-index = قطار{ $number }
 about-logins-import-report-row-description-no-change = ڈپلیکیٹ: بالکل موجودہ لاگ ان نال رلدا ملدا
 about-logins-import-report-row-description-modified = موجودہ لاگ ان کوں اپڈیٹ کر ݙتا ڳئے
 about-logins-import-report-row-description-added = نواں لاگ ان شامل تھیا
+about-logins-import-report-row-description-error = نقص: خانہ خالی ہے
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = نقص: { $field } کیتے گھݨیاں قدراں
+about-logins-import-report-row-description-error-missing-field = نقص: { $field } خالی
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ڈپلیکیٹ لاگ ان</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ڈپلیکیٹ لاگ انز</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">نقص</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">نقص</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = درآمد دی خلاصہ رپورٹ

@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = سیشن بحال کرو
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = معذرت۔ اساکوں تہاݙے صفحات واپس آنݨ اِچ دشواری تھیندی پئی اے۔
+restore-page-problem-desc = چھیکڑی واری انٹرنیٹ استعمال سیشن دا معلوم نئیں تھیندا پیا۔ Restore Session کوں ولا کوشش کرݨ کیتے چݨو
+restore-page-hide-tabs = پچھلے ٹیب لُکاؤ
+restore-page-show-tabs = پچھلے ٹیب ݙیکھو
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -16,8 +22,17 @@ restore-page-list-header =
 restore-page-try-again-button =
     .label = سیشن بحال کرو
     .accesskey = R
+restore-page-close-button =
+    .label = نواں سیشن شروع کرو
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
 welcome-back-tab-title = کامیابی!
 welcome-back-page-title = کامیابی!
+welcome-back-page-info = { -brand-short-name } چلݨ کیتے تیار ہے۔
+welcome-back-restore-button =
+    .label = ڄُلوں!
+    .accesskey = L
+welcome-back-restore-all-label = سبھے ونڈوز تے ٹیبز بحال کرو
+welcome-back-restore-some-label = صرف اوہو بحال کرو جیڑھا تساں چاہندے او

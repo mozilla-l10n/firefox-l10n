@@ -11,7 +11,11 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ٹیگ شامل کرو
+pocket-panel-saved-error-generic = جݙاں { -pocket-brand-name } وِچ محفوظ کرݨ دی کوشش کیتی ڳئی تاں ہک نقص آڳئے۔
+pocket-panel-saved-error-tag-length = ٹیگز 25 حرفاں تائیں محدود ہن
+pocket-panel-saved-error-only-links = صرف لنک محفوط تھی سڳدے ہن
 pocket-panel-saved-error-not-saved = ورقہ محفوظ کائنی تھیا
+pocket-panel-saved-error-remove = ایں پیج کوں مسیندیں ہوئیں ہک نقص آ ڳیا ہا
 pocket-panel-saved-page-removed = ورقہ ہٹا ݙتا ڳیا
 pocket-panel-saved-page-saved = { -pocket-brand-name } وچ محفوظ تھیا
 pocket-panel-saved-page-saved-b = { -pocket-brand-name } وچ محفوظ تھیا!
