@@ -7,3 +7,6 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = mozilla.org
+# To credit multiple contributors, use a comma-delimited list.
+# Example: Joe Solon, Suzy Solon
+langpack-contributors = හෙළබස සමූහය, ධනිෂ්ක නවින්, කල්ප පැතුම්, ගයාන් කල්හාර, රෝහන දසනායක, ශ්‍රීෂානු ලොකුපතිරගේ, හර්ෂණ වීරසිංහ, ළහිරු හිමේෂ්, නුවන් ඉන්දික, ලොහාන් ගුණවීර
