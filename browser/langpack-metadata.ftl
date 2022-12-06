@@ -7,3 +7,6 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = Mozilla.cz
+# To credit multiple contributors, use a comma-delimited list.
+# Example: Joe Solon, Suzy Solon
+langpack-contributors = Pavel Cvrček, Pavel Franc, Jan Havlena, Filip Hruška, Michal Stanke, Michal Vašíček, Tomáš Zelina
