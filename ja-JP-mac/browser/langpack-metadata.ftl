@@ -7,3 +7,6 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = Mozilla Japanese L10N Community
+# To credit multiple contributors, use a comma-delimited list.
+# Example: Joe Solon, Suzy Solon
+langpack-contributors = Hiroki Abe, Makoto Arai, Tomoya Asai, Hideyuki EMURA, Shaw Hosaka, Joji Ikeda, Masahiko Imanaka, Kosuke Kaizuka, Hidehiro Kozawa, Teiji Matsuba, Shigeki Narisawa, Takeshi Nishimura, Toshiyuki Oka, Atsushi Sakai, Hiroshi Sekiya, Youhei Tooyama, Satoru Yamaguchi
