@@ -7,3 +7,6 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = firefox.no
+# To credit multiple contributors, use a comma-delimited list.
+# Example: Joe Solon, Suzy Solon
+langpack-contributors = Vebjørn Sture, Torstein Hønsi, Kurt-Rune Bergset, Ronny Vårdal, Tom Ottar Røw, Kristian Svanes, Åsmund Skjæveland, Erik Klepsvik, Håvar Henriksen, Håvard Mork, Jan-Espen Pettersen, Pascual Strømsnæs, Bjørn I. Svindseth
