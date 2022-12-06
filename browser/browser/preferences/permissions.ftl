@@ -5,81 +5,65 @@
 permissions-window =
     .title = חריגות
     .style = width: 36em
-
 permissions-window2 =
     .title = חריגות
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = כתובת אתר
     .accesskey = ת
-
 permissions-block =
     .label = חסום
     .accesskey = ח
-
+permissions-disable-etp =
+    .label = הוספת חריגה
+    .accesskey = ח
 permissions-session =
     .label = הרשה למשך ההפעלה
     .accesskey = מ
-
 permissions-allow =
     .label = הרשה
     .accesskey = ש
-
 permissions-button-off =
     .label = כיבוי
     .accesskey = כ
-
 permissions-button-off-temporarily =
     .label = כיבוי באופן זמני
     .accesskey = ז
-
 permissions-site-name =
     .label = אתר
-
 permissions-status =
     .label = מצב
-
 permissions-remove =
     .label = הסרת אתר
     .accesskey = ה
-
 permissions-remove-all =
     .label = הסרת כל האתרים
     .accesskey = ס
-
 permission-dialog =
     .buttonlabelaccept = שמירת שינויים
     .buttonaccesskeyaccept = ש
-
 permissions-autoplay-menu = ברירת מחדל עבור כל האתרים:
-
 permissions-searchbox =
     .placeholder = חיפוש אתר
-
 permissions-capabilities-autoplay-allow =
     .label = הפעלת שמע ווידאו
 permissions-capabilities-autoplay-block =
     .label = חסימת שמע
 permissions-capabilities-autoplay-blockall =
     .label = חסימת שמע ווידאו
-
 permissions-capabilities-allow =
     .label = הרשה
 permissions-capabilities-block =
     .label = חסום
 permissions-capabilities-prompt =
     .label = לשאול תמיד
-
 permissions-capabilities-listitem-allow =
     .value = הרשה
 permissions-capabilities-listitem-block =
     .value = חסום
 permissions-capabilities-listitem-allow-session =
     .value = הרשה למשך ההפעלה
-
 permissions-capabilities-listitem-off =
     .value = כבוי
 permissions-capabilities-listitem-off-temporarily =
@@ -95,7 +79,6 @@ permissions-invalid-uri-label = אנא הכנס שם מארח חוקי
 permissions-exceptions-etp-window =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window2.style }
@@ -106,7 +89,6 @@ permissions-exceptions-etp-desc = ביטלת את ההגנות באתרים אל
 permissions-exceptions-cookie-window =
     .title = חריגות - עוגיות ונתוני אתרים
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = חריגות - עוגיות ונתוני אתרים
     .style = { permissions-window2.style }
@@ -117,7 +99,6 @@ permissions-exceptions-cookie-desc = באפשרותך לציין לאלו אתר
 permissions-exceptions-https-only-window =
     .title = חריגות - מצב HTTPS בלבד
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = חריגות - מצב HTTPS בלבד
     .style = { permissions-window2.style }
@@ -128,7 +109,6 @@ permissions-exceptions-https-only-desc = באפשרותך לכבות את מצב
 permissions-exceptions-popup-window =
     .title = אתרים מורשים - חלונות קופצים
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = אתרים מורשים - חלונות קופצים
     .style = { permissions-window2.style }
@@ -139,7 +119,6 @@ permissions-exceptions-popup-desc = באפשרותך לציין לאלו אתר�
 permissions-exceptions-saved-logins-window =
     .title = חריגות – פרטי כניסה שמורים
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = חריגות – פרטי כניסה שמורים
     .style = { permissions-window2.style }
@@ -150,7 +129,6 @@ permissions-exceptions-saved-logins-desc = פרטי הכניסה לאתרים ה
 permissions-exceptions-addons-window =
     .title = אתרים מורשים - התקנת תוספות
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = אתרים מורשים - התקנת תוספות
     .style = { permissions-window2.style }
@@ -161,7 +139,6 @@ permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתר
 permissions-site-autoplay-window =
     .title = הגדרות - ניגון אוטומטי
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = הגדרות - ניגון אוטומטי
     .style = { permissions-window2.style }
@@ -171,7 +148,6 @@ permissions-site-autoplay-window2 =
 permissions-site-notification-window =
     .title = הגדרות - הרשאות להתרעות
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = הגדרות - הרשאות להתרעות
     .style = { permissions-window2.style }
@@ -185,7 +161,6 @@ permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרי
 permissions-site-location-window =
     .title = הגדרות - הרשאות מיקום
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = הגדרות - הרשאות מיקום
     .style = { permissions-window2.style }
@@ -199,7 +174,6 @@ permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים �
 permissions-site-xr-window =
     .title = הגדרות - הרשאות מציאות מדומה
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = הגדרות - הרשאות מציאות מדומה
     .style = { permissions-window2.style }
@@ -213,7 +187,6 @@ permissions-site-xr-disable-desc = הגדרה זו תמנע מאתרים שלא 
 permissions-site-camera-window =
     .title = הגדרות - הרשאות מצלמה
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = הגדרות - הרשאות מצלמה
     .style = { permissions-window2.style }
@@ -227,7 +200,6 @@ permissions-site-camera-disable-desc = הגדרה זו תמנע מאתרים ש�
 permissions-site-microphone-window =
     .title = הגדרות - הרשאות מיקרופון
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = הגדרות - הרשאות מיקרופון
     .style = { permissions-window2.style }
