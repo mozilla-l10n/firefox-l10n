@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 ¡Eguerahakuaáma!
 firefoxview-mobile-confirmation-description = Ko’ág̃a ikatu ehecha { -brand-product-name } rendayke nde tabléta térã pumbyry guive.
 firefoxview-closed-tabs-title = Oñembotyramovéva
 firefoxview-closed-tabs-description2 = Embojurujajey kuatiarogue embotýva ko ovetãme.
-firefoxview-closed-tabs-placeholder = <strong>Ndaipóri kuatiarogue oñembotyramóva</strong><br/>Ani ekyhyje tendayke oñembotyjeývagui. Eguerukuaajey ko’ápe.
 firefoxview-closed-tabs-placeholder-header = Ndaipóri tendayke oñembotyramóva
 firefoxview-closed-tabs-placeholder-body = Embotývo peteĩ tendayke ko ovetãme, ehekakuaa ko’a guive.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Emboyke { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hendyramovéva
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Emoambue sa’y ojueheguáva
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ndaipóri gueteri jehecharã</strong><br/>Embojurujajeývo kuatiarogue { -brand-product-name } ndive ambue mba’e’okápe, ehecháta ko’ápe mba’eve’ỹre.
 firefoxview-synced-tabs-placeholder-header = Ndaipóri jehecharã
 firefoxview-synced-tabs-placeholder-body = Embojurujajeývo kuatiarogue { -brand-product-name }-pe ambue mba’e’okápe, osẽta ko’ápe ha’eñoreínte.
 firefoxview-collapse-button-show =
