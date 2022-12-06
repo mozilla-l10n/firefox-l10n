@@ -15,6 +15,9 @@ permissions-address = Адреса веб-сајта:
 permissions-block =
     .label = Блокирај
     .accesskey = Б
+permissions-disable-etp =
+    .label = Додај изузетак
+    .accesskey = и
 permissions-session =
     .label = Дозволи док траје сесија
     .accesskey = о
@@ -80,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Побољшана заштита од праћења – изузеци
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Искључили сте заштиту на овим веб-сајтовима.
+permissions-exceptions-manage-etp-desc = Можете да наведете који сајтови имају искључену побољшану заштиту од праћења. Унесите тачну адресу сајта којим желите да управљате и кликните на Додај изузетак.
 
 ## Exceptions - Cookies
 
