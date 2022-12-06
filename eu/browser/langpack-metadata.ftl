@@ -6,6 +6,7 @@
 ## Strings used to define the metadata of langpacks published on addons.mozilla.org.
 ## Only text elements and literals are supported for these strings.
 
+langpack-creator = mozilla.org
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Librezale.org
