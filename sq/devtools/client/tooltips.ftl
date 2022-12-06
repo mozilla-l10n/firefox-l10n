@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është tabelë.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> s’ka ndikim mbi këtë element, ngaqë ky nuk kryen rrëshqitje.
 inactive-css-border-image = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’mund të aplikohet mbi elementë tabelash të brendshme, kur <strong>border-collapse</strong> është caktuar si <strong>collapse</strong>, te elementi i tabelës mëmë.
+inactive-css-ruby-element = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë është një element ruby. Madhësia e tij përcaktohet nga madhësia e shkronjave të tekstit ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -54,6 +55,7 @@ inactive-css-not-for-internal-table-elements-fix = Provoni të vini vetinë e ti
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provoni të vini vetinë e tij <strong>display</strong> si diçka tjetër nga <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ose <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Provoni të shtoni <strong>display:table</strong> ose <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Provoni të shtoni <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, ose <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-border-image-fix = Te elementi i tabelës mëmë, hiqni vetinë ose ndryshoni vlerën <strong>border-collapse</strong> me një vlerë tjetër nga <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Provoni të ndryshoni <strong>font-size</strong> të tekstit Ruby. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
