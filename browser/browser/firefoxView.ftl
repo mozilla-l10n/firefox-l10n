@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Výborne!
 firefoxview-mobile-confirmation-description = Teraz si môžete vziať karty z { -brand-product-name(case: "gen") } v tablete alebo telefóne.
 firefoxview-closed-tabs-title = Nedávno zatvorené
 firefoxview-closed-tabs-description2 = V tomto okne znova otvorte stránky, ktoré ste zatvorili.
-firefoxview-closed-tabs-placeholder = <strong>Žiadne nedávno zatvorené stránky</strong><br/>Už sa nemusíte báť, že stratíte zatvorenú kartu. Vždy ju môžete nájsť na tomto mieste.
 firefoxview-closed-tabs-placeholder-header = Žiadne nedávno zatvorené karty
 firefoxview-closed-tabs-placeholder-body = Keď zatvoríte kartu v tomto okne, môžete ju opätovne získať tu.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Odstrániť { $tabTitle } zo zoznamu
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Naposledy prezerané
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Zmeniť farebnú tému
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Zatiaľ tu nie je nič</strong><br/>Keď však nabudúce otvoríte stránku vo { -brand-product-name(case: "loc") } na inom zariadení, akoby zázrakom ju nájdete aj tu.
 firefoxview-synced-tabs-placeholder-header = Zatiaľ tu nič nie je
 firefoxview-synced-tabs-placeholder-body = Keď nabudúce otvoríte stránku vo { -brand-product-name(case: "loc") } na inom zariadení, ako zázrakom ju nájdete aj tu.
 firefoxview-collapse-button-show =
