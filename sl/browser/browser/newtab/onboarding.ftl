@@ -25,6 +25,11 @@ return-to-amo-addon-title = Zdaj pa dodajte <img data-l10n-name="icon"/> <b>{ $a
 return-to-amo-add-extension-label = Dodaj razširitev
 return-to-amo-add-theme-label = Dodaj temo
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Spoznajte { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Dodaj { $addon-name }
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -327,44 +332,30 @@ mr2022-onboarding-colorway-subtitle = Neodvisni glasovi lahko spreminjajo kultur
 mr2022-onboarding-colorway-primary-button-label-continue = Nastavi in nadaljuj
 mr2022-onboarding-existing-colorway-checkbox-label = Naj bo { -firefox-home-brand-name } vaša barvita domača stran
 mr2022-onboarding-colorway-label-default = Privzeta
-mr2022-onboarding-colorway-tooltip-default =
-    .title = Privzeta
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Trenutne barve { -brand-short-name(sklon: "rodilnik") }
 mr2022-onboarding-colorway-description-default = <b>Uporabi moje trenutne barve { -brand-short-name(sklon: "rodilnik") }.</b>
 mr2022-onboarding-colorway-label-playmaker = Organizator igre
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Organizator igre
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Organizator igre (rdeča)
 mr2022-onboarding-colorway-description-playmaker = <b>Ste organizator igre.</b> Ustvarjate priložnosti za zmago in vsem okoli sebe pomagate igrati bolje.
 mr2022-onboarding-colorway-label-expressionist = Ekspresionist
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Ekspresionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresionist (rumena)
 mr2022-onboarding-colorway-description-expressionist = <b>Ste ekspresionist.</b> Svet vidite drugače in vaše stvaritve pri drugih vzbujajo čustva.
 mr2022-onboarding-colorway-label-visionary = Vizionar
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = Vizionar
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Vizionar (zelena)
 mr2022-onboarding-colorway-description-visionary = <b>Ste vizionar.</b> Ne sprijaznite se s statusom quo in drugim predstavljate boljšo prihodnost.
 mr2022-onboarding-colorway-label-activist = Aktivist
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = Aktivist
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Aktivist (modra)
 mr2022-onboarding-colorway-description-activist = <b>Ste aktivist.</b> Svet pustite boljši, kot ste ga našli, in prepričate druge, da verjamejo.
 mr2022-onboarding-colorway-label-dreamer = Sanjač
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = Sanjač
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Sanjač (vijolična)
 mr2022-onboarding-colorway-description-dreamer = <b>Ste sanjač.</b> Verjamete, da je sreča naklonjena hrabrim, in drugim vlivate pogum.
 mr2022-onboarding-colorway-label-innovator = Inovator
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = Inovator
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Inovator (oranžna)
 mr2022-onboarding-colorway-description-innovator = <b>Ste inovator.</b> V vsem vidite priložnosti in vplivate na življenja vseh okoli sebe.

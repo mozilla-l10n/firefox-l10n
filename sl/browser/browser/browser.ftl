@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Razumem
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Namig:
+urlbar-result-menu-button =
+    .title = Odpri meni
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -937,6 +939,15 @@ private-browsing-indicator-label = Zasebno brskanje
 unified-extensions-button =
     .label = Razširitve
     .tooltiptext = Razširitve
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Razširitve
+    .tooltiptext =
+        Razširitve
+        Potrebna so dovoljenja
 
 ## Autorefresh blocker
 

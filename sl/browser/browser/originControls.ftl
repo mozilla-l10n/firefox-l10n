@@ -8,6 +8,8 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = Razširitev ne more brati ali spreminjati podatkov
 origin-controls-options =
     .label = Razširitev lahko bere ali spreminja podatke:
 origin-controls-option-all-domains =
@@ -26,4 +28,23 @@ origin-controls-option-always-on =
 
 origin-controls-state-no-access = Nima dostopa do podatkov na tej strani
 origin-controls-state-always-on = Lahko bere ali spreminja podatke na tej strani
+origin-controls-state-when-clicked = Za branje in spreminjanje podatkov potrebuje dovoljenje
 origin-controls-state-hover-run-visit-only = Zaženi le ob tem obisku
+origin-controls-state-runnable-hover-open = Odpri razširitev
+origin-controls-state-runnable-hover-run = Zaženi razširitev
+origin-controls-state-temporary-access = Lahko bere ali spreminja podatke ta obisk
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Potrebno je dovoljenje
