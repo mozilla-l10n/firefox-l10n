@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = 향상된 추적 방지 기능에 대한 예외
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = 다음 웹 사이트에서 보호 기능을 껐습니다.
+permissions-exceptions-manage-etp-desc = 향상된 추적 방지 기능을 끌 웹사이트를 지정할 수 있습니다. 관리하려는 사이트의 정확한 주소를 입력하고 예외 추가를 누르세요.
 
 ## Exceptions - Cookies
 
