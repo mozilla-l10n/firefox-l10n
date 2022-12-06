@@ -7,3 +7,6 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = Aviary.pl
+# To credit multiple contributors, use a comma-delimited list.
+# Example: Joe Solon, Suzy Solon
+langpack-contributors = Aviary.pl, Zbigniew Braniecki, Marek Stępień, Piotr Komoda, Marek Wawoczny, Piotr Bartecki, Kornel Misiejuk, Wadim Dziedzic, Stefan Plewako
