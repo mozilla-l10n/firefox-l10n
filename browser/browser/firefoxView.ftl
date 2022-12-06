@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = Barod i fynd!
 firefoxview-mobile-confirmation-description = Nawr gallwch chi gydio ar eich tabiau { -brand-product-name } o'ch tabled neu ffôn.
 firefoxview-closed-tabs-title = Caewyd yn ddiweddar
 firefoxview-closed-tabs-description2 = Ail-agorwch dudalennau rydych wedi'u cau yn y ffenestr hon.
-firefoxview-closed-tabs-placeholder = <strong>Dim tudalennau sydd wedi cau yn ddiweddar</strong><br/>Peidiwch byth ag ofni colli tab wedi ei gau eto. Gallwch chi bob amser ei adfer yma.
 firefoxview-closed-tabs-placeholder-header = Dim tabiau sydd wedi'u cau yn ddiweddar
 firefoxview-closed-tabs-placeholder-body = Pan fyddwch yn cau tab yn y ffenestr hon, gallwch chi ei nôl o'r fan hon.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Cau { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Gweithgaredd diwethaf
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Newid y llwybr lliw
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Dim byd yma eto</strong><br/>Y tro nesaf y byddwch yn agor tudalen yn { -brand-product-name } ar ddyfais arall, cydiwch arno'n hudol.
 firefoxview-synced-tabs-placeholder-header = Dim byd i'w weld eto
 firefoxview-synced-tabs-placeholder-body = Y tro nesaf y byddwch yn agor tudalen yn { -brand-product-name } ar ddyfais arall, cydiwch ynddo yma.
 firefoxview-collapse-button-show =
