@@ -5,81 +5,65 @@
 permissions-window =
     .title = 例外網站
     .style = width: 45em
-
 permissions-window2 =
     .title = 例外網站
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = 網站網址
     .accesskey = d
-
 permissions-block =
     .label = 封鎖
     .accesskey = B
-
+permissions-disable-etp =
+    .label = 新增例外網站
+    .accesskey = E
 permissions-session =
     .label = 此次瀏覽階段允許
     .accesskey = S
-
 permissions-allow =
     .label = 允許
     .accesskey = A
-
 permissions-button-off =
     .label = 關閉
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = 暫時關閉
     .accesskey = T
-
 permissions-site-name =
     .label = 網站
-
 permissions-status =
     .label = 狀態
-
 permissions-remove =
     .label = 移除網站
     .accesskey = R
-
 permissions-remove-all =
     .label = 移除所有網站
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = 儲存變更
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = 對所有網站的預設行為:
-
 permissions-searchbox =
     .placeholder = 搜尋網站
-
 permissions-capabilities-autoplay-allow =
     .label = 允許自動播放影音內容
 permissions-capabilities-autoplay-block =
     .label = 封鎖音訊
 permissions-capabilities-autoplay-blockall =
     .label = 封鎖影音內容
-
 permissions-capabilities-allow =
     .label = 允許
 permissions-capabilities-block =
     .label = 阻擋
 permissions-capabilities-prompt =
     .label = 總是詢問
-
 permissions-capabilities-listitem-allow =
     .value = 允許
 permissions-capabilities-listitem-block =
     .value = 阻擋
 permissions-capabilities-listitem-allow-session =
     .value = 此次瀏覽階段允許
-
 permissions-capabilities-listitem-off =
     .value = 關閉
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +79,17 @@ permissions-invalid-uri-label = 請輸入正確的主機名稱
 permissions-exceptions-etp-window =
     .title = 加強型追蹤保護的例外
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = 加強型追蹤保護的例外
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = 您已針對下列網站關閉保護。
+permissions-exceptions-manage-etp-desc = 您可以指定要針對哪些網站關閉加強型追蹤保護。請輸入完整網址後，點擊「新增例外網站」。
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = 例外 - Cookie 與網站資料
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = 例外 - Cookie 與網站資料
     .style = { permissions-window2.style }
@@ -117,7 +100,6 @@ permissions-exceptions-cookie-desc = 您可以指定哪些網站是否可以設�
 permissions-exceptions-https-only-window =
     .title = 例外 - 純 HTTPS 模式
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = 例外 - 純 HTTPS 模式
     .style = { permissions-window2.style }
@@ -128,7 +110,6 @@ permissions-exceptions-https-only-desc = 您可以針對特定網站關閉純 HT
 permissions-exceptions-popup-window =
     .title = 允許彈出視窗的網站
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = 允許彈出視窗的網站
     .style = { permissions-window2.style }
@@ -139,7 +120,6 @@ permissions-exceptions-popup-desc = 您可以指定哪些網站可以開啟彈�
 permissions-exceptions-saved-logins-window =
     .title = 儲存的登入資訊 - 例外
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = 儲存的登入資訊 - 例外
     .style = { permissions-window2.style }
@@ -150,7 +130,6 @@ permissions-exceptions-saved-logins-desc = 將不會儲存下列網站的登入�
 permissions-exceptions-addons-window =
     .title = 允許安裝附加元件的網站
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = 允許安裝附加元件的網站
     .style = { permissions-window2.style }
@@ -161,7 +140,6 @@ permissions-exceptions-addons-desc = 您可以指定哪些網站可以安裝附�
 permissions-site-autoplay-window =
     .title = 設定 - 自動播放
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = 設定 - 自動播放
     .style = { permissions-window2.style }
@@ -172,7 +150,6 @@ permissions-site-autoplay-desc = 您可以在此處管理不遵守預設自動�
 permissions-site-notification-window =
     .title = 設定 - 通知權限
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = 設定 - 通知權限
     .style = { permissions-window2.style }
@@ -186,7 +163,6 @@ permissions-site-notification-disable-desc = 將防止上列以外的網站請�
 permissions-site-location-window =
     .title = 設定 - 位置權限
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = 設定 - 位置權限
     .style = { permissions-window2.style }
@@ -200,7 +176,6 @@ permissions-site-location-disable-desc = 將防止上列以外的網站請您允
 permissions-site-xr-window =
     .title = 設定 - 虛擬實境權限
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = 設定 - 虛擬實境權限
     .style = { permissions-window2.style }
@@ -214,7 +189,6 @@ permissions-site-xr-disable-desc = 將防止上列以外的網站請求使用您
 permissions-site-camera-window =
     .title = 設定 - 攝影機權限
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = 設定 - 攝影機權限
     .style = { permissions-window2.style }
@@ -228,7 +202,6 @@ permissions-site-camera-disable-desc = 將防止上列以外的網站請您允�
 permissions-site-microphone-window =
     .title = 設定 - 麥克風權限
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = 設定 - 麥克風權限
     .style = { permissions-window2.style }
