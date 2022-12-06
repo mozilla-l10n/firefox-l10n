@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Kész is van.
 firefoxview-mobile-confirmation-description = Most már átveheti a { -brand-product-name } lapjait a táblagépéről vagy telefonjáról.
 firefoxview-closed-tabs-title = Nemrég bezárt
 firefoxview-closed-tabs-description2 = Az ebben az ablakban bezárt oldalak újranyitása.
-firefoxview-closed-tabs-placeholder = <strong>Nincsenek nemrég bezárt oldalak</strong><br/>Soha többé ne féljen egy bezárt lap elvesztésétől. Itt bármikor visszakeresheti.
 firefoxview-closed-tabs-placeholder-header = Nincsenek nemrég bezárt lapok
 firefoxview-closed-tabs-placeholder-body = Ha bezár egy lapot ebben az ablakban, innen kérheti le.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = A(z) { $tabTitle } eltüntetése
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Utoljára aktív
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Színvilág módosítása
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Még nincs semmi látnivaló</strong><br/>Ha legközelebb kinyit egy oldalt a { -brand-product-name }ben vagy egy másik eszközön, akkor itt varázsütésre átveheti.
 firefoxview-synced-tabs-placeholder-header = Még nincs semmi látnivaló
 firefoxview-synced-tabs-placeholder-body = Amikor legközelebb megnyit egy oldalt a { -brand-product-name }ban egy másik eszközön, akkor itt varázsütésre megtalálja.
 firefoxview-collapse-button-show =
