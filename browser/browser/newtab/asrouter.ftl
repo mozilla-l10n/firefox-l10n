@@ -209,6 +209,7 @@ firefoxview-cfr-secondarybutton = Daha sonra
 firefoxview-cfr-header = { -firefoxview-brand-name } ile son kapattığınız sekmeleri kurtarın
 firefoxview-cfr-body = Ayrıca cihazlar arasında sorunsuzca geçiş yapın ve tarayıcınıza renk katın.
 firefoxview-cfr-header-v2 = Kaldığınız yerden hızlıca devam edin
+firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ile yakın zamanda kapattığınız sekmeleri geri getirebilir ve cihazlarınız arasında kolayca şekilde geçiş yapabilirsiniz.
 
 ## Firefox View Spotlight
 
