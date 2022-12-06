@@ -207,6 +207,8 @@ firefoxview-cfr-secondarybutton = Jo tani
     .accesskey = J
 firefoxview-cfr-header = Rimerrni skeda të mbyllura së fundi, me { -firefoxview-brand-name }
 firefoxview-cfr-body = Plus kaloni si pa u kuptuar nga një pajisje në tjetrën, si dhe shtojini shfletuesit tuaj një stërkalë ngjyrimi.
+firefoxview-cfr-header-v2 = Vazhdoni pa humbur kohë atje ku e latë
+firefoxview-cfr-body-v2 = Rikthehuni te skeda të mbyllura së fundi, plus hidhuni rrjedhshëm sa në një pajisje në një tjetër, me { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 

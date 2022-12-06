@@ -931,6 +931,13 @@ unified-extensions-button =
     .label = Zgjerime
     .tooltiptext = Zgjerime
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Zgjerime
+    .tooltiptext = Zgjerime
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }-i i pengoi kësaj faqeje ringarkimin e vetvetishëm.
