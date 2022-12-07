@@ -145,7 +145,14 @@ appmenu-get-help =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-not-deceptive =
+    .label = اے دروہی سائٹ کائنی۔۔۔
+    .accesskey = d
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = ٹول بار دی تخصیص کرو…
 appmenu-developer-tools-subheader = ٹولز براؤز کرو
+appmenu-developer-tools-extensions =
+    .label = ڈیویلپرز کیتے توسیع

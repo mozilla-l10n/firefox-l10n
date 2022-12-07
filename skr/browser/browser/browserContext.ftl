@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] تاریخ ݙکھاوݨ کیتے تلے چھِکو
+           *[other] تاریخ ݙکھاوݨ کیتے تلے چھکو یا رائٹ کلک کرو
+        }
 
 ## Back
 
@@ -12,6 +18,10 @@ toolbar-button-back-2 =
 
 ## Forward
 
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = اڳو تے
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -31,6 +41,13 @@ toolbar-button-reload =
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = رک ونڄو
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = رک ونڄو
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -47,9 +64,40 @@ toolbar-button-fxaccount =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = ورقہ ہتھیکڑا کرو بطور …
+    .accesskey = P
 
 ## Simple menu items
 
+main-context-menu-bookmark-add =
+    .aria-label = ایں ورقے تے نشانی لاؤ
+    .accesskey = m
+    .tooltiptext = ایں ورقے تے نشانی لاؤ
+main-context-menu-open-link =
+    .label = لنک کھولو
+    .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = نویں ٹیب اِچ لنک کھولو
+    .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = نویں کنٹینر ٹیب اِچ لنک کھولو
+    .accesskey = W
+main-context-menu-open-link-new-window =
+    .label = نویں ونڈو اِچ لنک کھولو
+    .accesskey = d
+main-context-menu-open-link-new-private-window =
+    .label = نویں نجی ونڈو وِچ لنک کھولو
+    .accesskey = P
+main-context-menu-bookmark-link =
+    .label = بک مارک لنک
+    .accesskey = B
+main-context-menu-bookmark-link-2 =
+    .label = بک مارک لنک …
+    .accesskey = B
+main-context-menu-save-link =
+    .label = لنک ہتھیکڑا کرو بطور …
+    .accesskey = k
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -62,9 +110,24 @@ toolbar-button-fxaccount =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = چلاؤ
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = روکو
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = خاموشی
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = خاموشی ختم کرو
+    .accesskey = m
+main-context-menu-media-play-speed-2 =
+    .label = رفتار
+    .accesskey = d
 main-context-menu-media-play-speed-slow-2 =
     .label = 0.5×
 main-context-menu-media-play-speed-normal-2 =
@@ -75,13 +138,28 @@ main-context-menu-media-play-speed-faster-2 =
     .label = 1.5×
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
+main-context-menu-media-loop =
+    .label = لوپ
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = کنٹرول ݙکھاؤ
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = کنٹرول لُکاؤ
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = پوری سکرین
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = فل سکرین مُکاؤ
+    .accesskey = u
 main-context-menu-plugin-play =
     .label = ایہ پلگ ان فعال کرو
     .accesskey = c
