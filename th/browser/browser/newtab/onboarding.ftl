@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = เพิ่มธีม
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = พบกับ { -brand-short-name }
+mr1-return-to-amo-addon-title = คุณได้เบราว์เซอร์ที่รวดเร็วและเป็นส่วนตัวมาอยู่ในปลายนิ้วมือของคุณแล้ว ตอนนี้คุณสามารถเพิ่ม <b>{ $addon-name }</b> และทำสิ่งต่าง ๆ ได้มากขึ้นด้วย { -brand-short-name }
 mr1-return-to-amo-add-extension-label = เพิ่ม { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)

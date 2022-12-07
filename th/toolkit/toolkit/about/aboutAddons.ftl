@@ -142,6 +142,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = สิทธิอนุญาตไซต์
 addon-category-sitepermission-title =
     .title = สิทธิอนุญาตไซต์
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = สิทธิอนุญาตไซต์สำหรับ { $host }
 
 ## These are global warnings
 
