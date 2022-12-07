@@ -33,7 +33,7 @@ update-unsupported = Non è possibile installare ulteriori aggiornamenti su ques
 
 update-restarting = Riavvio…
 
-update-internal-error = Impossibile verificare la presenza di aggiornamenti a causa di un errore interno. Aggiornamenti disponibili a <label data-l10n-name="manual-link"/>
+update-internal-error = Impossibile verificare la disponibilità di aggiornamenti a causa di un errore interno. Aggiornamenti disponibili a <label data-l10n-name="manual-link"/>
 
 channel-description = Canale di aggiornamento attuale: <label data-l10n-name="current-channel"></label>.
 
