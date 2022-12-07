@@ -15,6 +15,9 @@ permissions-address = Нишонии сомона
 permissions-block =
     .label = Манъ кардан
     .accesskey = М
+permissions-disable-etp =
+    .label = Илова кардани истисно
+    .accesskey = И
 permissions-session =
     .label = Барои ҷаласа иҷозат додан
     .accesskey = Б
@@ -80,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Истисноҳо барои муҳофизати такмилёфта аз пайгирӣ
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Шумо барои сомонаҳои зерин муҳофизатро ғайрифаъол кардед.
+permissions-exceptions-manage-etp-desc = Шумо метавонед муайян кунед, ки кадом сомонаҳо «Муҳофизати такмилёфта аз пайгирӣ»-ро хомӯш мекунанд. Нишонии дақиқи сомонаеро, ки мехоҳед идора кунед, ворид намоед ва пас тугмаи «Илова кардани истисно»-ро зер кунед.
 
 ## Exceptions - Cookies
 
