@@ -2,8 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+privatebrowsingpage-open-private-window-label = نجی ونڈو کھولو
+    .accesskey = p
+about-private-browsing-search-placeholder = ویب ڳولو
+about-private-browsing-info-title = تساں ہک نجی ونڈو وِچ ہو
 about-private-browsing-search-btn =
     .title = ویب ڳولو
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = { $engine } دی مدد نال ڳولو یا پتہ درج کرو
+about-private-browsing-handoff-no-engine =
+    .title = ڳولو یا پتہ درج کرو
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = { $engine } دی مدد نال ڳولو یا پتہ درج کرو
 about-private-browsing-learn-more-link = ٻیا سِکھو
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } نال نجی راہوو
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ کرو
