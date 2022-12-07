@@ -61,6 +61,10 @@ firefoxview-tabpickup-password-locked-description = Per recuperare le tue schede
 firefoxview-tabpickup-password-locked-link = Ulteriori informazioni
 firefoxview-tabpickup-password-locked-primarybutton = Inserisci la password principale
 
+firefoxview-tabpickup-signed-out-header = Accedi per riconnetterti
+firefoxview-tabpickup-signed-out-description = Per riconnetterti e recuperare le tue schede, accedi al tuo { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-primarybutton = Accedi
+
 firefoxview-tabpickup-syncing = Stiamo sincronizzando le tue schede, ci vorrà solo un attimo.
 
 firefoxview-mobile-promo-header = Recupera le schede aperte sul tuo telefono o tablet
