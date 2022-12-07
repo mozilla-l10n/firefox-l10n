@@ -389,8 +389,13 @@ mr2022-onboarding-gratitude-secondary-button-label = Přehladowanje započeć
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Čujće so kaž doma
 onboarding-infrequent-import-primary-button = Do { -brand-short-name } importować
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-default-image-alt =
+    .aria-label = Wosoba, kotraž logo { -brand-product-name } wobjima
+mr2022-onboarding-import-image-alt =
+    .aria-label = Wosoba, kotraž skateboard z tyzu softwarowych symbolow jězdźi
