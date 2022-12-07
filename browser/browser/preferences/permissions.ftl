@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Выключэнні для ўзмоцненай аховы ад сачэння
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Вы адключылі ахову на гэтых сайтах.
+permissions-exceptions-manage-etp-desc = Вы можаце вызначыць, на якіх вэб-сайтах узмоцненая ахова ад сачэння будзе выключана. Набярыце дакладны адрас сайта, а затым націсніце «Дадаць выключэнне».
 
 ## Exceptions - Cookies
 
