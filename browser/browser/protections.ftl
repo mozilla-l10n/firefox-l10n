@@ -62,7 +62,7 @@ protections-close-button2 =
     .title = Затвори
 mobile-app-title = Блокирајте огласе која вас прате на више уређаја
 mobile-app-card-content = Користите мобилни прегледач са уграђеном заштитом од рекламног праћења.
-mobile-app-links = { -brand-product-name } прегледач за <a data-l10n-name="android-mobile-inline-link">Андроид</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+mobile-app-links = { -brand-product-name } прегледач за <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Немојте поново заборавити лозинку
 passwords-title-logged-in = Управљајте вашим лозинкама
 passwords-header-content = { -brand-product-name } сигурно погхрањује ваше лозинке у вашем прегледачу.
