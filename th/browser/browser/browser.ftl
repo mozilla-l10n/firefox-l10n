@@ -98,7 +98,7 @@ urlbar-eme-notification-anchor =
 urlbar-web-authn-anchor =
     .tooltiptext = เปิดแผง ​Web Authentication
 urlbar-canvas-notification-anchor =
-    .tooltiptext = จัดการสิทธิอนุญาตการส่งออกผืนผ้าใบ
+    .tooltiptext = จัดการสิทธิ์อนุญาตการสกัดข้อมูลจาก canvas
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = จัดการการแบ่งปันไมโครโฟนของคุณกับไซต์
 urlbar-default-notification-anchor =
@@ -118,7 +118,7 @@ urlbar-indexed-db-notification-anchor =
 urlbar-password-notification-anchor =
     .tooltiptext = เปิดแผงข้อความบันทึกรหัสผ่าน
 urlbar-translated-notification-anchor =
-    .tooltiptext = จัดการการแปลหน้านี้
+    .tooltiptext = จัดการการแปลหน้า
 urlbar-plugins-notification-anchor =
     .tooltiptext = จัดการการใช้ปลั๊กอิน
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -152,6 +152,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = พิมพ์น้อยลง ค้นหามากขึ้น: ค้นหา { $engineName } โดยตรงจากแถบที่อยู่ของคุณ
 urlbar-search-tips-redirect-2 = เริ่มการค้นหาของคุณในแถบที่อยู่เพื่อดูข้อเสนอแนะจาก { $engineName } และประวัติการเรียกดูของคุณ
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = ตอนนี้การค้นหาทำได้ง่ายขึ้นแล้ว ลองทำให้การค้นหาของคุณเจาะจงขึ้นที่นี่ในแถบที่อยู่ เมื่อต้องการแสดง URL แทน ให้ไปที่ การค้นหา ในการตั้งค่า
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = เลือกทางลัดนี้เพื่อค้นหาสิ่งที่คุณต้องการได้เร็วขึ้น
@@ -316,7 +318,7 @@ quickactions-screenshot2 = จับภาพหน้าจอ
 quickactions-cmd-screenshot = ภาพหน้าจอ
 # Opens about:preferences
 quickactions-settings = เปิดการตั้งค่า
-quickactions-cmd-settings = การตั้งค่า ค่ากำหนด ตัวเลือก
+quickactions-cmd-settings = การตั้งค่า, ค่ากำหนด, ตัวเลือก
 # Opens about:addons page in the themes section
 quickactions-themes = จัดการธีม
 quickactions-cmd-themes = ธีม
@@ -924,6 +926,10 @@ private-browsing-indicator-label = การเรียกดูแบบส่
 unified-extensions-button =
     .label = ส่วนขยาย
     .tooltiptext = ส่วนขยาย
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Autorefresh blocker
 
