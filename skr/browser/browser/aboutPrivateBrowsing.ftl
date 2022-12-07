@@ -29,6 +29,13 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ �
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = اپݨے فون تے نجی براؤزنگ حاصل کرو
+about-private-browsing-focus-promo-header-c = موبائل تے اڳونہی رازداری
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } تہاݙی ہسٹری میس ݙیندے جئیں ویلھے تساں ایڈز تے ٹریکرز دی ݙک ٹھل کریندے پئے ہوندو
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } نجی ونڈو وچ تہاݙا پہلے کنوں چُݨیا ڳولݨ انجݨ ہے
 about-private-browsing-search-banner-close-button =
     .aria-label = بند کرو
 about-private-browsing-promo-close-button =
@@ -36,3 +43,9 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = نجی براؤزنگ صرف ہک کلک نال
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Dock وِچ رہو
+       *[other] ٹاسک بار ݙے ونڄو
+    }
