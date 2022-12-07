@@ -17,7 +17,11 @@ about-private-browsing-handoff-no-engine =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = { $engine } دی مدد نال ڳولو یا پتہ درج کرو
+about-private-browsing-handoff-text-no-engine = ڳولو یا پتہ درج کرو
+about-private-browsing-not-private = تساں حالی نجی ونڈو وچ کائنوے۔
 about-private-browsing-learn-more-link = ٻیا سِکھو
+about-private-browsing-hide-activity = اپݨی سرگرمی تے لوکیشن لُکاؤ، جتھاں وی تساں براؤز کرو
+about-private-browsing-get-privacy = رازداری دا تحفظ حاصل کرو جتھاں وی تساں براؤز کرو
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } نال نجی راہوو
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ کرو
 
