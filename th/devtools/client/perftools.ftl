@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = เธรด RenderBackend ของ WebRender
 perftools-thread-paint-worker =
     .title = เมื่อเปิดใช้งานการวาดนอกเธรดหลักแล้ว เธรดที่ทำการวาด
+perftools-thread-timer =
+    .title = ตัวจับเวลาการจัดการเธรด (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = การคำนวณรูปแบบจะแบ่งออกเป็นหลายเธรด
 pref-thread-stream-trans =
@@ -128,6 +130,7 @@ perftools-presets-networking-label = ระบบเครือข่าย
 perftools-presets-networking-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับระบบเครือข่ายใน { -brand-shorter-name }
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = พลังงาน
+perftools-presets-power-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับการใช้พลังงานใน { -brand-shorter-name } โดยมีโอเวอร์เฮดต่ำ
 perftools-presets-custom-label = กำหนดเอง
 
 ##
