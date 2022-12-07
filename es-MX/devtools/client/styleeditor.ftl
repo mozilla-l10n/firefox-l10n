@@ -21,6 +21,7 @@ styleeditor-save-button = Guardar
 styleeditor-options-button =
     .tooltiptext = Opciones del editor de estilos
 styleeditor-media-rules = @media reglas
+styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Escribe CSS aquí.
 styleeditor-no-stylesheet = Esta página no tiene hoja de estilos.
