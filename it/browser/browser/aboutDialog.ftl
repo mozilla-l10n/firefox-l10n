@@ -25,6 +25,7 @@ update-failed-main = Aggiornamento non riuscito. <a data-l10n-name="failed-link-
 
 update-adminDisabled = Aggiornamenti disattivati dall’amministratore di sistema
 update-noUpdatesFound = { -brand-short-name } è aggiornato
+aboutdialog-update-checking-failed = Impossibile controllare la disponibilità di aggiornamenti.
 update-otherInstanceHandlingUpdates = Aggiornamento di { -brand-short-name } in corso in un’altra istanza
 
 update-manual = Aggiornamenti disponibili su <label data-l10n-name="manual-link"/>
