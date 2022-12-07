@@ -940,6 +940,15 @@ unified-extensions-button =
     .label = Rozšěrjenja
     .tooltiptext = Rozšěrjenja
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Rozšěrjenja
+    .tooltiptext =
+        Rozšěrjenja
+        Prawa trěbne
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } je tutu stronu při awtomatiskim znowačitanju haćił.

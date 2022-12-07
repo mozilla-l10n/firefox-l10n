@@ -42,6 +42,7 @@ firefoxview-tabpickup-sync-error-primarybutton = Hišće raz spytać
 firefoxview-tabpickup-sync-disconnected-header = Zmóžńće synchronizaciju, zo byšće pokročował
 firefoxview-tabpickup-sync-disconnected-description = Za přistup k swojim rajtarkam dyrbiće synchronizaciju w { -brand-short-name } dowolić.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Synchronizaciju w nastajenjach zmóžnić
+firefoxview-tabpickup-password-locked-description = Za přistup k swojim rajtarkam dyrbiće hłowne hesło za { -brand-short-name } zapodać.
 firefoxview-tabpickup-password-locked-link = Dalše informacije
 firefoxview-tabpickup-password-locked-primarybutton = Hłowne hesło zapodać
 firefoxview-tabpickup-syncing = Wočakajće, mjeztym zo so waše rajtarki synchronizuja. Budźe jenož wokomik trać.
@@ -52,8 +53,11 @@ firefoxview-mobile-confirmation-header = 🎉 Wšitko hotowe!
 firefoxview-mobile-confirmation-description = Nětko móžeće swoje rajtarki { -brand-product-name } ze swojeho tableta abo šmóratka wobstarać.
 firefoxview-closed-tabs-title = Njedawno začinjene
 firefoxview-closed-tabs-description2 = Wočińće strony znowa, kotrež sće w tutym woknje začinił.
-firefoxview-closed-tabs-placeholder = <strong>Žane njedawno začinjene strony</strong><br/>Njebojće so ženje začinjeny rajtark zaso zhubić. Móžeće jón přeco tu zaso dóstać.
 firefoxview-closed-tabs-placeholder-header = Žane runje začinjene rajtarki
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = { $tabTitle } zaćisnyć
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Posledni raz aktiwny
 # Variables:
@@ -67,7 +71,7 @@ firefoxview-change-colorway-button = Barbowu kombinaciju změnić
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Hišće ničo widźeć njeje</strong><br/>Přichodny raz, hdyž stronu w { -brand-product-name } na druhim graće wočinjeće, wobstarajće ju tu na magiske wašnje.
+firefoxview-synced-tabs-placeholder-header = Hišće ničo njeje widźeć
 firefoxview-collapse-button-show =
     .title = Lisćinu pokazać
 firefoxview-collapse-button-hide =
