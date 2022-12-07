@@ -33,5 +33,6 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = පටන�
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = නව පෙළ මෙවලම මගින් පීඩීඑෆ් සංස්කරණය කරන්න
 callout-pdfjs-edit-button = ඊළඟ
 callout-pdfjs-draw-button = තේරුණා!

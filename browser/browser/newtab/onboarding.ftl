@@ -20,6 +20,10 @@ return-to-amo-subtitle = කදිමයි, දැන් ඔබ සතුව { 
 return-to-amo-add-extension-label = දිගුව එක් කරන්න
 return-to-amo-add-theme-label = තේමාව එක් කරන්න
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-add-extension-label = { $addon-name } එක් කරන්න
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
