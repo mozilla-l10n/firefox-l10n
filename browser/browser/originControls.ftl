@@ -32,3 +32,19 @@ origin-controls-state-when-clicked = Prawo trěbne, zo byšće móhł daty čita
 origin-controls-state-hover-run-visit-only = Jenož za tutón wopyt wuwjesć
 origin-controls-state-runnable-hover-open = Rozšěrjenje wočinić
 origin-controls-state-runnable-hover-run = Rozšěrjenje wuwjesć
+origin-controls-state-temporary-access = Daty dadźa so za tutón wopyt čitać a změnić
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Prawo trěbne
