@@ -29,7 +29,7 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ �
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = اپݨے فون تے نجی براؤزنگ حاصل کرو
-about-private-browsing-focus-promo-header-c = موبائل تے اڳونہی رازداری
+about-private-browsing-focus-promo-header-c = موبائل تے اڳلے درجے دی رازداری
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } تہاݙی ہسٹری میس ݙیندے جئیں ویلھے تساں ایڈز تے ٹریکرز دی ݙک ٹھل کریندے پئے ہوندو
 # This string is the title for the banner for search engine selection
 # in a private window.

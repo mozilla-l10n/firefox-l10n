@@ -27,6 +27,9 @@ appmenuitem-more-tools =
     .label = ٻئے ٹولز
 appmenuitem-help =
     .label = مدد
+appmenu-menu-button-opened2 =
+    .tooltiptext = ایپلیکیشن مینو بند کریں
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -47,10 +50,21 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ہم وقت کرݨ کیتے سائن ان تھیوو۔۔۔
 appmenu-remote-tabs-turn-on-sync =
     .label = ہم وقت کرݨ چالو کرو۔۔۔
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = ودھیک ٹیبز ݙکھاؤ
+    .tooltiptext = ایں ڈیوائس کنوں ودھیک ٹیبز ݙکھاؤ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = کوئی کھلے ٹیب  کائنی
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = اپݨے ٻئے آلات تے ٹیب دی تندیر ݙیکھݨ کیتے ٹیب دی مطابقت پذیری چالو کرو۔
 appmenu-remote-tabs-opensettings =
     .label = ترتیباں
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = کیا تساں اپݨے ٹیب کوں ٻئے آلات کنوں اتھاؤں ݙیکھݨ پسند کریسو؟
+appmenu-remote-tabs-connectdevice =
+    .label = ہک ٻئی ڈیوائس جوڑو
 appmenuitem-fxa-toolbar-sync-now2 = ہݨ ہم وقت کرو
 appmenuitem-fxa-manage-account = کھاتہ منیج کرو
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
