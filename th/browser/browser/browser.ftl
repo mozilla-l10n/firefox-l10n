@@ -323,7 +323,7 @@ quickactions-cmd-settings = การตั้งค่า, ค่ากำห�
 quickactions-themes = จัดการธีม
 quickactions-cmd-themes = ธีม
 # Opens a SUMO article explaining how to update the browser
-quickactions-update = ปรับปรุง { -brand-short-name }
+quickactions-update = อัปเดต { -brand-short-name }
 quickactions-cmd-update = อัปเดต
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ดูต้นฉบับ
@@ -785,8 +785,8 @@ toolbar-overflow-customize-button =
     .label = ปรับแต่งแถบเครื่องมือ…
     .accesskey = ป
 toolbar-button-email-link =
-    .label = ส่งอีเมลลิงก์
-    .tooltiptext = ส่งอีเมลลิงก์ไปยังหน้านี้
+    .label = ส่งลิงก์ทางอีเมล
+    .tooltiptext = ส่งลิงก์ที่ไปยังหน้านี้ทางอีเมล
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
