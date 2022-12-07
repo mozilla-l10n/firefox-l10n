@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 ¡Listo para llevar!
 firefoxview-mobile-confirmation-description = Ahora puedes tomar sus pestañas de { -brand-product-name } desde tu tableta o teléfono.
 firefoxview-closed-tabs-title = Cerradas recientemente
 firefoxview-closed-tabs-description2 = Vuelve a abrir las páginas que has cerrado en esta ventana.
-firefoxview-closed-tabs-placeholder = <strong>Sin páginas cerradas recientemente</strong><br/>Nunca temas perder una pestaña cerrada de nuevo. Siempre puedes recuperarla aquí.
 firefoxview-closed-tabs-placeholder-header = No hay pestañas cerradas recientemente
 firefoxview-closed-tabs-placeholder-body = Cuando cierras una pestaña en esta ventana, puedes buscarla desde aquí.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Descartar { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Última activa
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Cambiar combinación de colores
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Nada que ver todavía</strong><br/>La próxima vez que abras una página en { -brand-product-name } en otro dispositivo, tómela aquí como por arte de magia.
 firefoxview-synced-tabs-placeholder-header = Nada para ver todavía
 firefoxview-synced-tabs-placeholder-body = La próxima vez que abras una página en { -brand-product-name } en otro dispositivo, encuéntrala aquí como por arte de magia.
 firefoxview-collapse-button-show =

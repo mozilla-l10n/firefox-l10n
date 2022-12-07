@@ -32,6 +32,7 @@ origin-controls-state-when-clicked = Permiso necesario para leer y cambiar datos
 origin-controls-state-hover-run-visit-only = Solo ejecutar en este sitio
 origin-controls-state-runnable-hover-open = Abrir extensión
 origin-controls-state-runnable-hover-run = Ejecutar extensión
+origin-controls-state-temporary-access = Puede leer y cambiar los datos de esta visita
 
 ## Extension's toolbar button.
 ## Variables:
