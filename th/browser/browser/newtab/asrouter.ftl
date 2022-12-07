@@ -204,11 +204,25 @@ firefoxview-cfr-primarybutton = ลองดู
 firefoxview-cfr-secondarybutton = ไม่ใช่ตอนนี้
     .accesskey = ม
 firefoxview-cfr-header = นำแท็บที่ปิดไปล่าสุดกลับมาด้วย { -firefoxview-brand-name }
+firefoxview-cfr-body = รวมทั้งสลับไปมาระหว่างอุปกรณ์ได้อย่างราบรื่นและเพิ่มสีสันให้กับเบราว์เซอร์ของคุณ
+firefoxview-cfr-header-v2 = ทำต่อจากจุดที่คุณค้างไว้อย่างรวดเร็ว
+firefoxview-cfr-body-v2 = นำแท็บที่ปิดไปล่าสุดกลับมา รวมทั้งสลับไปมาระหว่างอุปกรณ์ได้อย่างราบรื่นด้วย { -firefoxview-brand-name }
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = ทำความรู้จัก { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = ต้องการให้แท็บที่เปิดไว้มาอยู่บนโทรศัพท์ของคุณหรือเปล่า เอามันมาเลยสิ ต้องการไซต์นั้นที่คุณเพิ่งเข้าชมไปหรือเปล่า ปิ๊ง มันกลับมาแล้วใน { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = ดูวิธีการทำงาน
 firefoxview-spotlight-promo-secondarybutton = ข้าม
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = เลือกชุดรูปแบบสี
+    .accesskey = ล
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = แต่งเติมสีสันให้กับเบราว์เซอร์ของคุณด้วยเฉดสีสุดพิเศษสำหรับ { -brand-short-name } ที่ได้แรงบันดาลใจจากเสียงที่เปลี่ยนแปลงวัฒนธรรม
+colorways-cfr-header-28days = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขต 16 มกราคมนี้
+colorways-cfr-header-14days = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขตในอีกสองสัปดาห์นี้
+colorways-cfr-header-7days = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขตสัปดาห์นี้
+colorways-cfr-header-today = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขตวันนี้
