@@ -22,11 +22,13 @@ about-private-browsing-not-private = تساں حالی نجی ونڈو وچ کا
 about-private-browsing-learn-more-link = ٻیا سِکھو
 about-private-browsing-hide-activity = اپݨی سرگرمی تے لوکیشن لُکاؤ، جتھاں وی تساں براؤز کرو
 about-private-browsing-get-privacy = رازداری دا تحفظ حاصل کرو جتھاں وی تساں براؤز کرو
+about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } نال براؤزنگ دی سرگرمی تے لوکیشن لُکاؤ۔ ہک کلک محفوظ کنکشن بݨا ݙیندے، بھانویں جو پبلک وائی فائی ہووے۔
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } نال نجی راہوو
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ کرو
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = اپݨے فون تے نجی براؤزنگ حاصل کرو
 about-private-browsing-search-banner-close-button =
     .aria-label = بند کرو
 about-private-browsing-promo-close-button =

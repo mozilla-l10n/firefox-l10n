@@ -9,8 +9,10 @@
 about-unloads-page-title = ٹیب ان لوڈنگ
 about-unloads-button-unload = ان لوڈ
     .title = ترجیحاً ٹیب ان لوڈ کرو
+about-unloads-no-unloadable-tab = ان لوڈیبل کوئی ٹیب کوئنی۔
 about-unloads-column-priority = ترجیح
 about-unloads-column-host = ہوسٹ
+about-unloads-column-last-accessed = چھیکڑی واری رسائی
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } ایم بی
 about-unloads-memory-in-mb-tooltip =
