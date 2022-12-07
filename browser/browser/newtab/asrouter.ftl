@@ -213,6 +213,7 @@ firefoxview-cfr-primarybutton = Wupruwujće jón
 firefoxview-cfr-secondarybutton = Nic nětko
     .accesskey = N
 firefoxview-cfr-header = Wobstarajće sej začinjene rajtarki z { -firefoxview-brand-name } wróćo
+firefoxview-cfr-header-v2 = Čińće tam spěšnje dale, hdźež sće přestał
 
 ## Firefox View Spotlight
 
