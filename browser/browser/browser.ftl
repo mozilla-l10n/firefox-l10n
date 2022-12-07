@@ -930,6 +930,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = ส่วนขยาย
+    .tooltiptext =
+        ส่วนขยาย
+        ต้องการสิทธิอนุญาต
 
 ## Autorefresh blocker
 

@@ -54,8 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 เรียบร้อยแล�
 firefoxview-mobile-confirmation-description = ตอนนี้คุณสามารถนำแท็บ { -brand-product-name } จากแท็บเล็ตหรือโทรศัพท์ของคุณเข้ามาได้แล้ว
 firefoxview-closed-tabs-title = เพิ่งปิดล่าสุด
 firefoxview-closed-tabs-description2 = เปิดหน้าที่คุณปิดไปในหน้าต่างนี้ใหม่
-firefoxview-closed-tabs-placeholder = <strong>ไม่มีหน้าที่ปิดไปเมื่อเร็วๆ นี้</strong><br/>ไม่ต้องกลัวจะเสียแท็บที่ปิดไปแล้วอีกต่อไป คุณสามารถเรียกคืนได้จากที่นี่
 firefoxview-closed-tabs-placeholder-header = ไม่มีแท็บที่ปิดล่าสุด
+firefoxview-closed-tabs-placeholder-body = เมื่อคุณปิดแท็บในหน้าต่างนี้ คุณสามารถเรียกแท็บนั้นกลับมาได้จากที่นี่
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = ปิด { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ใช้งานล่าสุด
 # Variables:
@@ -69,7 +73,6 @@ firefoxview-change-colorway-button = เปลี่ยนชุดรูปแ�
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>ยังไม่มีอะไรให้ดู</strong><br/>เมื่อคุณเปิดหน้าใน { -brand-product-name } บนอุปกรณ์อื่นครั้งถัดไป ให้นำหน้านั้นเข้ามาไว้ในนี้ได้เลย
 firefoxview-synced-tabs-placeholder-header = ยังไม่มีอะไรให้ดู
 firefoxview-collapse-button-show =
     .title = แสดงรายการ
