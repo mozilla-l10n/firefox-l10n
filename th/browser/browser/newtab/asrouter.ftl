@@ -184,6 +184,8 @@ spotlight-pin-secondary-button = ไม่ใช่ตอนนี้
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = { -brand-short-name } ใหม่ เป็นส่วนตัวมากขึ้น ตัวติดตามน้อยลง ไม่ล่วงละเมิด
+mr2022-background-update-toast-text = ลองใช้ { -brand-short-name } ใหม่ที่สุดที่ได้รับการอัพเกรดด้วยระบบการป้องกันการติดตามที่แข็งแกร่งที่สุดของเราเลย
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -201,6 +203,7 @@ firefoxview-cfr-primarybutton = ลองดู
     .accesskey = ล
 firefoxview-cfr-secondarybutton = ไม่ใช่ตอนนี้
     .accesskey = ม
+firefoxview-cfr-header = นำแท็บที่ปิดไปล่าสุดกลับมาด้วย { -firefoxview-brand-name }
 
 ## Firefox View Spotlight
 
