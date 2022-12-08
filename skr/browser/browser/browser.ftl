@@ -508,10 +508,50 @@ urlbar-extension =
     .value = ایکسٹینشن:
 urlbar-go-button =
     .tooltiptext = لوکیشن بار وِچ ݙتے ڳئے پتے تے ونڄو
+urlbar-page-action-button =
+    .tooltiptext = عملاں دا ورقہ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = نجی ونڈو وِچ { $engine } دے نال تلاش کرو
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = نجی ونڈو وچ ڳولو
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = { $engine } نال ڳولو
+urlbar-result-action-sponsored = سپانسر شدہ
+urlbar-result-action-switch-tab = ٹیب تے ون٘ڄو
+urlbar-result-action-visit = دورہ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine } نال ڳولݨ کیتے ٹیب دٻاؤ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine } ڳولݨ کیتے ٹیب دٻاؤ
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = { $engine } نال ایڈریس بار کنوں براہ راست ڳولو
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = ایڈریس بار کنوں براہ راست { $engine } ڳولو
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = نقل کرو
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
@@ -524,35 +564,166 @@ urlbar-result-action-calculator-result = = { $result }
 
 urlbar-result-action-search-bookmarks = نشانیاں ڳولو
 urlbar-result-action-search-history = تاریخ ڳولو
+urlbar-result-action-search-tabs = ٹیبز ڳولو
+urlbar-result-action-search-actions = ایکشن ڳولو
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } تجویزاں
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = فوری عمل
 
 ## Reader View toolbar buttons
 
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = ریڈر ویو درج کرو
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = ریڈر ویو بند کرو
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain"></span> ہݨ فل سکرین ہے
+fullscreen-warning-no-domain = ایہ دستاویز ہݨ پوری سکرین ہے
+fullscreen-exit-button = پوری سکرین کنوں ٻاہر نکلو (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = پوری سکرین کنوں ٻاہر نکلو (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain"></span> دے کول تہاݙے پوائنٹر دا کنرول ہے۔ کنٹرول ولا گھنݨ کیتے Esc دٻاؤ
+pointerlock-warning-no-domain = ایں دستاویز دے کول تہاݙے پوائنٹر دا کنٹرول ہے۔ کنٹرول ولا گھنݨ کیتے Esc دٻاؤ
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = ٻیا سِکھو
+crashed-subframe-submit =
+    .label = رپورٹ جمع کرو
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = بک مارکس منظم کرو
+bookmarks-recent-bookmarks-panel-subheader = حالیہ نشانیاں
+bookmarks-toolbar-chevron =
+    .tooltiptext = مزید بک مارک ݙکھاؤ
 bookmarks-sidebar-content =
     .aria-label = نشانیاں
+bookmarks-menu-button =
+    .label = بک مارک مینیو
+bookmarks-other-bookmarks-menu =
+    .label = ٻئے بک مارک
+bookmarks-mobile-bookmarks-menu =
+    .label = موبائل بک مارک
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] بغلی بار وِچ بک مارک لُکاؤ
+           *[other] بغلی بار وِچ بک مارک ݙیکھو
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] بک مارک ٹولبار لُکاؤ
+           *[other] بک مارک ٹولبار ݙیکھو
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] بک مارک ٹول بار لُکاؤ
+           *[other] بک مارک ٹول بار ݙکھاؤ
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] بک مارک مینو کوں ٹول بار کنوں ہٹاؤ
+           *[other] بک مارک مینو کوں ٹول بار وچ شامل کرو
+        }
+bookmarks-search =
+    .label = نشانیاں ڳولو
+bookmarks-tools =
+    .label = بک مارک ٹول
+bookmarks-bookmark-edit-panel =
+    .label = ایں بک مارک دی تدوین کرو
+bookmarks-subview-edit-bookmark =
+    .label = ایں بک مارک دی تدوین کرو…
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = بک مارک ٹول بار
+    .accesskey = B
+    .aria-label = بک مارکس
+bookmarks-toolbar-menu =
+    .label = بک مارک ٹول بار
+bookmarks-toolbar-placeholder =
+    .title = بک مارکس ٹول بار چیزاں
+bookmarks-toolbar-placeholder-button =
+    .label = بک مارکس ٹول بار چیزاں
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = بک مارک موجودہ ٹیب
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = بک مارک موجودہ ٹیب …
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = نشانیاں
+library-recent-activity-title =
+    .value = حالیہ سرگرمیاں
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } تے ہتھیکڑا کرو
+    .tooltiptext = { -pocket-brand-name } تے ہتھیکڑا کرو
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = متن انکوڈنگ دی مرمت کرو
+    .tooltiptext = صفحہ دے مواد کنوں انکوڈنگ متن دی اک ٹک لاؤ
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = آیڈ آنز تے تھیمز
+    .tooltiptext = اپݨے ایڈ آنز تے تھیمز دا بندوبست کرو ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = ترتیباں
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ترتیباں کھولو ({ $shortcut })
+           *[other] ترتیباں کھولو
+        }
+toolbar-overflow-customize-button =
+    .label = ٹول بار دی تخصیص کرو…
+    .accesskey = C
+toolbar-button-email-link =
+    .label = لنک ای میل کرو
+    .tooltiptext = ایں صفحے کوں ہک لنک ای میل کرو
 
 ## EME notification panel
 
