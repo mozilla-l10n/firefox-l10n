@@ -5,8 +5,14 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = سسٹم تھیم — خودکار
+extension-default-theme-description = بٹن ، مینوز تے ونڈوز کیتے آپریٹنگ سسٹم دی سیٹنگ تے عمل کرو۔
 extension-firefox-compact-light-name = پھکا
+extension-firefox-compact-light-description = ہک تھیم پھکے رنگ دی سکیم  نال۔
 extension-firefox-compact-dark-name = شوخ
+extension-firefox-compact-dark-description = ہک تھیم ڳُوڑھے رنگ دی سکیم  نال۔
+extension-firefox-alpenglow-name = Firefox الپینگلو
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
@@ -14,3 +20,8 @@ extension-firefox-compact-dark-name = شوخ
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } نرم
+extension-colorways-balanced-name = { $colorway-name } متوازن
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } ٹھُلھا

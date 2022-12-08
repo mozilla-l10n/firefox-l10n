@@ -74,6 +74,22 @@ main-context-menu-bookmark-add =
     .aria-label = ایں ورقے تے نشانی لاؤ
     .accesskey = m
     .tooltiptext = ایں ورقے تے نشانی لاؤ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = ایہ بک مارک ترمیم کرو
+    .accesskey = m
+    .tooltiptext = ایہ بک مارک ترمیم کرو ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = ورقہ بک مارک کرو …
+    .accesskey = m
+    .tooltiptext = ورقہ  بک مارک کرو
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = ورقہ بک مارک کرو …
+    .accesskey = m
 main-context-menu-open-link =
     .label = لنک کھولو
     .accesskey = O

@@ -5,6 +5,14 @@
 
 ## App Menu
 
+appmenuitem-banner-update-downloading =
+    .label = ڈاؤن لوڈنگ { -brand-shorter-name } ابڈیٹ
+appmenuitem-banner-update-available =
+    .label = اپڈیٹ دستیاب ہے - ہݨ ڈاؤن لوڈ کرو
+appmenuitem-banner-update-manual =
+    .label = ابڈیٹ دستیاب ہے - ہݨیں ڈاؤن لوڈ کرو
+appmenuitem-banner-update-restart =
+    .label = اپڈیٹ دستیاب ہے - ہݨیں نویں سروں چلاؤ
 appmenuitem-new-tab =
     .label = نواں ٹیب
 appmenuitem-new-window =
@@ -17,6 +25,8 @@ appmenuitem-downloads =
     .label = ڈاؤن لوڈاں
 appmenuitem-passwords =
     .label = پاس ورڈز
+appmenuitem-addons-and-themes =
+    .label = ایڈ آنز تے تھیمز
 appmenuitem-print =
     .label = چھاپو۔۔۔
 appmenuitem-find-in-page =
@@ -27,6 +37,9 @@ appmenuitem-more-tools =
     .label = ٻئے ٹولز
 appmenuitem-help =
     .label = مدد
+appmenu-menu-button-closed2 =
+    .tooltiptext = ایپلیکیشن مینو کھولو
+    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
     .tooltiptext = ایپلیکیشن مینو بند کریں
     .label = { -brand-short-name }
@@ -65,7 +78,10 @@ appmenu-remote-tabs-opensettings =
 appmenu-remote-tabs-noclients = کیا تساں اپݨے ٹیب کوں ٻئے آلات کنوں اتھاؤں ݙیکھݨ پسند کریسو؟
 appmenu-remote-tabs-connectdevice =
     .label = ہک ٻئی ڈیوائس جوڑو
+appmenu-remote-tabs-welcome = آپݨیاں ساریاں ڈیوائساں کنوں ٹیباں دی تندیر ݙیکھو۔
+appmenu-remote-tabs-unverified = تہاݙے کھاتے کوں تصدیق دی لوڑ ہے۔
 appmenuitem-fxa-toolbar-sync-now2 = ہݨ ہم وقت کرو
+appmenuitem-fxa-sign-in = { -brand-product-name } وِچ سائن ان تھیوو
 appmenuitem-fxa-manage-account = کھاتہ منیج کرو
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = سائن ان
