@@ -365,20 +365,67 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = چھوٹا کرو
+browser-window-maximize-button =
+    .tooltiptext = وݙا کرو
+browser-window-restore-down-button =
+    .tooltiptext = تلے بحال کرو
+browser-window-close-button =
+    .tooltiptext = بند کرو
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = چلدا پیا ہے
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = خاموش
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = آٹو پلے بلاکڈ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = پکچر ان پکچر
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] خاموش ٹیب
+        [one] خاموش  ٹیب
+       *[other] خاموش { $count } ٹیبز
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] غیر خاموش ٹیب
+        [one] غیر خاموش  ٹیب
+       *[other] غیر خاموش { $count } ٹیبز
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] پلے ٹیب
+        [one] پلے  ٹیب
+       *[other] پلے { $count } ٹیبز
+    }
 
 ## Bookmarks toolbar items
 
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = کیمرا
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = کیمرا
+popup-select-microphone-device =
+    .value = مائیکروفون
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = مائیکروفون
+popup-select-speaker-icon =
+    .tooltiptext = سپیکر
+popup-select-window-or-screen =
+    .label = ونڈو یا سکرین
+    .accesskey = W
 
 ## WebRTC window or screen share tab switch warning
 
