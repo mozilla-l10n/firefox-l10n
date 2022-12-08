@@ -167,6 +167,9 @@ page-action-remove-extension =
 page-action-manage-extension2 =
     .label = Tinuk'samajïx K'amal…
     .accesskey = K
+page-action-remove-extension2 =
+    .label = Tiyuj K'amal
+    .accesskey = y
 
 ## Auto-hide Context Menu
 
