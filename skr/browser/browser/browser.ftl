@@ -149,15 +149,51 @@ urlbar-autoplay-media-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے خودکار چلݨ والی میڈیا بمع آواز بلاک کر ݙتی ہے۔
 urlbar-canvas-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے کینوس کوائف ماحصل بلاک کر ݙتا ہے۔
+urlbar-midi-blocked =
+    .tooltiptext = تساں ایں ویب سائٹ کیتے MIDI تک رسائی بلاک کر ݙتی ہے۔
+urlbar-install-blocked =
+    .tooltiptext = تساں ایں ویب سائٹ کیتے ایڈ آن کوں انسٹالیشن کوں بلاک کیتا ہویا ہے۔
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = ایں نشانی وچ ترمیم کرو ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = ایہ ورقہ بک مارک کرو ({ $shortcut })
 
 ## Page Action Context Menu
 
+page-action-manage-extension =
+    .label = ایکسٹینشن… منظم کرو
+page-action-remove-extension =
+    .label = ایکسٹینشن ہٹاؤ
+page-action-manage-extension2 =
+    .label = توسیع دا بندوبست کرو …
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = توسیع ہٹاؤ
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = ٹول بار لُکاؤ
+    .accesskey = H
+full-screen-exit =
+    .label = پوری سکرین موڈ کنوں ٻاہر نکلو
+    .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = ایں واری، دے نال ڳولو:
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = ڳولݨ ترتیباں تبدیل کرو
+search-one-offs-context-open-new-tab =
+    .label = نویں ٹیب وچ ڳولو
+    .accesskey = T
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
