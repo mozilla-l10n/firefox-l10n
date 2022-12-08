@@ -724,11 +724,31 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = لنک ای میل کرو
     .tooltiptext = ایں صفحے کوں ہک لنک ای میل کرو
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = ورقہ ہتھیکڑا کرو
+    .tooltiptext = ایہ ورقہ ہتھیکڑا کرو ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = فائل کھولو
+    .tooltiptext = ہک فائل کھولو ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = سینک تھئے ہوئے ٹیبز
+    .tooltiptext = ٻئی ڈیوائس کنوں ٹیبز ظآہر کرو
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = نویں نجی ونڈو
+    .tooltiptext = ہک نویں نجی براؤزنگ ونڈو کھولو ({ $shortcut })
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-manage = ترتیباں دا بندوبست کرو
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = فارغ کرو
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
@@ -737,41 +757,122 @@ panel-save-update-password = پاس ورڈ
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = ہٹاؤ { $name } ؟
+addon-removal-abuse-report-checkbox = ایں توسیع دی اطلاع{ -vendor-short-name } کوں ݙیو
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = ودھیک …
 ui-tour-info-panel-close =
     .tooltiptext = بند کرو
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = { $uriHost } کیتے پاپ اپس کوں اجازت ݙیو
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } کیتے پاپ اپ کوں روکو
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = جݙاں پاپ اپس بلاک ہوون تاں اے پیغام نہ ݙکھاؤ
+    .accesskey = D
+edit-popup-settings =
+    .label = پاپ اپس ترتیباں دا بندوبست کرو
+    .accesskey = M
+picture-in-picture-hide-toggle =
+    .label = تصویر وِچ تصویر ٹوگل لُکاؤ
+    .accesskey = H
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = تصویر وِچ تصویر ٹوگل کوں سڄے پاسے سورو
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = تصویر وِچ تصویر ٹوگل کوں کھٻے پاسے سورو
+    .accesskey = L
 
 ##
 
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = نیویگیشن
+navbar-downloads =
+    .label = ڈاؤن لوڈ
+navbar-overflow =
+    .tooltiptext = ودھیک ٹول…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = چھاپو
+    .tooltiptext = اے ورقہ چھاپو… ({ $shortcut })
+navbar-home =
+    .label = گھر
+    .tooltiptext = مکھ پناں { -brand-short-name }
+navbar-library =
+    .label = لائبریری
+    .tooltiptext = ہسٹری ݙیکھو، محفوظ نشانیاں، تے مزید
+navbar-search =
+    .title = ڳولو
+navbar-accessibility-indicator =
+    .tooltiptext = قابل رسائی خصوصیات کوں فعال بݨا ݙتا ڳیا پے
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = براؤزر ٹیبز
+tabs-toolbar-new-tab =
+    .label = نویں ٹیب
+tabs-toolbar-list-all-tabs =
+    .label = تمام ٹیبز دی تندیر بݨاؤ
+    .tooltiptext = تمام ٹیبز دی تندیر بݨاؤ
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = میکوں ݙکھاؤ کیویں
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-button =
+    .label = چݨو میں کیا شیئر کرینداں
+    .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = نجی براؤزنگ
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = ایکسٹینشنز
+    .tooltiptext = ایکسٹینشنز
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = ایکسٹینشنز
+    .tooltiptext =
+        ایکسٹینشنز
+        اجازت ضروری ہے
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } ایں ورقے کوں آپوں ڄاݨ لوڈ تھیوݨ کنوں روکیا۔
+refresh-blocked-redirect-label = { -brand-short-name } ایں ورقے کوں آپوں ڄاݨ ݙوجھے پیج تے ونڄݨ کنوں روکیا۔
+refresh-blocked-allow =
+    .label = موکل ݙیو
+    .accesskey = A
