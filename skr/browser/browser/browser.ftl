@@ -194,12 +194,30 @@ search-one-offs-change-settings-compact-button =
 search-one-offs-context-open-new-tab =
     .label = نویں ٹیب وچ ڳولو
     .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = بطور طے شدہ تلاش انجن سیٹ کرو
+    .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = نجی ونڈو کیتے طے شدہ ڳولݨ انجن بݨاؤ
+    .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = رلاؤ { $engineName }
+    .tooltiptext = ڳولݨ انجݨ رلاؤ { $engineName }
+    .aria-label = ڳولݨ انجݨ رلاؤ { $engineName }
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = ڳولݨ انجݨ دا اضافہ کرو
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -208,20 +226,123 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = نشانیاں ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = ٹیبز  ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = تاریخ ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = ایکشنز ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = ایڈ آنز ݙیکھو
+quickactions-cmd-addons2 = ایڈ آنز
+# Opens the bookmarks library window
+quickactions-bookmarks = نشانیاں ݙیکھو
+quickactions-cmd-bookmarks = نشانیاں
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = ہسٹری میسو
+quickactions-cmd-clearhistory = ہسٹری میسو
+# Opens about:downloads page
+quickactions-downloads = ڈاؤن لوڈز کھولو
+quickactions-cmd-downloads = ڈاؤن لوڈز
+# Opens about:addons page in the extensions section
+quickactions-extensions = ایکسٹینشنز دا بندوبست کرو
+quickactions-cmd-extensions = ایکسٹینشنز
+# Opens the devtools web inspector
+quickactions-inspector = انسپیکٹر کھولو
+quickactions-cmd-inspector = انسپیکٹر، ڈیو ٹولز
+# Opens about:logins
+quickactions-logins = لاگ انز ݙیکھو
+quickactions-cmd-logins = لاگ انز، پاس ورڈز
+# Opens about:addons page in the plugins section
+quickactions-plugins = پلگ انز دا بندوبست کرو
+quickactions-cmd-plugins = پلگ انز
 # Opens the print dialog
 quickactions-print = چھاپو
 quickactions-cmd-print = چھاپو
+# Opens a new private browsing window
+quickactions-private = نجی براؤزنگ ونڈو کھولو
+quickactions-cmd-private = نجی براؤزنگ
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = ریفریش { -brand-short-name }
+quickactions-cmd-refresh = ریفریش
+# Restarts the browser
+quickactions-restart = نویں سروں چلاؤ { -brand-short-name }
+quickactions-cmd-restart = نویں سروں چلاؤ
+# Opens the screenshot tool
+quickactions-screenshot2 = سکرین شاٹ گھنو
+quickactions-cmd-screenshot = سکرین شاٹ
+# Opens about:preferences
+quickactions-settings = سیٹنگز کھولو
+quickactions-cmd-settings = ترتیباں، ترجیحاں، اختیارات
+# Opens about:addons page in the themes section
+quickactions-themes = تھیمز دا بندوبست کرو
+quickactions-cmd-themes = تھیمز
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = اپ ڈیٹ { -brand-short-name }
+quickactions-cmd-update = اپ ڈیٹ
+# Opens the view-source UI with current pages source
+quickactions-viewsource = ماخذ ݙیکھو
+quickactions-cmd-viewsource = ماخذ ݙیکھو، ماخذ
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = کوئیک ایکشن بارے ودھیک ڄاݨو
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = بک مارک اضافہ کرو
+bookmarks-edit-bookmark = نشانی وچ تبدیلی کرو
+bookmark-panel-cancel =
+    .label = منسوخ کرو
+    .accesskey = C
+bookmark-panel-save-button =
+    .label = محفوظ
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } کیتے سائٹ دیاں معلومات
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host } کیتے سیکیورٹی کنکشن
+identity-connection-not-secure = ناقابل بھروسا کنکشن
+identity-connection-secure = قابل بھروسا کنکشن
+identity-connection-failure = رابطہ ناکام ریہا
+identity-connection-internal = اے ہک قابل بھروسا { -brand-short-name } صفحہ ہے۔
+identity-connection-file = اے صفحہ تہاݙے کمپیوٹر اِچ سوگھا ہے۔
+identity-extension-page = اے صفحہ ایکسٹینشن کنوں لوڈ کیتا ڳیا ہے۔
+identity-active-blocked = { -brand-short-name } ایں صفحے دے او حصے بلاک کر ݙتے ہن جیڑھے قابل بھروسا کائنی۔
+identity-passive-loaded = ایں صفحے دے حصے قابل بھروسا کائنی (جیویں جو تصویراں)۔
+identity-active-loaded = تساں ایں صفحے تے حفاظت غیر فعال کر ݙتی ہے
+identity-weak-encryption = اے صفحہ کمزور خفیہ کاری استعمال کریندا ہے
+identity-insecure-login-forms = ایں صفحہ تے داخل تھیوݨ والا لاگ ان اشتباہ کیتا ونڄ سڳدا ہے۔
+identity-https-only-connection-upgraded = (  HTTPS تے اپگریڈ کر ݙتا ڳئے)
+identity-https-only-label = ایچ ٹی ٹی پی ایس ــ صرف موڈ
+identity-https-only-dropdown-on =
+    .label = چالو
+identity-https-only-dropdown-off =
+    .label = بند
+identity-https-only-dropdown-off-temporarily =
+    .label = عارضی طور تے بندکرو
+identity-permissions-storage-access-header = کراس سائٹ کوکیاں
+identity-permissions-storage-access-learn-more = ٻیا سِکھو
+identity-permissions-reload-hint = تبدیلی نافذ کرݨ کیتے تہاکوں شیئت صفحہ کوں ولا لوݙ کرݨ دی لوڑ پووے۔
+identity-clear-site-data =
+    .label = کوکیز تے سائٹ دے کواِئف صاف کرو…
+identity-connection-not-secure-security-view = تساں ایں سائٹ دے نال غیر محفوظ طریقے نال جڑے ہوئے او۔
+identity-connection-verified = تساں ایں سائٹ دے نال محفوظ طریقے نال جڑے ہوئے او۔
+identity-ev-owner-label = تصدیق نانواں جاری کیتا ڳیا:
+identity-remove-cert-exception =
+    .label = استثنا ہٹاؤ
+    .accesskey = R
 identity-learn-more =
     .value = ٻیا سِکھو
 
