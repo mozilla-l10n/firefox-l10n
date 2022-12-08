@@ -343,11 +343,28 @@ identity-ev-owner-label = تصدیق نانواں جاری کیتا ڳیا:
 identity-remove-cert-exception =
     .label = استثنا ہٹاؤ
     .accesskey = R
+identity-description-weak-cipher-intro = ایں ویب سائٹ تے تہاݙا کنکشن کمزور خفیہ انکریپشن استعمال کریندا ہے جیڑھا جو نجی کائنی
+identity-description-weak-cipher-risk = ٻئے لوک تہاݙی معلومات ݙیکھ سڳدے ہن یا ویب سائٹ دا رویہ بدال سڳدے ہن۔
+identity-description-active-blocked = { -brand-short-name }  ایں ورقے دے او حصے بلاک کر ݙتے ہن جیڑھے جو قابل بھروسا کائنی۔ <label data-l10n-name="link">ودھیک سیکھو</label>
+identity-description-passive-loaded = تہاݙا کنکشن نجی کائنی تے وہ معلومات جیڑھیاں تساں سائٹ تے سانجھے کریسو ٻئے لوک ݙیکھ سڳسن۔
+identity-description-passive-loaded-insecure = ایں ویب سائٹ وچ مواد شامل ہے جیڑھا جو قابل بھروسا کائنی (جیویں جو تصویراں)۔ <label data-l10n-name="link">ودھیک سیکھو </label>
+identity-description-active-loaded = ایں ویب سائٹ وِچ اینجھا مواد شامل ہے جیڑھا جو قابل بھروسا کائنی (جیویں جو لکھتاں) تے ایندے نال تہاݙا کنکشن قابل بھروسا کائنی۔
+identity-description-active-loaded-insecure = او معلومات جیڑھیاں تساں ایں سائٹ تے سانجھیاں کریندے ہو او ٻئے لوک ݙیکھ سڳسن (جیویں جو پاس ورڈز، تصویراں، کریڈٹ کارڈز، وغیرہ)۔
 identity-learn-more =
     .value = ٻیا سِکھو
+identity-disable-mixed-content-blocking =
+    .label = ہݨ کیتے حفاظت کوں نا اہل بݨاؤ
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = تحفظ فعال کرو
+    .accesskey = E
+identity-more-info-link-text =
+    .label = ودھیک معلومات
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = چھوٹا کرو
 
 ## Tab actions
 
