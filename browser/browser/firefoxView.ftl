@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Усе готово!
 firefoxview-mobile-confirmation-description = Тепер ви можете отримати доступ до вкладок { -brand-product-name } зі свого планшета чи телефона.
 firefoxview-closed-tabs-title = Недавно закриті
 firefoxview-closed-tabs-description2 = Повторно відкрити сторінки, які ви закрили в цьому вікні.
-firefoxview-closed-tabs-placeholder = <strong>Немає недавно закритих сторінок</strong><br/>Не бійтеся знову втратити закриту вкладку. Ви завжди можете відновити її тут.
 firefoxview-closed-tabs-placeholder-header = Немає недавно закритих вкладок
 firefoxview-closed-tabs-placeholder-body = Якщо ви закриєте вкладку в цьому вікні, її можна отримати тут.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Відхилити { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Остання активна
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Змінити забарвлення
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ще нічого немає</strong><br/>Наступного разу, коли ви відкриєте сторінку в { -brand-product-name } на іншому пристрої, вона з'явиться тут.
 firefoxview-synced-tabs-placeholder-header = Наразі тут нічого немає
 firefoxview-synced-tabs-placeholder-body = Наступного разу, коли ви відкриєте сторінку в { -brand-product-name } на іншому пристрої, вона з'явиться тут.
 firefoxview-collapse-button-show =
