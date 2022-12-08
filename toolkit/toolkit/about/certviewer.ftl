@@ -15,7 +15,7 @@ certificate-viewer-algorithm = Algorithme
 certificate-viewer-certificate-authority = Autorité de certification
 certificate-viewer-cipher-suite = Suite de chiffrement
 certificate-viewer-common-name = Nom courant
-certificate-viewer-email-address = Adresse électronique
+certificate-viewer-email-address = Adresse e-mail
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Certificat pour { $firstCertName }
@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Informations sur l’autorité (AIA)
 certificate-viewer-certificate-policies = Politiques du certificat
 certificate-viewer-embedded-scts = SCT intégrés
 certificate-viewer-crl-endpoints = Points de terminaison CRL
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Télécharger
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Cette extension a été marquée comme critique, ce qui signifie que les clients doivent rejeter le certificat s’ils ne le comprennent pas.

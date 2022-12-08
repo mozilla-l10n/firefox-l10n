@@ -117,7 +117,7 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; a détecté une menace potentielle de sécurité et a interrompu le chargement de <span class='hostname'/>, car ce site web nécessite une connexion sécurisée.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; a détecté un problème et a interrompu le chargement de <span class='hostname'/>. Soit le site est mal configuré, soit l’horloge de votre ordinateur est réglée à la mauvaise heure.">
-<!ENTITY certerror.expiredCert.secondPara2 "Le certificat du site a probablement expiré, ce qui empêche &brandShortName; d’établir une connexion sécurisée. Si vous visitez ce site, des attaquants pourraient dérober des informations telles que vos mots de passe, vos adresses électroniques ou vos informations de carte bancaire.">
+<!ENTITY certerror.expiredCert.secondPara2 "Le certificat du site a probablement expiré, ce qui empêche &brandShortName; d’établir une connexion sécurisée. Si vous visitez ce site, des attaquants pourraient dérober des informations telles que vos mots de passe, vos adresses e-mail ou vos informations de carte bancaire.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Le certificat du site a probablement expiré, ce qui empêche &brandShortName; d’établir une connexion sécurisée.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Que pouvez-vous faire ?">
