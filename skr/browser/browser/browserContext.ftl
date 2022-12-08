@@ -182,6 +182,15 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = ای میل پتہ کاپی کرو
+    .accesskey = I
+main-context-menu-copy-phone =
+    .label = فون نمبر کاپی کرو
+    .accesskey = o
+main-context-menu-copy-link-simple =
+    .label = لنک کاپی کرو
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -239,6 +248,65 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = فل سکرین مُکاؤ
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = تصویر اِچ تصویر ݙیکھو
+    .accesskey = u
+main-context-menu-image-reload =
+    .label = تصویر ولا لوڈ کرو
+    .accesskey = R
+main-context-menu-image-view-new-tab =
+    .label = نویں ٹیب وچ تصویر کھولو
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = نویں ٹیب وِچ ویڈیو کھولو
+    .accesskey = i
+main-context-menu-image-copy =
+    .label = تصویر کاپی کرو
+    .accesskey = y
+main-context-menu-image-copy-link =
+    .label = تصویر دا لنک کاپی کرو
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = ویڈیو لنک کاپی کرو
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = آڈیو لنک کاپی کرو
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = تصویر ہتھیکڑی کرو بطور …
+    .accesskey = v
+main-context-menu-image-email =
+    .label = تصویر ای میل کرو …
+    .accesskey = g
+main-context-menu-image-set-image-as-background =
+    .label = تصویر بطور ڈیسک ٹاپ بیک گراؤنڈ سیٹ کرو
+    .accesskey = S
+main-context-menu-image-copy-text =
+    .label = تصویر کنوں متن کاپی کرو
+    .accesskey = x
+main-context-menu-image-info =
+    .label = تصویر دیاں معلومات ݙیکھو
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = تفصیل ݙیکھو
+    .accesskey = D
+main-context-menu-video-save-as =
+    .label = ویڈیو ہتھیکڑی کرو بطور …
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = آڈیو ہتھیکڑی کرو بطور …
+    .accesskey = v
+main-context-menu-video-take-snapshot =
+    .label = سنیپ شاٹ گھنو۔۔۔
+    .accesskey = S
+main-context-menu-video-email =
+    .label = ویڈیو ای میل کرو …
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = آڈیو ای میل کرو۔۔۔
+    .accesskey = a
 main-context-menu-plugin-play =
     .label = ایہ پلگ ان فعال کرو
     .accesskey = c
