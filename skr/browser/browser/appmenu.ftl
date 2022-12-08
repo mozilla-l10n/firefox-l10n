@@ -84,22 +84,52 @@ appmenuitem-fxa-toolbar-sync-now2 = ہݨ ہم وقت کرو
 appmenuitem-fxa-sign-in = { -brand-product-name } وِچ سائن ان تھیوو
 appmenuitem-fxa-manage-account = کھاتہ منیج کرو
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = چھیکڑی مطابقت پذیری { $time }
+    .label = چھیکڑی مطابقت پذیری { $time }
+appmenu-fxa-sync-and-save-data2 = ڈیٹا ہم وقت کرو تے محفوظ کرو
 appmenu-fxa-signed-in-label = سائن ان
+appmenu-fxa-setup-sync =
+    .label = ہم وقت کرݨ چالو کرو۔۔۔
+appmenuitem-save-page =
+    .label = ورقہ ہتھیکڑا کرو بطور …
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = نواں کیا ہے؟
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = پروفائلر
+    .tooltiptext = ہک کارکردگی پروفائل ریکارڈ کرو
+profiler-popup-button-recording =
+    .label = پروفائلر
+    .tooltiptext = پرفائلر ہک پروفائل ریکارڈ کریندا پئے
+profiler-popup-button-capturing =
+    .label = پروفائلر
+    .tooltiptext = پروفائلر ہک پروفائل دا فوٹو چھکیندا پئے
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-header-text = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = ودھیک معلومات ظاہر کرو
+profiler-popup-description-title =
+    .value = ریکارڈ کرو ، تجزیہ کرو ، شیر کرو
 profiler-popup-learn-more-button =
     .label = ٻیا سِکھو
 profiler-popup-settings =
     .value = ترتیباں
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = سیٹنگز وچ تبدیلی کرو…
+profiler-popup-recording-screen = ریکارڈنگ تھیندی پئی اے …
+profiler-popup-start-recording-button =
+    .label = ریکارڈنگ شروع کرو
 profiler-popup-discard-button =
     .label = کڈھ سٹو
 profiler-popup-capture-button =
@@ -123,6 +153,8 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = ویب تکمیل کار
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
@@ -131,6 +163,9 @@ profiler-popup-presets-media-label =
     .label = میڈیا
 profiler-popup-presets-networking-label =
     .label = نیٹ ورکنگ
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = بجلی
 profiler-popup-presets-custom-label =
     .label = مخصوص
 
@@ -139,6 +174,7 @@ profiler-popup-presets-custom-label =
 appmenu-manage-history =
     .label = تاریخ منیج کرو
 appmenu-reopen-all-tabs = ساریاں ٹیباں کھولو
+appmenu-reopen-all-windows = سبھے ونڈوز ولا کھولو
 appmenu-recent-history-subheader = حالیہ تاریخ
 appmenu-recently-closed-tabs =
     .label = حالیہ بند تھیاں ٹیباں
