@@ -96,11 +96,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Tak'ulu' ato'ik
 urlbar-search-tips-confirm = Ütz, Xq'ax pa nuwi'
+urlbar-search-tips-confirm-short = Xik'o pa nuwi'
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Pixa':
+urlbar-result-menu-button =
+    .title = Tijaq k'utsamaj
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -118,6 +121,7 @@ urlbar-tabtosearch-onboard = Tacha' re chojokem richin anin nawïl ri nakanoj.
 urlbar-search-mode-bookmarks = Taq yaketal
 urlbar-search-mode-tabs = Taq ruwi'
 urlbar-search-mode-history = Natab'äl
+urlbar-search-mode-actions = Taq b'anoj
 
 ##
 
@@ -160,6 +164,9 @@ page-action-manage-extension =
     .label = Tinuk'samajïx K'amal…
 page-action-remove-extension =
     .label = Tiyuj K'amal
+page-action-manage-extension2 =
+    .label = Tinuk'samajïx K'amal…
+    .accesskey = K
 
 ## Auto-hide Context Menu
 
@@ -787,6 +794,10 @@ data-reporting-notification-button =
     .accesskey = T
 
 ## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
 
 
 ## Autorefresh blocker
