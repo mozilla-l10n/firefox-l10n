@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Dena prest!
 firefoxview-mobile-confirmation-description = Hemendik aurrera zure tableta edo telefonoko { -brand-product-name }(e)n fitxak hartu ahal izango dituzu.
 firefoxview-closed-tabs-title = Itxitako azkenak
 firefoxview-closed-tabs-description2 = Berrireki leiho honetan itxi dituzun orriak.
-firefoxview-closed-tabs-placeholder = <strong>Itxitako azken orririk ez</strong><br/>Ez izan itxitako fitxak galtzeko beldurrik. Edozein unetan berreskura ditzakezu hemen.
 firefoxview-closed-tabs-placeholder-header = Itxitako azken fitxarik ez
 firefoxview-closed-tabs-placeholder-body = Leiho honetan fitxa bat ixtean, hemendik eskura dezakezu.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Baztertu { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Erabilitako azkena
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Aldatu kolore-konbinazioa
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Momentuz ikustekorik ez</strong><br/>Beste gailu bateko { -brand-product-name }(e)n orri bat irekitzen duzun hurrengo aldian, esku-eskura izango duzu hemen.
 firefoxview-synced-tabs-placeholder-header = Ikusteko ezer ez momentuz
 firefoxview-synced-tabs-placeholder-body = Beste gailu bateko { -brand-product-name }(e)n orri bat irekitzen duzun hurrengo aldian, esku-eskura izango duzu hemen.
 firefoxview-collapse-button-show =
