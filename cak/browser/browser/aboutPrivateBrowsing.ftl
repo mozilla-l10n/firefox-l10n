@@ -30,6 +30,7 @@ about-private-browsing-focus-promo-cta = Tiqasäx { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Tak'waj ri ichinan okem pa k'amaya'l pan awoyonib'al
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

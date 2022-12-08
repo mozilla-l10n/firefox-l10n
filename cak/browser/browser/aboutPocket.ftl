@@ -43,8 +43,10 @@ pocket-panel-signup-tagline-story-one = Tapitz'a' rupitz'b'al { -pocket-brand-na
 pocket-panel-signup-tagline-story-two = Titz'et pa { -pocket-brand-name } pa jun chik okisaxel, xab'achike ramaj.
 pocket-panel-signup-cta-a-fix = Ri yaköl apitz'b'al richin k'amaya'l.
 pocket-panel-signup-cta-b = Tapitz'a' { -pocket-brand-name } richin ye'ayäk taq cholna'oj, silowäch chuqa' taq ximonel. Tatz'eta' ri acholb'al pa xab'achike okisab'äl pa xab'achike ramaj.
+pocket-panel-signup-cta-b-updated = Tapitz'a' { -pocket-brand-name } richin ye'ayäk cholna'oj, silowäch chuqa' taq ximonel. Tatz'eta' ri ayakon pa jun okisab'äl achike ramaj.
 pocket-panel-signup-cta-b-short = Tapitz'a' ri { -pocket-brand-name } pitz'b'äl richin ye'ayäk taq cholna'oj, silowäch chuqa' taq ximonel.
 pocket-panel-signup-cta-c = Tatz'eta' ri acholb'al pa xab'achike okisab'äl, xab'achike ramaj.
+pocket-panel-signup-cta-c-updated = Tatz'eta' ri ayakon pa jun okisab'äl, achike ramaj.
 
 ## about:pocket-home panel
 
@@ -55,12 +57,14 @@ pocket-panel-home-explore-popular-topics = Kenik'öx Nab'ey taq Wachinel
 pocket-panel-home-discover-more = Tikanöx Ch'aqa' Chik
 pocket-panel-home-explore-more = Tikanöx
 pocket-panel-home-most-recent-saves = Wawe' e k'o ri k'ab'a' ke'ayäk:
+pocket-panel-home-most-recent-saves-loading = Yesamajïx ri k'ab'a' keyak…
 pocket-panel-home-new-user-cta = Tapitz'a' ri { -pocket-brand-name } pitz'b'äl richin ye'ayäk taq cholna'oj, silowäch chuqa' taq ximonel.
 pocket-panel-home-new-user-message = Ke'atz'eta' ri ri k'ab'a' ke'ayäk.
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Titz'et Nucholb'al
+pocket-panel-header-my-saves = Titz'et Taq Nuyakoj
 pocket-panel-header-sign-in = Titikirisäx Molojri'ïl
 
 ## Pocket panel buttons
