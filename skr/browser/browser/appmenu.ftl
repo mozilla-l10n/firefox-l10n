@@ -175,9 +175,15 @@ appmenu-manage-history =
     .label = تاریخ منیج کرو
 appmenu-reopen-all-tabs = ساریاں ٹیباں کھولو
 appmenu-reopen-all-windows = سبھے ونڈوز ولا کھولو
+appmenu-restore-session =
+    .label = پچھلا سیشن بحال کرو
+appmenu-clear-history =
+    .label = حالیہ تاریخ صاف کرو…
 appmenu-recent-history-subheader = حالیہ تاریخ
 appmenu-recently-closed-tabs =
     .label = حالیہ بند تھیاں ٹیباں
+appmenu-recently-closed-windows =
+    .label = حالیہ بند کیتی ڳئی ونڈوز
 
 ## Help panel
 
@@ -189,14 +195,28 @@ appmenu-about =
 appmenu-get-help =
     .label = مدد گھنو
     .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = ودھیک ٹربل شوٹنگ معلومات
+    .accesskey = t
+appmenu-help-report-site-issue =
+    .label = سائٹ مسئلہ… رپورٹ کرو
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = ٹربل شوٹ موبائل
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = ٹربل شوٹ موڈ بند کرو
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = دروہی سائٹ دی رپورٹ کرو
+    .accesskey = d
 appmenu-help-not-deceptive =
     .label = اے دروہی سائٹ کائنی۔۔۔
     .accesskey = d

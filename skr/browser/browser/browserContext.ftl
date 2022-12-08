@@ -11,6 +11,16 @@ navbar-tooltip-instruction =
 
 ## Back
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = ہک ورقہ پچھو تے ونڄو ({ $shortcut })
+    .aria-label = پچھو تے
+    .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = پچھوں  تے
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -18,6 +28,12 @@ toolbar-button-back-2 =
 
 ## Forward
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = ہک ورقہ اڳو تے ونڄو ({ $shortcut })
+    .aria-label = اڳوں  تے
+    .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = اڳو تے
@@ -74,6 +90,28 @@ main-context-menu-bookmark-add =
     .aria-label = ایں ورقے تے نشانی لاؤ
     .accesskey = m
     .tooltiptext = ایں ورقے تے نشانی لاؤ
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = ورقہ نشانی لاؤ
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = نشانی وچ ترمیم کرو
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = ایہ ورقہ بک مارک کرو
+    .accesskey = m
+    .tooltiptext = اے ورقہ بک مارک کرو ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = ایں بک مارک وچ ترمیم کرو
+    .accesskey = m
+    .tooltiptext = ایں بک مارک وچ ترمیم کرو
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
@@ -90,6 +128,28 @@ main-context-menu-bookmark-page =
 main-context-menu-bookmark-page-mac =
     .label = ورقہ بک مارک کرو …
     .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = ایں نشانی وچ ترمیم کرو
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = ورقہ بک مارک کرو …
+    .accesskey = m
+    .tooltiptext = ورقہ بک مارک کرو ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = ایں نشانی وچ ترمیم کرو۔۔۔
+    .accesskey = m
+    .tooltiptext = نشانی وچ ترمیم کرو
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = بک مارک ترمیم کرو…
+    .accesskey = m
+    .tooltiptext = بک مارک ترمیم کرو ({ $shortcut })
 main-context-menu-open-link =
     .label = لنک کھولو
     .accesskey = O
@@ -114,6 +174,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = لنک ہتھیکڑا کرو بطور …
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = لنک { -pocket-brand-name } تے ہتھیکڑا کرو
+    .accesskey = o
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
