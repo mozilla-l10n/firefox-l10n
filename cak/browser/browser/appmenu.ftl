@@ -169,6 +169,8 @@ profiler-popup-presets-graphics-label =
     .label = Taq wachib'äl
 profiler-popup-presets-media-label =
     .label = K'ïy k'oxom
+profiler-popup-presets-networking-label =
+    .label = K'amab'ey
 profiler-popup-presets-custom-label =
     .label = Ichinan
 
