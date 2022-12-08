@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Une erreur est survenue pendant une connexion à { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Code d’erreur : { $error }
-
 psmerr-ssl-disabled = Connexion sécurisée impossible car le protocole SSL a été désactivé.
 psmerr-ssl2-disabled = Connexion sécurisée impossible car le site utilise une ancienne version non sûre du protocole SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Vous avez reçu un certificat invalide. Veuillez contacter l’administrateur du serveur ou votre correspondant de messagerie et fournissez-lui les informations suivantes :
     
     Votre certificat contient le même numéro de série qu’un autre certificat émis par l’autorité de certification. Veuillez vous procurer un nouveau certificat avec un numéro de série unique.
-
 ssl-error-export-only-server = Impossible de communiquer en mode sécurisé. Le pair ne gère pas le chiffrement de haut niveau.
 ssl-error-us-only-server = Impossible de communiquer en mode sécurisé. Le pair requiert un chiffrement de haut niveau qui n’est pas géré.
 ssl-error-no-cypher-overlap = Impossible de communiquer en mode sécurisé avec le pair : aucun algorithme de chiffrement en commun.
@@ -204,7 +201,7 @@ sec-internal-only = **Module interne SEULEMENT**
 sec-error-invalid-key = La clé ne gère pas l’opération demandée.
 sec-error-unknown-critical-extension = Le certificat contient une extension critique inconnue.
 sec-error-old-crl = La date de péremption de la nouvelle liste de certificats révoqués n’est pas ultérieure à celle de la liste en cours.
-sec-error-no-email-cert = Non chiffré ou signé : vous n’avez pas encore de certificat d’adresse électronique.
+sec-error-no-email-cert = Non chiffré ou signé : vous n’avez pas encore de certificat d’adresse e-mail.
 sec-error-no-recipient-certs-query = Non chiffré : vous n’avez pas de certificat pour chacun des destinataires.
 sec-error-not-a-recipient = Impossible de déchiffrer : vous n’êtes pas le destinataire ou le certificat et la clé privée correspondants n’ont pas été trouvés.
 sec-error-pkcs7-keyalg-mismatch = Impossible de déchiffrer : l’algorithme de chiffrement de clé ne correspond pas à votre certificat.
