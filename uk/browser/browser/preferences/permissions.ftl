@@ -5,81 +5,65 @@
 permissions-window =
     .title = Винятки
     .style = width: 36em
-
 permissions-window2 =
     .title = Винятки
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адреса сайту
     .accesskey = д
-
 permissions-block =
     .label = Блокувати
     .accesskey = Б
-
+permissions-disable-etp =
+    .label = Додати виняток
+    .accesskey = в
 permissions-session =
     .label = Дозволити на сеанс
     .accesskey = о
-
 permissions-allow =
     .label = Дозволити
     .accesskey = Д
-
 permissions-button-off =
     .label = Вимкнути
     .accesskey = В
-
 permissions-button-off-temporarily =
     .label = Вимкнути тимчасово
     .accesskey = т
-
 permissions-site-name =
     .label = Вебсайт
-
 permissions-status =
     .label = Стан
-
 permissions-remove =
     .label = Вилучити вебсайт
     .accesskey = л
-
 permissions-remove-all =
     .label = Вилучити всі вебсайти
     .accesskey = с
-
 permission-dialog =
     .buttonlabelaccept = Зберегти зміни
     .buttonaccesskeyaccept = З
-
 permissions-autoplay-menu = Типово для всіх вебсайтів:
-
 permissions-searchbox =
     .placeholder = Пошук по сайту
-
 permissions-capabilities-autoplay-allow =
     .label = Дозволити аудіо та відео
 permissions-capabilities-autoplay-block =
     .label = Блокувати аудіо
 permissions-capabilities-autoplay-blockall =
     .label = Блокувати аудіо та відео
-
 permissions-capabilities-allow =
     .label = Дозволити
 permissions-capabilities-block =
     .label = Блокувати
 permissions-capabilities-prompt =
     .label = Завжди питати
-
 permissions-capabilities-listitem-allow =
     .value = Дозволити
 permissions-capabilities-listitem-block =
     .value = Блокувати
 permissions-capabilities-listitem-allow-session =
     .value = Дозволити на сеанс
-
 permissions-capabilities-listitem-off =
     .value = Вимкнено
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +79,17 @@ permissions-invalid-uri-label = Введіть правильне мережев
 permissions-exceptions-etp-window =
     .title = Винятки для розширеного захисту від стеження
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Винятки для розширеного захисту від стеження
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Ви вимкнули захист для цих вебсайтів.
+permissions-exceptions-manage-etp-desc = Ви можете вказати, для яких вебсайтів вимкнути розширений захист від стеження. Введіть точну адресу сайту, для якого потрібно виконати зміни, а потім натисніть «Додати виняток».
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Винятки - Куки і дані сайтів
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Винятки - Куки і дані сайтів
     .style = { permissions-window2.style }
@@ -117,7 +100,6 @@ permissions-exceptions-cookie-desc = Ви можете вказати, яким 
 permissions-exceptions-https-only-window =
     .title = Винятки — HTTPS-режим
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Винятки — HTTPS-режим
     .style = { permissions-window2.style }
@@ -128,7 +110,6 @@ permissions-exceptions-https-only-desc = Ви можете вимкнути HTTP
 permissions-exceptions-popup-window =
     .title = Дозволені вебсайти - Спливні вікна
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Дозволені вебсайти - Спливні вікна
     .style = { permissions-window2.style }
@@ -139,7 +120,6 @@ permissions-exceptions-popup-desc = Ви можете вказати, яким �
 permissions-exceptions-saved-logins-window =
     .title = Винятки - Збережені паролі
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Винятки - Збережені паролі
     .style = { permissions-window2.style }
@@ -150,7 +130,6 @@ permissions-exceptions-saved-logins-desc = Паролі для таких веб
 permissions-exceptions-addons-window =
     .title = Дозволені вебсайти - Встановлення додатків
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Дозволені вебсайти - Встановлення додатків
     .style = { permissions-window2.style }
@@ -161,7 +140,6 @@ permissions-exceptions-addons-desc = Ви можете вказати, яким 
 permissions-site-autoplay-window =
     .title = Налаштування - Автовідтворення
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Налаштування - Автовідтворення
     .style = { permissions-window2.style }
@@ -172,7 +150,6 @@ permissions-site-autoplay-desc = Тут ви можете керувати са�
 permissions-site-notification-window =
     .title = Налаштування - Дозволи сповіщень
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Налаштування - Дозволи сповіщень
     .style = { permissions-window2.style }
@@ -186,7 +163,6 @@ permissions-site-notification-disable-desc = Це не дозволить буд
 permissions-site-location-window =
     .title = Налаштування - Дозволи розташування
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Налаштування - Дозволи розташування
     .style = { permissions-window2.style }
@@ -200,7 +176,6 @@ permissions-site-location-disable-desc = Це не дозволить будь-�
 permissions-site-xr-window =
     .title = Налаштування - Дозволи віртуальної реальності
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = Налаштування - Дозволи віртуальної реальності
     .style = { permissions-window2.style }
@@ -214,7 +189,6 @@ permissions-site-xr-disable-desc = Це не дозволить будь-яки�
 permissions-site-camera-window =
     .title = Налаштування - Дозволи камери
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Налаштування - Дозволи камери
     .style = { permissions-window2.style }
@@ -228,7 +202,6 @@ permissions-site-camera-disable-desc = Це не дозволить будь-я�
 permissions-site-microphone-window =
     .title = Налаштування - Дозволи мікрофону
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Налаштування - Дозволи мікрофону
     .style = { permissions-window2.style }
