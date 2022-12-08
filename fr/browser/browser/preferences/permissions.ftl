@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Exceptions pour la protection renforcée contre le pistage
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Vous avez désactivé les protections sur ces sites web.
+permissions-exceptions-manage-etp-desc = Vous pouvez indiquer les sites web pour lesquels la Protection renforcée contre le pistage sera désactivée. Saisissez l’adresse exacte du site que vous souhaitez gérer et cliquez sur Ajouter une exception.
 
 ## Exceptions - Cookies
 

@@ -793,7 +793,7 @@ toolbar-overflow-customize-button =
     .accesskey = P
 toolbar-button-email-link =
     .label = Envoyer un lien
-    .tooltiptext = Envoyer par courriel un lien vers la page
+    .tooltiptext = Envoyer par e-mail un lien vers la page
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

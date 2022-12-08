@@ -67,7 +67,7 @@ neterror-nss-failure-not-verified = La page que vous essayez de consulter ne peu
 neterror-nss-failure-contact-website = Veuillez contacter les propriétaires du site web pour les informer de ce problème.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = { -brand-short-name } a détecté une menace de sécurité potentielle et n’a pas poursuivi vers <b>{ $hostname }</b>. Si vous accédez à ce site, des attaquants pourraient dérober des informations comme vos mots de passe, courriels, ou données de carte bancaire.
+certerror-intro = { -brand-short-name } a détecté une menace de sécurité potentielle et n’a pas poursuivi vers <b>{ $hostname }</b>. Si vous accédez à ce site, des attaquants pourraient dérober des informations comme vos mots de passe, e-mails, ou données de carte bancaire.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = { -brand-short-name } a détecté une menace potentielle de sécurité et a interrompu le chargement de <b>{ $hostname }</b>, car ce site web nécessite une connexion sécurisée.
