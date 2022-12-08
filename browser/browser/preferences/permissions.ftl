@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = 例外 - 增强型跟踪保护
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = 你已关闭对下列网站的保护。
+permissions-exceptions-manage-etp-desc = 您可以指定为哪些网站关闭增强型跟踪保护。请输入需要管理的完整网址，然后点击“添加例外”。
 
 ## Exceptions - Cookies
 
