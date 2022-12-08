@@ -113,7 +113,7 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "&brandShortName; a détecté une menace de sécurité potentielle et n’a pas poursuivi vers <span class='hostname'/>. Si vous accédez à ce site, des attaquants pourraient dérober des informations comme vos mots de passe, courriels, ou données de carte bancaire.">
+<!ENTITY certerror.introPara2 "&brandShortName; a détecté une menace de sécurité potentielle et n’a pas poursuivi vers <span class='hostname'/>. Si vous accédez à ce site, des attaquants pourraient dérober des informations comme vos mots de passe, e-mails, ou données de carte bancaire.">
 <!ENTITY certerror.sts.introPara "&brandShortName; a détecté une menace potentielle de sécurité et a interrompu le chargement de <span class='hostname'/>, car ce site web nécessite une connexion sécurisée.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; a détecté un problème et a interrompu le chargement de <span class='hostname'/>. Soit le site est mal configuré, soit l’horloge de votre ordinateur est réglée à la mauvaise heure.">
