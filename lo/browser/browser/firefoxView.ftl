@@ -41,6 +41,7 @@ firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກ�
 firefoxview-tabpickup-sync-disconnected-header = ເປີດການຊິງຄ໌ເພື່ອດຳເນີນການຕໍ່
 firefoxview-tabpickup-password-locked-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 firefoxview-tabpickup-password-locked-primarybutton = ໃສ່ລະຫັດຜ່ານຫຼັກ
+firefoxview-tabpickup-syncing = ນັ່ງຖ້າແປັບໜຶ່ງໃນຂະນະທີ່ແຖບຂອງທ່ານ sync. ມັນໃຊ້ເວລາແປັບດຽວ​.
 firefoxview-mobile-promo-header = ຈັບແຖບຈາກໂທລະສັບ ຫຼືແທັບເລັດຂອງທ່ານ
 firefoxview-mobile-confirmation-header = 🎉 ດີຫຼາຍ!
 firefoxview-closed-tabs-title = ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
@@ -58,6 +59,7 @@ firefoxview-change-colorway-button = ປ່ຽນສີ
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = ບໍ່ມີຫຍັງໃຫ້ເບິ່ງເທື່ອ
 firefoxview-collapse-button-show =
     .title = ສະແດງລາຍການ
 firefoxview-collapse-button-hide =

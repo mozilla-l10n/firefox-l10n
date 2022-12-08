@@ -13,6 +13,7 @@ callout-primary-complete-button-label = ເຂົ້າໃຈແລ້ວ!
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = ໂດດໄປມາລະຫວ່າງອຸປະກອນທີ່ມີການຮັບແຖບ
 callout-firefox-view-recently-closed-title = ເອົາແຖບປິດຂອງເຈົ້າຄືນມາໃນທັນທີ
+callout-firefox-view-recently-closed-subtitle = ແຖບປິດທັງໝົດຂອງເຈົ້າຈະປາກົດຢູ່ບ່ອນນີ້ຢ່າງມະຫັດສະຈັນ. ຢ່າກັງວົນກ່ຽວກັບການປິດເວັບໄຊອີກຄັ້ງໂດຍບັງເອີນ.
 callout-firefox-view-colorways-title = ເລືອກສີທີ່ທ່ານມັກ
 callout-firefox-view-colorways-reminder-title = ສຳຫຼວດສີສັນຫຼ້າສຸດຂອງພວກເຮົາ
 
