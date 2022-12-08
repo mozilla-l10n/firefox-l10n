@@ -54,9 +54,12 @@ firefoxview-mobile-confirmation-header = 🎉 Tut pront!
 firefoxview-mobile-confirmation-description = Ussa pos ti ir per tes tabs da { -brand-product-name } da tes tablet u telefonin.
 firefoxview-closed-tabs-title = Serrà dacurt
 firefoxview-closed-tabs-description2 = Avra danovamain paginas che ti has serrà en questa fanestra.
-firefoxview-closed-tabs-placeholder = <strong>Naginas paginas serradas dacurt</strong><br/>Ti na stos mai pli temair da perder in tab serrà. Ti al chattas adina qua.
 firefoxview-closed-tabs-placeholder-header = Nagins tabs serrads dacurt
 firefoxview-closed-tabs-placeholder-body = Sche ti serras in tab en questa fanestra, al pos ti adina recuperar da qua.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Allontanar { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ultim activ
 # Variables:
@@ -70,7 +73,6 @@ firefoxview-change-colorway-button = Midar la cumbinaziun da colurs
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Anc nagut da vesair</strong><br/>La proxima giada che ti avras ina pagina en { -brand-product-name } sin in auter apparat, la post ti era avrir qua – a moda quasi magica.
 firefoxview-synced-tabs-placeholder-header = I na dat anc nagut da vesair
 firefoxview-synced-tabs-placeholder-body = La proxima giada che ti avras ina pagina en { -brand-product-name } sin in auter apparat, la chattas ti qua.
 firefoxview-collapse-button-show =
