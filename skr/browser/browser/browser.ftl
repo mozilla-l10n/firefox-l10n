@@ -408,6 +408,9 @@ browser-tab-unblock =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = بک مارکس درآمد کرو …
+    .tooltiptext = ٻئے بروزر کنوں { -brand-short-name } تے بک مارک درآمد کرو
 
 ## WebRTC Pop-up notifications
 
@@ -426,15 +429,85 @@ popup-select-speaker-icon =
 popup-select-window-or-screen =
     .label = ونڈو یا سکرین
     .accesskey = W
+popup-all-windows-shared = تہاݙی سکرین تے نظر آوݨ والیاں تمام ونڈوز سانجھے کیتے ویسن۔
+popup-screen-sharing-block =
+    .label = بلاک کرو
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = ہمیشہ بلاک کرو
+    .accesskey = w
+popup-mute-notifications-checkbox = شیئر کریندے ویلھے ویب سائٹ دیاں اطلاعات کوں خاموش کرو
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = تساں { -brand-short-name } شیئر کریندے پئے او ۔ ٻئے لوک ݙیکھ سڳدن جݙاں تساں نویں ٹیب تے ویسو۔
+sharing-warning-screen = تساں اپݨی سالم سکرین شیئر کریندے پئے او۔ ٻئے لوک ݙیکھ سڳدن جݙاں تساں نویں ٹیب تے ویندو۔
+sharing-warning-proceed-to-tab =
+    .label = ٹیب اڳو تے ودھاؤ
+sharing-warning-disable-for-session =
+    .label = ایں سیشن کیتے شیئرنگ تحفظ کوں غیر فعال کرو
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 استعمال کرݨ کیتے، پہلے DevTools بذریعہ ڈویلپر مینیو کھولو۔
+enable-devtools-popup-description2 = F12 شاٹ کٹ استعمال کرݨ کیتے، پہلے DevTools بذریعہ براؤزر ٹول مینیو کھولو۔
 
 ## URL Bar
 
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
+urlbar-placeholder =
+    .placeholder = ڳولو یا پتہ درج کرو
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = ویب تے تلاش کرو
+    .aria-label = { $name } نال ڳولو
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = ڳولݨ شرطاں درج کرو
+    .aria-label = { $name } ڳولو
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = ڳولݨ شرطاں درج کرو
+    .aria-label = بک مارکس ڳولو
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = ڳولݨ شرطاں درج کرو
+    .aria-label = ہسٹری ڳولو
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = ڳولݨ دیاں شرطاں درج کرو
+    .aria-label = ٹیبز ڳولو
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = ڳولݨ شرطاں درج کرو
+    .aria-label = ایکشنز ڳولو
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } نال ڳولو یا پتہ درج کرو
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = براؤزر ریموٹ کنٹرول دے تحت ہے (وجہ: { $component })
+urlbar-permissions-granted =
+    .tooltiptext = تساں ایں ویب سائٹ کوں اضافی اجازتاں ݙے ݙتیاں ہن
+urlbar-switch-to-tab =
+    .value = ٹیب تے سوئچ کرو:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ایکسٹینشن:
+urlbar-go-button =
+    .tooltiptext = لوکیشن بار وِچ ݙتے ڳئے پتے تے ونڄو
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
