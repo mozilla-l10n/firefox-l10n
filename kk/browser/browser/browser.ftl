@@ -282,30 +282,42 @@ quickactions-addons = Қосымшаларды қарау
 quickactions-cmd-addons2 = қосымшалар
 # Opens the bookmarks library window
 quickactions-bookmarks = Бетбелгілерді қарау
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Бетбелгілерді басқару
 quickactions-cmd-bookmarks = бетбелгілер
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Тарихты тазарту
 quickactions-cmd-clearhistory = тарихты тазарту
 # Opens about:downloads page
 quickactions-downloads = Жүктемелерді ашу
+# Opens about:downloads page
+quickactions-downloads2 = Жүктемелерді қарау
 quickactions-cmd-downloads = жүктемелер
 # Opens about:addons page in the extensions section
 quickactions-extensions = Кеңейтулерді басқару
 quickactions-cmd-extensions = кеңейтулер
 # Opens the devtools web inspector
 quickactions-inspector = Инспекторды ашу
+# Opens the devtools web inspector
+quickactions-inspector2 = Әзірлеуші құралдарын ашу
 quickactions-cmd-inspector = бақылаушы, әзірлеуші құралдары
 # Opens about:logins
 quickactions-logins = Логиндерді қарау
+# Opens about:logins
+quickactions-logins2 = Парольдерді басқару
 quickactions-cmd-logins = логиндер, парольдер
 # Opens about:addons page in the plugins section
 quickactions-plugins = Плагиндерді басқару
 quickactions-cmd-plugins = плагиндер
 # Opens the print dialog
 quickactions-print = Баспаға шығару
+# Opens the print dialog
+quickactions-print2 = Бетті баспаға шығару
 quickactions-cmd-print = баспаға шығару
 # Opens a new private browsing window
 quickactions-private = Жекелік шолу терезесін ашу
+# Opens a new private browsing window
+quickactions-private2 = Жекелік шолу терезесін ашу
 quickactions-cmd-private = жекелік шолу
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } жаңғырту
@@ -315,9 +327,13 @@ quickactions-restart = { -brand-short-name } қайта қосу
 quickactions-cmd-restart = қайта қосу
 # Opens the screenshot tool
 quickactions-screenshot2 = Скриншотты түсіру
+# Opens the screenshot tool
+quickactions-screenshot3 = Скриншотты түсіру
 quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings = Баптауларды ашу
+# Opens about:preferences
+quickactions-settings2 = Баптауларды басқару
 quickactions-cmd-settings = баптаулар, қалаулар, опциялар
 # Opens about:addons page in the themes section
 quickactions-themes = Темаларды басқару
@@ -327,6 +343,8 @@ quickactions-update = { -brand-short-name } жаңарту
 quickactions-cmd-update = жаңарту
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Бастапқы кодын қарау
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Парақтың бастапқы кодын қарау
 quickactions-cmd-viewsource = бастапқы кодын қарау, бастапқы код
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
