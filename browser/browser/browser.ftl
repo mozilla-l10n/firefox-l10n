@@ -152,6 +152,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = Escribe menos, encuentra más: busca { $engineName } desde tu barra de direcciones.
 urlbar-search-tips-redirect-2 = Inicia tu búsqueda en la barra de direcciones para ver sugerencias de { $engineName } y tu historial de navegación.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = La búsqueda ahora es más simple. Intenta hacer tu búsqueda más específica aquí en la barra de direcciones. Si prefieres mostrar la URL, visita Buscar, en los ajustes.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seleccione este acceso directo para encontrar más rápidamente lo que necesite.
@@ -280,6 +282,8 @@ quickactions-addons = Ver complementos
 quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks = Ver Marcadores
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Administrar marcadores
 quickactions-cmd-bookmarks = marcadores
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpiar historial
@@ -294,6 +298,8 @@ quickactions-extensions = Administrar extensiones
 quickactions-cmd-extensions = extensiones
 # Opens the devtools web inspector
 quickactions-inspector = Abrir inspector
+# Opens the devtools web inspector
+quickactions-inspector2 = Abrir herramientas de desarrollador
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins = Ver inicios de sesión

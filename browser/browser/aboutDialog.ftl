@@ -19,6 +19,7 @@ update-failed = La actualización falló. <label data-l10n-name="failed-link">D
 update-failed-main = La actualización falló. <a data-l10n-name="failed-link-main">Descarga la versión más reciente</a>
 update-adminDisabled = Actualizaciones deshabilitadas por el administrador del sistema
 update-noUpdatesFound = { -brand-short-name } está actualizado
+aboutdialog-update-checking-failed = Error al buscar actualizaciones.
 update-otherInstanceHandlingUpdates = { -brand-short-name } está siendo actualizado por otra instancia
 update-manual = Actualizaciones disponibles en <label data-l10n-name="manual-link"/>
 update-unsupported = No puedes realizar más actualizaciones en este sistema. <label data-l10n-name="unsupported-link">Más información</label>
