@@ -282,30 +282,42 @@ quickactions-addons = Ver extensões
 quickactions-cmd-addons2 = extensões
 # Opens the bookmarks library window
 quickactions-bookmarks = Ver favoritos
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Gerenciar favoritos
 quickactions-cmd-bookmarks = favoritos
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpar histórico
 quickactions-cmd-clearhistory = limpar histórico
 # Opens about:downloads page
 quickactions-downloads = Abrir downloads
+# Opens about:downloads page
+quickactions-downloads2 = Ver arquivos baixados
 quickactions-cmd-downloads = downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gerenciar extensões
 quickactions-cmd-extensions = extensões
 # Opens the devtools web inspector
 quickactions-inspector = Abrir inspetor
+# Opens the devtools web inspector
+quickactions-inspector2 = Abrir ferramentas de desenvolvimento
 quickactions-cmd-inspector = inspetor, ferramentas de desenvolvimento
 # Opens about:logins
 quickactions-logins = Ver contas de acesso
+# Opens about:logins
+quickactions-logins2 = Gerenciar senhas
 quickactions-cmd-logins = contas, senhas
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gerenciar plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprimir
+# Opens the print dialog
+quickactions-print2 = Imprimir página
 quickactions-cmd-print = imprimir
 # Opens a new private browsing window
 quickactions-private = Abrir janela de navegação privativa
+# Opens a new private browsing window
+quickactions-private2 = Abrir janela privativa
 quickactions-cmd-private = navegação privativa
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Restaurar o { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Reiniciar o { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot2 = Capturar tela
+# Opens the screenshot tool
+quickactions-screenshot3 = Capturar tela
 quickactions-cmd-screenshot = capturar tela
 # Opens about:preferences
 quickactions-settings = Abrir configurações
+# Opens about:preferences
+quickactions-settings2 = Gerenciar configurações
 quickactions-cmd-settings = configurações, preferências, opções
 # Opens about:addons page in the themes section
 quickactions-themes = Gerenciar temas
@@ -327,6 +343,8 @@ quickactions-update = Atualizar o { -brand-short-name }
 quickactions-cmd-update = atualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver código-fonte
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Ver código-fonte da página
 quickactions-cmd-viewsource = ver fonte, fonte
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
