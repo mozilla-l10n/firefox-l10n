@@ -282,30 +282,42 @@ quickactions-addons = Прикажи додатке
 quickactions-cmd-addons2 = додаци
 # Opens the bookmarks library window
 quickactions-bookmarks = Прикажи обележиваче
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Управљај обележивачима
 quickactions-cmd-bookmarks = обележивачи
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Обриши историју
 quickactions-cmd-clearhistory = обриши историју
 # Opens about:downloads page
 quickactions-downloads = Отвори преузимања
+# Opens about:downloads page
+quickactions-downloads2 = Прикажи преузимања
 quickactions-cmd-downloads = преузимања
 # Opens about:addons page in the extensions section
 quickactions-extensions = Управљај проширењима
 quickactions-cmd-extensions = проширења
 # Opens the devtools web inspector
 quickactions-inspector = Отвори инспектор
+# Opens the devtools web inspector
+quickactions-inspector2 = Отвори алате за програмере
 quickactions-cmd-inspector = инспектор, алати за програмере
 # Opens about:logins
 quickactions-logins = Прикажи пријаве
+# Opens about:logins
+quickactions-logins2 = Управљај лозинкама
 quickactions-cmd-logins = пријаве, лозинке
 # Opens about:addons page in the plugins section
 quickactions-plugins = Управљај прикључцима
 quickactions-cmd-plugins = прикључци
 # Opens the print dialog
 quickactions-print = Штампај
+# Opens the print dialog
+quickactions-print2 = Штампај страницу
 quickactions-cmd-print = штампај
 # Opens a new private browsing window
 quickactions-private = Отвори прозор за приватно прегледање
+# Opens a new private browsing window
+quickactions-private2 = Отвори приватни прозор
 quickactions-cmd-private = приватно прегледање
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Освежи { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Рестартуј { -brand-short-name }
 quickactions-cmd-restart = рестартуј
 # Opens the screenshot tool
 quickactions-screenshot2 = Направи снимак екрана
+# Opens the screenshot tool
+quickactions-screenshot3 = Направи снимак екрана
 quickactions-cmd-screenshot = снимак екрана
 # Opens about:preferences
 quickactions-settings = Отвори подешавања
+# Opens about:preferences
+quickactions-settings2 = Управљај подешавањима
 quickactions-cmd-settings = подешавања, преференце, опције
 # Opens about:addons page in the themes section
 quickactions-themes = Управљај темама
@@ -327,6 +343,8 @@ quickactions-update = Ажурирај { -brand-short-name }
 quickactions-cmd-update = ажурирај
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Прикажи изворни код
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Прикажи извор странице
 quickactions-cmd-viewsource = изворни код
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
