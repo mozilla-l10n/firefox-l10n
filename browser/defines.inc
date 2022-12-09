@@ -7,6 +7,6 @@
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Aleks Reinhardt</em:contributor> <em:contributor>Matjaž Horvat</em:contributor> <em:contributor>Brian King</em:contributor> <em:contributor>Martin Srebotnjak</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Lan Glad</em:contributor> <em:contributor>Rok Žerdin</em:contributor> <em:contributor>Matjaž Horvat</em:contributor> <em:contributor>Aleks Reinhardt</em:contributor> <em:contributor>Martin Srebotnjak</em:contributor> <em:contributor>Brian King</em:contributor>
 
 #unfilter emptyLines
