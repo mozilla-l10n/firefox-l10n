@@ -286,6 +286,8 @@ quickactions-clearhistory = Limpiar historial
 quickactions-cmd-clearhistory = limpiar historial
 # Opens about:downloads page
 quickactions-downloads = Abrir descargas
+# Opens about:downloads page
+quickactions-downloads2 = Ver descargas
 quickactions-cmd-downloads = descargas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administrar extensiones
@@ -295,15 +297,21 @@ quickactions-inspector = Abrir inspector
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins = Ver inicios de sesión
+# Opens about:logins
+quickactions-logins2 = Administrar contraseñas
 quickactions-cmd-logins = inicios de sesión, contraseñas
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administrar plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprimir
+# Opens the print dialog
+quickactions-print2 = Imprimir página
 quickactions-cmd-print = imprimir
 # Opens a new private browsing window
 quickactions-private = Abrir ventana de navegación privada
+# Opens a new private browsing window
+quickactions-private2 = Abrir ventana privada
 quickactions-cmd-private = navegación privada
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Recargar { -brand-short-name }
@@ -313,9 +321,13 @@ quickactions-restart = Reiniciar { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot2 = Tomar captura de pantalla
+# Opens the screenshot tool
+quickactions-screenshot3 = Tomar captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings = Abrir ajustes
+# Opens about:preferences
+quickactions-settings2 = Administrar ajustes
 quickactions-cmd-settings = ajustes, preferencias, opciones
 # Opens about:addons page in the themes section
 quickactions-themes = Administrar temas
@@ -325,6 +337,8 @@ quickactions-update = Actualizar { -brand-short-name }
 quickactions-cmd-update = actualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver fuente
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Ver código fuente de esta página
 quickactions-cmd-viewsource = ver fuente, fuente
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
