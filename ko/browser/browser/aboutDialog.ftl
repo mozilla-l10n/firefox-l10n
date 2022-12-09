@@ -19,6 +19,7 @@ update-failed = 업데이트에 실패했습니다. <label data-l10n-name="faile
 update-failed-main = 업데이트에 실패했습니다. <a data-l10n-name="failed-link-main">최신 버전 다운로드</a>
 update-adminDisabled = 시스템 관리자에 의해 업데이트가 비활성화됨
 update-noUpdatesFound = { -brand-short-name }가 최신 버전입니다
+aboutdialog-update-checking-failed = 업데이트 확인에 실패했습니다.
 update-otherInstanceHandlingUpdates = 다른 { -brand-short-name }에서 이미 업데이트를 하고 있음
 update-manual = <label data-l10n-name="manual-link"/>에서 업데이트를 사용 가능합니다.
 update-unsupported = 이 시스템에서는 더 이상 업데이트를 할 수 없습니다.<label data-l10n-name="unsupported-link">더 알아보기</label>
