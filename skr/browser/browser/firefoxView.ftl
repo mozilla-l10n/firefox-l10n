@@ -14,6 +14,8 @@ firefoxview-close-button =
     .aria-label = بند کرو
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ہݨے ہݨے
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = ٹیب پک اپ
 firefoxview-tabpickup-step-signin-primarybutton = جاری
 firefoxview-tabpickup-network-offline-primarybutton = ولدا کوشش کرو
 firefoxview-tabpickup-sync-error-primarybutton = ولدا کوشش کرو

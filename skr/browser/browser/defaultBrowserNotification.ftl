@@ -10,3 +10,9 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = { -brand-short-name } کوں تہاݙا منڈھلا براؤزر بݨاؤں؟
+default-browser-prompt-button-primary-pin = بنیادی براؤزر بݨاؤ
+default-browser-prompt-title-alt = { -brand-short-name } کوں تہاݙا طے شدہ براؤزر بݨاؤں؟
+default-browser-prompt-button-primary-alt = پہلوں مقرر براؤز دے طور تے سیٹ کرو
+default-browser-prompt-checkbox-not-again-label = ایہ سنیہا دوبارہ نہ ݙکھاؤ
+default-browser-prompt-button-secondary = ہݨ کائناں
