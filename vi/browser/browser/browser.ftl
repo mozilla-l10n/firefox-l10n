@@ -282,30 +282,42 @@ quickactions-addons = Xem tiện tích
 quickactions-cmd-addons2 = tiện ích
 # Opens the bookmarks library window
 quickactions-bookmarks = Xem dấu trang
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Quản lý dấu trang
 quickactions-cmd-bookmarks = dấu trang, dau trang
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Xóa lịch sử
 quickactions-cmd-clearhistory = xóa lịch sử, xoa lich su
 # Opens about:downloads page
 quickactions-downloads = Mở Tải xuống
+# Opens about:downloads page
+quickactions-downloads2 = Xem tải xuống
 quickactions-cmd-downloads = tải xuống, tai xuong
 # Opens about:addons page in the extensions section
 quickactions-extensions = Quản lý tiện ích
 quickactions-cmd-extensions = tiện ích mở rộng
 # Opens the devtools web inspector
 quickactions-inspector = Mở trình kiểm tra
+# Opens the devtools web inspector
+quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
 quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra
 # Opens about:logins
 quickactions-logins = Xem thông tin đăng nhập
+# Opens about:logins
+quickactions-logins2 = Quản lý mật khẩu
 quickactions-cmd-logins = đăng nhập, thông tin đăng nhập, mật khẩu, dang nhap, thong tin dang nhap, mat khau
 # Opens about:addons page in the plugins section
 quickactions-plugins = Quản lý phần bổ trợ
 quickactions-cmd-plugins = phần bổ trợ
 # Opens the print dialog
 quickactions-print = In
+# Opens the print dialog
+quickactions-print2 = Trang in
 quickactions-cmd-print = in
 # Opens a new private browsing window
 quickactions-private = Mở cửa sổ duyệt web riêng tư
+# Opens a new private browsing window
+quickactions-private2 = Mở cửa sổ riêng tư
 quickactions-cmd-private = duyệt web riêng tư, duyet web rieng tu
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Làm mới { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Khởi động lại { -brand-short-name }
 quickactions-cmd-restart = khởi động lại, khoi dong lai
 # Opens the screenshot tool
 quickactions-screenshot2 = Chụp ảnh màn hình
+# Opens the screenshot tool
+quickactions-screenshot3 = Chụp ảnh màn hình
 quickactions-cmd-screenshot = chụp ảnh màn hình, chup anh man hinh
 # Opens about:preferences
 quickactions-settings = Mở Cài đặt
+# Opens about:preferences
+quickactions-settings2 = Quản lý cài đặt
 quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập, cai dat, tuy chon, thiet lap
 # Opens about:addons page in the themes section
 quickactions-themes = Quản lý chủ đề
@@ -327,6 +343,8 @@ quickactions-update = Cập nhật { -brand-short-name }
 quickactions-cmd-update = cập nhật, cap nhat
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Xem mã nguồn
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Xem mã nguồn trang
 quickactions-cmd-viewsource = xem mã nguồn, xem nguồn, nguồn, xem ma nguon, xem nguon, nguon
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

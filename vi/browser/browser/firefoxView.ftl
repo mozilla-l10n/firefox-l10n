@@ -46,6 +46,9 @@ firefoxview-tabpickup-password-locked-header = Nhập mật khẩu chính của 
 firefoxview-tabpickup-password-locked-description = Để lấy các thẻ của mình, bạn cần nhập mật khẩu chính cho { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Tìm hiểu thêm
 firefoxview-tabpickup-password-locked-primarybutton = Nhập mật khẩu chính
+firefoxview-tabpickup-signed-out-header = Đăng nhập để kết nối lại
+firefoxview-tabpickup-signed-out-description = Để kết nối lại và lấy các thẻ của bạn, hãy đăng nhập vào { -fxaccount-brand-name } của bạn.
+firefoxview-tabpickup-signed-out-primarybutton = Đăng nhập
 firefoxview-tabpickup-syncing = Thoải mái ngồi yên trong khi các thẻ của bạn đồng bộ hóa. Thông thường nó sẽ chỉ mất vài phút.
 firefoxview-mobile-promo-header = Nhận các thẻ từ điện thoại hoặc máy tính bảng của bạn
 firefoxview-mobile-promo-description = Để xem các thẻ trên di động mới nhất của bạn, hãy đăng nhập vào { -brand-product-name } trên iOS hoặc Android.
@@ -54,9 +57,12 @@ firefoxview-mobile-confirmation-header = 🎉 Tất cả đã xong!
 firefoxview-mobile-confirmation-description = Giờ đây, bạn có thể nhận các thẻ { -brand-product-name } từ máy tính bảng hoặc điện thoại của mình.
 firefoxview-closed-tabs-title = Đã đóng gần đây
 firefoxview-closed-tabs-description2 = Mở lại các trang bạn đã đóng trong cửa sổ này.
-firefoxview-closed-tabs-placeholder = <strong>Không có trang nào đã đóng gần đây</strong><br/>Không bao giờ sợ mất một thẻ đã đóng nữa. Bạn luôn có thể thấy nó ở đây.
 firefoxview-closed-tabs-placeholder-header = Không có thẻ nào đã đóng gần đây
 firefoxview-closed-tabs-placeholder-body = Khi bạn đóng một thẻ trong cửa sổ này, bạn có thể lấy nó từ đây.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Bỏ qua { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hoạt động lần cuối
 # Variables:
@@ -70,7 +76,6 @@ firefoxview-change-colorway-button = Thay đổi đường màu
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Chưa có gì để xem</strong><br/>Lần tới khi bạn mở một trang trong { -brand-product-name } trên thiết bị khác, hãy lấy nó ở đây như một phép thuật.
 firefoxview-synced-tabs-placeholder-header = Chưa có gì để xem
 firefoxview-synced-tabs-placeholder-body = Lần tới khi bạn mở một trang bằng { -brand-product-name } trên một thiết bị khác, hãy lấy nó ở đây như một phép thuật.
 firefoxview-collapse-button-show =
