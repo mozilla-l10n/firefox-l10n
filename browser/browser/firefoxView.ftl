@@ -46,6 +46,7 @@ firefoxview-tabpickup-password-locked-header = Saisissez votre mot de passe prin
 firefoxview-tabpickup-password-locked-description = Pour récupérer vos onglets, vous devez saisir le mot de passe principal de { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = En savoir plus
 firefoxview-tabpickup-password-locked-primarybutton = Saisir le mot de passe principal
+firefoxview-tabpickup-signed-out-description = Pour vous reconnecter et récupérer vos onglets, connectez-vous à votre { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Se connecter
 firefoxview-tabpickup-syncing = Veuillez patienter pendant la synchronisation de vos onglets. Ce ne sera pas long.
 firefoxview-mobile-promo-header = Récupérez les onglets de votre téléphone ou de votre tablette
