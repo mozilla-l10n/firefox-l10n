@@ -1,4 +1,4 @@
-57085
+57125
 ABS
 ADSL
 Abad
@@ -156,6 +156,7 @@ Bután
 Bélgica
 Bétera
 CD
+COVID
 Cabra
 Caicos
 Calafell
@@ -4073,6 +4074,7 @@ alumbre/S
 aluminato/S
 aluminio/S
 aluminita/S
+aluminosis
 alumnado/S
 alumno/GS
 alunado/GS
@@ -4538,6 +4540,7 @@ anadear/RED
 anadina/S
 anadino/S
 anadiplosis
+anaeróbico/GS
 anafalla/S
 anafe/S
 anafilaxia/S
@@ -7240,6 +7243,7 @@ autoritarismo/S
 autorización/hS
 autorizadamente
 autorizado/SG
+autorizador/GS
 autorizamiento/S
 autorizar/REDÀÁÂÄÅÆÚT
 autorregular/REDA
@@ -9788,9 +9792,11 @@ bóvido/SG
 bóxer/S
 búbalo/S
 búfalo/S
+búfer/S
 búho/S
 búlgaro/GS
 búlgaro/S
+búnker/S
 búsqueda/S
 ca
 cabal
@@ -12703,6 +12709,7 @@ cicatrizativo/GS
 cicerone/S
 ciceroniano/GS
 cicerón/S
+ciclable/S
 ciclamor/S
 ciclar/RED
 ciclismo/S
@@ -13531,6 +13538,7 @@ colmo/SG
 colocado/GS
 colocar/REDÀÁÃÅÆÇÌÍÛñòôøAÙ
 colocasia/S
+colocón/S
 colodión/S
 colodra/S
 colodrillo/S
@@ -14592,6 +14600,7 @@ construcción/pS
 constructiva/p
 constructivismo
 constructivo/pSG
+constructo/S
 constructor/SG
 construir/IRDÀÁÂÈ
 consubstancialidad/S
@@ -14981,6 +14990,7 @@ convincente/S
 convincentemente
 convite/S
 conviviente/S
+convivio/S
 convivir/RED
 convocador/GS
 convocante/S
@@ -15203,6 +15213,7 @@ coronamiento/S
 coronar/REDÀÌñ
 coronaria/S
 coronario/GS
+coronavirus
 corondel/S
 coroneja/S
 coronel/S
@@ -16430,6 +16441,7 @@ dadas
 dadivar
 dadivosidad/S
 dadivoso/GS
+dadle
 dadles
 dadme
 dado
@@ -16739,6 +16751,7 @@ deflación/S
 deflagración/S
 deflagrador/S
 deflagrador/SG
+deflagrante/cS
 deflagrar/RED
 deflegmar/RED
 deflexión/S
@@ -17102,7 +17115,9 @@ derivativo/GS
 dermalgia/S
 dermatitis
 dermatoesqueleto/S
+dermatología/S
 dermatosis
+dermatólogo/GS
 dermesto/S
 dermis
 dermitis
@@ -18053,7 +18068,7 @@ desenfreno/S
 desenfundar/REDÀ
 desenfurecer/IRD
 desenfurruñar/RED
-desenganchar/REDñ
+desenganchar/REDÀñ
 desengarrafar
 desengarzar/RED
 desengastar/RED
@@ -19473,6 +19488,7 @@ dinamitar/REDÀ
 dinamitazo/S
 dinamitero/GS
 dinamización/S
+dinamizador/GS
 dinamizar/REDÀ
 dinamo/S
 dinamómetro/S
@@ -22184,7 +22200,7 @@ engallar/RED
 engalle/S
 enganchador/GS
 enganchamiento/S
-enganchar/REDÄñô
+enganchar/REDÀÄñô
 enganche/S
 engandujar/RED
 engarabatar/RED
@@ -23881,6 +23897,7 @@ escénico/GS
 escéptico/GS
 escúter/S
 esdrujulizar/RED
+esdrújulo/GS
 ese/G
 ese/GS
 ese/S
@@ -24315,6 +24332,7 @@ esposa/S
 esposar/REDÀÂ
 esposo/GS
 espray
+esprint
 espráis
 espuela/S
 espuenda/S
@@ -27667,6 +27685,7 @@ garra/S
 garrafa/S
 garrafal/S
 garrafiñar/RED
+garrafón/S
 garramar/RED
 garrancha/S
 garrancho/SH
@@ -27957,7 +27976,7 @@ gesticulantemente
 gesticular/RED
 gesticular/S
 gesticuloso/GS
-gestionar/REDÀÂ
+gestionar/REDÁÀÂ
 gestión/fSkd
 gesto/S
 gestor/GS
@@ -31354,6 +31373,7 @@ infirmar/RED
 inflacionario/GS
 inflacionista/S
 inflación/S
+inflador/GS
 inflamable/kS
 inflamación/S
 inflamador/GS
@@ -31993,7 +32013,7 @@ invenciblemente
 invención/S
 invenir
 inventar/REDÀÁÂÃÄÅÆÍ
-inventariar/IRDÀ
+inventariar/IRDÀT
 inventario/S
 inventiva/S
 inventivo/SG
@@ -32928,6 +32948,7 @@ keniano/GS
 keniata/S
 kermes
 ketchup/S
+kg
 kiliárea/S
 kilo/S
 kilociclo/S
@@ -33446,6 +33467,7 @@ lazdrar
 lazo/Sa
 lazrar
 lazulita/S
+laísmo/S
 lañar/RED
 laúd/S
 ldo/G
@@ -33742,6 +33764,7 @@ lezna/S
 lezne/GS
 leída/S
 leído/GS
+leísmo/S
 leña/S
 leñador/GS
 leñar/RED
@@ -34443,6 +34466,7 @@ lozanear/RED
 lozanecer/IRD
 lozano/GS
 lozanía/S
+loísmo/S
 ltdo/G
 lubigante/S
 lubina/S
@@ -36127,6 +36151,7 @@ mecánicamente
 mecánico/GS
 mecánico/SG
 medalla/SU
+medallista/S
 medanoso/GS
 medellinense/S
 media/S
@@ -36846,7 +36871,7 @@ miera/S
 mierda/S
 mierla/S
 mierra/S
-mies
+mies/S
 miga/Sa
 migaja/S
 migajada/S
@@ -38396,6 +38421,7 @@ narcisismo/S
 narcisista/S
 narciso/SO
 narcisísticamente
+narcolepsia/S
 narcosis
 narcotina/S
 narcotismo/S
@@ -38567,6 +38593,8 @@ nefritis
 nefrítico/GS
 nefrítico/S
 negable/kS
+negacionismo/S
+negacionista/S
 negación/gS
 negada/p
 negadamente
@@ -39122,6 +39150,7 @@ nutra/S
 nutria/S
 nutricio/GS
 nutricional/S
+nutricionista/S
 nutrición/Sh
 nutrido/GS
 nutriente/S
@@ -40760,7 +40789,7 @@ paraliticar/RED
 paralización/S
 paralizador/GS
 paralizante/S
-paralizar/REDÀÅñò
+paralizar/REDÀÅÄñò
 paralogizar/RED
 paraláctico/SG
 paralímpico/GS
@@ -40768,7 +40797,7 @@ paralítico/GS
 paramagnético/GS
 paramentar/RED
 paramento/nS
-parametrizar/RED
+parametrizar/REDA
 paramilitar/S
 paramétrico/GS
 parancero/S
@@ -41031,7 +41060,7 @@ pasante/S
 pasantía/S
 pasaportar/RED
 pasaporte/S
-pasar/pREDÀÃÄÅÇÍÌÏÙÛñòôøT
+pasar/pREDÀÃÄÅÆÇÍÌÏÙÛñòôøT
 pasarela/S
 pasatiempo/S
 pasavante/S
@@ -41307,7 +41336,7 @@ peajero/S
 peal/S
 peana/S
 peatonal/S
-peatonalizar/REDÀÄÌ
+peatonalizar/REDAÀÄÌ
 peatón/GS
 pebete/S
 pebetero/S
@@ -42010,6 +42039,7 @@ perrengue/S
 perrera/S
 perrero/GS
 perrezno/S
+perrillo/S
 perrito/GS
 perrito/S
 perro/NS
@@ -43405,6 +43435,7 @@ portaplumas
 portar/REDÁñòôø
 portaventanero/S
 portaviandas
+portaviones
 portavoz/S
 portazgar/RED
 portazgo/S
@@ -43741,6 +43772,7 @@ preeminencia/S
 preeminente/S
 preescolar/S
 preestablecido/SG
+preestreno/S
 preexcelso/GS
 preexistencia/S
 preexistente/S
@@ -45042,6 +45074,7 @@ pío/kGS
 pívot
 píxel/S
 pócima/S
+pódium
 pólenes
 pólipo/S
 póliza/S
@@ -46225,6 +46258,7 @@ redimible/kS
 redimir/REDÀÁÄñ
 redirigir/RED
 redistribuir/IRDÀT
+redistributivo/GS
 redituar/IRD
 redoblante/S
 redoblar/RED
@@ -46286,7 +46320,7 @@ reencontrar/IRDÀÂñò
 reencuadernar/RED
 reencuentro/S
 reenganchamiento/S
-reenganchar/RED
+reenganchar/REDÀ
 reengendrar/RED
 reensayar/RED
 reenviar/IRDÀ
@@ -50320,6 +50354,7 @@ sobredorar/RED
 sobreedificar/RED
 sobreempeine/S
 sobreentender/IRD
+sobreesdrújulo/GS
 sobreexceder/RED
 sobreexcitar/RED
 sobreexplotación/S
@@ -50366,6 +50401,7 @@ sobresanar/RED
 sobrescribir/RE
 sobrescrito/GS
 sobrescrito/S
+sobresdrújulo/GS
 sobreseer/REDÀ
 sobreseimiento/S
 sobresembrar/IRD
@@ -51048,7 +51084,7 @@ subyugar/REDÀÄT
 subíndice/S
 succenturiado/S
 succino/S
-succionar/REDÀÂ
+succionar/REDÀÂÄ
 succión/S
 suceder/REDÁÂÅ
 sucedido/S
@@ -52111,6 +52147,8 @@ telegráficamente
 telegráfico/GS
 teleindicador/S
 telele/S
+telemática
+telemático/GS
 telendo/GS
 telenovela/S
 teleobjetivo/S
@@ -52793,6 +52831,7 @@ tirajo/S
 tiralíneas
 tiramiento/pS
 tiramira/S
+tiramisú/S
 tiramollar/RED
 tiranicida/S
 tiranicidio/S
@@ -53447,6 +53486,7 @@ transatlántico/S
 transbordador/GS
 transbordador/S
 transbordar/RED
+transbordo/S
 transcendencia/S
 transcendental/S
 transcendentalismo/S
