@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = För att komma åt dina flik
 firefoxview-tabpickup-password-locked-link = Läs mer
 firefoxview-tabpickup-password-locked-primarybutton = Ange primärt lösenord
 firefoxview-tabpickup-signed-out-header = Logga in för att återansluta
+firefoxview-tabpickup-signed-out-description = För att återansluta och hämta dina flikar, logga in på ditt { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Logga in
 firefoxview-tabpickup-syncing = Vi synkroniserar dina flikar, det tar bara ett ögonblick.
 firefoxview-mobile-promo-header = Öppna flikar från din telefon eller surfplatta
