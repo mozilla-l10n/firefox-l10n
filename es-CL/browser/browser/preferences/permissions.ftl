@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Excepciones para la protección de seguimiento mejorada
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Has desactivado la protección en estos sitios web.
+permissions-exceptions-manage-etp-desc = Puedes especificar qué sitios web tienen desactivada la protección de seguimiento mejorada. Escribe la dirección exacta del sitio que deseas gestionar y luego haz clic en Añadir excepción.
 
 ## Exceptions - Cookies
 
