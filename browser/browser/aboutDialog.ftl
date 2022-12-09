@@ -37,6 +37,7 @@ update-noUpdatesFound =
         [neuter] { -brand-short-name } је ажурно
        *[other] Програм { -brand-short-name } је ажуран
     }
+aboutdialog-update-checking-failed = Провера ажурирања није успела.
 update-otherInstanceHandlingUpdates =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name }
