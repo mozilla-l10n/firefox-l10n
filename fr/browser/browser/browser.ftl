@@ -282,30 +282,42 @@ quickactions-addons = Voir les modules
 quickactions-cmd-addons2 = modules complémentaires
 # Opens the bookmarks library window
 quickactions-bookmarks = Afficher les marque-pages
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Organiser les marque-pages
 quickactions-cmd-bookmarks = marque-pages
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Effacer l’historique
 quickactions-cmd-clearhistory = effacer l’historique
 # Opens about:downloads page
 quickactions-downloads = Ouvrir les téléchargements
+# Opens about:downloads page
+quickactions-downloads2 = Afficher les téléchargements
 quickactions-cmd-downloads = téléchargements
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gérer les extensions
 quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
 quickactions-inspector = Ouvrir l’inspecteur
+# Opens the devtools web inspector
+quickactions-inspector2 = Ouvrir les outils de développement
 quickactions-cmd-inspector = inspecteur, outils de développement
 # Opens about:logins
 quickactions-logins = Afficher les identifiants
+# Opens about:logins
+quickactions-logins2 = Gérer les mots de passe
 quickactions-cmd-logins = identifiants, mots de passe
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gérer les plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprimer
+# Opens the print dialog
+quickactions-print2 = Imprimer la page
 quickactions-cmd-print = imprimer
 # Opens a new private browsing window
 quickactions-private = Ouvrir une fenêtre de navigation privée
+# Opens a new private browsing window
+quickactions-private2 = Ouvrir une fenêtre de navigation privée
 quickactions-cmd-private = navigation privée
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Réparer { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Redémarrer { -brand-short-name }
 quickactions-cmd-restart = redémarrer
 # Opens the screenshot tool
 quickactions-screenshot2 = Effectuer une capture d’écran
+# Opens the screenshot tool
+quickactions-screenshot3 = Effectuer une capture d’écran
 quickactions-cmd-screenshot = capture d’écran
 # Opens about:preferences
 quickactions-settings = Ouvrir les paramètres
+# Opens about:preferences
+quickactions-settings2 = Gérer les paramètres
 quickactions-cmd-settings = paramètres, préférences, options
 # Opens about:addons page in the themes section
 quickactions-themes = Gérer les thèmes
@@ -327,6 +343,8 @@ quickactions-update = Mettre à jour { -brand-short-name }
 quickactions-cmd-update = mettre à jour
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Afficher la source
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Afficher le code source de la page
 quickactions-cmd-viewsource = afficher la source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
