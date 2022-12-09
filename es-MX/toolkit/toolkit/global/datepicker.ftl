@@ -12,10 +12,14 @@
 
 date-picker-label =
     .aria-label = Elegir una fecha
+date-spinner-label =
+    .aria-label = Elegir un mes y un año
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-next =
+    .aria-label = Próximo mes
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
