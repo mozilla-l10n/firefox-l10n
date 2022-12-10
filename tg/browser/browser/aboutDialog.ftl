@@ -19,6 +19,7 @@ update-failed = Навсозӣ иҷро нашуд. <label data-l10n-name="faile
 update-failed-main = Навсозӣ иҷро нашуд. <a data-l10n-name="failed-link-main">Версияи охиринро боргирӣ намоед</a>
 update-adminDisabled = Навсозиҳо аз ҷониби маъмури низоми шумо ғайрифаъол карда шудаанд
 update-noUpdatesFound = «{ -brand-short-name }» нав аст
+aboutdialog-update-checking-failed = Санҷиши навсозиҳо иҷро нашуд.
 update-otherInstanceHandlingUpdates = «{ -brand-short-name }» аз тарафи раванди дигар навсозӣ шуда истодааст
 update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд
 update-unsupported = Шумо дар низоми ҷорӣ навсозиҳои дигар иҷро карда наметавонед. <label data-l10n-name="unsupported-link">Маълумоти бештар</label>

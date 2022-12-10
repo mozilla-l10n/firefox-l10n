@@ -282,30 +282,42 @@ quickactions-addons = Намоиши ҷузъҳои иловагӣ
 quickactions-cmd-addons2 = ҷузъҳои иловагӣ
 # Opens the bookmarks library window
 quickactions-bookmarks = Намоиши хатбаракҳо
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Идоракунии хатбаракҳо
 quickactions-cmd-bookmarks = хатбаракҳо
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Пок кардани таърих
 quickactions-cmd-clearhistory = пок кардани таърих
 # Opens about:downloads page
 quickactions-downloads = Кушодани боргириҳо
+# Opens about:downloads page
+quickactions-downloads2 = Дидани боргириҳо
 quickactions-cmd-downloads = боргириҳо
 # Opens about:addons page in the extensions section
 quickactions-extensions = Идоракунии васеъшавиҳо
 quickactions-cmd-extensions = васеъшавиҳо
 # Opens the devtools web inspector
 quickactions-inspector = Кушодани тафтишкунанда
+# Opens the devtools web inspector
+quickactions-inspector2 = Кушодани абзорҳои барномарезӣ
 quickactions-cmd-inspector = тафтишкунанда, абзорҳои барномарезӣ
 # Opens about:logins
 quickactions-logins = Намоиши воридшавиҳо
+# Opens about:logins
+quickactions-logins2 = Идоракунии ниҳонвожаҳо
 quickactions-cmd-logins = воридшавиҳо, ниҳонвожаҳо
 # Opens about:addons page in the plugins section
 quickactions-plugins = Идоракунии плагинҳо
 quickactions-cmd-plugins = плагинҳо
 # Opens the print dialog
 quickactions-print = Чоп кардан
+# Opens the print dialog
+quickactions-print2 = Чоп кардани саҳифа
 quickactions-cmd-print = чоп кардан
 # Opens a new private browsing window
 quickactions-private = Кушодани равзанаи тамошокунии хусусӣ
+# Opens a new private browsing window
+quickactions-private2 = Кушодани равзанаи хусусӣ
 quickactions-cmd-private = тамошокунии хусусӣ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Аз нав сохтани «{ -brand-short-name }»
@@ -315,9 +327,13 @@ quickactions-restart = Аз нав оғоз кардани «{ -brand-short-name
 quickactions-cmd-restart = аз нав оғоз кардан
 # Opens the screenshot tool
 quickactions-screenshot2 = Гирифтани акси экран
+# Opens the screenshot tool
+quickactions-screenshot3 = Гирифтани акси экран
 quickactions-cmd-screenshot = акси экран
 # Opens about:preferences
 quickactions-settings = Кушодани танзимот
+# Opens about:preferences
+quickactions-settings2 = Идоракунии танзимот
 quickactions-cmd-settings = танзимот, хусусиятҳо, имконот
 # Opens about:addons page in the themes section
 quickactions-themes = Идоракунии мавзуъҳо
@@ -327,6 +343,8 @@ quickactions-update = Навсозӣ кардани «{ -brand-short-name }»
 quickactions-cmd-update = навсозӣ кардан
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Дидани манбаъ
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Дидани манбаи саҳифа
 quickactions-cmd-viewsource = намоиши манбаъ, манбаъ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

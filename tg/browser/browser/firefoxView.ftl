@@ -46,6 +46,7 @@ firefoxview-tabpickup-password-locked-header = Барои намоиш дода�
 firefoxview-tabpickup-password-locked-description = Барои ба даст овардани варақаҳои худ, шумо бояд ниҳонвожаи асосии худро барои «{ -brand-short-name }» ворид намоед.
 firefoxview-tabpickup-password-locked-link = Маълумоти бештар
 firefoxview-tabpickup-password-locked-primarybutton = Ниҳонвожаи асосии худро ворид кунед
+firefoxview-tabpickup-signed-out-header = Барои аз нав пайваст шудан ворид шавед
 firefoxview-tabpickup-syncing = Интизор шавед, варақаҳои шумо ҳамоҳанг шуда истодаанд. Онҳо пас аз чанд лаҳза дастрас мешаванд.
 firefoxview-mobile-promo-header = Варақаҳоро аз телефон ё планшети худ ба даст оред
 firefoxview-mobile-promo-description = Барои дидани варақаҳои охирин аз телефони мобилии худ, дар iOS ё Android ба { -brand-product-name } ворид шавед.
