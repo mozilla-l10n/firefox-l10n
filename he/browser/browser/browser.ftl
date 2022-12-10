@@ -279,33 +279,45 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = הצגת תוספות
-quickactions-cmd-addons2 = תוספות
+quickactions-cmd-addons2 = הרחבות, תוספות, תוספים
 # Opens the bookmarks library window
 quickactions-bookmarks = הצגת סימניות
+# Opens the bookmarks library window
+quickactions-bookmarks2 = ניהול סימניות
 quickactions-cmd-bookmarks = סימניות, מועדפים
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = מחיקת היסטוריה
 quickactions-cmd-clearhistory = מחיקת היסטוריה, ניקוי היסטוריה, מחק היסטוריה, נקה היסטוריה, למחוק היסטוריה, לנקות היסטוריה
 # Opens about:downloads page
 quickactions-downloads = פתיחת הורדות
+# Opens about:downloads page
+quickactions-downloads2 = הצגת הורדות
 quickactions-cmd-downloads = הורדות
 # Opens about:addons page in the extensions section
 quickactions-extensions = ניהול הרחבות
-quickactions-cmd-extensions = הרחבות
+quickactions-cmd-extensions = הרחבות, תוספות, תוספים
 # Opens the devtools web inspector
 quickactions-inspector = פתיחת המפקח
+# Opens the devtools web inspector
+quickactions-inspector2 = פתיחת כלי פיתוח
 quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפתח, devtools
 # Opens about:logins
 quickactions-logins = הצגת כניסות
+# Opens about:logins
+quickactions-logins2 = ניהול ססמאות
 quickactions-cmd-logins = כניסות, פרטי התחברות, פרטי גישה, פרטי כניסה, ססמאות, סיסמאות
 # Opens about:addons page in the plugins section
 quickactions-plugins = ניהול תוספים חיצוניים
 quickactions-cmd-plugins = תוספים חיצוניים
 # Opens the print dialog
 quickactions-print = הדפסה
+# Opens the print dialog
+quickactions-print2 = הדפסת הדף
 quickactions-cmd-print = הדפסה, הדפס, להדפיס
 # Opens a new private browsing window
 quickactions-private = פתיחת חלון במצב גלישה פרטית
+# Opens a new private browsing window
+quickactions-private2 = פתיחת חלון פרטי
 quickactions-cmd-private = גלישה פרטית, גלישה אנונימית
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = רענון { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = הפעלת { -brand-short-name } מחדש
 quickactions-cmd-restart = הפעלה מחדש, הפעל מחדש, להפעיל מחדש
 # Opens the screenshot tool
 quickactions-screenshot2 = צילום מסך
+# Opens the screenshot tool
+quickactions-screenshot3 = צילום מסך
 quickactions-cmd-screenshot = צילום מסך, צלם מסך, לצלם מסך, לצלם את המסך, לקחת צילום מסך
 # Opens about:preferences
 quickactions-settings = פתיחת הגדרות
+# Opens about:preferences
+quickactions-settings2 = ניהול הגדרות
 quickactions-cmd-settings = הגדרות, העדפות, אפשרויות
 # Opens about:addons page in the themes section
 quickactions-themes = ניהול ערכות נושא
@@ -327,6 +343,8 @@ quickactions-update = עדכון { -brand-short-name }
 quickactions-cmd-update = עדכון, עדכן, לעדכן
 # Opens the view-source UI with current pages source
 quickactions-viewsource = הצגת המקור
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = הצגת מקור הדף
 quickactions-cmd-viewsource = הצגת קוד מקור, הצג קוד מקור, להציג קוד מקור, קוד מקור, מקור
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
