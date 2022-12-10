@@ -238,15 +238,21 @@ quickactions-clearhistory = ລຶບລ້າງປະຫວັດ
 quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການໃຊ້ງານ
 # Opens about:downloads page
 quickactions-downloads = ເປີດການດາວໂຫຼດ
+# Opens about:downloads page
+quickactions-downloads2 = ເບິ່ງການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ຈັດການສ່ວນເສີມ
 quickactions-cmd-extensions = ສ່ວນເສີມ
 # Opens the devtools web inspector
 quickactions-inspector = ເປີດ Inspector
+# Opens the devtools web inspector
+quickactions-inspector2 = ເປີດເຄື່ອງມືນັກພັດທະນາ
 quickactions-cmd-inspector = ຜູ້ກວດກາ, devtools
 # Opens about:logins
 quickactions-logins = ເບິ່ງການເຂົ້າສູ່ລະບົບ
+# Opens about:logins
+quickactions-logins2 = ຈັດການລະຫັດຜ່ານ
 quickactions-cmd-logins = ເຂົ້າສູ່ລະບົບ, ລະຫັດຜ່ານ
 # Opens about:addons page in the plugins section
 quickactions-plugins = ຈັດການປລັກອິນ
