@@ -59,7 +59,7 @@ appmenuitem-settings =
 ## Zoom and Fullscreen Controls
 
 appmenuitem-zoom-enlarge =
-    .label = Кішірейту
+    .label = Үлкейту
 appmenuitem-zoom-reduce =
     .label = Кішірейту
 appmenuitem-fullscreen =
