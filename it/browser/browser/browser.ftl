@@ -906,3 +906,13 @@ refresh-blocked-redirect-label = { -brand-short-name } ha impedito a questa pagi
 refresh-blocked-allow =
     .label = Consenti
     .accesskey = C
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } nasconde il tuo indirizzo email reale per proteggerti da violazioni di dati e posta indesiderata.
+firefox-relay-offer-how-we-integrate = Se continui potrai generare nuovi alias di posta elettronica con { -relay-brand-short-name } direttamente dal gestore password di { -brand-shorter-name }.
+
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Le email da <strong>{ $sitename }</strong> verranno inoltrate a <strong>{ $useremail }</strong>.
