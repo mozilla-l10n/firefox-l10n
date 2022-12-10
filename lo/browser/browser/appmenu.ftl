@@ -99,6 +99,7 @@ profiler-popup-reveal-description-button =
     .aria-label = ເປີດເຜີຍຂໍ້ມູນເພີ່ມເຕີມ
 profiler-popup-description-title =
     .value = ບັນທຶກ, ວິເຄາະ, ແບ່ງປັນ
+profiler-popup-description = ຮ່ວມມືໃນບັນຫາປະສິດທິພາບໂດຍການເຜີຍແຜ່ໂປຣໄຟລ໌ເພື່ອແບ່ງປັນກັບທີມງານຂອງທ່ານ.
 profiler-popup-learn-more-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມ
 profiler-popup-settings =
