@@ -202,6 +202,7 @@ firefoxview-cfr-primarybutton = בואו ננסה
 firefoxview-cfr-secondarybutton = לא כעת
     .accesskey = ל
 firefoxview-cfr-header = לקבל בחזרה לשוניות שנסגרו לאחרונה עם { -firefoxview-brand-name }
+firefoxview-cfr-header-v2 = להמשיך בזריזות מאיפה שהפסקת
 
 ## Firefox View Spotlight
 
