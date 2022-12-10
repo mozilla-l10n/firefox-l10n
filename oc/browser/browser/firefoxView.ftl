@@ -46,6 +46,7 @@ firefoxview-tabpickup-password-locked-header = Picatz lo senhal màger per veire
 firefoxview-tabpickup-password-locked-description = Per recuperar vòstres onglets, vos cal lo senhal màger de { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Ne saber mai
 firefoxview-tabpickup-password-locked-primarybutton = Picatz lo senhal màger
+firefoxview-tabpickup-signed-out-header = S’identificar per se reconnectar
 firefoxview-tabpickup-syncing = Esperatz mentre que se sincronizan los onglets. Durarà pas qu’un moment.
 firefoxview-mobile-promo-header = Recuperatz los onglets de vòstre mobil o vòstra tauleta
 firefoxview-mobile-promo-description = Per veire los darrièrs onglets de vòstre aparelh mobil, connectatz-vos a { -brand-product-name } sus iOS o Android.
@@ -54,7 +55,6 @@ firefoxview-mobile-confirmation-header = 🎉 Tot es prèst !
 firefoxview-mobile-confirmation-description = Podètz ara recuperar los onglets { -brand-product-name } de vòstra tauleta o mobil.
 firefoxview-closed-tabs-title = Tampats recentament
 firefoxview-closed-tabs-description2 = Tornatz dobrir las paginas qu’avètz tampadas dins aquesta pagina.
-firefoxview-closed-tabs-placeholder = <strong>Cap de pagina pas tampada recentament</strong><br/>Ajatz pas jamai paur de pèrdre una pagina tampada. La podètz totjorn recuperar d’aquí estant.
 firefoxview-closed-tabs-placeholder-header = Cap d’onglets pas tampat recentament
 firefoxview-closed-tabs-placeholder-body = Quand tampatz un onglet d’aquesta fenèstra, lo podètz trapar aicí.
 # refers to the last tab that was used
@@ -70,7 +70,6 @@ firefoxview-change-colorway-button = Cambiar de colorits
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>I a pas res pel moment</strong><br/>Lo còp que ven que dobrissètz una pagina dins { -brand-product-name } sus un autre aparelh, lo poiretz trapar aicí coma per magia.
 firefoxview-synced-tabs-placeholder-header = Pas res a veire pel moment
 firefoxview-synced-tabs-placeholder-body = Lo còp que ven que dobrissètz una pagina dins { -brand-product-name } sus un autre aparelh, trapatz-la aquí.
 firefoxview-collapse-button-show =

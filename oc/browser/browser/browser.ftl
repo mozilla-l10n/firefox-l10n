@@ -282,30 +282,42 @@ quickactions-addons = Veire los moduls
 quickactions-cmd-addons2 = Moduls complementaris
 # Opens the bookmarks library window
 quickactions-bookmarks = Veire los marcapaginas
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Gerir los marcapaginas
 quickactions-cmd-bookmarks = marcapaginas
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Escafar l'istoric
 quickactions-cmd-clearhistory = escafar l'istoric
 # Opens about:downloads page
 quickactions-downloads = Dobrir los telecargaments
+# Opens about:downloads page
+quickactions-downloads2 = Mostrar los telecargaments
 quickactions-cmd-downloads = telecargaments
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gerir las extensions
 quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
 quickactions-inspector = dobrir l’inspector
+# Opens the devtools web inspector
+quickactions-inspector2 = Dobrir las aisinas de desvolopament
 quickactions-cmd-inspector = inspector, inspectar, examinar, devtools, aisinas, espleches, otisses, desvelopament, desvolopaires
 # Opens about:logins
 quickactions-logins = Veire los identificants
+# Opens about:logins
+quickactions-logins2 = Gerir los senhals
 quickactions-cmd-logins = identificants, identificacion, senhals, mot de passa, clau de santa, mot de gach
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gerir los plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprimir
+# Opens the print dialog
+quickactions-print2 = Imprimir la pagina
 quickactions-cmd-print = imprimir
 # Opens a new private browsing window
 quickactions-private = Dobrir una fenèstra de navegacion privada
+# Opens a new private browsing window
+quickactions-private2 = Dobrir una fenèstra privada
 quickactions-cmd-private = navegacion privada
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Reïnicializar { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Reaviar { -brand-short-name }
 quickactions-cmd-restart = reaviar
 # Opens the screenshot tool
 quickactions-screenshot2 = Prendre una captura d’ecran
+# Opens the screenshot tool
+quickactions-screenshot3 = Prendre una captura d’ecran
 quickactions-cmd-screenshot = captura d’ecran
 # Opens about:preferences
 quickactions-settings = Dobrir los paramètres
+# Opens about:preferences
+quickactions-settings2 = Gerir los paramètres
 quickactions-cmd-settings = paramètres, preferéncias, opcions
 # Opens about:addons page in the themes section
 quickactions-themes = Gerir los tèmas
@@ -327,6 +343,8 @@ quickactions-update = Metre a jorn { -brand-short-name }
 quickactions-cmd-update = mesa a jorn
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Afichar la font
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Veire lo còdi de la pagina
 quickactions-cmd-viewsource = veire la font, font, sorga, còdi
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
