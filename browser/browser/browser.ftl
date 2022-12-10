@@ -282,30 +282,42 @@ quickactions-addons = Skoða viðbætur
 quickactions-cmd-addons2 = viðbætur
 # Opens the bookmarks library window
 quickactions-bookmarks = Skoða bókamerki
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Sýsla með bókamerki
 quickactions-cmd-bookmarks = bókamerki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Hreinsa feril
 quickactions-cmd-clearhistory = hreinsa feril
 # Opens about:downloads page
 quickactions-downloads = Opna sóttar skrár
+# Opens about:downloads page
+quickactions-downloads2 = Skoða sóttar skrár
 quickactions-cmd-downloads = sóttar skrár
 # Opens about:addons page in the extensions section
 quickactions-extensions = Sýsla með forritsauka
 quickactions-cmd-extensions = forritsaukar
 # Opens the devtools web inspector
 quickactions-inspector = Opna Inspector
+# Opens the devtools web inspector
+quickactions-inspector2 = Opna forritunarverkfæri
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins = Skoða innskráningar
+# Opens about:logins
+quickactions-logins2 = Sýsla með lykilorð
 quickactions-cmd-logins = innskráningar, lykilorð
 # Opens about:addons page in the plugins section
 quickactions-plugins = Sýsla með tengiforrit
 quickactions-cmd-plugins = tengiforrit
 # Opens the print dialog
 quickactions-print = Prenta
+# Opens the print dialog
+quickactions-print2 = Prenta síðu
 quickactions-cmd-print = prenta
 # Opens a new private browsing window
 quickactions-private = Opna huliðsglugga
+# Opens a new private browsing window
+quickactions-private2 = Opna huliðsglugga
 quickactions-cmd-private = huliðsvafur
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Endurlesa { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Endurræsa { -brand-short-name }
 quickactions-cmd-restart = endurræsa
 # Opens the screenshot tool
 quickactions-screenshot2 = Taka skjámynd
+# Opens the screenshot tool
+quickactions-screenshot3 = Taka skjámynd
 quickactions-cmd-screenshot = skjámynd
 # Opens about:preferences
 quickactions-settings = Opna stillingar
+# Opens about:preferences
+quickactions-settings2 = Sýsla með stillingar
 quickactions-cmd-settings = stillingar, kjörstillingar, valkostir
 # Opens about:addons page in the themes section
 quickactions-themes = Sýsla með þemu
@@ -327,6 +343,8 @@ quickactions-update = Uppfæra { -brand-short-name }
 quickactions-cmd-update = uppfærsla
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Skoða frumkóða
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Skoða frumkóða síðu
 quickactions-cmd-viewsource = skoða frumkóða, frumkóði
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
