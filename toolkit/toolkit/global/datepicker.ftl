@@ -18,6 +18,8 @@ date-spinner-label =
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-previous =
+    .aria-label = Mes anterior
 date-picker-next =
     .aria-label = Próximo mes
 
