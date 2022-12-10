@@ -282,12 +282,16 @@ quickactions-addons = Vis tillegg
 quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks = Vis bokmerker
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Behandle bokmerker
 quickactions-cmd-bookmarks = bokmerker
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tøm historikk
 quickactions-cmd-clearhistory = tøm historikk
 # Opens about:downloads page
 quickactions-downloads = Åpne nedlastinger
+# Opens about:downloads page
+quickactions-downloads2 = Vis nedlastinger
 quickactions-cmd-downloads = nedlastinger
 # Opens about:addons page in the extensions section
 quickactions-extensions = Behandle utvidelser
