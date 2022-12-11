@@ -398,8 +398,23 @@ mr2022-onboarding-gratitude-secondary-button-label = เริ่มเรีย
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = ทำตัวตามสบาย
+onboarding-infrequent-import-subtitle = ไม่ว่าคุณจะต้องการใช้งานไปตลอดหรือแค่แวะมาลองใช้เพียงนิดหน่อยก็ตาม โปรดทราบว่าคุณสามารถนำเข้าที่คั่นหน้า รหัสผ่าน และอื่นๆ ของคุณได้
 onboarding-infrequent-import-primary-button = นำเข้าไปยัง { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = คนกำลังทำงานบนแล็ปท็อปล้อมรอบด้วยดาวและดอกไม้
+mr2022-onboarding-default-image-alt =
+    .aria-label = คนกำลังกอดโลโก้ { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = คนกำลังขี่สเก็ตบอร์ดพร้อมกล่องไอคอนซอฟต์แวร์
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = กบกำลังกระโดดข้ามใบบัวไปมาพร้อมคิวอาร์โค้ดสำหรับดาวน์โหลด { -brand-product-name } สำหรับมือถืออยู่ตรงกลาง
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = ไม้กายสิทธิ์กำลังทำให้โลโก้การเรียกดูแบบส่วนตัวของ { -brand-product-name } ปรากฏออกมานอกหมวก
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = มือผิวอ่อนและผิวคล้ำไฮไฟฟ์กัน
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = ภาพวิวดวงอาทิตย์ตกที่หน้าต่างพร้อมสุนัขจิ้งจอกและพืชในบ้านบนขอบหน้าต่าง
