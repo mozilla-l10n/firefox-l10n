@@ -282,30 +282,42 @@ quickactions-addons = Zobraziť doplnky
 quickactions-cmd-addons2 = doplnky
 # Opens the bookmarks library window
 quickactions-bookmarks = Zobraziť záložky
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Spravovať záložky
 quickactions-cmd-bookmarks = záložky
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vymazať históriu
 quickactions-cmd-clearhistory = vymazať históriu
 # Opens about:downloads page
 quickactions-downloads = Otvoriť Stiahnuté súbory
+# Opens about:downloads page
+quickactions-downloads2 = Zobraziť stiahnuté súbory
 quickactions-cmd-downloads = stiahnuté súbory
 # Opens about:addons page in the extensions section
 quickactions-extensions = Spravovať rozšírenia
 quickactions-cmd-extensions = rozšírenia
 # Opens the devtools web inspector
 quickactions-inspector = Otvoriť Prieskumníka
+# Opens the devtools web inspector
+quickactions-inspector2 = Otvoriť Nástroje pre vývojárov
 quickactions-cmd-inspector = prieskumník, vývojárske nástroje
 # Opens about:logins
 quickactions-logins = Zobraziť prihlasovacie údaje
+# Opens about:logins
+quickactions-logins2 = Spravovať heslá
 quickactions-cmd-logins = prihlasovacie údaje, heslá
 # Opens about:addons page in the plugins section
 quickactions-plugins = Spravovať zásuvné moduly
 quickactions-cmd-plugins = zásuvné moduly
 # Opens the print dialog
 quickactions-print = Tlačiť
+# Opens the print dialog
+quickactions-print2 = Tlačiť stránku
 quickactions-cmd-print = tlačiť
 # Opens a new private browsing window
 quickactions-private = Otvoriť Súkromné okno
+# Opens a new private browsing window
+quickactions-private2 = Otvoriť Súkromné okno
 quickactions-cmd-private = súkromné prehliadanie
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Obnoviť { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Reštartovať { -brand-short-name }
 quickactions-cmd-restart = reštartovať
 # Opens the screenshot tool
 quickactions-screenshot2 = Urobiť snímku obrazovky
+# Opens the screenshot tool
+quickactions-screenshot3 = Urobiť snímku obrazovky
 quickactions-cmd-screenshot = snímka obrazovky
 # Opens about:preferences
 quickactions-settings = Otvoriť nastavenia
+# Opens about:preferences
+quickactions-settings2 = Spravovať nastavenia
 quickactions-cmd-settings = nastavenia, preferencie, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Spravovať témy
@@ -327,6 +343,8 @@ quickactions-update = Aktualizovať { -brand-short-name }
 quickactions-cmd-update = aktualizovať
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Zobraziť zdrojový kód
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Zobraziť zdrojový kód stránky
 quickactions-cmd-viewsource = zobraziť zdrojový kód, zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
