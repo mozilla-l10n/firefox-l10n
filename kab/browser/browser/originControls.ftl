@@ -8,10 +8,31 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = Asiɣzef ur yezmir ad d-iɣer neɣ ad ibeddel isefka
+origin-controls-options =
+    .label = Asiɣzef yezmer ad d-iɣer neɣ ad ibeddel isefka
+origin-controls-option-all-domains =
+    .label = Ɣef meṛṛa ismal
+origin-controls-option-when-clicked =
+    .label = Deg usiti kan
+# This string denotes an option that grants the extension access to
+# the current site whenever they visit it.
+# Variables:
+#   $domain (String) - The domain for which the access is granted.
+origin-controls-option-always-on =
+    .label = Eǧǧ yettwasireg i { $domain }
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = Ur yezmir ad d-iɣer neɣ ad ibeddel isefka n usmel-a
+origin-controls-state-always-on = Yezmer ad d-iɣer neɣ ad ibeddel isefka n usmel-a
+origin-controls-state-when-clicked = Tettwasra tsiregt i tɣuri neɣ i ubeddel n yisefka
+origin-controls-state-hover-run-visit-only = Sireg kan i tikkelt-a
+origin-controls-state-runnable-hover-open = Ldi asiɣzef
+origin-controls-state-runnable-hover-run = Seddu asiɣzef
+origin-controls-state-temporary-access = Ur yezmir ad d-iɣer neɣ ad ibeddel isefka i tirza-a
 
 ## Extension's toolbar button.
 ## Variables:

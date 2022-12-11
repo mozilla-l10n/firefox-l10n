@@ -46,6 +46,8 @@ firefoxview-tabpickup-password-locked-header = Sekcem awal-ik·im uffir agejdan 
 firefoxview-tabpickup-password-locked-description = I ulqaḍ n waccaren-ik·im, tesriḍ ad teskecmeḍ awal uffir agejdan deg { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Issin ugar
 firefoxview-tabpickup-password-locked-primarybutton = Sekcem awal uffir agejdan
+firefoxview-tabpickup-signed-out-header = Kcem akken ad talseḍ tuqqna
+firefoxview-tabpickup-signed-out-primarybutton = Kcem
 firefoxview-tabpickup-syncing = Seqɛed tiɣimit mi ara tessemtawayeḍ accaren-ik·im. Ur yettɛeṭṭil ara.
 firefoxview-mobile-promo-header = Awi-d accaren seg tiliɣri-inek·inem neɣ seg tfelwit n uselken
 firefoxview-mobile-promo-description = I wakken ad d-tessekneḍ accaren ineggura izirazen, qqen ɣer { -brand-product-name } ɣef iOS neɣ Android.
@@ -54,6 +56,12 @@ firefoxview-mobile-confirmation-header = 🎉 igerrez i beddu!
 firefoxview-mobile-confirmation-description = Tzemreḍ tura ad d-terreḍ accaren-ik·im { -brand-product-name } seg tfelwit n uselken neɣ seg tiliɣri
 firefoxview-closed-tabs-title = Melmi kan i yettwamdal
 firefoxview-closed-tabs-description2 = Ales tawaledyawt n yisebtar i tmedleḍ deg usfaylu-a.
+firefoxview-closed-tabs-placeholder-header = Ulac iccer yettwamedlen melmi kan
+firefoxview-closed-tabs-placeholder-body = Mi ara tmedleḍ iccer deg usfaylu-a, tzemreḍ ad t-id-terreḍ syagi.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Kkes { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Armud aneggaru
 # Variables:
@@ -67,6 +75,7 @@ firefoxview-change-colorway-button = Beddel afran n yiniten
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Ulac acu ara twaliḍ akka tura
 firefoxview-collapse-button-show =
     .title = Sken tabdart
 firefoxview-collapse-button-hide =
