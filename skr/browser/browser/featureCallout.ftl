@@ -17,4 +17,11 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = شروع ک
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = اساݙے نویں متن ٹول نال PDFs تدوین کرو
+callout-pdfjs-edit-body-a = فارم پُر کرو، تبصرے شامل کرو، یا { -brand-short-name } کنوں براہ راست نوٹس گھنو۔
+callout-pdfjs-edit-body-b = مفت آن لائن ایڈیٹر کیتے ڳول کوں چھوڑ ݙیو۔ فارمز پُر کرو، تبصرے شامل کرو، یا { -brand-short-name } وِچ براہ راست نوٹس گھنو۔
+callout-pdfjs-edit-button = اڳلا
+callout-pdfjs-draw-title = اساݙے ڈرا ٹول نال دستاویز دستخط کرو
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = PDFs کوں نشان زد کرو، ول اپݨیاں تبدیلیاں ہتھیکڑیاں کرو۔
 callout-pdfjs-draw-button = مل ڳئے!

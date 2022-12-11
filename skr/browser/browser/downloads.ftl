@@ -207,6 +207,26 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ایں سیشن کیتے کوئی ڈاؤن لوڈ کائنی۔
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } ٻئی فائل ڈاؤن لوڈ تھیندی پئی اے
+       *[other] { $count } ٻیاں فائلاں ڈاؤن لوڈ تھیندیاں پیاں ہن
+    }
 
 ## Download errors
 
+downloads-error-alert-title = ڈاؤن لوڈ نقص
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = ڈاؤن لوڈ ہتھیکڑی نئیں تھی سڳدی کیوں جو اے { $extension } دی طرفوں بلاک ہے
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = ڈاؤن لوڈ ہتھیکڑی نئیں تھی سڳدی کیوں جو اے ہک ایکسٹنشن دی طرفوں بلاک ہے
+# Line breaks in this message are meaningful, and should be maintained.
+downloads-error-generic =
+    ڈاؤن لوڈ محفوظ نہیں کیتا ونڄ سڳدا کیوں جو ہک نامعلوم نقص پیش آ ڳئے۔
+    
+    ول کوشش کرو۔
