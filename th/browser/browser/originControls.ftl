@@ -38,3 +38,13 @@ origin-controls-state-temporary-access = สามารถอ่านและ
 ## Variables:
 ##   $extensionTitle (String) - Extension name or title message.
 
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        ต้องการสิทธิอนุญาต
