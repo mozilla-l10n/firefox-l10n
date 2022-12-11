@@ -34,12 +34,37 @@ firefoxview-tabpickup-synctabs-primarybutton = کھلیاں ٹیبز ہم وقت
 firefoxview-tabpickup-fxa-admin-disabled-header = تہاݙی تنظیم ہم وقت کرݨ غیر فعال کر ݙتا ہے
 firefoxview-tabpickup-network-offline-header = اپݨا انٹرنیٹ کنکشن چیک کرو
 firefoxview-tabpickup-network-offline-primarybutton = ولدا کوشش کرو
+firefoxview-tabpickup-sync-error-header = اساکوں ہم وقت کرݨ وچ اوکھ آندی پئی ہے
 firefoxview-tabpickup-sync-error-primarybutton = ولدا کوشش کرو
+firefoxview-tabpickup-sync-disconnected-header = جاری رکھݨ کیتے ہم وقت کرݨ چالو کرو
+firefoxview-tabpickup-sync-disconnected-description = اپݨے ٹیبز حاصل کرݨ کیتے، تہاکوں { -brand-short-name } وِچ ہم وقت کرݨ دی اجازت ݙیوݨ دی ضرورت پوسے
+firefoxview-tabpickup-sync-disconnected-primarybutton = ترتیباں وِچ ہم وقت کرݨ چالو کرو
+firefoxview-tabpickup-password-locked-header = ٹیبز ݙیکھݨ کیتے اپݨا منڈھلا پاس ورڈ درج کرو
 firefoxview-tabpickup-password-locked-link = ٻیا سِکھو
+firefoxview-tabpickup-password-locked-primarybutton = منڈھلا پاس ورڈ داخل کرو
+firefoxview-mobile-promo-header = اپݨے فون یا ٹیبلٹ کنوں ٹیبز حاصل کرو
+firefoxview-mobile-promo-description = اپݨے نویں نکور موبائل ٹیبز ݙیکھݨ کیتے، iOS یا انڈرائڈ تے { -brand-product-name } وِچ سائن اِن تھیوو۔
+firefoxview-mobile-promo-primarybutton = موبائل کیتے { -brand-product-name } حاصل کرو
+firefoxview-mobile-confirmation-header = ونڄݨ چنڳاں ہے!
+firefoxview-mobile-confirmation-description = ہݨ تساں اپݨے ٹیبلٹ یا فون کنوں اپݨے { -brand-product-name } ٹیبز حاصل کر سڳدے ہو۔
+firefoxview-closed-tabs-title = حالیہ بند تھیاں
+firefoxview-closed-tabs-description2 = او ورقے دوبارہ کھولو جیڑھے تساں ایں ونڈو وچ بند کر ݙتے ہن۔
+firefoxview-closed-tabs-placeholder-header = حالیہ بند ٹیبز کوئی کائنی
+firefoxview-closed-tabs-placeholder-body = جݙاں تساں ایں ونڈو وِچ ہک ٹیب بند کریندے او، تساں اینکوں اتھوں چھِک سڳدے او۔
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = آخری فعال
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = { $targetURI } نویں ٹیب وِچ کھولو
+firefoxview-try-colorways-button = کلر ویز آزماؤ
+firefoxview-no-current-colorway-collection = نویں کلر ویز رستے وِچ ہن
+firefoxview-change-colorway-button = کلر وے تبدیل کرو
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = ہالی ݙیکھݨ کیتے کجھ کائنی
 firefoxview-collapse-button-show =
     .title = تندیر ݙکھاؤ
 firefoxview-collapse-button-hide =
