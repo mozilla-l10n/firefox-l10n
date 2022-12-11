@@ -8,24 +8,13 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Ocorreu um erro durante uma conexão com { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Código do erro: { $error }
-
 psmerr-ssl-disabled = Não foi possível conectar com segurança porque o protocolo SSL foi desativado.
 psmerr-ssl2-disabled = Não foi possível conectar com segurança porque o site usa uma versão antiga e não segura do protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Você recebeu um certificado inválido. Entre em contato com o administrador do servidor e forneça as seguintes informações:
     
     Seu certificado contém o mesmo número de série que o de outro certificado emitido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
-
 ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto nível.
 ssl-error-us-only-server = Não foi possível comunicar com segurança. O sistema remoto necessita de criptografia de alto nível que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: nenhum algoritmo de criptografia comum.
@@ -212,14 +201,6 @@ sec-error-pkcs7-keyalg-mismatch = Não é possível descriptografar: a chave de 
 sec-error-pkcs7-bad-signature = Falha na verificação de assinatura: nenhum signatário encontrado, muitos signatários encontrados ou dados corrompidos ou incorretos.
 sec-error-unsupported-keyalg = Algoritmo de chave desconhecido ou não suportado.
 sec-error-decryption-disallowed = Não é possível descriptografar: criptografado usando um algoritmo ou tamanho de chave desaprovado.
-xp-sec-fortezza-bad-card = O cartão Fortezza não foi iniciado corretamente. Por favor remova-o e devolva-o ao seu emissor.
-xp-sec-fortezza-no-card = Nenhum cartão Fortezza encontrado
-xp-sec-fortezza-none-selected = Nenhum cartão Fortezza selecionado
-xp-sec-fortezza-more-info = Selecione uma identidade para obter mais informações
-xp-sec-fortezza-person-not-found = Identidade não encontrada
-xp-sec-fortezza-no-more-info = Não há mais informações sobre a identidade
-xp-sec-fortezza-bad-pin = Pin inválido
-xp-sec-fortezza-person-error = Não foi possível inicializar as identidades Fortezza.
 sec-error-no-krl = Nenhuma KRL para o certificado deste site foi encontrada.
 sec-error-krl-expired = A validade da KRL para o certificado deste site está vencida.
 sec-error-krl-bad-signature = A KRL do certificado deste site tem uma assinatura inválida.
@@ -234,9 +215,6 @@ sec-error-cert-nickname-collision = Um certificado com o mesmo nickname já exis
 sec-error-key-nickname-collision = Uma chave com o mesmo nickname já existe.
 sec-error-safe-not-created = erro ao criar o objeto seguro
 sec-error-baggage-not-created = erro ao criar objeto bagagem
-xp-java-remove-principal-error = Não foi possível remover o principal
-xp-java-delete-privilege-error = Não foi possível excluir o direito
-xp-java-cert-not-exists-error = Este principal não tem um certificado
 sec-error-bad-export-algorithm = O algoritmo necessário não é permitido.
 sec-error-exporting-certificates = Erro ao tentar exportar certificados.
 sec-error-importing-certificates = Erro ao tentar importar certificados.
@@ -327,7 +305,7 @@ sec-error-unknown-aia-location-type = Tipo de localização desconhecida na exte
 sec-error-bad-http-response = O servidor retornou uma resposta HTTP incorreta
 sec-error-bad-ldap-response = O servidor retornou uma resposta LDAP incorreta
 sec-error-failed-to-encode-data = Falha na codificação de dados com o codificador ASN1
-sec-error-bad-info-access-location = Bad information access location in cert extension
+sec-error-bad-info-access-location = Localização de acesso a informações na extensão de certificado está incorreta
 sec-error-libpkix-internal = Ocorreu um erro interno do libpkix durante a validação do certificado.
 sec-error-pkcs11-general-error = Um módulo PKCS #11 retornou CKR_GENERAL_ERROR, indicando que ocorreu um erro irrecuperável.
 sec-error-pkcs11-function-failed = Um módulo PKCS #11 retornou CKR_FUNCTION_FAILED, indicando que a função requisitada não pôde ser executada. Tentar de novo a mesma operação pode funcionar.
@@ -353,3 +331,14 @@ mozilla-pkix-error-invalid-integer-encoding = O servidor apresentou um certifica
 mozilla-pkix-error-empty-issuer-name = O servidor apresentou um certificado faltando o nome de emissor.
 mozilla-pkix-error-additional-policy-constraint-failed = Uma restrição adicional de diretiva falhou ao validar este certificado.
 mozilla-pkix-error-self-signed-cert = O certificado não é considerado confiável porque é autoassinado.
+xp-java-remove-principal-error = Não foi possível remover o principal
+xp-java-delete-privilege-error = Não foi possível excluir o direito
+xp-java-cert-not-exists-error = Este principal não tem um certificado
+xp-sec-fortezza-bad-card = O cartão Fortezza não foi iniciado corretamente. Por favor remova-o e devolva-o ao seu emissor.
+xp-sec-fortezza-no-card = Nenhum cartão Fortezza encontrado
+xp-sec-fortezza-none-selected = Nenhum cartão Fortezza selecionado
+xp-sec-fortezza-more-info = Selecione uma identidade para obter mais informações
+xp-sec-fortezza-person-not-found = Identidade não encontrada
+xp-sec-fortezza-no-more-info = Não há mais informações sobre a identidade
+xp-sec-fortezza-bad-pin = Pin inválido
+xp-sec-fortezza-person-error = Não foi possível inicializar as identidades Fortezza.

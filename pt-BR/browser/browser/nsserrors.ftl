@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ocorreu um erro durante uma conexão com { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código do erro: { $error }
-
 psmerr-ssl-disabled = Não foi possível conectar com segurança porque o protocolo SSL foi desativado.
 psmerr-ssl2-disabled = Não foi possível conectar com segurança porque o site usa uma versão antiga e não segura do protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Você recebeu um certificado inválido. Entre em contato com o administrador do servidor e forneça as seguintes informações:
     
     Seu certificado contém o mesmo número de série que o de outro certificado emitido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
-
 ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto nível.
 ssl-error-us-only-server = Não foi possível comunicar com segurança. O sistema remoto necessita de criptografia de alto nível que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: nenhum algoritmo de criptografia comum.
@@ -327,7 +323,7 @@ sec-error-unknown-aia-location-type = Tipo de localização desconhecida na exte
 sec-error-bad-http-response = O servidor retornou uma resposta HTTP incorreta
 sec-error-bad-ldap-response = O servidor retornou uma resposta LDAP incorreta
 sec-error-failed-to-encode-data = Falha na codificação de dados com o codificador ASN1
-sec-error-bad-info-access-location = Bad information access location in cert extension
+sec-error-bad-info-access-location = Localização de acesso a informações na extensão de certificado está incorreta
 sec-error-libpkix-internal = Ocorreu um erro interno do libpkix durante a validação do certificado.
 sec-error-pkcs11-general-error = Um módulo PKCS #11 retornou CKR_GENERAL_ERROR, indicando que ocorreu um erro irrecuperável.
 sec-error-pkcs11-function-failed = Um módulo PKCS #11 retornou CKR_FUNCTION_FAILED, indicando que a função requisitada não pôde ser executada. Tentar de novo a mesma operação pode funcionar.
