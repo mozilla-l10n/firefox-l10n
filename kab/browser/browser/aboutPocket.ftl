@@ -22,6 +22,7 @@ pocket-panel-saved-page-saved = Yettwakles ɣer { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Yettwasekles deg { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Tukksa n isebtar…
 pocket-panel-saved-removed = Yettwekkes usebter seg tebdart-inu
+pocket-panel-saved-removed-updated = Yettwekkes usebter seg Yiseklasen
 pocket-panel-saved-processing-tags = Timerna n tebzimin…
 pocket-panel-saved-remove-page = Kkes asebter
 pocket-panel-saved-save-tags = Sekles

@@ -42,6 +42,8 @@ firefoxview-tabpickup-sync-error-primarybutton = Ɛreḍ tikkelt-nniḍen
 firefoxview-tabpickup-sync-disconnected-header = Rmed amtawi i wakken ad tkemmleḍ
 firefoxview-tabpickup-sync-disconnected-description = I ulqaḍ n waccaren-ik·im, tesriḍ ad tsirgeḍ amtawi deg { -brand-short-name }
 firefoxview-tabpickup-sync-disconnected-primarybutton = Rmed amtawi deg yiɣewwaren
+firefoxview-tabpickup-password-locked-header = Sekcem awal-ik·im uffir agejdan i uskan n waccaren
+firefoxview-tabpickup-password-locked-description = I ulqaḍ n waccaren-ik·im, tesriḍ ad teskecmeḍ awal uffir agejdan deg { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Issin ugar
 firefoxview-tabpickup-password-locked-primarybutton = Sekcem awal uffir agejdan
 firefoxview-tabpickup-syncing = Seqɛed tiɣimit mi ara tessemtawayeḍ accaren-ik·im. Ur yettɛeṭṭil ara.
@@ -52,7 +54,6 @@ firefoxview-mobile-confirmation-header = 🎉 igerrez i beddu!
 firefoxview-mobile-confirmation-description = Tzemreḍ tura ad d-terreḍ accaren-ik·im { -brand-product-name } seg tfelwit n uselken neɣ seg tiliɣri
 firefoxview-closed-tabs-title = Melmi kan i yettwamdal
 firefoxview-closed-tabs-description2 = Ales tawaledyawt n yisebtar i tmedleḍ deg usfaylu-a.
-firefoxview-closed-tabs-placeholder = <strong>Ulac isebtar yettwamedlen melmi kan</strong><br/>Ur ttaggad ara akk ad tesruḥeḍ iccer yeldin. Tzemreḍ ad t-id-terreḍ melmi i tebɣiḍ syagi.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Armud aneggaru
 # Variables:
@@ -66,7 +67,6 @@ firefoxview-change-colorway-button = Beddel afran n yiniten
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ulac ayen ara akka tura</strong><br/>Tikkelt-nniḍen mi ara teldiḍ asebter deg { -brand-product-name } ɣef yibenk-nniḍen, ddem-it syagi am wakken d asugen.
 firefoxview-collapse-button-show =
     .title = Sken tabdart
 firefoxview-collapse-button-hide =
