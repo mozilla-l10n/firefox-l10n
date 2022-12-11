@@ -15,6 +15,9 @@ permissions-address = Адрес веб-сайта
 permissions-block =
     .label = Блокировать
     .accesskey = л
+permissions-disable-etp =
+    .label = Добавить исключение
+    .accesskey = и
 permissions-session =
     .label = Разрешить на сессию
     .accesskey = с
@@ -80,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Исключения для улучшенной защиты от отслеживания
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Вы отключили защиту на следующих веб-сайтах.
+permissions-exceptions-manage-etp-desc = Вы можете указать, на каких сайтах отключить «Улучшенную защиту от отслеживания». Введите точный адрес сайта, которым вы хотите управлять, и нажмите «Добавить исключение».
 
 ## Exceptions - Cookies
 

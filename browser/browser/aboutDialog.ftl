@@ -19,6 +19,7 @@ update-failed = Обновление не удалось. <label data-l10n-name=
 update-failed-main = Обновление не удалось. <a data-l10n-name="failed-link-main">Загрузите последнюю версию</a>
 update-adminDisabled = Обновления отключены вашим системным администратором
 update-noUpdatesFound = Установлена последняя версия { -brand-short-name }
+aboutdialog-update-checking-failed = Не удалось проверить наличие обновлений.
 update-otherInstanceHandlingUpdates = Обновление производится другим процессом { -brand-short-name }
 update-manual = Обновления доступны на <label data-l10n-name="manual-link"/>
 update-unsupported = Вы не можете производить дальнейшие обновления на этой системе. <label data-l10n-name="unsupported-link">Подробнее</label>

@@ -282,30 +282,42 @@ quickactions-addons = Просмотр дополнений
 quickactions-cmd-addons2 = дополнения
 # Opens the bookmarks library window
 quickactions-bookmarks = Просмотр закладок
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Управление закладками
 quickactions-cmd-bookmarks = закладки
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Удаление истории
 quickactions-cmd-clearhistory = удалить историю
 # Opens about:downloads page
 quickactions-downloads = Открыть загрузки
+# Opens about:downloads page
+quickactions-downloads2 = Просмотреть загрузки
 quickactions-cmd-downloads = загрузки
 # Opens about:addons page in the extensions section
 quickactions-extensions = Управление расширениями
 quickactions-cmd-extensions = расширения
 # Opens the devtools web inspector
 quickactions-inspector = Открыть инспектор
+# Opens the devtools web inspector
+quickactions-inspector2 = Открыть Инструменты разработчика
 quickactions-cmd-inspector = инспектор, инструменты разработки
 # Opens about:logins
 quickactions-logins = Просмотр логинов
+# Opens about:logins
+quickactions-logins2 = Управление паролями
 quickactions-cmd-logins = логины, пароли
 # Opens about:addons page in the plugins section
 quickactions-plugins = Управление плагинами
 quickactions-cmd-plugins = плагины
 # Opens the print dialog
 quickactions-print = Распечатать
+# Opens the print dialog
+quickactions-print2 = Распечатать страницу
 quickactions-cmd-print = печать
 # Opens a new private browsing window
 quickactions-private = Открыть окно приватного просмотра
+# Opens a new private browsing window
+quickactions-private2 = Открыть приватное окно
 quickactions-cmd-private = приватный просмотр
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Очистить { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Перезапустить { -brand-short-name }
 quickactions-cmd-restart = перезапустить
 # Opens the screenshot tool
 quickactions-screenshot2 = Сделать скриншот
+# Opens the screenshot tool
+quickactions-screenshot3 = Сделать снимок экрана
 quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings = Открыть настройки
+# Opens about:preferences
+quickactions-settings2 = Управление настройками
 quickactions-cmd-settings = настройки, параметры, опции
 # Opens about:addons page in the themes section
 quickactions-themes = Управление темами
@@ -327,6 +343,8 @@ quickactions-update = Обновить { -brand-short-name }
 quickactions-cmd-update = обновление
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Показать исходник
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Исходный код страницы
 quickactions-cmd-viewsource = просмотр исходного текста, кода
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
