@@ -282,21 +282,29 @@ quickactions-addons = Переглянути додатки
 quickactions-cmd-addons2 = додатки
 # Opens the bookmarks library window
 quickactions-bookmarks = Переглянути закладки
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Керувати закладками
 quickactions-cmd-bookmarks = закладки
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Стерти історію
 quickactions-cmd-clearhistory = стерти історію
 # Opens about:downloads page
 quickactions-downloads = Відкрити завантаження
+# Opens about:downloads page
+quickactions-downloads2 = Переглянути завантаження
 quickactions-cmd-downloads = завантаження
 # Opens about:addons page in the extensions section
 quickactions-extensions = Керувати розширеннями
 quickactions-cmd-extensions = розширення
 # Opens the devtools web inspector
 quickactions-inspector = Відкрити інспектор
+# Opens the devtools web inspector
+quickactions-inspector2 = Відкрити інструменти розробника
 quickactions-cmd-inspector = інспектор, інструменти розробника
 # Opens about:logins
 quickactions-logins = Переглянути паролі
+# Opens about:logins
+quickactions-logins2 = Керувати паролями
 quickactions-cmd-logins = входи, паролі
 # Opens about:addons page in the plugins section
 quickactions-plugins = Керувати плагінами
@@ -306,6 +314,8 @@ quickactions-print = Друкувати
 quickactions-cmd-print = друк
 # Opens a new private browsing window
 quickactions-private = Відкрити вікно приватного перегляду
+# Opens a new private browsing window
+quickactions-private2 = Відкрити приватне вікно
 quickactions-cmd-private = приватний перегляд
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Оновити { -brand-short-name }
@@ -315,9 +325,13 @@ quickactions-restart = Перезапустити { -brand-short-name }
 quickactions-cmd-restart = перезапустити
 # Opens the screenshot tool
 quickactions-screenshot2 = Зробити знімок екрана
+# Opens the screenshot tool
+quickactions-screenshot3 = Зробити знімок екрана
 quickactions-cmd-screenshot = знімок екрана
 # Opens about:preferences
 quickactions-settings = Відкрити налаштування
+# Opens about:preferences
+quickactions-settings2 = Керувати налаштуваннями
 quickactions-cmd-settings = налаштування, уподобання, параметри
 # Opens about:addons page in the themes section
 quickactions-themes = Керувати темами
@@ -327,6 +341,8 @@ quickactions-update = Оновити { -brand-short-name }
 quickactions-cmd-update = оновити
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Переглянути джерело
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Програмний код сторінки
 quickactions-cmd-viewsource = переглянути джерело, джерело
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
