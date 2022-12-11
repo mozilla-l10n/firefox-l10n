@@ -54,6 +54,9 @@ mr1-onboarding-theme-secondary-button-label = ہݨ کائناں
 mr1-onboarding-theme-label-system = نظام تھیم
 mr1-onboarding-theme-label-light = پھکا
 mr1-onboarding-theme-label-dark = شوخ
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = ایلپینگلو
+onboarding-theme-primary-button-label = تھی ڳیا
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -81,6 +84,8 @@ mr1-onboarding-theme-label-dark = شوخ
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-secondary-cancel-download = منسوخ
+onboarding-live-language-skip-button-label = چھوڑو
 
 ## Firefox 100 Thank You screens
 
