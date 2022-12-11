@@ -983,7 +983,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Золотая середина: защита и производительность. Страницы будут загружаться приемлемо.
+content-blocking-etp-standard-desc = Золотая середина: защита и производительность. Страницы будут загружаться нормально.
 content-blocking-etp-strict-desc = Усиленная защита может вызывать проблемы с некоторыми сайтами и их содержимым.
 content-blocking-etp-custom-desc = Выберите, какие трекеры и скрипты необходимо блокировать.
 content-blocking-etp-blocking-desc = { -brand-short-name } блокирует следующее:
