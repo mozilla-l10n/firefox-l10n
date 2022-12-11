@@ -38,6 +38,20 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } ـــ (نجی براؤزنگ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } ـــ (نجی براؤزنگ)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } نجی براؤزنگ
+    .data-content-title-default = { $content-title } ـــ { -brand-full-name }
+    .data-content-title-private = { $content-title } ــــ { -brand-full-name } نجی براؤزنگ
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -288,9 +302,13 @@ quickactions-plugins = پلگ انز دا بندوبست کرو
 quickactions-cmd-plugins = پلگ انز
 # Opens the print dialog
 quickactions-print = چھاپو
+# Opens the print dialog
+quickactions-print2 = ورقہ پرنٹ کرو
 quickactions-cmd-print = چھاپو
 # Opens a new private browsing window
 quickactions-private = نجی براؤزنگ ونڈو کھولو
+# Opens a new private browsing window
+quickactions-private2 = نجی ونڈو کھولو
 quickactions-cmd-private = نجی براؤزنگ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = ریفریش { -brand-short-name }
@@ -300,9 +318,13 @@ quickactions-restart = نویں سروں چلاؤ { -brand-short-name }
 quickactions-cmd-restart = نویں سروں چلاؤ
 # Opens the screenshot tool
 quickactions-screenshot2 = سکرین شاٹ گھنو
+# Opens the screenshot tool
+quickactions-screenshot3 = سکرین شاٹ گھنو
 quickactions-cmd-screenshot = سکرین شاٹ
 # Opens about:preferences
 quickactions-settings = سیٹنگز کھولو
+# Opens about:preferences
+quickactions-settings2 = ترتیباں دا بندوبست کرو
 quickactions-cmd-settings = ترتیباں، ترجیحاں، اختیارات
 # Opens about:addons page in the themes section
 quickactions-themes = تھیمز دا بندوبست کرو
@@ -312,6 +334,8 @@ quickactions-update = اپ ڈیٹ { -brand-short-name }
 quickactions-cmd-update = اپ ڈیٹ
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ماخذ ݙیکھو
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = ورقے دا ماخذ ݙیکھو
 quickactions-cmd-viewsource = ماخذ ݙیکھو، ماخذ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

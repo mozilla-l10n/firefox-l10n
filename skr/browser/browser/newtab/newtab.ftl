@@ -197,6 +197,8 @@ newtab-empty-section-highlights = برائوزنگ شروع کرو، تے اسا
 
 ## Pocket Content Section.
 
+newtab-pocket-learn-more = ٻیا سِکھو
+newtab-pocket-cta-button = { -pocket-brand-name } گھنو
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.

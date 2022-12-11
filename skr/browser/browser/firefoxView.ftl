@@ -42,6 +42,7 @@ firefoxview-tabpickup-sync-disconnected-primarybutton = ترتیباں وِچ ہ
 firefoxview-tabpickup-password-locked-header = ٹیبز ݙیکھݨ کیتے اپݨا منڈھلا پاس ورڈ درج کرو
 firefoxview-tabpickup-password-locked-link = ٻیا سِکھو
 firefoxview-tabpickup-password-locked-primarybutton = منڈھلا پاس ورڈ داخل کرو
+firefoxview-tabpickup-signed-out-primarybutton = سائن ان
 firefoxview-mobile-promo-header = اپݨے فون یا ٹیبلٹ کنوں ٹیبز حاصل کرو
 firefoxview-mobile-promo-description = اپݨے نویں نکور موبائل ٹیبز ݙیکھݨ کیتے، iOS یا انڈرائڈ تے { -brand-product-name } وِچ سائن اِن تھیوو۔
 firefoxview-mobile-promo-primarybutton = موبائل کیتے { -brand-product-name } حاصل کرو
