@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available2 =
+    .label = اپ ڈیٹ دستیاب ہے
+    .buttonlabel = ڈاؤن لوڈ
+    .buttonaccesskey = D
+    .secondarybuttonlabel = فارغ کرو
+    .secondarybuttonaccesskey = m
 appmenu-update-available-message2 = { -brand-shorter-name } دا نواں نکور ورشن ڈاؤن لوڈ کرو
 appmenu-update-manual2 =
     .label = اپ ڈیٹ دستیاب ہے

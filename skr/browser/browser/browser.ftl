@@ -33,6 +33,25 @@ browser-main-window =
 #
 # Variables:
 #  $content-title (String): the title of the web content.
+browser-main-window-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } ـــ (نجی براؤزنگ)
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } ـــ (نجی براؤزنگ)
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } — نجی براؤزنگ
@@ -244,12 +263,16 @@ quickactions-addons = ایڈ آنز ݙیکھو
 quickactions-cmd-addons2 = ایڈ آنز
 # Opens the bookmarks library window
 quickactions-bookmarks = نشانیاں ݙیکھو
+# Opens the bookmarks library window
+quickactions-bookmarks2 = نشانیاں منظم کرو
 quickactions-cmd-bookmarks = نشانیاں
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ہسٹری میسو
 quickactions-cmd-clearhistory = ہسٹری میسو
 # Opens about:downloads page
 quickactions-downloads = ڈاؤن لوڈز کھولو
+# Opens about:downloads page
+quickactions-downloads2 = ڈاؤن لوڈز ݙیکھو
 quickactions-cmd-downloads = ڈاؤن لوڈز
 # Opens about:addons page in the extensions section
 quickactions-extensions = ایکسٹینشنز دا بندوبست کرو
