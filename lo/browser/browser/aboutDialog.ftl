@@ -19,6 +19,7 @@ update-failed = ການອັບເດດລົ້ມເຫລວ.<label data-
 update-failed-main = ການອັບເດດລົ້ມເຫລວ.<a data-l10n-name="failed-link-main">ດາວໂຫລດລຸ້ນຫລ້າສຸດ</a>
 update-adminDisabled = ການອັບເດດໄດ້ຖືກປິດໂດຍຜູ້ຄຸ້ມຄອງລະບົບຂອງທ່ານ
 update-noUpdatesFound = { -brand-short-name } ແມ່ນລຸ້ນລ່າສຸດແລ້ວ
+aboutdialog-update-checking-failed = ລົ້ມເຫລວໃນການກວດສອບການອັບເດດ.
 update-otherInstanceHandlingUpdates = { -brand-short-name } ກຳລັງອັບເດດໂດຍອິນສະເຕນອື່ນຢູ່
 update-manual = ອັບເດດມີຢູ່ທີ<label data-l10n-name="manual-link"/>
 update-unsupported = ທ່ານບໍ່ສາມາດດຳເນີນການອັບເດດອື່ນໆໄດ້ອີກໃນລະບົບນີ້.<label data-l10n-name="unsupported-link">ສຶກສາເພີ່ມເຕີມ...</label>

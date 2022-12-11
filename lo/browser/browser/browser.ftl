@@ -283,6 +283,8 @@ quickactions-update = ອັບເດດ { -brand-short-name }
 quickactions-cmd-update = ອັບເດດ
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ເບິ່ງຕົ້ນສະບັບ
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = ເບິງແຫລ່ງຂໍ້ມູນຂອງຫນ້ານີ້
 quickactions-cmd-viewsource = ເບິ່ງຕົ້ນສະບັບ, ຕົ້ນສະບັບ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
