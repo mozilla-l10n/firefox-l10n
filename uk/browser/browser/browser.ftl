@@ -311,6 +311,8 @@ quickactions-plugins = Керувати плагінами
 quickactions-cmd-plugins = плагіни
 # Opens the print dialog
 quickactions-print = Друкувати
+# Opens the print dialog
+quickactions-print2 = Друкувати сторінку
 quickactions-cmd-print = друк
 # Opens a new private browsing window
 quickactions-private = Відкрити вікно приватного перегляду
