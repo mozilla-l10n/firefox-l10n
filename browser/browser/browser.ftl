@@ -332,6 +332,8 @@ quickactions-screenshot3 = Tomar una captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings = Abrir Ajustes
+# Opens about:preferences
+quickactions-settings2 = Administrar ajustes
 quickactions-cmd-settings = ajustes, preferencias, opciones
 # Opens about:addons page in the themes section
 quickactions-themes = Gestionar temas
@@ -341,6 +343,8 @@ quickactions-update = Actualizar { -brand-short-name }
 quickactions-cmd-update = actualización
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver fuente
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Ver código fuente de la página
 quickactions-cmd-viewsource = ver fuente, fuente
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
