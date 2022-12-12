@@ -19,6 +19,7 @@ update-failed = A frissítés sikertelen.<label data-l10n-name="failed-link">Tö
 update-failed-main = A frissítés sikertelen.<a data-l10n-name="failed-link-main">Töltse le a legújabb verziót</a>
 update-adminDisabled = A frissítéseket a rendszergazda letiltotta
 update-noUpdatesFound = A { -brand-short-name } naprakész
+aboutdialog-update-checking-failed = Nem sikerült a frissítések keresése.
 update-otherInstanceHandlingUpdates = A { -brand-short-name } frissítése folyamatban egy másik példány által
 update-manual = Frissítés elérhető: <label data-l10n-name="manual-link"/>
 update-unsupported = Nem végezhet további frissítéseket ezen a rendszeren.<label data-l10n-name="unsupported-link">További tudnivalók</label>
