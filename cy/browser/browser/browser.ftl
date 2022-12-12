@@ -299,7 +299,7 @@ quickactions-cmd-extensions = estyniadau
 # Opens the devtools web inspector
 quickactions-inspector = Agor yr Archwilydd
 # Opens the devtools web inspector
-quickactions-inspector2 = Agor Offer Datblygwr
+quickactions-inspector2 = Agor Offer Datblygwyr
 quickactions-cmd-inspector = arolygydd, devtools
 # Opens about:logins
 quickactions-logins = Gweld Mewngofnodion
@@ -344,7 +344,7 @@ quickactions-cmd-update = diweddaru
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Gweld y Ffynhonell
 # Opens the view-source UI with current pages source
-quickactions-viewsource2 = Edrych ar Ffynhonnell Tudalen
+quickactions-viewsource2 = Gweld Ffynhonnell Tudalen
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
