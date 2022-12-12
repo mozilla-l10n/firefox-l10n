@@ -282,30 +282,42 @@ quickactions-addons = Add-ons bekijken
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks = Bladwijzers bekijken
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Bladwijzers beheren
 quickactions-cmd-bookmarks = bladwijzers
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Geschiedenis wissen
 quickactions-cmd-clearhistory = geschiedenis wissen
 # Opens about:downloads page
 quickactions-downloads = Downloads openen
+# Opens about:downloads page
+quickactions-downloads2 = Downloads bekijken
 quickactions-cmd-downloads = downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Extensies beheren
 quickactions-cmd-extensions = extensies
 # Opens the devtools web inspector
 quickactions-inspector = Inspector openen
+# Opens the devtools web inspector
+quickactions-inspector2 = Ontwikkelaarshulpmiddelen openen
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins = Aanmeldingen weergeven
+# Opens about:logins
+quickactions-logins2 = Wachtwoorden beheren
 quickactions-cmd-logins = aanmeldingen, wachtwoorden
 # Opens about:addons page in the plugins section
 quickactions-plugins = Plug-ins beheren
 quickactions-cmd-plugins = plug-ins
 # Opens the print dialog
 quickactions-print = Afdrukken
+# Opens the print dialog
+quickactions-print2 = Pagina afdrukken
 quickactions-cmd-print = afdrukken
 # Opens a new private browsing window
 quickactions-private = Privénavigatievenster openen
+# Opens a new private browsing window
+quickactions-private2 = Privévenster openen
 quickactions-cmd-private = privénavigatie
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } opfrissen
@@ -315,9 +327,13 @@ quickactions-restart = { -brand-short-name } herstarten
 quickactions-cmd-restart = herstarten
 # Opens the screenshot tool
 quickactions-screenshot2 = Een schermafbeelding maken
+# Opens the screenshot tool
+quickactions-screenshot3 = Een schermafbeelding maken
 quickactions-cmd-screenshot = schermafbeelding
 # Opens about:preferences
 quickactions-settings = Instellingen openen
+# Opens about:preferences
+quickactions-settings2 = Instellingen beheren
 quickactions-cmd-settings = instellingen, voorkeuren, opties
 # Opens about:addons page in the themes section
 quickactions-themes = Thema’s beheren
@@ -327,6 +343,8 @@ quickactions-update = { -brand-short-name } bijwerken
 quickactions-cmd-update = bijwerken
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Bron bekijken
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Paginabron bekijken
 quickactions-cmd-viewsource = bron bekijken, bron
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
