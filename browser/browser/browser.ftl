@@ -327,6 +327,8 @@ quickactions-restart = Reiniciar { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot2 = Tomar una captura de pantalla
+# Opens the screenshot tool
+quickactions-screenshot3 = Tomar una captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings = Abrir Ajustes
