@@ -129,6 +129,11 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] { "" }
        *[other] அனைத்தையும் நீக்குக
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } புகுபதிகையை நீக்கவா?
+       *[other] { $count } புகுபதிகைகளை நீக்கவா?
+    }
 about-logins-confirm-export-dialog-title = உள்நுழைவுகளையும் கடவுச்சொற்களையும் ஏற்றுமதி செய்
 about-logins-confirm-export-dialog-message = தங்கள் கடவுச்சொற்கள் படிக்கக்கூடிய உரையாகச் சேமிக்கப்படும் (எ.கா., BadP@ssw0rd) எனவே ஏற்றுமதி செய்யப்பட்ட கோப்பைத் திறக்கக்கூடிய எவரும் அவற்றைக் காணலாம்.
 about-logins-confirm-export-dialog-confirm-button = ஏற்றுமதி...
