@@ -282,30 +282,42 @@ quickactions-addons = Kiegészítők megjelenítése
 quickactions-cmd-addons2 = kiegészítők
 # Opens the bookmarks library window
 quickactions-bookmarks = Könyvjelzők megtekintése
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Könyvjelzők kezelése
 quickactions-cmd-bookmarks = könyvjelzők
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Előzmények törlése
 quickactions-cmd-clearhistory = előzmények törlése
 # Opens about:downloads page
 quickactions-downloads = Letöltések megnyitása
+# Opens about:downloads page
+quickactions-downloads2 = Letöltések megtekintése
 quickactions-cmd-downloads = letöltések
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kiegészítők kezelése
 quickactions-cmd-extensions = kiegészítők
 # Opens the devtools web inspector
 quickactions-inspector = Vizsgáló megnyitása
+# Opens the devtools web inspector
+quickactions-inspector2 = Fejlesztői eszközök megnyitása
 quickactions-cmd-inspector = vizsgáló, fejlesztői eszközök
 # Opens about:logins
 quickactions-logins = Bejelentkezések megtekintése
+# Opens about:logins
+quickactions-logins2 = Jelszavak kezelése
 quickactions-cmd-logins = bejelentkezések, jelszavak
 # Opens about:addons page in the plugins section
 quickactions-plugins = Bővítmények kezelése
 quickactions-cmd-plugins = bővítmények
 # Opens the print dialog
 quickactions-print = Nyomtatás
+# Opens the print dialog
+quickactions-print2 = Oldal nyomtatása
 quickactions-cmd-print = nyomtatás
 # Opens a new private browsing window
 quickactions-private = Privát böngészési ablak megnyitása
+# Opens a new private browsing window
+quickactions-private2 = Privát ablak megnyitása
 quickactions-cmd-private = privát böngészés
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = A { -brand-short-name } felfrissítése
@@ -315,9 +327,13 @@ quickactions-restart = A { -brand-short-name } újraindítása
 quickactions-cmd-restart = újraindítás
 # Opens the screenshot tool
 quickactions-screenshot2 = Képernyőkép készítése
+# Opens the screenshot tool
+quickactions-screenshot3 = Képernyőkép készítése
 quickactions-cmd-screenshot = képernyőkép
 # Opens about:preferences
 quickactions-settings = Beállítások megnyitása
+# Opens about:preferences
+quickactions-settings2 = Beállítások kezelése
 quickactions-cmd-settings = beállítások, lehetőségek, kapcsolók
 # Opens about:addons page in the themes section
 quickactions-themes = Témák kezelése
@@ -327,6 +343,8 @@ quickactions-update = A { -brand-short-name } frissítése
 quickactions-cmd-update = frissítés
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Forrás megtekintése
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Oldal forrásának megtekintése
 quickactions-cmd-viewsource = forrás megtekintése, forrás, forráskód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
