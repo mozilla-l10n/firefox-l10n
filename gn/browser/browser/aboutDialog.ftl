@@ -19,6 +19,7 @@ update-failed = Tekopyahu ndoikói.<label data-l10n-name="failed-link">Emboguejy
 update-failed-main = Tekopyahu ndoikói.<a data-l10n-name="failed-link-main">Emboguejy apopy ipyahuvéva</a>
 update-adminDisabled = Tekopyahu ñangarekohára omongeva’ekue
 update-noUpdatesFound = { -brand-short-name } hekopyahúma
+aboutdialog-update-checking-failed = Ndojejuhukuaái ñembohekopyahu.
 update-otherInstanceHandlingUpdates = { -brand-short-name } oñembohekopyahuhína ambuéva rupi
 update-manual = Tekopyahu rejuhukuaáva ápe<label data-l10n-name="manual-link"/>
 update-unsupported = Ndaikatuvéima reipuru ambue tekopyahu ko apopyvusúpe.<label data-l10n-name="unsupported-link">Kuaave</label>
