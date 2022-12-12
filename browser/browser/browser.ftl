@@ -282,30 +282,42 @@ quickactions-addons = Eklentileri görüntüle
 quickactions-cmd-addons2 = eklentiler
 # Opens the bookmarks library window
 quickactions-bookmarks = Yer imlerini görüntüle
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Yer imlerini yönet
 quickactions-cmd-bookmarks = yer imleri
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Geçmişi temizle
 quickactions-cmd-clearhistory = geçmişi temizle
 # Opens about:downloads page
 quickactions-downloads = İndirilenleri aç
+# Opens about:downloads page
+quickactions-downloads2 = İndirilenleri göster
 quickactions-cmd-downloads = indirilenler
 # Opens about:addons page in the extensions section
 quickactions-extensions = Uzantıları yönet
 quickactions-cmd-extensions = uzantılar
 # Opens the devtools web inspector
 quickactions-inspector = Denetçiyi aç
+# Opens the devtools web inspector
+quickactions-inspector2 = Geliştirici araçlarını aç
 quickactions-cmd-inspector = denetçi, geliştirici araçları
 # Opens about:logins
 quickactions-logins = Hesapları göster
+# Opens about:logins
+quickactions-logins2 = Parolaları yönet
 quickactions-cmd-logins = hesaplar, parolalar
 # Opens about:addons page in the plugins section
 quickactions-plugins = Yan uygulamaları yönet
 quickactions-cmd-plugins = yan uygulamalar
 # Opens the print dialog
 quickactions-print = Yazdır
+# Opens the print dialog
+quickactions-print2 = Sayfayı yazdır
 quickactions-cmd-print = yazdır
 # Opens a new private browsing window
 quickactions-private = Gizli gezinti penceresini aç
+# Opens a new private browsing window
+quickactions-private2 = Gizli pencere aç
 quickactions-cmd-private = gizli gezinti
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } tarayıcısını yenile
@@ -315,9 +327,13 @@ quickactions-restart = { -brand-short-name } tarayıcısını yeniden başlat
 quickactions-cmd-restart = yeniden başlat
 # Opens the screenshot tool
 quickactions-screenshot2 = Ekran görüntüsü al
+# Opens the screenshot tool
+quickactions-screenshot3 = Ekran görüntüsü al
 quickactions-cmd-screenshot = ekran görüntüsü
 # Opens about:preferences
 quickactions-settings = Ayarları aç
+# Opens about:preferences
+quickactions-settings2 = Ayarları yönet
 quickactions-cmd-settings = ayarlar, tercihler, seçenekler
 # Opens about:addons page in the themes section
 quickactions-themes = Temaları yönet
@@ -327,6 +343,8 @@ quickactions-update = { -brand-short-name } tarayıcısını güncelle
 quickactions-cmd-update = güncelle
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Kaynağı göster
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Sayfa kaynağını göster
 quickactions-cmd-viewsource = kaynağı görüntüle, kaynak
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
