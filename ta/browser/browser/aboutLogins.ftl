@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = புகுபதிகைககளும் கடவுச்சொற்களும்
-
 login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
-
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
-
 fxaccounts-sign-in-text = உங்கள் கடவுச்சொற்களை மற்ற சாதனங்களில் பெறுங்கள்
 fxaccounts-sign-in-sync-button = ஒத்திசைக்க உள்நுழை
 fxaccounts-avatar-button =
@@ -108,7 +105,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = சேமித்த கடவுச்சொல்லை வெளிப்படுத்து
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = சேமித்த கடவுச்சொல்லை நகலெடு
@@ -124,15 +120,18 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = இரத்து
 confirmation-dialog-dismiss-button =
     .title = இரத்து
-
 about-logins-confirm-remove-dialog-title = இந்த உள்நுழைவை நீக்கவா?
 confirm-delete-dialog-message = இச்செயலை மீட்க முடியாது.
 about-logins-confirm-remove-dialog-confirm-button = நீக்கு
-
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] நீக்கு
+        [one] { "" }
+       *[other] அனைத்தையும் நீக்குக
+    }
 about-logins-confirm-export-dialog-title = உள்நுழைவுகளையும் கடவுச்சொற்களையும் ஏற்றுமதி செய்
 about-logins-confirm-export-dialog-message = தங்கள் கடவுச்சொற்கள் படிக்கக்கூடிய உரையாகச் சேமிக்கப்படும் (எ.கா., BadP@ssw0rd) எனவே ஏற்றுமதி செய்யப்பட்ட கோப்பைத் திறக்கக்கூடிய எவரும் அவற்றைக் காணலாம்.
 about-logins-confirm-export-dialog-confirm-button = ஏற்றுமதி...
-
 confirm-discard-changes-dialog-title = சேமிக்காத மாற்றங்களை நிராகரிக்கவா?
 confirm-discard-changes-dialog-message = சேமிக்கப்படாத அனைத்து மாற்றங்களும் இழக்கப்படும்.
 confirm-discard-changes-dialog-confirm-button = நிராகரி
@@ -163,7 +162,6 @@ about-logins-vulnerable-alert-learn-more-link = மேலும் அறிக
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } -க்கான நுழைவு ஏற்கனவே அந்தப் பயனர்பெயருடன் உள்ளது.<a data-l10n-name="duplicate-link">இருக்கும் நுழைவுக்குச் செல்லவா?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = இந்த கடவுச்சொல்லைச் சேமிக்க முயற்சிக்கும்போது பிழை ஏற்பட்டது.
 
