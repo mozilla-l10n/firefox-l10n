@@ -282,30 +282,42 @@ quickactions-addons = Ver complementos
 quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks = Ver marcadores
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Gestionar marcadores
 quickactions-cmd-bookmarks = marcadores
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpiar historial
 quickactions-cmd-clearhistory = limpiar historial
 # Opens about:downloads page
 quickactions-downloads = Abrir descargas
+# Opens about:downloads page
+quickactions-downloads2 = Ver descargas
 quickactions-cmd-downloads = descargas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestionar extensiones
 quickactions-cmd-extensions = extensiones
 # Opens the devtools web inspector
 quickactions-inspector = Abrir inspector
+# Opens the devtools web inspector
+quickactions-inspector2 = Abrir herramientas de desarrollador
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins = Ver credenciales
+# Opens about:logins
+quickactions-logins2 = Gestionar contraseñas
 quickactions-cmd-logins = Credenciales, contraseñas
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gestionar complementos…
 quickactions-cmd-plugins = complementos
 # Opens the print dialog
 quickactions-print = Imprimir
+# Opens the print dialog
+quickactions-print2 = Imprimir página
 quickactions-cmd-print = imprimir
 # Opens a new private browsing window
 quickactions-private = Abrir ventana de navegación privada
+# Opens a new private browsing window
+quickactions-private2 = Abrir ventana privada
 quickactions-cmd-private = navegación privada
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Refrescar { -brand-short-name }
