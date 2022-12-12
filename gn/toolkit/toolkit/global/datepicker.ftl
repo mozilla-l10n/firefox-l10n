@@ -36,3 +36,11 @@ date-spinner-year =
 ## to indicate the purpose of buttons that leaf through either months
 ## or years of a Month/Year date spinner on a datepicker calendar dialog
 
+date-spinner-month-previous =
+    .aria-label = Jasy ohasaramóva
+date-spinner-month-next =
+    .aria-label = Jasy oútava
+date-spinner-year-previous =
+    .aria-label = Ary ohasaramóva
+date-spinner-year-next =
+    .aria-label = Ary oútava
