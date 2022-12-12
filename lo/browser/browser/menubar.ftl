@@ -198,6 +198,7 @@ menu-history-undo-menu =
     .label = ແຖບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 menu-history-undo-window-menu =
     .label = ວິນໂດທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
+menu-history-reopen-all-windows = ເປີດແຖບທັງໝົດຄືນໃໝ່
 
 ## Bookmarks Menu
 
@@ -231,12 +232,18 @@ menu-tools =
 menu-tools-downloads =
     .label = ດາວໂຫລດ
     .accesskey = D
+menu-tools-addons-and-themes =
+    .label = ສ່ວນເສີມແລະຮູບແບບສີສັນ
+    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = ເຂົ້າ​ສູ່​ລະ​ບົບ.
     .accesskey = g
 menu-tools-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
     .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = ເຊື່ອມຕໍ່ກັບ { -brand-product-name }…
+    .accesskey = R
 menu-tools-task-manager =
     .label = Task Manager
     .accesskey = M

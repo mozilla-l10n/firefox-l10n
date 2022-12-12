@@ -49,6 +49,9 @@ cfr-doorhanger-extension-total-users =
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = ປຸ່ມປິດ
+    .title = ປິດ
 
 ## Protections panel
 
@@ -59,6 +62,9 @@ cfr-protections-panel-link-text = ຮຽນຮູ້ເພີ່ມເຕີມ
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ຄຸນ​ນະ​ສົມ​ບັດ​ໃຫມ່​:
+cfr-whatsnew-button =
+    .label = ມີ​ຫຍັງ​ໃຫມ່
+    .tooltiptext = ມີ​ຫຍັງ​ໃຫມ່
 
 ## Enhanced Tracking Protection Milestones
 
