@@ -282,30 +282,42 @@ quickactions-addons = Gweld Ychwanegion
 quickactions-cmd-addons2 = ychwanegion
 # Opens the bookmarks library window
 quickactions-bookmarks = Gweld Nodau Tudalen
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Rheoli nodau tudalen
 quickactions-cmd-bookmarks = nodau tudalen
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Clirio Hanes
 quickactions-cmd-clearhistory = clirio hanes
 # Opens about:downloads page
 quickactions-downloads = Agor y Llwythi
+# Opens about:downloads page
+quickactions-downloads2 = Gweld llwythi
 quickactions-cmd-downloads = llwythi
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rheoli estyniadau
 quickactions-cmd-extensions = estyniadau
 # Opens the devtools web inspector
 quickactions-inspector = Agor yr Archwilydd
+# Opens the devtools web inspector
+quickactions-inspector2 = Agor Offer Datblygwr
 quickactions-cmd-inspector = arolygydd, devtools
 # Opens about:logins
 quickactions-logins = Gweld Mewngofnodion
+# Opens about:logins
+quickactions-logins2 = Rheoli cyfrineiriau
 quickactions-cmd-logins = mewngofnodion, cyfrineiriau
 # Opens about:addons page in the plugins section
 quickactions-plugins = Rheoli ategion
 quickactions-cmd-plugins = ategion
 # Opens the print dialog
 quickactions-print = Argraffu
+# Opens the print dialog
+quickactions-print2 = Argraffu tudalen
 quickactions-cmd-print = argraffu
 # Opens a new private browsing window
 quickactions-private = Agor Ffenestr Pori Preifat
+# Opens a new private browsing window
+quickactions-private2 = Agor ffenestr breifat
 quickactions-cmd-private = pori preifat
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Adnewyddu { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Ailgychwyn { -brand-short-name }
 quickactions-cmd-restart = ailgychwyn
 # Opens the screenshot tool
 quickactions-screenshot2 = Cymryd Llun Sgrin
+# Opens the screenshot tool
+quickactions-screenshot3 = Cymryd llun sgrin
 quickactions-cmd-screenshot = llun sgrin
 # Opens about:preferences
 quickactions-settings = Agor y Gosodiadau
+# Opens about:preferences
+quickactions-settings2 = Rheoli gosodiadau
 quickactions-cmd-settings = gosodiadau, dewisiadau, opsiynau
 # Opens about:addons page in the themes section
 quickactions-themes = Rheoli themâu
@@ -327,6 +343,8 @@ quickactions-update = Diweddaru { -brand-short-name }
 quickactions-cmd-update = diweddaru
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Gweld y Ffynhonell
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Edrych ar Ffynhonnell Tudalen
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
