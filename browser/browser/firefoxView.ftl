@@ -46,6 +46,9 @@ firefoxview-tabpickup-password-locked-header = Ingrese su contraseña principal 
 firefoxview-tabpickup-password-locked-description = Para obtener sus pestañas, deberá ingresar la contraseña principal para { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Conocer más
 firefoxview-tabpickup-password-locked-primarybutton = Ingresar la contraseña maestra
+firefoxview-tabpickup-signed-out-header = Iniciar sesión para reconectar
+firefoxview-tabpickup-signed-out-description = Para volver a conectarse y obtener sus pestañas, inicie sesión en su { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-primarybutton = Iniciar sesión
 firefoxview-tabpickup-syncing = Esperá tranquilo mientras tus pestañas se sincronizan. Será solo un momento.
 firefoxview-mobile-promo-header = Mirá las pestañas desde tu teléfono o tableta
 firefoxview-mobile-promo-description = Para ver tus últimas pestañas móviles, iniciá la sesión en { -brand-product-name } en iOS o Android.
@@ -54,9 +57,12 @@ firefoxview-mobile-confirmation-header = 🎉 ¡Listo para llevar!
 firefoxview-mobile-confirmation-description = Ahora podés ver tus pestañas de { -brand-product-name } desde tu tableta o teléfono.
 firefoxview-closed-tabs-title = Recientemente cerradas
 firefoxview-closed-tabs-description2 = Volver a abrir las páginas cerradas en esta ventana.
-firefoxview-closed-tabs-placeholder = <strong>No hay páginas cerradas recientemente</strong><br/>Nunca temas perder una pestaña cerrada de nuevo. Siempre podés recuperarla aquí.
 firefoxview-closed-tabs-placeholder-header = No hay pestañas recientemente cerradas
 firefoxview-closed-tabs-placeholder-body = Cuando cierra una pestaña en esta ventana, puede buscarla desde aquí.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Descartar { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Última activa
 # Variables:
@@ -70,7 +76,6 @@ firefoxview-change-colorway-button = Cambiar la combinación de colores
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>No hay nada que ver todavía</strong><br/>La próxima vez que abras una página en { -brand-product-name } en otro dispositivo, la verás aquí como por arte de magia.
 firefoxview-synced-tabs-placeholder-header = Nada que ver todavía
 firefoxview-synced-tabs-placeholder-body = La próxima vez que abra una página en { -brand-product-name } en otro dispositivo, tómela aquí como por arte de magia.
 firefoxview-collapse-button-show =
