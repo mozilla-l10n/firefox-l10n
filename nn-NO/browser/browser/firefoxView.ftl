@@ -46,6 +46,8 @@ firefoxview-tabpickup-password-locked-header = Skriv inn hovudpassordet ditt for
 firefoxview-tabpickup-password-locked-description = For å få tilgang til fanene dine må du skrive inn hovudpassordet for { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Les meir
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovudpassord
+firefoxview-tabpickup-signed-out-header = Logg inn for å kople til på nytt
+firefoxview-tabpickup-signed-out-primarybutton = Logg inn
 firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tek berre ein augneblink.
 firefoxview-mobile-promo-header = Opne faner frå telefonen eller nettbrettet
 firefoxview-mobile-promo-description = For å sjå dei siste mobilfanene dine, logg på { -brand-product-name } på iOS eller Android.
@@ -54,8 +56,11 @@ firefoxview-mobile-confirmation-header = 🎉 Alt klart!
 firefoxview-mobile-confirmation-description = No kan du hente { -brand-product-name }-fanene frå nettbrettet eller telefonen.
 firefoxview-closed-tabs-title = Nyleg attlatne
 firefoxview-closed-tabs-description2 = Opne på nytt sider du har late att i dette vindauget.
-firefoxview-closed-tabs-placeholder = <strong>Ingen nylege attlatne sider</strong><br/>Frykt ikkje å miste ei attlaten fane igjen. Du kan alltids hente henne her.
 firefoxview-closed-tabs-placeholder-header = Ingen nyleg attlatne faner
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Avvis { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Sist aktiv
 # Variables:
@@ -69,7 +74,6 @@ firefoxview-change-colorway-button = Endre fargesamansetjing
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ingenting å sjå enno</strong><br/>Neste gong du opnar ei side i { -brand-product-name } på ei anna eining, får du på magisk vis tilgang til henne her.
 firefoxview-synced-tabs-placeholder-header = Ingenting å sjå enno
 firefoxview-collapse-button-show =
     .title = Vis liste
