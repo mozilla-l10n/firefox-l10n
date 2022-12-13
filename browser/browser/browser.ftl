@@ -142,6 +142,8 @@ urlbar-search-tips-confirm-short = Eg forstår
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tips:
+urlbar-result-menu-button =
+    .title = Opne meny
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -278,30 +280,42 @@ quickactions-addons = Vis tillegg
 quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks = Vis bokmerke
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Handsam bokmerke
 quickactions-cmd-bookmarks = bokmerke
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tøm historikk
 quickactions-cmd-clearhistory = tøm historikk
 # Opens about:downloads page
 quickactions-downloads = Opne nedlastingar
+# Opens about:downloads page
+quickactions-downloads2 = Vis nedlastingar
 quickactions-cmd-downloads = nedlastingar
 # Opens about:addons page in the extensions section
 quickactions-extensions = Handsam utviding
 quickactions-cmd-extensions = Utvidingar
 # Opens the devtools web inspector
 quickactions-inspector = Opne inspeksjon
+# Opens the devtools web inspector
+quickactions-inspector2 = Opne utviklarverktøy
 quickactions-cmd-inspector = inspektør, utviklarverktøy
 # Opens about:logins
 quickactions-logins = Vis innloggingar
+# Opens about:logins
+quickactions-logins2 = Handsam passord
 quickactions-cmd-logins = Innloggingar, passord
 # Opens about:addons page in the plugins section
 quickactions-plugins = Handsam programtillegg
 quickactions-cmd-plugins = programtillegg
 # Opens the print dialog
 quickactions-print = Skriv ut
+# Opens the print dialog
+quickactions-print2 = Skriv ut sida
 quickactions-cmd-print = utskrift, skriv ut
 # Opens a new private browsing window
 quickactions-private = Opne eit vindauge for privat nettlesing
+# Opens a new private browsing window
+quickactions-private2 = Opne privat vindauge
 quickactions-cmd-private = privat nettlesing
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Tilbakestill { -brand-short-name }
@@ -311,9 +325,13 @@ quickactions-restart = Start { -brand-short-name } på nytt
 quickactions-cmd-restart = Start på nytt
 # Opens the screenshot tool
 quickactions-screenshot2 = Ta eit skjermbilde
+# Opens the screenshot tool
+quickactions-screenshot3 = Ta eit skjermbilde
 quickactions-cmd-screenshot = skjermbilete
 # Opens about:preferences
 quickactions-settings = Opne Innstillingar
+# Opens about:preferences
+quickactions-settings2 = Handsam innstillingar
 quickactions-cmd-settings = val, innstillingar, alternativ
 # Opens about:addons page in the themes section
 quickactions-themes = Handsam tema
@@ -323,6 +341,8 @@ quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Vis kjeldekode
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Vis kjeldekode
 quickactions-cmd-viewsource = vis kjelde, kjelde
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -926,6 +946,10 @@ private-browsing-indicator-label = Privat nettlesing
 unified-extensions-button =
     .label = Utvidingar
     .tooltiptext = Utvidingar
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Autorefresh blocker
 
