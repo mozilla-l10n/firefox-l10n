@@ -22,3 +22,10 @@ origin-controls-option-always-on =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-runnable-hover-open = Opne utviding
+origin-controls-state-runnable-hover-run = Køyr utviding
+
+## Extension's toolbar button.
+## Variables:
+##   $extensionTitle (String) - Extension name or title message.
+
