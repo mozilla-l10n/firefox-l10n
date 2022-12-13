@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Ykepegua tapykuehoha mo’ãha iporãvévape g̃uarã
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Eipe’a mo’ãha ko’ã ñanduti renda pegua.
+permissions-exceptions-manage-etp-desc = Ikatu ehechauka mba’ete ñanduti rendápa omboyke tapykuehoha ha’evéva ñemo’ã. Ehaiporã kundaharape pe tenda eñangarekoseha réra ha upéi eikutu Oĩ’ỹva Mbojuaju.
 
 ## Exceptions - Cookies
 
