@@ -208,6 +208,7 @@ firefoxview-cfr-secondarybutton = Ani ko’ág̃a
 firefoxview-cfr-header = Erujey tendayke embotyramóva { -firefoxview-brand-name } ndive
 firefoxview-cfr-body = Avei, ehasa apañuãi’ỹre mba’e’okágui ambuépe ha embojuaju sa’y ne kundahárape.
 firefoxview-cfr-header-v2 = Eku’ejey pya’e eheja haguetégui
+firefoxview-cfr-body-v2 = Eguerujey tendayke oñembotyramóva ha ehasa pya’e mba’e’oka pa’ũme { -firefoxview-brand-name } ndive.
 
 ## Firefox View Spotlight
 
