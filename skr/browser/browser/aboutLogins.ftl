@@ -65,7 +65,14 @@ about-logins-list-section-week = چھیکڑی ٧ ݙین٘ہ
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = اپݨے ہتھیکڑے لاگ انز تلاش کریندے پئے او؟ مطابقت پذیری کوں آن کرو یا انہیں کوں برآمد کرو۔
 about-logins-login-intro-heading-logged-in = کوئی سینکڈ لاگ ان نئیں ملیا۔
+login-intro-description = جے تساں اپݨے لاگ انز { -brand-product-name } کوں کہیں ٻئے آلے تے محفوظ کیتا ہویا ہے تاں، انہیں کوں اتھاں حاصل کرݨ دا طریقہ ایویں ہے:
+login-intro-instructions-fxa = اپݨے { -fxaccount-brand-name(capitalization: "sentence") } کوں ایں دیوائس تے بݨاؤ یا سائن ان کرو جتھاں تہاݙے کیتے لاگ ان ہتھیکڑے کیتے ڳئے ہن۔
+login-intro-instructions-fxa-settings = ترتیباں > مطابقت پذیری > مطابقت پذیری کوں آن کرو تے  ونڄو ... لاگ ان تے پاس ورڈ چیک باکس کوں منتخب کرو۔
+login-intro-instructions-fxa-passwords-help = ودھیک مدد کیتے <a data-l10n-name="passwords-help-link">پاس ورڈ سپورٹ</a> ملاحظہ کرو۔
+about-logins-intro-browser-only-import = جے تہاݙے لاگ ان کہیں ٻئے براؤزر وِچ ہتھیکڑے ہن، تاں تساں <a data-l10n-name="import-link">انہاں کوں{ -brand-product-name } وِچ درآمد کر سڳدے او۔
+about-logins-intro-import2 = جے تہاݙے لاگ ان { -brand-product-name } دے ٻاہر ہتھیکڑے کیتے ڳئے ہن، تاں تساں <a data-l10n-name="import-browser-link">  انہاں کوں ٻئے براؤزر کنوں درآمد کر سڳدے او </a> یا <a data-l10n-name="import-file-link"> کنوں ہک فائل </a>
 
 ## Login
 
@@ -160,6 +167,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
        *[other] سبھے { $count } سبھ آلات کنوں ہٹا ݙیوں؟
     }
 about-logins-confirm-export-dialog-title = لاگ ان تے پاس ورڈ برآمد کرو
+about-logins-confirm-export-dialog-message = تہاݙے پاس ورڈز کوں پڑھݨ دے قابل متن دے طور تے ہتھیکڑا کیتا ویسے ( مثلاً (e.g., BadP@ssw0rd)  تاں جو جیڑھا وی برآمد شدہ فائل کوں کھول سڳدا ہے وہ انہاں کوں ݙیکھ سڳے۔
 about-logins-confirm-export-dialog-confirm-button = برآمد کرو…
 about-logins-alert-import-title = درآمد مکمل تھئی
 about-logins-alert-import-message = درآمد دا تفصیلی خلاصہ ݙیکھو
@@ -180,6 +188,7 @@ about-logins-breach-alert-learn-more-link = ٻیا سِکھو
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = کمزور پاسورڈ
+about-logins-vulnerable-alert-text2 = ایہ پاس ورڈ کہیں ٻئے اکاؤنٹ تے استعمال کیتا ڳیا ہے جیڑھا ممکنہ طور تے ڈیٹا دی خلاف ورزی وِچ ہا۔ سنداں کوں ولا استعمال کرݨ نال تہاݙے سبھے اکاؤنٹس خطرے وِچ پئے ویسن۔ ایں پاس ورڈ کوں تبدیل کرو۔
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } تے ون٘ڄو
@@ -187,6 +196,11 @@ about-logins-vulnerable-alert-learn-more-link = ٻیا سِکھو
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = ایں صارف ناں دے نال { $loginTitle } کیتے ہک اندراج پہلے کنوں موجود ہے۔ <a data-l10n-name="duplicate-link"> موجودہ اندراج تے ونڄو؟ </a>
 # This is a generic error message.
 about-logins-error-message-default = ایں پاس ورڈ کوں سوگھا کرݨ دی کوشش کریندے ویلھے ہک نقص پیش آڳیا۔
 
@@ -245,12 +259,20 @@ about-logins-import-dialog-items-no-change =
         [one] { "" }
        *[other] <span> ڈپلیکیٹ لاگ انز لبھئین: </span><span data-l10n-name="count"><span data-l10n-name="count"></span><span data-l10n-name="meta"><span data-l10n-name="meta"> (درآمد نئیں) </span>
     }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] { "" }
+       *[other] <span>خرابیاں:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(درآمد نئیں کیتا ڳیا)</span>
+    }
 about-logins-import-dialog-done = تھی ڳیا
 about-logins-import-dialog-error-title = درآمد وِچ نقص
 about-logins-import-dialog-error-conflicting-values-title = ہک لاگ ان کیتے متعدد متضاد قدراں
+about-logins-import-dialog-error-conflicting-values-description = مثال دے طور تے: ہک لاگ ان کیتے کئی سارے صارف ناں، پاس ورڈ، URLs وغیرہ۔
 about-logins-import-dialog-error-file-format-title = فائل فارمیٹ دا مسئلہ
+about-logins-import-dialog-error-file-format-description = کالم ہیڈر غلط یا غائب ہن۔ یقینی بݨاؤ جو فائل وِچ صارف ناں، پاس ورڈ تے یو آر ایل دے کام شامل ہن۔
 about-logins-import-dialog-error-file-permission-title = فائل پڑھݨ کنوں قاصر
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } کوں فائل پڑھݨ دی موکل کائنی۔ فائل دیاں موکلاں بدالݨ دی کوشش کرو۔
+about-logins-import-dialog-error-unable-to-read-title = فائل کوں پارس کنوں قاصر
 about-logins-import-dialog-error-unable-to-read-description = تسلی کرو جو تساں ہک CSC یا TSV فائل چُݨی ہے۔
 about-logins-import-dialog-error-no-logins-imported = کوئی لاگ ان امپورٹ کائنی کیتا ڳیا
 about-logins-import-dialog-error-learn-more = ٻیا سِکھو
@@ -278,6 +300,16 @@ about-logins-import-report-row-description-error-missing-field = نقص: { $fiel
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] { "" }
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">نویں لاگ انز شامل کیتے ڳئے</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] { "" }
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">موجودہ لاگ انز کوں اپ ڈیٹ کر ݙتا ڳئے</div>
+    }
 about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ڈپلیکیٹ لاگ ان</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>

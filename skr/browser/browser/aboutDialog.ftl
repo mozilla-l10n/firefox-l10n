@@ -19,10 +19,12 @@ update-failed = اپڈیٹ نئیں تھی سڳدا۔<label data-l10n-name="fail
 update-failed-main = اپڈیٹ نئین تھی سڳدا۔<a data-l10n-name="failed-link-main">تازہ ترین ورژن ڈاؤن لوڈ کرو</a>
 update-adminDisabled = تہاݙے سسٹم ایڈمن اپڈیٹ کوں بند کیتا ہویا ہے
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
+aboutdialog-update-checking-failed = اپ ڈیٹس کوں چیک کرݨ وِچ ناکام۔
 update-otherInstanceHandlingUpdates = { -brand-short-name } ݙوجھی جاہ توں اپڈیٹ تھیندا پیا ہے
 update-manual = اپڈیٹ اتھاں دستیاب کائنی  <label data-l10n-name="manual-link"/>
 update-unsupported = تساں ایں سسٹم تے ودھیک اپڈیٹ نہیں کر سڳدے۔<label data-l10n-name="unsupported-link">ودھیک سیکھو</label>
 update-restarting = ولدا شروع تھیندا پئے۔۔۔
+update-internal-error = اندرلی خرابی دی وجہ توں اپ ڈیٹس چیک کرݨ کنوں قاصر۔ اپ ڈیٹس <label data-l10n-name="manual-link"/> تے دستیاب ہن۔
 channel-description = تساں ایں ویلھے <label data-l10n-name="current-channel"></label> دی اپڈیٹ چینل وِچ ہو۔
 warningDesc-version = { -brand-short-name } تجرباتی ہے تے ٹھیک کم کائناں کر سڳسی۔
 aboutdialog-help-user = { -brand-product-name } مدد

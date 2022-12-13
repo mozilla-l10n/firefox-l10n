@@ -17,6 +17,10 @@ cert-error-untrusted-default = اے تصدیق نان٘واں قابل اعتم�
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = ویب سائٹس تصدیق نان٘ویں دے ذریعے اپݨی سن٘ڄاݨ ثابت کرین٘دیاں ہن۔{ -brand-short-name } کوں ایں سائٹ تے اعتماد کائنی کیوں جو او این٘جھے تصدیق نان٘ویں دا استعمال کرین٘دی پئی ہے جیڑھی { $hostname } کیتے درست کائنی۔
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = ویب سائٹس اپݨے سنڄاݨ سرٹیفکیٹ دے ذریعے ثابت کریندیاں ہن، جیڑھا جو مقررہ مدت کیتے درست ہوندا ہے۔ { $hostname } دا سرٹیفکیٹ { $not-before-local-time } کنوں پہلے درست کینا ہوسے۔
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = نقص دا کوڈ:<a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = تساں ایں مسئلے دے بارے ویب سائٹ دے منتظم کوں اطلاع کر سڳدے او۔
@@ -29,6 +33,9 @@ cert-error-details-hsts-label = HTTP سخت ٹرانسپورٹ سیکورٹی { 
 cert-error-details-key-pinning-label = HTTP عوامی کنجی پننگ: { $hasHPKP }
 cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
 open-in-new-window-for-csp-or-xfo-error = سائٹ نویں ونڈو وچ کھولو
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = تہاݙی سلامتی دے تحفظ کیتے، { $hostname } دی طرفوں { -brand-short-name } کوں ورقہ ݙکھاوݨ دی اجازت کینا ملسے جے  کہیں ٻئی سائٹ ایندے وِچ سرایت کر گھدی ہووے۔ ایں ورقے کوں ݙیکھݨ کیتے تہاکوں اینکوں ہک نویں ونڈو وِچ کھولݨ دی ضرورت ہے۔
 
 ## Messages used for certificate error titles
 

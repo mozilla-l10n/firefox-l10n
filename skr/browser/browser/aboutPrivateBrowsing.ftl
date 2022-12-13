@@ -25,6 +25,8 @@ about-private-browsing-get-privacy = رازداری دا تحفظ حاصل کر�
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } نال براؤزنگ دی سرگرمی تے لوکیشن لُکاؤ۔ ہک کلک محفوظ کنکشن بݨا ݙیندے، بھانویں جو پبلک وائی فائی ہووے۔
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } نال نجی راہوو
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ کرو
+about-private-browsing-focus-promo-header = { -focus-brand-name }: چلدے پھردے نجی براؤزنگ
+about-private-browsing-focus-promo-text = اساݙی سرشار نجی براؤزنگ موبائل ایپ ہر واری تہاݙی تاریخ تے کوکیاں کوں صاف کریندیاں ہن۔
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
