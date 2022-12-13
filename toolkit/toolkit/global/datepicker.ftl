@@ -10,6 +10,10 @@
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's <input type="date">
 
+date-picker-label =
+    .aria-label = Tarih seçin
+date-spinner-label =
+    .aria-label = Ay ve yıl seçin
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
