@@ -210,7 +210,7 @@ mr2-onboarding-default-theme-label = მოსინჯეთ ნაგული
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = გმადლობთ, რომ ჩვენ აგვირჩიეთ
-mr2-onboarding-thank-you-text = { -brand-short-name } დამოუკიდებელი ბრაუზერია, არამომგებიანი დაწესებულებისგან. ერთად, ჩვენ ვქმნით მეტად უსაფრთხო, ჯანსაღ და პირადულ ვებსამყაროს.
+mr2-onboarding-thank-you-text = { -brand-short-name } დამოუკიდებელი ბრაუზერია არამომგებიანი დაწესებულებისგან. ერთად, ჩვენ ვქმნით მეტად უსაფრთხო, ჯანსაღ და პირადულ ვებსამყაროს.
 mr2-onboarding-start-browsing-button-label = გვერდების მონახულება
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
@@ -391,7 +391,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = დაწვრ�
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = თქვენ გვეხმარებით უკეთესი ვებსამყაროს შექმნაში
-mr2022-onboarding-gratitude-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name }, არამომგებიანი Mozilla-ფონდისგან. თქვენი მხარდაჭერით შევძლებთ, რომ ინტერნეტი გავხადოთ მეტად ღია, უკეთესი და საყოველთაოდ ხელმისაწვდომი.
+mr2022-onboarding-gratitude-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name } არამომგებიანი Mozilla-ფონდისგან. თქვენი მხარდაჭერით შევძლებთ, რომ ინტერნეტი გავხადოთ მეტად ღია, უკეთესი და საყოველთაოდ ხელმისაწვდომი.
 mr2022-onboarding-gratitude-primary-button-label = გაეცანით სიახლეებს
 mr2022-onboarding-gratitude-secondary-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
 
