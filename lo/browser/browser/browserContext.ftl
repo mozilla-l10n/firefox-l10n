@@ -289,12 +289,18 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = ໃຊ້ການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
     .accesskey = o
+main-context-menu-use-saved-password =
+    .label = ໃຊ້ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
+    .accesskey = o
 
 ##
 
 main-context-menu-suggest-strong-password =
     .label = ແນະນຳລະຫັດຜ່ານທີ່ເຂັ້ມແຂງ...
     .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = ການຈັດການການເຂົ້າສູ່ລະບົບ
+    .accesskey = M
 main-context-menu-keyword =
     .label = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາໃສ່...
     .accesskey = K
