@@ -80,6 +80,13 @@ set-password-repeat-backup-pw =
     .value = Password per il backup del certificato (conferma):
 set-password-reminder = Importante: se si dovesse scordare la password della copia di backup, non sarà possibile recuperarne successivamente il contenuto. Si consiglia di conservare la password in un luogo sicuro.
 
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Effettuare l’autenticazione utilizzando il token “{ $tokenName }”. La modalità precisa dipende dal token, ad esempio potrebbe essere necessario utilizzare un lettore di impronte digitali o inserire un codice con un tastierino numerico.
+
+
 ## Protected Auth dialog
 
 protected-auth-window =
