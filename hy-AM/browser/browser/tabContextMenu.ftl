@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Փակել բազմակի ներդիրները
     .accesskey = M
+tab-context-share-url =
+    .label = Համօգտագործել
+    .accesskey = h
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Տեղափոխել ներդիրները
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
