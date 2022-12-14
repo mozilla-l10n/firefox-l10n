@@ -23,8 +23,14 @@ permission-dialog-description-app =
 permission-dialog-description-host-app =
   Consentire a { $host } di aprire un link di tipo { $scheme } con { $appName }?
 
+permission-dialog-description-extension =
+  Consentire all’estensione { $extension } di aprire un link di tipo { $scheme }?
+
 permission-dialog-description-file-app =
   Consentire a questo file di aprire un link di tipo { $scheme } con { $appName }?
+
+permission-dialog-description-extension-app =
+  Consentire all’estensione { $extension } di aprire un link di tipo { $scheme } con { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -35,6 +41,9 @@ permission-dialog-remember =
 
 permission-dialog-remember-file =
   Consenti sempre a questo file di aprire link di tipo <strong>{ $scheme }</strong>
+
+permission-dialog-remember-extension =
+  Consenti sempre a questa estensione di aprire link di tipo <strong>{ $scheme }</strong>
 
 ##
 
