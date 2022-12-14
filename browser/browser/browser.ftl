@@ -166,29 +166,29 @@ urlbar-search-mode-actions = Dejanja
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Za to stran ste zavrnili uporabo podatkov o lokaciji.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali uporabo podatkov o lokaciji.
 urlbar-xr-blocked =
-    .tooltiptext = Za to stran ste zavrnili dostop do naprav navidezne resničnosti.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali dostop do naprav navidezne resničnosti.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Za to stran ste zavrnili prikaz obvestil.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali prikazovanje obvestil.
 urlbar-camera-blocked =
-    .tooltiptext = Za to stran ste zavrnili uporabo kamere.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali uporabo kamere.
 urlbar-microphone-blocked =
-    .tooltiptext = Za to stran ste zavrnili uporabo mikrofona.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali uporabo mikrofona.
 urlbar-screen-blocked =
-    .tooltiptext = Za to stran ste zavrnili deljenje zaslona.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali deljenje zaslona.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Za to spletno stran ste zavrnili trajno shrambo.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali uporabo trajne shrambe.
 urlbar-popup-blocked =
-    .tooltiptext = Za to stran ste zavrnili pojavna okna.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali odpiranje pojavnih oken.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = Za to stran ste zavrnili samodejno predvajanje večpredstavnosti z zvokom.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali samodejno predvajanje večpredstavnosti z zvokom.
 urlbar-canvas-blocked =
-    .tooltiptext = Za to stran ste zavrnili izločanje podatkov platna.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali izločanje podatkov platna.
 urlbar-midi-blocked =
-    .tooltiptext = Za to stran ste zavrnili uporabo MIDI.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali dostop do MIDI.
 urlbar-install-blocked =
-    .tooltiptext = Za to stran ste zavrnili namestitev dodatkov.
+    .tooltiptext = Temu spletnemu mestu ste prepovedali nameščanje dodatkov.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -280,30 +280,42 @@ quickactions-addons = Prikaži dodatke
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks = Prikaži zaznamke
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Upravljanje zaznamkov
 quickactions-cmd-bookmarks = zaznamki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Počisti zgodovino
 quickactions-cmd-clearhistory = počisti zgodovino
 # Opens about:downloads page
 quickactions-downloads = Odpri prenose
+# Opens about:downloads page
+quickactions-downloads2 = Prikaži prenose
 quickactions-cmd-downloads = prenosi
 # Opens about:addons page in the extensions section
 quickactions-extensions = Upravljanje razširitev
 quickactions-cmd-extensions = razširitve
 # Opens the devtools web inspector
 quickactions-inspector = Odpri pregledovalnik
+# Opens the devtools web inspector
+quickactions-inspector2 = Odpri razvojna orodja
 quickactions-cmd-inspector = pregledovalnik, razvojna orodja
 # Opens about:logins
 quickactions-logins = Ogled prijav
+# Opens about:logins
+quickactions-logins2 = Upravljaj gesla
 quickactions-cmd-logins = prijave, gesla
 # Opens about:addons page in the plugins section
 quickactions-plugins = Upravljanje vtičnikov
 quickactions-cmd-plugins = vtičniki
 # Opens the print dialog
 quickactions-print = Natisni
+# Opens the print dialog
+quickactions-print2 = Natisni stran
 quickactions-cmd-print = natisni, tiskanje, print
 # Opens a new private browsing window
 quickactions-private = Odpri okno zasebnega brskanja
+# Opens a new private browsing window
+quickactions-private2 = Odpri zasebno okno
 quickactions-cmd-private = zasebno brskanje
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Osveži { -brand-short-name }
@@ -313,9 +325,13 @@ quickactions-restart = Ponovno zaženi { -brand-short-name }
 quickactions-cmd-restart = ponovno zaženi, znova zaženi, zaženi znova
 # Opens the screenshot tool
 quickactions-screenshot2 = Zajemi posnetek zaslona
+# Opens the screenshot tool
+quickactions-screenshot3 = Zajemi posnetek zaslona
 quickactions-cmd-screenshot = posnetek zaslona
 # Opens about:preferences
 quickactions-settings = Odpri nastavitve
+# Opens about:preferences
+quickactions-settings2 = Upravljaj nastavitve
 quickactions-cmd-settings = nastavitve, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljanje tem
@@ -325,6 +341,8 @@ quickactions-update = Posodobi { -brand-short-name }
 quickactions-cmd-update = posodobi
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Pokaži vir
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Pokaži izvorno kodo strani
 quickactions-cmd-viewsource = pokaži vir, vir
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -406,8 +424,8 @@ identity-remove-cert-exception =
     .accesskey = d
 identity-description-insecure = Vaša povezava na to stran ni zasebna. Podatke, ki jih pošiljate (npr. gesla, sporočila in kreditne kartice), si lahko ogledajo tudi druge osebe.
 identity-description-insecure-login-forms = Podatki, ki jih vnesete ob prijavi na to stran, niso varni in so lahko ogroženi.
-identity-description-weak-cipher-intro = Vaša povezava na to stran uporablja šibko šifriranje in ni zasebna.
-identity-description-weak-cipher-risk = Druge osebe lahko vidijo vaše podatke ali spreminjajo obnašanje spletne strani.
+identity-description-weak-cipher-intro = Vaša povezava s tem spletnim mestom uporablja šibko šifriranje in ni zasebna.
+identity-description-weak-cipher-risk = Druge osebe lahko vidijo vaše podatke ali spreminjajo obnašanje spletnega mesta.
 identity-description-active-blocked = { -brand-short-name } je zavrnil dele strani, ki niso varni. <label data-l10n-name="link">Več o tem</label>
 identity-description-passive-loaded = Vaša povezava ni zasebna, zato lahko podatke, ki jih delite s stranjo, vidijo tudi druge osebe.
 identity-description-passive-loaded-insecure = Spletna stran vsebuje elemente, ki niso varni (npr. slike). <label data-l10n-name="link">Več o tem</label>
@@ -571,7 +589,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = Brskalnik je pod oddaljenim upravljanjem (razlog: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Tej strani ste dodelili dodatna dovoljenja.
+    .tooltiptext = Temu spletnemu mestu ste dodelili dodatna dovoljenja.
 urlbar-switch-to-tab =
     .value = Preklopi na zavihek:
 # Used to indicate that a selected autocomplete entry is provided by an extension.

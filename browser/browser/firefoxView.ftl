@@ -46,6 +46,7 @@ firefoxview-tabpickup-password-locked-header = Za ogled zavihkov vnesite glavno 
 firefoxview-tabpickup-password-locked-description = Za zajem zavihkov morate vnesti glavno geslo { -brand-short-name(sklon: "rodilnik") }.
 firefoxview-tabpickup-password-locked-link = Več o tem
 firefoxview-tabpickup-password-locked-primarybutton = Vnesite glavno geslo
+firefoxview-tabpickup-signed-out-header = Prijavite se, da se ponovno povežete
 firefoxview-tabpickup-syncing = Počakajte, da se zavihki sinhronizirajo. Trajalo bo samo trenutek.
 firefoxview-mobile-promo-header = Zajemite zavihke s telefona ali tablice
 firefoxview-mobile-promo-description = Za ogled najnovejših mobilnih zavihkov se prijavite v { -brand-product-name(sklon: "tozilnik") } v sistemu iOS ali Android.
