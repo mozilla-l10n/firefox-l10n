@@ -282,30 +282,42 @@ quickactions-addons = დამატებების ნახვა
 quickactions-cmd-addons2 = დამატებები
 # Opens the bookmarks library window
 quickactions-bookmarks = სანიშნების ნახვა
+# Opens the bookmarks library window
+quickactions-bookmarks2 = სანიშნების მართვა
 quickactions-cmd-bookmarks = სანიშნები
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ისტორიის გასუფთავება
 quickactions-cmd-clearhistory = ისტორიის გასუფთავება
 # Opens about:downloads page
 quickactions-downloads = ჩამოტვირთვების გახსნა
+# Opens about:downloads page
+quickactions-downloads2 = ჩამოტვირთვების ჩვენება
 quickactions-cmd-downloads = ჩამოტვირთვები
 # Opens about:addons page in the extensions section
 quickactions-extensions = გაფართოებების მართვა
 quickactions-cmd-extensions = გაფართოებები
 # Opens the devtools web inspector
 quickactions-inspector = გვერდის გამოკვლევა
+# Opens the devtools web inspector
+quickactions-inspector2 = შემმუშავებლის ხელსაწყოების გახსნა
 quickactions-cmd-inspector = გამოკვლევა, შემუშავება
 # Opens about:logins
 quickactions-logins = ანგარიშების ნახვა
+# Opens about:logins
+quickactions-logins2 = პაროლების მართვა
 quickactions-cmd-logins = ანგარიშები და პაროლები
 # Opens about:addons page in the plugins section
 quickactions-plugins = მოდულების მართვა
 quickactions-cmd-plugins = მოდულები
 # Opens the print dialog
 quickactions-print = ამობეჭდვა
+# Opens the print dialog
+quickactions-print2 = გვერდის ამობეჭდვა
 quickactions-cmd-print = ამობეჭდვა
 # Opens a new private browsing window
 quickactions-private = პირადი ფანჯრის გახსნა
+# Opens a new private browsing window
+quickactions-private2 = პირადი ფანჯრის გახსნა
 quickactions-cmd-private = პირადი თვალიერება
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = შეკეთდეს { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = ხელახლა გაეშვას { -brand-shor
 quickactions-cmd-restart = ხელახლა გაშვება
 # Opens the screenshot tool
 quickactions-screenshot2 = ეკრანის სურათის გადაღება
+# Opens the screenshot tool
+quickactions-screenshot3 = ეკრანის სურათის გადაღება
 quickactions-cmd-screenshot = ეკრანის ანაბეჭდი
 # Opens about:preferences
 quickactions-settings = პარამეტრების გახსნა
+# Opens about:preferences
+quickactions-settings2 = პარამეტრების მართვა
 quickactions-cmd-settings = პარამეტრები, მახასიათებლები, გამართვა
 # Opens about:addons page in the themes section
 quickactions-themes = თემების მართვა
@@ -327,6 +343,8 @@ quickactions-update = განახლდეს { -brand-short-name }
 quickactions-cmd-update = განახლება
 # Opens the view-source UI with current pages source
 quickactions-viewsource = წყაროს ჩვენება
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = გვერდის წყაროს ჩვენება
 quickactions-cmd-viewsource = წყაროს ნახვა, პირველწყარო
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

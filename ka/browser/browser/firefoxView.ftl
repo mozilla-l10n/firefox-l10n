@@ -46,6 +46,9 @@ firefoxview-tabpickup-password-locked-header = შეიყვანეთ მ�
 firefoxview-tabpickup-password-locked-description = ჩანართების წამოსაღებად { -brand-short-name } ითხოვს მთავარ პაროლს.
 firefoxview-tabpickup-password-locked-link = ვრცლად
 firefoxview-tabpickup-password-locked-primarybutton = შეიყვანეთ მთავარი პაროლი
+firefoxview-tabpickup-signed-out-header = შესვლა ხელახლა დასაკავშირებლად
+firefoxview-tabpickup-signed-out-description = დააკავშირეთ ხელახლა და წამოიღეთ თქვენი ჩანართები ანგარიშიდან { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-primarybutton = შესვლა
 firefoxview-tabpickup-syncing = მოკალათდით სინქრონიზაციის დასრულებამდე. ცოტა ხანს გასტანს.
 firefoxview-mobile-promo-header = წამოიღეთ ჩანართები ტელეფონიდან ან პლანშეტიდან
 firefoxview-mobile-promo-description = ტელეფონში ბოლოს გახსნილი ჩანართების სანახავად, გამოიყენეთ { -brand-product-name } iOS-ზე ან Android-ზე და შედით ანგარიშზე.
@@ -54,9 +57,12 @@ firefoxview-mobile-confirmation-header = 🎉 ყველაფერი მზ
 firefoxview-mobile-confirmation-description = ახლა კი შეგიძლიათ გადმოიტანოთ ის გვერდები, რომელთა გასახსნელადაც { -brand-product-name } გაქვთ გამოყენებული პლანშეტსა თუ ტელეფონზე.
 firefoxview-closed-tabs-title = ბოლოს დახურული
 firefoxview-closed-tabs-description2 = კვლავ გახსენით დახურული გვერდები ამ ფანჯრიდანვე.
-firefoxview-closed-tabs-placeholder = <strong>ბოლოს დახურული ჩანართები არაა</strong><br/>ნუ შეგეშინდებათ დახურული ჩანართების დაკარგვის. ყოველთვის შეძლებთ აღადგინოთ აქედან.
 firefoxview-closed-tabs-placeholder-header = ბოლოს დახურული ჩანართები არაა
 firefoxview-closed-tabs-placeholder-body = როდესაც დახურავთ ჩანართს ამ ფანჯარაში, შეგიძლიათ დააბრუნოთ აქედან.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = მოცილდეს { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ბოლოს მოქმედი
 # Variables:
@@ -70,7 +76,6 @@ firefoxview-change-colorway-button = შეფერილობის შეც
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>ჯერ არაფერია სანახავი</strong><br/>შემდეგ ჯერზე გამოიყენეთ { -brand-product-name } სხვა მოწყობილობაზე გვერდის მონასახულებლად და ჯადოსნურად გადმოვა აქაც.
 firefoxview-synced-tabs-placeholder-header = ჯერ არაფერია სანახავი
 firefoxview-synced-tabs-placeholder-body = შემდეგ ჯერზე, როცა { -brand-product-name } გახსნის რამე გვერდს სხვა მოწყობილობაზე, ჯადოსნურად გაჩნდება აქ.
 firefoxview-collapse-button-show =
