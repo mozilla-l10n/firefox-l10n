@@ -318,7 +318,7 @@ quickactions-screenshot2 = จับภาพหน้าจอ
 quickactions-cmd-screenshot = ภาพหน้าจอ
 # Opens about:preferences
 quickactions-settings = เปิดการตั้งค่า
-quickactions-cmd-settings = การตั้งค่า, ค่ากำหนด, ตัวเลือก
+quickactions-cmd-settings = การตั้งค่า, การกำหนดลักษณะ, ตัวเลือก
 # Opens about:addons page in the themes section
 quickactions-themes = จัดการธีม
 quickactions-cmd-themes = ธีม
