@@ -21,6 +21,7 @@ styleeditor-save-button = Sekles
 styleeditor-options-button =
     .tooltiptext = Iɣewwaṛen n umaẓrag n uɣanib
 styleeditor-media-rules = Ilugan @media
+styleeditor-at-rules = Ilugan @
 styleeditor-editor-textbox =
     .data-placeholder = Sekcem tawsit CSS da.
 styleeditor-no-stylesheet = Asebter-agi ur ɣuṛ-s ara tiferkit n uɣanib.
