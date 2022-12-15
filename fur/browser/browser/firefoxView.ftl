@@ -49,3 +49,31 @@ firefoxview-tabpickup-password-locked-primarybutton = Inserìs la password prima
 firefoxview-tabpickup-signed-out-header = Jentre par tornâ a conetiti
 firefoxview-tabpickup-signed-out-description = Par tornâ a conetiti e recuperâ lis tôs schedis, jentre tal to { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Jentre
+firefoxview-tabpickup-syncing = Sentiti cuiet intant che a vegnin sincronizadis lis tôs schedis. Al bastarà un moment.
+firefoxview-mobile-promo-header = Recupere lis schedis viertis sul to telefon o taulete
+firefoxview-mobile-promo-description = Par visualizâ lis ultimis schedis viertis sul dispositîf mobil, jentre in { -brand-product-name } su iOS o Android.
+firefoxview-mobile-promo-primarybutton = Oten { -brand-product-name } par dispositîfs mobii
+firefoxview-mobile-confirmation-header = 🎉 Pront par partî!
+firefoxview-mobile-confirmation-description = Cumò tu puedis recuperâ lis tôs schedis di { -brand-product-name } viertis sul to telefon o taulete.
+firefoxview-closed-tabs-title = Sieradis di resint
+firefoxview-closed-tabs-description2 = Torne vierç lis pagjinis che tu âs sierât in chest barcon.
+firefoxview-closed-tabs-placeholder-header = Nissune schede sierade di resint
+firefoxview-closed-tabs-placeholder-body = Cuant che tu sieris une schede in chest barcon, tu puedis recuperâle di chi.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Scarte { $tabTitle }
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Ultime ative
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Vierç { $targetURI } intune gnove schede
+firefoxview-try-colorways-button = Prove gnovis tonalitâts
+firefoxview-no-current-colorway-collection = A stan par rivâ gnovis tonalitâts
+firefoxview-change-colorway-button = Cambie tonalitât
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Ancjemò nuie ce mostrâ
