@@ -79,3 +79,9 @@ protected-auth-window =
     .title = 잠금 방식 토큰 인증
 protected-auth-msg = 토큰을 인증하세요. 인증 방식은 토큰의 유형에 따라 다릅니다.
 protected-auth-token = 토큰:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = “{ $tokenName }” 토큰으로 인증하세요. 이를 수행하는 방법은 토큰에 따라 다릅니다 (예: 지문 판독기 사용 또는 키패드로 코드 입력).
