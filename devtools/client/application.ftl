@@ -88,7 +88,7 @@ manifest-icon-img =
 manifest-icon-img-title = ਆਈਕਨ ਦੇ ਅਕਾਰ: { $sizes }
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
-manifest-icon-img-title-no-sizes = ਨਾ-ਦਿੱਤਾ ਆਈਕਾਨ ਅਕਾਰ
+manifest-icon-img-title-no-sizes = ਅਣਦਰਸਾਏ ਅਕਾਰ ਦਾ ਆਈਕਨ
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = ਮੈਨੀਫੈਸਟ
     .alt = ਮੈਨੀਫੈਸਟ ਆਈਕਨ
