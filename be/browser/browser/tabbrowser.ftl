@@ -146,12 +146,12 @@ tabbrowser-context-mute-tab =
     .accesskey = В
 tabbrowser-context-unmute-tab =
     .label = Уключыць гук на картцы
-    .accesskey = Р
+    .accesskey = ь
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
-    .label = Выключыць гук картак
+    .label = Выключыць гук на картках
     .accesskey = ь
 # The accesskey should match the accesskey for tabbrowser-context-unmute-tab
 tabbrowser-context-unmute-selected-tabs =
-    .label = Уключыць гук картак
+    .label = Уключыць гук на картках
     .accesskey = ь
