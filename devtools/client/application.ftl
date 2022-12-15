@@ -26,7 +26,7 @@ serviceworker-worker-debug = Адладка
     .title = Можна адладжваць толькі запушчаныя service workers
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
-    .alt = Даследаваць
+    .alt = Праверыць
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Запусціць

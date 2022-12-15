@@ -342,7 +342,7 @@ quickactions-cmd-themes = тэмы
 quickactions-update = Абнавіць { -brand-short-name }
 quickactions-cmd-update = абнавіць
 # Opens the view-source UI with current pages source
-quickactions-viewsource = Праглядзець зыходнік
+quickactions-viewsource = Праглядзець зыходны код
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Паглядзець зыходнік старонкі
 quickactions-cmd-viewsource = прагляд зыходнага тэксту, код

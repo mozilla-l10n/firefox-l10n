@@ -49,10 +49,10 @@ download-cert-trust-ssl =
     .label = Давяраць гэтаму ЦС ідэнтыфікаваць вэб-сайты.
 download-cert-trust-email =
     .label = Давяраць гэтаму ЦС апазнаваць э-паштовых карыстальнікаў.
-download-cert-message-desc = Перад тым, як даверыцца гэтаму ЦС з нейкай мэтай, вы мусіце даследаваць яго сертыфікат, яго палітыку і працэдуры (калі даступны).
+download-cert-message-desc = Перад тым, як даверыцца гэтаму ЦС з нейкай мэтай, вы мусіце праверыць яго сертыфікат, яго палітыку і працэдуры (калі даступны).
 download-cert-view-cert =
     .label = Прагляд
-download-cert-view-text = Даследаваць сертыфікат ЦС
+download-cert-view-text = Праверыць сертыфікат ЦС
 
 ## Client Authorization Ask dialog
 
