@@ -44,3 +44,5 @@ toolbox-mode-parent-process-container =
     .title = Concéntrate únicamente en los recursos del proceso principal.
 toolbox-always-on-top-enabled2 = Desactivar siempre visible
     .title = Esto reiniciará las herramientas de desarrollo
+toolbox-always-on-top-disabled2 = Habilitar siempre visible
+    .title = Esto reiniciará las herramientas de desarrollo
