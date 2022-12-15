@@ -11,15 +11,16 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = { -brand-shorter-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੁੜ ਚਾਲੂ ਕਰੋ
     .accesskey = R
-update-checkingForUpdates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
-update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
-update-downloading-message = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
-update-applying = …ਅੱਪਡੇਟ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
-update-failed = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ। <label data-l10n-name="failed-link">ਨਵਾਂ ਵਰਜ਼ਨ ਡਾਊਨਲੋਡ ਕਰੋ</label>
-update-failed-main = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੈ। <a data-l10n-name="failed-link-main">ਤਾਜ਼ਾ ਵਰਜ਼ਨ ਡਾਊਨਲੋਡ ਕਰੋ</a>
-update-adminDisabled = ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਅੱਪਡੇਟ ਅਸਮਰੱਥ ਕੀਤੇ ਹਨ।
-update-noUpdatesFound = { -brand-short-name } ਅੱਪ-ਟੂ-ਡੇਟ ਹੈ
-update-otherInstanceHandlingUpdates = { -brand-short-name } ਨੂੰ ਕਿਸੇ ਹੋਰ ਮੌਕੇ ਰਾਹੀਂ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+update-checkingForUpdates = ਅੱਪਡੇਟ ਲਈ ਜਾਂਚਿਆ ਜਾ ਰਿਹਾ ਹੈ…
+update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ — <label data-l10n-name="download-status"/>
+update-downloading-message = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ — <label data-l10n-name="download-status"/>
+update-applying = …ਅੱਪਡੇਟ ਲਾਗੂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+update-failed = ਅੱਪਡੇਟ ਅਸਫਲ ਹੋਈ। <label data-l10n-name="failed-link">ਨਵੀਂ ਵੰਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</label>
+update-failed-main = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੈ। <a data-l10n-name="failed-link-main">ਸੱਜਰੀ ਵਂਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</a>
+update-adminDisabled = ਤੁਹਾਡੇ ਢਾਂਚਾ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਅੱਪਡੇਟਾਂ ਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੋਈ ਹੈ।
+update-noUpdatesFound = { -brand-short-name } ਸੱਜਰਾ ਹੈ
+aboutdialog-update-checking-failed = ਅੱਪਡੇਟਾਂ ਭਾਲਣ ਵਿੱਚ ਨਾਕਾਮਯਾਬੀ ਮਿਲੀ।
+update-otherInstanceHandlingUpdates = { -brand-short-name } ਨੂੰ ਕਿਸੇ ਹੋਰ ਜੁਗਤ ਰਾਹੀਂ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 update-manual = <label data-l10n-name="manual-link"/> ‘ਤੇ ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ
 update-unsupported = ਤੁਸੀਂ ਇਸ ਸਿਸਟਮ ਲਈ ਹੋਰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ। <label data-l10n-name="unsupported-link">ਹੋਰ ਜਾਣੋ</label>
 update-restarting = …ਮੁੜ-ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ
