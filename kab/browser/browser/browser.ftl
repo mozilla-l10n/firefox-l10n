@@ -330,6 +330,8 @@ quickactions-screenshot3 = Eg tuṭṭfa n ugdil
 quickactions-cmd-screenshot = tuṭṭfa n ugdil
 # Opens about:preferences
 quickactions-settings = Ldi iɣewwaren
+# Opens about:preferences
+quickactions-settings2 = Sefrek iɣewwaren
 quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
 # Opens about:addons page in the themes section
 quickactions-themes = Sefrek isental
@@ -339,6 +341,8 @@ quickactions-update = Leqqem { -brand-short-name }
 quickactions-cmd-update = Leqqem
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Sken aɣbalu
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Tangalt taɣbalut n usebter
 quickactions-cmd-viewsource = sken aɣbalu, aɣbalu
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

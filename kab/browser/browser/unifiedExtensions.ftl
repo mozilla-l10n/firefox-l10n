@@ -24,6 +24,8 @@ unified-extensions-item-message-manage = Sefrek asiɣzef
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Senteḍ ɣer ufeggag n yifecka
 unified-extensions-context-menu-manage-extension =
     .label = Sefrek asiɣzef
 unified-extensions-context-menu-remove-extension =
