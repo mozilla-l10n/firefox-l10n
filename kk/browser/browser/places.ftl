@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = Бұл сайтты ұмыт�
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Бұл әрекет { $hostOrBaseDomain } үшін қатысты барлық деректерді, соның ішінде тарих, парольдер, cookie файлдары, кэш және мазмұн баптауларын өшіреді. Жалғастырғыңыз келетініне сенімдісіз бе?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Бұл әрекет { $hostOrBaseDomain } үшін қатысты барлық деректерді, соның ішінде тарих, cookie файлдары, кэш және мазмұн баптауларын өшіреді. Жалғастырғыңыз келетініне сенімдісіз бе?
 places-forget-about-this-site-forget = Ұмыту
 places-library =
     .title = Жинақталған
