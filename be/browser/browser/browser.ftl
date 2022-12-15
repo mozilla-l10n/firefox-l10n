@@ -770,10 +770,10 @@ bookmarks-toolbar-placeholder-button =
     .label = Элементы паліцы закладак
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-    .label = Зрабіць закладку на гэту картку
+    .label = Дадаць бягучую картку ў закладкі
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
-    .label = Зрабіць закладку на гэту картку…
+    .label = Дадаць бягучую картку ў закладкі…
 
 ## Library Panel items
 
