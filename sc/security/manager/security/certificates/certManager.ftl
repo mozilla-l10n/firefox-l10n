@@ -6,12 +6,21 @@ certmgr-title =
     .title = Gestore de tzertificados
 certmgr-tab-mine =
     .label = Is tzertificados tuos
+certmgr-tab-remembered =
+    .label = Detzisiones de autenticatzione
 certmgr-tab-people =
     .label = Pessones
 certmgr-tab-servers =
     .label = Serbidores
 certmgr-tab-ca =
     .label = Autoridades
+certmgr-mine = Tenes tzertificados de custas organizatziones chi t’identìficant
+certmgr-remembered = Custos tzertificados s’impreant pro ti identificare in is sitos web.
+certmgr-edit-cert-edit-trust = Modìfica is cunfiguratziones de cunfiantza:
+certmgr-edit-cert-trust-ssl =
+    .label = Custu tzertificadu podet identificare is sitos web.
+certmgr-edit-cert-trust-email =
+    .label = Custu tzertificadu podet identificare utentes de posta.
 certmgr-delete-cert =
     .title = Cantzella su tzertificadu
     .style = width: 48em; height: 24em;
@@ -46,6 +55,9 @@ certmgr-export =
 certmgr-delete =
     .label = Cantzella...
     .accesskey = C
+certmgr-delete-builtin =
+    .label = Cantzella o resela…
+    .accesskey = C
 certmgr-backup =
     .label = Faghe·nde una còpia de seguresa...
     .accesskey = F
@@ -71,6 +83,7 @@ exception-mgr-cert-location-download =
 exception-mgr-cert-status-view-cert =
     .label = Visualiza...
     .accesskey = V
+pk11-bad-password = Sa crae insertada no est curreta.
 
 ## PKCS#12 file dialogs
 
@@ -83,12 +96,25 @@ exception-mgr-cert-status-view-cert =
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = Cantzella is tzertificados tuos
+delete-user-cert-confirm = Seguru chi boles cantzellare custos tzertificados?
+delete-ca-cert-title =
+    .title = Cantzella o resela is tzertificados CA
+delete-email-cert-title =
+    .title = Cantzella is tzertificados de posta eletrònica
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (no a disponimentu)
 
 ## Used to show whether an override is temporary or permanent
 
 
 ## Add Security Exception dialog
 
+add-exception-domain-mismatch-short = Situ isballiadu
+add-exception-unverified-or-bad-signature-short = Identidade disconnota
+add-exception-checking-long = Chirchende de identificare custu situ…
+add-exception-no-cert-short = Nissuna informatzione a disponimentu
 
 ## Certificate export "Save as" and error dialogs
 
