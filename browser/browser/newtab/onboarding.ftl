@@ -23,7 +23,7 @@ return-to-amo-subtitle = เยี่ยม คุณได้ติดตั้
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = ตอนนี้มาติดตั้ง <img data-l10n-name="icon"/> <b>{ $addon-name }</b> กันเลย
 return-to-amo-add-extension-label = เพิ่มส่วนขยาย
-return-to-amo-add-theme-label = เพิ่มธีม
+return-to-amo-add-theme-label = เพิ่มชุดรูปแบบ
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -128,11 +128,11 @@ mr2-onboarding-theme-label-auto = อัตโนมัติ
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ค่าเริ่มต้น
 mr1-onboarding-theme-header = ทำให้เป็นของคุณเอง
-mr1-onboarding-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยธีม
-mr1-onboarding-theme-primary-button-label = บันทึกธีม
+mr1-onboarding-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยชุดรูปแบบ
+mr1-onboarding-theme-primary-button-label = บันทึกชุดรูปแบบ
 mr1-onboarding-theme-secondary-button-label = ไม่ใช่ตอนนี้
 # System theme uses operating system color settings
-mr1-onboarding-theme-label-system = ธีมของระบบ
+mr1-onboarding-theme-label-system = ชุดรูปแบบของระบบ
 mr1-onboarding-theme-label-light = สว่าง
 mr1-onboarding-theme-label-dark = มืด
 # "Alpenglow" here is the name of the theme, and should be kept in English.
