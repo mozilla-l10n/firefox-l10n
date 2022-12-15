@@ -170,14 +170,19 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = گھٹ اوور ہیڈ دے نال، زیادہ تر ویب ایپ ڈیبگنگ کیتے تجویز کردہ اوور ہیڈ۔
 profiler-popup-presets-web-developer-label =
     .label = ویب تکمیل کار
+profiler-popup-presets-firefox-description = پروفائلنگ کیتے تجویز کردہ پری سیٹ { -brand-shorter-name }۔
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = { -brand-shorter-name } وِچ گرافکس دیاں خرابیاں دی چھان بین کیتے پری سیٹ۔
 profiler-popup-presets-graphics-label =
     .label = گرافکس
+profiler-popup-presets-media-description2 = { -brand-shorter-name } وِچ آڈیو تے ویڈیو بگز دی چھان بین کیتے پری سیٹ۔
 profiler-popup-presets-media-label =
     .label = میڈیا
+profiler-popup-presets-networking-description = { -brand-shorter-name } وِچ نیٹ ورکنگ بگز دی چھان بین کیتے پری سیٹ۔
 profiler-popup-presets-networking-label =
     .label = نیٹ ورکنگ
+profiler-popup-presets-power-description = گھٹ اوور ہیڈ دے نال { -brand-shorter-name } وِچ پاور استعمال بگز دی چھان بین کیتے پری سیٹ۔
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = بجلی
@@ -215,6 +220,9 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = t
 appmenu-help-report-site-issue =
     .label = سائٹ مسئلہ… رپورٹ کرو
+appmenu-help-share-ideas =
+    .label = خیالات تے صلاحیں دی سانجھ کرو …
+    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
