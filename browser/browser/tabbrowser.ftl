@@ -45,9 +45,9 @@ tabbrowser-mute-tab-audio-tooltip =
 tabbrowser-unmute-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Раз-цішыць картку ({ $shortcut })
-            [few] Раз-цішыць { $tabCount } карткі ({ $shortcut })
-           *[many] Раз-цішыць { $tabCount } картак ({ $shortcut })
+            [one] Уключыць гук на картцы ({ $shortcut })
+            [few] Уключыць гук на { $tabCount } картках ({ $shortcut })
+           *[many] Уключыць гук на { $tabCount } картках ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
@@ -59,9 +59,9 @@ tabbrowser-mute-tab-audio-background-tooltip =
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
-            [one] Раз-цішыць картку
-            [few] Раз-цішыць { $tabCount } карткі
-           *[many] Раз-цішыць { $tabCount } картак
+            [one] Уключыць гук на картцы
+            [few] Уключыць гук на { $tabCount } картках
+           *[many] Уключыць гук на { $tabCount } картках
         }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
@@ -145,7 +145,7 @@ tabbrowser-context-mute-tab =
     .label = Выключыць гук на картцы
     .accesskey = В
 tabbrowser-context-unmute-tab =
-    .label = Раз-цішыць картку
+    .label = Уключыць гук на картцы
     .accesskey = Р
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
