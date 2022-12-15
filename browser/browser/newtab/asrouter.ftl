@@ -223,3 +223,9 @@ firefoxview-spotlight-promo-secondarybutton = Saltar
 
 colorways-cfr-primarybutton = Elegir combinación de colores
     .accesskey = E
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Colorea tu navegador con { -brand-short-name } tonos exclusivos inspirados en voces que cambiaron la cultura.
+colorways-cfr-header-28days = Las combinaciones de colores de Voces Independientes vencen el 16 de enero
+colorways-cfr-header-14days = Las combinaciones de colores de Voces Independientes caducan en dos semanas
+colorways-cfr-header-7days = Las combinaciones de colores de Voces Independientes expiran esta semana
+colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente expiran hoy
