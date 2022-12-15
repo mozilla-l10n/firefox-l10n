@@ -8,22 +8,18 @@ password-quality-meter = Mensurator de qualitate del contrasigno
 
 change-device-password-window =
     .title = Cambiar contrasigno
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de securitate: { $tokenName }
 change-password-old = Contrasigno actual:
 change-password-new = Nove contrasigno:
 change-password-reenter = Nove contrasigno (novemente):
-
 pippki-failed-pw-change = Impossibile cambiar contrasigno.
 pippki-incorrect-pw = Tu non insereva le actual contrasigno correcte. Prova ancora.
 pippki-pw-change-ok = Contrasigno cambiate con successo.
-
 pippki-pw-empty-warning = Tu contrasignos e claves private reservate non essera plus protegite.
 pippki-pw-erased-ok = Tu ha delite tu contrasigno. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Attention! Tu ha decidite non usar un contrasigno. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Tu es actualmente in modo FIPS. FIPS require un contrasigno non vacue.
 
 ## Reset Primary Password dialog
@@ -31,14 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Tu es actualmente in modo FIPS. FIPS requi
 reset-primary-password-window =
     .title = Reinitialisar contrasigno primari
     .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Reinitialisar contrasigno primari
     .style = min-width: 40em
 reset-password-button-label =
     .label = Reinitialisar
 reset-primary-password-text = Si tu reinitialisa tu contrasigno primari, tote tu contrasignos web e email, tu certificatos personal e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno primari?
-
 pippki-reset-password-confirmation-title = Reinitialisar contrasigno primari
 pippki-reset-password-confirmation-message = Tu contrasigno primari ha essite reinitialisate.
 
@@ -47,7 +41,6 @@ pippki-reset-password-confirmation-message = Tu contrasigno primari ha essite re
 download-cert-window =
     .title = Discargante certificato
     .style = width: 46em
-
 download-cert-window2 =
     .title = Discargante certificato
     .style = min-width: 46em
@@ -86,3 +79,9 @@ protected-auth-window =
     .title = Authentication protegite per token
 protected-auth-msg = Per favor authentica te al token. Le methodo de authentication depende del typo de tu token.
 protected-auth-token = Token:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Per favor authenticar al jeton “{ $tokenName }”. Como facer assi depende del jeton (per exemplo, usante un lector de dactylogramma o inserente un codice con un claviero numeric).
