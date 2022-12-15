@@ -94,7 +94,7 @@ main-context-menu-bookmark-add =
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
-    .label = Зрабіць закладку
+    .label = Дадаць старонку ў закладкі
     .accesskey = ь
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
@@ -119,14 +119,14 @@ main-context-menu-bookmark-change-with-shortcut =
     .accesskey = а
     .tooltiptext = Правіць гэту закладку ({ $shortcut })
 main-context-menu-bookmark-page =
-    .aria-label = Зрабіць закладку…
+    .aria-label = Дадаць старонку ў закладкі…
     .accesskey = і
     .tooltiptext = Дадаць старонку ў закладкі
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-page-mac =
-    .label = Зрабіць закладку…
+    .label = Дадаць старонку ў закладкі…
     .accesskey = і
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
@@ -137,7 +137,7 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
-    .aria-label = Зрабіць закладку…
+    .aria-label = Дадаць старонку ў закладкі…
     .accesskey = ь
     .tooltiptext = Дадаць старонку ў закладкі ({ $shortcut })
 main-context-menu-edit-bookmark =
@@ -169,7 +169,7 @@ main-context-menu-bookmark-link =
     .label = Дадаць закладку на спасылку
     .accesskey = з
 main-context-menu-bookmark-link-2 =
-    .label = Зрабіць закладку на спасылку…
+    .label = Дадаць спасылку ў закладкі…
     .accesskey = і
 main-context-menu-save-link =
     .label = Захаваць спасылку як…
@@ -364,7 +364,7 @@ main-context-menu-frame-bookmark =
     .label = Дадаць закладку на гэту рамку
     .accesskey = р
 main-context-menu-frame-add-bookmark =
-    .label = Зрабіць закладку на фрэйм…
+    .label = Дадаць фрэйм у закладкі…
     .accesskey = ь
 main-context-menu-frame-save-as =
     .label = Захаваць рамку як…
