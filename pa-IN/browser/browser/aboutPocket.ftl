@@ -37,7 +37,7 @@ pocket-panel-signup-add-tags = ਟੈਗ ਜੋੜੋ:
 
 pocket-panel-signup-already-have = ਪਹਿਲਾਂ ਹੀ { -pocket-brand-name } ਵਰਤੋਂਕਾਰ ਹੋ?
 pocket-panel-signup-learn-more = ਹੋਰ ਜਾਣੋ
-pocket-panel-signup-login = ਲਾਗਇਨ
+pocket-panel-signup-login = ਲੌਗਇਨ
 pocket-panel-signup-signup-email = ਈਮੇਲ ਨਾਲ ਸਾਈਨ ਅੱਪ ਕਰੋ
 pocket-panel-signup-signup-cta = { -pocket-brand-name } ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ। ਇਹ ਮੁਫ਼ਤ ਹੈ।
 pocket-panel-signup-signup-firefox = { -brand-product-name } ਨਾਲ ਸਾਇਨ ਅੱਪ ਕਰੋ

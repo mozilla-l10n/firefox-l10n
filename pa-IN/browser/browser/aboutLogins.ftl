@@ -10,7 +10,7 @@ create-login-button = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
 fxaccounts-sign-in-text = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡ ਲਵੋ
 fxaccounts-sign-in-sync-button = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 fxaccounts-avatar-button =
-    .title = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .title = ਖਾਤੇ ਦਾ ਪ੍ਰਬੰਧ ਵੇਖੋ
 
 ## The ⋯ menu that is in the top corner of the page
 
