@@ -26,7 +26,7 @@ update-unsupported = ਤੁਸੀਂ ਇਸ ਸਿਸਟਮ ਨੂੰ ਹੋਰ 
 update-restarting = …ਮੁੜ-ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ
 update-internal-error = ਅੰਦਰੂਨੀ ਗ਼ਲਤੀ ਕਰਕੇ ਅੱਪਡੇਟਾਂ ਭਾਲਣ ਤੋੰ ਅਸਮਰੱਥ। ਅੱਪਡੇਟਾਂ <label data-l10n-name="manual-link"/> ਉੱਤੇ ਮੌਜੂਦ ਹਨ।
 channel-description = ਇਸ ਵੇਲੇ ਤੁਸੀਂ <label data-l10n-name="current-channel"></label> ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ।
-warningDesc-version = { -brand-short-name } ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਢਿੱਲਾ ਮੱਠਾ ਹੋ ਸਕਦਾ ਹੈ।
+warningDesc-version = { -brand-short-name } ਅਜੇ ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਢਿੱਲਾ ਮੱਠਾ ਹੋ ਸਕਦਾ ਹੈ।
 aboutdialog-help-user = { -brand-product-name } ਮਦਦ
 aboutdialog-submit-feedback = ਸੁਝਾਅ ਭੇਜੋ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ਭਾਈਚਾਰਾ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਜਨਤਕ ਅਤੇ ਹਰੇਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਰਲ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲਾ ਇੱਕ <label data-l10n-name="community-exp-creditsLink">ਆਲਮੀ ਭਾਈਚਾਰਾ</label> ਹੈ।
