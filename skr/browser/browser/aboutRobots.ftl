@@ -16,6 +16,10 @@ error-short-desc-text = اساں تہاکوں امن تے نیک نیتی نال
 error-long-desc1 = روبوٹس انسان کوں زخمی نئیں کر سڳدے یا، بذریعہ غیر عملی، انسان کوں نقصان نئیں تھیوݨ ݙے سڳدے۔
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = روبوٹس اینجھاں چیزاں ݙٹھیاں ہن جنہاں تے تہاکوں یقین کینا آؤسے۔
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = روبوٹ تہاݙے پلاسٹک پال ہن جنہاں دے نال رہݨ وِچ لطف آندا ہے۔
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = روپوٹ وِچ چمکدار دھاتی پوسٹرز ہوندے ہن جنہاں کوں کٹنا نہیں چاہیدا۔
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = تے انہاں دے کول ہک منصوبہ ہے۔
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.

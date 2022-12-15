@@ -12,10 +12,26 @@ cert-error-trust-untrusted-issuer = سرٹیفکیٹ تے بھروسہ کائن�
 cert-error-trust-signature-algorithm-disabled = تصدیق نامہ ناقابل بروسہ ہے کیوں جو اینکوں االگورزم دے دستخط استعمال کریندیں ہوئیں دستخط کیتا ڳیا ہا جینکوں نااہل بݨایا ڳیا ہا کیوں جو وہ الگورزم قابل بھروسا کائنا ہا
 cert-error-trust-expired-issuer = ایہ تصدیق نامہ قابل اعتماد کائنی کیوں جو جاری کرݨ والے دا تصدیق نامہ زائد المیعاد ہے۔
 cert-error-trust-self-signed = ایہ تصدیق نان٘واں قابل اعتماد کائنی کوں جو اے آپوں ڄاݨ دستخط شدہ ہے۔
+cert-error-trust-symantec = GeoTrust ، RapidSSL ، Symantec، Thawteتے  VeriSign دے ذریعہ جاری کردہ تصدہق نانواں کوں ہݨ ہتھیکڑا نئیں سمجھا ویندا کیوں جو ایہ تصدہق نانواں  حکام ماضی وِچ سلامتی دے طریقیاں تے عمل کرݨ وچ ناکام رہے ہن۔
 cert-error-untrusted-default = اے تصدیق نان٘واں قابل اعتماد ماخذ کنوں کائنی۔
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = ویب سائٹس تصدیق نان٘ویں دے ذریعے اپݨی سن٘ڄاݨ ثابت کرین٘دیاں ہن۔{ -brand-short-name } کوں ایں سائٹ تے اعتماد کائنی کیوں جو او این٘جھے تصدیق نان٘ویں دا استعمال کرین٘دی پئی ہے جیڑھی { $hostname } کیتے درست کائنی۔
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = ویب سائٹس اپݨے سنڄاݨ سرٹیفکیٹ دے ذریعے ثابت کریندیاں ہن۔ { -brand-short-name } کوں ایں سائٹ تے اعتماد کائنی کیوں جو { $hostname } کیتے جیڑھا سرٹیفکیٹ استعمال تھیندا پیا ہے او درست کائنی ۔ ایہ سرٹیفکیٹ صرف <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> کیتے درست ہے۔
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = ویب سائٹس اپݨی سنڄاݨ سرٹیفکیٹ دے ذریعے ثابت کریندیاں ہن۔ { -brand-short-name } کوں ایں سائٹ تے اعتماد کائنی کیوں جو { $hostname } کیتے جیڑھا سرٹیفکیٹ استعمال تھیندا پیا ہے او درست کائنی۔ ایہ سرٹیفکیٹ صرف { $alt-name } کیتے درست ہے۔
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = ویب سائٹس سرٹیفیکیٹ دے ذریعے اپݨی سنڄاݨ ثابت کریندیاں ہن۔ { -brand-short-name } ایں سائٹ تے بھروسہ کائنی کریندا کیوں جو ایہ ہک سرٹیفکیٹ استعمال کریندی ہے جیڑھا { $hostname } کیتے درست کائنی۔ سرٹیفکیٹ صرف ہیٹھ درج نانواں کیتے درست ہے: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = ویب سائٹس سرٹیفکیٹس دے ذریعے اپݨی سنڄاݨ ثابت کریندیاں ہن، جیڑھے ہک مقررہ مدت کیتے درست ہن۔ { $hostname } کیتے سرٹیفکیٹ دی میعاذ { $not-after-local-time } کوں مک ڳئی ہے۔
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.

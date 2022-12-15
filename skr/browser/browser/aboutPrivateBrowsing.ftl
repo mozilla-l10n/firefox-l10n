@@ -19,6 +19,8 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } دی مدد نال ڳولو یا پتہ درج کرو
 about-private-browsing-handoff-text-no-engine = ڳولو یا پتہ درج کرو
 about-private-browsing-not-private = تساں حالی نجی ونڈو وچ کائنوے۔
+about-private-browsing-info-description-private-window = نجی ونڈو: { -brand-short-name } تہاݙی ڳول تے براؤزنگ دی تاریخ کوں صاف کر ݙیندی ہے جݙاں تساں تمام نجی ونڈوز بند کر ݙیندے او۔ ایہ تہاکوں گمنام نہیں بݨیدا۔
+about-private-browsing-info-description-simplified = { -brand-short-name } تہاݙی ڳول تے براؤزنگ دی تاریخ کوں مٹیندا ہے جݙاں جو تساں سبھے نجی ونڈوز بند کریندے او، پر ایہ تہاکوں گمنام نہیں بݨیندا۔
 about-private-browsing-learn-more-link = ٻیا سِکھو
 about-private-browsing-hide-activity = اپݨی سرگرمی تے لوکیشن لُکاؤ، جتھاں وی تساں براؤز کرو
 about-private-browsing-get-privacy = رازداری دا تحفظ حاصل کرو جتھاں وی تساں براؤز کرو
@@ -31,6 +33,7 @@ about-private-browsing-focus-promo-text = اساݙی سرشار نجی براؤ�
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = اپݨے فون تے نجی براؤزنگ حاصل کرو
+about-private-browsing-focus-promo-text-b = انہاں نجی ڳولݨیاں کیتے { -focus-brand-name } دا استعمال کرو جنہاں کوں تساں اپݨے مرکزی موبائل براؤزر کوں نہیں ݙیکھݨ چاہندے۔
 about-private-browsing-focus-promo-header-c = موبائل تے اڳلے درجے دی رازداری
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } تہاݙی ہسٹری میس ݙیندے جئیں ویلھے تساں ایڈز تے ٹریکرز دی ݙک ٹھل کریندے پئے ہوندو
 # This string is the title for the banner for search engine selection
@@ -51,3 +54,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Dock وِچ رہو
        *[other] ٹاسک بار ݙے ونڄو
     }
+about-private-browsing-pin-promo-title = تہاݙے ڈیسک ٹاپ کنوں کوئی وی کوکیز یا تاریخ ہتھیکڑی نئیں کیتی ڳئی۔ ایویں براؤز کرو جیویں کوئی نہ ݙیہدا پیا ہووے۔

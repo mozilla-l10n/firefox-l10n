@@ -55,6 +55,7 @@ pocket-panel-signup-cta-c-updated = کہیں وی ڈیوائس تے، کہیں �
 
 pocket-panel-home-my-list = میݙی تندیر
 pocket-panel-home-welcome-back = واپسی تے ست بسم اللہ
+pocket-panel-home-paragraph = تساں ویب ورقے، مضمون، ویڈیوز، پوڈکسٹس کوں ڳول پھرول تے محفوظ کرݨ کیتے { -pocket-brand-name } دا استعمال کر سڳدے ہن، یا تساں جو کجھ پڑھدے پئے او اوندے اُتے واپس ونڄ سڳدے او۔
 pocket-panel-home-explore-popular-topics = مشہور عنوانات دریافت کرو
 pocket-panel-home-discover-more = ٻیاں لبھو
 pocket-panel-home-explore-more = پھلورو

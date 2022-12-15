@@ -13,6 +13,7 @@ extension-firefox-compact-light-description = ہک تھیم پھکے رنگ دی
 extension-firefox-compact-dark-name = شوخ
 extension-firefox-compact-dark-description = ہک تھیم ڳُوڑھے رنگ دی سکیم  نال۔
 extension-firefox-alpenglow-name = Firefox الپینگلو
+extension-firefox-alpenglow-description = بٹݨاں، مینوز تے ونڈوز کیتے رنگیل جھاں دا استعمال کرو۔
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the

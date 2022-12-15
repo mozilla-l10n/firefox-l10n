@@ -7,6 +7,7 @@ restore-page-tab-title = سیشن بحال کرو
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = معذرت۔ اساکوں تہاݙے صفحات واپس آنݨ اِچ دشواری تھیندی پئی اے۔
 restore-page-problem-desc = چھیکڑی واری انٹرنیٹ استعمال سیشن دا معلوم نئیں تھیندا پیا۔ Restore Session کوں ولا کوشش کرݨ کیتے چݨو
+restore-page-try-this = ہالی وی تہاݙے سیشن کوں بحال کرݨ دے قابل کائنی؟ بعض اوقات ہک ٹیب مسئلے دا باعث بݨدا ہے۔ پچھلیاں ٹیباں ݙیکھو، انہاں ٹیباں کنوں چیک مارک ہٹاؤ جنہاں دی تہاکوں ولدا لبھݨ دی لوڑ کائنی، تے ول بحال کرو
 restore-page-hide-tabs = پچھلے ٹیب لُکاؤ
 restore-page-show-tabs = پچھلے ٹیب ݙیکھو
 # When tabs are distributed across multiple windows, this message is used as a

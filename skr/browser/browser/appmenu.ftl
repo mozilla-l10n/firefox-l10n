@@ -11,6 +11,8 @@ appmenuitem-banner-update-available =
     .label = اپڈیٹ دستیاب ہے - ہݨ ڈاؤن لوڈ کرو
 appmenuitem-banner-update-manual =
     .label = ابڈیٹ دستیاب ہے - ہݨیں ڈاؤن لوڈ کرو
+appmenuitem-banner-update-unsupported =
+    .label = اپ ڈیٹ کرݨ کنوں قاصر — سسٹم مطابقت نئیں رکھیندا
 appmenuitem-banner-update-restart =
     .label = اپڈیٹ دستیاب ہے - ہݨیں نویں سروں چلاؤ
 appmenuitem-new-tab =
@@ -37,6 +39,12 @@ appmenuitem-more-tools =
     .label = ٻئے ٹولز
 appmenuitem-help =
     .label = مدد
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] ویندا کرو
+           *[other] نکلو
+        }
 appmenu-menu-button-closed2 =
     .tooltiptext = ایپلیکیشن مینو کھولو
     .label = { -brand-short-name }
@@ -125,6 +133,7 @@ profiler-popup-reveal-description-button =
     .aria-label = ودھیک معلومات ظاہر کرو
 profiler-popup-description-title =
     .value = ریکارڈ کرو ، تجزیہ کرو ، شیر کرو
+profiler-popup-description = اپݨی ٹیم دے نال سانجھ کرݨ کیتے پروفائلز شائع کر تے کارکردگی دے مسائل تے تعاون کرو۔
 profiler-popup-learn-more-button =
     .label = ٻیا سِکھو
 profiler-popup-settings =
@@ -158,6 +167,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = گھٹ اوور ہیڈ دے نال، زیادہ تر ویب ایپ ڈیبگنگ کیتے تجویز کردہ اوور ہیڈ۔
 profiler-popup-presets-web-developer-label =
     .label = ویب تکمیل کار
 profiler-popup-presets-firefox-label =
