@@ -79,3 +79,9 @@ protected-auth-window =
     .title = Қорғалған токен аутентификациясы
 protected-auth-msg = Токен үшін аутентификация керек. Оның түрі токен түріне байланысты.
 protected-auth-token = Токен:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = "{ $tokenName }" токенін аутентификациялаңыз. Мұны қалай жасау токен түріне байланысты (мысалы, саусақ ізін оқу құралын пайдалану немесе пернетақта арқылы кодты енгізу).
