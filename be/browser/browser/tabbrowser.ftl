@@ -36,9 +36,9 @@ tabbrowser-close-tabs-tooltip =
 tabbrowser-mute-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Сцішыць картку ({ $shortcut })
-            [few] Сцішыць { $tabCount } карткі ({ $shortcut })
-           *[many] Сцішыць { $tabCount } картак ({ $shortcut })
+            [one] Выключыць гук на картцы ({ $shortcut })
+            [few] Выключыць гук на { $tabCount } картках ({ $shortcut })
+           *[many] Выключыць гук на { $tabCount } картках ({ $shortcut })
         }
 # Variables:
 #   $shortcut (String): The keyboard shortcut for "Unmute tab".
@@ -52,9 +52,9 @@ tabbrowser-unmute-tab-audio-tooltip =
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
-            [one] Сцішыць картку
-            [few] Сцішыць { $tabCount } карткі
-           *[many] Сцішыць { $tabCount } картак
+            [one] Выключыць гук на картцы
+            [few] Выключыць гук на { $tabCount } картках
+           *[many] Выключыць гук на { $tabCount } картках
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
@@ -142,8 +142,8 @@ tabbrowser-customizemode-tab-title = Уладкаваць { -brand-short-name }
 ## Context menu buttons, of which only one will be visible at a time
 
 tabbrowser-context-mute-tab =
-    .label = Сцішыць картку
-    .accesskey = С
+    .label = Выключыць гук на картцы
+    .accesskey = В
 tabbrowser-context-unmute-tab =
     .label = Раз-цішыць картку
     .accesskey = Р

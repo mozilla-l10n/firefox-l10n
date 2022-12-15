@@ -9,6 +9,6 @@ confirmation-hint-breakage-report-sent = Справаздача адпраўле
 confirmation-hint-login-removed = Лагін выдалены!
 confirmation-hint-page-bookmarked = Захавана ў закладках
 confirmation-hint-password-saved = Пароль захаваны!
-confirmation-hint-pin-tab = Прышпілена!
+confirmation-hint-pin-tab = Замацавана!
 confirmation-hint-pin-tab-description = Націсніце правай кнопкай на картцы, каб адшпіліць.
 confirmation-hint-send-to-device = Адпраўлена!

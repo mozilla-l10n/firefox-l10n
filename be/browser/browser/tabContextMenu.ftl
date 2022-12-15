@@ -18,11 +18,11 @@ tab-context-play-tabs =
     .label = Прайграць карткі
     .accesskey = р
 duplicate-tab =
-    .label = Дубляваць картку
+    .label = Дубліраваць картку
     .accesskey = Д
 duplicate-tabs =
-    .label = Дубляваць карткі
-    .accesskey = в
+    .label = Дубліраваць карткі
+    .accesskey = Д
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
@@ -40,14 +40,14 @@ reload-tabs =
     .label = Абнавіць карткі
     .accesskey = К
 pin-tab =
-    .label = Прышпіліць картку
-    .accesskey = П
+    .label = Замацаваць картку
+    .accesskey = З
 unpin-tab =
     .label = Адшпіліць картку
     .accesskey = А
 pin-selected-tabs =
-    .label = Прышпіліць карткі
-    .accesskey = ш
+    .label = Замацаваць карткі
+    .accesskey = З
 unpin-selected-tabs =
     .label = Адшпіліць карткі
     .accesskey = і
@@ -109,7 +109,6 @@ tab-context-move-tabs =
            *[many] Перамясціць карткі
         }
     .accesskey = м
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
