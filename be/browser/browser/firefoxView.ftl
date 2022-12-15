@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = Каб забраць сва
 firefoxview-tabpickup-password-locked-link = Падрабязней
 firefoxview-tabpickup-password-locked-primarybutton = Увядзіце галоўны пароль
 firefoxview-tabpickup-signed-out-header = Увайдзіце, каб злучыцца зноў
+firefoxview-tabpickup-signed-out-description = Каб аднавіць падключэнне і атрымаць карткі, увайдзіце ў свой { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Увайсці
 firefoxview-tabpickup-syncing = Пачакайце, пакуль вашы карткі сінхранізуюцца. Гэта толькі на імгненне.
 firefoxview-mobile-promo-header = Атрымайце карткі з тэлефона або планшэта
