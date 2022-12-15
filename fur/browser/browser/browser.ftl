@@ -282,30 +282,42 @@ quickactions-addons = Visualize zontis
 quickactions-cmd-addons2 = components adizionâi
 # Opens the bookmarks library window
 quickactions-bookmarks = Visualize segnelibris
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Gjestìs segnelibris
 quickactions-cmd-bookmarks = segnelibris
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Nete la cronologjie
 quickactions-cmd-clearhistory = nete la cronologjie
 # Opens about:downloads page
 quickactions-downloads = Vierç Discjamâts
+# Opens about:downloads page
+quickactions-downloads2 = Visualize i discjamâts
 quickactions-cmd-downloads = discjamâts
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gjestìs estensions
 quickactions-cmd-extensions = estensions
 # Opens the devtools web inspector
 quickactions-inspector = Vierç Ispetôr
+# Opens the devtools web inspector
+quickactions-inspector2 = Vierç struments di disvilup
 quickactions-cmd-inspector = ispetôr, struments dai disvilupadôrs
 # Opens about:logins
 quickactions-logins = Visualize credenziâls
+# Opens about:logins
+quickactions-logins2 = Gjestìs passwords
 quickactions-cmd-logins = credenziâls, passwords
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gjestìs plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Stampe
+# Opens the print dialog
+quickactions-print2 = Stampe pagjine
 quickactions-cmd-print = stampe
 # Opens a new private browsing window
 quickactions-private = Vierç barcon di navigazion privade
+# Opens a new private browsing window
+quickactions-private2 = Vierç barcon privât
 quickactions-cmd-private = navigazion privade
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ripristine { -brand-short-name }
@@ -315,9 +327,13 @@ quickactions-restart = Torne invie { -brand-short-name }
 quickactions-cmd-restart = torne invie
 # Opens the screenshot tool
 quickactions-screenshot2 = Cature une videade
+# Opens the screenshot tool
+quickactions-screenshot3 = Cature une videade
 quickactions-cmd-screenshot = videade
 # Opens about:preferences
 quickactions-settings = Vierç Impostazions
+# Opens about:preferences
+quickactions-settings2 = Gjestìs impostazions
 quickactions-cmd-settings = impostazions, preferencis, opzions
 # Opens about:addons page in the themes section
 quickactions-themes = Gjestìs temis
@@ -327,6 +343,8 @@ quickactions-update = Inzorne { -brand-short-name }
 quickactions-cmd-update = inzorne
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Visualize sorzint
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Viôt codiç sorzint de pagjine
 quickactions-cmd-viewsource = visualize sorzint, sorzint
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -931,6 +949,15 @@ private-browsing-indicator-label = Esplorazion privade
 unified-extensions-button =
     .label = Estensions
     .tooltiptext = Estensions
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Estensions
+    .tooltiptext =
+        Estensions
+        Permès necessaris
 
 ## Autorefresh blocker
 

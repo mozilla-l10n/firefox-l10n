@@ -28,10 +28,13 @@ callout-firefox-view-colorways-reminder-subtitle = Colore il to navigadôr cun c
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Miore la tô navigazion cun Ripie schede
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Di cualsisei dispositîf, rive aes tôs schedis viertis. In plui sincronizie i tiei segnelibris, passwords e ancje altri.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Scomence
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Modifiche i PDFs cul nestri gnûf strument di test
+callout-pdfjs-edit-body-a = Compile i formularis, zonte coments o cjape notis in maniere direte in { -brand-short-name }.
 callout-pdfjs-edit-button = Sucessîf
 callout-pdfjs-draw-title = Firme i documents cul nestri gnûf strument di dissen
 callout-pdfjs-draw-button = Capît!
