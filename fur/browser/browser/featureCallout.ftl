@@ -35,6 +35,11 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Scomence
 
 callout-pdfjs-edit-title = Modifiche i PDFs cul nestri gnûf strument di test
 callout-pdfjs-edit-body-a = Compile i formularis, zonte coments o cjape notis in maniere direte in { -brand-short-name }.
+callout-pdfjs-edit-body-b = Salte la ricercje pai editôrs in rêt gratuits. Compile i formularis, zonte coments o cjape notis dret in { -brand-short-name }.
 callout-pdfjs-edit-button = Sucessîf
 callout-pdfjs-draw-title = Firme i documents cul nestri gnûf strument di dissen
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Zonte notis ai PDFs e salve lis tôs modifichis.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Nol covente plui stampâ e scansionâ. Zonte notis ai PDFs e dopo salve lis tôs modifichis.
 callout-pdfjs-draw-button = Capît!
