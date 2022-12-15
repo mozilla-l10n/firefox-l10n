@@ -703,10 +703,19 @@ popups-infobar-allow =
 popups-infobar-dont-show-message =
     .label = ບໍສະແດງຂໍ້ຄວາມນີ້ເມື່ອປັອບອັບບໍໄດ້ຮັບການບັອກ
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = ເຊື່ອງການສະຫຼັບຮູບໃນຮູບ
+    .accesskey = H
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = ຍ້າຍຮູບໃນຮູບສະຫຼັບໄປເບື້ອງຂວາ
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = ຍ້າຍຮູບໃນຮູບສະຫຼັບໄປຊ້າຍ
+    .accesskey = L
 
 ##
 
@@ -772,6 +781,9 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = ສ່ວນຂະຫຍາຍ
+    .tooltiptext = ສ່ວນຂະຫຍາຍ
 
 ## Autorefresh blocker
 
