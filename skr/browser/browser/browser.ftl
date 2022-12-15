@@ -152,6 +152,11 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = گھٹ ٹائپ کرو ، زیادہ ڳولو: اپݨے ایڈریس بار  دے { $engineName } نال تلاش کرو۔
 urlbar-search-tips-redirect-2 = { $engineName } کنوں تجاویز تے براؤزنگ سبقات ݙیکھݨ کیتے پتے دی بار وِچ اپݨی تلاش دا آغاز کرو
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = ڳولݨ ہݨ آسان تھی ڳیا ہے۔ ایڈریس بار وِچ اپݨی ڳول کوں ودھیک مخصوص بݨاوݨ دی کوشش کرو۔ ایندے بجائے یو آر ایل ݙکھاوݨ کیتے، ترتیباں وِچ سرچ تے ونڄو۔
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = جیڑھی چیز دی تہاکوں لوڑ ہے اونکوں تکھاجی نال ڳولݨ کیتے ایں شارٹ کٹ کوں منتخب کرو۔
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,9 +298,13 @@ quickactions-extensions = ایکسٹینشنز دا بندوبست کرو
 quickactions-cmd-extensions = ایکسٹینشنز
 # Opens the devtools web inspector
 quickactions-inspector = انسپیکٹر کھولو
+# Opens the devtools web inspector
+quickactions-inspector2 = ڈویلپر ٹولز کھولو
 quickactions-cmd-inspector = انسپیکٹر، ڈیو ٹولز
 # Opens about:logins
 quickactions-logins = لاگ انز ݙیکھو
+# Opens about:logins
+quickactions-logins2 = پاس ورڈز دا بندوبست کرو
 quickactions-cmd-logins = لاگ انز، پاس ورڈز
 # Opens about:addons page in the plugins section
 quickactions-plugins = پلگ انز دا بندوبست کرو
