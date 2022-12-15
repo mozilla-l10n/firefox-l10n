@@ -16,6 +16,7 @@ perftools-heading-features = ਫੀਚਰ
 perftools-heading-features-disabled = ਬੰਦ ਕੀਤੇ ਫੀਚਰ
 perftools-heading-features-experimental = ਤਜਰਬੇ-ਅਧੀਨ
 perftools-heading-threads = ਥਰੈੱਡ
+perftools-heading-local-build = ਸਥਾਨਕ ਉਸਾਰੀ
 
 ##
 
