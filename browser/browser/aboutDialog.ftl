@@ -16,7 +16,7 @@ update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨ
 update-downloading-message = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ — <label data-l10n-name="download-status"/>
 update-applying = …ਅੱਪਡੇਟ ਲਾਗੂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
 update-failed = ਅੱਪਡੇਟ ਅਸਫਲ ਹੋਈ। <label data-l10n-name="failed-link">ਨਵੀਂ ਵੰਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</label>
-update-failed-main = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੈ। <a data-l10n-name="failed-link-main">ਸੱਜਰੀ ਵਂਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</a>
+update-failed-main = ਅੱਪਡੇਟ ਨਾਕਾਮਯਾਬ ਹੋਈ। <a data-l10n-name="failed-link-main">ਸੱਜਰੀ ਵੰਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</a>
 update-adminDisabled = ਤੁਹਾਡੇ ਢਾਂਚਾ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਅੱਪਡੇਟਾਂ ਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੋਈ ਹੈ।
 update-noUpdatesFound = { -brand-short-name } ਸੱਜਰਾ ਹੈ
 aboutdialog-update-checking-failed = ਅੱਪਡੇਟਾਂ ਭਾਲਣ ਵਿੱਚ ਨਾਕਾਮਯਾਬੀ ਮਿਲੀ।
@@ -33,7 +33,7 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ਨੂੰ  <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> ਨੇ ਬਣਾਇਆ ਹੈ, ਜੋ ਕਿ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਜਨਤਕ ਅਤੇ ਹਰੇਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਰਲ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲਾ ਇੱਕ <label data-l10n-name="community-creditsLink">ਆਲਮੀ ਭਾਈਚਾਰਾ</label> ਹੈ।
 helpus = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="helpus-donateLink">ਦਾਨ ਦਿਓ</label> ਜਾਂ <label data-l10n-name="helpus-getInvolvedLink">ਹਿੱਸਾ ਲਵੋ!</label>
 bottomLinks-license = ਲਸੰਸ ਬਾਰੇ ਜਾਣਕਾਰੀ
-bottomLinks-rights = ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ
+bottomLinks-rights = ਛੇਕੜਲੇ ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ
 bottomLinks-privacy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
