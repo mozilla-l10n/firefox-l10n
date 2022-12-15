@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Procedure vuidade di importazion
-
 import-from =
     { PLATFORM() ->
         [windows] Impuarte opzions, segnelibris, cronologjie, passwords e altris dâts di:
        *[other] Impuarte preferencis, segnelibris, cronologjie, passwords e altris dâts di:
     }
-
 import-from-bookmarks = Impuarte segnelibris di:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,12 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-opera =
+    .label = Opera
+    .accesskey = O
+import-from-vivaldi =
+    .label = Vivaldi
+    .accesskey = V
 import-from-brave =
     .label = Brave
     .accesskey = r
@@ -54,37 +58,26 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
+import-from-opera-gx =
+    .label = Opera GX
+    .accesskey = G
 no-migration-sources = No son stâts cjatâts programs che a contegnin segnelibris, dâts di cronologjie o passwords.
-
 import-source-page-title = Impuarte impostazions e dâts
 import-items-page-title = Elements di impuartâ
-
 import-items-description = Selezione cuâi elements impuartâ:
-
 import-permissions-page-title = Par plasê, da i permès a { -brand-short-name }
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS al à bisugne che tu permetis in maniere esplicite a { -brand-short-name } di acedi ai segnelibris di Safari. Fâs clic su “Continue” e selezione il file “Bookmarks.plist” intal panel Vierç file che al ven fûr.
-
 import-migrating-page-title = Daûr a impuartâ…
-
 import-migrating-description = I elements chi sot a son daûr a vignî impuartâts…
-
 import-select-profile-page-title = Selezione un profîl
-
 import-select-profile-description = Al è pussibil impuartâ dâts di chescj profîi:
-
 import-done-page-title = Importazion completade
-
 import-done-description = I elements chi sot a son stâts impuartâts cun sucès:
-
 import-close-source-browser = Siguraitsi che il navigadôr selezionât al sedi sierât prime di continuâ.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Liste di leture (di Safari)
 imported-edge-reading-list = Liste di leture (di Edge)
 
@@ -106,7 +99,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +111,10 @@ browser-data-history-label =
             [firefox] Cronologjie di navigazion e segnelibris
            *[other] Cronologjie di navigazion
         }
-
 browser-data-formdata-checkbox =
     .label = Cronologjie dai formularis salvâts
 browser-data-formdata-label =
     .value = Cronologjie dai formularis salvâts
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +123,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Credenziâls e passwords salvadis
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +137,10 @@ browser-data-bookmarks-label =
             [edge] Preferîts
            *[other] Segnelibris
         }
-
 browser-data-otherdata-checkbox =
     .label = Altris dâts
 browser-data-otherdata-label =
     .label = Altris dâts
-
 browser-data-session-checkbox =
     .label = Barcons e schedis
 browser-data-session-label =

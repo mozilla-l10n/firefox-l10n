@@ -77,3 +77,8 @@ firefoxview-change-colorway-button = Cambie tonalitât
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Ancjemò nuie ce mostrâ
+firefoxview-synced-tabs-placeholder-body = La prossime volte che tu vierzis une pagjine in { -brand-product-name } o suntun altri dispositîf, tu la cjatarâs achì come par magjie.
+firefoxview-collapse-button-show =
+    .title = Mostre liste
+firefoxview-collapse-button-hide =
+    .title = Plate liste

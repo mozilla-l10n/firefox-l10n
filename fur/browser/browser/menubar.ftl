@@ -38,11 +38,9 @@ menu-quit =
             [windows] J
            *[other] J
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Jes di { -brand-shorter-name }
-
 menu-about =
     .label = Informazions su { -brand-shorter-name }
     .accesskey = I
@@ -182,6 +180,17 @@ menu-view-full-screen =
     .label = Plen visôr
     .accesskey = v
 
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = Jentre te Viodude di leture
+    .accesskey = l
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = Siere la Viodude di leture
+    .accesskey = l
+
 ##
 
 menu-view-show-all-tabs =
@@ -224,6 +233,10 @@ menu-bookmark-current-tab =
     .label = Met tai segnelibris cheste schede
 menu-bookmark-edit =
     .label = Modifiche chest segnelibri
+menu-bookmark-tab =
+    .label = Met tai segnelibris cheste schede…
+menu-edit-bookmark =
+    .label = Modifiche chest segnelibri…
 menu-bookmarks-all-tabs =
     .label = Zonte dutis lis schedis tai segnelibris…
 menu-bookmarks-toolbar =

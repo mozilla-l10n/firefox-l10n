@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Funzionalitât conseade
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Parcè stoio viodint chest messaç?
-
 cfr-doorhanger-extension-cancel-button = No cumò
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Zonte cumò
     .accesskey = Z
-
 cfr-doorhanger-extension-manage-settings-button = Gjestìs impostazions sugjeriments
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = No sta mostrâmi chest sugjeriment
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Plui informazions
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = di { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Sugjeriment
 cfr-doorhanger-extension-notification2 = Sugjeriment
     .tooltiptext = Estension conseade
     .a11y-announcement = Al è disponibil un sugjeriment par une estension
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Sugjeriment
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Plui informazions
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gnove funzionalitât:
-
 cfr-whatsnew-button =
     .label = Novitâts
     .tooltiptext = Novitâts
-
 cfr-whatsnew-release-notes-link-text = Lei lis notis di publicazion
 
 ## Enhanced Tracking Protection Milestones
@@ -166,7 +156,6 @@ spotlight-total-cookie-protection-body = Protezion Totâl dai Cookies e ferme i 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } al costruìs une stangjaçade tor ator dai cookies, limitantju al lôr sît, cussì che i spions (tracker) no rivin a doprâju par stâti daûr. Cun l'acès anticipât, tu judarâs a otimizâ cheste funzionalitât cussì che o rivìn a continuâ il nestri lavôr par costruî un web miôr par ducj.
 spotlight-total-cookie-protection-primary-button = Ative la Protezion Totâl dai Cookies
 spotlight-total-cookie-protection-secondary-button = No cumò
-
 cfr-total-cookie-protection-header = In gracie dal to jutori, { -brand-short-name } al è plui riservât e sigûr di simpri
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
@@ -198,7 +187,33 @@ spotlight-pin-secondary-button = No cumò
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Gnûf { -brand-short-name }. Plui riservât. Mancul spiis. Nissun compromès.
+mr2022-background-update-toast-text = Prove cumò il gnûf { -brand-short-name }, inzornât cu la nestre plui potente protezion anti-spiis di simpri.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Vierç { -brand-shorter-name } cumò
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Visimi plui tart
+
 ## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Provilu
+    .accesskey = P
+firefoxview-cfr-secondarybutton = No cumò
+    .accesskey = N
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Dîs mandi a { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = Viôt cemût che al funzione
+firefoxview-spotlight-promo-secondarybutton = Salte
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Sielç une tonalitât
+    .accesskey = S
