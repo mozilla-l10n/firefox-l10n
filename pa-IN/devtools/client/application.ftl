@@ -72,6 +72,9 @@ manifest-loaded-error = ਮੈਨੀਫੈਸਟ ਲੋਡ ਕਰਦੇ ਸਮ�
 manifest-loaded-devtools-error = ਫਾਇਰਫਾਕਸ DevTools ਗਲਤੀ
 # Text displayed when the page has no manifest available
 manifest-non-existing = ਜਾਂਚ ਕਰਨ ਲਈ ਕੋਈ ਮੈਨੀਫੈਸਟ ਨਹੀਂ ਮਿਲਿਆ।
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = ਮਨੋਰਥ ਡਾਟਾ URL ਵਿੱਚ ਮੜ੍ਹਿਆ ਹੋਇਆ ਹੈ।
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = ਮਕਸਦ: <code>{ $purpose }</code>
@@ -79,6 +82,10 @@ manifest-icon-purpose = ਮਕਸਦ: <code>{ $purpose }</code>
 # manifest.
 manifest-icon-img =
     .alt = ਆਈਕਨ
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = ਆਈਕਨ ਦੇ ਅਕਾਰ: { $sizes }
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
 manifest-icon-img-title-no-sizes = ਨਾ-ਦਿੱਤਾ ਆਈਕਾਨ ਅਕਾਰ
