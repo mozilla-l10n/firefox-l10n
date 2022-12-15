@@ -107,6 +107,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Aɣmis n ugemmen
 graphics-crash-guards-title = Timhalin ur nermid ara n uɛessas n uɣelluy
 graphics-workarounds-title = Tifrat n usellek
+graphics-device-pixel-ratios = Ifmiḍiyen n yipiksilen n yibenk n yisfuyla
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Aneggaf n usfaylu
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).

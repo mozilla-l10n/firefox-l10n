@@ -19,6 +19,7 @@ update-failed = Aleqqem ur yemmid ara. <label data-l10n-name="failed-link">Sader
 update-failed-main = Aleqqem ur yemmid ara. <a data-l10n-name="failed-link-main">Sader lqem aneggaru </a>
 update-adminDisabled = Aleqqem issewḥel-it unedbal n unagraw-ik
 update-noUpdatesFound = { -brand-short-name } yettwaleqqem
+aboutdialog-update-checking-failed = Aɣelluy deg usenqed n yileqman.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tleqqem-it tummant-nniḍen
 update-manual = Ileqman llan deg  <label data-l10n-name="manual-link"/>
 update-unsupported = Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. <label data-l10n-name="unsupported-link">Issin ugar </label>
