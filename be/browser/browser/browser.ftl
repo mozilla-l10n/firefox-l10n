@@ -344,7 +344,7 @@ quickactions-cmd-update = абнавіць
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Праглядзець зыходны код
 # Opens the view-source UI with current pages source
-quickactions-viewsource2 = Паглядзець зыходнік старонкі
+quickactions-viewsource2 = Праглядзець зыходны код старонкі
 quickactions-cmd-viewsource = прагляд зыходнага тэксту, код
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
