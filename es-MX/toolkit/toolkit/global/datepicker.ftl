@@ -42,3 +42,5 @@ date-spinner-month-next =
     .aria-label = Próximo mes
 date-spinner-year-previous =
     .aria-label = Año anterior
+date-spinner-year-next =
+    .aria-label = El próximo año
