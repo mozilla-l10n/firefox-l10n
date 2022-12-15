@@ -10,7 +10,7 @@
 abuse-report-dialog-title = รายงานสำหรับ { $addon-name }
 abuse-report-title-extension = รายงานส่วนขยายนี้ไปยัง { -vendor-short-name }
 abuse-report-title-sitepermission = รายงานส่วนเสริมสิทธิอนุญาตไซต์นี้ไปยัง { -vendor-short-name }
-abuse-report-title-theme = รายงานธีมนี้ไปยัง { -vendor-short-name }
+abuse-report-title-theme = รายงานชุดรูปแบบนี้ไปยัง { -vendor-short-name }
 abuse-report-subtitle = มีปัญหาอะไร?
 # Variables:
 #   $author-name (string) - Name of the add-on author

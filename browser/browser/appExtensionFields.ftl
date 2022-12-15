@@ -6,12 +6,12 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 # "Auto" is short for automatic. It can be localized without limitations.
-extension-default-theme-name-auto = ธีมของระบบ — อัตโนมัติ
+extension-default-theme-name-auto = ชุดรูปแบบของระบบ — อัตโนมัติ
 extension-default-theme-description = ใช้การตั้งค่าสำหรับปุ่ม เมนู และหน้าต่าง ตามระบบปฏิบัติการ
 extension-firefox-compact-light-name = สว่าง
-extension-firefox-compact-light-description = ธีมที่มีแบบแผนชุดสีสว่าง
+extension-firefox-compact-light-description = ชุดรูปแบบที่มีแบบแผนชุดสีสว่าง
 extension-firefox-compact-dark-name = มืด
-extension-firefox-compact-dark-description = ธีมที่มีแบบแผนชุดสีมืด
+extension-firefox-compact-dark-description = ชุดรูปแบบที่มีแบบแผนชุดสีมืด
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = ใช้ลักษณะที่ปรากฏแบบสีสันสำหรับปุ่ม เมนู และหน้าต่าง
 
