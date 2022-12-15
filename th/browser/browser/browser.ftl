@@ -282,6 +282,8 @@ quickactions-addons = ดูส่วนเสริม
 quickactions-cmd-addons2 = ส่วนเสริม
 # Opens the bookmarks library window
 quickactions-bookmarks = ดูที่คั่นหน้า
+# Opens the bookmarks library window
+quickactions-bookmarks2 = จัดการที่คั่นหน้า
 quickactions-cmd-bookmarks = ที่คั่นหน้าที่คั่นหน้า
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ล้างประวัติ
