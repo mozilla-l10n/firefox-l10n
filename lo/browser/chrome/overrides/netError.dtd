@@ -8,6 +8,9 @@
 <!ENTITY loadError.label "ມີບັນຫາໃນການໂຫລດຫນ້າເວັບ">
 <!ENTITY retry.label "ລອງໃຫມ່ອີກຄັ້ງ">
 <!ENTITY returnToPreviousPage.label "ກັບຄືນ">
+<!ENTITY returnToPreviousPage1.label "ກັບຄືນ (ແນະນຳ)">
+<!ENTITY advanced2.label "ຂັ້ນສູງ…">
+<!ENTITY viewCertificate.label "ເບິ່ງໃບຢັ້ງຢືນ">
 
 <!-- Specific error messages -->
 
@@ -39,6 +42,8 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li>
@@ -65,6 +70,7 @@
   <li>ຕິດຕໍ່ຫາຜູ້ຄ້ມຄອງລະບົບຂອງທ່ານເພື່ອໃຫ້ແນ່ໃຈວ່າພັອກຊີເຊີເວີ ເຮັດວຽກຢູ່.</li>
 </ul>">
 
+
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>ບາງຄັ້ງບັນຫານີ້ສາມາດເກີດຂື້ນມາຈາກການປິດ ຫລື ປະຕິເສດການຍອມຮັບ ຄຸກກີ້.</li>
@@ -76,6 +82,16 @@
   <li>ນີ້ອາດຈະເນື່ອງມາຈາກການຕັ້ງຄ່າທີ່ບໍ່ໄດ້ມາດຕະຖານໃນເຊີເວີ.</li>
 </ul>">
 
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>ໜ້າເວັບທີ່ທ່ານກຳລັງພະຍາຍາມເບິ່ງບໍ່ສາມາດຖືກສະແດງໄດ້ເພາະວ່າຄວາມຖືກຕ້ອງຂອງຂໍ້ມູນທີ່ໄດ້ຮັບນັ້ນບໍ່ສາມາດຢືນຢັນໄດ້.</li>
+  <li>ກະລຸນາຕິດຕໍ່ເຈົ້າຂອງເວັບໄຊທ໌ເພື່ອແຈ້ງພວກເຂົາໃຫ້ຮູ້ກ່ຽວກັບບັນຫານີ້.</li>
+</ul>
+">
+
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 
 
@@ -86,6 +102,9 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ປ້ອງກັນຫນ້າເວັບນີ້ຈາກການໂຫລດໃນທິດທາງນີ້ເພາະວ່າຫນ້າເວັບມີເນື້ອຫາທີ່ຖືກບັອກໄວ້ໂດຍນະໂຍບາຍຄວາມປອດໄພ.</p>">
 
 
+
+<!ENTITY securityOverride.exceptionButton1Label "ຍອມຮັບຄວາມສ່ຽງ ແລະ ສືບຕໍ່">
+
 <!ENTITY errorReporting.automatic2 "ລາຍງານຂໍ້ຜິດພາດເຊັ່ນນີ້ເພື່ອຊ່ວຍ Mozilla ລະບຸແລະບັອກເວັບໄຊທ໌ທີ່ເປັນອັນຕະລາຍ">
 <!ENTITY errorReporting.learnMore "ຮຽນຮູ້ເພີ່ມເຕີມ...​">
 
@@ -93,16 +112,13 @@
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ຂໍ້ມູນຂັ້ນສູງ: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.copyToClipboard.label "ສຳເນົາຂໍ້ຄວາມໄປໄວ້ທີ່ Clipboard">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
 <!ENTITY blockedByPolicy.title "ບັອກຫນ້າແລ້ວ">
+
 
 
 <!ENTITY prefReset.label "ກູ້ຄືນການຕັ້ງຄ່າເລີ່ມຕົ້ນ">

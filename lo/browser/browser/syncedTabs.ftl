@@ -6,8 +6,11 @@ synced-tabs-sidebar-title = ແທັບທີ່ຊິງຄ໌ແລ້ວ
 synced-tabs-sidebar-noclients-subtitle = ຕ້ອງການໃຫ້ເຫັນແທັບທີ່ນີ້ຂອງທ່ານໄດ້ຈາກອຸປະກອນອື່ນໆບໍ່?
 synced-tabs-sidebar-unverified = ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.
 synced-tabs-sidebar-notabs = ບໍ່ມີແທັບທີ່ເປີດຢູ່
+synced-tabs-sidebar-open-settings = ເປີດການຕັ້ງຄ່າການຊິງຄ໌
 synced-tabs-sidebar-tabsnotsyncing = ເປີດການຊິງຄ໌ແທັບເພື່ອເບິ່ງລາຍການແທັບທີ່ເປີດຢູ່ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.
 synced-tabs-sidebar-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
+synced-tabs-sidebar-search =
+    .placeholder = ຊອກຫາແທັບທີ່ຊິງຄ໌ແລ້ວ
 
 ## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
 ## and/or devices in the list. The "Open" strings below should be translated
@@ -45,3 +48,5 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
     .accesskey = S
+synced-tabs-fxa-sign-in = ເຂົ້າສູ່ລະບົບເພື່ອຊິງຄ໌
+synced-tabs-turn-on-sync = ເປີດການຊິງຄ໌

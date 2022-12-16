@@ -81,6 +81,8 @@ appmenuitem-fxa-manage-account = ຈັດການບັນຊີ
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-sync-and-save-data2 = ຊິງຄ໌ແລະບັນທຶກຂໍ້ມູນ
 appmenu-fxa-signed-in-label = ເຂົ້າ​ສູ່​ລະ​ບົບ
+appmenu-fxa-setup-sync =
+    .label = ເປີດການຊິງຄ໌...
 appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 
