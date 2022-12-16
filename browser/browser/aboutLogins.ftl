@@ -8,7 +8,7 @@ login-filter =
     .placeholder = Pesquisar contas
 create-login-button = Criar nova conta
 fxaccounts-sign-in-text = Tenha suas senhas em outros dispositivos
-fxaccounts-sign-in-sync-button = Entre na conta para sincronizar
+fxaccounts-sign-in-sync-button = Entrar na conta para sincronizar
 fxaccounts-avatar-button =
     .title = Gerenciar conta
 
@@ -69,7 +69,7 @@ about-logins-login-intro-heading-logged-out2 = Procurando suas contas salvas? At
 about-logins-login-intro-heading-logged-in = Nenhuma conta sincronizada foi encontrada.
 login-intro-description = Se você salvou suas contas no { -brand-product-name } em outro dispositivo, veja como tê-las aqui:
 login-intro-instructions-fxa = Crie ou entre na sua { -fxaccount-brand-name } no dispositivo onde suas contas estão salvas.
-login-intro-instructions-fxa-settings = Vá em Configurações > Sync > Ativar sincronização… Selecione a opção de contas e senhas.
+login-intro-instructions-fxa-settings = Vá em Configurações > Sincronização > Ativar sincronização… Selecione a opção de contas e senhas.
 login-intro-instructions-fxa-passwords-help = Visite o <a data-l10n-name="passwords-help-link">suporte a senhas</a> para obter mais ajuda.
 about-logins-intro-browser-only-import = Se suas contas estão salvas em outro navegador, você pode <a data-l10n-name="import-link">importar no { -brand-product-name }</a>
 about-logins-intro-import2 = Se suas contas foram salvas fora do { -brand-product-name }, você pode <a data-l10n-name="import-browser-link">importar de outro navegador</a> ou <a data-l10n-name="import-file-link">de um arquivo</a>

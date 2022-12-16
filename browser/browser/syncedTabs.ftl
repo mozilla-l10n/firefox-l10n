@@ -69,5 +69,5 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sincronizar agora
     .accesskey = n
-synced-tabs-fxa-sign-in = Entrar para sincronizar
+synced-tabs-fxa-sign-in = Entrar na conta para sincronizar
 synced-tabs-turn-on-sync = Ativar sincronização
