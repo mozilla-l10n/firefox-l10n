@@ -4,76 +4,56 @@
 
 text-action-undo =
     .label = Адмяніць
-    .accesskey = м
-
+    .accesskey = А
 text-action-undo-shortcut =
     .key = Z
-
 text-action-redo =
     .label = Вярнуць
-    .accesskey = р
-
+    .accesskey = В
 text-action-redo-shortcut =
     .key = Y
-
 text-action-cut =
     .label = Выразаць
     .accesskey = р
-
 text-action-cut-shortcut =
     .key = X
-
 text-action-copy =
     .label = Капіяваць
     .accesskey = К
-
 text-action-copy-shortcut =
     .key = C
-
 text-action-paste =
     .label = Уставіць
     .accesskey = У
-
 text-action-paste-no-formatting =
     .label = Уставіць без фарматавання
-    .accesskey = ь
-
+    .accesskey = ф
 text-action-paste-shortcut =
     .key = V
-
 text-action-delete =
     .label = Выдаліць
-    .accesskey = д
-
+    .accesskey = В
 text-action-select-all =
     .label = Вылучыць усё
-    .accesskey = ё
-
+    .accesskey = у
 text-action-select-all-shortcut =
     .key = A
-
 text-action-spell-no-suggestions =
-    .label = Няма прапановаў
-
+    .label = Няма прапаноў
 text-action-spell-add-to-dictionary =
     .label = Дадаць у слоўнік
     .accesskey = ў
-
 text-action-spell-undo-add-to-dictionary =
-    .label = Адмяніць даданне ў слоўнік
+    .label = Адмяніць дадаванне ў слоўнік
     .accesskey = і
-
 text-action-spell-check-toggle =
     .label = Правяраць правапіс
     .accesskey = П
-
 text-action-spell-add-dictionaries =
     .label = Дадаць слоўнікі…
     .accesskey = Д
-
 text-action-spell-dictionaries =
     .label = Мовы
     .accesskey = М
-
 text-action-search-text-box-clear =
     .title = Ачысціць

@@ -109,8 +109,8 @@ menu-file-go-offline =
 ## Edit Menu
 
 menu-edit =
-    .label = Праўка
-    .accesskey = р
+    .label = Рэдагаваць
+    .accesskey = Р
 menu-edit-find-in-page =
     .label = Знайсці на старонцы…
     .accesskey = а
@@ -124,8 +124,8 @@ menu-edit-bidi-switch-text-direction =
 ## View Menu
 
 menu-view =
-    .label = Прагляд
-    .accesskey = П
+    .label = Выгляд
+    .accesskey = В
 menu-view-toolbars-menu =
     .label = Паліцы інструментаў
     .accesskey = л
@@ -252,7 +252,7 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = Інструменты
-    .accesskey = е
+    .accesskey = І
 menu-tools-downloads =
     .label = Сцягванні
     .accesskey = С
