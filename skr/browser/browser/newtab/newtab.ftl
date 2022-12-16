@@ -220,10 +220,35 @@ newtab-pocket-load-more-stories-button = ودھیک کہانیاں لوڈ کرو
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = تساں سبھے وٹھیج پئے او!
+newtab-pocket-last-card-desc = ودھیک کیتے بعد اِچ دوبارہ پڑتال کرو۔
+newtab-pocket-last-card-image =
+    .alt = تساں سبھے وٹھیج پئے او!
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = محفوظ
+newtab-pocket-saved = محفوظ تھیا
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = اوہو، ایں مواد کوں لوڈ کرݨ وِچ کجھ خراب تھی ڳئے۔
+newtab-error-fallback-refresh-link = ولدا کوشش کرݨ کیتے ورقے کوں ریفریش کرو۔
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = شارٹ کٹ
+newtab-custom-shortcuts-subtitle = او سائٹس جیڑھیاں تہاکوں محفوظ کریندیاں ہن یا ملاحظہ کرو۔
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } قطار
+       *[other] { $num } قطاراں
+    }
+newtab-custom-sponsored-sites = سپانسر تھئے شارٹ کٹ
+newtab-custom-pocket-title = { -pocket-brand-name } دی طرفوں سفارش کیتے ڳئے
+newtab-custom-pocket-subtitle = { -pocket-brand-name } دے ذریعے تیار تھئے غیر معمولی مواد، { -brand-product-name } ٹٻر دا حصہ
+newtab-custom-pocket-sponsored = سپانسر تھیاں کہاݨیاں
+newtab-custom-pocket-show-recent-saves = حالیہ ہتھیکڑیاں ظاہر کرو
+newtab-custom-recent-title = حالیہ سرگرمی
+newtab-custom-recent-subtitle = حالیہ سائٹاں تے مواد دی ہک چوݨ
+newtab-custom-close-button = بند کرو
+newtab-custom-settings = ودھیک ترتیباں دا بندوبست کرو

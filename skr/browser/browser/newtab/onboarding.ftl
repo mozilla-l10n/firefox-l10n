@@ -10,33 +10,87 @@
 
 ## Welcome page strings
 
+onboarding-welcome-header = { -brand-short-name } وِچ جی آیاں کوں
+onboarding-start-browsing-button-label = براؤزنگ شروع کرو
+onboarding-not-now-button-label = ہݨ کائناں
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = ٻہوں چنڳاں، تہاکوں { -brand-short-name } مل ڳیا ہے
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = ہݨ تہاکوں مل سڳدے ہن <img data-l10n-name="icon"/>
+return-to-amo-add-extension-label = ایکسٹینشن  شامل کرو
+return-to-amo-add-theme-label = تھیم شامل کرو
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = { -brand-short-name } نال سلام دعا کرو
+mr1-return-to-amo-add-extension-label = { $addon-name } شامل کرو
 
 ## Multistage onboarding strings (about:welcome pages)
 
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = شروع تھیندا پئے: سکرین { $current } دا { $total }
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = پیش رفت: مرحلہ { $current } دا { $total }
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text = بھاء اتھوں شروع تھیندی ہے
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = سورایا اوسوریو - فرنیچر ڈیزائنر، فائر فاکس دا پرستار
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = متحرک تصویراں بند کرو
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] ڈاک اِچ رہو
+       *[other] ٹاسک بار اِچ پن کرو
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = شروع کرو
+mr1-onboarding-welcome-header = { -brand-short-name } اِچ جی آیاں کوں
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } کوں میݙا منڈھلا براؤزر بݨاؤ
+    .title = { -brand-short-name } کوں بطور ڈیفالٹ براؤزر سیٹ کرو تے ٹاسک بار دو پن کرو
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } کوں میݙا ڈیفالٹ براؤزر بݨاؤ
+mr1-onboarding-set-default-secondary-button-label = ہݨ کائناں
+mr1-onboarding-sign-in-button-label = سائن ان تھیوو
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = { -brand-short-name } کوں اپݨا طے شدہ براؤزر بݨاو
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
