@@ -3,7 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-title = Informazioni sui registri
+
+about-logging-page-title = Gestore registrazioni
 about-logging-current-log-file = File di log corrente:
+about-logging-new-log-file = Nuovo file di log:
+about-logging-currently-enabled-log-modules = Moduli di registrazione attualmente attivi:
+
 about-logging-current-log-modules = Moduli di log correnti:
 about-logging-log-tutorial = Consultare la pagina <a data-l10n-name="logging">HTTP Logging</a> per istruzioni sull’utilizzo di questo strumento.
 # This message is used as a button label, "Open" indicates an action.
@@ -13,3 +18,8 @@ about-logging-set-log-modules = Imposta moduli di log
 about-logging-start-logging = Avvia registrazione
 about-logging-stop-logging = Interrompi registrazione
 about-logging-buttons-disabled = Registrazione disattivata tramite variabile d’ambiente, configurazione dinamica non disponibile.
+about-logging-log-modules-selection = Selezione moduli di registrazione
+about-logging-new-log-modules = Nuovi moduli di registrazione:
+about-logging-logging-output-selection = Output registrazione
+about-logging-logging-to-file = Registrazione in un file
+about-logging-no-log-modules = Nessuno
