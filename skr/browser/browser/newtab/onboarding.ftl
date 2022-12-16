@@ -91,9 +91,24 @@ mr1-onboarding-sign-in-button-label = سائن ان تھیوو
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = { -brand-short-name } کوں اپݨا طے شدہ براؤزر بݨاو
+mr1-onboarding-default-subtitle = رفتار، حفاظت تے رازداری کوں آٹو پائلٹ تے رکھو۔
+mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بݨاؤ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = ایہ سبھ کجھ اپݨے نال آنو
+mr1-onboarding-import-subtitle = اپݨے پاس ورڈ، <br/> نشانیاں، تے ٻہوں کجھ۔
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = { $previous } کنوں درآمد کرو
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = پچھلے براؤزر کنوں درآمد کرو
+mr1-onboarding-import-secondary-button-label = ہݨ کائناں
+mr2-onboarding-colorway-header = رنگیل حیاتی
+mr2-onboarding-colorway-subtitle = متحرک نویں کلر ویز۔ محدود مدت کیتے دستیاب ہن۔
+mr2-onboarding-colorway-primary-button-label = کلر وے ہتھیکڑا کرو
+mr2-onboarding-colorway-secondary-button-label = ہݨ کائناں
 mr2-onboarding-colorway-label-soft = نرم
 mr2-onboarding-colorway-label-balanced = متوازن
 # "Bold" is used in the sense of bravery or courage, not in the sense of
@@ -103,6 +118,9 @@ mr2-onboarding-colorway-label-bold = حوصلہ
 mr2-onboarding-theme-label-auto = آٹو
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ڈیفالٹ
+mr1-onboarding-theme-header = اینکوں اپݨا بݨاؤ
+mr1-onboarding-theme-subtitle = ہک تھیم دے نال { -brand-short-name } کوں ذاتی بݨاؤ۔
+mr1-onboarding-theme-primary-button-label = تھیم ہتھیکڑا کرو
 mr1-onboarding-theme-secondary-button-label = ہݨ کائناں
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = نظام تھیم
