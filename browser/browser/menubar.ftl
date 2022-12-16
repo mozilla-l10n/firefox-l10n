@@ -221,8 +221,8 @@ menu-history-undo-menu =
     .label = Нядаўна закрытыя карткі
 menu-history-undo-window-menu =
     .label = Нядаўна закрытыя вокны
-menu-history-reopen-all-tabs = Пераадкрыць усе карткі
-menu-history-reopen-all-windows = Пераадкрыць усе вокны
+menu-history-reopen-all-tabs = Паўторна адкрыць усе карткі
+menu-history-reopen-all-windows = Паўторна адкрыць усе вокны
 
 ## Bookmarks Menu
 

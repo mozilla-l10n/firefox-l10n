@@ -193,8 +193,8 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = Кіраванне гісторыяй
-appmenu-reopen-all-tabs = Пераадкрыць усе карткі
-appmenu-reopen-all-windows = Пераадкрыць усе вокны
+appmenu-reopen-all-tabs = Паўторна адкрыць усе карткі
+appmenu-reopen-all-windows = Паўторна адкрыць усе вокны
 appmenu-restore-session =
     .label = Аднавіць папярэдні сеанс
 appmenu-clear-history =
