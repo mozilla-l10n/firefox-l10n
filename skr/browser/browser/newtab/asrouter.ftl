@@ -82,6 +82,14 @@ cfr-whatsnew-release-notes-link-text = اجرائی نوٹس پڑھو
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } <b>{ $blockedCount }</b> ٹریکر کوں { DATETIME($date, month: "long", year: "numeric") } کنوں بلاک کر ݙتا ڳیا!
+       *[other] { -brand-short-name } <b>{ $blockedCount }</b> ٹریکرز کوں { DATETIME($date, month: "long", year: "numeric") } کنوں بلاک کر ݙتا ڳیا!
+    }
 cfr-doorhanger-milestone-ok-button = تمام ݙیکھو
     .accesskey = S
 cfr-doorhanger-milestone-close-button = بند کرو
@@ -89,6 +97,7 @@ cfr-doorhanger-milestone-close-button = بند کرو
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = زیادہ محفوظ، ڳُجھی DNS تلاش
 cfr-doorhanger-doh-primary-button-2 = ٹھیک ہے
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = غیر فعال
@@ -121,6 +130,8 @@ spotlight-learn-more-expanded = ٻیا سکھو
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = ایویں لڳدا ہے جو تساں عوامی Wi-Fi استعمال کریندے پئے او۔
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } نال پرائیویٹ رہو
     .accesskey = S
 spotlight-public-wifi-vpn-link = ہݨ نہ
@@ -128,6 +139,10 @@ spotlight-public-wifi-vpn-link = ہݨ نہ
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header = ساݙے سبھ توں تکڑے ٹیسٹ پائلٹ رازداری دا تجربہ کرو
+spotlight-total-cookie-protection-body = ٹوٹل کوکی پروٹیکشن ٹریکز کوں کوکیز استعمال کرݨ کنوں روکیندا ہے تاں جو تہاکوں ویب تے چھمکاں لڳن۔
 spotlight-total-cookie-protection-primary-button = ٹوٹل کوکی تحفظ چالو کرو
 spotlight-total-cookie-protection-secondary-button = ہݨ کائناں
 cfr-total-cookie-protection-header = تہاݙا شکریہ، { -brand-short-name } پہلے کنوں ٻہوں نجی تے محفوظ ہے
@@ -135,6 +150,7 @@ cfr-total-cookie-protection-header = تہاݙا شکریہ، { -brand-short-name
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = تہاݙے نال ہک بہتر انٹرنیٹ شروع تھیندا پئے
+spotlight-peace-mind-header = اساں تہاکوں ویڑھ گھدا ہے۔
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] ڈاک اِچ رہو
@@ -155,6 +171,8 @@ spotlight-pin-secondary-button = ہݨ کائناں
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = نواں { -brand-short-name }۔ زیادہ نجی۔ گھٹ ٹریکرز۔ کوئی سمجھوتہ کائنی۔
+mr2022-background-update-toast-text = ہݨیں نویں نکور { -brand-short-name } کوں ازماؤ، جیڑھا ہݨ تک اساݙے مضبوط ترین اینٹی ٹریکنگ تحفظ دے نال اپ گریڈ کیتا ڳیا ہے۔
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -173,7 +191,9 @@ firefoxview-cfr-primarybutton = اینکوں ازماؤ
 firefoxview-cfr-secondarybutton = ہݨ کائناں
     .accesskey = N
 firefoxview-cfr-header = { -firefoxview-brand-name } نال حالیہ بند ٹیبز دوبارہ حاصل کرو
+firefoxview-cfr-body = ایندے علاوہ بغیر کہیں رکاوٹ دے آلات دے درمیان ہاپ کرو تے اپݨے براؤزر وِچ رنگاں دی ہک چمک شامل کرو۔
 firefoxview-cfr-header-v2 = تکھاجی نال اتھاؤں چاؤ جتھاں تساں چھوڑیا ہا
+firefoxview-cfr-body-v2 = حالیہ بند ٹیباں کوں ولدا حاصل کرو۔ نال { -firefoxview-brand-name } والے آلات دے درمیان بغیر کہیں رکاوٹ دے ہاپ کرو۔
 
 ## Firefox View Spotlight
 

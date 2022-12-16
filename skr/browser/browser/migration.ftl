@@ -56,6 +56,7 @@ import-from-360se =
 import-from-opera-gx =
     .label = اوپرا جی ایکس
     .accesskey = G
+no-migration-sources = کوئی وی پروگرام جیندے وِچ نشانیاں، تاریخ یا پاس ورڈ دا ڈیٹا موجود ہووے نئیں مل سڳدا۔
 import-source-page-title = سیٹنگز تے کوائف درآمد کرو
 import-items-page-title = درآمد کرݨ دیاں چیزاں
 import-items-description = درآمد کرݨ کیتے شئیں منتخب کرو:
