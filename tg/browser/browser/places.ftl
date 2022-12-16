@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = Ин сомона фаром�
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ин амал ҳамаи маълумоти марбут ба { $hostOrBaseDomain }, аз он ҷумла таърих, ниҳонвожаҳо, кукиҳо, зерҳофиза ва афзалиятҳои муҳтаворо нест мекунад. Шумо мутмаин ҳастед, ки мехоҳед идома диҳед?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Ин амал ҳамаи маълумоти марбут ба { $hostOrBaseDomain }, аз он ҷумла таърих, кукиҳо, зерҳофиза ва хусусиятҳои муҳтаворо нест мекунад. Хатбаракҳо ва ниҳонвожаҳои марбут нест карда намешаванд. Шумо мутмаин ҳастед, ки мехоҳед идома диҳед?
 places-forget-about-this-site-forget = Фаромӯш кардан
 places-library =
     .title = Китобхона
