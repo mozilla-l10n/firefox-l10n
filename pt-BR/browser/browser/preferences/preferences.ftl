@@ -654,7 +654,7 @@ containers-remove-button =
 sync-signedout-caption = Leve a web com você
 sync-signedout-description2 = Sincronize seus favoritos, histórico, abas, senhas, extensões e configurações entre todos os seus dispositivos.
 sync-signedout-account-signin3 =
-    .label = Entrar para sincronizar…
+    .label = Entrar na conta para sincronizar…
     .accesskey = E
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
