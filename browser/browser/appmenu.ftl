@@ -139,12 +139,17 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Վեբ մշակող
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = Գրաֆիկա
 profiler-popup-presets-media-label =
     .label = Մեդիա
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Հոսանք
 profiler-popup-presets-custom-label =
     .label = Ընտրված
 
@@ -153,6 +158,7 @@ profiler-popup-presets-custom-label =
 appmenu-manage-history =
     .label = Կառավարեք պատմությունը
 appmenu-reopen-all-tabs = Վերաբացեք բոլոր ներդիրները
+appmenu-reopen-all-windows = Վերաբացեք բոլոր պատուհանները
 appmenu-restore-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
 appmenu-clear-history =
