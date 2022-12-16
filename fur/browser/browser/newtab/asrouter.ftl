@@ -214,6 +214,8 @@ firefoxview-cfr-body-v2 = Recupere lis schedis sieradis di resint e passe in mû
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ti presentìn { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Ti coventie propite chê schede sul to telefonin? Recuperile al svol. Âstu bisugne di un sît che tu âs apene visitât? Velu, tornât cun { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Viôt cemût che al funzione
 firefoxview-spotlight-promo-secondarybutton = Salte
 
