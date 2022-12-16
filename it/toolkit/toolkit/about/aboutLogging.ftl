@@ -23,3 +23,13 @@ about-logging-new-log-modules = Nuovi moduli di registrazione:
 about-logging-logging-output-selection = Output registrazione
 about-logging-logging-to-file = Registrazione in un file
 about-logging-no-log-modules = Nessuno
+about-logging-logging-preset-selector-text = Impostazioni predefinite di registrazione:
+
+## Logging presets
+
+about-logging-preset-networking-label = Rete
+about-logging-preset-networking-description = Moduli di registrazione per diagnosticare problemi di rete
+about-logging-preset-media-playback-label = Riproduzione file multimediali
+about-logging-preset-media-playback-description = Moduli di registrazione per diagnosticare problemi con la riproduzione di file multimediali (non relativi ad applicazioni di videoconferenza)
+about-logging-preset-custom-label = Personalizzate
+about-logging-preset-custom-description = Moduli di registrazione selezionati manualmente
