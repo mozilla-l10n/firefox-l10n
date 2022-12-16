@@ -194,11 +194,28 @@ newtab-empty-section-highlights = برائوزنگ شروع کرو، تے اسا
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = تساں وٹھیج پئے او!
+newtab-discovery-empty-section-topstories-content = ودھیک کہانیاں کیتے بعد اِچ دوبارہ پڑتال کریجو ۔
+newtab-discovery-empty-section-topstories-try-again-button = ولدا کوشش کرو
+newtab-discovery-empty-section-topstories-loading = لوڈ تھیندا پئے۔۔۔
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = اوہو! اساں ایں حصے کوں لڳ بھڳ لوڈ کر ݙتا ہے، پر سالم کینا۔
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = مشہور مضامین:
+newtab-pocket-new-topics-title = ودھیک کہانیاں چاہندے او؟ { -pocket-brand-name } کنوں ایہ مقبول موضوعات ݙیکھو
+newtab-pocket-more-recommendations = ودھیک سفارشاں
 newtab-pocket-learn-more = ٻیا سِکھو
 newtab-pocket-cta-button = { -pocket-brand-name } گھنو
+newtab-pocket-cta-text = اپݨیاں من بھاندیاں کہانیاں { -pocket-brand-name } اِچ ہتھیکڑیاں کرو، تے شاندار پڑھݨ نال اپݨے چیتے کوں تکڑا کرو۔
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } حصہ ہے { -brand-product-name } ٹٻر دا
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = { -pocket-brand-name } تے ہتھیکڑا کرو
+newtab-pocket-saved-to-pocket = { -pocket-brand-name } وچ محفوظ تھیا
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = ودھیک کہانیاں لوڈ کرو۔
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.

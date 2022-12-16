@@ -205,6 +205,9 @@ firefoxview-spotlight-promo-secondarybutton = چھوڑو
 
 colorways-cfr-primarybutton = کلر وے دا انتخاب کرو
     .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = اپݨے براؤزر کوں { -brand-short-name } خصوصی جھاں دے نال رنگیل کرو جیڑھا ثقافت کوں تبدیل کرݨ والیاں آوازاں کنوں متاثر ہووے۔
+colorways-cfr-header-28days = آزاد آوازاں کلر ویز دی میعاذ 16 جنوری کوں مُکدی پئی ہے۔
 colorways-cfr-header-14days = آزاد آوازاں کلر ویز دی معیاد ݙو ہفتے وِچ مکدی پئی اے
 colorways-cfr-header-7days = آزاد آوازاں کلر ویز دی معیاد ایں ہفتے مکدی پئی اے
 colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد اڄ مکدی پئی اے
