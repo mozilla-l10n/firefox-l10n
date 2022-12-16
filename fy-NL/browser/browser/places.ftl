@@ -115,6 +115,9 @@ places-forget-about-this-site-confirmation-title = Dizze website ferjitte
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Mei dizze aksje wurde alle gegevens mei betrekking ta { $hostOrBaseDomain } fuortsmiten, ynklusyf skiednis, wachtwurden, cookies, buffer en ynhâldsfoarkarren. Binne jo wis dat jo troch gean wolle?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Mei dizze aksje wurde gegevens mei betrekking ta { $hostOrBaseDomain } fuortsmiten, ynklusyf skiednis, cookies, buffer en ynhâldsfoarkarren. Relatearre blêdwizers en wachtwurden wurde net fuortsmiten. Binne jo wis dat jo troch gean wolle?
 places-forget-about-this-site-forget = Ferjitte
 places-library =
     .title = Biblioteek
