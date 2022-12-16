@@ -11,7 +11,7 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
-toolbox-meatball-menu-dock-bottom-label = Прыстыкаваць унізе
+toolbox-meatball-menu-dock-bottom-label = Замацаваць унізе
 toolbox-meatball-menu-dock-left-label = Замацаваць злева
 toolbox-meatball-menu-dock-right-label = Замацаваць справа
 toolbox-meatball-menu-dock-separate-window-label = Асобнае акно
@@ -42,10 +42,6 @@ toolbox-mode-parent-process-label = Толькі бацькоўскі працэ
 toolbox-mode-parent-process-sub-label = (Хутка)
 toolbox-mode-parent-process-container =
     .title = Засяродзьцеся толькі на рэсурсах з бацькоўскага працэсу.
-toolbox-always-on-top-enabled =
-    .title = Адключыць "заўсёды наверсе" (Гэта прывядзе да перазапуску інструментаў распрацоўшчыка)
-toolbox-always-on-top-disabled =
-    .title = Уключыць "заўсёды наверсе" (гэта прывядзе да перазапуску інструментаў распрацоўшчыка)
 toolbox-always-on-top-enabled2 = Адключыць заўсёды зверху
     .title = Гэта перазапусціць інструменты распрацоўшчыка
 toolbox-always-on-top-disabled2 = Уключыць заўсёды зверху
