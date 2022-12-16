@@ -8,22 +8,18 @@ password-quality-meter = Wachtwoordkwaliteitsmeter
 
 change-device-password-window =
     .title = Wachtwoord wijzigen
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Beveiligingsapparaat: { $tokenName }
 change-password-old = Huidige wachtwoord:
 change-password-new = Nieuw wachtwoord:
 change-password-reenter = Nieuw wachtwoord (nogmaals):
-
 pippki-failed-pw-change = Kan hoofdwachtwoord niet wijzigen.
 pippki-incorrect-pw = U hebt niet het juiste huidige hoofdwachtwoord ingevoerd. Probeer het opnieuw.
 pippki-pw-change-ok = Wachtwoord met succes gewijzigd.
-
 pippki-pw-empty-warning = Uw opgeslagen wachtwoorden en privésleutels zullen niet worden beschermd.
 pippki-pw-erased-ok = U hebt uw hoofdwachtwoord verwijderd. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Waarschuwing! U hebt besloten geen hoofdwachtwoord te gebruiken. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = U bent momenteel in FIPS-modus. FIPS vereist een ingesteld hoofdwachtwoord.
 
 ## Reset Primary Password dialog
@@ -31,14 +27,12 @@ pippki-pw-change2empty-in-fips-mode = U bent momenteel in FIPS-modus. FIPS verei
 reset-primary-password-window =
     .title = Hoofdwachtwoord opnieuw instellen
     .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Hoofdwachtwoord opnieuw instellen
     .style = min-width: 40em
 reset-password-button-label =
     .label = Herinitialiseren
 reset-primary-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?
-
 pippki-reset-password-confirmation-title = Hoofdwachtwoord opnieuw instellen
 pippki-reset-password-confirmation-message = Uw hoofdwachtwoord is opnieuw ingesteld
 
@@ -47,7 +41,6 @@ pippki-reset-password-confirmation-message = Uw hoofdwachtwoord is opnieuw inges
 download-cert-window =
     .title = Certificaat downloaden
     .style = width: 46em
-
 download-cert-window2 =
     .title = Certificaat downloaden
     .style = min-width: 46em
@@ -86,3 +79,9 @@ protected-auth-window =
     .title = Beschermde tokenauthenticatie
 protected-auth-msg = Authenticeer bij het token. Authenticatiemethode hangt af van het type van uw token.
 protected-auth-token = Token:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Authenticeer bij het token ‘{ $tokenName }’. Hoe u dit doet, hangt af van het token (bijvoorbeeld met behulp van een vingerafdruklezer of het invoeren van een code met een toetsenbord).
