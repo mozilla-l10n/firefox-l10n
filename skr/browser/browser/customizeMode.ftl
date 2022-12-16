@@ -20,6 +20,7 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = ٹچ
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = ٹیبلیٹ موڈ کیتے ٹچ استعمال کرو
+customize-mode-overflow-list-description = چیزاں کوں آپݨی پہنچ دے اندر پر تہاݙے ٹول بار کنوں ٻاہر رکھݨ کیتے اتھاں گھیلو تے سٹو …
 customize-mode-uidensity-menu-normal =
     .label = عام
     .accesskey = N

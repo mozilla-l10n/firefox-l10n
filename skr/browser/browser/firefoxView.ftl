@@ -32,17 +32,24 @@ firefoxview-tabpickup-synctabs-description = ڈیوائسز دے درمیان ٹ
 firefoxview-tabpickup-synctabs-learn-how = ڄاݨو کیویں
 firefoxview-tabpickup-synctabs-primarybutton = کھلیاں ٹیبز ہم وقت کرو
 firefoxview-tabpickup-fxa-admin-disabled-header = تہاݙی تنظیم ہم وقت کرݨ غیر فعال کر ݙتا ہے
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } آلات دے درمیان ٹیباں دی مطابقت پذیری دے قابل کائنی کیوں جو تہاݙے منتظم مطابقت پذیری کوں غیر فعال کر ݙتا ہے۔
 firefoxview-tabpickup-network-offline-header = اپݨا انٹرنیٹ کنکشن چیک کرو
+firefoxview-tabpickup-network-offline-description = جے تساں فائر وال یا پراکسی استعمال کریندے پئے او تاں چیک کرو جو { -brand-short-name } کوں ویب تک رسائی دی اجازت ہے۔
 firefoxview-tabpickup-network-offline-primarybutton = ولدا کوشش کرو
 firefoxview-tabpickup-sync-error-header = اساکوں ہم وقت کرݨ وچ اوکھ آندی پئی ہے
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ہݨ سینک دی سروس تک نئیں پڄ سڳدا۔ کجھ پل بعد ولدا کوشش کرو۔
 firefoxview-tabpickup-sync-error-primarybutton = ولدا کوشش کرو
 firefoxview-tabpickup-sync-disconnected-header = جاری رکھݨ کیتے ہم وقت کرݨ چالو کرو
 firefoxview-tabpickup-sync-disconnected-description = اپݨے ٹیبز حاصل کرݨ کیتے، تہاکوں { -brand-short-name } وِچ ہم وقت کرݨ دی اجازت ݙیوݨ دی ضرورت پوسے
 firefoxview-tabpickup-sync-disconnected-primarybutton = ترتیباں وِچ ہم وقت کرݨ چالو کرو
 firefoxview-tabpickup-password-locked-header = ٹیبز ݙیکھݨ کیتے اپݨا منڈھلا پاس ورڈ درج کرو
+firefoxview-tabpickup-password-locked-description = اپݨیاں ٹیباں کوں حاصل کرݨ کیتے، تہاکوں { -brand-short-name } کیتے منڈھلا پاس ورڈ درج کرݨ دی ضرورت پوسے۔
 firefoxview-tabpickup-password-locked-link = ٻیا سِکھو
 firefoxview-tabpickup-password-locked-primarybutton = منڈھلا پاس ورڈ داخل کرو
+firefoxview-tabpickup-signed-out-header = ولدا کنکٹ کرݨ کیتے سائن ان تھیوو
+firefoxview-tabpickup-signed-out-description = اپݨیاں ٹیباں کوں ولدا جوڑݨ تے پکڑݨ کیتے، اپݨے { -fxaccount-brand-name } وِچ سائن ان کرو۔
 firefoxview-tabpickup-signed-out-primarybutton = سائن ان
+firefoxview-tabpickup-syncing = جݙاں تہاݙیاں ٹیباں سینک تھیندیاں پیاں ہوون تا ٹِک تے ٻہو۔ ایہ صرف لحظے کیتے ہوسے۔
 firefoxview-mobile-promo-header = اپݨے فون یا ٹیبلٹ کنوں ٹیبز حاصل کرو
 firefoxview-mobile-promo-description = اپݨے نویں نکور موبائل ٹیبز ݙیکھݨ کیتے، iOS یا انڈرائڈ تے { -brand-product-name } وِچ سائن اِن تھیوو۔
 firefoxview-mobile-promo-primarybutton = موبائل کیتے { -brand-product-name } حاصل کرو
@@ -52,6 +59,10 @@ firefoxview-closed-tabs-title = حالیہ بند تھیاں
 firefoxview-closed-tabs-description2 = او ورقے دوبارہ کھولو جیڑھے تساں ایں ونڈو وچ بند کر ݙتے ہن۔
 firefoxview-closed-tabs-placeholder-header = حالیہ بند ٹیبز کوئی کائنی
 firefoxview-closed-tabs-placeholder-body = جݙاں تساں ایں ونڈو وِچ ہک ٹیب بند کریندے او، تساں اینکوں اتھوں چھِک سڳدے او۔
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = ویندا کرو { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = آخری فعال
 # Variables:
@@ -66,6 +77,7 @@ firefoxview-change-colorway-button = کلر وے تبدیل کرو
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = ہالی ݙیکھݨ کیتے کجھ کائنی
+firefoxview-synced-tabs-placeholder-body = اڳلی واری جݙاں تساں کہیں ٻئے آلے تے { -brand-product-name } وِچ ورقہ کھولو، توں اونکوں ٹھک جادو وانگوں اتھاں پکڑو۔
 firefoxview-collapse-button-show =
     .title = تندیر ݙکھاؤ
 firefoxview-collapse-button-hide =

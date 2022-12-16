@@ -322,12 +322,20 @@ menu-help-more-troubleshooting-info =
     .accesskey = T
 menu-help-report-site-issue =
     .label = سائٹ مسئلہ رپورٹ کرو …
+menu-help-share-ideas =
+    .label = خیالات تاثرات دی سانجھ کرو …
+    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = ٹربل شوٹ موڈ …
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = ٹربل شوٹ موڈ بند کرو
     .accesskey = M
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = گمراہ کن سائٹ دی اطلاع ݙیو …
+    .accesskey = D
 menu-help-not-deceptive =
     .label = اے فریبی سائٹ کائنی …
     .accesskey = D

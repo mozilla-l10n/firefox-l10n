@@ -34,3 +34,5 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword-2 =
     .value = کلیدی لفظ
     .accesskey = K
+bookmark-overlay-tags-caption-label = ایڈریس بار کنوں نشانیاں کوں ترتیب تے ڳولݨ کیتے ٹیگ استعمال کرو۔
+bookmark-overlay-keyword-caption-label-2 = ایڈریس بار کنوں براہ راست نشانیاں کھولݨ کیتے ہک کلیدی لفظ استعمال کرو۔
