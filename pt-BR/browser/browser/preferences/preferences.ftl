@@ -35,7 +35,7 @@ category-search =
 pane-privacy-title = Privacidade e Segurança
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-pane-sync-title3 = Sync
+pane-sync-title3 = Sincronização
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Experimentos do { -brand-short-name }
@@ -1001,6 +1001,9 @@ content-blocking-fingerprinters = Fingerprinters (rastreadores de identidade dig
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Ser piloto de teste do mais poderoso recurso de privacidade que já fizemos
     .accesskey = S
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = A proteção total contra cookies isola os cookies do site em que você está, assim os rastreadores não conseguem usá-los para te seguir de um site para outro.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saiba mais
