@@ -223,3 +223,9 @@ firefoxview-spotlight-promo-secondarybutton = Salte
 
 colorways-cfr-primarybutton = Sielç une tonalitât
     .accesskey = S
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Colore il to navigadôr cu lis esclusivis sfumaduris di { -brand-short-name } ispiradis aes vôs che a cambiin la societât.
+colorways-cfr-header-28days = Lis tonalitâts des vôs indipendentis a scjadin ai 16 di Zenâr
+colorways-cfr-header-14days = Lis tonalitâts des vôs indipendentis a scjadin chi di dôs setemanis
+colorways-cfr-header-7days = Lis tonalitâts des vôs indipendentis a scjadin cheste setemane
+colorways-cfr-header-today = Lis tonalitâts des vôs indipendentis a scjadin vuê

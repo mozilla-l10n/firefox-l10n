@@ -274,6 +274,8 @@ mr2022-onboarding-secondary-skip-button-label = Salte chest passaç
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Scuvierç lis maraveis di internet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Invie { -brand-short-name } di dulà che tu vûs cuntun sempliç clic. Ogni volte che tu li fasis tu stâs sielzint un web plui viert e indipendent.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
