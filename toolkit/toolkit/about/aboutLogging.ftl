@@ -12,3 +12,4 @@ about-logging-set-log-file = Imposta file di log
 about-logging-set-log-modules = Imposta moduli di log
 about-logging-start-logging = Avvia registrazione
 about-logging-stop-logging = Interrompi registrazione
+about-logging-buttons-disabled = Registrazione disattivata tramite variabile d’ambiente, configurazione dinamica non disponibile.
