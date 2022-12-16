@@ -27,6 +27,8 @@ return-to-amo-add-theme-label = Zonte il teme
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Ti presentìn { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Zonte { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -42,6 +44,8 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = Avanzament: pas { $current } di { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -226,6 +230,8 @@ mr2-onboarding-start-browsing-button-label = Scomence a navigâ
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Sielç la tô lenghe
+mr2022-onboarding-live-language-text = { -brand-short-name } al fevele la tô lenghe
+mr2022-language-mismatch-subtitle = In graciis de nestre comunitât, { -brand-short-name } al è voltât in plui di 90 lenghis. Al somee che il to sisteme al dopri il { $systemLanguage } e { -brand-short-name } al sta doprant il { $appLanguage }.
 onboarding-live-language-button-label-downloading = Daûr a discjamâ il pachet de lenghe par { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Daûr a otignî lis lenghis disponibilis…
 onboarding-live-language-installing = Daûr a instalâ il pachet des lenghis par { $negotiatedLanguage }…

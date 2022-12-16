@@ -206,10 +206,14 @@ firefoxview-cfr-primarybutton = Provilu
     .accesskey = P
 firefoxview-cfr-secondarybutton = No cumò
     .accesskey = N
+firefoxview-cfr-header = Ripie lis schedis sieradis di resint cun { -firefoxview-brand-name }
+firefoxview-cfr-body = In plui, passe cence fastidis di un dispositîf a chel altri e da une man di colôr al to navigadôr.
+firefoxview-cfr-header-v2 = Intun lamp ripie di dulà che tu jeris restât
+firefoxview-cfr-body-v2 = Recupere lis schedis sieradis di resint e passe in mût svelt di un dispositîf a chel altri cun { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
-firefoxview-spotlight-promo-title = Dîs mandi a { -firefoxview-brand-name }
+firefoxview-spotlight-promo-title = Ti presentìn { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = Viôt cemût che al funzione
 firefoxview-spotlight-promo-secondarybutton = Salte
 
