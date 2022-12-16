@@ -150,6 +150,7 @@ cfr-total-cookie-protection-header = تہاݙا شکریہ، { -brand-short-name
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = تہاݙے نال ہک بہتر انٹرنیٹ شروع تھیندا پئے
+spotlight-better-internet-body = جݙاں تساں { -brand-short-name } استعمال کریندے او، تاں تساں ہک کھلے تے قابل رسائی انٹرنیٹ کیتے ووٹ ݙیندے او جیڑھا سبھ کیتے بہتر ہووے۔
 spotlight-peace-mind-header = اساں تہاکوں ویڑھ گھدا ہے۔
 spotlight-pin-primary-button =
     { PLATFORM() ->
@@ -198,6 +199,8 @@ firefoxview-cfr-body-v2 = حالیہ بند ٹیباں کوں ولدا حاصل 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name } نال سلام دعا کرو
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = اپݨے فون تے او کھلا ٹیب چاہندے ہن؟ ایندے اُتے قبضہ کرو۔ ایں سائٹ دی لوڑ ہے جیڑھی تساں ہݨیں ݙٹھی ہے؟ Poof ایہ { -firefoxview-brand-name } دے نال واپس آ ڳیا ہے۔
 firefoxview-spotlight-promo-primarybutton = ݙیکھو اے کیویں کم کریندے
 firefoxview-spotlight-promo-secondarybutton = چھوڑو
 
