@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = 清除此网站相关信息
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = 此操作将移除与 { $hostOrBaseDomain } 相关的所有数据，包括历史记录、密码、Cookie、缓存和内容首选项。您确定要继续吗？
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = 此操作将移除与 { $hostOrBaseDomain } 相关的数据，包括历史记录、Cookie、缓存和内容首选项。书签和密码将会保留。您确定要继续吗？
 places-forget-about-this-site-forget = 清除
 places-library =
     .title = 我的足迹
