@@ -282,30 +282,42 @@ quickactions-addons = Ammustra is cumplementos
 quickactions-cmd-addons2 = cumplementos
 # Opens the bookmarks library window
 quickactions-bookmarks = Ammustra is sinnalibros
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Gesti is sinnalibros
 quickactions-cmd-bookmarks = sinnalibros
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Isbòida sa cronologia
 quickactions-cmd-clearhistory = isbòida sa cronologia
 # Opens about:downloads page
 quickactions-downloads = Aberi is iscarrigamentos
+# Opens about:downloads page
+quickactions-downloads2 = Ammustra is iscarrigamentos
 quickactions-cmd-downloads = iscarrigamentos
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gesti is estensiones
 quickactions-cmd-extensions = estensiones
 # Opens the devtools web inspector
 quickactions-inspector = Aberi s'analizadore
+# Opens the devtools web inspector
+quickactions-inspector2 = Aberis is ainas de isvilupu
 quickactions-cmd-inspector = analizadore, devtools
 # Opens about:logins
 quickactions-logins = Ammustra is credentziales
+# Opens about:logins
+quickactions-logins2 = Gesti is craes
 quickactions-cmd-logins = credentziales, craes
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gesti is plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprenta
+# Opens the print dialog
+quickactions-print2 = Imprenta sa pàgina
 quickactions-cmd-print = imprenta
 # Opens a new private browsing window
 quickactions-private = Aberi una ventana de navigatzione privada
+# Opens a new private browsing window
+quickactions-private2 = Aberi una ventana privada
 quickactions-cmd-private = navigatzione privada
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Torra { -brand-short-name } a sa cunfiguratzione predefinida
@@ -315,9 +327,13 @@ quickactions-restart = Torra a aviare { -brand-short-name }
 quickactions-cmd-restart = torra a aviare
 # Opens the screenshot tool
 quickactions-screenshot2 = Faghe una catura de s'ischermu
+# Opens the screenshot tool
+quickactions-screenshot3 = Faghe una catura de s'ischermu
 quickactions-cmd-screenshot = Catura de s'ischermu
 # Opens about:preferences
 quickactions-settings = Aberi is cunfiguratziones
+# Opens about:preferences
+quickactions-settings2 = Gesti sa cunfiguratzione
 quickactions-cmd-settings = cunfiguratziones, preferèntzias, optziones
 # Opens about:addons page in the themes section
 quickactions-themes = Gesti is temas
@@ -327,6 +343,8 @@ quickactions-update = Atualiza { -brand-short-name }
 quickactions-cmd-update = atualiza
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ammustra su còdighe
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Visualiza su còdighe de sa pàgina
 quickactions-cmd-viewsource = ammustra su còdighe, còdighe
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
