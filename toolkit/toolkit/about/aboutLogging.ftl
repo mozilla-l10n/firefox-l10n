@@ -39,6 +39,7 @@ about-logging-logging-output-selection = Output registrazione
 about-logging-logging-to-file = Registrazione in un file
 about-logging-logging-to-profiler = Registrazione in { -profiler-brand-name }
 about-logging-no-log-modules = Nessuno
+about-logging-no-log-file = Nessuno
 about-logging-logging-preset-selector-text = Preset di registrazione:
 
 ## Logging presets
