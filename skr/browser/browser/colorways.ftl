@@ -6,6 +6,7 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = آزاد آوازاں
+colorway-collection-independent-voices-description = رنگ ثقافت کوں بدل سڳدا ہے۔ تازہ ترین کلر ویز دنیا کوں ہک بہتر جاہ بݨاوݨ والیاں آوازاں دا جشن منیندے ہن۔
 # Used as a subheading for the colorway collection card in about:addons
 colorway-collection-independent-voices-short-description = رنگ جیڑھے ثقافت تبدیل کریندن
 

@@ -357,6 +357,19 @@ bookmarks-edit-bookmark = نشانی وچ تبدیلی کرو
 bookmark-panel-cancel =
     .label = منسوخ کرو
     .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] نشانی مٹاؤ
+            [one] { "" }
+           *[other] { $count } نشانیاں مٹاؤ
+        }
+    .accesskey = R
+bookmark-panel-show-editor-checkbox =
+    .label = ہتھیکڑا کریندے ویلھے ایڈیٹر ݙکھاؤ
+    .accesskey = S
 bookmark-panel-save-button =
     .label = محفوظ
 
@@ -376,6 +389,7 @@ identity-connection-internal = اے ہک قابل بھروسا { -brand-short-na
 identity-connection-file = اے صفحہ تہاݙے کمپیوٹر اِچ سوگھا ہے۔
 identity-extension-page = اے صفحہ ایکسٹینشن کنوں لوڈ کیتا ڳیا ہے۔
 identity-active-blocked = { -brand-short-name } ایں صفحے دے او حصے بلاک کر ݙتے ہن جیڑھے قابل بھروسا کائنی۔
+identity-custom-root = ہک سرٹیفکیٹ جاری کرݨ والے دے ذریعہ تصدیق شدہ کنکشن جیڑھا Mozilla دے ذریعے تسلیم شدہ کائنی۔
 identity-passive-loaded = ایں صفحے دے حصے قابل بھروسا کائنی (جیویں جو تصویراں)۔
 identity-active-loaded = تساں ایں صفحے تے حفاظت غیر فعال کر ݙتی ہے
 identity-weak-encryption = اے صفحہ کمزور خفیہ کاری استعمال کریندا ہے
@@ -388,7 +402,10 @@ identity-https-only-dropdown-off =
     .label = بند
 identity-https-only-dropdown-off-temporarily =
     .label = عارضی طور تے بندکرو
+identity-https-only-info-turn-on2 = جے تساں چاہندے او جو { -brand-short-name } جݙاں ممکن ہووے تاں کنکشن کوں اپ گریڈ کرݨ چاہندے او تاں ایں سائٹ کیتے HTTPS-Only Mode کوں آن کرو۔
+identity-https-only-info-no-upgrade = HTTP کنوں کنکشن اپ گریڈ کرݨ کنوں قاصر ہے۔
 identity-permissions-storage-access-header = کراس سائٹ کوکیاں
+identity-permissions-storage-access-hint = جݙاں تساں ایں سائٹ تے ہوو تاں ایہ فریق کراس سائٹ کوکیز تے سائٹ دا ڈیٹا استعمال کر سڳدے ہن۔
 identity-permissions-storage-access-learn-more = ٻیا سِکھو
 identity-permissions-reload-hint = تبدیلی نافذ کرݨ کیتے تہاکوں شیئت صفحہ کوں ولا لوݙ کرݨ دی لوڑ پووے۔
 identity-clear-site-data =
@@ -399,6 +416,7 @@ identity-ev-owner-label = تصدیق نانواں جاری کیتا ڳیا:
 identity-remove-cert-exception =
     .label = استثنا ہٹاؤ
     .accesskey = R
+identity-description-insecure-login-forms = ایں ورقے تے تساں جیڑھا لاگ ان معلومات داخل کریندے او تاں او محفوظ کائنی تے ایندے نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 identity-description-weak-cipher-intro = ایں ویب سائٹ تے تہاݙا کنکشن کمزور خفیہ انکریپشن استعمال کریندا ہے جیڑھا جو نجی کائنی
 identity-description-weak-cipher-risk = ٻئے لوک تہاݙی معلومات ݙیکھ سڳدے ہن یا ویب سائٹ دا رویہ بدال سڳدے ہن۔
 identity-description-active-blocked = { -brand-short-name }  ایں ورقے دے او حصے بلاک کر ݙتے ہن جیڑھے جو قابل بھروسا کائنی۔ <label data-l10n-name="link">ودھیک سیکھو</label>
@@ -467,6 +485,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = بک مارکس درآمد کرو …
     .tooltiptext = ٻئے بروزر کنوں { -brand-short-name } تے بک مارک درآمد کرو
+bookmarks-toolbar-empty-message = فوری پوڄ کیتے، اپݨیاں نشانیاں کوں اتھاں بک مارکس ٹول بار تے رکھو ۔ <a data-l10n-name="manage-bookmarks"> تے </a> نشانیاں دا بندوبست کرو۔
 
 ## WebRTC Pop-up notifications
 
@@ -666,6 +685,10 @@ pointerlock-warning-no-domain = ایں دستاویز دے کول تہاݙے پ�
 
 ## Subframe crash notification
 
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = ایں ورقے دا کجھ حصہ کریش کر ڳیا ہے۔ { -brand-product-name } کوں ایں مسئلے دے بارے وِچ ݙساوݨ تے اینکوں تکھاجی نال حل کرݨ کیتے، براہ کرم ہک رپورٹ جمع کرواؤ۔
 crashed-subframe-learnmore-link =
     .value = ٻیا سِکھو
 crashed-subframe-submit =
@@ -801,6 +824,7 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing = ایں سائٹ تے کجھ آڈیو یا وڈیو DRM سافٹ ویئر استعمال کریندیاں ہن جیندی وجہ توں جیڑھا { -brand-short-name } ایندے نال تہاکوں کرݨ ݙیسے، ایندے اُتے کجھ حداں ہوسن۔
 eme-notifications-drm-content-playing-manage = ترتیباں دا بندوبست کرو
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = فارغ کرو
@@ -904,6 +928,7 @@ restore-session-startup-suggestion-button = میکوں ݙکھاؤ کیویں
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } آپوں ڄاݨ کجھ ڈیٹا { -vendor-short-name } کوں پٹھیندا ہے تاں جو اساں تہاݙے تجربے کوں بہتر بݨا سڳوں۔
 data-reporting-notification-button =
     .label = چݨو میں کیا شیئر کرینداں
     .accesskey = C
