@@ -11,6 +11,8 @@
 
 ## Inspector section
 
+# The heading
+options-context-inspector = ਨਿਰੀਖਕ
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ਬਰਾਊਜ਼ਰ ਅੰਦਾਜ ਵਿਖਾਓ
 
