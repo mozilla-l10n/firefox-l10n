@@ -110,11 +110,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Ստանալ օգնություն
 urlbar-search-tips-confirm = Հասկանալի է։
+urlbar-search-tips-confirm-short = Հասկացա
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Հուշում.
+urlbar-result-menu-button =
+    .title = Բացել ցանկը
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -246,6 +249,8 @@ quickactions-clearhistory = Մաքրել պատմությունը
 quickactions-cmd-clearhistory = մաքրել պատմությունը
 # Opens about:downloads page
 quickactions-downloads = Բացել Ներբեռնումները
+# Opens about:downloads page
+quickactions-downloads2 = Ցուցադրել ներբեռնումները
 quickactions-cmd-downloads = ներբեռնումներ
 # Opens about:addons page in the extensions section
 quickactions-extensions = Կառավարել ընդլայնումները
@@ -255,9 +260,13 @@ quickactions-inspector = Բացել տեսուչը
 quickactions-cmd-plugins = բաղադրիչներ
 # Opens the print dialog
 quickactions-print = Տպել
+# Opens the print dialog
+quickactions-print2 = Տպել էջը
 quickactions-cmd-print = տպել
 # Opens a new private browsing window
 quickactions-private = Բացել Գաղտնի դիտարկման պատուհանը
+# Opens a new private browsing window
+quickactions-private2 = Սկսել Գաղտնի դիտարկում
 quickactions-cmd-private = գաղտնի դիտարկում
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Թարմացնել { -brand-short-name }-ը
@@ -267,9 +276,13 @@ quickactions-restart = Վերամեկնարկել { -brand-short-name }-ը
 quickactions-cmd-restart = վերամեկնարկել
 # Opens the screenshot tool
 quickactions-screenshot2 = Ստանալ էկրանի հանույթը
+# Opens the screenshot tool
+quickactions-screenshot3 = Ստանալ էկրանի հանույթը
 quickactions-cmd-screenshot = էկրանի հանույթ
 # Opens about:preferences
 quickactions-settings = Բացել կարգավորումները
+# Opens about:preferences
+quickactions-settings2 = Կառավարել կարգավորումները
 quickactions-cmd-settings = կարգավորումներ, նախապատվություններ, ընտրանքներ
 # Opens about:addons page in the themes section
 quickactions-themes = Կառավարեք ոճերը
@@ -279,6 +292,8 @@ quickactions-update = Արդիացնել { -brand-short-name }­-ը
 quickactions-cmd-update = արդիացնել
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Նայել աղբյուրը
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Դիտել Էջի Կոդը
 quickactions-cmd-viewsource = դիտել աղբյուրը, աղբյուրը
 
 ## Bookmark Panel
@@ -793,6 +808,10 @@ data-reporting-notification-button =
 unified-extensions-button =
     .label = Ընդլայնումներ
     .tooltiptext = Ընդլայնումներ
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Autorefresh blocker
 

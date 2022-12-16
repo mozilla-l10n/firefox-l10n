@@ -28,6 +28,7 @@ firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
+firefoxview-tabpickup-signed-out-primarybutton = Մուտք գործել
 firefoxview-mobile-promo-header = Բերեք ներդիրները ձեր հեռախոսից կամ թաբլեթից
 firefoxview-mobile-confirmation-header = 🎉 Լավ է գնալ:
 firefoxview-mobile-confirmation-description = Այժմ կարող եք բերել { -brand-product-name }-ի ձեր ներդիրները թաբլեթից կամ հեռախոսից:
@@ -40,3 +41,7 @@ firefoxview-change-colorway-button = Փոխել գույնը
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-show =
+    .title = Ցուցադրել ցուցակը
+firefoxview-collapse-button-hide =
+    .title = Թաքցնել ցուցակը
