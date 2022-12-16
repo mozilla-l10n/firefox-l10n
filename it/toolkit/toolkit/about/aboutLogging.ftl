@@ -31,13 +31,15 @@ about-logging-set-log-modules = Imposta moduli di log
 about-logging-start-logging = Avvia registrazione
 about-logging-stop-logging = Interrompi registrazione
 about-logging-buttons-disabled = Registrazione disattivata tramite variabile d’ambiente, configurazione dinamica non disponibile.
+about-logging-some-elements-disabled = Registrazione configurata tramite URL, alcune opzioni non sono disponibili
+about-logging-info = Informazioni:
 about-logging-log-modules-selection = Selezione moduli di registrazione
 about-logging-new-log-modules = Nuovi moduli di registrazione:
 about-logging-logging-output-selection = Output registrazione
 about-logging-logging-to-file = Registrazione in un file
 about-logging-logging-to-profiler = Registrazione in { -profiler-brand-name }
 about-logging-no-log-modules = Nessuno
-about-logging-logging-preset-selector-text = Impostazioni predefinite di registrazione:
+about-logging-logging-preset-selector-text = Preset di registrazione:
 
 ## Logging presets
 
@@ -47,3 +49,19 @@ about-logging-preset-media-playback-label = Riproduzione file multimediali
 about-logging-preset-media-playback-description = Moduli di registrazione per diagnosticare problemi con la riproduzione di file multimediali (non relativi ad applicazioni di videoconferenza)
 about-logging-preset-custom-label = Personalizzate
 about-logging-preset-custom-description = Moduli di registrazione selezionati manualmente
+
+# Error handling
+about-logging-error = Errore:
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+
+about-logging-invalid-output = Valore non valido “{ $v }“ per la chiave “{ $k }“
+about-logging-unknown-logging-preset = Preset “{ $v }“ sconosciuto
+about-logging-unknown-profiler-preset = Preset del profiler “{ $v }“ sconosciuto
+about-logging-unknown-option = Opzione sconosciuta “{ $k }“ per about:logging
+about-logging-configuration-url-ignored = URL di configurazione ignorato
+about-logging-file-and-profiler-override = Impossibile forzare un file di output e allo stesso tempo ignorare le opzioni del profiler
+
+about-logging-configured-via-url = Opzione configurata tramite URL
