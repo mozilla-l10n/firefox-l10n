@@ -115,6 +115,9 @@ places-forget-about-this-site-confirmation-title = Deze website vergeten
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Met deze actie worden alle gegevens met betrekking tot { $hostOrBaseDomain } verwijderd, inclusief geschiedenis, wachtwoorden, cookies, buffer en inhoudsvoorkeuren. Weet u zeker dat u door wilt gaan?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Met deze actie worden gegevens met betrekking tot { $hostOrBaseDomain } verwijderd, inclusief geschiedenis, cookies, buffer en inhoudsvoorkeuren. Gerelateerde bladwijzers en wachtwoorden worden niet verwijderd. Weet u zeker dat u door wilt gaan?
 places-forget-about-this-site-forget = Vergeten
 places-library =
     .title = Bibliotheek
