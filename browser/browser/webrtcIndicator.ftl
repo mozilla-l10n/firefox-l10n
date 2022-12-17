@@ -212,6 +212,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Memorizar esta decisão
 webrtc-mute-notifications-checkbox = Silenciar notificações de sites durante o compartilhamento
-webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } não pode permitir o acesso permanente a sua tela.
-webrtc-reason-for-no-permanent-allow-audio = O { -brand-short-name } não pode permitir o acesso permanente ao áudio da sua aba sem perguntar qual aba compartilhar.
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } não pode permitir acesso permanente a sua tela.
+webrtc-reason-for-no-permanent-allow-audio = O { -brand-short-name } não pode permitir acesso permanente ao áudio da sua aba sem perguntar qual aba compartilhar.
 webrtc-reason-for-no-permanent-allow-insecure = Sua conexão com este site não é segura. Para te proteger, o { -brand-short-name } só permitirá o acesso nesta sessão.
