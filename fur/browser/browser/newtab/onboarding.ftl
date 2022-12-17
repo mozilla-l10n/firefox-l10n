@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Zonte il teme
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Ti presentìn { -brand-short-name }
+mr1-return-to-amo-addon-title = Tu âs tes tôs mans un navigadôr svelt e che al rispiete la tô riservatece. Cumò tu puedis zontâ <b>{ $addon-name }</b> e fâ ancjemò di plui cun { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Zonte { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -276,6 +277,12 @@ mr2022-onboarding-secondary-skip-button-label = Salte chest passaç
 mr2022-onboarding-welcome-pin-header = Scuvierç lis maraveis di internet
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Invie { -brand-short-name } di dulà che tu vûs cuntun sempliç clic. Ogni volte che tu li fasis tu stâs sielzint un web plui viert e indipendent.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Ten { -brand-short-name } tal Dock
+       *[other] Fisse { -brand-short-name } te sbare des aplicazions
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
