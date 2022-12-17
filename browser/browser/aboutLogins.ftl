@@ -8,7 +8,7 @@ login-filter =
     .placeholder = Поиск логинов
 create-login-button = Создать новый логин
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
-fxaccounts-sign-in-sync-button = Войти в Синхронизацию
+fxaccounts-sign-in-sync-button = Войдите для синхронизации
 fxaccounts-avatar-button =
     .title = Управление аккаунтом
 
