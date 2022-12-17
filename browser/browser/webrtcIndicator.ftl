@@ -88,9 +88,9 @@ webrtc-indicator-sharing-browser =
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
-    .label = Controle de compartilhamento
+    .label = Controlar compartilhamento
 webrtc-indicator-menuitem-control-sharing-on =
-    .label = Controle do compartilhamento com “{ $streamTitle }”
+    .label = Controlar compartilhamento em “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Compartilhando câmera com “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
