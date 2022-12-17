@@ -60,9 +60,9 @@ neterror-proxy-resolve-failure-settings = Verifique se as configurações de pro
 neterror-proxy-resolve-failure-connection = Verifique se o computador tem uma conexão de rede funcionando.
 neterror-proxy-resolve-failure-firewall = Se a rede ou o computador estiver protegido por um firewall ou proxy, verifique se o { -brand-short-name } está autorizado a acessar a web.
 neterror-proxy-connect-failure-settings = Verifique se as configurações de proxy estão corretas.
-neterror-proxy-connect-failure-contact-admin = Contate seu administrador de rede para se certificar que o servidor proxy está  funcionando.
-neterror-content-encoding-error = Entre em contato com os proprietários do site para informar este problema.
-neterror-unsafe-content-type = Entre em contato com os proprietários do site para informar este problema.
+neterror-proxy-connect-failure-contact-admin = Entre em contato com um administrador de rede para verificar se o servidor proxy está  funcionando.
+neterror-content-encoding-error = Entre em contato com os responsáveis pelo site para informar este problema.
+neterror-unsafe-content-type = Entre em contato com os responsáveis pelo site para informar este problema.
 neterror-nss-failure-not-verified = A página que você está tentando ver não pode ser exibida porque a autenticidade dos dados recebidos não pôde ser comprovada.
 neterror-nss-failure-contact-website = Entre em contato com os responsáveis pelo site para informar este problema.
 # Variables:
@@ -70,21 +70,21 @@ neterror-nss-failure-contact-website = Entre em contato com os responsáveis pel
 certerror-intro = O { -brand-short-name } detectou uma potencial ameaça de segurança e não seguiu para <b>{ $hostname }</b>. Se você visitar este site, invasores podem tentar roubar suas informações, como senhas, endereços de email ou detalhes de cartões de crédito.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-sts-intro = O { -brand-short-name } detectou uma potencial ameaça de segurança e não prosseguiu para <b>{ $hostname }</b> porque este site exige uma conexão segura.
+certerror-sts-intro = O { -brand-short-name } detectou uma potencial ameaça de segurança e não seguiu para <b>{ $hostname }</b> porque este site exige uma conexão segura.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = O { -brand-short-name } detectou um problema e não prosseguiu para <b>{ $hostname }</b>. O site foi mal configurado ou o relógio interno desde computador está errado.
+certerror-expired-cert-intro = O { -brand-short-name } detectou um problema e não seguiu para <b>{ $hostname }</b>. O site foi mal configurado ou o relógio interno desde computador está errado.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm = <b>{ $hostname }</b> é provavelmente um site seguro, mas uma conexão segura não pôde ser estabelecida. Este problema é causado por <b>{ $mitm }</b>, que é um programa neste computador ou na rede.
+certerror-mitm = <b>{ $hostname }</b> provavelmente é um site seguro, mas não pôde ser estabelecida uma conexão segura. Este problema é causado por <b>{ $mitm }</b>, que é um programa neste computador ou na rede.
 neterror-corrupted-content-intro = A página que você está tentando ver não pode ser exibida porque foi detectado um erro na transmissão de dados.
-neterror-corrupted-content-contact-website = Entre em contato com os proprietários do site para informar este problema.
+neterror-corrupted-content-contact-website = Entre em contato com os responsáveis pelo site para informar este problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Informações avançadas: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-inadequate-security-intro = <b>{ $hostname }</b> usa uma tecnologia de segurança que está ultrapassada e vulnerável a ataques. Um invasor poderia facilmente coletar informações que você acreditava estar seguras. O administrador do site precisa consertar o servidor antes de você poder visitar o site.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> usa uma tecnologia de segurança ultrapassada e vulnerável a ataques. Um invasor pode facilmente coletar informações que você acreditava estar seguras. O administrador do site precisa consertar o servidor antes de você poder visitar o site.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
