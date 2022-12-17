@@ -67,7 +67,7 @@ neterror-nss-failure-not-verified = A página que você está tentando ver não 
 neterror-nss-failure-contact-website = Entre em contato com os responsáveis pelo site para informar este problema.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = O { -brand-short-name } detectou uma potencial ameaça de segurança e não seguiu para <b>{ $hostname }</b>. Se você visitar este site, invasores podem tentar roubar suas informações, como senhas, endereços de email ou detalhes de cartões de crédito.
+certerror-intro = O { -brand-short-name } detectou uma potencial ameaça de segurança e não seguiu para <b>{ $hostname }</b>. Se você acessar este site, invasores podem tentar roubar suas informações, como senhas, endereços de email ou detalhes de cartões de crédito.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = O { -brand-short-name } detectou uma potencial ameaça de segurança e não seguiu para <b>{ $hostname }</b> porque este site exige uma conexão segura.
@@ -84,13 +84,13 @@ neterror-corrupted-content-contact-website = Entre em contato com os responsáve
 neterror-sslv3-used = Informações avançadas: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-inadequate-security-intro = <b>{ $hostname }</b> usa uma tecnologia de segurança ultrapassada e vulnerável a ataques. Um invasor pode facilmente coletar informações que você acreditava estar seguras. O administrador do site precisa consertar o servidor antes de você poder visitar o site.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> usa uma tecnologia de segurança ultrapassada e vulnerável a ataques. Um invasor pode facilmente coletar informações que você acreditava estar seguras. O administrador do site precisa consertar o servidor antes de você poder acessar o site.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = O relógio deste computador está em { DATETIME($now, dateStyle: "medium") }, o que impede que o { -brand-short-name } se conecte com segurança. Para visitar <b>{ $hostname }</b>, ajuste o relógio do computador para data, hora e fuso horário corretos nas configurações do sistema, depois recarregue <b>{ $hostname }</b>.
+neterror-clock-skew-error = O relógio deste computador está em { DATETIME($now, dateStyle: "medium") }, o que impede que o { -brand-short-name } se conecte com segurança. Para acessar <b>{ $hostname }</b>, ajuste o relógio do computador para data, hora e fuso horário corretos nas configurações do sistema, depois recarregue <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = A página que você está tentando ver não pode ser exibida porque foi detectado um erro no protocolo de rede.
 neterror-network-protocol-error-contact-website = Entre em contato com os responsáveis pelo site para informar este problema.
 certerror-expired-cert-second-para = Provavelmente o certificado do site está expirado, impedindo que o { -brand-short-name } se conecte com segurança. Se você acessar este site, invasores podem tentar roubar informações como senhas, endereços de email ou detalhes de cartões de crédito.
