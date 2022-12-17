@@ -14,7 +14,7 @@
 
 webrtc-indicator-title = { -brand-short-name } - Indicador de compartilhamento
 webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicador de compartilhamento
+    .title = { -brand-short-name } — Indicador de compartilhamento
 
 ## Used as list items in sharing menu
 
