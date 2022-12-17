@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-reader-loading = Carregando…
-about-reader-load-error = Falha ao carregar o artigo da página
+about-reader-load-error = Falha ao carregar artigo da página
 about-reader-color-scheme-light = Claro
     .title = Esquema de cores claro
 about-reader-color-scheme-dark = Escuro

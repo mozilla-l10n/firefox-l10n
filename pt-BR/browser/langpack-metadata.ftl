@@ -9,4 +9,4 @@
 langpack-creator = mozilla.org
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
-langpack-contributors = Fernando Pereira Silveira, Jefferson Hultmann, Marco Aurélio Krause, Reuben Morais
+langpack-contributors = Marcelo Ghelman
