@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicadore de cumpartzidura
 webrtc-indicator-window =
     .title = { -brand-short-name } - Indicadore de cumpartzidura
@@ -37,6 +35,9 @@ webrtc-sharing-menuitem-unknown-host = Orìgine disconnotu
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+webrtc-sharing-menu =
+    .label = Ischedas chi cumpartzint dispositivos
+    .accesskey = d
 webrtc-sharing-window = Ses cumpartzende un'àtera ventana de s'aplicatzione.
 webrtc-sharing-browser-window = Ses cumpartzende { -brand-short-name }.
 webrtc-sharing-screen = Ses cumpartzende totu s'ischermu.
@@ -56,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Ses cumpartzende sa càmera. Incarca inoghe pro controllare sa cumpartzidura.
 webrtc-microphone-system-menu =
@@ -163,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = Boles permìtere chi { $origin } a
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro ascurtare s’àudio de custa ischeda?
 webrtc-allow-share-camera-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro atzèdere a sa càmera tua?
 webrtc-allow-share-microphone-unsafe-delegations = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro atzèdere a su micròfonu tuo?
 webrtc-allow-share-screen-unsafe-delegation = Boles permìtere chi { $origin } dongat permissu a { $thirdParty } pro bìdere s'ischermu tuo?
