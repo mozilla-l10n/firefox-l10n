@@ -81,7 +81,10 @@ tabbrowser-confirm-close-tabs-checkbox = Confirmar antes de fechar várias abas
 # multiple windows.
 # Variables:
 #   $windowCount (Number): The number of windows that will be closed.
-tabbrowser-confirm-close-windows-title = Fechar { $windowCount } janelas?
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+       *[other] Fechar { $windowCount } janelas?
+    }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
         [windows] Fechar e sair
@@ -112,7 +115,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar que o carregamento de v�
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = Navegação com cursor do teclado
-tabbrowser-confirm-caretbrowsing-message = A tecla F7 ativa ou desativa a navegação com cursor do teclado. Este recurso coloca um cursor móvel em página web, permitindo selecionar texto usando o teclado. Quer ativar a navegação com cursor do teclado?
+tabbrowser-confirm-caretbrowsing-message = A tecla F7 ativa ou desativa a navegação com cursor do teclado. Este recurso coloca um cursor móvel em páginas web, permitindo selecionar texto usando o teclado. Quer ativar a navegação com cursor do teclado?
 tabbrowser-confirm-caretbrowsing-checkbox = Não mostrar mais este aviso.
 
 ##
@@ -121,7 +124,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Não mostrar mais este aviso.
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitir que notificações como esta de { $domain } levem você para a aba de origem
-tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
+tabbrowser-customizemode-tab-title = Personalizar o { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
