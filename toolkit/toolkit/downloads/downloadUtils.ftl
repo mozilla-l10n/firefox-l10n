@@ -40,7 +40,7 @@ download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/s
 # Variables:
 #   $timeLeft (String): time left.
 #   $transfer (String): transfer progress.
-download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (Muito rápido)
+download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (muito rápido)
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB
 # Variables:

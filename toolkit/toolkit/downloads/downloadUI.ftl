@@ -10,7 +10,7 @@ download-ui-confirm-title = Cancelar todos os downloads?
 download-ui-confirm-quit-cancel-downloads =
     { $downloadsCount ->
         [1] Se sair agora, um download será cancelado. Tem certeza que quer sair?
-       *[other] Para sair é necessário cancelar os { $downloadsCount } downloads em andamento. Confirma?
+       *[other] Se sair agora, { $downloadsCount } downloads serão cancelados. Tem certeza que quer sair?
     }
 download-ui-confirm-quit-cancel-downloads-mac =
     { $downloadsCount ->
@@ -24,14 +24,14 @@ download-ui-dont-quit-button =
     }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
-        [1] Se mudar para o modo offline agora, 1 download será cancelado. Tem certeza?
-       *[other] Se mudar para o modo offline agora, { $downloadsCount } downloads serão cancelados. Tem certeza?
+        [1] Se mudar agora para o modo offline, 1 download será cancelado. Tem certeza?
+       *[other] Se mudar agora para o modo offline, { $downloadsCount } downloads serão cancelados. Tem certeza?
     }
-download-ui-dont-go-offline-button = Manter no modo online
+download-ui-dont-go-offline-button = Permanecer no modo online
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
-        [1] Se fechar agora todas as janelas da navegação privativa, um download será cancelado. Tem certeza que quer sair da navegação privativa?
-       *[other] Se fechar agora todas as janelas da navegação privativa, { $downloadsCount } downloads serão cancelados. Tem certeza que quer sair da navegação privativa?
+        [1] Se fechar agora todas as janelas de navegação privativa, um download será cancelado. Tem certeza que quer sair da navegação privativa?
+       *[other] Se fechar agora todas as janelas de navegação privativa, { $downloadsCount } downloads serão cancelados. Tem certeza que quer sair da navegação privativa?
     }
 download-ui-dont-leave-private-browsing-button = Permanecer na navegação privativa
 download-ui-cancel-downloads-ok =
@@ -42,7 +42,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
-download-ui-file-executable-security-warning-title = Executar um aplicativo?
+download-ui-file-executable-security-warning-title = Abrir arquivo executável?
 # Variables:
 #   $executable (String): The executable file to be opened.
 download-ui-file-executable-security-warning = “{ $executable }” é um arquivo executável. Arquivos executáveis podem conter vírus ou outros códigos maliciosos que podem danificar o computador. Tenha cuidado ao abrir este arquivo. Tem certeza que quer executar “{ $executable }”?
