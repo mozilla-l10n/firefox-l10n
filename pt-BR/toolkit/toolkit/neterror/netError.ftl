@@ -93,7 +93,7 @@ neterror-inadequate-security-code = Código de erro: NS_ERROR_NET_INADEQUATE_SEC
 neterror-clock-skew-error = O relógio deste computador está em { DATETIME($now, dateStyle: "medium") }, o que impede que o { -brand-short-name } se conecte com segurança. Para visitar <b>{ $hostname }</b>, ajuste o relógio do computador para data, hora e fuso horário corretos nas configurações do sistema, depois recarregue <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = A página que você está tentando ver não pode ser exibida porque foi detectado um erro no protocolo de rede.
 neterror-network-protocol-error-contact-website = Entre em contato com os responsáveis pelo site para informar este problema.
-certerror-expired-cert-second-para = Provavelmente o certificado do site está expirado, impedindo que o { -brand-short-name } se conecte com segurança. Se você acessar este site, invasores podem tentar roubar informações confidenciais como senhas, emails ou detalhes de cartões de crédito.
+certerror-expired-cert-second-para = Provavelmente o certificado do site está expirado, impedindo que o { -brand-short-name } se conecte com segurança. Se você acessar este site, invasores podem tentar roubar informações como senhas, endereços de email ou detalhes de cartões de crédito.
 certerror-expired-cert-sts-second-para = Provavelmente o certificado do site está expirado, impedindo que o { -brand-short-name } se conecte com segurança.
 certerror-what-can-you-do-about-it-title = O que você pode fazer a respeito?
 certerror-unknown-issuer-what-can-you-do-about-it-website = É mais provável que o problema seja no site, não há nada que você possa fazer para resolver.
@@ -101,17 +101,17 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Se estiver em 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-certerror-expired-cert-what-can-you-do-about-it-clock = O relógio desde computador está definido para { DATETIME($now, dateStyle: "medium") }. Verifique se o computador está configurado com data, hora e fuso horário corretos nas configurações do sistema, e atualize o <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-clock = O relógio desde computador está definido para { DATETIME($now, dateStyle: "medium") }. Verifique se o computador está configurado com data, hora e fuso horário corretos nas configurações do sistema, depois recarregue <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Se o relógio já está com a hora correta, o site deve estar configurado incorretamente, não há nada que você possa fazer para resolver. Notifique o problema para o administrador do site.
 certerror-bad-cert-domain-what-can-you-do-about-it = É mais provável que o problema seja no site, não há nada que você possa fazer para resolver. Você pode notificar o administrador do site.
 certerror-mitm-what-can-you-do-about-it-antivirus = Se seu programa antivírus tem um recurso que varre conexões criptografadas (normalmente chamado “web scanning” ou “https scanning”), você pode desativar este recurso. Se isso não resolver, pode tentar remover e reinstalar o programa antivírus.
 certerror-mitm-what-can-you-do-about-it-corporate = Se você está em uma rede corporativa, pode entrar em contato com o departamento de informática.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack = Se você não está familiarizado com <b>{ $mitm }</b>, então isto pode ser um ataque e não seria bom continuar para o site.
+certerror-mitm-what-can-you-do-about-it-attack = Se você não está familiarizado com <b>{ $mitm }</b>, então isso pode ser uma tentativa de ataque. É melhor não seguir para o site.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack-sts = Se você não está familiarizado com <b>{ $mitm }</b>, então isto pode ser um ataque e não há nada que você possa fazer para acessar o site.
+certerror-mitm-what-can-you-do-about-it-attack-sts = Se você não está familiarizado com <b>{ $mitm }</b>, então isso pode ser uma tentativa de ataque e não há nada que você possa fazer para acessar o site.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tem uma política de segurança chamada HTTP Strict Transport Security (HSTS), que significa que o { -brand-short-name } só pode se conectar a ele com segurança. Você não pode adicionar uma exceção para visitar este site.
