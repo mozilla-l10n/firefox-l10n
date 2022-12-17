@@ -90,9 +90,9 @@ neterror-inadequate-security-code = Código de erro: NS_ERROR_NET_INADEQUATE_SEC
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = A hora exibida por este computador é { DATETIME($now, dateStyle: "medium") }, o que impede que o { -brand-short-name } se conecte de maneira segura. Para visitar o <b>{ $hostname }</b>, ajuste o relógio deste computador para data, hora e fuso horário corretos nas configurações do sistema e atualize o <b>{ $hostname }</b>.
+neterror-clock-skew-error = O relógio deste computador está em { DATETIME($now, dateStyle: "medium") }, o que impede que o { -brand-short-name } se conecte com segurança. Para visitar <b>{ $hostname }</b>, ajuste o relógio do computador para data, hora e fuso horário corretos nas configurações do sistema, depois recarregue <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = A página que você está tentando ver não pode ser exibida porque foi detectado um erro no protocolo de rede.
-neterror-network-protocol-error-contact-website = Entre em contato com o dono do site para informar este problema.
+neterror-network-protocol-error-contact-website = Entre em contato com os responsáveis pelo site para informar este problema.
 certerror-expired-cert-second-para = Provavelmente o certificado do site está expirado, impedindo que o { -brand-short-name } se conecte com segurança. Se você acessar este site, invasores podem tentar roubar informações confidenciais como senhas, emails ou detalhes de cartões de crédito.
 certerror-expired-cert-sts-second-para = Provavelmente o certificado do site está expirado, impedindo que o { -brand-short-name } se conecte com segurança.
 certerror-what-can-you-do-about-it-title = O que você pode fazer a respeito?
