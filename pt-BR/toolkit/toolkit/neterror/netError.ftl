@@ -28,36 +28,36 @@ neterror-view-certificate-link = Ver certificado
 
 ##
 
-neterror-pref-reset = Parece que suas configurações de segurança de rede podem estar causando isso. Você quer restaurar as configurações padrão?
+neterror-pref-reset = Parece que as configurações de segurança de rede podem estar causando isso. Quer restaurar as configurações padrão?
 neterror-error-reporting-automatic = Relatar erros como este para ajudar a { -vendor-short-name } a identificar e bloquear sites maliciosos
 
 ## Specific error messages
 
 neterror-generic-error = O { -brand-short-name } não conseguiu carregar esta página por algum motivo.
-neterror-load-error-try-again = Este site pode estar temporariamente fora do ar ou sobrecarregado. Tente de novo em alguns instantes.
+neterror-load-error-try-again = Este site pode estar temporariamente indisponível ou sobrecarregado. Tente novamente daqui a pouco.
 neterror-load-error-connection = Se você não conseguir carregar nenhuma página, verifique a conexão de rede do computador.
 neterror-load-error-firewall = Se a rede ou o computador estiver protegido por um firewall ou proxy, verifique se o { -brand-short-name } está autorizado a acessar a web.
 neterror-captive-portal = Você deve se autenticar nessa rede antes de poder acessar a internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
-neterror-dns-not-found-with-suggestion = Quer acessar <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-with-suggestion = Pretendia acessar <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Se você digitou o endereço correto, pode:</strong>
 neterror-dns-not-found-hint-try-again = Tentar novamente mais tarde
 neterror-dns-not-found-hint-check-network = Verificar a conexão de rede
 neterror-dns-not-found-hint-firewall = Verificar se o { -brand-short-name } tem permissão para acessar a web (a conexão pode estar protegida por um firewall)
-neterror-file-not-found-filename = Verifique se o nome do arquivo tem letras maiúsculas ou erros de digitação.
+neterror-file-not-found-filename = Verifique se o nome do arquivo tem letras maiúsculas ou outros erros de digitação.
 neterror-file-not-found-moved = Verifique se o arquivo foi movido, renomeado ou excluído.
 neterror-access-denied = Pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.
 neterror-unknown-protocol = Pode ser necessário instalar algum aplicativo para abrir este endereço.
-neterror-redirect-loop = Este problema pode ser causado pela desativação ou recusa de aceitar cookies.
-neterror-unknown-socket-type-psm-installed = Certifique-se de que o seu sistema tem o Personal Security Manager instalado.
-neterror-unknown-socket-type-server-config = Isto pode ser devido a uma configuração não padrão do servidor.
+neterror-redirect-loop = Às vezes, esse problema pode ser causado pela desativação ou recusa em aceitar cookies.
+neterror-unknown-socket-type-psm-installed = Verifique se o sistema tem o Personal Security Manager instalado.
+neterror-unknown-socket-type-server-config = Isto pode ser devido a uma configuração não padrão no servidor.
 neterror-not-cached-intro = O documento solicitado não está disponível no cache do { -brand-short-name }.
 neterror-not-cached-sensitive = Como precaução de segurança, o { -brand-short-name } não volta a solicitar automaticamente documentos sensíveis.
-neterror-not-cached-try-again = Clique em 'Tentar novamente' para solicitar de novo o documento do site.
-neterror-net-offline = Pressione “Tente novamente” para mudar para modo online e recarregar a página.
-neterror-proxy-resolve-failure-settings = Verifique as configurações de proxy para certificar-se de que estejam corretas.
-neterror-proxy-resolve-failure-connection = Certifique-se de que a conexão de rede do seu computador esteja funcionando.
+neterror-not-cached-try-again = Clique em 'Tentar novamente' para solicitar novamente o documento do site.
+neterror-net-offline = Clique em “Tentar novamente” para mudar para modo online e recarregar a página.
+neterror-proxy-resolve-failure-settings = Verifique se as configurações de proxy estão corretas.
+neterror-proxy-resolve-failure-connection = Verifique se o computador tem uma conexão de rede funcionando.
 neterror-proxy-resolve-failure-firewall = Se a rede ou o computador estiver protegido por um firewall ou proxy, certifique-se de que o { -brand-short-name } esteja autorizado a acessar a web.
 neterror-proxy-connect-failure-settings = Verifique as configurações de proxy para se certificar que estão corretas
 neterror-proxy-connect-failure-contact-admin = Contate seu administrador de rede para se certificar que o servidor proxy está  funcionando.
