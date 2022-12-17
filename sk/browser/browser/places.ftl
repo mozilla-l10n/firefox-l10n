@@ -117,6 +117,9 @@ places-forget-about-this-site-confirmation-title = Zabudnúť na túto stránku
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Touto akciou odstránite všetky údaje súvisiace so stránkou { $hostOrBaseDomain } vrátane histórie, hesiel, súborov cookie, vyrovnávacej pamäte a nastavení pre obsah. Naozaj chcete pokračovať?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Touto akciou odstránite údaje súvisiace so stránkou { $hostOrBaseDomain } vrátane histórie, súborov cookie, vyrovnávacej pamäte a nastavení pre obsah. Súvisiace záložky a heslá odstránené nebudú. Naozaj chcete pokračovať?
 places-forget-about-this-site-forget = Zabudnúť
 places-library =
     .title = Knižnica
