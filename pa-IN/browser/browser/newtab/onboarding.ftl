@@ -25,6 +25,9 @@ return-to-amo-addon-title = ਆਓ ਫਿਰ ਹੁਣ <img data-l10n-name="icon
 return-to-amo-add-extension-label = ਇਕਸਟੈਨਸ਼ਨ ਜੋੜੋ
 return-to-amo-add-theme-label = ਥੀਮ ਜੋੜੋ
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -41,6 +44,8 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = ਤਰੱਕੀ: { $total } ਵਿੱਚੋਂ { $current } ਪੜਾਅ
+onboarding-welcome-steps-indicator-label =
+    .aria-label = ਤਰੱਕੀ: { $total } ਵਿੱਚੋਂ { $current } ਪੜਾਅ
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -326,44 +331,30 @@ mr2022-onboarding-colorway-subtitle = ਆਜ਼ਾਦ ਆਵਾਜ਼ਾਂ, ਜੋ �
 mr2022-onboarding-colorway-primary-button-label-continue = ਲਾਓ ਤੇ ਜਾਰੀ ਰੱਖੋ
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ਆਪਣਾ ਰੰਗਦਾਰ ਮੁੱਖ-ਸਫ਼ਾ ਬਣਾਓ
 mr2022-onboarding-colorway-label-default = ਡਿਫਾਲਟ
-mr2022-onboarding-colorway-tooltip-default =
-    .title = ਡਿਫਾਲਟ
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = ਮੌਜੂਦਾ { -brand-short-name } ਰੰਗ
 mr2022-onboarding-colorway-description-default = <b>ਮੇਰੇ ਮੌਜੂਦਾ { -brand-short-name } ਰੰਗਾਂ ਨੂੰ ਵਰਤੋਂ।</b>
 mr2022-onboarding-colorway-label-playmaker = ਪਲੇਅਮੇਕਰ
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = ਪਲੇਅਮੇਕਰ
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = ਪਲੇਅਮੇਕਰ (ਲਾਲ)
 mr2022-onboarding-colorway-description-playmaker = <b>ਤੁਸੀਂ ਪਲੇਅਮੇਕਰ ਹੋ।</b> ਤੁਸੀਂ ਜਿੱਤਣ ਦੇ ਮੌਕੇ ਬਣਾਉਂਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਆਲੇ-ਦੁਆਲੇ ਦੇ ਲੋਕਾਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਖੇਡ 'ਚ ਅੱਗੇ ਵਧਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹੋ।
 mr2022-onboarding-colorway-label-expressionist = ਪਰਗਟਾਵਾਦੀ
-mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = ਪਰਗਟਾਵਾਦੀ
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = ਪਰਗਟਾਵਾਦੀ (ਪੀਲਾ)
 mr2022-onboarding-colorway-description-expressionist = <b>ਤੁਸੀਂ ਪਰਗਟਾਵਾਦੀ ਹੋ। </b> ਤੁਸੀਂ ਸੰਸਾਰ ਨੂੰ ਵੱਖਰੇ ਢੰਗ ਨਾਲ ਵੇਖਦੇ ਹੋ ਅਤੇ ਤੁਹਾਡੀਆਂ ਰਚਨਾਵਾਂ ਹੋਰਾਂ ਦੇ ਜਜ਼ਬਾਤਾਂ ਨੂੰ ਟੁੰਬਦੀਆਂ ਹਨ।
 mr2022-onboarding-colorway-label-visionary = ਭਵਿੱਖਦਰਸ਼ੀ
-mr2022-onboarding-colorway-tooltip-visionary =
-    .title = ਭਵਿੱਖਦਰਸ਼ੀ
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = ਭਵਿੱਖਦਰਸ਼ੀ (ਹਰਾ)
 mr2022-onboarding-colorway-description-visionary = <b>ਤੁਸੀਂ ਭਵਿੱਖਦਰਸ਼ੀ ਹੋ।</b> ਤੁਸੀਂ ਮੌਜੂਦਾ ਹਾਲਤਾਂ ਉੱਤੇ ਸਵਾਲ ਕਰਦੇ ਹੋ ਅਤੇ ਹੋਰਾਂ ਨੂੰ ਬੇਹਤਰ ਭਵਿੱਖ ਬਾਰੇ ਸੋਚਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰਦੇ ਹੋ।
 mr2022-onboarding-colorway-label-activist = ਕਾਰਕੁੰਨ
-mr2022-onboarding-colorway-tooltip-activist =
-    .title = ਕਾਰਕੁੰਨ
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = ਕਾਰਕੁੰਨ (ਨੀਲਾ)
 mr2022-onboarding-colorway-description-activist = <b>ਤੁਸੀਂ ਕਾਰਕੁੰਨ ਹੋ।</b> ਤੁਸੀਂ ਸੰਸਾਰ ਨੂੰ ਪਹਿਲਾਂ ਨਾਲੋਂ ਬੇਹਤਰ ਥਾਂ ਬਣਾ ਕੇ ਰੱਖਦੇ ਹੋ ਅਤੇ ਹੋਰਾਂ ਦਾ ਭਰੋਸਾ ਵਧਾਉਂਦੇ ਹੋ।
 mr2022-onboarding-colorway-label-dreamer = ਸੁਪਨਸਾਜ਼
-mr2022-onboarding-colorway-tooltip-dreamer =
-    .title = ਸੁਪਨਸਾਜ਼
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = ਸੁਪਨਸਾਜ਼ (ਜਾਮਨੀ)
 mr2022-onboarding-colorway-description-dreamer = <b>ਤੁਸੀਂ ਸੁਪਨਸਾਜ਼ ਹੋ।</b> ਤੁਸੀਂ ਭਰੋਸਾ ਰੱਖਦੋ ਹੋ ਕਿ ਖੁਸ਼ਹਾਲੀ ਦੇ ਤਰਫ਼ਦਾਰੀਆਂ ਵੱਡੇ ਅਸਰ ਰੱਖਦੀਆਂ ਹਨ ਤੇ ਹੋਰਾਂ ਨੂੰ ਬਹਾਦਰ ਬਣਨ ਲਈ ਪ੍ਰੇਰਿਤ ਕਰਦੀਆਂ ਹਨ।
 mr2022-onboarding-colorway-label-innovator = ਖੋਜੀ
-mr2022-onboarding-colorway-tooltip-innovator =
-    .title = ਖੋਜੀ
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = ਖੋਜੀ (ਸੰਤਰੀ)
 mr2022-onboarding-colorway-description-innovator = <b>ਤੁਸੀਂ ਖੋਜੀ ਹੋ।</b> ਤੁਸੀਂ ਹਰ ਥਾਂ ਉੱਤੇ ਮੌਕੇ ਤਲਾਸ਼ਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਆਲੇ ਦੁਆਲੇ ਹਰ ਕਿਸੇ ਦੀ ਜ਼ਿੰਦਗੀ ਉੱਤੇ ਅਸਰ ਛੱਡਦੇ ਹੋ।
