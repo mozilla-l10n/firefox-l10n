@@ -105,3 +105,6 @@
                 [lower] оглядачі Firefox
             }
     }
+
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
