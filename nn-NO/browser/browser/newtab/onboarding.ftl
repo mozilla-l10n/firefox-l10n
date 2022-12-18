@@ -46,6 +46,8 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Framdrift: steg { $current } av { $total }
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Framdrift: steg { $current } av { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
