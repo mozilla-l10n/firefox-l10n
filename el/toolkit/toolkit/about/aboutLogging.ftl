@@ -13,3 +13,5 @@ about-logging-set-log-file = Ορισμός αρχείου καταγραφής
 about-logging-set-log-modules = Ορισμός μονάδων καταγραφής
 about-logging-start-logging = Έναρξη καταγραφής
 about-logging-stop-logging = Τερματισμός καταγραφής
+
+-profiler-brand-name = Firefox Profiler
