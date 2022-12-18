@@ -84,4 +84,4 @@ protected-auth-token = 令牌：
 
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = 请对令牌“{ $tokenName }”进行身份验证。如何操作取决于令牌（例如，按压指纹识别器或用键盘输入代码）。
+protected-auth-alert = 请对令牌“{ $tokenName }”进行身份验证。如何操作取决于令牌（例如，按压指纹识别器或键入代码）。
