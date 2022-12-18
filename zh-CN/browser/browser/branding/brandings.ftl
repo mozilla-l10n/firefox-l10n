@@ -29,18 +29,14 @@
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
 -focus-brand-name = Firefox Focus
-
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefox 建议
-
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = Firefox 主页
-
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Firefox View
-
--relay-brand-name = Firefox Relay
--relay-brand-short-name = Relay
