@@ -9,3 +9,5 @@ about-logging-set-log-file = लग फाइल मिलाउनुहोस�
 about-logging-set-log-modules = लग मोड्युलहरू मिलाउनुहोस्
 about-logging-start-logging = लगिङ गर्न सुरु गर्नुहोस्
 about-logging-stop-logging = लगिङ गर्न रोक्नुहोस्
+
+-profiler-brand-name = Firefox Profiler
