@@ -39,3 +39,6 @@
 
 -focus-brand-name = Firefox Focus
 
+
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
