@@ -74,7 +74,37 @@ info-monitored-emails =
         [one] ای میل پتے دی نگرانی تھیندی پئی اے
        *[other] ای میل پتیاں دی نگرانی تھیندی پئی اے
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] معلوم ڈیٹا دی خلاف ورزی تہاݙیاں معلومات کوں بے نقاب کر ݙتا ہے
+       *[other] معلوم ڈیٹا دیاں خلاف ورزیاں تہاݙیاں معلومات کوں بے نقاب کر ݙتا ہے
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] پاس ورڈ تمام خلاف ورزیوں وِچ بے نقاب
+       *[other] پاس ورڈز تمام خلاف ورزیوں وِچ بے نقاب
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] غیر حل شدہ خلاف ورزیاں وِچ پاس ورڈ بے نقاب
+       *[other] غیر حل شدہ خلاف ورزیاں وِچ بے نقاب پاس ورڈز
+    }
 monitor-no-breaches-title = خوشخبری!
+monitor-no-breaches-description = تہاݙی کوئی معلوم خلاف ورزی کائنی۔ جے ایندے وِچ تبدیلی آندی ہے تاں اساں تہاکوں ݙسیسوں۔
+monitor-view-report-link = رپورٹ ݙیکھو
+    .title = { -monitor-brand-short-name } تے خلاف ورزیاں کوں حل کرو
+monitor-breaches-unresolved-title = اپݨیاں خلاف ورزیاں کوں حل کرو
+monitor-partial-breaches-motivation-title-start = شروع کرو!
+monitor-partial-breaches-motivation-title-middle = جاری رکھو!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
