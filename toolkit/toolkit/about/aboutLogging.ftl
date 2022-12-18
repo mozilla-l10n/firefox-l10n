@@ -9,3 +9,5 @@ about-logging-set-log-file = Կայել մատյանի ֆայլը
 about-logging-set-log-modules = Կայել մատյանի մոդուլները
 about-logging-start-logging = Սկսել մուտքագրումը
 about-logging-stop-logging = Կանգնեցնել մուտքագրումը
+
+-profiler-brand-name = Firefox Profiler
