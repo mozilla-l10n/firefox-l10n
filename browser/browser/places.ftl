@@ -117,6 +117,9 @@ places-forget-about-this-site-confirmation-title = Заборави на ова�
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ова радња ће обрисати све податке повезане са { $hostOrBaseDomain }, укључујући историју, лозинке, колачиће, кеш меморију и подешавања. Да ли сте сигурни да желите да наставите?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Ова радња ће обрисати све податке повезане са { $hostOrBaseDomain }, укључујући историју, колачиће, кеш меморију и подешавања. Повезани обележивачи и лозинке неће бити уклоњени. Да ли сте сигурни да желите да наставите?
 places-forget-about-this-site-forget = Заборави
 places-library =
     .title = Библиотека

@@ -856,6 +856,9 @@ forms-breach-alerts =
     .label = Упозори ме о лозинкама за хаковане веб-сајтове
     .accesskey = з
 forms-breach-alerts-learn-more-link = Сазнајте више
+relay-integration =
+    .label = Омогућите { -relay-brand-name } у вашем { -brand-short-name } управљачу лозинкама
+relay-integration-learn-more-link = Сазнајте више
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Аутоматски попуњавај обрасце за пријаву
@@ -1076,6 +1079,9 @@ content-blocking-fingerprinters = Сакупљачи дигиталних оти
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Испробајте нашу најјачу функцију приватности до сада
     .accesskey = И
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Свеобухватна заштита од колачића везује колачиће за сајт на ком се тренутно налазите, тако да елементи за праћење не могу да их користе за даље праћење.
 content-blocking-etp-standard-tcp-rollout-learn-more = Сазнајте више
