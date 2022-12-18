@@ -1,0 +1,200 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+permissions-window =
+    .title = استثنیات
+    .style = width: 45em
+permissions-window2 =
+    .title = استثنیات
+    .style = min-width: 45em
+permissions-close-key =
+    .key = w
+permissions-address = ویب سائٹ دا پتہ
+    .accesskey = d
+permissions-block =
+    .label = بلاک
+    .accesskey = B
+permissions-disable-etp =
+    .label = استثنیٰ شامل کرو
+    .accesskey = E
+permissions-session =
+    .label = سیشن کیتے اجازت ݙیو
+    .accesskey = S
+permissions-allow =
+    .label = اجازت ݙیو
+    .accesskey = A
+permissions-button-off =
+    .label = بند کرو
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = عارضی طور تے بند کرو
+    .accesskey = T
+permissions-site-name =
+    .label = ويب سائٹ
+permissions-status =
+    .label = حالت
+permissions-remove =
+    .label = ویب سائٹ ہٹاؤ
+    .accesskey = R
+permissions-remove-all =
+    .label = سبھے ویب سائٹاں ہٹاؤ
+    .accesskey = e
+permission-dialog =
+    .buttonlabelaccept = تبدیلیاں محفوظ کرو
+    .buttonaccesskeyaccept = S
+permissions-autoplay-menu = تمام ویب سائٹس کیتے پہلے کنوں طے شدہ:
+permissions-searchbox =
+    .placeholder = ویب سائٹ ڳولو
+permissions-capabilities-autoplay-allow =
+    .label = آڈیو تے ویڈیو دی اجازت ݙیو
+permissions-capabilities-autoplay-block =
+    .label = آڈیو کوں روکو
+permissions-capabilities-autoplay-blockall =
+    .label = آڈیو تے ویڈیو کوں بلاک کرو
+permissions-capabilities-allow =
+    .label = اجازت ݙیوو
+permissions-capabilities-block =
+    .label = بلاک
+permissions-capabilities-prompt =
+    .label = ہمیشاں پچھو
+permissions-capabilities-listitem-allow =
+    .value = اجازت ݙیوو
+permissions-capabilities-listitem-block =
+    .value = بلاک
+permissions-capabilities-listitem-allow-session =
+    .value = سیشن کیتے اجازت ݙیوو
+permissions-capabilities-listitem-off =
+    .value = بند
+permissions-capabilities-listitem-off-temporarily =
+    .value = عارضی طور تے بندکرو
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = غلط میزبان ناں درج کیتا ڳیا۔
+permissions-invalid-uri-label = براہ مہربانی درست میزبان ناں درج کرو
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-etp-window =
+    .title = بہتر ٹریکنگ حفاظت کیتے استثناء
+    .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = بہتر ٹریکنگ حفاظت کیتے استثناء
+    .style = { permissions-window2.style }
+permissions-exceptions-etp-desc = تساں اینہاں ویب سائٹاں تے تحفظات کوں بند کر ݙتا ہے۔
+
+## Exceptions - Cookies
+
+permissions-exceptions-cookie-window =
+    .title = اشتثنیات۔ کوکیاں تے سائٹ دا ڈیٹا
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = استثنیات - کوکیاں تے سائٹ دا ڈیٹا
+    .style = { permissions-window2.style }
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = استثنیات - HTTPS-Only Mode
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = استثنیات - HTTPS-Only Mode
+    .style = { permissions-window2.style }
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = اجازت والیاں ویب سائٹاں - پاپ اپس
+    .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = اجازت والیاں ویب سائٹاں - پاپ اپس
+    .style = { permissions-window2.style }
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = استثنیات ۔ محفوظ شدہ لاگ انز
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = استثنیات ۔ محفوظ شدہ لاگ انز
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-logins-desc = ہیٹھ درج ویب سائٹاں کیتے لاگ ان ہتھیکڑا کینا کیتا ویسے
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = اجازت دار ویب سائٹاں۔ ایڈ آنز انسٹالیشن
+    .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = اجازت دار ویب سائٹاں - ایڈ آنز انسٹالیشن
+    .style = { permissions-window2.style }
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = ترتیباں - آٹو پلے
+    .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = ترتیباں - آٹو پلے
+    .style = { permissions-window2.style }
+permissions-site-autoplay-desc = تساں انہاں سائٹاں کوں منظم کر سڳدے او جیڑھیاں تہاݙی ڈیفالٹ آٹو پلے ترتیباں دی پیروی نہیں کریندیاں۔
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = ترتیباں - نوٹیفکیشن اجازتاں
+    .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = ترتیباں - نوٹیفکیشن اجازتاں
+    .style = { permissions-window2.style }
+permissions-site-notification-disable-label =
+    .label = اطلاعات دی اجازت ݙیوݨ کیتے نویاں درخواستاں کوں روکو۔
+permissions-site-notification-disable-desc = ایہ کہیں وی ویب سائٹ کوں نوٹیفیکیشن بھیڄݨ دی اجازت دی درخواست کرݨ کنوں روک ݙیسے جیڑھے اوپر درج کائنی۔ اطلاعات کوں  ݙکݨ نال ویب سائٹ دیاں کجھ خصوصیات ترت سڳدیاں ہن۔
+
+## Site Permissions - Location
+
+permissions-site-location-window =
+    .title = ترتیباں - محل وقوع دیاں اجازتاں
+    .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = ترتیباں ۔ محل وقوع دیاں اجازتاں
+    .style = { permissions-window2.style }
+permissions-site-location-disable-label =
+    .label = تہاݙے مقام تک رسائی کیتے پچھݨ والی نویاں درخواستاں کوں روکو۔
+permissions-site-location-disable-desc = ایہ اوتے درج نہ تھیوݨ والی کہیں وی ویب سائٹ کوں تہاݙے مقام تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے۔ تہاݙے مقام تک رسائی کوں روکݨ نال ویب سائٹ دی کجھ خصوصیات ترٹ سڳدیاں ہن۔
+
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = ترتیباں - ورچوئل رئیلٹی اجازتاں
+    .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = ترتیباں - ورچوئل رئیلٹی اجازتاں
+    .style = { permissions-window2.style }
+permissions-site-xr-disable-label =
+    .label = تہاݙے ورچوئل رئیلٹی ڈیوائسز تک رسائی دی درخواست کرݨ والیاں نویاں درخواستاں کوں روکو۔
+
+## Site Permissions - Camera
+
+permissions-site-camera-window =
+    .title = ترتیباں - کیمرہ اجازتاں
+    .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = ترتیباں - کیمرہ اجازتاں
+    .style = { permissions-window2.style }
+permissions-site-camera-disable-label =
+    .label = اپݨے کیمرے تک رسائی کیتے پچھݨ والیاں نویاں درخواستاں کوں روکو۔
+permissions-site-camera-disable-desc = ایہ کہیں وی ویب سائٹ کوں تہاݙے کیمرے تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے جیڑھا اوتے درج کائنی۔ تہاݙے کیمرے تک رسائی کوں روکݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window =
+    .title = ترتیباں - مائیکروفون دیاں اجازتاں
+    .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = ترتیباں - مائیکروفون دیاں اجازتاں
+    .style = { permissions-window2.style }
+permissions-site-microphone-disable-label =
+    .label = اپݨے مائیکروفون تک رسائی دی درخواست کرݨ والیاں نویاں درخواستاں کوں روکو۔
+permissions-site-microphone-disable-desc = ایہ اوتے درج نہ تھیوݨ والی کہیں وی ویب سائٹ کوں تہاݙے مائیکروفون تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے۔ تہاݙے مائیکروفون تک رسائی کوں رد کرݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔
