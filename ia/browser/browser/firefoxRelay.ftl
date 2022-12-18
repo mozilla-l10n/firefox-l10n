@@ -15,6 +15,7 @@ firefox-relay-get-unlimited-masks =
     .label = Gerer le mascas
     .accesskey = G
 firefox-relay-opt-in-title = Protege tu adresse email
+firefox-relay-opt-in-subtitle = Adder { -relay-brand-name }
 firefox-relay-generate-mask-title = Protege tu adresse email
 firefox-relay-opt-in-confirmation-enable =
     .label = Continuar
