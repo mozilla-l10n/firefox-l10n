@@ -13,3 +13,4 @@ about-logging-set-log-file = Указать файл журнала
 about-logging-set-log-modules = Указать модули журнала
 about-logging-start-logging = Начать ведение журнала
 about-logging-stop-logging = Остановить ведение журнала
+-profiler-brand-name = Профайлер Firefox
