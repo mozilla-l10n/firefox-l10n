@@ -13,3 +13,12 @@ about-logging-set-log-file = Подеси датотеку за бележење
 about-logging-set-log-modules = Подеси модуле за бележење
 about-logging-start-logging = Покрени бележење
 about-logging-stop-logging = Заустави бележење
+-profiler-brand-name =
+    { $case ->
+       *[nom] Firefox Profiler
+        [gen] Firefox Profiler-а
+        [dat] Firefox Profiler-у
+        [acc] Firefox Profiler
+        [ins] Firefox Profiler-ом
+        [loc] Firefox Profiler-у
+    }
