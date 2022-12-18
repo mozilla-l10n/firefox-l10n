@@ -9,3 +9,5 @@ about-logging-set-log-file = حدد ملف السجل
 about-logging-set-log-modules = حدد وحدات السجل
 about-logging-start-logging = ابدأ تسجيل الوقائع
 about-logging-stop-logging = أوقف تسجيل الوقائع
+
+-profiler-brand-name = Firefox Profiler
