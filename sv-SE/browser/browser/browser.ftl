@@ -965,3 +965,12 @@ refresh-blocked-redirect-label = { -brand-short-name } har förhindrat att den h
 refresh-blocked-allow =
     .label = Tillåt
     .accesskey = T
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } maskerar din riktiga e-postadress för att skydda dig från dataintrång och spam.
+firefox-relay-offer-how-we-integrate = Genom att fortsätta kommer du att kunna generera nya { -relay-brand-short-name } e-postalias direkt från din lösenordshanterare för { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Vi vidarebefordrar alla e-postmeddelanden från <strong>{ $sitename }</strong> till <strong>{ $useremail }</strong>.

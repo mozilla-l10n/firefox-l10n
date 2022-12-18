@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Visa varningar om lösenord för webbplatser med intrång
     .accesskey = V
 forms-breach-alerts-learn-more-link = Läs mer
+relay-integration =
+    .label = Aktivera { -relay-brand-name } i lösenordshanteraren för { -brand-short-name }
+relay-integration-learn-more-link = Läs mer
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Autofyll inloggningar och lösenord
@@ -1001,6 +1004,9 @@ content-blocking-fingerprinters = Fingeravtrycksspårare
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Förhandstesta vår mest kraftfulla sekretessfunktion någonsin
     .accesskey = F
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totalt skydd mot kakor isolerar kakor från webbplatsen du är på, så spårare inte kan använda dem för att följa dig mellan webbplatser.
 content-blocking-etp-standard-tcp-rollout-learn-more = Lär dig mer
