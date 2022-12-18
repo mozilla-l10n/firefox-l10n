@@ -13,3 +13,5 @@ about-logging-set-log-file = Caktoni Kartelë Regjistër
 about-logging-set-log-modules = Caktoni Module Regjistrimi
 about-logging-start-logging = Filloje Regjistrimin
 about-logging-stop-logging = Ndal Regjistrimin
+
+-profiler-brand-name = Firefox Profiler
