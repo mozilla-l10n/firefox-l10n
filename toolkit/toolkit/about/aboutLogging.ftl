@@ -13,3 +13,5 @@ about-logging-set-log-file = Nastavi dnevniško datoteko
 about-logging-set-log-modules = Nastavi dnevniške module
 about-logging-start-logging = Začni beleženje
 about-logging-stop-logging = Končaj beleženje
+
+-profiler-brand-name = Firefox Profiler
