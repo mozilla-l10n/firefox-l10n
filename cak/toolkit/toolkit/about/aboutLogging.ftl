@@ -9,3 +9,5 @@ about-logging-set-log-file = Tijikib'äx nitz'ib'äx yakb'äl
 about-logging-set-log-modules = Tijikib'äx Yetz'ib'äx taq Juperaj
 about-logging-start-logging = Titikirisäx tajin nitz'ib'äx
 about-logging-stop-logging = Titanab'äx tajin nitz'ib'äx
+
+-profiler-brand-name = Firefox Profiler
