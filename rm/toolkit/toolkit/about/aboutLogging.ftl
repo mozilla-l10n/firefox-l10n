@@ -13,3 +13,5 @@ about-logging-set-log-file = Definir la datoteca da protocol
 about-logging-set-log-modules = Definir ils moduls da protocol
 about-logging-start-logging = Cumenzar a protocollar
 about-logging-stop-logging = Chalar da protocollar
+
+-profiler-brand-name = Firefox Profiler
