@@ -136,11 +136,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = ਮਦਦ ਲਵੋ
 urlbar-search-tips-confirm = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
+urlbar-search-tips-confirm-short = ਸਮਝੇ
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = ਟੋਟਕਾ:
+urlbar-result-menu-button =
+    .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -277,30 +280,42 @@ quickactions-addons = ਐਡ-ਆਨ ਨੂੰ ਦੇਖੋ
 quickactions-cmd-addons2 = ਐਡ-ਆਨ
 # Opens the bookmarks library window
 quickactions-bookmarks = ਬੁੱਕਮਾਰਕ ਵੇਖੋ
+# Opens the bookmarks library window
+quickactions-bookmarks2 = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-bookmarks = ਬੁੱਕਮਾਰਕ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ਅਤੀਤ ਮਿਟਾਓ
 quickactions-cmd-clearhistory = ਅਤੀਤ ਮਿਟਾਓ
 # Opens about:downloads page
 quickactions-downloads = ਡਾਊਨਲੋਡ ਨੂੰ ਖੋਲ੍ਹੋ
+# Opens about:downloads page
+quickactions-downloads2 = ਡਾਊਨਲੋਡ ਵੇਖੋ
 quickactions-cmd-downloads = ਡਾਊਨਲੋਡ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-extensions = ਇਕਸਟੈਨਸ਼ਨ
 # Opens the devtools web inspector
 quickactions-inspector = ਇੰਸਪੈਸਕਟਰ ਖੋਲ੍ਹੋ
+# Opens the devtools web inspector
+quickactions-inspector2 = ਡਿਵੈਲਪਰ ਟੂਲ ਖੋਲ੍ਹੋ
 quickactions-cmd-inspector = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ
 # Opens about:logins
 quickactions-logins = ਲਾਗਇਨ ਵੇਖੋ
+# Opens about:logins
+quickactions-logins2 = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-logins = ਲਾਗਇਨ, ਪਾਸਵਰਡ
 # Opens about:addons page in the plugins section
 quickactions-plugins = ਪਲੱਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-plugins = ਪਲੱਗਇਨ
 # Opens the print dialog
 quickactions-print = ਪਰਿੰਟ ਕਰੋ
+# Opens the print dialog
+quickactions-print2 = ਸਫ਼਼ਾ ਪਰਿੰਟ ਕਰੋ
 quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
 # Opens a new private browsing window
 quickactions-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਖੋਲ੍ਹੋ
+# Opens a new private browsing window
+quickactions-private2 = ਨਿੱਜੀ ਵਿੰਡੋ ਖੋਲ੍ਹੋ
 quickactions-cmd-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
@@ -310,9 +325,13 @@ quickactions-restart = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ �
 quickactions-cmd-restart = ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ
 # Opens the screenshot tool
 quickactions-screenshot2 = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
+# Opens the screenshot tool
+quickactions-screenshot3 = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
 quickactions-cmd-screenshot = ਸਕਰੀਨਸ਼ਾਟ
 # Opens about:preferences
 quickactions-settings = ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+# Opens about:preferences
+quickactions-settings2 = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 quickactions-cmd-settings = ਸੈਟਿੰਗਾਂ, ਮੇਰੀਆਂ ਪਸੰਦਾਂ, ਚੋਣਾਂ
 # Opens about:addons page in the themes section
 quickactions-themes = ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
@@ -322,6 +341,8 @@ quickactions-update = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰ�
 quickactions-cmd-update = ਅੱਪਡੇਟ ਕਰੋ
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ਸਰੋਤ ਵੇਖੋ
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = ਸਫ਼ੇ ਦੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ
 quickactions-cmd-viewsource = ਸਰੋਤ ਵੇਖੋ, ਸਰੋਤ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -937,6 +958,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = ਇਕਸਟੈਨਸ਼ਨ
+    .tooltiptext =
+        Extensions
+        ਇਜਾਜ਼ਤਾਂ ਚਾਹੀਦੀਆਂ ਹਨ
 
 ## Autorefresh blocker
 
@@ -945,3 +971,12 @@ refresh-blocked-redirect-label = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼�
 refresh-blocked-allow =
     .label = ਮਨਜ਼ੂਰ
     .accesskey = A
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } ਤੁਹਾਡੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਉਹਲੇ ਰੱਖ ਕੇ ਡਾਟੇ ਦੀ ਉਲੰਘਣਾ ਅਤੇ ਸਪੈਮ ਸੁਨੇਹਿਆਂ ਤੋਂ ਸੁਰੱਖਿਅ ਰੱਖਦਾ ਹੈ।
+firefox-relay-offer-how-we-integrate = ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ { -brand-shorter-name } ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਤੋਂ ਸਿੱਧਾ ਨਵਾਂ { -relay-brand-short-name } ਤਿਆਰ ਕਰ ਸਕੋਗੇ।
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = ਅਸੀਂ <strong>{ $sitename }</strong> ਤੋਂ ਸਾਰੀਆਂ ਈਮੇਲਾਂ ਨੂੰ <strong>{ $useremail }</strong> ਉੱਤੇ ਭੇਜਾਂਗੇ।
