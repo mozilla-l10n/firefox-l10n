@@ -129,3 +129,81 @@ media-bg-img = پس منظر
 media-border-img = بارڈر
 media-list-img = شق
 media-cursor = کرسر
+media-object = آبجیکٹ
+media-embed = شامل کرو
+media-link = آئیکان
+media-input = ان پٹ
+media-video = ویڈیو
+media-audio = آڈیو
+saved-passwords-yes = جیا
+saved-passwords-no = کو
+no-page-title =
+    .value = بلاعنوان ورقہ:
+general-quirks-mode =
+    .value = نرالا موڈ
+general-strict-mode =
+    .value = معیاری تعمیل موڈ
+page-info-security-no-owner =
+    .value = ایہ ویب سائٹ ملکیت دی معلومات نئیں ݙیندی
+media-select-folder = تصویراں ہتھیکڑیاں کرݨ کیتے فولڈر چݨو
+media-unknown-not-cached =
+    .value = اݨ ڄاتا (کیشڈ کائنی)
+permissions-use-default =
+    .label = طے شدہ استعمال کرو
+security-no-visits = کو
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] میٹا (1 ٹیگ)
+           *[other] میٹا ({ $tags } ٹیگز)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] کو
+        [one] جیا، ہک واری
+       *[other] جیا، { $visits } واری
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } کے بی { $bytes } بائٹ
+           *[other] { $kb } کے بی { $bytes } بائٹس
+        }
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } نقش
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } کے بی
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { $website } کنوں بلاک تصویراں
+    .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) — The url of the website pageInfo is getting info for
+page-info-page =
+    .title = ورقہ معلومات - { $website }
+page-info-frame =
+    .title = فریم معلومات - { $website }
