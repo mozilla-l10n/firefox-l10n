@@ -13,3 +13,5 @@ about-logging-set-log-file = Setja skráningarskrá
 about-logging-set-log-modules = Setja skráningar einingar
 about-logging-start-logging = Hefja skráningu
 about-logging-stop-logging = Stöðva skráningu
+
+-profiler-brand-name = Firefox Profiler
