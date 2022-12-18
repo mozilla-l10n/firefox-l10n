@@ -15,3 +15,5 @@ about-logging-set-log-file = Logbestand instellen
 about-logging-set-log-modules = Logmodules instellen
 about-logging-start-logging = Registratie starten
 about-logging-stop-logging = Registratie stoppen
+
+-profiler-brand-name = Firefox Profiler
