@@ -11,3 +11,5 @@ about-logging-set-log-file = Protokolowu dataju póstajiś
 about-logging-set-log-modules = Protokolowe module póstajiś
 about-logging-start-logging = Protokolěrowanje zachopiś
 about-logging-stop-logging = Protokolěrowanje skóńcyś
+
+-profiler-brand-name = Firefox Profiler
