@@ -15,3 +15,5 @@ about-logging-set-log-file = Танзими файли сабти рӯйдодҳ
 about-logging-set-log-modules = Танзими модули сабти рӯйдодҳо
 about-logging-start-logging = Оғоз кардани сабти рӯйдодҳо
 about-logging-stop-logging = Анҷом додани сабти рӯйдодҳо
+
+-profiler-brand-name = Firefox Profiler
