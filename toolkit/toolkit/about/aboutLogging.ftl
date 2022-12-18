@@ -13,3 +13,5 @@ about-logging-set-log-file = Gosod Ffeil Cofnodi
 about-logging-set-log-modules = Gosod Modiwlau Cofnodi
 about-logging-start-logging = Cychwyn Cofnodi
 about-logging-stop-logging = Peidio Cofnodi
+
+-profiler-brand-name = Firefox Profiler
