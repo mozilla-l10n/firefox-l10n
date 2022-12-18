@@ -47,6 +47,8 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Voortgang: stap { $current } van { $total }
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Voortgang: stap { $current } van { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
