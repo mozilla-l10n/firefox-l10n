@@ -53,6 +53,8 @@ urlbar-identity-button =
 
 urlbar-services-notification-anchor =
     .tooltiptext = ເປີດແຜງຂໍ້ຄວາມການຕິດຕັ້ງ
+urlbar-web-notification-anchor =
+    .tooltiptext = ປ່ຽນແປງວ່າທ່ານສາມາດໄດ້ຮັບການແຈ້ງເຕືອນຈາກເວັບໄຊທ໌
 urlbar-midi-notification-anchor =
     .tooltiptext = ເປີດແຜງ MIDI
 urlbar-eme-notification-anchor =
@@ -565,6 +567,10 @@ pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບ
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>ບາງສ່ວນຂອງໜ້ານີ້ຂັດຂ້ອງ.</strong> ເພື່ອໃຫ້ { -brand-product-name } ຮູ້ກ່ຽວກັບບັນຫານີ້ ແລະແກ້ໄຂໄດ້ໄວຂຶ້ນ, ກະລຸນາສົ່ງລາຍງານ.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = ບາງສ່ວນຂອງໜ້ານີ້ຂັດຂ້ອງ. ເພື່ອໃຫ້ { -brand-product-name } ຮູ້ກ່ຽວກັບບັນຫານີ້ ແລະແກ້ໄຂໄດ້ໄວຂຶ້ນ, ກະລຸນາສົ່ງລາຍງານ.
 crashed-subframe-learnmore-link =
     .value = ຮຽນຮູ້ເພີ່ມເຕີມ
 crashed-subframe-submit =
