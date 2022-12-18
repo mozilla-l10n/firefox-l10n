@@ -242,3 +242,16 @@
                 [lower] přehledem Firefoxu
             }
     }
+
+-relay-brand-name =
+    { $case ->
+       *[nom] Firefox Relay
+        [gen] Firefoxu Relay
+        [dat] Firefoxu Relay
+        [acc] Firefox Relay
+        [voc] Firefoxe Relay
+        [loc] Firefoxu Relay
+        [ins] Firefoxem Relay
+    }
+    .gender = masculine
+-relay-brand-short-name = Relay
