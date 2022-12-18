@@ -114,6 +114,9 @@ monitor-partial-breaches-percentage = { $percentageResolved } فیصد مکمل
 monitor-partial-breaches-motivation-title-start = زبردست آغاز!
 monitor-partial-breaches-motivation-title-middle = اینکوں جاری رکھو!
 monitor-partial-breaches-motivation-title-end = تقریباً تھی ڳئے! جاری رکھو۔
+monitor-partial-breaches-motivation-description = اپݨیاں باقی رہندیاں خلاف ورزیاں کوں { -monitor-brand-short-name } تے حل کرو۔
+monitor-resolve-breaches-link = خلاف ورزیاں حل کرو
+    .title = { -monitor-brand-short-name } تے خلاف ورزیاں حل کرو
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
