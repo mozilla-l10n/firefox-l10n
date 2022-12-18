@@ -13,3 +13,4 @@ about-logging-set-log-file = Nastaviť súbor protokolu
 about-logging-set-log-modules = Nastaviť moduly protokolu
 about-logging-start-logging = Spustiť záznam protokolu
 about-logging-stop-logging = Zastaviť záznam protokolu
+-profiler-brand-name = Firefox Profiler
