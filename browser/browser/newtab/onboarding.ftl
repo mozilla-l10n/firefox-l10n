@@ -25,6 +25,9 @@ return-to-amo-addon-title = ఇప్పుడు <img data-l10n-name="icon"/> <
 return-to-amo-add-extension-label = పొడగింతను చేర్చు
 return-to-amo-add-theme-label = అలంకారాన్ని చేర్చు
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -50,9 +53,7 @@ onboarding-welcome-steps-indicator =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = మొదలుపెట్టండి
-
 mr1-onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
-
 mr1-onboarding-set-default-secondary-button-label = ఇప్పుడు కాదు
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -62,22 +63,17 @@ mr1-onboarding-set-default-secondary-button-label = ఇప్పుడు కా
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-secondary-button-label = ఇప్పడు కాదు
-
 mr2-onboarding-colorway-header = జీవితం రంగులమయం
 mr2-onboarding-colorway-secondary-button-label = ఇప్పుడు కాదు
 mr2-onboarding-colorway-label-balanced = సంతులితం
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = అప్రమేయం
-
 mr1-onboarding-theme-header = దీన్ని మీ స్వంతం చేసుకోండి
 mr1-onboarding-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
 mr1-onboarding-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
 mr1-onboarding-theme-secondary-button-label = ఇప్పుడు కాదు
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = వ్యవస్థ అలంకారం
-
 onboarding-theme-primary-button-label = పూర్తయింది
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -107,9 +103,7 @@ onboarding-theme-primary-button-label = పూర్తయింది
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = మీ భాషను ఎంచుకోండి
-
 mr2022-onboarding-live-language-text = { -brand-short-name } మీ భాష మాట్లాడుతుంది
-
 onboarding-live-language-secondary-cancel-download = రద్దుచేయి
 onboarding-live-language-skip-button-label = దాటవేయి
 
@@ -140,8 +134,6 @@ mr2022-onboarding-secondary-skip-button-label = ఈ అంచెను దాట
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-label-default = అప్రమేయం
-mr2022-onboarding-colorway-tooltip-default =
-    .title = అప్రమేయం
 mr2022-onboarding-colorway-description-default = <b>నా ప్రస్తుత { -brand-short-name } రంగులను వాడు.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -158,3 +150,10 @@ mr2022-onboarding-colorway-description-default = <b>నా ప్రస్తు
 
 mr2022-onboarding-gratitude-primary-button-label = కొత్తవేమిటో చూడండి
 mr2022-onboarding-gratitude-secondary-button-label = విహరించడం మొదలుపెట్టండి
+
+## Onboarding spotlight for infrequent users
+
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
