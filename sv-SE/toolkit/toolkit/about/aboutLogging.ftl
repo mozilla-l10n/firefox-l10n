@@ -60,3 +60,7 @@ about-logging-error = Fel:
 about-logging-invalid-output = Ogiltigt värde "{ $v }" för nyckeln "{ $k }"
 about-logging-unknown-logging-preset = Okänd förinställning av logg "{ $v }"
 about-logging-unknown-profiler-preset = Okänd förinställning av profilering "{ $v }"
+about-logging-unknown-option = Okänt alternativ för about:logging "{ $k }"
+about-logging-configuration-url-ignored = Konfigurations-URL ignoreras
+about-logging-file-and-profiler-override = Det går inte att tvinga fram filutmatning och åsidosätta profileringsalternativ samtidigt
+about-logging-configured-via-url = Alternativ konfigurerat via URL
