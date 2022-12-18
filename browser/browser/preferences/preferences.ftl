@@ -799,6 +799,7 @@ forms-breach-alerts =
     .label = Veri ihlaline uğrayan sitelerdeki parolalarla ilgili uyarı göster
     .accesskey = V
 forms-breach-alerts-learn-more-link = Daha fazla bilgi al
+relay-integration-learn-more-link = Daha fazla bilgi al
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Kullanıcı adı ve parolaları otomatik doldur
@@ -1001,6 +1002,9 @@ content-blocking-fingerprinters = Parmak izi toplayıcılar
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Şimdiye kadarki en güçlü gizlilik özelliğimizi ilk deneyen siz olun
     .accesskey = m
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Komple çerez koruması, çerezleri sadece bulunduğunuz sitenin kullanabileceği şekilde sınırlar. Bu sayede çerezler hangi sitelerde gezindiğinizi izlemek için kullanılamaz.
 content-blocking-etp-standard-tcp-rollout-learn-more = Daha fazla bilgi al
