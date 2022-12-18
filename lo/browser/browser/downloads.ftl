@@ -48,6 +48,11 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = ເປີດໃນ { $handler }
     .accesskey = I
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-use-system-default =
+    .label = ເປີດໃນ System Viewer ສະເໝີ
+    .accesskey = w
 
 ##
 
@@ -140,6 +145,8 @@ downloads-open-file =
 
 downloading-file-opens-in-seconds = ກຳລັງເປີດໃນ { $seconds }s…
 downloading-file-opens-in-some-time = ກຳລັງເປີດເມື່ອສຳເລັດ...
+downloading-file-opens-in-minutes-2 =
+    .value = ເປີດໃນ { $minutes }m…
 downloading-file-opens-in-some-time-2 =
     .value = ກຳລັງເປີດເມື່ອສຳເລັດ...
 downloading-file-click-to-open =
