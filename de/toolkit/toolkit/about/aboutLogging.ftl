@@ -13,3 +13,5 @@ about-logging-set-log-file = Als Protokolldatei festlegen
 about-logging-set-log-modules = Als zu protokollierende Module festlegen
 about-logging-start-logging = Aufzeichnung starten
 about-logging-stop-logging = Aufzeichnung beenden
+
+-profiler-brand-name = Firefox Profiler
