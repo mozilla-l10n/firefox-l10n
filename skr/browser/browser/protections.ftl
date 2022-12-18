@@ -103,8 +103,17 @@ monitor-no-breaches-description = تہاݙی کوئی معلوم خلاف ورز
 monitor-view-report-link = رپورٹ ݙیکھو
     .title = { -monitor-brand-short-name } تے خلاف ورزیاں کوں حل کرو
 monitor-breaches-unresolved-title = اپݨیاں خلاف ورزیاں کوں حل کرو
-monitor-partial-breaches-motivation-title-start = شروع کرو!
-monitor-partial-breaches-motivation-title-middle = جاری رکھو!
+monitor-breaches-unresolved-description = خلاف ورزی دیاں تفصیلاں دا جائزہ گھنݨ تے اپݨیاں معلومات دے تحفظ کیتے اقدامات کرݨ دے بعد تساں خلاف ورزیاں کوں بطور حل شدہ نشان زد کر سڳدے او۔
+monitor-manage-breaches-link = خلاف ورزیاں منظم کرو
+    .title = { -monitor-brand-short-name } تے خلاف ورزیاں منظم کرو
+monitor-breaches-resolved-title = ٻہوں چنڳاں! تساں تمام معلوم شدہ خلاف ورزیاں کوں حل کر گھدا ہے۔
+monitor-breaches-resolved-description = جے تہاݙا ای میل کہیں نویں خلاف ورزی وِچ ظاہر تھیندا ہے، تاں اساں تہاکوں اطلاع ݙیسوں۔
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved } فیصد مکمل
+monitor-partial-breaches-motivation-title-start = زبردست آغاز!
+monitor-partial-breaches-motivation-title-middle = اینکوں جاری رکھو!
+monitor-partial-breaches-motivation-title-end = تقریباً تھی ڳئے! جاری رکھو۔
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
