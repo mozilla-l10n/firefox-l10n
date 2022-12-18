@@ -53,6 +53,12 @@ downloads-cmd-use-system-default-named =
 downloads-cmd-always-use-system-default =
     .label = ເປີດໃນ System Viewer ສະເໝີ
     .accesskey = w
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = ເປີດສະເໝີໃນ { $handler }
+    .accesskey = w
 
 ##
 
@@ -196,6 +202,8 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = ມີຂໍ້ຜິດພາດໃນການດາວໂຫລດ
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = ບໍ່ສາມາດບັນທຶກການດາວໂຫຼດໄດ້ເນື່ອງຈາກມັນຖືກບລັອກໂດຍສ່ວນຂະຫຍາຍ.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     ບໍ່ສາມາດບັນທຶກການດາວໂຫລດນີ້ໄດ້ເພາະວ່າເກີດມີຂໍ້ພິດຜາດທີ່ບໍ່ຮູ້ຈັກຂື້ນ.

@@ -43,6 +43,9 @@ browser-main-window-mac =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } ການທ່ອງເວັບສ່ວນຕົວ
 
 ##
 
@@ -261,9 +264,13 @@ quickactions-plugins = ຈັດການປລັກອິນ
 quickactions-cmd-plugins = ປລັກອິນ
 # Opens the print dialog
 quickactions-print = ພິມ
+# Opens the print dialog
+quickactions-print2 = ໜ້າພິມ
 quickactions-cmd-print = ພິມ
 # Opens a new private browsing window
 quickactions-private = ເປີດໜ້າຕ່າງການຊອກຫາສ່ວນຕົວ
+# Opens a new private browsing window
+quickactions-private2 = ເປີດປ່ອງຢ້ຽມສ່ວນຕົວ
 quickactions-cmd-private = ການທ່ອງເວັບແບບສ່ວນຕົວ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = ຟື້ນຟູ { -brand-short-name }
@@ -616,6 +623,8 @@ bookmarks-tools =
     .label = ເຄື່ອງມືບຸກມາກ
 bookmarks-bookmark-edit-panel =
     .label = ແກ້ໄຂບຸກມາກນີ້
+bookmarks-subview-edit-bookmark =
+    .label = ແກ້ໄຂບຸກມາກນີ້...
 bookmarks-toolbar-menu =
     .label = ແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder =
@@ -796,3 +805,7 @@ unified-extensions-button-permissions-needed =
 refresh-blocked-allow =
     .label = ອະນຸຍາດ
     .accesskey = A
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } ປິດບັງທີ່ຢູ່ອີເມວທີ່ແທ້ຈິງຂອງທ່ານເພື່ອຊ່ວຍປົກປ້ອງທ່ານຈາກການລະເມີດຂໍ້ມູນ ແລະສະແປມ.
