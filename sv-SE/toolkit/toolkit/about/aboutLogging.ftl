@@ -18,6 +18,7 @@
 -profiler-brand-name = Firefox Profiler
 # This is the title of the page
 about-logging-title = Om loggning
+about-logging-page-title = Hantera loggar
 about-logging-current-log-file = Aktuell loggfil:
 about-logging-current-log-modules = Aktuella loggmoduler:
 about-logging-new-log-file = Ny loggfil:
@@ -34,12 +35,21 @@ about-logging-some-elements-disabled = Loggning konfigurerad via URL, vissa konf
 about-logging-info = Info:
 about-logging-log-modules-selection = Val av loggmodul
 about-logging-new-log-modules = Nya loggmoduler:
+about-logging-logging-output-selection = Utdata för loggar
+about-logging-logging-to-file = Loggar till en fil
+about-logging-logging-to-profiler = Loggar till { -profiler-brand-name }
 about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
+about-logging-logging-preset-selector-text = Förinställning för loggar:
 
 ## Logging presets
 
+about-logging-preset-networking-label = Nätverk
+about-logging-preset-networking-description = Logga moduler för att diagnostisera nätverksproblem
+about-logging-preset-media-playback-label = Uppspelning av media
+about-logging-preset-media-playback-description = Logga moduler för att diagnostisera uppspelningsproblem av media (inte videokonferensproblem)
 about-logging-preset-custom-label = Anpassad
+about-logging-preset-custom-description = Loggmoduler manuellt valda
 # Error handling
 about-logging-error = Fel:
 
@@ -48,3 +58,5 @@ about-logging-error = Fel:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Ogiltigt värde "{ $v }" för nyckeln "{ $k }"
+about-logging-unknown-logging-preset = Okänd förinställning av logg "{ $v }"
+about-logging-unknown-profiler-preset = Okänd förinställning av profilering "{ $v }"
