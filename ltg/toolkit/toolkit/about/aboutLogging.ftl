@@ -9,3 +9,5 @@ about-logging-set-log-file = Set Log File
 about-logging-set-log-modules = Set Log Modules
 about-logging-start-logging = Start Logging
 about-logging-stop-logging = Stop Logging
+
+-profiler-brand-name = Firefox Profiler
