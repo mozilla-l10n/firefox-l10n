@@ -60,6 +60,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = ہر جاہ اپݨے بک مارکس سینک کرو
+cfr-doorhanger-bookmark-fxa-body = وݙی لبھت! ہݨ اپݨے موبائل آلات تے ایں نشانی دے بغیر نہ رہو۔ ہک { -fxaccount-brand-name } دے نال شروع کرو۔
 cfr-doorhanger-bookmark-fxa-link-text = ہݨ بک مارکس سینک کرو …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = بٹن بند کرو
@@ -68,6 +69,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = بغیر فالو تھئے براؤز کرو
+cfr-protections-panel-body = اپݨا ڈیٹا اپݨے کول رکھو۔ { -brand-short-name } تہاکوں ٻہوں سارے عام ٹریکرز کنوں بچیندا ہے جیڑھا تساں آن لائن کریندے رہندو۔
 cfr-protections-panel-link-text = ٻیا سِکھو
 
 ## What's New toolbar button and panel
@@ -97,6 +99,7 @@ cfr-doorhanger-milestone-close-button = بند کرو
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = تہاݙی رازداری اہم اہے۔ { -brand-short-name } ہݨ جݙاں ممکن ہووے تہاݙی DNS درخواستاں کوں محفوظ طریقے نال کہیں بھائیوال سروس تک پڄیندا ہے تاں جو تساں براؤز کریندے ویلھے تہاݙی حفاظت کرن۔
 cfr-doorhanger-doh-header = زیادہ محفوظ، ڳُجھی DNS تلاش
 cfr-doorhanger-doh-primary-button-2 = ٹھیک ہے
     .accesskey = O
@@ -113,6 +116,7 @@ cfr-doorhanger-fission-secondary-button = ٻیا سکھو
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = تھی سڳدے ایں سائٹ تے موجود ویڈیوز { -brand-short-name } دے ایں ورژن تے صحیح طریقے نال نہ چلن۔ مکمل ویڈیوز سپورٹ کیتے، ہݨیں { -brand-short-name } کوں اپ ڈیٹ کرو۔
 cfr-doorhanger-video-support-header = ویڈیو چلاوݨ کیتے { -brand-short-name } اپڈیٹ کرو
 cfr-doorhanger-video-support-primary-button = ہݨ ابڈیٹ کرو
     .accesskey = U

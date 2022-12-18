@@ -266,6 +266,9 @@ mr2022-onboarding-set-default-only-subtitle = ہک غیر منافع بخش دے
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = { -brand-product-name } کوں پیار کرݨ دا شکریہ
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = ہک اینجھا براؤزر استعمال کرو جیڑھا ویب تے زپ کریندے ویلھے تہاݙی رازداری دا دفاع کرے۔ اساݙی نویں نکور اپ ڈیٹ انہاں چیزاں کنوں بھری ہوئی ہے جیڑھیاں تساں پسند کریندے او۔
 mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } نجی براؤزنگ وی شامل کرو۔
 
 ## MR2022 New User Set Default screen strings
@@ -305,6 +308,7 @@ mr2022-onboarding-colorway-description-default = <b> میݙا موجودہ { -br
 mr2022-onboarding-colorway-label-playmaker = پلے میکر
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = پلے میکر (رتا)
+mr2022-onboarding-colorway-description-playmaker = <b>تساں ہک پلے میکر او۔ </b> تساں جیتݨ دے موقعے پیدا کریندے او اتے اپݨے آڑے پاڑے دے ہر ڄݨے کوں انہاں دے کھیݙ کوں اُچا کرݨ وِچ مدد کریندے او۔
 mr2022-onboarding-colorway-label-expressionist = اظہار خیال کرݨ والا
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = اظہار خیال کرݨ والا (پیلا)
