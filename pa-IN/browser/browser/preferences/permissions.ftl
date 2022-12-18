@@ -5,81 +5,65 @@
 permissions-window =
     .title = ਛੋਟ
     .style = width: 36em
-
 permissions-window2 =
     .title = ਛੋਟ
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ਵੈੱਬਸਾਈਟ ਦਾ ਸਿਰਨਾਵਾਂ
     .accesskey = d
-
 permissions-block =
     .label = ਪਾਬੰਦੀ
     .accesskey = B
-
+permissions-disable-etp =
+    .label = ਛੋਟ ਜੋੜੋ
+    .accesskey = E
 permissions-session =
     .label = ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ
     .accesskey = S
-
 permissions-allow =
     .label = ਮਨਜ਼ੂਰ ਕਰੋ
     .accesskey = A
-
 permissions-button-off =
     .label = ਬੰਦ ਕਰੋ
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = ਆਰਜੀ ਤੌਰ 'ਤੇ ਬੰਦ ਕਰੋ
     .accesskey = T
-
 permissions-site-name =
     .label = ਵੈੱਬਸਾਈਟ
-
 permissions-status =
     .label = ਹਾਲਤ
-
 permissions-remove =
     .label = ਵੈੱਬਸਾਈਟ ਨੂੰ ਹਟਾਓ
     .accesskey = R
-
 permissions-remove-all =
     .label = ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਹਟਾਓ
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = ਸਾਰੀਆਂ ਵੈਬਸਾਈਟਾਂ ਲਈ ਡਿਫੌਲਟ:
-
 permissions-searchbox =
     .placeholder = ਵੈੱਬਾਸਾਈਟ ਨੂੰ ਲੱਭੋ
-
 permissions-capabilities-autoplay-allow =
     .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 permissions-capabilities-autoplay-block =
     .label = ਆਡੀਓ 'ਤੇ ਪਾਬੰਦੀ ਲਾਓ
 permissions-capabilities-autoplay-blockall =
     .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਤੇ ਪਾਬੰਦੀ ਲਾਓ
-
 permissions-capabilities-allow =
     .label = ਮਨਜ਼ੂਰ
 permissions-capabilities-block =
     .label = ਪਾਬੰਦੀ
 permissions-capabilities-prompt =
     .label = ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ
-
 permissions-capabilities-listitem-allow =
     .value = ਮਨਜ਼ੂਰ
 permissions-capabilities-listitem-block =
     .value = ਪਾਬੰਦੀ
 permissions-capabilities-listitem-allow-session =
     .value = ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ
-
 permissions-capabilities-listitem-off =
     .value = ਬੰਦ
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +79,17 @@ permissions-invalid-uri-label = ਠੀਕ ਹੋਸਟ ਨਾਂ ਦਿਓ ਜ�
 permissions-exceptions-etp-window =
     .title = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਈ ਛੋਟਾਂ
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਈ ਛੋਟਾਂ
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = ਤੁਸੀਂ ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰ ਚੁੱਕੇ ਹੋ।
+permissions-exceptions-manage-etp-desc = ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਦੀ ਚੋਣ ਕਰ ਸਕਦੇ ਹੋ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ। ਜਿਸ ਸਾਈਟ ਦਾ ਤੁਸੀਂ ਇੰਤਜ਼ਾਮ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਦਾ ਸਹੀ ਸਿਰਨਾਵਾਂ ਲਿਖੋ ਅਤੇ ਛੋਟ ਜੋੜੋ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = ਛੋਟਾਂ - ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = ਛੋਟਾਂ - ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
     .style = { permissions-window2.style }
@@ -117,7 +100,6 @@ permissions-exceptions-cookie-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹ�
 permissions-exceptions-https-only-window =
     .title = ਛੋਟ - ਸਿਰਫ਼-HTTPS ਮੋਡ
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = ਛੋਟ - ਸਿਰਫ਼-HTTPS ਮੋਡ
     .style = { permissions-window2.style }
@@ -128,7 +110,6 @@ permissions-exceptions-https-only-desc = ਤੁਸੀਂ ਖਾਸ ਵੈੱਬ�
 permissions-exceptions-popup-window =
     .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਪੌਪਅੱਪ
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਪੌਪਅੱਪ
     .style = { permissions-window2.style }
@@ -139,7 +120,6 @@ permissions-exceptions-popup-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹ�
 permissions-exceptions-saved-logins-window =
     .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਲਾਗਇਨ
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਲਾਗਇਨ
     .style = { permissions-window2.style }
@@ -150,7 +130,6 @@ permissions-exceptions-saved-logins-desc = ਅੱਗੇ ਦਿੱਤੀਆਂ �
 permissions-exceptions-addons-window =
     .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਐਨ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਐਨ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ
     .style = { permissions-window2.style }
@@ -161,7 +140,6 @@ permissions-exceptions-addons-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹ�
 permissions-site-autoplay-window =
     .title = ਸੈਟਿੰਗਾਂ - ਆਪੇ-ਚਲਾਓ
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਆਪੇ-ਚਲਾਓ
     .style = { permissions-window2.style }
@@ -172,7 +150,6 @@ permissions-site-autoplay-desc = ਤੁਸੀਂ ਉਹਨਾਂ ਸਾਈਟਾ
 permissions-site-notification-window =
     .title = ਸੈਟਿੰਗਾਂ - ਨੋਟੀਫਿਕੇਸ਼ਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਨੋਟੀਫਿਕੇਸ਼ਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -186,7 +163,6 @@ permissions-site-notification-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬ
 permissions-site-location-window =
     .title = ਸੈਟਿੰਗਾਂ - ਟਿਕਾਣਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਟਿਕਾਣਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -200,7 +176,6 @@ permissions-site-location-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱ�
 permissions-site-xr-window =
     .title = ਸੈਟਿੰਗਾਂ - ਮਸ਼ੀਨੀ ਅਸਲੀਅਤ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਮਸ਼ੀਨੀ ਅਸਲੀਅਤ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -214,7 +189,6 @@ permissions-site-xr-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ ਨ
 permissions-site-camera-window =
     .title = ਸੈਟਿੰਗਾਂ - ਕੈਮਰਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਕੈਮਰਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -228,7 +202,6 @@ permissions-site-camera-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ
 permissions-site-microphone-window =
     .title = ਸੈਟਿੰਗਾਂ - ਮਾਈਕਰੋਫ਼ੋਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਮਾਈਕਰੋਫ਼ੋਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
