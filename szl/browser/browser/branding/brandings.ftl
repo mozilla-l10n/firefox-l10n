@@ -94,3 +94,6 @@
 # and kept in English.
 -firefox-suggest-brand-name = Firefox doradzo
 
+
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
