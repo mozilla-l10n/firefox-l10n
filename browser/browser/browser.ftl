@@ -961,3 +961,12 @@ refresh-blocked-redirect-label = { -brand-short-name }가 이 페이지에서 �
 refresh-blocked-allow =
     .label = 허용
     .accesskey = A
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name }는 데이터 유출 및 스팸으로부터 사용자를 보호하기 위해 사용자의 실제 이메일 주소를 마스킹합니다.
+firefox-relay-offer-how-we-integrate = 계속하면 { -brand-shorter-name } 비밀번호 관리자에서 직접 새 { -relay-brand-short-name } 이메일 마스크를 생성할 수 있습니다.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong>의 모든 이메일을 <strong>{ $useremail }</strong>로 전달합니다.
