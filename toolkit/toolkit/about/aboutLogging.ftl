@@ -9,3 +9,5 @@ about-logging-set-log-file = Set Fail Log
 about-logging-set-log-modules = Set Modul Log
 about-logging-start-logging = Mulakan Menglog
 about-logging-stop-logging = Hentikan Menglog
+
+-profiler-brand-name = Firefox Profiler
