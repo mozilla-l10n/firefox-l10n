@@ -794,6 +794,9 @@ forms-breach-alerts =
     .label = ਸੰਨ੍ਹ ਲੱਗੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਪਾਸਵਰਡਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀ ਵੇਖਾਓ
     .accesskey = b
 forms-breach-alerts-learn-more-link = ਹੋਰ ਜਾਣੋ
+relay-integration =
+    .label = ਆਪਣੇ { -brand-short-name } ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਵਿੱਚ { -relay-brand-name } ਸਮਰੱਥ ਕਰੋ
+relay-integration-learn-more-link = ਹੋਰ ਜਾਣੋ
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = ਆਪਣੇ-ਆਪ ਭਰਨ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
@@ -998,6 +1001,9 @@ content-blocking-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = ਸਾਡੇ ਸਭ ਤੋਂ ਜ਼ਬਰਦਸਤ ਪਰਦੇਦਾਰੀ ਫ਼ੀਚਰ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ਪੂਰੀ ਕੂਕੀ ਸੁਰੱਖਿਆ ਵਿੱਚ ਜਿਸ ਸਾਈਟ ਉੱਤੇ ਤੁਸੀਂ ਹੋ, ਉਸ ਲਈ ਕੂਕੀਜ਼ ਹੁੰਦੇ ਹਨ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਹੋਰ ਸਾਈਟਾਂ ਵਰਤੇ ਜਾਣ ਦੌਰਾਨ ਟਰੈਕਰ ਉਹਨਾਂ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰ ਸਕਣ।
 content-blocking-etp-standard-tcp-rollout-learn-more = ਹੋਰ ਜਾਣੋ
