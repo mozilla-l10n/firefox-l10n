@@ -9,3 +9,5 @@ about-logging-set-log-file = Postavi fajl zapisnika
 about-logging-set-log-modules = Postavi module zapisnika
 about-logging-start-logging = Počni zapisivanje
 about-logging-stop-logging = Zaustavi zapisivanje
+
+-profiler-brand-name = Firefox Profiler
