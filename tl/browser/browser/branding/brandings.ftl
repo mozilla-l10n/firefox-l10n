@@ -34,3 +34,6 @@
 # and kept in English.
 -firefox-suggest-brand-name = Iminumungkahi ng Firefox
 
+
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
