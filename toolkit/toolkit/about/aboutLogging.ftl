@@ -13,3 +13,5 @@ about-logging-set-log-file = Ezarri erregistro-fitxategia
 about-logging-set-log-modules = Ezarri erregistro-moduluak:
 about-logging-start-logging = Hasi erregistratzen
 about-logging-stop-logging = Gelditu erregistratzen
+
+-profiler-brand-name = Firefox Profiler
