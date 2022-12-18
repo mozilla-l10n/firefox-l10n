@@ -13,3 +13,5 @@ about-logging-set-log-file = Lochbestân ynstelle
 about-logging-set-log-modules = Lochodules ynstelle
 about-logging-start-logging = Loggen starte
 about-logging-stop-logging = Loggen stopje
+
+-profiler-brand-name = Firefox Profiler
