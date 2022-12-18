@@ -14,6 +14,15 @@ select-all-tabs =
 tab-context-play-tab =
     .label = ٹیب چلاؤ
     .accesskey = l
+tab-context-play-tabs =
+    .label = ٹیباں چلاؤ
+    .accesskey = y
+duplicate-tab =
+    .label = واڳی ٹیب
+    .accesskey = D
+duplicate-tabs =
+    .label = واڳی ٹیباں
+    .accesskey = D
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
