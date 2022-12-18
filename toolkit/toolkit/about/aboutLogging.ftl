@@ -15,3 +15,5 @@ about-logging-set-log-file = Aseta lokitiedosto
 about-logging-set-log-modules = Aseta lokitusmoduulit
 about-logging-start-logging = Aloita lokitus
 about-logging-stop-logging = Pysäytä lokitus
+
+-profiler-brand-name = Firefox Profiler
