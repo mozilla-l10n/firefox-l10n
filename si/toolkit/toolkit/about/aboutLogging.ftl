@@ -8,3 +8,5 @@ about-logging-set-log-file = සටහන් ගොනුව සකසන්න
 about-logging-set-log-modules = සටහන් ඒකක සකසන්න
 about-logging-start-logging = සටහන් තැබීම අරඹන්න
 about-logging-stop-logging = සටහන් තැබීම නවතන්න
+
+-profiler-brand-name = Firefox Profiler
