@@ -964,3 +964,12 @@ refresh-blocked-redirect-label = ‏{ -brand-short-name } מנע מעמוד זה
 refresh-blocked-allow =
     .label = לאפשר
     .accesskey = א
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = ‏{ -relay-brand-name } מסווה את כתובת הדוא״ל האמיתית שלך כדי לעזור להגן עליך מפני דליפות נתונים ודואר זבל.
+firefox-relay-offer-how-we-integrate = על־ידי המשך בתהליך, יהיה באפשרותך לייצר מסיכות דוא״ל חדשות של { -relay-brand-short-name } היישר ממנהל הססמאות של ה־{ -brand-shorter-name } שלך.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = אנחנו נעביר את כל הודעות הדוא״ל מ־<strong>{ $sitename }</strong> אל <strong>{ $useremail }</strong>.
