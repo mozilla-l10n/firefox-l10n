@@ -40,7 +40,7 @@ about-logging-logging-to-file = 파일로 로깅
 about-logging-logging-to-profiler = { -profiler-brand-name }에 로깅
 about-logging-no-log-modules = 없음
 about-logging-no-log-file = 없음
-about-logging-logging-preset-selector-text = 로깅 사전 설정:
+about-logging-logging-preset-selector-text = 로깅 프리셋:
 
 ## Logging presets
 
@@ -57,4 +57,10 @@ about-logging-error = 오류:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = “{ $k }“ 키에 대한 잘못된 값 “{ $v }“
+about-logging-unknown-logging-preset = 알 수 없는 로깅 프리셋 “{ $v }“
+about-logging-unknown-profiler-preset = 알 수 없는 프로파일러 프리셋 “{ $v }“
+about-logging-unknown-option = 알 수 없는 about:logging 옵션 “{ $k }“
+about-logging-configuration-url-ignored = 구성 URL이 무시됨
+about-logging-file-and-profiler-override = 파일 출력을 강제하고 동시에 프로파일러 옵션을 재정의할 수는 없음
 about-logging-configured-via-url = URL을 통해 구성된 옵션
