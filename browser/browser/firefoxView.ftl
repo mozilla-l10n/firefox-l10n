@@ -46,6 +46,8 @@ firefoxview-tabpickup-password-locked-header = Anna pääsalasanasi nähdäksesi
 firefoxview-tabpickup-password-locked-description = Jotta pääset käyttämään välilehtiäsi, sinun tulee kirjoittaa { -brand-short-name }in pääsalasana.
 firefoxview-tabpickup-password-locked-link = Lue lisää
 firefoxview-tabpickup-password-locked-primarybutton = Kirjoita pääsalasana
+firefoxview-tabpickup-signed-out-header = Kirjaudu yhdistääksesi uudelleen
+firefoxview-tabpickup-signed-out-primarybutton = Kirjaudu sisään
 firefoxview-tabpickup-syncing = Odota, kun välilehdet synkronoidaan. Siinä kestää vain hetki.
 firefoxview-mobile-promo-header = Nappaa välilehtiä puhelimestasi tai tabletistasi
 firefoxview-mobile-promo-description = Voit tarkastella uusimpia mobiililaitteellasi olevia välilehtiä kirjautumalla sisään { -brand-product-name }iin iOS- tai Android-laitteella.
@@ -54,9 +56,12 @@ firefoxview-mobile-confirmation-header = 🎉 Kaikki valmista!
 firefoxview-mobile-confirmation-description = Nyt voit käyttää tablet-laitteesi tai puhelimesi { -brand-product-name }in välilehtiä.
 firefoxview-closed-tabs-title = Viimeksi suljetut
 firefoxview-closed-tabs-description2 = Avaa uudelleen tässä ikkunassa sulkemasi sivut.
-firefoxview-closed-tabs-placeholder = <strong>Ei äskettäin suljettuja sivuja</strong><br/>Älä pelkää suljetun välilehden menettämistä. Voit palauttaa sen täältä.
 firefoxview-closed-tabs-placeholder-header = Ei viimeksi suljettuja välilehtiä
 firefoxview-closed-tabs-placeholder-body = Kun suljet välilehden tässä ikkunassa, voit hakea sen täältä.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Hylkää { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Viimeksi aktiivinen
 # Variables:
@@ -70,7 +75,6 @@ firefoxview-change-colorway-button = Vaihda väriteemaa
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ei vielä mitään nähtävää</strong><br/>Kun seuraavan kerran avaat sivun { -brand-product-name }issa toisella laitteella, löydä se täältä.
 firefoxview-synced-tabs-placeholder-header = Ei vielä mitään nähtävää
 firefoxview-synced-tabs-placeholder-body = Kun seuraavan kerran avaat sivun { -brand-product-name }issa toisella laitteella, pääset palaamaan siihen tästä.
 firefoxview-collapse-button-show =
