@@ -9,3 +9,5 @@ about-logging-set-log-file = Suidhich faidhle logaidh
 about-logging-set-log-modules = Suidhich mòidealan logaidh
 about-logging-start-logging = Tòisich air logadh
 about-logging-stop-logging = Sguir dhen logadh
+
+-profiler-brand-name = Firefox Profiler
