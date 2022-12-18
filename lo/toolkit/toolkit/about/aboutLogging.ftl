@@ -9,3 +9,5 @@ about-logging-set-log-file = ຕັ້ງລັອກໄຟລ໌
 about-logging-set-log-modules = ຕັ້ງໂມດູລລັອກ
 about-logging-start-logging = ເລີ່ມການບັນທຶກລັອກ
 about-logging-stop-logging = ຢຸດການບັນທຶກລັອກ
+
+-profiler-brand-name = Firefox Profiler
