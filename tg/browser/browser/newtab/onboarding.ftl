@@ -47,6 +47,8 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Пешравӣ: қадами { $current } аз { $total }
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Пешравӣ: қадами { $current } аз { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
