@@ -9,3 +9,5 @@ about-logging-set-log-file = Seleçionn-a schedaio de diaio
 about-logging-set-log-modules = Inpòsta mòdoli do diaio
 about-logging-start-logging = Iniçia a registrâ
 about-logging-stop-logging = Ferma a registraçion
+
+-profiler-brand-name = Firefox Profiler
