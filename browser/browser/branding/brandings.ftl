@@ -65,3 +65,14 @@
         [loc] Prehľade Firefoxu
         [ins] Prehľadom Firefoxu
     }
+
+-relay-brand-name =
+    { $case ->
+       *[nom] Firefox Relay
+        [gen] Firefoxu Relay
+        [dat] Firefoxu Relay
+        [acc] Firefox Relay
+        [loc] Firefoxe Relay
+        [ins] Firefoxom Relay
+    }
+-relay-brand-short-name = Relay
