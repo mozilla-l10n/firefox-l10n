@@ -8,10 +8,19 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } не удалось сгенерировать новый псевдоним. Код ошибки HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } не удалось найти многоразовые псевдонимы. Код ошибки HTTP: { $status }.
 
 ##
 
+firefox-relay-must-login-to-fxa = Чтобы использовать { -relay-brand-name }, вы должны войти в { -fxaccount-brand-name }.
+firefox-relay-get-unlimited-masks =
+    .label = Управление псевдонимами
+    .accesskey = п
+firefox-relay-opt-in-title = Защитите свой адрес электронной почты
 firefox-relay-opt-in-subtitle = Добавить { -relay-brand-name }
+firefox-relay-generate-mask-title = Защитите свой адрес электронной почты
+firefox-relay-generate-mask-subtitle = Сгенерировать псевдоним { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Продолжить
     .accesskey = ж
