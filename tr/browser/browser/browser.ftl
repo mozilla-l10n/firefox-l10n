@@ -967,3 +967,7 @@ refresh-blocked-redirect-label = { -brand-short-name } bu sayfanın başka sayfa
 refresh-blocked-allow =
     .label = İzin ver
     .accesskey = z
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } sizi veri ihlallerinden ve spam’den korumak için gerçek e-posta adresinizi maskeler.
