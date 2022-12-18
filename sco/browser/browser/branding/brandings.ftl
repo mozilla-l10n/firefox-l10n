@@ -44,3 +44,6 @@
 # and kept in English.
 -firefox-suggest-brand-name = Firefox Suggest
 
+
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
