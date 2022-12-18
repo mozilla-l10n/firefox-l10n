@@ -36,3 +36,6 @@
 # and kept in English.
 -firefox-suggest-brand-name = Firefox Suxire
 
+
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
