@@ -13,3 +13,5 @@ about-logging-set-log-file = Đặt tập tin nhật ký
 about-logging-set-log-modules = Đặt mô-đun nhật ký
 about-logging-start-logging = Bắt đầu ghi
 about-logging-stop-logging = Dừng ghi
+
+-profiler-brand-name = Firefox Profiler
