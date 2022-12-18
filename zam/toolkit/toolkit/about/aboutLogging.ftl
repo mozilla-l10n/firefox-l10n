@@ -5,3 +5,5 @@
 about-logging-log-tutorial = Güí <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
 about-logging-start-logging = Ngót~tòɁ Logging
 about-logging-stop-logging = Ngót~tòɁ Logging
+
+-profiler-brand-name = Firefox Profiler
