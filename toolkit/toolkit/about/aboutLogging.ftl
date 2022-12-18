@@ -13,3 +13,5 @@ about-logging-set-log-file = Log dosyasını ayarla
 about-logging-set-log-modules = Log modüllerini ayarla
 about-logging-start-logging = Log tutmayı başlat
 about-logging-stop-logging = Log tutmayı durdur
+
+-profiler-brand-name = Firefox Profiler
