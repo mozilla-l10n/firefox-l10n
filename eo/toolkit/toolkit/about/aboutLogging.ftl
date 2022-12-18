@@ -13,3 +13,5 @@ about-logging-set-log-file = Elekti registran dosieron
 about-logging-set-log-modules = Elekti registrajn modulojn
 about-logging-start-logging = Komenci registri
 about-logging-stop-logging = Fini registri
+
+-profiler-brand-name = Firefox Profiler
