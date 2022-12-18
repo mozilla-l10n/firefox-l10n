@@ -11,4 +11,17 @@
 
 ##
 
+firefox-relay-get-unlimited-masks =
+    .label = Gerer le mascas
+    .accesskey = G
 firefox-relay-opt-in-title = Protege tu adresse email
+firefox-relay-generate-mask-title = Protege tu adresse email
+firefox-relay-opt-in-confirmation-enable =
+    .label = Continuar
+    .accesskey = C
+firefox-relay-opt-in-confirmation-disable =
+    .label = Non monstrar me lo de novo
+    .accesskey = N
+firefox-relay-opt-in-confirmation-postpone =
+    .label = Non ora
+    .accesskey = n

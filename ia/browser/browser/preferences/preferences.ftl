@@ -799,6 +799,7 @@ forms-breach-alerts =
     .label = Monstrar avisos pro contrasignos de sitos web violate
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saper plus
+relay-integration-learn-more-link = Pro saper plus
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Auto-completar nomines de usator e contrasignos
@@ -1001,6 +1002,9 @@ content-blocking-fingerprinters = Dactylogrammatores
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Prova primo nostre potentissime function de confidentialitate
     .accesskey = P
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Le protection total contra le cookies contine le cookies del sito ubi tu es, assi le traciatores non pote sequer te inter le sitos.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pro saper plus

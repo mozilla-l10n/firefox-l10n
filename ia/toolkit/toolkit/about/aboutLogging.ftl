@@ -27,10 +27,15 @@ about-logging-set-log-file = Definir le file de registro
 about-logging-set-log-modules = Definir le modulos de registro
 about-logging-start-logging = Initiar le registration
 about-logging-stop-logging = Stoppar le registration
+about-logging-info = Info:
 
 ## Logging presets
 
+about-logging-preset-networking-label = Rete
+about-logging-preset-media-playback-label = Reproduction de medios
 about-logging-preset-custom-label = Personalisate
+# Error handling
+about-logging-error = Error:
 
 ## Variables:
 ##   $k (String) - Variable name
