@@ -13,3 +13,5 @@ about-logging-set-log-file = Définir un fichier de journalisation
 about-logging-set-log-modules = Définir des modules de journalisation
 about-logging-start-logging = Lancer la journalisation
 about-logging-stop-logging = Arrêter la journalisation
+
+-profiler-brand-name = Firefox Profiler
