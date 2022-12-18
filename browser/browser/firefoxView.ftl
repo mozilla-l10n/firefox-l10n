@@ -46,6 +46,9 @@ firefoxview-tabpickup-password-locked-header = ਟੈਬਾਂ ਵੇਖਣ ਲ�
 firefoxview-tabpickup-password-locked-description = ਆਪਣੀਆਂ ਟੈਬਾਂ ਵੇਖਣ ਲਈ ਤੁਹਾਨੂੰ { -brand-short-name } ਲਈ ਮੁੱਖ ਪਾਸਵਰਡ ਭਰਨਾ ਪਵੇਗਾ।
 firefoxview-tabpickup-password-locked-link = ਹੋਰ ਜਾਣੋ
 firefoxview-tabpickup-password-locked-primarybutton = ਮੁੱਖ ਪਾਸਵਰਡ ਦਿਓ
+firefoxview-tabpickup-signed-out-header = ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+firefoxview-tabpickup-signed-out-description = ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਤੇ ਆਪਣੀਆਂ ਟੈਬਾਂ ਲੈਣ ਲਈ ਆਪਣੇ { -fxaccount-brand-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ।
+firefoxview-tabpickup-signed-out-primarybutton = ਸਾਈਨ ਇਨ
 firefoxview-tabpickup-syncing = ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਸਿੰਕ ਕੀਤੇ ਜਾਣ ਦੌਰਾਨ ਉਡੀਕੋ। ਇਸ ਨੂੰ ਸਿਰਫ਼ ਪਲ਼ ਕੁ ਲੱਗੇਗਾ।
 firefoxview-mobile-promo-header = ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੇਬਲੇਟ ਤੋਂ ਟੈਬਾਂ ਲਵੋ
 firefoxview-mobile-promo-description = ਆਪਣੀਆਂ ਸੱਜੀਆਂ ਮੋਬਾਈਲ ਟੈਬਾਂ ਵੇਖਣ ਲਈ, iOS ਜਾਂ Android ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
@@ -54,7 +57,12 @@ firefoxview-mobile-confirmation-header = 🎉 ਸਭ ਤਿਆਰ ਹੈ!
 firefoxview-mobile-confirmation-description = ਹੁਣ ਤੁਸੀਂ ਟੈਬਲੇਟ ਜਾਂ ਫ਼ੋਨ ਤੋਂ ਆਪਣੇ { -brand-product-name } ਟੈਬਾਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।
 firefoxview-closed-tabs-title = ਸੱਜਰੀਆਂ ਬੰਦ ਕੀਤੀਆਂ
 firefoxview-closed-tabs-description2 = ਇਸ ਵਿੰਡੋ ਵਿੱਚ ਤੁਹਾਡੇ ਵਲੋਂ ਬੰਦ ਕੀਤੇ ਸਫ਼ਿਆਂ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ।
-firefoxview-closed-tabs-placeholder = <strong>ਕੋਈ ਵੀ ਸੱਜਰੇ ਬੰਦ ਕੀਤੇ ਸਫ਼ੇ ਨਹੀਂ</strong><br/>ਕੋਈ ਵੀ ਬੰਦ ਕੀਤੀ ਟੈਬ ਭੁੱਲ ਜਾਣ ਤੋਂ ਨਾ ਡਰੋ। ਇੱਥੋਂ ਇਸ ਨੂੰ ਕਦੇ ਵੀ ਬਹਾਲ ਕਰ ਸਕਦੇ ਹੋ।
+firefoxview-closed-tabs-placeholder-header = ਕੋਈ ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀ ਟੈਬ ਨਹੀਂ ਹੈ
+firefoxview-closed-tabs-placeholder-body = ਇਸ ਵਿੰਡੋ ਵਿੱਚ ਜਦੋਂ ਤੁਸੀਂ ਟੈਬ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਇੱਥੋਂ ਲੈ ਸਕਦੇ ਹੋ।
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = { $tabTitle } ਖਾਰਜ ਕਰੋ
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ਆਖਰੀ ਸਰਗਰਮੀ
 # Variables:
@@ -68,7 +76,8 @@ firefoxview-change-colorway-button = ਰੰਗ-ਢੰਗ ਬਦਲੋ
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>ਹਾਲੇ ਕੁਝ ਵੀ ਨਹੀਂ ਹੈ</strong><br/>ਜਦੋਂ ਤੁਸੀਂ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਉਸ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।
+firefoxview-synced-tabs-placeholder-header = ਵਿਖਾਉਣ ਲਈ ਹਾਲੇ ਕੁਝ ਨਹੀਂ ਹੈ
+firefoxview-synced-tabs-placeholder-body = ਅਗਲੀ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਫ਼਼ਾ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਇੱਥੇ ਪ੍ਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ।
 firefoxview-collapse-button-show =
     .title = ਸੂਚੀ ਵੇਖਾਓ
 firefoxview-collapse-button-hide =

@@ -12,3 +12,4 @@ confirmation-hint-password-saved = ਪਾਸਵਰਡ ਸੰਭਾਲਿਆ!
 confirmation-hint-pin-tab = ਪਿੰਨ ਕੀਤੇ!
 confirmation-hint-pin-tab-description = ਟੈਬ ਨੂੰ ਪੱਟਣ ਲਈ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ।
 confirmation-hint-send-to-device = ਭੇਜੋ!
+confirmation-hint-firefox-relay-mask-generated = ਨਵਾਂ { -relay-brand-short-name } ਮਾਸਕ ਬਣਾਇਆ!

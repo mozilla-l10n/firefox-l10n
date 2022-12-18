@@ -27,6 +27,9 @@ return-to-amo-add-theme-label = ਥੀਮ ਜੋੜੋ
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = { -brand-short-name } ਨੂੰ ਮਿਲੋ
+mr1-return-to-amo-addon-title = ਤੇਜ਼, ਨਿੱਜੀ ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੇ ਹੱਥਾਂ ਵਿੱਚ ਹੈ। ਹੁਣ ਤੁਸੀਂ <b>{ $addon-name }</b> ਜੋੜ ਸਕਦੇ ਹੋ ਅਤੇ { -brand-short-name } ਨਾਲ ਵੱਧ ਕੰਮ ਕਰ ਸਕਦੇ ਹੋ।
+mr1-return-to-amo-add-extension-label = { $addon-name } ਜੋੜੋ
 
 ## Multistage onboarding strings (about:welcome pages)
 
