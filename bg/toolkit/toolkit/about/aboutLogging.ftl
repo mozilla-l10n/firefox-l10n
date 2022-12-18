@@ -9,3 +9,5 @@ about-logging-set-log-file = Задаване на файлове за журн�
 about-logging-set-log-modules = Задаване на модули за журнала
 about-logging-start-logging = Започване
 about-logging-stop-logging = Спиране
+
+-profiler-brand-name = Firefox Profiler
