@@ -13,3 +13,5 @@ about-logging-set-log-file = הגדרת קובץ רישום
 about-logging-set-log-modules = הגדרת מודולי רישום
 about-logging-start-logging = התחלת רישום
 about-logging-stop-logging = הפסקת רישום
+
+-profiler-brand-name = Firefox Profiler
