@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = منسوخ
+screenshots-overlay-instructions = ہک علاقہ منتخب کرݨ کیتے گھیلو یا ورقے تے کلک کرو۔ منسوخ کرݨ کیتے ESC  دباؤ۔
 screenshots-overlay-download-button = ڈاؤن لوڈ
 screenshots-overlay-copy-button = نقل کرو
