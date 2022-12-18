@@ -9,3 +9,5 @@ about-logging-set-log-file = Iestatīt reģistrēšanas failu
 about-logging-set-log-modules = Iestatīt reģistrēšanas moduli
 about-logging-start-logging = Sākt reģistrēšanu
 about-logging-stop-logging = Pārtraukt reģistrēšanu
+
+-profiler-brand-name = Firefox Profiler
