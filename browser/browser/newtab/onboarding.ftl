@@ -25,6 +25,9 @@ return-to-amo-addon-title = Այժմ ստացեք ձեր <img data-l10n-name="ic
 return-to-amo-add-extension-label = Ավելացնել ընդլայնում
 return-to-amo-add-theme-label = Ավելացնել ոճ
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -320,8 +323,6 @@ mr2022-onboarding-colorway-title = Ընտրեք այն գույնը, որը ձե
 mr2022-onboarding-colorway-subtitle = Անկախ ձայները կարող են փոխել մշակույթը:
 mr2022-onboarding-colorway-primary-button-label-continue = Սահմանել և շարունակել
 mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
-mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Փլեյմեյքեր
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Փլեյմեյքեր (կարմիր)
 mr2022-onboarding-colorway-description-playmaker = <b>Դուք փլեյմեյքեր եք:</b> Դուք հնարավորություններ եք ստեղծում հաղթելու և օգնում եք ձեր շրջապատի բոլորին բարձրացնել իրենց խաղը:
@@ -352,4 +353,8 @@ mr2022-onboarding-gratitude-title = Դուք օգնում եք մեզ կառու
 mr2022-onboarding-gratitude-subtitle = Շնորհակալություն { -brand-short-name }-ը օգտագործելու համար, Mozilla Foundation-ի կողմից: Ձեր աջակցությամբ մենք աշխատում ենք համացանցը դարձնել ավելի բաց, մատչելի և լավ բոլորի համար:
 
 ## Onboarding spotlight for infrequent users
+
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
 
