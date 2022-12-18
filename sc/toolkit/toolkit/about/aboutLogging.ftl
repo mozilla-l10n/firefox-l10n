@@ -7,3 +7,5 @@ about-logging-current-log-modules = Mòdulos e registru atuales:
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Aberi sa cartella
 about-logging-set-log-file = Aberi s'archìviu de registru
+
+-profiler-brand-name = Firefox Profiler
