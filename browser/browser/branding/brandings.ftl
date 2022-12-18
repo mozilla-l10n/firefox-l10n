@@ -53,3 +53,6 @@
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Προβολή Firefox
+
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
