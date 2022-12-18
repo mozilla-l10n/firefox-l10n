@@ -34,3 +34,6 @@
 # and kept in English.
 -firefox-home-brand-name = start Firefox
 
+
+-relay-brand-name = Firefox Relay
+-relay-brand-short-name = Relay
