@@ -13,3 +13,5 @@ about-logging-set-log-file = Atur Berkas Log
 about-logging-set-log-modules = Atur Modul Log
 about-logging-start-logging = Mulai Pencatatan
 about-logging-stop-logging = Hentikan Pencatatan
+
+-profiler-brand-name = Firefox Profiler
