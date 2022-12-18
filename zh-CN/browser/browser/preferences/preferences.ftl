@@ -791,6 +791,7 @@ forms-breach-alerts =
     .label = 显示有关网站密码外泄的提醒
     .accesskey = b
 forms-breach-alerts-learn-more-link = 详细了解
+relay-integration-learn-more-link = 详细了解
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = 自动填写登录名和密码
@@ -993,6 +994,9 @@ content-blocking-fingerprinters = 数字指纹跟踪程序
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = 体验有史以来最强大的隐私保护
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = “全方位 Cookie 保护”能够完全隔离每个网站的 Cookie，阻止跟踪器借其跨站跟踪您。
 content-blocking-etp-standard-tcp-rollout-learn-more = 详细了解
