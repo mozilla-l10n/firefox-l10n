@@ -9,3 +9,5 @@ about-logging-set-log-file = Huruyan tuku kayandi
 about-logging-set-log-modules = Huruyan dunhey kayandi
 about-logging-start-logging = Huruyan šintin
 about-logging-stop-logging = Huruyan kayandi
+
+-profiler-brand-name = Firefox Profiler
