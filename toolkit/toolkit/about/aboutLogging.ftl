@@ -30,6 +30,8 @@ about-logging-set-log-file = Указать файл журнала
 about-logging-set-log-modules = Указать модули журнала
 about-logging-start-logging = Начать ведение журнала
 about-logging-stop-logging = Остановить ведение журнала
+about-logging-buttons-disabled = Ведение журнала настроено через переменные среды, динамическая настройка недоступна.
+about-logging-some-elements-disabled = Ведение журнала настроено через сетевой адрес, некоторые настройки конфигурации недоступны
 about-logging-info = Информация:
 about-logging-log-modules-selection = Выбор модулей журнала
 about-logging-new-log-modules = Новые модули журнала:
@@ -38,14 +40,27 @@ about-logging-logging-to-file = Запись в файл
 about-logging-logging-to-profiler = Запись в { -profiler-brand-name }
 about-logging-no-log-modules = Нет
 about-logging-no-log-file = Нет
+about-logging-logging-preset-selector-text = Предустановка ведения журнала:
 
 ## Logging presets
 
 about-logging-preset-networking-label = Сеть
 about-logging-preset-networking-description = Модули журнала для диагностики проблем с сетью
 about-logging-preset-media-playback-label = Воспроизведение медиа
+about-logging-preset-media-playback-description = Модули журнала для диагностики проблем с воспроизведением мультимедиа (не проблем с видеоконференциями)
+about-logging-preset-custom-label = Персональная
+about-logging-preset-custom-description = Вручную выбранные модули журнала
+# Error handling
+about-logging-error = Ошибка:
 
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Недопустимое значение «{ $v }» для ключа «{ $k }»
+about-logging-unknown-logging-preset = Неизвестная предустановка ведения журнала «{ $v }»
+about-logging-unknown-profiler-preset = Неизвестная предустановка профайлера «{ $v }»
+about-logging-unknown-option = Неизвестная настройка about:logging «{ $k }»
+about-logging-configuration-url-ignored = Сетевой адрес конфигурации проигнорирован
+about-logging-file-and-profiler-override = Невозможно одновременно принудительно вывести в файл и переопределить настройки профайлера.
+about-logging-configured-via-url = Опция настроена через сетевой адрес
