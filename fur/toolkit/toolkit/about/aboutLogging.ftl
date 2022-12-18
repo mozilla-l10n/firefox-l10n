@@ -9,3 +9,5 @@ about-logging-set-log-file = Imposte file di regjistri
 about-logging-set-log-modules = Imposte modui di regjistri
 about-logging-start-logging = Comence regjistri
 about-logging-stop-logging = Ferme regjistri
+
+-profiler-brand-name = Firefox Profiler
