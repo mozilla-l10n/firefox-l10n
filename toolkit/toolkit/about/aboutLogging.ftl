@@ -15,3 +15,5 @@ about-logging-set-log-file = Angiv logfil
 about-logging-set-log-modules = Angiv logmoduler
 about-logging-start-logging = Start logning
 about-logging-stop-logging = Stop logning
+
+-profiler-brand-name = Firefox Profiler
