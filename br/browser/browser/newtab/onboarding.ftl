@@ -25,6 +25,9 @@ return-to-amo-addon-title = Staliomp <img data-l10n-name="icon"/> <b>{ $addon-na
 return-to-amo-add-extension-label = Ouzhpennañ an askouezh
 return-to-amo-add-theme-label = Ouzhpennañ an neuz
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -41,6 +44,8 @@ onboarding-welcome-steps-indicator =
 
 onboarding-welcome-steps-indicator2 =
     .aria-valuetext = Araokadur: tennad { $current } war { $total }
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Araokadur: tennad { $current } war { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
