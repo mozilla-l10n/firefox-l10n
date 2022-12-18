@@ -9,3 +9,5 @@ about-logging-set-log-file = Կայել մատեանի նիշքը
 about-logging-set-log-modules = Սահմանել գրանցամատեանի հանգուցակները
 about-logging-start-logging = Սկսել գրանցումը
 about-logging-stop-logging = Կանգնեցնել գրանցումը
+
+-profiler-brand-name = Firefox Profiler
