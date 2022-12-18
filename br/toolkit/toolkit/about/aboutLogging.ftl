@@ -11,3 +11,5 @@ about-logging-set-log-file = Lakaat ar restr kerzhlevr
 about-logging-set-log-modules = Arventennañ molladoù ar c'herzhlevr
 about-logging-start-logging = Kregiñ da skrivañ er c'herzhlevr
 about-logging-stop-logging = Paouez da skrivañ er c'herzhlevr
+
+-profiler-brand-name = Firefox Profiler
