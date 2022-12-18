@@ -9,3 +9,5 @@ about-logging-set-log-file = Kütük Dosyesini Tesbit Et
 about-logging-set-log-modules = Kütük Modüllerini Tesbit Et
 about-logging-start-logging = Kütüklemeni Başlat
 about-logging-stop-logging = Kütüklemeni Toqtat
+
+-profiler-brand-name = Firefox Profiler
