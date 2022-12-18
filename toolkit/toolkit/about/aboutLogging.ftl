@@ -13,3 +13,5 @@ about-logging-set-log-file = Журналдау файлын орнату
 about-logging-set-log-modules = Журналдау модульдерін орнату
 about-logging-start-logging = Журналдауды бастау
 about-logging-stop-logging = Журналдауды аяқтау
+
+-profiler-brand-name = Firefox Profiler
