@@ -13,3 +13,5 @@ about-logging-set-log-file = Emopyenda marandurenda jehaipy
 about-logging-set-log-modules = Emopyenda jehaipy ra’ãha
 about-logging-start-logging = Ta’ãha moñepyrũ
 about-logging-stop-logging = Ta’ãha jejoko
+
+-profiler-brand-name = Firefox Profiler
