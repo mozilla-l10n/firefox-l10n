@@ -880,43 +880,255 @@ sitedata-option-block-cross-site-cookies =
     .label = کراس۔سائٹ ٹریکنگ کوکیاں، تے انج ٻیاں کراس۔سائٹ کوکیاں
 sitedata-option-block-unvisited =
     .label = اݨ ݙٹھیاں ویب سائٹاں دیاں کوکیاں
+sitedata-option-block-all-third-party =
+    .label = ساریاں تریجھی پارٹی کوکیاں (ویب سائٹاں دے ترٹݨ دا سبب بݨ سڳدی ہے)
+sitedata-option-block-all =
+    .label = ساریاں کوکیاں (ویب سائٹاں دے ترٹݨ دا سبب بݨ سڳدی ہے)
+sitedata-clear =
+    .label = ڈیٹا صاف کرو …
+    .accesskey = l
+sitedata-settings =
+    .label = ڈیٹا منظم کرو …
+    .accesskey = M
+sitedata-cookies-exceptions =
+    .label = مستثنیات کوں منظم کرو …
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ایڈریس بار
+addressbar-suggest = ایڈریس بار استعمال کریندے ویلھے، صلاح ݙیو
+addressbar-locbar-history-option =
+    .label = براؤزنگ تاریخ
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = نشانیاں
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ٹیباں کھولو
+    .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = شارٹ کٹس
+    .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = چوٹی دیاں سائٹاں
+    .accesskey = T
+addressbar-locbar-engines-option =
+    .label = ڳولݨ انجݨ
+    .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = تیز عمل
+    .accesskey = Q
+addressbar-suggestions-settings = ڳولݨ انجݨ تجویزاں کیتے ترجیحاں تبدیل کرو
+addressbar-quickactions-learn-more = ٻیا سِکھو
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت
+content-blocking-learn-more = ٻیا سِکھو
+content-blocking-fpi-incompatibility-warning = تساں فرسٹ پارٹی آئسولیشن (FPI) استعمال کریندے پئے او، جیڑھا { -brand-short-name } دیاں کجھ کوکی ترتیباں کوں اوور رائیڈ کریندا ہے۔
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = معیار
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = سخت
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = من مرضی دا
+    .accesskey = C
 
 ##
 
+content-blocking-etp-standard-desc = تحفظ تے کارکردگی کیتے متوازن۔ ورقے عام طور تے لوڈ تھیسن۔
+content-blocking-etp-strict-desc = تکڑا تحفظ، پر کجھ سائٹاں یا مواد دے ترٹݨ دا سبب بݨ سڳدا ہے۔
+content-blocking-etp-custom-desc = بلاک کرݨ کیتے ٹریکر تے سکرپٹ چُݨو
+content-blocking-etp-blocking-desc = { -brand-short-name } ہیٹھ درج کوں روکیندا ہے:
+content-blocking-private-windows = نجی ونڈوز وِچ مواد  دی  ٹریکنگ
+content-blocking-cross-site-cookies-in-all-windows = تمام ونڈوز وِچ کراس۔سائٹ کوکیاں (بشمول ٹریکنگ کوکیز)
+content-blocking-cross-site-cookies-in-all-windows2 = ساریاں ونڈوز وِچ کراس۔سائٹ کوکیاں
+content-blocking-cross-site-tracking-cookies = کراس۔سائٹ ٹریکنگ کوکیاں
+content-blocking-all-cross-site-cookies-private-windows = نجی ونڈوز وِچ کراس۔سائٹ کوکیاں
+content-blocking-cross-site-tracking-cookies-plus-isolate = کراس۔سائٹ ٹریکنگ کوکیاں، تے باقی کوکیاں کوں انج کرو۔
+content-blocking-social-media-trackers = سوشل میڈیا ٹریکرز
+content-blocking-all-cookies = تمام کوکیاں
+content-blocking-unvisited-cookies = ان ݙٹھیاں سائٹاں کنوں کوکیاں
+content-blocking-all-windows-tracking-content = تمام ونڈوز وِچ مواد دی ٹریکنگ
+content-blocking-all-third-party-cookies = تمام تریجے فریق دیاں کوکیاں
+content-blocking-cryptominers = کریپٹومینرز
+content-blocking-fingerprinters = فنگر پرنٹرز
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = اساݙی ہݨ تک دی سبھ توں تکڑی رازداری دی خصوصیت دا تجربہ کرو۔
+    .accesskey = T
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = ٹوٹل کوکی پروٹیکشن وِچ تساں جیڑھی سائٹ تے او اوندیاں کوکیاں تے مشتمل ہے، لہذا ٹریکرز انہاں سائٹاں دے وچال تہاݙی پیروی کرݨ کیتے استعمال نہیں کر سڳدے۔
+content-blocking-etp-standard-tcp-rollout-learn-more = ٻیا سِکھو
+content-blocking-etp-standard-tcp-title = بشمول ٹوٹل کوکی پروٹیکشن ، اساݙی ہݨ تک دی سبھ توں طاقتور رازداری دی خصوصیت
+content-blocking-warning-title = دھیان ݙیو!
+content-blocking-warning-learn-how = ڄاݨو کیویں
+content-blocking-reload-description = تہاکوں انہاں تبدیلیاں کوں لاڳو کرݨ کیتے اپݨیاں ٹیباں کوں دوبارہ لوڈ کرݨ دی لوڑ پوسے۔
+content-blocking-reload-tabs-button =
+    .label = سبھے ٹیباں ولا لوڈ کرو
+    .accesskey = R
+content-blocking-tracking-content-label =
+    .label = مواد دی ٹریکنگ
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = تمام ونڈوز وِچ
+    .accesskey = A
+content-blocking-option-private =
+    .label = صرف نجی ونڈوز وِچ
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = بلاک تندیر تبدیل کرو
+content-blocking-cookies-label =
+    .label = کوکیاں
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = ودھیک معلومات
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = کریپٹومینرز
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = فنگر پرنٹرز
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = مستثنیات کوں منظم کرو …
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-header = اجازتاں
+permissions-location = مقام
+permissions-location-settings =
+    .label = ترتیباں …
+    .accesskey = t
+permissions-xr = مجازی حقیقت
+permissions-xr-settings =
+    .label = ترتیباں …
+    .accesskey = t
+permissions-camera = کیمرہ
+permissions-camera-settings =
+    .label = ترتیباں …
+    .accesskey = t
+permissions-microphone = مائیکروفون
+permissions-microphone-settings =
+    .label = ترتیباں …
+    .accesskey = t
+permissions-notification = اطلاع نامے
+permissions-notification-settings =
+    .label = ترتیباں …
+    .accesskey = t
+permissions-notification-link = ٻیا سِکھو
+permissions-notification-pause =
+    .label = جے تک { -brand-short-name } نویں سروں نئیں چلدا اطلاع نامے روک ݙیو
+    .accesskey = n
+permissions-autoplay = آٹو پلے
+permissions-autoplay-settings =
+    .label = ترتیباں …
+    .accesskey = t
+permissions-block-popups =
+    .label = پوپ اپ ونڈوز بلاک کرو
+    .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = مستثنیات …
+    .accesskey = E
+    .searchkeywords = پوپ اپس
+permissions-addon-install-warning =
+    .label = چتاوݨی ݙیو جݙاں ویب سائٹاں ایڈ آنز انسٹال کرݨ دی کوشش کرن
+    .accesskey = W
+permissions-addon-exceptions =
+    .label = استثنیات …
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } ڈیٹا کولیکشن تے استعمال
+collection-privacy-notice = رازداری نوٹس
+collection-health-report-telemetry-disabled-link = ٻیا سِکھو
+collection-health-report =
+    .label = { -brand-short-name } کوں { -vendor-short-name } تے تکنیکی تے انٹرایکشن ڈیٹا بھیڄݨ دی اجازت ݙیو
+    .accesskey = r
+collection-health-report-link = ٻیا سِکھو
+collection-studies =
+    .label = { -brand-short-name } کوں مطالعہ انسٹال کرݨ تے چلاوݨ دی اجازت ݙیو
+collection-studies-link = { -brand-short-name } مطالعے ݙیکھو
+addon-recommendations =
+    .label = { -brand-short-name } کوں ذاتی توسیع دیاں سفارشاں کرݨ دی اجازت ݙیو۔
+addon-recommendations-link = ٻیا سِکھو
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = ایں بلڈ کنفیگریشن کیتے ڈیٹا رپورٹنگ غیر فعال ہے۔
+collection-backlogged-crash-reports-with-link = { -brand-short-name } کوں اپݨی طرفوں بیک لاگ کریش رپورٹاں بھیڄݨ دی اجازت ݙیو <a data-l10n-name="crash-reports-link">ودھیک ڄاݨو </a>
+    .accesskey = c
+privacy-segmentation-section-header = نویاں خصوصیات جیڑھیاں تہاݙی براؤزنگ کوں بہتر کریندیاں ہن۔
+privacy-segmentation-section-description = جݙاں اساں اینجھیاں خصوصیتاں پیش کریندے ہیں جیڑھیاں تہاکوں ودھیک ذاتی تجربہ ݙیوݨ کیتے تہاݙا ڈیٹا استعمال کریندیاں ہن:
+privacy-segmentation-radio-off =
+    .label = { -brand-product-name } دیاں سفارشاں استعمال کرو
+privacy-segmentation-radio-on =
+    .label = تفصیلی معلومات ݙکھاؤ
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = سلامتی
+security-browsing-protection = گمراہ کن مواد تے خطرناک سافٹ ویئر پروٹیکشن
+security-enable-safe-browsing =
+    .label = خطرناک تے گمراہ کن مواد کوں بلاک کرو
+    .accesskey = B
+security-enable-safe-browsing-link = ٻیا سِکھو
+security-block-downloads =
+    .label = خطرناک ڈاؤن لوڈز بلاک کرو
+    .accesskey = d
+security-block-uncommon-software =
+    .label = ناپسندیدہ تے غیر معمولی سافٹ ویئر دے بارے وِچ چتاوݨی ݙیو
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
+certs-header = تصدیق نامے
+certs-view =
+    .label = تصدیق نامے ݙیکھو …
+    .accesskey = C
+certs-devices =
+    .label = سلامتی دے آلات …
+    .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = ترتیباں کھولو
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = ایچ ٹی ٹی پی ایس ــ صرف موڈ
+httpsonly-learn-more = ٻیا سِکھو
+httpsonly-radio-enabled =
+    .label = تمام ونڈوز وِچ HTTPS-Only Mode فعال کرو
+httpsonly-radio-enabled-pbm =
+    .label = صرف نجی ونڈوز وِچ HTTPS-Only Mode فعال کرو
+httpsonly-radio-disabled =
+    .label = HTTPS-Only Mode فعال نہ کرو
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = ڈیسک ٹاپ
+downloads-folder-name = ڈاؤن لوڈ
+choose-download-folder-title = ڈاؤن لوڈ فولڈر دا انتخاب کرو:
