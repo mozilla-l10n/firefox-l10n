@@ -798,6 +798,7 @@ forms-breach-alerts =
     .label = Намоиш додани огоҳиҳо оид ба ниҳонвожаҳо барои сомонаҳои вайронкардашуда
     .accesskey = Н
 forms-breach-alerts-learn-more-link = Маълумоти бештар
+relay-integration-learn-more-link = Маълумоти бештар
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Ба таври худкор пур кардани воридшавиҳо ва ниҳонвожаҳо
@@ -1000,6 +1001,9 @@ content-blocking-fingerprinters = Хонандаи нақши ангушт
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Хусусияти махфияти боқувваттарин ва навтарини моро озмоед
     .accesskey = Х
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = «Муҳофизати пурра аз кукиҳо» ҳамаи кукиҳоро аз сомонаи ҷорие, ки шумо тамошо карда истодаед, нигоҳ медорад, то ки васоити пайгирӣ шуморо байни сомонаҳо назорат карда натавонанд.
 content-blocking-etp-standard-tcp-rollout-learn-more = Маълумоти бештар
