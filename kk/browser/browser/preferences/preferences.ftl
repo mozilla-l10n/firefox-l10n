@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Бұзылған веб-сайттардың парольдері туралы ескертулерді көрсету
     .accesskey = б
 forms-breach-alerts-learn-more-link = Көбірек білу
+relay-integration =
+    .label = { -brand-short-name } парольдер басқарушысыңыз ішінде { -relay-brand-name } іске қосыңыз
+relay-integration-learn-more-link = Көбірек білу
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Логиндер мен парольдерді автотолтыру
@@ -1001,6 +1004,9 @@ content-blocking-fingerprinters = Баспаны жинаушылар
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Біздің барлық уақыттағы ен күшті жекеілкті қорғауды сынап көріңіз
     .accesskey = т
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Cookie файлдарынан толық қорғау сіз шолып отырған сайттың cookie файлдарын шектейді, сондықтан трекерлер оларды сайттар арасында сізді бақылап отыру үшін пайдалана алмайды.
 content-blocking-etp-standard-tcp-rollout-learn-more = Көбірек білу
