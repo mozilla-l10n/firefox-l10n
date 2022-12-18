@@ -13,3 +13,5 @@ about-logging-set-log-file = აღრიცხვის ფაილის მ�
 about-logging-set-log-modules = აღრიცხვის მოდულების მითითება
 about-logging-start-logging = აღრიცხვის დაწყება
 about-logging-stop-logging = აღრიცხვის შეჩერება
+
+-profiler-brand-name = Firefox Profiler
