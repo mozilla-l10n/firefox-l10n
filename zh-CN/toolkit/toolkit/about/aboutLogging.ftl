@@ -13,3 +13,5 @@ about-logging-set-log-file = 设置日志文件
 about-logging-set-log-modules = 设置日志模块
 about-logging-start-logging = 开始记录日志
 about-logging-stop-logging = 停止记录日志
+
+-profiler-brand-name = Firefox Profiler
