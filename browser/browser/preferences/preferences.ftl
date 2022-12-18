@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = הצגת התרעות על ססמאות עבור אתרים שנפרצו
     .accesskey = ס
 forms-breach-alerts-learn-more-link = מידע נוסף
+relay-integration =
+    .label = הפעלת { -relay-brand-name } במנהל הססמאות של { -brand-short-name } שלך
+relay-integration-learn-more-link = מידע נוסף
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = מילוי אוטומטי של כניסות וססמאות
@@ -998,6 +1001,9 @@ content-blocking-fingerprinters = רכיבי זהות דיגיטלית
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = נסו את תכונת הפרטיות העוצמתית ביותר שלנו אי פעם
     .accesskey = נ
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = הגנת עוגיות מלאה מגבילה עוגיות לאתר שבו אתה נמצא, כך שרכיבי מעקב לא יכולים להשתמש בהן כדי לעקוב אחריך בין אתרים.
 content-blocking-etp-standard-tcp-rollout-learn-more = מידע נוסף
