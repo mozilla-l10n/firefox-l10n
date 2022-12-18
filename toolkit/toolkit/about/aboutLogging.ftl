@@ -4,7 +4,7 @@
 
 # This is the title of the page
 about-logging-title = About Logging
-about-logging-current-log-file = Current Log File:
+about-logging-current-log-file = Current log file:
 about-logging-current-log-modules = Current Log Modules:
 about-logging-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
 about-logging-set-log-file = Set Log File
