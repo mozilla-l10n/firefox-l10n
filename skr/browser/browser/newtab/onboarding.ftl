@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = تھیم شامل کرو
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = { -brand-short-name } نال سلام دعا کرو
+mr1-return-to-amo-addon-title = تہاکوں اپݨی انڳل دے ݙوݙے تے ہک تکھا، نجی براؤزر مل ڳیا ہے۔ ہݨ تساں { $addon-name } کوں شامل کر سڳدے او تے { -brand-short-name } دے نال ودھیک کجھ کر سڳدے او۔
 mr1-return-to-amo-add-extension-label = { $addon-name } شامل کرو
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -68,6 +69,12 @@ mr1-onboarding-reduce-motion-button-label = متحرک تصویراں بند ک�
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] آسان رسائی کیتے { -brand-short-name } اپݨی ڈاک وِچ رکھو
+       *[other] آسان رسائی کیتے { -brand-short-name } کون اپݨے ٹاسک بار وِچ پن کرو
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -268,6 +275,8 @@ mr2022-onboarding-set-default-only-subtitle = ہک غیر منافع بخش دے
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = { -brand-product-name } کوں پیار کرݨ دا شکریہ
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = ہک ای کلک نال کتھاؤں وی نروآ انٹرنیٹ لانچ کرو۔ اساݙی نویں نکور اپ ڈیٹ نویاں چیزاں نال بھری ہوئی ہے جیڑھیاں اساکوں لڳدے تہاکوں پسند آوسن۔
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = ہک اینجھا براؤزر استعمال کرو جیڑھا ویب تے زپ کریندے ویلھے تہاݙی رازداری دا دفاع کرے۔ اساݙی نویں نکور اپ ڈیٹ انہاں چیزاں کنوں بھری ہوئی ہے جیڑھیاں تساں پسند کریندے او۔
@@ -286,6 +295,9 @@ mr2022-onboarding-set-default-subtitle = ہک غیر منافع بخش دا حم
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = اساݙا نواں نکور ورژن تہاݙے چودھار بݨایا ڳیا ہے، جیندے نال ویب تے زپ کرݨ پہلے کنوں کتھائیں زیادہ آسان ہے۔ ایہ انہاں خصوصییتاں نال بھری ہوئی ہے جیڑھیاں اساکوں لڳدے جو تساں پسند کریسو۔
 mr2022-onboarding-get-started-primary-button-label = سیکنڈاں  وِچ سیٹ اپ کرو
 
 ## MR2022 Import Settings screen strings
@@ -335,6 +347,8 @@ mr2022-onboarding-colorway-description-innovator = <b> تساں ہک اخترا�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = لیپ ٹاپ کنوں فون تے ونڄو تے ولدا واپس ولو۔
+mr2022-onboarding-mobile-download-subtitle = ہک ڈیوائس نال ٹیباں پکڑو تے اتھاؤں شروع کرو جتھوں تساں ٻئی ڈیوائس تے چھوڑیا ہا۔ نال اپݨیاں نشانیاں تے پاس ورڈ کوں جتھاں وی تساں { -brand-product-name } استعمال کریندے او سینک کرو۔
+mr2022-onboarding-mobile-download-cta-text = موبائل کیتے { -brand-product-name } حاصل کرݨ کیتے QR  کوڈ سکین کرو یا تساں اپݨے ڈاؤن لوڈ لنک تے <a data-l10n-name="download-label"> بھیڄو۔ </a>
 mr2022-onboarding-no-mobile-download-cta-text = موبائل کیتے { -brand-product-name } حاصل کرݨ کیتے QR کوڈ سکین کرو۔
 
 ## MR2022 Upgrade Dialog screens
@@ -351,6 +365,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = اساں ہمیشاں تہاݙی رازداری دا آدر کریندے ہیں
+mr2022-onboarding-privacy-segmentation-subtitle = سیݨپ دیاں تجویزاں گھن تے بہتر ڳول تک، اساں ہک بہتر، زیادہ ذاتی { -brand-product-name } بݨاوݨ کیتے ساندھوڑاند کم کریندے پئے ہیں۔
 mr2022-onboarding-privacy-segmentation-text-cta = تساں کیا ݙیکھݨ چاہندے او جݙاں اساں نویں خصوصیات پیش کریندے ہیں جیڑھیاں تہاݙی براؤزنگ کوں ودھاوݨ کیتے تہاݙا ڈیٹا استعمال کریندے ہن؟
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } دیاں سفارشاں استعمال کرو
 mr2022-onboarding-privacy-segmentation-button-secondary-label = تفصیلی معلومات ݙکھاؤ
@@ -364,6 +379,7 @@ mr2022-onboarding-gratitude-secondary-button-label = براؤزنگ شروع ک�
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = اینکوں اپݨا گھر سمجھو
+onboarding-infrequent-import-subtitle = چاہے تساں رہندے پئے او یا بس ݙکیندے پئے او، یاد رکھو جو تساں اپݨیاں نشانیاں، پاس ورڈز، تے ٻہوں کجھ درآمد کر سڳدے او۔
 onboarding-infrequent-import-primary-button = { -brand-short-name } تے درآمد کرو
 
 ## MR2022 Illustration alt tags
@@ -383,3 +399,5 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ہلکی جلد تے کالی جلد والے ہتھ ہائی فائیو
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = لومبڑ دے نال کھڑکی نال غروب آفتاب دا منظر تے کھڑکی تے ہک گھر دا پودا
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = ہک ہینڈ سپرے ساوی اکھ، نارنجی چتی، لال باسکٹ بال، جامنی رنگ دے ہیڈ فون، نیلے دل، تے پیلے رنگ دے تاج دا رنگیل کولیج پینٹ کریندا ہے۔

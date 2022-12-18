@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+add-engine-window =
+    .title = ڳولݨ انجݨ شامل کرو
+    .style = width: 32em;
+add-engine-window2 =
+    .title = ڳولݨ انجݨ شامل کرو
+    .style = min-width: 32em;
 add-engine-button = حسب ضرورت انجن شامل کرو۔
 add-engine-name = ڳولݨ انجݨ ناں
 add-engine-alias = عرف

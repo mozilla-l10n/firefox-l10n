@@ -129,6 +129,7 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-window2 =
     .title = اجازت دار ویب سائٹاں - ایڈ آنز انسٹالیشن
     .style = { permissions-window2.style }
+permissions-exceptions-addons-desc = تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں کوں ایڈ آنز انسٹال کرݨ دی اجازت ہے۔ جیڑھی سائٹ دی تساں اجازت ݙیوݨ چاہندے او اوندا صحیح پتہ ٹائپ کرو تے ول اجازت تے کلک کرو۔
 
 ## Site Permissions - Autoplay
 

@@ -4,6 +4,11 @@
 
 migration-wizard =
     .title = درآمد مددگار
+import-from =
+    { PLATFORM() ->
+        [windows] اختیارات، نشانیاں، تاریخ، پاس ورڈز تے ٻیا ڈیٹا اتھا درآمد کرو:
+       *[other] ترجیحاں، نشانیاں، تاریخ، پاس ورڈ تے ٻیا ڈیٹا اتھوں درآمد کرو:
+    }
 import-from-bookmarks = بک مارک اتھوں درآمد کرو:
 import-from-ie =
     .label = Microsoft انٹرنیٹ ایکسپلورر

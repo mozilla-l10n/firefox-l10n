@@ -47,6 +47,7 @@ browser-languages-window =
 browser-languages-window2 =
     .title = { -brand-short-name } زبان دیاں ترتیباں
     .style = min-width: 40em
+browser-languages-description = { -brand-short-name } تہاݙی پہلی زبان کوں تہاݙی ڈیفالٹ دے طور تے ظاہر کریسے تے جے ضروری ہووے تاں متبادل زباناں ایں ترتیب وِچ ظاہر کریسے جیڑھی ترتیب اِچ او ظاہر تھیسن۔
 browser-languages-search = ودھیک زباناں کیتے تلاش کرو …
 browser-languages-searching =
     .label = زباناں ڳولیندیاں پیاں ہن …

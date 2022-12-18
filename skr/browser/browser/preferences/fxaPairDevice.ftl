@@ -5,6 +5,7 @@
 fxa-pair-device-dialog =
     .title = ہک ٻیا آلہ جوڑو
     .style = width: 26em; min-height: 35em;
+fxa-qrcode-heading-step1 = جے تہاݙے کول پہلے کنوں کائنی تاں اپݨی موبائل ڈیوائس </a>  تے <a data-l10n-name="connect-another-device"> فائر فاکس انسٹال کرو
 fxa-qrcode-heading-step2 = 2. اپݨے موبائل ڈیوائس تے فائر فاکس کھولو۔
 fxa-qrcode-heading-step3 = 3. <b>مینیو</b> کھولو (<img data-l10n-name="ios-menu-icon"/> یا <img data-l10n-name="android-menu-icon"/>)، <img data-l10n-name="settings-icon"/> <b>ترتیباں</b> کوں تھپتھپاؤ تے <b>Sync آن کرو</b> کوں منتخب کرو۔
 fxa-qrcode-heading-step4 = 4. ایں کوڈ کوں سکین کرو:

@@ -372,6 +372,11 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = محفوظ
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
@@ -417,6 +422,7 @@ identity-ev-owner-label = تصدیق نانواں جاری کیتا ڳیا:
 identity-remove-cert-exception =
     .label = استثنا ہٹاؤ
     .accesskey = R
+identity-description-insecure = ایں سائٹ کیتے تہاݙا کنکشن نجی کائنی۔ جیڑھیاں معلومات تساں جمع کرویندے او او ٻئے ݙیکھ سڳدے ہن ( جیویں پاس ورڈ، سنیہے، کریڈٹ کارڈز وغیرہ)
 identity-description-insecure-login-forms = ایں ورقے تے تساں جیڑھا لاگ ان معلومات داخل کریندے او تاں او محفوظ کائنی تے ایندے نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 identity-description-weak-cipher-intro = ایں ویب سائٹ تے تہاݙا کنکشن کمزور خفیہ انکریپشن استعمال کریندا ہے جیڑھا جو نجی کائنی
 identity-description-weak-cipher-risk = ٻئے لوک تہاݙی معلومات ݙیکھ سڳدے ہن یا ویب سائٹ دا رویہ بدال سڳدے ہن۔
@@ -686,6 +692,7 @@ pointerlock-warning-no-domain = ایں دستاویز دے کول تہاݙے پ�
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>ایں ورقے دا کجھ حصہ کریش تھی ڳیا ہے۔ </strong>{ -brand-product-name } کوں ایں مسئلے دے بارے وِچ ݙساوݨ تے اینکوں تکھاجی نال حل کرݨ کیتے، براہ کرم ہک رپورٹ جمع کراؤ۔
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -958,3 +965,11 @@ refresh-blocked-redirect-label = { -brand-short-name } ایں ورقے کوں آ
 refresh-blocked-allow =
     .label = موکل ݙیو
     .accesskey = A
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } ڈیٹا دیاں خلاف ورزیاں تے سپام کنوں تہاݙی حفاظت وِچ مدد کیتے تہاݙے حقیقی ای میل ایڈریس کوں ماسک کریندا ہے۔
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = اساں <strong>{ $sitename }</strong> کنوں تمام ای میلز کوں <strong>{ $useremail }</strong> تے بھیڄیسوں۔

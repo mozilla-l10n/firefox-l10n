@@ -24,6 +24,12 @@ newtab-search-box-search-button =
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } نال ڳولو یا پتہ درج کرو
 newtab-search-box-handoff-text-no-engine = ڳولو یا پتہ درج کرو
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } نال ڳولو یا پتہ درج کرو
+    .title = { $engine } نال ڳولو یا پتہ درج کرو
+    .aria-label = { $engine } نال ڳولو یا پتہ درج کرو
 newtab-search-box-handoff-input-no-engine =
     .placeholder = ڳولو یا پتہ درج کرو
     .title = ڳولو یا پتہ درج کرو
@@ -191,6 +197,10 @@ newtab-section-header-pocket = { $provider } دی طرفوں تجویز کردہ
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = برائوزنگ شروع کرو، تے اساں تہاکوں کجھ بہترین عبارتاں، وڈیوز تے حالیہ دورہ شددہ ٻئے صفحات یا بک مارک ݙکھیسوں۔
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = تساں وٹھی گھدا ہے۔ { $provider } کنوں ودھیک اہم خبراں کیتے بعد اِچ دوبارہ چیک کرو۔ انتظا نہیں سڳدے؟ ویب دے چودھاروں ودھیک عمدہ کہانیاں لبھݨ کیتے ہک مقبول موضوع منتخب کرو۔
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

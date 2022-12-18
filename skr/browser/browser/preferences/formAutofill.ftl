@@ -88,6 +88,14 @@ autofill-country-warning-message = فارم آٹو فل فی الحال صرف �
 autofill-add-new-card-title = نواں کریڈٹ کارڈ شامل کرو۔
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = کریڈٹ کارڈ وِچ ترمیم کرو۔
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] کریڈٹ کارڈ دیاں معلومات ݙکھاؤ
+        [windows] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔ ایں تلویں ونڈوز اکاؤنٹ رسائی دی تصدیق کرو۔
+       *[other] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔
+    }
 autofill-card-number = کارڈ دا نمبر
 autofill-card-invalid-number = براہ کرم ہک درست کارڈ نمبر درج کرو۔
 autofill-card-name-on-card = کارڈ تے ناں

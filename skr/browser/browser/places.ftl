@@ -110,7 +110,16 @@ places-manage-bookmarks =
     .label = نشانیاں منظم کرو
     .accesskey = M
 places-forget-about-this-site-confirmation-title = ایں سائٹ بارے بھل ونڄو
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = ایہ کارروائی { $hostOrBaseDomain } نال متعلق تمام ڈیٹا کوں ہٹا ݙیسے بشمول تاریخ، پاس ورڈ، کوکیاں، کیشے تے مواد دیاں ترجیحاں۔ کیا تساں واقعی اڳو تے ودھݨ چاہندے او؟َ
 places-forget-about-this-site-forget = بھل ونڄو
+places-library =
+    .title = لائبریری
+    .style = width:700px; height:500px;
+places-library2 =
+    .title = لائبریری
+    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = لائبریری
 places-organize-button =

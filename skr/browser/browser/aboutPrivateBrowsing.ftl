@@ -41,6 +41,11 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } تہاݙی ہ�
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } نجی ونڈو وچ تہاݙا پہلے کنوں چُݨیا ڳولݨ انجݨ ہے
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] ہک مختلف ڳولݨ انجݨ منتخب کرݨ کیتے <a data-l10n-name="link-options"> تے ونڄو اختیارات </a>
+       *[other] ہک مختلف ڳولݨ انجݨ منتخب کرݨ کیتے <a data-l10n-name="link-options"> ترجیحاں </a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = بند کرو
 about-private-browsing-promo-close-button =
