@@ -15,3 +15,5 @@ about-logging-set-log-file = Naplófájl beállítása
 about-logging-set-log-modules = Naplómodulok beállítása
 about-logging-start-logging = Naplózás elkezdése
 about-logging-stop-logging = Naplózás leállítása
+
+-profiler-brand-name = Firefox Profiler
