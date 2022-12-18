@@ -18,6 +18,7 @@
 -profiler-brand-name = Firefox Profiler
 # This is the title of the page
 about-logging-title = Re le registrationes
+about-logging-page-title = Gestor de registrationes
 about-logging-current-log-file = File de diario actual:
 about-logging-current-log-modules = Modulos de diario actual:
 about-logging-log-tutorial = Vide <a data-l10n-name="logging">HTTP Logging</a> pro instructiones re como usar iste instrumento.
