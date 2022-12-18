@@ -783,6 +783,9 @@ forms-breach-alerts =
     .label = 유출된 웹 사이트의 비밀번호에 대한 경고 표시
     .accesskey = b
 forms-breach-alerts-learn-more-link = 더 알아보기
+relay-integration =
+    .label = { -brand-short-name } 비밀번호 관리자에서 { -relay-brand-name } 활성화
+relay-integration-learn-more-link = 더 알아보기
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = 로그인과 비밀번호 자동 채우기
@@ -985,6 +988,9 @@ content-blocking-fingerprinters = 디지털 지문
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = 가장 강력한 개인 정보 보호 기능을 테스트
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 전체 쿠키 보호는 사용자가 있는 사이트에 대한 쿠키가 포함되어 있으므로, 추적기가 사이트 간에 사용자를 팔로우하는데 쿠키를 사용할 수 없습니다.
 content-blocking-etp-standard-tcp-rollout-learn-more = 더 알아보기
