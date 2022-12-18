@@ -13,3 +13,5 @@ about-logging-set-log-file = Sbadu afaylu aɣmis
 about-logging-set-log-modules = Sbadu izegrar iɣmisen
 about-logging-start-logging = Senker asniɣmes
 about-logging-stop-logging = Seḥbes asniɣmes
+
+-profiler-brand-name = Firefox Profiler
