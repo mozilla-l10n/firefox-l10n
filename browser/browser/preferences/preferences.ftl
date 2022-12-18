@@ -803,6 +803,9 @@ forms-breach-alerts =
     .label = Показывать уведомления о паролях для взломанных сайтов
     .accesskey = ы
 forms-breach-alerts-learn-more-link = Подробнее
+relay-integration =
+    .label = Включите { -relay-brand-name } в вашем менеджере паролей { -brand-short-name }
+relay-integration-learn-more-link = Подробнее
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Автозаполнять логины и пароли
@@ -1005,6 +1008,9 @@ content-blocking-fingerprinters = Сборщики цифровых отпеча
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Испытайте нашу самую мощную за всё время функцию защиты приватности
     .accesskey = ы
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Полная защита от кук ограничивает работу кук сайтом, на котором вы находитесь, чтобы трекеры не могли использовать их для слежки за вами от сайта к сайту.
 content-blocking-etp-standard-tcp-rollout-learn-more = Подробнее
