@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Пароль сохранён!
 confirmation-hint-pin-tab = Закреплено!
 confirmation-hint-pin-tab-description = Щёлкните правой кнопкой мыши по вкладке, чтобы открепить её.
 confirmation-hint-send-to-device = Отправлено!
+confirmation-hint-firefox-relay-mask-generated = Сгенерирован новый псевдоним { -relay-brand-short-name }!
