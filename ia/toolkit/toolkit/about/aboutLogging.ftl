@@ -41,3 +41,6 @@ about-logging-error = Error:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-configuration-url-ignored = Configuration URL ignorate
+about-logging-file-and-profiler-override = Impossibile fortiar un file de exito e al mesme tempore supplantar le optiones del profilator
+about-logging-configured-via-url = Option configurate per URL
