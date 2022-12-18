@@ -9,3 +9,5 @@ about-logging-set-log-file = लॉग फ़ाइल सेट करें
 about-logging-set-log-modules = लॉग मॉड्यूल सेट करें
 about-logging-start-logging = लॉगिंग आरम्भ करें
 about-logging-stop-logging = लॉगिंग बंद करें
+
+-profiler-brand-name = Firefox Profiler
