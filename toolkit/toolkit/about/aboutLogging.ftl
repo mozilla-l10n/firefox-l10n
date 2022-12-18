@@ -13,3 +13,5 @@ about-logging-set-log-file = ตั้งไฟล์รายการบัน
 about-logging-set-log-modules = ตั้งโมดูลรายการบันทึก
 about-logging-start-logging = เริ่มการบันทึก
 about-logging-stop-logging = หยุดการบันทึก
+
+-profiler-brand-name = Firefox Profiler
