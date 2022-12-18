@@ -13,3 +13,5 @@ about-logging-set-log-file = 設定記錄檔
 about-logging-set-log-modules = 設定記錄模組
 about-logging-start-logging = 開始記錄
 about-logging-stop-logging = 停止紀錄
+
+-profiler-brand-name = Firefox Profiler
