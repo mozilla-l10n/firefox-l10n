@@ -9,3 +9,5 @@ about-logging-set-log-file = ခြေရာခံဖိုင်သတ်မှ
 about-logging-set-log-modules = အစိတ်အပိုင်များအား စတင်ခြေရာခံမည်
 about-logging-start-logging = ခြေရာခံခြင်းစပါ
 about-logging-stop-logging = ခြေရာခံခြင်းရပ်ပါ
+
+-profiler-brand-name = Firefox Profiler
