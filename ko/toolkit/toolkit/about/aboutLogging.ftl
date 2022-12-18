@@ -13,3 +13,5 @@ about-logging-set-log-file = 로그 파일 설정
 about-logging-set-log-modules = 로그 모듈 설정
 about-logging-start-logging = 로깅 시작
 about-logging-stop-logging = 로깅 중지
+
+-profiler-brand-name = Firefox Profiler
