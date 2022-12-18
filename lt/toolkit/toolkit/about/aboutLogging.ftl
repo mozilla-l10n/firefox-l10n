@@ -9,3 +9,5 @@ about-logging-set-log-file = Parinkti žurnalo failą
 about-logging-set-log-modules = Parinkti žurnalo modulius
 about-logging-start-logging = Pradėti žurnalizavimą
 about-logging-stop-logging = Baigti žurnalizavimą
+
+-profiler-brand-name = Firefox Profiler
