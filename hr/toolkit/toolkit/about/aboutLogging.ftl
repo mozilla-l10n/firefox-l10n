@@ -9,3 +9,12 @@ about-logging-set-log-file = Postavi log datoteku
 about-logging-set-log-modules = Postavi log module
 about-logging-start-logging = Pokreni vođenje zapisnika
 about-logging-stop-logging = Zaustavi vođenje zapisnika
+-profiler-brand-name =
+    { $case ->
+       *[nom] Firefox Profiler
+        [gen] Firefox Profilera
+        [dat] Firefox Profileru
+        [acc] Firefox Profiler
+        [loc] Firefox Profileru
+        [ins] Firefox Profilerom
+    }
