@@ -13,3 +13,5 @@ about-logging-set-log-file = Ange loggfil
 about-logging-set-log-modules = Ange loggmoduler
 about-logging-start-logging = Starta loggning
 about-logging-stop-logging = Stoppa loggning
+
+-profiler-brand-name = Firefox Profiler
