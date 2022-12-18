@@ -8,22 +8,18 @@ password-quality-meter = מד איכות ססמה
 
 change-device-password-window =
     .title = שינוי ססמה
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = התקן אבטחה: { $tokenName }
 change-password-old = ססמה נוכחית:
 change-password-new = ססמה חדשה:
 change-password-reenter = ססמה חדשה (שוב):
-
 pippki-failed-pw-change = לא ניתן לשנות את הססמה.
 pippki-incorrect-pw = לא הכנסת את הססמה הנוכחית הנכונה. נא לנסות שוב.
 pippki-pw-change-ok = הססמה שונתה בהצלחה.
-
 pippki-pw-empty-warning = הססמאות והמפתחות הפרטיים השמורים שלך לא יהיו מוגנים.
 pippki-pw-erased-ok = מחקת את הססמה שלך. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = אזהרה! בחרת שלא להשתמש בססמה. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = מצבך כרגע הוא FIPS. ‏FIPS דורש ססמה לא־ריקה.
 
 ## Reset Primary Password dialog
@@ -31,14 +27,12 @@ pippki-pw-change2empty-in-fips-mode = מצבך כרגע הוא FIPS. ‏FIPS ד�
 reset-primary-password-window =
     .title = איפוס ססמה ראשית
     .style = width: 40em
-
 reset-primary-password-window2 =
     .title = איפוס ססמה ראשית
     .style = min-width: 40em
 reset-password-button-label =
     .label = איפוס
 reset-primary-password-text = אם הססמה הראשית שלך תאופס, כל הססמאות לאתרים ולדוא״ל, נתוני טפסים, האישורים האישיים והמפתחות הפרטיים המאוחסנים ישכחו. האם ברצונך לאפס את הססמה הראשית שלך?
-
 pippki-reset-password-confirmation-title = איפוס ססמה ראשית
 pippki-reset-password-confirmation-message = הססמה הראשית שלך אופסה.
 
@@ -47,7 +41,6 @@ pippki-reset-password-confirmation-message = הססמה הראשית שלך או
 download-cert-window =
     .title = הורדת אישור
     .style = width: 46em
-
 download-cert-window2 =
     .title = הורדת אישור
     .style = min-width: 46em
@@ -86,3 +79,9 @@ protected-auth-window =
     .title = הזדהות לאסימון מוגן
 protected-auth-msg = נא להזדהות לאסימון. צורת ההזדהות תלויה בסוג האסימון שבידך.
 protected-auth-token = אסימון:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = נא להזדהות לאסימון ״{ $tokenName }״. אופן ההזדהות תלוי באסימון (למשל, שימוש בקורא טביעות אצבע או הזנת קוד על לוח מקשים).
