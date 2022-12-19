@@ -802,6 +802,7 @@ forms-breach-alerts =
     .label = Warnowanja za hesła přez datowu dźěru potrjechenych websydłow
     .accesskey = z
 forms-breach-alerts-learn-more-link = Dalše informacije
+relay-integration-learn-more-link = Dalše informacije
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Přizjewjenja a hesła awtomatisce zapisać
@@ -1004,6 +1005,9 @@ content-blocking-fingerprinters = Porstowe wotćišće
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Testujće našu najmócnišu funkciju priwatnosće wšěch časow
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Dospołny plackowy škit placki k sydłu, na kotrymž sće, zo njebychu přesćěhowaki móhli je wužiwać, zo bychu was na rozdźělnych sydłach slědowali.
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalše informacije
