@@ -140,6 +140,7 @@ webrtc-allow-share-screen-and-audio-capture = Izinkan { $origin } untuk mendenga
 webrtc-allow-share-audio-capture-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } untuk mendengarkan suara tab ini?
 webrtc-allow-share-camera-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke kamera Anda?
 webrtc-allow-share-microphone-unsafe-delegations = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke mikrofon Anda?
+webrtc-allow-share-microphone-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke mikrofon Anda?
 webrtc-allow-share-screen-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } untuk melihat layar Anda?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
