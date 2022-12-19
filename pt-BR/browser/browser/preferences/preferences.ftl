@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Exibir alertas sobre senhas de sites vazados
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saiba mais
+relay-integration =
+    .label = Ative o { -relay-brand-name } no gerenciador de senhas do { -brand-short-name }
+relay-integration-learn-more-link = Saiba mais
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Preencher contas e senhas automaticamente
