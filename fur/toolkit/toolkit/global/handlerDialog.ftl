@@ -21,15 +21,41 @@ permission-dialog-description-file-app = Permeti a chest file di vierzi un coleg
 ## of the sentence as your language's grammar allows.
 
 permission-dialog-remember = Permet simpri a <strong>{ $host }</strong> di vierzi colegaments di gjenar <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Permet simpri a chest file di vierzi colegaments di gjenar <strong>{ $scheme }</strong>
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = Vierç colegament
+    .accessKey = V
+permission-dialog-btn-choose-app =
+    .label = Sielç aplicazion
+    .accessKey = A
+permission-dialog-unset-description = Al covente sielzi une aplicazion.
+permission-dialog-set-change-app-link = Sielç une altre aplicazion.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Sielç aplicazion
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Vierç colegament
+    .buttonaccesskeyaccept = V
+chooser-dialog-description = Sielç une aplicazion par vierzi il colegament di gjenar { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Dopre simpri cheste aplicazion par vierzi i colegaments di gjenar <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Al è pussibil cambiâ cheste impostazion tes opzions di { -brand-short-name }.
+       *[other] Al è pussibil cambiâ cheste impostazion tes preferencis di { -brand-short-name }.
+    }
+choose-other-app-description = Sielç une altre aplicazion
 choose-app-btn =
     .label = Sielç…
     .accessKey = C
 choose-other-app-window-title = Une altre aplicazion…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Disativât tai barcons privâts
