@@ -168,6 +168,7 @@ webrtc-allow-share-screen-and-audio-capture = Թոյղատրե՞լ { $origin }-�
 
 webrtc-allow-share-camera-unsafe-delegation = Թոյղատրե՞լ { $origin } -ին տալ { $thirdParty } -ին հասանելիութիւն տեսախցիկին։
 webrtc-allow-share-microphone-unsafe-delegations = Թոյղատրե՞լ { $origin } -ին տալ { $thirdParty } -ին հասանելիութիւն խաւսափողին։
+webrtc-allow-share-microphone-unsafe-delegation = Թոյղատրե՞լ { $origin } -ին տալ { $thirdParty } -ին հասանելիութիւն խաւսափողին։
 webrtc-allow-share-screen-unsafe-delegation = Թոյղատրե՞լ { $origin } -ին տալ { $thirdParty } -ին հասանելիութիւն եկրանը տեսնելու համար։
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
