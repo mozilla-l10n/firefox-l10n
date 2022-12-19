@@ -16,6 +16,9 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Acerca del registro
 about-logging-current-log-file = Archivo de registro actual:
@@ -33,6 +36,7 @@ about-logging-no-log-file = Ninguno
 
 ## Logging presets
 
+about-logging-preset-media-playback-label = Reproducción multimedia
 about-logging-preset-custom-label = Personalizado
 # Error handling
 about-logging-error = Error:
@@ -41,3 +45,4 @@ about-logging-error = Error:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-configured-via-url = Opción configurada vía URL
