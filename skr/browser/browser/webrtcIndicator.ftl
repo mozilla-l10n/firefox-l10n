@@ -215,3 +215,4 @@ webrtc-remember-allow-checkbox = ایہ فیصلہ یاد رکھو
 webrtc-mute-notifications-checkbox = شیئر کریندے ویلھے ویب سائٹ دیاں اطلاعات کوں خاموش کرو
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }تہاݙی سکرین تک مستقل رسائی دی اجازت نئیں ݙے سڳدا۔
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } تہاݙے ٹیب دے آڈیو تک مستقل رسائی دی اجازت نہیں ݙے سڳدا ایہ پچھے بغیر جو کیڑھا ٹیب سانجھا کرݨا ہے۔
+webrtc-reason-for-no-permanent-allow-insecure = ایں سائٹ تے تہاݙا کنکشن محفوظ کائنی۔ تہاݙے تحفظ کیتے، { -brand-short-name } محض ایں سیشن کیتے رسائی دی اجازت ݙیسے۔

@@ -142,3 +142,31 @@ bar-tooltip-social =
             [one] { $count } سوشل میڈیا ٹریکر ({ $percentage }%)
            *[other] { $count } سوشل میڈیا ٹریکرز ({ $percentage }%)
         }
+bar-tooltip-cookie =
+    .title = کراس سائٹ ٹریکنگ کوکی
+    .aria-label =
+        { $count ->
+            [one] { $count } کراس سائٹ ٹریکنگ کوکی ({ $percentage }%)
+           *[other] { $count } کراس سائٹ ٹریکنگ کوکیاں ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = ٹریکنگ مواد
+    .aria-label =
+        { $count ->
+            [one] { $count } ٹریکنگ مواد ({ $percentage }%)
+           *[other] { $count } ٹریکنگ مواد ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = فنگر پرنٹرز
+    .aria-label =
+        { $count ->
+            [one] { $count } فنگر پرنٹر ({ $percentage }%)
+           *[other] { $count } فنگر پرنٹرز ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = کرپٹومینرز
+    .aria-label =
+        { $count ->
+            [one] { $count } کرپٹومینر ({ $percentage }%)
+           *[other] { $count } کرپٹومینرز ({ $percentage }%)
+        }

@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = انسٹال کرݨ وِچ خرابی
 opensearch-error-format-title = غلط فارمیٹ
+opensearch-error-format-desc = { -brand-short-name } ڳولݨ انجݨ انسٹال نہیں کر سڳدا: { $location-url }
 opensearch-error-download-title = ڈاؤن لوڈ نقص
 opensearch-error-download-desc = { -brand-short-name } ڳولݨ پلگ ان ڈاؤن لوڈ نہیں کر سڳدا: { $location-url }
 

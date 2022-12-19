@@ -1111,6 +1111,9 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = تصدیق نامے
+certs-enable-ocsp =
+    .label = سرٹیفکیٹ دی موجودہ صداقت دی تصدیق کیتے OCSP جواب دہندگان سرورز کنوں پچھ ڳچھ کرو
+    .accesskey = Q
 certs-view =
     .label = تصدیق نامے ݙیکھو …
     .accesskey = C
