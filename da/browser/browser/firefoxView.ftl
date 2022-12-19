@@ -46,6 +46,9 @@ firefoxview-tabpickup-password-locked-header = Indtast din hovedadgangskode for 
 firefoxview-tabpickup-password-locked-description = For at hente dine faneblade skal du indtaste din hovedadgangskode for { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Læs mere
 firefoxview-tabpickup-password-locked-primarybutton = Indtast hovedadgangskode
+firefoxview-tabpickup-signed-out-header = Log ind for at genoprette forbindelse
+firefoxview-tabpickup-signed-out-description = Log ind på din { -fxaccount-brand-name } for at genoprette forbindelsen og hente dine faneblade.
+firefoxview-tabpickup-signed-out-primarybutton = Log ind
 firefoxview-tabpickup-syncing = Vent, mens vi synkroniserer dine faneblade. Det tager kun et øjeblik.
 firefoxview-mobile-promo-header = Hent faneblade fra din telefon eller tablet
 firefoxview-mobile-promo-description = For at se de seneste faneblade fra din mobil skal du logge ind på { -brand-product-name } til iOS eller Android.
@@ -54,9 +57,12 @@ firefoxview-mobile-confirmation-header = 🎉 Alt er klart!
 firefoxview-mobile-confirmation-description = Nu kan du hente faneblade i { -brand-product-name } fra din telefon eller din tablet.
 firefoxview-closed-tabs-title = Senest lukkede
 firefoxview-closed-tabs-description2 = Genåbn sider, du har lukket i dette vindue.
-firefoxview-closed-tabs-placeholder = <strong>Ingen seneste lukkede faneblade</strong><br/>Du behøver ikke at være bange for at miste lukkede faneblade igen - du kan altid finde dem her.
 firefoxview-closed-tabs-placeholder-header = Ingen senest lukkede faneblade
 firefoxview-closed-tabs-placeholder-body = Når du lukker et faneblad i dette vindue, kan du hente det herfra.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Afvis { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Seneste aktive
 # Variables:
@@ -70,7 +76,6 @@ firefoxview-change-colorway-button = Skift farvekombination
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Her er ikke noget at se endnu</strong><br/>Næste gang, du åbner et faneblad i { -brand-product-name } på en anden enhed, kan du få det vist her.
 firefoxview-synced-tabs-placeholder-header = Intet at se endnu
 firefoxview-synced-tabs-placeholder-body = Næste gang du åbner en side i { -brand-product-name } på en anden enhed, kan du få den vist her.
 firefoxview-collapse-button-show =
