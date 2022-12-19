@@ -968,3 +968,12 @@ refresh-blocked-redirect-label = { -brand-short-name } heeft voorkomen dat deze 
 refresh-blocked-allow =
     .label = Toestaan
     .accesskey = T
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } maskeert uw echte e-mailadres om u te helpen beschermen tegen datalekken en spam.
+firefox-relay-offer-how-we-integrate = Als u doorgaat, kunt u nieuwe { -relay-brand-short-name } e-mailmaskers rechtstreeks vanuit uw { -brand-shorter-name }-wachtwoordenbeheerder aanmaken.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = We sturen alle e-mailberichten van <strong>{ $sitename }</strong> door naar <strong>{ $useremail }</strong>.
