@@ -43,6 +43,23 @@ firefoxview-tabpickup-sync-disconnected-primarybutton = Uključi sinkronizaciju 
 firefoxview-tabpickup-password-locked-header = Upiši svoju primarnu lozinku za prikaz kartica
 firefoxview-tabpickup-password-locked-description = Za preuzimanje tvojih kartica, morat ćeš upisati primarnu lozinku za { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Saznaj više
+firefoxview-mobile-promo-primarybutton = Preuzmi { -brand-product-name } za mobilne uređaje
+firefoxview-mobile-confirmation-header = 🎉 Sve je spremno!
+firefoxview-mobile-confirmation-description = Sada možeü preuzeti svoje { -brand-product-name } kartice sa svog tableta ili mobitela.
+firefoxview-closed-tabs-title = Nedavno zatvorene kartice
+firefoxview-closed-tabs-description2 = Ponovo otvori stranice koje si zatvorio/la u ovom prozoru.
+firefoxview-closed-tabs-placeholder-header = Nema nedavno zatvorenih kartica
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Zadnja aktivna kartica
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Otvori { $targetURI } u novoj kartici
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Još se nema što vidjeti
 firefoxview-collapse-button-show =
     .title = Pokaži popis
 firefoxview-collapse-button-hide =
