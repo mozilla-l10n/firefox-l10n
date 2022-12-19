@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = Permetter a { $origin } da tadlar 
 webrtc-allow-share-audio-capture-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } il dretg da tadlar il tun da quest tab?
 webrtc-allow-share-camera-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } l'access a tia camera?
 webrtc-allow-share-microphone-unsafe-delegations = Permetter a { $origin } da dar a { $thirdParty } l'access a tes microfon?
+webrtc-allow-share-microphone-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } l'access a tes microfon?
 webrtc-allow-share-screen-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } il dretg da vesair tes visur?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
