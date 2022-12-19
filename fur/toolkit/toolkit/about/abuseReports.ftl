@@ -72,3 +72,5 @@ abuse-report-deceptive-reason-v2 = Al pretint di jessi alc altri
 abuse-report-deceptive-example = Esempli: descrizion o grafiche ingjanose
 abuse-report-broken-reason-extension-v2 = Nol funzione, al ruvine i sîts o al moreste { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Nol funzione, al ruvine i sîts o al moreste { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = Nol funzione o al ruvine la visualizazion dal navigadôr
+abuse-report-broken-example = Esempli: lis funzions a son lentis, dificilis di doprâ o no funzionin; parts dai sîts web no si cjariin o a vegnin visualizadis in mût strani
