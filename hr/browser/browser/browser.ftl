@@ -132,11 +132,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Potraži pomoć
 urlbar-search-tips-confirm = U redu, razumijem
+urlbar-search-tips-confirm-short = Razumijem
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Savjet:
+urlbar-result-menu-button =
+    .title = Otvori izbornik
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -145,6 +148,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tipkaj manje, pronađi više: Traži { $engineName } direktno u adresnoj traci.
 urlbar-search-tips-redirect-2 = Započni pretragu u adresnoj traci za prikaz prijedloga od { $engineName } i tvoju povijest pregledavanja.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Pretraživanje je upravo postalo jednostavnije. Pokušaj preciznije odrediti pretraživanje u adresnoj traci. Za prikaz URL-a, prijeđi na opciju „Traži” u postavkama.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Odaberi ovaj prečac za brže pronalaženje onoga što tražiš.
@@ -273,36 +278,58 @@ quickactions-addons = Pregledaj dodatke
 quickactions-cmd-addons2 = dodaci
 # Opens the bookmarks library window
 quickactions-bookmarks = Pogledaj zabilješke
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Upravljaj zabilješkama
 quickactions-cmd-bookmarks = zabilješke
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Obriši povijest
 quickactions-cmd-clearhistory = obriši povijest
 # Opens about:downloads page
 quickactions-downloads = Otvori preuzimanja
+# Opens about:downloads page
+quickactions-downloads2 = Prikaži preuzimanja
 quickactions-cmd-downloads = preuzimanja
 # Opens about:addons page in the extensions section
 quickactions-extensions = Upravljaj proširenjima
 quickactions-cmd-extensions = proširenja
 # Opens the devtools web inspector
 quickactions-inspector = Otvori inspektora
+# Opens the devtools web inspector
+quickactions-inspector2 = Otvori alate za programere
 quickactions-cmd-inspector = inspektor, programerski alati
 # Opens about:logins
 quickactions-logins = Pogledaj prijave
+# Opens about:logins
+quickactions-logins2 = Upravljaj lozinkama
 quickactions-cmd-logins = prijave, lozinke
 # Opens about:addons page in the plugins section
 quickactions-plugins = Upravljaj priključcima
 quickactions-cmd-plugins = priključci
 # Opens the print dialog
 quickactions-print = Ispis
+# Opens the print dialog
+quickactions-print2 = Ispiši stranicu
 quickactions-cmd-print = ispis
+# Opens a new private browsing window
+quickactions-private = Otvori prozor za privatno pregledavanje
+# Opens a new private browsing window
+quickactions-private2 = Otvori privatni prozor
+quickactions-cmd-private = privatno pregledavanje
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Aktualiziraj { -brand-short-name }
+quickactions-cmd-refresh = aktualiziraj
 # Restarts the browser
 quickactions-restart = Ponovo pokreni { -brand-short-name }
 quickactions-cmd-restart = ponovo pokreni
 # Opens the screenshot tool
 quickactions-screenshot2 = Snimi ekran
+# Opens the screenshot tool
+quickactions-screenshot3 = Snimi ekran
 quickactions-cmd-screenshot = snimka ekrana
 # Opens about:preferences
 quickactions-settings = Otvori postavke
+# Opens about:preferences
+quickactions-settings2 = Upravljaj postavkama
 quickactions-cmd-settings = postavke, osobne postavke, opcije
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljaj temama
@@ -312,6 +339,8 @@ quickactions-update = Aktualiziraj { -brand-short-name }
 quickactions-cmd-update = aktualiziraj
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Pogledaj izvorni kod
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Prikaži izvorni kod stranice
 quickactions-cmd-viewsource = pogledaj izvorni kod, izvorni kod
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -904,6 +933,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = Pokaži mi kako
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -911,9 +941,23 @@ data-reporting-notification-message = { -brand-short-name } automatski šalje od
 data-reporting-notification-button =
     .label = Odaberi što dijelim
     .accesskey = O
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privatno pregledavanje
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Proširenja
+    .tooltiptext = Proširenja
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Proširenja
+    .tooltiptext =
+        Proširenja
+        Potrebne su dozvole
 
 ## Autorefresh blocker
 
@@ -922,3 +966,6 @@ refresh-blocked-redirect-label = { -brand-short-name } je spriječio automatsko 
 refresh-blocked-allow =
     .label = Dozvoli
     .accesskey = p
+
+## Firefox Relay integration
+
