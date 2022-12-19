@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Greška instaliranja
 opensearch-error-duplicate-desc = { -brand-short-name } ne može instalirati dodatak za traženje s "{ $location-url }" jer tražilica pod tim imenom već postoji.
-
 opensearch-error-format-title = Neispravan format
 opensearch-error-format-desc = { -brand-short-name } nije mogao instalirati tražilicu iz: { $location-url }
-
 opensearch-error-download-title = Greška preuzimanja
 opensearch-error-download-desc = { -brand-short-name } ne može preuzeti dodatak za traženje s: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } ne može preuzeti dodatak
 
 searchbar-submit =
     .tooltiptext = Pošalji pretragu
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Traži
-
 searchbar-icon =
     .tooltiptext = Traži
 
@@ -34,3 +30,4 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-button = U redu

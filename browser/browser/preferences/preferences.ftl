@@ -157,6 +157,16 @@ containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik i izgled
+preferences-web-appearance-choice-browser = { -brand-short-name } tema
+preferences-web-appearance-choice-system = Tema sustava
+preferences-web-appearance-choice-auto = Automatski
+preferences-web-appearance-choice-light = Svijetla
+preferences-web-appearance-choice-dark = Tamna
+preferences-colors-header = Boje
+preferences-colors-manage-button =
+    .label = Upravljaj bojama …
+    .accesskey = b
+preferences-fonts-header = Fontovi
 default-font = Standardni font
     .accesskey = d
 default-font-size = Veličina
@@ -706,6 +716,7 @@ forms-breach-alerts =
     .label = Prikaži upozorenja o lozinkama za hakirane web stranice
     .accesskey = u
 forms-breach-alerts-learn-more-link = Saznaj više
+relay-integration-learn-more-link = Saznaj više
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automatski popuni prijave i lozinke
@@ -854,6 +865,7 @@ addressbar-locbar-engines-option =
     .label = Tražilice
     .accesskey = a
 addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
+addressbar-quickactions-learn-more = Saznaj više
 
 ## Privacy Section - Content Blocking
 
@@ -897,6 +909,7 @@ content-blocking-fingerprinters = Jedinstvene otiske
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-etp-standard-tcp-rollout-learn-more = Saznaj više
 content-blocking-warning-title = Upozorenje!
 content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se neka stranica čini slomljenom, možda ćeš htjeti isključiti zaštitu od praćenja da bi ta stranica učitala sav sadržaj.
 content-blocking-warning-learn-how = Saznaj kako
@@ -996,6 +1009,10 @@ addon-recommendations-link = Saznaj više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji o podacima su deaktivirani za konfiguraciju za izgradnju
+privacy-segmentation-radio-off =
+    .label = Koristi { -brand-product-name } preporuke
+privacy-segmentation-radio-on =
+    .label = Prikaži detaljne informacije
 
 ## Privacy Section - Security
 ##
