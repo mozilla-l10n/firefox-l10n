@@ -966,3 +966,12 @@ refresh-blocked-redirect-label = { -brand-short-name } evitó que esta página s
 refresh-blocked-allow =
     .label = Permitir
     .accesskey = P
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } enmascara su verdadera dirección de correo electrónico para ayudarlo a protegerse de filtraciones de datos y spam.
+firefox-relay-offer-how-we-integrate = Al continuar, podrá generar nuevas máscaras de correo electrónico de { -relay-brand-short-name } directamente desde el administrador de contraseñas de { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónicos de <strong>{ $sitename }</strong> a <strong>{ $useremail }</strong>.
