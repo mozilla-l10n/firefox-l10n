@@ -9,4 +9,6 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+# Windows refers to the operating system
+windows-messages-page-title = Informacije wo zdźělenkach Windows
 windows-messages-copy-to-clipboard = Do mjezyskłada kopěrować
