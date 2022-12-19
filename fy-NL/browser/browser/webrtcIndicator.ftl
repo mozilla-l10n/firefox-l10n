@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } tastean om it lûd fan
 webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } tastean om { $thirdParty } tastimming te jaan om nei de audio fan dit ljepblêd te harkjen?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } tastean om { $thirdParty } tagong ta jo kamera te jaan?
 webrtc-allow-share-microphone-unsafe-delegations = { $origin } tastean om { $thirdParty } tagong ta jo mikrofoan te jaan?
+webrtc-allow-share-microphone-unsafe-delegation = { $origin } tastean om { $thirdParty } tagong ta jo mikrofoan te jaan?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } tastean om { $thirdParty } jo skerm sjen te litten?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
