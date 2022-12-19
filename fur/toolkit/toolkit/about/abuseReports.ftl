@@ -18,6 +18,7 @@ abuse-report-addon-authored-by = di <a data-l10n-name="author-name">{ $author-na
 abuse-report-learnmore =
     No tu sês sigûr su ce probleme selezionâ?
     <a data-l10n-name="learnmore-link">Scuvierç di plui su cemût segnalâ estensions e temis</a>
+abuse-report-submit-description = Descrîf il probleme (facoltatîf)
 
 ## Panel buttons.
 
