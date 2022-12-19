@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = ¿Emoneĩ { $origin } ohendúvo mb
 webrtc-allow-share-audio-capture-unsafe-delegation = ¿Emoneĩ { $origin } ome’ẽvo { $thirdParty }-pe ohecha hag̃ua ko tendayke mba’epu?
 webrtc-allow-share-camera-unsafe-delegation = ¿Emoneĩ { $origin } oikévo { $thirdParty } ta’ãngamýipe?
 webrtc-allow-share-microphone-unsafe-delegations = ¿Emoneĩ { $origin } oikévo { $thirdParty } mba’epúpe?
+webrtc-allow-share-microphone-unsafe-delegation = ¿Emoneĩ { $origin } oikévo { $thirdParty } mba’epúpe?
 webrtc-allow-share-screen-unsafe-delegation = ¿Emoneĩ { $origin } ome’ẽvo { $thirdParty } ohecha hag̃ua mba’erechaha?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
