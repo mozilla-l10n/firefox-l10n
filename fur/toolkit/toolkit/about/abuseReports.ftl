@@ -19,6 +19,8 @@ abuse-report-learnmore =
     No tu sês sigûr su ce probleme selezionâ?
     <a data-l10n-name="learnmore-link">Scuvierç di plui su cemût segnalâ estensions e temis</a>
 abuse-report-submit-description = Descrîf il probleme (facoltatîf)
+abuse-report-textarea =
+    .placeholder = Al è plui facil par nô risolvi un probleme se o vin ducj i detais. Descrîf il probleme che tu âs cjatât. Gracie di judânus a tignî in salût il web.
 
 ## Panel buttons.
 
