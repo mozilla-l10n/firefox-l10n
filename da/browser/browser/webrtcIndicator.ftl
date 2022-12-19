@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = Tillad { $origin } at lytte til ly
 webrtc-allow-share-audio-capture-unsafe-delegation = Tillad { $origin } at give { $thirdParty } tilladelse til at lytte til lyden i dette faneblad?
 webrtc-allow-share-camera-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til dit kamera?
 webrtc-allow-share-microphone-unsafe-delegations = Tillad { $origin } at give { $thirdParty } adgang til din mikrofon?
+webrtc-allow-share-microphone-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til din mikrofon?
 webrtc-allow-share-screen-unsafe-delegation = Tillad { $origin } at give { $thirdParty } tilladelse til at se din skærm?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
