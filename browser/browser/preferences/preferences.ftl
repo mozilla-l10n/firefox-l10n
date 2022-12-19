@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Birta tilkynningar um lykilorð fyrir vefsvæði sem hafa orðið fyrir gagnaránum
     .accesskey = B
 forms-breach-alerts-learn-more-link = Frekari upplýsingar
+relay-integration =
+    .label = Virkjaðu { -relay-brand-name } í { -brand-short-name } lykilorðastjóranum þínum
+relay-integration-learn-more-link = Kanna nánar
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Sjálfvirk útfylling fyrir innskráningar og lykilorð
@@ -1001,6 +1004,9 @@ content-blocking-fingerprinters = Fingraför
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Prófaðu öflugasta persónuverndareiginleikann okkar frá upphafi
     .accesskey = P
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Allsherjar-vefkökuvörn inniheldur vefkökur á vefsvæðið sem þú ert á, þannig að rekjarar geta ekki notað þær til að fylgja þér á milli vefsvæða.
 content-blocking-etp-standard-tcp-rollout-learn-more = Frekari upplýsingar
