@@ -120,6 +120,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Alat za profiliranje
     .tooltiptext = Snimi profil performanse
+profiler-popup-button-recording =
+    .label = Alat za profiliranje
+    .tooltiptext = Alat za profiliranje zapisuje profil
+profiler-popup-button-capturing =
+    .label = Alat za profiliranje
+    .tooltiptext = Alat za profiliranje snima profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-header-text = { -profiler-brand-name }
@@ -161,6 +167,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Web programer
+profiler-popup-presets-firefox-description = Preporučena zadana postavka za profiliranje { -brand-shorter-name }a.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 
 ## History panel
 
