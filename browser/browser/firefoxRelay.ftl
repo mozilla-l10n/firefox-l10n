@@ -14,6 +14,13 @@
 firefox-relay-get-unlimited-masks =
     .label = 管理马甲
     .accesskey = M
+firefox-relay-opt-in-title = 保护您的邮箱地址
+firefox-relay-opt-in-subtitle = 添加{ -relay-brand-name }
+firefox-relay-generate-mask-title = 保护您的邮箱地址
+firefox-relay-generate-mask-subtitle = 生成 { -relay-brand-short-name } 马甲
 firefox-relay-opt-in-confirmation-enable =
     .label = 继续
     .accesskey = C
+firefox-relay-opt-in-confirmation-postpone =
+    .label = 暂时不要
+    .accesskey = N
