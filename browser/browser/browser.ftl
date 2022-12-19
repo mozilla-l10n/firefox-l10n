@@ -976,6 +976,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } маскіруе ваш сапраўдны адрас электроннай пошты, каб абараніць вас ад уцёкаў даных і спаму.
+firefox-relay-offer-how-we-integrate = Працягваючы, вы зможаце ствараць новыя маскі электроннай пошты { -relay-brand-short-name } непасрэдна з вашага менеджара пароляў { -brand-shorter-name }.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
