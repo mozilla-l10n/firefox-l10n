@@ -5,81 +5,65 @@
 permissions-window =
     .title = Undtagelser
     .style = width: 36em
-
 permissions-window2 =
     .title = Undtagelser
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresse på websted
     .accesskey = d
-
 permissions-block =
     .label = Bloker
     .accesskey = B
-
+permissions-disable-etp =
+    .label = Tilføj undtagelse
+    .accesskey = u
 permissions-session =
     .label = Tillad for session
     .accesskey = s
-
 permissions-allow =
     .label = Tillad
     .accesskey = T
-
 permissions-button-off =
     .label = Slå fra
     .accesskey = S
-
 permissions-button-off-temporarily =
     .label = Slå midlertidigt fra
     .accesskey = m
-
 permissions-site-name =
     .label = Websted
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Fjern websted
     .accesskey = F
-
 permissions-remove-all =
     .label = Fjern alle websteder
     .accesskey = a
-
 permission-dialog =
     .buttonlabelaccept = Gem ændringer
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Standard for alle websteder:
-
 permissions-searchbox =
     .placeholder = Søg efter websted
-
 permissions-capabilities-autoplay-allow =
     .label = Tillad lyd og video
 permissions-capabilities-autoplay-block =
     .label = Bloker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Bloker lyd og video
-
 permissions-capabilities-allow =
     .label = Tillad
 permissions-capabilities-block =
     .label = Bloker
 permissions-capabilities-prompt =
     .label = Spørg altid
-
 permissions-capabilities-listitem-allow =
     .value = Tillad
 permissions-capabilities-listitem-block =
     .value = Bloker
 permissions-capabilities-listitem-allow-session =
     .value = Tillad for session
-
 permissions-capabilities-listitem-off =
     .value = Fra
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +79,17 @@ permissions-invalid-uri-label = Indtast venligst et gyldigt værtsnavn
 permissions-exceptions-etp-window =
     .title = Undtagelser for udvidet beskyttelse mod sporing
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Undtagelser for udvidet beskyttelse mod sporing
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Du har slået beskyttelse fra for disse websteder.
+permissions-exceptions-manage-etp-desc = Du kan angive, hvilke websteder der har slået Udvidet beskyttelse mod sporing fra. Indtast den nøjagtige adresse på webstedet, du ønsker at håndtere, og klik derefter på Tilføj undtagelse.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Undtagelser - cookies og websteds-data
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Undtagelser - cookies og websteds-data
     .style = { permissions-window2.style }
@@ -117,7 +100,6 @@ permissions-exceptions-cookie-desc = Du kan angive, hvilke websteder der altid e
 permissions-exceptions-https-only-window =
     .title = Undtagelser - Tilstanden Kun-HTTPS
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Undtagelser - Tilstanden Kun-HTTPS
     .style = { permissions-window2.style }
@@ -128,7 +110,6 @@ permissions-exceptions-https-only-desc = Du kan slå tilstanden Kun-HTTPS fra fo
 permissions-exceptions-popup-window =
     .title = Tilladte websteder - Pop op-vinduer
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Tilladte websteder - Pop op-vinduer
     .style = { permissions-window2.style }
@@ -139,7 +120,6 @@ permissions-exceptions-popup-desc = Du kan angive hvilke websteder, der må åbn
 permissions-exceptions-saved-logins-window =
     .title = Undtagelser - gemte logins
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Undtagelser - gemte logins
     .style = { permissions-window2.style }
@@ -150,7 +130,6 @@ permissions-exceptions-saved-logins-desc = Logins for følgende websteder vil ik
 permissions-exceptions-addons-window =
     .title = Tilladte websteder - Installation af tilføjelser
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Tilladte websteder - Installation af tilføjelser
     .style = { permissions-window2.style }
@@ -161,7 +140,6 @@ permissions-exceptions-addons-desc = Du kan angive hvilke websteder der må inst
 permissions-site-autoplay-window =
     .title = Indstillinger - automatisk afspilning
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Indstillinger - automatisk afspilning
     .style = { permissions-window2.style }
@@ -172,7 +150,6 @@ permissions-site-autoplay-desc = Her kan du håndtere de websteder, der ikke ska
 permissions-site-notification-window =
     .title = Indstillinger - Tilladelser for beskeder
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Indstillinger - Tilladelser for beskeder
     .style = { permissions-window2.style }
@@ -186,7 +163,6 @@ permissions-site-notification-disable-desc = Dette vil forhindre websteder, der 
 permissions-site-location-window =
     .title = Indstillinger - Tilladelser for position
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Indstillinger - Tilladelser for position
     .style = { permissions-window2.style }
@@ -200,7 +176,6 @@ permissions-site-location-disable-desc = Dette vil forhindre websteder, der ikke
 permissions-site-xr-window =
     .title = Indstillinger - Tilladelser for virtual reality
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = Indstillinger - Tilladelser for virtual reality
     .style = { permissions-window2.style }
@@ -214,7 +189,6 @@ permissions-site-xr-disable-desc = Dette vil forhindre websteder, der ikke er an
 permissions-site-camera-window =
     .title = Indstillinger - Tilladelser for kamera
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Indstillinger - Tilladelser for kamera
     .style = { permissions-window2.style }
@@ -228,7 +202,6 @@ permissions-site-camera-disable-desc = Dette vil forhindre websteder, der ikke e
 permissions-site-microphone-window =
     .title = Indstillinger - Tilladelser for mikrofon
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Indstillinger - Tilladelser for mikrofon
     .style = { permissions-window2.style }
