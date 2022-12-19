@@ -467,7 +467,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Stranice spremljene u { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Nedavna aktivnost
-home-prefs-recent-activity-description = Izbor nedavnih stranica i sadržaja
+home-prefs-recent-activity-description = Izbor nedavno posjećenih stranica i sadržaja
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -894,6 +894,9 @@ content-blocking-all-windows-tracking-content = Praćenje sadržaja u svim prozo
 content-blocking-all-third-party-cookies = Svi kolačići trećih strana
 content-blocking-cryptominers = Kripto-rudari
 content-blocking-fingerprinters = Jedinstvene otiske
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = Upozorenje!
 content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se neka stranica čini slomljenom, možda ćeš htjeti isključiti zaštitu od praćenja da bi ta stranica učitala sav sadržaj.
 content-blocking-warning-learn-how = Saznaj kako
