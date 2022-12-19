@@ -180,6 +180,7 @@ webrtc-allow-share-screen-and-audio-capture = An doir thu cead dha { $origin } √
 
 webrtc-allow-share-camera-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan chamara dha { $thirdParty }?
 webrtc-allow-share-microphone-unsafe-delegations = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan mhicreofon dha { $thirdParty }?
+webrtc-allow-share-microphone-unsafe-delegation = An doir thu cead dha { $origin } gun doir e inntrigeadh dhan mhicreofon dha { $thirdParty }?
 webrtc-allow-share-screen-unsafe-delegation = An doir thu cead dha { $origin } gun leig e le { $thirdParty } an sgr√¨n agad fhaicinn?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
