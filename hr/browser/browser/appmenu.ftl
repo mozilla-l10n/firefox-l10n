@@ -172,6 +172,21 @@ profiler-popup-presets-web-developer-label =
 profiler-popup-presets-firefox-description = Preporučena zadana postavka za profiliranje { -brand-shorter-name }a.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Zadana postavka za istraživanje slikovnih grešaka u { -brand-shorter-name }u.
+profiler-popup-presets-graphics-label =
+    .label = Slike
+profiler-popup-presets-media-description2 = Zadana postavka za istraživanje audio i video grešaka u { -brand-shorter-name }u.
+profiler-popup-presets-media-label =
+    .label = Mediji
+profiler-popup-presets-networking-description = Zadana postavka za istraživanje grešaka mrežnog povezivanja u { -brand-shorter-name }u.
+profiler-popup-presets-networking-label =
+    .label = Mrežno povezivanje
+profiler-popup-presets-power-description = Zadana postavka za istraživanje grešaka struje u { -brand-shorter-name }u.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Struja
+profiler-popup-presets-custom-label =
+    .label = Prilagođeno
 
 ## History panel
 
@@ -204,6 +219,9 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = v
 appmenu-help-report-site-issue =
     .label = Prijavi problem sa stranicom …
+appmenu-help-share-ideas =
+    .label = Dijeli ideje i povratne informacije …
+    .accesskey = D
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
