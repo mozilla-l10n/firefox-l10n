@@ -36,9 +36,18 @@ about-logging-info = Marandu:
 about-logging-log-modules-selection = Eiporavo mboheraguapy ra’ãha
 about-logging-new-log-modules = Mboheraguapy ra’ãha pyahu:
 about-logging-logging-output-selection = Mboheraguapy sẽha
+about-logging-logging-to-file = Eñemboheraguapy marandurendápe
+about-logging-logging-to-profiler = Eñemboheraguapy { -profiler-brand-name }-pe
+about-logging-no-log-modules = Avave
+about-logging-no-log-file = Avave
+about-logging-logging-preset-selector-text = Mboheraguapy ypygua:
 
 ## Logging presets
 
+about-logging-preset-networking-label = Pyha
+about-logging-preset-custom-label = Ñemomba’epyre
+# Error handling
+about-logging-error = Javy:
 
 ## Variables:
 ##   $k (String) - Variable name
