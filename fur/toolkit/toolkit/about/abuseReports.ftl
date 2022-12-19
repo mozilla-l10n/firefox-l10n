@@ -50,8 +50,25 @@ abuse-report-messagebar-error-recent-submit = La segnalazion par <span data-l10n
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = Sì, gjavile
-abuse-report-messagebar-action-keep-extension = No, tegnile
-abuse-report-messagebar-action-remove-sitepermission = Sì, gjavile
+abuse-report-messagebar-action-keep-extension = No, le ten
+abuse-report-messagebar-action-remove-sitepermission = Sì, gjavilu
+abuse-report-messagebar-action-keep-sitepermission = No, lu ten
+abuse-report-messagebar-action-remove-theme = Sì, gjavilu
+abuse-report-messagebar-action-keep-theme = No, lu tignarai
+abuse-report-messagebar-action-retry = Torne prove
+abuse-report-messagebar-action-cancel = Anule
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason-v2 = Al à ruvinât il gno computer o comprometût i miei dâts
+abuse-report-damage-example = Esempli: inietât un malware o robât dâts
+abuse-report-spam-reason-v2 = Al conten spam o al inserìs publicitât malvolude
+abuse-report-spam-example = Esempli: al inserìs publicitât aes pagjinis web
+abuse-report-settings-reason-v2 = Al à cambiât il gno motôr di ricercje, pagjine iniziâl o la gnove schede cence visâ o domandâ il permès
+abuse-report-settings-suggestions = Prime di segnalâ la estension, tu puedis provâ a cambiâ lis impostazions:
+abuse-report-settings-suggestions-search = Cambie lis tôs impostazions di ricercje predefinidis
+abuse-report-settings-suggestions-homepage = Cambie la tô pagjine iniziâl e la gnove schede
+abuse-report-deceptive-reason-v2 = Al pretint di jessi alc altri
+abuse-report-deceptive-example = Esempli: descrizion o grafiche ingjanose
+abuse-report-broken-reason-extension-v2 = Nol funzione, al ruvine i sîts o al moreste { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = Nol funzione, al ruvine i sîts o al moreste { -brand-product-name }
