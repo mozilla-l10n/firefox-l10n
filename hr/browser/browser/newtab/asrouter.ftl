@@ -203,3 +203,5 @@ firefoxview-spotlight-promo-secondarybutton = Preskoči
 
 colorways-cfr-primarybutton = Odaberi kolorit
     .accesskey = O
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Oboji preglednik s ekskluzivnim { -brand-short-name } nijansama inspiriranim glasovima koji su promijenili kulturu.

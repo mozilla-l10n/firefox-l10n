@@ -300,6 +300,26 @@ mr2022-onboarding-pin-primary-button-label =
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label-continue = Postavi i nastavi
+mr2022-onboarding-colorway-label-default = Standardno
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Aktualne { -brand-short-name } boje
+mr2022-onboarding-colorway-description-default = <b>Koristi moje aktualne { -brand-short-name } boje.</b>
+mr2022-onboarding-colorway-label-expressionist = Ekspresionist
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Ekspresionist (žuta)
+mr2022-onboarding-colorway-label-visionary = Vizionar
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Vizionar (zelena)
+mr2022-onboarding-colorway-label-activist = Aktivist
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Aktivist (plava)
+mr2022-onboarding-colorway-label-dreamer = Sanjar
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Sanjar (ljubičasta)
+mr2022-onboarding-colorway-label-innovator = Inovator
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Inovator (narančasta)
 
 ## MR2022 Multistage Mobile Download screen strings
 
