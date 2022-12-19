@@ -140,6 +140,7 @@ webrtc-allow-share-screen-and-audio-capture = Cho phép { $origin } nghe âm tha
 webrtc-allow-share-audio-capture-unsafe-delegation = Cho phép { $origin } cấp quyền cho { $thirdParty } nghe âm thanh của thẻ này?
 webrtc-allow-share-camera-unsafe-delegation = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào máy ảnh của bạn?
 webrtc-allow-share-microphone-unsafe-delegations = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào micrô của bạn?
+webrtc-allow-share-microphone-unsafe-delegation = Cho phép { $origin } cấp cho { $thirdParty } quyền truy cập vào micrô của bạn?
 webrtc-allow-share-screen-unsafe-delegation = Cho phép { $origin } cấp quyền cho { $thirdParty } xem màn hình của bạn?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
