@@ -188,6 +188,7 @@ webrtc-allow-share-screen-and-audio-capture = Chcete serveru { $origin } povolit
 webrtc-allow-share-audio-capture-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } poslouchat zvuky z tohoto panelu?
 webrtc-allow-share-camera-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat vaši webkameru?
 webrtc-allow-share-microphone-unsafe-delegations = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat váš mikrofon?
+webrtc-allow-share-microphone-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } používat váš mikrofon?
 webrtc-allow-share-screen-unsafe-delegation = Chcete serveru { $origin } povolit, aby umožnil { $thirdParty } vidět vaši obrazovku?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
