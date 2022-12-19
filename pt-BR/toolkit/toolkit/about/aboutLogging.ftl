@@ -16,6 +16,9 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Log de tráfego de rede
 about-logging-page-title = Gerenciador de log
@@ -63,3 +66,4 @@ about-logging-unknown-profiler-preset = Ajuste prévio do profiler desconhecido 
 about-logging-unknown-option = Opção de about:logging desconhecida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuração ignorada
 about-logging-file-and-profiler-override = Não é possível forçar saída em arquivo e substituir opções do profiler ao mesmo tempo
+about-logging-configured-via-url = Opção configurada via URL
