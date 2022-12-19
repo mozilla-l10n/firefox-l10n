@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Mot de passe enregistré !
 confirmation-hint-pin-tab = Épinglé !
 confirmation-hint-pin-tab-description = Effectuez un clic droit sur l’onglet pour le désépingler.
 confirmation-hint-send-to-device = Envoyé
+confirmation-hint-firefox-relay-mask-generated = Un nouvel alias de messagerie { -relay-brand-short-name } a été généré !
