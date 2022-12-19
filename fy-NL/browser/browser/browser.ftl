@@ -968,3 +968,12 @@ refresh-blocked-redirect-label = { -brand-short-name } hat opkeard dat dizze sid
 refresh-blocked-allow =
     .label = Tastean
     .accesskey = T
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } maskearret jo wiere e-mailadres om jo te beskermjen tsjin datalekken en spam.
+firefox-relay-offer-how-we-integrate = As jo trochgean, kinne jo nije { -relay-brand-short-name } e-mailmaskers streekrjocht fan jo { -brand-shorter-name }-wachtwurdenbehearder út oanmeitsje.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Wy stjoere alle e-mailberjochten fan <strong>{ $sitename }</strong> troch nei <strong>{ $useremail }</strong>.
