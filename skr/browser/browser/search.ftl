@@ -10,9 +10,13 @@
 
 opensearch-error-duplicate-title = انسٹال کرݨ وِچ خرابی
 opensearch-error-format-title = غلط فارمیٹ
+opensearch-error-download-title = ڈاؤن لوڈ نقص
+opensearch-error-download-desc = { -brand-short-name } ڳولݨ پلگ ان ڈاؤن لوڈ نہیں کر سڳدا: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = ڳول ارسال کرو
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = ڳولو

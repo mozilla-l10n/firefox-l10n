@@ -8,6 +8,7 @@ blocklist-window =
 blocklist-window2 =
     .title = بلاک تندیراں
     .style = min-width: 55em
+blocklist-description = آن لائن ٹریکرز کوں بلاک کرݨ کیتے استعمال تھیوݨ والی تندیر { -brand-short-name } دا انتخاب کرو۔ <a data-l10n-name="disconnect-link" title="Disconnect"> دے ذریعے فراہم کردہ تندیراں منقطع کرو </a>۔
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

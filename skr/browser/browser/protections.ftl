@@ -9,6 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } پچھلے ہک ہفتے توں { $count } ٹریکر کوں بلاک کر ݙتے
        *[other] { -brand-short-name } پچھلے ہک ہفتے توں { $count } ٹریکرز کوں بلاک کر ݙتے
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> کنوں ٹریکر بلاک ہے { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> کنوں ٹریکرز بلاک ہن { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } پرائیویٹ ونڈوز وِچ ٹریکرز کوں بلاک کرݨ جاری رکھیندا ہے، پر ایندا ریکارڈ نہیں رکھیندا  جو کیا بلاک کیتا ڳیا ہا۔
 # Weekly summary of the graph when the graph is empty in Private Mode
@@ -35,6 +44,7 @@ protections-close-button2 =
     .title = بند کرو
 mobile-app-title = ودھیک آلات تے اشتہاری ٹریکرز کوں روکو۔
 mobile-app-card-content = اشتہار کنوں باخبر رہݨ دے خلاف بلٹ ان تحفظ دے نال موبائل براؤزر استعمال کرو۔
+mobile-app-links = { -brand-product-name } براؤز کیتے <a data-l10n-name="android-mobile-inline-link"> انڈرائیڈ </a> تے <a data-l10n-name="ios-mobile-inline-link">
 lockwise-title = ولا کݙاہیں پاس ورڈ نہ بھلو
 passwords-title-logged-in = آپݨے پاس ورڈز دا بندوبست کرو
 passwords-header-content = { -brand-product-name } تہاݙے پاس ورڈز کوں تہاݙے براؤزر وِچ محفوظ طریقے نال اسٹور کریندا ہے۔
@@ -125,3 +135,10 @@ monitor-resolve-breaches-link = خلاف ورزیاں حل کرو
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = سوشل میڈیا ٹریکرز
+    .aria-label =
+        { $count ->
+            [one] { $count } سوشل میڈیا ٹریکر ({ $percentage }%)
+           *[other] { $count } سوشل میڈیا ٹریکرز ({ $percentage }%)
+        }

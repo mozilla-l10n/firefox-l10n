@@ -6,4 +6,8 @@
 ## Text recognition works through a modal that presents the text that is found
 ## in an image, and copies the results to the clipboard.
 
+text-recognition-modal-searching-title = متن کیتے تصویر دی ڳول جاری ہے …
+text-recognition-modal-results-title = تصویر کنوں متن کاپی تھی ڳئے
 text-recognition-modal-close-button = بند کرو
+# The title of the the modal is only available to screen readers.
+text-recognition-modal-accessible-modal-title = متن کڈھݨ دے نتیجے

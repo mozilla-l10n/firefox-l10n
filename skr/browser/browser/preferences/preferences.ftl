@@ -436,6 +436,9 @@ browsing-picture-in-picture-toggle-enabled =
     .label = تصویر وِچ تصویر ویڈیو کنٹرول کوں فعال کرو
     .accesskey = E
 browsing-picture-in-picture-learn-more = ٻیا سِکھو
+browsing-media-control =
+    .label = کی بورڈ، ہیڈ سیٹ، یا ورچوئل انٹرفیس دے ذریعے میڈیا کوں کنٹرول کرو۔
+    .accesskey = v
 browsing-media-control-learn-more = ٻیا سِکھو
 browsing-cfr-recommendations =
     .label = براؤز کریندے ویلھے ایکسٹیشنز تجویز کرو
@@ -582,6 +585,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = نجی ونڈوز وِچ ڳولݨ دیاں تجویزاں ݙکھاؤ
 suggestions-addressbar-settings-generic2 = ٻئے ایڈریس بار دیاں تجویزاں کیتے ترتیباں تبدیل کرو
+search-suggestions-cant-show = ڳولݨ دیاں صلاحیں لوکیشن بار دے نتیجے وِچ نہ ݙکھایاں ویسن کیوں جو تساں تاریخ کوں کݙاہیں یاد نہ رکھݨ کیتے { -brand-short-name } کوں ترتیب ݙتا ہے۔
 search-one-click-header2 = ڳولݨ شارٹ کٹ
 search-one-click-desc = متبادل ڳولݨ انجݨاں دا انتخاب کرو جیڑھے ایڈریس بار تے سرچ بار دے تلے ظاہر تھیندے ہن جݙاں تساں کلیدی لفظ درج کرݨ شروع کریندے او۔
 search-choose-engine-column =
@@ -626,6 +630,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = اپݨی ویب اپݨے نال رکھو
+sync-signedout-description2 = اپݨے تمام آلات تے اپݨے نشانیاں، تاریخ، ٹیباں، پاس ورڈز، ایڈ آنز تے ترتیباں کوں سنکرونائز کرو۔
 sync-signedout-account-signin3 =
     .label = سینک کرݨ کیتے سائن ان تھیوو …
     .accesskey = i

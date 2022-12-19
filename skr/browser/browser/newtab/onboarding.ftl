@@ -248,6 +248,11 @@ fx100-thank-you-pin-primary-button-label =
        *[other] { -brand-short-name } تے دو پن کرو
     }
 fx100-upgrade-thanks-header = 100 تہاݙا شکریہ
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = ایہ اساݙی { -brand-short-name } دی سوویں ریلیز ہے۔ہک بہتر تے نروآ انٹرنیٹ بݨاوݨ وِچ تہاݙے تعاون واسے <em> تہاݙا </em> شکریہ
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = ایہ اساݙی سوویں ریلیز ہے! اساݙی کمیونٹی دا حصہ بݨݨ تے تہاݙا شکریہ۔ { -brand-short-name } تے رہو اڳلا 100 ہک کلک دی دوری تے ہے۔
 mr2022-onboarding-secondary-skip-button-label = ایں مرحلے کوں چھوڑو
 
 ## MR2022 New User Pin Firefox screen strings
