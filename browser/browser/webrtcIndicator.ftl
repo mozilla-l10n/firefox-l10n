@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = Engedélyezi, hogy a(z) { $origin 
 webrtc-allow-share-audio-capture-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hallgassa a lap hangját?
 webrtc-allow-share-camera-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen a kamerájához?
 webrtc-allow-share-microphone-unsafe-delegations = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen a mikrofonjához?
+webrtc-allow-share-microphone-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy hozzáférjen a mikrofonjához?
 webrtc-allow-share-screen-unsafe-delegation = Engedélyezi, hogy a { $origin } megengedje a(z) { $thirdParty } oldalnak, hogy lássa a képernyőjét?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
