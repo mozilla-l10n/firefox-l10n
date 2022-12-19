@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = ნებას რთავთ { 
 webrtc-allow-share-audio-capture-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენი ჩანართის ხმასთან?
 webrtc-allow-share-camera-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს კამერასთან?
 webrtc-allow-share-microphone-unsafe-delegations = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს მიკროფონთან?
+webrtc-allow-share-microphone-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს მიკროფონთან?
 webrtc-allow-share-screen-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენი ეკრანის გამოსახულებასთან?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
