@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Mostrar alertas sobre contraseñas para sitios web violados
     .accesskey = b
 forms-breach-alerts-learn-more-link = Conocer más
+relay-integration =
+    .label = Habilite { -relay-brand-name } en el administrador de contraseñas de { -brand-short-name }
+relay-integration-learn-more-link = Conocer más
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Autocompletar inicios de sesión y contraseñas
@@ -1003,6 +1006,9 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         Probá nuestra experiencia de
         privacidad más poderosa de la historia
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protección total de cookies contiene cookies para el sitio en el que estás, así que los rastreadores no pueden usarlas para seguirte entre sitios.
 content-blocking-etp-standard-tcp-rollout-learn-more = Conocer más
