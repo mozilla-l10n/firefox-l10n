@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = Ба { $origin } барои гӯш
 webrtc-allow-share-audio-capture-unsafe-delegation = Ба { $origin } иҷозат медиҳед, ки барои шунидани аудиои ин варақ ба { $thirdParty } дастрасиро таъмин намояд?
 webrtc-allow-share-camera-unsafe-delegation = Ба { $origin } иҷозат медиҳед, ки ба камераи шумо ба { $thirdParty } дастрасиро таъмин намояд?
 webrtc-allow-share-microphone-unsafe-delegations = Ба { $origin } иҷозат медиҳед, ки ба микрофони шумо ба { $thirdParty } дастрасиро таъмин намояд?
+webrtc-allow-share-microphone-unsafe-delegation = Ба { $origin } иҷозат медиҳед, ки ба микрофони шумо ба { $thirdParty } дастрасиро таъмин намояд?
 webrtc-allow-share-screen-unsafe-delegation = Ба { $origin } иҷозат медиҳед, ки барои дидани экрани шумо ба { $thirdParty } дастрасиро таъмин намояд?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
