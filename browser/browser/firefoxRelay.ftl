@@ -13,8 +13,20 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } fann ekki neinar
 
 ##
 
+firefox-relay-must-login-to-fxa = Þú verður að skrá þig inn á { -fxaccount-brand-name } til að nota { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Sýsla með grímur
     .accesskey = m
+firefox-relay-opt-in-title = Verndaðu tölvupóstfangið þitt
+firefox-relay-opt-in-subtitle = Bæta við { -relay-brand-name }
 firefox-relay-generate-mask-title = Verndaðu tölvupóstfangið þitt
 firefox-relay-generate-mask-subtitle = Búðu til { -relay-brand-short-name } grímu
+firefox-relay-opt-in-confirmation-enable =
+    .label = Halda áfram
+    .accesskey = H
+firefox-relay-opt-in-confirmation-disable =
+    .label = Ekki sýna mér þetta aftur
+    .accesskey = k
+firefox-relay-opt-in-confirmation-postpone =
+    .label = Ekki núna
+    .accesskey = n
