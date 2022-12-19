@@ -69,6 +69,18 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Uredi…
     .accesskey = i
+places-edit-folder2 =
+    .label = Uredi mapu …
+    .accesskey = U
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Izbriši mapu
+            [one] Izbriši mapu
+            [few] Izbriši mape
+           *[other] Izbriši mape
+        }
+    .accesskey = I
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Upravljane zabilješke
@@ -78,6 +90,23 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Druge zabilješke
+places-show-in-folder =
+    .label = Prikaži u mapi
+    .accesskey = P
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Izbriši zabilješku
+            [one] Izbriši zabilješku
+            [few] Izbriši zabilješke
+           *[other] Izbriši zabilješke
+        }
+    .accesskey = I
+places-untag-bookmark =
+    .label = Ukloni oznaku
+    .accesskey = U
 places-manage-bookmarks =
     .label = Upravljaj zabilješkama
     .accesskey = m
