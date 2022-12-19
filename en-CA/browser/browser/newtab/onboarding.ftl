@@ -27,6 +27,8 @@ return-to-amo-add-theme-label = Add the Theme
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Say hello to { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Add { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
