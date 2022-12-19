@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Private Browsing
 
 ##
@@ -134,11 +136,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Get help
 urlbar-search-tips-confirm = Okay, Got It
+urlbar-search-tips-confirm-short = Got it
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tip:
+urlbar-result-menu-button =
+    .title = Open menu
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -147,6 +152,8 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Type less, find more: Search { $engineName } right from your address bar.
 urlbar-search-tips-redirect-2 = Start your search in the address bar to see suggestions from { $engineName } and your browsing history.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Searching just got simpler. Try making your search more specific here in the address bar. To show the URL instead, visit Search, in settings.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Select this shortcut to find what you need faster.
@@ -275,30 +282,42 @@ quickactions-addons = View Add-ons
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks = View Bookmarks
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Manage bookmarks
 quickactions-cmd-bookmarks = bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Clear History
 quickactions-cmd-clearhistory = clear history
 # Opens about:downloads page
 quickactions-downloads = Open Downloads
+# Opens about:downloads page
+quickactions-downloads2 = View downloads
 quickactions-cmd-downloads = downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Manage extensions
 quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
 quickactions-inspector = Open Inspector
+# Opens the devtools web inspector
+quickactions-inspector2 = Open Developer Tools
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins = View Logins
+# Opens about:logins
+quickactions-logins2 = Manage passwords
 quickactions-cmd-logins = logins, passwords
 # Opens about:addons page in the plugins section
 quickactions-plugins = Manage plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Print
+# Opens the print dialog
+quickactions-print2 = Print page
 quickactions-cmd-print = print
 # Opens a new private browsing window
 quickactions-private = Open Private Browsing Window
+# Opens a new private browsing window
+quickactions-private2 = Open private window
 quickactions-cmd-private = private browsing
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Refresh { -brand-short-name }
@@ -308,9 +327,13 @@ quickactions-restart = Restart { -brand-short-name }
 quickactions-cmd-restart = restart
 # Opens the screenshot tool
 quickactions-screenshot2 = Take a Screenshot
+# Opens the screenshot tool
+quickactions-screenshot3 = Take a screenshot
 quickactions-cmd-screenshot = screenshot
 # Opens about:preferences
 quickactions-settings = Open Settings
+# Opens about:preferences
+quickactions-settings2 = Manage settings
 quickactions-cmd-settings = settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = Manage themes
@@ -320,6 +343,8 @@ quickactions-update = Update { -brand-short-name }
 quickactions-cmd-update = update
 # Opens the view-source UI with current pages source
 quickactions-viewsource = View Source
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = View Page Source
 quickactions-cmd-viewsource = view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -924,6 +949,15 @@ unified-extensions-button =
     .label = Extensions
     .tooltiptext = Extensions
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Extensions
+    .tooltiptext =
+        Extensions
+        Permissions needed
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } prevented this page from automatically reloading.
@@ -931,3 +965,6 @@ refresh-blocked-redirect-label = { -brand-short-name } prevented this page from 
 refresh-blocked-allow =
     .label = Allow
     .accesskey = A
+
+## Firefox Relay integration
+
