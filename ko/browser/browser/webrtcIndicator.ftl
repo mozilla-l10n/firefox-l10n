@@ -140,6 +140,7 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } 사이트가 이 탭�
 webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 이 탭의 소리를 들을 수 있도록 권한을 부여하는 것을 허용하시겠습니까?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 카메라에 접근할 수 있도록 허용하시겠습니까?
 webrtc-allow-share-microphone-unsafe-delegations = { $origin } 사이트가 { $thirdParty }에 마이크에 접근할 수 있도록 허용하시겠습니까?
+webrtc-allow-share-microphone-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 마이크에 접근할 수 있도록 허용하시겠습니까?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } 사이트가 { $thirdParty }에 화면을 볼 수 있도록 권한을 부여하는 것을 허용하시겠습니까?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
