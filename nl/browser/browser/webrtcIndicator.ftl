@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } toestaan om het geluid
 webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } toestaan om { $thirdParty } toestemming te geven om naar de audio van dit tabblad te luisteren?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } toestaan om { $thirdParty } toegang tot uw camera te geven?
 webrtc-allow-share-microphone-unsafe-delegations = { $origin } toestaan om { $thirdParty } toegang tot uw microfoon te geven?
+webrtc-allow-share-microphone-unsafe-delegation = { $origin } toestaan om { $thirdParty } toegang tot uw microfoon te geven?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } toestaan om { $thirdParty } uw scherm te laten zien?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
