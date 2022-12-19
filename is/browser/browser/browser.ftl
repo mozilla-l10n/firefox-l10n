@@ -968,3 +968,12 @@ refresh-blocked-redirect-label = { -brand-short-name } kom í veg fyrir að sí�
 refresh-blocked-allow =
     .label = Leyfa
     .accesskey = a
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } felur raunverulegt tölvupóstfang þitt til að vernda þig gegn gagnastuldi og ruslpósti.
+firefox-relay-offer-how-we-integrate = Með því að halda áfram muntu geta búið til nýjar { -relay-brand-short-name } tölvupóstgrímur beint úr { -brand-shorter-name } lykilorðastjóranum þínum.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Við munum áframsenda allan tölvupóst frá <strong>{ $sitename }</strong> til <strong>{ $useremail }</strong>.

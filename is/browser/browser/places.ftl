@@ -115,6 +115,9 @@ places-forget-about-this-site-confirmation-title = Gleymi þessu vefsvæði
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Þessi aðgerð mun fjarlægja öll gögn sem tengjast { $hostOrBaseDomain }, þar á meðal vafurferil, lykilorðum, vafrakökum, skyndiminni og valkostum efnis. Ertu viss um að þú viljir halda áfram?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Þessi aðgerð mun fjarlægja gögn sem tengjast { $hostOrBaseDomain }, þar á meðal vafurferil, vefkökur, skyndiminni og stillingar efnis. Tengd bókamerki og lykilorð verða ekki fjarlægð. Ertu viss um að þú viljir halda áfram?
 places-forget-about-this-site-forget = Gleyma
 places-library =
     .title = Safn
