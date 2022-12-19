@@ -286,6 +286,7 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label = Postavi { -brand-short-name } kao standardni preglednik
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -294,17 +295,23 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Uvezi iz prethodnog preglednika
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Odaberi boju koja te inspirira
+mr2022-onboarding-colorway-subtitle = Neovisni glasovi mogu promijeniti kulturu.
 mr2022-onboarding-colorway-primary-button-label-continue = Postavi i nastavi
 mr2022-onboarding-colorway-label-default = Standardno
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Aktualne { -brand-short-name } boje
 mr2022-onboarding-colorway-description-default = <b>Koristi moje aktualne { -brand-short-name } boje.</b>
+mr2022-onboarding-colorway-label-playmaker = Playmaker
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Playmaker (crvena)
 mr2022-onboarding-colorway-label-expressionist = Ekspresionist
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Ekspresionist (žuta)
@@ -330,12 +337,17 @@ mr2022-onboarding-colorway-tooltip-innovator2 =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = Koristi { -brand-product-name } preporuke
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Prikaži detaljne informacije
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Pogledaj novosti
+mr2022-onboarding-gratitude-secondary-button-label = Počni pregledavati
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-primary-button = Uvezi u { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
