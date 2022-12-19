@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Vis advarsler om adgangskoder for hackede websteder
     .accesskey = a
 forms-breach-alerts-learn-more-link = Læs mere
+relay-integration =
+    .label = Aktiver { -relay-brand-name } i { -brand-short-name }' adgangskode-håndtering
+relay-integration-learn-more-link = Læs mere
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Autofyld logins og adgangskoder
@@ -1001,6 +1004,9 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Vær blandt de første til at teste vores hidtil stærkeste privatlivs-beskyttelse
     .accesskey = V
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Komplet Cookiebeskyttelse begrænser cookies til det websted, du befinder dig på. Så kan sporingsmekanismer ikke følge dig på tværs af websteder.
 content-blocking-etp-standard-tcp-rollout-learn-more = Læs mere
