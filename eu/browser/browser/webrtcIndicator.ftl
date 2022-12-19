@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = Baimendu { $origin } guneak fitxa 
 webrtc-allow-share-audio-capture-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari fitxa honen audioa entzuteko baimena ematea?
 webrtc-allow-share-camera-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari zure kamerarako sarbidea ematea?
 webrtc-allow-share-microphone-unsafe-delegations = Baimendu { $origin } guneak { $thirdParty } guneari zure mikrofonorako sarbidea ematea?
+webrtc-allow-share-microphone-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari zure mikrofonorako sarbidea ematea?
 webrtc-allow-share-screen-unsafe-delegation = Baimendu { $origin } guneak { $thirdParty } guneari zure pantaila ikusteko baimena ematea?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
