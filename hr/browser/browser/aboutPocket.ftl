@@ -42,6 +42,10 @@ pocket-panel-signup-signup-firefox = Registracija s { -brand-product-name }om
 pocket-panel-signup-tagline = Spremi članke i video snimke iz { -brand-product-name }a za prikaz u { -pocket-brand-name }u, na bilo kojem uređaju, bilo kada.
 pocket-panel-signup-tagline-story-one = Za spremanje bilo kojeg članka, video snimke ili stranice iz { -brand-product-name }a, klikni na { -pocket-brand-name } tipku.
 pocket-panel-signup-tagline-story-two = Pogledaj u { -pocket-brand-name }u na bilo kojem uređaju, bilo kada.
+pocket-panel-signup-cta-b-updated = Pritisni gumb { -pocket-brand-name } za spremanje članaka, videa i poveznica. Pogledaj svoja spremanja na bilo kojem uređaju, bilo kada.
+pocket-panel-signup-cta-b-short = Pritisni gumb { -pocket-brand-name } za spremanje članaka, videa i poveznica.
+pocket-panel-signup-cta-c = Pogledaj svoj popis na bilo kojem uređaju, bilo kada.
+pocket-panel-signup-cta-c-updated = Pogledaj svoja spremanja na bilo kojem uređaju, bilo kada.
 
 ## about:pocket-home panel
 
@@ -51,6 +55,10 @@ pocket-panel-home-paragraph = Možeš koristiti { -pocket-brand-name } za istra�
 pocket-panel-home-explore-popular-topics = Istraži popularne teme
 pocket-panel-home-discover-more = Otkrij više
 pocket-panel-home-explore-more = Istraži
+pocket-panel-home-most-recent-saves = Ovo su tvoja najnedavnija spremanja:
+pocket-panel-home-most-recent-saves-loading = Nedavna spremanja se učitavaju …
+pocket-panel-home-new-user-cta = Pritisni gumb { -pocket-brand-name } za spremanje članaka, videa i poveznica.
+pocket-panel-home-new-user-message = Ovdje pogledaj svoja nedavna spremanja.
 
 ## Pocket panel header component
 

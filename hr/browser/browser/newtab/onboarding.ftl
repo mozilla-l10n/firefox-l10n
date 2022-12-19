@@ -23,6 +23,12 @@ return-to-amo-subtitle = Super, koristite { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Dohvatimo ti sada <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Dodaj proširenje
+return-to-amo-add-theme-label = Dodaj temu
+
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = Upoznaj { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Dodaj { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -38,6 +44,10 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = Napredak: korak { $current } od { $total }
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Napredak: korak { $current } od { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -126,6 +136,7 @@ mr1-onboarding-theme-label-light = Svijetla
 mr1-onboarding-theme-label-dark = Tamna
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Gotovo
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

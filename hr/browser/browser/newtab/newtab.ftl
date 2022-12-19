@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = U toku si sa svime!
 newtab-pocket-last-card-desc = Provjeri kasnije za više sadržaja
 newtab-pocket-last-card-image =
     .alt = U toku si sa svime
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Spremi
+newtab-pocket-saved = Spremljeno
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -260,6 +263,7 @@ newtab-custom-sponsored-sites = Sponzorirani prečaci
 newtab-custom-pocket-title = Preporuke iz { -pocket-brand-name(case: "gen") }
 newtab-custom-pocket-subtitle = Izuzetan sadržaj kojeg odabire { -pocket-brand-name }, dio obitelji { -brand-product-name }
 newtab-custom-pocket-sponsored = Sponzorirane priče
+newtab-custom-pocket-show-recent-saves = Prikaži nedavna spremanja
 newtab-custom-recent-title = Nedavna aktivnost
 newtab-custom-recent-subtitle = Izbor nedavno posjećenih stranica i sadržaja
 newtab-custom-close-button = Zatvori
