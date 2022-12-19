@@ -969,3 +969,12 @@ refresh-blocked-redirect-label = { -brand-short-name } втримав цю ст�
 refresh-blocked-allow =
     .label = Дозволити
     .accesskey = Д
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } маскує вашу справжню електронну адресу, щоб захистити вас від витоку даних і спаму.
+firefox-relay-offer-how-we-integrate = Продовживши, ви зможете створювати нові маски електронної пошти { -relay-brand-short-name } безпосередньо з вашого менеджера паролів { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Ми пересилатимемо всі електронні листи з <strong>{ $sitename }</strong> на <strong>{ $useremail }</strong>.
