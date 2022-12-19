@@ -30,12 +30,14 @@ abuse-report-submit-note =
 abuse-report-cancel-button = Anule
 abuse-report-next-button = Sucessîf
 abuse-report-goback-button = Torne indaûr
+abuse-report-submit-button = Invie
 
 ## Message bars descriptions.
 ##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Segnalazion par <span data-l10n-name="addon-name">{ $addon-name }</span> anulade.
 
 ## Message bars actions.
 
