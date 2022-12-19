@@ -984,3 +984,12 @@ refresh-blocked-redirect-label = Rhwystrodd { -brand-short-name } y dudalen hon 
 refresh-blocked-allow =
     .label = Caniatáu
     .accesskey = C
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = Mae { -relay-brand-name } yn cuddio'ch gwir gyfeiriad e-bost er mwyn helpu i'ch diogelu chi rhag tor-data a sbam.
+firefox-relay-offer-how-we-integrate = Trwy barhau, byddwch yn gallu cynhyrchu arallenwau e-bost { -relay-brand-short-name } newydd yn uniongyrchol o'ch rheolwr cyfrineiriau { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Byddwn yn anfon pob e-bost o <strong>{ $sitename }</strong> ymlaen at <strong>{ $useremail }</strong>.

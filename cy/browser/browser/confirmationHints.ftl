@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Cyfrinair wedi'i gadw!
 confirmation-hint-pin-tab = Piniwyd!
 confirmation-hint-pin-tab-description = Rhowch glic de i'r tab i'w ddabinio.
 confirmation-hint-send-to-device = Anfonwyd!
+confirmation-hint-firefox-relay-mask-generated = Arallenw { -relay-brand-short-name } newydd wedi'i gynhyrchu!
