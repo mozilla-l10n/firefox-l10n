@@ -21,9 +21,15 @@ abuse-report-learnmore =
 abuse-report-submit-description = Descrîf il probleme (facoltatîf)
 abuse-report-textarea =
     .placeholder = Al è plui facil par nô risolvi un probleme se o vin ducj i detais. Descrîf il probleme che tu âs cjatât. Gracie di judânus a tignî in salût il web.
+abuse-report-submit-note =
+    Fâs câs: no sta includi informazions personâls (come non, direzion e-mail, numar di telefon, recapit).
+    { -vendor-short-name } al ten un regjistri permanent des segnalazions.
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Anule
+abuse-report-next-button = Sucessîf
+abuse-report-goback-button = Torne indaûr
 
 ## Message bars descriptions.
 ##
