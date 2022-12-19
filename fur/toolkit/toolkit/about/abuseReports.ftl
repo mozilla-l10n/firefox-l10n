@@ -38,6 +38,9 @@ abuse-report-submit-button = Invie
 ##   $addon-name (string) - Name of the add-on
 
 abuse-report-messagebar-aborted = Segnalazion par <span data-l10n-name="addon-name">{ $addon-name }</span> anulade.
+abuse-report-messagebar-submitting = Inviament segnalazion par <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Ti ringraciìn par vênus inviât une segnalazion. Desideristu gjavâ <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Graciis par vênus inviât une segnalazion.
 
 ## Message bars actions.
 
