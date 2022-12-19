@@ -40,11 +40,24 @@ about-logging-logging-output-selection = Output for logs
 about-logging-logging-to-profiler = Logger til { -profiler-brand-name }
 about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
+about-logging-logging-preset-selector-text = Forindstilling for logging:
 
 ## Logging presets
 
+about-logging-preset-networking-label = Netværk
+about-logging-preset-media-playback-label = Medieafspilning
+about-logging-preset-custom-label = Tilpasset
+# Error handling
+about-logging-error = Fejl:
 
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Ugyldig værdi "{ $v }" for nøglen "{ $k }"
+about-logging-unknown-logging-preset = Ukendt forindstilling for logning: "{ $v }"
+about-logging-unknown-profiler-preset = Ukendt forindstilling for profilering: "{ $v }"
+about-logging-unknown-option = Ukendt indstilling for about:logging: "{ $k }"
+about-logging-configuration-url-ignored = Konfigurations-URL blev ignoreret
+about-logging-file-and-profiler-override = Kan ikke gennemtvinge fil-output og tilsidesætte indstillinger for profilering samtidig
+about-logging-configured-via-url = Valg indstillet via URL
