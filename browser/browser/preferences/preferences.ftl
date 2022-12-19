@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Waarschuwingen over wachtwoorden voor getroffen websites tonen
     .accesskey = f
 forms-breach-alerts-learn-more-link = Meer info
+relay-integration =
+    .label = { -relay-brand-name } inschakelen in uw { -brand-short-name }-wachtwoordenbeheerder
+relay-integration-learn-more-link = Meer info
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Aanmeldingen en wachtwoorden automatisch invullen
@@ -1001,6 +1004,9 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Maak een testrit in onze krachtigste privacyfunctie ooit
     .accesskey = t
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totale cookiebescherming sluit cookies in op de website die u bezoekt, zodat trackers ze niet kunnen gebruiken om u tussen websites te volgen.
 content-blocking-etp-standard-tcp-rollout-learn-more = Meer info
