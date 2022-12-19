@@ -8,7 +8,7 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
-firefox-relay-mask-generation-failed = { -relay-brand-name } no soi bon di gjenerâ une mascare gnove. Codiç dal erôr HTTP: { $status }.
+firefox-relay-mask-generation-failed = { -relay-brand-name } nol è rivât a gjenerâ une gnove mascare. Codiç dal erôr HTTP: { $status }.
 
 ##
 
