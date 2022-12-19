@@ -2,7 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Callout dialog primary button to advance to next screen
+callout-primary-advance-button-label = Dalje
+# Callout dialog primary button to complete the feature tour
+callout-primary-complete-button-label = Razumijem!
+
 ## Firefox View feature tour strings
+
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-edit-button = Dalje
+callout-pdfjs-draw-button = Razumijem!

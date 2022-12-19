@@ -11,3 +11,8 @@ colorway-collection-independent-voices-short-description = Boje koje mijenjaju k
 
 ## Colorway names and descriptions
 
+expressionist-colorway-name = Ekspresionist
+visionary-colorway-name = Vizionar
+activist-colorway-name = Aktivist
+dreamer-colorway-name = Sanjar
+innovator-colorway-name = Inovator
