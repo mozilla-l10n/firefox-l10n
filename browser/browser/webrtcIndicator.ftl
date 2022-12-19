@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } erlauben, auf die Audi
 webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } erlauben, den Zugriff auf die Audio-Wiedergabe des Tabs mit { $thirdParty } zu teilen?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihre Kamera mit { $thirdParty } zu teilen?
 webrtc-allow-share-microphone-unsafe-delegations = { $origin } erlauben, den Zugriff auf Ihr Mikrofon mit { $thirdParty } zu teilen?
+webrtc-allow-share-microphone-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihr Mikrofon mit { $thirdParty } zu teilen?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } erlauben, den Zugriff auf Ihren Bildschirminhalt mit { $thirdParty } zu teilen?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
