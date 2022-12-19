@@ -168,6 +168,7 @@ webrtc-allow-share-screen-and-audio-capture = Allow { $origin } tae lug-in tae t
 
 webrtc-allow-share-camera-unsafe-delegation = Alloo { $origin } tae gie { $thirdParty } access tae yer camera?
 webrtc-allow-share-microphone-unsafe-delegations = Alloo { $origin } tae gie { $thirdParty } access tae yer microphone?
+webrtc-allow-share-microphone-unsafe-delegation = Alloo { $origin } tae gie { $thirdParty } access tae yer microphone?
 webrtc-allow-share-screen-unsafe-delegation = Alloo { $origin } tae gie { $thirdParty } permeesion tae see yer screen?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
