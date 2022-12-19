@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = Sireg { $origin } ad isel i umsela
 webrtc-allow-share-audio-capture-unsafe-delegation = Sireg { $origin } ad imudd tasiregt i { $thirdParty } n tmesliwt n yimesli n yiccer-a?
 webrtc-allow-share-camera-unsafe-delegation = Sireg { $origin } ad yefk i { $thirdParty } anekcum ɣer tkamiṛat-ik?
 webrtc-allow-share-microphone-unsafe-delegations = Sireg { $origin } ad yefk i { $thirdParty } anekcum ɣer usawaḍ-ik·im?
+webrtc-allow-share-microphone-unsafe-delegation = Sireg { $origin } ad yefk i { $thirdParty } anekcum ɣer usawaḍ-ik·im?
 webrtc-allow-share-screen-unsafe-delegation = Sireg i { $origin } ad yeǧǧ { $thirdParty } ad iwali agdil-inek?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
