@@ -168,6 +168,7 @@ webrtc-allow-share-screen-and-audio-capture = Kas lubad saidil { $origin } kuula
 
 webrtc-allow-share-camera-unsafe-delegation = Kas lubad saidil { $origin } anda ligipääs sinu kaamerale saidile { $thirdParty }?
 webrtc-allow-share-microphone-unsafe-delegations = Kas lubad saidil { $origin } anda ligipääs sinu mikrofonile saidile { $thirdParty }?
+webrtc-allow-share-microphone-unsafe-delegation = Kas lubad saidil { $origin } anda ligipääs sinu mikrofonile saidile { $thirdParty }?
 webrtc-allow-share-screen-unsafe-delegation = Kas lubad saidil { $origin } anda ligipääs sinu ekraani vaatamiseks saidile { $thirdParty }?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
