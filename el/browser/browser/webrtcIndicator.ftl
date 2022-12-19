@@ -164,6 +164,7 @@ webrtc-allow-share-screen-and-audio-capture = Να επιτρέπεται στο
 webrtc-allow-share-audio-capture-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } άδεια για ακρόαση του ήχου αυτής της καρτέλας;
 webrtc-allow-share-camera-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } πρόσβαση στην κάμερά σας;
 webrtc-allow-share-microphone-unsafe-delegations = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } πρόσβαση στο μικρόφωνό σας;
+webrtc-allow-share-microphone-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } πρόσβαση στο μικρόφωνό σας;
 webrtc-allow-share-screen-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } άδεια για θέαση της οθόνης σας;
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
