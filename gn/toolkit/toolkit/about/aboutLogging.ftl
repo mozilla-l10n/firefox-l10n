@@ -2,10 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## The following feature name must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
+-profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Mboheraguapy rehegua
+about-logging-page-title = Mboheraguapy ñangarekoha
 about-logging-current-log-file = Marandurenda rembiasakue rehegua:
 about-logging-current-log-modules = Jehaipy ra’ãha rehegua:
+about-logging-new-log-file = Marandurenda mboheraguapy pyahu:
 about-logging-log-tutorial = Eporandu <a data-l10n-name="logging">HTTP Logging</a> eikuaasérõ mba’éichapa eipurúta tembipuru.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Embojuruja marandurenda’aty
@@ -13,5 +32,15 @@ about-logging-set-log-file = Emopyenda marandurenda jehaipy
 about-logging-set-log-modules = Emopyenda jehaipy ra’ãha
 about-logging-start-logging = Ta’ãha moñepyrũ
 about-logging-stop-logging = Ta’ãha jejoko
+about-logging-info = Marandu:
+about-logging-log-modules-selection = Eiporavo mboheraguapy ra’ãha
+about-logging-new-log-modules = Mboheraguapy ra’ãha pyahu:
+about-logging-logging-output-selection = Mboheraguapy sẽha
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

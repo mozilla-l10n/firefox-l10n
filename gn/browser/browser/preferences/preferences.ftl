@@ -799,6 +799,7 @@ forms-breach-alerts =
     .label = Ehechauka kyhyjerã ñe’ẽñemi rehegua tenda imarãvape
     .accesskey = b
 forms-breach-alerts-learn-more-link = Kuaave
+relay-integration-learn-more-link = Kuaave
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Tembiapo ñepyrũ ha ñe’ẽñemi myanyhẽjehegui
@@ -1001,6 +1002,9 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Eipuru ore ñemigua rembiapoite imbaretevéva ko’ág̃a peve
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ñemo’ãmbaite kookie rovake oreko kookie tenda reimehápe g̃uarã, avei tapykuehoha ndojepurukuaái ohapykueho hag̃ua tendakuéra pa’ũme.
 content-blocking-etp-standard-tcp-rollout-learn-more = Kuaave
