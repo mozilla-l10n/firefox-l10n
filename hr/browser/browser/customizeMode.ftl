@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Kompaktno (nije podržano)
 customize-mode-undo-cmd =
     .label = Vrati
+customize-mode-lwthemes-link = Upravljaj temama
 customize-mode-touchbar-cmd =
     .label = Prilagodi traku dodira…
 customize-mode-downloads-button-autohide =

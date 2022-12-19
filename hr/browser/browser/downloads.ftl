@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
 downloads-cmd-pause =
     .label = Zaustavi
     .accesskey = Z
@@ -39,10 +44,20 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = Otvori u pregledniku sustava
     .accesskey = v
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Otvori u { $handler }
+    .accesskey = O
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Uvijek otvori u pregledniku sustava
+    .accesskey = U
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Uvijek otvori u { $handler }
     .accesskey = U
 
 ##
@@ -91,6 +106,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Izbriši preuzimanja
     .accesskey = e
+downloads-cmd-delete-file =
+    .label = Izbriši
+    .accesskey = I
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Dozvoli preuzimanje
