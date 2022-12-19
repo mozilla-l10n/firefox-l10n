@@ -196,6 +196,10 @@ firefoxview-cfr-header = Vrati nedavno zatvorene kartice pomoću { -firefoxview-
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-primarybutton = Pogledaj kako radi
+firefoxview-spotlight-promo-secondarybutton = Preskoči
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Odaberi kolorit
+    .accesskey = O
