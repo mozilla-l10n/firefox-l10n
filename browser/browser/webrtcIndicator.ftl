@@ -188,6 +188,7 @@ webrtc-allow-share-screen-and-audio-capture = Caniatáu i { $origin } wrando ar 
 webrtc-allow-share-audio-capture-unsafe-delegation = Caniatáu i { $origin } roi caniatâd i { $thirdParty } wrando ar sain y tab hwn?
 webrtc-allow-share-camera-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } at eich camera?
 webrtc-allow-share-microphone-unsafe-delegations = Caniatáu i { $origin } roi mynediad i { $thirdParty } i'ch meicroffon?
+webrtc-allow-share-microphone-unsafe-delegation = Caniatáu i { $origin } roi mynediad i { $thirdParty } i'ch meicroffon?
 webrtc-allow-share-screen-unsafe-delegation = Caniatáu i { $origin } roi caniatâd i { $thirdParty } weld eich sgrin?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
