@@ -815,6 +815,9 @@ forms-breach-alerts =
     .label = Dangos rhybuddion am gyfrineiriau ar gyfer gwefannau sydd wedi' cael tor-data
     .accesskey = r
 forms-breach-alerts-learn-more-link = Dysgu rhagor
+relay-integration =
+    .label = Galluogi { -relay-brand-name } yn eich rheolwr cyfrineiriau { -brand-short-name }
+relay-integration-learn-more-link = Dysgu rhagor
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Awtolanw mewngofnodion a chyfrineiriau
@@ -1017,6 +1020,9 @@ content-blocking-fingerprinters = Bysbrintwyr
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Rhowch brawf ar ein profiad preifatrwydd mwyaf pwerus erioed
     .accesskey = R
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Mae Diogelwch Cwcis Llwyr yn cyfyngu cwcis i'r wefan rydych chi arni, felly nid yw tracwyr yn gallu eu defnyddio i'ch dilyn rhwng gwefannau.
 content-blocking-etp-standard-tcp-rollout-learn-more = Dysgu rhagor
