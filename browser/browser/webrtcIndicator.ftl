@@ -171,6 +171,7 @@ webrtc-allow-share-screen-and-audio-capture = Dopustiti stranici { $origin } slu
 
 webrtc-allow-share-camera-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojoj kameri?
 webrtc-allow-share-microphone-unsafe-delegations = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojem mikrofonu?
+webrtc-allow-share-microphone-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojem mikrofonu?
 webrtc-allow-share-screen-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } dozvoli da vidi tvoj zaslon?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
