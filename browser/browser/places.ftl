@@ -123,6 +123,9 @@ places-forget-about-this-site-confirmation-title = Anghofio'r wefan hon
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Bydd y weithred hon yn dileu'r holl ddata sy'n gysylltiedig â { $hostOrBaseDomain } gan gynnwys hanes, cyfrineiriau, cwcis, storfa a dewisiadau cynnwys. Ydych chi'n siŵr eich bod chi am barhau?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Bydd y weithred hon yn dileu data sy'n gysylltiedig â { $hostOrBaseDomain } gan gynnwys hanes, cwcis, storfa a dewisiadau cynnwys. Ni fydd nodau tudalen a chyfrineiriau cysylltiedig yn cael eu dileu. Ydych chi'n siŵr eich bod am barhau?
 places-forget-about-this-site-forget = Anghofio
 places-library =
     .title = Llyfrgell
