@@ -11,6 +11,7 @@ colorway-collection-independent-voices-short-description = Boje koje mijenjaju k
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Playmaker
 expressionist-colorway-name = Ekspresionist
 visionary-colorway-name = Vizionar
 activist-colorway-name = Aktivist
