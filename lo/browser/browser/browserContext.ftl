@@ -119,6 +119,12 @@ main-context-menu-bookmark-change-with-shortcut =
     .accesskey = m
     .tooltiptext = ແກ້ໄຂບຸກມາກນີ້ ({ $shortcut })
 # This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = ໜ້າບຸກມາກ...
+    .accesskey = m
+# This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
 # so should probably have the same access key if possible.
 main-context-menu-edit-bookmark-mac =
