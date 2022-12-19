@@ -21,13 +21,13 @@ inactive-css-not-grid-item = <strong>{ $property }</strong> ne utječe na ovaj e
 inactive-css-not-grid-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije grid-kontejner.
 inactive-css-not-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks element.
 inactive-css-not-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner.
-inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije element retka ili ćelija tablice.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije „inline” niti „table-cell” element.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne utječe na ovaj element, budući da sadrži prikaz <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Vrijednost za <strong>display</strong> promijenjena je u <strong>block</strong> jer je element postavljen na <strong>float</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Zbog ograničenja <strong>:visited</strong> nije moguće nadjačati <strong>{ $property }</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije pozicionirani element.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne utječe na ovaj element, budući da <strong>overflow:hidden</strong> nije postavljeno.
-inactive-css-not-for-internal-table-elements-except-table-cells = <strong> { $property } </strong> nema utjecaja na interne elemente tablice, osim na ćelije tablice.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong> { $property } </strong> nema utjecaja na interne elemente tablice, osim na polja tablice.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
