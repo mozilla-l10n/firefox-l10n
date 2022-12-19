@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = Glemmer dette websted
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Denne handling fjerner alle data relateret til { $hostOrBaseDomain } herunder historik, adgangskoder, cookies, cachet indhold og indholdsspecifikke indstillinger. Er du sikker på, at du vil fortsætte?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Denne handling fjerner data relateret til { $hostOrBaseDomain } inklusive historik, cookies, cache og indstillinger for indhold. Relaterede bogmærker og adgangskoder vil ikke blive fjernet. Er du sikker på, at du vil fortsætte?
 places-forget-about-this-site-forget = Glem
 places-library =
     .title = Arkiv
