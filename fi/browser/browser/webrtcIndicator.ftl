@@ -168,6 +168,7 @@ webrtc-allow-share-screen-and-audio-capture = Saako { $origin } kuunnella tämä
 
 webrtc-allow-share-camera-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää kameraa?
 webrtc-allow-share-microphone-unsafe-delegations = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää mikrofonia?
+webrtc-allow-share-microphone-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää mikrofonia?
 webrtc-allow-share-screen-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden nähdä näyttösi?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
