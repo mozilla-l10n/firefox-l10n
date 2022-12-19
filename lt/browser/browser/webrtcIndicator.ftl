@@ -174,6 +174,7 @@ webrtc-allow-share-screen-and-audio-capture = Leisti „{ $origin }“ klausytis
 
 webrtc-allow-share-camera-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti jūsų kamerą?
 webrtc-allow-share-microphone-unsafe-delegations = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti jūsų mikrofoną?
+webrtc-allow-share-microphone-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ naudoti jūsų mikrofoną?
 webrtc-allow-share-screen-unsafe-delegation = Leisti „{ $origin }“ suteikti leidimą „{ $thirdParty }“ matyti jūsų ekrano vaizdą?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
