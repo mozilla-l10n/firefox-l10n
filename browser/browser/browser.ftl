@@ -963,3 +963,10 @@ refresh-blocked-redirect-label = { -brand-short-name } no le permitió a esta p�
 refresh-blocked-allow =
     .label = Permitir
     .accesskey = A
+
+## Firefox Relay integration
+
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónico de <strong>{ $sitename }</strong> a <strong>{ $useremail }</strong>.

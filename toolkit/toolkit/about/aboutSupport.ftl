@@ -117,6 +117,7 @@ place-database-stats = Estadísticas
 place-database-stats-show = Mostrar estadísticas
 place-database-stats-hide = Ocultar estadísticas
 place-database-stats-entity = Entidad
+place-database-stats-count = Recuento
 place-database-stats-size-kib = Tamaño (KB)
 place-database-stats-size-perc = Tamaño (%)
 place-database-stats-efficiency-perc = Eficiencia (%)
