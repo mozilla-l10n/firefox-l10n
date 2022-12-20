@@ -8,9 +8,12 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = A { -relay-brand-name } nem tudott új maszkot létrehozni. HTTP hibakód: { $status }.
+firefox-relay-get-reusable-masks-failed = A { -relay-brand-name } nem talált újrafelhasználható maszkokat. HTTP hibakód: { $status }.
 
 ##
 
+firefox-relay-must-login-to-fxa = A { -relay-brand-name } használatához be kell jelentkeznie a { -fxaccount-brand-name }ba.
 firefox-relay-get-unlimited-masks =
     .label = Maszkok kezelése
     .accesskey = M
