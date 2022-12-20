@@ -1,0 +1,89 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY viewCertificate.label "تصدیق نانواں ݙیکھو">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.pageTitle "سرور نہیں لبھیا">
+
+
+
+<!ENTITY generic.longDesc "
+<p> &brandShortName; بعض وجوہات دی بنا تے ایہ ورقہ لوڈ نہیں تھی سڳدا۔ </p>
+">
+
+<!ENTITY captivePortal.title "نیٹ ورک وچ لاگ ان تھیوو">
+<!ENTITY captivePortal.longDesc2 "
+<p> انٹرنیٹ تائیں رسائی حاصل کرݨ کیتے تہاکوں پہلے ایں نیٹ ورک تے لاگ ان تھیوݨا پوسے ّ۔ </p> 
+">
+
+<!ENTITY openPortalLoginPage.label2 "نیٹ ورک دا لاگ ان ورقہ کھولو">
+
+<!ENTITY malformedURI.pageTitle "غلط URL">
+
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+
+
+
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+<li> برائے مہربانی ایں مسئلے دے بارے ویب سائٹ دے مالکاں نال رابطہ کر تے انہاں کوں اطلاع کرو۔ </li>
+</ul>
+">
+
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+<li> ایں پتے کوں کھولݨ کیتے تہاکوں ٻیا سافٹ ویئر انسٹال کرݨ دی ضرورت پئے سڳدی ہے </li>
+</ul>
+">
+
+
+
+
+
+
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "تساں ایں بارے کیا کر سڳدے او؟">
+
+
+
+
+
+
+
+
+<!ENTITY securityOverride.exceptionButton1Label "خطرے کوں قبول کرو تے جاری رکھو">
+
+<!ENTITY errorReporting.automatic2 "ایں طراں دیاں غلطیاں دی اطلاع ݙیو تاں جو موزیلا کوں نقصانی سائٹاں دی سنڄاݨ تے بلاک کرݨ وِچ مدد ملے۔">
+<!ENTITY errorReporting.learnMore "ٻیا سکھو …">
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "اڳوہیاں معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
+
+
