@@ -115,6 +115,9 @@ places-forget-about-this-site-confirmation-title = Webhely elfelejtése
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ez a művelet eltávolítja a(z) { $hostOrBaseDomain } domainhez kapcsolódó összes adatot, beleértve az előzményeket, a jelszavakat, a sütiket, a gyorsítótárat és a tartalmi beállításokat. Biztos, hogy folytatja?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Ez a művelet eltávolítja a(z) { $hostOrBaseDomain } domainhez kapcsolódó összes adatot, beleértve az előzményeket, a sütiket, a gyorsítótárat és a tartalmi beállításokat. A kapcsolódó könyvjelzők és jelszavak nem lesznek eltávolítva. Biztos, hogy folytatja?
 places-forget-about-this-site-forget = Elfelejtés
 places-library =
     .title = Könyvtár

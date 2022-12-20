@@ -972,3 +972,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = A { -relay-brand-name } elfedi valódi e-mail-címét, hogy megvédje Önt az adatvédelmi incidensektől és a levélszeméttől.
+firefox-relay-offer-how-we-integrate = Ha folytatja, új { -relay-brand-short-name } e-mail-maszkokat hozhat létre közvetlenül a { -brand-shorter-name } jelszókezelőből.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Minden e-mailt továbbítunk a(z) <strong>{ $sitename }</strong> címről a(z) <strong>{ $useremail }</strong> címre.

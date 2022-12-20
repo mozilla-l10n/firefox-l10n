@@ -799,6 +799,8 @@ forms-breach-alerts =
     .label = Figyelmeztetések megjelenítése a feltört webhelyek jelszavaival kapcsolatban
     .accesskey = f
 forms-breach-alerts-learn-more-link = További tudnivalók
+relay-integration =
+    .label = A { -relay-brand-name } engedélyezése a { -brand-short-name } jelszókezelőben
 relay-integration-learn-more-link = További tudnivalók
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
