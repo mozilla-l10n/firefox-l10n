@@ -955,6 +955,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Extensiones
+    .tooltiptext =
+        Extensiones
+        Permisos necesarios
 
 ## Autorefresh blocker
 
@@ -966,6 +971,8 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } enmascara tu verdadera dirección de correo electrónico para ayudarte a proteger de las filtraciones de datos y spam.
+firefox-relay-offer-how-we-integrate = Al continuar, podrás generar nuevas mascaras de correo electrónico de { -relay-brand-short-name } directamente desde el administrador de contraseñas de { -brand-shorter-name }.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
