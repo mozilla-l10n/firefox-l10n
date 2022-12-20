@@ -28,6 +28,7 @@ protection-report-settings-link = اپݨی رازداری تے سیکورٹی د
 etp-card-title-always = بہتر ٹریکنگ پروٹیکشن: ہمیشاں  چالو
 etp-card-title-custom-not-blocking = بہتر ٹریکنگ پروٹیکشن:  بند
 etp-card-content-description = { -brand-short-name } خود بخود کمپنیاں کوں ویب تے خفیہ طور تے تہاݙی پیروی کرݨ کنوں روکیندا ہے۔
+protection-report-etp-card-content-custom-not-blocking = تمام تحفظات فی الحال بند ہیں۔ اپݨی { -brand-short-name } تحفظات دیاں ترتیباں کوں منظم کر تے منتخب کرو جو کیڑھے ٹریکرز کوں بلاک کرݨا ہے۔
 protection-report-manage-protections = ترتیباں منظم کرو
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -53,6 +54,13 @@ protection-report-passwords-save-passwords-button = پاس ورڈ محفوظ ک�
     .title = پاس ورڈ محفوظ کرو
 protection-report-passwords-manage-passwords-button = پاس ورڈز دا بندوبست کرو
     .title = پاس ورڈز دا بندوبست کرو
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 پاس ورڈ ڈیٹا خلاف ورزی وِچ پدھرا تھی سڳدا ہے۔
+       *[other] { $count } پاس ورڈز ڈیٹا دی خلاف ورزی اِچ پدھرے تھی سڳدے ہن
+    }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -93,6 +101,14 @@ info-known-breaches-found =
        *[other] معلوم ڈیٹا دیاں خلاف ورزیاں تہاݙیاں معلومات کوں بے نقاب کر ݙتا ہے
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] معلوم ڈیٹا دی خلاف ورزی کوں بطور حل ظاہر کیتا ڳیا ہے
+       *[other] معلوم ڈیٹا دیاں خلاف ورزیاں کوں بطور حل ظاہر کیتا ڳیا ہے
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -118,6 +134,13 @@ monitor-manage-breaches-link = خلاف ورزیاں منظم کرو
     .title = { -monitor-brand-short-name } تے خلاف ورزیاں منظم کرو
 monitor-breaches-resolved-title = ٻہوں چنڳاں! تساں تمام معلوم شدہ خلاف ورزیاں کوں حل کر گھدا ہے۔
 monitor-breaches-resolved-description = جے تہاݙا ای میل کہیں نویں خلاف ورزی وِچ ظاہر تھیندا ہے، تاں اساں تہاکوں اطلاع ݙیسوں۔
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreaches } وِچوں { $numBreachesResolved } ڈیٹا خلاف ورزیاں بطور حل ظاہر کیتیاں ڳیاں ہن
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } فیصد مکمل
