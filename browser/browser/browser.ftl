@@ -968,3 +968,7 @@ refresh-blocked-redirect-label = A { -brand-short-name } megakadályozta, hogy a
 refresh-blocked-allow =
     .label = Engedélyezés
     .accesskey = E
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = A { -relay-brand-name } elfedi valódi e-mail-címét, hogy megvédje Önt az adatvédelmi incidensektől és a levélszeméttől.
