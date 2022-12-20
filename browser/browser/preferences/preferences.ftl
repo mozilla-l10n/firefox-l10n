@@ -799,6 +799,7 @@ forms-breach-alerts =
     .label = Figyelmeztetések megjelenítése a feltört webhelyek jelszavaival kapcsolatban
     .accesskey = f
 forms-breach-alerts-learn-more-link = További tudnivalók
+relay-integration-learn-more-link = További tudnivalók
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Bejelentkezések és jelszavak automatikus kitöltése
@@ -1001,6 +1002,9 @@ content-blocking-fingerprinters = Ujjlenyomat-készítők
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Tesztelje az eddigi leghatékonyabb adatvédelmi funkciónkat
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = A Teljes sütivédelem ahhoz a webhelyhez köti a sütiket, amelyiken épp tartózkodik, így a követők nem használhatják azokat oldalak közti követésre.
 content-blocking-etp-standard-tcp-rollout-learn-more = További tudnivalók
