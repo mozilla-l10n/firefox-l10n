@@ -6,6 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "ورقہ لوڈ کرݨ وِچ مسئلہ">
+<!ENTITY retry.label "ولدا کوشش کرو">
 <!ENTITY returnToPreviousPage.label "واپس ون٘ڄو">
 <!ENTITY returnToPreviousPage1.label "واپس ون٘ڄو(سفارش کیتی ویندی ہے)">
 <!ENTITY advanced2.label "ودھایا۔۔۔">
