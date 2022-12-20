@@ -79,11 +79,16 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اڳوہیاں معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.copyToClipboard.label "متن کوں کلپ بورڈ تے نقل کرو">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY blockedByPolicy.title "بلاک تھیا ورقہ">
+
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "جے تساں کارپوریٹ نیٹ ورک تے او، تاں تساں اپݨے آئی ٹی ڈیپارٹمنٹ نال رابطہ کر سڳدے او۔">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "جے تساں <span class='mitm-name'/> دے سونہیں کائنوے، تاں ایہ حملہ تھی سڳدا ہے تے تہاکوں سائٹ تے جاری نہیں رہݨا چاہیدا۔">
 
 
-
+<!ENTITY prefReset.label "طے شدہ ترتیباں بحال کرو">
 
