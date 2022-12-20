@@ -237,6 +237,8 @@ quickactions-addons = ເບິ່ງ Add-ons
 quickactions-cmd-addons2 = ສ່ວນເສີມ
 # Opens the bookmarks library window
 quickactions-bookmarks = ເບິ່ງບຸກມາກ
+# Opens the bookmarks library window
+quickactions-bookmarks2 = ຈັດການບຸກມາກ
 quickactions-cmd-bookmarks = ບຸກມາກ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ລຶບລ້າງປະຫວັດ
@@ -718,6 +720,9 @@ popups-infobar-allow =
 popups-infobar-dont-show-message =
     .label = ບໍສະແດງຂໍ້ຄວາມນີ້ເມື່ອປັອບອັບບໍໄດ້ຮັບການບັອກ
     .accesskey = D
+edit-popup-settings =
+    .label = ຈັດການການຕັ້ງຄ່າປັອບອັບ...
+    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = ເຊື່ອງການສະຫຼັບຮູບໃນຮູບ
     .accesskey = H

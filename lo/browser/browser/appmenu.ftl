@@ -79,6 +79,11 @@ appmenu-remote-tabs-unverified = ບັນຊີຂອງທ່ານຕ້ອ�
 appmenuitem-fxa-toolbar-sync-now2 = Sync ຕອນນີ້
 appmenuitem-fxa-manage-account = ຈັດການບັນຊີ
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = ຊິງຄ໌ຄັ້ງສຸດທ້າຍ { $time }
+    .label = ຊິງຄ໌ຄັ້ງສຸດທ້າຍ { $time }
 appmenu-fxa-sync-and-save-data2 = ຊິງຄ໌ແລະບັນທຶກຂໍ້ມູນ
 appmenu-fxa-signed-in-label = ເຂົ້າ​ສູ່​ລະ​ບົບ
 appmenu-fxa-setup-sync =

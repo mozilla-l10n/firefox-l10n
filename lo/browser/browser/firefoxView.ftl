@@ -41,6 +41,7 @@ firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກ�
 firefoxview-tabpickup-sync-disconnected-header = ເປີດການຊິງຄ໌ເພື່ອດຳເນີນການຕໍ່
 firefoxview-tabpickup-password-locked-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 firefoxview-tabpickup-password-locked-primarybutton = ໃສ່ລະຫັດຜ່ານຫຼັກ
+firefoxview-tabpickup-signed-out-header = ເຂົ້າສູ່ລະບົບເພື່ອເຊື່ອມຕໍ່ຄືນໃຫມ່
 firefoxview-tabpickup-signed-out-primarybutton = ເຂົ້າສູ່ລະບົບ
 firefoxview-tabpickup-syncing = ນັ່ງຖ້າແປັບໜຶ່ງໃນຂະນະທີ່ແຖບຂອງທ່ານ sync. ມັນໃຊ້ເວລາແປັບດຽວ​.
 firefoxview-mobile-promo-header = ຈັບແຖບຈາກໂທລະສັບ ຫຼືແທັບເລັດຂອງທ່ານ
