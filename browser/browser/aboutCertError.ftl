@@ -6,7 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname }는 유효하지 않은 보안 인증서를 사용합니다.
 cert-error-mitm-intro = 웹 사이트는 인증 기관에 의해 발급된 인증서를 통해 신원을 증명합니다.
-cert-error-mitm-mozilla = { -brand-short-name }는 완전히 개방 된 CA(Certificate Authority) 저장소를 관리하는 비영리 재단 Mozilla의 지원을받습니다. CA 저장소는 인증 기관이 사용자 보안을 위한 모범 사례를 따르도록 합니다.
+cert-error-mitm-mozilla = { -brand-short-name }는 완전히 개방된 CA(Certificate Authority) 저장소를 관리하는 비영리 재단 Mozilla의 지원을 받습니다. CA 저장소는 인증 기관이 사용자 보안을 위한 모범 사례를 따르도록 합니다.
 cert-error-mitm-connection = { -brand-short-name }는 사용자의 운영 체제가 제공하는 인증서가 아닌 Mozilla CA 저장소를 사용하여 연결이 안전한지 확인합니다. 따라서 바이러스 백신 프로그램이나 네트워크가 Mozilla CA 저장소에 없는 CA에서 발급한 보안 인증서로 연결을 가로채는 경우 연결이 안전하지 않은 것으로 간주됩니다.
 cert-error-trust-unknown-issuer-intro = 누군가 사이트를 위장할 수 있기 때문에 더 이상 진행하면 안됩니다.
 # Variables:
