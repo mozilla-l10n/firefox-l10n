@@ -965,3 +965,7 @@ refresh-blocked-redirect-label = Το { -brand-short-name } εμπόδισε τ�
 refresh-blocked-allow =
     .label = Αποδοχή
     .accesskey = Α
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = Το { -relay-brand-name } κρύβει την πραγματική σας διεύθυνση email για να σας προστατεύσει από παραβιάσεις δεδομένων και ανεπιθύμητα μηνύματα.
