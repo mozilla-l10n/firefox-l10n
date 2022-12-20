@@ -16,6 +16,9 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Re le registrationes
 about-logging-page-title = Gestor de registrationes
@@ -29,6 +32,8 @@ about-logging-set-log-modules = Definir le modulos de registro
 about-logging-start-logging = Initiar le registration
 about-logging-stop-logging = Stoppar le registration
 about-logging-info = Info:
+about-logging-no-log-modules = Nemo
+about-logging-no-log-file = Nemo
 
 ## Logging presets
 
