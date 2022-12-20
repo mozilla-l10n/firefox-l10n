@@ -5,6 +5,9 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY returnToPreviousPage.label "واپس ون٘ڄو">
+<!ENTITY returnToPreviousPage1.label "واپس ون٘ڄو(سفارش کیتی ویندی ہے)">
+<!ENTITY advanced2.label "ودھایا۔۔۔">
 <!ENTITY viewCertificate.label "تصدیق نانواں ݙیکھو">
 
 <!-- Specific error messages -->
@@ -79,6 +82,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اڳوہیاں معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "چتاوݨی: اڳوں ممکنہ سیکیورٹی دا بھئو تھی سڳدا ہے۔">
+<!ENTITY certerror.sts.pagetitle  "رابطہ قائم نئیں تھیا: امکانی حفاظتی مسئلہ">
 <!ENTITY certerror.copyToClipboard.label "متن کوں کلپ بورڈ تے نقل کرو">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
