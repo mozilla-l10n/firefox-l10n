@@ -16,8 +16,12 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Günlük kaydı hakkında
+about-logging-page-title = Log kaydı yöneticisi
 about-logging-current-log-file = Geçerli log dosyası:
 about-logging-current-log-modules = Geçerli log modülleri:
 about-logging-new-log-file = Yeni log dosyası:
