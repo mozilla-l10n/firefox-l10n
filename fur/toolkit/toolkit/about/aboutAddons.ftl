@@ -3,18 +3,44 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Gjestôr dai components adizionâi
+search-header =
+    .placeholder = Cîr in addons.mozilla.org
+    .searchbuttonlabel = Cîr
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Oten estensions e temis su <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Oten i dizionaris su <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Oten i pachets pe lenghe su <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-installed =
+    .value = Nol risulte instalât nissun component adizionâl di chest gjenar
 list-empty-available-updates =
     .value = Nissun inzornament cjatât
 list-empty-recent-updates =
-    .value = No tu âs inzornât lis tôs zontis tai ultins timps
+    .value = No tu âs inzornât i tiei components adizionâi tai ultins timps
 list-empty-find-updates =
     .label = Cîr inzornaments
+list-empty-button =
+    .label = Scuvierç di plui sui components adizionâi
+help-button = Supuart components adizionâi
+sidebar-help-button-title =
+    .title = Supuart components adizionâi
+addons-settings-button = Impostazions di { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Impostazions di { -brand-short-name }
+show-unsigned-extensions-button =
+    .label = Nol è stât pussibil verificâ cualchidune des estensions
+show-all-extensions-button =
+    .label = Mostre dutis lis estensions
 detail-version =
     .label = Version
 detail-last-updated =
     .label = Ultin inzornament
+addon-detail-description-expand = Mostre di plui
+addon-detail-description-collapse = Mostre di mancul
+detail-contributions-description = Il svilupadôr di chest component adizionâl ti domande une piçule donazion par contribuî al so manteniment e disvilup.
+detail-contributions-button = Fâs une donazion
+    .title = Contribuìs al disvilup di chest component adizionâl
+    .accesskey = D
 detail-update-type =
     .value = Inzornaments automatics
 detail-home =
@@ -48,8 +74,8 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Dutis lis zontis a son stadis disativadis pal Mût sigûr.
-extensions-warning-check-compatibility = Il control di compatibilitât des zontis al è disativât. Tu podaressis vê zontis incompatibilis.
+extensions-warning-safe-mode = Ducj i components adizionâi a son stâts disativâts pal Mût sigûr.
+extensions-warning-check-compatibility = Il control di compatibilitât dai components adizionâi al è disativât. Tu podaressis vê components adizionâi incompatibii.
 extensions-warning-update-security = Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
 
 ## Strings connected to add-on updates
@@ -62,7 +88,7 @@ addon-updates-view-updates = Viôt i ultins inzornaments
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
-addon-updates-update-addons-automatically = Inzorne in automatic lis zontis
+addon-updates-update-addons-automatically = Inzorne in automatic i components adizionâi
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -74,15 +100,15 @@ addon-updates-update-addons-automatically = Inzorne in automatic lis zontis
 
 ## Status messages displayed when updating add-ons
 
-addon-updates-updating = Daûr a inzornâ lis zontis
-addon-updates-installed = Lis tôs zontis a son stadis inzornadis.
+addon-updates-updating = Daûr a inzornâ i components adizionâi
+addon-updates-installed = I tiei components adizionâi a son stâts inzornâts.
 addon-updates-none-found = Nissun inzornament cjatât
 addon-updates-manual-updates-found = Viôt i inzornaments disponibii
 
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file-dialog-title = Sielç une zonte di instalâ
-addon-install-from-file-filter-name = Zontis
+addon-install-from-file-filter-name = Components adizionâi
 
 ## Extension shortcut management
 
