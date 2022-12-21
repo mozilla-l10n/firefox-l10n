@@ -22,3 +22,4 @@ activist-colorway-description = ເຈົ້າ​ປ່ອຍ​ໃຫ້​ໂ
 dreamer-colorway-name = ຄົນຊ່າງຝັນ
 dreamer-colorway-description = ທ່ານ​ເຊື່ອ​ວ່າ​ໂຊກ​ລາບ​ເຮັດ​ໃຫ້​ຄວາມ​ກ້າ​ຫານ​ແລະ​ດົນ​ໃຈ​ຄົນ​ອື່ນ​ໃຫ້​ມີ​ຄວາມ​ກ້າ​ຫານ​.
 innovator-colorway-name = ຜູ້ປະດິດສ້າງ
+innovator-colorway-description = ເຈົ້າເຫັນໂອກາດຢູ່ທົ່ວທຸກແຫ່ງ ແລະສ້າງຜົນກະທົບຕໍ່ຊີວິດຂອງທຸກຄົນທີ່ຢູ່ອ້ອມຕົວເຈົ້າ.
