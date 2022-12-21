@@ -62,6 +62,8 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = ເຂົ້າສູ່ລະບົບເພື່ອຊິງຄ໌...
 appmenu-remote-tabs-turn-on-sync =
     .label = ເປີດ Sync…
 # This is shown beneath the name of a device when that device has no open tabs
