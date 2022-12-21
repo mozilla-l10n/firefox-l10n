@@ -29,11 +29,13 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> دا ا
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> دا اندرونی ٹیبل عناصر تے کوئی اثر نہیں تھیندا۔
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> دا ٹیبل سیلز دے علاوہ اندرونی ٹیبل عناصر تے کوئی اثر نہیں تھیندا ہے۔
 inactive-css-not-table = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ ٹیبل کائنی۔
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر نہیں تھیندا ہے کیوں جو ایہ سکرول نہیں تھیندا ہے۔
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> یا <strong>display:flex</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
