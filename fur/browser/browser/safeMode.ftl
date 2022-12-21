@@ -12,4 +12,4 @@ refresh-profile =
 troubleshoot-mode-description = Dopre cheste modalitât speciâl di { -brand-short-name } par diagnosticâ i problemis. Lis tôs estensions e personalizazions a vignaran disativadis in maniere temporanie.
 skip-troubleshoot-refresh-profile = Tu puedis ancje saltâ la risoluzion dai problemis e provâ invezit a ripristinâ { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.
-auto-safe-mode-description = { -brand-short-name } si è sierât in maniere inspietade intant che al partive. Chest al podarès jessi stât causât di cualchi zonte o altris problemis. Tu puedis ancje cirî di risolvi il probleme doprant la modalitât sigure.
+auto-safe-mode-description = { -brand-short-name } si è sierât in maniere inspietade intant che al partive. La cause e podarès sei cualchi component adizionâl o altris problemis. Tu puedis ancje cirî di risolvi il probleme doprant la modalitât sigure.

@@ -93,7 +93,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Par ativâ la estension va su <img data-l10n-name="addons-icon"/>Zontis tal <img data-l10n-name="menu-icon"/>menù.
+extension-controlled-enable = Par ativâ la estension va su <img data-l10n-name="addons-icon"/>Components adizionâi tal <img data-l10n-name="menu-icon"/>menù.
 
 ## Preferences UI Search Results
 
@@ -642,7 +642,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Puartiti daûr il to Web
-sync-signedout-description2 = Sincronize segnelibris, cronologjie, schedis, passwords, zontis e impostazions tra ducj i tiei dispositîfs.
+sync-signedout-description2 = Sincronize segnelibris, cronologjie, schedis, passwords, components adizionâi e impostazions tra ducj i tiei dispositîfs.
 sync-signedout-account-signin3 =
     .label = Jentre par sincronizâ…
     .accesskey = J
@@ -684,7 +684,7 @@ prefs-syncing-off = Sincronizazion: DISATIVADE
 prefs-sync-turn-on-syncing =
     .label = Ative la sincronizazion…
     .accesskey = s
-prefs-sync-offer-setup-label2 = Sincronize segnelibris, cronologjie, schedis, passwords, zontis e impostazions tra ducj i tiei dispositîfs.
+prefs-sync-offer-setup-label2 = Sincronize segnelibris, cronologjie, schedis, passwords, components adizionâi e impostazions tra ducj i tiei dispositîfs.
 prefs-sync-now =
     .labelnotsyncing = Sincronize cumò
     .accesskeynotsyncing = u
@@ -699,7 +699,7 @@ sync-currently-syncing-tabs = Schedis viertis
 sync-currently-syncing-logins-passwords = Credenziâls e passwords
 sync-currently-syncing-addresses = Direzions
 sync-currently-syncing-creditcards = Cjartis di credit
-sync-currently-syncing-addons = Zontis
+sync-currently-syncing-addons = Components adizionâi
 sync-currently-syncing-settings = Impostazions
 sync-change-options =
     .label = Cambie…
@@ -744,9 +744,9 @@ sync-engine-creditcards =
     .tooltiptext = Nons, numars e datis di scjadince (dome par scritori)
     .accesskey = C
 sync-engine-addons =
-    .label = Zontis
+    .label = Components adizionâi
     .tooltiptext = Estensions e temis par Firefox desktop
-    .accesskey = Z
+    .accesskey = C
 sync-engine-settings =
     .label = Impostazions
     .tooltiptext = Lis impostazions gjenerâls, di riservatece e sigurece che tu âs cambiât
@@ -987,6 +987,9 @@ content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Prove in anteprime la miôr funzionalitât pal massim de riservatece
     .accesskey = P
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Protezion totâl dai cookies al conten i cookies al sît che tu stâs navigant, cussì che i spions no puedin doprâju par stâti daûr tra i sîts.
 content-blocking-etp-standard-tcp-rollout-learn-more = Plui informazions
@@ -1070,7 +1073,7 @@ permissions-block-popups-exceptions-button =
     .accesskey = E
     .searchkeywords = comparse
 permissions-addon-install-warning =
-    .label = Vise cuant che i sîts web a cirin di instalâ zontis
+    .label = Vise cuant che i sîts web a cirin di instalâ components adizionâi
     .accesskey = V
 permissions-addon-exceptions =
     .label = Ecezions…
