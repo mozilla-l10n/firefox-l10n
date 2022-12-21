@@ -965,3 +965,7 @@ refresh-blocked-redirect-label = { -brand-short-name } ha impedite a iste pagina
 refresh-blocked-allow =
     .label = Permitter
     .accesskey = P
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } masca tu ver adresse email pro adjutar te a proteger te de violationes de datos e spam.
