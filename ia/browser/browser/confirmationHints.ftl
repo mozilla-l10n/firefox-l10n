@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Contrasigno salvate!
 confirmation-hint-pin-tab = Appunctate!
 confirmation-hint-pin-tab-description = Clicca dextre le scheda pro lo disappunctar.
 confirmation-hint-send-to-device = Inviate!
+confirmation-hint-firefox-relay-mask-generated = Nove masca de { -relay-brand-short-name } generate!
