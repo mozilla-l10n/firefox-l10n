@@ -803,6 +803,7 @@ forms-breach-alerts =
     .label = Zobrazovať upozornenia na stránky, na ktorých prišlo k úniku dát
     .accesskey = b
 forms-breach-alerts-learn-more-link = Ďalšie informácie
+relay-integration-learn-more-link = Ďalšie informácie
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automaticky dopĺňať prihlasovacie údaje a heslá
@@ -1005,6 +1006,9 @@ content-blocking-fingerprinters = Blokovaná je tvorba odtlačku prehliadača
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Otestujte našu najvýkonnejšiu funkciu ochrany súkromia
     .accesskey = t
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana súborov cookie izoluje súbory cookie pre konkrétnu webovú stránku, takže sledovači ich nemôžu použiť na to, aby vás sledovali medzi webmi.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ďalšie informácie
