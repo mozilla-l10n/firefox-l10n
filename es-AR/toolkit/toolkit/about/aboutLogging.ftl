@@ -21,6 +21,7 @@
 
 # This is the title of the page
 about-logging-title = Acerca del registro
+about-logging-page-title = Administrador de registro
 about-logging-current-log-file = Archivo de registro actual:
 about-logging-current-log-modules = Módulos de registro actuales:
 about-logging-new-log-file = Nuevo archivo de registro:
@@ -32,17 +33,32 @@ about-logging-set-log-file = Establecer archivo de registro
 about-logging-set-log-modules = Establecer módulos de registro
 about-logging-start-logging = Iniciar registro
 about-logging-stop-logging = Detener registro
+about-logging-buttons-disabled = Registro configurado a través de variables de entorno, configuración dinámica no disponible.
+about-logging-some-elements-disabled = Registro configurado a través de URL, algunas opciones de configuración no están disponibles
 about-logging-info = Información:
 about-logging-log-modules-selection = Selección de módulos de registro
 about-logging-new-log-modules = Nuevos módulos de registro:
 about-logging-logging-output-selection = Salida de registro
 about-logging-logging-to-file = Registro en un archivo
+about-logging-no-log-modules = Ninguno
+about-logging-no-log-file = Ninguno
 
 ## Logging presets
 
 about-logging-preset-networking-label = Red
+about-logging-preset-networking-description = Módulos de registro para diagnosticar problemas de red
+about-logging-preset-media-playback-label = Reproducción multimedia
+about-logging-preset-media-playback-description = Módulos de registro para diagnosticar problemas de reproducción de medios (no problemas de videoconferencia)
+about-logging-preset-custom-label = Personalizado
+about-logging-preset-custom-description = Módulos de registro seleccionados manualmente
+# Error handling
+about-logging-error = Error:
 
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Valor inválido “{ $v }“ para la clave “{ $k }“
+about-logging-unknown-option = Opción about:logging desconocida “{ $k }“
+about-logging-configuration-url-ignored = URL de configuración ignorada
+about-logging-configured-via-url = Opción configurada a través de URL
