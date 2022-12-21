@@ -972,3 +972,12 @@ refresh-blocked-redirect-label = { -brand-short-name } neumožnil tejto stránke
 refresh-blocked-allow =
     .label = Povoliť
     .accesskey = v
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = Služba { -relay-brand-name } maskuje vašu skutočnú e-mailovú adresu, aby vás chránila pred narušením ochrany údajov a nevyžiadanou poštou.
+firefox-relay-offer-how-we-integrate = Ak budete pokračovať, môžete generovať nové e-mailové masky { -relay-brand-short-name } priamo zo Správcu hesiel svojho { -brand-shorter-name(case: "gen") }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Všetky e-maily od používateľa <strong>{ $sitename }</strong> prepošleme na adresu <strong>{ $useremail }</strong>.
