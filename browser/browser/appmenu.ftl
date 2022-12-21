@@ -126,6 +126,7 @@ profiler-popup-reveal-description-button =
     .aria-label = បង្ហាញព័ត៌មានបន្ថែម
 profiler-popup-description-title =
     .value = កាត់ត្រា វិភាគ ចែករំលែក
+profiler-popup-description = សហការ​ទាក់ទង​នឹង​បញ្ហា​ប្រតិបត្តិការ​ដោយ​ផ្សព្វផ្សាយ​កម្រងព័ត៌មាន​ដើម្បីចែករំលែក​ជាមួយ​ក្រុម​របស់អ្នក។
 profiler-popup-learn-more-button =
     .label = ស្វែងយល់បន្ថែម
 profiler-popup-settings =
