@@ -248,9 +248,58 @@ discopane-intro =
     dispès svilupâts di tiercis parts. Chi e je une selezion <a data-l10n-name="learn-more-trigger">conseade</a>
     di { -brand-product-name } pe sigurece, prestazions e funzionalitâts al massim
     nivel.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Cualchidun di chescj conseis al è personalizât. A son basâts su lis altris
+    estensions instaladis, preferencis dal profîl e statistichis di utilizazion.
+discopane-notice-learn-more = Plui informazions
+privacy-policy = Politiche pe riservatece
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = di <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Utents: { $dailyUsers }
+install-extension-button = Zonte a { -brand-product-name }
+install-theme-button = Instale teme
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Gjestìs
+find-more-addons = Cjate plui components adizionâi
+find-more-themes = Cjate plui temis
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Plui opzions
 
 ## Add-on actions
 
+report-addon-button = Segnale
+remove-addon-button = Gjave
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Impussibil gjavâ, <a data-l10n-name="link">Parcè?</a>
+disable-addon-button = Disative
+enable-addon-button = Ative
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Ative
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opzions
+       *[other] Preferencis
+    }
+details-addon-button = Detais
+release-notes-addon-button = Notis di publicazion
+permissions-addon-button = Permès
+extension-enabled-heading = Ativadis
+extension-disabled-heading = Disativadis
+theme-enabled-heading = Ativâts
+theme-disabled-heading = Disativâts
+theme-disabled-heading2 = Temis salvâts
+theme-monochromatic-heading = Tonalitâts
 
 ## Pending uninstall message bar
 
