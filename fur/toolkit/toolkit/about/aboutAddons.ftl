@@ -113,9 +113,21 @@ legacy-warning-show-legacy = Mostre estensions sorpassadis
 legacy-extensions =
     .value = Estensions sorpassadis
 legacy-extensions-description = Chestis estensions no sodisfin i standards di { -brand-short-name } e duncje a son stadis disativadis. <label data-l10n-name="legacy-learn-more">Altris informazions su lis modifichis ai components adizionâi</label>
+private-browsing-description2 =
+    { -brand-short-name } al sta cambiant la maniere di funzionament des estension te navigazion privade. Cualsisei gnove estension zontade a 
+    { -brand-short-name } no funzionarà in maniere predefinide tai barcons privâts. A mancul che no tu
+    lu permetis tes impostazions, la estension no funzionarà in navigazion privade ni lì e varà acès aes tôs
+    ativitâts in rêt. O vin fat cheste modifiche par tignîti plui riservât te navigazion privade.
+    <label data-l10n-name="private-browsing-learn-more">Scuvierç cemût gjestî lis impostazions des estensions</label>
+addon-category-discover = Conseis
+addon-category-discover-title =
+    .title = Conseis
 addon-category-extension = Estensions
 addon-category-extension-title =
     .title = Estensions
+addon-category-theme = Temis
+addon-category-theme-title =
+    .title = Temis
 addon-category-plugin = Plugins
 addon-category-plugin-title =
     .title = Plugins
@@ -131,12 +143,23 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Ultins inzornaments
 addon-category-recent-updates-title =
     .title = Ultins inzornaments
+addon-category-sitepermission = Permès sîts
+addon-category-sitepermission-title =
+    .title = Permès sîts
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Permès sîts par { $host }
 
 ## These are global warnings
 
 extensions-warning-safe-mode = Ducj i components adizionâi a son stâts disativâts pal Mût sigûr.
 extensions-warning-check-compatibility = Il control di compatibilitât dai components adizionâi al è disativât. Tu podaressis vê components adizionâi incompatibii.
+extensions-warning-check-compatibility-button = Ative
+    .title = Ative il control di compatibilitât dal component adizionâl
 extensions-warning-update-security = Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
+extensions-warning-update-security-button = Ative
+    .title = Ative il control di sigurece dal inzornament dal component adizionâl
 
 ## Strings connected to add-on updates
 
@@ -157,6 +180,10 @@ addon-updates-update-addons-automatically = Inzorne in automatic i components ad
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+addon-updates-reset-updates-to-automatic = Ripristine l'inzornament automatic par ducj i components adizionâi
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Ripristine l'inzornament manuâl par ducj i components adizionâi
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -167,11 +194,20 @@ addon-updates-manual-updates-found = Viôt i inzornaments disponibii
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instale component adizionâl di file…
+    .accesskey = I
 addon-install-from-file-dialog-title = Sielç une zonte di instalâ
 addon-install-from-file-filter-name = Components adizionâi
+addon-open-about-debugging = Debug components adizionâi
+    .accesskey = b
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gjestìs scurtis des estensions
+    .accesskey = s
+shortcuts-no-addons = No tu âs abilitade nissune estension.
+shortcuts-no-commands = Chestis estensions no àn scurtis:
 
 ## Recommended add-ons page
 
