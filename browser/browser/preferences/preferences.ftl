@@ -799,6 +799,7 @@ forms-breach-alerts =
     .label = Afichar las alèrtas pels senhals dels sites concernits per de pèrdas de donadas
     .accesskey = A
 forms-breach-alerts-learn-more-link = Ne saber mai
+relay-integration-learn-more-link = Ne saber mai
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Emplenar automaticament los identificants e senhals
@@ -1001,6 +1002,9 @@ content-blocking-fingerprinters = Generadors d’emprentas numericas
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Ensajatz abans lo monde la melhora foncionalitat de confidencialitat jamai concebuda
     .accesskey = E
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La proteccion totala contra los cookies los reten al site ont vos trobatz, doncas los traçadors los pòdon pas utilizar per vos pistar de site en site.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ne saber mai
