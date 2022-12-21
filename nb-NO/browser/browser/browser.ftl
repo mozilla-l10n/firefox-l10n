@@ -298,18 +298,26 @@ quickactions-extensions = Behandle utvidelser
 quickactions-cmd-extensions = utvidelser
 # Opens the devtools web inspector
 quickactions-inspector = Åpne inspeksjon
+# Opens the devtools web inspector
+quickactions-inspector2 = Åpne utviklerverktøy
 quickactions-cmd-inspector = inspektør, utviklerverktøy
 # Opens about:logins
 quickactions-logins = Vis innlogginger
+# Opens about:logins
+quickactions-logins2 = Behandle passord
 quickactions-cmd-logins = innlogginger, passord
 # Opens about:addons page in the plugins section
 quickactions-plugins = Behandle programtillegg
 quickactions-cmd-plugins = programtillegg
 # Opens the print dialog
 quickactions-print = Skriv ut
+# Opens the print dialog
+quickactions-print2 = Skriv ut side
 quickactions-cmd-print = utskrift, skriv ut
 # Opens a new private browsing window
 quickactions-private = Åpne privat nettlesingsvindu
+# Opens a new private browsing window
+quickactions-private2 = Åpne privat vindu
 quickactions-cmd-private = privat nettlesing
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Tilbakestill { -brand-short-name }
@@ -319,9 +327,13 @@ quickactions-restart = Start { -brand-short-name } på nytt
 quickactions-cmd-restart = omstart, start på nytt
 # Opens the screenshot tool
 quickactions-screenshot2 = Ta et skjermbilde
+# Opens the screenshot tool
+quickactions-screenshot3 = Ta et skjermbilde
 quickactions-cmd-screenshot = skjermbilde, skjermdump
 # Opens about:preferences
 quickactions-settings = Åpne innstillinger
+# Opens about:preferences
+quickactions-settings2 = Behandle innstillinger
 quickactions-cmd-settings = valg, innstillinger, alternativer
 # Opens about:addons page in the themes section
 quickactions-themes = Behandle temaer
@@ -331,6 +343,8 @@ quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Vis kildekode
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Vis kildekode
 quickactions-cmd-viewsource = se kilde, kilde
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -951,3 +965,6 @@ refresh-blocked-redirect-label = { -brand-short-name } forhindret denne nettside
 refresh-blocked-allow =
     .label = Tillat
     .accesskey = T
+
+## Firefox Relay integration
+
