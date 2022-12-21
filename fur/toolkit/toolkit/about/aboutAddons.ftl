@@ -43,12 +43,58 @@ detail-contributions-button = Fâs une donazion
     .accesskey = D
 detail-update-type =
     .value = Inzornaments automatics
+detail-update-default =
+    .label = Predefinît
+    .tooltiptext = Instale in automatic i inzornaments dome se al è il predefinît
+detail-update-automatic =
+    .label = Atîf
+    .tooltiptext = Instale in automatic i inzornaments
+detail-update-manual =
+    .label = Disativât
+    .tooltiptext = No sta instalâ in automatic i inzornaments
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Esecuzion in barcon privât
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = No permetût tai barcons privâts
+detail-private-disallowed-description2 = Cheste estension no funzione in navigazion privade. <a data-l10n-name="learn-more">Plui informazions</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Al domande l'acès ai barcons privâts
+detail-private-required-description2 = Cheste estension e pues acedi aes tôs ativitâts in rêt in modalitât navigazion privade. <a data-l10n-name="learn-more">Plui informazions</a>
+detail-private-browsing-on =
+    .label = Permet
+    .tooltiptext = Abilite in modalitât navigazion privade
+detail-private-browsing-off =
+    .label = No sta permeti
+    .tooltiptext = Disabilite in modalitât navigazion privade
 detail-home =
-    .label = Pagjine web
+    .label = Sît web
 detail-home-value =
     .value = { detail-home.label }
+detail-repository =
+    .label = Profîl dal component adizionâl
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Controle inzornaments
+    .accesskey = I
+    .tooltiptext = Controle la presince di inzornaments par chest component adizionâl
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opzions
+           *[other] Preferencis
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Cambie lis opzions di chest component adizionâl
+           *[other] Cambie lis preferencis di chest component adizionâl
+        }
 detail-rating =
     .value = Judizi
 addon-restart-now =
