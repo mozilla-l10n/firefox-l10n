@@ -783,6 +783,9 @@ forms-breach-alerts =
     .label = Hiển thị cảnh báo về mật khẩu cho các trang web bị rò rỉ
     .accesskey = b
 forms-breach-alerts-learn-more-link = Tìm hiểu thêm
+relay-integration =
+    .label = Bật { -relay-brand-name } trong trình quản lý mật khẩu { -brand-short-name } của bạn
+relay-integration-learn-more-link = Tìm hiểu thêm
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Tự động điền đăng nhập và mật khẩu
@@ -985,6 +988,9 @@ content-blocking-fingerprinters = Dấu vết (Fingerprintng)
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Thử tính năng bảo mật mạnh mẽ nhất của chúng tôi từ trước đến nay
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Trình chống cookie chung chứa các cookie cho trang web bạn đang truy cập, vì vậy, trình theo dõi không thể sử dụng chúng để theo dõi bạn giữa các trang web.
 content-blocking-etp-standard-tcp-rollout-learn-more = Tìm hiểu thêm

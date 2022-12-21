@@ -961,3 +961,12 @@ refresh-blocked-redirect-label = { -brand-short-name } đã ngăn trang web này
 refresh-blocked-allow =
     .label = Cho phép
     .accesskey = A
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } che dấu địa chỉ email thật của bạn để giúp bảo vệ bạn khỏi rò rỉ dữ liệu và thư rác.
+firefox-relay-offer-how-we-integrate = Bằng cách tiếp tục, bạn sẽ có thể tạo mặt nạ email { -relay-brand-short-name } mới trực tiếp từ trình quản lý mật khẩu { -brand-shorter-name } của mình.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Chúng tôi sẽ chuyển tiếp tất cả email từ <strong>{ $sitename }</strong> đến <strong>{ $useremail }</strong>.
