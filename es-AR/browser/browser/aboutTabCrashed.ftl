@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashed-title = Reporte de cierre de pestaña
+crashed-title = Informe de cierre de pestaña
 crashed-close-tab-button = Cerrar pestaña
 crashed-restore-tab-button = Restaurar esta pestaña
 crashed-restore-all-button = Restaurar todas las pestañas colgadas
