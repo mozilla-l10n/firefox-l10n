@@ -300,9 +300,56 @@ theme-enabled-heading = Ativâts
 theme-disabled-heading = Disativâts
 theme-disabled-heading2 = Temis salvâts
 theme-monochromatic-heading = Tonalitâts
+theme-monochromatic-subheading = Gnûfs colôrs vîfs di { -brand-product-name }. Disponibil par un timp limitât.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
+theme-colorways-button = Prove lis tonalitâts
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Cambie tonalitât
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = E scjât ai { DATETIME($expiryDate, month: "long", day: "numeric") }
+plugin-enabled-heading = Ativâts
+plugin-disabled-heading = Disativâts
+dictionary-enabled-heading = Ativâts
+dictionary-disabled-heading = Disativâts
+locale-enabled-heading = Ativadis
+locale-disabled-heading = Disativadis
+sitepermission-enabled-heading = Ativâts
+sitepermission-disabled-heading = Disativâts
+always-activate-button = Ative simpri
+never-activate-button = No sta ativâ mai
+addon-detail-author-label = Autôr
+addon-detail-version-label = Version
+addon-detail-last-updated-label = Ultin inzornament
+addon-detail-homepage-label = Pagjine web
+addon-detail-rating-label = Valutazion
+# Message for add-ons with a staged pending update.
+install-postponed-message = Cheste estension e vignarà inzornade cuant che si tornarà a inviâ { -brand-short-name }.
+install-postponed-button = Inzorne cumò
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Valutât { NUMBER($rating, maximumFractionDigits: 1) } su 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (disativât)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } recension
+       *[other] { $numberOfReviews } recensions
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> al è stât gjavât.
+pending-uninstall-undo-button = Anule
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
