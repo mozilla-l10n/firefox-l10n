@@ -96,9 +96,23 @@ detail-show-preferences =
            *[other] Cambie lis preferencis di chest component adizionâl
         }
 detail-rating =
-    .value = Judizi
+    .value = Valutazion
 addon-restart-now =
-    .label = Torne a inviâ cumò
+    .label = Torne invie cumò
+disabled-unsigned-heading =
+    .value = Cualchi component adizionâl al è stât disativât
+disabled-unsigned-description =
+    Chescj components adizionâi no son stâts verificâts pal funzionament in { -brand-short-name }. Tu puedis
+    <label data-l10n-name="find-addons">cirî alternativis</label> o domandâ al svilupadôr di fâju verificâ.
+disabled-unsigned-learn-more = Scuvierç di plui sul nestri impegn par tignîti sigûr in rêt.
+disabled-unsigned-devinfo =
+    I svilupadôrs interessâts al procès di verifiche dai components adizionâi a puedin continuâ la leture dal nestri 
+    <label data-l10n-name="learn-more">manuâl</label>.
+plugin-deprecation-description = Mancjal alc? Cualchi plugin nol è plui supuartât di { -brand-short-name }. <label data-l10n-name="learn-more">Plui informazions.</label>
+legacy-warning-show-legacy = Mostre estensions sorpassadis
+legacy-extensions =
+    .value = Estensions sorpassadis
+legacy-extensions-description = Chestis estensions no sodisfin i standards di { -brand-short-name } e duncje a son stadis disativadis. <label data-l10n-name="legacy-learn-more">Altris informazions su lis modifichis ai components adizionâi</label>
 addon-category-extension = Estensions
 addon-category-extension-title =
     .title = Estensions
