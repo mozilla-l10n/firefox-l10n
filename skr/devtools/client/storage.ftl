@@ -5,6 +5,22 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
+# Hint shown when the selected storage host does not contain any data
+storage-table-empty-text = منتخب میزبان کیتے کوئی معلومات موجود کائنی
+# Hint shown when the cookies storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cookies/
+storage-table-type-cookies-hint = میزبان کوں منتخب کرتے کوکیاں ݙیکھو تے انہاں وِچ ترمیم کرو۔ <a data-l10n-name="learn-more-link">ودھیک ڄاݨو</a>
+# Hint shown when the local storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
+storage-table-type-localstorage-hint = میزبان کوں منتخب کر تے مقامی اسٹوریج کوں ݙیکھو تے ایندے وِچ ترمیم کرو۔ <a data-l10n-name="learn-more-link">ودھیک ڄاݨو</a>
+# Hint shown when the session storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
+storage-table-type-sessionstorage-hint = میزبان کوں منتخب کرتے سیشن اسٹوریج کوں ݙیکھو تے ایندے وِچ ترمیم کرو۔ <a data-l10n-name="learn-more-link">ودھیک ڄاݨو</a>
+# Hint shown when the IndexedDB storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
+storage-table-type-indexeddb-hint = ڈیٹا بیس کوں منتخب کر تے IndexedDB اندراجات ݙیکھو تے حذف کرو۔ <a data-l10n-name="learn-more-link">ودھیک ڄاݨو</a>
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
 storage-table-type-cache-hint = ذخیرہ کوں منتخب کر تے کیش اسٹوریج دے اندراجات ڈیکھو تے حذف کرو۔ <a data-l10n-name="learn-more-link">ودھیک ڄاݨو</a>
