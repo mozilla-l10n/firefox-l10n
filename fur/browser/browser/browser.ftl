@@ -278,7 +278,7 @@ search-one-offs-actions =
 ## the action.
 
 # Opens the about:addons page in the home / recommendations section
-quickactions-addons = Visualize zontis
+quickactions-addons = Visualize components adizionâi
 quickactions-cmd-addons2 = components adizionâi
 # Opens the bookmarks library window
 quickactions-bookmarks = Visualize segnelibris
@@ -793,8 +793,8 @@ repair-text-encoding-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open the add-ons manager
 toolbar-addons-themes-button =
-    .label = Zontis e temis
-    .tooltiptext = Gjestìs lis tôs zontis e i tiei temis ({ $shortcut })
+    .label = Components adizionâi e temis
+    .tooltiptext = Gjestìs i tiei components adizionâi e i tiei temis ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -966,3 +966,6 @@ refresh-blocked-redirect-label = { -brand-short-name } al à impedît a cheste p
 refresh-blocked-allow =
     .label = Permet
     .accesskey = P
+
+## Firefox Relay integration
+

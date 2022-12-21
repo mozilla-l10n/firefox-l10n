@@ -2,44 +2,31 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-page-title = Gjestôr des zontis
-
+addons-page-title = Gjestôr dai components adizionâi
 search-header-shortcut =
     .key = f
-
 list-empty-available-updates =
     .value = Nissun inzornament cjatât
-
 list-empty-recent-updates =
     .value = No tu âs inzornât lis tôs zontis tai ultins timps
-
 list-empty-find-updates =
     .label = Cîr inzornaments
-
 detail-version =
     .label = Version
-
 detail-last-updated =
     .label = Ultin inzornament
-
 detail-update-type =
     .value = Inzornaments automatics
-
 detail-home =
     .label = Pagjine web
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-rating =
     .value = Judizi
-
 addon-restart-now =
     .label = Torne a inviâ cumò
-
 addon-category-extension = Estensions
 addon-category-extension-title =
     .title = Estensions
@@ -64,7 +51,6 @@ addon-category-recent-updates-title =
 extensions-warning-safe-mode = Dutis lis zontis a son stadis disativadis pal Mût sigûr.
 extensions-warning-check-compatibility = Il control di compatibilitât des zontis al è disativât. Tu podaressis vê zontis incompatibilis.
 extensions-warning-update-security = Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
-
 
 ## Strings connected to add-on updates
 
@@ -113,9 +99,12 @@ addon-install-from-file-filter-name = Zontis
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
 
+
 ## Page headings
+
 
 ## Detail notifications
 ## Variables:
