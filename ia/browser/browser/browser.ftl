@@ -969,6 +969,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } masca tu ver adresse email pro adjutar te a proteger te de violationes de datos e spam.
+firefox-relay-offer-how-we-integrate = Continuante, tu potera generar nove mascas email de { -relay-brand-short-name } directemente ab tu gestor de contrasignos de { -brand-shorter-name }.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages

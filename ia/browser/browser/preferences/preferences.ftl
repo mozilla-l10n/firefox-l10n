@@ -799,6 +799,8 @@ forms-breach-alerts =
     .label = Monstrar avisos pro contrasignos de sitos web violate
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saper plus
+relay-integration =
+    .label = Activar { -relay-brand-name } in le gestor de contrasignos de { -brand-short-name }
 relay-integration-learn-more-link = Pro saper plus
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

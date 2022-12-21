@@ -8,6 +8,7 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } non poteva generar un nove masca. Codice de error HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } non pote trovar mascas reusabile. Codice de error HTTP: { $status }.
 
 ##
@@ -19,6 +20,7 @@ firefox-relay-get-unlimited-masks =
 firefox-relay-opt-in-title = Protege tu adresse email
 firefox-relay-opt-in-subtitle = Adder { -relay-brand-name }
 firefox-relay-generate-mask-title = Protege tu adresse email
+firefox-relay-generate-mask-subtitle = Generar un masca { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Continuar
     .accesskey = C

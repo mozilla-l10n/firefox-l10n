@@ -25,6 +25,7 @@ about-logging-page-title = Gestor de registrationes
 about-logging-current-log-file = File de diario actual:
 about-logging-current-log-modules = Modulos de diario actual:
 about-logging-new-log-file = Nove file de registration:
+about-logging-currently-enabled-log-modules = Modulos de registro actualmente activate:
 about-logging-log-tutorial = Vide <a data-l10n-name="logging">HTTP Logging</a> pro instructiones re como usar iste instrumento.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Aperir directorio
@@ -32,6 +33,8 @@ about-logging-set-log-file = Definir le file de registro
 about-logging-set-log-modules = Definir le modulos de registro
 about-logging-start-logging = Initiar le registration
 about-logging-stop-logging = Stoppar le registration
+about-logging-buttons-disabled = Registration configurate via variabiles ambiente, configuration dynamic indisponibile.
+about-logging-some-elements-disabled = Registration configurate via URL, alcun optiones de configuration es indisponibile.
 about-logging-info = Info:
 about-logging-log-modules-selection = Selection de modulo de registro
 about-logging-new-log-modules = Nove modulos de registro:
