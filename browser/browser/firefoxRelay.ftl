@@ -13,5 +13,8 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } yeniden kullanı
 
 ##
 
+firefox-relay-get-unlimited-masks =
+    .label = Maskeleri yönet
+    .accesskey = M
 firefox-relay-opt-in-title = E-posta adresinizi koruyun
 firefox-relay-generate-mask-title = E-posta adresinizi koruyun

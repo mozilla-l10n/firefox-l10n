@@ -971,3 +971,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } sizi veri ihlallerinden ve spam’den korumak için gerçek e-posta adresinizi maskeler.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = <strong>{ $sitename }</strong> adresinden gelen tüm e-postaları <strong>{ $useremail }</strong> adresine yönlendireceğiz.
