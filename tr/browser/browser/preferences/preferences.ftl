@@ -799,6 +799,8 @@ forms-breach-alerts =
     .label = Veri ihlaline uğrayan sitelerdeki parolalarla ilgili uyarı göster
     .accesskey = V
 forms-breach-alerts-learn-more-link = Daha fazla bilgi al
+relay-integration =
+    .label = { -brand-short-name } parola yöneticinizde { -relay-brand-name }’i etkinleştirin
 relay-integration-learn-more-link = Daha fazla bilgi al
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
