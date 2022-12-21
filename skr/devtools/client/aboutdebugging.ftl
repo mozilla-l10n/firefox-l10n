@@ -96,12 +96,101 @@ about-debugging-setup-usb-updating-button = اپ ڈیٹ تھیندا پئے۔۔�
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = فعال تھیا
 about-debugging-setup-usb-status-disabled = غیرفعال تھیا
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = اپݨے Android ڈیوائس تے ڈیولپر مینیو کوں فعال کرو۔
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = اینڈرائیڈ ڈویلپر مینیو وِچ USB ڈیبگنگ کوں فعال کرو۔
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = اینڈرائیڈ ڈیوائس تے فائر فاکس وِچ USB ڈیبگنگ کوں فعال بݨاؤ۔
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = اینڈرائیڈ ڈیوائس کوں اپݨے کمپیوٹر نال جوڑو۔
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
+about-debugging-setup-usb-troubleshoot = USB ڈیوائس نال منسلک تھیوݨ وِچ مسائل؟ <a>مسئلہ حل کرو</a>
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = نیٹ ورک دا مقام
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
+about-debugging-setup-network-troubleshoot = نیٹ ورک لوکیشن دے ذریعے جڑݨ وِچ دشواری؟ <a>مسئلہ حل کرو</a>
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = شامل کرو
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = ہݨ تک کوئی نیٹ ورک مقامات شامل نہیں کیتے ڳئے۔
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = ہوسٹ
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = ہٹاؤ
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = غلط میزبان "{ $host-value }"۔ متوقع فارمیٹ "میزبان ناں :پورٹ نمبر" ہے۔
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = میزبان "{ $host-value }" پہلے کنوں رجسٹرڈ ہے۔
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = عارضی ایکسٹینشن
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = ایکسٹینشنز
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = ٹیباں
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = خدمت کارکنان
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = سانجھے کارکنان
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = ٻئے کارکنان
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = عوامل
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = پروفائل دی کارکردگی
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to:
+# https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
+about-debugging-runtime-service-workers-not-compatible = تہاݙے براؤزر دی ترتیب سروس ورکرز دے نال مطابقت نہیں رکھیندی۔ <a>ودھیک ڄاݨو</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = کنکشن توڑو
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = کنکشن پرامپٹ کوں فعال کرو۔
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = کنکشن پرامپٹ کوں غیر فعال کربݨاؤ۔
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = پروفائلر
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = غائب کرو/ وسیع کرو
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = فی الحال کجھ کائنی
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
@@ -168,3 +257,26 @@ about-debugging-worker-push-service =
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = سروس ورکر دا معائنہ فی الحال ملٹی پروسیس { -brand-shorter-name } کیتے غیر فعال ہے
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = ٹیب مکمل طور تے لوڈ کائنی تے ایندا معائنہ نہیں کیتا ونڄ سڳدا
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = مرکزی عمل
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = ہدف براؤزر کیتے اہم عمل
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باکس
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = ہدف براؤزر کیتے اہم عمل تے مواد دے عمل
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = سنیہا بند کرو
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = نقص دیاں تفصیلاں
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = چتاوݨی دیاں تفصیلاں
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = تفصیلاں
