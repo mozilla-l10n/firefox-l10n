@@ -96,6 +96,7 @@ about-debugging-setup-usb-updating-button = اپ ڈیٹ تھیندا پئے۔۔�
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = فعال تھیا
 about-debugging-setup-usb-status-disabled = غیرفعال تھیا
+about-debugging-setup-usb-status-updating = اپ ڈیٹ تھیندا پئے۔۔۔
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = اپݨے Android ڈیوائس تے ڈیولپر مینیو کوں فعال کرو۔
 # USB section step by step guide
