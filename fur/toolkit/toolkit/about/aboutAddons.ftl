@@ -208,9 +208,46 @@ addon-manage-extensions-shortcuts = Gjestìs scurtis des estensions
     .accesskey = s
 shortcuts-no-addons = No tu âs abilitade nissune estension.
 shortcuts-no-commands = Chestis estensions no àn scurtis:
+shortcuts-input =
+    .placeholder = Inserìs une scurte
+shortcuts-browserAction2 = Ative boton te sbare dai struments
+shortcuts-pageAction = Ative azion pagjine
+shortcuts-sidebarAction = Comute la sbare laterâl
+shortcuts-modifier-mac = Inclût Ctrl, Alt o ⌘
+shortcuts-modifier-other = Inclût Ctrl o Alt
+shortcuts-invalid = Cumbinazion no valide
+shortcuts-letter = Inserìs une letare
+shortcuts-system = Impussibil sostituî une scurte di { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Scurte duplicade
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = La cumbinazion { $shortcut } e je doprade tant che scurte in plui di un câs. Lis scurtis doplis a puedin causâ compuartaments inspietâts.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Za doprade di { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mostre { $numberToShow } altre
+       *[other] Mostre altris { $numberToShow }
+    }
+shortcuts-card-collapse-button = Mostre mancul scurtis
+header-back-button =
+    .title = Torne indaûr
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Lis estensions e i temis a son come aplicazions pal to navigadôr e ti permetin di
+    protezi passwords, discjamâ videos, sparagnâ tes compris in rêt, blocâ publicitât
+    fastidiose, cambiâ l'aspiet dal navigadôr e tant altri. Chescj piçui programs a son
+    dispès svilupâts di tiercis parts. Chi e je une selezion <a data-l10n-name="learn-more-trigger">conseade</a>
+    di { -brand-product-name } pe sigurece, prestazions e funzionalitâts al massim
+    nivel.
 
 ## Add-on actions
 
