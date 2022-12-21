@@ -42,6 +42,7 @@ about-logging-no-log-file = Няма
 
 about-logging-preset-networking-label = Сетка
 about-logging-preset-media-playback-label = Прайграванне медыя
+about-logging-preset-custom-label = Уласная
 # Error handling
 about-logging-error = Памылка:
 
