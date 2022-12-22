@@ -783,6 +783,9 @@ forms-breach-alerts =
     .label = 針對發生過資料外洩的網站顯示密碼警告
     .accesskey = b
 forms-breach-alerts-learn-more-link = 了解更多
+relay-integration =
+    .label = 在您的 { -brand-short-name } 密碼管理員啟用 { -relay-brand-name }
+relay-integration-learn-more-link = 了解更多
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = 自動填寫登入資訊與密碼
@@ -985,6 +988,9 @@ content-blocking-fingerprinters = 數位指紋追蹤程式
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = 試用我們有史以來最強大的隱私保護功能
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 全方位 Cookie 保護功能會將 Cookie 限制於您所在的網站當中，這樣追蹤器就無法透過 Cookie 在不同網站間追蹤您。
 content-blocking-etp-standard-tcp-rollout-learn-more = 了解更多
