@@ -33,6 +33,7 @@ about-logging-stop-logging = Arrestar la jornalizacion
 
 ## Logging presets
 
+about-logging-preset-networking-label = Ret
 # Error handling
 about-logging-error = Error :
 
