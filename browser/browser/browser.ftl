@@ -978,3 +978,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } prikrije vaš pravi e-poštni naslov in vas tako pomaga ščititi pred krajami podatkov in neželeno pošto.
+firefox-relay-offer-how-we-integrate = V naslednjem koraku boste lahko ustvarili nove e-poštne maske s { -relay-brand-short-name(sklon: "orodnik") } neposredno v upravitelju gesel v { -brand-shorter-name(sklon: "mestnik") }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Vsa sporočila spletnega mesta <strong>{ $sitename }</strong> bomo posredovali na <strong>{ $useremail }</strong>.

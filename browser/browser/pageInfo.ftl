@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 500px;
-
 copy =
     .key = C
 menu-copy =
     .label = Kopiraj
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Izberi vse
     .accesskey = V
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Splošno
     .accesskey = S
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Ime
 general-meta-content =
     .label = Vsebina
-
 media-tab =
     .label = Večpredstavnost
     .accesskey = V
@@ -74,13 +69,11 @@ media-save-as =
 media-save-image-as =
     .label = Shrani kot …
     .accesskey = r
-
 perm-tab =
     .label = Dovoljenja
     .accesskey = D
 permissions-for =
     .value = Dovoljenja za:
-
 security-tab =
     .label = Varnost
     .accesskey = A
@@ -101,22 +94,17 @@ security-view-identity-validity =
     .value = Poteče:
 security-view-privacy =
     .value = Zasebnost in zgodovina
-
 security-view-privacy-history-value = Ali sem to spletno mesto obiskal že kdaj pred današnjim dnem?
 security-view-privacy-sitedata-value = Ali to spletno mesto shranjuje podatke na moj računalnik?
-
 security-view-privacy-clearsitedata =
     .label = Počisti piškotke in podatke strani
     .accesskey = č
-
 security-view-privacy-passwords-value = Ali sem shranil kakšno geslo za to spletno mesto?
-
 security-view-privacy-viewpasswords =
     .label = Preglej shranjena gesla
     .accesskey = g
 security-view-technical =
     .value = Tehnične podrobnosti
-
 help-button =
     .label = Pomoč
 
@@ -127,8 +115,7 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-cookies = Da, piškotke in { $value } { $unit } podatkov strani
-security-site-data-only = Da, { $value } { $unit } podatkov strani
-
+security-site-data-only = Da, { $value } { $unit } podatkov
 security-site-data-cookies-only = Da, piškotke
 security-site-data-no = Ne
 
@@ -152,7 +139,6 @@ media-video = Video
 media-audio = Zvok
 saved-passwords-yes = Da
 saved-passwords-no = Ne
-
 no-page-title =
     .value = Neimenovana stran:
 general-quirks-mode =
@@ -167,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Uporabi privzeto
 security-no-visits = Ne
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -180,7 +165,6 @@ general-meta-tags =
             [few] Meta ({ $tags } oznake)
            *[other] Meta ({ $tags } oznak)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -193,7 +177,6 @@ security-visits-number =
         [few] Da, { $visits }-krat
        *[other] Da, { $visits }-krat
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -206,7 +189,6 @@ properties-general-size =
             [few] { $kb } KB ({ $bytes } bajte)
            *[other] { $kb } KB ({ $bytes } bajtov)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -220,14 +202,12 @@ media-animated-image-type =
             [few] Slika { $type } (animacija, { $frames } sličice)
            *[other] Slika { $type } (animacija, { $frames } sličic)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } slika
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -237,20 +217,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (pomanjšano na { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -258,7 +235,6 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Prepovej slike s strani { $website }
     .accesskey = P
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -34,3 +34,13 @@ datetime-millisecond =
     .aria-label = Milisekunde
 datetime-dayperiod =
     .aria-label = dop./pop.
+
+## Calendar button for input type=date
+
+
+# This label is used by screenreaders and other assistive technology
+# to indicate the purpose of a toggle button inside of the <input type="date">
+# field that opens/closes a date picker calendar dialog
+
+datetime-calendar =
+    .aria-label = Koledar

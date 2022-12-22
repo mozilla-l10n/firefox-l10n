@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Geslo shranjeno!
 confirmation-hint-pin-tab = Pripeto!
 confirmation-hint-pin-tab-description = Desno-kliknite zavihek, da ga odpnete.
 confirmation-hint-send-to-device = Poslano!
+confirmation-hint-firefox-relay-mask-generated = Nova maska { -relay-brand-short-name } ustvarjena!
