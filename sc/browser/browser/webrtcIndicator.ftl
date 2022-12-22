@@ -176,6 +176,8 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Boles permìtere
 
 ##
 
+webrtc-share-screen-warning = Cumpartzi s’ischermu isceti cun is sitos web in is chi cunfies. Sa cumpartzidura podet permìtere a is sitos ingannosos de navigare finghende·si tue e de ti furare is datos privados.
+webrtc-share-browser-warning = Cumpartzi { -brand-short-name } isceti cun is sitos in is chi cunfies. Sa cumpartzidura podet permìtere a is sitos ingannosos de navigare finghende·si tue e de ti furare is datos privados.
 webrtc-share-screen-learn-more = Nde chèrgio ischire de prus
 webrtc-pick-window-or-screen = Seletziona una ventana o un ischermu
 webrtc-share-entire-screen = Ischermu intreu
@@ -203,8 +205,14 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Bloca semper
     .accesskey = s
+webrtc-action-not-now =
+    .label = Immoe nono
+    .accesskey = n
 
 ##
 
 webrtc-remember-allow-checkbox = Regorda custa detzisione
 webrtc-mute-notifications-checkbox = Disativa is notìficas de is sitos web cando ses cumpartzende
+webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } non podet permìtere s’atzessu permanente a s’ischermu tuo.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } non podet permìtere s’atzessu permanente a s’àudio de s’ischeda chena preguntare cale ischeda cumpartzire.
+webrtc-reason-for-no-permanent-allow-insecure = Sa connessione tua a custu situ no est segura. Pro resones de seguresa, { -brand-short-name } at a permìtere s’atzessu isceti pro custa sessione.

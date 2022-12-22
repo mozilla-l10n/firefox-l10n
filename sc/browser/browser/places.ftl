@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = Iscaressi·ti de custu situ
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Custa atzione at a cantzellare totu is datos acapiados a { $hostOrBaseDomain }, cosa chi incluit ca cronologia, is craes, is testimòngios, sa memòria temporànea e is preferèntzias pro is cuntenutos. Seguru chi boles sighire?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Custa atzione at a cantzellare totu is datos acapiados a { $hostOrBaseDomain }, cosa chi incluit sa cronologia, is craes, is testimòngios, sa memòria temporànea e is preferèntzias pro is cuntenutos. Non s’ant a cantzellare is craes e is sinnalibros acapiados. Seguru chi boles sighire?
 places-forget-about-this-site-forget = Iscaressi
 places-library =
     .title = Biblioteca

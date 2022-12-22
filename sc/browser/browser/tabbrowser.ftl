@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Ischeda noa
+tabbrowser-empty-private-tab-title = Ischeda privada noa
 tabbrowser-menuitem-close-tab =
     .label = Serra s'ischeda
 tabbrowser-menuitem-close =

@@ -47,6 +47,8 @@ firefoxview-tabpickup-password-locked-description = Pro recuperare is ischedas t
 firefoxview-tabpickup-password-locked-link = Àteras informatziones
 firefoxview-tabpickup-password-locked-primarybutton = Inserta sa crae printzipale
 firefoxview-tabpickup-signed-out-header = Identìfica·ti pro torrare a connètere
+firefoxview-tabpickup-signed-out-description = Pro torrare a connètere e pigare is ischedas tuas, identìfica·ti in su contu tuo de { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-primarybutton = Identìfica·ti
 firefoxview-tabpickup-syncing = Abeta in su mentras chi is ischedas sunt sincronizadas. At a èssere unu momentu isceti.
 firefoxview-mobile-promo-header = Recùpera is ischedas dae su telèfonu o sa tauledda
 firefoxview-mobile-promo-description = Pro bìdere is ùrtimas ischedas abertas dae su mòbile, atzede a su contu tuo de { -brand-product-name } in iOS o Android.
@@ -57,6 +59,10 @@ firefoxview-closed-tabs-title = Serradas de reghente
 firefoxview-closed-tabs-description2 = Torra a abèrrere ischedas chi as serradu in custa ventana.
 firefoxview-closed-tabs-placeholder-header = Peruna ischeda serrada de reghente
 firefoxview-closed-tabs-placeholder-body = Cando serras un'ischeda in custa ventana, dda podes recuperare dae inoghe.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Serra { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ùrtima ativa
 # Variables:

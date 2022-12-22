@@ -117,6 +117,22 @@ info-known-breaches-resolved =
         [one] Una violatzione de datos connota est istada sinnalada comente risolta
        *[other] Prus violatziones de datos connotas sunt istadas sinnaladas comente risoltas
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] crae esposta in totu is violatziones de datos
+       *[other] craes espostas in totu is violatziones de datos
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] crae esposta in violatziones de datos non resurtas
+       *[other] craes espostas in violatziones de datos non resurtas
+    }
 monitor-no-breaches-title = Noas bellas!
 monitor-no-breaches-description = Non ddoe at nissuna violatzione connota. Si custu cambiat, t'amus a avisare.
 monitor-view-report-link = Ammustra s'informe
