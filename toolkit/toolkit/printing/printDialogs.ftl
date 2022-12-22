@@ -4,7 +4,7 @@
 
 print-setup =
     .title = Priprava strani
-custom-prompt-title = Po meri ...
+custom-prompt-title = Po meri …
 custom-prompt-prompt = Vnesite besedilo za glavo/nogo po meri
 basic-tab =
     .label = Oblika in možnosti
@@ -90,7 +90,7 @@ hf-page =
 hf-page-and-total =
     .label = Stran # od #
 hf-custom =
-    .label = Po meri ...
+    .label = Po meri …
 print-preview-window =
     .title = Predogled tiskanja
 print-title =
@@ -103,7 +103,6 @@ print-window =
     .title = Tiskanje
 print-complete =
     .value = Tiskanje je končano.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

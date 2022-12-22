@@ -25,20 +25,19 @@ printpreview-scale =
 printpreview-shrink-to-fit =
     .label = Skrči, da ustreza
 printpreview-custom =
-    .label = Po meri ...
+    .label = Po meri …
 printpreview-print =
-    .label = Natisni ...
+    .label = Natisni …
     .accesskey = N
 printpreview-of =
     .value = od
 printpreview-custom-scale-prompt-title = Merilo po meri
 printpreview-page-setup =
-    .label = Nastavitve strani ...
+    .label = Priprava strani …
     .accesskey = v
 printpreview-page =
     .value = Stran:
     .accesskey = a
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -62,7 +61,6 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Zadnja stran
-
 printpreview-homearrow-button =
     .title = Prva stran
 printpreview-previousarrow-button =
