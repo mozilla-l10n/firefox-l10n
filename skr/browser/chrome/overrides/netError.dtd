@@ -113,5 +113,6 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "جے تساں <span class='mitm-name'/> دے سونہیں کائنوے، تاں ایہ حملہ تھی سڳدا ہے تے تہاکوں سائٹ تے جاری نہیں رہݨا چاہیدا۔">
 
 
+<!ENTITY prefReset.longDesc "ایویں لڳدا ہے جو تہاݙے نیٹ ورک دی سیکیورٹی دیاں ترتیباں ایندی وجہ بݨدیاں پیاں ہن۔ کیا تساں چاہندے او جو طے شدہ ترتیباں بحال تھیون؟">
 <!ENTITY prefReset.label "طے شدہ ترتیباں بحال کرو">
 
