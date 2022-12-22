@@ -55,3 +55,5 @@ about-logging-error = Памылка:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Недапушчальнае значэнне “{ $v }“ для ключа “{ $k }“
+about-logging-unknown-option = Невядомы параметр about:logging «{ $k }»
