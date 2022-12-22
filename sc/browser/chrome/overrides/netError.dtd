@@ -114,10 +114,13 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> impreat tecnologia betza e vulneràbile a is atacos. Un’atacadore diat pòdere rilevare informatziones chi ti parent seguras. S’amministratzione de su situ depet acontzare su serbidore prima chi potzas bisitare su situ.</p><p>Còdighe de faddina: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pàgina blocada">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> est in manera probàbile unu situ seguru, però est istadu impossìbile a istabilire una connessione segura. Sa càusa de su problema est <span class='mitm-name'/>, chi est unu programma de s’elaboradore tuo o de sa rete tua.">
 
+<!ENTITY clockSkewError.longDesc "S’elaboradore tuo pensat chi siat <span id='wrongSystemTime_systemDate1'/>, e custu impedit a &brandShortName; de si connètere cun seguresa. Pro bisitare <span class='hostname'></span>, atualiza su rellògiu in s’elaboradore tuo dae is cunfiguratziones de sistema, in manera chi ammustret sa data, s'oràriu e sa zona orària atuales. Pustis, atualiza <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Podet dare chi sa cunfiguratzione de seguresa de rete tua siat sa càusa. Boles recuperare sa cunfiguratzione predefinida?">
 <!ENTITY prefReset.label "Recùpera sa cunfiguratzione predefinida">
