@@ -54,7 +54,7 @@ cert-error-ssl-connection-error = Med povezovanjem na { $hostname } je prišlo d
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Spletna mesta svojo istovetnost dokazujejo z digitalnimi potrdili, ki jih izdajajo uradni overitelji. Večina brskalnikov ne zaupa več digitalnim potrdilom, ki so jih izdali GeoTrust, RapidSSL, Symantec, Thawte in VeriSign. Spletno mesto { $hostname } uporablja digitalno potrdilo enega od teh overiteljev, zato njeove istovetnosti ni mogoče preveriti.
-cert-error-symantec-distrust-admin = O težavi lahko obvestite skrbnika spletne strani.
+cert-error-symantec-distrust-admin = O težavi lahko obvestite skrbnika spletnega mesta.
 cert-error-old-tls-version = To spletno mesto ne podpira protokola TLS 1.2, ki je najnižja različica, podprta v { -brand-short-name(sklon: "mestnik") }.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
