@@ -974,3 +974,7 @@ refresh-blocked-redirect-label = { -brand-short-name } je preprečil samodejno p
 refresh-blocked-allow =
     .label = Dovoli
     .accesskey = O
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } prikrije vaš pravi e-poštni naslov in vas tako pomaga ščititi pred krajami podatkov in neželeno pošto.
