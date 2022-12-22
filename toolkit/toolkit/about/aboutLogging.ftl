@@ -16,8 +16,12 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Σχετικά με την καταγραφή
+about-logging-page-title = Διαχείριση καταγραφής
 about-logging-current-log-file = Τρέχον αρχείο καταγραφής:
 about-logging-current-log-modules = Τρέχουσες μονάδες καταγραφής:
 about-logging-new-log-file = Νέο αρχείο καταγραφής:
@@ -29,6 +33,9 @@ about-logging-set-log-modules = Ορισμός μονάδων καταγραφή
 about-logging-start-logging = Έναρξη καταγραφής
 about-logging-stop-logging = Τερματισμός καταγραφής
 about-logging-info = Πληροφορίες:
+about-logging-log-modules-selection = Επιλογή μονάδας καταγραφής
+about-logging-new-log-modules = Νέες μονάδες καταγραφής:
+about-logging-logging-output-selection = Έξοδος καταγραφής
 
 ## Logging presets
 
@@ -42,3 +49,4 @@ about-logging-error = Σφάλμα:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Μη έγκυρη τιμή «{ $v }» για το κλειδί «{ $k }»
+about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μέσω URL
