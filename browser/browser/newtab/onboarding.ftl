@@ -27,6 +27,7 @@ return-to-amo-add-theme-label = Ավելացնել ոճ
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-add-extension-label = Ավելացնել { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -324,6 +325,7 @@ mr2022-onboarding-get-started-primary-button-label = Տեղակայեք վայր
 mr2022-onboarding-colorway-title = Ընտրեք այն գույնը, որը ձեզ ոգեշնչում է
 mr2022-onboarding-colorway-subtitle = Անկախ ձայները կարող են փոխել մշակույթը:
 mr2022-onboarding-colorway-primary-button-label-continue = Սահմանել և շարունակել
+mr2022-onboarding-colorway-label-default = Սկզբնադիր
 mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Փլեյմեյքեր (կարմիր)

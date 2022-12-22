@@ -11,4 +11,5 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-button-primary-pin = Դարձնել հիմնական դիտարկիչ
+default-browser-prompt-checkbox-not-again-label = Այլևս չցուցադրել այս հաղորդագրությունը
 default-browser-prompt-button-secondary = Ոչ հիմա

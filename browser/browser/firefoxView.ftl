@@ -28,6 +28,7 @@ firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
+firefoxview-tabpickup-password-locked-link = Իմանալ ավելին
 firefoxview-tabpickup-signed-out-primarybutton = Մուտք գործել
 firefoxview-mobile-promo-header = Բերեք ներդիրները ձեր հեռախոսից կամ թաբլեթից
 firefoxview-mobile-confirmation-header = 🎉 Լավ է գնալ:
