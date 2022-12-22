@@ -4,9 +4,9 @@
 
 about-reader-loading = Загрузка…
 about-reader-load-error = Не ўдалося загрузіць артыкул са старонкі
-about-reader-color-scheme-light = Светлы
+about-reader-color-scheme-light = Светлая
     .title = Колеравая схема Светлая
-about-reader-color-scheme-dark = Цёмны
+about-reader-color-scheme-dark = Цёмная
     .title = Колеравая схема Цёмная
 about-reader-color-scheme-sepia = Сэпія
     .title = Колеравая схема Сэпія
