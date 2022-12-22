@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Med pošiljanjem poročila je prišlo do napake. Poskusite znova kasneje.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Stran popravljena? Pošlji poročilo
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Običajno
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Več o izboljšani zaščiti pred sledenjem
-
 protections-panel-etp-on-header = Izboljšana zaščita pred sledenjem je VKLJUČENA za to stran
 protections-panel-etp-off-header = Izboljšana zaščita pred sledenjem je IZKLJUČENA za to stran
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Stran ne deluje?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Stran ne deluje?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Naloženi so vsi sledilci n
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name } na strani ni zaznal znanih sledilcev.
-
 protections-panel-content-blocking-tracking-protection = Sledilna vsebina
-
 protections-panel-content-blocking-socialblock = Sledilci družbenih omrežij
 protections-panel-content-blocking-cryptominers-label = Kriptorudarji
 protections-panel-content-blocking-fingerprinters-label = Sledilci prstnih odtisov
@@ -70,33 +64,28 @@ protections-panel-protectionsdashboard-label = Nadzorna plošča zaščit
 
 # The header of the list
 protections-panel-site-not-working-view-header = Izklopite zaščite, če imate težave:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = s polji za prijavo
 protections-panel-site-not-working-view-issue-list-forms = z obrazci
 protections-panel-site-not-working-view-issue-list-payments = s plačili
 protections-panel-site-not-working-view-issue-list-comments = s komentarji
 protections-panel-site-not-working-view-issue-list-videos = z videi
-
 protections-panel-site-not-working-view-send-report = Pošlji poročilo
 
 ##
 
 protections-panel-cross-site-tracking-cookies = Ti piškotki vas spremljajo od enega spletnega mesta do drugega in zbirajo podatke o tem, kaj počnete na spletu. Namestijo jih tretje strani, kot so oglaševalci in analitična podjetja.
 protections-panel-cryptominers = Kriptorudarji izrabljajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja. Rudarski skripti vam praznijo baterijo, upočasnjujejo računalnik in zasolijo račun za elektriko.
-protections-panel-fingerprinters = Sledilci prstnih odtisov zbirajo nastavitve vašega brskalnika in računalnika, da si ustvarijo vaš profil. S pomočjo digitalnega prstnega odtisa vam lahko sledijo na različnih spletnih straneh.
+protections-panel-fingerprinters = Sledilci prstnih odtisov zbirajo nastavitve vašega brskalnika in računalnika, da si ustvarijo vaš profil. S pomočjo digitalnega prstnega odtisa vam lahko sledijo po različnih spletnih mestih.
 protections-panel-tracking-content = Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino s kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali.
 protections-panel-social-media-trackers = Družbena omrežja postavljajo sledilce na druga spletna mesta, da bi spremljali, kaj počnete, vidite in gledate na spletu. To družbenim medijem omogoča, da o vas izvedo več kot le tisto, kar delite na svojih družbenih profilih.
-
 protections-panel-description-shim-allowed = Nekateri spodaj označeni sledilci so na tej strani delno dovoljeni, ker ste z njimi sodelovali.
 protections-panel-description-shim-allowed-learn-more = Več o tem
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Sledilec delno dovoljen
-
 protections-panel-content-blocking-manage-settings =
     .label = Upravljanje nastavitev zaščite
     .accesskey = U
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Prijavi nedelujočo stran
 protections-panel-content-blocking-breakage-report-view-description = Zavračanje določenih sledilcev lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati { -brand-short-name } za vse uporabnike. Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika. <label data-l10n-name="learn-more">Več o tem</label>
