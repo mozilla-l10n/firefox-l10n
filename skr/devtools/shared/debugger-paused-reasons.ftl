@@ -14,6 +14,18 @@
 ### A good criteria is the language in which you'd find the best
 ### documentation on web development on the web.
 
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = ڈیبگر اسٹیٹمنٹ تے روک ݙتا ڳیا۔
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = بریک پوئنٹ تے روک ݙتا ڳیا
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = ایونٹ بریک پوائنٹ تے روک ݙتا ڳیا۔
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an exception
+whypaused-exception = استثنیٰ تے روک ݙتا ڳیا۔
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = شامل شدہ:
