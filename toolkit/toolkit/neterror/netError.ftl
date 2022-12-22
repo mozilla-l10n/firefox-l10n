@@ -103,7 +103,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Če ste poveza
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = Ura vašega računalnika je nastavljena na datum { DATETIME($now, dateStyle: "medium") }. V nastavitvah sistema nastavite računalnik na pravilen datum in čas ter časovni pas, nato osvežite <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Če je ura že nastavljena pravilno, je težava verjetno v spletnem mestu in je sami ne morete odpraviti. O njej lahko obvestite skrbnika spletnega mesta.
-certerror-bad-cert-domain-what-can-you-do-about-it = Težava je najverjetneje na spletni strani, zato je sami ne morete odpraviti. Lahko pa obvestite skrbnika spletne strani.
+certerror-bad-cert-domain-what-can-you-do-about-it = Najverjetneje gre za težavo na spletnem mestu, ki je sami ne morete odpraviti. Lahko pa obvestite skrbnika spletnega mesta.
 certerror-mitm-what-can-you-do-about-it-antivirus = Če vaš protivirusni program vključuje možnost pregledovanja šifriranih povezav (pogosto imenovano "spletna zaščita" ali "pregledovanje HTTPS"), jo poskusite onemogočiti. Če to ne odpravi težave, lahko protivirusni program odstranite in znova namestite.
 certerror-mitm-what-can-you-do-about-it-corporate = Če ste povezani v podjetje omrežja, se obrnite na njegov oddelek za IT.
 # Variables:
@@ -111,7 +111,7 @@ certerror-mitm-what-can-you-do-about-it-corporate = Če ste povezani v podjetje 
 certerror-mitm-what-can-you-do-about-it-attack = Če ne poznate <b>{ $mitm }</b>, gre morda za napad in raje ne nadaljujte na spletno stran.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack-sts = Če ne poznate <b>{ $mitm }</b>, gre morda za napad in do spletne strani ne morete dostopati.
+certerror-mitm-what-can-you-do-about-it-attack-sts = Če <b>{ $mitm }</b> ne poznate, gre morda za napad in do spletnega mesta ne morete dostopati.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> uporablja varnostni pravilnik, imenovan HTTP Strict Transport Security (HSTS), kar pomeni, da se lahko { -brand-short-name } nanjo poveže zgolj varno. Za obisk te strani ne morete dodati izjeme.

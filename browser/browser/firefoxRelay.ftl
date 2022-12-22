@@ -8,6 +8,7 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } ni mogel ustvariti nove maske. Koda napake HTTP: { $status }.
 
 ##
 
@@ -18,6 +19,7 @@ firefox-relay-get-unlimited-masks =
 firefox-relay-opt-in-title = Zaščitite svoj e-poštni naslov
 firefox-relay-opt-in-subtitle = Dodajte { -relay-brand-name }
 firefox-relay-generate-mask-title = Zaščitite svoj e-poštni naslov
+firefox-relay-generate-mask-subtitle = Ustvari masko { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Nadaljuj
     .accesskey = d

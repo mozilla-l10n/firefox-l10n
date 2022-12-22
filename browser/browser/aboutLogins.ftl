@@ -204,7 +204,7 @@ confirm-discard-changes-dialog-confirm-button = Prezri
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Kraja podatkov spletnega mesta
-breach-alert-text = Gesla so bila ogrožena ali ukradena s te spletne strani, odkar ste nazadnje posodobili podatke za prijavo. Spremenite geslo, da zaščitite svoj račun.
+breach-alert-text = Gesla so bila ogrožena ali ukradena s tega spletnega mesta, odkar ste nazadnje posodobili podatke za prijavo. Spremenite geslo, da zaščitite svoj račun.
 about-logins-breach-alert-date = Do kraje podatkov je prišlo dne { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
