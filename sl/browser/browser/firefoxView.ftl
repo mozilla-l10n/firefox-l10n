@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = Za zajem zavihkov morate vne
 firefoxview-tabpickup-password-locked-link = Več o tem
 firefoxview-tabpickup-password-locked-primarybutton = Vnesite glavno geslo
 firefoxview-tabpickup-signed-out-header = Prijavite se, da se ponovno povežete
+firefoxview-tabpickup-signed-out-primarybutton = Prijava
 firefoxview-tabpickup-syncing = Počakajte, da se zavihki sinhronizirajo. Trajalo bo samo trenutek.
 firefoxview-mobile-promo-header = Zajemite zavihke s telefona ali tablice
 firefoxview-mobile-promo-description = Za ogled najnovejših mobilnih zavihkov se prijavite v { -brand-product-name(sklon: "tozilnik") } v sistemu iOS ali Android.
@@ -56,6 +57,11 @@ firefoxview-mobile-confirmation-description = Zdaj lahko zajamete zavihke iz { -
 firefoxview-closed-tabs-title = Nedavno zaprto
 firefoxview-closed-tabs-description2 = Ponovno odprite strani, ki ste jih zaprli v tem oknu.
 firefoxview-closed-tabs-placeholder-header = Ni nedavno zaprtih zavihkov
+firefoxview-closed-tabs-placeholder-body = Tukaj lahko najdete zavihke, ki ste jih zaprli v tem oknu.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Zapri { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Zadnja dejavnost
 # Variables:
