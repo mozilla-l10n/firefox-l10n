@@ -61,6 +61,8 @@ perftools-button-edit-settings = سیٹنگز وچ تبدیلی کرو…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = وݙکیاں دے عمل تے مواد دے عمل ݙوہیں کیتے اہم عمل
 perftools-thread-compositor =
     .title = ورقے تے مختلف پینٹ شدہ عناصر کوں ہکے لنڳے مرکب کریندا ہے۔
 perftools-thread-dom-worker =

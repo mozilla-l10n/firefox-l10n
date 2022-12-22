@@ -36,6 +36,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> یا <strong>display:flex</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
+inactive-css-not-grid-container-fix = <strong>display:grid</strong> یا <strong>display:inline-grid</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong> overflow:hidden </ strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
@@ -45,3 +46,9 @@ inactive-text-overflow-when-no-overflow-fix = <strong> overflow:hidden </ strong
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> ہک تجرباتی خاصیت ہئی جو اب W3C معیارات کنوں فرسودہ ہے۔
+css-compatibility-deprecated-message = <strong>{ $property }</strong> W3C معیار کنوں فرسودہ ہے۔ ایہ ہیٹھ درج براؤزرز وِچ تعاون یافتہ کائنی:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> W3C معیارات کنوں فرسودہ ہے۔
+css-compatibility-experimental-message = <strong>{ $property }</strong> ایک تجرباتی خاصیت ہے۔ ایہ ہیٹھ درج براؤزرز وِچ تعاون یافتہ کائنی:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> ہک تجرباتی خاصیت ہے۔
+css-compatibility-learn-more-message = <span data-l10n-name="link"> ودھیک ڄاݨو </span> دے متعلق <strong>{ $rootProperty }</strong>

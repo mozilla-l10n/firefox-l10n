@@ -21,6 +21,11 @@
 <!ENTITY dnsNotFound.pageTitle "سرور نہیں لبھیا">
 
 
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+<li> ایہ ہٹایا ونڄ سڳدا ہے، سوریا ونڄ سڳدا ہے، یا فائل دیاں اجازتاں رسائی کوں روک سڳدیاں ہن </li>
+</ul>
+">
 
 <!ENTITY generic.longDesc "
 <p> &brandShortName; بعض وجوہات دی بنا تے ایہ ورقہ لوڈ نہیں تھی سڳدا۔ </p>
@@ -39,6 +44,11 @@
 
 
 
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+<li> برائے مہربانی ایں مسئلے دے بارے ویب سائٹ دے مالکاں نال رابطہ کر تے انہاں کوں اطلاع کرو۔ </li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -78,6 +88,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY xfoBlocked.longDesc "<p> &brandShortName; ایں سیاق و سباق وِچ ایں ورقے کوں لوڈ تھیوݨ کنوں روکیا کیوں جو ورقہ وِچ ہک X-Frame-Options دی پالیسی ہے جیڑھی ایندی اجازت نہیں ݙیندی۔ </p>">
 
 
 <!ENTITY securityOverride.exceptionButton1Label "خطرے کوں قبول کرو تے جاری رکھو">

@@ -79,6 +79,8 @@ about-debugging-refresh-usb-devices-button = ڈیوائساں ریفریش کر�
 about-debugging-setup-title = سیٹ اپ
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = کنکشن دا او طریقہ ترتیب ݙیو جیندے نال تساں اپݨے آلے کوں پرے کنوں ڈیبگ کرݨ چاہندے او۔
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = { -brand-shorter-name } دے ایں ورژن تے ایکسٹینشنز تے سروس ورکرز کوں ڈیبگ کرݨ کیتے <a>{ about-debugging-this-firefox-runtime-name }</a> استعمال کرو۔
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = ہک آلہ جوڑو
 # USB section of the Setup page
