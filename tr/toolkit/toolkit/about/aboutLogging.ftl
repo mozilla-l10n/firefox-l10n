@@ -41,6 +41,7 @@ about-logging-logging-output-selection = Log çıktısı
 ## Logging presets
 
 about-logging-preset-networking-label = Ağ
+about-logging-preset-media-playback-label = Medya oynatma
 about-logging-preset-custom-label = Özel
 # Error handling
 about-logging-error = Hata:
