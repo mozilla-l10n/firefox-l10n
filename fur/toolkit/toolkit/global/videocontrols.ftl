@@ -46,3 +46,22 @@ videocontrols-picture-in-picture-toggle-label2 = Tire fûr chest video
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Tancj schermis tant divertiment. Riprodûs chest video intant che tu vasis altris robis.
 videocontrols-error-aborted = Cjariament dal video fermât.
+videocontrols-error-network = Riproduzion dal video interote par vie di un erôr di rêt.
+videocontrols-error-decode = Nol è pussibil riprodusi il video parcè che il file al è ruvinât.
+videocontrols-error-src-not-supported = Formât video o gjenar MIME no supuartât.
+videocontrols-error-no-source = Nissun video cjatât cun formât e gjenar MIME supuartâts.
+videocontrols-error-generic = Riproduzion video interote par vie di un erôr no cognossût.
+videocontrols-status-picture-in-picture = Chest video al è in riproduzion in modalitât Picture-in-Picture.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
