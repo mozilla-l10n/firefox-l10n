@@ -21,6 +21,7 @@ styleeditor-save-button = Shrani
 styleeditor-options-button =
     .tooltiptext = Možnosti Urejevalnika slogov
 styleeditor-media-rules = Pravila @media
+styleeditor-at-rules = Pravila @
 styleeditor-editor-textbox =
     .data-placeholder = Vnesite CSS.
 styleeditor-no-stylesheet = Ta stran ne vsebuje slogovnih predlog.
