@@ -43,7 +43,7 @@ permissions-remove-all =
 permission-dialog =
     .buttonlabelaccept = Shrani spremembe
     .buttonaccesskeyaccept = S
-permissions-autoplay-menu = Privzeto za vse spletne strani:
+permissions-autoplay-menu = Privzeto za vsa spletna mesta:
 permissions-searchbox =
     .placeholder = Išči po spletni strani
 permissions-capabilities-autoplay-allow =
@@ -143,7 +143,7 @@ permissions-site-autoplay-window =
 permissions-site-autoplay-window2 =
     .title = Nastavitve – Samodejno predvajanje
     .style = { permissions-window2.style }
-permissions-site-autoplay-desc = Tukaj lahko upravljate spletne strani, za katere ne veljajo privzete nastavitve samodejnega predvajanja.
+permissions-site-autoplay-desc = Tukaj lahko upravljate spletna mesta, za katera ne veljajo privzete nastavitve samodejnega predvajanja.
 
 ## Site Permissions - Notifications
 
