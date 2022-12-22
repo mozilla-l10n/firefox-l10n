@@ -969,3 +969,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = Το { -relay-brand-name } κρύβει την πραγματική σας διεύθυνση email για να σας προστατεύσει από παραβιάσεις δεδομένων και ανεπιθύμητα μηνύματα.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Θα προωθήσουμε όλα τα email από το <strong>{ $sitename }</strong> στο <strong>{ $useremail }</strong>.

@@ -8,6 +8,8 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = Το { -relay-brand-name } δεν μπόρεσε να δημιουργήσει νέα μάσκα. Κωδικός σφάλματος HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = Το { -relay-brand-name } δεν μπόρεσε να βρει επαναχρησιμοποιήσιμες μάσκες. Κωδικός σφάλματος HTTP: { $status }.
 
 ##
 
@@ -17,6 +19,9 @@ firefox-relay-get-unlimited-masks =
 firefox-relay-opt-in-confirmation-enable =
     .label = Συνέχεια
     .accesskey = Σ
+firefox-relay-opt-in-confirmation-disable =
+    .label = Να μην εμφανιστεί ξανά
+    .accesskey = Ν
 firefox-relay-opt-in-confirmation-postpone =
     .label = Όχι τώρα
     .accesskey = χ
