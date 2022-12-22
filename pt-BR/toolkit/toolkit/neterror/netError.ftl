@@ -44,7 +44,7 @@ neterror-dns-not-found-with-suggestion = Pretendia acessar <a data-l10n-name="we
 neterror-dns-not-found-hint-header = <strong>Se você digitou o endereço correto, pode:</strong>
 neterror-dns-not-found-hint-try-again = Tentar novamente mais tarde
 neterror-dns-not-found-hint-check-network = Verificar a conexão de rede
-neterror-dns-not-found-hint-firewall = Verificar se o { -brand-short-name } tem permissão para acessar a web (a conexão pode estar protegida por um firewall)
+neterror-dns-not-found-hint-firewall = Verificar se o { -brand-short-name } tem permissão para acessar a web (a conexão pode estar limitada por um firewall)
 neterror-file-not-found-filename = Verifique se o nome do arquivo tem letras maiúsculas ou outros erros de digitação.
 neterror-file-not-found-moved = Verifique se o arquivo foi movido, renomeado ou excluído.
 neterror-access-denied = Pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.
