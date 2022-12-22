@@ -56,4 +56,8 @@ about-logging-error = Памылка:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Недапушчальнае значэнне “{ $v }“ для ключа “{ $k }“
+about-logging-unknown-logging-preset = Невядомая папярэдняя налада вядзення журнала «{ $v }»
+about-logging-unknown-profiler-preset = Невядомая папярэдняя налада прафіліроўшчыка «{ $v }»
 about-logging-unknown-option = Невядомы параметр about:logging «{ $k }»
+about-logging-configuration-url-ignored = URL канфігурацыі праігнараваны
+about-logging-configured-via-url = Параметр сканфігурыраваны праз URL
