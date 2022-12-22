@@ -43,7 +43,7 @@ about-logging-logging-to-file = 記錄到檔案
 about-logging-logging-to-profiler = 記錄到 { -profiler-brand-name }
 about-logging-no-log-modules = 無
 about-logging-no-log-file = 無
-about-logging-logging-preset-selector-text = 預設記錄項目：
+about-logging-logging-preset-selector-text = 預設記錄類型：
 
 ## Logging presets
 
@@ -60,3 +60,10 @@ about-logging-error = 錯誤：
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Key「{ $k }」的值「{ $v }」無效
+about-logging-unknown-logging-preset = 預設記錄類型「{ $v }」未知
+about-logging-unknown-profiler-preset = 預設效能檢測類型「{ $v }」未知
+about-logging-unknown-option = about:logging 選項「{ $k }」未知
+about-logging-configuration-url-ignored = 已忽略設定網址
+about-logging-file-and-profiler-override = 無法同時強制輸出到檔案並忽略效能檢測器選項
+about-logging-configured-via-url = 透過網址設定的選項
