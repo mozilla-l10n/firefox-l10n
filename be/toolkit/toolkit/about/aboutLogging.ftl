@@ -34,6 +34,10 @@ about-logging-set-log-modules = Пазначыць модулі журнала
 about-logging-start-logging = Пачаць вядзенне журнала
 about-logging-stop-logging = Спыніць вядзенне журнала
 about-logging-info = Інфармацыя:
+about-logging-log-modules-selection = Выбар модуля журнала
+about-logging-new-log-modules = Новыя модулі журнала:
+about-logging-logging-output-selection = Вывад журнала
+about-logging-logging-to-file = Запіс у файл
 about-logging-logging-to-profiler = Запіс у { -profiler-brand-name }
 about-logging-no-log-modules = Няма
 about-logging-no-log-file = Няма
@@ -41,6 +45,7 @@ about-logging-no-log-file = Няма
 ## Logging presets
 
 about-logging-preset-networking-label = Сетка
+about-logging-preset-networking-description = Модулі журнала для дыягностыкі сеткавых праблем
 about-logging-preset-media-playback-label = Прайграванне медыя
 about-logging-preset-custom-label = Уласная
 # Error handling
