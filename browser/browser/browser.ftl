@@ -963,3 +963,12 @@ refresh-blocked-redirect-label = { -brand-short-name } 已阻止本頁面自動�
 refresh-blocked-allow =
     .label = 允許
     .accesskey = A
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } 可隱藏您的實際電子郵件地址，以幫助您降低受到資料外洩事件與垃圾信的影響。
+firefox-relay-offer-how-we-integrate = 若繼續，將可以直接從 { -brand-shorter-name } 密碼管理員產生新的 { -relay-brand-short-name } 轉寄信箱。
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = 我們會將所有 <strong>{ $sitename }</strong> 收到的電子郵件，轉寄到 <strong>{ $useremail }</strong>。

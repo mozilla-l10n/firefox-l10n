@@ -12,3 +12,4 @@ confirmation-hint-password-saved = 已儲存密碼！
 confirmation-hint-pin-tab = 已釘選！
 confirmation-hint-pin-tab-description = 在分頁上按右鍵以解除釘選
 confirmation-hint-send-to-device = 已送出！
+confirmation-hint-firefox-relay-mask-generated = 已產生新的 { -relay-brand-short-name } 轉寄信箱！
