@@ -166,10 +166,10 @@ permissions-site-location-window =
 permissions-site-location-window2 =
     .title = Nastavitve – Dovoljenja lokacije
     .style = { permissions-window2.style }
-permissions-site-location-desc = Naslednje spletne strani so zahtevale dostop do vaše lokacije. Določite lahko, katere spletne strani lahko dostopajo do vaše lokacije. Prav tako lahko zavrnete nove zahteve za dostop do vaše lokacije.
+permissions-site-location-desc = Naslednja spletna mesta so zahtevala dostop do vaše lokacije. Določite lahko, katera spletna mesta lahko dostopajo do vaše lokacije. Prav tako lahko zavrnete nove zahteve za dostop do lokacije.
 permissions-site-location-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o lokaciji
-permissions-site-location-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do vaše lokacije. Blokiranje dostopa do vaše lokacije lahko prekine nekatere funkcije spletnega mesta.
+permissions-site-location-disable-desc = To bo preprečilo, da bi katero koli spletno mesto, ki ni navedeno zgoraj, zahtevalo dovoljenje za dostop do vaše lokacije. Blokiranje dostopa do lokacije lahko povzroči nedelovanje nekaterih funkcij spletnega mesta.
 
 ## Site Permissions - Virtual Reality
 
@@ -179,10 +179,10 @@ permissions-site-xr-window =
 permissions-site-xr-window2 =
     .title = Nastavitve – Dovoljenja navidezne resničnosti
     .style = { permissions-window2.style }
-permissions-site-xr-desc = Naslednje spletne strani so zahtevale dostop do vaših naprav navidezne resničnosti. Določite lahko, katere spletne strani lahko dostopajo do vaših naprav navidezne resničnosti. Prav tako lahko zavrnete nove zahteve za dostop do vaših naprav navidezne resničnosti.
+permissions-site-xr-desc = Naslednja spletna mesta so zahtevala dostop do vaših naprav navidezne resničnosti. Določite lahko, katera spletna mesta lahko dostopajo do vaših naprav navidezne resničnosti. Prav tako lahko zavrnete nove zahteve za dostop do naprav navidezne resničnosti.
 permissions-site-xr-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o napravah navidezne resničnosti
-permissions-site-xr-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do vaših naprav navidezne resničnosti. Blokiranje dostopa do vaših naprav navidezne resničnosti lahko prekine nekatere funkcije spletnega mesta.
+permissions-site-xr-disable-desc = To bo preprečilo, da bi katero koli spletno mesto, ki ni navedeno zgoraj, zahtevalo dovoljenje za dostop do vaših naprav navidezne resničnosti. Blokiranje dostopa do naprav navidezne resničnosti lahko povzroči nedelovanje nekaterih funkcij spletnega mesta.
 
 ## Site Permissions - Camera
 
@@ -192,10 +192,10 @@ permissions-site-camera-window =
 permissions-site-camera-window2 =
     .title = Nastavitve – Dovoljenja kamere
     .style = { permissions-window2.style }
-permissions-site-camera-desc = Te spletne strani so zahtevale dostop do kamere. Določite lahko, katere spletne strani lahko dostopajo do kamere. Prav tako lahko zavrnete nove zahteve za dostop do kamere.
+permissions-site-camera-desc = Naslednja spletna mesta so zahtevala dostop do kamere. Določite lahko, katera spletna mesta lahko dostopajo do kamere. Prav tako lahko zavrnete nove zahteve za dostop do kamere.
 permissions-site-camera-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do kamere
-permissions-site-camera-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do kamere. Blokiranje dostopa do kamere lahko prekine nekatere funkcije spletnega mesta.
+permissions-site-camera-disable-desc = To bo preprečilo, da bi katero koli spletno mesto, ki ni navedeno zgoraj, zahtevalo dovoljenje za dostop do kamere. Blokiranje dostopa do kamere lahko povzroči nedelovanje nekaterih funkcij spletnega mesta.
 
 ## Site Permissions - Microphone
 
@@ -205,7 +205,7 @@ permissions-site-microphone-window =
 permissions-site-microphone-window2 =
     .title = Nastavitve – Dovoljenja mikrofona
     .style = { permissions-window2.style }
-permissions-site-microphone-desc = Te spletne strani so zahtevale dostop do mikrofona. Določite lahko, katere spletne strani lahko dostopajo do mikrofona. Prav tako lahko zavrnete nove zahteve za dostop do mikrofona.
+permissions-site-microphone-desc = Naslednja spletna mesta so zahtevala dostop do mikrofona. Določite lahko, katera spletna mesta lahko dostopajo do mikrofona. Prav tako lahko zavrnete nove zahteve za dostop do mikrofona.
 permissions-site-microphone-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do mikrofona
-permissions-site-microphone-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do mikrofona. Blokiranje dostopa do mikrofona lahko prekine nekatere funkcije spletnega mesta.
+permissions-site-microphone-disable-desc = To bo preprečilo, da bi katero koli spletno mesto, ki ni navedeno zgoraj, zahtevalo dovoljenje za dostop do mikrofona. Blokiranje dostopa do mikrofona lahko povzroči nedelovanje nekaterih funkcij spletnega mesta.

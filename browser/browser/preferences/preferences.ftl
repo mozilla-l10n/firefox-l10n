@@ -660,7 +660,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ponesite svoj splet s seboj
-sync-signedout-description2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
+sync-signedout-description2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh svojih naprav.
 sync-signedout-account-signin3 =
     .label = Prijava v sinhronizacijo …
     .accesskey = P
@@ -702,7 +702,7 @@ prefs-syncing-off = Sinhronizacija: ONEMOGOČENO
 prefs-sync-turn-on-syncing =
     .label = Vklopi sinhronizacijo …
     .accesskey = s
-prefs-sync-offer-setup-label2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
+prefs-sync-offer-setup-label2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh svojih naprav.
 prefs-sync-now =
     .labelnotsyncing = Sinhroniziraj zdaj
     .accesskeynotsyncing = z
@@ -807,6 +807,9 @@ forms-breach-alerts =
     .label = Prikaži opozorila o geslih za ogrožene spletne strani
     .accesskey = P
 forms-breach-alerts-learn-more-link = Več o tem
+relay-integration =
+    .label = Omogočite { -relay-brand-name } v { -brand-short-name }ovem upravitelju gesel
+relay-integration-learn-more-link = Več o tem
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Samodejno izpolni prijave in gesla
@@ -1009,6 +1012,9 @@ content-blocking-fingerprinters = Sledilce prstnih odtisov
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Bodite med prvimi, ki boste preizkusili novo zmogljivost na področju zasebnosti
     .accesskey = t
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Popolna zaščita pred piškotki zadrži piškotke na spletnem mestu, na katerem se nahajate, tako da jih sledilci ne morejo uporabiti za sledenje med različnimi spletnimi mesti.
 content-blocking-etp-standard-tcp-rollout-learn-more = Več o tem
