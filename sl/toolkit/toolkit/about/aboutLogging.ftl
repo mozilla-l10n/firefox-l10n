@@ -34,6 +34,7 @@ about-logging-set-log-modules = Nastavi dnevniške module
 about-logging-start-logging = Začni beleženje
 about-logging-stop-logging = Končaj beleženje
 about-logging-info = Podatki:
+about-logging-log-modules-selection = Izbira modula za beleženje
 about-logging-new-log-modules = Novi dnevniški moduli:
 about-logging-logging-to-file = Beleženje v datoteko
 about-logging-logging-to-profiler = Beleženje v { -profiler-brand-name(sklon: "tozilnik") }
@@ -53,5 +54,7 @@ about-logging-error = Napaka:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Neveljavna vrednost "{ $v }" za ključ "{ $k }"
+about-logging-unknown-logging-preset = Neznana prednastavitev beleženja "{ $v }"
 about-logging-unknown-option = Neznana možnost about:logging: "{ $k }"
 about-logging-configuration-url-ignored = URL z nastavitvami prezrt

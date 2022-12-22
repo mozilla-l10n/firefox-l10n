@@ -381,7 +381,7 @@ bookmark-panel =
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-identity-site-information = Podatki o strani za { $host }
+identity-site-information = Podatki o spletnem mestu { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
@@ -414,7 +414,7 @@ identity-permissions-storage-access-hint = Te stranke lahko uporabljajo piškotk
 identity-permissions-storage-access-learn-more = Več o tem
 identity-permissions-reload-hint = Za uveljavitev sprememb boste morda morali ponovno naložiti stran.
 identity-clear-site-data =
-    .label = Počisti piškotke in podatke te strani …
+    .label = Počisti piškotke in podatke spletnega mesta …
 identity-connection-not-secure-security-view = Niste varno povezani na to stran.
 identity-connection-verified = Varno ste povezani na to stran.
 identity-ev-owner-label = Potrdilo izdano:

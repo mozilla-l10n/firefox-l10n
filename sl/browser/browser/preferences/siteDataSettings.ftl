@@ -51,4 +51,4 @@ site-data-removing-desc = Izbris piškotkov in podatkov strani vas lahko odjavi 
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Brisanje piškotkov in podatkov strani vas lahko odjavi iz spletnih mest. Ali ste prepričani, da želite izbrisati piškotke in podatke strani za <strong>{ $baseDomain }</strong>?
-site-data-removing-table = Odstranjeni bodo piškotki in podatki naslednjih strani
+site-data-removing-table = Odstranjeni bodo piškotki in podatki naslednjih spletnih mest
