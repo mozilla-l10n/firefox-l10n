@@ -67,8 +67,10 @@ policy-Extensions = Installa, disinstalla o bloca estensiones. S'optzione de ins
 policy-ExtensionSettings = Gesti totu is aspetos de s'installatzione de estensiones.
 policy-ExtensionUpdate = Ativa o disativa s'atualizatzione automàtica de is estensiones.
 policy-FirefoxHome = Cunfigura Firefox Home.
+policy-FirefoxHome2 = Cunfigura { -firefox-home-brand-name }.
 policy-FlashPlugin = Permite o proibi s'impreu de su plugin de Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Fortza sa navigatzione direta de su situ de intranet imbetzes de aviare una chirca cando s'iscriet unu faeddu isceti in sa barra de is indiritzos.
+policy-Handlers = Cunfigura is gestores de aplicatziones predefinidos.
 policy-HardwareAcceleration = Si su valore est "false", s'atzellerada hardware est istudada.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Cunfigura e, si boles, bloca sa pàgina initziale.
@@ -94,6 +96,7 @@ policy-OfferToSaveLoginsDefault = Cunfigura su valore predefinidu pro permìtere
 policy-OverrideFirstRunPage = Càmbia sa pàgina ammustrada in sa prima esecutzione. Lassa bòidu custu critèriu si boles disativare sa visualizatzione de sa pàgina de prima esecutzione.
 policy-OverridePostUpdatePage = Càmbia sa pàgina "Novidades" ammustrada a pustis de is atualizatziones. Lassa bòidu custu critèriu si boles disativare sa visualizatzione de sa pàgina.
 policy-PasswordManagerEnabled = Ativa su sarvamentu de is craes is su gestore de is craes.
+policy-PasswordManagerExceptions = Impedi a { -brand-short-name } de sarvare craes pro sitos ispetzìficos.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Disativa o cunfigura PDF.js, su visualizadore de PDF inclùdidu in { -brand-short-name }
 policy-Permissions2 = Cunfigura is permissos pro càmera, micròfonu, positzione, notìficas e riprodutzione in automàticu.

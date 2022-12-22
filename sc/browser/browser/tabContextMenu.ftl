@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Agiunghe ischeda a sinnalibros
     .accesskey = s
+tab-context-bookmark-tab =
+    .label = Agiunghe s’ischeda a is sinnalibros…
+    .accesskey = A
 tab-context-open-in-new-container-tab =
     .label = Aberi in un'ischeda de cuntenutu noa
     .accesskey = c
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Move is ischedas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

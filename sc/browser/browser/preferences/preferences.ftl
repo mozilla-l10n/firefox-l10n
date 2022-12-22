@@ -800,6 +800,9 @@ forms-breach-alerts =
     .label = Ammustra avisos subra de is craes pro is sitos vìtima de violatzione de datos
     .accesskey = v
 forms-breach-alerts-learn-more-link = Àteras informatziones
+relay-integration =
+    .label = Ativa { -relay-brand-name } in su gestore de craes de { -brand-short-name }
+relay-integration-learn-more-link = Àteras informatziones
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Cumpleta in automàticu is credentziales e is craes
@@ -1004,6 +1007,9 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         Proa in anteprima sa funtzionalidade de riservadesa
         prus poderosa de semper
     .accesskey = P
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Sa protetzione totale de testimòngios cuntenet is testimòngios de su situ in ue t'agatas, aici is sighidores no ddos podent impreare pro ti sighire intre unu situ e s'àteru.
 content-blocking-etp-standard-tcp-rollout-learn-more = Àteras informatziones
