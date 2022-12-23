@@ -30,12 +30,14 @@ about-logging-set-log-file = Definir ficheiro de registo
 about-logging-set-log-modules = Definir módulos de registo
 about-logging-start-logging = Começar a registar
 about-logging-stop-logging = Parar de registar
+about-logging-info = Informação:
 about-logging-no-log-modules = Nenhum
 about-logging-no-log-file = Nenhum
 
 ## Logging presets
 
 about-logging-preset-networking-label = Rede
+about-logging-preset-media-playback-label = Reprodução de multimédia
 about-logging-preset-custom-label = Personalizar
 # Error handling
 about-logging-error = Erro:
