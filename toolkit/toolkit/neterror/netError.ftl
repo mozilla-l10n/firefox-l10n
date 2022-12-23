@@ -24,6 +24,9 @@ neterror-pref-reset-button = Ripristina impostazioni predefinite
 neterror-return-to-previous-page-button = Torna indietro
 neterror-return-to-previous-page-recommended-button = Torna indietro (consigliato)
 neterror-try-again-button = Riprova
+neterror-add-exception-button = Continua sempre per questo sito
+neterror-settings-button = Modifica impostazioni DNS
+
 neterror-view-certificate-link = Visualizza certificato
 
 ##
@@ -48,6 +51,23 @@ neterror-dns-not-found-hint-header = <strong>Se hai inserito l’indirizzo corre
 neterror-dns-not-found-hint-try-again = Riprovare più tardi
 neterror-dns-not-found-hint-check-network = Verificare la connessione alla rete
 neterror-dns-not-found-hint-firewall = Controllare che { -brand-short-name } abbia il permesso di accedere a Internet (la connessione potrebbe essere protetta da un firewall)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } non può proteggere la richiesta relativa all’indirizzo di questo sito utilizzando il nostro attendibile servizio di risoluzione dei nomi (DNS). Motivo:
+neterror-dns-not-found-trr-only-attackers = Se si prosegue, un soggetto di terze parti potrebbe essere in grado di vedere quali siti visiti o farti aprire un sito non affidabile.
+
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non è riuscito a connettersi a { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = La connessione a { $trrDomain } ha richiesto più tempo del previsto.
+neterror-dns-not-found-trr-offline = Nessuna connessione a Internet.
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } non ha trovato un indirizzo per questo sito web.
+neterror-dns-not-found-trr-server-problem = Si è verificato un problema con { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Problema inatteso.
+
+##
 
 neterror-file-not-found-filename = Verificare che il nome del file non contenga maiuscole o errori di battitura.
 neterror-file-not-found-moved = Verificare se il file è stato spostato, rinominato o rimosso.
