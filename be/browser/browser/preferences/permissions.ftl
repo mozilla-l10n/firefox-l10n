@@ -108,12 +108,12 @@ permissions-exceptions-https-only-desc = Вы можаце выключыць р
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Дазволеныя вэб-сайты - Выплыўныя вокны
+    .title = Дазволеныя вэб-сайты — Усплывальныя вокны
     .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
-    .title = Дазволеныя вэб-сайты - Выплыўныя вокны
+    .title = Дазволеныя вэб-сайты — Усплывальныя вокны
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена адкрываць выплыўныя вокны. Набярыце дакладны адрас сайта, якому вы хочаце дазволіць гэта, і націсніце Дазволіць.
+permissions-exceptions-popup-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена адкрываць усплывальныя вокны. Набярыце дакладны адрас сайта, якому вы хочаце дазволіць гэта, і націсніце Дазволіць.
 
 ## Exceptions - Saved Logins
 
