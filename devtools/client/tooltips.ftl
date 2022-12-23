@@ -27,6 +27,7 @@ inactive-css-not-display-block-on-floated = Vrijednost za <strong>display</stron
 inactive-css-property-is-impossible-to-override-in-visited = Zbog ograničenja <strong>:visited</strong> nije moguće nadjačati <strong>{ $property }</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije pozicionirani element.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne utječe na ovaj element, budući da <strong>overflow:hidden</strong> nije postavljeno.
+inactive-css-not-for-internal-table-elements = <strong> { $property } </strong> nema utjecaja na interne elemente tablice.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong> { $property } </strong> nema utjecaja na interne elemente tablice, osim na polja tablice.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
