@@ -36,3 +36,9 @@ more-from-moz-qr-code-firefox-mobile-img =
 more-from-moz-button-mozilla-vpn-2 = Ottieni VPN
 
 more-from-moz-learn-more-link = Ulteriori informazioni
+
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+
+more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = Proteggi la tua casella di posta e la tua identità con alias di posta elettronica gratuiti.
+more-from-moz-firefox-relay-button = Ottieni { -relay-brand-short-name }
