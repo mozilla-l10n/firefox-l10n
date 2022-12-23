@@ -1085,7 +1085,7 @@ permissions-autoplay-settings =
     .label = Налады…
     .accesskey = Н
 permissions-block-popups =
-    .label = Блакаваць выплыўныя вокны
+    .label = Блакаваць усплывальныя вокны
     .accesskey = Б
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
