@@ -106,12 +106,19 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = چھوڑݨ کنوں پہلے {
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = کھولݨ دی تصدیق کرو
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+       *[other] تساں { $tabCount } ٹیباں کھولݨ والے او۔ ایہ ورقیاں دے لوڈ تھیوݨ دے دوران { -brand-short-name } کوں سست کر سڳدا ہے۔ کیا تساں واقعی جاری رکھݨ چاہندے او؟
+    }
 tabbrowser-confirm-open-multiple-tabs-button = ٹیباں کھولو
 tabbrowser-confirm-open-multiple-tabs-checkbox = میکوں چتاوݨی ݙیو جݙاں ہک کنوں زیادہ ٹیباں کھولݨ نال { -brand-short-name } مَٹھا تھی سڳدا ہے
 
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = کیریٹ براؤزنگ
+tabbrowser-confirm-caretbrowsing-message = F7 دٻاوݨ نال کیریٹ براؤزنگ آن یا آف ویندی ہے۔ ایہ خصوصیت ویب ورقیاں وِچ ہک حرکت پذیر کرسر رکھیندا ہے، جیندے نال تساں کی بورڈ دے نال متن منتخب کر سڳدے او۔ کیا تساں کیریٹ براؤزنگ کوں آن کرݨ چاہندے او؟
 tabbrowser-confirm-caretbrowsing-checkbox = میکوں ایہ ڈائیلاگ بکس ولا نہ ݙکھاؤ۔
 
 ##

@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = انسٹال کرݨ وِچ خرابی
+opensearch-error-duplicate-desc = { -brand-short-name } "{ $location-url }" کنوں سرچ پلگ ان انسٹال نہیں کر سڳیا کیوں جو ایں ناں دا انجݨ پہلے کنوں موجود ہے۔
 opensearch-error-format-title = غلط فارمیٹ
 opensearch-error-format-desc = { -brand-short-name } ڳولݨ انجݨ انسٹال نہیں کر سڳدا: { $location-url }
 opensearch-error-download-title = ڈاؤن لوڈ نقص
