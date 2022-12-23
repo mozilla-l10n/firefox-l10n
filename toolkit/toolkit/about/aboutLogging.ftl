@@ -41,6 +41,7 @@ about-logging-logging-to-file = Запіс у файл
 about-logging-logging-to-profiler = Запіс у { -profiler-brand-name }
 about-logging-no-log-modules = Няма
 about-logging-no-log-file = Няма
+about-logging-logging-preset-selector-text = Папярэдняя налада вядзення журнала:
 
 ## Logging presets
 
