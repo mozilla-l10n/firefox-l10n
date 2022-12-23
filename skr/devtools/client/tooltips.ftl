@@ -38,6 +38,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> یا <strong>display:flex</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> یا <strong>display:inline-grid</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong> overflow:hidden </ strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
+inactive-css-ruby-element-fix = روبی متن دا <strong> فونٹ سائز</strong> تبدیل کرݨ دی کوشش کرو۔ { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -46,6 +47,7 @@ inactive-text-overflow-when-no-overflow-fix = <strong> overflow:hidden </ strong
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> ہیٹھ درج بروزرز کیتے حمایت یافتہ کائنی:
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> ہک تجرباتی خاصیت ہئی جو اب W3C معیارات کنوں فرسودہ ہے۔
 css-compatibility-deprecated-message = <strong>{ $property }</strong> W3C معیار کنوں فرسودہ ہے۔ ایہ ہیٹھ درج براؤزرز وِچ تعاون یافتہ کائنی:
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> W3C معیارات کنوں فرسودہ ہے۔

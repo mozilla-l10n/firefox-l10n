@@ -1067,6 +1067,7 @@ permissions-addon-exceptions =
 
 collection-header = { -brand-short-name } ڈیٹا کولیکشن تے استعمال
 collection-privacy-notice = رازداری نوٹس
+collection-health-report-telemetry-disabled = ہݨ تساں { -vendor-short-name } کوں تکنیکی تے تعامل دا ڈیٹا حاصل کرݨ دی اجازت نہیں ݙیندے پئے او۔ تمام پچھوکڑ دا ڈیٹا 30 ݙینہاں دے اندر حذف تھی ویسے۔
 collection-health-report-telemetry-disabled-link = ٻیا سِکھو
 collection-health-report =
     .label = { -brand-short-name } کوں { -vendor-short-name } تے تکنیکی تے انٹرایکشن ڈیٹا بھیڄݨ دی اجازت ݙیو
