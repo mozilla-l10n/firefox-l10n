@@ -402,8 +402,32 @@ recommended-theme-1 = Ti sintistu creatîf? <a data-l10n-name="link">Dissegne il
 extension-heading = Gjestìs lis tôs estensions
 theme-heading = Gjestìs i tiei temis
 plugin-heading = Gjestìs i tiei plugins
+dictionary-heading = Gjestìs i tiei dizionaris
+locale-heading = Gjestìs lis tôs lenghis
+updates-heading = Gjestìs i tiei inzornaments
+sitepermission-heading = Gjestìs i tiei permès dai sîts
+discover-heading = Personalize il to { -brand-short-name }
+shortcuts-heading = Gjestìs lis scurtis des estensions
+default-heading-search-label = Cjate altris components adizionâi
+addons-heading-search-input =
+    .placeholder = Cîr in addons.mozilla.org
+addon-page-options-button =
+    .title = Struments par ducj i components adizionâi
 
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
 
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } nol è compatibil cun { -brand-short-name } { $version }.
+details-notification-incompatible-link = Altris informazions
+details-notification-unsigned-and-disabled = Nol è stât pussibil verificâ { $name } pe utilizazion in { -brand-short-name } e duncje al è stât disativât.
+details-notification-unsigned-and-disabled-link = Altris informazions
+details-notification-unsigned = Nol è stât pussibil verificâ { $name } pe utilizazion in { -brand-short-name }. Continue cun cautele.
+details-notification-unsigned-link = Altris informazions
+details-notification-blocked = { $name } al è stât disativât par vie di problemis di sigurece o stabilitât.
+details-notification-blocked-link = Altris informazions
+details-notification-softblocked = Si sa che { $name } al cause problemis di sigurece o stabilitât.
+details-notification-softblocked-link = Altris informazions
+details-notification-gmp-pending = Chi di pôc { $name } al vignarà instalât.
