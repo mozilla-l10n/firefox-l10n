@@ -362,16 +362,46 @@ addon-badge-private-browsing-allowed2 =
     .title = Permetût tai barcons privâts
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Se e à il permès, la estension e varà l'acès aes tôs ativitâts in rêt te navigazion privade. <a data-l10n-name="learn-more">Plui informazions</a>
+addon-detail-private-browsing-allow = Permet
+addon-detail-private-browsing-disallow = No sta permeti
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = { -brand-product-name } al permet dome lis estensions che a sodisfin i nestris standards di sigurece e prestazions
+    .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Estension uficiâl realizade di Mozilla. E rispiete i standards di sigurece e prestazions
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = Cheste estension e je stade verificade pal rispiet dai standards di sigurece e prestazions
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
+available-updates-heading = Inzornaments disponibii
+recent-updates-heading = Inzornaments resints
+release-notes-loading = Daûr a cjamâ…
+release-notes-error = Nus displâs, ma al è sucedût un erôr intant che lis notis di publicazion a vignivin cjamadis.
+addon-permissions-empty = Cheste estension no domande nissun permès
+addon-permissions-required = Permès necessaris pes funzionalitâts fondamentâls:
+addon-permissions-optional = Permès facoltatîfs pes funzionalitâts adizionâls:
+addon-permissions-learnmore = Plui informazions sui permès
+recommended-extensions-heading = Estensions conseadis
+recommended-themes-heading = Temis conseâts
+addon-sitepermissions-required = Al da chestis funzionalitâts a <span data-l10n-name="hostname">{ $hostname }</span>:
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Ti sintistu creatîf? <a data-l10n-name="link">Dissegne il to teme cun Firefox Color.</a>
 
 ## Page headings
 
+extension-heading = Gjestìs lis tôs estensions
+theme-heading = Gjestìs i tiei temis
+plugin-heading = Gjestìs i tiei plugins
 
 ## Detail notifications
 ## Variables:
