@@ -377,7 +377,9 @@ identity-description-insecure = ການເຊື່ອມຕໍ່ຂອງເ
 identity-description-insecure-login-forms = ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ທ່ານໃສ່ໃນໜ້ານີ້ບໍ່ປອດໄພ ແລະອາດຈະຖືກທຳລາຍໄດ້.
 identity-description-weak-cipher-intro = ການເຊື່ອມຕໍ່ຂອງເຈົ້າກັບເວັບໄຊທ໌ນີ້ໃຊ້ການເຂົ້າລະຫັດທີ່ອ່ອນແອ ແລະບໍ່ແມ່ນສ່ວນຕົວ.
 identity-description-weak-cipher-risk = ຄົນອື່ນສາມາດເບິ່ງຂໍ້ມູນຂອງທ່ານຫຼືດັດແປງພຶດຕິກໍາຂອງເວັບໄຊທ໌.
+identity-description-passive-loaded = ການ​ເຊື່ອມ​ຕໍ່​ຂອງ​ທ່ານ​ບໍ່​ເປັນ​ສ່ວນ​ຕົວ​ແລະ​ຂໍ້​ມູນ​ທີ່​ທ່ານ​ແບ່ງ​ປັນ​ກັບ​ເວັບ​ໄຊ​ທ​໌​ສາ​ມາດ​ໄດ້​ຮັບ​ການ​ເບິ່ງ​ໂດຍ​ຄົນ​ອື່ນ​.
 identity-description-passive-loaded-insecure = ເວັບໄຊທ໌ນີ້ມີເນື້ອຫາທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ຮູບພາບ). <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
+identity-description-passive-loaded-mixed = ເຖິງແມ່ນວ່າ { -brand-short-name } ໄດ້ບລັອກເນື້ອຫາບາງຢ່າງ, ແຕ່ຍັງມີເນື້ອຫາຢູ່ໃນຫນ້າທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ຮູບພາບ). <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
 identity-description-active-loaded = ເວັບໄຊທ໌ນີ້ມີເນື້ອຫາທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ສະຄຣິບ) ແລະການເຊື່ອມຕໍ່ຂອງເຈົ້າກັບມັນບໍ່ແມ່ນສ່ວນຕົວ.
 identity-description-active-loaded-insecure = ຂໍ້ມູນທີ່ທ່ານແບ່ງປັນກັບເວັບໄຊນີ້ສາມາດຖືກເບິ່ງໂດຍຜູ້ອື່ນ (ເຊັ່ນ: ລະຫັດຜ່ານ, ຂໍ້ຄວາມ, ບັດເຄຣດິດ, ແລະອື່ນໆ).
 identity-learn-more =
