@@ -176,13 +176,13 @@ profiler-popup-presets-firefox-label =
 profiler-popup-presets-graphics-description = Папярэднія налады для даследавання хібаў графікі ў { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Графіка
-profiler-popup-presets-media-description2 = Папярэднія налады для даследавання хібаў гуку і відэа ў { -brand-shorter-name }.
+profiler-popup-presets-media-description2 = Папярэднія налады для даследавання памылак гуку і відэа ў { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Медыя
-profiler-popup-presets-networking-description = Папярэднія налады для даследавання сеткавых хібаў у { -brand-shorter-name }.
+profiler-popup-presets-networking-description = Папярэднія налады для даследавання сеткавых памылак у { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Сетка
-profiler-popup-presets-power-description = Папярэднія налады для даследавання хібаў спажывання энергіі ў { -brand-shorter-name }, з невялікімі выдаткамі.
+profiler-popup-presets-power-description = Папярэднія налады для даследавання памылак спажывання энергіі ў { -brand-shorter-name }, з невялікімі выдаткамі.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Сілкаванне
