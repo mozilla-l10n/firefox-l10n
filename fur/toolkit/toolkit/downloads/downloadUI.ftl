@@ -2,20 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-download-ui-confirm-title = Vuelistu scancelà dutis lis Discjamadis?
+download-ui-confirm-title = Anulâ ducj i discjariaments?
 
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
 download-ui-confirm-quit-cancel-downloads =
     { $downloadsCount ->
-        [1] Se tu jessis cumò, une discjariament al vignarà scancelât. Vuelistu pardabon lâ fûr?
-       *[other] Se tu jessis cumò, { $downloadsCount } discjariaments a vignaran scancelâts. Vuelistu pardabon lâ fûr?
+        [1] Se tu jessis cumò, une discjariament al vignarà anulâts. Vuelistu pardabon lâ fûr?
+       *[other] Se tu jessis cumò, { $downloadsCount } discjariaments a vignaran anulâts. Vuelistu pardabon lâ fûr?
     }
 download-ui-confirm-quit-cancel-downloads-mac =
     { $downloadsCount ->
-        [1] Se tu jessis cumò, un discjariament al vignarà scancelât. Vuelistu pardabon lâ fûr?
-       *[other] Se tu jessis cumò, { $downloadsCount } discjariament al vignarà scancelât. Vuelistu pardabon lâ fûr?
+        [1] Se tu jessis cumò, un discjariament al vignarà anulât. Vuelistu pardabon lâ fûr?
+       *[other] Se tu jessis cumò, { $downloadsCount } discjariament al vignarà anulât. Vuelistu pardabon lâ fûr?
     }
 download-ui-dont-quit-button =
     { PLATFORM() ->
