@@ -20,6 +20,12 @@
 
 <!ENTITY dnsNotFound.pageTitle "سرور نہیں لبھیا">
 
+<!ENTITY fileNotFound.longDesc "
+<ul>
+<li>کیپیٹلائزیشن یا ٹائپنگ دیاں ٻیاں غلطیاں کیتے فائل دا ناں چیک کرو۔</li>
+<li> ایہ ݙیکھݨ کیتے چیک کرو جو آیا فائل کوں منتقل، ناں تبدیل یا حذف کیتا ڳیا ہے۔</li>
+</ul>
+">
 
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
@@ -43,6 +49,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 
+<!ENTITY netOffline.longDesc2 "
+<ul>
+<li>دٻاؤ &quot;دوبارہ کوشش کرو &quot; آن لائن موڈ تے سوئچ کرݨ تے ورقہ کوں ولدا لوڈ کرݨ کیتے۔</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -66,6 +77,13 @@
 </ul>
 ">
 
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+<li> پراکسی ترتیباں کوں چیک کرو تاں جو ایہ یقینی بݨایا ونڄ سڳے جو او درست ہن۔</li>
+  <li>پراکسی سرور کوں یقینی بݨاوݨ کیتے اپݨے نیٹ ورک ایڈمنسٹریٹر نال رابطہ کرو۔
+کام کریندا پئے۔</li>
+</ul>
+">
 
 
 <!ENTITY redirectLoop.longDesc "
@@ -74,12 +92,22 @@
 </ul>
 ">
 
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+<li> ایہ یقینی بݨاوݨ کیتے چیک کرو جو تہاݙے سسٹم وِچ پرسنل سیکیورٹی مینیجر موجود ہے۔
+ انسٹال کیتا ڳیا ہے۔</li>
+<li> ایہ سرور تے غیر معیاری ترتیب دی وجہ توں تھی سڳدا ہے۔</li>
+</ul>
+">
 
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.sts.introPara "&brandShortName; ہک ممکنہ سیکورٹی خطرے دا پتہ لڳا ہے تے <span class='hostname'/> کوں جاری نہیں رکھیا کیوں جو ایں ویب سائٹ کوں ہک محفوظ کنکشن دی ضرورت ہے۔">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; کوں ہک مسئلہ دا پتہ لڳا تے <span class='hostname'/> کوں جاری نہیں رکھیا۔ ویب سائٹ یا تاں غلط کنفیگر تھئی ہے یا تہاݙی کمپیوٹر گھڑی غلط وقت تے سیٹ ہے۔">
+<!ENTITY certerror.expiredCert.sts.secondPara "امکان ہے جو ویب سائٹ دے سرٹیفکیٹ دی میعاذ مُک ڳئی ہے، جیڑھا &brandShortName; کوں روکیندا ہے۔ محفوظ طریقے نال جڑݨ کنوں۔">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "تساں ایں بارے کیا کر سڳدے او؟">
 
