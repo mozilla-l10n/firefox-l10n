@@ -45,6 +45,16 @@ neterror-dns-not-found-hint-header = <strong>Se l’adreça picada èra corrèct
 neterror-dns-not-found-hint-try-again = Tornar ensajar mai tard
 neterror-dns-not-found-hint-check-network = Verificar la connexion Internet
 neterror-dns-not-found-hint-firewall = Verificar que { -brand-short-name } a l’autorizacion d’accedir al Web (vòstra connexion poiriá èsser efectiva, mas protegida per un parafuòc)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-offline = Cap de connexion Internet.
+
+##
+
 neterror-file-not-found-filename = Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas) ;
 neterror-file-not-found-moved = Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.
 neterror-access-denied = Benlèu es estat suprimit, bolegat o las permissions del fichièr n'empacharián l'accès.

@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Astúcia :
 urlbar-result-menu-button =
     .title = Dobrir lo menú
+urlbar-result-menu-remove-from-history =
+    .label = Tirar de l’istoric
+    .accesskey = T
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -968,3 +971,12 @@ refresh-blocked-redirect-label = { -brand-short-name } a empachat la redireccion
 refresh-blocked-allow =
     .label = Autorizar
     .accesskey = A
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } agama vòstra adreça electronica vertadièra per ajudar a vos protegir contra las divulgacions de donadas e los messatges indesirables.
+firefox-relay-offer-how-we-integrate = En contunhant, poiretz generar un alias de messatjariá { -relay-brand-short-name } novèl dirèctament a partir del gestionari de senhals de { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Transferirem totes los messatges de <strong>{ $sitename }</strong> a <strong>{ $useremail }</strong>.
