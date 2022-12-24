@@ -290,6 +290,8 @@ quickactions-clearhistory = Ryd historik
 quickactions-cmd-clearhistory = ryd historik
 # Opens about:downloads page
 quickactions-downloads = Åbn Filhentninger
+# Opens about:downloads page
+quickactions-downloads2 = Vis filhentninger
 quickactions-cmd-downloads = hentede filer, filhentninger
 # Opens about:addons page in the extensions section
 quickactions-extensions = Håndter udvidelser
@@ -970,6 +972,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } skjuler din rigtige mailadresse for at beskytte dig mod datalæk og spam.
+firefox-relay-offer-how-we-integrate = Hvis du fortsætter, kan du oprette nye { -relay-brand-short-name }-mail-masker direkte fra adgangskode-håndteringen i din { -brand-shorter-name }.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages

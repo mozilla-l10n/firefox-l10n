@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Adgangskode gemt!
 confirmation-hint-pin-tab = Fastgjort!
 confirmation-hint-pin-tab-description = Højreklik på fanebladet for at frigøre det.
 confirmation-hint-send-to-device = Sendt!
+confirmation-hint-firefox-relay-mask-generated = Ny { -relay-brand-short-name }-maske oprettet!
