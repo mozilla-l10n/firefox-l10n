@@ -54,6 +54,7 @@ neterror-dns-not-found-hint-firewall = לבדוק של־{ -brand-short-name } י
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = ‏{ -brand-short-name } לא יכול להגן על הבקשה שלך עבור כתובת אתר זה באמצעות מפענח ה־DNS המהימן שלנו. הנה הסיבה:
+neterror-dns-not-found-trr-only-attackers = אם תמשיך, ייתכן שצד שלישי יוכל לראות באילו אתרים אתה מבקר, או לשלוח אותך לאתר לא מהימן.
 neterror-dns-not-found-trr-only-could-not-connect = ‏{ -brand-short-name } לא הצליח להתחבר אל { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = החיבור אל { $trrDomain } ארך זמן רב מהצפוי.
 neterror-dns-not-found-trr-offline = אין חיבור לאינטרנט.
