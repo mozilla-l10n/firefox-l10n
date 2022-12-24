@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = ਟੋਟਕਾ:
 urlbar-result-menu-button =
     .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
+urlbar-result-menu-remove-from-history =
+    .label = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
+    .accesskey = R
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -152,6 +155,8 @@ urlbar-result-menu-button =
 
 urlbar-search-tips-onboard = ਘੱਟ ਲਿਖੋ, ਵੱਧ ਲੱਭੋ: ਆਪਣੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ { $engineName } ਤੋਂ ਖੋਜੋ।
 urlbar-search-tips-redirect-2 = { $engineName } ਅਤੇ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਅਤੀਤ ਤੋਂ ਸੁਝਾਅ ਵੇਖਣ ਲਈ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਆਪਣੀ ਖੋਜ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = ਖੋਜਣਾ ਸੁਖਾਲਾ ਹੋ ਗਿਆ ਹੈ। ਆਪਣੀ ਖੋਜ ਨੂੰ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਹੋਰ ਵੱਧ ਸੀਮਿਤ ਕਰੋ। ਸੈਟਿੰਗਾਂ ਵਿੱਚ URL ਦੀ ਬਜਾਏ ਖੋਜ ਨੂੰ ਵੇਖੋ।
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ਜੋ ਤੁਹਾਨੂੰ ਫ਼ੌਰੀ ਚਾਹੀਦਾ ਹੋਵੇ, ਉਹ ਲੱਭਣ ਲਈ ਇਸ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਚੁਣੋ।
