@@ -57,6 +57,10 @@ neterror-dns-not-found-trr-only-reason = { -brand-short-name } no puede proteger
 neterror-dns-not-found-trr-only-attackers = Si continúa, un tercero podría ver qué sitios web visita o enviarlo a un sitio que no es de confianza.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } no pudo conectarse a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La conexión a { $trrDomain } tomó más tiempo de lo esperado.
+neterror-dns-not-found-trr-offline = No está conectado a Internet.
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } no encontró una dirección para este sitio web.
+neterror-dns-not-found-trr-server-problem = Hubo un problema con { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 
 ##
 
