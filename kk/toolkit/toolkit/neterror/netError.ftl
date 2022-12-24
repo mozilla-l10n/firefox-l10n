@@ -24,6 +24,8 @@ neterror-pref-reset-button = Бастапқы баптауларды қалпы�
 neterror-return-to-previous-page-button = Артқа
 neterror-return-to-previous-page-recommended-button = Артқа оралу (ұсынылады)
 neterror-try-again-button = Қайтадан көру
+neterror-add-exception-button = Бұл сайт үшін әрқашан жалғастыру
+neterror-settings-button = DNS бапталарын өзгерту
 neterror-view-certificate-link = Сертификатты қарау
 
 ##
@@ -45,6 +47,17 @@ neterror-dns-not-found-hint-header = <strong>Дұрыс адресті енгі�
 neterror-dns-not-found-hint-try-again = Әрекетті кейінірек қайталаңыз
 neterror-dns-not-found-hint-check-network = Желі байланысын тексеріңіз
 neterror-dns-not-found-hint-firewall = { -brand-short-name } үшін интернетке кіруге рұқсаты бар екенін тексеріңіз (сіз байланысқан, бірақ файрволл артында болуыңыз мүмкін)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } біздің сенімді DNS шешушісі арқылы осы сайт адресіне қатысты сұрауыңызды қорғай алмайды. Себебі:
+neterror-dns-not-found-trr-only-attackers = Жалғастырсаңыз, үшінші тарап сіз кірген веб-сайттарды көре алады немесе сізді сенімсіз сайтқа жібере алады.
+
+##
+
 neterror-file-not-found-filename = Файлдың енгізілген аты, үлкен-кіші әріптердің дұрыстығы, және басқа да қателер жоқ екеніне көз жеткізіңіз.
 neterror-file-not-found-moved = Файлдың аты ауысқан, ол өшірілген немесе басқа жаққа көшірілген болуы мүмкін.
 neterror-access-denied = Ол өшірілген, жылжытылған немесе файл рұқсаттары қатынауға жол бермеуі мүмкін.
