@@ -55,6 +55,11 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name } үшін интер
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } біздің сенімді DNS шешушісі арқылы осы сайт адресіне қатысты сұрауыңызды қорғай алмайды. Себебі:
 neterror-dns-not-found-trr-only-attackers = Жалғастырсаңыз, үшінші тарап сіз кірген веб-сайттарды көре алады немесе сізді сенімсіз сайтқа жібере алады.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } доменіне қосыла алмады.
+neterror-dns-not-found-trr-only-timeout = { $trrDomain } доменімен байланысты орнату күтілгеннен ұзағырақ уақыт алды.
+neterror-dns-not-found-trr-offline = Сіз интернетке қосылмағансыз.
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } бұл веб-сайттың адресін таба алмады.
+neterror-dns-not-found-trr-server-problem = { $trrDomain } қатысты мәселе бар.
 
 ##
 
