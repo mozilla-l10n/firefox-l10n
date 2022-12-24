@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = İpucu:
 urlbar-result-menu-button =
     .title = Menüyü aç
+urlbar-result-menu-remove-from-history =
+    .label = Geçmişten kaldır
+    .accesskey = G
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -971,6 +974,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } sizi veri ihlallerinden ve spam’den korumak için gerçek e-posta adresinizi maskeler.
+firefox-relay-offer-how-we-integrate = Devam ettiğinizde doğrudan { -brand-shorter-name } parola yöneticiniz üzerinden yeni { -relay-brand-short-name } e-posta maskeleri oluşturabileceksiniz.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
