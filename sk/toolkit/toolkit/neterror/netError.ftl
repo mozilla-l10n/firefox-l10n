@@ -24,6 +24,8 @@ neterror-pref-reset-button = Obnoviť predvolené nastavenia
 neterror-return-to-previous-page-button = Prejsť naspäť
 neterror-return-to-previous-page-recommended-button = Prejsť naspäť (odporúča sa)
 neterror-try-again-button = Skúsiť znova
+neterror-add-exception-button = Vždy pokračovať pre túto stránku
+neterror-settings-button = Zmeniť nastavenia DNS
 neterror-view-certificate-link = Zobraziť certifikát
 
 ##
@@ -45,6 +47,23 @@ neterror-dns-not-found-hint-header = <strong>Ak ste zadali správnu adresu, mô�
 neterror-dns-not-found-hint-try-again = Skúsiť to znova neskôr
 neterror-dns-not-found-hint-check-network = Skontrolovať pripojenie k sieti
 neterror-dns-not-found-hint-firewall = Skontrolovať, či má { -brand-short-name } povolenie na prístup na web (môžete byť pripojený, ale za bránou firewall)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } nedokáže ochrániť vašu žiadosť o adresu tohto webu prostredníctvom nášho dôveryhodného nástroja DNS resolver. Tu je dôvod:
+neterror-dns-not-found-trr-only-attackers = Ak budete pokračovať, tretia strana môže vidieť, aké webové stránky navštevujete, alebo vás môže poslať na nedôveryhodnú stránku.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name(case: "dat") } sa nepodarilo pripojiť k { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Pripojenie k { $trrDomain } trvalo dlhšie, ako sa očakávalo.
+neterror-dns-not-found-trr-offline = Nie ste pripojení na internet.
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } nenašla adresu tejto webovej stránky.
+neterror-dns-not-found-trr-server-problem = Vyskytol sa problém s { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Neočakávaný problém.
+
+##
+
 neterror-file-not-found-filename = Skontrolujte názov súboru, napríklad malé a veľké písmená alebo iné preklepy.
 neterror-file-not-found-moved = Skontrolujte, či súbor nebol premenovaný, presunutý alebo odstránený.
 neterror-access-denied = Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho oprávnenia.
