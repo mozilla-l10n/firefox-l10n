@@ -1,0 +1,77 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY loadError.label "ورقہ لوڈ کرݨ وِچ نقص">
+<!ENTITY retry.label "ولدا کوشش کرو">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "جڑݨ وِچ ناکام تھیا">
+<!ENTITY connectionFailure.longDesc "<p>بھانویں جو سائٹ درست معلوم تھیندی ہے، براؤزر کنکشن قائم کرݨ کنوں عاری ہا۔</p><ul><li>کیا سائٹ عارضی طور تے دستیاب نئیں تھی سڳدی؟ بعد وِچ دوبارہ کوشش کرو۔</li><li>کیا تساں ٻنہاں سائٹاں کوں براؤز کرݨ کنوں عاری او؟ کمپیوٹر دا نیٹ ورک کنکشن چیک کرو۔</li><li>کیا تہاݙا کمپیوٹر یا نیٹ ورک فائر وال یا پراکسی کنوں محفوظ ہے؟ غلط ترتیباں ویب براؤزنگ وِچ مداخلت کر سڳدیاں ہن۔</li></ul>">
+
+<!ENTITY deniedPortAccess.title "سیکورٹی وجوہات دی بنا تے پورٹ تے پابندی ہے۔">
+<!ENTITY deniedPortAccess.longDesc "<p>درخواست کردہ ایڈریس ہک پورٹ دی وضاحت کیتی ہے (جیویں <q>mozilla.org:80</q> mozilla.org تے پورٹ 80 کیتے) عام طور تے ویب براؤزنگ دے علاوہ <em>ٻئے</em> مقاصد کیتے استعمال تھیندا ہے۔ براؤزر تہاݙے تحفظ اور تحفظ دی درخواست کوں منسوخ کر ݙتا ہے۔</p>">
+
+<!ENTITY dnsNotFound.title "پتہ کائنی لبھا">
+
+<!ENTITY fileNotFound.title "فائل کائنی لبھی">
+<!ENTITY fileNotFound.longDesc "<ul><li>کیا آئٹم دا ناں تبدیل کیتا ونڄ سڳدا ہے، ہٹایا ونڄ سڳدا ہے، یا اینکوں تبدیل کیتا ونڄ سڳدا ہے؟</li><li>کیا پتہ وِچ املا، کیپیٹلائزیشن، یا کوئی ٻئی ٹائپوگرافیکل غلطی ہے؟</li><li>کیا تہاݙے کول مطلوبہ آئٹم تائیں رسائی دی کافی اجازت ہے؟</li></ul>">
+
+<!ENTITY fileAccessDenied.title "فائل تائیں رسائی مسترد کر ݙتی ڳئی ہائی">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>تھی سڳدا ہے اینکوں ہٹا ݙتا ڳیا ہووے، منتقل کیتا ڳیا ہووے یا فائل دیاں اجازتاں رسائی کوں روکیندیاں پیاں ہوون۔</li></ul>">
+
+<!ENTITY generic.title "ارداس پوری کائنی کر سڳدا">
+<!ENTITY generic.longDesc "<p>ایں مسئلے یا غلطی دے بارے اضافی معلومات فی الحال دستیاب کائنی۔</p>">
+
+<!ENTITY malformedURI.title "غلط پتہ">
+<!ENTITY malformedURI.longDesc "<p>فراہم کردہ پتہ کہیں تسلیم شدہ فارمیٹ وِچ کائنی۔ غلطیاں کیتے براہ مہربانی لوکیشن بار چیک کرو تے ولدا کوشش کرو۔</p>">
+
+<!ENTITY netInterrupt.title "ڈیٹا دی منتقلی وِچ خلل آڳیا ہے">
+
+<!ENTITY notCached.title "دستاویز زائدالمدت">
+
+<!ENTITY netOffline.title "آف لائن موڈ">
+
+<!ENTITY contentEncodingError.title "مواد اینکوڈ کرݨ وچ خرابی">
+<!ENTITY contentEncodingError.longDesc "<p> تساں جیڑھے ورقے کوں ݙیکھݨ دی کوشش کریندے پئے او اونکوں نہیں ݙکھایا ونڄ سڳدا کیوں جو ایہ کمپریشن دی غلط یا غیر تعاون یافتہ شکل دا استعمال کریندا ہے۔</p><ul><li>براہ مہربانی ویب سائٹ دے مالکاں کوں ایں مسئلے کنوں آگاہ کرݨ  کیتے رابطہ کرو۔</li> </ul>">
+
+<!ENTITY unsafeContentType.title "غیر محفوظ فائل قسم">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+<li> برائے مہربانی ایں مسئلے دے بارے ویب سائٹ دے مالکاں نال رابطہ کر تے انہاں کوں اطلاع کرو۔ </li>
+</ul>
+">
+
+<!ENTITY netReset.title "کنکشن وِچ خلل آ ڳیا ہے">
+<!ENTITY netReset.longDesc "<p>کنکشن تے ڳالھ مہاڑ کریندے ویلھے نیٹ ورک لنک وِچ خلل پئے ڳیا ہا۔ براہ مہربانی ولدا کوشش کرو۔</p>">
+
+<!ENTITY netTimeout.title "نیٹ ورک ٹائم آؤٹ">
+
+<!ENTITY unknownProtocolFound.title "نامعلوم پروٹوکول">
+
+<!ENTITY proxyConnectFailure.title "پراکسی سرور کنکشن دا انکار کر ݙتے">
+
+<!ENTITY proxyResolveFailure.title "پراکسی سرور کائنی لبھا">
+
+<!ENTITY redirectLoop.title "ری ڈائریکٹ لوپ">
+
+<!ENTITY unknownSocketType.title "غیر صحیح جواب">
+<!ENTITY unknownSocketType.longDesc "<p>سائٹ نیٹ ورک دی درخواست دا غیر متوقع طریقے نال جواب ݙتا تے براؤزر جاری نہیں رہ سڳدا۔</p>">
+
+<!ENTITY nssFailure2.title "قابل بھروسہ کنکشن ناکام تھی ڳیا">
+<!ENTITY nssFailure2.longDesc2 "<p> تساں جیڑھے ورقے کوں ݙیکھݨ دی کوشش کریندے پئے او اونکوں نہیں ݙکھایا ونڄ سڳدا کیوں جو وصول تھیوݨ والے ڈیٹا دی صداقت دی تصدیق نہیں تھی سڳی۔</p><ul><li>براہ مہربانی ویب سائٹ دے مالکاں نال رابطہ کرو تاں جو انہاں کوں ایں مسئلے بارے آگاہ کرو۔</li></ul>">
+
+<!ENTITY nssBadCert.title "قابل بھروسہ کنکشن ناکام تھی ڳیا">
+
+<!ENTITY securityOverride.linkText "یا تساں ہک استثناء شامل کر سڳدے او …">
+
+<!ENTITY cspBlocked.title "مواد دی حفاظت دی پالیسی دے ذریعے بلاک تھیا">
+<!ENTITY cspBlocked.longDesc "<p>براؤزر ایں ورقے کوں ایں طراں لوڈ تھیوݨ کنوں روک ݙتا کیوں جو ورقے وِچ مواد دی حفاظتی پالیسی ہے جیڑھی ایندی اجازت نہیں ݙیندی۔</p>">
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
