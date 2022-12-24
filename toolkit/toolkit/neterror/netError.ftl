@@ -24,6 +24,8 @@ neterror-pref-reset-button = Återställ standardinställningar
 neterror-return-to-previous-page-button = Gå tillbaka
 neterror-return-to-previous-page-recommended-button = Gå tillbaka (rekommenderas)
 neterror-try-again-button = Försök igen
+neterror-add-exception-button = Fortsätt alltid för den här webbplatsen
+neterror-settings-button = Ändra DNS-inställningar
 neterror-view-certificate-link = Visa certifikat
 
 ##
@@ -45,6 +47,17 @@ neterror-dns-not-found-hint-header = <strong>Om du har angett rätt adress kan d
 neterror-dns-not-found-hint-try-again = Försök igen senare
 neterror-dns-not-found-hint-check-network = Kontrollera din nätverksanslutning
 neterror-dns-not-found-hint-firewall = Kontrollera att { -brand-short-name } har behörighet att komma åt webben (du kan vara ansluten men bakom en brandvägg)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-attackers = Om du fortsätter kan en tredje part kanske se vilka webbplatser du besöker eller skicka dig till en opålitlig webbplats.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunde inte ansluta till { $trrDomain }.
+
+##
+
 neterror-file-not-found-filename = Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.
 neterror-file-not-found-moved = Kontrollera om filen flyttats, fått ett annat namn eller tagits bort.
 neterror-access-denied = Den kan ha tagits bort, flyttats eller så kan filrättigheter hindra tillgång.
