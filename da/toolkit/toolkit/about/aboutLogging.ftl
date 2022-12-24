@@ -25,6 +25,7 @@ about-logging-page-title = Log-håndtering
 about-logging-current-log-file = Aktuel logfil:
 about-logging-current-log-modules = Aktuelle logmoduler:
 about-logging-new-log-file = Ny logfil:
+about-logging-currently-enabled-log-modules = Aktuelt aktiverede logmoduler:
 about-logging-log-tutorial =
     Læs <a data-l10n-name="logging">HTTP Logging</a> 
     for vejledning til at bruge dette værktøj.
@@ -34,8 +35,11 @@ about-logging-set-log-file = Angiv logfil
 about-logging-set-log-modules = Angiv logmoduler
 about-logging-start-logging = Start logning
 about-logging-stop-logging = Stop logning
+about-logging-buttons-disabled = Logning er konfigureret med miljøvariabler, dynamisk konfiguration er ikke tilgængelig.
 about-logging-some-elements-disabled = Logning er konfigureret via URL, nogle indstillinger er ikke tilgængelige.
 about-logging-info = Info:
+about-logging-log-modules-selection = Valg af logmodul
+about-logging-new-log-modules = Nye logmoduler:
 about-logging-logging-output-selection = Output for logs
 about-logging-logging-to-profiler = Logger til { -profiler-brand-name }
 about-logging-no-log-modules = Ingen
@@ -45,8 +49,11 @@ about-logging-logging-preset-selector-text = Forindstilling for logging:
 ## Logging presets
 
 about-logging-preset-networking-label = Netværk
+about-logging-preset-networking-description = Logmoduler til at diagnosticere netværksproblemer
 about-logging-preset-media-playback-label = Medieafspilning
+about-logging-preset-media-playback-description = Logmoduler til at diagnosticere problemer med medieafspilning (ikke problemer med videokonferencer)
 about-logging-preset-custom-label = Tilpasset
+about-logging-preset-custom-description = Manuelt valgte logmoduler
 # Error handling
 about-logging-error = Fejl:
 
