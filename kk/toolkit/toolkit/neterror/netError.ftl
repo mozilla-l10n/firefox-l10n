@@ -59,7 +59,8 @@ neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trr
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } доменімен байланысты орнату күтілгеннен ұзағырақ уақыт алды.
 neterror-dns-not-found-trr-offline = Сіз интернетке қосылмағансыз.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } бұл веб-сайттың адресін таба алмады.
-neterror-dns-not-found-trr-server-problem = { $trrDomain } қатысты мәселе бар.
+neterror-dns-not-found-trr-server-problem = { $trrDomain } доменіне қатысты мәселе бар.
+neterror-dns-not-found-trr-unknown-problem = Күтпеген мәселе.
 
 ##
 
