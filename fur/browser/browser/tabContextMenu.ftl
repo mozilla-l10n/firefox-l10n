@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Met tai segnelibris la schede
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Zonte schede tai segnelibris…
+    .accesskey = b
 tab-context-open-in-new-container-tab =
     .label = Vierç intune gnove schede contignidôr
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
