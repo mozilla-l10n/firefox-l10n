@@ -75,6 +75,9 @@ deniedPortAccess-title = Địa chỉ này đã bị chặn
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Chúng tôi gặp khó khăn khi tìm trang web đó.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title = Rủi ro bảo mật có thể xảy ra đối với { $hostname }.
 fileNotFound-title = Không tìm thấy tập tin
 fileAccessDenied-title = Truy cập tập tin bị từ chối
 generic-title = Lỗi.
