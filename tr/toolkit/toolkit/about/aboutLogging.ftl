@@ -59,4 +59,4 @@ about-logging-error = Hata:
 about-logging-invalid-output = “{ $k }“ anahtarı için geçersiz “{ $v }“ değeri
 about-logging-unknown-logging-preset = Bilinmeyen log kaydı ön ayarı “{ $v }“
 about-logging-unknown-profiler-preset = Bilinmeyen profilleyici ön ayarı “{ $v }“
-about-logging-unknown-option = Bilinmeyen about:logging seçeneği “{ $v }“
+about-logging-unknown-option = Bilinmeyen about:logging seçeneği “{ $k }“
