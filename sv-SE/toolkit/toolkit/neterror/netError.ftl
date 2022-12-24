@@ -55,6 +55,11 @@ neterror-dns-not-found-hint-firewall = Kontrollera att { -brand-short-name } har
 
 neterror-dns-not-found-trr-only-attackers = Om du fortsätter kan en tredje part kanske se vilka webbplatser du besöker eller skicka dig till en opålitlig webbplats.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunde inte ansluta till { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Anslutningen till { $trrDomain } tog längre tid än förväntat.
+neterror-dns-not-found-trr-offline = Du är inte ansluten till internet.
+neterror-dns-not-found-trr-unknown-host = En adress för denna webbplats hittades inte av { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Det uppstod ett problem med { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Oväntat problem.
 
 ##
 
