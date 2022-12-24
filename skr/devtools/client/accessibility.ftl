@@ -25,18 +25,23 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = <code>alt</code> وصف کوں لیبل <div>علاقہ</div> عناصر کیتے استعمال کرو جنہاں وِچ <span>href</span> وصف ہے۔ <a>ودھی ڄاݨو</a>
 accessibility-text-label-issue-dialog = عنوانات دا لیبل لڳا ہووݨ ضروری ہے۔ <a> ودھیک ڄاݨو </a>
 accessibility-text-label-issue-document-title = دستاویز دا <code> عنوان </code> ہووݨ ضروری ہے۔ <a> ودھیک ڄاݨو </a>
 accessibility-text-label-issue-embed = ایمبیڈڈ مواد کوں لیبل لاوݨ ضروری ہے۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-figure = اختیاری کیپشن والے اعداد و شمار تے لیبل لاوݨا چاہیدا ہے۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-fieldset = <code> فیلڈ سیٹ </code> عناصر تے لیبل لڳا ہووݨا چاہیدا ہے۔ <a>ودھیک ڄاݨو </a>
+accessibility-text-label-issue-fieldset-legend2 = <span>فیلڈ سیٹ</span> کوں لیبل کرݨ کیتے ہک <code>legend</code> عنصر استعمال کرو۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-form = فارم دے عناصر کوں لیبل لاوݨ ضروری ہے۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-form-visible = فارم دے عناصر وِچ مرئی متن دا لیبل ہووݨا چاہیدا ہے۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-frame = <code> فریم </code> اجزا تے لیبل لڳا ہووݨا چاہیدا ہے۔ <a>ودھیک ڄاݨو</a>
+accessibility-text-label-issue-glyph = لیبل <span>mglyph</span> عناصر کیتے <code>alt</code> وصف دا استعمال کرو۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-heading = عنوانات تے لیبل لاوݨ ضروری ہے۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-heading-content = عنوانات وِچ مرئی متن دا مواد ہووݨا چاہیدا ہے۔ <a>ودھیک ڄاݨو</a>
+accessibility-text-label-issue-iframe = <span>iframe</span> مواد کوں بیان کرݨ کیتے <code>title</code> وصف دا استعمال کرو۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-image = تصویراں دے نال مواد تے لیبل لڳا ہووݨ ضروری ہے۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-interactive = انٹرایکٹو عناصر دا لیبل لڳا ہووݨ ضروری ہے۔ <a>ودھیک ڄاݨو</a>
+accessibility-text-label-issue-optgroup-label2 = کہیں <span>آپٹ گروپ</span> کوں لیبل کرݨ کیتے ہک <code>label</code> وصف استعمال کرو۔ <a>ودھیک ڄاݨو</a>
 accessibility-text-label-issue-toolbar = جݙاں ہک کنوں زیادہ ٹول بار ہوون تاں ٹول بارز تے لیبل لاوݨ ضروری ہے۔ <a> ٻیا سکھو </a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section

@@ -169,6 +169,9 @@ about-debugging-runtime-profile-button2 = پروفائل دی کارکردگی
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
 about-debugging-runtime-service-workers-not-compatible = تہاݙے براؤزر دی ترتیب سروس ورکرز دے نال مطابقت نہیں رکھیندی۔ <a>ودھیک ڄاݨو</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Firefox دا ایہ ورژن Firefox for Android (68) کوݨ ڈیبگ نہیں کر سڳدا۔ اساں جانچ کیتے تہاݙے فون تے Android Nightly کیتے Firefox انسٹال کرݨ دی تجویز کریندے او۔ <a>ودھیک تفصیلاں</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -214,6 +217,11 @@ about-debugging-tmp-extension-remove-button = ہٹاؤ
 # only visible in extensions that includes a non-persistent background script, either an
 # event page or a background service worker).
 about-debugging-tmp-extension-terminate-bgscript-button = پس منظر دے سکرپٹ کوں ختم کرو۔
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = manifest.json فائل یا .xpi/.zip آرکائیو منتخب کرو۔
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = ایں WebExtension دی ہک عارضی ID ہے۔ <a>ودھیک ڄاݨو</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
@@ -241,8 +249,25 @@ about-debugging-extension-backgroundscript =
 about-debugging-extension-backgroundscript-status-running = چلدا پیا ہے
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = رک ڳئے
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = دھکا ݙیو
+    .disabledTitle = سروس ورکر پش فی الحال ملٹی پروسیس { -brand-shorter-name } کیتے غیر فعال ہے۔
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = شروع کرو
+    .disabledTitle = سروس ورکر اسٹارٹ فی الحال ملٹی پروسیس { -brand-shorter-name } کیتے غیر فعال ہے۔
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = ریجسٹریشن ختم کرو
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = کڈھو
+    .value = واقعہ کڈھݨ کیتے سݨدا پئے
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = کڈھو
+    .value = واقعہ کڈھݨ کیتے نئیں سݨدا پیا
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = چلدا پیا ہے
@@ -269,10 +294,11 @@ about-debugging-main-process-name = مرکزی عمل
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = ہدف براؤزر کیتے اہم عمل
-# Displayed instead of the Main Process debug target when the preference
-# `devtools.browsertoolbox.fission` is true.
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باکس
-# Description for the Multiprocess Toolbox target.
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = ہدف براؤزر کیتے اہم عمل تے مواد دے عمل
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =

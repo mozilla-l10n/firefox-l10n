@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = پروفائلر دیاں ترتیباں
+perftools-intro-description =
+    ریکارڈنگز profiler.firefox.com کوں ہک نویں ٹیب وِچ لانچ کریندیاں ہن۔ تمام ڈیٹا محفوظ ہے۔
+    مقامی طور تے، پر تساں ایں سانجھ کیتے اپ لوڈ کرݨ دا انتخاب کر سڳدے او۔
 
 ## All of the headings for the various sections.
 
@@ -23,6 +26,13 @@ perftools-heading-local-build = مقامی تعمیر
 
 ##
 
+perftools-description-intro =
+    ریکارڈنگز <a>profiler.firefox.com</a> کوں ہک نویں ٹیب وِچ لانچ کریندیاں ہن۔ تمام ڈیٹا محفوظ ہے۔
+    مقامی طور تے، پر تساں ایندی سانجھ کیتے اپ لوڈ کرݨ دا انتخاب کر سڳدے او۔
+perftools-description-local-build =
+    جے تساں کہیں اینجھی اُساری دی پروفائلنگ کریندے پئے او جینکوں تساں خود مرتب کیتا ہے، ایندے اُوتے
+    مشین، براہ مہربانی تلے ݙتی ڳئی فہرست وِچ اپݨے بِلڈ دا اعتراض شامل کرو جو 
+    ایہ علامت دیاں معلوامت کوں ڳولݨ کیتے استعمال کیتا ونڄ سڳدا ہے۔
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -107,6 +117,7 @@ perftools-record-all-registered-threads = اوتلے انتخاب کوں نظر 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+perftools-onboarding-message = <b>نواں</b>: { -profiler-brand-name } ہݨ ڈویلپر ٹولز وِ ضم تھی ڳیا ہے۔ ایں طاقتور نویں ٹول دے بارے <a>ودھیک ڄاݨو</a>۔
 perftools-onboarding-close-button =
     .aria-label = آن بورڈنگ سنیہا بند کرو۔
 

@@ -26,6 +26,9 @@ whypaused-event-breakpoint = ایونٹ بریک پوائنٹ تے روک ݙتا
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = استثنیٰ تے روک ݙتا ڳیا۔
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = DOM میوٹیشن تے روک ݙتا ڳیا۔
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = شامل شدہ:

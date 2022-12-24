@@ -94,10 +94,16 @@ options-sourceeditor-keybinding-default-label = ڈیفالٹ
 options-context-advanced-settings = ایڈوانس ترتیباں
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP کیشے کوں غیر فعال کرو (جݙاں ٹول باکس کھلیا ہووے)
+options-disable-http-cache-tooltip =
+    .title = ایں آپشن کوں آن کرݨ نال انہاں تمام ٹیباں کیتے HTTP کیش غیر فعال تھی ویسے جنہاں وِچ ٹول باکس کھلا ہے۔ سروس ورکرز ایں اختیار نال متاثر نہیں تھیندے۔
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript غیر فعال بݨاؤ *
+options-disable-javascript-tooltip =
+    .title = ایں آپشن کوں آن کرݨ نال موجودہ ٹیب کیتے JavaScript غیر فعال تھی ویسے۔ جے ٹیب یا ٹول باکس بند ہے تاں ایہ ترتیب بھل ویسے۔
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = براؤزر کروم تے ایڈ آن ڈیبگنگ ٹول باکسز کوں فعال کرو۔
+options-enable-chrome-tooltip =
+    .title = ایں اختیار کوں آن کرݨ کنوں تہاکوں براؤزر دے سیاق و سباق وِچ مختلف ڈویلپر ٹولز استعمال کرݨ دی اجازت ملسے (ٹولز > ویب ڈیولپر > براؤزر ٹول باکس دے ذریعے) تے ایڈ آنز مینیجر کنوں ایڈ آنز کوں ڈیبگ کرو۔
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = ریموٹ ڈیبگنگ کوں فعال بݨاؤ
 options-enable-remote-tooltip2 =
