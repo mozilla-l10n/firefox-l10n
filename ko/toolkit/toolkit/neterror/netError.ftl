@@ -25,6 +25,7 @@ neterror-return-to-previous-page-button = 뒤로 가기
 neterror-return-to-previous-page-recommended-button = 뒤로 가기 (권장)
 neterror-try-again-button = 다시 시도
 neterror-add-exception-button = 이 사이트는 항상 계속 진행
+neterror-settings-button = DNS 설정 변경
 neterror-view-certificate-link = 인증서 보기
 
 ##
@@ -52,6 +53,7 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name }에 웹 액세스 �
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-attackers = 계속 진행하면, 제3자가 사용자가 방문하는 웹 사이트를 보거나 신뢰할 수 없는 사이트로 사용자를 보낼 수 있습니다.
 
 ##
 
