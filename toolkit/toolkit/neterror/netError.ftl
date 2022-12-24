@@ -24,6 +24,7 @@ neterror-pref-reset-button = 기본 설정으로 복원
 neterror-return-to-previous-page-button = 뒤로 가기
 neterror-return-to-previous-page-recommended-button = 뒤로 가기 (권장)
 neterror-try-again-button = 다시 시도
+neterror-add-exception-button = 이 사이트는 항상 계속 진행
 neterror-view-certificate-link = 인증서 보기
 
 ##
@@ -45,6 +46,15 @@ neterror-dns-not-found-hint-header = <strong>올바른 주소를 입력한 경�
 neterror-dns-not-found-hint-try-again = 나중에 다시 시도하세요
 neterror-dns-not-found-hint-check-network = 네트워크 연결을 확인해 보세요
 neterror-dns-not-found-hint-firewall = { -brand-short-name }에 웹 액세스 권한이 있는지 확인하세요 (연결되어 있지만 방화벽 뒤에 있을 수 있음)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+##
+
 neterror-file-not-found-filename = 파일 이름에 대문자 또는 기타 입력 오류가 있는지 확인해 보세요.
 neterror-file-not-found-moved = 파일이 이동, 이름 변경 또는 삭제되었는지 확인해 보세요.
 neterror-access-denied = 삭제, 이동 또는 권한이 없어서 접근할 수 없습니다.
