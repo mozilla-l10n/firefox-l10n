@@ -69,9 +69,14 @@
 <!ENTITY cspBlocked.title "مواد دی حفاظت دی پالیسی دے ذریعے بلاک تھیا">
 <!ENTITY cspBlocked.longDesc "<p>براؤزر ایں ورقے کوں ایں طراں لوڈ تھیوݨ کنوں روک ݙتا کیوں جو ورقے وِچ مواد دی حفاظتی پالیسی ہے جیڑھی ایندی اجازت نہیں ݙیندی۔</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options پالیسی دے ذریعے بلاک تھیا">
+<!ENTITY xfoBlocked.longDesc "<p>براؤزر ایں سیاق و سباق وِچ ایں ورقے کوں لوڈ تھیوݨ کنوں روک ݙتا کیوں جو ایں ورقے وِچ ہک X-Frame-Options دی پالیسی ہے جیڑھی ایندی اجازت نہیں ݙیندی۔</p>">
 
+<!ENTITY corruptedContentErrorv2.title "خراب مواد نقص">
 
+<!ENTITY inadequateSecurityError.title "تہاݙا کنکشن محفوظ کائنی۔">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY blockedByPolicy.title "بلاک تھیا ورقہ">
 
