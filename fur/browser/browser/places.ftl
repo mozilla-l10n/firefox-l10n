@@ -105,6 +105,9 @@ places-delete-bookmark =
            *[other] Elimine segnelibris
         }
     .accesskey = E
+places-untag-bookmark =
+    .label = Gjave etichete
+    .accesskey = G
 places-manage-bookmarks =
     .label = Gjestìs segnelibris
     .accesskey = M
@@ -112,6 +115,9 @@ places-forget-about-this-site-confirmation-title = Dismentee chest sît
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Cheste azion e gjavarà ducj i dâts relatîfs a { $hostOrBaseDomain } includude la cronologjie, lis passwords, i cookies, la cache e lis preferencis di contignût. Continuâ pardabon?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Cheste azion e gjavarà i dâts relatîfs a { $hostOrBaseDomain } includûts cronologjie, cookies, memorie cache e preferencis sui contignûts. I relatîfs segnelibris e lis passwords no vignaran gjavâts. Procedi pardabon?
 places-forget-about-this-site-forget = Dismentee
 places-library =
     .title = Librarie

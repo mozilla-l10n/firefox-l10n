@@ -15,6 +15,9 @@ permissions-address = Direzion dal sît web
 permissions-block =
     .label = Bloche
     .accesskey = B
+permissions-disable-etp =
+    .label = Zonte ecezion
+    .accesskey = e
 permissions-session =
     .label = Permet par cheste session
     .accesskey = P
@@ -80,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Ecezions pe protezion des spiis miorade
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Tu âs disativât lis protezions su chescj sîts web.
+permissions-exceptions-manage-etp-desc = Tu puedis specificâ su cuâi sîts web disativâ la protezion miorade da lis spiis. Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Zonte ecezion.
 
 ## Exceptions - Cookies
 

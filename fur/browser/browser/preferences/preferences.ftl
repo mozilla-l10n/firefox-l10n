@@ -184,12 +184,15 @@ preferences-web-appearance-header = Aspiet dai sîts web
 preferences-web-appearance-description = Cualchi sît web al adate il so scheme di colôrs in base aes tôs preferencis. Sielç cuâl scheme di colôrs doprâ par chei sîts.
 preferences-web-appearance-choice-browser = Teme di { -brand-short-name }
 preferences-web-appearance-choice-system = Teme di sisteme
+preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Clâr
 preferences-web-appearance-choice-dark = Scûr
 preferences-web-appearance-choice-tooltip-browser =
     .title = Va daûr dal teme di { -brand-short-name } pal fonts e pai contignûts dai sîts.
 preferences-web-appearance-choice-tooltip-system =
     .title = Va daûr des impostazions di sisteme pal fonts e pai contignûts dai sîts.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Cambie in automatic i fonts e il contignût in base aes impostazions dal sisteme e al teme di { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Dopre un aspiet clâr pal fonts e pai contignûts dai sîts.
 preferences-web-appearance-choice-tooltip-dark =
@@ -198,6 +201,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -587,6 +592,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostre i sugjeriments di ricercje tai risultâts de sbare de direzion
     .accesskey = M
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Mostre i tiermins di cirî invezit che l'URL te pagjine dai risultâts dal motôr di ricercje predefinît
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -789,6 +799,9 @@ forms-breach-alerts =
     .label = Mostre avîs pes passwords di sîts cjapadis dentri di violazions di dâts
     .accesskey = t
 forms-breach-alerts-learn-more-link = Plui informazions
+relay-integration =
+    .label = Ative { -relay-brand-name } sul to gjestôr des passwords di { -brand-short-name }
+relay-integration-learn-more-link = Plui informazions
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Compile in automatic credenziâls e passwords
@@ -940,7 +953,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motôrs di ricercje
     .accesskey = o
+addressbar-locbar-quickactions-option =
+    .label = Azions sveltis
+    .accesskey = Z
 addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai motôrs di ricercje
+addressbar-quickactions-learn-more = Plui informazions
 
 ## Privacy Section - Content Blocking
 
@@ -1101,6 +1118,12 @@ addon-recommendations-link = Plui informazions
 collection-health-report-disabled = La segnalazion di dâts e je stade disativade te configurazion di cheste compilazion
 collection-backlogged-crash-reports-with-link = Permet a { -brand-short-name } di inviâ a to non segnalazions di colàs regjistradis in precedence <a data-l10n-name="crash-reports-link">Plui informazions</a>
     .accesskey = c
+privacy-segmentation-section-header = Gnovis funzionalitâts che a miorin la navigazion
+privacy-segmentation-section-description = Cuant che us ufrìn funzionalitâts che a doprin i vuestris dâts par dâus esperience plui personâl:
+privacy-segmentation-radio-off =
+    .label = Dopre lis impostazions conseadis di { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Mostre informazions detaiadis
 
 ## Privacy Section - Security
 ##
