@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = 팁:
 urlbar-result-menu-button =
     .title = 메뉴 열기
+urlbar-result-menu-remove-from-history =
+    .label = 기록에서 삭제
+    .accesskey = R
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
