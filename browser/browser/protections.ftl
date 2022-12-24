@@ -80,12 +80,12 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Sus contraseñas se almacenan de forma segura.
     }
 lockwise-how-it-works-link = Cómo funciona
-monitor-title = Esté atento a las violaciones de datos
+monitor-title = Esté atento a las filtraciones de datos
 monitor-link = Cómo funciona
 monitor-header-content-no-account = Controle { -monitor-brand-name } para ver si fue parte de una filtración de datos conocida y para recibir alertas sobre nuevas violaciones.
 monitor-header-content-signed-in = { -monitor-brand-name } le advierte si su información apareció en una filtración de datos conocida.
-monitor-sign-up-link = Regístrese para recibir alertas de violaciones
-    .title = Regístrese  en { -monitor-brand-name } para recibir alertas de violaciones
+monitor-sign-up-link = Regístrese para recibir alertas de filtraciones
+    .title = Regístrese  en { -monitor-brand-name } para recibir alertas de filtraciones
 auto-scan = Escaneado automáticamente hoy
 monitor-emails-tooltip =
     .title = Ver las direcciones de correo electrónico monitoreadas en { -monitor-brand-short-name }
@@ -136,7 +136,7 @@ info-exposed-passwords-resolved =
 monitor-no-breaches-title = ¡Buenas noticias!
 monitor-no-breaches-description = No tiene filtraciones conocidas. Si eso cambia, se lo vamos a comunicar.
 monitor-view-report-link = Ver el informe
-    .title = Resolver las violaciones en { -monitor-brand-short-name }
+    .title = Resolver las filtraciones en { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Resuelva las filtraciones
 monitor-breaches-unresolved-description = Después de revisar los detalles de la filtraciones y tomar medidas para proteger su información personal, puede marcarlas como resueltas.
 monitor-manage-breaches-link = Administrar filtraciones
