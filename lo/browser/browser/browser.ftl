@@ -111,12 +111,16 @@ urlbar-tip-icon-description =
     .alt = ເຄັດລັບ:
 urlbar-result-menu-button =
     .title = ເປີດເມນູ
+urlbar-result-menu-remove-from-history =
+    .label = ລຶບອອກຈາກປະຫວັດ
+    .accesskey = R
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-redirect-2 = ເລີ່ມການຄົ້ນຫາຂອງທ່ານໃນແຖບທີ່ຢູ່ເພື່ອເບິ່ງຄໍາແນະນໍາຈາກ { $engineName } ແລະປະຫວັດການທ່ອງເວັບຂອງທ່ານ.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ເລືອກທາງລັດນີ້ເພື່ອຊອກຫາສິ່ງທີ່ທ່ານຕ້ອງການໄວຂຶ້ນ.
