@@ -74,3 +74,24 @@ abuse-report-broken-reason-extension-v2 = Nol funzione, al ruvine i sîts o al m
 abuse-report-broken-reason-sitepermission-v2 = Nol funzione, al ruvine i sîts o al moreste { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nol funzione o al ruvine la visualizazion dal navigadôr
 abuse-report-broken-example = Esempli: lis funzions a son lentis, dificilis di doprâ o no funzionin; parts dai sîts web no si cjariin o a vegnin visualizadis in mût strani
+abuse-report-broken-suggestions-extension =
+    Al somee che tu vedis cjatât un erôr. Sore a segnalâ il probleme achì, la robe miôr par risolvi
+    chest gjenar di problemis e je chê di contatâ il svilupadôr de estension.
+    <a data-l10n-name="support-link">Visite il sît web de estension</a> par cjatâ informazions sul svilupadôr.
+abuse-report-broken-suggestions-sitepermission =
+    Al somee che tu vedis cjatât un erôr. Sore a segnalâ il probleme achì, la robe miôr par risolvi
+    chest gjenar di problemis e je chê di contatâ il svilupadôr dal sît web.
+    <a data-l10n-name="support-link">Visite il sît web</a> par cjatâ informazions sul svilupadôr.
+abuse-report-broken-suggestions-theme =
+    Al somee che tu vedis cjatât un erôr. Sore a segnalâ il probleme achì, la robe miôr par risolvi
+    chest gjenar di problemis e je chê di contatâ il svilupadôr dal teme.
+    <a data-l10n-name="support-link">Visite il sît web dal teme</a> par cjatâ informazions sul svilupadôr.
+abuse-report-policy-reason-v2 = Al à contignûts ofensîfs, violents o ilegâi
+abuse-report-policy-suggestions =
+    Note: i problemis di marchis regjistradis o sui dirits d'autôr (copyright) a van segnalâts
+    doprant une procedure divierse.
+    <a data-l10n-name="report-infringement-link">Dopre chestis istruzions</a> par
+    segnalâ il probleme.
+abuse-report-unwanted-reason-v2 = No lu ai mai volût/volude e no sai cemût gjavâlu/le
+abuse-report-unwanted-example = Esempli: une aplicazion instalade cence il gno permès
+abuse-report-other-reason = Alc altri
