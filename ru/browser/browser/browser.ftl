@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Совет:
 urlbar-result-menu-button =
     .title = Открыть меню
+urlbar-result-menu-remove-from-history =
+    .label = Удалить из истории
+    .accesskey = и
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
