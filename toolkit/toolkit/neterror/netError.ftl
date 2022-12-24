@@ -54,6 +54,9 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name }에 웹 액세스 �
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-attackers = 계속 진행하면, 제3자가 사용자가 방문하는 웹 사이트를 보거나 신뢰할 수 없는 사이트로 사용자를 보낼 수 있습니다.
+neterror-dns-not-found-trr-offline = 인터넷에 연결되어 있지 않습니다.
+neterror-dns-not-found-trr-server-problem = { $trrDomain }에 문제가 있습니다.
+neterror-dns-not-found-trr-unknown-problem = 예기치 않은 문제.
 
 ##
 
