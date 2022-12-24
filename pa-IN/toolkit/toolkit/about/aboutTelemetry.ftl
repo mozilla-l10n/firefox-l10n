@@ -70,6 +70,11 @@ about-telemetry-histogram-stats =
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ਇਹ ਸਫ਼ਾ ਟੈਲੀਮੈਂਟਰੀ ਵਲੋਂ ਕਾਰਗੁਜ਼ਾਰੀ, ਹਾਰਡਵੇਅਰ, ਵਰਤੋਂ ਅਤੇ ਪਸੰਦ ਬਾਰੇ ਇੱਕਠੀ ਕੀਤੀ ਜਾਣਕਾਰੀ ਵੇਖਾਉਂਦਾ ਹੈ। ਇਹ ਜਾਣਕਾਰੀ ਨੂੰ { $telemetryServerOwner } ਨੂੰ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ { -brand-full-name } ਨੂੰ ਸੁਧਾਰਿਆ ਜਾ ਸਕੇ।
 about-telemetry-settings-explanation = ਟੈਲੀਮੈਂਟਰੀ { about-telemetry-data-type } ਇਕੱਤਰ ਕਰ ਰਿਹਾ ਹੈ ਅਤੇ <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> ਅੱਪਲੋਡ ਕਰਦਾ ਹੈ।
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = ਜਾਣਕਾਰੀ ਦੇ ਹਰ ਹਿੱਸੇ ਨੂੰ <a data-l10n-name="ping-link">ping</a> ਨਾਲ ਇਕੱਠਾ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ { $name }, { $timestamp } ping ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ।
+about-telemetry-data-details-current = ਜਾਣਕਾਰੀ ਦੇ ਹਰ ਹਿੱਸੇ ਨੂੰ <a data-l10n-name="ping-link">ping</a> ਨਾਲ ਇਕੱਠਾ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਮੌਜੂਦਾ ਡਾਟੇ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ।
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
