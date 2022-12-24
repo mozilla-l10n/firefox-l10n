@@ -14,6 +14,9 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = خدمت کارکنان
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = ٻئے ڈومینز دے سروس ورکرز کیتے <a>about:debugging</a> کھولو۔
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = ریجسٹریشن ختم کرو
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
@@ -43,6 +46,10 @@ serviceworker-worker-status-stopped = رکا ہویا
 serviceworker-empty-intro2 = کوئی خدمتگار نہیں ملیا
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = ٻیا سِکھو
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = جے موجودہ ورقہ وِچ ہک سروس ورکر ہووݨا چاہیدا ہے، تاں تساں <a>کنسول</a> وِچ غلطیاں ڳول سڳدے او یا <span>ڈیبگر</span> وِچ اپݨے سروس ورکر دی رجسٹریشن دے ذریعے قدم اٹھا سڳدے او۔
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = ٻئے ڈومیناں کنوں سروس ورکرز ݙیکھو
