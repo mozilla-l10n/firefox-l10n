@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Password salvade!
 confirmation-hint-pin-tab = Fissade!
 confirmation-hint-pin-tab-description = Clic-diestri ae schede par molâle.
 confirmation-hint-send-to-device = Mandade!
+confirmation-hint-firefox-relay-mask-generated = Gnove mascare di { -relay-brand-short-name } gjenerade!
