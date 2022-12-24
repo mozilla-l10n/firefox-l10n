@@ -47,6 +47,8 @@ firefoxview-tabpickup-password-locked-description = Per recuperar vòstres ongle
 firefoxview-tabpickup-password-locked-link = Ne saber mai
 firefoxview-tabpickup-password-locked-primarybutton = Picatz lo senhal màger
 firefoxview-tabpickup-signed-out-header = S’identificar per se reconnectar
+firefoxview-tabpickup-signed-out-description = Per vos reconnectar e trapar vòstres onglets, connectatz-vos a { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-primarybutton = Se connectar
 firefoxview-tabpickup-syncing = Esperatz mentre que se sincronizan los onglets. Durarà pas qu’un moment.
 firefoxview-mobile-promo-header = Recuperatz los onglets de vòstre mobil o vòstra tauleta
 firefoxview-mobile-promo-description = Per veire los darrièrs onglets de vòstre aparelh mobil, connectatz-vos a { -brand-product-name } sus iOS o Android.
@@ -57,6 +59,10 @@ firefoxview-closed-tabs-title = Tampats recentament
 firefoxview-closed-tabs-description2 = Tornatz dobrir las paginas qu’avètz tampadas dins aquesta pagina.
 firefoxview-closed-tabs-placeholder-header = Cap d’onglets pas tampat recentament
 firefoxview-closed-tabs-placeholder-body = Quand tampatz un onglet d’aquesta fenèstra, lo podètz trapar aicí.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Levar { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Darrièr actiu
 # Variables:
