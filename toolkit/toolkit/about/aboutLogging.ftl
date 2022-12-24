@@ -37,12 +37,18 @@ about-logging-info = Bilgi:
 about-logging-log-modules-selection = Log modülü seçimi
 about-logging-new-log-modules = Yeni log modülleri:
 about-logging-logging-output-selection = Log çıktısı
+about-logging-no-log-modules = Yok
+about-logging-no-log-file = Yok
+about-logging-logging-preset-selector-text = Log kaydı ön ayarı:
 
 ## Logging presets
 
 about-logging-preset-networking-label = Ağ
+about-logging-preset-networking-description = Ağ sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-media-playback-label = Medya oynatma
+about-logging-preset-media-playback-description = Medya oynatma sorunlarını teşhis etmeye yönelik log modülleri (video konferans sorunları hariç)
 about-logging-preset-custom-label = Özel
+about-logging-preset-custom-description = Log modüllerini kendim seçeceğim
 # Error handling
 about-logging-error = Hata:
 
@@ -51,3 +57,6 @@ about-logging-error = Hata:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = “{ $k }“ anahtarı için geçersiz “{ $v }“ değeri
+about-logging-unknown-logging-preset = Bilinmeyen log kaydı ön ayarı “{ $v }“
+about-logging-unknown-profiler-preset = Bilinmeyen profilleyici ön ayarı “{ $v }“
+about-logging-unknown-option = Bilinmeyen about:logging seçeneği “{ $v }“
