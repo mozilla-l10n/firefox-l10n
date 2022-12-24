@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = ٹوٹکا:
 urlbar-result-menu-button =
     .title = مینیو کھولو
+urlbar-result-menu-remove-from-history =
+    .label = تاریخ کنوں مٹاؤ
+    .accesskey = R
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -419,6 +422,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = تساں ایں سائٹ دے نال غیر محفوظ طریقے نال جڑے ہوئے او۔
 identity-connection-verified = تساں ایں سائٹ دے نال محفوظ طریقے نال جڑے ہوئے او۔
 identity-ev-owner-label = تصدیق نانواں جاری کیتا ڳیا:
+identity-description-custom-root = Mozilla ایں سرٹیفکیٹ جاری کنندہ کوں نہیں سنڄاݨدا۔ تھی سکتا ہے اینکوں تہاݙے آپریٹنگ سسٹم کنوں یا کہیں منتظم دے ذریعے شامل کیتا ڳیا ہو۔ <label data-l10n-name="link">ودھیک ڄاݨو</label>
 identity-remove-cert-exception =
     .label = استثنا ہٹاؤ
     .accesskey = R
@@ -429,6 +433,7 @@ identity-description-weak-cipher-risk = ٻئے لوک تہاݙی معلومات 
 identity-description-active-blocked = { -brand-short-name }  ایں ورقے دے او حصے بلاک کر ݙتے ہن جیڑھے جو قابل بھروسا کائنی۔ <label data-l10n-name="link">ودھیک سیکھو</label>
 identity-description-passive-loaded = تہاݙا کنکشن نجی کائنی تے وہ معلومات جیڑھیاں تساں سائٹ تے سانجھے کریسو ٻئے لوک ݙیکھ سڳسن۔
 identity-description-passive-loaded-insecure = ایں ویب سائٹ وچ مواد شامل ہے جیڑھا جو قابل بھروسا کائنی (جیویں جو تصویراں)۔ <label data-l10n-name="link">ودھیک سیکھو </label>
+identity-description-passive-loaded-mixed = بھانویں جو { -brand-short-name } کجھ مواد کوں بلاک کر ݙتا ہے، پر ورقے تے ہݨ وی اینجھا مواد موجود ہے جیڑھا محفوظ کائنی (جیویں تصویراں)۔ <label data-l10n-name="link">ودھیک ڄاݨو </label>
 identity-description-active-loaded = ایں ویب سائٹ وِچ اینجھا مواد شامل ہے جیڑھا جو قابل بھروسا کائنی (جیویں جو لکھتاں) تے ایندے نال تہاݙا کنکشن قابل بھروسا کائنی۔
 identity-description-active-loaded-insecure = او معلومات جیڑھیاں تساں ایں سائٹ تے سانجھیاں کریندے ہو او ٻئے لوک ݙیکھ سڳسن (جیویں جو پاس ورڈز، تصویراں، کریڈٹ کارڈز، وغیرہ)۔
 identity-learn-more =
@@ -932,6 +937,8 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>پچھلیاں ٹیباں کھولو؟</strong> تساں تاریخ دے تحت { -brand-short-name } ایپلیکیشن مینیو <img data-l10n-name="icon"/> کنوں اپݨے پچھلے سیشن کوں بحال کر سڳدے او۔
 restore-session-startup-suggestion-button = میکوں ݙکھاؤ کیویں
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -969,6 +976,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } ڈیٹا دیاں خلاف ورزیاں تے سپام کنوں تہاݙی حفاظت وِچ مدد کیتے تہاݙے حقیقی ای میل ایڈریس کوں ماسک کریندا ہے۔
+firefox-relay-offer-how-we-integrate = جاری رکھ تے،  تساں اپݨے { -brand-shorter-name } پاس ورڈ مینیجر کنوں براہ راست نویں { -relay-brand-short-name } ای میل ماسک تیار کر سڳدے او۔
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages

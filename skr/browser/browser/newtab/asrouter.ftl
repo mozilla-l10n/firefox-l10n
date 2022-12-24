@@ -108,6 +108,7 @@ cfr-doorhanger-doh-secondary-button = غیر فعال
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = تہاݙی رازداری اہم ہے۔ { -brand-short-name } ہݨ ویب سائٹاں کوں ہک ٻئے کنوں انج کر ݙیندا ہے، جیندے نال ہیکرز کیتے پاس ورڈ، کریڈٹ کارڈ نمبر، تے ٻئاں حساس معلومات چراوݨ مشکل تھی ویندا ہے۔
 cfr-doorhanger-fission-header = سائٹ علیحدگی
 cfr-doorhanger-fission-primary-button = ٹھیک ہے، میکوں سمجھ آ ڳئی ہے
     .accesskey = O
@@ -136,6 +137,7 @@ spotlight-learn-more-expanded = ٻیا سکھو
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = ایویں لڳدا ہے جو تساں عوامی Wi-Fi استعمال کریندے پئے او۔
+spotlight-public-wifi-vpn-body = اپݨے مقام تے براؤزنگ دی سرگرمی کوں لکاوݨ کیتے، ورچوئل پرائیویٹ نیٹ ورک تے غور کرو۔ ہوائی اڈیاں تے کافی دیاں دکاناں جیویں عوامی مقامات تے براؤز کریندے ویلھے ایہ تہاکوں محفوظ رکھݨ وِچ مدد کریسے۔
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } نال پرائیویٹ رہو
     .accesskey = S
 spotlight-public-wifi-vpn-link = ہݨ نہ
@@ -156,6 +158,7 @@ cfr-total-cookie-protection-header = تہاݙا شکریہ، { -brand-short-name
 spotlight-better-internet-header = تہاݙے نال ہک بہتر انٹرنیٹ شروع تھیندا پئے
 spotlight-better-internet-body = جݙاں تساں { -brand-short-name } استعمال کریندے او، تاں تساں ہک کھلے تے قابل رسائی انٹرنیٹ کیتے ووٹ ݙیندے او جیڑھا سبھ کیتے بہتر ہووے۔
 spotlight-peace-mind-header = اساں تہاکوں ویڑھ گھدا ہے۔
+spotlight-peace-mind-body = ہر مہینے، { -brand-short-name } فی صارف اوسطاً 3,000 کنوں زیادہ ٹریکرز کوں روکیندا ہے۔ کیوں جو کجھ وی کائنی، خاص طور تے رازداری دیاں پریشانیاں جیویں ٹریکرز، تہاݙے ٻہوں چنڳے انٹرنیٹ دے درمیان کھڑے نہیں ہووݨا چاہیدا ۔
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] ڈاک اِچ رہو

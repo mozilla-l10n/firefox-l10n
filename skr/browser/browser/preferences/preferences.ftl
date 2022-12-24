@@ -155,6 +155,11 @@ browser-containers-settings =
     .label = ترتیباں …
     .accesskey = i
 containers-disable-alert-title = تمام کنٹینر ٹیباں بند کرو؟
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] جے تساں ہݨ کنٹینر ٹیباں کوں غیر فعال کریندے او تاں، { $tabCount } کنٹینر ٹیب بند تھی ویسے۔ کیا تساں واقعی کنٹینر ٹیباں کوں غیر فعال کرݨ چاہندے او؟
+       *[other] جے تساں ہݨ کنٹینر ٹیباں کوں غیر فعال کریندے او تاں، { $tabCount } کنٹینر ٹیباں بند تھی ویسن۔ کیا تساں واقعی کنٹینر ٹیباں کوں غیر فعال کرݨ چاہندے او؟
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] کنٹینر ٹیب { $tabCount } بند کرو
@@ -162,6 +167,13 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = فعال رکھو
 containers-remove-alert-title = ایہ کنٹینر ہٹاؤ؟
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] جے تساں ہݨ ایں کنٹینر کوں ہٹیندے او تاں، { $count } کنٹینر ٹیب بند تھی ویسے۔ کیا تساں واقعی ایں کنٹینر کوں ہٹاوݨ چاہندے او؟
+       *[other] { "" }
+    }
 containers-remove-ok-button = ایہ کنٹینر ہٹاؤ
 containers-remove-cancel-button = ایہ کنٹینر نہ ہٹاؤ
 
@@ -169,6 +181,7 @@ containers-remove-cancel-button = ایہ کنٹینر نہ ہٹاؤ
 
 language-and-appearance-header = زبان تے ظاہری شکل
 preferences-web-appearance-header = ویب سائٹ دی ظاہری شکل
+preferences-web-appearance-description = کجھ ویب سائٹاں تہاݙیاں ترجیحاں دی بنیاد تے اپݨی رنگ سکیم کوں اپݨیندیدیاں ہن۔ منتخب کرو جو تساں انہاں سائٹاں کیتے کیڑھی رنگ سکیم استعمال کرݨ چاہندے او۔
 preferences-web-appearance-choice-browser = { -brand-short-name } تھیم
 preferences-web-appearance-choice-system = نظام تھیم
 preferences-web-appearance-choice-auto = آپوں ڄاݨ
@@ -406,6 +419,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = مواد دی عمل دی حد
     .accesskey = l
 performance-limit-content-process-enabled-desc = متعدد ٹیباں استعمال کریندے ویلھے اضافی مواد دے عمل کارکردگی کوں بہتر بݨا سڳدے ہن، پر زیادہ میموری وی استعمال کریسن۔
+performance-limit-content-process-blocked-desc = مواد دے عمل دی تعداد وِچ ترمیم کرݨ صرف ملٹی پروسیس { -brand-short-name } نال ممکن ہے۔ <a data-l10n-name="learn-more"> تے ڄاݨو جو کیویں چیک کریجے جو آیا ملٹی پروسیس فعال ہے</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -634,6 +648,15 @@ sync-signedout-description2 = اپݨے تمام آلات تے اپݨے نشان�
 sync-signedout-account-signin3 =
     .label = سینک کرݨ کیتے سائن ان تھیوو …
     .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> یا <img data-l10n-name="ios-icon کیتے Firefox ڈاؤن لوڈ کرو "/> اپݨے موبائل آلے دے نال مطابقت پذیری کیتے <a data-l10n-name="ios-link">iOS</a>۔
 
 ## Firefox Account - Signed in
 
@@ -931,6 +954,7 @@ addressbar-quickactions-learn-more = ٻیا سِکھو
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت
+content-blocking-section-top-level-description = ٹریکرز تہاݙی براؤزنگ دیاں عادتاں تے دلچسپیاں دے بارے معلومات کٹھا کرݨ کیتے آن لائن تہاݙی پیروی کریندے ہن۔ { -brand-short-name } انہاں وِچوں ٻہوں سارے ٹریکرز تے ٻئے بدنیتی تے مبنی سکرپٹس کوں روکیندا ہے۔
 content-blocking-learn-more = ٻیا سِکھو
 content-blocking-fpi-incompatibility-warning = تساں فرسٹ پارٹی آئسولیشن (FPI) استعمال کریندے پئے او، جیڑھا { -brand-short-name } دیاں کجھ کوکی ترتیباں کوں اوور رائیڈ کریندا ہے۔
 
@@ -980,6 +1004,7 @@ content-blocking-etp-standard-tcp-rollout-description = ٹوٹل کوکی پرو
 content-blocking-etp-standard-tcp-rollout-learn-more = ٻیا سِکھو
 content-blocking-etp-standard-tcp-title = بشمول ٹوٹل کوکی پروٹیکشن ، اساݙی ہݨ تک دی سبھ توں طاقتور رازداری دی خصوصیت
 content-blocking-warning-title = دھیان ݙیو!
+content-blocking-and-isolating-etp-warning-description-2 = ایں ترتیب دی وجہ توں کجھ ویب سائٹاں مواد کوں ظاہر نہیں کر سڳدیاں یا صحیح طریقے نال کم نہیں کر سڳدیاں ہن۔ جے کوئی سائٹ ترٹی ہوئی معلوم تھیندی ہے، تاں تھی سڳدا ہے جو تساں تمام مواد کوں لوڈ کرݨ کیتے ایں سائٹ کیتے ٹریکنگ پروٹیکشن آف کرݨا چاہو۔
 content-blocking-warning-learn-how = ڄاݨو کیویں
 content-blocking-reload-description = تہاکوں انہاں تبدیلیاں کوں لاڳو کرݨ کیتے اپݨیاں ٹیباں کوں دوبارہ لوڈ کرݨ دی لوڑ پوسے۔
 content-blocking-reload-tabs-button =
@@ -1066,6 +1091,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ڈیٹا کولیکشن تے استعمال
+collection-description = اساں تہاکوں انتخاب فراہم کرݨ دی کوشش کریندے ہیں تے صرف اوہو جمع کریندے ہیں جیڑھا اساکوں فراہم کرݨ تے ہر ہک کیتے { -brand-short-name } کوں بہتر بݨاوݨ دی ضرورت ہے۔ اساں ذاتی معلومات حاصل کرݨ توں پہلے ہمیشاں اجازت طلب کریندے ہیں۔
 collection-privacy-notice = رازداری نوٹس
 collection-health-report-telemetry-disabled = ہݨ تساں { -vendor-short-name } کوں تکنیکی تے تعامل دا ڈیٹا حاصل کرݨ دی اجازت نہیں ݙیندے پئے او۔ تمام پچھوکڑ دا ڈیٹا 30 ݙینہاں دے اندر حذف تھی ویسے۔
 collection-health-report-telemetry-disabled-link = ٻیا سِکھو
@@ -1124,6 +1150,8 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = ترتیباں کھولو
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } وِچ ڈسک دی جاہ ختم تھیندی پئی ہے۔</strong> تھی سڳدا ہے ویب سائٹ دے مواد ٹھیک طراں ظاہر نہ تھیون۔ تساں ترتیباں > رازداریی تے سیکیورٹی > کوکیاں تے سائٹ ڈیٹا وِچ محفوظ کردہ ڈیٹا کوں صاف کر سڳدے او۔
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } وِچ ڈسک دی جگہ ختم تھیندی پئی ہے۔</strong> تھی سڳدا ہے ویب سائٹ دے مواد ٹھیک طراں ظاہر نہ تھیون۔ براؤزنگ دے بہتر تجربے کیتے اپݨی ڈسک دے استعمال کوں بہتر بݨاوݨ کیتے "ودھیک ڄاݨو" تے ونڄو۔
 
 ## Privacy Section - HTTPS-Only
 

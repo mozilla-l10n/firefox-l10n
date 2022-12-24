@@ -220,6 +220,7 @@ mr2-onboarding-start-browsing-button-label = براؤزنگ شروع کرو
 
 onboarding-live-language-header = اپݨی زبان چݨو
 mr2022-onboarding-live-language-text = { -brand-short-name } اپݨی زبان الاؤ
+mr2022-language-mismatch-subtitle = اساݙی بیادری دا شکریہ، { -brand-short-name } دا 90 کنوں زیادہ زباناں وِچ ترجمہ کیتا ڳیا ہے۔ ایویں لڳدا ہے جو تہاݙا سسٹم { $systemLanguage } استعمال کریندا پیا ہے، تے { -brand-short-name } { $appLanguage } استعمال کریندا پیا ہے۔
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } کیتے لینگویج پیک ڈاؤن لوڈ تھیندا پیا ہے …
 onboarding-live-language-waiting-button = دستیاب زباناں حاصل کریندا پیا ہے …
 onboarding-live-language-installing = { $negotiatedLanguage } کیتے لینگویج پیک انسٹال تھیندا پیا ہے …
@@ -378,6 +379,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = تفصیلی م�
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = تساں ہک بہتر ویب بݨاوݨ وِچ اساݙی مدد کریندے پئے او۔
+mr2022-onboarding-gratitude-subtitle = موزیلا فاؤنڈیشن دے تعاون نال { -brand-short-name } استعمال کرم دا شکریہ۔ تساݙے تعاون نال، اساں انٹرنیٹ کوں ہر ہک کیتے ودھیک کھلا، قابل رسائی تے بہتر بݨاوݨ کیتے کم کریندے پئے او۔
 mr2022-onboarding-gratitude-primary-button-label = ݙیکھو جو نواں کیا ہے
 mr2022-onboarding-gratitude-secondary-button-label = براؤزنگ شروع کرو
 

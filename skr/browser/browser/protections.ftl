@@ -24,6 +24,10 @@ graph-private-window = { -brand-short-name } پرائیویٹ ونڈوز وِچ 
 graph-week-summary-private-window = ٹریکرز { -brand-short-name } پچھلے ہفتے بلاک کیتا ہا
 protection-report-webpage-title = حفاظتی ڈیش بورڈ
 protection-report-page-content-title = حفاظتی ڈیش بورڈ
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } تہاݙے براؤز کریندے ویلھے پردے دے پچھوں تہاݙی رازداری دی حفاظت کر سڳدا ہے۔ ایہ انہاں تحفظات دا ذاتی خلاصہ ہے، بشمول تہاݙی آن لائن سیکیورٹی کوں کنٹرول کرݨ دے ٹولز۔
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } تہاݙے براؤز کریندے ویلھے پردے دے پچھوں تہاݙی رازداری دی حفاظت کریندا ہے۔ ایہ انہاں تحفظات دا ذاتی خلاصہ ہے، بشمول تہاݙی آن لائن سیکیورٹی کوں کنٹرول کرݨ دے ٹولز۔
 protection-report-settings-link = اپݨی رازداری تے سیکورٹی دیاں ترتیباں کوں منظم کرو.
 etp-card-title-always = بہتر ٹریکنگ پروٹیکشن: ہمیشاں  چالو
 etp-card-title-custom-not-blocking = بہتر ٹریکنگ پروٹیکشن:  بند

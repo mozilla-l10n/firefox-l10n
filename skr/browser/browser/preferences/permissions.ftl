@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = بہتر ٹریکنگ حفاظت کیتے استثناء
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = تساں اینہاں ویب سائٹاں تے تحفظات کوں بند کر ݙتا ہے۔
+permissions-exceptions-manage-etp-desc = تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں تے بہتر ٹریکنگ پروٹیکشن آف ہے۔ تساں جیڑھی سائٹ دا انتظام کرݨ چاہندے او اوندا صحیح پتہ ٹائپ کرو تے ول ایڈ ایکسپشن تے کلک کرو۔
 
 ## Exceptions - Cookies
 
@@ -92,6 +93,7 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-window2 =
     .title = استثنیات - کوکیاں تے سائٹ دا ڈیٹا
     .style = { permissions-window2.style }
+permissions-exceptions-cookie-desc = تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں کوں کوکیاں تے سائٹ دا ڈیٹا استعمال کرݨ دی ہمیشہ یا کݙاہیں اجازت کائنی۔ جیڑھی سائٹ دا تساں انتظام کرݨ چاہندے او اوندا صحیح پتہ ٹائپ کرو تے ول بلاک کرو، سیشن کیتے اجازت ݙیوو، یا اجازت ݙیوو تے کلک کرو۔
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -101,6 +103,7 @@ permissions-exceptions-https-only-window =
 permissions-exceptions-https-only-window2 =
     .title = استثنیات - HTTPS-Only Mode
     .style = { permissions-window2.style }
+permissions-exceptions-https-only-desc = تساں مخصوص ویب سائٹاں کیتے صرف HTTPS موڈ کوں بند کر سڳدے او۔ { -brand-short-name } انہاں سائٹاں کیتے HTTPS کوں محفوظ بݨاوݨ کیتے کنکشن کوں اپ گریڈ کرݨ دی کوشش نہ کریسے۔ مستثنیات نجی ونڈوز تے لاگو نہیں تھیندیاں۔
 
 ## Exceptions - Pop-ups
 
@@ -110,6 +113,7 @@ permissions-exceptions-popup-window =
 permissions-exceptions-popup-window2 =
     .title = اجازت والیاں ویب سائٹاں - پاپ اپس
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc = تساں ایہ ݙسا سڳدے جو کیڑھیاں ویب سائٹاں کوں پوپ اپ ونڈوز کھولݨ دی اجازت ہے۔ جیڑھی سائٹ دی تساں اجازت ݙیوݨ چاہندے او اوندا صحیح پتہ ٹائپ کرو تے ول اجازت تے کلک کرو۔
 
 ## Exceptions - Saved Logins
 
@@ -149,6 +153,7 @@ permissions-site-notification-window =
 permissions-site-notification-window2 =
     .title = ترتیباں - نوٹیفکیشن اجازتاں
     .style = { permissions-window2.style }
+permissions-site-notification-desc = ہیٹھ درج ویب سائٹاں  تہاکوں اطلاعات بھیڄݨ دی درخواست کیتی ہے۔ تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں کوں تہاکوں اطلاعات بھیڄݨ دی اجازت ہے۔ تساں اطلاعات دی اجازت ݙیوݨ کیتے نویاں درخواستاں کوں وی بلاک کر سڳدے او۔
 permissions-site-notification-disable-label =
     .label = اطلاعات دی اجازت ݙیوݨ کیتے نویاں درخواستاں کوں روکو۔
 permissions-site-notification-disable-desc = ایہ کہیں وی ویب سائٹ کوں نوٹیفیکیشن بھیڄݨ دی اجازت دی درخواست کرݨ کنوں روک ݙیسے جیڑھے اوپر درج کائنی۔ اطلاعات کوں  ݙکݨ نال ویب سائٹ دیاں کجھ خصوصیات ترت سڳدیاں ہن۔
@@ -161,6 +166,7 @@ permissions-site-location-window =
 permissions-site-location-window2 =
     .title = ترتیباں ۔ محل وقوع دیاں اجازتاں
     .style = { permissions-window2.style }
+permissions-site-location-desc = ہیٹھ درج ویب سائٹاں تہاݙے مقام تائیں رسائی دی درخواست کیتی ہے۔ تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں کوں تہاݙے مقام تائیں رسائی دی اجازت ہے۔ تساں اپݨے مقام تائیں رسائی کیتے نویاں درخواستاں کوں وی بلاک کر سڳدے او۔
 permissions-site-location-disable-label =
     .label = تہاݙے مقام تک رسائی کیتے پچھݨ والی نویاں درخواستاں کوں روکو۔
 permissions-site-location-disable-desc = ایہ اوتے درج نہ تھیوݨ والی کہیں وی ویب سائٹ کوں تہاݙے مقام تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے۔ تہاݙے مقام تک رسائی کوں روکݨ نال ویب سائٹ دی کجھ خصوصیات ترٹ سڳدیاں ہن۔
@@ -175,6 +181,7 @@ permissions-site-xr-window2 =
     .style = { permissions-window2.style }
 permissions-site-xr-disable-label =
     .label = تہاݙے ورچوئل رئیلٹی ڈیوائسز تک رسائی دی درخواست کرݨ والیاں نویاں درخواستاں کوں روکو۔
+permissions-site-xr-disable-desc = ایہ کہیں وی ویب سائٹ کوں تہاݙے ورچوئل رئیلٹی ڈیوائسز تائیں رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے جیڑھی اوتے درج کائنی۔ تہاݙے ورچوئل رئیلٹی ڈیوائسز تائیں رسائی کوں بلاک کرݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔
 
 ## Site Permissions - Camera
 
@@ -184,6 +191,7 @@ permissions-site-camera-window =
 permissions-site-camera-window2 =
     .title = ترتیباں - کیمرہ اجازتاں
     .style = { permissions-window2.style }
+permissions-site-camera-desc = ہیٹھ درج ویب سائٹاں تہاݙے کیمرے تائیں رسائی دی درخواست کیتی ہے۔ تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں کوں تہاݙے کیمرے تائیں رسائی دی اجازت ہے۔ تساں اپݨے کیمرے تائیں رسائی کیتے  پچھݨ والیاں نویاں درخواستاں کوں وی بلاک کر سڳدے او۔
 permissions-site-camera-disable-label =
     .label = اپݨے کیمرے تک رسائی کیتے پچھݨ والیاں نویاں درخواستاں کوں روکو۔
 permissions-site-camera-disable-desc = ایہ کہیں وی ویب سائٹ کوں تہاݙے کیمرے تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے جیڑھا اوتے درج کائنی۔ تہاݙے کیمرے تک رسائی کوں روکݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔
@@ -196,6 +204,7 @@ permissions-site-microphone-window =
 permissions-site-microphone-window2 =
     .title = ترتیباں - مائیکروفون دیاں اجازتاں
     .style = { permissions-window2.style }
+permissions-site-microphone-desc = ہیٹھ درج ویب سائٹاں تہاݙے مائیکروفون تائیں رسائی دی درخواست کیتی ہے۔ تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں کوں تہاݙے مائیکروفون تائیں رسائی دی اجازت ہے۔ تساں اپݨے مائیکروفون تائیں رسائی دی درخواست کرݨ والیاں نویاں درخواستاں کوں وی بلاک کر سڳدے او۔
 permissions-site-microphone-disable-label =
     .label = اپݨے مائیکروفون تک رسائی دی درخواست کرݨ والیاں نویاں درخواستاں کوں روکو۔
 permissions-site-microphone-disable-desc = ایہ اوتے درج نہ تھیوݨ والی کہیں وی ویب سائٹ کوں تہاݙے مائیکروفون تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے۔ تہاݙے مائیکروفون تک رسائی کوں رد کرݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔

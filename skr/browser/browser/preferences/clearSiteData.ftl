@@ -8,6 +8,7 @@ clear-site-data-window =
 clear-site-data-window2 =
     .title = ڈیٹا صاف کرو
     .style = min-width: 35em
+clear-site-data-description = { -brand-short-name } دے ذریعے ذخیرہ کردہ تمام کوکیاں تے سائٹ دے ڈیٹا کوں صاف کرݨ نال تساں ویب سائٹاں کنوں سائن آؤٹ تھی سکتے او تے آف لائن ویب مواد کوں ہٹا سڳدے او۔ کیش ڈیٹا کوں صاف کرݨ نال تہاݙے لاگ ان تے کوئی اثر نہ پوسے۔
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
