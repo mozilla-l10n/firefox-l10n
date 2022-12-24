@@ -110,6 +110,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = ਫ਼ੈਸਲਾ ਲਾਗ
 graphics-crash-guards-title = ਕਰੈਸ਼ ਗਾਰਡ ਆਯੋਗ ਫੀਚਰ
 graphics-workarounds-title = ਜੁਗਾੜ
+graphics-device-pixel-ratios = ਵਿੰਡੋ ਡਿਵਾਈਸ ਪਿਕਸਲ ਅਨੁਪਾਤ
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = ਵਿੰਡੋ ਪਰੋਟੋਕਾਲ
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
