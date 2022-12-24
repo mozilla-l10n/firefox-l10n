@@ -25,7 +25,7 @@ unified-extensions-item-message-manage = Gjestìs estension
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
-    .label = Fisse te sbare des aplicazions
+    .label = Fisse te sbare dai struments
 unified-extensions-context-menu-manage-extension =
     .label = Gjestìs estension
 unified-extensions-context-menu-remove-extension =
