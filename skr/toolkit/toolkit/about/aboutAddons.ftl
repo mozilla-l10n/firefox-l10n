@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+search-header-shortcut =
+    .key = f
+addons-settings-button = { -brand-short-name } ترتیباں
+sidebar-settings-button-title =
+    .title = { -brand-short-name } ترتیباں
 detail-version =
     .label = ورشن
 detail-last-updated =
@@ -18,6 +23,8 @@ detail-rating =
     .value = ریٹنگ
 addon-restart-now =
     .label = ہُݨ ولدا شروع کرو
+legacy-extensions =
+    .value = لیگیسی ایکسٹینشن
 addon-category-discover = سفارشاں
 addon-category-discover-title =
     .title = سفارشاں
@@ -68,6 +75,7 @@ addon-category-sitepermission-title =
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-filter-name = ایڈ ــ آن
 
 ## Extension shortcut management
 
