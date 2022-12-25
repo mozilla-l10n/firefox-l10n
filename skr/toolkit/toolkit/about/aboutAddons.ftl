@@ -31,6 +31,20 @@ addon-category-plugin = پلگ انز
 addon-category-plugin-title =
     .title = پلگ انز
 addon-category-dictionary = ڈکشنریاں
+addon-category-dictionary-title =
+    .title = ڈکشنریاں
+addon-category-locale = زباناں
+addon-category-locale-title =
+    .title = زباناں
+addon-category-available-updates = دستیاب تازہ کاریاں
+addon-category-available-updates-title =
+    .title = دستیاب اپ ڈیٹاں
+addon-category-recent-updates = حالیہ اپ ڈیٹاں
+addon-category-recent-updates-title =
+    .title = حالیہ اپ ڈیٹاں
+addon-category-sitepermission = سائٹ اجازتاں
+addon-category-sitepermission-title =
+    .title = سائٹ اجازتاں
 
 ## These are global warnings
 
@@ -57,15 +71,71 @@ addon-category-dictionary = ڈکشنریاں
 
 ## Extension shortcut management
 
+shortcuts-letter = ہک خط ٹائپ کرو
+shortcuts-card-collapse-button = گھٹ ݙکھاؤ
+header-back-button =
+    .title = واپس ون٘ڄو
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = ٻیا سِکھو
+privacy-policy = رازداری پالیسی
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = ولوں<a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = ورتݨ آلے: { $dailyUsers }
+install-extension-button = { -brand-product-name } وچ شامل کرو
+install-theme-button = تھیم انسٹال کرو
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = بندوبست کرو
 
 ## Add-on actions
 
+report-addon-button = رپورٹ کرو
+remove-addon-button = ہٹاؤ
+disable-addon-button = غیر فعال
+enable-addon-button = فعال کرو
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = فعال کرو
+details-addon-button = تفصیلاں
+release-notes-addon-button = ریلیز نوٹ
+permissions-addon-button = اجازتاں
+extension-enabled-heading = فعال تھیا
+extension-disabled-heading = غیرفعال تھیا
+theme-enabled-heading = فعال تھیا
+theme-disabled-heading = غیرفعال تھیا
+theme-disabled-heading2 = ہتھکڑے تھئے تھیم
+theme-monochromatic-heading = کلروے
+plugin-enabled-heading = فعال تھیا
+plugin-disabled-heading = غیرفعال تھیا
+dictionary-enabled-heading = فعال تھیا
+dictionary-disabled-heading = غیرفعال تھیا
+locale-enabled-heading = فعال تھیا
+locale-disabled-heading = غیرفعال تھیا
+sitepermission-enabled-heading = فعال تھیا
+sitepermission-disabled-heading = غیرفعال تھیا
+addon-detail-author-label = مصنف
+addon-detail-version-label = ورشن
+addon-detail-last-updated-label = چھیکڑی واری اپ ڈیٹ تھیا
+addon-detail-homepage-label = مکھ پناں
+addon-detail-rating-label = ریٹنگ
+install-postponed-button = ہݨ ابڈیٹ کرو
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = کیتا اݨ کیتا
+addon-detail-updates-radio-default = ڈیفالٹ
+addon-detail-updates-radio-on = چالو
+addon-detail-updates-radio-off = بند
+addon-detail-update-check-label = اپڈیٹاں کیتے ݙیکھو
+install-update-button = اپ ڈیٹ کرو
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -81,3 +151,6 @@ addon-category-dictionary = ڈکشنریاں
 ## Variables:
 ##   $name (String): name of the add-on.
 
+details-notification-unsigned-link = ودھیک معلومات
+details-notification-blocked-link = ودھیک معلومات
+details-notification-softblocked-link = ودھیک معلومات
