@@ -8,9 +8,12 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ບໍ່ສາມາດຊອກຫາໜ້າກາກທີ່ໃຊ້ຄືນໄດ້. ລະຫັດຂໍ້ຜິດພາດ HTTP: { $status }.
 
 ##
 
+firefox-relay-must-login-to-fxa = ທ່ານຕ້ອງເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name } ເພື່ອໃຊ້ { -relay-brand-name }.
+firefox-relay-generate-mask-subtitle = ສ້າງໜ້າກາກ { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = ສືບຕໍ່
     .accesskey = C

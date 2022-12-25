@@ -185,6 +185,7 @@ downloads-details =
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
 downloads-blocked-from-url = ການດາວໂຫຼດຖືກບລັອກຈາກ { $url }.
+downloads-blocked-download-detailed-info = { $url } ພະຍາຍາມດາວໂຫຼດຫຼາຍໄຟລ໌ໂດຍອັດຕະໂນມັດ. ເວັບໄຊດັ່ງກ່າວອາດຈະຖືກທໍາລາຍ ຫຼືພະຍາຍາມເກັບຮັກສາໄຟລ໌ຂີ້ເຫຍື້ອຢູ່ໃນອຸປະກອນຂອງທ່ານ.
 
 ##
 
