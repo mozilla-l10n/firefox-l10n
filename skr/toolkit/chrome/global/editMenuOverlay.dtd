@@ -8,3 +8,4 @@
 <!ENTITY findAgainCmd.label        "ولدا لبھو">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "g">
