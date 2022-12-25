@@ -659,7 +659,7 @@ pane-privacy-logins-and-passwords-header = Մուտքանուններ և Գաղ�
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Հարցնել և պահպանել մուտքագրումները և գաղտնաբառրը կայքերի համար
+    .label = Հարցնել և պահպանել մուտքագրումները և գաղտնաբառերը կայքերի համար
     .accesskey = r
 forms-exceptions =
     .label = Բացառություններ…
@@ -843,6 +843,9 @@ content-blocking-all-windows-tracking-content = Հետևում են բովանդ
 content-blocking-all-third-party-cookies = Բոլոր երրորդ կողմերի նշոցիկները
 content-blocking-cryptominers = Գաղտնազերծիչներ
 content-blocking-fingerprinters = Մատնահետքեր
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 content-blocking-warning-title = Ուշադրություն։
 content-blocking-warning-learn-how = Իմանալ ինչպես
 content-blocking-reload-description = Ձեզ հարկավոր կլինի վերբեռնել ձեր ներդիրները այս փոփոխությունները հաստատելու համար։
