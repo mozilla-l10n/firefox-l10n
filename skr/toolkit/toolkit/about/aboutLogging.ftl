@@ -23,11 +23,15 @@
 about-logging-title = لاگنگ بارے
 about-logging-page-title = لاگنگ منیجر
 about-logging-info = معلومات:
+about-logging-no-log-modules = کوئی وی کائنی
+about-logging-no-log-file = کوئی وی کائنی
 
 ## Logging presets
 
 about-logging-preset-networking-label = نیٹ ورکنگ
 about-logging-preset-custom-label = مخصوص
+# Error handling
+about-logging-error = نقص:
 
 ## Variables:
 ##   $k (String) - Variable name

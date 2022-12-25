@@ -14,6 +14,11 @@ column-memory = میموری
 
 ## Values for the Type column
 
+type-tab = ٹیب
+type-subframe = سب فریم
+type-tracker = ٹریکر
+type-addon = ایڈ ــ آن
+type-browser = براؤزر
 type-worker = کارکن
 type-other = ٻیا
 
@@ -23,12 +28,20 @@ type-other = ٻیا
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = ودھ { $value }
+energy-impact-medium = درمیانی { $value }
+energy-impact-low = گھٹ { $value }
 
 ## Values for the Memory column
 ##
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = { $value } کے بی
+size-MB = { $value } ایم بی
+size-GB = { $value } جی بی
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = ٹیب بند کرو

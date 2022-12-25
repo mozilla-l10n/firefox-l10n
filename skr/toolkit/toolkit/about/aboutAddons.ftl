@@ -151,14 +151,23 @@ install-update-button = اپ ڈیٹ کرو
 
 ##
 
+release-notes-loading = لوڈ تھیندا پئے۔۔۔
 
 ## Page headings
 
+extension-heading = آپݨے ایکسٹینشن منظم کرو
+theme-heading = آپݨے تھیمز دا بندوبست کرو
+plugin-heading = آپݨے پلگ انز دا بندوبست کرو
+dictionary-heading = آپݨیاں ڈکشنریاں دا بندوبست کرو
+locale-heading = آپݨیاں زناناں دا بندوبست کرو
+updates-heading = آپݨے اپ ڈیٹاں دا بندوبست کرو
+sitepermission-heading = آپݨی سائٹ اجازتاں دا بندوبست کرو
 
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
 
+details-notification-unsigned-and-disabled-link = ودھیک معلومات
 details-notification-unsigned-link = ودھیک معلومات
 details-notification-blocked-link = ودھیک معلومات
 details-notification-softblocked-link = ودھیک معلومات

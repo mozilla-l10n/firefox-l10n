@@ -25,6 +25,10 @@ app-basics-version = ورشن
 app-basics-build-id = بلڈ-آئی ڈی
 app-basics-os = OS
 app-basics-os-theme = او ایس تھیم
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 environment-variables-name = ناں
 environment-variables-value = قدر
 experimental-features-name = ناں
@@ -40,6 +44,14 @@ graphics-failure-log-title = ناکامی لاگ
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = فیصلہ لاگ
+place-database-stats = شماریات
+place-database-stats-show = شماریات ݙکھاؤ
+place-database-stats-hide = شماریات لکاؤ
+place-database-stats-count = ڳݨتری
+sandbox-sys-call-index = #
+sandbox-sys-call-age = کجھ سیکنڈ پہلے
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
 
 ## Media titles
 
