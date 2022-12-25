@@ -104,12 +104,17 @@ pkcs12-unknown-err-restore = نامعلوم وجوہات دی بنا تے PKCS #
 pkcs12-unknown-err-backup = نامعلوم وجوہات دی بنا تے PKCS #12 بیک اپ فائل بݨاوݨ وِچ ناکام۔
 pkcs12-unknown-err = PKCS #12 آپریشن نامعلوم وجوہات دی بنا تے ناکام تھی ڳیا ہے۔
 pkcs12-info-no-smartcard-backup = ہارڈویئر سیکیورٹی ڈیوائس جیویں سمارٹ کارڈ کنوں سرٹیفکیٹس دا بیک اپ گھنݨ ممکن کائنی۔
+pkcs12-dup-data = سرٹیفکیٹ تے نجی کلید سیکورٹی ڈیوائس تے پہلے کنوں موجود ہے۔
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = بیک اپ کیتے فائل دا نام
+file-browse-pkcs12-spec = PKCS12 فائلاں۔
+choose-p12-restore-file-dialog = درآمد کرݨ کیتے سرٹیفکیٹ فائل
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = سرٹیفکیٹ فائلاں
 import-ca-certs-prompt = درآمد کرݨ کیتے CA سرٹیفکیٹ تے مشتمل فائل کوں منتخب کرو۔
 import-email-cert-prompt = درآمد کرݨ کیتے کہیں دے ای میل سرٹیفکیٹ تے مشتمل فائل کوں منتخب کرو۔
 
@@ -135,12 +140,49 @@ delete-ca-cert-confirm = تساں انہاں CA سرٹیفکیٹس کوں حذف
 delete-ca-cert-impact = جے تساں سرٹیفکیٹ اتھارٹی (CA) سرٹیفکیٹ کوں حذف کریندے او یا ایندے اوتے عدم اعتماد کریندے او، تاں ایہ ایپلی کیشن ایں CA دے جاری کردہ کہیں وی سرٹیفکیٹ تے ودھیک اعتماد کائنا کریسے۔
 delete-email-cert-title =
     .title = ای میل سرٹیفکیٹس حذف کرو
+delete-email-cert-confirm = کیا تساں واقعی انہاں لوکاں دے ای میل سرٹیفیکیٹس کوں حذف کرݨ چاہندے او؟
+delete-email-cert-impact = جے تساں کہیں شخص دا ای میل سرٹیفکیٹ حذف کریندے او، تاں تساں ایں شخص کوں ودھیک خفیہ کردہ ای میل نہ بھیڄ سڳسو۔
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = سیریل نمبر دے نال سرٹیفکیٹ: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = کوئی کلائنٹ سرٹیفکیٹ نہ بھیڄو۔
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (محفوظ نہیں کیتا ڳیا)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (دستیاب کائنی)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = مستقل
+temporary-override = عارضی
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = تساں اوور رائڈ کرݨ والے او جو { -brand-short-name } ایں سائٹ دی سنڄاݨ کیویں کریندا ہے۔
+add-exception-invalid-header = ایہ سائٹ غلط معلومات دے نال خود کوں سنڄاݨݨ دی کوشش کریندی ہے۔
+add-exception-domain-mismatch-short = غلط سائٹ
+add-exception-domain-mismatch-long = سرٹیفکیٹ دا تعلق ہک مختلف سائٹ نال ہے، جیندا مطلب ایہ تھی سڳدا ہے جو کوئی ایں سائٹ دی نقالی کرݨ دی کوشش کریندا پیا ہے۔
+add-exception-expired-short = پراݨی معلومات
+add-exception-expired-long = سرٹیفکیٹ فی الحال درست کائنی۔ تھی سڳدا ہے جو ایہ چوری تھی ڳئی ہووے یا گم تھی ڳئی ہووے، تے اونکوں کوئی ایں سائٹ دی نقالی کرݨ کیتے استعمال کر سڳدا ہے۔
+add-exception-unverified-or-bad-signature-short = اݨ ڄاتی سنڄاݨ
+add-exception-unverified-or-bad-signature-long = سرٹیفکیٹ قابل بھروسہ کائنی کیوں جو ایندی تصدیق نہیں کیتی ڳئی جیویں جو ہک قابل اعتماد اتھارٹی محفوظ دستخط دا استعمال کریندے ہوئے جاری کیتا ہے۔
+add-exception-valid-short = درست سرٹیفکیٹ
+add-exception-valid-long = ایہ سائٹ درست، تصدیق شدہ سنڄاݨ فراہم کریندی ہے۔ استثناء شامل کرݨ دی ضرورت کائنی۔
+add-exception-checking-short = معلومات دی جانچ تھیندی پئی ہے۔
+add-exception-checking-long = ایں سائٹ دی سنڄاݨ کرݨ دی کوشش کیتی ویندی پئی اے …
+add-exception-no-cert-short = کوئی معلومات دستیاب کائنی۔
+add-exception-no-cert-long = ایں سائٹ کیتے سنڄاݨ دی حیثیت حاصل کرݨ کنوں عاری ہے۔
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = سرٹیفکیٹ کوں فائل وِچ ہتھیکڑا کرو۔
+cert-format-base64 = X.509 سرٹیفکیٹ (PEM)
+cert-format-base64-chain = چین دے نال X.509 سرٹیفکیٹ (PEM)
+cert-format-der = X.509 سرٹیفکیٹ (DER)
+cert-format-pkcs7 = X.509 سرٹیفکیٹ (PKCS#7)
+cert-format-pkcs7-chain = چین دے نال X.509 سرٹیفکیٹ (PKCS#7)
+write-file-failure = فائل دا نقص
