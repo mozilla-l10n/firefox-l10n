@@ -19,6 +19,24 @@ about-networking-sent = بھیڄ ݙتا ڳیا
 about-networking-received = وصول شدہ
 about-networking-family = ٹٻر
 about-networking-trr = TRR
+about-networking-addresses = پتے
+about-networking-dns-domain = ڈومین:
+about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
+about-networking-rcwn = RCWN حالات
+about-networking-rcwn-status = RCWN حالات
+about-networking-rcwn-cache-won-count = کامیاب کیشیں ڳیݨ
+about-networking-rcwn-net-won-count = موجودہ کامیاب ڳیݨ
+about-networking-rcwn-perf-open = کھولو
+about-networking-rcwn-perf-read = پڑھو
+about-networking-rcwn-perf-write = لکھو
+about-networking-rcwn-perf-entry-open = داخلہ کھلا ہے
+about-networking-rcwn-avg-short = مختصر اوسط
+about-networking-rcwn-avg-long = لمبی اوسط
+about-networking-rcwn-std-dev-long = طویل معیاری انحراف
+about-networking-rcwn-cache-slow = کیشی مٹھی ڳیݨ
+about-networking-networkid = نیٹ ورک آئی ڈی
+about-networking-networkid-id = نیٹ ورک آئی ڈی
 
 ## Link is intended as "network link"
 
