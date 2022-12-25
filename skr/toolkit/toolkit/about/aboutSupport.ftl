@@ -52,6 +52,9 @@ sandbox-sys-call-index = #
 sandbox-sys-call-age = کجھ سیکنڈ پہلے
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = پروسیسنگ دی قسم
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = دلیلاں
 
 ## Media titles
 
@@ -80,17 +83,45 @@ media-device-latency = تاخیر
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-url = یوآرایل
 
 ##
 
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+yes = جیا
+no = کو
+unknown = اݨ ڄاتا
+virtual-monitor-disp = ورچوئل مانیٹر ڈسپلے
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = لبھ ڳیا
+missing = لاپتہ
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
+gpu-description = تفصیل
+gpu-vendor-id = وینڈر ID
+gpu-device-id = ڈیوائس آئی ڈی
+gpu-subsys-id = سبسس آئی ڈی
+gpu-drivers = ڈرائیور
+gpu-ram = RAM
+gpu-driver-vendor = ڈرائیور وینڈر
+gpu-driver-version = ڈرائیور ورشن
+gpu-driver-date = ڈرائیور تریخ
+gpu-active = فعال
+glcontext-crash-guard = OpenGL
+# Variables
+# $remoteWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -98,9 +129,15 @@ media-device-latency = تاخیر
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = غیر فعال
+policies-active = فعال
+policies-error = نقص
 
 ## Printing section
 
 
 ## Normandy sections
 
+support-remote-features-title = پروبھریاں خصوصیات
+support-remote-features-name = ناں
+support-remote-features-status = حالت
