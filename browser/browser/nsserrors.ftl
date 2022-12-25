@@ -24,7 +24,7 @@ psmerr-hostreusedissuerandserial =
     인증서에 인증 기관에서 발급한 다른 인증서와 같은 일련 번호가 있습니다. 고유한 일련 번호를 가진 새 인증서를 받으세요.
 ssl-error-export-only-server = 안전하게 통신을 할 수 없습니다. 피어가 높은 등급의 암호화를 지원하지 않습니다.
 ssl-error-us-only-server = 안전하게 통신을 할 수 없습니다. 피어가 지원하지 않는 높은 등급의 암호화를 요청합니다.
-ssl-error-no-cypher-overlap = 피어와  안전하게 통신을 할 수 없음: 일반 암호화 알고리듬이 없습니다.
+ssl-error-no-cypher-overlap = 피어와 안전하게 통신을 할 수 없음: 일반 암호화 알고리듬이 없습니다.
 ssl-error-no-certificate = 인증에 필요한 인증서 또는 키를 찾을 수 없습니다.
 ssl-error-bad-certificate = 피어와 안전하게 통신을 할 수 없음: 피어의 인증서가 거절됐습니다.
 ssl-error-bad-client = 서버가 클라이언트로부터 손상된 데이터를 얻었습니다.
