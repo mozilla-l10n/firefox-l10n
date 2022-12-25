@@ -794,6 +794,7 @@ forms-breach-alerts =
     .label = Vis varsel om passord for datalekkasjar på nettstadar
     .accesskey = p
 forms-breach-alerts-learn-more-link = Les meir
+relay-integration-learn-more-link = Les meir
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Autoutfyll innloggingar og passord
@@ -996,6 +997,9 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Test ut den kraftigaste personvernfunksjonen vår nokosinne
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totalt vern mot infokapslar isolerer infokapslar til nettstaden du er på, så sporarar ikkje kan bruke dei til å følgje deg mellom nettstadar.
 content-blocking-etp-standard-tcp-rollout-learn-more = Les meir
