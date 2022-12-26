@@ -68,10 +68,15 @@ app-basics-third-party = تریجھا فریق ماڈیول
 app-basics-profiles = پروفائلاں
 app-basics-launcher-process-status = لانچر عمل
 app-basics-multi-process-support = ملٹی پروسیس ونڈوز
+app-basics-fission-support = فِیژن ونڈوز
 app-basics-remote-processes-count = پروبھرے عمل
 app-basics-enterprise-policies = انٹرپرائز پالیسیاں
+app-basics-location-service-key-google = گوگل لوکیش سروس کلید
+app-basics-safebrowsing-key-google = گوگل سیف براؤزنگ کلید
+app-basics-key-mozilla = موزیلا لوکیشن سروس کلید
 app-basics-safe-mode = محفوظ موڈ
 app-basics-memory-size = میموری سائز (RAM)
+app-basics-disk-available = ڈسک دی جاہ دستیاب ہے۔
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -88,9 +93,12 @@ environment-variables-value = قدر
 experimental-features-title = تجرباتی خصوصیات
 experimental-features-name = ناں
 experimental-features-value = قدر
+modified-key-prefs-title = اہم ترمیم شدہ ترجیحاں
 modified-prefs-name = ناں
 modified-prefs-value = قدر
 user-js-title = user.js ترجیحاں
+user-js-description = تہاݙے پروفائل فولڈر وِچ ہک <a data-l10n-name="user-js-link">user.js فائل</a> ہے، جیندے وِچ او ترجیحاں شامل ہن جیڑھیاں { -brand-short-name } دے ذریعہ تخلیق نہیں کیتیاں ڳئیاں۔
+locked-key-prefs-title = اہم مقفل ترجیحاں
 locked-prefs-name = ناں
 locked-prefs-value = قدر
 graphics-title = گرافکس
@@ -100,6 +108,9 @@ graphics-failure-log-title = ناکامی لاگ
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = فیصلہ لاگ
+graphics-crash-guards-title = کریش گارڈ دی غیر فعال خصوصیات
+graphics-workarounds-title = کم کار
+graphics-device-pixel-ratios = ونڈو ڈیوائس دا پکسل تناسب
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = ونڈو پروٹوکول
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
@@ -113,10 +124,17 @@ place-database-stats-count = ڳݨتری
 place-database-stats-size-kib = سائز (KiB)
 place-database-stats-size-perc = سائز (%)
 place-database-stats-efficiency-perc = کاکردگی (%)
+place-database-stats-sequentiality-perc = تسلسل (%)
+place-database-integrity = سالمیت
+place-database-verify-integrity = سالمیت دی تصدیق کرو۔
 a11y-title = رسائیت
 a11y-activated = فعال تھیا
+a11y-force-disabled = رسائی کوں روکو۔
+a11y-handler-used = قابل رسائی ہینڈلر استعمال کیتا ڳیا ہے۔
+a11y-instantiator = ایکسیسبیلٹی انسٹیٹیئٹر
 library-version-title = لائبریری ورشن
 copy-text-to-clipboard-label = متن کوں کلپ بورڈ تے نقل کرو
+copy-raw-data-to-clipboard-label = خام ڈیٹا کوں کلپ بورڈ وِچ کاپی کرو۔
 sandbox-title = سینڈ باکس
 sandbox-sys-call-log-title = مسترد سیسٹم کال
 sandbox-sys-call-index = #
@@ -126,6 +144,11 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = پروسیسنگ دی قسم
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = دلیلاں
+troubleshoot-mode-title = مسائل دی تشخیص کرو۔
+restart-in-troubleshoot-mode-label = ٹربل شوٹ موڈ…
+clear-startup-cache-title = سٹارٹ اپ کیشے کوں صاف کرݨ دی کوشش کرو۔
+clear-startup-cache-label = سٹارٹ اپ کیشے کوں صاف کرو…
+startup-cache-dialog-title2 = سٹارٹ اپ کیشے کوں صاف کرݨ کیتے { -brand-short-name } کوں دوبارہ شروع کرو؟
 restart-button-label = دوبارہ شروع کرو
 
 ## Media titles
