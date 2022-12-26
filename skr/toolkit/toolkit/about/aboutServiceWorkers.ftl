@@ -5,6 +5,8 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = خدمت کارکناں بارے
+about-service-workers-main-title = رجسٹر تھئے خدمت کارکن
 
 ## These strings are for showing the information of workers.
 ##

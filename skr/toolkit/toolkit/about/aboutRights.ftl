@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rights-title = تہاݙے حقوق بارے
+rights-safebrowsing-term-1 = ایپ ترجیحاں کھولو

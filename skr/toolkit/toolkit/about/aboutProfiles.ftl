@@ -29,6 +29,7 @@ profiles-current-profile = یہ پروفائل زیر استعمال ہے تے �
 profiles-rename = ناں وٹاؤ
 profiles-remove = ہٹاؤ
 profiles-set-as-default = پہلوں مقرر پروفائل دے طور تے سیٹ کرو
+profiles-cannot-set-as-default-title = ڈیفالٹ مقرر کرݨ توں قاصر
 profiles-yes = جیا
 profiles-no = کو
 profiles-rename-profile-title = پروفائل کوں نواں ناں ݙیو
