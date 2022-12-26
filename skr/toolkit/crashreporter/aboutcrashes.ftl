@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = کریش رپورٹاں
+submit-all-button-label = تمام جمع کراؤ
+delete-button-label = سبھ صاف کرو
+delete-confirm-title = بھلا تہاکوں پک ہے؟
+delete-unsubmitted-description = ایہ تمام غیر جمع کرائی ڳئی کریش رپورٹاں کوں حذف کر ݙیسے تے انہاں کوں کالعدم نہیں کیتا ونڄ سڳدا۔
 delete-submitted-description = ایہ پیش کردہ کریش رپورٹاں دی تندیر کوں ہٹا ݙیسے لیکن جمع کردہ ڈیٹا کوں حذف نہ کریسے۔ اینکوں کالعدم نہیں کیتا ونڄ سڳدا۔
 crashes-unsubmitted-label = غیر جمع کرائی ڳئی کریش رپورٹاں
 id-heading = رپورٹ ID
