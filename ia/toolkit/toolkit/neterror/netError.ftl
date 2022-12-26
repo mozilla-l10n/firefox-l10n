@@ -24,6 +24,7 @@ neterror-pref-reset-button = Restaurar le parametros predefinite
 neterror-return-to-previous-page-button = Retornar
 neterror-return-to-previous-page-recommended-button = Retroceder (Recommendate)
 neterror-try-again-button = Retentar
+neterror-add-exception-button = Sempre continuar pro iste sito
 neterror-settings-button = Cambiar parametros de DNS
 neterror-view-certificate-link = Vider le certificato
 
@@ -52,6 +53,8 @@ neterror-dns-not-found-hint-firewall = Verifica que { -brand-short-name } ha per
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-offline = Nulle connexion a internet
+neterror-dns-not-found-trr-server-problem = Il habeva un problema con { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problema inexpectate.
 
 ##
