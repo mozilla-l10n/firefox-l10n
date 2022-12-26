@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Cussìgiu:
 urlbar-result-menu-button =
     .title = Aberi su menù
+urlbar-result-menu-remove-from-history =
+    .label = Boga dae sa cronologia
+    .accesskey = B
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -965,3 +968,6 @@ refresh-blocked-redirect-label = { -brand-short-name } at impedidu a custa pàgi
 refresh-blocked-allow =
     .label = Permite
     .accesskey = C
+
+## Firefox Relay integration
+
