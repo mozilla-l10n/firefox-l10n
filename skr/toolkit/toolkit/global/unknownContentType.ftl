@@ -3,3 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-from = کنوں:
+unknowncontenttype-open-with =
+    .label = وچ کھولو
+    .accesskey = O
+unknowncontenttype-other =
+    .label = ٻیا۔۔۔
