@@ -114,6 +114,11 @@ newtab-menu-show-privacy-info = ساݙے سپانسر تے تہاݙی رازدا
 newtab-privacy-modal-button-done = تھی ڳیا
 newtab-privacy-modal-button-manage = سپانسر شدہ مواد دیاں ترتیباں دا بندوبست کرو
 newtab-privacy-modal-header = تہاݙی رازداری دی اہمیت ہے۔
+newtab-privacy-modal-paragraph-2 =
+    دلفریب کہانیاں پیش کرݨ دے علاوہ، اساں تہاکوں متعلقہ وی ݙکھیندے ہیں،
+    منتخب سپائسرز دی طرفوں انتہائی جانچ شدہ مواد۔ یقین رکھو، <strong> تہاݙی براؤزنگ
+    ݙیٹا کݙاہیں وی { -brand-product-name }</strong></strong> دی تہاݙی ذاتی کاپی نہیں چھوڑیندا — اساں اینکوں نہیں ݙیکھدے، تے اساݙے
+    سپانسرز وی کائنی۔
 newtab-privacy-modal-link = سکھو جو نویں ٹیب تے رازداری کیویں کم کریندی ہے
 
 ##

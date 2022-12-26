@@ -155,6 +155,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } کوکیاں 
 spotlight-total-cookie-protection-primary-button = ٹوٹل کوکی تحفظ چالو کرو
 spotlight-total-cookie-protection-secondary-button = ہݨ کائناں
 cfr-total-cookie-protection-header = تہاݙا شکریہ، { -brand-short-name } پہلے کنوں ٻہوں نجی تے محفوظ ہے
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = ٹوٹل کوکی پروٹیکشن ہݨ تائیں اساݙا سب توں مضبوط رازداری دا تحفظ ہے – تے ہݨ ایہ ہر جاہ { -brand-short-name } صارفین کیتے ہک طے شدہ ترتیب ہے۔ اساں تساں جیہیں ابتدائی رسائی دے شرکاء دے بغیر ایہ نہ کر سڳدے ہن۔ لہذا ہک بہتر، زیادہ نجی انٹرنیٹ بݨاوݨ وِچ اساݙی مدد کرݨ دا شکریہ۔
 
 ## Emotive Continuous Onboarding
 

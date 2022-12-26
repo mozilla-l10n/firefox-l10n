@@ -16,3 +16,5 @@ third-party-button-open =
     .title = فائل محل وقوع کھولو …
 third-party-button-expand =
     .title = تفصیلی معلومات ݙکھاؤ
+third-party-button-collapse =
+    .title = تفصیلی معلومات ولھیٹو

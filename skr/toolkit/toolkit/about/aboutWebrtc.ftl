@@ -12,10 +12,18 @@
 
 ##
 
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = PeerConnection آئی ڈی:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = مقامی SDP
+about-webrtc-remote-sdp-heading = پروبھرا SDP
+about-webrtc-sdp-history-heading = SDP تاریخ
 
 ##
 
@@ -33,6 +41,21 @@ about-webrtc-type-remote = پروبھرا
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = نامزد
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = چُݨا ہویا
+about-webrtc-save-page-label = ورقہ محفوظ کرو
+about-webrtc-debug-mode-msg-label = ڈیبگ موڈ
+about-webrtc-debug-mode-off-state-label = ڈیبگ موڈ شروع کرو
+about-webrtc-debug-mode-on-state-label = ڈیبگ موڈ روکو
+about-webrtc-stats-heading = سیشن شماریات
+about-webrtc-stats-clear = تاریخ میسو
+about-webrtc-log-heading = کنکشن لاگ
+about-webrtc-log-clear = لاگ صاف کرو
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -46,6 +69,9 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 ##
 
 about-webrtc-priority = ترجیح
+about-webrtc-decoder-label = ڈیکوڈر
+about-webrtc-encoder-label = انکوڈر
+about-webrtc-show-tab-label = ٹیب ݙکھاؤ
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
