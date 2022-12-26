@@ -91,6 +91,7 @@ place-database-title = مقامات ڈیٹا بیس
 place-database-stats = شماریات
 place-database-stats-show = شماریات ݙکھاؤ
 place-database-stats-hide = شماریات لکاؤ
+place-database-stats-entity = ہستی
 place-database-stats-count = ڳݨتری
 place-database-stats-size-kib = سائز (KiB)
 place-database-stats-size-perc = سائز (%)
@@ -174,6 +175,10 @@ crashes-time-days =
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType پیرامیٹر
+compositing = کمپوزیٹنگ
 yes = جیا
 no = کو
 unknown = اݨ ڄاتا
@@ -197,18 +202,25 @@ gpu-driver-vendor = ڈرائیور وینڈر
 gpu-driver-version = ڈرائیور ورشن
 gpu-driver-date = ڈرائیور تریخ
 gpu-active = فعال
+webgl1-wsiinfo = WebGL 1 Driver WSI Info
+webgl1-renderer = WebGL 1 Driver Renderer
 webgl1-version = WebGL 1  ڈرائیور ورشن
 webgl1-driver-extensions = WebGL 1  ڈرائیور ایکسٹنشناں
 webgl1-extensions = WebGL 1 ایکسٹنشناں
+webgl2-wsiinfo = WebGL 2 Driver WSI Info
+webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2  ڈرائیور ورشن
 webgl2-driver-extensions = WebGL 2  ڈرائیور ایکسٹنشناں
 webgl2-extensions = WebGL 2 ایکسٹنشناں
 glcontext-crash-guard = OpenGL
 gpu-device-reset = ڈیوائس ری سیٹ کرو
+loaded-lib-versions = استعمال وچ ورشن
 sandbox-proc-type-content = مواد
 sandbox-proc-type-file = فائل مواد
 sandbox-proc-type-media-plugin = میڈیا پلگ ان
 sandbox-proc-type-data-decoder = ڈیٹا ڈی کوڈر
+startup-cache-disk-cache-path = ڈسک کیشے دا راہ
+startup-cache-ignore-disk-cache = ڈسک کیشے کوں اہمیت نہ ݙیوو
 launcher-process-status-0 = فعال تھیا
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -218,6 +230,11 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = تجربے نال غیرفعال تھیا
+fission-status-experiment-treatment = تجربے نال فعال تھیا
+fission-status-disabled-by-e10s-env = ماحول نال غیرفعال تھیا
+fission-status-enabled-by-env = ماحول نال فعال تھیا
+fission-status-disabled-by-env = ماحول نال غیرفعال تھیا
 apz-none = کوئی کائنی
 
 ## Variables
