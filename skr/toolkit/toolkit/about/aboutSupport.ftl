@@ -5,6 +5,7 @@
 page-title = ٹربل شوٹنگ معلومات
 crashes-title = کریش رپورٹاں
 crashes-id = رپورٹ ID
+crashes-send-date = جمع تھئے ہوئے
 crashes-all-reports = ساریاں کریش رپورٹاں
 support-addons-title = ایڈ ــ آن
 support-addons-name = ناں
@@ -18,20 +19,31 @@ security-software-name = ناں
 security-software-antivirus = اینٹی وائرس
 security-software-antispyware = اینٹی سپائویر
 security-software-firewall = فائروال
+features-title = { -brand-short-name } خاصیتاں
 features-name = ناں
 features-version = ورشن
 features-id = آئی ڈی
+processes-title = پروبھرے عمل
 processes-type = قسم
 processes-count = ڳݨتری
 app-basics-name = ناں
 app-basics-version = ورشن
 app-basics-build-id = بلڈ-آئی ڈی
 app-basics-update-channel = چینل اپ ڈیٹ کرو
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] پروفائل ڈائریکٹری
+       *[other] پروفائل فولڈر
+    }
 app-basics-enabled-plugins = فعال تھئے پلگ ان
 app-basics-os = OS
 app-basics-os-theme = او ایس تھیم
 app-basics-performance = کارکردگی
 app-basics-profiles = پروفائلاں
+app-basics-remote-processes-count = پروبھرے عمل
+app-basics-enterprise-policies = انٹرپرائز پالیسیاں
+app-basics-safe-mode = محفوظ موڈ
+app-basics-memory-size = میموری سائز (RAM)
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -51,10 +63,17 @@ graphics-failure-log-title = ناکامی لاگ
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = فیصلہ لاگ
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = ونڈو پروٹوکول
 place-database-stats = شماریات
 place-database-stats-show = شماریات ݙکھاؤ
 place-database-stats-hide = شماریات لکاؤ
 place-database-stats-count = ڳݨتری
+place-database-stats-size-kib = سائز (KiB)
+place-database-stats-size-perc = سائز (%)
+place-database-stats-efficiency-perc = کاکردگی (%)
+a11y-title = رسائیت
+a11y-activated = فعال تھیا
 library-version-title = لائبریری ورشن
 copy-text-to-clipboard-label = متن کوں کلپ بورڈ تے نقل کرو
 sandbox-title = سینڈ باکس
@@ -70,6 +89,7 @@ restart-button-label = دوبارہ شروع کرو
 
 ## Media titles
 
+max-audio-channels = ودھ کنوں ودھ چینل
 media-title = میڈیا
 media-output-devices-title = آؤٹ پٹ آلات
 media-input-devices-title = ان پٹ آلات
@@ -85,6 +105,14 @@ media-device-latency = تاخیر
 
 ##
 
+intl-app-title = ایپ ترتیباں
+intl-locales-requested = ارداس تھئے لوکیل
+intl-locales-available = دستیاب لوکیل
+intl-locales-supported = ایپ لوکیل
+intl-locales-default = ڈیفالٹ لوکیل
+intl-os-title = آپریٹنگ سسٹم
+intl-os-prefs-system-locales = سسٹم لوکیل
+intl-regional-prefs = علاقائی ترجیحاں
 
 ## Remote Debugging
 ##
