@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Ñemoñe’ẽ:
 urlbar-result-menu-button =
     .title = Poravorã ijurujáva
+urlbar-result-menu-remove-from-history =
+    .label = Emboguepa tembiasakuégui
+    .accesskey = R
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -966,3 +969,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ndohejái ko kuatiarogue 
 refresh-blocked-allow =
     .label = Ñemoneĩ
     .accesskey = A
+
+## Firefox Relay integration
+
