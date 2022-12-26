@@ -179,6 +179,7 @@ support-printing-prefs-value = قدر
 
 ## Normandy sections
 
+support-remote-experiments-title = پروبھرے تجربے
 support-remote-experiments-name = ناں
 support-remote-features-title = پروبھریاں خصوصیات
 support-remote-features-name = ناں

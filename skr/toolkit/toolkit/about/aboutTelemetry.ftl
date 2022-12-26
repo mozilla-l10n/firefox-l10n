@@ -10,10 +10,32 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = ٹیلی میٹری ڈیٹا
 about-telemetry-home-section = مُکھ پناں
+about-telemetry-general-data-section = عمومی ڈیٹا
+about-telemetry-environment-data-section = ماحولیاتی ڈیٹا
+about-telemetry-session-info-section = سیشن ڄاݨکاری
+about-telemetry-scalar-section = سکیلر
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = { $selectedTitle } وچ لبھو
+about-telemetry-filter-all-placeholder =
+    .placeholder = سارے حصیاں وچ لبھو
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = “{ $searchTerms }” کیتے نتیجے
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = موجودہ ڈیٹا
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = سارے
 # button label to copy the histogram
 about-telemetry-histogram-copy = نقل کرو
+about-telemetry-slow-sql-hits = ہٹس
+about-telemetry-slow-sql-average = اوسط وقت (ms)
+about-telemetry-slow-sql-statement = بیان
+about-telemetry-addon-table-details = تفصیلاں
 about-telemetry-keys-header = خاصیت
 about-telemetry-names-header = ناں
 about-telemetry-values-header = قدر
@@ -21,3 +43,5 @@ about-telemetry-category-header = ونکی
 about-telemetry-method-header = طریقہ
 about-telemetry-object-header = شئے
 about-telemetry-extra-header = وادھوں
+about-telemetry-origin-origin = اصل
+about-telemetry-origin-count = ڳݨتری کرو
