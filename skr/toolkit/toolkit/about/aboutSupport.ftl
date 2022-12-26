@@ -149,11 +149,15 @@ restart-in-troubleshoot-mode-label = ٹربل شوٹ موڈ…
 clear-startup-cache-title = سٹارٹ اپ کیشے کوں صاف کرݨ دی کوشش کرو۔
 clear-startup-cache-label = سٹارٹ اپ کیشے کوں صاف کرو…
 startup-cache-dialog-title2 = سٹارٹ اپ کیشے کوں صاف کرݨ کیتے { -brand-short-name } کوں دوبارہ شروع کرو؟
+startup-cache-dialog-body2 = ایہ تہاݙیاں ترتیباں کوں تبدیل نہ کریسے تے نہ ای ایکسٹینشنز کوں ہٹیسے۔
 restart-button-label = دوبارہ شروع کرو
 
 ## Media titles
 
+audio-backend = آڈیو بیک اینڈ
 max-audio-channels = ودھ کنوں ودھ چینل
+sample-rate = ترجیحی نمونے دی شرح
+roundtrip-latency = راؤنڈ ٹرپ وِچ تاخیر (معیاری انحراف)
 media-title = میڈیا
 media-output-devices-title = آؤٹ پٹ آلات
 media-input-devices-title = ان پٹ آلات
@@ -166,9 +170,14 @@ media-device-format = وضع
 media-device-channels = چینلز
 media-device-rate = ریٹ
 media-device-latency = تاخیر
+media-capabilities-title = میڈیا دیاں صلاحیتاں۔
+media-codec-support-info = کوڈیک سپورٹ دی معلومات
+# List all the entries of the database.
+media-capabilities-enumerate = ڈیٹا بیس دی ڳݨتری کرو۔
 
 ##
 
+intl-title = انٹرنیشنلائزیشن تے لوکلائزیشن
 intl-app-title = ایپ ترتیباں
 intl-locales-requested = ارداس تھئے لوکیل
 intl-locales-available = دستیاب لوکیل
@@ -187,10 +196,19 @@ intl-regional-prefs = علاقائی ترجیحاں
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = ریموٹ ڈیبگنگ (کرومیم پروٹوکول)
+remote-debugging-accepting-connections = کنکشنز کوں قبول کرݨ
 remote-debugging-url = یوآرایل
 
 ##
 
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] چھیکڑی { $days } ݙینہہ دیاں کریش رپورٹاں
+       *[other] چھیکڑی { $days } ݙینہاں دیاں کریش رپورٹاں
+    }
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -212,6 +230,14 @@ crashes-time-days =
         [one] { $days } ݙین٘ہ پہلے
        *[other] { $days } ݙین٘ہ پہلے
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] تمام کریش رپورٹاں (بشمول { $reports } ݙتے ڳئے وقت دی حد وِچ زیر التواء حادثے)
+       *[other] تمام کریش رپورٹاں (بشمول { $reports }{ $reports } ݙتے ڳئے وقت دی حد وِچ زیر التواء کریشز)
+    }
+raw-data-copied = خام ڈیٹا کلپ بورڈ تے کاپی تھی ڳیا
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
