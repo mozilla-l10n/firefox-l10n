@@ -18,6 +18,7 @@ abuse-report-submit-button = جمع کرواؤ
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = جیا، ایں کوں ہٹاؤ
 abuse-report-messagebar-action-retry = ولا کوشش کرو
 abuse-report-messagebar-action-cancel = منسوخ
 

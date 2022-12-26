@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-search-title = ڳولو
+url-classifier-search-result-title = نتیجے
+url-classifier-search-result-uri = یوآرایل: { $uri }
 url-classifier-search-input = یوآرایل
 url-classifier-search-error-invalid-url = غلط یوآرایل
 url-classifier-search-features = خاص

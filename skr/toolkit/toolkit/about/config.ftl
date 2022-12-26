@@ -5,9 +5,12 @@
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = احتیاط نال اڳو تے ودھو
+about-config-intro-warning-text = اعلی درجے دی ترتیب دیاں ترجیحاں کوں تبدیل کرݨ { -brand-short-name } دی کارکردگی یا سیکیورٹی کوں متاثر کر سڳدا ہے۔
 
 ##
 
+about-config-show-all = سارے ݙکھاؤ
 about-config-pref-add-button =
     .title = شامل کرو
 about-config-pref-toggle-button =
