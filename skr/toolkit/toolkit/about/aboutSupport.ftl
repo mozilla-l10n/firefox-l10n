@@ -5,6 +5,7 @@
 page-title = ٹربل شوٹنگ معلومات
 crashes-title = کریش رپورٹاں
 crashes-id = رپورٹ ID
+crashes-all-reports = ساریاں کریش رپورٹاں
 support-addons-title = ایڈ ــ آن
 support-addons-name = ناں
 support-addons-type = قسم
@@ -25,8 +26,12 @@ processes-count = ڳݨتری
 app-basics-name = ناں
 app-basics-version = ورشن
 app-basics-build-id = بلڈ-آئی ڈی
+app-basics-update-channel = چینل اپ ڈیٹ کرو
+app-basics-enabled-plugins = فعال تھئے پلگ ان
 app-basics-os = OS
 app-basics-os-theme = او ایس تھیم
+app-basics-performance = کارکردگی
+app-basics-profiles = پروفائلاں
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -50,6 +55,10 @@ place-database-stats = شماریات
 place-database-stats-show = شماریات ݙکھاؤ
 place-database-stats-hide = شماریات لکاؤ
 place-database-stats-count = ڳݨتری
+library-version-title = لائبریری ورشن
+copy-text-to-clipboard-label = متن کوں کلپ بورڈ تے نقل کرو
+sandbox-title = سینڈ باکس
+sandbox-sys-call-log-title = مسترد سیسٹم کال
 sandbox-sys-call-index = #
 sandbox-sys-call-age = کجھ سیکنڈ پہلے
 sandbox-sys-call-pid = PID
@@ -90,6 +99,27 @@ remote-debugging-url = یوآرایل
 
 ##
 
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } منٹ پہلے
+       *[other] { $minutes } منٹ پہلے
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } گھنٹہ پہلے
+       *[other] { $hours } گھنٹے پہلے
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } ݙین٘ہ پہلے
+       *[other] { $days } ݙین٘ہ پہلے
+    }
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -117,9 +147,11 @@ gpu-driver-version = ڈرائیور ورشن
 gpu-driver-date = ڈرائیور تریخ
 gpu-active = فعال
 glcontext-crash-guard = OpenGL
+gpu-device-reset = ڈیوائس ری سیٹ کرو
 sandbox-proc-type-content = مواد
 sandbox-proc-type-file = فائل مواد
 sandbox-proc-type-media-plugin = میڈیا پلگ ان
+launcher-process-status-0 = فعال تھیا
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -142,6 +174,8 @@ policies-error = نقص
 
 ## Printing section
 
+support-printing-prefs-name = ناں
+support-printing-prefs-value = قدر
 
 ## Normandy sections
 
