@@ -25,6 +25,7 @@ about-logging-page-title = Mboheraguapy ñangarekoha
 about-logging-current-log-file = Marandurenda rembiasakue rehegua:
 about-logging-current-log-modules = Jehaipy ra’ãha rehegua:
 about-logging-new-log-file = Marandurenda mboheraguapy pyahu:
+about-logging-currently-enabled-log-modules = Mboheraguapy ra’ãha ijurujahína:
 about-logging-log-tutorial = Eporandu <a data-l10n-name="logging">HTTP Logging</a> eikuaasérõ mba’éichapa eipurúta tembipuru.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Embojuruja marandurenda’aty
@@ -45,7 +46,10 @@ about-logging-logging-preset-selector-text = Mboheraguapy ypygua:
 ## Logging presets
 
 about-logging-preset-networking-label = Pyha
+about-logging-preset-networking-description = Mboheraguapy ra’ãha ehecha hag̃ua pyha apañuãi
+about-logging-preset-media-playback-label = Hekoetáva mboheta
 about-logging-preset-custom-label = Ñemomba’epyre
+about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyre
 # Error handling
 about-logging-error = Javy:
 
@@ -53,3 +57,4 @@ about-logging-error = Javy:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Tepykue oiko’ỹva “{ $v }“ “{ $k }“ mba’eñemíme g̃uarã

@@ -115,6 +115,9 @@ places-forget-about-this-site-confirmation-title = Eñembyesarái ko tendágui
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ko tembiapo omboguepáta umi mba’ekuaarã ojokupytýva { $hostOrBaseDomain } ndive oĩhápe tembiasakue, ñe’ẽñemi, kookie, kache ha tetepy guerohoryvéva. ¿Eku’eseve añetehápe?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Ko tembiapo omboguepáta mba’ekuaarã ojokupytýva { $hostOrBaseDomain } ndive, oĩhápe tembiasakue, kookie, kache ha tetepy eguerohoryvéva. Techaukaha ha ñe’ẽñemi ojokupytýva ndoguemo’ãi. ¿Eku’eseve añetehápe?
 places-forget-about-this-site-forget = Tesarái
 places-library =
     .title = Mba’erysýi
