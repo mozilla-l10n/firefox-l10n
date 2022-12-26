@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = ایں سائٹ بارے بھ
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = ایہ کارروائی { $hostOrBaseDomain } نال متعلق تمام ڈیٹا کوں ہٹا ݙیسے بشمول تاریخ، پاس ورڈ، کوکیاں، کیشے تے مواد دیاں ترجیحاں۔ کیا تساں واقعی اڳو تے ودھݨ چاہندے او؟َ
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = ایہ کارروائی { $hostOrBaseDomain } دے متعلق ڈیٹا کوں ہٹا ݙیسے بشمول تاریخ، کوکیاں، کیشے تے مواد دیاں ترجیحاں۔ متعلقہ نشانیاں تے پاس ورڈز نہ ہٹائے ویسن۔ کیا تساں واقعی اڳو تے ودھݨ چاہندے او؟
 places-forget-about-this-site-forget = بھل ونڄو
 places-library =
     .title = لائبریری

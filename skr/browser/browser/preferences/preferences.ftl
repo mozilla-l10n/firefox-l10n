@@ -398,6 +398,11 @@ update-application-suppress-prompts =
     .label = گھٹ اپ ڈیٹ نوٹیفکیشن پرامپٹس ݙکھاؤ۔
     .accesskey = n
 update-setting-write-failure-title2 = اپ ڈیٹ دیاں ترتیباں کوں محفوظ کرݨ وِچ خرابی۔
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 = { -brand-short-name } کوں ہک خامی دا سامݨا کرݨا پیا تے ایں تبدیلی کوں ہتھیکڑا نہیں کیتا۔ نوٹ کرو جو ایں اپ ڈیٹ دی ترتیب کوں تبدیل کرݨ کیتے تلے ݙتی ڳئی فائل وِچ لکھݨ دی اجازت درکار ہے۔ تساں یا سسٹم ایڈمنسٹریٹر ایں فائل تے یوزرز گروپ کوں مکمل کنٹرول ݙے تے ایں غلطی کوں حل کر سڳدے ہن۔
 update-in-progress-title = اپ ڈیٹ جاری ہے
 update-in-progress-message = کیا تہاݙی { -brand-short-name } دی اپ ڈیٹ جاری رکھݨ چاہندے او؟
 update-in-progress-ok-button = تے کڈھ سٹو
@@ -1156,6 +1161,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } وِچ ڈسک د�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = ایچ ٹی ٹی پی ایس ــ صرف موڈ
+httpsonly-description = HTTPS { -brand-short-name } تے انہاں ویب سائٹاں دے درمیان ہک محفوظ، خفیہ کنکشن فراہم کریندا ہے جیڑھا تساں ݙیکھدے او۔ زیادہ تر ویب سائٹاں HTTPS کوں سپورٹ کریندیاں ہن، تے جے HTTPS-Only Mode فعال ہے، تاں { -brand-short-name } تمام کنکشنز کوں HTTPS وِچ اپ گریڈ کر ݙیسے۔
 httpsonly-learn-more = ٻیا سِکھو
 httpsonly-radio-enabled =
     .label = تمام ونڈوز وِچ HTTPS-Only Mode فعال کرو
