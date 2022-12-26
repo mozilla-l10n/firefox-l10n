@@ -22,6 +22,7 @@ origin-title = اصل: { $originTitle }
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>دائرہ کار:</strong> { $name }
+script-spec = <strong>سکرپٹ دیاں تفصیلاں:</strong> <a data-l10n-name="link">{ $url }</a>
 # This term is used as a button label (verb, not noun).
 update-button = اپ ڈیٹ کرو
 unregister-button = ریجسٹریشن ختم کرو
