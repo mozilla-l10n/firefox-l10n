@@ -149,6 +149,9 @@ spotlight-public-wifi-vpn-link = ہݨ نہ
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = ساݙے سبھ توں تکڑے ٹیسٹ پائلٹ رازداری دا تجربہ کرو
 spotlight-total-cookie-protection-body = ٹوٹل کوکی پروٹیکشن ٹریکز کوں کوکیز استعمال کرݨ کنوں روکیندا ہے تاں جو تہاکوں ویب تے چھمکاں لڳن۔
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } کوکیاں دے چودھار لوڑھا بݨیندا ہے، انہاں کوں ایں سائٹ تائیں محدود کریندا ہے جیندے اوتے تساں او تاں جو ٹریکرز تہاݙی پیروی کرݨ کیتے انہاں کوں استعمال نہ کر سڳن۔ ابتدائی رسائی دے نال، تساں ایں خصوصیت کوں بہتر بݨاوݨ وِچ مدد کریسو تاں جو اساں سبھ کیتے ہک بہتر ویب بݨا سڳوں۔
 spotlight-total-cookie-protection-primary-button = ٹوٹل کوکی تحفظ چالو کرو
 spotlight-total-cookie-protection-secondary-button = ہݨ کائناں
 cfr-total-cookie-protection-header = تہاݙا شکریہ، { -brand-short-name } پہلے کنوں ٻہوں نجی تے محفوظ ہے

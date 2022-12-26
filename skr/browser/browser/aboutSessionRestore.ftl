@@ -37,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = سبھے ونڈوز تے ٹیبز بحال کرو
 welcome-back-restore-some-label = صرف اوہو بحال کرو جیڑھا تساں چاہندے او
+welcome-back-page-info-link = تہاݙے ایڈ آنز تے تخصیصات کوں ہٹا ݙتا ڳیا ہے تے تہاݙے براؤزر دیاں ترتیباں کوں انہاں دے ڈیفالٹس تے بحال کر ݙتا ڳیا ہے۔ جے ایندے نال تہاݙا مسئلہ حل نہیں تھیندا، تاں <a data-l10n-name="link-more">ایں بارے ودھیک ڄاݨو جو تساں کیا کرسڳدے او۔</a>

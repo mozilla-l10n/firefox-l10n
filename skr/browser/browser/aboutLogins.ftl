@@ -161,10 +161,22 @@ about-logins-confirm-remove-all-dialog-title =
         [one] سبھے { $count } لاگ ان ہٹا ݙیوں؟
        *[other] سبھے { $count } لاگ انز ہٹا ݙیوں؟
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] ایہ ایں لاگ ان کوں ہٹا ݙیسے جینکوں تساں { -brand-short-name } وِچ ہتھیکڑا کیتا ہے تے خلاف ورزی دیاں چتاوݨیاں جیڑھیاں اتھاں ظاہر تھیسن۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
+        [one] { "" }
+       *[other] ایہ ان لاگ انز کوں ہٹا ݙیسے جیڑھے تساں { -brand-short-name } وِچ ہتھیکڑے کیتے ہن تے خلاف ورزی دیاں چتاوݨیاں جیڑھیاں اتھاں ظاہر تھیسن۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } لاگ ان سبھ آلات کنوں ہٹا ݙیوں؟
        *[other] سبھے { $count } سبھ آلات کنوں ہٹا ݙیوں؟
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] ایہ تہاݙے { -fxaccount-brand-name } نال مطابقت پذیر تمام آلات تے { -brand-short-name } وِچ ہتھیکڑے لاگ ان کوں ہٹا ݙیسے۔ ایہ اتھاں ظاہر تھیوݨ والے خلاف ورزی دیاں چتاوݨیاں کوں وی ہٹا ݙیسے۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
+        [one] { "" }
+       *[other] ایہ تہاݙے { -fxaccount-brand-name } نال مطابقت پذیر تمام آلات تے { -brand-short-name } وِچ ہتھیکڑے کیتے ڳئے تمام لاگ انز کوں ہٹا ݙیسے۔ ایہ اتھاں ظاہر تھیوݨ والیاں خلاف ورزی دیاں چتاوݨیاں کوں وی ہٹا ݙیس۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
     }
 about-logins-confirm-export-dialog-title = لاگ ان تے پاس ورڈ برآمد کرو
 about-logins-confirm-export-dialog-message = تہاݙے پاس ورڈز کوں پڑھݨ دے قابل متن دے طور تے ہتھیکڑا کیتا ویسے ( مثلاً (e.g., BadP@ssw0rd)  تاں جو جیڑھا وی برآمد شدہ فائل کوں کھول سڳدا ہے وہ انہاں کوں ݙیکھ سڳے۔

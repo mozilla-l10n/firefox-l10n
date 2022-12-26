@@ -7,6 +7,14 @@
 ### feature.
 
 about-unloads-page-title = ٹیب ان لوڈنگ
+about-unloads-intro =
+    { -brand-short-name } وِچ ہک خصوصیت ہے جیڑھی خود بخود ٹیباں کوں اتار ݙیندی ہے۔
+    ناکافی میموری دی وجہ توں ایپلی کیشن کوں کریش تھیوݨ کنوں روکݨ کیتے
+    جݙاں سسٹم دی دستیاب میموری گھٹ ہووے۔ اڳلا ٹیب جیڑھا ان لوڈ کرݨا ہے او ہے۔
+    متعدد صفتاں دی بنیاد تے منتخب کیتا ڳیا ہے۔ ایہ ورقہ ݙکھیندا ہے جو کیویں
+    { -brand-short-name } ٹیباں کوں ترجیح ݙیندا ہے تے کیڑھا ٹیب لاتھا ویسے
+    جݙا ٹیب ان لوڈنگ کوں متحرک کیتا ویندا ہے۔ تساں ٹیب لہاوݨ کوں دستی طور تے متحرک کر سڳدے او
+    تلے <em>ان لوڈ</em> بٹن تے کلک کرتے۔
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = ٹیب ان لوڈنگ </a> دے بارے ودھیک ڄاݨݨ کیتے <a data-l10n-name="doc-link"> ݙیکھو
