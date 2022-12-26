@@ -31,4 +31,5 @@ push-end-point-result = <strong>پش اینڈ پوائنٹ:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = اپ ڈیٹ کرو
 unregister-button = ریجسٹریشن ختم کرو
+unregister-error = ایں سروس ورکر دا اندرج ختم کرݨ وِچ ناکام۔
 waiting = انتظار کریندا پیا ہے۔۔

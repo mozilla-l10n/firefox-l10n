@@ -3,10 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ٹربل شوٹنگ معلومات
+page-subtitle =
+    ایہ ورقہ تکنیکی معلومات تے مشتمل ہے جیڑھی اوں ویلھے مفید تھی سڳدی ہے جݙاں تساں ہوو
+    ہک مسئلہ کوں حل کرݨ دی کوشش کریندا پیا ہے۔ جے تساں عام سوالات دے جواب ڳولیندے پئے او۔
+    { -brand-short-name } دے بارے ، اساݙی <a data-l10n-name="support-link">سپورٹ ویب سائٹ</a> ݙیکھو۔
 crashes-title = کریش رپورٹاں
 crashes-id = رپورٹ ID
 crashes-send-date = جمع تھئے ہوئے
 crashes-all-reports = ساریاں کریش رپورٹاں
+crashes-no-config = ایں ایپلیکیشن کوں کریش رپورٹاں ݙکھاوݨ کیتے کنفیگر نہیں کیتا ڳیا۔
 support-addons-title = ایڈ ــ آن
 support-addons-name = ناں
 support-addons-type = قسم
@@ -26,9 +31,11 @@ features-id = آئی ڈی
 processes-title = پروبھرے عمل
 processes-type = قسم
 processes-count = ڳݨتری
+app-basics-title = درخواست دیاں منڈھلیاں ڳالھیں
 app-basics-name = ناں
 app-basics-version = ورشن
 app-basics-build-id = بلڈ-آئی ڈی
+app-basics-distribution-id = ونڈ دی ID
 app-basics-update-channel = چینل اپ ڈیٹ کرو
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -39,18 +46,28 @@ app-basics-update-dir =
     }
 app-basics-update-history = تاریخ اپ ڈیٹ کرو
 app-basics-show-update-history = اپ ڈیٹ تاریخ ݙکھاؤ
+# Represents the path to the binary used to start the application.
+app-basics-binary = ایپلی کیشن بائنری
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] پروفائل ڈائریکٹری
        *[other] پروفائل فولڈر
     }
 app-basics-enabled-plugins = فعال تھئے پلگ ان
+app-basics-build-config = کنفیگریشن اُسارو
+app-basics-user-agent = صارف ایجنٹ
 app-basics-os = OS
 app-basics-os-theme = او ایس تھیم
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = روزیٹا ترجمہ شدہ
+app-basics-memory-use = میموری دا استعمال
 app-basics-performance = کارکردگی
+app-basics-service-workers = رجسٹر تھئے خدمت کارکن
 app-basics-third-party = تریجھا فریق ماڈیول
 app-basics-profiles = پروفائلاں
 app-basics-launcher-process-status = لانچر عمل
+app-basics-multi-process-support = ملٹی پروسیس ونڈوز
 app-basics-remote-processes-count = پروبھرے عمل
 app-basics-enterprise-policies = انٹرپرائز پالیسیاں
 app-basics-safe-mode = محفوظ موڈ
