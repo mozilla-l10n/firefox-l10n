@@ -58,3 +58,8 @@ about-logging-error = Javy:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Tepykue oiko’ỹva “{ $v }“ “{ $k }“ mba’eñemíme g̃uarã
+about-logging-unknown-logging-preset = Tepykue ypygua tembiapo ñepyrũ ojekuaa’ỹva “{ $v }“
+about-logging-unknown-profiler-preset = Mbohapeha ypygua ojekuaa’ỹva “{ $v }“
+about-logging-unknown-option = Poravopyrã about:logging ojekuaa’ỹva “{ $k }“
+about-logging-configuration-url-ignored = Ñembohekopyahu hejapyre URL
+about-logging-configured-via-url = Poravopyrã mbohekopyahupyre URL rupive
