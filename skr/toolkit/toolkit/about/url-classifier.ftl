@@ -21,3 +21,6 @@ url-classifier-cache-prefix = سابقہ
 url-classifier-debug-title = ڈیبگ
 url-classifier-enabled = فعال تھیا
 url-classifier-disabled = غیرفعال تھیا
+url-classifier-updating = اپ ڈیٹ تھیندا پئے
+url-classifier-cannot-update = اپ ڈیٹ کائنی تھی سڳدا
+url-classifier-success = کامیابی

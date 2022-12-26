@@ -23,6 +23,11 @@ origin-title = اصل: { $originTitle }
 
 scope = <strong>دائرہ کار:</strong> { $name }
 script-spec = <strong>سکرپٹ دیاں تفصیلاں:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>موجودہ کارکن URL:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>فعال کیشے دا ناں:</strong> { $name }
+waiting-cache-name = <strong>انتظاری کیشے دا ناں:</strong> { $name }
+push-end-point-waiting = <strong>پش اینڈ پوائنٹ:</strong> { waiting }
+push-end-point-result = <strong>پش اینڈ پوائنٹ:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = اپ ڈیٹ کرو
 unregister-button = ریجسٹریشن ختم کرو
