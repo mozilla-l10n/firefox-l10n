@@ -78,6 +78,12 @@ about-webrtc-show-tab-label = ٹیب ݙکھاؤ
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = مہیا تھیا
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = مہیا کائنی تھیا
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -87,6 +93,22 @@ about-webrtc-show-tab-label = ٹیب ݙکھاؤ
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } فریم
+       *[other] { $frames } فریم
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } چینل
+       *[other] { $channels } چینل
+    }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol

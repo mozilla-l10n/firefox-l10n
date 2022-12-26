@@ -235,6 +235,8 @@ fission-status-experiment-treatment = تجربے نال فعال تھیا
 fission-status-disabled-by-e10s-env = ماحول نال غیرفعال تھیا
 fission-status-enabled-by-env = ماحول نال فعال تھیا
 fission-status-disabled-by-env = ماحول نال غیرفعال تھیا
+fission-status-enabled-by-default = ڈیفالٹ نال فعال تھیا
+fission-status-disabled-by-default = ڈیفالٹ نال غیرفعال تھیا
 apz-none = کوئی کائنی
 
 ## Variables

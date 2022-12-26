@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-show-current-data = موجودہ ڈیٹا
+about-telemetry-choose-ping = پنگ چُݨو:
+about-telemetry-archive-ping-type = پنگ قسم
 about-telemetry-archive-ping-header = پنگ
 about-telemetry-option-group-today = اڄ
 about-telemetry-option-group-yesterday = کل
@@ -10,6 +12,7 @@ about-telemetry-option-group-older = پُراݨے
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = ٹیلی میٹری ڈیٹا
+about-telemetry-current-store = موجودہ سٹور:
 about-telemetry-home-section = مُکھ پناں
 about-telemetry-general-data-section = عمومی ڈیٹا
 about-telemetry-environment-data-section = ماحولیاتی ڈیٹا
@@ -50,6 +53,8 @@ about-telemetry-addon-table-details = تفصیلاں
 about-telemetry-keys-header = خاصیت
 about-telemetry-names-header = ناں
 about-telemetry-values-header = قدر
+about-telemetry-stack-title = سٹیک:
+about-telemetry-memory-map-title = میموری نقشہ:
 about-telemetry-category-header = ونکی
 about-telemetry-method-header = طریقہ
 about-telemetry-object-header = شئے
