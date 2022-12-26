@@ -8,4 +8,26 @@ rights-intro =
     دنیا بھر توں ہزاراں دی تعداد وِچ۔ تہاکوں کجھ چیزاں کرݨیاں چاہیدیاں ہن
     ڄاݨدے او:
 rights-intro-point-4-unbranded = ایں بݨتر کیتے کوئی وی قابل اطلاق رازداری دیاں پالیسیاں کوں اتھاں درج کیتا ونڄݨا چاہیدا ہے۔
+rights-webservices-header = { -brand-full-name } ویب تے مبنی معلوماتی خدمات
+rights-safebrowsing =
+    <strong>SafeBrowsing: </strong>محفوظ براؤزنگ دی خصوصیت کوں غیر فعال کرݨ ایویں کائنی
+    تجویز کیتی ڳئی ہے کیوں جو ایندے نتیجے وِچ تساں غیر محفوظ سائٹاں تے ونڄ سڳدے او۔ جے تساں چاہو
+    خصوصیت کوں مکمل طور تے غیر فعال کرو، انہاں اقدامات تے عمل کرو:
 rights-safebrowsing-term-1 = ایپ ترجیحاں کھولو
+rights-safebrowsing-term-2 = سیکیورٹی دا انتخاب منتخب کرو۔
+rights-safebrowsing-term-3 = "{ enableSafeBrowsing-label }" دے آپشن کوں غیر چیک کرو۔
+enableSafeBrowsing-label = خطرناک تے گمراہ کن مواد کوں بلاک کرو
+rights-safebrowsing-term-4 = محفوظ براؤزنگ ہݨ غیر فعال ہے
+rights-locationawarebrowsing =
+    <strong>مقام کنوں آگاہ براؤزنگ: </strong>ہمیشاں آپٹ ان تھیندا ہے۔ کوئی مقام کائنی
+    معلومات کݙاہیں وی تہاݙی اجازت دے بغیر بھیڄیاں ویندیاں ہن۔ جے تساں غیر فعال کرݨ چاہندے او
+    خصوصیت مکمل طور تے، انہاں اقدامات تے عمل کرو:
+rights-locationawarebrowsing-term-1 = URL بار وِچ، <code>about:config</code> ٹائپ کرو۔
+rights-locationawarebrowsing-term-2 = geo.enabled ٹائپ کرو
+rights-locationawarebrowsing-term-3 = geo.enabled ترجیح تے ڈبل کلک کرو۔
+rights-locationawarebrowsing-term-4 = مقام کنوں آگاہ براؤزنگ ہݨ غیر فعال ہے۔
+rights-webservices-unbranded =
+    ویب سائٹ دیاں خدمات دا ہک جائزہ جنہاں دے نال پروڈکٹ شامل کریندا ہے۔
+    انہاں کوں غیر فعال کرݨ دے بارے ہدایات، جے قابل اطلاق ہوون تاں، شامل کرݨیاں چاہیدیاں ہن
+    اتھاں۔
+rights-webservices-term-unbranded = ایں بݨتر کیتے کہیں وی قابل اطلاق سروس دیاں شرطاں کوں اتھاں درج کرݨا چاہیدا ہے۔
