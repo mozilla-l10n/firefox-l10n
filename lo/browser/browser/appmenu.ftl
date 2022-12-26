@@ -77,8 +77,10 @@ appmenu-remote-tabs-opensettings =
 appmenu-remote-tabs-noclients = ຕ້ອງການໃຫ້ເຫັນແທັບທີ່ນີ້ຂອງທ່ານໄດ້ຈາກອຸປະກອນອື່ນໆບໍ່?
 appmenu-remote-tabs-connectdevice =
     .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
+appmenu-remote-tabs-welcome = ເບິງລາຍຊື່ແທັບຈາກອຸປະກອນອື່ນໆຂອງທ່ານ
 appmenu-remote-tabs-unverified = ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.
 appmenuitem-fxa-toolbar-sync-now2 = Sync ຕອນນີ້
+appmenuitem-fxa-sign-in = ເຂົ້າສູ່ລະບົບ { -brand-product-name }
 appmenuitem-fxa-manage-account = ຈັດການບັນຊີ
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # Variables
@@ -96,6 +98,11 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ມີ​ຫຍັງ​ໃຫມ່
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = ແຈ້ງເຕືອນກ່ຽວກັບຄຸນສົມບັດໃໝ່
+    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
