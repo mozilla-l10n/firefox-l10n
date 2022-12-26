@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ٹربل شوٹنگ معلومات
+crashes-title = کریش رپورٹاں
+crashes-id = رپورٹ ID
 support-addons-title = ایڈ ــ آن
 support-addons-name = ناں
 support-addons-type = قسم
@@ -55,6 +57,7 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = پروسیسنگ دی قسم
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = دلیلاں
+restart-button-label = دوبارہ شروع کرو
 
 ## Media titles
 
@@ -114,6 +117,9 @@ gpu-driver-version = ڈرائیور ورشن
 gpu-driver-date = ڈرائیور تریخ
 gpu-active = فعال
 glcontext-crash-guard = OpenGL
+sandbox-proc-type-content = مواد
+sandbox-proc-type-file = فائل مواد
+sandbox-proc-type-media-plugin = میڈیا پلگ ان
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -122,6 +128,7 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+apz-none = کوئی کائنی
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -138,6 +145,7 @@ policies-error = نقص
 
 ## Normandy sections
 
+support-remote-experiments-name = ناں
 support-remote-features-title = پروبھریاں خصوصیات
 support-remote-features-name = ناں
 support-remote-features-status = حالت

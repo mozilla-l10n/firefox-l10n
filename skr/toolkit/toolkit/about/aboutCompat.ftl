@@ -5,6 +5,12 @@
 label-disable = غیر فعال
 label-enable = فعال کرو
 label-interventions = مداخلتاں
+label-more-information = ودھیک معلومات: بگ { $bug }
+label-overrides = یوزر ایجنٹ اوور رائیڈز
+text-disabled-in-about-config = ایں فیچر کوں about:config وِچ غیر فعال کر ݙتا ڳیا ہے۔
+text-no-interventions = کوئی مداخلت نہیں کیتی ویندی پئی
+text-no-overrides = کوئی UA اوور رائیڈز استعمال نہیں کیتے ویندے پئے۔
+text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when
@@ -12,3 +18,5 @@ label-interventions = مداخلتاں
 ## breakage. SmartBlock also contains special fixes for sites broken by
 ## Firefox's Total Cookie Protection feature.
 
+label-smartblock = SmartBlock اصلاحات
+text-no-smartblock = کوئی SmartBlock اصلاحات استعمال نہیں کیتیاں ویندیاں پیاں۔

@@ -2,10 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-archive-ping-header = پنگ
+about-telemetry-option-group-today = اڄ
 about-telemetry-option-group-yesterday = کل
 about-telemetry-option-group-older = پُراݨے
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
+about-telemetry-page-title = ٹیلی میٹری ڈیٹا
 about-telemetry-home-section = مُکھ پناں
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = سارے

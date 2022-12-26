@@ -146,9 +146,18 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = سائٹ اجازتاں
 addon-category-sitepermission-title =
     .title = سائٹ اجازتاں
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string): DNS host name for which the webextension enables permissions
+addon-sitepermission-host = { $host } کیتے سائٹ دی اجازت
 
 ## These are global warnings
 
+extensions-warning-safe-mode = سیف موڈ دی طرفوں تمام ایڈ-آنز غیر فعال کر ݙتے ڳئے ہن۔
+extensions-warning-check-compatibility = ایڈ آن مطابقت پذیری دی جانچ غیر فعال ہے۔ تھی سڳدا ہے تہاݙے کول غیر مطابقت پذیر ایڈ آنز ہوون۔
+extensions-warning-check-compatibility-button = فعال بݨاؤ
+    .title = ایڈ آن مطابقت پذیری دی جانچ فعال بݨاؤ
+extensions-warning-update-security = ایڈ آن اپ ڈیٹ سیکیورٹی چیکنگ غیر فعال ہے۔ تہاݙا اپ ڈیٹاں نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 extensions-warning-update-security-button = فعال بݨاؤ
     .title = ایڈ آن سیکیورٹی چیکنگ فعال بݨاؤ
 

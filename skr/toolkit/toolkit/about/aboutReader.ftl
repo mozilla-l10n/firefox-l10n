@@ -7,6 +7,18 @@ about-reader-load-error = ورقہ کنوں مضمون لوڈ کرݨ وِچ نا
 
 ## These are used as tooltips in Type Control
 
+about-reader-toolbar-minus =
+    .title = فونٹ دا سائز گھٹاؤ
+about-reader-toolbar-plus =
+    .title = فونٹ دا سائز ودھاؤ
+about-reader-toolbar-contentwidthminus =
+    .title = مواد دی چوڑائی گھٹ کرو
+about-reader-toolbar-contentwidthplus =
+    .title = مواد دی چوڑائی ودھاؤ
+about-reader-toolbar-lineheightminus =
+    .title = سطر دی اوچائی گھٹاؤ
+about-reader-toolbar-lineheightplus =
+    .title = سطر دی اوچائی ودھاؤ
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -17,3 +29,4 @@ about-reader-font-type-sans-serif = سینس-سیرف
 
 about-reader-toolbar-close = ریڈر ویو بند کرو
 about-reader-toolbar-type-controls = کنٹرول ٹائپ کرو
+about-reader-toolbar-savetopocket = { -pocket-brand-name } تے ہتھیکڑا کرو

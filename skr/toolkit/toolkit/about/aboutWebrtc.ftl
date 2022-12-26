@@ -28,6 +28,8 @@
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = مقامی
+about-webrtc-type-remote = پروبھرا
 
 ##
 
@@ -43,6 +45,7 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 
 ##
 
+about-webrtc-priority = ترجیح
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 

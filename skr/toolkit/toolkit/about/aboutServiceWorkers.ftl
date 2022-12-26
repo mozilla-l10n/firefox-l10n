@@ -12,4 +12,7 @@
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+# This term is used as a button label (verb, not noun).
+update-button = اپ ڈیٹ کرو
+unregister-button = ریجسٹریشن ختم کرو
 waiting = انتظار کریندا پیا ہے۔۔
