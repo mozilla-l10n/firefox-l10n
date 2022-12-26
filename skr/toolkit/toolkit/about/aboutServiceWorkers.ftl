@@ -7,6 +7,13 @@
 
 about-service-workers-title = خدمت کارکناں بارے
 about-service-workers-main-title = رجسٹر تھئے خدمت کارکن
+about-service-workers-warning-not-enabled = سروس ورکرز فعال کائنی
+about-service-workers-warning-no-service-workers = کوئی سروس ورکر رجسٹرڈ کائنی
+# The original title of service workers' information
+#
+# Variables:
+#   $originTitle: original title
+origin-title = اصل: { $originTitle }
 
 ## These strings are for showing the information of workers.
 ##
@@ -14,6 +21,7 @@ about-service-workers-main-title = رجسٹر تھئے خدمت کارکن
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+scope = <strong>دائرہ کار:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = اپ ڈیٹ کرو
 unregister-button = ریجسٹریشن ختم کرو
