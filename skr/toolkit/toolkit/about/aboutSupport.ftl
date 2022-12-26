@@ -30,6 +30,15 @@ app-basics-name = ناں
 app-basics-version = ورشن
 app-basics-build-id = بلڈ-آئی ڈی
 app-basics-update-channel = چینل اپ ڈیٹ کرو
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] ڈائریکٹری اپ ڈیٹ کرو
+       *[other] فولڈر اپ ڈیٹ کرو
+    }
+app-basics-update-history = تاریخ اپ ڈیٹ کرو
+app-basics-show-update-history = اپ ڈیٹ تاریخ ݙکھاؤ
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] پروفائل ڈائریکٹری
@@ -40,6 +49,7 @@ app-basics-os = OS
 app-basics-os-theme = او ایس تھیم
 app-basics-performance = کارکردگی
 app-basics-profiles = پروفائلاں
+app-basics-launcher-process-status = لانچر عمل
 app-basics-remote-processes-count = پروبھرے عمل
 app-basics-enterprise-policies = انٹرپرائز پالیسیاں
 app-basics-safe-mode = محفوظ موڈ
@@ -48,6 +58,13 @@ app-basics-memory-size = میموری سائز (RAM)
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+show-dir-label =
+    { PLATFORM() ->
+        [macos] فائنڈر وچ ݙکھاؤ
+        [windows] فولڈر کھولو
+       *[other] ڈائریکٹری کھولو
+    }
+environment-variables-title = ماحولیاتی متغیر
 environment-variables-name = ناں
 environment-variables-value = قدر
 experimental-features-name = ناں
@@ -179,6 +196,7 @@ gpu-device-reset = ڈیوائس ری سیٹ کرو
 sandbox-proc-type-content = مواد
 sandbox-proc-type-file = فائل مواد
 sandbox-proc-type-media-plugin = میڈیا پلگ ان
+sandbox-proc-type-data-decoder = ڈیٹا ڈی کوڈر
 launcher-process-status-0 = فعال تھیا
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -202,6 +220,7 @@ policies-error = نقص
 
 ## Printing section
 
+support-printing-troubleshoot = ٹربل شوٹنگ
 support-printing-prefs-name = ناں
 support-printing-prefs-value = قدر
 
