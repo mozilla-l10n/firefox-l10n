@@ -238,13 +238,23 @@ pending-reports =
        *[other] تمام کریش رپورٹاں (بشمول { $reports }{ $reports } ݙتے ڳئے وقت دی حد وِچ زیر التواء کریشز)
     }
 raw-data-copied = خام ڈیٹا کلپ بورڈ تے کاپی تھی ڳیا
+text-copied = متن کلپ بورڈ تے کاپی تھی ڳیا۔
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = تہاݙے گرافکس ڈرائیور ورژن کیتے بلاک ہے۔
+blocked-gfx-card = ڈرائیور دے حل نہ تھیوݨ والے مسائل دی وجہ توں تہاݙے گرافکس کارڈ کیتے بلاک کر ݙتا ڳیا ہے۔
+blocked-os-version = تہاݙے آپریٹنگ سسٹم ورژن کیتے بلاک ہے۔
+blocked-mismatched-version = رجسٹری تے DLL دے درمیان تہاݙے گرافکس ڈرائیور ورژن دی مماثلت دی وجہ توں بلاک ہے۔
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = تہاݙے گرافکس ڈرائیور ورژن کیتے بلاک ہے۔ اپݨے گرافکس ڈرائیور کوں ورژن { $driverVersion } یا ایندے نویں ورژن وِچ اپ ڈیٹ کرݨ دی کوشش کرو۔
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType پیرامیٹر
 compositing = کمپوزیٹنگ
+hardware-h264 = ہارڈ ویئر H264 ضابطہ کشائی
+main-thread-no-omtc = مین تھریڈ، کوئی OMTC کائنی۔
 yes = جیا
 no = کو
 unknown = اݨ ڄاتا
@@ -278,16 +288,49 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2  ڈرائیور ورشن
 webgl2-driver-extensions = WebGL 2  ڈرائیور ایکسٹنشناں
 webgl2-extensions = WebGL 2 ایکسٹنشناں
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = معلوم مسائل دی وجہ توں بلاک لسٹ کیتا ڳیا ہے: <a data-l10n-name="bug-link">بگ { $bugNumber }</a>
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = بلاک لسٹڈ؛ ناکامی دا کوڈ { $failureCode }
+d3d11layers-crash-guard = D3D11 کمپوزیٹر
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX ویڈیو ڈیکوڈر
+reset-on-next-restart = اڳلا دوباہ شروع کرݨ تے ولدا ترتیب ݙیوو۔
+gpu-process-kill-button = GPU عمل کوں ختم کرو۔
 gpu-device-reset = ڈیوائس ری سیٹ کرو
+gpu-device-reset-button = ٹرگر ڈیوائس ری سیٹ کرو
+uses-tiling = ٹائلنگ دا استعمال کریندا ہے
+content-uses-tiling = ٹائلنگ دا استعمال کریندا ہے (مواد)
+off-main-thread-paint-enabled = آف مین تھریڈ پینٹنگ فعال ہے۔
+off-main-thread-paint-worker-count = آف مین تھریڈ پینٹنگ ورکر کاؤنٹ
+target-frame-rate = ٹارگٹ فریم ریٹ
+min-lib-versions = متوقع کم از کم ورژن
 loaded-lib-versions = استعمال وچ ورشن
+has-seccomp-bpf = Seccomp-BPF (سسٹم کال فلٹرنگ)
+has-seccomp-tsync = Seccomp تھریڈ سنکرونائزیشن
+has-user-namespaces = صارف دے ناں دیاں جاہیں۔
+has-privileged-user-namespaces = مراعات یافتہ عمل کیتے صارف دے ناں دیاں جاہیں
+can-sandbox-content = مواد دا عمل سینڈ باکسنگ
+can-sandbox-media = میڈیا پلگ ان سینڈ باکسنگ
+content-sandbox-level = مواد دا عمل سینڈ باکس دی سطح
+effective-content-sandbox-level = موثر مواد پراسیس سینڈ باکس لیول
+content-win32k-lockdown-state = مواد دے عمل کیتے Win32k لاک ڈاؤن سٹیٹ
+support-sandbox-gpu-level = جی پی یو پروسیس سینڈ باکس لیول
 sandbox-proc-type-content = مواد
 sandbox-proc-type-file = فائل مواد
 sandbox-proc-type-media-plugin = میڈیا پلگ ان
 sandbox-proc-type-data-decoder = ڈیٹا ڈی کوڈر
+startup-cache-title = سٹارٹ اپ کیشے
 startup-cache-disk-cache-path = ڈسک کیشے دا راہ
 startup-cache-ignore-disk-cache = ڈسک کیشے کوں اہمیت نہ ݙیوو
+startup-cache-found-disk-cache-on-init = Init تے ڈسک کیشے ملیا
+startup-cache-wrote-to-disk-cache = ڈسک کیشے تے لکھیا
 launcher-process-status-0 = فعال تھیا
+launcher-process-status-1 = ناکامی دی وجہ توں معذور
+launcher-process-status-2 = زبردستی معذور
+launcher-process-status-unknown = نامعلوم حیثیت
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -303,11 +346,24 @@ fission-status-enabled-by-env = ماحول نال فعال تھیا
 fission-status-disabled-by-env = ماحول نال غیرفعال تھیا
 fission-status-enabled-by-default = ڈیفالٹ نال فعال تھیا
 fission-status-disabled-by-default = ڈیفالٹ نال غیرفعال تھیا
+fission-status-enabled-by-user-pref = صارف دے ذریعے فعال کیتا ڳیا۔
+fission-status-disabled-by-user-pref = صارف دے ذریعہ غیر فعال
+fission-status-disabled-by-e10s-other = E10s غیر فعال
+fission-status-enabled-by-rollout = مرحلہ وار رول آؤٹ دے ذریعے فعال کیتا ڳیا۔
+async-pan-zoom = غیر مطابقت پذیر پین/زوم
 apz-none = کوئی کائنی
+wheel-enabled = وہیل ان پٹ فعال
+touch-enabled = ٹچ ان پٹ فعال ہے۔
+drag-enabled = سکرول بار ڈریگ فعال ہے۔
+keyboard-enabled = کی بورڈ فعال
+autoscroll-enabled = آٹو سکرول فعال
+zooming-enabled = ہموار چوٹکی زوم فعال
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = غیر تعاون یافتہ pref دی وجہ توں async وہیل ان پٹ کوں غیر فعال کر ݙتا ڳیا ہے: { $preferenceKey }
+touch-warning = غیر تعاون یافتہ pref دی وجہ توں async ٹچ ان پٹ کوں غیر فعال کر ݙتا ڳیا ہے: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
@@ -317,7 +373,10 @@ policies-error = نقص
 
 ## Printing section
 
+support-printing-title = پرنٹنگ
 support-printing-troubleshoot = ٹربل شوٹنگ
+support-printing-clear-settings-button = ہتھیکڑے پرنٹ دی ترتیباں کوں صاف کرو۔
+support-printing-modified-settings = ترمیم شدہ پرنٹ دیاں ترتیباں
 support-printing-prefs-name = ناں
 support-printing-prefs-value = قدر
 
@@ -325,6 +384,8 @@ support-printing-prefs-value = قدر
 
 support-remote-experiments-title = پروبھرے تجربے
 support-remote-experiments-name = ناں
+support-remote-experiments-branch = تجرباتی ٹنگ
+support-remote-experiments-see-about-studies = ودھیک معلومات کیتے <a data-l10n-name="support-about-studies-link">about:studies</a> ݙیکھو، بشمول انفرادی تجربات کوں کیویں غیر فعال کیتا ونڄے یا { -brand-short-name } کوں اینکوں چلاوݨ کنوں غیر فعال کیتا ونڄے۔ مستقبل وِچ تجربے دی ونکی.
 support-remote-features-title = پروبھریاں خصوصیات
 support-remote-features-name = ناں
 support-remote-features-status = حالت

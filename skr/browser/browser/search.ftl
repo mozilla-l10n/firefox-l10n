@@ -30,4 +30,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+removed-search-engine-message = <strong>تہاݙا ڈیفالٹ سرچ انجݨ تبدیل کر ݙتا ڳیا ہے۔</strong> { $oldEngine } ہݨ ڈیفالٹ سرچ انجݨ دے طور ت { -brand-short-name } وِچ دستیاب کائنی۔ { $newEngine } ہݨ تہاݙا ڈیفالٹ سرچ انجݨ ہے۔ ٻئے ڈیفالٹ سرچ انجݨ وِچ تبدیل کرݨ کیتے، ترتیباں تے ونڄو۔ <label data-l10n-name="remove-search-engine-article">ودھیک ڄاݨو </label>
 remove-search-engine-button = ٹھیک ہے
