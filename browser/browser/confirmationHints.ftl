@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Fjalëkalim u ruajt!
 confirmation-hint-pin-tab = U fiksua!
 confirmation-hint-pin-tab-description = Djathtasklikoni mbi skedën që të hiqet nga e fiksuar.
 confirmation-hint-send-to-device = U dërgua!
+confirmation-hint-firefox-relay-mask-generated = U prodhua maskë e re { -relay-brand-short-name }!

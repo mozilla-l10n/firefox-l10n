@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Shfaq sinjalizime rreth fjalëkalimesh për sajte të cenuar
     .accesskey = f
 forms-breach-alerts-learn-more-link = Mësoni më tepër
+relay-integration =
+    .label = Aktivizoni { -relay-brand-name } në përgjegjësin tuaj të fjalëkalimeve { -brand-short-name }
+relay-integration-learn-more-link = Mësoni më tepër
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Vetëplotëso kredenciale hyrjeje dhe fjalëkalime
@@ -998,6 +1001,9 @@ content-blocking-fingerprinters = Krijues shenjash gishtash
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Provoni funksionimin tonë në privatësi, më të fuqishëm se kurrë
     .accesskey = P
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Mbrojtja Tërësore Nga Cookie-t i mban “cookies” te sajti ku gjendeni, që gjurmuesit të mos i përdorin dot për t’ju ndjekur nga një saj te tjetri.
 content-blocking-etp-standard-tcp-rollout-learn-more = Mësoni më tepër
