@@ -22,7 +22,7 @@
 # This is the title of the page
 about-logging-title = 關於記錄功能
 about-logging-page-title = 記錄管理員
-about-logging-current-log-file = 目前的紀錄檔:
+about-logging-current-log-file = 目前的紀錄檔：
 about-logging-current-log-modules = 目前的紀錄模組:
 about-logging-new-log-file = 新記錄檔：
 about-logging-currently-enabled-log-modules = 目前啟用的記錄模組：
@@ -37,7 +37,7 @@ about-logging-buttons-disabled = 已透過環境變數設定記錄功能，無�
 about-logging-some-elements-disabled = 已透過網址設定記錄功能，無法動態調整某些設定。
 about-logging-info = 資訊：
 about-logging-log-modules-selection = 選擇記錄模組
-about-logging-new-log-modules = 新記錄模組:
+about-logging-new-log-modules = 新記錄模組：
 about-logging-logging-output-selection = 輸出記錄資料
 about-logging-logging-to-file = 記錄到檔案
 about-logging-logging-to-profiler = 記錄到 { -profiler-brand-name }

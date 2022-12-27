@@ -35,7 +35,7 @@ about-networking-bytes-sent = 送出的位元組數
 about-networking-bytes-received = 接收的位元組數
 about-networking-logging = 紀錄
 about-networking-log-tutorial = 請參考 <a data-l10n-name="logging">HTTP Logging</a> 一文當中的使用教學來使用此工具。
-about-networking-current-log-file = 目前的紀錄檔:
+about-networking-current-log-file = 目前的紀錄檔：
 about-networking-current-log-modules = 目前的紀錄模組:
 about-networking-set-log-file = 設定記錄檔
 about-networking-set-log-modules = 設定記錄模組
