@@ -8,6 +8,10 @@ experimental-features-css-masonry2 =
     .label = CSS: معمار لے آؤٹ
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = ویب اے پی آئی: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = میڈیا: JPEG XL
 experimental-features-media-jxl-description = ایں خصوصیت دے فعال تھیوݨ دے نال، { -brand-short-name } JPEG XL (JXL) فارمیٹ کوں سپورٹ کریندا ہے۔ ایہ ہک بہتر تصویری فائل فارمیٹ ہے جیڑھا روایتی JPEG فائلاں کنوں بے نقصان منتقلی دی حمایت کریندا ہے۔ ودھیک تفصیلاں کیتے <a data-l10n-name="bugzilla">بگ 1539075</a> ݙیکھو۔

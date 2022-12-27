@@ -7,4 +7,5 @@ elevation-update-wizard =
     .title = سافٹ ویئر اپ ڈیٹ
 elevation-details-link-label =
     .value = تفصیلاں
+elevation-finished-page = اپ ڈیٹ انسٹال کیتے تیار ہے
 elevation-finished-background = اپ ڈیٹ کرو:

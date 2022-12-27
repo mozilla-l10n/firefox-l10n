@@ -122,4 +122,8 @@ printui-paper-tabloid = ٹیبلوئیڈ
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = پیمانہ لازمی طور تے 10 تے 200 دے درمیان ہک نمبر ہووݨا چاہیدا ہے
+printui-error-invalid-margin = سوہݨا، چُݨے ہوئے ورقہ سائز کیتے ٹھیک مارجن درج کرو۔
 printui-error-invalid-copies = کاپیاں لازمی طور تے 1 تے 10000 دے درمیان ہک نمبر ہووݨا چاہیدا ہے۔
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = رینج لازمی طور تے 1 تے { $numPages } درمیان ہووݨی چاہیدی ہے۔
