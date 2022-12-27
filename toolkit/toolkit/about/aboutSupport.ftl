@@ -167,6 +167,7 @@ media-device-channels = Kanale
 media-device-rate = Shpeshti
 media-device-latency = Vonesë
 media-capabilities-title = Aftësi Media
+media-codec-support-info = Hollësi Mbulimi Kodeku
 # List all the entries of the database.
 media-capabilities-enumerate = Numërtoni bazë të dhënash
 

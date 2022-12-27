@@ -113,6 +113,7 @@ about-webrtc-discarded-packets-label = Pakete të hedhur tej:
 about-webrtc-decoder-label = Shkodues
 about-webrtc-encoder-label = Kodues
 about-webrtc-show-tab-label = Shfaq skedë
+about-webrtc-current-framerate-label = Shpejtësi kuadrosh
 about-webrtc-width-px = Gjerësi (px)
 about-webrtc-height-px = Lartësi (px)
 about-webrtc-consecutive-frames = Kuadro të Njëpasnjëshme
