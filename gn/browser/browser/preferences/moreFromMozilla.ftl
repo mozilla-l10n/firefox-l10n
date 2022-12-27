@@ -33,4 +33,5 @@ more-from-moz-learn-more-link = Kuaave
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = Emo’ã ñanduti veve g̃uahẽha ha heraite ñanduti veve rovamo’ãha reiguáva ndive.
 more-from-moz-firefox-relay-button = Erekóke { -relay-brand-short-name }
