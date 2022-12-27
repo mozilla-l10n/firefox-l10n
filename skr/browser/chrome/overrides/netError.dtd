@@ -48,6 +48,7 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.longDesc "<p>درخواست کردہ دستاویز &brandShortName; دے کیشے وِچ دستیاب کائنی۔</p><ul><li>حفاظتی احتیاط دے طور تے، &brandShortName; آپݨے آپ حساس دستاویزات دی دوبارہ درخواست کائنی کریندا۔</li><li> ولدا کوشش کرو تے کلک کرو۔ ویب سائٹ کنوں دستاویز دی دوبارہ درخواست کرݨ کیتے۔</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -107,6 +108,7 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; ہک ممکنہ سیکورٹی خطرے دا پتہ لڳا ہے تے <span class='hostname'/> کوں جاری نہیں رکھیا کیوں جو ایں ویب سائٹ کوں ہک محفوظ کنکشن دی ضرورت ہے۔">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; کوں ہک مسئلہ دا پتہ لڳا تے <span class='hostname'/> کوں جاری نہیں رکھیا۔ ویب سائٹ یا تاں غلط کنفیگر تھئی ہے یا تہاݙی کمپیوٹر گھڑی غلط وقت تے سیٹ ہے۔">
+<!ENTITY certerror.expiredCert.secondPara2 "امکان ہے جو ویب سائٹ دے سرٹیفکیٹ دی میعاذ مُک ڳئی ہے، جیڑھا &brandShortName; کوں محفوظ طریقے نال منسلک تھیوݨ کنوں روکیندا ہے۔ جے تساں ایں سائٹ تے ویندے او تاں حملہ آور تہاݙے پاس ورڈز، ای میلز، یا کریڈٹ کارڈ دیاں تفصیلاں جیہیں معلومات چوری کرݨ دی کوشش کر سڳدے ہن۔">
 <!ENTITY certerror.expiredCert.sts.secondPara "امکان ہے جو ویب سائٹ دے سرٹیفکیٹ دی میعاذ مُک ڳئی ہے، جیڑھا &brandShortName; کوں روکیندا ہے۔ محفوظ طریقے نال جڑݨ کنوں۔">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "تساں ایں بارے کیا کر سڳدے او؟">
@@ -135,17 +137,22 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "چتاوݨی: اڳوں ممکنہ سیکیورٹی دا بھئو تھی سڳدا ہے۔">
 <!ENTITY certerror.sts.pagetitle  "رابطہ قائم نئیں تھیا: امکانی حفاظتی مسئلہ">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> دے کول ہک سیکورٹی پالیسی ہے جینکوں HTTP Strict Transport Security (HSTS) آہدے ہن، جیندا مطلب ہے جو &brandShortName; صرف ایں کنوں محفوظ طریقے نال جڑ سڳدا ہے۔ تساں ایں سائٹ کوں ݙیکھݨ کیتے کوئی رعایت شامل نہیں کر سڳدے۔">
 <!ENTITY certerror.copyToClipboard.label "متن کوں کلپ بورڈ تے نقل کرو">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> سیکیورٹی ٹیکنالوجی دا استعمال کریندا ہے جیڑھی پراݨی ہے تے حملے دا ٻھئو ہے۔ حملہ آور آسانی نال اینجھاں معلومات ظاہر کر سڳدا ہے جنہاں کوں تساں محفوظ سمجھدے ہاوے۔ ویب سائٹ ایڈمنسٹریٹر کوں پہلے سرور کوں ٹھیک کرݨا پوسے ایں کنوں پہلے جو تساں سائٹ ݙیکھو۔</p><p>خرابی دا کوڈ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "بلاک تھیا ورقہ">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span>  ممکنہ طور تے ہک محفوظ سائٹ ہے، لیکن ہک محفوظ کنکشن قائم نہیں کیتا ونڄ سڳیا۔ ایہ مسئلہ <span class='mitm-name'/>دی وجہ توں ہے، جیڑھا یا تاں تہاݙے کمپیوٹر یا تہاݙے نیٹ ورک تے سافٹ ویئر ہے۔">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'جے تہاݙے اینٹی وائرس سافٹ ویئر وِچ اینجھی خصوصیت شامل ہے جیڑھی انکرپٹڈ کنکشنز کوں سکین کریندی ہے (اکثر "ویب سکیننگ" یا "https سکیننگ"  سݙویندا ہے)، تاں تساں ایں خصوصیت کوں غیر فعال کر سڳدے او۔ جے ایہ کم نہیں کریندا، تاں تساں اینٹی وائرس سافٹ ویئر کون ہٹا تے دوبارہ انسٹال کر سڳدے او۔'>
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "جے تساں کارپوریٹ نیٹ ورک تے او، تاں تساں اپݨے آئی ٹی ڈیپارٹمنٹ نال رابطہ کر سڳدے او۔">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "جے تساں <span class='mitm-name'/> دے سونہیں کائنوے، تاں ایہ حملہ تھی سڳدا ہے تے تہاکوں سائٹ تے جاری نہیں رہݨا چاہیدا۔">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "جے تساں <span class='mitm-name'/> کنوں واقف کائنی، تاں ایہ حملہ تھی سڳدا ہے، تے سائٹ تائیں رسائی کیتے تساں کجھ نہیں کر سڳدے۔">
 
+<!ENTITY clockSkewError.longDesc "تہاݙا کمپیوٹر سمجھدا ہے جو ایہ <span id='wrongSystemTime_systemDate1'/>ہے، جیڑھا &brandShortName; کوں محفوظ طریقے نال جڑݨ کنوں روکیندا ہے۔  کوں ݙیکھݨ کیتے، اپݨے سسٹم دیاں ترتیباں وِچ <span class='hostname'></span> اپݨے کمپیوٹر دی گھڑی کوں موجودہ تاریخ، وقت، تے ٹائم زون وِچ اپ ڈیٹ کریں، تے ول <span class='hostname'></span> کوں ریفریش کرو۔">
 
 <!ENTITY prefReset.longDesc "ایویں لڳدا ہے جو تہاݙے نیٹ ورک دی سیکیورٹی دیاں ترتیباں ایندی وجہ بݨدیاں پیاں ہن۔ کیا تساں چاہندے او جو طے شدہ ترتیباں بحال تھیون؟">
 <!ENTITY prefReset.label "طے شدہ ترتیباں بحال کرو">
