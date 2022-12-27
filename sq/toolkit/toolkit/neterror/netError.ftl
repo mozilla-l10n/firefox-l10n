@@ -24,6 +24,8 @@ neterror-pref-reset-button = Rikthe rregullimet parazgjedhje
 neterror-return-to-previous-page-button = Kthehu Mbrapsht
 neterror-return-to-previous-page-recommended-button = Shko Mbrapsht (E këshilluar)
 neterror-try-again-button = Riprovoni
+neterror-add-exception-button = Vazhdo përherë për këtë sajt
+neterror-settings-button = Ndryshoni rregullime DNS
 neterror-view-certificate-link = Shihni Dëshmi
 
 ##
@@ -45,6 +47,23 @@ neterror-dns-not-found-hint-header = <strong>Nëse dhatë adresën e saktë, mun
 neterror-dns-not-found-hint-try-again = Riprovoni më vonë
 neterror-dns-not-found-hint-check-network = Kontrolloni lidhjen tuaj në rrjet
 neterror-dns-not-found-hint-firewall = Kontrolloni nëse ka { -brand-short-name }-i leje të hyjë në web (mund të jeni i lidhur, por të gjendeni pas një firewall-i)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-reason = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të besuar për DNS. Ja pse:
+neterror-dns-not-found-trr-only-attackers = Nëse vazhdoni, një palë e tretë mund të jetë në gjendje të shohë ç’sajte vizitoni, ose t’ju dërgojë te një sajt jo i besueshëm.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }-i s’qe në gjendje të lidhet me { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Lidhja me { $trrDomain } zgjati më shumë se ç’pritej.
+neterror-dns-not-found-trr-offline = S’jeni i lidhur në internet.
+neterror-dns-not-found-trr-unknown-host = Nga { $trrDomain } s’u gjet adresë për këtë sajt.
+neterror-dns-not-found-trr-server-problem = Pati një problem me { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Problem i papritur.
+
+##
+
 neterror-file-not-found-filename = Kontrolloni emrin e kartelës për gabime shkrimi me të mëdha ose të vogla, apo të tjera gabime në shkrim.
 neterror-file-not-found-moved = Shihni se mos kartela qe lëvizur, riemërtuar ose fshirë.
 neterror-access-denied = Kartela mund të jetë hequr, lëvizur, ose hyrjen e pengojnë lejet mbi kartelën.

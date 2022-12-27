@@ -9,6 +9,8 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+# Windows refers to the operating system
+windows-messages-page-title = Hollësi Mesazhesh Windows
 windows-messages-intro =
     Kjo faqe shfaq mesazhet më të freskët dërguar nga Windows
     te dritaret e shfletuesit { -brand-short-name }.
