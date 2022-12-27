@@ -24,7 +24,19 @@ download-ui-dont-quit-button =
         [mac] نہ چھوڑو
        *[other] ٻاہر نہ نکلو
     }
+download-ui-confirm-offline-cancel-downloads =
+    { $downloadsCount ->
+        [1] جے تساں ہݨ آف لائن تھیندے ہو تاں 1 ڈاؤن لوڈ منسوخ تھی ویسی۔ بھلا تساں واقعی آف لائن ونڄݨ چاہندے ہو؟
+        [one] جے تساں ہݨ آف لائن تھیندے ہو تاں 1 ڈاؤن لوڈ منسوخ تھی ویسی۔ بھلا تساں واقعی آف لائن ونڄݨ چاہندے ہو؟
+       *[other] جے تساں ہݨ آف لائن تھیندے او تاں { $downloadsCount } ڈاؤن لوڈز منسوخ تھی ویسن۔ بھلا  تساں واقعی آف لائن ونڄݨ چاہندے ہو؟
+    }
 download-ui-dont-go-offline-button = آن لائن راہوو
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] جے تساں تمام پرائیویٹ براؤزنگ ونڈوز کوں ہݨ بند کر ݙیندے ہو تاں 1 ڈاؤن لوڈ منسوخ تھی ویسی۔ کیا تساں واقعی نجی براؤزنگ چھوڑݨ چاہندے ہو؟
+        [one] جے تساں تمام پرائیویٹ براؤزنگ ونڈوز کوں ہݨ بند کر ݙیندے ہو تاں 1 ڈاؤن لوڈ منسوخ تھی ویسی۔ کیا تساں واقعی نجی براؤزنگ چھوڑݨ چاہندے ہو؟
+       *[other] جے تساں تمام پرائیویٹ براؤزنگ ونڈوز کوں ہݨ بند کر ݙیندے ہو تاں { $downloadsCount } ڈاؤن لوڈز منسوخ تھی ویسن۔ کیا تساں واقعی نجی براؤزنگ چھوڑݨ چاہندے ہو؟
+    }
 download-ui-dont-leave-private-browsing-button = نجی براؤزنگ وِچ رہو
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
