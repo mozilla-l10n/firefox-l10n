@@ -276,12 +276,16 @@ quickactions-addons = එක්කහු බලන්න
 quickactions-cmd-addons2 = එක්කහු
 # Opens the bookmarks library window
 quickactions-bookmarks = පොත්යොමු බලන්න
+# Opens the bookmarks library window
+quickactions-bookmarks2 = පොත්යොමු කළමනාකරණය
 quickactions-cmd-bookmarks = පොත්යොමු
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ඉතිහාසය මකන්න
 quickactions-cmd-clearhistory = ඉතිහාසය මකන්න
 # Opens about:downloads page
 quickactions-downloads = බාගැනීම් අරින්න
+# Opens about:downloads page
+quickactions-downloads2 = බාගැනීම් බලන්න
 quickactions-cmd-downloads = බාගැනීම්
 # Opens about:addons page in the extensions section
 quickactions-extensions = දිගු කළමනාකරණය
@@ -926,3 +930,6 @@ refresh-blocked-redirect-label = { -brand-short-name } මෙම පිටුව
 refresh-blocked-allow =
     .label = ඉඩ දෙන්න
     .accesskey = A
+
+## Firefox Relay integration
+
