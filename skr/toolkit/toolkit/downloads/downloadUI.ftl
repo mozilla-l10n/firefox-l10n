@@ -36,3 +36,6 @@ download-ui-cancel-downloads-ok =
 ##
 
 download-ui-file-executable-security-warning-title = ایگزیکیوٹیبل فائل کھولو؟
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = "{ $executable }" ہک قابل عمل فائل ہے۔ قابل عمل فائلاں وِچ وائرس یا ٻئے نقصان دہ کوڈ شامل تھی سڳدے ہن جیڑھے تہاݙے کمپیوٹر کوں نقصان پڄا سڳدے ہن۔ ایں فائل کوں کھولیندے ویلھے احتیاط کرو۔ کیا تساں واقعی "{ $executable }" کوں لانچ کرݨ چاہندے او؟

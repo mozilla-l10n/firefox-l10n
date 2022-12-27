@@ -122,3 +122,4 @@ printui-paper-tabloid = ٹیبلوئیڈ
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = پیمانہ لازمی طور تے 10 تے 200 دے درمیان ہک نمبر ہووݨا چاہیدا ہے
+printui-error-invalid-copies = کاپیاں لازمی طور تے 1 تے 10000 دے درمیان ہک نمبر ہووݨا چاہیدا ہے۔

@@ -13,6 +13,9 @@ autocomplete-import-logins-chrome = <div data-l10n-name="line1">Google Chrome ک
 autocomplete-import-logins-chromium =
     <div data-l10n-name="line1">کرومیم کنوں اپݨا لاگ ان درآمد کرو</div>
     <div data-l10n-name="line2">{ $host } تے ٻیاں سائٹاں کیتے</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1"> کنوں اپݨا مائیکرو سافٹ لاگ ان درآمد کرو</div>
+    <div data-l10n-name="line2"> { $host } تے ٻیاں سائٹاں کیتے</div>
 
 ##
 
