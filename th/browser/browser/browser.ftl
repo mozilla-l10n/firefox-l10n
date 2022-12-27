@@ -967,3 +967,4 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } ปกปิดที่อยู่อีเมลที่แท้จริงของคุณเพื่อช่วยปกป้องคุณจากการรั่วไหลของข้อมูลและสแปม
