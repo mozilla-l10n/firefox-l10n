@@ -13,6 +13,12 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ບໍ່ສາ�
 ##
 
 firefox-relay-must-login-to-fxa = ທ່ານຕ້ອງເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name } ເພື່ອໃຊ້ { -relay-brand-name }.
+firefox-relay-get-unlimited-masks =
+    .label = ຈັດການຕົວປິດບັງ
+    .accesskey = M
+firefox-relay-opt-in-title = ປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານ
+firefox-relay-opt-in-subtitle = ເພີ່ມ { -relay-brand-name }
+firefox-relay-generate-mask-title = ປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານ
 firefox-relay-generate-mask-subtitle = ສ້າງໜ້າກາກ { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = ສືບຕໍ່
