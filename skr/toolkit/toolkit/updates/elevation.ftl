@@ -15,3 +15,8 @@ elevation-finished-background-page =
     { -brand-short-name } کیتے ہک سلامتی تے سٹبلٹی اپ ڈیٹ ڈاؤن لوڈ تھی ڳئی ہے
      تے انسٹال تھیوݨ کیتے تیار ہے۔
 elevation-finished-background = اپ ڈیٹ کرو:
+elevation-more-elevated =
+    ایں اپ ڈیٹ کوں ایڈمن دے استحقاق دی لوڑ ہے۔ 
+    اڳلی واری { -brand-short-name } شروع تھیسی تاں اپ ڈیٹ انسٹال تھی ویسی۔
+    تساں ہݨ { -brand-short-name } کوں ولدا شروع کر سڳدے ہو، کم جاری رکھو تے بعد وچ ولدا شروع کرو، یا وت
+    ایہ اپ ڈیٹ  کرݨ  دا انکار کر ݙیوو۔
