@@ -33,3 +33,5 @@ more-from-moz-learn-more-link = Več o tem
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = Zaščitite svoj e-poštni predal in svojo identiteto z brezplačnim zakrivanjem e-poštnega naslova.
+more-from-moz-firefox-relay-button = Namesti { -relay-brand-short-name }

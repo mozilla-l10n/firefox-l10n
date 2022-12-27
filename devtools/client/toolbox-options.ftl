@@ -10,19 +10,15 @@
 
 # The heading
 options-select-default-tools-label = Privzeta razvojna orodja
-
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Ni podprto za trenutno tarčo razvojnih orodij
-
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Razvojna orodja, nameščena kot dodatki
-
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Razpoložljivi gumbi razvojnih orodij
-
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Teme
 
@@ -30,17 +26,14 @@ options-select-dev-tools-theme-label = Teme
 
 # The heading
 options-context-inspector = Pregledovalnik
-
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Prikaži sloge brskalnika
 options-show-user-agent-styles-tooltip =
     .title = Če vključite to možnost, boste prikazali privzete sloge, ki jih naloži brskalnik.
-
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Skrajšaj atribute DOM
 options-collapse-attrs-tooltip =
     .title = Skrajšaj dolge atribute v pregledovalniku
-
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Kliknite in povlecite za spreminjanje vrednosti
 options-inspector-draggable-properties-tooltip =
@@ -60,7 +53,6 @@ options-default-color-unit-name = Imena barv
 
 # The heading
 options-styleeditor-label = Urejevalnik sloga
-
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Samodokončaj CSS
 options-stylesheet-autocompletion-tooltip =
@@ -70,12 +62,10 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Posnetki zaslona
-
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Shrani posnetek zaslona samo v odložišče
 options-screenshot-clipboard-tooltip2 =
     .title = Shrani posnetek zaslona naravnost v odložišče
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Predvajaj zvok zaslonke kamere
 options-screenshot-audio-tooltip =
@@ -85,7 +75,6 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = Nastavitve urejevalnika
-
 options-sourceeditor-detectindentation-tooltip =
     .title = Ugani zamik na podlagi izvorne vsebine
 options-sourceeditor-detectindentation-label = Zaznaj zamik
@@ -103,36 +92,33 @@ options-sourceeditor-keybinding-default-label = Privzeto
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Napredne nastavitve
-
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Onemogoči predpomnilnik HTTP (ko so razvojna orodja odprta)
 options-disable-http-cache-tooltip =
     .title = Vklop te možnosti bo onemogočil predpomnilnik HTTP za vse zavihke, ki imajo odrta razvojna orodja. Ta možnost ne vpliva na Service Workerje.
-
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Onemogoči JavaScript *
 options-disable-javascript-tooltip =
     .title = Če vključite to možnost, boste onemogočili JavaScript v trenutnem zavihku. Če zaprete zavihek ali razvojna orodja, bo nastavitev pozabljena.
-
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Omogoči orodja za razhroščevanje brskalnika in dodatkov
 options-enable-chrome-tooltip =
     .title = Če vključite to možnost, boste omogočili uporabo razvojnih orodij v oknu brskalnika (meni Orodja > Spletni razvoj > Razvojna orodja brskalnika) in razhroščevanje dodatkov iz Upravitelja dodatkov
-
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Omogoči oddaljeno razhroščevanje
 options-enable-remote-tooltip2 =
     .title = Vklop te možnosti omogoči oddaljeno razhroščevanje tega primerka brskalnika
-
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Omogoči oblikovalnike po meri
+options-enable-custom-formatters-tooltip =
+    .title = Če vključite to možnost, bodo spletna mesta lahko določila oblikovalnike po meri za predmete DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Omogoči Service Workerje preko HTTP (ko so razvojna orodja odprta)
 options-enable-service-workers-http-tooltip =
     .title = Če vključite to možnost, boste omogočili Service Workerje preko HTTP v vseh zavihkih, ki imajo odprta razvojna orodja.
-
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Omogoči preslikave virov
 options-source-maps-tooltip =
     .title = Če omogočite to možnost, bodo viri v orodjih preslikani.
-
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Samo za to sejo, ponovno naloži stran
