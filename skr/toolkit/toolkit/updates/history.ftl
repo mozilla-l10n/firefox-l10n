@@ -19,3 +19,5 @@ state-header = ریاست
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
 update-details = تفصیلاں
+update-installed-on = انسٹال تھیا: { $date }
+update-status = حالت: { $status }
