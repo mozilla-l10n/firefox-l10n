@@ -19,6 +19,7 @@ update-failed = การอัปเดตล้มเหลว <label data-l10
 update-failed-main = การอัปเดตล้มเหลว <a data-l10n-name="failed-link-main">ดาวน์โหลดรุ่นล่าสุด</a>
 update-adminDisabled = การอัปเดตถูกปิดใช้งานโดยผู้ดูแลระบบของคุณ
 update-noUpdatesFound = { -brand-short-name } เป็นรุ่นล่าสุดแล้ว
+aboutdialog-update-checking-failed = ไม่สามารถตรวจหาการอัปเดตได้
 update-otherInstanceHandlingUpdates = { -brand-short-name } กำลังถูกอัปเดตโดยอินสแตนซ์อื่น
 update-manual = มีการอัปเดตที่ <label data-l10n-name="manual-link"/>
 update-unsupported = คุณไม่สามารถดำเนินการอัปเดตเพิ่มเติมในระบบนี้ได้ <label data-l10n-name="unsupported-link">เรียนรู้เพิ่มเติม</label>
