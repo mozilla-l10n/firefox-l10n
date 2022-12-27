@@ -97,6 +97,18 @@ perftools-thread-dns-resolver =
     .title = การแก้ปัญหา DNS เกิดขึ้นในเธรดนี้
 perftools-thread-task-controller =
     .title = เธรดในเธรดพูล TaskController
+perftools-thread-jvm-gecko =
+    .title = เธรดหลักของ Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = เธรดหลักสำหรับ Nimbus experiments SDK
+perftools-thread-jvm-default-dispatcher =
+    .title = ตัวจ่ายงานเริ่มต้นสำหรับไลบรารี coroutines ของ Kotlin
+perftools-thread-jvm-glean =
+    .title = เธรดหลักสำหรับ Glean telemetry SDK
+perftools-thread-jvm-arch-disk-io =
+    .title = ตัวจ่ายงาน IO สำหรับไลบรารี coroutines ของ Kotlin
+perftools-thread-jvm-pool =
+    .title = เธรดที่สร้างขึ้นในพูลเธรดที่ไม่มีชื่อ
 
 ##
 

@@ -21,6 +21,7 @@ styleeditor-save-button = บันทึก
 styleeditor-options-button =
     .tooltiptext = ตัวเลือกตัวแก้ไขลักษณะ
 styleeditor-media-rules = กฎ @media
+styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = พิมพ์ CSS ที่นี่
 styleeditor-no-stylesheet = หน้านี้ไม่มีสไตล์ชีต
