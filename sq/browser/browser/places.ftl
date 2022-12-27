@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = Harrim i këtij sajti
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ky veprim do të heqë krejt të dhënat e lidhura me { $hostOrBaseDomain }, përfshi historik, fjalëkalime, cookies, fshehtinë dhe parapëlqime për lëndën. Jeni i sigurt se doni të vazhdohet?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Ky veprim do të heqë krejt të dhënat e lidhura me { $hostOrBaseDomain }, përfshi historik, cookies, fshehtinë dhe parapëlqime për lëndën. Faqerojtësit dhe fjalëkalimet përkatës s’do të hiqen. Jeni i sigurt se doni të vazhdohet?
 places-forget-about-this-site-forget = Harroje
 places-library =
     .title = Arkiv
