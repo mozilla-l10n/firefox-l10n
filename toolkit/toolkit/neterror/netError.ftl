@@ -24,6 +24,7 @@ neterror-pref-reset-button = Скінуць да прадвызначаных
 neterror-return-to-previous-page-button = Вярнуцца
 neterror-return-to-previous-page-recommended-button = Вярнуцца (рэкамендуецца)
 neterror-try-again-button = Паспрабаваць ізноў
+neterror-settings-button = Змяніць налады DNS
 neterror-view-certificate-link = Паказаць сертыфікаты
 
 ##
@@ -45,6 +46,17 @@ neterror-dns-not-found-hint-header = <strong>Калі вы ўвялі праві
 neterror-dns-not-found-hint-try-again = Паўтарыць спробу пазней
 neterror-dns-not-found-hint-check-network = Праверыць падлучэнне да сеткі
 neterror-dns-not-found-hint-firewall = Праверыць, ці мае { -brand-short-name } дазвол на доступ да Інтэрнэту (магчыма, вы падключаны, але за брандмаўарам)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не змог злучыцца з { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Злучэнне з { $trrDomain } заняло больш часу, чым чакалася.
+
+##
+
 neterror-file-not-found-filename = Упэўніцеся, што няма ніякай памылкі ў назве файла, такой, як прапушчаная/лішняя літара або вялікая літара замест малой, або інакшай.
 neterror-file-not-found-moved = Упэўніцеся, што файл не быў перайменаваны, выдалены або перамешчаны.
 neterror-access-denied = Магчыма, што ён быў выдалены або перамешчаны, або дазволы на файл не даюць атрымаць да яго доступ.
