@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Маслиҳат:
 urlbar-result-menu-button =
     .title = Кушодани меню
+urlbar-result-menu-remove-from-history =
+    .label = Нест кардан аз таърих
+    .accesskey = Н
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -965,3 +968,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ин саҳифаро а�
 refresh-blocked-allow =
     .label = Иҷозат додан
     .accesskey = A
+
+## Firefox Relay integration
+
