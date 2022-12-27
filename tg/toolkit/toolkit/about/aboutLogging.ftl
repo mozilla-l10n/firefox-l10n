@@ -16,8 +16,12 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Дар бораи сабти рӯйдодҳо
+about-logging-page-title = Мудири сабти рӯйдодҳо
 about-logging-current-log-file = Файли сабти рӯйдодҳои ҷорӣ:
 about-logging-current-log-modules = Модулҳои сабти рӯйдодҳои ҷорӣ:
 about-logging-log-tutorial =

@@ -45,6 +45,16 @@ neterror-dns-not-found-hint-header = <strong>Агар шумо нишонии д
 neterror-dns-not-found-hint-try-again = Баъдтар аз нав кӯшиш кунед
 neterror-dns-not-found-hint-check-network = Пайвастшавии шабакаи худро тафтиш кунед
 neterror-dns-not-found-hint-firewall = Тафтиш кунед, ки браузери «{ -brand-short-name }» барои пайдо кардани дастрасӣ ба Интернет иҷозат дорад (эҳтимол аст, ки шумо аз паси девори оташ (firewall) пайваст шуда бошед
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-unknown-problem = Мушкилии ногаҳон.
+
+##
+
 neterror-file-not-found-filename = Номи файлро бо дарназардошти ҳарфҳои хурду калон ва хатоҳои имлоии дигар тафтиш кунед.
 neterror-file-not-found-moved = Санҷед, ки мумкин, ҷой ё номи файл иваз карда шуд ё худи файл нест карда шуд.
 neterror-access-denied = Эҳтимол, он тоза карда шудааст, ба ҷойи дигар интиқол дода шудааст ё иҷозатҳои файл дастрасиро манъ мекунанд.

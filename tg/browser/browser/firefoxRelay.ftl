@@ -11,6 +11,7 @@
 
 ##
 
+firefox-relay-opt-in-title = Нишонии почтаи электронии худро ҳифз намоед
 firefox-relay-opt-in-subtitle = Илова кардани «{ -relay-brand-name }»
 firefox-relay-generate-mask-title = Нишонии почтаи электронии худро ҳифз намоед
 firefox-relay-opt-in-confirmation-enable =
