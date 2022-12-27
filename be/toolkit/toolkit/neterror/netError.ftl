@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-firewall = Праверыць, ці мае { -brand-
 
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не змог злучыцца з { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Злучэнне з { $trrDomain } заняло больш часу, чым чакалася.
+neterror-dns-not-found-trr-offline = Няма злучэння з Інтэрнэтам.
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } не знайшоў адрас для гэтага сайта.
+neterror-dns-not-found-trr-server-problem = Узнікла праблема з { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Нечаканая праблема.
 
 ##
 
