@@ -972,3 +972,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } ohovamo’ã iñanduti veve kundaharape oipytyvõvo omo’ã hag̃ua mba’ekuaarã ñembogua ha spam.
+firefox-relay-offer-how-we-integrate = Eku’ejeývo, emoheñoikuaa { -relay-brand-short-name } ñanduti veve rovamo’ãha pe { -brand-shorter-name } ñe’ẽñemi ñangarekoha guive.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Romondojeýta opaite ñanduti veve <strong>{ $sitename }</strong> <strong>{ $useremail }</strong>-pe.
