@@ -53,6 +53,9 @@ neterror-dns-not-found-hint-firewall = Ehechajey { -brand-short-name } oguerekó
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
+neterror-dns-not-found-trr-only-timeout = Pe { $trrDomain }-pe jeike nemoha’ãrõ hetave aravo.
+neterror-dns-not-found-trr-offline = Ndereikekuaamo’ãi ñandutípe.
 neterror-dns-not-found-trr-server-problem = Oĩ peteĩ apañuãi { $trrDomain } ndive.
 neterror-dns-not-found-trr-unknown-problem = Jejavy ñeha’arõ’ỹva.
 

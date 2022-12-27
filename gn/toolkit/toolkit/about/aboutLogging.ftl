@@ -49,6 +49,7 @@ about-logging-logging-preset-selector-text = Mboheraguapy ypygua:
 about-logging-preset-networking-label = Pyha
 about-logging-preset-networking-description = Mboheraguapy ra’ãha ehecha hag̃ua pyha apañuãi
 about-logging-preset-media-playback-label = Hekoetáva mboheta
+about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechakuaa hag̃ua apañuãi ñembohetaha (ha’e’ỹva videoconferencia apañuãi)
 about-logging-preset-custom-label = Ñemomba’epyre
 about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyre
 # Error handling
