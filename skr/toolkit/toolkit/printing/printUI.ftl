@@ -127,3 +127,4 @@ printui-error-invalid-copies = کاپیاں لازمی طور تے 1 تے 10000 
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = رینج لازمی طور تے 1 تے { $numPages } درمیان ہووݨی چاہیدی ہے۔
+printui-error-invalid-start-overflow = "کنوں" ورقہ نمبر "تائیں" ورقہ نمبر کنوں گھٹ ہووݨ ضروری ہے۔

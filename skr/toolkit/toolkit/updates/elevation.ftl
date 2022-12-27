@@ -7,5 +7,11 @@ elevation-update-wizard =
     .title = سافٹ ویئر اپ ڈیٹ
 elevation-details-link-label =
     .value = تفصیلاں
+elevation-error-manual =
+    تساں ایں لنک تے ون٘ڄݨ نال تے تازہ ترین ورشن ڈاؤن لوڈ کرݨ نال
+    { -brand-short-name } کوں دستی اپ گریڈ کر سڳدے ہو:
 elevation-finished-page = اپ ڈیٹ انسٹال کیتے تیار ہے
+elevation-finished-background-page =
+    { -brand-short-name } کیتے ہک سلامتی تے سٹبلٹی اپ ڈیٹ ڈاؤن لوڈ تھی ڳئی ہے
+     تے انسٹال تھیوݨ کیتے تیار ہے۔
 elevation-finished-background = اپ ڈیٹ کرو:
