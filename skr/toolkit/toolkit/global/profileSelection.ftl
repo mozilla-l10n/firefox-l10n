@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-selection-window =
+    .title = { -brand-short-name } - صارف پروفائل چݨو
+profile-selection-button-accept =
+    .label = { -brand-short-name } شروع کرو
+profile-selection-button-cancel =
+    .label = نکلو
 profile-selection-new-button =
     .label = پروفائل بݨاؤ۔۔۔
     .accesskey = C
@@ -15,6 +21,10 @@ profile-selection-conflict-message = { -brand-product-name } دی ہک ٻئی ک
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } تہاݙے صارف پروفائل وِچ تہاݙیاں ترتیباں، ترجیحاں، تے صارف دیاں ٻیاں چیزاں دے بارے معلومات محفوظ کریندا ہے۔
 profile-manager-work-offline =
     .label = آف لائن کام کرو
     .accesskey = o
+profile-manager-use-selected =
+    .label = شروع وِچ پچھے بغیر منتخب پروفائل دا استعمال کرو
+    .accesskey = s

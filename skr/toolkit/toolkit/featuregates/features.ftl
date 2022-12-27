@@ -50,3 +50,6 @@ experimental-features-js-warp-description = JavaScript دی کارکردگی ت�
 # Search during IME
 experimental-features-ime-search =
     .label = ایڈریس بار: IME کمپوزیشن دے دوران نتائج ݙکھاؤ۔
+experimental-features-accessibility-cache =
+    .label = قابل رسائی کیشے
+experimental-features-accessibility-cache-description = { -brand-short-name } مرکزی عمل وِچ تمام دستاویزات کنوں تمام قابل رسائی معلومات کوں محفوظ کریندا ہے۔ ایہ سکرین ریڈرز تے ٻئے ایپلیکیشنز دی کارکردگی کو بہتر بݨیندا ہے جیڑھے ایکسیسبیلٹی APIs استعمال کریندے ہن۔

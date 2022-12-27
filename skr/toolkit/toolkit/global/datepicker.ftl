@@ -10,6 +10,10 @@
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's <input type="date">
 
+date-picker-label =
+    .aria-label = تریخ چݨو
+date-spinner-label =
+    .aria-label = ہک مہینہ تے ہک سال دا انتخاب کرو
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
