@@ -19,6 +19,7 @@ update-failed = Përditësimi dështoi. <label data-l10n-name="failed-link">Shka
 update-failed-main = Përditësimi dështoi. <a data-l10n-name="failed-link-main">Shkarkoni versionin më të ri</a>
 update-adminDisabled = Përditësimet janë çaktivizuar nga përgjegjësi i sistemit tuaj
 update-noUpdatesFound = { -brand-short-name }-i është i përditësuar
+aboutdialog-update-checking-failed = S’u arrit të kontrollohet për përditësime.
 update-otherInstanceHandlingUpdates = { -brand-short-name }-i po përditësohet nga një instancë tjetër
 update-manual = Përditësimet gjenden te <label data-l10n-name="manual-link"/>
 update-unsupported = Nuk mund të kryeni përditësime të mëtejshme në këtë sistem. <label data-l10n-name="unsupported-link">Mësoni më tepër</label>

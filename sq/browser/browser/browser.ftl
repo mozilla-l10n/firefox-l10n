@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Ndihmëz:
 urlbar-result-menu-button =
     .title = Hape menunë
+urlbar-result-menu-remove-from-history =
+    .label = Hiqe prej historiku
+    .accesskey = H
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -282,30 +285,42 @@ quickactions-addons = Shihini Shtesa
 quickactions-cmd-addons2 = shtesa
 # Opens the bookmarks library window
 quickactions-bookmarks = Shihni Faqerojtës
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Administroni faqerojtës
 quickactions-cmd-bookmarks = faqerojtës
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Spastro Historikun
 quickactions-cmd-clearhistory = spastroni historikun
 # Opens about:downloads page
 quickactions-downloads = Hap Shkarkimet
+# Opens about:downloads page
+quickactions-downloads2 = Shihni shkarkime
 quickactions-cmd-downloads = shkarkime
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administroni zgjerime
 quickactions-cmd-extensions = zgjerime
 # Opens the devtools web inspector
 quickactions-inspector = Hap Mbikëqyrës
+# Opens the devtools web inspector
+quickactions-inspector2 = Hap Mjete Zhvilluesish
 quickactions-cmd-inspector = mbikëqyrës, mjete zhvilluesish
 # Opens about:logins
 quickactions-logins = Shihni Hyrjet
+# Opens about:logins
+quickactions-logins2 = Administroni fjalëkalime
 quickactions-cmd-logins = kredenciale hyrjesh, fjalëkalime
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administroni shtojca
 quickactions-cmd-plugins = shtojca
 # Opens the print dialog
 quickactions-print = Shtype
+# Opens the print dialog
+quickactions-print2 = Shtypni faqe
 quickactions-cmd-print = shtype
 # Opens a new private browsing window
 quickactions-private = Hap Dritare Shfletimi Privat
+# Opens a new private browsing window
+quickactions-private2 = Hap dritare private
 quickactions-cmd-private = shfletim privat
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Rifreskoni { -brand-short-name }-in
@@ -315,9 +330,13 @@ quickactions-restart = Riniseni { -brand-short-name }-in
 quickactions-cmd-restart = rinise
 # Opens the screenshot tool
 quickactions-screenshot2 = Bëni një Foto Ekrani
+# Opens the screenshot tool
+quickactions-screenshot3 = Bëni një foto ekrani
 quickactions-cmd-screenshot = foto ekrani
 # Opens about:preferences
 quickactions-settings = Hap Rregullimet
+# Opens about:preferences
+quickactions-settings2 = Administroni rregullime
 quickactions-cmd-settings = rregullime, parapëlqime, mundësi
 # Opens about:addons page in the themes section
 quickactions-themes = Administroni tema
@@ -327,6 +346,8 @@ quickactions-update = Përditësoni { -brand-short-name }
 quickactions-cmd-update = përditësoje
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Të shihet Burimi?
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Shihni Burim Faqeje
 quickactions-cmd-viewsource = shihni burimin, burim
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -945,3 +966,12 @@ refresh-blocked-redirect-label = { -brand-short-name }-i i pengoi kësaj faqeje 
 refresh-blocked-allow =
     .label = Lejoje
     .accesskey = L
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } e maskon adresën tuaj të vërtetë email, për t’ju ndihmuar të mbroheni nga cenime të dhënash dhe mesazhe të padëshiruar.
+firefox-relay-offer-how-we-integrate = Duke vazhduar, do të jeni në gjendje të prodhoni maska të reja { -relay-brand-short-name } email-i drejt e nga përgjegjësi juaj i fjalëkalimeve në { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Do t’i përcjellim krejt email-et nga <strong>{ $sitename }</strong> te <strong>{ $useremail }</strong>.
