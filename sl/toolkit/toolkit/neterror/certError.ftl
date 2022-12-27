@@ -75,6 +75,9 @@ deniedPortAccess-title = Ta naslov je omejen
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm, pri iskanju te strani imamo težave.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title = Možno varnostno tveganje za { $hostname }.
 fileNotFound-title = Datoteke ni mogoče najti
 fileAccessDenied-title = Dostop do datoteke je bil zavrnjen
 generic-title = Ups.

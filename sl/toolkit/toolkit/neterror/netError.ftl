@@ -24,6 +24,8 @@ neterror-pref-reset-button = Obnovi privzete nastavitve
 neterror-return-to-previous-page-button = Nazaj
 neterror-return-to-previous-page-recommended-button = Pojdi nazaj (priporočeno)
 neterror-try-again-button = Poskusi znova
+neterror-add-exception-button = Vedno nadaljuj za to spletno mesto
+neterror-settings-button = Spremeni nastavitve DNS
 neterror-view-certificate-link = Ogled digitalnega potrdila
 
 ##
@@ -45,6 +47,15 @@ neterror-dns-not-found-hint-header = <strong>Če je vneseni naslov pravi, lahko:
 neterror-dns-not-found-hint-try-again = poskusite znova pozneje
 neterror-dns-not-found-hint-check-network = preverite povezavo z omrežjem
 neterror-dns-not-found-hint-firewall = preverite, da ima { -brand-short-name } dovoljenje za dostop do spleta (morda ste povezani, vendar za požarnim zidom)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+##
+
 neterror-file-not-found-filename = Preverite, ali so bile velike in male črke v imenu datoteke pravilno uporabljene in da ni drugih tipkarskih napak.
 neterror-file-not-found-moved = Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.
 neterror-access-denied = Morda je bila odstranjena, premaknjena ali pa dovoljenja datoteke preprečujejo dostop.
