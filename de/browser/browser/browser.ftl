@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tipp:
 urlbar-result-menu-button =
     .title = Menü öffnen
+urlbar-result-menu-remove-from-history =
+    .label = Aus Chronik entfernen
+    .accesskey = e
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -290,6 +293,8 @@ quickactions-clearhistory = Chronik löschen
 quickactions-cmd-clearhistory = Chronik löschen
 # Opens about:downloads page
 quickactions-downloads = Downloads öffnen
+# Opens about:downloads page
+quickactions-downloads2 = Downloads anzeigen
 quickactions-cmd-downloads = Downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Erweiterungen verwalten
