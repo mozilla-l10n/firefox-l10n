@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Afficher des alertes pour les mots de passe de sites concernés par des fuites de données
     .accesskey = A
 forms-breach-alerts-learn-more-link = En savoir plus
+relay-integration =
+    .label = Activer { -relay-brand-name } dans votre gestionnaire de mots de passe { -brand-short-name }
+relay-integration-learn-more-link = En savoir plus
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Renseigner automatiquement les identifiants et les mots de passe
@@ -1001,6 +1004,9 @@ content-blocking-fingerprinters = Détecteurs d’empreinte numérique
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Tester en avant-première la fonctionnalité de confidentialité la plus puissante que nous avons jamais conçue
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protection totale contre les cookies restreint les cookies au site sur lequel vous vous trouvez et les traqueurs ne peuvent donc pas s’en servir pour vous pister de site en site.
 content-blocking-etp-standard-tcp-rollout-learn-more = En savoir plus
