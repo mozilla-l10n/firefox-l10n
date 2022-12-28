@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Sugjeriment:
 urlbar-result-menu-button =
     .title = Vierç menù
+urlbar-result-menu-remove-from-history =
+    .label = Gjave de cronologjie
+    .accesskey = G
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
