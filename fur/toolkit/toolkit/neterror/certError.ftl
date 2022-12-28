@@ -75,6 +75,9 @@ deniedPortAccess-title = Cheste direzion e je sometude a restrizions
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm... No rivìn a cjatâ chel sît.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title = Potenziâl risi pe sigurece par { $hostname }.
 fileNotFound-title = File no cjatât
 fileAccessDenied-title = Al è stât dineât l'acès al file
 generic-title = Orpo.

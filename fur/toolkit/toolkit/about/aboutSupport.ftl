@@ -192,9 +192,17 @@ intl-regional-prefs = Preferencis regjonâls
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 remote-debugging-title = Debug di lontan (protocol Chromium)
+remote-debugging-url = URL
 
 ##
 
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Segnalazions di colàs dal ultin dì
+       *[other] Segnalazions di colàs dai ultins { $days } dîs
+    }
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -243,6 +251,7 @@ hardware-h264 = Decodifiche H264 dal hardware
 main-thread-no-omtc = discussion principâl, no OMTC
 yes = Si
 no = No
+unknown = No cognossût
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are

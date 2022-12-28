@@ -972,3 +972,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } al plate la tô direzion e-mail reâl par proteziti da lis violazions di dâts e pueste malvolude.
+firefox-relay-offer-how-we-integrate = Se tu continuis tu podarâs gjenerâ gnovis mascaris di pueste eletroniche cun { -relay-brand-short-name } dret dal to gjestôr di passwords di { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = O mandarìn indenant dutis lis e-mails di <strong>{ $sitename }</strong> a <strong>{ $useremail }</strong>.
