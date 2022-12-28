@@ -101,10 +101,17 @@
 </ul>
 ">
 
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li> تساں جیڑھے ورقے کوں ݙیکھݨ دی کوشش کریندے پئے او اونکوں نہیں ݙکھایا ونڄ سڳدا کیوں جو وصول تھیوݨ والے ڈیٹا دی صداقت دی تصدیق نہیں تھی سڳی۔ </li>
+  <li>براہ مہربانی ویب سائٹ دے مالکاں نال رابطہ کرو تاں جو انہاں کوں ایں مسئلے بارے آگاہ کرو </li>
+ </ul>
+">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; ہک ممکنہ سیکورٹی خطرے دا پتہ لایا تے <span class='hostname'/> کوں جاری نہیں رکھیا۔ جے تساں ایں سائٹ تے ویندے او تاں حملہ آور تہاݙے پاس ورڈز، ای میلز، یا کریڈٹ کارڈ دیاں تفصیلاں جیہیں معلومات چوری کرݨ دی کوشش کر سڳدے ہن۔">
 <!ENTITY certerror.sts.introPara "&brandShortName; ہک ممکنہ سیکورٹی خطرے دا پتہ لڳا ہے تے <span class='hostname'/> کوں جاری نہیں رکھیا کیوں جو ایں ویب سائٹ کوں ہک محفوظ کنکشن دی ضرورت ہے۔">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; کوں ہک مسئلہ دا پتہ لڳا تے <span class='hostname'/> کوں جاری نہیں رکھیا۔ ویب سائٹ یا تاں غلط کنفیگر تھئی ہے یا تہاݙی کمپیوٹر گھڑی غلط وقت تے سیٹ ہے۔">
