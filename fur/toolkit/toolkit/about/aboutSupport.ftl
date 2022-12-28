@@ -154,6 +154,7 @@ restart-button-label = Torne invie
 audio-backend = Backend audio
 max-audio-channels = Massim numar di canâi
 sample-rate = Frecuence di campionament preferide
+roundtrip-latency = Ritart di lade e tornade (deviazion standard)
 media-title = Multimedia
 media-output-devices-title = Dispositîfs di jessude
 media-input-devices-title = Dispositîfs di jentrade
@@ -165,6 +166,7 @@ media-device-preferred = Preferît
 media-device-format = Formât
 media-device-channels = Canâi
 media-device-rate = Frecuence
+media-device-latency = Ritart
 media-capabilities-title = Capacitâts dal multimedia
 media-codec-support-info = Informazions di supuart pai codecs
 # List all the entries of the database.
@@ -192,6 +194,7 @@ intl-regional-prefs = Preferencis regjonâls
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 remote-debugging-title = Debug di lontan (protocol Chromium)
+remote-debugging-accepting-connections = Daûr a acetâ conessions
 remote-debugging-url = URL
 
 ##
@@ -376,6 +379,10 @@ support-printing-prefs-value = Valôr
 
 ## Normandy sections
 
-support-remote-experiments-title = Esperiments lontans
+support-remote-experiments-title = Esperiments di lontan
 support-remote-experiments-name = Non
 support-remote-experiments-branch = Ram esperiments
+support-remote-experiments-see-about-studies = Consulte <a data-l10n-name="support-about-studies-link">about:studies</a> par vê plui informazions, includût cemût disativâ singui esperiments o impedî a { -brand-short-name } di eseguî chest gjenar di esperiments in futûr.
+support-remote-features-title = Funzionalitâts di lontan
+support-remote-features-name = Non
+support-remote-features-status = Stât
