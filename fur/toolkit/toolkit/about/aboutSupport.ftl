@@ -65,13 +65,62 @@ app-basics-third-party = Modui di tiercis parts
 app-basics-profiles = Profîi
 app-basics-launcher-process-status = Procès dal inviadôr
 app-basics-multi-process-support = Barcons multi-procès
+app-basics-fission-support = Barcons Fission
+app-basics-remote-processes-count = Procès lontans
+app-basics-enterprise-policies = Politichis di imprese
+app-basics-location-service-key-google = Clâf dal servizi Google Location
+app-basics-safebrowsing-key-google = Clâf di Google Safebrowsing
+app-basics-key-mozilla = Clâf dal servizi Mozilla Location
 app-basics-safe-mode = Modalitât sigure
+app-basics-memory-size = Dimension memorie (RAM)
+app-basics-disk-available = Spazi su disc disponibil
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Mostre in Finder
+        [windows] Vierç cartele
+       *[other] Vierç cartele
+    }
+environment-variables-title = Variabilis di ambient
+environment-variables-name = Non
+environment-variables-value = Valôr
+experimental-features-title = Funzionalitâts sperimentâls
+experimental-features-name = Non
+experimental-features-value = Valôr
+modified-key-prefs-title = Preferencis impuartantis modificadis
 modified-prefs-name = Non
 modified-prefs-value = Valôr
-user-js-title = user.js Preferencis
+user-js-title = Preferencis in user.js
+user-js-description = La cartele dal to profîl e conten un <a data-l10n-name="user-js-link">file user.js</a> che al inclût preferencis che no son stadis creadis di { -brand-short-name }.
+locked-key-prefs-title = Preferencis impuartantis blocadis
 locked-prefs-name = Non
 locked-prefs-value = Valôr
 graphics-title = Grafiche
+graphics-features-title = Funzionalitâts
+graphics-diagnostics-title = Diagnostiche
+graphics-failure-log-title = Regjistri erôrs
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Regjistri decisions
+graphics-crash-guards-title = Funzionalitâts disabilitadis di Crash Guard
+graphics-workarounds-title = Soluzions alternativis
+graphics-device-pixel-ratios = Proporzions dai pixels dal dispositîf pai barcons
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocol barcon
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Ambient di scritori
+place-database-title = Base di dâts Places
+place-database-stats = Statistichis
+place-database-stats-show = Mostre statistichis
+place-database-stats-hide = Plate statistichis
+place-database-stats-entity = Entitât
+place-database-stats-count = Conte
+place-database-stats-size-kib = Dimension (KiB)
+place-database-stats-size-perc = Dimension (%)
+place-database-stats-efficiency-perc = Eficience (%)
 a11y-title = Acessibilitât
 a11y-activated = Ative
 copy-text-to-clipboard-label = Copie dut tai Aponts
