@@ -2,22 +2,69 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Informazions pal supuart
-page-subtitle = Cheste pagjine e conten informazions tecnichis che a podin jessi utilis cuant che tu stât cirint di risolvi un probleme. Se tu sês daûr a cirî rispuestis a lis domandis plui frecuentis su { -brand-short-name }, dai une cjalade al nestri <a data-l10n-name="support-link">sît web di supuart</a>.
+page-title = Informazions pe risoluzion di problemis
+page-subtitle = Cheste pagjine e conten informazions tecnichis che a podaressin risultâ utilis par cirî di risolvi problemis. Se tu sês daûr a cirî rispuestis aes domandis plui frecuentis su { -brand-short-name }, da une cjalade al nestri <a data-l10n-name="support-link">sît web di supuart</a>.
+crashes-title = Segnalazions di colàs
 crashes-id = ID segnalazion
+crashes-send-date = Mandade
+crashes-all-reports = Dutis lis segnalazions di colàs
+crashes-no-config = Cheste aplicazion no je stade configurade par visualizâ lis segnalazions di colàs.
 support-addons-title = Components adizionâi
 support-addons-name = Non
+support-addons-type = Gjenar
+support-addons-enabled = Atîf
 support-addons-version = Version
 support-addons-id = ID
+security-software-title = Software di sigurece
+security-software-type = Gjenar
+security-software-name = Non
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
+features-title = Funzionalitâts di { -brand-short-name }
+features-name = Non
+features-version = Version
+features-id = ID
+processes-title = Procès lontans
+processes-type = Gjenar
+processes-count = Conte
 app-basics-title = Informazions di base de aplicazion
 app-basics-name = Non
 app-basics-version = Version
+app-basics-build-id = ID compilazion
+app-basics-distribution-id = ID distribuzion
+app-basics-update-channel = Canâl di inzornament
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Cartele di inzornament
+       *[other] Cartele di inzornament
+    }
 app-basics-update-history = Cronologjie dai inzornaments
-app-basics-show-update-history = Fâs viodi la cronologjie dai inzornamen&ts
-app-basics-enabled-plugins = Plugins instalâts
-app-basics-build-config = Configurazion de build
+app-basics-show-update-history = Mostre la cronologjie dai inzornaments
+# Represents the path to the binary used to start the application.
+app-basics-binary = File binari de aplicazion
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Cartele dal profîl
+       *[other] Cartele dal profîl
+    }
+app-basics-enabled-plugins = Plugins atîfs
+app-basics-build-config = Configurazion de compilazion
 app-basics-user-agent = Agjent utent
+app-basics-os = SO
+app-basics-os-theme = Teme SO
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Conversion Rosetta
 app-basics-memory-use = Memorie doprade
+app-basics-performance = Prestazions
+app-basics-service-workers = Service workers regjistrâts
+app-basics-third-party = Modui di tiercis parts
+app-basics-profiles = Profîi
+app-basics-launcher-process-status = Procès dal inviadôr
+app-basics-multi-process-support = Barcons multi-procès
 app-basics-safe-mode = Modalitât sigure
 modified-prefs-name = Non
 modified-prefs-value = Valôr
