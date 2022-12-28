@@ -323,16 +323,41 @@ startup-cache-found-disk-cache-on-init = Cjatade cache su disc dilunc la inizial
 startup-cache-wrote-to-disk-cache = Cache scrite su disc
 launcher-process-status-0 = Atîf
 launcher-process-status-1 = Disabilitât par vie di erôrs
+launcher-process-status-2 = Disativât in mût sfuarçât
+launcher-process-status-unknown = Stât no cognossût
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Disativât pal esperiment
+fission-status-experiment-treatment = Ativât pal esperiment
+fission-status-disabled-by-e10s-env = Disativât dal ambient
+fission-status-enabled-by-env = Abilitât dal ambient
+fission-status-disabled-by-env = Disativât dal ambient
+fission-status-enabled-by-default = Abilitât in mût predefinît
+fission-status-disabled-by-default = Disativât in mût predefinît
+fission-status-enabled-by-user-pref = Abilitât dal utent
+fission-status-disabled-by-user-pref = Disativât dal utent
+fission-status-disabled-by-e10s-other = E10s disativât
+fission-status-enabled-by-rollout = Ativât de implementazion a fasis
+async-pan-zoom = Panoramiche/Zoom asincrons
 apz-none = nissun
+wheel-enabled = input rudiele atîf
+touch-enabled = input tatil atîf
+drag-enabled = strissinament sbare di scoriment atîf
 keyboard-enabled = tastiere abilitade
+autoscroll-enabled = scoriment automatic atîf
+zooming-enabled = zoom piçât fluit atîf
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = input rudiele asincron disativât a cause di une preference no supuartade: { $preferenceKey }
+touch-warning = input tatil asincron disativât a cause di une preference no supuartade: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
@@ -342,6 +367,15 @@ policies-error = Erôr
 
 ## Printing section
 
+support-printing-title = Stampe
+support-printing-troubleshoot = Risoluzion problemis
+support-printing-clear-settings-button = Nete lis impostazions di stampe salvadis
+support-printing-modified-settings = Impostazions di stampe modificadis
+support-printing-prefs-name = Non
+support-printing-prefs-value = Valôr
 
 ## Normandy sections
 
+support-remote-experiments-title = Esperiments lontans
+support-remote-experiments-name = Non
+support-remote-experiments-branch = Ram esperiments
