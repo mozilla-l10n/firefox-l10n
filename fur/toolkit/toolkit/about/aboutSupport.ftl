@@ -252,6 +252,7 @@ main-thread-no-omtc = discussion principâl, no OMTC
 yes = Si
 no = No
 unknown = No cognossût
+virtual-monitor-disp = Visualizazion di visôr virtuâl
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -259,12 +260,15 @@ unknown = No cognossût
 
 found = Cjatade
 missing = Mancjante
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descrizion
 gpu-vendor-id = ID furnidôr
 gpu-device-id = ID dispositîf
 gpu-subsys-id = ID subsisteme
 gpu-drivers = Drivers
 gpu-ram = RAM
+gpu-driver-vendor = Produtôr driver
 gpu-driver-version = Version driver
 gpu-driver-date = Date dal driver
 gpu-active = Atîf
@@ -279,15 +283,22 @@ webgl2-version = Version dal driver WebGL 2
 webgl2-driver-extensions = Estensions dal driver WebGL 2
 webgl2-extensions = Estensions WebGL2
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Blocât par problemis cognossûts: <a data-l10n-name="bug-link">erôr { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Inte liste di bloc; codiç di erôr { $failureCode }
 d3d11layers-crash-guard = Composizion D3D11
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX - Decoder video
 reset-on-next-restart = Ripristine al prossim inviament
 gpu-process-kill-button = Finìs procès GPU
+gpu-device-reset = Risistemazion dispositîf
 gpu-device-reset-button = Restaurazion dal dispositîf di ativazion
 uses-tiling = Us di Mosaics
 content-uses-tiling = Us di Mosaics (contignût)
+off-main-thread-paint-enabled = Dissen fûr dal thread principâl abilitât
+off-main-thread-paint-worker-count = Conte dai workers di dissen fûr dal thread principâl
 loaded-lib-versions = Version in funzion
 has-user-namespaces = Spazis Non utent
 has-privileged-user-namespaces = Spazis Non utent par procès privilegjâts
