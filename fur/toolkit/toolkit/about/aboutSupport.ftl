@@ -308,9 +308,21 @@ has-user-namespaces = Spazis Non utent
 has-privileged-user-namespaces = Spazis Non utent par procès privilegjâts
 can-sandbox-content = Isolament procès pai contignûts
 can-sandbox-media = Isolament plugins multimediâi
+content-sandbox-level = Nivel di isolament dai procès dai contignûts
+effective-content-sandbox-level = Nivel efetîf di isolament dai procès dai contignûts
+content-win32k-lockdown-state = Stât di confinament Win32k  pal procès dai contignûts
+support-sandbox-gpu-level = Nivel di isolament dal procès de GPU
 sandbox-proc-type-content = contignût
 sandbox-proc-type-file = contigût dal file
 sandbox-proc-type-media-plugin = plugin multimediâl
+sandbox-proc-type-data-decoder = decodificadôr di dâts
+startup-cache-title = Cache di inviament
+startup-cache-disk-cache-path = Percors su disc de cache
+startup-cache-ignore-disk-cache = Ignore cache su disc
+startup-cache-found-disk-cache-on-init = Cjatade cache su disc dilunc la inizializazion
+startup-cache-wrote-to-disk-cache = Cache scrite su disc
+launcher-process-status-0 = Atîf
+launcher-process-status-1 = Disabilitât par vie di erôrs
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
