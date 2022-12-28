@@ -121,9 +121,33 @@ place-database-stats-count = Conte
 place-database-stats-size-kib = Dimension (KiB)
 place-database-stats-size-perc = Dimension (%)
 place-database-stats-efficiency-perc = Eficience (%)
+place-database-stats-sequentiality-perc = Secuenzialitât (%)
+place-database-integrity = Integritât
+place-database-verify-integrity = Verifiche integritât
 a11y-title = Acessibilitât
-a11y-activated = Ative
-copy-text-to-clipboard-label = Copie dut tai Aponts
+a11y-activated = Ativât
+a11y-force-disabled = Impedìs servizis di acessibilitât
+a11y-handler-used = Doprât un gjestôr acessibil
+a11y-instantiator = Gjeneradôr di istance pe acessibilitât
+library-version-title = Versions des librariis
+copy-text-to-clipboard-label = Copie il test intes notis
+copy-raw-data-to-clipboard-label = Copie i dâts grês intes notis
+sandbox-title = Isolament
+sandbox-sys-call-log-title = Clamadis di sisteme refudadis
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Seconts indaûr
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Gjenar di procès
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argoments
+troubleshoot-mode-title = Diagnostiche i problemis
+restart-in-troubleshoot-mode-label = Modalitât risoluzion problemis…
+clear-startup-cache-title = Prove a scancelâ la cache di inviament
+clear-startup-cache-label = Scancele la cache di inviament…
+startup-cache-dialog-title2 = Tornâ a inviâ { -brand-short-name } par netâ la cache di inviament?
+startup-cache-dialog-body2 = Cheste operazion no cambiarà lis tôs impostazion ni e gjavarà estensions.
+restart-button-label = Torne invie
 
 ## Media titles
 
