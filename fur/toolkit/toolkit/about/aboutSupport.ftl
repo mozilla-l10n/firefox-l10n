@@ -152,10 +152,35 @@ restart-button-label = Torne invie
 ## Media titles
 
 audio-backend = Backend audio
-max-audio-channels = Massim numar di canai
+max-audio-channels = Massim numar di canâi
+sample-rate = Frecuence di campionament preferide
+media-title = Multimedia
+media-output-devices-title = Dispositîfs di jessude
+media-input-devices-title = Dispositîfs di jentrade
+media-device-name = Non
+media-device-group = Grup
+media-device-vendor = Produtôr
+media-device-state = Stât
+media-device-preferred = Preferît
+media-device-format = Formât
+media-device-channels = Canâi
+media-device-rate = Frecuence
+media-capabilities-title = Capacitâts dal multimedia
+media-codec-support-info = Informazions di supuart pai codecs
+# List all the entries of the database.
+media-capabilities-enumerate = Enumere base di dâts
 
 ##
 
+intl-title = Internazionalizazion e localizazion
+intl-app-title = Impostazions de aplicazion
+intl-locales-requested = Lenghis domandadis
+intl-locales-available = Lenghis disponibilis
+intl-locales-supported = Lenghis de aplicazion
+intl-locales-default = Lenghe predefinide
+intl-os-title = Sisteme operatîf
+intl-os-prefs-system-locales = Lenghis dal sisteme
+intl-regional-prefs = Preferencis regjonâls
 
 ## Remote Debugging
 ##
@@ -166,6 +191,7 @@ max-audio-channels = Massim numar di canai
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Debug di lontan (protocol Chromium)
 
 ##
 
