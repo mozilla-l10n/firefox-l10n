@@ -113,3 +113,7 @@ certificate-viewer-unknown-group-label = (no cognossût)
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Certificâts personâi
+certificate-viewer-tab-people = Personis
+certificate-viewer-tab-servers = Servidôrs
+certificate-viewer-tab-ca = Autoritâts
+certificate-viewer-tab-unkonwn = No cognossûts
