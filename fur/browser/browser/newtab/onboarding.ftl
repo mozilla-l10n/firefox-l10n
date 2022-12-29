@@ -342,6 +342,19 @@ mr2022-onboarding-colorway-description-default = <b>Dopre i miei colôrs corints
 mr2022-onboarding-colorway-label-playmaker = Regjist(e)
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Regjist(e) (rosse)
+mr2022-onboarding-colorway-description-playmaker = <b>Regjist/Regjiste:</b> tu creis lis oportunitâts par vinci e judâ dutis lis personis tor ator di te a miorâ il lôr zûc.
+mr2022-onboarding-colorway-label-expressionist = Espressionist(e)
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Espressionist(e) (zale)
+mr2022-onboarding-colorway-description-expressionist = <b>Espressionist/Espressioniste:</b> tu viodis il mont in maniere diferente e lis tôs creazions a movin emozions ta chei altris.
+mr2022-onboarding-colorway-label-visionary = Visionari(e)
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Visionari(e) (verde)
+mr2022-onboarding-colorway-description-visionary = <b>Visionari/Visionarie:</b> tu metis in dubi il stât des robis e tu sburtis chei altris a imagjinâ un futûr miôr.
+mr2022-onboarding-colorway-label-activist = Ativist(e)
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Ativist(e) (blu)
+mr2022-onboarding-colorway-description-activist = <b>Ativist/Ativiste:</b> tu lassis il mont miôr di cemût che tu lu vevis cjatât e tu convincis chei altris a crodi tal cambiament.
 
 ## MR2022 Multistage Mobile Download screen strings
 
