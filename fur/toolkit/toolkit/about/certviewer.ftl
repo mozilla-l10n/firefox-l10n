@@ -72,10 +72,31 @@ certificate-viewer-public-key-info = Informazions clâf publiche
 certificate-viewer-miscellaneous = Variis
 certificate-viewer-fingerprints = Impronts digjitâi
 certificate-viewer-basic-constraints = Limitazions di base
+certificate-viewer-key-usages = Utilizazions de clâf
+certificate-viewer-extended-key-usages = Utilizazions de clâf estesis
+certificate-viewer-ocsp-stapling = Stapling OCSP
+certificate-viewer-subject-key-id = ID clâf sogjet
+certificate-viewer-authority-key-id = ID clâf autoritât
+certificate-viewer-authority-info-aia = Informazions autoritât (AIA)
+certificate-viewer-certificate-policies = Politichis dal certificât
+certificate-viewer-embedded-scts = SCTs integrâts
+# This message is used as a row header in the Miscellaneous section.
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Discjame
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Sì
+       *[false] No
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (certificât)
+    .download = { $fileName }.pem
 
 ##
 
