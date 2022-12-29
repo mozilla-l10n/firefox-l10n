@@ -80,6 +80,7 @@ certificate-viewer-authority-key-id = ID clâf autoritât
 certificate-viewer-authority-info-aia = Informazions autoritât (AIA)
 certificate-viewer-certificate-policies = Politichis dal certificât
 certificate-viewer-embedded-scts = SCTs integrâts
+certificate-viewer-crl-endpoints = Ponts terminâi CRL
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Discjame
