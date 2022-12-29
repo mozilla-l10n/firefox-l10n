@@ -2,10 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## The following feature name must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
+-profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Tietoja lokituksesta
 about-logging-current-log-file = Nykyinen lokitiedosto:
 about-logging-current-log-modules = Nykyiset lokitusmoduulit:
+about-logging-new-log-file = Uusi lokitiedosto:
+about-logging-currently-enabled-log-modules = Tällä hetkellä käytössä olevat lokimoduulit:
 about-logging-log-tutorial =
     Katso <a data-l10n-name="logging">HTTP Logging</a>
     saadaksesi ohjeita tämän työkalun käyttöön.
@@ -15,5 +34,18 @@ about-logging-set-log-file = Aseta lokitiedosto
 about-logging-set-log-modules = Aseta lokitusmoduulit
 about-logging-start-logging = Aloita lokitus
 about-logging-stop-logging = Pysäytä lokitus
+about-logging-new-log-modules = Uudet lokimoduulit:
+about-logging-logging-to-file = Lokitetaan tiedostoon
+about-logging-logging-preset-selector-text = Lokituksen esiasetus:
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+about-logging-preset-networking-label = Verkko
+about-logging-preset-media-playback-label = Median toisto
+# Error handling
+about-logging-error = Virhe:
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+
