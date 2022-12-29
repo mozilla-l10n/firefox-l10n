@@ -49,6 +49,10 @@ firefoxview-mobile-confirmation-header = 🎉 ດີຫຼາຍ!
 firefoxview-closed-tabs-title = ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 firefoxview-closed-tabs-description2 = ເປີດໜ້າທີ່ທ່ານໄດ້ປິດຄືນໃໝ່ຢູ່ໃນໜ້າຈໍນີ້.
 firefoxview-closed-tabs-placeholder-header = ບໍ່ມີແຖບທີ່ປິດເມື່ອບໍ່ດົນມານີ້
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = ປິດ { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ການເຄື່ອນໄຫວຫຼ້າສຸດ
 # Variables:

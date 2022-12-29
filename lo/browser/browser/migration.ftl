@@ -93,6 +93,8 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
+browser-data-otherdata-checkbox =
+    .label = ຂໍ້ມູນອື່ນໆ
 browser-data-otherdata-label =
     .label = ຂໍ້ມູນອື່ນໆ
 browser-data-session-checkbox =
