@@ -34,3 +34,4 @@ more-from-moz-learn-more-link = Meer info
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Bescherm uw Postvak IN en uw identiteit met gratis e-mailmaskering.
+more-from-moz-firefox-relay-button = { -relay-brand-short-name } downloaden
