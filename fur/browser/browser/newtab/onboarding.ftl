@@ -355,13 +355,27 @@ mr2022-onboarding-colorway-label-activist = Ativist(e)
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Ativist(e) (blu)
 mr2022-onboarding-colorway-description-activist = <b>Ativist/Ativiste:</b> tu lassis il mont miôr di cemût che tu lu vevis cjatât e tu convincis chei altris a crodi tal cambiament.
+mr2022-onboarding-colorway-label-dreamer = Insumiadôr/Insumiadore
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Insumiadôr/Insumiadore (viole)
+mr2022-onboarding-colorway-description-dreamer = <b>Insumiadôr/Insumiadore:</b> tu crodis che la furtune e judi i ardîts e che e spiri chei altris a jessi ardimentôs.
+mr2022-onboarding-colorway-label-innovator = Inovadôr/Inovadore
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Inovadôr/Inovadore (naranç)
+mr2022-onboarding-colorway-description-innovator = <b>Inovadôr/Inovadore:</b> tu viodis oportunitâts dapardut e tu lassis un segn te vite di ducj chei che ti stan ator.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Passe dal portatil al telefon e contrari
+mr2022-onboarding-mobile-download-subtitle = Recupere lis schedis di un altri dispositîf e ripie di dulà che tu jeris restât. In plui, sincronize i tiei segnelibris e lis passwords di cualsisei bande tu ti cjatis a doprâ { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Scansione il codiç QR par otignî { -brand-product-name } par dispositîfs mobii o <a data-l10n-name="download-label">manditi un colegament par discjamâlu.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Scansione il codiç QR par otignî { -brand-product-name } par dispositîfs mobii.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = La libertât de navigazion privade intun clic
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Nissun cookie o cronologjie salvâts, dret dal to scritori. Navighe come se nissun ti stes cjalant.
 
 ## MR2022 Privacy Segmentation screen strings
 
