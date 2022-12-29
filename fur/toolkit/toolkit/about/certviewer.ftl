@@ -97,9 +97,19 @@ certificate-viewer-boolean =
 
 certificate-viewer-download-pem = PEM (certificât)
     .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (cjadene)
+    .download = { $fileName }-cjadene.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Cheste estension e je stade segnade come critiche. Chest al significhe che i clients a scugnin refudâ il certificât se no rivin a interpretâlu.
+certificate-viewer-export = Espuarte
+    .download = { $fileName }.pem
 
 ##
 
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (no cognossût)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Certificâts personâi
