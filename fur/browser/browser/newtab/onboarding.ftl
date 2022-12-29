@@ -376,15 +376,31 @@ mr2022-onboarding-no-mobile-download-cta-text = Scansione il codiç QR par otign
 
 mr2022-upgrade-onboarding-pin-private-window-header = La libertât de navigazion privade intun clic
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Nissun cookie o cronologjie salvâts, dret dal to scritori. Navighe come se nissun ti stes cjalant.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Ten { -brand-short-name } — Navigazion privade tal Dock
+       *[other] Fisse { -brand-short-name } — Navigazion privade te sbare des aplicazions
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = O rispietìn simpri la tô riservatece
+mr2022-onboarding-privacy-segmentation-subtitle = Di sugjeriments inteligjents a ricercjis plui eficientis, o lavorìn cun costance par creâ une esperience miorade e plui personâl in { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-text-cta = Ce desideristu viodi cuant che o introdusìn gnovis funzionalitâts che a doprin i tiei dâts par miorâ la navigazion?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Dopre lis impostazions conseadis di { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostre informazions detaiadis
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Tu nus stâs judant a realizâ un web miôr
+mr2022-onboarding-gratitude-subtitle = Graciis di doprâ { -brand-short-name }, sostignût de Fondazion Mozilla. Cul to supuart, o stin lavorant a rindi internet plui viert, acessibil e miôr par ducj.
+mr2022-onboarding-gratitude-primary-button-label = Scuvierç lis novitâts
+mr2022-onboarding-gratitude-secondary-button-label = Scomence a navigâ
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Metiti comut
+onboarding-infrequent-import-subtitle = Nol impuarte se tu restis achì o se tu sês dome di passaç, visiti che tu puedis impuartâ i tiei segnelibris, lis passwords e altri.
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
