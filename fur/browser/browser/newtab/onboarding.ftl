@@ -401,7 +401,24 @@ mr2022-onboarding-gratitude-secondary-button-label = Scomence a navigâ
 
 onboarding-infrequent-import-title = Metiti comut
 onboarding-infrequent-import-subtitle = Nol impuarte se tu restis achì o se tu sês dome di passaç, visiti che tu puedis impuartâ i tiei segnelibris, lis passwords e altri.
+onboarding-infrequent-import-primary-button = Impuarte in { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persone che e lavore suntun portatil cun tor ator stelis e rosutis
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persone che e cjape a bracecuel il logo di { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persone suntun skateboard cuntune scjate di iconis di software
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Crots che a saltin tra lavaçs di aghe, cuntun codiç QR tal mieç par discjamâ { -brand-product-name } par dispositîfs mobii
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Une bachete magjiche e fâs vignî fûr di un cjapiel il logo de navigazion privade di { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Dôs mans, une clare e une scure, che si dan il cinc
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Viodude di un tramont a traviers di un barcon, cuntune bolp e une plante su la plane
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Une man e dissegne un grafît cuntun collage colorât che al à un voli vert, une scarpe naranç, un balon ros di bale tal zei, scufis viole, un cûr blu e une corone zale
