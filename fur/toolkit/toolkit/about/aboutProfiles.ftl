@@ -8,6 +8,11 @@ profiles-create = Cree gnûf profîl
 profiles-restart-title = Torne invie
 profiles-restart-in-safe-mode = Torne invie cui components adizionâi disabilitâts…
 profiles-restart-normal = Torne invie in mût normâl…
+profiles-conflict = Une altre copie di { -brand-product-name } e à fatis modifichis ai profîi. Tu scugnis tornâ a inviâ { -brand-short-name } prime di fâ altris modifichis.
+profiles-flush-fail-title = Modifichis no salvadis
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Un erôr inspietât al à impedît il salvament des tôs modifichis.
+profiles-flush-restart-button = Torne invie { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profîl: { $name }
@@ -26,6 +31,8 @@ profiles-rename = Torne a nomenâ
 profiles-remove = Gjave
 profiles-set-as-default = Imposte come profîl predefinît
 profiles-launch-profile = Invie profîl in ta un gnûf browser
+profiles-cannot-set-as-default-title = Impussibil meti come predefinît
+profiles-cannot-set-as-default-message = Nol è stât pussibil cambiâ il profîl predefinît par { -brand-short-name }.
 profiles-yes = si
 profiles-no = no
 profiles-rename-profile-title = Torne a nomenâ profîl
