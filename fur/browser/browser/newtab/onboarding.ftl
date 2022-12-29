@@ -285,26 +285,63 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Ten { -brand-short-name } tal Dock
        *[other] Fisse { -brand-short-name } te sbare des aplicazions
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Scomence cuntun navigadôr sostignût di une organizazion cence fin di vuadagn. O difindìn la tô riservatece intant che tu navighis ator sul web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Graciis par preseâ { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Invie di cualsisei bande un internet plui san cuntun singul clic. Il nestri ultin inzornament al à gnovis robis che tu adorarâs.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Dopre un navigadôr che al difint la tô riservatece dilunc la navigazion ator sul web. Il nestri ultin inzornament al à robis che tu adorarâs.
+mr2022-onboarding-existing-pin-checkbox-label = Zonte ancje { -brand-short-name } — Navigazion privade
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Rint { -brand-short-name } il to navigadôr di riferiment
+mr2022-onboarding-set-default-primary-button-label = Met { -brand-short-name } come navigadôr predefinît
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Dopre un navigadôr sostignût di une organizazion cence fin di vuadagn. O difindìn la tô riservatece intant che tu navighis ator pal web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = La nestre ultime version e je costruide su misure par te, rindint plui facil che mai lâ ator pal web. E inclût funzionalitâts che o crodìn che tu adorarâs.
+mr2022-onboarding-get-started-primary-button-label = Configure in pôcs seconts
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configurazion super-svelte
+mr2022-onboarding-import-subtitle = Configure { -brand-short-name } come che ti plâs. Zonte segnelibris, passwords e altri dal to vecjo navigadôr.
+mr2022-onboarding-import-primary-button-label-no-attribution = Impuarte dal navigadôr precedent
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Sielç il colôr che ti spire
+mr2022-onboarding-colorway-subtitle = Lis vôs indipendentis a puedin cambiâ la societât.
+mr2022-onboarding-colorway-primary-button-label-continue = Configure e continue
+mr2022-onboarding-existing-colorway-checkbox-label = Fâs deventâ { -firefox-home-brand-name } la tô pagjine iniziâl colorade
+mr2022-onboarding-colorway-label-default = Predefinît
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Colôrs corints di { -brand-short-name }
+mr2022-onboarding-colorway-description-default = <b>Dopre i miei colôrs corints di { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Regjist(e)
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Regjist(e) (rosse)
 
 ## MR2022 Multistage Mobile Download screen strings
 
