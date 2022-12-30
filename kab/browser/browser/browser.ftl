@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Taxbalut:
 urlbar-result-menu-button =
     .title = Ldi umuɣ
+urlbar-result-menu-remove-from-history =
+    .label = Kkes seg uzray
+    .accesskey = K
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -964,3 +967,6 @@ refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
+
+## Firefox Relay integration
+
