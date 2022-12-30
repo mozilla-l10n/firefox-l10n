@@ -7,7 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
-perftools-intro-title = Profilleyici Ayarları
+perftools-intro-title = Profiler Ayarları
 perftools-intro-description = Kayıtlar yeni bir sekmede profiler.firefox.com adresini açar. Tüm veriler cihazınızda yerel olarak depolanır. Paylaşmak istediklerinizi upload edebilirsiniz.
 
 ## All of the headings for the various sections.
@@ -36,9 +36,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tampon boyutu:
-
 perftools-custom-threads-label = Ada göre özel iş parçacığı ekle:
-
 perftools-devtools-interval-label = Aralık:
 perftools-devtools-threads-label = İş parçacıkları:
 perftools-devtools-settings-label = Ayarlar
@@ -85,7 +83,7 @@ perftools-thread-style-thread =
 pref-thread-stream-trans =
     .title = Ağ akışı aktarımı
 perftools-thread-socket-thread =
-    .title = Ağ kodunun egelleyici soket çağrılarını çalıştırdığı iş parçacığı.
+    .title = Ağ kodunun egelleyici soket çağrılarını çalıştırdığı iş parçacığı
 perftools-thread-img-decoder =
     .title = Görüntü çözme iş parçacıkları
 perftools-thread-dns-resolver =
@@ -108,15 +106,13 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Yukarıdaki seçimleri atla ve tüm kayıtlı iş parçacıklarını kaydet
-
 perftools-tools-threads-input-label =
-    .title = Bu iş parçacığı adları, profilleyicide profili çıkarılacak iş parçacıklarının virgülle ayrılmış listesidir. İç parçacığı adının dahil edilmesi için kısmi eşleşme olması yeterlidir. Adlar boşluk karakterine duyarlıdır.
+    .title = Bu iş parçacığı adları, profilleyicide profili çıkarılacak iş parçacıklarının virgülle ayrılmış listesidir. İş parçacığı adının dahil edilmesi için kısmi eşleşme olması yeterlidir. Adlar boşluk karakterine duyarlıdır.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Yeni</b>: { -profiler-brand-name } artık geliştirici araçlarına entegre edildi. Bu güçlü yeni araç hakkında <a>daha fazla bilgi edinin</a>.
-
 perftools-onboarding-close-button =
     .aria-label = Tanıtım mesajını kapat
 
@@ -129,23 +125,17 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Web geliştirici
 perftools-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük overhead.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = { -brand-shorter-name } tarayıcısını profilleme için önerilen ayar.
-
 perftools-presets-graphics-label = Grafik
 perftools-presets-graphics-description = { -brand-shorter-name } tarayıcısında grafik hatalarını araştırma ayarı.
-
 perftools-presets-media-label = Ortam
 perftools-presets-media-description2 = { -brand-shorter-name } tarayıcısında ses ve video hatalarını araştırma ayarı.
-
 perftools-presets-networking-label = Ağ
 perftools-presets-networking-description = { -brand-shorter-name } tarayıcısında ağ hatalarını araştırma ayarı.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Güç
 perftools-presets-power-description = { -brand-shorter-name } tarayıcısında güç tüketimi hatalarını araştırma ayarı, düşük ek yük.
-
 perftools-presets-custom-label = Özel
 
 ##
