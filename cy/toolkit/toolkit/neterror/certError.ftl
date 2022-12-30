@@ -75,6 +75,9 @@ deniedPortAccess-title = Mae'r cyfeiriad wedi ei gyfyngu
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Rydym yn cael trafferth canfod y wefan honno.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title = Risg diogelwch posib ar gyfer { $hostname }.
 fileNotFound-title = Heb ganfod ffeil
 fileAccessDenied-title = Mae mynediad at y ffeil wedi ei wrthod
 generic-title = Wps.
