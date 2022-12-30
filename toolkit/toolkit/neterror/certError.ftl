@@ -75,6 +75,9 @@ deniedPortAccess-title = Ez a cím tiltva van
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Probléma az oldal megkeresésekor.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title = Lehetséges biztonsági kockázat a következőnél: { $hostname }.
 fileNotFound-title = A fájl nem található
 fileAccessDenied-title = A fájl elérése megtagadva
 generic-title = Hoppá!
