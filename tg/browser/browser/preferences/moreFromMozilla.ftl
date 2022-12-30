@@ -33,3 +33,5 @@ more-from-moz-learn-more-link = Маълумоти бештар
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = Қуттии почтаи худ ва шахсияти худро бо ниқобсозии почтаи электронии ройгон муҳофизат намоед.
+more-from-moz-firefox-relay-button = Ба даст овардани «{ -relay-brand-short-name }»

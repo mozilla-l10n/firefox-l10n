@@ -24,6 +24,8 @@ about-logging-title = Дар бораи сабти рӯйдодҳо
 about-logging-page-title = Мудири сабти рӯйдодҳо
 about-logging-current-log-file = Файли сабти рӯйдодҳои ҷорӣ:
 about-logging-current-log-modules = Модулҳои сабти рӯйдодҳои ҷорӣ:
+about-logging-new-log-file = Файли сабти рӯйдодҳои нав:
+about-logging-currently-enabled-log-modules = Айни ҳол модулҳои сабти рӯйдодҳо фаъоланд:
 about-logging-log-tutorial =
     Барои гирифтани дастурҳо оид ба истифодаи ин абзор
     ба <a data-l10n-name="logging">Сабти рӯйдодҳои HTTP</a> нигаред.

@@ -798,6 +798,8 @@ forms-breach-alerts =
     .label = Намоиш додани огоҳиҳо оид ба ниҳонвожаҳо барои сомонаҳои вайронкардашуда
     .accesskey = Н
 forms-breach-alerts-learn-more-link = Маълумоти бештар
+relay-integration =
+    .label = «{ -relay-brand-name }»-ро дар мудири ниҳонвожаҳои «{ -brand-short-name }» фаъол созед
 relay-integration-learn-more-link = Маълумоти бештар
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

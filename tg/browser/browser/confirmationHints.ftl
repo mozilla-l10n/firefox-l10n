@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Ниҳонвожа нигоҳ дошта шу
 confirmation-hint-pin-tab = Васл карда шуд!
 confirmation-hint-pin-tab-description = Барои ҷудо кардани варақа, онро бо тугмаи рости муш зер кунед.
 confirmation-hint-send-to-device = Фиристода шуд!
+confirmation-hint-firefox-relay-mask-generated = Ниқоби «{ -relay-brand-short-name }»-и нав эҷод шуд!
