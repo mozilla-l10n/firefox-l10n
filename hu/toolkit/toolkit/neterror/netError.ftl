@@ -24,6 +24,8 @@ neterror-pref-reset-button = Alap beállítások visszaállítása
 neterror-return-to-previous-page-button = Ugrás vissza
 neterror-return-to-previous-page-recommended-button = Visszalépés (ajánlott)
 neterror-try-again-button = Próbálja újra
+neterror-add-exception-button = Folytatás mindig ezen az oldalon
+neterror-settings-button = DNS beállítások módosítása
 neterror-view-certificate-link = Tanúsítvány megtekintése
 
 ##
@@ -45,6 +47,23 @@ neterror-dns-not-found-hint-header = <strong>Ha a megfelelő címet adta meg, a 
 neterror-dns-not-found-hint-try-again = Próbálja meg újra később
 neterror-dns-not-found-hint-check-network = Ellenőrizze a hálózati kapcsolatot
 neterror-dns-not-found-hint-firewall = Ellenőrizze, hogy a { -brand-short-name } jogosult-e az internet elérésére (lehet, hogy csatlakozik, de tűzfal mögött van)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-reason = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a megbízható DNS-feloldónkon keresztül. Ennek ez az oka:
+neterror-dns-not-found-trr-only-attackers = Ha folytatja, egy harmadik fél is láthatja, hogy milyen webhelyeket keres fel, vagy egy nem megbízható webhelyre küldheti Önt.
+neterror-dns-not-found-trr-only-could-not-connect = A { -brand-short-name } nem tudott csatlakozni a következő domainhoz: { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = A következőhöz kapcsolódás a vártnál tovább tartott: { $trrDomain }.
+neterror-dns-not-found-trr-offline = Nem csatlakozik az internethez.
+neterror-dns-not-found-trr-unknown-host = Nem található cím ehhez a weboldalhoz: { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Probléma lépett fel a következő domainen: { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Váratlan probléma.
+
+##
+
 neterror-file-not-found-filename = Ellenőrizze a fájlnevet, hogy jól írta-e.
 neterror-file-not-found-moved = Ellenőrizze, hogy a fájlt áthelyezték-e, átnevezték-e vagy eltávolították-e.
 neterror-access-denied = Lehet hogy törölve lett, át lett helyezve, vagy a fájljogosultságok megakadályozzák a hozzáférést.

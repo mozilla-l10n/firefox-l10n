@@ -33,4 +33,5 @@ more-from-moz-learn-more-link = További tudnivalók
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = Védje meg a postafiókját és a személyazonosságát az ingyenes e-mail-maszkolás segítségével.
 more-from-moz-firefox-relay-button = A { -relay-brand-short-name } beszerzése
