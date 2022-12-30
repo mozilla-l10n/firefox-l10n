@@ -53,6 +53,9 @@ neterror-dns-not-found-hint-firewall = Verifica que { -brand-short-name } ha per
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } non pote proteger tu requesta pro le adresse de iste sito per nostre resolver de DNS digne de fide. Ecce perque:
+neterror-dns-not-found-trr-only-attackers = Si tu continua, un tertie-parte poterea vider que sitos web tu visita o inviar te a un sito non fidabile.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non poteva connecter se a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Le connexion a { $trrDomain } prendeva plus tempore que expectate.
 neterror-dns-not-found-trr-offline = Nulle connexion a internet
 neterror-dns-not-found-trr-unknown-host = Un adresse pro iste sito web non era trovava per { $trrDomain }.
