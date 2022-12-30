@@ -971,3 +971,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = Барои муҳофизат кардани шумо аз ҳамлаҳо ва мактубҳои номатлуб «{ -relay-brand-name }» ба нишонии почтаи электронии ҳақиқии шумо ниқоб мепӯшад.
+firefox-relay-offer-how-we-integrate = Агар шумо идома диҳед, минбаъд метавонед барои почтаи электронӣ ниқобҳои «{ -relay-brand-short-name }»-и навро рост аз мудири ниҳонвожаҳои «{ -brand-shorter-name }» эҷод намоед.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Мо ҳамаи паёмҳои электрониро аз <strong>{ $sitename }</strong> ба <strong>{ $useremail }</strong> интиқол медиҳем.
