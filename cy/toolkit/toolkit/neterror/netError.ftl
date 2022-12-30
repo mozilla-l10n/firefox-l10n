@@ -60,6 +60,7 @@ neterror-dns-not-found-trr-only-timeout = Cymerodd y cysylltiad i { $trrDomain }
 neterror-dns-not-found-trr-offline = Nid ydych wedi'ch cysylltu â'r rhyngrwyd.
 neterror-dns-not-found-trr-unknown-host = Nid yw cyfeiriad y wefan hon wedi'i chanfod gan { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Bu anhawster gyda { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Anhawster annisgwyl.
 
 ##
 
