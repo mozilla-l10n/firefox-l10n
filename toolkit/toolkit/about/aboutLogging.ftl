@@ -41,6 +41,7 @@ about-logging-info = Info:
 about-logging-log-modules-selection = Valg af logmodul
 about-logging-new-log-modules = Nye logmoduler:
 about-logging-logging-output-selection = Output for logs
+about-logging-logging-to-file = Gemmer logs i en fil
 about-logging-logging-to-profiler = Logger til { -profiler-brand-name }
 about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
