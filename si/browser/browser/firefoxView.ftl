@@ -43,13 +43,13 @@ firefoxview-tabpickup-sync-disconnected-description = ඔබගේ පටිත�
 firefoxview-tabpickup-sync-disconnected-primarybutton = සැකසුම් තුළ සමමුහූර්තය සක්‍රිය කරන්න
 firefoxview-tabpickup-password-locked-link = තව දැනගන්න
 firefoxview-tabpickup-password-locked-primarybutton = ප්‍රාථමික මුරපදය යොදන්න
+firefoxview-tabpickup-signed-out-primarybutton = පිවිසෙන්න
 firefoxview-tabpickup-syncing = ඔබගේ පටිති මොහොතකින් සමමුහූර්ත වනු ඇත. රැඳී සිටින්න.
 firefoxview-mobile-promo-description = ඔබගේ නවතම ජංගම පටිති බැලීමට, අයිඕඑස් හෝ ඇන්ඩ්‍රොයිඩ් හි { -brand-product-name } වෙත පිවිසෙන්න.
 firefoxview-mobile-promo-primarybutton = දුරකථනය සඳහා { -brand-product-name } ගන්න
 firefoxview-mobile-confirmation-header = 🎉 යන්න හොඳයි!
 firefoxview-closed-tabs-title = මෑතදී වසා දැමූ
 firefoxview-closed-tabs-description2 = මෙම කවුළුවෙහි වසා දැමූ පිටු නැවත විවෘත කරන්න.
-firefoxview-closed-tabs-placeholder = <strong>මෑත දී වසා දැමූ පිටු නැත</strong><br/>කිසි විටෙක වසා දැමූ පටිත්තක් අහිමි වේ යැයි බිය නොවන්න. ඔබට එය සැමවිටම මෙතැනින් සොයා ගැනීමට හැකිය.
 firefoxview-closed-tabs-placeholder-header = මෑත දී වසා දැමූ පටිති නැත
 firefoxview-closed-tabs-placeholder-body = මෙම කවුළුවේ පටිත්තක් වසා දැමූ විට, ඔබට එය මෙතැනින් ලද හැකිය.
 # refers to the last tab that was used
@@ -65,7 +65,6 @@ firefoxview-change-colorway-button = වර්ණ පරාසය සංශෝ�
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>තවමත් දැකීමට කිසිවක් නැත</strong><br/> ඊළඟ වතාවේ වෙනත් උපාංගයකින් { -brand-product-name } හරහා පිටුවක් විවෘත කරන විට, එය විජ්ජාවක මෙන් මෙතැනින් ඇහිඳින්න.
 firefoxview-synced-tabs-placeholder-header = තවම දකින්න දෙයක් නැත
 firefoxview-collapse-button-show =
     .title = ලේඛනය පෙන්වන්න
