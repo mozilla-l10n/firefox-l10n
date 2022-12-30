@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-banner-update-downloading =
+    .label = ກຳລັງດາວໂຫຼດການອັບເດດ { -brand-shorter-name }
 appmenuitem-banner-update-available =
     .label = ມີການອັບເດດ — ດາວໂຫຼດດຽວນີ້
 appmenuitem-banner-update-manual =
