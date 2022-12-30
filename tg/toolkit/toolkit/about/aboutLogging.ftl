@@ -35,8 +35,17 @@ about-logging-set-log-file = Танзими файли сабти рӯйдодҳ
 about-logging-set-log-modules = Танзими модули сабти рӯйдодҳо
 about-logging-start-logging = Оғоз кардани сабти рӯйдодҳо
 about-logging-stop-logging = Анҷом додани сабти рӯйдодҳо
+about-logging-buttons-disabled = Сабти рӯйдодҳо тавассути тағйирёбандаҳои муҳитӣ танзим шудааст, танзимоти серамал дастнорас аст.
+about-logging-some-elements-disabled = Сабти рӯйдодҳо тавассути нишонии URL танзим шудааст, баъзе имконоти танзимот дастнорасанд.
+about-logging-info = Маълумот:
+about-logging-log-modules-selection = Интихоби модули сабти рӯйдодҳо
+about-logging-new-log-modules = Модулҳои сабти рӯйдодҳои нав:
+about-logging-logging-output-selection = Барориши сабти рӯйдодҳо
+about-logging-logging-to-file = Сабти рӯйдодҳо ба файл
+about-logging-logging-to-profiler = Сабти рӯйдодҳо ба «{ -profiler-brand-name }»
 about-logging-no-log-modules = Ҳеҷ
 about-logging-no-log-file = Ҳеҷ
+about-logging-logging-preset-selector-text = Сабти рӯйдодҳои пешфарз:
 
 ## Logging presets
 
