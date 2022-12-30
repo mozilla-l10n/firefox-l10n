@@ -33,5 +33,5 @@ more-from-moz-learn-more-link = Dysgu rhagor
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
-more-from-moz-firefox-relay-description = Diogelwch eich blwch derbyn a'ch hunaniaeth gyda arallenwau e-bost am ddim.
+more-from-moz-firefox-relay-description = Diogelwch eich blwch derbyn a'ch hunaniaeth gydag arallenwau e-bost am ddim.
 more-from-moz-firefox-relay-button = Cael { -relay-brand-short-name }
