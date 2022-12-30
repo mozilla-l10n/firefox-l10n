@@ -24,6 +24,8 @@ neterror-pref-reset-button = Restaurar configurações padrão
 neterror-return-to-previous-page-button = Voltar
 neterror-return-to-previous-page-recommended-button = Voltar (recomendado)
 neterror-try-again-button = Tentar novamente
+neterror-add-exception-button = Sempre continuar para este site
+neterror-settings-button = Alterar configurações de DNS
 neterror-view-certificate-link = Ver certificado
 
 ##
@@ -45,6 +47,23 @@ neterror-dns-not-found-hint-header = <strong>Se você digitou o endereço corret
 neterror-dns-not-found-hint-try-again = Tentar novamente mais tarde
 neterror-dns-not-found-hint-check-network = Verificar a conexão de rede
 neterror-dns-not-found-hint-firewall = Verificar se o { -brand-short-name } tem permissão para acessar a web (a conexão pode estar limitada por um firewall)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-reason = O { -brand-short-name } não pode proteger sua requisição para o endereço deste site através de nosso resolvedor confiável de DNS. Motivo:
+neterror-dns-not-found-trr-only-attackers = Se você continuar, alguém pode conseguir ver quais sites você visita ou te direcionar para um site não confiável.
+neterror-dns-not-found-trr-only-could-not-connect = O { -brand-short-name } não conseguiu se conectar com { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = A conexão com { $trrDomain } demorou mais do que o esperado.
+neterror-dns-not-found-trr-offline = Você não está conectado à internet.
+neterror-dns-not-found-trr-unknown-host = Um endereço deste site não foi encontrado por { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Houve um problema com { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Problema não esperado.
+
+##
+
 neterror-file-not-found-filename = Verifique se o nome do arquivo tem letras maiúsculas ou outros erros de digitação.
 neterror-file-not-found-moved = Verifique se o arquivo foi movido, renomeado ou excluído.
 neterror-access-denied = Pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.
