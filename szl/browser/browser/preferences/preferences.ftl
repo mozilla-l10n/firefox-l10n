@@ -395,7 +395,7 @@ update-application-use-service =
 update-application-suppress-prompts =
     .label = Pokozuj mynij powiadōmiyń ô aktualizacyjach
     .accesskey = m
-update-setting-write-failure-title2 = Feler przi spamiyntywaniu sztalōnkōw aktualizacyji
+update-setting-write-failure-title2 = Feler przi spamiyntowaniu sztalōnkōw aktualizacyji
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -496,7 +496,7 @@ home-mode-choice-default =
 home-mode-choice-custom =
     .label = Włosne adresy…
 home-mode-choice-blank =
-    .label = Prōżno strōna
+    .label = Prōzno strōna
 home-homepage-custom-url =
     .placeholder = Wraź adresa URL…
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -777,7 +777,7 @@ pane-privacy-logins-and-passwords-header = Dane logowanio i hasła
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Pytej sie ô spamiyntywanie danych logowanio i haseł do strōn
+    .label = Pytej sie ô spamiyntowanie danych logowanio i haseł do strōn
     .accesskey = r
 forms-exceptions =
     .label = Wyjōntki…
@@ -986,6 +986,9 @@ content-blocking-fingerprinters = Elymynta, co rychtujōm ôdcisk ôd przeglōnd
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Sprōbuj naszyj nojsiylniyjszyj funkcyji do ôchrōny prywatności
     .accesskey = S
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Połno ôchrōna cookies trzimie cookies na strōnie, na keryj żeś je, tak co elymynty śledzōnce niy idōm za tobōm miyndzy strōnami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Przewiydz sie wiyncyj
