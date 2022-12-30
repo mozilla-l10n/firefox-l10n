@@ -292,18 +292,26 @@ quickactions-extensions = දිගු කළමනාකරණය
 quickactions-cmd-extensions = දිගු
 # Opens the devtools web inspector
 quickactions-inspector = සෝදිසිය අරින්න
+# Opens the devtools web inspector
+quickactions-inspector2 = සංවර්ධක මෙවලම් අරින්න
 quickactions-cmd-inspector = සෝදිසිකරු, සං.මෙවලම්
 # Opens about:logins
 quickactions-logins = පිවිසුම් බලන්න
+# Opens about:logins
+quickactions-logins2 = මුරපද කළමනාකරණය
 quickactions-cmd-logins = පිවිසුම්, මුරපද
 # Opens about:addons page in the plugins section
 quickactions-plugins = පේනු කළමණාකරණය
 quickactions-cmd-plugins = පේනු
 # Opens the print dialog
 quickactions-print = මුද්‍රණය
+# Opens the print dialog
+quickactions-print2 = මුද්‍රණ පිටුව
 quickactions-cmd-print = මුද්‍රණය
 # Opens a new private browsing window
 quickactions-private = පෞද්. පිරික්සුම් කවුළුව අරින්න
+# Opens a new private browsing window
+quickactions-private2 = නව පෞද්. කවුළුව
 quickactions-cmd-private = පෞද්. පිරික්සුම
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } නැවුම් කරන්න
@@ -313,9 +321,13 @@ quickactions-restart = { -brand-short-name } යළි අරඹන්න
 quickactions-cmd-restart = යළි අරඹන්න
 # Opens the screenshot tool
 quickactions-screenshot2 = තිර සේයාවක් ගන්න
+# Opens the screenshot tool
+quickactions-screenshot3 = තිර සේයාවක් ගන්න
 quickactions-cmd-screenshot = තිරසේයාව
 # Opens about:preferences
 quickactions-settings = සැකසුම් අරින්න
+# Opens about:preferences
+quickactions-settings2 = සැකසුම් කළමනාකරණය
 quickactions-cmd-settings = සැකසුම්, අභිප්‍රේත, විකල්ප
 # Opens about:addons page in the themes section
 quickactions-themes = තේමා කළමනාකරණය
@@ -325,6 +337,8 @@ quickactions-update = { -brand-short-name } යාවත්කාල
 quickactions-cmd-update = යාවත්කාල
 # Opens the view-source UI with current pages source
 quickactions-viewsource = මූලාශ්‍රය පෙන්වන්න
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = පිටුවේ මූලාශ්‍රය බලන්න
 quickactions-cmd-viewsource = මූලාශ්‍රය බලන්න, මූලාශ්‍රය
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
