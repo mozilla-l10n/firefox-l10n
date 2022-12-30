@@ -118,13 +118,13 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle =
-    .label = Profil oluşturucu
+    .label = Profiler
     .tooltiptext = Bir performans profili kaydet
 profiler-popup-button-recording =
-    .label = Profil oluşturucu
+    .label = Profiler
     .tooltiptext = Profil oluşturucu bir profili kaydediyor
 profiler-popup-button-capturing =
-    .label = Profil oluşturucu
+    .label = Profiler
     .tooltiptext = Profil oluşturucu bir profili yakalıyor
 profiler-popup-title =
     .value = { -profiler-brand-name }
