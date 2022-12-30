@@ -24,6 +24,8 @@ neterror-pref-reset-button = Gendan indstillinger til standard
 neterror-return-to-previous-page-button = Gå tilbage
 neterror-return-to-previous-page-recommended-button = Gå tilbage (anbefalet)
 neterror-try-again-button = Prøv igen
+neterror-add-exception-button = Fortsæt altid for dette websted
+neterror-settings-button = Skift DNS-indstillinger
 neterror-view-certificate-link = Vis certifikat
 
 ##
@@ -45,6 +47,15 @@ neterror-dns-not-found-hint-header = <strong>Hvis du har indtasten adressen korr
 neterror-dns-not-found-hint-try-again = Prøv igen senere
 neterror-dns-not-found-hint-check-network = Kontroller din internetforbindelse
 neterror-dns-not-found-hint-firewall = Kontroller, om { -brand-short-name } har adgang til internettet (forbindelsen kan fx befinde sig bag en firewall)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+##
+
 neterror-file-not-found-filename = Undersøg filnavnet for store bogstaver eller andre tastefejl.
 neterror-file-not-found-moved = Undersøg om filen er blevet flyttet, omdøbt eller slettet
 neterror-access-denied = Den kan være blevet slettet, flyttet, eller tilladelserne for filen kan forhindre adgang.

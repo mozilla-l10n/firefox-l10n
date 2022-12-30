@@ -126,7 +126,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
-    .tooltiptext = Håndter deling af andre højttalere med webstedet
+    .tooltiptext = Håndter deling af andre højtalere med webstedet
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Åbn panelet for automatisk afspilning
 urlbar-persistent-storage-notification-anchor =
@@ -508,7 +508,7 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
 popup-select-speaker-icon =
-    .tooltiptext = Højttalere
+    .tooltiptext = Højtalere
 popup-select-window-or-screen =
     .label = Vindue eller skærm:
     .accesskey = V
