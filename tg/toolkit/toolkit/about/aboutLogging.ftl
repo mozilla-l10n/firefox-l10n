@@ -50,7 +50,11 @@ about-logging-logging-preset-selector-text = Сабти рӯйдодҳои пе�
 ## Logging presets
 
 about-logging-preset-networking-label = Шабакасозӣ
+about-logging-preset-networking-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои шабакасозӣ
+about-logging-preset-media-playback-label = Пахши расона
+about-logging-preset-media-playback-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои пахши расона (масъалаҳо ба ғайр аз конфронсҳои видеоӣ)
 about-logging-preset-custom-label = Фармоишӣ
+about-logging-preset-custom-description = Модулҳои сабти рӯйдодҳои интихобшуда ба таври дастӣ
 # Error handling
 about-logging-error = Хато:
 
@@ -58,3 +62,5 @@ about-logging-error = Хато:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Қимати «{ $v }» барои калиди «{ $k }» нодуруст аст
+about-logging-unknown-logging-preset = Танзими пешфарз барои сабти рӯйдодҳои «{ $v }» номаълум аст
