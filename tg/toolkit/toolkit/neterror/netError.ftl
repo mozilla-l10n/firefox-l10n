@@ -53,6 +53,13 @@ neterror-dns-not-found-hint-firewall = Тафтиш кунед, ки брауз�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути ҳалкунандаи боэътимоди DNS муҳофизат карда наметавонад. Сабаб:
+neterror-dns-not-found-trr-only-attackers = Агар шумо идома диҳед, тарафи сеюм метавонад сомонаҳоеро, ки шумо тамошо мекунед, аз назар гузаронад ё метавонад шуморо ба сомонаи беэътимод равона кунад.
+neterror-dns-not-found-trr-only-could-not-connect = «{ -brand-short-name }» ба { $trrDomain } пайваст нашуд.
+neterror-dns-not-found-trr-only-timeout = Пайвастшавӣ ба { $trrDomain } назар ба вақти мунтазир вақти зиёдро гирифт.
+neterror-dns-not-found-trr-offline = Шумо ба Интернет пайваст нестед.
+neterror-dns-not-found-trr-unknown-host = Нишонӣ барои ин сомона аз тарафи { $trrDomain } ёфт нашуд.
+neterror-dns-not-found-trr-server-problem = Мушкилии { $trrDomain } ба миён омад.
 neterror-dns-not-found-trr-unknown-problem = Мушкилии ногаҳон.
 
 ##
