@@ -64,3 +64,8 @@ about-logging-error = Хато:
 
 about-logging-invalid-output = Қимати «{ $v }» барои калиди «{ $k }» нодуруст аст
 about-logging-unknown-logging-preset = Танзими пешфарз барои сабти рӯйдодҳои «{ $v }» номаълум аст
+about-logging-unknown-profiler-preset = Танзими пешфарз барои профилсози «{ $v }» номаълум аст
+about-logging-unknown-option = Имкони about:logging барои «{ $k }» номаълум аст
+about-logging-configuration-url-ignored = Нишонии URL-и танзимот рад карда шуд
+about-logging-file-and-profiler-override = Дар як вақт ба таври маҷбурӣ баровардани сабт ба файл ва аз нав танзим кардани имконоти профилсоз ғайриимкон аст
+about-logging-configured-via-url = Имкон тавассути нишонии URL танзим шуд

@@ -24,6 +24,8 @@ neterror-pref-reset-button = Барқарор кардани танзимоти 
 neterror-return-to-previous-page-button = Бозгашт
 neterror-return-to-previous-page-recommended-button = Бозгашт (тавсия дода мешавад)
 neterror-try-again-button = Аз нав кӯшиш кардан
+neterror-add-exception-button = Барои ин сомна ҳамеша идома дода шавад
+neterror-settings-button = Тағйир додани танзимоти DNS
 neterror-view-certificate-link = Дидани гувоҳинома
 
 ##
