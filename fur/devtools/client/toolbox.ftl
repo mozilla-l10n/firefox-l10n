@@ -40,3 +40,7 @@ toolbox-mode-everything-container =
 toolbox-mode-parent-process-label = Dome procès gjenitôr
 toolbox-mode-parent-process-container =
     .title = Concentriti dome su lis risorsis dai procès gjenitôr.
+toolbox-always-on-top-enabled2 = Disative Simpri denant
+    .title = Chest al tornarà a inviâ i struments di disvilup
+toolbox-always-on-top-disabled2 = Ative Simpri denant
+    .title = Chest al tornarà a inviâ i struments di disvilup
