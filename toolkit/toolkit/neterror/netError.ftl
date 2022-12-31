@@ -24,6 +24,7 @@ neterror-pref-reset-button = Скінуць да прадвызначаных
 neterror-return-to-previous-page-button = Вярнуцца
 neterror-return-to-previous-page-recommended-button = Вярнуцца (рэкамендуецца)
 neterror-try-again-button = Паспрабаваць ізноў
+neterror-add-exception-button = Заўсёды працягваць для гэтага сайта
 neterror-settings-button = Змяніць налады DNS
 neterror-view-certificate-link = Паказаць сертыфікаты
 
