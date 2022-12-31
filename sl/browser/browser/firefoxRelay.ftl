@@ -9,6 +9,7 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 firefox-relay-mask-generation-failed = { -relay-brand-name } ni mogel ustvariti nove maske. Koda napake HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ni mogel najti mask za večkratno uporabo. Koda napake HTTP: { $status }.
 
 ##
 
