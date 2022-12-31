@@ -36,6 +36,12 @@ third-party-unsigned-icon =
     .title = Questo modulo non è firmato.
 third-party-warning-icon =
     .title = { -brand-short-name } si è arrestato in modo anomalo eseguendo codice in questo modulo
+third-party-icon-unsigned =
+    .alt = Questo modulo non è firmato.
+    .title = Questo modulo non è firmato.
+third-party-icon-warning =
+    .alt = { -brand-short-name } si è arrestato in modo anomalo eseguendo codice in questo modulo
+    .title = { -brand-short-name } si è arrestato in modo anomalo eseguendo codice in questo modulo
 
 third-party-status-loaded = Caricato
 third-party-status-blocked = Bloccato
@@ -46,7 +52,27 @@ third-party-button-reload = Ricarica con informazioni di sistema
     .title = Ricarica con informazioni di sistema
 third-party-button-open =
     .title = Apri posizione file……
+
+third-party-button-to-block =
+    .title = Blocca questo modulo
+    .aria-label = Blocca questo modulo
+third-party-button-to-unblock =
+    .title = Attualmente bloccato. Fai clic per sbloccarlo.
+    .aria-label = Attualmente bloccato. Fai clic per sbloccarlo.
+third-party-button-to-unblock-disabled =
+    .title =
+        Attualmente contrassegnato come bloccato, anche se l’elenco di elementi bloccati è disattivato per questa esecuzione di { -brand-short-name }. Fai clic per sbloccarlo.
+    .aria-label =
+        Attualmente contrassegnato come bloccato, anche se l’elenco di elementi bloccati è disattivato per questa esecuzione di { -brand-short-name }. Fai clic per sbloccarlo.
 third-party-button-expand =
     .title = Mostra informazioni dettagliate
 third-party-button-collapse =
     .title = Nascondi informazioni dettagliate
+third-party-requires-restart = È necessario riavviare { -brand-short-name } per modificare quali moduli di terze parti sono bloccati.
+third-party-should-restart-title = Riavvia { -brand-short-name }
+third-party-should-restart-ok = Riavvia { -brand-short-name } adesso
+third-party-restart-later = Riavvia più tardi
+
+third-party-blocked-by-builtin =
+    .title = Bloccato da { -brand-short-name }
+    .alt = Bloccato da { -brand-short-name }
