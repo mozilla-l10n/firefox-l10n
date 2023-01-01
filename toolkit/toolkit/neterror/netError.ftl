@@ -24,6 +24,8 @@ neterror-pref-reset-button = Standardeinstellungen wiederherstellen
 neterror-return-to-previous-page-button = Zurück
 neterror-return-to-previous-page-recommended-button = Zurück (empfohlen)
 neterror-try-again-button = Nochmals versuchen
+neterror-add-exception-button = Immer für diese Website fortfahren
+neterror-settings-button = DNS-Einstellungen ändern
 neterror-view-certificate-link = Zertifikat anzeigen
 
 ##
@@ -45,6 +47,23 @@ neterror-dns-not-found-hint-header = <strong>Wenn Sie die richtige Adresse einge
 neterror-dns-not-found-hint-try-again = Versuchen Sie es später erneut.
 neterror-dns-not-found-hint-check-network = Überprüfen Sie Ihre Netzwerkverbindung.
 neterror-dns-not-found-hint-firewall = Überprüfen Sie, ob { -brand-short-name } die Berechtigung hat, auf das Internet zuzugreifen (Sie sind möglicherweise verbunden, aber hinter einer Firewall).
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } kann Ihre Anfrage für die Adresse dieser Website nicht durch unseren vertrauenswürdigen DNS-Resolver schützen. Der Grund ist:
+neterror-dns-not-found-trr-only-attackers = Wenn Sie fortfahren, kann ein Drittanbieter möglicherweise sehen, welche Websites Sie besuchen, oder Sie zu einer nicht vertrauenswürdigen Website weiterleiten.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } konnte keine Verbindung zu { $trrDomain } herstellen.
+neterror-dns-not-found-trr-only-timeout = Die Verbindung zu { $trrDomain } dauerte länger als erwartet.
+neterror-dns-not-found-trr-offline = Sie sind nicht mit dem Internet verbunden.
+neterror-dns-not-found-trr-unknown-host = Eine Adresse für diese Website wurde nicht von { $trrDomain } gefunden.
+neterror-dns-not-found-trr-server-problem = Es gab ein Problem mit { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Unerwartetes Problem.
+
+##
+
 neterror-file-not-found-filename = Bitte überprüfen Sie die Adresse auf Rechtschreib-, Groß-/Kleinschreibungs- oder andere Fehler.
 neterror-file-not-found-moved = Bitte überprüfen Sie, ob die Adresse umbenannt, gelöscht oder verschoben wurde.
 neterror-access-denied = Sie wurde möglicherweise entfernt, verschoben, oder Dateiberechtigungen könnten den Zugriff verhindern.
