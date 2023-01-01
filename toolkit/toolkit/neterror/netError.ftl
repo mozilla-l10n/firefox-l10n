@@ -53,6 +53,8 @@ neterror-dns-not-found-hint-firewall = Проверить, что { -brand-short
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } не может защитить ваш запрос адреса этого сайта через наш доверенный разрешитель имен DNS. Вот причина:
+neterror-dns-not-found-trr-only-attackers = Если вы продолжите, посторонние лица могут увидеть, какие сайты вы посещаете, или отправить вас на ненадёжный сайт.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не удалось подключиться к { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Подключение к { $trrDomain } заняло больше времени, чем ожидалось.
 neterror-dns-not-found-trr-offline = Вы не подключены к Интернету.
