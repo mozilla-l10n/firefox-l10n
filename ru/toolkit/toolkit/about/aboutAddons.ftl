@@ -392,13 +392,13 @@ recommended-themes-heading = Рекомендуемые темы
 addon-sitepermissions-required = Предоставляет следующие возможности <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = Чувствуете прилив вдохновения? <a data-l10n-name="link">Создайте свою собственную тему с помощью Firefox Color.</a>
+recommended-theme-1 = Чувствуете прилив вдохновения? <a data-l10n-name="link">Создайте свою тему с помощью Firefox Color.</a>
 
 ## Page headings
 
-extension-heading = Управление моими расширениями
-theme-heading = Управление моими темами
-plugin-heading = Управление моими плагинами
+extension-heading = Управление расширениями
+theme-heading = Управление темами
+plugin-heading = Управление плагинами
 dictionary-heading = Управление моими словарями
 locale-heading = Управление моими языками
 updates-heading = Управление моими обновлениями
