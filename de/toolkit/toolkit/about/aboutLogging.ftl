@@ -37,11 +37,33 @@ about-logging-buttons-disabled = Protokollierung über Umgebungsvariablen konfig
 about-logging-some-elements-disabled = Protokollierung über URL konfiguriert, einige Konfigurationsoptionen sind nicht verfügbar
 about-logging-info = Info:
 about-logging-log-modules-selection = Auswahl der zu protokollierenden Module
+about-logging-new-log-modules = Neue zu protokollierende Module:
+about-logging-logging-output-selection = Protokollierungsausgabe
+about-logging-logging-to-file = Protokollieren in eine Datei
+about-logging-logging-to-profiler = Protokollieren in { -profiler-brand-name }
+about-logging-no-log-modules = Keine
+about-logging-no-log-file = Keine
+about-logging-logging-preset-selector-text = Voreinstellung für die Protokollierung:
 
 ## Logging presets
 
+about-logging-preset-networking-label = Netzwerkverbindungen
+about-logging-preset-networking-description = Zu protokollierende Module zur Diagnose von Netzwerkproblemen
+about-logging-preset-media-playback-label = Medienwiedergabe
+about-logging-preset-media-playback-description = Zu protokollierende Module zur Diagnose von Problemen bei der Medienwiedergabe (nicht Probleme bei Videokonferenzen)
+about-logging-preset-custom-label = Benutzerdefiniert
+about-logging-preset-custom-description = Zu protokollierende Module manuell ausgewählt
+# Error handling
+about-logging-error = Fehler:
 
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Ungültiger Wert "{ $v }" für Schlüssel "{ $k }"
+about-logging-unknown-logging-preset = Unbekannte Protokollierungs-Voreinstellung "{ $v }"
+about-logging-unknown-profiler-preset = Unbekannte Profiler-Voreinstellung "{ $v }"
+about-logging-unknown-option = Unbekannte about:logging-Option "{ $k }"
+about-logging-configuration-url-ignored = Konfigurations-URL ignoriert
+about-logging-file-and-profiler-override = Kann nicht gleichzeitig Dateiausgabe erzwingen und Profileroptionen überschreiben
+about-logging-configured-via-url = Per URL konfigurierte Option
