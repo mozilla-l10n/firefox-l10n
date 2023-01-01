@@ -37,6 +37,15 @@ neterror-load-error-try-again = Ova je stranica privremeno nedostupna ili prezau
 neterror-load-error-connection = Ako ne možeš učitati niti jednu stranicu, provjeri mrežne postavke tvog računala.
 neterror-load-error-firewall = Ako je tvoje računalo ili mreža zaštićena vatrozidom ili proxyem, provjeri ima li { -brand-short-name } dozvolu za pristup internetu.
 neterror-captive-portal = Za upotrebu interneta, moraš se najprije prijaviti na ovu mreži.
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+##
+
 neterror-file-not-found-filename = Provjeri naziv datoteke, te postoji li pravopisna ili tipografska greška.
 neterror-file-not-found-moved = Provjeri, je li datoteka premještena, preimenovana ili izbrisana.
 neterror-access-denied = Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.
@@ -76,7 +85,7 @@ neterror-corrupted-content-contact-website = Kontaktiraj vlasnike web-stranice i
 neterror-sslv3-used = Napredna informacija: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-inadequate-security-intro = <b>{ $hostname }</b> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti poslužitelj prije nego možete posjetiti stranicu.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje smatraš da su sigurne. Administrator web stranice će morati popraviti poslužitelj prije nego možeš posjetiti stranicu.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
