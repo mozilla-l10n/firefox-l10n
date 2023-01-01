@@ -815,6 +815,7 @@ unified-extensions-button-permissions-needed =
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } ປ້ອງກັນບໍ່ໃຫ້ໜ້ານີ້ໂຫຼດໃໝ່ໂດຍອັດຕະໂນມັດ.
 refresh-blocked-allow =
     .label = ອະນຸຍາດ
     .accesskey = A

@@ -162,6 +162,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການກວດສອບຂໍ້ບົກຜ່ອງທາງສຽງ ແລະວິດີໂອໃນ { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = ສື່
+profiler-popup-presets-networking-description = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການສືບສວນຂໍ້ບົກພ່ອງເຄືອຂ່າຍໃນ { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = ເຄືອຂ່າຍ
 # "Power" is used in the sense of energy (electricity used by the computer).
