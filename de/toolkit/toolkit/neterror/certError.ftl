@@ -75,6 +75,9 @@ deniedPortAccess-title = Fehler: Port aus Sicherheitsgründen blockiert
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Seite wurde nicht gefunden
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title = Mögliches Sicherheitsrisiko für { $hostname }.
 fileNotFound-title = Fehler: Datei nicht gefunden
 fileAccessDenied-title = Zugriff auf die Datei wurde verweigert
 generic-title = Fehler: Anfrage konnte nicht ausgeführt werden
