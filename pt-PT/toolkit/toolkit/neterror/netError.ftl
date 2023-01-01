@@ -52,7 +52,9 @@ neterror-dns-not-found-hint-firewall = Verificar se { -brand-short-name } tem pe
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } não conseguiu conectar-se a { $trrDomain }.
 neterror-dns-not-found-trr-offline = Não se encontra ligado à Internet.
+neterror-dns-not-found-trr-server-problem = Houve um problema com { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 
 ##
