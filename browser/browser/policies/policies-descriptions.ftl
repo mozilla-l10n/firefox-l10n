@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Forða notanda frá tilteknum öryggisviðvörunu
 policy-DisableSetAsDesktopBackground = Slökkva á valmyndarskipuninni "Velja forsíðubakgrunn" fyrir myndir.
 policy-DisableSystemAddonUpdate = Forða því að vafrinn setji upp og uppfæri kerfisviðbætur.
 policy-DisableTelemetry = Slökkva á gagnasöfnun til að bæta Firefox (telemetry)
+policy-DisableThirdPartyModuleBlocking = Koma í veg fyrir að notandinn loki á einingar frá utanaðkomandi aðilum sem dælt er inn í { -brand-short-name }-ferlið.
 policy-DisplayBookmarksToolbar = Sýna bókamerkjastikuna sjálfgefið.
 policy-DisplayMenuBar = Birta valmyndarstikuna sjálfgefið.
 policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
