@@ -44,7 +44,29 @@ third-party-button-reload = Genindlæs med systeminfo
     .title = Genindlæs med systeminformation
 third-party-button-open =
     .title = Åbn filplacering…
+third-party-button-to-block =
+    .title = Bloker dette modul
+    .aria-label = Bloker dette modul
+third-party-button-to-unblock =
+    .title = Blokeret i øjeblikket. Klik for at fjerne blokering.
+    .aria-label =
+        Blokeret i øjeblikket. Klik for at fjerne blokering.
+        Blokeret i øjeblikket. Klik for at fjerne blokering.
+third-party-button-to-unblock-disabled =
+    .title =
+        I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for 
+        denne kørsel af { -brand-short-name }. Klik for at fjerne blokering.
+    .aria-label =
+        I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for 
+        denne kørsel af { -brand-short-name }. Klik for at fjerne blokering.
 third-party-button-expand =
     .title = Vis detaljeret information
 third-party-button-collapse =
     .title = Skjul detaljeret information
+third-party-requires-restart = { -brand-short-name } skal genstartes for at ændre, hvilke tredjeparts-moduler der er blokerede.
+third-party-should-restart-title = Genstart { -brand-short-name }
+third-party-should-restart-ok = Genstart { -brand-short-name } nu
+third-party-restart-later = Genstart senere
+third-party-blocked-by-builtin =
+    .title = Blokeret af { -brand-short-name }
+    .alt = Blokeret af { -brand-short-name }
