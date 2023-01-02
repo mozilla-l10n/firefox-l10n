@@ -33,3 +33,5 @@ more-from-moz-learn-more-link = 详细了解
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = 使用免费的马甲邮箱保护您的身份信息。
+more-from-moz-firefox-relay-button = 获取 { -relay-brand-short-name }

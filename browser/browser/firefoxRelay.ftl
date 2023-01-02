@@ -9,6 +9,7 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 firefox-relay-mask-generation-failed = { -relay-brand-name } 无法生成新马甲。 HTTP 错误代码：{ $status }。
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } 无法找到可重复使用的马甲。HTTP 错误代码：{ $status }。
 
 ##
 
