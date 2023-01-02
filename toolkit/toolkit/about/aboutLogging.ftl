@@ -24,6 +24,7 @@ about-logging-title = 关于日志记录
 about-logging-page-title = 日志管理器
 about-logging-current-log-file = 当前日志文件：
 about-logging-current-log-modules = 当前日志模块：
+about-logging-new-log-file = 新日志文件：
 about-logging-currently-enabled-log-modules = 当前已启用日志模块：
 about-logging-log-tutorial = 参见 <a data-l10n-name="logging">HTTP 日志</a> 了解如何使用此工具。
 # This message is used as a button label, "Open" indicates an action.
@@ -33,6 +34,7 @@ about-logging-set-log-modules = 设置日志模块
 about-logging-start-logging = 开始记录日志
 about-logging-stop-logging = 停止记录日志
 about-logging-info = 信息：
+about-logging-new-log-modules = 新日志模块：
 about-logging-no-log-modules = 无
 about-logging-no-log-file = 无
 

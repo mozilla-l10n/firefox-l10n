@@ -52,6 +52,10 @@ neterror-dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有联
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-offline = 您未连接到互联网。
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } 找不到此网站的地址。
+neterror-dns-not-found-trr-server-problem = { $trrDomain } 遇到问题。
+neterror-dns-not-found-trr-unknown-problem = 遇到突发问题。
 
 ##
 
