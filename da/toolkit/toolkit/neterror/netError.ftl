@@ -53,6 +53,8 @@ neterror-dns-not-found-hint-firewall = Kontroller, om { -brand-short-name } har 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-attackers = Hvis du fortsætter, kan en tredjepart muligvis se, hvilke websteder du besøger, eller sende dig til et ikke-betroet websted.
+neterror-dns-not-found-trr-offline = Du er ikke forbundet til internettet.
 
 ##
 
