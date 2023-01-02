@@ -9,14 +9,11 @@ fxa-qrcode-heading-step1 = 1. Якщо ви ще цього не зробили,
 fxa-qrcode-heading-step2 = 2. Відкрийте Firefox на своєму мобільному пристрої.
 fxa-qrcode-heading-step3 = 3. Відкрийте <b>меню</b> (<img data-l10n-name="ios-menu-icon"/> або <img data-l10n-name="android-menu-icon"/>), оберіть <img data-l10n-name="settings-icon"/> <b>Налаштування</b> та виберіть <b>Увімкнути синхронізацію</b>
 fxa-qrcode-heading-step4 = 4. Скануйте цей код:
-fxa-pair-device-dialog-sync =
-    .style = width: 32em;
 fxa-pair-device-dialog-sync2 =
     .style = min-width: 32em;
 fxa-qrcode-pair-title = Синхронізуйте { -brand-product-name } на своєму телефоні чи планшеті
 fxa-qrcode-pair-step1 = 1. Відкрийте { -brand-product-name } на своєму мобільному пристрої.
-fxa-qrcode-pair-step2 = 2. Відкрийте <strong>меню</strong> (<img data-l10n-name="ios-menu-icon"/> на iOS або <img data-l10n-name="android-menu-icon"/> Android) і торкніться <strong>Увійти до синхронізації</strong>
 fxa-qrcode-pair-step2-signin = 2. Перейдіть до меню (<img data-l10n-name="ios-menu-icon"/> на iOS або <img data-l10n-name="android-menu-icon"/> на Android) й оберіть <strong>Синхронізувати та зберегти дані</strong>
-fxa-qrcode-pair-step3 = 3. Торкніться <strong> Готовий до сканування </strong> та утримуйте телефон навпроти цього коду
+fxa-qrcode-pair-step3 = 3. Торкніться <strong>Готові сканувати</strong> й наведіть камеру на цей код
 fxa-qrcode-error-title = Сполучення пройшло невдало.
 fxa-qrcode-error-body = Спробувати знову.
