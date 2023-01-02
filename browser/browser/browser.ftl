@@ -950,6 +950,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Utvidingar
+    .tooltiptext =
+        Utvidingar
+        Treng løyve
 
 ## Autorefresh blocker
 
@@ -958,3 +963,6 @@ refresh-blocked-redirect-label = { -brand-short-name } hindra denne netsida frå
 refresh-blocked-allow =
     .label = Tillat
     .accesskey = T
+
+## Firefox Relay integration
+
