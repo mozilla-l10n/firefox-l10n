@@ -11,6 +11,11 @@
 
 ##
 
+firefox-relay-opt-in-subtitle = Legg til { -relay-brand-name }
+firefox-relay-generate-mask-title = Vern e-postadressa di
 firefox-relay-opt-in-confirmation-enable =
     .label = Hald fram
     .accesskey = H
+firefox-relay-opt-in-confirmation-postpone =
+    .label = Ikkje no
+    .accesskey = k
