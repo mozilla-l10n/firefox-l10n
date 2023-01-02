@@ -207,6 +207,7 @@ firefoxview-cfr-secondarybutton = Ikkje no
     .accesskey = n
 firefoxview-cfr-header = Få tilbake nyleg attlatne faner med { -firefoxview-brand-name }
 firefoxview-cfr-body = Saumlaust byte mellom einingar. Legg óg til ein fargeklatt i nettlesaren din.
+firefoxview-cfr-header-v2 = Hald fram raskt der du slutta
 
 ## Firefox View Spotlight
 
