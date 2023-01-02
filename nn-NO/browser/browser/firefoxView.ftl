@@ -57,6 +57,7 @@ firefoxview-mobile-confirmation-description = No kan du hente { -brand-product-n
 firefoxview-closed-tabs-title = Nyleg attlatne
 firefoxview-closed-tabs-description2 = Opne på nytt sider du har late att i dette vindauget.
 firefoxview-closed-tabs-placeholder-header = Ingen nyleg attlatne faner
+firefoxview-closed-tabs-placeholder-body = Når du lèt att ei fane i dette vindauget, kan du hente henne herifrå.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -75,6 +76,7 @@ firefoxview-change-colorway-button = Endre fargesamansetjing
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Ingenting å sjå enno
+firefoxview-synced-tabs-placeholder-body = Neste gong du opnar ei side i { -brand-product-name } på ei anna eining, kan du hente henne her.
 firefoxview-collapse-button-show =
     .title = Vis liste
 firefoxview-collapse-button-hide =
