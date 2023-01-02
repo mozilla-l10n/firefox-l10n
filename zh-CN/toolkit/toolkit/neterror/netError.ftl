@@ -24,6 +24,7 @@ neterror-pref-reset-button = 恢复默认设置
 neterror-return-to-previous-page-button = 后退
 neterror-return-to-previous-page-recommended-button = 返回上一页（推荐）
 neterror-try-again-button = 重试
+neterror-add-exception-button = 总是继续打开此网站
 neterror-settings-button = 更改 DNS 设置
 neterror-view-certificate-link = 查看证书
 
@@ -52,10 +53,12 @@ neterror-dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有联
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } 无法连接到 { $trrDomain }。
+neterror-dns-not-found-trr-only-timeout = 连接到 { $trrDomain } 的时间超过预期。
 neterror-dns-not-found-trr-offline = 您未连接到互联网。
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } 找不到此网站的地址。
-neterror-dns-not-found-trr-server-problem = { $trrDomain } 遇到问题。
-neterror-dns-not-found-trr-unknown-problem = 遇到突发问题。
+neterror-dns-not-found-trr-server-problem = { $trrDomain } 出现问题。
+neterror-dns-not-found-trr-unknown-problem = 未知问题。
 
 ##
 
