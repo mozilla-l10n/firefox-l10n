@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Uporabniku prepreči, da zaobide določena varnos
 policy-DisableSetAsDesktopBackground = Onemogoči menijski ukaz Nastavi kot ozadje namizja za slike.
 policy-DisableSystemAddonUpdate = Prepreči brskalniku nameščanje in posodabljanje sistemskih dodatkov.
 policy-DisableTelemetry = Izključi telemetrijo.
+policy-DisableThirdPartyModuleBlocking = Uporabniku prepreči blokado modulov tretjih ponudnikov, ki se vstavljajo v proces { -brand-short-name(sklon: "rodilnik") }.
 policy-DisplayBookmarksToolbar = Privzeto prikaži orodno vrstico zaznamkov.
 policy-DisplayMenuBar = Privzeto prikaži vrstico z menijem.
 policy-DNSOverHTTPS = Nastavi DNS preko HTTPS.
