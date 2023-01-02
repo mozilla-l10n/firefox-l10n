@@ -398,7 +398,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Почати перегля
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Почувайтеся як вдома
-onboarding-infrequent-import-subtitle = Пам’ятайте, що ви можете імпортувати свої закладки, паролі та інші дані, незалежно від того, увійшли ви до синхронізації чи ні.
+onboarding-infrequent-import-subtitle = Пам'ятайте, що ви можете імпортувати свої закладки, паролі та інші дані, незалежно від того, увійшли ви до синхронізації чи ні.
 onboarding-infrequent-import-primary-button = Імпорт до { -brand-short-name }
 
 ## MR2022 Illustration alt tags
