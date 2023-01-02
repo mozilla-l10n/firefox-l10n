@@ -34,6 +34,7 @@ about-logging-set-log-modules = 设置日志模块
 about-logging-start-logging = 开始记录日志
 about-logging-stop-logging = 停止记录日志
 about-logging-info = 信息：
+about-logging-log-modules-selection = 选择日志模块
 about-logging-new-log-modules = 新日志模块：
 about-logging-no-log-modules = 无
 about-logging-no-log-file = 无
@@ -43,6 +44,7 @@ about-logging-no-log-file = 无
 about-logging-preset-networking-label = 网络
 about-logging-preset-media-playback-label = 媒体播放
 about-logging-preset-custom-label = 自定义
+about-logging-preset-custom-description = 手动选择的日志模块
 # Error handling
 about-logging-error = 错误：
 
@@ -50,3 +52,6 @@ about-logging-error = 错误：
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = 键“{ $v }”的值“{ $k }”无效
+about-logging-configuration-url-ignored = 已忽略配置 URL
+about-logging-configured-via-url = 通过 URL 配置的选项
