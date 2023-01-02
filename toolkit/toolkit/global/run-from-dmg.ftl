@@ -9,7 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Završiti instalaciju programa { -brand-short-name }?
-prompt-to-install-message = Završi ovu instalaciju u jednom koraku i zadrži { -brand-short-name } ažurnim i spriječi gubitak podataka. { -brand-short-name } bit će dodan u tvoju mapu Aplikacije i Dock.
+prompt-to-install-message = Završi ovu instalaciju u jednom koraku i zadrži { -brand-short-name } aktualnim i spriječi gubitak podataka. { -brand-short-name } bit će dodan u tvoju mapu Aplikacije i Dock.
 prompt-to-install-yes-button = Instaliraj
 prompt-to-install-no-button = Nemoj instalirati
 
