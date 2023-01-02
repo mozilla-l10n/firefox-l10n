@@ -33,4 +33,5 @@ more-from-moz-learn-more-link = Læs mere
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-description = Beskyt din indbakke og din identitet med gratis mail-maskering.
 more-from-moz-firefox-relay-button = Få { -relay-brand-short-name }
