@@ -53,6 +53,13 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = 현재 차단되었습니다. 차단을 해제하려면 누르세요.
     .aria-label = 현재 차단되었습니다. 차단을 해제하려면 누르세요.
+third-party-button-to-unblock-disabled =
+    .title =
+        이 { -brand-short-name } 실행에 대해 차단 목록이 비활성화되어 있지만 
+        현재 차단된 것으로 표시되어 있습니다. 차단을 해제하려면 누르세요.
+    .aria-label =
+        이 { -brand-short-name } 실행에 대해 차단 목록이 비활성화되어 있지만 
+        현재 차단된 것으로 표시되어 있습니다. 차단을 해제하려면 누르세요.
 third-party-button-expand =
     .title = 자세한 정보 표시
 third-party-button-collapse =
