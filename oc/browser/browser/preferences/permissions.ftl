@@ -5,81 +5,65 @@
 permissions-window =
     .title = Excepcions
     .style = width: 45em
-
 permissions-window2 =
     .title = Excepcions
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreça del site web
     .accesskey = d
-
 permissions-block =
     .label = Blocar
     .accesskey = B
-
+permissions-disable-etp =
+    .label = Apondre una excepcion
+    .accesskey = A
 permissions-session =
     .label = Autorizar pendent la session
     .accesskey = s
-
 permissions-allow =
     .label = Autorizar
     .accesskey = A
-
 permissions-button-off =
     .label = Activar
     .accesskey = A
-
 permissions-button-off-temporarily =
     .label = Desactivar temporàriament
     .accesskey = D
-
 permissions-site-name =
     .label = Site web
-
 permissions-status =
     .label = Estat
-
 permissions-remove =
     .label = Suprimir lo site web
     .accesskey = S
-
 permissions-remove-all =
     .label = Suprimir totes los sites web
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Enregistrar las modificacions
     .buttonaccesskeyaccept = E
-
 permissions-autoplay-menu = Per defaut per tose los sites web :
-
 permissions-searchbox =
     .placeholder = Recercar un site web
-
 permissions-capabilities-autoplay-allow =
     .label = Autorizar l’àudio e la vidèo
 permissions-capabilities-autoplay-block =
     .label = Blocar l’àudio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l’àudio e la vidèo
-
 permissions-capabilities-allow =
     .label = Autorizar
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Totjorn demandar
-
 permissions-capabilities-listitem-allow =
     .value = Autorizar
 permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Autorizar pendent la session
-
 permissions-capabilities-listitem-off =
     .value = Desactivat
 permissions-capabilities-listitem-off-temporarily =
@@ -95,7 +79,6 @@ permissions-invalid-uri-label = Picatz un nom d'òste valid
 permissions-exceptions-etp-window =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window2.style }
@@ -106,7 +89,6 @@ permissions-exceptions-etp-desc = Avètz desactivat las proteccions per aquestes
 permissions-exceptions-cookie-window =
     .title = Excepcions - Cookies e donadas de sites
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Excepcions - Cookies e donadas de sites
     .style = { permissions-window2.style }
@@ -117,7 +99,6 @@ permissions-exceptions-cookie-desc = Podètz especificar quines sites pòdon tot
 permissions-exceptions-https-only-window =
     .title = Excepcions - Mòde HTTPS solament
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Excepcions - Mòde HTTPS solament
     .style = { permissions-window2.style }
@@ -128,7 +109,6 @@ permissions-exceptions-https-only-desc = Podètz desactivar lo mòde HTTPS solam
 permissions-exceptions-popup-window =
     .title = Sites web autorizats - Fenèstras sorgissentas
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Sites web autorizats - Fenèstras sorgissentas
     .style = { permissions-window2.style }
@@ -139,7 +119,6 @@ permissions-exceptions-popup-desc = Podètz indicar los sites web qu'autorizatz 
 permissions-exceptions-saved-logins-window =
     .title = Excepcions - Senhals salvats
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Excepcions - Senhals salvats
     .style = { permissions-window2.style }
@@ -150,7 +129,6 @@ permissions-exceptions-saved-logins-desc = Los senhals pels sites web seguents s
 permissions-exceptions-addons-window =
     .title = Sites web autorizats - Moduls complementaris
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Sites web autorizats - Moduls complementaris
     .style = { permissions-window2.style }
@@ -161,7 +139,6 @@ permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz
 permissions-site-autoplay-window =
     .title = Paramètres - Lectura automatica
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Paramètres - Lectura automatica
     .style = { permissions-window2.style }
@@ -172,7 +149,6 @@ permissions-site-autoplay-desc = Podètz gerir aquí los sites que seguisson pas
 permissions-site-notification-window =
     .title = Paramètres - Permissions de notificacion
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Paramètres - Permissions de notificacion
     .style = { permissions-window2.style }
@@ -186,7 +162,6 @@ permissions-site-notification-disable-desc = Aquò empacha quin site que siá pa
 permissions-site-location-window =
     .title = Paramètres - Permission de localizacion
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Paramètres - Permission de localizacion
     .style = { permissions-window2.style }
@@ -200,7 +175,6 @@ permissions-site-location-disable-desc = Aquò empacha quin site que siá pas li
 permissions-site-xr-window =
     .title = Paramètres - Permission de realitat virtuala
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = Paramètres - Permission de realitat virtuala
     .style = { permissions-window2.style }
@@ -214,7 +188,6 @@ permissions-site-xr-disable-desc = Aquò empacha quin site que siá pas listat d
 permissions-site-camera-window =
     .title = Paramètres - Permission per la camèra
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Paramètres - Permission per la camèra
     .style = { permissions-window2.style }
@@ -228,7 +201,6 @@ permissions-site-camera-disable-desc = Aquò empacha quin site que siá pas list
 permissions-site-microphone-window =
     .title = Paramètres - Permission pel microfòn
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Paramètres - Permission pel microfòn
     .style = { permissions-window2.style }
