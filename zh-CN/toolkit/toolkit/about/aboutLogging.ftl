@@ -42,7 +42,9 @@ about-logging-no-log-file = 无
 ## Logging presets
 
 about-logging-preset-networking-label = 网络
+about-logging-preset-networking-description = 用于诊断网络问题的日志模块
 about-logging-preset-media-playback-label = 媒体播放
+about-logging-preset-media-playback-description = 用于诊断媒体播放（非视频会议）问题的日志模块
 about-logging-preset-custom-label = 自定义
 about-logging-preset-custom-description = 手动选择的日志模块
 # Error handling
