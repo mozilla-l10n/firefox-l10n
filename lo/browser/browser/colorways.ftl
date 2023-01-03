@@ -13,6 +13,7 @@ colorway-collection-independent-voices-short-description = ສີທີ່ປ່
 ## Colorway names and descriptions
 
 playmaker-colorway-name = ຜູ້ຫຼິ້ນ
+playmaker-colorway-description = ທ່ານສ້າງໂອກາດທີ່ຈະຊະນະແລະຊ່ວຍທຸກຄົນທີ່ຢູ່ອ້ອມຂ້າງທ່ານຍົກລະດັບເກມຂອງເຂົາເຈົ້າ.
 expressionist-colorway-name = ນັກສະແດງ
 expressionist-colorway-description = ເຈົ້າເຫັນໂລກແຕກຕ່າງກັນ ແລະການສ້າງຂອງເຈົ້າກະຕຸ້ນອາລົມຂອງຄົນອື່ນ.
 visionary-colorway-name = ຜູ້ມີວິໄສທັດ

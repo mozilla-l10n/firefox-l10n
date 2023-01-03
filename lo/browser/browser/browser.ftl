@@ -722,6 +722,9 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = ອະນຸຍາດໃຫ້ປັອບອັບສຳລັບ { $uriHost }
     .accesskey = p
+popups-infobar-block =
+    .label = ບລັອກປັອບອັບສຳລັບ { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -816,6 +819,7 @@ unified-extensions-button-permissions-needed =
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ປ້ອງກັນບໍ່ໃຫ້ໜ້ານີ້ໂຫຼດໃໝ່ໂດຍອັດຕະໂນມັດ.
+refresh-blocked-redirect-label = { -brand-short-name } ໄດ້ປ້ອງກັນໜ້ານີ້ຈາກການປ່ຽນເສັ້ນທາງໄປຫາໜ້າອື່ນໂດຍອັດຕະໂນມັດ.
 refresh-blocked-allow =
     .label = ອະນຸຍາດ
     .accesskey = A
@@ -823,3 +827,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } ປິດບັງທີ່ຢູ່ອີເມວທີ່ແທ້ຈິງຂອງທ່ານເພື່ອຊ່ວຍປົກປ້ອງທ່ານຈາກການລະເມີດຂໍ້ມູນ ແລະສະແປມ.
+firefox-relay-offer-how-we-integrate = ໂດຍການດຳເນີນການຕໍ່, ທ່ານຈະສາມາດສ້າງໜ້າກາກອີເມວ { -relay-brand-short-name } ໃໝ່ໄດ້ໂດຍກົງຈາກຕົວຈັດການລະຫັດຜ່ານ { -brand-shorter-name } ຂອງທ່ານ.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = ພວກເຮົາຈະສົ່ງຕໍ່ອີເມວທັງໝົດຈາກ <strong>{ $sitename }</strong> ໄປໃຫ້ <strong>{ $useremail }</strong>.
