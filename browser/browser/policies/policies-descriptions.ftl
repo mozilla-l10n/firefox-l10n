@@ -110,7 +110,7 @@ policy-RequestedLocales = Stilla lista yfir tungumál sem óskað er eftir af fo
 policy-SanitizeOnShutdown2 = Hreinsa ferilsgögn við lokun.
 policy-SearchBar = Stilla sjálfgefna staðsetningu leitarstiku. Notanda er enn leyft að sérsníða hana.
 policy-SearchEngines = Stilla leitarvélar. Þessi stefna er aðeins í boði í útgáfu ESR (Extended Support Release).
-policy-SearchSuggestEnabled = Virkja eða slökkva á leitarábendingar.
+policy-SearchSuggestEnabled = Virkja eða slökkva á leitartillögum.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
 policy-ShowHomeButton = Sýna upphafshnappinn á verkfæraslánni.
