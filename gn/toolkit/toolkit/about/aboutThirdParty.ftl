@@ -4,15 +4,12 @@
 
 third-party-page-title = Marandu mbohapyha ra’ãha rehegua
 third-party-section-title = Tysýi mbohapyha ra’ãha { -brand-short-name }-pe
-
 third-party-intro =
     Ko kuatiarogue ohechauka umi ta’ãha mbohapyháva oñemboguejýva nde
     { -brand-short-name }-pe. Oimeraẽva ta’ãha omboheraguapy’ỹva Microsoft térã
     { -vendor-short-name } oje’e ha’eha ta’ãha mbohapyháva.
-
 third-party-message-empty = Ndojejuhúi mbohapyháva ra’ãha.
 third-party-message-no-duration = Oñemboheraguapy’ỹva
-
 third-party-detail-version = Peteĩchagua marandurenda
 third-party-detail-vendor = Me’ẽhára marandu
 third-party-detail-occurrences = Mba’eaporei
@@ -21,11 +18,9 @@ third-party-detail-duration = Ára mbotyha mbytegua (ms)
     .title = Mboy ára ko ta’ãha ojoko tembipuru’i
 third-party-detail-app = Tembipuru’i
 third-party-detail-publisher = Mbosako’ihára
-
 third-party-th-process = Tapereko
 third-party-th-duration = Ñemyanyhẽ arekue (ms)
 third-party-th-status = Tekotee
-
 third-party-tag-ime = IME
     .title = Koichagua ta’ãha henyhẽ oipurúvo IME mbohapyháva.
 third-party-tag-shellex = Mba’e’okarupa jepysokue
@@ -38,11 +33,12 @@ third-party-unsigned-icon =
     .title = Ko ha’ãha noñemboheraguapýi
 third-party-warning-icon =
     .title = { -brand-short-name } ojavy pe ayvu ko ta’ãha pegua
-
+third-party-icon-unsigned =
+    .title = Ko ha’ãha noñemboheraguapýi
+    .alt = Ko ha’ãha noñemboheraguapýi
 third-party-status-loaded = Henyhẽva
 third-party-status-blocked = Jokopyre
 third-party-status-redirected = Ñembohapejey
-
 third-party-button-copy-to-clipboard = Embohasa mba’ekuaarã kuatiajokohápe
 third-party-button-reload = Emyanyhẽjey apopyvusu marandu ndive
     .title = Emyanyhẽjey apopyvusu marandu ndive
@@ -52,3 +48,9 @@ third-party-button-expand =
     .title = Ehechaukapaite marandu
 third-party-button-collapse =
     .title = Emomichĩmbaite marandu
+third-party-should-restart-title = Emoñepyrũjey { -brand-short-name }
+third-party-should-restart-ok = Emoñepyrũjey { -brand-short-name } ko’ág̃a
+third-party-restart-later = Emoñepyrũjey ag̃ave
+third-party-blocked-by-builtin =
+    .title = Ojokopyre { -brand-short-name }
+    .alt = Ojokopyre { -brand-short-name }
