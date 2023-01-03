@@ -378,8 +378,8 @@ mr2022-upgrade-onboarding-pin-private-window-header = Fáðu persónulegt frelsi
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Engar vistaðar vefkökur eða ferilskráning, beint af skjáborðinu þínu. Vafraðu eins og enginn sé að horfa.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
-        [macos] Haltu { -brand-short-name } einkavafra í dokkunni
-       *[other] Festu { -brand-short-name } einkavafra við verkefnastikuna
+        [macos] Haltu { -brand-short-name } huliðsvafri í dokkunni
+       *[other] Festu { -brand-short-name } huliðsvafri við verkefnastikuna
     }
 
 ## MR2022 Privacy Segmentation screen strings
@@ -415,7 +415,7 @@ mr2022-onboarding-import-image-alt =
 mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Froskar hoppa yfir liljublöð með QR kóða í miðjunni til að sækja { -brand-product-name } fyrir farsíma
 mr2022-onboarding-pin-private-image-alt =
-    .aria-label = Töfrasproti lætur merki { -brand-product-name } einkavafurs birtast upp úr hatti
+    .aria-label = Töfrasproti lætur merki { -brand-product-name } huliðsvafurs birtast upp úr hatti
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Ljósar og dökkar hendur gefa fimmu
 mr2022-onboarding-gratitude-image-alt =
