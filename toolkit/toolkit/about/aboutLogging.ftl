@@ -36,6 +36,8 @@ about-logging-info = Πληροφορίες:
 about-logging-log-modules-selection = Επιλογή μονάδας καταγραφής
 about-logging-new-log-modules = Νέες μονάδες καταγραφής:
 about-logging-logging-output-selection = Έξοδος καταγραφής
+about-logging-no-log-modules = Καμία
+about-logging-no-log-file = Κανένα
 
 ## Logging presets
 

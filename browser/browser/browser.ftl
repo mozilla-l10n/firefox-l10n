@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Συμβουλή:
 urlbar-result-menu-button =
     .title = Άνοιγμα μενού
+urlbar-result-menu-remove-from-history =
+    .label = Αφαίρεση από το ιστορικό
+    .accesskey = Α
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
