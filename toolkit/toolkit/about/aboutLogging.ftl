@@ -60,6 +60,7 @@ about-logging-error = შეცდომა:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = არასწორი მნიშვნელობა „{ $v }“ მონაცემისთვის „{ $k }“
 about-logging-unknown-logging-preset = აღრიცხვის დაუდგენელი მზა პარამეტრები „{ $v }“
 about-logging-unknown-profiler-preset = Profiler-ის დაუდგენელი მზა პარამეტრები „{ $v }“
 about-logging-unknown-option = დაუდგენელი about:logging-პარამეტრი „{ $k }“
