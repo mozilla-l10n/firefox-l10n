@@ -167,7 +167,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = Рэкамендаваны прадусталяваны варыянт для адладкі большасці вэб-прыкладанняў, з невялікімі выдаткамі.
+profiler-popup-presets-web-developer-description = Рэкамендаваныя папярэднія налады для адладкі большасці вэб-праграм, з невялікімі выдаткамі.
 profiler-popup-presets-web-developer-label =
     .label = Вэб-распрацоўка
 profiler-popup-presets-firefox-description = Рэкамендаваныя налады для прафілявання { -brand-shorter-name }.
