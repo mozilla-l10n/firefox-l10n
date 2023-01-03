@@ -2,13 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-ping-data-source = პინგის მონაცემების წყარო:
+about-telemetry-ping-data-source = კრებულის მონაცემთა წყარო:
 about-telemetry-show-current-data = მიმდინარე მონაცემები
-about-telemetry-show-archived-ping-data = პინგის დაარქივებული მონაცემები
+about-telemetry-show-archived-ping-data = კრებულის მონაცემთა დაარქივება
 about-telemetry-show-subsession-data = ქვესეანსის მონაცემების ჩვენება
-about-telemetry-choose-ping = პინგის არჩევა:
-about-telemetry-archive-ping-type = კავშირის დამოწმების სახეობა
-about-telemetry-archive-ping-header = პინგი
+about-telemetry-choose-ping = კრებულის არჩევა:
+about-telemetry-archive-ping-type = კრებულის სახეობა
+about-telemetry-archive-ping-header = კრებული
 about-telemetry-option-group-today = დღეს
 about-telemetry-option-group-yesterday = გუშინ
 about-telemetry-option-group-older = უფრო ძველი
