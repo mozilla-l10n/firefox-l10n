@@ -973,3 +973,7 @@ refresh-blocked-allow =
 
 firefox-relay-offer-why-relay = { -relay-brand-name } ნიღბავს თქვენს ნამდვილ ელფოსტას, რომ დაგიცვათ მონაცემთა მიტაცების შემთხვევებისა და უსარგებლო წერილებისგან.
 firefox-relay-offer-how-we-integrate = თუ განაგრძობთ, ახალი { -relay-brand-short-name }-ნიღბების დამზადება ელფოსტისთვის პირდაპირ შეგეძლებათ თქვენი { -brand-shorter-name }-ის პაროლების მმართველიდან.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = ყველა წერილი, რომელსაც მიიღებს <strong>{ $sitename }</strong> გადამისამართდება ელფოსტაზე <strong>{ $useremail }</strong>.

@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = ამ საიტის დ
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = შედეგად ამოიშლება ყველა მონაცემი, რომელთაც იყენებდა { $hostOrBaseDomain }, მათ შორის ისტორია, პაროლები, ფუნთუშები, მომარაგებული ფაილები და შიგთავსის პარამეტრები. ნამდვილად გსურთ, განაგრძოთ?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = შედეგად ამოიშლება ყველა მონაცემი, რომელთაც იყენებდა { $hostOrBaseDomain }, მათ შორის ისტორია, პაროლები, ფუნთუშები, მომარაგებული ფაილები და შიგთავსის პარამეტრები. მასთან დაკავშირებული სანიშნები და პაროლები შენარჩუნდება. ნამდვილად გსურთ, განაგრძოთ?
 places-forget-about-this-site-forget = დავიწყება
 places-library =
     .title = ბიბლიოთეკა
