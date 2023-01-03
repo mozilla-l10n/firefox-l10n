@@ -71,8 +71,8 @@ permissions-capabilities-listitem-off-temporarily =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Введено неправильне мережеве ім’я сервера
-permissions-invalid-uri-label = Введіть правильне мережеве ім’я сервера
+permissions-invalid-uri-title = Введено неправильне мережеве ім'я сервера
+permissions-invalid-uri-label = Введіть правильне мережеве ім'я сервера
 
 ## Exceptions - Tracking Protection
 
@@ -103,7 +103,7 @@ permissions-exceptions-https-only-window =
 permissions-exceptions-https-only-window2 =
     .title = Винятки — HTTPS-режим
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Ви можете вимкнути HTTPS-режим для певних вебсайтів. { -brand-short-name } не намагатиметься оновити з’єднання, щоб захистити ці сайти за допомогою HTTPS. Винятки не стосуються приватних вікон.
+permissions-exceptions-https-only-desc = Ви можете вимкнути HTTPS-режим для певних вебсайтів. { -brand-short-name } не намагатиметься оновити з'єднання, щоб захистити ці сайти за допомогою HTTPS. Винятки не стосуються приватних вікон.
 
 ## Exceptions - Pop-ups
 

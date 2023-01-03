@@ -218,7 +218,7 @@ webrtc-action-not-now =
 
 ##
 
-webrtc-remember-allow-checkbox = Запам’ятати це рішення
+webrtc-remember-allow-checkbox = Запам'ятати це рішення
 webrtc-mute-notifications-checkbox = Вимкнути сповіщення вебсайту під час спільного доступу
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не може дозволити постійний доступ до вашого екрана.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не може дозволити постійний доступ до аудіо вашої вкладки без запиту.

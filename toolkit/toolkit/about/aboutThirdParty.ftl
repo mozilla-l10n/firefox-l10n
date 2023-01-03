@@ -68,3 +68,6 @@ third-party-requires-restart = Щоб змінити налаштування з
 third-party-should-restart-title = Перезапустити { -brand-short-name }
 third-party-should-restart-ok = Перезапустити { -brand-short-name } зараз
 third-party-restart-later = Перезапустити потім
+third-party-blocked-by-builtin =
+    .title = Заблоковано { -brand-short-name }
+    .alt = Заблоковано { -brand-short-name }

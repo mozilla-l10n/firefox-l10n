@@ -13,7 +13,7 @@ panic-button-forget-button =
 
 panic-main-timeframe-desc = Забути останні:
 panic-button-5min =
-    .label = П’ять хвилин
+    .label = П'ять хвилин
 panic-button-2hr =
     .label = Дві години
 panic-button-day =
