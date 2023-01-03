@@ -24,6 +24,7 @@ neterror-pref-reset-button = Restablir los paramètres per defaut
 neterror-return-to-previous-page-button = Tornar en arrièr
 neterror-return-to-previous-page-recommended-button = Tornar (recomandat)
 neterror-try-again-button = Tornar ensajar
+neterror-add-exception-button = Totjorn contunhar per aqueste site
 neterror-settings-button = Modificar los paramètres DNS
 neterror-view-certificate-link = Mostrar lo certificat
 
@@ -55,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Verificar que { -brand-short-name } a l�
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } a pas pogut se connectar a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La connexion a { $trrDomain } a pres mai de temps que previst.
 neterror-dns-not-found-trr-offline = Cap de connexion Internet.
+neterror-dns-not-found-trr-unknown-host = { $trrDomain } a pas trobat cap d’adreça per aqueste site web.
 neterror-dns-not-found-trr-server-problem = I a agut un problèma amb { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problèma inesperat.
 

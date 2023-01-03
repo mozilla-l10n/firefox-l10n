@@ -48,3 +48,6 @@ third-party-button-collapse =
 third-party-should-restart-title = Reaviar { -brand-short-name }
 third-party-should-restart-ok = Reaviar { -brand-short-name } ara
 third-party-restart-later = Reaviar mai tard
+third-party-blocked-by-builtin =
+    .title = Blocat per { -brand-short-name }
+    .alt = Blocat per { -brand-short-name }
