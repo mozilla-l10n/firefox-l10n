@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = რჩევა:
 urlbar-result-menu-button =
     .title = მენიუს გახსნა
+urlbar-result-menu-remove-from-history =
+    .label = ისტორიიდან ამოშლა
+    .accesskey = მ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -965,3 +968,8 @@ refresh-blocked-redirect-label = { -brand-short-name } ამ გვერდი
 refresh-blocked-allow =
     .label = ნებართვა
     .accesskey = ნ
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } ნიღბავს თქვენს ნამდვილ ელფოსტას, რომ დაგიცვათ მონაცემთა მიტაცების შემთხვევებისა და უსარგებლო წერილებისგან.
+firefox-relay-offer-how-we-integrate = თუ განაგრძობთ, ახალი { -relay-brand-short-name }-ნიღბების დამზადება ელფოსტისთვის პირდაპირ შეგეძლებათ თქვენი { -brand-shorter-name }-ის პაროლების მმართველიდან.
