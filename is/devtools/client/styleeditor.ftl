@@ -22,7 +22,7 @@ styleeditor-editor-textbox =
 styleeditor-no-stylesheet = This page has no style sheet.
 styleeditor-no-stylesheet-tip = Perhaps you'd like to <a data-l10n-name="append-new-stylesheet">append a new style sheet</a>?
 styleeditor-open-link-new-tab =
-    .label = Open Link in New Tab
+    .label = Opna tengil í nýjum flipa
 styleeditor-copy-url =
     .label = Afrita URL
 styleeditor-find =
