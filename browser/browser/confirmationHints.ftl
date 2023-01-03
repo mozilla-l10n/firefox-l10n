@@ -12,3 +12,4 @@ confirmation-hint-password-saved = პაროლი შენახული�
 confirmation-hint-pin-tab = მიმაგრებულია!
 confirmation-hint-pin-tab-description = მარჯვენა-წკაპი ჩანართზე, მიმაგრების მოსახსნელად.
 confirmation-hint-send-to-device = გაგზავნილია!
+confirmation-hint-firefox-relay-mask-generated = ახალი { -relay-brand-short-name }-ნიღაბი დამზადებულია!
