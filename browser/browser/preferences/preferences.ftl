@@ -577,11 +577,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Панель поиска
+search-bar-header = Строка поиска
 search-bar-hidden =
     .label = Использовать адресную строку для поиска и навигации
 search-bar-shown =
-    .label = Добавить панель поиска на панель инструментов
+    .label = Добавить строку поиска на панель инструментов
 search-engine-default-header = Поисковая система по умолчанию
 search-engine-default-desc-2 = Это ваша поисковая система по умолчанию в адресной строке и панели поиска. Вы можете сменить её в любое время.
 search-engine-default-private-desc-2 = Выберите другую поисковую систему по умолчанию для использования только в приватных окнах
@@ -613,7 +613,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic2 = Изменить другие настройки предложений в адресной строке
 search-suggestions-cant-show = При использовании адресной строки поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
 search-one-click-header2 = Значки поисковых систем
-search-one-click-desc = Выберите иные поисковые системы, которые появятся под адресной строкой и панелью поиска, когда вы начнёте вводить ключевое слово.
+search-one-click-desc = Выберите иные поисковые системы, которые появятся под адресной строкой и строкой поиска, когда вы начнёте вводить ключевое слово.
 search-choose-engine-column =
     .label = Поисковая система
 search-choose-keyword-column =
