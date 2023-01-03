@@ -65,3 +65,4 @@ about-logging-unknown-profiler-preset = Profiler-ის დაუდგენე
 about-logging-unknown-option = დაუდგენელი about:logging-პარამეტრი „{ $k }“
 about-logging-configuration-url-ignored = გამართვის ბმული უგულებელყოფილია
 about-logging-file-and-profiler-override = შეუძლებელია ფაილში გამოტანის იძულება და Profilier-პარამეტრების ჩანაცვლება ერთდროულად
+about-logging-configured-via-url = პარამეტრი გამართულია ბმულის მეშვეობით
