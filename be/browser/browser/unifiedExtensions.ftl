@@ -25,7 +25,7 @@ unified-extensions-item-message-manage = Кіраваць пашырэннем
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
-    .label = Замацаваць на паліцы інструментаў
+    .label = Замацаваць на панэлі інструментаў
 unified-extensions-context-menu-manage-extension =
     .label = Кіраваць пашырэннем
 unified-extensions-context-menu-remove-extension =
