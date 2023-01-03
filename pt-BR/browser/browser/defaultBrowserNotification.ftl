@@ -13,8 +13,8 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Tornar o { -brand-short-name } seu navegador principal?
-default-browser-prompt-message-pin = Tenha o { -brand-short-name } na ponta de seus dedos, o torne seu navegador padrão e fixe na barra de tarefas.
-default-browser-prompt-message-pin-mac = Tenha o { -brand-short-name } ao alcance, torne seu navegador padrão e mantenha no Dock.
+default-browser-prompt-message-pin = Tenha o { -brand-short-name } à mão, torne seu navegador padrão e fixe na barra de tarefas.
+default-browser-prompt-message-pin-mac = Tenha o { -brand-short-name } à mão, torne seu navegador padrão e mantenha no Dock.
 default-browser-prompt-button-primary-pin = Tornar o navegador principal
 default-browser-prompt-title-alt = Tornar o { -brand-short-name } seu navegador padrão?
 default-browser-prompt-message-alt = Tenha velocidade, segurança e privacidade sempre que você navegar.
