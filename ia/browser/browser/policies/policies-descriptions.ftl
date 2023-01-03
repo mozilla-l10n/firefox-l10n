@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Impedir al usator de ignorar certe avisos de secu
 policy-DisableSetAsDesktopBackground = Disactivar le commando de menu Definir como Fundo del scriptorio pro le imagines.
 policy-DisableSystemAddonUpdate = Impedir al navigator de installar e actualisar additivos de systema.
 policy-DisableTelemetry = Disactivar le telemetria.
+policy-DisableThirdPartyModuleBlocking = Impedir al usator de blocar modulos de tertie partes que es inserite in le processo de { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Monstrar le barra de marcapaginas per predefinition.
 policy-DisplayMenuBar = Monstrar le Barra del menu de ordinario.
 policy-DNSOverHTTPS = Configura DNS sur HTTPS.
