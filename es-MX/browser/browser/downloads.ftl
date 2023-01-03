@@ -235,4 +235,4 @@ downloads-error-extension = La descarga no se puede guardar porque está bloquea
 downloads-error-generic =
     La descarga no puede guardarse porque ha sucedido un error desconocido.
     
-    Vuelva a intentarlo.
+    Por favor, vuelve a intentarlo.
