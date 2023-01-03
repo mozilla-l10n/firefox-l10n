@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Не даваць карыстальніку аб
 policy-DisableSetAsDesktopBackground = Адключыць каманду меню "Усталяваць як фон працоўнага стала…" для відарысаў.
 policy-DisableSystemAddonUpdate = Прадухіліць усталяванне і абнаўленне браўзерам сістэмных дадаткаў.
 policy-DisableTelemetry = Выключыць тэлеметрыю.
+policy-DisableThirdPartyModuleBlocking = Забараніць карыстальнікам блакіраваць модулі іншых вытворцаў, якія ўкараняюцца ў працэс { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Заўсёды паказваць панэль закладак.
 policy-DisplayMenuBar = Заўсёды паказваць панэль меню.
 policy-DNSOverHTTPS = Наладзіць DNS праз HTTPS.
