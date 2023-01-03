@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>Setja { -brand-short-name } sem sjálfgefna vafrann þinn?</strong> Fáðu hraða, öryggi og mögulegt einkavafur alltaf þegar þú notar vefinn.
+default-browser-notification-message = <strong>Setja { -brand-short-name } sem sjálfgefna vafrann þinn?</strong> Fáðu hraða, öryggi og mögulegt huliðsvafur alltaf þegar þú notar vefinn.
 default-browser-notification-button =
     .label = Setja sem sjálfgefinn
     .accesskey = S
