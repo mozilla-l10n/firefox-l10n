@@ -8,24 +8,13 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Una error s'es producha pendent una connexion a { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Còdi d’error : { $error }
-
 psmerr-ssl-disabled = Connexion securizada impossibla perque lo protocòl SSL es estat desactivat.
 psmerr-ssl2-disabled = Connexion securizada impossibla perque lo site utiliza una version anciana pas segura del protocòl SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Avètz recebut un certificat invalid. Contactatz l'administrator del servidor o vòstre correspondent de messatjariá e provesissètz-li las entresenhas seguentas :
     
     Vòstre certificat conten lo meteis numèro de seria qu'un autre certificat emes per l'autoritat de certificacion. Provesissètz-vos un certificat novèl amb un numèro de seria unic.
-
 ssl-error-export-only-server = Impossible de comunicar en mòde securizat. Lo par gerís pas lo chiframent de naut nivèl.
 ssl-error-us-only-server = Impossible de comunicar en mòde securizat. Lo par requerís un chiframent de naut nivèl qu'es pas gerit.
 ssl-error-no-cypher-overlap = Impossible de comunicar en mòde securizat amb lo par : pas cap d'algoritme de chiframent en comun.
@@ -212,14 +201,6 @@ sec-error-pkcs7-keyalg-mismatch = Impossible de dechifrar : l'algoritme de chif
 sec-error-pkcs7-bad-signature = La verificacion de signatura a fracassat : cap de signatari, tròp de signataris o donadas corrompudas o incorrèctas.
 sec-error-unsupported-keyalg = Algoritme de clau pas gerit o desconegut.
 sec-error-decryption-disallowed = Impossible de deschifrar : chifrat en utilizant un algoritme o una talha de clau pas autorizats.
-xp-sec-fortezza-bad-card = La carta Fortezza es pas estada inicializada corrèctament. Levatz-la e tornatz-la mandar a vòstre distributor.
-xp-sec-fortezza-no-card = Cap de carta Fortezza es pas estada trobada
-xp-sec-fortezza-none-selected = Cap de carta Fortezza es pas estada seleccionada
-xp-sec-fortezza-more-info = Seleccionatz una personalitat sus laquala desiratz obténer mai d'entresenhas
-xp-sec-fortezza-person-not-found = Personalitat pas trobada
-xp-sec-fortezza-no-more-info = Cap d'autra entresenha sus aquesta personalitat
-xp-sec-fortezza-bad-pin = Còdi Pin invalid
-xp-sec-fortezza-person-error = Impossible d'inicializar las personalitats Fortezza.
 sec-error-no-krl = Cap de lista de claus revocadas pel certificat d'aqueste site es pas estada trobada.
 sec-error-krl-expired = La lista de las claus revocadas pel certificat d'aqueste site a expirat.
 sec-error-krl-bad-signature = La lista de las claus revocadas pel certificat d'aqueste site a un signatura invalida
@@ -234,9 +215,6 @@ sec-error-cert-nickname-collision = Un certificat amb lo meteis escais existís 
 sec-error-key-nickname-collision = Una clau amb lo meteis escais existís ja.
 sec-error-safe-not-created = Error al moment de la creacion d'un objècte securizat
 sec-error-baggage-not-created = Error al moment de la creacion d'un objècte valisa
-xp-java-remove-principal-error = Impossible de suprimir lo principal
-xp-java-delete-privilege-error = Impossible de suprimir lo privilègi
-xp-java-cert-not-exists-error = Aqueste principal es pas de certificat
 sec-error-bad-export-algorithm = L'algoritme requesit es pas autorizat.
 sec-error-exporting-certificates = Error al moment de la temptativa d'exportacion dels certificats.
 sec-error-importing-certificates = Error al moment de la temptativa d'importacion dels certificats.
@@ -311,7 +289,7 @@ sec-error-revoked-certificate-crl = Lo certificat es revocat dins la lista de ce
 sec-error-revoked-certificate-ocsp = Lo respondeire OCSP de l'autoritat senhala que lo certificat es revocat.
 sec-error-crl-invalid-version = La lista de certificats revocats de l'autoritat a un numèro de version desconegut.
 sec-error-crl-v1-critical-extension = La lista de certificats revocats V1 de l'autoritat a una extension critica.
-sec-error-crl-unknown-critical-extension = La lista de certificats revocats V2 de l'autoritat a une extension critica desconeguda.
+sec-error-crl-unknown-critical-extension = La lista de certificats revocats V2 de l'autoritat a una extension critica desconeguda.
 sec-error-unknown-object-type = Tipe d'objècte desconegut especificat.
 sec-error-incompatible-pkcs11 = Lo pilòt KCS #11 viòla las especificacions d'un biais incompatible.
 sec-error-no-event = Cap d'eveniment novèl de slot es pas disponible pel moment.
@@ -353,3 +331,14 @@ mozilla-pkix-error-invalid-integer-encoding = Lo servidor a presentat un certifi
 mozilla-pkix-error-empty-issuer-name = Lo servidor a presentat un certificat que lo nom distintiu de l'emetor es void.
 mozilla-pkix-error-additional-policy-constraint-failed = Una restriccion d'estrategia suplementària a fracassat pendent la validacion d'aquestes certificat.
 mozilla-pkix-error-self-signed-cert = Lo certificat es pas segur perque es autosignat.
+xp-java-remove-principal-error = Impossible de suprimir lo principal
+xp-java-delete-privilege-error = Impossible de suprimir lo privilègi
+xp-java-cert-not-exists-error = Aqueste principal es pas de certificat
+xp-sec-fortezza-bad-card = La carta Fortezza es pas estada inicializada corrèctament. Levatz-la e tornatz-la mandar a vòstre distributor.
+xp-sec-fortezza-no-card = Cap de carta Fortezza es pas estada trobada
+xp-sec-fortezza-none-selected = Cap de carta Fortezza es pas estada seleccionada
+xp-sec-fortezza-more-info = Seleccionatz una personalitat sus laquala desiratz obténer mai d'entresenhas
+xp-sec-fortezza-person-not-found = Personalitat pas trobada
+xp-sec-fortezza-no-more-info = Cap d'autra entresenha sus aquesta personalitat
+xp-sec-fortezza-bad-pin = Còdi Pin invalid
+xp-sec-fortezza-person-error = Impossible d'inicializar las personalitats Fortezza.
