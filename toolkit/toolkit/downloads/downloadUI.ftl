@@ -33,7 +33,7 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
         [1] Ef þú lokar öllum huliðsgluggum, þá verður hætt við 1 niðurhal. Ertu viss um að þú viljir hætta í huliðsstillingu?
        *[other] Ef þú lokar öllum huliðsgluggum, þá verður hætt við { $downloadsCount } niðurhöl. Ertu viss um að þú viljir hætta í huliðsstillingu?
     }
-download-ui-dont-leave-private-browsing-button = Vera áfram í huliðsstillingu
+download-ui-dont-leave-private-browsing-button = Vera áfram í huliðsvafri
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Hætta við 1 niðurhal
