@@ -300,7 +300,7 @@ mr2022-onboarding-existing-pin-subtitle = Opnaðu internetið á heilbrigðari m
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Notaðu vafra sem verndar friðhelgi þína á meðan þú vafrar um vefinn. Nýjasta uppfærslan okkar er stútfull af hlutum sem þú munt dýrka.
-mr2022-onboarding-existing-pin-checkbox-label = Bættu líka við { -brand-short-name } einkavafri
+mr2022-onboarding-existing-pin-checkbox-label = Bættu líka við { -brand-short-name } huliðsvafri
 
 ## MR2022 New User Set Default screen strings
 
