@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Ба корбар имкон намедиҳад, 
 policy-DisableSetAsDesktopBackground = Фармони менюи «Танзим кардани тасвир ҳамчун заминаи мизи корӣ…»-ро барои тасвирҳо ғайрифаъол мекунад.
 policy-DisableSystemAddonUpdate = Ба браузер имкон намедиҳад, ки тавонад ҷузъҳои иловагии низомиро насб ё навсозӣ кунад.
 policy-DisableTelemetry = Санҷиши дурдаст (Телеметрия)-ро хомӯш мекунад.
+policy-DisableThirdPartyModuleBlocking = Ба корбар иҷозат намедиҳад, то ки он тавонад модулҳои тарафи сеюмеро, ки ба раванди «{ -brand-short-name }» дохил карда мешаванд, манъ кунад.
 policy-DisplayBookmarksToolbar = Навори хатбаракҳоро ба таври пешфарз нишон медиҳад.
 policy-DisplayMenuBar = Навори менюро ба таври пешфарз нишон медиҳад.
 policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
