@@ -25,6 +25,7 @@ neterror-return-to-previous-page-button = Retroceder
 neterror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 neterror-try-again-button = Tentar novamente
 neterror-add-exception-button = Continuar sempre para este site
+neterror-settings-button = Alterar definições de DNS
 neterror-view-certificate-link = Ver certificado
 
 ##

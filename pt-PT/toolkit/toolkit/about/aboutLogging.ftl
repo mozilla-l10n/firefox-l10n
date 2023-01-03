@@ -21,8 +21,10 @@
 
 # This is the title of the page
 about-logging-title = Sobre o registo
+about-logging-page-title = Gestor de registo
 about-logging-current-log-file = Ficheiro de registo atual:
 about-logging-current-log-modules = Módulos de registo atual:
+about-logging-new-log-file = Novo ficheiro de registo:
 about-logging-log-tutorial = Consulte <a data-l10n-name="logging">HTTP Logging</a> para instruções sobre como utilizar esta ferramenta.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Abrir diretório
