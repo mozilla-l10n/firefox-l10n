@@ -9,8 +9,8 @@
 
 default-bookmarks-title = Закладкі
 default-bookmarks-heading = Закладкі
-default-bookmarks-toolbarfolder = Папка паліцы закладак
-default-bookmarks-toolbarfolder-description = Дадавайце закладкі ў гэтую папку, каб пабачыць іх на паліцы закладак.
+default-bookmarks-toolbarfolder = Папка панэлі закладак
+default-bookmarks-toolbarfolder-description = Дадавайце закладкі ў гэтую папку, каб пабачыць іх на панэлі закладак.
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = У пачатку
 # Firefox links folder name
