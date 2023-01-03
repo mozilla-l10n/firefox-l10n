@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = შეტყობინება პაროლებზე იერიშმიტანილი საიტებისთვის
     .accesskey = შ
 forms-breach-alerts-learn-more-link = ვრცლად
+relay-integration =
+    .label = ამოქმედდეს { -relay-brand-name } თქვენი { -brand-short-name }-ის პაროლთა მმართველში
+relay-integration-learn-more-link = ვრცლად
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = ანგარიშის მონაცემების თვითშევსება
@@ -1003,6 +1006,9 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         პირველმა გამოცადეთ ყველაზე მძლავრი
         დაცვა პირადულობისთვის, რაც კი არსებობს
     .accesskey = ც
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ფუნთუშების სრული გამიჯვნით ყველა ფუნთუშა იმ საიტის საზღვრებშივე დარჩება, რომელზეც იმყოფებით და მეთვალყურეები ვეღარ დაგედევნებიან სხვა საიტებზე გადასვლისას.
 content-blocking-etp-standard-tcp-rollout-learn-more = ვრცლად
