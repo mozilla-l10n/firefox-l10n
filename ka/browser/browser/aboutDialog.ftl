@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = განახლებების შემოწმება
     .accesskey = გ
 update-updateButton =
-    .label = გასაახლებლად, კვლავ გაუშვით { -brand-shorter-name }
+    .label = გასაახლებლად კვლავ გაუშვით { -brand-shorter-name }
     .accesskey = ხ
 update-checkingForUpdates = მიმდინარეობს განახლებების შემოწმება...
 update-downloading = <img data-l10n-name="icon"/>განახლების ჩამოტვირთვა — <label data-l10n-name="download-status"/>
