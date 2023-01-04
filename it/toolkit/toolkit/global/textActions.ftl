@@ -35,7 +35,7 @@ text-action-paste =
     .accesskey = I
 
 text-action-paste-no-formatting =
-    .label = Copia senza formattazione
+    .label = Incolla senza formattazione
     .accesskey = f
 
 text-action-paste-shortcut =
