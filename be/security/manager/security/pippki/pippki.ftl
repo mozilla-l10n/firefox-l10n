@@ -79,3 +79,9 @@ protected-auth-window =
     .title = Аўтарызацыя з абароненай лексемай
 protected-auth-msg = Выканайце аўтэнтыфікацыю з выкарыстаннем токена. Метад аўтэнтыфікацыі залежыць ад тыпу вашага токена.
 protected-auth-token = Лексема:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Аўтэнтыфікуйце токен “{ $tokenName }”. Як гэта зрабіць, залежыць ад токена (напрыклад, з дапамогай счытвальніка адбіткаў пальцаў або ўводу кода з клавіятуры).
