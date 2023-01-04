@@ -13,10 +13,10 @@
 <!ENTITY deniedPortAccess.title "Portë e Kufizuar për Arsye Sigurie">
 <!ENTITY deniedPortAccess.longDesc "<p>Adresa e kërkuar kërkonte një portë (p.sh. <q>mozilla.org:80</q> për portën 80 te mozilla.org) normalisht e përdorur për qëllime <em>të tjera</em> e jo për shfletim në Internet. Shfletuesi e anuloi kërkesën me qëllim mbrojtjen dhe sigurinë tuaj.</p>">
 
-<!ENTITY dnsNotFound.title "Adresë Që S&apos;Gjendet">
+<!ENTITY dnsNotFound.title "Adresë Që S’Gjendet">
 <!ENTITY dnsNotFound.longDesc "<p>Shfletuesi nuk gjeti dot shërbyesin strehë të adresës së kërkuar.</p><ul><li>Bëtë ndonjë gabim gjatë shtypjes së përkatësisë? (p.sh. <q><strong>ww</strong>.mozilla.org</q> në vend të <q><strong>www</strong>.mozilla.org</q>)</li><li>Jeni i sigurt që kjo adresë përkatësie ekziston? Mund të ketë skaduar regjistrimi i saj.</li><li>E keni të pamundur të shfletoni faqe të tjera? Kontrolloni lidhjen tuaj të rrjetit dhe rregullimet për shërbyesin DNS.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë &quot;firewall&quot; apo ndërmjetës? Rregullimet e pasakta mund të ndikojnë në shfletimin Web.</li></ul>">
 
-<!ENTITY fileNotFound.title "S&apos;u Gjet Kartelë">
+<!ENTITY fileNotFound.title "S’u Gjet Kartelë">
 <!ENTITY fileNotFound.longDesc "<ul><li>Mundet që objekti të jetë riemërtuar, hequr, ose shpërngulur gjetkë?</li><li>A ka ndonjë gabim shkrimi apo gabim tjetër tipografik te adresa?</li><li>A keni leje të mjafta hyrjeje për te objekti i kërkuar?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Hyrja te kartela u mohua">
@@ -43,7 +43,7 @@
 <!ENTITY unsafeContentType.title "Lloj Kartele Jo i Parrezik">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
@@ -54,7 +54,7 @@
 <!ENTITY netTimeout.longDesc "<p>Sajti i kërkuar nuk iu përgjigj kërkesës për lidhje dhe shfletuesi reshti së prituri për përgjigje.</p><ul><li>Mundet që shërbyesi të jetë duke u përballur me kërkesë të madhe ose mundet të jetë përkohësisht jashtë loje? Riprovoni më vonë.</li><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>A është kompjuteri juaj i mbrojtur nga një &quot;firewall&quot; apo ndërmjetës? Rregullime të pasakta mund të ndikojnë në shfletim.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protokoll i Panjohur">
-<!ENTITY unknownProtocolFound.longDesc "<p>Adresa tregon një protokoll (p.sh. <q>wxyz://</q>) të cilin shfletuesi nuk e njeh, kështu që nuk mund të lidhet si duhet me këtë sajt.</p><ul><li>Mos po përpiqeni të hapni shërbime multimedia apo shërbim tjetër jo tekst? Shihni te sajti për kërkesa ekstra.</li><li>Disa protokolle mund të lypin software prej pale të tretë, ose shtojca, përpara se shfletuesi të mund t&apos;i njohë.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<p>Adresa tregon një protokoll (p.sh. <q>wxyz://</q>) të cilin shfletuesi nuk e njeh, kështu që nuk mund të lidhet si duhet me këtë sajt.</p><ul><li>Mos po përpiqeni të hapni shërbime multimedia apo shërbim tjetër jo tekst? Shihni te sajti për kërkesa ekstra.</li><li>Disa protokolle mund të lypin “software” prej pale të tretë, ose shtojca, përpara se shfletuesi të mund t’i njohë.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Shërbyesi Ndërmjetës Hodhi Poshtë Kërkesën për Lidhje">
 <!ENTITY proxyConnectFailure.longDesc "<p>Shfletuesi është formësuar të përdorë shërbyes ndërmjetës, por ndërmjetësi hodhi poshtë kërkesën për lidhje.</p><ul><li>Është i saktë formësimi i shfletuesit për ndërmjetësin? Kontrolloni rregullimet dhe provoni sërish.</li><li>A lejon shërbimi ndërmjetës lidhje prej këtij rrjeti?</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
@@ -63,13 +63,13 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Shfletuesi është formësuar të përdorë një shërbyes ndërmjetës, por ndërmjetësi nuk u gjet dot.</p><ul><li>Është i saktë formësimi i shfletuesit për ndërmjetësin? Kontrolloni rregullimet dhe provoni sërish.</li><li>A është i lidhur kompjuteri te një rrjet veprues?</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
 
 <!ENTITY redirectLoop.title "Qerthull Ridrejtues">
-<!ENTITY redirectLoop.longDesc "<p>Shfletuesi ka reshtur së provuari të marrë objektin e kërkuar. Sajti po e ridrejton kërkesën në një rrugë së cilës nuk do t&apos;i gjehet fundi kurrë.</p><ul><li>I keni çaktivizuar apo bllokuar cookie-t e nevojshme për këtë sajt?</li><li><em>SHËNIM</em>: Nëse të pranuarit e cookie-ve nuk e zgjidh problemin, ka të ngjarë të jetë çështje formësimi shërbyesi dhe jo e kompjuterit tuaj.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Shfletuesi ka reshtur së provuari të marrë objektin e kërkuar. Sajti po e ridrejton kërkesën në një rrugë së cilës nuk do t’i gjehet fundi kurrë.</p><ul><li>I keni çaktivizuar apo bllokuar cookie-t e nevojshme për këtë sajt?</li><li><em>SHËNIM</em>: Nëse të pranuarit e cookie-ve s’e zgjidh problemin, ka të ngjarë të jetë çështje formësimi shërbyesi dhe jo e kompjuterit tuaj.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Përgjigje e Pasaktë">
 <!ENTITY unknownSocketType.longDesc "<p>Sajti iu përgjigj kërkesës së rrjetit në një mënyrë të papritur dhe shfletuesi nuk vazhdon dot.</p>">
 
 <!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurt">
-<!ENTITY nssFailure2.longDesc2 "<p>Faqja që po përpiqeni të shihni nuk shfaqet dot, ngaqë nuk u vërtetua dot mirëfilltësia e të dhënave të marra.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Faqja që po përpiqeni të shihni nuk shfaqet dot, ngaqë nuk u vërtetua dot mirëfilltësia e të dhënave të marra.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Dështoi Lidhja e Sigurt">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -80,7 +80,7 @@
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.warningContent "
-<p>S&apos;do të duhej të shtoni përjashtime, nëse po përdorni një lidhje internet të cilës nuk i zini besë plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizime për këtë shërbyes.</p>
+<p>S’do të duhej të shtoni përjashtime, nëse po përdorni një lidhje internet të cilës nuk i zini besë plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizime për këtë shërbyes.</p>
 <p>Nëse doni ende të shtoni një përjashtim për këtë sajt, këtë mund ta bëni që nga rregullimet tuaja të mëtejshme për fshehtëzimet.</p>
 ">
 
@@ -101,4 +101,4 @@
 <!ENTITY blockedByPolicy.title "Faqe e Bllokuar">
 
 <!ENTITY networkProtocolError.title "Gabim Protokolli Rrjeti">
-<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s&apos;mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s’mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t’u njoftoni këtë problem.</li></ul>">
