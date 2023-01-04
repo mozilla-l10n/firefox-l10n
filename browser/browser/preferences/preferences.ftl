@@ -799,6 +799,8 @@ forms-breach-alerts =
     .label = Näytä hälytykset salasanoista sivustoille, jotka ovat kokeneet tietomurron
     .accesskey = h
 forms-breach-alerts-learn-more-link = Lue lisää
+relay-integration =
+    .label = Ota { -relay-brand-name } käyttöön { -brand-short-name }in salasanojen hallinnassa
 relay-integration-learn-more-link = Lue lisää
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
