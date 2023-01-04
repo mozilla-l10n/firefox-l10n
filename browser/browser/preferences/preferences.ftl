@@ -99,7 +99,7 @@ extension-controlled-enable = Каб уключыць пашырэнне, зай
 
 search-results-header = Вынікі пошуку
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message2 = Выбачайце! У перавагах няма вынікаў для “<span data-l10n-name="query"></span>”.
+search-results-empty-message2 = Выбачайце! У наладах няма вынікаў для “<span data-l10n-name="query"></span>”.
 search-results-help-link = Патрэбна дапамога? Наведайце <a data-l10n-name="url">Падтрымка { -brand-short-name }</a>
 
 ## General Section

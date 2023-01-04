@@ -5,38 +5,28 @@
 webpage-languages-window =
     .title = Налады мовы вэб-старонак
     .style = width: 40em
-
 webpage-languages-window2 =
     .title = Налады мовы вэб-старонак
     .style = min-width: 40em
-
 languages-close-key =
     .key = w
-
-languages-description = Часам старонкі сеціва даступны на некалькіх мовах. Выберыце мовы для прагляду старонак сеціва, у парадку пераваг
-
+languages-description = Некаторыя старонкі могуць быць даступны больш чым на адной мове. Укажыце парадак выбару мовы старонкі
 languages-customize-spoof-english =
     .label = Запытваць англійскую версію вэб-старонак для лепшай прыватнасці
-
 languages-customize-moveup =
-    .label = Рухаць угору
-    .accesskey = г
-
+    .label = Уверх
+    .accesskey = в
 languages-customize-movedown =
-    .label = Рухаць уніз
+    .label = Уніз
     .accesskey = н
-
 languages-customize-remove =
     .label = Выдаліць
     .accesskey = ц
-
 languages-customize-select-language =
-    .placeholder = Выбраць мову для дадання…
-
+    .placeholder = Дадаць мову…
 languages-customize-add =
     .label = Дадаць
     .accesskey = Д
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -49,33 +39,23 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
-
 languages-active-code-format =
     .value = { languages-code-format.label }
-
 browser-languages-window =
     .title = Налады мовы { -brand-short-name }
     .style = width: 40em
-
 browser-languages-window2 =
     .title = Налады мовы { -brand-short-name }
     .style = min-width: 40em
-
 browser-languages-description = { -brand-short-name } тыпова будзе паказваць старонкі першай мовай у спісе, а іншыя мовы, калі спатрэбіцца, у азначаным парадку.
-
 browser-languages-search = Пошук іншых моў ...
-
 browser-languages-searching =
     .label = Пошук моў ...
-
 browser-languages-downloading =
     .label = Сцягванне…
-
 browser-languages-select-language =
     .label = Выбраць мову для дадання…
     .placeholder = Выбраць мову для дадання…
-
 browser-languages-installed-label = Усталяваныя мовы
 browser-languages-available-label = Даступныя мовы
-
 browser-languages-error = { -brand-short-name } не можа абнавіць вашы мовы прама зараз. Праверце сваё злучэнне з інтэрнэтам або паспрабуйце ізноў.
