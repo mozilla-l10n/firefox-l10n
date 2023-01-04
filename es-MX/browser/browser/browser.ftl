@@ -231,7 +231,7 @@ full-screen-exit =
 # the Urlbar and searchbar.
 search-one-offs-with-title = Esta vez, buscar con:
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = Cambiar preferencias de búsqueda
+    .tooltiptext = Cambiar los ajustes de búsqueda
 search-one-offs-context-open-new-tab =
     .label = Buscar en nueva pestaña
     .accesskey = p
@@ -302,7 +302,7 @@ quickactions-cmd-extensions = extensiones
 # Opens the devtools web inspector
 quickactions-inspector = Abrir inspector
 # Opens the devtools web inspector
-quickactions-inspector2 = Abrir herramientas de desarrollador
+quickactions-inspector2 = Abrir herramientas para desarrolladores
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins = Ver inicios de sesión
@@ -837,7 +837,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Algún audio o video en este sitio usa software DRM, que puede limitar lo que { -brand-short-name } te permite hacer con él.
-eme-notifications-drm-content-playing-manage = Administrar configuraciones
+eme-notifications-drm-content-playing-manage = Administrar ajustes
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Descartar
 eme-notifications-drm-content-playing-dismiss-accesskey = D

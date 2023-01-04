@@ -51,10 +51,18 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Actualmente bloqueado. Haz clic para desbloquearlo.
     .aria-label = Actualmente bloqueado. Haz clic para desbloquearlo.
+third-party-button-to-unblock-disabled =
+    .title =
+        Actualmente marcado como bloqueado, aunque la lista de bloqueo está deshabilitada para esta ejecución
+        de { -brand-short-name }. Haz clic para desbloquearlo.
+    .aria-label =
+        Actualmente marcado como bloqueado, aunque la lista de bloqueo está deshabilitada para esta ejecución
+        de { -brand-short-name }. Haz clic para desbloquearlo.
 third-party-button-expand =
     .title = Mostrar información detallada
 third-party-button-collapse =
     .title = Contraer información detallada
+third-party-requires-restart = { -brand-short-name } debe reiniciarse para cambiar qué módulos de terceros están bloqueados.
 third-party-should-restart-title = Reiniciar { -brand-short-name }
 third-party-should-restart-ok = Reiniciar { -brand-short-name } ahora
 third-party-restart-later = Reiniciar después
