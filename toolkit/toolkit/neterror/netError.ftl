@@ -24,6 +24,7 @@ neterror-pref-reset-button = Palauta oletusasetukset
 neterror-return-to-previous-page-button = Palaa
 neterror-return-to-previous-page-recommended-button = Palaa (suositellaan)
 neterror-try-again-button = Yritä uudestaan
+neterror-add-exception-button = Jatka aina tälle sivustolle
 neterror-settings-button = Muuta DNS-asetuksia
 neterror-view-certificate-link = Näytä varmenne
 
