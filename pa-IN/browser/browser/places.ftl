@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = ਇਸ ਸਾਈਟ ਬਾਰ
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = ਇਹ ਕਾਰਵਾਈ { $hostOrBaseDomain } ਨਾਲ ਸੰਬੰਧਿਤ ਸਾਰਾ ਡਾਟਾ ਹਟਾਏਗੀ, ਜਿਸ ਵਿੱਚ ਅਤੀਤ, ਪਾਸਵਰਡ, ਕੂਕੀਜ਼, ਕੈਸ਼ ਤੇ ਸਮਰੱਗੀ ਪਸੰਦਾਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = ਇਹ ਕਾਰਵਾਈ { $hostOrBaseDomain } ਨਾਲ ਸੰਬੰਧਿਤ ਡਾਟਾ, ਜਿਸ ਵਿੱਚ ਅਤੀਤ, ਕੂਕੀਜ਼, ਕੈਸ਼ ਤੇ ਸਮੱਗਰੀ ਪਸੰਦਾਂ ਸ਼ਾਮਿਲ ਹਨ, ਨੂੰ ਹਟਾਏਗੀ। ਸੰਬੰਧਿਤ ਬੁੱਕਮਾਰਕ ਅਤੇ ਪਾਸਵਰਡ ਨਹੀਂ ਹਟਾਏ ਜਾਣਗੇ। ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 places-forget-about-this-site-forget = ਭੁੱਲੋ
 places-library =
     .title = ਲਾਇਬਰੇਰੀ
