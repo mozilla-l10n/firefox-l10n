@@ -315,7 +315,7 @@ mr2022-onboarding-set-default-subtitle = Utilizatz un navegador sostengut per un
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Nòstra darrièra version es concebuda per vos, per far venir mai simple la navegacion pel Web. Aquesta darrièra version es fargada de foncionalitats que vos agradarà.
+mr2022-onboarding-get-started-primary-subtitle = Nòstra darrièra version es concebuda per vos, per far venir mai simpla la navegacion pel Web. Aquesta darrièra version es fargada de foncionalitats que vos agradarà.
 mr2022-onboarding-get-started-primary-button-label = Configuracion dins un ais
 
 ## MR2022 Import Settings screen strings
