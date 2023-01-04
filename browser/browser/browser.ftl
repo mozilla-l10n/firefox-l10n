@@ -155,6 +155,8 @@ urlbar-result-menu-remove-from-history =
 
 urlbar-search-tips-onboard = Tast mindre, finn meir: Søk med { $engineName } rett frå adresselinja.
 urlbar-search-tips-redirect-2 = Start søket ditt i adressefeltet for å sjå forslag frå { $engineName } og nettleserhistorikken din.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Det vart enklare å søkje. Prøv å gjere søket meir spesifikt her i adressefeltet. For å vise nettadressa i staden, gå til Søk i innstillingane.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Vel denne snarvegen for å finne det du treng raskare.
