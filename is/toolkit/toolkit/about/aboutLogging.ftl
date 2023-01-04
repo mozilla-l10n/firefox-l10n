@@ -38,6 +38,7 @@ about-logging-no-log-file = Ekkert
 ## Logging presets
 
 about-logging-preset-networking-label = Netvinnsla
+about-logging-preset-media-playback-label = Afspilun margmiðlunar
 about-logging-preset-custom-label = Sérsniðið
 # Error handling
 about-logging-error = Villa:
