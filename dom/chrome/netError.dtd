@@ -8,7 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nuk u Lidh Dot">
-<!ENTITY connectionFailure.longDesc "<p>Edhe pse sajti duket të jetë i vlefshëm, shfletuesi s&apos;qe në gjendje të vendoste një lidhje.</p><ul><li>Mundet që sajti të jetë përkohësisht jashtë loje? Riprovoni më vonë.</li><li>E keni të pamundur të shfletoni faqe të tjera? Kontrolloni lidhjen e rrjetit për kompjuterin.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë &quot;firewall&quot; apo ndërmjetës? Rregullimet e pasakta mund të ndërhyjnë te shfletimi Web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Edhe pse sajti duket të jetë i vlefshëm, shfletuesi s’qe në gjendje të vendoste një lidhje.</p><ul><li>Mundet që sajti të jetë përkohësisht jashtë loje? Riprovoni më vonë.</li><li>E keni të pamundur të shfletoni faqe të tjera? Kontrolloni lidhjen e rrjetit për kompjuterin.</li><li>Është kompjuteri apo rrjeti juaj i mbrojtur nga ndonjë “firewall” apo ndërmjetës? Rregullimet e pasakta mund të ndërhyjnë te shfletimi Web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Portë e Kufizuar për Arsye Sigurie">
 <!ENTITY deniedPortAccess.longDesc "<p>Adresa e kërkuar kërkonte një portë (p.sh. <q>mozilla.org:80</q> për portën 80 te mozilla.org) normalisht e përdorur për qëllime <em>të tjera</em> e jo për shfletim në Internet. Shfletuesi e anuloi kërkesën me qëllim mbrojtjen dhe sigurinë tuaj.</p>">
@@ -38,7 +38,7 @@
 <!ENTITY netOffline.longDesc2 "<p>Shfletuesi po punon nën mënyrën jashtë linje dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Shtypni “Riprovoni” që të kaloni nën mënyrën në linjë dhe të ringarkoni faqen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Lënde">
-<!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot, sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot, sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Lloj Kartele Jo i Parrezik">
 <!ENTITY unsafeContentType.longDesc "
@@ -91,9 +91,9 @@
 <!ENTITY xfoBlocked.longDesc "<p>Shfletuesi e parandaloi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull mbi X-Frame-Options që e pengon këtë.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t’u njoftoni këtë problem.</li></ul>">
 
-<!ENTITY inadequateSecurityError.title "Lidhja juaj s&apos;është e sigurt">
+<!ENTITY inadequateSecurityError.title "Lidhja juaj s’është e sigurt">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme përballë sulmesh. Dikush që sulmon do të mund të zbulonte lehtë të dhëna të cilat i mendonit të parrezikuara. Para se të mund të vizitoni këtë sajt, lypset që përgjegjësi i sajtit të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
