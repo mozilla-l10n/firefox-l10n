@@ -337,7 +337,7 @@ quickactions-cmd-screenshot = здымак экрана
 quickactions-settings = Адкрыць налады
 # Opens about:preferences
 quickactions-settings2 = Кіраваць наладамі
-quickactions-cmd-settings = налады, перавагі, параметры
+quickactions-cmd-settings = налады, параметры, опцыі
 # Opens about:addons page in the themes section
 quickactions-themes = Кіраваць тэмамі
 quickactions-cmd-themes = тэмы
