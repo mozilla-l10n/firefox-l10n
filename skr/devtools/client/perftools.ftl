@@ -113,6 +113,8 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = اوتلے انتخاب کوں نظر انداز کرو تے تمام رجسٹرڈ تھریڈز کوں ریکارڈ کرو۔
+perftools-tools-threads-input-label =
+    .title = ایہ تھریڈ دے ناں کوما نال انج کیتیاں ڳئیاں تندیراں ہن جیڑھیاں پروفائلر وِچ تھریڈز دی پروفائلنگ کوں فعال کرݨ کیتے استعمال تھیندیاں ہن۔ اں کوں شامل کرݨ کیتے تھریڈ دے ناں دا صرف جزوی مماثل ہووݨ ضروری ہے۔ ایہ وائٹ سپیس حساس ہے۔
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
