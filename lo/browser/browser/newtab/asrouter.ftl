@@ -75,6 +75,10 @@ cfr-doorhanger-milestone-close-button = ປິດ
 
 ## DOH Message
 
+cfr-doorhanger-doh-primary-button-2 = ຕົກລົງ
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = ປິດໃຊ້ງານ
+    .accesskey = D
 
 ## Fission Experiment Message
 
