@@ -19,6 +19,14 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "سرور نہیں لبھیا">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong> جے او پتہ درست ہے تاں، اتھں ترائے ٻیاں چیزاں ہن جنہاں کوں تساں ازما سڳدے او: </strong>
+<ul>
+<li>بعد اِچ ولدا کوشش کرو۔</li>
+<li>اپݨا نیٹ ورک کنکشن چیک کرو۔</li>
+<li> جے تساں منسلک او لیکن فائر وال دے پچھوں، چیک کرو جو &brandShortName; کوں ویب تائیں رسائی دی اجازت ہے۔</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -86,6 +94,14 @@
 </ul>
 ">
 
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+<li>پراکسی ترتیباں کوں چیک کرو تاں جو ایہ یقینی بنایا ونڄ سڳے جو او درست ہن۔</li>
+<li> ایہ یقینی بݨاوݨ کیتے چیک کرو جو تہاݙے کمپیوٹر وِچ ورکنگ نیٹ ورک کنکشن ہے۔</li>
+<li> جے تہاݙا کمپیوٹر یا نیٹ ورک فائر وال یا پراکسی کنوں محفوظ ہے تاں یقینی بݨاؤ
+او &brandShortName; ویب تائیں رسائی دی اجازت ہے۔</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.longDesc "
 <ul>
@@ -120,6 +136,11 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "تساں ایں بارے کیا کر سڳدے او؟">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p> ممکنہ طور تے ایہ مسئلہ ویب سائٹ دے نال ہے، تے اینکوں حل کرݨ کیتے تساں کجھ نہیں کر سڳدے۔ </p>
+<p> جے تساں کارپوریٹ نیٹ ورک تے او یا اینٹی وائرس سافٹ ویئر استعمال کریندے پئے او، تاں تساں مدد کیتے سپورٹ ٹیماں نال رابطہ کر سڳدے او۔ تساں ویب سائٹ دے منتظم کوں وی مسئلہ دے بارے اطلاع کر سڳدے او۔ </p>
+
+">
 
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "

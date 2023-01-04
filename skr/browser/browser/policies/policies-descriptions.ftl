@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = صارف کوں بعض حفاظتی چتاوݨی�
 policy-DisableSetAsDesktopBackground = مینیو کمانڈ کوں غیر فعال کرو تصویراں کیتے ڈیسک ٹاپ بیک گراؤنڈ دے طور تے سیٹ کرو۔
 policy-DisableSystemAddonUpdate = براؤزر کوں سسٹم ایڈ آنز کوں انسٹال تے اپ ڈیٹ کرݨ کنوں روکو۔
 policy-DisableTelemetry = ٹیلی میٹری کوں بند کرو۔
+policy-DisableThirdPartyModuleBlocking = صارف کوں تریاکل ماڈیولز کوں بلاک کرݨ کنوں روکو جیڑھے { -brand-short-name } دے عمل وِچ داخل تھیندے ہن۔
 policy-DisplayBookmarksToolbar = نیشانیاں ٹول بار کوں بطور ڈیفالٹ ڈسپلے کرو۔
 policy-DisplayMenuBar = مینیو بار کوں بطور ڈیفالٹ ڈسپلے کرو۔
 policy-DNSOverHTTPS = HTTPS تے DNS کنفیگر کرو۔
