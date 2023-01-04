@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## The following feature name must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
+-profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = about:logging
 about-logging-current-log-file = Plik dziennika:
@@ -14,4 +31,12 @@ about-logging-set-log-modules = Wybierz moduły
 about-logging-start-logging = Rozpocznij zapisywanie
 about-logging-stop-logging = Zatrzymaj zapisywanie
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+# Error handling
+about-logging-error = Błąd:
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+
