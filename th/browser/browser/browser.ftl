@@ -968,3 +968,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } ปกปิดที่อยู่อีเมลที่แท้จริงของคุณเพื่อช่วยปกป้องคุณจากการรั่วไหลของข้อมูลและสแปม
+firefox-relay-offer-how-we-integrate = เมื่อดำเนินการต่อ คุณจะสามารถสร้างตัวปกปิดอีเมล { -relay-brand-short-name } ใหม่ได้โดยตรงจากตัวจัดการรหัสผ่าน { -brand-shorter-name } ของคุณ
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = เราจะส่งต่ออีเมลทั้งหมดจาก <strong>{ $sitename }</strong> ไปยัง <strong>{ $useremail }</strong>
