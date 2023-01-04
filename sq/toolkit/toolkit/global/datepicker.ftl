@@ -10,6 +10,8 @@
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's <input type="date">
 
+date-picker-label =
+    .aria-label = Zgjidhni një datë
 date-spinner-label =
     .aria-label = Zgjidhni një muaj dhe një vit
 
