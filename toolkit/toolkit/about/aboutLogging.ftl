@@ -62,7 +62,7 @@ about-logging-error = Erro:
 
 about-logging-invalid-output = Valor inválido “{ $v }“ na chave “{ $k }“
 about-logging-unknown-logging-preset = Ajuste prévio de registro de log desconhecido “{ $v }“
-about-logging-unknown-profiler-preset = Ajuste prévio do profiler desconhecido “{ $v }“
+about-logging-unknown-profiler-preset = Ajuste prévio de profiler desconhecido “{ $v }“
 about-logging-unknown-option = Opção de about:logging desconhecida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuração ignorada
 about-logging-file-and-profiler-override = Não é possível forçar saída em arquivo e substituir opções do profiler ao mesmo tempo

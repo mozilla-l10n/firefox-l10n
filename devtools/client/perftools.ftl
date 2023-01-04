@@ -36,9 +36,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamanho do buffer:
-
 perftools-custom-threads-label = Adicionar threads personalizados por nome:
-
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Configurações
@@ -108,7 +106,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Ignorar as seleções acima e gravar todos os threads registrados
-
 perftools-tools-threads-input-label =
     .title = Esses nomes de thread ficam numa lista separada por vírgulas, usada para ativar a gravação de profiles dos threads no profiler. O nome precisa ser apenas uma correspondência parcial do nome do thread a ser incluído. É sensível a espaços em branco.
 
@@ -116,7 +113,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novo</b>: Agora o { -profiler-brand-name } é integrado nas ferramentas de desenvolvimento. <a>Saiba mais</a> sobre esta nova ferramenta poderosa.
-
 perftools-onboarding-close-button =
     .aria-label = Fechar a mensagem de integração
 
@@ -129,23 +125,17 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Desenvolvimento web
 perftools-presets-web-developer-description = Ajuste prévio recomendado para depuração da maioria dos aplicativos web, com pouca sobrecarga.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
-perftools-presets-firefox-description = Predefinição recomendada para gravação de profile no { -brand-shorter-name }.
-
+perftools-presets-firefox-description = Ajuste prévio recomendado para gravação de profile do { -brand-shorter-name }.
 perftools-presets-graphics-label = Gráficos
-perftools-presets-graphics-description = Predefinição para investigar bugs gráficos no { -brand-shorter-name }.
-
+perftools-presets-graphics-description = Ajuste prévio para investigar bugs gráficos no { -brand-shorter-name }.
 perftools-presets-media-label = Mídia
-perftools-presets-media-description2 = Predefinição para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
-
+perftools-presets-media-description2 = Ajuste prévio para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
 perftools-presets-networking-label = Rede
-perftools-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
-
+perftools-presets-networking-description = Ajuste prévio para investigar bugs de rede no { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
-perftools-presets-power-description = Predefinição para investigar bugs de uso de energia no { -brand-shorter-name }, com baixa sobrecarga.
-
+perftools-presets-power-description = Ajuste prévio para investigar bugs de uso de energia no { -brand-shorter-name }, com baixa sobrecarga.
 perftools-presets-custom-label = Personalizado
 
 ##
