@@ -24,7 +24,7 @@ about-logins-menu-menuitem-remove-all-logins = Выдаліць усе лагі�
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Налады
-       *[other] Параметры
+       *[other] Налады
     }
 about-logins-menu-menuitem-help = Даведка
 
