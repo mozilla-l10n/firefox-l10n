@@ -169,9 +169,21 @@ about-debugging-runtime-profile-button2 = پروفائل دی کارکردگی
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
 about-debugging-runtime-service-workers-not-compatible = تہاݙے براؤزر دی ترتیب سروس ورکرز دے نال مطابقت نہیں رکھیندی۔ <a>ودھیک ڄاݨو</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = منسلک براؤزر دا ہک پراݨا ورژن ہے ({ $runtimeVersion })۔ کم از کم تعاون یافتہ ورژن ({ $minVersion }) ہے۔ ایہ ہک غیر تعاون یافتہ سیٹ اپ ہے تے ایہ DevTools دے ناکام تھیوݨ دا سبب بن سڳدا ہے۔ براہ مہربانی منسلک براؤزر کوں اپ ڈیٹ کرو۔ <a>مسئلہ حل کرݨ </a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Firefox دا ایہ ورژن Firefox for Android (68) کوݨ ڈیبگ نہیں کر سڳدا۔ اساں جانچ کیتے تہاݙے فون تے Android Nightly کیتے Firefox انسٹال کرݨ دی تجویز کریندے او۔ <a>ودھیک تفصیلاں</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = منسلک براؤزر تہاݙے { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) کنوں زیادہ حالیہ ({ $runtimeVersion }, buildID { $runtimeID }) ہے۔ ایہ ہک غیر تعاون یافتہ سیٹ اپ ہے تے ایہ DevTools دے ناکام تھیوݨ دا سبب بݨ سڳدا ہے۔ براہ مہربانی فائر فاکس کوں اپ ڈیٹ کرو۔ <a>مسئلہ حل کرݨ</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
