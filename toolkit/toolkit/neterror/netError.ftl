@@ -53,6 +53,8 @@ neterror-dns-not-found-hint-firewall = Tarkistaa, että { -brand-short-name }ill
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } ei voi suojata tämän sivuston osoitepyyntöäsi luotettavan DNS-selvittäjän kautta. Tässä syy:
+neterror-dns-not-found-trr-only-attackers = Jos jatkat, kolmas osapuoli saattaa nähdä, millä verkkosivustoilla vierailet, tai lähettää sinut epäluotettavalle sivustolle.
 neterror-dns-not-found-trr-offline = Et ole yhteydessä Internetiin.
 neterror-dns-not-found-trr-unknown-problem = Odottamaton ongelma.
 
