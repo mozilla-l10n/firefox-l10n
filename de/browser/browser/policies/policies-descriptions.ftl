@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Umgehen einiger Sicherheitswarnungen durch Benutz
 policy-DisableSetAsDesktopBackground = "Als Hintergrundbild einrichten"-Menüeintrag deaktivieren
 policy-DisableSystemAddonUpdate = Installieren und Aktualisieren von System-Add-ons durch den Browser deaktivieren
 policy-DisableTelemetry = Datenerhebung zur Verbesserung von Firefox (Telemetrie) deaktivieren
+policy-DisableThirdPartyModuleBlocking = Verhindern, dass der Benutzer Module von Drittanbietern blockiert, die in den { -brand-short-name }-Prozess eingefügt werden
 policy-DisplayBookmarksToolbar = Lesezeichen-Symbolleiste standardmäßig anzeigen
 policy-DisplayMenuBar = Menüleiste standardmäßig anzeigen
 policy-DNSOverHTTPS = DNS über HTTPS einrichten
