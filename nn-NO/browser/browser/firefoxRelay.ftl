@@ -11,6 +11,7 @@
 
 ##
 
+firefox-relay-opt-in-title = Vern e-postadressa di
 firefox-relay-opt-in-subtitle = Legg til { -relay-brand-name }
 firefox-relay-generate-mask-title = Vern e-postadressa di
 firefox-relay-opt-in-confirmation-enable =
