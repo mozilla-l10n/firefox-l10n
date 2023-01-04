@@ -410,5 +410,19 @@ onboarding-infrequent-import-primary-button = Tuo { -brand-short-name }iin
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Henkilö työskentelemässä kannettavalla tietokoneella tähtien ja kukkien ympäröimänä
 mr2022-onboarding-default-image-alt =
     .aria-label = Henkilö halaamassa { -brand-product-name }-logoa
+mr2022-onboarding-import-image-alt =
+    .aria-label = Henkilö rullalautailemassa ohjelmistokuvakkeiden keskellä
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Sammakot hyppimässä QR-koodin sävytteisten liljalehtien kanssa, ladatakseen { -brand-product-name }in mobiililaitteelle.
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Taikasauva saa { -brand-product-name }in yksityisen selauksen logon ilmestymään hatusta
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Vaalea- ja tummaihoiset kädet tekemässä ylävitosta
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Näkymä auringonlaskuun ikkunan läpi, jossa on kettu ja huonekasvi ikkunalaudalla
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Käsisuihke maalaa värikkään kollaasin vihreästä silmästä, oranssista kengästä, punaisesta koripallosta, violeteista kuulokkeista, sinisestä sydämestä ja keltaisesta kruunusta

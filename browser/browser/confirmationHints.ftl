@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Salasana tallennettu!
 confirmation-hint-pin-tab = Kiinnitetty!
 confirmation-hint-pin-tab-description = Napsauta välilehteä oikealla painikkeella poistaaksesi kiinnityksen.
 confirmation-hint-send-to-device = Lähetetty!
+confirmation-hint-firefox-relay-mask-generated = Uusi { -relay-brand-short-name }-maski luotu!
