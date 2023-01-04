@@ -54,6 +54,13 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Jelenleg blokkolva. Kattintson a blokkolás feloldásához.
     .aria-label = Jelenleg blokkolva. Kattintson a blokkolás feloldásához.
+third-party-button-to-unblock-disabled =
+    .title =
+        Jelenleg tiltottként van megjelölve, bár a tiltólista le van tiltva a { -brand-short-name }
+        jelenlegi futásánál. Kattintson a feloldásához.
+    .aria-label =
+        Jelenleg tiltottként van megjelölve, bár a tiltólista le van tiltva a { -brand-short-name }
+        jelenlegi futásánál. Kattintson a feloldásához.
 third-party-button-expand =
     .title = Részletes információk megjelenítése
 third-party-button-collapse =
