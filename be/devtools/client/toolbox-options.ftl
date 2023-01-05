@@ -12,7 +12,7 @@
 options-select-default-tools-label = Прадвызначаныя прылады распрацоўшчыка
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
-options-tool-not-supported-label = * Не падтрымліваецца скрынкай прыладаў для цяперашняй адзінкі
+options-tool-not-supported-label = * Не падтрымліваецца для цяперашняй мэты інструмента
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Прылады распрацоўшчыка, усталяваныя дадаткамі
@@ -99,7 +99,7 @@ options-disable-http-cache-tooltip =
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Забараніць JavaScript *
 options-disable-javascript-tooltip =
-    .title = Уключэнне гэтага параметра забароніць JavaScript у гэтачасовай устаўцы. Параметр забудзецца пасля закрыцця ўстаўкі або скрынкі прыладаў.
+    .title = Уключэнне гэтага параметра адключыць JavaScript у дзейнай картцы. Параметр забудзецца пасля закрыцця карткі або прылад распрацоўкі.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Уключыць панэлі прылад для адладкі выгляду і дадаткаў браўзера
 options-enable-chrome-tooltip =
