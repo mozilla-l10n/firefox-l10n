@@ -53,6 +53,13 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Ko’ág̃a ojejoko. Eikutu embojuruja hag̃ua.
     .aria-label = Ko’ág̃a ojejoko. Eikutu embojuruja hag̃ua.
+third-party-button-to-unblock-disabled =
+    .title =
+        Ko’ag̃aite ojejokohína, jepémo pe tysýi jejokoha ndaijurujái ko tembiapo
+        { -brand-short-name }-pe g̃uarã. Eikutu embojuruja hag̃ua.
+    .aria-label =
+        Ko’ag̃aite ojejokohína, jepémo pe tysýi jejokoha ndaijurujái ko tembiapo
+        { -brand-short-name }-pe g̃uarã. Eikutu embojuruja hag̃ua.
 third-party-button-expand =
     .title = Ehechaukapaite marandu
 third-party-button-collapse =
