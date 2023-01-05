@@ -9,9 +9,11 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 firefox-relay-mask-generation-failed = { -relay-brand-name } não conseguiu gerar uma nova máscara. Código de erro HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = O { -relay-brand-name } não encontrou máscaras reutilizáveis. Código de erro HTTP: { $status }.
 
 ##
 
+firefox-relay-must-login-to-fxa = Deve iniciar sessão na { -fxaccount-brand-name } para utilizar o { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Gerir máscaras
     .accesskey = G

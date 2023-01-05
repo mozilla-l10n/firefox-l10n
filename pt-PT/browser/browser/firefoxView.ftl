@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = Para obter os seus separador
 firefoxview-tabpickup-password-locked-link = Saber mais
 firefoxview-tabpickup-password-locked-primarybutton = Inserir a Palavra-passe principal
 firefoxview-tabpickup-signed-out-header = Iniciar sessão para restabelecer a ligação
+firefoxview-tabpickup-signed-out-description = Para reassociar e aceder aos seus separadores, inicie sessão na { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sessão
 firefoxview-tabpickup-syncing = Aguarde enquanto os seus separadores estão a ser sincronizados. Será apenas um momento.
 firefoxview-mobile-promo-header = Obter separadores do seu telemóvel ou tablet
