@@ -201,7 +201,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Дадаць старонку ў закладкі ({ $shortcut })
+    .tooltiptext = Зрабіць закладку на старонку ({ $shortcut })
 
 ## Page Action Context Menu
 
