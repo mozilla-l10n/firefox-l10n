@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Exceções para a Proteção melhorada contra a monitorização
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Desativou as proteções nestes sites.
+permissions-exceptions-manage-etp-desc = Pode especificar que sites têm a Proteção melhorada contra a monitorização desativada. Especifique o endereço exato do site que deseja gerir e clique em Adicionar exceção.
 
 ## Exceptions - Cookies
 
