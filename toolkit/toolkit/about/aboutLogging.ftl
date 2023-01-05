@@ -62,4 +62,8 @@ about-logging-error = Erro:
 
 about-logging-invalid-output = Valor inválido “{ $v }“ para a chave “{ $k }“
 about-logging-unknown-logging-preset = Modelo de registo desconhecida “{ $v }“
+about-logging-unknown-profiler-preset = Modelo de gerador de perfis desconhecido “{ $v }“
+about-logging-unknown-option = Opção about:logging “{ $k }“ desconhecida
+about-logging-configuration-url-ignored = URL de configuração ignorado
+about-logging-file-and-profiler-override = Não é possível forçar a saída para ficheiro e substituir as opções do gerador de perfis em simultâneo
 about-logging-configured-via-url = Opção configurada via URL
