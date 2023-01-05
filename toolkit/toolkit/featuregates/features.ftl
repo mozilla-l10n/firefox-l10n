@@ -6,7 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: выклад «Masonry»
-experimental-features-css-masonry-description = Актывуе падтрымку эксперыментальнай функцыі CSS Masonry Layout. Зазірніце ў <a data-l10n-name="explainer"> тлумачальнік</a> для атрымання падрабязнага апісання функцыі. Пакідайце водгукі і каментарыі ў <a data-l10n-name="w3c-issue">гэтай тэме на GitHub</a> альбо <a data-l10n-name="bug"> ў гэтым спісе памылак</a>.
+experimental-features-css-masonry-description = Актывуе падтрымку эксперыментальнай функцыі CSS Masonry Layout. Зазірніце ў <a data-l10n-name="explainer"> тлумачальнік </a> для атрымання падрабязнага апісання функцыі. Каб пакінуць водгук, каментуйце ў <a data-l10n-name="w3c-issue"> гэтай тэме на GitHub </a> альбо <a data-l10n-name="bug"> ў гэтым спісе хібаў </a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
