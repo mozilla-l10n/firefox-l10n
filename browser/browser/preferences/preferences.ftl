@@ -1020,7 +1020,7 @@ content-blocking-and-isolating-etp-warning-description-2 = Гэта налада
 content-blocking-warning-learn-how = Даведацца, як
 content-blocking-reload-description = Вам трэба будзе перазагрузіць свае карткі, каб прымяніць гэтыя змены.
 content-blocking-reload-tabs-button =
-    .label = Абнавіць усе карткі
+    .label = Перачытаць усе карткі
     .accesskey = к
 content-blocking-tracking-content-label =
     .label = Элементы сачэння
@@ -1085,7 +1085,7 @@ permissions-autoplay-settings =
     .label = Налады…
     .accesskey = Н
 permissions-block-popups =
-    .label = Блакаваць усплывальныя вокны
+    .label = Блакаваць выплыўныя вокны
     .accesskey = Б
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.

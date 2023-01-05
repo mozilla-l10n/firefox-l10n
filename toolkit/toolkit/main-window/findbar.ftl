@@ -20,11 +20,11 @@ findbar-highlight-all2 =
         }
     .tooltiptext = Падфарбаваць усе уваходжанні фразы
 findbar-case-sensitive =
-    .label = З улікам рэгістра
+    .label = Адрозніваць вялікія/малыя літары
     .accesskey = р
     .tooltiptext = Адрозніваць вялікія/малыя літары падчас пошуку
 findbar-match-diacritics =
-    .label = З улікам дыякрытычных знакаў
+    .label = З улікам дыякрытык
     .accesskey = З
     .tooltiptext = Адрозніваць акцэнтаваныя літары і іх асноўную форму (напрыклад, пры пошуку “resume”, “résumé” не будзе адпавядаць)
 findbar-entire-word =
@@ -41,9 +41,9 @@ findbar-fast-find =
 findbar-fast-find-links =
     .placeholder = Хуткі пошук (толькі спасылкі)
 findbar-case-sensitive-status =
-    .value = (З улікам рэгістра)
+    .value = (Адрозніваць вялікія/малыя літары)
 findbar-match-diacritics-status =
-    .value = (З улікам дыякрытычных знакаў)
+    .value = (З улікам дыякрытык)
 findbar-entire-word-status =
     .value = (Толькі словы цалкам)
 # Variables:

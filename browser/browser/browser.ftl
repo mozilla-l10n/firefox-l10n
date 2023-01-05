@@ -185,7 +185,7 @@ urlbar-screen-blocked =
 urlbar-persistent-storage-blocked =
     .tooltiptext = Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.
 urlbar-popup-blocked =
-    .tooltiptext = Вы заблакавалі ўсплывальныя вокны для гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Вы заблакавалі аўтапрайграванне медый з гукам на гэтым вэб-сайце.
 urlbar-canvas-blocked =
@@ -870,20 +870,20 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = Дазволіць усплывальныя вокны для { $uriHost }
+    .label = Дазволіць выплыўныя вокны з { $uriHost }
     .accesskey = Д
 popups-infobar-block =
-    .label = Блакаваць усплывальныя вокны для { $uriHost }
-    .accesskey = Б
+    .label = Блакаваць выплыўныя вокны з { $uriHost }
+    .accesskey = Д
 
 ##
 
 popups-infobar-dont-show-message =
-    .label = Не паказваць гэта паведамленне, калі ўсплывальныя вокны заблакаваны
+    .label = Не паказваць паведамленне, калі выплыўныя вокны заблакаваны
     .accesskey = Н
 edit-popup-settings =
-    .label = Кіраваць наладамі ўсплывальных вокнаў…
-    .accesskey = К
+    .label = Кіраваць наладамі ўсплыўных вокнаў…
+    .accesskey = ь
 picture-in-picture-hide-toggle =
     .label = Схаваць пераключальнік Выява ў выяве
     .accesskey = р
