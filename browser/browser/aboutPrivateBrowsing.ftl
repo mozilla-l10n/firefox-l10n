@@ -44,7 +44,7 @@ about-private-browsing-search-banner-title = { $engineName } - ваш прадв
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Каб выбраць іншую пошукавую сістэму, перайдзіце да <a data-l10n-name="link-options">Налад</a>
-       *[other] Каб выбраць іншую пошукавую сістэму, перайдзіце да <a data-l10n-name="link-options">Налад</a>
+       *[other] Каб выбраць іншую пошукавую сістэму, перайдзіце да <a data-l10n-name="link-options">Пераваг</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Закрыць

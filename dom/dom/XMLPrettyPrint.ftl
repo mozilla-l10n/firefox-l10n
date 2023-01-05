@@ -2,4 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xml-nostylesheet = З гэтым XML-файлам не звязана ніводная табліца стыляў. Ніжэй паказана дрэва элементаў.
+xml-nostylesheet = Гэты файл XML не мае ніякіх звестак аб стылі, спалучаных з ім. Дрэва дакумента паказана ніжэй.
