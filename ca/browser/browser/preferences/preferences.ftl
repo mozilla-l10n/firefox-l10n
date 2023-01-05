@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Inici del Firefox (per defecte)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Per defecte)
 home-mode-choice-custom =
     .label = URL personalitzats…
 home-mode-choice-blank =
@@ -515,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Contingut d'inici del Firefox
 home-prefs-content-description = Trieu el contingut que voleu a la pantalla d'inici del Firefox.
+home-prefs-content-header2 = Contingut de l'{ -firefox-home-brand-name }
+home-prefs-content-description2 = Trieu el contingut que voleu en la pantalla d'{ -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Cerca web
 home-prefs-shortcuts-header =
@@ -980,6 +984,9 @@ content-blocking-fingerprinters = Generadors d'empremtes digitals
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Sigueu dels primers de provar les funcions de privadesa més potents que existeixen
     .accesskey = S
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on us trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre,
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació

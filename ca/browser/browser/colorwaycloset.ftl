@@ -17,6 +17,6 @@ colorway-intensity-bold = Atrevida
 colorway-closet-set-colorway-button = Defineix la combinació de colors
 colorway-closet-cancel-button = Cancel·la
 colorway-homepage-reset-prompt = Convertiu el { -firefox-home-brand-name } en la vostra pàgina d'inici més acolorida
-colorway-homepage-reset-success-message = D'ara endavant, el { -firefox-home-brand-name } és la vostra pàgina d'inici
+colorway-homepage-reset-success-message = D'ara endavant, l'{ -firefox-home-brand-name } és la vostra pàgina d'inici
 colorway-homepage-reset-apply-button = Aplica
 colorway-homepage-reset-undo-button = Desfés
