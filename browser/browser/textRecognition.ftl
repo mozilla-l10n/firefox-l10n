@@ -7,7 +7,7 @@
 ## in an image, and copies the results to the clipboard.
 
 text-recognition-modal-searching-title = Пошук тэксту ў відарысе…
-text-recognition-modal-results-title = Тэкст скапіяваны з відарыса
+text-recognition-modal-results-title = Тэкст скапіяваны з выявы
 text-recognition-modal-no-results-title = На жаль, не ўдалося атрымаць тэкст. Паспрабуйце іншы відарыс. <a data-l10n-name="error-link">Падрабязней</a>.
 text-recognition-modal-close-button = Закрыць
 # The title of the the modal is only available to screen readers.
