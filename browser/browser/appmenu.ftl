@@ -247,7 +247,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Уладкаваць панэлі інструментаў…
+    .label = Уладкаваць паліцы прылад…
 appmenu-developer-tools-subheader = Інструменты браўзера
 appmenu-developer-tools-extensions =
     .label = Пашырэнні для распрацоўшчыкаў
