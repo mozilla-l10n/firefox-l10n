@@ -54,7 +54,12 @@ neterror-dns-not-found-hint-firewall = Kontroller, om { -brand-short-name } har 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-attackers = Hvis du fortsætter, kan en tredjepart muligvis se, hvilke websteder du besøger, eller sende dig til et ikke-betroet websted.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunne ikke oprette forbindelse til { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Oprettelse af forbindelse til { $trrDomain } tog længere tid end ventet.
 neterror-dns-not-found-trr-offline = Du er ikke forbundet til internettet.
+neterror-dns-not-found-trr-unknown-host = En adresse til dette websted blev ikke fundet af { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Der opstod et problem med { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Uventet problem.
 
 ##
 
