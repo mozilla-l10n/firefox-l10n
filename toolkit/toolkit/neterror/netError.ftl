@@ -24,6 +24,8 @@ neterror-pref-reset-button = Restore default settings
 neterror-return-to-previous-page-button = Go Back
 neterror-return-to-previous-page-recommended-button = Go Back (Recommended)
 neterror-try-again-button = Try Again
+neterror-add-exception-button = Always continue for this site
+neterror-settings-button = Change DNS settings
 neterror-view-certificate-link = View Certificate
 
 ##
@@ -45,6 +47,18 @@ neterror-dns-not-found-hint-header = <strong>If you entered the right address, y
 neterror-dns-not-found-hint-try-again = Try again later
 neterror-dns-not-found-hint-check-network = Check your network connection
 neterror-dns-not-found-hint-firewall = Check that { -brand-short-name } has permission to access the web (you might be connected but behind a firewall)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-offline = You are not connected to the internet.
+neterror-dns-not-found-trr-server-problem = There was a problem with { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Unexpected problem.
+
+##
+
 neterror-file-not-found-filename = Check the file name for capitalization or other typing errors.
 neterror-file-not-found-moved = Check to see if the file was moved, renamed or deleted.
 neterror-access-denied = It may have been removed, moved, or file permissions may be preventing access.
