@@ -47,7 +47,7 @@ translation-notification-translated-to-suffix =
 ##
 
 translation-notification-show-original-button =
-    .label = Паказаць арыгінал
+    .label = Паказаць зыходнік
 translation-notification-show-translation-button =
     .label = Паказаць пераклад
 translation-notification-error-translating =

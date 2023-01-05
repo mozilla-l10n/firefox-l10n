@@ -212,7 +212,7 @@ about-debugging-debug-target-list-empty = Пакуль нічога.
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
-about-debugging-debug-target-inspect-button = Праверыць
+about-debugging-debug-target-inspect-button = Даследаваць
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Загрузіць часовы дадатак…
@@ -306,10 +306,11 @@ about-debugging-main-process-name = Галоўны працэс
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Галоўны працэс мэтавага браўзера
-# Displayed instead of the Main Process debug target when the preference
-# `devtools.browsertoolbox.fission` is true.
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-name = Шматпрацэсная панэль інструментаў
-# Description for the Multiprocess Toolbox target.
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = Асноўны працэс і працэсы змесціва для мэтавага браўзера
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =

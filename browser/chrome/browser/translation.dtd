@@ -42,7 +42,7 @@
 <!ENTITY translation.translatedTo.label         "з">
 <!ENTITY translation.translatedToSuffix.label   "на">
 
-<!ENTITY translation.showOriginal.button        "Паказаць арыгінал">
+<!ENTITY translation.showOriginal.button        "Паказаць зыходнік">
 <!ENTITY translation.showTranslation.button     "Паказаць пераклад">
 
 <!ENTITY translation.errorTranslating.label     "Здарылася памылка падчас перакладу гэтай старонкі.">

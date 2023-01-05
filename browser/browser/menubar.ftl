@@ -109,8 +109,8 @@ menu-file-go-offline =
 ## Edit Menu
 
 menu-edit =
-    .label = Рэдагаваць
-    .accesskey = Р
+    .label = Праўка
+    .accesskey = р
 menu-edit-find-in-page =
     .label = Знайсці на старонцы…
     .accesskey = а
@@ -124,8 +124,8 @@ menu-edit-bidi-switch-text-direction =
 ## View Menu
 
 menu-view =
-    .label = Выгляд
-    .accesskey = В
+    .label = Прагляд
+    .accesskey = П
 menu-view-toolbars-menu =
     .label = Панэлі інструментаў
     .accesskey = л
@@ -221,8 +221,8 @@ menu-history-undo-menu =
     .label = Нядаўна закрытыя карткі
 menu-history-undo-window-menu =
     .label = Нядаўна закрытыя вокны
-menu-history-reopen-all-tabs = Паўторна адкрыць усе карткі
-menu-history-reopen-all-windows = Паўторна адкрыць усе вокны
+menu-history-reopen-all-tabs = Пераадкрыць усе карткі
+menu-history-reopen-all-windows = Пераадкрыць усе вокны
 
 ## Bookmarks Menu
 
@@ -232,11 +232,11 @@ menu-bookmarks-menu =
 menu-bookmarks-manage =
     .label = Кіраванне закладкамі
 menu-bookmark-current-tab =
-    .label = Дадаць бягучую картку ў закладкі
+    .label = Зрабіць закладку на гэту картку
 menu-bookmark-edit =
     .label = Правіць гэтую закладку
 menu-bookmark-tab =
-    .label = Дадаць бягучую картку ў закладкі…
+    .label = Зрабіць закладку на гэту картку…
 menu-edit-bookmark =
     .label = Правіць гэтую закладку…
 menu-bookmarks-all-tabs =
@@ -252,7 +252,7 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = Інструменты
-    .accesskey = І
+    .accesskey = е
 menu-tools-downloads =
     .label = Сцягванні
     .accesskey = С

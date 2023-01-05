@@ -36,32 +36,32 @@ tabbrowser-close-tabs-tooltip =
 tabbrowser-mute-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Выключыць гук на картцы ({ $shortcut })
-            [few] Выключыць гук на { $tabCount } картках ({ $shortcut })
-           *[many] Выключыць гук на { $tabCount } картках ({ $shortcut })
+            [one] Сцішыць картку ({ $shortcut })
+            [few] Сцішыць { $tabCount } карткі ({ $shortcut })
+           *[many] Сцішыць { $tabCount } картак ({ $shortcut })
         }
 # Variables:
 #   $shortcut (String): The keyboard shortcut for "Unmute tab".
 tabbrowser-unmute-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Уключыць гук на картцы ({ $shortcut })
-            [few] Уключыць гук на { $tabCount } картках ({ $shortcut })
-           *[many] Уключыць гук на { $tabCount } картках ({ $shortcut })
+            [one] Раз-цішыць картку ({ $shortcut })
+            [few] Раз-цішыць { $tabCount } карткі ({ $shortcut })
+           *[many] Раз-цішыць { $tabCount } картак ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
-            [one] Выключыць гук на картцы
-            [few] Выключыць гук на { $tabCount } картках
-           *[many] Выключыць гук на { $tabCount } картках
+            [one] Сцішыць картку
+            [few] Сцішыць { $tabCount } карткі
+           *[many] Сцішыць { $tabCount } картак
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
-            [one] Уключыць гук на картцы
-            [few] Уключыць гук на { $tabCount } картках
-           *[many] Уключыць гук на { $tabCount } картках
+            [one] Раз-цішыць картку
+            [few] Раз-цішыць { $tabCount } карткі
+           *[many] Раз-цішыць { $tabCount } картак
         }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
@@ -142,16 +142,16 @@ tabbrowser-customizemode-tab-title = Уладкаваць { -brand-short-name }
 ## Context menu buttons, of which only one will be visible at a time
 
 tabbrowser-context-mute-tab =
-    .label = Выключыць гук на картцы
-    .accesskey = В
+    .label = Сцішыць картку
+    .accesskey = С
 tabbrowser-context-unmute-tab =
-    .label = Уключыць гук на картцы
-    .accesskey = ь
+    .label = Раз-цішыць картку
+    .accesskey = Р
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
-    .label = Выключыць гук на картках
+    .label = Выключыць гук картак
     .accesskey = ь
 # The accesskey should match the accesskey for tabbrowser-context-unmute-tab
 tabbrowser-context-unmute-selected-tabs =
-    .label = Уключыць гук на картках
+    .label = Уключыць гук картак
     .accesskey = ь

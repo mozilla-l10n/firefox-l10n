@@ -345,9 +345,9 @@ quickactions-cmd-themes = тэмы
 quickactions-update = Абнавіць { -brand-short-name }
 quickactions-cmd-update = абнавіць
 # Opens the view-source UI with current pages source
-quickactions-viewsource = Праглядзець зыходны код
+quickactions-viewsource = Праглядзець зыходнік
 # Opens the view-source UI with current pages source
-quickactions-viewsource2 = Праглядзець зыходны код старонкі
+quickactions-viewsource2 = Паглядзець зыходнік старонкі
 quickactions-cmd-viewsource = прагляд зыходнага тэксту, код
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -475,17 +475,17 @@ browser-tab-audio-pip = ВЫЯВА-Ў-ВЫЯВЕ
 
 browser-tab-mute =
     { $count ->
-        [1] ВЫКЛЮЧЫЦЬ ГУК НА КАРТЦЫ
-        [one] ВЫКЛЮЧЫЦЬ ГУК НА КАРТЦЫ
-        [few] ВЫКЛЮЧЫЦЬ ГУК НА { $count } КАРТКАХ
-       *[many] ВЫКЛЮЧЫЦЬ ГУК НА { $count } КАРТКАХ
+        [1] ПРЫБРАЦЬ ГУК КАРТКІ
+        [one] ПРЫБРАЦЬ ГУК КАРТКІ
+        [few] ПРЫБРАЦЬ ГУК { $count } КАРТАК
+       *[many] ПРЫБРАЦЬ ГУК { $count } КАРТАК
     }
 browser-tab-unmute =
     { $count ->
-        [1] УКЛЮЧЫЦЬ ГУК НА КАРТЦЫ
-        [one] УКЛЮЧЫЦЬ ГУК НА КАРТЦЫ
-        [few] УКЛЮЧЫЦЬ ГУК НА { $count } КАРТКАХ
-       *[many] УКЛЮЧЫЦЬ ГУК НА { $count } КАРТКАХ
+        [1] УЗНАВІЦЬ ГУК КАРТКІ
+        [one] УЗНАВІЦЬ ГУК КАРТКІ
+        [few] УЗНАВІЦЬ ГУК { $count } КАРТАК
+       *[many] УЗНАВІЦЬ ГУК { $count } КАРТАК
     }
 browser-tab-unblock =
     { $count ->
@@ -773,10 +773,10 @@ bookmarks-toolbar-placeholder-button =
     .label = Элементы панэлі закладак
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-    .label = Дадаць бягучую картку ў закладкі
+    .label = Зрабіць закладку на гэту картку
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
-    .label = Дадаць бягучую картку ў закладкі…
+    .label = Зрабіць закладку на гэту картку…
 
 ## Library Panel items
 

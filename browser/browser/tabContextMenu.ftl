@@ -18,11 +18,11 @@ tab-context-play-tabs =
     .label = Прайграць карткі
     .accesskey = р
 duplicate-tab =
-    .label = Дубліраваць картку
+    .label = Дубляваць картку
     .accesskey = Д
 duplicate-tabs =
-    .label = Дубліраваць карткі
-    .accesskey = Д
+    .label = Дубляваць карткі
+    .accesskey = в
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
@@ -40,14 +40,14 @@ reload-tabs =
     .label = Абнавіць карткі
     .accesskey = К
 pin-tab =
-    .label = Замацаваць картку
-    .accesskey = З
+    .label = Прышпіліць картку
+    .accesskey = П
 unpin-tab =
     .label = Адмацаваць картку
     .accesskey = А
 pin-selected-tabs =
-    .label = Замацаваць карткі
-    .accesskey = З
+    .label = Прышпіліць карткі
+    .accesskey = ш
 unpin-selected-tabs =
     .label = Адмацаваць карткі
     .accesskey = і
@@ -58,7 +58,7 @@ bookmark-tab =
     .label = Дадаць закладку на картку
     .accesskey = ь
 tab-context-bookmark-tab =
-    .label = Дадаць картку ў закладкі…
+    .label = Зрабіць закладку на картку…
     .accesskey = і
 tab-context-open-in-new-container-tab =
     .label = Адкрыць у новай картцы ў кантэйнеры
@@ -85,10 +85,10 @@ tab-context-share-url =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Паўторна адкрыць закрытую картку
-            [one] Паўторна адкрыць закрытую картку
-            [few] Паўторна адкрыць закрытыя карткі
-           *[many] Паўторна адкрыць закрытыя карткі
+            [1] Пераадкрыць закрытую картку
+            [one] Пераадкрыць закрытую картку
+            [few] Пераадкрыць закрытыя карткі
+           *[many] Пераадкрыць закрытыя карткі
         }
     .accesskey = з
 tab-context-close-n-tabs =

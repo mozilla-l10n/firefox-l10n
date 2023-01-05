@@ -94,7 +94,7 @@ main-context-menu-bookmark-add =
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
-    .label = Дадаць старонку ў закладкі
+    .label = Зрабіць закладку
     .accesskey = ь
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
@@ -119,14 +119,14 @@ main-context-menu-bookmark-change-with-shortcut =
     .accesskey = а
     .tooltiptext = Правіць гэту закладку ({ $shortcut })
 main-context-menu-bookmark-page =
-    .aria-label = Дадаць старонку ў закладкі…
+    .aria-label = Зрабіць закладку…
     .accesskey = і
     .tooltiptext = Дадаць старонку ў закладкі
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-page-mac =
-    .label = Дадаць старонку ў закладкі…
+    .label = Зрабіць закладку…
     .accesskey = і
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
@@ -137,7 +137,7 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
-    .aria-label = Дадаць старонку ў закладкі…
+    .aria-label = Зрабіць закладку…
     .accesskey = ь
     .tooltiptext = Дадаць старонку ў закладкі ({ $shortcut })
 main-context-menu-edit-bookmark =
@@ -169,7 +169,7 @@ main-context-menu-bookmark-link =
     .label = Дадаць закладку на спасылку
     .accesskey = з
 main-context-menu-bookmark-link-2 =
-    .label = Дадаць спасылку ў закладкі…
+    .label = Зрабіць закладку на спасылку…
     .accesskey = і
 main-context-menu-save-link =
     .label = Захаваць спасылку як…
@@ -364,7 +364,7 @@ main-context-menu-frame-bookmark =
     .label = Дадаць закладку на гэту рамку
     .accesskey = р
 main-context-menu-frame-add-bookmark =
-    .label = Дадаць фрэйм у закладкі…
+    .label = Зрабіць закладку на рамку…
     .accesskey = ь
 main-context-menu-frame-save-as =
     .label = Захаваць рамку як…
@@ -373,7 +373,7 @@ main-context-menu-frame-print =
     .label = Друкаваць рамку…
     .accesskey = Д
 main-context-menu-frame-view-source =
-    .label = Праглядзець зыходны код фрэйма
+    .label = Праглядзець зыходнік рамкі
     .accesskey = з
 main-context-menu-frame-view-info =
     .label = Праглядзець звесткі пра рамку
@@ -385,7 +385,7 @@ main-context-menu-print-selection-2 =
     .label = Друкаваць вылучэнне…
     .accesskey = к
 main-context-menu-view-selection-source =
-    .label = Праглядзець зыходны код вылучэння
+    .label = Праглядзець зыходнік вылучэння
     .accesskey = л
 main-context-menu-take-screenshot =
     .label = Зрабіць здымак экрана
@@ -394,7 +394,7 @@ main-context-menu-take-frame-screenshot =
     .label = Зрабіць здымак экрана
     .accesskey = З
 main-context-menu-view-page-source =
-    .label = Праглядзець зыходны код старонкі
+    .label = Праглядзець зыходнік старонкі
     .accesskey = з
 main-context-menu-bidi-switch-text =
     .label = Пераключыць кірунак тэксту
@@ -403,10 +403,10 @@ main-context-menu-bidi-switch-page =
     .label = Пераключыць кірунак старонкі
     .accesskey = к
 main-context-menu-inspect =
-    .label = Праверыць
-    .accesskey = П
+    .label = Даследаваць
+    .accesskey = Д
 main-context-menu-inspect-a11y-properties =
-    .label = Праверыць уласцівасці даступнасці
+    .label = Даследаваць уласцівасці даступнасці
 main-context-menu-eme-learn-more =
     .label = Даведацца больш пра DRM…
     .accesskey = D
