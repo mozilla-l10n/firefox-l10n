@@ -84,4 +84,4 @@ protected-auth-token = Лексема:
 
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Аўтэнтыфікуйце токен “{ $tokenName }”. Як гэта зрабіць, залежыць ад токена (напрыклад, з дапамогай счытвальніка адбіткаў пальцаў або ўводу кода з клавіятуры).
+protected-auth-alert = Аўтэнтыфікуйце токен “{ $tokenName }”. Як гэта зрабіць, залежыць ад токена (напрыклад, з дапамогай сканера адбіткаў пальцаў або ўводу кода з клавіятуры).

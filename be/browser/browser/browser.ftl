@@ -337,7 +337,7 @@ quickactions-cmd-screenshot = здымак экрана
 quickactions-settings = Адкрыць налады
 # Opens about:preferences
 quickactions-settings2 = Кіраваць наладамі
-quickactions-cmd-settings = налады, параметры, опцыі
+quickactions-cmd-settings = налады, перавагі, параметры
 # Opens about:addons page in the themes section
 quickactions-themes = Кіраваць тэмамі
 quickactions-cmd-themes = тэмы
@@ -393,7 +393,7 @@ identity-header-security-with-host =
 identity-connection-not-secure = Злучэнне не бяспечнае
 identity-connection-secure = Бяспечнае злучэнне
 identity-connection-failure = Збой злучэння
-identity-connection-internal = Гэта бяспечная старонка { -brand-short-name }.
+identity-connection-internal = Гэта бяспечная { -brand-short-name } старонка.
 identity-connection-file = Гэта старонка захоўваецца на вашым камп'ютары.
 identity-extension-page = Гэтая старонка загружана з пашырэння.
 identity-active-blocked = { -brand-short-name } заблакаваў небяспечныя часткі старонкі.

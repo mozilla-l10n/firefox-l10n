@@ -116,7 +116,7 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = Забыцца на гэты сайт
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-message = Гэта дзеянне выдаліць усе дадзеныя, звязаныя з { $hostOrBaseDomain }, у тым ліку гісторыю, паролі, кукі, кэш і налады змесціва. Вы ўпэўнены, што хочаце працягнуць?
+places-forget-about-this-site-confirmation-message = Гэта дзеянне выдаліць усе дадзеныя, звязаныя з { $hostOrBaseDomain }, у тым ліку гісторыю, паролі, кукі, кэш і перавагі змесціва. Вы ўпэўнены, што хочаце працягнуць?
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = Гэта дзеянне выдаліць дадзеныя, звязаныя з { $hostOrBaseDomain }, у тым ліку гісторыю, кукі, кэш і налады змесціва. Звязаныя закладкі і паролі не будуць выдалены. Вы ўпэўнены, што хочаце працягнуць?
