@@ -8,6 +8,7 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } ບໍ່ສາມາດສ້າງຕົວປິດບັງໃໝ່ໄດ້. ລະຫັດຂໍ້ຜິດພາດ HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ບໍ່ສາມາດຊອກຫາໜ້າກາກທີ່ໃຊ້ຄືນໄດ້. ລະຫັດຂໍ້ຜິດພາດ HTTP: { $status }.
 
 ##
