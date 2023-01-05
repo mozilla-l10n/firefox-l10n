@@ -9,13 +9,13 @@
 ## Default Developer Tools section
 
 # The heading
-options-select-default-tools-label = Прадвызначаныя інструменты распрацоўшчыка
+options-select-default-tools-label = Прадвызначаныя прылады распрацоўшчыка
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Не падтрымліваецца скрынкай прыладаў для цяперашняй адзінкі
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
-options-select-additional-tools-label = Інструменты распрацоўшчыка, усталяваныя дадаткамі
+options-select-additional-tools-label = Прылады распрацоўшчыка, усталяваныя дадаткамі
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Даступныя кнопкі панэлі прылад
@@ -103,7 +103,7 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Уключыць панэлі прылад для адладкі выгляду і дадаткаў браўзера
 options-enable-chrome-tooltip =
-    .title = Калі ўключана, дазваляе выкарыстоўваць розныя інструменты распрацоўшчыка ў кантэксце браўзера (праз Інструменты > Вэб-распрацоўка > Інструменты браўзера) і адладжваць дадаткі з Кіраўніка дадаткаў
+    .title = Калі ўключана, дазваляе выкарыстоўваць розныя прылады распрацоўшчыка ў кантэксце браўзера (праз Прылады > Вэб-распрацоўка > Прылады браўзера) і адладжваць дадаткі з Кіраўніка дадаткаў
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Уключыць аддаленую адладку
 options-enable-remote-tooltip2 =

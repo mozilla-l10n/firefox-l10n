@@ -303,7 +303,7 @@ quickactions-cmd-extensions = пашырэнні
 quickactions-inspector = Адкрыць інспектар
 # Opens the devtools web inspector
 quickactions-inspector2 = Адкрыць Інструменты распрацоўшчыка
-quickactions-cmd-inspector = інспектар, інструменты распрацоўкі
+quickactions-cmd-inspector = інспектар, прылады распрацоўшчыка
 # Opens about:logins
 quickactions-logins = Прагляд лагінаў
 # Opens about:logins
@@ -539,7 +539,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Каб выкарыстоўваць спалучэнне клавіш F12, спачатку адкрыйце інструменты вэб-распрацоўшчыка праз меню Вэб-распрацоўка.
+enable-devtools-popup-description = Каб выкарыстаць клавішу F12, спачатку адкрыйце інструменты праз меню распрацоўкі сеціва.
 enable-devtools-popup-description2 = Каб выкарыстоўваць спалучэнне клавіш F12, спачатку адкрыйце інструменты вэб-распрацоўшчыка праз меню інструментаў браўзера.
 
 ## URL Bar
@@ -753,7 +753,7 @@ bookmarks-tools-menu-button-visibility =
 bookmarks-search =
     .label = Шукаць у закладках
 bookmarks-tools =
-    .label = Інструменты закладак
+    .label = Прылады закладак
 bookmarks-bookmark-edit-panel =
     .label = Правіць гэтую закладку
 bookmarks-subview-edit-bookmark =
