@@ -37,7 +37,7 @@ detail-last-updated =
     .label = Апошняе абнаўленне
 addon-detail-description-expand = Паказаць больш
 addon-detail-description-collapse = Паказаць менш
-detail-contributions-description = Распрацоўшчык гэтага дадатку просіць падтрымаць яго далейшае развіццё невялікім ахвяраваннем.
+detail-contributions-description = Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.
 detail-contributions-button = Зрабіць унёсак
     .title = Зрабіць унёсак у распрацоўку гэтага дадатку
     .accesskey = с
@@ -410,7 +410,7 @@ default-heading-search-label = Знайсці больш дадаткаў
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
 addon-page-options-button =
-    .title = Інструменты для ўсіх дадаткаў
+    .title = Прылады для ўсіх дадаткаў
 
 ## Detail notifications
 ## Variables:
