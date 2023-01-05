@@ -4,14 +4,14 @@
 
 customize-mode-restore-defaults =
     .label = Аднавіць прадвызначаныя
-customize-mode-menu-and-toolbars-header = Перацягніце ўлюбёныя элементы на панэль інструментаў або ў меню перапаўнення.
+customize-mode-menu-and-toolbars-header = Перацягніце ўлюбёныя элементы на паліцу прылад або ў меню перапаўнення.
 customize-mode-overflow-list-title = Меню перапаўнення
 customize-mode-uidensity =
     .label = Шчыльнасць
 customize-mode-done =
     .label = Гатова
 customize-mode-toolbars =
-    .label = Панэлі інструментаў
+    .label = Паліцы прылад
 customize-mode-titlebar =
     .label = Панэль загалоўка
 customize-mode-uidensity-menu-touch =
@@ -20,7 +20,7 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Дотык
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Выкарыстоўваць дотык для планшэтнага рэжыму
-customize-mode-overflow-list-description = Перацягніце элементы сюды, каб трымаць іх пад рукой, але не на панэлі інструментаў…
+customize-mode-overflow-list-description = Перацягніце элементы сюды, каб трымаць іх пад рукой, але не на паліцы прылад…
 customize-mode-uidensity-menu-normal =
     .label = Звычайна
     .accesskey = З
