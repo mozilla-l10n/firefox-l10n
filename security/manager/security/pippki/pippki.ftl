@@ -77,7 +77,7 @@ set-password-reminder = Увага: Калі вы забудзеце ваш па
 
 protected-auth-window =
     .title = Аўтарызацыя з абароненай лексемай
-protected-auth-msg = Выканайце аўтэнтыфікацыю з выкарыстаннем токена. Метад аўтэнтыфікацыі залежыць ад тыпу вашага токена.
+protected-auth-msg = Аўтарызуйцеся, калі ласка, да токена. Метад аўтарызацыі залежыць ад тыпу вашай сістэмы.
 protected-auth-token = Лексема:
 
 ## Protected authentication alert
