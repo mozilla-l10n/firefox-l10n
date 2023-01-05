@@ -76,6 +76,9 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = Navegació privada del { -brand-shortcut-name }
 
 ##
 
@@ -320,6 +323,9 @@ quickactions-cmd-update = actualitzar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Codi font
 quickactions-cmd-viewsource = mostra codi font, codi font
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Més informació sobre les accions ràpides
 
 ## Bookmark Panel
 
@@ -919,6 +925,10 @@ unified-extensions-button =
     .label = Extensions
     .tooltiptext = Extensions
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = El { -brand-short-name } ha evitat que la pàgina s'actualitzi automàticament.
@@ -926,3 +936,6 @@ refresh-blocked-redirect-label = El { -brand-short-name } ha evitat que la pàgi
 refresh-blocked-allow =
     .label = Permet
     .accesskey = P
+
+## Firefox Relay integration
+
