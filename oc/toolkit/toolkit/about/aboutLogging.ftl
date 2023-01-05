@@ -21,8 +21,10 @@
 
 # This is the title of the page
 about-logging-title = A prepaus de la jornalizacion
+about-logging-page-title = Gestionari de jornalizacion
 about-logging-current-log-file = Fichièr de jornalizacion actual :
 about-logging-current-log-modules = Moduls de jornalizacion actuals :
+about-logging-new-log-file = Fichièr de jornal novèl :
 about-logging-log-tutorial = Veire <a data-l10n-name="logging">HTTP Logging</a> per saber cossí utilizar aquesta aisina.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Dobrir lo repertòri
@@ -31,6 +33,8 @@ about-logging-set-log-modules = Definir de modul d'enregistrament pel jornal
 about-logging-start-logging = Començar la jornalizacion
 about-logging-stop-logging = Arrestar la jornalizacion
 about-logging-info = Info :
+about-logging-logging-output-selection = Sortida del jornal
+about-logging-logging-to-file = Jornalizar dins un fichièr
 
 ## Logging presets
 
