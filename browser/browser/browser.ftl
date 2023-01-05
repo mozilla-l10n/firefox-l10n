@@ -155,6 +155,8 @@ urlbar-result-menu-remove-from-history =
 
 urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engineName } directament des de la barra d'adreces.
 urlbar-search-tips-redirect-2 = Comenceu la vostra cerca en la barra d'adreces per veure suggeriments de { $engineName } i del vostre historial de navegació.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Ara la cerca és més senzilla. Proveu de fer la cerca més específica aquí a la barra d'adreces. Per a mostrar l'URL, visiteu Cerca, als paràmetres.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seleccioneu aquesta drecera per trobar el que necessiteu més ràpidament.
