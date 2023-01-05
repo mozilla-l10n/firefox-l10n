@@ -44,4 +44,5 @@ about-logging-error = Error :
 
 about-logging-invalid-output = Valor « { $v } » invalida  per la clau « { $k } »
 about-logging-configuration-url-ignored = URL de configuracion ignorada
+about-logging-file-and-profiler-override = Impossible de forçar la sortida del fichièr e de remplaçar las opcions del profilador a l’encòp
 about-logging-configured-via-url = Opcion configurada via URL
