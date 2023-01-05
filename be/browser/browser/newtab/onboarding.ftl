@@ -286,7 +286,7 @@ mr2022-onboarding-pin-primary-button-label =
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Пачніце з браўзера, які падтрымліваецца некамерцыйнай арганізацыяй. Мы абараняем вашу прыватнасць, пакуль вы вандруеце па сетцы.
+mr2022-onboarding-set-default-only-subtitle = Пачніце з браўзера, які падтрымліваецца некамерцыйнай арганізацыяй. Мы абараняем вашу прыватнасць, пакуль вы блукаеце па сетцы.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
