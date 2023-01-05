@@ -507,6 +507,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Per a usar la drecera F12, primer obriu DevTools en el menú Desenvolupador web.
+enable-devtools-popup-description2 = Per a usar la drecera F12, primer obriu les eines per a desenvolupadors des del menú Eines del navegador.
 
 ## URL Bar
 
