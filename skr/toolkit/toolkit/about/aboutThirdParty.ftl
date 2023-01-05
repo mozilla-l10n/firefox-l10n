@@ -53,10 +53,18 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = فی الحال بلاک ہے۔اݨ بلاک کیتے اینکوں کلک کرو۔
     .aria-label = فی الحال بلاک ہے۔اݨ بلاک کیتے اینکوں کلک کرو۔
+third-party-button-to-unblock-disabled =
+    .title =
+        فی الحال بلاک دے بطور نشان زد کیتا ڳیا ہے، حالانکہ بلاک لسٹ ایں چلݨ کیتے غیر فعال ہے
+        { -brand-short-name } دے۔ اینکوں ان بلاک کرݨ کیتے کلک کرو۔
+    .aria-label =
+        فی الحال بلاک دے بطور نشان زد کیتا ڳیا ہے، حالانکہ بلاک لسٹ ایندے چلݨ کیتے غیر فعال ہے
+        { -brand-short-name } دے۔ اینکوں ان بلاک کرݨ کیتے کلک کرو۔
 third-party-button-expand =
     .title = تفصیلی معلومات ݙکھاؤ
 third-party-button-collapse =
     .title = تفصیلی معلومات ولھیٹو
+third-party-requires-restart = { -brand-short-name } کوں ایہ تبدیل کرݨ کیتے ولدا شروع کرݨا چاہیدا ہے جو کیڑھے تریاکل ماڈیولز بلاک ہن۔
 third-party-should-restart-title = نویں سروں چلاؤ { -brand-short-name }
 third-party-should-restart-ok = { -brand-short-name } کوں ہݨیں دوبارہ شروع کرو۔
 third-party-restart-later = بعد اِچ نویں سروں شروع کرو

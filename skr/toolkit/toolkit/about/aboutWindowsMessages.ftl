@@ -11,4 +11,10 @@
 
 # Windows refers to the operating system
 windows-messages-page-title = ونڈوز سنیہیاں دی معلومات
+windows-messages-intro =
+    ایہ ورقہ ونڈوز دے ذریعے بھیڄے ڳئے نویں نکور سنیہے ݙیکھیندا ہے۔
+    { -brand-short-name } براؤزر ونڈوز تے۔ 
+    بولڈ انٹری اوں ونڈو دی نمائندگی کریندی ہے۔ نوٹ کرو جو ایہ ورقہ ݙکھیندا ہے
+    ورقہ دے لوڈ تھیوݨ دے ویلھے نویں نکور سنیہے؛
+    موجودہ کوں ݙیکھݨ کیتے تہاکوں ورقہ کوں تازہ کرݨا پوسے۔
 windows-messages-copy-to-clipboard = کلپ بورڈ تے نقل کرو
