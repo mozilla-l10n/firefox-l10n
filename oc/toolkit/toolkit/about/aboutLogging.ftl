@@ -42,4 +42,6 @@ about-logging-error = Error :
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Valor « { $v } » invalida  per la clau « { $k } »
+about-logging-configuration-url-ignored = URL de configuracion ignorada
 about-logging-configured-via-url = Opcion configurada via URL
