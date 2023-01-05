@@ -19,11 +19,12 @@ update-failed = L'actualització ha fallat. <label data-l10n-name="failed-link">
 update-failed-main = L'actualització ha fallat. <a data-l10n-name="failed-link-main">Baixeu la darrera versió</a>
 update-adminDisabled = L'administrador ha inhabilitat les actualitzacions
 update-noUpdatesFound = El { -brand-short-name } està actualitzat
+aboutdialog-update-checking-failed = No s'han pogut cercar actualitzacions.
 update-otherInstanceHandlingUpdates = Una altra instància està actualitzant el { -brand-short-name }
 update-manual = Hi ha actualitzacions disponibles a <label data-l10n-name="manual-link"/>
 update-unsupported = No podeu actualitzar en aquest sistema. <label data-l10n-name="unsupported-link">Més informació</label>
 update-restarting = S'està reiniciant…
-update-internal-error = No s'ha pogut cercar actualitzacions a causa d'un error intern. Hi ha actualitzacions disponibles a <label data-l10n-name="manual-link"/>
+update-internal-error = No s'han pogut cercar actualitzacions a causa d'un error intern. Hi ha actualitzacions disponibles a <label data-l10n-name="manual-link"/>
 channel-description = Actualment esteu al canal <label data-l10n-name="current-channel"></label> d'actualitzacions.
 warningDesc-version = El { -brand-short-name } és experimental i pot ser inestable.
 aboutdialog-help-user = Ajuda del { -brand-product-name }

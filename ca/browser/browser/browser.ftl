@@ -136,11 +136,17 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Obteniu ajuda
 urlbar-search-tips-confirm = Entesos
+urlbar-search-tips-confirm-short = Entesos
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Consell:
+urlbar-result-menu-button =
+    .title = Obre el menú
+urlbar-result-menu-remove-from-history =
+    .label = Elimina de l'historial
+    .accesskey = r
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -277,30 +283,42 @@ quickactions-addons = Mostra els complements
 quickactions-cmd-addons2 = complements
 # Opens the bookmarks library window
 quickactions-bookmarks = Mostra les adreces d'interès
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Gestiona les adreces d'interès
 quickactions-cmd-bookmarks = adreces d'interès
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Esborra l'historial
 quickactions-cmd-clearhistory = esborra l'historial
 # Opens about:downloads page
 quickactions-downloads = Obre les baixades
+# Opens about:downloads page
+quickactions-downloads2 = Mostra les baixades
 quickactions-cmd-downloads = baixades, descàrregues
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestiona les extensions
 quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
 quickactions-inspector = Obre l'inspector
+# Opens the devtools web inspector
+quickactions-inspector2 = Obre les eines per a desenvolupadors
 quickactions-cmd-inspector = inspector, devtools, desenvolupador
 # Opens about:logins
 quickactions-logins = Mostra els inicis de sessió
+# Opens about:logins
+quickactions-logins2 = Gestiona les contrasenyes
 quickactions-cmd-logins = inicis de sessió, contrasenyes, credencials
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gestiona els connectors
 quickactions-cmd-plugins = connectors
 # Opens the print dialog
 quickactions-print = Imprimeix
+# Opens the print dialog
+quickactions-print2 = Imprimeix la pàgina
 quickactions-cmd-print = imprimir, impressió, imprimeix
 # Opens a new private browsing window
 quickactions-private = Obre una finestra de navegació privada
+# Opens a new private browsing window
+quickactions-private2 = Obre una finestra privada
 quickactions-cmd-private = navegació privada
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Restableix el { -brand-short-name } a l'estat inicial
@@ -310,9 +328,13 @@ quickactions-restart = Reinicia el { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot2 = Fes una captura de pantalla
+# Opens the screenshot tool
+quickactions-screenshot3 = Fes una captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings = Obre els paràmetres
+# Opens about:preferences
+quickactions-settings2 = Gestiona els paràmetres
 quickactions-cmd-settings = paràmetres, configuració, preferències, opcions
 # Opens about:addons page in the themes section
 quickactions-themes = Gestiona els temes
@@ -322,6 +344,8 @@ quickactions-update = Actualitza el { -brand-short-name }
 quickactions-cmd-update = actualitzar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Codi font
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Codi font de la pàgina
 quickactions-cmd-viewsource = mostra codi font, codi font
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -929,6 +953,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Extensions
+    .tooltiptext =
+        Extensions
+        Calen permisos
 
 ## Autorefresh blocker
 
@@ -940,3 +969,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = El { -relay-brand-name } emmascara la vostra adreça electrònica real per ajudar a protegir-vos de les filtracions de dades i del correu brossa.
+firefox-relay-offer-how-we-integrate = Si continueu, podreu generar noves màscares de correu electrònic del { -relay-brand-short-name } directament des del gestor de contrasenyes del { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Tots els missatges de correu electrònic de <strong>{ $sitename }</strong> es reenviaran a <strong>{ $useremail }</strong>.
