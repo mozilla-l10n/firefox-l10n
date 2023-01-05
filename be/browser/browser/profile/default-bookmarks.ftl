@@ -28,7 +28,7 @@ default-bookmarks-nightly-heading = Рэсурсы Firefox Nightly
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = Блог Firefox Nightly
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-default-bookmarks-bugzilla = Сістэма асочвання памылак Mozilla
+default-bookmarks-bugzilla = Сістэма асочвання хібаў Mozilla
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = Сетка распрацоўшчыкаў Mozilla
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/

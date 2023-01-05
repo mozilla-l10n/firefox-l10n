@@ -23,10 +23,10 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Паўторна адкрыць закрытую картку
-            [one] Паўторна адкрыць закрытую картку
-            [few] Паўторна адкрыць закрытыя карткі
-           *[many] Паўторна адкрыць закрытыя карткі
+            [1] Пераадкрыць закрытую картку
+            [one] Пераадкрыць закрытую картку
+            [few] Пераадкрыць закрытыя карткі
+           *[many] Пераадкрыць закрытыя карткі
         }
     .accesskey = з
 toolbar-context-menu-manage-extension =
