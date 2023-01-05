@@ -10,6 +10,8 @@ profiledowngrade-window2 =
     .style = min-width: 490px;
 profiledowngrade-window-create =
     .label = نویں پروفائل بݨاؤ
+profiledowngrade-sync = { -brand-product-name } دا پراݨا ورژن استعمال کرݨ نال نشانیاں تے براؤزنگ تاریخ خراب تھی سڳدی ہے جیڑھی پہلے کنوں موجود { -brand-product-name } پروفائل وِچ محفوظ ہے۔ اپݨیاں معلومات دی حفاظت کیتے، { -brand-short-name } دی ایں انسٹالیشن کیتے ہک نواں پروفائل بݨاؤ۔ پروفائلاں دے درمیان اپݨیاں نشانیاں تے براؤزنگ ہسٹری کوں ہم آہنگ کرݨ کیتے تساں ہمیشاں { -fxaccount-brand-name } دے نال سائن ان کر سڳدے او۔
+profiledowngrade-nosync = { -brand-product-name } دا پراݨا ورژن استعمال کرݨ نال نشانیاں تے براؤزنگ ہسٹری خراب تھی سڳدی ہے جیڑھا پہلے کنوں موجود { -brand-product-name } پروفائل وِچ محفوظ ہے۔ اپݨیاں معلومات دی حفاظت کیتے، { -brand-short-name } دی ایں انسٹالیشن کیتے ہک نواں پروفائل بݨاؤ۔
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
