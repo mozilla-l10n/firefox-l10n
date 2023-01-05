@@ -799,6 +799,8 @@ forms-breach-alerts =
     .label = Mostrar alertas sobre as palavras-passe para os sites violados
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saber mais
+relay-integration =
+    .label = Ative o { -relay-brand-name } no seu gestor de palavras-passe do { -brand-short-name }
 relay-integration-learn-more-link = Saber mais
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
