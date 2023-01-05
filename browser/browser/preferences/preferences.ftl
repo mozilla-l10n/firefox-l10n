@@ -466,10 +466,10 @@ browsing-media-control =
     .accesskey = м
 browsing-media-control-learn-more = Падрабязней
 browsing-cfr-recommendations =
-    .label = Рэкамендаваць пашырэнні цягам аглядання
+    .label = Рэкамендаваць пашырэнні ў часе аглядання
     .accesskey = Р
 browsing-cfr-features =
-    .label = Рэкамендаваць функцыі цягам аглядання
+    .label = Рэкамендаваць функцыі ў часе аглядання
     .accesskey = а
 browsing-cfr-recommendations-learn-more = Падрабязней
 

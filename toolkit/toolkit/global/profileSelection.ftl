@@ -21,7 +21,7 @@ profile-selection-conflict-message = Іншы асобнік { -brand-product-na
 
 ## Messages used in the profile manager
 
-profile-manager-description = { -brand-short-name } захоўвае звесткі пра вашы налады, параметры і іншыя рэчы ў вашым асабістым профілі.
+profile-manager-description = { -brand-short-name } захоўвае звесткі пра вашы налады, перавагі і іншыя рэчы ў вашым профілі карыстальніка.
 profile-manager-work-offline =
     .label = Працаваць па-за сеткай
     .accesskey = п
