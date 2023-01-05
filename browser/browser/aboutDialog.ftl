@@ -19,6 +19,7 @@ update-failed = Update failed. <label data-l10n-name="failed-link">Download the 
 update-failed-main = Update failed. <a data-l10n-name="failed-link-main">Download the latest version</a>
 update-adminDisabled = Updates disabled by your system administrator
 update-noUpdatesFound = { -brand-short-name } is up to date
+aboutdialog-update-checking-failed = Failed to check for updates.
 update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by another instance
 update-manual = Updates available at <label data-l10n-name="manual-link"/>
 update-unsupported = You can not perform further updates on this system. <label data-l10n-name="unsupported-link">Learn more</label>
