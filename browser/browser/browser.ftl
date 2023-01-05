@@ -219,7 +219,7 @@ page-action-remove-extension2 =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Схаваць панэлі інструментаў
+    .label = Схаваць паліцы прылад
     .accesskey = х
 full-screen-exit =
     .label = Выйсці з поўнаэкраннага рэжыму
@@ -500,7 +500,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Імпартаваць закладкі…
     .tooltiptext = Імпартаваць закладкі з іншага браўзера ў { -brand-short-name }.
-bookmarks-toolbar-empty-message = Для хуткага доступу размясціце закладкі тут, на панэлі закладак. <a data-l10n-name="manage-bookmarks">Кіраванне закладкамі…</a>
+bookmarks-toolbar-empty-message = Для хуткага доступу размясціце закладкі тут, на паліцы закладак. <a data-l10n-name="manage-bookmarks">Кіраванне закладкамі…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -735,20 +735,20 @@ bookmarks-tools-sidebar-visibility =
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Схаваць панэль закладак
-           *[other] Паказаць панэль закладак
+            [true] Схаваць паліцу закладак
+           *[other] Паказаць паліцу закладак
         }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] Схаваць панэль закладак
-           *[other] Паказаць панэль закладак
+            [true] Схаваць паліцу закладак
+           *[other] Паказаць паліцу закладак
         }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Прыбраць меню закладак з панэлі інструментаў
-           *[other] Дадаць меню закладак на панэль інструментаў
+            [true] Прыбраць меню закладак з паліцы прылад
+           *[other] Дадаць меню закладак на паліцу прылад
         }
 bookmarks-search =
     .label = Шукаць у закладках
@@ -762,15 +762,15 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Панэль закладак
+    .toolbarname = Паліца закладак
     .accesskey = з
     .aria-label = Закладкі
 bookmarks-toolbar-menu =
-    .label = Панэль закладак
+    .label = Паліца закладак
 bookmarks-toolbar-placeholder =
-    .title = Элементы панэлі закладак
+    .title = Элементы паліцы закладак
 bookmarks-toolbar-placeholder-button =
-    .label = Элементы панэлі закладак
+    .label = Элементы паліцы закладак
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Зрабіць закладку на гэту картку
@@ -814,8 +814,8 @@ toolbar-settings-button =
            *[other] Адкрыць налады
         }
 toolbar-overflow-customize-button =
-    .label = Уладкаваць панэль інструментаў…
-    .accesskey = у
+    .label = Уладкаванне паліцы прылад…
+    .accesskey = У
 toolbar-button-email-link =
     .label = Даслаць спасылку эл.поштай
     .tooltiptext = Даслаць спасылку на гэту старонку эл.поштай

@@ -577,11 +577,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Панэль пошуку
+search-bar-header = Радок пошуку
 search-bar-hidden =
     .label = Выкарыстоўваць адрасны радок для пошуку і навігацыі
 search-bar-shown =
-    .label = Дадаць панэль пошуку на панэль інструментаў
+    .label = Дадаць радок пошуку на паліцу прылад
 search-engine-default-header = Прадвызначаны пашукавік
 search-engine-default-desc-2 = Гэта прадвызначаная пошукавая сістэма ў адрасным радку і радку пошуку. Вы можаце пераключыць яе ў любы час.
 search-engine-default-private-desc-2 = Выберыце іншую прадвызначаную пошукавую сістэму толькі для прыватных акон
