@@ -214,7 +214,7 @@ firefoxview-cfr-body-v2 = Recupere abas fechadas recentemente, além de alternar
 firefoxview-spotlight-promo-title = Apresentamos o { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Quer aquela aba aberta no celular? Está na mão. Precisa daquele site que você acabou de visitar? Pronto, está de volta com o { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Veja como funciona
+firefoxview-spotlight-promo-primarybutton = Ver como funciona
 firefoxview-spotlight-promo-secondarybutton = Pular
 
 ## Colorways expiry reminder CFR
