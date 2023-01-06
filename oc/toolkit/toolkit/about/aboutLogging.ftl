@@ -42,6 +42,7 @@ about-logging-logging-preset-selector-text = Prereglatge de jornalizacion :
 ## Logging presets
 
 about-logging-preset-networking-label = Ret
+about-logging-preset-media-playback-label = Lectura multimèdia
 about-logging-preset-custom-label = Personalizat
 about-logging-preset-custom-description = Moduls de jornalizacion seleccionats manualament
 # Error handling
