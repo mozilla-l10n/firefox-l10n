@@ -121,6 +121,8 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
        *[other] Dzēst visu
     }
 about-logins-confirm-export-dialog-title = Izgūt lietotājvārdus un paroles
+about-logins-confirm-export-dialog-confirm-button = Eksportēt…
+about-logins-alert-import-title = Importēšana pabeigta
 
 ## Breach Alert notification
 

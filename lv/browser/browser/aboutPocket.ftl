@@ -11,16 +11,16 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Pievienot birkas
-
-pocket-panel-saved-error-generic = Kļūda saglabājot { -pocket-brand-name }.
+pocket-panel-saved-error-generic = Mēģinot saglabāt { -pocket-brand-name }, radās kļūda.
 pocket-panel-saved-error-tag-length = Birkas nevar būt garākas par 25 simboliem
 pocket-panel-saved-error-only-links = Saglabāt var tikai saites
 pocket-panel-saved-error-not-saved = Lapa nav saglabāta
+pocket-panel-saved-error-no-internet = Lai saglabātu { -pocket-brand-name }, jābūt savienojumam ar internetu. Lūdzu pārbaudiet savienojumu un mēģiniet vēlreiz.
 pocket-panel-saved-page-removed = Lapa ir aizvākta
-pocket-panel-saved-page-saved = Saglabāt { -pocket-brand-name }
-pocket-panel-saved-processing-remove = Aizvāc lapu…
+pocket-panel-saved-page-saved = Saglabāts { -pocket-brand-name }
+pocket-panel-saved-processing-remove = Notiek lapas noņemšana…
 pocket-panel-saved-processing-tags = Pievieno birkas…
-pocket-panel-saved-remove-page = Izņemt lapu
+pocket-panel-saved-remove-page = Noņemt lapu
 pocket-panel-saved-save-tags = Saglabāt
 pocket-panel-saved-saving-tags = Saglabā…
 pocket-panel-saved-suggested-tags = Ieteiktās birkas
@@ -41,7 +41,9 @@ pocket-panel-signup-tagline-story-two = Skatiet ar { -pocket-brand-name } jebkur
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
