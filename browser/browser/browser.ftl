@@ -171,29 +171,29 @@ urlbar-search-mode-actions = Дзеянні
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Вы заблакавалі звесткі аб месцазнаходжанні для гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі звесткі аб месцазнаходжанні для гэтага сайта.
 urlbar-xr-blocked =
-    .tooltiptext = Вы заблакавалі доступ да прылад віртуальнай рэальнасці для гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі доступ да прылад віртуальнай рэальнасці для гэтага сайта.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Вы заблакавалі абвесткі з гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі абвесткі з гэтага сайта.
 urlbar-camera-blocked =
-    .tooltiptext = Вы заблакавалі сваю камеру на гэтым вэб-сайце.
+    .tooltiptext = Вы заблакавалі доступ да сваёй камеры для гэтага сайта.
 urlbar-microphone-blocked =
-    .tooltiptext = Вы заблакавалі свой мікрафон на гэтым вэб-сайце.
+    .tooltiptext = Вы заблакавалі свой мікрафон на гэтым сайце.
 urlbar-screen-blocked =
-    .tooltiptext = Вы заблакавалі гэтаму вэб-сайту магчымасць бачыць ваш экран.
+    .tooltiptext = Вы заблакавалі гэтаму сайту магчымасць бачыць ваш экран.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі захоўванне звестак для гэтага сайта.
 urlbar-popup-blocked =
-    .tooltiptext = Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі выплыўныя вокны для гэтага сайта.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = Вы заблакавалі аўтапрайграванне медый з гукам на гэтым вэб-сайце.
+    .tooltiptext = Вы заблакавалі аўтапрайграванне медый з гукам на гэтым сайце.
 urlbar-canvas-blocked =
-    .tooltiptext = Вы заблакавалі выманне дадзеных canvas для гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі выманне дадзеных canvas для гэтага сайта.
 urlbar-midi-blocked =
-    .tooltiptext = Вы заблакавалі MIDI доступ для гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі доступ да MIDI для гэтага сайта.
 urlbar-install-blocked =
-    .tooltiptext = Вы заблакавалі ўсталяванне дадаткаў з гэтага вэб-сайта.
+    .tooltiptext = Вы заблакавалі ўсталяванне дадаткаў з гэтага сайта.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -429,12 +429,12 @@ identity-remove-cert-exception =
 identity-description-insecure = Ваша злучэнне з гэтым сайтам не з'яўляецца прыватным. Інфармацыя, якую вы ўводзіце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).
 identity-description-insecure-login-forms = Ідэнтыфікацыйная інфармацыя, уведзеная на гэтай старонцы, можа быць скампраметавана.
 identity-description-weak-cipher-intro = Вашае злучэнне з гэтым сайтам ўжывае слабы тып шыфравання і не з'яўляецца прыватным.
-identity-description-weak-cipher-risk = Іншыя людзі могуць праглядаць вашу асабістую інфармацыю або змяніць паводзіны вэб-сайта.
+identity-description-weak-cipher-risk = Іншыя людзі могуць праглядаць вашу асабістую інфармацыю або змяніць паводзіны сайта.
 identity-description-active-blocked = { -brand-short-name } заблакаваў небяспечныя часткі старонкі. <label data-l10n-name="link">Даведацца больш</label>
 identity-description-passive-loaded = Ваша злучэнне не з'яўляецца прыватным і інфармацыя, якую вы ўводзіце, можа быць бачная для іншых.
 identity-description-passive-loaded-insecure = Гэты сайт мае небяспечны змест (напрыклад, выявы). <label data-l10n-name="link">Даведацца больш</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } заблакаваў некаторае змесціва, але яно яшчэ застаецца на гэтай старонцы (напрыклад, выявы). <label data-l10n-name="link">Даведацца больш</label>
-identity-description-active-loaded = Гэты вэб-сайт змяшчае неабароненае змесціва (такое, як сцэнары) і ваша злучэнне з ім не з'яўляецца прыватным.
+identity-description-active-loaded = Гэты сайт змяшчае неабароненае змесціва (такое, як сцэнарыі) і ваша злучэнне з ім не з'яўляецца прыватным.
 identity-description-active-loaded-insecure = Інфармацыя, якую вы ўводзіце на гэтым сайце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).
 identity-learn-more =
     .value = Даведацца больш
@@ -590,7 +590,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = Браўзер пад дыстанцыйным кіраваннем (прычына: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Вы далі гэтаму вэб-сайту дадатковыя дазволы.
+    .tooltiptext = Вы далі гэтаму сайту дадатковыя дазволы.
 urlbar-switch-to-tab =
     .value = Пераключыцца ў картку:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
