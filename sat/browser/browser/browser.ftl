@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = ᱥᱚᱞᱦᱟ:
 urlbar-result-menu-button =
     .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
+urlbar-result-menu-remove-from-history =
+    .label = ᱦᱤᱛᱟᱹᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = R
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -948,3 +951,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ᱟᱪ ᱛᱮ ᱮᱴᱟ�
 refresh-blocked-allow =
     .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
     .accesskey = A
+
+## Firefox Relay integration
+

@@ -228,6 +228,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = ᱰᱟᱩᱱᱞᱚᱰ ᱵᱷᱩᱞ
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = ᱰᱟᱣᱱᱞᱚᱰᱟᱜ ᱫᱚ ᱥᱟᱧᱪᱟᱣ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ { $extension } ᱛᱮ ᱟᱠᱚᱴ ᱠᱟᱱᱟ ᱾
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = ᱰᱟᱣᱱᱞᱚᱰᱟᱜ ᱫᱚ ᱥᱟᱧᱪᱟᱣ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱛᱮ ᱟᱠᱚᱴ ᱠᱟᱱᱟ ᱾
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚ ᱵᱟᱝ ᱥᱟᱸᱪᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱢᱤᱫ ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱵᱷᱩᱞ ᱟᱠᱟᱱᱟ ᱾
