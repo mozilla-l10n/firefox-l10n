@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Passord lagret!
 confirmation-hint-pin-tab = Festet!
 confirmation-hint-pin-tab-description = Høyreklikk på fanen for å løsne den.
 confirmation-hint-send-to-device = Sendt!
+confirmation-hint-firefox-relay-mask-generated = Ny { -relay-brand-short-name }-maske generert!
