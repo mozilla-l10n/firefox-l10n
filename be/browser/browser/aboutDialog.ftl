@@ -12,8 +12,8 @@ update-updateButton =
     .label = Перазапуск для абнаўлення { -brand-shorter-name }
     .accesskey = П
 update-checkingForUpdates = Праверка існавання абнаўленняў…
-update-downloading = <img data-l10n-name="icon"/>Сцягванне абнаўлення — <label data-l10n-name="download-status"/>
-update-downloading-message = Сцягванне абнаўлення — <label data-l10n-name="download-status"/>
+update-downloading = <img data-l10n-name="icon"/>Сцягваецца абнаўленне — <label data-l10n-name="download-status"/>
+update-downloading-message = Сцягваецца абнаўленне — <label data-l10n-name="download-status"/>
 update-applying = Прымяняецца абнаўленне…
 update-failed = Няўдача абнаўлення. <label data-l10n-name="failed-link">Сцягнуць апошнюю версію</label>
 update-failed-main = Няўдача абнаўлення. <a data-l10n-name="failed-link-main">Сцягнуць апошнюю версію</a>
