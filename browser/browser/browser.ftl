@@ -172,6 +172,8 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens about:logins
+quickactions-logins2 = Pārvaldīt paroles
 
 ## Bookmark Panel
 
@@ -493,6 +495,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } liedza šai lapai iespēju automātiski pārlādēties.
@@ -500,3 +506,6 @@ refresh-blocked-redirect-label = { -brand-short-name } liedza šai lapai iespēj
 refresh-blocked-allow =
     .label = Atļaut
     .accesskey = A
+
+## Firefox Relay integration
+

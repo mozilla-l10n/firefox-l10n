@@ -5,6 +5,10 @@
 
 ## App Menu
 
+appmenuitem-banner-update-downloading =
+    .label = Notiek { -brand-shorter-name } atjauninājuma lejupielāde
+appmenuitem-banner-update-available =
+    .label = Pieejams atjauninājums — lejupielādējiet tūlīt
 appmenuitem-new-tab =
     .label = Jauna cilne
 appmenuitem-new-window =
@@ -21,8 +25,16 @@ appmenuitem-print =
     .label = Drukāt…
 appmenuitem-zoom =
     .value = Mērogs
+appmenuitem-more-tools =
+    .label = Citi rīki
 appmenuitem-help =
     .label = Palīdzība
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Iziet
+           *[other] Iziet
+        }
 
 ## Zoom and Fullscreen Controls
 
@@ -35,6 +47,8 @@ appmenuitem-fullscreen =
 appmenu-remote-tabs-notabs = Nav atvērto cilņu
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.
+appmenu-remote-tabs-opensettings =
+    .label = Iestatījumi
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Gribat redzēt cilnes no citām savām ierīcēm?
