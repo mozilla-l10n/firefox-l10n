@@ -113,7 +113,7 @@ private-browsing-description2 =
     { -brand-short-name } modifica lo foncionament de las extensions dins la navegacion privada. Cap de las novèlas extensions qu'apondètz a
     { -brand-short-name } serà pas executada per defaut dins una fenèstra privada. Levat se l'autorisatz dins los paramètres,
     l'extension foncionarà pas pendent la navegacion privada e aurà pas accès a vòstras activitats en linha
-    Avèm aportat aquesta modificacion per gardar vòstra navigacion privada privada.
+    Avèm aportat aquesta modificacion per gardar vòstra navegacion privada privada.
     <label data-l10n-name="private-browsing-learn-more">Aprenètz a gerir los paramètres d'extension</label>
 addon-category-discover = Recomandacions
 addon-category-discover-title =
