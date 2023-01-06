@@ -3,16 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Firefox Brand
-##
-## Firefox must be treated as a brand, and kept in English.
-## It cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
-##
-## Reference: https://www.mozilla.org/styleguide/communications/translation/
-
 ## Firefox and Mozilla Brand
 ##
 ## Firefox and Mozilla must be treated as a brand.
@@ -30,10 +20,9 @@
 -brand-shorter-name = Firefox
 -brand-short-name = Firefox
 -brand-shortcut-name = Firefox
-
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox un Firefox logo ir Mozilla Fonda preču zīmes.
+trademarkInfo = Firefox un Firefox logotipi ir Mozilla Fonda preču zīmes.
