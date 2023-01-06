@@ -329,7 +329,7 @@ quickactions-cmd-refresh = обновить
 quickactions-restart = Перезапустить { -brand-short-name }
 quickactions-cmd-restart = перезапустить
 # Opens the screenshot tool
-quickactions-screenshot2 = Сделать скриншот
+quickactions-screenshot2 = Сделать снимок экрана
 # Opens the screenshot tool
 quickactions-screenshot3 = Сделать снимок экрана
 quickactions-cmd-screenshot = скриншот
