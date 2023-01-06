@@ -7,7 +7,7 @@ print-setup =
 custom-prompt-title = Выбарачнае…
 custom-prompt-prompt = Увядзіце ваш выбарачны тэкст калантытулаў
 basic-tab =
-    .label = Фармат & налады
+    .label = Фармат і параметры
 advanced-tab =
     .label = Прымежкі і калантытулы
 format-group-label =
@@ -103,7 +103,6 @@ print-window =
     .title = Друкаванне
 print-complete =
     .value = Друкаванне выканана.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

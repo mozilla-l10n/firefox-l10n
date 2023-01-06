@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Лагіны & паролі
+about-logins-page-title = Лагіны і паролі
 login-filter =
     .placeholder = Шукаць лагіны
 create-login-button = Дадаць новы лагін
