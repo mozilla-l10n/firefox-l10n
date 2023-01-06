@@ -512,6 +512,12 @@ urlbar-result-action-visit = ຢ້ຽມຢາມ
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = ກົດ Tab ເພື່ອຊອກຫາດ້ວຍ { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = ກົດ Tab ເພື່ອຊອກຫາ { $engine }

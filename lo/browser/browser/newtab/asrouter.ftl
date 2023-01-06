@@ -65,6 +65,7 @@ cfr-badge-reader-label-newfeature = ຄຸນ​ນະ​ສົມ​ບັດ�
 cfr-whatsnew-button =
     .label = ມີ​ຫຍັງ​ໃຫມ່
     .tooltiptext = ມີ​ຫຍັງ​ໃຫມ່
+cfr-whatsnew-release-notes-link-text = ອ່ານບັນທຶກການປ່ອຍ
 
 ## Enhanced Tracking Protection Milestones
 
