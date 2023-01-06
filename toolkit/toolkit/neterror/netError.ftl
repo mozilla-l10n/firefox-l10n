@@ -53,6 +53,7 @@ neterror-dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有联
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } 无法通过可信 DNS 解析器保护您对本网址的请求。原因如下：
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } 无法连接到 { $trrDomain }。
 neterror-dns-not-found-trr-only-timeout = 连接到 { $trrDomain } 的时间超过预期。
 neterror-dns-not-found-trr-offline = 您未连接到互联网。
