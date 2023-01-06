@@ -35,10 +35,15 @@ about-logging-stop-logging = Arrestar la jornalizacion
 about-logging-info = Info :
 about-logging-logging-output-selection = Sortida del jornal
 about-logging-logging-to-file = Jornalizar dins un fichièr
+about-logging-no-log-modules = Pas cap
+about-logging-no-log-file = Pas cap
+about-logging-logging-preset-selector-text = Prereglatge de jornalizacion :
 
 ## Logging presets
 
 about-logging-preset-networking-label = Ret
+about-logging-preset-custom-label = Personalizat
+about-logging-preset-custom-description = Moduls de jornalizacion seleccionats manualament
 # Error handling
 about-logging-error = Error :
 
@@ -47,6 +52,9 @@ about-logging-error = Error :
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Valor « { $v } » invalida  per la clau « { $k } »
+about-logging-unknown-logging-preset = Prereglatge de jornalizacion « { $v } » desconegut
+about-logging-unknown-profiler-preset = Prereglatge del perfilador « { $v } » desconegut
+about-logging-unknown-option = Opcion « { $k } » per about:logging desconeguda
 about-logging-configuration-url-ignored = URL de configuracion ignorada
 about-logging-file-and-profiler-override = Impossible de forçar la sortida del fichièr e de remplaçar las opcions del profilador a l’encòp
 about-logging-configured-via-url = Opcion configurada via URL
