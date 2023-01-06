@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Сінхранізаваныя карткі
-synced-tabs-sidebar-noclients-subtitle = Хочаце пабачыць вашы карткі з іншых прылад тут?
+synced-tabs-sidebar-noclients-subtitle = Хочаце пабачыць свае карткі з іншых прылад тут?
 synced-tabs-sidebar-intro = Паглядзіце спіс картак з іншых прылад.
 synced-tabs-sidebar-unverified = Ваш уліковы запіс патрабуе пацвярджэння.
 synced-tabs-sidebar-notabs = Няма адкрытых картак
