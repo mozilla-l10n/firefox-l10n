@@ -110,6 +110,7 @@ graphics-gpu2-title = GPE št. 2
 graphics-decision-log-title = Dnevnik odločitev
 graphics-crash-guards-title = Onemogočene možnosti zaščite pred sesutjem
 graphics-workarounds-title = Zaobidenja
+graphics-device-pixel-ratios = Razmerje slikovnih pik okna
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Okenski protokol
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
