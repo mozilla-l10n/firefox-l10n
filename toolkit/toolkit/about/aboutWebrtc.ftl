@@ -84,10 +84,10 @@ about-webrtc-stats-heading = Статыстыка сеанса
 about-webrtc-stats-clear = Ачысціць гісторыю
 about-webrtc-log-heading = Журнал злучэння
 about-webrtc-log-clear = Ачысціць журнал
-about-webrtc-log-show-msg = паказаць лог
-    .title = клікніце, каб разгарнуць гэты раздзел
-about-webrtc-log-hide-msg = схаваць лог
-    .title = клікніце, каб згарнуць гэты раздзел
+about-webrtc-log-show-msg = паказаць журнал
+    .title = націсніце, каб разгарнуць гэты раздзел
+about-webrtc-log-hide-msg = схаваць журнал
+    .title = націсніце, каб згарнуць гэты раздзел
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -174,9 +174,9 @@ about-webrtc-frame-stats-heading = Статыстыка відэакадраў -
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = старонка захавана ў: { $path }
-about-webrtc-debug-mode-off-state-msg = лог трасіроўкі можна знайсці ў: { $path }
-about-webrtc-debug-mode-on-state-msg = рэжым адладкі актыўны, лог трасіроўкі ў: { $path }
-about-webrtc-aec-logging-off-state-msg = файлы логаў захопу можна знайсці ў: { $path }
+about-webrtc-debug-mode-off-state-msg = журнал трасіроўкі можна знайсці ў: { $path }
+about-webrtc-debug-mode-on-state-msg = рэжым адладкі актыўны, журнал трасіроўкі ў: { $path }
+about-webrtc-aec-logging-off-state-msg = файлы журнала захопу можна знайсці ў: { $path }
 
 ##
 
