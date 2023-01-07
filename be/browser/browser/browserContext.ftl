@@ -87,9 +87,9 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = Дадаць закладку на гэту старонкі
+    .aria-label = Зрабіць закладку на гэту старонку
     .accesskey = а
-    .tooltiptext = Дадаць старонку ў закладкі
+    .tooltiptext = Зрабіць закладку на гэту старонку
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
@@ -107,7 +107,7 @@ main-context-menu-bookmark-edit-mac =
 main-context-menu-bookmark-add-with-shortcut =
     .aria-label = Дадаць закладку на гэту старонкі
     .accesskey = а
-    .tooltiptext = Дадаць старонку ў закладкі ({ $shortcut })
+    .tooltiptext = Зрабіць закладку на гэту старонку ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Правіць гэтую закладку
     .accesskey = а
@@ -121,7 +121,7 @@ main-context-menu-bookmark-change-with-shortcut =
 main-context-menu-bookmark-page =
     .aria-label = Зрабіць закладку…
     .accesskey = і
-    .tooltiptext = Дадаць старонку ў закладкі
+    .tooltiptext = Зрабіць закладку
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -139,7 +139,7 @@ main-context-menu-edit-bookmark-mac =
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Зрабіць закладку…
     .accesskey = ь
-    .tooltiptext = Дадаць старонку ў закладкі ({ $shortcut })
+    .tooltiptext = Зрабіць закладку ({ $shortcut })
 main-context-menu-edit-bookmark =
     .aria-label = Рэдагаваць закладку…
     .accesskey = ь
