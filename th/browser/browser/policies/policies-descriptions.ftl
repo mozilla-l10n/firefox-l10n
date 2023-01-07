@@ -115,6 +115,7 @@ policy-SecurityDevices = ติดตั้งโมดูล PKCS #11
 policy-ShowHomeButton = แสดงปุ่มหน้าแรกบนแถบเครื่องมือ
 policy-SSLVersionMax = ตั้งรุ่น SSL สูงสุด
 policy-SSLVersionMin = ตั้งรุ่น SSL ต่ำสุด
+policy-StartDownloadsInTempDirectory = บังคับให้เริ่มดาวน์โหลดจากตำแหน่งที่ตั้งชั่วคราวภายในเครื่องแทนที่จะเป็นไดเรกทอรีดาวน์โหลดเริ่มต้น
 policy-SupportMenu = เพิ่มรายการเมนูการสนับสนุนที่กำหนดเองไปยังเมนูช่วยเหลือ
 policy-UserMessaging = ไม่ต้องแสดงข้อความบางส่วนถึงผู้ใช้
 policy-UseSystemPrintDialog = พิมพ์โดยใช้กล่องโต้ตอบระบบพิมพ์…
