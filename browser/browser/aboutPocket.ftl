@@ -67,7 +67,7 @@ pocket-panel-home-new-user-message = Vegeu el contingut que heu desat recentment
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Mostra la meva llista
-pocket-panel-header-my-saves = Mostra els elements desats
+pocket-panel-header-my-saves = Mostra els meus elements desats
 pocket-panel-header-sign-in = Inicia la sessió
 
 ## Pocket panel buttons
