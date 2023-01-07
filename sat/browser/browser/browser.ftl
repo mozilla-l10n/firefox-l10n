@@ -330,9 +330,13 @@ quickactions-restart = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢ
 quickactions-cmd-restart = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
 # Opens the screenshot tool
 quickactions-screenshot2 = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
+# Opens the screenshot tool
+quickactions-screenshot3 = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
 quickactions-cmd-screenshot = ᱥᱠᱨᱤᱱᱥᱚᱴ
 # Opens about:preferences
 quickactions-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱡᱷᱤᱜ ᱢᱮ
+# Opens about:preferences
+quickactions-settings2 = ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-settings = ᱥᱟᱡᱟᱣ ᱠᱚ, ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ, ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ
 # Opens about:addons page in the themes section
 quickactions-themes = ᱛᱷᱤᱢ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
@@ -342,6 +346,8 @@ quickactions-update = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱠ ᱢᱮ
 quickactions-cmd-update = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = ᱥᱟᱦᱴᱟ ᱢᱩᱞ ᱧᱮᱞ ᱢᱮ
 quickactions-cmd-viewsource = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ, ᱥᱨᱚᱛ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -957,6 +963,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
+    .tooltiptext =
+        ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
+        ᱦᱩᱨᱢᱩᱴ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ
 
 ## Autorefresh blocker
 

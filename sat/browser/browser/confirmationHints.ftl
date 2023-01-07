@@ -5,4 +5,11 @@
 
 ## Confirmation hints
 
+confirmation-hint-breakage-report-sent = ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱮᱱᱟ ᱾ ᱥᱟᱨᱦᱟᱣ!
+confirmation-hint-login-removed = ᱵᱚᱞᱚ ᱚᱪᱚᱜ ᱮᱱᱟ !
+confirmation-hint-page-bookmarked = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
+confirmation-hint-password-saved = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ !
+confirmation-hint-pin-tab = ᱞᱟᱴᱷᱟ ᱮᱱᱟ !
+confirmation-hint-pin-tab-description = ᱪᱷᱟᱰᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵᱽ ᱨᱮ ᱡᱚᱡᱚᱢᱼᱚᱛᱟ ᱠᱟᱜ ᱢᱮ
 confirmation-hint-send-to-device = ᱠᱩᱞ ᱮᱱᱟ!
+confirmation-hint-firefox-relay-mask-generated = ᱱᱟᱶᱟ { -relay-brand-short-name } ᱢᱟᱥᱠ ᱛᱮᱭᱟᱨ ᱮᱱᱟ !
