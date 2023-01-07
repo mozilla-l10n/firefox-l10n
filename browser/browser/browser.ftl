@@ -817,8 +817,8 @@ toolbar-overflow-customize-button =
     .label = Уладкаванне паліцы прылад…
     .accesskey = У
 toolbar-button-email-link =
-    .label = Даслаць спасылку эл.поштай
-    .tooltiptext = Даслаць спасылку на гэту старонку эл.поштай
+    .label = Даслаць спасылку поштай
+    .tooltiptext = Даслаць спасылку на гэту старонку электроннай поштай
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
