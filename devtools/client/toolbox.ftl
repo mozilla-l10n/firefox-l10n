@@ -34,7 +34,7 @@ toolbox-meatball-menu-pseudo-locale-bidi = เปิดใช้งานรู�
 
 toolbox-mode-browser-toolbox-label = โหมดกล่องเครื่องมือเบราว์เซอร์
 toolbox-mode-browser-console-label = โหมดคอนโซลเบราว์เซอร์
-toolbox-mode-everything-label = มัลติโพรเซส
+toolbox-mode-everything-label = มัลติโปรเซส
 toolbox-mode-everything-sub-label = (ช้ากว่า)
 toolbox-mode-everything-container =
     .title = ดีบั๊กทุกอย่างในโปรเซสทั้งหมด
