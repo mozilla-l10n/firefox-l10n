@@ -285,30 +285,42 @@ quickactions-addons = ᱮᱰ-ᱚᱱ ᱧᱮᱞ ᱢᱮ
 quickactions-cmd-addons2 = ᱮᱰ-ᱚᱱ ᱠᱚ
 # Opens the bookmarks library window
 quickactions-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+# Opens the bookmarks library window
+quickactions-bookmarks2 = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 quickactions-cmd-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 # Opens about:downloads page
 quickactions-downloads = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+# Opens about:downloads page
+quickactions-downloads2 = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ ᱧᱮᱞ ᱢᱮ
 quickactions-cmd-downloads = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱠᱚ ᱢᱮᱱᱟᱡᱽ ᱢᱮ
 quickactions-cmd-extensions = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
 # Opens the devtools web inspector
 quickactions-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+# Opens the devtools web inspector
+quickactions-inspector2 = ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱦᱟᱹᱛᱷᱤᱭᱟᱹᱨ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
 quickactions-cmd-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ, ᱰᱮᱣᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
 # Opens about:logins
 quickactions-logins = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ
+# Opens about:logins
+quickactions-logins2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-logins = ᱵᱚᱞᱚᱱ ᱠᱚ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 # Opens about:addons page in the plugins section
 quickactions-plugins = ᱯᱞᱚᱜᱤᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-plugins = ᱯᱞᱚᱜᱤᱱ ᱠᱚ
 # Opens the print dialog
 quickactions-print = ᱪᱷᱟᱯᱟ
+# Opens the print dialog
+quickactions-print2 = ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ
 quickactions-cmd-print = ᱪᱷᱟᱯᱟ
 # Opens a new private browsing window
 quickactions-private = ᱱᱤᱡᱚᱨᱟᱠᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+# Opens a new private browsing window
+quickactions-private2 = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
 quickactions-cmd-private = ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } ᱛᱟᱡᱟᱭ ᱢᱮ
