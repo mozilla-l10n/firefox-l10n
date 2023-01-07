@@ -11,7 +11,7 @@ about-reader-color-scheme-dark = Цёмны
 about-reader-color-scheme-sepia = Сэпія
     .title = Колеравая схема Сэпія
 about-reader-color-scheme-auto = Аўта
-    .title = Аўтаматычная каляровая схема
+    .title = Аўтаматычная колеравая схема
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
