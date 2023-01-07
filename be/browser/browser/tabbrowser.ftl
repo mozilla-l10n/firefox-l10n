@@ -137,7 +137,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Не паказваць мне гэ�
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Дазволіць такім абвесткам з { $domain } пераключаць вас на іхнюю картку
-tabbrowser-customizemode-tab-title = Уладкаваць { -brand-short-name }
+tabbrowser-customizemode-tab-title = Уладкаванне { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
