@@ -14,6 +14,13 @@ callout-primary-complete-button-label = Entesos
 callout-firefox-view-tab-pickup-title = Salteu d'un dispositiu a un altre amb el recull de pestanyes
 callout-firefox-view-tab-pickup-subtitle = Recupereu ràpidament les pestanyes obertes en el telèfon i obriu-les directament aquí per a treure'n el màxim profit.
 callout-firefox-view-recently-closed-title = Recupereu les pestanyes tancades a l'instant
+callout-firefox-view-recently-closed-subtitle = Totes les pestanyes que hàgiu tancat es mostraran aquí per art de màgia. Ja no cal patir per tancar un lloc accidentalment.
+callout-firefox-view-colorways-title = Afegiu-hi un toc de color
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Trieu el matís que us agradi més amb les combinacions de colors. Només en el { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Exploreu les últimes combinacions de colors
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Acoloriu el navegador amb aquests tons emblemàtics inspirats en veus independents. Només en el { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
