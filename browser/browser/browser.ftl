@@ -540,7 +540,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Каб выкарыстаць клавішу F12, спачатку адкрыйце інструменты праз меню распрацоўкі сеціва.
-enable-devtools-popup-description2 = Каб выкарыстоўваць спалучэнне клавіш F12, спачатку адкрыйце інструменты вэб-распрацоўшчыка праз меню інструментаў браўзера.
+enable-devtools-popup-description2 = Каб выкарыстоўваць клавішу F12, спачатку адкрыйце прылады распрацоўшчыка праз меню інструментаў браўзера.
 
 ## URL Bar
 
