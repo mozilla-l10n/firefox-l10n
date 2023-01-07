@@ -13,3 +13,11 @@ firefox-relay-get-reusable-masks-failed = El { -relay-brand-name } no ha trobat 
 
 ##
 
+firefox-relay-must-login-to-fxa = Cal que inicieu la sessió al { -fxaccount-brand-name } per a utilitzar el { -relay-brand-name }.
+firefox-relay-get-unlimited-masks =
+    .label = Gestiona les màscares
+    .accesskey = m
+firefox-relay-opt-in-title = Protegiu la vostra adreça electrònica
+firefox-relay-opt-in-subtitle = Afegeix el { -relay-brand-name }
+firefox-relay-generate-mask-title = Protegiu la vostra adreça electrònica
+firefox-relay-generate-mask-subtitle = Genera una màscara del { -relay-brand-short-name }
