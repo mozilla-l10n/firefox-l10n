@@ -979,3 +979,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = ᱟᱞᱮ ᱫᱚ ᱡᱷᱚᱛᱚ ᱤᱢᱮᱞ <strong>{ $sitename }</strong> ᱠᱷᱚᱱ <strong>{ $useremail }</strong> ᱛᱮ ᱞᱮ ᱵᱷᱮᱡᱟᱭᱟ ᱾

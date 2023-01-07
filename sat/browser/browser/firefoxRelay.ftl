@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Error messages for failed HTTP web requests.
+## https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#client_error_responses
+## Variables:
+##   $status (Number) - HTTP status code, for example 403
+
+firefox-relay-mask-generation-failed = { -relay-brand-name } ᱫᱚ ᱱᱟᱶᱟ ᱢᱟᱥᱠ ᱫᱚ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱫᱟᱲᱮᱭᱟᱫᱟᱭ ᱾ HTTP ᱵᱷᱩᱞ ᱠᱳᱰ : { $status } ᱾
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ᱫᱩᱦᱲᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱢᱟᱥᱠ ᱫᱚ ᱵᱟᱝ ᱯᱟᱱᱛᱮ ᱫᱟᱲᱮᱭᱟᱫ ᱟᱭ ᱾ HTTP  ᱵᱷᱩᱞ ᱠᱳᱰ : { $status } ᱾
+
+##
+
+firefox-relay-must-login-to-fxa = { -relay-brand-name } ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ { -fxaccount-brand-name } ᱨᱮ ᱵᱚᱞᱚ ᱛᱟᱦᱮᱸ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
+firefox-relay-get-unlimited-masks =
+    .label = ᱢᱟᱥᱠ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+    .accesskey = M
+firefox-relay-opt-in-title = ᱟᱢᱟᱜ ᱤᱼᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱛᱟᱢ
+firefox-relay-opt-in-subtitle = { -relay-brand-name } ᱥᱮᱞᱮᱫ ᱢᱮ
+firefox-relay-generate-mask-title = ᱟᱢᱟᱜ ᱤᱼᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱛᱟᱢ
+firefox-relay-generate-mask-subtitle = { -relay-brand-short-name } ᱢᱟᱥᱠ ᱛᱮᱭᱟᱨ ᱢᱮ
+firefox-relay-opt-in-confirmation-enable =
+    .label = ᱞᱮᱛᱟᱲ
+    .accesskey = C
+firefox-relay-opt-in-confirmation-disable =
+    .label = ᱱᱚᱶᱟ ᱫᱩᱦᱲᱟᱹ ᱟᱞᱚᱢ ᱠᱩᱞᱤᱧᱟ
+    .accesskey = D
+firefox-relay-opt-in-confirmation-postpone =
+    .label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+    .accesskey = N
