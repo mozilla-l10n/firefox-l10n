@@ -12,3 +12,4 @@ confirmation-hint-password-saved = S'ha desat la contrasenya
 confirmation-hint-pin-tab = S'ha fixat
 confirmation-hint-pin-tab-description = Feu clic amb el botó dret del ratolí per deixar de fixar.
 confirmation-hint-send-to-device = S'ha enviat
+confirmation-hint-firefox-relay-mask-generated = S'ha generat una màscara del { -relay-brand-short-name } nova!
