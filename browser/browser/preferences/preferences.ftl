@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Erakutsi datu-urratzeak izan dituzten webguneetako pasahitzei buruzko abisuak
     .accesskey = E
 forms-breach-alerts-learn-more-link = Argibide gehiago
+relay-integration =
+    .label = Gaitu { -relay-brand-name } zure { -brand-short-name } pasahitz-kudeatzailean
+relay-integration-learn-more-link = Argibide gehiago
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automatikoki bete erabiltzaile-izen eta pasahitzak
@@ -1001,6 +1004,9 @@ content-blocking-fingerprinters = Hatz-marka bidezko jarraipena egiten duten ele
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Hartu parte gure orainoko proba pilotu boteretsuenean
     .accesskey = H
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Cookien erabateko babesak zauden guneko cookieak ditu soilik, hortaz jarraipen-elementuek ezin dituzte erabili guneen arteko zure jarraipena egiteko.
 content-blocking-etp-standard-tcp-rollout-learn-more = Argibide gehiago

@@ -113,6 +113,9 @@ places-forget-about-this-site-confirmation-title = Gune honetaz ahaztea
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ekintza honek { $hostOrBaseDomain } ostalariarekin lotutako datu guztiak kenduko ditu, hala nola historia, pasahitzak, cookieak, cachea eta edukiaren hobespenak. Ziur zaude jarraitu egin nahi duzula?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Ekintza honek { $hostOrBaseDomain } ostalariarekin lotutako datuak kenduko ditu, hala nola historia, cookieak, cachea eta edukiaren hobespenak. Erlazionatutako laster-markak eta pasahitzak ez dira kenduko. Ziur zaude jarraitu egin nahi duzula?
 places-forget-about-this-site-forget = Ahaztu
 places-library =
     .title = Biltegia
