@@ -208,6 +208,7 @@ firefoxview-cfr-secondarybutton = Ei nyt
 firefoxview-cfr-header = Palauta äskettäin suljetut välilehdet käyttämällä { -firefoxview-brand-name }iä
 firefoxview-cfr-body = Lisäksi voit siirtyä saumattomasti laitteiden välillä sekä lisätä selaimeesi väriä.
 firefoxview-cfr-header-v2 = Jatka siitä mihin jäit
+firefoxview-cfr-body-v2 = Hanki äskettäin suljetut välilehdet takaisin ja siirry saumattomasti laitteiden välillä { -firefoxview-brand-name }llä.
 
 ## Firefox View Spotlight
 
