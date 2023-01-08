@@ -426,6 +426,7 @@ browser-tab-audio-pip = ຮູບໃນຮູບ
 
 ## Bookmarks toolbar items
 
+bookmarks-toolbar-empty-message = ເພື່ອເຂົ້າເຖິງໄດ້ໄວ, ໃຫ້ວາງບຸກມາກຂອງທ່ານໄວ້ບ່ອນນີ້ໃນແຖບເຄື່ອງມືບຸກມາກ. <a data-l10n-name="manage-bookmarks">ຈັດການບຸກມາກ…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -444,6 +445,7 @@ popup-select-speaker-icon =
 popup-select-window-or-screen =
     .label = ໜ້າຕ່າງ ຫຼື ໜ້າຈໍ
     .accesskey = W
+popup-all-windows-shared = ທຸກປ່ອງຢ້ຽມທີ່ເຫັນໄດ້ໃນຫນ້າຈໍຂອງທ່ານຈະຖືກແບ່ງປັນ.
 popup-screen-sharing-block =
     .label = ບັອກ
     .accesskey = B
@@ -463,6 +465,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = ເພື່ອໃຊ້ທາງລັດ F12, ທໍາອິດເປີດ DevTools ຜ່ານເມນູນັກພັດທະນາເວັບ.
 enable-devtools-popup-description2 = ເພື່ອໃຊ້ທາງລັດ F12, ກ່ອນອື່ນໃຫ້ເປີດ DevTools ຜ່ານເມນູ Browser Tools.
 
 ## URL Bar
