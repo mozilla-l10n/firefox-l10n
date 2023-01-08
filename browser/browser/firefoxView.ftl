@@ -46,6 +46,9 @@ firefoxview-tabpickup-password-locked-header = Por vidi langetojn, tajpu vian ĉ
 firefoxview-tabpickup-password-locked-description = Por rehavi viajn langetojn, vi devos tajpi la ĉefan pasvorton de { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Pli da informo
 firefoxview-tabpickup-password-locked-primarybutton = Tajpi ĉefan pasvorton
+firefoxview-tabpickup-signed-out-header = Komenci seancon por rekonekti
+firefoxview-tabpickup-signed-out-description = Por rekonektiĝi kaj repreni viajn langetojn, komencu seancon en via { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-primarybutton = Komenci seancon
 firefoxview-tabpickup-syncing = Atendu la speguladon de langetoj. Estas rapida afero.
 firefoxview-mobile-promo-header = Malfermi langetojn el via telefono aŭ tabulkomputilo
 firefoxview-mobile-promo-description = Por vidi viajn lastajn poŝaparatajn langetojn, komencu seancon de { -brand-product-name } en iOS aŭ Android.
@@ -54,9 +57,12 @@ firefoxview-mobile-confirmation-header = 🎉 Preta!
 firefoxview-mobile-confirmation-description = Vi nun povas malfermi viajn langetojn de { -brand-product-name } el via tabulkomputilo aŭ telefono.
 firefoxview-closed-tabs-title = Ĵuse fermitaj
 firefoxview-closed-tabs-description2 = Malfermi paĝojn, kiujn vi estis ferminta en tiu ĉi fenestro.
-firefoxview-closed-tabs-placeholder = <strong>Neniu ĵusa fermita paĝo</strong><br/>Neniam timu denove perdi fermitan langeton, vi povos ĝin ĉiam rehavi ĉi tie.
 firefoxview-closed-tabs-placeholder-header = Neniu antaŭ nelonge fermita langeto
 firefoxview-closed-tabs-placeholder-body = Se vi fermas langeton en tiu ĉi fenestro, vi povas ĝin rehavi ĉi tie.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Ignori { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Laste aktiva
 # Variables:
@@ -70,7 +76,6 @@ firefoxview-change-colorway-button = Ŝanĝi koloraron
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Ankoraŭ estas nenio ĉi tie</strong><br/>Kiam vi malfermos paĝojn en { -brand-product-name } en alia aparato, ĝi kvazaŭ magie aperos ĉi tie.
 firefoxview-synced-tabs-placeholder-header = Nenio montrebla
 firefoxview-synced-tabs-placeholder-body = Kiam vi venontfoje malfermos paĝon en { -brand-product-name } en alia aparato, reprenu ĝin ĉi tie, kvazaŭ magie.
 firefoxview-collapse-button-show =

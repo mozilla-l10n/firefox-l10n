@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Konsileto:
 urlbar-result-menu-button =
     .title = Malfermi menuon
+urlbar-result-menu-remove-from-history =
+    .label = Forigi el historio
+    .accesskey = F
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -282,30 +285,42 @@ quickactions-addons = Vidi aldonaĵojn
 quickactions-cmd-addons2 = aldonaĵoj
 # Opens the bookmarks library window
 quickactions-bookmarks = Vidi legosignojn
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Administri legosignojn
 quickactions-cmd-bookmarks = legosignojn
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Viŝi historion
 quickactions-cmd-clearhistory = viŝi historion
 # Opens about:downloads page
 quickactions-downloads = Malfermi elŝutojn
+# Opens about:downloads page
+quickactions-downloads2 = Montri elŝutojn
 quickactions-cmd-downloads = elŝutojn
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administri etendaĵojn
 quickactions-cmd-extensions = etendaĵoj
 # Opens the devtools web inspector
 quickactions-inspector = Malfermi la inspektilon
+# Opens the devtools web inspector
+quickactions-inspector2 = Malfermi la ilojn por programistoj
 quickactions-cmd-inspector = inspektilo, iloj por programistoj
 # Opens about:logins
 quickactions-logins = Vidi legitimilojn
+# Opens about:logins
+quickactions-logins2 = Administri pasvortojn
 quickactions-cmd-logins = legitimiloj, pasvortoj
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administri kromprogramojn
 quickactions-cmd-plugins = kromprogramoj
 # Opens the print dialog
 quickactions-print = Presi
+# Opens the print dialog
+quickactions-print2 = Presi paĝon
 quickactions-cmd-print = presi
 # Opens a new private browsing window
 quickactions-private = Malfermi fenestron de privata retumo
+# Opens a new private browsing window
+quickactions-private2 = Malfermi privatan fenestron
 quickactions-cmd-private = privata retumo
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Refreŝigi { -brand-short-name }
@@ -315,9 +330,13 @@ quickactions-restart = Restartigi { -brand-short-name }
 quickactions-cmd-restart = restartigi
 # Opens the screenshot tool
 quickactions-screenshot2 = Fari ekrankopion
+# Opens the screenshot tool
+quickactions-screenshot3 = Fari ekrankopion
 quickactions-cmd-screenshot = ekrankopio
 # Opens about:preferences
 quickactions-settings = Malfermi agordojn
+# Opens about:preferences
+quickactions-settings2 = Administri agordojn
 quickactions-cmd-settings = agordoj, preferoj, elektebloj
 # Opens about:addons page in the themes section
 quickactions-themes = Administri etosojn
@@ -327,6 +346,8 @@ quickactions-update = Ĝisdatigi { -brand-short-name }
 quickactions-cmd-update = ĝisdatigi
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Montri fonton
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Vidi fonton de paĝo
 quickactions-cmd-viewsource = vidi fonton, fonton
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -947,3 +968,12 @@ refresh-blocked-redirect-label = { -brand-short-name } evitis ke tiu ĉi paĝo a
 refresh-blocked-allow =
     .label = Permesi
     .accesskey = P
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } maskas vian veran retpoŝtan adreson por helpi vin esti protektita kontraŭ datumfuĝoj kaj trudmesaĝoj.
+firefox-relay-offer-how-we-integrate = Se vi daŭrigas, vi povos krei novajn retpoŝtajn maskojn de { -relay-brand-short-name } rekte el la pasvorta administrilo de { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Ni plusendos ĉiujn retpoŝtajn mesaĝojn el <strong>{ $sitename }</strong> al <strong>{ $useremail }</strong>.
