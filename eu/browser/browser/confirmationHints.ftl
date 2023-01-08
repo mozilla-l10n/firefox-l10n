@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Pasahitza gordeta!
 confirmation-hint-pin-tab = Ainguratuta!
 confirmation-hint-pin-tab-description = Desainguratzeko, egin eskuin-klika fitxan.
 confirmation-hint-send-to-device = Bidalita!
+confirmation-hint-firefox-relay-mask-generated = { -relay-brand-short-name } maskara berria sortuta!
