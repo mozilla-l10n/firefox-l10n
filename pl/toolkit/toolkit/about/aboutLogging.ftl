@@ -51,6 +51,8 @@ about-logging-preset-networking-label = Sieć
 about-logging-preset-networking-description = Moduły do diagnozowania problemów sieciowych
 about-logging-preset-media-playback-label = Odtwarzanie multimediów
 about-logging-preset-media-playback-description = Moduły do diagnozowania problemów z odtwarzaniem multimediów (ale nie problemów z wideokonferencjami)
+about-logging-preset-custom-label = Inne
+about-logging-preset-custom-description = Ręcznie wybrane moduły
 # Error handling
 about-logging-error = Błąd:
 
@@ -58,3 +60,10 @@ about-logging-error = Błąd:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Nieprawidłowa wartość „{ $v }” dla klucza „{ $k }”
+about-logging-unknown-logging-preset = Nieznane ustawienie „{ $v }”
+about-logging-unknown-profiler-preset = Nieznane ustawienie profilera „{ $v }”
+about-logging-unknown-option = Nieznana opcja narzędzia about:logging „{ $k }”
+about-logging-configuration-url-ignored = Zignorowano adres URL z konfiguracją
+about-logging-file-and-profiler-override = Nie można jednocześnie wymusić wyjścia do pliku i zastąpić opcji profilera
+about-logging-configured-via-url = Opcja skonfigurowana za pomocą adresu URL
