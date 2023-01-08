@@ -33,6 +33,7 @@ about-logging-set-log-file = Definir un fichièr pel jornal
 about-logging-set-log-modules = Definir de modul d'enregistrament pel jornal
 about-logging-start-logging = Començar la jornalizacion
 about-logging-stop-logging = Arrestar la jornalizacion
+about-logging-buttons-disabled = La jornalizacion es configurada per de variablas d’environament, la configuracion dinamica es pas disponibla.
 about-logging-some-elements-disabled = La jornalizacion es configurada per URL, d’unas opcions de configuracion son pas disponiblas
 about-logging-info = Info :
 about-logging-log-modules-selection = Seleccion dels moduls de jornalizacion

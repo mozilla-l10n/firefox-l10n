@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Empachar l’utilizaire de contornejar d’avises
 policy-DisableSetAsDesktopBackground = Desactiva la comanda contextuala Definir l’image coma fons d’ecran pels imatges.
 policy-DisableSystemAddonUpdate = Empachar lo navegador d’installar o metre a jorn los moduls complementaris.
 policy-DisableTelemetry = Desactiva la telemetria.
+policy-DisableThirdPartyModuleBlocking = Empachar l’utilizar de blocar los moduls tèrces que son injectats dins lo processús de { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Aficha la barra personala per defaut.
 policy-DisplayMenuBar = Aficha la barra de menús per defaut.
 policy-DNSOverHTTPS = Permet de configurar lo DNS over HTTPS.
