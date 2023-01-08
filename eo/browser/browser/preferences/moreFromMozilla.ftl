@@ -34,3 +34,4 @@ more-from-moz-learn-more-link = Pli da informo
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Protektu vian retpoŝtan adreson kaj vian identecon per senpaga retpoŝta maskado.
+more-from-moz-firefox-relay-button = Uzi { -relay-brand-short-name }
