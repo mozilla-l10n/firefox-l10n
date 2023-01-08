@@ -19,6 +19,7 @@ update-failed = Eguneraketak huts egin du.<label data-l10n-name="failed-link">De
 update-failed-main = Eguneraketak huts egin du.<a data-l10n-name="failed-link-main">Deskargatu azken bertsioa</a>
 update-adminDisabled = Eguneraketak desgaitu ditu sistemaren administratzaileak
 update-noUpdatesFound = { -brand-short-name } eguneratuta dago
+aboutdialog-update-checking-failed = Huts egin du eguneraketak bilatzean.
 update-otherInstanceHandlingUpdates = Beste instantzia bat ari da { -brand-short-name } eguneratzen
 update-manual = Eskuratu eguneraketak <label data-l10n-name="manual-link"/>
 update-unsupported = Ezin duzu eguneraketa gehiago burutu sistema honetan.<label data-l10n-name="unsupported-link">Argibide gehiago</label>
