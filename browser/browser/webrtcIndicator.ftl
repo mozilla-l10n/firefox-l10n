@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Jakamisen ilmaisin
 webrtc-indicator-window =
     .title = { -brand-short-name } — Jakamisen ilmaisin
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Kamerasi on jaettu. Napsauta muokataksesi jakoasetuksia.
 webrtc-microphone-system-menu =
@@ -166,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture = Saako { $origin } kuunnella tämä
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden kuunnella tämän välilehden ääniä?
 webrtc-allow-share-camera-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää kameraa?
 webrtc-allow-share-microphone-unsafe-delegations = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää mikrofonia?
 webrtc-allow-share-microphone-unsafe-delegation = Saako { $origin } antaa sivustolle { $thirdParty } oikeuden käyttää mikrofonia?
