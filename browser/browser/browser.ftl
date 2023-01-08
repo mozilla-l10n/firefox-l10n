@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Wskazówka:
 urlbar-result-menu-button =
     .title = Otwórz menu
+urlbar-result-menu-remove-from-history =
+    .label = Usuń z historii
+    .accesskey = U
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -282,31 +285,43 @@ quickactions-addons = Wyświetl dodatki
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks = Wyświetl zakładki
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Zarządzaj zakładkami
 quickactions-cmd-bookmarks = zakładki, ulubione
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Wyczyść historię
 quickactions-cmd-clearhistory = wyczyść historię, usuń historię
 # Opens about:downloads page
 quickactions-downloads = Otwórz listę pobranych plików
+# Opens about:downloads page
+quickactions-downloads2 = Wyświetl listę pobranych plików
 quickactions-cmd-downloads = pobrane pliki, pobrane, pobierane, pobieranie
 # Opens about:addons page in the extensions section
 quickactions-extensions = Zarządzaj rozszerzeniami
 quickactions-cmd-extensions = rozszerzenia
 # Opens the devtools web inspector
 quickactions-inspector = Otwórz inspektora
+# Opens the devtools web inspector
+quickactions-inspector2 = Otwórz narzędzia dla programistów
 quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, narzędzia dla twórców witryn, devtools
 # Opens about:logins
 quickactions-logins = Wyświetl dane logowania
+# Opens about:logins
+quickactions-logins2 = Zarządzaj hasłami
 quickactions-cmd-logins = dane logowania, loginy, hasła
 # Opens about:addons page in the plugins section
 quickactions-plugins = Zarządzaj wtyczkami
 quickactions-cmd-plugins = wtyczki
 # Opens the print dialog
 quickactions-print = Drukuj
+# Opens the print dialog
+quickactions-print2 = Drukuj stronę
 quickactions-cmd-print = drukuj, wydrukuj
 # Opens a new private browsing window
 quickactions-private = Otwórz okno w trybie prywatnym
-quickactions-cmd-private = tryb prywatny, przeglądanie prywatne, incognito, tryb incognito
+# Opens a new private browsing window
+quickactions-private2 = Otwórz okno prywatne
+quickactions-cmd-private = tryb prywatny, przeglądanie prywatne, okno prywatne, incognito, tryb incognito
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Odśwież przeglądarkę { -brand-short-name }
 quickactions-cmd-refresh = odśwież, odnów
@@ -315,9 +330,13 @@ quickactions-restart = Uruchom przeglądarkę { -brand-short-name } ponownie
 quickactions-cmd-restart = uruchom ponownie, ponowne uruchomienie, zrestartuj, restart
 # Opens the screenshot tool
 quickactions-screenshot2 = Wykonaj zrzut ekranu
+# Opens the screenshot tool
+quickactions-screenshot3 = Wykonaj zrzut ekranu
 quickactions-cmd-screenshot = zrzut ekranu, screenshot, skrin
 # Opens about:preferences
 quickactions-settings = Otwórz ustawienia
+# Opens about:preferences
+quickactions-settings2 = Zarządzaj ustawieniami
 quickactions-cmd-settings = ustawienia, preferencje, opcje
 # Opens about:addons page in the themes section
 quickactions-themes = Zarządzaj motywami
@@ -326,8 +345,10 @@ quickactions-cmd-themes = motywy
 quickactions-update = Uaktualnij przeglądarkę { -brand-short-name }
 quickactions-cmd-update = uaktualnij, uaktualnienie, zaktualizuj, aktualizuj, aktualizacja, apdejt
 # Opens the view-source UI with current pages source
-quickactions-viewsource = Wyświetl źródło
-quickactions-cmd-viewsource = wyświetl źródło, źródło, pokaż źródło
+quickactions-viewsource = Pokaż źródło
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Pokaż źródło strony
+quickactions-cmd-viewsource = pokaż źródło, źródło, wyświetl źródło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Więcej informacji o szybkich działaniach
