@@ -15,8 +15,8 @@ update-checkingForUpdates = Verificando se há atualizações…
 update-downloading = <img data-l10n-name="icon"/>Baixando atualização — <label data-l10n-name="download-status"/>
 update-downloading-message = Baixando atualização — <label data-l10n-name="download-status"/>
 update-applying = Aplicando atualização…
-update-failed = A atualização falhou. <label data-l10n-name="failed-link">Baixar a última versão</label>
-update-failed-main = A atualização falhou. <a data-l10n-name="failed-link-main">Baixar a última versão</a>
+update-failed = Falha na atualização. <label data-l10n-name="failed-link">Baixar a versão mais recente</label>
+update-failed-main = Falha na atualização. <a data-l10n-name="failed-link-main">Baixar a versão mais recente</a>
 update-adminDisabled = Atualizações desativadas pelo administrador do sistema
 update-noUpdatesFound = O { -brand-short-name } está atualizado
 aboutdialog-update-checking-failed = Falha ao verificar se há atualizações.
