@@ -55,6 +55,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = ທ່ອງເວັບໂດຍບໍ່ມີການຕິດຕາມ
 cfr-protections-panel-link-text = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## What's New toolbar button and panel
@@ -104,6 +105,7 @@ cfr-doorhanger-video-support-primary-button = ອັບເດດດຽວນີ�
 
 spotlight-total-cookie-protection-primary-button = ເປີດການປົກປ້ອງຄຸກກີທັງໝົດ
 spotlight-total-cookie-protection-secondary-button = ຍັງເທື່ອ
+cfr-total-cookie-protection-header = ຂໍຂອບໃຈທ່ານ, { -brand-short-name } ແມ່ນເປັນສ່ວນຕົວ ແລະປອດໄພກວ່າທີ່ເຄີຍ
 
 ## Emotive Continuous Onboarding
 
