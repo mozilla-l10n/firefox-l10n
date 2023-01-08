@@ -215,6 +215,7 @@ firefoxview-cfr-secondarybutton = Ne zdaj
 firefoxview-cfr-header = Povrnite si nedavno zaprte zavihke s { -firefoxview-brand-name }
 firefoxview-cfr-body = Poleg tega brez težav preklapljajte med napravami in dodajte brskalniku kanček barve.
 firefoxview-cfr-header-v2 = Preprosto nadaljujte, kjer ste končali
+firefoxview-cfr-body-v2 = Obnovite nedavno zaprte zavihke in nemoteno preskakujte med napravami s { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
