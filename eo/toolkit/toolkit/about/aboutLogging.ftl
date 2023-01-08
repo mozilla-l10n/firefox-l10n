@@ -36,9 +36,18 @@ about-logging-stop-logging = Fini registri
 about-logging-buttons-disabled = Registro agordita de ĉirkaŭaĵaj variantoj, ne disponeblas la dinamika agordado.
 about-logging-some-elements-disabled = Registro agordita de URL, kelkaj agordaj elektebloj ne disponeblas
 about-logging-info = Informo:
+about-logging-log-modules-selection = Elekto de registraj moduloj
+about-logging-new-log-modules = Novaj registraj moduloj:
+about-logging-logging-output-selection = Registraĵoj
+about-logging-logging-to-file = Registraĵoj en dosiero
+about-logging-logging-to-profiler = Registraĵoj en { -profiler-brand-name }
+about-logging-no-log-modules = Neniu
+about-logging-no-log-file = Neniu
+about-logging-logging-preset-selector-text = Antaŭdifinita agordaro de registro:
 
 ## Logging presets
 
+about-logging-preset-networking-label = Reto
 
 ## Variables:
 ##   $k (String) - Variable name
