@@ -47,7 +47,7 @@ pane-experimental-description2 = Modyfikacja zaawansowanych ustawień może wpł
 pane-experimental-reset =
     .label = Przywróć domyślne
     .accesskey = P
-help-button-label = Wsparcie programu { -brand-short-name }
+help-button-label = Wsparcie { -brand-short-name(case: "gen") }
 addons-button-label = Rozszerzenia i motywy
 focus-search =
     .key = f
@@ -803,6 +803,9 @@ forms-breach-alerts =
     .label = Powiadomienia o hasłach do stron, z których wyciekły dane.
     .accesskey = o
 forms-breach-alerts-learn-more-link = Więcej informacji
+relay-integration =
+    .label = Włącz { -relay-brand-name } w menedżerze haseł { -brand-short-name(case: "gen") }
+relay-integration-learn-more-link = Więcej informacji
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automatyczne wypełnianie formularzy logowania
@@ -1005,6 +1008,9 @@ content-blocking-fingerprinters = elementy śledzące przez zbieranie informacji
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Przetestuj naszą najpotężniejszą funkcję ochrony prywatności w historii
     .accesskey = P
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Całkowita ochrona ciasteczek ogranicza ciasteczka do odwiedzanej witryny, więc elementy śledzące nie mogą ich używać do śledzenia Cię między witrynami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Więcej informacji
