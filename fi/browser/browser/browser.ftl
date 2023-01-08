@@ -970,3 +970,4 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } peittää todellisen sähköpostiosoitteesi ja auttaa siten sinua suojautumaan tietomurroilta sekä roskapostilta.

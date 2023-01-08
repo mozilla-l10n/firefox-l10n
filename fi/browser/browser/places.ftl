@@ -103,6 +103,9 @@ places-delete-bookmark =
            *[other] Poista kirjanmerkit
         }
     .accesskey = r
+places-untag-bookmark =
+    .label = Poista avainsana
+    .accesskey = P
 places-manage-bookmarks =
     .label = Järjestele kirjanmerkkejä
     .accesskey = J
@@ -110,6 +113,9 @@ places-forget-about-this-site-confirmation-title = Sivuston unohtaminen
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Tämä toiminto poistaa kaikki sivustoon { $hostOrBaseDomain } liittyvät tiedot mukaan lukien historian, salasanat, evästeet, välimuistin ja sisältöasetukset. Haluatko varmasti jatkaa?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Tämä toiminto poistaa kaikki sivustoon { $hostOrBaseDomain } liittyvät tiedot mukaan lukien historian, salasanat, evästeet, välimuistin ja sisältöasetukset. Sivustoon liittyviä kirjanmerkkejä ja salasanoja ei poisteta. Haluatko varmasti jatkaa?
 places-forget-about-this-site-forget = Unohda
 places-library =
     .title = Kirjasto

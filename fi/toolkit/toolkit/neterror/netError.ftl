@@ -55,7 +55,11 @@ neterror-dns-not-found-hint-firewall = Tarkistaa, että { -brand-short-name }ill
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ei voi suojata tämän sivuston osoitepyyntöäsi luotettavan DNS-selvittäjän kautta. Tässä syy:
 neterror-dns-not-found-trr-only-attackers = Jos jatkat, kolmas osapuoli saattaa nähdä, millä verkkosivustoilla vierailet, tai lähettää sinut epäluotettavalle sivustolle.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ei voinut muodostaa yhteyttä verkkotunnukseen { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Yhteys verkkotunnukseen { $trrDomain } kesti odotettua kauemmin.
 neterror-dns-not-found-trr-offline = Et ole yhteydessä Internetiin.
+neterror-dns-not-found-trr-unknown-host = Tälle verkkosivustolle ei löytynyt osoitetta kohteesta { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Verkkotunnuksen { $trrDomain } kanssa ilmeni ongelma.
 neterror-dns-not-found-trr-unknown-problem = Odottamaton ongelma.
 
 ##
