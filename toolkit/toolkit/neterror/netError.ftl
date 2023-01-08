@@ -29,7 +29,7 @@ neterror-view-certificate-link = Wyświetl certyfikat
 ##
 
 neterror-pref-reset = Może to być spowodowane zmienionymi ustawieniami przeglądarki dotyczącymi bezpieczeństwa sieci. Czy przywrócić domyślne ustawienia?
-neterror-error-reporting-automatic = Automatyczne zgłaszanie podobnych temu błędów (pomaga organizacji { -vendor-short-name } identyfikować i blokować niebezpieczne strony)
+neterror-error-reporting-automatic = Automatyczne zgłaszanie podobnych temu błędów (pomaga { -vendor-short-name(case: "dat") } identyfikować i blokować niebezpieczne strony)
 
 ## Specific error messages
 
@@ -45,6 +45,15 @@ neterror-dns-not-found-hint-header = <strong>Jeśli to właściwy adres, można:
 neterror-dns-not-found-hint-try-again = Spróbować ponownie później
 neterror-dns-not-found-hint-check-network = Sprawdzić połączenie z Internetem
 neterror-dns-not-found-hint-firewall = Upewnić się, że { -brand-short-name } może łączyć się z Internetem (zapora sieciowa może go blokować)
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+##
+
 neterror-file-not-found-filename = Sprawdź wielkość liter oraz upewnij się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.
 neterror-file-not-found-moved = Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.
 neterror-access-denied = Plik mógł zostać usunięty, przeniesiony lub jego uprawnienia uniemożliwiają dostęp.

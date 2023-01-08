@@ -7,7 +7,7 @@ third-party-section-title = Lista modułów zewnętrznych w programie { -brand-
 third-party-intro =
     Na tej stronie wyświetlane są moduły zewnętrzne, które zostały umieszczone w tej kopii
     programu { -brand-short-name }. Każdy moduł niepodpisany przez firmę Microsoft lub
-    organizację { -vendor-short-name } jest uważany za moduł zewnętrzny.
+    { -vendor-short-name(case: "acc") } jest uważany za moduł zewnętrzny.
 third-party-message-empty = Nie wykryto żadnych modułów zewnętrznych.
 third-party-message-no-duration = Nie nagrano
 third-party-detail-version = Wersja pliku
