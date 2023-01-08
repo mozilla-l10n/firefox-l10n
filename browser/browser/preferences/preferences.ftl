@@ -58,8 +58,8 @@ close-button =
 
 feature-enable-requires-restart = Konieczne jest ponowne uruchomienie przeglądarki { -brand-short-name }, aby włączyć tę funkcję.
 feature-disable-requires-restart = Konieczne jest ponowne uruchomienie przeglądarki { -brand-short-name }, aby wyłączyć tę funkcję.
-should-restart-title = Ponowne uruchomienie przeglądarki { -brand-short-name }
-should-restart-ok = Uruchom przeglądarkę { -brand-short-name } ponownie
+should-restart-title = Ponowne uruchomienie { -brand-short-name(case: "gen") }
+should-restart-ok = Uruchom { -brand-short-name(case: "acc") } ponownie
 cancel-no-restart-button = Anuluj
 restart-later = Później
 

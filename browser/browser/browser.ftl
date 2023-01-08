@@ -326,7 +326,7 @@ quickactions-cmd-private = tryb prywatny, przeglądanie prywatne, okno prywatne,
 quickactions-refresh = Odśwież przeglądarkę { -brand-short-name }
 quickactions-cmd-refresh = odśwież, odnów
 # Restarts the browser
-quickactions-restart = Uruchom przeglądarkę { -brand-short-name } ponownie
+quickactions-restart = Uruchom { -brand-short-name(case: "acc") } ponownie
 quickactions-cmd-restart = uruchom ponownie, ponowne uruchomienie, zrestartuj, restart
 # Opens the screenshot tool
 quickactions-screenshot2 = Wykonaj zrzut ekranu
