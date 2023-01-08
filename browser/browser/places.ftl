@@ -112,7 +112,10 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = Usuwanie całej witryny
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-message = Spowoduje to usunięcie wszystkich danych powiązanych z witryną { $hostOrBaseDomain }, w tym historię, hasła, zakładki, ciasteczka, pamięć podręczną i preferencje dotyczące treści. Czy na pewno kontynuować?
+places-forget-about-this-site-confirmation-message = Spowoduje to usunięcie wszystkich danych powiązanych z witryną { $hostOrBaseDomain }, w tym historię, hasła, ciasteczka, pamięć podręczną i preferencje dotyczące treści. Czy na pewno kontynuować?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Spowoduje to wszystkich danych powiązanych z witryną { $hostOrBaseDomain }, w tym historię, ciasteczka, pamięć podręczną i preferencje dotyczące treści. Powiązane zakładki i hasła nie zostaną usunięte. Czy na pewno kontynuować?
 places-forget-about-this-site-forget = Usuń całą witrynę
 places-library =
     .title = Biblioteka
