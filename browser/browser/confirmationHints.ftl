@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Zachowano hasło
 confirmation-hint-pin-tab = Przypięto
 confirmation-hint-pin-tab-description = Kliknij kartę prawym przyciskiem, aby ją odpiąć.
 confirmation-hint-send-to-device = Przesłano
+confirmation-hint-firefox-relay-mask-generated = Wygenerowano nową maskę { -relay-brand-short-name }

@@ -31,6 +31,12 @@ third-party-unsigned-icon =
     .title = Ten moduł nie jest podpisany
 third-party-warning-icon =
     .title = { -brand-short-name } uległ awarii w kodzie z tego modułu
+third-party-icon-unsigned =
+    .title = Ten moduł nie jest podpisany
+    .alt = Ten moduł nie jest podpisany
+third-party-icon-warning =
+    .title = { -brand-short-name } uległ awarii w kodzie z tego modułu
+    .alt = { -brand-short-name } uległ awarii w kodzie z tego modułu
 third-party-status-loaded = Wczytany
 third-party-status-blocked = Zablokowany
 third-party-status-redirected = Przekierowany
@@ -39,7 +45,23 @@ third-party-button-reload = Wczytaj ponownie z informacjami o systemie
     .title = Wczytaj ponownie z informacjami o systemie
 third-party-button-open =
     .title = Otwórz położenie pliku…
+third-party-button-to-block =
+    .title = Zablokuj ten moduł
+    .aria-label = Zablokuj ten moduł
+third-party-button-to-unblock =
+    .title = Obecnie zablokowany. Kliknij, aby go odblokować.
+    .aria-label = Obecnie zablokowany. Kliknij, aby go odblokować.
+third-party-button-to-unblock-disabled =
+    .title =
+        Obecnie oznaczony jako zablokowany, chociaż lista blokowania jest wyłączona
+        na czas tego uruchomienia programu { -brand-short-name }. Kliknij, aby go odblokować.
+    .aria-label =
+        Obecnie oznaczony jako zablokowany, chociaż lista blokowania jest wyłączona
+        na czas tego uruchomienia programu { -brand-short-name }. Kliknij, aby go odblokować.
 third-party-button-expand =
     .title = Wyświetl szczegółowe informacje
 third-party-button-collapse =
     .title = Zwiń szczegółowe informacje
+third-party-requires-restart = { -brand-short-name } musi zostać ponownie uruchomiony, aby zmienić blokowane moduły zewnętrzne.
+third-party-should-restart-title = Uruchom { -brand-short-name(case: "acc") } ponownie
+third-party-should-restart-ok = Uruchom { -brand-short-name(case: "gen") } ponownie
