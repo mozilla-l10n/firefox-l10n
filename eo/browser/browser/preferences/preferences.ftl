@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Montri atentigojn pri pasvortoj por retejoj kun datumfuĝoj
     .accesskey = d
 forms-breach-alerts-learn-more-link = Pli da informo
+relay-integration =
+    .label = Aktivigi { -relay-brand-name } en via pasvorta administrilo de { -brand-short-name }
+relay-integration-learn-more-link = Pli da informo
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Aŭtomate plenigi akreditilojn kaj pasvortojn
@@ -1001,6 +1004,9 @@ content-blocking-fingerprinters = Identigiloj de ciferecaj spuroj
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Estu inter la unuaj kiuj testas la ĝisnune plej povan sperton pri privateco
     .accesskey = t
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La totala protekto kontraŭ kuketoj limigas kuketojn al la retejo kie ili estas, tiel ke spuriloj ne povas uzi ilin por sekvi vin inter retejoj.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pli da informo
