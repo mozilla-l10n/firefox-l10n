@@ -971,3 +971,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = { -relay-brand-name } peittää todellisen sähköpostiosoitteesi ja auttaa siten sinua suojautumaan tietomurroilta sekä roskapostilta.
+firefox-relay-offer-how-we-integrate = Jatkamalla voit luoda uusia { -relay-brand-short-name }-sähköpostimaskeja suoraan { -brand-shorter-name }in salasanojen hallinnasta.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Välitämme kaikki sähköpostit sivustolta <strong>{ $sitename }</strong> osoitteeseen <strong>{ $useremail }</strong>.
