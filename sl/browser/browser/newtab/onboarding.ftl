@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Dodaj temo
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Spoznajte { -brand-short-name }
+mr1-return-to-amo-addon-title = Imate hiter in zaseben brskalnik na dosegu roke. Zdaj lahko dodate <b>{ $addon-name }</b> in s { -brand-short-name(sklon: "orodnik") } naredite še več.
 mr1-return-to-amo-add-extension-label = Dodaj { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
