@@ -215,7 +215,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = Wybrane kolory mają pierwszeństwo przed ustawieniami wyglądu witryn. <a data-l10n-name="colors-link">Zarządzaj kolorami</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Zarządzaj motywami przeglądarki { -brand-short-name } w <a data-l10n-name="themes-link">Rozszerzenia i motywy</a>
+preferences-web-appearance-footer = Zarządzaj motywami { -brand-short-name(case: "gen") } w <a data-l10n-name="themes-link">Rozszerzenia i motywy</a>
 preferences-colors-header = Kolory
 preferences-colors-description = Zastąp domyślne kolory przeglądarki { -brand-short-name } dla tekstu, teł witryn i odnośników.
 preferences-colors-manage-button =
@@ -566,7 +566,7 @@ home-prefs-recent-activity-description = Wybierane z ostatnio odwiedzanych stro
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Od Mozilli
-home-prefs-snippets-description-new = Wskazówki i aktualności od organizacji { -vendor-short-name } i przeglądarki { -brand-product-name }.
+home-prefs-snippets-description-new = Wskazówki i aktualności od { -vendor-short-name(case: "gen") } i { -brand-product-name(case: "gen") }.
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -1108,7 +1108,7 @@ collection-privacy-notice = Prywatność
 collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
 collection-health-report-telemetry-disabled-link = Więcej informacji
 collection-health-report =
-    .label = Przesyłanie do organizacji { -vendor-short-name } danych technicznych i o interakcjach z przeglądarką { -brand-short-name }.
+    .label = Przesyłanie do { -vendor-short-name(case: "gen") } danych technicznych i o interakcjach z przeglądarką { -brand-short-name }.
     .accesskey = z
 collection-health-report-link = Więcej informacji
 collection-studies =

@@ -257,7 +257,7 @@ created-by-author = Autor: <a data-l10n-name="author">{ $author }</a>
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Użytkownicy: { $dailyUsers }
-install-extension-button = Dodaj do programu { -brand-product-name }
+install-extension-button = Dodaj do { -brand-product-name(case: "gen") }
 install-theme-button = Zainstaluj motyw
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.

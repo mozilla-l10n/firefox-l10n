@@ -5,10 +5,10 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Więcej od organizacji { -vendor-short-name }
+more-from-moz-title = Więcej od { -vendor-short-name(case: "gen") }
 more-from-moz-category =
     .tooltiptext = Więcej od organizacji { -vendor-short-name }
-more-from-moz-subtitle = Wypróbuj inne produkty organizacji { -vendor-short-name }, które wspierają zdrowy Internet.
+more-from-moz-subtitle = Wypróbuj inne produkty { -vendor-short-name(case: "gen") }, które wspierają zdrowy Internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } na telefon
 more-from-moz-firefox-mobile-description = Przeglądarka na telefon, która stawia prywatność na pierwszym miejscu.
 more-from-moz-firefox-mobile-description-advanced = Od blokowania elementów śledzących po zwalczanie irytującego autoodtwarzania, przeglądarki { -brand-product-name } na telefon pracują ponad siły, aby zapewnić Ci ten dobry Internet.
