@@ -155,6 +155,8 @@ urlbar-result-menu-remove-from-history =
 
 urlbar-search-tips-onboard = Tipkajte manj, najdite več: Iščite z iskalnikom { $engineName } iz vrstice z naslovom.
 urlbar-search-tips-redirect-2 = Začnite z iskanjem v naslovni vrstici ter spremljajte predloge iskalnika { $engineName } in zgodovine vašega brskanja.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Iskanje je pravkar postalo preprostejše. Poskusite z natančnejšim iskanjem tukaj v naslovni vrstici. Za prikaz spletnega naslova si oglejte Iskanje v nastavitvah.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Izberite to bližnjico in hitreje najdite, kar potrebujete.
