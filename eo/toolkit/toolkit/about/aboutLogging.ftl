@@ -48,8 +48,22 @@ about-logging-logging-preset-selector-text = Antaŭdifinita agordaro de registro
 ## Logging presets
 
 about-logging-preset-networking-label = Reto
+about-logging-preset-networking-description = Registraj moduloj por diagnozi retajn problemojn
+about-logging-preset-media-playback-label = Ludado de aŭvidaĵoj
+about-logging-preset-media-playback-description = Registraj moduloj por diagnozi problemojn kun ludado de aŭdvidaĵoj (ne por videkonferencaj problemoj)
+about-logging-preset-custom-label = Personecigita
+about-logging-preset-custom-description = Permane elekitaj registraj moduloj
+# Error handling
+about-logging-error = Eraro:
 
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Nevalida valoro “{ $v }“ por ŝlosilo “{ $k }“
+about-logging-unknown-logging-preset = Nekonata antaŭdifinita agordo “{ $v }“
+about-logging-unknown-profiler-preset = Nekonata antaŭdifinita agordo de rulanalizilo “{ $v }“
+about-logging-unknown-option = Nekonata elekteblo de about:logging “{ $k }“
+about-logging-configuration-url-ignored = Ignorita agorda URL
+about-logging-file-and-profiler-override = Ne eblas registri en dosiero kaj samtempe superregi la elekteblojn de la rulanalizilo
+about-logging-configured-via-url = Elekteblo agordita per URL
