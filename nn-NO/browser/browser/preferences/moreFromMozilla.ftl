@@ -33,3 +33,4 @@ more-from-moz-learn-more-link = Les meir
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-button = Få { -relay-brand-short-name }

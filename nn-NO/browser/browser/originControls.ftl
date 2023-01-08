@@ -27,10 +27,24 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Kan ikkje lese og endre data på denne nettstaden
+origin-controls-state-always-on = Kan alltid lese og endre data på denne nettstaden
+origin-controls-state-when-clicked = Løyve er påkravd for å lese og endre data
+origin-controls-state-hover-run-visit-only = Køyr berre for dette besøket
 origin-controls-state-runnable-hover-open = Opne utviding
 origin-controls-state-runnable-hover-run = Køyr utviding
+origin-controls-state-temporary-access = Kan lese og endre data for dette besøket
 
 ## Extension's toolbar button.
 ## Variables:
 ##   $extensionTitle (String) - Extension name or title message.
 
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Treng løyve
