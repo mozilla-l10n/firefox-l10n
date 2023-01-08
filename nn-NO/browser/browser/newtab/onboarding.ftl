@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Legg til temaet
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Velkomen til { -brand-short-name }
+mr1-return-to-amo-addon-title = Du har ein rask, privat nettlesar for handa. No kan du leggje til <b>{ $addon-name }</b> og gjere endå meir med { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Legg til { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)

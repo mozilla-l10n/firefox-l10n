@@ -971,3 +971,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } skjuler den eigentlege e-postadressa di for å verne deg mot datainnbrot og spam.
+firefox-relay-offer-how-we-integrate = Ved å halde fram kan du generere nye { -relay-brand-short-name } e-postmasker direkte frå passordhandsamaren for { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Vi videaresender alle e-postar frå <strong>{ $sitename }</strong> til <strong>{ $useremail }</strong>.

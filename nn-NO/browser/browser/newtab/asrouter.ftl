@@ -222,3 +222,9 @@ firefoxview-spotlight-promo-secondarybutton = Hopp over
 
 colorways-cfr-primarybutton = Vel fargesamansetjing
     .accesskey = V
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Farg nettlesaren din med eksklusive { -brand-short-name }-fargenyansar inspirert av røyster som endra kulturen.
+colorways-cfr-header-28days = Fargesamansetjinga «Uavhengige røyster» går ut 16. januar
+colorways-cfr-header-14days = Fargesamansetjinga «Uavhengige røyster» går ut om to veker
+colorways-cfr-header-7days = Fargesamansetjinga «Uavhengige røyster» går ut om to veker
+colorways-cfr-header-today = Fargesamansetjinga «Uavhengige røyster» går ut i dag
