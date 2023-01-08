@@ -65,3 +65,5 @@ about-logging-unknown-logging-preset = Valor preestablecido de registro desconoc
 about-logging-unknown-profiler-preset = Analizador predeterminado desconocido “{ $v }“
 about-logging-unknown-option = Opción about:logging desconocida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuración ignorada
+about-logging-file-and-profiler-override = No se puede forzar la salida a un archivo y anular las opciones del analizador al mismo tiempo
+about-logging-configured-via-url = Opción configurada a través de URL
