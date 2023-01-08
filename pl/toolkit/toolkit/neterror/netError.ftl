@@ -24,6 +24,8 @@ neterror-pref-reset-button = Przywróć
 neterror-return-to-previous-page-button = Wróć do poprzedniej strony
 neterror-return-to-previous-page-recommended-button = Wróć do poprzedniej strony (zalecane)
 neterror-try-again-button = Spróbuj ponownie
+neterror-add-exception-button = Zawsze kontynuuj na tej witrynie
+neterror-settings-button = Zmień ustawienia DNS
 neterror-view-certificate-link = Wyświetl certyfikat
 
 ##
@@ -51,6 +53,7 @@ neterror-dns-not-found-hint-firewall = Upewnić się, że { -brand-short-name } 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } nie może ochronić zapytania o adres tej witryny za pomocą naszego zaufanego serwera DNS, ponieważ:
 
 ##
 
