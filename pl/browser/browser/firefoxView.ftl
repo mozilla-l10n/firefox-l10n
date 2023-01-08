@@ -59,6 +59,10 @@ firefoxview-closed-tabs-title = Ostatnio zamknięte
 firefoxview-closed-tabs-description2 = Ponownie otwieraj strony zamknięte w tym oknie.
 firefoxview-closed-tabs-placeholder-header = Nie ma ostatnio zamkniętych kart
 firefoxview-closed-tabs-placeholder-body = Tutaj będzie można odzyskać karty zamknięte w tym oknie.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Odrzuć kartę „{ $tabTitle }”
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Ostatnio aktywna
 # Variables:
