@@ -77,6 +77,7 @@ firefoxview-change-colorway-button = Spremeni barvno kombinacijo
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Tu ni še ničesar
+firefoxview-synced-tabs-placeholder-body = Ko naslednjič odprete stran v { -brand-product-name(sklon: "dajalnik") } na drugi napravi, si jo lahko ogledate tudi tukaj.
 firefoxview-collapse-button-show =
     .title = Prikaži seznam
 firefoxview-collapse-button-hide =
