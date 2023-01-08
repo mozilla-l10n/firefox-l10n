@@ -79,6 +79,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title =
     { $tabCount ->
+        [one] Zamknąć { $tabCount } kartę?
         [few] Zamknąć { $tabCount } karty?
        *[many] Zamknąć { $tabCount } kart?
     }
@@ -93,6 +94,7 @@ tabbrowser-confirm-close-tabs-checkbox = Pytaj o potwierdzenie przed zamknięci
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
     { $windowCount ->
+        [one] Zamknąć { $windowCount } okno?
         [few] Zamknąć { $windowCount } okna?
        *[many] Zamknąć { $windowCount } okien?
     }
