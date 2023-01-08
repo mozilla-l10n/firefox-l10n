@@ -83,6 +83,7 @@ permissions-exceptions-etp-window2 =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Avètz desactivat las proteccions per aquestes sites web.
+permissions-exceptions-manage-etp-desc = Podètz indicar los sites web qu’an la Proteccion renfortida contra lo seguiment desactivada. Picatz l’adreça exacta del site que volètz gerir puèi clicatz « Apondre una excepcion ».
 
 ## Exceptions - Cookies
 
