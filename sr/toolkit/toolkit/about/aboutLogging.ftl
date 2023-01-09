@@ -2,17 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the title of the page
-about-logging-title = О снимању
-about-logging-current-log-file = Тренутна датотека евиденције:
-about-logging-current-log-modules = Тренутни модули за бележење:
-about-logging-log-tutorial = Погледајте <a data-l10n-name="logging">HTTP бележење</a> за инструкције о коришћењу овог алата.
-# This message is used as a button label, "Open" indicates an action.
-about-logging-open-log-file-dir = Отвори фасциклу
-about-logging-set-log-file = Подеси датотеку за бележење
-about-logging-set-log-modules = Подеси модуле за бележење
-about-logging-start-logging = Покрени бележење
-about-logging-stop-logging = Заустави бележење
+
+## The following feature name must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
 -profiler-brand-name =
     { $case ->
        *[nom] Firefox Profiler
@@ -22,3 +24,40 @@ about-logging-stop-logging = Заустави бележење
         [ins] Firefox Profiler-ом
         [loc] Firefox Profiler-у
     }
+
+##
+
+# This is the title of the page
+about-logging-title = О бележењу
+about-logging-page-title = Управљач бележења
+about-logging-current-log-file = Тренутна датотека евиденције:
+about-logging-current-log-modules = Тренутни модули за бележење:
+about-logging-new-log-file = Нова датотека евиденције:
+about-logging-currently-enabled-log-modules = Тренутно омогућени модули за бележење:
+about-logging-log-tutorial = Погледајте <a data-l10n-name="logging">HTTP бележење</a> за инструкције о коришћењу овог алата.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Отвори фасциклу
+about-logging-set-log-file = Подеси датотеку за бележење
+about-logging-set-log-modules = Подеси модуле за бележење
+about-logging-start-logging = Покрени бележење
+about-logging-stop-logging = Заустави бележење
+about-logging-buttons-disabled = Бележење је конфигурисано преко променљивих окружења, динамичка конфигурација није доступна.
+about-logging-some-elements-disabled = Бележење је конфигурисано преко URL-а, неке опције конфигурације нису доступне
+about-logging-info = Информације:
+about-logging-log-modules-selection = Избор модула за бележење
+about-logging-new-log-modules = Нови модули за бележење:
+about-logging-logging-output-selection = Излаз бележења
+about-logging-logging-to-file = Бележење у датотеку
+about-logging-logging-to-profiler = Бележење у { -profiler-brand-name }
+about-logging-no-log-modules = Ништа
+about-logging-no-log-file = Ништа
+about-logging-logging-preset-selector-text = Унапред подешено бележење:
+
+## Logging presets
+
+about-logging-preset-networking-label = Мрежа
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+
