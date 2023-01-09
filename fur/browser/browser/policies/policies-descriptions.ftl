@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Impedìs al utent di ignorâ cierts avertiments d
 policy-DisableSetAsDesktopBackground = Disabilite il comant dal menù “Met come fondâl dal scritori” pes imagjins.
 policy-DisableSystemAddonUpdate = Impedìs al navigadôr di instalâ e inzornâ components adizionâi di sisteme.
 policy-DisableTelemetry = Distude la telemetrie.
+policy-DisableThirdPartyModuleBlocking = Impedìs al utent di blocâ i modui di tiercis parts che a vegnin inserîts tal process di { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Visualize la sbare dai segnelibris tant che impostazion predefinide.
 policy-DisplayMenuBar = Visualize la sbare dai menù tant che impostazion predefinide.
 policy-DNSOverHTTPS = Configure DNS sore HTTPS.

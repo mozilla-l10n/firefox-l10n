@@ -21,6 +21,7 @@ styleeditor-save-button = Salve
 styleeditor-options-button =
     .tooltiptext = Opzions dal editôr di stîi
 styleeditor-media-rules = Regulis @media
+styleeditor-at-rules = Regulis @
 styleeditor-editor-textbox =
     .data-placeholder = Scrîf achì il CSS.
 styleeditor-no-stylesheet = Cheste pagjine no à un sfuei di stîl.
