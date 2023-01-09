@@ -26,7 +26,7 @@ import-from-nothing =
     .label = 不导入任何数据
     .accesskey = D
 import-from-safari =
-    .label = Safari
+    .label = Safari 浏览器
     .accesskey = S
 import-from-opera =
     .label = Opera
@@ -67,7 +67,7 @@ import-items-page-title = 要导入的项目
 import-items-description = 请选择要导入的项目：
 import-permissions-page-title = 请授权 { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS 要求您明确允许 { -brand-short-name } 访问 Safari 书签才能继续。请点击“继续”，并从显示的打开文件面板中选择“Bookmarks.plist”文件。
+import-permissions-description = macOS 要求您明确允许 { -brand-short-name } 访问 Safari 浏览器书签才能继续。请点击“继续”，并从显示的打开文件面板中选择“Bookmarks.plist”文件。
 import-migrating-page-title = 正在导入…
 import-migrating-description = 正在导入下列项目…
 import-select-profile-page-title = 选择配置文件
@@ -78,7 +78,7 @@ import-close-source-browser = 请先关闭选定的浏览器，再继续操作�
 source-name-ie = 微软 IE 浏览器
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-imported-safari-reading-list = 阅读列表（来自 Safari）
+imported-safari-reading-list = 阅读列表（来自 Safari 浏览器）
 imported-edge-reading-list = 阅读列表（来自 Edge）
 
 ## Browser data types
