@@ -41,6 +41,8 @@ about-logging-new-log-modules = Nouveaux modules de journalisation :
 about-logging-logging-output-selection = Sortie du journal
 about-logging-logging-to-file = Sortie vers un fichier
 about-logging-logging-to-profiler = Sortie vers le { -profiler-brand-name }
+about-logging-no-log-modules = Aucun
+about-logging-no-log-file = Aucun
 about-logging-logging-preset-selector-text = Réglage de journalisation :
 
 ## Logging presets
