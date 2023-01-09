@@ -66,7 +66,7 @@ cert-error-details-cert-chain-label = Veriga digitalnih potrdil:
 open-in-new-window-for-csp-or-xfo-error = Odpri stran v novem oknu
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Da bi zaščitil vašo varnost, { $hostname } { -brand-short-name }u ne bo dovolil prikazovanja strani, ki jo je druga stran vdelala. Če si želite ogledati to stran, jo odprite v novem oknu.
+csp-xfo-blocked-long-desc = Da bi zaščitil vašo varnost, { $hostname } { -brand-short-name(sklon: "dajalnik") } ne bo dovolil prikaza strani, ki je vdelana v drugo spletno mesto. Če si želite ogledati to stran, jo odprite v novem oknu.
 
 ## Messages used for certificate error titles
 
