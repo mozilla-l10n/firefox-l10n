@@ -165,6 +165,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການສືບສວນຂໍ້ບົກພ່ອງເຄືອຂ່າຍໃນ { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = ເຄືອຂ່າຍ
+profiler-popup-presets-power-description = ກຳນົດໄວ້ລ່ວງໜ້າສຳລັບການສືບສວນຂໍ້ບົກພ່ອງການໃຊ້ພະລັງງານໃນ { -brand-shorter-name }, ໂດຍມີສ່ວນເກີນຕ່ຳ.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ພະລັງງານ

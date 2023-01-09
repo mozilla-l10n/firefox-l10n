@@ -201,6 +201,7 @@ menu-history-undo-menu =
     .label = ແຖບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 menu-history-undo-window-menu =
     .label = ວິນໂດທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
+menu-history-reopen-all-tabs = ເປີດແຖບທັງໝົດຄືນໃໝ່
 menu-history-reopen-all-windows = ເປີດແຖບທັງໝົດຄືນໃໝ່
 
 ## Bookmarks Menu

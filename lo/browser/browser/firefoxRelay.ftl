@@ -13,7 +13,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ບໍ່ສາ�
 
 ##
 
-firefox-relay-must-login-to-fxa = ທ່ານຕ້ອງເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name } ເພື່ອໃຊ້ { -relay-brand-name }.
+firefox-relay-must-login-to-fxa = ທ່ານຕ້ອງເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name } ຈຶ່ງຈະສາມາດໃຊ້ { -relay-brand-name } ໄດ້.
 firefox-relay-get-unlimited-masks =
     .label = ຈັດການຕົວປິດບັງ
     .accesskey = M
