@@ -37,7 +37,7 @@ pocket-panel-signup-add-tags = Adicionar etiquetas:
 
 pocket-panel-signup-already-have = Já é um usuário do { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Saiba mais
-pocket-panel-signup-login = Entre
+pocket-panel-signup-login = Entrar
 pocket-panel-signup-signup-email = Cadastre-se por email
 pocket-panel-signup-signup-cta = Cadastre-se no { -pocket-brand-name }. É gratuito.
 pocket-panel-signup-signup-firefox = Cadastre-se pelo { -brand-product-name }
