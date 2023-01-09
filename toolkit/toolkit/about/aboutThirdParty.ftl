@@ -45,10 +45,21 @@ third-party-button-open =
 third-party-button-to-block =
     .title = Bloquer ce module
     .aria-label = Bloquer ce module
+third-party-button-to-unblock =
+    .title = Actuellement bloqué. Cliquez pour le débloquer.
+    .aria-label = Actuellement bloqué. Cliquez pour le débloquer.
+third-party-button-to-unblock-disabled =
+    .title =
+        Actuellement marqué comme bloqué, bien que la liste de blocage soit désactivée pour cette exécution
+        de { -brand-short-name }. Cliquez pour le débloquer.
+    .aria-label =
+        Actuellement marqué comme bloqué, bien que la liste de blocage soit désactivée pour cette exécution
+        de { -brand-short-name }. Cliquez pour le débloquer.
 third-party-button-expand =
     .title = Afficher les informations détaillées
 third-party-button-collapse =
     .title = Masquer les informations détaillées
+third-party-requires-restart = { -brand-short-name } doit redémarrer pour changer les modules tiers bloqués.
 third-party-should-restart-title = Redémarrer { -brand-short-name }
 third-party-should-restart-ok = Redémarrer { -brand-short-name } maintenant
 third-party-restart-later = Redémarrer plus tard
