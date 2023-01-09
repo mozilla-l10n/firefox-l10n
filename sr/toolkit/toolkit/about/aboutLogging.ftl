@@ -74,3 +74,4 @@ about-logging-unknown-profiler-preset = Непознат унапред поде
 about-logging-unknown-option = Непозната about:logging опција “{ $k }“
 about-logging-configuration-url-ignored = URL конфигурације је игнорисан
 about-logging-file-and-profiler-override = Није могуће истовремено наметнути излаз датотеке и заменити опције профајлера
+about-logging-configured-via-url = Параметар је конфигурисан преко URL-а
