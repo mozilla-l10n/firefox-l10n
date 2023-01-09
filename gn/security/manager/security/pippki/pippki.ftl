@@ -8,22 +8,18 @@ password-quality-meter = Ñe’ẽñemi rekoporã ra’ãha
 
 change-device-password-window =
     .title = Emoambue ñe’ẽñemi
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Mba’e’oka tekorosãrã: { $tokenName }
 change-password-old = Ñe’ẽñemi ag̃agua:
 change-password-new = Ñe’ẽñemi pyahu:
 change-password-reenter = Ñe’ẽñemi pyahu: (ñemoneĩ):
-
 pippki-failed-pw-change = Ndaikatúi emoambue ne’ẽñemi.
 pippki-incorrect-pw = Neremoingeporãi ne’ẽñemi ha’etéva ag̃aguáva. Eha’ãjey upe rire.
 pippki-pw-change-ok = Emoambuéma ñe’ẽñemi hekopete.
-
 pippki-pw-empty-warning = Ne ñe’ẽñemi mbyatypyre ha ñe’ẽkañy ñemigua noñemo’ãi.
 pippki-pw-erased-ok = Emboguéma ne ñe’ẽñemi. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ¡Ema’ẽke! Emboykéma peteĩ ñe’ẽñemi jepuru. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Ko’ag̃aite oĩhína FIPS rekópe. FIPS oikotevẽ ñe’ẽñemi inandi’ỹva.
 
 ## Reset Primary Password dialog
@@ -31,14 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Ko’ag̃aite oĩhína FIPS rekópe. FIPS 
 reset-primary-password-window =
     .title = Eguerujey Ñe’ẽñemi Ha’etéva
     .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Eguerujey Ñe’ẽñemi Ha’etéva
     .style = min-width: 40em
 reset-password-button-label =
     .label = Mbojevyjey
 reset-primary-password-text = Eguerujeýramo ne ñe’ẽñemi ha’etéva, opaite ñanduti ñe’ẽñemi ha ñandutiveve, mboajepyre nemba’éva, ha pe’aha ñemigua mbyatypyre ojehejareíta. ¿Añetehápe reguerusejey ne Ñe’ẽñemi Ha’etéva?
-
 pippki-reset-password-confirmation-title = Eguerujey Ñe’ẽñemi Ñepyrũgua
 pippki-reset-password-confirmation-message = Ojeguerujeýma ne ñe’ẽñemi ha’etéva.
 
@@ -47,7 +41,6 @@ pippki-reset-password-confirmation-message = Ojeguerujeýma ne ñe’ẽñemi ha
 download-cert-window =
     .title = Mboajepyréva ñemboguejy
     .style = width: 46em
-
 download-cert-window2 =
     .title = Mboajepyréva ñemboguejy
     .style = min-width: 46em
@@ -86,3 +79,9 @@ protected-auth-window =
     .title = Jehechaukaha omo’ãva token
 protected-auth-msg = Ejehechaukáke pe token ndive. Pe jehechauka ra’ãha oñondive pe token mba’echaguaitépa.
 protected-auth-token = Hecharãnte:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Ejekuaauka eipurúvo token “{ $tokenName }”. Mba’éicha ejapóta odepende pe token rehe (techapyrã, eipurúvo kuãhũ moñe’ẽha térã emoingévo ayvu tairenda ndive).
