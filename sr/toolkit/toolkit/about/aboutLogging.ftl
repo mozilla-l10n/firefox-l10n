@@ -56,8 +56,21 @@ about-logging-logging-preset-selector-text = Унапред подешено б�
 ## Logging presets
 
 about-logging-preset-networking-label = Мрежа
+about-logging-preset-networking-description = Модули за бележење дијагностификације проблема са мрежом
+about-logging-preset-media-playback-label = Репродукција медија
+about-logging-preset-media-playback-description = Модули за бележење дијагностификације проблема са репродукцијом медија (не проблема са видео конференцијама)
+about-logging-preset-custom-label = Прилагођено
+about-logging-preset-custom-description = Ручно одабрани модули за бележење
+# Error handling
+about-logging-error = Грешка:
 
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Неважећа вредност “{ $v }“ за кључ “{ $k }“
+about-logging-unknown-logging-preset = Непознато унапред подешено бележење “{ $v }“
+about-logging-unknown-profiler-preset = Непознат унапред подешен профајлер “{ $v }“
+about-logging-unknown-option = Непозната about:logging опција “{ $k }“
+about-logging-configuration-url-ignored = URL конфигурације је игнорисан
+about-logging-file-and-profiler-override = Није могуће истовремено наметнути излаз датотеке и заменити опције профајлера
