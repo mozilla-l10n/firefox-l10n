@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = For å få tilgang til fanen
 firefoxview-tabpickup-password-locked-link = Les mer
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovedpassordet
 firefoxview-tabpickup-signed-out-header = Logg inn for å koble til på nytt
+firefoxview-tabpickup-signed-out-description = For å koble til igjen og få tak i fanene dine, logg in på din { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Logg inn
 firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tar bare et øyeblikk.
 firefoxview-mobile-promo-header = Åpne faner fra telefonen eller nettbrettet
