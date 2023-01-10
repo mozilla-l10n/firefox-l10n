@@ -131,7 +131,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = εξαγάγει α
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Παρακαλώ εισαγάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις αποθηκευμένες συνδέσεις & κωδικούς πρόσβασης
+about-logins-primary-password-notification-message = Παρακαλώ εισαγάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις αποθηκευμένες συνδέσεις και κωδικούς πρόσβασης
 master-password-reload-button =
     .label = Σύνδεση
     .accesskey = Σ
