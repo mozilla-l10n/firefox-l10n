@@ -8,8 +8,8 @@
 about-glean-page-title = เกี่ยวกับ Glean
 about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> เป็นไลบรารีการรวบรวมข้อมูลที่ใช้ในผลิตภัณฑ์ของ Mozilla หน้านี้มีไว้สำหรับนักพัฒนาและนักทดสอบที่ต้องการ<a data-l10n-name="fog-debug-doc-link">กำหนดค่าสถานะการดีบั๊กและการบันทึกใน Glean SDK</a>
 about-glean-warning = การใช้อินเทอร์เฟซนี้ในทางที่ผิดอาจทำให้ { -brand-short-name } ล่ม
-
 tag-pings-label = เพิ่มแท็ก Ping ที่ส่งทั้งหมดด้วยแท็กนี้
 log-pings-label = บันทึกเพย์โหลด Ping ลงรายการก่อนส่งหรือไม่?
 send-pings-label = ส่ง Ping ที่มีชื่อ
 controls-button-label = ส่งการตั้งค่า
+controls-button-label-verbose = นำการตั้งค่าไปใช้และส่ง ping
