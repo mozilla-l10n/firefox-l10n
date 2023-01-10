@@ -783,6 +783,9 @@ forms-breach-alerts =
     .label = แสดงการแจ้งเตือนเกี่ยวกับรหัสผ่านสำหรับเว็บไซต์ที่มีการรั่วไหล
     .accesskey = b
 forms-breach-alerts-learn-more-link = เรียนรู้เพิ่มเติม
+relay-integration =
+    .label = เปิดใช้งาน { -relay-brand-name } ในตัวจัดการรหัสผ่านของ { -brand-short-name } ของคุณ
+relay-integration-learn-more-link = เรียนรู้เพิ่มเติม
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = กรอกการเข้าสู่ระบบและรหัสผ่านอัตโนมัติ

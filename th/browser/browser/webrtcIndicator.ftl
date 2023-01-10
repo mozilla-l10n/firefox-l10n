@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - ตัวบ่งชี้การแบ่งปัน
 webrtc-indicator-window =
     .title = { -brand-short-name } - ตัวบ่งชี้การแบ่งปัน
@@ -22,7 +20,7 @@ webrtc-indicator-window =
 
 webrtc-item-camera = กล้อง
 webrtc-item-microphone = ไมโครโฟน
-webrtc-item-audio-capture = เสียงของแท็บ
+webrtc-item-audio-capture = เสียงในแท็บ
 webrtc-item-application = แอปพลิเคชัน
 webrtc-item-screen = หน้าจอ
 webrtc-item-window = หน้าต่าง
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = คุณกำลังแบ่งปันกล้องของคุณ คลิกเพื่อควบคุมการแบ่งปัน
 webrtc-microphone-system-menu =
@@ -142,6 +137,7 @@ webrtc-allow-share-screen-and-audio-capture = อนุญาตให้ { $ori
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิอนุญาตให้กับ { $thirdParty } ในการฟังเสียงของแท็บนี้หรือไม่?
 webrtc-allow-share-camera-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงกล้องของคุณหรือไม่?
 webrtc-allow-share-microphone-unsafe-delegations = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงไมโครโฟนของคุณหรือไม่?
 webrtc-allow-share-microphone-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงไมโครโฟนของคุณหรือไม่?
