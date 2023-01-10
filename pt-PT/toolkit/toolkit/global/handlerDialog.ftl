@@ -32,6 +32,7 @@ permission-dialog-description-extension-app = Permitir que a extensão { $extens
 
 permission-dialog-remember = Permitir sempre que <strong>{ $host }</strong> possa abrir ligações <strong>{ $scheme }</strong>.
 permission-dialog-remember-file = Permitir sempre que este ficheiro possa abrir ligações <strong>{ $scheme }</strong>.
+permission-dialog-remember-extension = Sempre permitir que esta extensão abra ligações <strong>{ $scheme }</strong>
 
 ##
 
