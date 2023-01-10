@@ -32,7 +32,7 @@ category-home =
 pane-search-title = Αναζήτηση
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Απόρρητο & ασφάλεια
+pane-privacy-title = Απόρρητο και ασφάλεια
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Συγχρονισμός
@@ -48,7 +48,7 @@ pane-experimental-reset =
     .label = Επαναφορά προεπιλογών
     .accesskey = Ε
 help-button-label = Υποστήριξη { -brand-short-name }
-addons-button-label = Επεκτάσεις & θέματα
+addons-button-label = Επεκτάσεις και θέματα
 focus-search =
     .key = f
 close-button =
@@ -212,7 +212,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = Οι επιλογές χρωμάτων σας υπερισχύουν της εμφάνισης του ιστοτόπου. <a data-l10n-name="colors-link">Διαχείριση χρωμάτων</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα <a data-l10n-name="themes-link">Επεκτάσεις & θέματα</a>
+preferences-web-appearance-footer = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα <a data-l10n-name="themes-link">Επεκτάσεις και θέματα</a>
 preferences-colors-header = Χρώματα
 preferences-colors-description = Αντικατάσταση των προεπιλεγμένων χρωμάτων του { -brand-short-name } για κείμενο, παρασκήνια ιστοτόπων και συνδέσμους.
 preferences-colors-manage-button =
@@ -783,7 +783,7 @@ privacy-header = Απόρρητο προγράμματος περιήγησης
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Συνδέσεις & κωδικοί πρόσβασης
+pane-privacy-logins-and-passwords-header = Συνδέσεις και κωδικοί πρόσβασης
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
@@ -1156,7 +1156,7 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = Άνοιγμα ρυθμίσεων
     .accesskey = Ά
-space-alert-over-5gb-message2 = <strong>Το { -brand-short-name } δεν διαθέτει επαρκή χώρο στον δίσκο.</strong> Το περιεχόμενο των ιστοτόπων ενδέχεται να μην εμφανίζεται κανονικά. Μπορείτε να διαγράψετε τα αποθηκευμένα δεδομένα στις Ρυθμίσεις > Απόρρητο & ασφάλεια > Cookies και δεδομένα ιστοτόπων.
+space-alert-over-5gb-message2 = <strong>Το { -brand-short-name } δεν διαθέτει επαρκή χώρο στον δίσκο.</strong> Το περιεχόμενο των ιστοτόπων ενδέχεται να μην εμφανίζεται κανονικά. Μπορείτε να διαγράψετε τα αποθηκευμένα δεδομένα στις Ρυθμίσεις > Απόρρητο και ασφάλεια > Cookies και δεδομένα ιστοτόπων.
 space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν διαθέτει επαρκή χώρο στον δίσκο.</strong> Το περιεχόμενο των ιστοτόπων ενδέχεται να μην εμφανίζεται κανονικά. Επισκεφθείτε το «Μάθετε περισσότερα» για να βελτιστοποιήσετε τη χρήση δίσκου σας για μια καλύτερη εμπειρία περιήγησης.
 
 ## Privacy Section - HTTPS-Only
