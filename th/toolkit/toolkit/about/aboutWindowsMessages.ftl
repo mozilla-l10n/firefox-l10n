@@ -9,4 +9,6 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+# Windows refers to the operating system
+windows-messages-page-title = ข้อมูลเกี่ยวกับข้อความจาก Windows
 windows-messages-copy-to-clipboard = คัดลอกไปยังคลิปบอร์ด
