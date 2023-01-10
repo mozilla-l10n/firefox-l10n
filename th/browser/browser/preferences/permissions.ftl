@@ -82,7 +82,8 @@ permissions-exceptions-etp-window =
 permissions-exceptions-etp-window2 =
     .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = คุณได้ปิดการป้องกันของเว็บไซต์เหล่านี้
+permissions-exceptions-etp-desc = คุณได้ปิดการป้องกันบนเว็บไซต์เหล่านี้
+permissions-exceptions-manage-etp-desc = คุณสามารถระบุเว็บไซต์ที่จะปิดการป้องกันการติดตามที่มากขึ้นได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก เพิ่มข้อยกเว้น
 
 ## Exceptions - Cookies
 
@@ -92,7 +93,7 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-window2 =
     .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น, อนุญาตในวาระ หรืออนุญาต
+permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น อนุญาตในวาระ หรือ อนุญาต
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -112,7 +113,7 @@ permissions-exceptions-popup-window =
 permissions-exceptions-popup-window2 =
     .title = เว็บไซต์ที่อนุญาต - ป๊อปอัป
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เปิดหน้าต่างป๊อปอัป พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
+permissions-exceptions-popup-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตให้เปิดหน้าต่างป๊อปอัปได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
 
 ## Exceptions - Saved Logins
 
@@ -132,7 +133,7 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-window2 =
     .title = เว็บไซต์ที่อนุญาต - การติดตั้งส่วนเสริม
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้ติดตั้งส่วนเสริม พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
+permissions-exceptions-addons-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตให้ติดตั้งส่วนเสริมได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
 
 ## Site Permissions - Autoplay
 
@@ -142,7 +143,7 @@ permissions-site-autoplay-window =
 permissions-site-autoplay-window2 =
     .title = การตั้งค่า - การเล่นอัตโนมัติ
     .style = { permissions-window2.style }
-permissions-site-autoplay-desc = คุณสามารถจัดการเว็บไซต์ที่ไม่ทำงานตามการตั้งค่าเล่นอัตโนมัติเริ่มต้นที่นี่
+permissions-site-autoplay-desc = คุณสามารถจัดการเว็บไซต์ที่ไม่ทำงานตามการตั้งค่าการเล่นอัตโนมัติเริ่มต้นได้ที่นี่
 
 ## Site Permissions - Notifications
 
