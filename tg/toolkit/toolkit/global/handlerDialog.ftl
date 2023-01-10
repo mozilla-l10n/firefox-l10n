@@ -9,19 +9,30 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+
+## Permission Dialog
+## Variables:
+##  $host - the hostname that is initiating the request
+##  $scheme - the type of link that's being opened.
+##  $appName - Name of the application that will be opened.
+##  $extension - Name of extension that initiated the request
+
 permission-dialog-description = Ба ин сомона иҷозат медиҳед, ки пайванди { $scheme }-ро кушояд?
 permission-dialog-description-file = Ба ин файл иҷозат медиҳед, ки пайванди { $scheme }-ро кушояд?
 permission-dialog-description-host = Ба ин { $host } иҷозат медиҳед, ки пайванди { $scheme }-ро кушояд?
+permission-dialog-description-extension = Ба васеъшавии { $extension } иҷозат медиҳед, ки пайванди { $scheme }-ро кушояд?
 permission-dialog-description-app = Ба ин сомона иҷозат медиҳед, ки пайванди { $scheme }-ро бо { $appName } кушояд?
 permission-dialog-description-host-app = Ба ин { $host } иҷозат медиҳед, ки пайванди { $scheme }-ро бо { $appName } кушояд?
 permission-dialog-description-file-app = Ба ин файл иҷозат медиҳед, ки пайванди { $scheme }-ро бо { $appName } кушояд?
+permission-dialog-description-extension-app = Ба васеъшавии { $extension } иҷозат медиҳед, ки пайванди { $scheme }-ро ба воситаи { $appName } кушояд?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
-permission-dialog-remember = Ба <strong>{ $host }</strong> ҳамеша иҷозат медиҳед, ки тавонад пайвандҳои <strong>{ $scheme }</strong>-ро кушояд
-permission-dialog-remember-file = Ба ин файл ҳамеша иҷозат медиҳед, ки тавонад пайвандҳои <strong>{ $scheme }</strong>-ро кушояд
+permission-dialog-remember = Ба <strong>{ $host }</strong> ҳамеша иҷозат диҳед, ки тавонад пайвандҳои <strong>{ $scheme }</strong>-ро кушояд
+permission-dialog-remember-file = Ба ин файл ҳамеша иҷозат диҳед, ки тавонад пайвандҳои <strong>{ $scheme }</strong>-ро кушояд
+permission-dialog-remember-extension = Ба ин васеъшавӣ ҳамеша иҷозат диҳед, ки тавонад пайвандҳои <strong>{ $scheme }</strong>-ро кушояд
 
 ##
 
