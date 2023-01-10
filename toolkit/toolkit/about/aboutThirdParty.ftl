@@ -66,3 +66,6 @@ third-party-requires-restart = { -brand-short-name } ต้องเริ่ม
 third-party-should-restart-title = เริ่มการทำงาน { -brand-short-name } ใหม่
 third-party-should-restart-ok = เริ่มการทำงาน { -brand-short-name } ใหม่ตอนนี้
 third-party-restart-later = เริ่มการทำงานใหม่ภายหลัง
+third-party-blocked-by-builtin =
+    .title = ถูกปิดกั้นโดย { -brand-short-name }
+    .alt = ถูกปิดกั้นโดย { -brand-short-name }
