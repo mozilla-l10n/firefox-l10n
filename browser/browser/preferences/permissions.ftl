@@ -5,81 +5,65 @@
 permissions-window =
     .title = ข้อยกเว้น
     .style = width: 45em
-
 permissions-window2 =
     .title = ข้อยกเว้น
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ที่อยู่เว็บไซต์
     .accesskey = ท
-
 permissions-block =
     .label = ปิดกั้น
     .accesskey = ป
-
+permissions-disable-etp =
+    .label = เพิ่มข้อยกเว้น
+    .accesskey = ย
 permissions-session =
     .label = อนุญาตในวาระ
     .accesskey = น
-
 permissions-allow =
     .label = อนุญาต
     .accesskey = อ
-
 permissions-button-off =
     .label = ปิด
-    .accesskey = O
-
+    .accesskey = ด
 permissions-button-off-temporarily =
     .label = ปิดชั่วคราว
-    .accesskey = T
-
+    .accesskey = ค
 permissions-site-name =
     .label = เว็บไซต์
-
 permissions-status =
     .label = สถานะ
-
 permissions-remove =
     .label = เอาเว็บไซต์ออก
     .accesskey = อ
-
 permissions-remove-all =
     .label = เอาเว็บไซต์ทั้งหมดออก
     .accesskey = ว
-
 permission-dialog =
     .buttonlabelaccept = บันทึกการเปลี่ยนแปลง
     .buttonaccesskeyaccept = บ
-
 permissions-autoplay-menu = ค่าเริ่มต้นสำหรับเว็บไซต์ทั้งหมด:
-
 permissions-searchbox =
     .placeholder = ค้นหาเว็บไซต์
-
 permissions-capabilities-autoplay-allow =
     .label = อนุญาตเสียงและวิดีโอ
 permissions-capabilities-autoplay-block =
     .label = ปิดกั้นเสียง
 permissions-capabilities-autoplay-blockall =
     .label = ปิดกั้นเสียงและวิดีโอ
-
 permissions-capabilities-allow =
     .label = อนุญาต
 permissions-capabilities-block =
     .label = ปิดกั้น
 permissions-capabilities-prompt =
     .label = ถามเสมอ
-
 permissions-capabilities-listitem-allow =
     .value = อนุญาต
 permissions-capabilities-listitem-block =
     .value = ปิดกั้น
 permissions-capabilities-listitem-allow-session =
     .value = อนุญาตในวาระ
-
 permissions-capabilities-listitem-off =
     .value = ปิด
 permissions-capabilities-listitem-off-temporarily =
@@ -95,7 +79,6 @@ permissions-invalid-uri-label = โปรดป้อนชื่อโฮสต
 permissions-exceptions-etp-window =
     .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
     .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
     .style = { permissions-window2.style }
@@ -106,7 +89,6 @@ permissions-exceptions-etp-desc = คุณได้ปิดการป้อ�
 permissions-exceptions-cookie-window =
     .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
     .style = { permissions-window2.style }
@@ -117,7 +99,6 @@ permissions-exceptions-cookie-desc = คุณสามารถระบุเ�
 permissions-exceptions-https-only-window =
     .title = ข้อยกเว้น - โหมด HTTPS-Only
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = ข้อยกเว้น - โหมด HTTPS-Only
     .style = { permissions-window2.style }
@@ -128,7 +109,6 @@ permissions-exceptions-https-only-desc = คุณสามารถปิดโ
 permissions-exceptions-popup-window =
     .title = เว็บไซต์ที่อนุญาต - ป๊อปอัป
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = เว็บไซต์ที่อนุญาต - ป๊อปอัป
     .style = { permissions-window2.style }
@@ -139,7 +119,6 @@ permissions-exceptions-popup-desc = คุณสามารถระบุเ�
 permissions-exceptions-saved-logins-window =
     .title = ข้อยกเว้น - การเข้าสู่ระบบที่บันทึกไว้
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = ข้อยกเว้น - การเข้าสู่ระบบที่บันทึกไว้
     .style = { permissions-window2.style }
@@ -150,7 +129,6 @@ permissions-exceptions-saved-logins-desc = การเข้าสู่ระ�
 permissions-exceptions-addons-window =
     .title = เว็บไซต์ที่อนุญาต - การติดตั้งส่วนเสริม
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = เว็บไซต์ที่อนุญาต - การติดตั้งส่วนเสริม
     .style = { permissions-window2.style }
@@ -161,7 +139,6 @@ permissions-exceptions-addons-desc = คุณสามารถระบุเ�
 permissions-site-autoplay-window =
     .title = การตั้งค่า - การเล่นอัตโนมัติ
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = การตั้งค่า - การเล่นอัตโนมัติ
     .style = { permissions-window2.style }
@@ -172,7 +149,6 @@ permissions-site-autoplay-desc = คุณสามารถจัดการ�
 permissions-site-notification-window =
     .title = การตั้งค่า - สิทธิอนุญาตการแจ้งเตือน
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = การตั้งค่า - สิทธิอนุญาตการแจ้งเตือน
     .style = { permissions-window2.style }
@@ -186,7 +162,6 @@ permissions-site-notification-disable-desc = นี่จะป้องกั�
 permissions-site-location-window =
     .title = การตั้งค่า - สิทธิอนุญาตตำแหน่งที่ตั้ง
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = การตั้งค่า - สิทธิอนุญาตตำแหน่งที่ตั้ง
     .style = { permissions-window2.style }
@@ -200,7 +175,6 @@ permissions-site-location-disable-desc = นี่จะป้องกันไ
 permissions-site-xr-window =
     .title = การตั้งค่า - สิทธิอนุญาตความจริงเสมือน
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = การตั้งค่า - สิทธิอนุญาตความจริงเสมือน
     .style = { permissions-window2.style }
@@ -214,7 +188,6 @@ permissions-site-xr-disable-desc = นี่จะป้องกันเว็
 permissions-site-camera-window =
     .title = การตั้งค่า - สิทธิอนุญาตกล้อง
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = การตั้งค่า - สิทธิอนุญาตกล้อง
     .style = { permissions-window2.style }
@@ -228,7 +201,6 @@ permissions-site-camera-disable-desc = นี่จะป้องกันไ�
 permissions-site-microphone-window =
     .title = การตั้งค่า - สิทธิอนุญาตไมโครโฟน
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = การตั้งค่า - สิทธิอนุญาตไมโครโฟน
     .style = { permissions-window2.style }
