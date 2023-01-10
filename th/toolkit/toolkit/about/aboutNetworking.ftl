@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = จำนวนแคชที่หน่ว
 about-networking-rcwn-cache-not-slow = จำนวนแคชที่ไม่ได้หน่วงเวลา
 about-networking-networkid = ID เครือข่าย
 about-networking-networkid-id = ID เครือข่าย
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = หน้านี้ถูกย้ายไปที่ <a data-l10n-name="about-logging-url">about:logging</a> แล้ว
 
 ## Link is intended as "network link"
 
