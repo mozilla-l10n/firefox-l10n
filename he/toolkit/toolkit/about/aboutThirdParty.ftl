@@ -63,3 +63,6 @@ third-party-requires-restart = יש להפעיל מחדש את { -brand-short-na
 third-party-should-restart-title = הפעלת { -brand-short-name } מחדש
 third-party-should-restart-ok = הפעלת { -brand-short-name } מחדש כעת
 third-party-restart-later = הפעלה מחדש מאוחר יותר
+third-party-blocked-by-builtin =
+    .title = חסום על־ידי { -brand-short-name }
+    .alt = חסום על־ידי { -brand-short-name }
