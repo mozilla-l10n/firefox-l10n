@@ -94,7 +94,6 @@ firefoxview-tabs-list-tab-button =
   .title = Apri { $targetURI } in una nuova scheda
 
 firefoxview-try-colorways-button = Prova nuove tonalità
-firefoxview-no-current-colorway-collection = Sono in arrivo nuove tonalità
 firefoxview-change-colorway-button = Cambia tonalità
 
 # Variables:
