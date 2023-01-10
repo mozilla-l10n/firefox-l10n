@@ -151,6 +151,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = ແນະນຳໃຫ້ຕັ້ງໄວ້ລ່ວງໜ້າສຳລັບການດີບັກແອັບເວັບສ່ວນໃຫຍ່, ໂດຍມີສ່ວນເກີນຕ່ຳ.
 profiler-popup-presets-web-developer-label =
     .label = ນັກພັດທະນາເວັບ
 profiler-popup-presets-firefox-description = ແນະນຳລ່ວງໜ້າສຳລັບການສ້າງໂປຣໄຟລ໌ { -brand-shorter-name }.

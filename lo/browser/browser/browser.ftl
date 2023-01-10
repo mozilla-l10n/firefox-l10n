@@ -121,6 +121,8 @@ urlbar-result-menu-remove-from-history =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-redirect-2 = ເລີ່ມການຄົ້ນຫາຂອງທ່ານໃນແຖບທີ່ຢູ່ເພື່ອເບິ່ງຄໍາແນະນໍາຈາກ { $engineName } ແລະປະຫວັດການທ່ອງເວັບຂອງທ່ານ.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = ການຊອກຫາໄດ້ງ່າຍຂຶ້ນ. ພະຍາຍາມເຮັດໃຫ້ການຊອກຫາຂອງທ່ານສະເພາະຫຼາຍຂຶ້ນຢູ່ທີ່ນີ້ໃນແຖບທີ່ຢູ່. ເພື່ອສະແດງ URL ແທນ, ໃຫ້ເຂົ້າໄປທີ່ Search, ໃນການຕັ້ງຄ່າ.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ເລືອກທາງລັດນີ້ເພື່ອຊອກຫາສິ່ງທີ່ທ່ານຕ້ອງການໄວຂຶ້ນ.

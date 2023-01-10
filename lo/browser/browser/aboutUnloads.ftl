@@ -7,6 +7,14 @@
 ### feature.
 
 about-unloads-page-title = ການເລີກໂຫຼດແຖບ
+about-unloads-intro =
+    { -brand-short-name } ມີຄຸນສົມບັດທີ່ຈະຖອນແທັບອັດຕະໂນມັດ
+    ເພື່ອປ້ອງກັນບໍ່ໃຫ້ແອັບພລິເຄຊັນຂັດຂ້ອງເນື່ອງຈາກຄວາມຈຳບໍ່ພຽງພໍ
+    ເມື່ອໜ່ວຍຄວາມຈຳຂອງລະບົບມີໜ້ອຍ. ແຖບຕໍ່ໄປທີ່ຈະ unloaded ແມ່ນ
+    ເລືອກໂດຍອີງໃສ່ຄຸນລັກສະນະຫຼາຍອັນ. ຫນ້ານີ້ສະແດງໃຫ້ເຫັນວິທີການ
+    { -brand-short-name } ຈັດລຳດັບຄວາມສຳຄັນຂອງແຖບ ແລະແຖບໃດຈະຖືກຍົກເລີກການໂຫຼດ
+    ເມື່ອການຍົກເລີກແຖບຖືກກະຕຸ້ນ. ທ່ານສາມາດກະຕຸ້ນການຍົກເລີກການໂຫຼດແຖບດ້ວຍຕົນເອງ
+    ໂດຍການຄລິກທີ່ປຸ່ມ <em>Unload</em> ດ້ານລຸ່ມ.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
