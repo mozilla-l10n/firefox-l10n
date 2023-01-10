@@ -11,4 +11,10 @@
 
 # Windows refers to the operating system
 windows-messages-page-title = ข้อมูลเกี่ยวกับข้อความจาก Windows
+windows-messages-intro =
+    หน้านี้แสดงข้อความล่าสุดที่ส่งโดย Windows
+    ไปยังหน้าต่างเบราว์เซอร์ของ { -brand-short-name }
+    รายการที่เป็นตัวหนาแสดงถึงหน้าต่างนี้ โปรดทราบว่าหน้านี้แสดง
+    ข้อความล่าสุดในขณะที่โหลดหน้าเว็บ
+    หากต้องการดูรายการปัจจุบัน คุณจะต้องเรียกหน้านี้ใหม่
 windows-messages-copy-to-clipboard = คัดลอกไปยังคลิปบอร์ด
