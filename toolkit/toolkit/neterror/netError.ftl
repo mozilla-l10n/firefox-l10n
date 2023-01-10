@@ -52,6 +52,10 @@ neterror-dns-not-found-hint-firewall = Ελέγξετε εάν το { -brand-sho
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-offline = Δεν έχετε συνδεθεί στο διαδίκτυο.
+neterror-dns-not-found-trr-unknown-host = Δεν βρέθηκε διεύθυνση για αυτόν τον ιστότοπο από το { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Προέκυψε πρόβλημα με το { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Απροσδόκητο πρόβλημα.
 
 ##
 
