@@ -63,7 +63,7 @@ permissions-capabilities-listitem-allow =
 permissions-capabilities-listitem-block =
     .value = Блакаваць
 permissions-capabilities-listitem-allow-session =
-    .value = Дазволіць на час сэсіі
+    .value = Дазволіць на сеанс
 permissions-capabilities-listitem-off =
     .value = Выкл.
 permissions-capabilities-listitem-off-temporarily =
@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Увядзіце назву хоста
 permissions-exceptions-etp-window =
     .title = Выключэнні для ўзмоцненай аховы ад сачэння
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Вы адключылі ахову на гэтых сайтах.
 permissions-exceptions-etp-window2 =
     .title = Выключэнні для ўзмоцненай аховы ад сачэння
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Вы адключылі ахову на гэтых сайтах.
 permissions-exceptions-manage-etp-desc = Вы можаце вызначыць, на якіх вэб-сайтах узмоцненая ахова ад сачэння будзе выключана. Набярыце дакладны адрас сайта, а затым націсніце «Дадаць выключэнне».
 
 ## Exceptions - Cookies
