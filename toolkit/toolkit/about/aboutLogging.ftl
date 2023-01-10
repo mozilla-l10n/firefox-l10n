@@ -33,9 +33,14 @@ about-logging-set-log-file = ตั้งไฟล์รายการบัน
 about-logging-set-log-modules = ตั้งโมดูลรายการบันทึก
 about-logging-start-logging = เริ่มการบันทึก
 about-logging-stop-logging = หยุดการบันทึก
+about-logging-buttons-disabled = การบันทึกถูกกำหนดค่าผ่านตัวแปรสภาพแวดล้อม การกำหนดค่าแบบไดนามิกไม่พร้อมใช้งาน
+about-logging-some-elements-disabled = การบันทึกถูกกำหนดค่าผ่าน URL ตัวเลือกการกำหนดค่าบางอย่างไม่สามารถใช้งานได้
 about-logging-info = ข้อมูล:
+about-logging-log-modules-selection = การเลือกโมดูลบันทึก
 about-logging-new-log-modules = โมดูลบันทึกใหม่:
+about-logging-logging-output-selection = ผลลัพธ์การบันทึก
 about-logging-logging-to-file = การบันทึกลงไฟล์
+about-logging-logging-to-profiler = การบันทึกลง { -profiler-brand-name }
 about-logging-no-log-modules = ไม่มี
 about-logging-no-log-file = ไม่มี
 about-logging-logging-preset-selector-text = ค่าที่ตั้งไว้ล่วงหน้าของการบันทึก:
@@ -44,6 +49,7 @@ about-logging-logging-preset-selector-text = ค่าที่ตั้งไ�
 
 about-logging-preset-networking-label = ระบบเครือข่าย
 about-logging-preset-media-playback-label = การเล่นสื่อ
+about-logging-preset-custom-label = กำหนดเอง
 # Error handling
 about-logging-error = ข้อผิดพลาด:
 
