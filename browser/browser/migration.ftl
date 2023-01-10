@@ -26,7 +26,7 @@ import-from-nothing =
     .label = 不导入任何数据
     .accesskey = D
 import-from-safari =
-    .label = Safari 浏览器
+    .label = Safari
     .accesskey = S
 import-from-opera =
     .label = Opera
@@ -78,7 +78,7 @@ import-close-source-browser = 请先关闭选定的浏览器，再继续操作�
 source-name-ie = 微软 IE 浏览器
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-imported-safari-reading-list = 阅读列表（来自 Safari 浏览器）
+imported-safari-reading-list = 阅读列表（来自 Safari）
 imported-edge-reading-list = 阅读列表（来自 Edge）
 
 ## Browser data types
