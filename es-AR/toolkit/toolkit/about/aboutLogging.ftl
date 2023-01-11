@@ -40,10 +40,10 @@ about-logging-log-modules-selection = Selección de módulos de registro
 about-logging-new-log-modules = Nuevos módulos de registro:
 about-logging-logging-output-selection = Salida de registro
 about-logging-logging-to-file = Registro en un archivo
-about-logging-logging-to-profiler = Iniciar sesión en { -profiler-brand-name }
+about-logging-logging-to-profiler = Registrando en { -profiler-brand-name }
 about-logging-no-log-modules = Ninguno
 about-logging-no-log-file = Ninguno
-about-logging-logging-preset-selector-text = Inicio de sesión preestablecido:
+about-logging-logging-preset-selector-text = Registro preestablecido:
 
 ## Logging presets
 
@@ -61,8 +61,8 @@ about-logging-error = Error:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Valor inválido “{ $v }“ para la clave “{ $k }“
-about-logging-unknown-logging-preset = Valor preestablecido de inicio de sesión desconocido "{ $v }"
-about-logging-unknown-profiler-preset = Perfilador predeterminado desconocido "{ $v }"
+about-logging-unknown-logging-preset = Valor preestablecido de inicio de sesión desconocido “{ $v }“
+about-logging-unknown-profiler-preset = Perfilador predeterminado desconocido “{ $v }“
 about-logging-unknown-option = Opción about:logging desconocida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuración ignorada
 about-logging-file-and-profiler-override = No se puede forzar la salida del archivo y anular las opciones del perfilador al mismo tiempo
