@@ -53,6 +53,13 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Actualament blocat. Clicar per lo desblocar.
     .aria-label = Actualament blocat. Clicar per lo desblocar.
+third-party-button-to-unblock-disabled =
+    .title =
+        Actualament marcat coma blocat, encara que la lista de blocatge siá desactivada per aquesta execucion
+        de { -brand-short-name }. Clicatz per lo desblocar.
+    .aria-label =
+        Actualament marcat coma blocat, encara que la lista de blocatge siá desactivada per aquesta execucion
+        de { -brand-short-name }. Clicatz per lo desblocar.
 third-party-button-expand =
     .title = Mostrar las informacions detalhadas
 third-party-button-collapse =
