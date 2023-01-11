@@ -56,6 +56,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = ທ່ອງເວັບໂດຍບໍ່ມີການຕິດຕາມ
+cfr-protections-panel-body = ຮັກສາຂໍ້ມູນຂອງທ່ານໃຫ້ກັບຕົວທ່ານເອງ. { -brand-short-name } ປົກປ້ອງທ່ານຈາກຫຼາຍຕົວຕິດຕາມທົ່ວໄປທີ່ສຸດທີ່ປະຕິບັດຕາມສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.
 cfr-protections-panel-link-text = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## What's New toolbar button and panel
@@ -70,6 +71,10 @@ cfr-whatsnew-release-notes-link-text = ອ່ານບັນທຶກການ�
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 = { -brand-short-name } ບລັອກຕົວຕິດຕາມ <b>{ $blockedCount }</b> ຕັ້ງແຕ່ { DATETIME($date, month: "long", year: "numeric") }!
 cfr-doorhanger-milestone-ok-button = ເບິງທັງໝົດ
     .accesskey = S
 cfr-doorhanger-milestone-close-button = ປິດ
@@ -85,6 +90,10 @@ cfr-doorhanger-doh-secondary-button = ປິດໃຊ້ງານ
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-header = ການແຍກໄຊ້
+cfr-doorhanger-fission-primary-button = ໂອເຄ, ເຂົ້າໃຈແລ້ວ!
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = ຮຽນຮູ້ເພີ່ມເຕີມ
+    .accesskey = L
 
 ## Full Video Support CFR message
 
@@ -105,7 +114,6 @@ cfr-doorhanger-video-support-primary-button = ອັບເດດດຽວນີ�
 
 spotlight-total-cookie-protection-primary-button = ເປີດການປົກປ້ອງຄຸກກີທັງໝົດ
 spotlight-total-cookie-protection-secondary-button = ຍັງເທື່ອ
-cfr-total-cookie-protection-header = ຂໍຂອບໃຈທ່ານ, { -brand-short-name } ແມ່ນເປັນສ່ວນຕົວ ແລະປອດໄພກວ່າທີ່ເຄີຍ
 
 ## Emotive Continuous Onboarding
 
