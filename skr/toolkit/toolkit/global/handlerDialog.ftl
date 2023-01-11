@@ -9,12 +9,22 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+
+## Permission Dialog
+## Variables:
+##  $host - the hostname that is initiating the request
+##  $scheme - the type of link that's being opened.
+##  $appName - Name of the application that will be opened.
+##  $extension - Name of extension that initiated the request
+
 permission-dialog-description = ایں سائٹ کوں { $scheme } لنک کھولݨ دی اجازت ݙیوو؟
 permission-dialog-description-file = ایں فائل کوں { $scheme } لنک کھولݨ دی اجازت ݙیوو؟
 permission-dialog-description-host = { $host } کوں { $scheme } لنک کھولݨ دی اجازت ݙیوو؟
+permission-dialog-description-extension = ایں ایکسٹنشن { $extension } کوں { $scheme } لنک کھولݨ دی اجازت ݙیوو؟
 permission-dialog-description-app = ایں سائٹ کوں { $scheme } لنک کوں { $appName } دے نال کھولݨ دی اجازت ݙیوو؟
 permission-dialog-description-host-app = { $host } کوں { $scheme } لنک کوں { $appName } دے نال کھولݨ دی اجازت ݙیوو؟
 permission-dialog-description-file-app = ایں فائل کوں { $scheme } لنک کوں { $appName } دے نال کھولݨ دی اجازت ݙیوو؟
+permission-dialog-description-extension-app = ایں ایکسٹنشن { $extension } کوں { $appName } نال { $scheme } لنک کھولݨ دی اجازت ݙیوو؟
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -22,6 +32,7 @@ permission-dialog-description-file-app = ایں فائل کوں { $scheme } لن
 
 permission-dialog-remember = ہمیشاں <strong>{ $host }</strong> کوں <strong>{ $scheme }</strong> لنکس کھولݨ دی اجازت ݙیوو
 permission-dialog-remember-file = ایں فائل کوں ہمیشاں <strong>{ $scheme }</strong> لنکس کھولݨ ݙیوو۔
+permission-dialog-remember-extension = ایں ایکسٹنشن کوں ہمیشاں <strong>{ $scheme }</strong> لنکس کھولݨ ݙیوو۔
 
 ##
 
