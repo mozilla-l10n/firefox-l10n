@@ -21,6 +21,7 @@
 
 # This is the title of the page
 about-logging-title = Tietoja lokituksesta
+about-logging-page-title = Lokihallinta
 about-logging-current-log-file = Nykyinen lokitiedosto:
 about-logging-current-log-modules = Nykyiset lokitusmoduulit:
 about-logging-new-log-file = Uusi lokitiedosto:
@@ -34,6 +35,9 @@ about-logging-set-log-file = Aseta lokitiedosto
 about-logging-set-log-modules = Aseta lokitusmoduulit
 about-logging-start-logging = Aloita lokitus
 about-logging-stop-logging = Pysäytä lokitus
+about-logging-buttons-disabled = Lokitus määritetty ympäristömuuttujien kautta, dynaaminen määritys ei ole käytettävissä.
+about-logging-some-elements-disabled = Lokitus määritetty URL-osoitteen kautta, jotkin määritysvaihtoehdot eivät ole käytettävissä
+about-logging-log-modules-selection = Lokimoduulin valinta
 about-logging-new-log-modules = Uudet lokimoduulit:
 about-logging-logging-to-file = Lokitetaan tiedostoon
 about-logging-logging-preset-selector-text = Lokituksen esiasetus:
