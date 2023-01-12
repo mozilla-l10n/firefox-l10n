@@ -39,6 +39,7 @@ firefoxview-tabpickup-sync-error-header = ພວກເຮົາມີບັນ�
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ບໍ່ສາມາດເຂົ້າຫາການບໍລິການຊິງຄ໌ໄດ້ໃນຕອນນີ້. ກະລຸນາລອງໃໝ່ໃນອີກຈັກໜ່ອຍ.
 firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກຄັ້ງ
 firefoxview-tabpickup-sync-disconnected-header = ເປີດການຊິງຄ໌ເພື່ອດຳເນີນການຕໍ່
+firefoxview-tabpickup-password-locked-header = ໃສ່ລະຫັດຜ່ານຫຼັກຂອງທ່ານເພື່ອເບິ່ງແຖບ
 firefoxview-tabpickup-password-locked-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 firefoxview-tabpickup-password-locked-primarybutton = ໃສ່ລະຫັດຜ່ານຫຼັກ
 firefoxview-tabpickup-signed-out-header = ເຂົ້າສູ່ລະບົບເພື່ອເຊື່ອມຕໍ່ຄືນໃຫມ່
@@ -61,7 +62,6 @@ firefoxview-pickup-tabs-badge = ການເຄື່ອນໄຫວຫຼ້າ
 firefoxview-tabs-list-tab-button =
     .title = ເປີດ { $targetURI } ໃນແຖບໃໝ່
 firefoxview-try-colorways-button = ລອງສີ
-firefoxview-no-current-colorway-collection = ສີສັນໃໝ່ກຳລັງມາ
 firefoxview-change-colorway-button = ປ່ຽນສີ
 # Variables:
 #  $intensity (String): Colorway intensity

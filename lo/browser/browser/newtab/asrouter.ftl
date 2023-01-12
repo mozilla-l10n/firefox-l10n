@@ -82,6 +82,7 @@ cfr-doorhanger-milestone-close-button = ປິດ
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = ປອດໄພກວ່າ, ການຊອກຫາ DNS ທີ່ເຂົ້າລະຫັດໄວ້
 cfr-doorhanger-doh-primary-button-2 = ຕົກລົງ
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = ປິດໃຊ້ງານ
