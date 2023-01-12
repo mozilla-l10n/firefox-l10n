@@ -1132,7 +1132,7 @@ security-block-downloads =
     .label = 拦截危险的下载项
     .accesskey = D
 security-block-uncommon-software =
-    .label = 发现流氓软件或罕见软件时发出警告
+    .label = 发现流氓软件或不寻常的软件时发出警告
     .accesskey = C
 
 ## Privacy Section - Certificates
