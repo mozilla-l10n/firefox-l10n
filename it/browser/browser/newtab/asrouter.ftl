@@ -72,21 +72,21 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Stop ai banner per i cookie
-cfr-cookie-banner-handling-body = Consenti a { -brand-short-name }, dove possibile, di rifiutare automaticamente tutte le richieste per i cookie. Altrimenti, accetta tutti i cookie per ridurre ulteriormente il numero di banner visualizzati.
+cfr-cookie-banner-handling-body = Consenti a { -brand-short-name }, se possibile, di rifiutare automaticamente tutte le richieste per i cookie. In caso contrario accetta tutti i cookie per ridurre ulteriormente il numero di banner visualizzati.
 cfr-cookie-banner-accept-button = Rifiuta richieste
   .accesskey = R
 cfr-cookie-banner-reject-button = Non adesso
   .accesskey = N
 
 cfr-cookie-banner-handling-header-variant-1 = Liberati dei pop-up per i cookie
-cfr-cookie-banner-handling-body-variant-1 = Consenti a { -brand-short-name } di rispondere automaticamente alle richieste nei pop-up per i cookie, così potrai ritornare a navigare senza distrazioni. { brand-short-name } rifiuterà tutte le richieste dove possibile, o accetterà tutto in caso contrario.
+cfr-cookie-banner-handling-body-variant-1 = Consenti a { -brand-short-name } di rispondere automaticamente alle richieste nei pop-up per i cookie, così potrai ritornare a navigare senza distrazioni. { brand-short-name } rifiuterà tutte le richieste, se possibile, o le accetterà tutte in caso contrario.
 cfr-cookie-banner-accept-button-variant-1 = Chiudi pop-up
   .accesskey = C
 cfr-cookie-banner-reject-button-variant-1 = No grazie
   .accesskey = N
 
 cfr-cookie-banner-handling-header-variant-2 = Riduzione banner per i cookie
-cfr-cookie-banner-handling-body-variant-2 = Consentire a { -brand-short-name } di rifiutare la richiesta di consenso per i cookie di un sito o accettare i cookie se questo non fosse possibile?
+cfr-cookie-banner-handling-body-variant-2 = Consentire a { -brand-short-name } di rifiutare la richiesta di consenso per i cookie da parte di un sito o accettare i cookie se questo non fosse possibile?
 cfr-cookie-banner-accept-button-variant-2 = Consenti
   .accesskey = C
 cfr-cookie-banner-reject-button-variant-2 = Non adesso
