@@ -24,6 +24,7 @@ permission-dialog-description-extension = { $extension } uzantısı { $scheme } 
 permission-dialog-description-app = Bu site { $scheme } bağlantısını { $appName } ile açabilsin mi?
 permission-dialog-description-host-app = { $host } sitesi { $scheme } bağlantısını { $appName } ile açabilsin mi?
 permission-dialog-description-file-app = Bu dosya { $scheme } bağlantısını { $appName } ile açabilsin mi?
+permission-dialog-description-extension-app = { $extension } uzantısının { $scheme } bağlantısını { $appName } ile açmasına izin verilsin mi?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -31,6 +32,7 @@ permission-dialog-description-file-app = Bu dosya { $scheme } bağlantısını {
 
 permission-dialog-remember = <strong>{ $host }</strong> sitesinin <strong>{ $scheme }</strong> bağlantılarını açmasına her zaman izin ver
 permission-dialog-remember-file = <strong>{ $scheme }</strong> bağlantılarını açmak için bu dosyaya her zaman izin ver
+permission-dialog-remember-extension = Bu uzantının <strong>{ $scheme }</strong> bağlantılarını açmasına her zaman izin ver
 
 ##
 
