@@ -9,12 +9,18 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 firefox-relay-mask-generation-failed = { -relay-brand-name } klarte ikkje å generere ei ny maske. HTTP-feilkode: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } klarte ikkje å finne masker som kan brukast på nytt. HTTP-feilkode: { $status }.
 
 ##
 
+firefox-relay-must-login-to-fxa = Du må logge på { -fxaccount-brand-name } for å bruke { -relay-brand-name }.
+firefox-relay-get-unlimited-masks =
+    .label = Handsam masker
+    .accesskey = H
 firefox-relay-opt-in-title = Vern e-postadressa di
 firefox-relay-opt-in-subtitle = Legg til { -relay-brand-name }
 firefox-relay-generate-mask-title = Vern e-postadressa di
+firefox-relay-generate-mask-subtitle = Generer { -relay-brand-short-name }-maske
 firefox-relay-opt-in-confirmation-enable =
     .label = Hald fram
     .accesskey = H
