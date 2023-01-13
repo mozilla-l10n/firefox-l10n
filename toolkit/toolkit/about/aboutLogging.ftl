@@ -21,6 +21,7 @@
 
 # This is the title of the page
 about-logging-title = Om logging
+about-logging-page-title = Logghandsamar
 about-logging-current-log-file = Gjeldande loggfil
 about-logging-current-log-modules = Gjeldande loggmodular:
 about-logging-new-log-file = Ny loggfil:
@@ -32,13 +33,19 @@ about-logging-set-log-modules = Vel loggmodular
 about-logging-start-logging = Start loggføring
 about-logging-stop-logging = Stopp loggføring
 about-logging-info = Info:
+about-logging-log-modules-selection = Loggmodulval
+about-logging-new-log-modules = Nye loggmodular
+about-logging-logging-output-selection = Loggresultat
+about-logging-logging-to-file = Loggar til ei fil
 about-logging-logging-to-profiler = Loggar til { -profiler-brand-name }
 about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
+about-logging-logging-preset-selector-text = Førehandsval for logging:
 
 ## Logging presets
 
 about-logging-preset-networking-label = Nettverk
+about-logging-preset-media-playback-label = Medieavspeling
 about-logging-preset-custom-label = Tilpassa
 # Error handling
 about-logging-error = Feil:
