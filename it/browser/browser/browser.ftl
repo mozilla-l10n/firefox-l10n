@@ -119,6 +119,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Rimuovi dalla cronologia
     .accesskey = R
+urlbar-result-menu-dismiss-firefox-suggest =
+    .label = Rimuovi questo suggerimento
+    .accesskey = s
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
