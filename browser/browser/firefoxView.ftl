@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = For å få tilgang til fanen
 firefoxview-tabpickup-password-locked-link = Les meir
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovudpassord
 firefoxview-tabpickup-signed-out-header = Logg inn for å kople til på nytt
+firefoxview-tabpickup-signed-out-description = For å kople til på nytt og få tak i fanene dine, logg in på { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Logg inn
 firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tek berre ein augneblink.
 firefoxview-mobile-promo-header = Opne faner frå telefonen eller nettbrettet
@@ -69,7 +70,6 @@ firefoxview-pickup-tabs-badge = Sist aktiv
 firefoxview-tabs-list-tab-button =
     .title = Opne { $targetURI } i ei ny fane
 firefoxview-try-colorways-button = Prøv fargesamansetjingar
-firefoxview-no-current-colorway-collection = Nye fargesamansetjingar er på veg
 firefoxview-change-colorway-button = Endre fargesamansetjing
 # Variables:
 #  $intensity (String): Colorway intensity
