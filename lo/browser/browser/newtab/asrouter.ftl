@@ -110,6 +110,8 @@ cfr-doorhanger-video-support-primary-button = ອັບເດດດຽວນີ�
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = ບໍ່ແມ່ນຕອນນີ້
+    .accesskey = N
 
 ## Total Cookie Protection Rollout
 

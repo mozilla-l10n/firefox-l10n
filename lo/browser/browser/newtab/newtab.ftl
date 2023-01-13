@@ -162,10 +162,13 @@ newtab-pocket-more-recommendations = ຂໍ້ແນະນໍາເພີ່ມ�
 newtab-pocket-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 newtab-pocket-cta-button = ຮັບ { -pocket-brand-name }
 newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ່ທ່ານຮັກໃນ { -pocket-brand-name }, ແລະນ້ໍາໃຈຂອງທ່ານກັບອ່ານທີ່ຫນ້າສົນໃຈ.
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = ໂຫຼດເລື່ອງເພີ່ມເຕີມ
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = ທ່ານໄດ້ອ່ານເລື່ອງລາວຄົບແລ້ວ!
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ບັນທຶກ
 newtab-pocket-saved = ບັນທຶກແລ້ວ

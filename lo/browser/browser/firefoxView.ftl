@@ -46,7 +46,9 @@ firefoxview-tabpickup-signed-out-header = ເຂົ້າສູ່ລະບົ�
 firefoxview-tabpickup-signed-out-primarybutton = ເຂົ້າສູ່ລະບົບ
 firefoxview-tabpickup-syncing = ນັ່ງຖ້າແປັບໜຶ່ງໃນຂະນະທີ່ແຖບຂອງທ່ານ sync. ມັນໃຊ້ເວລາແປັບດຽວ​.
 firefoxview-mobile-promo-header = ຈັບແຖບຈາກໂທລະສັບ ຫຼືແທັບເລັດຂອງທ່ານ
+firefoxview-mobile-promo-primarybutton = ເອົາ { -brand-product-name } ສໍາລັບມືຖື
 firefoxview-mobile-confirmation-header = 🎉 ດີຫຼາຍ!
+firefoxview-mobile-confirmation-description = ດຽວນີ້ທ່ານສາມາດຈັບແຖບ { -brand-product-name } ຂອງທ່ານຈາກແທັບເລັດ ຫຼືໂທລະສັບຂອງທ່ານ.
 firefoxview-closed-tabs-title = ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 firefoxview-closed-tabs-description2 = ເປີດໜ້າທີ່ທ່ານໄດ້ປິດຄືນໃໝ່ຢູ່ໃນໜ້າຈໍນີ້.
 firefoxview-closed-tabs-placeholder-header = ບໍ່ມີແຖບທີ່ປິດເມື່ອບໍ່ດົນມານີ້
@@ -68,6 +70,7 @@ firefoxview-change-colorway-button = ປ່ຽນສີ
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = ບໍ່ມີຫຍັງໃຫ້ເບິ່ງເທື່ອ
+firefoxview-synced-tabs-placeholder-body = ໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານເປີດໜ້າໃນ { -brand-product-name } ໃນອຸປະກອນອື່ນ, ຈັບມັນມາທີ່ນີ້ຄືກັບມາຍາກົນ.
 firefoxview-collapse-button-show =
     .title = ສະແດງລາຍການ
 firefoxview-collapse-button-hide =
