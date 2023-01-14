@@ -498,11 +498,11 @@ home-mode-choice-default =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (Predeterminado)
 home-mode-choice-custom =
-    .label = URLs personalizadas...
+    .label = URLs personalizadas…
 home-mode-choice-blank =
     .label = Página en blanco
 home-homepage-custom-url =
-    .placeholder = Pegar URL...
+    .placeholder = Pegar URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
