@@ -79,7 +79,7 @@ cfr-cookie-banner-reject-button = Non adesso
   .accesskey = N
 
 cfr-cookie-banner-handling-header-variant-1 = Liberati dei pop-up per i cookie
-cfr-cookie-banner-handling-body-variant-1 = Consenti a { -brand-short-name } di rispondere automaticamente alle richieste nei pop-up per i cookie, così potrai ritornare a navigare senza distrazioni. { brand-short-name } rifiuterà tutte le richieste, se possibile, o le accetterà tutte in caso contrario.
+cfr-cookie-banner-handling-body-variant-1 = Consenti a { -brand-short-name } di rispondere automaticamente alle richieste nei pop-up per i cookie, così potrai ritornare a navigare senza distrazioni. { -brand-short-name } rifiuterà tutte le richieste, se possibile, o le accetterà tutte in caso contrario.
 cfr-cookie-banner-accept-button-variant-1 = Chiudi pop-up
   .accesskey = C
 cfr-cookie-banner-reject-button-variant-1 = No grazie
