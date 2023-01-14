@@ -96,14 +96,13 @@ print-preview-window =
 print-title =
     .value = Título:
 print-preparing =
-    .value = Preparando...
+    .value = Preparando…
 print-progress =
     .value = Progreso:
 print-window =
     .title = Imprimiendo
 print-complete =
     .value = La impresión ha finalizado.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
