@@ -287,3 +287,9 @@ colorways-cfr-header-28days = Le tonalità Voci indipendenti scadranno il 16 gen
 colorways-cfr-header-14days = Le tonalità Voci indipendenti scadranno in due settimane
 colorways-cfr-header-7days =  Le tonalità Voci indipendenti scadranno questa settimana
 colorways-cfr-header-today = Le tonalità Voci indipendenti scadono oggi
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Sempre dalla tua parte
+july-jam-body = Ogni mese { -brand-short-name } blocca in media oltre 3.000 elementi traccianti per ciascun utente, offrendoti un accesso sicuro e veloce alla parte migliore di Internet.
+july-jam-set-default-primary = Apri i miei link con { -brand-short-name }
