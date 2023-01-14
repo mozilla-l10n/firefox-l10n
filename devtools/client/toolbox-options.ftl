@@ -10,19 +10,15 @@
 
 # The heading
 options-select-default-tools-label = Varsayılan geliştirici araçları
-
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Geçerli araç kutusu hedefinde desteklenmiyor
-
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Eklentiler tarafından kurulan geliştirici araçları
-
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Kullanılabilir araç kutusu düğmeleri
-
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Temalar
 
@@ -30,17 +26,14 @@ options-select-dev-tools-theme-label = Temalar
 
 # The heading
 options-context-inspector = Denetçi
-
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Tarayıcı stillerini göster
 options-show-user-agent-styles-tooltip =
     .title = Bunu açarsanız tarayıcı tarafından yüklenen varsayılan stiller gösterilir.
-
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM özniteliklerini kısalt
 options-collapse-attrs-tooltip =
     .title = Denetçideki uzun öznitelikleri kısaltır
-
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Boyut değerlerini düzenlemek için tıklayıp sürükleyin
 options-inspector-draggable-properties-tooltip =
@@ -60,7 +53,6 @@ options-default-color-unit-name = Renk adları
 
 # The heading
 options-styleeditor-label = Stil editörü
-
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS’i otomatik tamamla
 options-stylesheet-autocompletion-tooltip =
@@ -70,12 +62,10 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Ekran görüntüsü davranışı
-
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Ekran görüntüsü yalnızca panoya
 options-screenshot-clipboard-tooltip2 =
     .title = Ekran görüntüsünü doğrudan panoya kaydeder
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Fotoğraf çekme sesini çal
 options-screenshot-audio-tooltip =
@@ -85,7 +75,6 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = Editör tercihleri
-
 options-sourceeditor-detectindentation-tooltip =
     .title = Kaynak içeriğe dayanarak girintilemeyi tahmin et
 options-sourceeditor-detectindentation-label = Girintilemeyi tespit et
@@ -103,42 +92,33 @@ options-sourceeditor-keybinding-default-label = Varsayılan
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Gelişmiş ayarlar
-
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP önbelleğini kapat (araç kutusu açıkken)
 options-disable-http-cache-tooltip =
     .title = Bu seçeneği açarsanız araç kutusunun açık olduğu tüm sekmelerde HTTP önbelleği devre dışı kalacaktır. Bu seçenek Service Worker’ları etkilemez.
-
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript’i devre dışı bırak *
 options-disable-javascript-tooltip =
     .title = Bu seçeneği açarsanız geçerli sekmede JavaScript devre dışı bırakılır. Sekme veya araç kutusu kapatılırsa bu ayar unutulacaktır.
-
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Tarayıcı chrome’u ve eklenti hata ayıklama araç kutularını etkinleştir
 options-enable-chrome-tooltip =
     .title = Bu seçeneği açarsanız tarayıcı bağlamında çeşitli geliştirici araçlarını (Araçlar > Web Geliştirici > Tarayıcı araç kutusu aracılığıyla) ve Eklenti Yöneticisi’nde hata ayıklama eklentilerini kullanabilirsiniz
-
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Uzaktan hata ayıklamayı etkinleştir
 options-enable-remote-tooltip2 =
     .title = Bu seçeneği açarsanız bu tarayıcıda uzaktan hata ayıklamaya izin verilir
-
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Özel biçimlendiricileri etkinleştir
 options-enable-custom-formatters-tooltip =
     .title = Bu seçeneği açmak, sitelerin DOM nesneleri için özel biçimlendiriciler tanımlamasına olanak tanır
-
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = HTTP üzerinden Service Worker’ları etkinleştir (araç kutusu açıkken)
 options-enable-service-workers-http-tooltip =
     .title = Bu seçeneği açarsanız, araç kutusunun açık olduğu tüm sekmelerde HTTP üzerinden Service Workers etkinleşir.
-
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Kaynak haritalarını etkinleştir
 options-source-maps-tooltip =
-    .title = Bu seçeneği etkinleştirirseniz kaynaklar araçlarda haritalanacaktır.
-
+    .title = Bu seçeneği etkinleştirirseniz kaynaklar araçlarda eşlenecektir.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Yalnızca bu oturumda geçerli, sayfayı yeniden yükler
-
