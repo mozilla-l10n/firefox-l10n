@@ -8,24 +8,13 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = { $hostname } bağlantısı sırasında bir hata oluştu. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Hata kodu: { $error }
-
 psmerr-ssl-disabled = Güvenli olarak bağlanamıyor, çünkü SSL iletişim kuralı devre dışı bırakıldı.
 psmerr-ssl2-disabled = Güvenli olarak bağlanamıyor, çünkü site SSL iletişim kuralının eski ve güvensiz sürümünü kullanıyor.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Geçersiz bir sertifika aldınız. Lütfen sunucu yöneticisiyle iletişime geçin veya karşı tarafa e-posta yazarak bu bilgiyi verin:
     
     Sertifkanız, sertifika makamının verdiği başka bir sertifikayla aynı seri numarasını taşıyor. Lütfen benzersiz seri numaraya sahip yeni bir sertifika edinin.
-
 ssl-error-export-only-server = Güvenli iletişim kurulamadı. Karşı taraf yüksek düzeyde şifrelemeyi desteklemiyor.
 ssl-error-us-only-server = Güvenli iletişim kurulamadı. Karşı taraf şu an desteklenmeyen yüksek düzey şifreleme istiyor.
 ssl-error-no-cypher-overlap = Karşı tarafla güvenli iletişim kurulamadı: Ortak bir şifreleme çözüm yolu yok.
@@ -212,14 +201,6 @@ sec-error-pkcs7-keyalg-mismatch = Şifre çözülemiyor: Anahtar şifreleme algo
 sec-error-pkcs7-bad-signature = İmza doğrulaması başarısız oldu: İmzalayan bulunamamış, çok fazla imzalayan bulunmuş ya da uygunsuz veya hasarlı veri bulunmuş olabilir.
 sec-error-unsupported-keyalg = Desteklenmeyen ya da bilinmeyen anahtar çözüm yolu.
 sec-error-decryption-disallowed = Şifre çözülemiyor: İzin verilmeyen bir çözüm yoluyla ya da anahtar boyutunda şifrelenmiş.
-xp-sec-fortezza-bad-card = Fortezza kartı düzgün olarak çalıştırılamadı. Lütfen çıkarıp dağıtıcınıza geri götürün.
-xp-sec-fortezza-no-card = Fortezza kartı bulunamadı
-xp-sec-fortezza-none-selected = Fortezza kartı seçilmedi
-xp-sec-fortezza-more-info = Lütfen daha fazla bilgi almak üzere bir kişilik seçin
-xp-sec-fortezza-person-not-found = Kişilik bulunamadı
-xp-sec-fortezza-no-more-info = Bu kişilikle ilgili daha fazla bilgi yok
-xp-sec-fortezza-bad-pin = Geçersiz kişisel tanımlama numarası
-xp-sec-fortezza-person-error = Fortezza kişiliklerine ulaşılamadı.
 sec-error-no-krl = Bu siteyle ilgili herhangi bir geçersiz anahtar listesi bulunamadı.
 sec-error-krl-expired = Bu sitenin geçersiz anahtar listesinin süresi dolmuş.
 sec-error-krl-bad-signature = Bu sitenin geçersiz anahtar listesinin anahtarı geçersiz.
@@ -234,9 +215,6 @@ sec-error-cert-nickname-collision = Aynı takma adı taşıyan bir sertifika zat
 sec-error-key-nickname-collision = Aynı takma adı taşıyan bir anahtar zaten var.
 sec-error-safe-not-created = Güvenli nesne oluşturulurken hata meydana geldi.
 sec-error-baggage-not-created = Bagaj nesnesi oluşturulurken hata meydana geldi.
-xp-java-remove-principal-error = Baş bölüm kaldırılamadı.
-xp-java-delete-privilege-error = Ayrıcalık ortadan kaldırılamadı
-xp-java-cert-not-exists-error = Bu baş bölümün sertifikası yok
 sec-error-bad-export-algorithm = İstenen çözüm yoluna izin verilmiyor.
 sec-error-exporting-certificates = Sertifikalar dışa aktarılırken hata oluştu.
 sec-error-importing-certificates = Sertifikalar içe aktarılırken hata oluştu.
@@ -321,7 +299,7 @@ sec-error-token-not-logged-in = PKCS#11 jetonuna giriş yapılmadığı için i�
 sec-error-ocsp-responder-cert-invalid = Ayarlanan OCSP yanıtçısının sertifikası geçersiz.
 sec-error-ocsp-bad-signature = OCSP yanıtı geçersiz imzaya sahip.
 sec-error-out-of-search-limits = Belge doğrulama araması arama sınırlarının dışında
-sec-error-invalid-policy-mapping = İlke haritalaması anypolicy içeriyor
+sec-error-invalid-policy-mapping = İlke eşlemesi anypolicy içeriyor
 sec-error-policy-validation-failed = Sertifika zinciri, ilke doğrulamasından geçemedi
 sec-error-unknown-aia-location-type = Sertifika AIA uzantısında bilinmeyen konum türü
 sec-error-bad-http-response = Sunucu hatalı HTTP yanıtı döndürdü
@@ -353,3 +331,14 @@ mozilla-pkix-error-invalid-integer-encoding = Sunucu, geçersiz bir tamsayı kod
 mozilla-pkix-error-empty-issuer-name = Sunucu, boş bir yayıncı açık adı (DN) içeren bir sertifika sundu.
 mozilla-pkix-error-additional-policy-constraint-failed = Bu sertifika doğrulanırken ek bir ilke kısıtlaması başarısız oldu.
 mozilla-pkix-error-self-signed-cert = Bu sertifika kendi kendine imzalandığı için sertifikaya güvenilmiyor.
+xp-java-remove-principal-error = Baş bölüm kaldırılamadı.
+xp-java-delete-privilege-error = Ayrıcalık ortadan kaldırılamadı
+xp-java-cert-not-exists-error = Bu baş bölümün sertifikası yok
+xp-sec-fortezza-bad-card = Fortezza kartı düzgün olarak çalıştırılamadı. Lütfen çıkarıp dağıtıcınıza geri götürün.
+xp-sec-fortezza-no-card = Fortezza kartı bulunamadı
+xp-sec-fortezza-none-selected = Fortezza kartı seçilmedi
+xp-sec-fortezza-more-info = Lütfen daha fazla bilgi almak üzere bir kişilik seçin
+xp-sec-fortezza-person-not-found = Kişilik bulunamadı
+xp-sec-fortezza-no-more-info = Bu kişilikle ilgili daha fazla bilgi yok
+xp-sec-fortezza-bad-pin = Geçersiz kişisel tanımlama numarası
+xp-sec-fortezza-person-error = Fortezza kişiliklerine ulaşılamadı.
