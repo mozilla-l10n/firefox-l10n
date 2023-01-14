@@ -8,7 +8,7 @@ login-filter =
     .placeholder = Buscar inicios de sesión
 create-login-button = Crear nuevo inicio de sesión
 fxaccounts-sign-in-text = Obtenga sus contraseñas en sus otros dispositivos
-fxaccounts-sign-in-sync-button = Ingresar para sincronizar
+fxaccounts-sign-in-sync-button = Iniciar sesión para sincronizar
 fxaccounts-avatar-button =
     .title = Administrar cuenta
 
@@ -53,10 +53,10 @@ login-list-item-title-new-login = Nuevo inicio de sesión
 login-list-item-subtitle-new-login = Ingrese sus credenciales de inicio de sesión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
 about-logins-list-item-breach-icon =
-    .title = Sitio web violado
+    .title = Sitio web filtrado
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
-about-logins-list-section-breach = Sitios web violados
+about-logins-list-section-breach = Sitios web filtrados
 about-logins-list-section-vulnerable = Contraseñas vulnerables
 about-logins-list-section-nothing = Sin alerta
 about-logins-list-section-today = Hoy
@@ -133,7 +133,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportar inicios de
 
 about-logins-primary-password-notification-message = Ingrese su contraseña maestra para ver los inicios de sesión y contraseñas guardados
 master-password-reload-button =
-    .label = Ingresar
+    .label = Iniciar sesión
     .accesskey = I
 
 ## Dialogs
@@ -158,8 +158,8 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-        [one] ¿Eliminar inicio de sesión de { $count }?
-       *[other] ¿Eliminar todos los inicios de sesión de { $count }?
+        [one] ¿Eliminar { $count } inicio de sesión?
+       *[other] ¿Eliminar todos los { $count } inicios de sesión?
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
@@ -169,8 +169,8 @@ about-logins-confirm-remove-all-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] ¿Eliminar inicio de sesión de { $count } de todos los dispositivos?
-       *[other] ¿Eliminar todos los inicios de sesión de { $count } de todos los dispositivos?
+        [one] ¿Eliminar { $count } inicio de sesión de todos los dispositivos?
+       *[other] ¿Eliminar todos los { $count } inicios de sesión de todos los dispositivos?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
@@ -189,7 +189,7 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Violación del sitio web
+about-logins-breach-alert-title = Filtración del sitio web
 breach-alert-text = Las contraseñas fueron filtradas o robadas de este sitio web desde la última vez que actualizó sus datos de inicio de sesión. Cambie su contraseña para proteger su cuenta.
 about-logins-breach-alert-date = Está filtración se produjo el { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
@@ -222,7 +222,7 @@ about-logins-error-message-default = Se produjo un error al intentar guardar est
 about-logins-export-file-picker-title = Exportar archivo de inicios de sesión
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
-about-logins-export-file-picker-default-filename = inicios-de-sesión.csv
+about-logins-export-file-picker-default-filename = inicios-de-sesion.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
