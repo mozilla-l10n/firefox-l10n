@@ -33,6 +33,6 @@ customize-mode-undo-cmd =
     .label = Deshacer
 customize-mode-lwthemes-link = Administrar temas
 customize-mode-touchbar-cmd =
-    .label = Personalizar la barra táctil...
+    .label = Personalizar la barra táctil…
 customize-mode-downloads-button-autohide =
     .label = Ocultar botón cuando esté vacío
