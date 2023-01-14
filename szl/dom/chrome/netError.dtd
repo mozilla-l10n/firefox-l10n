@@ -72,8 +72,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Strōna ôdpedziała na prośba neca niyôczekowanym spusobym, bez co przeglōndarka niy poradzi iść dalij.</p>">
 
 <!ENTITY nssFailure2.title "Niypodarzōne bezpieczne połōnczynie">
-<!ENTITY nssFailure2.longDesc2 "<p>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo niy szło zweryfikować autyntyczności ôd dostōnych danych.</p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo niy szło zweryfikować autyntyczności ôd dostanych danych.</p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul>">
 
 <!ENTITY nssBadCert.title "Niypodarzōne bezpieczne połōnczynie">
 <!ENTITY nssBadCert.longDesc2 "<ul>
