@@ -26,7 +26,7 @@ about-logging-current-log-file = Uneko erregistro-fitxategia:
 about-logging-current-log-modules = Uneko erregistro-moduluak:
 about-logging-new-log-file = Erregistro-fitxategi berria:
 about-logging-currently-enabled-log-modules = Une honetan gaitutako erregistro-moduluak:
-about-logging-log-tutorial = Ikusi <a data-l10n-name="logging">HTTP erregistora</a> orria tresna hau erabiltzeko argibideetarako.
+about-logging-log-tutorial = Ikusi <a data-l10n-name="logging">HTTP erregistroa</a> orria tresna hau erabiltzeko argibideetarako.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Ireki direktorioa
 about-logging-set-log-file = Ezarri erregistro-fitxategia
@@ -61,7 +61,9 @@ about-logging-error = Errorea:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = "{ $v }" balio baliogabea "{ $k }" gakoarentzat
-about-logging-unknown-logging-preset = "{ $v }" erregistroaren aurrezarpen ezezaguna
-about-logging-unknown-profiler-preset = "{ $v }" profil sortzailearen aurrezarpen ezezaguna
+about-logging-unknown-logging-preset = Erregistroaren "{ $v }" aurrezarpen ezezaguna
+about-logging-unknown-profiler-preset = Profil sortzailearen "{ $v }" aurrezarpen ezezaguna
+about-logging-unknown-option = about:logging "{ $k }" aukera ezezaguna
 about-logging-configuration-url-ignored = Konfigurazio URLa ezikusita
+about-logging-file-and-profiler-override = Ezin da fitxategiaren irteera behartu eta aldi berean profil sortzailearen aukerak baliogabetu
 about-logging-configured-via-url = Aukera URL bidez konfiguratuta

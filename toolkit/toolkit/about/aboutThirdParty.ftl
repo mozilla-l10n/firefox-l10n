@@ -50,10 +50,18 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Une honetan blokeatuta. Egin klik desblokeatzeko.
     .aria-label = Une honetan blokeatuta. Egin klik desblokeatzeko.
+third-party-button-to-unblock-disabled =
+    .title =
+        Une honetan blokeatutako gisa markatuta, nahiz eta blokeo-zerrenda desgaituta dagoen
+        { -brand-short-name }(r)en exekuzio honetarako. Egin klik desblokeatzeko.
+    .aria-label =
+        Une honetan blokeatutako gisa markatuta, nahiz eta blokeo-zerrenda desgaituta dagoen
+        { -brand-short-name }(r)en exekuzio honetarako. Egin klik desblokeatzeko.
 third-party-button-expand =
     .title = Erakutsi informazio xehatua
 third-party-button-collapse =
     .title = Tolestu informazio xehatua
+third-party-requires-restart = { -brand-short-name } berrabiarazi egin behar da blokeatuta dauden hirugarrenen moduluak aldatzeko.
 third-party-should-restart-title = Berrabiarazi { -brand-short-name }
 third-party-should-restart-ok = Berrabiarazi { -brand-short-name } orain
 third-party-restart-later = Berrabiarazi geroago
