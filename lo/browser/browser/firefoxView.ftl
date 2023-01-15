@@ -39,6 +39,7 @@ firefoxview-tabpickup-sync-error-header = ພວກເຮົາມີບັນ�
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } ບໍ່ສາມາດເຂົ້າຫາການບໍລິການຊິງຄ໌ໄດ້ໃນຕອນນີ້. ກະລຸນາລອງໃໝ່ໃນອີກຈັກໜ່ອຍ.
 firefoxview-tabpickup-sync-error-primarybutton = ລອງໃຫມ່ອີກຄັ້ງ
 firefoxview-tabpickup-sync-disconnected-header = ເປີດການຊິງຄ໌ເພື່ອດຳເນີນການຕໍ່
+firefoxview-tabpickup-sync-disconnected-primarybutton = ເປີດການຊິ້ງຂໍ້ມູນໃນການຕັ້ງຄ່າ
 firefoxview-tabpickup-password-locked-header = ໃສ່ລະຫັດຜ່ານຫຼັກຂອງທ່ານເພື່ອເບິ່ງແຖບ
 firefoxview-tabpickup-password-locked-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 firefoxview-tabpickup-password-locked-primarybutton = ໃສ່ລະຫັດຜ່ານຫຼັກ

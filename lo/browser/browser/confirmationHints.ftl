@@ -12,3 +12,4 @@ confirmation-hint-password-saved = ບັນທຶກລະຫັດຜ່ານ
 confirmation-hint-pin-tab = ປັກໝຸດແລ້ວ!
 confirmation-hint-pin-tab-description = ຄລິກຂວາໃສ່ແຖບເພື່ອຖອນປັກໝຸດມັນ.
 confirmation-hint-send-to-device = ສົ່ງແລ້ວ!
+confirmation-hint-firefox-relay-mask-generated = ໜ້າກາກ { -relay-brand-short-name } ສ້າງຂຶ້ນໃໝ່!
