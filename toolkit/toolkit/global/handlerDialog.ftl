@@ -24,7 +24,7 @@ permission-dialog-description-extension = Разрешить расширени�
 permission-dialog-description-app = Разрешить этому сайту открыть ссылку { $scheme } используя { $appName }?
 permission-dialog-description-host-app = Разрешить { $host } открыть ссылку { $scheme } используя { $appName }?
 permission-dialog-description-file-app = Разрешить этому файлу открыть ссылку { $scheme } используя { $appName }?
-permission-dialog-description-extension-app = Разрешить расширению { $extension } открывать ссылку { $scheme } с помощью { $appName }?
+permission-dialog-description-extension-app = Разрешить расширению { $extension } открыть ссылку { $scheme } с помощью { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -32,6 +32,7 @@ permission-dialog-description-extension-app = Разрешить расшире�
 
 permission-dialog-remember = Всегда разрешать <strong>{ $host }</strong> открывать ссылки <strong>{ $scheme }</strong>
 permission-dialog-remember-file = Всегда разрешать этому файлу открывать ссылки <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = Всегда разрешать этому расширению открывать ссылки <strong>{ $scheme }</strong>
 
 ##
 
