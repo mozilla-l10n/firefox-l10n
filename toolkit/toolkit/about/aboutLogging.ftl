@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## The following feature name must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
+-profiler-brand-name = Firefox Profiler
+
+##
+
 # This is the title of the page
 about-logging-title = Erregistroari buruz
 about-logging-current-log-file = Uneko erregistro-fitxategia:
@@ -14,4 +31,17 @@ about-logging-set-log-modules = Ezarri erregistro-moduluak:
 about-logging-start-logging = Hasi erregistratzen
 about-logging-stop-logging = Gelditu erregistratzen
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+about-logging-preset-networking-label = Sarea
+about-logging-preset-media-playback-label = Multimedia erreproduzitzea
+about-logging-preset-custom-label = Pertsonalizatua
+# Error handling
+about-logging-error = Errorea:
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+
+about-logging-configuration-url-ignored = Konfigurazio URLa ezikusita
+about-logging-configured-via-url = Aukera URL bidez konfiguratuta
