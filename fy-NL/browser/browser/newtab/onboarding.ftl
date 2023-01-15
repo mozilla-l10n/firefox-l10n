@@ -292,7 +292,7 @@ mr2022-onboarding-set-default-only-subtitle = Start mei in browser stipe troch i
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-header = Tank foar jo leafde foar { -brand-product-name }
+mr2022-onboarding-existing-pin-header = Tank foar jo kar foar { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-subtitle = Start in sûner ynternet fan oeral wei mei ien klik. Us lêste fernijing is fol mei nije saken wêrfan wy tinke dat jo se wurdearje sille.
 # Subtitle will be used on the welcome screen for existing users
