@@ -17,7 +17,7 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Nej sa ma Telemetry
 about-telemetry-current-store = Tiendâ nakàa:
 about-telemetry-more-information = Hua nuguan' nana'uî't doj aj.
-about-telemetry-firefox-data-doc = Sa <a data-l10n-name="data-doc-link"> nagi'iaj chre' si nuguà' Firefox <a> gu'nàj </a> nikaj chrej ganikò' da' nachrun' daran' si nuguàn'anj.
+about-telemetry-firefox-data-doc = Sa <a data-l10n-name="data-doc-link">nagi'iaj chre' si nuguà' Firefox<a> gu'nàj nikaj chrej ganikò' da' nachrun' daran' si nuguàn'anj.
 about-telemetry-telemetry-client-doc = Si <a data-l10n-name="client-doc-link"> Firefox Telemetrîa riña nachra chrej nuguan'an</a> nika daj gataj go'ngo nuguan'an ruhuaj, si nuguàn API ni ñanj màn chre' guendâ nej dâto.
 about-telemetry-telemetry-dashboard = Si <a data-l10n-name="dashboard-link">Panel Telemetrîa</a> ni a'nïn ni'io' daran' chre ne nuguan' nahuin ra'a Mozilla narikî Telemetrîa.
 about-telemetry-telemetry-probe-dictionary = Si <a data-l10n-name="probe-dictionary-link">Diksionariô Probe</a> nataj ndà niñun chre nej sa naran' Telemetrîa.
