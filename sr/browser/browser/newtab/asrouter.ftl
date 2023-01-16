@@ -65,11 +65,22 @@ cfr-doorhanger-extension-total-users =
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Доле банери колачића!
 cfr-cookie-banner-handling-body = Дозволите да { -brand-short-name } аутоматски одбије све захтеве за банере за колачиће, ако је могуће. У супротном, сви колачићи ће бити прихваћени како би се игнорисало више банера.
-cfr-cookie-banner-accept-button = Одбиј захтев
+cfr-cookie-banner-accept-button = Одбиј захтеве
     .accesskey = О
 cfr-cookie-banner-reject-button = Не сада
     .accesskey = Н
 cfr-cookie-banner-handling-header-variant-1 = Да видите мање искачућих прозора за колачиће
+cfr-cookie-banner-handling-body-variant-1 = Дозволите да { -brand-short-name } аутоматски одговара на искачуће прозоре за колачиће, тако да се можете посветити прегледању без ометања. { -brand-short-name } ће одбити све захтеве ако је то могуће, или их прихватити ако није.
+cfr-cookie-banner-accept-button-variant-1 = Одбиј искачуће прозоре
+    .accesskey = О
+cfr-cookie-banner-reject-button-variant-1 = Не, хвала
+    .accesskey = Н
+cfr-cookie-banner-handling-header-variant-2 = Смањење банера колачића
+cfr-cookie-banner-handling-body-variant-2 = Дозволити да { -brand-short-name } одбије упите о колачићима са сајтова када је то могуће или да их прихвати када није?
+cfr-cookie-banner-accept-button-variant-2 = Дозволи
+    .accesskey = Д
+cfr-cookie-banner-reject-button-variant-2 = Не сада
+    .accesskey = Н
 
 ## Firefox Accounts Message
 
@@ -247,3 +258,4 @@ colorways-cfr-header-today = Комбинације боја „Независн
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Ту смо за вас
