@@ -42,7 +42,7 @@ inactive-css-not-inline-or-tablecell-fix = Փորձե<strong>ցուցադրել�
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Փորձեք ավելացնել <strong>ցուցադրել․ներտողային-արգելափակումը</strong> կամ <strong>ցուցադրել․արգելափակումը</strong>։ { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Փորձեք ավելացնել <strong>ցուցադրել․ներտողային-արգելափակումը</strong>։ { learn-more }
 inactive-css-not-display-block-on-floated-fix = Փորձեք հեռացնել <strong>լողանցումը</strong> կամ ավելացնել <strong>ցուցադրման․արգելափակումը</strong>։ { learn-more }
-inactive-css-position-property-on-unpositioned-box-fix = Փորձեք կարգավորել իր </ strong>դիրքի</strong> հատկությունը մեկ այլում, քան <strong>static</strong>-ը:{ learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Փորձեք կարգավորել իր <strong>դիրքի</strong> հատկությունը մեկ այլում, քան <strong>static</strong>-ը:{ learn-more }
 inactive-text-overflow-when-no-overflow-fix = Փորձեք ավելացնել <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
