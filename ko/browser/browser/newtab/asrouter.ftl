@@ -55,6 +55,26 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } 사용자
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = 쿠키 배너가 사라졌습니다!
+cfr-cookie-banner-handling-body = 가능한 경우 { -brand-short-name }가 모든 쿠키 배너 요청을 자동으로 거부하도록 허용합니다. 그렇지 않으면 더 많은 배너를 닫기 위해 모든 쿠키를 수락합니다.
+cfr-cookie-banner-accept-button = 요청 닫기
+    .accesskey = D
+cfr-cookie-banner-reject-button = 나중에
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = 쿠키 팝업 덜 보기
+cfr-cookie-banner-handling-body-variant-1 = { -brand-short-name }가 쿠키 팝업에 자동으로 응답하도록 하여 방해받지 않고 탐색할 수 있습니다. { -brand-short-name }는 가능한 경우 모든 요청을 거부하고 그렇지 않은 경우 모두 수락합니다.
+cfr-cookie-banner-accept-button-variant-1 = 팝업 닫기
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = 아니요
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = 쿠키 배너 감소
+cfr-cookie-banner-accept-button-variant-2 = 허용
+    .accesskey = A
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 어디서나 북마크 동기화
@@ -153,10 +173,6 @@ spotlight-total-cookie-protection-body = 전체 쿠키 보호는 추적기가 �
 spotlight-total-cookie-protection-expanded = { -brand-short-name }는 쿠키 주위에 울타리를 치고 사용자가 있는 사이트로 제한하므로 추적기가 사용자를 팔로우하는 데 쿠키를 사용할 수 없습니다. 먼저 이용해 보시면 이 기능을 최적화하는데 도움이 되므로 저희가 모든 사용자를 위한 더 나은 웹을 계속 구축할 수 있습니다.
 spotlight-total-cookie-protection-primary-button = 전체 쿠키 보호 켜기
 spotlight-total-cookie-protection-secondary-button = 나중에
-cfr-total-cookie-protection-header = 덕분에 { -brand-short-name }는 그 어느 때보다 사적이고 안전합니다
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = 전체 쿠키 보호는 가장 강력한 개인 정보 보호 기능이며 이제 { -brand-short-name } 사용자를 위한 기본 설정입니다. 여러분과 같은 조기 참가자가 없었다면 불가능했을 것입니다. 더 나은 사적인 인터넷을 만들 수 있도록 도와주셔서 감사합니다.
 
 ## Emotive Continuous Onboarding
 
@@ -203,8 +219,6 @@ firefoxview-cfr-primarybutton = 사용해 보기
     .accesskey = T
 firefoxview-cfr-secondarybutton = 나중에
     .accesskey = N
-firefoxview-cfr-header = { -firefoxview-brand-name }를 사용하여 최근에 닫은 탭을 다시 가져옵니다
-firefoxview-cfr-body = 또한 기기 간에 원활하게 전환하고 브라우저에 다채로운 색상 넣을 수 있습니다.
 firefoxview-cfr-header-v2 = 중단한 부분부터 빠르게 다시 시작하세요
 firefoxview-cfr-body-v2 = { -firefoxview-brand-name }를 사용하여 최근에 닫은 탭을 다시 가져오고, 기기 간에 원활하게 전환하세요.
 
@@ -226,3 +240,6 @@ colorways-cfr-header-28days = 독립적인 목소리 컬러웨이 1월 16일 만
 colorways-cfr-header-14days = 독립적인 목소리 컬러웨이 2주 후 만료됨
 colorways-cfr-header-7days = 독립적인 목소리 컬러웨이 이번 주 만료됨
 colorways-cfr-header-today = 독립적인 목소리 컬러웨이 오늘 만료됨
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
