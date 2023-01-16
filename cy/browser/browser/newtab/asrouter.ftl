@@ -65,6 +65,29 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } defnyddiwr
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Gwaredu baneri cwcis!
+cfr-cookie-banner-handling-body = Caniatáu i { -brand-short-name } wrthod pob cais baner cwci yn awtomatig, pan fo modd. Fel arall, bydd pob cwci yn cael ei dderbyn i gau mwy fyth o faneri.
+cfr-cookie-banner-accept-button = Gwrthod Ceisiadau
+    .accesskey = G
+cfr-cookie-banner-reject-button = Nid Nawr
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Gweld llai o lamlenni cwcis
+cfr-cookie-banner-handling-body-variant-1 = Gadael i { -brand-short-name } ateb ffenestri llamlenni cwcis yn awtomatig er mwyn i chi fod yn rhydd i bori. Bydd { -brand-short-name } yn gwrthod pob cais os yn bosib, neu'n derbyn pob cais os nad.
+cfr-cookie-banner-accept-button-variant-1 = Cau Llamlenni
+    .accesskey = C
+cfr-cookie-banner-reject-button-variant-1 = Dim diolch
+    .accesskey = D
+cfr-cookie-banner-handling-header-variant-2 = Llai o Faneri Cwcis
+cfr-cookie-banner-handling-body-variant-2 = Caniatáu i { -brand-short-name } wrthod cais caniatâd cwci gwefan os yn bosibl neu dderbyn mynediad cwcis pan nad yw’n bosibl?
+cfr-cookie-banner-accept-button-variant-2 = Caniatáu
+    .accesskey = C
+cfr-cookie-banner-reject-button-variant-2 = Nid nawr
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Cydweddu eich nodau tudalen ym mhob man
@@ -168,10 +191,6 @@ spotlight-total-cookie-protection-body = Mae Total Cookie Protection yn atal tra
 spotlight-total-cookie-protection-expanded = Mae { -brand-short-name } yn adeiladu ffens o amgylch cwcis, gan eu cyfyngu i'r wefan rydych chi arni fel na all tracwyr eu defnyddio i'ch dilyn chi. Gyda mynediad cynnar, byddwch yn helpu i wella'r nodwedd hon fel y gallwn barhau i adeiladu gwe well i bawb.
 spotlight-total-cookie-protection-primary-button = Cychwyn Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Nid nawr
-cfr-total-cookie-protection-header = Diolch i chi, mae { -brand-short-name } yn fwy preifat a diogel nag erioed
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Diogelwch Cwcis Llwyr yw ein hamddiffyniad preifatrwydd cryfaf eto – ac mae bellach yn osodiad rhagosodedig ar gyfer defnyddwyr { -brand-short-name } ym mhobman. Fyddem ni ddim wedi gallu ei greu heb gyfranogwyr cynnar fel chi. Felly diolch am ein helpu i greu rhyngrwyd gwell, mwy preifat.
 
 ## Emotive Continuous Onboarding
 
@@ -218,8 +237,6 @@ firefoxview-cfr-primarybutton = Rhowch gynnig arni
     .accesskey = R
 firefoxview-cfr-secondarybutton = Nid nawr
     .accesskey = N
-firefoxview-cfr-header = Cael tabiau a gaewyd yn ddiweddar nôl gyda { -firefoxview-brand-name }
-firefoxview-cfr-body = Hefyd symud yn ddi-dor rhwng dyfeisiau ac ychwanegu bach o liw i'ch porwr.
 firefoxview-cfr-header-v2 = Ail gychwyn yn syth o'r lle roeddech chi
 firefoxview-cfr-body-v2 = Cael tabiau sydd wedi'u cau'n ddiweddar nôl, a symud yn rhwydd rhwng dyfeisiau gyda { -firefoxview-brand-name }.
 
@@ -241,3 +258,9 @@ colorways-cfr-header-28days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i b
 colorways-cfr-header-14days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben mewn pythefnos
 colorways-cfr-header-7days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben yr wythnos hon
 colorways-cfr-header-today = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben heddiw
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Rydyn ni yn eich cefnogi chi
+july-jam-body = Bob mis, mae { -brand-short-name } yn rhwystro 3,000+ o dracwyr fesul defnyddiwr ar gyfartaledd, gan roi mynediad diogel a chyflym i'r rhyngrwyd da i chi.
+july-jam-set-default-primary = Agor fy nolenni gyda { -brand-short-name }
