@@ -30,7 +30,7 @@ permission-dialog-description-extension-app = ¿Emoneĩ ko tenda { $extension } 
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
-permission-dialog-remember = Emoneĩ meme <strong>{ $host }</strong> embojuruja juajuha</strong>{ $scheme }</strong>
+permission-dialog-remember = Emoneĩ meme <strong>{ $host }</strong> embojuruja juajuha <strong>{ $scheme }</strong>
 permission-dialog-remember-file = Emoneĩ tapia ko marandurendápe tombojuruja <strong>{ $scheme }</strong> juajuha
 permission-dialog-remember-extension = Emoneĩ tapia marandurendápe tombojuruja juajuha <strong>{ $scheme }</strong>
 

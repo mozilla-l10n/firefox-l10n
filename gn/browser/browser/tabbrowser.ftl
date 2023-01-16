@@ -61,7 +61,7 @@ tabbrowser-unmute-tab-audio-background-tooltip =
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Emboheta tendayke (%S)
+            [one] Emboheta tendayke
            *[other] Emboheta { $tabCount } tendayke
         }
 
