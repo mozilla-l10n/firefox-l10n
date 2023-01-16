@@ -61,3 +61,9 @@ about-logging-error = ข้อผิดพลาด:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = ค่า “{ $v }“ ไม่ถูกต้องสำหรับคีย์ “{ $k }“
+about-logging-unknown-logging-preset = ไม่รู้จักค่าที่ตั้งไว้ล่วงหน้าของการบันทึก “{ $v }“
+about-logging-unknown-profiler-preset = ไม่รู้จักค่าที่ตั้งไว้ล่วงหน้าของตัวสร้างโปรไฟล์ “{ $v }“
+about-logging-unknown-option = ไม่รู้จักตัวเลือก about:logging “{ $k }“
+about-logging-configuration-url-ignored = เพิกเฉย URL การกำหนดค่าแล้ว
+about-logging-file-and-profiler-override = ไม่สามารถบังคับให้ส่งออกไฟล์และแทนที่ตัวเลือกตัวสร้างโปรไฟล์พร้อมกันได้
+about-logging-configured-via-url = ตัวเลือกที่กำหนดค่าผ่าน URL
