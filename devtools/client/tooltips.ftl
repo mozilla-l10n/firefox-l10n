@@ -46,8 +46,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pokušaj 
 inactive-css-not-display-block-on-floated-fix = Pokušaj ukloniti <strong>float</strong> ili dodati <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Pokušaj postaviti svojstvo <strong>position</strong> na nešto što nije <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Pokušaj dodati <strong>overflow:hidden</strong>. { learn-more }
-inactive-css-not-for-internal-table-elements-fix = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, < strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>. { learn-more }
-inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-column</strong>, <strong>table-row</strong>, < strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
