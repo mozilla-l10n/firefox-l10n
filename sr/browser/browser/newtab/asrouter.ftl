@@ -259,3 +259,5 @@ colorways-cfr-header-today = Комбинације боја „Независн
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ту смо за вас
+july-jam-body = У просеку, { -brand-short-name } месечно блокира преко 3,000 елемената за праћење и пружа вам безбедан и брз приступ интернету.
+july-jam-set-default-primary = Отвори моје везе са { -brand-short-name }-ом
