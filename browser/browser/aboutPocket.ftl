@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Wobznamjenja pśidaś
-
 pocket-panel-saved-error-generic = Pśi składowanju do { -pocket-brand-name } jo zmólka nastała.
 pocket-panel-saved-error-tag-length = Wobznamjenja su na 25 znamuškow wobgranicowane
 pocket-panel-saved-error-only-links = Jano wótkaze daju se składowaś
@@ -23,6 +22,7 @@ pocket-panel-saved-page-saved = Do { -pocket-brand-name } skłaźony
 pocket-panel-saved-page-saved-b = Do { -pocket-brand-name } skłaźony!
 pocket-panel-saved-processing-remove = Bok se wótwónoźujo…
 pocket-panel-saved-removed = Bok jo se wótwónoźeł z mójeje lisćiny
+pocket-panel-saved-removed-updated = Bok jo se wótwónoźeła ze zapiskow
 pocket-panel-saved-processing-tags = Wobznamjenja se pśidawaju…
 pocket-panel-saved-remove-page = Bok wótwónoźeś
 pocket-panel-saved-save-tags = Składowaś
@@ -30,7 +30,6 @@ pocket-panel-saved-saving-tags = Składujo se…
 pocket-panel-saved-suggested-tags = Naraźone wobznamjenja
 pocket-panel-saved-tags-saved = Wobznamjenja su se pśidali
 pocket-panel-signup-view-list = Lisćinu pokazaś
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Wobznamjenja pśidaś:
 
@@ -45,11 +44,12 @@ pocket-panel-signup-signup-firefox = Z { -brand-product-name } registrěrowaś
 pocket-panel-signup-tagline = Składujśo nastawki a wideo z { -brand-product-name }, aby se je kuždy cas w { -pocket-brand-name } na kuždem rěźe woglědał.
 pocket-panel-signup-tagline-story-one = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawk, wideo abo bok z { -brand-product-name } składował.
 pocket-panel-signup-tagline-story-two = Se w { -pocket-brand-name } na kuždem rěźee kuždy cas woglědaś.
-
 pocket-panel-signup-cta-a-fix = Waš składowański tłocašk za internet
 pocket-panel-signup-cta-b = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawki, wideo a wótkaze składował. Woglědajśo se lisćinu kuždy cas na kuždem rěźe.
+pocket-panel-signup-cta-b-updated = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawki, wideo a wótkaze składował. Woglědajśo se zapiski kuždy cas na kuždem rěźe.
 pocket-panel-signup-cta-b-short = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawki, wideo a wótkaze składował.
 pocket-panel-signup-cta-c = Se swóju lisćinu na kuždem rěźe kuždy čas woglědaś.
+pocket-panel-signup-cta-c-updated = Se swóje zapiski na kuždem rěźe kuždy čas woglědaś.
 
 ## about:pocket-home panel
 
@@ -59,7 +59,6 @@ pocket-panel-home-paragraph = Móžośo { -pocket-brand-name } wužywaś, aby we
 pocket-panel-home-explore-popular-topics = Wuslěźćo woblubowane temy
 pocket-panel-home-discover-more = Wuslěźćo wěcej
 pocket-panel-home-explore-more = Wuslěźiś
-
 pocket-panel-home-most-recent-saves = How su waše nejnowše składowanja:
 pocket-panel-home-most-recent-saves-loading = Nejnowše składowanja se zacytuju …
 pocket-panel-home-new-user-cta = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawki, wideo a wótkaze składował.
@@ -68,6 +67,7 @@ pocket-panel-home-new-user-message = Woglědajśo se how nejnowše składowanja.
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Móju lisćinu pokazaś
+pocket-panel-header-my-saves = Móje zapiski pokazaś
 pocket-panel-header-sign-in = Pśizjawiś
 
 ## Pocket panel buttons
