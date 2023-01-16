@@ -21,6 +21,7 @@
 
 # This is the title of the page
 about-logging-title = Wo protokolowanju
+about-logging-page-title = Protokolowanski zrjadowak
 about-logging-current-log-file = Aktualna protokolowa dataja:
 about-logging-current-log-modules = Aktualne protokolowe module:
 about-logging-new-log-file = Nowa protokolowa dataja:
@@ -36,12 +37,16 @@ about-logging-info = Info:
 about-logging-log-modules-selection = Wuběr protokoloweho modula
 about-logging-new-log-modules = Nowe protokolowe module:
 about-logging-logging-output-selection = Wudaće protokolowanja
+about-logging-logging-to-file = Do dataje protokolować
+about-logging-logging-to-profiler = Do { -profiler-brand-name } protokolować
 about-logging-no-log-modules = Žadyn
 about-logging-no-log-file = Žadyn
+about-logging-logging-preset-selector-text = Přednastajenje za protokolowanje:
 
 ## Logging presets
 
 about-logging-preset-networking-label = Syć
+about-logging-preset-networking-description = Module za diagnosticěrowanje syćowych problemow protokolować
 about-logging-preset-media-playback-label = Wothraće medijow
 about-logging-preset-custom-label = Swójski
 # Error handling
