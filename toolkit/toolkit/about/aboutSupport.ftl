@@ -233,7 +233,7 @@ compositing = 합성
 hardware-h264 = 하드웨어 H264 디코딩
 main-thread-no-omtc = 주 스레드, OMTC 아님
 yes = 예
-no = 아니오
+no = 아니요
 unknown = 알 수 없음
 virtual-monitor-disp = 가상 모니터 디스플레이
 
