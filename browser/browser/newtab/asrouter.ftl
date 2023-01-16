@@ -57,6 +57,13 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utilizaires
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Fòra las bandièras de cookies !
+cfr-cookie-banner-handling-header-variant-1 = Veire mens de fenèstras sorgissentas de cookies
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizatz vòstres marcapaginas pertot.
@@ -156,10 +163,6 @@ spotlight-total-cookie-protection-body = La proteccion totala contra los cookies
 spotlight-total-cookie-protection-expanded = { -brand-short-name } crèa una barrièra a l’entorn dels cookies, per los limitar al site ont vos trobatz per dire que los traçadors pòscan pas vos pistar. En participant d’un biais anticipat, contribuissètz a optimizar aquesta foncionalitat per que poscam téner de bastir un melhor Web per tot lo monde.
 spotlight-total-cookie-protection-primary-button = Activar la proteccion totala contra los cookies
 spotlight-total-cookie-protection-secondary-button = Pas ara
-cfr-total-cookie-protection-header = Gràcia a vos, { -brand-short-name } es mai privat e segur que jamai
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = La Proteccion totala contra los cookies es la foncion de proteccion de la vida privada mai potenta actualament – e es ara per defaut lo parametratge pels utilizaires { -brand-short-name } de pertot. O auriam pas pogut realizar sens los provaires coma vos. Mercés de nos ajudar a crear un Internet melhor e mai privat.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +209,6 @@ firefoxview-cfr-primarybutton = Ensajar
     .accesskey = E
 firefoxview-cfr-secondarybutton = Pas ara
     .accesskey = P
-firefoxview-cfr-header = Recuperatz los onglets recentament tampatz gràcia a { -firefoxview-brand-name }
-firefoxview-cfr-body = Passatz d’un aparelh a l’autre sens relambi e apondètz una tòca de color a vòstre navegador.
 firefoxview-cfr-header-v2 = Tornatz ont èretz
 firefoxview-cfr-body-v2 = Tornatz trapar los onglets onglets tampats fa pas res, e basculatz d’un aparelh a l’autre amb { -firefoxview-brand-name }.
 
@@ -229,3 +230,6 @@ colorways-cfr-header-28days = Los colorits « Voses independentas » expiran l
 colorways-cfr-header-14days = Los colorits « Voses independentas » expiran d’aquí doas setmanas
 colorways-cfr-header-7days = Los colorits « Voses independentas » expiran aquesta setmana
 colorways-cfr-header-today = Los colorits « Voses independentas » expiran uèi
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
