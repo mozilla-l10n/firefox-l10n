@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Kiat:
 urlbar-result-menu-button =
     .title = Buka menu
+urlbar-result-menu-remove-from-history =
+    .label = Hapus dari riwayat
+    .accesskey = r
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -281,31 +284,31 @@ search-one-offs-actions =
 quickactions-addons = Tampilkan Pengaya
 quickactions-cmd-addons2 = pengaya
 # Opens the bookmarks library window
-quickactions-bookmarks = Tampilkan Markah
+quickactions-bookmarks2 = Kelola markah
 quickactions-cmd-bookmarks = markah
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Bersihkan Riwayat
 quickactions-cmd-clearhistory = bersihkan riwayat
 # Opens about:downloads page
-quickactions-downloads = Buka Unduhan
+quickactions-downloads2 = Tampilkan unduhan
 quickactions-cmd-downloads = unduhan
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kelola ekstensi
 quickactions-cmd-extensions = ekstensi
 # Opens the devtools web inspector
-quickactions-inspector = Buka Inspektur
+quickactions-inspector2 = Buka Perangkat Pengembang
 quickactions-cmd-inspector = inspektur, perangkat pengembang
 # Opens about:logins
-quickactions-logins = Tampilkan Info Masuk
+quickactions-logins2 = Kelola sandi
 quickactions-cmd-logins = info masuk, kata sandi
 # Opens about:addons page in the plugins section
 quickactions-plugins = Kelola plugin
 quickactions-cmd-plugins = plugin
 # Opens the print dialog
-quickactions-print = Cetak
+quickactions-print2 = Cetak halaman
 quickactions-cmd-print = cetak
 # Opens a new private browsing window
-quickactions-private = Buka Jendela Penjelajahan Pribadi
+quickactions-private2 = Buka jendela pribadi
 quickactions-cmd-private = penjelajahan pribadi
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Segarkan { -brand-short-name }
@@ -314,10 +317,10 @@ quickactions-cmd-refresh = segarkan
 quickactions-restart = Mulai Ulang { -brand-short-name }
 quickactions-cmd-restart = mulai ulang
 # Opens the screenshot tool
-quickactions-screenshot2 = Ambil Tangkapan Layar
+quickactions-screenshot3 = Ambil tangkapan layar
 quickactions-cmd-screenshot = tangkapan layar
 # Opens about:preferences
-quickactions-settings = Buka Pengaturan
+quickactions-settings2 = Kelola pengaturan
 quickactions-cmd-settings = pengaturan, preferensi, pilihan
 # Opens about:addons page in the themes section
 quickactions-themes = Kelola tema
@@ -326,7 +329,7 @@ quickactions-cmd-themes = tema;themes;
 quickactions-update = Perbarui { -brand-short-name }
 quickactions-cmd-update = versi baru
 # Opens the view-source UI with current pages source
-quickactions-viewsource = Lihat Sumber
+quickactions-viewsource2 = Lihat Kode Sumber Laman
 quickactions-cmd-viewsource = lihat kode sumber, sumber
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -943,3 +946,10 @@ refresh-blocked-redirect-label = { -brand-short-name } telah mencegah laman ini 
 refresh-blocked-allow =
     .label = Izinkan
     .accesskey = I
+
+## Firefox Relay integration
+
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Kami akan meneruskan semua email dari <strong>{ $sitename }</strong> ke <strong>{ $useremail }</strong>.

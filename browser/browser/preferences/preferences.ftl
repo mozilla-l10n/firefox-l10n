@@ -783,6 +783,9 @@ forms-breach-alerts =
     .label = Tampilkan peringatan tentang kata sandi untuk situs web yang diretas
     .accesskey = w
 forms-breach-alerts-learn-more-link = Pelajari lebih lanjut
+relay-integration =
+    .label = Aktifkan { -relay-brand-name } pada pengelola sandi { -brand-short-name } Anda
+relay-integration-learn-more-link = Pelajari lebih lanjut
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Isi info masuk dan kata sandi secara otomatis
@@ -987,6 +990,9 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         Uji coba pengalaman privasi terkuat kami
         kami yang pernah ada
     .accesskey = U
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Perlindungan Kuki total membelenggu kuki situs tempat Anda berada, sehingga pelacak tidak dapat menggunakannya untuk mengikuti Anda antar-situs.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pelajari lebih lanjut

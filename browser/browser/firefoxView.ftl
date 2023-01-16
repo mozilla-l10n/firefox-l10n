@@ -46,6 +46,9 @@ firefoxview-tabpickup-password-locked-header = Masukkan Sandi Utama Anda untuk m
 firefoxview-tabpickup-password-locked-description = Untuk mengambil tab Anda, Anda harus memasukkan Sandi Utama untuk { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Pelajari lebih lanjut
 firefoxview-tabpickup-password-locked-primarybutton = Masukkan Sandi Utama
+firefoxview-tabpickup-signed-out-header = Masuk untuk menghubungkan ulang
+firefoxview-tabpickup-signed-out-description = Untuk menyambungkan ulang dan mengambil tab Anda, masuk ke { -fxaccount-brand-name } Anda.
+firefoxview-tabpickup-signed-out-primarybutton = Masuk
 firefoxview-tabpickup-syncing = Duduklah dengan tenang saat tab Anda disinkronkan. Tunggu sebentar.
 firefoxview-mobile-promo-header = Ambil tab dari ponsel atau tablet Anda
 firefoxview-mobile-promo-description = Untuk melihat tab seluler terbaru, masuk ke { -brand-product-name } di iOS atau Android.
@@ -54,9 +57,12 @@ firefoxview-mobile-confirmation-header = 🎉 Semua sudah siap!
 firefoxview-mobile-confirmation-description = Sekarang Anda dapat mengambil tab { -brand-product-name } dari tablet atau ponsel Anda.
 firefoxview-closed-tabs-title = Baru saja ditutup
 firefoxview-closed-tabs-description2 = Buka kembali laman yang Anda tutup pada jendela ini.
-firefoxview-closed-tabs-placeholder = <strong>Tidak ada laman yang tutup baru-baru ini</strong><br/>Jangan takut kehilangan tab yang tertutup lagi. Anda selalu bisa mengambilnya di sini.
 firefoxview-closed-tabs-placeholder-header = Tidak ada tab yang baru saja ditutup
 firefoxview-closed-tabs-placeholder-body = Ketika Anda menutup tab di jendela ini, Anda dapat mengambilnya dari sini.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Tutup { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Terakhir aktif
 # Variables:
@@ -64,13 +70,11 @@ firefoxview-pickup-tabs-badge = Terakhir aktif
 firefoxview-tabs-list-tab-button =
     .title = Buka { $targetURI } di tab baru
 firefoxview-try-colorways-button = Coba ragam warna
-firefoxview-no-current-colorway-collection = Ragam warna baru akan segera hadir
 firefoxview-change-colorway-button = Ubah ragam warna
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Belum ada yang bisa dilihat</strong><br/>Lain kali Anda membuka halaman di { -brand-product-name } di perangkat lain, ambil di sini seperti sulap.
 firefoxview-synced-tabs-placeholder-header = Belum ada yang bisa dilihat
 firefoxview-synced-tabs-placeholder-body = Lain kali jika Anda membuka laman di { -brand-product-name } pada perangkat lain, ambil di sini seperti sulap.
 firefoxview-collapse-button-show =
