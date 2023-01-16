@@ -57,6 +57,12 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } gebruikers
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Vaarwel cookiebanners!
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchroniseer uw bladwijzers overal.
@@ -156,10 +162,6 @@ spotlight-total-cookie-protection-body = Totale cookiebescherming voorkomt dat t
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bouwt een hek rond cookies, waardoor ze worden beperkt tot de website waarop u zich bevindt, zodat trackers ze niet kunnen gebruiken om u te volgen. Als vroege gebruiker helpt u deze functie te optimaliseren, zodat we een beter internet voor iedereen kunnen blijven bouwen.
 spotlight-total-cookie-protection-primary-button = Totale cookiebescherming inschakelen
 spotlight-total-cookie-protection-secondary-button = Niet nu
-cfr-total-cookie-protection-header = Dankzij u is { -brand-short-name } meer privé en veiliger dan ooit
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Totale cookiebescherming is onze sterkste privacybescherming tot nu toe – en het is nu overal een standaardinstelling voor { -brand-short-name }-gebruikers. We hadden dit niet kunnen doen zonder deelnemers met vroege toegang zoals u. Dus bedankt dat u ons hebt geholpen om een beter, meer privé internet te creëren.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +208,6 @@ firefoxview-cfr-primarybutton = Uitproberen
     .accesskey = U
 firefoxview-cfr-secondarybutton = Niet nu
     .accesskey = N
-firefoxview-cfr-header = Haal onlangs gesloten tabbladen terug met { -firefoxview-brand-name }
-firefoxview-cfr-body = Plus: spring naadloos tussen apparaten en voeg een vleugje kleur toe aan uw browser.
 firefoxview-cfr-header-v2 = Ga snel verder waar u was gebleven
 firefoxview-cfr-body-v2 = Ontvang onlangs gesloten tabbladen terug en schakel naadloos tussen apparaten met { -firefoxview-brand-name }.
 
@@ -229,3 +229,6 @@ colorways-cfr-header-28days = Independent Voices-kleurstellingen verlopen op 16 
 colorways-cfr-header-14days = Independent Voices-kleurstellingen verlopen over twee weken
 colorways-cfr-header-7days = Independent Voices-kleurstellingen verlopen deze week
 colorways-cfr-header-today = Independent Voices-kleurstellingen verlopen vandaag
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
