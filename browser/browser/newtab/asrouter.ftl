@@ -57,6 +57,12 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } kullanıcı
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Çerez duyurularına son!
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Yer imlerinize her yerden ulaşın.
@@ -156,10 +162,6 @@ spotlight-total-cookie-protection-body = Komple çerez koruması, takip kodları
 spotlight-total-cookie-protection-expanded = { -brand-short-name }, çerezlerin etrafına bir duvar örerek bulunduğunuz sitedeki çerezleri sadece o sitenin kullanmasına izin verir. Böylece takip kodları sizi izlemek için çerezleri kullanamaz. Erken erişim aşamasında bu özelliği deneyerek herkes için daha iyi bir web yaratmamıza yardımcı olabilirsiniz.
 spotlight-total-cookie-protection-primary-button = Komple çerez korumasını aç
 spotlight-total-cookie-protection-secondary-button = Daha sonra
-cfr-total-cookie-protection-header = Sizin sayenizde { -brand-short-name } her zamankinden daha gizli ve güvenli
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Şimdiye kadarki en güçlü gizlilik korumamız olan komple çerez koruması, artık tüm { -brand-short-name } kullanıcıları için varsayılan ayar haline geldi. Sizin gibi erken erişim katılımcıları olmadan bunu başaramazdık. Daha iyi ve daha gizli bir internet yaratmamıza yardım ettiğiniz için teşekkür ederiz.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +208,6 @@ firefoxview-cfr-primarybutton = Deneyin
     .accesskey = D
 firefoxview-cfr-secondarybutton = Daha sonra
     .accesskey = s
-firefoxview-cfr-header = { -firefoxview-brand-name } ile son kapattığınız sekmeleri kurtarın
-firefoxview-cfr-body = Ayrıca cihazlar arasında sorunsuzca geçiş yapın ve tarayıcınıza renk katın.
 firefoxview-cfr-header-v2 = Kaldığınız yerden hızlıca devam edin
 firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ile yakın zamanda kapattığınız sekmeleri geri getirebilir ve cihazlarınız arasında kolayca şekilde geçiş yapabilirsiniz.
 
@@ -229,3 +229,7 @@ colorways-cfr-header-28days = Bağımsız Sesler renk kuşakları 16 Ocak’ta k
 colorways-cfr-header-14days = Bağımsız Sesler renk kuşakları iki hafta sonra kullanımdan kalkıyor
 colorways-cfr-header-7days = Bağımsız Sesler renk kuşakları bu hafta kullanımdan kalkıyor
 colorways-cfr-header-today = Bağımsız Sesler renk kuşakları bugün kullanımdan kalkıyor
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-set-default-primary = Bağlantılarımı { -brand-short-name } ile aç
