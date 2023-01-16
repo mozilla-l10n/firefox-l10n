@@ -68,11 +68,13 @@ cfr-cookie-banner-accept-button = Dimitter le requestas
 cfr-cookie-banner-reject-button = Non ora
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = Vider minus quadros resaltante de cookies
+cfr-cookie-banner-handling-body-variant-1 = Lassa que { -brand-short-name } responde automaticamente al quadros resaltante de cookies pro te, assi que tu pote navigar de novo libere de distractiones. { -brand-short-name } rejectara tote le requestas si possibile o, si non, los acceptara tote.
 cfr-cookie-banner-accept-button-variant-1 = Dimitter le quadros resaltante
     .accesskey = D
 cfr-cookie-banner-reject-button-variant-1 = No, gratias
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Reduction de banner pro le cookie
+cfr-cookie-banner-handling-body-variant-2 = Permitter a { -brand-short-name } de refusar le requesta de consenso al cookies de un sito, si possibile, o acceptar le accesso de cookies quando impossibile?
 cfr-cookie-banner-accept-button-variant-2 = Permitter
     .accesskey = P
 cfr-cookie-banner-reject-button-variant-2 = Non ora
@@ -248,3 +250,5 @@ colorways-cfr-header-today = Le combinationes de colores Independent Voices expi
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Nos te mantene secur
+july-jam-body = Cata mense, { -brand-short-name } bloca un media de plus de 3000 traciatores per usator pro dar te accesso secur e veloce al bon internet.
+july-jam-set-default-primary = Aperir mi ligamines con { -brand-short-name }
