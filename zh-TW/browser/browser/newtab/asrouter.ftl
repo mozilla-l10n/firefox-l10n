@@ -60,11 +60,13 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = 讓 Cookie 橫幅消失！
+cfr-cookie-banner-handling-body = 允許 { -brand-short-name } 盡可能自動拒絕所有 Cookie 橫幅的請求，否則就自動接受所有 Cookie 來隱藏更多橫幅。
 cfr-cookie-banner-accept-button = 關閉請求
     .accesskey = D
 cfr-cookie-banner-reject-button = 現在不要
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = 減少顯示 Cookie 彈出提示
+cfr-cookie-banner-handling-body-variant-1 = 讓 { -brand-short-name } 自動為您回答彈出的 Cookie 對話框，這樣上網就可以減少分心。{ -brand-short-name } 會盡可能自動拒絕所有請求，或者無法拒絕就接受全部 Cookie。
 cfr-cookie-banner-accept-button-variant-1 = 關閉彈出提示
     .accesskey = D
 cfr-cookie-banner-reject-button-variant-1 = 不要，謝謝
@@ -243,4 +245,5 @@ colorways-cfr-header-today = 獨立之聲配色將於今日失效
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = 讓我們保護您
+july-jam-body = 每個月，{ -brand-short-name } 平均都會為每位使用者封鎖超過 3,000 組追蹤器，讓您上網更快、更安全。
 july-jam-set-default-primary = 用 { -brand-short-name } 開啟我的鏈結
