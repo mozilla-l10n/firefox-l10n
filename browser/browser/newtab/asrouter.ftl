@@ -57,6 +57,23 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utilisateurs
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Finies les bannières de cookies !
+cfr-cookie-banner-handling-header-variant-1 = Voir moins de popups de cookies
+cfr-cookie-banner-accept-button-variant-1 = Rejeter les fenêtres popup
+    .accesskey = R
+cfr-cookie-banner-reject-button-variant-1 = Non merci
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Réduction des bannières de cookies
+cfr-cookie-banner-handling-body-variant-2 = Autoriser { -brand-short-name } à refuser la demande de consentement aux cookies d’un site si possible ou à accepter l’accès aux cookies lorsque ce n’est pas possible ?
+cfr-cookie-banner-accept-button-variant-2 = Autoriser
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = Plus tard
+    .accesskey = P
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisez vos marque-pages partout.
@@ -153,10 +170,6 @@ spotlight-total-cookie-protection-body = La protection totale contre les cookies
 spotlight-total-cookie-protection-expanded = { -brand-short-name } crée une barrière autour des cookies, les limitant au site sur lequel vous vous trouvez afin que les traqueurs ne puissent pas les utiliser pour vous pister. Avec un accès anticipé, vous contribuerez à optimiser cette fonctionnalité afin que nous puissions continuer à bâtir un meilleur Web pour tout le monde.
 spotlight-total-cookie-protection-primary-button = Activer la protection totale contre les cookies
 spotlight-total-cookie-protection-secondary-button = Plus tard
-cfr-total-cookie-protection-header = Grâce à vous, { -brand-short-name } est plus privé et sûr que jamais
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = La protection totale contre les cookies est le niveau de protection le plus élevé que nous offrons à votre vie privée à ce jour – de plus, il s’agit désormais du réglage par défaut partout pour toutes les personnes qui utilisent { -brand-short-name }. Nous n’aurions pu le faire sans l’aide de celles et ceux qui ont accepté comme vous d’y participer de façon anticipée. C’est pourquoi nous vous remercions de nous aider à créer un Internet meilleur et plus respectueux de la vie privée !
 
 ## Emotive Continuous Onboarding
 
@@ -203,8 +216,6 @@ firefoxview-cfr-primarybutton = Essayer
     .accesskey = E
 firefoxview-cfr-secondarybutton = Plus tard
     .accesskey = P
-firefoxview-cfr-header = Récupérez les onglets récemment fermés grâce à { -firefoxview-brand-name }
-firefoxview-cfr-body = Mais aussi, passez facilement d’un appareil à l’autre et ajoutez une touche de couleur à votre navigateur.
 firefoxview-cfr-header-v2 = Reprenez rapidement là où vous en étiez
 firefoxview-cfr-body-v2 = Retrouvez vos onglets récemment fermés et passez facilement d’un appareil à l’autre avec { -firefoxview-brand-name }.
 
@@ -226,3 +237,7 @@ colorways-cfr-header-28days = Les coloris « Voix indépendantes » expirent l
 colorways-cfr-header-14days = Les coloris « Voix indépendantes » expirent dans deux semaines
 colorways-cfr-header-7days = Les coloris « Voix indépendantes » expirent cette semaine
 colorways-cfr-header-today = Les coloris « Voix indépendantes » expirent aujourd’hui
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Nous assurons votre protection
