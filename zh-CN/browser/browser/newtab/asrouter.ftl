@@ -55,6 +55,20 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } 个用户
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-accept-button = 关闭请求
+    .accesskey = D
+cfr-cookie-banner-reject-button = 暂时不要
+    .accesskey = N
+cfr-cookie-banner-reject-button-variant-1 = 不，谢谢
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = 减少 Cookie 横幅
+cfr-cookie-banner-accept-button-variant-2 = 允许
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = 暂时不要
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 书签随身带着走
@@ -151,10 +165,6 @@ spotlight-total-cookie-protection-body = 全方位 Cookie 保护 - 阻止跟踪�
 spotlight-total-cookie-protection-expanded = { -brand-short-name } 可将每个网站的 Cookie 用“围栏”完全隔离，以阻止跟踪器借其实施跟踪。您可以通过抢先体验来帮助我们优化此功能，为每个人构建更好的网络环境。
 spotlight-total-cookie-protection-primary-button = 立即开启
 spotlight-total-cookie-protection-secondary-button = 暂时不要
-cfr-total-cookie-protection-header = 感谢有您，{ -brand-short-name } 的隐私保护能力和安全性比以往有亿点强
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = “全方位 Cookie 保护”是我们迄今为止最强大的隐私保护功能，现已为所有 { -brand-short-name } 用户默认启用。若没有像您这样的早期用户参与测试，我们就无法推出此功能。非常感谢您帮助我们建构一个更美好、更保护隐私的互联网。
 
 ## Emotive Continuous Onboarding
 
@@ -201,8 +211,6 @@ firefoxview-cfr-primarybutton = 试试看
     .accesskey = T
 firefoxview-cfr-secondarybutton = 暂时不要
     .accesskey = N
-firefoxview-cfr-header = 通过 { -firefoxview-brand-name } 找回最近关闭的标签页
-firefoxview-cfr-body = 享受设备间无缝切换，还能为浏览器添一分色彩。
 firefoxview-cfr-header-v2 = 快速从上次看到的地方继续浏览
 firefoxview-cfr-body-v2 = 通过 { -firefoxview-brand-name } 重新打开最近关闭的标签页，还能在设备间无缝切换。
 
@@ -224,3 +232,8 @@ colorways-cfr-header-28days = “凡人之声”配色有效期至1月16日
 colorways-cfr-header-14days = “凡人之声”配色两周后到期
 colorways-cfr-header-7days = “凡人之声”配色本周到期
 colorways-cfr-header-today = “凡人之声”配色今日到期
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = 保护您是我的职责
+july-jam-set-default-primary = 用 { -brand-short-name } 打开我的链接
