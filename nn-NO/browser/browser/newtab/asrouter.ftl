@@ -57,6 +57,9 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brukarar
     }
 
+## Cookie Banner Handling Onboarding
+
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkroniser bokmerka dine overalt.
@@ -155,10 +158,6 @@ spotlight-total-cookie-protection-body = Totalt vern mot infokapslar stoppar spo
 spotlight-total-cookie-protection-expanded = { -brand-short-name }byggjer eit gjerde rundt infokapslar, og avgrensar dei til nettstaden du er på, slik at sporarar ikkje kan bruke dei til å følgje deg. Med tidleg tilgang hjelper du til med å optimalisere denne funksjonen slik at vi kan fortsetje å byggje eit betre nett for alle.
 spotlight-total-cookie-protection-primary-button = Slå på total vern mot infokapslar
 spotlight-total-cookie-protection-secondary-button = Ikkje no
-cfr-total-cookie-protection-header = Takka vere deg er { -brand-short-name } meir privat og sikrare enn nokon gong
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Totalt vern mot infokapslar er vårt sterkaste personvern til no – og det er no ei standardinnstilling for { -brand-short-name }-brukarar overalt. Vi kunne ikkje ha gjort det utan deltakarar med tidleg tilgang som deg. Så takk for at du hjelper oss med å skape eit betre, meir privat internett.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +204,6 @@ firefoxview-cfr-primarybutton = Prøv det
     .accesskey = t
 firefoxview-cfr-secondarybutton = Ikkje no
     .accesskey = n
-firefoxview-cfr-header = Få tilbake nyleg attlatne faner med { -firefoxview-brand-name }
-firefoxview-cfr-body = Saumlaust byte mellom einingar. Legg óg til ein fargeklatt i nettlesaren din.
 firefoxview-cfr-header-v2 = Hald fram raskt der du slutta
 firefoxview-cfr-body-v2 = Få tilbake nyleg attlatne faner, og skift snøgt mellom einingar med { -firefoxview-brand-name }.
 
@@ -228,3 +225,7 @@ colorways-cfr-header-28days = Fargesamansetjinga «Uavhengige røyster» går ut
 colorways-cfr-header-14days = Fargesamansetjinga «Uavhengige røyster» går ut om to veker
 colorways-cfr-header-7days = Fargesamansetjinga «Uavhengige røyster» går ut om to veker
 colorways-cfr-header-today = Fargesamansetjinga «Uavhengige røyster» går ut i dag
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Vi beskyttar deg
