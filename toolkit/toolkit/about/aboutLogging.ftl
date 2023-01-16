@@ -63,3 +63,4 @@ about-logging-unknown-profiler-preset = Ukjent førehandsval for profilering «{
 about-logging-unknown-option = Ukjent alternativ for about:logging «{ $k }»
 about-logging-configuration-url-ignored = Konfigurasjons-URL ignorert
 about-logging-file-and-profiler-override = Kan ikkje tvinge utdata for fil og overstyre innstillingar for profilering samtidig
+about-logging-configured-via-url = Alternativ sett opp via URL
