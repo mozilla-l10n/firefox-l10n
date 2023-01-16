@@ -57,6 +57,22 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utilizadores
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Desapareçam faixas de cookies!
+cfr-cookie-banner-reject-button = Agora não
+    .accesskey = A
+cfr-cookie-banner-handling-header-variant-1 = Ver menos pop-ups de cookies
+cfr-cookie-banner-reject-button-variant-1 = Não, obrigado
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Redução de Faixas de Cookies
+cfr-cookie-banner-accept-button-variant-2 = Permitir
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Agora não
+    .accesskey = n
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronize os seus marcadores em todo o lado.
@@ -156,10 +172,6 @@ spotlight-total-cookie-protection-body = A Proteção total de cookies impede qu
 spotlight-total-cookie-protection-expanded = O { -brand-short-name } isola as cookies, limitando o acesso aos mesmos ao site em que está, de modo a que os rastreadores não os possam utilizar para o monitorizar. Com este acesso antecipado, estará a ajudar a otimizar esta funcionalidade para que possamos continuar a construir uma Internet melhor para todos.
 spotlight-total-cookie-protection-primary-button = Ativar a Proteção total de cookies
 spotlight-total-cookie-protection-secondary-button = Agora não
-cfr-total-cookie-protection-header = Graças a si, { -brand-short-name } está mais privado e seguro do que nunca
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = A Proteção Total de Cookies é a nossa proteção de privacidade mais forte até ao momento – e agora passou a ser uma configuração predefinida para todos os utilizadores do { -brand-short-name }, em todo o lado. Não teríamos conseguido fazer isto sem os participantes da versão de acesso antecipado, como você. Muito obrigado por nos ajudar a criar uma Internet melhor e mais privada.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +218,6 @@ firefoxview-cfr-primarybutton = Experimentar
     .accesskey = E
 firefoxview-cfr-secondarybutton = Agora não
     .accesskey = n
-firefoxview-cfr-header = Recupere os separadores fechados recentemente com o { -firefoxview-brand-name }
-firefoxview-cfr-body = Além disso, alterne facilmente entre dispositivos e adicione um toque de cor ao seu navegador.
 firefoxview-cfr-header-v2 = Retome rapidamente onde ficou
 firefoxview-cfr-body-v2 = Recupere os separadores fechados recentemente, além de alternar facilmente entre os dispositivos com { -firefoxview-brand-name }.
 
@@ -229,3 +239,7 @@ colorways-cfr-header-28days = Os estilos de cor de Vozes Independentes expiram a
 colorways-cfr-header-14days = Os estilos de cor de Vozes Independentes expiram em duas semanas
 colorways-cfr-header-7days = Os estilos de cor de Vozes Independentes expiram esta semana
 colorways-cfr-header-today = Os estilos de cor de Independent Voices expiram hoje
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Estamos consigo
