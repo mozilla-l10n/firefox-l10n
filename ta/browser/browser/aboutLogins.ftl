@@ -126,7 +126,7 @@ about-logins-confirm-remove-dialog-confirm-button = நீக்கு
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] நீக்கு
-        [one] { "" }
+        [one] நீக்கு
        *[other] அனைத்தையும் நீக்குக
     }
 about-logins-confirm-remove-all-dialog-title =
