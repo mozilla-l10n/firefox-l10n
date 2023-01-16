@@ -68,6 +68,17 @@ cfr-cookie-banner-accept-button = Descartar solicitudes
 cfr-cookie-banner-reject-button = Ahora no
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = Ver menos ventanas emergentes de cookies
+cfr-cookie-banner-handling-body-variant-1 = Dejar que { -brand-short-name } responda automáticamente las ventanas emergentes de cookies para que pueda volver a navegar sin distracciones. { -brand-short-name } rechazará todas las solicitudes si es posible, o si no, las aceptará todas.
+cfr-cookie-banner-accept-button-variant-1 = Descartar ventanas emergentes
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = No, gracias
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reducción de pancartas de cookies
+cfr-cookie-banner-handling-body-variant-2 = ¿Permitir que { -brand-short-name } rechace la solicitud de consentimiento de cookies de un sitio si es posible o acepte el acceso a cookies cuando no sea posible?
+cfr-cookie-banner-accept-button-variant-2 = Permitir
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = Ahora no
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -238,3 +249,6 @@ colorways-cfr-header-today = Las combinaciones de colores de Independent Voices 
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Lo tenemos cubierto
+july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3000 rastreadores por usuario, lo que le brinda un acceso rápido y seguro a Internet.
+july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
