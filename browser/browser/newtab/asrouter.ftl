@@ -73,6 +73,10 @@ cfr-cookie-banner-reject-button-variant-1 = Nei takk
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Fækkun vefkökuborða
 cfr-cookie-banner-handling-body-variant-2 = Á að leyfa { -brand-short-name } að hafna beiðni um samþykki á vefkökum ef mögulegt er eða að samþykkja aðgang að vefkökum þegar það er ekki hægt?
+cfr-cookie-banner-accept-button-variant-2 = Leyfa
+    .accesskey = a
+cfr-cookie-banner-reject-button-variant-2 = Ekki núna
+    .accesskey = n
 
 ## Firefox Accounts Message
 
@@ -243,3 +247,4 @@ colorways-cfr-header-today = Litasett Independent Voices rennur út í dag
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Við erum með það sem þú þarft
