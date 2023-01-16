@@ -47,6 +47,9 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } ຜູ່ໃຊ້
     }
 
+## Cookie Banner Handling Onboarding
+
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -111,6 +114,9 @@ cfr-doorhanger-video-support-primary-button = ອັບເດດດຽວນີ�
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-body = ເພື່ອເຊື່ອງສະຖານທີ່ ແລະການເຄື່ອນໄຫວການຊອກຫາຂອງທ່ານ, ໃຫ້ພິຈາລະນາເຄືອຂ່າຍສ່ວນຕົວສະເໝືອນຈິງ. ມັນຈະຊ່ວຍໃຫ້ທ່ານປົກປ້ອງທ່ານໃນເວລາທ່ອງເວັບໃນສະຖານທີ່ສາທາລະນະເຊັ່ນ: ສະໜາມບິນ ແລະຮ້ານກາເຟ.
+spotlight-public-wifi-vpn-primary-button = ເປັນສ່ວນຕົວກັບ { -mozilla-vpn-brand-name }
+    .accesskey = S
 spotlight-public-wifi-vpn-link = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 
@@ -121,6 +127,10 @@ spotlight-public-wifi-vpn-link = ບໍ່ແມ່ນຕອນນີ້
 spotlight-total-cookie-protection-header =
     ທົດສອບການທົດລອງທີ່ມີປະສິດທິພາບທີ່ສຸດຂອງພວກເຮົາ
     ປະສົບການຄວາມເປັນສ່ວນຕົວເຄີຍ
+spotlight-total-cookie-protection-body = Total Cookie Protection ຢຸດຜູ້ຕິດຕາມຈາກການໃຊ້ cookies ເພື່ອຕິດຕາມທ່ານໃນທົ່ວເວັບ.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ສ້າງຮົ້ວອ້ອມຄຸກກີ້, ຈຳກັດພວກມັນຢູ່ໃນເວັບໄຊທີ່ເຈົ້າຢູ່ ດັ່ງນັ້ນຜູ້ຕິດຕາມບໍ່ສາມາດໃຊ້ພວກມັນເພື່ອຕິດຕາມເຈົ້າໄດ້. ດ້ວຍການເຂົ້າເຖິງກ່ອນໄວ, ທ່ານຈະຊ່ວຍປັບປຸງຄຸນສົມບັດນີ້ເພື່ອໃຫ້ພວກເຮົາສາມາດສືບຕໍ່ສ້າງເວັບທີ່ດີກວ່າສໍາລັບທຸກຄົນ.
 spotlight-total-cookie-protection-primary-button = ເປີດການປົກປ້ອງຄຸກກີທັງໝົດ
 spotlight-total-cookie-protection-secondary-button = ຍັງເທື່ອ
 
@@ -158,4 +168,7 @@ firefoxview-cfr-secondarybutton = ບໍ່ແມ່ນຕອນນີ້
 firefoxview-spotlight-promo-secondarybutton = ຂ້າມ
 
 ## Colorways expiry reminder CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
 
