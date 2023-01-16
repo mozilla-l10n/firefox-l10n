@@ -118,7 +118,7 @@ private-browsing-description2 =
     udvidelser være blokeret i privat browsing-tilstand, medmindre du giver dem tilladelse i indstillingerne.
     { -brand-short-name } blokerer udvidelserne for at sikre, at de kun med din tilladelse har adgang til din aktivitet
     på nettet, når du benytter privat browsing.
-    <label data-l10n-name="private-browsing-learn-more">Læs her, hvordan du håndterer indstillingerne for udvidelser.
+    <label data-l10n-name="private-browsing-learn-more">Læs her, hvordan du håndterer indstillingerne for udvidelser</label>.
 addon-category-discover = Anbefalinger
 addon-category-discover-title =
     .title = Anbefalinger
