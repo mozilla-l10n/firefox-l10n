@@ -59,6 +59,29 @@ cfr-doorhanger-extension-total-users =
        *[many] { $total } користувачів
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Геть банери про куки!
+cfr-cookie-banner-handling-body = Дозвольте { -brand-short-name } автоматично відхиляти всі запити на збереження кук, коли це можливо. В іншому випадку всі запити будуть схвалюватися, щоб уникнути показу ще більшої кількості банерів.
+cfr-cookie-banner-accept-button = Відхиляти запити
+    .accesskey = х
+cfr-cookie-banner-reject-button = Не зараз
+    .accesskey = е
+cfr-cookie-banner-handling-header-variant-1 = Менше спливних повідомлень про збереження кук
+cfr-cookie-banner-handling-body-variant-1 = Дозвольте { -brand-short-name } автоматично відповідати на спливні повідомлення про збереження кук, щоб ви могли користуватися інтернетом без відволікання. { -brand-short-name } відхилятиме всі можливі запити або схвалюватиме, якщо неможливо відхилити.
+cfr-cookie-banner-accept-button-variant-1 = Відхиляти спливні запити
+    .accesskey = з
+cfr-cookie-banner-reject-button-variant-1 = Ні, дякую
+    .accesskey = Н
+cfr-cookie-banner-handling-header-variant-2 = Зменшення кількості банерів кук
+cfr-cookie-banner-handling-body-variant-2 = Дозволити { -brand-short-name } відхиляти запити із погодженням на збереження кук сайтів, якщо це можливо, або схвалювати запити, якщо відхилити неможливо?
+cfr-cookie-banner-accept-button-variant-2 = Дозволити
+    .accesskey = з
+cfr-cookie-banner-reject-button-variant-2 = Не зараз
+    .accesskey = Н
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Синхронізуйте свої закладки всюди.
@@ -159,10 +182,6 @@ spotlight-total-cookie-protection-body = Повний захист кук не �
 spotlight-total-cookie-protection-expanded = { -brand-short-name } обгороджує куки, обмежуючи їх використання сайтом, на якому ви перебуваєте, тому елементи стеження не можуть використовувати їх для переслідування. Завдяки ранньому доступу ви допомагаєте оптимізувати цю функцію, щоб ми продовжували створювати кращий Інтернет для кожного.
 spotlight-total-cookie-protection-primary-button = Увімкнути повний захист кук
 spotlight-total-cookie-protection-secondary-button = Не зараз
-cfr-total-cookie-protection-header = Завдяки вам { -brand-short-name } ще приватніший та безпечніший, ніж будь-коли
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Повний захист кук – наш найнадійніший захист приватності, відтепер є типовим налаштуванням для всіх користувачів { -brand-short-name }.
 
 ## Emotive Continuous Onboarding
 
@@ -209,8 +228,6 @@ firefoxview-cfr-primarybutton = Спробувати
     .accesskey = С
 firefoxview-cfr-secondarybutton = Не зараз
     .accesskey = Н
-firefoxview-cfr-header = Поверніть нещодавно закриті вкладки за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
-firefoxview-cfr-body = Крім того, легко перемикайтеся між пристроями та додавайте барвистості своєму браузеру.
 firefoxview-cfr-header-v2 = Швидко продовжуйте з місця, де ви зупинилися
 firefoxview-cfr-body-v2 = Легко повертайтеся до нещодавно закритих на різних пристроях за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
 
@@ -232,3 +249,9 @@ colorways-cfr-header-28days = Забарвлення незалежних гол
 colorways-cfr-header-14days = Забарвлення незалежних голосів доступні ще два тижні
 colorways-cfr-header-7days = Забарвлення незалежних голосів доступні до кінця тижня
 colorways-cfr-header-today = Забарвлення незалежних голосів доступні до кінця дня
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Ми прикриваємо вас
+july-jam-body = Щомісяця { -brand-short-name } блокує в середньому понад 3000 елементів стеження для одного користувача, надаючи безпечний, швидкий доступ до здорового інтернету.
+july-jam-set-default-primary = Відкривати мої посилання з { -brand-short-name }
