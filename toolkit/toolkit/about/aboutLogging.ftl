@@ -49,6 +49,7 @@ about-logging-preset-networking-label = Syć
 about-logging-preset-networking-description = Module za diagnosticěrowanje syćowych problemow protokolować
 about-logging-preset-media-playback-label = Wothraće medijow
 about-logging-preset-custom-label = Swójski
+about-logging-preset-custom-description = Protokolowe module manuelnje wubrane
 # Error handling
 about-logging-error = Zmylk:
 
@@ -57,3 +58,8 @@ about-logging-error = Zmylk:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Njepłaćiwa hódnota “{ $v }“ za kluč “{ $k }“
+about-logging-unknown-logging-preset = Njeznate protokolowanske přednastajenje „{ $v }“
+about-logging-unknown-profiler-preset = Njeznate profilerowe přednastajenje „{ $v }“
+about-logging-unknown-option = Njeznate nastajenje about:logging „{ $k }“
+about-logging-configuration-url-ignored = Konfiguraciski URL ignorowany
+about-logging-configured-via-url = Přez URL skonfigurowane nastajenje
