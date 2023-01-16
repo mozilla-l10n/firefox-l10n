@@ -48,8 +48,11 @@ about-logging-logging-preset-selector-text = ค่าที่ตั้งไ�
 ## Logging presets
 
 about-logging-preset-networking-label = ระบบเครือข่าย
+about-logging-preset-networking-description = โมดูลรายการบันทึกที่จะใช้วินิจฉัยปัญหาระบบเครือข่าย
 about-logging-preset-media-playback-label = การเล่นสื่อ
+about-logging-preset-media-playback-description = โมดูลรายการบันทึกที่จะใช้วินิจฉัยปัญหาการเล่นสื่อ (ไม่ใช่ปัญหาการประชุมทางวิดีโอ)
 about-logging-preset-custom-label = กำหนดเอง
+about-logging-preset-custom-description = โมดูลรายการบันทึกที่เลือกด้วยตนเอง
 # Error handling
 about-logging-error = ข้อผิดพลาด:
 
@@ -57,3 +60,4 @@ about-logging-error = ข้อผิดพลาด:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = ค่า “{ $v }“ ไม่ถูกต้องสำหรับคีย์ “{ $k }“
