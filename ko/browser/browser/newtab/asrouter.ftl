@@ -72,8 +72,11 @@ cfr-cookie-banner-accept-button-variant-1 = 팝업 닫기
 cfr-cookie-banner-reject-button-variant-1 = 아니요
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = 쿠키 배너 감소
+cfr-cookie-banner-handling-body-variant-2 = 가능한 경우 { -brand-short-name }가 사이트의 쿠키 동의 요청을 거부하거나 가능하지 않은 경우 쿠키 액세스를 수락하도록 허용하시겠습니까?
 cfr-cookie-banner-accept-button-variant-2 = 허용
     .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = 나중에
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -243,3 +246,6 @@ colorways-cfr-header-today = 독립적인 목소리 컬러웨이 오늘 만료�
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = 저희가 사용자를 보호합니다
+july-jam-body = 매달 { -brand-short-name }는 사용자당 평균 3,000개 이상의 추적기를 차단하여 좋은 인터넷에 안전하고 빠르게 액세스할 수 있도록 합니다.
+july-jam-set-default-primary = { -brand-short-name }로 내 링크 열기
