@@ -59,6 +59,18 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } корисника
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Доле банери колачића!
+cfr-cookie-banner-handling-body = Дозволите да { -brand-short-name } аутоматски одбије све захтеве за банере за колачиће, ако је могуће. У супротном, сви колачићи ће бити прихваћени како би се игнорисало више банера.
+cfr-cookie-banner-accept-button = Одбиј захтев
+    .accesskey = О
+cfr-cookie-banner-reject-button = Не сада
+    .accesskey = Н
+cfr-cookie-banner-handling-header-variant-1 = Да видите мање искачућих прозора за колачиће
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Приступите обележивачима свуда.
@@ -165,10 +177,6 @@ spotlight-total-cookie-protection-body = Свеобухватна заштита
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ограђује колачиће, ограничавајући их тако да елементи за праћење не могу да их користе како би вас пратили. Рани приступ нам помаже да оптимизујемо ову функцију како би наставили да правимо бољи веб за све.
 spotlight-total-cookie-protection-primary-button = Укључите свеобухватну заштиту од колачића
 spotlight-total-cookie-protection-secondary-button = Не сада
-cfr-total-cookie-protection-header = Захваљујући вама, { -brand-short-name } је приватнији и безбеднији него икад
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Свеобухватна заштита од колачића је наше најјачи ниво заштите приватности до сада – и сада је подразумевана поставка за { -brand-short-name } кориснике свуда. Не бисмо то могли да урадимо без учесника у раном приступу попут вас. Зато вам хвала што сте нам помогли да направимо бољи, приватнији интернет.
 
 ## Emotive Continuous Onboarding
 
@@ -215,8 +223,6 @@ firefoxview-cfr-primarybutton = Испробај
     .accesskey = И
 firefoxview-cfr-secondarybutton = Не сада
     .accesskey = Н
-firefoxview-cfr-header = Вратите недавно затворене картице уз { -firefoxview-brand-name }
-firefoxview-cfr-body = Такође, лако прелазите са једног уређаја на други и додајте мало боје свом прегледачу.
 firefoxview-cfr-header-v2 = Брзо наставите тамо где сте стали
 firefoxview-cfr-body-v2 = Вратите недавно затворене картице и лако прелазите између уређаја уз { -firefoxview-brand-name }.
 
@@ -238,3 +244,6 @@ colorways-cfr-header-28days = Комбинације боја „Независ�
 colorways-cfr-header-14days = Комбинације боја „Независни гласови” истичу за две седмице
 colorways-cfr-header-7days = Комбинације боја „Независни гласови” истичу ове седмице
 colorways-cfr-header-today = Комбинације боја „Независни гласови” истичу данас
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
