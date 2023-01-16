@@ -47,8 +47,8 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = Graphics
-
 perftools-presets-media-label = Media
 
 ##
