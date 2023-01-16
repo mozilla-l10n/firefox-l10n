@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Pokiw:
 urlbar-result-menu-button =
     .title = Meni wočinić
+urlbar-result-menu-remove-from-history =
+    .label = Z historije wotstronić
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -279,15 +282,11 @@ search-one-offs-actions =
 quickactions-addons = Přidatki pokazać
 quickactions-cmd-addons2 = přidatki
 # Opens the bookmarks library window
-quickactions-bookmarks = Zapołožki pokazać
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Zapołožki rjadować
 quickactions-cmd-bookmarks = zapołožki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Historiju zhašeć
 quickactions-cmd-clearhistory = historiju zhašeć
-# Opens about:downloads page
-quickactions-downloads = Sćehnjenja wočinić
 # Opens about:downloads page
 quickactions-downloads2 = Sćehnjenja pokazać
 quickactions-cmd-downloads = sćehnjenja
@@ -295,12 +294,8 @@ quickactions-cmd-downloads = sćehnjenja
 quickactions-extensions = Rozšěrjenja rjadować
 quickactions-cmd-extensions = rozšěrjenja
 # Opens the devtools web inspector
-quickactions-inspector = Inspektor wočinić
-# Opens the devtools web inspector
 quickactions-inspector2 = Wuwiwarske nastroje wočinić
 quickactions-cmd-inspector = inspektor, wuwiwarske nastroje
-# Opens about:logins
-quickactions-logins = Přizjewjenja pokazać
 # Opens about:logins
 quickactions-logins2 = Hesła rjadować
 quickactions-cmd-logins = přizjewjenja, hesła
@@ -308,12 +303,8 @@ quickactions-cmd-logins = přizjewjenja, hesła
 quickactions-plugins = Tykače rjadować
 quickactions-cmd-plugins = tykače
 # Opens the print dialog
-quickactions-print = Ćišćeć
-# Opens the print dialog
 quickactions-print2 = Stronu ćišćeć
 quickactions-cmd-print = ćišćeć
-# Opens a new private browsing window
-quickactions-private = Priwatne wokno wočinić
 # Opens a new private browsing window
 quickactions-private2 = Priwatne wokno wočinić
 quickactions-cmd-private = priwatny modus
@@ -324,12 +315,8 @@ quickactions-cmd-refresh = aktualizować
 quickactions-restart = { -brand-short-name } znowa startować
 quickactions-cmd-restart = znowa startować
 # Opens the screenshot tool
-quickactions-screenshot2 = Foto wobrazowki činić
-# Opens the screenshot tool
 quickactions-screenshot3 = Foto wobrazowki činić
 quickactions-cmd-screenshot = foto wobrazowki
-# Opens about:preferences
-quickactions-settings = Nastajenja wočinić
 # Opens about:preferences
 quickactions-settings2 = Nastajenja rjadować
 quickactions-cmd-settings = nastajenja
@@ -339,8 +326,6 @@ quickactions-cmd-themes = drasty
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualizować
 quickactions-cmd-update = aktualizować
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Žórłowy kod pokazać
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Žórłowy tekst strony pokazać
 quickactions-cmd-viewsource = žórło pokazać, žórło
