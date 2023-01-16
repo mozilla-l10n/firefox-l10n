@@ -9,4 +9,4 @@
 langpack-creator = mozilla.org
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
-langpack-contributors = Mozilla Kaq&#233;chikel &#40;Responsable: Juan Sián&#41;
+langpack-contributors = Mozilla Kaqchikel (Responsible: Juan Sián)
