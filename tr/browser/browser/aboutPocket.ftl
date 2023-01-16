@@ -37,7 +37,7 @@ pocket-panel-signup-add-tags = Etiket ekle:
 
 pocket-panel-signup-already-have = Zaten { -pocket-brand-name } kullanıcısı mısınız?
 pocket-panel-signup-learn-more = Daha fazla bilgi al
-pocket-panel-signup-login = Giriş yapın
+pocket-panel-signup-login = Giriş yap
 pocket-panel-signup-signup-email = E-posta ile kaydol
 pocket-panel-signup-signup-cta = { -pocket-brand-name }’a kaydolun. Ücretsiz!
 pocket-panel-signup-signup-firefox = { -brand-product-name } ile kaydol
@@ -48,8 +48,8 @@ pocket-panel-signup-cta-a-fix = İnterneti kaydetme düğmeniz
 pocket-panel-signup-cta-b = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın. Listenize istediğiniz zaman, istediğiniz cihazdan bakabilirsiniz.
 pocket-panel-signup-cta-b-updated = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın. Kaydettiklerinize istediğiniz zaman, istediğiniz cihazdan bakabilirsiniz.
 pocket-panel-signup-cta-b-short = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
-pocket-panel-signup-cta-c = Listenize istediğiniz zaman, istediğiniz cihazdan bakın.
-pocket-panel-signup-cta-c-updated = Kaydettiklerinize istediğiniz zaman, istediğiniz cihazdan bakın.
+pocket-panel-signup-cta-c = Listenize istediğiniz zaman, istediğiniz cihazdan bakabilirsiniz.
+pocket-panel-signup-cta-c-updated = Kaydettiklerinize istediğiniz zaman, istediğiniz cihazdan bakabilirsiniz.
 
 ## about:pocket-home panel
 
@@ -73,5 +73,5 @@ pocket-panel-header-sign-in = Giriş yap
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Tümünü göster
-pocket-panel-button-activate = { -brand-product-name } tarayıcısında { -pocket-brand-name }’ı etkinleştirin
+pocket-panel-button-activate = { -brand-product-name } tarayıcısında { -pocket-brand-name }’ı etkinleştir
 pocket-panel-button-remove = Kaldır
