@@ -62,6 +62,10 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Finies les bannières de cookies !
+cfr-cookie-banner-accept-button = Rejeter les demandes
+    .accesskey = R
+cfr-cookie-banner-reject-button = Plus tard
+    .accesskey = P
 cfr-cookie-banner-handling-header-variant-1 = Voir moins de popups de cookies
 cfr-cookie-banner-accept-button-variant-1 = Rejeter les fenêtres popup
     .accesskey = R
