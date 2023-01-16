@@ -117,7 +117,7 @@ newtab-privacy-modal-header = Ihre Privatsphäre ist wichtig.
 newtab-privacy-modal-paragraph-2 =
     Neben spannenden Geschichten zeigen wir Ihnen auch relevante,
     geprüfte Inhalte von ausgewählten Sponsoren. <strong>Ihre 
-    Surf-Daten verlassen niemals Ihre { -brand-product-name }-Installation<strong> — wir sehen sie nicht und unsere
+    Surf-Daten verlassen niemals Ihre { -brand-product-name }-Installation</strong> — wir sehen sie nicht und unsere
     Sponsoren auch nicht.
 newtab-privacy-modal-link = Wie Datenschutz für die Tab-Startseite funktioniert
 
