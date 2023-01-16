@@ -5,81 +5,65 @@
 permissions-window =
     .title = Wuwześa
     .style = width: 45em
-
 permissions-window2 =
     .title = Wuwześa
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa websedła
     .accesskey = A
-
 permissions-block =
     .label = Blokěrowaś
     .accesskey = B
-
+permissions-disable-etp =
+    .label = Wuwześe pśidaś
+    .accesskey = W
 permissions-session =
     .label = Za pósejźenje dowóliś
     .accesskey = p
-
 permissions-allow =
     .label = Dowóliś
     .accesskey = D
-
 permissions-button-off =
     .label = Znjemóžniś
     .accesskey = n
-
 permissions-button-off-temporarily =
     .label = Nachylu znjemóžniś
     .accesskey = c
-
 permissions-site-name =
     .label = Websedło
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Websedło wotwónoźeś
     .accesskey = w
-
 permissions-remove-all =
     .label = Wšykne websedła wótwónoźeś
     .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Změny składowaś
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Standard za wšykne websedła:
-
 permissions-searchbox =
     .placeholder = Websedło pytaś
-
 permissions-capabilities-autoplay-allow =
     .label = Awdio a wideo dowóliś
 permissions-capabilities-autoplay-block =
     .label = Awdio blokěrowaś
 permissions-capabilities-autoplay-blockall =
     .label = Awdio a wideo blokěrowaś
-
 permissions-capabilities-allow =
     .label = Dowóliś
 permissions-capabilities-block =
     .label = Blokěrowaś
 permissions-capabilities-prompt =
     .label = Pśecej se pšašaś
-
 permissions-capabilities-listitem-allow =
     .value = Dowóliś
 permissions-capabilities-listitem-block =
     .value = Blokěrowaś
 permissions-capabilities-listitem-allow-session =
     .value = Za pósejźenje dowóliś
-
 permissions-capabilities-listitem-off =
     .value = Znjemóžnjony
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +79,16 @@ permissions-invalid-uri-label = Pšosym zapódajśo płaśiwe mě hosta
 permissions-exceptions-etp-window =
     .title = Wuwześa za pólěpšony slědowański šćit
     .style = { permissions-window.style }
-
+permissions-exceptions-etp-desc = Sćo znjemóžnił šćit na toś tych websedłach.
 permissions-exceptions-etp-window2 =
     .title = Wuwześa za pólěpšony slědowański šćit
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Sćo znjemóžnił šćit na toś tych websedłach.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Wuwześa - cookieje a sedłowe daty
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Wuwześa - cookieje a sedłowe daty
     .style = { permissions-window2.style }
@@ -117,7 +99,6 @@ permissions-exceptions-cookie-desc = Móžośo pódaś, kótare websedła směju
 permissions-exceptions-https-only-window =
     .title = Wuwześa - Modus Jano-HTTPS
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Wuwześa - Modus Jano-HTTPS
     .style = { permissions-window2.style }
@@ -128,7 +109,6 @@ permissions-exceptions-https-only-desc = Móžóśo modus Jano-HTTPS za wěste w
 permissions-exceptions-popup-window =
     .title = Dowólone sedła - wuskokujuce wokna
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Dowólone sedła - wuskokujuce wokna
     .style = { permissions-window2.style }
@@ -139,7 +119,6 @@ permissions-exceptions-popup-desc = Móžośo pódaś, kótare websedła směju 
 permissions-exceptions-saved-logins-window =
     .title = Wuwześa - skłaźone pśizjawjenja
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Wuwześa - skłaźone pśizjawjenja
     .style = { permissions-window2.style }
@@ -150,7 +129,6 @@ permissions-exceptions-saved-logins-desc = Pśizjawjenja za slědujuce sedła nj
 permissions-exceptions-addons-window =
     .title = Dowólone sedła - Instalacija dodankow
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Dowólone sedła - Instalacija dodankow
     .style = { permissions-window2.style }
@@ -161,7 +139,6 @@ permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju
 permissions-site-autoplay-window =
     .title = Nastajenja - awtomatiske wótgraśe
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Nastajenja - awtomatiske wótgraśe
     .style = { permissions-window2.style }
@@ -172,7 +149,6 @@ permissions-site-autoplay-desc = Móžośo sedła zastojaś, kótarež njamaju s
 permissions-site-notification-window =
     .title = Nastajenja - zdźěleńske pšawa
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Nastajenja - zdźěleńske pšawa
     .style = { permissions-window2.style }
@@ -186,7 +162,6 @@ permissions-site-notification-disable-desc = To buźo websedłam, kótarež gór
 permissions-site-location-window =
     .title = Nastajenja - pšawa stojnišća
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Nastajenja - pšawa stojnišća
     .style = { permissions-window2.style }
@@ -200,7 +175,6 @@ permissions-site-location-disable-desc = To buźo websedłam, kótarež górjejc
 permissions-site-xr-window =
     .title = Nastajenja - pšawa za wirtuelnu realitu
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = Nastajenja - pšawa za wirtuelnu realitu
     .style = { permissions-window2.style }
@@ -214,7 +188,6 @@ permissions-site-xr-disable-desc = To buźo websydłam, kótarež górjejce w li
 permissions-site-camera-window =
     .title = Nastajenja - pšawa kamery
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Nastajenja - pšawa kamery
     .style = { permissions-window2.style }
@@ -228,7 +201,6 @@ permissions-site-camera-disable-desc = To buźo websedłam, kótarež górjejce 
 permissions-site-microphone-window =
     .title = Nastajenja - pšawa mikrofona
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Nastajenja - pšawa mikrofona
     .style = { permissions-window2.style }
