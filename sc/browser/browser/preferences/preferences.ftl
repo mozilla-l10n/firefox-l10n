@@ -1119,7 +1119,7 @@ addon-recommendations-link = Àteras informatziones
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = S'informe de datos est disativadu in sa cunfiguratzione de custa versione
-collection-backlogged-crash-reports-with-link = Permite a { -brand-short-name } de t'imbiare informes de faddina in suspesu <a data-l10n-name="crash-reports-link">Àteras informatziones
+collection-backlogged-crash-reports-with-link = Permite a { -brand-short-name } de t'imbiare informes de faddina in suspesu <a data-l10n-name="crash-reports-link">Àteras informatziones</a>
     .accesskey = i
 privacy-segmentation-section-header = Caraterìsticas noas pro megiorare sa navigatzione
 privacy-segmentation-section-description = Cando oferimus caraterìsticas chi impreant is datos tuos pro ti donare un'esperièntzia prus personale:
