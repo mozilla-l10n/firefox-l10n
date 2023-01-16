@@ -42,8 +42,12 @@ firefoxview-tabpickup-sync-error-primarybutton = Hyšći raz wopytaś
 firefoxview-tabpickup-sync-disconnected-header = Zmóžniśo synchronizaciju, aby pókšacował
 firefoxview-tabpickup-sync-disconnected-description = Za pśistup k swójim rejtarikam musyśo synchronizaciju w { -brand-short-name } dowóliś.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Synchronizaciju w nastajenjach zmóžniś
+firefoxview-tabpickup-password-locked-header = Zapódajśo swójo głowne gronidło, aby rejtariki pokazał
+firefoxview-tabpickup-password-locked-description = Za pśistup k swójim rejtarikam musyśo głowne gronidło za { -brand-short-name } zapódaś.
 firefoxview-tabpickup-password-locked-link = Dalšne informacije
 firefoxview-tabpickup-password-locked-primarybutton = Głowne gronidło zapódaś
+firefoxview-tabpickup-signed-out-header = Pśizjawśo se, aby zasej zwězał
+firefoxview-tabpickup-signed-out-primarybutton = Pśizjawiś
 firefoxview-tabpickup-syncing = Wobcakajśo, mjaztym až se waše rejtariki synchronizěruju. Buźo jano wokognuśe traś.
 firefoxview-mobile-promo-header = Wobstarajśo se rejtariki ze swójogo telefona abo tableta
 firefoxview-mobile-promo-description = Aby se swóje nejnowše mobilne rejtariki woglědował, přśzjawśo se pla { -brand-product-name } na iOS abo Android.
@@ -52,7 +56,11 @@ firefoxview-mobile-confirmation-header = 🎉 Wšykno gótowe!
 firefoxview-mobile-confirmation-description = Něnto móžośo swóje rejtariki { -brand-product-name } ze swójogo tableta abo telefona wobstaraś.
 firefoxview-closed-tabs-title = Njedawno zacynjone
 firefoxview-closed-tabs-description2 = Wócyńśo boki znowego, kótarež sćo zacynił w toś tom woknje.
-firefoxview-closed-tabs-placeholder = <strong>Žedne njedawno zacynjone boki</strong><br/>Njebójśo se nigda zacynjeny rejtarik zasej zgubiś. Móžośo jen pśecej how zasej dostaś.
+firefoxview-closed-tabs-placeholder-header = Žedne rowno zacynjone rejtariki
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = { $tabTitle } zachyśiś
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Slědny raz aktiwny
 # Variables:
@@ -60,13 +68,12 @@ firefoxview-pickup-tabs-badge = Slědny raz aktiwny
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } w nowem rejtariku wócyniś
 firefoxview-try-colorways-button = Barwowe kombinacije wopytowaś
-firefoxview-no-current-colorway-collection = Nowe barwowe kombinacije se pśigótuju
 firefoxview-change-colorway-button = Barwowu kombinaciju změniś
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Hyšći njejo nic wiźeś</strong><br/>Pśiducy raz, gaž bok w { -brand-product-name } na drugem rěźe wócynjaśo, wobstarajśo jen how na magiski nałog.
+firefoxview-synced-tabs-placeholder-header = Hyšći nic njejo wiźeś
 firefoxview-collapse-button-show =
     .title = Lisćinu pokazaś
 firefoxview-collapse-button-hide =
