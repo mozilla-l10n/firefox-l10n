@@ -55,6 +55,27 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } 使用者
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = 讓 Cookie 橫幅消失！
+cfr-cookie-banner-accept-button = 關閉請求
+    .accesskey = D
+cfr-cookie-banner-reject-button = 現在不要
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = 減少顯示 Cookie 彈出提示
+cfr-cookie-banner-accept-button-variant-1 = 關閉彈出提示
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = 不要，謝謝
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = 減少 Cookie 橫幅
+cfr-cookie-banner-handling-body-variant-2 = 要允許 { -brand-short-name } 幫您拒絕網站的 Cookie 提示，或者當網站無法拒絕時就接受嗎？
+cfr-cookie-banner-accept-button-variant-2 = 允許
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = 現在不要
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 將您的書籤同步帶著走。
@@ -151,10 +172,6 @@ spotlight-total-cookie-protection-body = 「全方位 Cookie 保護」功能可�
 spotlight-total-cookie-protection-expanded = { -brand-short-name } 會將 Cookie 包圍起來，讓它們僅能在您所在的網站使用，這樣追蹤器就無法用它們來追蹤您。透過搶先試用，您可以協助我們最佳化這個功能，持續為每個人打造更好的網路環境。
 spotlight-total-cookie-protection-primary-button = 開啟「全方位 Cookie 保護」功能
 spotlight-total-cookie-protection-secondary-button = 現在不要
-cfr-total-cookie-protection-header = 感謝您的協助，讓 { -brand-short-name } 比以往更安全、更能保護隱私
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = 「全方位 Cookie 保護」功能是我們迄今最強大的隱私權保護功能，也是對所有 { -brand-short-name } 使用者都預設開啟的選項。若沒有像您這樣的早期使用者協助使用測試，我們就無法推出此功能。所以非常感謝您協助我們一起打造一套更好、更能保護隱私的網路環境。
 
 ## Emotive Continuous Onboarding
 
@@ -201,8 +218,6 @@ firefoxview-cfr-primarybutton = 試試看
     .accesskey = T
 firefoxview-cfr-secondarybutton = 現在不要
     .accesskey = N
-firefoxview-cfr-header = 使用 { -firefoxview-brand-name } 開回最近關閉的分頁
-firefoxview-cfr-body = 此外還可以於不同裝置間無縫跳轉，再為瀏覽器妝點一抹色彩。
 firefoxview-cfr-header-v2 = 快速從結束的地方繼續
 firefoxview-cfr-body-v2 = 透過 { -firefoxview-brand-name } 快速取回最近關閉的分頁，另外還可以在裝置間無縫切換。
 
@@ -224,3 +239,8 @@ colorways-cfr-header-28days = 獨立之聲配色將於 1 月 16 日失效
 colorways-cfr-header-14days = 獨立之聲配色將於兩週後失效
 colorways-cfr-header-7days = 獨立之聲配色將於本週失效
 colorways-cfr-header-today = 獨立之聲配色將於今日失效
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = 讓我們保護您
+july-jam-set-default-primary = 用 { -brand-short-name } 開啟我的鏈結
