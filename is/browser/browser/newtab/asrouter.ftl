@@ -57,6 +57,23 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } notendur
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Vökuborðar fyrir bí!
+cfr-cookie-banner-accept-button = Hafna beiðnum
+    .accesskey = H
+cfr-cookie-banner-reject-button = Ekki núna
+    .accesskey = n
+cfr-cookie-banner-handling-header-variant-1 = Sjá færri sprettglugga fyrir vefkökur
+cfr-cookie-banner-accept-button-variant-1 = Afgreiða sprettglugga
+    .accesskey = g
+cfr-cookie-banner-reject-button-variant-1 = Nei takk
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Fækkun vefkökuborða
+cfr-cookie-banner-handling-body-variant-2 = Á að leyfa { -brand-short-name } að hafna beiðni um samþykki á vefkökum ef mögulegt er eða að samþykkja aðgang að vefkökum þegar það er ekki hægt?
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Samstilltu bókamerkin þín allsstaðar.
@@ -156,10 +173,6 @@ spotlight-total-cookie-protection-body = Allsherjar-vefkökuvörn kemur í veg f
 spotlight-total-cookie-protection-expanded = { -brand-short-name } byggir girðingu utan um vefkökur og takmarkar þær við vefsvæðið sem þú ert á svo rekjarar geti ekki notað þær til að fylgjast með þér. Með snemmbærum aðgangi muntu hjálpa til við að fínstilla þennan eiginleika svo við getum haldið áfram að byggja betri vef fyrir alla.
 spotlight-total-cookie-protection-primary-button = Kveiktu á allsherjar-vefkökuvörnum
 spotlight-total-cookie-protection-secondary-button = Ekki núna
-cfr-total-cookie-protection-header = Þökk sé þér fer { -brand-short-name } betur með persónuleg gögn þín og er öruggari en nokkru sinni fyrr
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Allsherjar-vefkökuvörn er öflugasti persónuverndareiginleikinn okkar frá upphafi - sem er núna sjálfgefin stilling fyrir alla notendur { -brand-short-name }. Við hefðum ekki náð að gera þetta nema með aðstoð notenda eins og þín sem prófa snemmbúna eiginleika. Þannig að þú færð þakkir fyrir að hjálpa til við að gera internetið meira einka og betra.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +219,6 @@ firefoxview-cfr-primarybutton = Prófaðu það
     .accesskey = P
 firefoxview-cfr-secondarybutton = Ekki núna
     .accesskey = n
-firefoxview-cfr-header = Fáðu nýlega lokaða flipa aftur með { -firefoxview-brand-name }
-firefoxview-cfr-body = Auk þess geturðu hoppað hnökralaust á milli tækja og bætt litaskvettu í vafrann þinn.
 firefoxview-cfr-header-v2 = Haltu strax áfram þar sem frá var horfið
 firefoxview-cfr-body-v2 = Fáðu nýokaða flipa til baka, auk þess að skipta óaðfinnanlega á milli tækja með { -firefoxview-brand-name }.
 
@@ -229,3 +240,6 @@ colorways-cfr-header-28days = Litasett Independent Voices rennur út 16. janúar
 colorways-cfr-header-14days = Litasett Independent Voices rennur út eftir tvær vikur
 colorways-cfr-header-7days = Litasett Independent Voices rennur út í þessari viku
 colorways-cfr-header-today = Litasett Independent Voices rennur út í dag
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
