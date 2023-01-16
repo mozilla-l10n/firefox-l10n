@@ -62,6 +62,9 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Bandieras pro cookies adeo!
+cfr-cookie-banner-handling-body = Permitter a { -brand-short-name } de rejectar automaticamente tote le requestas de bandieras pro cookie, quando possibile. Alteremente, tote le cookies sera acceptate pro dimitter ancora plus bandieras.
+cfr-cookie-banner-accept-button = Dimitter le requestas
+    .accesskey = D
 cfr-cookie-banner-reject-button = Non ora
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = Vider minus quadros resaltante de cookies
