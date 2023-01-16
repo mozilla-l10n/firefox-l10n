@@ -27,6 +27,8 @@ return-to-amo-add-theme-label = Drastwu pśidaś
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Witajśo k { -brand-short-name }
+mr1-return-to-amo-add-extension-label = { $addon-name } pśidaś
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -389,8 +391,13 @@ mr2022-onboarding-gratitude-secondary-button-label = Pśeglědowanje zachopiś
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Cujśo se ako doma
 onboarding-infrequent-import-primary-button = Do { -brand-short-name } importěrowaś
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-default-image-alt =
+    .aria-label = Wósoba, kótaraž logo { -brand-product-name } wobejma
+mr2022-onboarding-import-image-alt =
+    .aria-label = Wósoba, kótaraž skateboard z tejzu softwarowych symbolow jězdźi
