@@ -59,6 +59,19 @@ cfr-doorhanger-extension-total-users =
        *[many] { $total } карыстальнікаў
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Банеры з кукамі зніклі!
+cfr-cookie-banner-handling-body = Дазвольце { -brand-short-name } аўтаматычна адхіляць усе запыты банераў кукі, калі гэта магчыма. У адваротным выпадку ўсе кукі будуць прыняты, каб закрыць яшчэ больш банераў.
+cfr-cookie-banner-accept-button = Адхіляць запыты
+    .accesskey = А
+cfr-cookie-banner-reject-button = Не зараз
+    .accesskey = р
+cfr-cookie-banner-handling-header-variant-1 = Бачыць менш выплыўных акон пра кукі
+cfr-cookie-banner-handling-body-variant-1 = Дазвольце { -brand-short-name } аўтаматычна адказваць на выплыўныя вокны файлаў кукі, каб вы маглі вярнуцца да прагляду сайтаў без адцягнення ўвагі. { -brand-short-name } будзе адхіляць усе запыты, калі гэта магчыма, або прыме ўсе, калі не.
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Сінхранізуйце свае закладкі ўсюды.
@@ -159,10 +172,6 @@ spotlight-total-cookie-protection-body = Поўная ахова кукаў пе
 spotlight-total-cookie-protection-expanded = { -brand-short-name } будуе плот вакол файлаў кукі, абмяжоўваючы іх толькі сайтам, на якім вы знаходзіцеся, таму трэкеры не могуць выкарыстоўваць іх, каб сачыць за вамі. З раннім доступам вы дапаможаце аптымізаваць гэту функцыю, каб мы маглі працягваць ствараць лепшае сеціва для ўсіх.
 spotlight-total-cookie-protection-primary-button = Уключыць поўную ахову кукаў
 spotlight-total-cookie-protection-secondary-button = Не зараз
-cfr-total-cookie-protection-header = Дзякуючы вам, { -brand-short-name } больш прыватны і бяспечны, чым калі-небудзь
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Поўная ахова кукаў – наша самая надзейная абарона прыватнасці, і цяпер гэта прадвызначаная налада для ўсіх карыстальнікаў { -brand-short-name }. Мы не змаглі б зрабіць гэта без такіх удзельнікаў ранняга доступу, як вы. Дзякуй за дапамогу ў стварэнні лепшага, больш прыватнага інтэрнэту.
 
 ## Emotive Continuous Onboarding
 
@@ -209,8 +218,6 @@ firefoxview-cfr-primarybutton = Паспрабаваць
     .accesskey = П
 firefoxview-cfr-secondarybutton = Не зараз
     .accesskey = Н
-firefoxview-cfr-header = Вяртайце нядаўна закрытыя карткі з дапамогай { -firefoxview-brand-name }
-firefoxview-cfr-body = Акрамя таго, лёгка пераключайцеся паміж прыладамі і дадайце ўсплёск колеру свайму браўзеру.
 firefoxview-cfr-header-v2 = Хутка працягвайце з таго месца, дзе спыніліся
 firefoxview-cfr-body-v2 = Вяртайце нядаўна закрытыя карткі, а таксама лёгка пераключайцеся паміж прыладамі з дапамогай { -firefoxview-brand-name }.
 
@@ -232,3 +239,6 @@ colorways-cfr-header-28days = Расфарбоўкі незалежных гал
 colorways-cfr-header-14days = Расфарбоўкі незалежных галасоў даступныя яшчэ два тыдні
 colorways-cfr-header-7days = Расфарбоўкі незалежных галасоў даступныя да канца тыдня
 colorways-cfr-header-today = Расфарбоўкі незалежных галасоў даступныя да канца дня
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
