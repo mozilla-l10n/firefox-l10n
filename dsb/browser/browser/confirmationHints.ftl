@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Gronidło jo se składło!
 confirmation-hint-pin-tab = Pśipěty!
 confirmation-hint-pin-tab-description = Klikniśo z pšaweju tastu, aby jen wótpěł.
 confirmation-hint-send-to-device = Pósłany!
+confirmation-hint-firefox-relay-mask-generated = Nowa maska { -relay-brand-short-name } jo se generěrowała!

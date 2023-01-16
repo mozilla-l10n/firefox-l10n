@@ -524,6 +524,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Aby tastu F12 wužywał, wócyńśo nejpjerwjej DevTools pśez meni Webwuwijaŕ.
+enable-devtools-popup-description2 = Aby tastu F12 wužywał, wócyńśo nejpjerwjej DevTools pśez meni Rědy wobglědowaka.
 
 ## URL Bar
 
@@ -945,6 +946,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Rozšyrjenja
+    .tooltiptext =
+        Rozšyrjenja
+        Pšawa trjebne
 
 ## Autorefresh blocker
 
