@@ -61,6 +61,22 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } wužiwarjow
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-accept-button = Naprašowanja zaćisnyć
+    .accesskey = z
+cfr-cookie-banner-reject-button = Nic nětko
+    .accesskey = N
+cfr-cookie-banner-accept-button-variant-1 = Wuskakowace wokna zaćisnyć
+    .accesskey = u
+cfr-cookie-banner-reject-button-variant-1 = Ně, dźakuju so
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Redukowanje plackowych chorhojow
+cfr-cookie-banner-accept-button-variant-2 = Dowolić
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-2 = Nic nětko
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizujće swoje zapołožki wšudźe.
@@ -162,10 +178,6 @@ spotlight-total-cookie-protection-body = Dospołny plackowy škit přesćěhowak
 spotlight-total-cookie-protection-expanded = { -brand-short-name } płót wokoło plackow twari, kotryž je na sydło wobmjezuje, na kotrymž sće, zo njebychu je přesćěhowaki móhli wužiwać, zo bychu was přesćěhowali. Z lochkim přistupom pomhaće tutu funkciju optimować, zo bychmy móhli dale lěpši web za kóždeho natwarili.
 spotlight-total-cookie-protection-primary-button = Dospołny škit před plackami zmóžnić
 spotlight-total-cookie-protection-secondary-button = Nic nětko
-cfr-total-cookie-protection-header = Dźak wam je { -brand-short-name } priwatniši a wěsćiši hač hdy prjedy
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Dospołny škit přećiwo plackam je dotal naš najmócniši škit priwatnosće – a je nětko standardne nastajenje za wužiwarjow { -brand-short-name } wšudźe. Njebychmy jón bjez zahich wobdźělnikow kaž wy wutworili. Wulki dźak potajkim, zo sće nam pomhał, lěpši, priwatniši internet wutworić.
 
 ## Emotive Continuous Onboarding
 
@@ -212,7 +224,6 @@ firefoxview-cfr-primarybutton = Wupruwujće jón
     .accesskey = u
 firefoxview-cfr-secondarybutton = Nic nětko
     .accesskey = N
-firefoxview-cfr-header = Wobstarajće sej začinjene rajtarki z { -firefoxview-brand-name } wróćo
 firefoxview-cfr-header-v2 = Čińće tam spěšnje dale, hdźež sće přestał
 
 ## Firefox View Spotlight
@@ -227,3 +238,8 @@ firefoxview-spotlight-promo-secondarybutton = Přeskočić
 
 colorways-cfr-primarybutton = Barbowu kombinaciju wubrać
     .accesskey = B
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Smy was zapřijeli
+july-jam-set-default-primary = Moje wotkazy z { -brand-short-name } wočinić
