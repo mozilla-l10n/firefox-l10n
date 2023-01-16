@@ -9,4 +9,4 @@
 langpack-creator = Sgioba Ionadaileadh Mozilla na Gàidhlig
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
-langpack-contributors = Michael &apos;Akerbeltz&apos; Bauer, Kevin Scannell
+langpack-contributors = Michael “Akerbeltz” Bauer, Kevin Scannell
