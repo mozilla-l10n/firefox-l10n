@@ -68,9 +68,19 @@ cfr-cookie-banner-handling-body = Дазвольце { -brand-short-name } аў�
 cfr-cookie-banner-accept-button = Адхіляць запыты
     .accesskey = А
 cfr-cookie-banner-reject-button = Не зараз
-    .accesskey = р
+    .accesskey = з
 cfr-cookie-banner-handling-header-variant-1 = Бачыць менш выплыўных акон пра кукі
 cfr-cookie-banner-handling-body-variant-1 = Дазвольце { -brand-short-name } аўтаматычна адказваць на выплыўныя вокны файлаў кукі, каб вы маглі вярнуцца да прагляду сайтаў без адцягнення ўвагі. { -brand-short-name } будзе адхіляць усе запыты, калі гэта магчыма, або прыме ўсе, калі не.
+cfr-cookie-banner-accept-button-variant-1 = Адхіляць выплыўныя вокны
+    .accesskey = в
+cfr-cookie-banner-reject-button-variant-1 = Не, дзякуй
+    .accesskey = з
+cfr-cookie-banner-handling-header-variant-2 = Памяншэнне колькасці банераў кукі
+cfr-cookie-banner-handling-body-variant-2 = Дазволіць { -brand-short-name } адхіляць запыты сайтаў на згоду на кукі, калі гэта магчыма, або прымаць доступ кукі, калі гэта немагчыма?
+cfr-cookie-banner-accept-button-variant-2 = Дазволіць
+    .accesskey = Д
+cfr-cookie-banner-reject-button-variant-2 = Не зараз
+    .accesskey = з
 
 ## Firefox Accounts Message
 
@@ -242,3 +252,6 @@ colorways-cfr-header-today = Расфарбоўкі незалежных гал�
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Можаце разлічваць на нас
+july-jam-body = Кожны месяц { -brand-short-name } блакуе ў сярэднім больш за 3000 трэкераў на карыстальніка, даючы вам бяспечны і хуткі доступ да добрага інтэрнэту.
+july-jam-set-default-primary = Адкрываць мае спасылкі ў { -brand-short-name }
