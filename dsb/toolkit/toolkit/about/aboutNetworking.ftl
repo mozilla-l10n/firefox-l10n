@@ -63,6 +63,8 @@ about-networking-rcwn-cache-slow = Pomałe licenje pufrowaś
 about-networking-rcwn-cache-not-slow = Pomałe licenje njepufrowaś
 about-networking-networkid = Seśowy ID
 about-networking-networkid-id = Seśowy ID
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Toś ten bok jo se pśesunuła do <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 

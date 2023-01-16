@@ -49,8 +49,17 @@ about-logging-preset-networking-label = Seś
 about-logging-preset-networking-description = Module za diagnosticěrowanje seśowych problemow protokolěrowaś
 about-logging-preset-media-playback-label = Wótgraśe medijow
 about-logging-preset-custom-label = Swójski
+about-logging-preset-custom-description = Protokolowe module manuelnje wubrane
+# Error handling
+about-logging-error = Zmólka:
 
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Njepłaśiwa gódnota “{ $v }“ za kluc “{ $k }“
+about-logging-unknown-logging-preset = Njeznate protokolěrowańske pśednastajenje „{ $v }“
+about-logging-unknown-profiler-preset = Njeznate profilerowe pśednastajenje „{ $v }“
+about-logging-unknown-option = Njeznate nastajenje about:logging „{ $k }“
+about-logging-configuration-url-ignored = Konfiguraciski URL ignorěrowany
+about-logging-configured-via-url = Pśez URL skonfigurěrowane nastajenje
