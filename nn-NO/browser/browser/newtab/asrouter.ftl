@@ -229,3 +229,4 @@ colorways-cfr-header-today = Fargesamansetjinga «Uavhengige røyster» går ut 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Vi beskyttar deg
+july-jam-set-default-primary = Opne lenkene mine med { -brand-short-name }

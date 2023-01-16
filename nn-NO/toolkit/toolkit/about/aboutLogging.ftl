@@ -45,8 +45,11 @@ about-logging-logging-preset-selector-text = Førehandsval for logging:
 ## Logging presets
 
 about-logging-preset-networking-label = Nettverk
+about-logging-preset-networking-description = Loggmodular for å diagnostisere nettverksproblem
 about-logging-preset-media-playback-label = Medieavspeling
+about-logging-preset-media-playback-description = Loggmodular for å diagnostisere problem med medieavspeling (ikkje for problem med videokonferansar)
 about-logging-preset-custom-label = Tilpassa
+about-logging-preset-custom-description = Loggmodular valde manuelt
 # Error handling
 about-logging-error = Feil:
 
@@ -54,3 +57,9 @@ about-logging-error = Feil:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Ugyldig verdi «{ $v }» for nøkkel «{ $k }»
+about-logging-unknown-logging-preset = Ukjent førehandsval for logging «{ $v }»
+about-logging-unknown-profiler-preset = Ukjent førehandsval for profilering «{ $v }»
+about-logging-unknown-option = Ukjent alternativ for about:logging «{ $k }»
+about-logging-configuration-url-ignored = Konfigurasjons-URL ignorert
+about-logging-file-and-profiler-override = Kan ikkje tvinge utdata for fil og overstyre innstillingar for profilering samtidig
