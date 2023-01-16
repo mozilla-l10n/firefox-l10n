@@ -57,6 +57,26 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } صارفین
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = کوکی بینرز شروع تھی ڳئے!
+cfr-cookie-banner-accept-button = ارداس برخاست کرو
+    .accesskey = D
+cfr-cookie-banner-reject-button = ہݨ کائناں
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = تھوڑیاں پوپ اپاں کوکی ݙیکھو
+cfr-cookie-banner-accept-button-variant-1 = پوپ اپ فارغ کرو
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = کو، شکریہ
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = کوکی بینر گھٹاوݨ
+cfr-cookie-banner-accept-button-variant-2 = اجازت ݙیوو
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = ہݨ کائناں
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = ہر جاہ اپݨے بک مارکس سینک کرو
@@ -154,10 +174,6 @@ spotlight-total-cookie-protection-body = ٹوٹل کوکی پروٹیکشن ٹر
 spotlight-total-cookie-protection-expanded = { -brand-short-name } کوکیاں دے چودھار لوڑھا بݨیندا ہے، انہاں کوں ایں سائٹ تائیں محدود کریندا ہے جیندے اوتے تساں او تاں جو ٹریکرز تہاݙی پیروی کرݨ کیتے انہاں کوں استعمال نہ کر سڳن۔ ابتدائی رسائی دے نال، تساں ایں خصوصیت کوں بہتر بݨاوݨ وِچ مدد کریسو تاں جو اساں سبھ کیتے ہک بہتر ویب بݨا سڳوں۔
 spotlight-total-cookie-protection-primary-button = ٹوٹل کوکی تحفظ چالو کرو
 spotlight-total-cookie-protection-secondary-button = ہݨ کائناں
-cfr-total-cookie-protection-header = تہاݙا شکریہ، { -brand-short-name } پہلے کنوں ٻہوں نجی تے محفوظ ہے
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = ٹوٹل کوکی پروٹیکشن ہݨ تائیں اساݙا سب توں مضبوط رازداری دا تحفظ ہے – تے ہݨ ایہ ہر جاہ { -brand-short-name } صارفین کیتے ہک طے شدہ ترتیب ہے۔ اساں تساں جیہیں ابتدائی رسائی دے شرکاء دے بغیر ایہ نہ کر سڳدے ہن۔ لہذا ہک بہتر، زیادہ نجی انٹرنیٹ بݨاوݨ وِچ اساݙی مدد کرݨ دا شکریہ۔
 
 ## Emotive Continuous Onboarding
 
@@ -204,8 +220,6 @@ firefoxview-cfr-primarybutton = اینکوں ازماؤ
     .accesskey = T
 firefoxview-cfr-secondarybutton = ہݨ کائناں
     .accesskey = N
-firefoxview-cfr-header = { -firefoxview-brand-name } نال حالیہ بند ٹیبز دوبارہ حاصل کرو
-firefoxview-cfr-body = ایندے علاوہ بغیر کہیں رکاوٹ دے آلات دے درمیان ہاپ کرو تے اپݨے براؤزر وِچ رنگاں دی ہک چمک شامل کرو۔
 firefoxview-cfr-header-v2 = تکھاجی نال اتھاؤں چاؤ جتھاں تساں چھوڑیا ہا
 firefoxview-cfr-body-v2 = حالیہ بند ٹیباں کوں ولدا حاصل کرو۔ نال { -firefoxview-brand-name } والے آلات دے درمیان بغیر کہیں رکاوٹ دے ہاپ کرو۔
 
@@ -227,3 +241,7 @@ colorways-cfr-header-28days = آزاد آوازاں کلر ویز دی میعا�
 colorways-cfr-header-14days = آزاد آوازاں کلر ویز دی معیاد ݙو ہفتے وِچ مکدی پئی اے
 colorways-cfr-header-7days = آزاد آوازاں کلر ویز دی معیاد ایں ہفتے مکدی پئی اے
 colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد اڄ مکدی پئی اے
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
