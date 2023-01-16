@@ -62,7 +62,21 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Fòra las bandièras de cookies !
+cfr-cookie-banner-accept-button = Regetar las demandas
+    .accesskey = R
+cfr-cookie-banner-reject-button = Pas ara
+    .accesskey = P
 cfr-cookie-banner-handling-header-variant-1 = Veire mens de fenèstras sorgissentas de cookies
+cfr-cookie-banner-accept-button-variant-1 = Regetar las fenèstras sorgissentas
+    .accesskey = R
+cfr-cookie-banner-reject-button-variant-1 = Non mercés
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reduccion de las bandièras de cookies
+cfr-cookie-banner-handling-body-variant-2 = Permetre a { -brand-short-name } de refusar la demanda de consentiment als cookies d’un site se possible o acceptar l’accès als cookies quand es pas possible ?
+cfr-cookie-banner-accept-button-variant-2 = Autorizar
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = Pas ara
+    .accesskey = P
 
 ## Firefox Accounts Message
 
@@ -233,3 +247,4 @@ colorways-cfr-header-today = Los colorits « Voses independentas » expiran u�
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Asseguram vòstra proteccion
