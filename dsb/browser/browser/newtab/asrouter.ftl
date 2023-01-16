@@ -72,6 +72,10 @@ cfr-cookie-banner-accept-button-variant-1 = Wuskokujuce wokna zachyśiś
 cfr-cookie-banner-reject-button-variant-1 = Ně, źěkujom se
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Reducěrowanje cookiejowych chórgojow
+cfr-cookie-banner-accept-button-variant-2 = Dowóliś
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-2 = Nic něnto
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -220,6 +224,7 @@ firefoxview-cfr-primarybutton = Wopytajśo jen
     .accesskey = o
 firefoxview-cfr-secondarybutton = Nic něnto
     .accesskey = N
+firefoxview-cfr-header-v2 = Cyńśo tam malsnje dalej, źož sćo pśestał
 
 ## Firefox View Spotlight
 
@@ -231,6 +236,10 @@ firefoxview-spotlight-promo-secondarybutton = Pśeskócyś
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Barwowu kombinaciju wubraś
+    .accesskey = B
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Smy was zapśimjeli
+july-jam-set-default-primary = Móje wótkaze z { -brand-short-name } wócyniś
