@@ -62,6 +62,7 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Vökuborðar fyrir bí!
+cfr-cookie-banner-handling-body = Leyfa { -brand-short-name } að hafna sjálfkrafa öllum beiðnum um vefkökuborða, þegar mögulegt er. Annars verða allar vefkökur samþykktar til að hafna enn fleiri borðum.
 cfr-cookie-banner-accept-button = Hafna beiðnum
     .accesskey = H
 cfr-cookie-banner-reject-button = Ekki núna
@@ -248,3 +249,4 @@ colorways-cfr-header-today = Litasett Independent Voices rennur út í dag
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Við erum með það sem þú þarft
+july-jam-set-default-primary = Opna tenglana mína með { -brand-short-name }
