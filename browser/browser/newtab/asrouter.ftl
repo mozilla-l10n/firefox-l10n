@@ -68,6 +68,7 @@ cfr-cookie-banner-accept-button = Hafna beiðnum
 cfr-cookie-banner-reject-button = Ekki núna
     .accesskey = n
 cfr-cookie-banner-handling-header-variant-1 = Sjá færri sprettglugga fyrir vefkökur
+cfr-cookie-banner-handling-body-variant-1 = Leyfa { -brand-short-name } að svara sjálfkrafa vefkökugluggum fyrir þig svo þú getir vafrað áfram án truflunar. { -brand-short-name } mun hafna öllum beiðnum ef mögulegt er, eða samþykkja allar ef ekki.
 cfr-cookie-banner-accept-button-variant-1 = Afgreiða sprettglugga
     .accesskey = g
 cfr-cookie-banner-reject-button-variant-1 = Nei takk
@@ -249,4 +250,5 @@ colorways-cfr-header-today = Litasett Independent Voices rennur út í dag
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Við erum með það sem þú þarft
+july-jam-body = Í hverjum mánuði lokar { -brand-short-name } að meðaltali á meira en 3.000 rekjara á hvern notanda, sem tryggir þér öruggan, skjótan aðgang að góðu interneti.
 july-jam-set-default-primary = Opna tenglana mína með { -brand-short-name }
