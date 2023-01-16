@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Innskráning og lykilorð
-
 login-filter =
     .placeholder = Leita að innskráningu
-
 create-login-button = Búðu til nýja innskráningu
-
 fxaccounts-sign-in-text = Fáðu lykilorðin þín í önnur tæki
 fxaccounts-sign-in-sync-button = Skráðu þig inn til að samstilla
 fxaccounts-avatar-button =
@@ -116,19 +113,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Til að breyta innskráning
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = breyta vistuðu innskráningunni
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Til að skoða lykilorðið þitt, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = birta vistaða lykilorðið
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Til að afrita lykilorðið þitt, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = afrita vistaða lykilorðið
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Til að flytja út innskráningarnar þínar, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
 # This message can be seen when attempting to export a password in about:logins
@@ -147,25 +141,21 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Hætta við
 confirmation-dialog-dismiss-button =
     .title = Hætta við
-
 about-logins-confirm-remove-dialog-title = Fjarlægja þessa innskráningu?
 confirm-delete-dialog-message = Þessa aðgerð er ekki hægt að afturkalla.
 about-logins-confirm-remove-dialog-confirm-button = Fjarlægja
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fjarlægja
         [one] Fjarlægja
        *[other] Fjarlægja allt
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Já, fjarlægja þessa innskráningu
         [one] Já, fjarlægja þessa innskráningu
        *[other] Já, fjarlægja þessar innskráningar
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Fjarlægja { $count } innskráningu?
@@ -177,7 +167,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Þetta mun fjarlægja innskráninguna sem þú hefur vistað á { -brand-short-name } og allar innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
        *[other] Þetta mun fjarlægja innskráningarnar sem þú hefur vistað á { -brand-short-name } og allar innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Fjarlægja { $count } innskráningu úr öllum tækjum?
@@ -189,14 +178,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Þetta mun fjarlægja innskráninguna sem þú vistaðir í { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
        *[other] Þetta mun fjarlægja allar innskráningar sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
     }
-
 about-logins-confirm-export-dialog-title = Flytja út innskráningar og lykilorð
 about-logins-confirm-export-dialog-message = Lykilorðin þín verða vistuð sem læsilegur texti (t.d. BadP@ssw0rd) svo allir sem geta opnað útfluttu skrána geta skoðað þau.
 about-logins-confirm-export-dialog-confirm-button = Flytja út…
-
 about-logins-alert-import-title = Innflutningi lokið
 about-logins-alert-import-message = Skoða nákvæmt innflutningsyfirlit
-
 confirm-discard-changes-dialog-title = Henda óvistuðum breytingum?
 confirm-discard-changes-dialog-message = Allar óvistaðar breytingar munu tapast.
 confirm-discard-changes-dialog-confirm-button = Henda
@@ -227,7 +213,6 @@ about-logins-vulnerable-alert-learn-more-link = Fræðast meira
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Færsla fyrir { $loginTitle } með því notandanafni er þegar til staðar. <a data-l10n-name="duplicate-link">Á að fara í fyrirliggjandi færslu?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Villa kom upp þegar reynt var að vista þetta lykilorð.
 
@@ -277,13 +262,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Nýrri innskráningu bætt við:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Nýjum innskráningum bætt við:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Fyrirliggjandi innskráning uppfærð:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Fyrirliggjandi innskráningar uppfærðar:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Tvítekin innskráning fannst:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
@@ -295,7 +278,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Villur:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span>
     }
 about-logins-import-dialog-done = Lokið
-
 about-logins-import-dialog-error-title = Villa við innflutning
 about-logins-import-dialog-error-conflicting-values-title = Mörg gildi rekast á í einni innskráningu
 about-logins-import-dialog-error-conflicting-values-description = Til dæmis: mörg notendanöfn, lykilorð, vefslóðir o.s.frv. fyrir eina innskráningu.
@@ -309,10 +291,8 @@ about-logins-import-dialog-error-no-logins-imported = Engar innskráningar hafa 
 about-logins-import-dialog-error-learn-more = Frekari upplýsingar
 about-logins-import-dialog-error-try-import-again = Reyna að flytja inn aftur…
 about-logins-import-dialog-error-cancel = Hætta við
-
 about-logins-import-report-title = Samantekt innflutnings
 about-logins-import-report-description = Innskráningar og lykilorð flutt inn í { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -345,8 +325,8 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin innskráning</div> <div data-l10n-name="not-imported" ">(ekki flutt inn)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvíteknar innskráningar</div> <div data-l10n-name="not-imported" ">(ekki flutt inn)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin innskráning</div> <div data-l10n-name="not-imported">(ekki flutt inn)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvíteknar innskráningar</div> <div data-l10n-name="not-imported">(ekki flutt inn)</div>
     }
 about-logins-import-report-error =
     { $count ->
