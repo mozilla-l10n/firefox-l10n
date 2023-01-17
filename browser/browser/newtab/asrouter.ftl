@@ -78,6 +78,7 @@ cfr-cookie-banner-accept-button-variant-1 = Wuskakowace wokna zaćisnyć
 cfr-cookie-banner-reject-button-variant-1 = Ně, dźakuju so
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Redukowanje plackowych chorhojow
+cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } dowolić, próstwu sydła wo přizwolenje plackoweho wobsaha wotpokazać, jeli móžno, abo přistup přez plack akceptować, jeli móžno njeje?
 cfr-cookie-banner-accept-button-variant-2 = Dowolić
     .accesskey = D
 cfr-cookie-banner-reject-button-variant-2 = Nic nětko
@@ -231,6 +232,7 @@ firefoxview-cfr-primarybutton = Wupruwujće jón
 firefoxview-cfr-secondarybutton = Nic nětko
     .accesskey = N
 firefoxview-cfr-header-v2 = Čińće tam spěšnje dale, hdźež sće přestał
+firefoxview-cfr-body-v2 = Wobstarajće sej začinjene rajtarki wróćo a přeńdźće mjez gratami z { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
