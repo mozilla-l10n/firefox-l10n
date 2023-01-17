@@ -57,6 +57,24 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brûkers
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Farwel cookiebanners!
+cfr-cookie-banner-handling-body = { -brand-short-name } tastean om automatysk alle cookiebannerfersiken ôf te wizen, wannear mooglik. Oars wurde alle cookies akseptearre om noch mear banners fuort te smiten.
+cfr-cookie-banner-accept-button = Fersiken ôfwize
+    .accesskey = F
+cfr-cookie-banner-reject-button = No net
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Sjoch minder cookie-pop-ups
+cfr-cookie-banner-handling-body-variant-1 = Lit { -brand-short-name } cookie-pop-ups automatysk foar jo beäntwurdzje, sadat jo wer sneupe kinne sûnder ôflieding. { -brand-short-name } wiist alle fersiken ôf as it mooglik is, of akseptearret as dit net slagget .
+cfr-cookie-banner-accept-button-variant-1 = Pop-ups slute
+    .accesskey = l
+cfr-cookie-banner-reject-button-variant-1 = Nee tankewol
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reduksje fan cookiebanners
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Syngronisearje jo blêdwizers oeral.
@@ -156,10 +174,6 @@ spotlight-total-cookie-protection-body = Totale cookiebeskerming foarkomt dat tr
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bout in stek rûnom cookies, wêrtroch se beheint wurde ta de website wêrop jo jo binne, sadat trackers se net brûke kinne om jo te folgjen. As betide brûker helpe jo dizze funksje te optimalisearjen, sadat wy in better ynternet foar elkenien bouwe bliuwe kinne.
 spotlight-total-cookie-protection-primary-button = Totale cookiebeskerming ynskeakelje
 spotlight-total-cookie-protection-secondary-button = No net
-cfr-total-cookie-protection-header = Mei troch jo is { -brand-short-name } mear privee en feiliger as ea
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Totale cookiebeskerming is ús sterkste privacybeskerming oant no ta – en it is no oeral in standertynstelling foar { -brand-short-name }-brûkers. Wy hiene dit net dwaan kinnen sûnder dielnimmers mei betide tagong lykas jo. Dus tank dat jo ús holpen hawwe om in better, mear privee ynternet te kreëarjen.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +220,6 @@ firefoxview-cfr-primarybutton = Utprobearje
     .accesskey = U
 firefoxview-cfr-secondarybutton = No net
     .accesskey = N
-firefoxview-cfr-header = Helje koartlyn sluten ljepblêden werom mei { -firefoxview-brand-name }
-firefoxview-cfr-body = Plus: ljep ienfâldich tusken apparaten en foegje in bytsje kleur ta oan jo browser.
 firefoxview-cfr-header-v2 = Gean fluch troch wêr’t jo bleaun wiene
 firefoxview-cfr-body-v2 = Untfang koartlyn sluten ljepblêden werom en skeakelje maklik tusken apparaten mei { -firefoxview-brand-name }.
 
@@ -229,3 +241,6 @@ colorways-cfr-header-28days = Independent Voices-kleurstellingen ferrinne op 16 
 colorways-cfr-header-14days = Independent Voices-kleurstellingen ferrinne oer twa wiken
 colorways-cfr-header-7days = Independent Voices-kleurstellingen ferrinne dizze wike
 colorways-cfr-header-today = Independent Voices-kleurstellingen ferrinne hjoed
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
