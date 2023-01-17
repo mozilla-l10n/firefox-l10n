@@ -911,7 +911,7 @@ addressbar-locbar-bookmarks-option =
     .label = පොත්යොමු
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = පටිති අරින්න
+    .label = විවෘත පටිති
     .accesskey = O
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
@@ -967,6 +967,9 @@ content-blocking-unvisited-cookies = නොගිය අඩවිවල දත�
 content-blocking-all-windows-tracking-content = සියළු කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
 content-blocking-all-third-party-cookies = සියළු තෙවන පාර්ශ්ව දත්තකඩ
 content-blocking-fingerprinters = ඇඟිලි සටහන්
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = පූර්ණ දත්තකඩ රැකවරණය ඔබ සිටින අඩවියෙහි දත්තකඩ හුදකලා කරන බැවින් ලුහුබඳින්නන්ට අඩවි අතරින් ඔබව හඹා යාමට ඒවා භාවිතා කළ නොහැකිය.
 content-blocking-etp-standard-tcp-rollout-learn-more = තව දැනගන්න
