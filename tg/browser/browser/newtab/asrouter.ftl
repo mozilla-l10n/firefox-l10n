@@ -74,7 +74,7 @@ cfr-cookie-banner-accept-button-variant-1 = Қатъ кардани равзан
 cfr-cookie-banner-reject-button-variant-1 = Не, ташаккур
     .accesskey = Н
 cfr-cookie-banner-handling-header-variant-2 = Маҳдудкунии баннери куки
-cfr-cookie-banner-handling-body-variant-2 = Ба «{ -brand-short-name }» иҷозат диҳед, ки он ба қадри имкон дархости ризоияти кукии сомонаро рад кунад ё агар имкон набошад дастрасии кукиҳоро қабул кунад?
+cfr-cookie-banner-handling-body-variant-2 = Ба «{ -brand-short-name }» иҷозат медиҳед, ки он ба қадри имкон дархости ризоияти кукии сомонаро рад кунад ё агар имкон набошад, дастрасии кукиҳоро қабул кунад?
 cfr-cookie-banner-accept-button-variant-2 = Иҷозат додан
     .accesskey = И
 cfr-cookie-banner-reject-button-variant-2 = Ҳоло не
@@ -249,4 +249,5 @@ colorways-cfr-header-today = Нақшу нигорҳои садоҳои муст
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Мо шуморо бо ғамхорӣ фаро гирифтем
+july-jam-body = Ҳар моҳ «{ -brand-short-name }» танҳо нисбат ба як корбар ба ҳисоби миёна зиёда аз 3000 воситаи пайгириро манъ мекунад ва ба шумо дастрасии бехатар ва босуръат ба Интернети хуб медиҳад.
 july-jam-set-default-primary = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
