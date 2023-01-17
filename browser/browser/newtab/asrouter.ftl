@@ -66,10 +66,12 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Preč z plackowymi chorhojemi!
+cfr-cookie-banner-handling-body = Dowolće { -brand-short-name }, wšě naprašowanja plackowych chorhojiw awtomatisce wotpokazać, jeli móžno. Hewak so wšě placki akceptuja, zo bychu so samo dalše chorhoje zacisnyli.
 cfr-cookie-banner-accept-button = Naprašowanja zaćisnyć
     .accesskey = z
 cfr-cookie-banner-reject-button = Nic nětko
     .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Mjenje plackowych wuskakowacych woknow widźeć
 cfr-cookie-banner-accept-button-variant-1 = Wuskakowace wokna zaćisnyć
     .accesskey = u
 cfr-cookie-banner-reject-button-variant-1 = Ně, dźakuju so
