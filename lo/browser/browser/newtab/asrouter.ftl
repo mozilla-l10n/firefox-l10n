@@ -49,6 +49,14 @@ cfr-doorhanger-extension-total-users =
 
 ## Cookie Banner Handling Onboarding
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = ປ້າຍໂຄສະນາຄຸກກີເລີ່ມແລ້ວ!
+cfr-cookie-banner-accept-button = ປິດການຮ້ອງຂໍ
+    .accesskey = D
+cfr-cookie-banner-reject-button = ບໍ່ແມ່ນຕອນນີ້
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = ເບິ່ງປັອບອັບຄຸກກີໜ້ອຍລົງ
 
 ## Firefox Accounts Message
 

@@ -294,6 +294,12 @@ menu-get-help =
     .accesskey = H
 menu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
+menu-help-enter-troubleshoot-mode2 =
+    .label = ໂໝດແກ້ໄຂບັນຫາ...
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = ປິດໂໝດແກ້ໄຂບັນຫາ
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
