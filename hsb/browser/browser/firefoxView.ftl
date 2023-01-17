@@ -76,6 +76,7 @@ firefoxview-change-colorway-button = Barbowu kombinaciju změnić
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Hišće ničo njeje widźeć
+firefoxview-synced-tabs-placeholder-body = Přichodny raz, hdyž stronu w { -brand-product-name } na druhim graće wočinjeće, mějće přistup k njej kaž wot njewidźomneje ruki.
 firefoxview-collapse-button-show =
     .title = Lisćinu pokazać
 firefoxview-collapse-button-hide =
