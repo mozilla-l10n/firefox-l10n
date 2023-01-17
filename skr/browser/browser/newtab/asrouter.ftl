@@ -245,3 +245,4 @@ colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
+july-jam-set-default-primary = { -brand-short-name } دے نال میݙے لنک کھولو
