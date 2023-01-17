@@ -62,7 +62,7 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = ¡Los mensajes de cookies se fueron!
-cfr-cookie-banner-handling-body = Permitir que { -brand-short-name } rechace automáticamente todas las solicitudes de pancartas de cookies, cuando sea posible. De lo contrario, se aceptarán todas las cookies para descartar aún más pancartas.
+cfr-cookie-banner-handling-body = Permitir que { -brand-short-name } rechace automáticamente todas las solicitudes de mensajes de cookies, cuando sea posible. De lo contrario, se aceptarán todas las cookies para descartar aún más mensajes.
 cfr-cookie-banner-accept-button = Descartar solicitudes
     .accesskey = D
 cfr-cookie-banner-reject-button = Ahora no
@@ -76,7 +76,7 @@ cfr-cookie-banner-reject-button-variant-1 = No, gracias
 cfr-cookie-banner-handling-header-variant-2 = Reducción de pancartas de cookies
 cfr-cookie-banner-handling-body-variant-2 = ¿Permitir que { -brand-short-name } rechace la solicitud de consentimiento de cookies de un sitio si es posible o acepte el acceso a cookies cuando no sea posible?
 cfr-cookie-banner-accept-button-variant-2 = Permitir
-    .accesskey = A
+    .accesskey = e
 cfr-cookie-banner-reject-button-variant-2 = Ahora no
     .accesskey = N
 
