@@ -74,6 +74,11 @@ cfr-cookie-banner-accept-button-variant-1 = Pop-ups slute
 cfr-cookie-banner-reject-button-variant-1 = Nee tankewol
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Reduksje fan cookiebanners
+cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } tastean om it tastimmingfersyk foar cookies fan in website wannear mooglik te wegerjen of om cookie-tagong te akseptearjen wannear dit net mooglik is?
+cfr-cookie-banner-accept-button-variant-2 = Tastean
+    .accesskey = T
+cfr-cookie-banner-reject-button-variant-2 = No net
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -244,3 +249,6 @@ colorways-cfr-header-today = Independent Voices-kleurstellingen ferrinne hjoed
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = By ús binne jo feilich
+july-jam-body = Elke moanne blokkearret { -brand-short-name } gemiddeld mear as 3.000 trackers per brûker, wêrtroch jo feilich en flugge tagong hawwe ta it goede ynternet.
+july-jam-set-default-primary = Myn keppelingen iepenje mei { -brand-short-name }
