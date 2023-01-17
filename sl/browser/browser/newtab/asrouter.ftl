@@ -61,6 +61,21 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } uporabnikov
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Pasice s piškotki, izginite!
+cfr-cookie-banner-reject-button = Ne zdaj
+    .accesskey = N
+cfr-cookie-banner-reject-button-variant-1 = Ne, hvala
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Zmanjšanje števila pasic s piškotki
+cfr-cookie-banner-accept-button-variant-2 = Dovoli
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-2 = Ne zdaj
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinhronizirajte zaznamke povsod.
@@ -162,10 +177,6 @@ spotlight-total-cookie-protection-body = Popolna zaščita pred piškotki prepre
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ograjuje piškotke znotraj spletnega mesta, na katerem se nahajate, tako da jih sledilci ne morejo uporabiti, da bi vam sledili. Z zgodnjim dostopom boste pomagali izboljšati to zmogljivost, da bomo lahko še naprej gradili boljši splet za vse.
 spotlight-total-cookie-protection-primary-button = Vključi popolno zaščito pred piškotki
 spotlight-total-cookie-protection-secondary-button = Ne zdaj
-cfr-total-cookie-protection-header = Zahvaljujoč vam je { -brand-short-name } bolj zaseben in varen kot kdajkoli prej
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Popolna zaščita piškotkov je naša najmočnejša zaščita zasebnosti doslej – in je po novem privzeta nastavitev za vse uporabnike { -brand-short-name(sklon: "rodilnik") }. Tega ne bi zmogli brez udeležencev z zgodnjim dostopom, kot ste vi. Hvala, ker nam pomagate ustvarjati boljši in zasebnejši internet.
 
 ## Emotive Continuous Onboarding
 
@@ -212,8 +223,6 @@ firefoxview-cfr-primarybutton = Preizkusite ga
     .accesskey = P
 firefoxview-cfr-secondarybutton = Ne zdaj
     .accesskey = N
-firefoxview-cfr-header = Povrnite si nedavno zaprte zavihke s { -firefoxview-brand-name }
-firefoxview-cfr-body = Poleg tega brez težav preklapljajte med napravami in dodajte brskalniku kanček barve.
 firefoxview-cfr-header-v2 = Preprosto nadaljujte, kjer ste končali
 firefoxview-cfr-body-v2 = Obnovite nedavno zaprte zavihke in nemoteno preskakujte med napravami s { -firefoxview-brand-name }.
 
@@ -235,3 +244,7 @@ colorways-cfr-header-28days = Barvne kombinacije Neodvisni glasovi potečejo 16.
 colorways-cfr-header-14days = Barvne kombinacije Neodvisni glasovi potečejo čez dva tedna
 colorways-cfr-header-7days = Barvne kombinacije Neodvisni glasovi potečejo ta teden
 colorways-cfr-header-today = Barvne kombinacije Neodvisni glasovi potečejo danes
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Stojimo vam ob strani
