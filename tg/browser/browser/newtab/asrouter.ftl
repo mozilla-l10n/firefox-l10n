@@ -62,6 +62,11 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Баннерҳои куки гум шаванд!
+cfr-cookie-banner-handling-body = Ба { -brand-short-name } иҷозат диҳед, ки он тавонад ҳамаи дархостҳои баннери куки ба қадри имкон рад кунад. Дар акси ҳол, барои қатъ кардани баннерҳои боз ҳам бештар, ҳамаи кукиҳо қабул карда мешаванд.
+cfr-cookie-banner-accept-button = Қатъ кардани дархостҳо
+    .accesskey = Қ
+cfr-cookie-banner-reject-button = Ҳоло не
+    .accesskey = Ҳ
 cfr-cookie-banner-handling-header-variant-2 = Маҳдудкунии баннери куки
 
 ## Firefox Accounts Message
