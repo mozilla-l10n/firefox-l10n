@@ -8,9 +8,12 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } njemóžeše nowu masku generować. Zmylkowy kod HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } njemóžeše zasowužiwajomne maski namakać. Zmylkowy kod: { $status }.
 
 ##
 
+firefox-relay-must-login-to-fxa = Dyrbiće so pola { -fxaccount-brand-name } přizjewić, zo byšće { -relay-brand-name } wužiwał.
 firefox-relay-get-unlimited-masks =
     .label = Maski rjadować
     .accesskey = M
