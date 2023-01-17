@@ -34,6 +34,12 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Prěnje kro
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Wobdźěłajće PDF z našim nowym nastrojom
+callout-pdfjs-edit-body-a = Wupjelńće formulary, přidajće komentary abo čińće noticy direktnje w { -brand-short-name }.
+callout-pdfjs-edit-body-b = Přeskočće pytanje za darmotnymi editorami online. Wupjelńće formulary, přidajće komentary abo čińće noticy direktnje w { -brand-short-name }.
 callout-pdfjs-edit-button = Dale
 callout-pdfjs-draw-title = Signujće dokumenty z našim nowym rysowanskim nastrojom
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Anotěrujće PDF a składujće potom swoje změny.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Ženje wjace ćišćeć a skenować. Anotěrujće PDF a składujće potom swoje změny.
 callout-pdfjs-draw-button = Sym to zrozumił!

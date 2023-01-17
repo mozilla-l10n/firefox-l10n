@@ -155,6 +155,8 @@ urlbar-result-menu-remove-from-history =
 
 urlbar-search-tips-onboard = Pisajće mjenje, namakajće wjace: Pytajće z { $engineName } direktnje ze swojeho adresoweho pola.
 urlbar-search-tips-redirect-2 = Započńće swoje pytanje w adresowym polu, zo byšće namjety wot { $engineName } a ze swojeje přehladowanskeje historije widźał.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Pytanje je nětko lóše. Čińće swoje pytanje bóle specifiske w adresowym polu. Zo byšće město toho URL pokazał, dźiće k pytanskim nastajenjam.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Wubjerće tute zwjazanje, zo byšće spěšnišo namakał, štož trjebaće.
@@ -962,3 +964,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } wašu woprawdźitu e-mejlowu adresu maskuje, zo by was před datowymi dźěrami a spamom škitał.
+firefox-relay-offer-how-we-integrate = Hdyž pokročujeće, móžeće nowe e-mejlowe maski { -relay-brand-short-name } direktnje ze swojeho zrjadowaka hesło { -brand-shorter-name } generować.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Posrědkujemy wšě mejlki wot <strong>{ $sitename }</strong> do <strong>{ $useremail }</strong> dale.
