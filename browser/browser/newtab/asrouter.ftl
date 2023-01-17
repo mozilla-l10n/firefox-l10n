@@ -72,6 +72,7 @@ cfr-cookie-banner-accept-button = Naprašowanja zaćisnyć
 cfr-cookie-banner-reject-button = Nic nětko
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = Mjenje plackowych wuskakowacych woknow widźeć
+cfr-cookie-banner-handling-body-variant-1 = Dajće { -brand-short-name } za was awtomatisce na plackowewuskakowace wokna wotmołwić. zo byšće so k přehladowanju bjez wotwjedźenja wróćił. { -brand-short-name } wšě naprašowanja wotpokaza, jeli móžno, abo budźe wšě akceptować, jeli móžno njeje.
 cfr-cookie-banner-accept-button-variant-1 = Wuskakowace wokna zaćisnyć
     .accesskey = u
 cfr-cookie-banner-reject-button-variant-1 = Ně, dźakuju so
