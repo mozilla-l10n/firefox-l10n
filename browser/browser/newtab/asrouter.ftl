@@ -246,6 +246,12 @@ firefoxview-spotlight-promo-secondarybutton = Přeskočić
 
 colorways-cfr-primarybutton = Barbowu kombinaciju wubrać
     .accesskey = B
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Zabarbće swój wobhladowak z ekskluziwnymi barbowymi wotsćinami { -brand-short-name }, kotrež su wot hłosow inspirowane, kotrež su kulturu změnili.
+colorways-cfr-header-28days = Barbowe kombinacije „Njewotwisne hłosy“  16. januara spadnu
+colorways-cfr-header-14days = Barbowe kombinacije „Njewotwisne hłosy“ za dwě njedźeli spadnu
+colorways-cfr-header-7days = Barbowe kombinacije „Njewotwisne hłosy“ tutón tydźeń spadnu
+colorways-cfr-header-today = Barbowe kombinacije „Njewotwisne hłosy“ dźensa spadnu
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
