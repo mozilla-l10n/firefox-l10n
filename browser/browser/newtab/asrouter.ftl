@@ -57,6 +57,12 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } användare
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Ta bort kak-banners!
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkronisera dina bokmärken överallt.
@@ -156,10 +162,6 @@ spotlight-total-cookie-protection-body = Totalt skydd mot kakor stoppar spårare
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bygger ett staket runt kakor och begränsar dem till webbplatsen du är på så att spårare inte kan använda dem för att följa dig. Med tidig åtkomst hjälper du till att optimera den här funktionen så att vi kan fortsätta bygga en bättre webb för alla.
 spotlight-total-cookie-protection-primary-button = Aktivera totalt skydd mot kakor
 spotlight-total-cookie-protection-secondary-button = Inte nu
-cfr-total-cookie-protection-header = Tack vare dig är { -brand-short-name } mer privat och säkrare än någonsin
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Totalt skydd mot kakor är vårt starkaste integritetsskydd hittills – och det är nu en standardinställning för { -brand-short-name } användare överallt. Vi hade inte kunnat göra det utan deltagare med tidig tillgång som du. Så tack för att du hjälper oss att skapa ett bättre, mer privat internet.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +208,6 @@ firefoxview-cfr-primarybutton = Prova den
     .accesskey = P
 firefoxview-cfr-secondarybutton = Inte nu
     .accesskey = n
-firefoxview-cfr-header = Få tillbaka nyligen stängda flikar men { -firefoxview-brand-name }
-firefoxview-cfr-body = Byt dessutom snabbt mellan enheter och lägg till en färgklick i din webbläsare.
 firefoxview-cfr-header-v2 = Fortsätt snabbt där du slutade
 firefoxview-cfr-body-v2 = Få tillbaka nyligen stängda flikar och hoppa smidigt mellan enheter med { -firefoxview-brand-name }.
 
@@ -229,3 +229,6 @@ colorways-cfr-header-28days = Independent Voices colorways upphör den 16 januar
 colorways-cfr-header-14days = Independent Voices colorways upphör om två veckor
 colorways-cfr-header-7days = Independent Voices colorways upphör den här veckan
 colorways-cfr-header-today = Independent Voices colorways upphör idag
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
