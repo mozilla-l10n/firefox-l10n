@@ -68,6 +68,7 @@ cfr-cookie-banner-accept-button = Қатъ кардани дархостҳо
 cfr-cookie-banner-reject-button = Ҳоло не
     .accesskey = Ҳ
 cfr-cookie-banner-handling-header-variant-1 = Камтар дидани равзанаҳои зоҳиршавандаи кукиҳо
+cfr-cookie-banner-handling-body-variant-1 = Иҷозат диҳед, ки «{ -brand-short-name }» аз ҷониби шумо ба равзанаҳои зоҳиршавандаи куки ба таври худкор ҷавоб диҳад, то шумо тавонед ба тамошокунии озод аз халалрасонӣ баргардед. «{ -brand-short-name }» ба қадри имкон ҳамаи дархостҳоро рад мекунад ё ба таври дигар ҳамаи дархостҳоро қабул мекунад.
 cfr-cookie-banner-accept-button-variant-1 = Қатъ кардани равзанаҳои зоҳиршаванда
     .accesskey = Қ
 cfr-cookie-banner-reject-button-variant-1 = Не, ташаккур
