@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = Za přistup k swojim rajtark
 firefoxview-tabpickup-password-locked-link = Dalše informacije
 firefoxview-tabpickup-password-locked-primarybutton = Hłowne hesło zapodać
 firefoxview-tabpickup-signed-out-header = Přizjewće so, zo byšće zaso zwjazał
+firefoxview-tabpickup-signed-out-description = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Přizjewić
 firefoxview-tabpickup-syncing = Wočakajće, mjeztym zo so waše rajtarki synchronizuja. Budźe jenož wokomik trać.
 firefoxview-mobile-promo-header = Wobstarajće sej rajtarki ze swojeho šmóratka abo tableta
@@ -57,6 +58,7 @@ firefoxview-mobile-confirmation-description = Nětko móžeće swoje rajtarki { 
 firefoxview-closed-tabs-title = Njedawno začinjene
 firefoxview-closed-tabs-description2 = Wočińće strony znowa, kotrež sće w tutym woknje začinił.
 firefoxview-closed-tabs-placeholder-header = Žane runje začinjene rajtarki
+firefoxview-closed-tabs-placeholder-body = Hdyž w tutym woknje rajtark začinjeće, móžeće jón wottud wuwołać.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -68,7 +70,6 @@ firefoxview-pickup-tabs-badge = Posledni raz aktiwny
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } w nowym rajtarku wočinić
 firefoxview-try-colorways-button = Barbowe kombinacije wupruwować
-firefoxview-no-current-colorway-collection = Nowe barbowe kombinacije so přihotuja
 firefoxview-change-colorway-button = Barbowu kombinaciju změnić
 # Variables:
 #  $intensity (String): Colorway intensity
