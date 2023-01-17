@@ -247,4 +247,5 @@ colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
+july-jam-body = ہر مہینے، { -brand-short-name } فی صارف اوسطاً 3,000 کنوں ودھ ٹریکر بلاک کریندے۔ جہڑا تہاکوں چنگے انٹرنیٹ تائیں محفوظ، تیز رفتار رسائی فراہم کریندے۔
 july-jam-set-default-primary = { -brand-short-name } دے نال میݙے لنک کھولو
