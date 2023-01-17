@@ -57,6 +57,26 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } felhasználó
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Elég a sütibannerekből!
+cfr-cookie-banner-accept-button = Kérések eltüntetése
+    .accesskey = t
+cfr-cookie-banner-reject-button = Most nem
+    .accesskey = n
+cfr-cookie-banner-handling-header-variant-1 = Lásson kevesebb sütikkel kapcsolatos felugró ablakot
+cfr-cookie-banner-accept-button-variant-1 = Felugró ablakok eltüntetése
+    .accesskey = t
+cfr-cookie-banner-reject-button-variant-1 = Köszönöm, nem
+    .accesskey = n
+cfr-cookie-banner-handling-header-variant-2 = Sütibannerek számának csökkentése
+cfr-cookie-banner-accept-button-variant-2 = Engedélyezés
+    .accesskey = E
+cfr-cookie-banner-reject-button-variant-2 = Most nem
+    .accesskey = n
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Szinkronizálja a könyvjelzőit mindenhol.
@@ -156,10 +176,6 @@ spotlight-total-cookie-protection-body = A Teljes sütivédelem megakadályozza,
 spotlight-total-cookie-protection-expanded = A { -brand-short-name } kerítést épít a sütik köré, oly módon korlátozva őket, hogy a nyomkövetők ne használhassák az Ön követésére. A korai hozzáféréssel segít nekünk optimalizálni a funkciót, így egy mindenki számára jobb webet építhetünk.
 spotlight-total-cookie-protection-primary-button = A Teljes sütivédelem bekapcsolása
 spotlight-total-cookie-protection-secondary-button = Most nem
-cfr-total-cookie-protection-header = Önnek köszönhetően a { -brand-short-name } privátabb és biztonságosabb, mint valaha
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = A Teljes sütivédelem az eddigi legerősebb adatvédelmi megoldásunk – és mostantól mindenhol ez az alapértelmezett beállítás a { -brand-short-name }-felhasználók számára. Nem tudtuk volna megtenni az olyan korai hozzáférésű résztvevők nélkül, mint Ön. Ezért köszönjük, hogy segített egy jobb, privátabb internet létrehozásában.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +222,6 @@ firefoxview-cfr-primarybutton = Próbálja ki
     .accesskey = P
 firefoxview-cfr-secondarybutton = Most nem
     .accesskey = n
-firefoxview-cfr-header = A nemrég bezárt lapok visszaállítása a { -firefoxview-brand-name } segítségével
-firefoxview-cfr-body = Ezenkívül zökkenőmentesen válthat az eszközök között, és színesítheti böngészőjét.
 firefoxview-cfr-header-v2 = Folytassa gyorsan ott, ahol abbahagyta
 firefoxview-cfr-body-v2 = Szerezze vissza a nemrég bezárt lapokat, és zökkenőmentesen váltson az eszközök között a { -firefoxview-brand-name } segítségével.
 
@@ -229,3 +243,9 @@ colorways-cfr-header-28days = A „Független hangok” színvilágok január 16
 colorways-cfr-header-14days = A „Független hangok” színvilágok két hét múlva járnak le
 colorways-cfr-header-7days = A „Független hangok” színvilágok a héten járnak le
 colorways-cfr-header-today = A „Független hangok” színvilágok ma járnak le
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Fedezzük Önt
+july-jam-body = A { -brand-short-name } havonta átlagosan több mint 3000 nyomkövetőt blokkol felhasználónként, így biztonságos és gyors hozzáférést biztosít a jó internethez.
+july-jam-set-default-primary = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
