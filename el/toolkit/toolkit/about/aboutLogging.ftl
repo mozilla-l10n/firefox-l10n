@@ -51,4 +51,5 @@ about-logging-error = Σφάλμα:
 ##   $v (String) - Variable value
 
 about-logging-invalid-output = Μη έγκυρη τιμή «{ $v }» για το κλειδί «{ $k }»
+about-logging-unknown-option = Άγνωστη επιλογή about:logging «{ $k }»
 about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μέσω URL
