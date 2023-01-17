@@ -256,4 +256,5 @@ colorways-cfr-header-today = Barbowe kombinacije „Njewotwisne hłosy“ dźens
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Smy was zapřijeli
+july-jam-body = Kóždy měsac { -brand-short-name } w přerězku wjace hač 3000 přesćěhowakow na wužiwarja blokuje a dawa wam wěst, spěšny přistup k dobremu internetej.
 july-jam-set-default-primary = Moje wotkazy z { -brand-short-name } wočinić
