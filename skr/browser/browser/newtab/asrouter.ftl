@@ -68,6 +68,7 @@ cfr-cookie-banner-accept-button = ارداس برخاست کرو
 cfr-cookie-banner-reject-button = ہݨ کائناں
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = تھوڑیاں پوپ اپاں کوکی ݙیکھو
+cfr-cookie-banner-handling-body-variant-1 = { -brand-short-name } کوں خودبخود تہاݙے کیتے کوکی پوپ اپاں دا جواب ݙیوݨ ݙیوو تاں جو تساں کہیں خلفشار دے بغیر براؤزنگ تے ون٘ڄ سڳو۔ ممکن ہویا تاں { -brand-short-name } ساریاں ارداساں مسترد کر ݙیسی، جے ممکن کائنی تاں ساریاں قبول کر گھنسی،
 cfr-cookie-banner-accept-button-variant-1 = پوپ اپ فارغ کرو
     .accesskey = D
 cfr-cookie-banner-reject-button-variant-1 = کو، شکریہ
