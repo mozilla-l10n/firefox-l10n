@@ -74,6 +74,7 @@ cfr-cookie-banner-accept-button-variant-1 = Қатъ кардани равзан
 cfr-cookie-banner-reject-button-variant-1 = Не, ташаккур
     .accesskey = Н
 cfr-cookie-banner-handling-header-variant-2 = Маҳдудкунии баннери куки
+cfr-cookie-banner-handling-body-variant-2 = Ба «{ -brand-short-name }» иҷозат диҳед, ки он ба қадри имкон дархости ризоияти кукии сомонаро рад кунад ё агар имкон набошад дастрасии кукиҳоро қабул кунад?
 cfr-cookie-banner-accept-button-variant-2 = Иҷозат додан
     .accesskey = И
 cfr-cookie-banner-reject-button-variant-2 = Ҳоло не
