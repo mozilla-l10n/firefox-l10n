@@ -62,6 +62,23 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Vaarwel cookiebanners!
+cfr-cookie-banner-handling-body = { -brand-short-name } toestaan om automatisch alle cookiebannerverzoeken af te wijzen, indien mogelijk. Anders worden alle cookies geaccepteerd om nog meer banners te verwijderen.
+cfr-cookie-banner-accept-button = Verzoeken afwijzen
+    .accesskey = a
+cfr-cookie-banner-reject-button = Niet nu
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Zie minder cookie-pop-ups
+cfr-cookie-banner-handling-body-variant-1 = Laat { -brand-short-name } cookie-pop-ups automatisch voor u beantwoorden, zodat u weer kunt navigeren zonder afleiding. { -brand-short-name } wijst alle verzoeken af indien mogelijk, of accepteert alle als dit niet lukt.
+cfr-cookie-banner-accept-button-variant-1 = Pop-ups sluiten
+    .accesskey = l
+cfr-cookie-banner-reject-button-variant-1 = Nee bedankt
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reductie van cookiebanners
+cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } toestaan om het toestemmingsverzoek voor cookies van een website indien mogelijk te weigeren of om cookietoegang te accepteren wanneer dit niet mogelijk is?
+cfr-cookie-banner-accept-button-variant-2 = Toestaan
+    .accesskey = T
+cfr-cookie-banner-reject-button-variant-2 = Niet nu
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -232,3 +249,6 @@ colorways-cfr-header-today = Independent Voices-kleurstellingen verlopen vandaag
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Bij ons bent u veilig
+july-jam-body = Elke maand blokkeert { -brand-short-name } gemiddeld meer dan 3.000 trackers per gebruiker, waardoor u veilig en snel toegang hebt tot het goede internet.
+july-jam-set-default-primary = Mijn koppelingen openen met { -brand-short-name }
