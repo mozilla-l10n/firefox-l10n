@@ -57,6 +57,26 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } puruhára
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = ¡Kookie ñe’ẽmondo ohóma!
+cfr-cookie-banner-accept-button = Emboyke mba’ejerure
+    .accesskey = D
+cfr-cookie-banner-reject-button = Ani ko’ág̃a
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Ehecha’ive kookie ovetã iñapysẽva
+cfr-cookie-banner-accept-button-variant-1 = Emboyke ovetã iñapysẽva
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = Nahániri, aguyje
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Kookie ñe’ẽmondo ñemomichĩ
+cfr-cookie-banner-accept-button-variant-2 = Moneĩ
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = Ani ko’ág̃a
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Embojuehe nde rechaukaha eimeha guive.
@@ -155,10 +175,6 @@ spotlight-total-cookie-protection-body = Ñemo’ãmbaite kookie rovake omboyke 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } omopu’ã tápia kookie jerére ha ojoko tenda oĩhápe ani hag̃ua tapykuehoha oipuru nde rapykueho hag̃ua. Pe jeike voi ndive, oipytyvõta oiko porãve hag̃ua tembiapoite rojapo hag̃ua ñanduti iporãva opavavépe g̃uarã.
 spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
-cfr-total-cookie-protection-header = Nde rupive, { -brand-short-name } ipya’eve ha hekoñemivéntema
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Total Cookie Protection ha’e ore ñeñangareko imbaretevéva gueteri ñemigua rehegua – ha ko’ág̃a ha’e peteĩ ñemboheko tee { -brand-short-name } poruhárape g̃uarã oparupiete. Ndaikatúikuri rojapo umi participante acceso temprano ndeichagua’ỹre. Upéicharõ aguyje orepytyvõhaguére romoheñóivo peteĩ ñandutiveve iporãvéva, iñemihavéva.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +221,6 @@ firefoxview-cfr-primarybutton = Eha’ãjey
     .accesskey = T
 firefoxview-cfr-secondarybutton = Ani ko’ág̃a
     .accesskey = N
-firefoxview-cfr-header = Erujey tendayke embotyramóva { -firefoxview-brand-name } ndive
-firefoxview-cfr-body = Avei, ehasa apañuãi’ỹre mba’e’okágui ambuépe ha embojuaju sa’y ne kundahárape.
 firefoxview-cfr-header-v2 = Eku’ejey pya’e eheja haguetégui
 firefoxview-cfr-body-v2 = Eguerujey tendayke oñembotyramóva ha ehasa pya’e mba’e’oka pa’ũme { -firefoxview-brand-name } ndive.
 
@@ -228,3 +242,8 @@ colorways-cfr-header-28days = Umi sa’y ojuehegua Independent Voices ndojepuruk
 colorways-cfr-header-14days = Sa’y ojuehegua Independent Voices ndojepurukuaavéitama mokõi arapokõindýpe
 colorways-cfr-header-7days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko arapokõindýpe
 colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko árape
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Roguereko ñemo’ãpe
+july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
