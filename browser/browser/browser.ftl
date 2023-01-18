@@ -949,6 +949,8 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } menyembunyikan alamat surel Anda yang sebenarnya untuk membantu melindungi Anda dari kebocoran data dan spam.
+firefox-relay-offer-how-we-integrate = Dengan melanjutkan, Anda dapat membuat topeng surel { -relay-brand-short-name } baru secara langsung dari pengelola sandi { -brand-shorter-name } Anda.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
