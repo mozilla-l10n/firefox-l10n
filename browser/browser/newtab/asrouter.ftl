@@ -57,16 +57,22 @@ cfr-doorhanger-extension-total-users =
 
 ## Cookie Banner Handling Onboarding
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Lenyapkan spanduk kuki!
 cfr-cookie-banner-handling-body = Izinkan { -brand-short-name } untuk menolak semua permintaan banner kuki secara otomatis, jika memungkinkan. Jika tidak, semua kuki akan diterima untuk mengabaikan lebih banyak spanduk.
 cfr-cookie-banner-accept-button = Abaikan Permintaan
     .accesskey = A
 cfr-cookie-banner-reject-button = Jangan sekarang
     .accesskey = J
 cfr-cookie-banner-handling-header-variant-1 = Lihat lebih sedikit pop-up kuki
+cfr-cookie-banner-handling-body-variant-1 = Izinkan { -brand-short-name } menjawab pop-up kuki secara otomatis agar Anda dapat kembali ke penjelajahan bebas gangguan. { -brand-short-name } akan menolak semua permintaan jika memungkinkan, atau menerima semua jika tidak.
 cfr-cookie-banner-accept-button-variant-1 = Tutup Pop-up
     .accesskey = T
 cfr-cookie-banner-reject-button-variant-1 = Tidak, terima kasih
     .accesskey = T
+cfr-cookie-banner-handling-header-variant-2 = Pengurangan Spanduk Kuki
+cfr-cookie-banner-handling-body-variant-2 = Izinkan { -brand-short-name } untuk menolak permintaan persetujuan kuki dari situs jika memungkinkan atau menerima akses kuki jika tidak dimungkinkan?
 cfr-cookie-banner-accept-button-variant-2 = Izinkan
     .accesskey = I
 cfr-cookie-banner-reject-button-variant-2 = Jangan sekarang
@@ -233,8 +239,13 @@ colorways-cfr-primarybutton = Pilih ragam warna
     .accesskey = r
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Warnai peramban Anda dengan bayangan eksklusif { -brand-short-name } yang diilhami oleh suara yang mengubah budaya.
+colorways-cfr-header-28days = Ragam warna Suara Independen kedaluarsa pada 16 Januari
+colorways-cfr-header-14days = Ragam warna Suara Independen kedaluarsa dalam dua minggu
+colorways-cfr-header-7days = Ragam warna Suara Independen kedaluarsa minggu ini
+colorways-cfr-header-today = Ragam warna Suara Independen kedaluarsa hari ini
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Kami membantu Anda
 july-jam-body = Setiap bulan { -brand-short-name } memblokir rata-rata 3000+ pelacak per pengguna, memberikan Anda akses yang aman dan cepat ke internet yang baik.
 july-jam-set-default-primary = Buka tautan saya dengan { -brand-short-name }

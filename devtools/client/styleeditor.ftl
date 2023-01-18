@@ -21,6 +21,7 @@ styleeditor-save-button = Simpan
 styleeditor-options-button =
     .tooltiptext = Opsi Editor Gaya
 styleeditor-media-rules = rule @media
+styleeditor-at-rules = Aturan at
 styleeditor-editor-textbox =
     .data-placeholder = Ketik CSS di sini.
 styleeditor-no-stylesheet = Laman ini tidak memiliki lembar gaya.
