@@ -25,5 +25,5 @@ about-httpsonly-link-learn-more = Eikuaave…
 ##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
 
 about-httpsonly-suggestion-box-header = Omoambuekuaáva chupe
-about-httpsonly-suggestion-box-www-text = Oĩ hekorosãva <em>www.{ $websiteUrl }</em>. Ikatu ehecha ko kuatiaroguépe <em>{ $websiteUrl }</em> rendaguépe.
+about-httpsonly-suggestion-box-www-text = Oĩ hekorosãvéva <em>www.{ $websiteUrl }</em>. Ikatu ehecha ko kuatiarogue rendaguépe <em>{ $websiteUrl }</em>.
 about-httpsonly-suggestion-box-www-button = Eike www.{ $websiteUrl }-pe
