@@ -62,11 +62,13 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Elég a sütibannerekből!
+cfr-cookie-banner-handling-body = Engedélyezze a { -brand-short-name } számára, hogy automatikusan elutasítja az összes sütibanner-kérést, ha az lehetséges. Ellenkező esetben az összes süti elfogadásra kerül, hogy még több bannert tüntessen el.
 cfr-cookie-banner-accept-button = Kérések eltüntetése
     .accesskey = t
 cfr-cookie-banner-reject-button = Most nem
     .accesskey = n
 cfr-cookie-banner-handling-header-variant-1 = Lásson kevesebb sütikkel kapcsolatos felugró ablakot
+cfr-cookie-banner-handling-body-variant-1 = Hagyja, hogy a { -brand-short-name } automatikusan válaszoljon a sütik előugró ablakaira, így visszatérhet a zavartalan böngészéshez. A { -brand-short-name } elutasítja az összes kérést, ha az lehetséges, vagy elfogadja az összeset, ha nem.
 cfr-cookie-banner-accept-button-variant-1 = Felugró ablakok eltüntetése
     .accesskey = t
 cfr-cookie-banner-reject-button-variant-1 = Köszönöm, nem
