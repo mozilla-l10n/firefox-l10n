@@ -62,6 +62,21 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Çerez duyurularına son!
+cfr-cookie-banner-handling-body = { -brand-short-name } tarayıcınızın mümkün olduğunda tüm çerez duyurusu isteklerini otomatik reddetmesine izin verin. Bu mümkün olmadığında duyuruları kapatmak için tüm çerezler kabul edilecektir.
+cfr-cookie-banner-accept-button = İstekleri reddet
+    .accesskey = R
+cfr-cookie-banner-reject-button = Daha sonra
+    .accesskey = D
+cfr-cookie-banner-handling-header-variant-1 = Daha az çerez duyurusu görün
+cfr-cookie-banner-accept-button-variant-1 = Duyuruları kapat
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = Gerek yok
+    .accesskey = G
+cfr-cookie-banner-handling-header-variant-2 = Çerez duyurularını azaltın
+cfr-cookie-banner-accept-button-variant-2 = İzin ver
+    .accesskey = z
+cfr-cookie-banner-reject-button-variant-2 = Daha sonra
+    .accesskey = D
 
 ## Firefox Accounts Message
 
@@ -232,4 +247,5 @@ colorways-cfr-header-today = Bağımsız Sesler renk kuşakları bugün kullanı
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Sizi koruyoruz
 july-jam-set-default-primary = Bağlantılarımı { -brand-short-name } ile aç
