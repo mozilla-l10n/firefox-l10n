@@ -57,6 +57,19 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuarios
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-reject-button = Ahora no
+    .accesskey = A
+cfr-cookie-banner-handling-header-variant-1 = Ver menos ventanas emergentes de cookies
+cfr-cookie-banner-accept-button-variant-1 = Descartar ventanas emergentes
+    .accesskey = D
+cfr-cookie-banner-handling-header-variant-2 = Reducción de banner de cookies
+cfr-cookie-banner-accept-button-variant-2 = Permitir
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Ahora no
+    .accesskey = A
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza tus marcadores en todas partes.
@@ -156,10 +169,6 @@ spotlight-total-cookie-protection-body = La protección total contra las cookies
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construye un cerco alrededor de tus cookies, limitándolas al sitio en el que estás, para que los rastreadores no las puedan usar para seguirte. Con el acceso anticipado, ayudarás a optimizar esta funcionalidad para que sigamos construyendo una mejor web para todos.
 spotlight-total-cookie-protection-primary-button = Activar la protección total contra las cookies
 spotlight-total-cookie-protection-secondary-button = Ahora no
-cfr-total-cookie-protection-header = Gracias a ti, { -brand-short-name } es más privado y seguro que nunca
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Total Cookie Protection es nuestra protección de privacidad más sólida hasta el momento y ahora es una configuración predeterminada para los usuarios de { -brand-short-name } en todas partes. No podríamos haberlo hecho sin participantes de acceso anticipado como como tú. Gracias por ayudarnos a crear un Internet mejor y más privada.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +215,6 @@ firefoxview-cfr-primarybutton = Intentalo
     .accesskey = I
 firefoxview-cfr-secondarybutton = Ahora no
     .accesskey = n
-firefoxview-cfr-header = Recupera las pestañas cerradas recientemente con { -firefoxview-brand-name }
-firefoxview-cfr-body = Además, cambia sin problemas entre dispositivos y agrega un toque de color a tu navegador.
 firefoxview-cfr-header-v2 = Continúa rápidamente donde lo dejaste
 firefoxview-cfr-body-v2 = Recupera las pestañas cerradas recientemente y salta sin problemas entre dispositivos con { -firefoxview-brand-name }.
 
@@ -229,3 +236,6 @@ colorways-cfr-header-28days = Las combinaciones de colores de Voces Independient
 colorways-cfr-header-14days = Las combinaciones de colores de Voces Independientes caducan en dos semanas
 colorways-cfr-header-7days = Las combinaciones de colores de Voces Independientes expiran esta semana
 colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente expiran hoy
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
