@@ -18,6 +18,10 @@ date-spinner-label =
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-previous =
+    .aria-label = Bulan sebelumnya
+date-picker-next =
+    .aria-label = Bulan berikutnya
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
@@ -32,3 +36,11 @@ date-spinner-year =
 ## to indicate the purpose of buttons that leaf through either months
 ## or years of a Month/Year date spinner on a datepicker calendar dialog
 
+date-spinner-month-previous =
+    .aria-label = Bulan sebelumnya
+date-spinner-month-next =
+    .aria-label = Bulan berikutnya
+date-spinner-year-previous =
+    .aria-label = Tahun sebelumnya
+date-spinner-year-next =
+    .aria-label = Tahun berikutnya
