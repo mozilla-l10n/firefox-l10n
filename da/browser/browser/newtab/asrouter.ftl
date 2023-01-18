@@ -57,6 +57,23 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brugere
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Slut med cookie-bannere!
+cfr-cookie-banner-accept-button = Afvis forespørgsler
+    .accesskey = A
+cfr-cookie-banner-reject-button = Ikke nu
+    .accesskey = n
+cfr-cookie-banner-reject-button-variant-1 = Nej tak
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reduktion af cookie-bannere
+cfr-cookie-banner-accept-button-variant-2 = Tillad
+    .accesskey = T
+cfr-cookie-banner-reject-button-variant-2 = Ikke nu
+    .accesskey = n
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkroniser dine bogmærker overalt.
@@ -155,10 +172,6 @@ spotlight-total-cookie-protection-body = Komplet Cookiebeskyttelse forhindrer sp
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bygger et hegn rundt om cookies, sådan at de kun gælder det websted, du besøger. På dén måde kan sporingsmekanismer ikke følge dig. Hvis du tester denne tidlige version, så hjælper du med til at forbedre funktionen - og du hjælper os med at gøre internettet bedre for alle.
 spotlight-total-cookie-protection-primary-button = Slå Komplet Cookiebeskyttelse til
 spotlight-total-cookie-protection-secondary-button = Ikke nu
-cfr-total-cookie-protection-header = Takket være dig er { -brand-short-name } mere sikker end nogensinde
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Komplet Cookiebeskyttelse er vores hidtil stærkeste værktøj til at beskytte dit privatliv - og nu er funktionen slået til som standard for alle { -brand-short-name }-brugere. Vi kunne ikke have gjort det uden mennesker som dig, der har hjulpet med at teste. Så mange tak for, at du hjælper os med at skabe et bedre internet med mere beskyttet privatliv.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +218,6 @@ firefoxview-cfr-primarybutton = Prøv det
     .accesskey = P
 firefoxview-cfr-secondarybutton = Ikke nu
     .accesskey = n
-firefoxview-cfr-header = Få nyligt lukkede faneblade tilbage med { -firefoxview-brand-name }
-firefoxview-cfr-body = Hop også nemt mellem enheder og frisk din browser op med nye farver.
 firefoxview-cfr-header-v2 = Fortsæt hurtigt hvor du slap
 firefoxview-cfr-body-v2 = Få nyligt lukkede faneblade tilbage og skift hurtigt mellem enheder med { -firefoxview-brand-name }.
 
@@ -228,3 +239,9 @@ colorways-cfr-header-28days = Farvekombinationerne "Uafhængige stemmer" udløbe
 colorways-cfr-header-14days = Farvekombinationerne "Uafhængige stemmer" udløber om to uger
 colorways-cfr-header-7days = Farvekombinationerne "Uafhængige stemmer" udløber i denne uge
 colorways-cfr-header-today = Farvekombinationerne "Uafhængige stemmer" udløber i dag
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Vi beskytter dig
+july-jam-body = Hver måned blokerer { -brand-short-name } i gennemsnit mere end 3000 sporings-tjenester per bruger, så du kan få sikker og hurtig adgang til internettet.
+july-jam-set-default-primary = Åbn mine links med { -brand-short-name }
