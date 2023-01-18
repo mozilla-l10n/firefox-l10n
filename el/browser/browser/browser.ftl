@@ -284,15 +284,11 @@ search-one-offs-actions =
 quickactions-addons = Προβολή προσθέτων
 quickactions-cmd-addons2 = πρόσθετα
 # Opens the bookmarks library window
-quickactions-bookmarks = Προβολή σελιδοδεικτών
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Διαχείριση σελιδοδεικτών
 quickactions-cmd-bookmarks = σελιδοδείκτες
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Απαλοιφή ιστορικού
 quickactions-cmd-clearhistory = απαλοιφή ιστορικού, εκκαθάριση ιστορικού, διαγραφή ιστορικού
-# Opens about:downloads page
-quickactions-downloads = Άνοιγμα λήψεων
 # Opens about:downloads page
 quickactions-downloads2 = Προβολή λήψεων
 quickactions-cmd-downloads = λήψεις
@@ -300,12 +296,8 @@ quickactions-cmd-downloads = λήψεις
 quickactions-extensions = Διαχείριση επεκτάσεων
 quickactions-cmd-extensions = επεκτάσεις
 # Opens the devtools web inspector
-quickactions-inspector = Άνοιγμα επιθεώρησης
-# Opens the devtools web inspector
 quickactions-inspector2 = Άνοιγμα εργαλείων ανάπτυξης
 quickactions-cmd-inspector = επιθεώρηση, εργαλεία προγραμματιστή, εργαλεία ανάπτυξης, devtools
-# Opens about:logins
-quickactions-logins = Προβολή συνδέσεων
 # Opens about:logins
 quickactions-logins2 = Διαχείριση κωδικών πρόσβασης
 quickactions-cmd-logins = συνδέσεις, στοιχεία σύνδεσης, διαπιστευτήρια, κωδικοί πρόσβασης
@@ -313,12 +305,8 @@ quickactions-cmd-logins = συνδέσεις, στοιχεία σύνδεσης,
 quickactions-plugins = Διαχείριση αρθρωμάτων
 quickactions-cmd-plugins = αρθρώματα
 # Opens the print dialog
-quickactions-print = Εκτύπωση
-# Opens the print dialog
 quickactions-print2 = Εκτύπωση σελίδας
 quickactions-cmd-print = εκτύπωση
-# Opens a new private browsing window
-quickactions-private = Άνοιγμα παραθύρου ιδιωτικής περιήγησης
 # Opens a new private browsing window
 quickactions-private2 = Άνοιγμα ιδιωτικού παραθύρου
 quickactions-cmd-private = ιδιωτική περιήγηση
@@ -329,12 +317,8 @@ quickactions-cmd-refresh = ανανέωση, επαναφόρτωση
 quickactions-restart = Επανεκκίνηση του { -brand-short-name }
 quickactions-cmd-restart = επανεκκίνηση
 # Opens the screenshot tool
-quickactions-screenshot2 = Λήψη στιγμιότυπου
-# Opens the screenshot tool
 quickactions-screenshot3 = Λήψη στιγμιότυπου
 quickactions-cmd-screenshot = στιγμιότυπο
-# Opens about:preferences
-quickactions-settings = Άνοιγμα ρυθμίσεων
 # Opens about:preferences
 quickactions-settings2 = Διαχείριση ρυθμίσεων
 quickactions-cmd-settings = ρυθμίσεις, προτιμήσεις, επιλογές
@@ -344,8 +328,6 @@ quickactions-cmd-themes = θέματα
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ενημέρωση του { -brand-short-name }
 quickactions-cmd-update = ενημέρωση
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Προβολή πηγής
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Προβολή πηγαίου κώδικα σελίδας
 quickactions-cmd-viewsource = προβολή πηγής, πηγαίος κώδικας
@@ -972,6 +954,7 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-relay = Το { -relay-brand-name } κρύβει την πραγματική σας διεύθυνση email για να σας προστατεύσει από παραβιάσεις δεδομένων και ανεπιθύμητα μηνύματα.
+firefox-relay-offer-how-we-integrate = Αν συνεχίσετε, θα μπορείτε να δημιουργήσετε νέες μάσκες email του { -relay-brand-short-name } απευθείας από τη διαχείριση κωδικών πρόσβασης του { -brand-shorter-name }.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages

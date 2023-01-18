@@ -16,6 +16,7 @@ firefox-relay-get-reusable-masks-failed = Το { -relay-brand-name } δεν μπ
 firefox-relay-get-unlimited-masks =
     .label = Διαχείριση μασκών
     .accesskey = Δ
+firefox-relay-opt-in-subtitle = Προσθήκη του { -relay-brand-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Συνέχεια
     .accesskey = Σ
