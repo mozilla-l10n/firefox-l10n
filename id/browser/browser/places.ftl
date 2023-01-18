@@ -113,13 +113,13 @@ places-forget-about-this-site-confirmation-title = Lupakan situs ini
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Tindakan ini akan menghapus semua data yang terkait dengan { $hostOrBaseDomain } termasuk riwayat, sandi, kuki, tembolok, dan preferensi konten. Yakin ingin melanjutkan?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Tindakan ini akan menghapus data yang terkait dengan { $hostOrBaseDomain } termasuk riwayat, kuki, tembolok, dan preferensi konten. Sandi dan markah terkait tidak akan dihapus. Yakin ingin melanjutkan?
 places-forget-about-this-site-forget = Lupakan
 places-library =
     .title = Pustaka
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Pustaka
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Pustaka
 places-organize-button =
