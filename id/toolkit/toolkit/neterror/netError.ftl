@@ -53,7 +53,12 @@ neterror-dns-not-found-hint-firewall = Periksa apakah { -brand-short-name } memi
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } tidak dapat melindungi permintaan Anda untuk alamat situs ini melalui resolusi DNS yang terpercaya kami. Alasannya adalah sebagai berikut:
+neterror-dns-not-found-trr-only-attackers = Jika Anda melanjutkan, pihak ketiga mungkin dapat melihat situs web apa yang Anda kunjungi atau mengarahkan Anda ke situs yang tidak tepercaya.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } tidak dapat terhubung ke { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Sambungan ke { $trrDomain } memakan waktu lebih lama dari yang diharapkan.
 neterror-dns-not-found-trr-offline = Anda tidak tersambung ke internet.
+neterror-dns-not-found-trr-unknown-host = Alamat untuk situs web ini tidak ditemukan oleh { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Ada masalah dengan { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Kesalahan tak terduga.
 
