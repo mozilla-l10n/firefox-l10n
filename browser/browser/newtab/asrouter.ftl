@@ -74,6 +74,7 @@ cfr-cookie-banner-accept-button-variant-1 = Felugró ablakok eltüntetése
 cfr-cookie-banner-reject-button-variant-1 = Köszönöm, nem
     .accesskey = n
 cfr-cookie-banner-handling-header-variant-2 = Sütibannerek számának csökkentése
+cfr-cookie-banner-handling-body-variant-2 = Engedélyezi a { -brand-short-name } számára, hogy ha lehetséges, akkor elutasítsa a webhelyek sütikhez való hozzájárulási kéréseit, vagy elfogadja azokat, ha ez nem lehetséges?
 cfr-cookie-banner-accept-button-variant-2 = Engedélyezés
     .accesskey = E
 cfr-cookie-banner-reject-button-variant-2 = Most nem
