@@ -8,13 +8,19 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } tidak dapat menghasilkan topeng baru. Kode kesalahan HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } tidak dapat menemukan topeng yang dapat digunakan kembali. Kode kesalahan HTTP: { $status }.
 
 ##
 
 firefox-relay-must-login-to-fxa = Anda harus masuk ke { -fxaccount-brand-name } untuk menggunakan { -relay-brand-name }.
+firefox-relay-get-unlimited-masks =
+    .label = Kelola topeng
+    .accesskey = t
 firefox-relay-opt-in-title = Lindungi alamat email Anda
 firefox-relay-opt-in-subtitle = Tambahkan { -relay-brand-name }
 firefox-relay-generate-mask-title = Lindungi alamat email Anda
+firefox-relay-generate-mask-subtitle = Buat topeng { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Lanjutkan
     .accesskey = L

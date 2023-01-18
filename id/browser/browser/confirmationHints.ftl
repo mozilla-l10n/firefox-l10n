@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Sandi disimpan!
 confirmation-hint-pin-tab = Disematkan!
 confirmation-hint-pin-tab-description = Klik kanan tab untuk melepaskan sematan.
 confirmation-hint-send-to-device = Terkirim!
+confirmation-hint-firefox-relay-mask-generated = Masker { -relay-brand-short-name } baru dibuat!
