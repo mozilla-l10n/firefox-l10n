@@ -57,6 +57,20 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } χρήστες
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-accept-button = Απόρριψη αιτημάτων
+    .accesskey = Α
+cfr-cookie-banner-reject-button = Όχι τώρα
+    .accesskey = χ
+cfr-cookie-banner-accept-button-variant-1 = Απόρριψη αναδυόμενων παραθύρων
+    .accesskey = Α
+cfr-cookie-banner-reject-button-variant-1 = Όχι, ευχαριστώ
+    .accesskey = χ
+cfr-cookie-banner-handling-header-variant-2 = Μείωση μπάνερ cookie
+cfr-cookie-banner-reject-button-variant-2 = Όχι τώρα
+    .accesskey = χ
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
@@ -155,10 +169,6 @@ spotlight-total-cookie-protection-body = Η Ολική προστασία cookie
 spotlight-total-cookie-protection-expanded = Το { -brand-short-name } δημιουργεί έναν φράχτη προστασίας γύρω από τα cookie, περιορίζοντάς τα στον ιστότοπο όπου βρίσκεστε, ώστε οι ιχνηλάτες να μην μπορούν να τα χρησιμοποιήσουν για να σας ακολουθήσουν. Με την πρώιμη πρόσβαση, θα βοηθήσετε στη βελτιστοποίηση αυτής της λειτουργίας, ώστε να συνεχίσουμε να δημιουργούμε ένα καλύτερο διαδίκτυο για όλους.
 spotlight-total-cookie-protection-primary-button = Ενεργοποίηση ολικής προστασίας cookie
 spotlight-total-cookie-protection-secondary-button = Όχι τώρα
-cfr-total-cookie-protection-header = Χάρη σε εσάς, το { -brand-short-name } είναι πιο ιδιωτικό και ασφαλές από ποτέ
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Η Ολική προστασία cookie είναι η ισχυρότερη προστασία απορρήτου μέχρι σήμερα – και αποτελεί πλέον προεπιλεγμένη ρύθμιση για όλους τους χρήστες του { -brand-short-name }. Δεν θα το είχαμε καταφέρει χωρίς την πρώιμη πρόσβαση από συμμετέχοντες, όπως εσείς. Ευχαριστούμε λοιπόν που μας βοηθήσατε να δημιουργήσουμε ένα καλύτερο, πιο ιδιωτικό διαδίκτυο.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +215,6 @@ firefoxview-cfr-primarybutton = Δοκιμή
     .accesskey = Δ
 firefoxview-cfr-secondarybutton = Όχι τώρα
     .accesskey = χ
-firefoxview-cfr-header = Λάβετε πρόσφατα κλεισμένες καρτέλες με την { -firefoxview-brand-name }
-firefoxview-cfr-body = Επιπλέον, κάντε απρόσκοπτη εναλλαγή μεταξύ συσκευών και προσθέστε μια πινελιά χρώματος στο πρόγραμμα περιήγησής σας.
 firefoxview-cfr-header-v2 = Συνεχίστε γρήγορα από εκεί που σταματήσατε
 firefoxview-cfr-body-v2 = Βρείτε ξανά τις καρτέλες που έκλεισαν πρόσφατα και κάντε απρόσκοπτη εναλλαγή μεταξύ συσκευών με την { -firefoxview-brand-name }.
 
@@ -228,3 +236,8 @@ colorways-cfr-header-28days = Οι χρωματικοί συνδυασμοί «�
 colorways-cfr-header-14days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν σε δύο εβδομάδες
 colorways-cfr-header-7days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν αυτήν την εβδομάδα
 colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν σήμερα
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Πάντα στο πλευρό σας
+july-jam-body = Κάθε μήνα, το { -brand-short-name } αποκλείει κατά μέσο όρο 3.000+ ιχνηλάτες ανά χρήστη, παρέχοντάς σας ασφαλή και γρήγορη πρόσβαση στο διαδίκτυο.
