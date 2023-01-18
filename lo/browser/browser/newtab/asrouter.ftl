@@ -60,6 +60,7 @@ cfr-cookie-banner-handling-header-variant-1 = ເບິ່ງປັອບອັ�
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-link-text = ຊິ້ງຂໍ້ມູນບຸກມາກດຽວນີ້...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ປຸ່ມປິດ
     .title = ປິດ
