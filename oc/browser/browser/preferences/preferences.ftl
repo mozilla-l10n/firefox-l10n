@@ -424,7 +424,7 @@ performance-settings-learn-more = Ne saber mai
 performance-allow-hw-accel =
     .label = Utilisar l'acceleracion grafica materiala se disponibla
     .accesskey = n
-performance-limit-content-process-option = Limita del procediment del contengut
+performance-limit-content-process-option = Limit del procediment del contengut
     .accesskey = L
 performance-limit-content-process-enabled-desc = De procediments de contengut suplementaris pòdon melhorar las performanças en utilizant d'onglets multiples, pasmens aquò utiliza mai de memòria.
 performance-limit-content-process-blocked-desc = Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de { -brand-short-name }. <a data-l10n-name="learn-more">Aprendre a verificar se de multiprocediments son activats</a>
