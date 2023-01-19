@@ -15,7 +15,8 @@ login-filter =
     .placeholder = Cerca nelle credenziali
 
 create-login-button = Inserisci nuove credenziali
-
+create-new-login-button =
+  .title = Inserisci nuove credenziali
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
 fxaccounts-sign-in-sync-button = Accedi per sincronizzare
 fxaccounts-avatar-button =
