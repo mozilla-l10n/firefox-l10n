@@ -82,7 +82,7 @@ show-dir-label =
     { PLATFORM() ->
         [macos] Mostrar dins lo Finder
         [windows] Dobrir lo dossièr
-       *[other] Dobrir lo dossièr correspondent
+       *[other] Dobrir lo repertòri
     }
 environment-variables-title = Variablas d’environament
 environment-variables-name = Nom
