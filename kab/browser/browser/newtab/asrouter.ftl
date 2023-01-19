@@ -57,6 +57,13 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } iseqdacen
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-reject-button = Mačči tura
+    .accesskey = M
+cfr-cookie-banner-reject-button-variant-1 = Ala tanemmirt
+    .accesskey = t
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Mtawi ticraḍ n yisebter ar wanida tebɣiḍ.
@@ -156,10 +163,6 @@ spotlight-total-cookie-protection-body = Ammesten asemday mgal y inagan n tuqqna
 spotlight-total-cookie-protection-expanded = { -brand-short-name } itegg zzeṛb i yinagan n tuqqna, it eǧǧ-asen talast deg usmel ideg telliḍ i wakken ur ten-sseqdacen ara ineḍfaren. S unekcum zik, ad ak•akem-iɛawen deg usesfer n tmahilt-a, akka ad nessiweḍ ad nebnu web igerrzen i yal yiwen.
 spotlight-total-cookie-protection-primary-button = Rmed ammesten asemday mgal inagan n tuqqna
 spotlight-total-cookie-protection-secondary-button = Mačči tura
-cfr-total-cookie-protection-header = Tanemmirt, { -brand-short-name } d uslig, d aɣellsan ugar ɣef wayen iɛeddan
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Ammesten asemday mgal inagan n tuqqna d aswir n ummesten afellay i nettmuddu i tudert-ik·im tabaḍnit akka ar tura – tura yuɣal d aɣewwar s wudem amezwer i yiseqdacen n { -brand-short-name } deg meṛṛa amaḍal. Ur nezmir ara ad nessiweḍ ɣer waya lukan ulac imttekkiyen ɣef zik lḥal akka am kečč·kemm. Tanemmirt ɣef tallalt-ik·im i usnulfu n Internet igerrzen, uslig ugar.
 
 ## Emotive Continuous Onboarding
 
@@ -217,3 +220,6 @@ firefoxview-spotlight-promo-secondarybutton = Suref
 
 colorways-cfr-primarybutton = Fren afran n yiniten
     .accesskey = F
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
