@@ -30,7 +30,7 @@ warningDesc-version = { -brand-short-name } jest wersją rozwojową programu i�
 aboutdialog-help-user = Pomoc programu { -brand-product-name }
 aboutdialog-submit-feedback = Prześlij swoją opinię
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> jest <label data-l10n-name="community-exp-creditsLink">globalną społecznością</label>, starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.
-community-2 = { -brand-short-name } został opracowany przez <label data-l10n-name="community-mozillaLink">{ -vendor-short-name(case: "gen") }</label>, która jest <label data-l10n-name="community-creditsLink">globalną społecznością</label>, starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.
+community-2 = { -brand-short-name } został opracowany przez <label data-l10n-name="community-mozillaLink">{ -vendor-short-name(case: "acc") }</label>, która jest <label data-l10n-name="community-creditsLink">globalną społecznością</label>, starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.
 helpus = Chcesz pomóc? <label data-l10n-name="helpus-donateLink">Przekaż datek</label> lub <label data-l10n-name="helpus-getInvolvedLink">dołącz do nas</label>.
 bottomLinks-license = Informacje licencyjne
 bottomLinks-rights = Prawa użytkownika
