@@ -62,16 +62,19 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = ¡Kookie ñe’ẽmondo ohóma!
+cfr-cookie-banner-handling-body = Emoneĩ { -brand-short-name } omboykévo ijehegui kookie ñe’ẽmondo mba’ejerure, ikatu vove. Péicha ndoikóiramo, oñemoneĩta opaite kookie oñemboykeve hag̃ua ñe’ẽmondo.
 cfr-cookie-banner-accept-button = Emboyke mba’ejerure
     .accesskey = D
 cfr-cookie-banner-reject-button = Ani ko’ág̃a
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = Ehecha’ive kookie ovetã iñapysẽva
+cfr-cookie-banner-handling-body-variant-1 = Eheja { -brand-short-name } tombohovái ijehegui kookie rovetã iñapysẽva ikatu hag̃uáicha eikundaha apañuãi’ỹre. { -brand-short-name } omboykéta opaite mba’ejerure ikatúramo, térã, omoneĩmbaitéta.
 cfr-cookie-banner-accept-button-variant-1 = Emboyke ovetã iñapysẽva
     .accesskey = D
 cfr-cookie-banner-reject-button-variant-1 = Nahániri, aguyje
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Kookie ñe’ẽmondo ñemomichĩ
+cfr-cookie-banner-handling-body-variant-2 = ¿Emoneĩ { -brand-short-name } tomboyke kookie ñe’ẽmondo mba’ejerure tendagua ikatúrõ. Térã emoneĩ kookiepe jeike ikatu vove?
 cfr-cookie-banner-accept-button-variant-2 = Moneĩ
     .accesskey = A
 cfr-cookie-banner-reject-button-variant-2 = Ani ko’ág̃a
