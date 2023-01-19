@@ -57,6 +57,7 @@ cfr-cookie-banner-accept-button = ປິດການຮ້ອງຂໍ
 cfr-cookie-banner-reject-button = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = ເບິ່ງປັອບອັບຄຸກກີໜ້ອຍລົງ
+cfr-cookie-banner-handling-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
 
 ## Firefox Accounts Message
 
@@ -169,6 +170,8 @@ mr2022-background-update-toast-secondary-button-label = ເຕືອນຂ້ອ
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = ລອງ​ເບິ່ງ
+    .accesskey = T
 firefoxview-cfr-secondarybutton = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 

@@ -8,6 +8,8 @@
 newtab-page-title = ແທັບໃຫມ່
 newtab-settings-button =
     .title = ປັບແຕ່ງຫນ້າແທັບໃຫມ່ຂອງທ່ານ
+newtab-personalize-dialog-label =
+    .aria-label = ປັບແຕ່ງສ່ວນຕົວ
 
 ## Search box component.
 
@@ -15,6 +17,9 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ຊອກ​ຫາ
     .aria-label = ຊອກ​ຫາ
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = ຊອກຫາດ້ວຍ { $engine } ຫຼື ໃສ່ທີ່ຢູ່
 
 ## Top Sites - General form dialog.
 
