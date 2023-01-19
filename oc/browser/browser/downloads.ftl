@@ -31,8 +31,8 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
-            [macos] Mostrar dins lo dossièr
-           *[other] Mostrar dins lo Finder
+            [macos] Mostrar dins lo Finder
+           *[other] Mostrar dins lo dossièr
         }
     .accesskey = M
 
