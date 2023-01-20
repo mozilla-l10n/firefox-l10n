@@ -63,6 +63,10 @@ cfr-cookie-banner-reject-button = Mačči tura
     .accesskey = M
 cfr-cookie-banner-reject-button-variant-1 = Ala tanemmirt
     .accesskey = t
+cfr-cookie-banner-accept-button-variant-2 = Sireg
+    .accesskey = S
+cfr-cookie-banner-reject-button-variant-2 = Mačči tura
+    .accesskey = M
 
 ## Firefox Accounts Message
 
