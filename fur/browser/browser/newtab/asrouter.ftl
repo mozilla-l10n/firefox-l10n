@@ -57,6 +57,24 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utents
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Vonde strissons pai cookies!
+cfr-cookie-banner-handling-body = Permet a { -brand-short-name } di refudâ in automatic dutis lis richiestis dai strissons pai cookies, se pussibil. In câs contrari, a vignaran acetâts ducj i cookies par sierâ ulteriôrs strissons.
+cfr-cookie-banner-accept-button = Refude lis richiestis
+    .accesskey = d
+cfr-cookie-banner-reject-button = No cumò
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Viôt mancul ricuadris a comparse pai cookies
+cfr-cookie-banner-handling-body-variant-1 = Lasse che { -brand-short-name } al rispuindi in automatic par te ai ricuadris a comparse pai cookies, cussì di podê tornâ a navigâ cence distrazions. { -brand-short-name } al refudarà dutis lis richiestis se pussibil, o lis acetarà dutis se nol rive a refudâlis.
+cfr-cookie-banner-accept-button-variant-1 = Siere ricuadris a comparse
+    .accesskey = d
+cfr-cookie-banner-reject-button-variant-1 = No, graciis
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Riduzion strissons pai cookies
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizie i tiei segnelibris dapardut.
@@ -156,10 +174,6 @@ spotlight-total-cookie-protection-body = Protezion Totâl dai Cookies e ferme i 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } al costruìs une stangjaçade tor ator dai cookies, limitantju al lôr sît, cussì che i spions (tracker) no rivin a doprâju par stâti daûr. Cun l'acès anticipât, tu judarâs a otimizâ cheste funzionalitât cussì che o rivìn a continuâ il nestri lavôr par costruî un web miôr par ducj.
 spotlight-total-cookie-protection-primary-button = Ative la Protezion Totâl dai Cookies
 spotlight-total-cookie-protection-secondary-button = No cumò
-cfr-total-cookie-protection-header = In gracie dal to jutori, { -brand-short-name } al è plui riservât e sigûr di simpri
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = La Protezion Totâl dai Cookies e je la nestre plui valevule protezion pe riservatece mai realizade – e cumò e je une impostazion predefinide pai utents di { -brand-short-name } di dut il mont. Chest no lu podevin fâ cence il contribût di personis come te, che a àn decidût di provâ in anteprime cheste funzionalitât. Duncje graciis di judânus a creâ un internet miôr e plui riservât.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +220,6 @@ firefoxview-cfr-primarybutton = Provilu
     .accesskey = P
 firefoxview-cfr-secondarybutton = No cumò
     .accesskey = N
-firefoxview-cfr-header = Ripie lis schedis sieradis di resint cun { -firefoxview-brand-name }
-firefoxview-cfr-body = In plui, passe cence fastidis di un dispositîf a chel altri e da une man di colôr al to navigadôr.
 firefoxview-cfr-header-v2 = Intun lamp ripie di dulà che tu jeris restât
 firefoxview-cfr-body-v2 = Recupere lis schedis sieradis di resint e passe in mût svelt di un dispositîf a chel altri cun { -firefoxview-brand-name }.
 
@@ -229,3 +241,6 @@ colorways-cfr-header-28days = Lis tonalitâts des vôs indipendentis a scjadin a
 colorways-cfr-header-14days = Lis tonalitâts des vôs indipendentis a scjadin chi di dôs setemanis
 colorways-cfr-header-7days = Lis tonalitâts des vôs indipendentis a scjadin cheste setemane
 colorways-cfr-header-today = Lis tonalitâts des vôs indipendentis a scjadin vuê
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
