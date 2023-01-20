@@ -31,6 +31,14 @@ rights-intro-point-6 =
     Par podê riprodusi cierts gjenars di contignûts video, { -brand-short-name }
     al discjame cierts modui di decriptazion dal contignût che a rivin di tiercis parts.
 rights-webservices-header = Servizis di informazion basâts sul web di { -brand-full-name }
+rights-webservices =
+    { -brand-full-name } al dopre servizis di informazion basâts sul web (“Servizis”)
+    distribuîts cun cheste version dal eseguibil di { -brand-short-name } par dâ
+    cualchidune des funzionalitâts furnidis pal to ûs personâl, tai tiermins descrits
+    chi sot. Se no tu desideris un o plui di chei Servizis o no tu acetis i tiermins
+    di utilizazion, tu puedis disabilitâ la funzion o il/i Servizi(s). Al è pussibil cjatâ
+    lis istruzions su cemût disabilitâ une particolâr funzion o Servizi <a data-l10n-name="mozilla-disable-service-link">achì</a>.
+    Tes preferencis de aplicazion al è pussibil disativâ altris funzions o Servizis.
 rights-safebrowsing =
     <strong>Navigazion sigure: </strong>La disativazion de navigazion sigure no je
     conseade viodût che ti permet di visitâ sîts malsigûrs. Se tu desideris disativâ
@@ -53,6 +61,14 @@ rights-webservices-unbranded =
     istruzions su cemût disativâju (se aplicabil), a varessin di jessi includudis
     achì.
 rights-webservices-term-unbranded = Cualsisei tiermin di servizi aplicabil par chest prodot al varès di jessi elencât culì.
+rights-webservices-term-1 =
+    { -vendor-short-name } e i siei colaboradôrs, i licenziataris e i compagns si
+    impegnin a dâ fûr i servizis tal mût plui curât e inzornât pussibil. Dut câs, no
+    podìn garantî la completece e la afidabilitât di chês informazions. Par esempli,
+    Il servizi pe Navigazion sigure al podarès no rivâ a identificâ un sît pericolôs
+    e al podarès identificâ tant che pericolôs un sît sigûr. In plui lis posizions dadis
+    dal servizi di navigazion gjeolocalizade a son stimis dadis dai nestris furnidôrs,
+    duncje ni nô ni i nestris furnidôrs a puedin garantî la precision di chescj dâts.
 rights-webservices-term-2 = { -vendor-short-name } al pues fermâ o cambiâ i Servizis a sô discrezion.
 rights-webservices-term-4 = <strong>I Servizis a son furnîts "as-is."  { -vendor-short-name }, chei che a àn contribuît, i licenziataris e i distributôrs a dinein dutis lis garanziis, sei esplicitis sei implicitis, includint cence limitazion lis garanziis che i Servizis a son vendibii e adats pai tiei specifics fins. Tu âs dut il riscjo te selezion dai Servizis pai tiei fins e pe cualitât e pes prestazions dai Servizis. Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.</strong>
 rights-webservices-term-5 = <strong>Fûr che pai recuisîts di leç, { -vendor-short-name }, chei che a àn contribuît, i licenziataris e i distributôrs no saran persegubii par cualsisei dam indiret, speciâl, incidentâl, conseguenziâl, punitîf o esemplâr che al ves di vignî fûr di o leât in cualsisei mût al ûs di { -brand-short-name } e dai Servizis. La perseguibilitât coletive sot di chescj tiermins no sarà plui di $500 (cinc cent dolars). Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.</strong>

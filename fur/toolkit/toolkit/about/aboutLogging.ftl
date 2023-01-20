@@ -2,12 +2,55 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## The following feature name must be treated as a brand.
+##
+## They cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
+-profiler-brand-name = Firefox Profiler
+
+##
+
+# This is the title of the page
+about-logging-title = Informazion sui regjistris
+about-logging-page-title = Gjestôr regjistrazions
 about-logging-current-log-file = File di regjistri atuâl:
 about-logging-current-log-modules = Modui di regjistri atuai:
+about-logging-new-log-file = Gnûf file di regjistri:
+about-logging-currently-enabled-log-modules = Modui di regjistrazion atualmentri abilitâts:
 about-logging-log-tutorial = Viôt <a data-l10n-name="logging">HTTP Logging</a> par otignî istruzions su cemût doprâ chest strument.
+# This message is used as a button label, "Open" indicates an action.
+about-logging-open-log-file-dir = Vierç cartele
 about-logging-set-log-file = Imposte file di regjistri
 about-logging-set-log-modules = Imposte modui di regjistri
 about-logging-start-logging = Comence regjistri
 about-logging-stop-logging = Ferme regjistri
+about-logging-info = Informazions:
+about-logging-log-modules-selection = Selezion modui di regjistrazion
+about-logging-new-log-modules = Gnûfs modui di regjistrazion:
+about-logging-logging-to-file = Regjistrazion suntun file
+about-logging-logging-to-profiler = Regjistrazion su { -profiler-brand-name }
+about-logging-no-log-modules = Nissun
+about-logging-no-log-file = Nissun
+about-logging-logging-preset-selector-text = Pre-configurazion di regjistrazion:
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+about-logging-preset-networking-label = Rêt
+about-logging-preset-custom-label = Personalizadis
+# Error handling
+about-logging-error = Erôr:
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+
+about-logging-configured-via-url = Opzion configurade midiant URL
