@@ -57,6 +57,29 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuarios
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = ¡Se acabaron los banners de cookies!
+cfr-cookie-banner-handling-body = Permite que { -brand-short-name } rechace automáticamente todas las solicitudes de los anuncios de cookies, cuando sea posible. De lo contrario, se aceptarán todas las cookies para ocultar aún más anuncios.
+cfr-cookie-banner-accept-button = Descartar solicitudes
+    .accesskey = D
+cfr-cookie-banner-reject-button = Ahora no
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Ver menos ventanas emergentes de cookies
+cfr-cookie-banner-handling-body-variant-1 = Deja que { -brand-short-name } responda automáticamente las ventanas emergentes de cookies para que puedas volver a navegar sin distracciones. { -brand-short-name } rechazará todas las solicitudes si es posible, o aceptará todas si no.
+cfr-cookie-banner-accept-button-variant-1 = Descartar ventanas emergentes
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = No, gracias
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reducción de anuncios de cookies
+cfr-cookie-banner-handling-body-variant-2 = ¿Permitir que { -brand-short-name } rechace la solicitud de consentimiento de cookies de un sitio si es posible o acepte las cookies cuando no sea posible?
+cfr-cookie-banner-accept-button-variant-2 = Permitir
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = Ahora no
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza tus marcadores en cualquier lugar.
@@ -156,10 +179,6 @@ spotlight-total-cookie-protection-body = La protección total contra cookies evi
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construye un cerco alrededor de tus cookies, limitándolas al sitio en el que estás, para que los rastreadores no las puedan usar para seguirte. Con el acceso anticipado, ayudarás a optimizar esta funcionalidad para que sigamos construyendo una mejor web para todos.
 spotlight-total-cookie-protection-primary-button = Activar la protección total contra cookies
 spotlight-total-cookie-protection-secondary-button = Ahora no
-cfr-total-cookie-protection-header = Gracias a ti, { -brand-short-name } es más privado y seguro que nunca
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = La protección total contra cookies es nuestra protección de privacidad más fuerte a la fecha y ahora es el ajuste predeterminado para los usuarios de { -brand-short-name }. No podríamos haberlo logrado sin participantes de acceso temprano como tu. Por lo que te agradecemos por ayudarnos a crear un internet mejor y más privado.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +225,6 @@ firefoxview-cfr-primarybutton = Inténtalo
     .accesskey = T
 firefoxview-cfr-secondarybutton = Ahora no
     .accesskey = N
-firefoxview-cfr-header = Recupera las pestañas cerradas recientemente con { -firefoxview-brand-name }
-firefoxview-cfr-body = Además, salta sin problemas entre dispositivos y agrega un toque de color a tu navegador.
 firefoxview-cfr-header-v2 = Continúa rápidamente donde quedaste
 firefoxview-cfr-body-v2 = Recupera las pestañas cerradas recientemente y salta sin problemas entre dispositivos con { -firefoxview-brand-name }.
 
@@ -229,3 +246,9 @@ colorways-cfr-header-28days = Las combinaciones de colores de Independent Voices
 colorways-cfr-header-14days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles en dos semanas
 colorways-cfr-header-7days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles esta semana
 colorways-cfr-header-today = Las combinaciones de colores de Independent Voices dejarán de estar disponibles hoy
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Nosotros te protegemos
+july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3000 rastreadores por usuario, lo que le brinda un acceso rápido y seguro a Internet.
+july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
