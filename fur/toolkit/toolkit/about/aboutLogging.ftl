@@ -65,4 +65,5 @@ about-logging-unknown-logging-preset = Pre-configurazion di regjistrazion “{ $
 about-logging-unknown-profiler-preset = Pre-configurazion dal profiladôr “{ $v }“ no cognossude
 about-logging-unknown-option = Opzion di about:logging “{ $k }“ no cognossude
 about-logging-configuration-url-ignored = URL di configurazion ignorât
+about-logging-file-and-profiler-override = Impussibil sfuarçâ il file di jessude e tal stes timp passâ parsore aes opzions dal profiladôr
 about-logging-configured-via-url = Opzion configurade midiant URL
