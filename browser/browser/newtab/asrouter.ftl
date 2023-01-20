@@ -59,6 +59,29 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } používateľov
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Bannery k súborom cookie sú preč!
+cfr-cookie-banner-handling-body = Ak je to možné, { -brand-short-name } môže automaticky odmietnuť všetky požiadavky na bannery súborov cookie. V opačnom prípade budú akceptované všetky súbory cookie, aby sa zrušilo ešte viac bannerov.
+cfr-cookie-banner-accept-button = Odmietnuť žiadosti
+    .accesskey = d
+cfr-cookie-banner-reject-button = Teraz nie
+    .accesskey = T
+cfr-cookie-banner-handling-header-variant-1 = Uvidíte menej vyskakovacích okien súborov cookie
+cfr-cookie-banner-handling-body-variant-1 = Nechajte { -brand-short-name } automaticky odpovedať na vyskakovacie okná súborov cookie za vás, aby ste sa mohli vrátiť k prehliadaniu bez rozptyľovania. { -brand-short-name } odmietne všetky požiadavky, ak je to možné. Ak to možné nie je, akceptuje ich.
+cfr-cookie-banner-accept-button-variant-1 = Zavrieť vyskakovacie okná
+    .accesskey = Z
+cfr-cookie-banner-reject-button-variant-1 = Nie, ďakujem
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Zníženie počtu bannerov súborov cookie
+cfr-cookie-banner-handling-body-variant-2 = Povoliť aplikácii { -brand-short-name } odmietnuť žiadosť stránky o súhlas so súbormi cookie, ak je to možné, alebo akceptovať prístup k súborom cookie, ak to nie je možné?
+cfr-cookie-banner-accept-button-variant-2 = Povoliť
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Teraz nie
+    .accesskey = T
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Majte svoje záložky všade so sebou.
@@ -159,10 +182,6 @@ spotlight-total-cookie-protection-body = Úplná ochrana súborov cookie bráni 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } vytvára virtuálny plot okolo súborov cookie a obmedzuje ich na stránku, na ktorej sa nachádzate, takže sledovači ich nemôžu použiť na to, aby vás sledovali. Vďaka testovaciemu programu nám pomôžete optimalizovať túto funkciu, aby sme mohli naďalej vytvárať lepší web pre všetkých.
 spotlight-total-cookie-protection-primary-button = Zapnúť Úplnú ochranu súborov cookie
 spotlight-total-cookie-protection-secondary-button = Teraz nie
-cfr-total-cookie-protection-header = Vďaka vám je { -brand-short-name } bezpečnejší a zameraný na súkromie viac než kedykoľvek predtým
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Úplná ochrana súborov cookie je naša doteraz najsilnejšia ochrana súkromia – a teraz je predvoleným nastavením pre všetkých používateľov { -brand-short-name(case: "gen") }. Bez účastníkov nášho testovacieho programu ako ste vy by sme to nedokázali. Ďakujeme, že ste nám pomohli vytvoriť lepší a súkromnejší internet.
 
 ## Emotive Continuous Onboarding
 
@@ -209,8 +228,6 @@ firefoxview-cfr-primarybutton = Vyskúšajte ho
     .accesskey = V
 firefoxview-cfr-secondarybutton = Teraz nie
     .accesskey = T
-firefoxview-cfr-header = Získajte späť nedávno zatvorené karty vďaka { -firefoxview-brand-name(case: "dat") }
-firefoxview-cfr-body = Navyše plynulo preskakujte medzi zariadeniami a pridajte do svojho prehliadača nový farebný nádych.
 firefoxview-cfr-header-v2 = Rýchlo pokračujte tam, kde ste skončili
 firefoxview-cfr-body-v2 = Získajte späť nedávno zatvorené karty a navyše plynulo preskakujte medzi zariadeniami vďaka { -firefoxview-brand-name(case: "gen") }.
 
@@ -232,3 +249,9 @@ colorways-cfr-header-28days = Farebná téma Nezávislé hlasy je dostupná už 
 colorways-cfr-header-14days = Farebná téma Nezávislé hlasy je dostupná už len dva týždne
 colorways-cfr-header-7days = Farebná téma Nezávislé hlasy je dostupná už len týždeň
 colorways-cfr-header-today = Farebná téma Nezávislé hlasy je dostupná už len dnes
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Kryjeme vás
+july-jam-body = Každý mesiac { -brand-short-name } zablokuje v priemere viac ako 3 000 sledovacích prvkov na používateľa, čo vám poskytuje bezpečný a rýchly prístup k dobrému internetu.
+july-jam-set-default-primary = Otvárať moje odkazy pomocou { -brand-short-name(case: "gen") }
