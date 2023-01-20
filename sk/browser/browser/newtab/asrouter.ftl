@@ -64,19 +64,19 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Bannery k súborom cookie sú preč!
-cfr-cookie-banner-handling-body = Ak je to možné, { -brand-short-name } môže automaticky odmietnuť všetky požiadavky na bannery súborov cookie. V opačnom prípade budú akceptované všetky súbory cookie, aby sa zrušilo ešte viac bannerov.
+cfr-cookie-banner-handling-body = Ak je to možné, { -brand-short-name } môže automaticky odmietnuť všetky požiadavky o súhlas s používaním súborov cookie zobrazované na banneroch. Ak ich nie je možné odmietnuť, prehliadač ich akceptuje a tým ešte viac zníži počet zobrazených bannerov.
 cfr-cookie-banner-accept-button = Odmietnuť žiadosti
     .accesskey = d
 cfr-cookie-banner-reject-button = Teraz nie
     .accesskey = T
 cfr-cookie-banner-handling-header-variant-1 = Uvidíte menej vyskakovacích okien súborov cookie
-cfr-cookie-banner-handling-body-variant-1 = Nechajte { -brand-short-name } automaticky odpovedať na vyskakovacie okná súborov cookie za vás, aby ste sa mohli vrátiť k prehliadaniu bez rozptyľovania. { -brand-short-name } odmietne všetky požiadavky, ak je to možné. Ak to možné nie je, akceptuje ich.
+cfr-cookie-banner-handling-body-variant-1 = Nechajte { -brand-short-name } automaticky odpovedať na žiadosti o súhlas s používaním súborov cookie za vás, aby ste sa mohli vrátiť k prehliadaniu bez rozptyľovania. { -brand-short-name } odmietne všetky požiadavky, ak je to možné. Ak to možné nie je, akceptuje ich.
 cfr-cookie-banner-accept-button-variant-1 = Zavrieť vyskakovacie okná
     .accesskey = Z
 cfr-cookie-banner-reject-button-variant-1 = Nie, ďakujem
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Zníženie počtu bannerov súborov cookie
-cfr-cookie-banner-handling-body-variant-2 = Povoliť aplikácii { -brand-short-name } odmietnuť žiadosť stránky o súhlas so súbormi cookie, ak je to možné, alebo akceptovať prístup k súborom cookie, ak to nie je možné?
+cfr-cookie-banner-handling-body-variant-2 = Umožnite prehliadaču { -brand-short-name } odmietnuť žiadosti stránky o súhlas s používaním súborov cookie, ak je to možné. Ak to možné nie je, prehliadač tieto žiadosti akceptuje.
 cfr-cookie-banner-accept-button-variant-2 = Povoliť
     .accesskey = P
 cfr-cookie-banner-reject-button-variant-2 = Teraz nie
