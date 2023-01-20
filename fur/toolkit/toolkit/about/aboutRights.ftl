@@ -11,6 +11,11 @@ rights-intro-point-3 =
     tu sielzis di trasmeti chescj dâts, ti garantirâs a { -vendor-short-name } il permès
     par doprâ la tô opinion par miorâ i siei prodots, publicâ il to coment sui siei sîts
     web e distribuî i dâts tirâts dongje.
+rights-intro-point-4 =
+    La modalitât di utilizazion dai dâts personâi, dai coments e dai sugjeriments
+    tirâts dongje di { -vendor-short-name } midiant { -brand-short-name } e je 
+    descrite te<a data-l10n-name="mozilla-privacy-policy-link">Politiche pe
+    riservatece di { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = Cualsisei politiche di privacy relatîf a chest prodot al varès di jessi listât ca.
 rights-webservices-header = Servizis di informazion basâts sul web di { -brand-full-name }
 rights-safebrowsing =
