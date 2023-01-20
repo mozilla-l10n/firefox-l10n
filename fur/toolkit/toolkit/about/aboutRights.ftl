@@ -11,6 +11,15 @@ rights-safebrowsing-term-2 = Selezionâ la sezion Sigurece
 rights-safebrowsing-term-3 = Gjave il segn ae vôs “{ enableSafeBrowsing-label }”
 enableSafeBrowsing-label = Bloche i contignûts pericolôs e ingjanôs
 rights-safebrowsing-term-4 = Di cumò indenant la navigazion sigure e je disativade
+rights-locationawarebrowsing =
+    <strong>Navigazion gjeolocalizade: </strong>e domande simpri une autorizazion esplicite.
+    No vignarà mai mandade nissune informazion su la posizion cence il to permès. Par 
+    disativâ dal dut la funzionalitât, fâs cussì:
+rights-locationawarebrowsing-term-1 = Te sbare de direzion scrîf <code>about:config</code>
+rights-locationawarebrowsing-term-2 = Scrîf geo.enabled
+rights-locationawarebrowsing-term-3 = Fâ dopli clic su la preference geo.enabled
+rights-locationawarebrowsing-term-4 = Di cumò indevant la navigazion gjeolocalizade e je disativade
+rights-webservices-unbranded = Une panoramiche dai servizis web includûts tal prodot, comprindudis lis
 rights-webservices-term-unbranded = Cualsisei tiermin di servizi aplicabil par chest prodot al varès di jessi elencât culì.
 rights-webservices-term-2 = { -vendor-short-name } al pues fermâ o cambiâ i Servizis a sô discrezion.
 rights-webservices-term-4 = <strong>I Servizis a son furnîts "as-is."  { -vendor-short-name }, chei che a àn contribuît, i licenziataris e i distributôrs a dinein dutis lis garanziis, sei esplicitis sei implicitis, includint cence limitazion lis garanziis che i Servizis a son vendibii e adats pai tiei specifics fins. Tu âs dut il riscjo te selezion dai Servizis pai tiei fins e pe cualitât e pes prestazions dai Servizis. Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.</strong>
