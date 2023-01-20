@@ -5,7 +5,18 @@
 rights-title = I tiei dirits
 rights-intro = { -brand-full-name } al è un program a gratis e open source, realizât di une comunitât di miârs di contributôrs che a son a stâ par dut il mont. Ve ca alc che tu varessis di savê:
 rights-intro-point-1 = { -brand-short-name } al è disponibil sot i tiermins dal <a data-l10n-name="mozilla-public-license-link">Mozilla Public License (Licence Publiche di Mozilla) </a>. Chest al vûl dî che tu puedis doprâ, copiâ e distribuî { -brand-short-name } a altris.  Tu puedis ancje modificâ il codiç sorzint di { -brand-short-name } come che tu vuelis seont lis tôs disbisugnis.  Cun di plui la Mozilla Public License ti da il dirit di distribuî lis tôs versions modificadis.
+rights-intro-point-3 =
+    Cualchi funzionalitât in { -brand-short-name },  come la Segnalazion colàs, ti da
+    la pussibilitât di mandâ opinions e sugjeriments a { -vendor-short-name }. Se
+    tu sielzis di trasmeti chescj dâts, ti garantirâs a { -vendor-short-name } il permès
+    par doprâ la tô opinion par miorâ i siei prodots, publicâ il to coment sui siei sîts
+    web e distribuî i dâts tirâts dongje.
 rights-intro-point-4-unbranded = Cualsisei politiche di privacy relatîf a chest prodot al varès di jessi listât ca.
+rights-webservices-header = Servizis di informazion basâts sul web di { -brand-full-name }
+rights-safebrowsing =
+    <strong>Navigazion sigure: </strong>La disativazion de navigazion sigure no je
+    conseade viodût che ti permet di visitâ sîts malsigûrs. Se tu desideris disativâ
+    dal dut la funzionalitât, fâs cussì:
 rights-safebrowsing-term-1 = Vierç lis preferencis de aplicazion
 rights-safebrowsing-term-2 = Selezionâ la sezion Sigurece
 rights-safebrowsing-term-3 = Gjave il segn ae vôs “{ enableSafeBrowsing-label }”
@@ -19,7 +30,10 @@ rights-locationawarebrowsing-term-1 = Te sbare de direzion scrîf <code>about:co
 rights-locationawarebrowsing-term-2 = Scrîf geo.enabled
 rights-locationawarebrowsing-term-3 = Fâ dopli clic su la preference geo.enabled
 rights-locationawarebrowsing-term-4 = Di cumò indevant la navigazion gjeolocalizade e je disativade
-rights-webservices-unbranded = Une panoramiche dai servizis web includûts tal prodot, comprindudis lis
+rights-webservices-unbranded =
+    Une panoramiche dai servizis web includûts tal prodot, comprindudis lis
+    istruzions su cemût disativâju (se aplicabil), a varessin di jessi includudis
+    achì.
 rights-webservices-term-unbranded = Cualsisei tiermin di servizi aplicabil par chest prodot al varès di jessi elencât culì.
 rights-webservices-term-2 = { -vendor-short-name } al pues fermâ o cambiâ i Servizis a sô discrezion.
 rights-webservices-term-4 = <strong>I Servizis a son furnîts "as-is."  { -vendor-short-name }, chei che a àn contribuît, i licenziataris e i distributôrs a dinein dutis lis garanziis, sei esplicitis sei implicitis, includint cence limitazion lis garanziis che i Servizis a son vendibii e adats pai tiei specifics fins. Tu âs dut il riscjo te selezion dai Servizis pai tiei fins e pe cualitât e pes prestazions dai Servizis. Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.</strong>
