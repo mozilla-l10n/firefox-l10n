@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Gestor de processos
-
 # The Actions column
 about-processes-column-action =
     .title = Accions
@@ -27,14 +26,21 @@ about-processes-column-cpu-total = CPU
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Fitxers ({ $pid })
 about-processes-extension-process = Extensions ({ $pid })
+about-processes-plugin-process = Connectors ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-socket-process = Xarxa ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Altres: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
 
 ## Details within processes
 
@@ -44,6 +50,7 @@ about-processes-socket-process = Xarxa ({ $pid })
 about-processes-tab-name = Pestanya: { $name }
 
 ## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:
