@@ -7,6 +7,7 @@
 ###         update the list in mozIntl.js.
 
 region-name-ad = Andorra
+region-name-ae = Emirâts Araps Unîts
 region-name-af = Afghanistan
 region-name-ag = Antigua e Barbuda
 region-name-ai = Anguilla
@@ -29,8 +30,11 @@ region-name-bg = Bulgarie
 region-name-bh = Bahrain
 region-name-bi = Burundi
 region-name-bj = Benin
+region-name-bl = Saint Barthélemy
 region-name-bm = Bermuda
+region-name-bn = Brunei
 region-name-bo = Bolivie
+region-name-bq = Paîs Bas Caraibics
 region-name-br = Brasîl
 region-name-bt = Bhutan
 region-name-bv = Isule Bouvet
