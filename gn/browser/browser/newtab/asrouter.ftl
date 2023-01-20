@@ -249,4 +249,5 @@ colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojepuruku
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Roguereko ñemo’ãpe
+july-jam-body = Peteĩteĩva jasýpe, { -brand-short-name } ojoko hetave 3,000 tapykuehoha puruháragui, ome’ẽva jeike pya’e ha tekorosã Ñandutípe.
 july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
