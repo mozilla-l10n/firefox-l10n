@@ -242,15 +242,11 @@ search-one-offs-actions =
 quickactions-addons = ເບິ່ງ Add-ons
 quickactions-cmd-addons2 = ສ່ວນເສີມ
 # Opens the bookmarks library window
-quickactions-bookmarks = ເບິ່ງບຸກມາກ
-# Opens the bookmarks library window
 quickactions-bookmarks2 = ຈັດການບຸກມາກ
 quickactions-cmd-bookmarks = ບຸກມາກ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ລຶບລ້າງປະຫວັດ
 quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການໃຊ້ງານ
-# Opens about:downloads page
-quickactions-downloads = ເປີດການດາວໂຫຼດ
 # Opens about:downloads page
 quickactions-downloads2 = ເບິ່ງການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
@@ -258,12 +254,8 @@ quickactions-cmd-downloads = ດາວໂຫລດ
 quickactions-extensions = ຈັດການສ່ວນເສີມ
 quickactions-cmd-extensions = ສ່ວນເສີມ
 # Opens the devtools web inspector
-quickactions-inspector = ເປີດ Inspector
-# Opens the devtools web inspector
 quickactions-inspector2 = ເປີດເຄື່ອງມືນັກພັດທະນາ
 quickactions-cmd-inspector = ຜູ້ກວດກາ, devtools
-# Opens about:logins
-quickactions-logins = ເບິ່ງການເຂົ້າສູ່ລະບົບ
 # Opens about:logins
 quickactions-logins2 = ຈັດການລະຫັດຜ່ານ
 quickactions-cmd-logins = ເຂົ້າສູ່ລະບົບ, ລະຫັດຜ່ານ
@@ -271,12 +263,8 @@ quickactions-cmd-logins = ເຂົ້າສູ່ລະບົບ, ລະຫັ�
 quickactions-plugins = ຈັດການປລັກອິນ
 quickactions-cmd-plugins = ປລັກອິນ
 # Opens the print dialog
-quickactions-print = ພິມ
-# Opens the print dialog
 quickactions-print2 = ໜ້າພິມ
 quickactions-cmd-print = ພິມ
-# Opens a new private browsing window
-quickactions-private = ເປີດໜ້າຕ່າງການຊອກຫາສ່ວນຕົວ
 # Opens a new private browsing window
 quickactions-private2 = ເປີດປ່ອງຢ້ຽມສ່ວນຕົວ
 quickactions-cmd-private = ການທ່ອງເວັບແບບສ່ວນຕົວ
@@ -287,12 +275,8 @@ quickactions-cmd-refresh = ໂຫຼດຄືນໃໝ່
 quickactions-restart = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່
 quickactions-cmd-restart = ເລີ່ມຕົ້ນລະບົບໃຫມ່
 # Opens the screenshot tool
-quickactions-screenshot2 = ຖ່າຍພາບຫນ້າຈໍ
-# Opens the screenshot tool
 quickactions-screenshot3 = ຖ່າຍຮູບໜ້າຈໍ
 quickactions-cmd-screenshot = ພາບໜ້າຈໍ
-# Opens about:preferences
-quickactions-settings = ເປີດການຕັ້ງຄ່າ
 # Opens about:preferences
 quickactions-settings2 = ຈັດການການຕັ້ງຄ່າ
 quickactions-cmd-settings = ການຕັ້ງຄ່າ, ຄ່າກຳນົດ, ຕົວເລືອກ
@@ -302,8 +286,6 @@ quickactions-cmd-themes = ຊຸດຕົກແຕ່ງ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ອັບເດດ { -brand-short-name }
 quickactions-cmd-update = ອັບເດດ
-# Opens the view-source UI with current pages source
-quickactions-viewsource = ເບິ່ງຕົ້ນສະບັບ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ເບິງແຫລ່ງຂໍ້ມູນຂອງຫນ້ານີ້
 quickactions-cmd-viewsource = ເບິ່ງຕົ້ນສະບັບ, ຕົ້ນສະບັບ
@@ -383,6 +365,7 @@ identity-description-insecure = ການເຊື່ອມຕໍ່ຂອງເ
 identity-description-insecure-login-forms = ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ທ່ານໃສ່ໃນໜ້ານີ້ບໍ່ປອດໄພ ແລະອາດຈະຖືກທຳລາຍໄດ້.
 identity-description-weak-cipher-intro = ການເຊື່ອມຕໍ່ຂອງເຈົ້າກັບເວັບໄຊທ໌ນີ້ໃຊ້ການເຂົ້າລະຫັດທີ່ອ່ອນແອ ແລະບໍ່ແມ່ນສ່ວນຕົວ.
 identity-description-weak-cipher-risk = ຄົນອື່ນສາມາດເບິ່ງຂໍ້ມູນຂອງທ່ານຫຼືດັດແປງພຶດຕິກໍາຂອງເວັບໄຊທ໌.
+identity-description-active-blocked = { -brand-short-name } ໄດ້ບລັອກສ່ວນຕ່າງໆຂອງໜ້ານີ້ທີ່ບໍ່ປອດໄພ. <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
 identity-description-passive-loaded = ການ​ເຊື່ອມ​ຕໍ່​ຂອງ​ທ່ານ​ບໍ່​ເປັນ​ສ່ວນ​ຕົວ​ແລະ​ຂໍ້​ມູນ​ທີ່​ທ່ານ​ແບ່ງ​ປັນ​ກັບ​ເວັບ​ໄຊ​ທ​໌​ສາ​ມາດ​ໄດ້​ຮັບ​ການ​ເບິ່ງ​ໂດຍ​ຄົນ​ອື່ນ​.
 identity-description-passive-loaded-insecure = ເວັບໄຊທ໌ນີ້ມີເນື້ອຫາທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ຮູບພາບ). <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
 identity-description-passive-loaded-mixed = ເຖິງແມ່ນວ່າ { -brand-short-name } ໄດ້ບລັອກເນື້ອຫາບາງຢ່າງ, ແຕ່ຍັງມີເນື້ອຫາຢູ່ໃນຫນ້າທີ່ບໍ່ປອດໄພ (ເຊັ່ນ: ຮູບພາບ). <label data-l10n-name="link">ສຶກສາເພີ່ມເຕີມ</label>
