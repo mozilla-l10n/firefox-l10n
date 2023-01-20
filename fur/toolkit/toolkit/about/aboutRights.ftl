@@ -17,6 +17,12 @@ rights-intro-point-4 =
     descrite te<a data-l10n-name="mozilla-privacy-policy-link">Politiche pe
     riservatece di { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = Cualsisei politiche di privacy relatîf a chest prodot al varès di jessi listât ca.
+rights-intro-point-5 =
+    Cualchi funzionalitât di { -brand-short-name } e dopre servizis di informazion
+    basâts su web, dut câs, no podìn garantî che a sedin precîs al 100% o
+    cence erôrs. Al è pussibil cjatâ plui detais, includudis lis informazions su
+    cemût disativâ lis funzionalitâts che a doprin chescj servizis, tai 
+    <a data-l10n-name="mozilla-service-terms-link">tiermins dal servizi</a>.
 rights-webservices-header = Servizis di informazion basâts sul web di { -brand-full-name }
 rights-safebrowsing =
     <strong>Navigazion sigure: </strong>La disativazion de navigazion sigure no je
