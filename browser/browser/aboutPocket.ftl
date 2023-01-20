@@ -60,7 +60,7 @@ pocket-panel-home-explore-popular-topics = Preskúmať populárne témy
 pocket-panel-home-discover-more = Objavte ďalšie
 pocket-panel-home-explore-more = Preskúmať
 pocket-panel-home-most-recent-saves = Tu sú vaše posledné uloženia:
-pocket-panel-home-most-recent-saves-loading = Načítavajú sa nedávno uložené položky...
+pocket-panel-home-most-recent-saves-loading = Načítavajú sa nedávno uložené položky…
 pocket-panel-home-new-user-cta = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy.
 pocket-panel-home-new-user-message = Pozrite si svoje nedávne uloženia.
 
