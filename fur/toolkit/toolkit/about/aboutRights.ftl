@@ -23,6 +23,13 @@ rights-intro-point-5 =
     cence erôrs. Al è pussibil cjatâ plui detais, includudis lis informazions su
     cemût disativâ lis funzionalitâts che a doprin chescj servizis, tai 
     <a data-l10n-name="mozilla-service-terms-link">tiermins dal servizi</a>.
+rights-intro-point-5-unbranded =
+    Se chest prodot al inclût servizis web, ducj i tiermis dai servizis a varan di
+    jessi ripuartâts te sezion
+    <a data-l10n-name="mozilla-website-services-link">Servizis web</a>.
+rights-intro-point-6 =
+    Par podê riprodusi cierts gjenars di contignûts video, { -brand-short-name }
+    al discjame cierts modui di decriptazion dal contignût che a rivin di tiercis parts.
 rights-webservices-header = Servizis di informazion basâts sul web di { -brand-full-name }
 rights-safebrowsing =
     <strong>Navigazion sigure: </strong>La disativazion de navigazion sigure no je
