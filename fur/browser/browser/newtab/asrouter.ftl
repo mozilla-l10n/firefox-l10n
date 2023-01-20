@@ -74,6 +74,11 @@ cfr-cookie-banner-accept-button-variant-1 = Siere ricuadris a comparse
 cfr-cookie-banner-reject-button-variant-1 = No, graciis
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Riduzion strissons pai cookies
+cfr-cookie-banner-handling-body-variant-2 = Permeti a { -brand-short-name } di refudâ la richieste di consens pai cookies de bande di un sît, opûr acetâ l'acès dai cookies se nol è pussibil refudâ?
+cfr-cookie-banner-accept-button-variant-2 = Permet
+    .accesskey = m
+cfr-cookie-banner-reject-button-variant-2 = No cumò
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -244,3 +249,6 @@ colorways-cfr-header-today = Lis tonalitâts des vôs indipendentis a scjadin vu
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Ti tignìn al sigûr
+july-jam-body = Ogni mês, { -brand-short-name } al bloche une medie di 3,000+ spiis par utent, danti un acès sigûr e svelt ae part miôr di internet.
+july-jam-set-default-primary = Vierç i miei colegaments cun { -brand-short-name }

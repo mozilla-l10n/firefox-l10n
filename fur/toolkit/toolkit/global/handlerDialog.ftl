@@ -9,12 +9,22 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+
+## Permission Dialog
+## Variables:
+##  $host - the hostname that is initiating the request
+##  $scheme - the type of link that's being opened.
+##  $appName - Name of the application that will be opened.
+##  $extension - Name of extension that initiated the request
+
 permission-dialog-description = Permeti a chest sît di vierzi un colegament di gjenar { $scheme }?
 permission-dialog-description-file = Permeti a chest file di vierzi un colegament di gjenar { $scheme }?
 permission-dialog-description-host = Permeti a { $host } di vierzi un colegament di gjenar { $scheme }?
+permission-dialog-description-extension = Permeti ae estension { $extension } di vierzi un colegament di gjenar { $scheme }?
 permission-dialog-description-app = Permeti a chest sît di vierzi un colegament di gjenar { $scheme } cun { $appName }?
 permission-dialog-description-host-app = Permeti a { $host } di vierzi un colegament di gjenar { $scheme } cun { $appName }?
 permission-dialog-description-file-app = Permeti a chest file di vierzi un colegament di gjenar { $scheme } cun { $appName }?
+permission-dialog-description-extension-app = Permeti ae estension { $extension } di vierzi un colegament di gjenar { $scheme } cun { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -22,6 +32,7 @@ permission-dialog-description-file-app = Permeti a chest file di vierzi un coleg
 
 permission-dialog-remember = Permet simpri a <strong>{ $host }</strong> di vierzi colegaments di gjenar <strong>{ $scheme }</strong>
 permission-dialog-remember-file = Permet simpri a chest file di vierzi colegaments di gjenar <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = Permet simpri a cheste estension di vierzi colegaments di gjenar <strong>{ $scheme }</strong>
 
 ##
 
