@@ -988,7 +988,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on us trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre,
+content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on us trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre.
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
 content-blocking-warning-title = Atenció!
 content-blocking-and-isolating-etp-warning-description-2 = Aquest paràmetre pot fer que alguns llocs web no mostrin part del contingut o que no funcionin correctament. Si sembla que un lloc no funciona bé, podeu provar de desactivar la protecció contra el seguiment perquè aquest lloc carregui tot el contingut.
