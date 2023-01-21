@@ -5,7 +5,7 @@
 printpreview-simplify-page-checkbox =
     .label = ورقہ سادہ بݨاؤ
     .accesskey = i
-    .tooltiptext = ایہ ورقہ آپوں ڄاݨ سادہ نہیں بݨایا ونڄ سڳدا
+    .tooltiptext = ایہ ورقہ آپݨے آپ سادہ نہیں بݨایا ونڄ سڳدا
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }
