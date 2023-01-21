@@ -115,14 +115,14 @@ neterror-network-protocol-error-contact-website = Ju lutemi, lidhuni me të zot�
 certerror-expired-cert-second-para = Gjasat janë që të ketë skaduar dëshmia e sajtit, gjë që e pengon lidhjen e sigurt të { -brand-short-name }-it. Nëse vizitoni këtë sajt, agresorët mund të rreken të vjedhin të dhëna të tilla si fjalëkalime, email-e, ose hollësi kartash krediti.
 certerror-expired-cert-sts-second-para = Gjasat janë që të ketë skaduar dëshmia e sajtit, gjë që e pengon lidhjen e sigurt të { -brand-short-name }-it.
 certerror-what-can-you-do-about-it-title = Ç’mund të bëni për të?
-certerror-unknown-issuer-what-can-you-do-about-it-website = Problemi ka shumë gjasa të jetë me sajtin, dhe s’bëni dot gjë për ta zgjidhur.
+certerror-unknown-issuer-what-can-you-do-about-it-website = Problemi ka shumë gjasa të jetë me sajtin dhe s’bëni dot gjë për ta zgjidhur.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Nëse gjendeni nën një rrjet korporate ose përdorni software anti-virus, mund të lidheni për ndihmë me ekipin e asistencës. Mundeni edhe të njoftoni përgjegjësin e sajtit për problemin.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = Sahati i kompjuterit tuaj është ujdisur si { DATETIME($now, dateStyle: "medium") }. Sigurohuni që te rregullimet e sistemit për kompjuterin tuaj data, koha dhe zona kohore të jenë caktuar saktë dhe mandej rifreskoni <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Nëse sahati juaj është ujdisur saktë, ka gjasa që sajti të jetë formësuar keq dhe s’bëni dot gjë për ta zgjidhur problemin. Mundeni të njoftoni përgjegjësin e sajtit mbi problemin.
-certerror-bad-cert-domain-what-can-you-do-about-it = Gjasat janë që problemi të jetë i sajtit, dhe s’bëni dot gjë për ta zgjidhur. Mundeni të njoftoni përgjegjësin e sajtit mbi problemin.
+certerror-bad-cert-domain-what-can-you-do-about-it = Gjasat janë që problemi të jetë i sajtit dhe s’bëni dot gjë për ta zgjidhur. Mundeni të njoftoni përgjegjësin e sajtit mbi problemin.
 certerror-mitm-what-can-you-do-about-it-antivirus = Nëse software-i juaj antivirus përfshin një veçori që skanon lidhjet e fshehtëzuara (shpesh i quajtur “skanim web” ose “skanim https”), mund ta çaktivizoni këtë veçori. Nëse kjo nuk bën punë, mund ta hiqni dhe ta ri-instaloni software-in antivirus.
 certerror-mitm-what-can-you-do-about-it-corporate = Nëse gjendeni në një rrjet korporate, mund të lidheni me degën tuaj të TI-së.
 # Variables:
@@ -130,7 +130,7 @@ certerror-mitm-what-can-you-do-about-it-corporate = Nëse gjendeni në një rrje
 certerror-mitm-what-can-you-do-about-it-attack = Nëse nuk jeni i familjarizuar me <b>{ $mitm }</b>, atëherë ky mund të jetë një sulm dhe nuk duhet të vazhdoni për te sajti.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack-sts = Nëse nuk jeni i familjarizuar me <b>{ $mitm }</b>, atëherë ky mund të jetë një sulm, dhe s'bëni dot gjë për të hyrë te sajti.
+certerror-mitm-what-can-you-do-about-it-attack-sts = Nëse nuk jeni i familjarizuar me <b>{ $mitm }</b>, atëherë ky mund të jetë një sulm dhe s'bëni dot gjë për të hyrë te sajti.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> përmban një rregull sigurie të quajtur HTTP Strict Transport Security (HSTS), që do të thotë se { -brand-short-name }-i mund të lidhet me të vetëm nën mënyrë të sigurt. S’shtoni dot një përjashtim për vizitimin e këtij sajti.
