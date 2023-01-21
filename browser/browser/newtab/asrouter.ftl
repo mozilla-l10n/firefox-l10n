@@ -68,6 +68,17 @@ cfr-cookie-banner-accept-button = Descarta les sol·licituds
 cfr-cookie-banner-reject-button = Ara no
     .accesskey = n
 cfr-cookie-banner-handling-header-variant-1 = Vegeu menys finestres emergents de galetes
+cfr-cookie-banner-handling-body-variant-1 = Permeteu que el { -brand-short-name } gestioni automàticament les finestres emergents de galetes per a una navegació sense distraccions. El { -brand-short-name } rebutjarà totes les sol·licituds, si és possible; si no, les acceptarà totes.
+cfr-cookie-banner-accept-button-variant-1 = Tanca les finestres emergents
+    .accesskey = T
+cfr-cookie-banner-reject-button-variant-1 = No, gràcies
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reducció de bàners de galetes
+cfr-cookie-banner-handling-body-variant-2 = Voleu permetre que el { -brand-short-name } rebutgi la sol·licitud de consentiment de galetes d’un lloc si és possible o que accepti l’accés a les galetes quan no sigui possible?
+cfr-cookie-banner-accept-button-variant-2 = Permet
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Ara no
+    .accesskey = n
 
 ## Firefox Accounts Message
 
@@ -192,9 +203,25 @@ spotlight-pin-secondary-button = Ara no
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Nou { -brand-short-name }. Més privat. Menys seguiment. Sense compromisos.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Obre el { -brand-shorter-name } ara
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Recorda-m'ho més tard
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Prova-ho
+    .accesskey = P
+firefoxview-cfr-secondarybutton = Ara no
+    .accesskey = A
+firefoxview-cfr-header-v2 = Continueu des d’on ho deixeu
 
 ## Firefox View Spotlight
 
