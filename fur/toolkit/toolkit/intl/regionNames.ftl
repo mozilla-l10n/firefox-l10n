@@ -270,6 +270,7 @@ region-name-xj = Jan Mayen
 region-name-xk = Kosovo
 region-name-xl = Atol di Palmyra
 region-name-xm = Scoi Kingman
+region-name-xp = Isulis Paracel
 region-name-xq = Isule Jarvis
 region-name-xr = Svalbard
 region-name-xs = Isulis Spratly
