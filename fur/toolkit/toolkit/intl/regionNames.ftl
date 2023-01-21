@@ -228,6 +228,7 @@ region-name-sv = El Salvador
 region-name-sx = Sint Maarten
 region-name-sy = Sirie
 region-name-sz = Swaziland
+region-name-sz-2019 = Eswatini
 region-name-tc = Isulis Turks e Caicos
 region-name-td = Çad
 region-name-tg = Togo
