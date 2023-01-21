@@ -27,6 +27,7 @@ return-to-amo-add-theme-label = Afegeix un tema
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-add-extension-label = Afegeix { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -42,6 +43,10 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = Progrés: pas { $actual } de { $total }
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progrés: pas { $actual } de { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -132,6 +137,7 @@ mr1-onboarding-theme-label-light = Clar
 mr1-onboarding-theme-label-dark = Fosc
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Fet
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -225,9 +231,13 @@ mr2-onboarding-start-browsing-button-label = Comença a navegar
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Trieu la llengua
+mr2022-onboarding-live-language-text = El { -brand-short-name } parla la vostra llengua
+mr2022-language-mismatch-subtitle = Gràcies a la nostra comunitat, el { -brand-short-name } es tradueix a més de 90 llengües. Sembla que la llengua del vostre sistema és «{ $systemLanguage }» i la del { -brand-short-name } és «{ $appLanguage }».
 onboarding-live-language-button-label-downloading = S'està baixant el paquet de llengua per a { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = S'estan obtenint les llengües disponibles…
 onboarding-live-language-installing = S'està instal·lant el paquet de llengua per a { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = Canvia a { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Continua en { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Cancel·la
 onboarding-live-language-skip-button-label = Omet
 
@@ -255,15 +265,25 @@ fx100-upgrade-thanks-header = 100 gràcies
 fx100-upgrade-thank-you-body = És la versió número 100 del { -brand-short-name }. <em>Gràcies</em> per ajudar-nos a construir una Internet millor i més saludable.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = És la versió número 100! Gràcies per formar part de la nostra comunitat. Feu que el { -brand-short-name } estigui a un sol clic de les properes 100.
+mr2022-onboarding-secondary-skip-button-label = Omet aquest pas
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Obriu una Internet espectacular
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+mr2022-onboarding-existing-pin-checkbox-label = Afegeix també la navegació privada del { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Feu que el { -brand-short-name } sigui el vostre navegador de referència
+mr2022-onboarding-set-default-primary-button-label = Defineix el { -brand-short-name } com a navegador per defecte
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -272,13 +292,26 @@ fx100-upgrade-thanks-keep-body = És la versió número 100! Gràcies per formar
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Importa del navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Trieu el color que us inspiri
+mr2022-onboarding-colorway-primary-button-label-continue = Defineix i continua
 mr2022-onboarding-existing-colorway-checkbox-label = Convertiu l'{ -firefox-home-brand-name } en la vostra pàgina d'inici més acolorida
+mr2022-onboarding-colorway-label-default = Per defecte
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Colors actuals del { -brand-short-name }
+mr2022-onboarding-colorway-label-playmaker = Migcampista
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Migcampista (vermell)
+mr2022-onboarding-colorway-description-playmaker = <b>Sou migcampista.</b> Creeu oportunitats per guanyar i ajudeu tothom qui us envolta a millorar el seu joc.
+mr2022-onboarding-colorway-label-expressionist = Expressionista
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Expressionista (groc)
 
 ## MR2022 Multistage Mobile Download screen strings
 
