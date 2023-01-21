@@ -19,3 +19,4 @@ text-title = about:compat
 ## Firefox's Total Cookie Protection feature.
 
 label-smartblock = Corezions SmartBlock
+text-no-smartblock = In chest moment no je ative nissune corezion SmartBlock
