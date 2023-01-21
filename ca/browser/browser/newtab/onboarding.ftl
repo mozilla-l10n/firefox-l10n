@@ -312,6 +312,23 @@ mr2022-onboarding-colorway-description-playmaker = <b>Sou migcampista.</b> Creeu
 mr2022-onboarding-colorway-label-expressionist = Expressionista
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionista (groc)
+mr2022-onboarding-colorway-description-expressionist = <b>Sou una persona expressionista.</b> Veieu el món d'una altra manera i les vostres creacions regiren les emocions dels altres.
+mr2022-onboarding-colorway-label-visionary = Visionari
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Visionari (verd)
+mr2022-onboarding-colorway-description-visionary = <b>Sou una persona visionària.</b> Poseu en dubte l'statu quo i inciteu els altres a imaginar un futur millor.
+mr2022-onboarding-colorway-label-activist = Activista
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Activista (blau)
+mr2022-onboarding-colorway-description-activist = <b>Sou una persona activista.</b> Feu que el món sigui millor del que l'heu trobat i convenceu els altres perquè creguin en el canvi.
+mr2022-onboarding-colorway-label-dreamer = Somniador
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Somniador (porpra)
+mr2022-onboarding-colorway-description-dreamer = <b>Sou una persona somniadora.</b> Creieu que la fortuna afavoreix els atrevits i inspira els altres a ser valents.
+mr2022-onboarding-colorway-label-innovator = Innovador
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Innovador (taronja)
+mr2022-onboarding-colorway-description-innovator = <b>Sou una persona innovadora.</b> Veieu oportunitats a tot arreu i teniu un impacte en la vida de tothom qui us envolta.
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -319,12 +336,18 @@ mr2022-onboarding-colorway-tooltip-expressionist2 =
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = La llibertat de la navegació privada en un clic
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Ni galetes, ni historial, directament des del vostre escriptori. Navegueu sense sentir-vos observat.
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostra informació detallada
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Ens esteu ajudant a crear un web millor
+mr2022-onboarding-gratitude-primary-button-label = Descobriu les novetats
+mr2022-onboarding-gratitude-secondary-button-label = Comença a navegar
 
 ## Onboarding spotlight for infrequent users
 
