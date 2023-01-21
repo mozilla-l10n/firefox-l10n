@@ -75,6 +75,14 @@ rights-webservices-term-1 =
     dal servizi di navigazion gjeolocalizade a son stimis dadis dai nestris furnidôrs,
     duncje ni nô ni i nestris furnidôrs a puedin garantî la precision di chescj dâts.
 rights-webservices-term-2 = { -vendor-short-name } al pues fermâ o cambiâ i Servizis a sô discrezion.
+rights-webservices-term-3 =
+    L'utent al è invidât a doprâ i Servizis includûts in cheste version di
+    { -brand-short-name } e { -vendor-short-name } i garantìs ducj i dirits
+    necessaris par fâlu. { -vendor-short-name } e i siei licenziataris si riservin
+    ducj che altris dirits relatîfs ai Servizis. Chescj tiermins di utilizazion no
+    intindin in nissun mût limitâ i dirits che a derivin di licencis Open Source
+    che si puedin aplicâ a { -brand-short-name } e aes versions corispondentis
+    dal codiç sorzint di { -brand-short-name }.
 rights-webservices-term-4 = <strong>I Servizis a son furnîts "as-is."  { -vendor-short-name }, chei che a àn contribuît, i licenziataris e i distributôrs a dinein dutis lis garanziis, sei esplicitis sei implicitis, includint cence limitazion lis garanziis che i Servizis a son vendibii e adats pai tiei specifics fins. Tu âs dut il riscjo te selezion dai Servizis pai tiei fins e pe cualitât e pes prestazions dai Servizis. Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.</strong>
 rights-webservices-term-5 = <strong>Fûr che pai recuisîts di leç, { -vendor-short-name }, chei che a àn contribuît, i licenziataris e i distributôrs no saran persegubii par cualsisei dam indiret, speciâl, incidentâl, conseguenziâl, punitîf o esemplâr che al ves di vignî fûr di o leât in cualsisei mût al ûs di { -brand-short-name } e dai Servizis. La perseguibilitât coletive sot di chescj tiermins no sarà plui di $500 (cinc cent dolars). Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.</strong>
 rights-webservices-term-6 = { -vendor-short-name } al pues inzornâ chescj tiermins secont la necessitât di tant in tant. Chescj tiermins no puedin jessi modificâts o cancelâts cence un acuart scrit di { -vendor-short-name }.
