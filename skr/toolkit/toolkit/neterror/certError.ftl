@@ -16,7 +16,7 @@ cert-error-trust-cert-invalid = سرٹیفکیٹ تے بھروسہ کائنی ک
 cert-error-trust-untrusted-issuer = سرٹیفکیٹ تے بھروسہ کائنی کیوں جو جاری کنندہ دا سرٹیفکیٹ تے بھروسہ کائنی
 cert-error-trust-signature-algorithm-disabled = تصدیق نامہ ناقابل بروسہ ہے کیوں جو اینکوں االگورزم دے دستخط استعمال کریندیں ہوئیں دستخط کیتا ڳیا ہا جینکوں نااہل بݨایا ڳیا ہا کیوں جو وہ الگورزم قابل بھروسا کائنا ہا
 cert-error-trust-expired-issuer = ایہ تصدیق نامہ قابل اعتماد کائنی کیوں جو جاری کرݨ والے دا تصدیق نامہ زائد المیعاد ہے۔
-cert-error-trust-self-signed = ایہ تصدیق نان٘واں قابل اعتماد کائنی کوں جو اے آپوں ڄاݨ دستخط شدہ ہے۔
+cert-error-trust-self-signed = ایہ تصدیق نامہ قابل اعتماد کائنی کوں جو ایہ آپوں دستخط شدہ ہے۔
 cert-error-trust-symantec = GeoTrust ، RapidSSL ، Symantec، Thawteتے  VeriSign دے ذریعہ جاری کردہ تصدہق نانواں کوں ہݨ ہتھیکڑا نئیں سمجھا ویندا کیوں جو ایہ تصدہق نانواں  حکام ماضی وِچ سلامتی دے طریقیاں تے عمل کرݨ وچ ناکام رہے ہن۔
 cert-error-untrusted-default = ایہ تصدیق نامہ قابل اعتماد ماخذ کنوں کائنی۔
 # Variables:

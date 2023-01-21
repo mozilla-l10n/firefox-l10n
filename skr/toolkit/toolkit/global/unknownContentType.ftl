@@ -36,5 +36,5 @@ unknowncontenttype-save-file =
     .label = فائل کوں ہتھیکڑا کرو
     .accesskey = S
 unknowncontenttype-remember-choice =
-    .label = ہݨ کنوں ایں طراں دیاں فائلاں کیتے ایہ آپوں ڄاݨ کرو
+    .label = ہݨ کنوں ایں طراں دیاں فائلاں کیتے ایہ آپݨے آپ کرو
     .accesskey = a
