@@ -4,15 +4,12 @@
 
 third-party-page-title = Hollësi Moduli Palësh të Treta
 third-party-section-title = Listë modulesh palësh të treta në { -brand-short-name }
-
 third-party-intro =
     Kjo faqe shfaq module palësh të treta që qenë injektuar te { -brand-short-name }-i
     juaj. Çfarëdo moduli që s’është nënshkruar nga Microsoft-i ose { -vendor-short-name }
     konsiderohet si modul pale të tretë.
-
 third-party-message-empty = S’u pikasën module palësh të treta
 third-party-message-no-duration = E paregjistruar
-
 third-party-detail-version = Version kartele
 third-party-detail-vendor = Të dhëna tregtuesi
 third-party-detail-occurrences = Hasje
@@ -21,11 +18,9 @@ third-party-detail-duration = Kohë Mes. Bllokimi (ms)
     .title = Për sa kohë e bllokoi aplikacionin ky modul.
 third-party-detail-app = Aplikacion
 third-party-detail-publisher = Publikues
-
 third-party-th-process = Proces
 third-party-th-duration = Kohëzgjatje Ngarkimi (ms)
 third-party-th-status = Gjendje
-
 third-party-tag-ime = IME
     .title = Ky lloj moduli ngarkohet kur përdorni një IME palësh të treta.
 third-party-tag-shellex = Zgjerim Shelli
@@ -38,12 +33,10 @@ third-party-unsigned-icon =
     .title = Ky modul s’është i nënshkruar
 third-party-warning-icon =
     .title = { -brand-short-name } vithisi kod nga ky modul
-
 third-party-status-loaded = I ngarkuar
 third-party-status-blocked = I bllokuar
 third-party-status-redirected = I ridrejtuar
-
-third-party-button-copy-to-clipboard = Kopjo të dhëna të papërpunuara te e papastra
+third-party-button-copy-to-clipboard = Kopjo te e papastra të dhëna të papërpunuara
 third-party-button-reload = Ringarkoje me hollësi sistemi
     .title = Ringarkoje me hollësi sistemi
 third-party-button-open =
