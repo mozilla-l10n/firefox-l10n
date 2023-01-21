@@ -14,13 +14,13 @@ rights-intro-point-5-unbranded = If this product incorporates web services, any 
 rights-intro-point-6 = Per poder legir de tipes de contengut vidèo, { -brand-short-name } telecarga de moduls de deschiframent de contengut dempuèi de tèrces.
 rights-webservices-header = Servicis d'informacions Web de { -brand-full-name }
 rights-webservices = { -brand-full-name } utiliza de servicis d'informacions Web ("Los Servicis") per provesir certanas de las foncionalitats que son mesas a vòstra disposicion dins aquesta version binària de { -brand-short-name } coma descrich çaijós. Se volètz pas utilizar un o l'autre d'aqueles Servicis o se vos sembla que las modalitats çaijós son pas acceptablas, podètz desactivar la foncionalitat o lo Servici. <a data-l10n-name="mozilla-disable-service-link">instruccions</a> que descrivon lo biais de desactivar un Servici o una foncionalitat en particular. Las autras foncionalitats o Servicis pòdon èsser desactivats dins las preferéncias de l'aplicacion.
-rights-safebrowsing = <strong>Blocatge de sites malvolents : </strong>Es pas recomandat de desactivar aquesta foncionalitat perque aquò vos pòt menar a navegar sus de sites pas segurs. Se desiratz desactivar la foncionalitat completament, seguissètz aquelas instruccions :
+rights-safebrowsing = <strong>Blocatge de sites malvolents : </strong>Es pas recomandat de desactivar aquesta foncionalitat perque aquò vos pòt menar a navegar sus de sites pas segurs. Se desiratz desactivar la foncionalitat complètament, seguissètz aquelas instruccions :
 rights-safebrowsing-term-1 = Dobrissètz las preferéncias o opcions de l'aplicacion
 rights-safebrowsing-term-2 = Seleccionatz lo panèl Seguretat
 rights-safebrowsing-term-3 = Deseleccionar l'opcion "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Blocar lo contengut perilhós e enganaire
 rights-safebrowsing-term-4 = Lo blocatge de sites malvolents es alara desactivat.
-rights-locationawarebrowsing = <strong>Navegacion segon la localizacion geografica : </strong>se fa totjorn a la demanda. Cap d'informacion a prepaus de vòstra localizacion es pas jamai mandada sens vòstra permission. Se volètz desactivar la foncionalitat completament, seguissètz aquelas instruccions :
+rights-locationawarebrowsing = <strong>Navegacion segon la localizacion geografica : </strong>se fa totjorn a la demanda. Cap d'informacion a prepaus de vòstra localizacion es pas jamai mandada sens vòstra permission. Se volètz desactivar la foncionalitat complètament, seguissètz aquelas instruccions :
 rights-locationawarebrowsing-term-1 = Dins la barra d'adreça, picatz <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Fasètz una recèrca sus geo.enabled
 rights-locationawarebrowsing-term-3 = Doble-clicatz sus la preferéncia geo.enabled

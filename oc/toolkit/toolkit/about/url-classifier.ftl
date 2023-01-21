@@ -30,7 +30,7 @@ url-classifier-cache-show-entries = Afichar las dintradas
 url-classifier-cache-entries = Dintradas de l'escondedor
 url-classifier-cache-prefix = Prefixe
 url-classifier-cache-ncache-expiry = Expiracion d'escondedor negativa
-url-classifier-cache-fullhash = Emprenta completa
+url-classifier-cache-fullhash = Emprenta complèta
 url-classifier-cache-pcache-expiry = Expiracion d'escondedor positiva
 url-classifier-debug-title = Desbugatge
 url-classifier-debug-module-btn = Activar los moduls de jornalizacion
@@ -40,7 +40,6 @@ url-classifier-debug-sb-modules = Moduls de jornalizacion pel blocatge de sites 
 url-classifier-debug-modules = Moduls de jornalizacion actuals
 url-classifier-debug-sbjs-modules = Jornal JS del blocatge de sites malvolents
 url-classifier-debug-file = Fichièr de jornalizacion actual
-
 url-classifier-trigger-update = Desenclavar una mesa a jorn
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Desactivar la jornalizaction JS del blocatge de sites malvolents
