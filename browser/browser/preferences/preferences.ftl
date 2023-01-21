@@ -184,6 +184,7 @@ preferences-web-appearance-header = Aparença dels llocs web
 preferences-web-appearance-description = Alguns llocs web adapten l'esquema de colors d'acord amb les vostres preferències. Trieu quin esquema de colors voleu per aquests llocs.
 preferences-web-appearance-choice-browser = Tema del { -brand-short-name }
 preferences-web-appearance-choice-system = Tema del sistema
+preferences-web-appearance-choice-auto = Automàtic
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Fosc
 preferences-web-appearance-choice-tooltip-browser =
@@ -198,6 +199,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -539,6 +542,8 @@ home-prefs-recommended-by-description-new = Contingut excepcional seleccionat pe
 home-prefs-recommended-by-learn-more = Com funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles patrocinats
+home-prefs-recommended-by-option-recent-saves =
+    .label = Mostra els elements desats recentment
 home-prefs-highlights-option-visited-pages =
     .label = Pàgines visitades
 home-prefs-highlights-options-bookmarks =
@@ -787,6 +792,7 @@ forms-breach-alerts =
     .label = Mostra alertes sobre contrasenyes per als llocs web relacionats amb filtracions de dades
     .accesskey = b
 forms-breach-alerts-learn-more-link = Més informació
+relay-integration-learn-more-link = Més informació
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Emplena automàticament inicis de sessió i contrasenyes
@@ -938,7 +944,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motors de cerca
     .accesskey = M
+addressbar-locbar-quickactions-option =
+    .label = Accions ràpides
+    .accesskey = r
 addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
+addressbar-quickactions-learn-more = Més informació
 
 ## Privacy Section - Content Blocking
 
@@ -969,6 +979,7 @@ content-blocking-etp-custom-desc = Trieu quins elements de seguiment i scripts c
 content-blocking-etp-blocking-desc = El { -brand-short-name } bloca el següent:
 content-blocking-private-windows = Contingut que fa seguiment en finestres privades
 content-blocking-cross-site-cookies-in-all-windows = Galetes entre llocs en totes les finestres (inclou galetes de seguiment)
+content-blocking-cross-site-cookies-in-all-windows2 = Galetes entre llocs en totes les finestres
 content-blocking-cross-site-tracking-cookies = Galetes de seguiment entre llocs
 content-blocking-all-cross-site-cookies-private-windows = Galetes entre llocs en finestres privades
 content-blocking-cross-site-tracking-cookies-plus-isolate = Galetes de seguiment entre llocs, i aïlla les galetes restants
@@ -1097,6 +1108,8 @@ addon-recommendations-link = Més informació
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
     .accesskey = f
+privacy-segmentation-radio-on =
+    .label = Mostra informació detallada
 
 ## Privacy Section - Security
 ##
