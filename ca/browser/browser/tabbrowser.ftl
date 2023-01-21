@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Pestanya nova
+tabbrowser-empty-private-tab-title = Pestanya privada nova
 tabbrowser-menuitem-close-tab =
     .label = Tanca la pestanya
 tabbrowser-menuitem-close =
