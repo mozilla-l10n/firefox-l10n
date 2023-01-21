@@ -18,7 +18,7 @@ dialog-title =
 dialog-title-everything =
     .title = تمام تاریخ خالی کرو
     .style = width: 34em
-clear-data-settings-label = جݙاں بند ہووے، { -brand-short-name } سبھ کجھ آپوں ڄاݨ خالی کر سڳدا ہے
+clear-data-settings-label = جݙاں بند ہووے، { -brand-short-name } سبھ کجھ آپݨے آپ خالی کر سڳدا ہے
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

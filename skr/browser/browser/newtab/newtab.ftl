@@ -252,7 +252,7 @@ newtab-error-fallback-refresh-link = ولدا کوشش کرݨ کیتے ورقے 
 ## Customization Menu
 
 newtab-custom-shortcuts-title = شارٹ کٹ
-newtab-custom-shortcuts-subtitle = او سائٹس جیڑھیاں تہاکوں محفوظ کریندیاں ہن یا ملاحظہ کرو۔
+newtab-custom-shortcuts-subtitle = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } قطار

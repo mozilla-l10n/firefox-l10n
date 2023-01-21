@@ -184,7 +184,7 @@ preferences-web-appearance-header = ویب سائٹ دی ظاہری شکل
 preferences-web-appearance-description = کجھ ویب سائٹاں تہاݙیاں ترجیحاں دی بنیاد تے اپݨی رنگ سکیم کوں اپݨیندیدیاں ہن۔ منتخب کرو جو تساں انہاں سائٹاں کیتے کیڑھی رنگ سکیم استعمال کرݨ چاہندے او۔
 preferences-web-appearance-choice-browser = { -brand-short-name } تھیم
 preferences-web-appearance-choice-system = نظام تھیم
-preferences-web-appearance-choice-auto = آپوں ڄاݨ
+preferences-web-appearance-choice-auto = خود بخود
 preferences-web-appearance-choice-light = پھکا
 preferences-web-appearance-choice-dark = شوخ
 preferences-web-appearance-choice-tooltip-browser =
@@ -525,7 +525,7 @@ home-prefs-search-header =
     .label = ویب ڳول
 home-prefs-shortcuts-header =
     .label = شارٹ کٹ
-home-prefs-shortcuts-description = او سائٹس جیڑھیاں تہاکوں محفوظ کریندیاں ہن یا ملاحظہ کرو۔
+home-prefs-shortcuts-description = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
 home-prefs-shortcuts-by-option-sponsored =
     .label = سپانسر تھئے شارٹ کٹ
 
@@ -801,7 +801,7 @@ relay-integration =
 relay-integration-learn-more-link = ٻیا سِکھو
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = آپوں ڄاݨ بھریجݨ والے لاگ انز تے پاس ورڈز
+    .label = آپݨے آپ بھریجݨ والے لاگ انز تے پاس ورڈز
     .accesskey = i
 forms-saved-logins =
     .label = ہتھیکڑے لاگ انز …
