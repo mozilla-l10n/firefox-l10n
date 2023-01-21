@@ -19,4 +19,4 @@ crashed-comment =
 crashed-include-URL-2 = { -brand-short-name } کریش تھیندے ویلھے تساں جیڑھی سائٹ تے ہاوے اوندے URLs شامل کرو
 crashed-report-sent = کریش رپورٹ اڳاتری جمع تھی ڳئی ہے؛ { -brand-short-name } کوں بہتر بݨاوݨ کیتے مدد ݙیوݨ دا شکریہ!
 crashed-request-auto-submit-title = پس منظر ٹیب دی رپورٹ کرو
-crashed-auto-submit-checkbox-2 = { -brand-short-name } دے کریش تھیوݨ تے آپوں ڄاݨ رپورٹاں جمع کراوݨ کیتے ترجیحاں کوں اپڈیٹ کرو۔
+crashed-auto-submit-checkbox-2 = { -brand-short-name } دے کریش تھیوݨ تے آپݨے آپ رپورٹاں جمع کراوݨ کیتے ترجیحاں کوں اپڈیٹ کرو۔

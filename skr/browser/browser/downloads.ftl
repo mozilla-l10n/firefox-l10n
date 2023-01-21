@@ -199,7 +199,7 @@ downloads-files-not-downloaded =
        *[other] { $num } فائلاں ڈاون لوڈ نئیں تھیاں
     }
 downloads-blocked-from-url = ڈاون لوڈز { $url } کنوں بلاک ہن
-downloads-blocked-download-detailed-info = { $url } متعدد فائلاں کوں آپوں ڄاݨ ڈاؤن لوڈ کرݨ دی کوشش کیتی۔ سائٹ سڳدی ہے یا تہاݙے آلے تے سپیم فائلاں کوں ذخیرہ کرݨ دی کوشش کر سڳدی ہے۔
+downloads-blocked-download-detailed-info = { $url } متعدد فائلاں کوں آپݨے آپ ڈاؤن لوڈ کرݨ دی کوشش کیتی۔ سائٹ سڳدی ہے یا تہاݙے آلے تے سپیم فائلاں کوں ذخیرہ کرݨ دی کوشش کر سڳدی ہے۔
 
 ##
 

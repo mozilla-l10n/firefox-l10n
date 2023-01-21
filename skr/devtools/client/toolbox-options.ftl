@@ -54,7 +54,7 @@ options-default-color-unit-name = رنگ دے ناں
 # The heading
 options-styleeditor-label = انداز تدوین کار
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
-options-stylesheet-autocompletion-label = CSS آپوں ڄاݨ تکمیل کار
+options-stylesheet-autocompletion-label = CSS آپݨے آپ تکمیل کار
 options-stylesheet-autocompletion-tooltip =
     .title = سٹائل ایڈیٹر وِچ CSS  دیاں خصوصیات، قدراں تے سلیکٹرز کوں خود مکمل کرو جیویں تساں ٹائپ کرو۔
 
@@ -79,8 +79,8 @@ options-sourceeditor-detectindentation-tooltip =
     .title = ماخذ دے مواد دی بنیاد تے انڈینٹیشن دا اندازہ لاؤ۔
 options-sourceeditor-detectindentation-label = انڈینٹیشن دا پتہ لاؤ۔
 options-sourceeditor-autoclosebrackets-tooltip =
-    .title = آپوں ڄاݨ بند تھیوݨ والے بریکٹ داخل کرو
-options-sourceeditor-autoclosebrackets-label = آپوں ڄاݨ بند تھیوݨ والے بریکٹ
+    .title = آپݨے آپ بند تھیوݨ والے بریکٹ داخل کرو
+options-sourceeditor-autoclosebrackets-label = آپݨے آپ بند تھیوݨ والے بریکٹ
 options-sourceeditor-expandtab-tooltip =
     .title = ٹیب کریکٹر دے بجائے خالی جاہیں استعمال کرو
 options-sourceeditor-expandtab-label = خالی جاہیں دا استعمال کریندے ہوئیں حاشیہ

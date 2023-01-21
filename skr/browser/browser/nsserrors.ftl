@@ -348,4 +348,4 @@ mozilla-pkix-error-required-tls-feature-missing = ہک مطلوبہ TLS خصوص
 mozilla-pkix-error-invalid-integer-encoding = سرور ہک سرٹیفکیٹ پیش کیتا جیندے وِچ ہک عدد دی غلط انکوڈنگ ہے۔ عام وجوہات وِچ منفی سیریل نمبرز، منفی RSA ماڈیولی، تے انکوڈنگز شامل ہن جیڑھیاں ضرورت کنوں زیادہ لمبیاں ہن۔
 mozilla-pkix-error-empty-issuer-name = سرور ہک خالی جاری کرݨ والے دے ڄاتے سنڄاتے ناں دے نال ہک سرٹیفکیٹ پیش کیتا۔
 mozilla-pkix-error-additional-policy-constraint-failed = ایں سرٹیفکیٹ دی توثیق کریندے ویلھے ہک اضافی پالیسی رکاوٹ ناکام تھی ڳئی۔
-mozilla-pkix-error-self-signed-cert = ایہ تصدیق نان٘واں قابل اعتماد کائنی کوں جو اے آپوں ڄاݨ دستخط شدہ ہے۔
+mozilla-pkix-error-self-signed-cert = ایہ تصدیق نامہ قابل اعتماد کائنی کوں جو ایہ آپݨے آپ دستخط شدہ ہے۔

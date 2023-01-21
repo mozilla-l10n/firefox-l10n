@@ -284,15 +284,11 @@ search-one-offs-actions =
 quickactions-addons = ایڈ آنز ݙیکھو
 quickactions-cmd-addons2 = ایڈ آنز
 # Opens the bookmarks library window
-quickactions-bookmarks = نشانیاں ݙیکھو
-# Opens the bookmarks library window
 quickactions-bookmarks2 = نشانیاں منظم کرو
 quickactions-cmd-bookmarks = نشانیاں
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ہسٹری میسو
 quickactions-cmd-clearhistory = ہسٹری میسو
-# Opens about:downloads page
-quickactions-downloads = ڈاؤن لوڈز کھولو
 # Opens about:downloads page
 quickactions-downloads2 = ڈاؤن لوڈز ݙیکھو
 quickactions-cmd-downloads = ڈاؤن لوڈز
@@ -300,12 +296,8 @@ quickactions-cmd-downloads = ڈاؤن لوڈز
 quickactions-extensions = ایکسٹینشنز دا بندوبست کرو
 quickactions-cmd-extensions = ایکسٹینشنز
 # Opens the devtools web inspector
-quickactions-inspector = انسپیکٹر کھولو
-# Opens the devtools web inspector
 quickactions-inspector2 = ڈویلپر ٹولز کھولو
 quickactions-cmd-inspector = انسپیکٹر، ڈیو ٹولز
-# Opens about:logins
-quickactions-logins = لاگ انز ݙیکھو
 # Opens about:logins
 quickactions-logins2 = پاس ورڈز دا بندوبست کرو
 quickactions-cmd-logins = لاگ انز، پاس ورڈز
@@ -313,12 +305,8 @@ quickactions-cmd-logins = لاگ انز، پاس ورڈز
 quickactions-plugins = پلگ انز دا بندوبست کرو
 quickactions-cmd-plugins = پلگ انز
 # Opens the print dialog
-quickactions-print = چھاپو
-# Opens the print dialog
 quickactions-print2 = ورقہ پرنٹ کرو
 quickactions-cmd-print = چھاپو
-# Opens a new private browsing window
-quickactions-private = نجی براؤزنگ ونڈو کھولو
 # Opens a new private browsing window
 quickactions-private2 = نجی ونڈو کھولو
 quickactions-cmd-private = نجی براؤزنگ
@@ -329,12 +317,8 @@ quickactions-cmd-refresh = ریفریش
 quickactions-restart = نویں سروں چلاؤ { -brand-short-name }
 quickactions-cmd-restart = نویں سروں چلاؤ
 # Opens the screenshot tool
-quickactions-screenshot2 = سکرین شاٹ گھنو
-# Opens the screenshot tool
 quickactions-screenshot3 = سکرین شاٹ گھنو
 quickactions-cmd-screenshot = سکرین شاٹ
-# Opens about:preferences
-quickactions-settings = سیٹنگز کھولو
 # Opens about:preferences
 quickactions-settings2 = ترتیباں دا بندوبست کرو
 quickactions-cmd-settings = ترتیباں، ترجیحاں، اختیارات
@@ -344,8 +328,6 @@ quickactions-cmd-themes = تھیمز
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = اپ ڈیٹ { -brand-short-name }
 quickactions-cmd-update = اپ ڈیٹ
-# Opens the view-source UI with current pages source
-quickactions-viewsource = ماخذ ݙیکھو
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ورقے دا ماخذ ݙیکھو
 quickactions-cmd-viewsource = ماخذ ݙیکھو، ماخذ
@@ -943,7 +925,7 @@ restore-session-startup-suggestion-button = میکوں ݙکھاؤ کیویں
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
-data-reporting-notification-message = { -brand-short-name } آپوں ڄاݨ کجھ ڈیٹا { -vendor-short-name } کوں پٹھیندا ہے تاں جو اساں تہاݙے تجربے کوں بہتر بݨا سڳوں۔
+data-reporting-notification-message = { -brand-short-name } آپݨے آپ کجھ ڈیٹا { -vendor-short-name } کوں پٹھیندا ہے تاں جو اساں تہاݙے تجربے کوں بہتر بݨا سڳوں۔
 data-reporting-notification-button =
     .label = چݨو میں کیا شیئر کرینداں
     .accesskey = C
@@ -967,8 +949,8 @@ unified-extensions-button-permissions-needed =
 
 ## Autorefresh blocker
 
-refresh-blocked-refresh-label = { -brand-short-name } ایں ورقے کوں آپوں ڄاݨ لوڈ تھیوݨ کنوں روکیا۔
-refresh-blocked-redirect-label = { -brand-short-name } ایں ورقے کوں آپوں ڄاݨ ݙوجھے پیج تے ونڄݨ کنوں روکیا۔
+refresh-blocked-refresh-label = { -brand-short-name } ایں ورقے کوں آپݨے آپ لوڈ تھیوݨ کنوں روکیا۔
+refresh-blocked-redirect-label = { -brand-short-name } ایں ورقے کوں آپݨے آپ ݙوجھے ورقے  تے ونڄݨ کنوں روکیا۔
 refresh-blocked-allow =
     .label = موکل ݙیو
     .accesskey = A

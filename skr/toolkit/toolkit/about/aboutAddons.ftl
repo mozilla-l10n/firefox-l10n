@@ -171,7 +171,7 @@ addon-updates-view-updates = حالیہ اپ ڈیٹاں دا نظارہ کرو
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
-addon-updates-update-addons-automatically = ایڈ آنز آپوں ڄاݨ اپ ڈیٹ کرو
+addon-updates-update-addons-automatically = ایڈ آنز آپݨے آپ اپ ڈیٹ کرو
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -180,7 +180,7 @@ addon-updates-update-addons-automatically = ایڈ آنز آپوں ڄاݨ اپ �
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = تمام ایڈ آنز آپوں ڄاݨ اپ ڈیٹ کیتے ری سیٹ کرو
+addon-updates-reset-updates-to-automatic = تمام ایڈ آنز آپݨے آپ اپ ڈیٹ کیتے ری سیٹ کرو
     .accesskey = R
 addon-updates-reset-updates-to-manual = دستی اپ ڈیٹ کرݨ کیتے تمام ایڈ آنز کوں دوبارہ ترتیب ݙیوو
     .accesskey = R
