@@ -103,6 +103,9 @@ places-delete-bookmark =
            *[other] Suprimeix les adreces d'interès
         }
     .accesskey = S
+places-untag-bookmark =
+    .label = Elimina l'etiqueta
+    .accesskey = m
 places-manage-bookmarks =
     .label = Gestiona les adreces d'interès
     .accesskey = G
@@ -110,13 +113,13 @@ places-forget-about-this-site-confirmation-title = Voleu oblidar aquest lloc?
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Aquesta acció eliminarà totes les dades relacionades amb { $hostOrBaseDomain }, inclosos l'historial, les contrasenyes, les galetes, la memòria cau i les preferències de contingut. Segur que voleu continuar?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Aquesta acció eliminarà les dades relacionades amb { $hostOrBaseDomain }, inclosos l'historial, les galetes, la memòria cau i les preferències de contingut. Les adreces d'interès i contrasenyes relacionades no s'eliminaran. Segur que voleu continuar?
 places-forget-about-this-site-forget = Oblida
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteca
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteca
 places-organize-button =

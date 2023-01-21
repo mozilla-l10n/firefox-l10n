@@ -5,81 +5,65 @@
 permissions-window =
     .title = Excepcions
     .style = width: 48em
-
 permissions-window2 =
     .title = Excepcions
     .style = min-width: 48em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreça del lloc web
     .accesskey = d
-
 permissions-block =
     .label = Bloca
     .accesskey = B
-
+permissions-disable-etp =
+    .label = Afegeix una excepció
+    .accesskey = e
 permissions-session =
     .label = Permet durant la sessió
     .accesskey = s
-
 permissions-allow =
     .label = Permet
     .accesskey = P
-
 permissions-button-off =
     .label = Desactiva
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desactiva temporalment
     .accesskey = t
-
 permissions-site-name =
     .label = Lloc web
-
 permissions-status =
     .label = Estat
-
 permissions-remove =
     .label = Elimina el lloc web
     .accesskey = E
-
 permissions-remove-all =
     .label = Elimina tots els llocs web
     .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Desa els canvis
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Per defecte per a tots els llocs web:
-
 permissions-searchbox =
     .placeholder = Cerca el lloc web
-
 permissions-capabilities-autoplay-allow =
     .label = Permet àudio i vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloca àudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloca àudio i vídeo
-
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloca
 permissions-capabilities-prompt =
     .label = Demana-m'ho sempre
-
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
     .value = Bloca
 permissions-capabilities-listitem-allow-session =
     .value = Permet durant la sessió
-
 permissions-capabilities-listitem-off =
     .value = Desactivat
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +79,17 @@ permissions-invalid-uri-label = Introduïu un nom d'ordinador central vàlid
 permissions-exceptions-etp-window =
     .title = Excepcions a la protecció contra el seguiment millorada
     .style = { permissions-window.style }
-
+permissions-exceptions-etp-desc = Heu desactivat les proteccions en aquests llocs web.
 permissions-exceptions-etp-window2 =
     .title = Excepcions a la protecció contra el seguiment millorada
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Heu desactivat les proteccions en aquests llocs web.
+permissions-exceptions-manage-etp-desc = Podeu especificar quins llocs web tenen desactivada la protecció contra el seguiment millorada. Escriviu l'adreça exacta del lloc que voleu gestionar i feu clic a Afegeix una excepció.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Excepcions - Galetes i dades dels llocs
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Excepcions - Galetes i dades dels llocs
     .style = { permissions-window2.style }
@@ -117,7 +100,6 @@ permissions-exceptions-cookie-desc = Podeu especificar quins llocs web poden uti
 permissions-exceptions-https-only-window =
     .title = Excepcions - Mode només HTTPS
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Excepcions - Mode només HTTPS
     .style = { permissions-window2.style }
@@ -128,7 +110,6 @@ permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS p
 permissions-exceptions-popup-window =
     .title = Llocs web permesos - Finestres emergents
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Llocs web permesos - Finestres emergents
     .style = { permissions-window2.style }
@@ -139,7 +120,6 @@ permissions-exceptions-popup-desc = Podeu especificar quins llocs web poden obri
 permissions-exceptions-saved-logins-window =
     .title = Excepcions - Inicis de sessió desats
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Excepcions - Inicis de sessió desats
     .style = { permissions-window2.style }
@@ -150,7 +130,6 @@ permissions-exceptions-saved-logins-desc = No es desaran les dades d'inici de se
 permissions-exceptions-addons-window =
     .title = Llocs web permesos - Instal·lació de complements
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Llocs web permesos - Instal·lació de complements
     .style = { permissions-window2.style }
@@ -161,7 +140,6 @@ permissions-exceptions-addons-desc = Podeu especificar quins llocs web poden ins
 permissions-site-autoplay-window =
     .title = Paràmetres - Reproducció automàtica
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Paràmetres - Reproducció automàtica
     .style = { permissions-window2.style }
@@ -172,7 +150,6 @@ permissions-site-autoplay-desc = Aquí podeu gestionar els llocs que no segueixe
 permissions-site-notification-window =
     .title = Paràmetres - Permisos de notificacions
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Paràmetres - Permisos de notificacions
     .style = { permissions-window2.style }
@@ -186,7 +163,6 @@ permissions-site-notification-disable-desc = Això impedirà que els llocs web q
 permissions-site-location-window =
     .title = Paràmetres - Permisos d'ubicació
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Paràmetres - Permisos d'ubicació
     .style = { permissions-window2.style }
@@ -200,7 +176,6 @@ permissions-site-location-disable-desc = Això impedirà que els llocs web que n
 permissions-site-xr-window =
     .title = Paràmetres - Permisos de realitat virtual
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = Paràmetres - Permisos de realitat virtual
     .style = { permissions-window2.style }
@@ -214,7 +189,6 @@ permissions-site-xr-disable-desc = Això impedirà que els llocs web que no esti
 permissions-site-camera-window =
     .title = Paràmetres - Permisos de la càmera
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Paràmetres - Permisos de la càmera
     .style = { permissions-window2.style }
@@ -228,7 +202,6 @@ permissions-site-camera-disable-desc = Això impedirà que els llocs web que no 
 permissions-site-microphone-window =
     .title = Paràmetres - Permisos del micròfon
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Paràmetres - Permisos del micròfon
     .style = { permissions-window2.style }
