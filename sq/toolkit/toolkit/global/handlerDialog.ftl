@@ -9,38 +9,40 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+
+## Permission Dialog
+## Variables:
+##  $host - the hostname that is initiating the request
+##  $scheme - the type of link that's being opened.
+##  $appName - Name of the application that will be opened.
+##  $extension - Name of extension that initiated the request
+
 permission-dialog-description = Të lejohet ky sajt të hapë lidhjen { $scheme }?
-
 permission-dialog-description-file = Të lejohet kjo kartelë të hapë lidhjen { $scheme }?
-
 permission-dialog-description-host = Të lejohet { $host } të hapë lidhjen { $scheme }?
-
+permission-dialog-description-extension = Të lejohet zgjerimi { $extension } të hapë lidhjen { $scheme }?
 permission-dialog-description-app = Të lejohet ky sajt të hapë lidhjen { $scheme } me { $appName }?
-
 permission-dialog-description-host-app = Të lejohet { $host } të hapë lidhjen { $scheme } me { $appName }?
-
 permission-dialog-description-file-app = Të lejohet kjo kartelë të hapë lidhjen { $scheme } me { $appName }?
+permission-dialog-description-extension-app = Të lejohet zgjerimi { $extension } të hapë lidhjen { $scheme } me { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
 permission-dialog-remember = Lejo përherë <strong>{ $host }</strong> të hapë lidhje <strong>{ $scheme }</strong>
-
 permission-dialog-remember-file = Lejoje përherë këtë kartelë të hapë lidhje <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = Lejoje përherë këtë zgjerim të hapë lidhje <strong>{ $scheme }</strong>
 
 ##
 
 permission-dialog-btn-open-link =
     .label = Hape Lidhjen
     .accessKey = H
-
 permission-dialog-btn-choose-app =
     .label = Zgjidhni Aplikacion
     .accessKey = Z
-
 permission-dialog-unset-description = Do të na duhet të zgjedhim një aplikacion.
-
 permission-dialog-set-change-app-link = Zgjidhni tjetër aplikacion.
 
 ## Chooser dialog
@@ -50,27 +52,21 @@ permission-dialog-set-change-app-link = Zgjidhni tjetër aplikacion.
 chooser-window =
     .title = Zgjidhni Aplikacion
     .style = min-width: 26em; min-height: 26em;
-
 chooser-dialog =
     .buttonlabelaccept = Hape Lidhjen
     .buttonaccesskeyaccept = H
-
 chooser-dialog-description = Zgjidhni një aplikacion për të hapur lidhjen { $scheme }.
-
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Përdor përherë këtë aplikacion për të hapur lidhje <strong>{ $scheme }</strong>
-
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] Kjo mund të ndryshohet te mundësitë e { -brand-short-name }-it.
        *[other] Kjo mund të ndryshohet te parapëlqimet e  { -brand-short-name }-it.
     }
-
 choose-other-app-description = Zgjidhni tjetër Aplikacion
 choose-app-btn =
     .label = Zgjidhni…
     .accessKey = Z
 choose-other-app-window-title = Tjetër Aplikacion…
-
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = I aktivizuar në Dritare Private
