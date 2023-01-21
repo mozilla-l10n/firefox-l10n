@@ -74,7 +74,7 @@
 <!ENTITY nssBadCert.title "Dështoi Lidhja e Sigurt">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Ky mund të jetë problem i formësimit të shërbyesit, ose mund të bëhet fjalë për dikë që po provon të imitojë shërbyesin.</li>
-<li>Po qe se në të kaluarën jeni lidhur me sukses te ky shërbyes, gabimi mund të jetë i përkohshëm, dhe mund të riprovoni më vonë.</li>
+<li>Po qe se në të kaluarën jeni lidhur me sukses te ky shërbyes, gabimi mund të jetë i përkohshëm dhe mund të riprovoni më vonë.</li>
 </ul>
 ">
 
