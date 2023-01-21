@@ -284,15 +284,11 @@ search-one-offs-actions =
 quickactions-addons = Shihini Shtesa
 quickactions-cmd-addons2 = shtesa
 # Opens the bookmarks library window
-quickactions-bookmarks = Shihni Faqerojtës
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Administroni faqerojtës
 quickactions-cmd-bookmarks = faqerojtës
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Spastro Historikun
 quickactions-cmd-clearhistory = spastroni historikun
-# Opens about:downloads page
-quickactions-downloads = Hap Shkarkimet
 # Opens about:downloads page
 quickactions-downloads2 = Shihni shkarkime
 quickactions-cmd-downloads = shkarkime
@@ -300,12 +296,8 @@ quickactions-cmd-downloads = shkarkime
 quickactions-extensions = Administroni zgjerime
 quickactions-cmd-extensions = zgjerime
 # Opens the devtools web inspector
-quickactions-inspector = Hap Mbikëqyrës
-# Opens the devtools web inspector
 quickactions-inspector2 = Hap Mjete Zhvilluesish
 quickactions-cmd-inspector = mbikëqyrës, mjete zhvilluesish
-# Opens about:logins
-quickactions-logins = Shihni Hyrjet
 # Opens about:logins
 quickactions-logins2 = Administroni fjalëkalime
 quickactions-cmd-logins = kredenciale hyrjesh, fjalëkalime
@@ -313,12 +305,8 @@ quickactions-cmd-logins = kredenciale hyrjesh, fjalëkalime
 quickactions-plugins = Administroni shtojca
 quickactions-cmd-plugins = shtojca
 # Opens the print dialog
-quickactions-print = Shtype
-# Opens the print dialog
 quickactions-print2 = Shtypni faqe
 quickactions-cmd-print = shtype
-# Opens a new private browsing window
-quickactions-private = Hap Dritare Shfletimi Privat
 # Opens a new private browsing window
 quickactions-private2 = Hap dritare private
 quickactions-cmd-private = shfletim privat
@@ -329,12 +317,8 @@ quickactions-cmd-refresh = rifreskoje
 quickactions-restart = Riniseni { -brand-short-name }-in
 quickactions-cmd-restart = rinise
 # Opens the screenshot tool
-quickactions-screenshot2 = Bëni një Foto Ekrani
-# Opens the screenshot tool
 quickactions-screenshot3 = Bëni një foto ekrani
 quickactions-cmd-screenshot = foto ekrani
-# Opens about:preferences
-quickactions-settings = Hap Rregullimet
 # Opens about:preferences
 quickactions-settings2 = Administroni rregullime
 quickactions-cmd-settings = rregullime, parapëlqime, mundësi
@@ -344,8 +328,6 @@ quickactions-cmd-themes = tema
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Përditësoni { -brand-short-name }
 quickactions-cmd-update = përditësoje
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Të shihet Burimi?
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Shihni Burim Faqeje
 quickactions-cmd-viewsource = shihni burimin, burim
@@ -919,7 +901,7 @@ navbar-library =
 navbar-search =
     .title = Kërkoni
 navbar-accessibility-indicator =
-    .tooltiptext = Me Veçori Përdorshmërie të Aktivizuara
+    .tooltiptext = Me Veçori të Aktivizuara Përdorimi Nga Persona Me Aftësi të Kufizuara
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
