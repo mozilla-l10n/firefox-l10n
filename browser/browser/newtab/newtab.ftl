@@ -197,7 +197,7 @@ newtab-section-header-pocket = Rekomanduar nga { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Filloni shfletimin, dhe do t'ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqerojtur këtu kohët e fundit.
+newtab-empty-section-highlights = Filloni shfletimin dhe do t'ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqeruajtur këtu kohët e fundit.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -220,7 +220,7 @@ newtab-pocket-new-topics-title = Doni më tepër gjëra? Shihni këto tema popul
 newtab-pocket-more-recommendations = Më Tepër Rekomandime
 newtab-pocket-learn-more = Mësoni më tepër
 newtab-pocket-cta-button = Merreni { -pocket-brand-name }-in
-newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni, dhe ushqejeni mendjen me lexime të mahnitshme.
+newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni dhe ushqejeni mendjen me lexime të mahnitshme.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } është pjesë e familjes { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Ruajeni te { -pocket-brand-name }

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ndodhi një gabim gjatë lidhjes me { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kod gabimi: { $error }
-
 psmerr-ssl-disabled = S’lidhet dot në mënyrë të sigurt, sepse protokolli SSL është çaktivizuar.
 psmerr-ssl2-disabled = S’lidhet dot në mënyrë të sigurt, sepse sajti përdor një version të vjetër, të pasigurt të protokollit SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Keni marrë një dëshmi të pavlefshme. Ju lutemi, lidhuni me administratorin e shërbyesit ose i dërgoni një email korrespondentit dhe jepuni atyre të dhënat vijuese:
     
     Dëshmia juaj përmban të njëjtin numër serial me një tjetër dëshmi të lëshuar nga autoriteti i dëshmive. Ju lutemi, merrni një dëshmi të re që të përmbajë një numër serial unik.
-
 ssl-error-export-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër s’mbulon fshehtëzim të shkallës së lartë.
 ssl-error-us-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër kërkon fshehtëzim të shkallës së lartë, i cili nuk mbulohet.
 ssl-error-no-cypher-overlap = S’komunikohet dot në mënyrë të sigurt me anën tjetër: s’ka algoritëm(e) të njëjtë fshehtëzimesh.
@@ -348,7 +345,7 @@ mozilla-pkix-error-signature-algorithm-mismatch = Algoritmi i nënshkrimit tek f
 mozilla-pkix-error-ocsp-response-for-cert-missing = Përgjigja OCSP s’përmban gjendje për dëshminë që po verifikohet.
 mozilla-pkix-error-validity-too-long = Shërbyesi paraqiti një dëshmi që është e vlefshme për një kohë shumë të gjatë.
 mozilla-pkix-error-required-tls-feature-missing = Mungon një veçori TLS e domosdoshme.
-mozilla-pkix-error-invalid-integer-encoding = Shërbyesi paraqiti një dëshmi që përmban kodim të pavlefshëm të një numri të plotë. Ndër shkaqet e rëndomtë përfshihen numra seriale negativë, module RSA negativë, dhe kodime që janë më të gjatë se sa është e nevojshme.
+mozilla-pkix-error-invalid-integer-encoding = Shërbyesi paraqiti një dëshmi që përmban kodim të pavlefshëm të një numri të plotë. Ndër shkaqet e rëndomtë përfshihen numra seriale negativë, module RSA negativë dhe kodime që janë më të gjatë se sa është e nevojshme.
 mozilla-pkix-error-empty-issuer-name = Shërbyesi paraqiti një dëshmi me emër të dalluar lëshuesi të zbrazët.
 mozilla-pkix-error-additional-policy-constraint-failed = Dështoi një kufizim shtesë rregulli teksa vlerësohej kjo dëshmi.
 mozilla-pkix-error-self-signed-cert = Dëshmia nuk besohet, ngaqë është e vetënënshkruar.

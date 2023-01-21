@@ -92,7 +92,7 @@ certerror-intro = { -brand-short-name }-i pikasi një kërcënim potencial sigur
 certerror-sts-intro = { -brand-short-name }-i pikasi një kërcënim potencial sigurie dhe nuk vazhdoi te <b>{ $hostname }</b>, ngaqë ky sajt lyp lidhje të sigurt.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = { -brand-short-name }-i pikasi një problem dhe nuk vazhdoi te <b>{ $hostname }</b>. Ose sajti është i formësuar gabim, ose ora e kompjuterit tuaj është gabim.
+certerror-expired-cert-intro = { -brand-short-name }-i pikasi një problem dhe nuk vazhdoi te <b>{ $hostname }</b>. Ose sajti është i formësuar gabim, ose sahati i kompjuterit tuaj është gabim.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
@@ -109,7 +109,7 @@ neterror-inadequate-security-code = Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = Kompjuteri juaj mendon se është { DATETIME($now, dateStyle: "medium") }, gjë që pengon lidhjen e sigurt të { -brand-short-name }-it. Që të vizitoni <b>{ $hostname }</b>, përditësoni te rregullimet e sistemit tuaj orën e kompjuterin me datën, kohën dhe zonën e duhur kohore, dhe mandej rifreskoni <b>{ $hostname }</b>.
+neterror-clock-skew-error = Kompjuteri juaj mendon se është { DATETIME($now, dateStyle: "medium") }, gjë që pengon lidhjen e sigurt të { -brand-short-name }-it. Që të vizitoni <b>{ $hostname }</b>, përditësoni te rregullimet e sistemit tuaj sahatin e kompjuterin me datën, kohën dhe zonën e duhur kohore dhe mandej rifreskoni <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Faqja që po rrekeni të shihni s'mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.
 neterror-network-protocol-error-contact-website = Ju lutemi, lidhuni me të zotët e sajtit që t'u njoftoni këtë problem.
 certerror-expired-cert-second-para = Gjasat janë që të ketë skaduar dëshmia e sajtit, gjë që e pengon lidhjen e sigurt të { -brand-short-name }-it. Nëse vizitoni këtë sajt, agresorët mund të rreken të vjedhin të dhëna të tilla si fjalëkalime, email-e, ose hollësi kartash krediti.
@@ -120,8 +120,8 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Nëse gjendeni
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-certerror-expired-cert-what-can-you-do-about-it-clock = Ora e kompjuterit tuaj është caktuar si { DATETIME($now, dateStyle: "medium") }. Sigurohuni që te rregullimet e sistemit për kompjuterin tuaj data, koha dhe zona kohore të jenë caktuar saktë dhe mandej rifreskoni <b>{ $hostname }</b>.
-certerror-expired-cert-what-can-you-do-about-it-contact-website = Nëse ora juaj është caktuar saktë, ka gjasa që sajti të jetë formësuar keq, dhe s’bëni dot gjë për ta zgjidhur problemin. Mundeni të njoftoni përgjegjësin e sajtit mbi problemin.
+certerror-expired-cert-what-can-you-do-about-it-clock = Sahati i kompjuterit tuaj është ujdisur si { DATETIME($now, dateStyle: "medium") }. Sigurohuni që te rregullimet e sistemit për kompjuterin tuaj data, koha dhe zona kohore të jenë caktuar saktë dhe mandej rifreskoni <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Nëse sahati juaj është ujdisur saktë, ka gjasa që sajti të jetë formësuar keq dhe s’bëni dot gjë për ta zgjidhur problemin. Mundeni të njoftoni përgjegjësin e sajtit mbi problemin.
 certerror-bad-cert-domain-what-can-you-do-about-it = Gjasat janë që problemi të jetë i sajtit, dhe s’bëni dot gjë për ta zgjidhur. Mundeni të njoftoni përgjegjësin e sajtit mbi problemin.
 certerror-mitm-what-can-you-do-about-it-antivirus = Nëse software-i juaj antivirus përfshin një veçori që skanon lidhjet e fshehtëzuara (shpesh i quajtur “skanim web” ose “skanim https”), mund ta çaktivizoni këtë veçori. Nëse kjo nuk bën punë, mund ta hiqni dhe ta ri-instaloni software-in antivirus.
 certerror-mitm-what-can-you-do-about-it-corporate = Nëse gjendeni në një rrjet korporate, mund të lidheni me degën tuaj të TI-së.

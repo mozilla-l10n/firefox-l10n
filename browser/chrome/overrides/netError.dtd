@@ -128,7 +128,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ç’mund të bëni për të?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
-<p>Problemi ka shumë gjasa të jetë me sajtin, dhe s’bëni dot gjë për ta zgjidhur.</p>
+<p>Problemi ka shumë gjasa të jetë me sajtin dhe s’bëni dot gjë për ta zgjidhur.</p>
 <p>Nëse gjendeni nën një rrjet korporate ose përdorni software anti-virus, mund të lidheni për ndihmë me ekipin e asistencës. Mundeni edhe të njoftoni përgjegjësin e sajtit për problemin.</p>
 ">
 
@@ -180,7 +180,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Nëse software-i juaj antivirus përfshin një veçori që skanon lidhjet e fshehtëzuara (shpesh i quajtur “skanim web” ose “skanim https”), mund ta çaktivizoni këtë veçori. Nëse kjo nuk bën punë, mund ta hiqni dhe ta ri-instaloni software-in antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Nëse gjendeni në një rrjet korporate, mund të lidheni me degën tuaj të TI-së.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Nëse nuk jeni i familjarizuar me <span class='mitm-name'/>, atëherë ky mund të jetë një sulm dhe nuk duhet të vazhdoni për te sajti.">
-<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Nëse nuk jeni i familjarizuar me <span class='mitm-name'/>, atëherë ky mund të jetë një sulm, dhe s’bëni dot gjë për të hyrë te sajti.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Nëse nuk jeni i familjarizuar me <span class='mitm-name'/>, atëherë ky mund të jetë një sulm dhe s’bëni dot gjë për të hyrë te sajti.">
 
 <!ENTITY clockSkewError.longDesc "Kompjuteri juaj mendon se është <span id='wrongSystemTime_systemDate1'/>, gjë që pengon lidhjen e sigurt të &brandShortName;-it. Që të vizitoni <span class='hostname'></span>, përditësoni te rregullimet e sistemit tuaj sahatin e kompjuterin me datën, kohën dhe zonën e duhur kohore dhe mandej rifreskoni <span class='hostname'></span>.">
 
