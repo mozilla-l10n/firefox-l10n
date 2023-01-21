@@ -15,7 +15,7 @@ perftools-intro-description =
 
 ## All of the headings for the various sections.
 
-perftools-heading-settings = Paramètres complets
+perftools-heading-settings = Paramètres complèts
 perftools-heading-buffer = Paramètre del tap
 perftools-heading-features = Foncionalitats
 perftools-heading-features-default = Foncionalitats (recomandadas per defaut)

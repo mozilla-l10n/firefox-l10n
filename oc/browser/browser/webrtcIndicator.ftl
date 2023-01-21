@@ -40,7 +40,7 @@ webrtc-sharing-menu =
     .accesskey = p
 webrtc-sharing-window = Partejatz una autra fenèstra d’aplicacion.
 webrtc-sharing-browser-window = Partejatz { -brand-short-name }.
-webrtc-sharing-screen = Partejatz l’ecran complet.
+webrtc-sharing-screen = Partejatz l’ecran complèt.
 webrtc-stop-sharing-button = Arrestar lo partiment
 webrtc-microphone-unmuted =
     .title = Copar lo microfòn
@@ -163,7 +163,6 @@ webrtc-allow-share-screen-and-audio-capture = Autorizar { $origin } a escotar l�
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Autorizar { $origin } a donar l’autorizacion a { $thirdParty } d’escotar l’àudio de l’onglet ?
 webrtc-allow-share-camera-unsafe-delegation = Autorizar { $origin } a donar l’accès a { $thirdParty } a la camèra ?
-webrtc-allow-share-microphone-unsafe-delegations = Autorizar { $origin } a donar l’accès a { $thirdParty } al microfòn ?
 webrtc-allow-share-microphone-unsafe-delegation = Autorizar { $origin } a donar l’accès a { $thirdParty } al microfòn ?
 webrtc-allow-share-screen-unsafe-delegation = Autorizar { $origin } a donar l’autorizacion a { $thirdParty } de veire l’ecran ?
 # "Speakers" is used in a general sense that might include headphones or
@@ -180,7 +179,7 @@ webrtc-share-screen-warning = Partejatz solament los ecrans amb los sites de fis
 webrtc-share-browser-warning = Partejatz solament { -brand-short-name } amb los sites de fisança. Lo partatge pòt permetre a de sites enganaires de navegar al vòstre nom e raubar d'informacions privadas.
 webrtc-share-screen-learn-more = Ne saber mai
 webrtc-pick-window-or-screen = Seleccionatz una fenèstra o un ecran
-webrtc-share-entire-screen = Ecran complet
+webrtc-share-entire-screen = Ecran complèt
 webrtc-share-pipe-wire-portal = Utilizar los paramètres del sistèma operatiu
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

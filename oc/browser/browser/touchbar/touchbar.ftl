@@ -2,14 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Strings in this file are used to localize button titles displayed on the 
+# Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = Tornar
 forward = Pagina seguenta
 reload = Tornar cargar
 home = Acuèlh
-fullscreen = Ecran complet
-touchbar-fullscreen-exit = Quitar lo mòde Ecran complet
+fullscreen = Ecran complèt
+touchbar-fullscreen-exit = Quitar lo mòde Ecran complèt
 find = Recercar
 new-tab = Onglet novèl
 add-bookmark = Apondre un marcapagina
@@ -19,7 +19,6 @@ open-location = Picar un tèrme de recercar o una adreça
 share = Partejar
 close-window = Tampar la fenèstra
 open-sidebar = Barra laterala
-
 # This string describes shortcuts for search.
 search-popover = Acorchis de recèrca
 # Describes searches limited to a specific scope

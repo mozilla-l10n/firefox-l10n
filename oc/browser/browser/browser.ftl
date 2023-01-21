@@ -222,7 +222,7 @@ full-screen-autohide =
     .label = Amagar las barras d'aisinas
     .accesskey = A
 full-screen-exit =
-    .label = Quitar lo mòde ecran complet
+    .label = Quitar lo mòde ecran complèt
     .accesskey = Q
 
 ## Search Engine selection buttons (one-offs)
@@ -284,15 +284,11 @@ search-one-offs-actions =
 quickactions-addons = Veire los moduls
 quickactions-cmd-addons2 = Moduls complementaris
 # Opens the bookmarks library window
-quickactions-bookmarks = Veire los marcapaginas
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Gerir los marcapaginas
 quickactions-cmd-bookmarks = marcapaginas
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Escafar l'istoric
 quickactions-cmd-clearhistory = escafar l'istoric
-# Opens about:downloads page
-quickactions-downloads = Dobrir los telecargaments
 # Opens about:downloads page
 quickactions-downloads2 = Mostrar los telecargaments
 quickactions-cmd-downloads = telecargaments
@@ -300,12 +296,8 @@ quickactions-cmd-downloads = telecargaments
 quickactions-extensions = Gerir las extensions
 quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
-quickactions-inspector = dobrir l’inspector
-# Opens the devtools web inspector
 quickactions-inspector2 = Dobrir las aisinas de desvolopament
 quickactions-cmd-inspector = inspector, inspectar, examinar, devtools, aisinas, espleches, otisses, desvelopament, desvolopaires
-# Opens about:logins
-quickactions-logins = Veire los identificants
 # Opens about:logins
 quickactions-logins2 = Gerir los senhals
 quickactions-cmd-logins = identificants, identificacion, senhals, mot de passa, clau de santa, mot de gach
@@ -313,12 +305,8 @@ quickactions-cmd-logins = identificants, identificacion, senhals, mot de passa, 
 quickactions-plugins = Gerir los plugins
 quickactions-cmd-plugins = plugins
 # Opens the print dialog
-quickactions-print = Imprimir
-# Opens the print dialog
 quickactions-print2 = Imprimir la pagina
 quickactions-cmd-print = imprimir
-# Opens a new private browsing window
-quickactions-private = Dobrir una fenèstra de navegacion privada
 # Opens a new private browsing window
 quickactions-private2 = Dobrir una fenèstra privada
 quickactions-cmd-private = navegacion privada
@@ -329,12 +317,8 @@ quickactions-cmd-refresh = actualizar
 quickactions-restart = Reaviar { -brand-short-name }
 quickactions-cmd-restart = reaviar
 # Opens the screenshot tool
-quickactions-screenshot2 = Prendre una captura d’ecran
-# Opens the screenshot tool
 quickactions-screenshot3 = Prendre una captura d’ecran
 quickactions-cmd-screenshot = captura d’ecran
-# Opens about:preferences
-quickactions-settings = Dobrir los paramètres
 # Opens about:preferences
 quickactions-settings2 = Gerir los paramètres
 quickactions-cmd-settings = paramètres, preferéncias, opcions
@@ -344,8 +328,6 @@ quickactions-cmd-themes = tèmas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Metre a jorn { -brand-short-name }
 quickactions-cmd-update = mesa a jorn
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Afichar la font
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Veire lo còdi de la pagina
 quickactions-cmd-viewsource = veire la font, font, sorga, còdi
@@ -683,11 +665,11 @@ reader-view-close-button =
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> es en ecran complet
-fullscreen-warning-no-domain = Ara, aqueste document es en ecran complet
-fullscreen-exit-button = Sortir del mòde ecran complet (Esc)
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> es en ecran complèt
+fullscreen-warning-no-domain = Ara, aqueste document es en ecran complèt
+fullscreen-exit-button = Sortir del mòde ecran complèt (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
-fullscreen-exit-mac-button = Sortir del mòde ecran complet (Esc)
+fullscreen-exit-mac-button = Sortir del mòde ecran complèt (Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
