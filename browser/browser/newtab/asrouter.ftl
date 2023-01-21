@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Funció recomanada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Per què veig això?
-
 cfr-doorhanger-extension-cancel-button = Ara no
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Afegeix-la ara
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gestiona els paràmetres de recomanacions
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = No em mostris aquesta recomanació
     .accesskey = m
-
 cfr-doorhanger-extension-learn-more-link = Més informació
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomanació
 cfr-doorhanger-extension-notification2 = Recomanació
     .tooltiptext = Recomanació d'extensió
     .a11y-announcement = Recomanació d'extensió disponible
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomanació
@@ -65,6 +57,18 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuaris
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Adeu als bàners de galetes!
+cfr-cookie-banner-handling-body = Permeteu que el { -brand-short-name } rebutgi automàticament totes les sol·licituds de bàners de galetes, quan sigui possible. Si no ho és, s'acceptaran totes les galetes per tancar encara més bàners.
+cfr-cookie-banner-accept-button = Descarta les sol·licituds
+    .accesskey = D
+cfr-cookie-banner-reject-button = Ara no
+    .accesskey = n
+cfr-cookie-banner-handling-header-variant-1 = Vegeu menys finestres emergents de galetes
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronitzeu les adreces d'interès a tot arreu.
@@ -85,11 +89,9 @@ cfr-protections-panel-link-text = Més informació
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Novetat:
-
 cfr-whatsnew-button =
     .label = Novetats
     .tooltiptext = Novetats
-
 cfr-whatsnew-release-notes-link-text = Llegiu les notes de la versió
 
 ## Enhanced Tracking Protection Milestones
@@ -164,11 +166,6 @@ spotlight-total-cookie-protection-expanded = El { -brand-short-name } crea una t
 spotlight-total-cookie-protection-primary-button = Activa la protecció total de galetes
 spotlight-total-cookie-protection-secondary-button = Ara no
 
-cfr-total-cookie-protection-header = Gràcies al vostre suport, el { -brand-short-name } és més privat i segur que mai
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = La Protecció total de galetes és la funció de protecció de privadesa més potent en l'actualitat, i ara aquesta funció està activada per defecte per a tots els usuaris del { -brand-short-name }. No hauria estat possible sense les participacions en l'accés anticipat com la vostra. Gràcies per ajudar-nos a crear una Internet millor i més privada.
-
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Fer una Internet millor és responsabilitat de tots nosaltres
@@ -195,7 +192,15 @@ spotlight-pin-secondary-button = Ara no
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
 
+
 ## Firefox View Spotlight
+
+
+## Colorways expiry reminder CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
 
