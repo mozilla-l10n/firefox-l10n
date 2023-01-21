@@ -2,29 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Ndodhi një gabim gjatë lidhjes me { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Kod gabimi: { $error }
-
 psmerr-ssl-disabled = S’lidhet dot në mënyrë të sigurt, sepse protokolli SSL është çaktivizuar.
 psmerr-ssl2-disabled = S’lidhet dot në mënyrë të sigurt, sepse sajti përdor një version të vjetër, të pasigurt të protokollit SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Keni marrë një dëshmi të pavlefshme. Ju lutemi, lidhuni me administratorin e shërbyesit ose i dërgoni një email korrespondentit dhe jepuni atyre të dhënat vijuese:
     
     Dëshmia juaj përmban të njëjtin numër serial me një tjetër dëshmi të lëshuar nga autoriteti i dëshmive. Ju lutemi, merrni një dëshmi të re që të përmbajë një numër serial unik.
-
 ssl-error-export-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër s’mbulon fshehtëzim të shkallës së lartë.
 ssl-error-us-only-server = S’arrihet të komunikohet në mënyrë të sigurt. Ana tjetër kërkon fshehtëzim të shkallës së lartë, i cili nuk mbulohet.
 ssl-error-no-cypher-overlap = S’komunikohet dot në mënyrë të sigurt me anën tjetër: s’ka algoritëm(e) të njëjtë fshehtëzimesh.
@@ -211,14 +201,6 @@ sec-error-pkcs7-keyalg-mismatch = S’e shfshehtëzon dot: algoritmi i fshehtëz
 sec-error-pkcs7-bad-signature = Vërtetimi i nënshkrimit dështoi: ose s’u gjet nënshkrues, ose u gjetën shumë nënshkrues, ose të dhëna të papërshtatshme ose të dëmtuara.
 sec-error-unsupported-keyalg = Algoritëm i pambuluar ose i panjohur.
 sec-error-decryption-disallowed = S’e shfshehtëzon dot: fshehtëzuar përmes përdorimit të një algoritmi apo madhësie kyçi me leje të mohuara.
-xp-sec-fortezza-bad-card = Karta Fortezza s’është vënë në punë si duhet. Ju lutemi, hiqeni dhe kthejani lëshuesit.
-xp-sec-fortezza-no-card = S’u Gjetën karta Fortezza
-xp-sec-fortezza-none-selected = S’ka përzgjedhje karte Fortezza
-xp-sec-fortezza-more-info = Ju lutemi, përzgjidhni një personalitet mbi të cilin të kihen më tepër të dhëna
-xp-sec-fortezza-person-not-found = S’u gjet personalitet
-xp-sec-fortezza-no-more-info = S’ka më tepër të dhëna mbi atë Personalitet
-xp-sec-fortezza-bad-pin = Pin i Pavlefshëm
-xp-sec-fortezza-person-error = S’gatit dot personalitete Fortezza.
 sec-error-no-krl = S’u gjet KRL për dëshminë e këtij sajti.
 sec-error-krl-expired = KRL-ja për dëshminë e këtij sajti ka skaduar.
 sec-error-krl-bad-signature = KRL-ja për dëshminë e këtij sajti ka nënshkrim të pavlefshëm.
@@ -233,9 +215,6 @@ sec-error-cert-nickname-collision = Ka tashmë një dëshmi me të njëjtën nof
 sec-error-key-nickname-collision = Ka tashmë një kyç me të njëjtën nofkë.
 sec-error-safe-not-created = gabim gjatë krijimit të objektit të parrezik
 sec-error-baggage-not-created = gabim gjatë krijimit të objektit bagazh
-xp-java-remove-principal-error = S’hoqi dot kryesorin
-xp-java-delete-privilege-error = S’fshiu dot privilegjin
-xp-java-cert-not-exists-error = Ky kryesor s’ka dëshmi
 sec-error-bad-export-algorithm = Algoritmi i nevojshëm s’është i lejuar.
 sec-error-exporting-certificates = Gabim gjatë përpjekjes për eksportim dëshmie.
 sec-error-importing-certificates = Gabim gjatë përpjekjes për importim dëshmie.
@@ -348,7 +327,18 @@ mozilla-pkix-error-signature-algorithm-mismatch = Algoritmi i nënshkrimit tek f
 mozilla-pkix-error-ocsp-response-for-cert-missing = Përgjigja OCSP s’përmban gjendje për dëshminë që po verifikohet.
 mozilla-pkix-error-validity-too-long = Shërbyesi paraqiti një dëshmi që është e vlefshme për një kohë shumë të gjatë.
 mozilla-pkix-error-required-tls-feature-missing = Mungon një veçori TLS e domosdoshme.
-mozilla-pkix-error-invalid-integer-encoding = Shërbyesi paraqiti një dëshmi që përmban kodim të pavlefshëm të një numri të plotë. Ndër shkaqet e rëndomtë përfshihen numra seriale negativë, module RSA negativë, dhe kodime që janë më të gjatë se sa është e nevojshme.
+mozilla-pkix-error-invalid-integer-encoding = Shërbyesi paraqiti një dëshmi që përmban kodim të pavlefshëm të një numri të plotë. Ndër shkaqet e rëndomtë përfshihen numra seriale negativë, module RSA negativë dhe kodime që janë më të gjatë se sa është e nevojshme.
 mozilla-pkix-error-empty-issuer-name = Shërbyesi paraqiti një dëshmi me emër të dalluar lëshuesi të zbrazët.
 mozilla-pkix-error-additional-policy-constraint-failed = Dështoi një kufizim shtesë rregulli teksa vlerësohej kjo dëshmi.
 mozilla-pkix-error-self-signed-cert = Dëshmia nuk besohet, ngaqë është e vetënënshkruar.
+xp-java-remove-principal-error = S’hoqi dot kryesorin
+xp-java-delete-privilege-error = S’fshiu dot privilegjin
+xp-java-cert-not-exists-error = Ky kryesor s’ka dëshmi
+xp-sec-fortezza-bad-card = Karta Fortezza s’është vënë në punë si duhet. Ju lutemi, hiqeni dhe kthejani lëshuesit.
+xp-sec-fortezza-no-card = S’u Gjetën karta Fortezza
+xp-sec-fortezza-none-selected = S’ka përzgjedhje karte Fortezza
+xp-sec-fortezza-more-info = Ju lutemi, përzgjidhni një personalitet mbi të cilin të kihen më tepër të dhëna
+xp-sec-fortezza-person-not-found = S’u gjet personalitet
+xp-sec-fortezza-no-more-info = S’ka më tepër të dhëna mbi atë Personalitet
+xp-sec-fortezza-bad-pin = Pin i Pavlefshëm
+xp-sec-fortezza-person-error = S’gatit dot personalitete Fortezza.

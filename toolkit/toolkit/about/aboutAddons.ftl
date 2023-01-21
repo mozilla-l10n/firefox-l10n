@@ -111,7 +111,7 @@ legacy-extensions =
 legacy-extensions-description = Këto zgjerime nuk i plotësojnë standardet e tanishme të { -brand-short-name }-it, ndaj janë çaktivizuar. <label data-l10n-name="legacy-learn-more">Mësoni mbi ndryshimet te shtesat</label>
 private-browsing-description2 =
     Në { -brand-short-name } po ndryshon mënyra se si funksionojnë zgjerimet nën shfletim privat. Çfarëdo zgjerimi i ri që shtoni te
-    { -brand-short-name } s’do të xhirohet në Dritare Private, si parazgjedhje. Veç në e lejofshi te rregullimet, zgjerimi s’do të funksionojë, teksa gjendeni nën shfletim privat, dhe s’do të mund të përdorë veprimtaritë tuaja internetore të atyshme. Këtë ndryshim e kemi bërë për ta mbajtur privat shfletimin tuaj privat.
+    { -brand-short-name } s’do të xhirohet në Dritare Private, si parazgjedhje. Veç në e lejofshi te rregullimet, zgjerimi s’do të funksionojë, teksa gjendeni nën shfletim privat dhe s’do të mund të përdorë veprimtaritë tuaja internetore të atyshme. Këtë ndryshim e kemi bërë për ta mbajtur privat shfletimin tuaj privat.
     <label data-l10n-name="private-browsing-learn-more">Mësoni si të administroni rregullime zgjerimi.</label>
 addon-category-discover = Rekomandime
 addon-category-discover-title =
@@ -236,7 +236,7 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Zgjerimet dhe temat janë si aplikacione për shfletuesin tuaj, dhe ju lejojnë
+    Zgjerimet dhe temat janë si aplikacione për shfletuesin tuaj dhe ju lejojnë
     të mbroni fjalëkalimet, të shkarkoni video, të gjeni pazare me leverdi,
     të bllokoni reklama bezdisëse, të ndryshoni pamjen e shfletuesit tuaj, etj.
     Këta programe të vegjël software shpesh krijohen nga një palë e tretë.
