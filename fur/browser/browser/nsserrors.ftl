@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Si è verificât un erôr dilunc une conession a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Codiç di erôr: { $error }
-
 psmerr-ssl-disabled = Impussibil conetisi cun sigurece parcè che il protocol SSL al è stât disabilitât.
 psmerr-ssl2-disabled = Impussibil conetisi cun sigurece parcè che il sît al dopre une version dal protocol SSL plui vecje e no sigure.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tu âs ricevût un certificât no valit. Contate l'aministradôr dal servidôr o la direzion e-mail di contat dal servidôr e dai chest messaç:
     
     Il to certificât al à il stes numar di serie di un altri certificât dât fûr de autoritât di certificazion. Par plasê cjatiti un gnûf certificât cuntun numar di serie unic.
-
 ssl-error-export-only-server = Impussibil comunicâ cun sigurece. Chê altre bande no supuarte la cifradure di grât elevât.
 ssl-error-us-only-server = Impussibil comunicâ cun sigurece. Chê altre bande e domande une cifradure di grât elevât che no je supuartade.
 ssl-error-no-cypher-overlap = Impussibil comunicâ cun sigurece cun chê altre bande: nissun algoritmi di cifradure in comun.
@@ -227,7 +223,7 @@ sec-error-revoked-key = La clâf pal certificât di chest sît e je stade revoca
 sec-error-krl-invalid = La gnove liste di revochis des clâfs no à un formât valit.
 sec-error-need-random = librarie di sigurece: a coventin dâts casuâi
 sec-error-no-module = librarie di sigurece: nissun modul di sigurece al pues fâ cheste operazion.
-sec-error-no-token = La cjarte di sigurece o il token no esistin, si à di inizializâju o a son stâts gjavâts.
+sec-error-no-token = La cjarte di sigurece o il gjeton no esistin, si à di inizializâju o a son stâts gjavâts.
 sec-error-read-only = librarie di sigurece: base di dâts dome in leture.
 sec-error-no-slot-selected = No tu âs selezionât la fressure o il gjeton.
 sec-error-cert-nickname-collision = Un certificât cul stes sorenon al esist bielzà.

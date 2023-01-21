@@ -8,24 +8,13 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Si è verificât un erôr dilunc une conession a { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Codiç di erôr: { $error }
-
 psmerr-ssl-disabled = Impussibil conetisi cun sigurece parcè che il protocol SSL al è stât disabilitât.
 psmerr-ssl2-disabled = Impussibil conetisi cun sigurece parcè che il sît al dopre une version dal protocol SSL plui vecje e no sigure.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tu âs ricevût un certificât no valit. Contate l'aministradôr dal servidôr o la direzion e-mail di contat dal servidôr e dai chest messaç:
     
     Il to certificât al à il stes numar di serie di un altri certificât dât fûr de autoritât di certificazion. Par plasê cjatiti un gnûf certificât cuntun numar di serie unic.
-
 ssl-error-export-only-server = Impussibil comunicâ cun sigurece. Chê altre bande no supuarte la cifradure di grât elevât.
 ssl-error-us-only-server = Impussibil comunicâ cun sigurece. Chê altre bande e domande une cifradure di grât elevât che no je supuartade.
 ssl-error-no-cypher-overlap = Impussibil comunicâ cun sigurece cun chê altre bande: nissun algoritmi di cifradure in comun.
@@ -212,14 +201,6 @@ sec-error-pkcs7-keyalg-mismatch = Impussibil decifrâ: l'algoritmi di cifradure 
 sec-error-pkcs7-bad-signature = Impussibil verificâ la firme: nissun firmatari cjatât, o masse firmataris, opûr dâts no corets o ruvinâts.
 sec-error-unsupported-keyalg = L'algoritmi de clâf nol è supuartât o nol è cognossût.
 sec-error-decryption-disallowed = Impussibil decifrâ: la codificazion e je stade fate cuntun algoritmi o cuntune lungjece di clâf che no son permetûts.
-xp-sec-fortezza-bad-card = La cjarte Fortezza no je stade inizializade ben. Par plasê gjavile e tornile al to emitent.
-xp-sec-fortezza-no-card = Nissune cjarte Fortezza cjatade.
-xp-sec-fortezza-none-selected = Nissune cjarte Fortezza selezionade.
-xp-sec-fortezza-more-info = Selezione une identitât par vê plui informazions
-xp-sec-fortezza-person-not-found = Identitât no cjatade
-xp-sec-fortezza-no-more-info = Nissune altre informazion su cheste identitât
-xp-sec-fortezza-bad-pin = Il PIN nol è valit
-xp-sec-fortezza-person-error = Nol è stât pussibil inizializâ lis identitâts di Fortezza.
 sec-error-no-krl = Nissune liste di revochis des clâfs cjatade pal certificât di chest sît.
 sec-error-krl-expired = La liste di revochis des clâfs dal certificât di chest sît e je scjadude.
 sec-error-krl-bad-signature = La liste di revochis des clâfs pal certificât di chest sît e à une firme no valide.
@@ -227,16 +208,13 @@ sec-error-revoked-key = La clâf pal certificât di chest sît e je stade revoca
 sec-error-krl-invalid = La gnove liste di revochis des clâfs no à un formât valit.
 sec-error-need-random = librarie di sigurece: a coventin dâts casuâi
 sec-error-no-module = librarie di sigurece: nissun modul di sigurece al pues fâ cheste operazion.
-sec-error-no-token = La cjarte di sigurece o il token no esistin, si à di inizializâju o a son stâts gjavâts.
+sec-error-no-token = La cjarte di sigurece o il gjeton no esistin, si à di inizializâju o a son stâts gjavâts.
 sec-error-read-only = librarie di sigurece: base di dâts dome in leture.
 sec-error-no-slot-selected = No tu âs selezionât la fressure o il gjeton.
 sec-error-cert-nickname-collision = Un certificât cul stes sorenon al esist bielzà.
 sec-error-key-nickname-collision = Une clâf cul stes sorenon e esist bielzà.
 sec-error-safe-not-created = erôr tal creâ un ogjet sigûr
 sec-error-baggage-not-created = erôr tal formâ un ogjet di bagai
-xp-java-remove-principal-error = Nol è stât pussibil gjavâ il principâl
-xp-java-delete-privilege-error = Nol è stât pussibil eliminâ il privileç
-xp-java-cert-not-exists-error = Chest principâl nol à un certificât
 sec-error-bad-export-algorithm = L'algoritmi domandât nol è permetût.
 sec-error-exporting-certificates = Erôr tal cirî di espuartâ i certificâts.
 sec-error-importing-certificates = Erôr tal cirî di impuartâ i certificâts.
@@ -353,3 +331,14 @@ mozilla-pkix-error-invalid-integer-encoding = Il servidôr al à presentât un c
 mozilla-pkix-error-empty-issuer-name = Il servidôr al à presentât un certificât cuntun non distintîf de autoritât emitent vueit.
 mozilla-pkix-error-additional-policy-constraint-failed = Un vincul di politiche adizionâl al à falât cuant che si validave chest certificât.
 mozilla-pkix-error-self-signed-cert = Il certificât nol è fidât par vie che al è auto-firmât.
+xp-java-remove-principal-error = Nol è stât pussibil gjavâ il principâl
+xp-java-delete-privilege-error = Nol è stât pussibil eliminâ il privileç
+xp-java-cert-not-exists-error = Chest principâl nol à un certificât
+xp-sec-fortezza-bad-card = La cjarte Fortezza no je stade inizializade ben. Par plasê gjavile e tornile al to emitent.
+xp-sec-fortezza-no-card = Nissune cjarte Fortezza cjatade.
+xp-sec-fortezza-none-selected = Nissune cjarte Fortezza selezionade.
+xp-sec-fortezza-more-info = Selezione une identitât par vê plui informazions
+xp-sec-fortezza-person-not-found = Identitât no cjatade
+xp-sec-fortezza-no-more-info = Nissune altre informazion su cheste identitât
+xp-sec-fortezza-bad-pin = Il PIN nol è valit
+xp-sec-fortezza-person-error = Nol è stât pussibil inizializâ lis identitâts di Fortezza.
