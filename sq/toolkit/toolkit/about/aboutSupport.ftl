@@ -366,7 +366,7 @@ policies-error = Gabim
 support-printing-title = Po shtypet
 support-printing-troubleshoot = Diagnostikim
 support-printing-clear-settings-button = Spastro rregullimet e ruajtura për shtypjet
-support-printing-modified-settings = U ndryshuan rregullime shtypjeje
+support-printing-modified-settings = Rregullime shtypjeje të ndryshuara
 support-printing-prefs-name = Emër
 support-printing-prefs-value = Vlerë
 

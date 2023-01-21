@@ -8,28 +8,21 @@
 ##
 
 process-type-web = Lëndë Web
-
 # process used to run privileged about pages,
 # such as about:home
-process-type-privilegedabout = Rreth e Privilegjuar
-
+process-type-privilegedabout = Faqe “Rreth“ të Privilegjuara
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Lëndë Mozilla e Privilegjuar
-
 process-type-extension = Zgjerim
-
 # process used to open file:// URLs
 process-type-file = Kartelë Vendore
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Lëndë Web Që Është Izoluar
-
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = Service Worker i Izoluar
-
 # process preallocated; may change to other types
 process-type-prealloc = I paradhënë
 
@@ -39,14 +32,11 @@ process-type-prealloc = I paradhënë
 
 process-type-default = Kryesorja
 process-type-tab = Skedë
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Socket
-
 # process used to decode media
 process-type-rdd = RDD
 
