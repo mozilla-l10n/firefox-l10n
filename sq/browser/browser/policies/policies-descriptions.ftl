@@ -56,9 +56,9 @@ policy-DNSOverHTTPS = Formësoni DNS përmes HTTPS-je.
 policy-DontCheckDefaultBrowser = Çaktivizoni kontrollin gjatë nisjes për shfletues parazgjedhje.
 policy-DownloadDirectory = Caktoni dhe kyçni drejtorinë e shkarkimeve.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Aktivizoni ose çaktivizoni Bllokim Lënde, dhe kyçeni, në daçi.
+policy-EnableTrackingProtection = Aktivizoni ose çaktivizoni Bllokim Lënde dhe kyçeni, në daçi.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = Aktivizoni ose çaktivizoni Zgjerime Mediash të Fshehtëzuara, dhe kyçeni, në daçi.
+policy-EncryptedMediaExtensions = Aktivizoni ose çaktivizoni Zgjerime Mediash të Fshehtëzuara dhe kyçeni, në daçi.
 policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Çaktivizo sinjalizimet bazuar në zgjatim kartele, për lloje specifikë kartelash në përkatësi.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
@@ -73,7 +73,7 @@ policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Detyro lëvizje të drej
 policy-Handlers = Formësoni trajtues parazgjedhje aplikacionesh.
 policy-HardwareAcceleration = Në u caktoftë "false", çaktivizohet përshpejtimi përmes hardware-it.
 # “lock” means that the user won’t be able to change this setting
-policy-Homepage = Caktoni faqen hyrëse, dhe kyçeni në daçi.
+policy-Homepage = Caktoni faqen hyrëse dhe kyçeni në daçi.
 policy-InstallAddonsPermission = Lejojuni disa sajteve të caktuar të instalojnë shtesa.
 policy-LegacyProfiles = Çaktivizo veçorinë e zbatimit me detyrim të një profili veçmas për çdo instalim
 
@@ -90,7 +90,7 @@ policy-ManualAppUpdateOnly = Lejo vetëm përditësime dorazi dhe mos i njofto p
 policy-PrimaryPassword = Kërko doemos ose pengo përdorimin e një Fjalëkalimi të Përgjithshëm.
 policy-NetworkPrediction = Aktivizoni ose çaktivizoni parashikim rrjeti (<em>DNS prefetching</em>).
 policy-NewTabPage = Aktivizoni ose çaktivizoni faqen Skedë e Re.
-policy-NoDefaultBookmarks = Çaktivizoni krijimin e faqerojtësve parazgjedhje të paketuar me { -brand-short-name }-in, dhe Faqerojtës të Mençur (Më të Vizituarit, Etiketa Së Fundi). Shënim: ky rregull ka efekt vetëm nëse përdoret përpara xhirimit për herë të parë nën profilin përkatës.
+policy-NoDefaultBookmarks = Çaktivizoni krijimin e faqerojtësve parazgjedhje të paketuar me { -brand-short-name }-in dhe Faqerojtës të Mençur (Më të Vizituarit, Etiketa Së Fundi). Shënim: ky rregull ka efekt vetëm nëse përdoret përpara xhirimit për herë të parë nën profilin përkatës.
 policy-OfferToSaveLogins = Bëjeni të detyrueshëm rregullimin për lejimin e { -brand-short-name }-it të ofrojë të mbajë mend kredenciale hyrjesh dhe fjalëkalime. Pranohet që të dyja vlerat, <em>true</em> dhe <em>false</em>.
 policy-OfferToSaveLoginsDefault = Caktoni vlerën parazgjedhje për lejim të { -brand-short-name }-it të ofrojë mbajtjen mend të kredencialeve të hyrjes dhe fjalëkalimeve të ruajtur. Pranohet si vlera <em>true</em>,  ashtu edhe ajo <em>false</em>.
 policy-OverrideFirstRunPage = Anashkaloni faqen e xhirimit për herë të parë. Lëreni të zbrazët, nëse doni të çaktivizohet faqja e xhirimit për herë të parë.
