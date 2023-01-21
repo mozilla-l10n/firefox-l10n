@@ -62,9 +62,15 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Lamtumirë banderola cookie-sh!
+cfr-cookie-banner-handling-body = Lejojeni { -brand-short-name }-in të hedhë poshtë vetvetiu krejt kërkesat nga banderola cookiesh, kur është e mundur. Përndryshe, krejt cookie-t do të pranohen, për të hedhur tej edhe më tepër banderola.
+cfr-cookie-banner-accept-button = Hidhe Poshtë Kërkesën
+    .accesskey = H
 cfr-cookie-banner-reject-button = Jo Tani
     .accesskey = J
 cfr-cookie-banner-handling-header-variant-1 = Shihni më pak flluska cookie-sh
+cfr-cookie-banner-handling-body-variant-1 = Lejojeni { -brand-short-name }-i t’u përgjigjet vetvetiu për ju flluskave për cookie, që të mund t’i ktheheni shfletimit pa shpërqendrim. { -brand-short-name }-i do të hedhë poshtë krejt kërkesat, kur është e mundur, ose pranojë të tëra, nëse s’është e mundur.
+cfr-cookie-banner-accept-button-variant-1 = Hidh tej Flluska
+    .accesskey = t
 cfr-cookie-banner-reject-button-variant-1 = Jo, faleminderit
     .accesskey = J
 cfr-cookie-banner-handling-header-variant-2 = Reduktim Banderolash Për Cookie-t
@@ -243,3 +249,5 @@ colorways-cfr-header-today = Ngjyrimi “Zëra të Pavarur”  skadon sot
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Mendojmë ne për ju
+july-jam-body = Çdo muaj { -brand-short-name }-i bllokon mesatarisht mbi 3 mijë gjurmues për përdorues, duke ju dhënë përdorim të parrezik, të shpejtë të internetit të mbarë.
+july-jam-set-default-primary = Hapi lidhjet e mia me { -brand-short-name }
