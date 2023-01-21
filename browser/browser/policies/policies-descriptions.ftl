@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Pengojini përdoruesit të anashkalojë disa sinj
 policy-DisableSetAsDesktopBackground = Çaktivizoni urdhër menuje Vëre si Sfond Desktopi për figura.
 policy-DisableSystemAddonUpdate = Pengojini shfletuesit të instalojë dhe përditësojë shtesa sistemi.
 policy-DisableTelemetry = Çaktivizoni Telemetry-në.
+policy-DisableThirdPartyModuleBlocking = Pengoji përdoruesit bllokimin e moduleve nga palë të treta që injektohen te procesi i { -brand-short-name }-it.
 policy-DisplayBookmarksToolbar = Shfaqni Panel Faqerojtësish, si parazgjedhje.
 policy-DisplayMenuBar = Shfaqni Shtyllë Menush, si parazgjedhje.
 policy-DNSOverHTTPS = Formësoni DNS përmes HTTPS-je.
