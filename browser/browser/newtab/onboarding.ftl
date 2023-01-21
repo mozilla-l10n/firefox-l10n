@@ -355,3 +355,9 @@ mr2022-onboarding-gratitude-secondary-button-label = Comença a navegar
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persona que treballa en un ordinador portàtil envoltada d'estrelles i flors
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persona que abraça el logotip del { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persona que va en monopatí amb una caixa d'icones de programari
