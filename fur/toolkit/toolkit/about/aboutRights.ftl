@@ -5,6 +5,11 @@
 rights-title = I tiei dirits
 rights-intro = { -brand-full-name } al è un program a gratis e open source, realizât di une comunitât di miârs di contributôrs che a son a stâ par dut il mont. Ve ca alc che tu varessis di savê:
 rights-intro-point-1 = { -brand-short-name } al è disponibil sot i tiermins dal <a data-l10n-name="mozilla-public-license-link">Mozilla Public License (Licence Publiche di Mozilla) </a>. Chest al vûl dî che tu puedis doprâ, copiâ e distribuî { -brand-short-name } a altris.  Tu puedis ancje modificâ il codiç sorzint di { -brand-short-name } come che tu vuelis seont lis tôs disbisugnis.  Cun di plui la Mozilla Public License ti da il dirit di distribuî lis tôs versions modificadis.
+rights-intro-point-2 =
+    Mozilla nol atribuìs al utent nissun dirit o licence su la utilizazion de marchis
+    regjistradis di Mozilla Foundation o di altris sogjets, includûts cence nissune
+    limitazion il non Firefox o i logos. Al è pussibil cjatâ altris informazions
+    <a data-l10n-name="mozilla-trademarks-link">achì</a>.
 rights-intro-point-3 =
     Cualchi funzionalitât in { -brand-short-name },  come la Segnalazion colàs, ti da
     la pussibilitât di mandâ opinions e sugjeriments a { -vendor-short-name }. Se
