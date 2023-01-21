@@ -575,7 +575,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Shtyllë Kërkimesh
 search-bar-hidden =
-    .label = Përdoreni shtyllën e adresave për kërkime dhe lëvizje
+    .label = Përdorni shtyllën e adresave për kërkime dhe lëvizje
 search-bar-shown =
     .label = Shtoni te paneli shtyllë kërkimesh
 search-engine-default-header = Motor Parazgjedhje Kërkimesh
