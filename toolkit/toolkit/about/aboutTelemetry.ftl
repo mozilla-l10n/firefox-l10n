@@ -37,7 +37,7 @@ about-telemetry-addon-details-section =   Detalhs suls moduls complementaris
 about-telemetry-late-writes-section = Escrituras tardièras
 about-telemetry-raw-payload-section = Carga utila bruta
 about-telemetry-raw = JSON brut
-about-telemetry-full-sql-warning = NÒTA : Lo desbugatge de las requèstas SQL lentas es activat. De requèstas SQL completas pòdon èsser afichadas çaijós, mas seràn pas mandadas per telemetria.
+about-telemetry-full-sql-warning = NÒTA : Lo desbugatge de las requèstas SQL lentas es activat. De requèstas SQL complètas pòdon èsser afichadas çaijós, mas seràn pas mandadas per telemetria.
 about-telemetry-fetch-stack-symbols = Recuperar los noms de foncions per las pilas
 about-telemetry-hide-stack-symbols = Afichar las donadas brutas de las pilas
 # Selects the correct release version
