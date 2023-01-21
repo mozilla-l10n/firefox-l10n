@@ -45,13 +45,13 @@ detail-update-type =
     .value = آپݨے آپ اپ ڈیٹاں
 detail-update-default =
     .label = طے شدہ
-    .tooltiptext = آپوں ڄاݨ اپ ڈیٹاں صرف اوں صورت وِچ انسٹال کرو جݙاں ایہ طے شدہ ہوون
+    .tooltiptext = آپݨے آپ اپ ڈیٹاں صرف اوں صورت وِچ انسٹال کرو جݙاں ایہ طے شدہ ہوون
 detail-update-automatic =
     .label = چالو کرو
-    .tooltiptext = اپ ڈیٹاں آپوں آپ انسٹال کرو
+    .tooltiptext = اپ ڈیٹاں آپݨے آپ انسٹال کرو
 detail-update-manual =
     .label = بند کرو
-    .tooltiptext = اپ ڈیٹا آپوں آپ انسٹال نہ کرو
+    .tooltiptext = اپ ڈیٹا آپݨے آپ انسٹال نہ کرو
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = نجی ونڈوز وِچ چلاؤ
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
