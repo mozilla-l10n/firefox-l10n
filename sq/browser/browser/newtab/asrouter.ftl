@@ -57,6 +57,23 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } përdorues
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Lamtumirë banderola cookie-sh!
+cfr-cookie-banner-reject-button = Jo Tani
+    .accesskey = J
+cfr-cookie-banner-handling-header-variant-1 = Shihni më pak flluska cookie-sh
+cfr-cookie-banner-reject-button-variant-1 = Jo, faleminderit
+    .accesskey = J
+cfr-cookie-banner-handling-header-variant-2 = Reduktim Banderolash Për Cookie-t
+cfr-cookie-banner-handling-body-variant-2 = Të lejohet { -brand-short-name } të hedhë poshtë kërkesa pranimi cookie-sh nga një sajt, nëse është e mundur, apo të pranohen cookies kur s’është e mundur?
+cfr-cookie-banner-accept-button-variant-2 = Lejoje
+    .accesskey = L
+cfr-cookie-banner-reject-button-variant-2 = Jo tani
+    .accesskey = J
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Njëkohësoni faqerojtësit tuaj kudo.
@@ -155,10 +172,6 @@ spotlight-total-cookie-protection-body = Mbrojtja Tërësore Nga Cookie-t i ndal
 spotlight-total-cookie-protection-expanded = { -brand-short-name }-i thur një gardh përreth cookie-ve, duke i kufizuar te sajti ku gjendeni, që kështu gjurmuesit s’mund t’i përdorin për t’ju ndjekur. Duke e provuar që herët, do të ndihmoni të optimizohet kjo veçori, që kështu të mund të vazhdojmë të ndërtojmë një internet më të mirë për këdo.
 spotlight-total-cookie-protection-primary-button = Aktivizo Mbrojtje Tërësore Nga Cookie-t
 spotlight-total-cookie-protection-secondary-button = Jo tani
-cfr-total-cookie-protection-header = Falë jush, { -brand-short-name }-i është më privat dhe më i sigurt se kurrë
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Mbrojtje Tërësore nga Cookie-t është mbrojtja jonë më e fuqishme ndonjëherë e privatësisë – dhe tanimë është një rregullim parazgjedhje për përdorues të { -brand-short-name }-i kudo. S’do ta kishim arritur pa pjesëmarrës të hershëm si ju në testim. Ndaj ju falënderojmë që na ndihmoni të krijojmë një internet më të mirë, më privat.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +218,6 @@ firefoxview-cfr-primarybutton = Provojeni
     .accesskey = P
 firefoxview-cfr-secondarybutton = Jo tani
     .accesskey = J
-firefoxview-cfr-header = Rimerrni skeda të mbyllura së fundi, me { -firefoxview-brand-name }
-firefoxview-cfr-body = Plus kaloni si pa u kuptuar nga një pajisje në tjetrën, si dhe shtojini shfletuesit tuaj një stërkalë ngjyrimi.
 firefoxview-cfr-header-v2 = Vazhdoni pa humbur kohë atje ku e latë
 firefoxview-cfr-body-v2 = Rikthehuni te skeda të mbyllura së fundi, plus hidhuni rrjedhshëm sa në një pajisje në një tjetër, me { -firefoxview-brand-name }.
 
@@ -228,3 +239,7 @@ colorways-cfr-header-28days = Ngjyrimi “Zëra të Pavarur”  skadon më 16 ja
 colorways-cfr-header-14days = Ngjyrimi “Zëra të Pavarur”  skadon pas dy javësh
 colorways-cfr-header-7days = Ngjyrimi “Zëra të Pavarur”  skadon pas këtë javë
 colorways-cfr-header-today = Ngjyrimi “Zëra të Pavarur”  skadon sot
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Mendojmë ne për ju
