@@ -172,13 +172,13 @@ menu-view-repair-text-encoding =
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Passar en mòde ecran complet
+    .label = Passar en mòde ecran complèt
     .accesskey = c
 menu-view-exit-full-screen =
-    .label = Quitar lo mòde Ecran complet
+    .label = Quitar lo mòde Ecran complèt
     .accesskey = p
 menu-view-full-screen =
-    .label = Ecran complet
+    .label = Ecran complèt
     .accesskey = p
 
 ## These menu items may use the same accesskey.

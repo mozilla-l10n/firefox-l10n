@@ -63,7 +63,7 @@ appmenuitem-zoom-enlarge =
 appmenuitem-zoom-reduce =
     .label = Zoom arrièr
 appmenuitem-fullscreen =
-    .label = Ecran complet
+    .label = Ecran complèt
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
