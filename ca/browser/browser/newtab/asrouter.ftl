@@ -222,12 +222,21 @@ firefoxview-cfr-primarybutton = Prova-ho
 firefoxview-cfr-secondarybutton = Ara no
     .accesskey = A
 firefoxview-cfr-header-v2 = Continueu des d’on ho deixeu
+firefoxview-cfr-body-v2 = Recupereu les pestanyes tancades recentment i salteu d'un dispositiu a l'altre de forma transparent amb la { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Us presentem la { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = Com funciona?
+firefoxview-spotlight-promo-secondarybutton = Omet
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Tria la combinació de colors
+    .accesskey = c
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Teniu les espatlles ben cobertes
+july-jam-body = Cada mes, el { -brand-short-name } bloca una mitjana de 3.000 elements de seguiment per usuari, per tal d'oferir-vos un accés segur i ràpid al bon contingut d'Internet.
+july-jam-set-default-primary = Obre els enllaços amb el { -brand-short-name }
