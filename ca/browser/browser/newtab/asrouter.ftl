@@ -234,6 +234,12 @@ firefoxview-spotlight-promo-secondarybutton = Omet
 
 colorways-cfr-primarybutton = Tria la combinació de colors
     .accesskey = c
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Acoloriu el navegador amb aquests tons exclusius del { -brand-short-name } inspirats en veus que han canviat la cultura.
+colorways-cfr-header-28days = Les combinacions de colors de Veus independents caduquen el 16 de gener
+colorways-cfr-header-14days = Les combinacions de colors de Veus independents caduquen d'aquí a dues setmanes
+colorways-cfr-header-7days = Les combinacions de colors de Veus independents caduquen aquesta setmana
+colorways-cfr-header-today = Les combinacions de colors de Veus independents caduquen avui
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
