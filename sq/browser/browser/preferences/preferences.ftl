@@ -857,11 +857,11 @@ history-header = Historik
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }-i
-    .accesskey = F
+    .accesskey = { "" }
 history-remember-option-all =
     .label = Do ta mbajë mend historikun
 history-remember-option-never =
-    .label = Nuk do ta mbajë mend historikun
+    .label = S’do ta mbajë mend historikun
 history-remember-option-custom =
     .label = Do të përdorë rregullime vetjake për historikun
 history-remember-description = { -brand-short-name }-i do të mbajë mend historikun tuaj të shfletimeve, shkarkimeve, formularëve dhe kërkimeve.
