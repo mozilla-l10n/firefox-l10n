@@ -7,22 +7,18 @@
 
 about-config-intro-warning-title = Vazhdoni me Kujdes
 about-config-intro-warning-text = Ndryshimi i parapëlqimeve për formësim të mëtejshëm mund të ketë ndikim në funksionimin dhe sigurinë e { -brand-short-name }-it.
-about-config-intro-warning-checkbox = Sinjalizomë kur provoj të hyj në këto parapëlqime
+about-config-intro-warning-checkbox = Sinjalizomë, kur provoj të hyj në këto parapëlqime
 about-config-intro-warning-button = Pranoni Rrezikun dhe Vazhdoni
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Ndryshimi i këtyre parapëlqimeve mund të ketë ndikim në funksionimin dhe sigurinë e { -brand-short-name }-it.
-
 about-config-page-title = Parapëlqime të Mëtejshme
-
 about-config-search-input1 =
     .placeholder = Kërkoni për emër parapëlqimi
 about-config-show-all = Shfaqi Krejt
-
 about-config-show-only-modified = Shfaq vetëm parapëlqimet e ndryshuara
-
 about-config-pref-add-button =
     .title = Shtoni
 about-config-pref-toggle-button =
