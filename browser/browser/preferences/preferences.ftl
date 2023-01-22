@@ -468,13 +468,13 @@ browsing-cfr-recommendations =
 browsing-cfr-features =
     .label = Rekomandim veçorish teksa shfletoni
     .accesskey = R
-browsing-cfr-recommendations-learn-more = Mësoni Më Tepër
+browsing-cfr-recommendations-learn-more = Mësoni më tepër
 
 ## General Section - Proxy
 
 network-settings-title = Rregullime Rrjeti
 network-proxy-connection-description = Formësoni se si lidhet në internet { -brand-short-name }-i.
-network-proxy-connection-learn-more = Mësoni Më Tepër
+network-proxy-connection-learn-more = Mësoni më tepër
 network-proxy-connection-settings =
     .label = Rregullime…
     .accesskey = R
@@ -735,7 +735,7 @@ sync-engine-bookmarks =
     .label = Faqerojtës
     .accesskey = F
 sync-engine-history =
-    .label = Historikun Tim
+    .label = Historik
     .accesskey = H
 sync-engine-tabs =
     .label = Skeda të hapura
@@ -1029,7 +1029,7 @@ content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
 content-blocking-expand-section =
-    .tooltiptext = Më tepër të dhëna
+    .tooltiptext = Më tepër hollësi
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = Nxjerrës kriptomonedhash

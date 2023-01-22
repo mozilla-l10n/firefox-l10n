@@ -6,13 +6,12 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Një pjesë e kësaj faqeje u vithis.</strong> Për t’ia bërë të ditur { -brand-product-name }-it këtë çështje dhe për t’u zgjidhur më shpejt, ju lutemi, parashtroni një raport.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
     .title = Një pjesë e kësaj faqeje u vithis. Që ta lejoni { -brand-product-name }-in të dijë rreth kësaj çështjeje dhe që ta ndreqë më shpejt, ju lutemi, parashtroni një raportim.
 crashed-subframe-learnmore-link =
-    .value = Mësoni Më Tepër
+    .value = Mësoni më tepër
 crashed-subframe-submit =
     .label = Parashtroni njoftim
     .accesskey = P

@@ -78,7 +78,7 @@ dnsNotFound-title = Hmm. Po kemi probleme me gjetjen e atij sajti.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Rrezik i mundshëm sigurie për { $hostname }.
-fileNotFound-title = S'u gjet kartelë
+fileNotFound-title = S’u gjet kartelë
 fileAccessDenied-title = Hyrja te kartela u mohua
 generic-title = Hëm.
 captivePortal-title = Hyni në rrjet

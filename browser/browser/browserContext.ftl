@@ -32,11 +32,11 @@ toolbar-button-back-2 =
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
     .tooltiptext = Shkoni para një faqe ({ $shortcut })
-    .aria-label = Para
+    .aria-label = Përpara
     .accesskey = P
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
-    .label = Para
+    .label = Përpara
     .accesskey = P
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
