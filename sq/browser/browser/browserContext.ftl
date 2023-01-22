@@ -119,14 +119,14 @@ main-context-menu-bookmark-change-with-shortcut =
     .accesskey = F
     .tooltiptext = Përpunoni këtë faqerojtës ({ $shortcut })
 main-context-menu-bookmark-page =
-    .aria-label = Faqeruani Faqen…
+    .aria-label = Faqeruani Faqe…
     .accesskey = F
     .tooltiptext = Faqeruani faqen
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-page-mac =
-    .label = Faqeruani Faqen…
+    .label = Faqeruani Faqe…
     .accesskey = F
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
@@ -137,7 +137,7 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
-    .aria-label = Faqeruani Faqen…
+    .aria-label = Faqeruani Faqe…
     .accesskey = F
     .tooltiptext = Faqeruani faqen ({ $shortcut })
 main-context-menu-edit-bookmark =

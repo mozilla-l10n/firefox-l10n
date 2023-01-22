@@ -124,7 +124,7 @@ mr2-onboarding-colorway-label-soft = I butë
 mr2-onboarding-colorway-label-balanced = I baraspeshuar
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-mr2-onboarding-colorway-label-bold = I guximshëm
+mr2-onboarding-colorway-label-bold = Guximtar
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Auto
 # This string will be used for Default theme

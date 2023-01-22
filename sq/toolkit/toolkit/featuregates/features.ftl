@@ -5,7 +5,7 @@
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
-    .label = CSS: Masonry Layout
+    .label = { "" }
 experimental-features-css-masonry-description = Aktivizon mbulim për veçorinë eksperimentale CSS Masonry Layout. Për një përshkrim të një shkalle më të lartë të veçorisë, shihni <a data-l10n-name="explainer">shpjeguesin</a>. Për të dhënë mendime, ju lutemi, komentoni te <a data-l10n-name="w3c-issue">kjo çështje në GitHub</a> ose <a data-l10n-name="bug">kjo e metë</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -20,7 +20,7 @@ experimental-features-media-jxl-description = Me këtë veçori të aktivizuar, 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
-    .label = CSS: Constructable Stylesheets
+    .label = { "" }
 experimental-features-css-constructable-stylesheets-description = Shtimi i një konstruktori te ndërfaqja <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, si edhe e një larmie ndryshimesh të lidhura me të, bëjnë të mundur të krijohen drejtpërsëdrejti fletëstile të rinj, pa u dashur të shtohet fleta te HTML-ja. Kjo e bën shumë më të lehtë krijimin e fletëstileve të ripërdorshëm për përdorim me <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1520690</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Mjete Zhvilluesi: Panel Përputhjeje
@@ -41,7 +41,7 @@ experimental-features-abouthome-startup-cache-description = Një fshehtinë për
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
-    .label = Cookies: Schemeful SameSite
+    .label = { "" }
 experimental-features-cookie-samesite-schemeful-description = Cookie-t prej së njëjtës përkatësi, por me skema të ndryshme (p.sh., http://example.com dhe https://example.com) trajtoji si ndërsajtëshe, në vend se të llojit “same-site”. Përmirëson sigurinë, por mundet të sjellë prishje funksionimi.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
@@ -54,7 +54,7 @@ experimental-features-webrtc-global-mute-toggles =
 experimental-features-webrtc-global-mute-toggles-description = Shton kontrolle te treguesi i ndarjes globale me të tjerët të funksioneve WebRTC, çka u lejon përdoruesve të heshtojnë globalisht prurje nga mikrofonat dhe kamerat e tyre.
 # JS JIT Warp project
 experimental-features-js-warp =
-    .label = JavaScript JIT: Warp
+    .label = { "" }
 experimental-features-js-warp-description = Aktivizon Warp-in, një projekt për përmirësim të punës dhe përdorimit të kujtesës nga JavaScript-i.
 # Search during IME
 experimental-features-ime-search =

@@ -88,8 +88,8 @@
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
-  <li>Lidhuni me përgjegjësin e rrjetit tuaj, për t’u siguruar që shërbyesi ndërmjetës po punon.</li>
+  <li>Kontrolloni rregullimet për ndërmjetësin, për t’u siguruar se janë të sakta.</li>
+  <li>Lidhuni me përgjegjësin e rrjetit tuaj, për t’u siguruar se shërbyesi ndërmjetës po punon.</li>
 </ul>
 ">
 
@@ -97,21 +97,22 @@
 
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Ndonjëherë ky problem mund të shkaktohet nga çaktivizim ose mospranim cookie-sh.</li>
+  <li>Ndonjëherë ky problem mund të shkaktohet nga çaktivizim ose mospranim
+  cookie-sh.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Kontrolloni për t’u siguruar që sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Vetjake.</li>
+  <li>Kontrolloni për t’u siguruar se sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Vetjake.</li>
   <li>Kjo mund të vijë nga një formësim jostandard te shërbyesi.</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Faqja që po provoni të shihni nuk shfaqet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.</li>
-  <li>Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.</li>
+  <li>Faqja që po provoni të shihni, nuk shfaqet dot, ngaqë mirëfilltësia e të dhënave të marra s’u verifikua dot.</li>
+  <li>Ju lutemi, lidhuni me të zotët e sajtit, për t’u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
