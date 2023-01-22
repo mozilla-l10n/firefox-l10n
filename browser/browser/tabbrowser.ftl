@@ -107,7 +107,7 @@ tabbrowser-confirm-open-multiple-tabs-message =
        *[other] Jeni duke hapur { $tabCount } skeda. Kjo mund të ngadalësojë { -brand-short-name }-in ndërkohë që ngarkohen faqet. Jeni i sigurt se doni të vazhdohet?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Hapi skedat
-tabbrowser-confirm-open-multiple-tabs-checkbox = Njoftomë kur hapja e skedave të shumta mund të ngadalësojë { -brand-short-name }-in
+tabbrowser-confirm-open-multiple-tabs-checkbox = Njoftomë, kur hapja e skedave të shumta mund të ngadalësojë { -brand-short-name }-in
 
 ## Confirmation dialog for enabling caret browsing
 
