@@ -47,4 +47,4 @@ origin-controls-toolbar-button-permission-needed =
     .label = { $extensionTitle }
     .tooltiptext =
         { $extensionTitle }
-        Permission needed
+        Leje e mohuar

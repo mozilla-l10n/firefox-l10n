@@ -131,7 +131,7 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = metodë
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = ekstra
-about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-section = { "" }
 about-telemetry-origin-origin = origjinë
 about-telemetry-origin-count = numër
 # Variables:
