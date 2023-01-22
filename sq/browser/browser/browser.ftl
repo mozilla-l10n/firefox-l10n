@@ -522,7 +522,7 @@ enable-devtools-popup-description2 = Që të përdorni shkurtoren F12, së pari 
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Bëni kërkim ose jepni adresë
+    .placeholder = Bëni kërkim, ose jepni adresë
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -628,7 +628,7 @@ urlbar-result-action-calculator-result = = { $result }
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = Kërkoni Te Faqerojtësit
-urlbar-result-action-search-history = Kërkoni te Historiku
+urlbar-result-action-search-history = Kërkoni Në Historik
 urlbar-result-action-search-tabs = Kërkoni Në Skeda
 urlbar-result-action-search-actions = Veprime Kërkimi
 

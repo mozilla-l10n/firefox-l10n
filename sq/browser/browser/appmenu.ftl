@@ -201,7 +201,7 @@ appmenu-clear-history =
     .label = Spastroni Historikun Së Fundi…
 appmenu-recent-history-subheader = Historik Së Fundi
 appmenu-recently-closed-tabs =
-    .label = Skeda të Mbyllura Së Fundi
+    .label = Skeda të mbyllura së fundi
 appmenu-recently-closed-windows =
     .label = Dritare të mbyllura Së Fundi
 

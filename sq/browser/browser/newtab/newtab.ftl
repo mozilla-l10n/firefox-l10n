@@ -31,9 +31,9 @@ newtab-search-box-handoff-input =
     .title = Kërkoni me { $engine } ose jepni adresë
     .aria-label = Kërkoni me { $engine } ose jepni adresë
 newtab-search-box-handoff-input-no-engine =
-    .placeholder = Bëni kërkim ose jepni adresë
-    .title = Bëni kërkim ose jepni adresë
-    .aria-label = Bëni kërkim ose jepni adresë
+    .placeholder = Bëni kërkim, ose jepni adresë
+    .title = Bëni kërkim, ose jepni adresë
+    .aria-label = Bëni kërkim, ose jepni adresë
 newtab-search-box-text = Kërkoni në web
 newtab-search-box-input =
     .placeholder = Kërkoni në web
@@ -150,7 +150,7 @@ newtab-label-visited = Të vizituara
 newtab-label-bookmarked = Të faqeruajtura
 newtab-label-removed-bookmark = Faqerojtësi u hoq
 newtab-label-recommended = Në modë
-newtab-label-saved = Ruajtur te { -pocket-brand-name }
+newtab-label-saved = U ruajt te { -pocket-brand-name }
 newtab-label-download = Të shkarkuara
 # This string is used in the story cards to indicate sponsored content
 # Variables:
