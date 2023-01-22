@@ -16,16 +16,13 @@ about-unloads-intro =
     skedë do t’i ndalet ngarkimi, kur vihet në punë ndalja e ngarkimit të skedave.
     Ndaljen e ngarkimit të skedave mund ta bëni dorazi, duke klikuar mbi butonin
     <em>Ndali Ngarkimin</em> më poshtë.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Për të mësuar më tepër rreth veçorisë dhe kësaj faqeje, shihni <a data-l10n-name="doc-link">Ndalje Ngarkimi Skedash</a>.
-
 about-unloads-last-updated = Përditësuar së fundi më: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = Ndali ngarkimin
-    .title = Ndali ngarkimin skedës me përparësinë më të madhe
+about-unloads-button-unload = Hiqi ngarkimin
+    .title = Hiëi ngarkimin skedës me përparësinë më të madhe
 about-unloads-no-unloadable-tab = S’ka skeda që mund t’u ndalet ngarkimi.
-
 about-unloads-column-priority = Përparësi
 about-unloads-column-host = Strehë
 about-unloads-column-last-accessed = Përdorur Së Fundi Më
@@ -37,7 +34,6 @@ about-unloads-column-memory = Kujtesë
     .title = Përdorim i përafërt kujtese nga skeda
 about-unloads-column-processes = ID-ra Procesesh
     .title = ID-të e proceseve që strehojnë lëndën e skedës
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

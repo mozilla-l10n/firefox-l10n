@@ -7,17 +7,17 @@ privatebrowsingpage-open-private-window-label = Hapni Dritare Private
 about-private-browsing-search-placeholder = Kërkoni në Web
 about-private-browsing-info-title = Gjendeni në Dritare Private
 about-private-browsing-search-btn =
-    .title = Kërkoni në web
+    .title = Kërkoni në Web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
     .title = Kërkoni me { $engine } ose jepni adresë
 about-private-browsing-handoff-no-engine =
-    .title = Kërkoni ose jepni adresë
+    .title = Bëni kërkim, ose jepni adresë
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = Kërkoni me { $engine } ose jepni adresë
-about-private-browsing-handoff-text-no-engine = Bëni kërkim ose jepni adresë
+about-private-browsing-handoff-text-no-engine = Bëni kërkim, ose jepni adresë
 about-private-browsing-not-private = Hëpërhë s'gjendeni në dritare private.
 about-private-browsing-info-description-private-window = Dritare private: { -brand-short-name }-i spastron historikët tuaj të kërkimeve dhe shfletimit, kur mbyllni krejt dritaret private. Kjo nuk ju bën anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name }-i spastron historikët tuaj të kërkimeve dhe shfletimit, kur mbyllni krejt dritaret private, por kjo nuk ju bën anonim.
