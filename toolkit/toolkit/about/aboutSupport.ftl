@@ -22,7 +22,7 @@ security-software-title = Software Sigurie
 security-software-type = Lloj
 security-software-name = Emër
 security-software-antivirus = Antivirus
-security-software-antispyware = Antispyware
+security-software-antispyware = { "" }
 security-software-firewall = Firewall
 features-title = Veçori { -brand-short-name }-i
 features-name = Emër
@@ -60,7 +60,7 @@ app-basics-os = OS
 app-basics-os-theme = Temë OS-i
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
-app-basics-rosetta = Rosetta Translated
+app-basics-rosetta = { "" }
 app-basics-memory-use = Përdorim Kujtese
 app-basics-performance = Punim
 app-basics-service-workers = Service Workers të Regjistruar
