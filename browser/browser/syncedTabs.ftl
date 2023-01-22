@@ -69,5 +69,5 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Njëkohësohu Tani
     .accesskey = N
-synced-tabs-fxa-sign-in = Që të njëkohësoni, bëni hyrjen
+synced-tabs-fxa-sign-in = Për njëkohësim, bëni hyrjen
 synced-tabs-turn-on-sync = Aktivizo njëkohësim

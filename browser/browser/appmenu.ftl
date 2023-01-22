@@ -68,7 +68,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = Hyni në Sync…
+    .label = Për njëkohësim, bëni hyrjen…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktivizoni Sync-un…
 # This is shown after the tabs list if we can display more tabs by clicking on the button
@@ -88,7 +88,7 @@ appmenu-remote-tabs-connectdevice =
     .label = Lidhni Tjetër Pajisje
 appmenu-remote-tabs-welcome = Shihni një listë skedash nga pajisje tuajat të tjera.
 appmenu-remote-tabs-unverified = Llogaria juaj duhet verifikuar.
-appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji Tani
+appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji tani
 appmenuitem-fxa-sign-in = Hyni te { -brand-product-name }
 appmenuitem-fxa-manage-account = Administroni llogari
 appmenu-fxa-header2 = { -fxaccount-brand-name }
