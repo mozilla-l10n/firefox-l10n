@@ -63,7 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Не показывать уведомления о куках!
+cfr-cookie-banner-handling-header = Уберите уведомления о куках!
 cfr-cookie-banner-handling-body = Разрешить { -brand-short-name } автоматически отклонять все запросы уведомлений о куках, когда это возможно. В противном случае будут приняты все куки, чтобы отклонить ещё больше уведомлений.
 cfr-cookie-banner-accept-button = Отклонять запросы
     .accesskey = к
