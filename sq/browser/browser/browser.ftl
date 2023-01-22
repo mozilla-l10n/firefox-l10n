@@ -426,7 +426,7 @@ identity-enable-mixed-content-blocking =
     .label = Aktivizo mbrojtjen
     .accesskey = A
 identity-more-info-link-text =
-    .label = Më Tepër të Dhëna
+    .label = Më tepër hollësi
 
 ## Window controls
 
@@ -689,7 +689,7 @@ crashed-subframe-submit =
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
-    .label = Administroni Faqerojtës
+    .label = Administroni faqerojtës
 bookmarks-recent-bookmarks-panel-subheader = Faqerojtës Së Fundi
 bookmarks-toolbar-chevron =
     .tooltiptext = Shfaqni më tepër faqerojtës
@@ -810,13 +810,13 @@ toolbar-button-synced-tabs =
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
-    .label = Dritare e Re Private
-    .tooltiptext = Hapni një dritare të re Shfletimi Privat ({ $shortcut })
+    .label = Dritare e re private
+    .tooltiptext = Hapni një dritare të re shfletimi privat ({ $shortcut })
 
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Audio ose video në këtë sajt përdor software DRM, çka mund të kufizojë ato që { -brand-short-name }-i mund t’ju lejojë të bëni me të.
-eme-notifications-drm-content-playing-manage = Administroni Rregullime
+eme-notifications-drm-content-playing-manage = Administroni rregullime
 eme-notifications-drm-content-playing-manage-accesskey = A
 eme-notifications-drm-content-playing-dismiss = Hidhe tej
 eme-notifications-drm-content-playing-dismiss-accesskey = H

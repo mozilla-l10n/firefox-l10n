@@ -38,7 +38,7 @@ neterror-error-reporting-automatic = Raportoni gabime si ky, që të ndihmoni { 
 neterror-generic-error = { -brand-short-name }-i, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.
 neterror-load-error-try-again = Sajti mund të jetë përkohësisht jashtë pune ose tepër i zënë. Riprovoni pas pak çastesh.
 neterror-load-error-connection = Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet për kompjuterin tuaj.
-neterror-load-error-firewall = Nëse kompjuteri apo rrjeti juaj mbrohet nga një "firewall" ose ndërmjetës, sigurohuni që { -brand-short-name }-it i është lejuar hyrja në Web.
+neterror-load-error-firewall = Nëse kompjuteri apo rrjeti juaj mbrohet nga një “firewall”, ose ndërmjetës, sigurohuni që { -brand-short-name }-it i është lejuar hyrja në Web.
 neterror-captive-portal = YouDuhet të bëni hyrjen në këtë rrjet, përpara se të hyni në Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -77,7 +77,7 @@ neterror-not-cached-try-again = Që ta rikërkoni dokumentin prej sajtit, klikon
 neterror-net-offline = Shtypni “Riprovoni” që të kalohet nën mënyrën në linjë dhe të ringarkohet faqja.
 neterror-proxy-resolve-failure-settings = Kontrolloni rregullimet për ndërmjetësin, për t'u siguruar që janë të sakta.
 neterror-proxy-resolve-failure-connection = Kontrolloni kompjuterin tuaj, për t'u siguruar që ka një lidhje rrjeti që punon.
-neterror-proxy-resolve-failure-firewall = Nëse kompjuteri apo rrjeti juaj mbrohet nga "firewall" apo ndërmjetës, sigurohuni që { -brand-short-name }-it i lejohet hyrja në Web.
+neterror-proxy-resolve-failure-firewall = Nëse kompjuteri apo rrjeti juaj mbrohet nga “firewall”, ose ndërmjetës, sigurohuni që { -brand-short-name }-it i lejohet hyrja në Web.
 neterror-proxy-connect-failure-settings = Kontrolloni rregullimet për ndërmjetësin, për t'u siguruar që janë të sakta.
 neterror-proxy-connect-failure-contact-admin = Lidhuni me përgjegjësin e rrjetit tuaj, për t'u siguruar që shërbyesi ndërmjetës po punon.
 neterror-content-encoding-error = Ju lutemi, lidhuni me të zotët e sajtit për t'u bërë të ditur këtë problem.

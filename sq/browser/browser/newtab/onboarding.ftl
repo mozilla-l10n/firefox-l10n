@@ -323,7 +323,7 @@ mr2022-onboarding-get-started-primary-button-label = Ujdiseni brenda pak sekonda
 
 mr2022-onboarding-import-header = Ujdisje e shpejtë si rrufe
 mr2022-onboarding-import-subtitle = Ujdiseni { -brand-short-name }-in si e doni. Shtoni faqerojtësit tuaj, fjalëkalimet, etj prej shfletuesit tuaj të mëparshëm.
-mr2022-onboarding-import-primary-button-label-no-attribution = Importoni prej shfletuesi të mëparshëm
+mr2022-onboarding-import-primary-button-label-no-attribution = Importo prej shfletuesi të mëparshëm
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a

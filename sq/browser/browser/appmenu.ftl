@@ -16,11 +16,11 @@ appmenuitem-banner-update-unsupported =
 appmenuitem-banner-update-restart =
     .label = Përditësim gati — riniseni tani
 appmenuitem-new-tab =
-    .label = Skedë e Re
+    .label = Skedë e re
 appmenuitem-new-window =
     .label = Dritare e Re
 appmenuitem-new-private-window =
-    .label = Dritare e Re Private
+    .label = Dritare e re private
 appmenuitem-history =
     .label = Historik
 appmenuitem-downloads =
@@ -90,7 +90,7 @@ appmenu-remote-tabs-welcome = Shihni një listë skedash nga pajisje tuajat të 
 appmenu-remote-tabs-unverified = Llogaria juaj duhet verifikuar.
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji Tani
 appmenuitem-fxa-sign-in = Hyni te { -brand-product-name }
-appmenuitem-fxa-manage-account = Administroni Llogari
+appmenuitem-fxa-manage-account = Administroni llogari
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
