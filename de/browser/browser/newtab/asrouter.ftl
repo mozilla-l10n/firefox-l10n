@@ -57,6 +57,12 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } Benutzer
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Weg mit Cookie-Bannern!
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisieren Sie Ihre Lesezeichen, um sie überall verfügbar zu haben.
@@ -156,10 +162,6 @@ spotlight-total-cookie-protection-body = Der vollständige Cookie-Schutz hindert
 spotlight-total-cookie-protection-expanded = { -brand-short-name } baut einen Zaun um Cookies und beschränkt sie auf die Website, auf der Sie sich befinden, sodass Elemente zur Aktivitätenverfolgung sie nicht verwenden können, um Ihnen zu folgen. Durch die Vorab-Nutzung helfen Sie, diese Funktion zu optimieren, damit wir weiterhin ein besseres Web für alle aufbauen können.
 spotlight-total-cookie-protection-primary-button = Vollständigen Cookie-Schutz aktivieren
 spotlight-total-cookie-protection-secondary-button = Nicht jetzt
-cfr-total-cookie-protection-header = Dank Ihnen ist { -brand-short-name } privater und sicherer denn je
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Der vollständige Cookie-Schutz ist unser bisher stärkster Datenschutz – und jetzt überall eine Standardeinstellung für { -brand-short-name }-Nutzer. Ohne Vorab-Nutzer wie Sie hätten wir das nicht geschafft. Vielen Dank, dass Sie uns dabei helfen, ein besseres, privateres Internet zu schaffen.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +208,6 @@ firefoxview-cfr-primarybutton = Ausprobieren
     .accesskey = A
 firefoxview-cfr-secondarybutton = Nicht jetzt
     .accesskey = N
-firefoxview-cfr-header = Holen Sie kürzlich geschlossene Tabs mit { -firefoxview-brand-name } zurück
-firefoxview-cfr-body = Wechseln Sie außerdem nahtlos zwischen Geräten und fügen Sie Ihrem Browser einen Farbtupfer hinzu.
 firefoxview-cfr-header-v2 = Machen Sie schnell da weiter, wo Sie aufgehört haben
 firefoxview-cfr-body-v2 = Holen Sie sich kürzlich geschlossene Tabs zurück und wechseln Sie nahtlos zwischen Geräten mit { -firefoxview-brand-name }.
 
@@ -229,3 +229,6 @@ colorways-cfr-header-28days = Farbwelten "Unabhängige Stimmen" laufen am 16. Ja
 colorways-cfr-header-14days = Farbwelten "Unabhängige Stimmen" laufen in zwei Wochen ab
 colorways-cfr-header-7days = Farbwelten "Unabhängige Stimmen" laufen diese Woche ab
 colorways-cfr-header-today = Farbwelten "Unabhängige Stimmen" laufen heute ab
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
