@@ -36,7 +36,7 @@ process-type-tab = Skedë
 # graphics acceleration
 process-type-gpu = GPU
 # process used to perform network operations
-process-type-socket = Socket
+process-type-socket = { "" }
 # process used to decode media
 process-type-rdd = RDD
 
