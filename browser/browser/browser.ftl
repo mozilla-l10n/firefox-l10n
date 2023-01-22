@@ -231,7 +231,7 @@ full-screen-exit =
 # the Urlbar and searchbar.
 search-one-offs-with-title = В этот раз искать в:
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = Изменить параметры поиска
+    .tooltiptext = Изменить настройки поиска
 search-one-offs-context-open-new-tab =
     .label = Искать в новой вкладке
     .accesskey = а
@@ -284,15 +284,11 @@ search-one-offs-actions =
 quickactions-addons = Просмотр дополнений
 quickactions-cmd-addons2 = дополнения
 # Opens the bookmarks library window
-quickactions-bookmarks = Просмотр закладок
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Управление закладками
 quickactions-cmd-bookmarks = закладки
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Удаление истории
 quickactions-cmd-clearhistory = удалить историю
-# Opens about:downloads page
-quickactions-downloads = Открыть загрузки
 # Opens about:downloads page
 quickactions-downloads2 = Просмотреть загрузки
 quickactions-cmd-downloads = загрузки
@@ -300,12 +296,8 @@ quickactions-cmd-downloads = загрузки
 quickactions-extensions = Управление расширениями
 quickactions-cmd-extensions = расширения
 # Opens the devtools web inspector
-quickactions-inspector = Открыть инспектор
-# Opens the devtools web inspector
 quickactions-inspector2 = Открыть Инструменты разработчика
 quickactions-cmd-inspector = инспектор, инструменты разработки
-# Opens about:logins
-quickactions-logins = Просмотр логинов
 # Opens about:logins
 quickactions-logins2 = Управление паролями
 quickactions-cmd-logins = логины, пароли
@@ -313,12 +305,8 @@ quickactions-cmd-logins = логины, пароли
 quickactions-plugins = Управление плагинами
 quickactions-cmd-plugins = плагины
 # Opens the print dialog
-quickactions-print = Распечатать
-# Opens the print dialog
 quickactions-print2 = Распечатать страницу
 quickactions-cmd-print = печать
-# Opens a new private browsing window
-quickactions-private = Открыть окно приватного просмотра
 # Opens a new private browsing window
 quickactions-private2 = Открыть приватное окно
 quickactions-cmd-private = приватный просмотр
@@ -329,12 +317,8 @@ quickactions-cmd-refresh = обновить
 quickactions-restart = Перезапустить { -brand-short-name }
 quickactions-cmd-restart = перезапустить
 # Opens the screenshot tool
-quickactions-screenshot2 = Сделать снимок экрана
-# Opens the screenshot tool
 quickactions-screenshot3 = Сделать снимок экрана
 quickactions-cmd-screenshot = скриншот
-# Opens about:preferences
-quickactions-settings = Открыть настройки
 # Opens about:preferences
 quickactions-settings2 = Управление настройками
 quickactions-cmd-settings = настройки, параметры, опции
@@ -344,8 +328,6 @@ quickactions-cmd-themes = темы
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Обновить { -brand-short-name }
 quickactions-cmd-update = обновление
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Показать исходник
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Исходный код страницы
 quickactions-cmd-viewsource = просмотр исходного текста, кода
@@ -639,7 +621,7 @@ urlbar-result-action-tabtosearch-web = Ищите в { $engine } прямо в �
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Ищите на { $engine } прямо в адресной строке
 # Action text for copying to clipboard.
-urlbar-result-action-copy-to-clipboard = Копировать
+urlbar-result-action-copy-to-clipboard = Скопировать
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
