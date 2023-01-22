@@ -117,7 +117,7 @@ startup-restore-windows-and-tabs =
     .label = Hapni dritare dhe skeda të mëparshme
     .accesskey = H
 startup-restore-warn-on-quit =
-    .label = T’ju sinjalizojë kur dilni e mbyllni shfletuesin
+    .label = T’ju sinjalizojë, kur dilni e mbyllni shfletuesin
 disable-extension =
     .label = Çaktivizoje Zgjerimin
 tabs-group-header = Skeda
@@ -426,7 +426,7 @@ performance-allow-hw-accel =
     .accesskey = u
 performance-limit-content-process-option = Kufi procesesh lënde
     .accesskey = P
-performance-limit-content-process-enabled-desc = Proceset shtesë për lëndën mund të përmirësojnë punimin kur përdoren shumë skeda njëherësh, por kështu do të përdoret më tepër kujtesë.
+performance-limit-content-process-enabled-desc = Proceset shtesë për lëndën mund të përmirësojnë punimin, kur përdoren shumë skeda njëherësh, por kështu do të përdoret më tepër kujtesë.
 performance-limit-content-process-blocked-desc = Ndryshimi i numrit të proceseve të lëndës është i mundur vetëm me { -brand-short-name }-in shumëprocesësh. <a data-l10n-name="learn-more">Mësoni se si të kontrolloni nëse mënyra shumëprocesëshe është e aktivizuar</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -452,7 +452,7 @@ browsing-use-cursor-navigation =
     .label = Përdor përherë taste kursori për lëvizje brenda faqesh
     .accesskey = u
 browsing-search-on-start-typing =
-    .label = Kërko për tekst kur niset të shtypet
+    .label = Kërko për tekst, kur niset të shtypet
     .accesskey = t
 browsing-picture-in-picture-toggle-enabled =
     .label = Aktivizoni kontrolle video për foto-në-foto
@@ -482,7 +482,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Dritare dhe Skeda të Reja
-home-new-windows-tabs-description2 = Zgjidhni çfarë shihni kur hapni faqen tuaj hyrëse, dritare të reja dhe skeda të reja.
+home-new-windows-tabs-description2 = Zgjidhni çfarë shihni, kur hapni faqen tuaj hyrëse, dritare të reja dhe skeda të reja.
 
 ## Home Section - Home Page Customization
 
