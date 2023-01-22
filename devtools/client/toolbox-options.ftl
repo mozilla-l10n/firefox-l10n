@@ -68,7 +68,7 @@ options-screenshot-clipboard-tooltip2 =
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Prodho tingull shkrepjeje të kamerës
 options-screenshot-audio-tooltip =
-    .title = Aktivizon tingullin e kamerës kur bëhen foto ekrani
+    .title = Aktivizon tingullin e kamerës, kur bëhen foto ekrani
 
 ## Editor section
 
