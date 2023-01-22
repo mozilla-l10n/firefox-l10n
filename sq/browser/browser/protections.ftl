@@ -168,7 +168,7 @@ monitor-resolve-breaches-link = Zgjidhni Cenime
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Gjurmues prej Mediash Shoqërore
+    .title = Gjurmues Prej Mediash Shoqërore
     .aria-label =
         { $count ->
             [one] { $count } gjurmues prej mediash shoqërore ({ $percentage }%)
