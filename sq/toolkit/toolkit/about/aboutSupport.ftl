@@ -4,7 +4,7 @@
 
 page-title = Të dhëna Diagnostikimi
 page-subtitle =
-    Kjo faqe përmban të dhëna teknike që mund të jenë të dobishme kur përpiqeni
+    Kjo faqe përmban të dhëna teknike që mund të jenë të dobishme, kur përpiqeni
     të zgjidhni një problem. Nëse po shihni për përgjigje për pyetje të rëndomta
     rreth { -brand-short-name }-it, shihni te <a data-l10n-name="support-link">sajti ynë i asistencës</a>.
 crashes-title = Njoftime Vithisjesh

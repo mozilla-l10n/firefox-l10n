@@ -45,4 +45,4 @@ download-ui-cancel-downloads-ok =
 download-ui-file-executable-security-warning-title = Të hapet Kartela e Ekzekutueshme?
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = “{ $executable }” është një kartelë e ekzekutueshme. Kartelat e ekzekutueshme mund të përmbajnë viruse ose tjetër lloj kodi keqdashës që mund të dëmtojë kompjuterin tuaj. Bëni kujdes kur hapni këtë kartelë. Jeni i sigurt se doni të niset “{ $executable }”?
+download-ui-file-executable-security-warning = “{ $executable }” është një kartelë e ekzekutueshme. Kartelat e ekzekutueshme mund të përmbajnë viruse, ose tjetër lloj kodi keqdashës që mund të dëmtojë kompjuterin tuaj. Bëni kujdes, kur hapni këtë kartelë. Jeni i sigurt se doni të niset “{ $executable }”?
