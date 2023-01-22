@@ -35,8 +35,6 @@ process-type-tab = Skedë
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-# process used to perform network operations
-process-type-socket = { "" }
 # process used to decode media
 process-type-rdd = RDD
 

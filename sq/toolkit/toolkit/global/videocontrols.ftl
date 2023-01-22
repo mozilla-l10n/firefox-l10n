@@ -28,9 +28,6 @@ videocontrols-casting-button-label =
     .aria-label = Transmetoje në Ekran
 videocontrols-closed-caption-off =
     .offlabel = Off
-# This string is used as part of the Picture-in-Picture video toggle button when
-# the mouse is hovering it.
-videocontrols-picture-in-picture-label = { "" }
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Shiheni nën mënyrën Picture-in-Picture
