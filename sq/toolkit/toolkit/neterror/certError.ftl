@@ -17,7 +17,7 @@ cert-error-trust-untrusted-issuer = Dëshmia nuk është besuar, sepse lëshuesi
 cert-error-trust-signature-algorithm-disabled = Dëshmia nuk është e besueshme, ngaqë është nënshkruar duke përdorur një algoritëm nënshkrimesh i cili është i çaktivizuar, pasi nuk është i sigurt.
 cert-error-trust-expired-issuer = Dëshmia nuk është besuar, sepse dëshmia e lëshuesit ka skaduar.
 cert-error-trust-self-signed = Dëshmia nuk besohet, ngaqë është e vetënënshkruar.
-cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte dhe VeriSign nuk konsiderohen më tje të sigurta, ngaqë këto autoritete dëshmish nuk kanë ndjekur praktika sigurie në të kaluarën.
+cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte dhe VeriSign nuk konsiderohen më tej të sigurta, ngaqë këto autoritete dëshmish nuk kanë ndjekur praktika sigurie në të kaluarën.
 cert-error-untrusted-default = Dëshmia nuk vjen nga një burim i besuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

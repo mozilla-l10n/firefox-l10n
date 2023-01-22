@@ -337,7 +337,7 @@ quickactions-learn-more =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = Shto Faqerojtës
+bookmarks-add-bookmark = Shto faqerojtës
 bookmarks-edit-bookmark = Përpunoni Faqerojtësin
 bookmark-panel-cancel =
     .label = Anuloje

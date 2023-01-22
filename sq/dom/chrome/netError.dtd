@@ -101,4 +101,4 @@
 <!ENTITY blockedByPolicy.title "Faqe e Bllokuar">
 
 <!ENTITY networkProtocolError.title "Gabim Protokolli Rrjeti">
-<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s’mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t’u njoftoni këtë problem.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni, s’mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit, që t’u njoftoni këtë problem.</li></ul>">
