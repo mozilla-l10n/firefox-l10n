@@ -352,7 +352,7 @@ bookmark-panel-remove =
         }
     .accesskey = H
 bookmark-panel-show-editor-checkbox =
-    .label = Shfaqe përpunuesin kur bëhen ruajtje
+    .label = Shfaqe përpunuesin, kur bëhen ruajtje
     .accesskey = S
 bookmark-panel-save-button =
     .label = Ruaje
