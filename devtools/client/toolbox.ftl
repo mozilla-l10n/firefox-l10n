@@ -11,11 +11,11 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
-toolbox-meatball-menu-dock-bottom-label = Nguleni poshtë
-toolbox-meatball-menu-dock-left-label = Vendose Majtas
-toolbox-meatball-menu-dock-right-label = Vendose Djathtas
+toolbox-meatball-menu-dock-bottom-label = Ngule Poshtë
+toolbox-meatball-menu-dock-left-label = Ngule Majtas
+toolbox-meatball-menu-dock-right-label = Ngule Djathtas
 toolbox-meatball-menu-dock-separate-window-label = Dritare veçmas
-toolbox-meatball-menu-splitconsole-label = Shfaq konsol ndarjesh
+toolbox-meatball-menu-splitconsole-label = Shfaq Konsol të Ndarë
 toolbox-meatball-menu-hideconsole-label = Fshih konsol ndarjesh
 toolbox-meatball-menu-settings-label = Rregullime
 toolbox-meatball-menu-documentation-label = Dokumentim…
@@ -40,10 +40,6 @@ toolbox-mode-parent-process-label = Vetëm procesin mëmë
 toolbox-mode-parent-process-sub-label = (I shpejtë)
 toolbox-mode-parent-process-container =
     .title = Përqendrohu vetëm në burime prej procesit mëmë.
-toolbox-always-on-top-enabled =
-    .title = Çaktivizo “Përherë në krye” (Kjo do të rinisë Mjetet e Zhvilluesit)
-toolbox-always-on-top-disabled =
-    .title = Aktivizo “Përherë në krye” (Kjo do të rinisë Mjetet e Zhvilluesit)
 toolbox-always-on-top-enabled2 = Çaktivizo “Përherë në krye”
     .title = Kjo do të rinisë Mjetet e Zhvilluesit
 toolbox-always-on-top-disabled2 = Aktivizo “Përherë në krye”
