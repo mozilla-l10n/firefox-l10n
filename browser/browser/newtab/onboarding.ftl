@@ -258,8 +258,8 @@ fx100-thank-you-hero-text =
 fx100-thank-you-subtitle = Është hedhja jonë e njëqindtë në qarkullim! Faleminderit që na ndihmoni të ndërtojmë një internet më të mirë, më të shëndetshëm.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Mbaje { -brand-short-name } në Panel
-       *[other] Fiksoje { -brand-short-name } te paneli
+        [macos] Mbaje { -brand-short-name }-in në Panel
+       *[other] Fiksoje { -brand-short-name }-in te paneli
     }
 fx100-upgrade-thanks-header = 100 Falënderime
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
@@ -282,7 +282,7 @@ mr2022-onboarding-welcome-pin-subtitle = Niseni { -brand-short-name }-in prej ng
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Mbaje { -brand-short-name }-in në Panel
-       *[other] Fiksoje { -brand-short-name } te paneli
+       *[other] Fiksoje { -brand-short-name }-in te paneli
     }
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
