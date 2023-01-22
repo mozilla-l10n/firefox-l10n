@@ -108,7 +108,7 @@ policy-PromptForDownloadLocation = Спрашивает, куда сохраня
 policy-Proxy = Настраивает параметры прокси.
 policy-RequestedLocales = Настраивает список запрашиваемых языков для приложения в порядке предпочтения.
 policy-SanitizeOnShutdown2 = Удаляет данные веб-сёрфинга при закрытии браузера.
-policy-SearchBar = Устанавливает расположение панели поиска по умолчанию. Пользователю всё же разрешено его настраивать.
+policy-SearchBar = Устанавливает расположение строки поиска по умолчанию. Пользователю всё же разрешено его настраивать.
 policy-SearchEngines = Настраивает параметры поисковой системы. Эта политика доступна только в версии длительной поддержки (ESR).
 policy-SearchSuggestEnabled = Включает или отключает поисковые предложения.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
