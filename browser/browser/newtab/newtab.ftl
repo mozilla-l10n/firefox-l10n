@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Искать
     .aria-label = Искать
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Найдите в { $engine } или введите адрес
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Введите запрос или адрес
     .title = Введите запрос или адрес
     .aria-label = Введите запрос или адрес
-
 newtab-search-box-text = Искать в Интернете
 newtab-search-box-input =
     .placeholder = Поиск в Интернете
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Изменить ярлык
 newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введите название
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Введите или вставьте URL
 newtab-topsites-url-validation = Введите корректный URL
-
 newtab-topsites-image-url-label = Свой URL изображения
 newtab-topsites-use-image-link = Использовать своё изображение…
 newtab-topsites-image-validation = Изображение не загрузилось. Попробуйте использовать другой URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Спонсировано
 newtab-menu-section-tooltip =
     .title = Открыть меню
     .aria-label = Открыть меню
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Убрать
     .aria-label = Убрать
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -137,7 +131,7 @@ newtab-menu-bookmark = Добавить в закладки
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = Копировать ссылку на загрузку
+newtab-menu-copy-download-link = Скопировать ссылку на загрузку
 newtab-menu-go-to-download-page = Перейти на страницу загрузки
 newtab-menu-remove-download = Удалить из истории
 
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Закладка удалена
 newtab-label-recommended = Популярные
 newtab-label-saved = Сохранено в { -pocket-brand-name }
 newtab-label-download = Загружено
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · На правах рекламы
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = От спонсора { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Рекомендовано { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Начните веб-сёрфинг, и мы покажем вам здесь некоторые из интересных статей, видеороликов и других страниц, которые вы недавно посетили или добавили в закладки.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -236,11 +226,9 @@ newtab-pocket-learn-more = Подробнее
 newtab-pocket-cta-button = Загрузить { -pocket-brand-name }
 newtab-pocket-cta-text = Сохраняйте интересные статьи в { -pocket-brand-name } и подпитывайте свой ум увлекательным чтением.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } является частью семейства { -brand-product-name }
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Сохранить в { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Сохранено в { -pocket-brand-name }
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Загрузить больше историй
 
@@ -251,7 +239,6 @@ newtab-pocket-last-card-title = Вы всё прочитали!
 newtab-pocket-last-card-desc = Зайдите попозже, чтобы увидеть больше.
 newtab-pocket-last-card-image =
     .alt = Вы всё прочитали
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Сохранить
 newtab-pocket-saved = Сохранено

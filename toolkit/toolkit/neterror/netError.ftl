@@ -16,7 +16,7 @@ neterror-malformed-uri-page-title = Некорректный URL
 ## Error page actions
 
 neterror-advanced-button = Дополнительно…
-neterror-copy-to-clipboard-button = Копировать текст в буфер обмена
+neterror-copy-to-clipboard-button = Скопировать текст в буфер обмена
 neterror-learn-more-link = Подробнее…
 neterror-open-portal-login-page-button = Открыть страницу входа в сеть
 neterror-override-exception-button = Принять риск и продолжить
