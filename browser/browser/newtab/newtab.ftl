@@ -23,7 +23,7 @@ newtab-search-box-search-button =
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Kërkoni me { $engine } ose jepni adresë
-newtab-search-box-handoff-text-no-engine = Bëni kërkim ose jepni adresë
+newtab-search-box-handoff-text-no-engine = Bëni kërkim, ose jepni adresë
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-input =
@@ -34,10 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Bëni kërkim, ose jepni adresë
     .title = Bëni kërkim, ose jepni adresë
     .aria-label = Bëni kërkim, ose jepni adresë
-newtab-search-box-text = Kërkoni në web
+newtab-search-box-text = Kërkoni në Web
 newtab-search-box-input =
-    .placeholder = Kërkoni në web
-    .aria-label = Kërkoni në web
+    .placeholder = Kërkoni në Web
+    .aria-label = Kërkoni në Web
 
 ## Top Sites - General form dialog.
 

@@ -70,7 +70,7 @@ csp-xfo-blocked-long-desc = Për të mbrojtur sigurinë tuaj, { $hostname } s’
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = S'arrin të lidhet
+connectionFailure-title = S’arrihet të lidhet
 deniedPortAccess-title = Kjo adresë është e ndaluar
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -100,7 +100,7 @@ unknownSocketType-title = Përgjigje e papritur prej shërbyesit
 nssFailure2-title = Dështoi Lidhja e Sigurt
 csp-xfo-error-title = { -brand-short-name }-i S’mund Ta Hapë Këtë Faqe
 corruptedContentError-title = Gabim nga Lëndë e Dëmtuar
-sslv3Used-title = S'arrin të Lidhet Në Mënyrë të Sigurt
+sslv3Used-title = S’arrihet të Lidhet Në Mënyrë të Sigurt
 inadequateSecurityError-title = Lidhja juaj s'është e sigurt
 blockedByPolicy-title = Faqe e Bllokuar
 clockSkewError-title = Sahati i Kompjuterit tuaj është Gabim

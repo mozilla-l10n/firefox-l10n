@@ -131,7 +131,7 @@ about-processes-utility-actor-audio-decoder-wmf = Shkodues Audio Windows Media F
 
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
-    .title = Kohë CPU gjithsej: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+    .title = Kohë CPU-je gjithsej: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (po bëhen matje)
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
