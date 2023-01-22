@@ -17,39 +17,30 @@
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = E ndalur në deklaratë diagnostikuesi
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a breakpoint
-whypaused-breakpoint = E ndalur kur has pikëndërprerje
-
+whypaused-breakpoint = I ndalur pse hasi pikëndërprerje
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
-whypaused-exception = E ndalur kur has përjashtim
-
+whypaused-exception = I ndalur pse hasi përjashtim
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Shtuar:
-
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = Hequr:
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a JS execution
 whypaused-interrupted = E ndalur gjatë Ekzekutimi
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
-whypaused-resume-limit = E ndalur kur hyhet ose dilet nga funksioni
-
+whypaused-resume-limit = I ndalur pse hyri ose doli nga funksioni
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Gabim me pikëndërprerje kushtore
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an xml http request
-whypaused-xhr = E ndalur kur has XMLHttpRequest
-
+whypaused-xhr = I ndalur pse hasi XMLHttpRequest
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event listener breakpoint set
 whypaused-other = Diagnostikuesi u ndal
