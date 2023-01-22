@@ -855,7 +855,7 @@ popups-infobar-block =
 
 popups-infobar-dont-show-message =
     .label = Mos e shfaq këtë mesazh kur bllokohen flluska
-    .accesskey = D
+    .accesskey = M
 edit-popup-settings =
     .label = Administroni rregullime për flluskat…
     .accesskey = A
