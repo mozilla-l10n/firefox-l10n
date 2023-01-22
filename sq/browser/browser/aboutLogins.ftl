@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Kredenciale Hyrjesh & Fjalëkalime
-
 login-filter =
     .placeholder = Kërkoni te Kredenciale Hyrjesh
-
 create-login-button = Krijoni Kredenciale të Reja Hyrjeje
-
 fxaccounts-sign-in-text = Merrini fjalëkalimet tuaj në pajisjet tuaja të tjera
 fxaccounts-sign-in-sync-button = Për njëkohësime, bëni hyrjen
 fxaccounts-avatar-button =
@@ -80,7 +77,7 @@ about-logins-intro-import2 = Nëse kredencialet tuaja për hyrje janë ruajtur j
 ## Login
 
 login-item-new-login-title = Krijoni Kredenciale të Reja Hyrjeje
-login-item-edit-button = Përpunoni
+login-item-edit-button = Përpunojeni
 about-logins-login-item-remove-button = Hiqi
 login-item-origin-label = Adresë sajti
 login-item-tooltip-message = Sigurohuni që kjo përputhet me adresën e saktë të sajtit ku hyni.
@@ -116,19 +113,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Që të përpunoni kredenci
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = që të përpunoni kredenciale të ruajtura hyrjeje
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Që të shihni fjalëkalimin tuaj, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = që të shfaqet fjalëkalimi i ruajtur
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Që të kopjoni kredencialet tuaja të hyrjes, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = që të kopjohet fjalëkalimi i ruajtur
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Që të eksportoni kredencialet tuaja të hyrjes, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
 # This message can be seen when attempting to export a password in about:logins
@@ -147,23 +141,19 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Anuloje
 confirmation-dialog-dismiss-button =
     .title = Anulim
-
 about-logins-confirm-remove-dialog-title = Të hiqen këto kredenciale hyrjesh?
 confirm-delete-dialog-message = Ky veprim s’mund të zhbëhet.
 about-logins-confirm-remove-dialog-confirm-button = Hiqi
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Hiqe
        *[other] Hiqi Krejt
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Po, hiqe këtë kredencial
        *[other] Po, hiqi këto kredenciale
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Të hiqet { $count } kredencial?
@@ -174,7 +164,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Kjo do të heqë kredencialin që keni ruajtur te { -brand-short-name } dhe çfarëdo sinjalizimesh cenimi që shfaqen këtu. S’do të jeni në gjendje ta zhbëni këtë veprim.
        *[other] Kjo do të heqë kredencialet që keni ruajtur te { -brand-short-name } dhe çfarëdo sinjalizimesh cenimi që shfaqen këtu. S’do të jeni në gjendje ta zhbëni këtë veprim.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Të hiqet { $count } kredencial nga krejt pajisjet?
@@ -185,14 +174,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Kjo do të heqë kredencialin që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara te { -fxaccount-brand-name } juaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S"do të jeni në gjendje të zhbëni këtë veprim.
        *[other] Kjo do të heqë krejt kredencialet që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara te { -fxaccount-brand-name } juaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S"do të jeni në gjendje të zhbëni këtë veprim.
     }
-
 about-logins-confirm-export-dialog-title = Eksportoni kredenciale hyrjesh dhe fjalëkalime
 about-logins-confirm-export-dialog-message = Fjalëkalimet tuaj do të ruhen si tekst i lexueshëm (p.sh., BadP@ssw0rd), ndaj, cilido që mund të hapë kartelën e eksportuar, mund t’i shohë.
 about-logins-confirm-export-dialog-confirm-button = Eksportoni…
-
 about-logins-alert-import-title = Importim i Plotësuar
 about-logins-alert-import-message = Shihni Përmbledhje të hollësishme të Importimit
-
 confirm-discard-changes-dialog-title = Të hidhen tej këto ndryshime?
 confirm-discard-changes-dialog-message = Do të humbin krejt ndryshimet e paruajtura.
 confirm-discard-changes-dialog-confirm-button = Hidhe tej
@@ -223,7 +209,6 @@ about-logins-vulnerable-alert-learn-more-link = Mësoni më tepër
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ka tashmë një zë për { $loginTitle } me atë emër përdoruesi. <a data-l10n-name="duplicate-link">Të shkohet te zëri ekzistues?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Ndodhi një gabim teksa provohej të ruhej ky fjalëkalim.
 
@@ -272,12 +257,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>U shtuan kredenciale të reja:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>U përditësuan kredenciale ekzistuese:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>U gjetën kredenciale të përsëdytur:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(jo të importuara)</span>
@@ -287,7 +270,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Gabime:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(jo të importuara)</span>
     }
 about-logins-import-dialog-done = U bë
-
 about-logins-import-dialog-error-title = Gabim Importimi
 about-logins-import-dialog-error-conflicting-values-title = Vlera të Shumëfishta Që Përplase për Një Kredencial
 about-logins-import-dialog-error-conflicting-values-description = Për shembull: disa emra përdoruesish, fjalëkalimesh, URL, etj. për një kredencial.
@@ -301,10 +283,8 @@ about-logins-import-dialog-error-no-logins-imported = S’janë importuar kreden
 about-logins-import-dialog-error-learn-more = Mësoni më tepër
 about-logins-import-dialog-error-try-import-again = Riprovoni Importim…
 about-logins-import-dialog-error-cancel = Anuloje
-
 about-logins-import-report-title = Përmbledhje Importimi
 about-logins-import-report-description = Kredenciale hyrjesh dhe fjalëkalime të importuar te { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row

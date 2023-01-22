@@ -338,7 +338,7 @@ quickactions-learn-more =
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Shto faqerojtës
-bookmarks-edit-bookmark = Përpunoni Faqerojtësin
+bookmarks-edit-bookmark = Përpunoni faqerojtësin
 bookmark-panel-cancel =
     .label = Anuloje
     .accesskey = A
@@ -730,7 +730,7 @@ bookmarks-search =
 bookmarks-tools =
     .label = Mjete Faqeruajtjeje
 bookmarks-bookmark-edit-panel =
-    .label = Përpunojeni Këtë Faqerojtës
+    .label = Përpunojeni këtë faqerojtës
 bookmarks-subview-edit-bookmark =
     .label = Përpunojeni këtë faqerojtës…
 # The aria-label is a spoken label that should not include the word "toolbar" or

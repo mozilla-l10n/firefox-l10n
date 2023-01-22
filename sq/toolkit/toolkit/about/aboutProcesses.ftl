@@ -13,7 +13,7 @@ about-processes-column-action =
 about-processes-shutdown-process =
     .title = Hiqe ngarkimin e skedave dhe asgjësoje procesin
 about-processes-shutdown-tab =
-    .title = Mbylle skedën
+    .title = Mbylleni skedën
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
