@@ -80,10 +80,10 @@ neterror-proxy-resolve-failure-connection = Kontrolloni kompjuterin tuaj, për t
 neterror-proxy-resolve-failure-firewall = Nëse kompjuteri apo rrjeti juaj mbrohet nga “firewall”, ose ndërmjetës, sigurohuni që { -brand-short-name }-it i lejohet hyrja në Web.
 neterror-proxy-connect-failure-settings = Kontrolloni rregullimet për ndërmjetësin, për t'u siguruar që janë të sakta.
 neterror-proxy-connect-failure-contact-admin = Lidhuni me përgjegjësin e rrjetit tuaj, për t'u siguruar që shërbyesi ndërmjetës po punon.
-neterror-content-encoding-error = Ju lutemi, lidhuni me të zotët e sajtit për t'u bërë të ditur këtë problem.
-neterror-unsafe-content-type = Ju lutemi, lidhuni me të zotët e sajtit për t'u bërë të ditur këtë problem.
+neterror-content-encoding-error = Ju lutemi, lidhuni me të zotët e sajtit, për t’u bërë të ditur këtë problem.
+neterror-unsafe-content-type = Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.
 neterror-nss-failure-not-verified = Faqja që po provoni të shihni nuk shfaqet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.
-neterror-nss-failure-contact-website = Ju lutemi, lidhuni me të zotët e sajtit për t'u bërë të ditur këtë problem.
+neterror-nss-failure-contact-website = Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name }-i pikasi një kërcënim potencial sigurie dhe nuk vazhdoi për te <b>{ $hostname }</b>. Nëse e vizitoni këtë sajt, gjurmuesit mund të provojnë të vjedhin të dhëna tuajat të tilla si fjalëkalime, email-e, ose hollësi kartash krediti.
@@ -98,7 +98,7 @@ certerror-expired-cert-intro = { -brand-short-name }-i pikasi një problem dhe n
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> sipas shumicës së gjasave është sajt i parrezik, por s’u vendos dot një lidhje e sigurt. Ky problem shkaktohet nga <b>{ $mitm }</b>,që është ose software në kompjuterin tuaj, ose në rrjetin tuaj.
 neterror-corrupted-content-intro = Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.
-neterror-corrupted-content-contact-website = Ju lutemi, lidhuni me të zotët e sajtit që t'u njoftoni këtë problem.
+neterror-corrupted-content-contact-website = Ju lutemi, lidhuni me të zotët e sajtit që t’u njoftoni këtë problem.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Të dhëna të mëtejshme: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -111,7 +111,7 @@ neterror-inadequate-security-code = Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Kompjuteri juaj mendon se është { DATETIME($now, dateStyle: "medium") }, gjë që pengon lidhjen e sigurt të { -brand-short-name }-it. Që të vizitoni <b>{ $hostname }</b>, përditësoni te rregullimet e sistemit tuaj sahatin e kompjuterin me datën, kohën dhe zonën e duhur kohore dhe mandej rifreskoni <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Faqja që po rrekeni të shihni s'mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.
-neterror-network-protocol-error-contact-website = Ju lutemi, lidhuni me të zotët e sajtit që t'u njoftoni këtë problem.
+neterror-network-protocol-error-contact-website = Ju lutemi, lidhuni me të zotët e sajtit që t’u njoftoni këtë problem.
 certerror-expired-cert-second-para = Gjasat janë që të ketë skaduar dëshmia e sajtit, gjë që e pengon lidhjen e sigurt të { -brand-short-name }-it. Nëse vizitoni këtë sajt, agresorët mund të rreken të vjedhin të dhëna të tilla si fjalëkalime, email-e, ose hollësi kartash krediti.
 certerror-expired-cert-sts-second-para = Gjasat janë që të ketë skaduar dëshmia e sajtit, gjë që e pengon lidhjen e sigurt të { -brand-short-name }-it.
 certerror-what-can-you-do-about-it-title = Ç’mund të bëni për të?
