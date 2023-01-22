@@ -55,11 +55,11 @@ third-party-button-to-unblock =
     .aria-label = Aktualisht i bllokuar. Klikoni që të zhbllokohet.
 third-party-button-to-unblock-disabled =
     .title =
-        Aktualisht me shenjë si i bllokuar, edhe pse, për këtë xhirim të
-        { -brand-short-name }-it, lista e bllokimeve është e çaktivizuar. Klikoni që të zhbllokohet.
+        Aktualisht me shenjë si i bllokuar, edhe pse, për këtë xhirim të { -brand-short-name }-it,
+        lista e bllokimeve është e çaktivizuar. Klikoni që të zhbllokohet.
     .aria-label =
-        Aktualisht me shenjë si i bllokuar, edhe pse, për këtë xhirim të
-        { -brand-short-name }-it, lista e bllokimeve është e çaktivizuar. Klikoni që të zhbllokohet.
+        Aktualisht me shenjë si i bllokuar, edhe pse, për këtë xhirim të { -brand-short-name }-it,
+        lista e bllokimeve është e çaktivizuar. Klikoni që të zhbllokohet.
 third-party-button-expand =
     .title = Shfaq të dhëna të hollësishme
 third-party-button-collapse =
