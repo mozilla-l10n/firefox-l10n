@@ -172,7 +172,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle2  "Предупреждение: Вероятная угроза безопасности">
 <!ENTITY certerror.sts.pagetitle  "Соединение не установлено: Вероятная угроза безопасности">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> имеет политику безопасности называемую Форсированное защищённое соединение HTTP (HSTS), что означает, что &brandShortName; может подключиться к нему только через защищённое соединение. Вы не можете добавить исключение, чтобы посетить этот сайт.">
-<!ENTITY certerror.copyToClipboard.label "Копировать текст в буфер обмена">
+<!ENTITY certerror.copyToClipboard.label "Скопировать текст в буфер обмена">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

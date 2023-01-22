@@ -105,7 +105,7 @@ about-telemetry-current-data-sidebar = текущие данные
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = все
 # button label to copy the histogram
-about-telemetry-histogram-copy = Копировать
+about-telemetry-histogram-copy = Скопировать
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Медленные SQL-инструкции в главном потоке
 about-telemetry-slow-sql-other = Медленные SQL-инструкции во вспомогательных потоках
