@@ -179,6 +179,9 @@ firefoxview-cfr-secondarybutton = ບໍ່ແມ່ນຕອນນີ້
 
 ## Firefox View Spotlight
 
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = ຕ້ອງການແຖບເປີດນັ້ນຢູ່ໃນໂທລະສັບຂອງທ່ານບໍ? ຄວ້າມັນ. ຕ້ອງການເວັບໄຊທີ່ເຈົ້າຫາກໍ່ເຂົ້າເບິ່ງບໍ? Poof, ມັນກັບມາກັບ { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = ເບິງວິທີການເຮັດວຽກຂອງມັນ
 firefoxview-spotlight-promo-secondarybutton = ຂ້າມ
 
 ## Colorways expiry reminder CFR
