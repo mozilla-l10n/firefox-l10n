@@ -156,7 +156,7 @@ urlbar-result-menu-remove-from-history =
 urlbar-search-tips-onboard = Печатайте меньше, находите больше: Ищите в { $engineName } прямо из адресной строки.
 urlbar-search-tips-redirect-2 = Начните поиск в адресной строке, чтобы увидеть предложения из { $engineName } и истории посещений.
 # Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Поиск стал ещё проще. Попробуйте сделать его более точным в адресной строке. Чтобы вместо этого отобразить сетевой адрес, перейдите в раздел «Поиск» в настройках.
+urlbar-search-tips-persist = Поиск стал проще: теперь вы можете уточнять поисковый запрос в адресной строке. Чтобы вместо этого отобразить адрес сайта, перейдите в раздел «Поиск» в настройках.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Выберите этот ярлык, чтобы быстрее найти то, что вам нужно.
