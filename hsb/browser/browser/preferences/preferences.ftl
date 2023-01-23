@@ -802,6 +802,8 @@ forms-breach-alerts =
     .label = Warnowanja za hesła přez datowu dźěru potrjechenych websydłow
     .accesskey = z
 forms-breach-alerts-learn-more-link = Dalše informacije
+relay-integration =
+    .label = Zmóžńće { -relay-brand-name } w swojim zrjadowaku hesłow { -brand-short-name }
 relay-integration-learn-more-link = Dalše informacije
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
