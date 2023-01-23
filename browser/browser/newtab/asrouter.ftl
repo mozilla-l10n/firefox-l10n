@@ -55,6 +55,25 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } người dùng
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Biểu ngữ cookie sẽ biến mất!
+cfr-cookie-banner-handling-body = Cho phép { -brand-short-name } tự động từ chối tất cả các yêu cầu biểu ngữ cookie khi có thể. Nếu không, tất cả các cookie sẽ được chấp nhận để loại bỏ nhiều biểu ngữ hơn nữa.
+cfr-cookie-banner-reject-button = Không phải bây giờ
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Xem ít cửa sổ bật lên về cookie hơn
+cfr-cookie-banner-handling-body-variant-1 = Hãy để { -brand-short-name } tự động trả lời các cửa sổ bật lên cookie cho bạn để bạn có thể quay lại trình duyệt mà không bị phân tâm. { -brand-short-name } sẽ từ chối tất cả các yêu cầu nếu có thể hoặc chấp nhận tất cả nếu không.
+cfr-cookie-banner-reject-button-variant-1 = Không, cảm ơn
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Giảm biểu ngữ cookie
+cfr-cookie-banner-handling-body-variant-2 = Cho phép { -brand-short-name } từ chối yêu cầu chấp thuận cookie của trang web nếu có thể hoặc chấp nhận quyền truy cập cookie khi không thể?
+cfr-cookie-banner-accept-button-variant-2 = Cho phép
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = Không phải bây giờ
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Đồng bộ dấu trang của bạn ở mọi nơi.
@@ -153,10 +172,6 @@ spotlight-total-cookie-protection-body = Trình chống cookie chung ngăn nhữ
 spotlight-total-cookie-protection-expanded = { -brand-short-name } xây dựng một hàng rào xung quanh cookie, giới hạn chúng ở trang web bạn đang truy cập để trình theo dõi không thể sử dụng chúng để theo dõi bạn. Với quyền truy cập sớm, bạn sẽ giúp tối ưu hóa tính năng này để chúng tôi có thể tiếp tục xây dựng một trang web tốt hơn cho mọi người.
 spotlight-total-cookie-protection-primary-button = Bật Trình chống cookie chung
 spotlight-total-cookie-protection-secondary-button = Không phải bây giờ
-cfr-total-cookie-protection-header = Nhờ có bạn, { -brand-short-name } trở nên riêng tư và an toàn hơn bao giờ hết
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Trình chống cookie chung là biện pháp bảo vệ quyền riêng tư mạnh nhất của chúng tôi – và giờ đây nó là cài đặt mặc định cho người dùng { -brand-short-name } ở mọi nơi. Chúng tôi không thể thực hiện được nếu không có những người tham gia quyền truy cập sớm như bạn. Vì vậy, cảm ơn bạn đã giúp chúng tôi tạo ra một Internet riêng tư và tốt hơn.
 
 ## Emotive Continuous Onboarding
 
@@ -203,8 +218,6 @@ firefoxview-cfr-primarybutton = Thử ngay
     .accesskey = T
 firefoxview-cfr-secondarybutton = Để sau
     .accesskey = N
-firefoxview-cfr-header = Lấy lại các thẻ đã đóng gần đây bằng { -firefoxview-brand-name }
-firefoxview-cfr-body = Thêm vào đó, chuyển đổi liền mạch giữa các thiết bị và thêm một chút màu sắc vào trình duyệt của bạn.
 firefoxview-cfr-header-v2 = Nhanh chóng bắt đầu từ nơi bạn đã dừng lại
 firefoxview-cfr-body-v2 = Lấy lại các thẻ đã đóng gần đây, cộng với chuyển đổi liền mạch giữa các thiết bị với { -firefoxview-brand-name }.
 
@@ -226,3 +239,9 @@ colorways-cfr-header-28days = Các màu cho giọng nói độc lập sẽ hết
 colorways-cfr-header-14days = Màu sắc của giọng nói độc lập sẽ hết hạn sau hai tuần nữa
 colorways-cfr-header-7days = Các màu cho giọng nói độc lập sẽ hết hạn trong tuần này
 colorways-cfr-header-today = Các màu giọng nói độc lập sẽ hết hạn vào ngày hôm nay
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Chúng tôi đã giúp bạn được bảo vệ
+july-jam-body = Mỗi tháng, { -brand-short-name } chặn trung bình hơn 3.000 trình theo dõi trên mỗi người dùng, giúp bạn truy cập Internet tốt một cách an toàn, nhanh chóng.
+july-jam-set-default-primary = Mở liên kết của tôi bằng { -brand-short-name }
