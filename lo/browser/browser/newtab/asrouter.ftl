@@ -57,6 +57,10 @@ cfr-cookie-banner-accept-button = ປິດການຮ້ອງຂໍ
 cfr-cookie-banner-reject-button = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = ເບິ່ງປັອບອັບຄຸກກີໜ້ອຍລົງ
+cfr-cookie-banner-accept-button-variant-1 = ປິດປັອບອັບ
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = ບໍ່, ຂອບໃຈ
+    .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
 
 ## Firefox Accounts Message
@@ -186,6 +190,8 @@ firefoxview-spotlight-promo-secondarybutton = ຂ້າມ
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = ເລືອກສີ
+    .accesskey = C
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

@@ -138,6 +138,8 @@ newtab-section-menu-privacy-notice = ນະໂຍບາຍຄວາມເປັ�
 
 ## Section aria-labels
 
+newtab-section-expand-section-label =
+    .aria-label = ຂະຫຍາຍສ່ວນ
 
 ## Section Headers.
 

@@ -31,6 +31,8 @@ mr1-return-to-amo-subtitle = ເວົ້າສະບາຍດີກັບ { -br
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = ປິດການເຄື່ອນໄຫວ
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
