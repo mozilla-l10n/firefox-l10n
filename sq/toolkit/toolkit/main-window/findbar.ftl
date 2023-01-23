@@ -43,7 +43,7 @@ findbar-fast-find-links =
 findbar-case-sensitive-status =
     .value = (Siç është shkruar)
 findbar-match-diacritics-status =
-    .value = (Me përkim për shenja diakritike)
+    .value = (Me përputhje me shenja diakritike)
 findbar-entire-word-status =
     .value = (Vetëm fjalë të plota)
 # Variables:
