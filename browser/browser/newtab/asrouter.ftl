@@ -61,10 +61,14 @@ cfr-doorhanger-extension-total-users =
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Biểu ngữ cookie sẽ biến mất!
 cfr-cookie-banner-handling-body = Cho phép { -brand-short-name } tự động từ chối tất cả các yêu cầu biểu ngữ cookie khi có thể. Nếu không, tất cả các cookie sẽ được chấp nhận để loại bỏ nhiều biểu ngữ hơn nữa.
+cfr-cookie-banner-accept-button = Loại bỏ biểu ngữ cookie
+    .accesskey = D
 cfr-cookie-banner-reject-button = Không phải bây giờ
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = Xem ít cửa sổ bật lên về cookie hơn
 cfr-cookie-banner-handling-body-variant-1 = Hãy để { -brand-short-name } tự động trả lời các cửa sổ bật lên cookie cho bạn để bạn có thể quay lại trình duyệt mà không bị phân tâm. { -brand-short-name } sẽ từ chối tất cả các yêu cầu nếu có thể hoặc chấp nhận tất cả nếu không.
+cfr-cookie-banner-accept-button-variant-1 = Loại bỏ cửa sổ bật lên
+    .accesskey = D
 cfr-cookie-banner-reject-button-variant-1 = Không, cảm ơn
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Giảm biểu ngữ cookie
