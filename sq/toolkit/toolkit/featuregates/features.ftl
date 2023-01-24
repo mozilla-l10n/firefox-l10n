@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Aktivizon mbulim për veçorinë eksperimentale CSS Masonry Layout. Për një përshkrim të një shkalle më të lartë të veçorisë, shihni <a data-l10n-name="explainer">shpjeguesin</a>. Për të dhënë mendime, ju lutemi, komentoni te <a data-l10n-name="w3c-issue">kjo çështje në GitHub</a> ose <a data-l10n-name="bug">kjo e metë</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
@@ -13,6 +17,10 @@ experimental-features-web-gpu-description2 = Kjo APIe re furnizon mbulim të shk
 experimental-features-media-jxl =
     .label = Media: JPEG XL
 experimental-features-media-jxl-description = Me këtë veçori të aktivizuar, { -brand-short-name }-i mbulon formatin JPEG XL (JXL). Ky është një format i thelluar kartelash figurash që mbulon kalim pa humbje nga kartela tradicionale JPEG. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1539075</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Shtimi i një konstruktori te ndërfaqja <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, si edhe e një larmie ndryshimesh të lidhura me të, bëjnë të mundur të krijohen drejtpërsëdrejti fletëstile të rinj, pa u dashur të shtohet fleta te HTML-ja. Kjo e bën shumë më të lehtë krijimin e fletëstileve të ripërdorshëm për përdorim me <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1520690</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Mjete Zhvilluesi: Panel Përputhjeje
@@ -30,6 +38,10 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = fshehtinë nisjeje about:home
 experimental-features-abouthome-startup-cache-description = Një fshehtinë për dokumentin fillestar about:home, që, si parazgjedhje, ngarkohet gjatë nisjes. Qëllimi i fshehtinës është të përmirësojë punën e nisjes.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Cookie-t prej së njëjtës përkatësi, por me skema të ndryshme (p.sh., http://example.com dhe https://example.com) trajtoji si ndërsajtëshe, në vend se të llojit “same-site”. Përmirëson sigurinë, por mundet të sjellë prishje funksionimi.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
