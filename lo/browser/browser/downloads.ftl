@@ -208,10 +208,18 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ບໍ່ມີການດາວໂຫລດໃນເຊສຊັນນີ້.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading = ກຳລັງດາວໂຫລດໄຟລ໌ອີກ { $count } ໄຟລ໌
 
 ## Download errors
 
 downloads-error-alert-title = ມີຂໍ້ຜິດພາດໃນການດາວໂຫລດ
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = ບໍ່ສາມາດບັນທຶກການດາວໂຫຼດໄດ້ເນື່ອງຈາກມັນຖືກບລັອກໂດຍ { $extension }.
 # Used when the name of the blocking extension is unavailable.
 downloads-error-extension = ບໍ່ສາມາດບັນທຶກການດາວໂຫຼດໄດ້ເນື່ອງຈາກມັນຖືກບລັອກໂດຍສ່ວນຂະຫຍາຍ.
 # Line breaks in this message are meaningful, and should be maintained.
