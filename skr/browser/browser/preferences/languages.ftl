@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window =
-    .title = ویب پیج زبان ترتیباں
+    .title = ویب ورقہ زبان ترتیباں
     .style = width: 40em
 webpage-languages-window2 =
-    .title = ویپ پیج زبان ترتیباں
+    .title = ویب ورقہ زبان ترتیباں
     .style = min-width: 40em
 languages-close-key =
     .key = w
