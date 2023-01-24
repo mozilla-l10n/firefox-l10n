@@ -8,12 +8,19 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } n'en deus ket gellet krouiñ ur maskl nevez. Kod fazi HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } n'en deus ket kavet maskloù da implijout. Kod fazi HTTP: { $status }.
 
 ##
 
+firefox-relay-must-login-to-fxa = Kennaskañ e { -fxaccount-brand-name } a rankit ober a-raok implijout { -relay-brand-name }.
+firefox-relay-get-unlimited-masks =
+    .label = Merañ ar maskloù
+    .accesskey = M
 firefox-relay-opt-in-title = Gwarezit ho chomlec'h mail
 firefox-relay-opt-in-subtitle = Ouzhpennañ { -relay-brand-name }
 firefox-relay-generate-mask-title = Gwarezit ho chomlec'h mail
+firefox-relay-generate-mask-subtitle = Krouiñ ur maskl { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Kenderc'hel
     .accesskey = K
