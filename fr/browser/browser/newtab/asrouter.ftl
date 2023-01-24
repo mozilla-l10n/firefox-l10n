@@ -62,11 +62,13 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Finies les bannières de cookies !
+cfr-cookie-banner-handling-body = Autoriser { -brand-short-name } à rejeter automatiquement les demandes de cookies, lorsque cela est possible. Sinon, tous les cookies seront acceptés pour supprimer les bannières de cookies.
 cfr-cookie-banner-accept-button = Rejeter les demandes
     .accesskey = R
 cfr-cookie-banner-reject-button = Plus tard
     .accesskey = P
 cfr-cookie-banner-handling-header-variant-1 = Voir moins de popups de cookies
+cfr-cookie-banner-handling-body-variant-1 = Laisser { -brand-short-name } répondre automatiquement aux popups de cookies pour une navigation sans distraction. { -brand-short-name } rejettera toutes les demandes si possible, ou les acceptera toutes dans le cas contraire.
 cfr-cookie-banner-accept-button-variant-1 = Rejeter les fenêtres popup
     .accesskey = R
 cfr-cookie-banner-reject-button-variant-1 = Non merci
@@ -245,3 +247,5 @@ colorways-cfr-header-today = Les coloris « Voix indépendantes » expirent au
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Nous assurons votre protection
+july-jam-body = Chaque mois, { -brand-short-name } bloque en moyenne plus de 3 000 traqueurs par utilisateur, vous offrant un accès rapide et sûr au meilleur d’Internet.
+july-jam-set-default-primary = Ouvrir mes liens avec { -brand-short-name }
