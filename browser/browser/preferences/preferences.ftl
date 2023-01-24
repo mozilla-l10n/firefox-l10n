@@ -829,7 +829,7 @@ forms-master-pw-fips-desc = Αποτυχία αλλαγής κωδικού
 forms-windows-sso =
     .label = Να επιτρέπεται η καθολική σύνδεση των Windows για λογαριασμούς Microsoft, εργασίας και σχολείου.
 forms-windows-sso-learn-more-link = Μάθετε περισσότερα
-forms-windows-sso-desc = Διαχείριση λογαριασμών στις ρυθμίσεις συσκευής
+forms-windows-sso-desc = Διαχειριστείτε τους λογαριασμούς σας στις ρυθμίσεις συσκευής
 
 ## OS Authentication dialog
 

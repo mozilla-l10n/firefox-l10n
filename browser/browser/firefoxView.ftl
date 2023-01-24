@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = Για να λάβετε τ�
 firefoxview-tabpickup-password-locked-link = Μάθετε περισσότερα
 firefoxview-tabpickup-password-locked-primarybutton = Εισαγωγή κύριου κωδικού πρόσβασης
 firefoxview-tabpickup-signed-out-header = Συνδεθείτε για επανασύνδεση
+firefoxview-tabpickup-signed-out-description = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
 firefoxview-tabpickup-signed-out-primarybutton = Σύνδεση
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
@@ -69,7 +70,6 @@ firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
 firefoxview-tabs-list-tab-button =
     .title = Άνοιγμα { $targetURI } σε νέα καρτέλα
 firefoxview-try-colorways-button = Δοκιμή χρωματικών συνδυασμών
-firefoxview-no-current-colorway-collection = Έρχονται νέοι χρωματικοί συνδυασμοί
 firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδυασμού
 # Variables:
 #  $intensity (String): Colorway intensity
