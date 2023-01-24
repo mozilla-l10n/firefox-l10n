@@ -33,7 +33,7 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Pse?
-protections-panel-not-blocking-why-etp-on-tooltip = Bllokimi i këtyre mund të dëmtojmë funksionimin e disa elementëve në disa sajte. Pa gjurmues, disa butona, formularë dhe fusha kredencialesh hyrjeje mund të mos funksionojnë.
+protections-panel-not-blocking-why-etp-on-tooltip = Bllokimi i këtyre mund të dëmtojë funksionimin e disa elementëve në disa sajte. Pa gjurmues, disa butona, formularë dhe fusha kredencialesh hyrjeje mund të mos funksionojnë.
 protections-panel-not-blocking-why-etp-off-tooltip = Janë ngarkuar krejt gjurmuesit në këtë sajt, ngaqë mbrojtjet janë të çaktivizuara.
 
 ##
