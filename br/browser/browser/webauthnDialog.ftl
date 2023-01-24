@@ -8,9 +8,9 @@ webauthn-pin-invalid-prompt =
     { $retriesLeft ->
         [0] PIN fall! Skrivit ar PIN reizh evit ho trevnad.
         [one] PIN fall! Skrivit ar PIN reizh evit ho trevnad. { $retriesLeft } taol-esae a chom ganeoc'h.
-        [two] { "" }
-        [few] { "" }
-        [many] { "" }
+        [two] PIN fall! Skrivit ar PIN reizh evit ho trevnad. { $retriesLeft } taol-esae a chom ganeoc'h.
+        [few] PIN fall! Skrivit ar PIN reizh evit ho trevnad. { $retriesLeft } taol-esae a chom ganeoc'h.
+        [many] PIN fall! Skrivit ar PIN reizh evit ho trevnad. { $retriesLeft } taol-esae a chom ganeoc'h.
        *[other] PIN fall! Skrivit ar PIN reizh evit ho trevnad. { $retriesLeft } taol-esae a chom ganeoc'h.
     }
 webauthn-pin-required-prompt = Skrivit PIN ho trevnad marr plij.
