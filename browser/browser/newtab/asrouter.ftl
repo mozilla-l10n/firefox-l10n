@@ -59,6 +59,9 @@ cfr-doorhanger-extension-total-users =
 
 ## Cookie Banner Handling Onboarding
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Εξαφανιστείτε μπάνερ για cookies!
 cfr-cookie-banner-accept-button = Απόρριψη αιτημάτων
     .accesskey = Α
 cfr-cookie-banner-reject-button = Όχι τώρα
@@ -241,3 +244,4 @@ colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Α
 
 july-jam-headline = Πάντα στο πλευρό σας
 july-jam-body = Κάθε μήνα, το { -brand-short-name } αποκλείει κατά μέσο όρο 3.000+ ιχνηλάτες ανά χρήστη, παρέχοντάς σας ασφαλή και γρήγορη πρόσβαση στο διαδίκτυο.
+july-jam-set-default-primary = Άνοιγμα συνδέσμων με το { -brand-short-name }
