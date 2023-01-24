@@ -76,6 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Merdeiñ prevez
 
 ##
@@ -134,6 +136,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Kaout skoazell
 urlbar-search-tips-confirm = Mat eo, komprenet am eus
+urlbar-search-tips-confirm-short = Komprenet em eus!
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -264,14 +267,10 @@ search-one-offs-history =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Gwelout an askouezhioù
 quickactions-cmd-addons2 = askouezhioù
-# Opens the bookmarks library window
-quickactions-bookmarks = Gwelout ar sinedoù
 quickactions-cmd-bookmarks = sinedoù
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Skarzhañ ar roll istor
 quickactions-cmd-clearhistory = skarzhañ ar roll istor
-# Opens about:downloads page
-quickactions-downloads = Digeriñ ar pellgargadurioù
 quickactions-cmd-downloads = pellgargadurioù
 # Opens about:addons page in the extensions section
 quickactions-extensions = Merañ an askouezhioù
@@ -869,6 +868,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Harzet eo bet gant { -brand-short-name } adkargadur emgefreek ar bajennad-mañ.
@@ -876,3 +879,6 @@ refresh-blocked-redirect-label = { -brand-short-name } en deus miret ouzh ar baj
 refresh-blocked-allow =
     .label = Aotren
     .accesskey = A
+
+## Firefox Relay integration
+
