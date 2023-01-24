@@ -59,11 +59,15 @@ cfr-doorhanger-extension-total-users =
 
 ## Cookie Banner Handling Onboarding
 
+cfr-cookie-banner-accept-button = Descartar solicitudes
+    .accesskey = D
 cfr-cookie-banner-reject-button = Ahora no
     .accesskey = A
 cfr-cookie-banner-handling-header-variant-1 = Ver menos ventanas emergentes de cookies
 cfr-cookie-banner-accept-button-variant-1 = Descartar ventanas emergentes
     .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = No, gracias
+    .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Reducción de banner de cookies
 cfr-cookie-banner-accept-button-variant-2 = Permitir
     .accesskey = P
@@ -239,3 +243,4 @@ colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
