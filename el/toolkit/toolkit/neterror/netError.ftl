@@ -53,6 +53,7 @@ neterror-dns-not-found-hint-firewall = Ελέγξετε εάν το { -brand-sho
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστότοπου μέσω του αξιόπιστου προγράμματος ανάλυσης DNS. Αυτό συμβαίνει επειδή:
+neterror-dns-not-found-trr-only-attackers = Εάν συνεχίσετε, ένα τρίτο μέρος ίσως μπορέσει να δει ποιους ιστότοπους επισκέπτεστε ή να σας στείλει σε έναν μη αξιόπιστο ιστότοπο.
 neterror-dns-not-found-trr-only-could-not-connect = Το { -brand-short-name } δεν μπόρεσε να συνδεθεί στο { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Η σύνδεση με το { $trrDomain } διήρκεσε περισσότερο από το αναμενόμενο.
 neterror-dns-not-found-trr-offline = Δεν έχετε συνδεθεί στο διαδίκτυο.
