@@ -33,3 +33,13 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kregiñ gan
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Embannit PDFoù gant hon ostilh skrid nevez
+callout-pdfjs-edit-body-a = Leugnit furmskridoù, ouzhpennit evezhiadennoù pe lakit notennoù war-eeun e { -brand-short-name }.
+callout-pdfjs-edit-body-b = Echu gant ar c'hlask embannerien digoust enlinenn. Leugnit furmskridoù, ouzhpennit evezhiadennoù pe lakit notennoù war-eeun e { -brand-short-name }.
+callout-pdfjs-edit-button = War-lerc'h
+callout-pdfjs-draw-title = Sinit dokumantoù gant hon ostilh tresañ nevez
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Notennit PDFoù, hag enrollit ar cheñchamantoù da-heul.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Echu gant ar moullañ hag ar skannañ. Notennit PDFoù, hag enrollit ar cheñchamantoù da-heul.
+callout-pdfjs-draw-button = Komprenet 'm eus !
