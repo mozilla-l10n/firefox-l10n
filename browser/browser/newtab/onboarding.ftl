@@ -410,3 +410,7 @@ mr2022-onboarding-default-image-alt =
     .aria-label = Wosoba, kotraž logo { -brand-product-name } wobjima
 mr2022-onboarding-import-image-alt =
     .aria-label = Wosoba, kotraž skateboard z tyzu softwarowych symbolow jězdźi
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Žaby přez Łopjena bónčawow z QR-kodom skakotaja, zo byšće { -brand-product-name } za mobilne graty wosrjedźa
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Kuzłoprut da so logu priwatneho modusa { -brand-product-name } z kłobuka jewić
