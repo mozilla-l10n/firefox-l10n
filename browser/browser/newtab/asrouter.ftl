@@ -68,6 +68,7 @@ cfr-doorhanger-extension-total-users =
 cfr-cookie-banner-handling-header = Pasice s piškotki, izginite!
 cfr-cookie-banner-reject-button = Ne zdaj
     .accesskey = N
+cfr-cookie-banner-handling-body-variant-1 = Naj { -brand-short-name } namesto vas odgovarja na zahteve po shranjevanju piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če to ne bo mogoče, pa jih bo sprejel.
 cfr-cookie-banner-reject-button-variant-1 = Ne, hvala
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Zmanjšanje števila pasic s piškotki
