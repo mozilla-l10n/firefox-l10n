@@ -416,3 +416,5 @@ mr2022-onboarding-pin-private-image-alt =
     .aria-label = Kuzłoprut da so logu priwatneho modusa { -brand-product-name } z kłobuka jewić
 mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Swětłokóžne a ćěmnokóžne ruki hromadu kleskaja
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Pohlad na chowanje słónca přez wokno z lišku a stwinej rostlinu na woknowym prohu
