@@ -113,13 +113,13 @@ places-forget-about-this-site-confirmation-title = Emblidar questa website
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Questa acziun allontanescha tut las datas en connex cun { $hostOrBaseDomain }, inclus la cronologia, ils pleds-clav, ils cookies, il cache e las preferenzas dal cuntegn. Vuls ti propi cuntinuar?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Questa acziun allontanescha las datas en connex cun { $hostOrBaseDomain }, inclus la cronologia, ils cookies, il cache e las preferenzas dal cuntegn. Segnapaginas e pleds-clav correspundents na vegnan betg allontanads. Vuls ti propi cuntinuar?
 places-forget-about-this-site-forget = Emblidar
 places-library =
     .title = Biblioteca
     .style = width:850px; height:500px;
-places-library2 =
-    .title = Biblioteca
-    .style = min-width:850px; min-height:500px;
 places-library3 =
     .title = Biblioteca
 places-organize-button =

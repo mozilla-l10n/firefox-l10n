@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tip:
 urlbar-result-menu-button =
     .title = Avrir il menu
+urlbar-result-menu-remove-from-history =
+    .label = Allontanar da la cronologia
+    .accesskey = A
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -281,31 +284,31 @@ search-one-offs-actions =
 quickactions-addons = Mussar ils supplements
 quickactions-cmd-addons2 = supplements
 # Opens the bookmarks library window
-quickactions-bookmarks = Mussar ils segnapaginas
+quickactions-bookmarks2 = Administrar ils segnapaginas
 quickactions-cmd-bookmarks = segnapaginas
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Stizzar la cronologia
 quickactions-cmd-clearhistory = stizzar la cronologia
 # Opens about:downloads page
-quickactions-downloads = Avrir las telechargiadas
+quickactions-downloads2 = Mussar las telechargiadas
 quickactions-cmd-downloads = telechargiadas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administrar las extensiuns
 quickactions-cmd-extensions = extensiuns
 # Opens the devtools web inspector
-quickactions-inspector = Avrir l'inspectur
+quickactions-inspector2 = Avrir ils utensils per sviluppaders
 quickactions-cmd-inspector = inspectur, utensils per sviluppaders
 # Opens about:logins
-quickactions-logins = mussar las infurmaziuns d'annunzia
+quickactions-logins2 = Administrar ils pleds-clav
 quickactions-cmd-logins = infurmaziuns d'annunzia, pleds-clav
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administrar ils plug-ins
 quickactions-cmd-plugins = plug-ins
 # Opens the print dialog
-quickactions-print = Stampar
+quickactions-print2 = Stampar la pagina
 quickactions-cmd-print = stampar
 # Opens a new private browsing window
-quickactions-private = Avrir ina fanestra da navigaziun privata
+quickactions-private2 = Avrir ina fanestra en il modus privat
 quickactions-cmd-private = modus privat
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Redefinir { -brand-short-name }
@@ -314,10 +317,10 @@ quickactions-cmd-refresh = actualisar
 quickactions-restart = Reaviar { -brand-short-name }
 quickactions-cmd-restart = reaviar
 # Opens the screenshot tool
-quickactions-screenshot2 = Far in maletg dal visur
+quickactions-screenshot3 = Far in maletg dal visur
 quickactions-cmd-screenshot = maletg dal visur
 # Opens about:preferences
-quickactions-settings = Avrir ils parameters
+quickactions-settings2 = Administrar ils parameters
 quickactions-cmd-settings = parameters, preferenzas, opziuns
 # Opens about:addons page in the themes section
 quickactions-themes = Administrar ils designs
@@ -326,7 +329,7 @@ quickactions-cmd-themes = designs
 quickactions-update = Actualisar { -brand-short-name }
 quickactions-cmd-update = actualisaziun
 # Opens the view-source UI with current pages source
-quickactions-viewsource = Mussar la funtauna
+quickactions-viewsource2 = Mussar il code da funtauna da la pagina
 quickactions-cmd-viewsource = mussar la funtauna, funtauna
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -947,3 +950,12 @@ refresh-blocked-redirect-label = { -brand-short-name } ha impedì che questa pag
 refresh-blocked-allow =
     .label = Permetter
     .accesskey = e
+
+## Firefox Relay integration
+
+firefox-relay-offer-why-relay = { -relay-brand-name } zuppenta tia dretga adressa dad e-mail per ta proteger da sperditas da datas e posta nungiavischada.
+firefox-relay-offer-how-we-integrate = Sche ti cuntinueschas vegns ti a pudair generar novs alias dad e-mail cun { -relay-brand-short-name } directamain en l'administraziun da pleds-clav da { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Nus vegnin a renviar tut ils e-mails da <strong>{ $sitename }</strong> a <strong>{ $useremail }</strong>.

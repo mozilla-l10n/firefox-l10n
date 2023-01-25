@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Memorisà il pled-clav!
 confirmation-hint-pin-tab = Fixà!
 confirmation-hint-pin-tab-description = Cliccar cun la tasta dretga per betg pli fixar il tab.
 confirmation-hint-send-to-device = Tramess!
+confirmation-hint-firefox-relay-mask-generated = Generà in nov alias { -relay-brand-short-name }!
