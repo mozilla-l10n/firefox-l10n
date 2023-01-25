@@ -414,3 +414,5 @@ mr2022-onboarding-mobile-download-image-alt =
     .aria-label = Žaby přez Łopjena bónčawow z QR-kodom skakotaja, zo byšće { -brand-product-name } za mobilne graty wosrjedźa
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Kuzłoprut da so logu priwatneho modusa { -brand-product-name } z kłobuka jewić
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Swětłokóžne a ćěmnokóžne ruki hromadźe kleskaja
