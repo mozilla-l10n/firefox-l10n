@@ -59,10 +59,19 @@ cfr-doorhanger-extension-total-users =
 
 ## Cookie Banner Handling Onboarding
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Fjern infoskapselbannere!
+cfr-cookie-banner-handling-body = Tillat at { -brand-short-name } automatisk avviser alle forespørsler om infoskapselbanner, når det er mulig. Ellers vil alle infokapsler bli akseptert for å avvise enda flere bannere.
 cfr-cookie-banner-accept-button = Avvis forespørsler
     .accesskey = A
 cfr-cookie-banner-reject-button = Ikke nå
     .accesskey = I
+cfr-cookie-banner-handling-header-variant-1 = Se færre sprettoppvinduer for infokapsler
+cfr-cookie-banner-reject-button-variant-1 = Nei takk
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Redusering av infoskapselbannere
+cfr-cookie-banner-handling-body-variant-2 = Vil du tillate { -brand-short-name } å avslå et nettsteds forespørsel om samtykke for infokapsler hvis mulig, eller godta tilgang til infokapsler når det ikke er mulig?
 cfr-cookie-banner-accept-button-variant-2 = Tillat
     .accesskey = T
 cfr-cookie-banner-reject-button-variant-2 = Ikke nå
@@ -236,3 +245,6 @@ colorways-cfr-header-today = Fargesammensettingen «Uavhengige stemmer» utløpe
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Vi beskytter deg
+july-jam-body = Hver måned blokkerer { -brand-short-name } i gjennomsnitt over 3000 sporere per bruker, noe som gir deg trygg og rask tilgang til et bra internett.
+july-jam-set-default-primary = Åpne lenkene mine med { -brand-short-name }
