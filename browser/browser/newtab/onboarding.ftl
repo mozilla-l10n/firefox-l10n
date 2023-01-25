@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Drastu přidać
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Witajće k { -brand-short-name }
+mr1-return-to-amo-addon-title = Maće spěšny, priwatny wobhladowak k ruce. Nětko móžeće <b>{ $addon-name }</b> přidać a hišće wjace z { -brand-short-name } činić.
 mr1-return-to-amo-add-extension-label = { $addon-name } přidać
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -312,6 +313,9 @@ mr2022-onboarding-set-default-subtitle = Wužiwajće wobhladowak, kotryž so wot
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Naša najnowša wersija je wokoło was natwarjena, kotraž wam lóšo hdy do toho čini, web přehladować. Je połny funkcijow, wo kotrychž sej myslimy, zo so wam spodobaja.
 mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
 
 ## MR2022 Import Settings screen strings
