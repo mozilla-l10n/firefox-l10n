@@ -46,6 +46,9 @@ firefoxview-tabpickup-password-locked-header = Endatescha tes pled-clav universa
 firefoxview-tabpickup-password-locked-description = Per ir per tes tabs stos ti endatar il pled-clav universal per { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Ulteriuras infurmaziuns
 firefoxview-tabpickup-password-locked-primarybutton = Endatar il pled-clav universal
+firefoxview-tabpickup-signed-out-header = T\'annunzia per reconnectar
+firefoxview-tabpickup-signed-out-description = Per reconnectar ed ir per tes tabs, t'annunzia en tes { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-primarybutton = S'annunziar
 firefoxview-tabpickup-syncing = Spetga per plaschair durant che tes tabs vegnan sincronisads. I cuzza be in amen.
 firefoxview-mobile-promo-header = Va per tabs da tes telefonin u tablet
 firefoxview-mobile-promo-description = Per laschar mussar ils ultims tabs da l'apparat mobil, t'annunzia en { -brand-product-name } sin iOS u Android.
@@ -67,7 +70,6 @@ firefoxview-pickup-tabs-badge = Ultim activ
 firefoxview-tabs-list-tab-button =
     .title = Avrir { $targetURI } en in nov tab
 firefoxview-try-colorways-button = Empruvar las cumbinaziuns da colurs
-firefoxview-no-current-colorway-collection = Novas cumbinaziuns da colurs èn prest disponiblas
 firefoxview-change-colorway-button = Midar la cumbinaziun da colurs
 # Variables:
 #  $intensity (String): Colorway intensity

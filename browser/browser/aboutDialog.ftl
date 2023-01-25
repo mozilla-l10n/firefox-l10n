@@ -19,6 +19,7 @@ update-failed = L'actualisaziun n'è betg reussida. <label data-l10n-name="faile
 update-failed-main = L'actualisaziun n'è betg reussida. <a data-l10n-name="failed-link-main">Telechargiar la versiun actuala</a>
 update-adminDisabled = La funcziun dad actualisaziuns è deactivada da tes administratur da sistem
 update-noUpdatesFound = { -brand-short-name } è actual
+aboutdialog-update-checking-failed = Betg reussì da controllar sche actualisaziuns stattan a disposiziun.
 update-otherInstanceHandlingUpdates = { -brand-short-name } vegn actualisà d'ina autra instanza
 update-manual = Actualisaziuns disponiblas sin <label data-l10n-name="manual-link"/>
 update-unsupported = Sin quest sistem na pon naginas actualisaziuns vegnir exequidas pli. <label data-l10n-name="unsupported-link">Dapli infurmaziuns</label>

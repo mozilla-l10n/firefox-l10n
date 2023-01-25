@@ -57,6 +57,29 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utilisaders
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Adia a las bandieras da cookies!
+cfr-cookie-banner-handling-body = Permetter a { -brand-short-name } da refusar automaticamain tut las dumondas da bandieras da cookies, sche pussaivel. Sch'i na va betg, lura vegnan tut ils cookies acceptads per reducir il dumber da bandieras mussadas.
+cfr-cookie-banner-accept-button = Refusar las dumondas
+    .accesskey = R
+cfr-cookie-banner-reject-button = Betg ussa
+    .accesskey = B
+cfr-cookie-banner-handling-header-variant-1 = Mussar damain pop-ups da cookies
+cfr-cookie-banner-handling-body-variant-1 = Lubescha a { -brand-short-name } da respunder automaticamain pop-ups da cookies per tai. Uschia pos ti puspè navigar senza distracziun. { -brand-short-name } vegn a refusar sche pussaivel tut las dumondas, u acceptar tuttas sch'i na va betg auter.
+cfr-cookie-banner-accept-button-variant-1 = Bandischar ils pop-ups
+    .accesskey = B
+cfr-cookie-banner-reject-button-variant-1 = Na, grazia
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reducziun da bandieras da cookies
+cfr-cookie-banner-handling-body-variant-2 = Permetter a { -brand-short-name } da refusar sche pussaivel la dumonda da consentiment areguard il diever da cookies dad ina website u acceptar ils cookies sch'i na va betg auter?
+cfr-cookie-banner-accept-button-variant-2 = Permetter
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Betg ussa
+    .accesskey = B
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronisescha tes segnapaginas dapertut.
@@ -156,10 +179,6 @@ spotlight-total-cookie-protection-body = La protecziun totala cunter cookies imp
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construescha ina saiv enturn cookies, cun als limitar a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar. Cun duvrar gia ussa questa funcziun gidas ti a l'optimar per che nus possian crear in meglier web per ina e mintgin.
 spotlight-total-cookie-protection-primary-button = Activar la protecziun totala cunter cookies
 spotlight-total-cookie-protection-secondary-button = Betg ussa
-cfr-total-cookie-protection-header = Grazia a tai è { -brand-short-name } pli discret e segir che mai
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = La protecziun totala cunter cookies è nossa mesira per la protecziun da datas la pli ferma d'enfin ussa – ed igl è entant ina configuraziun predefinida per tut las utilisadras e tut ils utilisaders da { -brand-short-name } en l'entir mund. Quai na fiss betg stà pussaivel senza participants ch'èn da la partida da bell'entschatta. Grazia pia per ans gidar da crear in meglier internet pli privat.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +225,6 @@ firefoxview-cfr-primarybutton = Empruvar
     .accesskey = E
 firefoxview-cfr-secondarybutton = Betg ussa
     .accesskey = B
-firefoxview-cfr-header = Va danovamain per tabs serrads dacurt cun { -firefoxview-brand-name }
-firefoxview-cfr-body = Mida ultra da quai quasi senza interrupziun tranter apparats e dà in zic colur a tes navigatur.
 firefoxview-cfr-header-v2 = Cuntinuescha immediatamain là nua che ti has chalà
 firefoxview-cfr-body-v2 = Va per tabs serrads dacurt e siglia ultra da quai a moda simpla dad in apparat a l'auter cun agid da { -firefoxview-brand-name }.
 
@@ -229,3 +246,9 @@ colorways-cfr-header-28days = La cumbinaziun da colurs «vuschs independentas» 
 colorways-cfr-header-14days = La cumbinaziun da colurs «vuschs independentas» scada en duas emnas
 colorways-cfr-header-7days = La cumbinaziun da colurs «vuschs independentas» scada quest'emna
 colorways-cfr-header-today = La cumbinaziun da colurs «vuschs independentas» scada oz
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Nus defendain tai
+july-jam-body = Mintga mais blochescha { -brand-short-name } en media passa 3'000 fastizaders per utilisader. Uschia vegns ti svelt e segir en l'internet.
+july-jam-set-default-primary = Avrir mias colliaziuns cun { -brand-short-name }

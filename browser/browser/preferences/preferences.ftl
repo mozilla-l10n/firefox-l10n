@@ -799,6 +799,9 @@ forms-breach-alerts =
     .label = Mussar avertiments per ils pleds-clav da websites cun sperditas da datas
     .accesskey = b
 forms-breach-alerts-learn-more-link = Ulteriuras infurmaziuns
+relay-integration =
+    .label = Activar { -relay-brand-name } en tia administraziun da pleds-clav da { -brand-short-name }
+relay-integration-learn-more-link = Ulteriuras infurmaziuns
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Emplenir automaticamain infurmaziuns d'annunzia
@@ -1003,6 +1006,9 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         Testescha gia ussa nossa funcziun la pli ferma per la protecziun da datas 
         la protecziun optimala da tia sfera privata
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protecziun totala cunter ils cookies limitescha ils cookies a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar sur pliras websites.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriuras infurmaziuns
