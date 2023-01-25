@@ -288,6 +288,30 @@ colorways-cfr-header-14days = Le tonalità Voci indipendenti scadranno in due se
 colorways-cfr-header-7days =  Le tonalità Voci indipendenti scadranno questa settimana
 colorways-cfr-header-today = Le tonalità Voci indipendenti scadono oggi
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Stop ai banner per i cookie
+cfr-cookiebanner-body = Consenti a { -brand-short-name }, se possibile, di rifiutare automaticamente tutte le richieste per i cookie.
+cfr-cookiebanner-accept-button = Elimina banner
+  .accesskey = E
+cfr-cookiebanner-reject-button = Non adesso
+  .accesskey = N
+
+cfr-cookiebanner-header-variant-1 = Liberati dei pop-up per i cookie
+cfr-cookiebanner-body-variant-1 = Consenti a { -brand-short-name } di rispondere automaticamente alle richieste nei pop-up per i cookie, così potrai ritornare a navigare senza distrazioni. Dove possibile, { -brand-short-name } rifiuterà tutte le richieste.
+cfr-cookiebanner-accept-button-variant-1 = Elimina pop-up
+  .accesskey = E
+cfr-cookiebanner-reject-button-variant-1 = No grazie
+  .accesskey = N
+
+cfr-cookiebanner-header-variant-2 = Riduzione banner per i cookie
+cfr-cookiebanner-body-variant-2 = Riduci il numero di banner visualizzati consentendo a { -brand-short-name }, se possibile, di rifiutare la richiesta di consenso per i cookie da parte di un sito.
+cfr-cookiebanner-accept-button-variant-2 = Consenti
+  .accesskey = C
+cfr-cookiebanner-reject-button-variant-2 = Non adesso
+  .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Sempre dalla tua parte
