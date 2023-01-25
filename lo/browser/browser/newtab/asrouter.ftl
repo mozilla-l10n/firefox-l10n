@@ -183,6 +183,7 @@ firefoxview-cfr-secondarybutton = ບໍ່ແມ່ນຕອນນີ້
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = ເວົ້າສະບາຍດີກັບ { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ຕ້ອງການແຖບເປີດນັ້ນຢູ່ໃນໂທລະສັບຂອງທ່ານບໍ? ຄວ້າມັນ. ຕ້ອງການເວັບໄຊທີ່ເຈົ້າຫາກໍ່ເຂົ້າເບິ່ງບໍ? Poof, ມັນກັບມາກັບ { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = ເບິງວິທີການເຮັດວຽກຂອງມັນ
@@ -192,6 +193,8 @@ firefoxview-spotlight-promo-secondarybutton = ຂ້າມ
 
 colorways-cfr-primarybutton = ເລືອກສີ
     .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = ທາສີບຼາວເຊີຂອງທ່ານດ້ວຍ { -brand-short-name } ຮົ່ມສະເພາະທີ່ໄດ້ຮັບແຮງບັນດານໃຈຈາກສຽງທີ່ປ່ຽນວັດທະນະທໍາ.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
