@@ -24,6 +24,7 @@ neterror-pref-reset-button = Bruk standardinnstillingar
 neterror-return-to-previous-page-button = Gå tilbake
 neterror-return-to-previous-page-recommended-button = Gå tilbake (Tilrådd)
 neterror-try-again-button = Prøv på nytt
+neterror-add-exception-button = Fortset alltid for denne sida
 neterror-settings-button = Endre DNS-instillingar
 neterror-view-certificate-link = Vis sertifikat
 

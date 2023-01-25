@@ -62,6 +62,21 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Fjern infoskapselbanner!
+cfr-cookie-banner-handling-body = Tillat at { -brand-short-name } automatisk avviser alle førespurnadar om infoskapselbanner, når det er muleg. Ellers vil alle infokapslar bli akseptert for å avvise endå fleire banner.
+cfr-cookie-banner-accept-button = Avvis førespurnadar
+    .accesskey = A
+cfr-cookie-banner-reject-button = Ikkje no
+    .accesskey = I
+cfr-cookie-banner-handling-header-variant-1 = SJå færre sprettoppvindauge for infokapslar
+cfr-cookie-banner-accept-button-variant-1 = Avvis sprettoppvindauge
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-1 = Nei takk
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Redusering av infoskapselbanner
+cfr-cookie-banner-accept-button-variant-2 = Tillat
+    .accesskey = T
+cfr-cookie-banner-reject-button-variant-2 = Ikkje no
+    .accesskey = n
 
 ## Firefox Accounts Message
 
