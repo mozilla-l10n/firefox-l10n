@@ -702,7 +702,7 @@ prefs-sync-offer-setup-label2 = Synchronizujte si svoje záložky, históriu, ka
 prefs-sync-now =
     .labelnotsyncing = Synchronizovať
     .accesskeynotsyncing = n
-    .labelsyncing = Synchronizácia…
+    .labelsyncing = Synchronizuje sa…
 
 ## The list of things currently syncing.
 

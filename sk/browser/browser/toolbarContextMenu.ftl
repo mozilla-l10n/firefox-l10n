@@ -40,7 +40,7 @@ toolbar-context-menu-remove-extension =
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Nahlásiť rozšírenie
-    .accesskey = r
+    .accesskey = N
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
