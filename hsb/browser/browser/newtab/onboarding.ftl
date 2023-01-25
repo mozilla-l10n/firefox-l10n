@@ -365,6 +365,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Sće inowator.</b> Widźi�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Skočće wot laptopa do šmóratka a zaso wróćo
+mr2022-onboarding-mobile-download-subtitle = Wobstarajće sej rajtarki z jednoho grata a čińće tam dale, hdyž sće na drzhim graće přestał. Nimo toho móžeće swoje zapołožki a hesła synchronizować, hdźežkuli { -brand-product-name } wužiwaće.
 mr2022-onboarding-mobile-download-cta-text = Skennujće QR-kod, zo byšće { -brand-product-name } za swój mobilny grat dóstał abo <a data-l10n-name="download-label">sćelće sej sćehnjenski wotkaz.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skenujće QR-kod, zo byšće sej { -brand-product-name } za mobilny grat wobstarał.
 
@@ -390,6 +391,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Nadrobne informa
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Pomhaće nam lěpši web natwarić.
+mr2022-onboarding-gratitude-subtitle = Wulki dźak, zo sće { -brand-short-name } wužiwaće, kotryž so wot załožby Mozilla Foundation spěchuje. Z wašej pomocu dźěłamy na tym, internet bóle wotewrjeny, přistupny a lěpši za kóždeho činić.
 mr2022-onboarding-gratitude-primary-button-label = Čitajće, štož je nowe
 mr2022-onboarding-gratitude-secondary-button-label = Přehladowanje započeć
 
