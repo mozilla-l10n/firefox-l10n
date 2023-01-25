@@ -123,7 +123,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Якщо ви 
 certerror-expired-cert-what-can-you-do-about-it-clock = Годинник вашого комп'ютера налаштовано на { DATETIME($now, dateStyle: "medium") }. Переконайтеся, що ваш комп'ютер має правильні системні налаштування дати, часу та часового поясу, після чого оновіть <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Якщо ваш годинник налаштовано правильно, ймовірно, конфігурація сайту неправильна і вам не вдасться це виправити. Ви можете повідомити про цю проблему адміністратора вебсайту.
 certerror-bad-cert-domain-what-can-you-do-about-it = Найімовірніше, ця проблема стосується вебсайту, і ви не зможете її виправити. Ви можете сповістити адміністратора вебсайту про цю проблему.
-certerror-mitm-what-can-you-do-about-it-antivirus = Якщо ваше антивірусне програмне забезпечення має функцію сканування зашифрованих з'єднань (“мережний сканер” чи “https-сканер”), ви можете вимкнути її. Якщо це не спрацює, можете спробувати перевстановити антивірусне програмне забезпечення.
+certerror-mitm-what-can-you-do-about-it-antivirus = Якщо ваше антивірусне програмне забезпечення має функцію сканування зашифрованих з'єднань (“мережевий сканер” або “https-сканер”), можете вимкнути її. Якщо це не спрацює, можете спробувати перевстановити антивірусне програмне забезпечення.
 certerror-mitm-what-can-you-do-about-it-corporate = Якщо ви перебуваєте в корпоративній мережі, можете звернутися до свого IT-відділу.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
