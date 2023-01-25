@@ -20,11 +20,9 @@
 permission-dialog-description = Tillatte dette nettstedet å åpne { $scheme }-lenken?
 permission-dialog-description-file = La denne filen åpne { $scheme }-lenken?
 permission-dialog-description-host = Tillate { $host } å åpne { $scheme }-lenken?
-permission-dialog-description-extension = Tillate denne utvidelsen å åpne { $scheme }-lenken?
 permission-dialog-description-app = Tillate dette nettstedet å åpne { $scheme }-lenken med { $appName }?
 permission-dialog-description-host-app = Tillate { $host } å åpne { $scheme }-lenken med { $appName }?
 permission-dialog-description-file-app = Tillate denne filen å åpne { $scheme }-lenken med { $appName }?
-permission-dialog-description-extension-app = Tillate denne utvidelsen å åpne { $scheme }-lenken med { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
