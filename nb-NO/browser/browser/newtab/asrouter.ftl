@@ -57,6 +57,17 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brukere
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-accept-button = Avvis forespørsler
+    .accesskey = A
+cfr-cookie-banner-reject-button = Ikke nå
+    .accesskey = I
+cfr-cookie-banner-accept-button-variant-2 = Tillat
+    .accesskey = T
+cfr-cookie-banner-reject-button-variant-2 = Ikke nå
+    .accesskey = I
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkroniser bokmerkene dine overalt.
@@ -155,10 +166,6 @@ spotlight-total-cookie-protection-body = Total beskyttelse mot infokapsler stopp
 spotlight-total-cookie-protection-expanded = { -brand-short-name }bygger et gjerde rundt infokapsler, og begrenser dem til nettstedet du er på, slik at sporere ikke kan bruke dem til å følge deg. Med tidlig tilgang hjelper du med å optimalisere denne funksjonen slik at vi kan fortsette å bygge et bedre nett for alle.
 spotlight-total-cookie-protection-primary-button = Slå på total beskyttelse mot infokapsler
 spotlight-total-cookie-protection-secondary-button = Ikke nå
-cfr-total-cookie-protection-header = Takket være deg er { -brand-short-name } mer privat og sikrere enn noen gang
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Total beskyttelse mot infokapsler er vår sterkeste personvernbeskyttelse til nå – og den er nå en standardinnstilling for { -brand-short-name }-brukere overalt. Vi kunne ikke ha gjort det uten deltakere med tidlig tilgang som deg. Så takk for at du hjelper oss med å skape et bedre, mer privat internett.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +212,6 @@ firefoxview-cfr-primarybutton = Prøv det
     .accesskey = t
 firefoxview-cfr-secondarybutton = Ikke nå
     .accesskey = n
-firefoxview-cfr-header = Få tilbake nylig lukkede faner med { -firefoxview-brand-name }
-firefoxview-cfr-body = sømløst bytting mellom enheter og legg til en fargeklatt i nettleseren din.
 firefoxview-cfr-header-v2 = Fortsett raskt der du sluttet
 firefoxview-cfr-body-v2 = Få tilbake nylig lukkede faner, pluss sømløst bytting mellom enheter med { -firefoxview-brand-name }.
 
@@ -228,3 +233,6 @@ colorways-cfr-header-28days = Fargesammensettingen «Uavhengige stemmer» utløp
 colorways-cfr-header-14days = Fargesammensettingen «Uavhengige stemmer» utløper om to uker
 colorways-cfr-header-7days = Fargesammensettingen «Uavhengige stemmer» utløper denne uken
 colorways-cfr-header-today = Fargesammensettingen «Uavhengige stemmer» utløper i dag
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
