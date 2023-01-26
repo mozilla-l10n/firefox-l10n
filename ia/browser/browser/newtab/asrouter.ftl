@@ -251,6 +251,7 @@ colorways-cfr-header-today = Le combinationes de colores Independent Voices expi
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Bandieras pro cookies adeo!
+cfr-cookiebanner-body = Permitter a { -brand-short-name } de rejectar automaticamente, quando possibile, tote le requestas de bandieras pro cookie.
 cfr-cookiebanner-accept-button = Dimitter bandieras
     .accesskey = D
 cfr-cookiebanner-reject-button = Non ora
@@ -262,6 +263,7 @@ cfr-cookiebanner-accept-button-variant-1 = Dimitter quadros resaltante
 cfr-cookiebanner-reject-button-variant-1 = No, gratias
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Reduction de bandieras pro cookie
+cfr-cookiebanner-body-variant-2 = Reduce le amonta de bandieras pro cookies que tu vide permittente a { -brand-short-name }, si possibile, de refusar un requesta de consenso al cookie de sito web.
 cfr-cookiebanner-accept-button-variant-2 = Permitter
     .accesskey = P
 cfr-cookiebanner-reject-button-variant-2 = Non ora
