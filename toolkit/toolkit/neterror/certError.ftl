@@ -78,6 +78,9 @@ dnsNotFound-title = Hm. Mamy problemy, te sydło namakać.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Móžne wěstotne riziko za { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = Móžne wěstotne riziko za { $hostname }.
 fileNotFound-title = Dataja njeje so namakała
 fileAccessDenied-title = Přistup k dataji je so wotpokazał
 generic-title = Hopla.

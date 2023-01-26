@@ -27,6 +27,7 @@ neterror-try-again-button = Hišće raz spytać
 neterror-add-exception-button = Za tute sydło přeco pokročować
 neterror-settings-button = DNS-nastajenja změnić
 neterror-view-certificate-link = Certifikat pokazać
+neterror-disable-native-feedback-warning = Přeco pokročować
 
 ##
 
@@ -59,6 +60,13 @@ neterror-dns-not-found-trr-offline = Njejsće z internetom zwjazany.
 neterror-dns-not-found-trr-unknown-host = Adresa za tute websydło njeje so přez { $trrDomain } namakała.
 neterror-dns-not-found-trr-server-problem = Problem z { $trrDomain } je nastał.
 neterror-dns-not-found-trr-unknown-problem = Njewočakowany problem.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-heuristic = DNS přez HTTPs je so we wašej syći znjemóžnił.
+neterror-dns-not-found-native-fallback-not-confirmed = Zwisk z { $trrDomain } hišće hotowy njeje.
 
 ##
 
