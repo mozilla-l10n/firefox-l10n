@@ -247,6 +247,28 @@ colorways-cfr-header-14days = Independent Voices-kleurstellingen verlopen over t
 colorways-cfr-header-7days = Independent Voices-kleurstellingen verlopen deze week
 colorways-cfr-header-today = Independent Voices-kleurstellingen verlopen vandaag
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Vaarwel cookiebanners!
+cfr-cookiebanner-body = { -brand-short-name } toestaan om indien mogelijk alle cookiebannerverzoeken te weigeren.
+cfr-cookiebanner-accept-button = Banners verwijderen
+    .accesskey = v
+cfr-cookiebanner-reject-button = Niet nu
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Zie minder cookie-pop-ups
+cfr-cookiebanner-body-variant-1 = Laat { -brand-short-name } cookie-pop-ups automatisch voor u beantwoorden, zodat u weer kunt navigeren zonder afleiding. { -brand-short-name } wijst alle verzoeken af indien mogelijk.
+cfr-cookiebanner-accept-button-variant-1 = Pop-ups sluiten
+    .accesskey = l
+cfr-cookiebanner-reject-button-variant-1 = Nee bedankt
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reductie van cookiebanners
+cfr-cookiebanner-body-variant-2 = Reduceer het aantal cookiebanners dat u ziet door { -brand-short-name } toe te staan het verzoek om toestemming voor cookies van een website te weigeren, indien mogelijk.
+cfr-cookiebanner-accept-button-variant-2 = Toestaan
+    .accesskey = T
+cfr-cookiebanner-reject-button-variant-2 = Niet nu
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Bij ons bent u veilig
