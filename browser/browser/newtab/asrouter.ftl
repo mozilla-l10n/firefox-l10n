@@ -62,6 +62,7 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Desapareçam faixas de cookies!
+cfr-cookie-banner-handling-body = Permitir que o { -brand-short-name } rejeite automaticamente todos os pedidos de banner de cookies, quando possível. Caso contrário, todos os cookies serão aceites para rejeitar ainda mais banners.
 cfr-cookie-banner-reject-button = Agora não
     .accesskey = A
 cfr-cookie-banner-handling-header-variant-1 = Ver menos pop-ups de cookies
