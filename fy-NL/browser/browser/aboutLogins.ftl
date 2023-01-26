@@ -4,12 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Oanmeldingen en wachtwurden
-
 login-filter =
     .placeholder = Oanmeldingen sykje
-
 create-login-button = Nij oanmelding meitsje
-
+create-new-login-button =
+    .title = Nij oanmelding meitsje
 fxaccounts-sign-in-text = Bring jo wachtwurden nei jo oare apparaten
 fxaccounts-sign-in-sync-button = Oanmelde om te syngronisearjen
 fxaccounts-avatar-button =
@@ -103,6 +102,15 @@ login-item-time-changed = Lêst wizige: { DATETIME($timeChanged, day: "numeric",
 login-item-time-created = Oanmakke: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Lêst brûkt: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Oanmakke
+login-item-timeline-action-updated = Bywurke
+login-item-timeline-action-used = Brûkt
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -116,19 +124,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Fier jo oanmeldgegevens foa
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = bewurkje de bewarre oanmelding
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windows yn om jo wachtwurd te besjen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = toan it bewarre wachtwurd
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windows yn om jo wachtwurd te kopiearjen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopiearje it bewarre wachtwurd
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windows yn om jo oanmelding te eksportearjen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
 # This message can be seen when attempting to export a password in about:logins
@@ -147,25 +152,21 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annulearje
 confirmation-dialog-dismiss-button =
     .title = Annulearje
-
 about-logins-confirm-remove-dialog-title = Dizze oanmelding fuortsmite?
 confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
 about-logins-confirm-remove-dialog-confirm-button = Fuortsmite
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fuortsmite
         [one] Fuortsmite
        *[other] Alle fuortsmite
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, dizze oanmelding fuortsmite
         [one] Ja, dizze oanmelding fuortsmite
        *[other] Ja, dizze oanmeldingen fuortsmite
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } oanmelding fuortsmite?
@@ -177,7 +178,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Dit smyt de oanmelding fuort dy’t jo yn { -brand-short-name } bewarre hawwe en alle warskôgingen foar datalekken dy’t hjir ferskine. Jo kinne dizze aksje net ûngedien meitsje.
        *[other] Dit smyt de oanmeldingen fuort dy’t jo yn { -brand-short-name } bewarre hawwe en alle warskôgingen foar datalekken dy’t hjir ferskine. Jo kinne dizze aksje net ûngedien meitsje.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } oanmelding fan alle apparaten fuortsmite?
@@ -189,14 +189,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Dit smyt de oanmelding fuort dy’t jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy’t mei jo { -fxaccount-brand-name } syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
        *[other] Dit smyt de oanmeldingen fuort dy’t jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy’t mei jo { -fxaccount-brand-name } syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
     }
-
 about-logins-confirm-export-dialog-title = Oanmeldingen en wachtwurden eksportearje
 about-logins-confirm-export-dialog-message = Jo wachtwurden wurde bewarre as lêsbere tekst (bygelyks BadP@ssw0rd), dus elkenien dy’t it eksportearre bestân iepenje kin, kin se besjen.
 about-logins-confirm-export-dialog-confirm-button = Eksportearje…
-
 about-logins-alert-import-title = Ymportearjen foltôge
 about-logins-alert-import-message = Detaillearre ymportgearfetting besjen
-
 confirm-discard-changes-dialog-title = Dizze wizigingen ferwerpe?
 confirm-discard-changes-dialog-message = Alle net-bewarre wizigingen gean ferlern.
 confirm-discard-changes-dialog-confirm-button = Ferwerpe
@@ -227,7 +224,6 @@ about-logins-vulnerable-alert-learn-more-link = Mear ynfo
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Der bestiet al in fermelding foar { $loginTitle } mei dy brûkersnamme. <a data-l10n-name="duplicate-link">Nei besteande fermelding gean?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Der is in flater bard wylst it bewarjen fan dit wachtwurd.
 
@@ -277,13 +273,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Nije oanmelding tafoege:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Nije oanmeldingen tafoege:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Besteande oanmelding bywurke:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Besteande oanmeldingen bywurke:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Dûbele oanmelding fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
@@ -295,7 +289,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Flaters:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
     }
 about-logins-import-dialog-done = Dien
-
 about-logins-import-dialog-error-title = Ymportearflater
 about-logins-import-dialog-error-conflicting-values-title = Meardere tsjinstridige wearden foar ien oanmelding
 about-logins-import-dialog-error-conflicting-values-description = Bygelyks: meardere brûkersnammen, wachtwurden, URL’s, ensfh. foar ien oanmelding.
@@ -309,10 +302,8 @@ about-logins-import-dialog-error-no-logins-imported = Der binne gjin oanmeldinge
 about-logins-import-dialog-error-learn-more = Mear ynfo
 about-logins-import-dialog-error-try-import-again = Probearje nochris te ymportearjen…
 about-logins-import-dialog-error-cancel = Annulearje
-
 about-logins-import-report-title = Ymportgearfetting
 about-logins-import-report-description = Oanmeldingen en wachtwurden ymportearre yn { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row

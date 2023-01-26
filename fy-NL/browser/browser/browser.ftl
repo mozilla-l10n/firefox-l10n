@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Fuortsmite út skiednis
     .accesskey = F
+urlbar-result-menu-tip-get-help =
+    .label = Help krije
+    .accesskey = H
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Add-ons besjen
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
-quickactions-bookmarks = Blêdwizers besjen
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Blêdwizers beheare
 quickactions-cmd-bookmarks = blêdwizers
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Skiednis wiskje
 quickactions-cmd-clearhistory = skiednis wiskje
-# Opens about:downloads page
-quickactions-downloads = Downloads iepenje
 # Opens about:downloads page
 quickactions-downloads2 = Downloads besjen
 quickactions-cmd-downloads = downloads
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = downloads
 quickactions-extensions = Utwreidingen beheare
 quickactions-cmd-extensions = útwreidingen
 # Opens the devtools web inspector
-quickactions-inspector = Inspector iepenje
-# Opens the devtools web inspector
 quickactions-inspector2 = Developer Tools iepenje
 quickactions-cmd-inspector = inspector, devtools
-# Opens about:logins
-quickactions-logins = Oanmeldingen werjaan
 # Opens about:logins
 quickactions-logins2 = Wachtwurden beheare
 quickactions-cmd-logins = oanmeldingen, wachtwurden
@@ -313,12 +308,8 @@ quickactions-cmd-logins = oanmeldingen, wachtwurden
 quickactions-plugins = Ynstekkers beheare…
 quickactions-cmd-plugins = ynstekkers
 # Opens the print dialog
-quickactions-print = Ofdrukke
-# Opens the print dialog
 quickactions-print2 = Side ôfdrukke
 quickactions-cmd-print = ôfdrukke
-# Opens a new private browsing window
-quickactions-private = Priveenavigaasjefinster iepenje
 # Opens a new private browsing window
 quickactions-private2 = Priveefinster iepenje
 quickactions-cmd-private = priveenavigaasje
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = fernije
 quickactions-restart = { -brand-short-name } opnij starte
 quickactions-cmd-restart = opnij starte
 # Opens the screenshot tool
-quickactions-screenshot2 = In skermôfdruk meitsje
-# Opens the screenshot tool
 quickactions-screenshot3 = In skermôfbylding meitsje
 quickactions-cmd-screenshot = skermôfdruk
-# Opens about:preferences
-quickactions-settings = Ynstellingen iepenje
 # Opens about:preferences
 quickactions-settings2 = Ynstellingen beheare
 quickactions-cmd-settings = ynstellingen, foarkarren, opsjes
@@ -344,8 +331,6 @@ quickactions-cmd-themes = tema’s
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } bywurkje
 quickactions-cmd-update = bywurkje
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Boarne besjen
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Sideboarne besjen
 quickactions-cmd-viewsource = boarne besjen, boarne
