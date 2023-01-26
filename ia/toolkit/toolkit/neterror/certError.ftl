@@ -78,6 +78,9 @@ dnsNotFound-title = Hmm. Nos ha problemas a trovar iste sito.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Possibile risco de securitate pro { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = Possibile risco de securitate pro { $hostname }.
 fileNotFound-title = File non trovate
 fileAccessDenied-title = Le accesso al file ha essite refusate
 generic-title = Ups.

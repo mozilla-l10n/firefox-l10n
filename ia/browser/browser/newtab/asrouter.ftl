@@ -247,6 +247,26 @@ colorways-cfr-header-14days = Le combinationes de colores Independent Voices exp
 colorways-cfr-header-7days = Le combinationes de colores Independent Voices expira iste septimana
 colorways-cfr-header-today = Le combinationes de colores Independent Voices expira hodie
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Bandieras pro cookies adeo!
+cfr-cookiebanner-accept-button = Dimitter bandieras
+    .accesskey = D
+cfr-cookiebanner-reject-button = Non ora
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Vider minus quadros resaltante de cookies
+cfr-cookiebanner-body-variant-1 = Lassa que { -brand-short-name } responde automaticamente al quadros resaltante de cookies pro te, assi que tu pote navigar de novo libere de distractiones. { -brand-short-name } rejectara tote le requestas si possibile.
+cfr-cookiebanner-accept-button-variant-1 = Dimitter quadros resaltante
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = No, gratias
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reduction de bandieras pro cookie
+cfr-cookiebanner-accept-button-variant-2 = Permitter
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Non ora
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Nos te mantene secur

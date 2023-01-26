@@ -27,6 +27,7 @@ neterror-try-again-button = Retentar
 neterror-add-exception-button = Sempre continuar pro iste sito
 neterror-settings-button = Cambiar parametros de DNS
 neterror-view-certificate-link = Vider le certificato
+neterror-disable-native-feedback-warning = Sempre continuar
 
 ##
 
@@ -61,6 +62,12 @@ neterror-dns-not-found-trr-offline = Nulle connexion a internet
 neterror-dns-not-found-trr-unknown-host = Un adresse pro iste sito web non era trovava per { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Il habeva un problema con { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problema inexpectate.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } non pote proteger tu requesta pro le adresse de iste sito per nostre resolver de DNS digne de fide. Ecce perque:
 
 ##
 
