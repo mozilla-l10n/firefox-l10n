@@ -7,6 +7,8 @@ about-logins-page-title = Kredenciale Hyrjesh & Fjalëkalime
 login-filter =
     .placeholder = Kërkoni te Kredenciale Hyrjesh
 create-login-button = Krijoni Kredenciale të Reja Hyrjeje
+create-new-login-button =
+    .title = Krijoni kredenciale të reja hyrjeje
 fxaccounts-sign-in-text = Merrini fjalëkalimet tuaj në pajisjet tuaja të tjera
 fxaccounts-sign-in-sync-button = Për njëkohësime, bëni hyrjen
 fxaccounts-avatar-button =
@@ -99,6 +101,15 @@ login-item-cancel-button = Anuloje
 login-item-time-changed = Ndryshuar së fundi më: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Krijuar më: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Përdorur së fundi më: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Krijuar më
+login-item-timeline-action-updated = Përditësuar më
+login-item-timeline-action-used = Përdorur më
 
 ## OS Authentication dialog
 
