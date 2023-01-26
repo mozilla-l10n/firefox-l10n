@@ -7,6 +7,8 @@ about-logins-page-title = Лагіны і паролі
 login-filter =
     .placeholder = Шукаць лагіны
 create-login-button = Дадаць новы лагін
+create-new-login-button =
+    .title = Стварыць новы лагін
 fxaccounts-sign-in-text = Атрымайце доступ да сваіх пароляў на іншых прыладах
 fxaccounts-sign-in-sync-button = Увайсці ў сінхранізацыю
 fxaccounts-avatar-button =
@@ -100,6 +102,15 @@ login-item-cancel-button = Скасаваць
 login-item-time-changed = Апошняе змяненне: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Створаны: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Апошняе выкарыстанне: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Створаны
+login-item-timeline-action-updated = Абноўлены
+login-item-timeline-action-used = Выкарыстаны
 
 ## OS Authentication dialog
 
