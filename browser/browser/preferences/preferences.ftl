@@ -934,6 +934,8 @@ sitedata-option-block-unvisited =
     .label = Cwcis o wefannau heb ymweld â nhw
 sitedata-option-block-all-third-party =
     .label = Pob cwci trydydd parti (gall achosi i wefannau i dorri)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Pob cwci traws-safle (gall achosi i wefannau dorri)
 sitedata-option-block-all =
     .label = Pob cwci (bydd yn achosi i wefannau dorri)
 sitedata-clear =
@@ -1013,6 +1015,7 @@ content-blocking-all-cookies = Pob cwci
 content-blocking-unvisited-cookies = Cwcis o safleoedd heb ymweld â nhw
 content-blocking-all-windows-tracking-content = Tracio cynnwys ym mhob ffenestr
 content-blocking-all-third-party-cookies = Pob cwci trydydd parti
+content-blocking-all-cross-site-cookies = Pob cwci traws-gwefan
 content-blocking-cryptominers = Cryptogloddwyr
 content-blocking-fingerprinters = Bysbrintwyr
 # "Test pilot" is used as a verb. Possible alternatives:

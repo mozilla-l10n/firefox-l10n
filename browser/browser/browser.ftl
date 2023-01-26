@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Tynnu o'r hanes
     .accesskey = T
+urlbar-result-menu-tip-get-help =
+    .label = Derbyn cymorth
+    .accesskey = D
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Gweld Ychwanegion
 quickactions-cmd-addons2 = ychwanegion
 # Opens the bookmarks library window
-quickactions-bookmarks = Gweld Nodau Tudalen
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Rheoli nodau tudalen
 quickactions-cmd-bookmarks = nodau tudalen
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Clirio Hanes
 quickactions-cmd-clearhistory = clirio hanes
-# Opens about:downloads page
-quickactions-downloads = Agor y Llwythi
 # Opens about:downloads page
 quickactions-downloads2 = Gweld llwythi
 quickactions-cmd-downloads = llwythi
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = llwythi
 quickactions-extensions = Rheoli estyniadau
 quickactions-cmd-extensions = estyniadau
 # Opens the devtools web inspector
-quickactions-inspector = Agor yr Archwilydd
-# Opens the devtools web inspector
 quickactions-inspector2 = Agor Offer Datblygwyr
 quickactions-cmd-inspector = arolygydd, devtools
-# Opens about:logins
-quickactions-logins = Gweld Mewngofnodion
 # Opens about:logins
 quickactions-logins2 = Rheoli cyfrineiriau
 quickactions-cmd-logins = mewngofnodion, cyfrineiriau
@@ -313,12 +308,8 @@ quickactions-cmd-logins = mewngofnodion, cyfrineiriau
 quickactions-plugins = Rheoli ategion
 quickactions-cmd-plugins = ategion
 # Opens the print dialog
-quickactions-print = Argraffu
-# Opens the print dialog
 quickactions-print2 = Argraffu tudalen
 quickactions-cmd-print = argraffu
-# Opens a new private browsing window
-quickactions-private = Agor Ffenestr Pori Preifat
 # Opens a new private browsing window
 quickactions-private2 = Agor ffenestr breifat
 quickactions-cmd-private = pori preifat
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = adnewyddu
 quickactions-restart = Ailgychwyn { -brand-short-name }
 quickactions-cmd-restart = ailgychwyn
 # Opens the screenshot tool
-quickactions-screenshot2 = Cymryd Llun Sgrin
-# Opens the screenshot tool
 quickactions-screenshot3 = Cymryd llun sgrin
 quickactions-cmd-screenshot = llun sgrin
-# Opens about:preferences
-quickactions-settings = Agor y Gosodiadau
 # Opens about:preferences
 quickactions-settings2 = Rheoli gosodiadau
 quickactions-cmd-settings = gosodiadau, dewisiadau, opsiynau
@@ -344,8 +331,6 @@ quickactions-cmd-themes = themâu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Diweddaru { -brand-short-name }
 quickactions-cmd-update = diweddaru
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Gweld y Ffynhonell
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Gweld Ffynhonnell Tudalen
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
