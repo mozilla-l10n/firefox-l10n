@@ -244,6 +244,28 @@ colorways-cfr-header-14days = 독립적인 목소리 컬러웨이 2주 후 만�
 colorways-cfr-header-7days = 독립적인 목소리 컬러웨이 이번 주 만료됨
 colorways-cfr-header-today = 독립적인 목소리 컬러웨이 오늘 만료됨
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = 쿠키 배너가 사라졌습니다!
+cfr-cookiebanner-body = 가능한 경우 { -brand-short-name }가 모든 쿠키 배너 요청을 자동으로 거부하도록 허용합니다.
+cfr-cookiebanner-accept-button = 배너 닫기
+    .accesskey = D
+cfr-cookiebanner-reject-button = 나중에
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = 쿠키 팝업 덜 보기
+cfr-cookiebanner-body-variant-1 = { -brand-short-name }가 쿠키 팝업에 자동으로 응답하도록 하여 방해받지 않고 탐색할 수 있습니다. { -brand-short-name }는 가능한 경우 모든 요청을 거부합니다.
+cfr-cookiebanner-accept-button-variant-1 = 팝업 닫기
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = 아니요
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = 쿠키 배너 줄이기
+cfr-cookiebanner-body-variant-2 = 가능한 경우 { -brand-short-name }가 웹 사이트의 쿠키 동의 요청을 거부하도록 허용하여 표시되는 쿠키 배너의 양을 줄입니다.
+cfr-cookiebanner-accept-button-variant-2 = 허용
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = 나중에
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = 저희가 사용자를 보호합니다
