@@ -1005,6 +1005,7 @@ content-blocking-all-cookies = Wšě placki
 content-blocking-unvisited-cookies = Placki z njewopytanych sydłow
 content-blocking-all-windows-tracking-content = Slědowacy wobsah we wšěch woknach
 content-blocking-all-third-party-cookies = Wšě placki třećich
+content-blocking-all-cross-site-cookies = Wšě sydła přesahowace placki
 content-blocking-cryptominers = Kryptokopanje
 content-blocking-fingerprinters = Porstowe wotćišće
 # "Test pilot" is used as a verb. Possible alternatives:
