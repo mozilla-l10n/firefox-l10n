@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Credenciais e palavras-passe
-
 login-filter =
     .placeholder = Pesquisar credenciais
-
 create-login-button = Criar nova credencial
-
 fxaccounts-sign-in-text = Obtenha as suas palavras-passe nos seus outros dispositivos
 fxaccounts-sign-in-sync-button = Iniciar sessão para sincronizar
 fxaccounts-avatar-button =
@@ -103,6 +100,14 @@ login-item-time-changed = Última modificação: { DATETIME($timeChanged, day: "
 login-item-time-created = Criada: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Última utilização: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = Criado
+login-item-timeline-action-updated = Atualizado
+login-item-timeline-action-used = Utilizado
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -116,19 +121,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar a sua credencia
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar a credencial guardada
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver a sua palavra-passe, introduza as suas credenciais de autenticação do Windows. Isto ajuda a proteger a segurança das suas contas.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = revelar a palavra-passe guardada
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Para copiar a sua palavra-passe, introduza as suas credenciais de autenticação do Windows. Isto ajuda a proteger a segurança das suas contas.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar a palavra-passe guardada
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Para exportas as suas credenciais, introduza as suas credenciais de autenticação do Windows. Isto ajuda a proteger a segurança das suas contas.
 # This message can be seen when attempting to export a password in about:logins
@@ -147,24 +149,20 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-
 about-logins-confirm-remove-dialog-title = Remover esta credencial?
 confirm-delete-dialog-message = Esta ação não pode ser anulada.
 about-logins-confirm-remove-dialog-confirm-button = Remover
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Remover
         [one] Remover
        *[other] Remover tudo
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Sim, remover esta credencial
        *[other] Sim, remover estas credenciais
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Remover { $count } credencial?
@@ -175,7 +173,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Isto irá remover a credencial que guardou no { -brand-short-name } e quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
        *[other] Isto irá remover as credenciais que guardou no { -brand-short-name } e quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Remover { $count } credencial de todos os dispositivos?
@@ -186,14 +183,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
        *[other] Isto irá remover todas as credenciais que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
     }
-
 about-logins-confirm-export-dialog-title = Exportar credenciais e palavras-passe
 about-logins-confirm-export-dialog-message = As suas palavras-passe serão guardadas como texto legível (por exemplo, BadP@ssw0rd) para que qualquer pessoa que possa abrir o ficheiro exportado as possa visualizar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
-
 about-logins-alert-import-title = Importação concluída
 about-logins-alert-import-message = Ver resumo detalhado da importação
-
 confirm-discard-changes-dialog-title = Descartar alterações não guardadas?
 confirm-discard-changes-dialog-message = Todas as alterações não guardadas irão ser perdidas.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -224,7 +218,6 @@ about-logins-vulnerable-alert-learn-more-link = Saber mais
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Já existe uma entrada com esse nome de utilizador para { $loginTitle }. <a data-l10n-name="duplicate-link">Ir para a entrada existente?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Ocorreu um erro enquanto tentava guardar esta palavra-passe.
 
@@ -274,13 +267,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Nova credencial adicionada:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Novas credenciais adicionadas:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Credencial existente atualizada:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Credenciais existentes atualizadas:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Foi encontrada uma credencial duplicada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importada)</span>
@@ -292,7 +283,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Erros:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importadas)</span>
     }
 about-logins-import-dialog-done = Concluído
-
 about-logins-import-dialog-error-title = Erro de importação
 about-logins-import-dialog-error-conflicting-values-title = Múltiplos valores conflituantes para Credencial Única
 about-logins-import-dialog-error-conflicting-values-description = Por exemplo: vários nomes de utilizador, palavras-passe, endereços, etc. para uma credencial.
@@ -306,10 +296,8 @@ about-logins-import-dialog-error-no-logins-imported = Não foram importadas cred
 about-logins-import-dialog-error-learn-more = Saber mais
 about-logins-import-dialog-error-try-import-again = Tente importar novamente...
 about-logins-import-dialog-error-cancel = Cancelar
-
 about-logins-import-report-title = Resumo de importação
 about-logins-import-report-description = Credenciais e palavras-passe importadas para o { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
