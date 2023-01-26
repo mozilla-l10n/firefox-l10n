@@ -246,6 +246,28 @@ colorways-cfr-header-14days = Ngjyrimi “Zëra të Pavarur”  skadon pas dy ja
 colorways-cfr-header-7days = Ngjyrimi “Zëra të Pavarur”  skadon pas këtë javë
 colorways-cfr-header-today = Ngjyrimi “Zëra të Pavarur”  skadon sot
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Lamtumirë banderola cookie-sh!
+cfr-cookiebanner-body = Lejojeni { -brand-short-name }-in të hedhë poshtë automatikisht krejt kërkesat për banderola cookie-sh, kur është e mundur.
+cfr-cookiebanner-accept-button = Hidh Tej Banderola
+    .accesskey = H
+cfr-cookiebanner-reject-button = Jo Tani
+    .accesskey = J
+cfr-cookiebanner-header-variant-1 = Shihni më pak flluska cookie-sh
+cfr-cookiebanner-body-variant-1 = Lejojeni { -brand-short-name }-i t’u përgjigjet vetvetiu për ju flluskave për cookie, që të mund t’i ktheheni shfletimit pa shpërqendrim. { -brand-short-name }-i do të hedhë poshtë krejt kërkesat, kur është e mundur.
+cfr-cookiebanner-accept-button-variant-1 = Hidh tej Flluska
+    .accesskey = H
+cfr-cookiebanner-reject-button-variant-1 = Jo, Faleminderit
+    .accesskey = J
+cfr-cookiebanner-header-variant-2 = Reduktim Banderolash Për Cookie-t
+cfr-cookiebanner-body-variant-2 = Reduktoni sasinë e banderolave që shihni për “cookies”, duke e lejuar { -brand-short-name }-in të hedhë poshtë një kërkesë pranimi cookie-sh nga një sajt, nëse është e mundur.
+cfr-cookiebanner-accept-button-variant-2 = Lejoje
+    .accesskey = L
+cfr-cookiebanner-reject-button-variant-2 = Jo Tani
+    .accesskey = J
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Mendojmë ne për ju
