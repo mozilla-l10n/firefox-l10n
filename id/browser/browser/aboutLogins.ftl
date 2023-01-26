@@ -7,6 +7,8 @@ about-logins-page-title = Info Masuk dan Kata Sandi
 login-filter =
     .placeholder = Cari Info Masuk
 create-login-button = Buat Info Masuk Baru
+create-new-login-button =
+    .title = Buat info masuk baru
 fxaccounts-sign-in-text = Dapatkan kata sandi Anda di perangkat lain
 fxaccounts-sign-in-sync-button = Masuk untuk sinkronisasi
 fxaccounts-avatar-button =
@@ -103,6 +105,7 @@ login-item-time-used = Terakhir digunakan: { DATETIME($timeUsed, day: "numeric",
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Dibuat
 login-item-timeline-action-updated = Diperbarui
 login-item-timeline-action-used = Sudah digunakan
