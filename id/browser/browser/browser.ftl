@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Hapus dari riwayat
     .accesskey = r
+urlbar-result-menu-tip-get-help =
+    .label = Dapatkan bantuan
+    .accesskey = b
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

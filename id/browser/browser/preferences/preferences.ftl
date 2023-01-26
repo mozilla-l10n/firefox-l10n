@@ -981,6 +981,7 @@ content-blocking-all-cookies = Semua kuki
 content-blocking-unvisited-cookies = Kuki dari situs yang belum dikunjungi
 content-blocking-all-windows-tracking-content = Melacak konten di seluruh jendela
 content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
+content-blocking-all-cross-site-cookies = Semua kuki lintas situs
 content-blocking-cryptominers = Penambang Kripto
 content-blocking-fingerprinters = Pelacak Sidik
 # "Test pilot" is used as a verb. Possible alternatives:
