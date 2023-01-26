@@ -244,6 +244,28 @@ colorways-cfr-header-14days = Màu sắc của giọng nói độc lập sẽ h�
 colorways-cfr-header-7days = Các màu cho giọng nói độc lập sẽ hết hạn trong tuần này
 colorways-cfr-header-today = Các màu giọng nói độc lập sẽ hết hạn vào ngày hôm nay
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Biểu ngữ cookie sẽ biến mất!
+cfr-cookiebanner-body = Cho phép { -brand-short-name } tự động từ chối tất cả các yêu cầu biểu ngữ cookie khi có thể.
+cfr-cookiebanner-accept-button = Loại bỏ biểu ngữ
+    .accesskey = D
+cfr-cookiebanner-reject-button = Không phải bây giờ
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Xem ít cửa sổ bật lên về cookie hơn
+cfr-cookiebanner-body-variant-1 = Hãy để { -brand-short-name } tự động trả lời các cửa sổ bật lên cookie cho bạn để bạn có thể quay lại trình duyệt mà không bị phân tâm. { -brand-short-name } sẽ từ chối tất cả các yêu cầu nếu có thể.
+cfr-cookiebanner-accept-button-variant-1 = Loại bỏ cửa sổ bật lên
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = Không, cảm ơn
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Giảm biểu ngữ cookie
+cfr-cookiebanner-body-variant-2 = Giảm số lượng biểu ngữ cookie bạn nhìn thấy bằng cách cho phép { -brand-short-name } từ chối yêu cầu chấp thuận cookie của trang web nếu có thể.
+cfr-cookiebanner-accept-button-variant-2 = Cho phép
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = Không phải bây giờ
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Chúng tôi đã giúp bạn được bảo vệ

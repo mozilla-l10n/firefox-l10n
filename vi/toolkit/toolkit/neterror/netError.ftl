@@ -27,6 +27,7 @@ neterror-try-again-button = Thử lại
 neterror-add-exception-button = Luôn luôn tiếp tục cho trang web này
 neterror-settings-button = Thay đổi cài đặt DNS
 neterror-view-certificate-link = Xem chứng chỉ
+neterror-disable-native-feedback-warning = Luôn luôn tiếp tục
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = Bạn không kết nối với Internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } không tìm thấy địa chỉ cho trang web này.
 neterror-dns-not-found-trr-server-problem = Đã xảy ra sự cố với { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Sự cố không xác định.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua trình phân giải DNS đáng tin cậy của chúng tôi. Đây là lý do tại sao:
+neterror-dns-not-found-native-fallback-attackers = Bạn có thể tiếp tục với trình phân giải DNS không an toàn. Tuy nhiên, bên thứ ba có thể xem những trang web bạn truy cập hoặc đưa bạn đến một trang web không đáng tin cậy.
+neterror-dns-not-found-native-fallback-heuristic = DNS over HTTP đã bị tắt trên mạng của bạn.
+neterror-dns-not-found-native-fallback-not-confirmed = Kết nối tới { $trrDomain } chưa sẵn sàng.
 
 ##
 
