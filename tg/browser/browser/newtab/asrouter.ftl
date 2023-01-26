@@ -246,6 +246,25 @@ colorways-cfr-header-14days = Нақшу нигорҳои садоҳои мус�
 colorways-cfr-header-7days = Нақшу нигорҳои садоҳои мустақил дар охири ҳафтаи ҷорӣ хомӯш мешаванд
 colorways-cfr-header-today = Нақшу нигорҳои садоҳои мустақил имрӯз хомӯш мешаванд
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Баннерҳои куки гум шаванд!
+cfr-cookiebanner-accept-button = Қатъ кардани баннерҳо
+    .accesskey = Қ
+cfr-cookiebanner-reject-button = Ҳоло не
+    .accesskey = Ҳ
+cfr-cookiebanner-header-variant-1 = Камтар дидани равзанаҳои зоҳиршавандаи кукиҳо
+cfr-cookiebanner-accept-button-variant-1 = Қатъ кардани равзанаҳои зоҳиршаванда
+    .accesskey = Қ
+cfr-cookiebanner-reject-button-variant-1 = Не, ташаккур
+    .accesskey = Н
+cfr-cookiebanner-header-variant-2 = Маҳдудкунии баннери куки
+cfr-cookiebanner-accept-button-variant-2 = Иҷозат додан
+    .accesskey = И
+cfr-cookiebanner-reject-button-variant-2 = Ҳоло не
+    .accesskey = Ҳ
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Мо шуморо бо ғамхорӣ фаро гирифтем

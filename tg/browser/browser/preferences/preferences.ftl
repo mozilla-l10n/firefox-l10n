@@ -917,6 +917,8 @@ sitedata-option-block-unvisited =
     .label = Кукиҳо аз сомонаҳои боздиднашуда
 sitedata-option-block-all-third-party =
     .label = Ҳамаи кукиҳои тарафҳои сеюм (метавонанд фаъолияти сомонаҳоро вайрон кунанд)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Ҳамаи кукиҳои байнисомонавӣ (метавонанд фаъолияти сомонаҳоро вайрон кунанд)
 sitedata-option-block-all =
     .label = Ҳамаи кукиҳо (метавонанд фаъолияти сомонаҳоро вайрон кунанд)
 sitedata-clear =
@@ -996,6 +998,7 @@ content-blocking-all-cookies = Ҳамаи кукиҳо
 content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқимонда
 content-blocking-all-windows-tracking-content = Муҳтавои пайгирикунанда дар ҳамаи равзанаҳо
 content-blocking-all-third-party-cookies = Ҳамаи кукиҳои тарафҳои сеюм
+content-blocking-all-cross-site-cookies = Ҳамаи кукиҳои байнисомонавӣ
 content-blocking-cryptominers = Криптомайнерҳо
 content-blocking-fingerprinters = Хонандаи нақши ангушт
 # "Test pilot" is used as a verb. Possible alternatives:

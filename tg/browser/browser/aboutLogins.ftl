@@ -7,6 +7,8 @@ about-logins-page-title = Воридшавиҳо ва ниҳонвожаҳо
 login-filter =
     .placeholder = Ҷустуҷӯи воридшавиҳо
 create-login-button = Эҷод кардани воридшавии нав
+create-new-login-button =
+    .title = Эҷод кардани воридшавии нав
 fxaccounts-sign-in-text = Ниҳонвожаҳои худро дар дастгоҳҳои дигари худ ба даст оред
 fxaccounts-sign-in-sync-button = Барои ҳамоҳангсозӣ ворид шавед
 fxaccounts-avatar-button =
@@ -99,6 +101,15 @@ login-item-cancel-button = Бекор кардан
 login-item-time-changed = Санаи тағйири охирин: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Санаи эҷод: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Санаи истифодаи охирин: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Санаи эҷод
+login-item-timeline-action-updated = Санаи навсозӣ
+login-item-timeline-action-used = Санаи истифода
 
 ## OS Authentication dialog
 
