@@ -247,6 +247,26 @@ colorways-cfr-header-14days = A „Független hangok” színvilágok két hét 
 colorways-cfr-header-7days = A „Független hangok” színvilágok a héten járnak le
 colorways-cfr-header-today = A „Független hangok” színvilágok ma járnak le
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Elég a sütibannerekből!
+cfr-cookiebanner-accept-button = Bannerek eltüntetése
+    .accesskey = t
+cfr-cookiebanner-reject-button = Most nem
+    .accesskey = n
+cfr-cookiebanner-header-variant-1 = Lásson kevesebb sütikkel kapcsolatos felugró ablakot
+cfr-cookiebanner-body-variant-1 = Hagyja, hogy a { -brand-short-name } automatikusan válaszoljon a sütik előugró ablakaira, így visszatérhet a zavartalan böngészéshez. A { -brand-short-name } elutasítja az összes kérést, ha az lehetséges.
+cfr-cookiebanner-accept-button-variant-1 = Felugró ablakok eltüntetése
+    .accesskey = t
+cfr-cookiebanner-reject-button-variant-1 = Köszönöm, nem
+    .accesskey = n
+cfr-cookiebanner-header-variant-2 = Sütibannerek számának csökkentése
+cfr-cookiebanner-accept-button-variant-2 = Engedélyezés
+    .accesskey = E
+cfr-cookiebanner-reject-button-variant-2 = Most nem
+    .accesskey = n
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Fedezzük Önt

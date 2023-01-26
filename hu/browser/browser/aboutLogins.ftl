@@ -4,12 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Bejelentkezések és jelszavak
-
 login-filter =
     .placeholder = Bejelentkezések keresése
-
 create-login-button = Új bejelentkezés létrehozása
-
+create-new-login-button =
+    .title = Új bejelentkezés létrehozása
 fxaccounts-sign-in-text = Érje el jelszavait a többi eszközén is
 fxaccounts-sign-in-sync-button = Bejelentkezés a szinkronizáláshoz
 fxaccounts-avatar-button =
@@ -103,6 +102,15 @@ login-item-time-changed = Legutóbb módosítva: { DATETIME($timeChanged, day: "
 login-item-time-created = Létrehozva: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Legutóbb használva: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Létrehozva
+login-item-timeline-action-updated = Frissítve
+login-item-timeline-action-used = Használva
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -116,19 +124,16 @@ about-logins-edit-login-os-auth-dialog-message-win = A bejelentkezés szerkeszt�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = szerkessze a mentett bejelentkezést
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = A jelszava megtekintéséhez írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = felfedje a mentett jelszót
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = A jelszava másolásához írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = másolja a mentett jelszót
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = A bejelentkezés exportálásához írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
 # This message can be seen when attempting to export a password in about:logins
@@ -147,25 +152,21 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Mégse
 confirmation-dialog-dismiss-button =
     .title = Mégse
-
 about-logins-confirm-remove-dialog-title = Eltávolítja ezt a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
 about-logins-confirm-remove-dialog-confirm-button = Eltávolítás
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Eltávolítás
         [one] Eltávolítás
        *[other] Összes eltávolítása
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Igen, a bejelentkezés eltávolítása
         [one] Igen, a bejelentkezés eltávolítása
        *[other] Igen, a bejelentkezések eltávolítása
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Eltávolít { $count } bejelentkezést?
@@ -177,7 +178,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezést és az itt megjelenő adatsértési figyelmeztetéseket is. Ez a művelet nem vonható vissza.
        *[other] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezéseket és az itt megjelenő adatsértési figyelmeztetéseket is. Ez a művelet nem vonható vissza.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Eltávolít { $count } bejelentkezést az összes eszközről?
@@ -189,14 +189,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Ez eltávolítja az összes, a { -brand-short-name }ba mentett bejelentkezést, az összes, a { -fxaccount-brand-name }jával szinkronizált eszközéről. Ez eltávolítja az itt megjelenő figyelmeztetéseket is. Ez a művelet nem vonható vissza.
        *[other] Ez eltávolítja az összes, a { -brand-short-name }ba mentett bejelentkezést, az összes, a { -fxaccount-brand-name }jával szinkronizált eszközéről. Ez eltávolítja az itt megjelenő figyelmeztetéseket is. Ez a művelet nem vonható vissza.
     }
-
 about-logins-confirm-export-dialog-title = Bejelentkezések és jelszavak exportálása
 about-logins-confirm-export-dialog-message = A jelszavai olvasható szövegként lesznek mentve (például R0sszJel$zó), így bárki megtekintheti, aki meg tudja nyitni az exportált fájlt.
 about-logins-confirm-export-dialog-confirm-button = Exportálás…
-
 about-logins-alert-import-title = Importálás kész
 about-logins-alert-import-message = Részletes importálási összefoglaló megtekintése
-
 confirm-discard-changes-dialog-title = Elveti a mentetlen módosításokat?
 confirm-discard-changes-dialog-message = Minden nem mentett változás elvész.
 confirm-discard-changes-dialog-confirm-button = Elvetés
@@ -227,7 +224,6 @@ about-logins-vulnerable-alert-learn-more-link = További tudnivalók
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Már létezik bejegyzése a(z) { $loginTitle } oldalhoz ezzel a felhasználónévvel. <a data-l10n-name="duplicate-link">Ugrás a létező bejegyzéshez?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Hiba történt a jelszó mentésekor.
 
@@ -277,13 +273,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Új bejelentkezés hozzáadva:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Új bejelentkezések hozzáadva:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Meglévő bejelentkezés frissítve:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Meglévő bejelentkezések frissítve:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Ismétlődő bejelentkezés található:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
@@ -295,7 +289,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Hibák:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
     }
 about-logins-import-dialog-done = Kész
-
 about-logins-import-dialog-error-title = Importálási hiba
 about-logins-import-dialog-error-conflicting-values-title = Több ütköző érték egy bejelentkezéshez
 about-logins-import-dialog-error-conflicting-values-description = Például: több felhasználónév, jelszó, URL-ek stb. egy bejelentkezéshez.
@@ -309,10 +302,8 @@ about-logins-import-dialog-error-no-logins-imported = Nem lettek bejelentkezése
 about-logins-import-dialog-error-learn-more = További tudnivalók
 about-logins-import-dialog-error-try-import-again = Importálás újrapróbálása…
 about-logins-import-dialog-error-cancel = Mégse
-
 about-logins-import-report-title = Importálási összefoglaló
 about-logins-import-report-description = A { -brand-short-name }ba importált bejelentkezési adatok és jelszavak.
-
 #
 # Variables:
 #  $number (number) - The number of the row
