@@ -63,6 +63,8 @@ cfr-doorhanger-extension-total-users =
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Desapareçam faixas de cookies!
 cfr-cookie-banner-handling-body = Permitir que o { -brand-short-name } rejeite automaticamente todos os pedidos de banner de cookies, quando possível. Caso contrário, todos os cookies serão aceites para rejeitar ainda mais banners.
+cfr-cookie-banner-accept-button = Rejeitar Pedidos
+    .accesskey = R
 cfr-cookie-banner-reject-button = Agora não
     .accesskey = A
 cfr-cookie-banner-handling-header-variant-1 = Ver menos pop-ups de cookies
@@ -240,6 +242,15 @@ colorways-cfr-header-28days = Os estilos de cor de Vozes Independentes expiram a
 colorways-cfr-header-14days = Os estilos de cor de Vozes Independentes expiram em duas semanas
 colorways-cfr-header-7days = Os estilos de cor de Vozes Independentes expiram esta semana
 colorways-cfr-header-today = Os estilos de cor de Independent Voices expiram hoje
+
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-reject-button = Agora não
+    .accesskey = n
+cfr-cookiebanner-header-variant-1 = Ver menos pop-ups de cookies
+cfr-cookiebanner-reject-button-variant-1 = Não, obrigado
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Redução de Faixas de Cookies
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
