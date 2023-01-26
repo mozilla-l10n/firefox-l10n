@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Z historije wotstronić
     .accesskey = h
+urlbar-result-menu-tip-get-help =
+    .label = Pomoc wobstarać
+    .accesskey = P
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

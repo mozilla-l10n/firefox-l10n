@@ -4,12 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Přizjewjenja a hesła
-
 login-filter =
     .placeholder = Přizjewjenja pytać
-
 create-login-button = Nowe přizjewjenje załožić
-
+create-new-login-button =
+    .title = Nowe přizjewjenje załožić
 fxaccounts-sign-in-text = Přinjesće swoje hesła do wašich druhich gratow
 fxaccounts-sign-in-sync-button = Pola Sync přizjewić
 fxaccounts-avatar-button =
@@ -105,6 +104,15 @@ login-item-time-changed = Poslednja změna: { DATETIME($timeChanged, day: "numer
 login-item-time-created = Wutworjeny: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Poslednje wužiće: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Wutworjeny
+login-item-timeline-action-updated = Zaktualizowany
+login-item-timeline-action-used = Wužity
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -118,19 +126,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Zapodajće swoje přizjewje
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = składowane přizjewjenje wobdźěłać
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće sej swoje hesło wobhladał. To wěstotu wašich kontow škita.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = składowane hesło pokazać
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje hesło kopěrował. To wěstotu wašich kontow škita.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = składowane hesło kopěrować
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje přizjewjenja eksportował. To wěstotu wašich kontow škita.
 # This message can be seen when attempting to export a password in about:logins
@@ -149,11 +154,9 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Přetorhnyć
 confirmation-dialog-dismiss-button =
     .title = Přetorhnyć
-
 about-logins-confirm-remove-dialog-title = Tute přizjewjenje wotstronić?
 confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
 about-logins-confirm-remove-dialog-confirm-button = Wotstronić
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Wotstronić
@@ -162,7 +165,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Wšě wotstronić
        *[other] Wšě wotstronić
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Haj, tute přizjewjenje wotstronić
@@ -171,7 +173,6 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Haj, tute přizjewjenja wotstronić
        *[other] Haj, tute přizjewjenja wotstronić
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } přizjewjenje wotstronić?
@@ -187,7 +188,6 @@ about-logins-confirm-remove-all-dialog-message =
         [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } składował a wšě warnowanja wo datowych dźěrach, kotrež so tu pokazuja. Tuta akcija njeda so cofnyć.
        *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } składował a wšě warnowanja wo datowych dźěrach, kotrež so tu pokazuja. Tuta akcija njeda so cofnyć.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } přizjewjenje ze wšěch gratow wotstronić?
@@ -203,14 +203,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
        *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
     }
-
 about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
 about-logins-confirm-export-dialog-message = Waše hesła budu so jako čitajomny tekst składować (na př. BadP@ass0rd), tohodla móže kóždy, kotryž móže eksportowanu dataju wočinić, je widźeć.
 about-logins-confirm-export-dialog-confirm-button = Eksportować…
-
 about-logins-alert-import-title = Importowanje dokónčene
 about-logins-alert-import-message = Nadrobne importowe zjeće pokazać
-
 confirm-discard-changes-dialog-title = Njeskładowane změny zaćisnyć?
 confirm-discard-changes-dialog-message = Wšě njeskładowane změny so zhubja.
 confirm-discard-changes-dialog-confirm-button = Zaćisnyć
@@ -241,7 +238,6 @@ about-logins-vulnerable-alert-learn-more-link = Dalše informacije
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Zapisk za { $loginTitle } z tym wužiwarskim mjenom hižo eksistuje. <a data-l10n-name="duplicate-link">K eksistowacemu zapiskej?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Při pospyće tute hesło składować, je zmylk nastał.
 
@@ -293,7 +289,6 @@ about-logins-import-dialog-items-added =
         [few] <span>Nowe přizjewjenja přidate:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Nowe přizjewjenja přidate:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Eksistowace přizjewjenje zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
@@ -301,7 +296,6 @@ about-logins-import-dialog-items-modified =
         [few] <span>Eksistowace přizjewjenja zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Eksistowace přizjewjenja zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Dwójne přizjewjenje namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
@@ -317,7 +311,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Zmylki:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
     }
 about-logins-import-dialog-done = Dokónčene
-
 about-logins-import-dialog-error-title = Importowy zmylk
 about-logins-import-dialog-error-conflicting-values-title = Wjacore hódnoty za jedne přizjewjenje w konflikće
 about-logins-import-dialog-error-conflicting-values-description = Na přikład: wjacore wužiwarske mjena, hesła, URL atd. za jedne přizjewjenje.
@@ -331,10 +324,8 @@ about-logins-import-dialog-error-no-logins-imported = Žane přizjewjenja njejsu
 about-logins-import-dialog-error-learn-more = Dalše informacije
 about-logins-import-dialog-error-try-import-again = Spytajće znowa importować…
 about-logins-import-dialog-error-cancel = Přetorhnyć
-
 about-logins-import-report-title = Zjeće importować
 about-logins-import-report-description = Přizjewjenja a hesła su so do { -brand-short-name } importowali.
-
 #
 # Variables:
 #  $number (number) - The number of the row
