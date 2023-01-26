@@ -250,6 +250,28 @@ colorways-cfr-header-14days = Забарвлення незалежних гол
 colorways-cfr-header-7days = Забарвлення незалежних голосів доступні до кінця тижня
 colorways-cfr-header-today = Забарвлення незалежних голосів доступні до кінця дня
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Геть банери про куки!
+cfr-cookiebanner-body = Дозволити { -brand-short-name } автоматично відхиляти всі можливі запити банерів про куки.
+cfr-cookiebanner-accept-button = Відхиляти банери
+    .accesskey = х
+cfr-cookiebanner-reject-button = Не зараз
+    .accesskey = Н
+cfr-cookiebanner-header-variant-1 = Менше спливних повідомлень про збереження кук
+cfr-cookiebanner-body-variant-1 = Дозвольте { -brand-short-name } автоматично відповідати на спливні повідомлення про збереження кук, щоб ви могли користуватися інтернетом без відволікання. { -brand-short-name } відхилятиме всі можливі запити.
+cfr-cookiebanner-accept-button-variant-1 = Відхиляти спливні запити
+    .accesskey = с
+cfr-cookiebanner-reject-button-variant-1 = Ні, дякую
+    .accesskey = Н
+cfr-cookiebanner-header-variant-2 = Зменшення кількості банерів кук
+cfr-cookiebanner-body-variant-2 = Зменште кількість банерів про куки, дозволивши { -brand-short-name } відхиляти запити від вебсайтів про збереження кук, коли це можливо.
+cfr-cookiebanner-accept-button-variant-2 = Дозволити
+    .accesskey = з
+cfr-cookiebanner-reject-button-variant-2 = Не зараз
+    .accesskey = Н
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ми прикриваємо вас
