@@ -902,6 +902,8 @@ sitedata-option-block-unvisited =
     .label = Cookie từ các trang web không mong muốn
 sitedata-option-block-all-third-party =
     .label = Tất cả cookie của bên thứ ba (có thể khiến các trang web bị hỏng)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Tất cả cookie trên nhiều trang web (có thể khiến trang web bị hỏng)
 sitedata-option-block-all =
     .label = Tất cả các cookie (có thể khiến các trang web bị hỏng)
 sitedata-clear =
@@ -981,6 +983,7 @@ content-blocking-all-cookies = Tất cả cookie
 content-blocking-unvisited-cookies = Cookie từ các trang không mong muốn
 content-blocking-all-windows-tracking-content = Trình theo dõi nội dung trong tất cả cửa sổ
 content-blocking-all-third-party-cookies = Toàn bộ cookie từ bên thứ ba
+content-blocking-all-cross-site-cookies = Tất cả cookie trên nhiều trang web
 content-blocking-cryptominers = Tiền điện tử
 content-blocking-fingerprinters = Dấu vết (Fingerprintng)
 # "Test pilot" is used as a verb. Possible alternatives:
