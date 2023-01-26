@@ -902,6 +902,8 @@ sitedata-option-block-unvisited =
     .label = 방문하지 않은 웹 사이트의 쿠키
 sitedata-option-block-all-third-party =
     .label = 모든 제3자 쿠키 (웹 사이트가 제대로 작동 안 할 수 있음)
+sitedata-option-block-all-cross-site-cookies =
+    .label = 모든 교차 사이트 쿠키 (웹 사이트가 제대로 작동 안 할 수 있음)
 sitedata-option-block-all =
     .label = 모든 쿠키 (웹 사이트가 제대로 작동 안하게 됨)
 sitedata-clear =
@@ -981,6 +983,7 @@ content-blocking-all-cookies = 모든 쿠키
 content-blocking-unvisited-cookies = 방문하지 않은 사이트의 쿠키
 content-blocking-all-windows-tracking-content = 모든 창의 추적 콘텐츠
 content-blocking-all-third-party-cookies = 모든 제3자 쿠키
+content-blocking-all-cross-site-cookies = 모든 교차 사이트 쿠키
 content-blocking-cryptominers = 암호화폐 채굴기
 content-blocking-fingerprinters = 디지털 지문
 # "Test pilot" is used as a verb. Possible alternatives:
