@@ -993,6 +993,8 @@ sitedata-option-block-unvisited =
     .label = Колачићи са непосећених веб сајтова
 sitedata-option-block-all-third-party =
     .label = Сви колачићи треће стране (може сломити сајтове)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Сви колачићи трећих страна (може да изазове пад сајтова)
 sitedata-option-block-all =
     .label = Сви колачићи (сломиће сајтове)
 sitedata-clear =
@@ -1072,6 +1074,7 @@ content-blocking-all-cookies = Сви колачићи
 content-blocking-unvisited-cookies = Колачићи са непосећених сајтова
 content-blocking-all-windows-tracking-content = Садржај који прати у свим прозорима
 content-blocking-all-third-party-cookies = Све колачиће треће стране
+content-blocking-all-cross-site-cookies = Сви колачићи трећих страна
 content-blocking-cryptominers = Крипторудари
 content-blocking-fingerprinters = Сакупљачи дигиталних отисака
 # "Test pilot" is used as a verb. Possible alternatives:

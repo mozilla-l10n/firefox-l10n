@@ -4,12 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Пријаве
-
 login-filter =
     .placeholder = Претражите пријаве
-
 create-login-button = Направите нову пријаву
-
+create-new-login-button =
+    .title = Направите нову пријаву
 fxaccounts-sign-in-text = Приступите лозинкама на другим уређајима
 fxaccounts-sign-in-sync-button = Пријавите се ради синхронизације
 fxaccounts-avatar-button =
@@ -112,6 +111,15 @@ login-item-time-changed = Последња измена: { DATETIME($timeChanged
 login-item-time-created = Направљено: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Последњи пут коришћено: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Направљено
+login-item-timeline-action-updated = Ажурирано
+login-item-timeline-action-used = Коришћено
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -125,19 +133,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Из безбедносни
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уреди сачувану пријаву
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте видели лозинку.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = прикажи сачувану лозинку
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте копирали лозинку.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирај сачувану лозинку
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте извезли записе.
 # This message can be seen when attempting to export a password in about:logins
@@ -156,11 +161,9 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
-
 about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
 confirm-delete-dialog-message = Ова радња се не може опозвати.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Уклони
@@ -168,13 +171,11 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Уклони све
        *[other] Уклони све
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Да, уклони ову пријаву
        *[other] Да, уклони ове пријаве
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Уклонити { $count } пријаву?
@@ -198,7 +199,6 @@ about-logins-confirm-remove-all-dialog-message =
                *[other] програму { -brand-short-name }
             }
     }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Уклонити { $count } пријаву са свих уређаја?
@@ -236,14 +236,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
                *[other] програму { -brand-short-name }
             } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
     }
-
 about-logins-confirm-export-dialog-title = Извезите податке за пријаву
 about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
 about-logins-confirm-export-dialog-confirm-button = Извоз…
-
 about-logins-alert-import-title = Увоз је завршен
 about-logins-alert-import-message = Погледајте детаљан резиме увоза
-
 confirm-discard-changes-dialog-title = Одбацити несачуване промене?
 confirm-discard-changes-dialog-message = Изгубићете све несачуване промене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
@@ -274,7 +271,6 @@ about-logins-vulnerable-alert-learn-more-link = Сазнајте више
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Унос { $loginTitle } са овим корисничким именом већ постоји. <a data-l10n-name="duplicate-link">Идите на постојећи унос?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Дошло је до грешке при чувању лозинке.
 
@@ -311,12 +307,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Додато нових пријава:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Ажурирано пријава:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Пронађено дупликата:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
@@ -328,7 +322,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Грешке:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
     }
 about-logins-import-dialog-done = Готово
-
 about-logins-import-dialog-error-title = Грешка при увозу
 about-logins-import-dialog-error-conflicting-values-title = Више конфликтних вредности за једну пријаву
 about-logins-import-dialog-error-conflicting-values-description = На пример: више корисничких имена, лозинки или URL адреса за једну пријаву.
@@ -342,7 +335,6 @@ about-logins-import-dialog-error-no-logins-imported = Ниједна прија�
 about-logins-import-dialog-error-learn-more = Сазнајте више
 about-logins-import-dialog-error-try-import-again = Покушај увоз поново…
 about-logins-import-dialog-error-cancel = Откажи
-
 about-logins-import-report-title = Сажетак увоза
 about-logins-import-report-description =
     Подаци за пријаву су увезени у { -brand-short-name.gender ->
@@ -351,7 +343,6 @@ about-logins-import-report-description =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     }.
-
 #
 # Variables:
 #  $number (number) - The number of the row

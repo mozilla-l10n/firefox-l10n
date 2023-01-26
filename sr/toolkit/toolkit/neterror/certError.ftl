@@ -84,6 +84,9 @@ dnsNotFound-title = Овај сајт није доступан
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Могући безбедносни ризик за { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = Могући безбедносни ризик за { $hostname }.
 fileNotFound-title = Датотека није пронађена
 fileAccessDenied-title = Приступ датотеци је одбијен
 generic-title = Грешка

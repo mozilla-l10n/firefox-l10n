@@ -27,6 +27,7 @@ neterror-try-again-button = Пoкушај поново
 neterror-add-exception-button = Увек настави на овај сајт
 neterror-settings-button = Промени DNS подешавања
 neterror-view-certificate-link = Прикажи сертификат
+neterror-disable-native-feedback-warning = Увек настави
 
 ##
 
@@ -61,6 +62,13 @@ neterror-dns-not-found-trr-offline = Нисте повезани на интер
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } није могао да пронађе адресу овог сајта.
 neterror-dns-not-found-trr-server-problem = Дошло је до проблема са { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Неочекивани проблем.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не може да обезбеди ваш захтев за адресу овог сајта помоћу нашег поузданог DNS разрешивача. Јер:
+neterror-dns-not-found-native-fallback-not-confirmed = Веза са { $trrDomain } још није спремна.
 
 ##
 
