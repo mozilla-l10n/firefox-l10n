@@ -27,6 +27,7 @@ neterror-try-again-button = 다시 시도
 neterror-add-exception-button = 이 사이트는 항상 계속 진행
 neterror-settings-button = DNS 설정 변경
 neterror-view-certificate-link = 인증서 보기
+neterror-disable-native-feedback-warning = 항상 계속
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = 인터넷에 연결되어 있지 않습니�
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } 사이트가 이 웹사이트의 주소를 찾지 못했습니다.
 neterror-dns-not-found-trr-server-problem = { $trrDomain }에 문제가 있습니다.
 neterror-dns-not-found-trr-unknown-problem = 예기치 않은 문제.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 확인자를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
+neterror-dns-not-found-native-fallback-attackers = 안전하지 않은 DNS 확인자를 사용하여 계속할 수 있습니다. 그러나 제3자가 사용자가 방문하는 웹사이트를 확인하거나 신뢰할 수 없는 사이트로 사용자를 보낼 수 있습니다.
+neterror-dns-not-found-native-fallback-heuristic = 네트워크에서 DNS over HTTP (HTTPS를 통한 DNS)가 비활성화되었습니다.
+neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain }에 대한 연결이 아직 준비되지 않았습니다.
 
 ##
 
