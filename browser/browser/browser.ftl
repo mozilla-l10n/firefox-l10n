@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Выдаліць з гісторыі
     .accesskey = В
+urlbar-result-menu-tip-get-help =
+    .label = Атрымаць дапамогу
+    .accesskey = р
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Паглядзець дадаткі
 quickactions-cmd-addons2 = дадаткі
 # Opens the bookmarks library window
-quickactions-bookmarks = Паглядзець закладкі
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Кіраванне закладкамі
 quickactions-cmd-bookmarks = закладкі
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Ачысціць гісторыю
 quickactions-cmd-clearhistory = ачысціць гісторыю
-# Opens about:downloads page
-quickactions-downloads = Адкрыць сцягванні
 # Opens about:downloads page
 quickactions-downloads2 = Паглядзець сцягванні
 quickactions-cmd-downloads = сцягванні
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = сцягванні
 quickactions-extensions = Кіраваць пашырэннямі
 quickactions-cmd-extensions = пашырэнні
 # Opens the devtools web inspector
-quickactions-inspector = Адкрыць інспектар
-# Opens the devtools web inspector
 quickactions-inspector2 = Адкрыць Інструменты распрацоўшчыка
 quickactions-cmd-inspector = інспектар, прылады распрацоўшчыка
-# Opens about:logins
-quickactions-logins = Прагляд лагінаў
 # Opens about:logins
 quickactions-logins2 = Кіраванне паролямі
 quickactions-cmd-logins = лагіны, паролі
@@ -313,12 +308,8 @@ quickactions-cmd-logins = лагіны, паролі
 quickactions-plugins = Кіраваць плагінамі
 quickactions-cmd-plugins = плагіны
 # Opens the print dialog
-quickactions-print = Друкаваць
-# Opens the print dialog
 quickactions-print2 = Друкаваць старонку
 quickactions-cmd-print = друк
-# Opens a new private browsing window
-quickactions-private = Адкрыць акно прыватнага аглядання
 # Opens a new private browsing window
 quickactions-private2 = Адкрыць прыватнае акно
 quickactions-cmd-private = прыватнае агляданне
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = абнавіць
 quickactions-restart = Перазапусціць { -brand-short-name }
 quickactions-cmd-restart = перазапусціць
 # Opens the screenshot tool
-quickactions-screenshot2 = Зрабіць здымак экрана
-# Opens the screenshot tool
 quickactions-screenshot3 = Зрабіць здымак экрана
 quickactions-cmd-screenshot = здымак экрана
-# Opens about:preferences
-quickactions-settings = Адкрыць налады
 # Opens about:preferences
 quickactions-settings2 = Кіраваць наладамі
 quickactions-cmd-settings = налады, перавагі, параметры
@@ -344,8 +331,6 @@ quickactions-cmd-themes = тэмы
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Абнавіць { -brand-short-name }
 quickactions-cmd-update = абнавіць
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Праглядзець зыходнік
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Паглядзець зыходнік старонкі
 quickactions-cmd-viewsource = прагляд зыходнага тэксту, код
