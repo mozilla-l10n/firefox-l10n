@@ -57,11 +57,14 @@ cfr-cookie-banner-accept-button = ປິດການຮ້ອງຂໍ
 cfr-cookie-banner-reject-button = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = ເບິ່ງປັອບອັບຄຸກກີໜ້ອຍລົງ
+cfr-cookie-banner-handling-body-variant-1 = ໃຫ້ { -brand-short-name } ຕອບຄຸກກີ້ປັອບອັບໃຫ້ທ່ານໂດຍອັດຕະໂນມັດ ເພື່ອໃຫ້ເຈົ້າສາມາດກັບຄືນສູ່ການທ່ອງເວັບແບບບໍ່ມີສິ່ງລົບກວນໄດ້. { -brand-short-name } ຈະປະຕິເສດການຮ້ອງຂໍທັງໝົດຖ້າເປັນໄປໄດ້, ຫຼືຍອມຮັບທັງໝົດຖ້າບໍ່ແມ່ນ.
 cfr-cookie-banner-accept-button-variant-1 = ປິດປັອບອັບ
     .accesskey = D
 cfr-cookie-banner-reject-button-variant-1 = ບໍ່, ຂອບໃຈ
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
+cfr-cookie-banner-reject-button-variant-2 = ບໍ່ແມ່ນຕອນນີ້
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -195,6 +198,9 @@ colorways-cfr-primarybutton = ເລືອກສີ
     .accesskey = C
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = ທາສີບຼາວເຊີຂອງທ່ານດ້ວຍ { -brand-short-name } ຮົ່ມສະເພາະທີ່ໄດ້ຮັບແຮງບັນດານໃຈຈາກສຽງທີ່ປ່ຽນວັດທະນະທໍາ.
+
+## Cookie Banner Handling CFR
+
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
