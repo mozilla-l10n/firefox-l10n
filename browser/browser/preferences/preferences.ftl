@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Cookies fan net-besochte websites
 sitedata-option-block-all-third-party =
     .label = Alle cookies fan tredden (kin derfoar soargje dat websites net goed wurkje)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Alle cross-sitecookies (kin derfoar soargje dat websites net goed wurkje)
 sitedata-option-block-all =
     .label = Alle cookies (sil derfoar soargje dat websites net goed wurkje)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Alle cookies
 content-blocking-unvisited-cookies = Cookies fan net-besochte websites
 content-blocking-all-windows-tracking-content = Folchynhâld yn alle finsters
 content-blocking-all-third-party-cookies = Alle cookies fan tredden
+content-blocking-all-cross-site-cookies = Alle cross-sitecookies
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 # "Test pilot" is used as a verb. Possible alternatives:
