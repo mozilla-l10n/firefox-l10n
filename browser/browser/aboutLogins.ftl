@@ -108,7 +108,7 @@ login-item-time-used = Terakhir digunakan: { DATETIME($timeUsed, day: "numeric",
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Dibuat
 login-item-timeline-action-updated = Diperbarui
-login-item-timeline-action-used = Sudah digunakan
+login-item-timeline-action-used = Digunakan
 
 ## OS Authentication dialog
 
