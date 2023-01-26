@@ -45,3 +45,4 @@ screenshots-private-window-error-details = تکلیف کیتے معذرت، اس
 screenshots-generic-error-title = واہ! { -screenshots-brand-name } دھم مچا ݙتی ہے۔
 screenshots-generic-error-details = اساکوں یقین کائنی جو ہݨ کیا تھیا ہے۔ ولدا کوشش کرݨ یا کہیں ٻئے ورقے دا شاٹ گھنݨ دا خیال ہے؟
 screenshots-too-large-error-title = تہاݙے سکرین شاٹ کوں کراپ کیتا ڳئے کیونجو ایہ ٻہوں وݙا ہائی۔
+screenshots-too-large-error-details = ہک این٘جھا علاقہ چݨݨ دی کوشش کرو جہڑا آپݨے سب توں لمبے پاسوں32,700 پکسلاں کنوں گھٹ ہووے یا  کل رقبہ 124,900,000 پکسلاں ہووے۔

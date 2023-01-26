@@ -261,6 +261,7 @@ cfr-cookiebanner-accept-button-variant-1 = پوپ اپ فارغ کرو
 cfr-cookiebanner-reject-button-variant-1 = کو، شکریہ
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = کوکی بینر گھٹاوݨ
+cfr-cookiebanner-body-variant-2 = جے ممکن ہووے تاں { -brand-short-name } ویب سائٹ کوکی رضامندی ارداس مسترد کرݨ دی اجازت ݙے تے تہاکوں نظرݨ آلے کوکی بینراں دی تعداد گھٹاؤ۔
 cfr-cookiebanner-accept-button-variant-2 = اجازت ݙیوو
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = ہݨ کائناں
