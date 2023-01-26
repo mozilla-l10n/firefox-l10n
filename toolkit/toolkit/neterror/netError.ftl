@@ -27,6 +27,7 @@ neterror-try-again-button = Opnieuw proberen
 neterror-add-exception-button = Altijd doorgaan voor deze website
 neterror-settings-button = DNS-instellingen wijzigen
 neterror-view-certificate-link = Certificaat bekijken
+neterror-disable-native-feedback-warning = Altijd doorgaan
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = U bent niet verbonden met het internet.
 neterror-dns-not-found-trr-unknown-host = Er is geen adres voor deze website gevonden door { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Er is een probleem met { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Onverwacht probleem.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan uw aanvraag om het adres van deze website niet beschermen via onze vertrouwde DNS-resolver. Dit is de reden:
+neterror-dns-not-found-native-fallback-attackers = U kunt doorgaan met een DNS-resolver die niet veilig is. Een derde partij kan echter mogelijk zien welke websites u bezoekt of u naar een niet-vertrouwde website sturen.
+neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPs is uitgeschakeld op uw netwerk.
+neterror-dns-not-found-native-fallback-not-confirmed = De verbinding met { $trrDomain } is nog niet klaar.
 
 ##
 
