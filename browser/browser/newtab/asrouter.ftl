@@ -253,6 +253,26 @@ colorways-cfr-header-14days = Barbowe kombinacije „Njewotwisne hłosy“ za dw
 colorways-cfr-header-7days = Barbowe kombinacije „Njewotwisne hłosy“ tutón tydźeń spadnu
 colorways-cfr-header-today = Barbowe kombinacije „Njewotwisne hłosy“ dźensa spadnu
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Preč z plackowymi chorhojemi!
+cfr-cookiebanner-accept-button = Chorhoje zaćisnyć
+    .accesskey = C
+cfr-cookiebanner-reject-button = Nic nětko
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Mjenje plackowych wuskakowacych woknow widźeć
+cfr-cookiebanner-body-variant-1 = Dajće { -brand-short-name } za was awtomatisce na plackowewuskakowace wokna wotmołwić. zo byšće so k přehladowanju bjez wotwjedźenja wróćił. { -brand-short-name } wšě naprašowanja wotpokaza, jeli móžno.
+cfr-cookiebanner-accept-button-variant-1 = Wuskakowace wokna zaćisnyć
+    .accesskey = k
+cfr-cookiebanner-reject-button-variant-1 = Ně, dźakuju so
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Redukowanje plackowych chorhojow
+cfr-cookiebanner-accept-button-variant-2 = Dowolić
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-2 = Nic nětko
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Smy was zapřijeli
