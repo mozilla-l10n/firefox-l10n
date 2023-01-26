@@ -242,6 +242,12 @@ colorways-cfr-header-14days = “凡人之声”配色两周后到期
 colorways-cfr-header-7days = “凡人之声”配色本周到期
 colorways-cfr-header-today = “凡人之声”配色今日到期
 
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-header-variant-1 = 减少 Cookie 弹窗
+cfr-cookiebanner-accept-button-variant-1 = 关闭 Cookie 弹窗
+    .accesskey = D
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = 保护您是我的职责

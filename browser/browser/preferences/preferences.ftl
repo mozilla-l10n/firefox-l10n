@@ -910,6 +910,8 @@ sitedata-option-block-unvisited =
     .label = 未访问网站的 Cookie
 sitedata-option-block-all-third-party =
     .label = 所有第三方 Cookie（可能导致网站异常）
+sitedata-option-block-all-cross-site-cookies =
+    .label = 所有跨站 Cookie（可能导致网站异常）
 sitedata-option-block-all =
     .label = 所有 Cookie（将会导致网站异常）
 sitedata-clear =
@@ -989,6 +991,7 @@ content-blocking-all-cookies = 所有 Cookie
 content-blocking-unvisited-cookies = 未访问网站的 Cookie
 content-blocking-all-windows-tracking-content = 所有窗口中的跟踪性内容
 content-blocking-all-third-party-cookies = 所有第三方 Cookie
+content-blocking-all-cross-site-cookies = 所有跨站 Cookie
 content-blocking-cryptominers = 加密货币挖矿程序
 content-blocking-fingerprinters = 数字指纹跟踪程序
 # "Test pilot" is used as a verb. Possible alternatives:
