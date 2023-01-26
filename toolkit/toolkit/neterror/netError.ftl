@@ -27,6 +27,7 @@ neterror-try-again-button = Próbálja újra
 neterror-add-exception-button = Folytatás mindig ezen az oldalon
 neterror-settings-button = DNS beállítások módosítása
 neterror-view-certificate-link = Tanúsítvány megtekintése
+neterror-disable-native-feedback-warning = Folytatás mindig
 
 ##
 
@@ -61,6 +62,14 @@ neterror-dns-not-found-trr-offline = Nem csatlakozik az internethez.
 neterror-dns-not-found-trr-unknown-host = Nem található cím ehhez a weboldalhoz: { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Probléma lépett fel a következő domainen: { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Váratlan probléma.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a megbízható DNS-feloldónkon keresztül. Ennek ez az oka:
+neterror-dns-not-found-native-fallback-heuristic = A HTTP-n keresztüli DNS le van tiltva a hálózatán.
+neterror-dns-not-found-native-fallback-not-confirmed = A kapcsolat még nem áll készen a következő felé: { $trrDomain }.
 
 ##
 

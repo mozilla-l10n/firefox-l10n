@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Nem látogatott webhelyekről származó sütik
 sitedata-option-block-all-third-party =
     .label = Minden harmadik féltől származó süti (egyes weboldalak működésképtelenné válhatnak)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Összes webhelyek közötti süti (egyes weboldalak működésképtelenné fognak válni)
 sitedata-option-block-all =
     .label = Minden süti (egyes weboldalak működésképtelenné fognak válni)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Minden süti
 content-blocking-unvisited-cookies = Sütik a nem látogatott oldalakról
 content-blocking-all-windows-tracking-content = Tartalomkövetés az összes ablakban
 content-blocking-all-third-party-cookies = Összes harmadik féltől származó süti
+content-blocking-all-cross-site-cookies = Összes webhelyek közötti süti
 content-blocking-cryptominers = Kriptobányászok
 content-blocking-fingerprinters = Ujjlenyomat-készítők
 # "Test pilot" is used as a verb. Possible alternatives:

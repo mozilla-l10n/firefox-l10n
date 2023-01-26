@@ -78,6 +78,9 @@ dnsNotFound-title = Hmm. Probléma az oldal megkeresésekor.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Lehetséges biztonsági kockázat a következőnél: { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = Lehetséges biztonsági kockázat a következőnél: { $hostname }.
 fileNotFound-title = A fájl nem található
 fileAccessDenied-title = A fájl elérése megtagadva
 generic-title = Hoppá!
