@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Info Masuk dan Kata Sandi
-
 login-filter =
     .placeholder = Cari Info Masuk
-
 create-login-button = Buat Info Masuk Baru
-
 fxaccounts-sign-in-text = Dapatkan kata sandi Anda di perangkat lain
 fxaccounts-sign-in-sync-button = Masuk untuk sinkronisasi
 fxaccounts-avatar-button =
@@ -102,6 +99,14 @@ login-item-time-changed = Terakhir diubah: { DATETIME($timeChanged, day: "numeri
 login-item-time-created = Dibuat: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Terakhir digunakan: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = Dibuat
+login-item-timeline-action-updated = Diperbarui
+login-item-timeline-action-used = Sudah digunakan
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -115,19 +120,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Untuk mengubah info masuk A
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = mengedit info masuk tersimpan
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Untuk melihat kata sandi Anda, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mengungkapkan kata sandi tersimpan
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Untuk menyalin kata sandi Anda, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = menyalin kata sandi tersimpan.
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Untuk mengekspor info masuk Anda, silakan masukkan kredensial info masuk Windows Anda. Ini akan membantu mengamankan akun Anda.
 # This message can be seen when attempting to export a password in about:logins
@@ -146,19 +148,15 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Batal
 confirmation-dialog-dismiss-button =
     .title = Batal
-
 about-logins-confirm-remove-dialog-title = Hapus info masuk ini?
 confirm-delete-dialog-message = Tindakan ini tidak dapat diurungkan.
 about-logins-confirm-remove-dialog-confirm-button = Hapus
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Hapus
        *[other] Hapus Seluruhnya
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label = Ya, hapus log masuk ini
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] Hapus seluruh { $count } info masuk?
@@ -168,7 +166,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } dan semua peringatan pembobolan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
        *[other] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } dan semua peringatan pembobolan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] Hapus { $count } info masuk dari semua perangkat?
@@ -178,14 +175,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } di semua perangkat yang disinkronkan ke { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pembobolan yang muncul di sini. Anda tidak akan dapat mengurungkan tindakan ini.
        *[other] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } di semua perangkat yang disinkronkan ke { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pembobolan yang muncul di sini. Anda tidak akan dapat mengurungkan tindakan ini.
     }
-
 about-logins-confirm-export-dialog-title = Ekspor info masuk dan sandi
 about-logins-confirm-export-dialog-message = Kata sandi Anda akan disimpan sebagai teks biasa yang bisa dibaca (contoh: P@sw0rd) sehingga siapa pun yang dapat membuka berkas yang Anda ekspor akan bisa membacanya.
 about-logins-confirm-export-dialog-confirm-button = Ekspor…
-
 about-logins-alert-import-title = Proses Impor Selesai
 about-logins-alert-import-message = Lihat ringkasan Detail Impor
-
 confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
 confirm-discard-changes-dialog-message = Semua perubahan yang belum disimpan akan hilang.
 confirm-discard-changes-dialog-confirm-button = Hapus Perubahan
@@ -216,7 +210,6 @@ about-logins-vulnerable-alert-learn-more-link = Pelajari lebih lanjut
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Entri info masuk { $loginTitle } dengan nama pengguna itu sudah tersimpan. <a data-l10n-name="duplicate-link">Buka entri yang tersimpan?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Terjadi kesalahan saat mencoba menyimpan kata sandi ini.
 
@@ -265,12 +258,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Info masuk baru ditambahkan:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Info masuk yang ada diperbarui:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Info masuk ganda ditemukan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(tidak diimpor)</span>
@@ -280,7 +271,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Kesalahan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(tidak diimpor)</span>
     }
 about-logins-import-dialog-done = Selesai
-
 about-logins-import-dialog-error-title = Kesalahan Impor
 about-logins-import-dialog-error-conflicting-values-title = Nilai-Nilai yang Tidak Sama untuk Sebuah Info Masuk
 about-logins-import-dialog-error-conflicting-values-description = Misalnya: ada beberapa nama pengguna, kata sandi, URL, dll. untuk sebuah info masuk.
@@ -294,10 +284,8 @@ about-logins-import-dialog-error-no-logins-imported = Tidak ada info masuk yang 
 about-logins-import-dialog-error-learn-more = Pelajari lebih lanjut
 about-logins-import-dialog-error-try-import-again = Coba Impor Lagi…
 about-logins-import-dialog-error-cancel = Batalkan
-
 about-logins-import-report-title = Ringkasan Impor
 about-logins-import-report-description = Info masuk dan kata sandi yang diimpor ke { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
