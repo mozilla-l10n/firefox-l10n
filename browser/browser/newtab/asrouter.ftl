@@ -256,6 +256,28 @@ colorways-cfr-header-14days = Комбинације боја „Независ�
 colorways-cfr-header-7days = Комбинације боја „Независни гласови” истичу ове седмице
 colorways-cfr-header-today = Комбинације боја „Независни гласови” истичу данас
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Доле банери колачића!
+cfr-cookiebanner-body = Дозволите да { -brand-short-name } аутоматски одбаци све захтеве за банере колачића када је то могуће.
+cfr-cookiebanner-accept-button = Одбаци банере
+    .accesskey = О
+cfr-cookiebanner-reject-button = Не сада
+    .accesskey = Н
+cfr-cookiebanner-header-variant-1 = Да видите мање искачућих прозора за колачиће
+cfr-cookiebanner-body-variant-1 = Дозволите да { -brand-short-name } аутоматски одговара на искачуће прозоре за колачиће, тако да се можете посветити прегледању без ометања. { -brand-short-name } ће одбити све захтеве ако је то могуће.
+cfr-cookiebanner-accept-button-variant-1 = Одбаци искачуће прозоре
+    .accesskey = О
+cfr-cookiebanner-reject-button-variant-1 = Не, хвала
+    .accesskey = Н
+cfr-cookiebanner-header-variant-2 = Смањење банера колачића
+cfr-cookiebanner-body-variant-2 = Смањите број банера колачића које видите тако што ћете дозволити да { -brand-short-name } одбије захтев сајта да прихвати колачиће кад је то могуће.
+cfr-cookiebanner-accept-button-variant-2 = Дозволи
+    .accesskey = Д
+cfr-cookiebanner-reject-button-variant-2 = Не сада
+    .accesskey = Н
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ту смо за вас

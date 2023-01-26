@@ -44,3 +44,5 @@ screenshots-private-window-error-title = Услуга { -screenshots-brand-name 
 screenshots-private-window-error-details = Извињавамо се на непријатности. Радимо на додавању ове функције.
 screenshots-generic-error-title = Ау! Услуга { -screenshots-brand-name } је престала са радом.
 screenshots-generic-error-details = Нисмо сигурни шта се управо догодило. Желите ли покушати поново или да усликате другачију страницу?
+screenshots-too-large-error-title = Снимак екрана је исечен јер је превелик
+screenshots-too-large-error-details = Покушајте да изаберете област мању од 32,700 пиксела дуж најдуже стране или 124,900,000 пиксела укупне површине.
