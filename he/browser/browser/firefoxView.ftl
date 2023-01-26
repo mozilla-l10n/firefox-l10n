@@ -50,6 +50,7 @@ firefoxview-tabpickup-syncing = נא להמתין בזמן שהלשוניות ש
 firefoxview-mobile-promo-header = קבלת לשוניות מהטלפון או למחשב הלוח שלך
 firefoxview-mobile-promo-description = כדי לצפות בלשוניות האחרונות שלך מהנייד, יש להתחבר ל־{ -brand-product-name } ב־iOS או ב־Android.
 firefoxview-mobile-promo-primarybutton = קבלת { -brand-product-name } לנייד
+firefoxview-mobile-confirmation-header = 🎉 אפשר להתקדם!
 firefoxview-mobile-confirmation-description = כעת באפשרותך לקבל את הלשוניות שלך ב־{ -brand-product-name } ממחשב הלוח או הטלפון שלך.
 firefoxview-closed-tabs-title = לשוניות שנסגרו לאחרונה
 firefoxview-closed-tabs-description2 = פתיחה מחדש דפים שנסגרו בחלון זה.
@@ -62,7 +63,6 @@ firefoxview-pickup-tabs-badge = הלשונית הפעילה האחרונה
 firefoxview-tabs-list-tab-button =
     .title = פתיחת { $targetURI } בלשונית חדשה
 firefoxview-try-colorways-button = לנסות ערכות צבעים
-firefoxview-no-current-colorway-collection = ערכות צבעים חדשות בדרך אליך
 firefoxview-change-colorway-button = שינוי ערכת צבעים
 # Variables:
 #  $intensity (String): Colorway intensity

@@ -298,6 +298,7 @@ mr2022-onboarding-set-default-primary-button-label = הגדרת { -brand-short-n
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = התקנה במהירות הבזק
 mr2022-onboarding-import-subtitle = ניתן להגדיר את { -brand-short-name } איך שמתחשק לך. אפשר להוסיף את הסימניות, הססמאות ועוד מהדפדפן הישן שלך.ת
 mr2022-onboarding-import-primary-button-label-no-attribution = ייבוא מהדפדפן הקודם
 
