@@ -249,11 +249,13 @@ colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = کوکی بینرز شروع تھی ڳئے!
+cfr-cookiebanner-body = ڄݙݨ ممکن ہووے { -brand-short-name } کوں آپݨے آپ ساریاں کوکی بینر ارداساں مسترد کرݨ دی اجازت ݙیوو۔
 cfr-cookiebanner-accept-button = بینر فارغ کرو
     .accesskey = D
 cfr-cookiebanner-reject-button = ہݨ کائناں
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = تھوڑیاں پوپ اپاں کوکی ݙیکھو
+cfr-cookiebanner-body-variant-1 = { -brand-short-name } کوں خودبخود تہاݙے کیتے کوکی پوپ اپاں دا جواب ݙیوݨ ݙیوو تاں جو تساں کہیں خلفشار دے بغیر براؤزنگ تے ون٘ڄ سڳو۔ ممکن ہویا تاں { -brand-short-name } ساریاں ارداساں مسترد کر ݙیسی۔
 cfr-cookiebanner-accept-button-variant-1 = پوپ اپ فارغ کرو
     .accesskey = D
 cfr-cookiebanner-reject-button-variant-1 = کو، شکریہ

@@ -915,6 +915,8 @@ sitedata-option-block-unvisited =
     .label = اݨ ݙٹھیاں ویب سائٹاں دیاں کوکیاں
 sitedata-option-block-all-third-party =
     .label = ساریاں تریجھی پارٹی کوکیاں (ویب سائٹاں دے ترٹݨ دا سبب بݨ سڳدی ہے)
+sitedata-option-block-all-cross-site-cookies =
+    .label = ساریاں کراس سائٹ کوکیاں (ویب سائٹاں دے ترٹݨ دا سبب بݨ سڳدی ہے)
 sitedata-option-block-all =
     .label = ساریاں کوکیاں (ویب سائٹاں دے ترٹݨ دا سبب بݨ سڳدی ہے)
 sitedata-clear =
@@ -994,6 +996,7 @@ content-blocking-all-cookies = تمام کوکیاں
 content-blocking-unvisited-cookies = ان ݙٹھیاں سائٹاں کنوں کوکیاں
 content-blocking-all-windows-tracking-content = تمام ونڈوز وِچ مواد دی ٹریکنگ
 content-blocking-all-third-party-cookies = تمام تریجے فریق دیاں کوکیاں
+content-blocking-all-cross-site-cookies = ساریاں کراس سائٹ کوکیاں
 content-blocking-cryptominers = کریپٹومینرز
 content-blocking-fingerprinters = فنگر پرنٹرز
 # "Test pilot" is used as a verb. Possible alternatives:

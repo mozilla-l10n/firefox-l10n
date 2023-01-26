@@ -44,3 +44,4 @@ screenshots-private-window-error-title = { -screenshots-brand-name } نجی بر
 screenshots-private-window-error-details = تکلیف کیتے معذرت، اساں مستقبل دی ریلیز کیتے ایں خصوصیت تے کم کریندے پئے ہیں۔
 screenshots-generic-error-title = واہ! { -screenshots-brand-name } دھم مچا ݙتی ہے۔
 screenshots-generic-error-details = اساکوں یقین کائنی جو ہݨ کیا تھیا ہے۔ ولدا کوشش کرݨ یا کہیں ٻئے ورقے دا شاٹ گھنݨ دا خیال ہے؟
+screenshots-too-large-error-title = تہاݙے سکرین شاٹ کوں کراپ کیتا ڳئے کیونجو ایہ ٻہوں وݙا ہائی۔
