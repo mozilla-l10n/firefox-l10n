@@ -27,6 +27,7 @@ neterror-try-again-button = נסה שוב
 neterror-add-exception-button = תמיד להמשיך עבור אתר זה
 neterror-settings-button = שינוי הגדרות DNS
 neterror-view-certificate-link = הצגת אישור
+neterror-disable-native-feedback-warning = תמיד להמשיך
 
 ##
 
@@ -61,6 +62,12 @@ neterror-dns-not-found-trr-offline = אין חיבור לאינטרנט.
 neterror-dns-not-found-trr-unknown-host = כתובת לאתר זה לא נמצאה על־ידי { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = הייתה בעיה עם { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = בעיה לא צפויה.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = ‏{ -brand-short-name } לא יכול להגן על הבקשה שלך עבור כתובת אתר זה באמצעות מפענח ה־DNS המהימן שלנו. הנה הסיבה:
 
 ##
 
