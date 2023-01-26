@@ -259,6 +259,28 @@ colorways-cfr-header-14days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i b
 colorways-cfr-header-7days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben yr wythnos hon
 colorways-cfr-header-today = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben heddiw
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Gwaredu baneri cwcis!
+cfr-cookiebanner-body = Caniatáu i { -brand-short-name } wrthod pob cais baner cwci yn awtomatig pan fo modd.
+cfr-cookiebanner-accept-button = Cau baneri
+    .accesskey = C
+cfr-cookiebanner-reject-button = Nid Nawr
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Gweld llai o lamlenni cwcis
+cfr-cookiebanner-body-variant-1 = Gadael i { -brand-short-name } ateb ffenestri llamlenni cwcis yn awtomatig er mwyn i chi fod yn rhydd i bori. Bydd { -brand-short-name } yn gwrthod pob cais os yn bosib.
+cfr-cookiebanner-accept-button-variant-1 = Cau Llamlenni
+    .accesskey = L
+cfr-cookiebanner-reject-button-variant-1 = Dim Diolch
+    .accesskey = D
+cfr-cookiebanner-header-variant-2 = Llai o Faneri Cwcis
+cfr-cookiebanner-body-variant-2 = Lleihewch nifer y baneri cwci rydych yn eu gweld drwy ganiatáu i { -brand-short-name } wrthod cais caniatâd cwci gwefan os yw'n bosibl.
+cfr-cookiebanner-accept-button-variant-2 = Caniatáu
+    .accesskey = C
+cfr-cookiebanner-reject-button-variant-2 = Nid Nawr
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Rydyn ni yn eich cefnogi chi

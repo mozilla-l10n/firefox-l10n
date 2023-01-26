@@ -78,6 +78,9 @@ dnsNotFound-title = Hmm. Rydym yn cael trafferth canfod y wefan honno.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Risg diogelwch posib ar gyfer { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = Risg diogelwch posib ar gyfer { $hostname }.
 fileNotFound-title = Heb ganfod ffeil
 fileAccessDenied-title = Mae mynediad at y ffeil wedi ei wrthod
 generic-title = Wps.
