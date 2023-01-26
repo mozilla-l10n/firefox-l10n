@@ -915,6 +915,8 @@ sitedata-option-block-unvisited =
     .label = עוגיות מאתרים שלא ביקרתי בהם
 sitedata-option-block-all-third-party =
     .label = כל העוגיות צד־שלישי (עשוי לשבש פעילות של חלק מהאתרים)
+sitedata-option-block-all-cross-site-cookies =
+    .label = כל העוגיות חוצות האתרים (עשוי לשבש פעילות של חלק מהאתרים)
 sitedata-option-block-all =
     .label = כל העוגיות (ישבש פעילות של אתרים)
 sitedata-clear =
@@ -994,6 +996,7 @@ content-blocking-all-cookies = כל העוגיות
 content-blocking-unvisited-cookies = עוגיות מאתרים שלא ביקרתי בהם
 content-blocking-all-windows-tracking-content = תוכן מעקב בכל החלונות
 content-blocking-all-third-party-cookies = כל העוגיות צד־שלישי
+content-blocking-all-cross-site-cookies = כל העוגיות חוצות האתרים
 content-blocking-cryptominers = כורי מטבעות דיגיטליים
 content-blocking-fingerprinters = רכיבי זהות דיגיטלית
 # "Test pilot" is used as a verb. Possible alternatives:
