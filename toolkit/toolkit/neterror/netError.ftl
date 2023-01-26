@@ -27,6 +27,7 @@ neterror-try-again-button = Паспрабаваць ізноў
 neterror-add-exception-button = Заўсёды працягваць для гэтага сайта
 neterror-settings-button = Змяніць налады DNS
 neterror-view-certificate-link = Паказаць сертыфікаты
+neterror-disable-native-feedback-warning = Заўсёды працягваць
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = Няма злучэння з Інтэрнэ
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } не знайшоў адрас для гэтага сайта.
 neterror-dns-not-found-trr-server-problem = Узнікла праблема з { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Нечаканая праблема.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не можа абараніць ваш запыт на адрас гэтага сайта праз нашу давераную службу DNS. Вось чаму:
+neterror-dns-not-found-native-fallback-attackers = Вы можаце працягнуць са службай DNS, якая не ёсць бяспечнай. Аднак, трэці бок можа ўбачыць, якія сайты вы наведваеце, або адправіць вас на недавераны сайт.
+neterror-dns-not-found-native-fallback-heuristic = DNS па HTTP быў адключаны ў вашай сетцы.
+neterror-dns-not-found-native-fallback-not-confirmed = Злучэнне з { $trrDomain } яшчэ не гатова.
 
 ##
 
