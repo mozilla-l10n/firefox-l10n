@@ -27,6 +27,7 @@ neterror-try-again-button = ولدا کوشش کرو
 neterror-add-exception-button = ایں سائٹ کیتے ہمیشاں جاری رکھو
 neterror-settings-button = DNS ترتیباں تبدیل کرو
 neterror-view-certificate-link = تصدیق نامہ ݙیکھو
+neterror-disable-native-feedback-warning = ہمیشہ جاری رکھو
 
 ##
 
@@ -61,6 +62,13 @@ neterror-dns-not-found-trr-offline = تساں انٹرنیٹ نال منسلک �
 neterror-dns-not-found-trr-unknown-host = ایں ویب سائٹ دا پتہ { $trrDomain } کوں نہیں ملیا۔
 neterror-dns-not-found-trr-server-problem = { $trrDomain } دے نال ہک مسئلہ ہا۔
 neterror-dns-not-found-trr-unknown-problem = غیر متوقع مسئلہ
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } اساݙے قابل اعتماد DNS حل کنندہ دے ذریعے ایں سائٹ دے پتے کیتے تہاݙی درخواست دی حفاظت نہیں کر سڳدا۔ اتھاں کیوں ہے:
+neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } کیتے کنکشن اڄݨ تیار کائنی۔
 
 ##
 

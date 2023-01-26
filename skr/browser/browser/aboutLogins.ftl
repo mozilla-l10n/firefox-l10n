@@ -7,6 +7,8 @@ about-logins-page-title = لاگ ان تے پاس ورڈ
 login-filter =
     .placeholder = لاگ ان ڳولو
 create-login-button = نواں لاگ ان بݨاؤ
+create-new-login-button =
+    .title = نواں لاگ ان بݨاؤ
 fxaccounts-sign-in-text = اپݨے پاسورڈز ٻئے آلات تے حاصل کرو
 fxaccounts-sign-in-sync-button = ہم وقت کرݨ کیتے سائن ان تھیوو
 fxaccounts-avatar-button =
@@ -99,6 +101,15 @@ login-item-cancel-button = منسوخ
 login-item-time-changed = { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") } :چھیکڑی واری ترمیم تھیا
 login-item-time-created = { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") } :تشکیل ݙتا ڳیا
 login-item-time-used = چھیکڑی ورتیا ڳیا:{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = بݨایا ڳیا
+login-item-timeline-action-updated = اپ ڈیٹ تھی ڳیا
+login-item-timeline-action-used = ورتیا ہویا
 
 ## OS Authentication dialog
 

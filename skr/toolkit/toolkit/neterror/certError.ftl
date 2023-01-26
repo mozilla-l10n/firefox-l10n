@@ -78,6 +78,9 @@ dnsNotFound-title = ہمممم۔ اساکوں او ویب سائٹ لبھݨ اِ
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = { $hostname } کیتے ممکنہ حفاظتی خطرہ۔
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = { $hostname } کیتے ممکنہ حفاظتی خطرہ۔
 fileNotFound-title = فائل کائنی لبھی
 fileAccessDenied-title = فائل تائیں رسائی مسترد کر ݙتی ڳئی ہائی
 generic-title = اوہو۔

@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = تاریخ کنوں مٹاؤ
     .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = مدد گھنو
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

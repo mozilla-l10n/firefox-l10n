@@ -245,6 +245,25 @@ colorways-cfr-header-14days = آزاد آوازاں کلر ویز دی معیا�
 colorways-cfr-header-7days = آزاد آوازاں کلر ویز دی معیاد ایں ہفتے مکدی پئی اے
 colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد اڄ مکدی پئی اے
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = کوکی بینرز شروع تھی ڳئے!
+cfr-cookiebanner-accept-button = بینر فارغ کرو
+    .accesskey = D
+cfr-cookiebanner-reject-button = ہݨ کائناں
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = تھوڑیاں پوپ اپاں کوکی ݙیکھو
+cfr-cookiebanner-accept-button-variant-1 = پوپ اپ فارغ کرو
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = کو، شکریہ
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = کوکی بینر گھٹاوݨ
+cfr-cookiebanner-accept-button-variant-2 = اجازت ݙیوو
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = ہݨ کائناں
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
