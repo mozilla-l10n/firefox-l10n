@@ -242,6 +242,26 @@ colorways-cfr-header-14days = 獨立之聲配色將於兩週後失效
 colorways-cfr-header-7days = 獨立之聲配色將於本週失效
 colorways-cfr-header-today = 獨立之聲配色將於今日失效
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = 讓 Cookie 橫幅消失！
+cfr-cookiebanner-accept-button = 關閉橫幅
+    .accesskey = D
+cfr-cookiebanner-reject-button = 現在不要
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = 減少顯示 Cookie 彈出提示
+cfr-cookiebanner-body-variant-1 = 讓 { -brand-short-name } 自動為您回答彈出的 Cookie 對話框，這樣上網就可以減少分心。{ -brand-short-name } 會盡可能自動拒絕所有請求。
+cfr-cookiebanner-accept-button-variant-1 = 關閉彈出提示
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = 不要，謝謝
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = 減少 Cookie 橫幅
+cfr-cookiebanner-accept-button-variant-2 = 允許
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = 現在不要
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = 讓我們保護您
