@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Ta bort från historik
     .accesskey = T
+urlbar-result-menu-tip-get-help =
+    .label = Få hjälp
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Visa tillägg
 quickactions-cmd-addons2 = tillägg
 # Opens the bookmarks library window
-quickactions-bookmarks = Visa bokmärken
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Hantera bokmärken
 quickactions-cmd-bookmarks = bokmärken
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Rensa historik
 quickactions-cmd-clearhistory = rensa historik
-# Opens about:downloads page
-quickactions-downloads = Öppna hämtningar
 # Opens about:downloads page
 quickactions-downloads2 = Visa nedladdningar
 quickactions-cmd-downloads = hämtningar
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = hämtningar
 quickactions-extensions = Hantera tillägg
 quickactions-cmd-extensions = tillägg
 # Opens the devtools web inspector
-quickactions-inspector = Öppna inspektör
-# Opens the devtools web inspector
 quickactions-inspector2 = Öppna utvecklarverktyg
 quickactions-cmd-inspector = inspektör, utvecklarverktyg
-# Opens about:logins
-quickactions-logins = Visa inloggningar
 # Opens about:logins
 quickactions-logins2 = Hantera lösenord
 quickactions-cmd-logins = inloggningar, lösenord
@@ -313,12 +308,8 @@ quickactions-cmd-logins = inloggningar, lösenord
 quickactions-plugins = Hantera insticksmoduler
 quickactions-cmd-plugins = insticksmoduler
 # Opens the print dialog
-quickactions-print = Skriv ut
-# Opens the print dialog
 quickactions-print2 = Skriv ut sida
 quickactions-cmd-print = skriva ut
-# Opens a new private browsing window
-quickactions-private = Öppna fönstret för privat surfning
 # Opens a new private browsing window
 quickactions-private2 = Öppna privat fönster
 quickactions-cmd-private = privat surfning
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = uppdatera
 quickactions-restart = Starta om { -brand-short-name }
 quickactions-cmd-restart = omstart
 # Opens the screenshot tool
-quickactions-screenshot2 = Ta en skärmbild
-# Opens the screenshot tool
 quickactions-screenshot3 = Ta en skärmdump
 quickactions-cmd-screenshot = skärmbild
-# Opens about:preferences
-quickactions-settings = Öppna inställningar
 # Opens about:preferences
 quickactions-settings2 = Hantera inställningar
 quickactions-cmd-settings = inställningar, alternativ
@@ -344,8 +331,6 @@ quickactions-cmd-themes = teman
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppdatera { -brand-short-name }
 quickactions-cmd-update = uppdatera
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Visa källa
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visa källkod
 quickactions-cmd-viewsource = visa källa, källa
