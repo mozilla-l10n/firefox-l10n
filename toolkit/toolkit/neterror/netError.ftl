@@ -27,6 +27,7 @@ neterror-try-again-button = 重試
 neterror-add-exception-button = 總是繼續開啟此網站
 neterror-settings-button = 更改 DNS 設定
 neterror-view-certificate-link = 檢視憑證
+neterror-disable-native-feedback-warning = 總是繼續
 
 ##
 
@@ -61,6 +62,13 @@ neterror-dns-not-found-trr-offline = 您未連線到網際網路。
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } 找不到此網站的地址。
 neterror-dns-not-found-trr-server-problem = { $trrDomain } 發生問題。
 neterror-dns-not-found-trr-unknown-problem = 發生未預期的問題。
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } 無法透過信任的 DNS 解析器保護您對本網址的瀏覽請求。原因如下：
+neterror-dns-not-found-native-fallback-not-confirmed = 對 { $trrDomain } 的連線尚未就緒。
 
 ##
 

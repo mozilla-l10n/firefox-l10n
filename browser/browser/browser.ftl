@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = 從紀錄移除
     .accesskey = Ｒ
+urlbar-result-menu-tip-get-help =
+    .label = 取得幫助
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = 檢視附加元件
 quickactions-cmd-addons2 = 附加元件
 # Opens the bookmarks library window
-quickactions-bookmarks = 檢視書籤
-# Opens the bookmarks library window
 quickactions-bookmarks2 = 管理書籤
 quickactions-cmd-bookmarks = 書籤, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 清除瀏覽記錄
 quickactions-cmd-clearhistory = 清除瀏覽紀錄, clear history
-# Opens about:downloads page
-quickactions-downloads = 開啟下載項目
 # Opens about:downloads page
 quickactions-downloads2 = 檢視下載項目
 quickactions-cmd-downloads = 下載項目, 下載, downloads
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = 下載項目, 下載, downloads
 quickactions-extensions = 管理擴充套件
 quickactions-cmd-extensions = 擴充套件
 # Opens the devtools web inspector
-quickactions-inspector = 開啟檢測器
-# Opens the devtools web inspector
 quickactions-inspector2 = 開啟開發者工具
 quickactions-cmd-inspector = 檢測器, 開發工具, inspector, devtools
-# Opens about:logins
-quickactions-logins = 檢視登入資訊
 # Opens about:logins
 quickactions-logins2 = 管理密碼
 quickactions-cmd-logins = 登入資訊, 密碼, 帳號, logins, passwords
@@ -313,12 +308,8 @@ quickactions-cmd-logins = 登入資訊, 密碼, 帳號, logins, passwords
 quickactions-plugins = 管理外掛程式
 quickactions-cmd-plugins = 外掛程式
 # Opens the print dialog
-quickactions-print = 列印
-# Opens the print dialog
 quickactions-print2 = 列印頁面
 quickactions-cmd-print = 列印, print
-# Opens a new private browsing window
-quickactions-private = 開啟隱私瀏覽視窗
 # Opens a new private browsing window
 quickactions-private2 = 開啟隱私視窗
 quickactions-cmd-private = 隱私瀏覽, 無痕模式, private browsing
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = 重新整理, refresh
 quickactions-restart = 重新啟動 { -brand-short-name }
 quickactions-cmd-restart = 重新啟動, 重開, restart
 # Opens the screenshot tool
-quickactions-screenshot2 = 拍攝畫面擷圖
-# Opens the screenshot tool
 quickactions-screenshot3 = 拍攝畫面擷圖
 quickactions-cmd-screenshot = 畫面擷圖, 擷圖, screenshot
-# Opens about:preferences
-quickactions-settings = 開啟設定
 # Opens about:preferences
 quickactions-settings2 = 管理設定
 quickactions-cmd-settings = 設定, 偏好設定, 選項, settings, preferences, options
@@ -344,8 +331,6 @@ quickactions-cmd-themes = 佈景主題
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
-# Opens the view-source UI with current pages source
-quickactions-viewsource = 檢視原始碼
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 檢視原始碼
 quickactions-cmd-viewsource = 檢視原始碼, 原始碼, view source, source
