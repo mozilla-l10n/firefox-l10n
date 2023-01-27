@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Kkes seg uzray
     .accesskey = K
+urlbar-result-menu-tip-get-help =
+    .label = Awi tallalt
+    .accesskey = l
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -282,15 +285,11 @@ search-one-offs-actions =
 quickactions-addons = Sken izegrar
 quickactions-cmd-addons2 = Izegrar
 # Opens the bookmarks library window
-quickactions-bookmarks = Sken ticraḍ n usebter
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Sefrek ticraḍ n yisebtar
 quickactions-cmd-bookmarks = ticraḍ n isebtar
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Sfeḍ azray
 quickactions-cmd-clearhistory = Sfeḍ azray
-# Opens about:downloads page
-quickactions-downloads = Ldi isadaren
 # Opens about:downloads page
 quickactions-downloads2 = Sken isadaren
 quickactions-cmd-downloads = isadaren
@@ -298,12 +297,8 @@ quickactions-cmd-downloads = isadaren
 quickactions-extensions = Sefrek isiɣzaf
 quickactions-cmd-extensions = Isiɣzaf
 # Opens the devtools web inspector
-quickactions-inspector = Ldi amaswaḍ
-# Opens the devtools web inspector
 quickactions-inspector2 = Ldi ifecka n tneflit
 quickactions-cmd-inspector = amaswaḍ, devtools
-# Opens about:logins
-quickactions-logins = Sken-d tuqniwin
 # Opens about:logins
 quickactions-logins2 = Sefrek awalen uffiren
 quickactions-cmd-logins = inekcam, awalen uffiren
@@ -311,12 +306,8 @@ quickactions-cmd-logins = inekcam, awalen uffiren
 quickactions-plugins = Sefrek izegrar
 quickactions-cmd-plugins = Izegrar
 # Opens the print dialog
-quickactions-print = Siggez
-# Opens the print dialog
 quickactions-print2 = Siggez asebter
 quickactions-cmd-print = siggez
-# Opens a new private browsing window
-quickactions-private = Ldi asfaylu n tunigin tusligt
 # Opens a new private browsing window
 quickactions-private2 = Ldi asfaylu uslig
 quickactions-cmd-private = tunigin tusligt
@@ -327,12 +318,8 @@ quickactions-cmd-refresh = smiren
 quickactions-restart = Ales asenker n { -brand-short-name }
 quickactions-cmd-restart = Ales asenker
 # Opens the screenshot tool
-quickactions-screenshot2 = Eg tuṭṭfa n ugdil
-# Opens the screenshot tool
 quickactions-screenshot3 = Eg tuṭṭfa n ugdil
 quickactions-cmd-screenshot = tuṭṭfa n ugdil
-# Opens about:preferences
-quickactions-settings = Ldi iɣewwaren
 # Opens about:preferences
 quickactions-settings2 = Sefrek iɣewwaren
 quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
@@ -342,8 +329,6 @@ quickactions-cmd-themes = Isental
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Leqqem { -brand-short-name }
 quickactions-cmd-update = Leqqem
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Sken aɣbalu
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Tangalt taɣbalut n usebter
 quickactions-cmd-viewsource = sken aɣbalu, aɣbalu

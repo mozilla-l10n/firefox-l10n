@@ -225,5 +225,19 @@ firefoxview-spotlight-promo-secondarybutton = Suref
 colorways-cfr-primarybutton = Fren afran n yiniten
     .accesskey = F
 
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-reject-button = Mačči tura
+    .accesskey = M
+cfr-cookiebanner-reject-button-variant-1 = Ala, tanemmirt
+    .accesskey = L
+cfr-cookiebanner-header-variant-2 = Asenqes n yiɣarracen n yinagan n tuqqna
+cfr-cookiebanner-accept-button-variant-2 = Sireg
+    .accesskey = S
+cfr-cookiebanner-reject-button-variant-2 = Mačči tura
+    .accesskey = M
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Ad neḍmen ammesten-ik·im
+july-jam-set-default-primary = Ldi iseɣwan-iw s { -brand-short-name }

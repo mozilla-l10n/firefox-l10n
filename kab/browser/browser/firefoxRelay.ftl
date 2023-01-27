@@ -11,6 +11,13 @@
 
 ##
 
+firefox-relay-get-unlimited-masks =
+    .label = Sefrek igelmusen
+    .accesskey = g
+firefox-relay-opt-in-title = Mmesten tansa-k·m n yimayl
+firefox-relay-opt-in-subtitle = Rnu { -relay-brand-name }
+firefox-relay-generate-mask-title = Mmesten tansa-k·m n yimayl
+firefox-relay-generate-mask-subtitle = Sirew agelmus { -relay-brand-short-name }
 firefox-relay-opt-in-confirmation-enable =
     .label = Kemmel
     .accesskey = K
