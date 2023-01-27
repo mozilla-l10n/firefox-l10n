@@ -69,6 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = Мушкилии ногаҳон.
 
 neterror-dns-not-found-native-fallback-reason = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути ҳалкунандаи боэътимоди DNS муҳофизат карда наметавонад. Сабаб:
 neterror-dns-not-found-native-fallback-heuristic = DNS тавассути HTTPs дар шабакаи шумо хомӯш карда шудааст.
+neterror-dns-not-found-native-fallback-not-confirmed = Пайвастшавӣ ба { $trrDomain } то ҳол омода нест.
 
 ##
 
