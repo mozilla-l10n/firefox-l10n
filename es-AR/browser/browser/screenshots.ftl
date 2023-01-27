@@ -45,3 +45,4 @@ screenshots-private-window-error-details = Lamentamos el inconveniente. Estamos 
 screenshots-generic-error-title = ¡Apa! { -screenshots-brand-name } se volvió loco.
 screenshots-generic-error-details = No estamos seguros de lo que pasó. ¿Quiere intenar de nuevo o tomar una captura de una página diferente?
 screenshots-too-large-error-title = La captura de pantalla fue recortada porque era demasiado grande
+screenshots-too-large-error-details = Intente seleccionar una región de menos de 32.700 píxeles en su lado más largo o 124.900.000 píxeles en total.
