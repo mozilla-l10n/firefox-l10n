@@ -27,6 +27,7 @@ neterror-try-again-button = Coba Lagi
 neterror-add-exception-button = Selalu lanjutkan untuk situs ini
 neterror-settings-button = Ubah Pengaturan DNS
 neterror-view-certificate-link = Tampilkan Sertifikat
+neterror-disable-native-feedback-warning = Selalu lanjutkan
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = Anda tidak tersambung ke internet.
 neterror-dns-not-found-trr-unknown-host = Alamat untuk situs web ini tidak ditemukan oleh { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Ada masalah dengan { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Kesalahan tak terduga.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } tidak dapat melindungi permintaan Anda untuk alamat situs ini melalui resolusi DNS yang terpercaya kami. Alasannya adalah sebagai berikut:
+neterror-dns-not-found-native-fallback-attackers = Anda dapat melanjutkan dengan resolusi DNS yang tidak aman. Namun, pihak ketiga mungkin dapat melihat situs web yang Anda kunjungi atau membawa Anda ke situs yang tidak tepercaya.
+neterror-dns-not-found-native-fallback-heuristic = DNS lewat HTTP telah dinonaktifkan pada jaringan Anda.
+neterror-dns-not-found-native-fallback-not-confirmed = Sambungan ke { $trrDomain } belum siap.
 
 ##
 
