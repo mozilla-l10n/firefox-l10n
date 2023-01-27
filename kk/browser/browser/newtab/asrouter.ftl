@@ -244,6 +244,28 @@ colorways-cfr-header-14days = Тәуелсіз дауыстар түстер с�
 colorways-cfr-header-7days = Тәуелсіз дауыстар түстер схемаларының мерзімі осы аптада аяқталады
 colorways-cfr-header-today = Тәуелсіз дауыстар түстер схемаларының мерзімі бүгін аяқталады
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Cookie баннерлері жоғалсын!
+cfr-cookiebanner-body = { -brand-short-name } үшін барлық cookie баннер сұрауларын мүмкіндігінше автоматты түрде қабылдамау рұқсатын беру.
+cfr-cookiebanner-accept-button = Баннерлерді қабылдамау
+    .accesskey = д
+cfr-cookiebanner-reject-button = Қазір емес
+    .accesskey = м
+cfr-cookiebanner-header-variant-1 = Азырақ cookie қалқымалы терезелерін көру
+cfr-cookiebanner-body-variant-1 = Мазасыз шолуға қайта оралу үшін { -brand-short-name } cookie файлдарының қалқымалы терезелеріне автоматты түрде жауап беруге рұқсат беріңіз. { -brand-short-name } мүмкіндігінше барлық сұрауларды қабылдамайды.
+cfr-cookiebanner-accept-button-variant-1 = Қалқымалы терезелерді елемеу
+    .accesskey = м
+cfr-cookiebanner-reject-button-variant-1 = Жоқ, рахмет
+    .accesskey = о
+cfr-cookiebanner-header-variant-2 = Cookie баннерлерін азайту
+cfr-cookiebanner-body-variant-2 = Мүмкін болса, { -brand-short-name } веб-сайтының cookie файлына рұқсат сұрауын қабылдамауға рұқсат беру арқылы көретін cookie баннерлерінің санын азайту.
+cfr-cookiebanner-accept-button-variant-2 = Рұқсат ету
+    .accesskey = а
+cfr-cookiebanner-reject-button-variant-2 = Қазір емес
+    .accesskey = м
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Сіз үшін қамқорлықпен

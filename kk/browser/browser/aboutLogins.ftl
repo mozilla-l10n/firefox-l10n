@@ -105,7 +105,10 @@ login-item-time-used = Соңғы рет қолданылған: { DATETIME($tim
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Жасалған
+login-item-timeline-action-updated = Жаңартылды
+login-item-timeline-action-used = Пайдаланылды
 
 ## OS Authentication dialog
 

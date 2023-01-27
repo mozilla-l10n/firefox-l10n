@@ -27,6 +27,7 @@ neterror-try-again-button = Қайтадан көру
 neterror-add-exception-button = Бұл сайт үшін әрқашан жалғастыру
 neterror-settings-button = DNS бапталарын өзгерту
 neterror-view-certificate-link = Сертификатты қарау
+neterror-disable-native-feedback-warning = Әрқашан жалғастыру
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = Сіз интернетке қосылма�
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } бұл веб-сайттың адресін таба алмады.
 neterror-dns-not-found-trr-server-problem = { $trrDomain } доменіне қатысты мәселе бар.
 neterror-dns-not-found-trr-unknown-problem = Күтпеген мәселе.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } біздің сенімді DNS шешушісі арқылы осы сайт адресіне қатысты сұрауыңызды қорғай алмайды. Себебі:
+neterror-dns-not-found-native-fallback-attackers = Қауіпсіз DNS шешушісімен жалғастыра аласыз. Дегенмен, үшінші тарап сіз кіретін веб-сайттарды көре алады немесе сізді сенімсіз сайтқа жібере алады.
+neterror-dns-not-found-native-fallback-heuristic = HTTPsарқылы DNS сіздің желіңізде сөндірілген.
+neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } адресіне байланыс әлі дайын емес.
 
 ##
 
