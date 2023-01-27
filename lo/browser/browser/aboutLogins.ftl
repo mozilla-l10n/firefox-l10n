@@ -7,6 +7,8 @@ about-logins-page-title = ເຂົ້າສູ່ລະບົບ & ລະຫັ
 login-filter =
     .placeholder = ຄົ້ນຫາການລັອກອິນ
 create-login-button = ສ້າງການລັອກອິນໃຫມ່
+create-new-login-button =
+    .title = ສ້າງການເຂົ້າສູ່ລະບົບໃຫມ່
 fxaccounts-sign-in-text = ເອົາລະຫັດຜ່ານຂອງທ່ານໃນອຸປະກອນອື່ນຂອງທ່ານ
 fxaccounts-sign-in-sync-button = ເຂົ້າສູ່ລະບົບເພື່ອ Sync
 fxaccounts-avatar-button =
@@ -98,6 +100,12 @@ login-item-cancel-button = ຍົກເລີກ
 login-item-time-changed = ດັດແກ້ຫຼ້າສຸດ: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = ຖືກສ້າງ: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = ນຳໃຊ້ຫຼ້າສຸດ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = ສ້າງແລ້ວ
 
 ## OS Authentication dialog
 
