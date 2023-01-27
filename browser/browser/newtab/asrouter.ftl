@@ -241,6 +241,11 @@ colorways-cfr-header-14days = Las combinaciones de colores de Voces Independient
 colorways-cfr-header-7days = Las combinaciones de colores de Voces Independientes expiran esta semana
 colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente expiran hoy
 
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-reject-button = Ahora no
+    .accesskey = n
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
