@@ -244,6 +244,28 @@ colorways-cfr-header-14days = Ragam warna Suara Independen kedaluarsa dalam dua 
 colorways-cfr-header-7days = Ragam warna Suara Independen kedaluarsa minggu ini
 colorways-cfr-header-today = Ragam warna Suara Independen kedaluarsa hari ini
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Lenyapkan spanduk kuki!
+cfr-cookiebanner-body = Izinkan { -brand-short-name } untuk secara otomatis menolak semua permintaan spanduk kuki jika memungkinkan.
+cfr-cookiebanner-accept-button = Tutup Spanduk
+    .accesskey = T
+cfr-cookiebanner-reject-button = Jangan sekarang
+    .accesskey = J
+cfr-cookiebanner-header-variant-1 = Lihat lebih sedikit pop-up kuki
+cfr-cookiebanner-body-variant-1 = Izinkan { -brand-short-name } menjawab pop-up kuki secara otomatis agar Anda dapat kembali ke penjelajahan bebas gangguan. { -brand-short-name } akan menolak semua permintaan jika memungkinkan.
+cfr-cookiebanner-accept-button-variant-1 = Tutup Pop-up
+    .accesskey = u
+cfr-cookiebanner-reject-button-variant-1 = Tidak, Terima kasih
+    .accesskey = h
+cfr-cookiebanner-header-variant-2 = Pengurangan Spanduk Kuki
+cfr-cookiebanner-body-variant-2 = Kurangi jumlah spanduk kuki yang Anda lihat dengan mengizinkan { -brand-short-name } untuk menolak permintaan izin kuki situs web jika memungkinkan.
+cfr-cookiebanner-accept-button-variant-2 = Izinkan
+    .accesskey = I
+cfr-cookiebanner-reject-button-variant-2 = Jangan sekarang
+    .accesskey = J
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Kami membantu Anda
