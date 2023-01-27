@@ -257,3 +257,4 @@ cfr-cookiebanner-reject-button-variant-2 = Nicht jetzt
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Wir haben für Sie vorgesorgt
