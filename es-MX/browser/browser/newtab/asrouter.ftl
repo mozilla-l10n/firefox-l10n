@@ -245,7 +245,19 @@ colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente
 
 cfr-cookiebanner-reject-button = Ahora no
     .accesskey = n
+cfr-cookiebanner-header-variant-1 = Ver menos ventanas emergentes de cookies
+cfr-cookiebanner-accept-button-variant-1 = Descartar ventanas emergentes
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = No, gracias
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reducción de banner de cookies
+cfr-cookiebanner-accept-button-variant-2 = Permitir
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Ahora no
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Nosotros te protegemos
+july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3,000 rastreadores por usuario, lo que brinda un acceso rápido y seguro a Internet bueno.
 july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
