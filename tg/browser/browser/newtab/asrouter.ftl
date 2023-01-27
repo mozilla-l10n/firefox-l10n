@@ -62,7 +62,7 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Баннерҳои куки гум шаванд!
-cfr-cookie-banner-handling-body = Ба «{ -brand-short-name }» иҷозат диҳед, ки он тавонад ҳамаи дархостҳои баннери куки ба қадри имкон рад кунад. Дар акси ҳол, барои қатъ кардани баннерҳои боз ҳам бештар, ҳамаи кукиҳо қабул карда мешаванд.
+cfr-cookie-banner-handling-body = Ба «{ -brand-short-name }» иҷозат диҳед, то ки он тавонад ҳамаи дархостҳои баннери кукиро ба қадри имкон рад кунад. Дар акси ҳол, барои қатъ кардани баннерҳои боз ҳам бештар, ҳамаи кукиҳо қабул карда мешаванд.
 cfr-cookie-banner-accept-button = Қатъ кардани дархостҳо
     .accesskey = Қ
 cfr-cookie-banner-reject-button = Ҳоло не
@@ -74,7 +74,7 @@ cfr-cookie-banner-accept-button-variant-1 = Қатъ кардани равзан
 cfr-cookie-banner-reject-button-variant-1 = Не, ташаккур
     .accesskey = Н
 cfr-cookie-banner-handling-header-variant-2 = Маҳдудкунии баннери куки
-cfr-cookie-banner-handling-body-variant-2 = Ба «{ -brand-short-name }» иҷозат медиҳед, ки он ба қадри имкон дархости ризоияти кукии сомонаро рад кунад ё агар имкон набошад, дастрасии кукиҳоро қабул кунад?
+cfr-cookie-banner-handling-body-variant-2 = Ба «{ -brand-short-name }» иҷозат медиҳед, то ки он ба қадри имкон дархости ризоияти кукии сомонаро рад кунад ё агар имкон набошад, дастрасии кукиҳоро қабул кунад?
 cfr-cookie-banner-accept-button-variant-2 = Иҷозат додан
     .accesskey = И
 cfr-cookie-banner-reject-button-variant-2 = Ҳоло не
@@ -250,11 +250,13 @@ colorways-cfr-header-today = Нақшу нигорҳои садоҳои муст
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Баннерҳои куки гум шаванд!
+cfr-cookiebanner-body = Ба «{ -brand-short-name }» иҷозат диҳед, то ки он тавонад ҳамаи дархостҳои баннери кукиро ба қадри имкон рад кунад.
 cfr-cookiebanner-accept-button = Қатъ кардани баннерҳо
     .accesskey = Қ
 cfr-cookiebanner-reject-button = Ҳоло не
     .accesskey = Ҳ
 cfr-cookiebanner-header-variant-1 = Камтар дидани равзанаҳои зоҳиршавандаи кукиҳо
+cfr-cookiebanner-body-variant-1 = Иҷозат диҳед, ки «{ -brand-short-name }» аз ҷониби шумо ба равзанаҳои зоҳиршавандаи куки ба таври худкор ҷавоб диҳад, то шумо тавонед ба тамошокунии озод аз халалрасонӣ баргардед. «{ -brand-short-name }» ба қадри имкон ҳамаи дархостҳоро рад мекунад.
 cfr-cookiebanner-accept-button-variant-1 = Қатъ кардани равзанаҳои зоҳиршаванда
     .accesskey = Қ
 cfr-cookiebanner-reject-button-variant-1 = Не, ташаккур

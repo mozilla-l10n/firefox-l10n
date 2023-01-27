@@ -27,6 +27,7 @@ neterror-try-again-button = Аз нав кӯшиш кардан
 neterror-add-exception-button = Барои ин сомна ҳамеша идома дода шавад
 neterror-settings-button = Тағйир додани танзимоти DNS
 neterror-view-certificate-link = Дидани гувоҳинома
+neterror-disable-native-feedback-warning = Ҳамеша идома диҳед
 
 ##
 
@@ -61,6 +62,13 @@ neterror-dns-not-found-trr-offline = Шумо ба Интернет пайвас
 neterror-dns-not-found-trr-unknown-host = Нишонӣ барои ин сомона аз тарафи { $trrDomain } ёфт нашуд.
 neterror-dns-not-found-trr-server-problem = Мушкилии { $trrDomain } ба миён омад.
 neterror-dns-not-found-trr-unknown-problem = Мушкилии ногаҳон.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути ҳалкунандаи боэътимоди DNS муҳофизат карда наметавонад. Сабаб:
+neterror-dns-not-found-native-fallback-heuristic = DNS тавассути HTTPs дар шабакаи шумо хомӯш карда шудааст.
 
 ##
 
