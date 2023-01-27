@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Қаралмаған веб-сайттардан cookies файлдары
 sitedata-option-block-all-third-party =
     .label = Барлық үшінші жақты cookies файлдары (веб-сайттар жұмысының бұзылуына себеп болуы мүмкін)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Барлық сайтаралық cookies файлдары (веб-сайттар сынуына әкеп соғуы мүмкін)
 sitedata-option-block-all =
     .label = Барлық cookies файлдары (веб-сайттар жұмысының бұзылуына себеп болады)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Барлық cookie файлдары
 content-blocking-unvisited-cookies = Қаралмаған сайттардың cookies файлдары
 content-blocking-all-windows-tracking-content = Барлық терезелердегі бақылайтын құрама
 content-blocking-all-third-party-cookies = Барлық үшінші жақты cookies
+content-blocking-all-cross-site-cookies = Барлық сайтаралық cookie файлдары
 content-blocking-cryptominers = Криптомайнерлер
 content-blocking-fingerprinters = Баспаны жинаушылар
 # "Test pilot" is used as a verb. Possible alternatives:

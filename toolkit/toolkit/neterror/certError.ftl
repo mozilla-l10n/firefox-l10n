@@ -78,6 +78,9 @@ dnsNotFound-title = Кешіріңіз, бұл сайтты таба алмад�
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = { $hostname } үшін ықтимал қауіпсіздік қаупі.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = { $hostname } үшін ықтимал қауіпсіздік қаупі.
 fileNotFound-title = Файл табылмады
 fileAccessDenied-title = Файлға қатынау құқығы жоқ
 generic-title = Қате.
