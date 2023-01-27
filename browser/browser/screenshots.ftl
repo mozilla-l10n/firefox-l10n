@@ -45,3 +45,4 @@ screenshots-private-window-error-details = Sorry foar it ûngemak. Foar takomsti
 screenshots-generic-error-title = Oeps! { -screenshots-brand-name } is yn 'e war.
 screenshots-generic-error-details = Wy binne net wis wat der krekt bard is. Wolle jo it nochris probearje of in skermôfdruk fan in oare side meitsje?
 screenshots-too-large-error-title = Jo skermôfdruk is bysnien, omdat it te grut wie
+screenshots-too-large-error-details = Probearje in gebied te selektearjen dat lytser is as 32.700 pixels oan de langste side of in totaal oerflak fan 124.900.000 pixels.
