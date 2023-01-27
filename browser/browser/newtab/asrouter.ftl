@@ -62,6 +62,16 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Weg mit Cookie-Bannern!
+cfr-cookie-banner-reject-button = Nicht jetzt
+    .accesskey = N
+cfr-cookie-banner-reject-button-variant-1 = Nein, danke
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reduzierung von Cookie-Bannern
+cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } erlauben, die Cookie-Zustimmungsanfrage einer Webseite nach Möglichkeit abzulehnen, oder den Cookie-Zugriff zu akzeptieren, wenn dies nicht möglich ist?
+cfr-cookie-banner-accept-button-variant-2 = Erlauben
+    .accesskey = E
+cfr-cookie-banner-reject-button-variant-2 = Nicht jetzt
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -229,6 +239,21 @@ colorways-cfr-header-28days = Farbwelten "Unabhängige Stimmen" laufen am 16. Ja
 colorways-cfr-header-14days = Farbwelten "Unabhängige Stimmen" laufen in zwei Wochen ab
 colorways-cfr-header-7days = Farbwelten "Unabhängige Stimmen" laufen diese Woche ab
 colorways-cfr-header-today = Farbwelten "Unabhängige Stimmen" laufen heute ab
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Weg mit Cookie-Bannern!
+cfr-cookiebanner-reject-button = Nicht jetzt
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Weniger Cookie-Pop-ups sehen
+cfr-cookiebanner-reject-button-variant-1 = Nein, danke
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reduzierung von Cookie-Bannern
+cfr-cookiebanner-accept-button-variant-2 = Erlauben
+    .accesskey = E
+cfr-cookiebanner-reject-button-variant-2 = Nicht jetzt
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

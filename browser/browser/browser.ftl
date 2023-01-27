@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Aus Chronik entfernen
     .accesskey = e
+urlbar-result-menu-tip-get-help =
+    .label = Hilfe erhalten
+    .accesskey = H
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Add-ons anzeigen
 quickactions-cmd-addons2 = Add-ons
 # Opens the bookmarks library window
-quickactions-bookmarks = Lesezeichen anzeigen
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Lesezeichen verwalten
 quickactions-cmd-bookmarks = Lesezeichen
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Chronik löschen
 quickactions-cmd-clearhistory = Chronik löschen
-# Opens about:downloads page
-quickactions-downloads = Downloads öffnen
 # Opens about:downloads page
 quickactions-downloads2 = Downloads anzeigen
 quickactions-cmd-downloads = Downloads
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = Downloads
 quickactions-extensions = Erweiterungen verwalten
 quickactions-cmd-extensions = Erweiterungen
 # Opens the devtools web inspector
-quickactions-inspector = Inspektor öffnen
-# Opens the devtools web inspector
 quickactions-inspector2 = Entwicklerwerkzeuge öffnen
 quickactions-cmd-inspector = Inspektor, Entwicklertools
-# Opens about:logins
-quickactions-logins = Zugangsdaten anzeigen
 # Opens about:logins
 quickactions-logins2 = Passwörter verwalten
 quickactions-cmd-logins = Zugangsdaten, Logins, Anmeldungen, Passwörter
@@ -313,12 +308,8 @@ quickactions-cmd-logins = Zugangsdaten, Logins, Anmeldungen, Passwörter
 quickactions-plugins = Plugins verwalten
 quickactions-cmd-plugins = Plugins
 # Opens the print dialog
-quickactions-print = Drucken
-# Opens the print dialog
 quickactions-print2 = Seite drucken
 quickactions-cmd-print = Drucken
-# Opens a new private browsing window
-quickactions-private = Privates Browserfenster öffnen
 # Opens a new private browsing window
 quickactions-private2 = Privates Fenster öffnen
 quickactions-cmd-private = Privater Modus
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = Aktualisieren
 quickactions-restart = { -brand-short-name } neu starten
 quickactions-cmd-restart = Neu starten
 # Opens the screenshot tool
-quickactions-screenshot2 = Bildschirmfoto aufnehmen
-# Opens the screenshot tool
 quickactions-screenshot3 = Bildschirmfoto aufnehmen
 quickactions-cmd-screenshot = Bildschirmfoto
-# Opens about:preferences
-quickactions-settings = Einstellungen öffnen
 # Opens about:preferences
 quickactions-settings2 = Einstellungen verwalten
 quickactions-cmd-settings = Einstellungen, Präferenzen, Optionen
@@ -344,8 +331,6 @@ quickactions-cmd-themes = Themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualisieren
 quickactions-cmd-update = Aktualisieren
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Quelltext anzeigen
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Seitenquelltext anzeigen
 quickactions-cmd-viewsource = Quelltext anzeigen, Quelltext
