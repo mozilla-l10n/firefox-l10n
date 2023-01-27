@@ -4,12 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Логиндер және парольдер
-
 login-filter =
     .placeholder = Логиндерден іздеу
-
 create-login-button = Жаңа логинді жасау
-
+create-new-login-button =
+    .title = Жаңа логинді жасау
 fxaccounts-sign-in-text = Парольдеріңізді басқа құрылғыларыңызды алыңыз
 fxaccounts-sign-in-sync-button = Синхрондау үшін кіру
 fxaccounts-avatar-button =
@@ -102,6 +101,12 @@ login-item-time-changed = Соңғы өзгертілген: { DATETIME($timeCha
 login-item-time-created = Жасалған: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Соңғы рет қолданылған: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = Жасалған
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -115,19 +120,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Логиніңізді тү
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = сақталған логинді түзету
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Пароліңізді қарау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = сақталған парольді қарау
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Пароліңізді көшіріп алу үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = сақталған парольді көшіру
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Логиндеріңізді экспорттау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
 # This message can be seen when attempting to export a password in about:logins
@@ -146,23 +148,19 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Бас тарту
 confirmation-dialog-dismiss-button =
     .title = Бас тарту
-
 about-logins-confirm-remove-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
 about-logins-confirm-remove-dialog-confirm-button = Өшіру
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Өшіру
        *[other] Барлығын өшіру
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Иә, бұл логинді өшіру
        *[other] Иә, бұл логиндерді өшіру
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] Барлық { $count } логинді өшіру керек пе?
@@ -172,7 +170,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Бұл { -brand-short-name } жүйесіне сақтаған логинді және осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
        *[other] Бұл { -brand-short-name } жүйесіне сақтаған логиндерді және осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] { $count } логинді барлық құрылғылардан өшіру керек пе?
@@ -182,14 +179,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Бұл { -brand-short-name } жүйесіне сақтаған логинді сіздің барлық { -fxaccount-brand-name } арқылы синхрондалған құрылғылардан өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
        *[other] Бұл { -brand-short-name } жүйесіне сақтаған барлық логиндерді сіздің барлық { -fxaccount-brand-name } арқылы синхрондалған құрылғылардан өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
     }
-
 about-logins-confirm-export-dialog-title = Логиндер және парольдерді экспорттау
 about-logins-confirm-export-dialog-message = Парольдеріңіз ашық, оқуға келетін мәтін ретінде сақталатын болады (мыс., BadP@ssw0rd) сондықтан экспортталған файлды аша алатын адам оларды көре алады.
 about-logins-confirm-export-dialog-confirm-button = Экспорттау…
-
 about-logins-alert-import-title = Импорт аяқталды
 about-logins-alert-import-message = Импорттаудың толық есептемесін қарау
-
 confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді тайдыру керек пе?
 confirm-discard-changes-dialog-message = Барлық сақталмаған өзгерістер жоғалады.
 confirm-discard-changes-dialog-confirm-button = Тайдыру
@@ -220,7 +214,6 @@ about-logins-vulnerable-alert-learn-more-link = Көбірек білу
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Осы пайдаланушы атын қолданатын { $loginTitle } жазбасы бар болып тұр. <a data-l10n-name="duplicate-link">Бар болып тұрған жазбаға өту</a> керек пе?
-
 # This is a generic error message.
 about-logins-error-message-default = Бұл парольді сақтау кезінде қате орын алды.
 
@@ -269,12 +262,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Жаңа логиндер қосылды:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Бар болып тұрған логиндер жаңартылды:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Қайталанатын логиндер табылды:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(импортталмады)</span>
@@ -284,7 +275,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Қателер:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(импортталмады)</span>
     }
 about-logins-import-dialog-done = Дайын
-
 about-logins-import-dialog-error-title = Импорттау қатесі
 about-logins-import-dialog-error-conflicting-values-title = Бір логинге байланысты бірнеше қақтығысатын мәндер
 about-logins-import-dialog-error-conflicting-values-description = Мысалы: бір логин үшін бірнеше пайдаланушы аты, пароль, URL және т.б.
@@ -298,10 +288,8 @@ about-logins-import-dialog-error-no-logins-imported = Логиндер импо�
 about-logins-import-dialog-error-learn-more = Көбірек білу
 about-logins-import-dialog-error-try-import-again = Қайта импорттап көру…
 about-logins-import-dialog-error-cancel = Бас тарту
-
 about-logins-import-report-title = Импорттаудың есептемесі
 about-logins-import-report-description = { -brand-short-name } ішіне импортталған логиндер және парольдер.
-
 #
 # Variables:
 #  $number (number) - The number of the row
