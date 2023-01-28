@@ -49,7 +49,7 @@ appmenu-menu-button-closed2 =
     .tooltiptext = ایپلیکیشن مینو کھولو
     .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
-    .tooltiptext = ایپلیکیشن مینو بند کریں
+    .tooltiptext = ایپلیکیشن مینو بند کرو
     .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.

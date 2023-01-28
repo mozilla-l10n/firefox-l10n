@@ -5,7 +5,7 @@
 history-title = تاریخ اپ ڈیٹ کرو
 history-intro = ہیٹھلیاں اپ ڈیٹاں انسٹال تھی ڳیاں ہن
 close-button-label =
-    .buttonlabelcancel = بند کریں
+    .buttonlabelcancel = بند کرو
     .title = تاریخ اپ ڈیٹ کرو
 no-updates-label = اڄݨ کوئی اپ ڈیٹاں انسٹال کائنی تھیاں
 name-header = ناں اپ ڈیٹ کرو
