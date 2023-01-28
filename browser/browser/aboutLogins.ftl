@@ -7,6 +7,8 @@ about-logins-page-title = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
 login-filter =
     .placeholder = ਲਾਗਇਨ ਖੋਜੋ
 create-login-button = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
+create-new-login-button =
+    .title = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
 fxaccounts-sign-in-text = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡ ਲਵੋ
 fxaccounts-sign-in-sync-button = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 fxaccounts-avatar-button =
@@ -99,6 +101,15 @@ login-item-cancel-button = ਰੱਦ ਕਰੋ
 login-item-time-changed = ਆਖਰੀ ਵਾਰ ਕੀਤੀ ਸੋਧ: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = ਬਣਾਇਆ: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = ਆਖਰੀ ਵਰਤੋਂ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = ਬਣਾਇਆ
+login-item-timeline-action-updated = ਅੱਪਡੇਟ ਕੀਤੀ
+login-item-timeline-action-used = ਵਰਤਿਆ
 
 ## OS Authentication dialog
 
