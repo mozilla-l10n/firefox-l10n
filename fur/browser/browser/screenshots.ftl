@@ -45,3 +45,4 @@ screenshots-private-window-error-details = Nus displâs pal inconvenient. O stin
 screenshots-generic-error-title = Orpo! { -screenshots-brand-name } al à dât di volte.
 screenshots-generic-error-details = No sin sigûrs di ce che al è sucedût. Vûstu tornâ a provâ o caturâ une istantanie di une pagjine divierse?
 screenshots-too-large-error-title = La tô videade e je stade taiade par vie che e jere masse grande
+screenshots-too-large-error-details = Prove a selezionâ une regjon plui piçule di 32.700 pixels de bande plui lungje o cuntune aree totâl di 124.900.000 pixels.
