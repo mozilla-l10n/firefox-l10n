@@ -246,6 +246,7 @@ colorways-cfr-header-today = 獨立之聲配色將於今日失效
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = 讓 Cookie 橫幅消失！
+cfr-cookiebanner-body = 讓 { -brand-short-name } 盡可能自動拒絕 Cookie 橫幅。
 cfr-cookiebanner-accept-button = 關閉橫幅
     .accesskey = D
 cfr-cookiebanner-reject-button = 現在不要
@@ -257,6 +258,7 @@ cfr-cookiebanner-accept-button-variant-1 = 關閉彈出提示
 cfr-cookiebanner-reject-button-variant-1 = 不要，謝謝
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = 減少 Cookie 橫幅
+cfr-cookiebanner-body-variant-2 = 讓 { -brand-short-name } 盡可能自動拒絕網站要設定 Cookie 的請求，讓您減少會看到的 Cookie 橫幅數量。
 cfr-cookiebanner-accept-button-variant-2 = 允許
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = 現在不要
