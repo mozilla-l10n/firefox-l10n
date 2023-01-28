@@ -82,8 +82,8 @@ detail-check-for-updates =
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] 설정
-           *[other] 환경 설정
+            [windows] 옵션
+           *[other] 설정
         }
     .accesskey =
         { PLATFORM() ->
@@ -92,8 +92,8 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] 부가 기능 설정 변경
-           *[other] 부가 기능 환경 설정 변경
+            [windows] 부가 기능 옵션 변경
+           *[other] 부가 기능 설정 변경
         }
 detail-rating =
     .value = 평가
@@ -274,7 +274,7 @@ extension-enable-addon-button-label =
     .aria-label = 사용함
 preferences-addon-button =
     { PLATFORM() ->
-        [windows] 설정
+        [windows] 옵션
        *[other] 설정
     }
 details-addon-button = 상세 정보
