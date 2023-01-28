@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Cookies dai sîts web no visitâts
 sitedata-option-block-all-third-party =
     .label = Ducj i cookies di tiercis parts (al pues causâ malfunzionaments dai sîts web)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Ducj i cookies inter-sît (cualchi sît al podarès funzionâ mâl)
 sitedata-option-block-all =
     .label = Ducj i cookies (al causarà malfunzionaments dai sîts web)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Ducj i cookies
 content-blocking-unvisited-cookies = Cookies dai sîts no visitâts
 content-blocking-all-windows-tracking-content = Contignûts che a spiin in ducj i barcons
 content-blocking-all-third-party-cookies = Ducj i cookies di tiercis parts
+content-blocking-all-cross-site-cookies = Ducj i cookies inter-sît
 content-blocking-cryptominers = Minadôrs di criptomonede
 content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
 # "Test pilot" is used as a verb. Possible alternatives:

@@ -247,6 +247,28 @@ colorways-cfr-header-14days = Lis tonalitâts des vôs indipendentis a scjadin c
 colorways-cfr-header-7days = Lis tonalitâts des vôs indipendentis a scjadin cheste setemane
 colorways-cfr-header-today = Lis tonalitâts des vôs indipendentis a scjadin vuê
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Vonde strissons pai cookies!
+cfr-cookiebanner-body = Permet a { -brand-short-name } di refudâ in automatic dutis lis richiestis dai strissons pai cookies, se pussibil.
+cfr-cookiebanner-accept-button = Siere i strissons
+    .accesskey = S
+cfr-cookiebanner-reject-button = No cumò
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Viôt mancul ricuadris a comparse pai cookies
+cfr-cookiebanner-body-variant-1 = Permet a { -brand-short-name } di rispuindi in automatic al to puest ai ricuadris dai cookies, cussì che tu puedis tornâ a navigâ cence distrazions. Se pussibil, { -brand-short-name } al refudarà dutis lis richiestis.
+cfr-cookiebanner-accept-button-variant-1 = Siere ricuadris a comparse
+    .accesskey = S
+cfr-cookiebanner-reject-button-variant-1 = No graciis
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Riduzion strissons pai cookies
+cfr-cookiebanner-body-variant-2 = Ridûs la cuantitât di strissons pai cookies visualizâts, permetint a { -brand-short-name } di ricusâ, se pussibil, lis richiestis di consens pai cookies de bande di un sît.
+cfr-cookiebanner-accept-button-variant-2 = Permet
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = No cumò
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Ti tignìn al sigûr
