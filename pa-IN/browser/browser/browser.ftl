@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
     .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = ਮਦਦ ਲਵੋ
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = ਐਡ-ਆਨ ਨੂੰ ਦੇਖੋ
 quickactions-cmd-addons2 = ਐਡ-ਆਨ
 # Opens the bookmarks library window
-quickactions-bookmarks = ਬੁੱਕਮਾਰਕ ਵੇਖੋ
-# Opens the bookmarks library window
 quickactions-bookmarks2 = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-bookmarks = ਬੁੱਕਮਾਰਕ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ਅਤੀਤ ਮਿਟਾਓ
 quickactions-cmd-clearhistory = ਅਤੀਤ ਮਿਟਾਓ
-# Opens about:downloads page
-quickactions-downloads = ਡਾਊਨਲੋਡ ਨੂੰ ਖੋਲ੍ਹੋ
 # Opens about:downloads page
 quickactions-downloads2 = ਡਾਊਨਲੋਡ ਵੇਖੋ
 quickactions-cmd-downloads = ਡਾਊਨਲੋਡ
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = ਡਾਊਨਲੋਡ
 quickactions-extensions = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-extensions = ਇਕਸਟੈਨਸ਼ਨ
 # Opens the devtools web inspector
-quickactions-inspector = ਇੰਸਪੈਸਕਟਰ ਖੋਲ੍ਹੋ
-# Opens the devtools web inspector
 quickactions-inspector2 = ਡਿਵੈਲਪਰ ਟੂਲ ਖੋਲ੍ਹੋ
 quickactions-cmd-inspector = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ
-# Opens about:logins
-quickactions-logins = ਲਾਗਇਨ ਵੇਖੋ
 # Opens about:logins
 quickactions-logins2 = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-logins = ਲਾਗਇਨ, ਪਾਸਵਰਡ
@@ -313,12 +308,8 @@ quickactions-cmd-logins = ਲਾਗਇਨ, ਪਾਸਵਰਡ
 quickactions-plugins = ਪਲੱਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-plugins = ਪਲੱਗਇਨ
 # Opens the print dialog
-quickactions-print = ਪਰਿੰਟ ਕਰੋ
-# Opens the print dialog
 quickactions-print2 = ਸਫ਼਼ਾ ਪਰਿੰਟ ਕਰੋ
 quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
-# Opens a new private browsing window
-quickactions-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਖੋਲ੍ਹੋ
 # Opens a new private browsing window
 quickactions-private2 = ਨਿੱਜੀ ਵਿੰਡੋ ਖੋਲ੍ਹੋ
 quickactions-cmd-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = ਤਾਜਾ ਕਰੋ
 quickactions-restart = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 quickactions-cmd-restart = ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ
 # Opens the screenshot tool
-quickactions-screenshot2 = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
-# Opens the screenshot tool
 quickactions-screenshot3 = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
 quickactions-cmd-screenshot = ਸਕਰੀਨਸ਼ਾਟ
-# Opens about:preferences
-quickactions-settings = ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
 # Opens about:preferences
 quickactions-settings2 = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 quickactions-cmd-settings = ਸੈਟਿੰਗਾਂ, ਮੇਰੀਆਂ ਪਸੰਦਾਂ, ਚੋਣਾਂ
@@ -344,8 +331,6 @@ quickactions-cmd-themes = ਥੀਮ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
 quickactions-cmd-update = ਅੱਪਡੇਟ ਕਰੋ
-# Opens the view-source UI with current pages source
-quickactions-viewsource = ਸਰੋਤ ਵੇਖੋ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ਸਫ਼ੇ ਦੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ
 quickactions-cmd-viewsource = ਸਰੋਤ ਵੇਖੋ, ਸਰੋਤ
