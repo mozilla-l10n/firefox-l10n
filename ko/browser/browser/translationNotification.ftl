@@ -57,7 +57,7 @@ translation-notification-try-again-button =
 translation-notification-service-unavailable =
     .value = 지금은 번역을 사용할 수 없습니다. 나중에 다시 시도하세요.
 translation-notification-options-menu =
-    .label = 설정
+    .label = 옵션
 
 ## The accesskey values used here should not clash with each other
 
