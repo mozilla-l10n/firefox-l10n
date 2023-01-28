@@ -45,6 +45,9 @@ appmenuitem-exit2 =
             [linux] ອອກ
            *[other] ອອກ
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = ເປີດເມນູແອັບພລິເຄຊັນ
+    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
     .tooltiptext = ປິດເມນູແອັບພລິເຄຊັນ
     .label = { -brand-short-name }
