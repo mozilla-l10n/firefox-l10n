@@ -243,6 +243,26 @@ colorways-cfr-header-14days = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦ�
 colorways-cfr-header-7days = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦੀ ਮਿਆਦ ਇੱਕ ਹਫ਼਼ਤੇ ਵਿੱਚ ਪੁੱਗੇਗੀ
 colorways-cfr-header-today = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦੀ ਮਿਆਦ ਅੱਜ ਪੁੱਗੇਗੀ
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = ਕੂਕੀ ਬੈਨਰ ਕਰੋ ਰਵਾਨਾ!
+cfr-cookiebanner-body = ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੋਵੇ ਤਾਂ { -brand-short-name } ਨੂੰ ਸਾਰੀਆਂ ਕੂਕੀ ਬੈਨਰ ਬੇਨਤੀਆਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਰੱਦ ਕਰਨ ਦਿਓ।
+cfr-cookiebanner-accept-button = ਬੈਨਰਾਂ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
+    .accesskey = D
+cfr-cookiebanner-reject-button = ਹੁਣੇ ਨਹੀਂ
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = ਘੱਟ ਕੂਕੀ ਪੌਪ-ਅੱਪ ਵੇਖੋ
+cfr-cookiebanner-accept-button-variant-1 = ਪੌਪ-ਅੱਪ ਖ਼ਾਰਜ ਕਰੋ
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = ਨਹੀਂ, ਧੰਨਵਾਦ
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = ਕੂਕੀ ਬੈਨਰ ਘਟਾਉਣਾ
+cfr-cookiebanner-accept-button-variant-2 = ਮਨਜ਼ੂਰ
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = ਹੁਣੇ ਨਹੀਂ
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = ਅਸੀਂ ਤੁਹਾਡੇ ਲਈ ਢਾਲ ਬਣ ਕੇ ਖੜ੍ਹੇ ਹਾਂ
