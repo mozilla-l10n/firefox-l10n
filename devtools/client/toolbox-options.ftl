@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = ਥੀਮ
 
 ## Inspector section
 
