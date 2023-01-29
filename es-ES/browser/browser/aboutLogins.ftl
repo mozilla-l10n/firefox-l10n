@@ -7,6 +7,8 @@ about-logins-page-title = Inicios de sesión y contraseñas
 login-filter =
     .placeholder = Buscar inicios de sesión
 create-login-button = Crear nuevo inicio de sesión
+create-new-login-button =
+    .title = Crear nuevo inicio de sesión
 fxaccounts-sign-in-text = Acceda a sus contraseñas en todos sus dispositivos
 fxaccounts-sign-in-sync-button = Inicie sesión para sincronizar
 fxaccounts-avatar-button =
@@ -99,6 +101,15 @@ login-item-cancel-button = Cancelar
 login-item-time-changed = Última modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Creación: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Último acceso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Creado
+login-item-timeline-action-updated = Actualizado
+login-item-timeline-action-used = Usado
 
 ## OS Authentication dialog
 
