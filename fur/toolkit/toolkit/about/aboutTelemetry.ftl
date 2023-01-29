@@ -69,6 +69,43 @@ about-telemetry-histogram-stats =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Cheste pagjine e mostre informazions su prestazions, hardware, utilizazion e personalizazions tirâts dongje di Telemetry. Chestis informazions a vegnin mandadis a { $telemetryServerOwner } par judâ a miorâ { -brand-full-name }.
+about-telemetry-settings-explanation = La telemetrie e sta tirant dongje { about-telemetry-data-type } e il cjariament in rêt al è <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Ogni toc di informazion al ven mandât in grups clamâts “<a data-l10n-name="ping-link">pings</a>”. Cumò tu stâs viodint il ping { $name }, { $timestamp }.
+about-telemetry-data-details-current = Ogni toc di informazion al ven mandât in grups clamâts “<a data-l10n-name="ping-link">pings</a>“. In chest moment a son visualizâts i dâts corints.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = Cjate in { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Cjate in dutis lis sezions
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = Risultâts par “{ $searchTerms }”
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Nus displâs, “{ $currentSearchText }” nol è stât cjatât in { $sectionName }
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Nus displâs, “{ $searchTerms }” nol è stât cjatât in nissune sezion.
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Nus displâs, in chest moment no si àn dâts disponibii in “{ $sectionName }”.
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = dâts corints
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = ducj
 # button label to copy the histogram
 about-telemetry-histogram-copy = Copie
+# these strings are used in the “Slow SQL Statements” section
+about-telemetry-slow-sql-main = Declarazions SQL lentis tal thread principâl
+about-telemetry-slow-sql-other = Declarazions SQL lentis sui threads di supuart
 about-telemetry-addon-table-details = Detais
