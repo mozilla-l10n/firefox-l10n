@@ -108,4 +108,35 @@ about-telemetry-histogram-copy = Copie
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Declarazions SQL lentis tal thread principâl
 about-telemetry-slow-sql-other = Declarazions SQL lentis sui threads di supuart
+about-telemetry-slow-sql-hits = Contadôr
+about-telemetry-slow-sql-average = Timp medi (ms)
+about-telemetry-slow-sql-statement = Declarazion
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = ID component adizionâl
 about-telemetry-addon-table-details = Detais
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = Furnidôr di { $addonProvider }
+about-telemetry-keys-header = Proprietât
+about-telemetry-names-header = Non
+about-telemetry-values-header = Valôr
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Scriture intardade #{ $lateWriteCount }
+about-telemetry-stack-title = Stack:
+about-telemetry-memory-map-title = Mape memorie:
+about-telemetry-error-fetching-symbols = Al è capitât un erôr tal recuperâ i simbui. Controle la conession a internet e torne prove.
+about-telemetry-time-stamp-header = marche temporâl
+about-telemetry-category-header = categorie
+about-telemetry-method-header = metodi
+about-telemetry-object-header = ogjet
+about-telemetry-extra-header = altri
+about-telemetry-origin-section = Telemetrie “Origin”
+about-telemetry-origin-origin = origjin
+about-telemetry-origin-count = conte
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = La <a data-l10n-name="origin-doc-link">telemetrie “Origin” in Firefox</a> e codifiche i dâts prime di inviâju. In chet mût { $telemetryServerOwner } al pues contâ lis robis, ma nol pues determinâ se une specifiche istance di { -brand-product-name } e vedi contribuît o mancul a chel totâl. <a data-l10n-name="prio-blog-link">Plui informazions</a>.
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Procès “{ $process }”
