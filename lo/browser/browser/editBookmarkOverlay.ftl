@@ -34,4 +34,5 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword-2 =
     .value = ຄໍາທີ່ຕ້ອງການຊອກຫາ
     .accesskey = K
+bookmark-overlay-tags-caption-label = ໃຊ້ແທັກເພື່ອຈັດລະບຽບ ແລະຄົ້ນຫາບຸກມາກຈາກແຖບທີ່ຢູ່
 bookmark-overlay-keyword-caption-label-2 = ໃຊ້ຄໍາສໍາຄັນດຽວເພື່ອເປີດ bookmarks ໂດຍກົງຈາກແຖບທີ່ຢູ່
