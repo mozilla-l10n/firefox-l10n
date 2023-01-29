@@ -62,8 +62,15 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Weg mit Cookie-Bannern!
+cfr-cookie-banner-handling-body = { -brand-short-name } erlauben, alle Cookie-Banner-Anfragen nach Möglichkeit automatisch abzulehnen. Andernfalls werden alle Cookies akzeptiert, um noch mehr Banner zu schließen.
+cfr-cookie-banner-accept-button = Anfragen schließen
+    .accesskey = s
 cfr-cookie-banner-reject-button = Nicht jetzt
     .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Weniger Cookie-Pop-ups sehen
+cfr-cookie-banner-handling-body-variant-1 = Lassen Sie { -brand-short-name } automatisch Cookie-Pop-ups für Sie beantworten, damit Sie wieder ablenkungsfrei surfen können. { -brand-short-name } lehnt nach Möglichkeit alle Anfragen ab, oder akzeptiert sie andernfalls alle.
+cfr-cookie-banner-accept-button-variant-1 = Pop-ups schließen
+    .accesskey = s
 cfr-cookie-banner-reject-button-variant-1 = Nein, danke
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Reduzierung von Cookie-Bannern
@@ -244,12 +251,19 @@ colorways-cfr-header-today = Farbwelten "Unabhängige Stimmen" laufen heute ab
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Weg mit Cookie-Bannern!
+cfr-cookiebanner-body = { -brand-short-name } erlauben, alle Cookie-Banner-Anfragen nach Möglichkeit automatisch abzulehnen.
+cfr-cookiebanner-accept-button = Banner schließen
+    .accesskey = s
 cfr-cookiebanner-reject-button = Nicht jetzt
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Weniger Cookie-Pop-ups sehen
+cfr-cookiebanner-body-variant-1 = Lassen Sie { -brand-short-name } automatisch Cookie-Pop-ups für Sie beantworten, damit Sie wieder ablenkungsfrei surfen können. { -brand-short-name } wird nach Möglichkeit alle Anfragen ablehnen.
+cfr-cookiebanner-accept-button-variant-1 = Pop-ups schließen
+    .accesskey = s
 cfr-cookiebanner-reject-button-variant-1 = Nein, danke
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Reduzierung von Cookie-Bannern
+cfr-cookiebanner-body-variant-2 = Reduzieren Sie die Anzahl der Cookie-Banner, die Sie sehen, indem Sie { -brand-short-name } erlauben, die Anfrage zur Cookie-Einwilligung einer Website nach Möglichkeit abzulehnen.
 cfr-cookiebanner-accept-button-variant-2 = Erlauben
     .accesskey = E
 cfr-cookiebanner-reject-button-variant-2 = Nicht jetzt
@@ -258,3 +272,5 @@ cfr-cookiebanner-reject-button-variant-2 = Nicht jetzt
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Wir haben für Sie vorgesorgt
+july-jam-body = Jeden Monat blockiert { -brand-short-name } durchschnittlich mehr als 3000 Tracker pro Nutzer und ermöglicht so einen sicheren, schnellen Zugriff auf das gute Internet.
+july-jam-set-default-primary = Meine Links mit { -brand-short-name } öffnen
