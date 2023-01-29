@@ -144,6 +144,12 @@ about-processes-cpu-user-and-kernel-not-ready = (daûr a misurâ)
 
 duration-unit-ns = ns
 duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
+duration-unit-h = h
+duration-unit-d = d
 
 ## Memory units
 
+memory-unit-B = B
