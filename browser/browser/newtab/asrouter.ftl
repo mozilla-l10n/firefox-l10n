@@ -57,6 +57,24 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuarios
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = ¡Se acabaron los avisos de cookies!
+cfr-cookie-banner-handling-body = Permitir que { -brand-short-name } rechace automáticamente todas las solicitudes de avisos de cookies, cuando sea posible. De lo contrario, se aceptarán todas las cookies para descartar aún más avisos.
+cfr-cookie-banner-accept-button = Descartar solicitudes
+    .accesskey = D
+cfr-cookie-banner-reject-button = Ahora no
+    .accesskey = n
+cfr-cookie-banner-handling-header-variant-1 = Ver menos avisos emergentes de cookies
+cfr-cookie-banner-handling-body-variant-1 = Dejar que { -brand-short-name } responda automáticamente las ventanas emergentes de cookies para que pueda volver a navegar sin distracciones. { -brand-short-name } rechazará todas las solicitudes si es posible, o si no las aceptará todas.
+cfr-cookie-banner-accept-button-variant-1 = Descartar ventanas emergentes
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = No, gracias
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Reducción de avisos de cookies
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronice sus marcadores esté donde esté.
@@ -155,10 +173,6 @@ spotlight-total-cookie-protection-body = La protección total contra las cookies
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construye una valla alrededor de las cookies y las limita al sitio en el que se encuentra para que los rastreadores no puedan usarlas para seguirle. Con el acceso anticipado, ayudará a optimizar esta función para que podamos seguir construyendo una web mejor para todos.
 spotlight-total-cookie-protection-primary-button = Activar la protección total contra las cookies
 spotlight-total-cookie-protection-secondary-button = Ahora no
-cfr-total-cookie-protection-header = Gracias a usted, { -brand-short-name } es más privado y seguro que nunca
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = La protección total contra cookies es nuestra protección de privacidad más robusta hasta la fecha y ahora es el ajuste predeterminado para los usuarios de { -brand-short-name }. No podríamos haberlo logrado sin participantes de acceso anticipado como usted. Por lo que le agradecemos su ayuda para crear un internet mejor y más privado.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +219,6 @@ firefoxview-cfr-primarybutton = Inténtelo
     .accesskey = t
 firefoxview-cfr-secondarybutton = Ahora no
     .accesskey = n
-firefoxview-cfr-header = Recupere las pestañas cerradas recientemente con { -firefoxview-brand-name }
-firefoxview-cfr-body = Además, pase sin problemas de un dispositivo a otro y agregue un toque de color a tu navegador.
 firefoxview-cfr-header-v2 = Continúe rápidamente desde donde lo dejó.
 firefoxview-cfr-body-v2 = Recupere las pestañas cerradas recientemente y pase rápidamente entre dispositivos con { -firefoxview-brand-name }.
 
@@ -228,3 +240,9 @@ colorways-cfr-header-28days = Las combinaciones de colores de Independent Voices
 colorways-cfr-header-14days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles en dos semanas
 colorways-cfr-header-7days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles esta semana
 colorways-cfr-header-today = Las combinaciones de colores de Independent Voices dejarán de estar disponibles hoy
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
