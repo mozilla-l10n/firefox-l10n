@@ -26,6 +26,10 @@ script-spec = <strong>Spec. script:</strong> <a data-l10n-name="link">{ $url }</
 current-worker-url = <strong>URL Worker atuâl:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Non cache ative:</strong> { $name }
 waiting-cache-name = <strong>Non cache in spiete:</strong> { $name }
+push-end-point-waiting = <strong>Bande che e mande:</strong> { waiting }
+push-end-point-result = <strong>Bande che e mande:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Inzornament
+unregister-button = Deregjistre
+unregister-error = Impussibil deregjistrâ chest Service Worker.
 waiting = Daûr a spietâ…

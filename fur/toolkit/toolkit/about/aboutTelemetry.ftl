@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Sorzint dai dâts ping:
+about-telemetry-show-current-data = Dâts corints
 about-telemetry-show-archived-ping-data = Dâts ping archiviats
 about-telemetry-show-subsession-data = Mostre dâts de session inferiôr
 about-telemetry-choose-ping = Sielç ping:
@@ -14,10 +15,12 @@ about-telemetry-option-group-older = Plui vecjo
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dâts Telemetry
+about-telemetry-current-store = Archiviazion corinte:
 about-telemetry-more-information = Âstu bisugne di plui informazions?
 about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">documentazion dai dâts di Firefox</a> e inclût vuidis su cemût lavorâ cui nestris imprescj pe gjestion dai dâts.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentazion dal client di Firefox Telemetry</a> a inclût definizions di concets, documentazion API e referencis di dâts.
 about-telemetry-telemetry-dashboard = Cui <a data-l10n-name="dashboard-link">panei di Telemetry</a> al e pussibil visualizâ i dâts di Mozilla ricevûts cun Telemetry.
+about-telemetry-telemetry-probe-dictionary = Il <a data-l10n-name="probe-dictionary-link">dizionari des sondis</a> al conten detais e descrizions des sondis (“probe”) tiradis dongje di Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Vierç in tal visôr JSON
 about-telemetry-home-section = Home
 about-telemetry-general-data-section = Dâts gjenerai
@@ -37,6 +40,35 @@ about-telemetry-raw = JSON no elaborât
 about-telemetry-full-sql-warning = NOTE: Al e abilitât il debug lenti di SQL. Dutis lis stringhis SQL a podin jessi visualizadis chi sot ma no a saran mandadis a Telemetry.
 about-telemetry-fetch-stack-symbols = Recupere la funzion nons in tassis
 about-telemetry-hide-stack-symbols = Mostre dâts in tassis no elaborâts
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] dâts de publicazion
+       *[other] dâts de pre-publicazion
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] ativât
+       *[other] disativât
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } campion, medie = { $prettyAverage }, totâl = { $sum }
+       *[other] { $sampleCount } campions, medie = { $prettyAverage }, totâl = { $sum }
+    }
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Cheste pagjine e mostre informazions su prestazions, hardware, utilizazion e personalizazions tirâts dongje di Telemetry. Chestis informazions a vegnin mandadis a { $telemetryServerOwner } par judâ a miorâ { -brand-full-name }.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Copie
 about-telemetry-addon-table-details = Detais
