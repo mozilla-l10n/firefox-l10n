@@ -259,6 +259,17 @@ cfr-cookiebanner-header-variant-1 = Ver menos avisos emergentes de cookies
 cfr-cookiebanner-body-variant-1 = Dejar que { -brand-short-name } responda automáticamente las ventanas emergentes de cookies para que pueda volver a navegar sin distracciones. { -brand-short-name } rechazará todas las solicitudes si es posible.
 cfr-cookiebanner-accept-button-variant-1 = Descartar emergentes
     .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = No, gracias
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reducción de avisos de cookies
+cfr-cookiebanner-body-variant-2 = Reducir la cantidad de anuncios de cookies que ve al permitir que { -brand-short-name } rechace la solicitud de consentimiento de cookies de un sitio web, si es posible.
+cfr-cookiebanner-accept-button-variant-2 = Permitir
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Ahora no
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Siempre de tu parte
+july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3.000 rastreadores por usuario, lo que le brinda un acceso rápido y seguro a Internet.
+july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
