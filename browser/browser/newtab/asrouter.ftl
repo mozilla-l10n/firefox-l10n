@@ -74,6 +74,11 @@ cfr-cookie-banner-accept-button-variant-1 = Descartar ventanas emergentes
 cfr-cookie-banner-reject-button-variant-1 = No, gracias
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Reducción de avisos de cookies
+cfr-cookie-banner-handling-body-variant-2 = ¿Permitir que { -brand-short-name } rechace la solicitud de consentimiento de cookies de un sitio si es posible o acepte el acceso de cookies cuando no sea posible?
+cfr-cookie-banner-accept-button-variant-2 = Permitir
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Ahora no
+    .accesskey = n
 
 ## Firefox Accounts Message
 
@@ -243,6 +248,17 @@ colorways-cfr-header-today = Las combinaciones de colores de Independent Voices 
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = ¡Se acabaron los avisos de cookies!
+cfr-cookiebanner-body = Permitir que { -brand-short-name } rechace automáticamente todas las solicitudes de avisos de cookies cuando sea posible.
+cfr-cookiebanner-accept-button = Descartar avisos
+    .accesskey = D
+cfr-cookiebanner-reject-button = Ahora no
+    .accesskey = n
+cfr-cookiebanner-header-variant-1 = Ver menos avisos emergentes de cookies
+cfr-cookiebanner-body-variant-1 = Dejar que { -brand-short-name } responda automáticamente las ventanas emergentes de cookies para que pueda volver a navegar sin distracciones. { -brand-short-name } rechazará todas las solicitudes si es posible.
+cfr-cookiebanner-accept-button-variant-1 = Descartar emergentes
+    .accesskey = D
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
