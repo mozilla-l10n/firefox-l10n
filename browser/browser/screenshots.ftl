@@ -45,3 +45,4 @@ screenshots-private-window-error-details = 很抱歉因此带来的不便。我�
 screenshots-generic-error-title = 哎呀，{ -screenshots-brand-name } 遇到问题。
 screenshots-generic-error-details = 我们不确定发生了什么。您可以再试一次或者试试另一个页面。
 screenshots-too-large-error-title = 您的屏幕截图因太大而被裁剪
+screenshots-too-large-error-details = 请选择长边小于 32,700 像素或总面积小于 124,900,000 像素的区域。

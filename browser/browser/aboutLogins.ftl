@@ -7,6 +7,8 @@ about-logins-page-title = 我的密码
 login-filter =
     .placeholder = 搜索登录信息
 create-login-button = 新建登录信息
+create-new-login-button =
+    .title = 新建登录信息
 fxaccounts-sign-in-text = 取得您其他设备上的密码
 fxaccounts-sign-in-sync-button = 登录同步服务
 fxaccounts-avatar-button =
@@ -103,6 +105,7 @@ login-item-time-used = 上次使用：{ DATETIME($timeUsed, day: "numeric", mont
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = 已创建
 login-item-timeline-action-updated = 已更新
 login-item-timeline-action-used = 已使用
