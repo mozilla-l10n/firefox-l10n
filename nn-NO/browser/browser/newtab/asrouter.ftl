@@ -244,6 +244,11 @@ colorways-cfr-header-14days = Fargesamansetjinga «Uavhengige røyster» går ut
 colorways-cfr-header-7days = Fargesamansetjinga «Uavhengige røyster» går ut om to veker
 colorways-cfr-header-today = Fargesamansetjinga «Uavhengige røyster» går ut i dag
 
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-reject-button-variant-1 = Nei takk
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Vi beskyttar deg
