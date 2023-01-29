@@ -9,12 +9,22 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+
+## Permission Dialog
+## Variables:
+##  $host - the hostname that is initiating the request
+##  $scheme - the type of link that's being opened.
+##  $appName - Name of the application that will be opened.
+##  $extension - Name of extension that initiated the request
+
 permission-dialog-description = Dieser Website erlauben, den { $scheme }-Link zu öffnen?
 permission-dialog-description-file = Dieser Datei erlauben, den { $scheme }-Link zu öffnen?
 permission-dialog-description-host = { $host } erlauben, den { $scheme }-Link zu öffnen?
+permission-dialog-description-extension = Der Erweiterung { $extension } erlauben, den { $scheme }-Link zu öffnen?
 permission-dialog-description-app = Dieser Website erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
 permission-dialog-description-host-app = { $host } erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
 permission-dialog-description-file-app = Dieser Datei erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
+permission-dialog-description-extension-app = Der Erweiterung { $extension } erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -22,6 +32,7 @@ permission-dialog-description-file-app = Dieser Datei erlauben, den { $scheme }-
 
 permission-dialog-remember = <strong>{ $host }</strong> immer erlauben, <strong>{ $scheme }</strong>-Links zu öffnen
 permission-dialog-remember-file = Dieser Datei immer erlauben, <strong>{ $scheme }</strong>-Links zu öffnen
+permission-dialog-remember-extension = Dieser Erweiterung immer erlauben, <strong>{ $scheme }</strong>-Links zu öffnen
 
 ##
 
