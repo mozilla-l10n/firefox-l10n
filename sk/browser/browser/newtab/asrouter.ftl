@@ -250,6 +250,28 @@ colorways-cfr-header-14days = Farebná téma Nezávislé hlasy je dostupná už 
 colorways-cfr-header-7days = Farebná téma Nezávislé hlasy je dostupná už len týždeň
 colorways-cfr-header-today = Farebná téma Nezávislé hlasy je dostupná už len dnes
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Bannery k súborom cookie sú preč!
+cfr-cookiebanner-body = Povoliť { -brand-short-name(case: "dat") } automaticky odmietnuť všetky požiadavky na bannery cookie, keď je to možné.
+cfr-cookiebanner-accept-button = Zavrieť bannery
+    .accesskey = Z
+cfr-cookiebanner-reject-button = Teraz nie
+    .accesskey = T
+cfr-cookiebanner-header-variant-1 = Uvidíte menej vyskakovacích okien súborov cookie
+cfr-cookiebanner-body-variant-1 = Nechajte { -brand-short-name } automaticky odpovedať na žiadosti o súhlas s používaním súborov cookie za vás, aby ste sa mohli vrátiť k prehliadaniu bez rozptyľovania. { -brand-short-name } odmietne všetky požiadavky, kde je to možné.
+cfr-cookiebanner-accept-button-variant-1 = Zavrieť vyskakovacie okná
+    .accesskey = v
+cfr-cookiebanner-reject-button-variant-1 = Nie, ďakujem
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Zníženie počtu bannerov súborov cookie
+cfr-cookiebanner-body-variant-2 = Znížte počet zobrazených bannerov súborov cookie tak, že povolíte { -brand-short-name(case: "dat") } odmietnuť žiadosť webovej stránky o súhlas so súbormi cookie, ak je to možné.
+cfr-cookiebanner-accept-button-variant-2 = Povoliť
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Teraz nie
+    .accesskey = T
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Kryjeme vás
