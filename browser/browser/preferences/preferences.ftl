@@ -922,6 +922,8 @@ sitedata-option-block-unvisited =
     .label = Cookies z doposiaľ nenavštívených stránok
 sitedata-option-block-all-third-party =
     .label = Všetky cookies tretích strán (môže obmedziť fungovanie niektorých stránok)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Všetky súbory cookie tretích strán (môže spôsobiť nefunkčnosť niektorých stránok)
 sitedata-option-block-all =
     .label = Všetky cookies (obmedzí fungovanie niektorých stránok)
 sitedata-clear =
@@ -1001,6 +1003,7 @@ content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
 content-blocking-all-windows-tracking-content = Sledovací obsah je blokovaný vo všetkých oknách
 content-blocking-all-third-party-cookies = Blokované sú všetky cookies tretích strán
+content-blocking-all-cross-site-cookies = Všetky súbory cookie tretích strán
 content-blocking-cryptominers = Blokovaná je ťažba kryptomien
 content-blocking-fingerprinters = Blokovaná je tvorba odtlačku prehliadača
 # "Test pilot" is used as a verb. Possible alternatives:
