@@ -107,6 +107,15 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Schede: { $name }
 about-processes-preloaded-tab = Gnove schede pre-cjariade
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Sot-frame: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Sot-frames ({ $number }): { $shortUrl }
 
 ## Utility process actor names
 
@@ -115,6 +124,7 @@ about-processes-utility-actor-audio-decoder = Decodificadôr audio
 about-processes-utility-actor-audio-decoder-generic = Decodificadôr audio gjeneric
 about-processes-utility-actor-audio-decoder-applemedia = Decodificadôr audio Apple Media
 about-processes-utility-actor-audio-decoder-wmf = Decodificadôr audio Windows Media Framework
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -125,8 +135,18 @@ about-processes-utility-actor-audio-decoder-wmf = Decodificadôr audio Windows M
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Timp CPU totâl: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (daûr a misurâ)
+# Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
+# This case only occurs on Windows where the precision of the CPU times is low.
+about-processes-cpu-almost-idle = < 0.1%
+    .title = Timp CPU totâl: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: process or thread is currently idle.
+about-processes-cpu-fully-idle = inatîf
+    .title = Timp CPU totâl: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -139,6 +159,11 @@ about-processes-cpu-user-and-kernel-not-ready = (daûr a misurâ)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Evoluzion: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
@@ -153,3 +178,9 @@ duration-unit-d = d
 ## Memory units
 
 memory-unit-B = B
+memory-unit-KB = kB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
