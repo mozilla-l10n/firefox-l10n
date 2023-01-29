@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = Je dostupná aktualizácia
+    .label = K dispozícii je aktualizácia
     .buttonlabel = Stiahnuť
     .buttonaccesskey = S
     .secondarybuttonlabel = Zrušiť
     .secondarybuttonaccesskey = Z
 appmenu-update-available-message2 = Stiahnuť najnovšiu verziu aplikácie { -brand-shorter-name }.
 appmenu-update-manual2 =
-    .label = Je dostupná aktualizácia
+    .label = K dispozícii je aktualizácia
     .buttonlabel = Stiahnuť
     .buttonaccesskey = S
     .secondarybuttonlabel = Zrušiť
@@ -24,7 +24,7 @@ appmenu-update-unsupported2 =
     .secondarybuttonaccesskey = O
 appmenu-update-unsupported-message2 = Váš operačný systém nie je kompatibilný s najnovšou verziou prehliadača { -brand-shorter-name }.
 appmenu-update-restart2 =
-    .label = Dostupná aktualizácia
+    .label = K dispozícii je aktualizácia
     .buttonlabel = Aktualizovať a reštartovať
     .buttonaccesskey = A
     .secondarybuttonlabel = Odmietnuť
@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Teraz nie
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = K dispozícii je nová aktualizácia aplikácie { -brand-shorter-name }, ale nemôže byť nainštalovaná, pretože je spustená ďalšia kópia aplikácie { -brand-shorter-name }. Pre spustenie aktualizácie túto kópiu ukončite alebo spustenie aktualizácie vynúťte (spustená aplikácia môže prestať správne fungovať, dokým ju nereštartujete).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Spravujte svoje doplnky a témy prostredn�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povoliť toto rozšírenie v súkromných oknách
     .accesskey = P
-    
 appmenu-new-tab-controlled-changes =
     .label = Vaša stránka novej karty bola zmenená.
     .buttonlabel = Ponechať zmeny

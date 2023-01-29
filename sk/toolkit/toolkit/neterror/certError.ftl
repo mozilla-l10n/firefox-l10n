@@ -78,6 +78,9 @@ dnsNotFound-title = Hmm, túto stránku sa nám nepodarilo nájsť.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Možné bezpečnostné riziko pre { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = Možné bezpečnostné riziko pre { $hostname }.
 fileNotFound-title = Súbor sa nenašiel
 fileAccessDenied-title = Prístup k súboru bol zamietnutý
 generic-title = Problém.

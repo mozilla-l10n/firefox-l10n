@@ -27,6 +27,7 @@ neterror-try-again-button = Skúsiť znova
 neterror-add-exception-button = Vždy pokračovať pre túto stránku
 neterror-settings-button = Zmeniť nastavenia DNS
 neterror-view-certificate-link = Zobraziť certifikát
+neterror-disable-native-feedback-warning = Vždy pokračovať
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = Nie ste pripojení na internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } nenašla adresu tejto webovej stránky.
 neterror-dns-not-found-trr-server-problem = Vyskytol sa problém s { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Neočakávaný problém.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nedokáže ochrániť vašu žiadosť o adresu tohto webu prostredníctvom nášho dôveryhodného nástroja DNS resolver. Tu je dôvod:
+neterror-dns-not-found-native-fallback-attackers = Môžete pokračovať s DNS resolverom, ktorý nie je bezpečný. Tretia strana však môže vidieť, aké webové stránky navštevujete, alebo vás môže poslať na nedôveryhodnú stránku.
+neterror-dns-not-found-native-fallback-heuristic = DNS cez HTTPs bol vo vašej sieti zakázaný.
+neterror-dns-not-found-native-fallback-not-confirmed = Pripojenie k { $trrDomain } ešte nie je pripravené.
 
 ##
 
