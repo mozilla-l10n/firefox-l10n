@@ -27,6 +27,7 @@ neterror-try-again-button = Torne prove
 neterror-add-exception-button = Continue simpri par chest sît
 neterror-settings-button = Modifiche impostazions DNS
 neterror-view-certificate-link = Visualize certificât
+neterror-disable-native-feedback-warning = Continue simpri
 
 ##
 
@@ -61,6 +62,13 @@ neterror-dns-not-found-trr-offline = Nissune conession a internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } nol à cjatât une direzion par chest sît web.
 neterror-dns-not-found-trr-server-problem = Al è vignût fûr un probleme cun { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Probleme inspietât.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nol rive a protezi la richieste relative ae direzion di chest sît doprant il nestri afidabil servizi di risoluzion dai nons (DNS). Chi al è il motîf:
+neterror-dns-not-found-native-fallback-not-confirmed = La conession a { $trrDomain } no je ancjemò pronte.
 
 ##
 
