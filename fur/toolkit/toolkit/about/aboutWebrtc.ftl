@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Internis WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = salve about:webrtc come
@@ -19,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Regjistrazion di AEC
 about-webrtc-aec-logging-off-state-label = Comence la regjistrazion di AEC
 about-webrtc-aec-logging-on-state-label = Ferme la regjistrazion di AEC
 about-webrtc-aec-logging-on-state-msg = Regjistrazion di AEC ative (cjacare par cualchi minût cun l'interlocutôr e dopo ferme la regjistrazion)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Inzorne in automatic
 
 ##
 
@@ -37,6 +38,8 @@ about-webrtc-local-sdp-heading-answer = SDP locâl (Rispueste)
 about-webrtc-remote-sdp-heading = SDP remot
 about-webrtc-remote-sdp-heading-offer = SDP remot (Ufierte)
 about-webrtc-remote-sdp-heading-answer = SDP remot (Rispueste)
+about-webrtc-sdp-history-heading = Cronologjie SDP
+about-webrtc-sdp-parsing-errors-heading = Erôrs di analisi SDP
 
 ##
 
@@ -57,9 +60,6 @@ about-webrtc-ice-pair-bytes-sent = Bytes mandâts:
 about-webrtc-ice-pair-bytes-received = Bytes ricevûts:
 about-webrtc-ice-component-id = Component ID
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -69,16 +69,13 @@ about-webrtc-type-remote = Remot
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nomenade
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selezionade
-
 about-webrtc-save-page-label = Salve la pagjne
 about-webrtc-debug-mode-msg-label = Modalitât debug
 about-webrtc-debug-mode-off-state-label = Comence modalitât debug
@@ -104,7 +101,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (sierât
 
 ##
 
-
 about-webrtc-local-candidate = Candidât locâl
 about-webrtc-remote-candidate = Candidât remot
 about-webrtc-raw-candidates-heading = Ducj i candidâts no elaborâts
@@ -119,13 +115,30 @@ about-webrtc-fold-show-msg = mostre detais
     .title = cliche par slargjâ la sezion
 about-webrtc-fold-hide-msg = plate detais
     .title = cliche par ridusi la sezion
+about-webrtc-dropped-frames-label = Fotograms pierdûts:
+about-webrtc-discarded-packets-label = Pachets scartâts:
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
+about-webrtc-show-tab-label = Mostre schede
+about-webrtc-current-framerate-label = Frecuence di fotograms
+about-webrtc-width-px = Largjece (px)
+about-webrtc-height-px = Altece (px)
+about-webrtc-consecutive-frames = Fotograms consecutîfs
+about-webrtc-time-elapsed = Timp passât (s)
+about-webrtc-estimated-framerate = Frecuence di fotograms stimade
+about-webrtc-rotation-degrees = Rotazion (grâts)
+about-webrtc-first-frame-timestamp = Marche temporâl ricezion prin fotogram
+about-webrtc-last-frame-timestamp = Marche temporâl ricezion ultin fotogram
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Ricezion SSRC locâl
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Ricezion SSRC lontane
 
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -144,7 +157,6 @@ about-webrtc-aec-logging-off-state-msg = i files regjistrâts a si cjatin in: { 
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -152,11 +164,6 @@ about-webrtc-trickle-caption-msg = I candidâts lents (chei rivâts dopo la risp
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-##
-
-##
 
 
 ##
