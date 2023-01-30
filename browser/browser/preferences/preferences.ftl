@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Vefkökur frá óheimsóttum vefsvæðum
 sitedata-option-block-all-third-party =
     .label = Allar vefkökur frá þriðja aðila (getur valdið því að vefsvæði hrynji)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Allar milli-vefja vefkökur (geta valdið því að vefsíður hrynji)
 sitedata-option-block-all =
     .label = Allar vefkökur (mun valda því að vefsvæði hrynji)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Allar vefkökur
 content-blocking-unvisited-cookies = Vefkökur frá óheimsóttum vefsíðum
 content-blocking-all-windows-tracking-content = Rakningu efnis í öllum gluggum
 content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
+content-blocking-all-cross-site-cookies = Allar milli-vefja vefkökur
 content-blocking-cryptominers = Rafmynt grafarar
 content-blocking-fingerprinters = Fingraför
 # "Test pilot" is used as a verb. Possible alternatives:
