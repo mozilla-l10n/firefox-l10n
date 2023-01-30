@@ -22,6 +22,12 @@ experimental-features-media-jxl-description = Cun cheste funzion ativade, { -bra
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = La zonte di un costrutôr ae interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, adun cun altris modifichis coreladis, e rint pussibile la creazion di gnûfs sfueis di stîl cence bisugne di zontâju al HTML. Chest al rint une vore plui facil creâ sfueis di stîl che si puedin tornâ a doprâ cun <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Viôt <a data-l10n-name="bugzilla">l'erôr 1520690</a> par vê plui detais.
+experimental-features-devtools-compatibility-panel =
+    .label = Struments di svilup: panel compatibilitât
+experimental-features-devtools-compatibility-panel-description = Un panel laterâl pal ispetôr de pagjine che ti mostre informazions detaiadis su la compatibilitât de proprie aplicazion su diviers navigadôrs. Viôt <a data-l10n-name="bugzilla">l'erôr 1584464</a> par vê plui detais.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax come predefinît
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Struments di disvilup: debug dal service worker
