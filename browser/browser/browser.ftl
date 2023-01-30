@@ -162,7 +162,7 @@ urlbar-search-tips-redirect-2 = Inicia tu búsqueda en la barra de direcciones p
 urlbar-search-tips-persist = La búsqueda ahora es más simple. Intenta hacer tu búsqueda más específica aquí en la barra de direcciones. Si prefieres mostrar la URL, visita Buscar, en los ajustes.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
-urlbar-tabtosearch-onboard = Seleccione este acceso directo para encontrar más rápidamente lo que necesite.
+urlbar-tabtosearch-onboard = Selecciona este acceso directo para encontrar más rápidamente lo que necesitas.
 
 ## Local search mode indicator labels in the urlbar
 

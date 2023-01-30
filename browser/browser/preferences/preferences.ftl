@@ -956,7 +956,7 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acciones rápidas
     .accesskey = Q
-addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias del motor de navegación
+addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias del motor de búsqueda
 addressbar-quickactions-learn-more = Saber más
 
 ## Privacy Section - Content Blocking
@@ -964,7 +964,7 @@ addressbar-quickactions-learn-more = Saber más
 content-blocking-enhanced-tracking-protection = Protección antirrastreo mejorada
 content-blocking-section-top-level-description = Los rastreadores te siguen en línea para recopilar información sobre tus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
 content-blocking-learn-more = Saber más
-content-blocking-fpi-incompatibility-warning = Está usando First Party Isolation (FPI), que anula algunas de las configuraciones de cookies de { -brand-short-name }.
+content-blocking-fpi-incompatibility-warning = Estás usando First Party Isolation (FPI), que reemplaza algunas de las configuraciones de cookies de { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
