@@ -27,6 +27,7 @@ neterror-try-again-button = Reyna aftur
 neterror-add-exception-button = Alltaf halda áfram fyrir þetta vefsvæði
 neterror-settings-button = Breyta DNS-stillingum
 neterror-view-certificate-link = Skoða skilríki
+neterror-disable-native-feedback-warning = Halda alltaf áfram
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = Þú ert ekki tengd/ur við internetið.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } fann ekki vistfang fyrir þetta vefsvæði.
 neterror-dns-not-found-trr-server-problem = Það kom upp vandamál með { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Óvænt vandamál.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } getur ekki verndað beiðni þína um vistfang þessarar síðu í gegnum treysta DNS-leysara okkar. Hér er ástæðan:
+neterror-dns-not-found-native-fallback-attackers = Þú getur haldið áfram með DNS-leysara sem er ekki öruggt. Hins vegar gæti utanaðkomandi aðili getað séð hvaða vefsvæði þú skoðar eða sent þig á ótreyst vefsvæði.
+neterror-dns-not-found-native-fallback-heuristic = DNS í gegnum HTTPs hefur verið gert óvirkt á netkerfinu þínu.
+neterror-dns-not-found-native-fallback-not-confirmed = Tengingin við { $trrDomain } er ekki tilbúin ennþá.
 
 ##
 

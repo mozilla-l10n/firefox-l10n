@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Vökuborðar fyrir bí!
+cfr-cookie-banner-handling-header = Vefkökuborðar fyrir bí!
 cfr-cookie-banner-handling-body = Leyfa { -brand-short-name } að hafna sjálfkrafa öllum beiðnum um vefkökuborða, þegar mögulegt er. Annars verða allar vefkökur samþykktar til að hafna enn fleiri borðum.
 cfr-cookie-banner-accept-button = Hafna beiðnum
     .accesskey = H
@@ -246,6 +246,28 @@ colorways-cfr-header-28days = Litasett Independent Voices rennur út 16. janúar
 colorways-cfr-header-14days = Litasett Independent Voices rennur út eftir tvær vikur
 colorways-cfr-header-7days = Litasett Independent Voices rennur út í þessari viku
 colorways-cfr-header-today = Litasett Independent Voices rennur út í dag
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Vefkökuborðar fyrir bí!
+cfr-cookiebanner-body = Leyfa { -brand-short-name } að hafna sjálfkrafa öllum beiðnum um vefkökuborða þegar mögulegt er.
+cfr-cookiebanner-accept-button = Sleppa vefkökuborðum
+    .accesskey = p
+cfr-cookiebanner-reject-button = Ekki núna
+    .accesskey = n
+cfr-cookiebanner-header-variant-1 = Sjá færri sprettglugga fyrir vefkökur
+cfr-cookiebanner-body-variant-1 = Leyfa { -brand-short-name } að svara sjálfkrafa vefkökugluggum fyrir þig svo þú getir vafrað áfram án truflunar. { -brand-short-name } mun hafna öllum beiðnum ef mögulegt er.
+cfr-cookiebanner-accept-button-variant-1 = Afgreiða sprettglugga
+    .accesskey = p
+cfr-cookiebanner-reject-button-variant-1 = Nei, takk
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Fækkun vefkökuborða
+cfr-cookiebanner-body-variant-2 = Fækkaðu þeim vefkökuborðum sem þú sérð með því að leyfa { -brand-short-name } að hafna beiðnum vefsvæða um samþykki á vefkökum, ef mögulegt er.
+cfr-cookiebanner-accept-button-variant-2 = Leyfa
+    .accesskey = a
+cfr-cookiebanner-reject-button-variant-2 = Ekki núna
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
