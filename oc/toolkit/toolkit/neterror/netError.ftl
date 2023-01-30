@@ -27,6 +27,7 @@ neterror-try-again-button = Tornar ensajar
 neterror-add-exception-button = Totjorn contunhar per aqueste site
 neterror-settings-button = Modificar los paramètres DNS
 neterror-view-certificate-link = Mostrar lo certificat
+neterror-disable-native-feedback-warning = Totjorn contunhar
 
 ##
 
@@ -61,6 +62,14 @@ neterror-dns-not-found-trr-offline = Cap de connexion Internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } a pas trobat cap d’adreça per aqueste site web.
 neterror-dns-not-found-trr-server-problem = I a agut un problèma amb { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problèma inesperat.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } pòt pas protegir vòstra requèsta per aquesta adreça de site amb nòstre resolvador DNS de fisança. Vaquí perque :
+neterror-dns-not-found-native-fallback-heuristic = Lo DNS via HTTPS foguèt desactivar sus vòstre ret.
+neterror-dns-not-found-native-fallback-not-confirmed = La connexion a { $trrDomain } es pas encara prèsta.
 
 ##
 
