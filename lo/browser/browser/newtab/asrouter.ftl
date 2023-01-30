@@ -201,6 +201,9 @@ colorways-cfr-body = ທາສີບຼາວເຊີຂອງທ່ານດ�
 
 ## Cookie Banner Handling CFR
 
+cfr-cookiebanner-reject-button-variant-1 = ບໍ່, ຂອບໃຈ
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
