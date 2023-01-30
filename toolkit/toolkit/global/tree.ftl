@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tree-columnpicker-restore-order =
-    .label = Endurheimta röðun dálks
+    .label = Endurheimta röðun dálka
