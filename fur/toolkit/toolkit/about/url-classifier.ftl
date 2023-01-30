@@ -48,3 +48,5 @@ url-classifier-disabled = Disativât
 url-classifier-updating = daûr a inzornâ
 url-classifier-cannot-update = impussibil inzornâ
 url-classifier-success = sucès
+url-classifier-update-error = erôr dal inzornament ({ $error })
+url-classifier-download-error = erôr tal discjamâ ({ $error })
