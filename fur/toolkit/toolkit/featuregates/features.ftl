@@ -16,6 +16,12 @@ experimental-features-web-gpu-description2 = Cheste gnove API e furnìs supuart 
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Multimedia: JPEG XL
+experimental-features-media-jxl-description = Cun cheste funzion ativade, { -brand-short-name } al supuarte il formât JPEG XL (JXL). Chest al è un formât avanzât pai file des imagjins che al supuarte la transizion cence pierditis di informazions dai files JPEG tradizionâi. Viôt <a data-l10n-name="bugzilla">l'erôr 1539075</a> par vê plui detais.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = La zonte di un costrutôr ae interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, adun cun altris modifichis coreladis, e rint pussibile la creazion di gnûfs sfueis di stîl cence bisugne di zontâju al HTML. Chest al rint une vore plui facil creâ sfueis di stîl che si puedin tornâ a doprâ cun <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Viôt <a data-l10n-name="bugzilla">l'erôr 1520690</a> par vê plui detais.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Struments di disvilup: debug dal service worker
