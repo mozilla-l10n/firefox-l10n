@@ -27,6 +27,7 @@ neterror-try-again-button = Prøv igen
 neterror-add-exception-button = Fortsæt altid for dette websted
 neterror-settings-button = Skift DNS-indstillinger
 neterror-view-certificate-link = Vis certifikat
+neterror-disable-native-feedback-warning = Fortsæt altid
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = Du er ikke forbundet til internettet.
 neterror-dns-not-found-trr-unknown-host = En adresse til dette websted blev ikke fundet af { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Der opstod et problem med { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Uventet problem.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan ikke beskytte din anmodning om dette websteds adresse gennem vores betroede DNS-resolver. Her er forklaringen:
+neterror-dns-not-found-native-fallback-attackers = Du kan forsætte med en DNS-resolver, der ikke er sikker. Men ved at gøre det kan tredjeparter måske se, hvilke websteder du besøger - eller sende dig til et ikke betroet websted.
+neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS er blevet deaktiveret på dit netværk.
+neterror-dns-not-found-native-fallback-not-confirmed = Forbindelsen til { $trrDomain } er ikke klar endnu.
 
 ##
 
