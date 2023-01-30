@@ -13,8 +13,8 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = ਅੱਪਡੇਟ ਲਈ ਜਾਂਚਿਆ ਜਾ ਰਿਹਾ ਹੈ…
 update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ — <label data-l10n-name="download-status"/>
-update-downloading-message = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ — <label data-l10n-name="download-status"/>
-update-applying = …ਅੱਪਡੇਟ ਲਾਗੂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+update-downloading-message = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
+update-applying = ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...
 update-failed = ਅੱਪਡੇਟ ਅਸਫਲ ਹੋਈ। <label data-l10n-name="failed-link">ਨਵੀਂ ਵੰਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</label>
 update-failed-main = ਅੱਪਡੇਟ ਨਾਕਾਮਯਾਬ ਹੋਈ। <a data-l10n-name="failed-link-main">ਸੱਜਰੀ ਵੰਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</a>
 update-adminDisabled = ਤੁਹਾਡੇ ਢਾਂਚਾ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਅੱਪਡੇਟਾਂ ਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੋਈ ਹੈ।
