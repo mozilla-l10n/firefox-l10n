@@ -11,3 +11,10 @@
 
 # Windows refers to the operating system
 windows-messages-page-title = Informazions sui messaçs di Windows
+windows-messages-intro =
+    Cheste pagjine e mostre i messaçs plui resints inviâts di Windwos
+    ai barcons dal navigadôr { -brand-short-name }. La
+    vôs in neret e rapresente chest barcon. Note che cheste pagjine e
+    mostre i messaçs plui resints tal moment che la pagjine e je stade
+    cjariade; par viodi chei corints tu scugnis inzornâ la pagjine.
+windows-messages-copy-to-clipboard = Copie intes notis
