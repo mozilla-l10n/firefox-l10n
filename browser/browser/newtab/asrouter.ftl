@@ -245,6 +245,25 @@ colorways-cfr-header-14days = Los colorits « Voses independentas » expiran d
 colorways-cfr-header-7days = Los colorits « Voses independentas » expiran aquesta setmana
 colorways-cfr-header-today = Los colorits « Voses independentas » expiran uèi
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Fòra las bandièras de cookies !
+cfr-cookiebanner-accept-button = Tampar las bandièras
+    .accesskey = T
+cfr-cookiebanner-reject-button = Pas ara
+    .accesskey = P
+cfr-cookiebanner-header-variant-1 = Veire mens de fenèstras sorgissentas de cookies
+cfr-cookiebanner-accept-button-variant-1 = Regetar las fenèstras sorgissentas
+    .accesskey = R
+cfr-cookiebanner-reject-button-variant-1 = Non, mercé
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reduccion de las bandièras de cookies
+cfr-cookiebanner-accept-button-variant-2 = Autorizar
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = Pas ara
+    .accesskey = P
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Asseguram vòstra proteccion
