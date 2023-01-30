@@ -28,6 +28,11 @@ experimental-features-devtools-compatibility-panel-description = Un panel later�
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax come predefinît
+experimental-features-cookie-samesite-lax-by-default2-description = Gjestìs i cookies come “SameSite=Lax” par impostazion predefinide se nol ven specificât nissun atribût “SameSite”. I svilupadôrs a scugnin acetâ il stât atuâl des condizions di utilizazion cence restrizions doprant in maniere esplicite “SameSite=None”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=None al à bisugne dal atribût secure
+experimental-features-cookie-samesite-none-requires-secure2-description = I cookies cul atribût “SameSite=None” a necessitin dal atribût secure. Cheste funzion e à bisugne di “Cookies: SameSite=Lax come predefinît”.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Struments di disvilup: debug dal service worker
