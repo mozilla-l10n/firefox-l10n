@@ -33,6 +33,15 @@ experimental-features-cookie-samesite-lax-by-default2-description = Gjestìs i c
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None al à bisugne dal atribût secure
 experimental-features-cookie-samesite-none-requires-secure2-description = I cookies cul atribût “SameSite=None” a necessitin dal atribût secure. Cheste funzion e à bisugne di “Cookies: SameSite=Lax come predefinît”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = Cache di inviament di about:home
+experimental-features-abouthome-startup-cache-description = Une cache pal document iniziâl di about:home che e ven cjariade in maniere predefinide al inviament. La finalitât de cache e je chê di miorâ lis prestazions di inviament.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookies: Schemeful SameSite
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Struments di disvilup: debug dal service worker
