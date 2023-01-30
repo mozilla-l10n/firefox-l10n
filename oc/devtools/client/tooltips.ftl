@@ -30,7 +30,7 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> a pas c
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> a cap d’efècte suls elements de tablèu intèrns.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> a cap d’efècte suls elements de tablèu intèrns levat per las cellulas de tablèu.
 inactive-css-not-table = <strong>{ $property }</strong>a pas cap d’efèit sus aqueste element per çò qu’es pas un tablèu.
-inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong>a pas cap d’efèit sus aqueste element per çò que desfila pas.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong>a pas cap d’efèit sus aqueste element per çò que defila pas.
 inactive-css-border-image = </strong>{ $property }<strong> a pas cap d’efièch sus aqueste element coma aquesta proprietat se pòt pas aplicar a d ’elements intèrns d’un tablèu quand <strong>border-collapse</strong> es definit a <strong>collapse</strong> sus l’element parent dins lo tablèu.
 inactive-css-ruby-element = <strong>{ $property }</strong> a pas cap efièch sus aqueste element pr’amor que s’agís d’un element ruby. Sa talha es determinada per aquela de la polissa utilizada pel tèxte ruby.
 

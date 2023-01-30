@@ -437,13 +437,13 @@ performance-default-content-process-count =
 
 browsing-title = Navegacion
 browsing-use-autoscroll =
-    .label = Utilizar lo desfilament automatic
+    .label = Utilizar lo defilament automatic
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = Utilizar lo desfilament doç
+    .label = Utilizar lo defilament doç
     .accesskey = d
 browsing-gtk-use-non-overlay-scrollbars =
-    .label = Totjorn afichar las barras de desfilaments
+    .label = Totjorn afichar las barras de defilaments
     .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = Mostrar un clavièr tactil quand es necessari
@@ -997,6 +997,7 @@ content-blocking-all-cookies = Totes los cookies
 content-blocking-unvisited-cookies = Cookies dels sites pas visitats
 content-blocking-all-windows-tracking-content = Contengut utilizat per pistar totas las fenèstras
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
+content-blocking-all-cross-site-cookies = Totes los cookies intersites
 content-blocking-cryptominers = Minaires de criptomonedas
 content-blocking-fingerprinters = Generadors d’emprentas numericas
 # "Test pilot" is used as a verb. Possible alternatives:
