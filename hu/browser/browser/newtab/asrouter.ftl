@@ -251,6 +251,7 @@ colorways-cfr-header-today = A „Független hangok” színvilágok ma járnak 
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Elég a sütibannerekből!
+cfr-cookiebanner-body = Engedélyezés a { -brand-short-name } számára, hogy automatikusan utasítsa el az összes sütibannerkérést, ha lehetséges.
 cfr-cookiebanner-accept-button = Bannerek eltüntetése
     .accesskey = t
 cfr-cookiebanner-reject-button = Most nem
@@ -262,6 +263,7 @@ cfr-cookiebanner-accept-button-variant-1 = Felugró ablakok eltüntetése
 cfr-cookiebanner-reject-button-variant-1 = Köszönöm, nem
     .accesskey = n
 cfr-cookiebanner-header-variant-2 = Sütibannerek számának csökkentése
+cfr-cookiebanner-body-variant-2 = Csökkentse a sütibannerek számát azáltal, hogy lehetővé teszi a { -brand-short-name } számára, hogy elutasítsa a webhelyek sütíkhez való hozzájárulását, ha lehetséges.
 cfr-cookiebanner-accept-button-variant-2 = Engedélyezés
     .accesskey = E
 cfr-cookiebanner-reject-button-variant-2 = Most nem
