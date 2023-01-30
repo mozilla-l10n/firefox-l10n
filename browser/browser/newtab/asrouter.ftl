@@ -240,6 +240,18 @@ colorways-cfr-header-14days = Farvekombinationerne "Uafhængige stemmer" udløbe
 colorways-cfr-header-7days = Farvekombinationerne "Uafhængige stemmer" udløber i denne uge
 colorways-cfr-header-today = Farvekombinationerne "Uafhængige stemmer" udløber i dag
 
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-accept-button-variant-1 = Afvis pop op-beskeder
+    .accesskey = p
+cfr-cookiebanner-reject-button-variant-1 = Nej tak
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reduktion af cookie-bannere
+cfr-cookiebanner-accept-button-variant-2 = Tillad
+    .accesskey = T
+cfr-cookiebanner-reject-button-variant-2 = Ikke nu
+    .accesskey = n
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Vi beskytter dig
