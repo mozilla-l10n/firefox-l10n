@@ -78,6 +78,9 @@ dnsNotFound-title = Hmm. Den side kan vi ikke finde…
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Mulig sikkerhedsrisiko for { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = Mulig sikkerhedsrisiko for { $hostname }.
 fileNotFound-title = Fil ikke fundet
 fileAccessDenied-title = Filen kunne ikke tilgås
 generic-title = Hovsa.

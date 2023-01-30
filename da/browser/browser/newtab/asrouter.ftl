@@ -62,6 +62,7 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Slut med cookie-bannere!
+cfr-cookie-banner-handling-body = Giv { -brand-short-name } tilladelse til automatisk at afvise alle forespørgsler om cookie-bannere, når det er muligt. Ellers bliver alle cookies accepteret for at afvise endnu flere bannere.
 cfr-cookie-banner-accept-button = Afvis forespørgsler
     .accesskey = A
 cfr-cookie-banner-reject-button = Ikke nu
@@ -242,6 +243,13 @@ colorways-cfr-header-today = Farvekombinationerne "Uafhængige stemmer" udløber
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Slut med cookie-bannere!
+cfr-cookiebanner-body = Tillad { -brand-short-name } at afvise alle forespørgsler om cookie-bannere automatisk, når det er muligt.
+cfr-cookiebanner-accept-button = Afvis bannere
+    .accesskey = A
+cfr-cookiebanner-reject-button = Ikke nu
+    .accesskey = n
 cfr-cookiebanner-accept-button-variant-1 = Afvis pop op-beskeder
     .accesskey = p
 cfr-cookiebanner-reject-button-variant-1 = Nej tak
