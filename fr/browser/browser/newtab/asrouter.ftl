@@ -244,6 +244,28 @@ colorways-cfr-header-14days = Les coloris « Voix indépendantes » expirent d
 colorways-cfr-header-7days = Les coloris « Voix indépendantes » expirent cette semaine
 colorways-cfr-header-today = Les coloris « Voix indépendantes » expirent aujourd’hui
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Finies les bannières de cookies !
+cfr-cookiebanner-body = Autoriser { -brand-short-name } à rejeter automatiquement les demandes de cookies lorsque cela est possible.
+cfr-cookiebanner-accept-button = Fermer les bannières
+    .accesskey = F
+cfr-cookiebanner-reject-button = Plus tard
+    .accesskey = P
+cfr-cookiebanner-header-variant-1 = Voir moins de popups de cookies
+cfr-cookiebanner-body-variant-1 = Laisser { -brand-short-name } répondre automatiquement aux popups de cookies pour une navigation sans distraction. { -brand-short-name } rejettera toutes les demandes si possible.
+cfr-cookiebanner-accept-button-variant-1 = Rejeter les fenêtres popup
+    .accesskey = R
+cfr-cookiebanner-reject-button-variant-1 = Non merci
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Réduction des bannières de cookies
+cfr-cookiebanner-body-variant-2 = Réduisez le nombre de bannières de cookies que vous voyez en autorisant { -brand-short-name } à refuser la demande de consentement aux cookies d’un site web si possible.
+cfr-cookiebanner-accept-button-variant-2 = Autoriser
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = Plus tard
+    .accesskey = P
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Nous assurons votre protection
