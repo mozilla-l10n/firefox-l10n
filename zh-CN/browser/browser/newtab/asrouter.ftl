@@ -60,7 +60,7 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = 消失吧，Cookie 横幅！
-cfr-cookie-banner-handling-body = 允许{ -brand-short-name } 尽可能自动拒绝 Cookie 横幅的请求，如果无法拒绝则接受所有 Cookie 以关闭更多横幅。
+cfr-cookie-banner-handling-body = 允许 { -brand-short-name } 尽可能自动拒绝 Cookie 横幅的请求，如果无法拒绝则接受所有 Cookie 以关闭更多横幅。
 cfr-cookie-banner-accept-button = 关闭请求
     .accesskey = D
 cfr-cookie-banner-reject-button = 暂时不要
