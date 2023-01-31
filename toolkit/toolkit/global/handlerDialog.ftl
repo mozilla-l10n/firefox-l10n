@@ -23,6 +23,7 @@ permission-dialog-description-host = Autorizar { $host } a dobrir lo ligam { $sc
 permission-dialog-description-app = Autorizar aqueste site a dobrir lo ligam { $scheme } amb { $appName } ?
 permission-dialog-description-host-app = Autorizar { $host } a dobrir lo ligam { $scheme } amb { $appName } ?
 permission-dialog-description-file-app = Autorizar aqueste fichièr a dobrir lo ligam { $scheme } amb { $appName } ?
+permission-dialog-description-extension-app = Autorizar l’extension { $extension } a dobrir lo ligam { $scheme } amb { $appName } ?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

@@ -267,3 +267,4 @@ cfr-cookiebanner-reject-button-variant-2 = Pas ara
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Asseguram vòstra proteccion
+july-jam-set-default-primary = Dobrir mos ligams dins { -brand-short-name }
