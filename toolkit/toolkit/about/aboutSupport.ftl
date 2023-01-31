@@ -38,7 +38,7 @@ app-basics-update-channel = Канал обновления
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Каталог обновления
+        [linux] Папка обновления
        *[other] Папка обновления
     }
 app-basics-update-history = Журнал обновлений
@@ -47,7 +47,7 @@ app-basics-show-update-history = Показать журнал обновлен�
 app-basics-binary = Бинарный файл приложения
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] Каталог профиля
+        [linux] Папка профиля
        *[other] Папка профиля
     }
 app-basics-enabled-plugins = Включённые плагины
@@ -73,7 +73,7 @@ app-basics-safebrowsing-key-google = Ключ Google Safebrowsing
 app-basics-key-mozilla = Ключ Службы определения местоположения от Mozilla
 app-basics-safe-mode = Безопасный Режим
 app-basics-memory-size = Объём памяти (ОЗУ)
-app-basics-disk-available = Доступное место на диске
+app-basics-disk-available = Доступное место на накопителе
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -82,7 +82,7 @@ show-dir-label =
     { PLATFORM() ->
         [macos] Показать в Finder
         [windows] Открыть папку
-       *[other] Открыть каталог
+       *[other] Открыть папку
     }
 environment-variables-title = Переменные среды
 environment-variables-name = Имя

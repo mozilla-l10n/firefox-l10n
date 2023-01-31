@@ -250,6 +250,26 @@ colorways-cfr-header-14days = Срок действия расцветок не�
 colorways-cfr-header-7days = Срок действия расцветок независимых голосов истекает на этой неделе
 colorways-cfr-header-today = Сегодня истекает срок действия расцветок независимых голосов
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Уберите уведомления о куках!
+cfr-cookiebanner-accept-button = Скрыть уведомления
+    .accesskey = ы
+cfr-cookiebanner-reject-button = Не сейчас
+    .accesskey = е
+cfr-cookiebanner-header-variant-1 = Уменьшите число уведомлений о куках
+cfr-cookiebanner-body-variant-1 = Позволить { -brand-short-name } автоматически отвечать на уведомления о куках, чтобы вы не отвлекались на них при просмотре сети. { -brand-short-name } будет отклонять все запросы, если это возможно.
+cfr-cookiebanner-accept-button-variant-1 = Скрыть уведомления
+    .accesskey = ы
+cfr-cookiebanner-reject-button-variant-1 = Нет, спасибо
+    .accesskey = е
+cfr-cookiebanner-header-variant-2 = Уменьшите число уведомлений о куках
+cfr-cookiebanner-accept-button-variant-2 = Разрешить
+    .accesskey = а
+cfr-cookiebanner-reject-button-variant-2 = Не сейчас
+    .accesskey = е
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Мы заботимся о вас
