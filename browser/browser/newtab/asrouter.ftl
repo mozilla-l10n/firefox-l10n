@@ -57,6 +57,24 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } erabiltzaile
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Cookie iragarki-bandak kanpora!
+cfr-cookie-banner-reject-button = Une honetan ez
+    .accesskey = z
+cfr-cookie-banner-handling-header-variant-1 = Ikusi cookie laster-leiho gutxiago
+cfr-cookie-banner-accept-button-variant-1 = Baztertu laster-leihoak
+    .accesskey = B
+cfr-cookie-banner-reject-button-variant-1 = Ez, eskerrik asko
+    .accesskey = z
+cfr-cookie-banner-handling-header-variant-2 = Cookie iragarki-banden murrizpena
+cfr-cookie-banner-accept-button-variant-2 = Baimendu
+    .accesskey = B
+cfr-cookie-banner-reject-button-variant-2 = Une honetan ez
+    .accesskey = n
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronizatu laster-markak edonon.
@@ -155,10 +173,6 @@ spotlight-total-cookie-protection-body = Cookien erabateko babesarekin jarraipen
 spotlight-total-cookie-protection-expanded = { -brand-short-name }(e)k hesi bat sortzen du cookien inguruan eta zauden gunera mugatzen ditu, hauek zure jarraipena egiteko erabiltzea galarazteko. Sarbide esklusiboarekin, eginbide hau optimizatzen lagunduko duzu, guztiontzat hobea den weba eraikitzen jarraitzeko.
 spotlight-total-cookie-protection-primary-button = Gaitu cookien erabateko babesa
 spotlight-total-cookie-protection-secondary-button = Orain ez
-cfr-total-cookie-protection-header = Zuri eskerrak, { -brand-short-name } inoiz baino pribatu eta seguruagoa da
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Cookien erabateko babesa gure inoizko pribatutasun-babes sendoena da – hemendik aurrera lehenespenez dago ezarrita { -brand-short-name } erabiltzaile ororentzat. Ezin izango genuke burutu sarbide esklusiboko zu bezalako parte-hartzailerik gabe. Eskerrik asko beraz internet hobeago eta pribatuagoa sortzen laguntzeagatik.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +219,6 @@ firefoxview-cfr-primarybutton = Probatu
     .accesskey = t
 firefoxview-cfr-secondarybutton = Une honetan ez
     .accesskey = z
-firefoxview-cfr-header = Berreskuratu itxitako azken fitxak { -firefoxview-brand-name } erabiliz
-firefoxview-cfr-body = Gainera egin salto gailuen artean eta gehitu kolore ukitu bat zure nabigatzaileari.
 firefoxview-cfr-header-v2 = Jarraitu utzi zenuen tokitik
 firefoxview-cfr-body-v2 = Berreskuratu itxitako azken fitxak eta aldatu di-da batean gailuen artean { -firefoxview-brand-name } erabiliz.
 
@@ -228,3 +240,26 @@ colorways-cfr-header-28days = Ahots independenteen kolore-konbinazioak urtarrila
 colorways-cfr-header-14days = Ahots independenteen kolore-konbinazioak bi aste barru iraungiko dira
 colorways-cfr-header-7days = Ahots independenteen kolore-konbinazioak aste honetan iraungiko dira
 colorways-cfr-header-today = Ahots independenteen kolore-konbinazioak gaur iraungiko dira
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Cookie iragarki-bandak kanpora!
+cfr-cookiebanner-accept-button = Baztertu iragarki-bandak
+    .accesskey = B
+cfr-cookiebanner-reject-button = Une honetan ez
+    .accesskey = n
+cfr-cookiebanner-header-variant-1 = Ikusi cookie laster-leiho gutxiago
+cfr-cookiebanner-accept-button-variant-1 = Baztertu laster-leihoak
+    .accesskey = B
+cfr-cookiebanner-reject-button-variant-1 = Ez, eskerrik asko
+    .accesskey = z
+cfr-cookiebanner-header-variant-2 = Cookie iragarki-banden murrizpena
+cfr-cookiebanner-accept-button-variant-2 = Baimendu
+    .accesskey = B
+cfr-cookiebanner-reject-button-variant-2 = Une honetan ez
+    .accesskey = n
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Babesean zaitugu
