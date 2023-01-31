@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Emboguepa tembiasakuégui
     .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = Eipota pytyvõ
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Ehecha Moĩmbaha
 quickactions-cmd-addons2 = moĩmbaha
 # Opens the bookmarks library window
-quickactions-bookmarks = Ehecha Techaukaha
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Eñangareko techaukaháre
 quickactions-cmd-bookmarks = techaukaha
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Embogue Tembiasakue
 quickactions-cmd-clearhistory = embogue tembiasakue
-# Opens about:downloads page
-quickactions-downloads = Embojuruja ñemboguejy
 # Opens about:downloads page
 quickactions-downloads2 = Ehecha ñemboguejy
 quickactions-cmd-downloads = ñemboguejy
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = ñemboguejy
 quickactions-extensions = Eñangareko jepysokuére
 quickactions-cmd-extensions = jepysokue
 # Opens the devtools web inspector
-quickactions-inspector = Embojuruja Mbohekoha
-# Opens the devtools web inspector
 quickactions-inspector2 = Embojuruja tembipuru mboguatahárape g̃uarã
 quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembipuru
-# Opens about:logins
-quickactions-logins = Ehecha tembiapo ñepyrũ
 # Opens about:logins
 quickactions-logins2 = Eñangareko ñe’ẽñemíre
 quickactions-cmd-logins = tembiapo ñepyrũ, ñe’ẽñemi
@@ -313,12 +308,8 @@ quickactions-cmd-logins = tembiapo ñepyrũ, ñe’ẽñemi
 quickactions-plugins = Eñangareko mba’ejoajurãre
 quickactions-cmd-plugins = Mba’ejoajurã
 # Opens the print dialog
-quickactions-print = Mbokuatia
-# Opens the print dialog
 quickactions-print2 = Emonguatia kuatiarogue
 quickactions-cmd-print = Mbokuatia
-# Opens a new private browsing window
-quickactions-private = Embojuruja ovetã kundaha ñemíme
 # Opens a new private browsing window
 quickactions-private2 = Embojuruja ovetã ñemi
 quickactions-cmd-private = kundaha ñemigua
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = Mbopiro’y
 quickactions-restart = Emoñepyrũjey { -brand-short-name }
 quickactions-cmd-restart = Moñepyrũjey
 # Opens the screenshot tool
-quickactions-screenshot2 = Ejapo mba’erechaha japyhypy
-# Opens the screenshot tool
 quickactions-screenshot3 = Ejapyhy mba’erechaha
 quickactions-cmd-screenshot = Ta’ãnga japyhy
-# Opens about:preferences
-quickactions-settings = Embojuruja ñemboheko
 # Opens about:preferences
 quickactions-settings2 = Eñangareko ehayhuvévare
 quickactions-cmd-settings = moĩporã, guerohoryvéva, poravorã
@@ -344,8 +331,6 @@ quickactions-cmd-themes = Téma
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Embohekopyahu { -brand-short-name }
 quickactions-cmd-update = mbohekopyahu
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Ehecha ayvu reñoiha
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ehecha ayvu reñoiha
 quickactions-cmd-viewsource = ehecha teñoiha, teñoiha
