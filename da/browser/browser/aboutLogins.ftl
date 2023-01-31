@@ -46,7 +46,7 @@ login-list-username-option = Brugernavn (A-Å)
 login-list-username-reverse-option = Brugernavn (Å-A)
 about-logins-login-list-alerts-option = Advarsler
 login-list-last-changed-option = Senest ændret
-login-list-last-used-option = Senest brugt
+login-list-last-used-option = Senest anvendt
 login-list-intro-title = Ingen logins fundet
 login-list-intro-description = Når du gemmer et login i { -brand-product-name } vil det blive vist hér.
 about-logins-login-list-empty-search-title = Ingen logins fundet
@@ -109,6 +109,7 @@ login-item-time-used = Senest brugt: { DATETIME($timeUsed, day: "numeric", month
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Oprettet
 login-item-timeline-action-updated = Opdateret
+login-item-timeline-action-used = Anvendt
 
 ## OS Authentication dialog
 
