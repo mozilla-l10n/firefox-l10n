@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Kendu historiatik
     .accesskey = K
+urlbar-result-menu-tip-get-help =
+    .label = Lortu laguntza
+    .accesskey = L
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Ikusi gehigarriak
 quickactions-cmd-addons2 = gehigarriak
 # Opens the bookmarks library window
-quickactions-bookmarks = Ikusi laster-markak
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Kudeatu laster-markak
 quickactions-cmd-bookmarks = laster-markak
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Garbitu historia
 quickactions-cmd-clearhistory = garbitu historia
-# Opens about:downloads page
-quickactions-downloads = Ireki deskargak
 # Opens about:downloads page
 quickactions-downloads2 = Ikusi deskargak
 quickactions-cmd-downloads = deskargak
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = deskargak
 quickactions-extensions = Kudeatu hedapenak
 quickactions-cmd-extensions = hedapenak
 # Opens the devtools web inspector
-quickactions-inspector = Ireki ikustailea
-# Opens the devtools web inspector
 quickactions-inspector2 = Ireki garatzaile-tresnak
 quickactions-cmd-inspector = ikuskatzailea, garatzaile-tresnak
-# Opens about:logins
-quickactions-logins = Ikusi saio-hasierak
 # Opens about:logins
 quickactions-logins2 = Kudeatu pasahitzak
 quickactions-cmd-logins = saio-hasierak, pasahitzak
@@ -313,12 +308,8 @@ quickactions-cmd-logins = saio-hasierak, pasahitzak
 quickactions-plugins = Kudeatu pluginak
 quickactions-cmd-plugins = pluginak
 # Opens the print dialog
-quickactions-print = Inprimatu
-# Opens the print dialog
 quickactions-print2 = Inprimatu orria
 quickactions-cmd-print = inprimatu
-# Opens a new private browsing window
-quickactions-private = Ireki nabigatze pribatuko leihoa
 # Opens a new private browsing window
 quickactions-private2 = Ireki leiho pribatua
 quickactions-cmd-private = nabigatze pribatua
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = berritu
 quickactions-restart = Berrabiarazi { -brand-short-name }
 quickactions-cmd-restart = berrabiarazi
 # Opens the screenshot tool
-quickactions-screenshot2 = Hartu pantaila-argazkia
-# Opens the screenshot tool
 quickactions-screenshot3 = Hartu pantaila-argazkia
 quickactions-cmd-screenshot = pantaila-argazkia
-# Opens about:preferences
-quickactions-settings = Ireki ezarpenak
 # Opens about:preferences
 quickactions-settings2 = Kudeatu ezarpenak
 quickactions-cmd-settings = ezarpenak, hobespenak, aukerak
@@ -344,8 +331,6 @@ quickactions-cmd-themes = itxurak
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Eguneratu { -brand-short-name }
 quickactions-cmd-update = eguneratu
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Ikusi iturburua
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ikusi orriaren iturburua
 quickactions-cmd-viewsource = ikusi iturburua, iturburua

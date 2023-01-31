@@ -27,6 +27,7 @@ neterror-try-again-button = Saiatu berriro
 neterror-add-exception-button = Jarraitu beti gune honetarako
 neterror-settings-button = Aldatu DNS ezarpenak
 neterror-view-certificate-link = Ikusi ziurtagiria
+neterror-disable-native-feedback-warning = Jarraitu beti
 
 ##
 
@@ -61,6 +62,12 @@ neterror-dns-not-found-trr-offline = Ez zaude Internetera konektatuta.
 neterror-dns-not-found-trr-unknown-host = Ez da webgune honetarako helbiderik aurkitu { $trrDomain } ostalarian.
 neterror-dns-not-found-trr-server-problem = Arazo bat egon da { $trrDomain } ostalariarekin.
 neterror-dns-not-found-trr-unknown-problem = Ustekabeko arazoa.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure konfiantzazko DNS ebazlearen bidez. Hona hemen zergatik:
 
 ##
 
