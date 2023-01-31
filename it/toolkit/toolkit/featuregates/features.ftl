@@ -22,7 +22,7 @@ experimental-features-media-jxl-description = Attiva in { -brand-short-name } il
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
-experimental-features-css-constructable-stylesheets-description = L’aggiunta di un costruttore all’interfaccia <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, insieme ad altre modifiche correlate, rende possibile la creazione di nuovi fogli di stile senza bisogno di aggiungerli all’HTML. Questo rende molte più facile la creazione di fogli di stile riutilizzabili con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consultare <a data-l10n-name="bugzilla">bug 1520690</a> per ulteriori dettagli.
+experimental-features-css-constructable-stylesheets-description = L’aggiunta di un costruttore all’interfaccia <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, insieme ad altre modifiche correlate, rende possibile la creazione di nuovi fogli di stile senza bisogno di aggiungerli all’HTML. Questo rende molto più facile la creazione di fogli di stile riutilizzabili con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consultare <a data-l10n-name="bugzilla">bug 1520690</a> per ulteriori dettagli.
 
 experimental-features-devtools-compatibility-panel =
     .label = Strumenti di sviluppo: pannello compatibilità
