@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Ñanduto renda kookie ojeike’ỹha
 sitedata-option-block-all-third-party =
     .label = Opaite kookie mbohapyháva (ikatu ombojavy ñanduti renda)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Opaite kookie tenda pa’ũgua (ojavykakuaa ñanduti rendápe)
 sitedata-option-block-all =
     .label = Opaite umi kookie (ombojavýta ñanduti renda)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Opavavete kookie
 content-blocking-unvisited-cookies = Kookie eike’ỹ hague
 content-blocking-all-windows-tracking-content = Tetepy rapykuehoha opaite ovetãme
 content-blocking-all-third-party-cookies = Opaite kookie mbohapyguáva
+content-blocking-all-cross-site-cookies = Opaite kookie tenda pa’ũgua
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 # "Test pilot" is used as a verb. Possible alternatives:

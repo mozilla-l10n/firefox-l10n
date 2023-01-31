@@ -67,6 +67,7 @@ neterror-dns-not-found-trr-unknown-problem = Jejavy ñeha’arõ’ỹva.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nomo’ãkuaái ne mba’ejerure ko tenda kundaharape ore DNS jeroviaha apopyvusu. Ápe oĩ mba’érepa:
 
 ##
 
