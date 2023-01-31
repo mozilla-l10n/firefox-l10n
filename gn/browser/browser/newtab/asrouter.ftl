@@ -246,6 +246,25 @@ colorways-cfr-header-14days = Sa’y ojuehegua Independent Voices ndojepurukuaav
 colorways-cfr-header-7days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko arapokõindýpe
 colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko árape
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = ¡Opáma kookie marandu’i!
+cfr-cookiebanner-accept-button = Emboyke marandu’i
+    .accesskey = D
+cfr-cookiebanner-reject-button = Ani ko’ág̃a
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Ehecha’ive kookie ovetã iñapysẽva
+cfr-cookiebanner-accept-button-variant-1 = Emboyke iñapysẽva
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = Nahániri, aguyje
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Kookie Marandu’i Ñemomichĩ
+cfr-cookiebanner-accept-button-variant-2 = Moneĩ
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = Ani ko’ág̃a
+    .accesskey = N
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Roguereko ñemo’ãpe

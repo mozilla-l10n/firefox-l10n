@@ -27,6 +27,7 @@ neterror-try-again-button = Eha’ãjey
 neterror-add-exception-button = Emba’apo opa ára ko tendápe
 neterror-settings-button = Emoambue DNS ñemboheko
 neterror-view-certificate-link = Mboajapyre jehecha
+neterror-disable-native-feedback-warning = Eku’éke tapiaite
 
 ##
 
@@ -61,6 +62,11 @@ neterror-dns-not-found-trr-offline = Ndereikekuaamo’ãi ñandutípe.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } ndojuhúi kundaharape ko ñanduti rendápe g̃uarã.
 neterror-dns-not-found-trr-server-problem = Oĩ peteĩ apañuãi { $trrDomain } ndive.
 neterror-dns-not-found-trr-unknown-problem = Jejavy ñeha’arõ’ỹva.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
 
 ##
 
