@@ -922,6 +922,8 @@ sitedata-option-block-unvisited =
     .label = Куки с непосещённых сайтов
 sitedata-option-block-all-third-party =
     .label = Все сторонние куки (может нарушить работу веб-сайтов)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Все межсайтовые куки (может нарушить работу сайтов)
 sitedata-option-block-all =
     .label = Все куки (нарушит работу веб-сайтов)
 sitedata-clear =
@@ -1001,6 +1003,7 @@ content-blocking-all-cookies = Все куки
 content-blocking-unvisited-cookies = Куки с непосещённых сайтов
 content-blocking-all-windows-tracking-content = Отслеживающее содержимое во всех окнах
 content-blocking-all-third-party-cookies = Все сторонние куки
+content-blocking-all-cross-site-cookies = Все межсайтовые куки
 content-blocking-cryptominers = Криптомайнеры
 content-blocking-fingerprinters = Сборщики цифровых отпечатков
 # "Test pilot" is used as a verb. Possible alternatives:
