@@ -42,7 +42,7 @@ app-basics-update-dir =
        *[other] Uppfæra möppu
     }
 app-basics-update-history = Uppfærslusaga
-app-basics-show-update-history = Sýna uppfærslusögu
+app-basics-show-update-history = Sýna uppfærsluferil
 # Represents the path to the binary used to start the application.
 app-basics-binary = Keyrsluskrá forrits
 app-basics-profile-dir =
