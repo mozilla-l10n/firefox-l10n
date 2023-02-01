@@ -53,14 +53,14 @@ toolbar-context-menu-always-open-downloads-panel =
     .label = Sýna spjaldið þegar niðurhal hefst
     .accesskey = S
 toolbar-context-menu-remove-from-toolbar =
-    .label = Fjarlægja af verkfæraslá
+    .label = Fjarlægja af verkfærastiku
     .accesskey = r
 toolbar-context-menu-view-customize-toolbar =
     .label = Sérsníða…
     .accesskey = S
 toolbar-context-menu-view-customize-toolbar-2 =
-    .label = Sérsníða verkfæraslá…
-    .accesskey = C
+    .label = Sérsníða verkfærastiku…
+    .accesskey = S
 # This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =
