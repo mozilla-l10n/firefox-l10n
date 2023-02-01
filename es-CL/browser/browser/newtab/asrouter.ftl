@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = ¡Se acabaron los banners de cookies!
+cfr-cookie-banner-handling-header = ¡Se acabaron los anuncios de cookies!
 cfr-cookie-banner-handling-body = Permite que { -brand-short-name } rechace automáticamente todas las solicitudes de los anuncios de cookies, cuando sea posible. De lo contrario, se aceptarán todas las cookies para ocultar aún más anuncios.
 cfr-cookie-banner-accept-button = Descartar solicitudes
     .accesskey = D
@@ -246,6 +246,28 @@ colorways-cfr-header-28days = Las combinaciones de colores de Independent Voices
 colorways-cfr-header-14days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles en dos semanas
 colorways-cfr-header-7days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles esta semana
 colorways-cfr-header-today = Las combinaciones de colores de Independent Voices dejarán de estar disponibles hoy
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = ¡Se acabaron los anuncios de cookies!
+cfr-cookiebanner-body = Permite que { -brand-short-name } rechace automáticamente todas las solicitudes de anuncios de cookies cuando sea posible.
+cfr-cookiebanner-accept-button = Ocultar anuncios
+    .accesskey = D
+cfr-cookiebanner-reject-button = Ahora no
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Ver menos ventanas emergentes de cookies
+cfr-cookiebanner-body-variant-1 = Deja que { -brand-short-name } responda automáticamente las ventanas emergentes de cookies para que puedas volver a navegar sin distracciones. { -brand-short-name } rechazará todas las solicitudes si es posible.
+cfr-cookiebanner-accept-button-variant-1 = Descartar ventanas emergentes
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = No, gracias
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reducción de anuncios de cookies
+cfr-cookiebanner-body-variant-2 = Reduce la cantidad de anuncios de cookies que ves al permitir que { -brand-short-name } rechace la solicitud de consentimiento de cookies de un sitio web si es posible.
+cfr-cookiebanner-accept-button-variant-2 = Permitir
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = Ahora no
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
