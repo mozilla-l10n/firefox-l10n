@@ -926,6 +926,8 @@ sitedata-option-block-unvisited =
     .label = Piškotke neobiskanih spletnih strani
 sitedata-option-block-all-third-party =
     .label = Vse piškotke tretjih strani (lahko povzroči nedelovanje spletnih strani)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Vse medspletne piškotke (lahko povzroči nedelovanje spletnih strani)
 sitedata-option-block-all =
     .label = Vse piškotke (povzroči nedelovanje spletnih strani)
 sitedata-clear =
@@ -1005,6 +1007,7 @@ content-blocking-all-cookies = Vse piškotke
 content-blocking-unvisited-cookies = Piškotke neobiskanih spletnih mest
 content-blocking-all-windows-tracking-content = Sledilno vsebino v vseh oknih
 content-blocking-all-third-party-cookies = Vse piškotke tretjih strani
+content-blocking-all-cross-site-cookies = Vse medspletne piškotke
 content-blocking-cryptominers = Kriptorudarje
 content-blocking-fingerprinters = Sledilce prstnih odtisov
 # "Test pilot" is used as a verb. Possible alternatives:
