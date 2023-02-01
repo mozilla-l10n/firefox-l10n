@@ -573,11 +573,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Leitarslá
+search-bar-header = Leitarstika
 search-bar-hidden =
     .label = Nota veffangastikuna fyrir leit og flakk
 search-bar-shown =
-    .label = Bæta við leitarslá í verkfæraslá
+    .label = Bæta leitarstiku í verkfærastikuna
 search-engine-default-header = Sjálfgefin leitarvél
 search-engine-default-desc-2 = Þetta er sjálfgefna leitarvélin þín í veffangastikunni og leitarstikunni. Þú getur skipt um þetta hvenær sem er.
 search-engine-default-private-desc-2 = Velja aðra sjálfgefna leitarvél eingöngu fyrir huliðsglugga

@@ -4,14 +4,14 @@
 
 customize-mode-restore-defaults =
     .label = Endurstilla sjálfgefin gildi
-customize-mode-menu-and-toolbars-header = Dragðu eftirlætisatriðin yfir í verkfæraslána eða yfirflæðisvalmynd.
+customize-mode-menu-and-toolbars-header = Dragðu eftirlætisatriðin yfir í verkfærastikuna eða yfirflæðisvalmynd.
 customize-mode-overflow-list-title = Yfirflæðisvalmynd
 customize-mode-uidensity =
     .label = Þéttleiki
 customize-mode-done =
     .label = Ljúka
 customize-mode-toolbars =
-    .label = Verkfæraslár
+    .label = Verkfærastikur
 customize-mode-titlebar =
     .label = Titilstika
 customize-mode-uidensity-menu-touch =
@@ -20,7 +20,7 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Snertiskjár
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Nota snertiskjá fyrir spjaldtölvu
-customize-mode-overflow-list-description = Dragðu og slepptu hlutum hérna til að hafa þau við hendina en ekki á verkfæraslánni…
+customize-mode-overflow-list-description = Dragðu og slepptu atriðum hér til að hafa þau við hendina en ekki á verkfærastikunni…
 customize-mode-uidensity-menu-normal =
     .label = Venjulegt
     .accesskey = n

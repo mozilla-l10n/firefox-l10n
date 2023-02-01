@@ -222,7 +222,7 @@ page-action-remove-extension2 =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Fela tækjaslár
+    .label = Fela verkfærastikur
     .accesskey = F
 full-screen-exit =
     .label = Ekki fylla skjá
@@ -716,20 +716,20 @@ bookmarks-tools-sidebar-visibility =
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Fela bókamerkjaslá
-           *[other] Skoða bókamerkjaslá
+            [true] Fela bókamerkjastiku
+           *[other] Skoða bókamerkjastiku
         }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] Fela bókamerkjaslá
-           *[other] Sýna bókamerkjaslá
+            [true] Fela bókamerkjastiku
+           *[other] Sýna bókamerkjastiku
         }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Fjarlægja bókamerkjavalmynd úr verkfæraslá
-           *[other] Bæta bókamerkjavalmynd við verkfæraslá
+            [true] Fjarlægja bókamerkjavalmynd úr verkfærastiku
+           *[other] Bæta bókamerkjavalmynd við verkfærastiku
         }
 bookmarks-search =
     .label = Leita í bókamerkjum
@@ -743,15 +743,15 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Bókamerkjaslá
+    .toolbarname = Bókamerkjastika
     .accesskey = B
     .aria-label = Bókamerki
 bookmarks-toolbar-menu =
-    .label = Bókamerkjaslá
+    .label = Bókamerkjastika
 bookmarks-toolbar-placeholder =
-    .title = Hlutir í bókamerkjaslá
+    .title = Atriði í bókamerkjastiku
 bookmarks-toolbar-placeholder-button =
-    .label = Hlutir í bókamerkjaslá
+    .label = Atriði í bókamerkjastiku
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bókamerkja núverandi flipa
@@ -795,7 +795,7 @@ toolbar-settings-button =
            *[other] Opna stillingar
         }
 toolbar-overflow-customize-button =
-    .label = Sérsníða verkfæraslá…
+    .label = Sérsníða verkfærastiku…
     .accesskey = S
 toolbar-button-email-link =
     .label = Senda tengil
