@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = เอาออกจากประวัติ
     .accesskey = อ
+urlbar-result-menu-tip-get-help =
+    .label = รับความช่วยเหลือ
+    .accesskey = ช
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = ดูส่วนเสริม
 quickactions-cmd-addons2 = ส่วนเสริม
 # Opens the bookmarks library window
-quickactions-bookmarks = ดูที่คั่นหน้า
-# Opens the bookmarks library window
 quickactions-bookmarks2 = จัดการที่คั่นหน้า
 quickactions-cmd-bookmarks = ที่คั่นหน้าที่คั่นหน้า
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ล้างประวัติ
 quickactions-cmd-clearhistory = ล้างประวัติ
-# Opens about:downloads page
-quickactions-downloads = เปิกการดาวน์โหลด
 # Opens about:downloads page
 quickactions-downloads2 = ดูการดาวน์โหลด
 quickactions-cmd-downloads = ดาวน์โหลด
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = ดาวน์โหลด
 quickactions-extensions = จัดการส่วนขยาย
 quickactions-cmd-extensions = ส่วนขยาย
 # Opens the devtools web inspector
-quickactions-inspector = เปิดตัวตรวจสอบ
-# Opens the devtools web inspector
 quickactions-inspector2 = เปิดเครื่องมือนักพัฒนา
 quickactions-cmd-inspector = ตัวตรวจสอบ, devtools
-# Opens about:logins
-quickactions-logins = ดูการเข้าสู่ระบบ
 # Opens about:logins
 quickactions-logins2 = จัดการรหัสผ่าน
 quickactions-cmd-logins = การเข้าสู่ระบบ, รหัสผ่าน
@@ -313,12 +308,8 @@ quickactions-cmd-logins = การเข้าสู่ระบบ, รหั�
 quickactions-plugins = จัดการปลั๊กอิน
 quickactions-cmd-plugins = ปลั๊กอิน
 # Opens the print dialog
-quickactions-print = พิมพ์
-# Opens the print dialog
 quickactions-print2 = พิมพ์หน้า
 quickactions-cmd-print = พิมพ์
-# Opens a new private browsing window
-quickactions-private = เปิดหน้าต่างการท่องเว็บแบบส่วนตัว
 # Opens a new private browsing window
 quickactions-private2 = เปิดหน้าต่างส่วนตัว
 quickactions-cmd-private = การเรียกดูแบบส่วนตัว
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = เรียกใหม่
 quickactions-restart = เริ่มการทำงาน { -brand-short-name } ใหม่
 quickactions-cmd-restart = เริ่มการทำงานใหม่
 # Opens the screenshot tool
-quickactions-screenshot2 = จับภาพหน้าจอ
-# Opens the screenshot tool
 quickactions-screenshot3 = จับภาพหน้าจอ
 quickactions-cmd-screenshot = ภาพหน้าจอ
-# Opens about:preferences
-quickactions-settings = เปิดการตั้งค่า
 # Opens about:preferences
 quickactions-settings2 = จัดการการตั้งค่า
 quickactions-cmd-settings = การตั้งค่า, การกำหนดลักษณะ, ตัวเลือก
@@ -344,8 +331,6 @@ quickactions-cmd-themes = ชุดรูปแบบ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = อัปเดต { -brand-short-name }
 quickactions-cmd-update = อัปเดต
-# Opens the view-source UI with current pages source
-quickactions-viewsource = ดูต้นฉบับ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ดูต้นฉบับหน้า
 quickactions-cmd-viewsource = ดูต้นฉบับ, ต้นฉบับ

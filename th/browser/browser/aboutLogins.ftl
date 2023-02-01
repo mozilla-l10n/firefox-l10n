@@ -4,12 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = การเข้าสู่ระบบและรหัสผ่าน
-
 login-filter =
     .placeholder = ค้นหาการเข้าสู่ระบบ
-
 create-login-button = สร้างการเข้าสู่ระบบใหม่
-
+create-new-login-button =
+    .title = สร้างการเข้าสู่ระบบใหม่
 fxaccounts-sign-in-text = รับรหัสผ่านของคุณบนอุปกรณ์อื่น ๆ ของคุณ
 fxaccounts-sign-in-sync-button = ลงชื่อเข้าใช้เพื่อซิงค์
 fxaccounts-avatar-button =
@@ -102,6 +101,15 @@ login-item-time-changed = วันที่เปลี่ยนแปลงล
 login-item-time-created = วันที่สร้าง: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = วันที่ใช้ครั้งล่าสุด: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = สร้างเมื่อ
+login-item-timeline-action-updated = ปรับปรุงเมื่อ
+login-item-timeline-action-used = ใช้เมื่อ
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -115,19 +123,16 @@ about-logins-edit-login-os-auth-dialog-message-win = หากต้องกา
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = แก้ไขการเข้าสู่ระบบที่บันทึกไว้
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = หากต้องการดูรหัสผ่านของคุณ ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = เผยรหัสผ่านที่บันทึกไว้
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = หากต้องการคัดลอกรหัสผ่านของคุณ ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = คัดลอกรหัสผ่านที่บันทึกไว้
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = หากต้องการส่งออกการเข้าสู่ระบบของคุณ ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
 # This message can be seen when attempting to export a password in about:logins
@@ -146,23 +151,19 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ยกเลิก
 confirmation-dialog-dismiss-button =
     .title = ยกเลิก
-
 about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 about-logins-confirm-remove-dialog-confirm-button = ลบ
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] เอาออก
        *[other] เอาออกทั้งหมด
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] ใช่ ลบการเข้าสู่ระบบนี้
        *[other] ใช่ ลบการเข้าสู่ระบบเหล่านี้
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] ลบการเข้าสู่ระบบทั้งหมด { $count } รายการหรือไม่?
@@ -172,7 +173,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] การดำเนินการนี้จะเอาการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } และการแจ้งเตือนเกี่ยวกับการรั่วไหลใด ๆ ที่ปรากฏที่นี่ออก คุณจะไม่สามารถยกเลิกการดำเนินการนี้ได้
        *[other] การดำเนินการนี้จะเอาการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } และการแจ้งเตือนเกี่ยวกับการรั่วไหลใด ๆ ที่ปรากฏที่นี่ออก คุณจะไม่สามารถยกเลิกการดำเนินการนี้ได้
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ต้องการเอา { $count } การเข้าสู่ระบบออกจากอุปกรณ์ทั้งหมดหรือไม่?
@@ -182,14 +182,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] การดำเนินการนี้จะเอาการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } บนอุปกรณ์ทั้งหมดที่ซิงค์กับ{ -fxaccount-brand-name } ของคุณ การดำเนินการนี้จะเอาการแจ้งเตือนเกี่ยวกับการรั่วไหลที่ปรากฏที่นี่ออกด้วย คุณจะไม่สามารถยกเลิกการดำเนินการนี้ได้
        *[other] การดำเนินการนี้จะเอาการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } บนอุปกรณ์ทั้งหมดที่ซิงค์กับ{ -fxaccount-brand-name } ของคุณ การดำเนินการนี้จะเอาการแจ้งเตือนเกี่ยวกับการรั่วไหลที่ปรากฏที่นี่ออกด้วย คุณจะไม่สามารถยกเลิกการดำเนินการนี้ได้
     }
-
 about-logins-confirm-export-dialog-title = ส่งออกการเข้าสู่ระบบและรหัสผ่าน
 about-logins-confirm-export-dialog-message = รหัสผ่านของคุณจะถูกบันทึกเป็นข้อความที่อ่านได้ (เช่น BadP@ssw0rd) ดังนั้นใครก็ตามที่สามารถเปิดไฟล์ที่ส่งออกได้จะสามารถดูได้
 about-logins-confirm-export-dialog-confirm-button = ส่งออก…
-
 about-logins-alert-import-title = การนำเข้าเสร็จสมบูรณ์
 about-logins-alert-import-message = ดูสรุปการนำเข้าโดยละเอียด
-
 confirm-discard-changes-dialog-title = ละทิ้งการเปลี่ยนแปลงที่ยังไม่ได้บันทึก?
 confirm-discard-changes-dialog-message = การเปลี่ยนแปลงที่ยังไม่ได้บันทึกทั้งหมดจะสูญหาย
 confirm-discard-changes-dialog-confirm-button = ละทิ้ง
@@ -220,7 +217,6 @@ about-logins-vulnerable-alert-learn-more-link = เรียนรู้เพ�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = มีรายการสำหรับ { $loginTitle } พร้อมชื่อผู้ใช้นั้นแล้ว <a data-l10n-name="duplicate-link">ต้องการไปยังรายการที่มีอยู่หรือไม่?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = เกิดข้อผิดพลาดขณะพยายามบันทึกรหัสผ่านนี้
 
@@ -269,12 +265,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>เพิ่มการเข้าสู่ระบบใหม่แล้ว:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>อัปเดตการเข้าสู่ระบบที่มีอยู่แล้ว:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>พบการเข้าสู่ระบบที่ซ้ำกัน:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ยังไม่ได้นำเข้า)</span>
@@ -284,7 +278,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>ข้อผิดพลาด:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ยังไม่ได้นำเข้า)</span>
     }
 about-logins-import-dialog-done = เสร็จสิ้น
-
 about-logins-import-dialog-error-title = ข้อผิดพลาดในการนำเข้า
 about-logins-import-dialog-error-conflicting-values-title = มีค่าขัดแย้งหลายค่าสำหรับการเข้าสู่ระบบครั้งเดียว
 about-logins-import-dialog-error-conflicting-values-description = ตัวอย่างเช่น: หลายชื่อผู้ใช้ รหัสผ่าน URL ฯลฯ สำหรับการเข้าสู่ระบบของผู้ใช้คนเดียว
@@ -298,10 +291,8 @@ about-logins-import-dialog-error-no-logins-imported = ไม่มีการ�
 about-logins-import-dialog-error-learn-more = เรียนรู้เพิ่มเติม
 about-logins-import-dialog-error-try-import-again = ลองนำเข้าอีกครั้ง…
 about-logins-import-dialog-error-cancel = ยกเลิก
-
 about-logins-import-report-title = สรุปการนำเข้า
 about-logins-import-report-description = นำเข้าการเข้าสู่ระบบและรหัสผ่านไปยัง { -brand-short-name } แล้ว
-
 #
 # Variables:
 #  $number (number) - The number of the row
