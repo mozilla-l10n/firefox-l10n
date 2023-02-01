@@ -198,6 +198,9 @@ colorways-cfr-primarybutton = ເລືອກສີ
     .accesskey = C
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = ທາສີບຼາວເຊີຂອງທ່ານດ້ວຍ { -brand-short-name } ຮົ່ມສະເພາະທີ່ໄດ້ຮັບແຮງບັນດານໃຈຈາກສຽງທີ່ປ່ຽນວັດທະນະທໍາ.
+colorways-cfr-header-14days = Independent Voices colorways ຈະໝົດອາຍຸໃນສອງອາທິດ
+colorways-cfr-header-7days = Independent Voices colorways ຈະໝົດອາຍຸໃນອາທິດນີ້
+colorways-cfr-header-today = Independent Voices colorways ຈະໝົດອາຍຸມື້ນີ້
 
 ## Cookie Banner Handling CFR
 
