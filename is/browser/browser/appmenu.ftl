@@ -247,7 +247,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Sérsníða verkfæraslá…
+    .label = Sérsníða verkfærastiku…
 appmenu-developer-tools-subheader = Vafraverkfæri
 appmenu-developer-tools-extensions =
     .label = Viðbætur fyrir forritara
