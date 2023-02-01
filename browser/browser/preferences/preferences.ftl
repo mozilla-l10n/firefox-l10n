@@ -1101,7 +1101,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
-collection-header = Gagnasöfnun { -brand-short-name } og notkun
+collection-header = Söfnun og notkun gagna í { -brand-short-name }
 collection-description = Við reynum alltaf að bjóða upp á valkosti og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta { -brand-short-name } fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.
 collection-privacy-notice = Meðferð persónuupplýsinga
 collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
