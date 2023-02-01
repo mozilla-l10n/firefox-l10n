@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Odstrani iz zgodovine
     .accesskey = O
+urlbar-result-menu-tip-get-help =
+    .label = Pomoč
+    .accesskey = P
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Prikaži dodatke
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
-quickactions-bookmarks = Prikaži zaznamke
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Upravljanje zaznamkov
 quickactions-cmd-bookmarks = zaznamki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Počisti zgodovino
 quickactions-cmd-clearhistory = počisti zgodovino
-# Opens about:downloads page
-quickactions-downloads = Odpri prenose
 # Opens about:downloads page
 quickactions-downloads2 = Prikaži prenose
 quickactions-cmd-downloads = prenosi
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = prenosi
 quickactions-extensions = Upravljanje razširitev
 quickactions-cmd-extensions = razširitve
 # Opens the devtools web inspector
-quickactions-inspector = Odpri pregledovalnik
-# Opens the devtools web inspector
 quickactions-inspector2 = Odpri razvojna orodja
 quickactions-cmd-inspector = pregledovalnik, razvojna orodja
-# Opens about:logins
-quickactions-logins = Ogled prijav
 # Opens about:logins
 quickactions-logins2 = Upravljaj gesla
 quickactions-cmd-logins = prijave, gesla
@@ -313,12 +308,8 @@ quickactions-cmd-logins = prijave, gesla
 quickactions-plugins = Upravljanje vtičnikov
 quickactions-cmd-plugins = vtičniki
 # Opens the print dialog
-quickactions-print = Natisni
-# Opens the print dialog
 quickactions-print2 = Natisni stran
 quickactions-cmd-print = natisni, tiskanje, print
-# Opens a new private browsing window
-quickactions-private = Odpri okno zasebnega brskanja
 # Opens a new private browsing window
 quickactions-private2 = Odpri zasebno okno
 quickactions-cmd-private = zasebno brskanje
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = osveži
 quickactions-restart = Ponovno zaženi { -brand-short-name }
 quickactions-cmd-restart = ponovno zaženi, znova zaženi, zaženi znova
 # Opens the screenshot tool
-quickactions-screenshot2 = Zajemi posnetek zaslona
-# Opens the screenshot tool
 quickactions-screenshot3 = Zajemi posnetek zaslona
 quickactions-cmd-screenshot = posnetek zaslona
-# Opens about:preferences
-quickactions-settings = Odpri nastavitve
 # Opens about:preferences
 quickactions-settings2 = Upravljaj nastavitve
 quickactions-cmd-settings = nastavitve, možnosti
@@ -344,8 +331,6 @@ quickactions-cmd-themes = teme
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Posodobi { -brand-short-name }
 quickactions-cmd-update = posodobi
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Pokaži vir
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Pokaži izvorno kodo strani
 quickactions-cmd-viewsource = pokaži vir, vir

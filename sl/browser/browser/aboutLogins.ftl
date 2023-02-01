@@ -7,6 +7,8 @@ about-logins-page-title = Prijave in gesla
 login-filter =
     .placeholder = Iskanje prijav
 create-login-button = Ustvari novo prijavo
+create-new-login-button =
+    .title = Ustvari novo prijavo
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
 fxaccounts-sign-in-sync-button = Prijava v sinhronizacijo
 fxaccounts-avatar-button =
@@ -101,6 +103,15 @@ login-item-cancel-button = Prekliči
 login-item-time-changed = Zadnja sprememba: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Ustvarjeno: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Nazadnje uporabljeno: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Ustvarjeno
+login-item-timeline-action-updated = Posodobljeno
+login-item-timeline-action-used = Uporabljeno
 
 ## OS Authentication dialog
 

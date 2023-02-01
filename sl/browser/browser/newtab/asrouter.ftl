@@ -66,12 +66,14 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Pasice s piškotki, izginite!
+cfr-cookie-banner-handling-body = Dovoli { -brand-short-name(sklon: "dajalnik") }, da samodejno zavrne vse zahteve za shranjevanje piškotkov, kadar je to mogoče. V nasprotnem primeru bo sprejel vse piškotke in zaprl pasico.
 cfr-cookie-banner-reject-button = Ne zdaj
     .accesskey = N
-cfr-cookie-banner-handling-body-variant-1 = Naj { -brand-short-name } namesto vas odgovarja na zahteve po shranjevanju piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če to ne bo mogoče, pa jih bo sprejel.
+cfr-cookie-banner-handling-body-variant-1 = Naj { -brand-short-name } namesto vas odgovarja na zahteve za shranjevanje piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če to ne bo mogoče, pa jih bo sprejel.
 cfr-cookie-banner-reject-button-variant-1 = Ne, hvala
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Zmanjšanje števila pasic s piškotki
+cfr-cookie-banner-handling-body-variant-2 = Dovolite { -brand-short-name(sklon: "dajalnik") }, da zavrača zahteve spletnih mest za shranjevanje piškotkov, če to ni mogoče, pa jih sprejme?
 cfr-cookie-banner-accept-button-variant-2 = Dovoli
     .accesskey = D
 cfr-cookie-banner-reject-button-variant-2 = Ne zdaj
@@ -245,6 +247,21 @@ colorways-cfr-header-28days = Barvne kombinacije Neodvisni glasovi potečejo 16.
 colorways-cfr-header-14days = Barvne kombinacije Neodvisni glasovi potečejo čez dva tedna
 colorways-cfr-header-7days = Barvne kombinacije Neodvisni glasovi potečejo ta teden
 colorways-cfr-header-today = Barvne kombinacije Neodvisni glasovi potečejo danes
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Pasice s piškotki, izginite!
+cfr-cookiebanner-reject-button = Ne zdaj
+    .accesskey = N
+cfr-cookiebanner-body-variant-1 = Naj { -brand-short-name } namesto vas odgovarja na zahteve za shranjevanje piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če bo to mogoče.
+cfr-cookiebanner-reject-button-variant-1 = Ne, hvala
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Zmanjšanje števila pasic s piškotki
+cfr-cookiebanner-accept-button-variant-2 = Dovoli
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-2 = Ne zdaj
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
