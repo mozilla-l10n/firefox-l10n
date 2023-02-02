@@ -27,6 +27,7 @@ neterror-try-again-button = Intentar de nuevo
 neterror-add-exception-button = Continuar siempre para este sitio
 neterror-settings-button = Cambiar la configuración de DNS
 neterror-view-certificate-link = Ver certificado
+neterror-disable-native-feedback-warning = Continuar siempre
 
 ##
 
@@ -61,6 +62,11 @@ neterror-dns-not-found-trr-offline = No estás conectado a Internet.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } no encontró una dirección para este sitio web.
 neterror-dns-not-found-trr-server-problem = Hubo un problema con { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
 
 ##
 

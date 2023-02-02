@@ -997,6 +997,7 @@ content-blocking-all-cookies = Todas las cookies
 content-blocking-unvisited-cookies = Cookies de sitios no visitados
 content-blocking-all-windows-tracking-content = Contenido de rastreo en todas las ventanas
 content-blocking-all-third-party-cookies = Todas las cookies de terceros
+content-blocking-all-cross-site-cookies = Todas las cookies entre sitios
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Huellas dactilares
 # "Test pilot" is used as a verb. Possible alternatives:
