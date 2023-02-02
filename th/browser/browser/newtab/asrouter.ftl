@@ -244,5 +244,16 @@ colorways-cfr-header-14days = ชุดรูปแบบสี “เสีย�
 colorways-cfr-header-7days = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขตสัปดาห์นี้
 colorways-cfr-header-today = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขตวันนี้
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = เอาแบนเนอร์คุกกี้ออกไปให้พ้น!
+cfr-cookiebanner-body = ให้ { -brand-short-name } ปฏิเสธคำขอแบนเนอร์คุกกี้ทั้งหมดโดยอัตโนมัติเมื่อเป็นไปได้
+cfr-cookiebanner-accept-button = ปิดแบนเนอร์
+    .accesskey = ป
+cfr-cookiebanner-reject-button = ไม่ใช่ตอนนี้
+    .accesskey = ม
+cfr-cookiebanner-header-variant-1 = เห็นป๊อปอัปคุกกี้น้อยลง
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
