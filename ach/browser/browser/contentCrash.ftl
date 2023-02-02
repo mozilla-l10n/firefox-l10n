@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>But potbuk man opoto woko.</strong> Me weko { -brand-product-name } onge pi peko man dok wek oyub woko pi oyotoyot, tim ber i cwal ripot.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = But potbuk man opoto woko. Me weko { -brand-product-name } onge pi peko man dok wek oyub woko pi oyotoyot, tim ber i cwal ripot.
+crashed-subframe-learnmore-link =
+    .value = Nong ngec mapol
+crashed-subframe-submit =
+    .label = Cwal ripot
+    .accesskey = C
 
 ## Pending crash reports
 

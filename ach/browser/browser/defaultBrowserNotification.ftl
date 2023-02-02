@@ -12,3 +12,5 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = Ket { -brand-short-name } obed layeny mamegi makwongo?
+default-browser-prompt-title-alt = Ket { -brand-short-name } obed layeny mamegi makwongo?
