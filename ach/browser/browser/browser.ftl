@@ -86,6 +86,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Nong kony
 urlbar-search-tips-confirm = Aya, Aniang
+urlbar-search-tips-confirm-short = Aniang!
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -164,6 +165,20 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ter calo Injin Yeny Makwongo pi Dirica me Mung
     .accesskey = D
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Med “{ $engineName }”
+    .tooltiptext = Med ingin yeny “{ $engineName }”
+    .aria-label = Med ingin yeny “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -181,6 +196,12 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Jwa gin mukato
+quickactions-cmd-clearhistory = jwa gin mukato
+# Restarts the browser
+quickactions-restart = Nwo cako { -brand-short-name }
+quickactions-cmd-restart = nwo cako
 
 ## Bookmark Panel
 
@@ -335,6 +356,11 @@ urlbar-result-action-before-tabtosearch-web = Dii Dirica matidi me yenyo ki { $e
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Dii Dirica matidi me yenyo { $engine }
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -346,6 +372,10 @@ urlbar-result-action-search-tabs = Yeny Dirica matino
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 
 ## Reader View toolbar buttons
 
@@ -374,6 +404,16 @@ pointerlock-warning-no-domain = Jami eni Tye ki twero i kom lacim ma megi. Dii E
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>But potbuk man opoto woko.</strong> Me weko { -brand-product-name } onge pi peko man dok wek oyub woko pi oyotoyot, tim ber i cwal ripot.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = But potbuk man opoto woko. Me weko { -brand-product-name } onge pi peko man dok wek oyub woko pi oyotoyot, tim ber i cwal ripot.
+crashed-subframe-learnmore-link =
+    .value = Nong ngec mapol
+crashed-subframe-submit =
+    .label = Cwal ripot
+    .accesskey = C
 
 ## Bookmarks panels, menus and toolbar
 
@@ -538,6 +578,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = Nyuta nining
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -549,6 +590,10 @@ data-reporting-notification-button =
 ## Unified extensions (toolbar) button
 
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ogengo pot buk man me cane odoco pire kene.
@@ -556,3 +601,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ogengo pot buk man me wir
 refresh-blocked-allow =
     .label = Ye
     .accesskey = A
+
+## Firefox Relay integration
+
