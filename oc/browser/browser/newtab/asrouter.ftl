@@ -62,11 +62,13 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Fòra las bandièras de cookies !
+cfr-cookie-banner-handling-body = Permetre a { -brand-short-name } de regetar automaticament las demandas de cookies, quand es possible. Autrament, totes los cookies seràn acceptats per suprimir las bandièras de cookies.
 cfr-cookie-banner-accept-button = Regetar las demandas
     .accesskey = R
 cfr-cookie-banner-reject-button = Pas ara
     .accesskey = P
 cfr-cookie-banner-handling-header-variant-1 = Veire mens de fenèstras sorgissentas de cookies
+cfr-cookie-banner-handling-body-variant-1 = Permetre a { -brand-short-name } de gerir automaticament las fenèstras sorgissentas de cookies per vos que trapetz una navegacion sens distraccion. { -brand-short-name } regetarà totas las demandas se possible, autrament las acceptarà totas.
 cfr-cookie-banner-accept-button-variant-1 = Regetar las fenèstras sorgissentas
     .accesskey = R
 cfr-cookie-banner-reject-button-variant-1 = Non mercés
@@ -249,16 +251,19 @@ colorways-cfr-header-today = Los colorits « Voses independentas » expiran u�
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Fòra las bandièras de cookies !
+cfr-cookiebanner-body = Permetre a { -brand-short-name } de regetar automaticament las demandas de cookies quand es possible.
 cfr-cookiebanner-accept-button = Tampar las bandièras
     .accesskey = T
 cfr-cookiebanner-reject-button = Pas ara
     .accesskey = P
 cfr-cookiebanner-header-variant-1 = Veire mens de fenèstras sorgissentas de cookies
+cfr-cookiebanner-body-variant-1 = Permetre a { -brand-short-name } de gerir automaticament las fenèstras sorgissentas de cookies per vos que trapetz una navegacion sens distraccion. { -brand-short-name } regetarà totas las demandas se possible.
 cfr-cookiebanner-accept-button-variant-1 = Regetar las fenèstras sorgissentas
     .accesskey = R
 cfr-cookiebanner-reject-button-variant-1 = Non, mercé
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Reduccion de las bandièras de cookies
+cfr-cookiebanner-body-variant-2 = Redusissètz lo nombre de banièras de cookies que vesètz en autorizant { -brand-short-name } a refusar la demanda de consentiment dels cookies d’un site web se possible.
 cfr-cookiebanner-accept-button-variant-2 = Autorizar
     .accesskey = A
 cfr-cookiebanner-reject-button-variant-2 = Pas ara
@@ -267,4 +272,5 @@ cfr-cookiebanner-reject-button-variant-2 = Pas ara
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Asseguram vòstra proteccion
+july-jam-body = Cada mes, { -brand-short-name } bloca una mejana de 3 000 traçadors per utilizaire, per tal qu’ajatz accès a un Internet segur e rapid.
 july-jam-set-default-primary = Dobrir mos ligams dins { -brand-short-name }
