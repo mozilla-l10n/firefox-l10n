@@ -73,6 +73,7 @@ cfr-cookie-banner-accept-button-variant-1 = Bildirimleri kapat
 cfr-cookie-banner-reject-button-variant-1 = Gerek yok
     .accesskey = G
 cfr-cookie-banner-handling-header-variant-2 = Çerez bildirimlerini azaltın
+cfr-cookie-banner-handling-body-variant-2 = { -brand-short-name } mümkün olduğunda sitelerin çerez onayı taleplerini reddetsin, mümkün olmadığında çerezlere izin versin mi?
 cfr-cookie-banner-accept-button-variant-2 = İzin ver
     .accesskey = z
 cfr-cookie-banner-reject-button-variant-2 = Daha sonra
@@ -244,6 +245,18 @@ colorways-cfr-header-28days = Bağımsız Sesler renk kuşakları 16 Ocak’ta k
 colorways-cfr-header-14days = Bağımsız Sesler renk kuşakları iki hafta sonra kullanımdan kalkıyor
 colorways-cfr-header-7days = Bağımsız Sesler renk kuşakları bu hafta kullanımdan kalkıyor
 colorways-cfr-header-today = Bağımsız Sesler renk kuşakları bugün kullanımdan kalkıyor
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Çerez bildirimlerine son!
+cfr-cookiebanner-accept-button = Bildirimleri kapat
+    .accesskey = B
+cfr-cookiebanner-reject-button = Daha sonra
+    .accesskey = D
+cfr-cookiebanner-header-variant-1 = Daha az çerez bildirimi görün
+cfr-cookiebanner-accept-button-variant-2 = İzin ver
+    .accesskey = z
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
