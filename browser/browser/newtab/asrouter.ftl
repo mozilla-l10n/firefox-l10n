@@ -254,6 +254,20 @@ cfr-cookiebanner-accept-button = ปิดแบนเนอร์
 cfr-cookiebanner-reject-button = ไม่ใช่ตอนนี้
     .accesskey = ม
 cfr-cookiebanner-header-variant-1 = เห็นป๊อปอัปคุกกี้น้อยลง
+cfr-cookiebanner-body-variant-1 = ให้ { -brand-short-name } ตอบป๊อปอัปคุกกี้ให้คุณโดยอัตโนมัติเพื่อให้คุณท่องเว็บได้โดยปราศจากสิ่งรบกวน { -brand-short-name } จะปฏิเสธคำขอทั้งหมดเมื่อเป็นไปได้
+cfr-cookiebanner-accept-button-variant-1 = ปิดป๊อปอัป
+    .accesskey = ป
+cfr-cookiebanner-reject-button-variant-1 = ไม่ ขอบคุณ
+    .accesskey = ม
+cfr-cookiebanner-header-variant-2 = การลดแบนเนอร์คุกกี้
+cfr-cookiebanner-body-variant-2 = ลดจำนวนแบนเนอร์คุกกี้ที่คุณเห็นโดยให้ { -brand-short-name } ปฏิเสธคำขอยินยอมคุกกี้ของเว็บไซต์หากเป็นไปได้
+cfr-cookiebanner-accept-button-variant-2 = อนุญาต
+    .accesskey = อ
+cfr-cookiebanner-reject-button-variant-2 = ไม่ใช่ตอนนี้
+    .accesskey = ม
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = เราปกป้องคุณอย่างครอบคลุม
+july-jam-body = ทุกเดือน { -brand-short-name } ปิดกั้นตัวติดตามเฉลี่ย 3,000+ ตัวต่อผู้ใช้หนึ่งคน ทำให้คุณเข้าถึงอินเทอร์เน็ตที่ดีได้อย่างปลอดภัยและรวดเร็ว
+july-jam-set-default-primary = เปิดลิงก์ของฉันด้วย { -brand-short-name }
