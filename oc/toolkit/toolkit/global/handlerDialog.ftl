@@ -20,6 +20,7 @@
 permission-dialog-description = Autorizar lo site a dobrir lo ligam { $scheme } ?
 permission-dialog-description-file = Autorizar aqueste fichièr a dobrir lo ligam { $scheme } ?
 permission-dialog-description-host = Autorizar { $host } a dobrir lo ligam { $scheme } ?
+permission-dialog-description-extension = Autorizar l’extension { $extension } a dobrir lo ligam { $scheme } ?
 permission-dialog-description-app = Autorizar aqueste site a dobrir lo ligam { $scheme } amb { $appName } ?
 permission-dialog-description-host-app = Autorizar { $host } a dobrir lo ligam { $scheme } amb { $appName } ?
 permission-dialog-description-file-app = Autorizar aqueste fichièr a dobrir lo ligam { $scheme } amb { $appName } ?
