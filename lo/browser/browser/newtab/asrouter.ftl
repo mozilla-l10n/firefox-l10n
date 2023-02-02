@@ -63,11 +63,14 @@ cfr-cookie-banner-accept-button-variant-1 = ປິດປັອບອັບ
 cfr-cookie-banner-reject-button-variant-1 = ບໍ່, ຂອບໃຈ
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
+cfr-cookie-banner-accept-button-variant-2 = ອະນຸຍາດ
+    .accesskey = A
 cfr-cookie-banner-reject-button-variant-2 = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = ຊິງຄ໌ບຸກມາກຂອງທ່ານຢູ່ທົ່ວທຸກແຫ່ງ.
 cfr-doorhanger-bookmark-fxa-body = ຊອກຫາທີ່ຍິ່ງໃຫຍ່! ດຽວນີ້ຢ່າປະໄວ້ໂດຍບໍ່ມີບຸກມາກນີ້ຢູ່ໃນອຸປະກອນມືຖືຂອງເຈົ້າ. ເລີ່ມຕົ້ນດ້ວຍ { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = ຊິ້ງຂໍ້ມູນບຸກມາກດຽວນີ້...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -204,6 +207,8 @@ colorways-cfr-header-today = Independent Voices colorways ຈະໝົດອາ�
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = ປ້າຍໂຄສະນາຄຸກກີເລີ່ມແລ້ວ!
 cfr-cookiebanner-reject-button-variant-1 = ບໍ່, ຂອບໃຈ
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ

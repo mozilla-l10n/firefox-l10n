@@ -4,6 +4,7 @@
 
 appmenu-update-unsupported-message2 = ລະບົບປະຕິບັດການຂອງທ່ານບໍ່ເຂົ້າກັນໄດ້ກັບເວີຊັນຫຼ້າສຸດຂອງ { -brand-shorter-name }.
 appmenu-update-restart-message2 = ເອົາເວີຊັນຫຼ້າສຸດຂອງ { -brand-shorter-name }. ເປີດແຖບ ແລະໜ້າຕ່າງຈະຖືກຟື້ນຟູຄືນມາ.
+appmenu-update-other-instance-message = ມີການອັບເດດ { -brand-shorter-name } ໃໝ່, ແຕ່ມັນບໍ່ສາມາດຕິດຕັ້ງໄດ້ເນື່ອງຈາກສຳເນົາອື່ນຂອງ { -brand-shorter-name } ກຳລັງເຮັດວຽກຢູ່. ປິດມັນເພື່ອສືບຕໍ່ການອັບເດດ, ຫຼືເລືອກທີ່ຈະອັບເດດຢ່າງໃດກໍ່ຕາມ (ສຳເນົາອື່ນອາດຈະເຮັດວຽກບໍ່ຖືກຕ້ອງຈົນກວ່າທ່ານຈະຣີສະຕາດມັນ).
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ຕົກລົງ
     .buttonaccesskey = O

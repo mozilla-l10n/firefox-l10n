@@ -108,6 +108,7 @@ login-item-time-used = ນຳໃຊ້ຫຼ້າສຸດ: { DATETIME($timeUse
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = ສ້າງແລ້ວ
 login-item-timeline-action-updated = ອັບເດດ
+login-item-timeline-action-used = ນຳໃຊ້
 
 ## OS Authentication dialog
 
