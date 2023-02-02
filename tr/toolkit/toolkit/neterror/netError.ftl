@@ -27,6 +27,7 @@ neterror-try-again-button = Yeniden dene
 neterror-add-exception-button = Bu site için her zaman devam et
 neterror-settings-button = DNS ayarlarını değiştir
 neterror-view-certificate-link = Sertifikayı göster
+neterror-disable-native-feedback-warning = Her zaman devam et
 
 ##
 
@@ -61,6 +62,14 @@ neterror-dns-not-found-trr-offline = İnternete bağlı değilsiniz.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } bu web sitesinin adresini bulamadı.
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ile ilgili bir sorun oluştu.
 neterror-dns-not-found-trr-unknown-problem = Beklenmeyen sorun.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name }, güvenilir DNS çözümleyicimiz aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
+neterror-dns-not-found-native-fallback-heuristic = Ağınızda HTTP üzerinden DNS devre dışı bırakıldı.
+neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } bağlantısı henüz hazır değil.
 
 ##
 
