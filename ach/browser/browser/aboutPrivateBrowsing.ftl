@@ -20,6 +20,7 @@ about-private-browsing-handoff-text = Yeny ki { $engine } onyo ket kanonge
 about-private-browsing-handoff-text-no-engine = Yeny onyo ket kanonge
 about-private-browsing-not-private = Kombedi pe itye i dirica me mung.
 about-private-browsing-learn-more-link = Nong ngec mapol
+about-private-browsing-focus-promo-cta = Gam { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -35,6 +36,8 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Lor
+about-private-browsing-promo-close-button =
+    .title = Lor
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
