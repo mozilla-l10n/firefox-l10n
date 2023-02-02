@@ -19,3 +19,6 @@ firefoxview-tabpickup-synctabs-learn-how = Nong ngec nining
 firefoxview-tabpickup-network-offline-primarybutton = Tem doki
 firefoxview-tabpickup-sync-error-primarybutton = Tem doki
 firefoxview-tabpickup-password-locked-link = Nong ngec mapol
+firefoxview-mobile-confirmation-header = 🎉 Dong tye atera!
+firefoxview-closed-tabs-title = Ma kiloro cokki
+firefoxview-synced-tabs-placeholder-header = Petye gin mo me anena pudi
