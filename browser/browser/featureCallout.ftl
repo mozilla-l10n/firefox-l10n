@@ -46,6 +46,20 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Začít
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Upravujte soubory PDF pomocí našeho nového textového nástroje
+callout-pdfjs-edit-body-a =
+    { -brand-short-name.gender ->
+        [masculine] Vyplňujte formuláře, přidávejte komentáře nebo si dělejte poznámky přímo ve { -brand-short-name(case: "loc") }.
+        [feminine] Vyplňujte formuláře, přidávejte komentáře nebo si dělejte poznámky přímo v { -brand-short-name(case: "loc") }.
+        [neuter] Vyplňujte formuláře, přidávejte komentáře nebo si dělejte poznámky přímo v { -brand-short-name(case: "loc") }.
+       *[other] Vyplňujte formuláře, přidávejte komentáře nebo si dělejte poznámky přímo v aplikaci { -brand-short-name }.
+    }
+callout-pdfjs-edit-body-b =
+    { -brand-short-name.gender ->
+        [masculine] Přeskočte hledání bezplatných online editorů. Vyplňujte formuláře, přidávejte komentáře nebo si dělejte poznámky přímo ve { -brand-short-name(case: "loc") }.
+        [feminine] Přeskočte hledání bezplatných online editorů. Vyplňujte formuláře, přidávejte komentáře nebo si dělejte poznámky přímo v { -brand-short-name(case: "loc") }.
+        [neuter] Přeskočte hledání bezplatných online editorů. Vyplňujte formuláře, přidávejte komentáře nebo si dělejte poznámky přímo v { -brand-short-name(case: "loc") }.
+       *[other] Přeskočte hledání bezplatných online editorů. Vyplňujte formuláře, přidávejte komentáře nebo si dělejte poznámky přímo v aplikaci { -brand-short-name }.
+    }
 callout-pdfjs-edit-button = Další
 callout-pdfjs-draw-title = Podepisujte dokumenty pomocí našeho nového nástroje pro kreslení
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.

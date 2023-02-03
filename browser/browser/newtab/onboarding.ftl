@@ -27,6 +27,13 @@ return-to-amo-add-theme-label = Přidat motiv vzhledu
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle =
+    { -brand-short-name.gender ->
+        [masculine] Přivítejte { -brand-short-name(case: "acc") }
+        [feminine] Přivítejte { -brand-short-name(case: "acc") }
+        [neuter] Přivítejte { -brand-short-name(case: "acc") }
+       *[other] Přivítejte aplikaci { -brand-short-name }
+    }
 mr1-return-to-amo-add-extension-label = Přidat doplněk { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -357,9 +364,24 @@ mr2022-onboarding-welcome-pin-header = Objevte úžasný internet
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header =
+    { -brand-product-name.gender ->
+        [masculine] Děkujeme, že máte rádi { -brand-product-name(case: "acc") }
+        [feminine] Děkujeme, že máte rádi { -brand-product-name(case: "acc") }
+        [neuter] Děkujeme, že máte rádi { -brand-product-name(case: "acc") }
+       *[other] Děkujeme, že máte rádi aplikaci { -brand-product-name }
+    }
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label =
+    { -brand-short-name.gender ->
+        [masculine] Nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč
+        [feminine] Nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč
+        [neuter] Nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč
+       *[other] Nastavit aplikaci { -brand-short-name } jako výchozí prohlížeč
+    }
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -483,6 +505,13 @@ mr2022-onboarding-gratitude-secondary-button-label = Začít prohlížet
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Ciťte se jako doma
+onboarding-infrequent-import-primary-button =
+    { -brand-short-name.gender ->
+        [masculine] Importovat do { -brand-short-name(case: "gen") }
+        [feminine] Importovat do { -brand-short-name(case: "gen") }
+        [neuter] Importovat do { -brand-short-name(case: "gen") }
+       *[other] Importovat do aplikace { -brand-short-name }
+    }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech

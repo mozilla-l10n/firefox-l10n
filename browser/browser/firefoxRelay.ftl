@@ -8,6 +8,13 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed =
+    { -brand-short-name.gender ->
+        [masculine] { -relay-brand-name } nedokázal vygenerovat novou masku. Kód chyby HTTP: { $status }.
+        [feminine] { -relay-brand-name } nedokázala vygenerovat novou masku. Kód chyby HTTP: { $status }.
+        [neuter] { -relay-brand-name } nedokázalo vygenerovat novou masku. Kód chyby HTTP: { $status }.
+       *[other] Služba { -relay-brand-name } nedokázala vygenerovat novou masku. Kód chyby HTTP: { $status }.
+    }
 
 ##
 
