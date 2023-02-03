@@ -8,6 +8,10 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = Rozšíření nemůže číst ani měnit data
+origin-controls-options =
+    .label = Rozšíření může číst a měnit data
 origin-controls-option-all-domains =
     .label = Na všech stránkách
 origin-controls-option-when-clicked =
@@ -22,9 +26,13 @@ origin-controls-option-always-on =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = Nemůže číst ani měnit data na tomto webu
+origin-controls-state-always-on = Může vždy číst a měnit data na tomto webu
+origin-controls-state-when-clicked = Pro čtení nebo změnu dat na tomto webu je nutné oprávnění
 origin-controls-state-hover-run-visit-only = Spustit pouze pro tuto návštěvu
 origin-controls-state-runnable-hover-open = Otevřít rozšíření
 origin-controls-state-runnable-hover-run = Spustit rozšíření
+origin-controls-state-temporary-access = Může číst a měnit data během této návštěvy
 
 ## Extension's toolbar button.
 ## Variables:
@@ -33,3 +41,10 @@ origin-controls-state-runnable-hover-run = Spustit rozšíření
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = Rozšíření
+    .tooltiptext =
+        Rozšíření
+        Vyžadováno oprávnění
