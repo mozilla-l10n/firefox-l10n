@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = ისტორიიდან ამოშლა
     .accesskey = მ
+urlbar-result-menu-tip-get-help =
+    .label = დახმარების მიღება
+    .accesskey = ხ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = დამატებების ნახვა
 quickactions-cmd-addons2 = დამატებები
 # Opens the bookmarks library window
-quickactions-bookmarks = სანიშნების ნახვა
-# Opens the bookmarks library window
 quickactions-bookmarks2 = სანიშნების მართვა
 quickactions-cmd-bookmarks = სანიშნები
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ისტორიის გასუფთავება
 quickactions-cmd-clearhistory = ისტორიის გასუფთავება
-# Opens about:downloads page
-quickactions-downloads = ჩამოტვირთვების გახსნა
 # Opens about:downloads page
 quickactions-downloads2 = ჩამოტვირთვების ჩვენება
 quickactions-cmd-downloads = ჩამოტვირთვები
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = ჩამოტვირთვები
 quickactions-extensions = გაფართოებების მართვა
 quickactions-cmd-extensions = გაფართოებები
 # Opens the devtools web inspector
-quickactions-inspector = გვერდის გამოკვლევა
-# Opens the devtools web inspector
 quickactions-inspector2 = შემმუშავებლის ხელსაწყოების გახსნა
 quickactions-cmd-inspector = გამოკვლევა, შემუშავება
-# Opens about:logins
-quickactions-logins = ანგარიშების ნახვა
 # Opens about:logins
 quickactions-logins2 = პაროლების მართვა
 quickactions-cmd-logins = ანგარიშები და პაროლები
@@ -313,12 +308,8 @@ quickactions-cmd-logins = ანგარიშები და პაროლ�
 quickactions-plugins = მოდულების მართვა
 quickactions-cmd-plugins = მოდულები
 # Opens the print dialog
-quickactions-print = ამობეჭდვა
-# Opens the print dialog
 quickactions-print2 = გვერდის ამობეჭდვა
 quickactions-cmd-print = ამობეჭდვა
-# Opens a new private browsing window
-quickactions-private = პირადი ფანჯრის გახსნა
 # Opens a new private browsing window
 quickactions-private2 = პირადი ფანჯრის გახსნა
 quickactions-cmd-private = პირადი თვალიერება
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = გაახლება
 quickactions-restart = ხელახლა გაეშვას { -brand-short-name }
 quickactions-cmd-restart = ხელახლა გაშვება
 # Opens the screenshot tool
-quickactions-screenshot2 = ეკრანის სურათის გადაღება
-# Opens the screenshot tool
 quickactions-screenshot3 = ეკრანის სურათის გადაღება
 quickactions-cmd-screenshot = ეკრანის ანაბეჭდი
-# Opens about:preferences
-quickactions-settings = პარამეტრების გახსნა
 # Opens about:preferences
 quickactions-settings2 = პარამეტრების მართვა
 quickactions-cmd-settings = პარამეტრები, მახასიათებლები, გამართვა
@@ -344,8 +331,6 @@ quickactions-cmd-themes = თემები
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = განახლდეს { -brand-short-name }
 quickactions-cmd-update = განახლება
-# Opens the view-source UI with current pages source
-quickactions-viewsource = წყაროს ჩვენება
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = გვერდის წყაროს ჩვენება
 quickactions-cmd-viewsource = წყაროს ნახვა, პირველწყარო

@@ -77,7 +77,10 @@ deniedPortAccess-title = ეს მისამართი შეზღუდ�
 dnsNotFound-title = ჰმ. გვერდი არ იხსნება.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-dns-not-found-trr-only-title = შესაძლო საფრხე – { $hostname }.
+dns-not-found-trr-only-title = შესაძლო საფრთხეს შეიცავს { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = შესაძლო საფრთხეს შეიცავს { $hostname }.
 fileNotFound-title = ფაილი ვერ მოიძებნა
 fileAccessDenied-title = ფაილთან წვდომა უარყოფილია.
 generic-title = მოთხოვნის დასრულება ვერ ხერხდება
