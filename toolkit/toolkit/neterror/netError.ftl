@@ -60,24 +60,29 @@ neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
+neterror-dns-not-found-trr-only-attackers = Pokud budete pokračovat, třetí strany mohou zjistit, jaké webové stránky navštěvujete, nebo vás přesměrovat na nedůvěryhodný web.
 neterror-dns-not-found-trr-only-could-not-connect =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") } se nepodařilo připojit k { $trrDomain }.
-        [feminine] { -brand-short-name(case: "dat") } se nepodařilo připojit k { $trrDomain }.
-        [neuter] { -brand-short-name(case: "dat") } se nepodařilo připojit k { $trrDomain }.
-       *[other] Aplikaci { -brand-short-name } se nepodařilo připojit k { $trrDomain }.
+        [masculine] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
+        [feminine] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
+        [neuter] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
+       *[other] Aplikaci { -brand-short-name } se nepodařilo připojit k DNS překladači { $trrDomain }.
     }
-neterror-dns-not-found-trr-only-timeout = Připojení k { $trrDomain } trvalo déle, než se očekávalo.
+neterror-dns-not-found-trr-only-timeout = Připojení k DNS překladači { $trrDomain } trvalo déle, než se očekávalo.
 neterror-dns-not-found-trr-offline = Nejste připojeni k internetu.
-neterror-dns-not-found-trr-server-problem = Vyskytl se problém s { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host = DNS překladač { $trrDomain } nenalezl adresu pro tento server.
+neterror-dns-not-found-trr-server-problem = Vyskytl se problém s DNS překladačem { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Neočekávaný problém.
 
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
+neterror-dns-not-found-native-fallback-attackers = Můžete pokračovat s použitím překladače, který není zabezpečený. Třetí strany pak ale mohou zjistit, jaké webové stránky navštěvujete, nebo vás přesměrovat na nedůvěryhodný web.
 neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPs je ve vaší síti zakázáno.
-neterror-dns-not-found-native-fallback-not-confirmed = Připojení k { $trrDomain } ještě není připraveno.
+neterror-dns-not-found-native-fallback-not-confirmed = Připojení k DNS překladači { $trrDomain } ještě není připraveno.
 
 ##
 
