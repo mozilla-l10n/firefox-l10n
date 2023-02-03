@@ -32,7 +32,7 @@ permission-dialog-description-extension-app = ნებას რთავთ �
 
 permission-dialog-remember = მუდმივი ნებართვა, რომ <strong>{ $host }</strong> გახსნის <strong>{ $scheme }</strong>-ბმულებს.
 permission-dialog-remember-file = ყოველთვის ამ ფაილით გაიხსნას <strong>{ $scheme }</strong>-ბმულები
-permission-dialog-remember-extension = ნებართვა, რომ ეს გაფართოება ყოველთვის გახსნის <strong>{ $scheme }</strong>-ბმულება
+permission-dialog-remember-extension = ნებართვა, რომ ეს გაფართოება ყოველთვის გახსნის <strong>{ $scheme }</strong>-ბმულებს
 
 ##
 

@@ -45,4 +45,4 @@ screenshots-private-window-error-details = ბოდიშს გიხდით
 screenshots-generic-error-title = ვაი! { -screenshots-brand-name } მწყობრიდან გამოვიდა.
 screenshots-generic-error-details = გაუგებარია რა მოხდა. ისევ ცდით ხელახლა, თუ სხვა ვებგვერდს გადაუღებთ სურათს?
 screenshots-too-large-error-title = ეკრანის სურათი მოიჭრა, ვინაიდან ზედმეტად დიდი იყო
-screenshots-too-large-error-details = ეცადეთ მონიშნოთ არე არაუმეტეს 32 700 პიქსელიანი გვერდით ან 124 900 000 პიქსელით ჯამში.
+screenshots-too-large-error-details = ეცადეთ მონიშნოთ არე არაუმეტეს 32 700 პიქსელიანი გვერდით ან ჯამში 124 900 000 პიქსელით.
