@@ -45,3 +45,4 @@ screenshots-private-window-error-details = Aksaklıktan dolayı özür dileriz. 
 screenshots-generic-error-title = { -screenshots-brand-name } kafayı yedi!
 screenshots-generic-error-details = Ne olduğunu biz de anlamadık. Bir daha denemeye veya başka bir sayfanın ekran görüntüsünü almaya ne dersiniz?
 screenshots-too-large-error-title = Ekran görüntünüz çok büyük olduğu için kırpıldı
+screenshots-too-large-error-details = En uzun kenarı 32.700 pikselden veya toplam alanı 124.900.000 pikselden küçük olan bir bölge seçmeyi deneyin.

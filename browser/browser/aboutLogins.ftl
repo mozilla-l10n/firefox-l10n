@@ -106,6 +106,7 @@ login-item-time-used = Son kullanım: { DATETIME($timeUsed, day: "numeric", mont
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Oluşturma
 login-item-timeline-action-updated = Güncelleme
 login-item-timeline-action-used = Kullanma

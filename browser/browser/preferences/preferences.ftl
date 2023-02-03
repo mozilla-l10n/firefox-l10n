@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Ziyaret etmediğim sitelerden gelen çerezler
 sitedata-option-block-all-third-party =
     .label = Tüm üçüncü taraf çerezleri (Bazı siteler bozulabilir.)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Tüm siteler arası çerezler (Bazı siteler düzgün çalışmayabilir)
 sitedata-option-block-all =
     .label = Tüm çerezler (Bazı siteler bozulabilir.)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Tüm çerezler
 content-blocking-unvisited-cookies = Ziyaret etmediğim sitelerden gelen çerezler
 content-blocking-all-windows-tracking-content = Tüm pencerelerde takip amaçlı içerikler
 content-blocking-all-third-party-cookies = Tüm üçüncü taraf çerezlerini engeller
+content-blocking-all-cross-site-cookies = Tüm siteler arası çerezler
 content-blocking-cryptominers = Kripto madencileri
 content-blocking-fingerprinters = Parmak izi toplayıcılar
 # "Test pilot" is used as a verb. Possible alternatives:
