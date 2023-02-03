@@ -12,3 +12,4 @@ confirmation-hint-password-saved = Heslo uloženo
 confirmation-hint-pin-tab = Připnuto!
 confirmation-hint-pin-tab-description = Pro odepnutí panelu na něj klepněte pravým tlačítkem.
 confirmation-hint-send-to-device = Odesláno
+confirmation-hint-firefox-relay-mask-generated = Vygenerována nová maska { -relay-brand-short-name(case: "gen") }!

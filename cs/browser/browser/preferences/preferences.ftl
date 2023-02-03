@@ -289,10 +289,10 @@ preferences-web-appearance-override-warning = Vaše nastavení upravuje vzhled s
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer =
     { -brand-short-name.gender ->
-        [masculine] Vzhled { -brand-short-name(case: "gen") } nastavíte v <a data-l10n-name="themes-link">Doplňky a vzhledy</a>
-        [feminine] Vzhled { -brand-short-name(case: "gen") } nastavíte v <a data-l10n-name="themes-link">Doplňky a vzhledy</a>
-        [neuter] Vzhled { -brand-short-name(case: "gen") } nastavíte v <a data-l10n-name="themes-link">Doplňky a vzhledy</a>
-       *[other] Vzhled aplikace { -brand-short-name } nastavíte v <a data-l10n-name="themes-link">Doplňky a vzhledy</a>
+        [masculine] Vzhled { -brand-short-name(case: "gen") } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
+        [feminine] Vzhled { -brand-short-name(case: "gen") } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
+        [neuter] Vzhled { -brand-short-name(case: "gen") } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
+       *[other] Vzhled aplikace { -brand-short-name } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
     }
 preferences-colors-header = Barvy
 preferences-colors-description = Nastavení výchozích barev pro text, odkazy a pozadí webových stránek.
@@ -959,6 +959,7 @@ forms-breach-alerts =
     .label = Upozorňovat na hesla uložená pro servery, kde došlo k úniku dat
     .accesskey = ú
 forms-breach-alerts-learn-more-link = Zjistit více
+relay-integration-learn-more-link = Zjistit více
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automaticky vyplňovat přihlašovací údaje
@@ -1173,6 +1174,9 @@ content-blocking-fingerprinters = Vytváření otisku prohlížeče
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Vyzkoušejte naši zatím nejsilnější funkci na ochranu soukromí
     .accesskey = t
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana před cookies omezuje cookies na web, na němž se nacházíte, aby vás sledující subjekty nemohly sledovat napříč stránkami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více

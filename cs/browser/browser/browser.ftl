@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tip:
 urlbar-result-menu-button =
     .title = Otevře nabídku
+urlbar-result-menu-tip-get-help =
+    .label = Získat pomoc
+    .accesskey = Z
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -278,32 +281,20 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Zobrazit doplňky
 quickactions-cmd-addons2 = doplňky
-# Opens the bookmarks library window
-quickactions-bookmarks = Zobrazit záložky
 quickactions-cmd-bookmarks = záložky
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vymazat historii
 quickactions-cmd-clearhistory = vymazat historii
-# Opens about:downloads page
-quickactions-downloads = Otevřít seznam stahování
 quickactions-cmd-downloads = stahování
 # Opens about:addons page in the extensions section
 quickactions-extensions = Správa rozšíření
 quickactions-cmd-extensions = rozšíření
-# Opens the devtools web inspector
-quickactions-inspector = Otevřít průzkumník
 quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
-# Opens about:logins
-quickactions-logins = Zobrazit přihlašovací údaje
 quickactions-cmd-logins = přihlašovací údaje, hesla
 # Opens about:addons page in the plugins section
 quickactions-plugins = Správa zásuvných modulů
 quickactions-cmd-plugins = zásuvné moduly
-# Opens the print dialog
-quickactions-print = Tisk
 quickactions-cmd-print = tisk
-# Opens a new private browsing window
-quickactions-private = Otevřít nové anonymní okno
 quickactions-cmd-private = anonymní prohlížení
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh =
@@ -323,11 +314,7 @@ quickactions-restart =
        *[other] Restartovat aplikaci { -brand-short-name }
     }
 quickactions-cmd-restart = restart, restartovat
-# Opens the screenshot tool
-quickactions-screenshot2 = Pořídit snímek stránky
 quickactions-cmd-screenshot = snímek obrazovky, stránky
-# Opens about:preferences
-quickactions-settings = Otevřít nastavení
 quickactions-cmd-settings = nastavení, předvolby, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Nastavení vzhledu
@@ -341,8 +328,6 @@ quickactions-update =
        *[other] Aktualizace aplikace { -brand-short-name }
     }
 quickactions-cmd-update = aktualizace, aktualizovat
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Zobrazit zdrojový kód
 quickactions-cmd-viewsource = zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1026,6 +1011,10 @@ unified-extensions-button =
     .label = Rozšíření
     .tooltiptext = Rozšíření
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label =
@@ -1045,3 +1034,6 @@ refresh-blocked-redirect-label =
 refresh-blocked-allow =
     .label = Povolit
     .accesskey = P
+
+## Firefox Relay integration
+

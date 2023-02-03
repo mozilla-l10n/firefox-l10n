@@ -47,6 +47,8 @@ firefoxview-tabpickup-sync-disconnected-primarybutton = Zapnout synchronizaci v 
 firefoxview-tabpickup-password-locked-header = Pro zobrazení panelů zadejte své hlavní heslo
 firefoxview-tabpickup-password-locked-link = Zjistit více
 firefoxview-tabpickup-password-locked-primarybutton = Zadat hlavní heslo
+firefoxview-tabpickup-signed-out-header = Pro opětovné připojení se přihlaste
+firefoxview-tabpickup-signed-out-primarybutton = Přihlásit se
 firefoxview-mobile-promo-header = Vezměte si sem panely z telefonu nebo tabletu
 firefoxview-mobile-promo-description =
     { -brand-product-name.gender ->
@@ -65,7 +67,12 @@ firefoxview-mobile-promo-primarybutton =
 firefoxview-mobile-confirmation-header = 🎉 Jdeme na to!
 firefoxview-closed-tabs-title = Nedávno zavřené
 firefoxview-closed-tabs-description2 = Znovu otevřete stránky, které jste v tomto okně zavřeli.
-firefoxview-closed-tabs-placeholder = <strong>V poslední době jste nezavřeli žádné panely</strong><br/>Už se nemusíte bát, že přijdete o zavřené panely. Tady je vždy najdete.
+firefoxview-closed-tabs-placeholder-header = Žádné nedávno zavřené panely
+firefoxview-closed-tabs-placeholder-body = Když v tomto okně zavřete panel, můžete ho načíst odtud.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Zavřít { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Nedávno používaný
 # Variables:
@@ -73,19 +80,12 @@ firefoxview-pickup-tabs-badge = Nedávno používaný
 firefoxview-tabs-list-tab-button =
     .title = Otevřít { $targetURI } v novém panelu
 firefoxview-try-colorways-button = Vyzkoušet palety barev
-firefoxview-no-current-colorway-collection = Nové palety barev jsou na cestě
 firefoxview-change-colorway-button = Změnit paletu barev
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder =
-    { -brand-product-name.gender ->
-        [masculine] <strong>Zatím tu nic není</strong><br/>Až příště ve { -brand-product-name(case: "loc") } na jiném zařízení otevřete nějakou stránku, můžete si ji tu vyzvednout.
-        [feminine] <strong>Zatím tu nic není</strong><br/>Až příště v { -brand-product-name(case: "loc") } na jiném zařízení otevřete nějakou stránku, můžete si ji tu vyzvednout.
-        [neuter] <strong>Zatím tu nic není</strong><br/>Až příště ve { -brand-product-name(case: "loc") } na jiném zařízení otevřete nějakou stránku, můžete si ji tu vyzvednout.
-       *[other] <strong>Zatím tu nic není</strong><br/>Až příště v aplikaci { -brand-product-name } na jiném zařízení otevřete nějakou stránku, můžete si ji tu vyzvednout.
-    }
+firefoxview-synced-tabs-placeholder-header = Zatím tu nic není
 firefoxview-collapse-button-show =
     .title = Zobrazit seznam
 firefoxview-collapse-button-hide =
