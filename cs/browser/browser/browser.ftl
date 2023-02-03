@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tip:
 urlbar-result-menu-button =
     .title = Otevře nabídku
+urlbar-result-menu-remove-from-history =
+    .label = Smazat z historie
+    .accesskey = r
 urlbar-result-menu-tip-get-help =
     .label = Získat pomoc
     .accesskey = Z
@@ -155,6 +158,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Méně psaní, více výsledků: používejte { $engineName } přímo z adresního řádku.
 urlbar-search-tips-redirect-2 = Zadejte do adresního řádku vyhledávaný text a uvidíte návrhy z vyhledávače { $engineName } a vaší historie prohlížení.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Vyhledávání je nyní jednodušší. Zkuste své vyhledávání upřesnit zde v adresním řádku. Chcete-li místo toho zobrazit adresu URL, přejděte v nastavení do Vyhledávání.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Klepněte na tuto zkratku, abyste rychleji našli, co potřebujete.
@@ -281,20 +286,32 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Zobrazit doplňky
 quickactions-cmd-addons2 = doplňky
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Správa záložek
 quickactions-cmd-bookmarks = záložky
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vymazat historii
 quickactions-cmd-clearhistory = vymazat historii
+# Opens about:downloads page
+quickactions-downloads2 = Zobrazit stahování
 quickactions-cmd-downloads = stahování
 # Opens about:addons page in the extensions section
 quickactions-extensions = Správa rozšíření
 quickactions-cmd-extensions = rozšíření
+# Opens the devtools web inspector
+quickactions-inspector2 = Otevřít nástroje pro vývojáře
 quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
+# Opens about:logins
+quickactions-logins2 = Správa přihlašovacích údajů
 quickactions-cmd-logins = přihlašovací údaje, hesla
 # Opens about:addons page in the plugins section
 quickactions-plugins = Správa zásuvných modulů
 quickactions-cmd-plugins = zásuvné moduly
+# Opens the print dialog
+quickactions-print2 = Vytisknout stránku
 quickactions-cmd-print = tisk
+# Opens a new private browsing window
+quickactions-private2 = Otevřít anonymní okno
 quickactions-cmd-private = anonymní prohlížení
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh =
@@ -314,7 +331,11 @@ quickactions-restart =
        *[other] Restartovat aplikaci { -brand-short-name }
     }
 quickactions-cmd-restart = restart, restartovat
+# Opens the screenshot tool
+quickactions-screenshot3 = Pořídit snímek stránky
 quickactions-cmd-screenshot = snímek obrazovky, stránky
+# Opens about:preferences
+quickactions-settings2 = Nastavení
 quickactions-cmd-settings = nastavení, předvolby, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Nastavení vzhledu
@@ -328,6 +349,8 @@ quickactions-update =
        *[other] Aktualizace aplikace { -brand-short-name }
     }
 quickactions-cmd-update = aktualizace, aktualizovat
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Zobrazit zdrojový kód stránky
 quickactions-cmd-viewsource = zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1014,6 +1037,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Rozšíření
+    .tooltiptext =
+        Rozšíření
+        Vyžadována oprávnění
 
 ## Autorefresh blocker
 
@@ -1037,3 +1065,15 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = Služba { -relay-brand-name } skryje vaši skutečnou e-mailovou adresu, aby vás ochránila před úniky dat a nevyžádanou poštou.
+firefox-relay-offer-how-we-integrate =
+    { -brand-shorter-name.gender ->
+        [masculine] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů ve { -brand-shorter-name(case: "loc") }.
+        [feminine] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů v { -brand-shorter-name(case: "loc") }.
+        [neuter] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů v { -brand-shorter-name(case: "loc") }.
+       *[other] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů v aplikaci { -brand-shorter-name }.
+    }
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Všechny e-maily z <strong>{ $sitename }</strong> přepošleme na <strong>{ $useremail }</strong>.
