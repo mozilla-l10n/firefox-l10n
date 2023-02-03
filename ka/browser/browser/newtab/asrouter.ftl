@@ -271,3 +271,6 @@ cfr-cookiebanner-reject-button-variant-2 = ახლა არა
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = ჩვენ გიცავთ
+july-jam-body = ყოველთვიურად, { -brand-short-name } ზღუდავს საშუალოდ 3000+ მეთვალყურეს თითოეულ მომხმარებელზე, შედეგად იღებთ უსაფრთხო, სწრაფ წვდომას ჯანსაღ ინტერნეტსივრცესთან.
+july-jam-set-default-primary = ბმულებს გახსნის { -brand-short-name }
