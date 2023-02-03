@@ -7,6 +7,8 @@ about-logins-page-title = Credenciais e palavras-passe
 login-filter =
     .placeholder = Pesquisar credenciais
 create-login-button = Criar nova credencial
+create-new-login-button =
+    .title = Criar nova credencial
 fxaccounts-sign-in-text = Obtenha as suas palavras-passe nos seus outros dispositivos
 fxaccounts-sign-in-sync-button = Iniciar sessão para sincronizar
 fxaccounts-avatar-button =
@@ -104,6 +106,7 @@ login-item-time-used = Última utilização: { DATETIME($timeUsed, day: "numeric
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Criado
 login-item-timeline-action-updated = Atualizado
 login-item-timeline-action-used = Utilizado
