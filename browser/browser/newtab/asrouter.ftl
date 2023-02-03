@@ -247,12 +247,22 @@ colorways-cfr-header-today = “凡人之声”配色今日到期
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = 消失吧，Cookie 横幅！
 cfr-cookiebanner-body = 允许 { -brand-short-name } 尽可能自动拒绝所有 Cookie 横幅的请求。
+cfr-cookiebanner-accept-button = 关闭横幅
+    .accesskey = D
+cfr-cookiebanner-reject-button = 暂时不要
+    .accesskey = N
 cfr-cookiebanner-header-variant-1 = 减少 Cookie 弹窗
 cfr-cookiebanner-body-variant-1 = 让 { -brand-short-name } 自动帮您回应 Cookie 弹窗，实现无干扰浏览体验。{ -brand-short-name } 将尽可能拒绝所有请求。
 cfr-cookiebanner-accept-button-variant-1 = 关闭 Cookie 弹窗
     .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = 不了，谢谢
+    .accesskey = N
 cfr-cookiebanner-header-variant-2 = 减少 Cookie 横幅
 cfr-cookiebanner-body-variant-2 = 允许 { -brand-short-name } 尽可能拒绝网站的 Cookie 请求，从而减少您看到的 Cookie 横幅。
+cfr-cookiebanner-accept-button-variant-2 = 允许
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = 暂时不要
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = 从历史记录移除
     .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = 获取帮助
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = 查看附加组件
 quickactions-cmd-addons2 = 附加组件
 # Opens the bookmarks library window
-quickactions-bookmarks = 查看书签
-# Opens the bookmarks library window
 quickactions-bookmarks2 = 管理书签
 quickactions-cmd-bookmarks = 书签, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 清除历史
 quickactions-cmd-clearhistory = 清除历史, clear history
-# Opens about:downloads page
-quickactions-downloads = 打开下载
 # Opens about:downloads page
 quickactions-downloads2 = 查看下载
 quickactions-cmd-downloads = 下载, downloads
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = 下载, downloads
 quickactions-extensions = 管理扩展
 quickactions-cmd-extensions = 扩展
 # Opens the devtools web inspector
-quickactions-inspector = 查看源代码
-# Opens the devtools web inspector
 quickactions-inspector2 = 打开开发者工具
 quickactions-cmd-inspector = 查看器, 开发工具, inspector, devtools
-# Opens about:logins
-quickactions-logins = 查看登录信息
 # Opens about:logins
 quickactions-logins2 = 管理密码
 quickactions-cmd-logins = 登录信息, 密码, logins, passwords
@@ -313,12 +308,8 @@ quickactions-cmd-logins = 登录信息, 密码, logins, passwords
 quickactions-plugins = 管理插件
 quickactions-cmd-plugins = 插件
 # Opens the print dialog
-quickactions-print = 打印
-# Opens the print dialog
 quickactions-print2 = 打印页面
 quickactions-cmd-print = 打印, print
-# Opens a new private browsing window
-quickactions-private = 打开隐私浏览窗口
 # Opens a new private browsing window
 quickactions-private2 = 打开隐私窗口
 quickactions-cmd-private = 隐私浏览, private browsing
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = 刷新, refresh
 quickactions-restart = 重启 { -brand-short-name }
 quickactions-cmd-restart = 重新启动, 重启, restart
 # Opens the screenshot tool
-quickactions-screenshot2 = 截图
-# Opens the screenshot tool
 quickactions-screenshot3 = 截图
 quickactions-cmd-screenshot = 截图, screenshot
-# Opens about:preferences
-quickactions-settings = 打开设置
 # Opens about:preferences
 quickactions-settings2 = 管理设置
 quickactions-cmd-settings = 设置, 偏好设置, 选项, settings, preferences, options
@@ -344,8 +331,6 @@ quickactions-cmd-themes = 主题
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
-# Opens the view-source UI with current pages source
-quickactions-viewsource = 查看源代码
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 查看页面源代码
 quickactions-cmd-viewsource = 查看源代码, 源代码, view source, source
