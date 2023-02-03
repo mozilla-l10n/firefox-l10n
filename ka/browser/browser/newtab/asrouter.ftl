@@ -57,6 +57,29 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } მომხმარებელი
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = ფუნთუშის მოთხოვნის აბრებო, აქშა!
+cfr-cookie-banner-handling-body = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს ფუნთუშების ყველა მოთხოვნას, როცა კი შესაძლებელია. თუ არადა ყველა ფუნთუშის თანხმობით მოცილდება კიდევ უფრო მეტი აბრა.
+cfr-cookie-banner-accept-button = მოთხოვნების არიდება
+    .accesskey = რ
+cfr-cookie-banner-reject-button = ახლა არა
+    .accesskey = ა
+cfr-cookie-banner-handling-header-variant-1 = იხილეთ ნაკლები ამომხტარი მოთხოვნები
+cfr-cookie-banner-handling-body-variant-1 = დართეთ ნება და { -brand-short-name } თავადვე უპასუხებს ფუნთუშების ამომხტარ მოთხოვნებს, რომ შეუფერხებლად განაგრძოთ გვერდების მონახულება. { -brand-short-name } უარყოფს ყველას, როცა კი შესაძლებელია, თუ არადა – ყველას დათანხმდება.
+cfr-cookie-banner-accept-button-variant-1 = ამომხტომების არიდება
+    .accesskey = რ
+cfr-cookie-banner-reject-button-variant-1 = არა, გმადლობთ
+    .accesskey = ა
+cfr-cookie-banner-handling-header-variant-2 = ფუნთუშის მოთხოვნების შემცირება
+cfr-cookie-banner-handling-body-variant-2 = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს საიტის მიერ ფუნთუშების მოთხოვნას, როცა კი შესაძლებელი იქნება, ანდა თანხმობით იცილებდეს.
+cfr-cookie-banner-accept-button-variant-2 = ნებართვა
+    .accesskey = ნ
+cfr-cookie-banner-reject-button-variant-2 = ახლა არა
+    .accesskey = ა
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = დაასინქრონეთ სანიშნები ყველგან.
@@ -156,10 +179,6 @@ spotlight-total-cookie-protection-body = ფუნთუშების სრ�
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ზღუდეს შემოავლებს ფუნთუშებს, რომ ვერ გასცდეს იმ საიტს, რომელზეც იმყოფებით და მეთვალყურეებიც ვეღარ დაგედევნებიან. ადრეული წვდომით, დაგვეხმარებით ამ შესაძლებლობის დახვეწაში, შედეგად შევძლებთ გავხადოთ ვებსამყარო უკეთესი, ყველასათვის.
 spotlight-total-cookie-protection-primary-button = ჩართეთ ფუნთუშების სრული გამიჯვნა
 spotlight-total-cookie-protection-secondary-button = ახლა არა
-cfr-total-cookie-protection-header = თქვენი წყალობით, { -brand-short-name } არნახულად პირადული და დაცულია.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = ფუნთუშების სრული გამიჯვნა არნახულად მძლავრი დაცვაა პირადულობისთვის – და ახლა უკვე ნაგულისხმევ პარამეტრად სთავაზობს { -brand-short-name } ყველა მომხმარებელს. ამას ვერ მოვახერხებდით თქვენი, ადრეული წვდომის მონაწილეებისა და გამომცდელების გარეშე. ასე რომ, გმადლობთ უკეთესი, მეტად პირადული ინტერნეტის შექმნაში მხარდაჭერისთვის.
 
 ## Emotive Continuous Onboarding
 
@@ -206,8 +225,6 @@ firefoxview-cfr-primarybutton = მოსინჯვა
     .accesskey = ჯ
 firefoxview-cfr-secondarybutton = ახლა არა
     .accesskey = ა
-firefoxview-cfr-header = დააბრუნეთ ბოლოს დახურული ჩანართები { -firefoxview-brand-name(case: "ins") }
-firefoxview-cfr-body = ამასთანავე, შეუფერხებლად გადაერთეთ მოწყობილობებს შორის და შეაფერადეთ თქვენი ბრაუზერი.
 firefoxview-cfr-header-v2 = სწრაფადვე განაგრძეთ იქიდან, სადაც გაჩერდით
 firefoxview-cfr-body-v2 = დაიბრუნეთ ახლახან დახურული ჩანართები და ამასთანავე, შეუფერხებლად გადაერთეთ მოწყობილობებს შორის { -firefoxview-brand-name(case: "ins") }.
 
@@ -229,3 +246,28 @@ colorways-cfr-header-28days = დამოუკიდებელი ხმე�
 colorways-cfr-header-14days = დამოუკიდებელი ხმების შეფერილობებს ვადა გასდის ორ კვირაში
 colorways-cfr-header-7days = დამოუკიდებელი ხმების შეფერილობებს ვადა გასდის ამ კვირაში
 colorways-cfr-header-today = დამოუკიდებელი ხმების შეფერილობებს ვადა გასდის დღეს
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = ფუნთუშის მოთხოვნის აბრებო, აქშა!
+cfr-cookiebanner-body = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს ფუნთუშების ყველა მოთხოვნას, როცა კი შესაძლებელია.
+cfr-cookiebanner-accept-button = აბრების არიდება
+    .accesskey = რ
+cfr-cookiebanner-reject-button = ახლა არა
+    .accesskey = ა
+cfr-cookiebanner-header-variant-1 = იხილეთ ნაკლები ამომხტარი მოთხოვნები
+cfr-cookiebanner-body-variant-1 = დართეთ ნება და { -brand-short-name } თავადვე უპასუხებს ფუნთუშების ამომხტარ მოთხოვნებს, რომ შეუფერხებლად განაგრძოთ გვერდების მონახულება. { -brand-short-name } უარყოფს ყველას, როცა კი შესაძლებელია.
+cfr-cookiebanner-accept-button-variant-1 = ამომხტომების არიდება
+    .accesskey = რ
+cfr-cookiebanner-reject-button-variant-1 = არა, გმადლობთ
+    .accesskey = ა
+cfr-cookiebanner-header-variant-2 = ფუნთუშის მოთხოვნების შემცირება
+cfr-cookiebanner-body-variant-2 = შეამცირეთ ფუნთუშების აბრები, დართეთ ნება და { -brand-short-name } თავადვე უარყოფს საიტის ფუნთუშის მიღების მოთხოვნებს, როცა კი შესაძლებელია.
+cfr-cookiebanner-accept-button-variant-2 = ნებართვა
+    .accesskey = ნ
+cfr-cookiebanner-reject-button-variant-2 = ახლა არა
+    .accesskey = ა
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
