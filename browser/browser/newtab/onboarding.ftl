@@ -27,6 +27,7 @@ return-to-amo-add-theme-label = Přidat motiv vzhledu
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-add-extension-label = Přidat doplněk { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -463,6 +464,8 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Žádné uložené cooki
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Vždy respektujeme vaše soukromí
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Zobrazit podrobnosti
 
 ## MR2022 Multistage Gratitude screen strings
 
@@ -479,6 +482,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Začít prohlížet
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Ciťte se jako doma
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech

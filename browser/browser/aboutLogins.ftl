@@ -7,6 +7,8 @@ about-logins-page-title = Přihlašovací údaje
 login-filter =
     .placeholder = Hledat přihlašovací údaje
 create-login-button = Nové přihlašovací údaje
+create-new-login-button =
+    .title = Nové přihlašovací údaje
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
 fxaccounts-sign-in-sync-button = Přihlásit se k synchronizaci
 fxaccounts-avatar-button =
@@ -122,6 +124,15 @@ login-item-cancel-button = Zrušit
 login-item-time-changed = Naposledy změněno { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Vytvořeno { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Naposledy použito { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Vytvořeno
+login-item-timeline-action-updated = Aktualizováno
+login-item-timeline-action-used = Použito
 
 ## OS Authentication dialog
 
