@@ -24,7 +24,10 @@ neterror-pref-reset-button = Obnovit výchozí nastavení
 neterror-return-to-previous-page-button = Zpátky
 neterror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
 neterror-try-again-button = Zkusit znovu
+neterror-add-exception-button = Na tomto webu vždy pokračovat
+neterror-settings-button = Změnit nastavení DNS
 neterror-view-certificate-link = Zobrazit certifikát
+neterror-disable-native-feedback-warning = Vždy pokračovat
 
 ##
 
@@ -51,6 +54,33 @@ neterror-dns-not-found-hint-header = <strong>Pokud jste adresu zadali správně:
 neterror-dns-not-found-hint-try-again = Zkuste to znovu
 neterror-dns-not-found-hint-check-network = Zkontrolujte připojení k síti
 neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name } povolený přístup na web (může být omezen firewallem).
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-only-could-not-connect =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "dat") } se nepodařilo připojit k { $trrDomain }.
+        [feminine] { -brand-short-name(case: "dat") } se nepodařilo připojit k { $trrDomain }.
+        [neuter] { -brand-short-name(case: "dat") } se nepodařilo připojit k { $trrDomain }.
+       *[other] Aplikaci { -brand-short-name } se nepodařilo připojit k { $trrDomain }.
+    }
+neterror-dns-not-found-trr-only-timeout = Připojení k { $trrDomain } trvalo déle, než se očekávalo.
+neterror-dns-not-found-trr-offline = Nejste připojeni k internetu.
+neterror-dns-not-found-trr-server-problem = Vyskytl se problém s { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Neočekávaný problém.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPs je ve vaší síti zakázáno.
+neterror-dns-not-found-native-fallback-not-confirmed = Připojení k { $trrDomain } ještě není připraveno.
+
+##
+
 neterror-file-not-found-filename = Zkontrolujte, že je název souboru napsán správně, a to včetně velikosti písmen.
 neterror-file-not-found-moved = Zkontrolujte, že soubor nebyl přesunut, přejmenován nebo smazán.
 neterror-access-denied = Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.

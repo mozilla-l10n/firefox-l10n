@@ -31,6 +31,7 @@ update-failed = Aktualizace selhala. <label data-l10n-name="failed-link">Stáhno
 update-failed-main = Aktualizace selhala. <a data-l10n-name="failed-link-main">Stáhnout nejnovější verzi</a>
 update-adminDisabled = Aktualizace jsou zakázány správcem
 update-noUpdatesFound = { -brand-short-name } je aktuální
+aboutdialog-update-checking-failed = Kontrola aktualizací se nezdařila
 update-otherInstanceHandlingUpdates =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } je aktualizován jinou instancí
