@@ -746,6 +746,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Našeptávat dotazy pro vyhledávač také v adresním řádku
     .accesskey = e
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Pro výsledky výchozího vyhledávače zobrazovat vyhledané výrazy místo jeho URL adresy
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -1088,6 +1093,8 @@ sitedata-option-block-unvisited =
     .label = Cookies z dosud nenavštívených stránek
 sitedata-option-block-all-third-party =
     .label = Všechny cookies třetích stran (může omezit fungování některých stránek)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Všechny cross-site cookies (může omezit fungování některých stránek)
 sitedata-option-block-all =
     .label = Všechny cookies (omezí fungování některých stránek)
 sitedata-clear =
@@ -1167,6 +1174,7 @@ content-blocking-all-cookies = Všechny cookies
 content-blocking-unvisited-cookies = Cookies z dosud nenavštívených stránek
 content-blocking-all-windows-tracking-content = Sledující obsah blokován ve všech oknech
 content-blocking-all-third-party-cookies = Všechny cookies třetích stran blokovány vždy
+content-blocking-all-cross-site-cookies = Všechny cross-site cookies
 content-blocking-cryptominers = Těžba kryptoměn
 content-blocking-fingerprinters = Vytváření otisku prohlížeče
 # "Test pilot" is used as a verb. Possible alternatives:
