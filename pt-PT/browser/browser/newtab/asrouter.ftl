@@ -68,9 +68,13 @@ cfr-cookie-banner-accept-button = Rejeitar Pedidos
 cfr-cookie-banner-reject-button = Agora não
     .accesskey = A
 cfr-cookie-banner-handling-header-variant-1 = Ver menos pop-ups de cookies
+cfr-cookie-banner-handling-body-variant-1 = Permitir que o { -brand-short-name } responda automaticamente a pop-ups de cookies para que possa voltar a navegar sem distrações. O { -brand-short-name } irá rejeitar todos os pedidos, se for possível, ou aceitar todos caso contrário.
+cfr-cookie-banner-accept-button-variant-1 = Ignorar pop-ups
+    .accesskey = I
 cfr-cookie-banner-reject-button-variant-1 = Não, obrigado
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Redução de Faixas de Cookies
+cfr-cookie-banner-handling-body-variant-2 = Permitir que o { -brand-short-name } recuse o pedido de consentimento de cookies de um site, se for possível ou, no caso de não ser possível, aceite o acesso a cookies?
 cfr-cookie-banner-accept-button-variant-2 = Permitir
     .accesskey = P
 cfr-cookie-banner-reject-button-variant-2 = Agora não
@@ -245,9 +249,17 @@ colorways-cfr-header-today = Os estilos de cor de Independent Voices expiram hoj
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Desapareçam faixas de cookies!
+cfr-cookiebanner-body = Permitir que o { -brand-short-name } rejeite automaticamente todos os pedidos de cookies, sempre que possível.
+cfr-cookiebanner-accept-button = Ignorar faixas
+    .accesskey = I
 cfr-cookiebanner-reject-button = Agora não
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Ver menos pop-ups de cookies
+cfr-cookiebanner-body-variant-1 = Permitir que o { -brand-short-name } responda automaticamente a pop-ups de cookies para que possa voltar a navegar sem distrações. O { -brand-short-name } irá rejeitar todos os pedidos, se for possível.
+cfr-cookiebanner-accept-button-variant-1 = Descartar pop-ups
+    .accesskey = D
 cfr-cookiebanner-reject-button-variant-1 = Não, obrigado
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Redução de Faixas de Cookies
