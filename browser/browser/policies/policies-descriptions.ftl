@@ -90,6 +90,7 @@ policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro insta
 policy-ExtensionSettings = Správa všech aspektů instalace rozšíření.
 policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
 policy-FirefoxHome = Nastavení domovské stránky prohlížeče.
+policy-FirefoxHome2 = Nakonfiguruje { -firefox-home-brand-name(case: "acc") }.
 policy-FlashPlugin = Povolení nebo zablokování zásuvného modulu Flash.
 policy-Handlers = Nastavení výchozích aplikací pro odkazy a typy souborů.
 policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
