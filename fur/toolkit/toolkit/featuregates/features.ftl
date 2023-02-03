@@ -47,3 +47,4 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Struments di disvilup: debug dal service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Al abilite il supuart sperimentâl pai Service Workers tal panel di debug. Cheste funzionalitât e podarès morestâ i Struments di disvilup e incressi la memorie doprade.
+experimental-features-accessibility-cache-description = Al met te cache dutis lis informazions di acessibilitât di ducj i documents tal procès principâl di { -brand-short-name }. Chest al miore lis prestazions pai letôrs di schermi e altris aplicazions che a doprin lis APIs di acessibilitât.
