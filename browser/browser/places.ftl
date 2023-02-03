@@ -117,13 +117,13 @@ places-forget-about-this-site-confirmation-title = Zapomínání této stránky
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Tímto smažete všechna data související se serverem { $hostOrBaseDomain }, včetně historie prohlížení, cookies, mezipaměti, nastavení obsahu i uložených hesel. Opravdu to chcete provést?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Tímto smažete data související se serverem { $hostOrBaseDomain }, včetně historie prohlížení, cookies, mezipaměti a nastavení obsahu. Záložky a přihlašovací údaje smazány nebudou. Opravdu to chcete provést?
 places-forget-about-this-site-forget = Zapomenout
 places-library =
     .title = Knihovna stránek
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Knihovna stránek
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Knihovna stránek
 places-organize-button =
