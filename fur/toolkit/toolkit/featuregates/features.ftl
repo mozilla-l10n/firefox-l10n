@@ -47,8 +47,18 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Struments di disvilup: debug dal service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Al abilite il supuart sperimentâl pai Service Workers tal panel di debug. Cheste funzionalitât e podarès morestâ i Struments di disvilup e incressi la memorie doprade.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Comutazions dal cidinâ in mût globâl di WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Zonte controi al indicadôr di condivision globâl WebRTC che a permetin ai utents di interompi in mût globâl la condivision di microfons e fotocjamaris.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Ative Warp, un progjet par miorâ lis prestazions e il consum di memorie di JavaScript.
 # Search during IME
 experimental-features-ime-search =
     .label = Sbare de direzion: mostre i risultâts dilunc la composizion IME
 experimental-features-ime-search-description = Un IME (Editôr di Metodis di Input) al è un imprest che ti permet di inserî, doprant une tastiere standard, simbui complès, come chei doprâts in Asie orientâl o tes lenghis scritis indianis. Ativant chest esperiment il panel de sbare de direzion al restarà viert, mostrant i risultâts di ricercje e i sugjeriments, ancje cuant che si dopre IME par inserî il test. Note che IME al podarès visualizâ un panel che al cuvierç i risultâts de sbare de direzion, duncje cheste opzion e je conseade dome pai IME che che no doprin chest gjenar di panel.
+experimental-features-accessibility-cache =
+    .label = Cache di acessibilitât
 experimental-features-accessibility-cache-description = Al met te cache dutis lis informazions di acessibilitât di ducj i documents tal procès principâl di { -brand-short-name }. Chest al miore lis prestazions pai letôrs di schermi e altris aplicazions che a doprin lis APIs di acessibilitât.
