@@ -74,6 +74,13 @@ policy-DisableSecurityBypass = Zabránit uživateli obcházení některých bezp
 policy-DisableSetAsDesktopBackground = Zablokování kontextové nabídky obrázků pro jejich nastavení jako pozadí plochy.
 policy-DisableSystemAddonUpdate = Zablokování instalace a aktualizací systémových doplňků prohlížeče.
 policy-DisableTelemetry = Vypnutí telemetrie.
+policy-DisableThirdPartyModuleBlocking =
+    { -brand-short-name.gender ->
+        [masculine] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu { -brand-short-name(case: "gen") }.
+        [feminine] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu { -brand-short-name(case: "gen") }.
+        [neuter] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu { -brand-short-name(case: "gen") }.
+       *[other] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu aplikace { -brand-short-name }.
+    }
 policy-DisplayBookmarksToolbar = Zobrazení lišty záložek ve výchozím nastavení.
 policy-DisplayMenuBar = Zobrazení hlavní nabídky ve výchozím nastavení.
 policy-DNSOverHTTPS = Nastavení DNS over HTTPS.
@@ -83,6 +90,7 @@ policy-DownloadDirectory = Nastavení a uzamčení nastavení adresáře pro sta
 policy-EnableTrackingProtection = Zapnutí nebo vypnutí blokování obsahu a případně jeho uzamčení.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Zapnutí nebo vypnutí Encrypted Media Extensions a případně uzamčení tohoto nastavení.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Zakáže varování na základě přípony souborů pro konkrétní typy souborů v doménách.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -92,6 +100,7 @@ policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací roz�
 policy-FirefoxHome = Nastavení domovské stránky prohlížeče.
 policy-FirefoxHome2 = Nakonfiguruje { -firefox-home-brand-name(case: "acc") }.
 policy-FlashPlugin = Povolení nebo zablokování zásuvného modulu Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Vynutí přímou navigaci v intranetu namísto vyhledávání při zadání jednotlivých slov do adresního řádku.
 policy-Handlers = Nastavení výchozích aplikací pro odkazy a typy souborů.
 policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
 # “lock” means that the user won’t be able to change this setting
@@ -155,6 +164,7 @@ policy-SecurityDevices = Instalace modulů PKCS #11.
 policy-ShowHomeButton = Zobrazení domovského tlačítka na liště.
 policy-SSLVersionMax = Nastavení maximální verze SSL.
 policy-SSLVersionMin = Nastavení minimální verze SSL.
+policy-StartDownloadsInTempDirectory = Vynutí spuštění stahování v místním dočasném umístění místo výchozího adresáře pro stažené soubory.
 policy-SupportMenu = Přidání vlastní položky nabídky s nápovědou.
 policy-UserMessaging = Nezobrazovat uživateli určité zprávy.
 policy-UseSystemPrintDialog = Vytisknout pomocí systémového dialogu.
