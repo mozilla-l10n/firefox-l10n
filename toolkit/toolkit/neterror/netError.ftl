@@ -11,7 +11,7 @@ certerror-sts-page-title = Oprettede ikke forbindelse: Muligt sikkerhedsproblem
 neterror-blocked-by-policy-page-title = Blokeret side
 neterror-captive-portal-page-title = Login til netværk
 neterror-dns-not-found-title = Serveren blev ikke fundet
-neterror-malformed-uri-page-title = Udgyldig URL
+neterror-malformed-uri-page-title = Ugyldig URL
 
 ## Error page actions
 
