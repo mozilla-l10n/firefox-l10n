@@ -240,6 +240,11 @@ colorways-cfr-header-14days = Οι χρωματικοί συνδυασμοί «�
 colorways-cfr-header-7days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν αυτήν την εβδομάδα
 colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν σήμερα
 
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-reject-button-variant-2 = Όχι τώρα
+    .accesskey = χ
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Πάντα στο πλευρό σας
