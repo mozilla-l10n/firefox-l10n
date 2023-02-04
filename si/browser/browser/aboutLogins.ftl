@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = පිවිසුම් හා මුරපද
-
 login-filter =
     .placeholder = පිවිසුම් සොයන්න
-
 create-login-button = නව පිවිසුමක් සාදන්න
-
 fxaccounts-sign-in-text = ඔබගේ වෙනත් උපාංගවල තිබෙන මුරපද ගන්න
 fxaccounts-sign-in-sync-button = සමමුහූර්තයට පිවිසෙන්න
 fxaccounts-avatar-button =
@@ -99,6 +96,12 @@ login-item-time-changed = අවසාන යාවත්කාලය: { DATETIM
 login-item-time-created = සෑදුවේ: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = අවසාන භාවිතය: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = සෑදිණි
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -112,19 +115,16 @@ about-logins-edit-login-os-auth-dialog-message-win = ඔබගේ පිවි�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = සුරැකි පිවිසුම සංස්කරණය
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ඔබගේ මුරපදය දැකීමට, ඔබගේ වින්ඩෝස් පිවිසුම් අක්තපත්‍ර යොදන්න. මෙය ඔබගේ ගිණුම්වල සුරක්‍ෂිත බව රැක දීමට උපකාරී වේ.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = සුරකින ලද මුරපදය පෙන්වන්න
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = ඔබගේ මුරපදය පිටපත් කිරීමට, ඔබගේ වින්ඩෝස් පිවිසුම් අක්තපත්‍ර යොදන්න. මෙය ඔබගේ ගිණුම්වල සුරක්‍ෂිත බව රැක දීමට උපකාරී වේ.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = සුරකින ලද මුරපදය පෙන්වන්න
-
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = සුරැකි පිවිසුම් හා මුරපද නිර්යාත කරන්න
@@ -141,23 +141,19 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = අවලංගු
 confirmation-dialog-dismiss-button =
     .title = අවලංගු
-
 about-logins-confirm-remove-dialog-title = මෙම පිවිසුම මකන්නද?
 confirm-delete-dialog-message = මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
 about-logins-confirm-remove-dialog-confirm-button = ඉවත් කරන්න
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ඉවත් කරන්න
        *[other] සියල්ල ඉවතලන්න
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] ඔව්, මෙම පිවිසුම ඉවලන්න
        *[other] ඔව්, මෙම පිවිසුම් ඉවතලන්න
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] පිවිසුම ඉවතලන්නද?
@@ -168,20 +164,16 @@ about-logins-confirm-remove-all-dialog-message =
         [1] මෙය ඔබ { -brand-short-name } වෙත සුරකින ලද පිවිසුම සහ මෙහි දිස්වන සියළුම උල්ලංඝන ඇඟවීම් ඉවත් කරයි. මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
        *[other] මෙය ඔබ { -brand-short-name } වෙත සුරකින ලද පිවිසුම් සහ මෙහි දිස්වන සියළුම උල්ලංඝන ඇඟවීම් ඉවත් කරයි. මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
        *[other] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
     }
-
 about-logins-confirm-export-dialog-title = පිවිසුම් හා මුරපද නිර්යාත කරන්න
 about-logins-confirm-export-dialog-message = ඔබගේ මුරපද කියවීමට හැකි පෙළක් ලෙස සුරකිනු ඇත (උදා., BadP@ssw0rd) එබැවින් නිර්යාත කළ ගොනුව විවෘත කළ හැකි ඕනෑම අයෙකු ඒවා දකිනු ඇත.
 about-logins-confirm-export-dialog-confirm-button = නිර්යාතය…
-
 about-logins-alert-import-title = ආයාත වීම නිමයි
 about-logins-alert-import-message = සවිස්තරාත්මක ආයාත සාරාංශය බලන්න
-
 confirm-discard-changes-dialog-title = සුරැකි වෙනස්කම් ඉවත් කරන්නද?
 confirm-discard-changes-dialog-message = සුරකින ලද සියළුම වෙනස්කම් අහිමි වී යනු ඇත.
 confirm-discard-changes-dialog-confirm-button = ඉවතලන්න
@@ -211,7 +203,6 @@ about-logins-vulnerable-alert-learn-more-link = තව දැනගන්න
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = එම පරිශීලක නාමය සහිත { $loginTitle } සඳහා නිවේශිතයක් දැනටමත් පවතී. <a data-l10n-name="duplicate-link">පවතින නිවේශිතයට යන්නද?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = මෙම මුරපදය සුරැකීමේදී දෝෂයක් සිදු විය.
 
@@ -261,19 +252,16 @@ about-logins-import-dialog-items-added =
         [one] <span>නව පිවිසුමක් එක් කෙරිණි:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>නව පිවිසුම් එක් කෙරිණි:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>පවතින පිවිසුමක් යාවත්කාල විය:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>පවතින පිවිසුම් යාවත්කාල විය:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>දෝෂ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ආයාත කර නැත)</span>
     }
 about-logins-import-dialog-done = අහවරයි
-
 about-logins-import-dialog-error-title = ආයාත දෝෂයකි
 about-logins-import-dialog-error-conflicting-values-description = නිදසුනක් ලෙස: එක් පිවිසුමක් සඳහා පරි. නාම, මුරපද, ඒ.ස.නි. කිහිපයක්.
 about-logins-import-dialog-error-file-format-title = ගොනු ආකෘතියේ ගැටළුවකි
@@ -285,10 +273,8 @@ about-logins-import-dialog-error-no-logins-imported = කිසිදු පි�
 about-logins-import-dialog-error-learn-more = තව දැනගන්න
 about-logins-import-dialog-error-try-import-again = යළි ආයාත කිරීමට බලන්න...
 about-logins-import-dialog-error-cancel = අවලංගු
-
 about-logins-import-report-title = ආයාත සාරාංශය
 about-logins-import-report-description = { -brand-short-name } වෙත පිවිසුම් හා මුරපද ආයාත කෙරිණි.
-
 #
 # Variables:
 #  $number (number) - The number of the row
