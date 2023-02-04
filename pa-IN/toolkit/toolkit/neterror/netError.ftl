@@ -27,6 +27,7 @@ neterror-try-again-button = ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 neterror-add-exception-button = ਇਸ ਸਾਈਟ ਲਈ ਹਮੇਸ਼ਾਂ ਜਾਰੀ ਰੱਖੋ
 neterror-settings-button = DNS ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲੋ
 neterror-view-certificate-link = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ
+neterror-disable-native-feedback-warning = ਹਮੇਸ਼ਾ ਜਾਰੀ ਰੱਖੋ
 
 ##
 
@@ -61,6 +62,14 @@ neterror-dns-not-found-trr-offline = ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ �
 neterror-dns-not-found-trr-unknown-host = ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਸਿਰਨਾਵਾਂ { $trrDomain } ਵਲੋਂ ਨਹੀਂ ਲੱਭਿਆ ਗਿਆ ਸੀ।
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ਨਾਲ ਸਮੱਸਿਆ ਸੀ।
 neterror-dns-not-found-trr-unknown-problem = ਅਚਾਨਕ ਗਲਤੀ ਆਈ ਹੈ।
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ਸਾਡੇ ਭਰੋਸੇਯੋਗ DNS ਹੱਲ਼ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵਾਂ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦੀ ਹੈ। ਇਸ ਦੇ ਕਾਰਨ ਹਨ:
+neterror-dns-not-found-native-fallback-heuristic = HTTPs ਰਾਹੀਂ DNS ਨੂੰ ਤੁਹਾਡੇ ਨੈੱਟਵਰਕ ਨੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
+neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } ਲਈ ਕਨੈਕਸ਼ਨ ਹਾਲੇ ਤਿਆਰ ਨਹੀਂ ਹੈ।
 
 ##
 
