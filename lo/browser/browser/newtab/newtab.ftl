@@ -25,6 +25,7 @@ newtab-search-box-handoff-text = ຊອກຫາດ້ວຍ { $engine } ຫຼ�
 
 newtab-topsites-add-search-engine-header = ເພີ່ມ Search Engine
 newtab-topsites-edit-topsites-header = ແກ້ໄຂເວັບໄຊທ໌ຍອດນິຍົມ
+newtab-topsites-edit-shortcut-header = ແກ້ໄຂທາງລັດ
 newtab-topsites-title-label = ຊື່ເລື່ອງ
 newtab-topsites-title-input =
     .placeholder = ປ້ອນຊື່ເລື່ອງ
@@ -190,6 +191,7 @@ newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອ�
 
 newtab-custom-shortcuts-title = ທາງລັດ
 newtab-custom-shortcuts-subtitle = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
+newtab-custom-sponsored-sites = ທາງລັດສະປອນເຊີ
 newtab-custom-pocket-subtitle = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { -pocket-brand-name }, ສ່ວນຫນຶ່ງຂອງຄອບຄົວ { -brand-product-name }
 newtab-custom-pocket-sponsored = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
 newtab-custom-pocket-show-recent-saves = ສະແດງບັນທຶກຫຼ້າສຸດ
