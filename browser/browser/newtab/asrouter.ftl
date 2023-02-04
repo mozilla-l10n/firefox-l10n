@@ -62,6 +62,9 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Cookie iragarki-bandak kanpora!
+cfr-cookie-banner-handling-body = Baimendu { -brand-short-name }(e)k cookie iragarki-banden eskaera guztiak ahal bada automatikoki ukatzea. Bestela, cookie guztiak onartu egingo dira ahalik eta iragarki-banda gehien baztertzeko.
+cfr-cookie-banner-accept-button = Baztertu eskaerak
+    .accesskey = B
 cfr-cookie-banner-reject-button = Une honetan ez
     .accesskey = z
 cfr-cookie-banner-handling-header-variant-1 = Ikusi cookie laster-leiho gutxiago
@@ -263,3 +266,4 @@ cfr-cookiebanner-reject-button-variant-2 = Une honetan ez
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Babesean zaitugu
+july-jam-set-default-primary = Ireki nire loturak { -brand-short-name } erabiliz
