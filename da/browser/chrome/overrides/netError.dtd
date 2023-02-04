@@ -52,7 +52,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Åbn netværkets login-side">
 
-<!ENTITY malformedURI.pageTitle "Udgyldig URL">
+<!ENTITY malformedURI.pageTitle "Ugyldig URL">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
