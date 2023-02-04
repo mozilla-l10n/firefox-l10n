@@ -44,7 +44,7 @@ origin-controls-toolbar-button =
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
-    .label = Rozšíření
+    .label = { $extensionTitle }
     .tooltiptext =
-        Rozšíření
+        { $extensionTitle }
         Vyžadováno oprávnění
