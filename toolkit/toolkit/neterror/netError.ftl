@@ -27,6 +27,7 @@ neterror-try-again-button = ลองอีกครั้ง
 neterror-add-exception-button = ดำเนินการต่อสำหรับไซต์นี้เสมอ
 neterror-settings-button = เปลี่ยนการตั้งค่า DNS
 neterror-view-certificate-link = ดูใบรับรอง
+neterror-disable-native-feedback-warning = ดำเนินการต่อเสมอ
 
 ##
 
@@ -61,6 +62,11 @@ neterror-dns-not-found-trr-offline = คุณไม่ได้เชื่อ�
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } ไม่พบที่อยู่สำหรับเว็บไซต์นี้
 neterror-dns-not-found-trr-server-problem = เกิดปัญหากับ { $trrDomain }
 neterror-dns-not-found-trr-unknown-problem = เกิดปัญหาที่ไม่คาดคิด
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
 
 ##
 
