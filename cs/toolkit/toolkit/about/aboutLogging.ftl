@@ -40,6 +40,7 @@ about-logging-log-modules-selection = Výběr modulu protokolů
 about-logging-new-log-modules = Nové moduly protokolů:
 about-logging-logging-output-selection = Výstup protokolování
 about-logging-logging-to-file = Protokolování do souboru
+about-logging-logging-to-profiler = Protokolování do { -profiler-brand-name(case: "gen") }
 about-logging-no-log-modules = Žádný
 about-logging-no-log-file = Žádný
 about-logging-logging-preset-selector-text = Přednastavené protokolování:
@@ -59,6 +60,10 @@ about-logging-error = Chyba:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Neplatná hodnota „{ $v }“ pro klíč „{ $k }“
+about-logging-unknown-logging-preset = Neznámá předvolba protokolování „{ $v }“
+about-logging-unknown-profiler-preset = Neznámá předvolba profilování „{ $v }“
+about-logging-unknown-option = Neznámá možnost „{ $k }“ stránky about:logging
 about-logging-configuration-url-ignored = Konfigurační URL adresa ignorována
 about-logging-file-and-profiler-override = Vynucení výstupu do souboru a nastavení profilování není zároveň možné
 about-logging-configured-via-url = Možnosti nastavené pomocí URL
