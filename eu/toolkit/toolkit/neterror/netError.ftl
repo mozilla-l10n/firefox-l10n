@@ -68,6 +68,9 @@ neterror-dns-not-found-trr-unknown-problem = Ustekabeko arazoa.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure konfiantzazko DNS ebazlearen bidez. Hona hemen zergatik:
+neterror-dns-not-found-native-fallback-attackers = Segurua ez den DNS ebazle batekin jarrai dezakezu. Halere, hirugarren batentzat posible izan liteke bisitatzen dituzun webguneak ikustea edo zu konfiantza gabeko gune batera bidaltzea.
+neterror-dns-not-found-native-fallback-heuristic = HTTPS againeko DNSa desgaitu egin da zure sarean.
+neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } domeinurako konexioa ez dago prest oraindik.
 
 ##
 

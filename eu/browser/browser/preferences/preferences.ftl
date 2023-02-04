@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Bisitatu gabeko guneetako cookieak
 sitedata-option-block-all-third-party =
     .label = Hirugarrenen cookie guztiak (webguneak haustea eragin lezake)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Guneen arteko cookie guztiak (webguneak apur litzake)
 sitedata-option-block-all =
     .label = Cookie guztiak (webguneak haustea eragingo du)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Cookie guztiak
 content-blocking-unvisited-cookies = Bisitatu gabeko guneetako cookieak
 content-blocking-all-windows-tracking-content = Edukiaren jarraipena leiho guztietan
 content-blocking-all-third-party-cookies = Hirugarrenen cookie guztiak
+content-blocking-all-cross-site-cookies = Guneen arteko cookie guztiak
 content-blocking-cryptominers = Kriptomeatzariak
 content-blocking-fingerprinters = Hatz-marka bidezko jarraipena egiten duten elementuak
 # "Test pilot" is used as a verb. Possible alternatives:
