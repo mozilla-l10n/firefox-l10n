@@ -27,6 +27,7 @@ neterror-try-again-button = Prøv på nytt
 neterror-add-exception-button = Fortset alltid for denne sida
 neterror-settings-button = Endre DNS-instillingar
 neterror-view-certificate-link = Vis sertifikat
+neterror-disable-native-feedback-warning = Hald alltid fram
 
 ##
 
@@ -54,6 +55,11 @@ neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-unknown-problem = Uventa problem.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
 
 ##
 
