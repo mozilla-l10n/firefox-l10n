@@ -68,13 +68,13 @@ cfr-cookie-banner-accept-button = Rejeitar Pedidos
 cfr-cookie-banner-reject-button = Agora não
     .accesskey = A
 cfr-cookie-banner-handling-header-variant-1 = Ver menos pop-ups de cookies
-cfr-cookie-banner-handling-body-variant-1 = Permitir que o { -brand-short-name } responda automaticamente a pop-ups de cookies para que possa voltar a navegar sem distrações. O { -brand-short-name } irá rejeitar todos os pedidos, se for possível, ou aceitar todos caso contrário.
+cfr-cookie-banner-handling-body-variant-1 = Deixe o { -brand-short-name } responder automaticamente a pop-ups de cookies para que possa voltar a navegar sem distrações. Se for possível, o { -brand-short-name } irá rejeitar todos os pedidos ou, na eventualidade de não ser possível, aceitar todos.
 cfr-cookie-banner-accept-button-variant-1 = Ignorar pop-ups
     .accesskey = I
 cfr-cookie-banner-reject-button-variant-1 = Não, obrigado
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Redução de Faixas de Cookies
-cfr-cookie-banner-handling-body-variant-2 = Permitir que o { -brand-short-name } recuse o pedido de consentimento de cookies de um site, se for possível ou, no caso de não ser possível, aceite o acesso a cookies?
+cfr-cookie-banner-handling-body-variant-2 = Deixar o { -brand-short-name } recusar o pedido de consentimento de cookies de um site, se for possível ou, no caso de não ser possível, aceitar o acesso a cookies?
 cfr-cookie-banner-accept-button-variant-2 = Permitir
     .accesskey = P
 cfr-cookie-banner-reject-button-variant-2 = Agora não
@@ -251,19 +251,26 @@ colorways-cfr-header-today = Os estilos de cor de Independent Voices expiram hoj
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Desapareçam faixas de cookies!
-cfr-cookiebanner-body = Permitir que o { -brand-short-name } rejeite automaticamente todos os pedidos de cookies, sempre que possível.
+cfr-cookiebanner-body = Deixar o { -brand-short-name } rejeitar automaticamente todos os pedidos de cookies, sempre que possível.
 cfr-cookiebanner-accept-button = Ignorar faixas
     .accesskey = I
 cfr-cookiebanner-reject-button = Agora não
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Ver menos pop-ups de cookies
 cfr-cookiebanner-body-variant-1 = Permitir que o { -brand-short-name } responda automaticamente a pop-ups de cookies para que possa voltar a navegar sem distrações. O { -brand-short-name } irá rejeitar todos os pedidos, se for possível.
-cfr-cookiebanner-accept-button-variant-1 = Descartar pop-ups
-    .accesskey = D
+cfr-cookiebanner-accept-button-variant-1 = Ignorar pop-ups
+    .accesskey = I
 cfr-cookiebanner-reject-button-variant-1 = Não, obrigado
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Redução de Faixas de Cookies
+cfr-cookiebanner-body-variant-2 = Reduza a quantidade de faixas de cookies que vê, deixando o { -brand-short-name } rejeitar o pedido de consentimento de cookies de um site (se for possível).
+cfr-cookiebanner-accept-button-variant-2 = Permitir
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Agora não
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Estamos consigo
+july-jam-body = Todos os meses o { -brand-short-name } bloqueia uma média de mais de 3.000 rastreadores por utilizador, permitindo que possa ter um acesso rápido e seguro à melhor Internet.
+july-jam-set-default-primary = Abrir as minhas ligações com o { -brand-short-name }
