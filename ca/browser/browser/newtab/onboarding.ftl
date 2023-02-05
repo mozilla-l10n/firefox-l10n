@@ -27,6 +27,8 @@ return-to-amo-add-theme-label = Afegeix un tema
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Doneu la benvinguda al nou { -brand-short-name }
+mr1-return-to-amo-addon-title = Ja teniu un navegador ràpid i privat a l'abast. Ara podeu afegir-hi <b>{ $addon-name }</b> per a fer molt més amb el { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Afegeix { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -274,6 +276,8 @@ mr2022-onboarding-secondary-skip-button-label = Omet aquest pas
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Obriu una Internet espectacular
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Inicieu el { -brand-short-name } en qualsevol lloc amb un sol clic. Cada vegada que ho feu, escolliu una web més oberta i independent.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 

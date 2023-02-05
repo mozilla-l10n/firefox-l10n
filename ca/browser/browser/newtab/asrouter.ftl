@@ -260,6 +260,11 @@ cfr-cookiebanner-accept-button-variant-1 = Tanca les finestres emergents
 cfr-cookiebanner-reject-button-variant-1 = No, gràcies
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Reducció de bàners de galetes
+cfr-cookiebanner-body-variant-2 = Voleu reduir la quantitat de bàners de galetes que veieu? Permeteu que el { -brand-short-name } rebutgi la sol·licitud de consentiment de galetes d'un lloc web sempre que sigui possible.
+cfr-cookiebanner-accept-button-variant-2 = Permet
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Ara no
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
