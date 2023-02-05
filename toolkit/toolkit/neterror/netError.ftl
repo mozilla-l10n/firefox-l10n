@@ -69,7 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = Neočakávaný problém.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nedokáže ochrániť vašu žiadosť o adresu tohto webu prostredníctvom nášho dôveryhodného nástroja DNS resolver. Tu je dôvod:
 neterror-dns-not-found-native-fallback-attackers = Môžete pokračovať s DNS resolverom, ktorý nie je bezpečný. Tretia strana však môže vidieť, aké webové stránky navštevujete, alebo vás môže poslať na nedôveryhodnú stránku.
-neterror-dns-not-found-native-fallback-heuristic = DNS cez HTTPs bol vo vašej sieti zakázaný.
+neterror-dns-not-found-native-fallback-heuristic = DNS cez HTTPS bol vo vašej sieti zakázaný.
 neterror-dns-not-found-native-fallback-not-confirmed = Pripojenie k { $trrDomain } ešte nie je pripravené.
 
 ##
