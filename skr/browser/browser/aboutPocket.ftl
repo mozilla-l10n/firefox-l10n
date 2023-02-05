@@ -73,5 +73,5 @@ pocket-panel-header-sign-in = سائن ان
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = سارے ݙکھاؤ
-pocket-panel-button-activate = اُشاک کرو { -pocket-brand-name }  { -brand-product-name } وِچ
+pocket-panel-button-activate = { -brand-product-name } وِچ { -pocket-brand-name } اُشاک کرو
 pocket-panel-button-remove = ہٹاؤ

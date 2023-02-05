@@ -12,4 +12,10 @@ tag-pings-label = ایں ٹیگ دے نال بھیڄے ڳئے تمام پنگ ک
 log-pings-label = بھیڄݨ کنوں پہلے پنگ پے لوڈ لاگ کرو؟
 send-pings-label = نامزد پنگ بھیڄو
 controls-button-label = ترتیباں جمع کراؤ۔
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
