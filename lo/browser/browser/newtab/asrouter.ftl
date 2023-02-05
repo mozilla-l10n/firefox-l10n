@@ -210,6 +210,11 @@ colorways-cfr-header-today = Independent Voices colorways ຈະໝົດອາ�
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = ປ້າຍໂຄສະນາຄຸກກີເລີ່ມແລ້ວ!
+cfr-cookiebanner-accept-button = ປິດປ້າຍໂຄສະນາ
+    .accesskey = D
+cfr-cookiebanner-reject-button = ບໍ່​ແມ່ນ​ຕອນ​ນີ້
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = ເບິ່ງປັອບອັບຄຸກກີໜ້ອຍລົງ
 cfr-cookiebanner-reject-button-variant-1 = ບໍ່, ຂອບໃຈ
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
