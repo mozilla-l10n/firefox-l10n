@@ -21,10 +21,6 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } 디버그 핑 뷰어
 about-glean-page-title2 = { -glean-brand-name } 정보
 about-glean-header = { -glean-brand-name } 정보
-about-glean-interface-description =
-    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>는 
-    { -vendor-short-name } 프로젝트에서 사용되는 데이터 수집 라이브러리입니다. 
-    이 인터페이스는 개발자와 테스터가 수동으로 사용하도록 설계되었습니다.
 about-glean-upload-enabled = 데이터 업로드가 활성화되었습니다.
 about-glean-upload-disabled = 데이터 업로드가 비활성화되었습니다.
 about-glean-upload-enabled-local = 데이터 업로드는 로컬 서버로 전송하는 경우에만 활성화됩니다.
@@ -56,7 +52,7 @@ about-glean-about-testing-header = 테스트 정보
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     전체 지침은 
-    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 계측 테스트 문서</a> 및 <a data-l10n- name="glean-sdk-doc-link">{ glean-sdk-brand-name } 문서</a>에 
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 계측 테스트 문서</a> 및 <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } 문서</a>에 
     문서화되어 있습니다. 
     하지만 간단히 말해서 계측이 작동하는지 수동으로 테스트하려면 다음을 수행해야 합니다:
 # This message is an option in a dropdown filled with untranslated names of pings.
