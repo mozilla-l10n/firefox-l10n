@@ -57,6 +57,9 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } משתמשים
     }
 
+## Cookie Banner Handling Onboarding
+
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = סנכרון הסימניות שלך לכל מקום.
@@ -152,10 +155,6 @@ spotlight-total-cookie-protection-body = הגנת עוגיות מלאה מונע
 spotlight-total-cookie-protection-expanded = ‏{ -brand-short-name } בונה גדר סביב עוגיות, ומבודד אותם לאתר שבו אתה נמצא, כך שעוגיות לא יכולות להשתמש בהן כדי לעקוב אחריך. הפעלת תכונה זו תסייע לנו לייעל אותה כדי שנוכל להמשיך לבנות אינטרנט טוב יותר עבור כולם.
 spotlight-total-cookie-protection-primary-button = הפעלת הגנת עוגיות מלאה
 spotlight-total-cookie-protection-secondary-button = לא כעת
-cfr-total-cookie-protection-header = הודות לך, { -brand-short-name } פרטי ומאובטח יותר מאי פעם
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = הגנת עוגיות מלאה היא הגנת הפרטיות החזקה ביותר שלנו עד כה – והיא כעת הגדרת ברירת מחדל עבור משתמשי { -brand-short-name } בכל מקום. לא יכולנו לעשות את זה בלי משתתפי גישה מוקדמת כמוך. אז תודה שעזרת לנו ליצור אינטרנט פרטי וטוב יותר.
 
 ## Emotive Continuous Onboarding
 
@@ -201,7 +200,6 @@ firefoxview-cfr-primarybutton = בואו ננסה
     .accesskey = נ
 firefoxview-cfr-secondarybutton = לא כעת
     .accesskey = ל
-firefoxview-cfr-header = לקבל בחזרה לשוניות שנסגרו לאחרונה עם { -firefoxview-brand-name }
 firefoxview-cfr-header-v2 = להמשיך בזריזות מאיפה שהפסקת
 
 ## Firefox View Spotlight
@@ -218,3 +216,10 @@ colorways-cfr-primarybutton = בחירת ערכת צבעים
     .accesskey = ב
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעדיים של { -brand-short-name } בהשראת קולות שמשנים תרבות.
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-set-default-primary = פתיחת הקישורים שלי באמצעות { -brand-short-name }
