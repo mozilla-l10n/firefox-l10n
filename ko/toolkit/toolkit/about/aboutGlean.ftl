@@ -61,6 +61,31 @@ about-glean-manual-testing =
     하지만 간단히 말해서 계측이 작동하는지 수동으로 테스트하려면 다음을 수행해야 합니다:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (핑을 제출하지 마세요)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = 앞의 필드에서 기억할 수 있는 디버그 태그가 있는지 확인하여 나중에 핑을 인식할 수 있습니다.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    계측이 있는 핑을 이전 목록에서 선택하세요.
+    <a data-l10n-name="custom-ping-link">맞춤 핑</a>에 있는 경우 
+    해당 항목을 선택하세요.
+    그렇지 않으면 
+    <code>이벤트</code> 메트릭의 기본값은 <code>이벤트</code> 핑이고 
+    다른 모든 메트릭의 기본값은 <code>메트릭</code> 핑입니다.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (선택 사항. 제출 시 핑도 기록하려면 앞의 확인란을 선택하세요.
+    추가로 <a data-l10n-name="enable-logging-link">로깅을 활성화</a>해야 합니다.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    이전 버튼을 눌러 모든 { -glean-brand-name } 핑에 태그를 지정하고 선택한 핑을 제출하세요.
+    (그때부터 애플리케이션을 다시 시작할 때까지 제출된 모든 핑은 <code>{ $debug-tag }</code> 태그가 지정됩니다.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">태그가 있는 핑에 대한 { glean-debug-ping-viewer-brand-name } 페이지를 방문하세요</a>.
+    버튼을 누른 후 핑이 도착할 때까지 몇 초 이상 걸리지 않습니다.
+    때로는 몇 분 정도 걸릴 수 있습니다.
 controls-button-label-verbose = 설정 적용 및 핑 제출
 about-glean-about-data-header = 데이터 정보
 about-glean-about-data-explanation =
