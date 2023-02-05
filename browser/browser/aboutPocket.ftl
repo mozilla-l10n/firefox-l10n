@@ -63,9 +63,9 @@ pocket-panel-signup-tagline-story-one =
     }.
 pocket-panel-signup-tagline-story-two = Zobrazení v { -pocket-brand-name(case: "loc") } kdykoliv a na jakémkoliv zařízení.
 pocket-panel-signup-cta-a-fix = Vaše tlačítko „uložit“ pro internet
-pocket-panel-signup-cta-b = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy. Seznam si můžete kdykoliv zobrazit na kterémkoliv svém zařízení.
-pocket-panel-signup-cta-b-updated = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy. Uložené položky si můžete kdykoliv zobrazit na kterémkoliv svém zařízení.
-pocket-panel-signup-cta-b-short = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy.
+pocket-panel-signup-cta-b = Klepnutím na tlačítko { -pocket-brand-name(case: "gen") } můžete ukládat články, videa nebo odkazy. Seznam si můžete kdykoliv zobrazit na kterémkoliv svém zařízení.
+pocket-panel-signup-cta-b-updated = Klepnutím na tlačítko { -pocket-brand-name(case: "gen") } můžete ukládat články, videa nebo odkazy. Uložené položky si můžete kdykoliv zobrazit na kterémkoliv svém zařízení.
+pocket-panel-signup-cta-b-short = Klepnutím na tlačítko { -pocket-brand-name(case: "gen") } můžete ukládat články, videa nebo odkazy.
 pocket-panel-signup-cta-c = Zobrazte svůj seznam na jakémkoliv zařízení, kdykoliv.
 pocket-panel-signup-cta-c-updated = Zobrazte své uložené položky na jakémkoliv zařízení, kdykoliv.
 
@@ -79,7 +79,7 @@ pocket-panel-home-discover-more = Objevte více
 pocket-panel-home-explore-more = Procházet
 pocket-panel-home-most-recent-saves = Váš nedávno uložený obsah:
 pocket-panel-home-most-recent-saves-loading = Načítání nedávno uloženého obsahu…
-pocket-panel-home-new-user-cta = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy.
+pocket-panel-home-new-user-cta = Klepnutím na tlačítko { -pocket-brand-name(case: "gen") } můžete ukládat články, videa nebo odkazy.
 pocket-panel-home-new-user-message = Váš nedávno uložený obsah se zobrazí tady.
 
 ## Pocket panel header component
@@ -92,15 +92,10 @@ pocket-panel-header-sign-in = Přihlásit se
 
 pocket-panel-button-show-all = Zobrazit vše
 pocket-panel-button-activate =
-    { -pocket-brand-name.gender ->
-        [masculine] Aktivovat { -pocket-brand-name(case: "acc") }
-        [feminine] Aktivovat { -pocket-brand-name(case: "acc") }
-        [neuter] Aktivovat { -pocket-brand-name(case: "acc") }
-       *[other] Aktivovat službu { -pocket-brand-name }
-    } { -brand-product-name.gender ->
-        [masculine] ve { -brand-product-name(case: "loc") }
-        [feminine] v { -brand-product-name(case: "loc") }
-        [neuter] v { -brand-product-name(case: "loc") }
-       *[other] v aplikaci { -brand-product-name }
+    { -brand-product-name.gender ->
+        [masculine] Aktivovat { -pocket-brand-name(case: "acc") } ve { -brand-product-name(case: "loc") }
+        [feminine] Aktivovat { -pocket-brand-name(case: "acc") } v { -brand-product-name(case: "loc") }
+        [neuter] Aktivovat { -pocket-brand-name(case: "acc") } v { -brand-product-name(case: "loc") }
+       *[other] Aktivovat { -pocket-brand-name(case: "acc") } v aplikaci { -brand-product-name }
     }
 pocket-panel-button-remove = Odstranit
