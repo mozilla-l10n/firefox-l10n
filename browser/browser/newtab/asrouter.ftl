@@ -204,6 +204,7 @@ spotlight-pin-secondary-button = Ara no
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = Nou { -brand-short-name }. Més privat. Menys seguiment. Sense compromisos.
+mr2022-background-update-toast-text = Proveu el nou { -brand-short-name }, actualitzat amb la protecció contra el seguiment més potent fins ara.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -240,6 +241,9 @@ colorways-cfr-header-28days = Les combinacions de colors de Veus independents ca
 colorways-cfr-header-14days = Les combinacions de colors de Veus independents caduquen d'aquí a dues setmanes
 colorways-cfr-header-7days = Les combinacions de colors de Veus independents caduquen aquesta setmana
 colorways-cfr-header-today = Les combinacions de colors de Veus independents caduquen avui
+
+## Cookie Banner Handling CFR
+
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

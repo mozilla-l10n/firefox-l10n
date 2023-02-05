@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Elimina de l'historial
     .accesskey = r
+urlbar-result-menu-tip-get-help =
+    .label = Obteniu ajuda
+    .accesskey = j
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Mostra els complements
 quickactions-cmd-addons2 = complements
 # Opens the bookmarks library window
-quickactions-bookmarks = Mostra les adreces d'interès
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Gestiona les adreces d'interès
 quickactions-cmd-bookmarks = adreces d'interès
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Esborra l'historial
 quickactions-cmd-clearhistory = esborra l'historial
-# Opens about:downloads page
-quickactions-downloads = Obre les baixades
 # Opens about:downloads page
 quickactions-downloads2 = Mostra les baixades
 quickactions-cmd-downloads = baixades, descàrregues
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = baixades, descàrregues
 quickactions-extensions = Gestiona les extensions
 quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
-quickactions-inspector = Obre l'inspector
-# Opens the devtools web inspector
 quickactions-inspector2 = Obre les eines per a desenvolupadors
 quickactions-cmd-inspector = inspector, devtools, desenvolupador
-# Opens about:logins
-quickactions-logins = Mostra els inicis de sessió
 # Opens about:logins
 quickactions-logins2 = Gestiona les contrasenyes
 quickactions-cmd-logins = inicis de sessió, contrasenyes, credencials
@@ -313,12 +308,8 @@ quickactions-cmd-logins = inicis de sessió, contrasenyes, credencials
 quickactions-plugins = Gestiona els connectors
 quickactions-cmd-plugins = connectors
 # Opens the print dialog
-quickactions-print = Imprimeix
-# Opens the print dialog
 quickactions-print2 = Imprimeix la pàgina
 quickactions-cmd-print = imprimir, impressió, imprimeix
-# Opens a new private browsing window
-quickactions-private = Obre una finestra de navegació privada
 # Opens a new private browsing window
 quickactions-private2 = Obre una finestra privada
 quickactions-cmd-private = navegació privada
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = restableix
 quickactions-restart = Reinicia el { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
-quickactions-screenshot2 = Fes una captura de pantalla
-# Opens the screenshot tool
 quickactions-screenshot3 = Fes una captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
-# Opens about:preferences
-quickactions-settings = Obre els paràmetres
 # Opens about:preferences
 quickactions-settings2 = Gestiona els paràmetres
 quickactions-cmd-settings = paràmetres, configuració, preferències, opcions
@@ -344,8 +331,6 @@ quickactions-cmd-themes = temes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualitza el { -brand-short-name }
 quickactions-cmd-update = actualitzar
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Codi font
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Codi font de la pàgina
 quickactions-cmd-viewsource = mostra codi font, codi font
@@ -719,6 +704,11 @@ bookmarks-other-bookmarks-menu =
     .label = Altres adreces d'interès
 bookmarks-mobile-bookmarks-menu =
     .label = Adreces del mòbil
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -743,6 +733,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Elimina el menú d'adreces d'interès de la barra d'eines
            *[other] Afegeix el menú d'adreces d'interès a la barra d'eines
         }
+
+##
+
 bookmarks-search =
     .label = Cerca adreces d'interès
 bookmarks-tools =
