@@ -61,6 +61,18 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } użytkowników
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Koniec z komunikatami o ciasteczkach!
+cfr-cookie-banner-handling-body = Pozwól { -brand-short-name(case: "dat") } automatycznie odrzucać wszystkie prośby o akceptację ciasteczek, kiedy to możliwe. Jeśli nie, to wszystkie ciasteczka będą akceptowane, aby zamykać jeszcze więcej próśb.
+cfr-cookie-banner-accept-button = Zamykaj prośby
+    .accesskey = Z
+cfr-cookie-banner-reject-button = Nie teraz
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Zmniejsz liczbę komunikatów o ciasteczkach
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizuj zakładki na każdym urządzeniu.
@@ -161,10 +173,6 @@ spotlight-total-cookie-protection-body = Całkowita ochrona ciasteczek uniemożl
 spotlight-total-cookie-protection-expanded = { -brand-short-name } buduje płot wokół ciasteczek, ograniczając je do odwiedzanej witryny, aby elementy śledzące nie mogły ich używać do śledzenia Cię. Włączając tę funkcję przed innymi pomożesz ją zoptymalizować, abyśmy mogli kontynuować tworzenie lepszego Internetu dla wszystkich.
 spotlight-total-cookie-protection-primary-button = Włącz całkowitą ochronę ciasteczek
 spotlight-total-cookie-protection-secondary-button = Nie teraz
-cfr-total-cookie-protection-header = Dzięki Tobie { -brand-short-name } jest teraz bardziej prywatny i bezpieczny niż kiedykolwiek
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Całkowita ochrona ciasteczek to jak dotąd nasza najsilniejsza funkcja ochrony prywatności – i jest teraz domyślnie włączona dla użytkowników przeglądarki { -brand-short-name } na całym świecie. Nie moglibyśmy tego osiągnąć bez uczestników testów takich jak Ty. Dziękujemy za pomoc w tworzeniu lepszego, bardziej prywatnego Internetu.
 
 ## Emotive Continuous Onboarding
 
@@ -211,8 +219,6 @@ firefoxview-cfr-primarybutton = Wypróbuj
     .accesskey = W
 firefoxview-cfr-secondarybutton = Nie teraz
     .accesskey = N
-firefoxview-cfr-header = Odzyskaj ostatnio zamknięte karty za pomocą { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
-firefoxview-cfr-body = Płynnie przechodź z urządzenia na urządzenie i dodaj odrobinę koloru do swojej przeglądarki.
 firefoxview-cfr-header-v2 = Szybko kontynuuj od tego samego miejsca
 firefoxview-cfr-body-v2 = Odzyskaj ostatnio zamknięte karty i płynnie przechodź z urządzenia na urządzenie za pomocą { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
 
@@ -234,3 +240,9 @@ colorways-cfr-header-28days = Kolorystyki „Niezależne głosy” wygasają 16�
 colorways-cfr-header-14days = Kolorystyki „Niezależne głosy” wygasają za dwa tygodnie
 colorways-cfr-header-7days = Kolorystyki „Niezależne głosy” wygasają w tym tygodniu
 colorways-cfr-header-today = Kolorystyki „Niezależne głosy” wygasają dzisiaj
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
