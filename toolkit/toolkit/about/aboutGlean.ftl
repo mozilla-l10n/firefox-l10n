@@ -86,6 +86,12 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">태그가 있는 핑에 대한 { glean-debug-ping-viewer-brand-name } 페이지를 방문하세요</a>.
     버튼을 누른 후 핑이 도착할 때까지 몇 초 이상 걸리지 않습니다.
     때로는 몇 분 정도 걸릴 수 있습니다.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    더 많은 <i>임시</i> 테스트를 위해
+    여기 <code>about:glean</code>에서 devtools 콘솔을 열고 <code>Glean.metricCategory.metricName.testGetValue()</code> 같은 
+    <code>testGetValue()</code> API를 사용하여 
+    특정 계측 부분의 현재 값을 결정할 수도 있습니다.
 controls-button-label-verbose = 설정 적용 및 핑 제출
 about-glean-about-data-header = 데이터 정보
 about-glean-about-data-explanation =
