@@ -69,7 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = Oväntat problem.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan inte skydda din begäran om den här webbplatsens adress genom vår betrodda DNS-lösare. Här är varför:
 neterror-dns-not-found-native-fallback-attackers = Du kan fortsätta med en DNS-lösare som inte är säker. En tredje part kanske kan se vilka webbplatser du besöker eller skicka dig till en opålitlig webbplats.
-neterror-dns-not-found-native-fallback-heuristic = DNS över HTTPs har inaktiverats i ditt nätverk.
+neterror-dns-not-found-native-fallback-heuristic = DNS över HTTPS har inaktiverats i ditt nätverk.
 neterror-dns-not-found-native-fallback-not-confirmed = Anslutningen till { $trrDomain } är inte klar än.
 
 ##
