@@ -8,9 +8,46 @@
 about-glean-page-title = 關於 Glean
 about-glean-description = Mozilla 在產品中使用 <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> 來收集資料。此頁面是用來給開發者與測試者<a data-l10n-name="fog-debug-doc-link">調整 Glean SDK 的除錯與紀錄狀態</a>使用。
 about-glean-warning = 誤用此介面可能會造成 { -brand-short-name } 發生錯誤。
-
 tag-pings-label = 標示所有使用此標籤送出的 ping。
 log-pings-label = 在傳送前記錄 ping 酬載？
 send-pings-label = 傳送有命名的 ping
 controls-button-label = 送出設定值
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } Debug Ping 檢視器
+about-glean-page-title2 = 關於 { -glean-brand-name }
+about-glean-header = 關於 { -glean-brand-name }
+about-glean-upload-enabled = 已啟用資料上傳。
+about-glean-upload-disabled = 已停用資料上傳。
+about-glean-upload-enabled-local = 僅允許資料上傳至本機伺服器。
+about-glean-upload-fake-enabled = 已停用資料上傳，但我們告訴 { glean-sdk-brand-name } 本功能仍然啟用，這樣才可在本機紀錄資料。註：若您設定了除錯標籤，將無視設定一律將 ping 上傳至 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>。
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = 相關的<a data-l10n-name="fog-prefs-and-defines-doc-link">偏好設定與軟體定義</a>包含：
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = 關於測試
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = （不送出任何 ping）
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = 請確定上方欄位中填寫的是好記的除錯用標籤，這樣之後才能快速找到您的 ping。
 controls-button-label-verbose = 套用設定並送出 ping
+about-glean-about-data-header = 關於資料
+about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
