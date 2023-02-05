@@ -41,15 +41,16 @@
     .gender = masculine
 -brand-shortcut-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxu
         [dat] Firefoxu
         [acc] Firefox
         [voc] Firefoxe
         [loc] Firefoxu
         [ins] Firefoxem
+       *[nom] Firefox
     }
     .gender = masculine
+    .case-status = with-cases
 -brand-full-name =
     { $case ->
         [gen] Mozilly Firefoxu
@@ -61,6 +62,7 @@
        *[nom] Mozilla Firefox
     }
     .gender = masculine
+    .case-status = with-cases
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =
