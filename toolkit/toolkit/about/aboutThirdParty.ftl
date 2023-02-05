@@ -11,11 +11,9 @@ third-party-section-title =
        *[other] aplikaci { -brand-short-name }
     }
 third-party-intro =
-    { -brand-short-name.gender ->
-        [masculine] Tato stránka zobrazuje seznam modulů třetích stran, které byly vneseny do vašeho { -brand-short-name(case: "gen") }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo { -vendor-short-name(case: "ins") }.
-        [feminine] Tato stránka zobrazuje seznam modulů třetích stran, které byly vneseny do vaší { -brand-short-name(case: "gen") }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo { -vendor-short-name(case: "ins") }.
-        [neuter] Tato stránka zobrazuje seznam modulů třetích stran, které byly vneseny do vašeho { -brand-short-name(case: "gen") }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo { -vendor-short-name(case: "ins") }.
-       *[other] Tato stránka zobrazuje seznam modulů třetích stran, které byly vneseny do vaší aplikace { -brand-short-name }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo { -vendor-short-name(case: "ins") }.
+    { -vendor-short-name.gender ->
+        [with-cases] Tato stránka zobrazuje seznam modulů třetích stran, které byly vneseny do vaší aplikace { -brand-short-name }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo { -vendor-short-name(case: "ins") }.
+       *[other] Tato stránka zobrazuje seznam modulů třetích stran, které byly vneseny do vaší aplikace { -brand-short-name }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo organizací { -vendor-short-name }.
     }
 third-party-message-empty = Nebyly nalezeny žádné moduly třetích stran.
 third-party-message-no-duration = Nezaznamenáno

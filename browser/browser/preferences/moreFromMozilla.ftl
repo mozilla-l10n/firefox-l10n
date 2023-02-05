@@ -6,27 +6,21 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title =
-    { -vendor-short-name.gender ->
-        [masculine] Více od { -vendor-short-name(case: "gen") }
-        [feminine] Více od { -vendor-short-name(case: "gen") }
-        [neuter] Více od { -vendor-short-name(case: "gen") }
-       *[other] Více od společnosti { -vendor-short-name }
+    { -vendor-short-name.case-status ->
+        [with-cases] Více od { -vendor-short-name(case: "gen") }
+       *[no-cases] Více od společnosti { -vendor-short-name }
     }
 more-from-moz-category =
     .tooltiptext =
-        { -vendor-short-name.gender ->
-            [masculine] Více od { -vendor-short-name(case: "gen") }
-            [feminine] Více od { -vendor-short-name(case: "gen") }
-            [neuter] Více od { -vendor-short-name(case: "gen") }
-           *[other] Více od společnosti { -vendor-short-name }
+        { -vendor-short-name.case-status ->
+            [with-cases] Více od { -vendor-short-name(case: "gen") }
+           *[no-cases] Více od společnosti { -vendor-short-name }
         }
 more-from-moz-subtitle =
-    Podívejte se na další produkty od { -vendor-short-name.gender ->
-        [masculine] { -vendor-short-name(case: "gen") }
-        [feminine] { -vendor-short-name(case: "gen") }
-        [neuter] { -vendor-short-name(case: "gen") }
-       *[other] společnosti { -vendor-short-name }
-    }, které podporují zdravý internet.
+    { -vendor-short-name.case-status ->
+        [with-cases] Podívejte se na další produkty od { -vendor-short-name(case: "gen") }, které podporují zdravý internet.
+       *[no-cases] Podívejte se na další produkty od společnosti { -vendor-short-name }, které podporují zdravý internet.
+    }
 more-from-moz-firefox-mobile-title = { -brand-product-name } pro mobily
 more-from-moz-firefox-mobile-description = Mobilní prohlížeč, který klade důraz na vaše soukromí.
 more-from-moz-firefox-mobile-description-advanced = Od blokování sledovacích prvků po automatické přehrávání videí, { -brand-product-name } pro mobily se pro vás snaží ze všech sil na internetu zajistit to nejlepší.

@@ -80,13 +80,14 @@
     .case-status = with-cases
 -vendor-short-name =
     { $case ->
-       *[nom] Mozilla
         [gen] Mozilly
         [dat] Mozille
         [acc] Mozillu
         [voc] Mozillo
         [loc] Mozille
         [ins] Mozillou
+       *[nom] Mozilla
     }
     .gender = feminine
+    .case-status = with-cases
 trademarkInfo = Firefox a jeho loga jsou ochrannými známkami organizace Mozilla Foundation.

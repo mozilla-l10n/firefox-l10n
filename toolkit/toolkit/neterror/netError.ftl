@@ -33,11 +33,9 @@ neterror-disable-native-feedback-warning = Vždy pokračovat
 
 neterror-pref-reset = Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?
 neterror-error-reporting-automatic =
-    { -vendor-short-name.gender ->
-        [masculine] Hlásit chyby jako je tato a pomoci tak { -vendor-short-name(case: "dat") } identifikovat a blokovat škodlivé stránky
-        [feminine] Hlásit chyby jako je tato a pomoci tak { -vendor-short-name(case: "dat") } identifikovat a blokovat škodlivé stránky
-        [neuter] Hlásit chyby jako je tato a pomoci tak { -vendor-short-name(case: "dat") } identifikovat a blokovat škodlivé stránky
-       *[other] Hlásit chyby jako je tato a pomoci tak organizaci { -vendor-short-name } identifikovat a blokovat škodlivé stránky
+    { -vendor-short-name.case-status ->
+        [with-cases] Hlásit chyby jako je tato a pomoci tak { -vendor-short-name(case: "dat") } identifikovat a blokovat škodlivé stránky
+       *[no-cases] Hlásit chyby jako je tato a pomoci tak organizaci { -vendor-short-name } identifikovat a blokovat škodlivé stránky
     }
 
 ## Specific error messages
