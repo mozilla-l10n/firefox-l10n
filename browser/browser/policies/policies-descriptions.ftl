@@ -91,22 +91,29 @@ policy-PrimaryPassword = Requerir o impedir l'ús d'una contrasenya principal.
 policy-NetworkPrediction = Activa o desactiva la predicció de xarxa (obtenció prèvia de DNS).
 policy-NewTabPage = Activa o desactiva la pàgina de pestanya nova.
 policy-PasswordManagerEnabled = Permet desar les contrasenyes en el gestor de contrasenyes.
+policy-PasswordManagerExceptions = Impedeix que el { -brand-short-name } desi contrasenyes de llocs específics.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactiva o configura el PDF.js, el visor de PDF incorporat en el { -brand-short-name }.
+policy-Permissions2 = Configura els permisos de la càmera, el micròfon, la ubicació, les notificacions i la reproducció automàtica.
 policy-PictureInPicture = Activa o desactiva el mode d'Imatge sobre imatge.
 policy-PopupBlocking = Permet que determinats llocs web mostrin finestres emergents per defecte.
+policy-Preferences = Defineix i bloca els valors d'un subconjunt de preferències.
 policy-PromptForDownloadLocation = Demana on es desaran els fitxers en baixar-los.
 policy-Proxy = Configura els paràmetres del servidor intermediari.
 policy-RequestedLocales = Defineix la llista de llengües sol·licitades per a l'aplicació, en ordre de preferència.
 policy-SanitizeOnShutdown2 = Esborra les dades de navegació en sortir.
 policy-SearchBar = Defineix la ubicació per defecte de la barra de cerca. L'usuari encara la pot personalitzar.
+policy-SearchEngines = Configura els paràmetres del motor de cerca. Aquesta política només està disponible en la versió Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Activa o desactiva els suggeriments de cerca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instal·la mòduls PKCS #11.
 policy-ShowHomeButton = Mostra el botó d'inici a la barra d'eines.
 policy-SSLVersionMax = Defineix la versió màxima de SSL.
 policy-SSLVersionMin = Defineix la versió mínima de SSL.
+policy-StartDownloadsInTempDirectory = Força que les baixades s'iniciïn en una ubicació local temporal en lloc del directori de baixades per defecte.
 policy-SupportMenu = Afegeix un element de menú d'assistència personalitzat en el menú d'ajuda.
 policy-UserMessaging = No mostra certs missatges a l'usuari.
+policy-UseSystemPrintDialog = Imprimeix mitjançant el diàleg d'impressió del sistema.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloca les visites a pàgines web. Vegeu la documentació per a més detalls sobre el format.
+policy-Windows10SSO = Permet l'inici de sessió únic del Windows per a comptes laborals i acadèmics de Microsoft.
