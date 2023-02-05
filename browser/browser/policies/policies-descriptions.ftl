@@ -95,7 +95,7 @@ policy-NoDefaultBookmarks = Desactiva la creació de les adreces d'interès per 
 policy-OfferToSaveLogins = Força el paràmetre per a permetre que el { -brand-short-name } ofereixi recordar els inicis de sessió i les contrasenyes que s'hagin desat. Els valors acceptats són «true» (cert) i «false» (fals).
 policy-OfferToSaveLoginsDefault = Defineix el valor per defecte del paràmetre per a permetre que el { -brand-short-name } ofereixi recordar els inicis de sessió i les contrasenyes que s'hagin desat. Els valors acceptats són «true» (cert) i «false» (fals).
 policy-OverrideFirstRunPage = No mostra la pàgina de primera execució. Deixeu el valor d'aquesta política en blanc si voleu desactivar la pàgina de primera execució.
-policy-OverridePostUpdatePage = No mostra la pàgina «Novetats» posterior a l'actualització. Deixeu el valor d'aquesta política en blanc si voleu desactivar la pàgina de primera execució.
+policy-OverridePostUpdatePage = No mostra la pàgina «Novetats» després d'una actualització. Deixeu el valor d'aquesta política en blanc si voleu desactivar la pàgina «Novetats» després d'una actualització.
 policy-PasswordManagerEnabled = Permet desar les contrasenyes en el gestor de contrasenyes.
 policy-PasswordManagerExceptions = Impedeix que el { -brand-short-name } desi contrasenyes de llocs específics.
 # PDF.js and PDF should not be translated
