@@ -41,26 +41,20 @@ pocket-panel-signup-login = Přihlaste se
 pocket-panel-signup-signup-email = Registrace e-mailem
 pocket-panel-signup-signup-cta = Zaregistrujte si { -pocket-brand-name(case: "acc") }. Je zdarma.
 pocket-panel-signup-signup-firefox =
-    Registrace pomocí { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "gen") }
-        [feminine] { -brand-product-name(case: "gen") }
-        [neuter] { -brand-product-name(case: "gen") }
-       *[other] aplikace { -brand-product-name }
+    { -brand-product-name.case-status ->
+        [with-cases] Registrace pomocí { -brand-product-name(case: "gen") }
+       *[no-cases] Registrace pomocí aplikace { -brand-product-name }
     }
 pocket-panel-signup-tagline =
-    Ukládejte si články a videa z { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "gen") }
-        [feminine] { -brand-product-name(case: "gen") }
-        [neuter] { -brand-product-name(case: "gen") }
-       *[other] aplikace { -brand-product-name }
-    } do { -pocket-brand-name(case: "gen") } pro zobrazení kdykoliv a na jakémkoli zařízení.
+    { -brand-product-name.case-status ->
+        [with-cases] Ukládejte si články a videa z { -brand-product-name(case: "gen") } do { -pocket-brand-name(case: "gen") } pro zobrazení kdykoliv a na jakémkoli zařízení.
+       *[no-cases] Ukládejte si články a videa z aplikace { -brand-product-name } do { -pocket-brand-name(case: "gen") } pro zobrazení kdykoliv a na jakémkoli zařízení.
+    }
 pocket-panel-signup-tagline-story-one =
-    Klepněte na tlačítko { -pocket-brand-name(case: "gen") } pro uložení jakéhokoliv článku, videa nebo stránky přímo z { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "gen") }
-        [feminine] { -brand-product-name(case: "gen") }
-        [neuter] { -brand-product-name(case: "gen") }
-       *[other] aplikace { -brand-product-name }
-    }.
+    { -brand-product-name.case-status ->
+        [with-cases] Klepněte na tlačítko { -pocket-brand-name(case: "gen") } pro uložení jakéhokoliv článku, videa nebo stránky přímo z { -brand-product-name(case: "gen") }.
+       *[no-cases] Klepněte na tlačítko { -pocket-brand-name(case: "gen") } pro uložení jakéhokoliv článku, videa nebo stránky přímo z aplikace { -brand-product-name }.
+    }
 pocket-panel-signup-tagline-story-two = Zobrazení v { -pocket-brand-name(case: "loc") } kdykoliv a na jakémkoliv zařízení.
 pocket-panel-signup-cta-a-fix = Vaše tlačítko „uložit“ pro internet
 pocket-panel-signup-cta-b = Klepnutím na tlačítko { -pocket-brand-name(case: "gen") } můžete ukládat články, videa nebo odkazy. Seznam si můžete kdykoliv zobrazit na kterémkoliv svém zařízení.

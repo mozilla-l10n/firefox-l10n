@@ -274,12 +274,10 @@ menu-tools-sync-now =
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label =
-        Znovu připojit k účtu { -brand-product-name.gender ->
-            [masculine] { -brand-product-name(case: "gen") }
-            [feminine] { -brand-product-name(case: "gen") }
-            [neuter] { -brand-product-name(case: "gen") }
-           *[other] aplikace { -brand-product-name }
-        }…
+        { -brand-product-name.case-status ->
+            [with-cases] Znovu připojit k účtu { -brand-product-name(case: "gen") }…
+           *[no-cases] Znovu připojit k účtu aplikace { -brand-product-name }…
+        }
     .accesskey = n
 menu-tools-browser-tools =
     .label = Nástroje prohlížeče

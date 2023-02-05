@@ -34,6 +34,8 @@ about-logins-menu-menuitem-help = Nápověda
 
 login-list =
     .aria-label = Nalezené přihlašovací údaje
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [0] žádné přihlašovací údaje
@@ -81,23 +83,23 @@ about-logins-list-section-week = Posledních 7 dní
 about-logins-login-intro-heading-logged-out2 = Hledáte své uložené přihlašovací údaje? Zapněte si synchronizaci nebo je naimportujte.
 about-logins-login-intro-heading-logged-in = Nenalezeny žádné synchronizované přihlašovací údaje.
 login-intro-description =
-    Pokud jste si přihlašovací údaje uložili do { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "gen") }
-        [feminine] { -brand-product-name(case: "gen") }
-        [neuter] { -brand-product-name(case: "gen") }
-       *[other] aplikace { -brand-product-name }
-    }, ale na jiném zařízení, můžete je zde získat takto:
+    { -brand-product-name.case-status ->
+        [with-cases] Pokud jste si přihlašovací údaje uložili do { -brand-product-name(case: "gen") }, ale na jiném zařízení, můžete je zde získat takto:
+       *[no-cases] Pokud jste si přihlašovací údaje uložili do aplikace { -brand-product-name }, ale na jiném zařízení, můžete je zde získat takto:
+    }
 login-intro-instructions-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } na zařízení, kde máte přihlašovací údaje uložené.
 login-intro-instructions-fxa-settings = Otevřete Nastavení > Synchronizace > Zapnout synchronizaci… a vyberte položku Přihlašovací údaje.
 login-intro-instructions-fxa-passwords-help = Navštivte <a data-l10n-name="passwords-help-link">nápovědu pro hesla</a>.
 about-logins-intro-browser-only-import =
-    { -brand-product-name.gender ->
-        [masculine] Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do { -brand-product-name(case: "gen") }</a>
-        [feminine] Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do { -brand-product-name(case: "gen") }</a>
-        [neuter] Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do { -brand-product-name(case: "gen") }</a>
-       *[other] Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do aplikace { -brand-product-name }</a>
+    { -brand-product-name.case-status ->
+        [with-cases] Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do { -brand-product-name(case: "gen") }</a>
+       *[no-cases] Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do aplikace { -brand-product-name }</a>
     }
-about-logins-intro-import2 = Pokud máte přihlašovací údaje uložené mimo { -brand-product-name(case: "acc") }, můžete je <a data-l10n-name="import-browser-link">naimportovat z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>
+about-logins-intro-import2 =
+    { -brand-product-name.case-status ->
+        [with-cases] Pokud máte přihlašovací údaje uložené mimo { -brand-product-name(case: "acc") }, můžete je <a data-l10n-name="import-browser-link">naimportovat z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>
+       *[no-cases] Pokud máte přihlašovací údaje uložené mimo aplikaci { -brand-product-name }, můžete je <a data-l10n-name="import-browser-link">naimportovat z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>
+    }
 
 ## Login
 
@@ -129,6 +131,8 @@ login-item-time-used = Naposledy použito { DATETIME($timeUsed, day: "numeric", 
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Vytvořeno
 login-item-timeline-action-updated = Aktualizováno
@@ -178,6 +182,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
 about-logins-confirm-remove-dialog-confirm-button = Odstranit
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Odstranit
@@ -212,6 +220,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [neuter] v { -brand-short-name(case: "loc") }
        *[other] v aplikaci { -brand-short-name }
     } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+
+##
+
 about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
 about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
 about-logins-confirm-export-dialog-confirm-button = Exportovat…

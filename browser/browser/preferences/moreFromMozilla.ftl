@@ -45,11 +45,9 @@ more-from-moz-qr-code-box-firefox-mobile-title = Pro stažení do svého mobiln�
 more-from-moz-qr-code-box-firefox-mobile-button = Nebo si nechte odkaz do mobilu poslat e-mailem
 more-from-moz-qr-code-firefox-mobile-img =
     .alt =
-        { -brand-product-name.gender ->
-            [masculine] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
-            [feminine] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
-            [neuter] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
-           *[other] QR kód pro stažení aplikace { -brand-product-name } pro mobily
+        { -brand-product-name.case-status ->
+            [with-cases] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
+           *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobily
         }
 more-from-moz-button-mozilla-vpn-2 = Získat VPN
 more-from-moz-learn-more-link = Zjistit více
