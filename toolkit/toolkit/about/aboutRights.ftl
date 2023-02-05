@@ -35,7 +35,11 @@ rights-intro-point-4-unbranded = Zásady ochrany osobních údajů nejsou pro ne
 rights-intro-point-5 = Některé funkce aplikace { -brand-short-name } využívají webové informační služby. U těchto služeb nelze garantovat jejich 100% správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v <a data-l10n-name="mozilla-service-terms-link">podmínkách služeb</a>.
 rights-intro-point-5-unbranded = Pokud tato neznačková verze produktu začleňuje některé služby webových serverů, měly by být jejich podmínky k nalezení v <a data-l10n-name="mozilla-website-services-link">podmínkách služeb</a>.
 rights-intro-point-6 = Pro přehrání některých typů video obsahu { -brand-short-name } stáhne odpovídající dešifrovací moduly třetích stran.
-rights-webservices-header = Webové informační služby aplikace { -brand-full-name }
+rights-webservices-header =
+    { -brand-full-name.case-status ->
+        [with-cases] Webové informační služby { -brand-full-name(case: "gen") }
+       *[no-cases] Webové informační služby aplikace { -brand-full-name }
+    }
 rights-webservices = { -brand-full-name } používá webové informační služby („Služby“) z důvodu zajištění některých funkcí dostupných v rámci této binární verze aplikace { -brand-short-name } za podmínek popsaných níže. Pokud si nepřejete jednu nebo více Služeb používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, lze tyto služby vypnout. Postup, jak lze vypnout určitou funkcionalitu nebo Službu, lze najít <a data-l10n-name="mozilla-disable-service-link">zde</a>. Další funkce a Služby lze zakázat v předvolbách aplikace.
 rights-safebrowsing = <strong>Bezpečné prohlížení: </strong>Zakázání funkce bezpečného prohlížení není doporučováno, protože vám umožní navštěvovat nebezpečné stránky. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:
 rights-safebrowsing-term-1 = Otevřete předvolby aplikace

@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Získat názvy funkcí ze zásobníků
 about-telemetry-hide-stack-symbols = Zobrazit surová data zásobníku
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] informace o vydání
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] je povoleno
@@ -58,9 +58,9 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } vzorek
@@ -68,37 +68,41 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } vzorků
     }, průměr = { $prettyAverage }, součet = { $sum }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = Tato stránka zobrazuje data o výkonu, hardwaru, používání a přizpůsobení aplikace. Tyto informace jsou anonymně odesílány organizaci { $telemetryServerOwner } a slouží k vylepšování aplikace { -brand-full-name }.
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle =
+    { -brand-full-name.case-status ->
+        [with-cases] Tato stránka zobrazuje data o výkonu, hardwaru, používání a přizpůsobení aplikace. Tyto informace jsou anonymně odesílány organizaci { $telemetryServerOwner } a slouží k vylepšování { -brand-full-name(case: "gen") }.
+       *[no-cases] Tato stránka zobrazuje data o výkonu, hardwaru, používání a přizpůsobení aplikace. Tyto informace jsou anonymně odesílány organizaci { $telemetryServerOwner } a slouží k vylepšování aplikace { -brand-full-name }.
+    }
 about-telemetry-settings-explanation = Telemetrie sbírá { about-telemetry-data-type } a její odesílání <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Všechny informace jsou odesílány jako součást „<a data-l10n-name="ping-link">pings</a>“. Nyní se díváte na ping { $name }, { $timestamp }.
 about-telemetry-data-details-current = Všechny informace jsou odesílány jako součást „<a data-l10n-name="ping-link">pings</a>“. Nyní se díváte na současná data.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Najít v { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Najít ve všech sekcích
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Výsledky hledání „{ $searchTerms }“
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Je nám líto, pro „{ $currentSearchText }“ jsme v sekci { $sectionName } nic nenašli
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Je nám líto, pro „{ $searchTerms }“ jsme v žádné sekci nic nenašli
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Je nám líto, v sekci „{ $sectionName }“ teď nejsou žádná data
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = aktuální data
@@ -116,13 +120,13 @@ about-telemetry-slow-sql-statement = Dotaz
 about-telemetry-addon-table-id = ID doplňku
 about-telemetry-addon-table-details = Podrobnosti
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Poskytovatel ({ $addonProvider })
 about-telemetry-keys-header = Vlastnost
 about-telemetry-names-header = Název
 about-telemetry-values-header = Hodnota
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Zpožděné zápisy: #{ $lateWriteCount }
 about-telemetry-stack-title = Zásobník:
 about-telemetry-memory-map-title = Mapa paměti:
@@ -136,7 +140,7 @@ about-telemetry-origin-section = Origin telemetrie
 about-telemetry-origin-origin = origin
 about-telemetry-origin-count = počet
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - The value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation =
     <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> kóduje před odesláním data tak, aby z nich mohl provozovatel serveru, { $telemetryServerOwner }, získávat různé součty, ale nemohl zjistit, které konkrétní instance { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "gen") }
@@ -145,5 +149,5 @@ about-telemetry-origins-explanation =
        *[other] aplikace { -brand-product-name }
     } jsou do nich zahrnuté. (<a data-l10n-name="prio-blog-link">zjistit více</a>)
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = typ procesu: { $process }

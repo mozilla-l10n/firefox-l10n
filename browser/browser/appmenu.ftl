@@ -7,11 +7,9 @@
 
 appmenuitem-banner-update-downloading =
     .label =
-        Stahování aktualizace { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] { "" }
+        { -brand-shorter-name.case-status ->
+            [with-cases] Stahování aktualizace { -brand-shorter-name(case: "gen") }
+           *[no-cases] Stahování aktualizace
         }
 appmenuitem-banner-update-available =
     .label = Nová aktualizace — stáhnout
@@ -179,35 +177,33 @@ profiler-popup-presets-web-developer-description = Doporučené nastavení s min
 profiler-popup-presets-web-developer-label =
     .label = Nástroje pro webové vývojáře
 profiler-popup-presets-firefox-description =
-    Doporučené nastavení pro profilování { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "gen") }
-        [feminine] { -brand-shorter-name(case: "gen") }
-        [neuter] { -brand-shorter-name(case: "gen") }
-       *[other] aplikace { -brand-shorter-name }
-    }.
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro profilování { -brand-shorter-name(case: "gen") }.
+       *[no-cases] Doporučené nastavení pro profilování aplikace { -brand-shorter-name }.
+    }
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-description =
-    Doporučené nastavení pro ladění grafických chyb v { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "loc") }
-        [feminine] { -brand-shorter-name(case: "loc") }
-        [neuter] { -brand-shorter-name(case: "loc") }
-       *[other] aplikaci { -brand-shorter-name }
-    }.
+    { -brand-shorter-name.gender ->
+        [masculine] Doporučené nastavení pro ladění grafických chyb ve { -brand-shorter-name(case: "loc") }.
+        [feminine] Doporučené nastavení pro ladění grafických chyb v { -brand-shorter-name(case: "loc") }.
+        [neuter] Doporučené nastavení pro ladění grafických chyb v { -brand-shorter-name(case: "loc") }.
+       *[other] Doporučené nastavení pro ladění grafických chyb v aplikaci { -brand-shorter-name }.
+    }
 profiler-popup-presets-graphics-label =
     .label = Grafika
 profiler-popup-presets-media-description2 =
-    Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "loc") }
-        [feminine] { -brand-shorter-name(case: "loc") }
-        [neuter] { -brand-shorter-name(case: "loc") }
-       *[other] aplikaci { -brand-shorter-name }
-    }.
+    { -brand-shorter-name.gender ->
+        [masculine] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa ve { -brand-shorter-name(case: "loc") }.
+        [feminine] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v { -brand-shorter-name(case: "loc") }.
+        [neuter] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v { -brand-shorter-name(case: "loc") }.
+       *[other] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v aplikaci { -brand-shorter-name }.
+    }
 profiler-popup-presets-media-label =
     .label = Média
 profiler-popup-presets-networking-description =
     { -brand-shorter-name.gender ->
-        [masculine] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
+        [masculine] Doporučené nastavení pro ladění síťových problémů ve { -brand-shorter-name(case: "loc") }.
         [feminine] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
         [neuter] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
        *[other] Doporučené nastavení pro ladění síťových problémů v aplikaci { -brand-shorter-name }.
@@ -215,11 +211,9 @@ profiler-popup-presets-networking-description =
 profiler-popup-presets-networking-label =
     .label = Síť
 profiler-popup-presets-power-description =
-    { -brand-shorter-name.gender ->
-        [masculine] Doporučené nastavení pro ladění chyb ve spotřebě { -brand-shorter-name(case: "gen") }.
-        [feminine] Doporučené nastavení pro ladění chyb ve spotřebě { -brand-shorter-name(case: "gen") }.
-        [neuter] Doporučené nastavení pro ladění chyb ve spotřebě { -brand-shorter-name(case: "gen") }.
-       *[other] Doporučené nastavení pro ladění chyb ve spotřebě aplikace { -brand-shorter-name }.
+    { -brand-shorter-name.case-status ->
+        [with-cases] Doporučené nastavení pro ladění chyb ve spotřebě { -brand-shorter-name(case: "gen") }.
+       *[no-cases] Doporučené nastavení pro ladění chyb ve spotřebě aplikace { -brand-shorter-name }.
     }
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
@@ -247,14 +241,16 @@ appmenu-recently-closed-windows =
 
 appmenu-help-header =
     .title =
-        Nápověda { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] aplikace { -brand-shorter-name }
+        { -brand-shorter-name.case-status ->
+            [with-cases] Nápověda { -brand-shorter-name(case: "gen") }
+           *[no-cases] Nápověda aplikace { -brand-shorter-name }
         }
 appmenu-about =
-    .label = O aplikaci { -brand-shorter-name }
+    .label =
+        { -brand-shorter-name.case-status ->
+            [with-cases] O { -brand-shorter-name(case: "loc") }
+           *[no-cases] O aplikaci { -brand-shorter-name }
+        }
     .accesskey = O
 appmenu-get-help =
     .label = Získat pomoc
