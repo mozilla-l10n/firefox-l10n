@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Geçmişten kaldır
     .accesskey = G
+urlbar-result-menu-tip-get-help =
+    .label = Yardım al
+    .accesskey = Y
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -703,6 +706,11 @@ bookmarks-other-bookmarks-menu =
     .label = Diğer yer imleri
 bookmarks-mobile-bookmarks-menu =
     .label = Mobil yer imleri
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -727,6 +735,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Yer imleri menüsünü araç çubuğundan çıkar
            *[other] Yer imleri menüsünü araç çubuğuna ekle
         }
+
+##
+
 bookmarks-search =
     .label = Yer imlerinde ara
 bookmarks-tools =
