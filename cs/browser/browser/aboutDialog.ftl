@@ -4,11 +4,9 @@
 
 aboutDialog-title =
     .title =
-        O { -brand-full-name.gender ->
-            [masculine] { -brand-full-name(case: "loc") }
-            [feminine] { -brand-full-name(case: "loc") }
-            [neuter] { -brand-full-name(case: "loc") }
-           *[other] aplikaci { -brand-full-name }
+        { -brand-full-name.case-status ->
+            [with-cases] O { -brand-full-name(case: "loc") }
+           *[no-cases] O aplikaci { -brand-full-name }
         }
 releaseNotes-link = Co je nového
 update-checkForUpdatesButton =
@@ -16,11 +14,9 @@ update-checkForUpdatesButton =
     .accesskey = Z
 update-updateButton =
     .label =
-        Restartovat a aktualizovat { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] aplikaci { -brand-shorter-name }
+        { -brand-shorter-name.case-status ->
+            [with-cases] Restartovat a aktualizovat { -brand-shorter-name(case: "acc") }
+           *[no-cases] Restartovat a aktualizovat aplikaci { -brand-shorter-name }
         }
     .accesskey = R
 update-checkingForUpdates = Kontrola aktualizací…
@@ -46,11 +42,9 @@ update-internal-error = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní
 channel-description = Používáte aktualizační kanál <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } je experimentální verze a může být nestabilní.
 aboutdialog-help-user =
-    Nápověda { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "gen") }
-        [feminine] { -brand-product-name(case: "gen") }
-        [neuter] { -brand-product-name(case: "gen") }
-       *[other] aplikace { -brand-product-name }
+    { -brand-product-name.case-status ->
+        [with-cases] Nápověda { -brand-product-name(case: "gen") }
+       *[no-cases] Nápověda aplikace { -brand-product-name }
     }
 aboutdialog-submit-feedback = Odeslat zpětnou vazbu
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
