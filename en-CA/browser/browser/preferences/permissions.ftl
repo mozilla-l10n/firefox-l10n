@@ -17,7 +17,7 @@ permissions-block =
     .accesskey = B
 permissions-disable-etp =
     .label = Add Exception
-    .accesskey = A
+    .accesskey = E
 permissions-session =
     .label = Allow for Session
     .accesskey = S
@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Please enter a valid hostname
 permissions-exceptions-etp-window =
     .title = Exceptions for Enhanced Tracking Protection
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = You’ve turned off protections on these websites.
 permissions-exceptions-etp-window2 =
     .title = Exceptions for Enhanced Tracking Protection
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = You’ve turned off protections on these websites.
 
 ## Exceptions - Cookies
 
