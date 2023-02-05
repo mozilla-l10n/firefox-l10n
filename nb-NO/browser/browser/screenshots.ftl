@@ -44,4 +44,3 @@ screenshots-private-window-error-title = { -screenshots-brand-name } er deaktive
 screenshots-private-window-error-details = Beklager ulempen. Vi jobber med denne funksjonen for fremtidige utgivelser.
 screenshots-generic-error-title = Oi! Det ser ut til at { -screenshots-brand-name } ikke fungerer korrekt.
 screenshots-generic-error-details = Vi er ikke sikre på hva som hendte. Kan du prøve igjen eller ta et bilde av en annen side?
-screenshots-too-large-error-title = { "" }
