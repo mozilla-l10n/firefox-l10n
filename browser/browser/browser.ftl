@@ -771,6 +771,11 @@ bookmarks-other-bookmarks-menu =
     .label = Ostatní záložky
 bookmarks-mobile-bookmarks-menu =
     .label = Záložky z mobilu
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -795,6 +800,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Odebrat nabídku záložek z lišty
            *[other] Přidat nabídku záložek na lištu
         }
+
+##
+
 bookmarks-search =
     .label = Hledat v záložkách
 bookmarks-tools =
@@ -1065,7 +1073,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-relay = Služba { -relay-brand-name } skryje vaši skutečnou e-mailovou adresu, aby vás ochránila před úniky dat a nevyžádanou poštou.
+firefox-relay-offer-why-relay = { -relay-brand-name } skryje vaši skutečnou e-mailovou adresu, aby vás ochránila před úniky dat a nevyžádanou poštou.
 firefox-relay-offer-how-we-integrate =
     { -brand-shorter-name.gender ->
         [masculine] Budete-li pokračovat, budete moci generovat nové e-mailové masky služby { -relay-brand-short-name } přímo ze správce přihlašovacích údajů ve { -brand-shorter-name(case: "loc") }.

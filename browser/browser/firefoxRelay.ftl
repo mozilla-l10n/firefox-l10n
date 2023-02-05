@@ -9,15 +9,23 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 firefox-relay-mask-generation-failed =
-    { -brand-short-name.gender ->
+    { -relay-brand-name.gender ->
         [masculine] { -relay-brand-name } nedokázal vygenerovat novou masku. Kód chyby HTTP: { $status }.
         [feminine] { -relay-brand-name } nedokázala vygenerovat novou masku. Kód chyby HTTP: { $status }.
         [neuter] { -relay-brand-name } nedokázalo vygenerovat novou masku. Kód chyby HTTP: { $status }.
        *[other] Služba { -relay-brand-name } nedokázala vygenerovat novou masku. Kód chyby HTTP: { $status }.
     }
+firefox-relay-get-reusable-masks-failed =
+    { -relay-brand-name.gender ->
+        [masculine] { -relay-brand-name } nenašel znovupoužitelné masky. Kód chyby HTTP: { $status }.
+        [feminine] { -relay-brand-name } nenašla znovupoužitelné masky. Kód chyby HTTP: { $status }.
+        [neuter] { -relay-brand-name } nenašlo znovupoužitelné masky. Kód chyby HTTP: { $status }.
+       *[other] Služba { -relay-brand-name } nenašla znovupoužitelné masky. Kód chyby HTTP: { $status }.
+    }
 
 ##
 
+firefox-relay-must-login-to-fxa = Abyste mohli používat { -relay-brand-name(case: "acc") }, musíte se přihlásit k { -fxaccount-brand-name(case: "", capitalization: "lower") }.
 firefox-relay-get-unlimited-masks =
     .label = Spravovat masky
     .accesskey = m

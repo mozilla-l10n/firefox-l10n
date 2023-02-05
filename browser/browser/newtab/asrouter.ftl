@@ -239,7 +239,7 @@ firefoxview-cfr-secondarybutton = Teď ne
 
 firefoxview-spotlight-promo-title = Přivítejte { -firefoxview-brand-name(case: "acc") }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Chcete zrovna ten panel otevřený v telefonu? Vezměte si ho. Potřebujete znovu tu stránku, co jste před chvílí navštívili? Hups, díky { -firefoxview-brand-name(case: "dat") } ji máte zpátky.
+firefoxview-spotlight-promo-subtitle = Chcete zrovna ten panel otevřený v telefonu? Vezměte si ho. Potřebujete znovu tu stránku, co jste před chvílí navštívili? Hups, díky { -firefoxview-brand-name(case: "dat", capitalization: "lower") } ji máte zpátky.
 firefoxview-spotlight-promo-primarybutton = Jak to funguje
 firefoxview-spotlight-promo-secondarybutton = Přeskočit
 

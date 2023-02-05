@@ -104,7 +104,17 @@
         [ins] Mozillou VPN
     }
     .gender = feminine
--profiler-brand-name = Firefox Profiler
+-profiler-brand-name =
+    { $case ->
+        [gen] Firefox Profileru
+        [dat] Firefox Profileru
+        [acc] Firefox Profiler
+        [voc] Firefox Profilere
+        [loc] Firefox Profileru
+        [ins] Firefox Profilerem
+       *[nom] Firefox Profiler
+    }
+    .gender = masculine
 -translations-brand-name = Firefox Translations
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
@@ -119,7 +129,18 @@
         [ins] Firefoxem Focus
     }
     .gender = masculine
-
+-relay-brand-name =
+    { $case ->
+       *[nom] Firefox Relay
+        [gen] Firefoxu Relay
+        [dat] Firefoxu Relay
+        [acc] Firefox Relay
+        [voc] Firefoxe Relay
+        [loc] Firefoxu Relay
+        [ins] Firefoxem Relay
+    }
+    .gender = masculine
+-relay-brand-short-name = Relay
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name =
@@ -160,7 +181,6 @@
                 [lower] návrhy od Firefoxu
             }
     }
-
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name =
@@ -201,7 +221,6 @@
                 [lower] domovskou stránkou Firefoxu
             }
     }
-
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name =
@@ -242,16 +261,3 @@
                 [lower] přehledem Firefoxu
             }
     }
-
--relay-brand-name =
-    { $case ->
-       *[nom] Firefox Relay
-        [gen] Firefoxu Relay
-        [dat] Firefoxu Relay
-        [acc] Firefox Relay
-        [voc] Firefoxe Relay
-        [loc] Firefoxu Relay
-        [ins] Firefoxem Relay
-    }
-    .gender = masculine
--relay-brand-short-name = Relay
