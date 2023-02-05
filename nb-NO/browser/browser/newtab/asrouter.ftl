@@ -246,6 +246,27 @@ colorways-cfr-header-14days = Fargesammensettingen «Uavhengige stemmer» utløp
 colorways-cfr-header-7days = Fargesammensettingen «Uavhengige stemmer» utløper denne uken
 colorways-cfr-header-today = Fargesammensettingen «Uavhengige stemmer» utløper i dag
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Fjern infoskapselbannere!
+cfr-cookiebanner-body = Tillat at { -brand-short-name } automatisk avviser alle forespørsler om infoskapselbanner når det er mulig.
+cfr-cookiebanner-accept-button = Avvis bannere
+    .accesskey = A
+cfr-cookiebanner-reject-button = Ikke nå
+    .accesskey = k
+cfr-cookiebanner-header-variant-1 = Se færre sprettoppvinduer for infokapsler
+cfr-cookiebanner-body-variant-1 = La { -brand-short-name } automatisk svare på sprettoppvinduer om infokapsler for deg slik at du kan gå tilbake til distraksjonsfri surfing. { -brand-short-name } vil avvise alle forespørsler hvis mulig.
+cfr-cookiebanner-accept-button-variant-1 = Avvis sprettoppvinduer
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-1 = Nei takk
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Redusering av infoskapselbannere
+cfr-cookiebanner-accept-button-variant-2 = Tillat
+    .accesskey = T
+cfr-cookiebanner-reject-button-variant-2 = Ikke nå
+    .accesskey = k
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Vi beskytter deg
