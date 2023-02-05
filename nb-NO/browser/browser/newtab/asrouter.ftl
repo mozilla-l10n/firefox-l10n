@@ -262,6 +262,7 @@ cfr-cookiebanner-accept-button-variant-1 = Avvis sprettoppvinduer
 cfr-cookiebanner-reject-button-variant-1 = Nei takk
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Redusering av infoskapselbannere
+cfr-cookiebanner-body-variant-2 = Reduser mengden infoskapselbannere du ser ved å la { -brand-short-name } avslå forespørselen om samtykke fra et nettsted om mulig.
 cfr-cookiebanner-accept-button-variant-2 = Tillat
     .accesskey = T
 cfr-cookiebanner-reject-button-variant-2 = Ikke nå
