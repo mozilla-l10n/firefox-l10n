@@ -35,6 +35,10 @@ about-glean-prefs-and-defines = 관련 <a data-l10n-name="fog-prefs-and-defines-
 # Do not translate strings between <code> </code> tags.
 about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
 # Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
 #   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
 # Do not translate strings between <code> </code> tags.
 about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
@@ -43,6 +47,8 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = 테스트 정보
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (ping을 제출하지 마세요)
 controls-button-label-verbose = 설정 적용 및 핑 제출
 about-glean-about-data-header = 데이터 정보
 about-glean-about-data-explanation =
