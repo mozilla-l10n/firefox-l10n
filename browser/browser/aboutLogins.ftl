@@ -34,6 +34,8 @@ about-logins-menu-menuitem-help = HJelp
 
 login-list =
     .aria-label = Innloggingar som samsvarar med søket
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } innlogging
@@ -106,6 +108,9 @@ login-item-time-used = Sist brukt: { DATETIME($timeUsed, day: "numeric", month: 
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Oppretta
 login-item-timeline-action-updated = Oppdatert
 login-item-timeline-action-used = Brukt
@@ -154,6 +159,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Fjerne denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fjern
@@ -184,6 +193,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Dette fjernar innlogginga du har lagra i { -brand-short-name } på alle einingar som er synkroniserte med { -fxaccount-brand-name }. Dette vil også fjerne varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
        *[other] Dette fjernar alle innloggingar du har lagra i { -brand-short-name } på alle einingar som er synkroniserte med { -fxaccount-brand-name }. Dette vil også fjerne varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
 about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
