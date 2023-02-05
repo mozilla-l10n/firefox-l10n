@@ -67,11 +67,22 @@ cfr-doorhanger-extension-total-users =
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Koniec z komunikatami o ciasteczkach!
 cfr-cookie-banner-handling-body = Pozwól { -brand-short-name(case: "dat") } automatycznie odrzucać wszystkie prośby o akceptację ciasteczek, kiedy to możliwe. Jeśli nie, to wszystkie ciasteczka będą akceptowane, aby zamykać jeszcze więcej próśb.
-cfr-cookie-banner-accept-button = Zamykaj prośby
-    .accesskey = Z
+cfr-cookie-banner-accept-button = Odrzucaj prośby o akceptację ciasteczek
+    .accesskey = O
 cfr-cookie-banner-reject-button = Nie teraz
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = Zmniejsz liczbę komunikatów o ciasteczkach
+cfr-cookie-banner-handling-body-variant-1 = Pozwól { -brand-short-name(case: "dat") } automatycznie odpowiadać na komunikaty o ciasteczkach, aby nie odrywać się od przeglądania. { -brand-short-name } odrzuci wszystkie prośby, jeśli to możliwe, lub zaakceptuje je, jeśli nie.
+cfr-cookie-banner-accept-button-variant-1 = Odrzucaj komunikaty o ciasteczkach
+    .accesskey = O
+cfr-cookie-banner-reject-button-variant-1 = Nie, dziękuję
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Ograniczanie informacji o ciasteczkach
+cfr-cookie-banner-handling-body-variant-2 = Czy pozwolić { -brand-short-name(case: "dat") } odrzucać prośby witryny o zgodę na ciasteczka, jeśli to możliwe, lub akceptować ciasteczka, kiedy się nie da?
+cfr-cookie-banner-accept-button-variant-2 = Pozwól
+    .accesskey = P
+cfr-cookie-banner-reject-button-variant-2 = Nie teraz
+    .accesskey = N
 
 ## Firefox Accounts Message
 
@@ -243,6 +254,28 @@ colorways-cfr-header-today = Kolorystyki „Niezależne głosy” wygasają dzis
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Koniec z komunikatami o ciasteczkach!
+cfr-cookiebanner-body = Pozwól { -brand-short-name(case: "dat") } automatycznie odrzucać wszystkie prośby o akceptację ciasteczek, kiedy to możliwe.
+cfr-cookiebanner-accept-button = Odrzucaj prośby o akceptację ciasteczek
+    .accesskey = O
+cfr-cookiebanner-reject-button = Nie teraz
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Zmniejsz liczbę komunikatów o ciasteczkach
+cfr-cookiebanner-body-variant-1 = Pozwól { -brand-short-name(case: "dat") } automatycznie odpowiadać na komunikaty o ciasteczkach, aby nie odrywać się od przeglądania. { -brand-short-name } odrzuci wszystkie prośby, jeśli to możliwe.
+cfr-cookiebanner-accept-button-variant-1 = Odrzucaj komunikaty o ciasteczkach
+    .accesskey = O
+cfr-cookiebanner-reject-button-variant-1 = Nie, dziękuję
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Ograniczanie informacji o ciasteczkach
+cfr-cookiebanner-body-variant-2 = Zmniejsz liczbę wyświetlanych na stronach próśb o akceptację ciasteczek, pozwalając { -brand-short-name(case: "dat") } odrzucać je, jeśli to możliwe.
+cfr-cookiebanner-accept-button-variant-2 = Pozwól
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Nie teraz
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Możesz na nas liczyć
+july-jam-body = Każdego miesiąca { -brand-short-name } blokuje średnio ponad 3000 elementów śledzących na użytkownika, zapewniając bezpieczny i szybki dostęp do dobrego Internetu.
+july-jam-set-default-primary = Otwieraj odnośniki w { -brand-short-name(case: "loc") }
