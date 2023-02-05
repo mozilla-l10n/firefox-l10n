@@ -114,9 +114,9 @@ login-item-time-used = Ultimo utilizzo: { DATETIME($timeUsed, day: "numeric", mo
 ## (e.g. updated, created, etc.)
 
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
-login-item-timeline-action-created = Creata
-login-item-timeline-action-updated = Aggiornata
-login-item-timeline-action-used = Utilizzata
+login-item-timeline-action-created = Crezione
+login-item-timeline-action-updated = Aggiornamento
+login-item-timeline-action-used = Utilizzo
 
 ## OS Authentication dialog
 
