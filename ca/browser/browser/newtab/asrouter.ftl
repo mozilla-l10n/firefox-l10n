@@ -228,6 +228,8 @@ firefoxview-cfr-body-v2 = Recupereu les pestanyes tancades recentment i salteu d
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Us presentem la { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Voleu aquella pestanya que teniu oberta en el telèfon? Recupereu-la a l'instant. Necessiteu un lloc que tot just heu visitat ara mateix? Amb el { -firefoxview-brand-name } és dit i fet.
 firefoxview-spotlight-promo-primarybutton = Com funciona?
 firefoxview-spotlight-promo-secondarybutton = Omet
 
@@ -244,6 +246,20 @@ colorways-cfr-header-today = Les combinacions de colors de Veus independents cad
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Adeu als bàners de galetes!
+cfr-cookiebanner-body = Permeteu que el { -brand-short-name } rebutgi automàticament totes les sol·licituds de bàners de galetes, quan sigui possible.
+cfr-cookiebanner-accept-button = Tanca els bàners
+    .accesskey = T
+cfr-cookiebanner-reject-button = Ara no
+    .accesskey = n
+cfr-cookiebanner-header-variant-1 = Vegeu menys finestres emergents de galetes
+cfr-cookiebanner-body-variant-1 = Permeteu que el { -brand-short-name } gestioni automàticament les finestres emergents de galetes per a una navegació sense distraccions. El { -brand-short-name } rebutjarà totes les sol·licituds, si és possible.
+cfr-cookiebanner-accept-button-variant-1 = Tanca les finestres emergents
+    .accesskey = T
+cfr-cookiebanner-reject-button-variant-1 = No, gràcies
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reducció de bàners de galetes
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
