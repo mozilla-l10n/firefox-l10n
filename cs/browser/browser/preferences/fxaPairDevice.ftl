@@ -12,11 +12,9 @@ fxa-qrcode-heading-step4 = 4. Naskenujte tento kód:
 fxa-pair-device-dialog-sync2 =
     .style = min-width: 32em;
 fxa-qrcode-pair-title =
-    { -brand-product-name.gender ->
-        [masculine] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
-        [feminine] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
-        [neuter] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
-       *[other] Synchronizujte aplikaci { -brand-product-name } se svým telefonem či tabletem.
+    { -brand-product-name.case-status ->
+        [with-cases] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
+       *[no-cases] Synchronizujte aplikaci { -brand-product-name } se svým telefonem či tabletem.
     }
 fxa-qrcode-error-title = Párování se nezdařilo.
 fxa-qrcode-error-body = Zkuste to znovu.

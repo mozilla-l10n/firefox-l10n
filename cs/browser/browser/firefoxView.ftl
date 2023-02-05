@@ -24,26 +24,20 @@ firefoxview-tabpickup-step-signin-header = Plynule přecházejte mezi zařízen�
 firefoxview-tabpickup-step-signin-description = Pro převzetí svých panelů z telefonu se musíte přihlásit nebo si vytvořit účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovat
 firefoxview-tabpickup-adddevice-header =
-    { -brand-product-name.gender ->
-        [masculine] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
-        [feminine] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
-        [neuter] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
-       *[other] Synchronizujte aplikaci { -brand-product-name } se svým telefonem či tabletem.
+    { -brand-product-name.case-status ->
+        [with-cases] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
+       *[no-cases] Synchronizujte aplikaci { -brand-product-name } se svým telefonem či tabletem.
     }
 firefoxview-tabpickup-adddevice-description =
-    { -brand-product-name.gender ->
-        [masculine] Stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení a přihlaste se v něm.
-        [feminine] Stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení a přihlaste se v ní.
-        [neuter] Stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení a přihlaste se v něm.
-       *[other] Stáhněte si aplikaci { -brand-product-name } pro mobilní zařízení a přihlaste se v ní.
+    { -brand-product-name.case-status ->
+        [with-cases] Stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení a přihlaste se v něm.
+       *[no-cases] Stáhněte si aplikaci { -brand-product-name } pro mobilní zařízení a přihlaste se v ní.
     }
 firefoxview-tabpickup-adddevice-learn-how = Zjistěte jak
 firefoxview-tabpickup-adddevice-primarybutton =
-    { -brand-product-name.gender ->
-        [masculine] Získat { -brand-product-name(case: "acc") } pro mobily
-        [feminine] Získat { -brand-product-name(case: "acc") } pro mobily
-        [neuter] Získat { -brand-product-name(case: "acc") } pro mobily
-       *[other] Získat aplikaci { -brand-product-name } pro mobily
+    { -brand-product-name.case-status ->
+        [with-cases] Získat { -brand-product-name(case: "acc") } pro mobily
+       *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
     }
 firefoxview-tabpickup-synctabs-header = Zapnutí synchronizace panelů
 firefoxview-tabpickup-synctabs-learn-how = Zjistěte jak
@@ -65,18 +59,14 @@ firefoxview-tabpickup-signed-out-header = Pro opětovné připojení se přihlas
 firefoxview-tabpickup-signed-out-primarybutton = Přihlásit se
 firefoxview-mobile-promo-header = Vezměte si sem panely z telefonu nebo tabletu
 firefoxview-mobile-promo-description =
-    { -brand-product-name.gender ->
-        [masculine] Pro zobrazení svých nejnovějších panelů z mobilu se musíte v systému iOS nebo Android přihlásit k { -brand-product-name(case: "gen") }.
-        [feminine] Pro zobrazení svých nejnovějších panelů z mobilu se musíte v systému iOS nebo Android přihlásit k { -brand-product-name(case: "gen") }.
-        [neuter] Pro zobrazení svých nejnovějších panelů z mobilu se musíte v systému iOS nebo Android přihlásit k { -brand-product-name(case: "gen") }.
-       *[other] Pro zobrazení svých nejnovějších panelů z mobilu se musíte v systému iOS nebo Android přihlásit k aplikaci { -brand-product-name }.
+    { -brand-product-name.case-status ->
+        [with-cases] Pro zobrazení svých nejnovějších panelů z mobilu se musíte v systému iOS nebo Android přihlásit k { -brand-product-name(case: "gen") }.
+       *[no-cases] Pro zobrazení svých nejnovějších panelů z mobilu se musíte v systému iOS nebo Android přihlásit k aplikaci { -brand-product-name }.
     }
 firefoxview-mobile-promo-primarybutton =
-    { -brand-product-name.gender ->
-        [masculine] Získat { -brand-product-name(case: "acc") } pro mobily
-        [feminine] Získat { -brand-product-name(case: "acc") } pro mobily
-        [neuter] Získat { -brand-product-name(case: "acc") } pro mobily
-       *[other] Získat aplikaci { -brand-product-name } pro mobily
+    { -brand-product-name.case-status ->
+        [with-cases] Získat { -brand-product-name(case: "acc") } pro mobily
+       *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
     }
 firefoxview-mobile-confirmation-header = 🎉 Jdeme na to!
 firefoxview-closed-tabs-title = Nedávno zavřené

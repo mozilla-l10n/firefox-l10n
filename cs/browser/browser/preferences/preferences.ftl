@@ -109,6 +109,17 @@ restart-later = Restartovat později
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = Toto nastavení je spravované rozšířením <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
@@ -180,7 +191,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = V
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -209,6 +220,10 @@ browser-containers-settings =
     .label = Nastavení…
     .accesskey = v
 containers-disable-alert-title = Zavřít všechny kontejnerové panely?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Zakážete-li kontejnerové panely, bude zavřen { $tabCount } kontejnerový panel. Opravdu chcete zakázat kontejnerové panely?
@@ -221,10 +236,13 @@ containers-disable-alert-ok-button =
         [few] Zavřít { $tabCount } kontejnerové panely
        *[other] Zavřít { $tabCount } kontejnerových panelů
     }
+
+##
+
 containers-disable-alert-cancel-button = Nechat povolené
 containers-remove-alert-title = Odstranit tento kontejner?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Pokud odstraníte tento kontejner, bude zavřen { $count } kontejnerový panel. Opravdu chcete kontejner odstranit?
@@ -311,6 +329,8 @@ advanced-fonts =
 preferences-zoom-header = Velikost stránek
 preferences-default-zoom = Výchozí velikost
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage } %
 preferences-zoom-text-only =
@@ -410,15 +430,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Vždy se zeptat
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label =
         Použít { $plugin-name } ({ -brand-short-name.gender ->
@@ -485,6 +505,8 @@ update-application-description =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] aplikaci { -brand-short-name }
     } stále aktuální.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Verze { $version } <a data-l10n-name="learn-more">Co je nového</a>
 update-history =
     .label = Zobrazit historii aktualizací…
@@ -529,7 +551,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Chyba při ukládání nastavení aktualizací
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -576,7 +598,7 @@ performance-limit-content-process-blocked-desc =
        *[other] aplikace { -brand-short-name }
     }. <a data-l10n-name="learn-more">Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (výchozí)
 
@@ -688,9 +710,13 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Doporučení ze služby { $provider }
-home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společností { $provider }, která je součástí { -brand-product-name(case: "gen") }
+home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společností { $provider }, která je součástí rodiny { -brand-product-name(case: "gen") }
 
 ##
 
@@ -716,7 +742,8 @@ home-prefs-recent-activity-description = Výběr z nedávných stránek a obsahu
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Útržky
-home-prefs-snippets-description-new = Tipy a novinky od { -vendor-short-name(case: "gen") } a aplikace { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -793,7 +820,7 @@ search-find-more-link = Přidat další vyhledávače
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Použité klíčové slovo
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Zvolili jste klíčové slovo, které už je použito pro „{ $name }“. Zvolte prosím jiné.
 search-keyword-warning-bookmark = Zvolili jste klíčové slovo, které už je použito pro záložku. Zvolte prosím jiné.
 
@@ -840,8 +867,15 @@ sync-sign-out =
     .accesskey = O
 sync-manage-account = Spravovat účet
     .accesskey = S
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Účet { $email } není ověřen.
 sync-signedin-login-failure = Pro opětovné připojení účtem { $email } se přihlaste
+
+##
+
 sync-resend-verification =
     .label = Znovu odeslat ověření
     .accesskey = d
@@ -1059,8 +1093,8 @@ history-clear-button =
 sitedata-header = Cookies a data stránek
 sitedata-total-size-calculating = Výpočet velikosti mezipaměti a dat stránek…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Velikost cookies, dat uložených stránkami a mezipaměti je { $value } { $unit }.
 sitedata-learn-more = Zjistit více
 sitedata-delete-on-close =

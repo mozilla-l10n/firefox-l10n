@@ -366,11 +366,9 @@ mr2022-onboarding-welcome-pin-header = Objevte úžasný internet
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header =
-    { -brand-product-name.gender ->
-        [masculine] Děkujeme, že máte rádi { -brand-product-name(case: "acc") }
-        [feminine] Děkujeme, že máte rádi { -brand-product-name(case: "acc") }
-        [neuter] Děkujeme, že máte rádi { -brand-product-name(case: "acc") }
-       *[other] Děkujeme, že máte rádi aplikaci { -brand-product-name }
+    { -brand-product-name.case-status ->
+        [with-cases] Děkujeme, že máte rádi { -brand-product-name(case: "acc") }
+       *[no-cases] Děkujeme, že máte rádi aplikaci { -brand-product-name }
     }
 
 ## MR2022 New User Set Default screen strings
@@ -458,25 +456,19 @@ mr2022-onboarding-colorway-description-innovator = <b>Inovátor:</b> Všude vid�
 
 mr2022-onboarding-mobile-download-title = Přecházejte mezi notebookem a telefonem
 mr2022-onboarding-mobile-download-subtitle =
-    { -brand-short-name.gender ->
-        [masculine] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte { -brand-product-name(case: "acc") }.
-        [feminine] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte { -brand-product-name(case: "acc") }.
-        [neuter] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte { -brand-product-name(case: "acc") }.
-       *[other] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte aplikaci { -brand-product-name }.
+    { -brand-short-name.case-status ->
+        [with-cases] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte { -brand-product-name(case: "acc") }.
+       *[no-cases] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte aplikaci { -brand-product-name }.
     }
 mr2022-onboarding-mobile-download-cta-text =
-    { -brand-short-name.gender ->
-        [masculine] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
-        [feminine] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
-        [neuter] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
-       *[other] Naskenujte QR kód a získejte aplikaci { -brand-product-name } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
+    { -brand-short-name.case-status ->
+        [with-cases] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
+       *[no-cases] Naskenujte QR kód a získejte aplikaci { -brand-product-name } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
     }
 mr2022-onboarding-no-mobile-download-cta-text =
-    { -brand-short-name.gender ->
-        [masculine] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily.
-        [feminine] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily.
-        [neuter] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily.
-       *[other] Naskenujte QR kód a získejte aplikaci { -brand-product-name } pro mobily.
+    { -brand-short-name.case-status ->
+        [with-cases] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily.
+       *[no-cases] Naskenujte QR kód a získejte aplikaci { -brand-product-name } pro mobily.
     }
 
 ## MR2022 Upgrade Dialog screens
