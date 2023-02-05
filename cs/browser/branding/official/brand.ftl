@@ -3,16 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Firefox Brand
-##
-## Firefox must be treated as a brand, and kept in English.
-## It cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
-##
-## Reference: https://www.mozilla.org/styleguide/communications/translation/
-
 ## Firefox and Mozilla Brand
 ##
 ## Firefox and Mozilla must be treated as a brand.
@@ -60,7 +50,17 @@
         [ins] Firefoxem
     }
     .gender = masculine
--brand-full-name = Mozilla Firefox
+-brand-full-name =
+    { $case ->
+        [gen] Mozilly Firefoxu
+        [dat] Mozille Firefoxu
+        [acc] Mozillu Firefox
+        [voc] Mozillo Firefoxe
+        [loc] Mozille Firefoxu
+        [ins] Mozillou Firefoxem
+       *[nom] Mozilla Firefox
+    }
+    .gender = masculine
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =
@@ -85,4 +85,4 @@
         [ins] Mozillou
     }
     .gender = feminine
-trademarkInfo = Firefox a jeho logo jsou ochrannými známkami organizace Mozilla Foundation.
+trademarkInfo = Firefox a jeho loga jsou ochrannými známkami organizace Mozilla Foundation.
