@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Fjern fra historikk
     .accesskey = F
+urlbar-result-menu-tip-get-help =
+    .label = Få hjelp
+    .accesskey = F
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Vis tillegg
 quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
-quickactions-bookmarks = Vis bokmerker
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Behandle bokmerker
 quickactions-cmd-bookmarks = bokmerker
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tøm historikk
 quickactions-cmd-clearhistory = tøm historikk
-# Opens about:downloads page
-quickactions-downloads = Åpne nedlastinger
 # Opens about:downloads page
 quickactions-downloads2 = Vis nedlastinger
 quickactions-cmd-downloads = nedlastinger
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = nedlastinger
 quickactions-extensions = Behandle utvidelser
 quickactions-cmd-extensions = utvidelser
 # Opens the devtools web inspector
-quickactions-inspector = Åpne inspeksjon
-# Opens the devtools web inspector
 quickactions-inspector2 = Åpne utviklerverktøy
 quickactions-cmd-inspector = inspektør, utviklerverktøy
-# Opens about:logins
-quickactions-logins = Vis innlogginger
 # Opens about:logins
 quickactions-logins2 = Behandle passord
 quickactions-cmd-logins = innlogginger, passord
@@ -313,12 +308,8 @@ quickactions-cmd-logins = innlogginger, passord
 quickactions-plugins = Behandle programtillegg
 quickactions-cmd-plugins = programtillegg
 # Opens the print dialog
-quickactions-print = Skriv ut
-# Opens the print dialog
 quickactions-print2 = Skriv ut side
 quickactions-cmd-print = utskrift, skriv ut
-# Opens a new private browsing window
-quickactions-private = Åpne privat nettlesingsvindu
 # Opens a new private browsing window
 quickactions-private2 = Åpne privat vindu
 quickactions-cmd-private = privat nettlesing
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = oppdater
 quickactions-restart = Start { -brand-short-name } på nytt
 quickactions-cmd-restart = omstart, start på nytt
 # Opens the screenshot tool
-quickactions-screenshot2 = Ta et skjermbilde
-# Opens the screenshot tool
 quickactions-screenshot3 = Ta et skjermbilde
 quickactions-cmd-screenshot = skjermbilde, skjermdump
-# Opens about:preferences
-quickactions-settings = Åpne innstillinger
 # Opens about:preferences
 quickactions-settings2 = Behandle innstillinger
 quickactions-cmd-settings = valg, innstillinger, alternativer
@@ -344,8 +331,6 @@ quickactions-cmd-themes = tema
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Vis kildekode
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vis kildekode
 quickactions-cmd-viewsource = se kilde, kilde
