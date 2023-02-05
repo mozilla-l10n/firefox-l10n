@@ -742,6 +742,11 @@ home-prefs-recent-activity-description = Výběr z nedávných stránek a obsahu
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Útržky
+home-prefs-snippets-description-new =
+    { -vendor-short-name.case-status ->
+        [with-cases] Tipy a novinky od { -vendor-short-name(case: "gen") } a aplikace { -brand-product-name }
+       *[no-cases] Tipy a novinky od organizace { -vendor-short-name } a aplikace { -brand-product-name }
+    }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1331,16 +1336,18 @@ collection-description =
        *[other] aplikace { -brand-short-name }
     }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
 collection-privacy-notice = Zásady ochrany osobních údajů
-collection-health-report-telemetry-disabled = Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
+collection-health-report-telemetry-disabled =
+    { -vendor-short-name.case-status ->
+        [with-cases] Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
+       *[no-cases] Odesílat organizaci { -vendor-short-name } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
+    }
 collection-health-report-telemetry-disabled-link = Zjistit více
 collection-health-report =
     .label =
-        { -vendor-short-name.gender ->
-            [masculine] Odesílat { -vendor-short-name(case: "dat") }
-            [feminine] Odesílat { -vendor-short-name(case: "dat") }
-            [neuter] Odesílat { -vendor-short-name(case: "dat") }
-           *[other] Odesílat
-        } technická data a data o interakcích
+        { -vendor-short-name.case-status ->
+            [with-cases] Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích
+           *[no-cases] Odesílat technická data a data o interakcích
+        }
     .accesskey = r
 collection-health-report-link = Zjistit více
 collection-studies =

@@ -912,11 +912,9 @@ panel-save-update-password = Heslo
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Opravdu chcete odebrat rozšíření { $name }?
 addon-removal-abuse-report-checkbox =
-    Nahlásit toto rozšíření { -vendor-short-name.gender ->
-        [masculine] { -vendor-short-name(case: "dat") }
-        [feminine] { -vendor-short-name(case: "dat") }
-        [neuter] { -vendor-short-name(case: "dat") }
-       *[other] organizaci { -vendor-short-name }
+    { -vendor-short-name.case-status ->
+        [with-cases] Nahlásit toto rozšíření { -vendor-short-name(case: "dat") }
+       *[no-cases] Nahlásit toto rozšíření organizaci { -vendor-short-name }
     }
 
 ##
@@ -1020,11 +1018,9 @@ restore-session-startup-suggestion-button = Jak na to
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message =
-    { -vendor-short-name.gender ->
-        [masculine] { -brand-short-name } automaticky odesílá některá data { -vendor-short-name(case: "dat") } z důvodu vylepšení vašeho prohlížení.
-        [feminine] { -brand-short-name } automaticky odesílá některá data { -vendor-short-name(case: "dat") } z důvodu vylepšení vašeho prohlížení.
-        [neuter] { -brand-short-name } automaticky odesílá některá data { -vendor-short-name(case: "dat") } z důvodu vylepšení vašeho prohlížení.
-       *[other] { -brand-short-name } automaticky odesílá některá data organizaci { -vendor-short-name } z důvodu vylepšení vašeho prohlížení.
+    { -vendor-short-name.case-status ->
+        [with-cases] { -brand-short-name } automaticky odesílá některá data { -vendor-short-name(case: "dat") } z důvodu vylepšení vašeho prohlížení.
+       *[no-cases] { -brand-short-name } automaticky odesílá některá data organizaci { -vendor-short-name } z důvodu vylepšení vašeho prohlížení.
     }
 data-reporting-notification-button =
     .label = Nastavit odesílaná data

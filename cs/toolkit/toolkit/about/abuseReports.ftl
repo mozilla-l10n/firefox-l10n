@@ -9,25 +9,19 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Nahlášení rozšíření { $addon-name }
 abuse-report-title-extension =
-    Nahlásit toto rozšíření { -vendor-short-name.gender ->
-        [masculine] { -vendor-short-name(case: "dat") }
-        [feminine] { -vendor-short-name(case: "dat") }
-        [neuter] { -vendor-short-name(case: "dat") }
-       *[other] organizaci { -vendor-short-name }
+    { -vendor-short-name.case-status ->
+        [with-cases] Nahlásit toto rozšíření { -vendor-short-name(case: "dat") }
+       *[no-cases] Nahlásit toto rozšíření organizaci { -vendor-short-name }
     }
 abuse-report-title-sitepermission =
-    { -vendor-short-name.gender ->
-        [masculine] Nahlásit tento doplněk oprávnění { -vendor-short-name(case: "dat") }
-        [feminine] Nahlásit tento doplněk oprávnění { -vendor-short-name(case: "dat") }
-        [neuter] Nahlásit tento doplněk oprávnění { -vendor-short-name(case: "dat") }
-       *[other] Nahlásit tento doplněk oprávnění organizaci { -vendor-short-name }
+    { -vendor-short-name.case-status ->
+        [with-cases] Nahlásit tento doplněk oprávnění { -vendor-short-name(case: "dat") }
+       *[no-cases] Nahlásit tento doplněk oprávnění organizaci { -vendor-short-name }
     }
 abuse-report-title-theme =
-    Nahlásit tento vzhled { -vendor-short-name.gender ->
-        [masculine] { -vendor-short-name(case: "dat") }
-        [feminine] { -vendor-short-name(case: "dat") }
-        [neuter] { -vendor-short-name(case: "dat") }
-       *[other] organizaci { -vendor-short-name }
+    { -vendor-short-name.case-status ->
+        [with-cases] Nahlásit tento vzhled { -vendor-short-name(case: "dat") }
+       *[no-cases] Nahlásit tento vzhled organizaci { -vendor-short-name }
     }
 abuse-report-subtitle = Jaký je problém?
 # Variables:

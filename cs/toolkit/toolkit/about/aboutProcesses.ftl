@@ -42,7 +42,11 @@ about-processes-file-process = Soubory ({ $pid })
 about-processes-extension-process = Rozšíření ({ $pid })
 about-processes-privilegedabout-process = About stránka ({ $pid })
 about-processes-plugin-process = Zásuvné moduly ({ $pid })
-about-processes-privilegedmozilla-process = Stránky { -vendor-short-name(case: "gen") } ({ $pid })
+about-processes-privilegedmozilla-process =
+    { -vendor-short-name.case-status ->
+        [with-cases] Stránky { -vendor-short-name(case: "gen") } ({ $pid })
+       *[no-cases] Stránky organizace { -vendor-short-name(case: "gen") } ({ $pid })
+    }
 about-processes-gmp-plugin-process = Mediální moduly jádra Gecko ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
