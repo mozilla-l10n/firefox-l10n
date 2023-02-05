@@ -79,10 +79,11 @@ permissions-invalid-uri-label = Skriv inn eit gyldig tenarnamn
 permissions-exceptions-etp-window =
     .title = Unntak for utvida sporingsvern
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Du har slått av vern på desse nettsidene.
 permissions-exceptions-etp-window2 =
     .title = Unntak for utvida sporingsvern
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Du har slått av vern på desse nettsidene.
+permissions-exceptions-manage-etp-desc = Du kan oppgje kva for nettstadar som har utvida sporingsvern slått av. Skriv inn den eksakte adressa til nettstaden du vil administrere, og klikk deretter på Legg til unntak.
 
 ## Exceptions - Cookies
 
