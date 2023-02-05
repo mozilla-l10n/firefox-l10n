@@ -84,4 +84,4 @@ protected-auth-token = Token:
 
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Bekreft i henhold til sikkerhetmetoden «{ $tokenName }». Hvordan du gjør det, avhenger av metoden (for eksempel ved bruk av fingeravtrykkleser eller å taste inn en kode et tastatur).
+protected-auth-alert = Bekreft i henhold til sikkerhetmetoden «{ $tokenName }». Hvordan du gjør det, avhenger av metoden (for eksempel ved bruk av fingeravtrykkleser eller å taste inn en kode med et tastatur).
