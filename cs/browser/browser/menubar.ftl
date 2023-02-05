@@ -17,11 +17,9 @@ menu-application-services =
     .label = Služby
 menu-application-hide-this =
     .label =
-        Skrýt { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] aplikaci { -brand-shorter-name }
+        { -brand-shorter-name.case-status ->
+            [with-cases] Skrýt { -brand-shorter-name(case: "acc") }
+           *[no-cases] Skrýt aplikaci { -brand-shorter-name }
         }
 menu-application-hide-other =
     .label = Skrýt ostatní
@@ -39,19 +37,15 @@ menu-quit =
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
-        Ukončit { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] aplikaci { -brand-shorter-name }
+        { -brand-shorter-name.case-status ->
+            [with-cases] Ukončit { -brand-shorter-name(case: "acc") }
+           *[no-cases] Ukončit aplikaci { -brand-shorter-name }
         }
 menu-about =
     .label =
-        O { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "loc") }
-            [feminine] { -brand-shorter-name(case: "loc") }
-            [neuter] { -brand-shorter-name(case: "loc") }
-           *[other] aplikaci { -brand-shorter-name }
+        { -brand-shorter-name.case-status ->
+            [with-cases] O { -brand-shorter-name(case: "loc") }
+           *[no-cases] O aplikaci { -brand-shorter-name }
         }
     .accesskey = O
 

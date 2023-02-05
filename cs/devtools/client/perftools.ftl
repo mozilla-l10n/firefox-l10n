@@ -44,16 +44,17 @@ perftools-devtools-settings-label = Nastavení
 
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+
 ## Profiler presets
+
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-firefox-label = { -brand-shorter-name }
+
 ##
+

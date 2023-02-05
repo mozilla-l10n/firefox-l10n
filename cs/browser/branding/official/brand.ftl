@@ -68,15 +68,16 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxu
         [dat] Firefoxu
         [acc] Firefox
         [voc] Firefoxe
         [loc] Firefoxu
         [ins] Firefoxem
+       *[nom] Firefox
     }
     .gender = masculine
+    .case-status = with-cases
 -vendor-short-name =
     { $case ->
        *[nom] Mozilla

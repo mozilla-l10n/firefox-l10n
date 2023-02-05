@@ -157,12 +157,10 @@ restart-in-troubleshoot-mode-label = Režim řešení potíží…
 clear-startup-cache-title = Zkuste vymazat mezipaměť spouštění
 clear-startup-cache-label = Vymazat mezipaměť spouštění…
 startup-cache-dialog-title2 =
-    Chcete restartovat { -brand-shorter-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } a vymazat mezipaměť spouštění?
+    { -brand-shorter-name.case-status ->
+        [with-cases] Chcete restartovat { -brand-short-name(case: "acc") } a vymazat mezipaměť spouštění?
+       *[no-cases] Chcete restartovat aplikaci { -brand-short-name } a vymazat mezipaměť spouštění?
+    }
 startup-cache-dialog-body2 = Vaše nastavení i nainstalována rozšíření nebudou nijak ovlivněna.
 restart-button-label = Restartovat
 
