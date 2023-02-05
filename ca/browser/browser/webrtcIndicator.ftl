@@ -12,8 +12,6 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Indicador de compartició
 webrtc-indicator-window =
     .title = { -brand-short-name } - Indicador de compartició
@@ -59,9 +57,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Esteu compartint la càmera. Feu clic aquí per controlar què voleu compartir.
 webrtc-microphone-system-menu =
@@ -167,7 +162,6 @@ webrtc-allow-share-screen-and-audio-capture = Voleu permetre que { $origin } acc
 ##   $thirdParty (String): the third party origin.
 
 webrtc-allow-share-camera-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir a la càmera?
-webrtc-allow-share-microphone-unsafe-delegations = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir al micròfon?
 webrtc-allow-share-microphone-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir al micròfon?
 webrtc-allow-share-screen-unsafe-delegation = Voleu permetre que { $origin } doni permís a { $thirdParty } per a accedir a la vostra pantalla?
 # "Speakers" is used in a general sense that might include headphones or
@@ -209,6 +203,9 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = Bloca sempre
     .accesskey = s
+webrtc-action-not-now =
+    .label = Ara no
+    .accesskey = n
 
 ##
 
