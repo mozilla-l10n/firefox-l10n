@@ -53,4 +53,27 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Informacje o testowaniu
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Pełne instrukcje są dostępne w
+    <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentacji testowania instrumentacji { -fog-brand-name }</a>
+    oraz w <a data-l10n-name="glean-sdk-doc-link">dokumentacji { glean-sdk-brand-name }</a>,
+    ale w skrócie do ręcznego przetestowania, czy instrumentacja działa:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (nie wysyłaj żadnych pingów)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Upewnij się, że w poprzednim polu jest łatwy do zapamiętania znacznik debugowania, aby później rozpoznać swoje pingi.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Wybierz z poprzedniej listy ping, w którym jest instrumentacja.
+    Jeśli jest w <a data-l10n-name="custom-ping-link">niestandardowym pingu</a>, wybierz go.
+    W przeciwnym razie dla statystyk <code>event</code> domyślny jest
+    ping <code>events</code>,
+    a dla wszystkich pozostałych statystyk domyślny jest
+    ping <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Opcjonalne. Zaznacz poprzednie pole, jeśli pingi mają być także zapisywane podczas wysyłania.
+    Musisz dodatkowo <a data-l10n-name="enable-logging-link">włączyć zapisywanie</a>.)
 controls-button-label-verbose = Zastosuj ustawienia i wyślij ping
