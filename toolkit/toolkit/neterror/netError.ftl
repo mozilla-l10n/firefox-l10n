@@ -68,7 +68,7 @@ neterror-dns-not-found-trr-unknown-problem = ਅਚਾਨਕ ਗਲਤੀ ਆਈ
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ਸਾਡੇ ਭਰੋਸੇਯੋਗ DNS ਹੱਲ਼ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵਾਂ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦੀ ਹੈ। ਇਸ ਦੇ ਕਾਰਨ ਹਨ:
-neterror-dns-not-found-native-fallback-heuristic = HTTPs ਰਾਹੀਂ DNS ਨੂੰ ਤੁਹਾਡੇ ਨੈੱਟਵਰਕ ਨੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
+neterror-dns-not-found-native-fallback-heuristic = HTTPS ਰਾਹੀਂ DNS ਨੂੰ ਤੁਹਾਡੇ ਨੈੱਟਵਰਕ ਨੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
 neterror-dns-not-found-native-fallback-not-confirmed = { $trrDomain } ਲਈ ਕਨੈਕਸ਼ਨ ਹਾਲੇ ਤਿਆਰ ਨਹੀਂ ਹੈ।
 
 ##
