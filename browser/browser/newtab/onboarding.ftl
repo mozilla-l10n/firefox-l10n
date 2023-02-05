@@ -278,6 +278,12 @@ mr2022-onboarding-secondary-skip-button-label = Omet aquest pas
 mr2022-onboarding-welcome-pin-header = Obriu una Internet espectacular
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Inicieu el { -brand-short-name } en qualsevol lloc amb un sol clic. Cada vegada que ho feu, escolliu una web més oberta i independent.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Fixa el { -brand-short-name } al Dock
+       *[other] Fixa el { -brand-short-name } a la barra de tasques
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
