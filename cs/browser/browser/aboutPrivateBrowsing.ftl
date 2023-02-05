@@ -24,14 +24,8 @@ about-private-browsing-info-description-simplified = { -brand-short-name } vyma�
 about-private-browsing-learn-more-link = Zjistit více
 about-private-browsing-hide-activity = Skryjte své aktivity a polohu, ať už web prohlížíte odkudkoliv
 about-private-browsing-get-privacy = Ochraňte své soukromí, ať jste kdekoliv
-about-private-browsing-hide-activity-1 = Skryjte informace o svém prohlížením se službou { -mozilla-vpn-brand-name }. Jediné klepnutí naváže bezpečné spojení, a to i na veřejných Wi-Fi sítích.
-about-private-browsing-prominent-cta =
-    Ochraňte své soukromí { -mozilla-vpn-brand-name.gender ->
-        [masculine] s { -mozilla-vpn-brand-name(case: "ins") }
-        [feminine] s { -mozilla-vpn-brand-name(case: "ins") }
-        [neuter] s { -mozilla-vpn-brand-name(case: "ins") }
-       *[other] se službou { -mozilla-vpn-brand-name }
-    }
+about-private-browsing-hide-activity-1 = Skryjte informace o svém prohlížením s { -mozilla-vpn-brand-name(case: "ins") }. Jediné klepnutí naváže bezpečné spojení, a to i na veřejných Wi-Fi sítích.
+about-private-browsing-prominent-cta = Ochraňte své soukromí s { -mozilla-vpn-brand-name(case: "ins") }
 about-private-browsing-focus-promo-cta = Stáhnout { -focus-brand-name(case: "acc") }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: anonymní prohlížení na cesty
 about-private-browsing-focus-promo-text = Náš speciální mobilní prohlížeč, který pokaždé smaže cookies a historii vašeho prohlížení.
