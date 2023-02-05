@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Usuń z historii
     .accesskey = U
+urlbar-result-menu-tip-get-help =
+    .label = Pomoc
+    .accesskey = P
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +287,11 @@ search-one-offs-actions =
 quickactions-addons = Wyświetl dodatki
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
-quickactions-bookmarks = Wyświetl zakładki
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Zarządzaj zakładkami
 quickactions-cmd-bookmarks = zakładki, ulubione
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Wyczyść historię
 quickactions-cmd-clearhistory = wyczyść historię, usuń historię
-# Opens about:downloads page
-quickactions-downloads = Otwórz listę pobranych plików
 # Opens about:downloads page
 quickactions-downloads2 = Wyświetl listę pobranych plików
 quickactions-cmd-downloads = pobrane pliki, pobrane, pobierane, pobieranie
@@ -300,12 +299,8 @@ quickactions-cmd-downloads = pobrane pliki, pobrane, pobierane, pobieranie
 quickactions-extensions = Zarządzaj rozszerzeniami
 quickactions-cmd-extensions = rozszerzenia
 # Opens the devtools web inspector
-quickactions-inspector = Otwórz inspektora
-# Opens the devtools web inspector
 quickactions-inspector2 = Otwórz narzędzia dla programistów
 quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, narzędzia dla twórców witryn, devtools
-# Opens about:logins
-quickactions-logins = Wyświetl dane logowania
 # Opens about:logins
 quickactions-logins2 = Zarządzaj hasłami
 quickactions-cmd-logins = dane logowania, loginy, hasła
@@ -313,12 +308,8 @@ quickactions-cmd-logins = dane logowania, loginy, hasła
 quickactions-plugins = Zarządzaj wtyczkami
 quickactions-cmd-plugins = wtyczki
 # Opens the print dialog
-quickactions-print = Drukuj
-# Opens the print dialog
 quickactions-print2 = Drukuj stronę
 quickactions-cmd-print = drukuj, wydrukuj
-# Opens a new private browsing window
-quickactions-private = Otwórz okno w trybie prywatnym
 # Opens a new private browsing window
 quickactions-private2 = Otwórz okno prywatne
 quickactions-cmd-private = tryb prywatny, przeglądanie prywatne, okno prywatne, incognito, tryb incognito
@@ -329,12 +320,8 @@ quickactions-cmd-refresh = odśwież, odnów
 quickactions-restart = Uruchom { -brand-short-name(case: "acc") } ponownie
 quickactions-cmd-restart = uruchom ponownie, ponowne uruchomienie, zrestartuj, restart
 # Opens the screenshot tool
-quickactions-screenshot2 = Wykonaj zrzut ekranu
-# Opens the screenshot tool
 quickactions-screenshot3 = Wykonaj zrzut ekranu
 quickactions-cmd-screenshot = zrzut ekranu, screenshot, skrin
-# Opens about:preferences
-quickactions-settings = Otwórz ustawienia
 # Opens about:preferences
 quickactions-settings2 = Zarządzaj ustawieniami
 quickactions-cmd-settings = ustawienia, preferencje, opcje
@@ -344,8 +331,6 @@ quickactions-cmd-themes = motywy
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uaktualnij przeglądarkę { -brand-short-name }
 quickactions-cmd-update = uaktualnij, uaktualnienie, zaktualizuj, aktualizuj, aktualizacja, apdejt
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Pokaż źródło
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Pokaż źródło strony
 quickactions-cmd-viewsource = pokaż źródło, źródło, wyświetl źródło
@@ -726,6 +711,11 @@ bookmarks-other-bookmarks-menu =
     .label = Pozostałe zakładki
 bookmarks-mobile-bookmarks-menu =
     .label = Zakładki z telefonu
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -750,6 +740,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Usuń menu Zakładki z paska narzędzi
            *[other] Dodaj menu Zakładki do paska narzędzi
         }
+
+##
+
 bookmarks-search =
     .label = Szukaj w zakładkach
 bookmarks-tools =
