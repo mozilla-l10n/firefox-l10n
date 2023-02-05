@@ -69,7 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = Нечаканая праблема
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не можа абараніць ваш запыт на адрас гэтага сайта праз нашу давераную службу DNS. Вось чаму:
 neterror-dns-not-found-native-fallback-attackers = Вы можаце працягнуць са службай DNS, якая не ёсць бяспечнай. Аднак, трэці бок можа ўбачыць, якія сайты вы наведваеце, або адправіць вас на недавераны сайт.
-neterror-dns-not-found-native-fallback-heuristic = DNS па HTTP быў адключаны ў вашай сетцы.
+neterror-dns-not-found-native-fallback-heuristic = DNS па HTTPS быў адключаны ў вашай сетцы.
 neterror-dns-not-found-native-fallback-not-confirmed = Злучэнне з { $trrDomain } яшчэ не гатова.
 
 ##
