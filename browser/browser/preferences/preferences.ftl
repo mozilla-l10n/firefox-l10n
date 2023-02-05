@@ -918,6 +918,8 @@ sitedata-option-block-unvisited =
     .label = Infokapsler fra ubesøkte nettsteder
 sitedata-option-block-all-third-party =
     .label = Alle tredjeparts-infokapsler (kan forårsake feil på nettsteder)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Alle infokapsler på tvers av nettsteder (kan føre til at nettsteder ikke fungerer)
 sitedata-option-block-all =
     .label = Alle infokapsler (vil føre til feil på nettsteder)
 sitedata-clear =
@@ -997,6 +999,7 @@ content-blocking-all-cookies = Alle infokapsler
 content-blocking-unvisited-cookies = Infokapsler fra ubesøkte nettsteder
 content-blocking-all-windows-tracking-content = Sporingsinnhold i alle vinduer
 content-blocking-all-third-party-cookies = Alle tredjeparts infokapsler
+content-blocking-all-cross-site-cookies = Alle infokapsler på tvers av nettsteder
 content-blocking-cryptominers = Kryptoutvinnere
 content-blocking-fingerprinters = Fingerprinters
 # "Test pilot" is used as a verb. Possible alternatives:
