@@ -69,7 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = 發生未預期的問題。
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } 無法透過信任的 DNS 解析器保護您對本網址的瀏覽請求。原因如下：
 neterror-dns-not-found-native-fallback-attackers = 您可以繼續使用不安全的 DNS 解析器，但第三方可能就會得知您造訪哪些網站，或將您帶到不可靠的網站。
-neterror-dns-not-found-native-fallback-heuristic = 您的網路已停用 DNS over HTTPs。
+neterror-dns-not-found-native-fallback-heuristic = 您的網路已停用 DNS over HTTPS。
 neterror-dns-not-found-native-fallback-not-confirmed = 對 { $trrDomain } 的連線尚未就緒。
 
 ##
