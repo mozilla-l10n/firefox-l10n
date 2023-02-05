@@ -50,6 +50,7 @@ policy-DisableSecurityBypass = Evita que l'usuari ignori certs avisos de seguret
 policy-DisableSetAsDesktopBackground = Desactiva l'ordre de menú «Defineix com a fons d'escriptori» per a les imatges.
 policy-DisableSystemAddonUpdate = Evita que el navegador instal·li i actualitzi els complements del sistema.
 policy-DisableTelemetry = Desactiva la telemetria.
+policy-DisableThirdPartyModuleBlocking = Impedeix que l'usuari bloqui mòduls de tercers que s'injecten en el procés del { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Mostra la barra de les adreces d'interès per defecte.
 policy-DisplayMenuBar = Mostra la barra de menú per defecte.
 policy-DNSOverHTTPS = Configura DNS sobre HTTPS.
@@ -90,6 +91,7 @@ policy-ManualAppUpdateOnly = Permet només les actualitzacions manuals i sense n
 policy-PrimaryPassword = Requerir o impedir l'ús d'una contrasenya principal.
 policy-NetworkPrediction = Activa o desactiva la predicció de xarxa (obtenció prèvia de DNS).
 policy-NewTabPage = Activa o desactiva la pàgina de pestanya nova.
+policy-NoDefaultBookmarks = Desactiva la creació de les adreces d'interès per defecte incloses en el { -brand-short-name } i les adreces d'interès intel·ligents (més visitades, etiquetes recents). Nota: aquesta política només té efecte si s'utilitza abans de la primera execució del perfil.
 policy-PasswordManagerEnabled = Permet desar les contrasenyes en el gestor de contrasenyes.
 policy-PasswordManagerExceptions = Impedeix que el { -brand-short-name } desi contrasenyes de llocs específics.
 # PDF.js and PDF should not be translated
