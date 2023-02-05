@@ -28,6 +28,12 @@ about-glean-interface-description =
 about-glean-upload-enabled = 데이터 업로드가 활성화되었습니다.
 about-glean-upload-disabled = 데이터 업로드가 비활성화되었습니다.
 about-glean-upload-enabled-local = 데이터 업로드는 로컬 서버로 전송하는 경우에만 활성화됩니다.
+about-glean-upload-fake-enabled =
+    데이터 업로드가 비활성화되었지만 
+    데이터가 여전히 로컬에 기록되도록 
+    { glean-sdk-brand-name }에게 활성화되었다고 말하고 있습니다.
+    참고: 디버그 태그를 설정하면 설정과 상관없이 
+    ping이 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>에 업로드됩니다.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = 관련 <a data-l10n-name="fog-prefs-and-defines-doc-link">설정 및 정의</a>에는 다음이 포함됩니다:
 # Variables:
