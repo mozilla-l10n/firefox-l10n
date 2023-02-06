@@ -21,6 +21,8 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } ڈیبگ پنگ ویووَر
 about-glean-page-title2 = { -glean-brand-name } بارے
 about-glean-header = { -glean-brand-name } بارے
+about-glean-upload-enabled = ڈیٹا اپ لوڈ فعال تھی ڳیا ہے۔
+about-glean-upload-disabled = ڈیٹا اپ لوڈ غیرفعال تھی ڳیا ہے۔
 # Variables:
 #   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
 # Do not translate strings between <code> </code> tags.
