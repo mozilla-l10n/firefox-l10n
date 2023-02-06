@@ -60,6 +60,10 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link"> документації з тестування інструментарію { -fog-brand-name }</a>
     та <a data-l10n-name="glean-sdk-doc-link">документації { glean-sdk-brand-name }</a>,
     але, простіше кажучи, для ручного тестування роботи вашого інструментарію, виконайте такі дії:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (не надсилати жодного пінгу)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Переконайтеся, що в попередньому полі є мітка зневадження, яку легко запам'ятати, щоб згодом ви могли розпізнавати ваші пінги.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
