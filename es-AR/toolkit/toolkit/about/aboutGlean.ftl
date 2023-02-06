@@ -76,7 +76,7 @@ about-glean-label-for-ping-names =
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (Opcional. Marque la casilla anterior si desea que los pings también se registren cuando se envíen.
-    Además, deberá <a data-l10n-name="<a data-l10n-name="enable-logging-link">activar el registro</a>).
+    Además, deberá <a data-l10n-name="enable-logging-link">activar el registro</a>).
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
