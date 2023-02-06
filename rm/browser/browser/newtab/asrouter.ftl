@@ -247,6 +247,28 @@ colorways-cfr-header-14days = La cumbinaziun da colurs «vuschs independentas» 
 colorways-cfr-header-7days = La cumbinaziun da colurs «vuschs independentas» scada quest'emna
 colorways-cfr-header-today = La cumbinaziun da colurs «vuschs independentas» scada oz
 
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Adia a las bandieras da cookies!
+cfr-cookiebanner-body = Permetter a { -brand-short-name } da refusar automaticamain tut las dumondas da bandieras da cookies, sche pussaivel.
+cfr-cookiebanner-accept-button = Serrar las bandieras
+    .accesskey = d
+cfr-cookiebanner-reject-button = Betg ussa
+    .accesskey = B
+cfr-cookiebanner-header-variant-1 = Mussar damain pop-ups da cookies
+cfr-cookiebanner-body-variant-1 = Lubescha a { -brand-short-name } da respunder automaticamain a pop-ups da cookies per tai. Uschia pos ti puspè navigar senza distracziun. { -brand-short-name } vegn a refusar sche pussaivel tut las dumondas.
+cfr-cookiebanner-accept-button-variant-1 = Bandischar ils pop-ups
+    .accesskey = d
+cfr-cookiebanner-reject-button-variant-1 = Na, grazia
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reducziun da bandieras da cookies
+cfr-cookiebanner-body-variant-2 = Reducescha il dumber da bandieras da cookies che ta vegnan mussadas cun permetter a { -brand-short-name } da refusar sche pussaivel la dumonda da cookies dad ina website.
+cfr-cookiebanner-accept-button-variant-2 = Permetter
+    .accesskey = P
+cfr-cookiebanner-reject-button-variant-2 = Betg ussa
+    .accesskey = B
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Nus defendain tai

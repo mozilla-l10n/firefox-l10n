@@ -8,22 +8,18 @@ password-quality-meter = Valitaziun da la qualitad dal pled-clav
 
 change-device-password-window =
     .title = Midar il pled-clav
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Modul da criptografia: { $tokenName }
 change-password-old = Pled-clav actual:
 change-password-new = Pled-clav nov:
 change-password-reenter = Pled-clav nov (repeter):
-
 pippki-failed-pw-change = Impussibel da midar il pled-clav.
 pippki-incorrect-pw = Ti n'has betg endatà il dretg pled-clav actual. Emprova anc ina giada.
 pippki-pw-change-ok = Midà cun success il pled-clav.
-
 pippki-pw-empty-warning = Tes pleds-clav memorisads e tias clavs privatas na vegnan betg protegids.
 pippki-pw-erased-ok = Ti has stizzà tes pled-clav. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Attenziun! Ti has decidì da betg utilisar in pled-clav. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav (betg vid).
 
 ## Reset Primary Password dialog
@@ -31,14 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Ti es actualmain en il modus FIPS. FIPS pr
 reset-primary-password-window =
     .title = Redefinir il pled-clav universal
     .style = width: 50em
-
 reset-primary-password-window2 =
     .title = Redefinir il pled-clav universal
     .style = min-width: 50em
 reset-password-button-label =
     .label = Redefinir
 reset-primary-password-text = Sche tes pled-clav universal vegn redefinì, perdas ti tut tes pleds-clav memorisads da web e dad e-mail, tes certificats persunals e tias clavs privatas. Vuls ti propi redefinir tes pled-clav universal?
-
 pippki-reset-password-confirmation-title = Redefinir il pled-clav universal
 pippki-reset-password-confirmation-message = Tes pled-clav universal è vegnì redefinì.
 
@@ -47,7 +41,6 @@ pippki-reset-password-confirmation-message = Tes pled-clav universal è vegnì r
 download-cert-window =
     .title = Telechargiar il certificat
     .style = width: 46em
-
 download-cert-window2 =
     .title = Telechargiar il certificat
     .style = min-width: 46em
@@ -86,3 +79,9 @@ protected-auth-window =
     .title = Autentificaziun da token protegida
 protected-auth-msg = T'autentifitgescha per plaschair tar il token. La metoda d'autentificaziun dependa dal tip da tes token.
 protected-auth-token = Token:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = T'autentifitgescha per plaschair tar il token «{ $tokenName }». Co quai funcziuna dependa dal token (per exempel cun agid dad in lectur d'improntas dal det u cun endatar in code cun agid dad ina tastatura).

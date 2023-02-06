@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Allontanar da la cronologia
     .accesskey = A
+urlbar-result-menu-tip-get-help =
+    .label = Ir per agid
+    .accesskey = a
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -701,6 +704,11 @@ bookmarks-other-bookmarks-menu =
     .label = Auters segnapaginas
 bookmarks-mobile-bookmarks-menu =
     .label = Segnapaginas mobils
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -725,6 +733,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Allontanar il menu da segnapaginas da la trav d'utensils
            *[other] Agiuntar il menu da segnapaginas a la trav d'utensils
         }
+
+##
+
 bookmarks-search =
     .label = Tschertgar en ils segnapaginas
 bookmarks-tools =
