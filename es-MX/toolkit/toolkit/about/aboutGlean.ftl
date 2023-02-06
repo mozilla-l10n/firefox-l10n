@@ -15,8 +15,13 @@ controls-button-label = Enviar ajustes
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Acerca de { -glean-brand-name }
 about-glean-header = Acerca de { -glean-brand-name }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 controls-button-label-verbose = Aplicar configuración y enviar ping
