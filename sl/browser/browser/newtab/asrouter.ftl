@@ -269,6 +269,7 @@ cfr-cookiebanner-accept-button-variant-1 = Zavrni pojavna okna
 cfr-cookiebanner-reject-button-variant-1 = Ne, hvala
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Zmanjšanje števila pasic s piškotki
+cfr-cookiebanner-body-variant-2 = Zmanjšajte število pasic s piškotki, tako da { -brand-short-name(sklon: "dajalnik") } dovolite zavračanje zahtev spletnih mest za shranjevanje piškotkov, če je to mogoče.
 cfr-cookiebanner-accept-button-variant-2 = Dovoli
     .accesskey = D
 cfr-cookiebanner-reject-button-variant-2 = Ne zdaj
