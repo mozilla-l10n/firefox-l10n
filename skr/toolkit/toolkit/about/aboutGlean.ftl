@@ -23,6 +23,15 @@ about-glean-page-title2 = { -glean-brand-name } بارے
 about-glean-header = { -glean-brand-name } بارے
 about-glean-upload-enabled = ڈیٹا اپ لوڈ فعال تھی ڳیا ہے۔
 about-glean-upload-disabled = ڈیٹا اپ لوڈ غیرفعال تھی ڳیا ہے۔
+about-glean-upload-enabled-local = ڈیٹا اپ لوڈ صرف مقامی سرور کوں بھیڄݨ کیتے فعال ہے۔
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
 # Variables:
 #   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
 # Do not translate strings between <code> </code> tags.
