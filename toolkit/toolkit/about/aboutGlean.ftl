@@ -47,6 +47,8 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = 關於測試
+# This message is followed by a numbered list.
+about-glean-manual-testing = 完整的操作教學文件撰寫於 <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 測試文件</a>與<a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } 文件</a>中。但簡單來說，如果要手動測試您的測試工具是否正常，應該：
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = （不送出任何 ping）
 # An in-line text input field precedes this string.
