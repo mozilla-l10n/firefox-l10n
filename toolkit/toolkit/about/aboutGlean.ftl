@@ -42,9 +42,17 @@ about-glean-prefs-and-defines = Las <a data-l10n-name="fog-prefs-and-defines-doc
 # Do not translate strings between <code> </code> tags.
 about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
 # Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
 #   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
 # Do not translate strings between <code> </code> tags.
 about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Acerca de las pruebas
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -69,4 +77,15 @@ about-glean-label-for-ping-names =
 about-glean-label-for-log-pings =
     (Opcional. Marque la casilla anterior si desea que los pings también se registren cuando se envíen.
     Además, deberá <a data-l10n-name="<a data-l10n-name="enable-logging-link">activar el registro</a>).
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Presione el botón anterior para etiquetar todos los pings de { -glean-brand-name } con su etiqueta y enviar el ping seleccionado.
+    (Todos los ping enviados desde ese momento hasta que reinicie la aplicación se etiquetarán con
+    <code>{ $debug-tag }</code>.)
 controls-button-label-verbose = Aplicar configuración y enviar ping
+about-glean-about-data-header = Acerca de datos
+about-glean-about-data-explanation =
+    Para revisar la lista de datos recolectados, consulte el
+    <a data-l10n-name="glean-dictionary-link">diccionario de { -glean-brand-name }</a>.
