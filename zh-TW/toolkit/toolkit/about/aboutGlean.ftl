@@ -53,6 +53,11 @@ about-glean-manual-testing = 完整的操作教學文件撰寫於 <a data-l10n-n
 about-glean-no-ping-label = （不送出任何 ping）
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = 請確定上方欄位中填寫的是好記的除錯用標籤，這樣之後才能快速找到您的 ping。
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names = 請從上述清單選擇您的測試儀器所在的位置。若位於 <a data-l10n-name="custom-ping-link">自訂 ping</a>，請選擇該項目；否則預設的 <code>event</code> 指標是 <code>event</code>，而其他所有指標的預設值為 <code>metrics</code> ping。
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings = （選填。若您也想要在 Ping 送出時紀錄下來，請勾選上方的選取盒。另外還需要<a data-l10n-name="enable-logging-link">開啟記錄</a>。）
 controls-button-label-verbose = 套用設定並送出 ping
 about-glean-about-data-header = 關於資料
 about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
