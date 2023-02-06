@@ -45,3 +45,6 @@ about-glean-about-testing-header = ٹیسٹنگ بارے
 about-glean-no-ping-label = (کوئی وی پنگ جمع نہ کرواؤ)
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
 about-glean-about-data-header = ڈیٹا بارے
+about-glean-about-data-explanation =
+    جمع تھئے ڈیٹا دی تندیر براؤز کرݨ کیتے سوہݨا 
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }ڈکشنری</a> نال رجوع کرو۔
