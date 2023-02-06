@@ -8,6 +8,9 @@
 newtab-page-title = ແທັບໃຫມ່
 newtab-settings-button =
     .title = ປັບແຕ່ງຫນ້າແທັບໃຫມ່ຂອງທ່ານ
+newtab-personalize-icon-label =
+    .title = ປັບແຕ່ງແຖບໃໝ່
+    .aria-label = ປັບແຕ່ງແຖບໃໝ່
 newtab-personalize-dialog-label =
     .aria-label = ປັບແຕ່ງສ່ວນຕົວ
 
@@ -17,8 +20,8 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ຊອກ​ຫາ
     .aria-label = ຊອກ​ຫາ
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ຊອກຫາດ້ວຍ { $engine } ຫຼື ໃສ່ທີ່ຢູ່
 
 ## Top Sites - General form dialog.
@@ -116,11 +119,11 @@ newtab-label-saved = ບັນທຶກລົງໃນ { -pocket-brand-name } �
 newtab-label-download = ດາວໂຫຼດແລ້ວ
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ສະປອນເຊີ
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = ສະໜັບສະໜູນໂດຍ { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -146,7 +149,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = ເວັບໄຊຕ໌ຍອດນິຍົມ
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -154,7 +157,7 @@ newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
 newtab-empty-section-highlights = ເລີ່ມການທ່ອງເວັບ ແລະ ພວກເຮົາຈະສະແດງເນື້ອຫາ, ວິດີໂອ ແລະ ຫນ້າອື່ນໆບາງສ່ວນທີ່ທ່ານຫາກໍເຂົ້າໄປເບິງມາ ຫລື ຫາກໍໄດ້ບຸກມາກໄວ້ທີ່ນີ້.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = ທ່ານໄດ້ອ່ານເລື່ອງລາວຄົບທັງຫມົດແລ້ວ. ທ່ານສາມາດກັບມາເບິ່ງເລື່ອງລາວເດັ່ນໄດ້ຈາກ { $provider } ໃນພາຍຫລັງ. ອົດໃຈຖ້າບໍ່ໄດ້ແມ່ນບໍ່? ເລືອກຫົວຂໍ້ຍອດນິຍົມເພື່ອຄົ້ນຫາເລື່ອງລາວທີ່ຍອດຢ້ຽມຈາກເວັບຕ່າງໆ.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
