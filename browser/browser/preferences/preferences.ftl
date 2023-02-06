@@ -73,6 +73,17 @@ restart-later = Reaviar pli tard
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controllescha quest parameter.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Parameters…
     .accesskey = r
 containers-disable-alert-title = Serrar tut ils tabs da container?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Sche ti deactiveschas ils tabs da container vegn { $tabCount } tab da container serrà. Es ti segir che ti vuls deactivar ils tabs da container?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Serrar { $tabCount } tab da container
        *[other] Serrar { $tabCount } tabs da container
     }
+
+##
+
 containers-disable-alert-cancel-button = Laschar activà
 containers-remove-alert-title = Allontanar quest container?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Sche ti allontaneschas ussa quest container vegn { $count } tab da container serrà. Es ti segir che ti vuls allontanar quest container?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom da standard
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Dumandar mintga giada
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilisar { $plugin-name } (en { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Ulteriuras infurmaziuns
 update-application-title = Actualisaziuns da { -brand-short-name }
 update-application-description = Actualisescha { -brand-short-name } per prestaziun, stabilitad e segirezza maximala.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versiun { $version } <a data-l10n-name="learn-more">Novaziuns</a>
 update-history =
     .label = Mussar la cronologia da las actualisaziuns…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Errur cun memorisar ils parameters per actualisaziuns
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Limita da process da cuntegn
 performance-limit-content-process-enabled-desc = Process da cuntegn supplementars pon augmentar la prestaziun sche ti utiliseschas plirs tabs, ma els dovran era dapli memoria.
 performance-limit-content-process-blocked-desc = Igl è mo pussaivel da midar il dumber da process da cuntegn cun versiuns da { -brand-short-name } che sustegnan plirs process. <a data-l10n-name="learn-more">Ve a savair co che ti pos controllar sche la funcziun da plirs process è activada</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }
 home-prefs-recommended-by-description-new = Cuntegn spezial, tschernì da { $provider } che fa part da { -brand-product-name }
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Ina selecziun da websites e cuntegn vis
 home-prefs-snippets-header =
     .label = Zinslas
 home-prefs-snippets-description-new = Tips e novitads da { -vendor-short-name } e { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Chattar ulteriuras maschinas da tschertgar
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplitgar il pled magic
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ti has tschernì in pled magic che vegn gia utilisà da "{ $name }". Tscherna per plaschair in auter.
 search-keyword-warning-bookmark = Ti has tschernì in pled magic che vegn gia utilisà d'in segnapagina. Tscherna per plaschair in auter.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = o
 sync-manage-account = Administrar il conto
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+##
+
 sync-resend-verification =
     .label = Reenviar la verificaziun
     .accesskey = v
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Cookies e datas da websites
 sitedata-total-size-calculating = Calcular il volumen da datas da websites e dal cache…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las datas da websites, il cache ed ils cookies memorisads dovran actualmain { $value } { $unit } spazi sin il disc dir.
 sitedata-learn-more = Ulteriuras infurmaziuns
 sitedata-delete-on-close =
@@ -918,6 +953,8 @@ sitedata-option-block-unvisited =
     .label = Cookies da websites betg visitadas
 sitedata-option-block-all-third-party =
     .label = Tut ils cookies da terzas partidas (po impedir che tschertas websites funcziunian)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Tut ils cookies interpaginals (po chaschunar problems cun tschertas websites)
 sitedata-option-block-all =
     .label = Tut ils cookies (impedescha che tschertas websites funcziunian)
 sitedata-clear =
@@ -997,6 +1034,7 @@ content-blocking-all-cookies = Tut ils cookies
 content-blocking-unvisited-cookies = Cookies da websites betg visitadas
 content-blocking-all-windows-tracking-content = Cuntegn che fastizescha en tut las fanestras
 content-blocking-all-third-party-cookies = Tut ils cookies da terzas partidas
+content-blocking-all-cross-site-cookies = Tut ils cookies interpaginals
 content-blocking-cryptominers = Criptominiers
 content-blocking-fingerprinters = Improntaders dal det
 # "Test pilot" is used as a verb. Possible alternatives:
