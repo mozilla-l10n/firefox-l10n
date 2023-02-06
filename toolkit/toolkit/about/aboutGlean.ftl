@@ -12,4 +12,25 @@ tag-pings-label = Označi vse poslane pinge s to oznako
 log-pings-label = Beleženje vsebine pinga pred pošiljanjem?
 send-pings-label = Pošlji imenovani ping
 controls-button-label = Pošlji nastavitve
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name =
+    { $sklon ->
+        [rodilnik] Gleana
+        [dajalnik] Gleanu
+        [tozilnik] Glean
+        [mestnik] Gleanu
+        [orodnik] Gleanom
+       *[imenovalnik] Glean
+    }
+glean-sdk-brand-name = SDK { -glean-brand-name }
+about-glean-page-title2 = O { -glean-brand-name(sklon: "mestnik") }
+about-glean-header = O { -glean-brand-name(sklon: "mestnik") }
+about-glean-upload-enabled = Pošiljanje podatkov je omogočeno.
+about-glean-upload-disabled = Pošiljanje podatkov ni omogočeno.
+about-glean-upload-enabled-local = Omogočeno je samo pošiljanje podatkov na krajevni strežnik.
+about-glean-about-testing-header = O preizkušanju
 controls-button-label-verbose = Uporabi nastavitve in pošlji ping
+about-glean-about-data-header = O podatkih

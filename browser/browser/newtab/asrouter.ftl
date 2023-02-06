@@ -67,9 +67,14 @@ cfr-doorhanger-extension-total-users =
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Pasice s piškotki, izginite!
 cfr-cookie-banner-handling-body = Dovoli { -brand-short-name(sklon: "dajalnik") }, da samodejno zavrne vse zahteve za shranjevanje piškotkov, kadar je to mogoče. V nasprotnem primeru bo sprejel vse piškotke in zaprl pasico.
+cfr-cookie-banner-accept-button = Zavrni zahteve
+    .accesskey = Z
 cfr-cookie-banner-reject-button = Ne zdaj
     .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Manj pozivov za sprejetje piškotkov
 cfr-cookie-banner-handling-body-variant-1 = Naj { -brand-short-name } namesto vas odgovarja na zahteve za shranjevanje piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če to ne bo mogoče, pa jih bo sprejel.
+cfr-cookie-banner-accept-button-variant-1 = Zavrni zahteve
+    .accesskey = Z
 cfr-cookie-banner-reject-button-variant-1 = Ne, hvala
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = Zmanjšanje števila pasic s piškotki
@@ -252,9 +257,14 @@ colorways-cfr-header-today = Barvne kombinacije Neodvisni glasovi potečejo dane
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Pasice s piškotki, izginite!
+cfr-cookiebanner-accept-button = Zavrni pasice
+    .accesskey = Z
 cfr-cookiebanner-reject-button = Ne zdaj
     .accesskey = N
+cfr-cookiebanner-header-variant-1 = Manj pozivov za sprejetje piškotkov
 cfr-cookiebanner-body-variant-1 = Naj { -brand-short-name } namesto vas odgovarja na zahteve za shranjevanje piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če bo to mogoče.
+cfr-cookiebanner-accept-button-variant-1 = Zavrni pojavna okna
+    .accesskey = Z
 cfr-cookiebanner-reject-button-variant-1 = Ne, hvala
     .accesskey = N
 cfr-cookiebanner-header-variant-2 = Zmanjšanje števila pasic s piškotki
