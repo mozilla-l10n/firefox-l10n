@@ -24,4 +24,7 @@ about-glean-header = Sobre o { -glean-brand-name }
 about-glean-upload-enabled = O envio de dados está ativado.
 about-glean-upload-disabled = O envio de dados está desativado.
 about-glean-upload-enabled-local = O envio de dados está ativado apenas para enviar a um servidor local.
+about-glean-upload-fake-enabled =
+    O envio de dados está desativado, mas estamos disfarçando e informando que o { glean-sdk-brand-name } está ativado para que os dados sejam gravados localmente.
+    Nota: Se você definir uma tag de debug, pings são enviados para o <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> independentemente das configurações.
 controls-button-label-verbose = Aplicar configurações e enviar ping
