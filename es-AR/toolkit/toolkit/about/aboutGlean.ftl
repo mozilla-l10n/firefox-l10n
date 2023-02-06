@@ -45,4 +45,28 @@ about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>:
 #   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
 # Do not translate strings between <code> </code> tags.
 about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+about-glean-about-testing-header = Acerca de las pruebas
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Las instrucciones completas están documentadas en los
+    <a data-l10n-name="fog-instrumentation-test-doc-link">documentos de pruebas de instrumentación de { -fog-brand-name }</a>
+    y en la <a data-l10n-name="glean-sdk-doc-link">documentación de { glean-sdk-brand-name }</a>,
+    pero, en resumen, para probar manualmente que su instrumentación funcione, debería:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (no enviar ningún ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = En el campo anterior, asegúrese de que haya una etiqueta de depuración fácil de recordar para que pueda reconocer sus pings más adelante.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Seleccionar de la lista anterior el ping en el que se encuentra su instrumentación.
+    Si está en un <a data-l10n-name="custom-ping-link">ping personalizado</a>, elija ése.
+    De lo contrario, el valor predeterminado para las métricas de tipo <code>event</code> es
+    el ping <code>events</code>
+    y el valor predeterminado para todas las demás métricas es
+    el ping <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Opcional. Marque la casilla anterior si desea que los pings también se registren cuando se envíen.
+    Además, deberá <a data-l10n-name="<a data-l10n-name="enable-logging-link">activar el registro</a>).
 controls-button-label-verbose = Aplicar configuración y enviar ping
