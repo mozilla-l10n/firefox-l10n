@@ -250,6 +250,7 @@ colorways-cfr-header-today = Bağımsız Sesler renk kuşakları bugün kullanı
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Çerez bildirimlerine son!
+cfr-cookiebanner-body = { -brand-short-name } tarayıcınızın mümkün olduğunda tüm çerez bildirimi isteklerini otomatik reddetmesine izin verin.
 cfr-cookiebanner-accept-button = Bildirimleri kapat
     .accesskey = B
 cfr-cookiebanner-reject-button = Daha sonra
@@ -259,6 +260,7 @@ cfr-cookiebanner-accept-button-variant-1 = Bildirimleri kapat
     .accesskey = B
 cfr-cookiebanner-reject-button-variant-1 = Hayır, gerek yok
     .accesskey = H
+cfr-cookiebanner-header-variant-2 = Çerez bildirimlerini azaltın
 cfr-cookiebanner-accept-button-variant-2 = İzin ver
     .accesskey = z
 cfr-cookiebanner-reject-button-variant-2 = Daha sonra
