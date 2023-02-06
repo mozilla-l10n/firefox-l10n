@@ -16,6 +16,7 @@ controls-button-label = Enviar ajustes
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Acerca de { -glean-brand-name }
 about-glean-header = Acerca de { -glean-brand-name }
 controls-button-label-verbose = Aplicar configuración y enviar ping
