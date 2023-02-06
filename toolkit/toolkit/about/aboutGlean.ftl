@@ -48,4 +48,8 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Informações sobre testes
 # This message is followed by a numbered list.
 about-glean-manual-testing = Instruções completas estão documentadas na <a data-l10n-name="fog-instrumentation-test-doc-link">documentação de testes de instrumentação do { -fog-brand-name }</a> e na <a data-l10n-name="glean-sdk-doc-link">documentação do { glean-sdk-brand-name }</a>, mas, resumindo, para testar manualmente se sua instrumentação funciona, você deve:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (não enviar nenhum ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = No campo anterior, certifique-se de que haja uma tag de debug que você lembre para poder reconhecer seus pings mais tarde.
 controls-button-label-verbose = Aplicar configurações e enviar ping
