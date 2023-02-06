@@ -255,10 +255,17 @@ cfr-cookiebanner-accept-button = Bildirimleri kapat
 cfr-cookiebanner-reject-button = Daha sonra
     .accesskey = D
 cfr-cookiebanner-header-variant-1 = Daha az çerez bildirimi görün
+cfr-cookiebanner-accept-button-variant-1 = Bildirimleri kapat
+    .accesskey = B
+cfr-cookiebanner-reject-button-variant-1 = Hayır, gerek yok
+    .accesskey = H
 cfr-cookiebanner-accept-button-variant-2 = İzin ver
     .accesskey = z
+cfr-cookiebanner-reject-button-variant-2 = Daha sonra
+    .accesskey = D
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Sizi koruyoruz
+july-jam-body = { -brand-short-name }, her ay kullanıcı başına ortalama 3.000 takip kodunu engelleyerek internete güvenli ve hızlı erişim sağlıyor.
 july-jam-set-default-primary = Bağlantılarımı { -brand-short-name } ile aç
