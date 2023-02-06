@@ -84,6 +84,17 @@ about-glean-label-for-controls-submit =
     Presione el botón anterior para etiquetar todos los pings de { -glean-brand-name } con su etiqueta y enviar el ping seleccionado.
     (Todos los ping enviados desde ese momento hasta que reinicie la aplicación se etiquetarán con
     <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Visite la página { glean-debug-ping-viewer-brand-name } para hacer ping con su etiqueta</a>.
+    No debería tomar más de unos segundos desde que presione el botón hasta que llegue el ping.
+    A veces puede tomar unos pocos minutos.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Para más pruebas <i>ad hoc</i>,
+    también puede determinar el valor actual de una pieza particular de instrumentación
+    abriendo una consola de herramientas de desarrollo aquí en <code>about:glean</code>
+    y usando la API <code>testGetValue()</code> como
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Aplicar configuración y enviar ping
 about-glean-about-data-header = Acerca de datos
 about-glean-about-data-explanation =
