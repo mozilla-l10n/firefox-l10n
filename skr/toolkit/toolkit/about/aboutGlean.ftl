@@ -43,6 +43,8 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = ٹیسٹنگ بارے
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (کوئی وی پنگ جمع نہ کرواؤ)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = پچھلے فیلڈ وچ یقینی بݨاؤ جو اتھ ہک یادگار ڈیبگ ٹیگ ہے تاں جو تساں بعد وچ آپݨے پنگاں کوں سُن٘ڄاݨ سڳو۔
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
 about-glean-about-data-header = ڈیٹا بارے
 about-glean-about-data-explanation =
