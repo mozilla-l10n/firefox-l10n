@@ -24,6 +24,8 @@ about-glean-header = { -glean-brand-name } بارے
 about-glean-upload-enabled = ڈیٹا اپ لوڈ فعال تھی ڳیا ہے۔
 about-glean-upload-disabled = ڈیٹا اپ لوڈ غیرفعال تھی ڳیا ہے۔
 about-glean-upload-enabled-local = ڈیٹا اپ لوڈ صرف مقامی سرور کوں بھیڄݨ کیتے فعال ہے۔
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = متعلقہ <a data-l10n-name="fog-prefs-and-defines-doc-link"> ترجیحاں تے تعریفاں </a>  وچ شامل ہن:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
