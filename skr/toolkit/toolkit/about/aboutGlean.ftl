@@ -18,4 +18,19 @@ controls-button-label = ترتیباں جمع کراؤ۔
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } ڈیبگ پنگ ویووَر
+about-glean-page-title2 = { -glean-brand-name } بارے
+about-glean-header = { -glean-brand-name } بارے
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = ٹیسٹنگ بارے
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (کوئی وی پنگ جمع نہ کرواؤ)
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
+about-glean-about-data-header = ڈیٹا بارے
