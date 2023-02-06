@@ -257,6 +257,7 @@ colorways-cfr-header-today = Barvne kombinacije Neodvisni glasovi potečejo dane
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Pasice s piškotki, izginite!
+cfr-cookiebanner-body = Dovoli { -brand-short-name(sklon: "dajalnik") }, da samodejno zavrne vse zahteve za shranjevanje piškotkov, kadar je to mogoče.
 cfr-cookiebanner-accept-button = Zavrni pasice
     .accesskey = Z
 cfr-cookiebanner-reject-button = Ne zdaj
