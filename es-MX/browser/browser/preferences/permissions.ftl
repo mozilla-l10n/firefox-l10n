@@ -79,10 +79,10 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor válido
 permissions-exceptions-etp-window =
     .title = Excepciones a la protección antirrastreo mejorada
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Has desactivado las protecciones en estos sitios web.
 permissions-exceptions-etp-window2 =
     .title = Excepciones a la protección antirrastreo mejorada
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Has desactivado las protecciones en estos sitios.
 permissions-exceptions-manage-etp-desc = Puedes especificar que sitios tienen desactivada la protección de seguimiento mejorada. Escribe la dirección exacta del sitio que deseas administrar y luego haz clic en en Agregar excepción.
 
 ## Exceptions - Cookies
