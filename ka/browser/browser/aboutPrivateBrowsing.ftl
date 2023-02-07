@@ -19,15 +19,13 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = მოძებნეთ { $engine } საძიებოთი ან შეიყვანეთ მისამართი
 about-private-browsing-handoff-text-no-engine = მოძებნეთ ან შეიყვანეთ მისამართი
 about-private-browsing-not-private = ამჟამად პირად ფანჯარაში არ იმყოფებით.
-about-private-browsing-info-description-private-window = პირადი ფანჯარა: { -brand-short-name } გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ჩანაწერებს, ყველა პირადი ფანჯრის დახურვისას. თუმცა ეს ვერ დაფარავს თქვენს ვინაობას.
-about-private-browsing-info-description-simplified = { -brand-short-name } გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ჩანაწერებს, ყველა პირადი ფანჯრის დახურვისას, თუმცა ეს ვერ დაფარავს თქვენს ვინაობას.
+about-private-browsing-info-description-private-window = პირადი ფანჯარა: { -brand-short-name } გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ჩანაწერებს ყველა პირადი ფანჯრის დახურვისას. თუმცა ეს ვერ დაფარავს თქვენს ვინაობას.
+about-private-browsing-info-description-simplified = { -brand-short-name } გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ჩანაწერებს ყველა პირადი ფანჯრის დახურვისას, თუმცა ეს ვერ დაფარავს თქვენს ვინაობას.
 about-private-browsing-learn-more-link = ვრცლად
-
 about-private-browsing-hide-activity = დამალეთ თქვენი მოქმედებები და ადგილსამყოფელი, ნებისმიერ გვერდზე შესვლისას
 about-private-browsing-get-privacy = თან წაიყოლეთ უსაფრთხოება ყველგან
 about-private-browsing-hide-activity-1 = დაფარეთ თქვენი მოქმედებები და ადგილსამყოფელი { -mozilla-vpn-brand-name }-ით. ერთი შეხებით ქმნის უხიფათო კავშირს, საჯარო WiFi-ით სარგებლობის დროსაც კი.
 about-private-browsing-prominent-cta = დაიცავით პირადულობა { -mozilla-vpn-brand-name }-ით
-
 about-private-browsing-focus-promo-cta = ჩამოტვირთეთ { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: თან წაიყოლეთ პირადულობა
 about-private-browsing-focus-promo-text = პირადულობისთვის განკუთვნილი მობილური ბრაუზერი, ასუფთავებს ისტორიასა და კვალს, ყოველი გამოყენების შემდგომ.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = წაიყოლეთ პირ
 about-private-browsing-focus-promo-text-b = გამოიყენეთ { -focus-brand-name } იმ ინფორმაციის გაუმჟღავნებლად მოძიებისთვის, რომლის მთავარი ბრაუზერით ნახვაც არ გსურთ.
 about-private-browsing-focus-promo-header-c = ახალ დონეზე აყვანილი პირადულობა მობილურზე
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } ყოველი გამოყენების შემდგომ ასუფთავებს თქვენს ისტორიას, რეკლამებისა და მეთვალყურეების შეზღუდვასთან ერთად.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = დახურვა
-
 about-private-browsing-promo-close-button =
     .title = დახურვა
 
