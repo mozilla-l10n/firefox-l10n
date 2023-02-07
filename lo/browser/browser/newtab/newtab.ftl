@@ -23,10 +23,12 @@ newtab-search-box-search-button =
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ຊອກຫາດ້ວຍ { $engine } ຫຼື ໃສ່ທີ່ຢູ່
+newtab-search-box-handoff-text-no-engine = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = ເພີ່ມ Search Engine
+newtab-topsites-add-shortcut-header = ທາງລັດໃໝ່
 newtab-topsites-edit-topsites-header = ແກ້ໄຂເວັບໄຊທ໌ຍອດນິຍົມ
 newtab-topsites-edit-shortcut-header = ແກ້ໄຂທາງລັດ
 newtab-topsites-title-label = ຊື່ເລື່ອງ
@@ -60,6 +62,10 @@ newtab-topsite-sponsored = ໄດ້ຮັບການສະຫນັບສະ�
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = ລຶບ
+    .aria-label = ລຶບ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ແກ້ໄຂເວັບໄຊທ໌ນີ້
@@ -77,10 +83,19 @@ newtab-menu-delete-history = ລຶບອອກຈາກປະຫວັດກາ
 newtab-menu-save-to-pocket = ບັນທືກໄປທີ່ { -pocket-brand-name }
 newtab-menu-delete-pocket = ລຶບອອກຈາກ { -pocket-brand-name }
 newtab-menu-archive-pocket = ເກັບຖາວອນໃນ { -pocket-brand-name }
+newtab-menu-show-privacy-info = ຜູ້ສະຫນັບສະຫນູນຂອງພວກເຮົາ & ຄວາມເປັນສ່ວນຕົວຂອງທ່ານ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ສຳເລັດ
+newtab-privacy-modal-button-manage = ຈັດການການຕັ້ງຄ່າເນື້ອຫາທີ່ສະປອນເຊີ
+newtab-privacy-modal-header = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າສຳຄັນ.
+newtab-privacy-modal-paragraph-2 =
+    ນອກ​ເໜືອ​ໄປ​ຈາກ​ການ​ເລົ່າ​ເລື່ອງ​ທີ່​ໜ້າ​ຈັບ​ໃຈ​ແລ້ວ, ພວກ​ເຮົາ​ຍັງ​ສະ​ແດງ​ໃຫ້​ທ່ານ​ເຫັນ​ກ່ຽວ​ກັບ
+    ເນື້ອຫາທີ່ໄດ້ຮັບການກວດສອບສູງຈາກຜູ້ສະຫນັບສະຫນູນທີ່ເລືອກ. ໝັ້ນໃຈໄດ້, <strong>ການທ່ອງເວັບຂອງເຈົ້າ
+    ຂໍ້ມູນບໍ່ເຄີຍຖິ້ມສຳເນົາສ່ວນຕົວຂອງເຈົ້າຂອງ { -brand-product-name }</strong> — ພວກເຮົາບໍ່ເຫັນມັນ, ແລະຂອງພວກເຮົາ
+    ຜູ້ສະຫນັບສະຫນູນກໍ່ບໍ່ໄດ້.
+newtab-privacy-modal-link = ຮຽນຮູ້ວິທີຄວາມເປັນສ່ວນຕົວເຮັດວຽກຢູ່ໃນແຖບໃໝ່
 
 ##
 
@@ -125,6 +140,11 @@ newtab-label-sponsored = { $sponsorOrSource } · ສະປອນເຊີ
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = ສະໜັບສະໜູນໂດຍ { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } ນທ
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

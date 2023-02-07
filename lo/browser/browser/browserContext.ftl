@@ -254,6 +254,9 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ຈົດຫມາຍ ຮູບພາບ...
     .accesskey = g
+main-context-menu-image-set-image-as-background =
+    .label = ຕັ້ງຮູບເປັນພື້ນຫຼັງເດັສທັອບ...
+    .accesskey = S
 main-context-menu-image-copy-text =
     .label = ສຳເນົາຂໍ້ຄວາມຈາກຮູບພາບ
     .accesskey = x
@@ -381,6 +384,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = ເປີດລິ້ງຢູ່ໃນແຖບ { $containerName } ໃໝ່
+    .accesskey = T
 main-context-menu-reveal-password =
     .label = ເປີດເຜີຍລະຫັດຜ່ານ
     .accesskey = v

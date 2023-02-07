@@ -123,6 +123,7 @@ urlbar-result-menu-tip-get-help =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = ພິມໜ້ອຍລົງ, ຊອກຫາເພີ່ມເຕີມ: ຊອກຫາ { $engineName } ທັນທີຈາກແຖບທີ່ຢູ່ຂອງເຈົ້າ.
 urlbar-search-tips-redirect-2 = ເລີ່ມການຄົ້ນຫາຂອງທ່ານໃນແຖບທີ່ຢູ່ເພື່ອເບິ່ງຄໍາແນະນໍາຈາກ { $engineName } ແລະປະຫວັດການທ່ອງເວັບຂອງທ່ານ.
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = ການຊອກຫາໄດ້ງ່າຍຂຶ້ນ. ພະຍາຍາມເຮັດໃຫ້ການຊອກຫາຂອງທ່ານສະເພາະຫຼາຍຂຶ້ນຢູ່ທີ່ນີ້ໃນແຖບທີ່ຢູ່. ເພື່ອສະແດງ URL ແທນ, ໃຫ້ເຂົ້າໄປທີ່ Search, ໃນການຕັ້ງຄ່າ.
@@ -462,6 +463,14 @@ enable-devtools-popup-description2 = ເພື່ອໃຊ້ທາງລັດ 
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = ຊອກຫາເວັບ
+    .aria-label = ຊອກດ້ວຍ { $name }
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາ
@@ -606,6 +615,11 @@ bookmarks-other-bookmarks-menu =
     .label = ບຸກມາກອື່ນໆ
 bookmarks-mobile-bookmarks-menu =
     .label = ບຸກມາກມືຖື
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -624,6 +638,9 @@ bookmarks-tools-menu-button-visibility =
             [true] ເອົາເມນູບຸກມາກອອກຈາກແຖບເຄື່ອງມື
            *[other] ເພີ່ມເມນູບຸກມາກລົງໃນແຖບເຄື່ອງມື
         }
+
+##
+
 bookmarks-search =
     .label = ຊອກຫາບຸກມາກ
 bookmarks-tools =
