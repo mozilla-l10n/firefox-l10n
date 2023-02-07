@@ -8,9 +8,37 @@
 about-glean-page-title = Wo Glean
 about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean-SDK</a> je biblioteka hromadźenja datow, kotraž so w produktach Mozilla wužiwa. Tuta strona je za wuwiwarjow a testowarjow, kotřiž dyrbja <a data-l10n-name="fog-debug-doc-link">status za pytanje zmylkow a protokolowanje w Glean-SDK konfigurować</a>.
 about-glean-warning = Znjewužiwanje tutoho interfejsa móže spad { -brand-short-name } zawinować.
-
 tag-pings-label = Wšě pósłane pingi z tutej značku markěrować
 log-pings-label = Pingowe wužiwanske daty do słanja protokolować?
 send-pings-label = Pomjenowany ping pósłać
 controls-button-label = Nastajenja wotpósłać
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } Debug Ping Viewer
+about-glean-page-title2 = Wo { -glean-brand-name }
+about-glean-header = Wo { -glean-brand-name }
+about-glean-upload-enabled = Nahraće datow je zmóžnjene.
+about-glean-upload-disabled = Nahraće datow je znjemóžnjene.
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = Wo testowanju
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
+about-glean-about-data-header = Wo datach
