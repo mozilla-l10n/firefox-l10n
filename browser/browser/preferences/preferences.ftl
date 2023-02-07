@@ -73,6 +73,17 @@ restart-later = Reiniciar después
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla este ajuste.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = i
 containers-disable-alert-title = ¿Cerrar todo el contenedor de pestañas?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Si deshabilitas las pestañas contenedoras ahora, { $tabCount } pestaña contenedora se cerrará. ¿Seguro que deseas deshabilitar pestañas contenedoras?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Cerrar { $tabCount } pestaña contenedora
        *[other] Cerrar { $tabCount } pestañas contenedoras
     }
+
+##
+
 containers-disable-alert-cancel-button = Mantenerlas habilitadas
 containers-remove-alert-title = ¿Eliminar el marcador?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Si eliminas este marcador ahora, la pestaña del marcador { $count } se cerrará. ¿Estás seguro de que quieres eliminar este marcador?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom predeterminado
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Preguntar siempre
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usar { $plugin-name } (en { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Saber más
 update-application-title = { -brand-short-name } actualizaciones
 update-application-description = Mantener { -brand-short-name } actualizado para el mejor rendimiento, estabilidad y seguridad.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Qué hay de nuevo</a>
 update-history =
     .label = Mostrar historial de actualizaciones…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Error al guardar los ajustes de actualización
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Número límite de proceso de conteni
 performance-limit-content-process-enabled-desc = Los procesos de contenido adicionales mejoran el rendimiento cuando se utilizan múltiples pestañas, pero también consumen más memoria.
 performance-limit-content-process-blocked-desc = Es posible modificar el número de procesos de contenido solo con el multiproceso { -brand-short-name }. <a data-l10n-name="learn-more">Aprender a comprobar si el multiproceso está habilitado</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predeterminado)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Contenido excepcional seleccionado por { $provider }, parte de la familia { -brand-product-name }
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Una selección de sitios y contenidos r
 home-prefs-snippets-header =
     .label = Fragmentos
 home-prefs-snippets-description-new = Consejos y noticias de { -vendor-short-name } y { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Encontrar más motores de búsqueda
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palabra clave duplicada
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Seleccionaste una palabra clave usada por "{ $name }". Selecciona otra.
 search-keyword-warning-bookmark = Seleccionaste una palabra clave usada por un marcador. Selecciona otra.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Administrar cuenta
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
 sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
+
+##
+
 sync-resend-verification =
     .label = Enviar verificación nuevamente
     .accesskey = d
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Cookies y datos del sitio
 sitedata-total-size-calculating = Calculando tamaño de los datos del sitio y el caché…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
 sitedata-learn-more = Aprender más
 sitedata-delete-on-close =
@@ -918,6 +953,8 @@ sitedata-option-block-unvisited =
     .label = Cookies de sitios web no visitados
 sitedata-option-block-all-third-party =
     .label = Todas las cookies de terceros (puede causar errores en los sitios web)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Todas las cookies entre sitios (puede causar errores en los sitios web)
 sitedata-option-block-all =
     .label = Todas las cookies (causará errores en los sitios web)
 sitedata-clear =
