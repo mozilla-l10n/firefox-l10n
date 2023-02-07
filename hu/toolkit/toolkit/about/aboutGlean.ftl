@@ -54,4 +54,14 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Tudnivalók a tesztelésről
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    A teljes utasítások a
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } műszertesztelési dokumentációjában</a>
+    és a <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentációjában</a> találhatók,
+    de röviden ezeket kell tennie az mérőeszközök kézi teszteléséhez:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (egyáltalán ne küldjön pinget)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Az előző mezőben győződjön meg róla, hogy van egy jól megjegyezhető hibakeresési címke, hogy később felismerje a pingeket.
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
