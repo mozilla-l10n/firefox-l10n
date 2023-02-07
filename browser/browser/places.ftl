@@ -75,6 +75,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Rjadowak wobdźěłać…
     .accesskey = d
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
@@ -119,13 +121,13 @@ places-forget-about-this-site-confirmation-title = Na tute sydło zabyć
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Tuta akcija wšě daty nastupajo { $hostOrBaseDomain }, mjez druhimi historiju, hesła, placki, pufrowak a nastajenja wobsaha, wotstroni. Chceće woprawdźe pokročować?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Tuta akcija daty nastupajo { $hostOrBaseDomain }, mjez druhimi historiju, pufrowak a nastajenja wobsaha, wotstroni. Přisłušne zapołožki a hesła so njewotstronja. Chceće woprawdźe pokročować?
 places-forget-about-this-site-forget = Zabyć
 places-library =
     .title = Biblioteka
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Biblioteka
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Biblioteka
 places-organize-button =
