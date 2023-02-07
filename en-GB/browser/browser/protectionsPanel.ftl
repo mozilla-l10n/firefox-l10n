@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = There was an error sending the report. Please try again later.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Site fixed? Send report
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = More information about Enhanced Tracking Protection
-
 protections-panel-etp-on-header = Enhanced Tracking Protection is ON for this site
 protections-panel-etp-off-header = Enhanced Tracking Protection is OFF for this site
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Site not working?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Site Not Working?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = All trackers on this site h
 ##
 
 protections-panel-no-trackers-found = No trackers known to { -brand-short-name } were detected on this page.
-
 protections-panel-content-blocking-tracking-protection = Tracking Content
-
 protections-panel-content-blocking-socialblock = Social Media Trackers
 protections-panel-content-blocking-cryptominers-label = Cryptominers
 protections-panel-content-blocking-fingerprinters-label = Fingerprinters
@@ -63,7 +57,6 @@ protections-panel-not-found-label = None Detected
 ##
 
 protections-panel-settings-label = Protection settings
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Protections dashboard
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -71,14 +64,12 @@ protections-panel-protectionsdashboard-label = Protections dashboard
 
 # The header of the list
 protections-panel-site-not-working-view-header = Turn off protections if you’re having issues with:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Login fields
 protections-panel-site-not-working-view-issue-list-forms = Forms
 protections-panel-site-not-working-view-issue-list-payments = Payments
 protections-panel-site-not-working-view-issue-list-comments = Comments
 protections-panel-site-not-working-view-issue-list-videos = Videos
-
 protections-panel-site-not-working-view-send-report = Send a report
 
 ##
@@ -88,16 +79,13 @@ protections-panel-cryptominers = Cryptominers use your system’s computing powe
 protections-panel-fingerprinters = Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different web sites.
 protections-panel-tracking-content = Web sites may load external ads, videos, and other content with tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.
 protections-panel-social-media-trackers = Social networks place trackers on other web sites to follow what you do, see, and watch online. This allows social media companies to learn more about you beyond what you share on your social media profiles.
-
 protections-panel-description-shim-allowed = Some trackers marked below have been partially unblocked on this page because you interacted with them.
 protections-panel-description-shim-allowed-learn-more = Learn more
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Tracker partially unblocked
-
 protections-panel-content-blocking-manage-settings =
     .label = Manage protection settings
     .accesskey = M
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Report a Broken Site
 protections-panel-content-blocking-breakage-report-view-description = Blocking certain trackers can cause problems with some web sites. Reporting these problems helps make { -brand-short-name } better for everyone. Sending this report will send a URL and information about your browser settings to Mozilla. <label data-l10n-name="learn-more">Learn more</label>
@@ -111,3 +99,23 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cancel
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Send Report
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Cookie Banner Reduction
+protections-panel-cookie-banner-handling-enabled = On for this site
+protections-panel-cookie-banner-handling-disabled = Off for this site
+protections-panel-cookie-banner-handling-undetected = Site currently not supported
+protections-panel-cookie-banner-view-title =
+    .title = Cookie Banner Reduction
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Back
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Turn off Cookie Banner Reduction for { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Turn on Cookie Banner Reduction for this site?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } will clear this site’s cookies and refresh the page. Clearing all cookies may sign you out or empty shopping carts.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } tries to automatically reject all cookie requests on supported sites.
+protections-panel-cookie-banner-view-cancel = Cancel
+protections-panel-cookie-banner-view-turn-off = Turn Off
+protections-panel-cookie-banner-view-turn-on = Turn On
