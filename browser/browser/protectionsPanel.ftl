@@ -114,3 +114,8 @@ protections-panel-cookie-banner-view-go-back =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Redukowanje plackowych chorhojow za { $host } znjemóžnić?
 protections-panel-cookie-banner-view-turn-on-for-site = Redukowanje plackowych chorhojow za tute sydło zmóžnić?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } placki sydła zhaša a budźe stronu aktualizować. Zhašenje wšěch plackow móže was přizjewić abo nakupowanske wozyčki wuprózdnić.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pospytuje wšě plackowe naprašowanja na podpěranych sydłach awtomatisce wotpokazać.
+protections-panel-cookie-banner-view-cancel = Přetorhnyć
+protections-panel-cookie-banner-view-turn-off = Znjemóžnić
+protections-panel-cookie-banner-view-turn-on = Zmóžnić
