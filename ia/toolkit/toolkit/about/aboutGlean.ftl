@@ -21,6 +21,10 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Re { -glean-brand-name }
 about-glean-header = Re { -glean-brand-name }
 # Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
 #   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
 # Do not translate strings between <code> </code> tags.
 about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
@@ -33,6 +37,14 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Re testes
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Instructiones complete es documentate in le
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } documentation de test del instrumentation</a>
+    e in le <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } documentation</a>,
+    ma, in breve, pro testar manualmente que tu instrumentation labora, tu deberea:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (non invia alcun ping)
 controls-button-label-verbose = Applicar parametros e inviar ping
+about-glean-about-data-header = Re datos
+about-glean-about-data-explanation = Pro navigar per le lista de datos colligite, per favor consultar le <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.
