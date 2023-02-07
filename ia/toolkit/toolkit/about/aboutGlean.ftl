@@ -21,6 +21,19 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Visor de ping pro le depuration de { -glean-brand-name }
 about-glean-page-title2 = Re { -glean-brand-name }
 about-glean-header = Re { -glean-brand-name }
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    es un bibliotheca pro collection de datos usate in projectos { -vendor-short-name }.
+    Iste interfacie es designate pro esser usate per disveloppatores e probatores pro <a data-l10n-name="fog-link">testar instrumentation</a> manualmente.
+about-glean-upload-enabled = Le cargamento datos es activate.
+about-glean-upload-disabled = Le cargamento datos es disactivate.
+about-glean-upload-enabled-local = Datos carga es activate solo pro invio a un servitor local.
+about-glean-upload-fake-enabled =
+    Le cargamento datos es disactivate,
+    ma nos menti e dice a { glean-sdk-brand-name } que illo es activate
+    si que le datos es ancora registrate localmente.
+    Nota: Si tu ha definite un tag de depuration, le pings sera cargate al
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> indifferentemente del parametros.
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
