@@ -99,3 +99,23 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Prekliči
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Pošlji poročilo
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Zmanjšanje števila pasic s piškotki
+protections-panel-cookie-banner-handling-enabled = Vključeno na tem spletnem mestu
+protections-panel-cookie-banner-handling-disabled = Izključeno na tem spletnem mestu
+protections-panel-cookie-banner-handling-undetected = Spletno mesto trenutno ni podprto
+protections-panel-cookie-banner-view-title =
+    .title = Zmanjšanje števila pasic s piškotki
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Nazaj
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Izključim zmanjšanje števila pasic s piškotki za { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Vključim zmanjšanje števila pasic s piškotki za to spletno mesto?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } bo počistil piškotke tega spletnega mesta in osvežil stran. Če počistite vse piškotke, boste morda odjavljeni ali se bo izpraznila vaša nakupovalna košarica.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } poskuša samodejno zavrniti vse zahteve za shranjevanje piškotkov na spletnih mestih, ki so podprta.
+protections-panel-cookie-banner-view-cancel = Prekliči
+protections-panel-cookie-banner-view-turn-off = Izključi
+protections-panel-cookie-banner-view-turn-on = Vključi

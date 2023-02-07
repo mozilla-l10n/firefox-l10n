@@ -27,6 +27,7 @@ neterror-try-again-button = Poskusi znova
 neterror-add-exception-button = Vedno nadaljuj za to spletno mesto
 neterror-settings-button = Spremeni nastavitve DNS
 neterror-view-certificate-link = Ogled digitalnega potrdila
+neterror-disable-native-feedback-warning = Vedno nadaljuj
 
 ##
 
@@ -61,6 +62,15 @@ neterror-dns-not-found-trr-offline = Niste povezani z internetom.
 neterror-dns-not-found-trr-unknown-host = { $trrDomain } ni našel naslova za to spletno mesto.
 neterror-dns-not-found-trr-server-problem = Prišlo je do težave s strežnikom { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Nepričakovana težava.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne more zavarovati vašega zahtevka za naslov tega spletnega mesta prek našega zaupanja vrednega razreševalnika DNS. Razlog:
+neterror-dns-not-found-native-fallback-attackers = Nadaljujete lahko z razreševalnikom DNS, ki ni zavarovan. V tem primeru obstaja možnost, da bi tretje osebe spremljale, katera spletna mesta obiskujete, ali vas preusmerile na neželena spletna mesta.
+neterror-dns-not-found-native-fallback-heuristic = DNS prek HTTPS je v vašem omrežju onemogočen.
+neterror-dns-not-found-native-fallback-not-confirmed = Povezava na { $trrDomain } še ni pripravljena.
 
 ##
 
