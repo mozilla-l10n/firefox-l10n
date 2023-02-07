@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Avanzamento: passo { $current } di { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Avanzamento: passo { $current } di { $total }
 # "Hero Text" displayed on left side of welcome screen.

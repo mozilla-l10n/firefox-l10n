@@ -22,7 +22,6 @@ about-logging-current-log-file = File di log corrente:
 about-logging-new-log-file = Nuovo file di log:
 about-logging-currently-enabled-log-modules = Moduli di registrazione attualmente attivi:
 
-about-logging-current-log-modules = Moduli di log correnti:
 about-logging-log-tutorial = Consultare la pagina <a data-l10n-name="logging">HTTP Logging</a> per istruzioni sull’utilizzo di questo strumento.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Apri cartella
