@@ -29,4 +29,29 @@ about-glean-interface-description =
 about-glean-upload-enabled = Az adatfeltöltés engedélyezett.
 about-glean-upload-disabled = Az adatfeltöltés le van tiltva.
 about-glean-upload-enabled-local = Az adatfeltöltés csak helyi kiszolgálóra történő küldés esetén engedélyezett.
+about-glean-upload-fake-enabled =
+    Az adatfeltöltés le van tiltva,
+    de hazudunk, és azt mondjuk a { glean-sdk-brand-name }-nak, hogy engedélyezve van,
+    hogy az adatok továbbra is rögzítve legyenek helyben.
+    Megjegyzés: Ha beállít egy hibakeresési címkét, akkor a pingek a beállításoktól függetlenül feltöltődnek a
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> szolgáltatásba.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = A releváns <a data-l10n-name="fog-prefs-and-defines-doc-link">beállítások és definíciók</a> a következők:
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = Tudnivalók a tesztelésről
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
