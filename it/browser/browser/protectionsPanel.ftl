@@ -109,3 +109,24 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Annulla
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Invia segnalazione
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Riduzione banner per i cookie
+protections-panel-cookie-banner-handling-enabled = Attiva per questo sito
+protections-panel-cookie-banner-handling-disabled = Disattivata per questo sito
+protections-panel-cookie-banner-handling-undetected = Sito attualmente non supportato
+protections-panel-cookie-banner-view-title =
+  .title = Riduzione banner per i cookie
+protections-panel-cookie-banner-view-go-back =
+  .aria-label = Indietro
+
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Disattivare Riduzione banner per i cookie per { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Attivare Riduzione banner per i cookie per questo sito?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } eliminerà i cookie per questo sito e aggiornerà la pagina. L’eliminazione dei cookie potrebbe disconnetterti dal sito o svuotare eventuali carrelli in sospeso.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } cerca di rifiutare automaticamente tutte le richieste per i cookie nei siti supportati.
+protections-panel-cookie-banner-view-cancel = Annulla
+protections-panel-cookie-banner-view-turn-off = Disattiva
+protections-panel-cookie-banner-view-turn-on = Attiva
