@@ -7,6 +7,8 @@ about-logins-page-title = Συνδέσεις και κωδικοί πρόσβα�
 login-filter =
     .placeholder = Αναζήτηση συνδέσεων
 create-login-button = Δημιουργία νέας σύνδεσης
+create-new-login-button =
+    .title = Δημιουργία νέας σύνδεσης
 fxaccounts-sign-in-text = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας από άλλες συσκευές
 fxaccounts-sign-in-sync-button = Σύνδεση για συγχρονισμό
 fxaccounts-avatar-button =
@@ -32,6 +34,8 @@ about-logins-menu-menuitem-help = Βοήθεια
 
 login-list =
     .aria-label = Αντιστοιχίες συνδέσεων στην αναζήτηση
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } σύνδεση
@@ -104,7 +108,12 @@ login-item-time-used = Τελευταία χρήση: { DATETIME($timeUsed, day:
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Δημιουργία
+login-item-timeline-action-updated = Ενημέρωση
+login-item-timeline-action-used = Χρήση
 
 ## OS Authentication dialog
 
@@ -150,6 +159,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Αφαίρεση σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Αφαίρεση
@@ -180,6 +193,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Θα γίνει διαγραφή της σύνδεσης που έχετε αποθηκεύσει στο { -brand-short-name } σε όλες τις συγχρονισμένες συσκευές του { -fxaccount-brand-name(case: "gen", capitalization: "lower") } σας. Θα αφαιρεθούν επίσης και όλες οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
        *[other] Θα γίνει διαγραφή των συνδέσεων που έχετε αποθηκεύσει στο { -brand-short-name } σε όλες τις συγχρονισμένες συσκευές του { -fxaccount-brand-name(case: "gen", capitalization: "lower") } σας. Θα αφαιρεθούν επίσης και όλες οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Εξαγωγή συνδέσεων και κωδικών πρόσβασης
 about-logins-confirm-export-dialog-message = Οι κωδικοί πρόσβασής σας θα αποθηκευτούν ως αναγνώσιμο κείμενο (π.χ. BadP@ssw0rd), επομένως όποιος ανοίξει το αρχείο θα μπορέσει να τους δει.
 about-logins-confirm-export-dialog-confirm-button = Εξαγωγή…

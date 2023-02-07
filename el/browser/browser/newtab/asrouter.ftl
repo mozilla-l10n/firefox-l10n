@@ -242,6 +242,10 @@ colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Α
 
 ## Cookie Banner Handling CFR
 
+cfr-cookiebanner-reject-button = Όχι τώρα
+    .accesskey = χ
+cfr-cookiebanner-reject-button-variant-1 = Όχι, ευχαριστώ
+    .accesskey = χ
 cfr-cookiebanner-reject-button-variant-2 = Όχι τώρα
     .accesskey = χ
 
