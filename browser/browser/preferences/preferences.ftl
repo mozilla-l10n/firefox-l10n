@@ -73,6 +73,17 @@ restart-later = Pozdźišo znowa startować
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> tute nastajenje wodźi.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = W
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Nastajenja…
     .accesskey = s
 containers-disable-alert-title = Wšě kontejnerowe rajtarki začinić?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Jeli kontejnerowe rajtarki nětko znjemóžnjeće, so { $tabCount } kontejnerowy rajtark začini. Chceće kontejnerowe rajtarki woprawdźe znjemóžnić?
@@ -169,10 +184,13 @@ containers-disable-alert-ok-button =
         [few] { $tabCount } kontejnerowe rajtarki začinić
        *[other] { $tabCount } kontejnerowych rajtarkow začinić
     }
+
+##
+
 containers-disable-alert-cancel-button = Zmóžnjene wostajić
 containers-remove-alert-title = Tutón kontejner wotstronić?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Jeli tutón kontejner nětko wotstroniće, so { $count } kontejnerowy rajtark začini. Chceće tutón kontejner woprawdźe wotstronić?
@@ -236,6 +254,8 @@ advanced-fonts =
 preferences-zoom-header = Skalowanje
 preferences-default-zoom = Standardne skalowanje
     .accesskey = S
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage } %
 preferences-zoom-text-only =
@@ -328,15 +348,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Přeco so prašeć
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } wužiwać (w { -brand-short-name })
 applications-open-inapp =
@@ -379,6 +399,8 @@ play-drm-content =
 play-drm-content-learn-more = Dalše informacije
 update-application-title = Aktualizacije { -brand-short-name }
 update-application-description = Dźeržće { -brand-short-name } aktualny, za najlěpši wukon, stabilnosć a wěstotu.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Wersija { $version } <a data-l10n-name="learn-more">Nowe funkcije a změny</a>
 update-history =
     .label = Aktualizacisku historiju pokazać…
@@ -405,7 +427,7 @@ update-application-suppress-prompts =
     .accesskey = M
 update-setting-write-failure-title2 = Zmylk při składowanju aktualizowanskich nastajenjow
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -435,7 +457,7 @@ performance-limit-content-process-option = Mjeza wobsahoweho procesa
 performance-limit-content-process-enabled-desc = Wjace wobsahowych procesow móže wukon polěpšować, hdyž so wjacore rajtarki wužiwaja, budźe wšak tež wjace składa přetrjebować.
 performance-limit-content-process-blocked-desc = Ličba wobsahowych procesow da so jenož z wjaceprocesowym { -brand-short-name } změnić. <a data-l10n-name="learn-more">Zhońće, kak móžeće kontrolować, hač wjaceprocesowa funkcija je zmóžnjena</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
 
@@ -541,6 +563,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Wot { $provider } doporučeny
 home-prefs-recommended-by-description-new = Wosebite wobsah, wubrany přez { $provider }, dźěla swójby { -brand-product-name }
@@ -570,6 +596,8 @@ home-prefs-recent-activity-description = Wuběr najnowšich sydłow a najnowšeh
 home-prefs-snippets-header =
     .label = Šlipki
 home-prefs-snippets-description-new = Pokiwy a nowinki wot { -vendor-short-name } a { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -636,7 +664,7 @@ search-find-more-link = Dalše pytawy pytać
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Klučowe słowo podwojić
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sće klučowe słowo wubrał, kotrež so runje wot "{ $name }" wužiwa. Prošu wubjerće druhe.
 search-keyword-warning-bookmark = Sće klučowe słowo wubrał, kotrež so runje wot zapołožkow wužiwa. Prošu wubjerće druhe.
 
@@ -683,8 +711,15 @@ sync-sign-out =
     .accesskey = t
 sync-manage-account = Konto rjadować
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } njeje so přepruwował.
 sync-signedin-login-failure = Prošu zregistrujće so, zo byšće znowa zwjazał { $email }
+
+##
+
 sync-resend-verification =
     .label = Wobkrućenje znowa pósłać
     .accesskey = s
@@ -898,8 +933,8 @@ history-clear-button =
 sitedata-header = Placki a sydłowe daty
 sitedata-total-size-calculating = Wulkosć sydłowych datow a pufrowaka so wuličuje…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Waše składowane placki, sydłowe daty a pufrowak so tuchwilu { $value } { $unit } tačeloweho ruma wužiwaja.
 sitedata-learn-more = Dalše informacije
 sitedata-delete-on-close =
@@ -926,6 +961,8 @@ sitedata-option-block-unvisited =
     .label = Placki z njewopytanych websydłow
 sitedata-option-block-all-third-party =
     .label = Wšě placki třećich (móže zawinować, zo websydła hižo njefunguja)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Wšě sydła přesahowace placki (móže zawinować, zo websydła njefunguja)
 sitedata-option-block-all =
     .label = Wšě placki (móže zawinować, zo websydła hižo njefunguja)
 sitedata-clear =
