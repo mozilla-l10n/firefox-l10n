@@ -42,7 +42,7 @@ about-glean-manual-testing =
     Instructiones complete es documentate in le
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } documentation de test del instrumentation</a>
     e in le <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } documentation</a>,
-    ma, in breve, pro testar manualmente que tu instrumentation labora, tu deberea:
+    ma, in breve, pro testar manualmente que tu instrumentation functiona, tu deberea:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (non invia alcun ping)
 controls-button-label-verbose = Applicar parametros e inviar ping
