@@ -99,3 +99,23 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Скасувати
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Надіслати звіт
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Зменшення кількості банерів кук
+protections-panel-cookie-banner-handling-enabled = Увімкнено для цього сайту
+protections-panel-cookie-banner-handling-disabled = Вимкнено для цього сайту
+protections-panel-cookie-banner-handling-undetected = Сайт наразі не підтримується
+protections-panel-cookie-banner-view-title =
+    .title = Зменшення кількості банерів кук
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Назад
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Вимкнути зменшення кількості банерів кук для { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Увімкнути зменшення кількості банерів кук для цього сайту?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } очистить куки цього сайту та оновить сторінку. Очищення всіх кук може призвести до виходу з облікових записів або спорожнення кошика для покупок.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } намагається автоматично відхиляти всі запити кук на підтримуваних сайтах.
+protections-panel-cookie-banner-view-cancel = Скасувати
+protections-panel-cookie-banner-view-turn-off = Вимкнути
+protections-panel-cookie-banner-view-turn-on = Увімкнути
