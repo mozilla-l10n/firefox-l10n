@@ -45,6 +45,8 @@ about-glean-manual-testing =
     ma, in breve, pro testar manualmente que tu instrumentation functiona, tu deberea:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (non invia alcun ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = In le precedente campo assecura te que il ha un tag de depuration memorabile, assi que tu pote recognoscer tu pings in futuro.
 controls-button-label-verbose = Applicar parametros e inviar ping
 about-glean-about-data-header = Re datos
 about-glean-about-data-explanation = Pro navigar per le lista de datos colligite, per favor consultar le <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.
