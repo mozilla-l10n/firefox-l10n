@@ -18,6 +18,7 @@ controls-button-label = Inviar parametros
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = Visor de ping pro le depuration de { -glean-brand-name }
 about-glean-page-title2 = Re { -glean-brand-name }
 about-glean-header = Re { -glean-brand-name }
 # Variables:
