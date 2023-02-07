@@ -147,6 +147,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-remove-from-history =
     .label = Αφαίρεση από το ιστορικό
     .accesskey = Α
+urlbar-result-menu-tip-get-help =
+    .label = Λήψη βοήθειας
+    .accesskey = β
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -701,6 +704,11 @@ bookmarks-other-bookmarks-menu =
     .label = Άλλοι σελιδοδείκτες
 bookmarks-mobile-bookmarks-menu =
     .label = Σελιδοδείκτες κινητού
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -725,6 +733,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Αφαίρεση μενού σελιδοδεικτών από τη γραμμή εργαλείων
            *[other] Προσθήκη μενού σελιδοδεικτών στη γραμμή εργαλείων
         }
+
+##
+
 bookmarks-search =
     .label = Αναζήτηση σελιδοδεικτών
 bookmarks-tools =

@@ -73,6 +73,17 @@ restart-later = Επανεκκίνηση αργότερα
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = Το <img data-l10n-name="icon"/> <strong>{ $name }</strong> ελέγχει αυτήν τη ρύθμιση.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = β
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Ρυθμίσεις…
     .accesskey = ι
 containers-disable-alert-title = Κλείσιμο όλων των θεματικών καρτελών;
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Αν απενεργοποιήσετε τις θεματικές καρτέλες τώρα, θα κλείσει { $tabCount } θεματική καρτέλα. Θέλετε σίγουρα να απενεργοποιήσετε τις θεματικές καρτέλες;
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Κλείσιμο { $tabCount } θεματικής καρτέλας
        *[other] Κλείσιμο { $tabCount } θεματικών καρτελών
     }
+
+##
+
 containers-disable-alert-cancel-button = Να παραμείνουν ενεργές
 containers-remove-alert-title = Αφαίρεση θεματικής καρτέλας;
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Αν αφαιρέσετε αυτήν τη θεματική ενότητα τώρα, θα κλείσει { $count } θεματική καρτέλα. Θέλετε σίγουρα να αφαιρέσετε αυτήν τη θεματική ενότητα;
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Ζουμ
 preferences-default-zoom = Προεπιλεγμένο ζουμ
     .accesskey = ζ
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Ερώτηση πάντα
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Χρήση { $plugin-name } (στο { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Μάθετε περισσότερα
 update-application-title = Ενημερώσεις του { -brand-short-name }
 update-application-description = Διατηρείτε το { -brand-short-name } ενημερωμένο για καλύτερη απόδοση, σταθερότητα και ασφάλεια.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Έκδοση { $version } <a data-l10n-name="learn-more">Τι νέο υπάρχει</a>
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = λ
 update-setting-write-failure-title2 = Σφάλμα αποθήκευσης ρυθμίσεων ενημερώσεων
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Όριο διεργασιών περ�
 performance-limit-content-process-enabled-desc = Οι επιπρόσθετες διεργασίες περιεχομένου μπορούν να βελτιώσουν τις επιδόσεις κατά τη χρήση πολλαπλών καρτελών, αλλά θα χρησιμοποιούν περισσότερη μνήμη.
 performance-limit-content-process-blocked-desc = Η τροποποίηση του αριθμού των διεργασιών περιεχομένου είναι δυνατή μόνο στο { -brand-short-name } με τη δυνατότητα πολλαπλών διεργασιών. <a data-l10n-name="learn-more">Μάθετε πώς μπορείτε να ελέγξετε εάν είναι ενεργοποιημένη η λειτουργία πολλαπλών διεργασιών</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (προεπιλογή)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Προτάσεις του { $provider }
 home-prefs-recommended-by-description-new = Εξαιρετικό περιεχόμενο από το { $provider }, μέρος της οικογένειας του { -brand-product-name }
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Μια συλλογή πρόσφατω�
 home-prefs-snippets-header =
     .label = Αποσπάσματα
 home-prefs-snippets-description-new = Συμβουλές και νέα από τη { -vendor-short-name } και το { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Εύρεση περισσότερων μηχανών α�
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Διπλή λέξη-κλειδί
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το «{ $name }». Παρακαλώ επιλέξτε κάποια άλλη.
 search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από ένα σελιδοδείκτη. Παρακαλώ επιλέξτε κάποια άλλη.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = ν
 sync-manage-account = Διαχείριση λογαριασμού
     .accesskey = η
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } Μη επαληθευμένος.
 sync-signedin-login-failure = Παρακαλούμε συνδεθείτε ξανά για επανασύνδεση { $email }
+
+##
+
 sync-resend-verification =
     .label = Εκ νέου αποστολή επαλήθευσης
     .accesskey = λ
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Cookies και δεδομένα ιστοτόπων
 sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοτόπου και προσωρινής μνήμης…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Αυτή τη στιγμή, τα αποθηκευμένα cookies, τα δεδομένα ιστοτόπων και η κρυφή μνήμη καταλαμβάνουν { $value } { $unit } χώρου στον δίσκο.
 sitedata-learn-more = Μάθετε περισσότερα
 sitedata-delete-on-close =
@@ -918,6 +953,8 @@ sitedata-option-block-unvisited =
     .label = Cookies από ιστοτόπους που δεν έχετε επισκεφθεί
 sitedata-option-block-all-third-party =
     .label = Όλα τα cookies τρίτων (πιθανή δυσλειτουργία ιστοτόπων)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Όλα τα cookies μεταξύ ιστοτόπων (πιθανή δυσλειτουργία ιστοτόπων)
 sitedata-option-block-all =
     .label = Όλα τα cookies (προκαλεί δυσλειτουργία ιστοτόπων)
 sitedata-clear =
@@ -997,6 +1034,7 @@ content-blocking-all-cookies = Όλα τα cookies
 content-blocking-unvisited-cookies = Cookies από ιστοτόπους που δεν έχετε επισκεφθεί
 content-blocking-all-windows-tracking-content = Περιεχόμενο καταγραφής σε όλα τα παράθυρα
 content-blocking-all-third-party-cookies = Όλα τα cookies τρίτων
+content-blocking-all-cross-site-cookies = Όλα τα cookies μεταξύ ιστοτόπων
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 # "Test pilot" is used as a verb. Possible alternatives:
