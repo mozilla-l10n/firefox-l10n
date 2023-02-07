@@ -115,3 +115,5 @@ protections-panel-cookie-banner-view-go-back =
 protections-panel-cookie-banner-view-turn-off-for-site = ¿Embogue kookie banner ñemomichĩ { $host } peg̃uarã?
 protections-panel-cookie-banner-view-turn-on-for-site = ¿Emyandy kookie banner ñemomichĩ ko tendápe g̃uarã?
 protections-panel-cookie-banner-view-cancel = Heja
+protections-panel-cookie-banner-view-turn-off = Mbogue
+protections-panel-cookie-banner-view-turn-on = Myandy
