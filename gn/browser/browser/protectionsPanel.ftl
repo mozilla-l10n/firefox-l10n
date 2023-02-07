@@ -114,6 +114,8 @@ protections-panel-cookie-banner-view-go-back =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ¿Embogue kookie banner ñemomichĩ { $host } peg̃uarã?
 protections-panel-cookie-banner-view-turn-on-for-site = ¿Emyandy kookie banner ñemomichĩ ko tendápe g̃uarã?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } omboguéta kookie ko tendagua ha ombohekopyahúta kuatiarogue. Emboguepárõ kookie ombotykuaa ne rembiapo térã omonandi ne mba’ejoguakue.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } omboykese ijehegui opaite kookie mba’ejerure umi tenda ojokupytývape.
 protections-panel-cookie-banner-view-cancel = Heja
 protections-panel-cookie-banner-view-turn-off = Mbogue
 protections-panel-cookie-banner-view-turn-on = Myandy
