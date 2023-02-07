@@ -8,9 +8,17 @@
 about-glean-page-title = A Glean névjegye
 about-glean-description = A <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> egy a Mozilla termékeiben használt adatgyűjtő programkönyvtár. Ez a lap azoknak a fejlesztőknek és tesztelőknek szól, akiknek <a data-l10n-name="fog-debug-doc-link">hibakeresési és naplózási állapotot kell beállítaniuk a Glean SDK-ban</a>.
 about-glean-warning = Az interfész nem megfelelő használata a { -brand-short-name } összeomlását okozhatja.
-
 tag-pings-label = Az összes elküldött ping címkézése ezzel a címkével
 log-pings-label = Naplózza a ping tartalmát küldés előtt?
 send-pings-label = A nevesített ping elküldése
 controls-button-label = Beállítások elküldése
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = A { -glean-brand-name } hibakeresési ping megjelenítő
+about-glean-page-title2 = A { -glean-brand-name } névjegye
+about-glean-header = A { -glean-brand-name } névjegye
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
