@@ -24,4 +24,7 @@ about-glean-upload-enabled = Зацягванне звестак уключан�
 about-glean-upload-disabled = Зацягванне звестак выключана.
 about-glean-upload-enabled-local = Зацягванне звестак уключана толькі для адпраўкі на лакальны сервер.
 about-glean-about-testing-header = Пра тэставанне
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (не адпраўляць пінг)
 controls-button-label-verbose = Прымяніць налады і адправіць ping
+about-glean-about-data-header = Пра звесткі
