@@ -21,6 +21,7 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Visor de ping de debugo do { -glean-brand-name }
 about-glean-page-title2 = Sobre o { -glean-brand-name }
 about-glean-header = Sobre o { -glean-brand-name }
+about-glean-interface-description = O <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> é uma biblioteca de coleta de dados usada em projetos da { -vendor-short-name }. Esta interface foi projetada para ser usada por desenvolvedores e testadores para <a data-l10n-name="fog-link">testar instrumentação</a> manualmente.
 about-glean-upload-enabled = O envio de dados está ativado.
 about-glean-upload-disabled = O envio de dados está desativado.
 about-glean-upload-enabled-local = O envio de dados está ativado apenas para enviar a um servidor local.
