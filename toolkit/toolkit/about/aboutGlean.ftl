@@ -53,3 +53,7 @@ about-glean-no-ping-label = (não enviar nenhum ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = No campo anterior, certifique-se de que haja uma tag de debug que você lembre para poder reconhecer seus pings mais tarde.
 controls-button-label-verbose = Aplicar configurações e enviar ping
+about-glean-about-data-header = Informações sobre dados
+about-glean-about-data-explanation =
+    Para ver a lista de dados coletados, consulte o
+    <a data-l10n-name="glean-dictionary-link">dicionário do { -glean-brand-name }</a>.
