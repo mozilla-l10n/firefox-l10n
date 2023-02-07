@@ -44,10 +44,6 @@ videocontrols-picture-in-picture-toggle-label2 = Atera bideo hau
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer2 = Dibertigarriagoa da pantaila gehiagorekin. Erreproduzitu bideo hau beste leiho batean normal nabigatzen jarraitzen duzun bitartean.
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Dibertigarriagoa da pantaila gehiagorekin. Erreproduzitu bideo hau bestelako gauzak egin bitartean.
 videocontrols-error-aborted = Bideoa kargatzea geldituta.
 videocontrols-error-network = Bideoaren erreprodukzioa abortatuta sareko errore batengatik.
@@ -68,4 +64,4 @@ videocontrols-status-picture-in-picture = Bideoa beste leiho batean ari da errep
 # available. For example, when at the 5 minute mark in an unknown
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
-videocontrols-position-and-duration-labels = { $duration }<span data-l10n-name="position-duration-format"> / { $position }</span>
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
