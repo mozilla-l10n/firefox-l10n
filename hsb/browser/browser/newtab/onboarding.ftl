@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Postup: krok { $current } z { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Postup: krok { $current } z { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -418,3 +416,5 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Swětłokóžne a ćěmnokóžne ruki hromadu kleskaja
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pohlad na chowanje słónca přez wokno z lišku a stwinej rostlinu na woknowym prohu
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Ruka barbojtu kolažu zeleneho wóčka, oranžoweho črija, čerwjeneho basketballa, wioletnych nahłownych słuchatkow, módreje wutroby a žołteje króny

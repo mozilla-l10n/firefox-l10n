@@ -79,10 +79,11 @@ permissions-invalid-uri-label = Prošu zapodajće płaćiwe mjeno hosta
 permissions-exceptions-etp-window =
     .title = Wuwzaća za polěpšeny slědowanski škit
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Sće škit na tutych websydłach znjemóžnił.
 permissions-exceptions-etp-window2 =
     .title = Wuwzaća za polěpšeny slědowanski škit
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Sće škit na tutych websydłach znjemóžnił.
+permissions-exceptions-manage-etp-desc = Móžeće podać, kotre websydła maja polěpšeny slědowanski škit znjemóžnjeny. Zapodajće eksaktnu adresu websydła, kotrež chceće rjadować a klikńće potom na Wuwzaće přidać.
 
 ## Exceptions - Cookies
 
