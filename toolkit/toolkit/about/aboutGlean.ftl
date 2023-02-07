@@ -77,5 +77,26 @@ about-glean-label-for-ping-names =
 about-glean-label-for-log-pings =
     (Opsjoneel. Kontrolearje it foargeande fjild as jo wolle dat pings ek logd wurde as se yntsjinne wurde.
     Jo moatte hjirnjonken <a data-l10n-name="enable-logging-link">logging ynskeakelje</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Druk op de foargeande knop om alle { -glean-brand-name }-pings te labeljen mei jo label en tsjinje de selektearre ping yn.
+    (Alle pings dy’t fan dan ôf yntsjinne wurde, wurde, oant jo de tapassing opnij starte, labele mei
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Besykje de { glean-debug-ping-viewer-brand-name }-side foar pings mei jo label</a>.
+    It soe net mear as in pear sekonden duorje moatte fan it yndrukken fan de knop ôf oant it oankommen fan jo ping.
+    Somtiden duorret it inkelde minuten.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Foar mear <i>ad hoc</i>-testen,
+    kinne jo ek de aktuele wearde bepale fan in spesifyk stik ynstrumintaasje
+    troch hjir in devtools-console te iepenjen op <code>about:glean</code>
+    en de <code>testGetValue()</code>-API te brûken lykas
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Ynstellingen tapasse en ping ferstjoere
 about-glean-about-data-header = Oer gegevens
+about-glean-about-data-explanation =
+    Besjoch, om troch de list mei sammele gegevens te blêdzjen, de
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-biblioteek</a>.
