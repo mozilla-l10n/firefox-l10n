@@ -21,4 +21,12 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = A { -glean-brand-name } hibakeresési ping megjelenítő
 about-glean-page-title2 = A { -glean-brand-name } névjegye
 about-glean-header = A { -glean-brand-name } névjegye
+about-glean-interface-description =
+    A <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    egy a { -vendor-short-name } projekjeiben használt adatgyűjtő programkönyvtár.
+    Ez a felület arra lett tervezve, hogy a fejlesztők és tesztelők kézileg
+    <a data-l10n-name="fog-link">teszteljék a mérőeszközöket</a>.
+about-glean-upload-enabled = Az adatfeltöltés engedélyezett.
+about-glean-upload-disabled = Az adatfeltöltés le van tiltva.
+about-glean-upload-enabled-local = Az adatfeltöltés csak helyi kiszolgálóra történő küldés esetén engedélyezett.
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
