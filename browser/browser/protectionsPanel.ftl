@@ -103,9 +103,17 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = 减少 Cookie 横幅
+protections-panel-cookie-banner-handling-enabled = 为此网站开启
+protections-panel-cookie-banner-handling-disabled = 为此网站关闭
 protections-panel-cookie-banner-handling-undetected = 当前不支持的网站
 protections-panel-cookie-banner-view-title =
     .title = 减少 Cookie 横幅
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = 返回
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = 要为 { $host } 关闭“减少 Cookie 横幅”功能吗？
+protections-panel-cookie-banner-view-turn-on-for-site = 要为此网站开启“减少 Cookie 横幅”功能吗？
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } 将清除此网站的 Cookie 并刷新页面。清除 Cookie 可能会导致您退出登录，或清空购物车。
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } 会尝试在支持的网站上尽可能拒绝所有 Cookie 请求。
 protections-panel-cookie-banner-view-cancel = 取消
