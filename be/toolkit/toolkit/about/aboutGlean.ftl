@@ -18,6 +18,7 @@ controls-button-label = Адправіць налады
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = Прагляд пінгаў адладкі { -glean-brand-name }
 about-glean-page-title2 = Пра { -glean-brand-name }
 about-glean-header = Пра { -glean-brand-name }
 about-glean-upload-enabled = Зацягванне звестак уключана.
