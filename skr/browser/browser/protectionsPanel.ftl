@@ -99,3 +99,17 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = منسوخ
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = رپورٖٹ پٹھو
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = کوکی بینر گھٹاوݨ
+protections-panel-cookie-banner-handling-enabled = ایں سائٹ کیتے چالو کرو
+protections-panel-cookie-banner-handling-disabled = ایں سائٹ کیتے بند کرو
+protections-panel-cookie-banner-handling-undetected = سائٹ فی الحال سہارا تھئی کائنی
+protections-panel-cookie-banner-view-title =
+    .title = کوکی بینر گھٹاوݨ
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = پچھوں
+protections-panel-cookie-banner-view-cancel = منسوخ
+protections-panel-cookie-banner-view-turn-off = بند کرو
+protections-panel-cookie-banner-view-turn-on = چالو کرو
