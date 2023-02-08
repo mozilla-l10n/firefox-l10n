@@ -61,13 +61,13 @@ cfr-doorhanger-extension-total-users =
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = 消失吧，Cookie 横幅！
 cfr-cookie-banner-handling-body = 允许 { -brand-short-name } 尽可能自动拒绝 Cookie 横幅的请求，如果无法拒绝则接受所有 Cookie 以关闭更多横幅。
-cfr-cookie-banner-accept-button = 拒绝请求
+cfr-cookie-banner-accept-button = 关闭请求
     .accesskey = D
 cfr-cookie-banner-reject-button = 暂时不要
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-1 = 减少 Cookie 弹窗
 cfr-cookie-banner-handling-body-variant-1 = 让 { -brand-short-name } 自动帮您回应 Cookie 弹窗，实现无干扰浏览体验。{ -brand-short-name } 将尽可能拒绝所有请求，若无法拒绝则全部接受。
-cfr-cookie-banner-accept-button-variant-1 = 关闭 Cookie 弹窗
+cfr-cookie-banner-accept-button-variant-1 = 关闭弹窗
     .accesskey = D
 cfr-cookie-banner-reject-button-variant-1 = 不，谢谢
     .accesskey = N
