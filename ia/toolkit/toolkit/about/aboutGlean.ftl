@@ -34,6 +34,8 @@ about-glean-upload-fake-enabled =
     si que le datos es ancora registrate localmente.
     Nota: Si tu ha definite un tag de depuration, le pings sera cargate al
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> indifferentemente del parametros.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">Preferentias e definitiones</a> pertinente:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
