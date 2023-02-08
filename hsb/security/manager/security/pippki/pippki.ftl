@@ -8,22 +8,18 @@ password-quality-meter = Kwalitne měritko hesła
 
 change-device-password-window =
     .title = Hesło změnić
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wěstotny grat: { $tokenName }
 change-password-old = Aktualne hesło:
 change-password-new = Nowe hesło:
 change-password-reenter = Nowe hesło (hišće raz):
-
 pippki-failed-pw-change = Njeje móžno, hesło změnić.
 pippki-incorrect-pw = Njejsće prawe hesło zapodał. Prošu spytajće hišće raz.
 pippki-pw-change-ok = Hesło je so wuspěšnje změniło.
-
 pippki-pw-empty-warning = Waše składowane hesła a priwatne kluče so nješkitaja.
 pippki-pw-erased-ok = Sće swoje hesło zhašał.  { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Warnowanje! Sće so rozsudźił, zo njeby so hesło wužiwało. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Sće tuchwilu we FIPS-modusu. FIPS sej hesło žada.
 
 ## Reset Primary Password dialog
@@ -31,14 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Sće tuchwilu we FIPS-modusu. FIPS sej hes
 reset-primary-password-window =
     .title = Hłowne hesło wróćo stajić
     .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Hłowne hesło wróćo stajić
     .style = min-width: 40em
 reset-password-button-label =
     .label = Wróćo stajić
 reset-primary-password-text = Jeli swoje hłowne hesło wróćo stajiće, zabudu se wšě waše składowane webowe a e-mejlowe hesła, wosobinski certifikata a priwatne kluče. Chceće woprawdźe swoje hłowne hesło wróćo stajić?
-
 pippki-reset-password-confirmation-title = Hłowne hesło wróćo stajić
 pippki-reset-password-confirmation-message = Waše hłowne hesło je so wróćo stajiło.
 
@@ -47,7 +41,6 @@ pippki-reset-password-confirmation-message = Waše hłowne hesło je so wróćo 
 download-cert-window =
     .title = Sćehnjenje certifikata
     .style = width: 46em
-
 download-cert-window2 =
     .title = Sćehnjenje certifikata
     .style = min-width: 46em
@@ -86,3 +79,9 @@ protected-auth-window =
     .title = Přez token škitana awtentifikacija
 protected-auth-msg = Prošu awtentifikujće token. Awtentifikaciska metoda wotwisuje wot typa wašeho tokena.
 protected-auth-token = Token:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Prošu awtentifikujće so pola tokena “{ $tokenName }”. Kak dyrbiće to činić, wotwisuje wot tokena (na přikład přez wužiwanje čitaka porstowych wotćišćow abo přez zapodawanje koda z tastaturu).
