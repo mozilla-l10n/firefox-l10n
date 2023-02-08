@@ -18,6 +18,7 @@ controls-button-label = 提交设置
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } Ping 调试查看器
 about-glean-page-title2 = 关于 { -glean-brand-name }
 about-glean-header = 关于 { -glean-brand-name }
 about-glean-interface-description =
