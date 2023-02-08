@@ -35,6 +35,8 @@ about-glean-upload-fake-enabled =
     zo bychu so daty hišće lokalnje składowali.
     Kedźbu: Jeli značku pytanja zmylkow stajeće, pingi so do
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> njedźiwajo na nastajenja nahrawaja.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Relewantne <a data-l10n-name="fog-prefs-and-defines-doc-link">nastajenja a definicije</a> wopřijimaja:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
@@ -52,5 +54,16 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Wo testowanju
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Dospołne instrukcije so w
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentach testowanja instrumentacije</a>
+    a w <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentaciji</a> dokumentuja,
+    ale, krótko prajene, zo byšće manuelnje testował, hač waša instrumentacije funguje, wy měł:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (ping njesłać)
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
 about-glean-about-data-header = Wo datach
+about-glean-about-data-explanation =
+    Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
