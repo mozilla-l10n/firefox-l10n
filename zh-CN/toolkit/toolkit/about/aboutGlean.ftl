@@ -27,6 +27,7 @@ about-glean-interface-description =
     用于手动<a data-l10n-name="fog-link">测试检测</a>。
 about-glean-upload-enabled = 已启用数据上传。
 about-glean-upload-disabled = 已禁用数据上传。
+about-glean-upload-enabled-local = 数据上传仅在发送到本地服务器时启用。
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
