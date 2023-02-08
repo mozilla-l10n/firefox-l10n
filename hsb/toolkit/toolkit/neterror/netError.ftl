@@ -54,6 +54,7 @@ neterror-dns-not-found-hint-firewall = Přepruwujće, hač { -brand-short-name }
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-attackers = Jelo pokročujeće, móhł třeći poskićowar widźeć, kotre websydła wopytujeće abo was k njedowěrliwemu sydłu dale posrědkować.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } njemóžeše z { $trrDomain } zwjazać.
 neterror-dns-not-found-trr-only-timeout = Zwjazowanje z { $trrDomain } je dlěje trało hač wočakowane.
 neterror-dns-not-found-trr-offline = Njejsće z internetom zwjazany.

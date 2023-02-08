@@ -57,6 +57,7 @@ third-party-button-expand =
     .title = Nadrobne informacije pokazać
 third-party-button-collapse =
     .title = Nadrobne informacije schować
+third-party-requires-restart = { -brand-short-name } dyrbi so znowa startować, zo by změnił, kotre module třećich poskićowarjow so blokuja.
 third-party-should-restart-title = { -brand-short-name } znowa startować
 third-party-should-restart-ok = { -brand-short-name } nětko znowa startować
 third-party-restart-later = Pozdźišo znowa startować
