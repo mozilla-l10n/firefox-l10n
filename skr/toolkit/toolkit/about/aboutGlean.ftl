@@ -21,6 +21,11 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } ڈیبگ پنگ ویووَر
 about-glean-page-title2 = { -glean-brand-name } بارے
 about-glean-header = { -glean-brand-name } بارے
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    ہک ڈیٹا مجموعہ لائبریری ہے جہڑی { -vendor-short-name } منصوبیاں وچ ورتیندی ہے۔
+    ایہ انٹرفیس ڈیوپلپراں تے ٹیسٹراں کیتے دستی
+    <a data-l10n-name="fog-link"> ٹیسٹ دے آلاتی عمل</a> کیتے ڈیزائن کیتا ڳئے۔
 about-glean-upload-enabled = ڈیٹا اپ لوڈ فعال تھی ڳیا ہے۔
 about-glean-upload-disabled = ڈیٹا اپ لوڈ غیرفعال تھی ڳیا ہے۔
 about-glean-upload-enabled-local = ڈیٹا اپ لوڈ صرف مقامی سرور کوں بھیڄݨ کیتے فعال ہے۔
