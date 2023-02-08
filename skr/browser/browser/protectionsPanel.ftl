@@ -110,6 +110,12 @@ protections-panel-cookie-banner-view-title =
     .title = کوکی بینر گھٹاوݨ
 protections-panel-cookie-banner-view-go-back =
     .aria-label = پچھوں
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = { $host } کیتے کوکی بینر گھٹاوݨ بند کروں؟
+protections-panel-cookie-banner-view-turn-on-for-site = ایں سائٹ کیتے کوکی بینر گھٹاوݨ چالو کروں؟
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ایں سائٹ دیاں کوکیاں صاف کریسی تے ورقہ تازہ کریسی۔ساریاں کوکیاں صاف کرݨ نال تساں سائن آوٹ تھی سڳدے ہو یا تہاݙی خریداری ریڑھی خالی تھی ویسی۔
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } آپݨے آپ سہارا تھیاں سائٹاں تے ساریاں کوکی ارداساں کوں مسترد کرݨ دی کوشش کریندا ہے۔
 protections-panel-cookie-banner-view-cancel = منسوخ
 protections-panel-cookie-banner-view-turn-off = بند کرو
 protections-panel-cookie-banner-view-turn-on = چالو کرو
