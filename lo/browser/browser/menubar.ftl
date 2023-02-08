@@ -151,6 +151,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ຮູບແບບຂອງຫນ້າແບບພື້ນຖານ
     .accesskey = B
+menu-view-repair-text-encoding =
+    .label = ສ້ອມແປງການເຂົ້າລະຫັດຂໍ້ຄວາມ
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -245,6 +248,9 @@ menu-tools-addons-and-themes =
 menu-tools-fxa-sign-in2 =
     .label = ເຂົ້າ​ສູ່​ລະ​ບົບ.
     .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = ເປີດການຊິ້ງຂໍ້ມູນ...
+    .accesskey = n
 menu-tools-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
     .accesskey = S
@@ -303,6 +309,9 @@ menu-help-more-troubleshooting-info =
     .accesskey = T
 menu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
+menu-help-share-ideas =
+    .label = ແບ່ງ​ປັນ​ຄວາມ​ຄິດ​ເຫັນ​ແລະ​ຄໍາ​ຄຶດ​ຄໍາ​ເຫັນ...
+    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = ໂໝດແກ້ໄຂບັນຫາ...
     .accesskey = M
