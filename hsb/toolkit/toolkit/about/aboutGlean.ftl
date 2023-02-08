@@ -21,8 +21,20 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } Debug Ping Viewer
 about-glean-page-title2 = Wo { -glean-brand-name }
 about-glean-header = Wo { -glean-brand-name }
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    je zběrka datow, kotraž so w projektach { -vendor-short-name } wužiwa.
+    Tutón powjerch je so wuwił, zo by so wot wuwiwarjow a testowarjow wužiwał, zo bychu manuelnje
+    <a data-l10n-name="fog-link">instrumentaciju testowali</a>.
 about-glean-upload-enabled = Nahraće datow je zmóžnjene.
 about-glean-upload-disabled = Nahraće datow je znjemóžnjene.
+about-glean-upload-enabled-local = Nahraće datow je jenož za słanje na lokalny serwer zmóžnjene.
+about-glean-upload-fake-enabled =
+    Nahraće datow je znjemóžnjene,
+    ale łžimy a zdźělamy { glean-sdk-brand-name }, zo wono je zmóžnjene
+    zo bychu so daty hišće lokalnje składowali.
+    Kedźbu: Jeli značku pytanja zmylkow stajeće, pingi so do
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> njedźiwajo na nastajenja nahrawaja.
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
