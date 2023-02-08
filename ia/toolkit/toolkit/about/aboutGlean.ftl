@@ -72,6 +72,28 @@ about-glean-label-for-ping-names =
     le ping de <code>eventos</code>
     e illo predefinite pro tote le altere indicatores es
     le ping de <code>indicatores</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Optional. Marca le cassa de controlo si tu alsi vole registrar le pings quando illos es inviate.
+    Tu in addition debera <a data-l10n-name="enable-logging-link">activar le registrationes</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Pulsa le button pro etiquettar tote le pings de { -glean-brand-name } con tu tag e inviar le ping seligite.
+    (Tote le pings inviate desde alora usque le re-initio de tu application sera etiquettate con
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Visita le pagina del { glean-debug-ping-viewer-brand-name } pro vider le pings con tu etiquetta</a>.
+    Il non deberea passar plus que alcun secundas desde le pulsata del button al arrivata de tu ping.
+    Aliquando il pote passar un parve manata de minutas.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Pro altere tests <i>ad hoc</i>,
+    tu pote alsi definir le currente valor de un particular pecia de instrumentation
+    aperiente un consola de instrumentos de disveloppamento ci sur <code>about:glean</code>
+    e per le API de <code>testGetValue()</code> como
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Applicar parametros e inviar ping
 about-glean-about-data-header = Re datos
 about-glean-about-data-explanation = Pro navigar per le lista de datos colligite, per favor consultar le <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.
