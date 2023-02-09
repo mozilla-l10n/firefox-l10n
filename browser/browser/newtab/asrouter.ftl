@@ -57,6 +57,18 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } users
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-reject-button = Not Now
+    .accesskey = N
+cfr-cookie-banner-reject-button-variant-1 = No thanks
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = Cookie Banner Reduction
+cfr-cookie-banner-accept-button-variant-2 = Allow
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = Not now
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sync your bookmarks everywhere.
@@ -155,10 +167,6 @@ spotlight-total-cookie-protection-body = Total Cookie Protection stops trackers 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } builds a fence around cookies, limiting them to the site you’re on so trackers can’t use them to follow you. With early access, you’ll help optimize this feature so we can keep building a better web for everyone.
 spotlight-total-cookie-protection-primary-button = Turn on Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Not now
-cfr-total-cookie-protection-header = Thanks to you, { -brand-short-name } is more private and secure than ever
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Total Cookie Protection is our strongest privacy protection yet – and it’s now a default setting for { -brand-short-name } users everywhere. We couldn’t have done it without early access participants like you. So thanks for helping us create a better, more private internet.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +213,6 @@ firefoxview-cfr-primarybutton = Try it
     .accesskey = T
 firefoxview-cfr-secondarybutton = Not now
     .accesskey = N
-firefoxview-cfr-header = Get recently closed tabs back with { -firefoxview-brand-name }
-firefoxview-cfr-body = Plus seamlessly hop between devices and add a splash of colour to your browser.
 firefoxview-cfr-header-v2 = Quickly pick up where you left off
 
 ## Firefox View Spotlight
@@ -227,3 +233,14 @@ colorways-cfr-header-28days = Independent Voices colourways expire January 16
 colorways-cfr-header-14days = Independent Voices colourways expire in two weeks
 colorways-cfr-header-7days = Independent Voices colourways expire this week
 colorways-cfr-header-today = Independent Voices colourways expire today
+
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-accept-button-variant-2 = Allow
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = Not Now
+    .accesskey = N
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = We’ve got you covered
