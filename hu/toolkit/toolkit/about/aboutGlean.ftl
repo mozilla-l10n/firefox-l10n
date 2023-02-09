@@ -88,5 +88,15 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Keresse fel a { glean-debug-ping-viewer-brand-name } oldalt a címkézett pingekért</a>.
     A gomb megnyomása és a ping megérkezése között néhány másodpercnyi időnek kellene eltelnie.
     Néha ez néhány percet is igénybe vehet.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    További <i>ad hoc</i> teszteléshez,
+    egy adott műszer aktuális értékét is meghatározhatja
+    a fejlesztői konzol megnyitásával itt az <code>about:glean</code> oldalon
+    és a <code>testGetValue()</code> API használatával, például:
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
 about-glean-about-data-header = Információk az adatokról
+about-glean-about-data-explanation =
+    Az összegyűjtött adatok tallózásához tekintse meg a
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Szótárat</a>.
