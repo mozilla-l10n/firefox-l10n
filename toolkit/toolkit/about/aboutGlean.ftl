@@ -88,6 +88,13 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Visita la página { glean-debug-ping-viewer-brand-name } para hacer ping con tu etiqueta</a>.
     No debería tomar más de unos segundos desde que presionas el botón hasta que llega tu ping.
     A veces puede tomar un par de minutos.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Para más pruebas <i>ad hoc</i>,
+    también puedes determinar el valor actual de una pieza particular de instrumentación
+    abriendo una consola de herramientas de desarrollo aquí en <code>about:glean</code>
+    y usando la API <code>testGetValue()</code> como por ejemplo
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Aplicar ajustes y enviar ping
 about-glean-about-data-header = Acerca de los datos
 about-glean-about-data-explanation =
