@@ -64,4 +64,17 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (egyáltalán ne küldjön pinget)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Az előző mezőben győződjön meg róla, hogy van egy jól megjegyezhető hibakeresési címke, hogy később felismerje a pingeket.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Válassza ki az előző listából azt a pinget, amelyben a műszere szerepel.
+    Ha egy <a data-l10n-name="custom-ping-link">egyéni pingben</a> szerepel, akkor válassza azt.
+    Különben az <code>event</code> metrika alapértelmezése
+    az <code>events</code> ping.
+    and the default for all other metrics is
+    the <code>metrics</code> ping.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Nem kötelező. Jelölje be az előző négyzetet, ha azt szeretné, hogy a pingeket is naplózza a rendszer a beküldésükkor.
+    Ezenkívül <a data-l10n-name="enable-logging-link">engedélyeznie kell a naplózást</a>.)
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
