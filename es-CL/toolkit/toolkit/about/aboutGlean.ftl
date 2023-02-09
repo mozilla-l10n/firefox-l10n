@@ -64,6 +64,15 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (no enviar ningún ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = En el campo anterior, asegúrate de que haya una etiqueta de depuración memorable para que puedas reconocer tus pings más adelante.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Selecciona de la lista anterior el ping en el que se encuentra tu instrumentación.
+    Si está en un <a data-l10n-name="custom-ping-link">ping personalizado</a>, elige ese.
+    De lo contrario, el valor predeterminado para las métricas de <code>evento</code> es
+    el ping <code>eventos</code>
+    y el valor predeterminado para todas las demás métricas es
+    el ping <code>metricas</code>.
 controls-button-label-verbose = Aplicar ajustes y enviar ping
 about-glean-about-data-header = Acerca de los datos
 about-glean-about-data-explanation =
