@@ -83,7 +83,7 @@ about-glean-label-for-log-pings =
 about-glean-label-for-controls-submit =
     Presione el botón anterior para etiquetar todos los pings de { -glean-brand-name } con su etiqueta y enviar el ping seleccionado.
     (Todos los ping enviados desde entonces hasta que reinicies la aplicación se etiquetarán con
-    <código>{ $debug-tag }</código>.)
+    <code>{ $debug-tag }</code>.)
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Visita la página { glean-debug-ping-viewer-brand-name } para hacer ping con tu etiqueta</a>.
     No debería tomar más de unos segundos desde que presionas el botón hasta que llega tu ping.
