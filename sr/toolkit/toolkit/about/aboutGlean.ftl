@@ -30,6 +30,12 @@ about-glean-header = О { -glean-brand-name }-у
 about-glean-upload-enabled = Отпремање података је омогућено.
 about-glean-upload-disabled = Отпремање података је онемогућено.
 about-glean-upload-enabled-local = Отпремање података је омогућено само за слање на локални сервер.
+about-glean-upload-fake-enabled =
+    Отпремање података је онемогућено,
+    али ми лажемо и говоримо { glean-sdk-brand-name }-у да је омогућено
+    тако да се подаци и даље бележе локално.
+    Напомена: Ако поставите ознаку за отклањање грешака, пингови ће бити отпремљени у
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> без обзира на подешавања.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Релевантне <a data-l10n-name="fog-prefs-and-defines-doc-link">опције и дефиниције</a> укључују:
 # Variables:
@@ -51,3 +57,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = О тестирању
 controls-button-label-verbose = Примени подешавања и пошаљи пинг
 about-glean-about-data-header = О подацима
+about-glean-about-data-explanation =
+    За листу прикупљених података, погледајте
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } речник</a>.
