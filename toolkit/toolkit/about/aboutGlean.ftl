@@ -83,4 +83,19 @@ about-glean-label-for-controls-submit =
     Pwyswch y botwm blaenorol i dagio pob ping { -glean-brand-name } gyda'ch tag a chyflwynwch y ping a ddewiswyd.
     (Bydd yr holl pingiau sy'n cael eu cyflwyno o hynny hyd nes y byddwch yn ailgychwyn y rhaglenyn cael eu tagio
     <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Ewch i dudalen { glean-debug-ping-viewer-brand-name } am bingiau gyda'ch tag</a>.
+    Dylai ddim cymryd mwy nag ychydig eiliadau o bwyso'r botwm i'ch ping gyrraedd.
+    Weithiau gall gymryd ychydig o funudau.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Am ragor o brofion <i>ad hoc</i>,
+    gallwch hefyd bennu gwerth cyfredol darn penodol o offeryniaeth
+    trwy agor consol devtools yma ar <code>about:glean</code>
+    a defnyddio'r API <code>testGetValue()</code> fel
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Gosod y gosodiadau ac anfon ping
+about-glean-about-data-header = Ynghylch Data
+about-glean-about-data-explanation =
+    I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
+    <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Geiriadur</a>.
