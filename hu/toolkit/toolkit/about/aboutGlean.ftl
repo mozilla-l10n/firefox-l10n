@@ -77,4 +77,16 @@ about-glean-label-for-ping-names =
 about-glean-label-for-log-pings =
     (Nem kötelező. Jelölje be az előző négyzetet, ha azt szeretné, hogy a pingeket is naplózza a rendszer a beküldésükkor.
     Ezenkívül <a data-l10n-name="enable-logging-link">engedélyeznie kell a naplózást</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Nyomja meg az előző gombot az összes { -glean-brand-name } ping a kiválasztott címkével történő megcímkézéséhez, és a kiválasztott címkével való beküldéshez.
+    (Az alkalmazás újraindításáig elküldött összes ping meg lesz címkézve a következővel:
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Keresse fel a { glean-debug-ping-viewer-brand-name } oldalt a címkézett pingekért</a>.
+    A gomb megnyomása és a ping megérkezése között néhány másodpercnyi időnek kellene eltelnie.
+    Néha ez néhány percet is igénybe vehet.
 controls-button-label-verbose = Beállítások alkalmazása, és ping küldése
+about-glean-about-data-header = Információk az adatokról
