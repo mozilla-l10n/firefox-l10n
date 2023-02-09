@@ -62,9 +62,9 @@ about-glean-label-for-log-pings = （若您也想要在送出 Ping 時紀錄下�
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
 about-glean-label-for-controls-submit = 按下上方按鈕即可將所有 { -glean-brand-name } ping 加上您的標籤，並送出選擇的 ping。（按下按鈕後直到重新啟動應用程式前所送出的 ping 都將標上 <code>{ $debug-tag }</code>。）
-about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">請到 { glean-debug-ping-viewer-brand-name } 頁面即可檢視含有您指定標籤的 ping</a>。按下按鈕後的幾秒鐘後 ping 就應該出現，有時會需要稍等幾分鐘。
+about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">請到 { glean-debug-ping-viewer-brand-name }頁面即可檢視含有您指定標籤的 ping</a>。按下按鈕後的幾秒鐘後 ping 就應該出現，有時會需要稍等幾分鐘。
 # Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation = 若需進行 <i>ad hoc 臨時測試</i>，也可以在 <code>about:glean</code> 本業面開啟開發者主控台，使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 來決定測試儀器中的特定值。
+about-glean-adhoc-explanation = 若需進行 <i>ad hoc 臨時測試</i>，也可以在 <code>about:glean</code> 本頁面開啟開發者主控台，使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 來決定測試儀器中的特定值。
 controls-button-label-verbose = 套用設定並送出 ping
 about-glean-about-data-header = 關於資料
 about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
