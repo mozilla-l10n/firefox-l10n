@@ -73,6 +73,21 @@ about-glean-label-for-ping-names =
     el ping <code>eventos</code>
     y el valor predeterminado para todas las demás métricas es
     el ping <code>metricas</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Opcional. Marca la casilla anterior si deseas que los pings también se registren cuando sean enviados.
+    Además, deberás <a data-l10n-name="enable-logging-link">habilitar el registro</a>).
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Presione el botón anterior para etiquetar todos los pings de { -glean-brand-name } con su etiqueta y enviar el ping seleccionado.
+    (Todos los ping enviados desde entonces hasta que reinicies la aplicación se etiquetarán con
+    <código>{ $debug-tag }</código>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Visita la página { glean-debug-ping-viewer-brand-name } para hacer ping con tu etiqueta</a>.
+    No debería tomar más de unos segundos desde que presionas el botón hasta que llega tu ping.
+    A veces puede tomar un par de minutos.
 controls-button-label-verbose = Aplicar ajustes y enviar ping
 about-glean-about-data-header = Acerca de los datos
 about-glean-about-data-explanation =
