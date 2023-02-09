@@ -24,6 +24,20 @@ newtab-search-box-search-button =
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ຊອກຫາດ້ວຍ { $engine } ຫຼື ໃສ່ທີ່ຢູ່
 newtab-search-box-handoff-text-no-engine = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = ຊອກຫາດ້ວຍ { $engine } ຫຼືໃສ່ທີ່ຢູ່
+    .title = ຊອກຫາດ້ວຍ { $engine } ຫຼືໃສ່ທີ່ຢູ່
+    .aria-label = ຊອກຫາດ້ວຍ { $engine } ຫຼືໃສ່ທີ່ຢູ່
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+    .title = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+    .aria-label = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+newtab-search-box-text = ຄົ້ນຫາເວັບໄຊທ
+newtab-search-box-input =
+    .placeholder = ຄົ້ນຫາເວັບໄຊທ
+    .aria-label = ຄົ້ນຫາເວັບໄຊທ
 
 ## Top Sites - General form dialog.
 
@@ -62,6 +76,10 @@ newtab-topsite-sponsored = ໄດ້ຮັບການສະຫນັບສະ�
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = ເປີດເມນູ
+    .aria-label = ເປີດເມນູ
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ລຶບ
@@ -168,6 +186,7 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = ເວັບໄຊຕ໌ຍອດນິຍົມ
+newtab-section-header-recent-activity = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
@@ -182,6 +201,7 @@ newtab-empty-section-topstories = ທ່ານໄດ້ອ່ານເລື່�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-content = ກວດເບິ່ງຄືນໃນພາຍຫຼັງສໍາລັບເລື່ອງເພີ່ມເຕີມ.
 newtab-discovery-empty-section-topstories-try-again-button = ລອງໃຫມ່ອີກຄັ້ງ
 newtab-discovery-empty-section-topstories-loading = ກຳລັງໂຫລດ…
 

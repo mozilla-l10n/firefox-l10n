@@ -632,6 +632,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] ເຊື່ອງແຖບເຄື່ອງມືບຸກມາກ
            *[other] ເບິງແຖບເຄື່ອງມືບຸກມາກ
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] ເຊື່ອງແຖບເຄື່ອງມື bookmarks
+           *[other] ສະແດງແຖບເຄື່ອງມື bookmarks
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
