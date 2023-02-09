@@ -29,6 +29,12 @@ about-glean-interface-description =
 about-glean-upload-enabled = ڈیٹا اپ لوڈ فعال تھی ڳیا ہے۔
 about-glean-upload-disabled = ڈیٹا اپ لوڈ غیرفعال تھی ڳیا ہے۔
 about-glean-upload-enabled-local = ڈیٹا اپ لوڈ صرف مقامی سرور کوں بھیڄݨ کیتے فعال ہے۔
+about-glean-upload-fake-enabled =
+    ڈیٹا اپ لوڈ غیرفعال ہے،
+    پر اساں کُوڑ مریندے پئے ہیں تے ݙسیندے پئے ہیں جو { glean-sdk-brand-name } ایہ فعال ہے
+    تاکہ ڈیٹا ہݨ وی مقامی طور تے ریکاڈ کیتا ون٘ڄے۔
+    نوٹ: جے تساں ڈیبگ ٹیگ مقرر کریسو تاں پنگ ترتیباں دا خیال رکھے بغیر
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>  تے اپ لوڈ تھی ویسن۔
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = متعلقہ <a data-l10n-name="fog-prefs-and-defines-doc-link"> ترجیحاں تے تعریفاں </a>  وچ شامل ہن:
 # Variables:
