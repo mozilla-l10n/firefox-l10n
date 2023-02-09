@@ -14,9 +14,40 @@ about-glean-warning =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] програма { -brand-short-name }
     }.
-
 tag-pings-label = Додели ову ознаку свим послатим пинговима
 log-pings-label = Снимити пинг садржај пре слања?
 send-pings-label = Пошаљи именовани пинг
 controls-button-label = Пошаљи подешавања
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } Debug Ping Viewer
+about-glean-page-title2 = О { -glean-brand-name }-у
+about-glean-header = О { -glean-brand-name }-у
+about-glean-upload-enabled = Отпремање података је омогућено.
+about-glean-upload-disabled = Отпремање података је онемогућено.
+about-glean-upload-enabled-local = Отпремање података је омогућено само за слање на локални сервер.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Релевантне <a data-l10n-name="fog-prefs-and-defines-doc-link">опције и дефиниције</a> укључују:
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = О тестирању
 controls-button-label-verbose = Примени подешавања и пошаљи пинг
+about-glean-about-data-header = О подацима
