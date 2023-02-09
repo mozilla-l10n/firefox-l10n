@@ -54,7 +54,15 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = Пра тэставанне
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Поўныя інструкцыі выкладзеныя ў
+    <a data-l10n-name="fog-instrumentation-test-doc-link">дакументацыі па тэставанні інструментарыю { -fog-brand-name }</a>
+    і ў <a data-l10n-name="glean-sdk-doc-link">дакументацыі { glean-sdk-brand-name }</a>,
+    але, карацей кажучы, каб уручную праверыць, ці працуе ваш інструментарый:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (не адпраўляць пінг)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Упэўніцеся, што ў папярэднім полі ёсць запамінальны тэг адладкі, каб пазней вы маглі распазнаваць свае пінгі.
 controls-button-label-verbose = Прымяніць налады і адправіць ping
 about-glean-about-data-header = Пра звесткі
