@@ -17,13 +17,13 @@ controls-button-label = Cyflwyno Gosodiadau
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
-glean-sdk-brand-name = { -glean-brand-name } SDK
-glean-debug-ping-viewer-brand-name = Gwyliwr Ping Dadfygio { -glean-brand-name }
+glean-sdk-brand-name = SDK { -glean-brand-name }
+glean-debug-ping-viewer-brand-name = Teclyn Dadfygio Pingiau { -glean-brand-name }
 about-glean-page-title2 = Ynghylch { -glean-brand-name }
 about-glean-header = Ynghylch { -glean-brand-name }
 about-glean-interface-description =
     Mae <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
-    yn llyfrgell casglu data sy'n cael ei ddefnyddio mewn projectau { -vendor-short-name }.
+    yn lyfrgell casglu data sy'n cael ei ddefnyddio mewn projectau { -vendor-short-name }.
     Mae'r rhyngwyneb hwn wedi'i gynllunio i'w ddefnyddio gan ddatblygwyr a phrofwyr <a data-l10n-name="fog-link">i brofi'r offeryniaeth</a> â llaw.
 about-glean-upload-enabled = Mae llwytho data i fyny wedi'i alluogi.
 about-glean-upload-disabled = Mae llwytho data i fyny wedi'i analluogi.
@@ -60,7 +60,7 @@ about-glean-manual-testing =
     ac yn y <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } ddogfennaeth</a>,
     ond, yn fyr, i brofi â llaw bod eich offeryniaeth yn gweithio, dylech:
 # This message is an option in a dropdown filled with untranslated names of pings.
-about-glean-no-ping-label = (peidiwch â chyflwyno unrhyw ping)
+about-glean-no-ping-label = (peidiwch â chyflwyno unrhyw pingiau)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Yn y maes blaenorol sicrhewch fod tag dadfygio cofiadwy fel y gallwch adnabod eich pingiau'n ddiweddarach.
 # An in-line drop down list precedes this string.
