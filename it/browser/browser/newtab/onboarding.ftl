@@ -105,7 +105,7 @@ mr1-onboarding-import-subtitle = Importa password, segnalibri<br/>e altro ancora
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importa da { $previous }
 # This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Importa da un browser esistente
+mr1-onboarding-import-primary-button-label-no-attribution = Importa dal browser precedente
 mr1-onboarding-import-secondary-button-label = Non adesso
 mr2-onboarding-colorway-header = Una vita a colori
 mr2-onboarding-colorway-subtitle = Nuove vibranti tonalità. Disponibili per un periodo limitato.
@@ -262,6 +262,15 @@ fx100-upgrade-thank-you-body = Questa è la nostra centesima versione di { -bran
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Questa è la nostra centesima versione! Grazie per essere parte della nostra comunità. Tieni { -brand-short-name } a portata di clic per le prossime 100.
 mr2022-onboarding-secondary-skip-button-label = Salta questo passaggio
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Salva e continua
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Imposta { -brand-short-name } come browser predefinito
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importa dal browser precedente
 
 ## MR2022 New User Pin Firefox screen strings
 
