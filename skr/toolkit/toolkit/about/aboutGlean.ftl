@@ -54,6 +54,12 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = ٹیسٹنگ بارے
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } آلاتی عمل ٹیسٹنگ دستاویزاں</a>
+    تے  <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } دستاویزیت</a>
+    وچ پوریاں ہدایات دستاویز تھیاں ہویاں ہن
+    پر، مختصراً، دستی طور تے جان٘چݨ کیتے جو تہاݙا اوزار ٹھیک کم کریندے، تہاکوں چاہیے:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (کوئی وی پنگ جمع نہ کرواؤ)
 # An in-line text input field precedes this string.
