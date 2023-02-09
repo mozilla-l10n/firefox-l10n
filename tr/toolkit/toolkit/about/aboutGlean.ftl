@@ -18,6 +18,7 @@ controls-button-label = Ayarları gönder
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } Hata Ayıklama Ping Görüntüleyicisi
 about-glean-page-title2 = { -glean-brand-name } Hakkında
 about-glean-header = { -glean-brand-name } Hakkında
 about-glean-upload-enabled = Veri yükleme etkin.
