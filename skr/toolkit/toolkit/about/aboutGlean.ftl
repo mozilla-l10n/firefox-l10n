@@ -77,6 +77,13 @@ about-glean-label-for-ping-names =
 about-glean-label-for-log-pings =
     (اختیاری۔ جے تساں چاہندے جو پنگز وی جمع کرواوݨ تے لاگ ان تھیون تاں پچھلے ݙٻے دی پڑتال کرو۔
     تہاکوں ایندے علاوہ <a data-l10n-name="enable-logging-link"> لاگنگ فعال</a> وی ضرور کرݨاں پوسی۔)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    سارے { -glean-brand-name } پنگ کوں آپݨے ٹیگ نال ٹیگ کرݨ کیتے پچھلے بٹݨ کوں دباؤ تے منتخب پنگ جمع کرواؤ۔
+    (سارے  پنگ ایں ویلے کنوں جمع کرائے ڳئے ڄݙݨ تائیں ایپ کوں ولدا شروع کائنی کریندے این٘دے نال ٹیگ کیتے ویسن
+    <code>{ $debug-tag }</code>۔)
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
 about-glean-about-data-header = ڈیٹا بارے
 about-glean-about-data-explanation =
