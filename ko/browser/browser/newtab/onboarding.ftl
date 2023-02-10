@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = 진행률: { $current } / { $total } 단계
 onboarding-welcome-steps-indicator-label =
     .aria-label = 진행률: { $current } / { $total } 단계
 # "Hero Text" displayed on left side of welcome screen.
@@ -266,6 +264,15 @@ fx100-upgrade-thank-you-body = 100번째 { -brand-short-name } 출시입니다. 
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 100번째 출시입니다! 커뮤니티의 일원이 되어주셔서 감사합니다. 다음 100번을 위해 클릭 한 번으로 { -brand-short-name }를 유지하세요.
 mr2022-onboarding-secondary-skip-button-label = 이 단계 건너뛰기
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = 저장하고 계속
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = { -brand-short-name }를 기본 브라우저로 설정
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = 이전 브라우저에서 가져오기
 
 ## MR2022 New User Pin Firefox screen strings
 

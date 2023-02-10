@@ -249,7 +249,7 @@ colorways-cfr-header-today = 독립적인 목소리 컬러웨이 오늘 만료�
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = 쿠키 배너가 사라졌습니다!
 cfr-cookiebanner-body = 가능한 경우 { -brand-short-name }가 모든 쿠키 배너 요청을 자동으로 거부하도록 허용합니다.
-cfr-cookiebanner-accept-button = 배너 닫기
+cfr-cookiebanner-accept-button-v2 = 요청 거부
     .accesskey = D
 cfr-cookiebanner-reject-button = 나중에
     .accesskey = N

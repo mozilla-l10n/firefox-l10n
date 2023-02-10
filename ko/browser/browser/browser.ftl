@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = 팁:
 urlbar-result-menu-button =
     .title = 메뉴 열기
+urlbar-result-menu-learn-more =
+    .label = 더 알아보기
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = 기록에서 삭제
     .accesskey = R
@@ -700,6 +703,11 @@ bookmarks-other-bookmarks-menu =
     .label = 기타 북마크
 bookmarks-mobile-bookmarks-menu =
     .label = 모바일 북마크
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -724,6 +732,9 @@ bookmarks-tools-menu-button-visibility =
             [true] 도구 모음에서 북마크 메뉴 제거
            *[other] 도구 모음에 북마크 메뉴 추가
         }
+
+##
+
 bookmarks-search =
     .label = 북마크 검색
 bookmarks-tools =
