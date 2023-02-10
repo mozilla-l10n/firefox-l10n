@@ -186,7 +186,7 @@ downloads-history =
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
-    .title = Download Details
+    .title = Download details
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
