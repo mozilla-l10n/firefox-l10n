@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Suggestion:
 urlbar-result-menu-button =
     .title = Aperir le menu
+urlbar-result-menu-learn-more =
+    .label = Pro saper plus
+    .accesskey = s
 urlbar-result-menu-remove-from-history =
     .label = Remover del chronologia
     .accesskey = R
@@ -704,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = Altere marcapaginas
 bookmarks-mobile-bookmarks-menu =
     .label = Marcapaginas mobile
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -728,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Remover le menu de marcapaginas del barra
            *[other] Adder le menu de marcapaginas al barra
         }
+
+##
+
 bookmarks-search =
     .label = Cercar in le marcapaginas
 bookmarks-tools =
