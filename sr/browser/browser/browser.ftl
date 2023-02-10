@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Савет:
 urlbar-result-menu-button =
     .title = Отвори мени
+urlbar-result-menu-learn-more =
+    .label = Сазнајте више
+    .accesskey = С
 urlbar-result-menu-remove-from-history =
     .label = Уклони из историје
     .accesskey = У
@@ -723,6 +726,11 @@ bookmarks-other-bookmarks-menu =
     .label = Други обележивачи
 bookmarks-mobile-bookmarks-menu =
     .label = Мобилни обележивачи
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -747,6 +755,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Уклони засебни мени са траке с алаткама
            *[other] Додај засебни мени на траку с алаткама
         }
+
+##
+
 bookmarks-search =
     .label = Претражи обележиваче
 bookmarks-tools =
