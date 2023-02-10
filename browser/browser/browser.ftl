@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tip:
 urlbar-result-menu-button =
     .title = Menu iepenje
+urlbar-result-menu-learn-more =
+    .label = Mear ynfo
+    .accesskey = M
 urlbar-result-menu-remove-from-history =
     .label = Fuortsmite út skiednis
     .accesskey = F
@@ -707,6 +710,11 @@ bookmarks-other-bookmarks-menu =
     .label = Oare blêdwizers
 bookmarks-mobile-bookmarks-menu =
     .label = Mobyl-blêdwizers
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -731,6 +739,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Blêdwizers fan arkbalke fuortsmite
            *[other] Blêdwizers oan arkbalke tafoegje
         }
+
+##
+
 bookmarks-search =
     .label = Blêdwizers trochsykje
 bookmarks-tools =
