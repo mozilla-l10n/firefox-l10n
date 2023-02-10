@@ -264,8 +264,8 @@ colorways-cfr-header-today = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i be
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Gwaredu baneri cwcis!
 cfr-cookiebanner-body = Caniatáu i { -brand-short-name } wrthod pob cais baner cwci yn awtomatig pan fo modd.
-cfr-cookiebanner-accept-button = Cau baneri
-    .accesskey = C
+cfr-cookiebanner-accept-button-v2 = Gwrthod Ceisiadau
+    .accesskey = G
 cfr-cookiebanner-reject-button = Nid Nawr
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Gweld llai o lamlenni cwcis
