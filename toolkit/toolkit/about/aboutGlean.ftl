@@ -64,5 +64,14 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (не адпраўляць пінг)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Упэўніцеся, што ў папярэднім полі ёсць запамінальны тэг адладкі, каб пазней вы маглі распазнаваць свае пінгі.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Выберыце з папярэдняга спісу пінг, у якім знаходзіцца ваш інструментарый.
+    Калі ён ва <a data-l10n-name="custom-ping-link">ўласным пінгу</a>, выберыце яго.
+    У адваротным выпадку прадвызначаны для паказчыкаў <code>event</code>
+    пінг <code>events</code>
+    а для ўсіх іншых паказчыкаў прадвызначаны
+    пінг <code>metrics</code>.
 controls-button-label-verbose = Прымяніць налады і адправіць ping
 about-glean-about-data-header = Пра звесткі
