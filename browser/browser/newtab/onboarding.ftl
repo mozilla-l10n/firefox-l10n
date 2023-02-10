@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = 进度：步骤 { $current } / { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = 进度：步骤 { $current } / { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -250,6 +248,9 @@ fx100-upgrade-thank-you-body = { -brand-short-name } 的第 100 个版本如约�
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 这是我们的第 100 个版本！一路相伴，感谢有您。{ -brand-short-name } 诚挚邀您共赴下个百版之约。
 mr2022-onboarding-secondary-skip-button-label = 跳过此步
+
+## MR2022 New User Easy Setup screen strings
+
 
 ## MR2022 New User Pin Firefox screen strings
 

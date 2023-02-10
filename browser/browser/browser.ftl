@@ -700,6 +700,11 @@ bookmarks-other-bookmarks-menu =
     .label = 其他书签
 bookmarks-mobile-bookmarks-menu =
     .label = 移动设备上的书签
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -724,6 +729,9 @@ bookmarks-tools-menu-button-visibility =
             [true] 从工具栏移除书签菜单
            *[other] 添加书签菜单到工具栏
         }
+
+##
+
 bookmarks-search =
     .label = 搜索书签
 bookmarks-tools =
