@@ -293,8 +293,6 @@ colorways-cfr-header-today = Le tonalità Voci indipendenti scadono oggi
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Stop ai banner per i cookie
 cfr-cookiebanner-body = Consenti a { -brand-short-name }, se possibile, di rifiutare automaticamente tutte le richieste per i cookie.
-cfr-cookiebanner-accept-button = Elimina banner
-  .accesskey = E
 cfr-cookiebanner-accept-button-v2 = Rifiuta richieste
   .accesskey = R
 cfr-cookiebanner-reject-button = Non adesso
