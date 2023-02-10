@@ -252,8 +252,8 @@ colorways-cfr-header-today = Independent Voices-kleurstellingen ferrinne hjoed
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Farwel cookiebanners!
 cfr-cookiebanner-body = { -brand-short-name } tastean om wannear mooglik alle cookiebannerfersiken te wegerjen.
-cfr-cookiebanner-accept-button = Banners fuortsmite
-    .accesskey = f
+cfr-cookiebanner-accept-button-v2 = Fersiken ôfwize
+    .accesskey = w
 cfr-cookiebanner-reject-button = No net
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Sjoch minder cookie-pop-ups
