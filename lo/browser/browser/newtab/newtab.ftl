@@ -204,15 +204,22 @@ newtab-empty-section-topstories = ທ່ານໄດ້ອ່ານເລື່�
 newtab-discovery-empty-section-topstories-content = ກວດເບິ່ງຄືນໃນພາຍຫຼັງສໍາລັບເລື່ອງເພີ່ມເຕີມ.
 newtab-discovery-empty-section-topstories-try-again-button = ລອງໃຫມ່ອີກຄັ້ງ
 newtab-discovery-empty-section-topstories-loading = ກຳລັງໂຫລດ…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ອຸຍ! ພວກເຮົາເກືອບຈະໂຫລດພາກສ່ວນນີ້, ແຕ່ບໍ່ແມ່ນຂ້ອນຂ້າງ.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ຫົວຂໍ້ຍອດນິຍົມ:
+newtab-pocket-new-topics-title = ຕ້ອງການເລື່ອງເພີ່ມເຕີມບໍ? ເບິ່ງຫົວຂໍ້ຍອດນິຍົມເຫຼົ່ານີ້ຈາກ { -pocket-brand-name }
 newtab-pocket-more-recommendations = ຂໍ້ແນະນໍາເພີ່ມເຕີມ
 newtab-pocket-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 newtab-pocket-cta-button = ຮັບ { -pocket-brand-name }
 newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ່ທ່ານຮັກໃນ { -pocket-brand-name }, ແລະນ້ໍາໃຈຂອງທ່ານກັບອ່ານທີ່ຫນ້າສົນໃຈ.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ແມ່ນສ່ວນໜຶ່ງຂອງຄອບຄົວ { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = ບັນທືກໄປທີ່ { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = ໄດ້ບັນທຶກລົງໄວ້ຢູ່ໃນ { -pocket-brand-name } ແລ້ວ
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = ໂຫຼດເລື່ອງເພີ່ມເຕີມ
 
@@ -220,6 +227,7 @@ newtab-pocket-load-more-stories-button = ໂຫຼດເລື່ອງເພີ
 ## This is for the final card in the Pocket grid.
 
 newtab-pocket-last-card-title = ທ່ານໄດ້ອ່ານເລື່ອງລາວຄົບແລ້ວ!
+newtab-pocket-last-card-desc = ກວດເບິ່ງຄືນໃນພາຍຫຼັງສໍາລັບຂໍ້ມູນເພີ່ມເຕີມ.
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ບັນທຶກ
 newtab-pocket-saved = ບັນທຶກແລ້ວ
@@ -234,7 +242,11 @@ newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອ�
 
 newtab-custom-shortcuts-title = ທາງລັດ
 newtab-custom-shortcuts-subtitle = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
+# Variables
+#   $num (number) - Number of rows to display
+newtab-custom-row-selector = { $num } ແຖວ
 newtab-custom-sponsored-sites = ທາງລັດສະປອນເຊີ
+newtab-custom-pocket-title = ແນະນຳໂດຍ { -pocket-brand-name }
 newtab-custom-pocket-subtitle = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { -pocket-brand-name }, ສ່ວນຫນຶ່ງຂອງຄອບຄົວ { -brand-product-name }
 newtab-custom-pocket-sponsored = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
 newtab-custom-pocket-show-recent-saves = ສະແດງບັນທຶກຫຼ້າສຸດ

@@ -16,6 +16,12 @@ onboarding-not-now-button-label = ບໍ່ແມ່ນຕອນນີ້
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = ດີຫຼາຍ, ທ່ານມີ { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = ດຽວນີ້ມາໃຫ້ທ່ານ <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = ເພີ່ມສ່ວນເສີມ
 return-to-amo-add-theme-label = ເພີມຕີມ
 
@@ -79,6 +85,9 @@ mr2-onboarding-colorway-secondary-button-label = ບໍ່ແມ່ນຕອນ�
 
 
 ## Firefox 100 Thank You screens
+
+
+## MR2022 New User Easy Setup screen strings
 
 
 ## MR2022 New User Pin Firefox screen strings
