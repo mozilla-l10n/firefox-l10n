@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = 進度：第 { $current } 步，共 { $total } 步
 onboarding-welcome-steps-indicator-label =
     .aria-label = 進度：第 { $current } 步，共 { $total } 步
 # "Hero Text" displayed on left side of welcome screen.
@@ -256,6 +254,15 @@ fx100-upgrade-thank-you-body = 這一版是 { -brand-short-name } 的第 100 版
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 這一版是我們的第 100 版！非常感謝您參與我們的社群，只要點一下即可進入 { -brand-short-name } 的下一個 100 版旅程。
 mr2022-onboarding-secondary-skip-button-label = 跳過這步
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = 儲存並繼續
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = 將 { -brand-short-name } 設為預設瀏覽器
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = 從先前使用的瀏覽器匯入
 
 ## MR2022 New User Pin Firefox screen strings
 
