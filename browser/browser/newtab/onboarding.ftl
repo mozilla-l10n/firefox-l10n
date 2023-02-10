@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = התקדמות: שלב { $current } מתוך { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = התקדמות: שלב { $current } מתוך { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -266,6 +264,15 @@ fx100-upgrade-thank-you-body = זוהי המהדורה ה־100 שלנו של { -
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = זוהי המהדורה ה־100 שלנו! תודה שהינך חלק מהקהילה שלנו. ניתן להשאיר את { -brand-short-name } במרחק קליק אחד עבור 100 המהדורות הבאות.
 mr2022-onboarding-secondary-skip-button-label = דילוג על שלב זה
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = שמירה והמשך
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = הגדרת { -brand-short-name } כדפדפן ברירת המחדל
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = ייבוא מהדפדפן הקודם
 
 ## MR2022 New User Pin Firefox screen strings
 

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = אירעה שגיאה בשליחת הדיווח. נא לנסות שוב מאוחר יותר.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = האתר תוקן? שליחת דיווח
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = רגיל
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = מידע נוסף על הגנת מעקב מתקדמת
-
 protections-panel-etp-on-header = הגנת מעקב מתקדמת פעילה עבור אתר זה
 protections-panel-etp-off-header = הגנת מעקב מתקדמת כבויה עבור אתר זה
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = האתר לא עובד?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = האתר לא עובד?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = כל רכיבי המעקב 
 ##
 
 protections-panel-no-trackers-found = לא זוהו רכיבי מעקב המוכרים ל־{ -brand-short-name } בדף זה.
-
 protections-panel-content-blocking-tracking-protection = תוכן מעקב
-
 protections-panel-content-blocking-socialblock = רכיבי מעקב של מדיה חברתית
 protections-panel-content-blocking-cryptominers-label = כורי מטבעות דיגיטליים
 protections-panel-content-blocking-fingerprinters-label = רכיבי זהות דיגיטלית
@@ -70,14 +64,12 @@ protections-panel-protectionsdashboard-label = לוח הגנות
 
 # The header of the list
 protections-panel-site-not-working-view-header = ניתן לכבות את ההגנות אם יש בעיות עם:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = שדות התחברות
 protections-panel-site-not-working-view-issue-list-forms = טפסים
 protections-panel-site-not-working-view-issue-list-payments = תשלומים
 protections-panel-site-not-working-view-issue-list-comments = תגובות
 protections-panel-site-not-working-view-issue-list-videos = סרטוני וידאו
-
 protections-panel-site-not-working-view-send-report = שליחת דיווח
 
 ##
@@ -87,14 +79,11 @@ protections-panel-cryptominers = כורי מטבעות דיגיטליים משת
 protections-panel-fingerprinters = רכיבי זהות דיגיטלית אוספים הגדרות מהדפדפן והמחשב שלך כדי ליצור עליך פרופיל. באמצעות טביעת האצבע הדיגיטלית הזאת, הם יכולים לעקוב אחריך באתרי אינטרנט שונים.
 protections-panel-tracking-content = אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים עם קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו.
 protections-panel-social-media-trackers = רשתות חברתיות מציבות רכיבי מעקב באתרים אחרים כדי לעקוב אחר מה שהינך עושה ורואה ברשת. זה מאפשר לחברות המדיה החברתית ללמוד עליך מעבר למה שבחרת לשתף בפרופילי המדיה החברתית שלך.
-
 protections-panel-description-shim-allowed = החסימה של חלק מרכיבי המעקב המסומנים למטה בוטלה באופן חלקי בדף זה מכיוון שתיקשרת איתם.
 protections-panel-description-shim-allowed-learn-more = מידע נוסף
-
 protections-panel-content-blocking-manage-settings =
     .label = ניהול הגדרות הגנה
     .accesskey = נ
-
 protections-panel-content-blocking-breakage-report-view =
     .title = דיווח על אתר שבור
 protections-panel-content-blocking-breakage-report-view-description = חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור { -brand-short-name } לטובת הכלל. בדיווח זה יישלחו ל־Mozilla כתובת האתר ומידע על הגדרות הדפדפן שלך. <label data-l10n-name="learn-more">מידע נוסף</label>
@@ -108,3 +97,8 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = ביטול
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = שליחת דיווח
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = חזרה
