@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Кеңес:
 urlbar-result-menu-button =
     .title = Мәзірді ашу
+urlbar-result-menu-learn-more =
+    .label = Көбірек білу
+    .accesskey = л
 urlbar-result-menu-remove-from-history =
     .label = Тарихтан өшіру
     .accesskey = р
@@ -704,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = Басқа бетбелгілер
 bookmarks-mobile-bookmarks-menu =
     .label = Мобильді бетбелгілер
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -728,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Бетбелгілер мәзірін құралдар панелінен алып тастау
            *[other] Бетбелгілер мәзірін құралдар панеліне қосу
         }
+
+##
+
 bookmarks-search =
     .label = Бетбелгілер ішінен іздеу
 bookmarks-tools =
