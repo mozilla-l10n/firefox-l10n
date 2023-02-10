@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = 秘訣:
 urlbar-result-menu-button =
     .title = 開啟選單
+urlbar-result-menu-learn-more =
+    .label = 了解更多
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = 從紀錄移除
     .accesskey = Ｒ
@@ -704,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = 其他書籤
 bookmarks-mobile-bookmarks-menu =
     .label = 行動書籤
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -728,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] 從工具列移除書籤選單
            *[other] 在工具列中加入書籤選單
         }
+
+##
+
 bookmarks-search =
     .label = 搜尋書籤
 bookmarks-tools =
