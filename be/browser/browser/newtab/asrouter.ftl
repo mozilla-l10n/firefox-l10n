@@ -255,7 +255,7 @@ colorways-cfr-header-today = Расфарбоўкі незалежных гал�
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Банеры з кукамі зніклі!
 cfr-cookiebanner-body = Дазволіць { -brand-short-name } аўтаматычна адхіляць усе запыты банераў кукі, калі гэта магчыма.
-cfr-cookiebanner-accept-button = Адхіляць банеры
+cfr-cookiebanner-accept-button-v2 = Адхіліць запыты
     .accesskey = А
 cfr-cookiebanner-reject-button = Не зараз
     .accesskey = Н

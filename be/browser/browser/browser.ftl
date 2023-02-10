@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Парада:
 urlbar-result-menu-button =
     .title = Адкрыць меню
+urlbar-result-menu-learn-more =
+    .label = Падрабязней
+    .accesskey = д
 urlbar-result-menu-remove-from-history =
     .label = Выдаліць з гісторыі
     .accesskey = В
@@ -711,6 +714,11 @@ bookmarks-other-bookmarks-menu =
     .label = Іншыя закладкі
 bookmarks-mobile-bookmarks-menu =
     .label = Мабільныя закладкі
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -735,6 +743,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Прыбраць меню закладак з паліцы прылад
            *[other] Дадаць меню закладак на паліцу прылад
         }
+
+##
+
 bookmarks-search =
     .label = Шукаць у закладках
 bookmarks-tools =
