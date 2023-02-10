@@ -64,6 +64,15 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (کوئی وی پنگ جمع نہ کرواؤ)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = پچھلے فیلڈ وچ یقینی بݨاؤ جو اتھ ہک یادگار ڈیبگ ٹیگ ہے تاں جو تساں بعد وچ آپݨے پنگاں کوں سُن٘ڄاݨ سڳو۔
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    پچھلی تندیر وچوں او پنگ چݨو جیندے وچ تہاݙا آلہ ہے۔
+    جے ایہ <a data-l10n-name="custom-ping-link"> مخصوص پنگ</a>، ہے تاں او چݨو۔
+    نہ تاں ول، <code>ایونٹ</code> میٹرکس کیتے ڈیفالٹ ہے۔
+    <code>ایونٹس</code> پنگ
+    تے ٻئے سارے میٹرکس کیتے ڈیفالٹ ہے۔
+    <code>میٹرکس</code> پنگ۔
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (اختیاری۔ جے تساں چاہندے جو پنگز وی جمع کرواوݨ تے لاگ ان تھیون تاں پچھلے ݙٻے دی پڑتال کرو۔
