@@ -249,8 +249,8 @@ colorways-cfr-header-today = Тәуелсіз дауыстар түстер сх
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Cookie баннерлері жоғалсын!
 cfr-cookiebanner-body = { -brand-short-name } үшін барлық cookie баннер сұрауларын мүмкіндігінше автоматты түрде қабылдамау рұқсатын беру.
-cfr-cookiebanner-accept-button = Баннерлерді қабылдамау
-    .accesskey = д
+cfr-cookiebanner-accept-button-v2 = Сұранымдарды қабылдамау
+    .accesskey = р
 cfr-cookiebanner-reject-button = Қазір емес
     .accesskey = м
 cfr-cookiebanner-header-variant-1 = Азырақ cookie қалқымалы терезелерін көру
