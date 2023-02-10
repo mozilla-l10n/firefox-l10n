@@ -64,6 +64,10 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (کوئی وی پنگ جمع نہ کرواؤ)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = پچھلے فیلڈ وچ یقینی بݨاؤ جو اتھ ہک یادگار ڈیبگ ٹیگ ہے تاں جو تساں بعد وچ آپݨے پنگاں کوں سُن٘ڄاݨ سڳو۔
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (اختیاری۔ جے تساں چاہندے جو پنگز وی جمع کرواوݨ تے لاگ ان تھیون تاں پچھلے ݙٻے دی پڑتال کرو۔
+    تہاکوں ایندے علاوہ <a data-l10n-name="enable-logging-link"> لاگنگ فعال</a> وی ضرور کرݨاں پوسی۔)
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
 about-glean-about-data-header = ڈیٹا بارے
 about-glean-about-data-explanation =
