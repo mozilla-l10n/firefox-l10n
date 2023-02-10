@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tip:
 urlbar-result-menu-button =
     .title = Menu openen
+urlbar-result-menu-learn-more =
+    .label = Meer info
+    .accesskey = M
 urlbar-result-menu-remove-from-history =
     .label = Verwijderen uit geschiedenis
     .accesskey = V
@@ -707,6 +710,11 @@ bookmarks-other-bookmarks-menu =
     .label = Andere bladwijzers
 bookmarks-mobile-bookmarks-menu =
     .label = Mobiel-bladwijzers
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -731,6 +739,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Bladwijzermenu verwijderen van werkbalk
            *[other] Bladwijzermenu toevoegen aan werkbalk
         }
+
+##
+
 bookmarks-search =
     .label = Bladwijzers doorzoeken
 bookmarks-tools =
