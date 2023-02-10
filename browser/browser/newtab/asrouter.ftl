@@ -252,8 +252,8 @@ colorways-cfr-header-today = Los colorits « Voses independentas » expiran u�
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Fòra las bandièras de cookies !
 cfr-cookiebanner-body = Permetre a { -brand-short-name } de regetar automaticament las demandas de cookies quand es possible.
-cfr-cookiebanner-accept-button = Tampar las bandièras
-    .accesskey = T
+cfr-cookiebanner-accept-button-v2 = Regetar las requèstas
+    .accesskey = R
 cfr-cookiebanner-reject-button = Pas ara
     .accesskey = P
 cfr-cookiebanner-header-variant-1 = Veire mens de fenèstras sorgissentas de cookies

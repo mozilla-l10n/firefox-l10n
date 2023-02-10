@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Astúcia :
 urlbar-result-menu-button =
     .title = Dobrir lo menú
+urlbar-result-menu-learn-more =
+    .label = Ne saber mai
+    .accesskey = N
 urlbar-result-menu-remove-from-history =
     .label = Tirar de l’istoric
     .accesskey = T
@@ -707,6 +710,11 @@ bookmarks-other-bookmarks-menu =
     .label = Autres marcapaginas
 bookmarks-mobile-bookmarks-menu =
     .label = Marcapaginas del mobile
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -731,6 +739,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Levar lo menú personalizat dels marcapaginas
            *[other] Apondre lo menú personalizat als marcapaginas
         }
+
+##
+
 bookmarks-search =
     .label = Recercar dins los marcapaginas
 bookmarks-tools =
