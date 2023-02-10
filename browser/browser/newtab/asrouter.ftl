@@ -261,7 +261,7 @@ colorways-cfr-header-today = Комбинације боја „Независн
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Доле банери колачића!
 cfr-cookiebanner-body = Дозволите да { -brand-short-name } аутоматски одбаци све захтеве за банере колачића када је то могуће.
-cfr-cookiebanner-accept-button = Одбаци банере
+cfr-cookiebanner-accept-button-v2 = Одбаци захтеве
     .accesskey = О
 cfr-cookiebanner-reject-button = Не сада
     .accesskey = Н
