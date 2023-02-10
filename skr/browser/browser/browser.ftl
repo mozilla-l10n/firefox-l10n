@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = ٹوٹکا:
 urlbar-result-menu-button =
     .title = مینیو کھولو
+urlbar-result-menu-learn-more =
+    .label = ٻیا سِکھو
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = تاریخ کنوں مٹاؤ
     .accesskey = R
@@ -708,6 +711,11 @@ bookmarks-other-bookmarks-menu =
     .label = ٻئے بک مارک
 bookmarks-mobile-bookmarks-menu =
     .label = موبائل بک مارک
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -732,6 +740,9 @@ bookmarks-tools-menu-button-visibility =
             [true] بک مارک مینو کوں ٹول بار کنوں ہٹاؤ
            *[other] بک مارک مینو کوں ٹول بار وچ شامل کرو
         }
+
+##
+
 bookmarks-search =
     .label = نشانیاں ڳولو
 bookmarks-tools =
