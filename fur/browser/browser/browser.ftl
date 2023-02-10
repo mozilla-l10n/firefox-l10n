@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Sugjeriment:
 urlbar-result-menu-button =
     .title = Vierç menù
+urlbar-result-menu-learn-more =
+    .label = Plui informazions
+    .accesskey = P
 urlbar-result-menu-remove-from-history =
     .label = Gjave de cronologjie
     .accesskey = G
@@ -705,6 +708,11 @@ bookmarks-other-bookmarks-menu =
     .label = Altris segnelibris
 bookmarks-mobile-bookmarks-menu =
     .label = Segnelibris di dispositîfs mobii
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -729,6 +737,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Gjave de sbare dai segnelibris il menù dai segnelibris
            *[other] Zonte te sbare dai segnelibris il menù dai segnelibris
         }
+
+##
+
 bookmarks-search =
     .label = Cîr tai segnelibris
 bookmarks-tools =

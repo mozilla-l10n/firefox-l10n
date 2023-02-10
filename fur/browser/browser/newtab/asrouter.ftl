@@ -252,8 +252,8 @@ colorways-cfr-header-today = Lis tonalitâts des vôs indipendentis a scjadin vu
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Vonde strissons pai cookies!
 cfr-cookiebanner-body = Permet a { -brand-short-name } di refudâ in automatic dutis lis richiestis dai strissons pai cookies, se pussibil.
-cfr-cookiebanner-accept-button = Siere i strissons
-    .accesskey = S
+cfr-cookiebanner-accept-button-v2 = Refude richiestis
+    .accesskey = R
 cfr-cookiebanner-reject-button = No cumò
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Viôt mancul ricuadris a comparse pai cookies
