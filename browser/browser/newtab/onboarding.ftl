@@ -270,7 +270,7 @@ mr2022-onboarding-secondary-skip-button-label = Пропустить этот ш
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Сохранить и продолжить
 # Set Default action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-set-default-checkbox-label = Установите { -brand-short-name } своим браузером по умолчанию
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Установить { -brand-short-name } своим браузером по умолчанию
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Импортировать из предыдущего браузера
 
