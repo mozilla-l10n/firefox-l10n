@@ -73,5 +73,23 @@ about-glean-label-for-ping-names =
     пінг <code>events</code>
     а для ўсіх іншых паказчыкаў прадвызначаны
     пінг <code>metrics</code>.
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Націсніце папярэднюю кнопку, каб пазначыць усе пінгі { -glean-brand-name } сваім тэгам і адправіць выбраны пінг.
+    (Усе пінгі, адпраўленыя з таго часу да перазапуску праграмы, будуць пазначаны тэгам
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Наведайце старонку { glean-debug-ping-viewer-brand-name } для пінгаў з вашым тэгам</a>.
+    Ад націскання кнопкі да атрымання вашага пінга не павінна прайсці больш за некалькі секунд.
+    Часам гэта можа заняць некалькі хвілін.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Для дадатковага <i>ad hoc</i> тэставання,
+    вы таксама можаце вызначыць бягучае значэнне пэўнай часткі інструментарыю
+    адкрыўшы кансоль devtools тут на <code>about:glean</code>
+    і скарыстаўшы API <code>testGetValue()</code>, напрыклад
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Прымяніць налады і адправіць ping
 about-glean-about-data-header = Пра звесткі
