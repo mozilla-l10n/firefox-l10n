@@ -247,6 +247,8 @@ colorways-cfr-header-today = “凡人之声”配色今日到期
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = 消失吧，Cookie 横幅！
 cfr-cookiebanner-body = 允许 { -brand-short-name } 尽可能自动拒绝所有 Cookie 横幅的请求。
+cfr-cookiebanner-accept-button-v2 = 拒绝请求
+    .accesskey = R
 cfr-cookiebanner-reject-button = 暂时不要
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = 减少 Cookie 弹窗
