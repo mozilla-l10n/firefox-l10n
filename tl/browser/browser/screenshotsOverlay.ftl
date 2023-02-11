@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = Kanselahin
+screenshots-overlay-instructions = i-Drag o i-click sa pahina upang pumili ng rehiyon. Pindutin ang ESC upang kanselahin.
 screenshots-overlay-download-button = i-Download
 screenshots-overlay-copy-button = Kopyahin

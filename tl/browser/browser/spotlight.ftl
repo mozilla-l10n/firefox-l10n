@@ -9,6 +9,14 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = Kunin sa Google Play
+spotlight-ios-marketplace-button =
+    .title = i-Download sa App Store
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = Kunin ang { -focus-brand-name }
+spotlight-focus-promo-subtitle = i-Scan ang QR code para i-download.
+spotlight-focus-promo-qr-code =
+    .alt = i-Scan ang QR code para kunin ang { -focus-brand-name }.

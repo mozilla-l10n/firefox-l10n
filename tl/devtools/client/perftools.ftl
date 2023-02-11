@@ -7,9 +7,13 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Mga Setting ng Profiler
 
 ## All of the headings for the various sections.
 
+perftools-heading-features = Mga Katangian
+perftools-heading-threads = Mga Thread
+perftools-heading-threads-jvm = Mga JVM Thread
 
 ##
 
@@ -20,15 +24,23 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 ##
 
+perftools-devtools-threads-label = Mga Thread:
+perftools-devtools-settings-label = Mga Setting
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-get-profile-and-stop-profiler = Kumukuha ng profile
 
 ##
 
+perftools-button-start-recording = Magrecord na
+perftools-button-save-settings = i-Save ang mga setting at bumalik
+perftools-button-restart = Mag-restart
+perftools-button-remove-directory = Inalis ang mga napili
+perftools-button-edit-settings = Baguhin ang Settings…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
@@ -47,9 +59,11 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = Web Developer
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = Graphics
 perftools-presets-media-label = Media
+perftools-presets-custom-label = Pasadya
 
 ##
 

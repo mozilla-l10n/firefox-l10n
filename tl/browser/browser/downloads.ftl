@@ -28,6 +28,13 @@ downloads-cmd-cancel =
     .tooltiptext = Kanselahin
 downloads-cmd-cancel-panel =
     .aria-label = Kanselahin
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Ipakita sa Finder
+           *[other] Ipakita sa Folder
+        }
+    .accesskey = F
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -123,7 +130,7 @@ downloads-cancel-download =
 downloads-history =
     .label = Ipakita ang Lahat ng mga Download
     .accesskey = S
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalye ng mga Download
