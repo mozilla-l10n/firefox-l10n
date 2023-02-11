@@ -8,9 +8,16 @@
 about-glean-page-title = Über Glean
 about-glean-description = Das <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> ist eine Datenerhebungs-Bibliothek, die in Mozilla-Produkten verwendet wird. Diese Seite ist für Entwickler und Tester, die den <a data-l10n-name="fog-debug-doc-link">Debugging- und Logging-Status im Glean SDK konfigurieren</a> müssen.
 about-glean-warning = Ein Missbrauch dieser Schnittstelle kann zum Absturz von { -brand-short-name } führen.
-
 tag-pings-label = Alle gesendeten Pings mit diesem Tag markieren
 log-pings-label = Ping-Nutzdaten vor dem Senden protokollieren?
 send-pings-label = Benannten Ping senden
 controls-button-label = Einstellungen senden
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+about-glean-page-title2 = Über { -glean-brand-name }
+about-glean-header = Über { -glean-brand-name }
 controls-button-label-verbose = Einstellungen übernehmen und Ping senden
