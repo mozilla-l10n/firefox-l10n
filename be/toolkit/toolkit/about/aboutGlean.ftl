@@ -73,6 +73,10 @@ about-glean-label-for-ping-names =
     пінг <code>events</code>
     а для ўсіх іншых паказчыкаў прадвызначаны
     пінг <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Неабавязкова. Адзначце папярэдняе поле, калі хочаце, каб пінгі таксама рэгістраваліся пры адпраўцы.
+    Вам дадаткова спатрэбіцца <a data-l10n-name="enable-logging-link">ўключыць вядзенне журнала</a>.)
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
@@ -93,3 +97,6 @@ about-glean-adhoc-explanation =
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Прымяніць налады і адправіць ping
 about-glean-about-data-header = Пра звесткі
+about-glean-about-data-explanation =
+    Каб прагледзець спіс сабраных звестак, звярніцеся да
+    <a data-l10n-name="glean-dictionary-link">Слоўніка { -glean-brand-name }</a>.
