@@ -38,6 +38,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = Тестілеу туралы
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ешқандай пинг жібермеу)
 controls-button-label-verbose = Баптауларды іске асырып, пинг жіберу
