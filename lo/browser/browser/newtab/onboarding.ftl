@@ -28,9 +28,17 @@ return-to-amo-add-theme-label = ເພີມຕີມ
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = ເວົ້າສະບາຍດີກັບ { -brand-short-name }
+mr1-return-to-amo-addon-title = ທ່ານມີຕົວທ່ອງເວັບສ່ວນຕົວທີ່ໄວ, ຢູ່ປາຍນິ້ວມືຂອງທ່ານ. ດຽວນີ້ທ່ານສາມາດເພີ່ມ <b>{ $addon-name }</b> ແລະເຮັດໄດ້ຫຼາຍຂຶ້ນດ້ວຍ { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = ເພີ່ມ { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = ເລີ່ມຕົ້ນ: ໜ້າຈໍ { $current } ຂອງ { $total }
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
