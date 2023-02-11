@@ -255,8 +255,8 @@ colorways-cfr-header-today = Сегодня истекает срок дейст
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Уберите уведомления о куках!
 cfr-cookiebanner-body = Разрешить { -brand-short-name } по возможности автоматически отклонять все запросы показа уведомлений о куках.
-cfr-cookiebanner-accept-button = Скрывать уведомления
-    .accesskey = ы
+cfr-cookiebanner-accept-button-v2 = Отклонить запросы
+    .accesskey = л
 cfr-cookiebanner-reject-button = Не сейчас
     .accesskey = е
 cfr-cookiebanner-header-variant-1 = Уменьшите число уведомлений о куках
