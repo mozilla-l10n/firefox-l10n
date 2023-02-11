@@ -252,7 +252,7 @@ colorways-cfr-header-today = Independent Voices colorways upphör idag
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Ta bort kak-banners!
 cfr-cookiebanner-body = Tillåt { -brand-short-name } att automatiskt avvisa alla begärande om kakbanner när det är möjligt.
-cfr-cookiebanner-accept-button = Avvisa banners
+cfr-cookiebanner-accept-button-v2 = Avvisa förfrågan
     .accesskey = A
 cfr-cookiebanner-reject-button = Inte nu
     .accesskey = n
