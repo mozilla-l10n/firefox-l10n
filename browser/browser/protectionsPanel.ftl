@@ -102,6 +102,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = Çerez bildirimlerini azaltın
 protections-panel-cookie-banner-handling-enabled = Bu sitede açık
 protections-panel-cookie-banner-handling-disabled = Bu sitede kapalı
 protections-panel-cookie-banner-handling-undetected = Bu site şu anda desteklenmiyor

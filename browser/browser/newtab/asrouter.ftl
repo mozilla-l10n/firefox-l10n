@@ -261,6 +261,7 @@ cfr-cookiebanner-accept-button-variant-1 = Bildirimleri kapat
 cfr-cookiebanner-reject-button-variant-1 = Hayır, gerek yok
     .accesskey = H
 cfr-cookiebanner-header-variant-2 = Çerez bildirimlerini azaltın
+cfr-cookiebanner-body-variant-2 = { -brand-short-name }, mümkün olduğunda web sitelerinin çerez onayı taleplerini reddederek, gördüğünüz çerez bildirimlerini azaltabilir.
 cfr-cookiebanner-accept-button-variant-2 = İzin ver
     .accesskey = z
 cfr-cookiebanner-reject-button-variant-2 = Daha sonra
