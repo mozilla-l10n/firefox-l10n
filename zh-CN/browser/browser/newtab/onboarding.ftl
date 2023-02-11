@@ -251,6 +251,12 @@ mr2022-onboarding-secondary-skip-button-label = 跳过此步
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = 保存并继续
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = 将 { -brand-short-name } 设为默认浏览器
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = 从先前所用浏览器导入
 
 ## MR2022 New User Pin Firefox screen strings
 
