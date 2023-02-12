@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Пошук
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Отримати розширення й теми на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Отримайте словники на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Отримайте мовні пакунки на <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = У вас не встановлено жодного додатка цього типу
 list-empty-available-updates =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Дозволи сайтів
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Дозволи сайту для { $host }
 
 ## These are global warnings
@@ -224,6 +231,8 @@ shortcuts-duplicate-warning-message = { $shortcut } використовуєть
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Вже використовується додатком { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Показати ще { $numberToShow }
@@ -300,7 +309,7 @@ theme-colorways-button = Спробувати забарвлення
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Змінити Colorway
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Термін дії завершується { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Увімкнено
 plugin-disabled-heading = Вимкнено
@@ -383,10 +392,12 @@ release-notes-loading = Завантаження…
 release-notes-error = На жаль, під час завантаження приміток до випуску сталася помилка.
 addon-permissions-empty = Це розширення не потребує дозволів
 addon-permissions-required = Необхідні дозволи для роботи основних функцій:
-addon-permissions-optional = Необов’язкові дозволи для додаткових функцій:
+addon-permissions-optional = Необов'язкові дозволи для додаткових функцій:
 addon-permissions-learnmore = Докладніше про дозволи
 recommended-extensions-heading = Рекомендовані розширення
 recommended-themes-heading = Рекомендовані теми
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Надає для <span data-l10n-name="hostname">{ $hostname }</span> такі можливості:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -413,8 +424,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } несумісний з { -brand-short-name } { $version }.
 details-notification-incompatible-link = Докладніше
 details-notification-unsigned-and-disabled = Додаток { $name } не був перевірений для використання в { -brand-short-name } і був вимкнений.
