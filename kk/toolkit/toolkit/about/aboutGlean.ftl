@@ -18,8 +18,16 @@ controls-button-label = Баптауларды іске асыру
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } жөндеу пингтарын қарау
 about-glean-page-title2 = { -glean-brand-name } туралы
 about-glean-header = { -glean-brand-name } туралы
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+     — бұл { -vendor-short-name } жобаларында пайдаланылатын деректер жинау кітапханасы.
+    Бұл интерфейс әзірлеушілер мен сынақшылар қолмен
+    <a data-l10n-name="fog-link">құралдарды сынау</a> үшін пайдалануға арналған.
+about-glean-upload-enabled = Деректерді жүктеп салу іске қосулы.
+about-glean-upload-disabled = Деректерді жүктеп салу сөндірулі.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Сәйкес <a data-l10n-name="fog-prefs-and-defines-doc-link">баптаулар мен анықтаулар</a> мыналарды қамтиды:
 # Variables:
