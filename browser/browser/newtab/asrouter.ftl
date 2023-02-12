@@ -255,8 +255,8 @@ colorways-cfr-header-today = Farebná téma Nezávislé hlasy je dostupná už l
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Bannery k súborom cookie sú preč!
 cfr-cookiebanner-body = Povoliť { -brand-short-name(case: "dat") } automaticky odmietnuť všetky požiadavky na bannery cookie, keď je to možné.
-cfr-cookiebanner-accept-button = Zavrieť bannery
-    .accesskey = Z
+cfr-cookiebanner-accept-button-v2 = Odmietnuť žiadosti
+    .accesskey = d
 cfr-cookiebanner-reject-button = Teraz nie
     .accesskey = T
 cfr-cookiebanner-header-variant-1 = Uvidíte menej vyskakovacích okien súborov cookie
