@@ -68,11 +68,13 @@ cfr-cookie-banner-accept-button = Baztertu eskaerak
 cfr-cookie-banner-reject-button = Une honetan ez
     .accesskey = z
 cfr-cookie-banner-handling-header-variant-1 = Ikusi cookie laster-leiho gutxiago
+cfr-cookie-banner-handling-body-variant-1 = Utzi { -brand-short-name }(r)i cookie laster-leihoak automatikoki erantzuten, distraziorik gabeko nabigaziora itzul zaitezen. Ahal bada eskaera guztiak ukatuko ditu { -brand-short-name }(e)k; ezin bada, guztiak onartuko ditu.
 cfr-cookie-banner-accept-button-variant-1 = Baztertu laster-leihoak
     .accesskey = B
 cfr-cookie-banner-reject-button-variant-1 = Ez, eskerrik asko
     .accesskey = z
 cfr-cookie-banner-handling-header-variant-2 = Cookie iragarki-banden murrizpena
+cfr-cookie-banner-handling-body-variant-2 = Baimendu { -brand-short-name }(e)k gune baten cookie onespen-eskaera ukatzea edo ezin bada, baimendu cookietarako sarbidea?
 cfr-cookie-banner-accept-button-variant-2 = Baimendu
     .accesskey = B
 cfr-cookie-banner-reject-button-variant-2 = Une honetan ez
@@ -248,16 +250,19 @@ colorways-cfr-header-today = Ahots independenteen kolore-konbinazioak gaur iraun
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Cookie iragarki-bandak kanpora!
-cfr-cookiebanner-accept-button = Baztertu iragarki-bandak
-    .accesskey = B
+cfr-cookiebanner-body = Baimendu { -brand-short-name }(r)i cookie iragarki-banden eskaerak ahal bada automatikoki ukatzen.
+cfr-cookiebanner-accept-button-v2 = Ukatu eskaerak
+    .accesskey = U
 cfr-cookiebanner-reject-button = Une honetan ez
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Ikusi cookie laster-leiho gutxiago
+cfr-cookiebanner-body-variant-1 = Utzi { -brand-short-name }(r)i cookie laster-leihoak automatikoki erantzuten, distraziorik gabeko nabigaziora itzul zaitezen. Ahal bada eskaera guztiak ukatuko ditu { -brand-short-name }(e)k.
 cfr-cookiebanner-accept-button-variant-1 = Baztertu laster-leihoak
     .accesskey = B
 cfr-cookiebanner-reject-button-variant-1 = Ez, eskerrik asko
     .accesskey = z
 cfr-cookiebanner-header-variant-2 = Cookie iragarki-banden murrizpena
+cfr-cookiebanner-body-variant-2 = Gutxitu ikusten duzun cookie iragarki-banda kopurua, webguneetako cookie-onespenak ahal denean ukatzeko baimena emanaz { -brand-short-name }(r)i.
 cfr-cookiebanner-accept-button-variant-2 = Baimendu
     .accesskey = B
 cfr-cookiebanner-reject-button-variant-2 = Une honetan ez
@@ -266,4 +271,5 @@ cfr-cookiebanner-reject-button-variant-2 = Une honetan ez
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Babesean zaitugu
+july-jam-body = Hilero, { -brand-short-name }(e)k batez beste 3.000 jarraipen-elementu blokeatzen ditu erabiltzaileko, internet onerako sarbide seguru eta azkarra emanez.
 july-jam-set-default-primary = Ireki nire loturak { -brand-short-name } erabiliz
