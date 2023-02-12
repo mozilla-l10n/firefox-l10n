@@ -21,6 +21,10 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } Hata Ayıklama Ping Görüntüleyicisi
 about-glean-page-title2 = { -glean-brand-name } Hakkında
 about-glean-header = { -glean-brand-name } Hakkında
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    { -vendor-short-name } projelerinde kullanılan bir veri toplama kitaplığıdır.
+    Bu arayüz, geliştiriciler ve testçiler tarafından <a data-l10n-name="fog-link"> enstrümantasyonu manuel olarak test etmek</a> amacıyla tasarlanmıştır.
 about-glean-upload-enabled = Veri yükleme etkin.
 about-glean-upload-disabled = Veri yükleme devre dışı.
 about-glean-upload-enabled-local = Veri yükleme yalnızca yerel bir sunucuya göndermek üzere etkin.
