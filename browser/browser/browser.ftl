@@ -142,6 +142,15 @@ urlbar-tip-icon-description =
     .alt = ඉඟිය:
 urlbar-result-menu-button =
     .title = වට්ටෝරුව අරින්න
+urlbar-result-menu-learn-more =
+    .label = තව දැනගන්න
+    .accesskey = L
+urlbar-result-menu-remove-from-history =
+    .label = ඉතිහාසයෙන් ඉවත් කරන්න
+    .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = උදව් ගන්න
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -275,15 +284,11 @@ search-one-offs-actions =
 quickactions-addons = එක්කහු බලන්න
 quickactions-cmd-addons2 = එක්කහු
 # Opens the bookmarks library window
-quickactions-bookmarks = පොත්යොමු බලන්න
-# Opens the bookmarks library window
 quickactions-bookmarks2 = පොත්යොමු කළමනාකරණය
 quickactions-cmd-bookmarks = පොත්යොමු
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ඉතිහාසය මකන්න
 quickactions-cmd-clearhistory = ඉතිහාසය මකන්න
-# Opens about:downloads page
-quickactions-downloads = බාගැනීම් අරින්න
 # Opens about:downloads page
 quickactions-downloads2 = බාගැනීම් බලන්න
 quickactions-cmd-downloads = බාගැනීම්
@@ -291,12 +296,8 @@ quickactions-cmd-downloads = බාගැනීම්
 quickactions-extensions = දිගු කළමනාකරණය
 quickactions-cmd-extensions = දිගු
 # Opens the devtools web inspector
-quickactions-inspector = සෝදිසිය අරින්න
-# Opens the devtools web inspector
 quickactions-inspector2 = සංවර්ධක මෙවලම් අරින්න
 quickactions-cmd-inspector = සෝදිසිකරු, සං.මෙවලම්
-# Opens about:logins
-quickactions-logins = පිවිසුම් බලන්න
 # Opens about:logins
 quickactions-logins2 = මුරපද කළමනාකරණය
 quickactions-cmd-logins = පිවිසුම්, මුරපද
@@ -304,12 +305,8 @@ quickactions-cmd-logins = පිවිසුම්, මුරපද
 quickactions-plugins = පේනු කළමණාකරණය
 quickactions-cmd-plugins = පේනු
 # Opens the print dialog
-quickactions-print = මුද්‍රණය
-# Opens the print dialog
 quickactions-print2 = මුද්‍රණ පිටුව
 quickactions-cmd-print = මුද්‍රණය
-# Opens a new private browsing window
-quickactions-private = පෞද්. පිරික්සුම් කවුළුව අරින්න
 # Opens a new private browsing window
 quickactions-private2 = නව පෞද්. කවුළුව
 quickactions-cmd-private = පෞද්. පිරික්සුම
@@ -320,12 +317,8 @@ quickactions-cmd-refresh = නැවුම් කරන්න
 quickactions-restart = { -brand-short-name } යළි අරඹන්න
 quickactions-cmd-restart = යළි අරඹන්න
 # Opens the screenshot tool
-quickactions-screenshot2 = තිර සේයාවක් ගන්න
-# Opens the screenshot tool
 quickactions-screenshot3 = තිර සේයාවක් ගන්න
 quickactions-cmd-screenshot = තිරසේයාව
-# Opens about:preferences
-quickactions-settings = සැකසුම් අරින්න
 # Opens about:preferences
 quickactions-settings2 = සැකසුම් කළමනාකරණය
 quickactions-cmd-settings = සැකසුම්, අභිප්‍රේත, විකල්ප
@@ -335,8 +328,6 @@ quickactions-cmd-themes = තේමා
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } යාවත්කාල
 quickactions-cmd-update = යාවත්කාල
-# Opens the view-source UI with current pages source
-quickactions-viewsource = මූලාශ්‍රය පෙන්වන්න
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = පිටුවේ මූලාශ්‍රය බලන්න
 quickactions-cmd-viewsource = මූලාශ්‍රය බලන්න, මූලාශ්‍රය
@@ -707,6 +698,11 @@ bookmarks-other-bookmarks-menu =
     .label = වෙනත් පොත්යොමු
 bookmarks-mobile-bookmarks-menu =
     .label = ජංගම පොත්යොමු
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -731,6 +727,9 @@ bookmarks-tools-menu-button-visibility =
             [true] මෙවලම් තීරුවෙන් පොත්යොමු වට්ටෝරුව ඉවතලන්න
            *[other] මෙවලම් තීරුවට පොත්යොමු වට්ටෝරුව එක් කරන්න
         }
+
+##
+
 bookmarks-search =
     .label = පොත්යොමු සොයන්න
 bookmarks-tools =

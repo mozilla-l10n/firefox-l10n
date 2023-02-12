@@ -7,6 +7,8 @@ about-logins-page-title = පිවිසුම් හා මුරපද
 login-filter =
     .placeholder = පිවිසුම් සොයන්න
 create-login-button = නව පිවිසුමක් සාදන්න
+create-new-login-button =
+    .title = නව පිවිසුමක් සාදන්න
 fxaccounts-sign-in-text = ඔබගේ වෙනත් උපාංගවල තිබෙන මුරපද ගන්න
 fxaccounts-sign-in-sync-button = සමමුහූර්තයට පිවිසෙන්න
 fxaccounts-avatar-button =
@@ -32,6 +34,8 @@ about-logins-menu-menuitem-help = උදව්
 
 login-list =
     .aria-label = සෙවුම් විමසුමට ගැළපෙන පිවිසුම්
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] පිවිසුම් { $count }
@@ -101,6 +105,8 @@ login-item-time-used = අවසාන භාවිතය: { DATETIME($timeUsed,
 ## (e.g. updated, created, etc.)
 
 login-item-timeline-action-created = සෑදිණි
+login-item-timeline-action-updated = යාවත්කාලීනයි
+login-item-timeline-action-used = භාවිතයි
 
 ## OS Authentication dialog
 
@@ -144,6 +150,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = මෙම පිවිසුම මකන්නද?
 confirm-delete-dialog-message = මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
 about-logins-confirm-remove-dialog-confirm-button = ඉවත් කරන්න
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ඉවත් කරන්න
@@ -169,6 +179,9 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
        *[other] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
     }
+
+##
+
 about-logins-confirm-export-dialog-title = පිවිසුම් හා මුරපද නිර්යාත කරන්න
 about-logins-confirm-export-dialog-message = ඔබගේ මුරපද කියවීමට හැකි පෙළක් ලෙස සුරකිනු ඇත (උදා., BadP@ssw0rd) එබැවින් නිර්යාත කළ ගොනුව විවෘත කළ හැකි ඕනෑම අයෙකු ඒවා දකිනු ඇත.
 about-logins-confirm-export-dialog-confirm-button = නිර්යාතය…
