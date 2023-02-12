@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Aholkua:
 urlbar-result-menu-button =
     .title = Ireki menua
+urlbar-result-menu-learn-more =
+    .label = Argibide gehiago
+    .accesskey = A
 urlbar-result-menu-remove-from-history =
     .label = Kendu historiatik
     .accesskey = K
@@ -704,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = Beste laster-markak
 bookmarks-mobile-bookmarks-menu =
     .label = Mugikorreko laster-markak
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -728,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Kendu laster-marken menua tresna-barratik
            *[other] Gehitu laster-marken menua tresna-barran
         }
+
+##
+
 bookmarks-search =
     .label = Bilatu laster-markak
 bookmarks-tools =
