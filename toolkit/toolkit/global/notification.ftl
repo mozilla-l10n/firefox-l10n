@@ -4,11 +4,15 @@
 
 notification-learnmore-default-label =
     .value = Докладніше
-
 # This label is read by screen readers when focusing the close button for an
 # "infobar" (message shown when for example a popup is blocked).
 close-button-label =
     .aria-label = Закрити
-
+# This label is read by screen readers when focusing the close button for an
+# "infobar" (message shown when for example a popup is blocked),
+# and shown when hovering over the button
+notification-close-button =
+    .aria-label = Закрити
+    .title = Закрити
 close-notification-message =
     .tooltiptext = Закрити це повідомлення
