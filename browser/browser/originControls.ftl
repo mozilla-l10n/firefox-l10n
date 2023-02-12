@@ -8,12 +8,15 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-option-all-domains =
+    .label = සියළුම අඩවිවල
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-when-clicked = දත්ත කියවීමට හා සංශෝධනයට අවසරය අවශ්‍යයි
 origin-controls-state-runnable-hover-open = දිගුව අරින්න
+origin-controls-state-runnable-hover-run = දිගුව ධාවනය
 
 ## Extension's toolbar button.
 ## Variables:

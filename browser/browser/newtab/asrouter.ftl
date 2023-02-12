@@ -57,6 +57,21 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total }පරිශීලකයින්
     }
 
+## Cookie Banner Handling Onboarding
+
+cfr-cookie-banner-reject-button = දැන් නොවේ
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = දත්තකඩ උත්පතන අඩුවෙන් දකින්න
+cfr-cookie-banner-accept-button-variant-1 = උත්පතන ඉවතලන්න
+    .accesskey = D
+cfr-cookie-banner-reject-button-variant-1 = එපා, ස්තුතියි
+    .accesskey = N
+cfr-cookie-banner-handling-header-variant-2 = දත්තකඩ පතාක අවකරණය
+cfr-cookie-banner-accept-button-variant-2 = ඉඩ දෙන්න
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = දැන් නොවේ
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = පොත්යොමු ඕනෑම තැනකට සමමුහූර්ත කරන්න.
@@ -145,7 +160,6 @@ spotlight-public-wifi-vpn-link = දැන් නොවේ
 spotlight-total-cookie-protection-body = පූර්ණ දත්තකඩ රැකවරණය මගින් වියමන පුරා දත්තකඩ භාවිතයෙන් ඔබ පසුපස එන ලුහුබඳින්නන් නවත්වයි.
 spotlight-total-cookie-protection-primary-button = පූර්ණ දත්තකඩ රැකවරණය සක්‍රිය කරන්න
 spotlight-total-cookie-protection-secondary-button = දැන් නොවේ
-cfr-total-cookie-protection-header = ඔබට ස්තුති වන්නට, { -brand-short-name } අන් කවරදාටත් වඩා පෞද්ගලිකයි සහ ආරක්‍ෂිතයි
 
 ## Emotive Continuous Onboarding
 
@@ -186,8 +200,6 @@ firefoxview-cfr-primarybutton = බලන්න
     .accesskey = T
 firefoxview-cfr-secondarybutton = දැන් නොවේ
     .accesskey = N
-firefoxview-cfr-header = { -firefoxview-brand-name } සමඟ මෑත දී වසා දැමූ පටිති ආපසු ගන්න
-firefoxview-cfr-body = තවද උපාංග අතර බාධාවකින් තොරව පනින්න හා අතිරික්සුවෙහි වර්ණ කලතන්න.
 
 ## Firefox View Spotlight
 
@@ -201,3 +213,25 @@ firefoxview-spotlight-promo-secondarybutton = මඟහරින්න
 
 colorways-cfr-primarybutton = වර්ණ පරාසය තෝරන්න
     .accesskey = C
+
+## Cookie Banner Handling CFR
+
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = දත්තකඩ පතාක ඉවරයි!
+cfr-cookiebanner-accept-button-v2 = ඉල්ලීම් ප්‍රතික්‍ෂේපය
+    .accesskey = R
+cfr-cookiebanner-reject-button = දැන් නොවේ
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = දත්තකඩ උත්පතන අඩුවෙන් දකින්න
+cfr-cookiebanner-accept-button-variant-1 = උත්පතන ඉවතලන්න
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-1 = එපා, ස්තුතියි
+    .accesskey = N
+cfr-cookiebanner-accept-button-variant-2 = ඉඩ දෙන්න
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = දැන් නොවේ
+    .accesskey = N
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-set-default-primary = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න

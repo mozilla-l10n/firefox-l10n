@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-description = ඔබගේ පටිත�
 firefoxview-tabpickup-sync-disconnected-primarybutton = සැකසුම් තුළ සමමුහූර්තය සක්‍රිය කරන්න
 firefoxview-tabpickup-password-locked-link = තව දැනගන්න
 firefoxview-tabpickup-password-locked-primarybutton = ප්‍රාථමික මුරපදය යොදන්න
+firefoxview-tabpickup-signed-out-header = යළි සබැඳීමට පිවිසෙන්න
 firefoxview-tabpickup-signed-out-primarybutton = පිවිසෙන්න
 firefoxview-tabpickup-syncing = ඔබගේ පටිති මොහොතකින් සමමුහූර්ත වනු ඇත. රැඳී සිටින්න.
 firefoxview-mobile-promo-description = ඔබගේ නවතම ජංගම පටිති බැලීමට, අයිඕඑස් හෝ ඇන්ඩ්‍රොයිඩ් හි { -brand-product-name } වෙත පිවිසෙන්න.
@@ -59,7 +60,6 @@ firefoxview-pickup-tabs-badge = අවසන සක්‍රිය
 firefoxview-tabs-list-tab-button =
     .title = නව පටිත්තකින් { $targetURI } අරින්න
 firefoxview-try-colorways-button = වර්ණ පරාස ගන්න
-firefoxview-no-current-colorway-collection = නව වර්ණ පරාස පැමිණෙමින් තිබේ
 firefoxview-change-colorway-button = වර්ණ පරාසය සංශෝධනය
 # Variables:
 #  $intensity (String): Colorway intensity
