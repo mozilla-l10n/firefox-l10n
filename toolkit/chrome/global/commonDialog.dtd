@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editfield0.label "Ім’я користувача:"> 
-<!ENTITY editfield1.label "Пароль:"> 
+<!ENTITY editfield0.label "Ім'я користувача:">
+<!ENTITY editfield1.label "Пароль:">
 <!ENTITY copyCmd.label    "Копіювати">
 <!ENTITY copyCmd.accesskey "п">
 <!ENTITY selectAllCmd.label "Виділити все">
