@@ -52,6 +52,7 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = ປ້າຍໂຄສະນາຄຸກກີເລີ່ມແລ້ວ!
+cfr-cookie-banner-handling-body = ອະນຸຍາດໃຫ້ { -brand-short-name } ປະຕິເສດການຮ້ອງຂໍປ້າຍໂຄສະນາຄຸກກີໂດຍອັດຕະໂນມັດ, ເມື່ອເປັນໄປໄດ້. ຖ້າບໍ່ດັ່ງນັ້ນ, ຄຸກກີ້ທັງໝົດຈະຖືກຍອມຮັບເພື່ອປິດປ້າຍໂຄສະນາຫຼາຍຂຶ້ນ.
 cfr-cookie-banner-accept-button = ປິດການຮ້ອງຂໍ
     .accesskey = D
 cfr-cookie-banner-reject-button = ບໍ່ແມ່ນຕອນນີ້
@@ -63,6 +64,7 @@ cfr-cookie-banner-accept-button-variant-1 = ປິດປັອບອັບ
 cfr-cookie-banner-reject-button-variant-1 = ບໍ່, ຂອບໃຈ
     .accesskey = N
 cfr-cookie-banner-handling-header-variant-2 = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
+cfr-cookie-banner-handling-body-variant-2 = ອະນຸຍາດໃຫ້ { -brand-short-name } ປະຕິເສດການຮ້ອງຂໍການຍິນຍອມເຫັນດີຈາກຄຸກກີຂອງເວັບໄຊຫາກເປັນໄປໄດ້ ຫຼືຍອມຮັບການເຂົ້າເຖິງຄຸກກີເມື່ອບໍ່ເປັນໄປໄດ້ບໍ?
 cfr-cookie-banner-accept-button-variant-2 = ອະນຸຍາດ
     .accesskey = A
 cfr-cookie-banner-reject-button-variant-2 = ບໍ່ແມ່ນຕອນນີ້
@@ -115,6 +117,7 @@ cfr-doorhanger-doh-secondary-button = ປິດໃຊ້ງານ
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າສຳຄັນ. ດຽວນີ້ { -brand-short-name } ໂດດດ່ຽວ, ຫຼື sandbox, ເວັບໄຊທ໌ຈາກກັນແລະກັນ, ເຊິ່ງເຮັດໃຫ້ມັນຍາກກວ່າສໍາລັບແຮກເກີທີ່ຈະລັກລະຫັດຜ່ານ, ເລກບັດເຄຣດິດ, ແລະຂໍ້ມູນລະອຽດອ່ອນອື່ນໆ.
 cfr-doorhanger-fission-header = ການແຍກໄຊ້
 cfr-doorhanger-fission-primary-button = ໂອເຄ, ເຂົ້າໃຈແລ້ວ!
     .accesskey = O
@@ -130,6 +133,8 @@ cfr-doorhanger-video-support-primary-button = ອັບເດດດຽວນີ�
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-expanded = ຮຽນຮູ້ເພີ່ມເຕີມ
+    .title = ປິດ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -137,6 +142,8 @@ cfr-doorhanger-video-support-primary-button = ອັບເດດດຽວນີ�
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = ເບິ່ງຄືວ່າທ່ານກໍາລັງໃຊ້ Wi-Fi ສາທາລະນະ
 spotlight-public-wifi-vpn-body = ເພື່ອເຊື່ອງສະຖານທີ່ ແລະການເຄື່ອນໄຫວການຊອກຫາຂອງທ່ານ, ໃຫ້ພິຈາລະນາເຄືອຂ່າຍສ່ວນຕົວສະເໝືອນຈິງ. ມັນຈະຊ່ວຍໃຫ້ທ່ານປົກປ້ອງທ່ານໃນເວລາທ່ອງເວັບໃນສະຖານທີ່ສາທາລະນະເຊັ່ນ: ສະໜາມບິນ ແລະຮ້ານກາເຟ.
 spotlight-public-wifi-vpn-primary-button = ເປັນສ່ວນຕົວກັບ { -mozilla-vpn-brand-name }
     .accesskey = S
@@ -160,7 +167,9 @@ spotlight-total-cookie-protection-secondary-button = ຍັງເທື່ອ
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = ອິນເຕີເນັດທີ່ດີກວ່າເລີ່ມຕົ້ນຈາກທ່ານ
+spotlight-better-internet-body = ເມື່ອທ່ານໃຊ້ { -brand-short-name }, ທ່ານກໍາລັງລົງຄະແນນສຽງສໍາລັບອິນເຕີເນັດທີ່ເປີດ ແລະເຂົ້າເຖິງໄດ້ດີກວ່າສໍາລັບທຸກຄົນ.
 spotlight-peace-mind-header = ພວກ​ເຮົາ​ໄດ້​ຮັບ​ການ​ຄຸ້ມ​ຄອງ​ທ່ານ​
+spotlight-peace-mind-body = ທຸກໆເດືອນ, { -brand-short-name } ບລັອກສະເລ່ຍຫຼາຍກວ່າ 3,000 ຕົວຕິດຕາມຕໍ່ຜູ້ໃຊ້. ເນື່ອງຈາກວ່າບໍ່ມີຫຍັງ, ໂດຍສະເພາະສິ່ງລົບກວນຄວາມເປັນສ່ວນຕົວເຊັ່ນ: ບົບຕິດຕາມລຸດ, ຄວນຢືນຢູ່ລະຫວ່າງທ່ານແລະອິນເຕີເນັດທີ່ດີ.
 spotlight-pin-secondary-button = ບໍ່ແມ່ນຕອນນີ້
 
 ## MR2022 Background Update Windows native toast notification strings.
@@ -176,6 +185,13 @@ spotlight-pin-secondary-button = ບໍ່ແມ່ນຕອນນີ້
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = ໃໝ່ { -brand-short-name }. ສ່ວນຕົວຫຼາຍຂຶ້ນ. ຕິດຕາມໜ້ອຍລົງ. ບໍ່ມີການປະນີປະນອມ.
+mr2022-background-update-toast-text = ລອງໃຊ້ { -brand-short-name } ໃໝ່ຫຼ້າສຸດດຽວນີ້, ອັບເກຣດດ້ວຍການປ້ອງກັນການຕິດຕາມທີ່ແຂງແຮງທີ່ສຸດຂອງພວກເຮົາ.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = ເປີດ { -brand-shorter-name } ດຽວນີ້
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -188,6 +204,8 @@ firefoxview-cfr-primarybutton = ລອງ​ເບິ່ງ
     .accesskey = T
 firefoxview-cfr-secondarybutton = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
+firefoxview-cfr-header-v2 = ເອົາບ່ອນທີ່ທ່ານປະໄວ້ຢ່າງໄວວາ
+firefoxview-cfr-body-v2 = ເອົາແຖບທີ່ປິດລົງເມື່ອບໍ່ດົນມານີ້ກັບຄືນມາ, ບວກກັບໄປລະຫວ່າງອຸປະກອນຕ່າງໆດ້ວຍ { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
@@ -203,6 +221,7 @@ colorways-cfr-primarybutton = ເລືອກສີ
     .accesskey = C
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = ທາສີບຼາວເຊີຂອງທ່ານດ້ວຍ { -brand-short-name } ຮົ່ມສະເພາະທີ່ໄດ້ຮັບແຮງບັນດານໃຈຈາກສຽງທີ່ປ່ຽນວັດທະນະທໍາ.
+colorways-cfr-header-28days = Independent Voices colorways ຈະໝົດອາຍຸໃນວັນທີ 16 ມັງກອນນີ້
 colorways-cfr-header-14days = Independent Voices colorways ຈະໝົດອາຍຸໃນສອງອາທິດ
 colorways-cfr-header-7days = Independent Voices colorways ຈະໝົດອາຍຸໃນອາທິດນີ້
 colorways-cfr-header-today = Independent Voices colorways ຈະໝົດອາຍຸມື້ນີ້
@@ -211,8 +230,6 @@ colorways-cfr-header-today = Independent Voices colorways ຈະໝົດອາ�
 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = ປ້າຍໂຄສະນາຄຸກກີເລີ່ມແລ້ວ!
-cfr-cookiebanner-accept-button = ປິດປ້າຍໂຄສະນາ
-    .accesskey = D
 cfr-cookiebanner-reject-button = ບໍ່​ແມ່ນ​ຕອນ​ນີ້
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = ເບິ່ງປັອບອັບຄຸກກີໜ້ອຍລົງ
