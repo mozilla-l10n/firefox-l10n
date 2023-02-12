@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Namig:
 urlbar-result-menu-button =
     .title = Odpri meni
+urlbar-result-menu-learn-more =
+    .label = Več o tem
+    .accesskey = V
 urlbar-result-menu-remove-from-history =
     .label = Odstrani iz zgodovine
     .accesskey = O
@@ -715,6 +718,11 @@ bookmarks-other-bookmarks-menu =
     .label = Drugi zaznamki
 bookmarks-mobile-bookmarks-menu =
     .label = Mobilni zaznamki
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -739,6 +747,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Odstrani meni zaznamkov iz orodne vrstice
            *[other] Dodaj meni zaznamkov v orodno vrstico
         }
+
+##
+
 bookmarks-search =
     .label = Iskanje po zaznamkih
 bookmarks-tools =
