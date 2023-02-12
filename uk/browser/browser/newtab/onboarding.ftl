@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Перебіг: крок { $current } з { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Перебіг: крок { $current } з { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -267,6 +265,15 @@ fx100-upgrade-thank-you-body = Це наш 100-й випуск { -brand-short-na
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Це наш 100-й випуск! Дякуємо за те, що ви є частиною нашої спільноти. Тримайте { -brand-short-name } на відстані одного натискання для наступних 100.
 mr2022-onboarding-secondary-skip-button-label = Пропустити цей крок
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Зберегти та продовжити
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Встановити { -brand-short-name } типовим браузером
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Імпортувати з іншого браузера
 
 ## MR2022 New User Pin Firefox screen strings
 

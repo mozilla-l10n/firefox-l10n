@@ -255,8 +255,8 @@ colorways-cfr-header-today = Забарвлення незалежних гол�
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Геть банери про куки!
 cfr-cookiebanner-body = Дозволити { -brand-short-name } автоматично відхиляти всі можливі запити банерів про куки.
-cfr-cookiebanner-accept-button = Відхиляти банери
-    .accesskey = х
+cfr-cookiebanner-accept-button-v2 = Відхиляти запити
+    .accesskey = В
 cfr-cookiebanner-reject-button = Не зараз
     .accesskey = Н
 cfr-cookiebanner-header-variant-1 = Менше спливних повідомлень про збереження кук
