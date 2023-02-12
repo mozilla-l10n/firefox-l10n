@@ -8,16 +8,16 @@
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
-storage-table-empty-text = Немає даних для вибраного вузла
+storage-table-empty-text = Немає даних для вибраного хосту
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cookies/
-storage-table-type-cookies-hint = Переглядайте й редагуйте куки, обравши вузол. <a data-l10n-name="learn-more-link">Докладніше</a>
+storage-table-type-cookies-hint = Переглядайте й редагуйте куки, вибравши хост. <a data-l10n-name="learn-more-link">Докладніше</a>
 # Hint shown when the local storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
-storage-table-type-localstorage-hint = Переглядайте й редагуйте локальне сховище, обравши вузол. <a data-l10n-name="learn-more-link">Докладніше</a>
+storage-table-type-localstorage-hint = Переглядайте й редагуйте локальне сховище, вибравши хост. <a data-l10n-name="learn-more-link">Докладніше</a>
 # Hint shown when the session storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
-storage-table-type-sessionstorage-hint = Переглядайте й редагуйте сховище сеансу, обравши вузол. <a data-l10n-name="learn-more-link">Докладніше</a>
+storage-table-type-sessionstorage-hint = Переглядайте й редагуйте сховище сеансу, вибравши хост. <a data-l10n-name="learn-more-link">Докладніше</a>
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
 storage-table-type-indexeddb-hint = Переглядайте й видаляйте записи IndexedDB, обравши базу даних. <a data-l10n-name="learn-more-link">Докладніше</a>
@@ -26,7 +26,7 @@ storage-table-type-indexeddb-hint = Переглядайте й видаляйт
 storage-table-type-cache-hint = Переглядайте й видаляйте записи кешу сховища, обравши сховище. <a data-l10n-name="learn-more-link">Докладніше</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
-storage-table-type-extensionstorage-hint = Переглядайте й редагуйте сховище розширень, обравши вузол. <a data-l10n-name="learn-more-link">Докладніше</a>
+storage-table-type-extensionstorage-hint = Переглядайте й редагуйте сховище розширень, вибравши хост. <a data-l10n-name="learn-more-link">Докладніше</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Фільтр елементів
