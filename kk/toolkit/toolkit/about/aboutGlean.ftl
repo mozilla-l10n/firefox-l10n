@@ -28,6 +28,7 @@ about-glean-interface-description =
     <a data-l10n-name="fog-link">құралдарды сынау</a> үшін пайдалануға арналған.
 about-glean-upload-enabled = Деректерді жүктеп салу іске қосулы.
 about-glean-upload-disabled = Деректерді жүктеп салу сөндірулі.
+about-glean-upload-enabled-local = Деректерді жүктеп салу тек жергілікті серверге жіберу үшін іске қосулы.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Сәйкес <a data-l10n-name="fog-prefs-and-defines-doc-link">баптаулар мен анықтаулар</a> мыналарды қамтиды:
 # Variables:
