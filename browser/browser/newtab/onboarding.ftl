@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Haladás: { $current }. / { $total } lépés
 onboarding-welcome-steps-indicator-label =
     .aria-label = Haladás: { $current }. / { $total } lépés
 # "Hero Text" displayed on left side of welcome screen.
@@ -266,6 +264,15 @@ fx100-upgrade-thank-you-body = Ez a { -brand-short-name } 100. kiadása. Köszö
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ez a 100. kiadásunk! Köszönjük, hogy segít a közösségünk tagja. Tartsa egy kattintásnyira a { -brand-short-name(case: "accusative") } a következő 100-hoz.
 mr2022-onboarding-secondary-skip-button-label = Lépés kihagyása
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Mentés és folytatás
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = A { -brand-short-name } beállítása alapértelmezett böngészőként
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importálás az előző böngészőből
 
 ## MR2022 New User Pin Firefox screen strings
 

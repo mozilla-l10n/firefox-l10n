@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tipp:
 urlbar-result-menu-button =
     .title = Menü megnyitása
+urlbar-result-menu-learn-more =
+    .label = További tudnivalók
+    .accesskey = T
 urlbar-result-menu-remove-from-history =
     .label = Törlés az előzményekből
     .accesskey = T
@@ -707,6 +710,11 @@ bookmarks-other-bookmarks-menu =
     .label = Más könyvjelzők
 bookmarks-mobile-bookmarks-menu =
     .label = Mobil könyvjelzők
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -731,6 +739,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Könyvjelzők menü eltávolítása az eszköztárról
            *[other] Könyvjelzők menü hozzáadása az eszköztárhoz
         }
+
+##
+
 bookmarks-search =
     .label = Könyvjelzők keresése
 bookmarks-tools =
