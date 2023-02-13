@@ -243,6 +243,8 @@ colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente
 
 ## Cookie Banner Handling CFR
 
+cfr-cookiebanner-accept-button-v2 = Rechazar solicitudes
+    .accesskey = R
 cfr-cookiebanner-reject-button = Ahora no
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Ver menos ventanas emergentes de cookies
