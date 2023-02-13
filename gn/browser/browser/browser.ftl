@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Ñemoñe’ẽ:
 urlbar-result-menu-button =
     .title = Poravorã ijurujáva
+urlbar-result-menu-learn-more =
+    .label = Kuaave
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = Emboguepa tembiasakuégui
     .accesskey = R
@@ -707,6 +710,11 @@ bookmarks-other-bookmarks-menu =
     .label = Ambue Techaukahakuéra
 bookmarks-mobile-bookmarks-menu =
     .label = Pumbyry Rechaukaha
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -731,6 +739,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Eipe’a Techaukaharysýi Tembipuru rendágui
            *[other] Embojoapy Techaukaharysýi Tembipuru rendápe
         }
+
+##
+
 bookmarks-search =
     .label = Techaukaha jeheka
 bookmarks-tools =
