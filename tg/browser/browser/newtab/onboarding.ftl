@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Пешравӣ: қадами { $current } аз { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Пешравӣ: қадами { $current } аз { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -267,6 +265,15 @@ fx100-upgrade-thank-you-body = Ин 100-умин нашри «{ -brand-short-nam
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ин 100-умин нашри мост! Сипосгузорем, ки Шумо қисми ҷамъияти мо мебошед. «{ -brand-short-name }»-ро дар масофаи на дур аз як клик барои 100 нашри дигар нигоҳ доред.
 mr2022-onboarding-secondary-skip-button-label = Нодида гузарондани ин қадам
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Нигоҳ доред ва идома диҳед
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Танзим кардани «{ -brand-short-name }» ҳамчун браузери пешфарз
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Ворид кардан аз браузери қаблӣ
 
 ## MR2022 New User Pin Firefox screen strings
 

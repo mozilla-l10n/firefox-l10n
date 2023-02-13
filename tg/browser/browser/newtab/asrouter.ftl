@@ -251,8 +251,8 @@ colorways-cfr-header-today = Нақшу нигорҳои садоҳои муст
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Баннерҳои куки гум шаванд!
 cfr-cookiebanner-body = Ба «{ -brand-short-name }» иҷозат диҳед, то ки он тавонад ҳамаи дархостҳои баннери кукиро ба қадри имкон рад кунад.
-cfr-cookiebanner-accept-button = Қатъ кардани баннерҳо
-    .accesskey = Қ
+cfr-cookiebanner-accept-button-v2 = Рад кардани дархостҳо
+    .accesskey = Р
 cfr-cookiebanner-reject-button = Ҳоло не
     .accesskey = Ҳ
 cfr-cookiebanner-header-variant-1 = Камтар дидани равзанаҳои зоҳиршавандаи кукиҳо

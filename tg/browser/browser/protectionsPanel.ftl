@@ -99,3 +99,17 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Бекор кардан
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Фиристодани гузориш
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Маҳдудкунии баннери куки
+protections-panel-cookie-banner-handling-enabled = Барои ин сомона фаъол аст
+protections-panel-cookie-banner-handling-disabled = Барои ин сомона хомӯш аст
+protections-panel-cookie-banner-handling-undetected = Ин сомона дар айни замон дастгирӣ намешавад
+protections-panel-cookie-banner-view-title =
+    .title = Маҳдудкунии баннери куки
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Ба қафо
+protections-panel-cookie-banner-view-cancel = Бекор кардан
+protections-panel-cookie-banner-view-turn-off = Хомӯш кардан
+protections-panel-cookie-banner-view-turn-on = Фаъол кардан

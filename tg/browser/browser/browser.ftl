@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Маслиҳат:
 urlbar-result-menu-button =
     .title = Кушодани меню
+urlbar-result-menu-learn-more =
+    .label = Маълумоти бештар
+    .accesskey = М
 urlbar-result-menu-remove-from-history =
     .label = Нест кардан аз таърих
     .accesskey = Н
@@ -704,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = Хатбаракҳои дигар
 bookmarks-mobile-bookmarks-menu =
     .label = Хатбаракҳои мобилӣ
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -728,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Тоза кардани менюи хатбаракҳо аз навори абзорҳо
            *[other] Илова кардани менюи хатбаракҳо ба навори абзорҳо
         }
+
+##
+
 bookmarks-search =
     .label = Ҷустуҷӯи хатбаракҳо
 bookmarks-tools =
