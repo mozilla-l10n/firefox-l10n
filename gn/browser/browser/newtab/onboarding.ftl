@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Jeku’e: jeguata { $current } { $total } rehegua
 onboarding-welcome-steps-indicator-label =
     .aria-label = Jeku’e: jeguata { $current } { $total } rehegua
 # "Hero Text" displayed on left side of welcome screen.
@@ -267,6 +265,15 @@ fx100-upgrade-thank-you-body = Ore ñemyasãi 100 { -brand-short-name } rehegua.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = ¡Ore ñemyasãi 100! Aguyje reime haguére ore rekohápe. Eguereko { -brand-short-name } nde ykére ouvétava 100 ndiveguápe.
 mr2022-onboarding-secondary-skip-button-label = Ehejánte kóva
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Eñongatu ha eku’ejey
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Ajapo { -brand-short-name }-gui kundahára ypyguáva
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Emba’egueru kundahára itujavévagui
 
 ## MR2022 New User Pin Firefox screen strings
 
