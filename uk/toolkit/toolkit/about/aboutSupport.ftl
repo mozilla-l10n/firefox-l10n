@@ -61,7 +61,7 @@ app-basics-os-theme = Тема ОС
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Перекладено Rosetta
-app-basics-memory-use = Використання пам’яті
+app-basics-memory-use = Використання пам'яті
 app-basics-performance = Швидкодія
 app-basics-service-workers = Зареєстровані Service Workers
 app-basics-third-party = Сторонні модулі
@@ -248,7 +248,7 @@ text-copied = Текст скопійовано в буфер
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Заблоковано для вашої версії графічного драйвера.
-blocked-gfx-card = Заблоковано для вашої відеоплати через нерозв’язані проблеми з драйвером.
+blocked-gfx-card = Заблоковано для вашого графічного процесора через нерозв'язані проблеми з драйвером.
 blocked-os-version = Заблоковано для вашої версії операційної системи.
 blocked-mismatched-version = Заблоковано через невідповідність версії вашого графічного драйвера в реєстрі та DLL.
 # Variables
