@@ -125,6 +125,7 @@ about-telemetry-values-header = Значення
 #   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Пізній запис #{ $lateWriteCount }
 about-telemetry-stack-title = Стек:
+about-telemetry-memory-map-title = Карта пам'яті:
 about-telemetry-error-fetching-symbols = Під час отримання символів сталася помилка. Перевірте з'єднання з Інтернетом і повторіть спробу.
 about-telemetry-time-stamp-header = позначка часу
 about-telemetry-category-header = категорія
