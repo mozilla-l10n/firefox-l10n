@@ -102,18 +102,18 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
-protections-panel-cookie-banner-handling-header = Reducción de la pancarta de cookies
+protections-panel-cookie-banner-handling-header = Reducción de mensajes de cookies
 protections-panel-cookie-banner-handling-enabled = Activada para este sitio
 protections-panel-cookie-banner-handling-disabled = Desactivada para este sitio
 protections-panel-cookie-banner-handling-undetected = El sitio actualmente no es compatible
 protections-panel-cookie-banner-view-title =
-    .title = Reducción de la pancarta de cookies
+    .title = Reducción de mensajes de cookies
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Atrás
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = ¿Desactivar la reducción de la pancarta de cookies para { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = ¿Activar la reducción de la pancarta de cookies para este sitio?
+protections-panel-cookie-banner-view-turn-off-for-site = ¿Desactivar la reducción de mensajes de cookies para { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = ¿Activar la reducción de mensajes de cookies para este sitio?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } eliminará las cookies de este sitio y actualizará la página. Eliminar todas las cookies puede cerrar su sesión o vaciar los carritos de compras.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } intenta rechazar automáticamente todas las solicitudes de cookies en los sitios compatibles.
 protections-panel-cookie-banner-view-cancel = Cancelar
