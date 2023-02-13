@@ -88,6 +88,13 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">آپݨے ٹیگ نال پنگاں کیتے{ glean-debug-ping-viewer-brand-name } تے ون٘خو</a>
     بٹݨ دباوݨ کنوں تہاݙے پنگ دے آوݨ تائیں کجھ سیکنڈاں کنوں ودھ ویلا کائنی لڳݨاں چاہیدا۔
     کہیں ویلے کجھ منٹ لڳ سڳدن۔
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    ٻئی <i>ایڈ ہاک</i> پڑتال کرݨ کیتے،
+    اتھ  <code>about:glean</code> تے ڈیوٹول کنسول کھولݨ نال تے
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
+    وانگوں and using the <code>testGetValue()</code> اے پی آئی ورتݨ نال
+    تساں  آلے دی خاص ٹکڑے دی موجودہ قیمت دا تعین کر سڳدے ہو۔
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
 about-glean-about-data-header = ڈیٹا بارے
 about-glean-about-data-explanation =
