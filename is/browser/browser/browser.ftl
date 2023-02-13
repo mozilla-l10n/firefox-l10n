@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Ábending:
 urlbar-result-menu-button =
     .title = Opna valmynd
+urlbar-result-menu-learn-more =
+    .label = Kanna nánar
+    .accesskey = K
 urlbar-result-menu-remove-from-history =
     .label = Eyða úr vafurferli
     .accesskey = r
@@ -707,6 +710,11 @@ bookmarks-other-bookmarks-menu =
     .label = Önnur bókamerki
 bookmarks-mobile-bookmarks-menu =
     .label = Bókamerki farsíma
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -731,6 +739,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Fjarlægja bókamerkjavalmynd úr verkfærastiku
            *[other] Bæta bókamerkjavalmynd við verkfærastiku
         }
+
+##
+
 bookmarks-search =
     .label = Leita í bókamerkjum
 bookmarks-tools =

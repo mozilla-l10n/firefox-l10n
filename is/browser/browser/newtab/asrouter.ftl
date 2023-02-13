@@ -252,8 +252,8 @@ colorways-cfr-header-today = Litasett Independent Voices rennur út í dag
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Vefkökuborðar fyrir bí!
 cfr-cookiebanner-body = Leyfa { -brand-short-name } að hafna sjálfkrafa öllum beiðnum um vefkökuborða þegar mögulegt er.
-cfr-cookiebanner-accept-button = Sleppa vefkökuborðum
-    .accesskey = p
+cfr-cookiebanner-accept-button-v2 = Hafna beiðnum
+    .accesskey = H
 cfr-cookiebanner-reject-button = Ekki núna
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Sjá færri sprettglugga fyrir vefkökur
