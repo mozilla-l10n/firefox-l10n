@@ -27,7 +27,7 @@ download-ui-confirm-offline-cancel-downloads =
         [1] Якщо ви зараз перейдете в автономний режим роботи, буде скасовано одне завантаження. Продовжити?
        *[other] Якщо ви зараз перейдете в автономний режим роботи, буде скасовано { $downloadsCount } завантажень. Ви дійсно цього бажаєте?
     }
-download-ui-dont-go-offline-button = Зберегти з’єднання
+download-ui-dont-go-offline-button = Залишатися онлайн
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Якщо ви закриєте всі вікна приватного перегляду, 1 завантаження буде скасоване. Ви дійсно хочете вийти з режиму приватного перегляду?
