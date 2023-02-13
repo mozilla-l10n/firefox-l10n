@@ -84,6 +84,10 @@ about-glean-label-for-controls-submit =
     سارے { -glean-brand-name } پنگ کوں آپݨے ٹیگ نال ٹیگ کرݨ کیتے پچھلے بٹݨ کوں دباؤ تے منتخب پنگ جمع کرواؤ۔
     (سارے  پنگ ایں ویلے کنوں جمع کرائے ڳئے ڄݙݨ تائیں ایپ کوں ولدا شروع کائنی کریندے این٘دے نال ٹیگ کیتے ویسن
     <code>{ $debug-tag }</code>۔)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">آپݨے ٹیگ نال پنگاں کیتے{ glean-debug-ping-viewer-brand-name } تے ون٘خو</a>
+    بٹݨ دباوݨ کنوں تہاݙے پنگ دے آوݨ تائیں کجھ سیکنڈاں کنوں ودھ ویلا کائنی لڳݨاں چاہیدا۔
+    کہیں ویلے کجھ منٹ لڳ سڳدن۔
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
 about-glean-about-data-header = ڈیٹا بارے
 about-glean-about-data-explanation =
