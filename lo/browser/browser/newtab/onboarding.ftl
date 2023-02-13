@@ -64,6 +64,13 @@ mr1-onboarding-set-default-secondary-button-label = ບໍ່ແມ່ນຕອ�
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr2-onboarding-colorway-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = ຄ່າພື້ນຖານ
+mr1-onboarding-theme-header = ເຮັດໃຫ້ມັນເປັນຂອງຕົນເອງ
+mr1-onboarding-theme-subtitle = ປັບແຕ່ງ { -brand-short-name } ສ່ວນຕົວດ້ວຍຮູບແບບສີສັນ.
+mr1-onboarding-theme-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
+mr1-onboarding-theme-label-light = ແຈ້ງ
+mr1-onboarding-theme-label-dark = ມືດ
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
