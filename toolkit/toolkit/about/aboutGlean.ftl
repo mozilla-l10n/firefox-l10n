@@ -39,3 +39,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Σχετικά με τη δοκιμή
 controls-button-label-verbose = Εφαρμογή ρυθμίσεων και υποβολή ping
 about-glean-about-data-header = Σχετικά με τα δεδομένα
+about-glean-about-data-explanation =
+    Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
+    <a data-l10n-name="glean-dictionary-link">Λεξικό του { -glean-brand-name }</a>.
