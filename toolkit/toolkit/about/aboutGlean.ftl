@@ -21,7 +21,12 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Acerca de { -glean-brand-name }
 about-glean-header = Acerca de { -glean-brand-name }
 # Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 controls-button-label-verbose = Aplicar configuración y enviar ping
+about-glean-about-data-header = Acerca de los datos
