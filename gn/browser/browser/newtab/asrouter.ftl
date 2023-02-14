@@ -251,7 +251,7 @@ colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojepuruku
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = ¡Opáma kookie marandu’i!
 cfr-cookiebanner-accept-button-v2 = Emondojey mba’ejerure
-    .accesskey = R
+    .accesskey = E
 cfr-cookiebanner-reject-button = Ani ko’ág̃a
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Ehecha’ive kookie ovetã iñapysẽva
