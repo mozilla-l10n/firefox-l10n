@@ -61,6 +61,12 @@ neterror-dns-not-found-trr-unknown-host = Δεν βρέθηκε διεύθυνσ
 neterror-dns-not-found-trr-server-problem = Προέκυψε πρόβλημα με το { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Απροσδόκητο πρόβλημα.
 
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-native-fallback-not-confirmed = Η σύνδεση με το { $trrDomain } δεν είναι ακόμα έτοιμη.
+
 ##
 
 neterror-file-not-found-filename = Ελέγξτε το όνομα του αρχείου για εσφαλμένα κεφαλαία ή άλλα ορθογραφικά λάθη.

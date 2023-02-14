@@ -71,6 +71,8 @@ cfr-cookie-banner-accept-button-variant-1 = Απόρριψη αναδυόμεν�
 cfr-cookie-banner-reject-button-variant-1 = Όχι, ευχαριστώ
     .accesskey = χ
 cfr-cookie-banner-handling-header-variant-2 = Μείωση μπάνερ cookie
+cfr-cookie-banner-accept-button-variant-2 = Αποδοχή
+    .accesskey = Α
 cfr-cookie-banner-reject-button-variant-2 = Όχι τώρα
     .accesskey = χ
 
@@ -242,10 +244,15 @@ colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Α
 
 ## Cookie Banner Handling CFR
 
+cfr-cookiebanner-accept-button-v2 = Απόρριψη αιτημάτων
+    .accesskey = Α
 cfr-cookiebanner-reject-button = Όχι τώρα
     .accesskey = χ
+cfr-cookiebanner-accept-button-variant-1 = Απόρριψη αναδυόμενων παραθύρων
+    .accesskey = Α
 cfr-cookiebanner-reject-button-variant-1 = Όχι, ευχαριστώ
     .accesskey = χ
+cfr-cookiebanner-header-variant-2 = Μείωση μπάνερ cookie
 cfr-cookiebanner-reject-button-variant-2 = Όχι τώρα
     .accesskey = χ
 
