@@ -249,8 +249,8 @@ colorways-cfr-header-today = Các màu giọng nói độc lập sẽ hết hạ
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Biểu ngữ cookie sẽ biến mất!
 cfr-cookiebanner-body = Cho phép { -brand-short-name } tự động từ chối tất cả các yêu cầu biểu ngữ cookie khi có thể.
-cfr-cookiebanner-accept-button = Loại bỏ biểu ngữ
-    .accesskey = D
+cfr-cookiebanner-accept-button-v2 = Từ chối các yêu cầu
+    .accesskey = R
 cfr-cookiebanner-reject-button = Không phải bây giờ
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Xem ít cửa sổ bật lên về cookie hơn
