@@ -52,3 +52,6 @@ about-glean-about-testing-header = Тестілеу туралы
 about-glean-no-ping-label = (ешқандай пинг жібермеу)
 controls-button-label-verbose = Баптауларды іске асырып, пинг жіберу
 about-glean-about-data-header = Деректер туралы
+about-glean-about-data-explanation =
+    Жиналған деректер тізімін шолу үшін,
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Сөздігін</a> шолыңыз.
