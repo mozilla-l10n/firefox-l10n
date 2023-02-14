@@ -14,6 +14,10 @@ about-logins-page-title = Credenziali e password
 login-filter =
     .placeholder = Cerca nelle credenziali
 
+about-logins-login-filter =
+   .placeholder = Cerca nelle credenziali
+   .key = F
+
 create-login-button = Inserisci nuove credenziali
 create-new-login-button =
   .title = Inserisci nuove credenziali
