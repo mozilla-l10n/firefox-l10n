@@ -102,8 +102,13 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = Μείωση μπάνερ cookie
+protections-panel-cookie-banner-handling-undetected = Ο ιστότοπος δεν υποστηρίζεται
+protections-panel-cookie-banner-view-title =
+    .title = Μείωση μπάνερ cookie
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Πίσω
+protections-panel-cookie-banner-view-turn-on-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα αιτήματα cookie σε υποστηριζόμενους ιστότοπους.
 protections-panel-cookie-banner-view-cancel = Ακύρωση
 protections-panel-cookie-banner-view-turn-off = Απενεργοποίηση
 protections-panel-cookie-banner-view-turn-on = Ενεργοποίηση

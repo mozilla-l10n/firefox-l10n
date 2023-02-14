@@ -23,7 +23,6 @@
 about-logging-title = Σχετικά με την καταγραφή
 about-logging-page-title = Διαχείριση καταγραφής
 about-logging-current-log-file = Τρέχον αρχείο καταγραφής:
-about-logging-current-log-modules = Τρέχουσες μονάδες καταγραφής:
 about-logging-new-log-file = Νέο αρχείο καταγραφής:
 about-logging-log-tutorial = Δείτε την <a data-l10n-name="logging">Καταγραφή HTTP</a> για οδηγίες σχετικά με τη χρήση αυτού του εργαλείου.
 # This message is used as a button label, "Open" indicates an action.
@@ -40,11 +39,13 @@ about-logging-logging-to-file = Καταγραφή σε αρχείο
 about-logging-logging-to-profiler = Καταγραφή στο { -profiler-brand-name }
 about-logging-no-log-modules = Καμία
 about-logging-no-log-file = Κανένα
+about-logging-logging-preset-selector-text = Προκαθορισμένη καταγραφή:
 
 ## Logging presets
 
 about-logging-preset-networking-label = Δικτύωση
 about-logging-preset-media-playback-label = Αναπαραγωγή πολυμέσων
+about-logging-preset-custom-label = Προσαρμοσμένο
 # Error handling
 about-logging-error = Σφάλμα:
 
