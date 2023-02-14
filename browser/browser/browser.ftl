@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Mẹo:
 urlbar-result-menu-button =
     .title = Mở menu
+urlbar-result-menu-learn-more =
+    .label = Tìm hiểu thêm
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = Xóa khỏi lịch sử
     .accesskey = R
@@ -700,6 +703,11 @@ bookmarks-other-bookmarks-menu =
     .label = Dấu trang khác
 bookmarks-mobile-bookmarks-menu =
     .label = Dấu trang trên di động
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -724,6 +732,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Xóa bảng chọn dấu trang từ thanh công cụ
            *[other] Thêm bảng chọn dấu trang vào thanh công cụ
         }
+
+##
+
 bookmarks-search =
     .label = Tìm kiếm dấu trang
 bookmarks-tools =
