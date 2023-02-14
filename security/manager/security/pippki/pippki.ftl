@@ -8,22 +8,18 @@ password-quality-meter = Μέτρηση ποιότητας κωδικού πρό
 
 change-device-password-window =
     .title = Αλλαγή κωδικού πρόσβασης
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Συσκευή ασφάλειας: { $tokenName }
 change-password-old = Τρέχων κωδικός πρόσβασης:
 change-password-new = Νέος κωδικός πρόσβασης:
 change-password-reenter = Εισάγετε τον κωδικό ξανά
-
 pippki-failed-pw-change = Αδυναμία αλλαγής κωδικού πρόσβασης.
 pippki-incorrect-pw = Δεν εισήγατε το σωστό κωδικό πρόσβασης. Παρακαλούμε δοκιμάστε ξανά.
 pippki-pw-change-ok = Επιτυχής αλλαγή κωδικού πρόσβασης.
-
 pippki-pw-empty-warning = Δεν θα προστατεύονται οι αποθηκευμένοι κωδικοί πρόσβασης και τα ιδιωτικά κλειδιά σας.
 pippki-pw-erased-ok = Ο κωδικός πρόσβασής σας έχει διαγραφεί. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Προσοχή! Αποφασίσατε να μη χρησιμοποιήσετε κωδικό πρόσβασης. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Βρίσκεστε σε λειτουργία FIPS . Το FIPS απαιτεί ένα μη κενό κωδικό πρόσβασης.
 
 ## Reset Primary Password dialog
@@ -31,14 +27,12 @@ pippki-pw-change2empty-in-fips-mode = Βρίσκεστε σε λειτουργί
 reset-primary-password-window =
     .title = Επαναφορά κύριου κωδικού πρόσβασης
     .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Επαναφορά κύριου κωδικού πρόσβασης
     .style = min-width: 40em
 reset-password-button-label =
     .label = Επαναφορά
 reset-primary-password-text = Εάν επαναφέρετε τον κύριο κωδικό πρόσβασής σας, θα διαγραφούν από την μνήμη όλοι οι αποθηκευμένοι κωδικοί πρόσβασης ιστοτόπων και email, προσωπικών πιστοποιητικών και ιδιωτικών κλειδιών. Θέλετε σίγουρα να επαναφέρετε τον κύριο κωδικό πρόσβασης;
-
 pippki-reset-password-confirmation-title = Επαναφορά κύριου κωδικού πρόσβασης
 pippki-reset-password-confirmation-message = Έγινε επαναφορά του κύριου κωδικού πρόσβασής σας.
 
@@ -47,7 +41,6 @@ pippki-reset-password-confirmation-message = Έγινε επαναφορά το�
 download-cert-window =
     .title = Λήψη πιστοποιητικού
     .style = width: 46em
-
 download-cert-window2 =
     .title = Λήψη πιστοποιητικού
     .style = min-width: 46em
@@ -86,3 +79,9 @@ protected-auth-window =
     .title = Προστατευμένη πιστοποίηση με διακριτικό
 protected-auth-msg = Παρακαλώ πιστοποιήστε το διακριτικό. Η μέθοδος πιστοποίησης εξαρτάται από το είδος του διακριτικού.
 protected-auth-token = Διακριτικό:
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Πραγματοποιήστε έλεγχο ταυτότητας στο διακριτικό «{ $tokenName }». Ο τρόπος ταυτοποίησης εξαρτάται από το διακριτικό (για παράδειγμα, με συσκευή ανάγνωσης δακτυλικών αποτυπωμάτων ή εισαγωγή κωδικού με πληκτρολόγιο).

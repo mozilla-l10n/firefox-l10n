@@ -51,6 +51,13 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Βρίσκεται σε αποκλεισμό. Κάντε κλικ για άρση.
     .aria-label = Βρίσκεται σε αποκλεισμό. Κάντε κλικ για άρση.
+third-party-button-to-unblock-disabled =
+    .title =
+        Έχει επισημανθεί ως αποκλεισμένο, αν και η λίστα αποκλεισμού είναι ανενεργή για αυτήν την εκτέλεση
+        του { -brand-short-name }. Κάντε κλικ για άρση αποκλεισμού.
+    .aria-label =
+        Έχει επισημανθεί ως αποκλεισμένο, αν και η λίστα αποκλεισμού είναι ανενεργή για αυτήν την εκτέλεση
+        του { -brand-short-name }. Κάντε κλικ για άρση αποκλεισμού.
 third-party-button-expand =
     .title = Εμφάνιση λεπτομερών πληροφοριών
 third-party-button-collapse =
