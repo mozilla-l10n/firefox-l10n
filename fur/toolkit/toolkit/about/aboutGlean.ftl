@@ -12,4 +12,34 @@ tag-pings-label = Segne ducj i pings inviâts cun cheste etichete
 log-pings-label = Regjistrâ il caric util dal ping prime di inviâlu?
 send-pings-label = Invie il ping cul non
 controls-button-label = Salve impostazions
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = Informazions su lis provis
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Lis istruzions completis a son documentadis te
+    <a data-l10n-name="fog-instrumentation-test-doc-link"> documentazion relative ae strumentazion des provis par { -fog-brand-name }</a>
+    e te <a data-l10n-name="glean-sdk-doc-link">documentazion di { glean-sdk-brand-name }</a>,
+    ma, in curt, par provâ in maniere manuâl che la strumentazion e funzioni, tu varessis:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (no inviâ pings)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Jessi sigûr che, tal cjamp che al precêt, e sedi une etichete di debug facile di impensâsi, cussì di podê ricognossi i tiei pings, plui indenant.
 controls-button-label-verbose = Aplice impostazions e invie ping
