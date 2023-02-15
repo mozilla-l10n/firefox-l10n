@@ -15,6 +15,14 @@ controls-button-label = Salve impostazions
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = Visualizadôr ping pal debug di { -glean-brand-name }
+about-glean-page-title2 = Informazions su { -glean-brand-name }
+about-glean-header = Informazions su { -glean-brand-name }
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">Preferencis e definizions</a> rilevantis a includin:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
