@@ -106,6 +106,8 @@ protections-panel-cookie-banner-handling-header = Çerez bildirimlerini azaltın
 protections-panel-cookie-banner-handling-enabled = Bu sitede açık
 protections-panel-cookie-banner-handling-disabled = Bu sitede kapalı
 protections-panel-cookie-banner-handling-undetected = Bu site şu anda desteklenmiyor
+protections-panel-cookie-banner-view-title =
+    .title = Çerez bildirimlerini azaltın
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Geri
 # Variables
