@@ -63,7 +63,9 @@ mr1-onboarding-set-default-secondary-button-label = ບໍ່ແມ່ນຕອ�
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr2-onboarding-colorway-primary-button-label = ບັນທຶກສີ
 mr2-onboarding-colorway-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
+mr2-onboarding-colorway-label-soft = ອ່ອນ
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ຄ່າພື້ນຖານ
 mr1-onboarding-theme-header = ເຮັດໃຫ້ມັນເປັນຂອງຕົນເອງ
