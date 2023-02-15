@@ -21,6 +21,16 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Visualizadôr ping pal debug di { -glean-brand-name }
 about-glean-page-title2 = Informazions su { -glean-brand-name }
 about-glean-header = Informazions su { -glean-brand-name }
+about-glean-interface-description = <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> e je une librarie pe racuelte di dâts, doprade tai progjets di { -vendor-short-name }. Cheste interface e je progjetade par permeti ai svilupadôrs e tester di <a data-l10n-name="fog-link">fâ provis manuâls de strumentazion</a>.
+about-glean-upload-enabled = Il cjariament in rêt dai dâts al è atîf.
+about-glean-upload-disabled = Il cjariament in rêt dai dâts al è disativât.
+about-glean-upload-enabled-local = Il cjariament in rêt dai dâts al è atîf dome par mandâ suntun servidôr locâl.
+about-glean-upload-fake-enabled =
+    Il cjariament in rêt dai dâts al è disativât,
+    ma al ven fat crodi a { glean-sdk-brand-name } che al è atîf
+    cussì che i dâts a vegnin distès regjistrâts in locâl.
+    Note: se tu configuris une etichete di debug, i pings a vignaran cjariâts in rêt sul
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>  in maniere indipendente des impostazions.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">Preferencis e definizions</a> rilevantis a includin:
 # Variables:
@@ -51,3 +61,4 @@ about-glean-no-ping-label = (no inviâ pings)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Jessi sigûr che, tal cjamp che al precêt, e sedi une etichete di debug facile di impensâsi, cussì di podê ricognossi i tiei pings, plui indenant.
 controls-button-label-verbose = Aplice impostazions e invie ping
+about-glean-about-data-header = Informazions sui dâts
