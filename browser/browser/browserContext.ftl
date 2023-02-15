@@ -183,7 +183,7 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = Капіяваць адрас эл.пошты
+    .label = Капіяваць адрас электроннай пошты
     .accesskey = э
 main-context-menu-copy-phone =
     .label = Капіяваць нумар тэлефона
