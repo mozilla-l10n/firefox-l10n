@@ -4,6 +4,7 @@
 
 language-name-aa = Afar
 language-name-ab = Abkazian
+language-name-ach = Acholi
 language-name-ae = Avestan
 language-name-af = Afrikaans
 language-name-ak = Akan

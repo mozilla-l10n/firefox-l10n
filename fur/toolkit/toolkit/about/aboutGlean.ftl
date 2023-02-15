@@ -62,3 +62,6 @@ about-glean-no-ping-label = (no inviâ pings)
 about-glean-label-for-tag-pings = Jessi sigûr che, tal cjamp che al precêt, e sedi une etichete di debug facile di impensâsi, cussì di podê ricognossi i tiei pings, plui indenant.
 controls-button-label-verbose = Aplice impostazions e invie ping
 about-glean-about-data-header = Informazions sui dâts
+about-glean-about-data-explanation =
+    Par sgarfâ te liste dai dâts racuelts, consulte il
+    <a data-l10n-name="glean-dictionary-link">Dizionari di { -glean-brand-name }</a>.
