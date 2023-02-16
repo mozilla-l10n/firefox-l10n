@@ -149,9 +149,18 @@ fx100-thank-you-subtitle = ມັນ​ເປັນ​ການ​ປ່ອຍ�
 
 ## MR2022 New User Easy Setup screen strings
 
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = ນໍາເຂົ້າຈາກຕົວທ່ອງເວັບທີ່ຜ່ານມາ
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = ເປີດອິນເຕີເນັດໃຫ້ປະລາດໃຈ
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = ເປີດ { -brand-short-name } ຈາກທຸກບ່ອນດ້ວຍການຄລິກດຽວ. ທຸກໆຄັ້ງທີ່ທ່ານເຮັດ, ທ່ານກໍາລັງເລືອກເວັບທີ່ເປີດແລະເອກະລາດຫຼາຍຂຶ້ນ.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
