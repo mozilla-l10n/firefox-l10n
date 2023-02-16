@@ -38,8 +38,8 @@ app-basics-update-channel = Kanal Pemutakhiran
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Pemutakhiran Direktori
-       *[other] Pemutakhiran Folder
+        [linux] Direktori Pemutakhiran
+       *[other] Folder Pemutakhiran
     }
 app-basics-update-history = Riwayat Pemutakhiran
 app-basics-show-update-history = Tampilkan Riwayat Pemutakhiran

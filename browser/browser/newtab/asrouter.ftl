@@ -249,8 +249,8 @@ colorways-cfr-header-today = Ragam warna Suara Independen kedaluarsa hari ini
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Lenyapkan spanduk kuki!
 cfr-cookiebanner-body = Izinkan { -brand-short-name } untuk secara otomatis menolak semua permintaan spanduk kuki jika memungkinkan.
-cfr-cookiebanner-accept-button = Tutup Spanduk
-    .accesskey = T
+cfr-cookiebanner-accept-button-v2 = Tolak Permintaan
+    .accesskey = { "" }
 cfr-cookiebanner-reject-button = Jangan sekarang
     .accesskey = J
 cfr-cookiebanner-header-variant-1 = Lihat lebih sedikit pop-up kuki

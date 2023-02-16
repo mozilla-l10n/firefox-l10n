@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Kiat:
 urlbar-result-menu-button =
     .title = Buka menu
+urlbar-result-menu-learn-more =
+    .label = Pelajari lebih lanjut
+    .accesskey = { "" }
 urlbar-result-menu-remove-from-history =
     .label = Hapus dari riwayat
     .accesskey = r
@@ -700,6 +703,11 @@ bookmarks-other-bookmarks-menu =
     .label = Markah Lain
 bookmarks-mobile-bookmarks-menu =
     .label = Markah Seluler
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -724,6 +732,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Hapus Menu Markah dari Bilah Alat
            *[other] Tambahkan Menu Markah ke Bilah Alat
         }
+
+##
+
 bookmarks-search =
     .label = Cari Markah
 bookmarks-tools =
