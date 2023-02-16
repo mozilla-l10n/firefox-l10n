@@ -60,6 +60,7 @@ neterror-dns-not-found-hint-firewall = Controllare che { -brand-short-name } abb
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } non può proteggere la richiesta relativa all’indirizzo di questo sito utilizzando il servizio di risoluzione dei nomi (DNS) che riteniamo attendibile. Motivo:
 neterror-dns-not-found-trr-only-attackers = Se si continua, un soggetto di terze parti potrebbe essere in grado di identificare quali siti visiti o farti aprire un sito non affidabile.
+neterror-dns-not-found-trr-third-party-warning = È possibile continuare con un servizio di risoluzione dei nomi (DNS) non sicuro. Tuttavia, un soggetto di terze parti potrebbe essere in grado di identificare quali siti visiti.
 
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non è riuscito a connettersi a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La connessione a { $trrDomain } ha richiesto più tempo del previsto.
