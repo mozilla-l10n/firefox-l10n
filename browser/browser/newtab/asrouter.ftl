@@ -251,7 +251,7 @@ colorways-cfr-header-today = Fargesamansetjinga «Uavhengige røyster» går ut 
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Fjern infoskapselbanner!
 cfr-cookiebanner-body = Tillat at { -brand-short-name } automatisk avviser alle førespurnadar om infoskapselbanner når det er muleg.
-cfr-cookiebanner-accept-button = Avvis banner
+cfr-cookiebanner-accept-button-v2 = Avvis førespurnad
     .accesskey = A
 cfr-cookiebanner-reject-button = Ikkje no
     .accesskey = I
