@@ -79,6 +79,7 @@ dnsNotFound-title = Uhm… non riusciamo a trovare questo sito.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Potenziale rischio per la sicurezza per { $hostname }.
+dns-not-found-trr-only-title2 = Potenziale rischio per la sicurezza durante la ricerca di questo dominio
 
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
