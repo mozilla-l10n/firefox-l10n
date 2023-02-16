@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ada masalah saat mengirim laporan. Silakan coba lagi nanti.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Situs selesai diperbaiki? Kirim laporan
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Standar
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Informasi lebih lanjut tentang Perlindungan Pelacakan yang Ditingkatkan
-
 protections-panel-etp-on-header = Perlindungan Pelacakan yang Ditingkatkan AKTIF untuk situs ini
 protections-panel-etp-off-header = Perlindungan Pelacakan yang Ditingkatkan NONAKTIF untuk situs ini
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Situs tidak berfungsi?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Situs Tidak Berfungsi?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Semua pelacak di situs ini 
 ##
 
 protections-panel-no-trackers-found = Tidak ada pelacak yang dikenali { -brand-short-name } terdeteksi di laman ini.
-
 protections-panel-content-blocking-tracking-protection = Pelacakan Konten
-
 protections-panel-content-blocking-socialblock = Pelacak Media Sosial
 protections-panel-content-blocking-cryptominers-label = Penambang Kripto
 protections-panel-content-blocking-fingerprinters-label = Pelacak Sidik
@@ -63,7 +57,6 @@ protections-panel-not-found-label = Tidak Terdeteksi
 ##
 
 protections-panel-settings-label = Setelan Perlindungan
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Dasbor Perlindungan
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -71,14 +64,12 @@ protections-panel-protectionsdashboard-label = Dasbor Perlindungan
 
 # The header of the list
 protections-panel-site-not-working-view-header = Nonaktifkan perlindungan jika Anda memiliki masalah dengan:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Bidang info masuk
 protections-panel-site-not-working-view-issue-list-forms = Formulir
 protections-panel-site-not-working-view-issue-list-payments = Pembayaran
 protections-panel-site-not-working-view-issue-list-comments = Komentar
 protections-panel-site-not-working-view-issue-list-videos = Video
-
 protections-panel-site-not-working-view-send-report = Kirim laporan
 
 ##
@@ -88,16 +79,13 @@ protections-panel-cryptominers = Penambang kripto menggunakan kekuatan komputasi
 protections-panel-fingerprinters = Pelacak sidik mengumpulkan pengaturan dari browser dan komputer Anda untuk membuat profil tentang Anda. Dengan menggunakan pelacak sidik digital ini, mereka dapat melacak Anda di berbagai situs web.
 protections-panel-tracking-content = Situs web dapat memuat iklan eksternal, video, dan konten lainnya dengan kode pelacakan. Pemblokiran konten pelacak dapat membantu situs dimuat lebih cepat, tetapi beberapa tombol, formulir, dan bidang info masuk mungkin tidak berfungsi.
 protections-panel-social-media-trackers = Situs jejaring sosial menempatkan pelacak di situs web lain untuk mengikuti apa yang Anda lakukan, lihat, dan tonton secara daring. Ini memungkinkan perusahaan media sosial untuk belajar lebih banyak tentang Anda, di luar apa yang Anda bagikan di profil media sosial Anda.
-
 protections-panel-description-shim-allowed = Beberapa pelacak yang ditandai di bawah telah diblokir sebagian pada laman ini karena Anda berinteraksi dengan mereka.
 protections-panel-description-shim-allowed-learn-more = Pelajari lebih lanjut
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Pelacak sebagian tidak diblokir
-
 protections-panel-content-blocking-manage-settings =
     .label = Kelola Setelan Perlindungan
     .accesskey = K
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Laporkan Situs yang Rusak
 protections-panel-content-blocking-breakage-report-view-description = Pemblokiran pelacak tertentu bisa menyebabkan beberapa situs web tidak berfungsi dengan baik. Saat Anda melaporkan masalahnya, Anda membantu agar { -brand-short-name } menjadi lebih baik bagi semua orang. Pengiriman laporan ini akan mengirimkan URL serta informasi tentang pengaturan peramban Anda ke Mozilla. <label data-l10n-name="learn-more">Pelajari lebih lanjut</label>
@@ -111,3 +99,17 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Batal
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Kirim Laporan
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Pengurangan Spanduk Kuki
+protections-panel-cookie-banner-handling-enabled = Aktif untuk situs ini
+protections-panel-cookie-banner-handling-disabled = Nonaktif untuk situs ini
+protections-panel-cookie-banner-handling-undetected = Saat ini, situs tidak didukung
+protections-panel-cookie-banner-view-title =
+    .title = Pengurangan Spanduk Kuki
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Kembali
+protections-panel-cookie-banner-view-cancel = Batal
+protections-panel-cookie-banner-view-turn-off = Nonaktifkan
+protections-panel-cookie-banner-view-turn-on = Aktifkan
