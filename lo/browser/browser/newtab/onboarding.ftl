@@ -56,23 +56,50 @@ mr1-onboarding-reduce-motion-button-label = ປິດການເຄື່ອນ
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-set-default-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
+mr1-onboarding-sign-in-button-label = ເຂົ້າສູ່ລະບົບ
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = ເຮັດໃຫ້ { -brand-short-name } ເປັນຕົວທ່ອງເວັບຫຼັກຂອງທ່ານບໍ?
+mr1-onboarding-default-subtitle = ໃສ່ຄວາມໄວ, ຄວາມປອດໄພ, ແລະຄວາມເປັນສ່ວນຕົວໃນໂໝດ autopilot.
+mr1-onboarding-default-primary-button-label = ຕັ້ງໃຫ້ເປັນບຣາວເຊີຫລັກ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = ເອົາມັນທັງຫມົດກັບທ່ານ
+mr1-onboarding-import-subtitle = ນຳເຂົ້າລະຫັດຜ່ານຂອງທ່ານ, <br/>ບຸກມາກ, ແລະອື່ນໆອີກ.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = ນຳເຂົ້າຈາກ { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = ນໍາເຂົ້າຈາກຕົວທ່ອງເວັບທີ່ຜ່ານມາ
+mr1-onboarding-import-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
+mr2-onboarding-colorway-header = ຊີວິດໃນສີ
+mr2-onboarding-colorway-subtitle = ສີສັນໃໝ່ທີ່ສົດໃສ. ມີໃຫ້ເປັນເວລາຈຳກັດ.
 mr2-onboarding-colorway-primary-button-label = ບັນທຶກສີ
 mr2-onboarding-colorway-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
 mr2-onboarding-colorway-label-soft = ອ່ອນ
+mr2-onboarding-colorway-label-balanced = ດຸ່ນດ່ຽງ
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = ຕົວໜາ
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = ອັດຕະໂນມັດ
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ຄ່າພື້ນຖານ
 mr1-onboarding-theme-header = ເຮັດໃຫ້ມັນເປັນຂອງຕົນເອງ
 mr1-onboarding-theme-subtitle = ປັບແຕ່ງ { -brand-short-name } ສ່ວນຕົວດ້ວຍຮູບແບບສີສັນ.
+mr1-onboarding-theme-primary-button-label = ບັນທຶກທີມ
 mr1-onboarding-theme-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = ຊຸດປັບແຕ່ງລະບົບ
 mr1-onboarding-theme-label-light = ແຈ້ງ
 mr1-onboarding-theme-label-dark = ມືດ
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = ສຳເລັດ
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -181,6 +208,33 @@ mr2022-onboarding-welcome-pin-subtitle = ເປີດ { -brand-short-name } ຈ�
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-label-default = ຄ່າພື້ນຖານ
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = ສີ { -brand-short-name } ປັດຈຸບັນ
+mr2022-onboarding-colorway-label-playmaker = ຜູ້ຫຼິ້ນ
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = ຜູ້ຫຼິ້ນ (ສີແດງ)
+mr2022-onboarding-colorway-description-playmaker = <b>ທ່ານເປັນຜູ້ຫຼິ້ນ.</b> ທ່ານສ້າງໂອກາດທີ່ຈະຊະນະ ແລະຊ່ວຍທຸກຄົນທີ່ຢູ່ອ້ອມຂ້າງທ່ານຍົກລະດັບເກມຂອງເຂົາເຈົ້າ.
+mr2022-onboarding-colorway-label-expressionist = ນັກສະແດງ
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = ນັກສະແດງ (ສີເຫຼືອງ)
+mr2022-onboarding-colorway-description-expressionist = <b>ເຈົ້າເປັນນັກສະແດງ.</b> ເຈົ້າເຫັນໂລກທີ່ແຕກຕ່າງ ແລະການສ້າງຂອງເຈົ້າກະຕຸ້ນອາລົມຂອງຄົນອື່ນ.
+mr2022-onboarding-colorway-label-visionary = ຜູ້ມີວິໄສທັດ
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = ຜູ້ມີວິໄສທັດ (ສີຂຽວ)
+mr2022-onboarding-colorway-description-visionary = <b>ທ່ານເປັນຜູ້ມີວິໄສທັດ.</b> ທ່ານຕັ້ງຄໍາຖາມກ່ຽວກັບສະພາບເດີມ ແລະກະຕຸ້ນຄົນອື່ນໃຫ້ຈິນຕະນາການອະນາຄົດທີ່ດີກວ່າ.
+mr2022-onboarding-colorway-label-activist = ນັກເຄື່ອນໄຫວ
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = ນັກເຄື່ອນໄຫວ (ສີຟ້າ)
+mr2022-onboarding-colorway-description-activist = <b>ທ່ານເປັນນັກເຄື່ອນໄຫວ.</b> ທ່ານປ່ອຍໃຫ້ໂລກເປັນບ່ອນທີ່ດີກ່ວາທີ່ທ່ານພົບມັນ ແລະນໍາພາຄົນອື່ນໃຫ້ເຊື່ອ.
+mr2022-onboarding-colorway-label-dreamer = ຄົນຊ່າງຝັນ
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = ຄົນຊ່າງຝັນ (ສີມ່ວງ)
+mr2022-onboarding-colorway-description-dreamer = <b>ທ່ານເປັນຄົນຊ່າງຝັນ.</b> ເຈົ້າເຊື່ອວ່າໂຊກລາບເຮັດໃຫ້ຄົນກ້າຫານ ແລະດົນໃຈຄົນອື່ນໃຫ້ກ້າຫານ.
+mr2022-onboarding-colorway-label-innovator = ນັກປະດິດສ້າງ
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = ນັກປະດິດສ້າງ (ສີສົ້ມ)
+mr2022-onboarding-colorway-description-innovator = <b>ທ່ານເປັນນັກປະດິດສ້າງ.</b> ທ່ານເຫັນໂອກາດຢູ່ທົ່ວທຸກແຫ່ງ ແລະສ້າງຜົນກະທົບຕໍ່ຊີວິດຂອງທຸກຄົນທີ່ຢູ່ອ້ອມຂ້າງທ່ານ.
 
 ## MR2022 Multistage Mobile Download screen strings
 
