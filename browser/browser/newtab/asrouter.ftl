@@ -57,6 +57,23 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } käyttäjää
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Evästeilmoitukset poistukaa!
+cfr-cookie-banner-accept-button = Hylkää pyynnöt
+    .accesskey = H
+cfr-cookie-banner-reject-button = Ei nyt
+    .accesskey = N
+cfr-cookie-banner-reject-button-variant-1 = Ei kiitos
+    .accesskey = E
+cfr-cookie-banner-handling-header-variant-2 = Evästeilmoitusten vähennys
+cfr-cookie-banner-accept-button-variant-2 = Salli
+    .accesskey = A
+cfr-cookie-banner-reject-button-variant-2 = Ei nyt
+    .accesskey = N
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkronoi kirjanmerkkisi kaikkialla.
@@ -155,10 +172,6 @@ spotlight-total-cookie-protection-body = Totaalinen evästesuoja estää seuraim
 spotlight-total-cookie-protection-expanded = { -brand-short-name } rakentaa aidan evästeiden ympärille ja rajoittaa ne sivustoon, jolla olet, jotta seuraimet eivät voi käyttää evästeitä seuratakseen sinua. Varhaisen käytön avulla autat optimoimaan tämän ominaisuuden, jotta voimme jatkaa paremman verkon rakentamista kaikille.
 spotlight-total-cookie-protection-primary-button = Ota totaalinen evästesuoja käyttöön
 spotlight-total-cookie-protection-secondary-button = Ei nyt
-cfr-total-cookie-protection-header = Sinun ansiostasi { -brand-short-name } on yksityisempi ja turvallisempi kuin koskaan aiemmin
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Totaalinen evästesuoja on vahvin tietosuojaominaisuutemme koskaan – ja nyt se on oletusasetus kaikille { -brand-short-name }-käyttäjille. Emme olisi pystyneet toteuttamaan tätä ilman kaltaisiasi varhaisen pääsyn osallistujia. Kiitos siis sinulle, että autat luomaan entistä paremman ja yksityisemmän internetin.
 
 ## Emotive Continuous Onboarding
 
@@ -205,8 +218,6 @@ firefoxview-cfr-primarybutton = Kokeile
     .accesskey = o
 firefoxview-cfr-secondarybutton = Ei nyt
     .accesskey = n
-firefoxview-cfr-header = Palauta äskettäin suljetut välilehdet käyttämällä { -firefoxview-brand-name }iä
-firefoxview-cfr-body = Lisäksi voit siirtyä saumattomasti laitteiden välillä sekä lisätä selaimeesi väriä.
 firefoxview-cfr-header-v2 = Jatka siitä mihin jäit
 firefoxview-cfr-body-v2 = Hanki äskettäin suljetut välilehdet takaisin ja siirry saumattomasti laitteiden välillä { -firefoxview-brand-name }llä.
 
@@ -228,3 +239,19 @@ colorways-cfr-header-28days = Itsenäiset äänet -väriteemat vanhenevat 16. ta
 colorways-cfr-header-14days = Itsenäiset äänet -väriteemat vanhenevat kahden viikon kuluttua
 colorways-cfr-header-7days = Itsenäiset äänet -väriteemat vanhenevat tällä viikolla
 colorways-cfr-header-today = Itsenäiset äänet -väriteemat vanhenevat tänään
+
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-accept-button-v2 = Hylkää pyynnöt
+    .accesskey = H
+cfr-cookiebanner-reject-button = Ei nyt
+    .accesskey = N
+cfr-cookiebanner-reject-button-variant-1 = Ei kiitos
+    .accesskey = E
+cfr-cookiebanner-accept-button-variant-2 = Salli
+    .accesskey = A
+cfr-cookiebanner-reject-button-variant-2 = Ei nyt
+    .accesskey = N
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
