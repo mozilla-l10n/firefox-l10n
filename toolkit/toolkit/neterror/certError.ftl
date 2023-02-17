@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = Sivuston { $hostname } tietoturvavarmenne ei ole kelvollinen.
 cert-error-mitm-intro = Sivustot todistavat identiteettinsä varmenteella, ja varmenteen myöntää varmentaja.
 cert-error-mitm-mozilla = { -brand-short-name }in tukena on voittoa tavoittelematon Mozilla, joka hallinnoi täysin avointa varmentajien (CA) säilöä. Varmentajasäilö auttaa varmistamaan, että varmentajat noudattavat käyttäjien tietoturvaan liittyviä hyviä käytäntöjä.
 cert-error-mitm-connection = { -brand-short-name } käyttää Mozillan varmentajasäilöä varmentamaan yhteyden turvallisuuden, käyttöjärjestelmään asennettujen varmenteiden sijasta. Siispä jos virustorjuntaohjelma tai verkko kaappaa yhteyden käyttäen varmennetta, jonka varmentaja ei ole Mozillan varmentajasäilössä, yhteyttä pidetään epäturvallisena.
 cert-error-trust-unknown-issuer-intro = Joku saattaa yrittää tekeytyä täksi sivustoksi eikä sivustolle siirtymistä siksi tulisi jatkaa.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Sivustot todistavat identiteettinsä varmenteella. { -brand-short-name } ei luota palvelimeen { $hostname }, koska sen varmenteen myöntäjä on tuntematon, varmenne on allekirjoitettu itsellään tai palvelin ei lähetä oikeita välivarmenteita.
 cert-error-trust-cert-invalid = Varmenteeseen ei luoteta, koska sen varmentajan varmenne ei ole kelvollinen.
 cert-error-trust-untrusted-issuer = Varmenteeseen ei luoteta, koska sen myöntäjän varmenteeseen ei luoteta.
@@ -20,52 +20,53 @@ cert-error-trust-self-signed = Varmenteeseen ei luoteta, koska se on allekirjoit
 cert-error-trust-symantec = Varmenteisiin, joiden myöntäjänä on GeoTrust, RapidSSL, Symantec, Thawte tai VeriSign, ei enää luoteta, koska nämä varmenteiden myöntäjät eivät noudattaneet tietoturvakäytäntöjä.
 cert-error-untrusted-default = Varmenteen lähde ei ole luotettu.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Sivustot todistavat identiteettinsä varmenteella. { -brand-short-name } ei luota tähän sivustoon, koska sen käyttämä varmenne ei ole kelvollinen palvelimelle { $hostname }.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $alt-name (string) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single = Sivustot todistavat identiteettinsä varmenteella. { -brand-short-name } ei luota tähän sivustoon, koska sen käyttämä varmenne ei ole kelvollinen palvelimelle { $hostname }. Varmenne on kelvollinen vain kohteelle <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $alt-name (string) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Sivustot todistavat identiteettinsä varmenteella. { -brand-short-name } ei luota tähän sivustoon, koska sen käyttämä varmenne ei ole kelvollinen palvelimelle { $hostname }. Varmenne on kelvollinen vain kohteelle { $alt-name }.
 # Variables:
-# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $subject-alt-names (string) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Sivustot todistavat identiteettinsä varmenteella. { -brand-short-name } ei luota tähän sivustoon, koska sen käyttämä varmenne ei ole kelvollinen palvelimelle { $hostname }. Varmenne on kelvollinen vain palvelimille: { $subject-alt-names }
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $not-after-local-time (Date) - Certificate is not valid after this time.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = Sivustot todistavat identiteettinsä varmenteella, joka on voimassa määräajan. Varmenne sivustolle { $hostname } vanheni { $not-after-local-time }.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $not-before-local-time (Date) - Certificate is not valid before this time.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Sivustot todistavat identiteettinsä varmenteella, joka on voimassa määräajan. Varmenne sivustolle { $hostname } on voimassa vasta { $not-before-local-time }.
 # Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Virhekoodi: { $error }
 # Variables:
-# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Virhekoodi: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+#   $hostname (string) - Hostname of the website with SSL error.
+#   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Tapahtui virhe oltaessa yhteydessä osoitteeseen { $hostname }. { $errorMessage }
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Sivustot todistavat identiteettinsä varmenteella, jonka myöntää varmentaja. Useimmat selaimet eivät enää luota varmenteisiin, joiden varmentaja on GeoTrust, RapidSSL, Symantec, Thawte tai VeriSign. { $hostname } käyttää varmennetta, jonka on myöntänyt jokin ennalta mainituista varmentajista. Sivuston identiteettiä ei siksi voida todistaa.
 cert-error-symantec-distrust-admin = Voit ilmoittaa tästä ongelmasta sivuston ylläpitäjälle.
 cert-error-old-tls-version = Tämä sivusto ei välttämättä tue TLS 1.2 -protokollaa, joka on pienin { -brand-short-name }in tukema versio protokollasta.
 # Variables:
-# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+#   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
-# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+#   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
 open-in-new-window-for-csp-or-xfo-error = Avaa sivusto uuteen ikkunaan
 # Variables:
-# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+#   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Turvallisuutesi suojaamiseksi { $hostname } ei salli, että { -brand-short-name } näyttää sivun, jos se on upotettu toiselle sivulle. Jotta voit nähdä tämän sivun, sinun tulee avata se uudessa ikkunassa.
 
 ## Messages used for certificate error titles
@@ -76,8 +77,11 @@ deniedPortAccess-title = Osoitteen käyttö on rajoitettu
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Sivua ei löydy.
 # Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Mahdollinen tietoturvariski sivuston { $hostname } kanssa.
+# Variables:
+#   $hostname (string) - Hostname of the website to which the user was trying to connect.
+dns-not-found-native-fallback-title = Mahdollinen tietoturvariski sivuston { $hostname } kanssa.
 fileNotFound-title = Tiedostoa ei löytynyt
 fileAccessDenied-title = Tiedoston käyttö estettiin
 generic-title = Verkkopyyntöä ei kyetä toteuttamaan
