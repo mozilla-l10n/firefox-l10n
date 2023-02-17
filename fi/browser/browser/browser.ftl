@@ -144,9 +144,15 @@ urlbar-tip-icon-description =
     .alt = Vinkki:
 urlbar-result-menu-button =
     .title = Avaa valikko
+urlbar-result-menu-learn-more =
+    .label = Lue lisää
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = Poista historiasta
     .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = Tuki
+    .accesskey = T
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -284,15 +290,11 @@ search-one-offs-actions =
 quickactions-addons = Näytä lisäosat
 quickactions-cmd-addons2 = lisäosat
 # Opens the bookmarks library window
-quickactions-bookmarks = Näytä kirjanmerkit
-# Opens the bookmarks library window
 quickactions-bookmarks2 = Hallitse kirjanmerkkejä
 quickactions-cmd-bookmarks = kirjanmerkit
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tyhjennä historia
 quickactions-cmd-clearhistory = tyhjennä historia
-# Opens about:downloads page
-quickactions-downloads = Avaa lataukset
 # Opens about:downloads page
 quickactions-downloads2 = Näytä lataukset
 quickactions-cmd-downloads = lataukset
@@ -300,12 +302,8 @@ quickactions-cmd-downloads = lataukset
 quickactions-extensions = Hallitse laajennuksia
 quickactions-cmd-extensions = laajennukset
 # Opens the devtools web inspector
-quickactions-inspector = Avaa Inspector
-# Opens the devtools web inspector
 quickactions-inspector2 = Avaa kehittäjätyökalut
 quickactions-cmd-inspector = tarkastaja, inspector, devtools
-# Opens about:logins
-quickactions-logins = Näytä kirjautumistiedot
 # Opens about:logins
 quickactions-logins2 = Hallitse salasanoja
 quickactions-cmd-logins = käyttäjätunnukset, salasanat
@@ -313,12 +311,8 @@ quickactions-cmd-logins = käyttäjätunnukset, salasanat
 quickactions-plugins = Hallitse liitännäisiä
 quickactions-cmd-plugins = liitännäiset
 # Opens the print dialog
-quickactions-print = Tulosta
-# Opens the print dialog
 quickactions-print2 = Tulosta sivu
 quickactions-cmd-print = tulosta
-# Opens a new private browsing window
-quickactions-private = Avaa yksityinen selausikkuna
 # Opens a new private browsing window
 quickactions-private2 = Avaa yksityinen ikkuna
 quickactions-cmd-private = yksityinen selaus
@@ -328,12 +322,8 @@ quickactions-refresh = Palauta { -brand-short-name } uudenveroiseksi
 quickactions-restart = Käynnistä { -brand-short-name } uudelleen
 quickactions-cmd-restart = käynnistä uudelleen
 # Opens the screenshot tool
-quickactions-screenshot2 = Ota kuvakaappaus
-# Opens the screenshot tool
 quickactions-screenshot3 = Ota kuvakaappaus
 quickactions-cmd-screenshot = kuvakaappaus
-# Opens about:preferences
-quickactions-settings = Avaa asetukset
 # Opens about:preferences
 quickactions-settings2 = Hallitse asetuksia
 quickactions-cmd-settings = asetukset, valinnat
@@ -343,8 +333,6 @@ quickactions-cmd-themes = teemat
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Päivitä { -brand-short-name }
 quickactions-cmd-update = päivitä
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Näytä lähdekoodi
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Näytä sivun lähdekoodi
 quickactions-cmd-viewsource = näytä lähde, lähdekoodi
@@ -718,6 +706,11 @@ bookmarks-other-bookmarks-menu =
     .label = Muut kirjanmerkit
 bookmarks-mobile-bookmarks-menu =
     .label = Kannettavan laitteen kirjanmerkit
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -742,6 +735,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Poista Kirjanmerkit-valikko työkalupalkista
            *[other] Lisää Kirjanmerkit-valikko työkalupalkkiin
         }
+
+##
+
 bookmarks-search =
     .label = Etsi kirjanmerkeistä
 bookmarks-tools =

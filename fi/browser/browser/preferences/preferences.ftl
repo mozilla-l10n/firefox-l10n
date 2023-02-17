@@ -73,6 +73,17 @@ restart-later = Käynnistä uudestaan myöhemmin
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hallitsee tätä asetusta.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = s
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Asetukset…
     .accesskey = e
 containers-disable-alert-title = Suljetaanko kaikki eristetyt välilehdet?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Jos poistat eristetyt välilehdet käytöstä nyt, { $tabCount } eristetty välilehti suljetaan. Haluatko varmasti poistaa eristetyt välilehdet käytöstä?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Sulje { $tabCount } eristetty välilehti
        *[other] Sulje { $tabCount } eristettyä välilehteä
     }
+
+##
+
 containers-disable-alert-cancel-button = Pidä käytössä
 containers-remove-alert-title = Poistetaanko tämä eristystila?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Jos poistat tämän eristystilan nyt, { $count } eristetty välilehti suljetaan. Haluatko varmasti poistaa eristystilan?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Suurennus
 preferences-default-zoom = Oletuskoko
     .accesskey = O
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage } %
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Kysy aina
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Käytä liitännäistä { $plugin-name } (ohjelmassa { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Lue lisää
 update-application-title = { -brand-short-name }in päivitykset
 update-application-description = Pidä { -brand-short-name } ajan tasalla parhaan suorituskyvyn, vakauden ja turvallisuuden vuoksi.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Mitä uutta</a>
 update-history =
     .label = Näytä päivityshistoria…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Päivitysasetusten tallennusvirhe
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Sisältöprosessien yläraja
 performance-limit-content-process-enabled-desc = Useammat sisältöprosessit parantavat suorituskykyä käytettäessä useita välilehtiä, mutta kuluttavat myös enemmän muistia.
 performance-limit-content-process-blocked-desc = Sisältöprosessien määrän muokkaaminen on mahdollista vain useaa prosessia hyödyntävällä { -brand-short-name }illa. <a data-l10n-name="learn-more">Lue, miten usean prosessin hyödyntämisen tilanteen voi tarkistaa</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (oletus)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Suositukset lähteestä { $provider }
 home-prefs-recommended-by-description-new = Poikkeuksellista, valikoitua sisältöä { $provider }-palvelulta, osana { -brand-product-name }-perhettä
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Valikoima viimeisimpiä sivustoja ja si
 home-prefs-snippets-header =
     .label = Tiedonmuruset
 home-prefs-snippets-description-new = Vinkit ja uutiset { -vendor-short-name }lta ja { -brand-product-name }ilta
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Etsi lisää hakukoneita
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pikakomento jo käytössä
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Annettu pikakomento on jo kirjanmerkillä ”{ $name }”. Kirjoita uusi pikakomento.
 search-keyword-warning-bookmark = Annettu pikakomento on jo toisella kirjanmerkillä. Kirjoita uusi pikakomento.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = K
 sync-manage-account = Hallinnoi tiliä
     .accesskey = H
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
+
+##
+
 sync-resend-verification =
     .label = Lähetä vahvistus uudestaan
     .accesskey = v
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Evästeet ja sivustotiedot
 sitedata-total-size-calculating = Lasketaan sivustotietojen ja välimuistin kokoa…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Evästeet, sivustotiedot ja välimuisti vievät tällä hetkellä { $value } { $unit } levytilaa.
 sitedata-learn-more = Lue lisää
 sitedata-delete-on-close =
@@ -918,6 +953,8 @@ sitedata-option-block-unvisited =
     .label = Evästeet vierailemattomilta sivustoilta
 sitedata-option-block-all-third-party =
     .label = Kaikki 3. osapuolen evästeet (voi aiheuttaa sivustovirheitä)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Kaikki sivustorajat ylittävät evästeet (voi aiheuttaa sivustojen toimimattomuutta)
 sitedata-option-block-all =
     .label = Kaikki evästeet (aiheuttaa sivustovirheitä)
 sitedata-clear =
@@ -997,6 +1034,7 @@ content-blocking-all-cookies = Kaikki evästeet
 content-blocking-unvisited-cookies = Evästeet sivustoilta, joilla ei ole käyty
 content-blocking-all-windows-tracking-content = Seurantaan tarkoitettu sisältö kaikissa ikkunoissa
 content-blocking-all-third-party-cookies = Kaikki kolmannen osapuolen evästeet
+content-blocking-all-cross-site-cookies = Kaikki sivustorajat ylittävät evästeet
 content-blocking-cryptominers = Kryptolouhijat
 content-blocking-fingerprinters = Yksilöijät
 # "Test pilot" is used as a verb. Possible alternatives:
