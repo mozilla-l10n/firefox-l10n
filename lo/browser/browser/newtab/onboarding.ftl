@@ -173,9 +173,14 @@ fx100-thank-you-hero-text =
     ຂອບໃຈ
     <span data-l10n-name="zap">ທ່ານ</span>
 fx100-thank-you-subtitle = ມັນ​ເປັນ​ການ​ປ່ອຍ​ຄັ້ງ​ທີ 100 ຂອງ​ພວກ​ເຮົາ​! ຂອບໃຈທີ່ຊ່ວຍພວກເຮົາສ້າງອິນເຕີເນັດທີ່ດີຂຶ້ນ ແລະສຸຂະພາບດີ.
+mr2022-onboarding-secondary-skip-button-label = ຂ້າມຂັ້ນຕອນນີ້
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = ບັນທຶກ ແລະສືບຕໍ່
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = ຕັ້ງ { -brand-short-name } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນ
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = ນໍາເຂົ້າຈາກຕົວທ່ອງເວັບທີ່ຜ່ານມາ
 
@@ -188,9 +193,22 @@ mr2022-onboarding-easy-setup-import-checkbox-label = ນໍາເຂົ້າຈ
 mr2022-onboarding-welcome-pin-header = ເປີດອິນເຕີເນັດໃຫ້ປະລາດໃຈ
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = ເປີດ { -brand-short-name } ຈາກທຸກບ່ອນດ້ວຍການຄລິກດຽວ. ທຸກໆຄັ້ງທີ່ທ່ານເຮັດ, ທ່ານກໍາລັງເລືອກເວັບທີ່ເປີດແລະເອກະລາດຫຼາຍຂຶ້ນ.
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = ເລີ່ມຕົ້ນດ້ວຍຕົວທ່ອງເວັບທີ່ສະຫນັບສະຫນູນໂດຍອົງການບໍ່ຫວັງຜົນກໍາໄລ. ພວກເຮົາປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າໃນຂະນະທີ່ເຈົ້າ zip ອ້ອມເວັບ.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = ຂອບໃຈທີ່ຮັກ { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = ເປີດອິນເຕີເນັດທີ່ມີສຸຂະພາບດີຈາກທຸກບ່ອນດ້ວຍການຄລິກດຽວ. ອັບເດດຫຼ້າສຸດຂອງພວກເຮົາແມ່ນເຕັມໄປດ້ວຍສິ່ງໃໝ່ໆທີ່ພວກເຮົາຄິດວ່າເຈົ້າໜ້າຮັກ.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = ໃຊ້ຕົວທ່ອງເວັບທີ່ປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າໃນຂະນະທີ່ເຈົ້າ zip ອ້ອມເວັບ. ອັບເດດຫຼ້າສຸດຂອງພວກເຮົາແມ່ນເຕັມໄປດ້ວຍສິ່ງທີ່ທ່ານມັກ.
+mr2022-onboarding-existing-pin-checkbox-label = ເພີ່ມ { -brand-short-name } ການຊອກຫາສ່ວນຕົວນຳ
 
 ## MR2022 New User Set Default screen strings
 
@@ -238,6 +256,7 @@ mr2022-onboarding-colorway-description-innovator = <b>ທ່ານເປັນ�
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = ເລື່ອນຈາກແລັບທັອບໄປຫາໂທລະສັບ ແລະກັບມາອີກຄັ້ງ
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
