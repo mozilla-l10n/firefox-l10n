@@ -4,12 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Käyttäjätunnukset ja salasanat
-
 login-filter =
     .placeholder = Etsi kirjautumistietoja
-
 create-login-button = Luo uusi kirjautumistieto
-
+create-new-login-button =
+    .title = Luo uusi kirjautumistieto
 fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
 fxaccounts-sign-in-sync-button = Kirjaudu synkronoidaksesi
 fxaccounts-avatar-button =
@@ -31,6 +30,8 @@ about-logins-menu-menuitem-help = Ohje
 
 login-list =
     .aria-label = Hakuasi vastaavat kirjautumistiedot
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } kirjautumistieto
@@ -99,6 +100,14 @@ login-item-time-changed = Viimeksi muokattu: { DATETIME($timeChanged, day: "nume
 login-item-time-created = Luotu: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Viimeksi käytetty: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = Luotu
+login-item-timeline-action-updated = Päivitetty
+login-item-timeline-action-used = Käytetty
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -112,19 +121,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Jatka muokkaamaan kirjautum
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = muokata tallennettua kirjautumistietoa
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Katso salasana kirjoittamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = paljastaa tallennetun salasanan
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Kopioi salasana kirjoittamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopioida tallennetun salasanan
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Jatka kirjautumistietojesi vientiin kirjoittamalla Windows-kirjautumistiedot. Tämä auttaa suojaamaan tilejäsi.
 # This message can be seen when attempting to export a password in about:logins
@@ -143,23 +149,23 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Peruuta
 confirmation-dialog-dismiss-button =
     .title = Peruuta
-
 about-logins-confirm-remove-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
 about-logins-confirm-remove-dialog-confirm-button = Poista
+
+## Variables
+##   $count (number) - Number of items
 
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Poista
        *[other] Poista kaikki
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Kyllä, poista tämä kirjautumistieto
        *[other] Kyllä, poista nämä kirjautumistiedot
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Poistetaanko { $count } kirjautumistieto?
@@ -170,7 +176,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Tämä poistaa { -brand-short-name }iin tallentamasi kirjautumistiedon ja kaikki hälytykset, jotka näkyvät täällä. Et voi kumota tätä toimintoa.
        *[other] Tämä poistaa { -brand-short-name }iin tallentamasi kirjautumistiedot ja kaikki hälytykset, jotka näkyvät täällä. Et voi kumota tätä toimintoa.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Poistetaanko { $count } kirjautumistieto kaikilta laitteilta?
@@ -182,13 +187,13 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Tämä poistaa kaikki kirjautumistiedot, jotka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu { -fxaccount-brand-name(case: "allative") }. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Vie kirjautumistiedot ja salasanat
 about-logins-confirm-export-dialog-message = Salasanasi tallennetaan luettavaan muotoon (esim. hu0n0s4l4s4n4), joten kuka tahansa viedyn tiedoston avaamiseen kykenevä voi nähdä salasanat.
 about-logins-confirm-export-dialog-confirm-button = Vie…
-
 about-logins-alert-import-title = Tuonti valmis
 about-logins-alert-import-message = Näytä tuonnin yksityiskohtainen erittely
-
 confirm-discard-changes-dialog-title = Hylätäänkö tallentamattomat muutokset?
 confirm-discard-changes-dialog-message = Kaikki tallentamattomat muutokset menetetään.
 confirm-discard-changes-dialog-confirm-button = Hylkää
@@ -219,7 +224,6 @@ about-logins-vulnerable-alert-learn-more-link = Lue lisää
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Kirjautumistieto sivulle { $loginTitle } tällä käyttäjätunnuksella on jo olemassa. <a data-l10n-name="duplicate-link">Siirrytäänkö olemassa olevaan kirjautumistietoon?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Tätä salasanaa tallentaessa ilmeni virhe.
 
@@ -268,12 +272,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Lisättiin uusia kirjautumistietoja:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Päivitettiin nykyisiä kirjautumistietoja:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Löydettiin kirjautumistietojen kopioita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
@@ -283,7 +285,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Virheitä:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
     }
 about-logins-import-dialog-done = Valmis
-
 about-logins-import-dialog-error-title = Tuontivirhe
 about-logins-import-dialog-error-conflicting-values-title = Useita ristiriitaisia arvoja samalle kirjautumistiedolle
 about-logins-import-dialog-error-conflicting-values-description = Esimerkiksi: useita käyttäjätunnuksia, salasanoja, URL-osoitteita jne. yhdelle kirjautumistiedolle.
@@ -297,10 +298,8 @@ about-logins-import-dialog-error-no-logins-imported = Kirjautumistietoja ei ole 
 about-logins-import-dialog-error-learn-more = Lisätietoja
 about-logins-import-dialog-error-try-import-again = Yritä tuontia uudelleen…
 about-logins-import-dialog-error-cancel = Peruuta
-
 about-logins-import-report-title = Tuonnin yhteenveto
 about-logins-import-report-description = { -brand-short-name }iin tuotavat käyttäjätunnukset ja salasanat.
-
 #
 # Variables:
 #  $number (number) - The number of the row
