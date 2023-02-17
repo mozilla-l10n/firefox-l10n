@@ -249,7 +249,7 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
-    .label = Pirdėti „{ $engineName }“
+    .label = Pridėti „{ $engineName }“
     .tooltiptext = Pridėti ieškyklę „{ $engineName }“
     .aria-label = Pridėti ieškyklę „{ $engineName }“
 # When more than 5 engines are offered by a web page, they are grouped in a
@@ -280,32 +280,20 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Peržiūrėti priedus
 quickactions-cmd-addons2 = priedai
-# Opens the bookmarks library window
-quickactions-bookmarks = Peržiūrėti adresyną
 quickactions-cmd-bookmarks = adresynas
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Išvalyti žurnalą
 quickactions-cmd-clearhistory = išvalyti žurnalą
-# Opens about:downloads page
-quickactions-downloads = Atverti atsiuntimus
 quickactions-cmd-downloads = atsiuntimai
 # Opens about:addons page in the extensions section
 quickactions-extensions = Tvarkyti priedus
 quickactions-cmd-extensions = priedai
-# Opens the devtools web inspector
-quickactions-inspector = Atverti tyriklį
 quickactions-cmd-inspector = tyriklis, devtools
-# Opens about:logins
-quickactions-logins = Peržiūrėti prisijungimus
 quickactions-cmd-logins = prisijungimai, slaptažodžiai
 # Opens about:addons page in the plugins section
 quickactions-plugins = Tvarkyti papildinius
 quickactions-cmd-plugins = papildiniai
-# Opens the print dialog
-quickactions-print = Spausdinti
 quickactions-cmd-print = spausdinti
-# Opens a new private browsing window
-quickactions-private = Atverti privataus naršymo langą
 quickactions-cmd-private = privatusis naršymas
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Atšviežinti „{ -brand-short-name }“
@@ -313,11 +301,7 @@ quickactions-cmd-refresh = atšviežinti
 # Restarts the browser
 quickactions-restart = Paleisti „{ -brand-short-name }“ iš naujo
 quickactions-cmd-restart = paleisti iš naujo
-# Opens the screenshot tool
-quickactions-screenshot2 = Padaryti ekrano nuotrauką
 quickactions-cmd-screenshot = ekrano nuotrauka
-# Opens about:preferences
-quickactions-settings = Atverti nuostatas
 quickactions-cmd-settings = nustatymai, nuostatos, parinktys
 # Opens about:addons page in the themes section
 quickactions-themes = Tvarkyti apvalkalus
@@ -325,8 +309,6 @@ quickactions-cmd-themes = grafiniai apvalkalai
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atnaujinti „{ -brand-short-name }“
 quickactions-cmd-update = naujinti
-# Opens the view-source UI with current pages source
-quickactions-viewsource = Pirminis tekstas
 quickactions-cmd-viewsource = pirminis tekstas
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -705,6 +687,11 @@ bookmarks-other-bookmarks-menu =
     .label = Kiti adresai
 bookmarks-mobile-bookmarks-menu =
     .label = Mobilusis adresynas
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -729,6 +716,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Išimti adresyno meniu iš priemonių juostos
            *[other] Pridėti adresyno meniu į priemonių juostą
         }
+
+##
+
 bookmarks-search =
     .label = Ieškoti adresyne
 bookmarks-tools =
@@ -954,3 +944,6 @@ refresh-blocked-redirect-label = „{ -brand-short-name }“ neleido šiam tinkl
 refresh-blocked-allow =
     .label = Leisti
     .accesskey = L
+
+## Firefox Relay integration
+
