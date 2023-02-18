@@ -45,6 +45,21 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    ໄຟເລີ່ມ
+    ທີ່ນີ້
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — ຜູ້ອອກແບບເຟີນິເຈີ, ພັດລົມ Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ປິດການເຄື່ອນໄຫວ
 
@@ -106,6 +121,15 @@ onboarding-theme-primary-button-label = ສຳເລັດ
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        ໃຊ້ຮູບແບບສີສັນແບບເຄື່ອນໄຫວ, ມີສີສັນສຳລັບປຸ່ມຕ່າງໆ,
+        ເມນູ, ແລະປ່ອງຢ້ຽມ.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = ໃຊ້ສີນີ້.
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
