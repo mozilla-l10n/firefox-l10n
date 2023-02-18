@@ -68,11 +68,11 @@ about-glean-label-for-tag-pings = დარწმუნდით, რომ წ�
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
     აირჩიეთ წინამდებარე სიიდან კრებული, რომელიც მოიცავს თქვენს ხელსაწყოებს.
-    თუ <a data-l10n-name="custom-ping-link">მორგებული კრებული</a> მოიცავს, აირჩიეთ იგი.
+    თუ მოიცავს <a data-l10n-name="custom-ping-link">მორგებული კრებული</a>, აირჩიეთ იგი.
     თუ არადა, <code>event</code>-მაჩვენებლებისთვის ნაგულისხმევი
     იქნება კრებული <code>events</code>,
-    ხოლო სხვა დანარჩენი მაჩვენებლებისთვის ნაგულისხმევი 
-    იქნება კრებული <code>მაჩვენებლები</code>.
+    ხოლო სხვა დანარჩენი მაჩვენებლებისთვის ნაგულისხმევი
+    იქნება კრებული <code>metrics</code>.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (არასავალდებულო. მონიშნეთ წინა უჯრა, თუ გსურთ, კრებულები აღირიცხოს გადაგზავნისას.
