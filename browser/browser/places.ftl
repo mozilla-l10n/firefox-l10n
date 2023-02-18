@@ -75,6 +75,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Rediger mappe…
     .accesskey = R
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
@@ -113,13 +115,13 @@ places-forget-about-this-site-confirmation-title = Gløymer denne nettstaden
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Denne handlinga fjernar alle dataa relaterte til { $hostOrBaseDomain }, inkludert historikk, passord, infokapslar, hurtigbuffer og innhalds-innstillingar. Er du sikker på at du vil fortsetje?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Denne handlinga fjernar data relatert til { $hostOrBaseDomain }, inkludert historikk, infokapslar, hurtigbuffer og innhalds-innstillingar. Relaterte bokmerke og passord vil ikke bli fjerna. Er du sikker på at du vil halde fram?
 places-forget-about-this-site-forget = Gløym
 places-library =
     .title = Arkiv
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Arkiv
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Arkiv
 places-organize-button =
