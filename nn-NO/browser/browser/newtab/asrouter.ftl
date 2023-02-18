@@ -271,4 +271,5 @@ cfr-cookiebanner-reject-button-variant-2 = Ikkje no
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Vi beskyttar deg
+july-jam-body = Kvar månad blokkerer { -brand-short-name } i gjennomsnitt over 3000 sporarar per brukar, noko som gir deg trygg og rask tilgang til eit bra internett.
 july-jam-set-default-primary = Opne lenkene mine med { -brand-short-name }
