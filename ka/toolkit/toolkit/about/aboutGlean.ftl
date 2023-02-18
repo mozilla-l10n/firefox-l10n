@@ -64,6 +64,15 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (არ გაიგზავნოს არცერთი კრებული)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = დარწმუნდით, რომ წინა ველში მითითებულია გამართვის დასამახსოვრებელი ჭდე, რათა მოგვიანებით შეძლოთ თქვენი კრებულების ამოცნობა.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    აირჩიეთ წინამდებარე სიიდან კრებული, რომელიც მოიცავს თქვენს ხელსაწყოებს.
+    თუ <a data-l10n-name="custom-ping-link">მორგებული კრებული</a> მოიცავს, აირჩიეთ იგი.
+    თუ არადა, <code>event</code>-მაჩვენებლებისთვის ნაგულისხმევი
+    იქნება კრებული <code>events</code>,
+    ხოლო სხვა დანარჩენი მაჩვენებლებისთვის ნაგულისხმევი 
+    იქნება კრებული <code>მაჩვენებლები</code>.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (არასავალდებულო. მონიშნეთ წინა უჯრა, თუ გსურთ, კრებულები აღირიცხოს გადაგზავნისას.
