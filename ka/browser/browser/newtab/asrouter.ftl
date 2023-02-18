@@ -252,8 +252,8 @@ colorways-cfr-header-today = დამოუკიდებელი ხმე�
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = ფუნთუშის მოთხოვნის აბრებო, აქშა!
 cfr-cookiebanner-body = ნების დართვა, რომ { -brand-short-name } თავადვე უარყოფდეს ფუნთუშების ყველა მოთხოვნას, როცა კი შესაძლებელია.
-cfr-cookiebanner-accept-button = აბრების არიდება
-    .accesskey = რ
+cfr-cookiebanner-accept-button-v2 = მოთხოვნების უარყოფა
+    .accesskey = უ
 cfr-cookiebanner-reject-button = ახლა არა
     .accesskey = ა
 cfr-cookiebanner-header-variant-1 = იხილეთ ნაკლები ამომხტარი მოთხოვნები
