@@ -197,6 +197,7 @@ fx100-thank-you-hero-text =
     ຂອບໃຈ
     <span data-l10n-name="zap">ທ່ານ</span>
 fx100-thank-you-subtitle = ມັນ​ເປັນ​ການ​ປ່ອຍ​ຄັ້ງ​ທີ 100 ຂອງ​ພວກ​ເຮົາ​! ຂອບໃຈທີ່ຊ່ວຍພວກເຮົາສ້າງອິນເຕີເນັດທີ່ດີຂຶ້ນ ແລະສຸຂະພາບດີ.
+fx100-upgrade-thanks-header = 100 ຂອບໃຈ
 mr2022-onboarding-secondary-skip-button-label = ຂ້າມຂັ້ນຕອນນີ້
 
 ## MR2022 New User Easy Setup screen strings
@@ -236,6 +237,9 @@ mr2022-onboarding-existing-pin-checkbox-label = ເພີ່ມ { -brand-short-n
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = ເຮັດໃຫ້ { -brand-short-name } ໄປທີ່ browser ຂອງທ່ານ
+mr2022-onboarding-set-default-primary-button-label = ຕັ້ງ { -brand-short-name } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນ
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
