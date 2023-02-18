@@ -18,6 +18,7 @@ controls-button-label = პარამეტრების გადაგზ�
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } გამართვის კრებულის წამკითხველი
 about-glean-page-title2 = { -glean-brand-name }-ის შესახებ
 about-glean-header = { -glean-brand-name }-ის შესახებ
 about-glean-interface-description =
@@ -28,4 +29,39 @@ about-glean-interface-description =
 about-glean-upload-enabled = მონაცემთა ატვირთვა ჩართულია.
 about-glean-upload-disabled = მონაცემთა ატვირთვა გამორთულია.
 about-glean-upload-enabled-local = მონაცემთა ატვირთვა ჩართულია მხოლოდ ადგილობრივ სერვერზე გასაგზავნად.
+about-glean-upload-fake-enabled =
+    მონაცემთა ატვირთვა გამორთულია,
+    მაგრამ მიეთითება, რომ თითქოსდა ჩართულია { glean-sdk-brand-name }
+    და მონაცემები მაინც ჩაიწერება ადგილობრივად.
+    შენიშვნა: თუ დაურთავთ გამართვის ჭდეს, კრებულები მაინც აიტვირთება და იხილავს
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>, ამ პარამეტრების მიუხედავად.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = შესაბამისი <a data-l10n-name="fog-prefs-and-defines-doc-link">მახასიათებლები და განსაზღვრებებია</a>:
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code>: { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code>: { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-about-testing-header = შემოწმების შესახებ
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    მითითებები სრულად აღწერილია
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } ხელსაწყოების შემოწმების მასალებსა</a>
+    და <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }-ს მასალებში</a>,
+    მაგრამ, უფრო მოკლედ, როგორ უნდა შეამოწმოთ, მუშაობს თუ არა თქვენი ხელსაწყოები:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (არ გაიგზავნოს არცერთი კრებული)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = დარწმუნდით, რომ წინა ველში მითითებულია გამართვის დასამახსოვრებელი ჭდე, რათა მოგვიანებით შეძლოთ თქვენი კრებულების ამოცნობა.
 controls-button-label-verbose = პარამეტრების ასახვა და კრებულის გადაგზავნა
