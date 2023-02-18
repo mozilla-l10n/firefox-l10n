@@ -64,4 +64,15 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (არ გაიგზავნოს არცერთი კრებული)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = დარწმუნდით, რომ წინა ველში მითითებულია გამართვის დასამახსოვრებელი ჭდე, რათა მოგვიანებით შეძლოთ თქვენი კრებულების ამოცნობა.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (არასავალდებულო. მონიშნეთ წინა უჯრა, თუ გსურთ, კრებულები აღირიცხოს გადაგზავნისას.
+    დამატებით მოგიწევთ <a data-l10n-name="enable-logging-link">აღრიცხვის ჩართვა</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    დააჭირეთ წინამდებარე ღილაკს, რომ მოინიშნოს ყველა { -glean-brand-name }-კრებული თქვენი ჭდით და გადაიგზავნოს შერჩეულები.
+    (ყველა კრებულს ამ დროიდან პროგრამის ხელახლა გაშვებამდე ჭდედ დაერთვება 
+    <code>{ $debug-tag }</code>.)
 controls-button-label-verbose = პარამეტრების ასახვა და კრებულის გადაგზავნა
