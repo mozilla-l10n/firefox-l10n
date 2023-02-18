@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Patarimas:
 urlbar-result-menu-button =
     .title = Atverti meniu
+urlbar-result-menu-remove-from-history =
+    .label = Pašalinti iš žurnalo
+    .accesskey = P
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -280,19 +283,29 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Peržiūrėti priedus
 quickactions-cmd-addons2 = priedai
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Tvarkyti adresyną
 quickactions-cmd-bookmarks = adresynas
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Išvalyti žurnalą
 quickactions-cmd-clearhistory = išvalyti žurnalą
+# Opens about:downloads page
+quickactions-downloads2 = Žiūrėti atsiuntimus
 quickactions-cmd-downloads = atsiuntimai
 # Opens about:addons page in the extensions section
 quickactions-extensions = Tvarkyti priedus
 quickactions-cmd-extensions = priedai
+# Opens the devtools web inspector
+quickactions-inspector2 = Atverti programuotojų priemones
 quickactions-cmd-inspector = tyriklis, devtools
+# Opens about:logins
+quickactions-logins2 = Tvarkyti slaptažodžius
 quickactions-cmd-logins = prisijungimai, slaptažodžiai
 # Opens about:addons page in the plugins section
 quickactions-plugins = Tvarkyti papildinius
 quickactions-cmd-plugins = papildiniai
+# Opens the print dialog
+quickactions-print2 = Spausdinti puslapį
 quickactions-cmd-print = spausdinti
 quickactions-cmd-private = privatusis naršymas
 # Opens a SUMO article explaining how to refresh
@@ -301,6 +314,8 @@ quickactions-cmd-refresh = atšviežinti
 # Restarts the browser
 quickactions-restart = Paleisti „{ -brand-short-name }“ iš naujo
 quickactions-cmd-restart = paleisti iš naujo
+# Opens the screenshot tool
+quickactions-screenshot3 = Padaryti ekrano nuotrauką
 quickactions-cmd-screenshot = ekrano nuotrauka
 quickactions-cmd-settings = nustatymai, nuostatos, parinktys
 # Opens about:addons page in the themes section
