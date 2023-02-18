@@ -75,4 +75,19 @@ about-glean-label-for-controls-submit =
     დააჭირეთ წინამდებარე ღილაკს, რომ მოინიშნოს ყველა { -glean-brand-name }-კრებული თქვენი ჭდით და გადაიგზავნოს შერჩეულები.
     (ყველა კრებულს ამ დროიდან პროგრამის ხელახლა გაშვებამდე ჭდედ დაერთვება 
     <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">იხილეთ { glean-debug-ping-viewer-brand-name } გვერდი კრებულებისთვის თქვენი ჭდით</a>.
+    რამდენიმე წამზე მეტი არ უნდა დასჭირდეს ღილაკის დაჭერიდან კრებულების მიღებამდე.
+    ზოგჯერ მცირე ხანსაც შეიძლება გასტანოს.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    დამატებითი <i>საგანგებო</i> შემოწმებისთვის,
+    ამასთანავე, შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა
+    შემმუშავებელთა ხელსაწყოების გახსნით <code>about:glean</code>
+    გვერდზე და <code>testGetValue()</code> API-ის მეშვეობით, მაგალითად
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = პარამეტრების ასახვა და კრებულის გადაგზავნა
+about-glean-about-data-header = მონაცემთა შესახებ
+about-glean-about-data-explanation =
+    შეგროვებულ მონაცემთა ჩამონათვალის სანახავად დაიხმარეთ
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ცნობარი</a>.
