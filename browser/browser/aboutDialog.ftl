@@ -19,6 +19,7 @@ update-failed = Programos atnaujinti nepavyko. <label data-l10n-name="failed-lin
 update-failed-main = Programos atnaujinti nepavyko. <a data-l10n-name="failed-link-main">Atsisiųskite paskiausią laidą</a>
 update-adminDisabled = Naujinimus uždraudė sistemos administratorius
 update-noUpdatesFound = Naudojama paskiausia „{ -brand-short-name }“ laida
+aboutdialog-update-checking-failed = Nepavyko patikrinti, ar yra naujinimų.
 update-otherInstanceHandlingUpdates = Programa „{ -brand-short-name }“ šiuo metu naujinama
 update-manual = Atsisiųskite naujinimą iš <label data-l10n-name="manual-link"/>
 update-unsupported = Tolesni naujinimai, naudojantis šia sistema, yra negalimi. <label data-l10n-name="unsupported-link">Sužinoti daugiau</label>
