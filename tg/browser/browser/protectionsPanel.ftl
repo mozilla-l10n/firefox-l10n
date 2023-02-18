@@ -110,6 +110,10 @@ protections-panel-cookie-banner-view-title =
     .title = Маҳдудкунии баннери куки
 protections-panel-cookie-banner-view-go-back =
     .aria-label = Ба қафо
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = «Маҳдудкунии баннери куки»-ро барои { $host } хомӯш месозед?
+protections-panel-cookie-banner-view-turn-on-for-site = «Маҳдудкунии баннери куки»-ро барои ин сомона хомӯш месозед?
 protections-panel-cookie-banner-view-cancel = Бекор кардан
 protections-panel-cookie-banner-view-turn-off = Хомӯш кардан
 protections-panel-cookie-banner-view-turn-on = Фаъол кардан
