@@ -20,5 +20,6 @@ controls-button-label = Send inn innstillingar
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Om { -glean-brand-name }
 about-glean-header = Om { -glean-brand-name }
+about-glean-about-testing-header = Om testing
 controls-button-label-verbose = Bruk innstillingar og send inn ping
 about-glean-about-data-header = Om data
