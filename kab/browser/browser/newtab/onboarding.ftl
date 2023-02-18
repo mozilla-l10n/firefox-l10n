@@ -44,8 +44,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Asesfar:takkayt { $current } n { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Asesfar:takkayt { $current } n { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -266,6 +264,11 @@ fx100-upgrade-thank-you-body = D lqem-nneɣ wis 100 n { -brand-short-name }. <em
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = D lqem-nneɣ wis 100! Tanemmirt imi telliḍ d aεeggal deg tɣiwant-nneɣ. Eǧǧ { -brand-short-name } ɣef wafus i 100 i d-iteddun.
 mr2022-onboarding-secondary-skip-button-label = Zgel takkayt-a
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Sekles syen kemmel
 
 ## MR2022 New User Pin Firefox screen strings
 

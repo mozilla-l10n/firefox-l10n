@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Taxbalut:
 urlbar-result-menu-button =
     .title = Ldi umuɣ
+urlbar-result-menu-learn-more =
+    .label = Issin ugar
+    .accesskey = I
 urlbar-result-menu-remove-from-history =
     .label = Kkes seg uzray
     .accesskey = K
@@ -705,6 +708,11 @@ bookmarks-other-bookmarks-menu =
     .label = Ticrad-nniḍen n yisebtar
 bookmarks-mobile-bookmarks-menu =
     .label = Ticraḍ n yisebtar n uziraz
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -729,6 +737,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Kkes umuγ n tecraḍ n yisebtar seg ufeggag
            *[other] Rnu umuγ n tecraḍ n yisebtar ɣer ufeggag
         }
+
+##
+
 bookmarks-search =
     .label = Nadi ticraḍ n yisebtar
 bookmarks-tools =

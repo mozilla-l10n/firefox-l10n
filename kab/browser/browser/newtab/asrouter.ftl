@@ -227,6 +227,8 @@ colorways-cfr-primarybutton = Fren afran n yiniten
 
 ## Cookie Banner Handling CFR
 
+cfr-cookiebanner-accept-button-v2 = Aggi tuttriwin
+    .accesskey = g
 cfr-cookiebanner-reject-button = Mačči tura
     .accesskey = M
 cfr-cookiebanner-reject-button-variant-1 = Ala, tanemmirt
