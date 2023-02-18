@@ -12,4 +12,12 @@ tag-pings-label = ყველა გაგზავნილი კრებუ
 log-pings-label = აღირიცხოს კრებულის დატვირთვა გაგზავნამდე?
 send-pings-label = სახელობითი კრებულის გაგზავნა
 controls-button-label = პარამეტრების გადაგზავნა
+
+### "FOG", "Glean", and "Glean SDK" should remain in English.
+
+-fog-brand-name = FOG
+-glean-brand-name = Glean
+glean-sdk-brand-name = { -glean-brand-name } SDK
+about-glean-page-title2 = { -glean-brand-name }-ის შესახებ
+about-glean-header = { -glean-brand-name }-ის შესახებ
 controls-button-label-verbose = პარამეტრების ასახვა და კრებულის გადაგზავნა
