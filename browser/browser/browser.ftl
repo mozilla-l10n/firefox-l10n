@@ -317,6 +317,8 @@ quickactions-cmd-restart = paleisti iš naujo
 # Opens the screenshot tool
 quickactions-screenshot3 = Padaryti ekrano nuotrauką
 quickactions-cmd-screenshot = ekrano nuotrauka
+# Opens about:preferences
+quickactions-settings2 = Keisti nuostatas
 quickactions-cmd-settings = nustatymai, nuostatos, parinktys
 # Opens about:addons page in the themes section
 quickactions-themes = Tvarkyti apvalkalus
@@ -324,6 +326,8 @@ quickactions-cmd-themes = grafiniai apvalkalai
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atnaujinti „{ -brand-short-name }“
 quickactions-cmd-update = naujinti
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Pirminis tekstas
 quickactions-cmd-viewsource = pirminis tekstas
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -962,3 +966,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = „{ -relay-brand-name }“ užmaskuoja jūsų tikrąjį el. pašto adresą, kad apsaugotų jus nuo duomenų nutekėjimų ir nepageidaujamų laiškų.
+firefox-relay-offer-how-we-integrate = Tęsdami galėsite generuoti naujas „{ -relay-brand-short-name }“ el. pašto kaukes tiesiai iš „{ -brand-shorter-name }“ slaptažodžių tvarkytuvės.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Visus el. laiškus iš <strong>{ $sitename }</strong> persiųsime į <strong>{ $useremail }</strong>.
