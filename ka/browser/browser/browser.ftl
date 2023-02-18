@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = რჩევა:
 urlbar-result-menu-button =
     .title = მენიუს გახსნა
+urlbar-result-menu-learn-more =
+    .label = ვრცლად
+    .accesskey = ლ
 urlbar-result-menu-remove-from-history =
     .label = ისტორიიდან ამოშლა
     .accesskey = მ
@@ -704,6 +707,11 @@ bookmarks-other-bookmarks-menu =
     .label = სხვა სანიშნები
 bookmarks-mobile-bookmarks-menu =
     .label = მობილურის სანიშნები
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -728,6 +736,9 @@ bookmarks-tools-menu-button-visibility =
             [true] სანიშნების მენიუს მოცილება ხელსაწყოთა ზოლიდან
            *[other] სანიშნების მენიუს დამატება ხელსაწყოთა ზოლზე
         }
+
+##
+
 bookmarks-search =
     .label = სანიშნების ძიება
 bookmarks-tools =
