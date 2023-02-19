@@ -67,6 +67,7 @@ cfr-cookie-banner-accept-button = Napšašowanja zachyśiś
     .accesskey = N
 cfr-cookie-banner-reject-button = Nic něnto
     .accesskey = N
+cfr-cookie-banner-handling-header-variant-1 = Mjenjej cookiejowych wuskokujucych woknow wiźeś
 cfr-cookie-banner-accept-button-variant-1 = Wuskokujuce wokna zachyśiś
     .accesskey = u
 cfr-cookie-banner-reject-button-variant-1 = Ně, źěkujom se
@@ -238,6 +239,23 @@ firefoxview-spotlight-promo-secondarybutton = Pśeskócyś
 
 colorways-cfr-primarybutton = Barwowu kombinaciju wubraś
     .accesskey = B
+
+## Cookie Banner Handling CFR
+
+cfr-cookiebanner-accept-button-v2 = Napšašowanja wótpokazaś
+    .accesskey = N
+cfr-cookiebanner-reject-button = Nic něnto
+    .accesskey = N
+cfr-cookiebanner-header-variant-1 = Mjenjej cookiejowych wuskokujucych woknow wiźeś
+cfr-cookiebanner-accept-button-variant-1 = Wuskokujuce wokna zachyśiś
+    .accesskey = u
+cfr-cookiebanner-reject-button-variant-1 = Ně, źěkujom se
+    .accesskey = N
+cfr-cookiebanner-header-variant-2 = Reducěrowanje cookiejowych chórgojow
+cfr-cookiebanner-accept-button-variant-2 = Dowóliś
+    .accesskey = D
+cfr-cookiebanner-reject-button-variant-2 = Nic něnto
+    .accesskey = N
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
