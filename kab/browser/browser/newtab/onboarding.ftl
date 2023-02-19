@@ -358,11 +358,11 @@ mr2022-onboarding-colorway-tooltip-activist2 =
 mr2022-onboarding-colorway-description-activist = <b>Kečč·Kemm d Ameqnas.</b> Tettaǧǧaḍ-d amaḍal igerrez ugar n wamek i t-id-tufiḍ, trennuḍ tgelluḍ s wiyaḍ ad amnen s waya.
 mr2022-onboarding-colorway-label-dreamer = Win·Tin yettargun
 mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Win/tin yettargun (ajenjaṛ)
+    .title = Win/Tin yettargun (ajenjaṛ)
 mr2022-onboarding-colorway-description-dreamer = <b>Kečč·kemm d b·mmtirga.</b> Tumneḍ ssɛaya tetteg tissas, tettarra wiyaḍ sɛan tabɣest.
 mr2022-onboarding-colorway-label-innovator = Amesnulfu
 mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Amesnulfu (aččini)
+    .title = Amesnulfu/Tamesnulfut (aččini)
 mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulfuṭ.</b> Tettwaliḍ tignatin deg yal adeg, tettḥazeḍ ula d tudert n wid i ak·am-d-yezzin.
 
 ## MR2022 Multistage Mobile Download screen strings

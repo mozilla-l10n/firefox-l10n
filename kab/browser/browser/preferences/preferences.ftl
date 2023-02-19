@@ -73,6 +73,17 @@ restart-later = Ales asenker ticki
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> issenqad aɣewwar-a.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = ṭ
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Iγewwaṛen…
     .accesskey = I
 containers-disable-alert-title = Mdel akk iccaren imagbaren?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ma tekkseḍ iccaren imagbaren tura, iccer amagbar { $tabCount } ad yemdel. Tebɣiḍ ad tekkseḍ armad n yiccaren imagbaren?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Mdel  { $tabCount } iccer amagbar
        *[other] Mdel { $tabCount } iccaren imagbaren
     }
+
+##
+
 containers-disable-alert-cancel-button = Eǧǧ-it yermed
 containers-remove-alert-title = Kkes amagbar-a?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Ma tekkseḍ amagbar-a tura, iccer amagbar { $count } ad ittwamdel. Tebɣiḍ ad tekkseḍ amagbar-a?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Semɣeṛ/Semẓi
 preferences-default-zoom = Zoom awurman
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Sutur yal tikelt
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Seqdec { $plugin-name } (deg { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Issin ugar
 update-application-title = Ileqman n { -brand-short-name }
 update-application-description = Ḥrez { -brand-short-name } yettwalqem i tmellit ifazen, arkad, akked tɣellist.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Lqem { $version } <a data-l10n-name="learn-more">D acu i d amaynut</a>
 update-history =
     .label = Sken-d azray n ulqqem…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = ɣ
 update-setting-write-failure-title2 = Tuccḍa deg usekles n yiɣewwaren n uleqqem
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Azal afellay n ukala n ugbur
 performance-limit-content-process-enabled-desc = Ikalan n ugbur-nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas n waccaren, maca akka ad iseqdec aṭas n tkatut.
 performance-limit-content-process-blocked-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a data-l10n-name="learn-more">Issin amek ara tesneqdeḍ ma yella agetakala yermed</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (amezwer)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }
 home-prefs-recommended-by-description-new = Agbur ufrin i s-yettusuddsen sɣur { $provider }, d aḥric seg twacult { -brand-product-name }
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Tafrant n yismal d ugbur n melmi kan
 home-prefs-snippets-header =
     .label = Tiwzillin
 home-prefs-snippets-description-new = Iwellihen d yisallen sɣur { -vendor-short-name } akked { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -623,7 +651,7 @@ search-find-more-link = Aff ugar n yimseddayen n unadi
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Sleg awal n tsarutt
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Tferneḍ awal n tsarutt i  yettusqedcen yakan sɣur "{ $name }".. Ma ulac aɣilif fren wayeḍ.
 search-keyword-warning-bookmark = Tferneḍ awal n tsarutt i yettusqedcen yakan di tecreḍṭ n usebter. Ma ulac aɣilif fren wayeḍ.
 
@@ -670,8 +698,15 @@ sync-sign-out =
     .accesskey = F
 sync-manage-account = Sefrek amiḍan
     .accesskey = m
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+
+##
+
 sync-resend-verification =
     .label = Ales tuzna n usentem
     .accesskey = d
@@ -794,6 +829,8 @@ forms-breach-alerts =
     .label = Sken ilɣa i wawalen uffiren n yismal i teɛna trewla n yisefka
     .accesskey = k
 forms-breach-alerts-learn-more-link = Issin ugar
+relay-integration =
+    .label = Rmed { -relay-brand-name } deg umsefrak-ik•im { -brand-short-name } n wawal uffir
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Ččar inekcam d wawalen uffiren s wudem awurman
@@ -882,8 +919,8 @@ history-clear-button =
 sitedata-header = Inagan n tuqna akked isefka n usmel
 sitedata-total-size-calculating = Asiḍen n teɣzi n yisefka akked tuɣzi n tuffirt…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tskelseḍ inagan n tuqqna, isefka n usmel, daɣen tuffirt tesseqdac akka tura { $value } { $unit } seg adeg n tallunt n tkatut n uḍebsi.
 sitedata-learn-more = Lmed ugar
 sitedata-delete-on-close =
@@ -998,6 +1035,9 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         Sekyed s wudem uzwir tamahilt n tbaḍnit iǧehden akk i urǧin i nfeṣṣel
         tbaḍnit iǧehden akk urǧin i nfeṣṣel yakan
     .accesskey = S
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ammesten asemday mgal inagan n tuqqna itegg talast i yinagan n tuqqna ɣef usmel ideg telliḍ, ineḍfaren ur ssawaḍen ara ad ak·akem-ḍefren seg usmel ɣer wayeḍ.
 content-blocking-etp-standard-tcp-rollout-learn-more = Issin ugar
