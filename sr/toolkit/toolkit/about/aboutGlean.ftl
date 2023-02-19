@@ -27,6 +27,11 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } Debug Ping Viewer
 about-glean-page-title2 = О { -glean-brand-name }-у
 about-glean-header = О { -glean-brand-name }-у
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    је библиотека за прикупљање података која се користи у { -vendor-short-name } пројектима.
+    Овај интерфејс је смишљен да га користе програмери и тестери за ручно
+    <a data-l10n-name="fog-link">тестирање</a>.
 about-glean-upload-enabled = Отпремање података је омогућено.
 about-glean-upload-disabled = Отпремање података је онемогућено.
 about-glean-upload-enabled-local = Отпремање података је омогућено само за слање на локални сервер.
@@ -55,6 +60,14 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = О тестирању
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Комплетна упутства су наведена у
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } документима тестирања</a>
+    и у <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } документацији</a>,
+    али укратко, да ручно проверите да ли ваш комплет алата ради:
+# This message is an option in a dropdown filled with untranslated names of pings.
+about-glean-no-ping-label = (немој слати пинг)
 controls-button-label-verbose = Примени подешавања и пошаљи пинг
 about-glean-about-data-header = О подацима
 about-glean-about-data-explanation =
