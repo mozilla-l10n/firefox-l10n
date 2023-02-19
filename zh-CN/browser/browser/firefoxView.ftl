@@ -47,7 +47,7 @@ firefoxview-tabpickup-password-locked-description = 若要接收您的标签页�
 firefoxview-tabpickup-password-locked-link = 详细了解
 firefoxview-tabpickup-password-locked-primarybutton = 请输入主密码
 firefoxview-tabpickup-signed-out-header = 登录以重新连接
-firefoxview-tabpickup-signed-out-description = 登录 { -fxaccount-brand-name } 即可重新连接并取回标签页。
+firefoxview-tabpickup-signed-out-description = 登录 { -fxaccount-brand-name }即可重新连接并取回标签页。
 firefoxview-tabpickup-signed-out-primarybutton = 登录
 firefoxview-tabpickup-syncing = 您的标签页正在同步，请稍等片刻。
 firefoxview-mobile-promo-header = 从手机或平板电脑接收标签页
@@ -70,7 +70,6 @@ firefoxview-pickup-tabs-badge = 最后浏览
 firefoxview-tabs-list-tab-button =
     .title = 新建标签页打开 { $targetURI }
 firefoxview-try-colorways-button = 配色随心换
-firefoxview-no-current-colorway-collection = 新的配色即将上线
 firefoxview-change-colorway-button = 更改配色
 # Variables:
 #  $intensity (String): Colorway intensity
