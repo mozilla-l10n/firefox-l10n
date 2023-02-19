@@ -258,8 +258,8 @@ colorways-cfr-header-today = Barbowe kombinacije „Njewotwisne hłosy“ dźens
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Preč z plackowymi chorhojemi!
 cfr-cookiebanner-body = { -brand-short-name } dowolić, wšě naprašowanja za plackowymi chorhojemi wotpokazać, jeli trjeba.
-cfr-cookiebanner-accept-button = Chorhoje zaćisnyć
-    .accesskey = C
+cfr-cookiebanner-accept-button-v2 = Naprašowanja wotpokazać
+    .accesskey = N
 cfr-cookiebanner-reject-button = Nic nětko
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Mjenje plackowych wuskakowacych woknow widźeć
