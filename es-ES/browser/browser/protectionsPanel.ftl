@@ -115,6 +115,7 @@ protections-panel-cookie-banner-view-go-back =
 protections-panel-cookie-banner-view-turn-off-for-site = ¿Desactivar la reducción de aviso de cookies para { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = ¿Activar la reducción de aviso de cookies para este sitio?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } borrará las cookies de este sitio y recargará la página. Borrar todas las cookies puede cerrar su sesión o vaciar los carritos de compras.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } intenta rechazar automáticamente las solicitudes de cookies en sitios compatibles.
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desactivar
 protections-panel-cookie-banner-view-turn-on = Activar
