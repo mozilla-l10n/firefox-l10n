@@ -28,12 +28,18 @@ callout-firefox-view-colorways-reminder-subtitle = Seɣmu iminig-ik·im s tiɣma
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Snerni tunigin-inek·inem s tririt n waccaren
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Kcem ɣer yiccaren-ik•im yeldin seg yibenk tebɣiḍ. Rnu mtawi ticraḍ n yisebtaren d wawalen uffiren i tesɛiḍ d wugar.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Bdu
 
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Ẓreg PDFs s ufecku-nneɣ n yiḍrisen amaynut
 callout-pdfjs-edit-body-a = Ččar tiferkiyin, rnu iwenniten, neɣ aru tizmilin srid deg { -brand-short-name }.
+callout-pdfjs-edit-body-b = Zgel anadi ɣef yimaẓragen ilelliyen ɣef uẓeṭṭa. Ččar tiferkiyin, rnu iwenniten, neɣ aru tizmilin srid deg { -brand-short-name }.
 callout-pdfjs-edit-button = Uḍfir
 callout-pdfjs-draw-title = Sezmel isemliyensufecku-nneɣ amaynut n usuneɣ
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Creḍ PDFs, syin sekles ibeddilen-ik•im.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Dayen asiggez d usnirem. Creḍ PDFs, syin sekles ibeddilen-ik•im.
 callout-pdfjs-draw-button = Awi-t!

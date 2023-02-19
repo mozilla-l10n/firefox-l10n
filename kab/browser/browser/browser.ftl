@@ -968,6 +968,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } yetteffer tansa-k•m n yimayl n tidet akken ad iɛawen deg ummesten-ik•im seg trewla n yisefka d yispamen.
 # Variables:
 #  $sitename (String): name of the site where user enters their Relay mask
 #  $useremail (String): user email that will receive messages
