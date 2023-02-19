@@ -54,6 +54,11 @@ neterror-dns-not-found-hint-firewall = Senqqed aya { -brand-short-name } yettwas
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s umefru-nneɣ DNS aɣellsan. Da ara tafeḍ iwacu:
+neterror-dns-not-found-trr-only-attackers = Ma tkemmleḍ, aḥric wis kraḍ yezmer ad iwali ismal iɣer trezzuḍ neɣ ad k-m-yazen ɣer usmel ideg ulac laman.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ur yessaweḍ ara ad yeqqen ɣer { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Tuqqna ɣer { $trrDomain } teṭṭef ugar n wayen yetturaǧun.
+neterror-dns-not-found-trr-offline = Ur teqqineḍ ara ɣer internet.
 
 ## Native fallback specific messages
 ## Variables:
