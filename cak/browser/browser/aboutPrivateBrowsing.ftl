@@ -27,6 +27,7 @@ about-private-browsing-get-privacy = Tak'ulu' ato'ik pa ruwi' ichinanem xab'akuc
 about-private-browsing-hide-activity-1 = Tawewaj ri asamaj pa ruwi' okem pa k'amaya'l chuqa' ri ak'ojlib'al rik'in { -mozilla-vpn-brand-name }. Jun pitz'oj nunük' jun jikïl okem, achi'el chuqa' pa winaqil Wi-Fi.
 about-private-browsing-prominent-cta = Tachajij ri awichinanem rik'in { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Tiqasäx { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Ichinan okem xab'akuchi'
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
