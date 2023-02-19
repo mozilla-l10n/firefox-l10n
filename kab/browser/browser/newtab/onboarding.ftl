@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Rnu asentel
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Ini azul i { -brand-short-name }
+mr1-return-to-amo-addon-title = Yettunefk-ak•am-d yiminig arurad uslig. Tura, tzemreḍ ad ternuḍ <b>{ $addon-name }</b> daɣen ad tafeḍ ugar akken { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = Rnu { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
