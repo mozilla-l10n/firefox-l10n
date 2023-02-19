@@ -144,9 +144,15 @@ urlbar-tip-icon-description =
     .alt = Tip:
 urlbar-result-menu-button =
     .title = Meni wócyniś
+urlbar-result-menu-learn-more =
+    .label = Dalšne informacije
+    .accesskey = D
 urlbar-result-menu-remove-from-history =
     .label = Z historije wótwónoźeś
     .accesskey = h
+urlbar-result-menu-tip-get-help =
+    .label = Pomoc se wobstaraś
+    .accesskey = P
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -710,6 +716,11 @@ bookmarks-other-bookmarks-menu =
     .label = Druge cytańske znamjenja
 bookmarks-mobile-bookmarks-menu =
     .label = Mobilne cytańske znamjenja
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -734,6 +745,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Meni cytańskich znamjenjow ze symboloweje rědki wótwónoźeś
            *[other] Symbolowej rědce meni cytańskich znamjenjow pśidaś
         }
+
+##
+
 bookmarks-search =
     .label = Cytańske znamjenja pytaś
 bookmarks-tools =
