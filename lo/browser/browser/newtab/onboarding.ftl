@@ -70,6 +70,10 @@ mr1-onboarding-reduce-motion-button-label = ປິດການເຄື່ອນ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = ເລີ່ມຕົ້ນໃຊ້ງານ
+mr1-onboarding-welcome-header = ຍິນດີຕ້ອນຮັບສູ່ { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = ບໍ່ແມ່ນຕອນນີ້
 mr1-onboarding-sign-in-button-label = ເຂົ້າສູ່ລະບົບ
 
@@ -289,6 +293,7 @@ mr2022-onboarding-mobile-download-title = ເລື່ອນຈາກແລັ�
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-subtitle = ບໍ່ມີຄຸກກີ້ ຫຼືປະຫວັດທີ່ບັນທຶກໄວ້, ທັນທີຈາກເດັສທັອບຂອງທ່ານ. ຄົ້ນຫາຄືກັບບໍ່ມີໃຜເບິ່ງ.
 
 ## MR2022 Privacy Segmentation screen strings
 
