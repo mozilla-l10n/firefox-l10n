@@ -65,3 +65,11 @@ about-private-browsing-pin-promo-link-text = { PLATFORM() ->
    *[other] Aggiungi alla barra delle applicazioni
 }
 about-private-browsing-pin-promo-title = Niente cookie né cronologia, direttamente dal tuo desktop. Naviga come se nessuno ti stesse guardando.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Stop ai banner per i cookie
+about-private-browsing-cookie-banners-promo-button = Riduci i banner per i cookie
+about-private-browsing-cookie-banners-promo-message = Consenti a { -brand-short-name } di rispondere automaticamente alle richieste nei pop-up per i cookie, così potrai ritornare a navigare senza distrazioni. Dove possibile, { -brand-short-name } rifiuterà tutte le richieste.
