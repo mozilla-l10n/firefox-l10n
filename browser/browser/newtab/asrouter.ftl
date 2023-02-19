@@ -252,8 +252,8 @@ colorways-cfr-header-today = Farbwelten "Unabhängige Stimmen" laufen heute ab
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Weg mit Cookie-Bannern!
 cfr-cookiebanner-body = { -brand-short-name } erlauben, alle Cookie-Banner-Anfragen nach Möglichkeit automatisch abzulehnen.
-cfr-cookiebanner-accept-button = Banner schließen
-    .accesskey = s
+cfr-cookiebanner-accept-button-v2 = Anfragen ablehnen
+    .accesskey = a
 cfr-cookiebanner-reject-button = Nicht jetzt
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = Weniger Cookie-Pop-ups sehen
