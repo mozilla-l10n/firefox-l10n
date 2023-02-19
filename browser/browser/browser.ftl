@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Tip:
 urlbar-result-menu-button =
     .title = Otvoriť ponuku
+urlbar-result-menu-learn-more =
+    .label = Ďalšie informácie
+    .accesskey = a
 urlbar-result-menu-remove-from-history =
     .label = Odstrániť z histórie
     .accesskey = h
@@ -711,6 +714,11 @@ bookmarks-other-bookmarks-menu =
     .label = Ostatné záložky
 bookmarks-mobile-bookmarks-menu =
     .label = Záložky mobilného Firefoxu
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -735,6 +743,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Odstrániť ponuku záložiek z panela nástrojov
            *[other] Pridať ponuku záložiek do panela nástrojov
         }
+
+##
+
 bookmarks-search =
     .label = Hľadať v záložkách
 bookmarks-tools =
