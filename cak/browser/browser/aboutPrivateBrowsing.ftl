@@ -35,6 +35,7 @@ about-private-browsing-focus-promo-text = Ri ruchokoy qoyonib'al nusamajij ichin
 about-private-browsing-focus-promo-header-b = Tak'waj ri ichinan okem pa k'amaya'l pan awoyonib'al
 about-private-browsing-focus-promo-text-b = Tawokisaj { -focus-brand-name } toq yakanon pan ewäl, ri man nawajo' ta chi nutzu' ri nab'ey awokik'amaya'l.
 about-private-browsing-focus-promo-header-c = Nïm runimilem ichinanem pa taq oyonib'äl
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } jantape' yeruyüj ri taq anatab'al toq yeruq'ät taq rutzijol chuqa' taq ojqanela'.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -52,3 +53,10 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Rucha'oj ichinam okem pa jun pitz'oj
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Tiya' pa Dock
+       *[other] Tiya' pa ri rukajtz'ik samajib'äl
+    }
+about-private-browsing-pin-promo-title = Majun kuki chuqa' natab'äl eyakon, jumul pan ach'atal. Katok achi'el majun nitz'eto awichin.
