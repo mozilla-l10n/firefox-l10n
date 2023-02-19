@@ -34,7 +34,7 @@ community-2 = { -brand-short-name } vytvára <label data-l10n-name="community-mo
 helpus = Chcete nám pomôcť? <label data-l10n-name="helpus-donateLink">Zašlite svoj príspevok</label> alebo <label data-l10n-name="helpus-getInvolvedLink">sa zapojte!</label>
 bottomLinks-license = Informácie o licenciách
 bottomLinks-rights = Práva koncového používateľa
-bottomLinks-privacy = Zásady ochrany súkromia
+bottomLinks-privacy = Zásady ochrany osobných údajov
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

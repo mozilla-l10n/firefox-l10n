@@ -8,9 +8,16 @@ search-header =
     .searchbuttonlabel = Hľadať
 search-header-shortcut =
     .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Rozšírenia a témy získate na stránkach <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = Slovníky získate na stránkach <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Jazykové balíky získate na stránkach <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Nemáte nainštalované žiadne doplnky tohto typu
 list-empty-available-updates =
@@ -144,7 +151,7 @@ addon-category-sitepermission-title =
     .title = Oprávnenia stránok
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Povolenia stránky pre { $host }
 
 ## These are global warnings
@@ -224,6 +231,8 @@ shortcuts-duplicate-warning-message = Skratka { $shortcut } sa používa na viac
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Túto skratku už používa { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Zobraziť { $numberToShow } ďalšiu
@@ -249,7 +258,7 @@ discopane-notice-recommendations =
     Niektoré z týchto odporúčaní sú prispôsobené. Sú založené na iných rozšíreniach, ktoré už
     máte nainštalované, nastaveniach profilu a štatistikách používania.
 discopane-notice-learn-more = Ďalšie informácie
-privacy-policy = Zásady ochrany súkromia
+privacy-policy = Zásady ochrany osobných údajov
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -302,7 +311,7 @@ theme-colorways-button = Vyskúšajte farebné témy
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Zmeniť farebnú tému
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Dostupná do { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Povolené zásuvné moduly
 plugin-disabled-heading = Zakázané zásuvné moduly
@@ -389,6 +398,8 @@ addon-permissions-optional = Voliteľné povolenia pre splnenie prídavných fun
 addon-permissions-learnmore = Ďalšie informácie o povoleniach
 recommended-extensions-heading = Odporúčané rozšírenia
 recommended-themes-heading = Odporúčané témy vzhľadu
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Poskytuje nasledujúce oprávnenia pre <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -415,8 +426,13 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Doplnok { $name } nie je kompatibilný s verziou { $version } aplikácie { -brand-short-name }.
 details-notification-incompatible-link = Ďalšie informácie
 details-notification-unsigned-and-disabled = Doplnok { $name } nemohol byť overený pre použitie v prehliadači { -brand-short-name } a bol preto zakázaný.
