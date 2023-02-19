@@ -11,6 +11,7 @@
 
 ##
 
+firefox-relay-must-login-to-fxa = Ilaq ad teqqneḍ ɣer{ -fxaccount-brand-name } akken ad tesqedceḍ { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Sefrek igelmusen
     .accesskey = g

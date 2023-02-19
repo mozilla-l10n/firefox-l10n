@@ -270,6 +270,8 @@ mr2022-onboarding-secondary-skip-button-label = Zgel takkayt-a
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Sekles syen kemmel
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Sbadu { -brand-short-name } d iminig amezwer
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Kter seg yiminig yezrin
 

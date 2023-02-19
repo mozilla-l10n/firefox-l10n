@@ -831,6 +831,7 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Issin ugar
 relay-integration =
     .label = Rmed { -relay-brand-name } deg umsefrak-ik•im { -brand-short-name } n wawal uffir
+relay-integration-learn-more-link = Issin ugar
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Ččar inekcam d wawalen uffiren s wudem awurman
