@@ -59,11 +59,18 @@ neterror-dns-not-found-trr-only-attackers = Ma tkemmleḍ, aḥric wis kraḍ ye
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ur yessaweḍ ara ad yeqqen ɣer { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tuqqna ɣer { $trrDomain } teṭṭef ugar n wayen yetturaǧun.
 neterror-dns-not-found-trr-offline = Ur teqqineḍ ara ɣer internet.
+neterror-dns-not-found-trr-unknown-host = Ulac tansa i d-yettwafen i usmel-a sɣur { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Yella-d wugur akken { $trrDomain }.
+neterror-dns-not-found-trr-unknown-problem = Ugur ur netturaǧu ara.
 
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s umefru-nneɣ DNS aɣellsan. Da ara tafeḍ iwacu:
+neterror-dns-not-found-native-fallback-attackers = Tzemreḍ ad tkemmleḍ s umefru DNS ur nelli ara d aɣellsan. Maca, aḥric wis kraḍ yezmer ad iwali ismal iɣer trezzuḍ neɣ ad k-m-yazen ɣer usmel ideg ulac laman.
+neterror-dns-not-found-native-fallback-heuristic = DNS s HTTPS tensa deg uẓeṭṭa-inek•inem.
+neterror-dns-not-found-native-fallback-not-confirmed = Tuqqna ɣer { $trrDomain } ur tewwid ara ɛad.
 
 ##
 
