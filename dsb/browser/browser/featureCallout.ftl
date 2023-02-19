@@ -36,4 +36,6 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Prědne kš
 callout-pdfjs-edit-title = Wobźěłajśo PDF z našym nowym rědom
 callout-pdfjs-edit-button = Dalej
 callout-pdfjs-draw-title = Signěrujśo dokumenty z našym nowym kresleńskim rědom
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Anotěrujśo PDF a składujśo pón swóje změny.
 callout-pdfjs-draw-button = Som to zrozměł!
