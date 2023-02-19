@@ -73,6 +73,17 @@ restart-later = Starta om senare
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> styr den här inställningen.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = k
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Inställningar…
     .accesskey = s
 containers-disable-alert-title = Stäng alla innehållsflikar?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Om du inaktiverar innehållsflikar nu, { $tabCount } innehållsflik kommer att stängas. Är du säker på att du vill inaktivera innehållsflikar?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Stäng { $tabCount } innehållsflik
        *[other] Stäng { $tabCount } innehållsflikar
     }
+
+##
+
 containers-disable-alert-cancel-button = Behåll aktiverad
 containers-remove-alert-title = Ta bort denna behållare?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Om du tar bort denna behållaren nu, kommer { $count } innehållsflik att stängas. Är du säker på att du vill ta bort denna behållare?
@@ -230,6 +248,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Standardzoom
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -322,15 +342,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Fråga alltid
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Använd { $plugin-name } (i { -brand-short-name })
 applications-open-inapp =
@@ -373,6 +393,8 @@ play-drm-content =
 play-drm-content-learn-more = Lär dig mer
 update-application-title = Uppdateringar för { -brand-short-name }
 update-application-description = Håll { -brand-short-name } uppdaterad för bästa prestanda, stabilitet och säkerhet.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Vad är nytt</a>
 update-history =
     .label = Visa uppdateringshistorik…
@@ -399,7 +421,7 @@ update-application-suppress-prompts =
     .accesskey = f
 update-setting-write-failure-title2 = Det gick inte att spara uppdateringsinställningar
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -429,7 +451,7 @@ performance-limit-content-process-option = Gräns för innehållsprocesser
 performance-limit-content-process-enabled-desc = Ytterligare innehållsprocesser kan förbättra prestanda när du använder flera flikar, men kommer också att använda mer minne.
 performance-limit-content-process-blocked-desc = Ändring av antalet innehållsprocesser är endast möjligt med multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Lär dig hur du kontrollerar om multiprocess är aktiverat</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
 
@@ -535,6 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Rekommenderas av { $provider }
 home-prefs-recommended-by-description-new = Särskilt innehåll valt av { $provider }, en del av familjen { -brand-product-name }
@@ -564,6 +590,8 @@ home-prefs-recent-activity-description = Ett urval av senaste webbplatser och in
 home-prefs-snippets-header =
     .label = Kort information
 home-prefs-snippets-description-new = Tips och nyheter från { -vendor-short-name } och { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -628,7 +656,7 @@ search-find-more-link = Hitta fler sökmotorer
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicera nyckelord
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Du har valt ett nyckelord som redan används av “{ $name }”. Var god välj ett annat.
 search-keyword-warning-bookmark = Du har valt ett nyckelord som redan används av ett bokmärke. Var god välj ett annat.
 
@@ -675,8 +703,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Hantera konto
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } är inte verifierat.
 sync-signedin-login-failure = Logga in för att återansluta { $email }
+
+##
+
 sync-resend-verification =
     .label = Skicka verifiering igen
     .accesskey = g
@@ -890,8 +925,8 @@ history-clear-button =
 sitedata-header = Kakor och webbplatsdata
 sitedata-total-size-calculating = Beräkning av webbplatsdata och cachestorlek…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dina lagrade kakor, webbplatsdata och cache använder för tillfället { $value } { $unit } diskutrymme.
 sitedata-learn-more = Läs mer
 sitedata-delete-on-close =
@@ -1103,7 +1138,7 @@ permissions-addon-exceptions =
 
 collection-header = Datainsamling och användning för { -brand-short-name }
 collection-description = Vi strävar alltid efter att ge dig val och samlar endast in vad vi behöver för tillhandahålla och förbättra { -brand-short-name } för alla. Vi ber alltid om tillåtelse innan vi tar emot personliga uppgifter.
-collection-privacy-notice = Sekretesspolicy
+collection-privacy-notice = Sekretessmeddelande
 collection-health-report-telemetry-disabled = Du tillåter inte längre { -vendor-short-name } att fånga in teknisk data och interaktionsdata. All tidigare data kommer att raderas inom 30 dagar.
 collection-health-report-telemetry-disabled-link = Läs mer
 collection-health-report =
