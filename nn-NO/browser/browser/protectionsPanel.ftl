@@ -105,6 +105,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 protections-panel-cookie-banner-handling-header = Redusering av infoskapselbanner
 protections-panel-cookie-banner-handling-enabled = På for denne nettstaden
 protections-panel-cookie-banner-handling-disabled = Av for denne nettstaden
+protections-panel-cookie-banner-handling-undetected = Nettstaden er for augneblinken ikkje støtta
 protections-panel-cookie-banner-view-title =
     .title = Redusering av infoskapselbanner
 protections-panel-cookie-banner-view-go-back =
