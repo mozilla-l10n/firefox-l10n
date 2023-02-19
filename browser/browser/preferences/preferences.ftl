@@ -73,6 +73,17 @@ restart-later = Reštartovať neskôr
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = Toto nastavenie je spravované rozšírením <img data-l10n-name="icon"/><strong>{ $name }</strong>
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = V
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Nastavenia…
     .accesskey = i
 containers-disable-alert-title = Zavrieť všetky kontajnerové karty?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ak zakážete kontajnerové karty, { $tabCount } kontajnerová karta bude zatvorená. Naozaj chcete zakázať kontajnerové karty?
@@ -167,10 +182,13 @@ containers-disable-alert-ok-button =
         [few] Zavrieť { $tabCount } kontajnerové karty
        *[other] Zavrieť { $tabCount } kontajnerových kariet
     }
+
+##
+
 containers-disable-alert-cancel-button = Nechať povolené
 containers-remove-alert-title = Odstrániť tento kontajner?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Ak teraz odstránite tento kontajner, zavrie sa { $count } kontajnerová karta. Naozaj chcete tento kontajner odstrániť?
@@ -233,6 +251,8 @@ advanced-fonts =
 preferences-zoom-header = Veľkosť stránky
 preferences-default-zoom = Predvolená veľkosť
     .accesskey = d
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage } %
 preferences-zoom-text-only =
@@ -325,15 +345,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Vždy sa opýtať
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Použiť { $plugin-name } (v prehliadači { -brand-short-name })
 applications-open-inapp =
@@ -376,6 +396,8 @@ play-drm-content =
 play-drm-content-learn-more = Ďalšie informácie
 update-application-title = Aktualizácie prehliadača { -brand-short-name }
 update-application-description = Najvyšší výkon, stabilitu a bezpečnosť dosiahnete tak, že budete udržovať aplikáciu { -brand-short-name } neustále aktuálnu.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Verzia { $version } <a data-l10n-name="learn-more">Čo je nové</a>
 update-history =
     .label = Zobraziť históriu aktualizácii…
@@ -402,7 +424,7 @@ update-application-suppress-prompts =
     .accesskey = m
 update-setting-write-failure-title2 = Chyba pri ukladaní nastavení pre aktualizácie
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -432,7 +454,7 @@ performance-limit-content-process-option = Limit procesov obsahu
 performance-limit-content-process-enabled-desc = Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.
 performance-limit-content-process-blocked-desc = Zmena počtu procesov s obsahom je možná len pri použití viacprocesového režimu aplikácie { -brand-short-name }. <a data-l10n-name="learn-more">Pozrite sa, ako môžete skontrolovať stav viacprocesového režimu</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predvolená)
 
@@ -538,6 +560,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Odporúča { $provider }
 home-prefs-recommended-by-description-new = Výnimočný obsah vybraný službou { $provider }, ktorá je súčasťou rodiny { -brand-product-name(case: "gen") }
@@ -567,6 +593,8 @@ home-prefs-recent-activity-description = Výber z nedávno navštívených strá
 home-prefs-snippets-header =
     .label = Snippety
 home-prefs-snippets-description-new = Tipy a novinky od spoločnosti { -vendor-short-name } a aplikácie { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -632,7 +660,7 @@ search-find-more-link = Nájsť ďalšie vyhľadávacie moduly
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicitné kľúčové slovo
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané modulom "{ $name }". Vyberte nejaké iné.
 search-keyword-warning-bookmark = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané jednou zo záložiek. Vyberte nejaké iné.
 
@@ -679,8 +707,15 @@ sync-sign-out =
     .accesskey = h
 sync-manage-account = Spravovať účet
     .accesskey = p
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = Adresa { $email } nie je overená.
 sync-signedin-login-failure = Ak sa chcete pripojiť k { $email } , musíte sa prihlásiť.
+
+##
+
 sync-resend-verification =
     .label = Znova odoslať overenie
     .accesskey = d
@@ -894,8 +929,8 @@ history-clear-button =
 sitedata-header = Cookies a údaje stránok
 sitedata-total-size-calculating = Výpočet veľkosti údajov stránky a vyrovnávacej pamäte…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Uložené cookies, údaje stránok a vyrovnávacia pamäť zaberajú { $value } { $unit } priestoru na disku.
 sitedata-learn-more = Ďalšie informácie
 sitedata-delete-on-close =
@@ -1107,7 +1142,7 @@ permissions-addon-exceptions =
 
 collection-header = Zber a použitie údajov o aplikácii { -brand-short-name }
 collection-description = Keď sa jedná o údaje, dávame vám vždy na výber. Zbierame len údaje, ktoré nám pomôžu aplikáciu { -brand-short-name } naďalej zlepšovať. Pred odoslaním osobných údajov vždy žiadame o váš súhlas.
-collection-privacy-notice = Zásady ochrany súkromia
+collection-privacy-notice = Vyhlásenie o ochrane osobných údajov
 collection-health-report-telemetry-disabled = Odosielanie technických údajov a údajov o interakcii spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.
 collection-health-report-telemetry-disabled-link = Ďalšie informácie
 collection-health-report =
