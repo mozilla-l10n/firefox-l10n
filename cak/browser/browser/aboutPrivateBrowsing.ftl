@@ -28,10 +28,13 @@ about-private-browsing-hide-activity-1 = Tawewaj ri asamaj pa ruwi' okem pa k'am
 about-private-browsing-prominent-cta = Tachajij ri awichinanem rik'in { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Tiqasäx { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ichinan okem xab'akuchi'
+about-private-browsing-focus-promo-text = Ri ruchokoy qoyonib'al nusamajij ichinan okem junelik yeruyüj ri taq natab'äl chuqa' taq koki.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Tak'waj ri ichinan okem pa k'amaya'l pan awoyonib'al
+about-private-browsing-focus-promo-text-b = Tawokisaj { -focus-brand-name } toq yakanon pan ewäl, ri man nawajo' ta chi nutzu' ri nab'ey awokik'amaya'l.
+about-private-browsing-focus-promo-header-c = Nïm runimilem ichinanem pa taq oyonib'äl
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
