@@ -46,7 +46,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = O testovaní
 # This message is followed by a numbered list.
-about-glean-manual-testing = Úplné pokyny sú zdokumentované v <a data-l10n-name="fog-instrumentation-test-doc-link"> dokumentácii { -fog-brand-name } na inštrumentačné testovanie</a> a v <a data-l10n- name="glean-sdk-doc-link">dokumentácii { glean-sdk-brand-name }</a>, ale ak chcete manuálne otestovať, či vaše inštrumentačné testovanie funguje, mali by ste:
+about-glean-manual-testing = Úplné pokyny sú zdokumentované v <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentácii { -fog-brand-name } na inštrumentačné testovanie</a> a v <a data-l10n-name="glean-sdk-doc-link">dokumentácii { glean-sdk-brand-name }</a>, ale ak chcete manuálne otestovať, či vaše inštrumentačné testovanie funguje, mali by ste:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (neodosielajte žiadny ping)
 # An in-line text input field precedes this string.
@@ -54,12 +54,17 @@ about-glean-label-for-tag-pings = Uistite sa, že v tomto poli je zapamätateľn
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names = V tomto zozname vyberte príkaz ping, v ktorom sa nachádza vaša inštrumentácia. Ak sa nachádza vo <a data-l10n-name="custom-ping-link">vlastnom príkaze ping</a>, vyberte ho. V opačnom prípade predvolená hodnota pingu pre metriku <code>event</code>je  <code>events</code> a predvolená hodnota pingu pre všetky ostatné metriky je <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings = (Voliteľné. Označte toto políčko, ak chcete, aby sa pri odosielaní zaznamenávali aj pingy. Okrem toho budete musieť <a data-l10n-name="enable-logging-link">povoliť ladenie</a>.)
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
 about-glean-label-for-controls-submit =
     Stlačením tohto tlačidla označíte všetky pingy nástroja { -glean-brand-name } vašou značkou a odošlite vybratý ping.
     (Všetky pingy odoslané odvtedy až do reštartovania aplikácie budú označené značkou <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Navštívte stránku { glean-debug-ping-viewer-brand-name }, kde nájdete ping s vašou značkou</a>. Od stlačenia tlačidla po príchod pingu by to nemalo trvať dlhšie ako niekoľko sekúnd. Niekedy to môže trvať niekoľko minút.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation = Pre ďalšie <i>ad hoc</i> testovanie môžete tiež určiť aktuálnu hodnotu konkrétnej časti inštrumentácie otvorením konzoly devtools tu na stránke <code>about:glean</code> a použitím API <code>testGetValue()</code> ako <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Použiť nastavenia a odoslať ping
 about-glean-about-data-header = O údajoch
 about-glean-about-data-explanation =
