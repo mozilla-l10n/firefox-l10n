@@ -20,4 +20,6 @@ controls-button-label = Enviar los paramètres
 glean-sdk-brand-name = SDK { -glean-brand-name }
 about-glean-page-title2 = A prepaus de { -glean-brand-name }
 about-glean-header = A prepaus de { -glean-brand-name }
+about-glean-upload-enabled = Lo mandadís de donadas es activat.
+about-glean-upload-disabled = Lo mandadís de donadas es desactivat.
 controls-button-label-verbose = Aplicar los paramètres e enviar lo ping
