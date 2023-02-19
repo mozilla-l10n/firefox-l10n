@@ -161,6 +161,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Aru cwiṭ, af-d ugar : nadi s { $engineName } srid seg ufeggag n tensa.
 urlbar-search-tips-redirect-2 = Bdu anadi-ik deg ufeggag n tansiwin i wakken ad tsekneḍ isumar seg { $engineName } daɣen seg umuzruy-ik n tunigin.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Anadi yuɣal yeshel ugar. Ɛreḍ ad terreḍ anadi-inek•inem d uzzig ugar deg ufeggag n tansiwin. Akken ad d-tessekneḍ tansa URL, ẓer Anadi, deg yiɣewwaṛen.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Fren anegzum-a akken ad tafeḍ ayen tettnadiḍ s tɣawla.
