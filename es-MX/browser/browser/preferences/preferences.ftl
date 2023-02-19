@@ -1215,4 +1215,4 @@ httpsonly-radio-disabled =
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
-choose-download-folder-title = Selecciona la carpeta que almacenará las descargas:
+choose-download-folder-title = Selecciona la carpeta de descarga:
