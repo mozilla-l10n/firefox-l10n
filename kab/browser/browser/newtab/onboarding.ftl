@@ -270,6 +270,8 @@ mr2022-onboarding-secondary-skip-button-label = Zgel takkayt-a
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Sekles syen kemmel
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Kter seg yiminig yezrin
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -351,10 +353,16 @@ mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionary (azegzaw)
 mr2022-onboarding-colorway-description-visionary = <b>Kečč·Kemm d Visionary.</b> Tettcukkuteḍ aṭas deg tegnit-agi n tura, tettdeggireḍ wiyaḍ ad sugnen imal igerrzen ugar.
 mr2022-onboarding-colorway-label-activist = Ameɣnas
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Ameɣnas/Tameɣnast (anili)
 mr2022-onboarding-colorway-description-activist = <b>Kečč·Kemm d Ameqnas.</b> Tettaǧǧaḍ-d amaḍal igerrez ugar n wamek i t-id-tufiḍ, trennuḍ tgelluḍ s wiyaḍ ad amnen s waya.
 mr2022-onboarding-colorway-label-dreamer = Win·Tin yettargun
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Win/tin yettargun (ajenjaṛ)
 mr2022-onboarding-colorway-description-dreamer = <b>Kečč·kemm d b·mmtirga.</b> Tumneḍ ssɛaya tetteg tissas, tettarra wiyaḍ sɛan tabɣest.
 mr2022-onboarding-colorway-label-innovator = Amesnulfu
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Amesnulfu (aččini)
 mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulfuṭ.</b> Tettwaliḍ tignatin deg yal adeg, tettḥazeḍ ula d tudert n wid i ak·am-d-yezzin.
 
 ## MR2022 Multistage Mobile Download screen strings

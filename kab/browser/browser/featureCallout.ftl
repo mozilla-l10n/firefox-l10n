@@ -33,6 +33,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Bdu
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Ẓreg PDFs s ufecku-nneɣ n yiḍrisen amaynut
+callout-pdfjs-edit-body-a = Ččar tiferkiyin, rnu iwenniten, neɣ aru tizmilin srid deg { -brand-short-name }.
 callout-pdfjs-edit-button = Uḍfir
 callout-pdfjs-draw-title = Sezmel isemliyensufecku-nneɣ amaynut n usuneɣ
 callout-pdfjs-draw-button = Awi-t!

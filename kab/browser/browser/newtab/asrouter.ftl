@@ -224,13 +224,21 @@ firefoxview-spotlight-promo-secondarybutton = Suref
 
 colorways-cfr-primarybutton = Fren afran n yiniten
     .accesskey = F
+colorways-cfr-header-28days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg 16 deg yennayer
+colorways-cfr-header-14days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg sin n yimalasen
+colorways-cfr-header-7days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg yimalas-a.
+colorways-cfr-header-today = Afran n yiniten n tuɣac tilelliyin ad ifakk ass-a
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Dayen iɣarracen n yinagan n tuqqna!
+cfr-cookiebanner-body = Sireg { -brand-short-name } ad yagi s wudem awurman akk idurar n yiɣarracen n yinagan n tuqqna ma yella wamek.
 cfr-cookiebanner-accept-button-v2 = Aggi tuttriwin
     .accesskey = g
 cfr-cookiebanner-reject-button = Mačči tura
     .accesskey = M
+cfr-cookiebanner-header-variant-1 = Wali cwiṭ n yisfuyla udhimen n yinagan n tuqqna
 cfr-cookiebanner-reject-button-variant-1 = Ala, tanemmirt
     .accesskey = L
 cfr-cookiebanner-header-variant-2 = Asenqes n yiɣarracen n yinagan n tuqqna
