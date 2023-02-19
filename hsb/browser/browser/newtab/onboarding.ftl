@@ -266,6 +266,15 @@ fx100-upgrade-thank-you-body = Je naša 100. wersija { -brand-short-name }. Dźa
 fx100-upgrade-thanks-keep-body = Je naša 100. wersija! Dźakujemy so wam, zo sće dźěl našeho zhromadźenstwa. Dźeržće { -brand-short-name } jenož jedne kliknjenje wot přichodnych 100 zdaleny.
 mr2022-onboarding-secondary-skip-button-label = Tutón krok přeskočić
 
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Składować a pokročować
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Nastajće { -brand-short-name } jako standardny wobhladowak
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Z předchadneho wobhladowaka importować
+
 ## MR2022 New User Pin Firefox screen strings
 
 # Title used on about:welcome for new users when Firefox is not pinned.

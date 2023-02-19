@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Pokiw:
 urlbar-result-menu-button =
     .title = Meni wočinić
+urlbar-result-menu-learn-more =
+    .label = Dalše informacije
+    .accesskey = D
 urlbar-result-menu-remove-from-history =
     .label = Z historije wotstronić
     .accesskey = h
@@ -715,6 +718,11 @@ bookmarks-other-bookmarks-menu =
     .label = Druhe zapołožki
 bookmarks-mobile-bookmarks-menu =
     .label = Mobilne zapołožki
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -739,6 +747,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Meni zapołožkow ze symboloweje lajsty wotstronić
            *[other] Symbolowej lajsće meni zapołožkow přidać
         }
+
+##
+
 bookmarks-search =
     .label = Zapołožki pytać
 bookmarks-tools =
