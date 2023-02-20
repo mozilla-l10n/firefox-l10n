@@ -64,6 +64,19 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (ping njesłać)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Zawěsćće, zo je w předchadnym polu njezapomnita značka pytanja zmylka, zo byšće móhł swoje pingi pozdźišo spóznał.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Wubjerće z předchadneje lisćiny ping, kotryž wašu instrumentaciju wobsahuje.
+    Jeli je w <a data-l10n-name="custom-ping-link">swójskim pingu</a>, wubjerće tón.
+    Hewak je standard za metriku <code>event</code>
+    ping <code>events</code>
+    a standard za druhe metriki je
+    ping <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Na přeće. Wubjerće předchadne polo, jeli chceće, zo so pingi tež protokoluja, hdyž so wotesyłaja.
+    Dyrbiće nimo toho <a data-l10n-name="enable-logging-link">protokolowanje zmóžnić</a>.)
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
 about-glean-about-data-header = Wo datach
 about-glean-about-data-explanation =
