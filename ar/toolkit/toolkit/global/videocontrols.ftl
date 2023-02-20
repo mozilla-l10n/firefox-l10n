@@ -10,7 +10,6 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = يُحمّل:
 videocontrols-volume-control =
     .aria-label = مستوى الصوت
-
 videocontrols-play-button =
     .aria-label = شغّل
 videocontrols-pause-button =
@@ -27,20 +26,16 @@ videocontrols-casting-button-label =
     .aria-label = اعرض على الشاشة
 videocontrols-closed-caption-off =
     .offlabel = بدون
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ڤديو معترِض
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = شاهِده بوضع الڤديو المعترِض
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = شاهِد الڤديو أمام المتصفّح بينما تؤدي مهامك الأخرى في { -brand-short-name }
-
 videocontrols-error-aborted = توقف تحميل الفديو.
 videocontrols-error-network = توقف تشغيل الفديو بسبب عُطل شبكي.
 videocontrols-error-decode = تعذّر تشغيل الفديو لعطب في الملف.
@@ -48,7 +43,6 @@ videocontrols-error-src-not-supported = نسق أو نوع MIME الفديو غ�
 videocontrols-error-no-source = لم يُعثر على فديو بنسق أو نوع MIME مدعوم.
 videocontrols-error-generic = توقف تشغيل الفديو بسبب عُطل غير معروف.
 videocontrols-status-picture-in-picture = يعمل هذا الڤديو في وضع الڤديوهات المعترِضة.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -62,3 +56,12 @@ videocontrols-status-picture-in-picture = يعمل هذا الڤديو في وض
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }‏<span data-l10n-name="position-duration-format"> \‏ { $duration }</span>
+# This is a plain text version of the videocontrols-position-and-duration-labels
+# string, used by screenreaders.
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+videocontrols-scrubber-position-and-duration =
+    .aria-label = المكان
+    .aria-valuetext = { $position }‏ \‏ { $duration }
