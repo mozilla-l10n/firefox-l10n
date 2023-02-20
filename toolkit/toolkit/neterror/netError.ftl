@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Kiểm tra xem { -brand-short-name } có 
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua trình phân giải DNS đáng tin cậy của chúng tôi. Đây là lý do tại sao:
 neterror-dns-not-found-trr-only-attackers = Nếu bạn tiếp tục, một bên thứ ba có thể xem những trang web bạn truy cập hoặc đưa bạn đến một trang web không đáng tin cậy.
+neterror-dns-not-found-trr-third-party-warning = Bạn có thể tiếp tục với trình phân giải DNS không an toàn. Tuy nhiên, bên thứ ba có thể xem những trang web bạn truy cập.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } không thể kết nối đến { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Kết nối tới { $trrDomain } mất nhiều thời gian hơn dự kiến.
 neterror-dns-not-found-trr-offline = Bạn không kết nối với Internet.
