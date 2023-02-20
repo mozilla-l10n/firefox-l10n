@@ -7,6 +7,9 @@ about-logins-page-title = Identificants e senhals
 login-filter =
     .placeholder = Recercar d’identificants
 create-login-button = Crear un identificant novèl
+about-logins-login-filter =
+    .placeholder = Recercar d’identificants
+    .key = R
 create-new-login-button =
     .title = Crear un identificant novèl
 fxaccounts-sign-in-text = Accedissètz a vòstres senhals sus vòstres periferics
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Ajuda
 
 login-list =
     .aria-label = Identificants correspondents a la recèrca
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } identificant
@@ -106,6 +111,8 @@ login-item-time-used = Darrièra utilizacion : { DATETIME($timeUsed, day: "num
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Creacion
 login-item-timeline-action-updated = Mesa a jorn
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Suprimir aqueste identificant ?
 confirm-delete-dialog-message = Aquesta accion es irreversibla.
 about-logins-confirm-remove-dialog-confirm-button = Suprimir
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Suprimir
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } de totes los periferics sincronizats a vòstre { -fxaccount-brand-name }. Aquò suprimirà tanben las alèrtas de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
        *[other] Suprimirà totes los identificants qu’enregistrèretz dins { -brand-short-name } de totes los periferics sincronizats a vòstre { -fxaccount-brand-name }. Aquò suprimirà tanben las alèrtas de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Exportacion dels identificants e senhals
 about-logins-confirm-export-dialog-message = Vòstres senhals seràn salvats jos la forma de tèxt legible (per exemple, « senh4l-f3bl3 ») ; atal qual que siá que pòt dobrir lo fichièr poirà los consultar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
