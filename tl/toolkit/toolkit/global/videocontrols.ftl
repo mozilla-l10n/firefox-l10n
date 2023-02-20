@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Mga Closed Caption
-
 videocontrols-play-button =
     .aria-label = I-play
 videocontrols-pause-button =
@@ -29,20 +28,16 @@ videocontrols-casting-button-label =
     .aria-label = Isalin sa Screen
 videocontrols-closed-caption-off =
     .offlabel = Nakapatay
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-Picture
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Panoorin sa Picture-in-Picture
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Magpaandar ng mga video sa foreground habang may iba ka pang mga ginagawa sa { -brand-short-name }
-
 videocontrols-error-aborted = Ang pagload ng video ay tumigil.
 videocontrols-error-network = Ang pagplay ng video ay nahinto dahil sa network error.
 videocontrols-error-decode = Ang video ay hindi maipapalabas dahil sira ang file.
@@ -50,7 +45,6 @@ videocontrols-error-src-not-supported = Ang format ng video o MIME type ay hindi
 videocontrols-error-no-source = Walang suportadong format at MIME type ng video ang nahanap.
 videocontrols-error-generic = Ang pagplay ng video ay nahinto sa hindi malamang error.
 videocontrols-status-picture-in-picture = Ang video na ito ay umaandar sa Picture-in-Picture mode.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -64,3 +58,12 @@ videocontrols-status-picture-in-picture = Ang video na ito ay umaandar sa Pictur
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+# This is a plain text version of the videocontrols-position-and-duration-labels
+# string, used by screenreaders.
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+videocontrols-scrubber-position-and-duration =
+    .aria-label = Posisyon:
+    .aria-valuetext = { $position } / { $duration }
