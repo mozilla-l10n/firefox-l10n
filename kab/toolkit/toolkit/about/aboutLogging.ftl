@@ -30,8 +30,14 @@ about-logging-set-log-modules = Sbadu izegrar iɣmisen
 about-logging-start-logging = Senker asniɣmes
 about-logging-stop-logging = Seḥbes asniɣmes
 about-logging-info = Talɣut:
+about-logging-log-modules-selection = Tafrant n uzegrir n uɣmus
+about-logging-new-log-modules = Izegrar imaynuten n uɣmus:
+about-logging-logging-output-selection = Tuffɣa n uɣmus
+about-logging-logging-to-file = Tuffɣa ɣer ufaylu
+about-logging-logging-to-profiler = Tuffɣa ɣer { -profiler-brand-name }
 about-logging-no-log-modules = Ula yiwen
 about-logging-no-log-file = Ula yiwen
+about-logging-logging-preset-selector-text = Awennez n tɣamsa:
 
 ## Logging presets
 

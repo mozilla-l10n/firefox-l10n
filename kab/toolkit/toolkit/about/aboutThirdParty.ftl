@@ -54,3 +54,6 @@ third-party-button-collapse =
 third-party-should-restart-title = Ales asenker n { -brand-short-name }
 third-party-should-restart-ok = Ales asenker { -brand-short-name } tura
 third-party-restart-later = Ales asenker ticki
+third-party-blocked-by-builtin =
+    .title = Yettusewḥel sɣur { -brand-short-name }
+    .alt = Yettusewḥel sɣur { -brand-short-name }
