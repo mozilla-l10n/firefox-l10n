@@ -62,6 +62,8 @@ about-glean-manual-testing =
     ale, krótko prajene, zo byšće manuelnje testował, hač waša instrumentacije funguje, wy měł:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ping njesłać)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Zawěsćće, zo je w předchadnym polu njezapomnita značka pytanja zmylka, zo byšće móhł swoje pingi pozdźišo spóznał.
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
 about-glean-about-data-header = Wo datach
 about-glean-about-data-explanation =
