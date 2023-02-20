@@ -7,6 +7,9 @@ about-logins-page-title = لاگ ان تے پاس ورڈ
 login-filter =
     .placeholder = لاگ ان ڳولو
 create-login-button = نواں لاگ ان بݨاؤ
+about-logins-login-filter =
+    .placeholder = لاگ ان ڳولو
+    .key = F
 create-new-login-button =
     .title = نواں لاگ ان بݨاؤ
 fxaccounts-sign-in-text = اپݨے پاسورڈز ٻئے آلات تے حاصل کرو
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = مدد
 
 login-list =
     .aria-label = لاگ اناں ڳولݨ والی کیوری
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } لاگ ان
@@ -106,6 +111,8 @@ login-item-time-used = چھیکڑی ورتیا ڳیا:{ DATETIME($timeUsed, day:
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = بݨایا ڳیا
 login-item-timeline-action-updated = اپ ڈیٹ تھی ڳیا
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ایہ لاگ ان ہٹاؤں؟
 confirm-delete-dialog-message = ایہ عمل آیا ون٘ڄایا نئیں تھی سڳدا۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹاؤ
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ہٹاؤ
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] { "" }
        *[other] ایہ تہاݙے { -fxaccount-brand-name } نال مطابقت پذیر تمام آلات تے { -brand-short-name } وِچ ہتھیکڑے کیتے ڳئے تمام لاگ انز کوں ہٹا ݙیسے۔ ایہ اتھاں ظاہر تھیوݨ والیاں خلاف ورزی دیاں چتاوݨیاں کوں وی ہٹا ݙیس۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
     }
+
+##
+
 about-logins-confirm-export-dialog-title = لاگ ان تے پاس ورڈ برآمد کرو
 about-logins-confirm-export-dialog-message = تہاݙے پاس ورڈز کوں پڑھݨ دے قابل متن دے طور تے ہتھیکڑا کیتا ویسے ( مثلاً (e.g., BadP@ssw0rd)  تاں جو جیڑھا وی برآمد شدہ فائل کوں کھول سڳدا ہے وہ انہاں کوں ݙیکھ سڳے۔
 about-logins-confirm-export-dialog-confirm-button = برآمد کرو…

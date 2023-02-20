@@ -60,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] ٹاسک بار ݙے ونڄو
     }
 about-private-browsing-pin-promo-title = تہاݙے ڈیسک ٹاپ کنوں کوئی وی کوکیز یا تاریخ ہتھیکڑی نئیں کیتی ڳئی۔ ایویں براؤز کرو جیویں کوئی نہ ݙیہدا پیا ہووے۔
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = کوکی بینرز شروع تھی ڳئے!
+about-private-browsing-cookie-banners-promo-button = کوکی بینراں کوں تھوڑا کرو
+about-private-browsing-cookie-banners-promo-message = { -brand-short-name } کوں خودبخود تہاݙے کیتے کوکی پوپ اپاں دا جواب ݙیوݨ ݙیوو تاں جو تساں کہیں خلفشار دے بغیر براؤزنگ تے ون٘ڄ سڳو۔ ممکن ہویا تاں { -brand-short-name } ساریاں ارداساں مسترد کر ݙیسی۔
