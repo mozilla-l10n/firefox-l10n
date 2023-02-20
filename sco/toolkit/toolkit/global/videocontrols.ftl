@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Closed Captions
-
 videocontrols-play-button =
     .aria-label = Pley
 videocontrols-pause-button =
@@ -29,20 +28,16 @@ videocontrols-casting-button-label =
     .aria-label = Cast tae Screen
 videocontrols-closed-caption-off =
     .offlabel = Aff
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Pictur-in-Pictur
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Watch in Pictur-in-Pictur
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Pley videos in the foregrund while ye dae ither things in { -brand-short-name }
-
 videocontrols-error-aborted = Video loadin stapped.
 videocontrols-error-network = Video pleyback gied ower acause o a netwark mishanter.
 videocontrols-error-decode = Video cannae be pleyed acause the file is camshauchlet.
@@ -50,7 +45,6 @@ videocontrols-error-src-not-supported = Video format or MIME type isnae supporti
 videocontrols-error-no-source = Nae video wi supportit format and MIME type fund.
 videocontrols-error-generic = Video pleyback gied ower acause o an unkent mishanter.
 videocontrols-status-picture-in-picture = This video is pleyin in Pictur-in-Pictur mode.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -64,3 +58,12 @@ videocontrols-status-picture-in-picture = This video is pleyin in Pictur-in-Pict
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+# This is a plain text version of the videocontrols-position-and-duration-labels
+# string, used by screenreaders.
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+videocontrols-scrubber-position-and-duration =
+    .aria-label = Poseetion
+    .aria-valuetext = { $position } / { $duration }
