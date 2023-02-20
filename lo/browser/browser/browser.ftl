@@ -677,6 +677,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = ບັນທຶກໃສ່ { -pocket-brand-name }
+    .tooltiptext = ບັນທຶກໃສ່ { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 

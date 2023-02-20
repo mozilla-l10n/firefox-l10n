@@ -297,13 +297,33 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = ບໍ່ມີຄຸກ
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = ພວກເຮົາເຄົາລົບຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າສະເໝີ
+mr2022-onboarding-privacy-segmentation-subtitle = ຈາກການແນະນຳອັດສະລິຍະໄປສູ່ການຄົ້ນຫາທີ່ສະຫຼາດຂຶ້ນ, ພວກເຮົາກຳລັງເຮັດວຽກຢ່າງຕໍ່ເນື່ອງເພື່ອສ້າງ { -brand-product-name } ທີ່ດີກວ່າ ແລະເປັນສ່ວນຕົວກວ່າ.
+mr2022-onboarding-privacy-segmentation-text-cta = ທ່ານຕ້ອງການເບິ່ງຫຍັງເມື່ອພວກເຮົາສະເຫນີຄຸນສົມບັດໃຫມ່ທີ່ໃຊ້ຂໍ້ມູນຂອງທ່ານເພື່ອປັບປຸງການທ່ອງເວັບຂອງທ່ານ?
+mr2022-onboarding-privacy-segmentation-button-primary-label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = ສະແດງຂໍ້ມູນລະອຽດ
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = ເຈົ້າກຳລັງຊ່ວຍພວກເຮົາສ້າງເວັບທີ່ດີກວ່າ
+mr2022-onboarding-gratitude-subtitle = ຂອບໃຈທີ່ໃຊ້ { -brand-short-name }, ສະໜັບສະໜູນໂດຍມູນນິທິ Mozilla. ດ້ວຍ​ການ​ສະ​ຫນັບ​ສະ​ຫນູນ​ຂອງ​ທ່ານ, ພວກ​ເຮົາ​ກໍາ​ລັງ​ເຮັດ​ໃຫ້​ອິນ​ເຕີ​ເນັດ​ເປີດ​ຫຼາຍ, ເຂົ້າ​ເຖິງ, ແລະ​ດີກ​ວ່າ​ສໍາ​ລັບ​ທຸກ​ຄົນ.
+mr2022-onboarding-gratitude-primary-button-label = ເບິ່ງວ່າມີຫຍັງໃໝ່
+mr2022-onboarding-gratitude-secondary-button-label = ເລີ່ມການທ່ອງເວັບ
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = ເຮັດໂຕຕາມສະບາຍ
+onboarding-infrequent-import-subtitle = ບໍ່ວ່າທ່ານກໍາລັງຕັ້ງຖິ່ນຖານຢູ່ຫຼືພຽງແຕ່ຢຸດໂດຍ, ຈົ່ງຈື່ໄວ້ວ່າທ່ານສາມາດນໍາເຂົ້າບຸກມາກ, ລະຫັດຜ່ານ, ແລະອື່ນໆອີກ.
+onboarding-infrequent-import-primary-button = ນຳເຂົ້າໃສ່ { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = ບຸກຄົນທີ່ເຮັດວຽກຢູ່ໃນຄອມພິວເຕີໂນດບຸກທີ່ອ້ອມຮອບໄປດ້ວຍດາວແລະດອກໄມ້
+mr2022-onboarding-default-image-alt =
+    .aria-label = ຄົນກອດໂລໂກ້ { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = ຄົນຂີ່ສະເກັດບອດທີ່ມີໄອຄອນຂອງຊອບແວ
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = ກົບໂດດຂ້າມແຜ່ນໃບບົວດ້ວຍລະຫັດ QR ເພື່ອດາວໂຫຼດ { -brand-product-name } ສຳລັບມືຖືຢູ່ໃຈກາງ
