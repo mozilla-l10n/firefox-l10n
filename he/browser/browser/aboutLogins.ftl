@@ -7,6 +7,9 @@ about-logins-page-title = כניסות וססמאות
 login-filter =
     .placeholder = חיפוש כניסות
 create-login-button = יצירת כניסה חדשה
+about-logins-login-filter =
+    .placeholder = חיפוש כניסות
+    .key = F
 create-new-login-button =
     .title = יצירת כניסה חדשה
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = עזרה
 
 login-list =
     .aria-label = כניסות התואמות לשאילתת החיפוש
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] כניסה אחת
@@ -106,6 +111,8 @@ login-item-time-used = שימוש אחרון: { DATETIME($timeUsed, day: "numeri
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = תאריך יצירה
 login-item-timeline-action-updated = תאריך עדכון
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] הסרה
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
        *[other] פעולה זו תסיר את כל הכניסות ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
 about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
 about-logins-confirm-export-dialog-confirm-button = ייצוא…
