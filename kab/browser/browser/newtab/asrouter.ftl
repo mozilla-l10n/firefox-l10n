@@ -62,9 +62,13 @@ cfr-doorhanger-extension-total-users =
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
 cfr-cookie-banner-handling-header = Dayen iɣarracen n yinagan n tuqqna!
+cfr-cookie-banner-accept-button = Sefsex Tittriwin
+    .accesskey = f
 cfr-cookie-banner-reject-button = Mačči tura
     .accesskey = M
 cfr-cookie-banner-handling-header-variant-1 = Wali cwiṭ n yisfuyla udhimen n yinagan n tuqqna
+cfr-cookie-banner-accept-button-variant-1 = Mdel isfuyla udhimen
+    .accesskey = d
 cfr-cookie-banner-reject-button-variant-1 = Ala tanemmirt
     .accesskey = t
 cfr-cookie-banner-handling-body-variant-2 = Sireg { -brand-short-name }ad yagi asuter n uqbel n yinagan n tuqqna ma yella wamek neɣ ad yeqbel anekcum ɣer yinagan n tuqqna ma ulac amek?
@@ -244,6 +248,8 @@ cfr-cookiebanner-accept-button-v2 = Aggi tuttriwin
 cfr-cookiebanner-reject-button = Mačči tura
     .accesskey = M
 cfr-cookiebanner-header-variant-1 = Wali cwiṭ n yisfuyla udhimen n yinagan n tuqqna
+cfr-cookiebanner-accept-button-variant-1 = Mdel isfuyla udhimen
+    .accesskey = d
 cfr-cookiebanner-reject-button-variant-1 = Ala, tanemmirt
     .accesskey = L
 cfr-cookiebanner-header-variant-2 = Asenqes n yiɣarracen n yinagan n tuqqna
