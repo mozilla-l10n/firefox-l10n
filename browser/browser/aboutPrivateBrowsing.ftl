@@ -60,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Festa á verkefnastikuna
     }
 about-private-browsing-pin-promo-title = Engar vistaðar vefkökur eða ferilskráning, beint af skjáborðinu þínu. Vafraðu eins og enginn sé að horfa.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Vefkökuborðar fyrir bí!
+about-private-browsing-cookie-banners-promo-button = Fækkaðu vefkökuborðum
+about-private-browsing-cookie-banners-promo-message = Leyfa { -brand-short-name } að svara sjálfkrafa vefkökugluggum fyrir þig svo þú getir vafrað áfram án truflunar. { -brand-short-name } mun hafna öllum beiðnum ef mögulegt er.

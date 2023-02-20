@@ -7,6 +7,9 @@ about-logins-page-title = Innskráning og lykilorð
 login-filter =
     .placeholder = Leita að innskráningu
 create-login-button = Búðu til nýja innskráningu
+about-logins-login-filter =
+    .placeholder = Leita að innskráningum
+    .key = F
 create-new-login-button =
     .title = Búa til nýja innskráningu
 fxaccounts-sign-in-text = Fáðu lykilorðin þín í önnur tæki
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Hjálp
 
 login-list =
     .aria-label = Innskráningar sem passa við leitarfyrirspurn
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } innskráning
@@ -106,6 +111,8 @@ login-item-time-used = Síðast notað: { DATETIME($timeUsed, day: "numeric", mo
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Búið til
 login-item-timeline-action-updated = Uppfært
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Fjarlægja þessa innskráningu?
 confirm-delete-dialog-message = Þessa aðgerð er ekki hægt að afturkalla.
 about-logins-confirm-remove-dialog-confirm-button = Fjarlægja
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fjarlægja
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Þetta mun fjarlægja innskráninguna sem þú vistaðir í { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
        *[other] Þetta mun fjarlægja allar innskráningar sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Flytja út innskráningar og lykilorð
 about-logins-confirm-export-dialog-message = Lykilorðin þín verða vistuð sem læsilegur texti (t.d. BadP@ssw0rd) svo allir sem geta opnað útfluttu skrána geta skoðað þau.
 about-logins-confirm-export-dialog-confirm-button = Flytja út…
