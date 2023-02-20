@@ -7,6 +7,9 @@ about-logins-page-title = Лагіны і паролі
 login-filter =
     .placeholder = Шукаць лагіны
 create-login-button = Дадаць новы лагін
+about-logins-login-filter =
+    .placeholder = Шукаць лагіны
+    .key = А
 create-new-login-button =
     .title = Стварыць новы лагін
 fxaccounts-sign-in-text = Атрымайце доступ да сваіх пароляў на іншых прыладах
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Даведка
 
 login-list =
     .aria-label = Лагіны, якія адпавядаюць пошукаваму запыту
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } лагін
@@ -107,6 +112,8 @@ login-item-time-used = Апошняе выкарыстанне: { DATETIME($time
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Створаны
 login-item-timeline-action-updated = Абноўлены
@@ -156,6 +163,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
 about-logins-confirm-remove-dialog-confirm-button = Выдаліць
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Выдаліць
@@ -196,6 +207,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Гэта выдаліць усе лагіны, які вы захавалі ў { -brand-short-name } на ўсіх прыладах, з якімі сінхранізаваны ваш { -fxaccount-brand-name }. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
        *[many] Гэта выдаліць усе лагіны, які вы захавалі ў { -brand-short-name } на ўсіх прыладах, з якімі сінхранізаваны ваш { -fxaccount-brand-name }. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Экспарт лагінаў і пароляў
 about-logins-confirm-export-dialog-message = Вашы паролі будуць захаваны як звычайны тэкст (напр., BadP@ssw0rd), таму кожны, хто можа адкрыць экспартаваны файл, можа ўбачыць іх.
 about-logins-confirm-export-dialog-confirm-button = Экспартаваць…
