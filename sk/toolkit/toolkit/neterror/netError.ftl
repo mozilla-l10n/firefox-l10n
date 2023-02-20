@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Skontrolovať, či má { -brand-short-nam
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nedokáže ochrániť vašu žiadosť o adresu tohto webu prostredníctvom nášho dôveryhodného nástroja DNS resolver. Tu je dôvod:
 neterror-dns-not-found-trr-only-attackers = Ak budete pokračovať, tretia strana môže vidieť, aké webové stránky navštevujete, alebo vás môže poslať na nedôveryhodnú stránku.
+neterror-dns-not-found-trr-third-party-warning = Môžete pokračovať s DNS resolverom, ktorý nie je bezpečný. Tretia strana však môže vidieť, aké webové stránky navštevujete.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name(case: "dat") } sa nepodarilo pripojiť k { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Pripojenie k { $trrDomain } trvalo dlhšie, ako sa očakávalo.
 neterror-dns-not-found-trr-offline = Nie ste pripojení na internet.
