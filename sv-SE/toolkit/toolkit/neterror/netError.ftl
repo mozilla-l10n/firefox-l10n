@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Kontrollera att { -brand-short-name } har
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan inte skydda din begäran om den här webbplatsens adress genom vår betrodda DNS-resolver. Här är varför:
 neterror-dns-not-found-trr-only-attackers = Om du fortsätter kan en tredje part kanske se vilka webbplatser du besöker eller skicka dig till en opålitlig webbplats.
+neterror-dns-not-found-trr-third-party-warning = Du kan fortsätta med en DNS-resolver som inte är säker. Däremot kan en tredje part kanske se vilka webbplatser du besöker.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunde inte ansluta till { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Anslutningen till { $trrDomain } tog längre tid än förväntat.
 neterror-dns-not-found-trr-offline = Du är inte ansluten till internet.
