@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Takarir Tertutup
-
 videocontrols-play-button =
     .aria-label = Mainkan
 videocontrols-pause-button =
@@ -29,31 +28,20 @@ videocontrols-casting-button-label =
     .aria-label = Proyeksikan ke Layar
 videocontrols-closed-caption-off =
     .offlabel = Mati
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Gambar-dalam-gambar
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Tonton dalam format Gambar-dalam-Gambar
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Putar video di latar depan saat Anda melakukan hal lain di { -brand-short-name }
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Munculkan video ini
-
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer2 = Lebih banyak layar lebih menyenangkan. Putar video ini dalam Gambar-dalam-Gambar saat menjelajah.
-
 videocontrols-picture-in-picture-explainer3 = Lebih banyak layar, lebih banyak kegembiraan. Putar video ini sambil melakukan hal lain.
-
 videocontrols-error-aborted = Pemuatan video dihentikan.
 videocontrols-error-network = Pemutaran video dibatalkan karena ada galat jaringan.
 videocontrols-error-decode = Video tidak dapat diputar karena berkasnya rusak.
@@ -61,7 +49,6 @@ videocontrols-error-src-not-supported = Format atau jenis MIME video tidak duduk
 videocontrols-error-no-source = Tidak ditemukan video dalam format atau jenis MIME yang didukung.
 videocontrols-error-generic = Pemutaran video dibatalkan karena galat tidak dikenal.
 videocontrols-status-picture-in-picture = Video ini diputar dalam mode Gambar-dalam-Gambar.
-
 # This message shows the current position and total video duration
 #
 # Variables:
