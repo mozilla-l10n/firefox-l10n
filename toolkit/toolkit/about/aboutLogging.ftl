@@ -23,7 +23,6 @@
 about-logging-title = Wo protokolowanju
 about-logging-page-title = Protokolowanski zrjadowak
 about-logging-current-log-file = Aktualna protokolowa dataja:
-about-logging-current-log-modules = Aktualne protokolowe module:
 about-logging-new-log-file = Nowa protokolowa dataja:
 about-logging-currently-enabled-log-modules = Tuchwilu zmóžnjene protokolowe module:
 about-logging-log-tutorial = Hlejće <a data-l10n-name="logging">HTTP-protokolowanje</a> za instrukcije wo tym, kak so tutón nastroj wužiwa.
@@ -33,6 +32,8 @@ about-logging-set-log-file = Protokolowu dataju postajić
 about-logging-set-log-modules = Protokolowe module postajić
 about-logging-start-logging = Protokolowanje započeć
 about-logging-stop-logging = Protokolowanje skónčić
+about-logging-buttons-disabled = Protokolowanje je přez wokolinowe wariable skonfigurowane, dynamiska konfiguracija k dispoziciji njeje.
+about-logging-some-elements-disabled = Protokolowanje je přez URL skonfigurowane, někotre konfiguraciske nastajenja k dispoziciji dispoziciji njejsu
 about-logging-info = Info:
 about-logging-log-modules-selection = Wuběr protokolowych modulow
 about-logging-new-log-modules = Nowe protokolowe module:
@@ -48,6 +49,7 @@ about-logging-logging-preset-selector-text = Přednastajenje za protokolowanje:
 about-logging-preset-networking-label = Syć
 about-logging-preset-networking-description = Module za diagnosticěrowanje syćowych problemow protokolować
 about-logging-preset-media-playback-label = Wothraće medijow
+about-logging-preset-media-playback-description = Module konfigurować, zo byšće problemy medijoweho wothraća diagnosticěrował (nic problemy z widejokonferencami)
 about-logging-preset-custom-label = Swójski
 about-logging-preset-custom-description = Protokolowe module manuelnje wubrane
 # Error handling
