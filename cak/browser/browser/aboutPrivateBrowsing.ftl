@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = Majun kuki chuqa' natab'äl eyakon, jum
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Xek'is ri taq kib'aner koki!
 about-private-browsing-cookie-banners-promo-button = Kech'utinär ri taq kib'aner koki
+about-private-browsing-cookie-banners-promo-message = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil tutzolij kitzij ri elenel taq kuki richin majun nimejo' ri awokem pa k'amaya'l.{ -brand-short-name } xkeruxutuj ronojel ri taq taqoj xkekik'utuj we k'amonel.
