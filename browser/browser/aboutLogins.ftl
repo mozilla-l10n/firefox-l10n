@@ -7,6 +7,9 @@ about-logins-page-title = Thông tin đăng nhập & mật khẩu
 login-filter =
     .placeholder = Tìm kiếm thông tin đăng nhập
 create-login-button = Tạo thông tin đăng nhập mới
+about-logins-login-filter =
+    .placeholder = Tìm kiếm thông tin đăng nhập
+    .key = F
 create-new-login-button =
     .title = Tạo thông tin đăng nhập mới
 fxaccounts-sign-in-text = Nhận mật khẩu của bạn trên các thiết bị khác của bạn
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Trợ giúp
 
 login-list =
     .aria-label = Thông tin đăng nhập phù hợp với truy vấn tìm kiếm
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
        *[other] { $count } thông tin đăng nhập
@@ -105,6 +110,8 @@ login-item-time-used = Lần sử dụng cuối: { DATETIME($timeUsed, day: "num
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Đã tạo
 login-item-timeline-action-updated = Đã cập nhật
@@ -154,6 +161,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Xoá thông tin đăng nhập này?
 confirm-delete-dialog-message = Thao tác này không thể hoàn tác được.
 about-logins-confirm-remove-dialog-confirm-button = Xóa
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Xóa
@@ -182,6 +193,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Thao tác này sẽ xóa thông tin đăng nhập bạn đã lưu vào { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa với { -fxaccount-brand-name } của bạn. Thao tác này cũng sẽ xóa các cảnh báo rò rỉ xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
        *[other] Thao tác này sẽ xóa tất cả các thông tin đăng nhập bạn đã lưu vào { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa với { -fxaccount-brand-name } của bạn. Thao tác này cũng sẽ xóa các cảnh báo rò rỉ xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Xuất thông tin đăng nhập và mật khẩu
 about-logins-confirm-export-dialog-message = Mật khẩu của bạn sẽ được lưu dưới dạng văn bản có thể đọc được (ví dụ: BadP@ssw0rd) để bất kỳ ai có thể mở tập tin được xuất đều có thể xem chúng.
 about-logins-confirm-export-dialog-confirm-button = Xuất…
