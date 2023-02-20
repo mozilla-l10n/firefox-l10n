@@ -41,10 +41,6 @@ videocontrols-picture-in-picture-explainer = Toista videoita etualalla samalla, 
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Ponnahduta ulos tämä video
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer2 = Useampi näyttö on aina hauskempaa. Toista tämä video kuva kuvassa -tilassa samalla kun selaat.
 videocontrols-picture-in-picture-explainer3 = Useampi näyttö tekee kaikesta hauskempaa. Toista tämä video, kun teet muita asioita samanaikaisesti.
 videocontrols-error-aborted = Videon lataaminen pysähtynyt.
 videocontrols-error-network = Videon toisto keskeytynyt verkkovirheen vuoksi.
