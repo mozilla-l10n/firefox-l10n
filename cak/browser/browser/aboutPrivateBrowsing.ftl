@@ -60,3 +60,10 @@ about-private-browsing-pin-promo-link-text =
        *[other] Tiya' pa ri rukajtz'ik samajib'äl
     }
 about-private-browsing-pin-promo-title = Majun kuki chuqa' natab'äl eyakon, jumul pan ach'atal. Katok achi'el majun nitz'eto awichin.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Xek'is ri taq kib'aner koki!
+about-private-browsing-cookie-banners-promo-button = Kech'utinär ri taq kib'aner koki
