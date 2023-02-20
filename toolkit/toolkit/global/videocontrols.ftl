@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Ondertitels
-
 videocontrols-play-button =
     .aria-label = Afspelen
 videocontrols-pause-button =
@@ -29,31 +28,20 @@ videocontrols-casting-button-label =
     .aria-label = Casten naar scherm
 videocontrols-closed-caption-off =
     .offlabel = Uit
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-picture
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Picture-in-picture bekijken
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Video’s op de voorgrond afspelen terwijl u andere dingen in { -brand-short-name } doet
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Deze video naar voren halen
-
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer2 = Meer schermen is leuker. Speel deze video af in Picture-in-picture terwijl u navigeert.
-
 videocontrols-picture-in-picture-explainer3 = Meer schermen betekent meer plezier. Speel deze video af terwijl u andere dingen doet.
-
 videocontrols-error-aborted = Video laden gestopt.
 videocontrols-error-network = Video afspelen afgebroken vanwege een netwerkfout.
 videocontrols-error-decode = Video kan niet worden afgespeeld, omdat het bestand is beschadigd.
@@ -61,7 +49,6 @@ videocontrols-error-src-not-supported = Video-indeling of MIME-type wordt niet o
 videocontrols-error-no-source = Geen video met ondersteunde indeling en MIME-type gevonden.
 videocontrols-error-generic = Video afspelen afgebroken vanwege een onbekende fout.
 videocontrols-status-picture-in-picture = Deze video wordt in Picture-in-picture-modus afgespeeld.
-
 # This message shows the current position and total video duration
 #
 # Variables:
