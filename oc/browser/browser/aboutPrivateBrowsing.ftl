@@ -62,3 +62,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Penjar a la barra de prètzfaches
     }
 about-private-browsing-pin-promo-title = Cap de cookies o d’istoric pas enregistrat. Navegatz sens vos sentir observat.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Fòra las bandièras de cookies !
+about-private-browsing-cookie-banners-promo-button = Reduire las bandièras de cookies
+about-private-browsing-cookie-banners-promo-message = Permetre a { -brand-short-name } de gerir automaticament las fenèstras sorgissentas de cookies per vos que trapetz una navegacion sens distraccion. { -brand-short-name } regetarà totas las demandas se possible.
