@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Glasnoća
 videocontrols-closed-caption-button =
     .aria-label = Podnaslovi
-
 videocontrols-play-button =
     .aria-label = Pokreni
 videocontrols-pause-button =
@@ -29,20 +28,16 @@ videocontrols-casting-button-label =
     .aria-label = Prebaci na ekran
 videocontrols-closed-caption-off =
     .offlabel = Isključeno
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Slika u slici
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Gledaj u prikazu slike-u-slici
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Reproduciraj videozapise u prvom planu dok radiš druge stvari u { -brand-short-name }u
-
 videocontrols-error-aborted = Učitavanje videa zaustavljeno.
 videocontrols-error-network = Reprodukcija videa je prekinuta zbog mrežne greške.
 videocontrols-error-decode = Video nije moguće reproducirati jer je datoteka oštećena.
@@ -50,7 +45,6 @@ videocontrols-error-src-not-supported = Video format ili MIME vrsta nisu podrža
 videocontrols-error-no-source = Nije pronađen video s podržanim formatom ili MIME vrstom.
 videocontrols-error-generic = Reprodukcija videa je prekinuta zbog nepoznate greške.
 videocontrols-status-picture-in-picture = Ovaj videozapis reproducira u načinu rada Slika u slici.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -64,3 +58,12 @@ videocontrols-status-picture-in-picture = Ovaj videozapis reproducira u načinu 
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+# This is a plain text version of the videocontrols-position-and-duration-labels
+# string, used by screenreaders.
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+videocontrols-scrubber-position-and-duration =
+    .aria-label = Položaj
+    .aria-valuetext = { $position } / { $duration }
