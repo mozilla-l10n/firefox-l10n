@@ -46,14 +46,14 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = O testovaní
 # This message is followed by a numbered list.
-about-glean-manual-testing = Úplné pokyny sú zdokumentované v <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentácii { -fog-brand-name } na inštrumentačné testovanie</a> a v <a data-l10n-name="glean-sdk-doc-link">dokumentácii { glean-sdk-brand-name }</a>, ale ak chcete manuálne otestovať, či vaše inštrumentačné testovanie funguje, mali by ste:
+about-glean-manual-testing = Úplné pokyny sú zdokumentované v <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentácii { -fog-brand-name } na inštrumentačné testovanie</a> a v <a data-l10n-name="glean-sdk-doc-link">dokumentácii { glean-sdk-brand-name }</a>, ale ak chcete manuálne otestovať, či vaše inštrumentačné testovanie funguje, vykonajte nasledovné:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (neodosielajte žiadny ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Uistite sa, že v tomto poli je zapamätateľná značka ladenia, aby ste mohli neskôr rozpoznať svoje pingy.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
-about-glean-label-for-ping-names = V tomto zozname vyberte príkaz ping, v ktorom sa nachádza vaša inštrumentácia. Ak sa nachádza vo <a data-l10n-name="custom-ping-link">vlastnom príkaze ping</a>, vyberte ho. V opačnom prípade predvolená hodnota pingu pre metriku <code>event</code>je  <code>events</code> a predvolená hodnota pingu pre všetky ostatné metriky je <code>metrics</code>.
+about-glean-label-for-ping-names = V tomto zozname vyberte príkaz ping, v ktorom sa nachádza vaša inštrumentácia. Ak sa nachádza vo <a data-l10n-name="custom-ping-link">vlastnom príkaze ping</a>, vyberte ho. V opačnom prípade predvolená hodnota pingu pre metriku <code>event</code> je <code>events</code> a predvolená hodnota pingu pre všetky ostatné metriky je <code>metrics</code>.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings = (Voliteľné. Označte toto políčko, ak chcete, aby sa pri odosielaní zaznamenávali aj pingy. Okrem toho budete musieť <a data-l10n-name="enable-logging-link">povoliť ladenie</a>.)
 # Variables

@@ -7,6 +7,9 @@ about-logins-page-title = Prihlasovacie údaje
 login-filter =
     .placeholder = Hľadať
 create-login-button = Nové prihlasovacie údaje
+about-logins-login-filter =
+    .placeholder = Hľadať
+    .key = F
 create-new-login-button =
     .title = Zadať nové prihlasovacie údaje
 fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Pomocník
 
 login-list =
     .aria-label = Nájdené prihlasovacie údaje
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } prihlasovací údaj
@@ -107,6 +112,8 @@ login-item-time-used = Naposledy použité: { DATETIME($timeUsed, day: "numeric"
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Vytvorené
 login-item-timeline-action-updated = Aktualizované
@@ -156,6 +163,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Chcete odstrániť tento prihlasovací údaj?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 about-logins-confirm-remove-dialog-confirm-button = Odstrániť
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Odstrániť všetky
@@ -196,6 +207,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Týmto odstránite prihlásenia, ktoré ste uložili v prehliadači { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou { -fxaccount-brand-name(case: "gen", capitalization: "sentence") }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
        *[other] Týmto odstránite prihlásenia, ktoré ste uložili v prehliadači { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou{ -fxaccount-brand-name(case: "gen", capitalization: "sentence") }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Exportovať prihlasovacie údaje
 about-logins-confirm-export-dialog-message = Vaše heslá budú uložené v čitateľnom formáte (napr. h3slo) takže ktokoľvek, kto bude môcť otvoriť tento súbor, bude môcť zistiť vaše heslá.
 about-logins-confirm-export-dialog-confirm-button = Exportovať…
