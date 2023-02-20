@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `See fewer cookie requests`.
-cfr-cookie-banner-handling-header = Finies les bannières de cookies !
+cfr-cookie-banner-handling-header = Fini les bannières de cookies !
 cfr-cookie-banner-handling-body = Autoriser { -brand-short-name } à rejeter automatiquement les demandes de cookies, lorsque cela est possible. Sinon, tous les cookies seront acceptés pour supprimer les bannières de cookies.
 cfr-cookie-banner-accept-button = Rejeter les demandes
     .accesskey = R
@@ -247,10 +247,8 @@ colorways-cfr-header-today = Les coloris « Voix indépendantes » expirent au
 ## Cookie Banner Handling CFR
 
 # Alternate headline for localization: "See fewer cookie requests"
-cfr-cookiebanner-header = Finies les bannières de cookies !
+cfr-cookiebanner-header = Fini les bannières de cookies !
 cfr-cookiebanner-body = Autoriser { -brand-short-name } à rejeter automatiquement les demandes de cookies lorsque cela est possible.
-cfr-cookiebanner-accept-button = Fermer les bannières
-    .accesskey = F
 cfr-cookiebanner-reject-button = Plus tard
     .accesskey = P
 cfr-cookiebanner-header-variant-1 = Voir moins de popups de cookies

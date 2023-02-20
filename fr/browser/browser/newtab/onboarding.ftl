@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Progression : étape { $current } sur { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progression : étape { $current } sur { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -267,6 +265,13 @@ fx100-upgrade-thank-you-body = Il s’agit de notre 100ᵉ version de { -brand-s
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = C’est notre 100ᵉ version ! Merci d’avoir fait partie de notre communauté. Gardez { -brand-short-name } à portée de clic pour les 100 prochaines.
 mr2022-onboarding-secondary-skip-button-label = Ignorer cette étape
+
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Enregistrer et continuer
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importer depuis un ancien navigateur
 
 ## MR2022 New User Pin Firefox screen strings
 
