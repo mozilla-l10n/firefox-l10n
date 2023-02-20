@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Âm lượng
 videocontrols-closed-caption-button =
     .aria-label = Closed Captions
-
 videocontrols-play-button =
     .aria-label = Phát
 videocontrols-pause-button =
@@ -29,31 +28,20 @@ videocontrols-casting-button-label =
     .aria-label = Chiếu ra màn hình
 videocontrols-closed-caption-off =
     .offlabel = Tắt
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Hình trong hình
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Xem ở chế độ hình trong hình
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Phát video ở nền trước trong khi bạn làm những việc khác trong { -brand-short-name }
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Mở video này ở cửa sổ bật lên
-
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer2 = Nhiều màn hình hơn, vui hơn. Phát video này ở chế độ hình trong hình khi bạn duyệt.
-
 videocontrols-picture-in-picture-explainer3 = Nhiều màn hình, vui hơn. Phát video này trong khi bạn làm những việc khác.
-
 videocontrols-error-aborted = Đã dừng nạp video.
 videocontrols-error-network = Không thể xem video vì lỗi kết nối.
 videocontrols-error-decode = Không thể xem video vì tập tin bị hỏng.
@@ -61,7 +49,6 @@ videocontrols-error-src-not-supported = Định dạng video hoặc kiểu MIME 
 videocontrols-error-no-source = Không có video với định đạng được hỗ trợ.
 videocontrols-error-generic = Không thể xem video vì một lỗi chưa biết.
 videocontrols-status-picture-in-picture = Video này đang phát ở chế độ hình trong hình.
-
 # This message shows the current position and total video duration
 #
 # Variables:
