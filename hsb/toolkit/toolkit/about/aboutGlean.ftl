@@ -77,6 +77,13 @@ about-glean-label-for-ping-names =
 about-glean-label-for-log-pings =
     (Na přeće. Wubjerće předchadne polo, jeli chceće, zo so pingi tež protokoluja, hdyž so wotesyłaja.
     Dyrbiće nimo toho <a data-l10n-name="enable-logging-link">protokolowanje zmóžnić</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Tłóčće na předchadne tłóčatko, zo byšće wšě pingi { -glean-brand-name } ze swojej značku woznamjenił a wotpósćelće wubrany ping.
+    (Wšě pingi, kotrež so wot toho časa wotesćelu, doniž njestartujeće znowa, so z
+    <code>{ $debug-tag }</code> woznamjenjeja.)
 controls-button-label-verbose = Nastajenja nałožić a ping wotpósłać
 about-glean-about-data-header = Wo datach
 about-glean-about-data-explanation =
