@@ -7,6 +7,9 @@ about-logins-page-title = Inloggningar & lösenord
 login-filter =
     .placeholder = Sök inloggningar
 create-login-button = Skapa ny inloggning
+about-logins-login-filter =
+    .placeholder = Sök inloggningar
+    .key = F
 create-new-login-button =
     .title = Skapa ny inloggning
 fxaccounts-sign-in-text = Få dina lösenord på dina andra enheter
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Hjälp
 
 login-list =
     .aria-label = Inloggningar som matchar sökfrågan
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } inloggning
@@ -106,6 +111,8 @@ login-item-time-used = Senast använt: { DATETIME($timeUsed, day: "numeric", mon
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Skapad
 login-item-timeline-action-updated = Uppdaterad
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Ta bort denna inloggning?
 confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
 about-logins-confirm-remove-dialog-confirm-button = Ta bort
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Ta bort
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Detta tar bort inloggningen som du har sparat i { -brand-short-name } på alla enheter som synkroniserats med ditt { -fxaccount-brand-name }. Detta tar också bort varningar om intrång som visas här. Du kan inte ångra den här åtgärden.
        *[other] Detta tar bort alla inloggningar som du har sparat i { -brand-short-name } på alla enheter som synkroniserats med ditt { -fxaccount-brand-name }. Detta tar också bort varningar om intrång som visas här. Du kan inte ångra den här åtgärden.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Exportera inloggningar och lösenord
 about-logins-confirm-export-dialog-message = Dina lösenord sparas som läsbar text (t.ex. BadP@ssw0rd) så att alla som kan öppna den exporterade filen kan se dem.
 about-logins-confirm-export-dialog-confirm-button = Exportera…
