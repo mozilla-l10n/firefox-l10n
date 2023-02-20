@@ -60,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] 작업 표시줄에 고정
     }
 about-private-browsing-pin-promo-title = 쿠키나 기록이 저장되지 않습니다. 아무도 보고 있지 않은 것처럼 탐색하세요.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = 쿠키 배너가 사라졌습니다!
+about-private-browsing-cookie-banners-promo-button = 쿠키 배너 줄이기
+about-private-browsing-cookie-banners-promo-message = { -brand-short-name }가 쿠키 팝업에 자동으로 응답하도록 하여 방해받지 않고 탐색할 수 있습니다. { -brand-short-name }는 가능한 경우 모든 요청을 거부합니다.

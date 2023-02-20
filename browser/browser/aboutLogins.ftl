@@ -7,6 +7,9 @@ about-logins-page-title = 로그인과 비밀번호
 login-filter =
     .placeholder = 로그인 검색
 create-login-button = 새 로그인 만들기
+about-logins-login-filter =
+    .placeholder = 로그인 검색
+    .key = F
 create-new-login-button =
     .title = 새 로그인 만들기
 fxaccounts-sign-in-text = 다른 기기에서 비밀번호 받기
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = 도움말
 
 login-list =
     .aria-label = 검색어와 일치하는 로그인
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
        *[other] 로그인 { $count }개
@@ -105,6 +110,8 @@ login-item-time-used = 마지막 사용: { DATETIME($timeUsed, day: "numeric", m
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = 생성
 login-item-timeline-action-updated = 업데이트됨
@@ -154,6 +161,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] 삭제
@@ -182,6 +193,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] { -fxaccount-brand-name }에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 로그인이 삭제됩니다. 또한, 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
        *[other] { -fxaccount-brand-name }에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인들이 삭제됩니다. 또한, 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = 로그인과 비밀번호 내보내기
 about-logins-confirm-export-dialog-message = 비밀번호는 읽을 수 있는 텍스트 (예: BadP@ssw0rd)로 저장되므로, 내보낸 파일을 열 수 있는 사람은 누구나 볼 수 있습니다.
 about-logins-confirm-export-dialog-confirm-button = 내보내기…
