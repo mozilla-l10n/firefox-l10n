@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = بلندی صدا
 videocontrols-closed-caption-button =
     .aria-label = زیرنویس‌ها
-
 videocontrols-play-button =
     .aria-label = پخش
 videocontrols-pause-button =
@@ -29,20 +28,16 @@ videocontrols-casting-button-label =
     .aria-label = قالب بر اساس صفحه نمایش
 videocontrols-closed-caption-off =
     .offlabel = غیر فعال
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = تصویر-در-تصویر
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = تماشا بصورت تصویر در تصویر
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = هنگام انجام کارهای دیگر در { -brand-short-name } ویدئوها را در پیش‌زمینه پخش کنید
-
 videocontrols-error-aborted = بارگیری فیلم متوقف شد.
 videocontrols-error-network = پخش ویدئو به دلیل خطای شبکه متوقف گردید.
 videocontrols-error-decode = به دلیل خراب بودن فایل، این ویدئو قابل پخش نیست.
@@ -50,7 +45,6 @@ videocontrols-error-src-not-supported = قالب ویدئو یا نوع MIME پ�
 videocontrols-error-no-source = هیچ ویدئویی با قالب پشتیبانی شده و نوع MIME یافت نشد.
 videocontrols-error-generic = به دلیل خطای نامشخض، پخش ویدئو متوقف گردید.
 videocontrols-status-picture-in-picture = ویدئو در حال اجرا در حالت تصویر-در-تصویر است.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -64,3 +58,12 @@ videocontrols-status-picture-in-picture = ویدئو در حال اجرا در �
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+# This is a plain text version of the videocontrols-position-and-duration-labels
+# string, used by screenreaders.
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+videocontrols-scrubber-position-and-duration =
+    .aria-label = موقعیت
+    .aria-valuetext = { $position } / { $duration }
