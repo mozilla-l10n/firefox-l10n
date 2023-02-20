@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Glasnost
 videocontrols-closed-caption-button =
     .aria-label = Podnapisi
-
 videocontrols-play-button =
     .aria-label = Predvajaj
 videocontrols-pause-button =
@@ -29,31 +28,20 @@ videocontrols-casting-button-label =
     .aria-label = Predvajaj na zaslonu
 videocontrols-closed-caption-off =
     .offlabel = Izklopljeno
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Slika v sliki
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Glejte sliko v sliki
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Predvajajte videoposnetek v ospredju, medtem ko v { -brand-short-name }u počnete druge stvari
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Prikaži videoposnetek v ločenem okencu
-
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer2 = Več zaslonov, več zabave. Predvajajte ta videoposnetek v načinu slike v sliki, medtem ko brskate.
-
 videocontrols-picture-in-picture-explainer3 = Več zaslonov, več zabave. Predvajajte ta video, medtem ko počnete druge stvari.
-
 videocontrols-error-aborted = Nalaganje videa ustavljeno.
 videocontrols-error-network = Predvajanje videa prekinjeno zaradi napake omrežja.
 videocontrols-error-decode = Videa ni mogoče predvajati, ker je datoteka pokvarjena.
@@ -61,7 +49,6 @@ videocontrols-error-src-not-supported = Zapis ali vrsta MIME videa nista podprta
 videocontrols-error-no-source = Ni bilo mogoče najti videa s podprtim zapisom ali vrsto MIME.
 videocontrols-error-generic = Predvajanje videa prekinjeno zaradi neznane napake.
 videocontrols-status-picture-in-picture = Ta videoposnetek se predvaja v načinu Slika v sliki.
-
 # This message shows the current position and total video duration
 #
 # Variables:
