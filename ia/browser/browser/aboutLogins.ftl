@@ -7,6 +7,9 @@ about-logins-page-title = Contos e contrasignos
 login-filter =
     .placeholder = Cercar credentiales
 create-login-button = Crear nove credentiales
+about-logins-login-filter =
+    .placeholder = Cercar credentiales
+    .key = C
 create-new-login-button =
     .title = Crear nove credentiales
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Adjuta
 
 login-list =
     .aria-label = Credentiales resultante del recerca
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } conto
@@ -106,6 +111,8 @@ login-item-time-used = Ultime uso: { DATETIME($timeUsed, day: "numeric", month: 
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Create
 login-item-timeline-action-updated = Actualisate
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Remover iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
 about-logins-confirm-remove-dialog-confirm-button = Remover
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Remover
@@ -185,6 +196,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Isto removera le credential salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu { -fxaccount-brand-name }. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
        *[other] Isto removera le credentiales salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu { -fxaccount-brand-name }. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Exportar credentiales e contrasignos
 about-logins-confirm-export-dialog-message = Tu contrasignos sera salvate como texto legibile (e.g., "P@ssw0rd123"), assi quicunque pote aperir le file exportate, pote vider los.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
