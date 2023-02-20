@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = ხმის სიმაღლე
 videocontrols-closed-caption-button =
     .aria-label = დახურული სუბტიტრები
-
 videocontrols-play-button =
     .aria-label = გაშვება
 videocontrols-pause-button =
@@ -29,31 +28,20 @@ videocontrols-casting-button-label =
     .aria-label = ეკრანზე გადაცემა
 videocontrols-closed-caption-off =
     .offlabel = გამორთ.
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ეკრანი-ეკრანში
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = უყურეთ ეკრანი-ეკრანში
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = გაუშვით ვიდეოები ზემოდან, საქმისთვის კი კვლავ გამოიყენეთ { -brand-short-name }
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = ამოახტუნეთ ზემოთ ვიდეო
-
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer2 = რამდენიმე ეკრანი მეტად სახალისოა. თან უყურეთ ვიდეოს ეკრანი-ეკრანში რეჟიმით და თან განაგრძეთ გვერდების თვალიერება.
-
 videocontrols-picture-in-picture-explainer3 = მეტი ეკრანი მეტად გასართობია. უყურეთ ვიდეოს სხვა საქმეების კეთებისას.
-
 videocontrols-error-aborted = ვიდეოს ჩატვირთვა შეჩერებულია
 videocontrols-error-network = ვიდეოს გაშვება შეწყვეტილია, ქსელის ხარვეზის გამო.
 videocontrols-error-decode = ვიდეოს გაშვება ვერ მოხერხდა, რადგან ფაილი დაზიანებულია.
@@ -61,7 +49,6 @@ videocontrols-error-src-not-supported = ვიდეოს ფორმატი
 videocontrols-error-no-source = ვიდეო არაა მხარდაჭერილი ფორმატის ან MIME-სახეობის.
 videocontrols-error-generic = ვიდეოს გაშვება შეწყდა, გაურკვეველი შეცდომის გამო.
 videocontrols-status-picture-in-picture = ვიდეო გაშვებულია რეჟიმით ეკრანი-ეკრანში.
-
 # This message shows the current position and total video duration
 #
 # Variables:
