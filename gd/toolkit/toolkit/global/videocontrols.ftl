@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Àirde na fuaime
 videocontrols-closed-caption-button =
     .aria-label = Fo-thiotalan
-
 videocontrols-play-button =
     .aria-label = Cluich
 videocontrols-pause-button =
@@ -29,20 +28,16 @@ videocontrols-casting-button-label =
     .aria-label = Tilg air an sgrìn
 videocontrols-closed-caption-off =
     .offlabel = Dheth
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Dealbh am broinn deilbh
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Coimhead air dealbh am broinn deilbh
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Cluich videothan sa bheulaibh fhad ’s a bhios tu ri rudan eile le { -brand-short-name }
-
 videocontrols-error-aborted = Sguireadh de luchdadh a' video.
 videocontrols-error-network = Sguireadh cluich a' video air sgàth mearachd lìonraidh.
 videocontrols-error-decode = Cha ghabh a' video a chluich a chionn 's gu bheil am faidhle coirbte.
@@ -50,7 +45,6 @@ videocontrols-error-src-not-supported = Chan eil taic ann ri fòrmat a' video no
 videocontrols-error-no-source = Cha deach video a lorg aig a bheil fòrmat no seòrsa MIME a tha taic ris.
 videocontrols-error-generic = Sguireadh de chluich a' video air sgàth mearachd neo-aithnichte.
 videocontrols-status-picture-in-picture = Tha a’ video seo a’ cluich sa mhodh dealbh am broinn deilbh.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -64,3 +58,12 @@ videocontrols-status-picture-in-picture = Tha a’ video seo a’ cluich sa mhod
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+# This is a plain text version of the videocontrols-position-and-duration-labels
+# string, used by screenreaders.
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+videocontrols-scrubber-position-and-duration =
+    .aria-label = Ionad
+    .aria-valuetext = { $position } / { $duration }
