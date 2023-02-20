@@ -71,6 +71,7 @@ cfr-cookie-banner-accept-button-variant-1 = Mdel isfuyla udhimen
     .accesskey = d
 cfr-cookie-banner-reject-button-variant-1 = Ala tanemmirt
     .accesskey = t
+cfr-cookie-banner-handling-header-variant-2 = Asenqes n yiɣarracen n yinagan n tuqqna
 cfr-cookie-banner-handling-body-variant-2 = Sireg { -brand-short-name }ad yagi asuter n uqbel n yinagan n tuqqna ma yella wamek neɣ ad yeqbel anekcum ɣer yinagan n tuqqna ma ulac amek?
 cfr-cookie-banner-accept-button-variant-2 = Sireg
     .accesskey = S

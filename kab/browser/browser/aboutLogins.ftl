@@ -7,6 +7,9 @@ about-logins-page-title = Inekcam & wawalen uffiren
 login-filter =
     .placeholder = Nadi inekcam
 create-login-button = Rnu anekcum amaynut
+about-logins-login-filter =
+    .placeholder = Nadi inekcam
+    .key = F
 create-new-login-button =
     .title = Rnu anekcum amaynut
 fxaccounts-sign-in-text = Kcem ɣer wawalen-ik uffiren ɣef yibenkan-nniḍen
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Tallalt
 
 login-list =
     .aria-label = Inekcam mmenṭaḍen d unadi
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } anekcum
@@ -106,6 +111,8 @@ login-item-time-used = Aseqdec aneggaru: { DATETIME($timeUsed, day: "numeric", m
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Yettwarna
 login-item-timeline-action-updated = Yettusnifel
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Kkes
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
        *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…

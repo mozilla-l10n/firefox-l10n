@@ -1027,6 +1027,7 @@ content-blocking-all-cookies = Inagan n tuqqna meṛṛa
 content-blocking-unvisited-cookies = Inagan n tuqqna n yismal ur yettwarzan ara
 content-blocking-all-windows-tracking-content = Agbur yettwaseqdec i uḍfaṛ deg yisfuyla meṛṛa
 content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
+content-blocking-all-cross-site-cookies = Meṛṛa inagan n tuqqna gar yismal
 content-blocking-cryptominers = Ikripṭuminaren
 content-blocking-fingerprinters = Idsilen umḍinen
 # "Test pilot" is used as a verb. Possible alternatives:

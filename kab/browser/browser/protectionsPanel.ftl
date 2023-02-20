@@ -102,6 +102,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = Asenqes n yiɣarracen n yinagan n tuqqna
 protections-panel-cookie-banner-handling-enabled = Rmed i usmel-a
 protections-panel-cookie-banner-handling-disabled = Sens i usmel-a
 protections-panel-cookie-banner-handling-undetected = Asmel-a ur yettusefrak ara akka tura
