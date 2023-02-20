@@ -22,12 +22,10 @@ about-private-browsing-not-private = Práve nie ste v súkromnom prehliadaní
 about-private-browsing-info-description-private-window = Súkromné prehliadanie: { -brand-short-name } vymaže históriu vyhľadávania a prehliadania po zatvorení všetkých súkromných okien. Tým sa však nestanete anonymnými.
 about-private-browsing-info-description-simplified = { -brand-short-name } vymaže históriu vyhľadávania a prehliadania po zatvorení všetkých súkromných okien, ale tým sa nestanete anonymnými.
 about-private-browsing-learn-more-link = Ďalšie informácie
-
 about-private-browsing-hide-activity = Skryte svoju aktivitu a polohu, nech ste kdekoľvek
 about-private-browsing-get-privacy = Získajte ochranu súkromia všade, kde prehliadate
 about-private-browsing-hide-activity-1 = Skryte svoju aktivitu a polohu pri prehliadaní pomocou služby { -mozilla-vpn-brand-name }. Jedným kliknutím vytvoríte zabezpečené pripojenie, dokonca aj na verejných sieťach Wi-Fi.
 about-private-browsing-prominent-cta = Ochráňte svoje súkromie so službou { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Nainštalujte si { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: súkromné prehliadanie na cestách
 about-private-browsing-focus-promo-text = Naša mobilná aplikácia zameraná na maximálnu ochranu súkromia vymaže vašu históriu a súbory cookie po každom prehliadaní.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Vezmite si súkromné prehliadanie
 about-private-browsing-focus-promo-text-b = Používajte { -focus-brand-name } na prehliadanie webu, ktorý by mal ostať skrytý pred vašim hlavným mobilným prehliadačom.
 about-private-browsing-focus-promo-header-c = Ochrana súkromia ďalšej úrovne na mobilnom zariadení
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } blokuje reklamy a sledovacie prvky, a zakaždým vymaže vašu históriu prehliadania.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zavrieť
-
 about-private-browsing-promo-close-button =
     .title = Zavrieť
 
@@ -64,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Pripnúť na panel úloh
     }
 about-private-browsing-pin-promo-title = Žiadne uložené súbory cookie alebo história prehliadania z vášho počítača. Prehliadajte tak, aby sa nikto nepozeral.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Bannery k súborom cookie sú preč!
+about-private-browsing-cookie-banners-promo-button = Znižovať počet bannerov súborov cookie
+about-private-browsing-cookie-banners-promo-message = Nechajte { -brand-short-name } automaticky odpovedať na žiadosti o súhlas s používaním súborov cookie za vás, aby ste sa mohli vrátiť k prehliadaniu bez rozptyľovania. { -brand-short-name } odmietne všetky požiadavky, kde je to možné.
