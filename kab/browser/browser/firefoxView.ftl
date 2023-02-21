@@ -76,6 +76,7 @@ firefoxview-change-colorway-button = Beddel afran n yiniten
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Ulac acu ara twaliḍ akka tura
+firefoxview-synced-tabs-placeholder-body = Tikkelt-nniḍen mi ara teliḍ asebter deg { -brand-product-name } ɣef yibenk-nniḍen, a t-tafeḍ dagi ur tebniḍ fell-as.
 firefoxview-collapse-button-show =
     .title = Sken tabdart
 firefoxview-collapse-button-hide =
