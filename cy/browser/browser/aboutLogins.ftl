@@ -7,6 +7,9 @@ about-logins-page-title = Mewngofnodion a Chyfrineiriau
 login-filter =
     .placeholder = Chwilio Mewngofnodion
 create-login-button = Creu Mewngofnod Newydd
+about-logins-login-filter =
+    .placeholder = Chwilio Mewngofnodion
+    .key = M
 create-new-login-button =
     .title = Creu mewngofnod newydd
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Cymorth
 
 login-list =
     .aria-label = Mewngofnodi yn cyfateb i ymholiad chwilio
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [zero] { $count } mewngofnod
@@ -110,6 +115,8 @@ login-item-time-used = Defnyddiwyd ddiwethaf: { DATETIME($timeUsed, day: "numeri
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Crëwyd
 login-item-timeline-action-updated = Diweddarwyd
@@ -159,6 +166,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Tynnu'r mewngofnod?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
 about-logins-confirm-remove-dialog-confirm-button = Tynnu
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Tynnu
@@ -217,6 +228,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [many] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -fxaccount-brand-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
        *[other] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -fxaccount-brand-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Allforio mewngofnodion a chyfrineiriau
 about-logins-confirm-export-dialog-message = Bydd eich cyfrineiriau'n cael eu cadw fel testun darllenadwy (e.e. BadP@ssw0rd) fel y gall unrhyw un sy'n gallu agor y ffeil a allforiwyd eu gweld.
 about-logins-confirm-export-dialog-confirm-button = Allforio…
