@@ -228,6 +228,8 @@ newtab-pocket-load-more-stories-button = ໂຫຼດເລື່ອງເພີ
 
 newtab-pocket-last-card-title = ທ່ານໄດ້ອ່ານເລື່ອງລາວຄົບແລ້ວ!
 newtab-pocket-last-card-desc = ກວດເບິ່ງຄືນໃນພາຍຫຼັງສໍາລັບຂໍ້ມູນເພີ່ມເຕີມ.
+newtab-pocket-last-card-image =
+    .alt = ທ່ານໄດ້ອ່ານເລື່ອງລາວຄົບແລ້ວ!
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ບັນທຶກ
 newtab-pocket-saved = ບັນທຶກແລ້ວ

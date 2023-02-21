@@ -45,6 +45,8 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator-label =
+    .aria-label = ຄວາມຄືບໜ້າ: ຂັ້ນຕອນ { $current } ຂອງ { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -125,6 +127,36 @@ onboarding-theme-primary-button-label = ສຳເລັດ
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        ປະຕິບັດຕາມຫົວຂໍ້ຂອງລະບົບປະຕິບັດການ
+        ສໍາລັບປຸ່ມ, ເມນູ, ແລະ ໜ້າຕ່າງ.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        ປະຕິບັດຕາມຫົວຂໍ້ຂອງລະບົບປະຕິບັດການ
+        ສໍາລັບປຸ່ມ, ເມນູ, ແລະ ໜ້າຕ່າງ.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        ໃຊ້ຮູບແບບສີສັນແຈ້ງສຳລັບປຸ່ມຕ່າງໆ,
+        ເມນູ, ແລະ ໜ້າຕ່າງ.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        ໃຊ້ຮູບແບບສີສັນແຈ້ງສຳລັບປຸ່ມຕ່າງໆ,
+        ເມນູ, ແລະ ໜ້າຕ່າງ.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        ໃຊ້ຮູບແບບສີສັນມືດສຳລັບປຸ່ມຕ່າງໆ,
+        ເມນູ, ແລະ ໜ້າຕ່າງ.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        ໃຊ້ຮູບແບບສີສັນມືດສຳລັບປຸ່ມຕ່າງໆ,
+        ເມນູ, ແລະ ໜ້າຕ່າງ.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
@@ -252,15 +284,19 @@ mr2022-onboarding-set-default-primary-button-label = ຕັ້ງ { -brand-short
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = ນໍາເຂົ້າຈາກຕົວທ່ອງເວັບທີ່ຜ່ານມາ
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label-continue = ກໍານົດ ແລະ ສືບຕໍ່
+mr2022-onboarding-existing-colorway-checkbox-label = ເຮັດໃຫ້ { -firefox-home-brand-name } ເປັນຫນ້າທໍາອິດທີ່ມີສີສັນຂອງທ່ານ
 mr2022-onboarding-colorway-label-default = ຄ່າພື້ນຖານ
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = ສີ { -brand-short-name } ປັດຈຸບັນ
+mr2022-onboarding-colorway-description-default = <b>ໃຊ້ສີ { -brand-short-name } ໃນປະຈຸບັນຂອງຂ້ອຍ.</b>
 mr2022-onboarding-colorway-label-playmaker = ຜູ້ຫຼິ້ນ
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = ຜູ້ຫຼິ້ນ (ສີແດງ)

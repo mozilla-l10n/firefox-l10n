@@ -55,3 +55,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] ປັກໝຸດໃສ່ແຖບໜ້າວຽກ
     }
 about-private-browsing-pin-promo-title = ບໍ່ມີຄຸກກີ້ ຫຼືປະຫວັດທີ່ບັນທຶກໄວ້, ທັນທີຈາກເດັສທັອບຂອງທ່ານ. ຄົ້ນຫາຄືກັບບໍ່ມີໃຜເບິ່ງ.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = ປ້າຍໂຄສະນາຄຸກກີເລີ່ມແລ້ວ!
+about-private-browsing-cookie-banners-promo-button = ຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
+about-private-browsing-cookie-banners-promo-message = ໃຫ້ { -brand-short-name } ຕອບຄຸກກີ້ປັອບອັບໃຫ້ທ່ານໂດຍອັດຕະໂນມັດ ເພື່ອໃຫ້ເຈົ້າສາມາດກັບຄືນສູ່ການທ່ອງເວັບແບບບໍ່ມີສິ່ງລົບກວນໄດ້. { -brand-short-name } ຈະປະຕິເສດການຮ້ອງຂໍທັງໝົດຖ້າເປັນໄປໄດ້.

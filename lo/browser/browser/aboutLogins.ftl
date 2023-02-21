@@ -7,6 +7,9 @@ about-logins-page-title = ເຂົ້າສູ່ລະບົບ & ລະຫັ
 login-filter =
     .placeholder = ຄົ້ນຫາການລັອກອິນ
 create-login-button = ສ້າງການລັອກອິນໃຫມ່
+about-logins-login-filter =
+    .placeholder = ຄົ້ນຫາການລັອກອິນ
+    .key = F
 create-new-login-button =
     .title = ສ້າງການເຂົ້າສູ່ລະບົບໃຫມ່
 fxaccounts-sign-in-text = ເອົາລະຫັດຜ່ານຂອງທ່ານໃນອຸປະກອນອື່ນຂອງທ່ານ
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = ຊ່ວຍເຫຼືອ
 
 login-list =
     .aria-label = ການເຂົ້າສູ່ລະບົບກົງກັບຄໍາຖາມຄົ້ນຫາ
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
        *[other] { $count } ເຂົ້າສູ່ລະບົບ
@@ -105,6 +110,8 @@ login-item-time-used = ນຳໃຊ້ຫຼ້າສຸດ: { DATETIME($timeUse
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = ສ້າງແລ້ວ
 login-item-timeline-action-updated = ອັບເດດ
@@ -154,6 +161,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ລົບການເຂົ້າສູ່ລະບົບນີ້?
 confirm-delete-dialog-message = ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.
 about-logins-confirm-remove-dialog-confirm-button = ລຶບ
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ລົບອອກ
@@ -177,6 +188,9 @@ about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກຈາກທຸກອຸປະກອນບໍ?
     }
+
+##
+
 about-logins-confirm-export-dialog-title = ສົ່ງອອກເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 about-logins-confirm-export-dialog-message = ລະຫັດຜ່ານຂອງທ່ານຈະຖືກບັນທຶກໄວ້ເປັນຂໍ້ຄວາມທີ່ສາມາດອ່ານໄດ້ (ເຊັ່ນ: BadP@ssw0rd) ດັ່ງນັ້ນທຸກຄົນທີ່ສາມາດເປີດໄຟລ໌ທີ່ສົ່ງອອກສາມາດເບິ່ງໄດ້.
 about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
