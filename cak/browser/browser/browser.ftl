@@ -560,6 +560,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Ketz'ib'äx tzij yekanöx
     .aria-label = Kekanöx ruwi'
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Ketz'ib'äx tzij yekanöx
+    .aria-label = Kekanöx taq b'anoj
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -635,6 +639,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Kekanöx taq Yaketal
 urlbar-result-action-search-history = Tikanöx Natab'äl
 urlbar-result-action-search-tabs = Kekanöx taq Ruwi'
+urlbar-result-action-search-actions = Kekanöx taq b'anoj
 
 ## Labels shown above groups of urlbar results
 
@@ -642,6 +647,15 @@ urlbar-result-action-search-tabs = Kekanöx taq Ruwi'
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Taq ruchilab'exik { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Anin taq b'anoj
 
 ## Reader View toolbar buttons
 
@@ -734,6 +748,8 @@ bookmarks-tools =
     .label = Taq kisamajib'al ri yakoj etal
 bookmarks-bookmark-edit-panel =
     .label = Tinuk' re yaketal re'
+bookmarks-subview-edit-bookmark =
+    .label = Tinuk' re yaketal re'…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -750,6 +766,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Titz'aqatisäx Ruwi' pa Yaketal
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Titz'aqatisäx ruwi' pa yaketal…
 
 ## Library Panel items
 
@@ -854,6 +873,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Man tel pe re rutzijol re' toq xkeq'at taq silon wachib'äl
     .accesskey = N
+edit-popup-settings =
+    .label = Tinuk'samajïx kinuk'ulem elenel taq tzuwäch…
+    .accesskey = n
 picture-in-picture-hide-toggle =
     .label = Tewäx Rupitz'b'al Picture-in-Picture
     .accesskey = T
@@ -861,6 +883,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Tisilöx rusamajib'al Picture-in-Picture pan ajkiq'a'
+    .accesskey = k
+picture-in-picture-move-toggle-left =
+    .label = Tisilöx rusamajib'al Picture-in-Picture pa xokon
+    .accesskey = k
 
 ##
 
@@ -904,6 +932,9 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong> ¿La yejaq taq ruwi' xe'ik'o yan?</strong> Yatikïr natzolij ri amolojri'ïl pa ri rucha'ob'äl choköy{ -brand-short-name } <img data-l10n-name="icon"/>, pa Natab'äl.
+restore-session-startup-suggestion-button = Tik'ut achi'el
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -911,9 +942,14 @@ data-reporting-notification-message = { -brand-short-name } pa ruyonil yerutäq 
 data-reporting-notification-button =
     .label = Tincha' na ri ninkomonij
     .accesskey = T
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Ichinan okem
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Taq k'amal
+    .tooltiptext = Taq k'amal
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
