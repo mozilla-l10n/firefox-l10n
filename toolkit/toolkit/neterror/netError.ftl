@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Check that { -brand-short-name } has perm
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } can’t protect your request for this site’s address through our trusted DNS resolver. Here’s why:
 neterror-dns-not-found-trr-only-attackers = If you continue, a third-party might be able to see what web sites you visit or send you to an untrusted site.
+neterror-dns-not-found-trr-third-party-warning = You can continue with a DNS resolver that is not secure. However, a third-party might be able to see what web sites you visit.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } wasn’t able to connect to { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = The connection to { $trrDomain } took longer than expected.
 neterror-dns-not-found-trr-offline = You are not connected to the internet.
