@@ -38,11 +38,47 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Palaqinem Wichin)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Palaqinem Wichin)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Ichinan Okem
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Ichinan Okem
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Ichinan Okem
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Ichinan Okem
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } Ichinan Okem
 
 ##
 
@@ -87,6 +123,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Tinuk'samajïx rokisaxik nak'ab'äl
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Tinuk'samajïx ri rukomonik elesäy awachib'äl chuqa' ri q'axäy atzij rik'in ri ruxaq k'amaya'l
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Tinuk'samajïx ri rukomonik q'axäy atzij rik'in ri ruxaq k'amaya'l
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Tijaq ri rupas ruyonil tzijonem
 urlbar-persistent-storage-notification-anchor =
@@ -104,6 +144,15 @@ urlbar-tip-icon-description =
     .alt = Pixa':
 urlbar-result-menu-button =
     .title = Tijaq k'utsamaj
+urlbar-result-menu-learn-more =
+    .label = Tetamäx ch'aqa' chik
+    .accesskey = t
+urlbar-result-menu-remove-from-history =
+    .label = Tiyuj pa natab'äl
+    .accesskey = y
+urlbar-result-menu-tip-get-help =
+    .label = Tk'ul to'ïk
+    .accesskey = t
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -588,6 +637,11 @@ bookmarks-other-bookmarks-menu =
     .label = Ch'aqa' chik taq Yaketal
 bookmarks-mobile-bookmarks-menu =
     .label = Taq ruyaketal oyonib'äl
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -612,6 +666,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Tiyuj el Kik'utsamaj taq Yaketal pa Molsamajib'äl
            *[other] Titz'aqatisäx Kik'utsamaj taq Yaketal pa Molsamajib'äl
         }
+
+##
+
 bookmarks-search =
     .label = Kekanöx Yaketal
 bookmarks-tools =
@@ -810,3 +867,6 @@ refresh-blocked-redirect-label = { -brand-short-name } man xuya' ta q'ij chi re 
 refresh-blocked-allow =
     .label = Tiya' q'ij
     .accesskey = y
+
+## Firefox Relay integration
+
