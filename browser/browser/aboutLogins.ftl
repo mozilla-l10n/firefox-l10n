@@ -7,6 +7,9 @@ about-logins-page-title = Contas e senhas
 login-filter =
     .placeholder = Pesquisar contas
 create-login-button = Criar nova conta
+about-logins-login-filter =
+    .placeholder = Pesquisar contas
+    .key = P
 create-new-login-button =
     .title = Criar nova conta
 fxaccounts-sign-in-text = Tenha suas senhas em outros dispositivos
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Ajuda
 
 login-list =
     .aria-label = Contas que combinar com a consulta
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } conta
@@ -106,6 +111,8 @@ login-item-time-used = Último uso: { DATETIME($timeUsed, day: "numeric", month:
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Criação
 login-item-timeline-action-updated = Atualizada
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Remover esta conta?
 confirm-delete-dialog-message = Esta ação não pode ser desfeita.
 about-logins-confirm-remove-dialog-confirm-button = Remover
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Remover
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
        *[other] Serão removidas todos as contas que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Exportar contas e senhas
 about-logins-confirm-export-dialog-message = Suas senhas serão salvas em texto legível (exemplo, Senh@Ruim123), qualquer pessoa que consiga abrir o arquivo exportado poderá ver.
 about-logins-confirm-export-dialog-confirm-button = Exportar…

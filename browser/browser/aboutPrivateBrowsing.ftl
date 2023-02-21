@@ -60,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Fixar na barra de tarefas
     }
 about-private-browsing-pin-promo-title = Não salva cookies nem histórico, direto da sua área de trabalho. Navegue como se ninguém estivesse vendo.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Chega de avisos de cookies!
+about-private-browsing-cookie-banners-promo-button = Redução de avisos de cookies
+about-private-browsing-cookie-banners-promo-message = Deixe o { -brand-short-name } responder automaticamente a avisos de cookies para que você possa voltar a navegar sem distrações. O { -brand-short-name } rejeita todas as solicitações, se possível.
