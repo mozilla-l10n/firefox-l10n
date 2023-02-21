@@ -27,3 +27,4 @@ about-glean-upload-fake-enabled =
     L’envoi de données est désactivé, mais nous mentons au { glean-sdk-brand-name } et lui disons que cet envoi est activé afin que les données soient toujours enregistrées localement.
     Note : si vous définissez une balise de débogage, les pings seront envoyés sur le <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> quels que soient les paramètres.
 controls-button-label-verbose = Appliquer les paramètres et envoyer le ping
+about-glean-about-data-header = À propos des données
