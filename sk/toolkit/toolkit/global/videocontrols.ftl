@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 videocontrols-scrubber =
-    .aria-label = Umiestnenie
+    .aria-label = Pozícia
 # This label is used by screenreaders and other assistive technology to indicate
 # to users how much of the video has been loaded from the network. It will be
 # followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
@@ -41,6 +41,9 @@ videocontrols-picture-in-picture-explainer = Prehrávajte videá v popredí a z�
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Presunúť video do samostatného okna
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Viac obrazoviek znamená viac zábavy. Prehrajte si toto video, zatiaľ čo robíte iné veci.
 videocontrols-error-aborted = Načítavanie videa zastavené.
 videocontrols-error-network = Prehrávanie videa bolo prerušené kvôli chybe siete.
@@ -69,5 +72,5 @@ videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="
 #   $position (String): The current media position
 #   $duration (String): The total video duration
 videocontrols-scrubber-position-and-duration =
-    .aria-label = Umiestnenie
+    .aria-label = Pozícia
     .aria-valuetext = { $position } / { $duration }
