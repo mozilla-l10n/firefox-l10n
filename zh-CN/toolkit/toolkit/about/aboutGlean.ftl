@@ -49,3 +49,6 @@ about-glean-about-testing-header = 关于测试
 about-glean-no-ping-label = （不提交任何 Ping）
 controls-button-label-verbose = 应用设置并提交 ping
 about-glean-about-data-header = 关于数据
+about-glean-about-data-explanation =
+    要浏览收集的数据列表，请查阅
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
