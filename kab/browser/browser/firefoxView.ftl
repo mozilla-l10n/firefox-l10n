@@ -47,6 +47,7 @@ firefoxview-tabpickup-password-locked-description = I ulqaḍ n waccaren-ik·im,
 firefoxview-tabpickup-password-locked-link = Issin ugar
 firefoxview-tabpickup-password-locked-primarybutton = Sekcem awal uffir agejdan
 firefoxview-tabpickup-signed-out-header = Kcem akken ad talseḍ tuqqna
+firefoxview-tabpickup-signed-out-description = I wakken a talseḍ tuqqna s tririt n waccaren-ik·im, qqen ɣer { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Kcem
 firefoxview-tabpickup-syncing = Seqɛed tiɣimit mi ara tessemtawayeḍ accaren-ik·im. Ur yettɛeṭṭil ara.
 firefoxview-mobile-promo-header = Awi-d accaren seg tiliɣri-inek·inem neɣ seg tfelwit n uselken
@@ -69,7 +70,6 @@ firefoxview-pickup-tabs-badge = Armud aneggaru
 firefoxview-tabs-list-tab-button =
     .title = Ldi { $targetURI } deg yiccer amaynut
 firefoxview-try-colorways-button = Ɛreḍ afran n yiniten
-firefoxview-no-current-colorway-collection = Afran n yiniten amaynut la d-teddun
 firefoxview-change-colorway-button = Beddel afran n yiniten
 # Variables:
 #  $intensity (String): Colorway intensity
