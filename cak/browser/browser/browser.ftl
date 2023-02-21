@@ -313,6 +313,33 @@ quickactions-cmd-plugins = taq nak'ab'äl
 # Opens the print dialog
 quickactions-print2 = Titz'ajb'äx ruxaq
 quickactions-cmd-print = titz'ajb'äx
+# Opens a new private browsing window
+quickactions-private2 = Tijaq ichinan tzuwäch
+quickactions-cmd-private = ichinan okem
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Titzolïx { -brand-short-name }
+quickactions-cmd-refresh = titzolïx
+# Restarts the browser
+quickactions-restart = Titikirisäx chik { -brand-short-name }
+quickactions-cmd-restart = titikirisäx chik
+# Opens the screenshot tool
+quickactions-screenshot3 = Tichap jun chapoj wachib'äl
+quickactions-cmd-screenshot = chapoj ruwäch
+# Opens about:preferences
+quickactions-settings2 = Tinuk'samajïx runuk'ulem
+quickactions-cmd-settings = taq nuk'ulem, taq ajowab'äl, taq cha'oj
+# Opens about:addons page in the themes section
+quickactions-themes = Kenuk'samajïx taq wachinel
+quickactions-cmd-themes = wachinel
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Tik'ex { -brand-short-name }
+quickactions-cmd-update = tik'ex
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Titz'et Ruxe'el Ruxaq
+quickactions-cmd-viewsource = titz'et ruxe'el, xe'el
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Tetamäx ch'aqa' chik chi kij ri Anin taq b'anoj
 
 ## Bookmark Panel
 
@@ -497,6 +524,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj Web B'anonel.
+enable-devtools-popup-description2 = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj rusamajib'al okik'amaya'l.
 
 ## URL Bar
 
