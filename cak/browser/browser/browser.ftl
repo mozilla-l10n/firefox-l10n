@@ -307,6 +307,12 @@ quickactions-cmd-inspector = nik'onel, rusamajib'al nuk'unel
 # Opens about:logins
 quickactions-logins2 = Kenuk'samajïx ewan taq tzij
 quickactions-cmd-logins = Kitikirisaxik molojri'ïl, ewan taq tzij
+# Opens about:addons page in the plugins section
+quickactions-plugins = Tinuk'samajïx nak'ab'äl
+quickactions-cmd-plugins = taq nak'ab'äl
+# Opens the print dialog
+quickactions-print2 = Titz'ajb'äx ruxaq
+quickactions-cmd-print = titz'ajb'äx
 
 ## Bookmark Panel
 
