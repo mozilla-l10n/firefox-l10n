@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Проверите да ли { -brand-sho
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } не може да обезбеди ваш захтев за адресу овог сајта помоћу нашег поузданог DNS разрешивача. Јер:
 neterror-dns-not-found-trr-only-attackers = Ако наставите, трећа страна може да види које сајтове посећујете или да вас преусмери на непоуздани сајт.
+neterror-dns-not-found-trr-third-party-warning = Можете да наставите са DNS разрешивачем који није безбедан. Међутим, могуће је да трећа страна види које сајтове посећујете.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } није могао да се повеже на { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Повезивање са { $trrDomain } трајало је дуже него очекивано.
 neterror-dns-not-found-trr-offline = Нисте повезани на интернет.

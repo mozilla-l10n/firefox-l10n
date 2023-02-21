@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } користи неважећи безбедносни сертификат.
 cert-error-mitm-intro = Веб-сајтови доказују свој идентитет путем сертификата, које издају сертификациона тела.
 cert-error-mitm-mozilla =
@@ -16,7 +16,7 @@ cert-error-mitm-mozilla =
 cert-error-mitm-connection = { -brand-short-name } користи складиште сертификационих тела које обезбеђује Mozilla, не оперативни систем. Ако антивирусни или мрежни програм пресрећу везу помоћу безбедносног сертификата који се не налази у поменутом складишту, веза се сматра небезбедном.
 cert-error-trust-unknown-issuer-intro = Неко можда покушава да опонаша сајт и не би требало да наставите.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Веб-сајтови доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује хосту { $hostname } јер је издавалац његовог сертификата непознат, сертификат је самопотписан или сервер не шаље исправне посредне сертификате.
 cert-error-trust-cert-invalid = Сертификат није поуздан јер га је издало неважеће сертификационо тело.
 cert-error-trust-untrusted-issuer = Сертификат није поуздан јер његов издавалац није поуздан.
@@ -26,52 +26,53 @@ cert-error-trust-self-signed = Сертификат није поуздан је
 cert-error-trust-symantec = Сертификати које издају GeoTrust, RapidSSL, Symantec, Thawte и VeriSign више се не сматрају безбедним, јер ова сертификациона тела у прошлости нису поштовала безбедносне процедуре.
 cert-error-untrusted-default = Сертификат не долази из поузданог извора.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Веб-сајтови доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује овом сајту јер користи сертификат који је неважећи за { $hostname }.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $alt-name (string) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single = Веб-сајтови доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује овом сајту јер користи сертификат који је неважећи за { $hostname }. Сертификат важи само за <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $alt-name (string) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Веб-сајтови доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује овом сајту јер користи сертификат који је неважећи за { $hostname }. Сертификат важи само за { $alt-name }.
 # Variables:
-# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $subject-alt-names (string) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Веб-странице доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује овом сајту јер користи сертификат који је неважећи за { $hostname }. Сертификат важи само за следеће домене: { $subject-alt-names }
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $not-after-local-time (Date) - Certificate is not valid after this time.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = Веб-сајтови доказују свој идентитет помоћу сертификата, који важе ограничени временски период. Сертификат за { $hostname } је истекао { $not-after-local-time }.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $not-before-local-time (Date) - Certificate is not valid before this time.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Веб-сајтови доказују свој идентитет помоћу сертификата, који важи само ограничени временски период. Сертификат за { $hostname } почиње да важи { $not-before-local-time }.
 # Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код грешке: { $error }
 # Variables:
-# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Кôд грешке: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+#   $hostname (string) - Hostname of the website with SSL error.
+#   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Дошло је до грешке при повезивању на { $hostname }. { $errorMessage }
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Веб-сајтови доказују свој идентитет помоћу сертификата, које издају сертификациона тела. Већина прегледача више не верује сертификатима које издају GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } користи сертификат једног од ових издаваоца, па се идентитет сајта не може доказати.
 cert-error-symantec-distrust-admin = О овом проблему можете да обавестите администратора веб-сајта.
 cert-error-old-tls-version = Ова страница не подржава TLS 1.2 протокол а то је најмање издање које подржава { -brand-short-name }.
 # Variables:
-# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+#   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
-# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+#   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Ланац сертификата:
 open-in-new-window-for-csp-or-xfo-error = Отвори сајт у новом прозору
 # Variables:
-# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+#   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Из безбедносних разлога { $hostname } не дозвољава да { -brand-short-name } прикаже страницу ако је уграђена у други сајт. Отворите страницу у новом прозору да бисте је видели.
 
 ## Messages used for certificate error titles
@@ -82,10 +83,12 @@ deniedPortAccess-title = Приступ овој адреси је ограни�
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Овај сајт није доступан
 # Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Могући безбедносни ризик за { $hostname }.
 # Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title2 = Могући безбедносни ризик при тражењу овог домена
+# Variables:
+#   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Могући безбедносни ризик за { $hostname }.
 fileNotFound-title = Датотека није пронађена
 fileAccessDenied-title = Приступ датотеци је одбијен
