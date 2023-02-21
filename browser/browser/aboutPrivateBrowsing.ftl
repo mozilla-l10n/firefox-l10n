@@ -22,12 +22,10 @@ about-private-browsing-not-private = Зараз ви не у приватном�
 about-private-browsing-info-description-private-window = Приватне вікно: { -brand-short-name } очищує історію пошуку та перегляду, коли ви закриваєте всі приватні вікна. Це не робить вас анонімними.
 about-private-browsing-info-description-simplified = { -brand-short-name } очищує історію пошуку та перегляду, коли ви закриваєте усі приватні вікна, але це не робить вас анонімними.
 about-private-browsing-learn-more-link = Докладніше
-
 about-private-browsing-hide-activity = Приховуйте свою активність і місцеперебування де б ви не переглядали щось в інтернеті
 about-private-browsing-get-privacy = Отримайте захист приватності в інтернеті всюди
 about-private-browsing-hide-activity-1 = Приховати активність перегляду та місцеперебування за допомогою { -mozilla-vpn-brand-name }. Одним натисканням створює безпечне з'єднання навіть у загальнодоступній мережі Wi-Fi.
 about-private-browsing-prominent-cta = Зберігайте приватність з { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Завантажити { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: приватний перегляд у дорозі
 about-private-browsing-focus-promo-text = Наш спеціалізований мобільний застосунок для приватного перегляду щоразу очищає вашу історію та куки.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Перейдіть до прива
 about-private-browsing-focus-promo-text-b = Користуйтеся { -focus-brand-name } для тих приватних пошуків, які ви хочете приховати від основного мобільного браузера.
 about-private-browsing-focus-promo-header-c = Приватність вищого рівня на мобільному пристрої
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } щоразу очищує вашу історію, блокуючи рекламу та елементи стеження.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Закрити
-
 about-private-browsing-promo-close-button =
     .title = Закрити
 
@@ -64,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Закріпити на панелі завдань
     }
 about-private-browsing-pin-promo-title = Жодних збережених кук чи історії на комп'ютері. Переглядайте без думки, що за вами хтось спостерігає.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Геть банери про куки!
+about-private-browsing-cookie-banners-promo-button = Зменшити кількість банерів кук
+about-private-browsing-cookie-banners-promo-message = Дайте можливість { -brand-short-name } автоматично відповідати на спливні вікна кук, щоб вони не заважали вам під час онлайн-перегляду. { -brand-short-name } відхилить усі запити, якщо це можливо.

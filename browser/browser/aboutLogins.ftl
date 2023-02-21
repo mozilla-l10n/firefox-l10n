@@ -7,6 +7,9 @@ about-logins-page-title = Паролі
 login-filter =
     .placeholder = Шукати паролі
 create-login-button = Створити новий запис
+about-logins-login-filter =
+    .placeholder = Шукати паролі
+    .key = F
 create-new-login-button =
     .title = Створити новий запис
 fxaccounts-sign-in-text = Отримайте доступ до своїх паролів на інших пристроях
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Допомога
 
 login-list =
     .aria-label = Паролі, що відповідають пошуковому запиту
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } запис
@@ -107,6 +112,8 @@ login-item-time-used = Використано: { DATETIME($timeUsed, day: "numer
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Створено
 login-item-timeline-action-updated = Оновлено
@@ -156,6 +163,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Вилучити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
 about-logins-confirm-remove-dialog-confirm-button = Вилучити
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [one] Вилучити
@@ -194,6 +205,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Це призведе до вилучення всіх збережених у { -brand-short-name } паролів з усіх пристроїв, синхронізованих з вашим { -fxaccount-brand-name(case: "abl") }. Це також вилучить попередження про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
        *[many] Це призведе до вилучення всіх збережених у { -brand-short-name } паролів з усіх пристроїв, синхронізованих з вашим { -fxaccount-brand-name(case: "abl") }. Це також вилучить попередження про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Експортувати паролі
 about-logins-confirm-export-dialog-message = Ваші паролі буде збережено у вигляді звичайного тексту (наприклад, BadP@ssw0rd), тож кожен, хто може відкрити експортований файл, зможе їх переглянути.
 about-logins-confirm-export-dialog-confirm-button = Експорт…
