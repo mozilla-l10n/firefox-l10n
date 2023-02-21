@@ -249,8 +249,8 @@ colorways-cfr-header-today = Les combinacions de colors de Veus independents cad
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Adeu als bàners de galetes!
 cfr-cookiebanner-body = Permeteu que el { -brand-short-name } rebutgi automàticament totes les sol·licituds de bàners de galetes, quan sigui possible.
-cfr-cookiebanner-accept-button = Tanca els bàners
-    .accesskey = T
+cfr-cookiebanner-accept-button-v2 = Rebutja les sol·licituds
+    .accesskey = R
 cfr-cookiebanner-reject-button = Ara no
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Vegeu menys finestres emergents de galetes
