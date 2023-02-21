@@ -8,6 +8,8 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } ur yezmir ara ad isirew agelmus amaynut. Tangalt n tuccḍa HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ur yezmir ara ad d-yaf igelmusen ara yettwaseqacan. Tangalt n tuccḍa HTTP: { $status }.
 
 ##
 
