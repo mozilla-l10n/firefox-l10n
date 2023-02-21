@@ -7,6 +7,9 @@ about-logins-page-title = Aanmeldingen & Wachtwoorden
 login-filter =
     .placeholder = Aanmeldingen zoeken
 create-login-button = Nieuwe aanmelding maken
+about-logins-login-filter =
+    .placeholder = Aanmeldingen zoeken
+    .key = F
 create-new-login-button =
     .title = Nieuwe aanmelding maken
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Help
 
 login-list =
     .aria-label = Aanmeldingen die overeenkomen met de zoekterm
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } aanmelding
@@ -106,6 +111,8 @@ login-item-time-used = Laatst gebruikt: { DATETIME($timeUsed, day: "numeric", mo
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Gemaakt
 login-item-timeline-action-updated = Bijgewerkt
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Verwijderen
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
        *[other] Dit verwijdert de aanmeldingen die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Aanmeldingen en wachtwoorden exporteren
 about-logins-confirm-export-dialog-message = Uw wachtwoorden worden opgeslagen als leesbare tekst (bijvoorbeeld BadP@ssw0rd), dus iedereen die het geëxporteerde bestand kan openen, kan ze bekijken.
 about-logins-confirm-export-dialog-confirm-button = Exporteren…
