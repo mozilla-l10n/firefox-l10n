@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Gwiriwch fod gan { -brand-short-name } ga
 
 neterror-dns-not-found-trr-only-reason = Nid yw { -brand-short-name } yn gallu diogelu eich cais am gyfeiriad y wefan hon trwy ein datryswr DNS dibynadwy. Dyma pam:
 neterror-dns-not-found-trr-only-attackers = Os byddwch yn parhau, efallai y bydd trydydd parti yn gallu gweld pa wefannau rydych chi'n ymweld â nhw neu'n eich anfon i wefan nad yw'n ymddiried ynddo.
+neterror-dns-not-found-trr-third-party-warning = Gallwch barhau â datryswr DNS nad yw'n ddiogel. Fodd bynnag, efallai y bydd trydydd parti yn gallu gweld pa wefannau rydych chi'n ymweld â nhw.
 neterror-dns-not-found-trr-only-could-not-connect = Nid oedd modd i { -brand-short-name } gysylltu â { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Cymerodd y cysylltiad i { $trrDomain } fwy o amser na'r disgwyl.
 neterror-dns-not-found-trr-offline = Nid ydych wedi'ch cysylltu â'r rhyngrwyd.
