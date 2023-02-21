@@ -7,6 +7,9 @@ about-logins-page-title = Логиндер және парольдер
 login-filter =
     .placeholder = Логиндерден іздеу
 create-login-button = Жаңа логинді жасау
+about-logins-login-filter =
+    .placeholder = Логиндерден іздеу
+    .key = F
 create-new-login-button =
     .title = Жаңа логинді жасау
 fxaccounts-sign-in-text = Парольдеріңізді басқа құрылғыларыңызды алыңыз
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Көмек
 
 login-list =
     .aria-label = Іздеу сұрауына сәйкес логиндер
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
        *[other] { $count } логин
@@ -105,6 +110,8 @@ login-item-time-used = Соңғы рет қолданылған: { DATETIME($tim
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Жасалған
 login-item-timeline-action-updated = Жаңартылды
@@ -154,6 +161,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
 about-logins-confirm-remove-dialog-confirm-button = Өшіру
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Өшіру
@@ -182,6 +193,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Бұл { -brand-short-name } жүйесіне сақтаған логинді сіздің барлық { -fxaccount-brand-name } арқылы синхрондалған құрылғылардан өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
        *[other] Бұл { -brand-short-name } жүйесіне сақтаған барлық логиндерді сіздің барлық { -fxaccount-brand-name } арқылы синхрондалған құрылғылардан өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Логиндер және парольдерді экспорттау
 about-logins-confirm-export-dialog-message = Парольдеріңіз ашық, оқуға келетін мәтін ретінде сақталатын болады (мыс., BadP@ssw0rd) сондықтан экспортталған файлды аша алатын адам оларды көре алады.
 about-logins-confirm-export-dialog-confirm-button = Экспорттау…
