@@ -161,6 +161,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Jub'a' katz'ib'an, k'ïy tawila': Tikanöx { $engineName } choj pa rochoch etalib'äl.
 urlbar-search-tips-redirect-2 = Tatikirisaj kanoxïk pa ri rukajtz'ik ochochib'äl richin ye'atz'ët taq ruchilab'exik { $engineName } chuqa' runatab'al awokik'amaya'l.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Wakami man k'ayew ta ri kanoxïk. Tatojtob'ej nakanoj ri nawajo' wawe' pa ri kikajtz'ik ochochib'äl. We nawajo' nak'üt ri URL, takanoj Tikanöx, pa ri runuk'ulem.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Tacha' re chojokem richin anin nawïl ri nakanoj.
@@ -277,11 +279,34 @@ search-one-offs-tabs =
     .tooltiptext = Taq ruwi' ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Natab'äl ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Taq b'anoj ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Ketz'et taq Tz'aqat
+quickactions-cmd-addons2 = taq tz'aqat
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Kenuk'samajïx taq yaketal
+quickactions-cmd-bookmarks = taq yaketal
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Tiyuj el ri natab'äl
+quickactions-cmd-clearhistory = tiyuj natab'äl
+# Opens about:downloads page
+quickactions-downloads2 = Ketz'et taq qasanïk
+quickactions-cmd-downloads = taq qasanïk
+# Opens about:addons page in the extensions section
+quickactions-extensions = Kinuk'samajixik taq k'amal
+quickactions-cmd-extensions = taq k'amal
+# Opens the devtools web inspector
+quickactions-inspector2 = Kejaq taq Rusamajib'al Nuk'unel
+quickactions-cmd-inspector = nik'onel, rusamajib'al nuk'unel
+# Opens about:logins
+quickactions-logins2 = Kenuk'samajïx ewan taq tzij
+quickactions-cmd-logins = Kitikirisaxik molojri'ïl, ewan taq tzij
 
 ## Bookmark Panel
 
