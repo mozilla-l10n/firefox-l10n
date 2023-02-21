@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有联
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } 无法通过可信 DNS 解析器保护您对本网址的请求。原因如下：
 neterror-dns-not-found-trr-only-attackers = 若您继续，第三方可能会看到您在访问哪些网站或将您解析至不受信任的网站。
+neterror-dns-not-found-trr-third-party-warning = 您可以继续使用不安全的 DNS 解析器。但是，第三方可能能够看到您访问的网站。
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } 无法连接到 { $trrDomain }。
 neterror-dns-not-found-trr-only-timeout = 连接到 { $trrDomain } 的时间超过预期。
 neterror-dns-not-found-trr-offline = 您未连接到互联网。
