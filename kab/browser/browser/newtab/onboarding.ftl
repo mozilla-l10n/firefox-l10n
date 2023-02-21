@@ -408,3 +408,5 @@ onboarding-infrequent-import-primary-button = Kter ɣer { -brand-short-name }
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Aman yettmahalen s uselkim gar yitran  yijeǧǧigen
