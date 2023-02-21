@@ -7,6 +7,9 @@ about-logins-page-title = Воридшавиҳо ва ниҳонвожаҳо
 login-filter =
     .placeholder = Ҷустуҷӯи воридшавиҳо
 create-login-button = Эҷод кардани воридшавии нав
+about-logins-login-filter =
+    .placeholder = Ҷустуҷӯи воридшавиҳо
+    .key = Ҷ
 create-new-login-button =
     .title = Эҷод кардани воридшавии нав
 fxaccounts-sign-in-text = Ниҳонвожаҳои худро дар дастгоҳҳои дигари худ ба даст оред
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Кумак
 
 login-list =
     .aria-label = Воридшавиҳое, ки ба дархости ҷустуҷӯ мувофиқат мекунанд
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } воридшавӣ
@@ -106,6 +111,8 @@ login-item-time-used = Санаи истифодаи охирин: { DATETIME($t
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Санаи эҷод
 login-item-timeline-action-updated = Санаи навсозӣ
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Ин воридшавиро тоза мекунед?
 confirm-delete-dialog-message = Ин амал бекор карда намешавад.
 about-logins-confirm-remove-dialog-confirm-button = Тоза кардан
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Тоза кардан
@@ -185,6 +196,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Ин амал воридшавиеро, ки шумо дар «{ -brand-short-name }» нигоҳ доштед, дар ҳамаи дастгоҳҳои бо «{ -fxaccount-brand-name }» ҳамоҳангшуда тоза мекунад. Аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
        *[other] Ин амал ҳамаи воридшавиҳоеро, ки шумо дар «{ -brand-short-name }» нигоҳ доштед, дар ҳамаи дастгоҳҳои бо «{ -fxaccount-brand-name }» ҳамоҳангшуда тоза мекунад. Аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
 about-logins-confirm-export-dialog-message = Ниҳонвожаҳои шумо дар шакли матни хондашаванда нигоҳ дошта мешаванд (масалан, BadP@ssw0rd), бинобар ин, ҳар касе, ки метавонад файлро кушояд, ҳам метавонад ниҳонвожаҳоро бинад.
 about-logins-confirm-export-dialog-confirm-button = Содирот…
