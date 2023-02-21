@@ -26,5 +26,21 @@ about-glean-upload-enabled-local = L'envoi de données est activé uniquement ve
 about-glean-upload-fake-enabled =
     L’envoi de données est désactivé, mais nous mentons au { glean-sdk-brand-name } et lui disons que cet envoi est activé afin que les données soient toujours enregistrées localement.
     Note : si vous définissez une balise de débogage, les pings seront envoyés sur le <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> quels que soient les paramètres.
+# Variables:
+#   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
+# Do not translate strings between <code> </code> tags.
+about-glean-data-upload = <code>datareporting.healthreport.uploadEnabled</code> : { $data-upload-pref-value }
+# Variables:
+#   $local-port-pref-value (Integer): the value of the telemetry.fog.test.localhost_port pref. Typically 0. Can be negative.
+# Do not translate strings between <code> </code> tags.
+about-glean-local-port = <code>telemetry.fog.test.localhost_port</code> : { $local-port-pref-value }
+# Variables:
+#   $glean-android-define-value (Boolean): the value of the MOZ_GLEAN_ANDROID define. Typically "false", sometimes "true".
+# Do not translate strings between <code> </code> tags.
+about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code> : { $glean-android-define-value }
+# Variables:
+#   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
+# Do not translate strings between <code> </code> tags.
+about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-define-value }
 controls-button-label-verbose = Appliquer les paramètres et envoyer le ping
 about-glean-about-data-header = À propos des données

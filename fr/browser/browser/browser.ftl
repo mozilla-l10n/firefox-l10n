@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = Suggestion :
 urlbar-result-menu-button =
     .title = Ouvrir le menu
+urlbar-result-menu-learn-more =
+    .label = En savoir plus
+    .accesskey = E
 urlbar-result-menu-remove-from-history =
     .label = Supprimer de l’historique
     .accesskey = S
@@ -707,6 +710,11 @@ bookmarks-other-bookmarks-menu =
     .label = Autres marque-pages
 bookmarks-mobile-bookmarks-menu =
     .label = Marque-pages des appareils mobiles
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -731,6 +739,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Retirer le menu de la barre personnelle
            *[other] Ajouter le menu à la barre d’outils
         }
+
+##
+
 bookmarks-search =
     .label = Rechercher dans les marque-pages
 bookmarks-tools =

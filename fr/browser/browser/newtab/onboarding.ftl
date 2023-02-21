@@ -270,6 +270,8 @@ mr2022-onboarding-secondary-skip-button-label = Ignorer cette étape
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Enregistrer et continuer
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Faire de { -brand-short-name } mon navigateur par défaut
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Importer depuis un ancien navigateur
 
