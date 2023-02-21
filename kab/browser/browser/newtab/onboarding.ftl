@@ -410,3 +410,5 @@ onboarding-infrequent-import-primary-button = Kter ɣer { -brand-short-name }
 
 mr2022-onboarding-pin-image-alt =
     .aria-label = Aman yettmahalen s uselkim gar yitran  yijeǧǧigen
+mr2022-onboarding-default-image-alt =
+    .aria-label = Aman yeṭṭef alugu n { -brand-product-name }
