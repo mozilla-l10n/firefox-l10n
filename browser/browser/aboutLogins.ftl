@@ -7,6 +7,9 @@ about-logins-page-title = Identifiants et mots de passe
 login-filter =
     .placeholder = Rechercher des identifiants
 create-login-button = Créer un nouvel identifiant
+about-logins-login-filter =
+    .placeholder = Rechercher des identifiants
+    .key = F
 create-new-login-button =
     .title = Créer un nouvel identifiant
 fxaccounts-sign-in-text = Accédez à vos mots de passe sur vos autres appareils
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Aide
 
 login-list =
     .aria-label = Identifiants correspondants à la recherche
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } identifiant
@@ -106,6 +111,8 @@ login-item-time-used = Dernière utilisation : { DATETIME($timeUsed, day: "nume
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Création
 login-item-timeline-action-updated = Mise à jour
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Supprimer cet identifiant ?
 confirm-delete-dialog-message = Cette action est irréversible.
 about-logins-confirm-remove-dialog-confirm-button = Supprimer
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Supprimer
@@ -185,6 +196,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Cette action supprimera l’identifiant enregistré pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
        *[other] Cette action supprimera tous les identifiants enregistrés pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Exporter les identifiants et les mots de passe
 about-logins-confirm-export-dialog-message = Vos mots de passe seront enregistrés sous forme de texte lisible (par exemple, « m0t2passeFaible ») ; ainsi toute personne pouvant ouvrir le fichier exporté pourra les consulter.
 about-logins-confirm-export-dialog-confirm-button = Exporter…

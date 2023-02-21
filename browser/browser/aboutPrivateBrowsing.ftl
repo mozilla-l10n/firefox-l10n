@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = Aucun cookie ni historique enregistré.
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Fini les bannières de cookies !
 about-private-browsing-cookie-banners-promo-button = Réduire les bannières de cookies
+about-private-browsing-cookie-banners-promo-message = Laisser { -brand-short-name } répondre automatiquement aux popups de cookies pour une navigation sans distraction. { -brand-short-name } rejettera toutes les demandes si possible.
