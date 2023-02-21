@@ -21,6 +21,7 @@
 
 # This is the title of the page
 about-logging-title = Ɣef tɣamsa
+about-logging-page-title = Amsefrak n tɣamsa
 about-logging-current-log-file = Afaylu aɣmis amiran:
 about-logging-log-tutorial = Wali <a data-l10n-name="logging">Asniɣmes HTTP </a> ɣe wamek ad tesqedceḍ afecku-agi.
 # This message is used as a button label, "Open" indicates an action.
