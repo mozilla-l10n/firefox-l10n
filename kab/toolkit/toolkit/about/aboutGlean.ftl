@@ -42,3 +42,4 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Ɣef usekyed
 controls-button-label-verbose = Snes iɣewwaren syen azen ping
 about-glean-about-data-header = Ɣef yisefka
+about-glean-about-data-explanation = I wakken a tinigeḍ deg tebart n yisefka i -yettwalqaḍen, senqed<a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Amawal</a>.
