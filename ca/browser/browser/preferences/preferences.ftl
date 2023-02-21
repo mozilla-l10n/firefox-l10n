@@ -73,6 +73,17 @@ restart-later = Reinicia més tard
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = L'extensió <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla aquest paràmetre.
@@ -132,7 +143,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -155,6 +166,10 @@ browser-containers-settings =
     .label = Paràmetres…
     .accesskey = t
 containers-disable-alert-title = Voleu tancar totes les pestanyes de contenidor?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Si desactiveu les pestanyes de contenidor ara, es tancarà { $tabCount } pestanya de contenidor. Segur que voleu desactivar les pestanyes de contenidor?
@@ -165,10 +180,13 @@ containers-disable-alert-ok-button =
         [one] Tanca { $tabCount } pestanya de contenidor
        *[other] Tanca { $tabCount } pestanyes de contenidor
     }
+
+##
+
 containers-disable-alert-cancel-button = Mantén activades
 containers-remove-alert-title = Voleu eliminar aquest contenidor?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Si elimineu aquest contenidor ara, es tancarà { $count } pestanya de contenidor. Segur que voleu eliminar aquest contenidor?
@@ -228,6 +246,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom per defecte
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -320,15 +340,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Demana-m'ho sempre
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilitza { $plugin-name } (en el { -brand-short-name })
 applications-open-inapp =
@@ -371,6 +391,8 @@ play-drm-content =
 play-drm-content-learn-more = Més informació
 update-application-title = Actualitzacions del { -brand-short-name }
 update-application-description = Manteniu el { -brand-short-name } actualitzat per obtenir el millor rendiment, estabilitat i seguretat.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versió { $version } <a data-l10n-name="learn-more">Novetats</a>
 update-history =
     .label = Mostra l'historial d'actualitzacions…
@@ -397,7 +419,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Error en desar els paràmetres d'actualització
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -427,7 +449,7 @@ performance-limit-content-process-option = Límit de processos de contingut
 performance-limit-content-process-enabled-desc = Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.
 performance-limit-content-process-blocked-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a data-l10n-name="learn-more">Més informació sobre com comprovar si el multiprocés està activat.</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (per defecte)
 
@@ -533,6 +555,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
@@ -562,6 +588,8 @@ home-prefs-recent-activity-description = Una selecció de continguts i llocs rec
 home-prefs-snippets-header =
     .label = Retalls
 home-prefs-snippets-description-new = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -590,6 +618,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostra suggeriments de cerca als resultats de la barra d'adreces
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Mostra els termes de cerca en lloc de l'URL a la pàgina de resultats del motor de cerca per defecte
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -621,7 +654,7 @@ search-find-more-link = Afegiu més motors de cerca
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplica la paraula clau
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Heu triat una paraula clau que ja utilitza «{ $name }». Seleccioneu-ne una altra.
 search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una adreça d'interès. Seleccioneu-ne una altra.
 
@@ -668,8 +701,15 @@ sync-sign-out =
     .accesskey = T
 sync-manage-account = Gestiona el compte
     .accesskey = a
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+
+##
+
 sync-resend-verification =
     .label = Torna a enviar la verificació
     .accesskey = v
@@ -792,6 +832,8 @@ forms-breach-alerts =
     .label = Mostra alertes sobre contrasenyes per als llocs web relacionats amb filtracions de dades
     .accesskey = b
 forms-breach-alerts-learn-more-link = Més informació
+relay-integration =
+    .label = Activa el { -relay-brand-name } en el gestor de contrasenyes del { -brand-short-name }
 relay-integration-learn-more-link = Més informació
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -881,8 +923,8 @@ history-clear-button =
 sitedata-header = Galetes i dades dels llocs
 sitedata-total-size-calculating = S'està calculant la mida de les dades dels llocs i de la memòria cau…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Les galetes, les dades dels llocs i la memòria cau actualment ocupen { $value } { $unit } d'espai de disc.
 sitedata-learn-more = Més informació
 sitedata-delete-on-close =
@@ -909,6 +951,8 @@ sitedata-option-block-unvisited =
     .label = Galetes de llocs web no visitats
 sitedata-option-block-all-third-party =
     .label = Totes les galetes de tercers (pot fer que alguns llocs web no funcionin)
+sitedata-option-block-all-cross-site-cookies =
+    .label = Totes les galetes entre llocs (pot fer que alguns llocs web no funcionin)
 sitedata-option-block-all =
     .label = Totes les galetes (farà que alguns llocs web no funcionin)
 sitedata-clear =
@@ -988,6 +1032,7 @@ content-blocking-all-cookies = Totes les galetes
 content-blocking-unvisited-cookies = Galetes de llocs no visitats
 content-blocking-all-windows-tracking-content = Contingut que fa seguiment en totes les finestres
 content-blocking-all-third-party-cookies = Totes les galetes de tercers
+content-blocking-all-cross-site-cookies = Totes les galetes entre llocs
 content-blocking-cryptominers = Miners de criptomonedes
 content-blocking-fingerprinters = Generadors d'empremtes digitals
 # "Test pilot" is used as a verb. Possible alternatives:
@@ -1001,6 +1046,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on us trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre.
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
+content-blocking-etp-standard-tcp-title = Inclou la Protecció total de galetes, la nostra funció de privadesa més potent fins ara
 content-blocking-warning-title = Atenció!
 content-blocking-and-isolating-etp-warning-description-2 = Aquest paràmetre pot fer que alguns llocs web no mostrin part del contingut o que no funcionin correctament. Si sembla que un lloc no funciona bé, podeu provar de desactivar la protecció contra el seguiment perquè aquest lloc carregui tot el contingut.
 content-blocking-warning-learn-how = Vegeu com fer-ho
@@ -1108,6 +1154,10 @@ addon-recommendations-link = Més informació
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
     .accesskey = f
+privacy-segmentation-section-header = Noves funcions que milloren la navegació
+privacy-segmentation-section-description = Quan us oferim funcions que utilitzen les vostres dades per oferir-vos una experiència més personal:
+privacy-segmentation-radio-off =
+    .label = Utilitza les recomanacions del { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostra informació detallada
 
