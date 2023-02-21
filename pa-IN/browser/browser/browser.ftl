@@ -144,6 +144,9 @@ urlbar-tip-icon-description =
     .alt = ਟੋਟਕਾ:
 urlbar-result-menu-button =
     .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
+urlbar-result-menu-learn-more =
+    .label = ਹੋਰ ਜਾਣੋ
+    .accesskey = L
 urlbar-result-menu-remove-from-history =
     .label = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
     .accesskey = R
@@ -712,6 +715,11 @@ bookmarks-other-bookmarks-menu =
     .label = ਹੋਰ ਬੁੱਕਮਾਰਕ
 bookmarks-mobile-bookmarks-menu =
     .label = ਮੋਬਾਈਲ ਬੁੱਕਮਾਰਕ
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -736,6 +744,9 @@ bookmarks-tools-menu-button-visibility =
             [true] ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਆਪਣੇ ਟੂਲਬਾਰ 'ਚੋਂ ਹਟਾਓ
            *[other] ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਆਪਣੇ ਟੂਲਬਾਰ 'ਚ ਜੋੜੋ
         }
+
+##
+
 bookmarks-search =
     .label = ਬੁੱਕਮਾਰਕ ਲੱਭੋ
 bookmarks-tools =

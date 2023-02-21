@@ -60,3 +60,10 @@ about-private-browsing-pin-promo-link-text =
        *[other] ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗੋ
     }
 about-private-browsing-pin-promo-title = ਕੋਈ ਵੀ ਸੰਭਾਲੇ ਕੂਕੀਜ਼ ਜਾਂ ਅਤੀਤ ਨਹੀਂ, ਸਿੱਧੇ ਤੁਹਾਡੇ ਡੈਸਕਟਾਪ ਤੋਂ। ਬਰਾਊਜ਼ ਇੰਞ ਕਰੋ ਕਿ ਕੋਈ ਨਿਗਰਾਨੀ ਨਹੀਂ ਕਰਦਾ।
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = ਕੂਕੀ ਬੈਨਰ ਘਟਾਓ!
+about-private-browsing-cookie-banners-promo-button = ਕੂਕੀਜ਼ ਬੈਨਰ ਘਟਾਓ
