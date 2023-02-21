@@ -7,6 +7,9 @@ about-logins-page-title = Пријаве
 login-filter =
     .placeholder = Претражите пријаве
 create-login-button = Направите нову пријаву
+about-logins-login-filter =
+    .placeholder = Претражи пријаве
+    .key = F
 create-new-login-button =
     .title = Направите нову пријаву
 fxaccounts-sign-in-text = Приступите лозинкама на другим уређајима
@@ -30,6 +33,8 @@ about-logins-menu-menuitem-help = Помоћ
 
 login-list =
     .aria-label = Пронађене пријаве
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } пријава
@@ -115,6 +120,8 @@ login-item-time-used = Последњи пут коришћено: { DATETIME($t
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Направљено
 login-item-timeline-action-updated = Ажурирано
@@ -164,6 +171,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
 confirm-delete-dialog-message = Ова радња се не може опозвати.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Уклони
@@ -236,6 +247,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
                *[other] програму { -brand-short-name }
             } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Извезите податке за пријаву
 about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
 about-logins-confirm-export-dialog-confirm-button = Извоз…

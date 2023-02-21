@@ -56,3 +56,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Закачи на траку задатака
     }
 about-private-browsing-pin-promo-title = Нема сачуваних колачића или историје, директно са радне површине. Прегледајте као да нико не гледа.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Доле банери колачића!
+about-private-browsing-cookie-banners-promo-button = Смањи банере колачића
+about-private-browsing-cookie-banners-promo-message = Дозволите да { -brand-short-name } аутоматски одговара на искачуће прозоре за колачиће, тако да се можете посветити прегледању без ометања. { -brand-short-name } ће одбити све захтеве ако је то могуће.
