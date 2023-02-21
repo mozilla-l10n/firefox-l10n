@@ -120,6 +120,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Wachinel B'i'aj
     .tooltiptext = Tiyak jun ruwäch rub'i' rub'eyal nisamäj
+profiler-popup-button-recording =
+    .label = Wachinel b'i'aj
+    .tooltiptext = Ri wachinel b'i'aj nuyäk jun ruwäch b'i'aj
+profiler-popup-button-capturing =
+    .label = Wachinel B'i'aj
+    .tooltiptext = Ri wachinel b'i'aj nuchäp jun ruwäch b'i'aj
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-header-text = { -profiler-brand-name }
@@ -161,16 +167,30 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-web-developer-description = Chilab'en runuk'ulem richin yesamajïx b'ama konojel ri taq ruchokoy okik'amaya'l, rik'in jub'a' uchuq'ab'il.
 profiler-popup-presets-web-developer-label =
     .label = Nuk'unel ajk'amaya'l
+profiler-popup-presets-firefox-description = Chilab'en rajil richin yenuk' taq ruwäch rub'i' { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Runuk'ulem richin yekanöx sachoj wachib'äl pa { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Taq wachib'äl
+profiler-popup-presets-media-description2 = Runuk'ulem richin yekanöx sachoj k'oxom chuqa' taq silowäch pa { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = K'ïy k'oxom
+profiler-popup-presets-networking-description = Runuk'ulem richin yekanöx sachoj taq k'amal pa { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = K'amab'ey
+profiler-popup-presets-power-description = Runuk'ulem richin yekanöx sachoj rokisaxik uchuq'a' pa { -brand-shorter-name }, rik'in jub'a' rokisaxik.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Uchuq'a'
 profiler-popup-presets-custom-label =
     .label = Ichinan
 
@@ -205,6 +225,9 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = E
 appmenu-help-report-site-issue =
     .label = Tiya' rutzijol ri ruk'ayewal Ruxaq K'amaya'l…
+appmenu-help-share-ideas =
+    .label = Kekomonïx taq na'oj chuqa' taq rutzijol…
+    .accesskey = m
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
