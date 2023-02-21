@@ -954,6 +954,11 @@ unified-extensions-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Taq k'amal
+    .tooltiptext =
+        Taq k'amal
+        Xe'ajowäx ya'oj q'ij
 
 ## Autorefresh blocker
 
@@ -965,3 +970,9 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-relay = { -relay-brand-name } taya' ruk'oj ri qitzij rochochib'al ataqoya'l richin nato' nachajij chi kiwäch kichayuxik taq tzij chuqa' taq spam.
+firefox-relay-offer-how-we-integrate = Toq nawoqaj, yatikïr ye'atz'ük k'ak'a' taq ruk'oj rutaqoya'l { -relay-brand-short-name } chupam ri runuk'samajel ewan taq rutzij { -brand-shorter-name }.
+# Variables:
+#  $sitename (String): name of the site where user enters their Relay mask
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-does = Reenviaremos todos los correos electrónicos de <strong>{ $sitename }</strong> pa <strong>{ $useremail }</strong>.
