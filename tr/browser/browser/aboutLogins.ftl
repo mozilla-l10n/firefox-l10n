@@ -7,6 +7,9 @@ about-logins-page-title = Hesaplar ve Parolalar
 login-filter =
     .placeholder = Hesaplarda ara
 create-login-button = Yeni hesap oluştur
+about-logins-login-filter =
+    .placeholder = Hesaplarda ara
+    .key = F
 create-new-login-button =
     .title = Yeni hesap oluştur
 fxaccounts-sign-in-text = Parolalarınızı tüm cihazlarınıza aktarın
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Yardım
 
 login-list =
     .aria-label = Arama sorgusuyla eşleşen hesaplar
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } hesap
@@ -106,6 +111,8 @@ login-item-time-used = Son kullanım: { DATETIME($timeUsed, day: "numeric", mont
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Oluşturma
 login-item-timeline-action-updated = Güncelleme
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Kaldır
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
        *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesapları { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa aktarma
 about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
 about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
