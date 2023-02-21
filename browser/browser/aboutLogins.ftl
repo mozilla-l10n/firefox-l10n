@@ -7,6 +7,9 @@ about-logins-page-title = 我的密码
 login-filter =
     .placeholder = 搜索登录信息
 create-login-button = 新建登录信息
+about-logins-login-filter =
+    .placeholder = 搜索登录信息
+    .key = F
 create-new-login-button =
     .title = 新建登录信息
 fxaccounts-sign-in-text = 取得您其他设备上的密码
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = 帮助
 
 login-list =
     .aria-label = 匹配搜索词的登录信息
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
        *[other] { $count } 条登录信息
@@ -105,6 +110,8 @@ login-item-time-used = 上次使用：{ DATETIME($timeUsed, day: "numeric", mont
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = 已创建
 login-item-timeline-action-updated = 已更新
@@ -154,6 +161,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 要移除此登录信息吗？
 confirm-delete-dialog-message = 此操作不可撤销。
 about-logins-confirm-remove-dialog-confirm-button = 移除
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] 移除
@@ -181,6 +192,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
        *[other] 将在您所有与 { -fxaccount-brand-name }同步的设备上，移除存放在 { -brand-short-name } 的登录信息，以及在此显示的任何数据外泄警报。此操作不可撤销。
     }
+
+##
+
 about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
 about-logins-confirm-export-dialog-confirm-button = 导出…
