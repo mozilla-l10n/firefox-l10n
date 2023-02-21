@@ -45,8 +45,6 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Progrés: pas { $current } de { $total }
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progrés: pas { $current } de { $total }
 # "Hero Text" displayed on left side of welcome screen.
@@ -269,6 +267,15 @@ fx100-upgrade-thank-you-body = És la versió número 100 del { -brand-short-nam
 fx100-upgrade-thanks-keep-body = És la versió número 100! Gràcies per formar part de la nostra comunitat. Feu que el { -brand-short-name } estigui a un sol clic de les properes 100.
 mr2022-onboarding-secondary-skip-button-label = Omet aquest pas
 
+## MR2022 New User Easy Setup screen strings
+
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Desa i continua
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Defineix el { -brand-short-name } com a navegador per defecte
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importa del navegador anterior
+
 ## MR2022 New User Pin Firefox screen strings
 
 # Title used on about:welcome for new users when Firefox is not pinned.
@@ -371,3 +378,5 @@ mr2022-onboarding-default-image-alt =
     .aria-label = Persona que abraça el logotip del { -brand-product-name }
 mr2022-onboarding-import-image-alt =
     .aria-label = Persona que va en monopatí amb una caixa d'icones de programari
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vista d'una posta de sol a través d'una finestra amb una guineu i una planta d'interior a l'ampit d'una finestra
