@@ -248,8 +248,8 @@ colorways-cfr-header-today = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦ�
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = ਕੂਕੀ ਬੈਨਰ ਕਰੋ ਰਵਾਨਾ!
 cfr-cookiebanner-body = ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੋਵੇ ਤਾਂ { -brand-short-name } ਨੂੰ ਸਾਰੀਆਂ ਕੂਕੀ ਬੈਨਰ ਬੇਨਤੀਆਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਰੱਦ ਕਰਨ ਦਿਓ।
-cfr-cookiebanner-accept-button = ਬੈਨਰਾਂ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
-    .accesskey = D
+cfr-cookiebanner-accept-button-v2 = ਬੇਨਤੀਆਂ ਰੱਦ ਕਰੋ
+    .accesskey = R
 cfr-cookiebanner-reject-button = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
 cfr-cookiebanner-header-variant-1 = ਘੱਟ ਕੂਕੀ ਪੌਪ-ਅੱਪ ਵੇਖੋ
