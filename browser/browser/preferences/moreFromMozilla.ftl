@@ -11,6 +11,8 @@ more-from-moz-category =
 more-from-moz-firefox-mobile-title = { -brand-product-name } per al mòvil
 more-from-moz-firefox-mobile-description = El navegador mòbil que posa la vostra privadesa per sobre de tot.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Descobriu una capa addicional de protecció i navegació anònima.
+more-from-moz-mozilla-vpn-description-advanced = El { -mozilla-vpn-brand-name } afegeix una altra capa de protecció i navegació anònima. I, a diferència d'altres VPN, és segura i no fa el seguiment de la vostra activitat.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 more-from-moz-learn-more-link = Més informació
