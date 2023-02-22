@@ -5,81 +5,62 @@
 permissions-window =
     .title = Excepții
     .style = width: 50em
-
 permissions-window2 =
     .title = Excepții
     .style = min-width: 50em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa site-ului web
     .accesskey = d
-
 permissions-block =
     .label = Blochează
     .accesskey = B
-
 permissions-session =
     .label = Permite pentru sesiune
     .accesskey = s
-
 permissions-allow =
     .label = Permite
     .accesskey = A
-
 permissions-button-off =
     .label = Oprește
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Oprește temporar
     .accesskey = T
-
 permissions-site-name =
     .label = Site web
-
 permissions-status =
     .label = Stare
-
 permissions-remove =
     .label = Elimină site-ul web
     .accesskey = R
-
 permissions-remove-all =
     .label = Elimină toate site-urile web
     .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Salvează schimbările
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Implicit pentru toate site-urile web:
-
 permissions-searchbox =
     .placeholder = Caută site web
-
 permissions-capabilities-autoplay-allow =
     .label = Permite audio și video
 permissions-capabilities-autoplay-block =
     .label = Blochează audio
 permissions-capabilities-autoplay-blockall =
     .label = Blochează audio și video
-
 permissions-capabilities-allow =
     .label = Permite
 permissions-capabilities-block =
     .label = Blochează
 permissions-capabilities-prompt =
     .label = Întreabă întotdeauna
-
 permissions-capabilities-listitem-allow =
     .value = Permite
 permissions-capabilities-listitem-block =
     .value = Blochează
 permissions-capabilities-listitem-allow-session =
     .value = Permite pentru sesiune
-
 permissions-capabilities-listitem-off =
     .value = Dezactivat
 permissions-capabilities-listitem-off-temporarily =
@@ -95,18 +76,16 @@ permissions-invalid-uri-label = Te rugăm să introduci un nume de gazdă valid
 permissions-exceptions-etp-window =
     .title = Excepții pentru protecția îmbunătățită împotriva urmăririi
     .style = { permissions-window.style }
-
+permissions-exceptions-etp-desc = Ai dezactivat protecțiile pe aceste site-uri web.
 permissions-exceptions-etp-window2 =
     .title = Excepții pentru protecția îmbunătățită împotriva urmăririi
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Ai dezactivat protecțiile pe aceste site-uri web.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Excepții - Cookie-uri și date ale site-urilor
     .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Excepții - Cookie-uri și date ale site-urilor
     .style = { permissions-window2.style }
@@ -115,20 +94,18 @@ permissions-exceptions-cookie-desc = Poți specifica ce site-uri web au întotde
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window =
-    .title = Excepții - Mod doar HTTPS
+    .title = Excepții - Mod numai HTTPS
     .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
-    .title = Excepții - Mod doar HTTPS
+    .title = Excepții - Mod numai HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Poți opri modul doar HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să actualizeze conexiunea la HTTPS securizat pentru aceste site-uri. Excepțiile nu se aplică ferestrelor private.
+permissions-exceptions-https-only-desc = Poți opri modul numai HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să actualizeze conexiunea la HTTPS securizat pentru aceste site-uri. Excepțiile nu se aplică ferestrelor private.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Site-uri web permise - Ferestre pop-up
     .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Site-uri web permise - Ferestre pop-up
     .style = { permissions-window2.style }
@@ -139,7 +116,6 @@ permissions-exceptions-popup-desc = Poți specifica ce site-uri web au permisiun
 permissions-exceptions-saved-logins-window =
     .title = Excepții - Date de autentificare salvate
     .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Excepții - Date de autentificare salvate
     .style = { permissions-window2.style }
@@ -150,7 +126,6 @@ permissions-exceptions-saved-logins-desc = Nu vor fi salvate date de autentifica
 permissions-exceptions-addons-window =
     .title = Site-uri web permise - Instalare de extensii
     .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Site-uri web permise - Instalare de extensii
     .style = { permissions-window2.style }
@@ -161,7 +136,6 @@ permissions-exceptions-addons-desc = Poți specifica ce site-uri web au permisiu
 permissions-site-autoplay-window =
     .title = Setări - Redare automată
     .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Setări - Redare automată
     .style = { permissions-window2.style }
@@ -172,7 +146,6 @@ permissions-site-autoplay-desc = Poți gestiona aici site-urile care nu respect�
 permissions-site-notification-window =
     .title = Setări - Permisiuni pentru notificări
     .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Setări - Permisiuni pentru notificări
     .style = { permissions-window2.style }
@@ -186,7 +159,6 @@ permissions-site-notification-disable-desc = Acest lucru va împiedica orice sit
 permissions-site-location-window =
     .title = Setări - Permisiuni pentru locație
     .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Setări - Permisiuni pentru locație
     .style = { permissions-window2.style }
@@ -200,7 +172,6 @@ permissions-site-location-disable-desc = Acest lucru va împiedica orice site we
 permissions-site-xr-window =
     .title = Setări - Permisiuni pentru realitate virtuală
     .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = Setări - Permisiuni pentru realitate virtuală
     .style = { permissions-window2.style }
@@ -214,7 +185,6 @@ permissions-site-xr-disable-desc = Acest lucru va împiedica orice site web care
 permissions-site-camera-window =
     .title = Setări - Permisiuni pentru cameră
     .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Setări - Permisiuni pentru cameră
     .style = { permissions-window2.style }
@@ -228,7 +198,6 @@ permissions-site-camera-disable-desc = Acest lucru va împiedica orice site web 
 permissions-site-microphone-window =
     .title = Setări - Permisiuni pentru microfon
     .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Setări - Permisiuni pentru microfon
     .style = { permissions-window2.style }
