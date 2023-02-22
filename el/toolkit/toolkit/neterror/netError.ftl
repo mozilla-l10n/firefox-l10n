@@ -65,6 +65,7 @@ neterror-dns-not-found-trr-unknown-problem = Απροσδόκητο πρόβλη
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-heuristic = Το DNS over HTTPS έχει απενεργοποιηθεί στο δίκτυό σας.
 neterror-dns-not-found-native-fallback-not-confirmed = Η σύνδεση με το { $trrDomain } δεν είναι ακόμα έτοιμη.
 
 ##
