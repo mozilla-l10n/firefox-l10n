@@ -8,6 +8,8 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
+psmerr-ssl-disabled = ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້ຢ່າງປອດໄພ ເພາະວ່າໂປຣໂຕຄໍ SSL ຖືກປິດໃຊ້ງານ.
+psmerr-ssl2-disabled = ບໍ່​ສາ​ມາດ​ເຊື່ອມ​ຕໍ່​ໄດ້​ຢ່າງ​ປອດ​ໄພ​ເນື່ອງ​ຈາກ​ວ່າ​ເວັບ​ໄຊ​ໄດ້​ໃຊ້​ສະ​ບັບ​ເກົ່າ​, ບໍ່​ປອດ​ໄພ​ຂອງ SSL protocol​.
 ssl-error-unsupported-certificate-type = ປະເພດໃບຢັ້ງຢືນທີ່ບໍ່ຮອງຮັບ.
 ssl-error-unsupported-version = ຄູ່​ຮ່ວມ​ງານ​ການ​ນໍາ​ໃຊ້​ສະ​ບັບ​ທີ່​ບໍ່​ຮອງ​ຮັບ​ຂອງ​ອະ​ນຸ​ສັນ​ຍາ​ຄວາມ​ປອດ​ໄພ​.
 ssl-error-mac-computation-failure = ການຄິດໄລ່ MAC ລົ້ມເຫລວ.
