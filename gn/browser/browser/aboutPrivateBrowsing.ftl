@@ -67,3 +67,4 @@ about-private-browsing-pin-promo-title = Kookie nongatupyre ha tembiasakue’ỹ
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = ¡Opáma kookie maranduñemurã!
 about-private-browsing-cookie-banners-promo-button = Emomichĩ kookie maranduñemurã
+about-private-browsing-cookie-banners-promo-message = Eheja { -brand-short-name } tombohovái ijehegui umi kookie rovetã iñapysẽva ikatu hag̃uáicha eikundaha apañuãi’ỹre. { -brand-short-name } omboykéta opaite mba’ejerure ikatúramo.
