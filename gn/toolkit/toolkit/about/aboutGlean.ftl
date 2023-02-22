@@ -45,5 +45,11 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = Ñeha’ã rehegua
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (aníke emondo ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Kora mboyvegua, ehecháke toĩ ñemboguaha reramoĩ hasy’ỹva iñemomandu’a eikuaa porã hag̃ua pings tenondeve.
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Eike kuatiaroguépe { glean-debug-ping-viewer-brand-name } ehecha hag̃ua umi ping nde reramoĩ reheve </a>.
+    Ndoguerahamo’ãi heta aravo’ive votõ ejopy’ypy guive og̃uahẽ peve pe ping.
+    Hákatu hetajey oguerahakuaa heta aravo’i.
 controls-button-label-verbose = Emboheko ha emondo ping
 about-glean-about-data-header = Mba’ekuaarã rehegua
