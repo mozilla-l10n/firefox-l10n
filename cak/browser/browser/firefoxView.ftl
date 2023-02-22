@@ -70,3 +70,14 @@ firefoxview-pickup-tabs-badge = Ruk'isib'äl tzijon
 firefoxview-tabs-list-tab-button =
     .title = Tijaq { $targetURI } pa jun k'ak'a' ruwi'
 firefoxview-try-colorways-button = Ketojtob'ëx tunuj b'onil
+firefoxview-change-colorway-button = Tijal rutunik b'onil
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = K'a majun niwachin
+firefoxview-synced-tabs-placeholder-body = Toq xtajäq chik jun ruxaq pa { -brand-product-name } pa jun chik okisaxel, wawe' tachapa' achi'el jun majoj.
+firefoxview-collapse-button-show =
+    .title = Tik'ut cholb'äl
+firefoxview-collapse-button-hide =
+    .title = Tewäx cholb'äl

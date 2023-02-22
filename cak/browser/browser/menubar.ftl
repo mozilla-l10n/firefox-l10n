@@ -70,6 +70,16 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Tijaq Yakb'äl…
     .accesskey = T
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Titz'apïx Ruwi'
+            [one] Titz'apïx ruwi'
+           *[other] Ketz'apïx { $tabCount } Ruwi'
+        }
+    .accesskey = z
 menu-file-close-window =
     .label = Titz'apïx Tzuwäch
     .accesskey = w
@@ -224,6 +234,10 @@ menu-bookmark-current-tab =
     .label = Tiya' Retal Ruwi' Wakami
 menu-bookmark-edit =
     .label = Tinuk' re yaketal re'
+menu-bookmark-tab =
+    .label = Titz'aqatisäx Ruwi' pa Yaketal…
+menu-edit-bookmark =
+    .label = Tinuk' re yaketal re'…
 menu-bookmarks-all-tabs =
     .label = Ketz'aqatisäx taq ruwi' pa taq yaketal…
 menu-bookmarks-toolbar =
@@ -308,6 +322,9 @@ menu-help-more-troubleshooting-info =
     .accesskey = E
 menu-help-report-site-issue =
     .label = Tiya' rutzijol ri ruk'ayewal Ruxaq K'amaya'l…
+menu-help-share-ideas =
+    .label = Kekomonïx taq na'oj chuqa' taq rutzijol…
+    .accesskey = k
 menu-help-enter-troubleshoot-mode2 =
     .label = Kib'anikil taq K'ayewal…
     .accesskey = K
