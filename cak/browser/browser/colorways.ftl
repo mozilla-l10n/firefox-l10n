@@ -13,3 +13,7 @@ colorway-collection-independent-voices-short-description = Taq b'onil nikijäl r
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Nuk'unek etz'anem
+playmaker-colorway-description = Kakanon richin yach'ako chuqa' ye'ato' konojel e k'o chachi' richin nawutzilaj ri ketz'anem.
+expressionist-colorway-name = Ch'a'onel
+expressionist-colorway-description = Jun wi natz'ët ri ruwach'ulew chuqa' ri yetz'uk chupam nikik'asoj ri kina'ojib'al ch'aqa' chik.
+visionary-colorway-name = Ch'akonel
