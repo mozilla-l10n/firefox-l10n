@@ -252,8 +252,8 @@ colorways-cfr-header-today = Os estilos de cor de Independent Voices expiram hoj
 # Alternate headline for localization: "See fewer cookie requests"
 cfr-cookiebanner-header = Desapareçam faixas de cookies!
 cfr-cookiebanner-body = Deixar o { -brand-short-name } rejeitar automaticamente todos os pedidos de cookies, sempre que possível.
-cfr-cookiebanner-accept-button = Ignorar faixas
-    .accesskey = I
+cfr-cookiebanner-accept-button-v2 = Rejeitar Pedidos
+    .accesskey = R
 cfr-cookiebanner-reject-button = Agora não
     .accesskey = n
 cfr-cookiebanner-header-variant-1 = Ver menos pop-ups de cookies
