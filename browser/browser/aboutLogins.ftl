@@ -7,6 +7,9 @@ about-logins-page-title = Inicios de sesión y contraseñas
 login-filter =
     .placeholder = Buscar inicios de sesión
 create-login-button = Crear nuevo inicio de sesión
+about-logins-login-filter =
+    .placeholder = Buscar inicios de sesión
+    .key = F
 create-new-login-button =
     .title = Crear nuevo inicio de sesión
 fxaccounts-sign-in-text = Obtenga sus contraseñas en sus otros dispositivos
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Ayuda
 
 login-list =
     .aria-label = Inicios de sesión que coinciden con la consulta de búsqueda
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } inicio de sesión
@@ -106,6 +111,8 @@ login-item-time-used = Último uso: { DATETIME($timeUsed, day: "numeric", month:
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Creado
 login-item-timeline-action-updated = Actualizado
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ¿Eliminar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no puede deshacerse.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Eliminar
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Esto eliminará todos los  inicios de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
        *[other] Esto eliminará todos los inicios de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y contraseñas
 about-logins-confirm-export-dialog-message = Sus contraseñas se guardarán como texto legible (por ejemplo, BadP@ssw0rd) para que cualquiera que pueda abrir el archivo exportado pueda verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
