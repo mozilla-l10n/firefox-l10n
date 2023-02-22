@@ -226,6 +226,22 @@ firefoxview-spotlight-promo-secondarybutton = Tik'o'
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = Xek'is ri taq kib'aner koki!
+cfr-cookiebanner-reject-button = Wakami mani
+    .accesskey = n
+cfr-cookiebanner-header-variant-1 = Ketz'et jub'a' elenel taq kuki
+cfr-cookiebanner-body-variant-1 = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil tutzolij kitzij ri elenel taq kuki richin majun nimejo' ri awokem pa k'amaya'l.{ -brand-short-name } xkeruxutuj ronojel ri taq taqoj xkekik'utuj we k'amonel.
+cfr-cookiebanner-accept-button-variant-1 = Kexutüx elenel taq tzuwäch
+    .accesskey = x
+cfr-cookiebanner-reject-button-variant-1 = Mani matyox
+    .accesskey = n
+cfr-cookiebanner-header-variant-2 = Kech'utinirisäx kitzijol kuki
+cfr-cookiebanner-accept-button-variant-2 = Tiya' q'ij
+    .accesskey = y
+cfr-cookiebanner-reject-button-variant-2 = Wakami mani
+    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-set-default-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
