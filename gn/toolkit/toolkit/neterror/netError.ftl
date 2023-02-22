@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Ehechajey { -brand-short-name } oguerekó
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nomo’ãkuaái ne mba’ejerure ko tenda kundaharape ore DNS jeroviaha apopyvusu. Ápe oĩ mba’érepa:
 neterror-dns-not-found-trr-only-attackers = Eku’ejeýrõ, peteĩva ikatu ohecha mba’e ñanduti rendápe eikéra’e térã nemondokuaa tenda ojejerovia’ỹvape.
+neterror-dns-not-found-trr-third-party-warning = Eku’ejeykuaa DNS moĩporãha hekorosã’ỹva ndive. Upéicharamo jepe, mbohapyháva ikatu ohecha mba’e ñanduti rendápepa eikera’e.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
 neterror-dns-not-found-trr-only-timeout = Pe { $trrDomain }-pe jeike nemoha’ãrõ hetave aravo.
 neterror-dns-not-found-trr-offline = Ndereikekuaamo’ãi ñandutípe.
