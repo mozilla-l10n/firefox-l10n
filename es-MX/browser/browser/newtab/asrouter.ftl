@@ -59,6 +59,9 @@ cfr-doorhanger-extension-total-users =
 
 ## Cookie Banner Handling Onboarding
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = ¡Se acabaron los banners de cookies!
 cfr-cookie-banner-accept-button = Descartar solicitudes
     .accesskey = D
 cfr-cookie-banner-reject-button = Ahora no
@@ -243,6 +246,8 @@ colorways-cfr-header-today = Las combinaciones de colores de Voces Independiente
 
 ## Cookie Banner Handling CFR
 
+# Alternate headline for localization: "See fewer cookie requests"
+cfr-cookiebanner-header = ¡Se acabaron los banners de cookies!
 cfr-cookiebanner-accept-button-v2 = Rechazar solicitudes
     .accesskey = R
 cfr-cookiebanner-reject-button = Ahora no
