@@ -7,6 +7,9 @@ about-logins-page-title = Credenziâls e Passwords
 login-filter =
     .placeholder = Cîr credenziâls
 create-login-button = Cree gnove credenziâl
+about-logins-login-filter =
+    .placeholder = Cîr tes credenziâls
+    .key = F
 create-new-login-button =
     .title = Cree gnove credenziâl
 fxaccounts-sign-in-text = Torne a cjatâ lis tôs passwords sui tiei altris dispositîfs
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Jutori
 
 login-list =
     .aria-label = Credenziâls corispondentis ae ricercje
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } credenziâl
@@ -106,6 +111,8 @@ login-item-time-used = Ultime utilizazion: { DATETIME($timeUsed, day: "numeric",
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Creade
 login-item-timeline-action-updated = Inzornade
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Gjavâ cheste credenziâl?
 confirm-delete-dialog-message = No si pues tornâ indaûr di cheste azion.
 about-logins-confirm-remove-dialog-confirm-button = Gjave
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Gjave
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Chest al gjavarà la credenziâl salvade su { -brand-short-name } su ducj i dispositîfs sincronizâts al to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
        *[other] Chest al gjavarà dutis lis credenziâls salvadadis su { -brand-short-name } su ducj i dispositîfs sincronizâts al to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Espuarte credenziâls e passwords
 about-logins-confirm-export-dialog-message = Si salvarà lis tôs passwords tant che test leibil (p.e. BadP@ssw0rd) si che duncje chei che a puedin vierzilu a rivaran a viodilis.
 about-logins-confirm-export-dialog-confirm-button = Espuarte…

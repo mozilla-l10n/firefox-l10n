@@ -60,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Fisse te sbare des aplicazions
     }
 about-private-browsing-pin-promo-title = Nissun cookie o cronologjie salvâts, dret dal to scritori. Navighe come se nissun ti stes cjalant.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Vonde strissons pai cookies!
+about-private-browsing-cookie-banners-promo-button = Ridûs i strissons pai cookies
+about-private-browsing-cookie-banners-promo-message = Permet a { -brand-short-name } di rispuindi in automatic, al to puest, ai ricuadris dai cookies, cussì che tu puedis tornâ a navigâ cence distrazions. Se pussibil, { -brand-short-name } al refudarà dutis lis richiestis.
