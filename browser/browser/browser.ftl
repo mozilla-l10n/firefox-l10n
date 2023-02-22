@@ -228,6 +228,9 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vezi suplimentele
+# Opens about:addons page in the extensions section
+quickactions-extensions = Gestionează extensiile
+quickactions-cmd-extensions = extensii
 
 ## Bookmark Panel
 
@@ -278,8 +281,8 @@ identity-passive-loaded = Unele părți din pagină nu sunt sigure (cum ar fi im
 identity-active-loaded = Ai dezactivat protecția pe această pagină.
 identity-weak-encryption = Această pagină folosește criptare slabă.
 identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
-identity-https-only-label = Mod doar HTTPS
-identity-https-only-info-turn-on2 = Activează modul doar HTTPS pentru acest site dacă vrei ca { -brand-short-name } să actualizeze conexiunea atunci când este posibil.
+identity-https-only-label = Mod numai HTTPS
+identity-https-only-info-turn-on2 = Activează modul numai HTTPS pentru acest site dacă vrei ca { -brand-short-name } să actualizeze conexiunea atunci când este posibil.
 identity-permissions-storage-access-header = Cookie-uri inter-site-uri
 identity-permissions-storage-access-learn-more = Află mai multe
 identity-permissions-reload-hint = Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.
@@ -491,6 +494,11 @@ bookmarks-other-bookmarks-menu =
     .label = Alte marcaje
 bookmarks-mobile-bookmarks-menu =
     .label = Marcaje mobile
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -515,6 +523,9 @@ bookmarks-tools-menu-button-visibility =
             [true] Elimină meniul de marcaje din bara de instrumente
            *[other] Adaugă meniul de marcaje în bara de instrumente
         }
+
+##
+
 bookmarks-search =
     .label = Caută în marcaje
 bookmarks-tools =
@@ -701,6 +712,18 @@ data-reporting-notification-button =
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Extensii
+    .tooltiptext = Extensii
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = Extensii
+    .tooltiptext =
+        Extensii
+        Permisiuni necesare
 
 ## Autorefresh blocker
 
@@ -709,3 +732,6 @@ refresh-blocked-redirect-label = { -brand-short-name } a împiedicat această pa
 refresh-blocked-allow =
     .label = Permite
     .accesskey = A
+
+## Firefox Relay integration
+

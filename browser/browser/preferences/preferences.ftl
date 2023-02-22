@@ -1137,11 +1137,11 @@ httpsonly-header = Mod numai HTTPS
 httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul numai HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.
 httpsonly-learn-more = Află mai multe
 httpsonly-radio-enabled =
-    .label = Activează modul doar HTTPS în toate ferestrele
+    .label = Activează modul numai HTTPS în toate ferestrele
 httpsonly-radio-enabled-pbm =
     .label = Activează modul numai HTTPS doar în ferestrele private
 httpsonly-radio-disabled =
-    .label = Nu activa modul doar HTTPS
+    .label = Nu activa modul numai HTTPS
 
 ## The following strings are used in the Download section of settings
 
