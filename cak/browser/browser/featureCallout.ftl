@@ -28,6 +28,18 @@ callout-firefox-view-colorways-reminder-subtitle = Ke'ab'onil ri awokik'amaya'l 
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Tawutzilaj ri awokem rik'in ri kikolik ruwi'
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Katok pa ri jaqon taq ruwi' pa xab'achike oyonib'äl. Chuqa', ke'axima' ri taq ayaketal, ewan taq atzij chuqa' ch'aqa' chik.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Titikirisäx
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Ke'anuk'u' taq PDF rik'in ri k'ak'a' qasamajib'al richin tz'ib'anïk
+callout-pdfjs-edit-body-a = Ke'atz'aqatisaj taq nojwuj, ke'atz'aqatisaj taq rutzijol o ke'atz'ib'aj taq rutzijol jumul pa { -brand-short-name }.
+callout-pdfjs-edit-body-b = Man ke'akanoj chik taq nuk'unel pa k'amaya'l, ke'atz'aqatisaj taq nojwuj, ke'atz'aqatisaj taq rutzijol o ke'atz'ib'aj taq rutzijol jumul pa { -brand-short-name }.
+callout-pdfjs-edit-button = Jun chik
+callout-pdfjs-draw-title = Ke'ajuxu' taq wuj rik'in ri k'ak'a' rusamajib'al qawachib'al
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Taya' ketal ri taq ruyakb'al PDF, k'a ri' ke'ayaka' ri taq jaloj.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Man ke'atz'ajb'a' chuqa' mani chik yawachitz'ajb'an. Taya' ketal ri taq ruyakb'al PDF, k'a ri' ke'ayaka' ri taq jaloj.
+callout-pdfjs-draw-button = Xik'o pa nuwi'!
