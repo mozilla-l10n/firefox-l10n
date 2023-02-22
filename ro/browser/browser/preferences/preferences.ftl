@@ -73,6 +73,17 @@ restart-later = Repornește mai târziu
 ## Variables:
 ##   $name (String): name of the extension
 
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> necesită file container.
@@ -135,6 +146,10 @@ browser-containers-settings =
     .label = Setări…
     .accesskey = t
 containers-disable-alert-title = Închizi toate filele container?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Dacă dezactivezi filele container acum, { $tabCount } filă container se va închide. Sigur vrei să dezactivezi filele container?
@@ -147,10 +162,13 @@ containers-disable-alert-ok-button =
         [few] Închide { $tabCount } file container
        *[other] Închide { $tabCount } de file container
     }
+
+##
+
 containers-disable-alert-cancel-button = Păstrează activat
 containers-remove-alert-title = Elimini acest container?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Dacă elimini acest container acum, { $count } filă container va fi închisă. Sigur vrei să elimini acest container?
@@ -206,6 +224,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom implicit
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -297,15 +317,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Întreabă întotdeauna
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Folosește { $plugin-name } (în { -brand-short-name })
 applications-open-inapp =
@@ -348,6 +368,8 @@ play-drm-content =
 play-drm-content-learn-more = Află mai multe
 update-application-title = Actualizări { -brand-short-name }
 update-application-description = Menține { -brand-short-name } actualizat pentru cea mai bună performanță, stabilitate și securitate.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versiunea { $version } <a data-l10n-name="learn-more">Ce este nou</a>
 update-history =
     .label = Afișează istoricul actualizărilor…
@@ -395,7 +417,7 @@ performance-limit-content-process-option = Limita proceselor pentru conținut
 performance-limit-content-process-enabled-desc = Procesele adiționale pentru conținut pot îmbunătăți performanța atunci când se folosesc mai multe file, însă va consuma și mai multă memorie.
 performance-limit-content-process-blocked-desc = Modificarea numărului de procese pentru conținut este posibilă doar cu funcția de multiprocese din { -brand-short-name }. <a data-l10n-name="learn-more">Află cum să verifici dacă funcția de multiprocese este activată</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (implicită)
 
@@ -498,6 +520,10 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 home-prefs-recommended-by-header =
     .label = Recomandat de { $provider }
 
@@ -524,6 +550,8 @@ home-prefs-recent-activity-description = O selecție de site-uri și conținut r
 home-prefs-snippets-header =
     .label = Fragmente
 home-prefs-snippets-description-new = Sfaturi și știri de la { -vendor-short-name } și { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -581,7 +609,7 @@ search-find-more-link = Caută mai multe motoare de căutare
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Cuvânt cheie duplicat
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ai ales un cuvânt cheie care este folosit actualmente de „{ $name }”. Te rugăm să selectezi altul.
 search-keyword-warning-bookmark = Ai ales un cuvânt cheie care este folosit de un marcaj. Te rugăm să selectezi altul.
 
@@ -628,8 +656,15 @@ sync-sign-out =
     .accesskey = g
 sync-manage-account = Gestionează contul
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } nu este verificat.
 sync-signedin-login-failure = Te rugăm să te autentifici pentru reconectare { $email }
+
+##
+
 sync-resend-verification =
     .label = Retrimite verificarea
     .accesskey = d
@@ -837,8 +872,8 @@ history-clear-button =
 sitedata-header = Cookie-uri și date ale site-urilor
 sitedata-total-size-calculating = Se calculează datele site-urilor și mărimea cache-ului…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie-urile stocate, datele site-urilor și cache-ul folosesc în prezent { $value } { $unit } din spațiul de pe disc.
 sitedata-learn-more = Află mai multe
 sitedata-delete-on-close =
@@ -947,6 +982,9 @@ content-blocking-fingerprinters = Detectoarele de amprente digitale
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Testează în avanpremieră cea mai puternică funcție de confidențialitate pe care am proiectat-o noi vreodată
     .accesskey = T
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Protecția totală a cookie-urilor izolează cookie-urile către site-ul pe care te afli, astfel încât elementele de urmărire nu le pot folosi pentru a te urmări între site-uri.
 content-blocking-etp-standard-tcp-rollout-learn-more = Află mai multe
@@ -1095,13 +1133,13 @@ space-alert-over-5gb-settings-button =
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Mod doar HTTPS
-httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul doar HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.
+httpsonly-header = Mod numai HTTPS
+httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul numai HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.
 httpsonly-learn-more = Află mai multe
 httpsonly-radio-enabled =
     .label = Activează modul doar HTTPS în toate ferestrele
 httpsonly-radio-enabled-pbm =
-    .label = Activează modul doar HTTPS numai în ferestrele private
+    .label = Activează modul numai HTTPS doar în ferestrele private
 httpsonly-radio-disabled =
     .label = Nu activa modul doar HTTPS
 
