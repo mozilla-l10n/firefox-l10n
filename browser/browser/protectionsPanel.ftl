@@ -103,6 +103,8 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Μείωση μπάνερ cookie
+protections-panel-cookie-banner-handling-enabled = Ενεργή για αυτόν τον ιστότοπο
+protections-panel-cookie-banner-handling-disabled = Ανενεργή για αυτόν τον ιστότοπο
 protections-panel-cookie-banner-handling-undetected = Ο ιστότοπος δεν υποστηρίζεται
 protections-panel-cookie-banner-view-title =
     .title = Μείωση μπάνερ cookie
