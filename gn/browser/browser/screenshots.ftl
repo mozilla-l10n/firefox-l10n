@@ -45,3 +45,4 @@ screenshots-private-window-error-details = Rombyasy ko’ã oikóva. Romba’apo
 screenshots-generic-error-title = ¡Épa! { -screenshots-brand-name } itavyraíma.
 screenshots-generic-error-details = Ndoroikuaái mba’etépa pe oikóva. ¿Ejapose jeýpa térã ejapyhy peteĩ kuatiarogue ambuévagui?
 screenshots-too-large-error-title = Pe mba’erechaha jejapyhy oñemomichĩ tuichaiterei rupi
+screenshots-too-large-error-details = Eñeha’ã eiporavo peteĩ tendaguasu oguereko’ỹva 32.700 píxeles ipukuvehápe térã 124.900.000 píxeles tuichakue.
