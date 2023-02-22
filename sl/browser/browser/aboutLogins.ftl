@@ -7,6 +7,9 @@ about-logins-page-title = Prijave in gesla
 login-filter =
     .placeholder = Iskanje prijav
 create-login-button = Ustvari novo prijavo
+about-logins-login-filter =
+    .placeholder = Iskanje prijav
+    .key = F
 create-new-login-button =
     .title = Ustvari novo prijavo
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Pomoč
 
 login-list =
     .aria-label = Prijave, ki ustrezajo iskalni poizvedbi
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } prijava
@@ -108,6 +113,8 @@ login-item-time-used = Nazadnje uporabljeno: { DATETIME($timeUsed, day: "numeric
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Ustvarjeno
 login-item-timeline-action-updated = Posodobljeno
@@ -157,6 +164,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Odstrani
@@ -203,6 +214,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name }, na vseh napravah, sinhroniziranih z vašim { -fxaccount-brand-name }om. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
        *[other] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name }, na vseh napravah, sinhroniziranih z vašim { -fxaccount-brand-name }om. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Izvozite prijave in gesla
 about-logins-confirm-export-dialog-message = Vaša gesla bodo shranjena kot berljivo besedilo (npr. Sl@boG3slo), zato bodo vidna vsakomur, ki bo lahko odprl izvoženo datoteko.
 about-logins-confirm-export-dialog-confirm-button = Izvozi …

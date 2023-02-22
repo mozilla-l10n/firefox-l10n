@@ -22,12 +22,10 @@ about-private-browsing-not-private = Trenutno niste v zasebnem oknu.
 about-private-browsing-info-description-private-window = Zasebno okno: { -brand-short-name } ob zaprtju vseh zasebnih oken izbriše njihovo zgodovino iskanja in brskanja. To še ne pomeni, da ste anonimni.
 about-private-browsing-info-description-simplified = { -brand-short-name } izbriše zgodovino iskanja in brskanja, ko zaprete vsa zasebna okna, vendar to še ne pomeni, da ste anonimni.
 about-private-browsing-learn-more-link = Več o tem
-
 about-private-browsing-hide-activity = Skrijte svojo dejavnost in lokacijo povsod, kjer brskate
 about-private-browsing-get-privacy = Zaščitite svojo zasebnost, kjerkoli brskate
 about-private-browsing-hide-activity-1 = Skrijte svojo dejavnost in lokacijo z { -mozilla-vpn-brand-name }. Z enim klikom vzpostavite varno povezavo, celo na javnih omrežjih Wi-Fi.
 about-private-browsing-prominent-cta = Ohranite svojo zasebnost z { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Prenesite { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Prenosno zasebno brskanje
 about-private-browsing-focus-promo-text = Naša namenska aplikacija za zasebno brskanje po vsakem brskanju počisti zgodovino in piškotke.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Brskajte zasebno tudi na telefonu
 about-private-browsing-focus-promo-text-b = Uporabite { -focus-brand-name } za tista zasebna iskanja, za katera ne želite, da jih vidi vaš glavni mobilni brskalnik.
 about-private-browsing-focus-promo-header-c = Zasebnost višjega razreda za mobilne naprave
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } vsakič počisti vašo zgodovino ter zavrača oglase in sledilce.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zapri
-
 about-private-browsing-promo-close-button =
     .title = Zapri
 
@@ -64,3 +60,11 @@ about-private-browsing-pin-promo-link-text =
        *[other] Pripni v opravilno vrstico
     }
 about-private-browsing-pin-promo-title = Brez shranjenih piškotkov ali zgodovine, neposredno z namizja. Brskajte, kot da nihče ne gleda.
+
+## Strings used in a promotion message for cookie banner reduction
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Pasice s piškotki, izginite!
+about-private-browsing-cookie-banners-promo-button = Zmanjšajte število pasic s piškotki
+about-private-browsing-cookie-banners-promo-message = Naj { -brand-short-name } namesto vas odgovarja na zahteve za shranjevanje piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če bo to mogoče.
