@@ -147,6 +147,10 @@ cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Tetamäx ch'aqa' chik
+    .title = Tirik' richin netamäx ch'aqa' chik chi rij re rub'anikil
+spotlight-learn-more-expanded = Tetamäx ch'aqa' chik
+    .title = Titz'apïx
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -154,14 +158,30 @@ cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Achi'el nawokisaj jun ajwinäq Wi-Fi k'amaya'l
+spotlight-public-wifi-vpn-primary-button = Tachajij ri awichinanem rik'in { -mozilla-vpn-brand-name }
+    .accesskey = h
 spotlight-public-wifi-vpn-link = Wakami Mani
     .accesskey = M
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Tatojtob'ej ri qana'ob'al richin
+    ichinanem, ri nimaläj pa qab'anob'al
+spotlight-total-cookie-protection-secondary-button = Wakami mani
 
 ## Emotive Continuous Onboarding
 
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Tik'oje' pa Dock
+       *[other] Titz'ajb'äx pa ri rukajtz'ik samajib'äl
+    }
+spotlight-pin-secondary-button = Wakami mani
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -176,12 +196,30 @@ spotlight-public-wifi-vpn-link = Wakami Mani
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Tijaq { -brand-shorter-name } wakami
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Tinatäx pe Chwe pa Jumej
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Tatojtob'ej
+    .accesskey = t
+firefoxview-cfr-secondarybutton = Wakami mani
+    .accesskey = n
+firefoxview-cfr-header-v2 = Tasamajij el akuchi' xya' wi kan
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Taq'ejelaj { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = Tatz'eta' rub'eyal nisamäj
+firefoxview-spotlight-promo-secondarybutton = Tik'o'
 
 ## Colorways expiry reminder CFR
 
