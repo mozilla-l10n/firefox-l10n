@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ocorreu um erro ao enviar o relatório. Por favor, tente novamente mais tarde.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Site corrigido? Enviar relatório
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Padrão
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Mais informação sobre a Proteção melhorada contra a monitorização
-
 protections-panel-etp-on-header = A proteção melhorada contra a monitorização está ATIVADA para este site
 protections-panel-etp-off-header = A proteção melhorada contra a monitorização está DESATIVADA para este site
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = O site não está a funcionar?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = O site não está a funcionar?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Todos os rastreadores deste
 ##
 
 protections-panel-no-trackers-found = Não foi detetado nenhum rastreador conhecido pelo { -brand-short-name } nesta página.
-
 protections-panel-content-blocking-tracking-protection = Conteúdo de monitorização
-
 protections-panel-content-blocking-socialblock = Rastreadores de redes sociais
 protections-panel-content-blocking-cryptominers-label = Cripto-mineradores
 protections-panel-content-blocking-fingerprinters-label = Identificadores
@@ -70,14 +64,12 @@ protections-panel-protectionsdashboard-label = Painel das proteções
 
 # The header of the list
 protections-panel-site-not-working-view-header = Desligue as proteções se estiver a ter problemas com:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Campos de credenciais
 protections-panel-site-not-working-view-issue-list-forms = Formulários
 protections-panel-site-not-working-view-issue-list-payments = Pagamentos
 protections-panel-site-not-working-view-issue-list-comments = Comentários
 protections-panel-site-not-working-view-issue-list-videos = Vídeos
-
 protections-panel-site-not-working-view-send-report = Enviar um relatório
 
 ##
@@ -87,16 +79,13 @@ protections-panel-cryptominers = Os cripto-mineradores utilizam o poder de compu
 protections-panel-fingerprinters = Os identificadores recolhem definições do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes.
 protections-panel-tracking-content = Os sites podem carregar anúncios, vídeos e outros conteúdos externos com códigos de rastreamento. O bloqueio de conteúdos de rastreamento pode ajudar os sites a carregar mais rapidamente, mas alguns botões, formulários e campos de autenticação podem não funcionar.
 protections-panel-social-media-trackers = As redes sociais colocam rastreadores em outros sites para monitorizar o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais.
-
 protections-panel-description-shim-allowed = Alguns rastreadores marcados abaixo foram parcialmente desbloqueados nesta página porque interagiu com os mesmos.
 protections-panel-description-shim-allowed-learn-more = Saber mais
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Rastreador parcialmente desbloqueado
-
 protections-panel-content-blocking-manage-settings =
     .label = Gerir definições de proteção
     .accesskey = G
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Reportar um site quebrado
 protections-panel-content-blocking-breakage-report-view-description = O bloqueio de determinados rastreadores pode causar problemas com alguns sites. Reportar estes problemas ajuda o { -brand-short-name } a ficar melhorar para todos. O envio deste relatório irá enviar um endereço e informação sobre as suas definições do navegador à Mozilla. <label data-l10n-name="learn-more">Saber mais</label>
@@ -110,3 +99,23 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cancelar
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Enviar relatório
+
+# Cookie Banner Handling
+
+protections-panel-cookie-banner-handling-header = Redução de Faixas de Cookies
+protections-panel-cookie-banner-handling-enabled = Ativado para este site
+protections-panel-cookie-banner-handling-disabled = Desativado para este site
+protections-panel-cookie-banner-handling-undetected = Site atualmente não suportado
+protections-panel-cookie-banner-view-title =
+    .title = Redução de Faixas de Cookies
+protections-panel-cookie-banner-view-go-back =
+    .aria-label = Voltar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Desativar redução de Faixa de Cookies para { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Ativar redução de Faixa de Cookies para este site?
+protections-panel-cookie-banner-view-cookie-clear-warning = O { -brand-short-name } irá limpar os cookies deste site e irá atualizar a página. A limpeza de todos os cookies pode fazer com que termine sessões ou esvazie os carrinhos de compras.
+protections-panel-cookie-banner-view-turn-on-description = O { -brand-short-name } tenta rejeitar automaticamente todos os pedidos de cookies em sites suportados.
+protections-panel-cookie-banner-view-cancel = Cancelar
+protections-panel-cookie-banner-view-turn-off = Desligar
+protections-panel-cookie-banner-view-turn-on = Ligar
