@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Controlâ che { -brand-short-name } al ve
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nol rive a protezi la richieste relative ae direzion di chest sît doprant il nestri afidabil servizi di risoluzion dai nons (DNS). Chi al è il motîf:
 neterror-dns-not-found-trr-only-attackers = Se tu continuis, un sogjet di tiercis parts al podarès rivâ a viodi cuai sîts tu visitis o inviâti suntun sît che nol è afidabil.
+neterror-dns-not-found-trr-third-party-warning = Tu puedis continuâ cuntun servizi di risoluzion dai nons (DNS) che nol è sigûr. Dut câs, un sogjet di tiercis parts al podarès rivâ a viodi ce sîts che tu visitis.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } nol è rivât a conetisi a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La conession a { $trrDomain } e à domandât plui timp di ce che si previodeve.
 neterror-dns-not-found-trr-offline = Nissune conession a internet.

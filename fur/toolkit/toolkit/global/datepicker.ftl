@@ -15,6 +15,10 @@ date-picker-label =
 date-spinner-label =
     .aria-label = Sielç un mês e un an
 
+## Text of the clear button
+
+date-picker-clear-button = Scancele
+
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
