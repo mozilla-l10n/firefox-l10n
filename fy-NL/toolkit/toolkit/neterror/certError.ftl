@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = Der is in flater bard by in ferbining mei { $hostname }, omdat it in ferkeard feiligheidssertifikaat brûkt.
 cert-error-mitm-intro = Websites bewize harren identiteit fia sertifikaten, dy’t troch sertifikaatautoriteiten útjûn wurde.
 cert-error-mitm-mozilla = { -brand-short-name } wurdt stipe troch de non-profitorganisaasje Mozilla, dy’t in folslein iepen argyf foar sertifikaatautoriteiten (CA) beheart. It CA-argyf helpt te fersekerjen dat sertifikaatautoriteiten de bêste prosedueren foar brûkersbefeiliging folgje.
 cert-error-mitm-connection = { -brand-short-name } brûkt it CA-argyf fan Mozilla om te ferifiearjen dat in ferbining befeilige is yn stee fan sertifikaten dy’t troch it bestjoeringssysteem fan de brûker levere wurde. As in antifirusprogramma of in netwurk dus in ferbining ûnderskept mei in troch in CA útjûn befeiligingssertifikaat dat him yn it CA-argyf fan Mozilla stiet, wurdt de ferbining as ûnfeilich beskôge.
 cert-error-trust-unknown-issuer-intro = Ien kin probearje de website nei te meitsjen, en jo kinne better net fierdergean.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout { $hostname } net, omdat de útjouwer fan it sertifikaat ûnbekend is, it sertifikaat selsûndertekene is, of de server net de krekte tuskensertifikaten stjoert.
 cert-error-trust-cert-invalid = It sertifikaat is net fertroud, omdat it útjûn is troch in ferkeard CA-sertifikaat.
 cert-error-trust-untrusted-issuer = It sertifikaat is net fertroud, omdat it útjousertifikaat net fertroud is.
@@ -20,52 +20,53 @@ cert-error-trust-self-signed = It sertifikaat is net fertroud, omdat it sels ûn
 cert-error-trust-symantec = Sertifikaten dy’t troch GeoTrust, RapidSSL, Symantec, Thawte en VeriSign útjûn binne, wurde net mear as feilich beskôge, omdat dizze sertifikaatautoriteiten yn it ferline gjin befeiligingsprosedueres folge hawwe.
 cert-error-untrusted-default = It sertifikaat komt net fan in fertroude boarne.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt dat net jildich is foar { $hostname }.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $alt-name (string) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $alt-name (string) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar { $alt-name }.
 # Variables:
-# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $subject-alt-names (string) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar de folgjende nammen: { $subject-alt-names }
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $not-after-local-time (Date) - Certificate is not valid after this time.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = Websites bewize harren identiteit fia sertifikaten dy’t foar in bepaalde perioade jildich binne. It sertifikaat foar { $hostname } is op { $not-after-local-time } ferrûn.
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $not-before-local-time (Date) - Certificate is not valid before this time.
+#   $hostname (string) - Hostname of the website with cert error.
+#   $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Websites bewize harren identiteit fia sertifikaten dy’t foar in bepaalde perioade jildich binne. It sertifikaat foar { $hostname } wurdt pas jildich fan { $not-before-local-time } ôf.
 # Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Flaterkoade: { $error }
 # Variables:
-# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Flaterkoade: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+#   $hostname (string) - Hostname of the website with SSL error.
+#   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Flater bard wylst in ferbining mei { $hostname }. { $errorMessage }
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Websites bewize harren identiteit fia sertifikaten, dy’t troch sertifikaatautoriteiten útjûn wurde. De measte browsers fertrouwe gjin sertifikaten mear dy’t troch GeoTrust, RapidSSL, Symantec, Thawte en VeriSign útjûn binne. { $hostname } brûkt in sertifikaat fan ien fan dizze autoriteiten, wêrtroch de identiteit fan de website net bewiisd wurde kin.
 cert-error-symantec-distrust-admin = Jo kinne de behearder fan de website oer it probleem ynformearje.
 cert-error-old-tls-version = Dizze website stipet mooglik net it TLS 1.2-protokol, de minimale ferzje dy’t stipe wurdt troch { -brand-short-name }.
 # Variables:
-# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+#   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
-# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+#   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikaatketen:
 open-in-new-window-for-csp-or-xfo-error = Website iepenje yn nij finster
 # Variables:
-# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+#   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Om jo feilichheid te beskermjen, stiet { $hostname } net ta dat { -brand-short-name } de side toant as in oare website dizze opnommen hat. Om dizze side te besjen moatte jo dizze iepenje yn in nij finster.
 
 ## Messages used for certificate error titles
@@ -76,10 +77,12 @@ deniedPortAccess-title = Dit adres hat in beheinde tagong
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Wy kinne dizze website net fine.
 # Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-trr-only-title = Mooglik befeiligingsrisiko foar { $hostname }.
 # Variables:
-#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+dns-not-found-trr-only-title2 = Mooglik feilichheidsrisiko by opsykjen fan dit domein
+# Variables:
+#   $hostname (string) - Hostname of the website to which the user was trying to connect.
 dns-not-found-native-fallback-title = Mooglik befeiligingsrisiko foar { $hostname }.
 fileNotFound-title = Bestân net fûn
 fileAccessDenied-title = Tagong ta it bestân is wegere

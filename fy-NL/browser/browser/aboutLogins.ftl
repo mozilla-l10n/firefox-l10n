@@ -7,6 +7,9 @@ about-logins-page-title = Oanmeldingen en wachtwurden
 login-filter =
     .placeholder = Oanmeldingen sykje
 create-login-button = Nij oanmelding meitsje
+about-logins-login-filter =
+    .placeholder = Oanmeldingen sykje
+    .key = F
 create-new-login-button =
     .title = Nij oanmelding meitsje
 fxaccounts-sign-in-text = Bring jo wachtwurden nei jo oare apparaten
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Help
 
 login-list =
     .aria-label = Oanmeldingen dy’t oerienkomme mei de sykterm
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } oanmelding
@@ -106,6 +111,8 @@ login-item-time-used = Lêst brûkt: { DATETIME($timeUsed, day: "numeric", month
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Oanmakke
 login-item-timeline-action-updated = Bywurke
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Dizze oanmelding fuortsmite?
 confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
 about-logins-confirm-remove-dialog-confirm-button = Fuortsmite
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fuortsmite
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Dit smyt de oanmelding fuort dy’t jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy’t mei jo { -fxaccount-brand-name } syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
        *[other] Dit smyt de oanmeldingen fuort dy’t jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy’t mei jo { -fxaccount-brand-name } syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Oanmeldingen en wachtwurden eksportearje
 about-logins-confirm-export-dialog-message = Jo wachtwurden wurde bewarre as lêsbere tekst (bygelyks BadP@ssw0rd), dus elkenien dy’t it eksportearre bestân iepenje kin, kin se besjen.
 about-logins-confirm-export-dialog-confirm-button = Eksportearje…
