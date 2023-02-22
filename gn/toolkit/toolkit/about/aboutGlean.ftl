@@ -24,6 +24,8 @@ about-glean-header = { -glean-brand-name } rehegua
 about-glean-upload-enabled = Mba’ekuaarã ñemyanyhẽ hendýma.
 about-glean-upload-disabled = Mba’ekuaarã ñemyanyhẽ oguéma.
 about-glean-upload-enabled-local = Mba’ekuaarã myanyhẽ hendýta emondo hag̃ua mohendahavusu ag̃uiguápe.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Umi <a data-l10n-name="fog-prefs-and-defines-doc-link">erohoryvéva ha ñemyesakã</a> iporãva ogueroike:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
