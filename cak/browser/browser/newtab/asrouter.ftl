@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Chilab'en Samaj
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
-
 cfr-doorhanger-extension-cancel-button = Wakami Mani
     .accesskey = M
-
 cfr-doorhanger-extension-ok-button = Titz'aqatisäx Wakami
     .accesskey = T
-
 cfr-doorhanger-extension-manage-settings-button = Kenuk'samajïx taq Kinuk'ulem Chilab'enïk
     .accesskey = K
-
 cfr-doorhanger-extension-never-show-recommendation = Man Tik'ut re Chilab'enïk re'
     .accesskey = T
-
 cfr-doorhanger-extension-learn-more-link = Tetamäx ch'aqa' chik
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ruma { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Chilab'enïk
 cfr-doorhanger-extension-notification2 = Chilab'enïk
     .tooltiptext = Ruchilab'exik k'amal
     .a11y-announcement = Ruchilab'exik k'amal k'o
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Chilab'enïk
@@ -65,6 +57,29 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } okisanela'
     }
 
+## Cookie Banner Handling Onboarding
+
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+cfr-cookie-banner-handling-header = Xek'is ri taq kib'aner koki!
+cfr-cookie-banner-handling-body = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil keruxutuj ronojel ri taq ruk'utuxik kitzijol taq kuki, toq k'amonel. We mani xek'ulutäj ronojel ri taq kuki richin yexutüx ch'aqa' chik taq rutzijol.
+cfr-cookie-banner-accept-button = Tixutüx K'utuxïk
+    .accesskey = x
+cfr-cookie-banner-reject-button = Wakami mani
+    .accesskey = n
+cfr-cookie-banner-handling-header-variant-1 = Ketz'et jub'a' elenel taq kuki
+cfr-cookie-banner-handling-body-variant-1 = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil tutzolij kitzij ri elenel taq kuki richin majun nimejo' ri awokem pa k'amaya'l.{ -brand-short-name } xkeruxutuj ronojel ri taq taqoj xkekik'utuj we k'amonel, o xkek'ulutäj ronojel.
+cfr-cookie-banner-accept-button-variant-1 = Kexutüx elenel taq tzuwäch
+    .accesskey = x
+cfr-cookie-banner-reject-button-variant-1 = Mani matyox
+    .accesskey = M
+cfr-cookie-banner-handling-header-variant-2 = Kech'utinirisäx kitzijol kuki
+cfr-cookie-banner-handling-body-variant-2 = ¿La niya' q'ij chi ri { -brand-short-name } yeruxutuj taq ruk'utuxik kitaqoj rukuki jun ruxaq, we k'a ütz o tok pa ri taq kuki toq man tikirel ta?
+cfr-cookie-banner-accept-button-variant-2 = Tiya' q'ij
+    .accesskey = y
+cfr-cookie-banner-reject-button-variant-2 = Wakami mani
+    .accesskey = n
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Xab'akuchi' Ke'axima' ri taq ayaketal.
@@ -85,11 +100,9 @@ cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = K'ak'a' samaj:
-
 cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
-
 cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
 
 ## Enhanced Tracking Protection Milestones
@@ -134,6 +147,7 @@ cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
 
 ## Spotlight modal shared strings
 
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
@@ -145,7 +159,9 @@ spotlight-public-wifi-vpn-link = Wakami Mani
 
 ## Total Cookie Protection Rollout
 
+
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -160,7 +176,18 @@ spotlight-public-wifi-vpn-link = Wakami Mani
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
 
+
 ## Firefox View Spotlight
+
+
+## Colorways expiry reminder CFR
+
+
+## Cookie Banner Handling CFR
+
+
+## These strings are used in the Fox doodle Pin/set default spotlights
 
