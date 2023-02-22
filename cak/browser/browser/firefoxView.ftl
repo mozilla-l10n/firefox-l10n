@@ -51,3 +51,22 @@ firefoxview-tabpickup-signed-out-description = Richin yatok chik richin ye'atz'�
 firefoxview-tabpickup-signed-out-primarybutton = Titikirisäx molojri'ïl
 firefoxview-tabpickup-syncing = Eqal tawoyob'ej richin yexim ri taq ruwi'. Xa jun ti mej.
 firefoxview-mobile-promo-header = Ke'atz'eta' ri taq ruwi' pan awoyonib'al o pan chuti akematz'ib'
+firefoxview-mobile-promo-description = Richin ye'atz'ët ri ruk'isib'äl ruwi' ayonib'al, tatikirisaj molojri'ïl pa { -brand-product-name } pa iOS o Android.
+firefoxview-mobile-promo-primarybutton = Tik'ul { -brand-product-name } richin oyonib'äl
+firefoxview-mobile-confirmation-header = 🎉 ¡Ütz richin nak'waj!
+firefoxview-mobile-confirmation-description = Wakami yatikïr natzu' ri ruwi' { -brand-product-name } pan ch'uti akematz'ib' o awoyonib'al.
+firefoxview-closed-tabs-title = Nimakol titz'apïx
+firefoxview-closed-tabs-description2 = Kejaq chik ri tz'apin taq ruwi' pa re tzuwäch re'.
+firefoxview-closed-tabs-placeholder-header = Majun taq ruwi' k'a b'a' ketz'apïx
+firefoxview-closed-tabs-placeholder-body = Toq natz'apij jun ruwi' pa re tzuwäch re', xkatikïr xtakanoj wawe'.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Tewäx { $tabTitle }
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Ruk'isib'äl tzijon
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Tijaq { $targetURI } pa jun k'ak'a' ruwi'
+firefoxview-try-colorways-button = Ketojtob'ëx tunuj b'onil
