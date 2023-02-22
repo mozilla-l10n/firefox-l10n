@@ -53,3 +53,6 @@ about-glean-li-for-visit-gdpv =
     Hákatu hetajey oguerahakuaa heta aravo’i.
 controls-button-label-verbose = Emboheko ha emondo ping
 about-glean-about-data-header = Mba’ekuaarã rehegua
+about-glean-about-data-explanation =
+    Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Ñe’ẽryru</a>.
