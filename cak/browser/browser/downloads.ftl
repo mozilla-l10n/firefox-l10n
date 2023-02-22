@@ -28,6 +28,13 @@ downloads-cmd-cancel =
     .tooltiptext = Tiq'at
 downloads-cmd-cancel-panel =
     .aria-label = Tiq'at
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Tik'ut pa Finder
+           *[other] Tik'ut pa Molyakb'äl
+        }
+    .accesskey = M
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -37,11 +44,21 @@ downloads-cmd-cancel-panel =
 downloads-cmd-use-system-default =
     .label = Tijaq pa ri Rutz'etöy Q'inoj
     .accesskey = t
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Tijaq pa { $handler }
+    .accesskey = p
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Junelïk tijaq pa ri Rutz'etöy Q'inoj
     .accesskey = J
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Junelïk Tijaq pa { $handler }
+    .accesskey = n
 
 ##
 
@@ -132,6 +149,23 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = Nijaq pa { $hours }r { $minutes }ch…
+downloading-file-opens-in-minutes = Nijaq pa { $minutes }ch…
+downloading-file-opens-in-minutes-and-seconds = Nijaq pa { $minutes }ch { $seconds }x…
+downloading-file-opens-in-seconds = Nijaq pa { $seconds }x…
+downloading-file-opens-in-some-time = Nijaq toq xtitz'aqät…
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = Nijaq pa { $hours }r { $minutes }ch…
+downloading-file-opens-in-minutes-2 =
+    .value = Nijaq pa { $minutes }ch…
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = Nijaq pa { $minutes }ch { $seconds }x…
+downloading-file-opens-in-seconds-2 =
+    .value = Nijaq pa { $seconds }x…
+downloading-file-opens-in-some-time-2 =
+    .value = Nijaq toq xtitz'aqät…
+downloading-file-click-to-open =
+    .value = Tijaq toq xtitz'aqät…
 
 ##
 
@@ -149,7 +183,7 @@ downloads-cancel-download =
 downloads-history =
     .label = Kekut pe ronojel ri qasan
     .accesskey = K
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Rub'anikil Qasanïk
@@ -159,6 +193,13 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Yakb'äl man xjaq ta.
+       *[other] { $num } taq yakb'äl man xejaq ta.
+    }
+downloads-blocked-from-url = Taq qasanïk eq'aton pa { $url }.
+downloads-blocked-download-detailed-info = { $url } xutojtob'ej xeruqasaj pa ruyonil jalajöj taq yakb'äl. Rik'in jub'a' yojtajinäq ri ruxaq o nutojtob'ej yeruyäk ruyakb'al spam pa ri awoyonib'al.
 
 ##
 
@@ -172,6 +213,15 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Majun ruqasanik re molojri'ïl re'.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } chik yakb'äl nijaq
+       *[other] { $count } chik taq yakb'äl yejaq
+    }
 
 ## Download errors
 
