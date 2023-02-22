@@ -27,3 +27,6 @@ firefox-relay-opt-in-confirmation-enable =
 firefox-relay-opt-in-confirmation-disable =
     .label = Man tik'ut chik pe chwe
     .accesskey = M
+firefox-relay-opt-in-confirmation-postpone =
+    .label = Wakami mani
+    .accesskey = n
