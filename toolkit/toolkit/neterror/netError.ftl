@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Kontrolearje oft { -brand-short-name } ta
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús fertroude DNS-resolver. Dit is de reden:
 neterror-dns-not-found-trr-only-attackers = As jo trochgean, kin in tredde partij mooglik sjen hokker websites jo besykje of jo nei in net-fertroude website stjoere.
+neterror-dns-not-found-trr-third-party-warning = Jo kinne trochgean mei in DNS-resolver dy’t net feilich is. In tredde partij kin lykwols mooglik sjen hokker websites jo besykje
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } koe gjin ferbining meitsje mei { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = De ferbining mei { $trrDomain } duorre langer as ferwachte.
 neterror-dns-not-found-trr-offline = Jo binne net ferbûn mei it ynternet.
