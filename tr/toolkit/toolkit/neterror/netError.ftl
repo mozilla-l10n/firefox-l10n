@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name } tarayıcısının w
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }, güvenilir DNS çözümleyicimiz aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
 neterror-dns-not-found-trr-only-attackers = Devam ederseniz üçüncü taraflar hangi web sitelerini ziyaret ettiğinizi görebilir veya sizi güvenilmeyen bir siteye gönderebilir.
+neterror-dns-not-found-trr-third-party-warning = Güvenli olmayan bir DNS çözümleyici ile devam edebilirsiniz. Bu durumda üçüncü taraflar hangi web sitelerini ziyaret ettiğinizi görebilir.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }, { $trrDomain } adresine bağlanamadı.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ile bağlantı beklenenden uzun sürdü.
 neterror-dns-not-found-trr-offline = İnternete bağlı değilsiniz.
