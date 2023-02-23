@@ -247,18 +247,33 @@ fx100-thank-you-hero-text =
     100
     Matyox
     <span data-l10n-name="zap">chawe</span>
+fx100-thank-you-subtitle = ¡Ja 100 tiqelesaj pe! Matyox ruma yojato' richin niqanük' jun utziläj chuqa' raxinäq k'amaya'l.
+fx100-upgrade-thanks-header = 100 Matyox chawe
+mr2022-onboarding-secondary-skip-button-label = Choj tik'o re jun ruxak re'
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Tiyak chuqa' tisamajïx el
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Tijik' pe pa ri jun kan okik'amaya'l
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Tijaq jun utziläj k'amaya'l
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -267,12 +282,14 @@ fx100-thank-you-hero-text =
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Tijik' pe pa ri jun kan okik'amaya'l
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label-continue = Tijikib'äx chuqa' tisamajïx el
 
 ## MR2022 Multistage Mobile Download screen strings
 
