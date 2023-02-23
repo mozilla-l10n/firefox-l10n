@@ -290,6 +290,14 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Tijik' pe pa ri j
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-primary-button-label-continue = Tijikib'äx chuqa' tisamajïx el
+mr2022-onboarding-existing-colorway-checkbox-label = Tib'an chi ri { -firefox-home-brand-name } jeb'ël rub'onil rutikirisaxik
+mr2022-onboarding-colorway-label-default = K'o wi
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Rub'onil { -brand-short-name } k'o
+mr2022-onboarding-colorway-description-default = <b>Ke'okisäx ri taq rub'onil { -brand-short-name } e k'o.</b>
+mr2022-onboarding-colorway-label-playmaker = Nuk'unel etz'anem
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Nuk'unel etz'anem (käq)
 
 ## MR2022 Multistage Mobile Download screen strings
 
