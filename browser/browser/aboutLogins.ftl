@@ -34,6 +34,8 @@ about-logins-menu-menuitem-help = Помощь
 
 login-list =
     .aria-label = Логины, соответствующие поисковому запросу
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } логин
@@ -89,12 +91,20 @@ login-item-origin =
 login-item-username-label = Имя пользователя
 about-logins-login-item-username =
     .placeholder = (нет имени пользователя)
-login-item-copy-username-button-text = Скопировать
+login-item-copy-username-button-text =
+    { PLATFORM() ->
+        [macos] Скопировать
+       *[other] Копировать
+    }
 login-item-copied-username-button-text = Скопировано!
 login-item-password-label = Пароль
 login-item-password-reveal-checkbox =
     .aria-label = Показать пароль
-login-item-copy-password-button-text = Скопировать
+login-item-copy-password-button-text =
+    { PLATFORM() ->
+        [macos] Скопировать
+       *[other] Копировать
+    }
 login-item-copied-password-button-text = Скопировано!
 login-item-save-changes-button = Сохранить изменения
 login-item-save-new-button = Сохранить
@@ -107,6 +117,8 @@ login-item-time-used = Последнее использование: { DATETIME
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Создан
 login-item-timeline-action-updated = Обновлён
@@ -156,6 +168,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие нельзя отменить.
 about-logins-confirm-remove-dialog-confirm-button = Удалить
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Удалить
@@ -196,6 +212,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name } на всех устройствах, синхронизируемых с вашим { -fxaccount-brand-name(case: "instrumental") }. Также будут удалены появляющиеся здесь предупреждения об утечках. Вы не сможете отменить это действие.
        *[many] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name } на всех устройствах, синхронизируемых с вашим { -fxaccount-brand-name(case: "instrumental") }. Также будут удалены появляющиеся здесь предупреждения об утечках. Вы не сможете отменить это действие.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Экспорт логинов и паролей
 about-logins-confirm-export-dialog-message = Ваши пароли будут сохранены в виде читаемого текста (например, BadP@ssw0rd), поэтому любой, кто может открыть файл с ними, сможет их просмотреть.
 about-logins-confirm-export-dialog-confirm-button = Экспортировать…
