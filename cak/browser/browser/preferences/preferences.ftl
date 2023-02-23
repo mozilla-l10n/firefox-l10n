@@ -981,9 +981,15 @@ content-blocking-all-third-party-cookies = Ronojel kikuki aj rox winäq
 content-blocking-all-cross-site-cookies = Ronojel Kikuki xoch'in taq ruxaq
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Tatojtob'ej ri rokisaxik ichinanem, ri nimaläj pa qab'anob'al
+    .accesskey = t
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-etp-standard-tcp-rollout-learn-more = Tetamäx ch'aqa' chik
 content-blocking-warning-title = ¡Tak'axäx!
 content-blocking-and-isolating-etp-warning-description-2 = Re nuk'ulem re' nitikïr nub'än chi jujun ajk'amaya'l taq ruxaq man nikik'üt ta pe ri rupam o man ütz ta yesamäj jun ruxaq achi'el qupin, rik'in jub'a' nawajo' nachüp ri chajinïk chuwäch ojqanem richin nusamajij ronojel ri rupam.
 content-blocking-warning-learn-how = Tetamäx achike rub'eyal
@@ -1085,6 +1091,10 @@ addon-recommendations-link = Tetamäx ch'aqa' chik
 collection-health-report-disabled = Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'
 collection-backlogged-crash-reports-with-link = Tiya' q'ij chi { -brand-short-name } yerutäq taq rutzijol sachoj emolon pa rub'i' <a data-l10n-name="crash-reports-link">Tetamäx ch'aqa' chik</a>
     .accesskey = s
+privacy-segmentation-radio-off =
+    .label = Tokisäx ruchilab'exik { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Tik'ut pe ri cholajin retamab'al
 
 ## Privacy Section - Security
 ##
