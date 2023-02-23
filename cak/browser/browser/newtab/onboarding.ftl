@@ -298,6 +298,22 @@ mr2022-onboarding-colorway-description-default = <b>Ke'okisäx ri taq rub'onil {
 mr2022-onboarding-colorway-label-playmaker = Nuk'unel etz'anem
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Nuk'unel etz'anem (käq)
+mr2022-onboarding-colorway-description-playmaker = <b>Jun Nuk'unel Etz'anem.</b> Kakanon richin yach'ako chuqa' ye'ato' konojel e k'o chachi' richin nawutzilaj ri ketz'anem.
+mr2022-onboarding-colorway-label-expressionist = Ch'a'onel
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Ch'a'onel (q'än)
+mr2022-onboarding-colorway-description-expressionist = <b>Jun Ch'a'onel.</b> Jun wi natz'ët ri ruwach'ulew chuqa' ri yetz'uk chupam nikik'asoj ri kina'ojib'al ch'aqa' chik.
+mr2022-onboarding-colorway-label-visionary = Ch'akonel
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Ch'akonel (räx)
+mr2022-onboarding-colorway-description-visionary = <b>Jun Ch'akonel.</b> Ke'ach'ab'ej ri nima'q taq winäq richin ye'ak'asb'a' ri ch'aqa' chik richin nikiq'ajun jun utziläj k'aslemal ri chwa'q kab'ij.
+mr2022-onboarding-colorway-label-activist = Ajsamaj
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Ajsamaj (xar)
+mr2022-onboarding-colorway-description-activist = <b>Jun Ajsamaj.</b> Naya' kan ri ruwach'ulew achi'el jun utziläj k'ojlib'äl chuwäch atz'eton pe richin nab'än chi ri ch'aqa' chik tikinimaj.
+mr2022-onboarding-colorway-label-dreamer = Achik'anel
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Achik'anel (tuq')
 
 ## MR2022 Multistage Mobile Download screen strings
 
