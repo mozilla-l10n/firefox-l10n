@@ -60,6 +60,13 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (no inviâ pings)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Jessi sigûr che, tal cjamp che al precêt, e sedi une etichete di debug facile di impensâsi, cussì di podê ricognossi i tiei pings, plui indenant.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Par fâ provis plui <i>specifichis</i>,
+    tu puedis determinâ il valôr atuâl di un specific element de strumentazion
+    vierzint la console dai struments di svilup achì su <code>about:glean</code>
+    e doprant la API <code>testGetValue()</code> come par esempli
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Aplice impostazions e invie ping
 about-glean-about-data-header = Informazions sui dâts
 about-glean-about-data-explanation =
