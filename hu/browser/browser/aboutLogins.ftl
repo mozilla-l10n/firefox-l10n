@@ -7,6 +7,9 @@ about-logins-page-title = Bejelentkezések és jelszavak
 login-filter =
     .placeholder = Bejelentkezések keresése
 create-login-button = Új bejelentkezés létrehozása
+about-logins-login-filter =
+    .placeholder = Bejelentkezések keresése
+    .key = B
 create-new-login-button =
     .title = Új bejelentkezés létrehozása
 fxaccounts-sign-in-text = Érje el jelszavait a többi eszközén is
@@ -34,6 +37,8 @@ about-logins-menu-menuitem-help = Súgó
 
 login-list =
     .aria-label = A keresésnek megfelelő bejelentkezések
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } bejelentkezés
@@ -106,6 +111,8 @@ login-item-time-used = Legutóbb használva: { DATETIME($timeUsed, day: "numeric
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Létrehozva
 login-item-timeline-action-updated = Frissítve
@@ -155,6 +162,10 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Eltávolítja ezt a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
 about-logins-confirm-remove-dialog-confirm-button = Eltávolítás
+
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Eltávolítás
@@ -189,6 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Ez eltávolítja az összes, a { -brand-short-name }ba mentett bejelentkezést, az összes, a { -fxaccount-brand-name }jával szinkronizált eszközéről. Ez eltávolítja az itt megjelenő figyelmeztetéseket is. Ez a művelet nem vonható vissza.
        *[other] Ez eltávolítja az összes, a { -brand-short-name }ba mentett bejelentkezést, az összes, a { -fxaccount-brand-name }jával szinkronizált eszközéről. Ez eltávolítja az itt megjelenő figyelmeztetéseket is. Ez a művelet nem vonható vissza.
     }
+
+##
+
 about-logins-confirm-export-dialog-title = Bejelentkezések és jelszavak exportálása
 about-logins-confirm-export-dialog-message = A jelszavai olvasható szövegként lesznek mentve (például R0sszJel$zó), így bárki megtekintheti, aki meg tudja nyitni az exportált fájlt.
 about-logins-confirm-export-dialog-confirm-button = Exportálás…
