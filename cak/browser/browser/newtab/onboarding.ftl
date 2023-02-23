@@ -314,22 +314,37 @@ mr2022-onboarding-colorway-description-activist = <b>Jun Ajsamaj.</b> Naya' kan 
 mr2022-onboarding-colorway-label-dreamer = Achik'anel
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Achik'anel (tuq')
+mr2022-onboarding-colorway-description-dreamer = <b>Jun Achik'anel.</b> Tanimaj chi ri nawïl yeruto' ri na'onela' chuqa' nub'än chi ri ch'aqa' chik nikiq'i' kuchuq'a'.
+mr2022-onboarding-colorway-label-innovator = Nuk'unel
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Nuk'unel (q'anq'öj)
+mr2022-onboarding-colorway-description-innovator = <b>Jun Nuk'unel.</b> Xab'akuchi' nutz'ët samaj ri k'o ruk'amon pe pa kik'aslem konojel e k'o naqaj.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Tajalala' kokisaxik awoyonib'al chuqa' akematz'ib'
+mr2022-onboarding-no-mobile-download-cta-text = Tatz'ajwachib'ej ri QR b'itz'ib' richin nak'ül { -brand-product-name } kichin awoyonib'al.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Tik'ul rucha'oj ichinam okem pa jun pitz'oj
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Majun kuki chuqa' natab'äl eyakon, jumul pan ach'atal. Katok achi'el majun nitz'eto awichin.
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = Tokisäx ruchilab'exik { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Tik'ut pe ri cholajil rutzijol
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Tatz'eta' ri k'ak'a'
+mr2022-onboarding-gratitude-secondary-button-label = Tichap okem pa k'amaya'l
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Tana' chi at k'o chi jay
+onboarding-infrequent-import-primary-button = Tijik' pa { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
