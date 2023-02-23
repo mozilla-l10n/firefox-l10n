@@ -21,6 +21,7 @@ perftools-heading-features-default = Taq rusamaj (Nichilab'ëx chi ketzij)
 perftools-heading-features-disabled = Chupun taq Samaj
 perftools-heading-features-experimental = Tojtob'enel
 perftools-heading-threads = Chij
+perftools-heading-threads-jvm = JVM Ch'utitajinïk
 perftools-heading-local-build = Ajwawe' moloj
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Runimile wuper:
-
 perftools-custom-threads-label = Ketz'aqatisäx ichinan taq chij chi kib'i':
-
 perftools-devtools-interval-label = Rukojol:
 perftools-devtools-threads-label = Taq chij:
 perftools-devtools-settings-label = Taq nuk'ulem
@@ -98,26 +97,42 @@ perftools-thread-dns-resolver =
 ##
 
 perftools-record-all-registered-threads = Ke'elesäx ri taq cha'oj ajsik chuqa' keyak ronojel ri taq chij etz'ib'an
-
 perftools-tools-threads-input-label =
     .title = Re taq kib'i' chik e jun rucholajem jachon chi chuq', ri ye'okisäx richin yetzij ri kitz'ukik kiwäch kib'i' taq chij pa ri ya'öl ruwäch b'i'aj. Ri rub'i' k'o chi xa xe jun peraj ruk'amon ri' rik'in ri rub'i' chij richin titz'aqatisäx. K'ayew nuna' rik'in ri k'ojlib'äl majun k' chupam.
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>K'ak'a'</b>: { -profiler-brand-name } wakami k'o wi pe pa Kisamajib'al B'anonela'. <a>Tetamäx ch'aqa'</a> chi rij re nïm samajib'äl.
-
 perftools-onboarding-close-button =
     .aria-label = Titz'apïx ri nab'ey rutzijol
 
 ## Profiler presets
 
+
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Nuk'unel ajk'amaya'l
+perftools-presets-web-developer-description = Chilab'en runuk'ulem richin yesamajïx b'ama konojel ri taq ruchokoy okik'amaya'l, rik'in jub'a' uchuq'ab'il.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Chilab'en rajil richin yenuk' taq ruwäch rub'i' { -brand-shorter-name }.
+perftools-presets-graphics-label = Taq wachib'äl
+perftools-presets-graphics-description = Runuk'ulem richin yekanöx sachoj wachib'äl pa { -brand-shorter-name }.
+perftools-presets-media-label = K'ïy k'oxom
+perftools-presets-media-description2 = Runuk'ulem richin yekanöx sachoj k'oxom chuqa' taq silowäch pa { -brand-shorter-name }.
+perftools-presets-networking-label = K'amab'ey
+perftools-presets-networking-description = Runuk'ulem richin yekanöx sachoj taq k'amal pa { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Uchuq'a'
+perftools-presets-power-description = Runuk'ulem richin yekanöx sachoj rokisaxik uchuq'a' pa { -brand-shorter-name }, rik'in jub'a' rokisaxik.
+perftools-presets-custom-label = Ichinan
+
 ##
+
