@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Tiwachib'ëx
     .accesskey = c
-
 select-all =
     .key = A
 menu-select-all =
     .label = Ticha' Ronojel
     .accesskey = R
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Chijun
     .accesskey = C
@@ -43,7 +39,6 @@ general-meta-name =
     .label = B'i'aj
 general-meta-content =
     .label = rupam
-
 media-tab =
     .label = K'ïy k'oxom
     .accesskey = K
@@ -65,19 +60,20 @@ media-dimension =
     .value = Runimilem:
 media-long-desc =
     .value = Nïm cholonem:
+media-select-all =
+    .label = Ticha' Ronojel
+    .accesskey = c
 media-save-as =
     .label = Tiyak Achi'el…
     .accesskey = A
 media-save-image-as =
     .label = Tiyak Achi'el…
     .accesskey = y
-
 perm-tab =
     .label = Taq ya'oj q'ij
     .accesskey = o
 permissions-for =
     .value = Taq ruya'ik q'ij richin:
-
 security-tab =
     .label = Jikomal
     .accesskey = J
@@ -98,22 +94,17 @@ security-view-identity-validity =
     .value = Nik'is ruq'ijul ri:
 security-view-privacy =
     .value = Ichinanem chuqa' natab'äl
-
 security-view-privacy-history-value = ¿La nintz'ët chik re jun ruxaq k'amaya'l re'?
 security-view-privacy-sitedata-value = ¿La yeruyäk na'oj pa nukematz'ib' re ajk'amaya'l ruxaq re'?
-
 security-view-privacy-clearsitedata =
     .label = Keyuj ri taq Kaxlanwäy chuqa' Kitzij Ruxaq K'amaya'l
     .accesskey = K
-
 security-view-privacy-passwords-value = ¿La xeyak ewan taq rutzij re ruxaq k'amaya'l re'?
-
 security-view-privacy-viewpasswords =
     .label = Ketz'et ri yakäl ewan taq tzij
     .accesskey = w
 security-view-technical =
     .value = Etamanel taq B'anikil
-
 help-button =
     .label = Tob'äl
 
@@ -125,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Ja', taq kaxlanwey chuqa' { $value } { $unit } kitzij ruxaq k'amaya'l
 security-site-data-only = Ja', { $value } { $unit } kitzij ruxaq k'amaya'l
-
 security-site-data-cookies-only = Ja', taq kaxlanwäy
 security-site-data-no = Mani
 
@@ -149,7 +139,6 @@ media-video = Silowachib'äl
 media-audio = K'oxomal
 saved-passwords-yes = Ja'
 saved-passwords-no = Mani
-
 no-page-title =
     .value = Majun rub'i' ri ruxaq:
 general-quirks-mode =
@@ -164,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Tokisäx ri ruk'amon wi pe
 security-no-visits = Mani
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -175,7 +163,6 @@ general-meta-tags =
             [one] Meta (1 tag)
            *[other] Meta ({ $tags } tags)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -186,7 +173,6 @@ security-visits-number =
         [one] Ja', jumul
        *[other] Ja'{ $visits } mul
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -197,7 +183,6 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } bit)
            *[other] { $kb } KB ({ $bytes } taq bit)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -209,14 +194,12 @@ media-animated-image-type =
             [one] { $type } Wachib'äl (silon, { $frames } frame)
            *[other] { $type } Wachib'äl (silon, { $frames } taq frame)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Wachib'äl
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -226,32 +209,28 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (jotob'an pa { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
 
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Keq'at taq ruwachib'al { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Na'oj pa ruwi' re ruxaq - { $website }
 page-info-frame =

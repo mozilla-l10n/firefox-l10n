@@ -8,6 +8,9 @@ places-open =
 places-open-in-tab =
     .label = Tijaq pa jun k'ak'a' ruwi'
     .accesskey = k
+places-open-in-container-tab =
+    .label = Tijaq pa K'ak'a' Ruwi' Ajk'wayöl
+    .accesskey = p
 places-open-all-bookmarks =
     .label = Kejaq Ronojel ri taq Yaketal
     .accesskey = K
@@ -72,6 +75,8 @@ places-edit-generic =
 places-edit-folder2 =
     .label = Tinuk' Molyakwuj…
     .accesskey = n
+# Variables
+#   $count (number) - Number of folders to delete
 places-delete-folder =
     .label =
         { $count ->
@@ -89,6 +94,9 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Juley taq Yaketal
+places-show-in-folder =
+    .label = Tik'ut pa Molyakb'äl
+    .accesskey = M
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -99,16 +107,17 @@ places-delete-bookmark =
            *[other] Keyuj Yaketal
         }
     .accesskey = y
+places-untag-bookmark =
+    .label = Tiyuj Etal
+    .accesskey = y
 places-manage-bookmarks =
     .label = Kenuk'samajïx Taq Yaketal
     .accesskey = K
+places-forget-about-this-site-confirmation-title = Timestäx re ruxaq re'
 places-forget-about-this-site-forget = Timestäx
 places-library =
     .title = Wujb'äl
     .style = width:700px; height:500px;
-places-library2 =
-    .title = Wujb'äl
-    .style = min-width:700px; min-height:500px;
 places-library3 =
     .title = Wujb'äl
 places-organize-button =
