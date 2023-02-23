@@ -281,6 +281,7 @@ mr2022-onboarding-set-default-primary-button-label = ຕັ້ງ { -brand-short
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = ຕັ້ງຄ່າໃນບໍ່ເທົ່າໃດວິນາທີ
 
 ## MR2022 Import Settings screen strings
 
@@ -291,6 +292,8 @@ mr2022-onboarding-import-primary-button-label-no-attribution = ນໍາເຂ�
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = ເລືອກສີທີ່ດົນໃຈທ່ານ
+mr2022-onboarding-colorway-subtitle = ສຽງທີ່ເປັນເອກະລາດສາມາດປ່ຽນແປງວັດທະນະທໍາ.
 mr2022-onboarding-colorway-primary-button-label-continue = ກໍານົດ ແລະ ສືບຕໍ່
 mr2022-onboarding-existing-colorway-checkbox-label = ເຮັດໃຫ້ { -firefox-home-brand-name } ເປັນຫນ້າທໍາອິດທີ່ມີສີສັນຂອງທ່ານ
 mr2022-onboarding-colorway-label-default = ຄ່າພື້ນຖານ
