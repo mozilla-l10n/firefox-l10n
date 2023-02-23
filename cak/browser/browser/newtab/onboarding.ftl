@@ -114,6 +114,15 @@ mr1-onboarding-import-secondary-button-label = Wakami mani
 mr2-onboarding-colorway-header = K'aslem pa b'onil
 mr2-onboarding-colorway-primary-button-label = Tiyak rutunik b'onil
 mr2-onboarding-colorway-secondary-button-label = Wakami mani
+mr2-onboarding-colorway-label-soft = Qajnäq
+mr2-onboarding-colorway-label-balanced = Nik'aj
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Jotöl
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Yonil
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = K'o wi
 mr1-onboarding-theme-header = Tab'ana' awichin chi re
 mr1-onboarding-theme-subtitle = Tawichinaj { -brand-short-name } rik'in jun wachinel.
 mr1-onboarding-theme-primary-button-label = Tiyak wachinel
@@ -124,6 +133,7 @@ mr1-onboarding-theme-label-light = Säq
 mr1-onboarding-theme-label-dark = Q'ëq
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Xk'is
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -170,9 +180,33 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Tokisäx jun silonel chuqa' k'o rub'onil wachinel kichin taq pitz'b'äl,
         taq k'utsamaj chuqa' taq tzuwäch.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Tokisäx re tunïk b'onil re'.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Tokisäx re tunïk b'onil re'.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Kenik'öx rutunik rub'onil { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Kenik'öx rutunik rub'onil { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Kenik'öx wachinel e k'o wi.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Kenik'öx wachinel e k'o wi.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Matyox ruma ojacha'on
+mr2-onboarding-start-browsing-button-label = Tichap okem pa k'amaya'l
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -191,9 +225,28 @@ mr1-onboarding-theme-description-alpenglow =
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-header = Tacha' ach'ab'äl
+mr2022-onboarding-live-language-text = { -brand-short-name } nuch'ab'ej ach'ab'äl
+onboarding-live-language-waiting-button = Yek'ut pe ri taq ch'ab'äl e k'o…
+onboarding-live-language-installing = Niyak ri tanaj ruch'ab'äl { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = Tijal rik'in { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Tisamajïx pa { $appLanguage }
+onboarding-live-language-secondary-cancel-download = Tiq'at
+onboarding-live-language-skip-button-label = Tik'o'
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    Matyox
+    <span data-l10n-name="zap">chawe</span>
 
 ## MR2022 New User Easy Setup screen strings
 
