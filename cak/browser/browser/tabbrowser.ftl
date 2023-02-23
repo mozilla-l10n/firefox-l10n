@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = K'ak'a' Ruwi'
+tabbrowser-empty-private-tab-title = K'ak'a' ichinan ruwi'
 tabbrowser-menuitem-close-tab =
     .label = Titz'apïx ruwi'
 tabbrowser-menuitem-close =
@@ -67,6 +68,14 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title =
+    { $tabCount ->
+        [one] ¿ La nitz'apïx { $tabCount } ruwi'?
+       *[other] ¿ La yetz'apïx { $tabCount } ruwi'?
+    }
 tabbrowser-confirm-close-tabs-button = Ketz'apïx Ruwi'
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.

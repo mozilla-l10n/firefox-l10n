@@ -34,9 +34,29 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Titz'aqatisäx re ruxaq re' pa taq yaketal…
     .accesskey = T
+synced-tabs-context-open-in-tab =
+    .label = Tijaq pa jun K'ak'a' Ruwi'
+    .accesskey = K
+synced-tabs-context-open-in-container-tab =
+    .label = Tijaq pa K'ak'a' Ruwi' Ajk'wayöl
+    .accesskey = p
+synced-tabs-context-open-in-window =
+    .label = Tijaq pa K'ak'a' Tzuwäch
+    .accesskey = K
+synced-tabs-context-open-in-private-window =
+    .label = Tijaq pa K'ak'a' Ichinan Tzuwäch
+    .accesskey = I
 
 ##
 
+# Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+# and/or devices in the list. This string is for a menuitem equivalent to one in
+# the tab context menu (activated by right-clicking a tab in the tabstrip). That
+# string is located in tabContextMenu.ftl. So, this string should be translated
+# consistently with the "Bookmark Tab…" string there.
+synced-tabs-context-bookmark =
+    .label = Tiyaketalïx Ruwi'…
+    .accesskey = y
 synced-tabs-context-copy =
     .label = Tiwachib'ëx
     .accesskey = c
