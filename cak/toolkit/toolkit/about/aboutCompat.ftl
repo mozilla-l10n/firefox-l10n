@@ -5,6 +5,8 @@
 label-disable = Tichup
 label-enable = Titzij
 label-interventions = Taq majoj
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Ch'aqa' chik Etamab'äl: Sachoj { $bug }
 label-overrides = Taq Ruyujuj Rub'anel Winäq
 text-disabled-in-about-config = Re rub'anikil re' xchup pa about:config
@@ -18,3 +20,4 @@ text-title = about:compat
 ## breakage. SmartBlock also contains special fixes for sites broken by
 ## Firefox's Total Cookie Protection feature.
 
+label-smartblock = Ruchojmirisanik SmartBlock
