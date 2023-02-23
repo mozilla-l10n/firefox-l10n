@@ -29,3 +29,4 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code> : { $glean-android-d
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-define-value }
 about-glean-about-testing-header = Chi rij ri Tojtob'enïk
+about-glean-about-data-header = Chi rij ri Tzij
