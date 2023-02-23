@@ -80,6 +80,11 @@ tabbrowser-confirm-close-tabs-button = Ketz'apïx Ruwi'
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Titz'apïx chuqa' tel
+       *[other] Titz'apïx chuqa' tel
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
