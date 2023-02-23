@@ -47,6 +47,13 @@ about-glean-about-testing-header = Ñeha’ã rehegua
 about-glean-no-ping-label = (aníke emondo ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Kora mboyvegua, ehecháke toĩ ñemboguaha reramoĩ hasy’ỹva iñemomandu’a eikuaa porã hag̃ua pings tenondeve.
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Eikutu votõ mboyvegua embohéra hag̃ua opaite pings { -glean-brand-name } rehegua teramoĩ ndive ha emondo ping poravopyre.
+    (Opaite ping mondopyre upe guive oñepyrũjey peve tembipuru’i heramoĩta
+    <code>{ $debug-tag }</code> ndive.)
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Eike kuatiaroguépe { glean-debug-ping-viewer-brand-name } ehecha hag̃ua umi ping nde reramoĩ reheve </a>.
     Ndoguerahamo’ãi heta aravo’ive votõ ejopy’ypy guive og̃uahẽ peve pe ping.
